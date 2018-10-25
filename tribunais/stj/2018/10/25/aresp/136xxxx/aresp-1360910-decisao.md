@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. 1. LEGITIMIDADE PASSIVA. SÚMULA 7/STJ. 2. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 248 DO CC. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Fundo de Investimento em Direitos Creditórios Não-Padronizados NPL I contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o agravado ajuizou ação indenizatória, julgada parcialmente procedente.
+Interposta apelação pelo ora insurgente, a Trigésima Terceira Câmara Extraordinária de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 128):
+Inexigibilidade de débito e dano moral - Inexistência de relação jurídica entre as partes - Prova do vinculo - Inexistência - Prova da condição e legitimação - Ônus do réu Não atendimento - Arts. 333, II, e 334, II, do Código de Processo Civil - Indicação pelo réu do sujeito passivo da relação jurídica discutida - Artigo 339 do CPC - Não ocorrência - Condição do réu que pela igualdade de atuação (fundo de investimento em direitos creditórios) por conta de crédito transferido pelo credor primitivo permitia a providência - Reconhecimento de capacidade de direito e por decorrência capacidade postulatória ativa e passiva - Dever de suportar as consequências da lide e obrigação imposta, preservado o direito de regresso - Artigo 934 do Código Civil - Reconhecimento.
+Recurso não provido.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente alegou violação dos arts. 248 e 927 do Código Civil.
+Sustentou, em síntese, que não firmou nenhum contrato com o agravado nem lançou o nome deste em cadastro restritivo de crédito, razão pela qual deve ser reconhecida sua ilegitimidade passiva.
+Asseverou, ainda, a impossibilidade do cumprimento da obrigação, bem como a ausência de ilicitude da sua conduta.
+Sem contrarrazões, fl. 144 (e-STJ).
+O processamento do apelo nobre não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+No caso, o Tribunal de Justiça, com base em todo o acervo fático-probatório, concluiu pela legitimidade passiva do recorrente, conforme se observa do trecho a seguir transcrito (e-STJ, fl. 130):
+Nesse sentido o teor da r. sentença de Primeiro Grau, "..Legitimidade processual é, em regra, reflexo da verificação dos sujeitos envolvidos na relação de direto material. No caso em apreço, a relação de direito material é qualificada pela inclusão indevida do nome do autor no cadastro dos órgãos de proteção ao crédito (fl. 27), figurando o "Fundo de Investimento" como responsável. E mais, ainda que verossímil a alegação do demandado, incumbia a ele indicar o sujeito passivo (se dizente outro fundo de investimento) da relação jurídica discutida, fato este possível administrativamente a ser obtido junto aos órgãos de proteção ao crédito (prescindido da intervenção do juízo), nos termos do art. 339, do CPC/15, sob pena de arcar com as despesas processuais e de indenizar o autor pelos prejuízos decorrentes da falta de indicação".
+Dessa forma, para o acolhimento do recurso, seria imprescindível derruir a conclusão contida no decisum atacado, o que, forçosamente, demandaria a rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+Em relação à ofensa ao art. 248 do CC, constata-se que a matéria inserta no referido dispositivo não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração a fim de provocar o pronunciamento do Colegiado.
+É entendimento assente neste Superior Tribunal a exigência do prequestionamento dos temas suscitados no especial, de que tratam os dispositivos tidos por ofendidos, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356/STF. A propósito: AgRg no AgRg no Ag n. 1.047.616/SC, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 26/11/2013, DJe 19/12/2013.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA E AÇÃO CONSIGNATÓRIA. COMPRA E VENDA DE IMÓVEL. CLÁUSULA RESOLUTIVA EXPRESSA. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE MANIFESTAÇÃO JUDICIAL PARA A RESOLUÇÃO DO CONTRATO. RECURSO NÃO PROVIDO.
+1. Observa-se que o tema inserto nos arts. 474 e 475, do Código Civil não foi objeto de debate pela Corte local, tampouco foram opostos embargos de declaração, nesse ponto, a fim de suprir eventual omissão. É entendimento assente no Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. De qualquer forma, a jurisprudência do STJ entende que é imprescindível a prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda de imóvel para que seja consumada a resolução do contrato, ainda que existente cláusula resolutória expressa, diante da necessidade de observância do princípio da boa-fé objetiva a nortear os contratos. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1278577/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/09/2018, DJe 21/09/2018)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Publique-se.
