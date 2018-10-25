@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0007007-03.1999.8.26.0156) assim ementado:
+APELAÇÃO - HOMICÍDIO SIMPLES - Preliminares de nulidade - Não atendimento a pleito de redesignação da sessão plenária - Testemunha defensiva que, mudando de endereço, não foi intimada a tempo de comparecer - Ônus que cabia à defesa, que tinha contato eletrônico com tal testemunha, padrasto do réu - Rejeição - Necessidade - Alegação de decisão manifestamente contrária à prova dos autos " Inocorrência - Decisão dos jurados lastreada nas provas - Princípio da soberania dos veredictos - Em segunda instância, incabível a profunda valoração das provas - Crime privilegiado - Inexistência das circunstâncias legais - Desclassificação para a modalidade culposa - Descabimento - Dolo configurado - Dosimetria - Culpabilidade, personalidade e circunstâncias do crime que justificam exasperação - Regime fechado de rigor - Preliminares rejeitadas, desprovimento do recurso defensivo e provimento ao do AMP, com determinação de imediata expedição de mandado de prisão e, ainda, determinação de expedição de ofícios (fl. 40).
+Consta dos autos que o paciente foi condenado pela prática do delito tipificado no art. 121, caput, do Código Penal, à pena de 7 anos de reclusão, em regime inicial semiaberto.
+Ambas as partes apelaram. O Tribunal deu provimento apenas ao recurso do Ministério Público para majorar a pena para 8 anos e 6 meses, em regime fechado, tendo determinando, também, a expedição imediata de mandado de prisão contra o paciente.
+Impetrado o HC n. 391880/SP em favor do mesmo paciente, esta relatoria houve por bem em deferir pedido de liminar apenas para assegurá-lo o direito de aguardar em liberdade o esgotamento das vias recursais ordinárias, perante o Tribunal de origem.
+No presente writ, o impetrante sustenta a ilegitimidade do assistente de acusação para manejar recurso de apelação quando a controvérsia diz respeito apenas à dosimetria da pena; e aduz que a pena-base foi exasperada com suporte em fundamentos inidôneos.
+Requer, em liminar, a concessão de salvo conduto ao paciente para que possa aguardar em liberdade o julgamento do presente habeas corpus, considerando o iminente julgamento dos embargos de declaração opostos; subsidiariamente, o direito de aguardar o julgamento do presente writ em prisão domiciliar e, no mérito, a anulação da sentença, bem como do acórdão do Tribunal de Justiça de São Paulo, na parte em que aumentaram a pena-base do paciente, fixando-a no mínimo legal.
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque a matéria objeto do presente mandamus foi apreciada no REsp n. 1.730.108/SP. Desse modo, constata-se a perda superveniente do objeto da presente impetração.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
