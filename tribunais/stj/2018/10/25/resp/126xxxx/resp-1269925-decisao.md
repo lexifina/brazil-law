@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL - EXECUÇÃO - SISTEMA BACEN JUD - INDISPONIBILIDADE DE BENS E ATIVOS FINANCEIROS - ART. 11 DA LEI N. 6.830/80 E 655, I, DO CPC .
+1. A Legislação Processual oportuniza ao devedor, após citado, ofertar bem à penhora, suficiente e idôneo para garantir a pretensão executiva. Omisso o devedor, a mesma legislação impõe ao Estado promover a constrição de bens visando à efetividade da pretensão executiva judicial instaurada. E para cujo propósito, além de listar a precedência de ativos financeiros dentre outros bens (art. 11 da Lei n. 6.830/80 e 655, I, do CPC), igualmente autoriza sua constrição judicial através de penhora eletrônica, diretamente realizada em instituições financeiras depositárias - Sistema BACENJUD (art. 655-A do CPC).
+ ..
+3. Admissível, emprestando eficácia ao quanto estabelece o art. 620 do CPC, a substituição dos ativos financeiros penhorados, por bem de outra natureza, ainda que inobservada a ordem legal de preferência, mas idôneo à satisfação da pretensão executiva ou sua garantia.
+4. No caso em exame, vê-se que a exeqüente requereu a penhora de ativos financeiros concomitantemente à citação, contexto que não oportuniza ao executado garantir a pretensão executiva contra ele instaurada, contexto que afasta a aplicação do art. 53 da Lei nº 8.212/91, ao caso em tela.
+5. Agravo de Instrumento improvido.
+Opostos embargos de declaração, foram rejeitados com o seguinte acréscimo (e-STJ fl. 112):
+Com efeito, mesmo nas execuções fiscais, não há que se cogitar em bloqueio de ativos financeiros, antes da citação da parte devedora e da faculdade legal (LEF, arts. 8º/10) da executada de indicar bens à penhora.
+Não há que se falar, portanto, em ofensa ao art. 53 da Lei 8.212/91 ou ao art. 652, § 2º, do CPC. No ponto, vale a pena reafirmar a seguinte diretriz da colenda Sétima Turma:
+A recorrente alega violação dos arts. 481, 535, 620, 652, § 2º, 655, I, e 655-A do CPC/1973, do art. 53 da Lei n. 8.212/1991 e dos arts. 8º, 9º, III, 10º e 11 da Lei n. 6.830/1980, defendendo a possibilidade de, em execução fiscal, indicar à penhora valores que seriam pagos a acionistas e diretores a título de lucros, dividendos, bonificações e juros sobre o capital próprio; ato esse a ser efetivado por ocasião da citação da sociedade empresária da devedora. Ao final, acresce (e-STJ fl. 128):
+Evidenciada a notória saúde financeira da empresa e sua disponibilidade para garantir suas dívidas tributárias com dinheiro, tanto é que está distribuindo vultosas somas em dinheiro aos acionistas e recomprando ações, incorporando outras empresas, questiona-se o porquê de a União ser obrigada a aceitar a oferta à penhora de bens que ocupam posições desprivilegiadas na ordem legal prevista no art. 11 da Lei de Execuções Fiscais, em nítida afronta ao art. 656 do CPC, que estatui que será ineficaz a nomeação de bens à penhora se não obedecida a ordem legal prevista.
+Ora, Excelência, a BRASKEM só vem a juízo para insurgir-se contra a penhora de bem preferencial e, quando oferta bem à penhora, apresenta sempre bens de seu Parque Industrial ou "etano", gás altamente volátil utilizado em sua produção industrial e cuja alienação é inviável, se considerada a estrutura do setor no mercado nacional, além dos altos custos de depósito do bem.
+Claro está, assim, que a empresa utiliza a oferta à penhora para retardar o andamento do processo e impedir a satisfação dos interesses da parte credora, com afronta à celeridade e à economia processual e, principalmente, ao princípio segundo o qual a execução se volta à satisfação dos interesses da parte credora.
+Sem contrarrazões pela BRASKEN S.A. (e-STJ fl. 156).
+Recurso especial admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que, em consulta ao sítio eletrônico do TRF da 1ª Região, verifica-se que a execução fiscal, da qual originado o acórdão recorrido, foi extinta, sem julgamento de mérito, por cancelamento da inscrição em dívida ativa.
+Embora a parte recorrente nada tenha comunicado a este Tribunal, percebe-se que a pretensão está prejudicada, por perda superveniente do interesse recursal.
+Ante o exposto, com base no art. 34, XI, do RI-STJ, JULGO PREJUDICADO o recurso especial.
+Publique-se. Intimem-se.
