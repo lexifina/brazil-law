@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão proferida pelo Tribunal de Justiça que não admitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 318/319, in verbis:
+Trata-se de AGRAVO DE INSTRUMENTO (cfr. fls. 2/9), interposto contra Despacho da 3ª Vice-Presidente do Colendo Tribunal de Justiça do Estado de Minas Gerais (cfr. fls. 298/299), que negou seguimento ao Recurso Especial sob o fundamento de que o debate sobre o decote de qualificadora na sentença de pronúncia impõe o reexame dos aspectos fáticos e circunstanciais da causa.
+A Paciente foi denunciada pela prática do delito previsto no art. 121, § 2o, I e IV, c/c art. 14, II, ambos do Código Penal, tendo o MM. Juízo de Primeiro Grau proferido sentença de pronúncia.
+Inconformada, a Defesa interpôs Recurso em Sentido Estrito, aduzindo insuficiência de provas da autoria, a defesa requereu a impronúncia e, subsidiariamente, a exclusão das qualificadoras, pedindo, por fim, a revogação da prisão preventiva.
+O Tribunal a quo, por sua vez, proveu o Recurso em parte, ementando, para tanto, o seguinte:
+"JÚRI - PRONÚNCIA - HOMICÍDIO - ABSOLVIÇÃO POR NEGATIVA DE AUTORIA OU DESCLASSIFICAÇÃO POR INEXISTÊNCIA DE ANIMUS NECANDI - DESACOLHIMENTO - PREVALÊNCIA DO PRINCÍPIO IN DÚBIO PRO SOCIETATE - EMBRIAGUEZ VOLUNTÁRIA - EXCLUSÃO DA IMPUTABILIDADE PENAL - IMPOSSIBILIDADE - QUALIFICADORA - CRIME CONTRA CRIANÇA - RECURSO QUE DIFICULTA A DEFESA PELA CONDIÇÃO DA VÍTIMA - NÃO OCORRÊNCIA - EXCLUSÃO - RECURSO PROVIDO EM PARTE - VOTO VENCIDO"
+Ao final, o parquet opinou pelo provimento do agravo (e-STJ fl. 322).
+É o relatório.
+Decido.
+Sustenta o agravante que, in verbis (e-STJ fl. 8):
+1) em sede de pronúncia, somente se admite o decote das qualicadoras manifestamente improcedentes, sob pena de se retirar do Tribunal de Júri a possibilidade de analisar o delito em sua integralidade;
+2) a doutrina e a jurisprudência admitem o reconhecimento da aludida qualificadora em hipóteses em que a vítima é atacada quando se encontra drogada, embriagada ou dormindo, ainda que tais circunstâncias não tenham sido provocadas pelo agente;
+3) a qualificadora do recurso que impossibilitou a defesa da vítima (artigo 121, § 2º, inciso IV, do CP) pode ser reconhecida a partir da condição da vítima, desde que esta influencie na sua capacidade de esboçar reação à conduta do agente, tal como se verifica na hipótese dos autos;
+4) a violação ao artigo 413, caput e seu § 1º, do CPP, foi argüida nos embargos declaratórios de fls. 192/197, tendo os mesmos sido conhecidos e a matéria analisada no acórdão de fls. 199/202, muito embora não haja sido acolhido o recurso.
+Requer, ao final, o provimento do presente agravo de instrumento e do recurso especial, para que seja restabelecida, na decisão de pronúncia, a qualificadora do art. 121, IV, do Código Penal.
+No ponto, o Tribunal de origem consignou o seguinte (e-STJ fls. 248/249):
+Relativamente à qualificadora do homicídio mediante a utilização de recurso que dificultou a defesa da vítima, seu reconhecimento na pronúncia tem como fundamento a condição da vítima, criança de tenra idade, e a superioridade de forças daí decorrente.
+Todavia, a qualificação do homicídio pela utilização de recurso que dificulta a defesa da vitima traduz-se no modo insidioso de agir do agente, que oculta da vítima sua intenção criminosa, e não pelas condições pessoais do ofendido.
+ ..
+A qualificadora em questão tem o escopo de punir com maior severidade a conduta daquele que age com deslealdade, o que não se identifica com a condição da vitima. Do contrário, qualquer meio empregado para atentar contra a vida de um infante caracterizaria a qualificadora em questão, o que não se pode aceitar como razoável.
+O crime praticado contra criança, enquanto condição de maior vulnerabilidade, sobretudo se agente é ascendente da vitima, revela maior reprovabilidade da conduta, que certamente deve repercutir na pena final, mas não como qualificadora e sim como circunstâncias agravantes (art. 61,II, e e h, do CP).
+Portanto, ainda que se possa, num primeiro momento, julgar que a ré dificultou a defesa da vítima, uma análise um pouco mais cuidadosa dos fatos não permite que assim se considere, o que impõe, com efeito, o afastamento da qualificadora.
+Embora não seja recomendável a exclusão de qualificadora proposta na denúncia, o Juiz pode fazê-lo quando a mesma for manifestamente improcedente, sem que isso implique em ofensa à soberania do Tribunal do Júri.
+E ainda (e-STJ fl. 268):
+Inexiste qualquer obscuridade nos fundamentos da decisão embargada, na qual se privilegiou o entendimento de que a qualificação do homicídio pelo emprego do recurso que dificulta a defesa da vítima deve traduzir-se não a partir da condição da vítima (criança), mas pelo modo de agir do agente, a tal ponto insidioso, comparável à traição, à emboscada e à dissimulação.
+Ainda que se possa avaliar o ato da mãe de jogar a filha em um córrego como revelador de circunstância que lhe dificulta a defesa, não foi esta a circunstância à qual se atribuiu a qualificação na denúncia e na decisão de pronúncia, mas sim o fato da vítima contar com apenas dois anos de idade.
+Neste caso, conforme ponderei, qualquer meio empregado para atentar contra a vida de um infante caracterizaria a qualificadora em questão, o que não se pode aceitar como razoável.
+Do exame dos excertos supratranscritos, verifica-se que o agravante deixou de impugnar, nas razões do apelo nobre, o fundamento adotado pelo Tribunal de origem, segundo o qual "o crime praticado contra criança, enquanto condição de maior vulnerabilidade, sobretudo se agente é ascendente da vítima, revela maior reprovabilidade da conduta, que certamente deve repercutir na pena final, mas não como qualificadora e sim como circunstâncias agravantes (art. 61, II, e e h, do CP)" - e-STJ fl. 249.
+Não se desincumbiu, outrossim, de contestar a ponderação consignada pela Corte local de que, a sustentar o raciocínio de que, no caso, incidiria a qualificadora do recurso que dificultou a defesa da vítima, "qualquer meio empregado para atentar contra a vida de um infante caracterizaria a qualificadora em questão, o que não se pode aceitar como razoável" (e-STJ fl. 268).
+Dessa forma, uma vez que o agravante não impugnou especificamente os suscitados fundamentos, que, por si só, são suficientes para manter a decisão recorrida, é forçoso o reconhecimento do óbice da Súmula n. 283/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1597699/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROGRESSÃO DE REGIME. NULIDADE DA DECISÃO DO JUÍZO DAS EXECUÇÕES. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA N. 283 DO STJ. NOVO EXAME DO APENADO POR MÉDICO PARTICULAR. SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A falta de impugnação a fundamento do acórdão recorrido, suficiente para a manutenção do decisum, justifica a aplicação da Súmula n. 283 do STJ.
+2. Para afastar a conclusão motivada do acórdão estadual - desnecessidade de realização de novo exame criminológico por médico particular para fins de progressão de regime, porquanto o apenado não registra intercorrência em seu histórico carcerário e os "exames psicossociais realizados intramuros" são favoráveis a ele -, seria necessário o reexame de elementos fáticos e probatórios dos autos, providência inadmissível na via do recurso especial. Súmula n. 7 do STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 903.700/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2016, DJe 16/08/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
