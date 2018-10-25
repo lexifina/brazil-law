@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. A Turma recursal, reformando em parte o entendimento do Juízo, julgou improcedente o pedido de conversão de especial em comum para fins de contagem recíproca de tempo de serviço, considerando tratar-se de trabalhador da iniciativa privada posteriormente ingresso no serviço público. No extraordinário, o recorrente alega violação dos artigos 5º, inciso XXXVI, 40, § 4º, inciso III, e § 12, e 201, § 1º e § 9º, da Constituição Federal. Entende violado o direito adquirido ao cômputo do tempo de serviço na forma pleiteada.
+    2. Eis os fundamentos da decisão recorrida
+    Registro que, embora este Juízo não desconheça o posicionamento estabelecido pelo STF no RE 603581 AgR/SC (‘o servidor que laborou em condições insalubres, quando regido pelo regime celetista, pode somar esse período, ainda que convertido em tempo de atividade comum, com a incidência dos acréscimos legais,ao tempo trabalhado posteriormente sob o regime estatutário, inclusive para fins de aposentadoria e contagem recíproca entre regimes previdenciários distintos’) e pela TNU quando da edição da Súmula 66 (‘o servidor público ex-celetista que trabalhava sob condições especiais antes de migrar para o regime estatutário tem direito adquirido à conversão do tempo de atividade especial em tempo comum, com o devido acréscimo legal, para efeito de contagem recíproca no regime previdenciário próprio dos servidores públicos’), entendo-o por inaplicável ao caso sub judice, ante à ausência de similitude fática.
+    Isso porque a situação versada nos autos ão se refere a servidor público, antes celetista, que migrou para o regime estatutário, trata-se de profissional da iniciativa privada que posteriormente ingressou na Universidade Federal de Santa Maria/UFSM, passando, portanto, a integrar o Regime Próprio da Previdência Social.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 25 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
