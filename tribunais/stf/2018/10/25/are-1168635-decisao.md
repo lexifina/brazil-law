@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — LEGISLAÇÃO LOCAL —INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido formulado em ação de ressarcimento de danos ao erário, considerado o indevido pagamento de horas extras a servidor ocupante de cargo em comissão, aludindo à legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, 7º, incisos VIII e XVI, 39, § 3º, e 93, inciso IX, da Constituição Federal. Diz cabível o pagamento para todos os servidores, independentemente da forma de contratação.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal.
+    No mais, eis a síntese da decisão recorrida:
+    AÇÃO RESSARCITÓRIA DE DANOS. PAGAMENTO DE HORAS EXTRAORDINÁRIAS. CARGO EM COMISSÃO
+    O servidor nomeado para exercer cargo em comissão não faz jus à percepção de horas extraordinárias, dada a relação de confiança estabelecida para a nomeação e que pressupõe devotamento maior ao serviço que o exigido dos demais servidores de diversa espécie de provimento.
+    Situação peculiar adicional, reconhecida pela própria lei aplicável ao caso, que vedou o pagamento da versada gratificação a esses servidores nomeados para cargo em provimento em comissão.
+    Este Tribunal de Justiça tem adotado, frequentemente, o critério de considerar o valor coevo do salário mínimo como limite Inferior da moldura da fixação honorária. E esse critério não parece deva afastar-se no caso sob exame.
+    Não provimento do apelo da requerida. Acolhimento parcial do recurso da Fazenda.
+    O Colegiado de origem julgou a apelação a partir de interpretação conferida a normas locais, procedendo à análise da Lei municipal nº 223/74. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 25 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
