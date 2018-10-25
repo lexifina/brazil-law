@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “EMENTA: PROFESSOR ESTADUAL - ANULAÇÃO DO ADICIONAL TRINTENÁRIO - AUSÊNCIA DE PROCESSO ADMINISTRATIVO PRÉVIO - OFENSA AO CONTRADITÓRIO E AMPLA DEFESA - DESCONTOS INDEVIDOS EM FOLHA - RETITUIÇÃO - DECADÊNCIA - OCORRÊNCIA. A Administração pode e deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados, porém, os direitos adquiridos e o prazo decadencial de cinco anos, previstos na Lei Estadual n. 14.184 de 31/01/2002 e Lei Federal 9.784, de 29 de janeiro de 1999” (pág. 156 do documento eletrônico 1).
+    Os embargos de declaração que se seguiram foram rejeitados (pág. 177 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 1°, 2°, 5°, XXXVI e LV, 18, 37, caput, e 61, § 1°, II, a e c, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG/MT (Tema 660), da relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ademais, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional federal e local incidente, – o que é vedado pelas Súmulas 279/STF e 280/STF – sendo certo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 25 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
