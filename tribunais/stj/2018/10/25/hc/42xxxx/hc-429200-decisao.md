@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso, impetrado em favor de RENAN ROMAO MARINHO e de GUILHERME CARDIM BENETTI, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que julgou prejudicado o HC 2209890-52.2017.8.26.0000, nos termos da seguinte ementa:
+"Habeas Corpus visando a imediata remessa de guias de recolhimento, a fim de permitir a postulação de benefício na execução criminal. Informação de que as guias foram encaminhadas ao juízo da execução. Ordem prejudicada (e-STJ, fl. 30).
+Neste writ, a defesa alega que, em razão da expedição tardia e equivocada das cartas de guia, os pacientes estão cumprindo pena em regime mais severo.
+Salienta que "os pacientes já preenchem o requisito temporal suficiente para que se efetive o pleito de progressão de regime, daí o patente constrangimento ilegal, uma vez que não há processo de execução provisória da pena formado".
+Requer, liminarmente e no mérito, a imediata formação da execução e progressão dos pacientes ao regime aberto.
+O pedido liminar foi indeferido (e-STJ, fl. 42).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 58-60).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+Ao analisar a questão, o TJSP entendeu que a ordem estava prejudicada, pois as guias de recolhimento já teriam sido encaminhadas, in verbis:
+"O exame de mérito do presente "habeas corpus" está prejudicado.
+A impetração pretendia a imediata expedição da guia de recolhimento provisória dos ora pacientes. No entanto, segundo as informações, que se presumem verdadeiras (JOSÉ FREDERICO MARQUES, Elementos de Direito Processual Penal, vol. IV, Bookseller, 1997, pág. 391), as guias de recolhimento foram encaminhadas, em 4 de outubro último, ao juízo da execução.
+Deste modo, o provimento jurisdicional perseguido não mais se mostra necessário, pelo que falta interesse de agir na espécie.
+Registre-se que, diante deste quadro, não é o caso de se determinar que os pacientes aguardem a formação da execução em regime aberto. Em havendo já execução encetada, há que se observar o teor do título executivo" (e-STJ, fl. 31.)
+De igual modo, o pleito de progressão de regime não foi analisado pela Corte, o que impede seu conhecimento pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENSÃO DE NULIDADE DOS ATOS PROCESSUAIS POSTERIORES À SENTENÇA. AUSÊNCIA DE INTIMAÇÃO DO RÉU E DO DEFENSOR CONSTITUÍDO DA SENTENÇA CONDENATÓRIA. MATÉRIA NÃO CONHECIDA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A matéria debatida neste writ - nulidade dos atos posteriores à sentença por ausência de intimação do réu e do seu defensor constituído nos autos da sentença condenatória -, ainda que de ordem pública, não foi, em nenhum momento, objeto de exame pelas instâncias ordinárias, até porque nem sequer foi abordada na apelação interposta pela Defensoria Pública, razão pela qual não pode ser originariamente conhecida no âmbito desta Corte Superior de Justiça (art. 105, II, "a", da Constituição Federal), sob pena de indevida supressão de instância.
+2. É cabível a análise, em habeas corpus, da questão suscitada perante a Corte estadual e aqui reiterada, qual seja, a almejada intimação pessoal da sentença condenatória (ou na pessoa do seu defensor, caso solto o réu), visto que essa matéria não requer análise de controvérsia factual nem demanda produção de provas.
+3. Agravo regimental não provido." (AgRg no HC 71.499/DF, rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, j. 17/9/2015, DJe 9/10/2015, grifou-se.)
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE TRÁFICO DE ENTORPECENTES. PARTICIPAÇÃO DE MENOR. FLAGRANTE CONVERTIDO EM PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA, NULIDADE DAS PROVAS E CLASSIFICAÇÃO JURÍDICA DOS FATOS. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM NO ACÓRDÃO COMBATIDO. SUPRESSÃO DE INSTÂNCIA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. CIRCUNSTÂNCIAS DO DELITO. GRAVIDADE. POTENCIALIDADE LESIVA DAS INFRAÇÕES. GARANTIA DA ORDEM PÚBLICA. CUSTÓDIA FUNDAMENTADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COAÇÃO ILEGAL NÃO DEMONSTRADA. WRIT NÃO CONHECIDO.
+1. O STF passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada a sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da aventada nulidade das provas produzidas, do alegado excesso de prazo para a custódia cautelar, bem como da desnecessidade da constrição em razão da classificação equivocada da conduta imputada ao paciente - uma vez que este seria mero usuário de drogas -, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido.
+3. Não há coação na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que a medida se mostra necessária para a preservação da ordem pública, dada a gravidade das condutas incriminadas e o risco efetivo de perpetuação das atividades de traficância.
+4. A variedade, a quantidade de porções e a natureza altamente lesiva de um dos estupefacientes capturados, somadas à forma de acondicionamento do referido material tóxico, bem como às circunstâncias em que se deu a prisão em flagrante - na companhia de um menor e em local conhecido como ponto de venda de entorpecentes -, são fatores que indicam a periculosidade efetiva do envolvido e a potencialidade lesiva do crime perpetrado, autorizando a preventiva.
+5. Condições pessoais favoráveis não teriam o condão de ensejar a revogação da prisão antecipada, se há nos autos elementos suficientes a demonstrar a necessidade do enclausuramento.
+6. Habeas corpus não conhecido" (HC 318.623/SP, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 21/5/2015, DJe 28/5/2015, grifou-se.)
+Ademais, nas informações prestadas, a Juíza de 1º grau esclareceu que:
+"As guias de recolhimento definitivas dos pacientes foram expedidas em 02 de outubro de 2017 e devidamente encaminhadas para o DEECRIM (1ª RAJ) em 04 de outubro de 2017.
+No entanto, as guias de recolhimento foram devolvidas para algumas retificações, que foram feitas e devidamente encaminhadas em 18 de dezembro de 2017" (e-STJ, fl. 45, grifei.)
+Assim, não se verifica ilegalidade flagrante, abuso de poder ou teratologia a justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
