@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESPÓLIO DE FLORIANO PAULO DE ALMEIDA à decisão de fls. 965/966, que não conheceu do recurso.
+Sustenta a parte embargante que:
+4. O Recurso Especial de fls. 897/907 foi firmado pelo mesmo procurador que subscreveu o Agravo contra decisão denegatória de Recurso Especial de fls. 931/942, que é, inclusive, o mesmo desde a peça de defesa da ação originária - Embargos de Terceiro, conforme se verifica às fls. 437/464, qual seja o subscritor destes Embargos de Declaração.
+5. Certo é que os patronos mencionados na r. decisão ora embargada, Dr. [NOME]. [NOME], nunca representaram os ora embargantes e não subscreveram o Recurso Especial. (fl. 971).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+Diante da alegação de erro de digitalização foram os autos encaminhados "à Coordenadoria de Recebimento, Controle e Indexação de Processos Recursais para que verifique a existência de eventual deficiência na virtualização do processo, considerando o alegado na petição de fls. 957/962, de que houve falha na digitalização do processo pelo tribunal de origem, pois está faltando a fl. 366" (fl. 977).
+Após diligências, foi lavrada certidão, pelo tribunal de origem, asseverando que "a fl. 366 não está encartada no processo" (fl. 983).
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada.
+Veja que o subscritor da petição de recurso especial é o Dr. CÉLIO DE MELO ALMADA NETO, e não os advogados Dr. [NOME]. [NOME], como constou na decisão embargada.
+Apesar do equívoco, constata-se que o Dr. CÉLIO DE MELO ALMADA NETO, não possuía procuração e/ou cadeia completa de substabelecimento no momento da interposição do recurso especial.
+Ressalte-se que é firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+Outrossim, pacífica a jurisprudência deste Tribunal Superior acerca da inaplicabilidade da providência de que trata o art. 13 do Código de Processo Civil de 1973 em sede especial, devendo a representação processual estar formalmente perfeita por ocasião da interposição do recurso (EREsp 868.800/RS, Corte Especial, Rel. Min. Laurita Vaz, DJe de 11/11/2010).
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do antigo codex Processual.
+Assim, nos termos do Enunciado Administrativo n.º 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 1973, não havendo possibilidade de regularização posterior.
+Mais ainda, no caso dos autos existe uma certidão que atesta o contrário do alegado pela parte. Conforme certificado à fl. 983 pelo tribunal de origem, "a fl. 366 não está encartada" nos autos do processo físico. Portanto, trata-se de falha imputada à própria parte, não ao Poder Judiciário.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
