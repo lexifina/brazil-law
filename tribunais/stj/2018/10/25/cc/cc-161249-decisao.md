@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA DE SERRANA-SP, Juízo suscitante, e o JUÍZO DA VARA DE TRABALHO DE CRAVINHOS-SP, suscitado, nos autos da reclamação trabalhista proposta por [NOME] em face de MUNICÍPIO DE SERRANA-SP, por meio do qual solicita o recebimento de verbas rescisórias.
+O juízo suscitado declarou-se incompetente para o julgamento conforme os seguintes fundamentos apresentados ( fls. 55-60):
+(..)
+De todo modo, é incontroverso, nos autos, que a prestação de serviços pela autora deu-se de forma autônoma ou temporária, ou seja, não foi precedida de aprovação em concurso e respectiva nomeação para o exercício de cargo público e, por conseguinte, foi regida pelas normas do regime jurídico administrativo.
+(..)
+Dessa maneira, considerando a ausência de aprovação em concurso público a instrumentalizar a relação mantida entre a autora e o reclamado, forçosa a declaração a incompetência da Justiça do Trabalho para apreciar esta reclamatória, determinando-se a remessa dos autos ao juízo competente, que é a Vara Cível da Comarca de Serrana.
+(..)
+O juízo suscitante instaurou o conflito negativo, aduzindo, em síntese, o que se segue (fls. 2-7):
+(..)
+Conforme documentos que a este acompanha, a Sra. [NOME] foi aprovada em processo seletivo da Secretaria de Saúde local para ocupar o cargo de Agente Comunitário de Saúde, em cujo edital havia previsão expressa quanto à submissão dos aprovados às normas da CLT.
+O art. 198, § 5o, da Constituição Federal, na sua redação dada pela EC 63/10, transfere ao legislador federal ordinário a regulamentação da atividade do agente comunitário de saúde e do agente de combate às endemias. O art. 8o, da Lei 11.350/06, em atendimento à disposição constitucional, preceitua o respeito à legislação trabalhista quando ausentes normas editadas pelo ente público contratante em sentido contrário. E no caso não há.
+Esse, inclusive, é o entendimento sedimentado neste Colendo Tribunal da
+Cidadania:
+CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. PRÉVIO PROCESSO SELETIVO. CONTRATAÇÃO SOB O REGIME DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO - CLT. POSTERIOR PUBLICAÇÃO DA LEI N. 11.350/2006. APLICAÇÃO DO REGIME CELETISTA APENAS EM CASOS EM QUE O ESTADO OU MUNICÍPIO NÃO TENHA REGIME PRÓPRIO, EM SENTIDO DIVERSO. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente comunitário de saúde em face de município, questionando o pagamento de verbas trabalhistas.
+2. O art. 8o da Lei n. 11.350/2006 estabeleceu o regime celetista nas hipóteses de contratação de agente comunitário de saúde, salvo se o ente público adotar forma diversa por meio de lei local.
+3. Será celetista o regime aplicável salvo se , no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+4. Não se tem autos notícia de que o município tenha disposto dc regime jurídico de forma diversa do estabelecido pela CLT.
+5. Seja em função da Lei Federal n. 11.350/06,seja em razão do regramento municipal, o regime jurídico aplicável à parte reclamante é o celetista, o que, por conseguinte, implica a competência da Justiça do Trabalho. Precedentes. 6. Agravo interno não provido.
+(Aglnt no CC 149760/PR, PRIMEIRA SEÇÃO, Rel. Ministro MAURO CAMPBELL MARQUES, j. 28/06/2017, DJe 30/06/2017)
+(..)
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+In casu, a parte reclamante defende ter sido contratada para trabalhar na função de Agente Comunitário de Saúde.
+O regime de contratação teria sido o celetista, nos termos do que dispõe o art. 8º da Lei Federal nº 11.350/2006, sobre os Agentes Comunitários de Saúde, dispõe que:
+Art. 8o Os Agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4o do art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT, salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+O Supremo Tribunal Federal, ao julgar a ADI 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC 45/2004, ao apreciar a expressão relação de trabalho, afastou qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+No caso em exame, nos termos da Lei Federal nº 11.350/2006, depreende-se que a relação jurídica estabelecida entre as partes é de natureza trabalhista.
+Dessarte, aplica-se o entendimento da Primeira Seção desta Corte, segundo o qual compete à Justiça do Trabalho processar e julgar reclamação trabalhista ajuizada por agente público contratado sob o regime celetista:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. AGENTE COMUNITÁRIO DE SAÚDE. RECLAMAÇÃO TRABALHISTA. REGIME CELETISTA. LEI N. 11.350/06. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Na hipótese, cuida-se de servidora municipal (agente comunitário de saúde) contratada sob o regime da Consolidação das Leis do Trabalho, após prévio processo seletivo, de acordo com o previsto no art. 8º da Lei Federal n. 11.350/06, não havendo lei local dispondo sobre regime jurídico diverso.
+2. "Nesse contexto, como a lei submeteu a servidora ao regime celetista, deve prevalecer a competência da justiça especializada para apreciar a controvérsia". (AgRg no CC 116.065/PE, Rel. Min. Castro Meira, Primeira Seção, julgado em 8.2.2012, DJe 17.2.2012.).
+Agravo regimental improvido.
+(AgRg no CC 121.904/RN, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 13/06/2012, DJe 18/06/2012)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. SERVIDOR PÚBLICO MUNICIPAL CONTRATADO PELO REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. De acordo com o entendimento da Primeira Seção desta Corte, a Justiça do Trabalho é competente para o processo e julgamento de causas propostas por servidores públicos municipais contratados sob o regime da CLT, instituído por meio de legislação municipal própria.
+2. Agravo regimental a que se nega provimento.
+(AgRg no CC 134.347/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015).
+CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. NEGATIVO. RECLAMAÇÃO TRABALHISTA. REGIME JURÍDICO CELETISTA. LEI MUNICIPAL 1.017/2008. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES.
+1. Trata-se de Conflito Negativo de Competência entre o Juízo de Direito da 2ª Vara Cível, Criminal e de Execuções Criminais de Cambuí-MG e o Juízo da 1º Vara do Trabalho de Pouso Alegre - MG, nos autos da Reclamação Trabalhista ajuizada por [NOME] contra o Município de Córrego do Bom Jesus, visando obter verbas decorrentes de vínculo empregatício.
+2. A determinação da competência para o processo e o julgamento das demandas que envolvem direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+3. O autor foi admitido no Município de Córrego do Bom Jesus, mediante a assinatura de sua carteira de trabalho (fl. 17, e-STJ) e nos termos da Lei Municipal 1.017/2008, que dispõe em seu art. 1º, parágrafo único, que o regime jurídico local é o celetista (fl. 18, e-STJ).
+4. Assim, temos que a relação jurídica estabelecida entre as partes encontra-se amparada pelos preceitos da Consolidação das Leis do Trabalho, razão pela qual não há como afastar a competência da Justiça Laboral para o julgamento da demanda. Precedentes do STJ.
+5. Agravo Regimental não provido.
+(AgRg no CC 135.877/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 26/11/2014, DJe 10/12/2014, destaques meus).
+Ademais, esta Corte Superior, em situações idênticas considerou que a servidora foi contratada mediante processo seletivo (e-STJ, fl. 15). Não há notícia nos autos de que a edilidade adote o regime estatutário para os seus servidores, o que firma a competência da Justiça Especializada para o deslinde da causa ( CC 160285-SP, Rel. Min. OG FERNANDES, publicado em 29/08/2018).
+Confiram-se, ainda, as seguintes decisões monocráticas: CC 160.048-SP, Rel. Min. OG FERNANDES, publicado em 29/08/2018 e CC 157225-SP, Rel. Min. OG FERNANDES, publicado em 10/04/2018.
+Ante o exposto, conheço do conflito e declaro competente o JUÍZO DA VARA DE TRABALHO DE CRAVINHOS-SP.
+Publique-se. Intime-se.
