@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 7005477-27.2017.8.26.0344).
+Consta dos autos que o Juízo da Execução deferiu o pedido de progressão de regime ao paciente, em 16/11/2017, promovendo-o ao regime semiaberto (fls. 42/44).
+Interposto agravo em execução, pelo Ministério Público, o Tribunal deu provimento ao recurso, em acórdão assim ementado:
+AGRAVO EM EXECUÇÃO - Progressão de regime (do fechado para o semiaberto) - Pedido concedido no Juízo das Execuções - Recurso ministerial visando a cassação do benefício e realização do exame criminológico - Procedência - Não comprovação do requisito subjetivo para a progressão - Sentenciado que apresenta em seu histórico prisional falta grave - Frustração da confiança depositada no reeducando pelo Estado - "In dúbio pro societate" - Necessidade de submissão do agravado a exame criminológico - Recurso provido. (fl. 20)
+Neste writ, a impetrante requer, em liminar e no mérito, a concessão da progressão ao regime semiaberto, sob o argumento de que o paciente preenche todos os requisitos exigidos por lei para tal.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal opinou pela extinção do writ sem resolução de mérito ou pela denegação da ordem (fls. 47/52).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, busca-se, na presente impetração, a progressão do paciente ao regime semiaberto.
+Quanto ao ponto, é certo que, nos termos do que dispõe o art. 122 da Lei de Execuções Penais, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (atestado de bom comportamento carcerário) para a concessão do benefício da progressão de regime prisional.
+Todavia, esta Corte superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+Vejam-se os seguintes precedentes:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA EM DADOS CONCRETOS DOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ .. .
+III - Para a concessão do benefício da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+IV - Não se vislumbra qualquer ilegalidade ou arbitrariedade no entendimento consignado pelas instâncias ordinárias, que indeferiram a progressão de regime do sentenciado, ora paciente, em razão da ausência de preenchimento do requisito subjetivo - devidamente fundamentada nas peculiaridades do caso concreto -, sobretudo na ausência de assimilação da terapêutica prisional e persistência na prática delitiva.
+V - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido. (HC 335.082/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 02/02/2016)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ .. .
+EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. AUSÊNCIA. ELEMENTOS CONCRETOS. PRÁTICA DE FALTAS GRAVES E DE NOVOS DELITOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. É assente nesta Corte Superior o entendimento de que, nos termos do artigo 112 da LEP, é necessário o preenchimento dos requisitos objetivo e subjetivo pelo apenado para a obtenção da progressão de regime prisional.
+2. No caso, não há constrangimento ilegal, na medida em que as instâncias ordinárias justificaram o indeferimento do benefício da progressão prisional, em razão da ausência do requisito subjetivo, com base nas peculiaridades da situação fática - cometimento de faltas graves, e de novos delitos no curso de livramento condicional.
+3. Habeas corpus não conhecido. (HC 333.239/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 20/11/2015)
+No caso dos autos, a Corte estadual reformou a decisão que deferiu o pedido de progressão de regime sob os seguintes fundamentos:
+ ..
+O requisito objetivo não foi impugnado pelo Ministério Público, que sustenta apenas que o sentenciado não preenche o requisito subjetivo para a progressão pretendida.
+É manifesto que não se contenta o legislador com o atendimento do lapso temporal, exigindo-se que detenha o reeducando, também, mérito a evidenciar que esteja efetivamente preparado ao retorno à vida em sociedade.
+No presente caso, é certo que o comportamento carcerário do agravado, que ostenta em seu histórico prisional a prática de falta disciplinar de natureza grave ao evadir-se em 20.10.15 (não retornou da saída temporária), sendo recapturado apenas em 06.12.15 (fl. 05v), além da movimentação carcerária indicar, por diversas vezes, a sua má conduta (fl. 05), podem evidenciar a necessidade de o sentenciado permanecer maior tempo no regime fechado.
+Além disso, o atestado comprobatório de bom comportamento carcerário emitido pela Secretaria da Administração Penitenciária (fl. 04), por si só, é insuficiente, para comprovar o preenchimento do requisito subjetivo pelo sentenciado.
+Nesse sentido é o entendimento deste Colendo Tribunal de Justiça:
+ ..
+Por outro lado, a natureza dos crimes cometidos pelo sentenciado, como bem observado pelo ilustre Procurador de Justiça em seu Parecer de fls. 42/45, "..exige uma maior exposição à terapêutica penal, a fim de que se possa extipar ou ao menos, reduzir a tendência criminosa do agravado. A prática reiterada de crimes de roubo denota a falta de empatia com a sociedade, o que leva a crer que o risco de voltar a delinquir é enorme".
+Ademais, em sede de execução penal, vale o princípio elucidado pelo brocardo in dubio pro societate, com o qual se prima, na dúvida quanto à aptidão do reeducando, em mantê-lo por um período maior de tempo sob o olhar cauteloso do Estado, evitando-se que a sociedade seja posta em risco com a reinserção prematura do reeducando, que teve de ser coercitivamente apartado da vida em sociedade.
+E, nesse diapasão, tratando a execução da pena de atividade eminentemente jurisdicional, incumbe ao Magistrado acompanhar o progresso e merecimento do condenado submetido à sua jurisdição, de forma a dar integral vigência ao artigo 8º da Lei de Execução Penal, que aponta para a necessária individualização da execução.
+Ora, para que o sentenciado possa desfrutar de um regime mais brando, é necessária a existência de elementos seguros que confirmem a cessação da periculosidade do agente e absorção dos valores da terapêutica penal, o que somente pode ser verificado através da realização do exame criminológico por equipe multidisciplinar especialmente designada para esse fim.
+Assim sendo, para que o Magistrado possa decidir sobre a progressão do regime, ele deve estar plenamente convencido de que o condenado preenche os requisitos de natureza objetiva e subjetiva, bem como a conveniência de se colocar em regime semiaberto o sentenciado, considerando as peculiaridades do caso concreto.
+Nesse sentido o entendimento jurisprudencial:
+Por possuir o regime semiaberto uma vigilância mais branda, é fundamental tomar o cuidado de não progredir prematuramente o sentenciado, sob pena de se estimular a prática de novos delitos.
+Deste modo, é de rigor a reforma da r. decisão, para cassar a progressão concedida e determinar a realização do competente exame criminológico.
+Nesse sentindo o entendimento desta C. Câmara:
+ ..
+Isto posto, pelo meu voto, dá-se provimento ao agravo interposto pelo Ministério Público, para cassar a r. decisão de primeiro grau, determinando-se o retorno do reeducando [NOME] ao regime fechado e a realização do competente exame criminológico para posterior análise do pedido de progressão. (fls. 24/29)
+Verifica-se, assim, que o pedido de progressão de regime pleiteado pelo paciente foi indeferido pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração, além da longevidade da pena, o conturbado histórico prisional do apenado, destacando a existência de falta disciplinar de natureza grave, consistente na fuga do paciente.
+Assim, mostrou-se evidenciada a idoneidade da fundamentação utilizada na origem, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ademais, cabe lembrar que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+Confira-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXAME CRIMINOLÓGICO DESFAVORÁVEL. REQUISITO SUBJETIVO NÃO DEMONSTRADO. PROGRESSÃO DE REGIME. IMPOSSIBILIDADE. REEXAME DE PROVAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Na espécie, o Tribunal a quo, por ocasião do julgamento do agravo em execução penal interposto pela defesa, entendeu, diante de exame criminológico desfavorável (requisito subjetivo não demonstrado), que o reeducando não faz jus, efetivamente, à progressão para o regime semiaberto. Não há, assim, que se falar em constrangimento ilegal.
+3. Impende registrar que é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+4. Habeas corpus não conhecido. (HC 359.849/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/10/2016, DJe 20/10/2016)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
