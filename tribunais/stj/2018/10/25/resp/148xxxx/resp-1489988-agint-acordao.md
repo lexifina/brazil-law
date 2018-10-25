@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FGTS. NULIDADE DO CONTRATO NÃO RECONHECIDA. AUSÊNCIA DE DIREITO. AGRAVO INTERNO DA FUNASA A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Ação promovida por [NOME] em face da FUNASA, objetivando a declaração de nulidade de contratação e, como consequência, o pagamento do FGTS devido.
+2. O Tribunal de origem consignou que não há declaração de nulidade da contratação (na forma prevista no art. 19-A da Lei 8.036/1990), portanto não há que se falar em direito ao depósito do FGTS.
+3. O entendimento adotado pela Corte de origem está em sintonia com a jurisprudência do Superior Tribunal de Justiça, de que, diante da declaração de nulidade do contrato de trabalho, o Servidor faz jus aos depósitos do FGTS correspondentes ao período de serviço prestado, nos termos do art. 19-A da Lei 8.036/1990. Precedentes: AgInt no AREsp. 822.252/MT, Rel. Min. SÉRGIO KUKINA, DJe 29.8.2016; REsp. 1.602.090/SC, Rel. Min. DIVA MALERBI, DJe 14.6.2016; REsp. 1.517.594/ES, Rel. Min. REGINA HELENA COSTA, DJe 12.11.2015.
+4. Agravo Interno da FUNASA a que se dá provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, dar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA, contra a decisão de minha lavra que deu provimento ao Recurso Especial interposto por [NOME] MARIA [NOME] DOS [NOME] LOBO, assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA CONCEDIDA NA ORIGEM. DESNECESSIDADE DE RENOVAÇÃO DO PEDIDO NA INSTÂNCIA RECURSAL. SERVIDOR PÚBLICO ESTADUAL. AUSÊNCIA DE OFENSA AO ART. 535 DO CPC. CONTRATAÇÃO TEMPORÁRIA NULA. DIREITO AOS DEPÓSITOS DE FGTS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL DE [NOME] MARIA [NOME] DOS [NOME] LOBO A QUE SE DÁ PROVIMENTO.
+2. Essa decisão reformou o entendimento firmado pelo Tribunal de origem, assim ementado:
+ADMINISTRATIVO. CONTRAÇÃO TEMPORÁRIA. NULIDADE DA CONTRATAÇÃO AFASTADA. AUSÊNCIA DO DIREITO AO DEPÓSITO DO FGTS AFASTADA.
+I. Trata-se de apelação de sentença que julgou improcedente pedido de declaração de nulidade de contratação temporária da autora, com o conseqüente pagamento e levantamento do FGTS desde o 1o. dia do pagamento.
+II. Não há que se falar em nulidade na contratação de trabalho temporário decorrente da seleção pública do Edital ESAF 40/2008, diante da necessidade dc pessoal apenas para implementação do PAC, não sendo razoável, no caso cm tela, a contratação através de concurso público para utilização de pessoal por período determinado (até a implementação do programa).
+III. A contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, na forma da lei, é autorizada constitucionalmente (art. 37, IX). Se o vínculo existente entre o contratado e a Administração Pública não estabelece o direito ao FGTS (regime dc direito público), e se não há declaração de nulidade da contratação (na forma prevista no art. 19-A da Lei 8.036/90), não há falar em direito ao depósito do FGTS.
+IV. Apelação improvida (157).
+3. A parte agravante sustenta, em suma, não ser devido o depósito do FGTS uma vez que não foi reconhecida a nulidade dos contratos temporários, o que torna inviável a efetivação dos depósitos do FGTS.
+4. Desse modo, requer a reconsideração da decisão agravada ou a submissão do feito ao Órgão Colegiado competente.
+5. É o relatório.
+VOTO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FGTS. NULIDADE DO CONTRATO NÃO RECONHECIDA. AUSÊNCIA DE DIREITO. AGRAVO INTERNO DA FUNASA A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Ação promovida por [NOME] em face da FUNASA objetivando a declaração de nulidade de contratação e, como consequência, o pagamento do FGTS devido.
+2. O Tribunal de origem consignou que não há declaração de nulidade da contratação (na forma prevista no art. 19-A da Lei 8.036/1990), portanto não há que se falar em direito ao depósito do FGTS.
+3. O entendimento adotado pela Corte de origem está em sintonia com a jurisprudência do Superior Tribunal de Justiça, de que, diante da declaração de nulidade do contrato de trabalho, o Servidor faz jus aos depósitos do FGTS correspondentes ao período de serviço prestado, nos termos do art. 19-A da Lei 8.036/1990. Precedentes: AgInt no AREsp. 822.252/MT, Rel. Min. SÉRGIO KUKINA, DJe 29.8.2016; REsp. 1.602.090/SC, Rel. Min. DIVA MALERBI, DJe 14.6.2016; REsp. 1.517.594/ES, Rel. Min. REGINA HELENA COSTA, DJe 12.11.2015.
+4. Agravo Interno da FUNASA a que se dá provimento.
+1. Razão assiste à parte agravante.
+2. O Tribunal de origem assim consignou:
+A contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, na forma da lei, é autorizada constitucionalmentc (art. 37, IX). Se o vínculo existente entre o contratado e a Administração Pública não estabelece o direito ao FGTS (regime de direito público), e se não há declaração de nulidade da contratação (na forma prevista no art. 19-A da Lei 8.036/90), não há falar em direito ao depósito do FGTS (fls. 156).
+3. No caso, a nulidade contrato não foi reconhecida pela Corte de origem, assim, aplica-se a orientação desta Corte Superior, segundo a qual  os contratos temporários regulares submetidos a regime jurídico administrativo não promovem aos Servidores o direito a depósitos de FGTS. Neste sentido, os seguintes precedentes:
+ADMINISTRATIVO. AGRAVO REGIMENTAL. CONTRATO TEMPORÁRIO. RELAÇÃO JURÍDICO-ADMINISTRATIVA. FGTS INDEVIDO.
+1. Trata-se de questão referente ao cabimento do depósito do Fundo de Garantia por Tempo de Serviço - FGTS relativo ao período em que o recorrido prestou serviços sob o regime de contratação temporária, insculpido no art. 37, IX, da Constituição Federal.
+2. Há que se esclarecer que o caso não trata de servidor público que teve sua investidura em cargo ou emprego público anulado, mas sim de trabalhador contratado a título precário cujo contrato de trabalho foi prorrogado, o que não é suficiente para transmudar a natureza do vínculo administrativo em trabalhista.
+3. A jurisprudência do STJ está consolidada no sentido de que o trabalhador temporário mantém relação jurídico-administrativa com o ente contratante, e, dessa forma, a ele não se aplica a regra do art. 19-A da Lei 8.036/1990, relativa às verbas do FGTS. Nesse sentido: AgRg no AREsp 483.585/PE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 5.5.2014; AgRg no AREsp 348.966/MS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 25.2.2014; REsp 1.399.207/MG, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24.10.2013; AgRg no AREsp 66.285/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 21.2.2013.
+4. Agravo Regimental não provido (AgRg no REsp. 1.513.592/MG, Rel. Min. HERMAN BENJAMIN, DJe 11.9.2015).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA. CONTRATAÇÃO REGULAR E PROVISÓRIA. RELAÇÃO JURÍDICA ADMINISTRATIVA. NULIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DEPÓSITO DE FGTS. PRECEDENTES DO STJ.
+1. A desconstituição da premissa fática segundo a qual o contrato temporário celebrado é regular e que a autora foi contratada sob o regime jurídico-administrativo, ensejaria o reexame da matéria de prova, procedimento que em sede especial, encontra empeço na Súmula 7/STJ.
+2. O conceito de trabalhador extraído do regime celetista não se estende àqueles que mantêm com a Administração Pública uma relação de caráter jurídico-administrativo, razão pela qual a regra do art. 19-A da Lei 8.036/90, quanto ao pagamento do FGTS, não se aplicaria a estes últimos (AgRg no AREsp 96.557/MG, Rel. Min. ARNALDO ESTEVES LIMA, DJe 27.6.2012).
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.534.812/MG, Rel. Min. SÉRGIO KUKINA, DJe 4.8.2015).
+4. Ante o exposto, dá-se provimento ao Agravo Interno da FUNASA.
