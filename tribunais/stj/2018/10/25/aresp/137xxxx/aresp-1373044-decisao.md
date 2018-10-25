@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] e outros desafiando decisão do Tribunal de Justiça do Rio Grande do Sul que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 116):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. TEMPORAL. RESTABELECIMENTO DO SERVIÇO. PRAZO RAZOÁVEL. DANOS MORAIS. INOCORRÊNCIA. CASO CONCRETO.
+I. A responsabilidade das concessionárias de energia elétrica é objetiva, ou seja, independe de culpa, bastando a comprovação do prejuízo e do nexo de causalidade entre a ação (comissiva ou omissiva) e o dano. Inteligência do art. 37, § 6º, da Constituição Federal, e dos arts. 14 e 22, do Código de Defesa do Consumidor.
+II. No caso concreto, a interrupção do fornecimento da energia elétrica na propriedade dos autores é fato incontroverso nos autos. Porém, cumpre destacar que a concessionária restabeleceu o fornecimento em cerca de 52 horas, quando o art. 176, II, da Resolução n. 414/2010, da ANEEL, prevê o prazo de 48 horas.
+III. Desta forma, dado o curto lapso temporal entre a suspensão da energia elétrica e o seu restabelecimento, a situação narrada nos autos não é suficiente para dar ensejo à reparação pretendida, pois não foi capaz de romper com o equilíbrio psicológico dos autores, tratando-se de mero aborrecimento ou dissabor, aos quais todos estão sujeitos. Não se tratando de dano in re ipsa, era ônus da parte autora demonstrar os prejuízos gerados, na forma do art. 373, I, do CPC, do qual não se desincumbiram.
+IV. Redimensionamento da sucumbência, considerando o integral decaimento dos autores em suas pretensões.
+APELAÇÃO PROVIDA.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 135-142).
+Nas razões do recurso especial, os recorrentes alegaram ofensa aos arts. 489, § 1º, IV, e 1.022 do NCPC. Arguiram nulidade decorrente da negativa de prestação jurisdicional e ausência de fundamentação com relação à análise de dispositivos legais e circunstâncias tidas como indispensáveis ao correto desfecho da causa.
+Foram apresentadas contrarrazões (e-STJ, fls. 159-164).
+O Tribunal local inadmitiu o processamento do recurso especial pela ausência de ofensa aos arts. 489, § 1º, IV e 1.022 do NCPC.
+Irresignados, os recorrentes interpõem agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 194-197 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De saída, não se reconhece a apontada violação do art. 1.022, incisos I e II, do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque resolveu a celeuma em sentido contrário ao postulado pelos recorrentes. Ora, de acordo com a jurisprudência desta Casa, o magistrado não está obrigado a se manifestar acerca de todos os fundamentos assinalados pelas partes, notadamente quando já houver decidido a controvérsia com base em outras justificativas.
+Verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo que se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Assinala-se que o acórdão recorrido expressamente enfrentou todas as questões suscitadas pelos recorrentes, conforme se colhe dos excertos da decisão recorrida (e-STJ, fls. 121-126):
+Na hipótese fática, a interrupção do fornecimento da energia elétrica na propriedade dos demandantes, localizada em área rural, e a demora no seu restabelecimento é fato incontroverso nos autos, reconhecido pela própria concessionária -ré.
+Conforme se depreende dos autos, bem como reconhecido pela concessionária, a interrupção em questão ocorreu em 29.01.2014, sendo restabelecida aproximadamente 52 horas depois.
+Segundo a concessionária de energia elétrica, a falha no fornecimento de energia elétrica decorreu de evento climático significativo que assolou a região em que localizada a residência dos autores. Inclusive, a ré alega ter tido dificuldade de acesso ao local do fato, em razão dos estragos causados pelo temporal, justificando, pois, a demora no restabelecimento do serviço.
+No mais, cumpre salientar que a responsabilidade das concessionárias de serviço público é objetiva, ou seja, independe de culpa, bastando a comprovação do prejuízo e do nexo de causalidade entre a ação (comissiva ou omissiva) e o dano. O art. 37, § 6º, da Constituição Federal, assim dispõe:
+Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+§ - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+Da mesma forma, tratando-se de serviço essencial, os arts.
+14 e 22, do Código de Defesa do Consumidor, prevêem que:
+Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+Art. 22. Os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos.
+(..)
+Na hipótese fática, como visto, o fornecimento da energia elétrica foi restabelecido em aproximadamente 52 horas. Portanto, o prazo de 48 horas, previsto no art. 176, II, da Resolução nº 414/2010, da ANEEL, foi ultrapassado em cerca de quatro horas. Assim dispõe a referida norma legal:
+Art. 176. A distribuidora deve restabelecer o fornecimento nos seguintes prazos, contados ininterruptamente:
+II - 48 (quarenta e oito) horas, para religação normal de unidade consumidora localizada em área rural;
+Por conseguinte, ainda que a interrupção do fornecimento da energia elétrica na propriedade dos autores esteja comprovada, a situação narrada nos autos não é suficiente para dar ensejo à reparação postulada, tendo em vista o prazo razoável decorrido até restabelecimento do serviço.
+O caso, inclusive, não trata de dano in re ipsa, razão pela qual era ônus da parte autora demonstrar os prejuízos gerados, na forma do art. 373, I, do CPC, do qual não se desincumbiram.
+(..)
+Ante o exposto, dou provimento à apelação para julgar improcedente a ação.
+Condeno os autores ao pagamento das custas e dos honorários ao procurador da ré, fixados em R$ 1.500,00, atualizados pelo IGP-M, observado o art. 85, § 8º, do CPC. Fica suspenso o pagamento por conta da gratuidade da justiça.
+Ademais, no acórdão dos embargos de declaração o Tribunal ainda afirma que (e-STJ, fl. 138):
+Conforme restou esclarecido no acórdão recorrido, a falha no fornecimento de energia elétrica decorreu de evento climático significativo que assolou a região em que se localiza a residência dos embargantes. Inclusive, a embargada encontrou dificuldade de acesso ao local do fato, em razão dos estragos causados pelo temporal, justificando, pois, a demora no restabelecimento do serviço.
+Ademais, ainda que a interrupção do fornecimento da energia elétrica na propriedade dos embargantes esteja comprovada, a situação narrada nos autos não é suficiente para dar ensejo à reparação postulada, tendo em vista o prazo razoável decorrido até restabelecimento do serviço, ultrapassando cerca de 04 horas ao previsto no art. 176, II, da Resolução nº 414/2010, da ANEEL.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte ora recorrida em R$ 200,00 (duzentos reais), ficando suspensa em razão do deferimento da justiça gratuita.
+Publique-se.
