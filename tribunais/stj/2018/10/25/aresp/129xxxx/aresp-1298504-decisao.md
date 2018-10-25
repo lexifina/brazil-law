@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. 1. ALEGADA VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO CONFIGURADA. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. LITIGÂNCIA [NOME] RECONHECIDA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por TAM Linhas Aéreas S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 38):
+AG INTERNO - IMPROVIMENTO
+AGRAVO DE INSTRUMENTO. Rejeição liminar de impugnação ante ausência de garantia de juízo. Descumprimento de coisa julgada por meio de impugnação à execução e agravo de instrumento. Tentativa canhestra de descumprimento da obrigação de fazer. Litigância de má fé. Recurso a que se nega seguimento, com fundamento no artigo 557, caput, do Código de Processo Civil. Multa de 1% sobre o valor da causa e indenização fixada em 20% sobre o valor da causa, na forma do parágrafo 2º do artigo 18 do CPC.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 53-56 e 64-65).
+Em suas razões de recurso especial (e-STJ, fls. 67-87), a recorrente alegou ofensa aos arts. 80, 489, III, 499 e 525, § 6º, do Código de Processo Civil de 2015; e 248 do Código Civil de 2002.
+Sustentou, em síntese: (i) a imprescindibilidade de conversão da obrigação em perdas em danos, ante a impossibilidade de cumprimento específico da obrigação imposta; (ii) não ser necessária a caução para suspender o cumprimento de sentença por se tratar de uma obrigação de fazer; (iii) a ausência de fundamentação na decisão impugnada; (iv) a inexistência de litigância de má-fé.
+Contrarrazões apresentadas às fls. 107-121 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da falta de violação dos dispositivos apontados, da incidência da Súmula n. 7 desta Corte e da falta de comprovação da divergência jurisprudencial (e-STJ, fls. 143-145).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a apontada afronta ao art. 489 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registro que, apesar de rejeitados os embargos de declaração, o Colegiado de origem emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Quanto aos arts. 499 e 525, § 6º, do CPC/2015 e 248 do CC, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada. Incide, no ponto, a Súmula 211 do STJ.
+No caso ora em análise, ao dirimir a controvérsia, o Tribunal de origem concluiu estarem presentes os requisitos exigidos para aplicação da penalidade de litigância de má-fé, pelos seguintes fundamentos (e-STJ, fls. 39-40):
+ A matéria dos autos é simples e não demanda grandes questões jurídicas ou processuais, tendo o juiz de primeiro grau dado correta solução à matéria discutida.
+ É incontroverso que antes da interposição da impugnação a execução, deve o juízo ser garantido, garantia esta que não ocorreu na espécie, tendo o magistrado bem rejeitado a impugnação, de forma liminar.
+ De se salientar, que a matéria de fundo trazida a baila como fundamento ao pedido do agravo pretende, por vias transversas, tornar sem efeito a sentença já transitada em julgado, re-discutindo a questão da obrigação de fazer e suas astreintes, matéria esta já exaurida na apelação número 0051251-49, 2014.
+ A revovação da discussão, a meu ver, adequa-se a regra do artigo 17, I, V, VI e VII do CPC, atuando a ré com absoluta má fé do autor/agravado e deste Tribunal, criando obstáculos processuais desnecessários à execução, com manifesto intuito protelatório.
+ Tal "verve", obviamente, não deve ser estimulada. Ao contrário, deve esta Câmara agir com rigor a fim de ver suas ordem e decisões mantidas e cumpridas. Assim, negando seguimento ao agravo na forma do artigo 557 do CPC, condeno a ré nas penas da litigância de má fé previstas no artigo 18 do mesmo diploma legal, fixando multa de 1% e indenização de 20%, ambas sobre o valor da causa.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
