@@ -1,0 +1,23 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO CPC/73. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. APLICAÇÃO NO MERCADO FINANCEIRO. FALÊNCIA DA INSTITUIÇÃO FINANCEIRA. RECURSO ESPECIAL DE FGC PROVIDO. AGRAVO EM RECURSO ESPECIAL DE FIPECQ PREJUDICADO.
+DECISÃO
+FIPECQ - FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR DOS EMPREGADOS OU SERVIDORES DA FINEP, DO CNPq, DO INPE E DO INPA (FIPECQ) propôs ação de indenização por danos materiais contra o FUNDO GARANTIDOR DE CRÉDITOS - FGC (FGC).
+O juízo de piso julgou a ação improcedente (e-STJ, fls. 408/411).
+O Tribunal a quo deu parcial provimento ao recurso de apelação interposto pela FIPECQ para responsabilizar o FGC a pagar a cada co-cotista, representado pelo mandatário do Fundo, a soma correspondente a R$ 20.000,00 (vinte mil reais), mediante comprovação idônea de natureza documental em liquidação de sentença, cuja atualização monetária será feita do ingresso da ação, acrescida de juros moratórios de 12% ao ano da citação em acórdão que recebeu a seguinte ementa
+APELAÇÃO - AÇÃO ORDINÁRIA - APLICAÇÃO NO FUNDO DE PREVIDÊNCIA COMPLEMENTAR EM CERTIFICADOS DE DEPÓSITOS BANCÁRIOS DO FALIDO BANCO SANTOS - RESPONSABILIDADE DO FUNDO GARANTIDOR DE CRÉDITOS ABRANGÊNCIA DOS INVESTIDORES LIMITAÇÃO AO TETO DE RS 20.000,00 - SENTENÇA DE IMPROCEDÊNCIA DA DEMANDA - RECURSO - TELEOLOGIA DA NORMA E SEU FUNDAMENTO DA BOA-FÉ OBJETIVA - APLICAÇÃO FEITA PELA FUNDAÇÃO NA CONDIÇÃO DE MANDATÁRIO DOS COMUNHEIROS RESPONSABILIDADE INTEGRAL PROPORCIONAL AO NÚMERO DE INVESTIDORES - FUNDOS COMPLEMENTARES DE PREVIDÊNCIA DISPONIBILIZADOS PARA CONDICIONANTES DE FUTURA APOSENTADORIA - POUPANÇAS PRIVADAS AGLUTINADAS PARA A FINALIDADE ÚNICA E EXCLUSIVA DE REMUNERAÇÃO CONSOANTE AS REGRAS DE MERCADO E DISCIPLINA DO BANCO CENTRAL - INVESTIMENTOS FEITOS EM NOME DE CADA CO-TITULAR DA COTA - CUJA INTERPRETAÇÃO EXCLUSIVA DO CNM NÃO CORRESPONDE AO VÍNCULO CONTRATUAL E AO MONTANTE DOS RECURSOS APLICADOS - LESIVIDADE RECONHECIDA - EQUILÍBRIO CONTRATUAL PARA RESTABELECER A PROVISÃO DE RECURSOS E A QUEBRA DA INSTITUIÇÃO FINANCEIRA - RECURSO PARCIALMENTE PROVIDO (e-STJ, fl. 505).
+Os embargos de declaração opostos pela FIPECQ e pelo FGC foram rejeitados (e-STJ, fls. 547/558).
+Inconformada, a FIPECQ interpõe recurso especial com fundamento nas alíneas a e c do permissivo constitucional, sob o fundamento de que, além de dissídio jurisprudencial, há violação dos arts. 20, § 3º, do CPC/73; e, 389, 394, 397 e 398 do CC/02, sob a alegação de que (1) a correção monetária deve incidir a partir da data da intervenção do Banco Santos S.A. (12/11/04) ou da data do pagamento da obrigação pelo FGC (23/12/04); e, (2) os honorários sucumbenciais foram fixados de forma irrisória (e-STJ, fls. 669/705).
+As contrarrazões foram apresentadas (e-STJ, fls. 757/775).
+O recurso especial não foi admitido (e-STJ, fls. 822/823), decisão contra a qual foi interposto o presente agravo em recurso especial (e-STJ, fls. 923/940).
+Deferi o ingresso do Banco Central do Brasil no feito como assistente simples do FGC, nos termos do art. 50 do CPC/73 (e-STJ, fls. 1.053/1.054).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (e-STJ, fls. 1.065/1.076).
+É o relatório.
+DECIDO.
+A irresignação de FIPECQ está prejudicada.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O recurso especial interposto pelo FGC foi provido para restabelecer a sentença do juízo de piso.
+O agravo em recurso especial interposto pela FIPECQ pretende a análise de violação dos art. 20, § 3º, do CPC/73 e, 389, 394, 397 e 398 do CC/02, sob a alegação de que (1) a correção monetária deve incidir a partir da data da intervenção do Banco Santos S.A. (12/11/04) ou da data do pagamento da obrigação pelo FGC (23/12/04); e, (2) os honorários sucumbenciais foram fixados em montante irrisório.
+Ocorre porém, que o provimento do recurso especial interposto pelo FGC, prejudica a análise do agravo em recurso especial.
+Nestas condições, JULGO PREJUDICADO o agravo em recurso especial interposto pela FIPECQ.
+Publique-se. Intime-se.
