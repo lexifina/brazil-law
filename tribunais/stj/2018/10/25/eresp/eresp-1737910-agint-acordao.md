@@ -1,0 +1,77 @@
+EMENTA
+TRIBUTÁRIO. PIS E COFINS. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO. APROVEITAMENTO OBSTACULIZADO PELO FISCO. RECURSO ESPECIAL REPETITIVO. ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL.
+1. Nos termos do art. 24 da Lei nº 11.457/07, a administração deve obedecer ao prazo de 360 dias para decidir sobre os pedidos de ressarcimento, conforme sedimentado no julgamento do REsp 1.138.206/RS, submetido ao rito do art. 543-C do CPC/73.
+2. A Primeira Seção, por ocasião do julgamento dos EREsp nº 1.461.607/SC (Rel. Ministro Mauro Campbell Marques, Rel. p/ Acórdão Ministro Sérgio Kukina, julgado em 22/2/2018, publicado em 01/10/2018), corroborou a orientação no sentido de que "a correção monetária, a exemplo do que ocorre na espécie examinada, terá seu termo inicial somente a partir do escoamento do prazo de 360 dias, nos termos da exegese do multicitado art. 24 da Lei nº 11.457/07 ".
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por maioria, vencido o Sr. Ministro Napoleão Nunes Maia Filho, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Castrolanda - Cooperativa Agroindustrial Ltda em face de decisão que deu provimento ao recurso especial interposto pela Fazenda Nacional, a fim de que, nos pedidos administrativos de ressarcimento de créditos tributários, o termo a quo da correção monetária seja o fim do prazo que a administração tinha para apreciar o pedido, que é de 360 dias.
+A parte agravante, em suas razões, sustenta que: (I) "a questão ora posta foi objeto de recentes decisões exaradas no âmbito desse C. STJ em sentido diverso do  ..  decidido na r. decisão ora agravada, evidenciando, pois, a inaplicabilidade do art. 932, IV e V, do CPC/2015 ao presente caso" (fl. 511); e (II) o termo a quo do ressarcimento dos créditos deve ser a data do protocolo administrativo (fls. 515/516).
+Disponibilizada vista à parte agravada (fl. 526), transcorreu in albis o prazo para impugnação (fl.582).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 500/502):
+Trata-se de recurso especial manejado pela Fazenda Nacional com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 346):
+MANDADO DE SEGURANÇA. PROCEDIMENTO ADMINISTRATIVO. RESSARCIMENTO DE CRÉDITOS ESCRITURAIS. DEMORA NA APRECIAÇÃO. CORREÇÃO MONETÁRIA PELA SELIC. TERMO INICIAL. COMPENSAÇÃO DE OFÍCIO. GARANTIA. ART. 73 DA LEI Nº 9.430.
+1. A resistência do Fisco à pretensão do contribuinte na apuração dos créditos tributários objeto de pedidos administrativos de ressarcimento autoriza a incidência da atualização monetária. Transcorrido os prazos máximos para que seja proferida a decisão acerca do pedido de ressarcimento, é devida a correção pela taxa SELIC dos créditos do contribuinte, a contar data do protocolo do pedido administrativo, conforme atual orientação do STJ e desta Turma.
+2. A Corte Especial deste Tribunal, nos autos da Argüição de Inconstitucionalidade n. 5025932-62.2014.404.0000, reconheceu a inconstitucionalidade do parágrafo único do art. 73 da Lei nº 9.430/96, incluído pela Lei nº 12.844/13.
+Opostos embargos declaratórios, foram rejeitados (fls. 382/386).
+A parte recorrente aponta violação ao art. 24 da Lei nº 11.457/2007. Sustenta, em resumo, que "a correção monetária, na espécie, deve incidir apenas após a fluência do prazo de 360 dias" (fl. 397).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial (fls. 496/498).
+É o relatório.
+Quanto à matéria, a Primeira Seção desta Corte Superior, no julgamento do REsp 1.035.847/RS, sob o rito do art. 543-C do CPC/73, firmou entendimento no sentido de que o aproveitamento de créditos escriturais, em regra, não dá ensejo à correção monetária, exceto quanto obstaculizado injustamente o creditamento pelo fisco.
+Posteriormente, foi editada a Súmula 411/STJ, segundo a qual "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco".
+No que se refere ao termo inicial da correção monetária dos créditos, essa deve ser contada a partir do fim do prazo que a administração tinha para apreciar o pedido, que é de 360 dias, independentemente da época do requerimento (art. 24 da Lei 11.457/07).
+Nessa linha:
+TRIBUTÁRIO. RESSARCIMENTO DE CRÉDITOS. PEDIDO ADMINISTRATIVO. MORA. CORREÇÃO MONETÁRIA. TERMO A QUO. HONORÁRIOS. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. A correção monetária de créditos escriturais só é devida quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco, hipótese em que é contada a partir do fim do prazo de que dispõe a administração para apreciar o pedido administrativo do contribuinte (360 - trezentos e sessenta - dias), nos termos do que dispõe o art. 24 da Lei n. 11.457/2007.
+2. A premissa fática concernente à dimensão econômica da lide não foi enfrentada pelo Tribunal a quo quando da fixação dos honorários de advogado, não podendo o Superior Tribunal de Justiça decidir a respeito da questão, por ausência de prequestionamento.
+3. Agravo interno desprovido.
+(AgInt no REsp 1581330/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 21/8/2017)
+TRIBUTÁRIO. CRÉDITO ESCRITURAL E CRÉDITO PRESUMIDO. PEDIDOS ADMINISTRATIVOS DE RESSARCIMENTO. CORREÇÃO MONETÁRIA. TERMO A QUO. APÓS PRAZO LEGAL DE 360 DIAS. ART. 24 DA LEI 11.457/07.
+1. Consoante a jurisprudência assentada pelo STJ, o direito à correção monetária de crédito escritural é condicionado à existência de ato estatal impeditivo de seu aproveitamento no momento oportuno.
+Em outros termos, é preciso que fique caracterizada a "resistência ilegítima do Fisco", na linha do que preceitua a Súmula 411/STJ: "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco".
+2. Em tais casos, a correção monetária, pela taxa Selic, deve ser contada a partir do fim do prazo de que dispõe a administração para apreciar o pedido do contribuinte, que é de 360 dias (art. 24 da Lei 11.457/07). Nesse sentido: AgRg nos EREsp 1.490.081/SC, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe de 1º.7.2015.
+3. Agravo Interno não provido.
+(AgInt no REsp 1585275/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/10/2016, DJe 14/10/2016)
+No caso, o Tribunal de origem adotou o posicionamento de que deve incidir correção monetária, pela taxa SELIC, a partir da data do protocolo do pedido administrativo (fl. 351).
+Como se vê, o posicionamento esposado no acórdão recorrido destoa da hodierna jurisprudência do STJ sobre o tema, estando a merecer reparos.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento, a fim de que o termo a quo da correção monetária seja o fim do prazo que a administração tinha para apreciar o pedido, que é de 360 dias.
+Publique-se.
+De início, não prospera a tese da agravante de que o apelo raro não poderia ter sido decidido monocraticamente, porque não atendidas as hipóteses do art. 932 do CPC/2015.
+A jurisprudência desta Corte já se manifestou no sentido de que ao relator fica permitido decidir monocraticamente o recurso quando amparado em jurisprudência dominante ou Súmula de Tribunal Superior. Eventual mácula na deliberação unipessoal fica superada, em razão da apreciação da matéria pelo órgão colegiado na seara do agravo interno.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 932 DO CPC/2015. DECISÃO MONOCRÁTICA SUBMETIDA AO COLEGIADO. INEXISTÊNCIA DE VÍCIO. PIS E COFINS. ART. 17 DA LEI N. 11.033/2004. APROVEITAMENTO DE CRÉDITOS DECORRENTES DE OPERAÇÕES ANTERIORES. INAPLICABILIDADE DE INCIDÊNCIA MONOFÁSICA À HIPÓTESE DOS AUTOS.
+1. Eventual nulidade da decisão monocrática por suposta contrariedade ao art. 932 do CPC/2015 fica superada com a reapreciação do recurso pelo órgão colegiado mediante agravo regimental/interno. Precedentes.
+2. A orientação da Segunda Turma do STJ firmou-se no sentido de que "as receitas provenientes das atividades de venda e revenda sujeitas ao pagamento das contribuições ao PIS/PASEP e à COFINS em Regime Especial de Tributação Monofásica não permitem o creditamento pelo revendedor das referidas contribuições incidentes sobre as receitas do vendedor por estarem fora do Regime de Incidência Não Cumulativo, a teor dos artigos 2º, § 1º e incisos; e 3º, I, "b", da Lei n. 10.637/2002 e da Lei n. 10.833/2003"; e que, portanto, "não se lhes aplicam, por incompatibilidade de regimes e por especialidade de suas normas, o disposto nos artigos 17, da Lei n. 11.033/2004, e 16, da Lei n. 11.116/2005, cujo âmbito de incidência se restringe ao Regime Não Cumulativo, salvo determinação legal expressa" (AgRg no REsp 1.433.246/RS, Rel. Ministro Mauro Campbell Marques, DJe 2/4/2014).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1034190/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 09/08/2017)
+PROCESSUAL CIVIL. ART. 557 DO CPC/1973 (ART. 932, III E IV, DO CPC/2015). OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA.
+1. O STJ entende não haver violação do art. 557 do CPC/1973 (art.
+932, III e IV, do CPC/2015) quando o relator decide a controvérsia na mesma linha da jurisprudência dominante do Tribunal. Além disso, eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado via Agravo Regimental/Interno.
+2. Recurso Especial não provido.
+(REsp 1655428/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 02/05/2017)
+Ademais, quanto à questão de fundo, a Primeira Seção do STJ, no julgamento do EREsp nº 1.461.607/SC, corroborou orientação no mesmo sentido daquele exposto na decisão agravada, a saber, o de que: "a correção monetária, a exemplo do que ocorre na espécie examinada, terá seu termo inicial somente a partir do escoamento do prazo de 360 dias, nos termos da exegese do multicitado art. 24 da Lei nº 11.457/07 " (EREsp nº 1.461.607/SC (Rel. Ministro Mauro Campbell Marques, Rel. p/ Acórdão Ministro Sérgio Kukina, julgado em 22/2/2018, publicado em 1º/10/2018).
+Dessa forma, escorreita a decisão agravada ao reconhecer que o termo inicial da correção monetária, nesses casos, será o fim do prazo que a administração tinha para apreciar o pedido, que é de 360 dias.
+Em reforço, confiram-se:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS/COFINS. PEDIDO DE RESSARCIMENTO. APROVEITAMENTO OBSTACULIZADO PELO FISCO. RECURSO ESPECIAL REPETITIVO. ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL.
+1. A Primeira Seção desta Corte Superior, no julgamento do REsp 1.035.847/RS, sob o rito do art. 543-C do CPC/73, firmou entendimento no sentido de que o crédito presumido de IPI enseja correção monetária quando o gozo do creditamento é obstaculizado pelo fisco.
+2. Nos termos do art. 24 da Lei nº 11.457/07, a administração deve obedecer ao prazo de 360 dias para decidir sobre os pedidos de ressarcimento, conforme sedimentado no julgamento do REsp 1.138.206/RS, submetido ao rito do art. 543-C do CPC/73; sendo que "a correção monetária de ressarcimento de créditos ocorre após o prazo de 360 dias para análise do pedido administrativo" (AgRg nos EREsp 1490081/SC, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 24/6/2015, DJe 1º/7/2015). Precedentes: AgInt no REsp 1581330/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 21/8/2017; AgInt no REsp 1585275/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2016, DJe 14/10/2016.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1194811/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/2/2018, DJe 2/4/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IPI. CREDITAMENTO. CORREÇÃO MONETÁRIA. SÚMULA 411/STJ. TERMO INICIAL: 360 DIAS APÓS PROTOCOLADO O PEDIDO DE RESSARCIMENTO. VERBA HONORÁRIA FIXADA EM R$ 5.000,00. VALOR NÃO CONSIDERADO IRRISÓRIO PELO STJ, CONSIDERANDO O VALOR ATRIBUÍDO À CAUSA (R$ 200.000,00) E O DECAIMENTO PARCIAL DAS AUTORAS. AGRAVO INTERNO DAS CONTRIBUINTES A QUE SE NEGA PROVIMENTO.
+1. Encontra-se pacificado o entendimento da 1a. Seção desta Corte de que eventual possibilidade de aproveitamento dos créditos escriturais não dá ensejo à correção monetária, exceto se tal creditamento for injustamente obstado pela Fazenda, considerando-se a mora na apreciação do requerimento administrativo de ressarcimento feita pelo Contribuinte como um óbice injustificado. Aplica-se a essa hipótese o enunciado 411 da Súmula do STJ, segundo o qual é devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco. A propósito, 1a. Seção do STJ consolidou esse entendimento por ocasião do julgamento do REsp. 1.035.847/RS, relatado pelo ilustre Ministro LUIZ FUX e julgado sob o regime do art. 543-C do CPC/1973.
+2. O marco inicial da correção monetária só pode ser o término do prazo conferido à Administração Tributária para o exame dos requerimentos de ressarcimento, qual seja, 360 dias após o protocolo dos pedidos. Precedentes: AgInt no REsp. 1.581.330/SC, Rel. Min.
+GURGEL DE FARIA, DJe 21.8.2017; AgRg no AgRg no REsp. 1548446/RS, Rel. Min. HUMBERTO MARTINS, DJe 10.12.2015; AgRg no AgRg no REsp. 1.255.025/SC, Rel. Min. HERMAN BENJAMIN, DJe 8.9.2015.
+3. Esta Corte Superior já orientara ser inviável a modificação da verba honorária dos Advogados, em sede de Recurso Especial, por demandar, em tese, a averiguação e avaliação do contexto fático-probatório dos autos. 4. Contudo, esse entendimento é relativizado quando evidenciado que a verba honorária foi arbitrada em valores excessivos ou ínfimos, sem que para isso se faça necessário o reexame de provas ou qualquer avaliação quanto ao mérito da lide. Precedentes: AgRg no REsp. 1.225.273/PR, Rel. Min.
+CESAR ASFOR ROCHA, DJe 6.9.201; REsp. 1.252.329/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 24.6.2011.
+5. No presente caso, os honorários advocatícios foram fixados em R$ 5.000,00, considerando o valor atribuído à causa (R$ 200.000,00), bem como o decaimento parcial das recorrentes, o que não se mostra irrisório nos termos da jurisprudência acima citada.
+6. Agravo Interno das Contribuintes a que se nega provimento.
+(AgInt no REsp 1348672/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 5/12/2017)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
+VOTO-VENCIDO
+(MINISTRO NAPOLEÃO NUNES MAIA FILHO)
+1. Senhora Presidente, PIERRE CURIE, o descobridor da microbiologia moderna, dizia: tenho confiança que, no futuro, as pessoas se unirão para edificar, e não para desconstruir. É o caso aqui. Tenho certeza que, no futuro, se dirá que o devedor, que detém um ano o dinheiro do seu credor, não poderá devolvê-lo, posteriormente, pelo valor histórico.
+2. Fico vencido, Senhora Presidente, para dar provimento ao Agravo Interno da Empresa.
