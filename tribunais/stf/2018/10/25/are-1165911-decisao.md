@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “AGRAVO INTERNO. ADMINISTRATIVO. MILITAR QUE REQUER INCORPORAÇÃO DE 80% DO DAS 4, POR EXERCÍCIO DE CARGO EM COMISSÃO POSTERIOR A 2002. 1- Toda matéria referente à Previdência Social, segundo disposição do Texto Constitucional, em seu art. 24, XII, é de competência legislativa concorrente tanto da União, dos Estados e do Distrito Federal, de modo que incumbe aos Entes Federados organizarem-se pelas Constituições e leis que adotarem, desde que, é claro, observado os princípios constitucionais.
+    2- De igual modo, é evidente que, em razão da peculiaridade das atividades exercidas tanto pelos servidores públicos civis quanto pelos militares, ambos possuem regime jurídico diferenciado, no entanto, isto não implica, necessariamente, que a LC nº 39/02 esteja eivada de inconstitucionalidade.
+    3- A instituição de regime previdenciário em vigor não viola disposição constitucional (art. 42, §1º c/c 142, §3º, X), tanto é assim, que o próprio regime estadual em seu art. 3º, §4º não exclui a observância dos preceitos constitucionais ao prever que os militares continuarão a serem regidos por legislação específica a eles aplicáveis, de modo que há previsão simultânea dos regimes previdenciários tanto para civis como militares, no mesmo diploma legal, o que por si só, como visto, não atrai inconstitucionalidade.
+    4- A Constituição é bastante clara ao estabelecer a existência de tratamento diferenciados em razão da atividade realizada, cuja especialidade decorre da especificidade E friso isto porque, como dito anteriormente, a Constituição Federal concede alguns tratamentos diferenciados entre servidores civis e militares, mas desde que a situação requeira a especificidade da atividade militar, o que não é o caso dos autos.
+    5- Diversos precedentes desta Corte” (págs. 12-13 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação do art. 42, § 1°, da mesma Carta.
+    Em 24/10/2018, por meio da Petição 70.750/2018-STF (documento eletrônico 5), o recorrente requereu o sobrestamento do processo até a conclusão do julgamento da ADI 5.154/PA, de relatoria do Ministro Luiz Fux, em que se pede a declaração da inconstitucionalidade da Lei Complementar estadual 39/2002, que instituiu o Regime de Previdência dos Militares e Servidores do Estado do Pará.
+    Isso posto, determino o sobrestamento do recurso extraordinário, até a conclusão do julgamento da ADI 5.154/PA.
+    Publique-se.
+    Brasília, 25 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
