@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Organização criminosa. Tese de negativa de autoria. Prisão preventiva. Excesso de prazo. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 473.179, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, cuja prisão temporária foi decretada em 09.11.2017, foi denunciado pelo crime previsto no artigo 2º, caput, da Lei 12.850/13.
+    3. Da decisão que converteu a prisão temporária em prisão preventiva, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 473.179, Ministro Sebastião Reis Júnior, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de comprovação da autoria delitiva. Alega, ainda, a inexistência de fundamentação idônea para a manutenção da custódia preventiva, assim como destaca o excesso de prazo para a conclusão da instrução criminal.
+    5. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF.
+    10. De início, verifico que a tese de negativa de autoria e a alegação de ausência de fundamentação idônea para a decretação da custódia cautelar não foram apreciadas pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame das matérias por esta Suprema Corte, sob pena de dupla supressão de instâncias.
+    11. Ainda que assim não fosse, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    12. Quanto ao mais, o entendimento do STF é no sentido de que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    13. No caso de que se trata, tal como assentou o Tribunal Estadual, “o feito tem o andamento possível, dentro da normalidade, sendo que o prazo da instrução criminal se encontra ainda dentro do exigível, considerando-se a reconhecida gravidade e inegável complexidade dos fatos apurados, que ensejam análise severa e rigorosa; pois, se há um certo alongamento no lapso temporal na formação da culpa, isso não foi causado pelo Juízo. Lembramos que o processo se encontra ainda em fase inicial citação (cf. fls. 75/76). E como é sabido, por certo, observada a gravidade e complexidade dos fatos e grande quantidade de denunciados mais de vinte acusados –, defendidos por Advogados diversos, o feito seguirá seu trâmite com a celeridade possível; nesse ponto, ainda ressaltou a Autoridade Judiciária que há 19 réus presos em comarcas diversas, inclusive noutro Estado da Federação, 02 soltos e 03 foragidos! Ora, há, por óbvio, a inegável necessidade de elaboração probatória segura e consistente para que seja firme, justa e correta a prestação jurisdicional” (os grifos são do original).
+    14. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 25 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
