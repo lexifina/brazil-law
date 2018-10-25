@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CÉDULA DE CRÉDITO RURAL. EFEITO SUSPENSIVO.
+SOBRESTAMENTO DO FEITO.
+O efeito suspensivo concedido aos embargos de divergência em Resp 1.319.232-DF interpostos pela União Federal não obsta o prosseguimento do cumprimento de sentença, porquanto a União pretende exclusivamente a aplicação de artigo de lei que estabelece índices diferenciados de correção monetária e juros em condenações impostas à Fazenda Pública, não atingindo a condenação do banco agravante.
+As preliminares de prescrição e de legitimidade passiva da União e do BACEN já foram matérias controvertidas na ação de conhecimento, atingindo o efeito preclusivo , seja pela preclusão consumativa, seja pela coisa julgada.
+Além disso, diante da ausência do demonstrativo do débito da parte agravante, de modo a confrontar com o cálculo da parte exeqüente, não demonstrados o fundamento relevante e o risco de dano grave ou de difícil reparação ao recorrente, nos termos do art. 525, § 6 o do CPC.
+Assim, merece ser mantida a decisão ora agravada.
+PRELIMINARES REJEITADAS E AGRAVO DE INSTRUMENTO DESPROVIDO.
+No recurso especial, a parte ora agravante alega violação do artigo 314 do Código de Processo Civil de 2015; do artigo 6º da Lei de Introdução às Normas do Direito Brasileiro; do artigo 2.035 do Código Civil; e dos artigos 219, 405, 475-G, 475-J, 475-L e 475-M do CPC de 1973. Reclama de excesso de execução. Discorre sobre o ato jurídico perfeito, a aplicação das normas de direito econômico e o direito adquirido. Sustenta que, tendo sido concedida tutela de urgência para atribuir efeito suspensivo aos embargos de divergência opostos pela União na ação coletiva originária (TutPrv nos Embargos de Divergência em Recurso Especial 1.319.232/DF, Relator Ministro Francisco Falcão), o presente feito deve ser sobrestado/suspenso.
+O acórdão recorrido não se pronunciou sobre direito adquirido, ato jurídico perfeito e aplicação de normas de direito econômico. Assim, em relação a esses temas o recurso especial não se faz cognoscível, dada a ausência de prequestionamento (Súmulas 282 e 356 do Supremo Tribunal Federal).
+As decisões proferidas nos autos da Reclamação 34.966/RS e do Recurso Especial 1.319.232/DF não possuem relação com o julgamento do presente recurso especial, pois a suspensão determinada naqueles autos diz respeito ao cumprimento de sentença coletiva (ação civil pública ajuizada pelo Ministério Público Federal e tramitando na 3ª Vara Federal da Seção Judiciária do Distrito Federal), hipótese não verificada no caso em análise, o qual é pertinente a liquidação de sentença transitada em julgado, oriunda da ação ordinária 0001221-71.2010.8.21.0110 (110/1.10.0000122-3).
+Assim, não há como acolher o pedido de sobrestamento do feito.
+Ao afastar o alegado excesso de execução, o Tribunal de origem fundamentou que a parte ora agravante não apresentou "demonstrativo do débito, de modo a confrontar com o cálculo da parte exequente". Observo que o recurso especial não impugnou essa fundamentação. Desse modo, incide a Súmula 283 do STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
