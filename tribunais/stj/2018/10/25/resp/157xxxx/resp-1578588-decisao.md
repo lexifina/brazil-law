@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE ÁGUA BOA/MT, na vigência do CPC/73, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"APELAÇÃO CÍVEL - TRIBUTÁRIO - PRELIMINAR DE NULIDADE DA SENTENÇA - REJEIÇÃO - FUNDAMENTO DA SENTENÇA DIVERSO DO POSTO NA INICIAL - IURA NOVIT CURIA - POSSIBILIDADE - CONTRIBUIÇÃO DE MELHORIA - VALORIZAÇÃO IMOBILIÁRIA - NÃO COMPROVAÇÃO - ÔNUS DO ENTE PÚBLICO - REPETIÇÃO DE INDÉBITO NA FORMA SIMPLES - RECURSO PARCIALMENTE PROVIDO - SENTENÇA REFORMADA - RECURSO ADESIVO PREJUDICADO.
+Assentado na expressão latina iura novit curia, que se afigura na realidade como verdadeiro princípio processual específico acerca dos poderes do juiz, significa que o julgador não está limitado às regras jurídicas indicadas pelas partes, pois, diante da presunção de que conhece o direito, cabe-lhe aplicar as normas ex officio.
+O fato gerador da contribuição de melhoria é a valorização imobiliária. Logo, a base de cálculo para cobrança deste tributo é a diferença entre os valores inicial e final do imóvel beneficiado.
+Cabe ao ente público comprovar a valorização do imóvel tributado, nos termos do art. 333, II, do Código de Processo Civil.
+Reformada a sentença, o recurso adesivo se mostra prejudicado" (fl. 242e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 276/284e).
+Alega o recorrente, nas razões do Recurso Especial, ofensa ao art. 535, II, do CPC/73, assim como aos arts. 3º, 81 e 82 do CTN.
+Sustenta que a Corte de origem incorreu em omissão, ao deixar de se pronunciar sobre questão essencial à solução da controvérsia.
+Assevera, de outra parte, que "a relação que nasceu entre as partes não ensejou a obrigação tributária, quanto a contribuição de melhoria, pois a obrigação tributária nasce com a ocorrência do fato gerador, e o fato gerador da obrigação nasceu de uma relação contratual, facultativa, portanto, de natureza não tributária" (fl. 308e).
+Contrarrazões apresentadas (fls. 342/348e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 363/365e).
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, na origem, a questão referente à natureza tributária ou não da cobrança foi assim analisada:
+"(..) a Lei Municipal foi bem clara ao dispor que os moradores que desejassem contratar a pavimentação poderiam aderir ao programa, sendo que é bem evidente, segundo meu convencimento, que essa adesão não tem natureza tributária, mas sim contratual" (fl. 157e - sentença).
+"Na hipótese, o magistrado do feito limitou-se aos termos expostos na petição inicial, todavia, entendeu que a natureza jurídica da relação travada entre apelante e apelado seria contratual, e não tributária, visto a existência de Termo de Confissão de Dívida.
+Ocorre que, a despeito da existência do referido termo, que, em tese caracterizaria a natureza contratual, não desconfigura o caráter tributário da cobrança, sobretudo porque esta foi imposta ao contribuinte (apelante), por ato unilateral do Poder Público" (fl. 245e - acórdão).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ademais, o enfrentamento da controvérsia exigiria a análise de dispositivos de legislação local (Lei Municipal 813/2005, que instituiu o Programa de Pavimentação Asfáltica), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e , nessa parte, nego-lhe provimento.
+I.
