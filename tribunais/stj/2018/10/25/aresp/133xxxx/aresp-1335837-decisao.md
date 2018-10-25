@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. DOSIMETRIA DA PENA. ARTS. 59 E 68 DO CP. EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. NEGATIVAÇÃO DA CULPABILIDADE. REINCIDÊNCIA. CONDENAÇÕES DISTINTAS.
+Agravo conhecido para negar provimento a recurso especial.
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão de inadmissão de recurso especial, este interposto contra acórdão proferido no processo n. 201700330364 pela Câmara Criminal do Tribunal de Justiça de Sergipe que, negando provimento ao seu apelo, manteve-o submetido à pena de 9 anos e 4 meses de reclusão, em regime fechado, e 933 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33 da Lei n. 11.343/2006, conforme termos da seguinte ementa (fl. 247):
+DIREITO PENAL E DIREITO PROCESSUAL PENAL - APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES (ART. 33, DA LEI Nº 11.343/06) - IRRESIGNAÇÃO QUANTO À dosimetria - pedido de reforma da circunstância judicial referente à culpabilidade do réu - INACOLHIDO PRINCÍPIO NON BIS IN IDEM - mesmo fato já considerado na agravante da reincidência - ENTENDIMENTO DIVERSO - ACOLHIMENTO EM NOME DA COLEGIALIDADE - APELO CONHECIDO E IMPROVIDO - UNÂNIME.
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria violado os arts. 59 e 68 do Código Penal, porquanto considerou uma mesma condenação com circunstância judicial negativa (culpabilidade) e como agravante da reincidência. Essa compreensão iria de encontro à orientação firmada na Súmula 241/STJ.
+Sustenta, outrossim, que o acórdão estaria divergindo, no ponto, com o decidido pelo Superior Tribunal de Justiça no HC n. 9.219 e pelo Tribunal de Justiça do Distrito Federal e Territórios no processo n. 20110112289508APR (fls. 255/269).
+Contrarrazões às fls. 273/280.
+O apelo foi obstado na origem por demandar reexame de provas (fls. 284/287).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que a jurisprudência asseguraria o acesso à instância recursal excepcional quando o objeto da irresignação fosse a revaloração dos elementos fáticos probatórios. No caso em apreço, a violação dos dispositivos legais seria verificado por mera revaloração dos elementos do acórdão. Acresce que o juízo sentenciante e o Tribunal teriam caminhado em sentido oposto ao entendimento jurisprudencial assente, utilizando mesma condenação para reconhecer circunstância judicial desfavorável e a presença de agravante da reincidência. A similitude entre os casos e as decisões colacionadas demonstrariam a divergência da decisão do Tribunal com a jurisprudência pátria (fls. 295/311).
+Contrarrazões ao agravo em recurso especial às fls. 315/319.
+O Ministério Público Federal opina pelo não provimento do agravo, dada a necessidade de reexaminar provas (fls. 328/329).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à violação dos arts. 59 e 68, ambos do Código Penal, bem como pelo dissídio jurisprudencial, o Superior Tribunal de Justiça entende que o julgador não está adstrito a critérios puramente matemáticos, havendo certa discricionariedade na dosimetria da pena, vinculada aos elementos concretos constantes dos autos, não inerentes ao tipo.
+A esse respeito: AgRg no AREsp n. 1.140.562/SP, de minha relatoria, Sexta Turma, DJe 11/5/2018.
+Ademais, o quantum de aumento decorrente da negativação das circunstâncias não está estipulado no Código Penal, de forma que devem ser observados os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena (Cf. HC n. 416.254/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/10/2017).
+Essa questão foi tratada da seguinte maneira (fl. 249):
+ ..
+Ao analisar a dosimetria realizada pelo sentenciante, observo que incorreu em equívoco, uma vez que não observou o princípio non bis in idem ao valorar desfavoravelmente a culpabilidade do recorrente, uma vez que a condenação contra ele já foi utilizada na agravante da reincidência, pois os números dos processos relacionados referem-se a ação penal e a execução da pena, ou seja, tratam dos mesmos fatos.
+Todavia, o Pleno deste Tribunal nos autos dos Embargos Infringentes nº 201800102802 decidiu, por maioria, que não há bis in idem nestes casos, conforme ementa abaixo transcrita:
+ ..
+No entanto, observa-se que as condenações mencionadas na sentença são diversas (fl. 152 - grifo nosso):
+ ..
+A culpabilidade foi reprovável, uma vez que o réu cometeu o crime enquanto cumpria pena por condenação criminal nos autos da AP nº 200920701022, cuja execução encontra-se em andamento, logo, demonstrou maior ousadia e indiferença com as decisões judiciais, as autoridades instituídos e o sistema normativa vigente; Trata-se de réu não primário, que ostenta condenação criminal definitiva nos autos nº 200921200013, que, porém, caracterizará a reincidência, em fase própria; não há informações acerca da sua conduta social; não há informações técnicas sobre sua personalidade; as circunstâncias foram inerentes ao tipo; os motivos foram inerentes ao tipo; as conseqüências foram inerentes ao tipo; foram apreendidas na posse do agente aproximadamente 152g (peso líquido) de maconha, 22,5g (peso líquido) de crack e 18,7 g (peso líquido) de cocaína, ou seja, substâncias de baixa e alta nocividade, em quantidade considerável (maconha, cocaína e crack); a vítima foi a sociedade. Ante tais circunstâncias, das quais 03(três) foram desfavoráveis (culpabilidade, quantidadee natureza da droga), fixo a pena base em 08(oito) anos de reclusão e 800 (oitocentos) dias-multa.
+Presente a agravante da reincidência, aumento a pena do Acusado em 1/6 (um sexto), aplicando a reprimenda, nesta fase, de 09 (nove) anos e 04(quatro) meses de reclusão, além de 933 (novecentos e noventa e três) dias-multa. que, à falta de outras circunstâncias, torno definitiva.
+ ..
+Não se trata, assim, da hipótese da Súmula 241/STJ, quando se veda a negativação de circunstância judicial e da agravante da reincidência com base na mesma condenação.
+Tratando-se de condenações distintas, não há de ser provida a insurgência.
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência assente neste Tribunal, autoriza-se o julgamento monocrático, conforme a Súmula 568/STJ.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
