@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. RECURSO ESPECIAL PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL OBJETO DO DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE DE CONHECIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. VERBETE SUMULAR N.º 284/STF. PRECEDENTES. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTA. ARESTO DO MESMO TRIBUNAL. SÚMULA N.º 13 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISSÍDIO NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEONEL MUNARI contra decisão do Tribunal de Justiça do Estado do Paraná, que negou seguimento a recurso especial interposto com fundamento na alínea c do permissivo constitucional.
+Consta nos autos que o Agravante foi condenado à pena de 2 (dois) anos, 9 (nove) meses e 22 (vinte e dois) dias de detenção, em regime aberto, como incurso no art. 302, caput, da Lei n.º 9.503/1997, por quatro vezes, na forma do art. 70 do Código Penal, substituída por duas sanções restritivas de direitos, além de suspensão do direito de dirigir veículo automotor pelo prazo de 82 dias.
+Contra a sentença, a Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem, nos termos da seguinte ementa (fl. 543):
+"APELAÇÃO CRIMINAL - HOMICÍDIO CULPOSO COMETIDO NA DIREÇÃO DE VEÍCULO AUTOMOTOR (ART. 302, CAPUT, DO CÓDIGO DE TRÂNSITO BRASILEIRO) - PLEITO ABSOLUTÓRIO - RÉU ALEGA QUE NÃO CONTRIBUIU PARA O DELITO - QUEBRA DO DEVER OBJETIVO DE CUIDADO PELA VÍTIMA QUE ESTAVA EM ALTA VELOCIDADE - IMPROCEDÊNCIA - IMPRUDÊNCIA DO ACUSADO EVIDENCIADA PELO CONJUNTO PROBATÓRIO - CONDENAÇÃO MANTIDA - FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL SUSCITADA PELA PROCURADORIA DE JUSTIÇA - INVIABILIDADE - FUNDAMENTAÇÃO IDÔNEA - RECURSO DESPROVIDO."
+Irresignada, a Defesa interpôs recurso especial, sustentando divergência jurisprudencial entre o acórdão impugnado e entendimento firmado em acórdão proferido pelo próprio Tribunal de Justiça do Estado do Paraná na Apelação n.º 5963328.
+Alega, para tanto, que não ficou comprovada a existência de culpa do Recorrente. Aduz que "as provas periciais não conseguiram demonstrar em momento algum real esclarecimento dos fatos, não podendo basear possível condenação pela fragilidade probatória" (fl. 577).
+ Requer o provimento do recurso para absolver o Recorrente da conduta que lhe foi imputada.
+Contrarrazões às fls. 641-647.
+Ao analisar a admissibilidade do apelo especial, o Tribunal a quo não o admitiu (fls. 649-650), daí a interposição do presente agravo (fls. 670-385).
+O Ministério Público Federal manifestou-se às fls. 705-706, opinando pelo conhecimento do agravo para negar seguimento ao recurso especial.
+É o relatório. Decido.
+Da atenta leitura das razões do recurso especial, verifica-se que não foram indicados os dispositivos de lei federal sobre os quais supostamente teria ocorrido a controvérsia.
+Este Superior Tribunal de Justiça tem entendimento consolidado no sentido de que, mesmo estando calcado na alínea c do permissivo constitucional, o Recorrente deve apontar os dispositivos de lei que teriam obtido interpretação diversa da que foi dada pelo acórdão recorrido, sob pena de inviabilizar o conhecimento do apelo nobre por deficiência na fundamentação, a atrair a incidência, à espécie, do enunciado n.º 284 da Súmula do Supremo Tribunal Federal, in verbis:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO DE DESCLASSIFICAÇÃO DO CRIME DE LESÃO CORPORAL GRAVÍSSIMA. (I) - AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (II) - DISSÍDIO JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. (III) - REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. VIOLAÇÃO AO ART. 59 DO CP. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DAS CONSEQUÊNCIAS DO CRIME. ELEMENTOS CONCRETOS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, verifica-se que o recorrente não aponta expressamente qual norma teria sido objeto de interpretação divergente, não evidenciando, assim, os motivos que fundamentariam a irresignação. Incidência do enunciado n.º 284 da Súmula do STF.
+2. Mesmo nas hipóteses de interposição do apelo especial pela alínea "c" do permissivo constitucional, faz-se imperiosa a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a alegada divergência, sob pena de deficiência na fundamentação recursal.
+3. A não observância dos requisitos do artigo 255, parágrafo 1º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional.
+ ..
+6. Agravo regimental desprovido." (AgRg no AREsp 1.226.330/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "C" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO NO QUAL SE FUNDA A DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. A interposição pela alínea "c" do inciso III do art. 105 da CF exige a indicação do dispositivo de lei federal sobre o qual se funda a divergência. Incidência da Súmula 284 do STF. Precedentes.
+2. Agravo regimental improvido." (AgRg no AREsp 1.013.384/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.)
+Ademais, verifica-se que o cotejo analítico não foi efetuado nos moldes legais e regimentais, ou seja, com comparação entre trechos dos acórdãos recorrido e paradigma, que demonstrem a identidade de situações e a diferente interpretação dada à lei federal.
+Conforme a jurisprudência desta Corte Superior, a ausência do cotejo analítico inviabiliza a análise do recurso especial, e a mera transcrição de ementas dos acórdãos tidos por paradigmas não supre a exigência dos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1.º e 2.º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL. LATROCÍNIO. PRETENDIDA ABSOLVIÇÃO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA N. 284/STF.
+ ..
+3. A mera transcrição de ementas não serve à comprovação do dissenso jurisprudencial, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados. Não demonstrada a divergência nos termos exigidos, incide a vedação prescrita na Súmula n. 284/STF.
+4. Agravo regimental desprovido." (AgRg nos EDcl nos EDcl no AREsp 239.230/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018.)
+Ressalte-se, ainda, que é inviável o cotejo analítico se o julgado paradigma é do próprio Tribunal de origem, o que atrai a incidência, no particular, da Súmula n.º 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
