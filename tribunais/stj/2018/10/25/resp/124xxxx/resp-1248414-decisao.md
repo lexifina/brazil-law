@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSE PENA RIERA com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+SFH. PES. CARÊNCIA DE AÇÃO. INEXISTÊNCIA. ENCARGOS MORATÓRIOS. CORREÇÃO MONETÁRIA.
+1. Em virtude de os agentes financeiros agirem, à época do MS, por representação do extinto BNH, a liminar proferida determinou a instrução dos agentes financeiros ao seu cumprimento, logo, não há falar em carência de ação.
+2. O contrato em análise previu o PES como plano de reajuste, entretanto especificou em sua cláusula de reajustamento das prestações a variação da UPC como critério indexador. A interpretação, neste caso, é de que, havendo a referência à cláusula PES, não poderia ser os reajustes superiores à variação salarial do mutuário, sendo que houve comprovação pela perícia de haver a instituição financeira se desviado dessa diretriz, cobrando, valores maiores que os devidos.
+3. É certo que houve infringência ao contrato por parte do agente financeiro, ao exigir valores de prestações além do devido, o que, em tese, autorizaria o afastamento da cobrança dos encargos moratórios por inadimplemento do devedor. Todavia, para prevenir-se dos efeitos, da mora, deveria o mutuário consignar os valores incontroversos, medida judicial colocada a sua disposição. Devidos os encargos moratórios e a correção monetária." (fl. 469)
+Em suas razões recursais, a recorrente aponta violação aos arts. 396 e 476 do Código Civil de 2002, sustentando, em síntese, que, diante das cobranças abusivas e indevidas, a mora deve ser afastada, bem como deve ser excluída a correção monetária.
+Apresentadas contrarrazões às fls. 490-495.
+É o relatório.
+Inicialmente, quanto à incidência da correção monetária, a recorrente não indica qual ou quais dispositivos legais entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. EXISTÊNCIA DE TÍTULO EXTRAJUDICIAL. ADEQUAÇÃO DA VIA ELEITA, EMBORA POSSÍVEL O AJUIZAMENTO DE PROCESSO DE EXECUÇÃO. NÃO DISCRIMINAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. SÚMULA 284/STF.
+1. É firme a jurisprudência desta Corte, quanto à possibilidade de propositura de ação de conhecimento pelo detentor de título executivo - por não existir prejuízo ao réu em procedimento que lhe franqueia ampliados meios de defesa - assim como de ação monitória, mesmo quando munido de título extrajudicial, para perseguir seus créditos, não obstante também o pudesse fazer pela via do processo de execução. Precedentes.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Aplicação da Súmula 284/STF.
+3. Agravo regimental não provido." (AgRg no REsp 1189134/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015, g.n.)
+Consoante entendimento consolidado nesta Corte Superior, o reconhecimento da abusividade dos encargos exigidos no período da normalidade contratual, como ocorre na presente hipótese, descaracteriza a mora do devedor.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SFH. TABELA PRICE. ANATOCISMO. VERIFICAÇÃO. ENCARGOS ILEGAIS. VERIFICAÇÃO. DESCARACTERIZAÇÃO DA MORA. SÚMULAS N. 5 E 7/STJ.
+1. "1.1. Nos contratos celebrados no âmbito do Sistema Financeiro da Habitação, é vedada a capitalização de juros em qualquer periodicidade. Não cabe ao STJ, todavia, aferir se há capitalização de juros com a utilização da Tabela Price, por força das Súmulas 5 e 7" (Repetitivo REsp n. 1.070.297/PR).
+2. Na hipótese de ser reconhecida, pelo tribunal a quo, a existência de encargos ilegais no contrato de financiamento imobiliário, resta descaracterizada a mora. No entanto, tal verificação não cabe a esta Corte, tendo em vista o disposto nas Súmulas n. 5 e 7 do STJ.
+3. Agravo regimental provido." (AgRg no REsp 1453912/PB, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 02/02/2016, g.n.)
+Na hipótese, o v. acórdão recorrido, apesar de reconhecer que "houve infringência ao contrato por parte do agente financeiro, ao exigir valores de prestações além do devido" (fl. 468), manteve a cobrança dos encargos moratórios. Assim, verifica-se que o entendimento do eg. Tribunal de origem está em desconformidade com a jurisprudência desta Corte, merecendo, pois, reforma.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para afastar a cobrança dos encargos moratórios.
+Publique-se.
