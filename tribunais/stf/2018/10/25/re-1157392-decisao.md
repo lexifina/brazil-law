@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à competência da Justiça Comum para o julgamento da causa. No extraordinário, o recorrente aponta violado o artigo 114, inciso I, da Constituição Federal. Sustenta a competência da Justiça do Trabalho, afirmando tratar-se de empregado público regido pela Consolidação dos Leis do Trabalho.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a fundamentação do acórdão recorrido:
+    Afasto a preliminar de incompetência absoluta da Justiça Comum.
+    Sabe-se que a emenda constitucional nº 45/2004 atribuiu expressamente à Justiça do Trabalho a competência para processar e julgar as ações oriundas de relação de trabalho no âmbito da Administração Pública Direta e Indireta, conforme se verifica na leitura do artigo 114, inciso I, da Constituição da República 1988. Contudo, na ADI 3.395 o Supremo Tribunal Federal firmou entendimento no sentido de que a expressão “relação de trabalho” não compreende as relações de caráter administrativo entre servidores e a Administração Pública.
+    Posteriormente, ao apreciar o RE 573.202, o Supremo Tribunal Federal fixou a tese de que também estão excluídas da competência da Justiça do Trabalho as contratações temporárias regidas por lei local anterior à Constituição da República de 1988.
+    Confira-se a ementa do V. Acórdão:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REGIME ESPECIAL. CONTRATAÇÃO TEMPORÁRIA REGIDA POR LEGISLAÇÃO LOCAL ANTERIOR À CONSTITUIÇÃO DE 1988, EDITADA COM BASE NO ART. 106 DA CONSTITUIÇÃO DE 1967. ACÓRDÃO QUE RECONHECEU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO. RECURSO CONHECIDO E PROVIDO. I - Ao reconhecer a competência da Justiça do Trabalho para processar e julgar a reclamação trabalhista, o acórdão recorrido divergiu de pacífica orientação jurisprudencial deste Supremo Tribunal Federal. II - Compete à Justiça Comum processar e julgar causas instauradas entre o Poder Público e seus servidores submetidos a regime especial disciplinado por lei local editada antes da Constituição Republicana de 1988, com fundamento no art. 106 da Constituição de 1967, na redação que lhe deu a Emenda Constitucional no 1/69, ou no art. 37, IX, da Constituição de 1988. III - Recurso Extraordinário conhecido provido." (RE 573202, Relator: Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 21/08/2008, REPERCUSSÃO GERAL - MÉRITO DJe-232 DIVULG 04-12-2008 PUBLIC 05-12-2008)”. Grifei.
+    Portanto, o caso em tela se amolda ao entendimento acima consignado, pois se trata de contratação de servidor regido por lei local editada antes da promulgação da Constituição de 1988, razão pela qual afasto a preliminar de incompetência da Justiça Comum.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 25 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
