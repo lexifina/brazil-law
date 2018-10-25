@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO CONTRA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA DA UNIÃO. HONORÁRIOS ADVOCATÍCIOS. PARTE AUTORA ASSISTIDA POR DEFENSOR PÚBLICO DA UNIÃO. PRETENSÃO AJUIZADA CONTRA O INSS. NÃO CABIMENTO. SÚMULA 421/STJ. ENTENDIMENTO FIRMADO PELO REGIME DO RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.199.715/RJ, REL. MIN. ARNALDO ESTEVES LIMA, DJE 12.4.2011. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte Superior de Justiça, em Recurso Especial submetido à sistemática prevista no art. 543-C do CPC/1973, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. Não se pode falar em violação a coisa julgada quando há confusão entre as pessoas da mesma Fazenda Pública, por se tratar de crédito extinto na sua origem.
+3. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por OLINDA DE SOUZA CARDOZO contra a decisão que negou provimento ao Agravo em Recurso Especial, nos termos da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA DA UNIÃO. NÃO CABIMENTO. SÚMULA 421/STJ. REPRESENTATIVO DE CONTROVÉRSIA: RESP 1.199.715/RJ, REL. MIN. ARNALDO ESTEVES LIMA, DJE 12.4.2011. AGRAVO EM RECURSO ESPECIAL QUE SE NEGA PROVIMENTO.
+2. Em suas razões recursais, sustenta a parte recorrente, em síntese, que é cabível a condenação da parte Ré nos honorários advocatícios, já que a confusão é anterior a sentença, e decisão em sentido contrário, como a ora recorrida, violou a coisa julgada formada.
+3. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO CONTRA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA DA UNIÃO. HONORÁRIOS ADVOCATÍCIOS. PARTE AUTORA ASSISTIDA POR DEFENSOR PÚBLICO DA UNIÃO. PRETENSÃO AJUIZADA CONTRA O INSS. NÃO CABIMENTO. SÚMULA 421/STJ. ENTENDIMENTO FIRMADO PELO REGIME DO RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.199.715/RJ, REL. MIN. ARNALDO ESTEVES LIMA, DJE 12.4.2011. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte Superior de Justiça, em Recurso Especial submetido à sistemática prevista no art. 543-C do CPC/1973, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. Não se pode falar em violação a coisa julgada quando há confusão entre as pessoas da mesma Fazenda Pública, por se tratar de crédito extinto na sua origem.
+3. Agravo Interno do Particular a que se nega provimento.
+1. Conforme consta da decisão ora agravada, o pleito da Recorrente não merece prosperar.
+2. Cuida-se, na origem, de Embargos à Execução em que a Universidade Federal de Pernambuco defende que não seria possível a condenação em honorários advocatícios em favor da Defensoria Pública da União, já que esta é parte integrante da Fazenda Pública Federal.
+3. Sobre o tema, a egrégia 1a. Seção desta Corte Superior de Justiça, em Recurso Especial submetido à sistemática prevista no art. 543-C do CPC/1973, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública. Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO CONTRA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA DA UNIÃO. HONORÁRIOS ADVOCATÍCIOS. PARTE AUTORA ASSISTIDA POR DEFENSOR PÚBLICO DA UNIÃO. PRETENSÃO AJUIZADA CONTRA A UNIVERSIDADE FEDERAL DE ALAGOAS. NÃO CABIMENTO. SÚMULA 431/STJ. ENTENDIMENTO FIRMADO PELO REGIME DO RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.199.715/RJ, REL. MIN. ARNALDO ESTEVES LIMA, DJE 12.4.2011. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte Superior de Justiça, em Recurso Especial submetido à sistemática prevista no art. 543-C do CPC/73, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. Não se pode falar em violação a coisa julgada quando há confusão entre as pessoas da mesma Fazenda Pública, por se tratar de crédito extinto na sua origem.
+3. Agravo Interno da Defensoria Pública da União a que se nega provimento (AgInt no REsp. 1.546.228/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 27.3.2017).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RELAÇÃO JURÍDICO-PROCESSUAL ENTRE O INSS E PARTE AUTORA ASSISTIDA PELA DEFENSORIA PÚBLICA DA UNIÃO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. CONFUSÃO ENTRE CREDOR E DEVEDOR. INCIDÊNCIA DA SÚMULA 421/STJ. RECURSO ESPECIAL REPETITIVO 1.199.715/RJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, submetido ao rito do artigo 543-C do CPC/1973, de Relatoria do Ministro Arnaldo Esteves Lima, DJe 12/4/2011, firmou entendimento de não serem devidos honorários advocatícios à Defensoria Pública quando atue contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. Incidência, ainda, da Súmula 421/STJ, segundo a qual os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+3. No caso, a relação jurídico-processual é formada pela parte autora assistida por defensor público e o Instituto Nacional do Seguro Social, Autarquia previdenciária federal.
+4. Agravo interno não provido (AgInt no AREsp. 888.057/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19.12.2016).
+4. Ademais, para corroborar tal entendimento, esta Corte Superior de Justiça editou a Súmula 421/STJ, asseverando que:
+Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+5. Assim, embora se trate de discussão suscitada em sede de embargos à execução, assiste razão ao Recorrente, cujo pleito, diversamente do decidido pelo Tribunal de origem, encontra-se amparado pela jurisprudência desta Corte, segundo a qual não se pode haver condenação em honorários advocatícios em favor da Defensoria Pública da mesma Pessoa Jurídica contra quem litiga, sob pena de se incorrer em confusão patrimonial.
+6. Ademais, em se tratando de crédito extinto na sua origem, na hipótese em que há confusão entre as pessoas da mesma Fazenda Pública, não se pode falar em formação de coisa julgada.
+7. Ante o exposto, nega-se provimento ao Agravo Interno do Particular.
+8. É como voto.
