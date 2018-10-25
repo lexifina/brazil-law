@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. PACIENTE PRESO EM FLAGRANTE, EM 15.03.2018, NA POSSE DE 11 (ONZE) PORÇÕES DE MACONHA E 100 ( CEM ) GRAMAS, DA MESMA SUBSTÂNCIA, PRENSADA, COM O OBJETIVO DE COMERCIALIZAÇÃO.
+CUSTÓDIA PREVENTIVA DECRETADA DE OFÍCIO, NO CURSO DA INVESTIGAÇÃO POLICIAL, FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA.
+AUSÊNCIA DE ILEGALIDADE. INCIDÊNCIA DO ART. 310, INCISO II, DO CPP: "AO RECEBER O AUTO DE PRISÃO EM FLAGRANTE, O JUIZ DEVERÁ FUNDAMENTADAMENTE: (  ) CONVERTER A PRISÃO EM FLAGRANTE EM PREVENTIVA, QUANDO PRESENTES OS REQUISITOS CONSTANTES DO ART. 312 DESTE CÓDIGO, E SE REVELAREM INADEQUADAS OU INSUFICIENTES AS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO.(..)". PRECEDENTES.
+AUTORIDADE COATORA ESCLARECE QUE O PACIENTE RESPONDE A OUTRA AÇÃO PENAL, N. 0568755-16.2014.8.05.0001.
+INSUFICIÊNCIA DAS MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP. NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA CAUTELAR. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ORDEM DENEGADA" (e-STJ, fls. 80-81)
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 33 da Lei n. 11.343/2006.
+Neste recurso, sustenta que: a) "o Magistrado não poderia, data venia, converter, de ofício, a prisão em flagrante em preventiva, motivo pelo qual se evidencia a ilegalidade da custódia ora combatida" (e-STJ, fl. 102). b) "o paciente é primário e de bons antecedentes e, portanto, em uma eventual condenação por tráfico, seria reconhecido o privilégio do crime, previsto no artigo. 33, §4º da Lei 11.343/06, diminuindo a pena de um sexto a dois terços, tendo uma possível condenação abaixo de 04 (quatro) anos" (e-STJ, fl. 102); c) "a decisão que converteu a prisão em flagrante em prisão preventiva não apresentou motivos fáticos concretos a ensejar a constrição cautelar imposta ao paciente" (e-STJ, fl. 103); d) há "ausência e razoabilidade ao aplicar a prisão cautelar, quando lhe era possível adoção de medidas outras (que não a prisão) que apresentassem maior congruência e proporcionalidade ao crime supostamente perpetrado, nos termos do art. 319, do Código de Processo Penal" (e-STJ, fl. 107).
+Pleiteia a revogação da custódia provisória ou a substituição dela por medidas cautelares diversas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+O Juiz, mesmo sem provocação da autoridade policial ou da acusação, ao receber o auto de prisão em flagrante, poderá, quando presentes os requisitos constantes do art. 312 do Código de Processo Penal, converter a prisão em flagrante em preventiva, em cumprimento ao disposto no art. 310, II, do mesmo Código, não havendo falar em nulidade.
+Sobre o tema:
+"Quanto à alegação de nulidade da decisão que decretou a prisão preventiva, pois tomada de ofício, a orientação desta Corte Superior é no sentido de que a instância ordinária, ao receber o auto de prisão em flagrante, verificando sua legalidade e inviabilidade de substituição por medida diversa, pode convertê-la em preventiva, se reconhecer a existência dos requisitos preconizados nos arts. 312 e 313 do Código de Processo Penal, ex vi do art. 310, inciso II do CPP, independentemente de representação ou requerimento, ante o risco de liberdade até o início da instrução processual." (RHC 102.973/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/10/2018, DJe 11/10/2018)
+Quanto à fundamentação da segregação cautelar, tem-se que a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso dos autos, extrai-se da decisão que converteu a prisão em flagrante em preventiva:
+"De início, acolho entendimento majoritário do Superior Tribunal de Justiça (HC 325469 / RN; RHC 39172 / RS), no sentido de que conversão da prisão em flagrante em preventiva pode ser feita de ofício pelo magistrado tanto na fase inquisitorial quanto na fase processual, nos termos do art. 310, II, do Código de Processo Penal.
+Sendo assim, como é cediço, a prisão cautelar é medida extrema no âmbito criminal e, para tanto, exige a presença dos requisitos do fumus comissi delicti e do periculum libertatis, além da constatação dos critérios objetivos do art. 313, do Código de Processo Penal.
+A esse respeito, o fumus comissi delicti encontra-se lastreado no artigo 312 do CPP, quando provados a existência do crime e os indícios suficientes de autoria - situação adimplida nos presentes autos, tanto pela constatação preliminar da droga, quanto pela oitiva das testemunhas apresentadas.
+De outra parte, o periculum in mora encontra-se presente, visto que o flagranteado responde a outro processo criminal, na Comarca de Salvador, n. 0568755-16.2014.8.05.0001, demonstrando ser inclinado à prática delitiva. Logo, sua liberdade, neste momento, tem o condão de perturbar a ordem pública.
+Ante o exposto, com supedâneo nos artigos 312 e 313 do Código de Processo Penal, CONVERTO O FLAGRANTE EM PRISÃO PREVENTIVA de [NOME] DOS [NOME] [NOME], brasileiro, solteiro, nascido em 29.09.1994, filho de LIDIO DE [NOME] e CLEONICE BISPO DOS [NOME]" (e-STJ, fl. 18.)
+Como se vê, a prisão preventiva do recorrente está suficientemente fundamentada na necessidade de garantida da ordem pública, como forma de evitar a reiteração delitiva, pois ele responde a outro processo criminal.
+Nesse sentido, confiram-se os seguintes julgados:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. ARTIGO 33, CAPUT, DA LEI N. 11.343/2006 E ARTIGO 155, C/C ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. REITERAÇÃO DELITIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - No caso, a prisão preventiva do paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade da segregação cautelar para garantia da ordem pública, notadamente se considerado o fato de o paciente já responder a outros processos, circunstância que demonstra, na espécie, o fundado receio de reiteração delitiva. (Precedentes do STF e do STJ).
+ ..
+Habeas corpus não conhecido."
+(HC 311.101/SP, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 10/2/2015, DJe 23/2/2015.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. COMPETÊNCIA DAS CORTES SUPERIORES. MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DESTE TRIBUNAL, EM CONSONÂNCIA COM A SUPREMA CORTE. FURTO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DEMONSTRADA PELO MODUS OPERANDI. PERICULOSIDADE CONCRETA DO ACUSADO. RECEIO CONCRETO DE REITERAÇÃO CRIMINOSA. GARANTIA DE APLICAÇÃO DA LEI PENAL. FUGA DO RÉU DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA QUE RECOMENDA A MEDIDA CONSTRITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+4. Inquéritos policiais e processos em andamento, embora não tenham o condão de exasperar a pena-base no momento da dosimetria da pena (Súmula n. 444/STJ), são elementos aptos a demonstrar, cautelarmente, eventual receio concreto de reiteração delitiva, fundamento suficiente para a decretação/manutenção da prisão antecipada.
+ ..
+7. Ordem de habeas corpus não conhecida."
+(HC 293.389/PR, rel. Ministra LAURITA VAZ, QUINTA TURMA, j. 12/8/2014, DJe 22/8/2014.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
