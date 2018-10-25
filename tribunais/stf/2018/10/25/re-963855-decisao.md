@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Ação direta de inconstitucionalidade. Lei Municipal, de iniciativa parlamentar, que dispõe sobre o incentivo à criação de ‘Banheiros Livres nas Feiras Livres’ no Município de São José do Rio Preto. Ausência de ofensa à regra da separação dos poderes. Vício de iniciativa não configurado. Inexistência de afronta à regra contida no artigo 25 da Constituição do Estado. Precedentes do Supremo Tribunal Federal. Pedido julgado improcedente, cassada a liminar deferida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º; 24; 25; e 47, II e XIV, da CF.
+    A Procuradoria-Geral da República opinou pelo desprovimento do agravo. Veja-se o seguinte trecho do parecer ministerial:
+    “[...] não há de se cogitar de invasão de iniciativa reservada ao Chefe do Executivo. Ensina essa Corte que a competência comum é a regra no processamento legislativo; a reserva de iniciativa constitui exceção. Daí que a inteligência destes últimos casos deve ser restritiva, como o STF explicou, entre outros julgados, na ADI 724 MC (rel. O Ministro Celso de Mello, DJ 27.4.2001).
+    A iniciativa reservada, por constituir matéria de direito estrito, não se presume e nem comporta interpretação ampliativa, na medida em que – por implicar limitação ao poder de instauração do processo legislativo – deve necessariamente derivar de norma constitucional explícita e inequívoca.
+    Da mesma forma, esclareceu o Supremo Tribunal em outra oportunidade:
+    Não procede a alegação de que qualquer projeto de lei que crie despesa só poderá ser proposto pelo Chefe do Executivo. As hipóteses de limitação de iniciativa parlamentar estão previstas em numerus clausus, no artigo 61 da Constituição do Brasil – matérias relativas ao funcionamento da Administração Pública, notadamente no que se refere a servidores e órgãos do Poder Executivo (ADI 3394, rel. O Ministro Eros Grau, DJe 15.8.2008).
+    Cite-se, afinal, este julgado, proferido em sede de repercussão geral:
+    Recurso extraordinário com agravo. Repercussão geral. 2. Ação Direta de Inconstitucionalidade estadual. Lei 5.616/2013, do Município do Rio de Janeiro. Instalação de câmeras de monitoramento em escolas e cercanias. 3. Inconstitucionalidade formal. Vício de iniciativa. Competência privativa do Poder Executivo municipal. Não ocorrência. Não usurpa a competência privativa do chefe do Poder Executivo lei que, embora crie despesa para a Administração Pública, não trata da sua estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores públicos. 4. Repercussão geral reconhecida com reafirmação da jurisprudência desta Corte. 5. Recurso extraordinário provido (ARE n. 878.911/RJ, rel. Ministro Gilmar Mendes, DJe 11.10.2016).
+    Não cabe, assim cogiar, na espécie, do vício imputado ao diploma.
+    O Supremo Tribunal Federal também já assentou que leis que concedem benefícios fiscais não se qualificam como leis orçamentárias, Nesse sentido, o ARE 743.480 (rel. O Ministro Gilmar Mendes, DJe 20.11.2013), julgado sob a sistemática de repercussão geral:
+    (…) Também não incide, na espécie, o art. 165 da Constituição Federal, uma vez que a restrição nele prevista limita-se ás leis orçamentárias plano plurianual, lei de diretrizes orçamentárias e lei orçamentária anual e não alcança os diplomas que aumentem ou reduzam exações fiscais. Ainda que acarretem diminuição das receitas arrecadadas, as leis que concedem benefícios fiscais tais como isenções, remissões, redução de base de cálculo ou alíquota não podem ser enquadradas entre as leis orçamentárias a que se referem o art. 165 da Constituição Federal.
+    O parecer é pelo não seguimento do recurso extraordinário.”
+    Correto o parecer ministerial, que adoto como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação por remissão (ARE 757.522-AgR, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
