@@ -1,0 +1,17 @@
+DECISÃO
+
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça daquela unidade federativa, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 135):
+Embargos Infringentes - Quinquênio - Incidência sobre os vencimentos integrais, excluindo-se as parcelas eventuais - O artigo 129 da Constituição Estadual engloba o padrão e as vantagens adicionais efetivamente recebidas, excluídas as eventuais - As gratificações que representam verdadeiro aumento salarial estão incluídas no conceito de vantagens incorporadas - Regra que se aplica sem a restrição da EC nº 19/98 e da Lei Complementar nº 731/93. Acolhem-se os embargos dos autores e não se reconhece os da Fazenda.
+Embargos declaratórios foram rejeitados (e-STJ fl. 155).
+No especial obstaculizado, a parte recorrente apontou violação do art. 530 do CPC/1973, sustentando o não cabimento dos embargos infringentes opostos, haja vista que o voto vencido, na parte que tratou da inclusão da sexta-parte na base de cálculo dos quinquênios, seguiu o mesmo entendimento adotado pelos demais julgadores que prolataram os votos vencedores.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 7 do STJ. (e-STJ fls. 198/200).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à possível violação do dispositivo invocado, observa-se que o acórdão recorrido, com base no contexto fático-probatório dos autos, chegou à seguinte conclusão (e-STJ fl. 136):
+ Inicialmente, os embargos infringentes interpostos pelos Autores têm cabimento no presente caso, pois o voto que apreciou a apelação reformou, por maioria, o mérito da sentença. Porém estão restritos à matéria objeto da divergência - inclusão da sexta-parte na base de cálculo dos quinquênios, constante no voto vencido.
+Desse modo, analisar as razões do recorrente com o objetivo de infirmar as conclusões do acórdão demandaria o revolvimento de matéria fático-probatória constante nos autos, sobretudo para examinar se, de fato, o voto vencido, na parte que tratou da inclusão da sexta-parte na base de cálculo dos quinquênios, seguiu o mesmo entendimento adotado pelos demais julgadores que prolataram os votos vencedores, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
