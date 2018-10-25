@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por [NOME] OUTRA contra decisão às fls.683/688 que conheceu do agravo para negar provimento ao recurso especial sob os fundamentos de (a) impossibilidade de análise de matéria constitucional em sede de recurso especial; (b) ausência de omissão no acórdão recorrido; (c) decisão de acordo com jurisprudência do STJ na questão dos danos morais nos casos de atraso na entrega; (d) incidência do óbice da Súmula 7/STJ na análise da configuração dos danos morais; (e) ausência de prequestionamento da tese sobre a ilegalidade da redução do percentual da cláusula penal; e (f) incidência do óbice da Súmula 7/STJ na análise do percentual em que as partes saíram vencedoras ou vencidas na demanda.
+Os embargantes alegam omissão no acórdão recorrido quanto "as demais situações sofridas pelo casal em razão da falta de entrega do imóvel no data aprazada" (fl. 692) que poderiam ensejar outro resultado para o julgamento, sendo necessária a devolução dos autos à Corte de origem, a fim de apreciar esses temas, uma vez que fica caracteriza da violação da norma contida no artigo 535, I e II, do CPC/73.
+Aduz que o acórdão recorrido omitiu opinião sobre temas relevantes aos interesses do embargante, razão pela qual evidencia-se a deficiência na fundamentação.
+Ao final, requer que sejam sanadas as omissões apontadas e conferidos efeitos modificativos aos embargos de declaração em face da relevância arguida.
+Não foi apresentada impugnação aos aclaratórios (fl. 700).
+É o relatório.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão, não sendo admitida sua interposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, o que significa que os embargos não são aptos a provocar novo julgamento da lide.
+Consoante a jurisprudência do STJ, a omissão, contradição ou obscuridade remediáveis pela via dos embargos de declaração são aquelas internas ao julgado embargado, resultante da desarmonia entre a fundamentação e as conclusões da própria decisão. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. ART. 535 DO CPC. AUSÊNCIA. EFEITOS INFRINGENTES. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. POSSIBILIDADE. INTERPOSIÇÃO VIA FAX. ORIGINAL NÃO APRESENTADO. NÃO CONHECIMENTO. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a jurisprudência desta Corte, a omissão, contradição ou obscuridade remediáveis são aquelas internas ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão, o que não se verifica no presente caso.
+2. Presentes os requisitos para aplicação do princípio da fungibilidade, devem ser recebidos como agravo regimental os embargos declaratórios opostos contra decisão monocrática e que tenham nítido intuito infringente.
+3. Nos termos do art. 2º da Lei nº 9.800/99, os originais da petição apresentada via fax devem ser juntados aos autos até 5 dias da data do término do prazo recursal.
+4. Agravo regimental não provido."
+(EDcl nos EAREsp 651.908/RS, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 09/03/2016, DJe 14/03/2016, g.n.)
+Nos presentes aclaratórios, os embargantes apontam tão somente omissões no acórdão proferido pelo Tribunal a quo, sendo nítido propósito de se rediscutir questão devidamente apreciada no julgamento dos agravos internos quanto ao cabimento da indenização securitária e o termo inicial da correção monetária.
+Não se constata, portanto, no caso ora em análise, qualquer omissão na decisão embargada apta a ensejar seu reparo pela via dos aclaratórios.
+Ante o exposto, rejeita-se os embargos de declaração.
+É como voto.
