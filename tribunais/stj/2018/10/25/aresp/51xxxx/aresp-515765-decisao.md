@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO AMAZONAS contra decisão que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado:
+EMENTA: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DEBATE SOBRE VALORES A SEREM ADIMPLIDOS VIA PRECATÓRIO COMPLEMENTAR. ANÁLISE DE EVENTUAL OCORRÊNCIA DE ANATOCISMO. INEXISTÊNCIA DE VIOLAÇÃO À COISA JULGADA. MERO ERRO MATERIAL. TAXA JUDICIÁRIA. CONDENAÇÃO DA FAZENDA PÚBLICA. POSSIBILIDADE. CONSECTÁRIO DA SUCUMBÊNCIA. NATUREZA DE CUSTA PROCESSUAL. RECURSO PARCIALMENTE PROVIDO.
+I - A quaestio trazida nos presentes autos tem como objetivo estabelecer se é possível - no bojo da apuração de valor complementar a ser adimplido via Precatório - o debate sobre, a uma, a ocorrência de anatocismo nos cálculos que fixaram o quantum devido e, a duas, a inclusão indevida de taxa judiciária no montante a ser requisitado por Precatório Complementar.
+II - Nos termos da jurisprudência iterativa da Corte Constitucional e do Tribunal da Cidadania, a alegaçao de eventual anatocismo pode ser debatida neste momento processual, mormente porque eventual constatação de incidência de juros sobre juros é mero erro de cálculo (erro material), podendo ser analisado, inclusive, de ofício.
+III - De fato, entendimento diverso não se coadunaria com o que dita o art. l.º-E, da Lei n.º 9.494/97, incluído pela Medida Provisória n.º 2.180-35/2001, o qual permite ao Presidente do Tribunal, de ofício ou a requerimento das partes, proceder à revisão das contas elaboradas para aferir o valor dos Precatórios antes de seu pagamento ao credor.
+IV - Quanto ao pleito de exclusão da quantia atinente à taxa judiciária, doutra banda, tem-se que a taxa judiciária possui natureza de custa processual, razão pela qual a imposição de pagamento representa apenas um consectário da sucumbência. Precedentes do STJ.
+V - Agravo de Instrumento parcialmente provido.
+No especial obstaculizado, o ora agravante apontou violação dos seguintes dispositivos legais: arts. 20 e 27 do CPC/1973 e art. 77 do CTN. Alega que, em virtude da natureza tributária da taxa judiciária, não é possível a restituição do valor pago.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que a pretensão esbarra no óbice da Súmula 7 do STJ (e-STJ fls. 199/201).
+Na presente irresignação, o agravante alega, em resumo, que não se trata de reexame de fatos e provas, pois a matéria é de direito e diz respeito à cobrança indevida de valor a maior, a título de custas (e-STJ fls. 205/208).
+Contraminuta consta às e-STJ fls. 226/234.
+A parte recorrida pleiteou prioridade no julgamento do recurso (e-STJ fls. 241/242 e 249).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida essa premissa, observo que o teor dos dispositivos do CPC/1973, tidos por violados, apesar de arguidos nos aclaratórios, não foi examinado no aresto recorrido, o que denota carecer o especial do indispensável prequestionamento (Súmula 211 do STJ).
+Por outro lado, o Tribunal amazonense considerou que a taxa judiciária possui natureza de custa processual, "razão pela qual a imposição de pagamento representa apenas um consectário da sucumbência" (e-STJ fl. 90).
+Em seu apelo nobre, o Estado/recorrente defende a natureza tributária da taxa referida, valendo-se, para tanto, do teor de dispositivos de leis estaduais, ali transcritos (e-STJ fls. 185/186).
+Assim, a eventual afronta à legislação federal apontada mostra-se reflexa, na medida em que sua análise implica o exame dos mencionados diplomas estaduais, o que é inviável no recurso especial, conforme a inteligência da Súmula 280 do STF, aplicada por analogia, in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
