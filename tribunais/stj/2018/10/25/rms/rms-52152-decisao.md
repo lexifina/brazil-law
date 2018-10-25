@@ -1,0 +1,33 @@
+DECISÃO
+Relatório.
+Cuida-se de recurso em mandado de segurança interposto pelo Estado de São Paulo contra o acórdão às fls. 319 a 331, proferido à unanimidade pelos integrantes da Turma Julgadora do Órgão Especial do Tribunal de Justiça do Estado de São Paulo e resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA - ATO JUDICIAL - NEGATIVA DE SEGUIMENTO, POR DECISÃO MONOCRÁTICA DO PRESIDENTE DA SEÇÃO DE DIREITO PÚBLICO, AO AGRAVO DENEGATÓRIO DE PROCESSAMENTO DE RECURSO ESPECIAL (ART. 544 DO CPC) INTERPOSTO CONTRA V. ACÓRDÃO DA CÂMARA ESPECIAL DE PRESIDENTES, QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, PARA CONFIRMAR PRECEDENTE DECISÃO DO PRESIDENTE DA SEÇÃO DE DIREITO PÚBLICO QUE MONOCRATICAMENTE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM FUNDAMENTO EM V.ACÓRDÃO DO COLENDO STJ PROCESSADO SOB A FORMA DE RECURSO REPETITIVO - CONVERSÃO DE VENCIMENTOS DE SERVIDORES EM URV - LEGALIDADE - DECISÃO PROFERIDA COM AMPARO NA VEDAÇÃO PREVISTA NO ART. 3º DO ASSENTO REGIMENTAL 397/2011 - INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA - AUSÊNCIA DOS REQUISITOS LEGAIS PARA DEFERIMENTO DA SEGURANÇA - DIREITO AO SEGUIMENTO DO RECURSO ESPECIAL NÃO EXISTENTE PORQUANTO TAMBÉM ALCANÇADO PELA PRECLUSÃO CONSUMATIVA.
+INDEFERIMENTO DA INICIAL, ART. 10, CAPUT, DA LEI N. 12.016, DE 7 DE AGOSTO DE 2009.
+SEGURANÇA DENEGADA. (FL. 323).
+As razões que o recorrente apresenta às fls. 336 a 348, para justificar a interposição do presente apelo, buscam, em síntese, demonstrar o desacerto da decisão monocrática proferida pelo Presidente da Corte Bandeirante para negar seguimento ao recurso especial.
+Os recorridos trouxeram aos autos as contrarrazões às fls. 351 a 353, nas quais refutam os argumentos da Fazenda Pública Paulista. Dizem existir erros grosseiros nos recursos interpostos na origem e defendem a solução dada ao caso pela Corte Paulista.
+O Ministério Público Federal, pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não provimento do recurso, consoante fundamentos do parecer às fls. 381 a 383, resumido na seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL.
+Servidor público. Reajuste. Conversão de vencimento sem URV garantida em ação ordinária. Negativa de seguimento ao recurso especial. Decisão atacada por agravo interno, não provido. Impetração contra essa última decisão judicial. Segurança denegada. Recurso ordinário em mandado de segurança. Razões de recurso que se limitam a repetir os argumentos do recurso especial e do subsequente agravo em recurso especial, e não impugnam o fundamento do Acórdão atacado, suficiente para a manutenção do julgado, referente à impossibilidade de impetração de mandado de segurança contra ato jurisdicional no caso dos autos, em que não restou configurado flagrante ilegalidade, teratologia ou abuso de poder. Recurso que não deve ser provido. (fl. 381).
+Decisão.
+A viabilidade do recurso ordinário pressupõe, desde logo, a demonstração de erro na concatenação dos juízos expostos na fundamentação (exposição dos fundamentos) do acórdão recorrido.
+Essa é a razão pela qual a jurisprudência desta Corte Superior há muito se pacificou no sentido de que não se deve conhecer, por irregularidade formal violadora do princípio da dialeticidade, do recurso ordinário cujas razões não combatem especificamente todos os fundamentos do acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. NÃO OBSERVAÇÃO DO PRINCÍPIO DA DIALETICIDADE. IRREGULARIDADE FORMAL QUE IMPEDE O SEGUIMENTO DO RECURSO. 1. O argumento do aresto recorrido, no sentido de que houve decadência do direito de impugnar a regra do edital, não foi impugnado. 2. A jurisprudência do Superior Tribunal de Justiça entende que padece de irregularidade formal o Recurso Ordinário em Mandado de Segurança em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade. 3. Agravo Regimental não provido.
+(AgRg no RMS 44.887/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/11/2015)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. NÃO OBSERVAÇÃO DO PRINCÍPIO DA DIALETICIDADE. IRREGULARIDADE FORMAL QUE IMPEDE O SEGUIMENTO DO RECURSO.
+1. Os fundamentos da decisão judicial, seja sentença ou acórdão, são as razões, de fato e de direito, que o magistrado analisa para formar seu convencimento racional e que justificarão a solução que, no momento oportuno, explicitará no dispositivo.
+2. A viabilidade do recurso - qualquer recurso - pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação (exposição dos fundamentos), e não a mera insurgência contra o comando contido no dispositivo.
+3. Essa é a razão pela qual a jurisprudência desta Corte Superior há muito se pacificou no sentido de que deve ser negado seguimento, por irregularidade formal violadora do princípio da dialeticidade, ao recurso ordinário cujas razões não combatem os fundamentos do acórdão recorrido, como ocorreu na espécie. Precedentes.
+4. Assentando-se o acórdão recorrido em múltiplos fundamentos, todos eles autônomos e suficientes para sustentar a decisão, como é o caso ora examinado, a falta de impugnação a qualquer um deles é, só por si, razão bastante para mantê-lo inalterado.
+5. Agravo Regimental a que se nega provimento.
+(AgRg no RMS 44.612/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 17/03/2015)
+Inspirado por esse entendimento, o Código de Processo Civil vigente expressamente impede o conhecimento do recurso cujas razões não cuidam de impugnar, especificamente, os fundamentos do acórdão recorrido. Confira-se:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Dessarte, para êxito deste recurso, as razões recursais deveriam apontar o desacerto das premissas que fundamentaram o aresto recorrido, estampadas em sua própria ementa.
+Todavia, no caso dos autos, as razões recursais se voltam contra a decisão monocrática proferida pelo Presidente do Tribunal de Justiça do Estado de São Paulo e que, posteriormente, deu origem ao acórdão proferido em outros autos, ao fim indicado, como ato impugnado no writ, que originou o presente recurso ordinário. Com isso, os fundamentos do acórdão agora recorrido não foram sequer tangenciados nas razões recursais.
+Essa irregularidade formal, violadora do princípio da dialeticidade, impede, só por si, o conhecimento do recurso ordinário.
+Ante o exposto, com âncoras no art. 932, III, do CPC e no art. 34, XVIII, "a", do RISTJ, não conheço do presente recurso ordinário.
+Publique-se.
