@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RITA TEREZINHA KUHN à decisão de fls. 483/485, que não conheceu do recurso.
+Sustenta a parte embargante que "Ocorre que a decisão OMITIU que às fls. e-STJ 455/457 está juntado o COMPROVANTE DO PAGAMENTO DA ALUDIDA MULTA." (fl. 490).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, verifica-se que o acórdão recorrido, ao negar provimento ao agravo interno interposto pela parte Recorrente, aplicou multa, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor.
+Ocorre que, no ato da interposição do recurso especial, a parte deixou de recolher os valores correspondentes à penalidade aplicada.
+Nessas hipóteses, não se conhece do recurso especial quando interposto sem o recolhimento da multa inserta no art. 1.021, § 4.º, do Código de Processo Civil, imposta pelo Tribunal de origem, vez que tal recolhimento configura-se pressuposto objetivo de admissibilidade recursal, com natureza de penalidade processual.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). ART. 1021. §§ 4º E 5º DO CPC/2015. MULTA. NÃO COMPROVAÇÃO DO RECOLHIMENTO. PRESSUPOSTO RECURSAL OBJETIVO DE ADMISSIBILIDADE. EMBARGOS NÃO CONHECIDOS" (EDcl no AgInt no AREsp 604.595/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/12/2016, DJe 06/12/2016.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. MULTA DO ART. 557, § 2º, DO CPC/1973. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE. JUNTADA POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO. AGRAVO IMPROVIDO.
+1. A falta de comprovação do prévio recolhimento da multa imposta pelo Tribunal de origem, no momento da interposição do recurso especial, implica na sua inadmissão por ausência de pressuposto recursal objetivo.
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 628.238/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/09/2016, DJe 05/10/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DA MULTA PROCESSUAL. PRESSUPOSTO RECURSAL OBJETIVO DE ADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Não merecem ser conhecidos os embargos de declaração uma vez que a parte não efetuou o recolhimento da multa processual imposta pelo acórdão embargado com fundamento no artigo 1.021, § 4º, do Código de Processo Civil de 2015.
+2. Segundo a clara dicção do artigo 1.021, § 5º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+3. Embargos de declaração não conhecidos (EDcl no AgInt no AREsp 859.529/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2016, DJe 29/08/2016.)
+Ressalte-se que, no caso, não se aplica o disposto no parágrafo único do art. 932, do Código de Processo Civil, uma vez que não se trata de vício formal, mas sim, penalidade processual, não passível de regularização. Portanto, o recolhimento efetuado às fls. 455/456 não tem o condão de regularização o referido vício, uma vez que se trata de vício insanável.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
