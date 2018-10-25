@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, este interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 103):
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO REVISIONAL DE FINANCIAMENTO IMOBILIÁRIO. FASE DE CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO ESPONTÂNEO. OFERECIMENTO DE BEM PARA FINS DE IMPUGNAÇÃO. MULTA DE 10% ESTABELECIDA PELO ARTIGO 475-J DO CPC. INCIDÊNCIA. HONORÁRIOS ADVOCAT CIOS. CABIMENTO. AGRAVO DE INSTRUMENTO PROVIDO. DECISÃO AFASTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em se tratando de fase de cumprimento de sentença, se o devedor indica bem à penhora, em valor inferior à condenação e com o objetivo apenas de impugnar os valores apresentados pelo credor, ele assume postura de resistência e não de adimplemento voluntário, cuja consequência é a incidência da multa de 10% estabelecida pelo artigo 475-J, do CPC, além dos honorários advocatícios respectivos.
+2. Agravo regimental desprovido.
+Embargos de declaração rejeitados.
+A agravante, nas razões do recurso especial, alega ofensa aos arts. 473, 475-J e do CPC/1973, sustentando negativa de prestação jurisdicional e não cabimento da multa do art. 475-J do CPC/1973 quando o devedor apresenta um bem para garantia do Juízo. Aduz, ainda, a existência de excesso de execução mormente pela incidência da indevida multa.
+É o relatório. Passo a decidir.
+ Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+A jurisprudência desta Corte firmou-se no sentido de que a indicação de bem para penhora não caracteriza pagamento voluntário da obrigação, com o objetivo de afastar a multa prevista no art. 475-J do CPC/1973.
+Sirvam de ilustração os seguintes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. MULTA DO ARTIGO 475-J DO CPC/73. INDICAÇÃO DE BENS À PENHORA. IMPOSSIBILIDADE. NÃO AFASTAMENTO DA MULTA DE 10%. MANUTENÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA DE FUNDAMENTOS QUE MODIFIQUEM A DECISÃO. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1587284/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/08/2016, DJe 10/10/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDO CEDAE. CUMPRIMENTO DE SENTENÇA. NÃO CONFIGURAÇÃO DE PAGAMENTO. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de que a indicação da conta denominada "Fundo Cedae" para penhora não caracteriza pagamento voluntário da obrigação, com o objetivo de afastar a multa prevista no art. 475-J do CPC.
+2. Agravo interno improvido.
+(AgInt no AREsp 944.498/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/09/2016, DJe 05/10/2016)
+Em relação à multa do art. 475-J do CPC/1973, o eg. Tribunal de origem, com base nos elementos de convicção dos autos concluiu que a oferta bem apenas tão somente com o escopo de interpor impugnação ao cumprimento de sentença não caracteriza o cumprimento espontâneo da obrigação.
+É o que se depreende do seguinte excerto do voto condutor:
+Analisando os autos, infere-se que a garantida ofertada pelo devedor/agravada dentro do prazo estabelecido pelo artigo 475-J não tem o escopo de extinguir a obrigação constituída em título judicial, mas sim oportunizá-lo impugnar os valores apresentados pelo credor.
+Isso porque o agravado é claro em afirmar que "a Previ e todos os seus participantes, oportunamente indica bem imóvel à penhora como forma de garantia da dívida e para possibilitar a impugnação ao cumprimento de sentença" (fi. 33).
+Ademais, verifica-se que bem posto em garantia em juízo possui o valor de R$ 27.500,00 (vinte e sete milhões e quinhentos mil reais) enquanto que o valor perquirido pelo credor é de R$ 795.815,59 (setecentos e noventa e cinco mil, oitocentos e quinze reais e cinqüenta e nove centavos).
+O mesmo raciocínio é aplicável quanto à multa de 10% elencada no, artigo 475-J do CPC, que tem incidência imediata com o decurso do prazo para cumprimento espontâneo in albis.
+Isso porque o objetivo do legislador ao estabelecê-la é foi de estimular à satisfação espontâneo do título judicial exeqüendo, com a extinção do processo.
+O intento acima delineado não se coaduna com a postura do devedor que - dentro do prazo para adimplemento - oferta bem apenas e tão somente com o escopo de interpor impugnação ao cumprimento de sentença e não adimplir o débito voluntariamente, ainda de que forma parcial. Desta forma, a incidência da multa e dos honorários advocatícios é imperiosa.
+Ou seja, à vista da petição para cumprimento de sentença e da memória de cálculo constando o quantum debeatur se o devedor/agravado opta por indicar bem à constrição objetivando abrir discussão quanto ao valor devido, ele assume postura de resistência, que tem como consequência a incidência da multa de 10% bem como de honorários advocatícios caso a impugnação por ele apresentada seja afastada.
+Isso porque, escoado o prazo de 15 (quinze) dias previsto no artigo 475-J do CPC sem o adimplemento voluntário da condenação, inicia-se nova fase procedimental, o que enseja novos honorários e atrai a incidência da multa 10% estabelecida com o fito de penalizar o devedor que resiste ao cumprimento da obrigação firmada em título judicial constituído. (fls. 102/111, n.g)
+Nesse contexto, o acórdão recorrido decidiu em sintonia com a jurisprudência do STJ, atraindo a aplicação da Súmula 83 desta Corte.
+Ademais, a alteração das premissas fáticas adotadas pela Corte de origem ,como requer a parte agravante, exige incursão no contexto fático-probatório dos autos, providência vedada na via estreita do recurso especial, pela Súmula 7 do STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. TARIFA DE ÁGUA. MULTA DO ART. 475-J DO CPC. CABIMENTO. INDICAÇÃO DA CONTA FUNDO CEDAE. NÃO CONSIDERAÇÃO COMO PAGAMENTO VOLUNTÁRIO. CONCLUSÃO DO TRIBUNAL A QUO OBTIDA MEDIANTE ANÁLISE DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. VIOLAÇÃO AO ART. 620 DO CPC. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. CUMPRIMENTO DE SENTENÇA. CABIMENTO. PRAZO PRESCRICIONAL. REPETIÇÃO DE INDÉBITO. CÓDIGO CIVIL. MATÉRIA JULGADA SOB O RITO DOS RECURSOS REPETITIVOS. RESP N. 1.113.403/RJ.
+1. Não se conhece da violação ao art. 535 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incide, no caso, a Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+2. O Tribunal de origem, com base nas provas dos autos, não considerou a indicação da conta FUNDO CEDAE como pagamento voluntário da obrigação apto a afastar a multa prevista no art. 475-J do CPC. Assim, para alterar tal conclusão, necessário o revolvimento de matéria fático-probatória, o que é vedado nesta seara recursal, ante o óbice da Súmula 7/STJ. (..)"
+(AgRg no AREsp 443.598/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/02/2014, DJe 25/02/2014)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CUMPRIMENTO ESPONTÂNEO DA DÍVIDA. SENTENÇA COLETIVA. NECESSÁRIO PRÉVIA INTIMAÇÃO DO DEVEDOR. MULTA PREVISTA NO ART. 475-J/CPC AFASTADA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. Insuscetível revisar, nesta via recursal, o entendimento do Tribunal regional, com base na situação fática do caso, no sentido de que não cabe imposição da multa prevista no art. 475-J do CPC, por demandar apreciação de matéria fática. Incidência da Súmula 7/STJ.
+2. A incidência da referida Súmula impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução para a causa.
+Agravo regimental improvido."
+(AgRg no AREsp 184894/PR, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 28/8/2012)
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MULTA DO ART. 475-J DO CPC. INÍCIO DO PRAZO PARA CUMPRIMENTO DE SENTENÇA. NECESSIDADE DE INTIMAÇÃO DO ADVOGADO. ACÓRDÃO QUE ESTABELECEU A DESNECESSIDADE. VERIFICAR A OCORRÊNCIA DA NOTIFICAÇÃO. SÚMULA 7/STJ.(..)
+4. Não ficando caracterizado o transcurso do prazo previsto no art. 475-J do CPC sem o adimplemento espontâneo, não cabe a aplicação da multa a que se refere o dispositivo legal. Incidência da Súmula 7 desta Corte Superior de Justiça.
+5. Embargos de declaração recebidos como agravo regimental a que se
+nega provimento.
+(EDcl no AREsp 585/RS, 4ª Turma, Rel. o Ministro LUIS FELIPE SALOMÃO, DJe de 15/4/2011)
+Por fim, acerca do alegado excesso de execução o col. Tribunal a quo expressamente afastou sua ocorrência. Consignou ainda que "se o devedor se visse livre da multa bastaria que este efetuasse o pagamento parcial da quantia que reputa devida." (fl. 109).
+Assim, a alteração das premissas fáticas adotadas na origem, no sentido de se concluir pelo excesso de execução, tal como propugnado, encontra óbice na Súmula 7 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
