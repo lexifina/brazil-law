@@ -1,0 +1,29 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pela União em face de decisão proferida pelo Juiz da 5ª Vara Federal do Juizado Especial Federal da Subseção Judiciária de Juiz de Fora, nos autos do Processo 0006714-58.2017.4.01.3801.
+    Na petição inicial, alega-se que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na Súmula Vinculante 37, ao conferir à parte autora, magistrada federal, o direito à conversão de um terço de cada período de férias em abono pecuniário.
+    A reclamante aponta que o reconhecimento de tal direito foi fundamentado na existência de simetria entre a Magistratura e o Ministério Público.
+    Sustenta que o juízo reclamado, ao assim decidir, teria atuado como legislador positivo. Nesse ponto, indica que, apesar de a súmula vinculante fazer menção a “vencimentos”, é igualmente aplicável às hipóteses de extensão de verbas indenizatórias.
+    Afirma, ademais, que a jurisprudência do Supremo Tribunal Federal é no sentido de não existir isonomia constitucional remuneratória entre a Magistratura e o Ministério Público, além de haver proibição constitucional de tal equiparação automática.
+    Requer a cassação do ato reclamado ou, subsidiariamente, a concessão de liminar para suspender seus efeitos e o curso do processo, e, ao final, a cassação do ato reclamado.
+    É o relatório.
+    Passo à análise do pedido liminar.
+    Ressalto, inicialmente, que a reclamação, tal como prevista no art. 102, I, l, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    Verifico que o juízo reclamado fundamentou-se no art. 129, § 4°, da CF para reconhecer a existência de simetria plena entre a Magistratura e o Ministério Público e, consequentemente, estender à parte autora o direito ao abono pecuniário, vantagem prevista na Lei Complementar 75/1993 (Lei Orgânica do Ministério Público da União). Nesse sentido, extrai-se o seguinte trecho da decisão reclamada:
+    “Quanto ao mérito, o artigo 129, § 4º, da CR/1988 determina que se aplique ao Ministério Público o regime jurídico da Magistratura, previsto em seu art. 93, estabelecendo, assim, a isonomia e simetria entre as carreiras de Estado. Conforme entendimento adotado pelo CNJ, no julgamento do Pedido de Providências n. 0002043-22.2009.2.00.0000, o dispositivo constitucional é auto-aplicável, comunicando-se as vantagens concedidas às carreiras independentemente de previsão legal:
+    (…)
+    Com relação às férias dos membros do Ministério Público, o artigo 220, §3º, da LC 75/1993 faculta, expressamente, a conversão de um terço em abono pecuniário:
+    (…)
+    Diante da previsão, restringir aos membros da Magistratura a mesma vantagem configura flagrante violação aos dispositivos constitucionais que garantem a simetria entre as duas carreiras”. (eDOC 4, p. 2-3)
+    Destaco, todavia, que é firme a jurisprudência desta Corte a entender ser necessária a edição de lei específica para a implementação da equiparação, conforme exige o art. 39, § 1º, da Constituição, em sua redação originária, não cabendo ao Poder Judiciário conceder benefícios a servidores públicos ao fundamento de isonomia, nos termos da Súmula 339 do STF.
+    Confira-se, nesse sentido, o seguinte julgado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MAGISTRADOS DO ESTADO DE SÃO PAULO. CÁLCULO DE DIÁRIAS E AJUDA DE CUSTO. EQUIPARAÇÃO AO CRITÉRIO UTILIZADO PELO MINISTÉRIO PÚBLICO. IMPOSSIBILIDADE. SÚMULA 339/STF. APRECIAÇÃO DOS ASPECTOS CONCERNENTES ÀS LEIS COMPLEMENTARES ESTADUAIS 734/93 E 234/80. INVIABILIDADE. SÚMULA 280/STF. 1. Não havendo previsão legal de equiparação de vencimentos entre Magistrados e Membros do Ministério Público do Estado de São Paulo, incabível o pedido de pagamento de diferenças de valores de diárias e de ajudas de custo com base em suposta isonomia. Entendimento da Súmula 339/STF. 2. No caso dos autos, o Tribunal de origem asseverou expressamente que o direito pleiteado pelos agravantes não está amparado em lei. 3. Agravo regimental a que se nega provimento.” (RE 581642 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 7.10.2013)
+    Esse entendimento restou pacificado no julgamento do RE-RG 592.317, tema 315 da sistemática da repercussão geral, de minha relatoria, e consolidou-se com a edição da Súmula Vinculante 37: “Não cabe ao poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    Vê-se, portanto, que a decisão reclamada, ao reconhecer a magistrado o direito à conversão de um terço de cada período de férias em abono pecuniário, na forma prevista na LC 75/1993, invocando, para tanto, o princípio da simetria, aparenta violar a Súmula Vinculante 37, do Supremo Tribunal Federal.
+    Ante o exposto, reservando-me o direito a exame mais detido da controvérsia por ocasião do julgamento do mérito, presentes os pressupostos de periculum in mora e fumus boni iuris, defiro o pedido de liminar para determinar a suspensão dos efeitos da decisão reclamada e o andamento do Processo 0006714-58.2017.4.01.3801.
+    Solicitem-se informações à autoridade reclamada. (art. 989, I, NCPC)
+    Cite-se a parte interessada. (art. 989, III, NCPC)
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo versa questão já consolidada na jurisprudência (RISTF, art. 52, parágrafo único).
+    Publique-se.
+    Brasília, 25 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
