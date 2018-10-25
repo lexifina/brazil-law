@@ -1,0 +1,11 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. PEDIDO DE TRANSFERÊNCIA DE PRESO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Writ não conhecido, com determinação para que a petição do habeas corpus (fls. 1/9) seja encaminhada ao juízo de execuções penais de Sorocaba/SP, responsável pela execução penal do paciente para análise do seu processo, e para tomada de eventuais providências e benefícios, com vista à Defensoria Pública local, conforme requerido pela Defensoria Pública do Estado de São Paulo.
+DECISÃO
+Trata-se de habeas corpus impetrado, de próprio punho, em favor [NOME], no qual se pretende, em suma, sua transferência para o Centro de Observação Criminológica, para que assim mantenha sua integridade física e pessoal protegida (fl. 5).
+De acordo com as informações prestadas pelo Tribunal de origem, [NOME] (matrícula SAP nº 552094-5 e Execução Criminal nº 878.845) se encontra custodiado na Penitenciária Antonio Souza Neto, em Sorocaba, com entrada aos 22 de janeiro de 2016, em cumprimento da pena imposta na Ação Penal nº 78080/2007, da Vigésima Quarta Vara Criminal da Comarca de São Paulo, no regime fechado, com início em 16 de outubro de 2008 e término previsto para 09 de outubro de 2043 (fl. 25).
+Todavia, conforme bem observado pela Defensoria Pública do Estado de São Paulo, não há processo, na origem, discutindo a pretendida transferência do ora paciente (fl. 43). Com efeito, o Tribunal a quo informa, à fl. 25, que não se verifica, em nome do ora paciente, registro de distribuição de feitos com relação ao constrangimento invocado (transferência para o Centro de Observação Criminológica).
+Assim, não pode esta Corte decidir a respeito do tema, sob pena de indevida supressão de instância.
+Além disso, assiste razão à Defensoria Pública quando afirma que a análise sobre transferência de presídio depende de consulta pormenorizada do processo execucional do paciente, situação que não é possível de ser feita nesses autos (fl. 43).
+Ante o exposto, não conheço do writ, determinando que a petição do habeas corpus (fls. 1/9) seja encaminhada ao juízo de execuções penais de Sorocaba-SP, responsável pela execução penal do paciente para análise do seu processo, e para tomada de eventuais providências e benefícios, com vista à Defensoria Pública local, conforme requerido pela Defensoria Pública do Estado de São Paulo, à fl. 43.
+Publique-se.
