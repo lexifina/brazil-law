@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA CONSTRIÇÃO CAUTELAR. CONCESSÃO DE LIBERDADE PROVISÓRIA AO PACIENTE. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. RECURSO EM HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido nos autos do Habeas Corpus n.º 1.0000.18.070612-9/000.
+Consta nos autos que o Paciente foi preso em flagrante, em 21/1/2018, pela prática, em tese, dos crimes previstos no art. 33, caput, c.c. o art. 40, inciso VI e art. 35, todos da Lei n.º 11.343/2006, na forma do art. 69 do Código Penal. A prisão em flagrante foi convertida em preventiva (fls. 40-42).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos da seguinte ementa (fl. 57):
+"HABEAS CORPUS - TRÁFICO DE DROGAS MAJORADO E ASSOCIAÇÃO PARA O TRÁFICO - EXCESSO DE PRAZO PARA CONCLUSÃO DO INQUÉRITO - ALEGAÇÃO PREJUDICADA - DENÚNCIA JÁ OFERECIDA - PRISÃO PREVENTIVA - REVOGAÇÃO - PRESSUPOSTOS E REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL PRESENTES NOS AUTOS - GRAVIDADE CONCRETA DOS CRIMES E REITERAÇÃO DELITIVA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - PRESUNÇÃO DE INOCÊNCIA - COMPATIBILIDADE COM A PRISÃO PREVENTIVA - EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA - INEXISTÊNCIA - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. Tendo em vista que a denúncia já foi ofertada, resta afastada a alegação de excesso de prazo na conclusão do inquérito. Presentes os pressupostos e ao menos um dos requisitos do artigo 312 do Código de Processo Penal, a prisão preventiva deve ser mantida. A gravidade concreta do crime e a reiteração delitiva do paciente constituem fundamentos idôneos a amparar a decretação da custódia cautelar para garantia da ordem pública. É consolidado o entendimento de que as condições pessoais favoráveis e o princípio da presunção de inocência, por si sós, não obstam a manutenção da prisão preventiva. Eventual excesso na duração da prisão cautelar depende do exame acurado não somente do prazo legal máximo previsto para o término da instrução criminal, mas também dos critérios que compõem o princípio da razoabilidade e que permitem a dilação desse prazo até o limite do razoável. Se a autoridade judiciária vem imprimindo a celeridade possível ao processo, inexiste demora excessiva a amparara alegação de constrangimento ilegal."
+No presente recurso, o Recorrente sustenta, em suma, a flagrante ilegalidade na decretação da sua prisão preventiva, por não estarem presentes os requisitos do art. 312 do Código de Processo Penal.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares alternativas.
+A medida liminar foi indeferida, nos termos da decisão de fls. 119-120.
+Informações prestadas às fls. 125-130.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso em habeas corpus (fl. 135).
+É o relatório. Decido.
+Conforme informações prestadas às fls. 125-130, o Juízo de primeira instância, em 9/8/2018, concedeu a liberdade provisória ao Recorrente, com a determinação de expedição do alvará de soltura.
+Desse modo, evidencia-se a perda superveniente do interesse processual no provimento do recurso.
+Ante o exposto, JULGO PREJUDICADO o recurso em habeas corpus.
+Publique-se. Intimem-se.
