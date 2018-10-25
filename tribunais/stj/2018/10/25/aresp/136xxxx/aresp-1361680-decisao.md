@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo manejado pelo Departamento Autônomo de Estradas de Rodagem contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 252/253):
+JUÍZO DE RETRATAÇÃO. REEXAME NECESSÁRIO. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. PRESCRIÇÃO INOCORRENTE. JUSTA INDENIZAÇÃO. ALARGAMENTO DE ESTRADA. PAVIMENTAÇÃO DE RODOVIA. JUROS COMPENSATÓRIOS DE 12% AO ANO. SUMULA 618 DO STF. TERMO INICIAL. DATA DO LAUDO PERICIAL. SÚMULA 345 DO STJ. JUROS COMPENSATÓRIOS INCIDENTES SOBRE JUROS MORATÓRIOS. POSSIBILIDADE. SÚMULA 102 DO STJ.
+1. A prescrição, nas ações de indenização por desapropriação indireta, por se tratar de direito real de propriedade imobiliária, se dá pela incidência no disposto no art. 1.238 e parágrafo único, combinado com art. 2.028, ambos do Código Civil de 2002.
+2. Laudo pericial sem mácula a atacar a credibilidade da avaliação judicial, que se deu por metodologia apropriada, recomendada pela
+NBR 14653-3, para avaliação de imóveis, da Associação Brasileira de Normas Técnicas, como bem ilustrou o perito, inexistindo razões para reformar o entendimento esposado na douta sentença.
+3. Juros compensatórios de 12% em conformidade com a Súmula 618 do STF, incidentes da data do laudo de avaliação, com incidência sobre os juros moratórios, de acordo com a Súmula 102 do STJ.
+4. Não há se falar em isenção dos entes públicos ao pagamento das custas e despesas processuais, salvo aquelas decorrentes das despesas com Oficial de Justiça, uma vez que foi declarada a inconstitucionalidade da Lei nº 13.741/2010, por meio do Incidente de Inconstitucionalidade nº [CPF] e ADI nº [CPF].
+5. Redimensionada a condenação das custas à razão de 50%.
+6. Honorários advocatícios devidos pelo DAER minorados ao patamar de 5% sobre o montante da condenação, em razão do disposto no artigo 21, parágrafo 1º, do Decreto-Lei nº 3.365/41, com redação dada pela Medida Provisória nº 2.183-56/01, originária da Medida Provisória nº 1.577/97.
+7. Sentença de parcial procedência na origem.
+REEXAME NECESSÁRIO CONHECIDO, EM JUÍZO DE RETRATAÇÃO.
+SENTENÇA REFORMADA EM PARTE.
+Opostos embargos de declaração, foram parcialmente acolhidos, com efeitos infringentes, nos termos da seguinte ementa (fl. 286):
+EMBARGOS DE DECLARAÇÃO. JUÍZO DE RETRATAÇÃO. REEXAME NECESSÁRIO. DESAPROPRIAÇÃO INDIRETA. TERMO INICIAL DOS JUROS MORATÓRIOS. CONTRADIÇÃO EVIDENCIADA.
+1. Acolhimento dos embargos declaratórios para sanar a contradição evidenciada, relativa ao termo inicial dos juros moratórios.
+2. Os juros moratórios incidem a partir do mês de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, conforme disposto no art. 15-B do Decreto-lei nº 3.365/41.
+EMBARGOS DECLARATÓRIOS ACOLHIDOS EM PARTE, COM EFEITOS INFRINGENTES.
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial e violação aos arts. 189 e 2.029 do Código Civil, sustentando que deve ser aplicada a regra especial de transição para a contagem do prazo prescricional decenal nas desapropriações em que caracterizada a posse-trabalho.
+É o relatório.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, o Tribunal recorrido assim decidiu a questão que ora é trazida à discussão (fls. 263/264):
+Daí se extraí que, havendo desapropriação indireta, necessariamente realizada por órgão público, tendo havido obras de interesse social, o prazo prescricional seria mesmo o de 10 anos.
+No ponto, correta estaria a adoção do prazo de 10 anos, e não de 20 (utilizado pela sentença), para a análise da questão prescricional.
+Contudo, outro questionamento se impõe, qual seja o marco inicial desta contagem.
+No caso dos autos, a ocupação pelo DAER, em face da construção da Rodovia RS-392/AM-9010 - Trecho de ligação de acesso a Sete de Setembro/RS -, atingindo, assim, a propriedade dos autores, teria ocorrido em 1998, tendo a presente ação sido proposta em 31/05/2011.
+Considerando o decurso de cinco anos, aproximadamente, entre a ocupação e a entrada em vigor do novo Código Civil/02, não se daria a contagem excepcional do art. 2.028 deste Código, já que não decorrida mais da metade do prazo de lei anterior, aplicando-se, nesse caso, o prazo de 10 anos do parágrafo único do art. 1.238 do mesmo Estatuto.
+Contudo, têm-se decidido que este prazo se conta não da efetiva ocupação, mas sim da entrada em vigor do Código (11.01.2003), que teria inaugurado nova regra de disposição, razão pela qual estes dez anos deverão ser contados a partir da vigência do novo ordenamento, o que, nesse caso, não atingiria a presente ação, vez que proposta há menos de 10, ou seja, em maio de 2011. ..
+No caso dos autos, embora entenda que, de fato, a prescrição seja mesmo de 10 anos, sua contagem se dá a partir da vigência do Código Civil de 2002, ou seja, a partir de 11.01.2003.
+Tendo sido proposta a ação em prazo inferior a este, afastada está a prescrição da ação.
+Denota-se, pois, que a instância de origem decidiu pela não ocorrência da prescrição na espécie, haja vista não haver transcorrido o lapso prescricional entre a data da entrada em vigor do novo Código Civil e a do ajuizamento da ação indenizatória, interpretação que não se dissocia da regra prevista no art. 2.029 do CC/2002.
+Com efeito, ao assim decidir, o Tribunal estadual alinhou-se à jurisprudência mais recente deste Sodalício sobre o tema, a qual firmou-se no sentido de que, na usucapião extraordinária, o cômputo do novo prazo de prescrição para a desapropriação indireta somente se dá a partir da vigência do CC/2002.
+A propósito, colacionam-se os seguintes julgados de ambas as Turmas que compõem a Primeira Seção deste Superior Tribunal de Justiça:
+RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. PRESCRIÇÃO. DIREITO REAL. PRESCRIÇÃO VINTENÁRIA. SÚMULA 119/STJ. CÓDIGO CIVIL DE 2002. ART. 1.238, PARÁGRAFO ÚNICO. PRESCRIÇÃO DECENAL. REDUÇÃO DO PRAZO. REGRA DE TRANSIÇÃO.
+1. Descabida a tese de que o prazo prescricional teria início na data do decreto expropriatório, pois não se trata de desapropriação direta, mas indireta. Isso porque apesar de ter sido inicialmente observado o processo de desapropriação, a indenização não foi paga, nos termos do pactuado entre expropriante e expropriado, de modo que o acordo não se aperfeiçoou assim como a desapropriação direta que se convolou em indireta.
+2. O prazo de cinco anos de que trata o art. 10 do Decreto 3.365/1941 dirige-se ao expropriante, cabendo a ele ajuizar a ação ou efetivar acordo dentro do prazo qüinqüenal, o que não se confunde com o prazo de que dispõe o expropriado para intentar ação de desapropriação indireta.
+3. Com fundamento no art. 550 do Código Civil de 1916, o STJ firmou a orientação de que "a ação de desapropriação indireta prescreve em 20 anos" (Súmula 119/STJ).
+4. O Código Civil de 2002 reduziu o prazo do usucapião extraordinário para 10 (dez) anos (art. 1.238, parágrafo único), devendo-se, a partir de então, observar as regras de transição previstas no Codex (art. 2.028), adotando-o nas expropriatórias indiretas. Precedentes: REsp 1.300.442/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26/6/2013; REsp 944.351/PI, Rel. Ministro Castro Meira, Segunda Turma, DJe 15/4/2013.
+5. Especificamente na hipótese dos autos, levando-se em conta que o recorrente o recorrente está na posse do imóvel desde desde 9.3.1998 e que não decorreu mais da metade do prazo vintenário do código revogado, consoante a regra de transição prevista no art. 2.028 do CC/02, incide o prazo decenal do atual Codex, a partir de sua entrada em vigor 11.1.2003.
+6. Assim, tendo em vista que a ação foi proposta em 26.2.2010, consoante consta do acórdão recorrido, antes do transcurso de 10 (dez) anos da vigência do Código Civil de 2002, não se configurou a prescrição.
+7. Recurso Especial não provido.
+(REsp 1.654.965/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/4/2017, DJe 27/4/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA. ILEGITIMIDADE ATIVA. JUROS COMPENSATÓRIOS E MORATÓRIOS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRESCRIÇÃO. REGRA DE TRANSIÇÃO DO ART. 2.028 DO CC/2002. INCIDÊNCIA. INTERRUPÇÃO DO PRAZO. DECRETO EXPROPRIATÓRIO. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 283 DO STF.
+1. Os temas relativos à ilegitimidade ativa do autor, aos juros compensatórios e moratórios, bem como à suposta contrariedade ao art. 1º-F da Lei n. 9.494/1997 não foram veiculados no apelo nobre, o que configura inovação recursal, incabível em razão da preclusão consumativa.
+2. O Superior Tribunal de Justiça, à luz do disposto no art. 550 do Código Civil de 1916, firmou o entendimento de que a ação de indenização por apossamento administrativo sujeita-se ao prazo prescricional de vinte anos e não àquele previsto no Decreto-Lei n. 20.910/1932 (Súmula 119 do STJ), devendo-se observar, após a edição do Código Civil de 2002, o prazo previsto no seu art. 1.238, bem como as regras de transição do art. 2.028 do mesmo diploma legal.
+3. Hipótese em que as instância ordinárias consideraram o Decreto Estadual n. 4.471/1994 como marco interruptivo do prazo prescricional da pretensão autoral, por revelar ato inequívoco de reconhecimento, por parte da administração pública, da titularidade do domínio da propriedade e, por conseguinte, do direito à indenização.
+4. Transcorrido menos da metade do tempo estabelecido no Código Civil de 1916, considerando-se o referido marco interruptivo, aplica-se à espécie o prazo decenal definido no atual Código Civil, contado a partir de sua entrada em vigor (11/01/2003).
+5. Sendo a ação proposta em 18/12/2006, antes do transcurso de 10 (dez) anos da vigência do novo Código Civil, não se configurou a prescrição do direito de ação.
+6. Não tendo o Tribunal de origem emitido juízo de valor sobre o disposto no Decreto estadual n. 17.118/1982, nem oposto embargos de declaração para fins de prequestionamento, incide na espécie as Súmulas 282 e 356 do STF, cujos fundamentos não foram sequer impugnados pelo agravante, circunstância que atrai, no ponto, a aplicação do Enunciado 182 da do STJ.
+7. Quanto aos honorários advocatícios, observa-se que as razões do recurso especial não atacaram o fundamento autônomo e suficiente empregado pelo acórdão recorrido, aplicando-se à espécie a Súmula 283 do STF.
+8. Agravo interno conhecido em parte e, nesta extensão, desprovido.
+(AgInt no REsp 1.339.894/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 18/5/2017, DJe 26/6/2017)
+Dessarte, na hipótese dos autos, conforme constou no aresto a quo, iniciado o prazo prescricional com a entrada em vigor do novo Código Civil, em 11/1/2003, tem-se que a demanda proposta em 31/5/2011 (fl. 263) não foi atingida pela prescrição.
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
