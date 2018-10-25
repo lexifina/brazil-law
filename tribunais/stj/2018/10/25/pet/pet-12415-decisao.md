@@ -1,0 +1,27 @@
+DECISÃO
+Esta medida de urgência foi requerida por TRANSVAT TRANSPORTADORA LTDA. (TRANSVAT), objetivando a concessão de efeito suspensivo ao agravo em recurso especial que interpôs no Tribunal de Justiça de São Paulo.
+A par de a TRANSVAT não haver trazido para exame, como deveria, o inteiro teor da sentença e do acórdão da apelação que nos autos da ação de reparação de danos a condenou ao pagamento de indenização por danos morais, foi noticiado que houve a interposição de recurso especial, que não foi admitido.
+A TRANSVAT argumentou, agora, que estão presentes os requisitos para o deferimento da medida liminar.
+Sustentou, em suma, que há probabilidade de êxito do especial pela existência de alegado vício processual por se tratar de caso de litisconsórcio passivo necessário e pela ocorrência da prescrição do direito de propor a ação de reparação de danos.
+Além disso, há risco na demora pelo fato de que o Juízo de primeiro grau determinou sua intimação para o pagamento do valor da condenação.
+Formulou, então, pedido liminar para que fosse determinado o efeito suspensivo postulado.
+Este, em síntese, o relatório.
+DECIDO.
+Frise-se, inicialmente, que a concessão de tutela antecipada condiciona-se à existência dos requisitos do periculum in mora e do fumus boni iuris. Assim, quando presentes ambos os requisitos, que são fundamentais, não há dúvidas em que se conceda liminarmente a medida cautelar.
+Ao caso, entretanto, faltam os elementos exigidos para o acolhimento da medida pleiteada.
+Na hipótese dos autos o especial não foi admitido na origem, tendo sido interposto agravo em recurso especial que nem sequer chegou a esta Corte.
+Há no Superior Tribunal de Justiça, para casos assim, o firme entendimento de que apenas com a admissão do especial é que se inaugura a jurisdição desta Corte, não bastando, para tanto, a interposição do agravo em recurso especial.
+Veja-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU PLEITO PARA CONCESSÃO DE ORDEM LIMINAR. MEDIDA CAUTELAR. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO DE INSTRUMENTO DE RECURSO ESPECIAL NÃO ADMITIDO NA ORIGEM. AÇÃO CAUTELAR DE EXIBIÇÃO. DOCUMENTOS PROVENIENTES DE PROCESSO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO QUE NÃO ATACA O FUNDAMENTO CONDUTOR DA DECISÃO AGRAVADA. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. NÃO CONFIGURAÇÃO DO FUMUS BONI IURIS E DO PERICULUM IN MORA.
+..
+3. A impossibilidade de concessão de excepcional efeito suspensivo a agravo de instrumento que pretende destrancar a subida de recurso especial inadmitido pela instância de origem é assente no Superior Tribunal de Justiça. Esta Corte perfilha entendimento segundo o qual o juízo positivo de admissão do apelo nobre pelo Tribunal a quo é que inaugura a jurisdição do STJ. Dessarte, a simples interposição de agravo de instrumento não supera o óbice da inadmissão do recurso especial pela instância "a quo" (Precedentes: AgRg na MC 13.655 - RO, Relatora Ministro Denise Arruda, Primeira Turma, DJ de 5 de maio de 2008 e EDcl no AgRg na MC 9.129 - SP, Relator Ministro Gilson Dipp, Quinta Turma, DJ de 28 de março de 2005).
+..
+(AgRg na MC nº 15.015, Ministro BENEDITO GONÇALVES, DJe de 2/4/2009 - com destaque no original).
+Somente em situações excepcionais é possível a concessão de efeito suspensivo a recurso especial não admitido pelo Tribunal de origem e, mesmo assim, apenas quando demonstrada a probabilidade de êxito do recurso, o risco de perecimento de direito ou teratologia no acórdão impugnado, o que, nos estreitos limites deste exame, não se vislumbra, de plano, neste caso.
+Na hipótese dos autos, a par de a defesa dos interesses da TRANSVAT, repita-se à exaustão, não ter juntado documentos indispensáveis à aferição do acerto ou desacerto do julgado do Tribunal paulista, a Corte estadual deixou consignado, ao inadmitir o recurso especial (1) que não ficou demonstrada adequadamente a alegada ofensa aos dispositivos legais tidos como infringidos, invocando decisão deste Tribunal Superior segundo a qual a simples referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial; (2) as matérias suscitadas no especial não prescindiriam do reexame de matéria fático-probatória, o que atraiu o óbice da Súmula 7/STJ; e (3) a alegada divergência jurisprudencial não foi devidamente comprovada (e-STJ, fls. nºs 10/11).
+Assim sendo, o sinal do bom direito não se apresenta evidente ou cristalino, como exige a excepcionalidade da situação.
+Ressalte-se que o prosseguimento do feito e a possibilidade de execução provisória são consectários imediatos da norma processual que prevê mecanismos de contracautela específicos, como bem sabe a defesa dos interesses da TRANSVAT a quem, frise-se, foi dada a oportunidade para o pagamento voluntário (e-STJ, fl. nº 11), afastando o perigo na demora.
+Nessas condições, estando ausentes os pressupostos, INDEFIRO O PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO FORMULADO. Em consequência, EXTINGO O PROCESSO, a teor do disposto no art. 485, IV do NCPC e art. 34, inciso XVIII, a, do Regimento Interno do Superior Tribunal de Justiça.
+Comunique-se o inteiro teor desta decisão ao Juízo da 2ª Vara Cível da Comarca de Conchas/SP (Cumprimento de sentença nº 0001174-70.2018.8.26.0145).
+Advirta-se, desde já, que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º, do NCPC).
+Publique-se.
