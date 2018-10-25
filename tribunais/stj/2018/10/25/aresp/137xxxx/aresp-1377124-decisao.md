@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda Nacional em face de decisão denegatória de admissibilidade a recurso especial interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 146/147):
+PREVIDENCIÁRIO. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. JUROS DE MORA ENTRE A DATA DO CÁLCULO E A EXPEDIÇÃO DO PRECATÓRIO. OMISSÃO DO TÍTULO EXECUTIVO.
+1. Título executivo omisso em relação ao período de aplicação de
+juros de mora. Decisão no curso da execução.
+2. O termo final da incidência de juros moratórios é a data de expedição do precatório/RPV, conforme entendimento consolidado na Terceira Seção desta Corte.
+3. Entendimento que não se contrapõe às decisões proferidas pelas Cortes Superiores, tidas como paradigmas para o julgamento dessa matéria (RE 579.431/RS - julgamento iniciado dia 29 de outubro p.p, com maioria de 06 votos já formada, interrompido por pedido de vista do Exmo. Ministro Dias Toffoli).
+4. Apelação provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 254/263).
+Nas razões do especial, a recorrente aponta violação aos arts. 1º da Lei nº 4.414/64; 3964, 395, 396 e 397 do CC; 1022 do CPC/2015. Sustenta, em resumo, que "se após o trânsito em julgado da decisão que definiu os valores a serem pagos pela Administração Pública, não mais existem atos que sejam de responsabilidade do ente público, c indevida a incidência de juros desde então, posto que ausente o requisito que lhe dá ensejo, a mora" (fl. 281).
+Recurso extraordinário às fls. 266/274.
+É o breve relatório.
+Quanto à matéria incidência de juros de mora no período compreendido entre a data da conta de liquidação e a expedição do requisitório, ressalta-se a existência de repercussão geral reconhecida pelo Supremo Tribunal Federal, no RE 579.431 RG/RS - Tema 96.
+Em recursos versando sobre temas afetados à repercussão geral, o STF tem determinado o retorno dos processos para os Tribunais de origem a fim de que aguardem o julgamento do recurso extraordinário representativo da controvérsia. A propósito:
+EMBARGOS DECLARATÓRIOS EM EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÕES DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO (CIDE) [NOME]. LEIS 10.168/2000 E 10.332/2001. AFETAÇÃO SUPERVENIENTE DO TEMA À SISTEMÁTICA DA REPERCUSSÃO GERAL.
+1. No âmbito do Plenário Virtual, o Supremo Tribunal Federal decidiu por maioria afetar a presente controvérsia à sistemática da repercussão geral em momento posterior ao julgamento do acórdão recorrido. Tema 914: RE-RG 928.943, de relatoria do Ministro Luiz Fux, Tribunal Pleno, DJe 13.09.2016.
+2. Em decorrência de fato jurídico superveniente, a sistemática de precedentes obrigatórios impõe a devolução ao Tribunal de origem dos presentes autos para que o feito seja sobrestado até a definição do mérito do Tema. 3. Embargos de declaração providos, para fins de infirmar a cadeia processual construída em sede extraordinária no presente processo e determinar a devolução dos autos à origem, nos termos dos arts. 1.036 do CPC/15 e 328 do RISTF.
+(ARE 934095 AgR-ED-ED, Relator(a): Min. Edson Fachin, Primeira Turma, DJe 22/11/2016).
+RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL ADMITIDA - PROCESSO VERSANDO A MATÉRIA - SOBRESTAMENTO - MANUTENÇÃO. O tema atinente à constitucionalidade da cobrança de contribuições sociais em face das atividades das cooperativas em geral, tendo em conta a distinção entre "ato cooperativo típico" e "ato cooperativo atípico", teve repercussão geral admitida pelo denominado Plenário Virtual no Recurso Extraordinário nº 672.215/CE, da relatoria do ministro Luís Roberto Barroso. A matéria de fundo, tanto no mencionado recurso como neste extraordinário, diz respeito à definição da incidência ou não desses tributos sobre as receitas decorrentes de tais atos. Impõe-se aguardar o julgamento do mérito do paradigma, considerados o regime da repercussão geral, presentes os processos múltiplos, e a possibilidade de revisão do entendimento.
+(RE 594695 AgR-AgR, Relator(a): Min. Marco Aurélio, Primeira Turma, DJe 25/5/2015).
+Embargos de declaração em agravo regimental em recurso extraordinário. 2. Legitimidade da cobrança de PIS e COFINS, tendo por fato gerador a locação de bens imóveis. Matéria constitucional. Repercussão geral reconhecida. RE-RG 599.658. 3. Embargos de declaração acolhidos para determinar a devolução à origem com base no disposto no art. 543-B do CPC.
+(RE 543799 AgR-ED, Relator(a): Min. Gilmar Mendes, Segunda Turma, DJe 3/8/2015).
+Ocorre que a Suprema Corte decidiu o mérito do mencionado RE 579.431/RS, consignando que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+Assim, ultimada a resolução da controvérsia em repercussão geral, denotando a primazia do viés constitucional do tema em debate, caso não é de enfrentá-lo na seara do recurso especial ou do agravo dele decorrente (AREsp).
+Forte em tais razões, determino o retorno dos autos, com a respectiva baixa, ao ilustrado Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que foi decidido pela Excelsa Corte.
+Publique-se.
