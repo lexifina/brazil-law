@@ -1,0 +1,35 @@
+DECISÃO
+Paulo [NOME] opõe embargos de declaração em face da decisão de fls. 579/582, que negou provimento ao agravo em recurso especial.
+Alega haver erro material no decisório como consequência do reconhecimento da aplicabilidade da prescrição decenal quando não foi considerado que se cuida de parcelas de trato sucessivo, de modo que somente seriam atingidas as tarifas cobradas, mês a mês, depois de superado esse interregno.
+Acrescenta que a ação foi ajuizada em outubro de 2013, devendo ser alcançadas apenas aquelas anteriores a outubro de 2003.
+Oi S.A. apresenta contrarrazões às fls. 594/597, no sentido de que não ocorre o vício apontado por exigir análise do mérito da pretensão, devendo ser observado o longo período em que a parte se manteve inerte, o que afasta a devolução em dobro.
+Assim delimitada a questão, passo a decidir.
+Abstraído o erro material com a referência no recurso a "[NOME]", tenho que efetivamente está presente o vício apontado, porquanto se trata de cobranças de trato sucessivo.
+A inicial é clara a respeito de que os valores indevidos foram exigidos a partir de outubro de 2002 e nos meses posteriores (fl. 3), por mais de três anos (fl. 7), com frequência mensal (fl. 11), além de constar pedido de que a empresa ré, por força da inversão do ônus da prova, acostasse as faturas dos últimos dez anos (fl. 29).
+Além do mais, o próprio autor juntasse as contas telefônicas do período compreendido entre outubro de 2002 e abril de 2013 (fls. 36/275).
+Como a ação foi ajuizada em 15.10.2013, a prescrição atinge apenas as cobranças anteriores a 15.10.2003, inclusive aquelas que precedem a vigência do atual Código Civil, que ficaram sujeitas por inteiro ao prazo prescricional atual de acordo com a regra do art. 2.028 daquela norma.
+A orientação adotada nesta Corte é no sentido de que, tratando-se de obrigação de trato sucessivo, caracterizada pela cobrança mensal, portanto renovada mês a mês, a prescrição não atinge o fundo de direito, apenas as parcelas anteriores ao prazo fixado em lei para a formulação judicial do pedido de restituição. Como exemplo de julgados em hipóteses similares:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. REVISÃO DE RENDA MENSAL INICIAL. DIFERENÇAS DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. PRECEDENTES. COMPLEMENTAÇÃO DE APOSENTADORIA. EXPURGOS INFLACIONÁRIOS. CORREÇÃO DAS CONTRIBUIÇÕES. SÚMULA Nº 289 DO STJ. ONDE HÁ O MESMO FUNDAMENTO, DEVE HAVER O MESMO DIREITO. PRECEDENTES. DECISÃO MANTIDA.
+1. O tema referente aos arts. 1º, 18, § 3º, e 19, todos da LC nº 109/01, não foi objeto de debate no venerando acórdão recorrido, carecendo, por conseguinte, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais. Aplicável, assim, a Súmula nº 211 do STJ.
+2. A Segunda Seção desta Corte já decidiu que na ação de cobrança em que se pretende o recálculo do valor do benefício mensal de suplementação de aposentadoria, por se tratar de obrigação de trato sucessivo, a prescrição alcança apenas as parcelas vencidas anteriormente ao qüinqüênio que antecede o ajuizamento da ação, não afetando, assim, o próprio fundo de direito.
+3. O benefício de complementação de aposentadoria privada que sofreu os reflexos dos expurgos inflacionários deve também ser objeto de correção monetária plena, de forma análoga ao que ocorre no resgate de contribuições, porque onde há o mesmo fundamento, deve haver o mesmo direito. Precedentes.
+4. Não há que se confundir a matéria tratada na presente lide com o tema tratado no AREsp nº 504.022/SC, especialmente porque lá houve discussão acerca da correção monetária das reservas financeiras quando o participante migrou de plano de benefício de previdência complementar para outro dentro da mesma entidade. Hipóteses, portanto, diversas.
+5. Agravo regimental não provido.
+(Terceira Turma, AgRg nos EDcl no REsp 1.482.201/PR, Rel. Ministro MOURA RIBEIRO, unânime, DJe de 24.4.2015)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DO BENEFÍCIO. PRESCRIÇÃO. FUNDO DE DIREITO. NÃO ATINGIDO. SÚMULA 427/STJ.
+1. Em homenagem aos princípios da economia processual, da celeridade processual e da fungibilidade recursal, os embargos de declaração foram recebidos como agravo regimental.
+2. "A ação de cobrança de diferenças de valores de complementação de aposentadoria prescreve em cinco anos contados da data do pagamento" (Súmula 427/STJ).
+3. Em se tratando de relação de trato sucessivo, a prescrição somente atinge as parcelas não pagas antes dos cinco anos imediatamente anteriores ao ajuizamento da ação, não alcançando assim o chamado fundo de direito. Precedentes.
+4. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(Quarta Turma, EDcl no AREsp 87.197/RS, Rel. Ministro LUÍS FELIPE SALOMÃO, unânime, DJe de 25.4.2013)
+Por fim, cabe frisar quanto à alegação de que a demora possa consubstanciar aceitação tácita das cobranças por parte do cliente, que não constitui renúncia ou ratificação a execução voluntária do contrato, circunstância que não afasta o interesse na repetição dos valores cobrados indevidamente, mesmo que não tenha incidido o consumidor em mora, inclusive porque pode preferir o devedor sacrificar outro compromisso para cumprir aquele, deixando, por exemplo, de pagar uma mensalidade distinta, ou desfazer-se de um bem etc, para não incorrer nos ônus da inadimplência.
+Aliás, preferível a postura daquele que se esforça por cumprir seus compromissos, enquanto não decretada a invalidade por acordo ou judicialmente.
+Em conclusão, existe interesse processual na devolução dos valores exigidos indevidamente mesmo se cumpridos os compromissos estabelecidos no contrato, independentemente da existência de parcelas em atraso, sendo suficiente a oposição do credor, parte adversa, considerando que o contrato está sob a disciplina do Código de Defesa do Consumidor. Como exemplo:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. DISCUSSÃO DE CLÁUSULAS ABUSIVAS. ACEITAÇÃO TÁCITA INOCORRENTE.
+(..)
+1. Inaplicável o comando do artigo 174 do Código Civil, porquanto diante da incidência do Código de Defesa do Consumidor, aplicam-se regras especiais, em detrimento da norma geral contida no Código Civil.
+(..)
+11. AGRAVO REGIMENTAL DESPROVIDO.
+(Terceira Turma, AgRg no REsp 964.923/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, unânime, DJe de 1º.8.2011)
+Em face do exposto, acolho os embargos de declaração, com efeitos infringentes, para dar parcial provimento ao recurso especial, declarando que a prescrição decenal atinge apenas as cobranças efetuadas antes de 15.10.2003, mantida a sucumbência nos moldes arbitrados no acórdão estadual (fl. 484), em respeito ao Enunciado Administrativo 7/STJ.
+Intimem-se.
