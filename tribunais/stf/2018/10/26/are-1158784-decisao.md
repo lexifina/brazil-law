@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Concessionária Ecovias dos Imigrantes S.A. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo está assim ementado:
+    “TAXA DE LICENÇA DE FUNCIONAMENTO E DE PUBLICIDADE – Município de São Bernardo do Campo – Embargos à execução julgados procedentes – Cobrança decorrente do exercício do poder de polícia do Município – Hipótese de vigilância e fiscalização pelo Poder Público da utilização de meios de publicidade ou propaganda – Não usurpação, ademais, da competência estabelecida em contrato de concessão – Recurso provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 145, II, e 175, da Constituição da República.
+    Cabe enfatizar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 280/STF e 454/STF, que assim dispõem:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei nº 1.802/69), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Cumpre ressaltar, ainda, que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário a interpretação de cláusulas contratuais, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local e de cláusulas contratuais:
+    “Indiscutível, ‘data venia’, a possibilidade de cobrança das taxas de fiscalização e de publicidade, nos termos do art. 148, ‘in fine’, da Lei nº 1.802/69, que dispõe acerca do exercício do poder de polícia pela administração municipal, em relação a qualquer atividade.
+    …..................................................................................................
+    E não poderia ser diferente. Se o instrumento contratual de concessão confere ao ente concedente poder de fiscalização – tal como afirma a embargante –, esse poder, evidentemente, restringe-se ao cumprimento das obrigações contratuais, conforme, aliás, consta expressamente da cláusula nº 34.1, transcrita na inicial destes embargos (fls. 04 e 46). Em outras palavras, a fiscalização a ser exercida pelo ente concedente atém-se apenas aos aspectos técnicos da atividade pública objeto da concessão.
+    Já o Município, ao exercer o poder de polícia relativamente ao funcionamento dos estabelecimentos mantidos pela executada, o faz com vistas a verificar o cumprimento das posturas municipais: trata-se de fiscalizar o cumprimento de deveres sensivelmente distintos daqueles cuja observância é fiscalizada pelo Estado-membro concedente.
+    Ou seja, a prerrogativa do Estado concedente para fiscalizar o cumprimento das obrigações contratuais não exclui, por óbvio, a competência dos demais entes federativos para instituírem os tributos cuja criação a Constituição lhes reserva. Tampouco exclui o poder-dever destes para exigir o atendimento às normas que regularmente estatuíram.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 26 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
