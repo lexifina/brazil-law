@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus (eDOC 22, p. 26-38), interposto em favor de Oscar de Andrade Miguel, contra decisão proferida pela Sexta Turma do Superior Tribunal de Justiça (STJ), que denegou a ordem referente ao HC 408.386/RS, ementado nos seguintes termos:
+    “PENAL. HABEAS CORPUS. LESÃO CORPORAL GRAVÍSSIMA. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO ESPONTÂNEA. INCIDÊNCIA. IMPOSSIBILIDADE. PACIENTE QUE NEGOU A PRÁTICA DO DELITO. ORDEM DENEGADA.
+    1. A aplicação da atenuante da confissão espontânea pressupõe que o réu admita a prática do crime que lhe é imputado, contribuindo, assim, com o deslinde da persecução criminal. Na espécie, o Tribunal de origem destacou que o paciente negou a prática delitiva (lesão corporal), razão pela qual não deve incidir a referida atenuante.
+    2. Ordem denegada”. (eDOC 22, p. 15)
+    Colho da manifestação da PGR o histórico do presente caso:
+    “O paciente foi absolvido, em 8/01/2009, da prática do crime previsto no artigo 129, § 2º, I, II e III, do Código Penal. Irresignados, tanto a defesa quanto o assistente de acusação, interpuseram recurso de apelação, sendo que foi provido o apelo acusatório e julgado prejudicado o defensivo na data de 16/12/2010. A defesa opôs embargos de declaração, com efeitos infringentes, objetivando sanar omissão, contradição e obscuridade no acórdão vergastado, os quais foram rejeitados pelo Colegiado em 7/4/2011. Manejada revisão criminal, foi julgada improcedente”. (eDOC 25, p. 1)
+    Irresignada a defesa impetrou habeas corpus perante o STJ que foi denegado nos termos da ementa já transcrita.
+    Nesta Suprema Corte a defesa repisa os argumentos anteriormente utilizados, qual seja, o de que a confissão parcial do paciente deveria ser levada em consideração na dosimetria da pena.
+    Requer o reconhecimento desta confissão para que a pena-base seja reduzida ao mínimo legal. (eDOC 22, p. 38)
+    É o relatório.
+    Decido.
+    Conforme relatei o recorrente, que é médico, foi denunciado e condenado por “lesão corporal grave”, por ter prescrito medicação a uma gestante, com o intuito de induzir o parto.
+    Referida medicação teria causado sequelas graves na criança, causando-lhe ‘lesão corporal grave’, conforme chegou a conclusão o TJRS.
+    A questão trazida a esta Suprema Corte cuida definir se a confissão do paciente, considerada parcial, deva ou não ser reconhecida no presente caso, para fins do artigo 65, III, “d” do CP.
+    Colho do acórdão proferido pelo TJRS o seguinte trecho:
+    “DOLO EVENTUAL. Pratica o crime de lesão corporal gravíssima, com dolo eventual, quem, sugerindo e fornecendo medicamento sabidamente abortivo, com finalidade de antecipar o parto, para uso domiciliar, sem controle médico, em virtude de férias, dá causa a complicações, gerando parto com características de urgência, com sedação da parturiente, uso de fórceps, formando um conjunto gerador de falta de oxigenação do cérebro, nos trabalhos e parto e pós-parto”. (eDOC 1, p. 5)
+    Como se pode depreender o acórdão condenatório considerou que a ação perpetrada pelo recorrente (lesão corporal grave) se deu com o “animus” eventual.
+    Neste contexto, creio que assiste razão a defesa, pois considerando que ao ministrar a medicação à paciente, o recorrente agiu, de forma negligente e imprudente, pois fora de um ambiente hospitalar onde haveria acompanhamento da gestante, mas como reconheceu o TJRS sua ação ocorreu sem que desejasse o resultado lesão corporal a quem quer que seja, mãe ou filha, mas tendo concorrido para o mesmo.
+    Em que pese o resultado de sua ação, com a qual me sensibilizo profundamente, não se pode olvidar que a utilização do referido medicamento, conhecido popularmente como abortivo, é referendada pelo Ministério da Saúde, que no “contexto de atendimento em ginecologia e obstetrícia”, desenvolveu através da Portaria MS/GM nº 1.044 de 5.5.2010 o chamado “Protocolo para Utilização de Misoprostol em Obstetrícia”, (Editora MS – OS 2012/0036 – 1ª Edição – 2012, www.saude.gov.br/saudedamulher).
+    Tal informação colabora, independentemente da análise das razões para as quais o recorrente teria prescrito referida medicação, para o entendimento de que, de fato, seu resultado, lesão corporal, não foi desejado pelo profissional/recorrente, mas que infelizmente ocorreu, pois este não observou os cuidados necessários, incorrendo em imprudência e negligência, e deve arcar com as consequências disso.
+    Ora, desse raciocínio depreende-se que as lesões corporais sofridas pela vítima não foram a ação em si perpetrada pelo recorrente, mas resultado de uma ação primeira, que foi a ministração, sem o devido cuidado, e repito de forma imprudente e negligente, da medicação à mãe da vítima.
+    Tanto é que não haveria que se falar em “lesão corporal”, sofrida pela criança, se não houvesse sido prescrita a medicação referida, pelo menos é o que se depreende da análise feita pelo TJRS. Ou até mesmo poderia se cogitar a hipótese de que a “lesão corporal” sofrida, poderia não ter-se configurado, mesmo com a ministração da referida substância, se tivessem sido tomadas todas as precauções em relação ao acompanhamento da mãe gestante, em local próprio, ambiente hospitalar, cercada de todo o aparato necessário para uma possível emergência, e não em ambiente domiciliar, como no caso.
+    Com base nisso, ao contrário do que decidido pelo Tribunal local, tenho como eficaz a confissão espontânea do recorrente, pois se referiu ao fato principal que desencadeou, infelizmente, o resultado indesejado “lesão corporal”.
+    Do exposto, dou provimento ao recurso ordinário em habeas corpus para que o TJRS proceda a nova dosimetria da pena, aplicando ao recorrente a sua redução, em seu grau máximo, com base na sua confissão espontânea, nos termos do artigo 65, III, “d” do CP.
+    Comunique-se com urgência ao TJRS (Revisão Criminal 70071389795) .
+    Publique-se.
+    Brasília, 26 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
