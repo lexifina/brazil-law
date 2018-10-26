@@ -1,0 +1,28 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus interposto por Wanderson Silva de Oliveira, contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental no HC 266.632/ES.
+    O Recorrente, juntamente com corréu, foi condenado pela prática do crime de tráfico de drogas (art. 33 c/c art. 40, VI, ambos da Lei 11.343/2006) à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Espírito Santo negou provimento ao apelo defensivo.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça pela via do Habeas Corpus n. 266.632/ES, a Ministra Marilza Maynard (Desembargadora Convocada), em decisão monocrática, negou seguimento ao writ. Manejado agravo regimental, a Ministra Relatora reconsiderou a decisão agravada e acolheu o pedido defensivo de solicitação de informações ao Tribunal de origem, proferindo, posteriormente, decisão de não conhecimento da impetração. Ato contínuo, a Quinta Turma negou provimento ao agravo regimental interposto contra a decisão denegatória.
+    No presente recurso ordinário, sustenta a Defesa que, ao buscar a correção falhas na fixação da reprimenda do Recorrente, houve negativa indevida de prestação jurisdicional, ante a não apreciação do mérito do habeas corpus impetrado, seja pela Corte Estadual ou pela Corte Superior (a primeira, ao reconhecer sua incompetência, e a segunda, ao decidir que a apreciação do writ configuraria supressão de instância). Pede o provimento do recurso, para que seja determinada a apreciação do mérito da impetração pelo Superior Tribunal de Justiça.
+    Contrarrazões apresentadas.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pelo não conhecimento do recurso.
+    É o relatório.
+    Decido.
+    Extraio do ato apontado como coator:
+    AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. REGIME FECHADO E APLICAÇÃO DA MINORANTE (ART. 33, § 4º, DA LEI 11.343/2006). MATÉRIAS NÃO SUBMETIDAS AO EXAME DA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+    I - Acompanhando o entendimento firmado pela 1ª Turma do Supremo Tribunal Federal, nos autos do Habeas Corpus n. 109.956, de relatoria do Excelentíssimo Ministro Marco Aurélio, a 5ª Turma deste Superior Tribunal de Justiça passou a adotar orientação no sentido de não mais admitir o uso do writ como substitutivo de recurso ordinário, previsto nos arts. 105, II, a, da Constituição da República e 30 da Lei n. 8.038/1990, sob pena de frustrar a celeridade e desvirtuar a essência desse instrumento constitucional.
+    II - O entendimento desta Corte evoluiu para não mais se admitir o manejo do habeas corpus em substituição ao recurso próprio, bem assim como sucedâneo de revisão criminal. Precedentes.
+    III - A despeito da impossibilidade de conhecimento do writ, convencionou-se analisar as alegações apresentadas, de forma fundamentada, a fim de apreciar a necessidade de concessão da ordem, de ofício.
+    IV - Impossibilitada a análise por este Tribunal Superior, sob pena de incorrer em vedada supressão de instância, da alegada existência de constrangimento ilegal, na imposição de regime fechado ao Paciente e da não aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, porquanto o Tribunal de origem não emitiu juízo de valor sobre as respectivas teses defensivas.
+    V - A decisão agravada não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+    VI - Agravo Regimental improvido.
+    A decisão impugnada teve por fundamento a inadequação da via eleita pela Defesa, em razão da suposta utilização indevida do habeas corpus como substitutivo do recurso apropriado.
+    No caso, porém, a impetração originariamente dirigida ao Tribunal de Justiça do Espírito Santo foi encaminhada ao Superior Tribunal de Justiça em razão do andamento da ação penal em trâmite contra o Paciente. Basicamente, a Corte Estadual entendeu ser incompetente para julgar o writ, por ter avançado sobre o mérito da pretensão punitiva em sede de apelação na ação penal originária, o que a teria transformado na própria autoridade coatora do habeas corpus. Em razão disso, o habeas corpus originário foi encaminhado à apreciação do Superior Tribunal de Justiça.
+    Nesse cenário processual, não há falar em utilização do habeas corpus como substitutivo de recurso ordinário, configurando constrangimento ilegal a negativa da prestação jurisdicional pela Corte Superior, sob tal fundamento.
+    Ante o exposto, dou provimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, RISTF), para determinar que a autoridade coatora passe ao exame do mérito da impetração.
+    Sem prejuízo, em atenção ao princípio da economia processual e considerando o tempo transcorrido deste a impetração, a quantidade de pena aplicada ao Paciente e a sinalização do próprio juízo da execução penal, no sentido de que acolheria o pedido formulado em habeas corpus, caso lhe tivesse sido direcionado (evento 1, f. 47-48), intime-se a Recorrente (Defensoria Pública do Espírito Santo) para que, no prazo de 5 (cinco) dias, manifeste-se sobre a manutenção do interesse recursal.
+    Escoado o prazo, com ou sem a manifestação da Recorrente, encaminhem-se os autos ao Superior Tribunal de Justiça, para o exame do mérito da impetração ou a extinção do feito em razão da perda superveniente do interesse recursal.
+    Publique-se.
+    Brasília, 26 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
