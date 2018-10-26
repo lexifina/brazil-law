@@ -1,0 +1,34 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “USUCAPIÃO - PRESCRIÇÃO AQUISITIVA SUSPENSA - HERDEIRA INCAPAZ-EVENTUAIS BENFEITORIAS NÃO DISCRIMINADAS - INEXISTÊNCIA DA OBRIGAÇÃO DE INDENIZAR OU DIREPTO DE RETENÇÃO - FUNÇÃO SOCIAL DA PROPRIEDADE - PROPRIETÁRIOS QUE NÃO TINHAM A POSSE DO IMÓVEL REIN'T'EGRAÇÃO DE POSSE INCABÍVEL -SENTENÇA REFORMADA —RECURSO PARCIALMENTE., PROVIDO“ (pág. 85 do documento eletrônico 5).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação dos arts. 5°, XXIII e XXXVI; 182; e 183 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaco, inicialmente, que os arts. 5°, XXXVI; 182; e 183 da Constituição não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, cito o ARE 772.836-AgR/PE, de relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    3. Agravo regimental não provido” (grifei).
+    Outrossim, consta do voto condutor do acórdão recorrido:
+    “[…]
+    A improcedência do feito principal era mesmo de rigor, e não há cogitar-se da alegada prescrição aquisitiva.
+    Consoante restou explanado na r. sentença, com o falecimento do titular do imóvel, a propriedade foi imediatamente transferida aos herdeiros por força do princípio da saisine.
+    Assim, sendo absolutamente incapaz uma das herdeiras conforme comprova documento trazido aos autos, a prescrição o ficou suspensa (art. 198, I, CC) até a sua morte, momento em que o prazo prescricional voltou a fluir.
+    Em que pesem às alegações da Autora/Apelante, o fato de a incapaz ser representada por curador especial, em nenhum aspecto, arreda a causa de suspensão.
+    Por conseguinte, não preenchido o requisito temporal para a aquisição original da propriedade.
+    Quanto às benfeitorias, deixaram os Requerentes de mencionar qualquer tipo de incremento que realizaram no imóvel. Portanto, incabível a recompensa pelos proprietários do imóvel em favor dos ocupantes, tampouco o reconhecimento do direito de retenção.
+    Até esse ponto, a sentença não comporta nenhum reparo. Equivocou-se, no entanto, seu ilustre prolator ao -- determinar que os Autores/Reconvintes fossem imediatamente reintegrados na posse do imóvel, garantindo-lhes o direito de recebimento de aluguéis.
+    Certo que aqui, o usucapião apenas foi afastado em razão da incapacidade de uma das coproprietárias, não tendo havido dúvida acerca da posse iniciada em 1997. Os Apelados tem propriedade, mas não posse, sequer indireta, à medida que não houve nenhum tipo de - vínculo obrigacional entre eles e a or a Apelante.
+    ‘Assim, por força de uma relação jurídica travada entre o proprietário e um terceiro, detecta-se o desdobramento da posse em direta e indireta. Exemplos fecundos podem ser lembrados com os N contratos de locação, usufruto, comodato etc. Em tais hipóteses, o proprietário (que permite que um terceiro apreenda a coisa) se mantém 2° como possuidor indireto, enquanto o terceiro assume a posição de o possuidor direto’ (Cristiano Chaves de Farias e Nelson Rosenvald, Direitos ó q U Reais, 69 ed., Rio: Lumen Juris, 2010, p. 67).
+     Assim, não exercendo os Apelados posse sobre NN MN Q~ o imóvel, devem buscar a imissão na posse com base em outra causa de pedir (propriedade) em via própria.
+    Vale ainda ressaltar que o terreno sub judice compõe um imóvel maior, ocupado por dezenas de famílias ao longo de vários anos. Em casos tais, a função social da propriedade, um dos pilares ó da usucapião, merece ser sopesada. Embora não tenha transcorrido o s prazo prescricional aquisitivo, é certo que o mencionado princípio, com assento constitucional, impede que os possuidores de fato do local indenizem os proprietários do imóvel, o qual se encontrava praticamente abandonado, razão pelo qual foi ocupado pelos moradores.
+    Ademais, a cobrança de alugueis das famílias que ali se assentaram tangencia a figura profligada pelo art. 884 do Código Civil. E o Judiciário não pode prestigiar o enriquecimento sem causa.
+    Isto porque os proprietários não possuíam qualquer intenção negocial.
+    Ao contrário, o bem apenas deixou de ser adquirido pelos moradores, pela existência de herdeira incapaz.
+    Desse modo, também a reconvenção deve ser julgada improcedente” (págs. 92-94 do documento eletrônico 5).
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Inviável, portanto, o extraordinário. Em sentido análogo, cito:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. REINTEGRAÇÃO DE POSSE. USUCAPIÃO. PREENCHIMENTO DOS REQUISITOS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE 890.598-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    Com essa mesma orientação, menciono, também, os seguintes julgados: RE 1.142.987/CE, de relatoria do Ministro Dias Toffoli; e ARE 1.125.232/SP, de relatoria do Ministro Marco Aurélio.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
