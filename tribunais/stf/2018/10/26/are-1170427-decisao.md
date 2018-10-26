@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido de pagamento retroativo de diferenças salariais referentes a progressão funcional, na forma da legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, inciso XXXVI, e 37, inciso XIV, da Constituição Federal e 17 do Ato das Disposições Constitucionais Transitórias. Diz inviável a progressão automática, aludindo ao efeito cascata. Aponta a divergência com o decidido no recurso extraordinário nº 390.667/MG.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. REEXAME NECESSÁRIO CONHECIDO DE OFICIO. ART. 475, §1°, DO CPC. SERVIDORAS DO MUNICÍPIO DE GOVERNADOR VALADARES. PROGRESSÃO HORIZONTAL. DIREITO RECONHECIDO PELA ADMINISTRAÇÃO. VERIFICADA A TRANSAÇÃO ACERTADA COM O SINDICATO. AUSÊNCIA DE COMPROVAÇÃO DE PAGAMENTO DE PROGRESSÕES. ARTIGO 333, II, DO CPC. JUROS E CORREÇÃO MONETÁRIA. Em atenção ao disposto no art. 475, § 1° do CPC, sujeita-se a sentença ilíquida ao reexame necessário. Nos moldes do artigo 333. II, do CPC cabia ao requerido a demonstração de fato extintivo do direito das autoras. O acordo celebrado entre o Município de Governador Valadares e o Sindicato dos Servidores Municipais não autoriza na prerrogativa de se buscar o direito na via judicial.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    O Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei Complementar municipal nº 35/02. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    No mais, o sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
