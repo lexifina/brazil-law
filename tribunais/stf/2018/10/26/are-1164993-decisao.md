@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA CONCURSO PÚBLICO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. NÃO ACOLHIMENTO. CANDIDATO EXCEDENTE. EXISTÊNCIA DE PESSOA CONTRATADA. NÃO DEMONSTRAÇÃO DE PRETERIÇÃO OU DE EXISTÊNCIA DE VAGA DE PROVIMENTO EFETIVO. INEXISTÊNCIA DE DIREITO À NOMEAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+    I — Não deve prevalecer a preliminar de ilegitimidade passiva da .autoridade coatora, vez que a Lei Orgânica do Município de São Luís dispõe que o provimento de cargos públicos é atribuição do Prefeito, delegável aos Secretários Municipais
+    II — O candidato aprovado como excedente não possui direito líquido e certo a nomeação, mas apenas expectativa de direito em ser chamado a ocupar um cargo efetivo à proporção que novas vagas forem sendo disponibilizadas.
+    III — Apenas se aprovado, dentro do número de vagas previstas no edital do certame, tivesse sido preterido em sua nomeação ou se restasse comprovada a existência de vaga de provimento efetivo, é que estaria configurada a lesão ao direito líquido e certo de o candidato ser nomeado ao cargo para o qual fora aprovado mediante concurso público.
+    IV — Apelação conhecida e provida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, II, da CF.
+    O recurso não deve ser provido.
+    O Supremo Tribunal Federal (STF) reconheceu a repercussão geral da questão ora debatida (RE 837.311-RG, Rel. Min. Luiz Fux Tema 784).
+     Na análise do mérito do recurso, o Plenário fixou a seguinte tese: o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato. Assim, o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses:(i) quando a aprovação ocorrer dentro do número de vagas dentro do edital; (ii) quando houver preterição na nomeação por não observância da ordem de classificação; (iii) quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima.
+    No caso dos autos, a candidata foi aprovada fora do número de vagas previstas no edital do concurso e não se enquadra nas hipóteses de preterição previstas pelo STF.
+    Por fim, para dissentir do acórdão recorrido, quanto à ausência de preterição no caso concreto, seria necessária a análise do material fático-probatório dos autos, procedimento vedado nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 26 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
