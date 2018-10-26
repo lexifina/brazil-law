@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO INTERNO NA APELAÇÃO CÍVEL. Ação de cobrança. Rito ordinário. Rioprevidência. Pecúlio Post Mortem. Benefício previsto nos artigos 26, 45 e 46 da Lei Estadual 285/1979. Extinção do benefício apenas com a edição da Lei Estadual 5109/2007. A edição da Lei Federal 9.717/1998 não possui o condão de revogar o benefício em epígrafe. Falecimento da genitora dos autores em 19.10.2004, quando ainda vigente a Lei 285/1979. Enunciado n° 340 da súmula de jurisprudência do Superior Tribunal de Justiça. Agravante que não trouxe aos autos fato novo a ensejar reforma da decisão guerreada. AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO. ” (pág. 99 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 5°, XXXVI; 24, XII e § 4°; e 40, § 12, da mesma Carta.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, com apoio na Lei 285/1979 do Estado do Rio de Janeiro, entendeu que os autores preencheram os requisitos para a concessão do pecúlio post mortem, conforme se observa do seguinte trecho da decisão impugnada:
+    “Cinge-se à controvérsia sobre pagamento pela ré aos autores de beneficio de pecúlio post mortem, instituído e regulamentado nos artigos 26, 45 e 46 da Lei Estadual 285/1979, em razão do falecimento de sua mãe.
+    Em 19.10.2004, quando a segurada veio a falecer, encontrava-se ainda em vigor a Lei n° 285/1979, cuja redação, alterada pela Lei 4.320/2004, dispõe em seu artigo 29, inciso I, que:
+    São beneficiários do Regime Próprio de Previdência Social do Estado do Rio de Janeiro, na condição de dependentes do segurado:
+    I - o cônjuge, a companheira, o companheiro e o filho, de qualquer condição, menor de 21 (vinte e um) anos ou até 24 (vinte e quatro) anos, se estudante universitário, ou maiores, inválidos ou interditos;(...)
+    Assim, merece reforma a sentença ora guerreada, uma vez que a simples edição da Lei Federal 9.717/98, que veda a concessão do aludido beneficio por não fazer parte do Regime Geral da Previdência Social, não teve o condão de revogar a Lei Estadual 285/1979, o que apenas ocorreu, em 2007, com o advento da Lei n°. 5.109.
+    Dessa forma, no caso em tela, considerando que a servidora faleceu naquela data de 19.10.2004, quando a Lei Estadual 285/1979 ainda produzia regularmente todos os seus efeitos, impõe-se o reconhecimento do direito dos autores a receber o beneficio do pecúlio post mortem, por força, inclusive, do Enunciado n° 340 da Súmula de jurisprudência do Superior Tribunal de Justiça, segundo o qual a lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado” (págs. 2-3 do documento eletrônico 3).
+    Desse modo, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame da norma local alusiva ao caso, o que é vedado pela Súmula 280 do STF. Nesse sentido, destaco precedentes de ambas as Turmas desta Corte:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PECÚLIO POST MORTEM. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE 995.292-AgR/RJ, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PECÚLIO POST MORTEM. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. SUSPENSÃO DE NORMA INFRACONSTITUCIONAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+    I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei estadual 285/1979), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes.
+    II - A questão que não foi debatida em momento processual anterior constitui inovação recursal, insuscetível de ser levantada nas razões do agravo regimental. Precedentes.
+    III - Agravo regimental improvido” (ARE 698.595-AgR/RJ, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2018.
+      Ministro Ricardo Lewandowski
+Relator
