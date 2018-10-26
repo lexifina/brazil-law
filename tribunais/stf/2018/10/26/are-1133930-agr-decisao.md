@@ -1,0 +1,11 @@
+Decisão:
+    1. Trata-se de agravo interno cujo objeto é decisão monocrática de minha relatoria que deu parcial provimento ao recurso extraordinário interposto pelo contribuinte e aplicou o art. 85, § 11, do CPC/2015.
+    2. A parte recorrente sustenta que a decisão agravada merece ser revista no tocante ao arbitramento de honorários recursais, uma vez que não houve fixação de verba honorária na origem. Pleiteia a reconsideração do provimento judicial “exclusivamente quanto à fixação da verba honorária recursal”.
+    3. Assiste razão à parte agravante. Com efeito, não houve a fixação de honorários advocatícios na origem em desfavor da União, o que inviabiliza a aplicação do art. 85, § 11, do CPC/2015, por esta Corte. Nesse sentido, os seguintes julgados:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULA 280/STF. HONORÁRIOS RECURSAIS. DESCABIMENTO. 1. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF ( Por ofensa a direito local não cabe recurso extraordinário ). 2. Merece ser afastada a aplicação do art. 85, § 11, do Código de Processo Civil, pois não foram estabelecidos honorários advocatícios nas instâncias de origem. A norma determina a majoração da verba honorária já imposta na causa, e não sua fixação inicial, que se rege por outros dispositivos. 3. Agravo Interno parcialmente provido, apenas para afastar a condenação em honorários recursais.” (ARE 1125864 AgR, Rel. Min. Alexandre de Moraes)
+    “DIREITO PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. A conclusão do Tribunal de origem não diverge da jurisprudência do Supremo Tribunal Federal (RE 603.581-AgR, Rel. Min. Dias Toffoli). 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 981068 AgR, sob a minha relatoria)
+    4. Diante do exposto, reconsidero a decisão monocrática anteriormente proferida tão somente para afastar a aplicação do art. 85, § 11, do CPC/2015. Julgo prejudicado o agravo interno.
+    5. Publique-se.
+     Brasília, 26 de outubro de 2018
+Ministro Luís Roberto Barroso
+Relator
