@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça de Santa Catarina, que, ao prover apelação ministerial, condenou [NOME] à pena de 1 (um) ano de reclusão, em regime aberto, mais 10 (dez) dias-multa, por infração ao art. 298 do Código Penal, nos termos da seguinte ementa (e-STJ fl. 215):
+APELAÇÃO CRIMINAL - CRIME DE FALSIFICAÇÃO DE DOCUMENTO PARTICULAR (CP, ART. 298) - SENTENÇA ABSOLUTÓRIA (CPP, ART. 386, VII).
+RECURSO DO MINISTÉRIO PÚBLICO.
+AUTORIA - TESE DE SUFICIÊNCIA PROBATÓRIA - ACOLHIMENTO - LAUDO PERICIAL QUE, APESAR DE INCONCLUSIVO, APONTA A CONVERGÊNCIA ENTRE TRAÇO DA RUBRICA COM A LETRA DA RÉ - PROVA ORAL A CORROBORAR AS CONCLUSÕES TÉCNICAS - RÉ QUE FALSIFICA ASSINATURA DE PATRÕES, COMO FIADORES, EM CONTRATO DE LOCAÇÃO - PREJUÍZO DESNECESSÁRIO - CONDENAÇÃO - PENA FIXADA NO MÍNIMO LEGAL E SUBSTITUÍDA POR RESTRITIVA DE DIREITO.
+O laudo pericial que aponta a convergência nos traços da assinatura falsa com a letra da ré e as circunstâncias de fato reveladas pela prova oral servem como fortes elementos de convicção e são hábeis a respaldar a condenação penal.
+RECURSO CONHECIDO E PROVIDO.
+Embargos de declaração desprovidos (e-STJ fl. 254):
+PROCESSUAL PENAL - EMBARGOS DE DECLARAÇÃO OPOSTOS COM VISTAS À REDISCUSSÃO DA MATÉRIA - ALEGADA CONTRADIÇÃO ENTRE O ACÓRDÃO E AS PROVAS - IMPOSSIBILIDADE - PREQUESTIONAMENTO.
+"A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado" (STJ, Min. Nefi Cordeiro).
+EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITOS - POSSIBILIDADE
+"A execução provisória da pena restritiva de direitos imposta em condenação de segunda instância, ainda que pendente o efetivo trânsito em julgado do processo, não ofende o princípio constitucional da presunção de inocência" (STF, Min. Luiz Fux).
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do especial, fulcrado na alínea "c" do permissivo constitucional, alegando divergência jurisprudencial, em relação aos arts. 158 do Código de Processo Penal e 147 da Lei de Execução Penal.
+Pugna, pela absolvição da acusada, por ausência de provas, e pela imediata suspensão da execução provisória da pena.
+Admitido (e-STJ fls. 296/299), manifestou-se o Ministério Público Federal, nesta instância, pelo parcial conhecimento/desprovimento do recurso, nos termos da seguinte ementa (e-STJ fl. 312):
+EMENTA: RECURSO ESPECIAL FALSIFICAÇÃO DE DOCUMENTO PARTICULAR. AUTORIA. SÚMULA 7/STJ. DEMONSTRAÇÃO POR DIVERSOS MEIOS DE PROVA. DESNECESSIDADE DE DEMONSTRAR PREJUÍZO. PENA RESTRITIVA DE DIREITO. EXECUÇÃO IMEDIATA. EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+1. Para rever as conclusões do Tribunal estadual, no sentido de que a prova pericial aponta para a autoria da ora recorrente, assim como as provas testemunhais seriam harmônicas nesse mesmo sentido, seria necessário o revolvimento de fatos e provas, o que não é possível nesta instância (Súmula 7/STJ).
+2. Apesar da inquestionável importância da prova pericial para a demonstração da materialidade do crime previsto no art. 298 do CP, o mesmo não vale para a verificação da autoria, a qual pode ser comprovada por outros meios.
+3. O crime de falsificação de documento particular (art. 298 do CP)
+não demanda demonstração de efetivo prejuízo para sua configuração.
+4. Não há ilegalidade na execução imediata da pena restritiva de direito determinada no âmbito do Tribunal inferior, após o exaurimento das instâncias ordinárias, mesmo na pendência de recursos de natureza excepcional.
+5. Parecer pelo parcial conhecimento do recurso especial, e, nessa extensão, pelo seu desprovimento.
+É o relatório. Decido.
+O recurso não comporta conhecimento.
+Isto porque, não se conhece de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre julgados em confronto, a fim de ficarem demonstradas a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementas.
+Ademais, "para a comprovação da alegada divergência jurisprudencial, deve a recorrente provar o dissenso por meio de certidão, cópia autenticada ou pela citação do repositório, oficial ou credenciado, em que tiver sido publicada a decisão divergente, mencionando as circunstâncias que identifiquem ou assemelhem os casos em confronto, nos termos dos arts. 541, parágrafo único, do CPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça" (REsp 1243183/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Como se pode observar, a divergência jurisprudencial não foi demonstrada conforme as exigências legais.
+Mas não é só. O Tribunal a quo, após transcrever diversos depoimentos, concluiu pela condenação da recorrente, nos seguintes termos (e-STJ fls. 222/225):
+Pois bem. A prova dos autos releva que a ré fez um contrato particular de locação residencial com [NOME], constando como fiadores [NOME] e [NOME] (documento às fls. 04-10). Estes, sócios-proprietários da empresa Weber Segurança (contrato social às fls. 16-18), eram empregadores da acusada durante aquele período.
+Da simples comparação visual das assinaturas constantes no contrato de locação e no contrato social, sobretudo em relação à de [NOME], é perceptível a falsificação da assinatura. E quanto a isso não restam dúvidas, pois foi objeto de confirmação pelo laudo pericial (fls. 42-45).
+O perito, porém, concluiu não haver suficiência de convergências ou de divergências nas assinaturas a fim de delimitar quem seria o autor da falsificação. Nada obstante, ponderou que, quanto às assinaturas de [NOME], "foram observadas também convergências nos traços de tais rubricas (EF) com os grafismos do punho de Meridiana [NOME]" (fl. 45).
+Argumentou a recorrida, porém, que a autoria não ficou demonstrada por meio do laudo pericial, ofendendo o art. 158 do CPP.
+Entretanto, o dispositivo exige a realização do exame para demonstração da materialidade - o que, aliás, ocorreu. O exame grafotécnico até pode indicar a autoria delitiva, entretanto isso não significa que ela não possa ser verificada por outros meios de prova.
+ ..
+Superado isso, tem-se que ao menos neste ponto final o laudo confere indicativos técnicos da autoria, os quais são corroborados pela prova oral colhida.
+Isso porque a locadora do imóvel, [NOME], afirmou que a ré levou consigo o contrato para colher as assinaturas de [NOME] e [NOME], ao argumento de que estes não poderiam comparecer à imobiliária. Essa informação, aliás, é confirmada pelo e-mail encaminhado pela acusada à testemunha [NOME] (fl. 11).
+Ademais, quando constatado por [NOME] uma diferença nas grafias, ela contatou a empresa do casal, tendo uma pessoa, que se identificou como [NOME], confirmado a fiança. Entretanto, [NOME], em juízo, negou ter recebido qualquer telefonema de [NOME] a respeito do assunto. Ainda, [NOME] informou que a identificação de [NOME] somente aconteceu depois de ela ter dito o objetivo da ligação. Muito embora [NOME] não tenha sido capaz de atestar que a pessoa que a atendeu era a acusada, [NOME] afirmou que o telefone não era atendido por uma única pessoa e [NOME] atestou que Meridiana exercia essa função quando estava na empresa.
+Não se olvida, ainda, que a acusada era a única interessada na obtenção de fiadores para seu contrato e era empregada de [NOME] e [NOME].
+A recorrida, por sua vez, negou ter falsificado as assinaturas e alegou que tudo decorreu dos insistentes abusos sexuais perpetrados contra ela por [NOME].
+ ..
+Partindo dessa premissa, a falsificação, ao menos da assinatura de [NOME], teria sido efetuada por uma terceira pessoa - entretanto, isso vai contra o que concluiu o laudo pericial, que neste ponto atestou que a rubrica de [NOME] tem similaridades com a grafia da ré.
+Ou seja, a tese de que fora vítima de abusos sexuais (o que não foi objeto de exame apurado nestes autos, por extrapolar seu objeto) não explica a aposição de assinatura falsa, cuja grafia, ao menos em parte, foi identificada como da ré Meridiana.
+Sustentou a defesa, também, a inexistência de prejuízo, "pois o contrato de locação foi honrado em sua integra/idade" (fl. 192). Ocorre que o delito em questão é formal, portanto eventual dano causado não é necessário para a configuração do delito, cuidando-se de mero exaurimento. Nesse sentido: "Consuma-se com a efetiva falsificação, desde que capaz de gerar conseqüências jurídicas, independentemente da efetiva produção de prejuízo" (BITENCOURT, Cezar Roberto. Código penal comentado. Saraiva. 8. ed. São Paulo, 2014, p. 1296).
+À vista disso, a pretensão recursal deve ser acolhida para condenar
+a ré Meridiana [NOME] por infração ao art. 298 do CP.
+Ora, a Corte de origem, soberana na análise das circunstâncias fáticas da causa, entendeu pela existência da prova de materialidade e da autoria a embasar a condenação da acusada pela prática de crime tipificado no art. 298 do Código Penal. Concluir de forma diversa implica exame aprofundado de provas, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SUFICIÊNCIA DA PROVA PARA CONDENAÇÃO. REEXAME DE PROVA. SÚMULA 7/STJ. REINCIDÊNCIA. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULA 284/STF.
+1. Nos termos do artigo 105, inciso III, da Constituição Federal, este Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, o revolvimento dos fatos da causa e do processo, à moda de recurso ordinário ou de apelação.
+2. O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição.
+3. Cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação. (Súmula 7/STJ) 4. Estando o dispositivo de lei federal apontado como violado dissociado das razões recursais a ele relacionadas, resta impossibilitada a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. (Súmula 284/STF)
+5. É assente neste Sodalício o posicionamento de que a folha de antecedentes criminais é documento hábil e suficiente à comprovação da existência de maus antecedentes e reincidência, não sendo, pois, imprescindível a apresentação de certidão cartorária.
+6. Agravo regimental improvido. (AgRg no REsp 1716998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 08/05/2018, DJe 16/05/2018)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. CULPA EXCLUSIVA DO AUTOR. CONCLUSÃO FORMADA PELA INSTÂNCIA ORDINÁRIA COM BASE NO INTENSO EXAME DE PROVAS. DEBATE VEDADO EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que o agravante foi absolvido em primeira instância diante da ausência de prova suficiente para a condenação, tendo sido condenado em sede de apelação.
+2. A Corte a quo, após análise das provas constantes dos autos, reconheceu a culpa do agravante pelo crime de homicídio culposo, por ter sido imprudente ao não obedecer a sinalização de parada obrigatória constante na via em que trafegava, vindo a colidir com a bicicleta guiada pela vítima.
+3. A pretensão de reforma do julgado para se concluir pela culpa exclusiva da vítima no acidente automobilístico implicaria o revolvimento do material fático-probatório, o que é vedado pela Súmula 7 do STJ.
+4. Agravo desprovido. (AgRg no REsp 1508314/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/08/2017, DJe 23/08/2017).
+Finalmente, no que concerne ao pedido da defesa no sentido de suspender a execução provisória da pena restritiva de direito, observo que o pleito foi deferido pelo Tribunal de Justiça, conforme consta às e-STJ fls. 282/284, estando, pois, prejudicada a pretensão.
+Diante do exposto, com fulcro no art. 932, III, do CPC, c/c art. 255, §4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
