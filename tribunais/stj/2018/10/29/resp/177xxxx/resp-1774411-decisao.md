@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com amparo no art. 105, III, "a", contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+"EMENTA: PENAL E PROCESSUAL PENAL. ROUBO MAJORADO.
+APELAÇÃO. PLEITO DE AFASTAMENTO DA MAJORANTE DE EMPREGO DE ARMA POR AUSÊNCIA DE EXAME PERICIAL. IMPOSSIBILIDADE. PERÍCIA DE ARMA DISPENSÁVEL. PRESENTES OUTROS ELEMENTOS PROBATÓRIOS. ERRO MATERIAL NA TERCEIRA FASE DA DOSIMETRIA. CORREÇÃO DE OFÍCIO. PENA CORPÓREA ALTERADA. RECURSO CONHECIDO E IMPROVIDO.
+1. Presentes outros elementos probatórios, torna-se dispensável a apreensão e perícia da arma de fogo para fins de aplicação da majorante de emprego de arma.
+2. Merece reparação a sentença que traz erro material em sua dosimetria, ao calcular de forma equivocada a fração de aumento de pena da majorante.
+3. Recurso conhecido e improvido, mas com correção de oficio do erro material na terceira parte da dosimetria, alterando a pena corpórea." (e-STJ, fls. 214).
+Nas razões do recurso especial, alega a parte recorrente violação dos arts. 14, II, 59 e 157, todos do CP e 156 do CPP. Sustenta, em suma, a necessidade de apreensão e de perícia na arma de fogo para a incidência da majorante prevista no inciso I do § 2º do art. 157 do Código Penal. Requer, ainda a desclassificação do delito de roubo consumado para roubo tentado, ao argumento de que não houve a posse mansa e tranquila da res.
+Apresentada as contrarrazões (e-STJ, fls. 278-286) e admitido o inconformismo, os autos ascenderam a esta Corte.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 307-309).
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem afastou a incidência da majorante do art. 157, § 2º, I, do Código Penal, por entender ser dispensável, para tanto, haver apreensão e perícia da arma de fogo apontada como utilizada no roubo. Confira-se:
+"O Juízo de primeiro grau, de forma correta, aplicou a majorante prevista no art. 157, § 2º, inciso I, do Código Penal, referente ao emprego de arma na execução do crime de roubo, sendo dispensável a perícia do instrumento utilizado, a despeito do que alegou a Defesa, já que estão presentes nos autos outros elementos probatórios, como os testemunhos prestados, o que atestam o uso da arma para coagir a vítima a entregar seus pertences, constatando-se, na Sentença (fls. 145/150), o arbitramento do aumento de pena da majorante na fração mínima de 1/3 (um terço)." (e-STJ, fls. 216).
+A decisão do Tribunal de origem está em conformidade com o entendimento desta Corte. Com efeito, a Terceira Seção deste Superior Tribunal, por ocasião do julgamento dos Embargos de Divergência 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º do inciso I do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há comprovação testemunhal atestando o seu emprego. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. JULGADO PROFERIDO EM HABEAS CORPUS. INAPTIDÃO PARA COMPROVAÇÃO DA DIVERGÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. CAUSA ESPECIAL DE AUMENTO DE PENA. EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O acórdão impugnado firmou entendimento consoante com a jurisprudência desta Corte Superior de serem desnecessárias, para a configuração da causa de aumento de pena no roubo, a apreensão e a perícia de arma quando a sua utilização puder ser demonstrada por outros meios de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo regimental não provido." (AgRg no AREsp 541.760/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2016, DJe 17/05/2016);
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. EMPREGO DE ARMA DE FOGO. PRESCINDIBILIDADE DE APREENSÃO E PERÍCIA PARA A INCIDÊNCIA DA CAUSA DE AUMENTO PREVISTA NO ART. 157, § 2º, INCISO I DO CP. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. A Terceira Seção deste Tribunal Superior firmou o entendimento no sentido de que para o reconhecimento da majorante prevista no art. 157, § 2º, inciso I do Código Penal, mostra-se dispensável a apreensão da arma de fogo e a realização de exame pericial para atestar a sua potencialidade lesiva quando presentes outros elementos que atestem o seu efetivo emprego na prática delitiva (Eresp n. 961.863/RS).
+2. O poder vulnerante integra a própria natureza da arma de fogo, sendo ônus da defesa, caso alegue o contrário, provar tal evidência. Exegese do art. 156 do CPP.
+3. Agravo regimental a que se nega provimento." (AgRg no REsp 1.582.127/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/05/2016, DJe 10/06/2016).
+Por fim, no que se refere à desclassificação do delito de roubo consumado para roubo tentado, verifica-se que o acórdão recorrido não analisou a questão posta em debate. Mesmo quando do julgamento dos embargos de declaração, observa-se que apesar de o Tribunal de origem ter asseverado que "o Acórdão ora embargado esgotou a matéria, tendo havido a devida análise de todos os pontos sobre os quais o embargante está a buscar esclarecimentos." (e-STJ, fl. 260), verifica-se que o acórdão não traz a discussão sobre a matéria ventilada no recurso.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. EXTINÇÃO EM FACE DO PAGAMENTO ADMINISTRATIVO. PERDA DE OBJETO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 369 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF.
+1. A extinção integral da execução e dos correspondentes embargos em razão do pagamento administrativo realizado para alguns dos recorrentes prejudica o agravo regimental por eles aviado, por perda de objeto.
+2. Inviável a análise de matéria que não foi objeto de debate no Tribunal a quo. Ausente o prequestionamento, incidem na espécie os óbices das Súmulas 282 e 356 do STF.
+3. Agravo regimental de alguns agravantes julgado prejudicado.
+Regimental dos demais, desprovido." (AgRg nos EDcl no REsp 1.076.756/PR, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 16/06/2015, DJe 03/08/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso.
+Publique-se. Intimem-se.
