@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, instaurado por GOL LINHAS AÉREAS S.A e GOL LINHAS AEREAS INTELIGENTES S/A, envolvendo o Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da VARIG S/A e outros (arrematada pelas suscitantes), e o Juízo da 2ª Vara do Trabalho de Salvador/BA, onde tramita a ação reclamatória n.º 0109000-85.2008.5.05.0002, movida por [NOME].
+Em resumo, as arrematantes, ora suscitantes, sustentam que, apesar de existir decisão do juízo da recuperação judicial, declarando não ter havido a sucessão empresarial na hipótese, o magistrado trabalhista está lhe atribuindo a responsabilidade por obrigações das empresas do Grupo VARIG. Aduzem, nesse contexto, que "(..) há bloqueio nas contas das empresas Suscitantes para garantir as execuções, em alguns casos, na iminência de serem levantados os valores." (fls. 1/8)
+Em caráter liminar, pugna pelo sobrestamento do processo n.º 0109000-85.2008.5.05.0002, ajuizado por [NOME], em trâmite no Juízo da 2ª Vara do Trabalho de Salvador/BA, bem como a designação do Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ para a apreciação de questões urgentes.
+No mérito, requer seja declarada a competência do Juízo da recuperação judicial.
+Às fls. 258/260 este signatário deferiu o pedido liminar para determinar o sobrestamento do processo 0109000-85.2008.5.05.0002, em curso no Juízo da 2ª Vara do Trabalho de Salvador/BA, e designar o Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ para resolver, em caráter provisório, as medidas urgentes, até ulterior deliberação deste relator.
+Opostos embargos de declaração (fls. 275/306), esses foram rejeitados às fls. 321/322. Interposto agravo interno (fls. 333/342), estes aguardam julgamento.
+Prestadas as informações (fls. 269/273), o MPF opinou pelo reconhecimento da competência do r. juízo da recuperação judicial. (fls. 327/331)
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o conhecimento e processamento do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. Com efeito, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a competência para processar e julgar as execuções trabalhistas e de outra natureza, propostas em face da VARIG S/A (em recuperação judicial) e da VRG Linhas Aéreas S/A (arrematante da unidade produtiva da VARIG), pertence ao juízo universal, haja vista que não houve, na transmissão patrimonial (arrematação judicial homologada), a assunção do passivo da recuperanda pela arrematante. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA ARREMATANTE DA UNIDADE PRODUTIVA DA VARIG S/A EM FACE DE JUÍZOS DO TRABALHO E JUÍZO FALIMENTAR. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+3. Competência do Juízo da Direito da 1.ª Vara Empresarial do Rio de Janeiro, para o prosseguimentos das execuções trabalhistas.
+4. Agravo regimental desprovido.
+(AgRg no CC 122.412/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 09/10/2013, DJe 16/10/2013)
+E ainda: STJ, CC n. 61.272-RJ, Rel. Min. Ari Pargendler, 2ª Seção, DJ de 25/6/2007; STJ, EDcl no CC 97.730/RJ, Rel. Min. João Otávio Noronha, 2ª Seção, j. em 28.09.2010.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ (juízo da recuperação judicial).
+Publique-se. Intimem-se. Fica, pois, prejudicado o exame do agravo interno de fls. 333/342.
