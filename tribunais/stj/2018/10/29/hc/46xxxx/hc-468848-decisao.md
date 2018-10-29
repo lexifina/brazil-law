@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o Juízo da Vara de Execuções Criminais reconheceu a prática de falta grave pela apenada, ora paciente, consistente na posse de aparelho celular (art. 50, VII da Lei de Execução Penal). Em consequência, determinou a regressão do regime, a alteração da data-base para concessão de benefícios prisionais, além da perda de 1/5 dos dias remidos (fls. 54/58).
+Interposto agravo em execução pela defesa, o Tribunal a quo negou provimento ao recurso, nos termos da seguinte ementa:
+
+AGRAVO EM EXECUÇÃO (ARTIGO 197 DA LEP). FALTA GRAVE. POSSE DE APARELHO CELULAR. INCONFORMISMO DEFENSIVO. No caso dos autos, durante revista pessoal, foi apreendido com o réu um aparelho celular, sem chip. O apenado admitiu que estava com o aparelho celular, alegando que teria se esquecido. Diante destas circunstâncias, impositivo o reconhecimento de falta grave pelo apenado, uma vez que sua conduta caracteriza a falta grave prevista no artigo 50, Inciso VII, da LEP. Conforme o entendimento do colendo Superior Tribunal de Justiça, a posse de qualquer peça integrante do aparelho celular caracteriza falta disciplinar de natureza grave, sendo dispensável o aparelho completo.
+AGRAVO DESPROVIDO.
+No presente writ, a impetrante sustenta a necessidade do afastamento da falta grave aplicada a ora paciente, sob o argumento de que a falta grave não restou caracterizada, uma vez que o celular não continha chip, o que inviabilizaria a comunicação com outros presos e, consequentemente, afastaria a tipificação da falta grave.
+Alega negativa de vigência ao art. 118, caput, e I, da Lei n. 7.210/84, por entender incabível a regressão de regime, e ilegalidade da modificação da data-base para a concessão de novos benefícios, por ausência de previsão legal.
+Insurge-se, ainda, contra a perda dos dias remidos, ao argumento de que não haveria fundamentação idônea, observadas as circunstâncias do caso concreto.
+Requer a concessão da ordem para que seja cassado o acórdão ora impugnado.
+Indeferido o pedido liminar e dispensadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 211/225).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, o afastamento da falta disciplinar grave.
+A esse respeito, esses foram os fundamentos utilizados pela Corte estadual:
+ ..
+Adianto que é caso de negar provimento ao agravo.
+Conforme se observa dos autos, o apenado encontrava-se cumprindo pena privativa de liberdade, em regime fechado, quando, em 02OUT2017, durante revista pessoal, foi flagrado conduzindo em sua cueca um aparelho celular, marca Samsung, sem chip e um carregador artesanal (fl. 06).
+Instaurado o Processo Administrativo Disciplinar - PAD nº 204/2017, o apenado admitiu estar com o celular, afirmando que teria esquecido que estava com o aparelho (fl. 09). O [NOME], por sua vez, disse que, em revista pessoal no apenado, teria localizado o celular com ele, em sua cueca (fl. 09v). Em sede judicial, o apenado novamente admitiu que estava com o aparelho celular.
+Diante destas circunstâncias, o magistrado de origem reconheceu a prática de falta grave pelo apenado, na medida em que estaria ingressando no estabelecimento prisional com um aparelho celular, caracterizando a falta grave prevista no artigo 50, inciso VII, da LEP.
+Em que pese os argumentos trazidos pela Defesa, tenho que nenhum reparo merece ser feito. Conforme o entendimento do colendo Superior Tribunal de Justiça, a posse de qualquer peça integrante do aparelho celular caracteriza falta disciplinar de natureza grave, sendo dispensável o aparelho completo, como se infere do julgado a seguir ementado:
+ ..
+Cabe ao apenado observar os deveres que lhe são impostos quando do início do cumprimento de sua pena, não havendo qualquer justificativa plausível para o fato de ter tentado ingressar no estabelecimento prisional com um aparelho celular escondido em sua cueca. Certamente, restou caracterizada a falta grave, sendo impositiva a manutenção da decisão agravada, com o seu reconhecimento e aplicação de consectários legais.
+Ante o exposto, nego provimento ao agravo.
+É o voto. (fls. 165/167)
+Diante da fundamentação apresentada, o afastamento da falta grave praticada pelo ora paciente (art. 50, VII da LEP) demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. IMPETRAÇÃO CONTRA ACÓRDÃO DE AGRAVO EM EXECUÇÃO. NÃO CABIMENTO. FALTA GRAVE. FUGA. ALEGAÇÃO DE QUE O PACIENTE TERIA COMETIDO FALTA DE NATUREZA MÉDIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE DA ANÁLISE EM SEDE DE HABEAS CORPUS. AUSÊNCIA DE ILEGALIDADE. DECISÃO FUNDAMENTADA. WRIT NÃO CONHECIDO.
+ ..
+V- "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Ministra Laurita Vaz, DJe de 7/3/2014).
+Habeas Corpus não conhecido. (HC 303.263/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2014, DJe 16/12/2014)
+Ademais, segundo pacífica jurisprudência das Turmas que compõem a Terceira Seção deste Tribunal Superior, a posse de aparelho celular, em conjunto ou não de seus componentes essenciais, tais como "chip", carregador ou bateria, constitui falta disciplinar de natureza grave, após o advento da Lei n. 11.466/2007.
+Nesse sentido, os seguintes precedentes desta Corte Superior:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO. FALTA DISCIPLINAR DE NATUREZA GRAVE. DESCARACTERIZAÇÃO. REEXAME DE FATOS. INADMISSIBILIDADE. LEI N. 11.466/2007. POSSE DE CELULAR, BATERIA E CHIP. INTERRUPÇÃO DO PRAZO PARA PROGRESSÃO DE REGIME. SÚMULAS/STJ 441, 534 E 535. PERDA DE ATÉ 1/3 (UM TERÇO) DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. MANIFESTA ILEGALIDADE VERIFICADA. ORDEM NÃO CONHECIDA. WRIT CONCEDIDO DE OFÍCIO.
+ ..
+2. Não cabe, na via estreita do habeas corpus, a análise se o fato cometido pelo paciente configura-se ou não infração disciplinar de natureza grave, uma vez que indispensável o revolvimento do conteúdo fático-probatório dos autos. Precedentes.
+3. Segundo entendimento adotado pelo Superior Tribunal de Justiça, após o advento da Lei n. 11.466/2007, a posse de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, constitui falta disciplinar de natureza grave, sendo, ainda, prescindível a realização de perícia no aparelho telefônico com a finalidade de se atestar sua funcionalidade.
+4. A prática de falta grave pelo sentenciado, no curso da execução da pena, altera a data-base para a concessão de novos benefícios, exceto para fins de livramento condicional, indulto e comutação da pena. Entendimento consolidado nas Súmulas 441, 535 e 534 desta Corte e no recurso repetitivo, REsp 1.364.192/RS.
+5. Segundo reiterada jurisprudência desta Corte, a perda de até 1/3 dos dias remidos, em razão da falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, que estabelece a observância das diretrizes elencadas no art. 57 da LEP. Precedentes.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para afastar a interrupção da contagem do lapso temporal em relação ao livramento condicional, indulto e comutação de penas. (HC n. 359.902/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 8/11/2016)
+HABEAS CORPUS. POSSE DE APARELHO TELEFÔNICO CELULAR. DESNECESSIDADE DE PROVA PERICIAL. FALTA GRAVE. ART. 50, VII, DA LEI DE EXECUÇÕES PENAIS. PAD DEVIDAMENTE HOMOLOGADO. WRIT NÃO CONHECIDO.
+ ..
+2. O comando normativo introduzido pela Lei 11.466/2007 no rol do art. 50 da Lei de Execuções Penais incluiu as condutas de posse, utilização ou fornecimento de aparelho telefônico como caracterizadores da prática de falta grave, que possa permitir a comunicação do apenado com o ambiente externo.
+3. Com efeito, a exegese desde dispositivo revela ser prescindível a realização de perícia no aparelho telefônico para que venha a atestar sua funcionalidade, pois poderíamos alcançar eventual situação in concreto hábil a esvaziar o preceito normativo, caso fossem encontrados compartimentos desmantelados, que uma vez juntos possibilitariam a montagem do equipamento de interlocução.
+4. A despeito do reconhecimento da falta grave, não houve determinação de aplicação de seus consectários, sendo o paciente mantido em regime semiaberto, bem como preservados os dias remidos e inalterada a data-base para concessão de futuros benefícios.
+5. Ausência de aspectos dotados de teratologia no caso em apreço.
+6. Writ não conhecido. (HC n. 345.954/RS, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 1º/9/2016)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. POSSE DE CARREGADOR DE APARELHO CELULAR. RECONHECIMENTO DA PRÁTICA DE FALTA GRAVE PELA CORTE DE ORIGEM. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+ ..
+2. Firmou-se nesta Corte Superior de Justiça entendimento de que, após o advento da Lei n. 11.466/2007, a posse de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, constitui falta disciplinar de natureza grave.
+3. Na espécie, a infração consistente na posse de carregador de aparelho celular foi praticada em 17/9/2013, portanto, após a entrada em vigor da Lei n. 11.466/2007, o que caracteriza falta grave.
+4. Inexistência, assim, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+5. Habeas corpus não conhecido. (HC n. 354.035/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 31/5/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. POSSE DE APARELHO DE TELEFONE CELULAR. FALTA DISCIPLINAR DE NATUREZA GRAVE. CONFIGURAÇÃO. PERÍCIA PARA ATESTAR O SEU FUNCIONAMENTO. DESNECESSIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada compreensão pessoal diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Após a edição da Lei n. 11.466/2007, a posse, pelo sentenciado, de aparelho de telefonia celular ou qualquer componente imprescindível para o seu funcionamento, caracteriza falta disciplinar de natureza grave, sendo desnecessária a realização de perícia para atestar a sua funcionalidade. Precedentes.
+3. Habeas corpus não conhecido. (HC n. 263.870/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 29/9/2014)
+Quanto às consequências do reconhecimento da falta grave - regressão de regime, alteração da data-base e perda dos dias remidos - verifico que essas questões não foram debatidas pelo Tribunal a quo, o que inviabiliza a sua análise diretamente por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMOLOGAÇÃO DA FALTA GRAVE. PRÉVIA OITIVA DO CONDENADO. DESNECESSIDADE. AUDIÊNCIA DE OITIVA DAS TESTEMUNHAS. PRESENÇA DO REEDUCANDO. DESNECESSIDADE. TIPICIDADE OU GRAVIDADE DA CONDUTA INDISCIPLINAR. DESCLASSIFICAÇÃO. REEXAME. IMPOSSIBILIDADE. PERDA DE 1/3 DOS DIAS REMIDOS. TEMA NÃO DEBATIDO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+2. Em relação à necessidade de presença do condenado na audiência de oitiva das testemunhas, com base nos argumentos acima apresentados, é desnecessário o comparecimento do acusado ao ato, se a defesa técnica acompanhou todo o procedimento, inexistindo, portanto, qualquer prejuízo para o reeducando.
+3. Na hipótese vertente, o reconhecimento da falta grave cometida pelo apenado realizou-se por meio de regular Procedimento Administrativo Disciplinar, devidamente instruído e processado nos moldes estabelecidos pela legislação, tendo sido oportunizado ao reeducando a oportunidade de manifestar seus argumentos por meio de defesa técnica, que esteve presente na inquirição das testemunhas e no interrogatório do apenado, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante. 4. Esta Corte Superior de Justiça firmou o posicionamento no sentido de, em virtude da natureza sumária do habeas corpus, ser incabível a análise acerca da tipicidade dos fatos praticados pelo apenado, bem como a sua desclassificação quanto à gravidade da conduta, ante o necessário revolvimento fático-probatório, impossível de realizar-se por meio do mandamus.
+5. A questão referente à perda dos dias remidos não foi examinada pelo Tribunal de origem, o que leva ao não conhecimento do writ neste ponto, evitando-se indevida supressão de instância.
+6. Agravo desprovido. (AgRg no HC 454.456/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/08/2018, DJe 04/09/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
