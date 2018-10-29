@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal Justiça, assim ementado:
+"ESTELIONATO. ATIPICIDADE DOS FATOS.
+Configura, em tese, falta disciplinar ou ato de improbidade administrativa, o recorrente que, embora recebesse licitamente o salário que lhe era endereçado, não cumpriu o dever de contraprestar os serviços para os quais foi contratado, sendo a conduta atípica.
+FALSIDADE IDEOLÓGICA. ABSOLVIÇÃO.
+Praticada a conduta descrita no artigo 299 do CP com a finalidade de receber vantagem pecuniária, fica absorvido o delito de falsidade eventualmente perpetrado, pois praticado como meio para a consecução do crime fim. APELO PROVIDO." (e-STJ, fl. 566).
+Nas razões recursais, a acusação sustenta violação do art. 299 do Código Penal.
+Nesse sentido, aduz que o servidor público, ao receber remuneração, mediante atestados falsos de presença realizados por outro agente, pratica o delito de falsidade ideológica.
+Assim, pede provimento ao recurso especial.
+Contrarrazões apresentadas (e-STJ fls. 595-595).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 615-619).
+É o relatório.
+Decido.
+O Tribunal de origem considerou atípica a conduta dos recorridos. Anotou que, se a falsidade (crime meio) exaure-se no estelionato (crime fim), reconhecidamente atípico, há de se reconhecer a atipicidade também do crime do art. 299 do CP:
+"A descrição fática não configura estelionato ou qualquer outro ilícito penal. O apelante Hander não obteve, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento ao receber a verba salarial a ele devida, posto que mesmo não tendo executado qualquer atividade laborai naquela Secretaria Municipal, tal conduta poderá caracterizar improbidade administrativa, a ser, eventualmente, averiguada na esfera civil.
+ ..
+Logo, se a falsidade tinha a única finalidade garantir o pagamento do valor pecuniário mencionado, sendo a falsidade crime meio para a realização de um crime fim, no caso o estelionato, e diante da absolvição desse crime, o falso se exauriu sem maior potencialidade lesiva, impondo, assim, a absolvição também quanto ao delito se falsidade ideológica." (e-STJ, fls. 564-565)
+Com efeito, note-se que o entendimento transcrito não destoa da compreensão desta Corte, no sentido de que, na hipótese de atipicidade do crime-fim, o crime-meio também terá sua configuração afastada. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. FALSIDADE DA NOTA FISCAL. CRIME MEIO PARA A PRÁTICA DO CRIME FIM. PRINCÍPIO DA CONSUNÇÃO. JURISPRUDÊNCIA DOMINANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência dominante do Superior Tribunal de Justiça assenta que, "na hipótese em que aplicado o princípio da insignificância ao delito de descaminho, é possível afastar a tipicidade do crime de falso quando praticado como conduta-meio à consecução daquele. Ademais, é irrelevante, para tanto, o momento de apresentação do documento falso perante a autoridade fazendária" (AgRg no REsp n. 1.347.057/PR, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 24/8/2016).
+2. Além disso, modificar a moldura fática delimitada pelo Tribunal de origem, no tocante à condição de instrumento do crime de falsificação de documentos para a execução do delito de descaminho, seria inexorável o revolvimento do acervo fático-probatório acostado aos autos, o que seria vedado pela Súmula n. 7 do STJ.
+3. Agravo regimental não provido." (AgRg no REsp 1.379.107/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/06/2017, DJe 13/06/2017);
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALSIFICAÇÃO DE NOTAS FISCAIS. DESCAMINHO. INSIGNIFICÂNCIA RECONHECIDA. CONSUNÇÃO MANTIDA. MOMENTO DE UTILIZAÇÃO DO FALSO. INDIFERENÇA. AGRAVO DESPROVIDO.
+1. Este Superior Tribunal de Justiça tem entendimento firme no sentido de que, na hipótese em que aplicado o princípio da insignificância ao delito de descaminho, é possível afastar a tipicidade do crime de falso quando praticado como conduta-meio à consecução daquele. Ademais, é irrelevante, para tanto, o momento de apresentação do documento falso perante a autoridade fazendária.
+2. Agravo regimental desprovido." (AgRg no REsp 1.347.057/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/08/2016, DJe 24/08/2016)
+Não é só isso. Cumpre asseverar ainda que a jurisprudência deste Superior Tribunal de Justiça, assim como o acórdão recorrido, reconhece a atipicidade do comportamento imputado aos agentes:
+"O Supremo Tribunal Federal, no Inq 3.006, Rel. Ministro DIAS TOFFOLI, PRIMEIRA TURMA, julgado em 24/6/2014, DJe 22/9/2014, distinguiu, de um lado, os casos em que o objeto material da conduta reside na apropriação ou no desvio de valores pecuniários consistentes na remuneração de funcionário "fantasma" (p.ex. Inq 1.926, Rel. Ministra ELLEN GRACIE, TRIBUNAL PLENO, julgado em 9/10/2008, DJe 21/11/2008; e Inq 2.449, Rel. Ministro AYRES BRITTO, TRIBUNAL PLENO, julgado em 2/12/2010, DJe 18/2/2011) e, de outro lado, a situações análogas às destes autos, nas quais o fato imputado à servidora consiste em se apoderar de sua própria remuneração, embora sem prestar os serviços atinentes ao cargo que ocupava na Assembleia Legislativa, o que poderia, em tese, configurar infração disciplinar ou ato de improbidade administrativa, mas não configura fato típico." (AgRg no AREsp 1.244.170/RN, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2018, DJe 22/08/2018; grifou-se).
+Com efeito, como se percebe, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte Superior, incidindo, na hipótese, a Súmula n. 83 do STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
