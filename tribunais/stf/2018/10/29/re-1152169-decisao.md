@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    Ao que consta dos autos, houve a renovação do CEBAS para o período questionado, sem a análise do cumprimento dos requisitos legais, por conta do advento da MP 446, em 2008, o que justifica, por si só, a análise da legalidade da medida. Com efeito, a Medida Provisória n.º 446/2008, que dispôs sobre a certificação das entidades beneficentes de assistência social, foi rejeitada pelo Congresso Nacional, o qual não editou ato disciplinando as relações jurídicas estabelecidas no período de sua vigência (art. 62, §11, da CF), tornando aplicáveis as respectivas disposições.
+    […]
+    (…) constata-se que o Governo explicitou, de forma clara e objetiva, as razões que levaram a edição da Medida Provisória hostilizada, as quais, releva observar, tem natureza eminentemente política e são direcionadas no interesse da Administração. Assim, não é possível concluir, reitere-se, de acordo com o contexto probatório coligido na instrução do feito, que a norma em questão beneficiou esta ou aquela entidade, ou, quiçá, que foi editada com interesses escusos. Assim, não sendo caso de abuso de discricionariedade do Presidente da República, o que se infere pelos motivos que ensejaram sua edição, não há invalidade a ser reconhecida.
+    Tampouco há inconstitucionalidade material, pois a expedição de certificado pelo Conselho Nacional de Assistência Social, no período de vigência da referida Medida Provisória, não exime a entidade beneficiária de implementar os demais requisitos legais para fruição da imunidade prevista no art. 195, § 7º, da Constituição Federal.
+    Repare-se que, no caso concreto, o autor popular não demonstrou que a Associação ré não preenche os pressupostos legais para a fruição dos benefícios decorrentes da condição de entidade beneficente. Ao contrário, pleiteou a anulação da Resolução CNAS n.º 3, de 23/01/2009, que renovou o seu certificado, com base exclusivamente na alegada inconstitucionalidade da Medida Provisória n.º 446/2008.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    De resto, o Tribunal, no recurso extraordinário nº 642.442/RS, relatado pelo ministro Cezar Peluso, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo aos requisitos exigidos para caracterizar a pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária.
+    2. Ante e quadro, nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 29 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
