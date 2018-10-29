@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto pela Cia de Saneamento Básico do Estado de São Paulo - Sabesp, inconformada com a decisão que inadmitiu o recurso especial contra o acórdão proferido pelo Tribunal de Justiça do referido Estado de São Paulo e assim ementado:
+APELAÇÃO CÍVEL - Ação ordinária - Prestação de serviço de fornecimento de água e esgoto _ Pretensão do autor de ser enquadrado na categoria de "entidade assistencial e assim gozar do benefício de pagamento de tarifa diferenciada (reduzida) - Sentença de procedência - Insurgência da ré que cabe ser parcialmente acolhida - Elementos dos autos que comprovaram a ausência de pleito administrativo e comprovação incidental dos requisitos exigidos apenas para um dos imóveis - Enquadramento que deve ser efetuado apenas para o imóvel situado a Rua: Agostinho Xavier - Devolução que deve ser realizada de forma simples, apenas em relação ao imóvel enquadrado e a partir do ajuizamento da ação - Sucumbência recíproca - Apelo parcialmente provido.
+Nas razões do recurso especial, a parte recorrente aponta afronta ao artigo 537, § 1º, do CPC.
+As contrarrazões foram apresentadas, conforme fls. 106-108.
+É o relatório.
+Nos termos do art. 9º, caput, do RISTJ, a competência das seções e das respectivas turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Compulsando os autos, verifica-se que a controvérsia central gira em torno da cobrança de tarifa de água e esgoto.
+Cuida-se, portanto, de matéria de competência da Primeira Seção, conforme o disposto no artigo 9º, § 1º, inciso X, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA INTERNA. PRIMEIRA E QUARTA TURMAS DESTE E. STJ. SERVIÇO DE FORNECIMENTO DE ÁGUA. PREÇO PÚBLICO. TARIFA. ART. 9º, § 1º, INCISO X, DO RISTJ. COMPETÊNCIA DA E. PRIMEIRA SEÇÃO.
+I - Compete à e. Primeira Seção desta c. Corte Superior processar e julgar recurso especial cuja relação jurídica litigiosa versa sobre preço público (art. 9º, § 1º, inciso X, do RISTJ).
+II - Na espécie, cuida-se, originariamente, de ação ordinária proposta por particular contra a Companhia Estadual de Águas e Esgotos - CEDAE - , na qual se pleiteia a nulidade da cobrança de preço público, na modalidade de tarifa, afirmada ilegal e abusiva, bem como o restabelecimento do serviço de água no domícilio da demandante.
+III - Precedentes aplicáveis: CC 43324/RJ, Corte Especial, Rel. Min. Peçanha Martins, DJ de 5/2/2007; AgRg no REsp 985.522/RS, 1ª Turma, Rel. Min. Luiz Fux, DJe de 19/2/2009; AgRg no Ag 1084537/RJ, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 18/2/2009; AgRg no Ag 1004001/RJ, 1ª Turma, Rel. Min. Denise Arruda, DJe de 11/2/2009; REsp 1062975/RS, 2ª Turma, Rel. Min. Eliana Calmon, DJe de 29/10/2008; AgRg no REsp 1081718/RJ, 1ª Turma, Rel. Min. Francisco Falcão, DJe 29/10/2008; AgRg no REsp 1027844/RJ, 1ª Turma, Rel. Min. José Delgado, DJe de 23/6/2008; REsp 595.119/RJ, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ 5/3/2007.
+Conflito conhecido para se declarar a competência da e. Primeira Seção.
+(CC 102.588/RJ, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 01/04/2009, DJe 20/04/2009)
+Também é possível identificar outros julgados da Segunda Turma envolvendo idêntica controvérsia:
+PROCESSUAL CIVIL. FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO SANITÁRIO. ENQUADRAMENTO TARIFÁRIO COMO ENTIDADE ASSISTENCIAL PARA FAZER JUS À REDUÇÃO DE TARIFA. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE DO CANCELAMENTO DO BENEFÍCIO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Incidência da Súmula 211/STJ.
+2. Ademais, a Corte de origem, com amparo nos elementos de convicção dos autos, decidiu que a agravada faz jus à classificação na categoria de entidades assistenciais sem fins lucrativos com direito à redução de 50% na tarifa de água.
+3. Insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática.
+Incidência da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 464.969/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/03/2014, DJe 28/03/2014)
+PROCESSUAL CIVIL. FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. TARIFA DIFERENCIADA. ENTIDADE ASSISTENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE CARÁTER FILANTRÓPICO. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA.
+DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. Hipótese em que o Tribunal local consignou que, "a despeito de a embargada ser entidade de assistência social devidamente certificada, suas atividades não se enquadram naquelas previstas pela embargante para a concessão do benefício" (fl. 730, e-STJ).
+Assim, uma vez ausente seu caráter filantrópico, já que atua como instituição de ensino, mediante a cobrança de mensalidades de seus alunos, não teria direito à redução aproximada de 50% no valor da tarifa cobrada dos consumidores classificados como comerciais.
+2. O Tribunal local julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Quanto à levantada contrariedade ao art. 333, I, do CPC, ao art.
+3º da Lei 8.742/1993 e ao art. 6º do CDC, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada. Incide na espécie, por analogia, o princípio estabelecido na Súmula 284/STF.
+4. Ademais, ainda que se afastasse tal óbice, observa-se que não há como aferir eventual violação do art. 333 do CPC sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+5. Com relação ao dissídio jurisprudencial, a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+6. Ressalta-se ainda que o óbice da Súmula 7 do STJ é aplicável também ao Recurso Especial interposto com fundamento na alínea "c" do inciso III do artigo 105 da Constituição da República.
+7. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 522.130/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/09/2014, DJe 10/10/2014)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ALEGADA VIOLAÇÃO AO ART. 4º DA LEI 6.528/78. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+TARIFA DE ÁGUA E ESGOTO. ENQUADRAMENTO DO AGRAVADO NA CATEGORIA PRÓPRIA DAS ENTIDADES SEM FINS LUCRATIVOS. REEXAME DE PROVAS. SÚMULA 7/STJ. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. INOVAÇÃO RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. NÃO CABIMENTO. AGRAVO REGIMENTAL CONHECIDO, EM PARTE, E, NESSA PARTE, IMPROVIDO.
+I. Não há falar, na hipótese, em violação ao art. 535, II, do CPC, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+II. Em relação ao art. 4º da Lei 6.528/78, o Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, pelo que incide, na espécie, quanto ao referido ponto, o óbice do enunciado da Súmula 211/STJ.
+III. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao art. 535 do CPC, haja vista que o julgado está devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois não está o julgador a tal obrigado.
+IV. Ademais, desconstituir a conclusão do Tribunal a quo, no sentido de que houve a comprovação, pelo agravado, da condição de entidade assistencial sem fins lucrativos, para fins de obtenção da redução de tarifa de água e esgoto, exigiria o reexame do contexto fático-probatório dos autos, providência vedada, em sede de Recurso Especial, pela Súmula 7/STJ.
+V. Segundo a jurisprudência desta Corte, em sede de Recurso Especial é vedada a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos, na demanda, bem como da proporção em que cada parte foi sucumbente, em relação ao pedido inicial, por ensejar o revolvimento de matéria eminentemente fática, a atrair o óbice do enunciado sumular 7/STJ. Precedentes: STJ, EDcl no REsp 1.486.808/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015; STJ, AgRg no AREsp 608.564/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/02/2015.
+VI. Nos termos da jurisprudência desta Corte, "não cabe a adição de teses não expostas no recurso especial em sede agravo regimental" (STJ, AgRg no AREsp 35.526/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 26/03/2014).
+VII. Agravo Regimental parcialmente conhecido, e, nessa parte, improvido.
+(AgRg no AREsp 527.153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/03/2016, DJe 17/03/2016)
+Diante do exposto, redistribuam-se os autos a um dos e. Ministros integrantes da Eg. Primeira Seção.
+Publique-se.
