@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Proclamou-se:
+    ADMINISTRATIVO - CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA - INSCRIÇÃO PROFISSIONAL COM A RUBRICA "ATUAÇÃO PLENA" - POSSIBILIDADE.
+    1. De acordo com os art. 1º e 4º da Resolução CFE nº 3/1987 do então Conselho Federal de Educação havia duas modalidades de formação dos profissionais de educação física, o bacharelado, restrito às áreas não formais, como academias, clubes, hotéis, sem possibilidade de atuação em instituições de ensino e a licenciatura plena, com possibilidade de exercício tanto na educação básica, como em áreas não formais, tendo ambos duração de 04 (quatro) anos e carga horária mínima de 2880 horas/aula.
+    2. A Lei de Diretrizes e Bases da Educação diferenciou os cursos destinados à formação superior em duas áreas, a graduação, também denominado bacharelado, disposta no art. 44, II e a licenciatura, prevista no art. 62 da Lei nº 9.394/1996.
+    3. A Resolução CNE/CP nº 1/2002, instituiu as diretrizes curriculares nacionais para a formação de professores da educação básica em nível superior, curso de licenciatura, de graduação plena, em consonância com o art. 62, da Lei nº 9.394/1996, diferindo da disciplina anteriormente disposta na Resolução CFE nº 3/1987, na medida em que a licenciatura plena permitia o exercício dos profissionais formados em Educação Física nas áreas formal e não formal, ao passo que a licenciatura de graduação plena, regulamentada posteriormente na Resolução CNE/CP nº 1/2002 permite ao profissional atuar tão-somente no ensino básico, qual seja, na área formal.
+    4. Posteriormente, foi editada a Resolução CNE/CP nº 2/2002 a qual, regulamentando a duração e a carga horária dos cursos de licenciatura, de graduação plena, de formação de professores da educação básica em nível superior determinou o período mínimo de 3 anos e a carga de 2.800 horas para sua conclusão.
+    5. A Câmara de Educação Superior do Conselho Nacional de Educação editou a Resolução CNE/CES nº 7/2004, que tratando especificamente dos cursos de graduação/bacharelado em Educação Física, nada dispôs acerca da duração do curso e quantidade de horas/aulas.
+    6. Diante dessa lacuna aplicava-se a Resolução CFE nº 3/1987, a qual determinava que os curso de graduação/bacharelado teria duração mínima de (04) anos e carga horária 2.880 horas/aula, nos moldes do art. 4º.
+    7. Editada a Resolução CNE/CES nº 4/2009 que disciplinou para os estudantes de Educação Física tempo mínimo de (04) quatro anos e carga horária mínima de 3.200 horas/aula, mantido o prazo mínimo de conclusão em (04) anos para o bacharelado.
+    8. Atualmente há duas modalidades de cursos para profissionais de educação física, quais sejam, os cursos de licenciatura, de graduação plena para a atuação na educação básica e duração mínima de 3 anos e os cursos de graduação/bacharelado em educação física, para atuação em áreas não formais, com duração mínima de 4 anos.
+    9. O Histórico escolar do impetrante permite concluir que o seu curso foi realizado em quatro anos, tendo carga horária total de 3.795 horas, de modo que, a teor da carta recomendatória 02/2005 do Conselho Regional de Educação Física do Estado de São Paulo, a modalidade com a qual o curso realizado coaduna-se é, conforme o diploma, a de licenciatura plena.
+    10. O impetrante em sua graduação não só cumpriu a carga horária mínima (2.880 horas), mas a ultrapassou (3.795 horas), de sorte a respaldar sua atuação em todos os segmentos do mercado, tanto na educação básica quanto nos ramos informais.
+    11. Por este motivo, o ato do Conselho Regional de Educação Física do Estado de São Paulo pretendendo limitar a área de atuação do impetrante à área de ensino básico, revela-se abusivo, porquanto se trata de profissional habilitado em licenciatura plena do Curso de Educação Física.
+    12. Apelação provida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 29 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
