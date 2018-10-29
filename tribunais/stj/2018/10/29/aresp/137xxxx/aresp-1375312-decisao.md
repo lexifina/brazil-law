@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO. NULIDADE DECORRENTE DA NÃO APRESENTAÇÃO DE ALEGAÇÕES FINAIS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS VERBETES SUMULARES N.o 282 DA SUPREMA CORTE E N.º 211 DESTA CORTE SUPERIOR. COMANDO NORMATIVO INCAPAZ DE ALTERAR O ENTENDIMENTO FIRMADO PELO ACÓRDÃO RECORRIDO. VERBETE SUMULAR N.º 284 DA SUPREMA CORTE. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DESTA CORTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado da Bahia, que negou seguimento a recurso especial interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República nos autos da Apelação Criminal n.º 0500064-61.2016.8.05.0103.
+Consta dos autos que o Agravante foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, além do pagamento de 13 (treze) dias-multa, pela prática do crime previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, ambos do Código Penal.
+Contra a sentença a Defesa interpôs apelação, que não foi provida. O Tribunal de origem redimensionou, de ofício, a pena-base, mas manteve a reprimenda definitiva fixada pelo Juízo de primeiro grau (fls. 191-201).
+Nas razões do recurso especial, o Agravante sustenta ofensa aos arts. 262, 382, inciso II, e 564, inciso III, alínea c, todos do Código de Processo Penal, "em face da ausência de apresentação de alegações finais escritas pelo órgão defensorial que sequer foi intimado para exercer seu mister, sendo esta matéria de ordem pública que enseja nulidade absoluta" (fl. 216).
+Também alega violação do art. 157, § 2.º, inciso II, do Código Penal, pugnando pela desclassificação do crime de roubo para o de furto, pois, "pelas reações da Vítima e do Réu, o essencial elemento da grave ameaça não estava presente, vez que o Recorrente não se encontrava em posse de arma de fogo, tendo apenas simulado tal fato com o uso de uma arma de brinquedo" (fl. 217).
+Defende que para a configuração da grave ameaça "é preciso que ela seja séria e efetiva, a fim de impedir que as vítimas resistam, sendo certo que, a simples ordem de entrega de objetos, ainda que aliada ao número de agentes, não se mostra bastante e suficiente para configurar o crime de roubo" (fls. 217-218).
+Requer, preliminarmente, a anulação do processo a partir do encerramento da audiência de instrução. Ultrapassada a preliminar, pleiteia a desclassificação do crime de roubo para o de furto.
+Contrarrazões às fls. 254-264.
+Inadmitido o recurso na origem, subiram os autos a este Superior Tribunal de Justiça por meio do presente agravo.
+O Ministério Público Federal manifestou-se às fls. 325-326, opinando pelo conhecimento do agravo e não conhecimento do recurso especial.
+É o relatório. Decido.
+Inicialmente, constato que a suposta nulidade decorrente da prolação da sentença condenatória sem prévia apresentação de alegações finais pelas Partes não foi analisada pela Corte a quo. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, que se resume, basicamente, na menção, debate e decisão efetiva sobre a questão federal suscitada no acórdão recorrido.
+Diante de tal fundamento, deixo de apreciar o recurso especial interposto, a teor dos Enunciados n.o 282 da Suprema Corte e n.º 211 desta Corte Superior, respectivamente transcritos, in verbis:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+"Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Nesse sentido:
+"RECURSO ESPECIAL. DIREITO PENAL. ESTELIONATO PREVIDENCIÁRIO. UTILIZAÇÃO DE CERTIDÃO DE NASCIMENTO IDEOLOGICAMENTE FALSA PARA RECEBIMENTO DE BENEFÍCIO PREVIDENCIÁRIO. TIPICIDADE. AUSÊNCIA DE PREQUESTIONAMENTO E REEXAME DE PROVA. SÚMULAS 211 E 7/STJ. ATENUANTE GENÉRICA DO ARTIGO 65, INCISO III, "A" DO CÓDIGO PENAL. RELEVANTE VALOR MORAL. APLICABILIDADE.
+1. É condição sine qua non ao conhecimento do especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos na formulação recursal, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão. Súmula 211/STJ.
+ ..
+4. Recurso parcialmente provido." (REsp 1.680.543/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018; sem grifos no original.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NÃO INDICAÇÃO DE VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. CORRUPÇÃO PASSIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. COMPATIBILIDADE COM A PERDA DO CARGO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal de origem, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, o que não ocorreu no presente caso. Incidência da Súmula n. 211 do STJ.
+2. No recurso especial não se apontou afronta ao art. 619 do CPP de modo a acusar eventual negativa de prestação jurisdicional, não podendo ser provido o recurso neste ponto.
+3. "A substituição da pena privativa de liberdade por restritiva de direitos não tem o condão de afastar o efeito disposto no artigo 92 do Código Penal, uma vez que a perda do cargo não está adstrita à efetiva privação da liberdade do réu (AgRg no AREsp 745.828/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 14/12/2015).
+4. Agravo regimental desprovido." (AgRg no REsp 1.650.553/RR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/08/2018, DJe 29/08/2018; sem grifos no original.)
+De todo modo, constato que os dispositivos legais citados pelo Agravante possuem comando normativo dissociado das razões recursais, na parte em que se aponta nulidade em razão da não apresentação de alegações finais. A propósito, o art. 382 do CPP nem sequer tem inciso II, como indicado nas razões do apelo nobre.
+Aplica-se, no particular, o óbice contido no enunciado n.º 284 da Súmula do Supremo Tribunal Federal, in verbis:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCESSÃO DE BENEFÍCIO. ACIDENTE DE TRABALHO. NEXO CAUSAL NÃO DEMONSTRADO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VI - Agravo Interno improvido." (AgInt no REsp 1.676.776/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017; sem grifos no original.)
+De outra parte, o Tribunal local negou o pleito de desclassificação do crime de roubo para o de furto nos seguintes termos (fl. 197; sem grifos no original):
+"Não merece acolhimento o pedido de desclassificação do crime para furto na modalidade tentada, uma vez que o acervo probatório evidenciou que a abordagem dos ofendidos concretizou-se com emprego de ameaças, simulacro de arma de fogo, além de agressão física direcionada a uma das vítimas, consubstanciando situação fática configuradora da elementar típica do roubo referente à violência ou grave ameaça, suficientemente idônea para provocar intimidação nos ofendidos, sendo comprovada a inversão da posse dos bens subtraídos, ressaltando, ainda, que somente parte dos pertences foi recuperada."
+Assim, considerando a fundamentação exposta no acórdão impugnado, acolher o pedido de desclassificação do crime de roubo para o de furto demandaria, inevitavelmente, profundo reexame do conjunto fático-probatório presente nos autos, o que não se coaduna com a via estreita do recurso especial, a teor do que dispõe o enunciado Sumular n.º 7 desta Corte.
+A propósito, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO EM CONTINUIDADE DELITIVA. AUSÊNCIA DE VIOLÊNCIA E GRAVE AMEAÇA. DESCLASSIFICAÇÃO PARA FURTO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA OU EM CRIME MENOS GRAVE - ART. 29 DO CP. LEI 9.807/1999. COLABORAÇÃO PREMIADA. EXAME APROFUNDADO DE PROVA. SÚM. 7/STJ.
+I - Entendendo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que houve grave ameaça, consistente na simulação de uso de arma de fogo, bem como a presença de liame subjetivo entre os agentes, concluir de forma diversa implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+ ..
+IV - Agravo regimental a que se nega provimento." (AgRg no AREsp 1.306.750/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. AGRAVO NÃO PROVIDO.
+ ..
+2. Para entender-se pela desclassificação para o delito de furto ou pela absolvição do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+4. Agravo regimental não provido." (AgRg no AREsp 1.013.662/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
