@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. RECEPTAÇÃO. USO DE DOCUMENTO FALSO. DOSIMETRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. Inviável o conhecimento por esta Corte de pedido de revisão da dosimetria quando ausente manifestação do Tribunal local acerca na matéria no writ lá impetrado e estando pendente o julgamento de apelação criminal.
+2. Apresentada fundamentação concreta para a manutenção da prisão preventiva, pois além de estrangeiro sem vínculo com o país, já responde o paciente a outro processo por crime de tráfico de drogas, assim evidenciando a vivência delitiva, não há que se falar em ilegalidade da prisão preventiva.
+3. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que denegou o writ de origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 64):
+HABEAS CORPUS peça que pretende discutir dosimetria penal e aplicação da pena remédio constitucional utilizado como sucedâneo recursal impossibilidade.
+HABEAS CORPUS sentença condenatória que indefere o direito do réu, que respondeu a todo o processo preso, em apelar em liberdade possibilidade decisão que fundamentou suficientemente a motivação instrumental fundamentação a título de risco da ordem pública - Precedentes doutrinários e das Cortes Superiores indeferimento.
+O impetrante argumenta que o paciente é primário, que a pena-base foi fixada bem abaixo de 4 (quatro) anos, sendo cabível a imposição do regime aberto para cumprimento da pena, bem como a substituição da pena privativa de liberdade por restritiva de direito.
+Sustenta que a exasperação da pena-base se deu razão de processo em andamento, o que vai de encontro com o disposto na Súmula n. 444 do STJ.
+Aduz que não estão presentes os requisitos que autorizam a custódia cautelar, afirmando "que a prisão mostra-se absolutamente incompatível com o crime cometido, pena aplicada e circunstâncias pessoais do paciente".
+Requer a concessão da ordem, para fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos, ou que possa responder ao processo em liberdade.
+O paciente foi condenado pela prática dos crimes tipificados nos artigos 180 e 307 do Código Penal, à pena de 2 (dois) anos e 6 (seis) meses de reclusão em regime inicial semiaberto, negado o recurso em liberdade.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi pela revogação da prisão.
+Na origem, o processo 0065930-19.2017.8.26.0050, encontra-se pendente de julgamento da apelação criminal, conforme andamento eletrônico disponível em 27/09/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A sentença negou ao paciente o direito de recorrer em liberdade sob a seguinte fundamentação (fl. 55 - com destaques):
+"A liberdade do sentenciado, por conta de seu escuso proceder, coloca em risco a ordem pública. Solto, continuará a delinqüir, contribuindo para o fomento da criminalidade. Também não há segurança de que o agente permanecerá no distrito da culpa, vez que não comprovou, a contento, o devido vínculo. Somente foi identificado e passou a acompanhar este processo, por ter sido capturado pelos policiais que inicialmente o detiveram. Possui audiência designada no processo de tráfico de drogas em curso na 17ª Vara Criminal Central (fls. 231). Assim sendo, sua custódia resguardará a ordem pública e garantirá a aplicação da lei penal, com o cabal cumprimento da sanção ora imposta, sendo de rigor acautelar o meio social e a própria credibilidade na Justiça, em face da gravidade do crime e de sua repercussão. Ademais, tratando-se de réu preso cautelarmente e que permaneceu recolhido durante o curso do processo, não tem o direito de apelar em liberdade, mesmo porque um dos efeitos da sentença condenatória é ser o preso conservado na prisão (RHC 3.473-4, 5ª Turma, rel. Min. Jesus Costa Lima, j. 23.3.94, v.u. 4.4.94, p. 6691). Denego-lhe o apelo em liberdade. Recomende-se o réu na prisão."
+Como já adiantado no exame da liminar, a sentença tem fundamento na periculosidade do paciente, evidenciada na afirmação de que somente foi identificado por ter sido capturado pelos policiais, haja vista que conforme consta da decisão de preventiva o paciente faz uso de documento falso para ocultar sua identidade e na condição de estrangeiro, sem vínculo com o distrito da culpa, há fundando risco de que possa se evadir do país. (fl. 17)
+Além disso, o paciente responde a outro processo pelo crime de tráfico de entorpecentes.
+A condição de estrangeiro do réu condenado, sem vínculos com o país, tem sido considerado fundamento idôneo a autorizar a ordenação e preservação da prisão preventiva para assegurar a aplicação da lei penal. (RHC 55.596/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 04/08/2015, DJe 17/08/2015). Nesse sentido: RHC 47.778/SC, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 04/02/2016, DJe 18/02/2016; RHC 81.897/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/03/2017, DJe 05/04/2017; RHC 79.918/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017; RHC 92.344/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018.
+Esta Corte também tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Deste modo, ausente ilegalidade na manutenção da prisão preventiva, não vejo caso de concessão da ordem.
+No tocante aos pleitos relacionados à dosimetria da pena, não tendo havido pronunciamento do Tribunal local acerca da matéria (fl. 63/66), e estando pendente o julgamento do recurso de apelação criminal, inviável o exame do pleito por esta Corte para evitar supressão de instância.
+Ante o exposto, voto por denegar o habeas corpus.
