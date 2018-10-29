@@ -1,0 +1,74 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexistente qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou as razões que levaram ao desprovimento do regimental.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo acórdão embargado, tampouco para acrescer nova tese à irresignação.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de embargos de declaração opostos por ABRAHÃO DA CUNHA LUSTOSA SOBRINHO contra acórdão proferido pela Quinta Turma desta Corte superior, que deu parcial provimento ao agravo regimental apenas para afastar a condenação relativa à reparação civil de danos imposta na origem, assim ementado (e-STJ, fls. 1.830/1.831):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ESTELIONATO. ABSOLVIÇÃO. REVOLVIMENTO DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. MATÉRIA NÃO ARGUIDA NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL EM SEDE DE AGRAVO REGIMENTAL. NÃO CABIMENTO.
+1. A desconstituição do julgado para fins de absolvição exige o revolvimento de todo o acervo fático-probatório dos autos, providência exclusiva das instâncias ordinárias e vedada a este Sodalício na via do especial, haja vista o óbice previsto na Súmula n. 7/STJ.
+2. Verificando-se que a matéria ora trazida à discussão constitui verdadeira inovação recursal, uma vez que não foi objeto do recurso especial aviado pela defesa, afigura-se inviável a análise do agravo regimental que pretende a discussão de tema não arguido anteriormente, no momento processual oportuno, tendo ocorrido, portanto, a preclusão.
+DOSIMETRIA. CRITÉRIO TRIFÁSICO. OBSERVÂNCIA. CIRCUNSTÂNCIAS CONCRETAS DO DELITO. PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE.
+1. A dosimetria da pena é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal da sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado, sendo que, para chegar a uma aplicação justa e suficiente da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto, de acordo com as circunstâncias estabelecidas no art. 59 do Estatuto Repressivo.
+2. Na hipótese dos autos, a instância de origem efetuou a análise de cada uma das etapas do cálculo da reprimenda e considerou desfavoráveis ao acusado, na primeira fase, as circunstâncias do delito, sob o fundamento de que os agentes ludibriaram a vulnerável clientela através de recurso de propaganda em massa. Além disso, ao julgar negativas as consequências do crime, destacou-se que foi causado expressivo prejuízo à esmagadora maioria dos clientes - que entregaram suas economias para o negócio -, pela inobservância dos contratos que previam o pagamento de valores pela empresa.
+3. Dessa forma, constata-se que o Tribunal recorrido alinhou-se à jurisprudência do STJ, no sentido de que a pena-base pode ser exasperada pelo magistrado no seu exercício discricionário juridicamente vinculado, mediante a aferição negativa dos elementos concretos dos autos que denotem uma maior reprovabilidade da conduta imputada.
+ART. 580 DO CPP. CORRÉUS NA MESMA SITUAÇÃO FÁTICO-PROCESSUAL. DECISÃO FAVORÁVEL AO CORRÉU QUE DEVE SER ESTENDIDA AO AGRAVANTE. INSURGÊNCIA PARCIALMENTE PROVIDA.
+1. Quanto ao pleito de afastamento da obrigação prevista no art. 387, inciso IV, do Código de Processo Penal, tal como deferido ao corréu, razão assiste ao agravante, nos termos do art. 580 do mesmo diploma legal, uma vez que ambos os acusados se apresentam na mesma situação fático-processual, inexistindo fundamento para não ser reconhecida a ilegalidade do julgado a quo nesse ponto também quanto ao ora agravante.
+2. Agravo regimental parcialmente provido, apenas para afastar a condenação relativa à reparação civil de danos imposta na origem.
+Segundo o embargante (e-STJ, fls. 1.851/1.855), o acórdão padeceria de contradição, uma vez que no tocante à incidência da Súmula 7/STJ, teria impugnado a tipicidade objetiva e não subjetiva, o que dispensaria o reexame de provas.
+Acrescentou, também, a necessidade de prequestionamento do art. 5º, XLVI, da Constituição Federal, no tocante à individualização da pena.
+Requer o provimento dos embargos, para que, após a correção dos vícios apontados, sejam-lhe atribuídos efeitos infringentes.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: A irresignação não comporta acolhimento.
+O artigo 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão". Por construção jurisprudencial, os embargos declaratórios têm sido admitidos com o fito de sanar eventual erro material na decisão embargada.
+Diversamente do que afirma o embargante, o acórdão não padece de omissão, pois justificou adequadamente as razões pelas quais aplicara o óbice da Súmula 7/STJ, ao pleito de desconstituição do julgado por ausência de provas aptas à condenação, no intuito de abrigar o pleito absolutório.
+O julgado consignou (e-STJ, fls. 1.834/1.836):
+ ..
+Inicialmente, acerca do pleito absolutório quanto ao delito de estelionato, assim restou assentado pela Corte a quo, litteris:
+Quanto ao delito de estelionato (art. 171 do CP), já comprovada a sua materialidade e autoria, o dolo resta demonstrado porque dos 411 clientes ativos que aderiram ao "plano de compra programada" da LAMAR, apenas 21 deles tiverem os imóveis adquiridos e escriturados, consoante informação prestada pela própria empresa (fl. 382 do apenso III, volume I). Nesse sentido, como fundamentos adicionais adotados, destaco os seguintes trechos da fundamentação da magistrada a quo  ..
+68. O dolo quanto a essa última conduta está evidente, na medida em que os próprios réus afirmam que a promessa da empresa era entregar o dinheiro do empréstimo aos clientes pelo menos após eles já estarem pagando as prestações mensais por seis meses. Contudo, conforme se verifica no depoimento de um dos clientes lesados, a Sra. [NOME] (mídia digital à fl. 465), mesmo tendo efetuado o pagamento de sete parcelas do contrato firmado com a LAMAR, ao procurar a empresa, foi orientada pelo réu ABRAHÃO a aguardar o "sorteio", o que, como já visto anteriormente, nunca existiu, o que demonstra a intenção de induzir em erro os clientes da empresa.  ..
+Portanto, resta plenamente também comprovado terem os réus agido com total consciência da ilicitude dos fatos, uma vez que eram conhecedores das normas do Sistema Financeiro Nacional por já terem trabalhado na área e não terem, em momento algum, colacionado provas capazes de gerar dúvida quanto a isso ou a uma conduta culposa, nos ditames do art. 156 do CPP.
+Desse modo, estabelecido o nexo de causalidade, comprovadas a materialidade e a autoria, demonstrado o dolo e a inexistência de qualquer causa de exclusão da antijuridicidade ou da culpabilidade  ..  (fls.1357/1358)
+ Verifica-se, da leitura do trecho acima transcrito, que o Tribunal a quo, após a análise dos elementos colhidos no curso da ação penal, concluiu que o caderno processual ostenta provas aptas para condenar o recorrente pela prática do crime de estelionato, salientando que o insurgente, na condição de administrador da sociedade empresária, induziu centenas de pessoas a erro com o fim de auferir vantagem ilícita, ao prometer e não realizar a devolução de valores após o recebimento de seis prestações mensais dos clientes.
+Nesse aspecto, desconstituir o julgado e operar a absolvição pretendida, exige o revolvimento de todo o acervo fático-probatório dos autos, providência exclusiva das instâncias ordinárias e vedada a este Sodalício na via do especial, haja vista o óbice previsto na Súmula n. 7/STJ.
+Nesse norte, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 5º, LVII, DA CF E 59 DO CP. INOVAÇÃO DE FUNDAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para se concluir pela ausência de dolo na conduta do agente, de modo a absolvê-lo, seria necessário o revolvimento fático-probatório dos autos, providência vedada em recurso especial, a teor do enunciado da Súmula n. 7 do STJ.
+2. A tese de violação dos arts. 5º, LVII, da CF e 59 do CP não foi aduzida em recurso especial, constituindo inovação de fundamento, prática vedada em agravo regimental.
+3. Não compete a esta Corte Superior, por expressa determinação da Constituição Federal, a análise de violação de dispositivo constitucional.
+4. Agravo regimental não provido.
+(AgRg no AREsp 772.301/PB, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TESE DE ABSOLVIÇÃO ANTE A AUSÊNCIA DE PROVAS IDÔNEAS DA AUTORIA DO DELITO DE ESTELIONATO PELA AGRAVANTE. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE INTRANSPONÍVEL DA SÚMULA 7 DESTA CORTE. AGRAVO IMPROVIDO.
+1. Ao contrário do afirmado pela agravante, os argumentos declinados nas razões do recurso especial a fim de sustentar a tese de inexistência de comprovação idônea da autoria do crime de estelionato demandariam sim a análise dos fatos, das circunstâncias e das provas amealhadas aos autos, mostrando-se insuperável o obstáculo da Súmula 7.
+2. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+3. Agravo regimental improvido.
+(AgRg no AREsp 698.434/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/06/2015, DJe 03/08/2015)
+Pretende, em verdade, o embargante, a rediscussão da matéria, com o fito de obter efeitos infringentes, reformando-se o julgado. Entretanto tal hipótese somente é possível em casos excepcionais, quando reconhecida a existência de algum dos defeitos elencados no dispositivo legal mencionado, impondo-se a alteração do julgado como consequência da correção do vício ou do reconhecimento de erro material, inocorrentes na espécie.
+Ora, mostra-se de todo descabida a pretensão de rejulgamento da causa na via estreita dos embargos declaratórios, salientando-se que esta Quinta Turma prestou devidamente a tutela jurisdicional postulada, conhecendo e analisando as teses deduzidas na inicial do recurso, tendo decidido as questões à luz da orientação sedimentada neste STJ.
+Nesse sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO. EMBARGOS NÃO ACOLHIDOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir ambiguidade, obscuridade, contradição ou omissão existente no julgado. Não se prestam, portanto, para sua revisão, no caso de mero inconformismo da parte.
+2. Conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da questão, de acordo com o livre convencimento fundamentado.
+3. Tendo o acórdão embargado resolvido, de forma clara e com fundamentação adequada, a matéria discutida no feito, a insistência na sua rediscussão revela, na verdade, caráter procrastinatório.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 781.965/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/04/2018, DJe 25/04/2018 - Grifos acrescidos).
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DO JULGADO. INVIABILIDADE.
+1. Não há se falar em contradição entre o o voto do relator e o voto vista, quando o julgamento se deu por unanimidade, demonstrando a integral adesão ao primeiro.
+2. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição ou omissão (art. 619 do Código de Processo Penal), não se prestando à manifestação de inconformismo ou à rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+(EDcl nos EDcl no RHC 55.105/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 02/05/2018 - Grifos acrescidos).
+Por fim, alega o embargante, pretender o prequestionamento de dispositivo constitucional, relacionados aos princípios da individualização da pena (art. 5º, XLVI, da CF).
+Contudo, é cediço que não cabe a este Sodalício manifestar-se acerca de eventual ofensa a norma constitucional, sequer para efeito de prequestionamento, sob pena de incidir em usurpação da competência constitucional atribuída ao Supremo Tribunal Federal.
+Nessa direção, colhe-se:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO.  .. . PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+ ..
+2. A parte embargante requer o prequestionamento de matéria constitucional; entretanto, o Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal, motivo pelo qual não se pode conhecer da dita ofensa dos artigos 5º, incisos XXXV, XLV, XLVI e LV, e 29, inciso X, da Constituição Federal.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 531.269/AC, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/11/2015)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL.  .. . PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. COMPETÊNCIA EXCLUSIVA DO STF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.  ..  2. Não compete ao STJ analisar suposta ofensa a dispositivos constitucionais, mesmo com a finalidade de prequestionamento, a teor do art. 102, III, da Constituição Federal. Precedente. 3. Embargos de declaração acolhidos, em parte, sem efeitos infringentes.
+(EDcl no AgRg no REsp 1308451/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 13/10/2015)
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É o voto.
