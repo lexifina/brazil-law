@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo, interposto por VRG LINHAS AEREAS S.A, desafiando decisão do Eg. Tribunal de Justiça do Estado do Paraná que não admitiu recurso especial fundamentado na incidência do enunciado da Súmula do Superior Tribunal de Justiça nº 83, no tocante à responsabilidade civil da empresa de transporte aéreo a título de dano moral decorrente de atraso de voo.
+É o relatório.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O agravo previsto no art. 544 do CPC tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, a parte agravante demonstre expressamente o desacerto da decisão agravada.
+In casu, a agravante não rebateu, como lhe competia, o fundamento da decisão agravada, deixando de impugnar, de modo específico, a afirmação de incidência do enunciado da Súmula 83 do Superior Tribunal de Justiça em relação à responsabilidade civil da agravante a título de dano moral decorrente de atraso de voo, cingindo-se a refutar o óbice da Súmula 83/STJ em relação à possibilidade de revisão do quantum indenizatório, tese que sequer fora objeto do recurso especial. Ressalte-se que, in casu, a recorrente, nas razões do presente agravo, sequer colacionou qualquer precedente apto a infirmar o fundamento da inadmissibilidade do recurso, a fim de demonstrar a existência de divergência jurisprudencial a respeito do tema.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+Incide, na hipótese, por analogia, o princípio cristalizado na súmula 182 do Superior Tribunal de Justiça, segundo a qual é inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confiram-se os seguintes precedentes:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SÚMULA 182/STJ. AGRAVO IMPROVIDO.
+1. Não tendo sido admitido o Recurso Especial na origem, em face da aplicação da Súmula 83/STJ e da falta de comprovação do dissídio jurisprudencial, incumbia à parte agravante demonstrar, no Agravo de Instrumento, a inaplicabilidade da referida súmula ao caso concreto, bem como a efetiva demonstração da divergência, e não simplesmente reiterar as razões do recurso denegado.
+2. Inviável o Agravo de Instrumento que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Incidência da Súmula 182/STJ.
+4. Agravo improvido."
+(AgRg no Ag nº 898.904/SP, Relator o Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 17/3/2008)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SÚMULA 182/STJ.
+1. Não tendo sido admitido o recurso especial na origem, em face da aplicação da Súmula 83/STJ, incumbia à agravante demonstrar, no agravo de instrumento, a inaplicabilidade da referida súmula ao caso concreto, e não simplesmente reiterar as razões do recurso denegado. Destarte, revela-se inviável o agravo de instrumento que deixa de atacar especificamente os fundamentos da decisão agravada. Incide na espécie, por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Ao contrário do que pretende fazer crer a agravante, não consta da minuta do agravo de instrumento a tese no sentido de que, ao proferir o juízo de admissibilidade do recurso especial, o Desembargador Presidente (ou Vice-Presidente) do Tribunal de origem não poderia adentrar o mérito recursal.
+3. Agravo regimental desprovido."
+(AgRg no Ag nº 808.260/RS, Relatora a Ministra DENISE ARRUDA, DJU de 26/2/2007)
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
