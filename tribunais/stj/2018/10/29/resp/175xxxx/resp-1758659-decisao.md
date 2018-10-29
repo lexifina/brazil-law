@@ -1,0 +1,33 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. FALTA GRAVE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. NULIDADE. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. FALTA DE PREQUESTIONAMENTO. SÚMULA N.o 282 DO STF. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS. SÚMULAS N.os 283 E 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de Recurso Especial interposto por GILDEON PEREIRA DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins no Agravo em Execução Penal n.º 0005831-75.2018.827.0000, assim ementado (fl. 36):
+"AGRAVO EM EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. INOCORRÊNCIA. LAPSO INFERIOR A 3 ANOS ENTRE OS FATOS E A DECISÃO JUDICIAL. NULIDADE VÍTIMA QUE PRESIDIU O PAD NA FIGURA DE DIRETOR DO ESTABELECIMENTO PRISIONAL. AMPLA DEFESA E CONTRADITÓRIO ASSEGURADOS. PROCEDIMENTO JUDICIALIZADO. AUSÊNCIA DE COMPROVAÇÃO DE QUALQUER PREJUÍZO.
+1. Conforme jurisprudência pacífica das Cortes Superiores, o prazo prescricional para apuração de falta grave e consequente aplicação das medidas cabíveis, ante a falta de disciplina legal, deve ser o menor presente no Artigo 109, do Código Penal, qual seja, 3 anos. Assim, não havendo o transcurso entre a data dos fatos e da decisão judicial de lapso superior ao acima estabelecido, afasta-se a ocorrência de prescrição.
+2. Lado outro, o fato do diretor do estabelecimento prisional ser vítima e ser quem presidiu o PAD não torna automaticamente nulo os atos praticados, em especial pela judicialização do procedimento e pelo respeito ao contraditório e à ampla defesa durante toda a instrução.
+3. Agravo conhecido e IMPROVIDO."
+Alega o Recorrente a violação aos arts. 5.º, incisos V, LIV e VI, e 93, inciso IX, da Constituição da República e arts. 51, 52, 57, 59 e 127 da Lei de Execução Penal, sustentando a nulidade absoluta do reconhecimento da prática de falta grave, uma vez que o diretor da unidade prisional, "além de vítima e testemunha, no mencionado procedimento administrativo disciplinar, foram também o SINDICANTE, isto é, o julgador do procedimento, quem condenara o apenado administrativamente" (fl. 52).
+Pede o provimento do Recurso Especial, com a anulação do reconhecimento da prática de falta grave.
+Oferecidas contrarrazões às fls. 55-61, o Recurso foi admitido na origem (fls. 63-65).
+O Ministério Público Federal opina pelo desprovimento do Recurso (fls. 75-79).
+É o relatório.
+Decido.
+De início, deve-se esclarecer que é "incabível, na via eleita, o exame de violação a dispositivos constitucionais, ainda que para fins de prequestionamento, cuja competência é reservada ao STF, nos termos do art. 102, III, da Constituição Federal" (AgInt nos EDcl no REsp 1.687.565/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe 25/09/2018). Portanto, é inviável o exame da aventada ofensa aos arts. 5.º, incisos V, LIV e VI, e 93, inciso IX, da Constituição da República.
+Outrossim, as matérias de que cuidam os arts. 51, 52, 57, 59 e 127 da Lei de Execução Penal não foram objeto de apreciação pelo acórdão recorrido, sem que houvesse a oposição de embargos declaratórios, motivo pelo qual carecem de prequestionamento, nos termos da Súmula n.o 282 do STF.
+Por fim, colhe-se do acórdão recorrido a seguinte fundamentação (fl. 33; sem grifos no original):
+"Lado outro, o simples fato de que o diretor do estabelecimento prisional ser a pessoa contra qual o reeducando proferiu ameaças, não torna nulo o processo por sua presidência ao PAD.
+Conforme bem pode se observar dos autos originários, uma vez concluído o PAD, o mesmo fora encaminhado ao Poder Judiciário que oportunizou o pleno exercício da ampla defesa e do contraditório, ato consubstanciado na audiência de justificação de Evento 159.
+Dentro do próprio PAD (Evento 93, dos autos originários), observa-se que a Defensoria Pública fora intimada a se manifestar, tendo transcorrido em ampla transparência os atos.
+ ..
+Por fim, não demonstra a Defesa em que consiste o prejuízo ou abusividade praticada no PAD, que justificasse sua nulidade, vez que fora devidamente respeitado o contraditório e a ampla defesa."
+Como se verifica, o Tribunal de origem afastou a existência de nulidade no procedimento administrativo, com base em três fundamentos distintos, quais sejam: a) concluído o PAD, foi ele encaminhado ao Poder Judiciário, com observância do contraditório e da ampla defesa, por meio da audiência de justificação; b) a Defensoria Pública foi intimada a se manifestar nos autos do PAD; e c) a Defesa não demonstrou qual a abusividade ou prejuízo existentes no PAD que justificasse a sua nulidade.
+As razões do Recurso Especial, entretanto, não impugnaram nenhum dos fundamentos, o que evidencia também que as razões recursais estão dissociadas do acórdão recorrido, mostrando-se deficiente a delimitação da controvérsia recursal e atraindo a incidência das Súmulas n.o 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME AMBIENTAL. ART. 38 DA LEI N. 9.605/1998. ALEGAÇÃO DE NULIDADE DA SENTENÇA. EXISTÊNCIA DE ERRO MATERIAL E AUSÊNCIA DE PREJUÍZO. FUNDAMENTOS INATACADOS. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. NULIDADE NÃO CONFIGURADA. PRECEDENTE. PEDIDO DE ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA, INSUFICIÊNCIA DE PROVAS E ERRO DE TIPO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. ART. 65, III, D, DO CP. TESE NÃO PREQUESTIONADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Verificando-se que o acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, correta a aplicação, na espécie, dos óbices constantes das Súmulas 283 e 284/STF.
+2. Inviável a pretensão deduzida pelo agravante em sede de recurso especial, pois o apelo extremo não permite que se reexaminem nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória. Incidência do óbice da Súmula 7/STJ.
+3. A ausência de pronunciamento do Tribunal de origem em torno da tese jurídica invocada nas razões recursais impede o conhecimento do recurso especial, pela falta de prequestionamento.
+4. Não trazendo o agravante tese jurídica capaz de modificar o posicionamento anteriormente firmado, é de se manter a decisão agravada por seus próprios fundamentos.
+5. Agravo regimental improvido." (AgRg no ARESp 1.186.345/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/02/2018, DJe de 26/02/2018; sem grifos no original).
+Ante o exposto, NÃO CONHEÇO do Recurso Especial.
+Publique-se. Intimem-se.
