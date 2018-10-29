@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/2015, manejado pelo Estado de Minas Gerais, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 375):
+EMENTA: REMESSA NECESSÁRIA - APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - DEFICIENTE VISUAL - VISÃO MONOCULAR - ISENÇÃO DE ICMS E IPVA - AQUISIÇÃO DE VÉICULO - PROVAS DO FATO - PREENCHIMENTO DOS REQUISITOS LEGAIS - SENTENÇA CONFIRMADA - RECURSO PREJUDICADO.
+Opostos embargos declaratórios, foram rejeitados (fls. 388/396).
+A parte recorrente aponta violação aos arts. 948, 949, 950 e 1.022 do CPC/2015. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso e obscuro acerca das questões neles suscitadas, referentes à apreciação da aplicação da Súmula Vinculante 10/STF e dos arts. 97 da Constituição Federal, 373, I, 948, 949, 950 do CPC/2015 e 1º e 2º da Lei 13.465/2000; (II) teria sido violada a cláusula de reserva de plenário, pois foi declarada a inconstitucionalidade da cobrança do ICMS e IPVA ao se afastar a incidência dos arts. 1º e 2º da Lei Estadual n. 13.465/2000.
+É o relatório.
+A pretensão recursal merece acolhida pelo art. 1.022, II, do CPC/2015, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que teria havido violação da cláusula de reserva de plenário, pois teria sido declarada a inconstitucionalidade de lei estadual ao se afastar a incidência dos arts. 1º e 2º da Lei Estadual 13.465/200.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem a fim de que analise expressamente as questões jurídicas essenciais ao deslinde da controvérsia acima referidas, como entender de direito.
+Publique-se.
