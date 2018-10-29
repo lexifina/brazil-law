@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial de MAURÍCIO DAL AGNOL, este interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. MANDATOS. AÇÃO DE COBRANÇA C/C PEDIDO DE INDENIZAÇÃO.
+I. Prescrição inocorrente.
+II. Provas produzidas nos autos que dão suporte à tese esposada pela parte autora, no sentido de que o seu procurador se apropriou de valores oriundos de demanda judicial ajuizada contra a Brasil Telecom S/A.
+III. Cabível a condenação do advogado para que proceda a restituição dos valores atinentes ao seu constituinte.
+IV. O termo inicial da correção monetária é a data em que realizado levantamento de alvará e dos juros de mora, a data da citação. O termo final de incidência dos encargos é a data do efetivo pagamento.
+V. Pleito indenizatório por danos morais possibilitado, mormente em face da atitude do advogado, que privou o cliente do recebimento de verba reconhecida por decisão transitada em julgado. Entretanto, tal valor deve ser majorado, adequando-os aos valores balizados por esta Corte em casos análogos.
+VI. Dedução dos honorários contratuais impossibilitada, pois ao repassar o crédito ao cliente, descontou a parcela que lhe cabia, conforme termo de quitação apresentado nos autos.
+VII. Sucumbência mantida.
+DERAM PARCIAL PROVIMENTO A AMBOS OS RECURSOS. UNÂNIME.
+Embargos de declaração rejeitados.
+No recurso especial a parte recorrente alega dissidio jurisprudencial acerca do termo inicial dos juros de mora incidentes sobre os danos morais. Aduz violação aos arts. 1022 do NCPC; 407, 676 e 927 do Código Civil, e 22 da Lei 8.906/1994, sob o argumento: i) de negativa da prestação jurisdicional; ii) que o dano moral exige prova; iii) que os juros de mora do dano moral devem ser considerado a partir da decisão que fixou tal condenação; iv) direito do advogado perceber os honorários convencionados no contrato, alteração do termo final de juros e correção monetária, sobre o valor da condenação.
+É o relatório. Decido.
+i) Inicialmente, não prospera a alegada ofensa ao a 1.022 do atual Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. In casu, embora a embargante mencione a existência de omissão e obscuridade, afigura-se nítido o propósito de rediscutir o mérito do julgado, que foi desfavorável a parte recorrente.
+ii) No tocante ao dano moral a Corte de origem asseverou que seriam devidos em face da existência de prova escrita nos autos de que o recorrente, advogado da parte autora, "levantou alvará judicial proveniente de demanda patrocinada em favor do ora demandante, entretanto, sem efetuar o devido repasse." (fl. 284). Eis o teor do acórdão recorrido no ponto:
+Quanto aos danos morais, salienta-se que o fato do mandatário reter verba indenizatória que pertencia ao seu constituinte caracteriza ato ilícito capaz de gerar dano moral.
+Tendo o autor que recorrer ao Poder Judiciário pára reaver o valor que lhe era de direito, mediante o ajuizamento desta ação, é inequívoco que tal conduta supera a esfera dos meros aborrecimentos, atingindo a esfera íntima do demandante, ainda mais quando a relação que se estabeleceu entre as partes (mandato/serviços de advocacia) lastreava-se na confiança.
+Com base em tais premissas, perfeitamente possível e até mesmo viável a condenação do requerido ao pagamento de indenização por danos morais, os quais vão majorados para R$ 10.000,00 (dez mil reais), adequando-os aos valores balizados por esta Corte em casos análogos.
+Nesse contexto, para derruir a convicção a que chegou o acórdão recorrido da prática de ato ilícito consistente em mau cumprimento do contrato de mandato, bem como pela ocorrência de danos morais, pelos aborrecimentos e transtornos decorrentes da ilícita conduta do advogado de apropriar-se de valor que não lhe pertencia, decorreu da análise do conjunto fático-probatório dos autos.
+Assim, a alteração de tal entendimento para acolhimento da pretensão recursal demandaria o reexame de todo substrato probatório dos autos, providência obstada na via estreita do recurso especial, pela Súmula 7 do STJ.
+Ademais, o valor fixados a título de dano moral atende aos princípios da razoabilidade e da proporcionalidade, não se revelando exorbitante. Confira-se:
+CONDENATÓRIA (INDENIZAÇÃO) - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. O óbice da Súmula nº 7 do STJ inviabiliza o pleito de revisão do quantum indenizatório arbitrado a título de danos morais, se este não se revelar irrisório ou exorbitante, como no presente caso.
+2. Agravo interno desprovido. (AgInt no AREsp 996.785/DF, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 17/8/2017, DJe 28/8/2017)
+iii) Em relação aos juros de mora fixados a título de dano moral o v. acórdão recorrido está em consonância com a jurisprudência desta eg. Corte Superior no sentido de que, "na hipótese de configuração de dano moral, em caso de responsabilidade contratual, os juros de mora incidem a partir da citação. Incidência da Súmula 83/STJ." (AgInt no REsp 1246995/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/09/2018, DJe 26/09/2018).
+No ponto, aplica-se a Súmula 83/STJ para ambas as alíneas do permissivo constitucional.
+iv) Por fim, em relação à alegação de direito do advogado perceber os honorários convencionados no contrato, bem como acerca do termo final de juros e da correção da indenização, verifica-se que a parte recorrente não indica norma violada e não desenvolve argumentação que evidencie no que consiste a insurgência de modo a viabilizar o conhecimento do recurso no ponto, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência do nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1292758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe 04/06/2010)
+.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
