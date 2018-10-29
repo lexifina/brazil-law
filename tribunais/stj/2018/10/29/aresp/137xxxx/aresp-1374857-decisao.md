@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão denegatória do recurso especial manejado por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Nas razões do nobre apelo, a ora agravante debate, em síntese, a incidência de expurgos inflacionários sobre o quantum a ser restituído a título de fundo de reserva de poupança em plano de previdência privada.
+É o relatório. Decido.
+A Segunda Seção deste Tribunal Superior, no julgamento dos Recursos Especiais Repetitivos n. 1.177.973/DF e n. 1.183.474/DF, ambos de relatoria do Ministro Raul Araújo, processado nos moldes do art. 543-C do Código de Processo Civil de 1973, Temas n. 511 a 514, firmou entendimento acerca da correção monetária da restituição da reserva de poupança da previdência privada a ex-participantes do plano, conforme se extrai dos seguintes termos, in verbis:
+RECURSO ESPECIAL REPETITIVO. PREVIDÊNCIA PRIVADA. EX-PARTICIPANTE. DIREITO À DEVOLUÇÃO DE PARCELAS DE CONTRIBUIÇÕES PAGAS. RESERVA DE POUPANÇA. CORREÇÃO MONETÁRIA PLENA. SÚMULA 289/STJ. EXPURGOS INFLACIONÁRIOS. IPC. INCIDÊNCIA. SÚMULA 252/STJ. ÍNDICES DE CORREÇÃO DE SALDOS DE FGTS. NÃO APLICAÇÃO.
+1. Para efeito do art. 543-C do Código de Processo Civil, ficam aprovadas as seguintes teses: (I) É devida a restituição da denominada reserva de poupança a ex-participantes de plano de benefícios de previdência privada, devendo ser corrigida monetariamente conforme os índices que reflitam a real inflação ocorrida no período, mesmo que o estatuto da entidade preveja critério de correção diverso, devendo ser incluídos os expurgos inflacionários (Súmula 289/STJ);
+(II) - A atualização monetária das contribuições devolvidas pela entidade de previdência privada ao associado deve ser calculada pelo IPC, por ser o índice que melhor traduz a perda do poder aquisitivo da moeda;
+(III) - A Súmula 252/STJ, por ser específica para a correção de saldos do FGTS, não tem aplicação nas demandas que envolvem previdência privada.
+2. Recurso especial da entidade de previdência privada desprovido. (REsp n. 1.177.973/DF, relator Ministro RAUL ARAÚJO, DJe 28/11/2012.)
+RECURSO ESPECIAL REPETITIVO. PREVIDÊNCIA PRIVADA. EX-PARTICIPANTE. DIREITO À DEVOLUÇÃO DE PARCELAS DE CONTRIBUIÇÕES PAGAS. RESERVA DE POUPANÇA. INSTRUMENTO DE TRANSAÇÃO. QUITAÇÃO GERAL. ABRANGÊNCIA LIMITADA. CORREÇÃO MONETÁRIA PLENA. SÚMULA 289/STJ. EXPURGOS INFLACIONÁRIOS. IPC. APLICAÇÃO.
+1 - Para efeito do art. 543-C do Código de Processo Civil, ficam aprovadas as seguintes teses:
+(I) É devida a restituição da denominada reserva de poupança a ex-participantes de plano de benefícios de previdência privada, devendo ser corrigida monetariamente conforme os índices que reflitam a real inflação ocorrida no período, mesmo que o estatuto da entidade preveja critério de correção diverso, devendo ser incluídos os expurgos inflacionários (Súmula 289/STJ);
+(II) - A quitação relativa à restituição, por instrumento de transação, somente alcança as parcelas efetivamente quitadas, não tendo eficácia em relação às verbas por ele não abrangidas. Portanto, se os expurgos inflacionários não foram pagos aos participantes que faziam jus à devolução das parcelas de contribuição, não se pode considerá-los saldados por recibo de quitação passado de forma geral;
+(III) - A atualização monetária das contribuições devolvidas pela entidade de previdência privada ao associado deve ser calculada pelo IPC, por ser o índice que melhor traduz a perda do poder aquisitivo da moeda.
+2. Recurso especial da entidade de previdência privada desprovido. (REsp n. 1.183.474/DF, relator Ministro RAUL ARAÚJO, DJe 28/11/2012.)
+Desse modo, encontrando-se o acórdão recorrido em conformidade com a orientação deste Tribunal (Fl. 688), não há que falar na reforma do decisum, conforme se verifica, in verbis:
+A correção monetária é devida por lei e por isso, não há ato - jurídico perfeito ou direito adquirido que possa vir de encontro a ela.
+De resto, a questão já está pacificada na jurisprudência atual e reiterada de nossos Tribunais Superiores.
+Relativamente ao caso dos autos, o entendimento do Superior Tribunal de Justiça é que a correção das reservas de poupança se dê da forma mais ampla possível, tal como preconiza a Súmula 289:
+A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha efetiva desvalorização da moeda.
+Se o STJ restringe a aplicação da correção nos casos de atualização do FGTS, tal restrição, portanto, não se aplica aos casos de reservas de poupança, pertinentes a planos de previdência privada.
+Primeiro porque a Súmula 252 não cuidou desse caso e, segundo, porque o entendimento é o de que a correção das reservas de poupança se dê da forma mais ampla possível.
+Quando o STJ, no julgamento do RESP 652445-AL, expôs que "2- O STF decidiu (RE 2268551R5) não haver direito à correção do FGTS quanto aos Planos "Bresser" (26,06%), "ColIor 1" (7,87%) e "ColIor II" (21,87%)", consagrou que somente na correção do fundo de garantia não se aplicam esses percentuais.
+A conclusão óbvia, portanto, é que eles se aplicam, de forma integral, no caso das reservas de poupança.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% do valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2.º do referido dispositivo legal, ressalvada a eventual concessão de justiça gratuita (art. 98, § § 2.º e 3.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
