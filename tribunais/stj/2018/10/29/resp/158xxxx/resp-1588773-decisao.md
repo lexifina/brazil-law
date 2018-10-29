@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Touro Agropecuária Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 354):
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL OMISSÃO CONFIGURADA. PRESCRIÇÃO QUINQUENAL. INOCORRÊNCIA. SUCESSIVOS PARCELAMENTOS. CAUSA INTERRUPTIVA DO PRAZO PRESCRICIONAL. JUNTADA DE NOVOS DOCUMENTOS. POSSIBILIDADE. PROVIMENTO.
+I - O pedido de parcelamento, na sua essência, reveste-se dos contornos de ato inequívoco quanto ao reconhecimento do débito, atraindo, por conseguinte, a interrupção dà fluência do prazo prescricional, mercê do regramento estampado no art. 174, IV, do CTN.
+II - In casu, o primeiro pedido de parcelamento (REFIS) foi encerrado em 01/01/2002 e o segundo parcelamento (PAES), foi solicitado em 29/07/2003 e encerrado, por rescisão, em 09/02/2006. A Fazenda Nacional ajuizou o executivo fiscal em 15/10/2007, quando não ultrapassado o prazo quinquenal.
+III - Não há óbice à juntada de documentos que se destinam tão somente a corroborar argumentos já trazidos anteriormente, uma vez que não se pode confundir fato novo com documento novo, cuja juntada se afigura legítima para o deslinde de questão discutida no primeiro grau da jurisdição. Ademais, os autos já chegaram a esta Corte instruídos com os documentos, não havendo, a priori, óbice quanto à apreciação e valoração dos mesmos.
+IV - Embargos declaratórios providos, com efeitos infringentes, para afastar a prescrição quinquenal.
+Opostos embargos declaratórios (fls. 358/369), foram rejeitados (fls. 375/380).
+A parte recorrente aponta violação aos arts. 396 e 535 do CPC/73; bem como dissídio jurisprudencial. Sustenta, em resumo, a "impossibilidade de conhecimento dos embargos  opostos pela Fazenda Nacional , em face de evidente configuração de preclusão, consequência da intempestividade na juntada de documentos, o que foi feito ainda em sede de aclaratórios, o que é juridicamente ilegítimo" (fls. 385/386).
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No caso, a Corte Regional assim deliberou ao julgar os embargos de declaração da Fazenda recorrida (fl. 352):
+ ..  os autos já chegaram a esta Corte instruídos com os referidos documentos (fls. 238/248), não havendo, a priori, óbice quanto à apreciação e valoração dos mesmos.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
