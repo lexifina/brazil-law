@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. CONTRATOS DE SEGURO. MÚTUO HABITACIONAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA RÉ. ILEGITIMIDADE PASSIVA. APÓLICES PRIVADAS. DEMANDA INTENTADA CONTRA A COMPANHIA EXCELSIOR DE SEGUROS. AUSÊNCIA DE QUALQUER DOCUMENTO QUE COMPROVE SUA RESPONSABILIDADE PELA COBERTURA SECURITÁRIA. INEXISTÊNCIA DE POOL DE SEGURADORAS. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. ART. 485, VI, DO CPC/15. RECURSO (02) PROVIDO. APELO (01) PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alegam os ora agravantes violação do artigo 17 e 485, IV, do Código de Processo Civil.
+Não merece reforma a decisão agravada.
+Com efeito, anoto que o acórdão recorrido baseou-se na interpretação de fatos para determinar a ilegitimidade da seguradora recorrida para integrar o polo passivo da lide. Confiram-se os fundamentos do Tribunal paranaense:
+8. Trata-se de "ação ordinária de responsabilidade obrigacional securitária" em que os autores pretendem a responsabilização da ré em decorrência de vícios construtivos nos imóveis adquiridos junto ao agente financeiro.
+(..)
+12. Como se observa, os contratos dos requerentes pertencem ao ramo privado e não há nos autos qualquer indicação de que possuam cobertura securitária firmada com a Companhia Excelsior de Seguros S/A.
+13. Com sua petição inicial, os autores tão somente apresentaram boletos referentes a prestações de seus financiamentos (movs. 1.3, 1.5, 1.7, 1.9, 1.11, 1.13 e 1.15). Contudo, não há nenhuma informação sobre os contratos firmados com o agente financeiro ou sobre as respectivas apólices de seguros.
+14. Por outro lado, conforme o documento mov. 27.1, apresentado aos autos pela ré, consistente em resultado de pesquisa realizado por meio do sistema "delphos seguro habitacional", verifica-se que os autores de fato possuem contrato estipulado pela Companhia de Habitação do Paraná.
+15. A esse respeito, note-se que o autor [NOME] firmou o contrato nº 000001723502, garantido pela apólice 2680000019; o autor [NOME] firmou o contrato nº 000001723537, garantido pela apólice 2680000019; a autora [NOME] firmou o contrato 000001723561, garantido pela apólice 2680000019; o autor [NOME] firmou o contrato nº 000001723456, garantido pela apólice 2680000019; o autor [NOME] firmou o contrato nº 000001723553, garantido pela apólice 2680000019; o autor [NOME] firmou o contrato nº 000001723545, garantido pela apólice 2680000019. No entanto, conforme consta do sistema "delphos seguro habitacional", nenhuma das apólices de seguro está ativa.
+16. Como se vê, nenhum dos documentos constantes dos autos comprovam que os autores possuem cobertura securitária firmada com a Companhia Excelsior de Seguros S/A, ônus que competia aos autores, nos termos do art. 373, I, do CPC/15.
+17. Em casos similares, este Tribunal entende que a ação que visa a cobertura securitária de apólices privadas (ramos 68 e 61/65), deve ser ajuizada contra a seguradora que foi contratada pelo agente financeiro, já que inexiste, neste caso, um pool de seguradoras vinculadas ao SH, que possibilitaria ao consumidor intentar a ação contra qualquer uma daquelas vinculadas ao fundo:
+(..)
+18. Extrai-se da ratio decidiendi do citado julgado que mesmo que houvesse posterior migração do ramo público para o privado, tal fato não leva à conclusão de que o autor pode ajuizar a ação contra qualquer seguradora, uma vez que estando atualmente vinculado a uma apólice privada, necessariamente estaria sujeito à cobertura securitária da seguradora contratada. A apólice comercial, assim, vincular-se-ia às condições da seguradora em específico.
+(..)
+21. Por tais considerações, não havendo comprovação de que os contratos dos requerentes estão vinculados a apólices privadas da Companhia Excelsior de Seguros, impõe-se o reconhecimento de sua ilegitimidade para figurar no polo passivo.
+22. Destarte, voto por dar provimento ao recurso de apelação (02) para declarar a ilegitimidade passiva da seguradora apelante, extinguindo o feito sem resolução do mérito, nos termos do art. 485, VI, do CPC/15, e julgar prejudicado o recurso de apelação (01), com inversão da sucumbência em desfavor dos autores.
+Assim, rever tais premissas implicaria, necessariamente, o reexame do conjunto fático-probatório, o qual é vedado nesta instância especial, nos termos da Súmula 7/STJ. Confiram-se:
+AGRAVO REGIMENTAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO AJUIZADA CONTRA SEGURADORA. APLICAÇÃO DO CDC. MULTA DECENDIAL. COMPETÊNCIA. JUSTIÇA ESTADUAL. MORA. SÚMULA STJ/7. DECISÃO AGRAVADA MANUTENÇÃO.
+(..)
+4.- Para infirmar a conclusão a que chegou o Tribunal de origem quanto à ocorrência da mora e ao ramo da apólice do seguro (66 ou 68) seria necessário reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula 7 do STJ.
+5.- Agravo Regimental improvido.
+(AgRg no AREsp 219.198/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/10/2012, DJe 05/11/2012)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. DISCUSSÃO ENTRE SEGURADORA E MUTUÁRIO. NÃO COMPROMETIMENTO DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS (FCVS). ESCORREITA APLICAÇÃO DA SÚMULA 83 DESTA CORTE. RECURSO MANIFESTAMENTE IMPROCEDENTE. COBERTURA SECURITÁRIA. INCIDÊNCIA DAS SÚMULAS 05 E 07/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgamento do REsp nº 1.091.363/SC, representativo de causas repetitivas, assentou o entendimento de que "nos feitos em que se discute a respeito de contrato de seguro adjeto a contrato de mútuo, por envolver discussão entre seguradora e mutuário, e não afetar o FCVS (Fundo de Compensação de Variações Salariais), inexiste interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário, sendo, portanto, da Justiça Estadual a competência para o seu julgamento."
+2. Para infirmar a conclusão a que chegou o Tribunal de origem quanto ao tipo da apólice objeto do financiamento (Ramo 66 ou Ramo 68) seria necessário o reexame do contrato, bem como do acervo probatório, o que encontra óbice ante às Súmulas 5 e 7 desta Corte.
+3. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 187.084/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/09/2012, DJe 10/09/2012)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
