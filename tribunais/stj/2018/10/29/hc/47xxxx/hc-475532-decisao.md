@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. DOSIMETRIA. AFASTAMENTO DO TRÁFICO PRIVILEGIADO. REGIME INICIAL. SUBSTITUIÇÃO DA PENA. PENDÊNCIA DE JULGAMENTO DE APELAÇÃO NO TRIBUNAL A QUO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem no writ ali impetrado (fls. 43/46 - Habeas Corpus n. 2089398-94.2018.8.26.0000) - mantendo sentença, em que o Juízo de Direito da 4ª Vara da comarca de Mogi-Mirim/SP condenou o paciente às penas de 5 anos e 9 meses de reclusão, em regime inicial fechado, e 590 dias-multa (fls. 58/63) - pela prática do crime de tráfico de drogas.
+Daí a presente impetração, na qual se alega constrangimento ilegal consistente na condenação do paciente, no indeferimento da desclassificação para o delito de posse de drogas (art. 28 da Lei n. 11.343/2006), na dosimetria da pena com a não aplicação da causa especial de diminuição de pena do tráfico privilegiado, na imposição do regime inicial fechado e na negativa de substituição da pena privativa de liberdade por restritiva de direitos.
+Ocorre que o paciente também interpôs apelação na Corte local, em trâmite na Terceira Câmara de Direito Criminal (Apelação n. 0003226-35.2016.8.26.0363), objetivando absolvição, desclassificação, aplicação da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), regime inicial menos gravoso e substituição de pena.
+Assim, o presente writ deve ser indeferido liminarmente. Portanto, inviável a análise da matéria apresentada nesta Corte Superior, sob pena de provável interferência no julgamento da apelação, que é o recurso adequado e cabível para o reexame da dosimetria feita na sentença.
+Nesse sentido é a jurisprudência deste Superior Tribunal, segundo a qual não há como ser conhecido o habeas corpus anteriormente ao julgamento do mérito do recurso de apelação, quando será feita uma análise minuciosa das alegações da defesa, relativamente à dosimetria em segundo grau de jurisdição (AgRg no HC n. 441.441/SP, de minha relatoria, Sexta Turma, DJe 22/8/2018).
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento, pois não foi demonstrada a ilegalidade no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
