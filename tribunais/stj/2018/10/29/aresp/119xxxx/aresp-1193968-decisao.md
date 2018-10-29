@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC) interposto por TELEFÔNICA BRASIL S.A contra decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 153, e-STJ):
+AÇÃO DE ADIMPLEMENTO CONTRATUAL CUMULADA COM INDENIZAÇÃO. Ações do sistema Telebrás. Pretensão de integralização de ações não recebidas na data da subscrição do capital e pedido subsidiário de reparação de danos. Sentença de improcedência pelo reconhecimento da prescrição. Redistribuído por força da Resolução 668/2014.
+Apela o autor sustentando ter firmado contrato de participação financeira, obtendo uso de linha telefônica e o recebimento de ações; foram repassadas em quantidade menor e também houve diminuição de dividendos, pela ausência de imediata emissão dos títulos, como estava previsto contratualmente; pediu que a parte contrária apresentasse cópia da documentação e fosse condenada a integralizar as ações recebidas na data da subscrição do capital e, subsidiariamente, requereu o pagamento dos valores relativos, bem como acerca dos valores referentes à Telesp Celular; não ocorrência da prescrição pela aplicação do prazo geral; inversão do ônus da prova; inércia ou recusa da recorrida em trazer os documentos valida a ordem e o interesse de agir quanto à exibição.
+Cabimento.
+Pedido vinculado ao recebimento de ações faltantes quando da subscrição e, subsidiariamente, indenizatório. Prescrição vintenária sob a égide do previgente Código Civil e quinquenal pela novel codificação. Inteligência do art. 177 do CC/16 e art.
+206, § 5º, I, do CC/2002. Documentos apresentados com a inicial apontam que o contrato foi formalizado em 1995. Quando da entrada em vigor do atual Código Civil ainda não havia transcorrido mais da metade do prazo estipulado na lei revogada.
+Incidência do diploma vigente, com a fluência do lapso temporal a partir da sua entrada em vigor. Inteligência do art. 2.028 do CC.
+Exibição do contrato. Determinação do juízo à ré de apresentação do instrumento não restou cumprida. Agravo retido não conhecido por ausência de reiteração. Admissível como verdadeiro o fato afirmado pelo autor na inicial, quanto à existência da relação contratual que confere supedâneo ao pedido. Inteligência do art. 359 do CPC.
+Contrato de participação financeira para a aquisição de linha telefônica. Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização. Súmula 371 do STJ.
+Conversão da obrigação de subscrever ações em perdas e danos e dos dividendos incidentes desde quando as ações deveriam ter sido subscritas. Juros de mora de 1% ao mês desde a citação e correção monetária desde o inadimplemento.
+Recurso provido para afastar a prescrição e condenar a ré pelo valor a ser apurado em liquidação referente às ações não subscritas, com base no balancete do mês da integralização, e pelos respectivos dividendos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial (fls. 173/180, e-STJ), a insurgente aponta violação do art. 458, inc. II, e 535, inc. II, do CPC/73. Sustenta, em síntese, ausência de fundamentação na decisão recorrida e existência de omissão no acórdão recorrido a respeito do "fato de a parte embargada não ter firmado qualquer contrato de participação financeira com a ora exponente e existir demanda em que se discute o mesmo contrato." (fls. 178, e-STJ)
+Em razão do juízo negativo de admissibilidade na origem, os insurgentes interpuseram o recurso de agravo (fls.196/203, e-STJ), no qual postula a reforma da decisão impugnada, lançando argumentação no sentido de superar os óbices apontados.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Quanto à apontada violação dos artigos 458 e 535 do CPC/73, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Destaque-se, por oportuno, que a matéria apontada como omitida no embargos de declaração de fls. 162/165, e-STJ - apenas ausência de contratação e consequentemente inobservância do art. 357 do CPC/73 - foi objeto de expressa manifestação pela Corte local, consoante denotam os seguintes excertos do acórdão recorrido:
+As contas telefônicas datadas de 1995 (f. 19) demonstram a existência do contrato ao menos a partir dessa data. (fls. 155, e-STJ)
+E extrai-se do acórdão proferido quando do julgamento dos aclaratórios:
+Inaplicável o art. 357 do CPC, porque ao ser determinada em interlocutória a exibição do contrato, a embargante não apresentou cópia do instrumento e apenas "ofereceu agravo retido (f. 53/60), que não pode ser conhecido por ausência de reiteração na fase de apelação" (f. 145)
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+Com efeito, da leitura dos autos, constata-se que todas as questões necessárias à resolução da demanda foram examinadas pela Corte a quo, embora não tenha acolhido o pedido dos insurgentes em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÃO. INVERSÃO DO ÔNUS DA PROVA E DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC (art. 535, I e II, do CPC/73). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+(AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+2. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
