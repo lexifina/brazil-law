@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por [NOME], em face de decisão que não admitiu recurso especial (fls. 445-450, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 399-403, e-STJ):
+PRESTAÇÃO DE CONTAS. SEGUNDA FASE. Contrato de cartão de crédito. Alegação de falta de interesse de agir. Questão já apreciada nos autos. Impossibilidade de nova análise em decorrência da preclusão pro judicato. Banco réu que prestou adequadamente as contas requeridas, indicando claramente os encargos incidentes sobre as operações. Impugnação genérica da autora. Homologação dos cálculos apresentados pelo banco. RECURSO PARCIALMENTE CONHECIDO E PROVIDO NA PARTE CONHECIDA.
+Opostos embargos de declaração (fls. 406-407, e-STJ), esses foram rejeitados (fls. 409-413, e-STJ).
+Nas razões do recurso especial (fls. 420-425, e-STJ), a recorrente aponta violação aos artigos 550, § 1º, do CPC/2015; 915 do CPC/1973 e 46 do CDC.
+Sustenta, em síntese, que: a) houve impugnação específica dos lançamentos apresentados pela ora recorrida; b) não há informação sobre a origem dos valores expostos no bojo da presente ação; c) a ausência de juntada do contrato de adesão impede a aferição do efetivo cumprimento das obrigações nele dispostas; d) não houve prestação de contas na forma mercantil.
+Contrarrazões às fls. 433-439, e-STJ.
+Em juízo de admissibilidade (fls. 441-442, e-STJ), negou-se o processamento do recurso especial, sob os fundamentos de que: a) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; b) incidiria ao caso o enunciado nº 7 da Súmula do STJ.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que: a) o exame pretensão não demanda reanálise da matéria de fato; b) houve, de fato, violação a dispositivos infraconstitucionais.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da leitura do acórdão recorrido, constata-se que o Tribunal de origem, à luz dos elementos de prova acostados aos autos, concluiu que as contas exigidas da recorrida, prestadas adequadamente, denotam a existência do saldo devedor originariamente imputado à ora insurgente (fls. 401-402, e-STJ):
+Respeitado o entendimento da D. magistrada sentenciante, verifico que as contas foram adequadamente prestadas pelo banco réu, eis que identificadas detalhadamente todas as operações realizadas com o cartão de crédito, bem como os encargos incidentes sobre cada uma delas (fls. 126/139).
+A autora impugnou as contas prestadas pelo réu, sustentando que o valor correto do saldo devedor é de R$ 841,92, que houve a cobrança irregular de tarifas pelo banco, eis que inexistente contrato que as legitime, bem como que as contas estariam "totalmente indecifráveis" (fls. 207/208).
+Ocorre que da análise das planilhas apresentadas pelo banco, é possível constatar, por simples cálculo aritmético, que o saldo devedor decorrente da relação contratual havida entre as partes é o valor indicado pelo réu, de R$ 1.932,71. Destaco que foram indicados claramente os valores creditados e debitados em razão das operações com o cartão de crédito, não se vislumbrando qualquer dificuldade em sua compreensão.
+É desnecessária a apresentação dos extratos bancários, eis que a própria autora afirma que estes já lhe foram enviados pelo banco, destacando-se que ela não impugna especificamente qualquer lançamento efetuado, mas limita-se a alegar de forma genérica a dificuldade de sua compreensão, o que, todavia, não possui relevância, diante do esclarecimento fornecido pelas planilhas apresentadas pelo banco.
+Portanto, de rigor concluir-se que houve a adequada prestação de contas pelo réu, motivo pelo qual homologo os cálculos apresentados pelo banco e declaro como saldo credor o montante ali apurado, sobre o qual deverá incidir correção monetária pela Tabela Prática do TJSP e juros de mora de 1% ao mês, a partir do ajuizamento desta ação.
+Nesse cenário, tem-se que o acolhimento da pretensão recursal demandaria que a premissa acima descrita fosse derruída. Para tanto, todavia, revelar-se-ia necessário revolver matéria fático-probatória, providência vedada em sede de recurso especial, por força dos enunciados dispostos nas Súmulas 05/STJ e 07/STJ. Precedentes:
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. AUSÊNCIA DE APONTAMENTO DE DIVERGÊNCIAS OU LANÇAMENTOS ESPECÍFICOS. PEDIDO GENÉRICO. AUSÊNCIA DE INTERESSE PROCESSUAL. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 83/STJ. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A violação ao art. 535 do Código de Processo Civil de 1973 não ficou configurada, levando em conta que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. 2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça. Precedentes. 3. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ. 4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1283076/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTRATO BANCÁRIO. ABERTURA DE CRÉDITO EM CONTA CORRENTE. CAPITALIZAÇÃO ANUAL DE JUROS. PREVISÃO EXPRESSA. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. INOVAÇÃO EM AGRAVO INTERNO.
+1. A capitalização de juros depende de pactuação. Incide a Súmula 83/STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Não se admite a adição de teses no agravo interno (não expostas no recurso especial), por importar inovação.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1474245/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/03/2018, DJe 12/03/2018)
+Logo, revela-se inviável a admissão do presente recurso especial.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, majoro os honorários advocatícios arbitrados na origem, nos termos do art. 85, § 11, do CPC/2015, em R$ 200,00 (duzentos reais), observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
