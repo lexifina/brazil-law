@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BRASIL S/A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado Santa Catarina, assim ementado (fl. 144, e-STJ):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TITULO EXTRAJUDICIAL. EXTINÇÃO DO FEITO. PRESCRIÇÃO INTERCORRENTE. PRAZO EXTINTIVO QUE SE CONSUMOU ANTES DA ENTRADA EM VIGOR DO NOVO CÓDIGO DE PROCESSO CIVIL. SENTENÇA PUBLICADA NA VIGÊNCIA DESSE.
+EXECUÇÃO SUSPENSA POR AUSÊNCIA DE BENS PASSÍVEIS DE PENHORA. PRESCRIÇÃO INTERCORRENTE. TERMO INICIAL. UM ANO APÓS A SUSPENSÃO ADMINISTRATIVA DO FEITO. APLICAÇÃO POR ANALOGIA DA LEI N. 6.830 DE 1980.
+A prescrição intercorrente tem seu cômputo iniciado a partir do término do prazo estipulado para a suspensão da execução, que é de um ano, a teor de analogia com a Lei de Execução Fiscal (Lei n. 6.830/80), reforçada pela norma contida no vigente Código de Processo Civil (art. 921). Após isso, "prescreve a execução no mesmo prazo de prescrição da ação" (Súmula n. 150 do Supremo Tribunal Federal).
+DESNECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL.
+De acordo com o entendimento consolidado pela Terceira Turma do Superior Tribunal de Justiça, não há necessidade, para reconhecimento da prescrição intercorrente, da intimação pessoal do autor, posição adotada por esta Câmara.
+Não foram opostos embargos de declaração.
+Na origem, a demanda versa sobre execução de título extrajudicial julgada extinta, com resolução do mérito, ante o reconhecimento da prescrição intercorrente.
+Nas razões do recurso especial (fls. 158-167, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos artigos 791, III, e 793 do CPC/73 (correspondente aos arts. 921, III, e 923 do NCPC), bem como art. 1.056 do CPC/15, ao argumento de que, ao contrário do que decidido no acórdão recorrido, a suspensão do feito não se deveu à sua inércia, além do que o termo inicial para o decurso do prazo prescricional inicia com a vigência da nova legislação processual.
+Após decisão de admissão do recurso especial (fls. 192-195, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da análise da decisão prolatada pela Corte Estadual, verifica-se que não se aperfeiçoa a ventilada contrariedade ao disposto nos artigos 791, III, e 793 do CPC/73 (correspondente aos arts. 921, III, e 923 do NCPC), bem como art. 1.056 do CPC/15, nem mesmo a divergência jurisprudencial descrita pelo recorrente.
+É que a matéria controvertida neste recurso especial foi objeto de discussão no REsp 1.604.412/SC (DJe 22/8/2018), cuja tramitação neste Superior Tribunal de Justiça obedeceu o procedimento previsto para o Incidente de Assunção de Competência - IAC (art. 947 do NCPC), de modo que a Segunda Seção firmou os seguintes entendimentos a respeito da aplicação da prescrição intercorrente:
+1.1) Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2) O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3) O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4) O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.  ..  (REsp 1604412/SC, Rel. Min. Marco Aurélio Bellizze, Segunda Seção, julgado em 27/06/2018, DJe 22/08/2018).
+No caso em exame, verifica-se que o aresto estadual está alinhavado com as premissas fixadas no incidente de uniformização, na medida em que reputou inaplicável à espécie a regra do art. 1.056 do CPC/15, pois o período de suspensão antecedeu a vigência da nova legislação processual, assim como estabeleceu ser prescindível a intimação para dar início ao escoamento do prazo prescricional.
+2. Do exposto, nego provimento ao recurso especial, com amparo no art. 932, IV, alínea "c", do NCPC, e na Súmula 568 do STJ.
+Publique-se.
+Intimem-se.
