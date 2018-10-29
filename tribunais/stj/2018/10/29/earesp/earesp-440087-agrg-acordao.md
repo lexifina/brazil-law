@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE ENTRE O ARESTO PARADIGMA E O ACÓRDÃO EMBARGADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A demonstração da divergência jurisprudencial, nos termos do art. 266 do RISTJ, pressupõe que os casos confrontados se assemelhem ou se identifiquem, o que não ocorreu no caso, porquanto o acórdão embargado trata de crimes de responsabilidade de prefeitos e delitos licitatórios e o paradigma versa sobre crime contra a vida.
+2. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Felix Fischer, Laurita Vaz, Jorge Mussi e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Nefi Cordeiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] interpõe agravo regimental contra a decisão de fls. 1.566-1.567, que indeferiu liminarmente os embargos de divergência, por ausência de similitude fática entre o aresto apontado como divergente e o proferido no caso dos autos.
+Em suas razões, alegam os agravantes, em síntese, que os casos confrontados possuem similitude fática, sobretudo porque em ambos os casos o Tribunal de origem julgou contrariamente à prova dos autos.
+Afirmam que "o r. acórdão embargado e o r. acórdão paradigma discrepam sobre o enfrentamento dos fundamentos trazidos na petição de interposição recurso especial e nas razões do recurso de apelação" (fl. 1.577).
+Asserem, conclusivamente, que "persistiu omisso o r. acórdão embargado, porque, como a r. decisão ora agravada, não assentou as razões de fato e direito que lhe permitiram concluir que o r. acórdão recorrido igualmente não teria violado os artigos 381, II, e 619, do CPP" (fl. 1580),
+Requerem os agravantes, diante disso, que a decisão agravada seja reconsiderada ou "caso assim não entenda, hipótese que se admite apenas para argumentar, o presente agravo regimental merece ser conhecido e provido, permitindo-se, assim, que esse c. STJ possa uniformizar a sua interpretação sobre a matéria" (fl. 1582).
+EMENTA
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE ENTRE O ARESTO PARADIGMA E O ACÓRDÃO EMBARGADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A demonstração da divergência jurisprudencial, nos termos do art. 266 do RISTJ, pressupõe que os casos confrontados se assemelhem ou se identifiquem, o que não ocorreu no caso, porquanto o acórdão embargado trata de crimes de responsabilidade de prefeitos e delitos licitatórios e o paradigma versa sobre crime contra a vida.
+2. Agravo regimental não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos expostos pelo agravante, a decisão agravada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 1.566-1.567):
+[NOME] e [NOME] opõem embargos de divergência contra acórdão proferido pela Quinta Turma desta Corte, da lavra da Ministra Laurita Vaz, integrado por embargos de declaração relatados pelo Ministro Jorge Mussi, que negou provimento ao agravo regimental interposto.
+Nos embargos de divergência opostos por [NOME], alega o embargante que a decisão embargada divergiu do acórdão proferido no REsp n. 1.410.486/RS, de relatoria do Ministro Sebastião Reis Júnior, o qual, em caso com semelhante tese, concluiu pela anulação de todo o julgamento da apelação e não somente de parte dele.
+Afirma, nessa perspectiva, que o acórdão embargado foi omisso em relação à atipicidade da conduta, alegada perante o Tribunal a quo e que não foi objeto da devida análise, situação esta que levaria à anulação de todo o acórdão.
+Nos embargos de [NOME], a defesa aduz que "o ilustre Relator não concedeu ao Embargante a extensão das providências determinadas ao recorrente [NOME], mas apenas a recorrente [NOME], por entender que estes participaram do delito na qualidade de "representante legal de uma das sociedades empresárias pelo meio das quais se realizou o desvio de verbas públicas"" (fl. 1.502). Aponta, como paradigma, os acórdãos proferidos em pedidos de extensão nos RHC n. 57.866/GO e HC n. 190.915/PA.
+Decido.
+Em que pesem os argumentos externados pelos embargantes, ambos os recursos não ultrapassam o juízo de admissibilidade dos embargos de divergência.
+Com efeito, no que se refere ao primeiro recurso, oposto por [NOME], não verifico a necessária similitude fática entre os casos confrontados. O acórdão embargado trata de crimes de responsabilidade de prefeitos e delitos licitatórios e o paradigma versa sobre crime contra a vida.
+Mas, mesmo que desprezada tal circunstância e considerada apenas a tese processual subjacente, ainda assim não haveria similitude entre os casos. Isso porque o acórdão paradigma trata da hipótese de fundamentação genérica das decisões judiciais, as quais podem ser utilizadas em qualquer situação, o que ensejaria afronta ao art. 381 do CPP. Já no caso dos autos, não houve fundamentação genérica, apenas a ausência da necessária distinção do grau de atuação de cada um dos acusados, de modo que se pudesse individualizar a pena.
+No que concerne ao segundo, oposto por [NOME], além de os acórdãos paradigmas haverem sido proferidos em habeas corpus, o que não é admitido para efeitos de caracterização da divergência, conforme entendimento desta Corte, observa-se que não houve o devido cotejo analítico que lograsse identificar as circunstâncias que assemelhem ou identifiquem os casos confrontados.
+Ante o exposto, nos termos do art. 266-C do RISTJ, indefiro liminarmente ambos os embargos de divergência.
+Com efeito, a demonstração da divergência jurisprudencial, nos termos do art. 266 do RISTJ, pressupõe que os casos confrontados se assemelhem ou se identifiquem. No caso, "como cada feito possui nuances e teses próprias, fica inviabilizada a configuração da existência de similitude fática entre as situações que deram suporte à prolação dos acórdãos recorrido e paradigma, a qual constitui pressuposto de admissibilidade dos embargos de divergência" (AgRg nos EAREsp n. 979.486/MG, Rel. Ministro Sebastião Reis Júnior, DJe 28/8/2018).
+
+Com efeito, como destacou o decisum agravado, além de os arestos não guardarem similitude (o acórdão embargado trata de crimes de responsabilidade de prefeitos e delitos licitatórios e o paradigma versa sobre crime contra a vida) - mesmo que desconsiderada a absoluta falta de identidade fática entre os casos confrontados -, o paradigma trata da hipótese de fundamentação genérica das decisões judiciais, as quais podem ser utilizadas em qualquer situação, o que ensejaria afronta ao art. 381 do CPP. Já no caso dos autos, não houve fundamentação genérica, mas a ausência da distinção quanto ao grau de atuação de cada um dos acusados, de modo que se pudesse individualizar a pena.
+À vista do exposto, nego provimento ao agravo regimental.
