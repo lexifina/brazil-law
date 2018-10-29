@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] desafiando decisão da 2ª Vice-Presidência do Tribunal de Justiça do Estado da Bahia que não admitiu recurso especial com base nos seguintes fundamentos: (I) inexistência de violação ao art. 535, II, do CPC/73; (II) entendimento em conformidade com a jurisprudência desta Corte relativamente ao art. 95 do CP, fazendo incidir o disposto na Súmula 83/STJ; e (III) que a modificação do aresto quanto a ser a exoneração do servidor efeito extrapenal da condenação demandaria a análise probatória dos autos, nos termos do óbice estabelecido da Súmula 7/STJ.
+Em decisão da Presidência desta Corte, o agravo em recurso especial restou não conhecido, sob o fundamento de que a parte recorrente não rebateu de forma específica os fundamentos adotados pela decisão agravada, atraindo a incidência da Súmula 182/STJ (fls. 773/774).
+Interposto agravo interno, a referida decisão foi reconsiderada em decisão de fls. 793/795, pois a Súmula 182/STJ haveria sido aplicada em amplitude indevida, desconsiderando a existência de impugnação a capítulo autônomo do decisório que obstou o seguimento do especial, momento em que foi determinada nova apreciação do agravo em recurso especial.
+Ouvido o MPF, este opinou pelo desprovimento do recurso (fls. 802/805).
+É o relatório.
+A despeito de meu entendimento pessoal anteriormente esposado na decisão de fls. 793/795, verifica-se que, efetivamente, o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação), posição que passo a adotar.
+No caso, a parte agravante deixou de rebater, de modo específico, o fundamento de que a modificação do aresto quanto a ser a exoneração do servidor efeito extrapenal da condenação demandaria a análise probatória dos autos, nos termos do óbice estabelecido na Súmula 7/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo em recurso especial.
+Publique-se.
