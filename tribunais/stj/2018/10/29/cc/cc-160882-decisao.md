@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DA 1ª VARA FEDERAL DE URUGUAIANA - SJ/RS, suscitante, e o JUÍZO DA 2ª VARA FEDERAL DE RIBEIRÃO PRETO SJ/SP, suscitado.
+Ao remeter os autos à comarca de Uruguaiana/RS, o Juízo da 2ª Vara Federal de Ribeirão Preto SJ/SP, ora suscitado, declinou sua competência para executar as penas restritivas de direitos aplicadas, em razão do domicílio do sentenciado (fls. 331):
+Trata-se de execução penal pertinente ao sentenciado PAULO
+[NOME], com condenação em regime aberto.
+Ocorre que, conforme comprova a documentação carreada aos autos, o sentenciado tem domicílio na cidade e Subseção Judiciária de Uruguaiana/RS, razão pela qual deve esta execução penal ser encaminhada ao juízo do domicílio do sentenciado. Razões de várias ordens recomendam essa solução, mormente a economia processual e a efetividade da execução penal.
+Por sua vez, o Juízo da 1ª Vara Federal da Uruguaiana - SJ/RS, ora suscitante, concluiu que o simples fato de o condenado morar em comarca diversa ou ter mudado de residência, por vontade própria, não constitui causa legal de deslocamento da competência originária para a execução da pena, uma vez que pode ser deprecada ao Juízo do domicílio do apenado a supervisão e acompanhamento do cumprimento das penas restritivas de direitos, sem que isso signifique deslocamento de competência (fls. 343/344).
+O Ministério Público Federal ofertou parecer, manifestando-se pelo reconhecimento da competência do Juízo da 2ª Vara Federal de Ribeirão Preto - SJ/SP, juízo suscitado (fls. 356/358).
+É o relatório.
+DECIDO.
+Como bem salientado pelo Ministério Público em seu parecer (fl. 357):
+Com efeito, conforme determinação do art. 65 da Lei de Execuções Penais, "a execução penal competirá ao juízo indicado na lei local de organização judiciária e, na sua ausência, ao da sentença". In casu, considerando-se que a lei local de organização judiciária estabeleceu que as execuções penais se processarão no local da condenação, compete ao juízo suscitado o processamento da execução do condenado, não sendo argumento idôneo à declinação da competência a mudança de domicílio do executado.
+Nesse mesmo sentido é o entendimento da Terceira Seção desse Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PERANTE A JUSTIÇA FEDERAL. ESTABELECIMENTO PRISIONAL SOB ADMINISTRAÇÃO ESTADUAL. PROGRESSÃO PARA REGIME ABERTO. SÚMULA 192/STJ. COMPETÊNCIA DO JUÍZO ESTADUAL. MUDANÇA DE ENDEREÇO. ALTERAÇÃO DA COMPETÊNCIA. NÃO OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É competente o Juízo das Execuções Penais do Estado para a execução da pena imposta a sentenciado pela Justiça Federal, quando recolhido a estabelecimentos sujeitos à administração estadual (Súmula 192 STJ).
+2. O fato de o sentenciado estar residindo em outra comarca não autoriza a modificação da competência para execução da pena.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC 141.896/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 24/02/2016, DJe 03/03/2016) - negritei
+Com efeito, entende a jurisprudência desta Corte que a mudança voluntária do domicílio do apenado não importa na modificação da competência do Juízo da Execução, podendo ser deprecado ao Juízo da sua residência tão somente a fiscalização do cumprimento da execução da pena. Confira-se:
+PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. CONDENAÇÃO A PENA PRIVATIVA DE LIBERDADE. PROGRESSÃO AO REGIME SEMIABERTO. TRANSFERÊNCIA. DOMICÍLIO DO REEDUCANDO. NECESSIDADE DE PRÉVIA CONSULTA. COMPETÊNCIA PARA EXECUÇÃO E FISCALIZAÇÃO DA PENA: JUÍZO ORIGINÁRIO DA EXECUÇÃO PENAL.
+1. A competência para a execução da pena não se confunde com a fiscalização do seu cumprimento que, em algumas situações, é deprecada em razão da transferência do reeducando ao local de seu domicílio ou do domicílio de sua família.
+2. A jurisprudência desta Corte entende que a transferência de preso para local próximo de sua família, onde possa obter resultados mais favoráveis no processo de ressocialização, depende de consulta prévia ao juízo de destino.
+3. Inexistindo vaga, na localidade de domicílio do reeducando, no regime em que se encontra em cumprimento de pena, tanto a execução quanto a fiscalização da reprimenda devem ser mantidas com o Juízo originário da Execução.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu/PR, suscitado. (CC 148.441/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 09/08/2017, DJe 17/08/2017)
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PERANTE A JUSTIÇA FEDERAL. ESTABELECIMENTO PRISIONAL SOB ADMINISTRAÇÃO ESTADUAL. PROGRESSÃO PARA REGIME ABERTO. SÚMULA 192/STJ. COMPETÊNCIA DO JUÍZO ESTADUAL. MUDANÇA DE ENDEREÇO. ALTERAÇÃO DA COMPETÊNCIA. NÃO OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É competente o Juízo das Execuções Penais do Estado para a execução da pena imposta a sentenciado pela Justiça Federal, quando recolhido a estabelecimentos sujeitos à administração estadual (Súmula 192 STJ).
+2. O fato de o sentenciado estar residindo em outra comarca não autoriza a modificação da competência para execução da pena.
+3. Agravo regimental a que se nega provimento. (AgRg no CC 141.896/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 24/02/2016, DJe 03/03/2016)
+PENAL E PROCESSO PENAL. CONFLITO POSITIVO DE COMPETÊNCIA. 1. EXECUÇÃO PENAL. PENAS RESTRITIVAS DE DIREITOS. APENADO COM RESIDÊNCIA EM COMARCA DIVERSA. EXPEDIÇÃO DE CARTA PRECATÓRIA. NÃO MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. 2. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. Conquanto seja possível alterar a competência do juízo para a execução e fiscalização da pena, nas hipóteses em que houver a transferência legal do preso, o simples fato de o apenado ter informado que possui residência em comarca diversa não constitui causa legal de deslocamento da competência do Juízo da Execução Penal. Nada obsta, outrossim, que o Juízo determine a expedição de carta precatória àquela localidade para supervisão do desconto da reprimenda.
+2. Conflito conhecido para declarar a competência do Juízo Federal da 3ª Vara Criminal de Cachoeiro de Itapemirm - SJ/ES, o suscitante, determinando, outrossim, ao Juízo de Direito da 2ª Vara de Guaçuí o cumprimento da carta precatória expedida pelo Juízo competente. (CC 140.754/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/06/2015, DJe 22/06/2015)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO À PENA EM REGIME ABERTO. NOVO DOMICÍLIO DO APENADO. INADMISSIBILIDADE DA MUDANÇA DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DA PENA. FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+- Esta Corte possui entendimento firmado no sentido de que ao Juízo da condenação compete a execução da pena, não havendo deslocamento desta competência pela mudança voluntária de domicílio do condenado à pena em regime aberto, devendo ser deprecada ao Juízo do domicílio do apenado a supervisão e acompanhamento do cumprimento da reprimenda determinada.
+- Nesse contexto, in casu, os autos devem retornar ao juízo da condenação (Juízo de Direito da Vara Criminal de Videira - SC), competente para a execução penal, a fim de que determine a expedição de carta precatória ao Juízo de onde reside o apenado para a supervisão do desconto da sua reprimenda.
+Conflito conhecido para declarar competente o Juízo de Direito da Vara Criminal de Videira - SC, o suscitado.
+(CC 131.468/RS, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), TERCEIRA SEÇÃO, julgado em 26/02/2014, DJe 13/03/2014)
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DA 2ª VARA FEDERAL DE RIBEIRÃO PRETO SJ/SP, ora suscitado.
+Publique-se.
+Intimem-se.
