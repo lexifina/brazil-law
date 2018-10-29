@@ -1,0 +1,76 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DO AUTOR.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2. Subsistência de fundamento inatacado, apto, por si só, para manter a conclusão do acórdão recorrido. Incidência, por analogia, do óbice contido na Súmula 283/STF.
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por [NOME], contra decisão monocrática de fls. 364/365 (e-STJ), da lavra deste signatário, a qual negou provimento ao agravo em recurso especial.
+O apelo nobre, por sua vez, amparado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 191/198, e-STJ):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACORDO JUDICIAL. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. ATO ILÍCITO NÃO COMPROVADO.
+1. O acordo homologado em juízo constitui título executivo judicial, não sendo necessário o ajuizamento de nova demanda para obter o cumprimento das obrigações assumidas na transação.
+2. Típico caso em que adequado seria que a parte postulasse, perante o juízo que homologou o acordo, o seu devido cumprimento, onde a entrega da tutela seria mais célere e eficaz. Necessidade premente de racionalizar a máquina judiciária diante das ferramentas processuais existentes sob pena de colapso e ameaça à segurança jurídica.
+APELAÇÃO DO RÉU PROVIDA. APELAÇÃO DO AUTOR PREJUDICADA.
+Opostos embargos de declaração, restaram rejeitados (fls. 218/225, e-STJ).
+Nas razões do especial (fls. 229/254, e-STJ), o agravante apontou, além de divergência jurisprudencial, violação aos artigos 461, § 2º, do CPC/73, 186 e 927 do CC. Sustentou, em síntese, que, homologado acordo judicial, a manutenção indevida de seu nome em órgãos restritivos de crédito, após a quitação do débito, configuraria dano na esfera extrapatrimonial, não havendo falar em prejudicialidade entre a multa por descumprimento de decisão judicial e a indenização por dano moral. Vale dizer, o descumprimento da avença pela demandada, com a manutenção indevida do gravame incidente sobre o veículo quitado, a seu ver, implicaria dano moral indenizável.
+Em juízo de admissibilidade (fls. 296/298, e-STJ), negou-se seguimento ao reclamo, em razão da incidência das Súmulas 7 do STJ e 283 do STF, o que ensejou a interposição de recurso de agravo (art. 544, do CPC/73), buscando destrancar o processamento daquela insurgência, no qual o recorrente impugnou a incidência dos referidos verbetes sumulares (fls. 301/327, e-STJ).
+Contraminuta às fls. 341/354 (e-STJ).
+Por decisão monocrática (fls. 364/365, e-STJ), foi negado provimento ao agravo em recurso especial com fundamento nos enunciados contidos nas Súmulas 211/STJ e 283/STF.
+Inconformado (fls. 369/380, e-STJ), o insurgente interpõe o presente agravo interno, no qual insurge-se acerca dos óbices apontados.
+Impugnação às fls. 385/390 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DO AUTOR.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2. Subsistência de fundamento inatacado, apto, por si só, para manter a conclusão do acórdão recorrido. Incidência, por analogia, do óbice contido na Súmula 283/STF.
+3. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A irresignação não merecer prosperar.
+1. Conforme consignado no decisum recorrido, os elementos existentes nos autos dão conta de que o Tribunal de origem, reformando sentença condenatória, julgou improcedentes os pedidos formulados pelo autor, com fundamento na inadequação da via processual eleita. De acordo com o entendimento firmado pelo Tribunal a quo, o demandante deveria requerer o cumprimento do acordo homologado judicialmente nos próprios autos em que efetivada a transação.
+É o que se extrai do seguinte excerto do aresto impugnado (fls. 195/197, e-STJ):
+ Analisando os autos, verifico que as partes demandavam entre si em ação revisional (114/1.09.0002573-8), havendo chegado a um acordo (instrumento acostado às fls. 15/20). Na transação, restou acertado que o contrato seria quitado pelo valor de R$ 11.780,00, sendo R$ 10.000,00 por meio de pagamento à vista por boleto bancário e R$ 1.780,00 por meio de expedição de alvará dos valores depositados nos autos.
+ Quanto à baixa do gravame e negativação, constou no pacto que estes seriam promovidos pelo banco após o levantamento dos valores depositados em juízo, sendo que o prazo para tanto seria de cinco dias úteis para o caso de restrição e nove dias úteis para os gravames.
+ O acordo foi homologado em 19/04/2012 e o alvará resgatado em 21/03/2013. Dessa forma, o cumprimento do acordo pelo réu teria que ocorrer até o dia 28/03/2013 para o caso da restrição e 05/04/2013 no caso do gravame.
+ No entanto, devo consignar que, em casos como o presente, tenho que apropriado seria que o autor postulasse, nos próprios autos em que efetivado o acordo, o seu devido cumprimento. Àquele juízo, então, seria dada a possibilidade de alcançar à parte o cumprimento da obrigação de forma específica ou mesmo impor medidas coercitivas para o adimplemento da obrigação assumida, dando aos fatos solução mais rápida e efetivando a tutela jurisdicional, na medida em que conhecedor dos fatos envolvidos na lide. Aliás, o acordo homologado, não há dúvidas, constitui título executivo judicial, na forma do art. 475-N, do CPC.
+ Tenho que, paralelo às constantes reclamações relativas à morosidade da justiça, cumpre ao usuário, em especial ao técnico, observar as corretas ferramentas disponibilizadas pelo sistema vigente. O manejo dos remédios processuais indicados, os quais, ainda que possam, nem sempre, se revelar os mais eficientes e, digam-se, eficazes, se bem utilizados, traduzir-se-ão, por certo, em soluções judiciais mais rápidas e, até mesmo, em melhor aproveitamento dos recursos disponíveis. A exemplo das circunstâncias ora em tela, sem dúvidas de que, se não obstadas, um único dever jurídico violado, servirá de objeto de discussão e rediscussão infinitamente, em sucessivas ações judiciais autônomas, já que, à exceção das ferramentas coercitivas (multas, imputação do crime de desobediência e outras), nenhuma garantia se tem de que, na próxima, haverá o adimplemento imediato da condenação pelo devedor. Além disso, não é demais lembrar, o risco de prejuízo à segurança jurídica.
+ O descumprimento de um acordo já homologado apenas poderia dar ensejo a uma demanda indenizatória quando evidenciado um fato novo, como por exemplo no caso de ter sido baixada uma anotação restritiva e, após a transação, fosse promovida nova inscrição, fundada em débito quitado pelo acordo.
+ Assim, a sentença comporta reforma para que seja julgada improcedente.
+Assim, é forçoso reconhecer que o conteúdo normativo inserto nos artigos 461, § 2º, do CPC/73, 186 e 927 do CC não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Ademais, nas razões do especial deixou o insurgente de apontar eventual violação do artigo 1.022, do CPC/15 (artigo 535 do CPC/73), razão pela qual incide, na espécie, a Súmula 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"
+Confira-se, a propósito:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NO TRIBUNAL DE ORIGEM, SOB A PREMISSA DE QUE AS MATÉRIAS EMBARGADAS NÃO HAVIAM SIDO DECIDIDAS. REJEIÇÃO DOS EMBARGOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. HONORÁRIOS. EQUIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Incide a Súmula 211 desta Corte diante da ausência de prequestionamento das teses defendidas no recurso especial, envolvendo os dispositivos legais supostamente violados, apesar de opostos embargos de declaração.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. Havendo omissão, cabe à parte, no recurso especial, alegar ofensa ao art. 535, II do CPC, demonstrando, objetivamente, a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Não o fazendo, incide, da mesma forma, nas disposições da Súmula 211/STJ, pois não basta a alegação genérica de violação ao dispositivo da Lei Processual.
+4. "A fixação da verba honorária pelo critério da eqüidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7." (AgRg no Edecl. No REsp 641.240).
+5. Agravo regimental improvido.
+(AgRg no Ag 723.601/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2008, DJe 06/10/2008).
+Importante consignar, ainda, que, nos termos da jurisprudência desta Casa, para viabilizar a incidência da regra prevista no art. 1.025, do CPC/15 (prequestionamento ficto), deve a parte recorrente alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1.022 do NCPC, de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO. 1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). 2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. 3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017). 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+2. Outrossim, conforme destacado no trecho acima transcrito do aresto impugnado, compreendeu a Corte de origem que o descumprimento do acordo entabulado, por si só, não seria suficiente para configurar hipótese de dano moral. Para tanto, seria necessária a existência de fato novo, o que não se verificou no caso.
+Todavia, conforme ressaltado no decisum ora atacado, olvidou a parte recorrente de impugnar tal fundamentação, atraindo, assim, a incidência do óbice da Súmula 283, do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO DE CONTRATO. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ANTECIPAÇÃO DE TUTELA. ART. 273 DO CPC/1973. REVERSÃO DA MEDIDA DE AVERBAÇÃO DA EXISTÊNCIA DA AÇÃO NO CRI. PERMISSIVO LEGAL. LEI DE REGISTROS PÚBLICOS. FUNDAMENTO INATACADO. SÚMULAS 283 E 284 DO STF. MULTA E HONORÁRIOS RECURSAIS. NÃO CABIMENTO. RECURSO NÃO PROVIDO.
+ ..
+4. Outrossim, a parte agravante se ateve a tecer argumentação genérica no sentido de ausência dos requisitos do art. 273 do CPC/1973. Não cuidou, portanto, de impugnar o fundamento adotado pelo acórdão recorrido de que a medida deferida "serve apenas para advertir terceiros acerca da pendência". Tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284/STF.
+ ..
+(AgInt no AREsp 812.012/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 14/02/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. INTEPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA Nº 5/STJ. FUNDAMENTO INATACADO. SÚMULAS NºS 283 E 284/STF.
+ ..
+5. A ausência de impugnação do fundamento do aresto recorrido enseja a incidência, por analogia, das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+6. Agravo interno não provido.
+(AgInt no AREsp 1117455/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/11/2017, DJe 20/11/2017; grifou-se)
+De rigor, portanto, a manutenção do decisum recorrido.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
