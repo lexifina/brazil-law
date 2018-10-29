@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EVANDRO PEREIRA ANTUNES, em face de acórdão do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o Juízo das Execuções proferiu decisão que, em face da prática de faltas graves pelo paciente, unificou as penas a serem cumpridas pelo paciente, mantendo a data da última infração disciplinar como data-base para a concessão de benefícios.
+Irresignada, a defesa interpôs agravo em execução penal, tendo a Corte local dado parcial provimento ao recurso, apenas para limitar a alteração da data-base à futura progressão de regime.
+Daí o presente writ, em que a Impetrante sustenta, em síntese, que Merece ser cassado o acórdão do Tribunal coator que manteve a decisão do juízo de execução, atinente à alteração da data-base para progressão de regime, tendo em vista que, fazendo análise na legislação, verifica-se que não há nenhuma previsão para a alteração da data-base, quando não há condenação por prática de crime posterior ao início da execução da pena (fl. 2).
+Requer, liminarmente e no mérito, a concessão da ordem para cassar o acórdão vergastado, para afastar a alteração da data-base para fins de obtenção de novos benefícios na execução penal.
+A liminar foi indeferida (fl. 163).
+As Informações foram prestadas (fls. 166-188).
+O Ministério Público Federal ofertou parecer, manifestando-se pela denegação da ordem (fls. 191-193).
+É o relatório.
+DECIDO.
+Conforme relatado, o Tribunal a quo deu provimento ao agravo em execução da acusação, nos seguintes termos (fls. 148-152):
+Adianto que é caso de dar parcial provimento ao agravo tão somente para limitar a alteração da data-base para futura progressão de regime.
+Consta dos autos que o apenado, ora agravante, cumpre pena privativa de liberdade total de 14 (quatorze) anos de reclusão, pela pratica dos delitos de homicídio qualificado e de furto qualificado, tendo iniciado o seu cumprimento em 18AG02012, com previsão de término para 18AG02026.
+Ocorre que sobreveio aos autos a notícia de que o apenado em quatro ocasiões, praticou faltas graves, as quais foram apuradas nos PAD"S n.s 061/2016, 01/2017, 017/2017 e 021/2017.
+Realizada a audiência de justificativa, o apenado optou por permanecer em silêncio (fl. 63).
+Não obstante, o magistrado a quo reconheceu a prática de faltas graves, consistentes em incitação ou participação de movimento para subversão à ordem  pad 061/2016), possuir indevidamente instrumento capaz de ofender a integridade física de outrem, desobediência (pad 01/2017), possuir componente de aparelho telefônico (pad 017/2017) e inobservar os seus deveres (pad 021/2017), homologando os PAD"S instaurados, reclassificando a conduta cercerária e alterando a data-base para futura obtenção de benefícios (exceto para livramento condicional, indulto e comutação).
+Contra esta decisão se insurge a defesa, assistindo-lhe parcial razão.
+Correto o magistrado a quo ao reconhecer a prática de faltas graves, eis que, além de não ter sido ofertada pelo acusado nenhuma justificativa plausível para o ocorrido, que pudesse isenta-lo das faltas praticadas, os PAD"S instaurados, no qual agentes penitenciários depuseram explicitando as circunstâncias fáticas das faltas, mostram-se suficientes para permitir concluir-se que o apenado, efetivamente, praticou os fatos a ele imputados.
+Em suma, as práticas imputadas ao apenado encontram-se, a meu ver, suficientemente comprovadas, e, portanto, servem para demonstrar, principalmente, a sua reiterada falta de comprometimento em cumprir o dever jurídico que lhe foi imposto, razão pela qual reputo correto o reconhecimento das faltas graves.
+Em sendo assim, impositiva a aplicação dos consectários legais, que, no caso concreto, limitaram-se à alteração da conduta carcerária e da data-base.
+A alteração da data-base quando o apenado comete falta grave se mostra impositiva, contudo, esta alteração deve ocorrer apenas para futura progressão de regime, na forma da jurisprudência iterativa deste órgão fracionário. É que a mudança da data-base, quando condenados cometem falta grave, é medida legal e compatível com a sistemática da Execução Penal.
+ ..
+Mister ainda referir, por oportuno, que a fixação de nova data-base tem por objetivo dificultar a concessão de futuros benefícios ao reeducando, o qual demonstrou não ser merecedor daqueles anteriormente deferidos. Autorizar a imediata concessão de benesses, sem fixar novo marco para a contagem do pressuposto objetivo, seria forma de tolerar conduta não condizente com a finalidade maior da Lei de Execução Penal, a ressocialização do apenado.
+Por outro lado, é preciso dizer que a modificação da data-base deve ocorrer tão somente para fins de nova progressão de regime, excetuando-se, portanto, os benefícios do livramento condicional, do indulto e da comutação - tal como procedido pelo magistrado. Essa conclusão decorre do disposto nas Súmulas nº 441, 534 e 535, todas do Superior Tribunal de Justiça.
+ ..
+Portanto, o apenado que comete falta grave deverá reiniciar a contagem do tempo exigido, mas apenas para a concessão de futura progressão de regime, a partir da data da última falta (20MAR2017).
+ ..
+Ante o exposto, dou parcial provimento ao agravo, para limitar a alteração da data-base à futura progressão de regime.
+É o voto.
+Assim como evidenciado, o cerne da impetração consiste em determinar a data que, após a unificação das penas, será considerada como termo inicial para a concessão de novos benefícios.
+Sobre o assunto, é bem verdade que a jurisprudência do STJ adotava o trânsito em julgado da última condenação, por fato posterior ou anterior ao início da execução, como o marco inicial para a concessão de novos benefícios da execução.
+Ocorre que a Terceira Seção, em recente precedente, uniformizou o entendimento jurisprudencial desta Corte, fixando a data da última prisão como marco interruptivo para concessão dos benefícios da execução, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar. Confira-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/2/2018, DJe 15/3/2018.)
+
+Assim, o entendimento das instâncias ordinárias, ao estabelecer a data da última infração disciplinar como marco interruptivo para a concessão de novos benefícios prisionais, está de acordo com a atual jurisprudência desta Corte Superior.
+Ressalte-se que a interrupção do marco para futuros benefícios da condenação não se opera para livramento condicional, indulto e comutação. Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. UNIFICAÇÃO DE PENAS. DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS FUTUROS. DATA DA ÚLTIMA PRISÃO DO REEDUCANDO, RESSALVADAS AS HIPÓTESES DE LIVRAMENTO CONDICIONAL, DE INDULTO E DE COMUTAÇÃO DA PENA.
+1. A decisão agravada está na mais absoluta harmonia com a jurisprudência firmada pela Terceira Seção de que a alteração da data-base em razão da unificação de reprimendas afronta os princípios da legalidade e da individualização das penas por não possuir previsão legal e por implicar excesso de execução, devendo ser preservado o marco interruptivo anterior à unificação, uma vez que sua alteração não pode mais ser consectário imediato do mero somatório das sanções impostas ao reeducando.
+ 2. Agravo regimental desprovido. (AgRg no AREsp n.º 1150292/ Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 29/5/2018.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
