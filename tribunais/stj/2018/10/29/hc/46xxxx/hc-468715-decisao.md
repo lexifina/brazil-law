@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DIEGO RODRIGO PRIMONI ARROYO, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o ora paciente vinha cumprindo pena privativa de liberdade, no regime semiaberto. Sobreveio, então, nova condenação, em relação à qual foi beneficiado pela substituição da sanção corporal por medidas restritivas de direitos, tendo o Juízo das Execuções Penais determinado a reconversão das penas restritivas de direitos em privativa de liberdade e a unificação das penas, mantendo-se o regime intermediário, haja vista a impossibilidade de cumprimento simultâneo das reprimendas.
+Irresignada, a Defesa interpôs agravo em execução, ao qual a Corte de origem negou provimento.
+Daí o presente writ, no qual a Defensoria sustenta, em síntese, que o paciente sofre constrangimento ilegal, uma vez que a conversão da pena restritiva de direitos em privativa de liberdade só é possível, nos termos do § 5º do art. 44 do CP, se a condenação superveniente for à pena privativa de liberdade, não sendo devida a conversão, contudo, nos casos em que a condenação inicial for à pena privativa de liberdade e a seguinte for à pena restritiva de direitos, como ocorreu na hipótese dos autos.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impugnado, e, no mérito, a concessão da ordem para restabelecer as penas restritivas de direitos impostas ao paciente, a serem cumpridas em momento subsequente.
+Indeferida a liminar (fl. 22) e prestadas as informações (fls. 28/58), o Ministério Público Federal manifestou-se pelo não conhecimento do writ, mas pela concessão da ordem de ofício para cassar a decisão de reconversão da pena restritiva de direitos aplicada ao paciente (fls. 60/65).
+É o relatório.
+DECIDO.
+Sobre o tema, assim se entabulou no voto condutor (fls. 102/103):
+Com efeito, não assiste razão ao agravante.
+Verte dos autos que o sentenciado cumpria pena no regime semiaberto, quando lhe sobreveio condenação, cuja pena privativa de liberdade foi substituída por restritiva de direitos.
+Diante disso, determinou o juízo a quo a reconversão da pena restritiva dc direitos em privativa de liberdade, fixando o regime intermediário como prevalente.
+Pois bem.
+O critério que deve ser observado pelo juízo da execução para a unificação das penas está descrito no art. 111 da Lei de Execução Penal:
+"Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição"
+Acerca do tema, leciona Guilherme de Souza Nucci:
+"(..) todas as penas aplicadas ao réu concentrar-se-ão em uma única Vara de Execução Criminal, normalmente a da Comarca onde ele estiver preso ou Jvcar domicílio (caso se encontre em liberdade). Por isso, cabe ao juiz que controla todas as suas condenações promover a necessária somatória das penas e verificar a adequação do regime imposto, bem como dos beneficios auferidos. (..) Exemplificando: a) o réu recebe três penas de três anos, por diversos crimes dolosos, em Varas diferentes; cada magistrado, na sentença condenatôria, concede-lhe a substituição por penas restritivas de direitos. Quando as trés condenações chegarem ã Vara da Execução Penal, o juiz promoverá a somatória, verificará o total de nove anos de reclusão e deverá cassar o beneficio da pena alternativa, inserindo o condenado no regime fechado. (..)"  in Leis penais  processuais penais comentadas, 5 ed., São Paulo: Revista dos Tribunais, 2010, p. 544-545).
+Cabe ainda ressaltar que a única condição para que as penas restritivas de direitos sejam mantidas é que possam ser executadas simultaneamente com eventuais sanções corporais, independentemente de a condenação substituída ser anterior ou posterior à pena privativa de liberdade imposta.
+Pode se citar, como exemplo, o sentenciado que cumpre penas em regime prisional aberto e é condenado a privativa de liberdade não o impede de cumprir as condições impostas pela pena restritiva de direitos.
+Assim, malgrado disponha o art. 76 do Código Penal que, no concurso de infrações, executar-se-á primeiramente a pena mais grave, referido comando não se aplica quando a natureza das reprimendas é distinta, como no caso em tela, em que há discrepância entre a reprimenda corporal e a pena restritiva de direitos.
+Portanto, para que não houvesse a reconversão da pena restritiva de direitos em privativa de liberdade, seria necessária a possibilidade do cumprimento simultâneo da pena restritiva de direitos com a privativa de liberdade.
+Acerca do tema:
+"Agravo em Execução Superveniência de nova condenação Conversão da pena restritiva de direitos anteriormente imposta, em privativa de liberdade - unificação das penas - não incidência do art. 76 do CP Observância do art. 44, §5º do CP c.c. 181, da LEP - Termo a quo para a obtenção de benefícios a partir do trânsito em julgado da nova condenação Precedentes do STJ e do STF Recurso não provido" (Agravo em Execução Penal n.º 0160320-73.2013.8.26.0000, Rei. [NOME], j. em 29.05.2014).
+E a solução que se afigura necessária, diante dessa incompatibilidade, é a reconversão.
+A propósito, precedente do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PACIENTE QUE CUMPRIA PENA PRIVATIVA DE LIBERDADE. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO A PENAS RESTRITIVAS DE DIREITOS. POSSIBILIDADE DE UNIFICAÇÃO DAS REPRIMENDAS. OBSERVÂNCIA DA REGRA INSERTA NO ART. 111 DA LEI DE EXECUÇÕES PENAIS. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO.
+1. O entendimento firmado nesta Corte é de que, sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas. (HC 326.481/RS, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/08/2015, DJe 01/09/2015).
+2. Independentemente de a condenação à pena restritiva de direitos ser anterior ou posterior à sanção privativa de liberdade, o único critério utilizável para manter a pena substitutiva
+é a compatibilidade de cumprimento simultâneo das reprimendas, quando da unificação. (HC 328.923/SP, Rei. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 19/11/2015, Dje 09/12/2015). 3. Agravo Regimental improvido". (AgRg no HC 311.138/SP, Rei. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/03/2016, Dje 15/03/2016 sem destaque no original).
+Nada, portanto, que se alterar.
+Ante o exposto, pelo meu voto, nego provimento ao recurso.
+Com efeito, a conversão das penas restritivas de direitos em privativa de liberdade encontra regulação nos arts. 44, §§ 4º e 5º, do Código Penal, e 181 da LEP.
+A jurisprudência desta Corte Superior firmou-se no sentido de que a conversão das penas alternativas em privativa de liberdade, na fase de execução, restringe-se ao eventual descumprimento injustificado de quaisquer das obrigações impostas ou quando, em superveniente condenação, por outro crime, houver incompatibilidade com a reprimenda corporal aplicada e não suspensa, seja ela anterior ou posterior (art. 44, §§ 4º e 5º, do CP, c/c art. 181, § 1º, e, da LEP), conforme se verifica na hipótese dos autos. A propósito:
+AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. PACIENTE QUE CUMPRIA PENA PRIVATIVA DE LIBERDADE EM REGIME SEMIABERTO. NOVA CONDENAÇÃO A SANÇÕES ALTERNATIVAS. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. UNIFICAÇÃO DAS PENAS (ARTS. 76 E 111 DO CP E ART. 181, § 1º DA LEP). INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. ENTENDIMENTO CONSOLIDADO. DECISÃO MONOCRÁTICA. ADMISSIBILIDADE.
+1. Inexiste violação ao princípio da colegialidade, a teor do art. 34, XX, do RISTJ, quando a decisão monocrática for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça.
+2. É pacífico o entendimento desta Corte segundo o qual, havendo nova condenação no curso da execução e não sendo compatível o cumprimento concomitante da reprimenda restritiva de direitos com a privativa de liberdade anteriormente imposta, faz-se necessária a unificação das penas (art. 181, § 1º, e, da LEP e art. 44, § 5º, do CP).
+3. Agravo regimental improvido.
+(AgRg no HC 381.235/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. APENADO EM REGIME FECHADO. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO COM PENA RESTRITIVA DE DIREITOS. INCOMPATIBILIDADE E IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO. RECONVERSÃO.
+1. É assente neste Superior Tribunal de Justiça o entendimento de que, quando sobrevier nova condenação que, não sendo suspensa, tornar incompatível o cumprimento da pena restritiva de direitos com a pena privativa da liberdade, posterior ou anterior, deve-se reconverter a pena substitutiva em reprimenda corporal (art. 181, §1º, alínea "e", da LEP, c/c artigo 44, §5º, do Código Penal).
+2. Agravo regimental improvido.
+(AgRg no REsp 1.610.082/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 23/08/2016, DJe 01/09/2016).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
