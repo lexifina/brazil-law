@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de Ação Direta proposta pelo Governador do Estado do Paraná em face do art. 7º da Lei Estadual 11.054/1995, que tratou da regulamentação da compensação de reserva florestal. A redação original desse dispositivo decorria do art. 1º da Lei 14.582/2004. O Autor da ação apresentou aditamento ao pedido inicial, para incluir a nova redação do art. 7º da Lei 11.054/1995 conferido pela Lei 15.001/2006 (fls. 234-250).
+    Em 1º/2/2018, liberei relatório e solicitei pauta para julgamento definitivo da ação. No entanto, considerando a impossibilidade de agendamento, em face do elevado número de processos submetidos ao Plenário desta SUPREMA CORTE, concedi parcialmente a medida cautelar pleiteada, em 12/6/2018, ad referendum, para suspender a eficácia do § 1º do art. 7º da Lei Estadual 11.054/1995, com a redação dada pela Lei Estadual 15.001/2006 (peça 8).
+    É o relatório.
+    A informação disponível nos autos indica a vigência atual do art. 7º da Lei Estadual 11.054/1995, na redação da Lei Estadual 15.001/2006, conforme noticiado pelo Governador do Estado do Paraná. Inclusive, a decisão cautelar proferida em 12/6/2018 tratou da constitucionalidade desse texto normativo.
+    No entanto, por meio de consulta ao sítio eletrônico da Assembleia Legislativa do Estado do Paraná, constata-se que o dispositivo legal impugnado – o art. 7º da Lei Estadual 11.054/1995 – foi expressamente revogado pela Lei Estadual 18.189/2014, cujo teor segue transcrito:
+    Art. 1º Revoga:
+    I - o art. 7º e o art. 63, ambos da Lei nº 11.054, de 11 de janeiro de 1995, que dispõe sobre a Lei Florestal do Estado; e
+    II - a Lei nº 13.448, de 11 de janeiro de 2002, que dispõe sobre a auditoria ambiental compulsória.
+    Em vista da edição da Lei Estadual 18.189/2014, a despeito desse fato não ter sido oportunamente noticiado pelos interessados, impõe-se reconhecer que a ação encontra-se destituída das condições necessárias ao seu prosseguimento. Com a novel legislação, a norma impugnada foi integral e expressamente revogada.
+    A jurisdição constitucional abstrata brasileira não admite o ajuizamento ou a continuidade de ação direta de inconstitucionalidade de lei ou ato normativo já revogado ou cuja eficácia já tenha se exaurido, independentemente do fato de terem produzido efeitos concretos residuais (ADI 709, Rel. Min. PAULO BROSSARD, DJ de 20/6/1994, ADI 3885, Rel. Min. GILMAR MENDES, Pleno, DJe de 28/6/2013; ADI 2971 AgR, Rel. Min. CELSO DE MELLO, DJe de 13/2/2015; ADI 5159, Rel. Min. CÁRMEN LÚCIA, DJe de 16/2/2016; e ADI 3408 AgR, Rel. Min. DIAS TOFFOLI, DJe de 15/2/2017), sob pena de transformação da jurisdição constitucional em instrumento processual de proteção de situações jurídicas pessoais e concretas (ADI 649, Pleno, Rel. Min. PAULO BROSSARD, DJ de 23/9/1994; ADI 870-QO, Pleno, Rel. Min. MOREIRA ALVES, DJ de 20/8/1993).
+    Nas hipóteses de revogação do ato impugnado, antes do julgamento final da ação, ocorrerá a prejudicialidade desta, por perda do objeto (ADI 748-QO, Pleno, Rel. Min. CELSO DE MELLO, DJ de 15/10/2006). Caberia ao requerente o ônus de apresentar eventual pedido de aditamento, caso entenda subsistentes quaisquer das inconstitucionalidades originalmente alegadas. No entanto, transcorreram-se quatro anos desde a promulgação da norma revogadora sem que fosse promovida qualquer providência, nem mesmo por ocasião da decisão monocrática que suspendeu parte da eficácia do texto originariamente impugnado.
+    Ante o exposto, REVOGO a medida cautelar concedida pela decisão monocrática de 12/6/2018 (peça 8) e JULGO EXTINTO o processo sem resolução de mérito, com base no art. 21, IX, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL e no art. 485, VI, do Código de Processo Civil.
+    Considerando a extinção do processo, fica prejudicado o pedido de pauta de julgamento.
+    Publique-se.
+    Brasília, 29 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
