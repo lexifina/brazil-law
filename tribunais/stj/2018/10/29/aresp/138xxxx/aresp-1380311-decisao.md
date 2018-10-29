@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Alagoas contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 162):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDORES PÚBLICOS ESTADUAIS. ADICIONAL DE INSALUBRIDADE. TESE DE JULGAMENTO EXTRA PETITA. AFASTADA. COMPATIBILIDADE DO RECEBIMENTO DO BENEFÍCIO COM O REGIME DE SUBSÍDIO. DIREITO SOCIAL DOS TRABALHADORES URBANOS E RURAIS EXTENSÍVEL AOS SERVIDORES PÚBLICOS. BASE DE CÁLCULO DO ADICIONAL. SUBSÍDIO MÍNIMO DA CATEGORIA A QUE PERTENCEM OS SERVIDORES. UNIFORMIZAÇÃO DA JURISPRUDÊNCIA DESTE TRIBUNAL DE JUSTIÇA PELO PLENO. SUBSÍDIO MÍNIMO DA CATEGORIA QUE SÓ TERÁ APLICABILIDADE ATÉ A ENTRADA EM VIGOR DA LEI ESTADUAL Nº 7.817/2016 (20/09/2016), QUE ESTABELECEU NOVOS VALORES PARA O INDEXADOR AQUI PLEITEADO. ADEQUAÇÃO DOS JUROS E CORREÇÃO MONETÁRIA. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 240 do CPC/2015 e 405 do CCB. Afirma que, tratando-se de sentença ilíquida, o termo inicial da correção monetária e dos juros de mora é da citação.
+É o relatório.
+O inconformismo não prospera.
+Quanto ao termo inicial dos juros de mora, colhe-se do acórdão estadual a seguinte passagem (fls. 173/175):
+Impõe-se a adequação dos termos de incidência dos consectários legais, nos termos do art. 491, § 2º, do CPC/2015.
+Nesse sentido, tem-se que sobre os juros de mora incidentes no pagamento de verbas devidas a servidor público, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que tal delimitação decorre da liquidez da obrigação.
+Assim, quando a obrigação é líquida, os juros moratórios devem incidir a partir do vencimento da obrigação, nos termos do art. 397, caput, do Código de Civil de 2002; por sua vez, tratando-se de obrigação ilíquida, o termo inicial será a data da citação quando a interpelação for judicial, com fulcro no art. 397, parágrafo único, do Código Civil de 2002, e no art. 219, caput, do Código de Processo Civil/73, atual art. 240, do CPC/2015.
+(..)
+Nesse contexto, levando em conta que a sentença determinou a extensão da obrigação e que, a seguir, estabeleço os respectivos termos iniciais, entendo que se trata, sim, de hipótese em que a obrigação é líquida, de modo que os juros devem incidir a partir do vencimento da obrigação.
+A alteração da conclusão adotada pela instância ordinária, acerca da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
