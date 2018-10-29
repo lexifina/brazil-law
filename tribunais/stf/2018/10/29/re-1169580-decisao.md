@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo do Paraná quanto à competência da Justiça estadual para julgamento da demanda, considerada ausência de interesse da União. No extraordinário, o recorrente aponta a violação ao artigo 109, inciso I, da Constituição Federal. Diz ser competente a Justiça Federal, porque em discussão matérias afetas ao Ministério da Educação.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, colho do acórdão recorrido o seguinte trecho:
+    Verifico que, no que diz com o cerne do litígio, consistente no fornecimento do diploma registrado, do qual decorre eventual postulação indenizatória, não restou demonstrada qualquer participação comissiva ou omissiva da União Federal determinante para a concretização dos atos atacados e eventuais danos causados, que, em princípio, emanam exclusivamente dos órgãos diretivos da educação no Estado do Paraná, na condição de autorizadores do funcionamento de um curso supostamente irregular, e da instituição de ensino que ofertou o aludido curso, a quem cabe, de forma exclusiva e específica, nos moldes do artigo 53, inciso VI, da Lei n.º 9.394/96, proceder à expedição e ao registro dos certificados de conclusão de curso superior.
+    A mera promulgação do Parecer n.º 139/2007 pelo Conselho Nacional de Educação ou a invocação genérica da função reguladora e fiscalizatória do sistema federal de ensino superior exercida pelo Ministério da Educação e Cultura - MEC não fazem da União a responsável pela negativa de entrega dos diplomas registrados, tampouco a torna juridicamente interessada em demanda proposta por particular na qual se discute eventual descumprimento de seus atos normativos.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula desta Corte:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Somente pelo reexame do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Nego seguimento a este extraordinário.
+    4. Publiquem.
+Brasília, 29 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
