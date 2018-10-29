@@ -1,0 +1,55 @@
+DECISÃO
+Tratam os autos de agravo em recurso especial interposto por FÁBIO SOARES JANOT e LÊDA MARIA SOARES JANOT contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Distrito Federal e Territórios (TJDFT) que inadmitiu seu recurso especial.
+Historiam os autos que FÁBIO SOARES JANOT e LÊDA MARIA SOARES JANOT propuseram execução por quantia certa em desfavor de NEIDE BITTENCOURT DE BARROS, cuja pretensão foi declarada prescrita, conforme sentença às fls. 281-284.
+Inconformados, FÁBIO SOARES JANOT e LÊDA MARIA SOARES JANOT recorreram, tendo o eg. TJDFT negado provimento à apelação, conforme v. acórdão assim ementado (fl. 326-327):
+"APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. INSTRUMENTO PARTICULAR. CONTRATO DE PRESTAÇÃO DE SERVIÇOS JURÍDICOS E DE ASSESSORIA. AUSÊNCIA DE CITAÇÃO DO DEVEDOR. PRAZO PRESCRICIONAL. NÃO INTERRUPÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA RECONHECIDA. DEMORA DA CITAÇÃO NÃO IMPUTÁVEL AOS SERVIÇOS JUDICIÁRIOS. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. A prescrição é matéria de ordem pública, podendo ser reconhecida de ofício, a qualquer tempo e em qualquer grau de jurisdição nas vias ordinárias.
+2. A interrupção da prescrição, pelo despacho do juiz, retroage à data da propositura da ação somente se o autor promover o ato citatório dentro do prazo estabelecido nos §§2º e 3º do art. 219 do CPC. A inobservância do prazo frustra o efeito interruptivo do despacho inicial, a teor do que estatui o aludido artigo 219, § 4º, do CPC. Ultrapassado o prazo, a interrupção da prescrição ocorre somente quando efetivamente ocorrer a citação válida.
+3. Transcorrido o prazo prescricional de cinco anos da pretensão executória sem a satisfação do crédito, e não ocorrendo causas interruptivas, evidente a ocorrência da prescrição.
+4. Não há que se falar em demora para efetivar da citação imputável aos serviços judiciários, na medida em que todas as diligências requeridas pelo autor com o fim de localizar o endereço correto e atual do réu foram deferidas pelo Juízo.
+5. Recurso conhecido e não provido. Sentença mantida."
+Os embargos de declaração foram rejeitados (acórdão às fls. 339-344).
+Irresignados, FÁBIO SOARES JANOT e LÊDA MARIA SOARES JANOT interpuseram recurso especial com arrimo nas alíneas "a" e "c" do permissivo constitucional no qual aponta, além de dissídio jurisprudencial, ofensa aos arts. 1.022, 240, §§ 2º a 4º, do Código de Processo Civil de 2015, bem como ao art. 202 do Código Civil de 2002. Aduz, em suma, que a demora na citação se deu em função da desídia do judiciário, de modo que o prazo prescricional deveria ter sido interrompido.
+Como dito, o apelo nobre foi inadmitido (fls. 429-431), motivando o manejo do presente agravo em recurso especial (fls. 435-442).
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, considerando que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplica-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, no tocante à alegação de ofensa ao art. 1.022 do CPC/15, necessário ressaltar que não se verifica violação ao mencionado dispositivo quando o Tribunal a quo dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional. Confira-se:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. TEMPESTIVIDADE DO AGRAVO. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. ALEGAÇÃO DE CONFIGURAÇÃO DE NOVAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+ ..
+4. Embargos de declaração acolhidos, com atribuição de efeitos infringentes, para afastar a intempestividade do agravo em recurso especial, e, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conhecer do agravo para negar provimento ao recurso especial."
+(EDcl no AgInt no AREsp 1110390/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/09/2018, DJe 27/09/2018 - grifou-se)
+Prosseguindo nas razões do apelo nobre, tem-se que, ao apontar violação aos arts. 240, §§ 2º e 4º, do CPC/15 e 202 do CC/2002, o recorrente sustenta que não ocorreu a prescrição, tendo em vista que a demora na citação se deu por exclusiva demora do judiciário. O TJDFT, por sua vez, soberano na análise do acervo fático-probatório, consignou que não há que se falar em demora imputável ao judiciário, na medida em que todas as diligências requeridas pelo autor com o fim de localizar o endereço correto do réu foram deferidas, mas sem sucesso em citar o executado. Confira-se excerto do v. acórdão recorrido (fls. 333-334):
+"No caso em análise, não houve durante o curso do prazo prescricional qualquer causa interruptiva da prescrição. Ultrapassado o prazo prescricional de cinco anos da pretensão executória sem a satisfação do crédito, e não ocorrendo causas interruptivas, evidente a ocorrência da prescrição.
+Não há que se falar em demora imputável aos serviços judiciários, na medida em que "todas as diligências requeridas pelo autor com o fim de localizar o endereço correto e atual do réu foram deferidas pelo Juízo a quo.
+O credor se valeu de inúmeras diligências, entretanto, não obteve êxito em citar o executado, tampouco encontrou bens para a satisfação do crédito."
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu que a demora na citação não se deu em razão da demora do judiciário, de modo que se operou a prescrição no presente caso. Desse modo, tem-se afastar tal entendimento e acatar, sob alegada ofensa aos dispositivos mencionados, que a demora na citação se deu em função da desídia do judiciário demandaria o reexame do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula n. 7 do STJ.
+A propósito, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO DIREITO INTERTEMPORAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. AÇÃO DE EXECUÇÃO. NOTAS PROMISSÓRIAS. OMISSÃO NÃO CARACTERIZADA. PRESCRIÇÃO. OCORRÊNCIA. CITAÇÃO REALIZADA APÓS O TRANSCURSO DO PRAZO DO ART. 219, §§ 2º E 4º, DO CPC/1973. ERRO NO ENDEREÇO DO RÉU. FATO IMPUTÁVEL AO AUTOR. RETROAÇÃO DA INTERRUPÇÃO DA PRESCRIÇÃO OPERADA PELO ATO CITATÓRIO À DATA DA PROPOSITURA DA AÇÃO. INVIABILIDADE. PRECEDENTES. TESE RECURSAL DE INCIDÊNCIA DA SÚMULA 106/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+ ..
+8. A modificação do entendimento do eg. Tribunal de origem, de que o mandado citatório não pôde ser cumprido, de forma tempestiva, por culpa da própria agravada, que não soube informar o endereço correto do réu, o que afasta a retroação do efeito interruptivo da prescrição à data do ajuizamento da ação, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Precedentes.
+9. Agravo interno a que se nega provimento."
+(AgInt no AREsp 171.157/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 30/08/2018, DJe 04/09/2018 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - CHEQUE - DEMORA NA CITAÇÃO NÃO ATRIBUÍVEL AO PODER JUDICIÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+ ..
+2. O Tribunal de origem, com base na análise dos elementos fáticos dos autos, entendeu que houve a implementação da prescrição no caso concreto, em razão da demora do autor em promover a citação da demandada. Dessa forma, a reforma do acórdão recorrido, para se entender pela inocorrência da prescrição no caso concreto, demandaria, inevitavelmente, a incursão no acervo fático-probatório, prática vedada pela Súmula 07 do STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 742.484/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 10/05/2018 - grifou-se)
+ Por fim, tem-se que o entendimento atual desta Corte é no sentido de que a incidência da Súmula 7 do STJ é óbice também para análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito, vide os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. IMÓVEL COMERCIAL. 1. CONTRATO DE LOCAÇÃO. RELAÇÃO LOCATÍCIA COMPROVADA. INADIMPLEMENTO CONFIGURADO. REVISÃO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. ACÓRDÃO RECORRIDO E ACÓRDÃO PARADIGMA ORIUNDOS DO MESMO TRIBUNAL. INCIDÊNCIA DA SÚMULA 13/STJ. 4. AGRAVO IMPROVIDO.
+ ..
+2. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em conta a situação fática de cada caso.
+ ..
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1207945/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/06/2018, DJe 28/06/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO AGRAVO INTERNO PARA RECONSIDERAR DECISÃO ANTERIOR E NEGAR PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+ ..
+3. A respeito da pretensão recursal com fulcro na alínea "c" do permissivo constitucional, esta Corte de Justiça tem entendimento no sentido de que a incidência do óbice sumular nº7 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+4. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 917.083/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe 28/05/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
