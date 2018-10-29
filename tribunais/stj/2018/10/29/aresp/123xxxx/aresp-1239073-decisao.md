@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC), interposto por [NOME] em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 194/195):
+PROCESSO CIVIL  JULGAMENTO CITRA PETITA  INOCORRÊNCIA  NULIDADE NÃO VERIFICADA  Infere-se do exame da sentença que os pedidos especificados na petição inicial foram analisados, não se verificando a nulidade arguida  Sendo apresentados os fundamentos, suficientes, pelos quais se concluiu pela improcedência dos pedidos formulados na inicial, com o devido exame destes pedidos, não há que se falar em julgamento citra petita  Preliminar rejeitada.
+PROCESSO CIVIL  JULGAMENTO ANTECIPADO DO PEDIDO  NULIDADE  INOCORRÊNCIA  Incumbe ao julgador o exame das provas necessárias e pertinentes ao julgamento na forma do art. 130 do CPC  Ausência de qualquer início de prova quanto à nulidade do título ou de operações anteriores, tratando-se, ademais, com relação às cláusulas contratuais, de matérias que já foram reiteradamente examinadas por nossos Tribunais, não sendo devidamente justificada a dilação probatória para o julgamento  Preliminar rejeitada.
+EXECUÇÃO  DEMONSTRATIVO DE DÉBITO  ATENDIMENTO SUFICIENTE À NORMA DO ART. 614, 11 DO CPC  Infere-se do exame dos documentos juntados pelas partes que a memória de cálculo apresentada pelo exequente traz a relação das parcelas pagas e das que estão em aberto, bem como do percentual da taxa de juros para o período de normalidade contratual, bem como dos encargos incidentes sobre as parcelas inadimplidas  Preliminar rejeitada.
+AÇÃO DE EXECUÇÃO  CONTRATO BANCÁRIO  CAPITALIZAÇÃO MENSAL -DE JUROS PREVISÃO NO INSTRUMENTO  ADMISSIBILIDADE  Infere-se dos autos que o contrato em discussão foi celebrado após a Medida Provisória 1.963-17/00, reeditada sob o número 2.170-36/01 e há de expressa previsão contratual quanto à capitalização de juros com periodicidade inferior à anual  Observância do decidido no Recurso Especial 973.827/RS sob o rito dos recursos repetitivos (CPC, art. 543-C)  Inexistência, ademais, de inconstitucional idade, tendo em vista não haver ainda decisão definitiva na ADI 2.316, cujo objeto versa sobre a constitucional idade do art. 5º da MP nº 2.170/01, estando o ato normativo em pleno vigor, devendo ser observado ainda o já decidido pelo STF no RE 592.377  Recurso não provido.
+AÇÃO DE EXECUÇÃO  CONTRATO BANCÁRIO  JUROS REMUNERATÓRIOS  Conforme precedentes de nossos Tribunais e observando-se a Súmula Vinculante 07 do Supremo Tribunal Federal, admissivel a cobrança de juros remuneratórios em patamar superior a 12% ao ano  Não sendo, ademais, demonstrada a abusividade dessa cobrança, impõe-se a manutenção da taxa contratada para o período de normalidade  Recurso não provido.
+AÇÃO DE EXECUÇÃO  CONTRATO BANCÁRIO  EXAME DA PROVA DOCUMENTAL  ILEGALIDADES NÃO DEMONSTRADAS  Infere-se do exame da inicial que não foram mais bem justificadas as nulidades arguidas com relação a eventual vício de consentimento, não observância da boa-fé contratual, ou dever de informação e aconselhamento  Hipótese, ademais, que não foi trazido nenhum inicio de prova quanto a lançamentos de operações bancárias anteriores, como a alegada cobrança de tarifa de adiantamento a depositante, não sendo juntados extratos bancários com a inicial  Caso, ainda, em que a  prova documental demonstra que os valores foram acrescidos apenas de correção monetária e juros de mora, não sendo demonstrada efetiva cobrança de comissão de permanência ou cumulação indevida de encargos  Recurso não provido.
+Opostos embargos de declaração, estes foram rejeitados (fls. 218/223).
+Nas razões do recurso especial (fls. 226/235), a parte insurgente apontou ofensa aos arts. 614, II, do CPC/73; 28, § 2º, da Lei n. 10.931/04; e 798, parágrafo único, do NCPC.
+Sustentou, em síntese, que a execução fundada em cédula de crédito comercial deve trazer, junto com a petição inicial, o demonstrativo analítico da dívida, apontando, inclusive, quais valores já teriam sido pagos pela parte executada, sob pena de extinção da demanda executória.
+Contrarrazões às fls. 241/245.
+Inadmitido o apelo, os autos subiram ao exame do STJ mediante a interposição do agravo (art. 1.042 do NCPC).
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Não compete a esta Corte Superior verificar se planilha de cálculos apresentada pela instituição financeira exequente é capaz de demonstrar a liquidez do título exequendo, pois isso demandaria exame de fato incompatível com o recurso especial, atraindo o óbice da Súmula 7/STJ.
+Com o mesmo raciocínio, podem ser citados os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO. OBRIGAÇÃO LÍQUIDA E CERTA. INEXISTÊNCIA DE DEMONSTRATIVO DA EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO NÃO PROVIDO.
+1. Consoante entendimento desta Corte, "A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa" (AgRg no REsp 1.038.215/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 19/11/2010).
+2. No caso dos autos, a Corte de origem afirmou que não foram preenchidos os requisitos exigidos para conferir liquidez, certeza e exigibilidade da cédula de crédito, pois o demonstrativo apresentado não mostra a evolução da dívida desde a contratação, nem os encargos aplicados, não deixando evidenciado, desse modo, como foi apurado o valor do débito cobrado. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem exigiria novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. Para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ.
+Contudo, na hipótese dos autos, não houve essa demonstração.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1594688/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/12/2016, DJe 19/12/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO. INEXISTÊNCIA DE DEMONSTRATIVO DA EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. A cédula de crédito bancário é título executivo, apto a instruir a ação de execução, ainda que o débito tenha origem em contrato de abertura de crédito, porém a inicial deverá vir acompanhada, também, de demonstrativo da evolução da dívida.
+2. Rever as conclusões do acórdão recorrido acerca da inexistência de demonstrativo da evolução do débito demandaria o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça 3. Agravo regimental não provido.
+(AgRg no AREsp 566.565/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/06/2015, DJe 06/08/2015)
+Assim, como o Tribunal de justiça anotou que a planilha anexada à petição inicial é adequada, incide o óbice da Súmula 7/STJ, no tocante a pretensão da insurgente.
+A propósito, colhe-se do acórdão recorrido:
+Os cálculos trazidos pelo exequente indicam as parcelas liquidadas e as que estão em aberto, os juros remuneratórios do período de normalidade contratual e os encargos cobrados para as parcelas inadimplidas.
+Foi cumprida, assim, suficientemente a norma do art.
+614, II do Código de Processo Civil.
+2. Ante o exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nego provimento ao agravo.
+Condeno a parte recorrente a pagar R$ 100,00 (cem reais) a título de honorários recursais.
+Publique-se.
+Intimem-se.
