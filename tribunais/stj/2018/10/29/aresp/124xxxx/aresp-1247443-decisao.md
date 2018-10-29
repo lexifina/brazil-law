@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. RECURSO ESPECIAL. AUSÊNCIA DE DISCUSSÃO PELO TRIBUNAL A QUO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211, do STJ e 282, do STF. PREQUESTIONAMENTO FICTO (ART. 1.025 DO NCPC). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO NCPC. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+BANCO DO BRASIL S.A interpôs agravo de instrumento contra decisão proferida na ação declaratória c/c indenização por danos morais na fase de cumprimento de sentença ajuizada por NEIDE ALVES DA SILVA (NEIDE), que considerou intempestiva a impugnação.
+O Tribunal de origem negou provimento, em acórdão assim ementado:
+CUMPRIMENTO DE SENTENÇA - INTEMPESTIVIDADE - ALEGAÇÃO DE EXCESSO DE EXECUÇÃO - MATÉRIA DE DEFESA, SEM CONSTITUIR QUESTÃO DE ORDEM PÚBLICA - EXECUÇÃO EXTINTA POR SENTENÇA ANTERIOR - RECURSO IMPROVIDO (e-STJ, fl. 142).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 164/166).
+Inconformado, BANCO DO BRASIL interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação do art. 525, V do NCPC, alegando a ocorrência de excesso de execução.
+Afirmou que a matéria é de ordem pública, devendo ser conhecida a qualquer tempo.
+Em juízo de admissibilidade, a presidência da seção de direito privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 202/205).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+A Corte de origem negou provimento ao agravo sob os seguintes fundamentos (1) excesso de execução não é matéria de ordem pública e sim, de defesa, a ser alegada na impugnação ao cumprimento de sentença; e, (2) prejudicada a análise do alegado excesso de execução ante a ocorrência de preclusão.
+O banco recorrente, por sua vez, nas razões do especial, limitou-se a defender a ocorrência de excesso de execução, afirmando que os cálculos apresentados pela exequente ora recorrida NEIDE apresentavam valores totalmente exorbitantes.
+Assim, verifica-se que não houve discussão pela turma julgadora acerca da ocorrência ou não do alegado excesso de execução, pois os julgadores entenderam que referida análise fora prejudicada ante a ocorrência de preclusão, ou seja, referido tema não foi apreciado na instância a quo, apesar da interposição de embargos de declaração, inexistente, portanto, o prequestionamento, impedindo a via de acesso ao apelo excepcional. Incidente as Súmulas nºs 211, do STJ e 282, do STF.
+Ressalte-se que a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que seja indicada violação ao art. 1.022, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. 1. LUCROS CESSANTES. CABIMENTO. PRESUNÇÃO DE PREJUÍZO. 2. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC/2015). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO CPC/2015. 4. RESTITUIÇÃO DE VALORES PAGOS COM COTAS CONDOMINIAIS E IMPOSTOS ANTES DA IMISSÃO NA POSSE. POSSIBILIDADE. PRECEDENTES. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. 5. AGRAVO IMPROVIDO.
+1.  ..
+2. Não tendo sido enfrentada a questão ou a tese relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento, incidindo os óbices das Súmulas 282 e 356 do STF.
+3. De fato, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+4. Segundo a jurisprudência do STJ, as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697414/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 5/12/2017, DJe 15/12/2017 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. NECESSIDADE DE ADUZIR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. SÚMULA 7/STJ. DEVER DE INDENIZAR. CONFIGURAÇÃO. SÚMULA 7/STJ.
+1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. A Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, consignou existir a legitimidade passiva do ora recorrente para figurar na relação jurídica processual tendo em vista tanto o contrato de prestação de serviços de plano de saúde celebrado entre os ora agravados, quanto o convênio firmado entre o plano de saúde e o hospital, ora recorrente. A reforma do aresto hostilizado demandaria revolvimento do material fático probatório dos autos e interpretação contratual, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. É inviável, na hipótese vertente, a análise da presença ou não dos requisitos ensejadores da responsabilidade civil, porquanto demandaria análise do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1144413/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 7/11/2017, DJe 14/11/2017 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
