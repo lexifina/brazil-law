@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 1ª VARA DE MANHUAÇU - SJ/MG, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL E DE INFÂNCIA E JUVENTUDE DE CARATINGA - MG, suscitado.
+Consta dos autos que o Juízo suscitante encaminhou carta precatória para o Juízo de Direito para a oitiva de seis réus com endereços naquela Subseção Judiciária.
+Ao receber a carta precatória, o Juízo suscitado determinou sua devolução à origem, afirmando que as razões apresentadas não são suficientes para justificar a audiência na forma requerida, porque embora não se admita como absoluto o princípio da identidade física do juiz, sofrendo mitigações no desdobramento da territorialidade por impossibilidade de cumprimento do ato na circunscrição de origem, sua exceção há de ter por fundamento motivo legítimo e razoável, e não mera comodidade aos interessados.
+Diante disso, salientou que as cidades distam apenas 78 km, em estrada de boa qualidade. E quem reside na região, sabe que a população local é bastante habituada a deslocar-se e percorrer este caminho em curto espaço de tempo. Não se apresenta como sacrifício extremado  ..  Não se encontram nos autos razões expressas que justificassem impossibilidade dos réus de comparecerem a sede da subseção judiciária de Manhuaçu/MG (fls. 14/15).
+O Juízo Federal da 7ª Vara Criminal da Seção Judiciária de São Paulo, então, suscitou o presente conflito de competência por entender que não há razão para recusa no cumprimento da deprecata pois a carta precatória atender todos os requisitos legais.
+Nesta instância, o Ministério Público Federal manifestou-se pela competência do Juízo Suscitado (fls. 30/34).
+É o relatório.
+DECIDO.
+Colhe-se da decisão do Juízo suscitante (fls. 278/282):
+Trata-se de denúncia oferecida pelo Ministério Público em face de [NOME], [NOME], [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME], pelo cometimento, em tese, dos delitos tipificados nos arts. 33, caput, e 35, caput, c/c art. 40, I, V e VI, todos da lei nº 11.343/2006, e [NOME], [NOME] e [NOME], pelo cometimento, em tese, dos delitos tipificados nos arts. 33, caput, e 35, caput, c/c art. 40, I, V e VI, todos da lei nº 11.343/2006, e art. 12 da lei nº 10.826/2003.
+Em razão de seis dos réus, ainda não interrogados, residirem na cidade de Caratinga, que, embora pertencente à jurisdição da Subseção de Manhuaçu, dista mais de 70 Km da sua sede, foi expedida carta precatória para a colheita dos depoimentos em cooperação.
+O juízo deprecado, contudo, recusou-se a proceder ao interrogatório dos réus, ao fundamento de que tal diligência, à míngua de comprovação da impossibilidade de comparecimento dos acusados no juízo deprecante, afrontaria o princípio da identidade física do juiz.
+este juízo federal, com jurisdição sobre 36 cidades, algumas a mais de 150 Km de distância, não pode exigir que os réus, não residentes em sua sede, a ela se desloquem às suas expensas para a prática dos recorrentes atos processuais, tampouco condicional a remessa das cartas precatórias à prévia e expressa manifestação do réu de seu desinteresse em comparecer a este foro para ser interrogado pelo juiz do processo - para o que, aliás, deveria ser intimado por outra precatória!
+Ressalte-se que que o ato deprecado consiste na oitiva de seis acusados que residem na comarca de Caratinga/MG, a ser realizado de uma só vez, quando da designação de audiência para cumprimento de sua finalidade.
+Com efeito, a justificativa da recusa não encontra amparo no art. 267 do CPC, aplicável subsidiariamente ao processo penal e menos ainda reflete a reiterada prática forense.
+ ..
+Nesse compasso, suscito conflito negativo de competência em face do juízo estadual da comarca de Caratinga - MG, a ser dirimido pelo eg. STJ, razão pela qual fica o feito suspenso.  ..
+Com efeito, a recusa ao cumprimento da deprecata só pode ser embasada nas hipóteses do art. 267 do Novo Código de Processo Civil, aplicado por força de interpretação analógica autorizada pelo art. 3º do Código de Processo Penal, verbis:
+Art. 267. O juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
+I - a carta não estiver revestida dos requisitos legais;
+II - faltar ao juiz competência em razão da matéria ou da hierarquia;
+III - o juiz tiver dúvida acerca de sua autenticidade.
+Assim sendo, o argumento do juízo deprecado de que a distância entre as cidades justificaria a realização do ato deprecado pelo Juízo suscitante não está albergado pela legislação processual, o que revela a recusa do cumprimento da carta precatória pelo juízo suscitado. Ilustrativamente:
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. INQUIRIÇÃO DE TESTEMUNHA QUE RESIDE FORA DA JURISDIÇÃO DO MAGISTRADO COMPETENTE. CARTA PRECATÓRIA. RECUSA NÃO FUNDADA NAS HIPÓTESES DO ATUAL ART. 267 DO CPC. CONFLITO DE COMPETÊNCIA CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. As hipóteses de recusa de cumprimento de carta precatória constituem rol taxativo e tinham previsão no então art. 209 do Código de Processo Civil, correspondente ao atual art. 267 do novo diploma legal, isto é, ao juízo deprecado somente é permitido devolver carta precatória quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou, ainda, quando tiver dúvida acerca de sua autenticidade, não estando, no caso em exame, a recusa do Juízo suscitado respaldada por nenhuma das hipóteses legais.
+2. "Conquanto recomendável seja realizada por videoconferência, não compete ao Juízo deprecado determinar forma de audiência diversa daquela delegada, recusando-se assim ao cumprimento da deprecata" (CC 135.834/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 31/10/2014).
+3. Conflito conhecido, para declarar a competência do Juízo Federal da 4ª Vara da Seção Judiciária do Amazonas, o suscitado. (CC 148.747/PE, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 23/11/2016, DJe 30/11/2016).
+CONFLITO DE COMPETÊNCIA. DIREITO PROCESSUAL PENAL. OITIVA DE TESTEMUNHA. DOMICÍLIO DIVERSO. CARTA PRECATÓRIA. RECUSA INFUNDADA. VIDEOCONFERÊNCIA. NÃO OBRIGATORIEDADE. COMPETÊNCIA DO JUÍZO DEPRECADO.
+1. A recusa ao cumprimento da deprecata só pode ser embasada nas hipóteses do art. 209 do Código de Processo Civil, aplicado por força de interpretação analógica autorizada pelo art. 3º do Código de Processo Penal.
+2. Conquanto recomendável seja realizada por videoconferência, não compete ao Juízo deprecado determinar forma de audiência diversa daquela delegada, recusando-se assim ao cumprimento da deprecata.
+3. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1A VARA CRIMINAL DA SEÇÃO JUDICIÁRIA DO ESTADO DO ESPÍRITO SANTO. (CC 135.834/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 22/10/2014, DJe 31/10/2014), com destaques.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL E DE INFÂNCIA E JUVENTUDE DE CARATINGA - MG, ora suscitado.
+Publique-se.
+Intimem-se.
