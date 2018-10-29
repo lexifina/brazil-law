@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da r. decisão monocrática de fls. 385/389, da lavra do Ministro Lázaro Guimarães, Desembargador Convocado, que conheceu do agravo para negar provimento ao recurso especial com base na ausência de negativa da prestação jurisdicional e na Súmula 7 do STJ.
+No presente recurso, a parte embargante alega que persiste obscuridade e contradição na decisão ora embargada, quanto à definição do mês de "integralização" para os contratos PCT, sendo caso de acolhimento da negativa da prestação jurisdicional (fl. 400).
+A parte contrária deixou transcorrer in albis o prazo das contrarrazões.
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível a sua interposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No entanto, no caso em exame observa-se que a decisão ora embargada está devidamente fundamentada. Senão vejamos:
+Para melhor elucidar a questão transcrevo a decisão ora embargada, verbis:
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, este interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (fl. 279):
+AGRAVO REGIMENTAL. VALOR PATRIMONIAL DA AÇÃO (VPA). APURAÇÃO. MÊS DA INTEGRALIZAÇÃO. DECISÃO MANTIDA.
+1. Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização, tema objeto da súmula 371 do Superior Tribunal de Justiça (STJ, Recurso Especial 1.033.241/RS, julgado em 05/11/2008, sob o rito dos recursos o repetitivos).
+2. Inviável nova apreciação da matéria pela via do Recurso Especial, o CE nos termos do CPC, art. 543-C.
+3. Agravo improvido.
+Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte agravante alega, em síntese, dissido jurisprudencial em relação a inversão do ônus da prova, e violação aos arts. 458 e 535 do CPC de 1973; 330 do CPC/1973; 6º do CDC, sob a alegação de negativa da prestação jurisdicional e nulidade do acórdão recorrido que reconheceu a inversão do ônus da prova.
+É o relatório. Passo a decidir.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+I. Negativa da prestação jurisdicional:
+De início, verifica-se que não prospera a alegada ofensa aos arts. 458 e 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. Quanto aos lucros cessantes a instância ordinária afirmou seu cabimento por presunção. Em verdade busca a recorrente a rediscussão de matéria que foi decidida de modo contrário ao seu interesse.
+II. Inversão do ônus da prova:
+"Nos termos da jurisprudência desta Corte, a inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em recurso especial". (AgInt no AREsp 893.409/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/09/2016, DJe 14/09/2016).
+Na hipótese, o magistrado de piso asseverou verbis: "Conheço diretamente do pedido, com fundamento no art. 330, I, do Código de Processo Civil, porque não há necessidade de produção de provas em audiência." (fl. 122)
+Por seu turno, o col. Tribunal a quo asseverou com base no substrato probatório e exame do contrato que a parte recorrida teria direito "a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC, dada a verossimilhança das alegações do autor e sua manifesta vulnerabilidade no que diz respeito ao conhecimento técnico e acesso à base de dados da ré (..)
+Verifica-se do documento de fl. 85 indica que a integralização ocorreu em 28.11.1995, mas a capitalização somente em 31.12.1995, quando da incorporação da rede (PCT), com o valor patrimonial da ação (VPA) desta data, em clara violação ao preceito da Súmula 371 do Superior Tribunal de Justiça" (fls. 159/160).
+Nesse contexto, a alteração das premissas fáticas estabelecidas na origem a fim de se concluir pelo alegado equívoco na inversão do ônus da prova, exige, a toda evidência, o reexame fático-probatório dos elementos constantes dos autos, o que é vedado em sede de recurso especial ante o óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. AGRAVO NÃO PROVIDO. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA DE PROVA. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. VIOLAÇÃO AO ART. 398 DO CPC. JUNTADA DE DOCUMENTO APÓS A CONTESTAÇÃO. OBSERVADO O CONTRADITÓRIO. POSSIBILIDADE. JURISPRUDÊNCIA. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA.
+1. Não se constata violação ao art. 535 do CPC/73 quando a col. Corte de origem dirime, fundamentadamente, todas as questões suscitadas. Havendo manifestação expressa acerca dos temas necessários à integral solução da lide, ainda que em sentido contrário à pretensão da parte, fica afastada qualquer omissão, contradição ou obscuridade no julgado.
+2. Nos termos da jurisprudência do col. STJ, a inversão do ônus da prova, prevista no art. 6º, VIII, do Código de Defesa do Consumidor, fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança das alegações do consumidor ou de sua hipossuficiência.
+3. Na hipótese em exame, a eg. Corte de origem entendeu não ser o caso de inversão do ônus probatório, porquanto, após sopesar o acervo fático-probatório reunido nos autos, concluiu pela ausência de verossimilhança das alegações, consubstanciada no fato de que todos os elementos de prova adequados ao correto julgamento da lide já estariam presentes no processo. Desse modo, o reexame de tais elementos, formadores da convicção do d. Juízo da causa, não é possível na via estreita do recurso especial, por exigir a análise do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. A jurisprudência do STJ é no sentido de que a nulidade por inobservância do art. 398 do CPC/73 deve ser proclamada nos casos em que os documentos juntados pela parte adversa tenham sido relevantes e não submetidos ao contraditório, de modo a causar-lhe prejuízo, situação que não ocorreu na espécie. Precedentes.
+5. O Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção de prova pericial, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente, como na hipótese dos autos.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1096542/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 02/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DEVEDOR COM OUTRAS ANOTAÇÕES. SÚMULA 385/STJ. INVERSÃO DO ÔNUS DA PROVA. AGRAVO NÃO PROVIDO.
+1. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula 385/STJ).
+2. A Corte local entendeu que cabia à agravante demonstrar que as inscrições anteriores eram ilegítimas, pois os fatos dizem respeito a sua vida privada e relações comerciais, sendo difícil ou impossível ao agravado o acesso a eles. Consignou, ademais, não haver razão para inversão do ônus probatório, o que só se justifica "na hipótese em que a produção probatória seja demasiadamente dificultosa à parte hipossuficiente", o que não ficou demonstrado.
+3. Nos termos da jurisprudência desta Corte, a inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 893.409/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 14/09/2016)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 535 DO CPC DE 1973 NÃO OBSERVADA. AÇÃO INDENIZATÓRIA. INVERSÃO DO ÔNUS DA PROVA. PRINCÍPIO DA PERSUASÃO RACIONAL OU LIVRE CONVENCIMENTO MOTIVADO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. (..)
+2. A revisão do entendimento delineado pelo Tribunal a quo, no tocante à inversão do ônus da prova, demandaria a incursão no acervo fático-probatório dos autos, o que é vedado ante a Súmula 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 780.589/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA URMA, DJe 14/04/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PEDIDO DE COMPLEMENTAÇÃO DE AÇÕES. PRESCRIÇÃO. OFENSA AO ART. 333, I, DO CPC. SÚMULA N. 7/STJ. RECURSO MANIFESTAMENTE IMPROCEDENTE. IMPOSIÇÃO DE MULTA. ART. 557, § 2º, DO CPC. (..)
+2. O acolhimento da pretensão recursal quanto à suposta ofensa ao art. 333, I, do CPC demandaria o reexame do conjunto fático-probatório dos autos.
+3. A interposição de recurso manifestamente inadmissível ou infundado autoriza a imposição de multa com fundamento no art. 557, § 2º, do CPC.
+4. Agravo regimental desprovido com a condenação da agravante ao pagamento de multa no percentual de 5% (cinco por cento) sobre o valor corrigido da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor (art. 557, § 2º, do CPC).
+(AgRg no AREsp 406803/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 21/10/2014)
+Por fim, no tocante ao dissidio jurisprudencial incide o óbice contido na Súmula 7 do STJ.
+Deixo de majorar os honorários advocatícios pois fixados em 20% sobre o valor atualizado da condenação.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Nesse contexto, verifica-se que não existem os apontados vícios, conforme se constata na leitura da decisão embargada, mas o claro intento de rediscutir a matéria, porque as questões alegadas no recurso especial pela embargante - negativa da prestação jurisdicional e inversão do ônus da prova - foram enfrentadas na decisão embargada.
+Destarte, no caso dos autos, está nítido o propósito dos embargantes de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Isso, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes.
+A propósito, traz-se a lume alguns arestos proferidos nesse sentido, os quais, embora prolatados sob a égide do vetusto CPC/1973, exprimem a firme jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, in verbis:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO NÃO CONHECIDO. SÚMULA 182/STJ. PRETENSÃO DE EXAME DE MATÉRIA DO FUNDO. CARÁTER INFRINGENTE MANIFESTAMENTE INFUNDADO. INTUITO PROTELATÓRIO. MULTA.
+1. Hipótese em que o acórdão embargado concluiu pela não violação do art. 511 do CPC e pela ausência de previsão legal para que o valor das custas de preparo conste da publicação da sentença.
+2. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento, ausentes in casu.
+3. O inconformismo dos embargantes busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+4. A insurgência revela propósito manifestamente protelatório e utilização indevida dos aclaratórios, justificando a incidência da sanção prevista no art. 538, parágrafo único, do CPC.
+5. Embargos de Declaração rejeitados, com fixação de multa de 1% sobre o valor da causa."
+(EDcl nos EDcl no AgRg no AREsp 381.986/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/8/2014, DJe de 9/10/2014, grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. CARÁTER INFRINGENTE DA PRETENSÃO. ANÁLISE DE QUESTÕES DE ORDEM CONSTITUCIONAL. INVIABILIDADE.
+1. Inexiste irregularidade a ser elucidada na via dos embargos de declaração se o acórdão embargado manifesta-se de modo claro e objetivo quanto à matéria submetida à apreciação da Corte.
+2. O reexame de matéria já apreciada com a simples intenção de propiciar efeitos infringentes ao decisum impugnado é incompatível com a função integrativa dos embargos declaratórios.
+3. Em sede de recurso especial, é inviável ao Superior Tribunal de Justiça analisar ou decidir questões de ordem constitucional.
+4. Embargos de declaração rejeitados." (EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, Relator o Ministro JOÃO OTÁVIO DE NORONHA, DJe de 28.10.2008, grifou-se)
+O simples descontentamento com o "decisum", a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ausente o vício imputado na decisão recorrida, rejeito os embargos de declaração.
+Intimem-se.
