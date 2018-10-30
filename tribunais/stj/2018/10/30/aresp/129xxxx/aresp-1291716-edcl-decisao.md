@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 863/868) opostos à decisão desta relatoria (e-STJ fls. 858/860) que deu parcial provimento ao recurso especial da embargada, determinando a realização de prova pericial na origem.
+Em suas razões, o embargante argumenta que a "r. decisão embargada está eivada de contradição/omissão relativa a análise pormenorizada dos documentos carreados a inicial. Porquanto, cumpre esclarecer que estamos diante de um seguro exclusivo para militares, no qual, o Embargante comprovou o acidente ocorrido em serviço e sua incapacidade para o serviço militar" (e-STJ fl. 866).
+Ao final, requer o conhecimento e acolhimento dos embargos com efeitos infringentes (e-STJ fl. 1.764).
+A parte embargada, intimada, não apresentou impugnação (e-STJ fl. 872).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo somente é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Consoante jurisprudência firmada por esta Corte Superior, a tempestividade dos recursos é aferida quando do protocolo na secretaria do Tribunal e não da entrada na agência dos correios.
+III - Ademais, embora o embargante tenha juntado comprovante da entrega em Brasília, no dia 14/01/2013, não há comprovação de que tenha sido, na mesma data, entregue na secretaria deste Tribunal. Não tendo sido, inclusive, juntado até o presente momento os originais do recurso interposto.
+IV - Embargos rejeitados.
+(EDcl no AgRg no ARE no AgRg nos EDcl no RE no Ag n. 1.423.681/BA, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 16/9/2013, DJe 25/9/2013.)
+SEGUNDOS EMBARGOS DECLARATÓRIOS. EMBARGOS DE DIVERGÊNCIA. TELEFONIA. APLICAÇÃO DA SÚMULA 182. AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO. PEDIDO DE EFEITOS INFRINGENTES. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+À mingua dos vícios previstos no art. 535 do CPC e não sendo a via escolhida meio de resposta a questionamentos da partes, é de se ter como inviável a oposição, alertando ao embargante para a aplicação de multa processual caso persista o intuito de adiar a conclusão da causa.
+Embargos rejeitados.
+(EDcl nos EDcl no AgRg nos EAREsp n. 220.572/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 1º/7/2013, DJe 1º/8/2013.)
+Na decisão embargada, foram indicados de maneira clara e expressa os fundamentos pelos quais se deu provimento parcial ao recurso da parte ora embargada, nos seguintes termos (e-STJ fls. 858/860):
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento a recurso especial, sob fundamento de incidência da Súmula n. 83/STJ.
+O Tribunal de origem deu provimento parcial ao apelo do agravado, em julgado que recebeu a seguinte ementa (e-STJ fl. 547):
+APELAÇÃO CÍVEL - CONSUMIDOR - AÇÃO DE COBRANÇA - SEGURO DE VIDA EM GRUPO - HÉRNIA DE DISCO - MILITAR DO EXÉRCITO - INVALIDEZ PERMANENTE POR ACIDENTE - 200% DO VALOR DE COBERTURA - AGRAVO RETIDO INTERPOSTO CONTRA DECISÃO QUE REJEITOU PRELIMINARES DE ILEGITIMIDADE PASSIVA E FALTA DE INTERESSE DE AGIR, AFASTOU A PRESCRIÇÃO E INDEFERIU PEDIDO DE DENUNICAÇÃO DA LIDE E A PRODUÇÃO DE PROVA PERICIAL - NEGOU-SE PROVIMENTO AO AGRAVO RETIDO E AO APELO DA RÉ E DEU-SE PROVIMENTO PARCIAL AO APELO DO AUTOR.
+1. É pacifico o entendimento jurisprudencial de que a doença oriunda de esforço repetitivo no exercício das atividades laborais, ainda que desenvolvida de maneira lenta e gradual, equipara-se a acidente de trabalho.
+2. Considerando que é total a incapacidade que afasta o segurado definitivamente de suas atividades no Exército, o valor da indenização deve ser de 200% do valor de cobertura por morte, os termos do contrato.
+3. Rejeitou-se a preliminar e negou-se provimento ao agravo retido e ao apelo da ré. Deu-se provimento parcial ao apelo do autor.
+Sobreveio o recurso especial, fundado no art. 105, III, "a", da CF, no qual a recorrente sustenta violação dos arts. 355, 369 e 373 do CPC/1973 e 757, 759, 760, 776 e 781 do CC/2002, aduzindo que a invalidez da parte autora é decorrente de doença crônica, não sendo causada por esforço repetitivo ou pela atividade militar, devendo ser feita perícia para aferir o seu grau de incapacidade, não tendo o laudo da instituição pública caráter de prova absoluta.
+No agravo (e-STJ fls. 699/703), afirma a presença dos requisitos de admissibilidade do especial, nos pontos não admitidos pela instância a quo.
+É o relatório.
+Decido.
+O Tribunal de origem entendeu que, para exame da pretensão do recorrido à indenização do seguro por invalidez, não era necessária a prova pericial, pois a perícia médica realizada pelo exército Brasileiro atesta sua incapacidade (e-STJ fls. 555/556).
+Nos termos da jurisprudência da Segunda Seção do STJ, havendo controvérsia quanto à natureza e extensão da invalidez afirmada pelo segurado, é necessária a prova pericial para aferição do seu direito à indenização prevista em segurado privado, sob pena de cerceamento de defesa da seguradora, não gerando presunção absoluta da incapacidade, nos termos da apólice particular, para a aposentadoria por invalidez concedida por ente público. A propósito:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. PROVA DO SINISTRO. APOSENTADORIA POR INVALIDEZ. PRESUNÇÃO RELATIVA. NATUREZA E GRAU DA INCAPACIDADE. PERÍCIA MÉDICA. NECESSIDADE. COBERTURA E RISCOS GARANTIDOS. ENQUADRAMENTO. SEGURO DE PESSOAS. DEFINIÇÃO NO CONTRATO. CERCEAMENTO DE DEFESA. OCORRÊNCIA.
+1. São cabíveis embargos de divergência quando o dissídio for entre acórdão de mérito e outro que, embora tenha apreciado a controvérsia, não conheceu do recurso especial. Caracterização da dissonância interpretativa acerca da mesma questão de direito (art. 1.043, III, do CPC/2015). Afastamento da discussão a respeito do erro ou acerto na aplicação de regra técnica de conhecimento recursal, que se esgota nas particularidades de cada caso concreto. Precedentes.
+2. A aposentadoria por invalidez permanente concedida pelo INSS não confere ao segurado o direito automático de receber indenização de seguro contratado com empresa privada, sendo imprescindível a realização de perícia médica para atestar o grau de incapacidade e o correto enquadramento na cobertura contratada.
+3. A aposentadoria por invalidez não induz presunção absoluta da incapacidade total do segurado, não podendo vincular ou obrigar as seguradoras privadas, que garantem riscos diversos. O órgão previdenciário oficial afere apenas a incapacidade profissional ou laborativa, que não se confunde com as incapacidades parcial, temporária ou funcional.
+4. Apesar de o contrato de seguro prever cobertura para incapacidade por acidente ou por doença, se existir controvérsia quanto à natureza (temporária ou permanente) e à extensão (total ou parcial) da invalidez sustentada pelo segurado, é de rigor a produção de prova pericial médica, sob pena de cerceamento de defesa da seguradora. Presunção apenas relativa da prova oriunda da aposentadoria por invalidez.
+5. Consoante o art. 5º, parágrafo único, da Circular SUSEP nº 302/2005, a aposentadoria por invalidez concedida por instituições oficiais de previdência, ou assemelhadas, não caracteriza por si só o estado de invalidez permanente nos seguros de pessoas (Cobertura de Invalidez Permanente por Acidente - IPA, Cobertura de Invalidez Laborativa Permanente Total por Doença - ILPD e Cobertura de Invalidez Funcional Permanente Total por Doença - IFPD), devendo a comprovação se dar por meio de declaração médica.
+6. Embargos de divergência conhecidos e providos.
+(EREsp 1.508.190/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 8/11/2017, DJe 20/11/2017.)
+Nesse sentido, visando a inicial à indenização do seguro particular por invalidez, existindo discussão sobre a natureza e grau da incapacidade para fins de cobertura da apólice privada, o processo deve retornar à primeira instância para que seja reaberta a fase instrutória a fim de que seja realizada a perícia, em conformidade com a jurisprudência desta Corte.
+Diante do exposto, CONHEÇO PARCIALMENTE do agravo e DOU PROVIMENTO EM PARTE ao recurso especial para determinar o retorno do processo à origem a fim de que seja realizada a prova pericial. Prejudicadas as demais alegações recursais.
+Publique-se e intimem-se.
+Assim, não se constata nenhuma das teses ensejadoras dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de alterar o resultado do julgamento. Entretanto, tal objetivo não merece procedência.
+Com efeito, segundo a jurisprudência predominante do STJ, em demanda envolvendo a cobrança de seguro privado, decorrente de invalidez atestada por órgão público, deve-se proceder à prova pericial caso haja discussão sobre o grau de incapacidade do segurado, não tendo presunção absoluta de veracidade a perícia realizada pelo ente estatal para fins previdenciários.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
