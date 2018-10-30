@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SESC - ADMINISTRACAO REGIONAL NO ESTADO DO RIO GRANDE DO SUL, inconformado com o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul e assim ementado:
+AGRAVO DE INSTRUMENTO. LICITAÇÃO E CONTRATO ADMINISTRATIVO. RETENÇÃO DE PAGAMENTOS. SERVIÇOS PRESTADOS. AUSÊNCIA DE COMPROVAÇÃO DE REGULARIDADE TRABALHISTA E FISCAL.
+Ainda que a exigência de regularidade fiscal e trabalhista encontre amparo no artigo 55, inciso XIII, da Lei nº 8.666/1993, entende-se descabida a retenção do pagamento pelos serviços prestados. O SESC detém meios próprios para cobrar eventuais créditos em face de inadimplementos por parte da empresa (art. 87 da Lei 8.666/93). A retenção dos valores pode eventualmente caracterizar enriquecimento indevido. Precedentes.
+DERAM PROVIMENTO AO RECURSO. UNÂNIME.
+Nas razões do recurso especial, o ora agravante alega que o acórdão recorrido negou vigência aos artigos 489, §1º, 1.022 do Código de Processo Civil, e 80, inciso VI, da Lei 8.666/93, porquanto (I) há nulidade na fundamentação no acórdão e negativa de prestação jurisdicional, na medida em que "a) não enfrentou os argumentos deduzidos pelo Sesc sobre a retenção na óptica de inadimplemento de verbas trabalhistas (salários); b) deixou de apreciar jurisprudência do mesmo Tribunal invocado pelo Sesc, tampouco o distinguiu do caso em julgamento", e (II) está previsto, no contrato, a prerrogativa de efetuar a retenção de créditos, em caso de descumprimento contratual por parte da Recorrida. Afirma que "coube ao recorrente incansavelmente demonstrar ao tribunal de origem que a retenção de créditos por inadimplemento contratual é plenamente viável, ainda mais que se tratava de ausência de pagamento de salários por parte da recorrida". Requer com a declaração de legalidade da retenção de valores em face do flagrante descumprimento contratual. Aduz que a decisão destoa da jurisprudência.
+É o relatório.
+Nos termos do art. 9º, caput, do RISTJ, a competência das seções e das respectivas turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Compulsando os autos, verifica-se que a matéria em debate diz respeito a contrato administrativo.
+Dessa forma, verifica-se que a competência para apreciar o recurso é de uma das turmas integrantes da Primeira Seção desta Corte.
+Diante do exposto, redistribuam-se os autos a um dos e. Ministros integrantes da Eg. Primeira Seção.
+Publique-se.
