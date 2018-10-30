@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ e ausência de demonstração do dissídio jurisprudencial (e-STJ fls. 322/323).
+O acórdão recorrido está assim ementado (e-STJ fl. 268):
+Agravo Regimental Insurgência quanto à r. decisão monocrática que não conheceu do recurso de agravo de instrumento interposto - Liquidação de sentença por arbitramento - Prazo de dez dias para manifestação das partes acerca do laudo pericial apresentado - Artigo 475-D, do código de Processo Civil Em que pese a prova tenha sido produzida em dezembro de 2014, a operadora de planos de saúde, somente após a homologação do cálculo elaborado, ocorrida em 04.05.2015, logrou manifestar sua insurgência Preclusão Ausência de interesse recursal Recurso a que se nega provimento.
+Nas razões do recurso especial (e-STJ fls. 272/281), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa aos arts. 436, 437 e 475-D do CPC/1973 e dissídio jurisprudencial. Sustentou, para tanto, que não teria ocorrido a preclusão para a manifestação quanto ao laudo pericial.
+No agravo (e-STJ fls. 325/331), afirma a presença de todos os requisitos de admissibilidade do especial, bem como a inaplicabilidade da Súmula n. 7 do STJ e a existência do necessário cotejo analítico.
+O recorrido apresentou contraminuta (e-STJ fls. 333/340).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que deve ser exigido o requisito de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal de origem assim decidiu (e-STJ fls. 269/270):
+Não obstante a prova tenha sido produzida em dezembro de 2014 (fl. 63), a operadora de planos de saúde, somente após a homologação do cálculo elaborado, ocorrida em 04.05.2015 (fl. 17), logrou manifestar sua insurgência.
+Em que pesem as abalizadas opiniões em contrário, entende-se que, uma vez não manifestada competente impugnação à prova técnica apresentada dentro do prazo legal acima referido, operou-se a preclusão à possibilidade de apresentar insurgência quanto à homologação decorrente, de sorte que falece, na espécie, interesse recursal.
+Dessa forma, o entendimento do Tribunal a quo está em conformidade com a jurisprudência desta Corte, segundo a qual ocorre a preclusão por ausência de impugnação do laudo pericial no momento processual oportuno. Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. CÁLCULOS ENVIADOS PELA SEGUNDA VEZ À CONTADORIA JUDICIAL APÓS MANIFESTAÇÃO DO DEVEDOR. IMPUGNAÇÃO. EXCLUSIVAMENTE. EXCLUSÃO DOS JUROS DE CAPITAL PRÓPRIO. APÓS A RETIRADA DA PARCELA. CÁLCULOS. HOMOLOGAÇÃO. AUSÊNCIA DE NOVA INTIMAÇÃO DO DEVEDOR. ALEGAÇÃO DE NULIDADE. INEXISTÊNCIA NA HIPÓTESE. FUNDAMENTAÇÃO: PRECLUSÃO E AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. PRECEDENTES DO STJ.
+1. Não há que se falar em violação dos arts. 165, 458 e 535, II, do CPC/73 quando o acórdão recorrido se manifesta de forma clara e fundamentada acerca da questão apresentada para debate.
+2. A hipótese em análise trata de um segundo envio dos autos à contadoria para cálculos de liquidação de sentença, cujo único objeto de impugnação pela parte ora recorrente foi para que fossem excluídos os juros sobre capital próprio. Assim, os autos regressaram ao contador judicial para o abatimento da referida parcela. Verificado pelo juízo a retirada, os cálculos foram homologados, porquanto ausente qualquer outra irresignação referente aos primeiros cálculos apresentados pela Contadoria Judiciária. Em razão disso foi afirmada a preclusão de qualquer outra alegação referente aos cálculos. Tal entendimento encontra ressonância na jurisprudência do STJ.
+3. A jurisprudência desta Corte assevera a necessidade de demonstração de prejuízo para o acolhimento de eventual nulidade. Na hipótese, nem sequer foi alegado excesso de execução.
+4. Agravo interno não provido.
+(AgInt no REsp 1.347.020/RS, Rel. Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 24/4/2018, DJe 2/5/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PRIVADO E PROCESSUAL CIVIL. VÍCIO DO DECISUM. HIGIDEZ DO ACÓRDÃO. NEGATIVA DE AFRONTA. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA FACULTATIVA. OPORTUNIDADE DO AGRAVANTE COMPLEMENTAR O INSTRUMENTO. PARTICULARIDADE. JULGAMENTO DO MÉRITO RECURSAL PELA CORTE DE ORIGEM. DISPENSA DE REMESSA DOS AUTOS ÀS INSTÂNCIAS ORDINÁRIAS. RETIFICAÇÃO DA PARTE DISPOSITIVA. ELABORAÇÃO DE CÁLCULOS PELA CONTADORIA. HOMOLOGAÇÃO JUDICIAL. POSTERIOR IMPUGNAÇÃO. PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 78.367/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/4/2013, DJe 19/4/2013.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DE CRITÉRIO DE CÁLCULO. COISA JULGADA. EVENTUAL ERRO DE DIREITO. TEMA APRECIADO NA FASE DE LIQUIDAÇÃO. METODOLOGIA HOMOLOGADA. ERRO MATERIAL. DESCARACTERIZAÇÃO.
+1. O erro material, corrigível a qualquer tempo, é o erro de cálculo, a exemplo de equívocos referentes a meras somas ou subtrações.
+2. As questões de direito, como os critérios utilizados na liquidação de sentença para a formação do valor do débito, sofrem preclusão, devendo ser arguidas no momento processual oportuno. Desse modo, a decisão de homologação de cálculo da liquidação é capaz de transitar em julgado e de fazer coisa julgada em relação a erro de direito, hipótese dos autos.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.486.095/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2015, DJe 23/10/2015.)
+Incide, portanto, a Súmula n. 83 do STJ, aplicável aos recursos interpostos com base tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
