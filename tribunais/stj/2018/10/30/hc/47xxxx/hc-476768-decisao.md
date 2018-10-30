@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro no HC n. 0051252-13.2018.8.19.0000.
+Infere-se dos autos que, em decorrência das provas colhidas nos Autos n. 0016714-04.2017.8.19.0206 (1ª fase da operação 4º elemento), o paciente foi denunciado, ao lado de outros quarenta e sete corréus, como incurso no art. 2º, caput, § § 2º e 4º, II, da Lei 12.850/2013; art. 316, caput, (por duas vezes); art. 333, caput e parágrafo único; art. 328, caput e parágrafo único, (por três vezes) e art. 312, caput, (por três vezes); art. 313-A e art. 159, todos do Código Penal, e art. 17, caput e parágrafo único, da Lei n. 10.826/2003 (fl. 255).
+E, em 30/8/2018, nos Autos n. 0021666-89.2018.8.19.0206, o Juízo da 2ª Vara Criminal da comarca de Santa Cruz/RJ recebeu a peça acusatória e decretou a prisão preventiva do ora paciente (fls. 309/328).
+Irresignada, a defesa impetrou habeas corpus na origem. A Segunda Câmara Criminal, por unanimidade, denegou a ordem (fls. 396/412).
+Aqui, alegam os impetrantes, em suma, a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da prisão cautelar.
+Afirmam que, em que pese o entendimento do MP de que existia uma verdadeira ORCRIM, onde os Policiais acompanhavam as movimentações do Co-Réu e então Delegado Titular [NOME], o mesmo jamais ocorreu em relação ao Paciente, que trabalhou com o referido delegado em 30 anos como policial apenas 3 meses (fl. 6).
+Aduzem que o último delito imputado ao Paciente teria ocorrido em 25/07/2016, ou seja, mais de 2 anos, afastando a necessária contemporaneidade dos fatos para decretação da prisão cautelar (fl. 21).
+Requer assim, inclusive em liminar, a concessão da ordem para que seja revogada a prisão cautelar.
+Estes autos foram a mim distribuídos por prevenção do HC n. 467.369/RJ.
+É o relatório.
+Neste juízo de cognição preliminar, sem um exame mais pormenorizado dos elementos que instruem o feito, não há como afastar a conclusão da instância ordinária de que há elementos concretos que permitem concluir pela necessidade da constrição cautelar.
+O Juízo de origem, ao decretar a prisão cautelar, além dos indícios da existência de um complexo aparato criminoso engendrado para a prática de outros crimes com atuação, inclusive, de Autoridades Policiais (fl. 318), mencionou que há narrativa nas peças de informações acerca do emprego pelos investigados de violência e grave ameaça contra as vítimas, com o uso recorrente do aparato estatal para fins escusos (fl. 318).
+Destacou, ainda, que o ora paciente e outros investigados (fl. 320):
+ ..  integram os quadros da Polícia Civil, Polícia Militar, Corpo de Bombeiros Militar e Secretaria de Administração Penitenciária, todos órgãos públicos deste Estado, ostentando posição de vantagem em face das testemunhas/vítimas. As regras de experiência comum denotam que as pessoas que sofrem crimes perpetrados por agentes públicos demonstram fundado temor de represálias. Destarte, há que se garantir que as testemunhas/vítimas prestem depoimento livres de qualquer tipo de pressão exercida por parte dos requeridos. Lado outro, há sérios riscos de que os requeridos, em liberdade, destruam provas ou eliminem as testemunhas que possam lhes incriminar. Neste ponto, há que ressaltar que os imputados supostamente constituíram grupo armado, com controle sobre as Delegacias de Polícia Civil por onde passaram, o que, por si só, indica a real possibilidade dos agentes imputados tentarem livrar-se das provas das acusações, em especial da prova oral, impedindo, assim, a oitiva das vítimas e testemunhas  ..
+Ademais, o envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria, o que, na espécie, aconteceu.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações detalhadas ao Juízo da 2ª Vara Criminal do Fórum Regional de Santa Cruz/RJ acerca dos autos e da atual situação do paciente.
+Depois de juntadas, ouça-se o Ministério Público Federal.
+Publique-se.
