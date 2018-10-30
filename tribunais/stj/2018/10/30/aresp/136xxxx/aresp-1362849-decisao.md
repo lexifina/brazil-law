@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUXÍLIO-DOENÇA. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão proferida pelo Presidente do TRF-2ª Região que negou seguimento ao seu recurso especial ante o óbice da Súmula 7/STJ.
+Em suas razões de agravo em recurso especial, sustenta o autor, ora agravante, que a análise do pedido recursal não enseja o reexame do conjunto fático probatório dos autos.
+O prazo para apresentação de contraminuta ao agravo decorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assim ementado:
+PREVIDENCIÁRIO. CONCESSÃO DE BENEFÍCIO DE AUXÍLIO DOENÇA. INCAPACIDADE LABORATIVA COMPROVADA. LAUDO PERICIAL, DIB A PARTIR DA DATA DA JUNTADA DO LAUDO PERICIAL. ISENÇÃO DO INSS DO PAGAMENTO DAS CUSTAS PROCESSUAIS. SENTENÇA PARCIALMENTE REFORMADA.
+I - De acordo com os preceitos que disciplinam a matéria, para a concessão do benefício de auxilio doença, é necessário a comprovação da qualidade de segurado da Previdência Social, o preenchimento do período de carência de 12 (doze) contribuições mensais, se for o caso, e a comprovação de incapacidade para o exercício de atividade laborativa (artigos 15, 24/26, 59 e 62 da Lei 8.213/91).
+II - Já a aposentadoria por invalidez será devida, observada a carência, ao segurado que, estando ou não em gozo de auxílio doença, for considerado incapaz e insuscetível de reabilitação para o exercício de atividade que lhe garante subsistência, podendo ser considerado, inclusive, para efeito dessa análise, a idade, o grau de instrução, a qualificação profissional e o quadro social do segurado, devendo o beneficio ser pago, contudo, somente enquanto permanecer a condição de incapacidade laboral (artigos 15, 24/26 e 42 da Lei 8,213/91),
+III - A análise dos autos conduz à conclusão de que a prova produzida pelo segurado se revelou suficiente para demonstrar o direito a concessão do benefício previdenciário de auxilio doença conforme determinado na sentença, tendo em vista os documentos constantes nos autos, sobretudo o laudo pericial de fls. 71/73, complementado às fls. 79.
+IV - O INSS requer que a data de inicio do pagamento do beneficio seja fixado a partir da data da juntada do laudo pericial, sob o argumento de que foi a partir desse momento que foi constatada a incapacidade da autora. Nesse ponto, assiste razão à autarquia, tendo em vista que não há no laudo do perito judicial qualquer informação a respeito de quando teria se iniciado a incapacidade do autor, devendo, dessa forma, ser considerada a data da juntada do laudo médico judicial que constatou a incapacidade.
+V - Com relação aos honorários advocatícios, estes foram devidamente fixados em 10% (dez por cento) sobre o valor da condenação, estando o referido percentual em consonância com a Súmula de n 111 do eg. STJ, em sintonia com a orientação jurisprudencial desta Corte.
+VI - Assiste razão também à autarquia no que se refere ao pagamento das custas processuais, tendo em vista que o INSS goza da isenção prevista no art. 8º, §1º, da Lei nº 8.620/93, que estabelece que a autarquia é isenta do pagamento de custas, traslados, preparos, certidões, registros, averbações e quaisquer outros emolumentos, nas causas em que seja interessado na condições de autor, réu, assistente ou opoente, inclusive nas ações de natureza trabalhista, acidentaria e de
+benefícios. Precedentes.
+VII - Apelação e remessa necessária parcialmente providas.
+Em suas razões de recurso especial, sustenta [NOME] que o Tribunal a quo negou vigência aos artigos 479 e 480 do CPC/2015 e artigo 60, §1º, a, da Lei 8.213/1991, na medida que o perito judicial não foi instado a responder quando houve a eclosão de sua incapacidade. Ressalta que foram colacionados ao autos vários documentos que comprovam que estava incapacitado desde março de 2011. Acrescenta ser necessária a determinação de diligência complementar à perícia para elucidação da questão. Requer a fixação do termo inicial do benefício à data do requerimento administrativo. Sustenta, ainda, dissídio jurisprudencial entre o acórdão e o Recurso Especial Repetitivo 1.369.165/SP, dentre outros precedentes do STJ.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+Noticiam os autos que [NOME] ajuizou ação em face do INSS, objetivando aposentadoria por invalidez.
+A sentença julgou o pedido parcialmente procedente, para reconhecer o direito ao auxílio-doença.
+O INSS interpôs apelação e a remessa necessária foi tida como interposta, tendo o Tribunal a quo dado parcial provimento aos recursos, nos termos da ementa supratranscrita.
+O autor, ora agravante, opôs embargos de declaração, não providos.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravante impugnou de forma específica o fundamento adotado na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+A questão recursal gira em torno do termo inicial do auxílio-doença.
+Acerca da questão, o Tribunal a quo fixou o termo inicial a partir da data da juntada do laudo médico que constatou a incapacidade, uma vez que somente nesse momento foi reconhecido o preenchimento dos requisitos para sua concessão.
+Todavia, a jurisprudência do STJ é firme no sentido de que o termo inicial para concessão de benefício previdenciário, em regra geral, fixar-se-á na data do requerimento administrativo.
+Colacionam-se os seguintes julgados:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. TERMO INICIAL DA CONCESSÃO DO BENEFÍCIO. REQUERIMENTO ADMINISTRATIVO.
+1. Hipótese em que o Tribunal local consignou: "conquanto o autor tenha formulado requerimento administrativo, o termo inicial deve ser fixado na data da citação (29/03/2010 - fl. 264), haja vista que apenas com a elaboração em juízo do laudo pericial de fls. 495/502 é que foi possível o reconhecimento dos períodos especiais requeridos e a concessão da aposentadoria especial" (fl. 625, e-STJ).
+2. A orientação jurisprudencial do Superior Tribunal de Justiça consolidou-se no sentido de que, havendo requerimento administrativo, como no caso, este é o marco inicial do benefício previdenciário. Incidência da Súmula 83 do STJ.
+3. A Primeira Seção do STJ, no julgamento da Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria".
+4. Recurso Especial provido.
+(REsp 1.656.156/SP, Segunda Turma, Relator Ministro Herman Benjamin, julgado em 4/4/2017, DJe 2/5/2017)
+PREVIDENCIÁRIO. BENEFICIO ASSISTENCIAL. TERMO A QUO PARA CONCESSÃO. REQUERIMENTO ADMINISTRATIVO. PRECEDENTES.
+Esta Corte já firmou entendimento no sentido de que o benefício deve ser concedido a partir do requerimento administrativo e, na sua ausência, na data da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do Instituto, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial. Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 298.910/PB, Segunda Turma, Relator Ministro Humberto Martins, DJe 2/5/2013)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL. AUXÍLIO-ACIDENTE. ALEGAÇÃO DE SUBMISSÃO DE FEITO PARADIGMA AO RITO DOS RECURSOS REPETITIVOS. PEDIDO DE SOBRESTAMENTO DO RECURSO ESPECIAL. DESCABIMENTO. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO OU PRÉVIA CONCESSÃO DE AUXÍLIO-DOENÇA. TERMO INICIAL DO BENEFÍCIO DE AUXÍLIO-ACIDENTE. CITAÇÃO. ART. 219 DO CPC. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Consoante a jurisprudência do Superior Tribunal de Justiça "as disposições contidas no art. 543-C do CPC dirigem-se aos feitos em trâmite no Tribunal de origem, sendo incabível, nesta Instância superior, a suspensão dos recursos especiais até a apreciação da via submetida ao rito previsto no mencionado dispositivo legal" (STJ, AgRg no REsp 1132514/SP, Rel. Min. OG FERNANDES, SEXTA TURMA, DJe de 19/11/2012).
+II. A questão ora em apreciação foi objeto de exame, pela Terceira Seção do STJ, quando do julgamento do EREsp 735329/RJ, Rel. Ministro JORGE MUSSI, ocasião em que se firmou a orientação no sentido de que, nas ações relativas a benefício previdenciário de auxílio-acidente, ausente a prévia postulação administrativa ou a prévia concessão de auxílio-doença, o termo inicial para a concessão do referido benefício é a citação, a teor do disposto no art. 219 do
+Código de Processo Civil.
+III. "A Terceira Seção desta Corte pacificou o entendimento, no julgamento do EREsp 735.329/RJ, de relatoria do douto Ministro JORGE MUSSI, DJ 6.5.2011, de que ausente prévio requerimento administrativo ou prévia concessão de auxílio-doença, o marco inicial para pagamento de auxílio-acidente é a data da citação, visto que, a par de o laudo pericial apenas nortear o livre convencimento do Juiz e tão somente constatar alguma incapacidade ou mal surgidos anteriormente à propositura da ação, é a citação válida que constitui em mora o demandado (art. 219 do CPC)" (STJ, AgRg no AREsp 145.255/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 04/12/2012).
+IV. Agravo Regimental improvido.
+(AgRg no Ag 1.246.171/SP, Sexta Turma, Relatora Ministra Assusete Magalhães, DJe 8/4/2013)
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. TERMO INICIAL. REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL PROCESSADO NOS TERMOS DO ART. 543-C DO CPC COMO REPRESENTATIVO DA CONTROVÉRSIA.
+1. A Terceira Seção, ao apreciar recurso especial processado nos termos do art. 543-C do Código de Processo Civil, reafirmou o entendimento de que, havendo indeferimento dos benefícios previdenciários de auxílio-acidente, auxílio-doença e aposentadoria por invalidez no âmbito administrativo, o termo inicial fixar-se-á
+na data do requerimento.
+2. Agravo regimental improvido.
+(AgRg no REsp 1.221.517/SP, Quinta Turma, Relator Ministro Jorge Mussi, DJe 26/9/2011)
+Desse modo, o acórdão recorrido merece reforma, para fixar o termo inicial do auxílio-doença na data do requerimento administrativo.
+Ante o exposto, com fulcro no artigo 932, V, do CPC/2015 c/c o artigo 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial.
+Publique-se e intimem-se.
