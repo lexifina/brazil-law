@@ -1,0 +1,19 @@
+DECISÃO: O presente agravo foi interposto por Noel Ferreira contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pela 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Paraná teria transgredido preceitos inscritos na Constituição da República.
+    O exame dos presentes autos evidencia que o recurso extraordinário revela-se inviável.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Decreto nº 3.048/99), o que torna incognoscível o apelo extremo.
+    Cabe registrar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “Nada obstante, peço vênia para divergir no tocante à averbação do trabalho exercido na Prefeitura Municipal de Ortigueira de 01/01/1998 a 03/06/2001, tendo em vista que o autor deixou de apresentar Certidão de Tempo de Contribuição referente a esse período.
+    O art. 130 do Decreto n° 3048/99 traz extensa lista de formalidades a serem cumpridas para a adequada comprovação das atividades prestadas pelo segurado e para que se opere a compensação financeira entre os regimes; veja-se que a documentação apresentada pelo autor (evento 1, docs. 13 a 18) não cumpre tais requisitos.
+    Quando da análise administrativa, o recorrente já havia expedido ofício para encaminhamento da certidão e o Município limitou-se a fornecer a declaração em desacordo com as formalidades legais. Diante disso, não tendo o autor se desincumbido do ônus de apresentar a prova necessária à comprovação da alegada atividade urbana, deve ser afastado o reconhecimento do período em questão.”
+    Impõe-se observar, por relevante, que esse entendimento vem sendo observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 881.042/RS, Rel. Min. GILMAR MENDES – ARE 987.503/RS, Rel. Min. MARCO AURÉLIO – ARE 1.065.915/PR, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.146.966/SP, Rel. Min. ALEXANDRE DE MORAES, v.g.).
+    Vê-se, portanto, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
