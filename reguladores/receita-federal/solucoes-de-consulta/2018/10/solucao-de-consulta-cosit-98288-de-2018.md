@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98288, de 15 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8528.71.90 Mercadoria: Projetor de imagens do tipo DLP (Digital Light Processing) com sintonizador de sinal digital de TV incorporado (DTV Tuner), resolução nativa Full HD (1920 x 1080), duas portas HDMI, um conector de antena/CATV, duas entradas USB, uma saída de áudio digital óptica, uma entrada de vídeo componente, uma entrada de vídeo composto (AV), uma saída de fone de ouvido, uma entrada LAN Ethernet, além de conectividade Wi-Fi e Bluetooth. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 85.28) e 6 (texto das subposições de 1° e 2° nível 8528.71) e RGC/NCM 1 (texto do item 8528.71.90) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e Tipi aprovada pelo Decreto 8.950, de 2016, e subsídios das NESH, aprovadas pelo Decreto nº 435/92, atualizadas pela IN/RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.288-2018 .pdf]
