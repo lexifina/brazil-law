@@ -1,0 +1,10 @@
+DECISÃO
+Recurso ordinário interposto por [NOME] contra o acórdão do Tribunal de Justiça do Rio de Janeiro, que denegou o Habeas Corpus 00275628620178190000 (fl. 27):
+Habeas Corpus. Roubo majorado pelo emprego de arma de fogo, tentado. Condenação. Regime prisional aberto. Denegação do direito de recorrer em liberdade. Alegação de incompatibilidade entre o regime eleito e a manutenção do réu no cárcere. Alegação inconsistente. Regime aberto que pressupõe o status de réu preso. Crime incompatível com a substituição da pena privativa de liberdade por restritivas de direitos. Cabimento de eventual sursis a depender de dilação probatória, incompatível com a via eleita. CES provisória já expedida, assim como ofício determinando a imediata transferência do paciente para o regime fixado na sentença penal condenatória. Ausência de ilegalidade. Ordem denegada.
+Alega o recorrente que há manifesto constrangimento ilegal na manutenção da prisão cautelar e a imposição, na sentença, do regime prisional aberto. Afirma que o paciente está cumprindo medida cautelar mais severa que a própria medida principal, violando os princípios da proporcionalidade e homogeneidade (fl. 41).
+É o relatório.
+Dos autos não está configurada a apontada ilegalidade.
+Consta do acórdão impugnado que a CES provisória já foi expedida, assim como um ofício determinando a imediata transferência do paciente para o regime fixado na sentença penal condenatória (fl. 29).
+Ademais, em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que o recurso de apelação do Ministério Público foi provido para elevar a reprimenda, concretizando-a em 03 anos, 06 meses e 20 dias de reclusão, sob regime aberto, e 08 dias-multa, sendo certificada a baixa definitiva e expedido ofício ao Juízo da Execução. Assim, a prisão agora não tem mais natureza cautelar, decorrendo da execução da pena, razão pela qual eventual ilegalidade deve ser objeto de impugnação junto à Vara de Execuções Penais.
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se.
