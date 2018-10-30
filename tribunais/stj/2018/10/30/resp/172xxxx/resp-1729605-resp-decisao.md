@@ -1,0 +1,3 @@
+DECISÃO
+Nada a deliberar em relação à petição de fls. 294-297, sendo certo que, conforme ressaltei na decisão de fls. 289-290, devem os autos retornar à origem, onde, no momento processual adequado, será examinado se a contribuição prestada pela recorrente ao longo da relação contratual era direta ou apenas coparticipação, e partindo dessa premissa de fato, insusceptível de reexame na via do recurso especial, reapreciar a matéria, com base na tese definida pela Segunda Seção do STJ nos RESP"s 1.680.318/SP e 1.708.104/SP .
+Em face do exposto, reitero a determinação para que a Coordenadoria da Quarta Turma restitua os autos ao Tribunal de origem, com a respectiva baixa, independentemente de intimação da presente decisão.
