@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob os seguintes fundamentos: (a) ausência de obscuridade, contradição ou omissão, (b) falta de demonstração de afronta aos artigos arrolados e (c) aplicação da Súmula n. 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 563):
+AGRAVO RETIDO - Devolução de prazo para impugnar a transcrição de fita de estenotipia, sob alegação de que os autos estavam em carga com advogado da parte contrária Certidão com fé pública, entretanto, dá conta de que os autos estavam em cartório durante todo o decurso do prazo - Recurso não provido.
+PRESTAÇÃO DE SERVIÇOS - Aterramento para construção de represa - Contratação verbal - Conjunto de provas que evidenciam acréscimo no tamanho da represa em uma segunda etapa de obras - Apelante que não se desincumbiu de provar que pagou o preço referente à parte final do serviço - Condenação baseada nas conclusões do perito judicial - Recurso não provido.
+SUCUMBÊNCIA - Diante da sucumbência recíproca, cada parte arcará com os honorários do respectivo patrono; custas e despesas processuais devem ser suportadas em proporção, sendo 60% pela apelante e 40% pela apelada. Incidência do artigo 21 do Código de Processo Civil. Recurso parcialmente provido.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 578/584).
+O recurso especial (e-STJ fls. 587/596), fundamentado no art. 105, III, alínea "a", da CF, apontou ofensa aos arts. 535 do CPC/1973 e 421 e 427 do CC/2002.
+Sustenta, em síntese, que "a manutenção da procedência da presente demanda, viola frontalmente os artigos 421 e 427 do Código Civil, tendo em vista que a Recorrida se vinculou na proposta feita e nela está claro que o preço é fechado" (e-STJ fl. 595).
+Foram oferecidas contrarrazões (e-STJ fls. 602/607).
+O agravo (e-STJ fls. 617/630) refuta os fundamentos da decisão agravada e alega o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 633/637).
+É o relatório.
+Decido.
+Alega a parte recorrente violação do art. 535 do CPC/1973, sem apontar qual o vício do acórdão recorrido, tampouco esclarecer de que forma o referido artigo teria sido violado ou especificar como a manifestação do Tribunal de origem a respeito de determinada norma legal daria amparo à insurgência recursal, não servindo para tal propósito a citação genérica do art. 535 do CPC/1973, carecendo de argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte a afirmar ofensa ao art. 535 do CPC/1973 sem, contudo, demonstrar a suposta violação, há evidente deficiência na fundamentação, fazendo incidir o teor da Súmula n. 284 do STF, aplicada por analogia ao especial.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - MÚTUO HABITACIONAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA MUTUÁRIA.
+1. Nos casos em que a arguição de negativa de prestação jurisdicional é genérica, como na hipótese, não se conhece do recurso especial pela alegada violação do artigo 535 do CPC/73, ante a incidência do óbice da Súmula 284 do STF.
+(..)
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.613.479/PE, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/9/2018, DJe 28/9/2018.)
+Quanto ao alcance dos termos do contrato celebrado entre as partes litigantes, a Corte de origem, mediante a análise da prova dos autos, concluiu que (e-STJ fls. 567/569):
+De fato, no laudo pericial (fls. 310/350) restou consignado que o projeto original, elaborado pelo Eng. [NOME] (fls. 24/27), apresentava área estimada do espelho d"água de 20.800,00 m2. A área atual do espelho, medida pelo perito, é 26% maior, já descontado o pequeno aumento na área causado pela modificação da localização da represa em virtude do imprevisto representado pela laje de pedra. Houve, portanto, um acréscimo da ordem de 6.724,60 m2 em relação ao projeto original.
+E inequívoco, portanto, que a área final da obra é consideravelmente superior àquela originalmente projetada, o que, às escancaras, foi suficiente para interferir na composição do preço combinado inicialmente (ver fls. 29).
+É verdade, apesar da evidência acima identificada, que a apelante sustenta que a área acrescida em relação ao projeto original, embora não constante daquele, fez parte da avença entre as partes, já estando, assim, incluída na contraprestação financeira discriminada às fls. 29.
+Ledo engano, porém.
+Esta tese, em que pese a ausência de outros orçamentos, não é verossímil, em especial diante dos vários elementos que constam dos autos.
+O primeiro indício de que o acréscimo não estava previsto naquele orçamento é o fato de o projeto inicial (fls. 24/27) prever, como bem atesta o perito, área total de 20.800,00 m2. A ré alega que tal projeto serviu apenas para "início de definição da contratação", e que a construção efetivamente realizada "se ateve às determinações feitas in loco por topógrafo contratado".
+Entretanto, jamais trouxe a ré qualquer projeto deste mencionado topógrafo ou qualquer outra prova de que ele sequer exista: não menciona seu nome, não apresenta contrato de prestação de serviços ou recibo e nem ao menos o arrolou como testemunha.
+Não é crível, portanto, que o projeto de fls. 24/27 não tenha sido usado porque não há notícia nos autos de nada que pudesse substituí-lo e, sendo este projeto de apenas 20.800,00 m2 e tendo a represa atualmente 27.524,60 m2, certamente houve uma segunda etapa. Como o orçamento de fls. 29 não faz referência a qualquer segunda etapa, tudo indica que ele engloba apenas o projeto original.
+Outro indício é a comparação da quantidade, em metros cúbicos, de material retirado. Isto porque o orçamento de fls. 29, às claras, indicou o volume que seria movimentado em m3. A perícia, porém, assentou que o volume movimentado relacionado a área acrescida é de 30.392,92 m3 (com margem de erro de 10%). Deste modo, sendo o aumento da área total trazido pelos acréscimos estimado em 26%, não é crível que esta movimentação de volume estivesse incluída no orçamento de fls. 29.
+Ha nos autos também fartos indícios de que as obras se desenvolveram em duas etapas. A prova testemunhai produzida é forte neste sentido: (a) "Eu estive junto com o Paschoal para tentar receber do Senhor Gilberto / o valor da segunda etapa na obra, eu não acompanhei a segunda, acompanhei a primeira" - [NOME], fls. 379; (b) "(a obra foi feita) em duas etapas, um período ficou parado, 15, 20 dias, depois reiniciou e foi até o final / (J: a segunda etapa seria um acréscimo de tamanho ) T: Isso" - [NOME] - fls. 382; (c) "(J: A obra teve quantas etapas ) T: Duas etapas" - [NOME], fls. 385; (d) "Nós terminamos, depois fomos dispensados e a segunda etapa nós voltamos para retirar um barro, para aumentar o espelho d"água, para ficar maior o lago" - [NOME], fls. 387.
+Como se vê, tendo o serviço sido realizado em duas fases distintas, não é provável que o orçamento de fls. 29 englobasse ambas, sem qualquer indicativo de mais de uma etapa ou previsão de interrupção.
+Para dissentir das conclusões do acórdão recorrido quanto ao ponto, seria necessário interpretar as cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
