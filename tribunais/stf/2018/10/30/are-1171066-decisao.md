@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Turma do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “PROCESSO CIVIL: AGRAVO LEGAL. ARTIGO 557 DO CPC. DECISÃO TERMINATIVA. EXECUÇÃO FISCAL. CONTRIBUIÇÃO AO FGTS. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. SOLICITAÇÃO DE INCLUSÃO NO PÓLO PASSIVO DE SÓCIO QUE SE RETIROU ANTES DA DATA EM QUE SE CONSTATOU A DISSOLUÇÃO IRREGULAR.” (eDOC 1, p. 196)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXII LIV; 7º, III; e 97, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação ao direito de propriedade, bem como ao princípio do devido processo legal. Aduz-se, ainda, que “ao ignorar a aplicabilidade do art. 4º, § 2º, da LEF, o v. aresto profere efetivo controle de constitucionalidade com violação da reserva de plenário prevista no art. 97 da CF/88”. (eDOC 1, p. 274)
+    Decido.
+    Registro que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que não há falar em violação ao art. 97 da CF/88, uma vez que, no presente caso, não houve declaração ou reconhecimento de inconstitucionalidade nem de incompatibilidade de norma jurídica com a Constituição Federal que reclamasse a sujeição da questão à regra da reserva de plenário, apenas a aplicação sistemática de normas infraconstitucionais. Confiram-se, a proposito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SAT/RAT. INEXISTÊNCIA DE VIOLAÇÃO DA CLÁUSULA DE reserva DE PLENÁRIO. AGRAVO A QUE SE NEGA PROVIMENTO. I Para haver violação da cláusula de reserva de plenário, prevista no art. 97 da Constituição e na Súmula Vinculante 10 do STF, por órgão fracionário de Tribunal, é preciso que haja uma declaração explícita de inconstitucionalidade de lei ou ato normativo do poder público, ou implícita, no caso de afastamento da norma com base em fundamento constitucional. II Acórdão recorrido efetuou o controle da legalidade do Decreto 6.042/2007. Não ocorrência de violação da cláusula de reserva de plenário. III Agravo regimental a que se nega provimento.” (ARE 959.178 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 15.3.2017).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA OFENSA À SÚMULA VINCULANTE 10. TERCEIRIZAÇÃO. INTERPRETAÇÃO DA LEI. 1. Não viola a reserva de plenário decisão que realiza interpretação sistemática da legislação infraconstitucional sem esvaziá-la. 2. Agravo regimental desprovido, com aplicação de multa prevista no art. 1.021, § §4º e 5º, do CPC/2015.” (RCL 21.317 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.8.2016).
+    Ademais, quanto à alegada ofensa ao art. 5º, inciso LV, da Constituição Federal, é firme a jurisprudência do Supremo Tribunal Federal no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário.
+    A repercussão geral da matéria foi rejeitada no julgamento do ARE 748.371 RG, de minha relatoria, tema 660 da sistemática da repercussão geral, assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Registro, ainda, que esta Corte afastou a natureza tributária do FGTS, quando do julgamento do ARE 709.212 (tema 608 da sistemática da repercussão geral), de minha relatoria, Tribunal Pleno, DJe 19.2.2015.
+    A esse respeito, eis um trecho da decisão do referido paradigma, no que interessa:
+    “Ocorre que o art. 7º, III, da nova Carta expressamente arrolou o Fundo de Garantia do Tempo de Serviço como um direito dos trabalhadores urbanos e rurais, colocando termo, no meu entender, à celeuma doutrinária acerca de sua natureza jurídica.
+    Desde então, tornaram-se desarrazoadas as teses anteriormente sustentadas, segundo as quais o FGTS teria natureza híbrida, tributária, previdenciária, de salário diferido, de indenização, etc.
+    (…)
+    Nesse sentido, cumpre registrar que, mesmo anteriormente à Constituição de 1988, o Supremo Tribunal Federal já havia afastado a tese do suposto caráter tributário ou previdenciário das contribuições devidas ao Fundo, salientando ser o FGTS um direito de índole social e trabalhista.” grifei
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
