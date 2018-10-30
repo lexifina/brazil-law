@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, do CPC/15), interposto por [NOME], em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim sintetizado (fls. 51/56, e-STJ):
+AGRAVO DE INSTRUMENTO AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO DE TUTELA ANTECIPADA E DANOS MORAIS Ação parcialmente procedente Cumprimento de sentença Pedido de desconsideração da personalidade jurídica Ausência de prova de abuso ou fraude Mera alegação de fechamento irregular da pessoa jurídica e ausência de bens à penhora Decisão mantida RECURSO DESPROVIDO.
+Nas razões do especial (fls. 428/439, e-STJ), a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 133 e seguintes, do CPC/15; e 50, do CC, sustentando, em síntese, o preenchimento dos requisitos legais autorizadores da aplicação da teoria da desconsideração da personalidade jurídica da empresa demandada.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade (fls. 91/93, e-STJ), negou-se seguimento ao reclamo, com fundamento nos enunciados contidos nas Súmulas 7/STJ e 284/STF e, ainda, na ausência de comprovação do dissenso pretoriano.
+Daí o agravo (fls. 95/107, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refuta os fundamentos que alicerçaram o decisum impugnado.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Conforme entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, para autorizar a desconsideração da personalidade jurídica da sociedade empresária, a fim de alcançar os bens de seus sócios, afigura-se imprescindível a demonstração de preenchimento de algum dos requisitos elencados no art. 50, do CC - abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou pela confusão patrimonial -, não se revelando a inexistência de bens penhoráveis ou eventual encerramento irregular fundamento suficientes para tanto.
+Neste sentido:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA. CONCLUSÃO EM CONFORMIDADE COM PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO.
+1. Esta Corte Superior firmou seu posicionamento no sentido de que a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do artigo 50 do Código Civil, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial).
+2. Conclusão do acórdão embargado em conformidade com a orientação firmada pela Segunda Seção no julgamento do EREsp 1.306.553/SC.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 960.926/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 21/08/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO NCPC) - EXECUÇÃO - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA AFASTAR A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA. INSURGÊNCIA DO EXEQUENTE.
+1. A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil de 2002, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial.
+2. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não ensejam a desconsideração da personalidade jurídica.
+3. Manutenção da decisão monocrática que, ante a ausência dos requisitos previstos no art. 50 do CC/2002, afastou a desconsideração da personalidade jurídica.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1018483/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/12/2017, DJe 01/02/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARTIGO 50 DO CÓDIGO CIVIL. ABUSO DA PERSONALIDADE JURÍDICA. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. REQUISITOS. NÃO PREENCHIMENTO. ENCERRAMENTO IRREGULAR DA SOCIEDADE. INSOLVÊNCIA DA PESSOA JURÍDICA. DESCABIMENTO. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1636680/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INVIABILIDADE. INTELIGÊNCIA DO ART. 50 DO CC/2002. APLICAÇÃO DA TEORIA MAIOR. INEXISTÊNCIA DE COMPROVAÇÃO DE DESVIO DE FINALIDADE OU DE CONFUSÃO PATRIMONIAL. AGRAVO NÃO PROVIDO.
+1. Em se tratando de relações jurídicas de natureza civil-empresarial, o legislador pátrio, no art. 50 do CC de 2002, adotou a teoria maior da desconsideração, que exige a demonstração da ocorrência de elemento objetivo relativo a qualquer um dos requisitos previstos na norma, caracterizadores de abuso da personalidade jurídica, como excesso de mandato, demonstração do desvio de finalidade (ato intencional dos sócios em fraudar terceiros com o uso abusivo da personalidade jurídica) ou a demonstração de confusão patrimonial (caracterizada pela inexistência, no campo dos fatos, de separação patrimonial entre o patrimônio da pessoa jurídica e dos sócios ou, ainda, dos haveres de diversas pessoas jurídicas).
+2. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades não ensejam a desconsideração da personalidade jurídica.
+3. Manutenção da decisão monocrática que, ante a ausência dos requisitos previstos no art. 50 do CC/2002, afastou a desconsideração da personalidade jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 120.965/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/05/2017, DJe 01/06/2017)
+No caso em exame, o Tribunal de origem, com amparo no acervo probatório dos autos, entendeu não ser cabível a desconsideração da personalidade jurídica da demandada, consoante as seguintes razões decisórias do acórdão recorrido (fls. 53/56, e-STJ):
+ O processo originário esta em fase de cumprimento de sentença, que julgou a ação parcialmente procedente, condenando o réu, ora agravado, a providenciar a transferência da propriedade do veículo em questão, para seu nome e providenciar a quitação de todos os débitos relativos ao veículo (multas, tributos, etc), no prazo de 45 dias, sob pena de multa diária de R$ 500,00, até o limite de R$ 30.000,00.
+ Ocorre que, diante da não localização de bens a penhora do réu e afirmando que a executada encerrou irregularmente suas atividades, além de possuir inúmeras ações judiciais, o autor/agravante, requereu a desconsideração da personalidade jurídica do réu, nos termos do artigo 50, do Código Civil. Busca atingir os bens dos sócios.
+ As tentativas de penhora por meio dos sistemas BACENJUD e RENAJUD restaram infrutíferas.
+ O juízo de 1º grau, diante da ausência dos requisitos do artigo 50, do Código Civil, indeferiu o pedido.
+ Ao encontro desse entendimento, cumpre ressaltar que alegações, tais como: fechamento irregular da pessoa jurídica e ausência de bens suficientes para saldar a dívida, não justificam o deferimento da desconsideração da personalidade jurídica sem prova ou mesmo indício de abuso por parte dos sócios.
+ A criação da personalidade jurídica visa proteger os sócios dos riscos da atividade empresarial, limitando a responsabilidade da empresa ao seu patrimônio sem afetar os bens pessoais dos sócios.
+ Contudo, a regra prevista no art. 50 do Código Civil é medida excepcional que só deve ser aplicada quando houver ao menos algum elemento que indique abuso da pessoa jurídica por seus sócios ou mesmo fraude.
+ (..)
+ No presente caso, não houve prova da existência de manobras por parte dos sócios da empresa, nem ficaram caracterizados os requisitos exigidos pelo art. 50 do Código Civil para decretação da desconsideração da personalidade jurídica.
+Assim sendo, além de o entendimento firmado pela Corte de origem estar em consonância com a orientação jurisprudencial firmada por esta Corte sobre a matéria, o que atrai a incidência da Súmula 83/STJ, para alterar as conclusões do acórdão recorrido acerca do exame dos requisitos necessários para a desconsideração da personalidade jurídica, seria imprescindível a rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7/STJ.
+Cumpre salientar, por oportuno, que apesar dos argumentos deduzidos pelo insurgente, a revaloração da prova consiste em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial, como bem observou o E. Ministro Felix Fischer: "A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento" (REsp 683702/RS, QUINTA TURMA, julgado em 01.03.2005).
+Entretanto, na hipótese dos autos, para que se reconheça o preenchimento dos requisitos necessários para o deferimento do pedido de desconsideração da personalidade jurídica da empresa recorrida, mister seria o reexame das provas colacionadas aos autos, prática que é vedada a esta Corte Superior.
+3. Por fim, esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confiram-se:
+(..) 7. Nesse contexto, em consonância com a judiciosa opinião estampada no parecer ministerial, incide a Súmula 07/STJ, o que também impede o exame da divergência jurisprudencial na medida em as peculiaridades do caso concreto, decisivas à solução conferida pela Corte de origem, não possuem identidade com os paradigmas trazidos à colação. 8. Recurso especial não conhecido ." (REsp 1.186.481/AC, Rel. Min. Castro Meira, 2ª Turma, julgado em 18.05.2010)
+4. Ante o exposto, com amparo na Súmula 568 do STJ c/c o art. 932 do NCPC, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
