@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 5ª Região cuja ementa é a seguinte:
+ADMINISTRATIVO. CARREIRA DE MAGISTÉRIO SUPERIOR. PROGRESSÃO DA CLASSE DE PROFESSOR [NOME], NÍVEL IV PARA PROFESSOR ASSOCIADO NÍVEL IV. AUSÊNCIA DE COMPROVAÇÃO DA AVALIAÇÃO DE DESEMPENHO. LEI 11.344/06. RESOLUÇÃO 099/06 COSESPE. PORTARIA 07/06 - MEC.
+1. Pretende a parte autora, a reforma da sentença para que seja julgado procedente o seu pedido consubstanciado no seu enquadramento na Classe de Professora Associada IV, com efeitos retroativos a 1º de outubro de 1989.
+2. A Lei nº. 11.344/2006 ao promover ao reestruturação da carreira de Magistério Superior criou a classe de Professor Associado estabelecendo os níveis I, II, III e IV, para fins de progressão para os que já se encontrassem no último nível da Classe de Professor [NOME], exigindo assim, de acordo com o art. 5o2, o atendimento de algumas condições: a) titulo de doutor ou livre-docente; b) encontrar-se há pelo menos dois anos no último nível da Classe de Professor [NOME]; c) ser aprovado em avaliação de desempenho acadêmico, a ser realizado pela respectiva instituição federal de ensino
+3. Precedentes deste Tribunal: Primeira Turma, AC 531702/RN, Relator: Des. Federal Manoel Erhardt, julg. 29/03/2012, publ. DJE: 03/04/2012, pág. 89, decisão unânime; Segunda Turma, AC 531898/RN, Relator: Des. Federal Francisco Wildo, julg. 06/12/2011, pub. 15/12/2011, pág. 351, decisão unânime.
+4. Nos termos do art. 3º da Resolução nº 099/2006 -CONSEPE e do art. 4º da Portaria nº 007/2006 do MEC, caberia a parte autora requerer a instituição de ensino superior a qual se encontrava vinculada, as avaliações de desempenho relativas ao biênio que pretendia computar para efeito de progressão para a Classe de Professor Associado.
+5. No caso em tela, a autora se aposentadora voluntariamente, com proventos integrais, como [NOME], por força da Portaria nº. 124/97-PRH de 26/03/97, publicado no DOU 18 DE 04/04/1997. E, conquanto tenha permanecido muitos anos no cargo de [NOME], Padrão IV, superando o interstício mínimo exigido de dois no último nível da Classe de Professor [NOME] e obtido a titulação de Doutora, não pode se valer de tais requisitos, apenas, para fazer jus a progressão vertical pleiteada para a Classe de Professor Associado, nível IV.
+6. Não logrando demonstrado à submissão às avaliações de desempenho com a conseqüente aprovação, nos termos do art. 5º, III, da Lei nº 11.344/06, da Resolução nº 099/2006 do CONSEPE e da Portaria - MEC nº 07/2006, não faz jus à autora, a progressão vertical para a Classe de Professor Associado.
+7. Levando em consideração o valor percebido pelo autora a título de proventos de aposentadoria, em torno de R$ 5.335,66 (cinco mil trezentos e trinta e cinco reais e sessenta e seis centavos) e não restando comprovado à existência de dependentes da autora, mantém a verba honorária, nos valores fixados na sentença, por se encontrar em consonância com o art. 20, § 4º, do CPC.
+8. Apelação improvida.
+Os Embargos de Declaração foram rejeitados.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 5º, LV e 93, IX, da CF; 5º da Lei 11.344/2006; 3º da Lei 7.596/1987 e 16 do Decreto 94.664/1987. Alega, em síntese, que contava muito mais que 2 (dois) anos como [NOME] e detinha o título de Doutor, razão por que deveria ter sido enquadrada como Professor Associado IV, com efeitos retroativos a maio de 2006.
+Contrarrazões apresentadas às fls. 168-178, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.6.2018.
+A irresignação não merece prosperar.
+Inicialmente, em relação aos arts. 5º, LV, e 93, IX, da Constituição Federal, destaco a inviabilidade da discussão em Recurso Especial acerca de suposta ofensa a dispositivos constitucionais, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional. Nesse sentido:
+ PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 18, § 2º, DA LEI 8.213/91. INEXISTÊNCIA. RECURSO EXTRAORDINÁRIO PENDENTE DE JULGAMENTO NO STF. SOBRESTAMENTO DOS RECURSOS ESPECIAIS NO STJ. DESCABIMENTO. DESAPOSENTAÇÃO. POSSIBILIDADE. RESTITUIÇÃO DE VALORES RECEBIDOS NO PRIMEIRO JUBILAMENTO. DESNECESSIDADE. ENTENDIMENTO ASSENTADO NO RESP N. 1.334.488/SC SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC. (..)
+4. A análise de violação à matéria constitucional, nos termos do art. 102, III, da Constituição da República, refoge à jurisdição do STJ, sendo de competência exclusiva da Suprema Corte.
+5. Agravo regimental não provido. (AgRg no REsp 1346760/PR, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 02/10/2013).
+Em relação ao mérito, o Tribunal de origem consignou (fls. 124-125, e-STJ):
+Examinando os autos se verifica que a autora se aposentadora voluntariamente, com proventos integrais, como [NOME], por força da Portaria nº. 124/97-PRH de 26/03/97, publicado no DOU 18 DE 04/04/1997. (Fls. 13)
+Conquanto tenha permanecido muitos anos no cargo de [NOME], Padrão IV e obtido a titulação de Doutora, não pode se valer de tais requisitos, apenas para fazer jus a progressão vertical pleiteada para a Classe de Professor Associado, nível IV se não logrou demonstrar as avaliações de desempenho de que tratam a Lei nº. 11.344/06, Resolução nº 09/2006 do CONSEPE e a Portaria nº 07/2006.
+(..)
+Registre-se ainda, que de acordo com o art. 3º da Resolução nº 099/2006 -CONSEPE e do art. 4º da Portaria nº 007/2006 do MEC, caberia a parte autora requerer a instituição de ensino superior a qual se encontrava vinculada, as avaliações de desempenho relativas ao biênio que pretendia computar para efeito de progressão para a Classe de Professor Associado.
+Como se vê o direito a progressão se encontra condicionado, também, a aprovação do docente nas avaliações de desempenho, o que não restou demonstrado pela autora.
+Assim, o exame da apontada violação do art. 5º da Lei 11.344/2006, se ocorrente, seria apenas indireto, na medida em que o conhecimento da matéria exige a análise da Portaria 07/2006-MEC, o que é inadmissível em Recurso Especial, porquanto tais atos não se enquadram no conceito de "tratado ou lei federal" prevista no permissivo constitucional (art. 105, III, "a"), não tendo o condão de abrir a via estreita do Recurso Excepcional. Nesse sentido já decidiu esta Segunda Turma, verbis:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CARREIRA DO MAGISTÉRIO SUPERIOR. REESTRUTURAÇÃO. LEI 11.344/06. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. PROGRESSÃO PARA O NÍVEL 1 DA CLASSE SEGUINTE. PREVISÃO EM PORTARIA DO MEC. FUNDAMENTO MANTIDO.
+1. Não compete ao Superior Tribunal de Justiça analisar violação de dispositivos constitucionais em sede de recurso especial.
+2. O dispositivo apontado como violado é insuficiente para desconstituir os fundamentos do aresto recorrido e amparar o pleito do recorrente.
+3. Recurso especial não conhecido. (REsp 1389250/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 13/11/2013.
+Ademais, é inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se o óbice da Súmula 7/STJ.
+De outro lado, observa-se que as matérias pertinentes aos arts. 3º da Lei nº 7.596/1987 e 16 do Decreto nº 94.664/1987 não foram apreciadas pela instância judicante de origem. Portanto, ante a falta do prequestionamento, incide o óbice da Súmula 282/STF.
+Diante do exposto, nego seguimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
