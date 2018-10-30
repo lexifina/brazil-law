@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98289, de 15 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3909.10.00 Mercadoria: Aditivo para formulação de tintas em pó, com a função de melhorar o nivelamento e alastramento, constituído de resina ureica modificada, apresentado como granulado esbranquiçado, acondicionado em caixa de 15 kg. DISPOSITIVOS LEGAIS: RGI 1 (Notas 3 c) e 6 b) do Capítulo 39 e texto da posição 39.09) e RGI 6 (Nota 1 de subposição do Capítulo 39 e texto da subposição 3909.10.00) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizada pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.289-2018 .pdf]
