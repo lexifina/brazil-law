@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito de competência em que é suscitante a TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DO RIO GRANDE DO SUL e suscitado o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Após idas e vindas de agravo de instrumento interposto contra decisão que indeferiu pedido de tutela antecipada de suspensão dos efeitos da sentença homologatória de composição civil de danos nos autos de processo criminal, a suscitante sustenta que
+"(..) a decisão homologatória da composição civil proferida pelo Juiz Presidente do Juizado Especial Criminal tem natureza de título judicial cível (..).
+Isso, contudo, salvo melhor juízo, não atrai a competência do julgamento do recurso para Turma Recursal Cível, seja porque o procedimento especial da Lei nº 9.099/95 não admite a interposição de agravo de instrumento contra decisão interlocutória, seja porque este Órgão Recursal não tem competência para julgar decisão proferida por Juiz de Direito investido da jurisdição cível comum (2ª Vara Cível da Comarca de Taquara), mas sim e tão-somente para apreciar recursos inominados interpostos contra decisões terminativas prolatadas por Juízes Presidente dos Juizados Especiais Cíveis, do que aqui não se trata" (fl. 83 e-STJ).
+É o relatório, em síntese.
+DECIDO.
+Consabido que no Superior Tribunal de Justiça prevalecia o entendimento de que
+"(..) as Turmas Recursais de Juizado Especial não são órgãos vinculados ao Tribunal de Justiça, razão pela qual o conflito entre eles é conflito "entre tribunal e juízes a ele não vinculados", o que determina a competência desta Corte para dirimi-lo, nos termos do art 105, I, d, da Constituição" (CC nº 98.057/AL, Rel. Ministro Teori Albino Zavascki, Primeira Seção, julgado em 8/10/2008, DJe 20/10/2008).
+No entanto, a partir do julgamento do Recurso Extraordinário nº 590.409/RJ com repercussão geral reconhecida pelo Supremo Tribunal Federal, deixou-se de encarar a Turma Recursal como Tribunal propriamente dito, haja vista sua instituição decorrer de ato do próprio Tribunal de Justiça com o qual mantém subordinação administrativa.
+Passou-se a entender que
+"cabe ao respectivo Tribunal de Justiça processar e julgar conflitos de competência entre os Juízos de Direito dos Juizados Especiais, bem como as correspondentes Turmas Recursais, e os Juízos de Direito da Justiça Comum Estadual, uma vez que integram a mesma esfera judiciária e são constituídos por juízes de primeiro grau (Lei n. 9.099/95), com submissão a idênticas regras organizacionais e administrativas" (EDcl no AgRg no CC 105.796/RJ, relator Ministro João Otávio de Noronha, Segunda Seção, DJe 30/9/2010).
+Nesse sentido:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. TRIBUNAL DE JUSTIÇA E COLÉGIO RECURSAL DO MESMO ESTADO. CONFLITO NÃO CONHECIDO. APELAÇÃO INTERPOSTA DE SENTENÇA PROFERIDA POR JUÍZO COMUM DE VARA ESTADUAL. DECISÃO DO TRIBUNAL QUE AFASTA SUA COMPETÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Inexiste conflito de competência entre Tribunal de Justiça e Turma Recursal de Juizado Especial Criminal no âmbito do mesmo Estado, tendo em vista que a Turma Recursal não possui qualidade de Tribunal, sendo instituída pelo respectivo Tribunal de Justiça e estando a ele subordinado administrativamente.
+2. No caso, conquanto não haja conflito, configura-se constrangimento ilegal a decisão do Tribunal de Justiça de São Paulo que, ao não conhecer do recurso de apelação interposto contra decisão de Juízo Comum de Vara Estadual, determinou sua remessa dos autos ao Colégio Recursal, sob o argumento de ser o delito de menor potencial ofensivo.
+3. Conflito de competência não conhecido. Habeas corpus concedido, de ofício, para determinar que Tribunal de Justiça de Santa Catarina aprecie o recurso de apelação interposto."
+(CC 124.633/SC, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), TERCEIRA SEÇÃO, julgado em 12/12/2012, DJe 1º/2/2013)
+"CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE TRIBUNAL DE JUSTIÇA E TURMA RECURSAL DO MESMO ESTADO. CONFLITO NÃO CONHECIDO.
+1. A Terceira Seção desta Corte não reconhece a existência de conflito de competência entre Tribunal de Justiça e Turma Recursal de Juizado Especial Criminal pertencentes a um mesmo Estado, dado que, em 26/8/2009, o Plenário do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 590.409/RJ, com repercussão geral reconhecida, afirmou que a Turma Recursal não possui qualidade de Tribunal, visto que é instituído pelo respectivo Tribunal de Justiça e está a ele subordinada administrativamente. Precedentes.
+2. Conflito de competência não conhecido. Remessa dos autos ao Tribunal de Justiça do Estado do Paraná."
+(CC 140.322/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 24/2/2016, DJe 29/2/2016)
+Confiram-se, ainda, as seguintes decisões: CC nº 156.539/ GO, Rel. Ministro Paulo de Tarso Sanseverino, Publ. 22/2/2018; CC nº 154.183/GO, Rel. Ministro Paulo de Tarso Sanseverino, Publ. 13/09/2017; e CC nº 147.857/MG, Rel. Ministro Marco Buzzi, Publ. 7/2/2017.
+Ante o exposto, não conheço do conflito e determino a remessa dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul.
+Publique-se.
