@@ -1,0 +1,10 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pela Primeira Turma Cível e Criminal do Colégio Recursal de Jundiaí/SP, está assim ementado:
+    “DIREITO PÚBLICO – SERVIDORES PÚBLICOS ESTADUAIS – REVISÃO GERAL ANUAL DE VENCIMENTOS – PRETENSÃO DE INDENIZAÇÃO PELA OMISSÃO DO ENTE PÚBLICO IMPROCEDÊNCA – Pleito indenizatório que equivale a reajuste salarial de servidores públicos – Descabimento – Imprescindibilidade de lei específica, de iniciativa privativa do Chefe do Poder Executivo – Vedação de reajuste salarial pelo Poder Judiciário, sob pena de violação à harmonia e independência entre os Poderes Estatais – Inteligência da Súmula Vinculante nº 37 – Entendimento pacificado neste Colégio Recursal – Sentença de procedência reformada – Recurso improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 565.089/SP, Rel. Min. MARCO AURÉLIO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “VENCIMENTOS – REPOSIÇÃO DO PODER AQUISITIVO – ATO OMISSIVO – INDENIZAÇÃO – INCISO X DO ARTIGO 37 DA CONSTITUIÇÃO FEDERAL – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO DO TEMA. Ante a vala comum da inobservância da cláusula constitucional da reposição do poder aquisitivo dos vencimentos, surge com repercussão maior definir o direito dos servidores a indenização.”
+    Isso significa que se impõe, quanto ao Tema nº 19/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao órgão judiciário de origem.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
