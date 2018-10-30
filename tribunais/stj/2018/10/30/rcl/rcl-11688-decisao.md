@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de reclamação ajuizada por [NOME] e outros contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, sob a alegativa de que houve descumprimento do julgado proferido pelo STJ nos autos do Ag 1.119.106/SP. Confira-se a ementa do ato judicial reclamado (e-STJ, fl. 307):
+AGRAVO DE INSTRUMENTO - Execução de sentença - Servidores Públicos Municipais - Reajuste de vencimentos - índice de reajuste para o mês de fevereiro de 1995 - Inexistência de determinação de que o índice de 82,52% seja aplicado mês a mês em todo o período que se executa. Obrigação que se tem por cumprida com a aplicação do índice de 82,52% para o mês de fevereiro de 1995, devendo-se observar para os demais meses as disposições das Leis nºs 11.722/95 e 12.397/97. Decisão reformada. Recurso provido.
+Os reclamantes alegam que obtiveram o direito à incorporação do índice de reajuste de 82,52% sobre os vencimentos dos servidores, nos termos da Leis municipais n. 10.688/1988 e 10.722/1989, não sendo possível reduzi-lo no bojo do cumprimento da sentença, sob pena de violar a coisa julgada.
+Requerem a procedência da reclamação, a fim de que seja cassado o acórdão exarado pelo Tribunal de Justiça do Estado de São Paulo.
+A autoridade reclamada apresentou informações às e-STJ, fls. 290-328.
+Não foi apresentada contestação (certidão de e-STJ, fl. 329).
+O Ministério Público Federal opinou pela improcedência da reclamação (e-STJ, fls. 334-340).
+Decido.
+O cabimento da reclamação para se preservar a autoridade das decisões proferidas por esta Corte Superior depende da efetiva demonstração de que o ato judicial reclamado afrontou, especificamente, determinado provimento jurisdicional vinculante para as partes.
+No caso, a parte dispositiva do julgamento proferido pelo STJ nos autos do Ag 1.119.106/SP consta a seguinte determinação:
+Ante o exposto, com fulcro no art. 544, § 3º, do Código de Processo Civil, estando o acórdão recorrido em total dissonância com a jurisprudência desta Corte, conheço do agravo para dar provimento ao recurso especial, afastando a aplicação das Leis Municipais nos 11.722/95 e 12.397/97 no mês de fevereiro de 1995, determinando que sejam os cálculos dos reajustes dos servidores municipais realizados nos termos das Leis nos 10.688/88 e 10.722/89.
+O acórdão reclamado elucida que houve a aplicação do reajuste definido pelo STJ relativamente ao mês de fevereiro de 1995, consoante disposto pelas Leis municipais n. 10.688/88 e 10.722/89, como se verifica do excerto a seguir transcrito:
+Dessa forma, assegurada a sistemática antiga de reajuste descrita pelas Leis Municipais nºs 10.688/88 e 10.722/89 e abatendo-se o reajuste de 6% já concedido, é correta a aplicação do percentual de 82,51% referente ao mês de fevereiro de 1995. Note-se que, nesse contexto, não houve determinação para se afastar a aplicação das Leis nºs 11.722/95 e 12.397/97 dos meses de março de 1995 em diante, tampouco inexiste qualquer determinação no sentido de que o índice de 82,52% seja aplicado mês a mês em todo o período que se executa, reforçando-se que tal índice somente é aplicável, no caso, ao mês de fevereiro de 1995, cumprindo observar para os meses subsequentes as disposições da Lei nº 11.722/95.
+Desse modo, não procede a alegativa de que houve desrespeito ao julgado proferido por esta Corte Superior.
+Nesse mesmo sentido é o parecer do Ministério Público Federal (e-STJ, fls. 338-340):
+No caso que se cuida, a Reclamação não pode prosperar por manifesta improcedência, uma vez que a decisão emanada pela Corte Superior proferida no Agravo de Instrumento n. 1.119.106-SP, assegurou aos reclamados, servidores do Município de São Paulo, reajuste de vencimentos,para o mês de fevereiro de 1995, com base nas Leis ns. 10.668/88 e 10.722/89, sem os abatimentos previstos nas Leis ns. 11.722/95 e 12.397/97, frise-se, não pontuando qualquer fixação de percentual  ..
+É de se verificar, pois, que a Corte estadual não infringiu o determinado pelo Colendo Superior Tribunal de Justiça. Em verdade, a pretensão dos Reclamantes, sim, é que extrapola a determinação do decisum proferido pelo Superior Tribunal de Justiça, e de modo tal que a presente reclamação resta incabível, porquanto não é instrumento apto a viabilizar a melhor ou mais conveniente interpretação que se possa pretender fazer dos fatos da causa.
+Ante o exposto, julgo improcedente a reclamação.
+Sem condenação a honorários advocatícios, porquanto não houve contestação da parte interessada.
+Publique-se. Intimem-se.
