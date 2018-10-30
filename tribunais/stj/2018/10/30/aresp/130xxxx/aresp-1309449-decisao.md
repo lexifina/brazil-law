@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Estado de Mato Grosso contra decisão que inadmitiu o recurso especial com base no óbice da Súmula 83/STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional em oposição a acórdão assim ementado:
+APELAÇÃO CÍVEL  AÇÃO ORDINÁRIA DE COBRANÇA  URV  SENTENÇA IMPROCEDENTE ANTE A OCORRÊNCIA DA PRESCRIÇÃO  NÃO CONFIGURADA  INCIDÊNCIA DA SÚMULA 85 DO STJ  SERVIDOR EFETIVO  DIREITO AO RECEBIMENTO DE EVENTUAL DEFASAGEM - APURAÇÃO DO PERCENTUAL POR LIQUIDAÇÃO DE SENTENÇA  ARBITRAMENTO  REESTRUTURAÇÃO DA CARREIRA  OBSERVÂNCIA - HONORÁRIOS ADVOCATÍCIOS ARBITRADOS QUANDO LIQUIDADO O JULGADO  ARTIGO 85, §4º, II DO CPC - JUROS MORATÓRIOS DE 6% AO ANO ATÉ O ADVENTO DA LEI Nº 11.960/2009  POSTERIORMENTE 1NDICES OFICIAIS DE REMUNERAÇÃO BÁSICA E !JUROS APLICÁVEIS À CADERNETA DE POUPANÇA  CORREÇÃO MONETÁRIA  APLICAÇÃO PELO INPC ATÉ O ADVENTO DA LEI Nº 11.960/2009  APÓS ÍNDICES OFICIAIS DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS À CADERNETA DE POUPANÇA - RECURSO PARCIALMENTE PROVIDO.
+1  Nas demandas em que se manifesta o reconhecimento de diferenças salariais decorrentes de errônea conversão de moeda, a prescrição alcança apenas as parcelas vencidas no quinquênio anterior ao ajuizamento da ação, de acordo com a Súmula 85 do STJ.
+2  Como nem todo servidor sofreu defasagem salarial, e até aqueles que sofreram, o percentual é variável, sendo necessária a liquidação de sentença para apuração do montante devido.
+3  "Para a fixação ido índice decorrente da conversão de Cruzeiro Real para Unidade ,Rel al de Valor, deve ser considerada a reestruturação financeira da carreira, acaso ocorrida, consoante decidiu o Supremo Tribunal Federal: STF, Tribunal Pleno, RE 56I836/RN, relator Ministro Luiz Fia, DJe 10/2/2014" (Apelação/Remessa Necessária 85268/2016, ReL Des. Luiz Carlos da Costa, 2º Câmara de Direito Público e Coletivo, julgado em 19.07.2016)".
+4  Não sendo líquida a sentença, a fixação do percentual dos honorários advocatícios somente ocorrerá quando liquidado o julgado, nos termos do artigo 85, §4º, inciso II do Código de Processo Civil.
+5  Juros de mora no percentual de 6% (seis por cento ao ano), a partir da citação válida, até a data da nova redação do artigo 1º- F da Lei n.9.494/97, instituído pela Lei nº 11.960 de 29.06.2009, quando então deverão incidir os índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança.
+6 - Correção monetária pelo INPC, desde o momento em que as parcelas deveriam ser pagas, até o advento da Lei nº. 11.960/2009, que deu nova redação ao artigo 1º-F da Lei nº. 9.494/1997, e após os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. (e-STJ, fl. 508/509)
+O recorrente sustenta, além de divergência jurisprudencial, violação do art. 22, I e II, da Lei n. 8.880/1994 sob a alegação de que o percentual de aumento pretendido é indevido, pois os valores pleiteados foram implementados por ocasião da reestruturação da carreira dos autores e, ainda, porque não teria sido comprovado o efetivo prejuízo.
+Aduz, também, ofensa ao art. 202 do Código Civil e ao Decreto n. 20.910/1932. Aponta ocorrência de prescrição da pretensão autoral.
+As contrarrazões foram apresentadas às e-STJ, fls. 580/586.
+É o relatório.
+O Tribunal de origem afastou a suscitada ocorrência de prescrição do fundo de direito, consignando que o recorrente não logrou comprovar que houve reestruturação na carreira dos servidores.
+Ademais, a Corte estadual ressaltou que, no caso, há relação de trato sucessivo, que se renova mês a mês, com prescrição apenas das prestações referentes ao quinquênio anterior à propositura da ação, bem como que o efetivo prejuízo será apurado na fase de liquidação de sentença.
+Confiram-se os excertos do aresto impugnado:
+Assim, uma coisa é a Lei prever a reestruturação da carreira, outra, bem diferente, é esta reestruturação suprir, por completo, eventual defasagem na remuneração do apelante por ocasião de incorreta utilização do método de conversão de Cruzeiros Reais para Unidade Real de Valor  URV, previsto na Lei nº 8.880, de 27 de maio de 1994, questão que, ausente nos autos cálculo especifico nesse sentido, deve ser apurada em liquidação de sentença.
+Vislumbra-se, portanto, que in casu a ação foi proposta em 04.08.2015 (fl. 04 - verso), impõe-se, então, reconhecer prescritas somente as parcelas anteriores a 04.08.2010, ou seja, por se tratar de trato sucessivo, prescrevem apenas as parcelas vencidas anteriormente ao quinquênio que antecedeu ao ajuizamento da ação.
+O Superior Tribunal de Justiça, no julgamento de recursos repetitivos, traz o entendimento de que a prescrição renova-se a cada mês, atingindo tão somente as parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+ ..
+Desse modo, consoante entendimento do Supremo Tribunal Federal, somente com a liquidação da sentença é que se encontrarão os erros da conversão salarial em URV, e que ainda são absorvidos pelos servidores do poder estadual nos dias atuais, inclusive depois da reestruturação de suas carreiras.
+(e-STJ, fls. 513/518)
+Verifico que o insurgente não impugnou nenhum dos fundamentos autônomos do acórdão combatido, pois limitou-se a alegar que teria havido reestruturação na carreira dos autores e ausência de prejuízo, atraindo, assim, a incidência da Súmula 283/STF na espécie. Tal entendimento, de igual modo, é aplicável ao recurso especial interposto com suporte na divergência jurisprudencial.
+Além disso, se o Tribunal a quo - alicerçado na prova dos autos - assegura que não está suficientemente comprovado nos autos a propalada reestruturação na carreira dos servidores, modificar tal conclusão, como pretende a insurgência, demanda a incursão na seara fática, medida vedada no apelo excepcional em razão da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. CONVERSÃO DA MOEDA. UNIDADE REAL DE VALOR - URV. LEI 8.880/1994. COMPROVAÇÃO DE PREJUÍZO. REESTRUTURAÇÃO DA CARREIRA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO PRETORIANO PREJUDICADO.
+1. Cuida-se, na origem, de Ação Ordinária interposta pelos ora recorrentes, todos servidores públicos, objetivando o recálculo dos seus vencimentos e proventos, convertendo-os para a URV a partir do mês de março de 1994, conforme estabelecido no artigo 22 da Lei 8.880/1994.
+2. Hipótese em que a análise das alegações trazidas no especial, a fim de aferir que inexistiu a recomposição remuneratória dos recorrentes, pressupõe o reexame do conjunto fático-probatório do feito, o que é obstado na via do Recurso Especial pela Súmula 7/STJ.
+3. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Recurso Especial não conhecido.
+(REsp 1.681.164/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2017, DJe 9/10/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ e a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
