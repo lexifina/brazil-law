@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 961/964) que inadmitiu o recurso especial em virtude da impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ).
+O acórdão recorrido está assim ementado (e-STJ fl. 889):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - ALEGAÇÃO DE ERRO MÉDICO - AGRAVO RETIDO - ALEGAÇÃO DE NECESSIDADE DE INVERSÃO DO ÔNUS DA PROVA E CERCEAMENTO DE DEFESA - DESPROVIDO - MÉRITO - PROVAS DOS AUTOS APONTAM QUE FORAM TOMADAS TODAS AS MEDIDAS CABÍVEIS QUANDO DO ATENDIMENTO EMERGENCIAL DO FILHO DO APELANTE - INEXISTÊNCIA DE ERRO MÉDICO - IMPOSSIBILIDADE DE CONDENAÇÃO EM INDENIZAÇÃO POR DANOS MORAIS - POSSIBILIDADE DE REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 910/915).
+Nas razões do recurso especial (e-STJ fls. 919/928), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(a) arts. 489, § 1º, IV, e 1.022 do CPC/2015, afirmando omissão quanto à condenação do médico no Conselho Regional de Medicina,
+(b) arts. 333, II, do CPC/1973 e 186 e 927 do CC/20015, sustentando a necessidade de revaloração da prova e a consequente condenação da parte recorrida.
+No agravo (e-STJ fls. 966/976), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida apresentou contraminuta (e-STJ fls. 981/990).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+A Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte, afirmando que as provas constantes dos autos eram suficientes para o julgamento do feito (e-STJ fl. 892/893). Não há, portanto, omissão alguma a ser sanada.
+Como se verifica, o acórdão hostilizado não incorreu em nenhum dos vícios listados no art. 489 do CPC/2015, na medida em que dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com ausência de fundamentação.
+O Tribunal de origem, à luz das provas dos autos, concluiu pela ausência de erro médico indenizável, nos seguintes termos (e-STJ fls. 893/895):
+Primeiramente, destaco meu entendimento no sentido de que em caso de eventual condenação em indenização por erro médico, é solidária a responsabilidade entre o hospital e o médico que utiliza de suas dependências para atendimento, ainda que não haja vínculo empregatício entre eles, tendo em vista a evidente contratação entre ambos.
+Nesse ponto, observo que há discussão doutrinária e jurisprudencial sobre a aplicação do art. 932, III, do Código Civil, e do art. 14 do Código de Defesa do Consumidor, quando se pleiteia indenização em face do hospital em razão de erro ou falha do médico, entendendo alguns que somente quando este profissional for contratado o hospital responderá de forma objetiva.
+(..)
+Pois bem, aduz o apelante que a decisão foi proferida exclusivamente com base nos relatos dos apelados, de uma testemunha e do laudo pericial que não encontra amparo nos documentos do processo, concluindo que os requeridos não cometeram nenhuma ilegalidade; que na tentativa de infirmar evidente erro médico no qual incorreram, os apelados sustentaram que seu filho estava visivelmente embriagado quando do ocorrido, situação esta que teria atrapalho no diagnóstico, mas, contudo, argumenta que não há prova da alegada embriaguez; fundamenta que o que aconteceu no caso dos autos foi um descaso dos apelados com o filho do apelante que foi vítima de acidente automobilístico.
+Contudo, neste ponto, igualmente tenho que o recurso não deve ser provido, uma vez que as provas dos autos apontam em sentido contrário ao que alega o apelante, ou seja, de que não há dano moral por erro médico a ser indenizado.
+Aliás, o que se pode constatar é que os médicos prestaram o atendimento de emergência de que necessitada o filho do autor naquele momento, o qual chegou na [NOME] Casa de Campo Grande com pressão arterial de 80/50 (extremamente baixa), adotando a conduta que lhes era possível para normalizar esse quadro, qual seja: ministraram soro ao paciente visando estabilizar a pressão arterial do mesmo, para, então, depois disso, poder removê-lo com segurança para realização da tomografia de tórax que necessitava.
+Como bem destacou o julgador singular, "além da impossibilidade de remoção do paciente da [NOME], para ser submetido a tomografia do tórax, antes da estabilização da sua pressão arterial vê-se do prontuário de f. 348 e das informações do d. Perito do juízo, que o paciente, por ocasião de seu atendimento de emergência, não apresentava, conjuntamente, os três sintomas clássicos do tamponamento cardíaco, conhecidos por [NOME]: a) hipofonese de bulhas, b)turgência juglar e c) hipotensão arterial"., sendo que apenas esse último sintoma foi constatado no filho do apelante, como pode ser notado do prontuário médico de atendimento.
+(..)
+Desta feita, tenho que não há como brigar com as provas dos autos, as quais apontam que não houve erro no atendimento médico prestado ao filho do apelante.
+Assim, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
