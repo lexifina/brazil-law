@@ -1,0 +1,26 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pela Ministra LAURITA VAZ, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 473.858/SP.
+    Consta dos autos, em síntese, que o paciente foi preso em flagrante, convertida em preventiva, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei 11.343/06).
+    Narra a exordial acusatória que o paciente guardava, ocultava e tinha em depósito, para entrega de qualquer forma ao consumo de terceiros, 52 porções de cocaína, com peso bruto aproximado de 31,0 g; 30 porções de maconha, como é vulgarmente conhecida a droga Cannabis sativa L, com peso bruto aproximado de 36,0 g; outras 02 porções de maconha, com peso bruto aproximado de 70,0 g; e mais 01 porção de maconha, com peso bruto aproximado de 425,0 g (Doc. 3 – fls. 1/2).
+    Inconformada com o decreto prisional, a defesa impetrou Habeas Corpus no Tribunal de Justiça de São Paulo, cujo pedido de medida liminar foi negado, sob os seguintes fundamentos (Doc. 6 – fl. 3):
+    [...]
+    Ao converter a prisão em flagrante em medida acautelatória preventiva, o i. magistrado a quo considerou a presença de indícios suficientes de autoria e prova da materialidade delitiva. Ademais, ponderou a necessidade da medida para garantia a ordem pública, em razão da expressiva quantidade de droga apreendida em poder do paciente.
+    [...]
+    Ademais, a apreensão de significativa quantidade de entorpecentes, consistente em 562g de drogas variadas, revela, nesta primeira análise, que as demais cautelares previstas no artigo 319, do Código de Processo Penal, podem ser inadequadas.
+    [...]
+    Assim sendo, prematura a apreciação da matéria em questão em esfera de cognição sumária.
+    Na sequência, apresentou outra impetração, desta vez direcionada ao Superior Tribunal de Justiça, que indeferiu liminarmente a ordem.
+    Nesta ação, o impetrante sustenta, em suma, a ausência dos pressupostos autorizadores da custódia cautelar. Afirma a inidoneidade da decisão que implicou a preventiva, pois lastreada na gravidade em abstrato do delito. Aponta não terem sido expostas as razões justificadoras da imprescindibilidade da medida cautelar extrema.
+    Requer, assim, a concessão da ordem, para que o paciente possa aguardar o julgamento em liberdade, com ou sem a imposição de medidas cautelares diversas da prisão.
+    É o relatório. Decido.
+    No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça, determinando a extinção do Habeas Corpus ajuizado naquela Corte (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+    De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+    Como bem apontado pelo Ministro LUIZ FUX, com base em diversos outros precedentes desta Primeira Turma, em regra, a flexibilização dessa norma implicaria afastamento do texto da Constituição, pois a competência deste SUPREMO TRIBUNAL, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades, no caso, membros de Tribunais Superiores, cujos atos não estão submetidos à apreciação do SUPREMO TRIBUNAL FEDERAL (HC 139.262, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 23/3/2017).
+    Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+    No particular, entretanto, não se apresentam as hipóteses de teratologia ou excepcionalidade.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
