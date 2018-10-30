@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO DE INSTRUMENTO. MEDICAMENTOS ANTINEOPLÁSICOS. FORNECIMENTO. COMPETÊNCIA DOS CACONS E UNACONS. TRATAMENTO REALIZADO JUNTO AO HOSPITAL FEDERAL ANTONIO PEDRO (UFF). ILEGITIMIDADE PASSIVA DA UNIÃO FEDERAL, DO ESTADO E DO MUNCÍPIO DO RIO DE JANEIRO.
+1. Na origem, o autor ajuizou ação pelo rito ordinário em face da União Federal, do Estado do Rio de Janeiro, do Município do Rio de Janeiro e da Universidade Federal do Rio de Janeiro - UFRJ, com pedido de antecipação de tutela, objetivando o fornecimento do fármaco BORTEZOM1B (VECALDE) - 6 ciclos, para dar continuidade ao seu tratamento oncológico, além dos demais acessórios e medicamentos que vierem a ser necessários para o tratamento da moléstia que o acomete ou, caso não seja possível, a disponibilização pelos réus do montante necessário para a aquisição junto à rede privada, o que foi deferido pelo magistrado a quo.
+2. Na hipótese em exame, em que pese a referência equivocada ao Hospital Universitário Pedro Ernesto na petição inicial, os laudos médicos acostados aos autos demonstram que o autor submete-se a tratamento junto ao Hospital Universitário Antônio Pedro, vinculado à Universidade Federal Fluminense (UFF), que possui personalidade jurídica própria.
+3. O funcionamento da assistência oncológica é regido por uma sistemática própria, com fornecimento dos fármacos pelos Centros de Alta Complexidade em Oncologia - CACONs e pelas Unidades de Assistência de Alta Complexidade em Oncologia - UNACONs, não estando submetidos os remédios para o tratamento de neoplasias aos ditames próprios dos medicamentos básicos, estratégicos ou experimentais.
+4. Em virtude da reestruturação do funcionamento da assistência oncológica, à União Federal, por intermédio do Ministério da Saúde, incumbe, agora, apenas o repasse dos recursos para o custeio dos procedimentos e medicamentos de Alta Complexidade em Oncologia, não tendo competência sobre o processo de distribuição da medicação a ser utilizada. Com a nova sistemática, os medicamentos antineoplásicos são fornecidos diretamente pelos CACONs e UNACONs, cabendo à União, tão somente, o repasse dos recursos para o custeio dos procedimentos. Precedentes: TRF2, AG 201302010029177, SÉTIMA TURMA ESPECIALIZADA, E-DJF2R 29/04/2014; TRF2, AG 201302010174761, SÉTIMA TURMA ESPECIALIZADA, E-DJF2R 30/04/2014.
+5. Agravo de instrumento conhecido e provido.
+Os Embargos de Declaração foram rejeitados fls. 176-184, e-STJ.
+Aponta a parte recorrente violação dos arts. 2º, 15, XXI, 16, X e XIII, 17, III, IV e XI, 18, I e V, da Lei 8.080/90, sob o argumento de que a União, Estados e Municípios são solidários no fornecimento de medicamentos e tratamento médico.
+Aduz, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Apresentadas as contrarrazões às fls. 252-258, e-STJ.
+O Ministério Público Federal, mediante parecer de fls. 279-286, e-STJ, opinou pelo provimento do Recurso Especial.
+Pedido de reconsideração à fl. 303, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.2.2018.
+Diante da argumentação trazida, reconsidero a decisão agravada e passo à análise do recurso.
+A irresignação merece prosperar.
+Sobre o assunto, manifestou-se o Tribunal de origem (fls. 909-911, e-STJ, grifei):
+In casu, em que pese a referencia equivocada ao Hospital Universitário Pedro Ernesto na petição inicial (fl. 23 - verso), os laudos médicos acostados aos autos (fls. 38/40) demonstram que o autor submete-se a tratamento junto ao Hospital Universitário Antônio Pedro, vinculado à Universidade Federal Fluminense (UFF), que possui personalidade jurídica própria.
+Dessa forma, na esteira da fundamentação supra, cabe ao próprio centro especializado em oncologia em que o paciente é atendido a dispensação dos fármacos necessários ao tratamento do câncer, bem como outros utilizados em razão de eventuais complicações decorrentes do tratamento oncológico.
+Diante do exposto, verifica-se a ilegitimidade passiva da União Federal. Destaque-se, ainda, que, na esteira da fundamentação supra, todos os entes apontados inicialmente como réus são partes ilegítimas para figurar no pólo passivo da demanda, uma vez que a responsabilidade pelo fornecimento do fármaco, como afirmado alhures, é da Universidade Federal Fluminense (UFF), razão pela qual o processo, a rigor, deveria ser julgado extinto sem exame do mérito, nos termos do disposto no art. 267, VI, do CPC.
+Percebe-se que o entendimento da Corte de origem não está em conformidade com o do STJ, de que o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios, de modo que qualquer um desses Entes tem legitimidade ad causam para figurar no polo passivo de demanda que objetiva a garantia do acesso a medicamentos para tratamento de problema de saúde.
+A propósito:
+ PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS PELO FUNCIONAMENTO DO SISTEMA ÚNICO DE SAÚDE. IMPOSSIBILIDADE DE REVISÃO DOS CRITÉRIOS ADOTADOS PARA ADMITIR A NECESSIDADE E ADEQUAÇÃO DO MEDICAMENTO AO PACIENTE. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DA UNIÃO FEDERAL DESPROVIDO.
+1. Este Superior Tribunal de Justiça tem firmada a jurisprudência de que o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios, de modo que qualquer um desses Entes tem legitimidade ad causam para figurar no polo passivo de demanda que objetiva a garantia do acesso a medicamentos para tratamento de problema de saúde.
+2. Quanto aos critérios adotados para admitir a necessidade e adequação do medicamento ao paciente, insta destacar que o juiz é o destinatário da prova, devendo guardar adstrição ao seu livre convencimento sob o manto da persuasão racional, competindo-lhe determinar as provas úteis à instrução do feito, até mesmo ex officio, afastando as diligências que entender inúteis ou meramente protelatórias.
+3. Verificar se os documentos e provas colacionados pela parte são ou não suficientes à solução da controvérsia, de modo a alterar a conclusão a que chegou o Tribunal a quo, é questão que exige o revolvimento do contexto fático-probatório dos autos, a atrair o óbice previsto na Súmula 7 do STJ.
+4. Agravo Regimental da União Federal desprovido.
+(AgRg no AREsp 712.992/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/09/2015, DJe 23/09/2015)
+Diante do exposto, torno sem efeito a decisão de fls. 288-290, e-STJ, e dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
