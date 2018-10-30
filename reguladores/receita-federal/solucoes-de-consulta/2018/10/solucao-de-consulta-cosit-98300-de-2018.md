@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98300, de 19 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8521.90.90 Mercadoria: Aparelho de gravação e reprodução de vídeo e áudio, com armazenamento em disco rígido magnético (HDD), apresentado isoladamente, especialmente projetado para conexão sem fio com câmeras de vídeo de segurança (câmeras IP), comercialmente denominado “Net Video Recorder (NVR)”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.21), RGI 6 (texto da subposição 8521.90) e RGC 1 (texto do item 8521.90.90), constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.300-2018 .pdf]
