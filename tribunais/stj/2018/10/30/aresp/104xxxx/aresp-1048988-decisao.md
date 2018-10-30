@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, em 09/06/2015, contra decisão do Tribunal de Justiça do referido Estado, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"Recurso ex officio. Ação Popular. Alegação de direcionamento de certame realizado pelo Departamento de Águas e Esgotos de Ribeirão Preto (DAERP). Ausência de comprovação. Edital que não apresentou exigências desconcertadas do objeto licitado, tampouco restringiu a participação de licitantes idôneos. Ação julgada improcedente na origem. Sentença mantida. Recurso oficial não provido" (fl. 3.241e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados, nos seguintes termos:
+"Embargos de Declaração. Inocorrência de omissão, obscuridade ou contradição. Pretensão de efeitos infringentes que dispõe de via adequada à sua obtenção. Julgador que não está obrigado a rebater todos os argumentos aviventados pelas partes, muito menos à menção pormenorizada dos dispositivos legais que a parte entende pertinentes ao deslinde da questão posta nos autos. Embargos rejeitados" (fl. 3.256e).
+Sustenta a parte agravante, nas razões do Recurso Especial, a ofensa aos seguintes dispositivos legais:
+"- o artigo 535, inciso II, do Código de Processo Civil, uma vez que o E. Tribunal "a quo", instado a se manifestar sobre a matéria legal em embargos de declaração, não proferiu sobre ele pronunciamento algum, deixando de sanar a omissão quanto ao fato da amplitude do objeto da licitação;
+- artigo 3º, § 1º, da Lei 8.666/93, porquanto admitiu, previu e incluiu, nos atos de convocação, cláusulas ou condições que restringiram arbitrariamente o seu caráter competitivo;
+- artigo 30, inc. II, da Lei n.º 8.666/93, em razão da exigência desmotivada de satisfação de condições especialíssimas, e artigo 33, caput, da Lei n.º 8.666/93, em decorrência da vedação desmotivada de participação de consórcios no certame" (fl. 3.266e).
+Por fim, requer o provimento do Recurso Especial, "com a consequente anulação do v. acórdão dos embargos de declaração, retornando os autos à origem para novo julgamento" ou "condenando os Recorridos nos termos da inicial, tudo por representar medida de interesse público, de direito e de absoluta justiça para povo que espera uma Administração fundada na legalidade, impessoalidade, moralidade, publicidade e eficiência" (fls. 3.281/3.282e).
+Apresentadas contrarrazões, foi o Recurso Especial inadmitido pelo Tribunal de origem (fl. 3.338e), ensejando a interposição do presente Agravo (fls. 3.344/3.369e).
+O Ministério Público Federal, em parecer de fls. 3.456/3.462e, opina pelo desprovimento do Agravo.
+Sem razão a parte recorrente.
+Na origem, trata-se de Ação Popular, objetivando a anulação de atos lesivos ao Estado, sob o fundamento de que teria ocorrido o direcionamento indevido de edital de licitação que teve como objetivo a operação e manutenção de aterro sanitário, tratamento de resíduos, coleta e transporte de lixo reciclável.
+Julgada improcedente a demanda, recorreram os autores, restando mantida a sentença pelo Tribunal local. Daí a interposição do presente Recurso Especial.
+No que se refere à alegada ofensa ao art. 535, I e II, do CPC/73, os Embargos de Declaração têm, como objetivo, sanar eventual obscuridade, contradição ou omissão existentes na decisão recorrida. Não há a alegada omissão no acórdão recorrido, eis que o Tribunal de origem pronunciou-se de forma clara, e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte. Nesse sentido: STJ, REsp 739.711/MG, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJU de 14/12/2006.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJU de 23/4/2008.
+No mérito, o acórdão recorrido, a partir da análise das provas trazidas aos autos, manifestou-se nos seguintes termos:
+"Com efeito, não se vislumbram as aviventadas irregularidades sustentadas na inicial.
+Primeiramente, destaca-se que a participação de licitantes em consórcio não é obrigatória, mas sim facultativa.
+Insere-se, por conseguinte, na discricionariedade do administrador público, na esteira do que bem ponderou a r. sentença recorrida.
+Aliás, o art. 33, caput, da Lei n.º 8.666/96, é claro acerca dessa questão, na medida em que preceitua: "quando permitida na licitação a participação de empresas em consórcio".
+No mais, as exigências constantes do edital em absolutamente nada discrepam do objeto da licitação, tendo-se atendido, assim, o previsto no art. 30, inc. II, da Lei de Licitações, sem que se possa falar em incursão na vedação prevista no inc. 1, do § Io, art. 3o, desse mesmo diploma.
+Quanto ao critério de julgamento, foi estabelecido de forma objetiva e nos termos da lei de regência.
+Insta, ainda, lembrar que, conquanto sem efeito vinculante à esfera judicial, o edital foi apreciado pelo Tribunal de Contas do Estado, tendo sido republicado de acordo com as recomendações indicadas por esse Sodalício.
+Enfim, nada nos autos indica direcionamento do certame, como restou muito bem esclarecido na r. sentença recorrida" (fls. 3.242/3.243e).
+Nesse contexto, alterar o entendimento do Tribunal de origem de que não há, nos autos, provas suficientes, capazes de demonstrar a alegada irregularidade no edital de licitação, ensejaria, inevitavelmente, o reexame fático-probatório dos autos, bem como a verificação das cláusulas editalícias, procedimento vedado, pelas Súmulas 5 e 7 desta Corte.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
