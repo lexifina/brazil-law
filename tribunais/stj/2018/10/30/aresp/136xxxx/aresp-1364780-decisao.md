@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de contrariedade aos artigos de lei indicados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 505/506).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 471):
+Apelação. Ação de inexigibilidade de débito c.c. restituição de valores e indenização por danos materiais e morais. Compra e venda. Ação que discute a abusividade de diversas cobranças contidas tanto no contrato principal, como nos acessórios de cessão de posição contratual e de financiamento bancário. Preliminar. Prescrição da pretensão de restituição da comissão de corretagem e da taxa de assessoria técnico-imobiliária (SATI). Prescrição trienal reconhecida (REsp. n. 1.551.956). Mérito. Cessão de posição contratual que importa na transferência integral dos direitos e obrigações do cedente ao cessionário. Taxa de anuência. Abusividade reconhecida. Encargos de escritura e registro, inclusive ITBI, que são de responsabilidade da compradora (CC, art. 490). Previsão contratual no mesmo sentido. Abusividade não configurada. Restituição indevida. Encargos elencados como despesas de escritura, mas relacionados ao contrato de financiamento, como tarifa de avaliação, seguro, e remuneração do serviço de assessoria de crédito imobiliário. Validade abstrata. Abusividade configurada ante a violação do dever de clareza e informação (CDC, arts. 46 c.c 54, §§3º e 4º). Devolução simples. Ausência de má-fé. Inteligência do art. 42, parágrafo único, do CDC. Ressarcimento dos honorários contratuais pagos pelas autoras. Valor indevido nos termos da posição desta Câmara. Recursos parcialmente providos.
+Nas razões do recurso especial (e-STJ fls. 490/497), interposto com fundamento no art. 105, III, alínea "a", da CF, a recorrente apontou violação dos arts. 490 do CC/2002 e 39 do CDC, visto que inexistiria abusividade na cobrança da taxa de anuência e das despesas de avaliação e de seguros da parte recorrida, no momento da cessão dos direitos da unidade imobiliária da segunda à primeira recorrida.
+Acrescentou que as despesas de avaliação e de seguros "não foram cobrados nem recebidos pela peticionária, mas sim por terceira empresa Conquist (fls. 83/84)" (e-STJ fl. 494).
+Discorreu que "se verifica que o pedido de restituição se relaciona a valores negociados e devidos pelas recorridas a terceiros, mais especificamente despesas dos recorridas com assessoria para obtenção de financiamento" (e-STJ fl. 495).
+Foram apresentadas contrarrazões (e-STJ fls. 502/504).
+No agravo (e-STJ fls. 509/515), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 517).
+É o relatório.
+Decido.
+O Tribunal a quo, soberano na análise do processo cognitivo dos autos, confirmou a condenação da recorrente à restituição dos valores cobrados da parte recorrida, a título de taxa de anuência e despesas de avaliação e de seguros, após assentar a abusividade da cobrança de tais verbas, nos seguintes termos (e-STJ fls. 474/481):
+Limita-se a controvérsia à validade das seguintes cobranças: (I) taxa de anuência, equivalente a 2% do valor do bem e (II) despesas com ITBI, registro de imóveis, avaliação e seguros.
+Com relação à taxa de anuência, prevista no instrumento particular de cessão de direitos e obrigações de fs. 73/76, celebrado entre a apelada Natália, na qualidade de
+cedente, e sua genitora [NOME], na qualidade de cessionária, observa-se que a cobrança é mesmo abusiva e, portanto, devida a restituição.
+(..)
+Em todo caso, a cessão da posição contratual com substituição de uma parte por outra exige expressa anuência das partes originárias para sua validade, o que ocorreu na hipótese, conforme se verifica pela própria condição de anuente da apelante Vila Maria.
+Não obstante, a cobrança de 2% sobre o valor do imóvel (cláusula 8.1 fs. 60), ainda que com desconto de 30% (fs. 175/181), revela-se abusiva.
+Isso porque, mesmo que a apelante tenha custos administrativos para a realização da cessão, como alteração de cadastro e análise de crédito, ou até custos advocatícios, como expressamente mencionado no e-mail de fs. 180, não é possível admitir a cobrança de vultosa quantia para realização de trabalhos de baixa complexidade, que integram a atividade empresarial da apelada:
+(..)
+Todavia, não decorrem da mesma cláusula as cobranças relativas às taxas de avaliação e seguros. Estas não podem ser compreendidas como encargos de escritura e registro, porquanto se relacionam com o financiamento bancário obtido para a quitação do preço e sem uma explicitação clara de seu conteúdo.
+Em que pese o esclarecimento prestado pela apelante Vila Maria de que tais verbas são devidas em razão da necessidade de avaliação do bem para obtenção do financiamento e pelos custos do serviço de assessoria da corré Conquist para concessão do crédito imobiliário, isso não ficou especificado no contrato.
+É certo que em toda relação contratual, a cláusula geral da boa-fé impõe que as partes abandonem uma posição adversarial e assumam uma postura colaborativa, a qual inegavelmente pressupõe uma relação de transparência, a fim de que a vontade manifestada pelos contratantes seja livre de qualquer vício. Em se tratando de relação de consumo, esse dever de colaboração assume contornos ainda mais importantes. É que, partindo-se do reconhecimento da vulnerabilidade técnica do consumidor, o ordenamento desenvolveu um sistema normativo próprio voltado à proteção da parte mais fraca da relação contratual, com vistas a recompor o equilíbrio substancial.
+(..)
+Nesse contexto, não são suficientes os argumentos tecidos no sentido de que os custos com seguros, remuneração dos serviços da corré Conquist e avaliação foram destacados nas planilhas apresentadas à apelada ou, ainda, de que este último constou expressamente do contrato de financiamento, porque todos esses valores foram incluídos num rol sob o título "despesas de escritura", sem que fosse possível ao consumidor identificar o real conteúdo de tais cobranças, a sua origem ou, pelo menos, em que medida se relacionam ou são necessários à obtenção da escritura.
+Foram, na verdade, valores impostos ao consumidor, na medida em que despidos dos elementos necessários a que o adquirente do bem pudesse refletir sobre a
+natureza da cobrança. Ou seja, foram apresentados de maneira a tolher a capacidade de discernimento do adquirente do imóvel quanto à abusividade ou não da cobrança e, consequentemente, inviabilizar a manifestação de eventual discordância.
+Aliás, sem relevo também a alegação de que a apelada, ao optar pelo financiamento, se sujeitou voluntariamente a tais cobranças, numa espécie de consentimento tácito. Evidente que a lógica não é essa. A adquirente do imóvel apenas anuiu voluntariamente com a contratação do financiamento bancário, mas disso não se pode concluir a concordância com as despesas embutidas no financiamento. Se assim fosse, não seria mais possível juridicamente a pretensão de rever qualquer cláusula de qualquer contrato.
+Portanto, impende reconhecer que, apesar de não ser abstratamente ilegal, a cobrança de tais valores se revelou abusiva no caso concreto ante a violação do dever de clareza e informação, na mesma linha do que vem sendo decidido por este
+E. Tribunal:
+(..)
+Por todo o exposto, é devida a restituição apenas das quantias desembolsadas a título de taxa de anuência ou de cessão (fs. 73/76), bem como da tarifa de avaliação, seguros e, também, do despendido em remuneração aos serviços da corré Conquist, todas essas elencadas como despesas de escritura na tabela de fs. 367.
+Ultrapassar os fundamentos do aresto impugnado, para considerar inexistente a abusividade da cobrança dos referidos encargos, demandaria a interpretação de cláusulas do contrato discutido e o revolvimento do conjunto fático-probatório dos autos, medidas vedadas pelas Súmulas n. 5 e 7 do STJ. A esse respeito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. SÚMULA 284/STF. CASO FORTUITO E FORÇA MAIOR. SÚMULA 7/STJ. CLÁUSULA PENAL. ABUSIVIDADE. SÚMULAS 5 E 7 DO STJ. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/1973.
+INOVAÇÃO RECURSAL.
+(..)
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Aplicam-se as Súmulas 5 e 7/STJ na hipótese em que a tese versada no recurso reclama a análise de cláusulas contratuais e de elementos fático-probatórios colhidos ao longo da demanda.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 977.709/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/5/2017, DJe 2/6/2017.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
