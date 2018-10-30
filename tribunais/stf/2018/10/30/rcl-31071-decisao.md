@@ -1,0 +1,30 @@
+RECLAMAÇÃO. PREVIDENCIÁRIO. TETOS INSTITUÍDOS PELAS EMENDAS
+CONSTITUCIONAIS 20/1998 E 41/2003. DECISÃO SUPERVENIENTE PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL NO ARE 1.121.097. EFEITO SUBSTITUTIVO DOS RECURSOS. PERDA DE OBJETO. RECLAMAÇÃO PREJUDICADA.
+    Decisão: Trata-se de reclamação ajuizada por Ercilea Teixeira Pena Coelho contra decisão proferida pela Primeira Turma do Tribunal Regional Federal da 2ª Região nos autos do Processo 0015178-92.2015.4.02.5101, por suposta afronta à autoridade do acórdão proferido pelo Supremo Tribunal Federal no julgamento do RE 564.354-RG.
+    Eis a ementa da decisão reclamada, in verbis:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003.
+    - Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+    - O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+    - Elaborados os cálculos de fls. 79-82, apurou-se inexistirem valores devidos à parte autora.
+    - As rendas mensais posteriores ao início do benefício em questão sofreram os reajustes legalmente determinados, estando sempre em valores inferiores ao teto vigente em cada competência.”
+    A reclamante sustenta, em síntese, que o acórdão reclamado violou a autoridade da decisão proferida no RE 564.354-RG, uma vez que, no julgamento desse recurso, a Corte entendeu que “a restrição existe apenas para fins de pagamento, não havendo redução do salário de benefício, que, como se viu, é a própria média corrigida dos salários de contribuição integrantes do período básico de cálculo, com a incidência do fator previdenciário, quando couber. Assim, a equação original no momento da concessão fica inalterada: o salário de benefício, expressão do aporte contributivo do segurado, será sempre a base de cálculo da renda mensal a ser percebida em cada competência, respeitado o limite máximo do salário de contribuição então vigente”.
+    Alega, nesse contexto, “que o teto tem por função apenas limitar o valor do benefício previdenciário no momento de seu pagamento, não impedindo que o valor eventualmente glosado em virtude de sua incidência venha a ser, total ou parcialmente, considerado por ocasião de um aumento real do valor do teto”.
+    Requer, ao final, a procedência da reclamação para cassar a decisão reclamada, com a prolação de outra, em razão da violação direta e objetiva do paradigma solidificado pelo RE 564.354-RG.
+    Em 10/07/2018, a Min. Cármen Lúcia, então Presidente desta Corte, determinou a intimação do reclamante para emendar a inicial, juntando aos autos cópia da decisão reclamada e dos demais documentos essenciais à compreensão da controvérsia jurídica estabelecida no processo de origem.
+    É o relatório. DECIDO.
+    Ab initio, constato, de plano, a ocorrência de fato posterior capaz de ensejar a prejudicialidade da presente ação.
+    Da análise processual da demanda originária, verifico que a decisão reclamada, quando do julgamento dos vários recursos interpostos pela parte reclamante, resultou substituída por ocasião da análise do Recurso Extraordinário com Agravo interposto nos autos, cujo acórdão restou assim ementado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APLICAÇÃO DOS TETOS INSTITUÍDOS PELAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1.121.097-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 13/06/2018)
+    Nessa esteira, esgotados todos os meios processuais cabíveis em relação à controvérsia posta nos autos, carece a presente reclamação de fundamentos aptos a prosperar, dada a ocorrência do “efeito substitutivo”, aplicável a qualquer espécie de recurso.
+    Nos termos do artigo 1.008 do CPC/2015, o “julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso”.
+    Vê-se, pois, que se operou efeito substitutivo quanto ao ato judicial dito reclamado, o que conduz à perda do objeto da presente reclamação, nos termos da iterativa e consolidada jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “SEGUNDO AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA AFRONTA À AUTORIDADE DO DECIDIDO NA ADC Nº 16. PRIMEIRO AGRAVO REGIMENTAL JULGADO PREJUDICADO. SUBSTITUIÇÃO DA DECISÃO RECLAMADA. PERDA DE OBJETO.
+    1. O instituto da reclamação não se destina ao atropelamento da marcha processual, a substituir ou complementar os meios de defesa previstos na legislação processual, haja vista a fundamentação vinculada desta ação constitucional.
+    2. Ato judicial reclamado substituído por ato decisório proferido em julgamento de recurso. Incidência do efeito substitutivo dos recursos. Art. 512 do CPC/73. Perda de objeto.
+    3. Agravo regimental conhecido e não provido.” (Rcl 16.202-AgR-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 09/05/2017)
+    Ex positis, julgo PREJUDICADA a presente reclamação, por perda superveniente de objeto, nos termos do artigo 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
