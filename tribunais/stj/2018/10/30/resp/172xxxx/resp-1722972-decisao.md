@@ -1,0 +1,44 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. INADIMPLEMENTO CONTRATUAL E NA FRUSTRAÇÃO DAS EXPECTATIVAS DO ADQUIRENTE. ABALO MORAL. PARTICULARIDADES DO CASO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] e CHARLENE MITIE TAKARA ONO, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Egrégio Tribunal de Justiça do Estado de São Paulo, cuja ementa está assim redigida (fl. 281):
+APELAÇÃO. COMPROMISSO DE COMPRA E VENDA. Observância do Recurso Especial Repetitivo n. 1.551.951 SP. LEGITIMIDADE. Participação da empresa na relação jurídica, tornando-a responsável perante os consumidores, mesmo sem ter recebido diretamente os valores pagos a título de comissão de corretagem e taxa [NOME]. Inteligência do parágrafo único, do art. 7º; arts. 18, 19 e parágrafos do art. 25, CDC. TERMO FINAL DA MORA. O termo final se dá com a entrega das chaves. Mora configurada após o término do prazo de tolerância, até a efetiva entrega das chaves. LUCROS CESSANTES. Ocorrência. Condenação em 0,5% ao mês. DANO MORAL. Inexistência de lesão a direito de personalidade. COMISSÃO DE CORRETAGEM E [NOME]. PRESCRIÇÃO. Ocorrência. Demanda ajuizada após o decurso do prazo trienal. SUCUMBÊNCIA. Decaimento de ambas as partes. Fixação da sucumbência recíproca. RECURSOS PARCIALMENTE PROVIDOS.
+Nas razões do recurso especial, os recorrentes alegam violação dos arts. 186 e 927, do Código Civil, bem como a existência de dissídio jurisprudencial, ao argumento de que houve a configuração de danos morais no atraso da entrega do imóvel, entregue após 21 meses (fl. 317).
+Afirmam que "na época da compra do imóvel os Recorrentes ainda eram noivos, e estavam com o casamento marcado para outubro de 2012, o que aconteceu, conforme demonstra a Certidão de Casamento, acostada aos autos, e a Recorrida não foi capaz de entregar o imóvel no prazo prometido em Contrato, o que causou grandes transtornos, pois tiveram que morar separados na casa de seu pais" (fl. 299)
+Contrarrazões às fls. 323/332 (e-STJ).
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015 e com as interpretações dadas, até então, pela jurisprudência do Superior tribunal de Justiça. (cf. Enunciado Administrativo nº 3/STJ).
+No que se refere à condenação ao pagamento de indenização por danos morais, cabe destacar que, em que pese o atual entendimento desta Corte Superior, o qual preconiza que o mero descumprimento contratual não gera abalo moral indenizável, na hipótese de atraso na entrega de unidade imobiliária, as circunstâncias do caso concreto podem configurar lesão extrapatrimonial.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL. INDENIZAÇÃO. VIABILIDADE. DANOS MORAIS CARACTERIZADOS. QUANTUM. RAZOABILIDADE. OFENSA AO ART. 535 DO CPC/1973. INOCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 981.792/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 05/06/2018, DJe 08/06/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ATRASO NA ENTREGA DE IMÓVEL. MERO INADIMPLEMENTO CONTRATUAL NÃO GERA DANOS MORAIS INDENIZÁVEIS.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Nos termos do entendimento firmado por este Superior Tribunal de Justiça, o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis (REsp 1642314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe 22/3/2017).
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 737.158/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017) - g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ tem entendido que, muito embora o simples atraso na entrega do imóvel não provoque danos morais indenizáveis, circunstâncias do caso concreto podem configurar a lesão extrapatrimonial. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. Na hipótese em questão, a Corte local, após analisar o contrato entabulado entre as partes e as provas constantes nos autos, concluiu que, além do atraso excessivo e injustificado na entrega do bem, outras peculiaridades fáticas do caso concreto foram capazes de provocar danos morais aos consumidores. A revisão de tal entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1647276/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/08/2017, DJe 29/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. CUMULAÇÃO DOS LUCROS CESSANTES COM CLÁUSULA PENAL. MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO DO FEITO. REGRAMENTO DIRIGIDO ÀS INSTÂNCIAS ORDINÁRIAS. DANO MORAL VERIFICADO NO CASO CONCRETO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (AgRg na Rcl 27.689/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/11/2015, DJe de 16/11/2015).
+2. No que tange ao dano moral, é entendimento desta Corte que, havendo descumprimento do prazo para entrega do imóvel objeto do compromisso de compra e venda, pode ser cabível a condenação em danos morais, de acordo com as peculiaridades do caso concreto.
+Precedentes.
+3. Na hipótese dos autos, o Tribunal de origem concluiu que os danos morais estão configurados, tendo em vista o atraso de mais de um ano na entrega do imóvel que se destinava à moradia da família do agravado. A alteração das premissas firmadas no aresto recorrido exige o reexame de matéria fático-probatória dos autos, o que atrai a incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento- g.n.
+(AgInt no AREsp 1078489/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2017, DJe 29/08/2017) - g.n.
+No caso em tela, percebe-se que restou bem delineado os danos morais decorrentes na entrega em atraso do imóvel no v. acórdão recorrido, o qual estabeleceu que:
+Extrai-se que as partes celebraram compromisso de compra e venda em 25/07/2009, para aquisição da unidade nº 151, do empreendimento VIVERDE, no valor de R$ 247.242,84 (fls. 42/64). O prazo previsto para entrega do imóvel se findava em 30/04/2011, com tolerância de 180 dias (fls. 44). Contudo, somente em 15/07/2013, os autores receberam as chaves do imóvel, conforme informado por ambas as partes.(..)
+No que toca aos danos morais, não houve efetiva demonstração da violação dos direitos da personalidade, que pudesse caracterizar a ocorrência de tais danos e a consequente necessidade de reparação. O atraso na entrega se deu por prazo inferior a 2 anos.
+(fl. 288/289)
+Nessa esteira, o provimento do recurso quanto ao pedido de danos morais é medida que se impõe, considerando as circunstâncias do caso concreto, sobretudo porque a finalidade do imóvel era para moradia e houve um longo atraso na entrega do imóvel.
+Assim, restabeleço a sentença apenas quanto a condenação em danos morais.
+Quanto aos honorários, embora reconhecida a prescrição da pretensão relativa à denominada taxa [NOME] e a de corretagem pelo Tribunal de origem, considero que a sucumbência é mínima na hipótese.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a condenação em danos morais determinada na sentença de origem (fl. 179, e-STJ).
+Em razão da sucumbência mínima, condeno a recorrida ao pagamento das custas e despesas processuais e honorários advocatícios, estes fixados em 10% sobre o valor da condenação.
+Intimem-se.
