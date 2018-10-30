@@ -1,0 +1,17 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE CONTRADIÇÃO NA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO. ERRO MATERIAL. EXISTÊNCIA. RETIFICAÇÃO QUE SE IMPÕE. ERROS MATERIAIS NÃO SÃO CAPAZES DE ALTERAR A CONCLUSÃO DA DECISÃO.
+Embargos de declaração conhecidos e acolhidos nos termos do dispositivo.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de minha lavra, em que, monocraticamente, neguei provimento ao recurso em habeas corpus interposto. Eis a ementa (fl. 256):
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL. FUNDAMENTAÇÃO. SÚMULA 440/STJ. INDICAÇÃO DE ELEMENTOS CONCRETOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
+Alega o embargante, em síntese, a existência de contradição na decisão hostilizada, uma vez que teria sido condenado à pena de 4 anos e 2 meses de reclusão, bem como erro material quanto à fundamentação adotada no decisum para justificar a manutenção do regime inicial imposto na sentença (fl. 267).
+Postula, ao final, o conhecimento e acolhimento dos presentes embargos a fim de sanar a contradição e erro material na decisão embargada, atribuindo-se efeitos infringentes para que o recurso em habeas corpus seja conhecido e provido.
+É o relatório.
+Os embargos de declaração merecem acolhimento apenas para sanar erro material quanto à descrição da pena imposta ao ora embargante e quanto à fundamentação relativa ao regime inicial imposto.
+Com efeito, consta do relatório da decisão embargada que o sentenciado teria sido condenado à pena de 7 anos e 2 meses de reclusão, no regime inicial semiaberto, e 456 dias-multa, quando na realidade a pena aplicada teria sido de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 420 dias-multa.
+Já no tocante à fundamentação utilizada para a imposição do regime inicial, também merece reparo quanto ao erro material, uma vez que é estranha aos autos. Entretanto, saliento que a correção nesse ponto não altera o julgado, uma vez que o Juízo singular, ao negar ao apenado o direito de recorrer em liberdade, indicou fundamentação concreta ao destacar que remanesceram hígidos os motivos que conferiram fundamento de validade à decisão que converteu a prisão em flagrante dos condenados em prisão preventiva (fls. 31/34),  ..  para garantir e resguardar a ordem pública, maltratada pela gravidade in concreto do delito praticado (tráfico de significativa quantidade de droga)  ..  (fls. 121/122).
+Assim, evidenciado que se trata da apreensão de 821 g de maconha, de acordo com a Súmula 440 deste Superior Tribunal, considera-se fundamentado o regime inicial imposto, de acordo com a decisão ora embargada.
+Ademais, em consulta ao portal eletrônico do Tribunal de Justiça do Piauí na internet, observei que houve o esgotamento das instâncias ordinárias, com a baixa dos autos ao Juízo de origem, razão pela qual a análise da prisão cautelar perdeu seu objeto.
+Em face do exposto, conheço dos embargos de declaração e os acolho apenas para sanar erro material da decisão atacada, devendo constar do relatório que o embargante foi condenado à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 420 dias-multa; e da fundamentação, que o elemento concreto capaz de justificar a imposição do regime inicial semiaberto é a quantidade de droga apreendida (821 g de maconha), sem atribuição de efeitos modificativos.
+Publique-se.
