@@ -1,0 +1,92 @@
+DECISÃO
+Trata-se de Agravo, interposto pela INDÚSTRIAS PEDRO N PIZZATTO LTDA, na vigência do CPC/2015, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA.
+1. A exceção de pré-executividade é admissível para análise de matérias que podem ser conhecidas de ofício ou relativas à nulidade do título executivo, desde que comprovadas de plano e sem a necessidade de dilação probatória, conforme a Súmula nº 393 do Superior Tribunal de Justiça.
+2. No caso, a decisão agravada efetivamente realizou uma inversão do ônus da prova ao julgar a exceção de pré-executividade, expediente não permitido em tal procedimento, visto a impossibilidade da própria realização de dilação probatória.
+3. Agravo de instrumento provido" (fl. 85e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, violação aos arts. 149, VII, e 158, ambos do Código Tributário Nacional. Afirma, in verbis:
+"O presente recurso especial ainda tem seu cabimento pela alínea "a" do inciso III do artigo 105 da Constituição Federal, porque se estriba também na absoluta negativa de vigência às disposições do Código Tributário Nacional, conforme demonstraremos a seguir.
+Já narrado em sentença:
+(..)
+Pois bem! O Código tributário dispõe:
+(..)
+Veja-se que de ofício a Fazenda Nacional já deveria ter revisto o lançamento do crédito e determinado sua extinção, por sponta própria.
+E também:
+(..)
+Afirma a Fazenda Nacional a existência de parcelamento, mas não comprova o mesmo. Contudo não há o que se falar em presunção de pagamento no caso do parcelamento.
+Mas o cerne do acórdão é entender que a Fazenda não deve comprovar nada, haja vista a inversão do ônus da prova.
+Ora!!
+Como pode o contribuinte apresentar prova de que não pagou o parcelamento
+Se o contribuinte pagou o parcelamento então não há o que se falar em execução fiscal, eis que o crédito foi pago. Ou se pago parcialmente, o valor do débito já não corresponde ao valor exigido.
+Mas quer o Tribunal, num ato de injustiça, incumbir ao executado o dever de comprovar se pagou ou não.
+Quem é a detentora da documentação/comprovação em sistema eficiente é a Fazenda Nacional.
+Alega a Fazenda Nacional a adesão ao parcelamento como marco interruptivo da prescrição. Ocorre que por critérios da própria Fazenda Nacional, o parcelamento somente é válido com o pagamento.
+Destarte esta é a prova que se faz necessária e que o contribuinte não pode fazê-la: comprovar que não pagou.
+Até porque os atos de exclusão de parcelamento emanados pela Fazenda Pública chegam a se dar mais de ano após a "não efetiva adesão" ao parcelamento.
+Cabe questionar se seria possível a autoridade administrativa se deparar com o fato e simplesmente dar fé de sua ocorrência, sem descrever pormenorizadamente  Estaria satisfeita assim a motivação do ato administrativo  Se o contribuinte não impugnar a afirmação da autoridade administrativa, essa afirmação é verdadeira.
+No processo administrativo federal (Decreto 70.235/72), o legislador federal dispôs expressamente a exigência de prova por ocasião da lavratura do lançamento:
+(..)
+A doutrina majoritária defende que o ônus da prova é do Fisco.
+Senão vejamos:
+(..)
+Do Conselho de Contribuintes, colhem-se os seguintes julgados:
+(..)
+A regra do ônus da prova é uma regra de julgamento. Vale dizer, onde há prova não se discute o ônus da prova. Consiste, assim, na saída para o julgador em caso de dúvida, pois o juiz pode reduzir as exigências de prova e assim tomar uma decisão mesmo que não totalmente convencido.
+[NOME] sustenta que "Não se pode pretender que a carga probatória venha a ser atribuída em função da posição processual de quem está na contingência de agir. O que importa é perquirir sobre os fatos relacionados com a situação material a que se refere a relação processual e deduzir a quem cabe o ônus da prova. A pretensão da Fazenda funda-se na ocorrência do fato gerador, cujos elementos configuradores supõem-se presentes e comprovados, atestando a identidade de sua matéria fática com o tipo legal. Se um desses elementos se ressentir de certeza ante o contraste da impugnação, incumbe à Fazenda o ônus de comprovar sua existência.( BONILHA, PAULO S. B. BONILHA. Da Prova no Processo Administrativo Tributário. São Paulo, Dialética, 1997, p. 76)
+(..)
+[NOME] apregoa que "a presunção de legitimidade inerente ao ato administrativo não é suficiente para explicar os seus efeitos no âmbito do processo, porque, nele, o juiz administrativo é posto na condição de formar seu próprio convencimento com a máxima liberdade, e, portanto, a precitada presunção não está com força para vincular a formação da decisão judicial, no caso de dúvida." "A presunção de legitimidade do ato administrativo permite à Administração aparelhar e exercitar, diretamente sua pretensão e de forma executória, mas este atributo não a exime de provar o fundamento e a legitimidade de sua presunção."
+[NOME] defende que "No processo tributário, estabelece-se uma situação peculiar, onde o devedor ao invés de encontrar-se na posição de réu para a satisfação do débito, encontra-se na posição de autor, para obter a reforma do ato administrativo. Ele é obrigado, assim, a colocar diante do juiz os elementos aptos a demonstrar a erronia do lançamento executado pela administração."
+Entendemos que a atuação da Administração deve observar o princípio da legalidade e da eficiência. "O princípio da eficiência em matéria tributária consiste na realização da atividade de tributação de forma a propiciar o máximo resultado, vale dizer, a maior arrecadação, sem prejuízo para a realização do objetivo essencial do Estado que consiste na preservação do ordenamento jurídico como instrumento da realização do bem comum, e com o mínimo de sacrifício para os contribuintes."( HUGO DE BRITO MACHADO, Princípio da Eficiência em Matéria Tributária. Coordenardor Ives Gandra Martins. São Paulo: Editora RT, 2006.).
+Feitas essas considerações, pode-se articular algumas conclusões. Conforme a jurisprudência do STJ, que nesse ponto não acompanha a doutrina majoritária, formalizado o lançamento com base em provas (documentadas) concludentes do fato investigado, segue-se a presunção de legitimidade desse ato, a desafiar prova em contrário por parte do autuado.
+A seu turno, no Procedimento Administrativo Fiscal-PAF, o fisco tem o dever de provar o fato gerador, sob pena de revisão do ato. No PAF, cabe a quem alega provar suas alegações, não sendo apropriado falar em distribuição do ônus da prova como critério final de avaliação da prova. Havendo prova do fato, não há necessidade de se discutir a quem incumbe o ônus da prova. Como visto, não conseguindo provar o fato gerador, o fisco deve abster-se de lançar.
+Assim, concluímos que o processo administrativo é mais justo que o processo judicial!
+Os créditos tributários em apreço encontram-se prescritos!
+Não há dificuldades para o fisco, especialmente em sede de processo eletrônico, a juntada de documentos que elidam as dúvidas. Mas entende o órgão incumbido de promover a justiça, novamente ser utilizada toda a máquina, quando poderiam ser esclarecidos todos os fatos nesse processo, bastando a determinação para que a Fazenda Pública juntasse a documentação necessária e de fácil acesso à Procuradoria" (fls. 95/101e).
+Requer, ao final, "que seja recebido e processado o presente recurso especial pela alínea "a" do art. 105, III, CF/88, com os inclusos comprovantes de recolhimento do preparo recursal e do porte e, ao final, que seja ADMITIDO o recurso, encaminhando-se os autos ao Colendo Superior Tribunal de Justiça, onde certamente o Recurso Especial será conhecido e provido para que sejam julgados procedentes os pedidos, principalmente para que sejam determinadas prescritas as CDAs que instruem o feito executivo" (fl. 101e).
+Não foram apresentadas contrarrazões.
+Negado seguimento ao Recurso Especial (fls. 114/117e), foi interposto o presente Agravo (fls. 125/131e).
+Foi apresentada contraminuta (fls. 135/137e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"b) Prescrição
+A prescrição, prevista no artigo 174 do Código Tributário Nacional - CTN, tolhe o direito público subjetivo de a Fazenda exigir em juízo a quantia que lhe é devida, e ocorre após 5 (cinco) anos contados da data de constituição definitiva do crédito tributário.
+Observo que, para a apuração do termo ad quem, deve-se contar o prazo prescricional de 5 anos, sem o acréscimo do período de suspensão de 180 dias a partir da inscrição do débito em dívida ativa (Lei de Execução Fiscal, artigo 2.º, parágarfo 3.º), visto não se aplicar às dívidas de natureza tributária (reguladas por lei complementar - CTN, artigo 174), mas tão somente às de natureza não tributária. Nesse sentido, a atual jurisprudência do Superior Tribunal de Justiça (AGRESP 1016445) e do Tribunal Regional Federal da 4.ª Região (INAC 200370000389368/PR; AC 2005.71.00.002332-4/RS; AC 200172050077970/SC), bem como o entendimento da própria Procuradoria-Geral da Fazenda Nacional que já publicou ato declaratório (AD n.º 12) dispensando os seus procuradores de contestar e recorrer, bem como de desistir dos recursos já interpostos visando à aplicabilidade do prazo suspensivo previsto no artigo 2.º, parágrafo 3.º, da Lei n.º 6.830/80.
+Registro, outrossim, que aforada a ação dentro do prazo prescricional, a interrupção da prescrição prevista no artigo 174, parágrafo único, inciso I, do CTN, retroage à data da propositura da ação, nos termos do artigo 240, parágrafo 1.º, do Código de Processo Civil: "A interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação".
+O entendimento de que a interrupção da prescrição prevista no artigo 174, parágrafo único, inciso I, do CTN, retroage à data da propositura da ação, sendo este o verdadeiro marco interruptivo do lustro prescricional, e não a citação pessoal feita ao devedor (até o advento da Lei Complementar nº 118/2005) ou despacho citatório (após a entrada em vigor da Lei Complementar nº 118/2005), já vinha sendo adotado por este Juízo, ainda sob a égide do Código de Processo Civil de 1973, nos termos firmados pela 1ª Seção do Superior Tribunal de Justiça (REsp 1120295/SP, Rel. Min. Luiz Fux, julgado em 12/05/2010, DJe 21/05/2010, submetido ao rito dos recursos repetitivos), com os quais vinha comungando a 1ª Turma do Tribunal Regional Federal da 4ª Região (AC 50006835-4.2011.404.7101, Rel. Joel Ilan Paciornik, julgado em 21/03/2012, DE 22/03/2012).
+Para se aferir a ocorrência da prescrição, torna-se imprescindível, inicialmente, conhecer a data em que efetivamente ocorreu a constituição definitiva do crédito tributário, ou seja, o seu lançamento, e, partindo desta data, analisar eventuais incidências de causas impeditiva, suspensiva ou interruptiva do prazo prescricional, o que passo a fazer.
+Antes, porém, importante destacar que constituídos os créditos tributários por ocasião do lançamento de débito confessado e confissão de dívida fiscal, inicia-se a partir daí o prazo prescricional previsto no artigo 174 do CTN. A jurisprudência é firme nesse sentido, consoante se observa pelos arestos a seguir transcritos:
+(..)
+b.1) Execução fiscal principal n.º 5000827-90.2014.4.04.7014
+Os títulos executivos que lastreiam a execução fiscal principal n.º 5000827- 90.2014.4.04.7014 indicam que os respectivos créditos tributários, referentes às competências de 01/1999 a 01/2000 (CDA n.º 35.196.553-0), 04/1995 a 12/1998 (CDA n.º 35.196.556-4) e 08/1998 a 13/1998 (CDA n.º 60.013.303-6), foram constituídos por meio de lançamento de débito confessado (LDC) (evento 2 - CDA4 e CDA5).
+Tendo em vista que a exequente não se desicumbiu do ônus de comprovar as datas das declarações e das confissões de dívida apresentadas pela contribuinte executada, tem-se como termo inicial para a contagem do prazo prescricional a data da última competência de cada CDA.
+Considerando que a execução fiscal principal n.º 5000827-90.2014.4.04.7014 foi ajuizada em 21/05/2007 (evento 2 - INIC3), o reconhecimento da prescrição em relação aos créditos tributários relativos às CDAs n.º 35.196.553-0, n.º 35.196.556-4 e n.º 60.013.303-6 é medida que se impõe.
+b.2) Execução fiscal apensa n.º 5000835-67.2014.4.04.7014
+Os títulos executivos que lastreiam a execução fiscal apensa n.º 5000835- 67.2014.4.04.7014 indicam que os respectivos créditos tributários, referentes às competências de 06/1998 a 12/1998 (CDA n.º 60.160.340-0), foram constituídos por meio de confissão de dívida fiscal (CDF) (evento 2 - CDA4 daqueles autos).
+Tendo em vista que a exequente não se desicumbiu do ônus de comprovar as datas das declarações e das confissões de dívida apresentadas pela contribuinte executada, tem-se como termo inicial para a contagem do prazo prescricional a data da última competência da CDA.
+Considerando que a execução fiscal apensa n.º 5000835-67.2014.4.04.7014 foi ajuizada em 12/07/2007 (evento 2 - INIC3), o reconhecimento da prescrição em relação aos créditos tributários relativos à CDA n.º 60.160.340-0 é medida que se impõe.
+b.3) Execução fiscal apensa n.º 5000837-37.2014.4.04.7014
+Os títulos executivos que lastreiam a execução fiscal apensa n.º 5000837- 37.2014.4.04.7014 indicam que os respectivos créditos tributários, referentes às competências de 02/1999 a 13/2001 (CDA n.º 35.196.555-6), foram constituídos por meio de notificação fiscal de lançamento do débito (NFLD), em 28/08/2002 (evento 2 - CDA4 daqueles autos).
+Considerando que a execução fiscal apensa n.º 5000837-37.2014.4.04.7014 foi ajuizada em 21/05/2007 (evento 2 - INIC3), não há que se falar em prescrição.
+b.4) Execução fiscal apensa n.º 5000839-07.2014.4.04.7014
+Os títulos executivos que lastreiam a execução fiscal apensa n.º 5000839- 07.2014.4.04.7014 indicam que os respectivos créditos tributários, referentes às competências de 01/1999 a 01/2000 (CDA n.º 35.196.297-2) e 01/1999 a 01/2000 (CDA n.º 35.196.301-4), foram constituídos por meio de lançamento de débito confessado (LDC) (evento 2 - CDA4 daqueles autos).
+Tendo em vista que a exequente não se desicumbiu do ônus de comprovar as datas das declarações e das confissões de dívida apresentadas pela contribuinte executada, tem-se como termo inicial para a contagem do prazo prescricional a data da última competência de cada CDA.
+Considerando que a execução fiscal apensa n.º 5000839-07.2014.4.04.7014 foi ajuizada em 21/05/2007 (evento 2 - INIC3), o reconhecimento da prescrição em relação aos créditos tributários relativos às CDAs n.º 35.196.297-2 e n.º 35.196.301- 4 é medida que se impõe.
+3. Ante o exposto, reconheço e decreto a prescrição, com a consequente extinção dos créditos tributários relativos:
+- às CDAs n.º 35.196.553-0, n.º 35.196.556-4 e n.º 60.013.303-6, exigidas na execução fiscal principal n.º 5000827-90.2014.4.04.7014;
+- à CDA n.º 60.160.340-0, exigida na execução fiscal apensa n.º 5000835- 67.2014.4.04.7014;
+- às CDAs n.º 35.196.297-2 e n.º 35.196.301-4, exigidas na execução fiscal apensa n.º 5000839-07.2014.4.04.7014" (fls. 80/83e).
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 149, VII, e 158, ambos do Código Tributário Nacional, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Mesmo se assim não fosse, melhor sorte não socorreria o ora agravante.
+Com efeito, os artigos supostamente violados não possuem comando capaz de infirmar os fundamentos do acórdão recorrido. Na forma da jurisprudência desta Corte, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 18/06/2012).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
