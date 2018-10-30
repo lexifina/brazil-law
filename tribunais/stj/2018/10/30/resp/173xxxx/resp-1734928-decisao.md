@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE FORTALEZA, em 14/01/2014, com fundamento na(s) alínea(s) a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+"REGIMENTAL CONTRA MONOCRÁTICA. DESPROVIMENTO APELAÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. AFASTADA. DECISÃO MANTIDA.
+1. No caso, agravo interposto contra decisão monocrática desta Relatora que negou provimento à apelação, mantendo a sentença e reconhecendo a vedação do recolhimento compulsório do IPM-Saúde, além da legitimidade do Município figurar no polo passivo.
+2. Se a contribuição do IPM-Saúde é facultativa, o Município não tem a prerrogativa de descontar na folha de pagamento. Contudo, mesmo sendo distintas a instituição pagadora e a beneficiária, o IPM-Saúde possui tratamento diferenciado em relação a outras, por ser participante da Administração Pública Municipal.
+- Regimental conhecido e improvido.
+- Monocrática mantida" (fls. 132/139e).
+Nas razões do Recurso Especial, a parte ora recorrente aponta violação do art. 267, VI, do CPC/73, ao fundamento de que carece de legitimidade passiva ad causam, posto que, "o fato de do contracheque constar o símbolo municipal não altera em nada a personalidade jurídica de tais entes estatais, uma vez que todos são pessoas jurídicas municipais e possuem símbolo comum, como sucede com os federais e os estaduais, o que é de um a obviedade sem par" (fls. 100/107e).
+Por fim, requer seja "conhecido e provido pelo em Min. Relator no STJ, culminando com o reconhecimento da ILEGITIMIDADE PASSIVA do Município de Fortaleza, o qual deverá, assim, ser EXCLUÍDO da presente relação processual, ex vi do disposto no inc. VI do art. 267/CPC, dispositivo processual VIOLADO pelo aresto estadual recorrido" (fl. 107e).
+Sem contrarrazões (fl. 111e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 113/114e).
+A irresignação não merece conhecimento.
+Isto porque, o dispositivo infraconstitucional apontado por violado ostenta comando genérico ("Art. 267. Extingue-se o processo, sem resolução de mérito: (..) Vl - quando não concorrer qualquer das condições da ação, como a possibilidade jurídica, a legitimidade das partes e o interesse processual;"), insuficiente para infirmar as conclusões do acórdão regional, no sentido de que o Município de Fortaleza é parte legítima para figurar no pólo passivo da demanda, vez que as personalidades jurídicas do Município, do IJF e do IPM se confundem (fl. 135e), carecendo, portanto, de fundamentação o apelo nobre, a atrair a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. ILEGITIMIDADE PASSIVA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DEMISSÃO. FALTA DISCIPLINAR. PRESENÇA. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+2. Incide o teor da Súmula 284/STF, ante a deficiência na fundamentação recursal, eis que o comando do dispositivo apontado como violado, por ser genérico, não possui aptidão suficiente para infirmar a fundamentação do acórdão do Tribunal de origem acerca da legitimidade passiva da União.
+(..)" (STJ, AgRg no REsp 1.321.920/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/08/2013).
+"PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLICIAL MILITAR. LIMITE DE IDADE. OMISSÃO NO ACÓRDÃO NÃO CONFIGURADA. DECADÊNCIA. NÃO OCORRÊNCIA. TERMO INICIAL. ELIMINAÇÃO DO CANDIDATO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. CARÊNCIA DA AÇÃO POR INADEQUAÇÃO DA VIA ELEITA. DISPOSITIVO COM COMANDO GENÉRICO QUE NÃO INFIRMA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO" (STJ, AgRg no AREsp 90.448/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJe de 14/08/2012).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
