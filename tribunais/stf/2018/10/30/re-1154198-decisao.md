@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pela American Airlines Inc. contra acórdão que, confirmado em sede de embargos de declaração pela 1ª Turma Recursal de Santa Catarina, está assim ementado:
+    “JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. RESPONSABILIDADE PELO TRANSPORTE DE BAGAGENS. EXTRAVIO. DEFEITO NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE OBJETIVA DO FORNECEDOR.
+    …...................................................................................................
+    DANO MORAL. VIAGEM DE FÉRIAS PARA DESTINO PRAIANO. TAHITI. PRANCHAS DE SURF ENTREGUES NO DESTINO FINAL SOMENTE APÓS 5 (CINCO) DIAS. NECESSIDADE DE COMPRAR MATERIAL PARA A PRÁTICA DO ESPORTE. TRANSTORNOS QUE EXTRAPOLAM OS DISSABORES DO COTIDIANO.
+    …...................................................................................................
+    PLEITO DE MINORAÇÃO DO QUANTUM. VALOR ARBITRADO EM R$ 12.000,00 PARA CADA AUTOR. ANÁLISE DO CASO CONCRETO. CARÁTER DÚPLICE, TANTO PUNITIVO/PEDAGÓGICO DO AGENTE COMO COMPENSATÓRIO DA VÍTIMA. ARBITRAMENTO RAZOÁVEL E SEM EXCESSOS.
+    …...................................................................................................
+    JUROS MORATÓRIOS. RELAÇÃO CONTRATUAL. TERMO INICIAL A PARTIR DA CITAÇÃO (ART. 405 DO CC). RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, a decisão impugnada nesta sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal  e em aspectos fático-probatórios:
+    “No caso, incontroverso que os autores viajavam no dia 01 de março de 2014, com saída de Florianópolis/SC e destino em Papeete, no Tahiti, quando tiveram suas bagagens extraviadas em alguma das conexões realizadas.
+    …...................................................................................................
+    Inegável que o extravio da bagagem do autor ocorreu quando na posse da ré e por culpa dela, tendo em conta que, nos termos do artigo 734 do Código Civil, o transportador responde pelos danos causados às pessoas transportadas e suas bagagens, salvo motivo de força maior, sendo nula qualquer cláusula excludente da responsabilidade. Logo, é dever das rés ressarcirem o autor dos prejuízos sofridos.
+    Os danos materiais apontados pelo autor – R$ 4.666,37 (quatro mil seiscentos e sessenta e seis reais e trinta e sete centavos) –, principalmente tendo em conta os itens que foram adquiridos não se mostram abusivos, estando de acordo com os valores encontrados no mercado para bens similares. (…).
+    Quanto aos danos morais, a imputabilidade à ré é amplamente reconhecido pela jurisprudência, uma vez que o extravio de bagagem de passageira por empresa de transporte rodoviário acarreta danos de natureza moral, decorrentes de angústia e aflição suportadas pela perda de seus bens pessoais (TJSC. Apelação Cível n. 2012.033966-1, de Guaramirim. Rel. Des. Monteiro Rocha. Julg. 07/06/2012), e tendo em conta os inúmeros problemas advindos aos autores que ficaram sem seus pertences durante grande período da viagem internacional programada, tenho como devida a quantia de R$ 12.000,00 (doze mil reais) para cada autor, valor a ser atualizado monetariamente (INPC) a partir desta decisão e sob a incidência de juros de 1% (um por cento) ao mês desde a citação.”
+    Cumpre destacar, por relevante, ante a inquestionável procedência de suas observações, o seguinte trecho do voto proferido pelo eminente Ministro GILMAR MENDES, Relator, ao apreciar o RE 636.331/RJ:
+    “O segundo aspecto a destacar é que a limitação imposta pelos acordos internacionais alcança tão somente a indenização por dano material, e não a reparação por dano moral (...).” (grifei)
+    Vê-se, desse modo, que, ao contrário do sustentado pela recorrente em suas razões recursais, a orientação firmada pelo Plenário desta Suprema Corte não se aplica à hipótese dos autos.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
