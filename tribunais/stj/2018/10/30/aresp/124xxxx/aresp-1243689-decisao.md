@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por causa da falta de comprovação do dissídio jurisprudencial, devido à inexistência de cotejo analítico (e-STJ fls. 264/265).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 241):
+Ação de rescisão contratual c.c. restituição dos valores pagos - Improcedência - Inconformismo - Não acolhimento - Compromisso de compra e venda de vagas de garagem, acompanhado de quadro-resumo, que aponta clara e expressamente tratar-se de vagas no térreo, não no subsolo - Contrato posterior às tratativas, que representa o acordo de vontades finalmente entabulado entre as partes e a ser observado - Inexistência de erro substancial inescusável - Culpa que, se houve, foi da autora, que não pode se beneficiar da própria torpeza - Inaplicabilidade do CDC ao caso - Descabimento da rescisão unilateral, eis que o contrato já foi executado - Sentença mantida - Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 247/254), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e violação:
+(i) do art. 30 do CDC, aduzindo que haveria má-fé da recorrida, ante a elaboração do contrato de comercialização das vagas de garagem em desacordo as tratativas preliminares das partes, sendo, dessa maneira, devido condená-la à devolução em dobro dos valores despendidos no negócio, corrigidos monetariamente, nos termos da cláusula 2.2.1 da avença,
+(ii) do art. 2º do CDC, argumentando que incidiriam as disposições do CDC ao caso, por ser parte hipossuficiente na relação contratual, bem como a destinatária final das vagas de garagem referidas, além de que faria jus à inversão do ônus da prova,
+(iii) do art. 138 do CC/2002, aduzindo que estariam presentes os requisitos necessários para declarar a anulação dos compromissos de compra e venda de 2 (duas) vagas de garagem celebrados entre as partes, por causa da existência de erro substancial, visto que supôs estar adquirindo as vagas localizadas no subsolo do Condomínio Quality House Jardim Prudência, e não no térreo, e
+(iv) do art. 48 do CDC, porque "mesmo a recorrente sendo pessoa jurídica, pode ser qualificada como consumidora, conforme demonstrado no contrato firmado, o qual adquiriu 02 (duas) unidades autônomas com a recorrida, sendo certo que as negociações preliminares e a proposta (fls.75/78) enviada pela mesma, vincula esta ao devido cumprimento do acordo pré-estabelecido, não importado a forma que foi realizada" (e-STJ fl. 252), o que justificaria a rescisão contratual com imputação de culpa à recorrida.
+Foram apresentadas contrarrazões, requerendo a fixação de honorários recursais (e-STJ fls. 259/263).
+No agravo (e-STJ fls. 268/273), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 276/278).
+É o relatório.
+Decido.
+Nas alegações do especial, a recorrente apontou violação dos arts. 2º e 30 do CDC, a fim de postular a inversão do ônus da prova e para argumentar que haveria má-fé da recorrida, ante a elaboração do contrato de comercialização das vagas de garagem em desacordo as tratativas preliminares das partes, sendo, dessa maneira, devido condená-la à devolução em dobro dos valores despendidos no negócio, corrigidos monetariamente, nos termos da cláusula 2.2.1 da avença.
+Todavia, os dispositivos legais supramencionados não possuem o alcance normativo pretendido pela recorrente, a fim de sustentar suas alegações, porque apenas trazem o conceito de consumidor e a vinculação do fornecedor às informações e à publicidade referentes aos seus produtos e serviços.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF.
+ A esse respeito: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto ao art. 30 do CDC. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal a quo assentou que a recorrente não seria destinatária final das vagas de garagem adquiridas, motivo por que rejeitou o seu pedido de aplicação das disposições do CDC em seu favor, nos termos a seguir (e-STJ fl. 244):
+Por fim, de se destacar que, diversamente do que pretende a apelante, esta é sociedade empresária, não se vislumbrando, no caso, a aquisição de produto ou serviço para uso próprio, desassociado de sua atividade empresarial, e retirada definitiva do mercado, como destinatária final.
+Não se enquadra, portanto, a apelante como consumidora final, à luz do art. 2º, do CDC, sendo este diploma legal inaplicável à espécie.
+Rever tal entendimento demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ. Nesse aspecto:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL.
+CONTRATO BANCÁRIO. CÉDULA DE CRÉDITO COMERCIAL. INCIDÊNCIA DO CDC. VEDAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Tribunal estadual ao analisar a demanda, consignou a impossibilidade de incidência do Código de Defesa do Consumidor no caso concreto, porquanto a pessoa jurídica não se enquadra como destinatária final do produto quando se utiliza da contratação no implemento de sua atividade empresarial.
+2. O acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 292.324/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/11/2013, DJe 29/11/2013.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. CONTRATO BANCÁRIO. ARRENDAMENTO MERCANTIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. RELAÇÃO DE CONSUMO. HIPOSSUFICIÊNCIA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+(..)
+5. Para intuir pela vulnerabilidade da parte contratante, necessária a incursão na matéria fático-probatória dos autos, procedimento inviável no recurso especial pela Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.121.877/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/11/2017, DJe 4/12/2017.)
+A Corte de origem, soberana na análise do processo cognitivo dos autos, sedimentou que não ficou demonstrada a existência de erro substancial escusável a justificar a anulação ou a rescisão dos compromissos de compra e venda de 2 (duas) vagas de garagem celebrados entre as partes, tendo em vista que (e-STJ fls. 242/244):
+Escorreita, a respeito, a sentença, cujos precisos fundamentos ora se adota, como razão de decidir, conforme autoriza o art. 252, do Regimento Interno, deste E. Tribunal de Justiça:
+Ainda que tenha negociado previamente a aquisição de vagas de garagem no subsolo do edifício, os documentos juntados aos autos revelam que a autora assinou dois contratos de compra e venda que, em seus quadros resumo, indicavam claramente, em mais de uma ocasião, que as vagas adquiridas situavam-se no térreo do edifício (fls. 48/50 e 72/74).
+Os quadros-resumo trazem as mesmas datas dos respectivos contratos (27/05/2014), fato que se coaduna com a notória praxe de assinatura conjunta de documentos, inclusive porque, não raras vezes, elementos essenciais da compra e venda, como preço e identificação da coisa, aparecem somente no quadro resumo.
+Dessa forma, a alegação da autora, de que veio a descobrir "somente depois" a real localização das vagas, ainda que verdadeira, não tem o condão de invalidar os negócios porque o erro, nesse caso, seria inescusável. Afinal, a localização das vagas veio indicada de forma clara, por mais de uma vez, nos documentos que formalizaram o negócio e que foram assinados sem ressalvas pela autora, sociedade comercial habituada a transações desse tipo.
+O pedido, dessa forma, deve ser rejeitado." (fls. 206/207)
+Acrescente-se ao quanto exposto na sentença que tampouco é o caso de resolução ou rescisão do contrato, haja vista que o contrato já foi executado: o preço foi integralmente pago, em parcela única, no ato da contratação, e as vagas de garagem contratadas foram entregues.
+Não tem respaldo legal o desfazimento do negócio, após a execução, por vontade unilateral da apelante, sem que tenha havido o alegado inadimplemento da apelada (entrega de vagas diversas das contratadas).
+Tampouco há que se falar em culpa exclusiva da apelada. Se culpa houve, foi da apelante, que firmou o compromisso de compra e venda, incluindo o quadro-resumo, sem atentar para a expressa informação de que as vagas adquiridas se localizavam no térreo, não no subsolo. Não aproveita à apelante sua própria torpeza.
+(..)
+Ainda que assim não fosse, a assinatura do compromisso de compra e venda e do quadro-resumo, nos termos neles constantes, é posterior às tratativas anteriores e, portanto, aqueles sobre estas prevalecem, refletindo o acordo de vontades finalmente entabulado entre as partes. Nesta senda, em nada aproveita a apelante o art. 48, do CDC.
+A recorrente não se manifestou sobre a posterioridade da assinatura do compromisso de compra e venda e do quadro-resumo, em relação às tratativas anteriores das partes, prevalecendo, dessa maneira, o conteúdo dos primeiros documentos sobre as tratativas preliminares, por refletir o acordo final de vontades dos contratantes, limitando-se a arguir que a empresa recorrida estaria vinculada aos termos das tratativas preliminares e da proposta, segundo o art. 48 do CDC, que teria sido violado.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF como óbice ao recurso.
+Dissentir das conclusões da Justiça local, a fim de anular ou de rescindir o mencionado ajuste, conforme alegado no especial, exigiria o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Desse modo:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DAS DEMANDANTES.
+(..)
+2. A análise dos fundamentos que ensejaram o reconhecimento da ausência de comprovação de vício de consentimento ou de erro substancial na celebração do contrato exige o reexame probatório dos autos, inviável por esta via especial, ante o óbice do enunciado da Súmula 7 desta Corte.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 361.103/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/2/2015, DJe 4/3/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. INDEVIDA EXPOSIÇÃO DE IMAGEM DE MENOR. CONFIGURAÇÃO DO ATO ILÍCITO. PRECEDENTES. 2. ERRO ESCUSÁVEL, ADVINDO DE INFORMAÇÃO INEXATA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. 3. AGRAVO INTERNO IMPROVIDO.
+(..)
+2. Alterar a conclusão da Corte estadual, quanto à não ocorrência de erro substancial, advindo de informação inexata, demanda reexame do contexto fático-probatório, atividade não realizável nesta via especial, conforme Súmula n.
+7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.180.730/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/3/2018, DJe 13/3/2018.)
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015).
+Segundo assente na jurisprudência das Turmas da Segunda Seção desta Corte Superior, "nos termos dos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (AgInt no REsp n. 1.444.474/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017).
+No mesmo sentido: AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.
+De tais ônus a recorrente não se desincumbiu, pois se limitou a transcrever as ementas dos julgados a partir dos quais defendeu a divergência de entendimento jurisprudencial sobre o tema debatido.
+Dessa forma, não bastando tal providência para comprovar o dissídio alegado, é inviável conhecer do recurso no ponto.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
