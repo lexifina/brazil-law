@@ -1,0 +1,21 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AGRAVO DE INSTRUMENTO –- AUSÊNCIA DE RECOLHIMENTO DO PORTE DE RETORNO – OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 – DESERÇÃO.
+    ‘A ausência de comprovação do recolhimento do porte de retorno previsto pela Lei 11.608/03 obsta o processamento do agravo de instrumento interposto pelo INSS nas lides acidentárias, não se cogitando de aplicação da regra trazida pelo artigo 27 do Código de Processo Civil’.
+    Agravo julgado deserto.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 594.116/SP, Rel. Min. EDSON FACHIN, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL.
+    1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002.
+    2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002.
+    3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal.
+    4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular.
+    5. Verifica-se que o art. 2º, parágrafo único, II, ‘in fine’, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão ‘cujo valor será estabelecido por ato do Conselho Superior da Magistratura’.
+    6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem.”
+    Cumpre assinalar, por oportuno, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 1.097.744/SP, Rel. Min. MARCO AURÉLIO – RE 1.102.314/SP, Rel. Min. GILMAR MENDES – RE 1.103.021/SP, Rel. Min. ALEXANDRE DE MORAES – RE 1.103.112/SP, Rel. Min. DIAS TOFFOLI – RE 1.103.115/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou quanto à análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    2. Tendo em vista que se encontra pendente de apreciação o recurso especial deduzido pelo Instituto Nacional do Seguro Social – INSS, determino a remessa do presentes autos ao E. Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
