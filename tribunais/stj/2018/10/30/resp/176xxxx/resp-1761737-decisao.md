@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, nos termos do art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"EMENTA - APELAÇÃO CRIMINAL. ROUBO. CRIME ÚNICO. PENAS. REDIMENSIONADAS. 1. Subtraídos bens em posse de uma única pessoa, tem-se apenas um crime. 2. Praticado roubo contra patrimônio familiar, não há concurso de crimes, de ofício. 3. Constatados equívocos na aplicação das penas, são readequadas.
+Apelação conhecida e parcialmente provida." (e-STJ, fl. 437).
+Nas razões recursais, o recorrente sustenta contrariedade ao artigo 70 do Código Penal. Alega que a Corte local afastou equivocadamente o reconhecimento do concurso formal dos crimes de roubo, quando o agente, mediante uma só ação, viola dois patrimônios.
+Aduz, no primeiro caso, "com relação aos roubos perpetrados em face de Roberto e Idivanilda, que o fato de as vítimas serem da mesma família (marido e esposa) não interfere no reconhecimento da pluralidade de delitos, pois, é possível identificar a lesão a pelo menos dois patrimônios distintos". Já no segundo caso, defende que "com relação ao assalto no estabelecimento em que, além de dinheiro da pessoa jurídica, foram subtraídos bens pertencentes ao funcionário é possível aferir, da leitura do aresto vergastado, a existência de prévia e deliberada intenção de subtração de patrimônios distintos pelos réus, pois eles tinham ciência de que os bens roubados não eram de uma única vítima."
+Requer, portanto, o provimento do recurso a fim de que seja reconhecida a ocorrência do concurso formal.
+Contrarrazões apresentadas (e-STJ, fls. 476-483).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 501-504).
+É o relatório.
+Decido.
+Acerca do reconhecimento do crime único, assim constou no acórdão recorrido:
+"O pleito de reconhecimento de crime único praticado em face de Jean e "[NOME] Bar", merece acolhimento.
+Consta dos autos que Jean foi abordado pelo réu e os menores Daniel e Hadnes, os quais anunciaram o assalto e exigiram as chaves da motocicleta, de propriedade do depoente, dinheiro e celular; a própria vítima esclareceu que eles pegaram os bens e foram embora, o que foi confessado pelo apelante (mídia de fls. 201).
+Na mesma linha de raciocínio, o próprio apelante esclareceu que pediu apenas os bens que estavam com Jean e saiu (mídia de fls. 201).
+Fica evidente que [NOME] e os adolescentes queriam subtrair apenas os bens que estavam com Jean e, ao levarem o dinheiro do estabelecimento comercial, não pretendiam atingir mais de uma vítima. Acrescento que, no momento, Jean é quem detinha a posse de todos os bens, o que demonstra a possibilidade de se reconhecer a existência de um único delito de roubo conforme precedente do Superior Tribunal de Justiça exposto no Informativo 551  ..
+(..)
+De igual modo, em que pese não ser objeto do recurso, mas por tratar-se de matéria de ordem pública, trato dos crimes de roubo praticados em face de Idivanilda e [NOME] do caderno processual que o réu ingressou no imóvel, com a ajuda dos menores, e subtraiu vários bens da residência, colocando todos dentro do veículo do casal e saindo em seguida.
+Dessa forma, vejo que ocorreu, também, apenas um crime de roubo, já que os agentes pretendiam pegar os objetos da família e não de uma ou de outra vítima especificamente." (e-STJ, fls. 439-441)
+No caso do crime praticado em face de Roberto e Idivanilda, ocorre que, ao assim decidir, a Corte de origem adotou entendimento contrário ao que prevalece neste Superior Tribunal de Justiça. Com efeito, "é uníssono o entendimento deste Superior Tribunal de Justiça, no sentido de que o roubo perpetrado com violação de patrimônios de diferentes vítimas, ainda que num único evento, configura a literalidade do concurso formal de crimes, e não apenas de crime único". (HC 208.191/RJ, Rel. Min. VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, DJe 10/10/2011)
+No mesmo sentido:
+"PENAL. HABEAS CORPUS. ART. 157, § 2.º, I, II E V DO CÓDIGO PENAL. MAJORANTES. EXASPERAÇÃO ACIMA DO MÍNIMO LEGAL. JUSTIFICATIVA IDÔNEA. CRIME COMETIDO MEDIANTE UMA SÓ AÇÃO. PATRIMÔNIOS DIVERSOS. CRIME ÚNICO. IMPOSSIBILIDADE. CONCURSO FORMAL. REGIME INICIAL FECHADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. ELEMENTO CONCRETO. ADEQUAÇÃO. ORDEM DENEGADA.
+ ..
+2. É assente neste Tribunal Superior que, praticado o crime de roubo mediante uma só ação, contra vítimas diferentes, não há se falar em crime único, mas sim em concurso formal, visto que violados patrimônios distintos. Precedentes.
+3. Não obstante a estipulação da reprimenda final em patamar inferior a 8 (oito) anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elementos concretos a despeito desses não terem sido empregados na fixação da pena-base. Na espécie, o Tribunal ressaltou a pluralidade de vítimas, de armas e o fato de um dos agentes ter se utilizado de informações que possuía acerca da empresa e de seus funcionários por já ter ali trabalhado anteriormente.
+4. Ordem denegada." (HC 405.122/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/09/2017, DJe 04/10/2017)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ART. 157, § 2º, II (POR DUAS VEZES), NA FORMA DO ART. 70, CAPUT, AMBOS DO CP. ROUBO CONTRA PATRIMÔNIOS DIVERSOS. AÇÃO ÚNICA. CONCURSO FORMAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Hipótese em que o delito (roubo majorado) ocasionou lesão ao patrimônio de vítimas diversas, mediante uma mesma conduta. Impossibilidade de reconhecimento de crime único, mas sim de concurso formal, conforme reconhecido pelas instâncias ordinárias (precedentes do STF e do STJ). Habeas corpus não conhecido" (HC 335.351/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 23/2/2016, DJe 4/3/2016).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA DA PENA. DECRETO CONDENATÓRIO TRANSITADO EM JULGADO. IMPETRAÇÃO QUE DEVE SER COMPREENDIDA DENTRO DOS LIMITES RECURSAIS. CONCURSO FORMAL DE CRIMES. PLURALIDADE DE PATRIMÔNIOS. APREENSÃO DE ARMA DE FOGO. DESNECESSIDADE. PROVAS TESTEMUNHAIS HARMÔNICAS. DOSIMETRIA. CAUSAS DE AUMENTO DE PENA. DECISÃO FUNDAMENTADA. REGIME DE CUMPRIMENTO. MONTANTE DE PENA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CONSTRANGIMENTO LEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+ ..
+IV. Ocorre concurso formal quando o agente, mediante uma só ação, pratica crimes de roubo contra vítimas diferentes, ainda que da mesma família, eis que caracterizada a violação a patrimônios distintos. Precedentes.
+ ..
+IX. Ordem denegada, nos termos do voto do Relator." (HC 207.543/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 17/04/2012, DJe
+23/04/2012)
+Ademais, conforme se extrai dos fundamentos da sentença, "foram subtraídos objetos de propriedade de Roberto (aparelho celular, videogame, televisão, ventilador e o veículo Fox) e de Idivanilda (chapinha, secador, correntes em ouro, tênis, roupas e perfumes)" (e-STJ, fl. 283). Assim, desnecessário se faz ingressar no acervo fático probatório para se concluir que, dentre os bens subtraídos do casal, alguns pertenciam ao patrimônio individual de cada um.
+Desta feita, tendo em vista que, no tocante à sustentada ofensa ao artigo 70 do Código Penal, o acórdão recorrido está em desacordo com a jurisprudência cristalizada nesta Corte Superior de Justiça, de rigor o provimento, nesta parte, do recurso especial.
+Contudo, quanto ao delito praticado em face de Jean e [NOME], para se verificar que não há, no caso dos autos, crime único, no sentido de se afastar a conclusão a que chegou o Tribunal de origem - que entendeu que o recorrido não pretendia atingir mais de uma vítima -, invariavelmente, seria necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 deste Superior Tribunal de Justiça.
+Nessa linha, confiram-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. DIVERSAS VÍTIMAS. UNIDADE DE DESÍGNIOS. CONFIGURAÇÃO DE CRIME CONTINUADO. POSSIBILIDADE. AFASTAMENTO DA CONTINUIDADE DELITIVA E RECONHECIMENTO DE CRIME ÚNICO. REEXAME FÁTICO E PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. INSURGÊNCIA DESPROVIDA.
+ ..
+2. A reforma do julgado nesse ponto, com o intuito de se acolher o pleito defensivo para o afastamento da continuidade delitiva e reconhecimento da existência de crime único, exigiria o revolvimento do material fático-probatório dos autos, providência vedada na via eleita ante o óbice da Súmula n. 7/STJ.
+3. Agravo regimental desprovido." (AgRg no REsp 1.627.357/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 15/03/2017);
+Ante o exposto, nos termos do artigo 255, § 4º, III, do Regimento Interno do STJ, dou parcial provimento ao recurso especial para reconhecer quanto ao delito praticado em face de Roberto e Idivanilda o concurso formal de crimes. Determino, ainda, o retorno dos autos ao Tribunal de origem para que se proceda a nova dosimetria da pena.
+Publique-se. Intimem-se.
