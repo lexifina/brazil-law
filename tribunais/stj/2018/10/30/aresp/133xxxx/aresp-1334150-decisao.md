@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+No presente agravo, a defesa afirma que a análise das razões do recurso especial não exige reexame de provas, mas a correta aplicação da legislação federal. Pugna pelo provimento do agravo para que o recurso especial seja conhecido e, no mérito, provido.
+Contraminuta apresentada, o Ministério Público Federal manifestou-se pelo improvimento do agravo.
+É o relatório.
+Decido.
+O réu foi condenado, como incurso no art. 157, § 2º, I, do CP, à pena de 8 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto, além do pagamento de 129 dias-multa.
+No recurso especial, sustenta a necessidade de apreensão da arma branca utilizada na empreitada, bem como a realização de perícia para a aplicação da causa de aumento de pena prevista no inciso I do § 2º do art. 157 do CP. Sustenta, ainda, o descabimento do incremento da pena-base na primeira fase da dosimetria, além da necessidade de redução ou exclusão da pena de multa.
+Como é consabido, via de regra, não se presta o recurso especial à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da ilegalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Quanto à dosimetria da pena, alega ausência de fundamentação idônea na valoração negativa das circunstâncias judiciais da culpabilidade e da conduta social.
+O acórdão recorrido foi assim fundamentado:
+Como visto, requer o Recorrente, alternativamente, que a pena imposta seja reduzida, vez que as circunstâncias judiciais da culpabilidade e da conduta social foram valoradas negativamente pela MMa. Juíza a quo, mesmo inexistindo elementos que sirvessem de substrato idôneo para tanto.
+Esta foi a pena-base fixada em primeiro grau:
+"Seguindo, então, o sistema trifásico de aplicação da pena previsto no art. 68 do CP, passa-se a dosimetria da pena, observadas, primeiramente, as circunstâncias judiciais do art. 59 do mesmo diploma legal.
+. Quanto à culpabilidade, verifica-se que o acusado mostrou uma conduta reprovável, pois em vista do seu modo consciente de agir, ainda lesionando a vítima quando esta já teria entregue seu aparelho celular;
+ ..
+A conduta social, deve ser entendida como o comportamento do réu em seus ambientes de convívio, pode ser valorada negativamente uma vez que a vítima e as testemunhas afirmaram que o acusado possui um comportamento ruim.
+ .. "
+Há, portanto, seis circunstâncias favoráveis ao réu e duas desfavoráveis.
+Fixação da pena:
+Dessa feita, tendo em vista que o delito de roubo prevê abstratamente a pena de reclusão, de 04 (quatro) a 10 (dez) ano e multa, e que existem duas circunstâncias judiciais desfavoráveis ao réu, fixo a pena-base em 06 (seis) anos e 04 (quatro) meses de reclusão e a pena de multa em 97 (noventa e sete) dias-multa, com valor para cada dia igual a 1/30 (um trigésimo) do valor do salário mínimo vigente ao tempo do fato, atendendo, esta, ao critério estipulado no art. 60 do CP. I.. . (fl.109)
+Com efeito, da análise do disposto na decisão atacada, à fl. 109, verifica-se que a aplicação da pena-base se encontra devidamente fundamentada nos termos do artigo 59 do Código Penal, e do artigo 93, inciso IX, da Constituição Federal.
+A Magistrada fixou a pena-base acima do mínimo legal considerando desfavoráveis a culpabilidade e conduta social do réu.
+Como se sabe, a culpabilidade refere-se ao grau de reprovação social que o crime e o autor do fato merecem, devendo ser verificada se a ação do agente fora mais ou menos censurável. No caso, a culpabilidade do apelante é grave, a sua frieza emocional e ousadia em abordar a vítima, agredindo a mesma com uma faca, mesmo esta já tendo entregue o aparelho celular, demonstra o elevado grau de reprovabilidade de sua conduta, de modo a autorizar maior reprimenda do Estado, o que demonstra uma maior culpabilidade do recorrente.
+A conduta social, por sua vez, deve ser analisada mediante o papel desse na comunidade, na família, no trabalho, na vizinhança e dentre outros, ou seja, do relacionamento do réu na sociedade onde vive.
+No caso dos autos, a Magistrada entendeu que a conduta social é reprovável, porque que a vítima e as testemunhas disseram que o réu é conhecido por arrumar encrenca, além de já ter ameaçado várias pessoas que residem e trabalham na região.
+Segue trecho em destaque:
+"(..) aí eu retornando ao local comecei a conversar com pessoas sem teto, e elas me disseram que quando ele ([NOME]) está por lá, essas pessoas não ficam lá, pois inclusive ele já tinha ameaçado essas pessoas com faca: nós que somos flanelinha, ele já tentou furar um de nós  ..  o delegado me falou que ele já tem diversas passagens, inclusive um dos policiais falou: "tu por aqui de novo fomfom " (trecho do depoimendo da vítima - mídia acostada à fl. 82).
+Nota-se que a fundamentação citada é idônea, pois trata-se efetivamente do papel desempenhado pelo réu na sociedade onde vive, razão pela qual não há motivos para expurgar o aumento.
+E nem se diga que não houve comprovação do alegado, uma vez que a prova é o depoimento das testemunhas inquiridas, porque são elas que convivem com o réu na comunidade e elas são abalizadas para determinar se a conduta social do agente é positiva ou negativa.
+Nestes termos, a pena-base deve ser mantida, em razão da culpabilidade e da conduta social desfavorável, em 06 (seis) anos e 04 (quatro) anos de reclusão e o pagamento de 97 (noventa e sete) dias-multa.
+Na segunda fase, ausentes circunstâncias agravantes e atenuantes.
+Na terceira fase, reconhecida a majorante do art. 157, § 2o, I, do Código Penal, é de se manter o aumento da pena em 1/3 para o réu.
+Desse modo, em face do aludido aumento, resta fixada em 08 (oito) anos, 05 (cinco) meses e 10 (dez) dias de reclusão, além do pagamento de 129 (cento e vinte e nove) dias-multa.
+A valoração negativa da culpabilidade, assim considerada como o maior ou o menor grau de reprovabilidade da conduta, foi fundamentada de forma idônea no acórdão, porquanto baseada em fatos concretos, consubstanciados na sua frieza emocional e ousadia em abordar a vítima, agredindo a mesma com uma faca, mesmo esta já tendo entregue o aparelho celular, justificando a exasperação da pena-base com apoio na referida vetorial.
+Também não há falar em inidoneidade da fundamentação do decisum na valoração negativa da conduta social, pois utilizou-se de elementos concretos e não inerentes ao tipo penal para o juízo de desvalor, quais sejam, ameaças frequentes aos "flanelinhas" da região, inclusive com uso de arma branca. Confiram-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE CÁRCERE PRIVADO E MOTIM DE PRESOS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSIÇÃO DE LIDERANÇA. SITUAÇÕES DE INDISCIPLINA NOS ESTABELECIMENTOS PRISIONAIS ANTERIORES. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE ELEVAÇÃO EXCESSIVA. NÃO CONFIGURAÇÃO. CRITÉRIO NÃO OBJETIVO OU MATEMÁTICO. DISCRICIONARIEDADE DO ÓRGÃO JULGADOR. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. MATÉRIA NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. REGIME FECHADO. REINCIDENTE. FUNDAMENTO SUFICIENTE. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A valoração negativa dos antecedentes criminais, da conduta social e da personalidade é válida se baseada em circunstâncias concretas dos autos que demonstrem anormal gravidade das condutas.
+2. Consoante orientação jurisprudencial do STJ, A exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgInt no HC 352.885/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/05/2016, DJe 09/06/2016).
+3. Inviável a apreciação de matéria não discutida pelas instâncias ordinárias diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+4. Fixado o modo prisional mais gravoso com fundamento na reincidência do acusado, não há falar em constrangimento ilegal.
+5. Decisão monocrática mantida.
+6. Agravo regimental improvido.
+(AgRg no HC 441.449/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. CONDUTA SOCIAL. FUNDAMENTAÇÃO IDÔNEA.
+1. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. Suficientemente fundamentada a valoração negativa da conduta social, pois apreciou o sentenciante o comportamento do réu no seu ambiente familiar e na convivência em sociedade, demonstrando o desvio de natureza comportamental, destacando, com base nos depoimentos colhidos durante a instrução criminal, que o agravante passou a comandar assaltos a ônibus em determinada comunidade, além de fazer parte de associação que comercializava entorpecentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1248636/AL, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 05/04/2018, DJe 12/04/2018)
+Quanto ao pleito de isenção da pena de multa, o acórdão consignou: inexiste previsão legal para a isenção da pena de multa em razão da situação econômica do réu, devendo esta servir, tão somente, de parâmetro para a fixação de seu valor, o que ocorreu no caso em comento visto a condenação em 129 (cento e vinte e nove) dias-multa.
+Tal entendimento coaduna-se com a jurisprudência do STJ, segundo a qual a impossibilidade financeira do réu não afasta a imposição da pena de multa, inexistindo previsão legal de isenção do preceito secundário do tipo penal incriminador (HC 298.169/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 28/10/2016).
+Outrossim, inviável o pleito de redução da pena pecuniária, por esbarrar na Súmula 7/STJ, na medida em que o exame da capacidade econômica do apenado para o pagamento do quantum fixado demandaria indevida incursão no conjunto fático-probatório (AgRg no AREsp 577.270/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/04/2018, DJe 04/05/2018).
+Por fim, cumpre ressaltar que a majorante de emprego de faca, antes prevista no inciso I do parágrafo 2º do artigo 157 do Código Penal, foi revogada com o advento da Lei 13.654/18.
+Assim, considerando que o emprego de arma branca deixou de ser causa de aumento de pena específica do delito de roubo, em face de norma penal mais favorável, que deve ser aplicada retroativamente, nos termos do parágrafo único do artigo 2º do Código Penal, afasto-a, de ofício, com fundamento no art. 654, § 2º, do CPP, de modo que, ausentes majorantes, não há falar em aumento na terceira fase da dosimetria.
+Passo, então, à dosimetria, obedecendo aos demais critérios definidos pelas instâncias ordinárias.
+Presentes duas circunstâncias judiciais negativas, a pena-base foi fixada em 6 anos e 4 meses de reclusão e 97 dias-multa. Na segunda fase, deve a mesma ser mantida, em razão da ausência de circunstâncias atenuantes e agravantes. Na terceira, decoto o aumento de pena em 1/3 pelo emprego de faca. Dessa forma, torno a pena definitiva no mesmo patamar, em 6 anos e 4 meses de reclusão e 97 dias-multa.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial para, reformando o acórdão recorrido, reduzir a pena do recorrente a 6 anos e 4 meses de reclusão e 97 dias-multa, afastando, de ofício, a majorante do emprego de arma branca.
+Publique-se.
+Intimem-se.
