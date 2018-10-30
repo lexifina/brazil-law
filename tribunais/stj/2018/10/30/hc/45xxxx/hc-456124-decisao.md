@@ -1,0 +1,20 @@
+DECISÃO
+YAGO SOUSA DOS SANTOS alega sofrer coação ilegal no seu direito a locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0055307-02.2018.8.21.7000.
+O paciente foi condenado, em primeiro grau, à pena de 3 anos, 8 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática dos delitos previstos nos arts. 33 da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003.
+O Tribunal de origem deu provimento ao recurso do Ministério Público a fim de afastar a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas e tornar a reprimenda definitiva em 7 anos e 2 meses de reclusão, em regime fechado, mais multa.
+Neste writ, busca a defesa o reconhecimento da consunção entre os delitos, a aplicação da minorante do art. 33, § 4º, da Lei de Drogas no patamar máximo, a fixação do regime aberto para cumprimento da pena e a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Indeferida a liminar e dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício para que seja restabelecida a sentença.
+Decido.
+I. Consunção entre os delitos de tráfico e porte de arma
+Nesse ponto, verifico que a matéria aventada não foi examinada no acórdão impugnado. Portanto, a análise do tema diretamente por esta Corte Superior acarretaria indevida supressão de instância.
+II. Aplicação da minorante
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+Cumpre destacar que a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, o Tribunal de origem afastou a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, porque o réu "foi condenado pela prática do delito de porte ilegal de arma de fogo. Ou seja, se dedicava a outra atividade criminosa além do tráfico" (fl. 212).
+Todavia, observo que o montante de substâncias encontrado com o paciente não foi excessivamente elevado (3,9 g de crack), de maneira que considero desproporcional a não incidência do benefício em questão apenas pela condenação por crime de porte de arma.
+Conforme bem salientado pelo Ministério Público Federal em seu parecer, "não restou, portanto, caracterizada a habitualidade delitiva do sentenciado, porquanto a prática do crime de porte ilegal de arma não o faz um traficante contumaz, sobretudo porque a pequena quantidade de droga encontrada com o paciente (3,9g de crack) indicam que o tráfico praticado pelo acusado não era de grande proporção" (fl. 235).
+Por tais razões, uma vez que não foram apontados elementos suficientes que, efetivamente, justificassem o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, entendo evidenciada a violação legal, motivo pelo qual reconheço a incidência da referida minorante em favor do paciente e restabeleço a dosimetria da pena da sentença condenatória (fls. 139-140).
+III. Dispositivo
+À vista do exposto, concedo a ordem para reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas em favor do paciente e restabelecer a sentença condenatória.
+Publique-se e intimem-se.
