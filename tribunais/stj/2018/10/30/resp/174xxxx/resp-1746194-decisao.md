@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF contra acórdão do TJRS assim ementado (e-STJ fl. 102):
+RESPONSABILIDADE CIVIL. INSCRIÇÃO NO SCR/BACEN. DANOS MORAIS INOCORRENTES.
+1. Caso em que a parte autora argúi ter sido incluída no SCR/BACEN em razão de dívida inexistente. Por isso, alega ter tido solicitação de crédito negada.
+2. Conforme entendimento consolidado nesta Câmara, a inscrição em tal cadastro não acarreta, presumida mente, danos morais. Há que se demonstrar o alegado dano.
+3. As Razões da negativa de crédito arguidas não ficaram devidamente demonstradas nos autos, motivo pelo qual o apelo da ré deve ser provido.
+DERAM PROVIMENTO À APELAÇÃO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 115/121).
+O recorrente, em suas razões (e-STJ fls. 126/135), aduz divergência jurisprudencial e violação dos seguintes dispositivos legais: arts. 1.022 do CPC/2015 e 186, 188 e 927 do CC/2002, sustentando que "São evidentes os danos experimentados pelo Recorrente, que teve seu nome lançado no SCR/BACEN indevidamente por dívida inexistente" (e-STJ fl. 131).
+A recorrida, em contrarrazões (e-STJ fls. 150/156), pugna pelo desprovimento do recurso.
+O especial foi admitido pelo Tribunal de origem (e-STJ fls. 159/169).
+É o relatório.
+Decido.
+Não é possível o conhecimento do recurso especial quando a apontada violação ao art. 1.022 do CPC/2015 na petição recursal não indica os motivos pelos quais se considera ofendido aquele dispositivo legal. Isso porque, conforme entendimento pacífico do STJ, aplicável a Súmula n. 284 do STF nos casos em que a alegação de violação do art. 1.022 do CPC/2015 é feita de forma genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios ou obscuros, como ocorreu na hipótese.
+Ainda, entende esta Corte que o Sistema de Informações de Créditos do Banco Central do Brasil - SISBACEN - tem a natureza de cadastro restritivo em razão de inviabilizar a concessão de crédito ao consumidor. Assim, é cabível a condenação por danos morais in re ipsa da instituição financeira que promove a inclusão indevida do nome de consumidor nesse sistema de informação.
+Nesse sentido:
+AGRAVO INTERNO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INTERPRETAÇÃO A CONTRARIO SENSU DA SÚMULA N. 283 DO STF. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/1973. ARTS. 6º, II, III, IV, VI, VII, VIII, X, 42, 71 E 73 DO CDC; 186 E 927 DO CÓDIGO CIVIL; 18 DA LEI N. 7.492/86; 1º E 29, § 2º, DA LEI N. 9.492/97. SIMPLES INDICAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. ARTS. 4º, III, 31, 43, § 2º, 46, 51, IV, E 54 DO CDC. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL CONFIGURADA. RESPONSABILIDADE CIVIL. SISBACEN. CADASTRO RESTRITIVO DE CRÉDITO. NATUREZA. INSCRIÇÃO INDEVIDA. DANOS MORAIS DEVIDOS.
+1. Quando os fundamentos da decisão de inadmissibilidade do recurso especial não são suficientes por si sós para a manutenção do julgado, a impugnação de apenas um deles, por viabilizar o exame do recurso especial no ponto atacado, afasta o óbice da Súmula n. 182 do STJ. Interpretação a contrario sensu da Súmula n. 283 do STF.
+2. Refoge da competência do STJ em recurso especial a análise de suposta ofensa a artigo da Constituição Federal.
+3. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+4. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+5. O Sistema Central de Risco de Crédito é instituição restritiva de crédito por avaliar a capacidade de pagamento do consumidor. Assim, é cabível a condenação por danos morais in re ipsa da instituição financeira que promove a inclusão indevida do nome de consumidor nesse sistema de informação.
+6. Agravo interno provido.
+(AgInt no AREsp 851.585/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/06/2016, DJe 23/06/2016.)
+RESPONSABILIDADE CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA DO NOME DE PESSOA JURÍDICA NO CADASTRO DE INADIMPLENTES DO SISBACEN/SCR. DETERMINAÇÃO JUDICIAL PROFERIDA EM LIMINAR EM AÇÃO REVISIONAL DETERMINANDO QUE A RÉ SE ABSTIVESSE DE INCLUIR OU MANTER O NOME DA AUTORA NO ROL DE "QUALQUER ÓRGÃO DE PROTEÇÃO AO CRÉDITO". ATO ILÍCITO CONFIGURADO. DANO MORAL. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM.
+1. O Sistema de Informações do Banco Central - Sisbacen, mais precisamente o Sistema de Informações de Crédito do Banco Central - SCR, é cadastro público que tem tanto um viés de proteção do interesse público (como regulador do sistema - supervisão bancária), como de satisfação dos interesses privados (seja instituições financeiras - gestão das carteiras de crédito -, seja mutuários - demonstração de seu cadastro positivo).
+2. Por óbvio que referido órgão deve ser tratado de forma diferente dos cadastros de inadimplentes como o Serviço de Proteção ao Crédito - SPC e o Serasa. Contudo, não se pode olvidar que ele também tem a natureza de cadastro restritivo de crédito, justamente pelo caráter de suas informações, tal qual os demais cadastros de proteção, pois visam a diminuir o risco assumido pelas instituições na decisão de tomada de crédito.
+3. Observa-se, pois, que apesar da natureza de cadastro público, não tem como se desvincular de sua finalidade de legítimo arquivo de consumo para operações de crédito, voltado principalmente às instituições financeiras para que melhor avaliem os riscos na sua concessão à determinada pessoa, isto é, o crédito é justamente o objeto da relação jurídica posta.
+4. A Lei n. 12.414/2011, chamada de lei do "cadastro positivo", apesar de disciplinar a formação e consulta a banco de dados com informações de adimplemento para histórico de crédito (art. 1º), estabelece que os bancos de dados de natureza pública terão regramento próprio (parágrafo único do art. 1º), o que, a contrario sensu, significa dizer que eles também são considerados bancos de dados de proteção ao crédito, os quais futuramente serão objeto de regulamentação própria.
+5. Na hipótese, a informação do Sisbacen sobre o débito que ainda está em discussão judicial pode ter sido apta a restringir, de alguma forma, a obtenção de crédito pela recorrida, haja vista que as instituições financeiras, para a concessão de qualquer empréstimo, exigem (em regra, via contrato de adesão) a autorização do cliente para acessar o seu histórico nos arquivos do Bacen.
+6. Recurso especial a que se nega provimento.
+(REsp 1365284/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/09/2014, DJe 21/10/2014.)
+O magistrado assentou a ilicitude da conduta da recorrida nos seguintes termos (e-STJ fls. 73/74):
+Embora negue, a ré tacitamente reconhece a ilicitude de sua conduta, vez que não tece qualquer argumento acerca da cobrança de dívida prescrita.
+Desse modo, ainda que tivesse comprovado a cessão, bem como a origem da dívida, ônus dos quais nem sequer se desincumbiu, mostra-se absolutamente irregular o apontamento de dívida já prescrita, pois em 2.5.2016 constava restrição do nome do autor por dívida datada de 25.1.2008, no valor de R$ 9.348,73.
+Por tal razão, o débito atrelado ao nome do autor deve ser desconstituído.
+No que toca ao valor a ser arbitrado ao dano extrapatrimonial, ressalto que não se pode permitir um enriquecimento exacerbado, da mesma forma como não se pode possibilitar a fixação em valores que não reprimam condutas semelhantes.
+Por essas razões, fixo indenização em favor do autor no mesmo valor da dívida prescrita cobrada, de R$ 9.348,73, com incidência das Súmulas 362 e 54, ambas do STJ, já que não comprovada a existência de relação jurídica entre as partes.
+A fim de adequar o presente caso à jurisprudência desta Corte, restabeleço a sentença, que havia fixado a indenização por dano moral em R$ 9.348,73 (nove mil, trezentos e quarenta e oitos reais e setenta e três centavos) - e-STJ fl. 74.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de restabelecer a sentença quanto ao reconhecimento do dano moral e ao arbitramento do valor indenizatório.
+Fixo os honorários advocatícios em 20% do valor da condenação.
+Publique-se e intimem-se.
