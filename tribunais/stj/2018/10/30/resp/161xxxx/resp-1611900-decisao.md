@@ -1,0 +1,20 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. PENHORA. PREFERÊNCIA DOS CRÉDITOS TRIBUTÁRIOS SOBRE OS TRABALHISTAS. ACÓRDÃO QUE DÁ APLICABILIDADE AO ART. 186 DO CTN. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 2249):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ARREMATAÇÃO. PRODUTO. CRÉDITO TRABALHISTA. PREFERÊNCIA.
+Nos termos do art. 186 do Código Tributário Nacional, o produto da arrematação deve ser utilizado para satisfazer preferencialmente créditos trabalhistas, cuja existência fora noticiada nos autos da execução fiscal de crédito tributário.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a (às) questão (ões) de fundo, sustenta ofensa ao(s) artigos 98 e parágrafos da Lei 8.212/1991, 694 e 711 do CPC/1973 e dissídio jurisprudencial, sob os seguintes argumentos: (a) decisão contrariou os dispositivos que regulamentam o pagamento parcelado do preço da arrematação nas execuções fiscais, e ignorou a impossibilidade de desfazer a arrematação nos autos executivos (fl. 2267); (b) o acórdão recorrido, ao admitir o desfazimento, ainda que apenas parcial, da arrematação, violou o art. 694 do CPC, já que o procedimento já havia sido concluído com observância dos §§ do art. 98 da Lei 8.212/912, inclusive com expedição da carta (fl. 2271); (c) Ao determinar a remessa de valores ao juízo trabalhista sem condicionar o exercício da preferência à existência de penhora anterior à arrematação ocorrida na execução fiscal, o acórdão recorrido se colocou em confronto com o art. 711 do CPC.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 2310.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+No que diz respeito à alegação de ofensa à preferência legal do crédito tributário e ao desfazimento de procedimento de pagamento parcelado previsto em Lei, o acórdão recorrido, dando aplicabilidade ao art. 186 do CTN, consignou o seguinte (fl. 2247):
+Assim, a parte agravante, ao postular que os créditos tributários objetos da execução fiscal de origem sejam Satisfeitos antes mesmo, dos créditos trabalhistas noticiados nos autos quando se discutia o destino do produto da arrematação, está na prática anulando ou diminuindo a preferência do crédito trabalhista, o que não se admite, por implicar em ofensa ao disposto no art. 186 do CTN.
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial, não enfrentando a aplicabilidade do dispositivo aos autos, que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
