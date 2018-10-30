@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 168):
+LIQUIDAÇÃO DE SENTENÇA - Ação revisional de contrato bancário (financiamento imobiliário) - Hipótese em que se verifica que dois mutuários autores (exequentes) liquidaram seus contratos e foram incluídos pelo perito como credores Inobservância na r. decisão agravada Tabela Price - V. Acórdão que afastou a capitalização de juros (Tabela Price), porém, sem indicar outro sistema de amortização e, assim, não pode ser adotado o Sistema de Amortização Constante (SAC), pois, também gera capitalização de juros Determinação para que os cálculos sejam refeitos adotando-se o Método Gauss Precedentes desta Colenda Câmara Recurso provido, em parte, com observação.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 199/203).
+Em suas razões (e-STJ fls. 206/260), o recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 526, parágrafo único, do CPC/1973. Argumenta que o agravo de instrumento interposto na origem não deveria ter sido conhecido em virtude da inobservância da regra contida no referido dispositivo legal.
+Sustenta, ainda, contrariedade ao art. 475-G do CPC/1973. Defende que o Tribunal de origem teria inovado, em sede de liquidação de sentença, o "trânsito liquidado, vez que assim o fez forte na equivocada e inexistente premissa de que houve afastamento específico do método contratualmente previsto, o que jamais ocorreu" (e-STJ fl. 227).
+Foram apresentadas contrarrazões (e-STJ fls. 295/305).
+É o relatório.
+Decido.
+A insurgência merece prosperar.
+O Tribunal de origem, soberano no exame das prova dos autos, afastou a preliminar concernente à falta de cumprimento da regra prevista no art. 526 do CPC/1973, consignando que (e-STJ fl. 169):
+Inicialmente, registre-se que interposto o recurso no dia 16 de janeiro de 2014 os agravantes comunicaram o MM. Juízo "a quo" a sua interposição no dia 21 seguinte (fls. 151), ou seja, quatro (4) dias após a apresentação do agravo.
+Entrementes, desacolhe-se a preliminar de descumprimento do art. 526, caput, do Código de Processo Civil. Com efeito, a norma em questão tem como escopo possibilitar a reforma da decisão agravada pelo próprio juízo singular quando do exercício do juízo de retratação, evitando-se, assim, a prolação de decisões inócuas pelos Tribunais. Também, possibilita ao adverso conhecimento prévio do recurso, garantindo-se o contraditório e a ampla defesa. Esta finalidade foi atendida, ficando assim afastada a preliminar arguida.
+"In casu", considerando-se que o agravado apresentou ampla defesa, a toda evidência, se justifica o conhecimento do presente agravo com exame de seu mérito, por aplicação do princípio que assegura o aproveitamento dos atos processuais se não houver prejuízo às partes (art. 244, do CPC). Some-se a isso, como adiante se equacionará, o formalismo processual exacerbado não pode jamais se impor à justiça e ao direito material reconhecido pelo Poder Judiciário.
+Porém, o entendimento jurisprudencial do STJ orienta que a diligência estabelecida no art. 526 do CPC/1973, após a edição da Lei 10.352/2001, tornou-se obrigatória, devendo o recorrente, no prazo de 3 (três) dias, requerer a juntada de cópia da petição do agravo de instrumento e do comprovante de sua interposição, assim como a relação dos documentos que instruíram o recurso.
+O presente caso não trata de vício meramente formal, em que se poderia cogitar da existência de prejuízo à parte para mitigar os efeitos do art. 526, parágrafo único, do CPC/1973, mas de descumprimento do prazo, assinalado pela lei, de providência necessária à admissibilidade do recurso. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 526 DO CPC. DESCUMPRIMENTO. EXISTÊNCIA DE MANIFESTAÇÃO DA PARTE AGRAVADA. MATÉRIA FIRMADA EM RECURSO REPETITIVO. AGRAVO IMPROVIDO.
+1. Segundo o REsp n. 1.008.667/PR, submetido ao regime previsto no art. 543-C do CPC, "o descumprimento das providências enumeradas no caput do art. 526 do CPC, adotáveis no prazo de três dias, somente enseja as consequências dispostas em seu parágrafo único se o agravado suscitar a questão formal no momento processual oportuno, sob pena de preclusão", o que aconteceu no caso em tela.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp n. 627.631/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/5/2015, DJe 27/5/2015.)
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE. AGRAVO REGIMENTAL. ARTIGO 526 DO CPC, SOB A ÉGIDE DA LEI 10.352/2001. PRAZO PARA JUNTADA DA PETIÇÃO DE AGRAVO. NÃO CUMPRIMENTO. CAUSA DE INADMISSÃO CONFIGURADA.
+1. Nos termos do parágrafo único do art. 526 do CPC, a ausência de juntada aos autos principais da petição de agravo de instrumento nos três dias subsequentes à interposição, no regime posterior à edição da Lei 10.352/2001, alegada e comprovada pelo embargado, é causa de inadmissão do recurso.
+2. Rever o posicionamento do acórdão recorrido quanto à intempestividade da juntada de cópia da petição do agravo de instrumento e do comprovante de sua interposição é vedado pela Súmula 7/STJ.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(EDcl no AgRg nos EDcl no Ag n. 1168708/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/10/2012, DJe 17/10/2012.)
+Portanto, o acórdão recorrido deve ser reformado, porque em desconformidade com o entendimento desta Corte.
+Fica prejudicada a análise da suposta ofensa ao art. 475-G do CPC/1973.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para cassar o acórdão recorrido que conheceu do agravo de instrumento, diante do descumprimento, pelos recorridos, da regra prevista no art. 526 do CPC/1973.
+Publique-se e intimem-se.
