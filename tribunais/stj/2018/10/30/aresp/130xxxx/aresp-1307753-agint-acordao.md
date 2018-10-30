@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. NÃO ATENDIMENTO DOS REQUISITOS LEGAIS.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O acórdão do Tribunal de origem, ao decidir a controvérsia, amparou-se em fundamentos constitucional e infraconstitucional, independentes e aptos, por si só, para manter a decisão. A ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+3. A agravante apresentou nas razões do recurso especial a interpretação que considera fidedigna para os dispositivos legais, porém esta foi apresentada de forma dissociada da fundamentação do acórdão, deixando de impugnar de forma direta o entendimento firmado pelo Juízo a quo, o que atrai a incidência das Súmulas 283 e 284 do STF.
+4. A agravante não atendeu aos requisitos legais necessários para o processamento do recurso pela alínea "c", pois ausente o cotejo analítico e a similitude fática entre o caso concreto e o julgado mencionado como paradigma.
+5. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+INSTITUIÇÃO ADVENTISTA CENTRAL BRASILEIRA DE EDUCAÇÃO E ASSISTÊNCIA SOCIAL interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO EM RECURSO ESPECIAL. ENSINO. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. NÃO ATENDIMENTO DOS REQUISITOS LEGAIS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante aduz que: a) os dispositivos constitucionais colacionados no Acórdão não são capazes, por si sós, de sustentar a decisão colegiada, pois a principal discussão nos autos não é a proteção à pessoa com deficiência, mas sim a interpretação do art. 3º da Lei 12.764/12; b) deve ser aplicado ao presente caso o art. 1.025 do CPC, pois a recorrente apresentou embargos de declaração com pedido expresso de prequestionamento; c) todos os fundamentos do acórdão foram plenamente rebatidos no recurso especial protocolado, sendo rechaçado ponto a ponto e trazida a interpretação que a recorrente defende como mais correta e aplicável ao caso em apreço; e, d) alega ainda que, quanto aos requisitos trazidos pelo § 1º do art. 255 do RISTJ, a parte recorrente os preencheu plenamente, devendo o seu recurso ter o prosseguimento devido.
+Houve impugnação. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. NÃO ATENDIMENTO DOS REQUISITOS LEGAIS.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O acórdão do Tribunal de origem, ao decidir a controvérsia, amparou-se em fundamentos constitucional e infraconstitucional, independentes e aptos, por si só, para manter a decisão. A ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+3. A agravante apresentou nas razões do recurso especial a interpretação que considera fidedigna para os dispositivos legais, porém esta foi apresentada de forma dissociada da fundamentação do acórdão, deixando de impugnar de forma direta o entendimento firmado pelo Juízo a quo, o que atrai a incidência das Súmulas 283 e 284 do STF.
+4. A agravante não atendeu aos requisitos legais necessários para o processamento do recurso pela alínea "c", pois ausente o cotejo analítico e a similitude fática entre o caso concreto e o julgado mencionado como paradigma.
+5. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese as razões do presente agravo, a decisão monocrática deve ser mantida.
+O dever da agravante fornecer profissional graduado em psicopedagoria para acompanhar os alunos com síndrome do espectro autista durante a realização das atividades escolares foi reconhecido pela Corte de origem amparado em diversos fundamentos.
+Dentre eles, encontram-se os artigos 7º, XXXI, 23, II, 24, XIV, 37, VIII, 40, § 4º, I, 201, § 1º; 203, IV e V, 205, 208, III, 227, § 1º, II e § 2º e 244 da CF, fundamentos constitucionais que, ao contrário do afirmado pela agravante, sustentam a decisão independentemente dos demais argumentos apresentados pelo Juízo a quo.
+Dessa forma, levando em consideração que o acórdão, ao decidir a controvérsia, amparou-se em fundamentos constitucional e infraconstitucional, independentes e aptos, por si só, para manter a decisão, cabia a recorrente a interposição recurso extraordinário a fim de impugnar a motivação constitucional.
+Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.")
+Com relação a ausência de prequestionamento dos artigos 4º, § 2º do Decreto 8.368/2014, 32 e 3º, I, da Lei 9.394/1996, 2ª, parágrafo único, I, "f", da Lei 7.853/1989, 25 do Decreto 3.298/1999 e 3º, XII, XIII e XIV da Lei 13.146/15, não merece acolhida as razões da agravante.
+Para conhecimento do recurso especial, é imprescindível que no aresto recorrido a questão tenha sido discutida. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto à matéria que sequer tratou.
+Registra-se, outrossim, que para obter êxito na aplicação do art. 1.025 do CPC não basta a simples interposição de embargos de declaração, é necessário depreender das razões apresentadas no recurso especial que o exame da questão pelo Tribunal a quo alteraria o resultado do julgamento e que a matéria foi suscitada no momento oportuno.
+No caso dos autos, a agravante sequer apresentou ofensa ao art. 1.022 do CPC nas razões do recurso especial.
+A matéria a ser considerada devidamente debatida, para os fins elencados no art. 1.025 do CPC, é aquela exclusivamente de direito, que teria sua cognição prejudicada em razão única e tão somente de evidente erro, omissão, contradição ou obscuridade no acórdão recorrido.
+Não estando evidenciado essas balizas - matéria exclusivamente de direito, oportunamente suscitada pela parte interessada e capaz, por si só, de alterar o resultado do julgamento em favor da parte suscitante -, não há razão para se aplicar o art. 1025 do CPC/2018.
+Quanto à incidência das Súmulas 283 e 284 do STF, verifica-se que a agravante apresentou nas razões do recurso especial a interpretação que considera fidedigna para os dispositivos legais, porém esta foi apresentada de forma dissociada da fundamentação do acórdão, deixando de impugnar de forma direta o entendimento firmado pelo Juízo a quo.
+Com relação ao dissídio jurisprudencial, assiste parcial razão a agravante. De fato os artigos 541, parágrafo único, do CPC e 255, §2º, do RISTJ foram equivocadamente citados como fundamento para rejeitar o recurso especial pela alínea "c". Ocorre que trata-se apenas de um erro material.
+Não obstante, a agravante não atendeu aos requisitos legais necessários para o processamento do recurso pela alínea "c", pois ausente o cotejo analítico e a similitude fática entre o caso concreto e o julgado mencionado como paradigma.
+Dessa forma, em substituição aos artigos mencionados, aplica-se o disposto nos artigos. 1.029, §1º, do CPC e 255, §1º, do RISTJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
