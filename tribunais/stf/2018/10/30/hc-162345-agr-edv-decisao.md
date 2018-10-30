@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Embargos de Divergência opostos contra acórdão da Primeira Turma deste Tribunal, assim ementado:
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16, CAPUT, DA LEI 10.826/2003). FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL DEVIDAMENTE JUSTIFICADA. REGIME INICIAL SEMIABERTO. FUNDAMENTOS IDÔNEOS.
+    1. A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades, o que não se verifica na espécie.
+    2. Pena-base adequadamente estabelecida com arrimo no reconhecimento desfavorável da circunstância judicial atinente às circunstâncias do crime, pois o paciente foi surpreendido, em local movimentado, com uma submetralhadora desprovida de código de rastreamento e devidamente municiada com dez cartuchos íntegros, “tendo o laudo pericial atestado que a arma apresentava vestígios de disparo recente”.
+    3. A fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada. Desde que o faça em decisão lastreada nas particularidades do caso, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do § 2º do art. 33 do Código Penal. Inteligência da Súmula 719/STF. Inexistência de ilegalidade.
+    4. Agravo regimental a que se nega provimento.
+    A parte embargante sustenta, em síntese, que é necessário revisar o critério de fixação da pena-base aplicada em relação ao crime de porte ilegal de armas, pois esta se mostrou elevada somente em razão do tipo de arma apreendida. Ressalta o entendimento jurisprudencial fixado pelo SUPREMO TRIBUNAL FEDERAL nas Súmulas 718 e 719. Requer, assim, sejam acolhidos os embargos para (a) reduzir a pena ao mínimo legal e (b) fixar o regime inicial aberto.
+    É o relatório. Decido.
+    Nos termos do art. 330 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL: “Cabem embargos de divergência à decisão da Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário (...)”.
+    Por não haver previsão legal, é pacífica a jurisprudência desta CORTE no sentido de que “não se revela viável a interposição de embargos de divergência contra acórdãos proferidos, pelo Supremo Tribunal Federal, quer em sede originária de habeas corpus, quer, ainda, no âmbito do recurso ordinário em habeas corpus” (HC 88.247/RJ, Rel. Min. CELSO DE MELLO, Plenário, DJe 20/11/2009). No mesmo sentido: HC 142.621 AgR-EDv, Rel. Min. ALEXANDRE DE MORAES, decisão monocrática, DJe de 20/10/2017; HC 120.017 EDv-AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 30/4/2015; RHC 118.100 AgR-EDv-AgR, Rel. Min. LUIZ FUX, Tribunal Pleno, DJe de 25/2/2015; HC 88.247 AgR-AgR-EDv-AgR, Rel. Min. ELLEN GRACIE, Tribunal Pleno, DJ 22/10/2010.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA.
+    Publique-se.
+    Brasília, 30 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
