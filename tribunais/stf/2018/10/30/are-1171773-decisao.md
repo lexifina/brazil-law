@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+    “Apelação Criminal. Tráfico de entorpecentes. Conjunto probatório harmônico. Absolvição ou desclassificação. Impossibilidade. Pena-base acima do mínimo legal. STJ. Circunstâncias judiciais desfavoráveis já consideradas na terceira fase. Impossibilidade. Redimensionamento para o mínimo legal.
+    Minorante especial do § 4º do art. 33 da Lei 11.343/06. Elevada quantidade de droga. Impossibilidade. Regime inicial de cumprimento de pena em aberto ou semiaberto e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade.
+    Restituição de bem. Demonstração do seu uso no tráfico. Valor do dia-multa. Previsão no artigo 49, § 1º, CP. Recursos parcialmente providos.
+    I. Mantém-se a condenação por tráfico de drogas, se o conjunto probatório se mostra harmônico nesse sentido, sendo inviável a absolvição ou desclassificação.
+    II. O depoimento de agentes estatais (policiais) tem força probante, sendo meio de prova válido para fundamentar a condenação, mormente quando colhido em juízo, com a observância do contraditório e em harmonia com os demais elementos de prova, sobretudo a confissão judicial do acusado.
+    III. A pena-base não pode ser elevada com os mesmos fundamentos considerados na terceira fase, nos termos da decisão do STJ.
+    IV. A quantidade elevada da droga apreendida impede a redução da pena, na forma do art. 33, § 4º, da Lei n. 11.343/2006.
+    V. Fixada a pena definitiva em patamar superior a quatro anos, resta impossibilitada a substituição da pena privativa de liberdade por restritiva de direitos e a modificação do regime inicial para semiaberto ou aberto, estando este último devidamente fundamentado.
+    VI. A fração do dia-multa é aquela prevista no artigo 49, § 10, do Código Penal.
+    VII. Recursos parcialmente providos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, II, XLVI e 93, IX, da CF. Sustenta que:
+    (i) “o ora Recorrente é titular do direito subjetivo da causa (objetiva) de redução de pena estabelecida pelo legislador no adiante reproduzido § 4º, do artigo 33, da Lei Federal nº 11.343/2006, que convola a diminuição, quando cumpridos requisitos objetivamente fixados no diploma legal”;
+    (ii) “a fixação do regime prisional FECHADO pelos Venerandos Acórdãos recorridos, viola frontalmente a Constituição Federal”.
+    A defesa requer a substituição da pena privativa de liberdade por restritivas de direitos.
+    O recurso é inadmissível, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal (STF). Nessa linha, veja-se o ARE 880.499 AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal. 3. Tráfico de entorpecentes (art. 33, caput , da Lei n. 11.343/2006). 4. Suposta violação ao art. 5º, inciso XLVI, do texto constitucional. Ausência de prequestionamento. Súmulas 282 e 356. 5. Pena-base fixada no mínimo legal. Minorante do art. 33, § 4º, da Lei de Drogas aplicada no patamar de 1/6. Suposta ilegalidade. Inexistente. Quantidade e natureza da droga utilizada como motivação na terceira fase da dosimetria. Acórdão recorrido em conformidade com a jurisprudência desta Corte, em sede de repercussão geral (tema 712), de que se revela correta a motivação da natureza e da quantidade da droga na primeira ou na terceira fase de aplicação da pena, vedada a aplicação conjunta sob pena de bis in idem . 6. Regime de cumprimento de pena mais gravoso. Fundamento no art. 33, §§ 2º e 3º, do CP. Possibilidade. Precedentes. 7. Agravo regimental a que se nega provimento.”
+    O STF afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Nessa linha, veja-se o AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski.
+    Incide, no caso, a Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    A controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel. Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    No caso, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    O STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
