@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outros, contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CÉDULAS DE CRÉDITO RURAL.
+1. Trata-se de execução provisória de ação coletiva, tendo o título judicial reconhecido que o índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nas quais prevista a indexação aos índices da caderneta de poupança, foi o BTNF no percentual de 41,28% (e não 84,32%), afirmando-se o direito dos agricultores à devolução do montante cobrado a maior.
+2. Nessas execuções, tem-se admitido a deflagração mediante apresentação de elementos mínimos sobre a relação havida entre o titular do crédito e o banco réu, exigindo-se do mutuário que demonstre a existência da cédula, para, a partir de então, determinar a inversão do ônus probatório de forma que a instituição financeira apresente comprovantes de pagamento e demais informações.
+3. Esta Corte, em atendimento a agravos dos exequentes, tem entendido que, estando a documentação em posse do devedor, possível o melhor esclarecimento posterior da situação, caso a caso, sem que isso constitua empeço ao aparelhamento da execução.
+4. Assim, apesar de não acolher a alegação de necessidade de liquidação da sentença exequenda, tem-se que, excepcionalmente, deve ser deferido o prazo de 30 dias, razoável para que traga documentos essenciais ao deslinde das questões suscitadas e apresente os cálculos aritméticos correspondentes.
+Opostos embargos de declaração, foram rejeitados, com aplicação de multa, pelo Tribunal de origem, adotando-se a seguinte ementa:
+PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC/2015. PREQUESTIONAMENTO.
+1. Conforme o disposto no art. 1.022 do CPC/2015, os embargos de declaração tem cabimento contra qualquer decisão e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material. Outrossim, o Código de Processo Civil de 2015 também autoriza a interposição de embargos declaração contra a decisão que deixa de se manifestar sobre tese firmada em julgamento de casos repetitivos, em incidentes de assunção de competência, ou, ainda, em qualquer das hipóteses descritas no art. 489, § Io.
+2. Os embargos de declaração não visam à cassação ou substituição da decisão impugnada.
+3. Nova apreciação de fatos e argumentos deduzidos, já analisados ou incapazes de infirmar as conclusões adotadas pelo julgador, consiste em objetivo que destoa da finalidade a que se destinam os embargos declaratórios.
+4. À luz do disposto no art. 1.025 do NCPC, a interposição dos embargos de declaração, ainda que inadmitidos/rejeitados, autorizam o manejo de recurso às Instâncias Superiores, vez que os elementos suscitados integram o acórdão.
+Nas razões do especial, apontam os recorrentes violação dos artigos 141, 434, 435, 492 e 525 do novo Código de Processo Civil, aduzem que o acórdão recorrido decidiu fora dos limites dos pedidos das partes, visto ter concedido prazo para a casa bancária apresentar documentos, demonstrativo discriminado e atualizado de cálculo de débito.
+Assim delimitada a controvérsia, passo a decidir.
+Encontra-se, todavia, prejudicada a análise do recurso, em razão do conhecimento do agravo e parcial provimento do recurso especial interposto nos autos pelo BANCO DO BRASIL S/A, em que se determinou a suspensão da execução provisória em curso, até o julgamento dos embargos de divergência (EREsp n. 1.319.232/DF).
+Em face do exposto, julgo prejudicado o agravo.
+Intimem-se.
