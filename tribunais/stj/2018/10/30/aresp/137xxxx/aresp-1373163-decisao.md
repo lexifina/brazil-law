@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 83/STJ.
+Nas razões recursais, sustenta o agravante negativa de vigência do art. 40, IV, da Lei 11.343/2006, ao argumento de que, sendo a arma apreendida utilizada para assegurar a efetividade da traficância e, possivelmente, intimidar eventuais desafetos, não se verifica a ocorrência de crimes autônomos de tráfico de drogas e de porte ilegal de arma de fogo, mas apenas o crime de tráfico de drogas majorado pelo uso de arma de fogo.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+A divergência objeto do presente recurso diz respeito ao reconhecimento do porte de arma como majorante do crime de tráfico de drogas e não do crime autônomo de porte de arma.
+Manifestou-se o Tribunal a quo, quanto à questão, nos seguintes termos (fls. 483/485):
+Readequação típica do delito de porte ilegal de arma de fogo como majorante específica do crime de tráfico.
+O defensor pretende, em razões recursais, ver a imputação de porte ilegal de armamento ser reconhecida como causa especial de aumento de pena, prevista no art. 40, inciso IV, da Lei nº 11.343/06, descaracterizando-se, como consectário, o crime autônomo.
+No caso, comprovada a existência do crime (porte de arma) e sua autoria, pois inequívoca a apreensão do revólver com o réu, o que é admitido por este. E, revisado o arcabouço probatório, tenho que o porte da arma, no caso concreto, não se apresenta como causa especial de aumento de pena do tráfico de drogas, na forma prevista pelo artigo 40, IV, da Lei n.º 11.343/06.
+Efetivamente, não existem elementos contundentes a demonstrar que a arma estava sendo utilizada com o intuito de assegurar a efetividade da traficância e a intimidar eventuais desafetos.
+Para que seja afastada a hipótese de crime autônomo, é necessária haver prova de que o artefato é utilizado como instrumento a garantir o sucesso do tráfico, ou mesmo a intimidar eventuais desafetos ou usuários, pelo que, só então, essa conduta deixaria de configurar crime autônomo e passaria à condição de causa de aumento da pena, agregando maior desvalor à traficância, o que aqui não ocorre.
+Veja-se que, o que se extrai da dinâmica fática carreada ao feito é que, embora o acusado, efetivamente, portasse o revólver nas mesmas circunstâncias de tempo e local em que mantinha a posse dos entorpecentes, o artefato bélico não foi empregado, em momento algum, no intuito de assegurar a traficância. Ao contrário, percebe-se que o acusado apenas fez uso do armamento com o intuito de resistir à iminente prisão, já após ter dispensado a mochila que continha as drogas apreendidas. Ou seja: sequer o acusado mantinha a posse do entorpecente quando de sua prisão, a qual ocorreu após um policial ter revidado os disparos e logrado atingir o recorrente, tudo a demonstrar que o elemento subjetivo indispensável à caracterização do porte de arma como circunstância majorante não se encontrava caracterizado.
+Logo, confirmo a condenação do réu pelo crime de porte irregular de arma de fogo, afastando, como consequência lógica, o pedido defensivo de reconhecimento do referido crime como causa especial de aumento da pena do tráfico de drogas.
+Conforme se observa no acórdão recorrido, concluiu o Tribunal a quo, soberano na apreciação dos fatos e das provas constantes nos autos, que o uso da arma pelo recorrente não teve por intuito assegurar o sucesso da mercancia ilícita, mas resistir à iminente prisão, inclusive porque o recorrente, ao disparar contra o policial, já teria dispensado a mochila que continha as drogas apreendidas, concluindo a Corte a quo que, Efetivamente, não existem elementos contundentes a demonstrar que a arma estava sendo utilizada com o intuito de assegurar a efetividade da traficância e a intimidar eventuais desafetos.
+Neste contexto, para se concluir de modo diverso, de sorte a se afastar o reconhecimento de que se trata de crimes autônomos, seria imprescindível o reexame de provas dos autos, o que não se admite na via do especial, ante o óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
