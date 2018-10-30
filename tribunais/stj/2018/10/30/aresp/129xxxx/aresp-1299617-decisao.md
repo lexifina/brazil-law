@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravos interpostos pelo MUNICÍPIO DE NITEROI e pela EMPRESA BRASILEIRA DE REPAROS NAVAIS S.A. RENAVE contra decisão que inadmitiu recursos especiais fundados nas alíneas "a" e "c" do permissivo constitucional, os quais desafiam acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. IMUNIDADE TRIBUTÁRIA. BEM IMÓVEL. DOMÍNIO DA UNIÃO. CESSÃO DE USO. IPTU. NÃO INCIDÊNCIA. POSSE. AUSÊNCIA. ANIMUS DOMINI. PRECEDENTES DO STF, STJ E TJ/RJ. TAXA DE COLETA DOMICILIAR DE LIXO (TCDL). INCIDÊNCIA.
+1 - Embargante que detém, mediante cessão de uso, o domínio útil de terrenos de marinha de propriedade da União para instalação e exploração de indústria de reparos navais.
+2 - O bem imóvel de domínio da União, ocupado por cessionária de uso de área, não se sujeita à incidência de IPTU, uma vez que a posse, aqui, não é dotada de animus domini.
+3 - Não há imunidade tributária sobre a Taxa de Coleta Domiciliar de Lixo (TCDL), eis que o preceito constitucional (artigo 150, VI, a), só faz alusão a imposto, não abrangendo a vedação à cobrança de taxas.
+Nas razões do especial, o Município alega violação do art. 1.022, II, do CPC/2015 e dos arts. 32 e 34 do CTN, sustentando as seguintes teses:
+a) existência de negativa de prestação jurisdicional, em face de suposta omissão do Tribunal de origem quanto ao enfrentamento de dispositivos legais que demonstrariam a viabilidade de cobrança do IPTU;
+b) insurgência contra a imunidade tributária conferida à empresa cessionária de terreno pertencente à União.
+Em seu apelo extremo, por sua vez, a empresa agravante indica ofensa ao art. 20, §§ 3º e 4º, do CPC/1973, insurgindo-se contra o valor fixado a título de honorários advocatícios, por considerá-lo irrisório, bem como contra a reciprocidade da sucumbência reconhecida pelo Tribunal de origem, na oportunidade em que apreciadas as apelações.
+O Tribunal de origem obstou o recurso especial do Município com base na aplicação da Súmula 83 do STJ, bem como por não estar caraterizada ofensa ao art. 1.022 do CPC/2015; já o apelo da empresa foi inadmitido, ao entendimento de que é aplicável o entrave contido na Súmula 7 do STJ (e-STJ fls. 289/295).
+Os agravantes asseveram, em síntese, que seus recursos especiais atendem aos pressupostos de admissibilidade (e-STJ fls. 320/334 e 335/339).
+Apresentaram-se contraminutas às e-STJ fls. 350/355 e 356/359.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, cabe ressaltar, inicialmente, que os recursos especiais se originam de embargos opostos pela empresa agravante à execução fiscal movida em seu desfavor pela municipalidade, na qual se que pleiteia a cobrança de dívidas relativas a IPTU e TCDL.
+Em primeiro grau de jurisdição, o Juízo da 7ª Vara Cível da Comarca de Niterói - RJ julgou procedentes os pedidos, para desconstituir a certidão de dívida ativa, com fundamento em débitos de IPTU e TLC, em razão da imunidade recíproca do imóvel de domínio da União, bem como pela ilegalidade da cobrança da Taxa de Coleta Domiciliar de Lixo, instituída pelo município. Nesses termos, condenou o embargado ao pagamento de honorários advocatícios, fixados em R$ 1.000,00 (um mil reais), nos termos do art. 20, § 4º, do CPC/1973.
+Irresignadas, ambas as partes interpuseram apelação. O recurso da empresa naval foi desprovido pelo TJ/RJ, enquanto o apelo interposto pelo município teve parcial provimento, para reconhecer a legitimidade da cobrança da TCDL. Em face da sucumbência recíproca, o Tribunal julgou prejudicado o pedido de majoração da verba honorária. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 1.160/1.164):
+A embargante, ora primeira apelante, juntou o contrato de cessão de uso, firmado na forma autorizada mediante Decreto nº 79.194, indexador nº 000045) do domínio útil dos terrenos de marinha e acrescidos integrantes das Ilhas do Viana e Santa Cruz, na Baía da Guanabara, (indexadores 000048/000049), a qual tem por finalidade instalação e exploração de indústria de reparos navais.
+Insta salientar que o art. 5º referido Decreto determina que a cessão tornar-se-á nula, caso a cessionária, no todo ou em parte, vier a ser dada destinação diversa da prevista no Decreto ou se ocorrer inadimplemento de cláusula contratual.
+Impõe-se verificar se incide ou não a imunidade tributária prevista no artigo 150, VI, a, da Constituição Federal:
+(..)
+A embargante presta serviços de instalação e exploração de indústria de reparos navais, através de contrato de cessão de uso, e o local onde se localiza é de propriedade da União.
+Tem-se que o bem imóvel de domínio da União, ocupado por cessionária de uso de área, não se sujeita à incidência de IPTU, uma vez que a posse, aqui, não é dotada de animus domini, razão pela qual revela-se inaplicável o art. 34 do CTN à hipótese.
+A jurisprudência do Superior Tribunal de Justiça se alinha ao mesmo entendimento:
+(..)
+Ressalte-se, ainda, que não há óbice para incidência da imunidade tributária recíproca em razão da propriedade imóvel estar vinculada à exploração comercial ou industrial por particular, mormente diante do interesse público existente no desenvolvimento da atividade.
+Quanto à Taxa de Coleta Domiciliar de Lixo (TCDL), não há imunidade tributária, eis que o preceito constitucional (artigo 150, VI, a), só faz alusão a imposto, não abrangendo a vedação à cobrança de taxas.
+A primeira apelante busca a majoração dos honorários advocatícios, fixados em R$ 1.000,00, de acordo com o art. 20, § 4º do CPC/73, então vigente.
+Contudo, tendo em vista que em sede recursal houve reforma da sentença para julgar apenas parcialmente procedente o pedido, prosseguindo-se a execução em relação à TCDL, vislumbra-se a ocorrência de sucumbência recíproca.
+Assim, prejudicado o pedido.
+Os embargos de declaração opostos pelo ente municipal foram rejeitados.
+Pois bem.
+a) Do recurso especial interposto pelo Município de Niterói
+De pronto, importa anotar que o tema referente ao reconhecimento de imunidade tributária às sociedades empresárias teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal, que, no julgamento do RE 594.015/SP, firmou o entendimento de que "a imunidade recíproca, prevista no art. 150, VI, a, da Constituição não se estende a empresa privada arrendatária de imóvel público, quando seja ela exploradora de atividade econômica com fins lucrativos" (DJE n. 188, divulgado em 24/08/2017).
+Dessa forma, encontrando-se o tema afetado e já apreciado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se: AgInt nos EDcl no REsp n. 1.612.117/SC, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/08/2017; AgInt no REsp n. 1.366.363/ES, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/08/2017; AgInt no AgInt no REsp n. 1.603.061/SC, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 28/06/2017.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+b) Do recurso especial interposto pela Empresa Brasileira de Reparos Navais S.A.
+O apelo extremo interposto pela empresa agravante discute apenas a distribuição e o valor relativo aos honorários advocatícios - matéria notoriamente sujeita à prejudicialidade após o exercício de retratação a ser exercido pela Corte a quo.
+Ante o exposto, DETERMINO a devolução de ambos os recursos especiais ao Tribunal de origem, com a respectiva baixa, para que, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral, com o respectivo redimensionamento da verba sucumbencial então fixada.
+Publique-se. Intimem-se.
