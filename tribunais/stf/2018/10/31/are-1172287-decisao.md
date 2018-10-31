@@ -1,0 +1,19 @@
+O recurso extraordinário versa sobre tema já examinado por esta Corte na sistemática da repercussão geral (RE 870.947-RG – Tema 810).
+    O Supremo Tribunal Federal reconheceu a repercussão geral da temática relativa à proibição do efeito confiscatório de multas tributárias, com base no art. 150, IV, da Constituição, em alguns recursos extraordinários, os quais permitem, com segurança, a aplicação da sistemática prevista pelo art. 1.036 do CPC ao presente caso (Tema 214, RE 582.461, Rel. Min. Gilmar Mendes; Tema 487, RE 640.452, Rel. Min. Roberto Barroso; Tema 816, RE 882.461, Rel. Min. Luiz Fux; Tema 863, RE 736.090, Rel. Min. Luiz Fux).
+    No julgamento do Tema 214 da repercussão geral, o STF estabeleceu balizas relativas à fixação de multas moratórias, conforme trechos da ementa:
+    “[…]
+    4. Multa moratória. Patamar de 20%. Razoabilidade. Inexistência de efeito confiscatório. Precedentes. A aplicação da multa moratória tem o objetivo de sancionar o contribuinte que não cumpre suas obrigações tributárias, prestigiando a conduta daqueles que pagam em dia seus tributos aos cofres públicos. Assim, para que a multa moratória cumpra sua função de desencorajar a elisão fiscal, de um lado não pode ser pífia, mas, de outro, não pode ter um importe que lhe confira característica confiscatória, inviabilizando inclusive o recolhimento de futuros tributos. O acórdão recorrido encontra amparo na jurisprudência desta Suprema Corte, segundo a qual não é confiscatória a multa moratória no importe de 20% (vinte por cento). 5. Recurso extraordinário a que se nega provimento” (RE 582.461/SP, Rel. Min. Gilmar Mendes).
+    Essas balizas serão ainda mais delineadas quando do exame do Tema 816, no qual a Corte examinará os limites para a fixação da multa fiscal moratória, tendo em vista a vedação constitucional ao efeito confiscatório. Por oportuno, transcrevo excerto do voto do relator:
+    “[...]
+    Cabe a esta Corte, portanto, em atenção ao princípio da segurança jurídica e tendo em vista a necessidade de concretização da norma constitucional que veda o confisco na seara tributária, fixar, no regime da repercussão geral, as balizas para a aferição da existência de efeito confiscatório na aplicação de multas fiscais moratórias”.
+    Já no Tema 863, o Tribunal estabelecerá os limites da multa fiscal qualificada, tendo em vista a vedação constitucional ao confisco, conforme se extrai do seguinte trecho do voto do relator:
+    “[...]
+    Cabe a esta Corte, portanto, em atenção ao princípio da segurança jurídica e tendo em vista a necessidade de concretização da norma constitucional que veda o confisco na seara tributária, fixar, no regime da repercussão geral, as balizas para a aferição da existência de efeito confiscatório na aplicação de multas fiscais qualificadas”.
+    E, por fim, no Tema 487, será analisado o caráter confiscatório de multa isolada, aplicada a operação que não gerou débito tributário.
+    Dessa forma, caberá ao Tribunal de origem, após identificar se a multa tributária em questão é moratória, punitiva ou individual, aferir se ela está dentro das balizas fixadas pelo Supremo Tribunal Federal nos recursos paradigmas, e fazer a devida adequação, quando necessário.
+    Nesse sentido: RE 978.161, Rel. Min. Dias Toffoli, DJe de 10/8/2016; ARE 975.279, Rel. Min. Dias Toffoli, DJe de 30/6/2016; ARE 895.997-AgR, Rel. Min. Cármen Lúcia, DJe de 15/9/2016; ARE 955.375, Rel. Min. Luiz Fux, DJe de 5/10/2016; RE 785.858, Rel. Min. Celso de Mello, DJe de 1/9/2016; RE 813.287-AgR, Rel. Min. Teori Zavascki, DJe de 18/3/2016.
+    Isso posto, determino a devolução destes autos à origem a fim de que seja observado o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
