@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO – DESPROVIMENTO.
+    1. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário quanto à responsabilidade objetiva de empresa de seguros ante a ausência de manutenção de veículo causador de acidente quando do transporte de passageiros.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes fundamentos:
+    (…) a relação jurídica entre a concessionária do serviço de transporte de passageiros e o consumidor é regida pelo Código de Defesa do Consumidor (art. 22 e seu parágrafo), que determina a responsabilidade do prestador de serviços independentemente da existência de culpa, isto é, considera objetiva a responsabilidade dele, bastando estarem configurados o ato ilícito, o dano e o nexo causal entre este e aquele, para que nasça a obrigação de indenizar.
+    […]
+    O reconhecimento da responsabilidade civil objetiva das empresas de transporte coletivo de passageiros vem sedimentado na Súmula n. 187, do Supremo Tribunal Federal, segundo a qual "a responsabilidade contratual do transportador, pelo acidente com passageiro, não é elidida por culpa de terceiro, contra o qual tem ação regressiva": tanto é que, de acordo com a Súmula n. 161, do mesmo Pretório, "em contrato de transporte é inoperante a cláusula de não indenizar". Essa responsabilidade civil objetiva das empresas transportadoras de pessoas acabou inserida no Código Civil de 2002 (arts. 734 e seguintes), o qual, porém, não é aplicável ao caso ocorrido anteriormente ao início da vigência de tal norma, como é o presente. Mas a orientação jurisprudencial anterior já é suficiente. Até porque o art. 37, § 6°, da Constituição Federal de 1988, é cogente no particular.
+    […]
+    IRB — Brasil Resseguros S.A., chamada ao processo (art. 77, III, do Código de Processo Civil) e responsabilizada solidariamente com a Saoex S/A Seguradora e Previdência Privada pelo ressarcimento do que a ré tiver de despender para indenizar a autora, interpôs recurso de apelação aduzindo que não tem legitimidade para figurar no polo passivo da demanda, porque não tem a obrigação de indenizar os prejuízos eventualmente sofridos pela autora, uma vez que a empresa Transportes São Luiz Ltda não cumpriu as cláusulas do contrato de seguro, qual seja, não manteve o veículo em bom estado de conservação.
+    Não tem razão.
+    […]
+    Ademais, a apelante IRB — Brasil Resseguros S.A. não comprovou nos autos que o acidente tenha ocorrido pela falta de manutenção do veículo.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, relatado pelo ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    2. Conheço do agravo e o desprovejo
+    3. Publiquem.
+Brasília, 31 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
