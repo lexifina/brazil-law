@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de habeas corpus impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido no julgamento do Agravo Regimental no HC 469.590/SP, Rel. Min. REYNALDO SOARES DA FONSECA).
+    Consta dos autos, em síntese, que o paciente foi condenado à pena de 8 anos de reclusão, a ser cumprida em regime inicial fechado, pela prática do crime de homicídio qualificado, na forma tentada (art. 121, § 2º, IV, c/c art. 14, caput, II, ambos do Código Penal).
+    Colhe-se da inicial acusatória:
+    […]
+    É dos autos que a vítima e o ora denunciado transitavam pelo local dos fatos em uma motocicleta e Waldir Josino Azevedo Lopes encontrava-se em outra.
+    Em um dado momento, Nilo parou sua motocicleta, sacou sua arma de fogo e, de modo rápido, inesperado e surpreendente, sem conceder à vítima qualquer oportunidade de defesa, passou a contra ela efetuar tiros, com iniludível vontade de matar.
+    Agindo dessa forma, Nilo, que recebia irrestrito apoio moral do falecido Waldir, deu início à execução de um crime de homicídio que somente não se consumou por circunstâncias alheias à sua vontade, o eficaz atendimento médico recebido.
+    A condenação foi confirmada pelo Tribunal de Justiça do Estado de São Paulo (Doc. 2 – fls. 40/46).
+    Inconformada, a defesa impetrou Habeas Corpus no Superior Tribunal de Justiça, indeferido liminarmente pelo Ministro relator, em decisão mantida pelo colegiado. Eis a ementa do acórdão:
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO POR SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM ACERCA DO TEMA OBJETO DA IMPETRAÇÃO. FUNDAMENTO NÃO INFIRMADO. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE.AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. Uma vez que a Corte a quo não se pronunciou sobre tema versado no recurso em habeas corpus, o Superior Tribunal de Justiça fica impedido de fazê-lo diretamente, sob pena de incorrer em indevida supressão de instância. Precedentes.
+    2. Ademais, tal fundamento não foi especificamente atacado no agravo regimental, a atrair ao caso o enunciado n. 182 da Súmula desta Corte.
+    3. Agravo regimental não conhecido.
+    Nesta ação, a defesa sustenta, em linhas gerais, que, na terceira fase da dosimetria, o Tribunal fundamentou que o redutor aplicado pela tentativa (de 1/3) guarda relação com o iter percorrido pelo agente. Todavia, o Paciente praticou todos os atos executórios do delito imputado, eis que, imbuído do dolo contra a vida da vítima, desferiu disparos de arma de fogo e cessou quando achou que tivesse alcançado o resultado, mostrando-se mais correto ao réu a redução da pena da fração de 1/2. Logo, considerando a proximidade com a consumação do crime, o redutor de 1/2, na escala de 1/3 a 2/3 (art. 14, II, parágrafo único do CP) mostra-se razoável. Requer, assim, a concessão da ordem, para abrandar a pena do Paciente para 06 anos, em regime inicial semiaberto.
+    É o relatório. Decido.
+    Conforme se depreende da ementa acima transcrita, o Superior Tribunal de Justiça não examinou o pleito de revisão da dosimetria. Logo, torna-se inviável a esta SUPREMA CORTE conhecer do pedido originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências (HC 153528 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 8/8/2018; HC 132864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 18/3/2016; HC 136452-ED, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 10/2/2017; HC 135021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 6/2/2017; HC 135949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 24/10/2016).
+    De todo modo, a redução da pena na fração de 1/3 pela tentativa de homicídio foi justificada pelas instâncias ordinárias após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades, o que não se verifica na espécie. Precedentes: HC 146339 AgR, Relator(a):Min. ROBERTO BARROSO, Primeira Turma, DJe de 1º/6/2018; HC 162345 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 29/10/2018; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 13/2/2017; HC 135956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 28/11/2016; HC 134445-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, Dje de 27/9/2016.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
