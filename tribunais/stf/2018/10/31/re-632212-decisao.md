@@ -1,0 +1,16 @@
+Decisão: Trata-se da Petição n. 75530/2018 apresentada pelo Banco do Brasil e pela Advocacia-Geral da União.
+    Os requerentes aduzem que, não obstante a homologação do acordo coletivo nos presentes autos, o Banco do Brasil vem suportando o prosseguimento de milhares de execuções deflagradas para a cobrança dos expurgos inflacionários dos planos sub judice, sobretudo as execuções individuais das sentenças civis públicas proferidas nas ações ajuizadas pelo IDEC em face do Banco Nossa Caixa, incorporado pelo Banco do Brasil e do próprio Banco do Brasil.
+    Afirmam que o prosseguimento das liquidações e cumprimentos das sentenças tem desestimulado a adesão dos poupadores, refletindo o insignificante número de adesões pelos clientes do Banco do Brasil, o que prejudica o objetivo maior do acordo, que é garantir o direito dos particulares e facilitar o pagamento da dívida pelas instituições, mantendo a estabilidade do Sistema Financeiro Nacional.
+    Por fim requerem a suspensão de todas as liquidações e execuções que postulam o recebimento dos expurgos inflacionários decorrentes do Plano “Collor II”, incidentes sobre as cadernetas de poupança - objeto do presente Recurso Extraordinário -, pelo período de 24 (vinte e quatro) meses, a contar da data da decisão homologatória proferida em 5.2.2018.
+    Decido.
+    Conforme relatado, homologuei o acordo coletivo apresentado nos presentes autos, que visa solucionar as inúmeras controvérsias relativas a diferenças de correção monetária em depósitos de poupança, decorrentes da implementação de vários planos econômicos (Cruzado, Bresser, Verão, Collor I e Collor II).
+    Na ocasião, determinei o sobrestamento do presente feito, por 24 (vinte e quatro) meses, de modo a possibilitar que os interessados, querendo, manifestem adesão à proposta nas respectivas ações, perante os juízos de origem competentes, com o intuito de uniformizar os provimentos judiciais sobre a matéria e privilegiar a autocomposição dos conflitos sociais.
+    Ocorre que, mesmo após o citada determinação, os órgãos judicantes de origem tem dado prosseguimento às liquidações e execuções das decisões sobre a matéria, o que tem prejudicado a adesão ou ao menos o livre convencimento dos particulares sobre o acordo em questão.
+    Destaque-se, como já ressaltado, que o acordo tem como objetivo maior garantir o equilíbrio do Sistema Financeiro Nacional, tendo em vista o imenso número de ações a respeito do tema, bem como resguardar o interesse dos particulares envolvidos ao recebimento célere dos valores devidos.
+    Nesses termos, entendo necessária a suspensão de todos os processos individuais ou coletivos, seja na fase de conhecimento ou execução, que versem sobre a questão, pelo prazo de 24 meses a contar de 5.2.2018, data em que homologado o acordo e iniciado o prazo para a adesão dos interessados.
+    À Secretaria Judiciária para as providências cabíveis, sobretudo à cientificação da Presidência dos Tribunais de Justiça, Tribunais Regionais Federais e Superior Tribunal de Justiça, para que adotem as medidas necessárias ao cumprimento da determinação.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
