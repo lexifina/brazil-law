@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Segunda Turma do Superior Tribunal de Justiça, assim ementado:
+    “TRIBUTÁRIO. IPI. CREDITAMENTO. AQUISIÇÃO DE INSUMOS E MATÉRIAS-PRIMAS TRIBUTADOS APLICADOS NA INDUSTRIALIZAÇÃO DE PRODUTO FINAL ISENTO, NÃO-TRIBUTADO OU FAVORECIDO COM ALÍQUOTA ZERO. CORREÇÃO MONETÁRIA. INCIDÊNCIA DA SÚMULA N. 411/STJ. TEMA JÁ JULGADO PELO REGIME CRIADO PELO ART. 543-C, CPC, E DA RESOLUÇÃO STJ 08/2008 QUE INSTITUÍRAM OS RECURSOS REPRESENTATIVOS DA CONTROVÉRSIA.
+    1. Invocação de violação ao art. 535, II, do CPC, calcada em alegações genéricas. Incidência da Súmula n. 284, do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+    2. Não é objeto do presente julgamento a possibilidade ou não de creditamento de IPI, mas somente em que termos incide a correção monetária quando já reconhecidos os créditos judicialmente.
+    3. Incidência do enunciado n. 411, da Súmula do STJ: "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco" e do decidido no recurso representativo da controvérsia REsp.nº 1.035.847 - RS, Primeira Seção, Rel. Min. Luiz Fux, julgado em 24.6.2009.
+    4. No caso em apreço, tendo o acórdão reconhecido créditos adquiridos somente a partir de 01.01.2002, observo que a resistência do Fisco somente ocorreu em relação aos insumos empregados nos produtos finais não tributados, visto que a Corte de Origem reconheceu o direito em relação aos produtos finais não tributados, isentos ou submetidos à alíquota zero, em todos os casos, somente para os insumos adquiridos após a vigência da sistemática instituída pelo art. 11, da Lei n. 9.779/99 (MP n. 1.788/98), e estes dois últimos (produtos finais isentos ou submetidos à alíquota zero) foram contemplados expressamente pelo art. 11, da Lei n. 9.779/99 e regramentos de hierarquia inferior.
+    5. Desse modo, deve ser afastada a incidência da correção monetária em relação ao direito de creditamento referente aos insumos empregados nos produtos finais isentos ou submetidos à alíquota zero, permanecendo a incidência da correção monetária em relação ao direito de creditamento referente aos insumos empregados nos produtos finais não tributados.
+    6. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, II; e 153, § 3º, todos da Carta. Sustenta ser incabível a incidência de correção monetária na hipótese dos autos, ou seja, sobre créditos escriturais do Imposto sobre Produtos Industrializados (IPI).
+    A pretensão recursal não merece prosperar. O Plenário do Supremo Tribunal Federal, no julgamento do RE 299.605, fixou entendimento de que o contribuinte tem direito à correção monetária dos créditos de IPI nos casos em que haja mora injustificada ou irrazoável do Fisco. Veja-se:
+    “EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CRÉDITO PRÊMIO DE IPI. RESSARCIMENTO SOLICITADO NA VIA ADMINISTRATIVA. RESISTÊNCIA INJUSTIFICADA DA ADMINISTRAÇÃO TRIBUTÁRIA. ADIMPLEMENTO INTEMPESTIVO.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que há o direito à correção monetária dos créditos de IPI referentes aos valores não aproveitados na etapa seguinte da cadeia produtiva, desde que fique comprovada a estrita hipótese de resistência injustificada da Administração Tributária em realizar o pagamento tempestivamente. Precedentes.
+    2. A verificação, em concreto, da injustificada resistência do Fisco e da adequação dos termos da correção monetária cingem-se ao contencioso infraconstitucional.
+    3. Fixação de tese: ‘A mora injustificada ou irrazoável do fisco em restituir o valor devido ao contribuinte caracteriza a ‘resistência ilegítima’ autorizadora da incidência da correção monetária’
+    4. Embargos de divergência a que se dá provimento.” (RE 299.605-AgR-ED-EDv, Rel. Min. Edson Fachin)
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 31 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
