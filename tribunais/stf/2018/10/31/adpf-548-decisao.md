@@ -1,0 +1,12 @@
+DECISÃO
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. PEDIDOS DE INGRESSO COMO AMICI CURIAE. REQUERIMENTOS DEFERIDOS. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Associação dos Magistrados Brasileiros – AMB; o Sindicato Nacional dos Docentes das Instituições de Ensino Superior – ANDES; a Universidade Estadual de Campinas; a Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino – CONTEE; a Federação de Sindicatos de Trabalhadores Técnico-Administrativos em Instituições de Ensino Superior Públicas do Brasil – FASUBRA-SINDICAL; a Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior – ANDIFES e o Partido dos Trabalhadores – PT requerem o ingresso na presente arguição de descumprimento de preceito fundamental como amicus curiae.
+    2. As petições vieram acompanhadas das procurações necessárias para o ingresso na presente ação, como decidido no julgamento da Questão de Ordem na Ação Direta de Inconstitucionalidade n. 2.187:
+    “É de exigir-se, em ação direta de inconstitucionalidade, a apresentação, pelo proponente, de instrumento de procuração ao advogado subscritor da inicial, com poderes específicos para atacar a norma impugnada” (Relator o Ministro Octavio Gallotti, Plenário, DJ 12.12.2003).
+    3. Reconhecidas a relevância da matéria, a representatividade dos postulantes, representados por procuradores habilitados especificamente para essa finalidade, admito o ingresso na presente arguição de descumprimento de preceito fundamental, como amici curiae (art. 7º, § 2º, da Lei n. 9.868/1999), da 1) Associação dos Magistrados Brasileiros – AMB; 2) o Sindicato Nacional dos Docentes das Instituições de Ensino Superior – ANDES; 3) da Universidade Estadual de Campinas; 4) da Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino – CONTEE; 5) da Federação de Sindicatos de Trabalhadores Técnico-Administrativos em Instituições de Ensino Superior Públicas do Brasil – FASUBRA-SINDICAL; 6) da Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior – ANDIFES e 7) do Partido dos Trabalhadores – PT, observando-se, quanto à sustentação oral, o art. 131, § 3º, do Regimento Interno do Supremo Tribunal Federal (alterado pela Emenda Regimental n. 15/2004).
+    4. À Secretaria Judiciária deste Supremo Tribunal para proceder à inclusão do nome dos Peticionários e de seus representantes legais na condição de amici curiae.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
