@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal, ementado nos seguintes termos:
+    “CIVIL E PROESSUAL CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS. PRELIMINARES. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CERCEAMENTO DE DEFESA. REJEIÇÃO. PRESCRIÇÃO. PRECLUSÃO. SEST/SENAT. DESVIO DE RECURSOS. OPERAÇÃO POLICIAL. SINDICÂNCIA INTERNA. PAGAMENTOS SEM LASTRO CONTRATUAL E COMPROVAÇÃO DA PRESTAÇÃO DE SERVIÇOS. ENRIQUECIMENTO SEM CAUSA. RESTITUIÇÃO INDEVIDA DE VALORES. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NO MÍNIMO LEGAL. SENTENÇA MANTIDA.” (eDOC 7, p. 57)
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, “a”, da Constituição Federal. (eDOC 7, p. 90-98)
+    Em despacho datado de 22/5/2018 oficiei ao tribunal de origem para que fornecesse cópia integral da petição de recurso extraordinário juntado aos autos. (eDOC 11)
+    Em ofício de nº 10.539/2018, a Presidência do Tribunal de Justiça do Distrito Federal e Territórios assim se manifestou:
+    “De ordem, encaminho os termos do despacho de cópia anexa, para adoção das providências necessárias ao seu cumprimento.
+    Acompanha esse expediente reprodução da petição de recurso extraordinário, incompleto na versão digital dos autos em epígrafe.(...) (eDOC 14)
+    Decido.
+    O recurso não merece prosperar.
+    Verifica-se que, conforme anteriormente consignado, a petição de recurso extraordinário está incompleta, o que impossibilita a exata compreensão da controvérsia.
+     Dessa forma, incide, no caso, o óbice da Súmula 288 desta Corte:
+    “Nega-se provimento ao agravo para subida de recurso extraordinário, quando faltar no traslado o despacho agravado, a decisão recorrida, a petição de recurso extraordinário ou qualquer peça essencial à compreensão da controvérsia”.
+    No mesmo sentido cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL. FALTA DE PEÇA OBRIGATÓRIA À FORMAÇÃO DO INSTRUMENTO. SÚMULA 288/STF. Não consta dos autos a cópia do inteiro teor da petição de recurso extraordinário e das contrarrazões ao recurso extraordinário ou certidão de sua não apresentação, peças de traslado obrigatório, cuja ausência acarreta o não conhecimento do agravo (Súmula 288/STF e art. 544, § 1º, do Código de Processo Civil - redação anterior à Lei 12.322/2010). É firme o entendimento desta Corte no sentido de que cabe ao agravante a fiscalização da correta formação do instrumento. Agravo regimental a que se nega provimento.” (AI 859.507 AgR, Rel. Min. Joaquim Barbosa, Pleno, DJe 25.3.2014)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CRIMINAL. AUSÊNCIA DE PEÇA OBRIGATÓRIA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. Não consta dos autos a cópia do inteiro teor da petição do recurso extraordinário, peça obrigatória, cuja ausência acarreta o não conhecimento do agravo de instrumento. Precedentes: AI 858.916-AgR, Rel. Min. Dias Toffoli; AI 841.968-AgR, Rel.ª Min.ª Rosa Weber; AI 826.336-AgR, Rel. Min. Joaquim Barbosa; AI 691.221-AgR, Rel. Min. Menezes Direito. O Plenário do Supremo Tribunal Federal já decidiu que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Precedente: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes. Hipótese em que a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. Inocorrência da prescrição da pretensão punitiva. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que a interposição de recurso extraordinário manifestamente inadmissível (inadmitido na origem) não impede a formação da coisa julgada. Precedentes: HC 86.125, Rel.ª Min.ª Ellen Gracie; RHC 116.038, Rel. Min. Luiz Fux; AI 807.142-AgR, Rel. Min. Dias Toffoli; ARE 740.953-AgR, Rel. Min. Gilmar Mendes; ARE 723.590-AgR, Rel. Min. Ricardo Lewandowski. Agravo regimental a que se nega provimento.” (AI 689.503 AgR, Rel. Min Roberto Barroso, Primeira Turma, DJe 20.6.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
