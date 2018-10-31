@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 2, p. 58):
+    “DIREITO PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. IPI. ARRENDAMENTO MERCANTIL.
+    1. Como decidido pela Terceira Turma Especializada desta Corte Regional, ‘não há ofensa ao princípio da cumulatividade, pois o fato de inexistir uma operação sucessiva que permita o abatimento do valor pago na importação não acarreta a não incidência tributária.’ (AC nº 2015.51.01.034570-0, rel. Desembargador Federal Cláudia Neiva, v.u. De 29/03/2017).
+    2. Desinfluente a eventualidade da operação, por não desnaturar o fato, pois a habitualidade não é requisito para exigibilidade do tributo, sendo certo, por outro aspecto, que a Constituição de 1988 não distingue o contribuinte do imposto que, ante a natureza, pode ser nacional, pessoa natural ou pessoa jurídica brasileira, e neutro o fato de não estar no âmbito do comércio e a circunstância de adquirir o produto par auso próprio.
+    3. Apelação de AERÓLEO TÁXI AÉREO S/A não provida.”
+    Os embargos de declaração foram desprovidos (eDOC 3, p. 16).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação aos arts. 5º, II e § 2º; 146, III, “a”; 150, I e II; 153, §3º, II; e 154, I, do Texto Constitucional.
+    Sustenta-se ofensa aos princípios da reserva de lei complementar e da legalidade por parte do art. 79 da Lei 9.430/1996 ao impor a tributação proporcional ao tempo de permanência em território nacional.
+    Alega-se também a inexigência do IPI em casos de regime de admissão temporária o qual se caracteriza pela suspensão dos impostos pela provisoriedade da permanência do bem em território nacional.
+    É o relatório.
+    Verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente, notadamente o Código Tributário Nacional e a Lei 9.430/96. Desse modo, a discussão referente à incidência de IPI proporcionalmente ao período de permanência do bem em território nacional, na prorrogação de arrendamento mercantil de aeronave importada em regime de admissão temporária, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Confiram-se, a propósito, os seguintes julgados:
+    “Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. Incidência de Imposto de Importação e Imposto sobre Produtos Industrializados (II e IPI). Arrendamento operacional. Importação pelo regime de admissão temporária. Art. 79 da Lei 9.430/96. 4. O Tribunal de origem solucionou a controvérsia com base na interpretação e aplicação da legislação infraconstitucional. Ofensa reflexa à Constituição Federal. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 781339 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 23.09.2015)
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. ARRENDAMENTO OPERACIONAL. AERONAVE. IMPORTAÇÃO PELO REGIME DE ADMISSÃO TEMPORÁRIA. MATÉRIA INFRACONSTITUCIONAL. LEI 9.430/96. OFENSA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. INOCORRÊNCIA. BEM NÃO INSERIDO NA CADEIA DE PRODUÇÃO. AUSÊNCIA DE DIREITO A CRÉDITO. PRECEDENTES. PRINCÍPIO DA SELETIVIDADE. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+(ARE 859893 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 20.05.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. ADMISSÃO TEMPORÁRIA DE AERONAVE. ARRENDAMENTO OPERACIONAL. FATO GERADOR: ART. 79 DA LEI N. 9.430/1996. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 824310 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 22.09.2014)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
