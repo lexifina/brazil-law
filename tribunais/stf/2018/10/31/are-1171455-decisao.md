@@ -1,0 +1,21 @@
+DECISÃO: O presente agravo foi interposto por Dagoberto Poloni contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo teria transgredido o preceito inscrito no art. 5º, XXXIX, da Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cabe registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Cumpre assinalar, de outro lado, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+    No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    A mera análise do acórdão confirmado em sede de embargos de declaração demonstra que o E. Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação, sustentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “Com efeito, em que pese a negativa de autoria do apelante, as provas colhidas nos autos apontam para a emissão de duplicatas simuladas, ou seja, sem lastro em qualquer venda de mercadoria ou prestação de serviço.
+    Neste sentido, as testemunhas Creusa, Benedita e Joice afirmaram terem recebido a cobrança da duplicata, sem que houvessem adquirido qualquer tipo de mercadoria, o que fez com que ficassem com o nome ‘sujo’.
+    Já a testemunha Dimas, funcionário da empresa, confirmou que, após ter o apelante Dagoberto e o corréu Carlos Eduardo assumido a empresa em razão de suas dificuldades financeiras, a emissão de duplicatas ‘frias’ começou a ser ordenada. Destacou, ainda, que as ordens partiam especificamente do apelante.
+    …..................................................................................................
+    A pena imposta ao apelante foi fixada com equilíbrio e justiça, não merecendo, por tal motivo, reparo algum, à semelhança do regime inicial aberto.
+    De fato, a pena-base imposta ao apelante foi corretamente elevada em 1/6 (um sexto), tendo em vista a circunstância em que o crime foi praticado, já que o apelante aproveitou-se de uma empresa que passava por dificuldade financeira para praticar a conduta delitiva, o que denota a maior reprovabilidade de sua conduta.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
