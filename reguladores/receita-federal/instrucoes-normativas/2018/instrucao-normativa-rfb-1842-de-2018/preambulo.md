@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1842, de 29 de outubro de 2018
+Altera a Instrução Normativa RFB nº 1.701, de 14 de março de 2017, que Institui a Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais (EFD-Reinf).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 32-A da Lei nº 8.212, de 24 de julho de 1991, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 7º da Lei nº 10.426, de 24 de abril de 2002, no Decreto nº 6.022, de 22 de janeiro de 2007, e no art. 3º do Decreto nº 8.373, de 11 de dezembro de 2014, resolve:
