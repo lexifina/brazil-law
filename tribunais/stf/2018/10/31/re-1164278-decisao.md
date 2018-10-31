@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 15ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO - AÇÃO CIVIL PÚBLICA Município de Presidente Venceslau Taxa de expediente cobrada na conta de água/esgoto como emolumentos para custear boleto de referida conta - Exação que não é tributo, ante a falta dos requisitos legais de especificidade e divisibilidade, o que possibilita sua impugnação por meio de ação civil pública e torna a exigência ilegal Precedentes desta Corte e do c. STF em Repercussão Geral - o Parquet pode pretender, incidentalmente, a declaração de inconstitucionalidade de artigos de lei municipal na ACP, pois não se cuida do pedido principal - Desnecessidade da ação direta - Precedentes do c. STF - RECURSO DO MUNICÍPIO IMPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. Sustenta que: (i) o Ministério Público não tem legitimidade para questionar a constitucionalidade de tributos por meio de ação civil pública; (ii) a taxa de emolumentos é legítima e instituída dentro da competência tributária do Município.
+    A pretensão recursal não merece prosperar. A parte recorrente não indicou o dispositivo constitucional violado pelo acórdão recorrido, limitando-se a manifestar sua irresignação contra o julgado. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. Confiram-se os julgados:
+          “Agravo regimental no recurso extraordinário. Não indicação dos dispositivos constitucionais violados. Incidência da Súmula nº 284 desta Corte. Precedentes. 1. O recorrente não indicou, nas suas razões recursais, os dispositivos constitucionais que, porventura, teriam sido violados pelo acórdão recorrido. Incidência da Súmula nº 284 do Supremo Tribunal Federal. 2. Agravo regimental não provido.” (RE 590.336, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. 1. RECURSO EXTRAORDINÁRIO NO QUAL NÃO HÁ A INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS TIDOS POR OFENDIDOS: DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. 2. REMESSA NECESSÁRIA: CÓDIGO DE PROCESSO CIVIL. QUESTÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (AI 705.593-AgR, Relª. Minª. Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 31 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
