@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão que deu provimento a recurso da União julgando improcedente o pedido de pagamento de diferenças entre o valor do auxílio pré-escolar recebido pelos servidores da Justiça Federal e aquele pago aos servidores dos Tribunais Superiores (fls. 203-206, Vol. 1).
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou o art. 5º, caput, além de interpretar equivocadamente a Súmula 339 desta CORTE.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, quanto ao tema em questão, esta SUPREMA CORTE, no RE 592.317/RJ-RG, julgado sob o rito da repercussão geral (Tema 315), posteriormente consolidado na súmula vinculante 37, firmou a seguinte tese: Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+    Verifica-se, portanto, que o acórdão recorrido está em harmonia com este entendimento. No mesmo sentido, citem-se os seguintes precedentes:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. AUMENTO DE VENCIMENTO. PRINCÍPIO DA ISONOMIA. IMPOSSIBILIDADE. SÚMULA vinculante 37.
+    1. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia (súmula vinculante 37).
+    2. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual. (RE 574.204-AgR/RS, de minha relatoria, Primeira Turma, DJe de 1º/8/2018)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO-CRECHE. DIFERENÇA DE VALORES PAGOS AOS SERVIDORES DOS TRIBUNAIS SUPERIORES.
+    1. É ônus da parte Agravante impugnar especificadamente todos os fundamentos da decisão recorrida.
+    2. É impossível ao Poder Judiciário, por não dispor de função legislativa, aumentar benefícios de servidores públicos, tais como auxílio-creche, com base no princípio da isonomia. Súmula Vinculante 37 do STF.
+    3. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC. ARE 968262 MIN. EDSON FACHIN Segunda Turma, DJe de 25/05/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
