@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. CONTRIBUIÇÃO AO SEST E SENAT. EMPRESAS DE TRANSPORTE. EXIGIBILIDADE. ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+    1. As empresas de transporte se submetiam à contribuição ao SESI e ao SENAI. [sic]com o advento da Lei n° 8.706/93, passaram a ter de recolher a contribuição ao SEST e ao SENAT. Sobre o assunto, pacífica a jurisprudência dos tribunais superiores.
+    2. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+    3. Agravo legal improvido” (fl. 1604 do volume 14).
+    No RE, fundado no art. 102, III, a e, c da Constituição, alegou-se, em suma, violação dos arts. 146, III; 149; 154, I; 195, § 4°; e 240, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal tem decidido pela constitucionalidade das contribuições destinadas ao SEST/SENAT. Nesse sentido, cito, respectivamente, o RE 481.722-AgR/MG, de relatoria do Ministro Ayres Britto, e o RE 474.717-ED/MG, de relatoria do Ministro Joaquim Barbosa:
+    “EMENTA: AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PRECLUSÃO DE FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SEST/SENAT. EMPRESA DO SETOR DE TRANSPORTE. CONSTITUCIONALIDADE. 1. Incidência da Súmula 283/STF, ante o trânsito em julgado da matéria infraconstitucional de que se valeu a instância judicante de origem para a solução da causa. Matéria que é suficiente para a manutenção da decisão recorrida. 2. O Supremo Tribunal Federal tem decidido pela constitucionalidade da contribuição destinada ao SEST/SENAT. 3. Agravo regimental a que se nega provimento”.
+    “EMENTA: PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESE DE CONHECIMENTO COMO AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO AO SERVIÇO SOCIAL DO TRANSPORTE E AO SERVIÇO NACIONAL DE APRENDIZAGEM DO TRANSPORTE. SEST/SENAT. DEFICIÊNCIA DA REGRA-MATRIZ DE INCIDÊNCIA TRIBUTÁRIA PARA DEFINIR SUJEITO PASSIVO E ALÍQUOTA. VIOLAÇÃO DA REGRA DA LEGALIDADE (ART. 150, I DA CONSTITUIÇÃO). CARÁTER INFRACONSTITUCIONAL DA DISCUSSÃO. 1. Recurso de embargos de declaração conhecido como agravo regimental, eis que interposto de decisão monocrática e com inequívoco intuito modificativo. 2. Ambas as Turmas desta Corte firmaram precedentes quanto à constitucionalidade da contribuição destinada ao custeio do SEST e do SENAT. 3. Da forma como articulada, a violação da regra da legalidade é meramente reflexa ou indireta, pois os parâmetros de controle utilizados pelo acórdão recorrido foram a legislação ordinária e a infra-ordinária, sem a necessidade de reforço pela Constituição. Houvesse a contrariedade aventada, ela se daria diretamente em relação ao texto da Lei 8.706/1993 e aos Decretos 1.007/1993 e 1.092/1994. Embargos de declaração conhecidos como agravo regimental, ao qual se nega provimento”.
+    Menciono, também, o RE 1.030.857/SP, de relatoria do Ministro Luiz Fux.
+    Por fim, ressalto que o presente caso não trata de acórdão que tenha julgado válida lei ou ato de governo local contestado em face da Constituição, o que afasta o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da CF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF)
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
