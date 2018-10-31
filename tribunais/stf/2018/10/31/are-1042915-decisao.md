@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. APELAÇÃO. SERVIDOR PÚBLICO. PROCURADOR DA FAZENDA NACIONAL. REESTRUTURAÇÃO DA CARREIRA. MP 43/2002, CONVERTIDA NA LEI Nº 10.549/02. COMPOSIÇÃO DA REMUNERAÇÃO. IRRETTROATIVIDADE DA LEI. PROVIMENTO PARCIAL.” (eDOC 5, p. 151)
+    Opostos embargos de declaração, forma rejeitados. (eDOC 5, p. 174)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art 37, XI, do texto constitucional. (eDOC 6, p. 152)
+    Nas razões recursais, alega-se que até o advento da EC 41/2003 as vantagens pessoais não se submetiam teto constitucional.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Medida Provisória 43/2002, Lei 10.549/2002), consignou a irretroatividade dos arts. 4º e 5º da MP 43/2002 e incluiu o pagamento da vantagem pessoal na nova remuneração. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No tocante ao segundo pleito da apelante de recebimento, a título de VPNI, da diferença entre a remuneração que lhes assistiu no interregno de 03 a 06/2002 e o valor de remuneração resultante da aplicação da MP nº 43/2002, de seu rigor seu não provimento.
+    A inclusão da vantagem pessoal nominalmente identificada na MP nº 43/2002 (art. 6º) ocorreu para efeito de composição da remuneração dos Procuradores da Fazenda Nacional para evitar sua redução, em razão da retirada da Representação Mensal e da Gratificação Temporária dos seus vencimentos.” (eDOC 5, p. 138 - 139)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCURADOR DA FAZENDA NACIONAL. REESTRUTURAÇÃO DA CARREIRA. MEDIDA PROVISÓRIA N. 43/2002. LEI N. 10.549/2002 IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a verificação, no caso concreto, da ocorrência ou não de contrariedade ao direito adquirido, se dependente da análise prévia da legislação infraconstitucional, configuraria ofensa constitucional indireta.” (RE 612.031-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 8.10.2010)
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCURADOR DA FAZENDA NACIONAL. MEDIDA PROVISÓRIA 43/2000 E LEI 10.549/2000. MATÉRIA INFRACONSTITUCIONAL. ARTS 5º, XXXVI, E 37, XIV, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. IMPOSSIBILIDADE, NO CASO, DE PREQUESTIONAMENTO IMPLÍCITO. 1. Não tendo sido apreciada pelo Tribunal a quo a questão constitucional em que se apoia o extraordinário, não se encontra configurado o prequestionamento. Súmulas STF 282 e 356. 2. A jurisprudência sedimentada desta Corte não admite, em princípio, o chamado prequestionamento implícito. Precedentes. 3. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se o reexame de legislação infraconstitucional. 4. Agravo regimental a que se nega provimento.” (AI 811.716-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 8.2.2011)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 31 de outubro de 2018.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
