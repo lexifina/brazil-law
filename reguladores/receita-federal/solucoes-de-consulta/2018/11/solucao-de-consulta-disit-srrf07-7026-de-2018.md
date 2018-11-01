@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF07 nº 7026, de 26 de setembro de 2018
+ASSUNTO: Simples Nacional
+EMENTA: CONSTRUÇÃO CIVIL. SERVIÇOS DE PINTURA PREDIAL. TRIBUTAÇÃO. ANEXOS III E IV DA LEI COMPLEMENTAR Nº 123, DE 2006. A empresa optante pelo Simples Nacional que não exerce atividade vedada a esse regime de tributação, contratada para prestar serviço de pintura predial, em relação a essa atividade, deve ser tributada na forma do Anexo III da Lei Complementar nº 123, de 2006. Caso essa empresa seja contratada para construir imóvel ou executar obra de engenharia em que o serviço de pintura predial faça parte do contrato, a tributação desse serviço ocorre juntamente com a obra, na forma do Anexo IV da Lei Complementar nº 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT - Nº 20, DE 17 DE SETEMBRO DE 2013.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 14 de dezembro 2006, art. 17 e Art. 18, §5º-C. Ato Declaratório Interpretativo RFB nº 8, de 30 de dezembro de 2013.
+ASSUNTO: Simples Nacional
+EMENTA: CONSTRUÇÃO CIVIL. SERVIÇOS DE PINTURA PREDIAL. TRIBUTAÇÃO. ANEXOS III E IV DA LEI COMPLEMENTAR Nº 123, DE 2006. A empresa optante pelo Simples Nacional que não exerce atividade vedada a esse regime de tributação, contratada para prestar serviço de pintura predial, em relação a essa atividade, deve ser tributada na forma do Anexo III da Lei Complementar nº 123, de 2006. Caso essa empresa seja contratada para construir imóvel ou executar obra de engenharia em que o serviço de pintura predial faça parte do contrato, a tributação desse serviço ocorre juntamente com a obra, na forma do Anexo IV da Lei Complementar nº 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT - Nº 20, DE 17 DE SETEMBRO DE 2013.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 14 de dezembro 2006, art. 17 e Art. 18, §5º-C. Ato Declaratório Interpretativo RFB nº 8, de 30 de dezembro de 2013.
+JOSÉ CARLOS SABINO ALVES
+Chefe da Disit
