@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado por [NOME], com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão prolatado pela Turma de Uniformização dos Juizados Especiais do Estado de São Paulo, nos autos do Processo n. 0100310-93.2018.8.26.0968, o qual não conheceu da reclamação ajuizada em face de decisão proferida por turma recursal.
+Referido acórdão recebeu a seguinte ementa (e-STJ fl. 191):
+RECLAMAÇÃO - Responsabilidade pelo pagamento de IPVA concernente a período posterior à alienação de veículo - Solidariedade entre o vendedor e o comprador até a data da comunicação ao DETRAN - Inexistência de divergência com a Súmula 585 do STJ - Falta de demonstração de divergência entre o acórdão da turma recursal e a jurisprudência consolidada no Colendo Superior Tribunal de Justiça - Reclamação não conhecida.
+A parte requerente sustenta, em síntese, que o julgado estadual contraria o entendimento jurisprudencial consolidado na Súmula 585 do STJ, visto que "foi considerado devedor solidário por débitos decorrentes de IPVA de veículos dos quais demonstrou por meio documental ter efetuado as respectivas vendas" (e-STJ fl. 5).
+Passo a decidir.
+Inicialmente, registro que o requerente vem atuando no processo sobre o pálio da assistência judiciária gratuita (e-STJ fl. 76).
+Dito isso, saliento que a Lei n. 12.153/2009, ao tratar do pedido de uniformização no âmbito dos Juizados Especiais da Fazenda Pública, assim dispôs em seu art. 18:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Da simples leitura do dispositivo acima transcrito, exsurge certo que o mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, restringe-se a questões de direito material, em duas hipóteses: a) quando as Turmas de diferentes estados derem a lei federal interpretações divergentes; b) quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+Ocorre que, conforme relatado, no presente caso o acórdão recorrido não se manifestou sobre o direito material discutido na demanda, mas se limitou a não conhecer da reclamação ao entendimento de que o então reclamante não conseguiu demonstrar que o acórdão proferido pela turma recursal teria afrontado o disposto na Súmula 585 do STJ.
+Com efeito, o aresto da turma recursal, ao decidir sobre a responsabilidade solidária do ora requerente ao pagamento do IPVA, não se fundou no art. 314 do CTN, mas em dispositivo contido na lei estadual (e-STJ fls. 103/107).
+Nesse contexto, em que o acórdão recorrido restringiu-se a não conhecer da reclamação, por ausência de demonstração da divergência jurisprudencial apontada, constata-se que o presente incidente de uniformização é manifestamente inadmissível.
+Ante o exposto, NÃO CONHEÇO do pedido nos termos do art. 34, XVIII, "a", do Regimento Interno do STJ.
+Publique-se. Intimem-se.
