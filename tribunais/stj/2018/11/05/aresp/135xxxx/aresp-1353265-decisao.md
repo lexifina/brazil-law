@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] E OUTRA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS DE EXECUÇÃO, AÇÃO CONSTITUTIVA NEGATIVA E AÇÃO CAUTELAR APENSADAS - SENTENÇA QUE JULGA PARCIALMENTE PROCEDENTE O PEDIDO DEDUZIDO NA AÇÃO CONSTITUTIVA NEGATIVA E NOS EMBARGOS À EXECUÇÃO PARA LIMITAR A MULTA CONTRATUAL PARA 02% SOBRE O VALOR DA PRESTAÇÃO - SENTENÇA QUE TAMBÉM JULGOU IMPROCEDENTE A AÇÃO CAUTELAR.
+I - RECURSO DE APELAÇÃO 01 (AUTORES): N.U. 1163- 13.2011.8.16.0162 JUROS REMUNERATÓRIOS ABUSIVIDADE NÃO COMPROVADA NOS AUTOS - PERÍCIA JUDICIAL QUE ATESTA QUE FORAM APLICADOS SOBRE O VALOR DA DÍVIDA APENAS JUROS SIMPLES, EM PERCENTUAL MUITO PRÓXIMO AO LIMITE LEGAL PREVISTO NO DECRETO-LEI Nº 22.626/33 E BEM ABAIXO DA TAXA MÉDIA PRATICADA NO MERCADO FINANCEIRO - NOTAS FISCAIS QUE ORIGINARAM A DÍVIDA FORAM ANALISADAS NA PERÍCIA - DESNECESSIDADE DE REPETIÇÃO DA PROVA PERICIAL - INEXISTÊNCIA DE EQUIPARAÇÃO DA CREDORA COM INSTITUIÇÕES FINANCEIRAS - TESE RECURSAL PREJUDICIAL AOS APELANTES - VEDAÇÃO DE REFORMATIO IN PEJUS - SENTENÇA MANTIDA.
+JUROS MORATÓRIOS - ENCARGO NÃO APLICADO PELA CREDORA NO MOMENTO DA COBRANÇA DA DÍVIDA - AUSÊNCIA DE ESTIPULAÇÃO CONTRATUAL PARA SUA INCIDÊNCIA - SENTENÇA QUE NÃO SE PRONUNCIOU A ESTE RESPEITO - INEXISTÊNCIA DE SUCUMBÊNCIA - PREJUDICADA A ANÁLISE DESTE PONTO RECURSAL.
+DESCARACTERIZAÇÃO DA MORA - AUSÊNCIA DE ONEROSIDADE EXCESSIVA - CONFISSÃO DE DÍVIDA QUE NÃO ESTIPULOU A INCIDÊNCIA DE JUROS REMUNERATÓRIOS, NEM DE CAPITALIZAÇÃO ANUAL OU MENSAL DE JUROS, DURANTE O PERÍODO DE NORMALIDADE DO CONTRATO - MORA CARACTERIZADA - PRECEDENTES DO STJ - TESE AFASTADA.
+REVISÃO DOS CONTRATOS ORIGINÁRIOS - SÚMULA 286 DO STJ - PERÍCIA QUE ABORDA OS CONTRATOS ORIGINÁRIOS (NOTAS FISCAIS DA VENDA DOS INSUMOS) - SENTENÇA QUE MODIFICA PARCIALMENTE O PACTUADO ENTRE AS PARTES, REDUZINDO A MULTA DE MORA - AUSÊNCIA DE SUCUMBÊNCIA - SENTENÇA MANTIDA.
+TEORIA DA IMPREVISÃO - ART. 478 DO CC/02 - INAPLICABILIDADE - AUSÊNCIA DE FATO IMPREVISÍVEL E EXTRAORDINÁRIO - A AGRICULTURA É UM NEGÓCIO TIPICAMENTE DE RISCO, [NOME] E ÀS CONDIÇÕES DE MERCADO - ONEROSIDADE EXCESSIVA NÃO COMPROVADA NOS AUTOS - TESE AFASTADA.
+ANATOCISMO - INEXISTÊNCIA DE COBRANÇA DE JUROS SOBRE JUROS, CONFORME CONCLUSÕES DO PERITO JUDICIAL - SENTENÇA QUE SEGUE O ENTENDIMENTO DO PERITO - AUSÊNCIA DE PROVEITO NA ANÁLISE DA MATÉRIA - SUCUMBÊNCIA NÃO CONFIGURADA - TESE NÃO CONHECIDA.
+DIREITO AO ALONGAMENTO DA DÍVIDA LEIS Nº 4.829/65 E 11.775/08 - IMPOSSIBILIDADE RECONHECIMENTO - LEGISLAÇÃO ESPECIAL APLICÁVEL APENAS AO CASO DE FORNECIMENTO DE CRÉDITO RURAL - DÍVIDA DECORRENTE DE COMPRA E VENDA DE PRODUTOS AGRÍCOLAS - SÚMULA 298 DO STJ NÃO APLICÁVEL - SENTENÇA MANTIDA.
+INVERSÃO DO ÔNUS DA SUCUMBÊNCIA - IMPOSSIBILIDADE DE ATENDIMENTO - APELANTES QUE PERMANECERAM VENCIDOS NA MAIOR PARTE DOS PEDIDOS - ART. 21 DO CPC/1973 - MANUNTENÇÃO DA PROPORÇÃO FIXADA NA SENTENÇA PARA A DISTRIBUIÇÃO DA SUCUMBÊNCIA.
+RECURSO DE APELAÇÃO 01 PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+II - RECURSO DE APELAÇÃO 02 (EMPRESA REQUERIDA): N.U. 1163- 13.2011.8.16.0162
+INÉPCIA RECURSAL - AUSÊNCIA DE PEDIDO RECURSAL GENÉRICO - RECURSO QUE ATACA QUESTÕES DECIDIDAS NA SENTENÇA - INÉPCIA NÃO CONFIGURADA.
+CÓDIGO DE DEFESA DO CONSUMIDOR - POSSIBILIDADE DE APLICAÇÃO - TEORIA FINALISTA MITIGADA - PRECEDENTES DO STJ QUE AUTORIZAM A EQUIPARAÇÃO DA PESSOA FÍSICA OU JURÍDICA À CONDIÇÃO DE CONSUMIDORA NAS HIPÓTESES EM QUE ELA NÃO SEJA A DESTINATÁRIA FINAL DO PRODUTO OU SERVIÇO, DESDE QUE VULNERÁVEL EM COMPARAÇÃO AO FORNECEDOR - VULNERABILIDADE CONFIGURADA NO PRESENTE CASO - MULTA CONTRATUAL CORRETAMENTE REDUZIDA PARA 02%, CONFORME ART. 52, §12 DO CDC - SENTENÇA MANTIDA.
+HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA - ART. 20, §§ 3º E 4º DO CPC/1973 - PARÂMETROS LEGAIS QUE DEVEM SER OBSERVADOS NA SENTENÇA - NECESSIDADE DE MAJORAÇÃO DO QUANTUM FIXADO - SENTENÇA REFORMADA.
+RECURSO DE APELAÇÃO 02 CONHECIDO E PROVIDO PARCIALMENTE.
+III - RECURSO DE APELAÇÃO 03 (AUTOR): N.U. 576-64.2006.8.16.0162 NULIDADE DO TÍTULO EXECUTIVO - NÃO CONFIGURADA - RELAÇÃO OBRIGACIONAL DE COMPRA E VENDA DE INSUMOS - LEI Nº 5.47468 QUE AUTORIZA A EXPEDIÇÃO DE DUPLICATA PARA REGULAR A COMPRA E VENDA DE PRODUTOS - ENTRETANTO, EXISTE A POSSIBILIDADE DE REALIZAÇÃO DE ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA PARA COMPILAR OS DÉBITOS INADIMPLIDOS - ART. 585, II, DO CPC/1973 - TÍTULO EXECUTIVO LÍQUIDO, CERTO E EXIGÍVEL - PRECEDENTES DESTE TJPR - SÚMULA 300 DO STJ - PRINCÍPIO DA AUTONOMIA DA VONTADE RESPEITADO - AUSÊNCIA DE VÍCIO DE CONSENTIMENTO NA REALIZAÇÃO DO NEGÓCIO JURÍDICO - OBRIGAÇÕES CONTRATUAIS QUE DEVEM SER CUMPRIDAS PELOS DEVEDORES, POR FORÇA DO PACTA SUNT SERVANDA - ARTS. 104, 145 E 166 DO CC/02 OBSERVADOS PELA EMPRESA APELADA - TESE AFASTADA.
+RECURSO DE APELAÇÃO 03 CONHECIDO E DESPROVIDO.
+IV - RECURSO DE APELAÇÃO 04 (AUTOR): N.U. 577-49.2006.8.16.0162) INSCRIÇÃO DO NOME DOS APELANTES NOS BANCOS DE DADOS DE CONSUMIDORES INADIMPLENTES - POSSIBILIDADE - DIREITO DO FORNECEDOR - ART. 43 DO CDC - MANUTENÇÃO DA REFERIDA INSCRIÇÃO PELO PRAZO MÁXIMO DE 05 ANOS, CONFORME SÚMULA 323 DO STJ - SENTENÇA MANTIDA.
+RECURSO DE APELAÇÃO 04 CONHECIDO E DESPROVIDO" (fl. 573/578 - e-STJ).
+Os recorrentes alegam violação dos artigos 478 e 480 do Código Civil ao fundamento de que ficou comprovado que a perda das lavouras juntamente com a desvalorização da soja gerou onerosidade excessiva superveniente ao contrato firmado entre as partes. Sustentam, ainda, violação dos artigos 14 da Lei nº 4.829/1965 e 13 do Decreto-lei 167/1967. Aduzem que é de rigor a prorrogação do vencimento do contrato já que o mútuo rural tem o seu cumprimento adstrito ao sucesso do empreendimento que, no caso, não ocorreu (e-STJ - fls. 672/688).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O Tribunal de origem decidiu a causa com base na seguinte fundamentação:
+"Pleiteiam os apelantes a aplicação da teoria da imprevisão, sob a alegação de que houve quebra de safra, bem como pelo baixo preço de negociação dos produtos rurais pela superveniência de fatores climáticos adversos.
+(..)
+Além do mais, como bem destacado pelo magistrado de origem, a agricultura é uma atividade de riscos, uma vez que "habitualmente sujeita a oscilações climáticas, fenômenos naturais e até mesmo incidência de pragas que provocam variações na produção agrícola, não se figura possível considerar-se a presença de imprevisibilidade, a determinar a revisão do ajuste.
+Logo, torna-se incabível o reconhecimento de fato imprevisível, a alterar as condições contratuais" (fls. 356) Dessa forma, deve ser afastada a aplicação da teoria da imprevisão, uma vez que não ser invocada para algo previsível.
+(..)
+Outrossim, conforme anteriormente já decidido, não houve a comprovação de cobrança de juros excessivos ou de capitalização durante o período de normalidade do contrato, razão pela qual, impossível a caracterização de abusividade excessiva, fato este que também impede a aplicação da teoria da imprevisão" (e-STJ fls. 596/598).
+No que diz respeito à prorrogação do prazo, lê-se no acórdão recorrido:
+"Os apelantes também sustentaram a possibilidade de prorrogação e parcelamento do saldo devedor, com fundamento na frustração de cinco safras consecutivas, bem como no baixo valor de comercialização dos produtos agrícolas.
+A concessão do benefício do "alongamento" só é possível quando o produtor rural satisfaz todos os requisitos exigidos pela legislação específica (Manual de Crédito Rural 2.6.9 e na Lei nº 11.775/08).
+(..)
+(..) conclui-se que o direito à prorrogação do prazo de pagamento decorre da legislação específica do crédito rural e demais disposições estabelecidas pelo Conselho Monetário Nacional, aplicadas tão somente às instituições financeiras e, em alguns casos, às cooperativas.
+Entretanto, no presente caso, impossível a aplicação da prorrogação do prazo de pagamento da dívida, uma vez que o título executado não é cédula bancária para crédito rural, mas mero instrumento de confissão de dívida decorrente do inadimplemento da compra e venda de insumos agrícolas, ou seja, uma relação típica de consumo entre particulares" (e-STJ fls. 600/601).
+Assim, o artigo 14 da Lei nº 4.829/1965 não é suficiente para afastar o decidido pelo Tribunal, porque aplicável em casos de crédito rural; na espécie, existiu simples compra e venda entre particulares.
+Aplica-se, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 8.000,00 (oito mil reais, fl. 378), os quais devem ser majorados para R$ 10.000,00 (dez mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
