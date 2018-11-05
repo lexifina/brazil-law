@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPÍO DE BIRIGUI contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"INDENIZAÇÃO - Atropelamento e morte do pai e marido das autoras por caminhão que, sem freios, desce em ré rua com aclive - Pretensão julgada parcialmente procedente - Cerceamento da defesa e nulidade da sentença por deficiência da fundamentação não reconhecidos - Caminhão carregado com massa asfáltica destinada a obras de recapeamento de ruas do Município de Birigui - Fato que não caracteriza caso fortuito - Responsabilidade direta da empresa contratada pela Municipalidade para executar a obra reconhecida com acerto - Responsabilidade solidária da. Municipalidade - Denunciação da lide ao condutor do caminhão e à empresa contratada para o transporte da massa asfáltica julgada procedente com acerto - Pensão mensal que deve ser paga à viúva, sem prejuízo daquela recebida do INSS, mês a mês, e não de uma só vez - Indenização do dano moral elevada de R$ 100.000,00 para as três autoras, para R$ 100.000,00 a cada uma delas - Necessidade de abatimento do seguro DPVAT reconhecida - Observância da Lei Federal nº 11.960 /2009, no caso da Municipalidade - Recursos providos, em parte" (fl. 717 e-STJ).
+As razões de recurso alegam a violação do art. 70 da Lei nº 8.666/1993, além de divergência jurisprudencial.
+Sustenta que a responsabilidade do Município deve ser subsidiária, e não solidária, como declarada no acórdão.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Verifica-se que o art. 70 da Lei nº 8.666/1993 não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar vício porventura existente.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+Ainda que superado este óbice, no que diz respeito à responsabilidade solidária do município, o acórdão baseou-se na fundamentação do voto do terceiro juiz, de teor exclusivamente constitucional, conforme se depreende dos seguintes trechos:
+"(..) a douta maioria perfilhou entendimento diverso, no sentido de que a responsabilidade do MUNICÍPIO DE BIRIGUI é solidária, tal como melhor exposto na declaração de voto vencedor do mui D. Terceiro Juiz, posição que deverá ser observada quando do cumprimento do julgado" (fl. 726 e-STJ).
+"É que, a meu ver, a responsabilidade da Municipalidade é solidária, e decorre da falta do cumprimento adequado de seu dever de fiscalizar a execução das obras que eram de natureza pública, executadas por força do contrato celebrado com a Demop (fls. 274/283).
+Fato incontroverso, o veículo que provocou o acidente -e lamentavelmente acabou ceifando a vida do marido e pai das autoras - estava envolvido com a obra pública de recapeamento asfáltico, cujo dever de fiscalização, notadamente das condições de segurança, recaía à Municipalidade, nos termos do artigo 37, § 6º, da Constituição Federal.
+Ainda que de modo indireto, a Municipalidade, qualificada como tomadora de um serviço que era da sua responsabilidade, não pode se eximir de responder pelas consequências do evento provocado por seus agentes, assim conceituados por força do contrato de fls. 274/283" (fls. 730/731 e-STJ).
+Desse modo, a modificação do acórdão é inviável na via estreita do recurso especial, pois implicaria em usurpação da competência do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. 1. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO CONFIGURAÇÃO. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 3. EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. É cediço o entendimento do STJ acerca da possibilidade de incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes preconizados no enunciado n. 123 da Súmula desta Corte, sem que isso configure usurpação de competência.
+2. Todas as questões relevantes para o deslinde da causa foram devidamente apreciadas, tendo o Tribunal de Justiça do Estado do Paraná proferido acórdão com suficiente fundamentação, razão pela qual se afigura improcedente a alegação de contrariedade ao art. 535 do Código de Processo Civil de 1973. 3. Quanto à exibição de documento, o Tribunal de origem decidiu a questão com fundamento no princípio da inafastabilidade da jurisdição, invocando expressamente o art. 5º, XXXV, da Constituição Federal, de modo que o fundamento exclusivamente constitucional subtrai desta Corte Superior a competência para o julgamento da causa, como já se decidiu.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 961.120/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO DE IMAGEM. EX-EMPREGADOR. COMPETENCIA. JUSTIÇA TRABALHISTA. ART. 11 DA CFRB/1988. FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL.
+1. Inviabilidade desta Corte revisar julgado que utilizou fundamentação exclusivamente constitucional para declarar a competência da justiça trabalhista para analisar questão relativa a direito de imagem explorada por ex-empregador, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Agravo interno não provido."
+(AgInt no AREsp 938.842/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe 25/10/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais), ficando cada parte responsável pelo pagamento da metade ao seu respectivo advogado.
+Dessa forma, fixo os honorários recursais em R$ 500,00 (quinhentos reais), a ser pago pelo recorrente ao advogado dos recorridos, mantendo-se, no mais, a verba honorária na forma determinada na origem, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
