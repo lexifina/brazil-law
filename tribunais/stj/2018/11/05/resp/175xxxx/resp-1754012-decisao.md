@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ROBERTA DE SOUZA DA SILVA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 446-461, e-STJ), assim ementado:
+AÇÃO DE INDENIZAÇÃO - SINDICATO - LEGITIMIDADE PASSIVA - REPRESENTAÇÃO JUDICIAL - ADVOGADO - AÇÃO TRABALHISTA - SENTENÇA - RECURSO - PERDA DE UMA CHANCE - DANO MORAL.
+Sindicato é entidade associativa permanente de representação de trabalhadores e empregadores, na defesa de correspondentes interesses coletivos. A representação judicial dos trabalhadores ocorre na defesa dos interesses da categoria ou de seus filiados. Nesse prisma, como a advogada foi indicada pelo sindicato, para exercício da representação judicial sindical, o sindicato é parte passiva legitima para a ação em que associada alega lesão decorrente do exercício desse munas. Quando o advogado deixa de fazer uso do recurso cabível, decerto que retira do cliente uma chance dada pela lei de tentativa de reversão da decisão desfavorável. Não significa dizer que esse recurso seria vitorioso, mas que se trata de uma oportunidade técnica de reexame da pretensão ou resistência. Assim, não se pode negar a existência de uma chance de reexame com possibilidade de reversão, total ou parcial, conferida pela lei, que não pode ser suprimida pela vontade do advogado, porquanto direito subjetivo do cliente. A teoria da perda d e uma chance aplica-se quando o evento danoso acarreta para alguém a frustração da chance de obter um proveito determinado ou de evitar uma perda. Não se exige a comprovação da existência do dano final, bastando a prova da certeza da chance perdida, pois esta é o objeto de reparação. Trata-se, portanto, de fato gerador de dano moral.
+Opostos embargos declaratórios (fls. 464-469, e-STJ), restaram desacolhidos na origem (fls. 475-477, e-STJ).
+Nas razões do especial (fls. 480-492, e-STJ), o insurgente alega violação aos seguintes dispositivos de lei federal: (i) artigo 398 do Código Civil, porquanto os juros de mora deveriam incidir desde o ato ilícito; e (ii) artigo 405 do Código Civil, se não acolhida a primeira tese, ao argumento de que devem incidir desde a citação.
+Não foram apresentadas contrarrazões.
+O apelo extremo foi, inicialmente, sobrestado, por tratar de tema pendente de julgamento submetido à sistemática de recursos repetitivos (fls. 498, e-STJ).
+Após, a Corte de origem (fls. 505-517, e-STJ) manteve o acórdão, afirmando que o caso "difere da questão suporte do Tema 440" (fl. 517 e-STJ), ao que foi admitido o recurso na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal deve prosperar, em parte.
+1. Os recorridos foram condenados a indenizar a ora recorrente, a título de dano moral, em razão da não interposição de recurso em face de sentença trabalhista desfavorável a esta, sendo aplicada a teoria da perda de uma chance.
+A Corte de origem, confirmando a sentença, determinou a incidência de juros e correção monetária a partir do arbitramento do valor da indenização.
+Todavia, por se tratar de indenização por dano moral decorrente de responsabilidade contratual, os juros monetários devem incidir desde a citação, nos termos do entendimento consolidado pela Segunda Seção desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - DANO MORAL - JUROS DE MORA - TERMO INICIAL - DATA DA CITAÇÃO - INCIDÊNCIA DA SÚMULA 168 DO STJ - PRECEDENTES. IRRESIGNAÇÃO DA EMPRESA-RÉ.
+1. A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento no sentido de que, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, o termo inicial dos juros de mora é a data da citação. Incidência, na hipótese, da Súmula 168 do STJ.
+2. Agravo interno desprovido.
+(AgInt nos EREsp 1380749/DF, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 08/11/2016)
+No mesmo sentido, em hipóteses de indenização por dano moral, decorrente de responsabilidade contratual, pela perda de uma chance, foram as decisões monocráticas prolatadas nos autos: AREsp 1321584/RS, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 04/09/2018; AREsp 1263097/RS, Rel. Ministro MOURA RIBEIRO, DJe 23/04/2018; AREsp 1238339/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 06/03/2018.
+Assim, deve ser parcialmente provido o recurso especial, na forma do segundo pedido formulado pela recorrente, para determinar a incidência de juros moratórios desde a citação.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, dá-se parcial provimento ao recurso especial.
+Publique-se. Intimem-se.
