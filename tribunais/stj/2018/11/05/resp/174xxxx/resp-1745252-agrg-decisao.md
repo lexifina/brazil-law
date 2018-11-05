@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RECURSO QUE ALMEJA A FIXAÇÃO DA DATA DO PRIMEIRO RECOLHIMENTO PARA FINS DE PROGRESSÃO DE REGIME. PRISÃO EM FLAGRANTE SUBSEQUENTE QUE NÃO FOI CONSIDERADA COMO FALTA GRAVE NO CURSO DA EXECUÇÃO. PROCEDÊNCIA DO PEDIDO. RECONSIDERAÇÃO.
+Decisão reconsiderada. Recurso especial provido, para restabelecer a decisão do Juízo da Vara de Execuções Penais do Distrito Federal que fixou como data efetiva para o cálculo da benesse progressiva o dia 21/2/2015 (primeiro recolhimento do apenado) - Execução Penal n. 00195328420168070015.
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME], contra a decisão que deu provimento ao recurso especial por ele interposto (fls. 89/94):
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 111, PARÁGRAFO ÚNICO, E 118, II, AMBOS DA LEP. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. PLEITO DE ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. DATA DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO. AUSÊNCIA DE RESPALDO LEGAL. ACÓRDÃO DO TRIBUNAL A QUO EM DISSONÂNCIA COM RECENTE ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE.
+Recurso especial provido.
+Alega o agravante que  ..  a decisão monocrática impugnada estabeleceu a data da última prisão do agravante como termo inicial para a aquisição de benefícios futuros da execução criminal; sendo, portanto, prejudicial aos interesses do recorrente, pois a data da última prisão não corresponde ao início do cumprimento da pena reconhecido pela decisão da VEP como sendo a data do primeiro recolhimento, datado de 21/02/2015 (fl. 103 - grifo nosso).
+Ressalta, ainda, que  ..  a data efetiva como marco interruptivo deve ser o primeiro recolhimento (e não o último), quando o sentenciado permaneceu anteriormente preso cautelarmente e sua soltura não gerou falta grave, como nos casos de relaxamento de prisão, concessão de liberdade provisória ou revogação de prisão (fls. 103/104 - grifo nosso).
+Pede a reconsideração da decisão agravada ou a sua submissão do Colegiado.
+Instado a manifestar-se (fl. 107), o Ministério Público do Distrito Federal e Territórios apresentou a impugnação de fls. 112/113.
+Ao prestar informações, a Vara de Execuções dos Distrito Federal noticiou que o crime, que resultou a prisão em flagrante do agravante na data de 28/3/2016,  ..  não foi considerado como falta grave, uma vez que ainda não havia execução em curso à época da prática do crime (fl. 117).
+É o relatório.
+Do que se extrai, o agravante almeja a fixação de data-base mais benéfica do que aquela estabelecida na decisão agravada, que, ao acolher o recurso defensivo, fixou a data da última prisão do recorrente (28/3/2016).
+Pretende, então, a defesa, tal como arrazoado no recurso especial, que seja fixada como data-base a do primeiro recolhimento (fl. 57), nos termos da decisão do Juízo de piso (fl. 15).
+Uma análise perfunctória da guia de execução penal conduziria a improcedência do pedido, uma vez que a guia sugere a existência de falta grave subsequente ao início da execução penal, que seria a prisão em flagrante verificada em 28/3/2016, que, acaso reconhecida como falta grave, acabaria por constituir marco interruptivo para o benefício da progressão de regime.
+Ocorre que, nas informações prestadas, o Juízo de Execução noticiou que a prisão efetivada em 28/3/2016 não foi considerada como falta grave, ante a inexistência de execução em curso à época da prática do delito (fl. 117), informação, inclusive, reiterada, ainda quando apontada inconsistência nas datas constantes na guia (fls. 151/183).
+Com efeito, se a prisão efetivada em 28/3/2016 não foi considerada como falta grave, a pretensão defensiva, no sentido de estabelecer a data do primeiro recolhimento (21/2/2015), é procedente, ante a ausência de causa interruptiva.
+Ante o exposto, reconsiderando a decisão agravada, dou provimento ao recurso especial para restabelecer a decisão do Juízo da Vara de Execuções Penais do Distrito Federal que fixou como data efetiva para o cálculo da benesse progressiva o dia 21/2/2015 (primeiro recolhimento do apenado) - Execução Penal n. 00195328420168070015.
+Publique-se.
