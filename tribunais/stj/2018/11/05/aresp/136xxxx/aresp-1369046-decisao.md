@@ -1,0 +1,34 @@
+DECISÃO
+1. Trata-se de agravo interposto por NELSON GUIMARÃES DANTAS CANUTO E FABIANE PINTO TOAZZA CANUTO, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 211):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS - PASSAGEIRO IMPEDIDO DE EMBARCAR EM VOO INTERNACIONAL - CARTEIRA DE IDENTIDADE EMITIDA HÁ 22 ANOS - IMPOSSIBILIDADE DE IDENTIFICAÇÃO DO PORTADOR DO DOCUMENTO - IMAGEM DE QUANDO O AUTOR POSSUÍA APENAS 11 ANOS DE IDADE - NEGATIVA DE EMBARQUE JUSTIFICADA - CULPA EXCLUSIVA DO CONSUMIDOR - INEXIGIBILIDADE DO DEVER DE INDENIZAR - HONORÁRIOS RECURSAIS DEVIDOS - RECURSO DESPROVIDO.
+1. A culpa pelos dissabores do cancelamento da viagem é do próprio autor, que não se muniu dos documentos necessários para a viagem internacional, tentando embarcar com RG emitido há 22 anos com foto de quando tinha apenas 11 anos de idade.
+2. Tratando-se de recurso interposto sob a égide do novo Código de Processo Civil, impõe-se a fixação de honorários advocatícios recursais, nos termos do §11 do art. 85, do CPC.
+Opostos embargos de declaração pela parte recorrente (fls. 218-222), foram rejeitados (fls. 259-262).
+Nas razões do recurso especial (fls. 264-285), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, arts. 6º, VI, e 14, do Código de Defesa do Consumidor, art. 186 do Código Civil, e art. 1º do Decreto 18/08 do Mercosul.
+Em apertada síntese, sustenta que a recorrida deve ser condenada ao pagamento de danos morais e materiais decorrentes de impedimento indevido de embarque, argumentando que o Registro Geral (RG) não possui prazo de validade.
+Contrarrazões ao recurso especial às fls. 306-316.
+É o relatório.
+DECIDO.
+2. Inicialmente, não conheço da alegada vulneração dos arts. 489, § 1º, IV, e 1.022, do CPC. Nas razões do especial o recorrente deduz argumentação de que as questões postas nos aclaratórios interpostos na origem não foram respondidas, sem pontuar, de forma específica, quais seriam e qual a sua relevância para solução da controvérsia, o que atrai, de forma inarredável, a exegese da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. De outra parte, ao analisar a demanda, à vista dos elementos fático-probatórios constantes dos autos, o Tribunal local reconheceu que a parte agravada teria prestado informações claras e precisas quanto à impossibilidade de apresentação de documento de identificação antigo para a viagem internacional e que haveria culpa exclusiva do consumidor no caso (fls. 213-214):
+Analisando os autos verifica-se que o documento apresentado pelo autor Nelson para embarque foi emitido em 11.07.1994, ou seja, há 22 anos e não bastasse isso a foto de identificação é de quando possuía apenas 11 anos de idade, sendo impossível sua identificação por meio daquela cédula de identidada.
+Em que pese o argumento de que o autor apresentou também outros documentos durante o check-in, o Decreto nº 18, do MERCOSUL, que trata sobre o "Acordo sobre Documentos de Viagem dos Estados Partes do MERCOSUL e Estados Associados", em seu anexo (f. 54), reconhece como documento hábil para trânsito no Uruguai apenas Cédula de Identidade e Passaporte.
+Ademais, a recorrida, por seu turno, em seu portal de informações (https://www.voegol.com.br/pt/informacoes/viaje-sem-duvidas/documentos-para- viajar), orienta os passageiros que irão embarcar para viagens internacionais a apresentação de carteira de identidade original com ressalva expressa de que " não são aceitos RGs antigos, plastificados ou em mau estado de conservação".
+Não se pode olvidar ainda que o site do Governo Federal (http://www.brasil.gov.br/cidadania-e-justica/2009/10/emissao-da-carteira-de-identidade- RG-e-gratuita-em-todo-pais) recomenda a renovação do RG a cada dez anos, vejamos:
+"A Carteira de Identidade não possui validade, porém o documento pode não ser aceito no Brasil ou em viagens para o exterior caso esteja em más condições de conservação ou a foto não permita a identificação do titular. Recomenda-se que o RG seja renovado a cada dez anos". Destaquei
+ ..
+Logo, constata-se que a culpa pelos dissabores do cancelamento da viagem é do autor, que não se muniu dos documentos necessários para a viagem e também não é crível que não tenha imaginado que o documento com foto tão antiga não lhe traria problemas para embarque, pois não se trata de pessoa de pouca instrução.
+ ..
+Portanto, conforme bem elucidado pelo douto magistrado de primeira instância a culpa pelo infortúnio foi exclusiva do autor, não havendo ilicitude no ato a ocasionar indenização, razão pela qual deve ser mantido o decisum.
+Nesse contexto, verifico que o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. PRETENSÃO RECURSAL. NECESSIDADE DE REEXAME DOS ELEMENTOS FÁTICOS. SÚMULA 7/STJ.
+1. A pretensão recursal não requer do STJ juízo valorativo de prova, mas sim exame. Isso, porque o inconformismo recursal, nos termos como deduzido, exige que se revisem os próprios fatos narrados pelo Tribunal local, e não a conclusão de direito tirado desses mesmos fatos.
+2. O Tribunal local, no bojo do voto condutor, de forma expressa, consigna: "O exame dos autos permite concluir, no caso, a efetiva ocorrência de culpa exclusiva do consumidor (art. 14, § 3º, II, CDC)  ..  Portanto, a prova coligida nos autos indica que não houve falha no dever de informação aventado na exordial" (e-STJ, fls.
+236/237).
+3. Sem argumentos novos capazes de alterar a decisão ora agravada, faz-se mister confirmar o entendimento quanto à incidência do óbice da Súmula 7/STJ à pretensão autoral, que busca compensação por danos morais.
+4. Agravo regimental não provido.
+(AgRg no AREsp 460.232/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/04/2014, DJe 28/05/2014)
+4. Por fim, no que concerne ao indicado dissídio pretoriano, observo que o recorrente não cumpriu com o disposto no § 2º do art. 255 do RISTJ, pois a demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
