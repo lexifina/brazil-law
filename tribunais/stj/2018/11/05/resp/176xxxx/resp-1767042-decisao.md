@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 252):
+EMENTA: ADMINISTRATIVO. APELAÇÃO. AÇÃO DECLARATÓRIA DE ESTABILIDADE C/C CONVERSÃO EM PERDAS E DANOS. SERVIDORA EFETIVADA PELA LEI COMPLEMENTAR N.º 100/2007. INCONSTITUCIONALIDADE DECLARADA PELO STF. ADI N.º 4.876. EFEITOS IMEDIATOS A SEREM APLICADOS NO CASO CONCRETO. IMPROCEDÊNCIA DO PEDIDO. SENTENÇA CONFIRMADA. RECURSO
+DESPROVIDO. 1. No julgamento da ADI 4.876/DF, o STF reconheceu a inconstitucionalidade da LC n.º 100/2007 e modulou os seus efeitos, de modo que, em se tratando de cargos para os quais exista concurso público em andamento ou dentro do prazo de validade, a ADI 4.876/DF terá efeitos imediatos. 2. Havendo concurso público vigente para fins de provimento do mesmo cargo ocupado pela autora, a improcedência do pedido inicial é medida que se impõe, não havendo falar em direito à estabilidade, tampouco em indenização por perdas e danos.
+Nas suas razões, a parte recorrente aponta violação do art. 19-A da Lei n. 8.036/1.998. Aduz, em síntese, que foi efetivada nos quadros da Administração estadual por força das disposições da Lei Complementar Estadual n. 100/2007 e que, posteriormente, foi exonerada em razão da declaração de inconstitucionalidade do referido diploma legislativo. Por fim, alega que era detentora de cargo efetivo, regido pelo regime estatutário e que faria jus ao recebimento das verbas depositadas no FGTS e que o entendimento firmado pelo Tribunal a quo diverge da orientação dada por este Tribunal e pelo Supremo Tribunal Federal.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 400/402.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Quanto à violação do art. 19-A da Lei n. 8.036/1998, da análise dos autos, verifica-se a ausência de prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pela parte recorrente. Note-se que nem sequer foram opostos embargos de declaração para sanar a omissão.
+Incide, na hipótese, a Súmula 282 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. MAJORO os honorários sucumbenciais em 10% sobre o valor fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015, cuja exigibilidade, no entanto, fica suspensa na forma do § 3º do art. 98 do novo CPC.
+Publique-se. Intimem-se.
