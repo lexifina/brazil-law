@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por GOL LINHAS AÉREAS S.A., fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DO DÉBITO C/C INDENIZAÇÃO POR DANO MORAL. APELAÇÃO CÍVEL I: PARTES QUE FIRMARAM CONTRATO PARA EMISSÃO DE PASSAGENS AÉREAS. COBRANÇA DE PASSAGENS EMITIDAS COM ACESSO FRAUDULENTO AO SISTEMA DISPONIBILIZADO PELA COMPANHIA AÉREA. RESPONSABILIDADE EXCLUSIVA DESTA. TRANSAÇÕES REALIZADAS EM ENDEREÇOS DE IP"S DIVERSOS, EM LOCALIDADES GEOGRÁFICAS DISTINTAS E EM VALOR SUPERIOR À MÉDIA HISTÓRICA DE TRANSAÇÕES. CONTRATO QUE DEVE SER ANALISADO SOB A ÓTICA DA BOA-FÉ CONTRATUAL. SENTENÇA MANTIDA. APELAÇÃO II: PRETENSÃO DE RECEBIMENTO DE INDENIZAÇÃO POR DANO MORAL. INOCORRÊNCIA NO CASO CONCRETO. RECURSO DE APELAÇÃO I CONHECIDO E NÃO PROVIDO. RECURSO DE APELAÇÃO II CONHECIDO E NÃO PROVIDO" (fl. 952 e-STJ)
+Em suas razões, a recorrente aponta violação do art. 188, I, do Código Civil.
+Defende a culpa exclusiva da recorrida pelos alegados danos provenientes de venda de passagens aéreas.
+Afirma que
+(..) considerando que as passagens foram emitidas através de senha e login da Recorrida, dados esses que são PESSOAIS e INTRANSFERÍVEIS, tal fato exonera a Recorrente de qualquer dano alegadamente suportado.
+18. Com efeito, se houve algum descuido e/ou algum dano sofrido, esse foi por culpa exclusiva da Recorrida, mas nunca da Recorrente, que somente disponibilizou os dados de acesso para Agência de Turismo" (fl 991 e-STJ).
+Sem as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No presente caso, o Tribunal de origem, à luz da prova dos autos, concluiu pela inexistência de culpa da recorrida na emissão de passagens aéreas, conforme se extrai da leitura do voto condutor, merecendo destaque os seguintes trechos:
+"(..) no caso dos autos, entendo que deve ser afastada a responsabilidade contratual prevista, uma vez que não observo culpa por parte da Autora nas operações realizadas.
+Primeiramente, porque mantenedora do sistema para emissão de passagens pelas agências de turismo, de modo que a garantia de segurança do acesso ao sistema é seu, devendo ser, portanto, responsabilizada quando demonstrada que houve o acesso fraudulento ao sistema.
+E, no caso, entendo que há indícios suficientes para demonstrar que a aquisição das passagens em questão ocorreu mediante acesso fraudulento ao sistema, ainda que em ambiente logado, seja pela identificação dos IPs de realização das transações, que reportam a lugares completamente diversos à sede da empresa autora (mov. 45), seja diante da notícia de que as compras realizadas com cartão de crédito sequer foram reconhecidas pelos titulares dos cartões de crédito (mov. 15.2, 17.2).
+Ademais, a quebra de sistemas mantidos na internet é deveras comum nos dias de hoje, de modo que, diante dos fatos já destacados de diferenças nos IPs e cartão fraudulento, resta corroborada a alegação do Autor de que efetivamente houve fraude no caso em comento.
+Cumpre a empresa VRG, portanto, disponibilizar aos seus parceiros comerciais um sistema confiável para a emissão das passagens aéreas, disponibilizando meios de vedar o acesso de terceiros ao sistema e a realização de fraudes. Tal fato não tem como ser imputado a Autora, uma vez que não possui a opção de operar por outro sistema, senão aquele disponibilizado pela ré.
+E, como bem ponderou o magistrado singular, a execução do contrato entre as partes deve ser regida pelo princípio da boa-fé, de modo que incumbia de igual modo a VRG olhar com estranheza a emissão das passagens em questão.
+Primeiramente porque, conforme já foi dito, os IPs dos computadores em que realizadas as transações (cujo acesso lhe era exclusivo) eram de localidades completamente diversas da sede da agência de turismo, o que deveria ter sido objeto de verificação pela empresa. Ademais, a transação no período em questão foi de, aproximadamente R$ 200.000,00, valor substancialmente superior ao referente, por exemplo, ao período posterior (de 21/04/2015 a 13/05/2015 - com venda de apenas 26 trechos, constando um crédito em favor da Autora tendo em vista a realização de estornos), o que também deveria ter sido observado pela VRG.
+(..)
+Assim, com relação a estas passagens emitidas de forma fraudulenta, seja pela modalidade de faturamento pela agência, seja pela compra com cartão de crédito clonado, não há como responsabilizar a Autora, eis que demonstrado que o acesso ao sistema foi realizado mediante fraude, sendo que esta interpretação se mantém mesmo sob análise das cláusulas contratuais.
+Tem-se, ademais, que o agente de turismo reportou à VRG quanto a emissão fraudulenta das passagens aéreas, cumprindo com seu dever de forma diligente" (fl. 960 e-STJ).
+Assim, o eventual conhecimento do presente especial, no que se refere às questões relativas à imposição de culpa pela emissão fraudulenta de passagens aéreas, demandaria nova incursão fático-probatória que, como se sabe, é interditada a esta Corte Superior na via especial. Não é outra a inteligência do verbete sumular n.º 7 deste Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários advocatícios foram fixados, em razão da sucumbência recíproca, em R$ 3.000,00 (três mil reais - fl. 785 e-STJ), na proporção de 50% (cinquenta por cento), os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
