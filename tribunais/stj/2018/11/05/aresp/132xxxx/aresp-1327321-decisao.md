@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO CONTRA DECISÃO INTERLOCUTÓRIA PROFERIDA EM PROCESSO EXTINTO POR SENTENÇA SUPERVENIENTE TRANSITADA EM JULGADO. PERDA DO OBJETO RECURSAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO INTERNO - CONHECIMENTO PARCIAL DO AGRAVO DE INSTRUMENTO UNICAMENTE COM RELAÇÃO À INVERSÃO DO ÔNUS PROBATÓRIO - INTERVENÇÃO DE TERCEIROS - NÃO PROVIMENTO - CORREÇÃO DO POLO PASSIVO NÃO PREVISTA NO ROL DO ARTIGO 1.015 DO NCPC - RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões de recurso especial, interposto com base no art. 105, III, a e c, da CF, a recorrente alegou a violação do Código de Defesa do Consumidor, da Resolução 364 do CCFCVS e dos arts. 14, 17, 114, 485, IV e VI, 1.022, I e II, do CPC/2015; 1º da Lei 12.409/2011, com a redação da Lei 13.000/2014; e 114, 206, § 1º, II, b, e 458 do CC.
+Sustentou: a) a negativa de prestação jurisdicional no exame de questões suscitadas em seu recurso; b) a legitimidade da Caixa Econômica Federal para integrar a lide e, consequentemente, a competência da Justiça Federal para julgar a ação; c) a sua ilegitimidade para integrar o polo passivo; d) o litisconsórcio passivo necessário com o agente financeiro COHAPAR; e) a inaplicabilidade do Código de Defesa do Consumidor e da inversão do ônus da prova; e f) a prescrição anual.
+Contrarrazões apresentadas às fls. 1.024-1.042 (e-STJ).
+Em decorrência da inadmissão do recurso pela origem, foi interposto o presente agravo, o qual é objeto de contraminuta às fls. 1.056-1.062 (e-STJ).
+Sobreveio ofício do Tribunal de origem (e-STJ, fls. 1.093-1.101), protocolizado em 23 de outubro de 2018, no qual é informado o julgamento de improcedência da ação em que foi proferida a decisão interlocutória atacada pelo agravo de instrumento originário do presente agravo do art. 1.042 do CPC/2015, bem como o trânsito em julgado daquela decisão.
+Brevemente relatado, decido.
+Conforme entendimento desta Corte, "fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença" (AgRg no AREsp 51.857/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 19/5/2015, DJe 26/5/2015).
+No caso dos autos, conforme noticiado pelo Tribunal de origem (e-STJ, fls. 1.093-1.101), a ação proposta contra a parte ora agravante, em que foi proferida a decisão interlocutória atacada pelo agravo de instrumento originário do recurso especial e do agravo do art. 1.042 do CPC/2015, foi julgada improcedente, por decisão transitada em julgado.
+Desse modo, é inequívoca a perda do objeto do recurso especial e, consequentemente, do presente agravo que visa à admissão daquele recurso, os quais, por essa razão, ficam prejudicados - hipótese de não conhecimento recursal, nos termos do art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
