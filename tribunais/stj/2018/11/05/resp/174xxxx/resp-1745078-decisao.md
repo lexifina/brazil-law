@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). NULIDADE. SENTENÇA. ATOS POSTERIORES. AUSENTE IMPUGNAÇÃO AO DUPLO EFEITO DO RECURSO DE APELAÇÃO. NÃO IMPUGNADA A MATÉRIA OPORTUNAMENTE. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF. DISSÍDIO. COTEJO ANALÍTICO. AUSENTE. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por RODRIGUES E RIBEIRO RESTAURANTES LTDA-ME , fundamentado nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado:
+AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL. DECISÃO QUE DETERMINA A REINTEGRAÇÃO DE POSSE AO APELANTE. RECURSO DE APELAÇÃO RECEBIDO EM SEU DUPLO EFEITO. SENTENÇA SEM EFEITOS IMEDIATOS. PREVALÊNCIA DA DECISÃO LIMINAR QUE FOI CONFIRMADA POR AGRAVO DE INSTRUMENTO. RECURSO IMPROVIDO.
+1. Trata-se de agravo regimental em face da decisão de fls. 320/327, proferida em sede de apelação cível, em que deferi o pedido do apelante, para determinar a desocupação pelo apelado do imóvel em debate, no prazo de 30 (trinta) dias, com a expedição de mandado de reintegração de posse em favor do primeiro.
+2. Em que pese a sentença ter extinguido o feito sem resolução do mérito, o magistrado a quo recebeu o apelo em seu duplo efeito, quais sejam, os efeitos devolutivo e suspensivo, sendo que, desta decisão, não foi interposto nenhum recurso. Logo, os efeitos da sentença de primeira instância estão suspensos, devendo prevalecer, pois, a decisão que concedeu a medida liminar ao requerente/apelante, ora agravado, a qual foi devidamente confirmada por meio do agravo de instrumento nº 2012.0001.000774-4.
+3. Não bastasse a decisão de fl. 210 do magistrado a quo ter descumprido o acórdão proferido pelo TJPI, esta apenas suspendeu o cumprimento da medida liminar, sem qualquer exposição de motivos ou considerações acerca das bases que levaram à revogação do mandado de reintegração, o que revela verdadeira afronta ao art. 93, IX, da Constituição Federal.
+4. Encontra-se, no presente caso, o periculum in mora ao apelante, tendo em vista que a sentença combatida atravanca o direito deste quanto ao gozo do bem imóvel de sua propriedade, bem como a existência de provas robustas nos autos da depredação e do abandono do imóvel pelo apelado, conforme as fotografias de fls. 300/309.
+5. Ao julgar o pedido formulado pelo apelante e determinar a expedição de mandado de reintegração de posse em seu favor, apenas imprimi efetividade ao recebimento do apelo em seu duplo grau, bem assim à decisão proferida por esta Corte de Justiça no julgamento do agravo de instrumento nº 2012.0001.000774-4.
+6. Agravo regimental conhecido e improvido. (e-STJ, fls. 425/426)
+No recurso especial, a parte recorrente alega violação aos artigos 236, § 1º, 248 e 245, do CPC/73; e aos artigos 272, § 2º, 281 e 278, do CPC/15, sustentando que é necessária a nulidade de todos os atos subsequentes à sentença, em decorrência da ausência da publicação do nome do advogado.
+Contrarrazões apresentadas (e-STJ, fls. 524/538).
+O recurso especial foi admitido na origem.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, o recorrente alega que é devida a nulidade de todos os atos subsequentes à sentença, em decorrência da ausência de publicação do nome de seu advogado.
+Ao contrário do alegado, o Tribunal de origem fundamentou que:
+Em relação à primeira alegação de omissão e contradição, qual seja, de violação aos arts. 236, 245 e 248 do CPC/1973, entendo que não merece prosperar, tendo em vista que em nenhum momento o acordão embargado foi omisso ou contrário ao disposto na decisão de fls. 320/327. Isso porque, às fls. 320/327, apontei que restava configurada a nulidade da publicação da sentença, nos seguintes termos:
+Ademais, em relação à alegação do apelado, entendo que restou configurada a nulidade da publicação da sentença e, via de consequência, a nulidade da intimação do apelado, posto que não há indicação do causídico do apelado na publicação da sentença feita no Diário da Justiça Eletrônico n. 7.318, conforme se observa do documento de fl. 316.
+(.. ) Após, tendo em vista os fatos narrados pelo apelado, primando pelo princípio do contraditório e da ampla defesa, determino o retorno dos autos ao Juízo de origem para que se proceda à intimação da empresa RODRIGUES & RIBEIRO RESTAURANTES LTDA - ME (SÍTIO CASA GRANDE), no nome do causídico [NOME], [OAB], a fim de que esta, querendo, ofereça, no prazo legal, recurso de apelação, conforme inteligência dos art. 513 e seguintes do Código de Processo Civil. (grifos no original)
+Entretanto, no acórdão de fls. 394/402 apontei que da decisão que concedeu o duplo efeito não foi interposto o recurso cabível, qual seja, Agravo de Instrumento, de forma a atacar a aplicação do efeito suspensivo, não afastando ou contradizendo, portanto, a manifestação supramencionada de nulidade da publicação da sentença. Noutra linha, a petição de fls. 314/315 apenas apontou a nulidade da publicação da sentença, não refutando os efeitos em que a apelação da parte autora foi recebida, razão pela qual entendo que, quanto a esse ponto, não resta omisso ou contraditório o acórdão embargado. (e-STJ, fls. 493/494 - grifou-se)
+O Tribunal de origem asseverou que determinou a nulidade da publicação da sentença, determinando que fosse novamente intimada a parte agravante para a interposição do recurso de apelação.
+Consignou ainda que não foi impugnada a nulidade da sentença, e nem refutado o duplo efeito concedido à apelação.
+Logo, caberia à recorrente impugnar os fundamentos utilizados pelo Tribunal de origem, e não apenas alegar a necessidade de nulidade de todos os atos subsequentes à sentença, sem ter sequer manifestado no momento oportuno.
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, confira-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTO INATACADO. MULTA FIXADA EM CASO DE DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PRAZO LIMITE DA MULTA. INOVAÇÃO RECURSAL.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+2. A fixação das astreintes por descumprimento de decisão judicial baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 500,00 (quinhentos reais). Precedentes.
+3. A alegação de que não foi estipulado prazo limite da multa não comporta análise, porquanto referida matéria foi suscitada apenas nas razões do regimental, caracterizando inovação recursal.
+4. Agravo regimental não provido.
+(AgRg no AREsp 207.587/SP, Terceira Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 15/09/2014 - grifou-se)
+Por fim, observo, por oportuno, que o dissídio jurisprudencial não foi devidamente comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC, e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio.
+No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, não conheço o recurso especial.
+Intimem-se.
