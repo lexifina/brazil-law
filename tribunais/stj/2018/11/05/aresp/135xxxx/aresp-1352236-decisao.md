@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO SAFRA S/A contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Minas Gerais, assim ementado (e-STJ, fl. 1.023-1.024):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - REPARAÇÃO POR DANOS MATERIAIS E MORAIS - EMBARGOS DO DEVEDOR - EXECUÇÃO - EXTINÇÃO - PESSOA JURÍDICA - DESTINATÁRIA FINAL DO SERVIÇO - RELAÇÃO DE CONSUMO - INADIMPLEMENTO CONTRATUAL NÃO COMPROVADO - VENCIMENTO ANTECIPADO DA DÍVIDA INJUSTIFICADO - DESCONTOS INDEVIDOS EM CONTA CORRENTE - ATO ILÍCITO CONFIGURADO - REPETIÇÃO DE INDÉBITO DE FORMA SIMPLES - INSCRIÇÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO - REPARAÇÃO DEVIDA - QUANTUM INDENIZATÓRIO - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO CUMULATIVA NA EXECUÇÃO E NOS EMBARGOS DO DEVEDOR - POSSIBILIDADE - OBSERVÂNCIA DO LIMITE LEGAL - NECESSIDADE - CRITÉRIO DE FIXAÇÃO. 1. Aplica-se o Código de Defesa do Consumidor, ainda que se trate de pessoa jurídica a consumidora, desde que se sirva dos bens ou serviços prestados pelo fornecedor como destinatária final. 2. Cabe ao réu comprovar a existência de fatos impeditivos, modificativos ou extintivos do direito do autor referentes aos danos materiais sofridos. O inadimplemento contratual exige prova inconteste para o seu reconhecimento, não bastando mera alegação ou conjecturas. 3. A repetição em dobro pressupõe pagamento indevido e comprovada má-fé do credor. 4 - O marco inicial dos juros de mora é a partir da citação, quando se tratar de ilícito contratual. 5. Pode a pessoa jurídica sofrer dano moral, mas por ofensa a sua honra objetiva, ou seja, à sua reputação, seu bom nome no meio em que desenvolve as suas atividades ou presta serviços. 6. A inscrição indevida do nome/CNPJ do consumidor nos cadastros de proteção ao crédito, por si só, comprova o ato ilicito praticado pela instituição financeira a ensejar indenização por danos morais. Os danos morais nesta hipótese são presumidos, ou seja, "o dano moral, oriundo de inscrição ou manutenção indevida em cadastro de inadimplentes, prescinde de prova, configurando-se in re ipsa, visto que é presumido e decorre da própria ilicitude do fato". 7. O arbitramento da reparação por danos morais deve considerar circunstâncias fáticas e repercussão do ato ilícito, condições pessoais das partes, razoabilidade e proporcionalidade. 8. "Cabe a condenação do mesmo devedor ao pagamento de custas e honorários advocatícios distintos na execução e nos seus respectivos embargos, desde que respeitado o limite legalmente previsto". 9. Os honorários advocatícios de sucumbência arbitrados conforme diretrizes do art. 85, § 2º , do Código de Processo Civil, não comportam minoração.
+V.v. APELAÇÃO CÍVEL - REPETIÇÃO DE INDÉBITO - EM DOBRO OU SIMPLES - MATÉRIA AFETADA À SEGUNDA SEÇÃO DO STJ - SUSPENSÃO. Identificada matéria que será submetida à sistemática de recursos repetitivos perante instância superior, deve haver a suspensão do processo na instância ordinária.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1.068-1.076).
+Nas razões do especial (e-STJ, fls. 1.079-1.086), sustentou a parte recorrente violação ao art. 940 do Código Civil, insurgindo-se contra a condenação à repetição do indébito. Apontou ofensa ao art. 186 do Código Civil, asseverando que não restou comprovado a responsabilidade civil no presente caso e, ao final, pugnou pela redução do dano moral arbitrado (R$ 70.000,00).
+Oferecidas as contrarrazões às fls. 1.093-1.101 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial, em face da deserção.
+Contraminuta às fls. 1.139-1.141 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Nas razões do agravo em recurso especial, a parte recorrente alega a regularidade do preparo, na medida em que as custas foram recolhidas em dobro no dia 08/06/2018 em atenção à determinação da intimação publicada no dia 06/06/2018.
+Compulsando os autos, verifica-se que, de fato, houve o pagamento do preparo em dobro no prazo assinalado pela decisão de fls. 1.105-1.1006 (e-STJ), razão pela qual se afasta a deserção no presente caso.
+2. No mérito, a parte alega violação do art. 940 e 186 do Código Civil, insurgindo-se contra a condenação à repetição do indébito, bem assim, da indenização pelos danos morais.
+Observa-se que ambas as alegações são oriundas da configuração da responsabilidade civil da recorrente no presente caso.
+A partir da análise dos autos, observa-se que o Tribunal de origem reconheceu a responsabilidade civil da entidade bancária, ora agravante, diante dos seguintes fundamentos (e-STJ, fls. 1.046-1.047):
+Nesse contexto, o apelante não se desincumbiu do ônus probatório que lhe competia, a teor do inciso II, do art. 373, do Código de Processo Civil.
+Assim, a outra conclusão não se pode chegar a não ser a responsabilização do apelante que deve ser condenado a indenizar a apelada por danos materiais decorrentes dos descontos indevidos realizados na conta corrente da apelada em razão da arbitrária e ilegal liquidação antecipada do contrato, como fundamentado acima e na sentença recorrida.
+Mantém-se a sentença também nesse ponto
+Da repetição do indébito
+Apesar da aplicabilidade das disposições do Código de Defesa do Consumidor, entendo que a restituição deve ocorrer de forma simples, pois não restou configurada a hipótese descrita no ad. 42, Parágrafo único, do Código de Defesa do Consumidor.
+Por isso, não há que se falar em má-fé, que não se presume, na, cobrança a justificar a repetição do indébito em dobro. Desse modo, a apelada faz jus à restituição simples dos valores indevidamente descontados de sua conta corrente.
+A quantia a ser devolvida está sujeita a correção monetária a partir do pagamento indevido e juros de mora de 1% ao mês a partir da citação. (STJ, AgRg no Ag 390.688/MG, ReI. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 02/12/2010, DJe 15/12/2010).
+Merece reforma a sentença nesse ponto.
+Dano moral
+A apelante alega que "não havendo comprovação do dolo ou culpa, não há que se falar na ocorrência de ato ilícito, disposto no art. 186 do Código Civil.  ..  que a Apelada sequer demonstrou os danos e a extensão dos mesmos  ..  " (f. 859).
+(..)
+No caso dos autos, além dos descontos indevidos na conta corrente da apelada decorrentes do injustificado vencimento antecipado da dívida, houve a inscrição indevida do nome/CNPJ da apelada nos cadastros de proteção ao crédito (f. 613) que, por si só, comprova o ato ilícito praticado pela apelante a ensejar indenização por danos morais.
+Dessa forma, a Corte de origem concluiu pela responsabilidade civil da recorrente, condenando-a ao ressarcimento dos valores cobrados indevidamente, bem como ao pagamento de indenização pelo dano moral em razão da negativação do nome da recorrida em cadastro de inadimplentes, com base no acervo fático-probatórios dos autos, de modo que, para afastar tais fundamentos, revelar-se-ia necessário o reexame das provas juntadas aos autos, providência vedada na via eleita, por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERIDA.
+(..)
+2. Rever o entendimento da Corte a quo, a qual consignou que, diante da realidade fática apresentada nos autos, restou evidenciada a responsabilidade da agravante pelos danos sofridos pela agravada e a configuração de danos morais, demandaria necessário reexame do contexto fático-probatório, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 do STJ. Precedentes.
+3. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não autoriza sua modificação em sede de recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp 788.489/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ABUSO NO DIREITO DE COBRANÇA AO CONSUMIDOR. SÚMULA 7 DO STJ. VALOR DA INDENIZAÇÃO. SÚMULA 7 DO STJ.
+1. Rever o entendimento da Corte de origem, no tocante à existência de danos morais e ao valor da indenização, demandaria o revolvimento do acervo fático-probatório acostados aos autos, o que é vedado pela Súmula 07/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp 1684600/RO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 15/02/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. 1. DANO MORAL. COMPROVAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PAGAMENTO DO DÉBITO. CREDOR. OBRIGAÇÃO DE EXCLUSÃO DO REGISTRO DESABONADOR. 2. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 3. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL DOS JUROS DE MORA A PARTIR DA CITAÇÃO. SÚMULA N. 83 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. A alteração das conclusões do acórdão, quanto à configuração do dano moral, exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+(..)
+(AgInt no AREsp 1106098/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017)
+3. Por fim, no tocante ao pleito de redução do montante arbitrado a título de danos morais, observa-se que a recorrente deixou de indicar qual dispositivo legal foi violado pelo acórdão recorrido. Tal situação atrai o óbice disposto no enunciado 284 da Súmula do Excelso Pretório, segundo o qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ALEGAÇÃO GENÉRICA DE OFENSA À LEI FEDERAL. FALTA DE PARTICULARIZAÇÃO DOS DISPOSITIVOS LEGAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+AGRAVO IMPROVIDO.
+1. A falta de indicação do dispositivo legal supostamente violado e/ou de controvertida interpretação pretoriana configura deficiência recursal, por não permitir a exata compreensão da controvérsia, e não enseja a abertura da via especial, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1343974/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RAZÕES RECURSAIS DISSOCIADAS DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ARGUMENTAÇÃO RECURSAL NÃO ATRELADA A DISPOSITIVO SUPOSTAMENTE OFENDIDO. SÚMULA 284/STF. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. ENTENDIMENTO CONSOLIDADO NESTA CORTE SUPERIOR. AGRAVO DESPROVIDO.
+1. As razões do recurso especial se encontram dissociadas da prescrição contida na legislação federal tida por violada, o que revela deficiência de fundamentação.
+2. A jurisprudência desta Corte é pacífica no sentido de que a simples demonstração de inconformismo não é suficiente à abertura da instância especial, cabendo à parte atrelar a sua argumentação a dispositivo legal supostamente violado ou a divergência jurisprudencial, sem o que incide, por analogia, a Súmula 284 do STF. 3. Este STJ firmou o entendimento de que, nos contratos de participação financeira, quando convertida a obrigação de subscrever ações em perdas e danos, os juros de mora devem incidir a partir da citação.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1147009/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+ 4. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
