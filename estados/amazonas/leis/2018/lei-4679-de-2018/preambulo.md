@@ -1,0 +1,7 @@
+LEI N. 4.679, DE 5 DE NOVEMBRO DE 2018.
+
+INSTITUI o Estatuto da Pessoa com Câncer no Estado do Amazonas.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
