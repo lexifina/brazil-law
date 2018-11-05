@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - Preliminar de ilegitimidade passiva afastada. Mérito: determinada a manutenção do autor e sua agregada no plano de saúde nas mesmas condições da qual gozava durante a vigência de seu contrato de trabalho, mediante o pagamento integral do prêmio - Reconhecida , no caso, a aplicabilidade do artigo 30 da Lei nº 9.656/98, devendo o autor arcar com o valor integra l do prêmio Recursos não providos.
+Contra o referido acórdão, o ora recorrente opôs embargos de declaração, afirmando que a Corte de origem não examinou o questionamento acerca de sua ilegitimidade passiva, pois consta do contrato de prestação de serviços somente como rede credenciada da MEDISERVICE, verdadeira operadora do plano de saúde, motivo por que não pode ser condenada a manter o autor em contrato que não celebrou, à luz dos arts. 1º, § 2º, I, 30 e 31 da Lei n. 9.656/1998. Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação ao art. 535 do Código de Processo Civil.
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
