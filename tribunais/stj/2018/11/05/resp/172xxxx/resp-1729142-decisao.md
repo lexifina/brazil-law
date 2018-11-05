@@ -1,0 +1,38 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REVISÃO ANUAL DE REMUNERAÇÃO. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA. RECURSO ESPECIAL DA SERVIDORA A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por LEISA MARIA CREMONESE, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. REVISÃO ANUAL. ART. 37, INCISO X, DA CONSTITUIÇÃO FEDERAL. OMISSÃO LEGISLATIVA. PRETENSÃO INDENIZATÓRIA. IMPOSSIBILIDADE.
+1. Impossibilidade de aplicação dos índices inflacionários aos vencimentos de servidores públicos, sob o argumento de revisão geral de benefícios, com fundamento no art. 37, inciso X, da Constituição Federal.
+2. Inviabilidade de o Judiciário suprir omissão do Poder Executivo, cabendo somente a este a iniciativa para a elaboração da legislação específica a regulamentara matéria.
+3. Não pode a administração pública conceder direitos ou impor vedações de qualquer espécie sem a prévia edição de lei que assim defina os limites de sua atuação.
+4. Desacolhimento da pretensão indenizatória, ante a ausência dos requisitos necessários à configuração da responsabilidade civil.
+5. Matéria que encontra solução unânime pelos integrantes da Câmara.
+6. Ação julgada improcedente na origem.
+AGRAVO INTERNO JULGADO IMPROCEDENTE. INCIDÊNCIA DA MULTA DE 2% SOBRE O VALOR DA CAUSA, CONFORME ART. 1.021, § 4o., DO NCPC (fls. 122).
+2. Aos Embargos de Declaração opostos (fls. 134/141) foi negado provimento (fls. 142/149) por unanimidade.
+3. Nas razões de seu Apelo Nobre, a parte recorrente alega violação dos arts. 1.022, 1.021, § 4o. do Código Fux, aduzindo, em suma, ter sofrido dano patrimonial em razão do não encaminhamento de projeto de lei, pelo Executivo Estadual, destinado a viabilizar reajuste geral e anual dos vencimentos de Servidores Públicos Estaduais. Alega, por fim, que, a despeito da oposição dos Embargos de Declaração, o acórdão recorrido foi omisso quanto aos dispositivos violados.
+4. É o relatório.
+5. Cuida-se, na origem, de Ação Ordinária ajuizada em face do Estado do Rio Grande do Sul, na qual se pleiteia o direito à revisão anual de suas remunerações.
+6. Inicialmente, cumpre asseverar que não há a apontada contrariedade ao art. 1.022 do Código Fux, tendo em vista que a lide foi solvida nos limites necessários, com a devida fundamentação e coerência, ainda que sob ótica diversa da almejada pela parte agravante. O Tribunal de origem apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Ademais, julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. No mérito, o Tribunal de origem concluiu que:
+Ainda que tenha formulado pedido de indenização, pretende de fato a aplicação dos índices inflacionários aos seus vencimentos, constituindo-se pedido de revisão geral de benefícios, com fundamento no art. 37, inciso X, da Constituição Federal, que assim dispõe:
+(..).
+Por esta razão, não pode a administração pública conceder direitos ou impor vedações de qualquer espécie sem a prévia edição de lei que assim defina os limites de sua atuação.
+O artigo 37, inciso X, da Constituição Federal, portanto, constitui-se em norma constitucional que depende de regulamentação, observando-se o princípio da legalidade para sua aplicação.
+Destarte, não pode o Judiciário suprir omissão do Poder Executivo, cabendo somente a este a iniciativa para a elaboração da legislação específica a regulamentar a matéria.
+Além disso, é de competência exclusiva do Poder Executivo a iniciativa para propor leis de reajuste, na forma do art. 37, X, segundo o disposto no art. 61, § 1o., II, a, da CF/1988.
+Por tais razões, afasto a pretensão de revisão da remuneração pretendida (fls. 91/92).
+8. Da leitura dos excertos acima transcritos, observa-se que a Corte de origem concluiu pela improcedência do pedido formulado, com fundamento em dispositivos constitucionais, especialmente no art. 37 da CF/1988 e, não tendo a parte recorrente interposto o competente Recurso Extraordinário a fim de impugnar tal argumento, incide, na hipótese, o óbice da Súmula 126/STJ. A esse propósito:
+RECURSOS ESPECIAIS. PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL DA UNIÃO. ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL AUTÔNOMOS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. SERVIDORES PÚBLICOS. DOCENTES E AGENTES ADMINISTRATIVOS DE ESTABELECIMENTOS FEDERAIS DE 1o. E 2o. GRAUS DO EX-TERRITÓRIO DE RORAIMA. PLANO ÚNICO DE CLASSIFICAÇÃO E RETRIBUIÇÃO DE CARGOS E EMPREGOS. LEI 7.596/1987. DIREITO AO ENQUADRAMENTO. VOTO-VENCIDO DA RELATORA, PARA QUEM SOMENTE APÓS A EDIÇÃO DA LEI 8.270/1991 TERIAM SIDO INCLUÍDOS NO PLANO EM TELA. RECURSO ESPECIAL DO PATRONO DO SINDICATO AUTOR. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. MAJORAÇÃO.
+1. Verificando-se que o acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para mantê-lo, enquanto o recurso especial interposto pela União não abrangeu todos eles, aplica-se, na espécie, a Súmula 283/STF.
+2. Em havendo fundamentos constitucionais e infraconstitucionais autônomos no acórdão recorrido, é obrigatória a interposição também do recurso extraordinário, a teor da Súmula 126 desta Corte.
+3. Os ora substituídos, docentes e agentes administrativos de estabelecimentos de ensino de 1o. e 2o. graus do ex-Território de Roraima, eram servidores de estabelecimento federal vinculados ao Ministério da Educação, razão pela qual devem ser enquadrados no Plano Único de Classificação e Retribuição de Cargos desde a edição da Lei 7.596/1987. Voto-vencido da Relatora quanto ao ponto.
+4. O juiz não está obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, citando os dispositivos legais que esta entende pertinentes para a resolução da controvérsia. A negativa de prestação jurisprudencial se configura apenas quando o Tribunal deixa de se manifestar sobre ponto que seria indubitavelmente necessário ao deslinde do litígio.
+(..).
+5. Recurso especial da União não conhecido, por maioria, vencidos a Ministra Relatora e o Ministro Og Fernandes. Recurso especial do patrono do Sindicato autor provido em parte, para fixar os honorários advocatícios sucumbenciais em R$ 100.000,00 (cem mil reais), ressalvados os votos do Ministro Sebastião Reis Júnior e da Ministra Alderita Ramos de Oliveira pela fixação do percentual de 5% do valor da condenação (REsp. 1.134.689/PR, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 14.3.2014).
+
+PROCESSUAL CIVIL. ACÓRDÃO COM DUPLO FUNDAMENTO. RECURSO EXTRAORDINÁRIO INADMITIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO AO STF. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 126/STJ.
+1. Aplica-se, na hipótese, por analogia, a Súmula 126/STJ, pois os servidores não lograram impedir o trânsito em julgado da matéria constitucional com a interposição do agravo em recurso extraordinário ao STF em face da decisão do Tribunal de origem que inadmitiu o apelo extraordinário.
+2. Agravo regimental não provido (AgRg no AREsp. 216.327/BA, Rel. Min. ELIANA CALMON, DJe 26.6.2013).
+9. Diante do exposto, nega-se provimento ao Recurso Especial da Servidora.
+10. Publique-se. Intimações necessárias.
