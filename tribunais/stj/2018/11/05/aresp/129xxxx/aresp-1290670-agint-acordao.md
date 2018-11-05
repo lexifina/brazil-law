@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAGAMENTO INDEVIDO. ERRO DA ADMINISTRAÇÃO. RECEBIMENTO DE BOA-FÉ. DESCABIMENTO DA PRETENSÃO ADMINISTRATIVA DE RESTITUIÇÃO DOS VALORES. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. É firme a jurisprudência deste Tribunal Superior de descabimento da restituição de valores pagos a Servidor Público ou Pensionista de boa-fé, por conta de erro operacional da Administração Pública, em virtude do caráter alimentar da verba. Precedentes: AgInt no REsp. 1.742.684/PB, Rel. Min. REGINA HELENA COSTA, DJe 21.9.2018; REsp. 1.707.241/DF, Rel. Min. OG FERNANDES, DJe 18.9.2018.
+2. Agravo Interno da UNIÃO a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela UNIÃO, contra decisão proferida às fls. 309/314, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAGAMENTO INDEVIDO. ERRO DA ADMINISTRAÇÃO. RECEBIMENTO DE BOA-FÉ. DESCABIMENTO DA PRETENSÃO ADMINISTRATIVA DE RESTITUIÇÃO DOS VALORES. AGRAVO DO SERVIDOR CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+2. Argumenta-se que o Tribunal de origem reconheceu a inexistência de erro na interpretação da lei pela Administração Pública, tendo havido mero erro material, e o STJ possui jurisprudência quanto a possibilidade de revisão do ato inclusive com a restituição dos valores indevidamente pagos.
+3. Não houve impugnação.
+4. É o relatório.
+VOTO
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAGAMENTO INDEVIDO. ERRO DA ADMINISTRAÇÃO. RECEBIMENTO DE BOA-FÉ. DESCABIMENTO DA PRETENSÃO ADMINISTRATIVA DE RESTITUIÇÃO DOS VALORES. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. É firme a jurisprudência deste Tribunal Superior de impossibilidade de restituição de valores pagos a Servidor Público ou Pensionista de boa-fé, por conta de erro operacional da Administração Pública, em virtude do caráter alimentar da verba. Precedentes: AgInt no REsp. 1.742.684/PB, Rel. Min. REGINA HELENA COSTA, DJe 21.9.2018; REsp. 1.707.241/DF, Rel. Min. OG FERNANDES, DJe 18.9.2018.
+2. Agravo Interno da UNIÃO a que se nega provimento.
+1. Reanalisando a questão ora trazida para exame desta Corte Superior, tem-se que a parte Agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. Na hipótese dos autos a Corte de origem firmou entendimento quanto a possibilidade de desconto quando os valores são indevidamente pagos ao servidor em decorrência de mero erro operacional dos setores de pagamento.
+3. Entretanto, é firme a jurisprudência deste Tribunal Superior de impossibilidade de restituição de valores pagos a Servidor Público ou Pensionista de boa-fé, por conta de erro operacional da Administração Pública, em virtude do caráter alimentar da verba.
+4. O requisito estabelecido para a não devolução é a boa-fé do Servidor ou Pensionista que, ao receber os valores na aparência de serem corretos, firma compromissos. A escusabilidade do erro cometido pelo agente autoriza a atribuição de legitimidade ao recebimento da vantagem.
+5. Nesse sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INEXIGIBILIDADE DA DEVOLUÇÃO DE VALORES RECEBIDOS EM VIRTUDE DE ERRO ADMINISTRATIVO. VALORES PAGOS INDEVIDAMENTE POR ERRO OPERACIONAL DA ADMINISTRAÇÃO PÚBLICA. RECEBIMENTO DE BOA-FÉ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA NAS SÚMULAS 83 E 568/STJ (PRECEDENTE JULGADO SOB O REGIME DA REPERCUSSÃO GERAL, SOB O RITO DOS RECURSOS REPETITIVOS OU QUANDO HÁ JURISPRUDÊNCIA PACÍFICA SOBRE O TEMA). MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o. DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A orientação consolidada no REsp. 1.244.182/PB, julgado sob o rito do art. 543-C do CPC, no sentido de ser incabível a devolução de valores percebidos por servidor público ou pensionista de boa-fé, decorrente de interpretação equivocada ou má aplicação da lei, ou ainda por erro da Administração Pública, é extensível às hipóteses de falha operacional, desonerando, assim, o agente de boa-fé de restituir as importâncias recebidos em virtude do erro técnico.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4o. do Código de Processo Civil de 2015 em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+V - Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4o. do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral, sob o rito dos Recursos Repetitivos acerca do tema (Súmulas 83 e 568/STJ).
+VI - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa (AgInt no REsp. 1.742.684/PB, Rel. Min. REGINA HELENA COSTA, DJe 21.9.2018).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. SERVIDOR PÚBLICO. RECEBIMENTO DE VALORES INDEVIDOS. BOA-FÉ. REPETIÇÃO DO MONTANTE DESCONTADO A TÍTULO DE REPARAÇÃO AO ERÁRIO. POSSIBILIDADE.
+1. É deficiente a alegação genérica de violação do art. 1.022, I do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal local e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+2. Incabível a devolução de valores recebidos de boa-fé pelo servidor público se o pagamento resultou de erro da administração.
+3. "A determinação de restituição dos valores eventualmente já descontados é decorrência lógica do acatamento do pedido" (AgInt no AgInt no REsp. 1.321.804/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe 3.8.2017).
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido (REsp. 1.707.241/DF, Rel. Min. OG FERNANDES, DJe 18.9.2018).
+6. Ante o exposto, nega-se provimento ao Agravo Interno da UNIÃO. É como voto.
