@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra a decisão que não conheceu do presente habeas corpus, no qual se discute a ausência de intimação pessoal do defensor dativo para a sessão de julgamento do recurso de apelação.
+O agravante reitera a tese acerca da nulidade do acórdão do recurso de apelação, porquanto não intimado pessoalmente o defensor dativo para a sessão de julgamento.
+Requer a reconsideração da decisão ou o julgamento do recurso pelo órgão colegiado.
+É o relatório. Decido.
+Reconsidero a decisão agravada.
+Em análise dos autos, verifico que este habeas corpus não merece ser conhecido, pois substitutivo de recurso próprio. No entanto, há flagrante ofensa à liberdade de locomoção do agravante, capaz de justificar a concessão da ordem de ofício, conforme passo a expor.
+Conforme relatado, busca-se, no presente writ, a declaração da nulidade do acórdão que apreciou o recurso de apelação criminal sem prévia intimação da defensora dativa quanto a data da sessão de julgamento.
+Esta Corte Superior possui entendimento pacífico no sentido de que a ausência de intimação pessoal da Defensoria Pública ou do Defensor Dativo para a sessão de julgamento do recurso de apelação gera nulidade absoluta do ato por evidente cerceamento de defesa configurado pela falta de oportunidade de se realizar sustentação oral ou de acompanhar a manifestação dos julgadores.
+Neste sentido, trago à colação os seguintes julgados:
+HABEAS CORPUS. TRÁFICO DE DROGAS. DEFENSORIA PÚBLICA. FALTA DE INTIMAÇÃO PESSOAL ACERCA DA DATA DA SESSÃO DE JULGAMENTO DO RECURSO DE APELAÇÃO. CERCEAMENTO DE DEFESA CONFIGURADO. CONCESSÃO DA ORDEM.
+1. É pacífico neste Superior Tribunal de Justiça o entendimento de que a ausência de intimação pessoal da Defensoria Pública ou do defensor dativo sobre os atos do processo, a teor do disposto no artigo 370 do Código de Processo Penal e do artigo 5º, § 5º, da Lei 1.060/1950, gera, via de regra, a sua nulidade.
+2. No caso dos autos, consoante noticiado pela autoridade apontada como coatora, o órgão de assistência judiciária não foi intimado pessoalmente para a sessão de julgamento do recurso.
+3. Ordem concedida para anular o julgamento da Apelação n. 0050986-80.2015.8.26.0050, determinando-se que outro seja realizado com a prévia intimação pessoal a que faz jus a Defensoria Pública (HC 363.789/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/10/2016).
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA ACERCA DA SESSÃO DE JULGAMENTO DO RECURSO. NULIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Defensor Público, ou quem lhe faça as vezes, deve ser intimado pessoalmente de todos os atos do processo, sob pena de nulidade absoluta do ato, por violação ao princípio constitucional da ampla defesa.
+2. Evidencia-se o prejuízo suportado pela paciente, uma vez que, não intimada sua defesa acerca da inclusão, em pauta de julgamento, do recurso interposto, não foi possível realizar sustentação oral, tampouco acompanhar a manifestação dos julgadores que analisaram o recurso.
+3. Ordem não conhecida. Habeas corpus concedido, de ofício, nos termos do voto do Relator (HC 349.772/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 02/05/2016).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR PÚBLICO DA SESSÃO DE JULGAMENTO. NULIDADE. INOBSERVÂNCIA DE PRECEITO LEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A jurisprudência deste eg. Superior Tribunal de Justiça consolidou-se no sentido de que "a ausência de intimação pessoal da Defensoria Pública ou do defensor dativo sobre os atos do processo, a teor do disposto no artigo 370 do Código de Processo Penal e do artigo 5º, § 5º, da Lei 1.060/1950, gera, via de regra, a sua nulidade", uma vez que cerceado o direito de defesa da parte. (HC 288.517/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/5/2014).
+IV - No presente caso, extrai-se das informações prestadas pelo eg. Tribunal a quo, em conformidade com o parecer ministerial, que o defensor público não foi intimado pessoalmente acerca da sessão de julgamento do recurso de apelação, revelando, portanto, nulidade quanto à prerrogativa de intimação pessoal do defensor público.
+Habeas corpus não conhecido. Ordem concedida de ofício para anular a sessão de julgamento realizada no dia 10/3/2014 pela Primeira Câmara de Direito Criminal do eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal nº 0051231-62.2013.8.26.0050, para que se proceda a novo julgamento, após regular intimação pessoal do defensor público (HC 296.014/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/03/2015).
+Na hipótese dos autos, o Tribunal de origem, à fl. 35, informou que "Contra o édito condenatório a Defesa se insurgiu e, intimada a defensora dativa da pauta da sessão de julgamento do reclamo por publicação disponibilizada no Diário da Justiça Eletrônico em 24 de agosto de 2016".
+Nesse contexto, constatada a ausência de intimação pessoal, resta configurado o cerceamento de defesa, se fazendo necessária a anulação do acórdão recorrido.
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para declarar a nulidade do acórdão proferido nos autos da Apelação n. 0015808-80.2009.8.26.0438, a fim de que seja novamente julgada mediante prévia intimação pessoal da defensora dativa ou da Defensoria Pública da data de sessão de julgamento do recurso.
+Publique-se. Intime-se.
