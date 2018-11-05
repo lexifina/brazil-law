@@ -1,0 +1,21 @@
+DECISÃO
+MARCOS AURELIO DAY MEDEIROS alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Agravo em Execução n. 0010801-03.2018.8.24.0033.
+A defesa alega que houve desrespeito à Súmula Vinculante n. 56 do STF, uma vez que ao apenado foi indeferido o pedido de prisão domiciliar, pelo Juízo das execuções.
+Requer, assim, seja
+Decido.
+Sobre a temática aqui suscitada, em sessão de julgamento realizada no dia 11/5/2016, o Supremo Tribunal Federal, ao reconhecer a repercussão geral nos autos do RE n. 641.320/RS, de relatoria do Ministro Gilmar Mendes, reafirmou que a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso.
+Tal compreensão resultou consolidada na Súmula Vinculante n. 56 do Supremo Tribunal Federal, in verbis: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS".
+É imperioso destacar que não é bastante a concessão de benesses relativas ao regime imposto ao sentenciado, consoante o entendimento do Pretório Excelso, "não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado".
+Todavia, na hipótese, o Juízo de primeiro grau consignou que "permanecem sendo observados os direitos inerentes ao regime semiaberto, tal qual oportunidade de trabalho interno, estudos, remição por leitura (Portaria n. 02/2013, deste juízo) e saídas temporárias, desde que preenchidos os requisitos pertinentes no caso concreto" (fls. 68-69, destaquei).
+O Tribunal a quo, ao negar provimento ao gravo defensivo, salientou que,
+ ..
+Tais decisões, todavia, não só contrariam a Lei de Execuções Penais e as finalidades da pena (retributiva, preventiva e reeducativa), como também não solucionam o problema resultante da omissão do Poder Executivo, gerando, inclusive, um risco coletivo de segurança pública.
+No caso em tela, não há uma efetiva comprovação de que o fundamento da dignidade da pessoa humana (art. 1º, inciso III, da Constituição Federal) tenha sofrido qualquer violação, até porque não há comprovação nos autos de que outro direito, além da liberdade, que é legalmente restrita, esteja sendo transgredido.
+Isso porque não se observa nos autos que o Agravante esteja sofrendo qualquer constrangimento no que tange ao cumprimento de sua pena, principalmente quanto ao regime inicial, eis que, apesar de não se encontrar recolhido em um estabelecimento prisional adequado ao regime semiaberto (Colônia Penal), como preconiza a legislação pertinente à execução penal, obtém os direitos inerentes àquele regime (semiaberto), sendo, então, cumpridos e preservados.
+ ..
+Dessa forma, não há dúvidas de que o local garante as particularidades inerentes ao regime semiaberto, não se mostrando prudente a concessão de prisão domiciliar, medida que deve ser adotada em última instância.
+Além disso, não se vislumbra nos autos, qualquer tentativa por parte do magistrado de diligenciar junto ao DEAP para a transferência do detento a outro estabelecimento prisional, ou seja, não houve o esgotamento da via administrativa antes de proferir a decisão sobre a prisão domiciliar, a qual deveria ser a última alternativa (fls. 127-128, grifei).
+Dessa forma, depreende-se da leitura do excerto acima colacionado que os presos que cumprem pena em regime semiaberto permanecem encarcerados em ala separada no Complexo Penitenciário do Vale do Itajaí, sendo a eles oportunizados também os benefícios de trabalho externo e saídas temporárias, o que está consonância com o entendimento do Supremo Tribunal Federal acerca da matéria, conforme demonstrado alhures.
+Assim, para se infirmar a interpretação apresentada pela instância ordinária e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
