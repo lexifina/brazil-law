@@ -1,0 +1,14 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. CONTRIBUIÇÕES SOCIAIS. RECEITAS DE EXPORTAÇÃO. TRADING COMPANIES. REPERCUSSÃO GERAL RECONHECIDA PELO STF. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+DECISÃO
+Trata-se de agravo interno interposto em face da decisão que negou seguimento ao Recurso Especial, assim ementada (e-STJ fl. 998):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/1973. FERIADO LOCAL. POSSIBILIDADE DE POSTERIOR COMPROVAÇÃO. PRECEDENTES. JUÍZO DE RETRATAÇÃO DA DECISÃO AGRAVADA. RECURSO ESPECIAL. IMUNIDADE SOBRE AS RECEITAS DECORRENTES DE EXPORTAÇÃO PREVISTA NO ART. 149, § 2º, DA CF/88. MATÉRIA DECIDIDA SOB O PRISMA CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+Em suas razões, a agravante alega violação ao art. 535 do CPC/1973; ao artigo 1º, parágrafo único, alínea "a", do Decreto-lei nº 1.248/72 e ao artigo 97, incisos I e III, do Código Tributário Nacional, além de divergência jurisprudencial. Pugna, em síntese, pelo reconhecimento de imunidade tributária sobre as receitas de exportação de produtos rurais.
+Sem impugnação.
+É o relatório. Decido.
+Com efeito, reconsidero a decisão agravada e-STJ fls. 998-1.000, tornando-a sem efeito, e passo a nova analise do processo.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A questão tratada nos autos - aplicabilidade da imunidade referente às Contribuições sociais sobre as receitas decorrentes de exportação intermediada por empresas comerciais exportadoras ("trading companies") - teve sua repercussão geral admitida pelo Supremo Tribunal Federal nos autos do RE 759.244/SP.
+Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos do art. 543-B do CPC/1973 (art. 1.036 do CPC/2015), justifica o sobrestamento, pela instância ordinária, dos recursos especiais, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF. Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Ante o exposto, determino a devolução dos autos ao Tribunal a quo para que o exame do recurso especial ocorra somente após o pronunciamento definitivo do STF em sede de repercussão geral.
+Publique-se. Intimem-se.
