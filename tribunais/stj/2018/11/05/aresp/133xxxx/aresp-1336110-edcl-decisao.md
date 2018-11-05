@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão monocrática da lavra do Ministro Lázaro Guimarães, Desembargador Convocado, que conheceu do agravo para não conhecer do recurso especial da parte, ora embargante, diante da aplicação do óbice da Súmula 284/STF ao caso.
+No presente recurso, a embargante alega que o julgado embargado foi omisso ao deixar de analisar as teses expostas nas razões do recurso especial referentes às seguintes questões: a) deserção do recurso de apelação interposto pela parte, ora embargada; b) "a ação de imissão de posse é de natureza petitória e pode ser fundamentada em título apto a gerar direito à posse" (fl. 553)
+Requer "o recebimento do presente Embargo Declaratório, acolhendo-o para sanar a omissão existente, conhecendo do Recurso Especial, para os devidos fins de declarar deserto o recurso de Apelação no Tribunal de origem ou, alternativamente, para declarar que o registro do imóvel no álbum imobiliário não é exigência para fins de propositura de ação de imissão de posse". (fls. 554, e-STJ).
+Impugnação apresentada às fls. 557/559.
+É o relatório. Passo a decidir.
+Os embargos de declaração (CPC/2015, art. 1.022) têm como escopo a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão emprestada a determinada questão, sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, se observa que as questões de mérito debatidas nas razões do recurso especial não foram sequer conhecidas por esta instância, tendo em vista que o recurso não ultrapassou a barreira do conhecimento por esbarrar no óbice da Súmula 284/STF, conforme se insere do seguinte trecho a seguir transcrito;
+"Impossível conhecer do especial interposto com fundamento na alínea "c" do artigo 105, III, da Constituição Federal, porquanto, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes (..)" (Fl. 545)
+Nesse contexto, não há que se falar em omissão da decisão embargada por ausência de análise das questões de mérito debatidas nas razões do recurso especial.
+Estando ausentes os pressupostos legais de cabimento dos embargos de declaração, o mero inconformismo com a decisão embargada, na busca de se rediscutir o mérito do julgado, não autoriza a oposição de embargos de declaração.
+A este respeito, colhem-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. HIPÓTESE DE CABIMENTO. OMISSÃO. TESES DE MÉRITO. ACÓRDÃO DE NÃO CONHECIMENTO DO RECURSO. DESCABIMENTO. PRETENSÃO DE REJULGAMENTO DA CAUSA. VIA IMPUGNATIVA INADEQUADA.
+1. Os embargos de declaração não são a via adequada para a rediscussão da causa, tal pretensão revelando-se, de modo inequívoco, quando a parte aponta omissão relativa a questão do mérito do recurso especial cujo conhecimento, todavia, não ultrapassou o óbice da Súmula 182/STJ.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 742.567/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/12/2016, DJe 14/12/2016)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO. OMISSÃO INEXISTENTE. RECURSO REJEITADO.
+1. Não padece de omissão, tampouco dos demais vícios elencados no art. 1022 do Novo Código de Processo Civil, o acórdão que mantém o indeferimento liminar dos embargos de divergência tendo em vista o não cabimento desse recurso contra decisão unipessoal.
+2. Não se verifica omissão no acórdão no tocante ao exame da questão de fundo discutida nos autos, na medida em que o recurso não ultrapassou o juízo de conhecimento.
+3. Embargos de declaração rejeitados."
+(EDcl no AgRg nos EAREsp 875.904/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 04/10/2016, grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. HIPÓTESE DE CABIMENTO. OMISSÃO. TESE RELACIONADA AO MÉRITO DA CONTROVÉRSIA. JULGADO EMBARGADO FUNDADO EM ÓBICES DE ADMISSIBILIDADE RECURSAL. INEXISTÊNCIA DO VÍCIO. PRETENSÃO DE REJULGAMENTO DA CAUSA. REITERAÇÃO DA TESE. SEGUNDOS EMBARGOS DE DECLARAÇÃO. CONFIGURAÇÃO DO CARÁTER PROTELATÓRIO. COMINAÇÃO DE MULTA PROCESSUAL.
+1. Os embargos de declaração não são a via adequada para a rediscussão da causa, tal pretensão revelando-se de modo inequívoco quando a parte reitera a mesma omissão aduzida em anteriores aclaratórios relativamente a questão do mérito do recurso especial cujo conhecimento, todavia, não ultrapassou o óbice das Súmulas 282, 356 e 284 do Supremo Tribunal Federal.
+2. A reiteração em segundos embargos de declaração dessa mesma ordem de alegações, além de caracterizar o uso inapropriado dos aclaratórios com a finalidade de obter o rejulgamento da causa, também configura o manejo com intuito protelatório a ensejar a respectiva reprimenda processual.
+3. Embargos de declaração rejeitados, com aplicação de multa de dois por cento sobre o valor atualizado da causa."
+(EDcl nos EDcl no AgRg no REsp 1579413/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/06/2016, DJe 16/06/2016, grifou-se)
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se.
