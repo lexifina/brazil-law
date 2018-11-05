@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS NO ESTADO DE PERNAMBUCO - SINDSEP/PE, em 07/02/2011, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"ADMINISTRATIVO. GSISTE. GRATIFICAÇÃO TEMPORÁRIA DOS ÓRGÃOS CENTRAIS. LEI Nº 11.356/2006. CONCESSÃO EM QUANTITATIVO LIMITADO POR LEI. POSSIBILIDADE. ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO.
+1. A teor do disposto no §1º, do art. 15, da Lei nº 11.356/2006, a concessão da GSISTE deverá observar o quantitativo máximo de gratificações estabelecidas no Anexo VII do referido diploma legal, independentemente do número de servidores em exercício em cada unidade gestora.
+2. Obedecidos os requisitos previstos no caput do art. 15, isto é, o efetivo exercício nas unidades gestoras centrais, a Administração goza de ampla discricionariedade para deferir a referida gratificação, até a quantitativo limite previsto na Lei, não se tratando, pois, de vantagem de caráter geral e extensiva ao conjunto de servidores.
+3. As gratificações não são liberalidades da Administração, mas vantagens pecuniárias concedidas por recíproco interesse do serviço e do servidor. A concessão de vantagens pecuniárias só pode ser feita por lei, sendo que todas as leis concessivas de privilégios ou mesmo de vantagens são de interpretação restrita.
+4. Apelação improvida" (fl. 254e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DO SINDSEP/PE. OMISSÃO/CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO: DA MATÉRIA. NÃO CABIMENTO. EMBARGOS DO PARTICULAR. NÃO CONHECIMENTO.
+1. Embargos de declaração opostos por [NOME] não conhecidos, tendo em vista que a atuação do SINDSEP/PE, no presente feito, refere-se à substituição processual, e não representação, razão pela qual o único autor da demanda é o próprio sindicato, a quem compete representar os servidores nesta demanda..
+2. A mera rediscussão da matéria não é cabível através da via recursal eleita vez que para tal finalidade existem remédios processuais específicos. Caso em que não se configurou nenhum dos requisitos exigidos para o cabimento dos presentes embargos, pretendendo o SINDSEP/PE, ora embargante, apenas rediscutir os fundamentos da decisão impugnada, utilizando-se dos declaratórios para defender tese já rejeitada, na vã expectativa de obter pronunciamento que lhe seja mais favorável.
+3. Embargos do particular não conhecidos. Embargos do Sindicato rejeitados" (fl. 331e).
+Nas razões do Recurso Especial, a parte recorrente aponta violação aos arts. 458, II, e 535, II, do CPC/73 e ao art. 50, I e §1º, da Lei 9.784/99. Para tanto, alega o seguinte:
+"Este recurso especial ampara-se no art. 105, III, "a", da Constituição Federal, pois o v. acórdão contrariou os artigos 458, II, e 535, II, do Código de Processo Civil, na medida em que não aplicou as normas deles oriundas que mandam os juízos fundamentarem suas decisões e suprimirem as omissões apontadas em embargos declaratórios desde que tenham sido previamente questionadas, como é o caso dos autos.
+Afinal, o v. acórdão que negou provimento a apelação deixou de apreciar diversos fundamentos do requerimento de reforma veiculados nesse recurso e, a despeito da oposição regular de embargos declaratórios para suprir tais omissões, o juízo conheceu dos aclaratórios opostos, mas lhes negou provimento, violando, assim, as normas do art. 535, caput, e inciso II do CPC.
+Além dessas normas, contrariou as normas do art. 50, I, §1º, da Lei n. 9.784, de 1999, pois a recorrida tratou desigualmente iguais. Com efeito, todos os substituídos são lotados no Núcleo de Pernambuco da Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão, mas, sem fundamentação alguma (daí a violação a essas normas), concedeu a Gratificação Temporária das Unidades Gestoras dos Sistemas Estruturadores da Administração Pública Federal GSISTE, instituída pela Lei n. 11.356, de 2006, a uns e não a outros" (fl. 338e).
+Requer, ao final, o conhecimento e provimento do recurso.
+Contrarrazões a fls. 379/401e.
+A insurgência não merece amparo.
+Na origem, trata-se de ação proposta em desfavor da UNIÃO pelo Recorrente, visando à concessão da Gratificação Temporária das Unidades Gestoras dos Sistemas Estruturadores da Administração Pública Federal - GSISTE aos substituídos ou à apresentação dos critérios de concessão da gratificação.
+O Juízo de 1º Grau julgou improcedente a ação (fls. 213/215e).
+O Tribunal de origem negou provimento ao apelo do Autor.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa aos arts. 535, II, e 458, II, do CPC/73, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL NÃO CONFIGURADO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. APLICAÇÃO DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITO DE ADMISSIBILIDADE NÃO PREENCHIDO. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL. SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+1. "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp 1031163/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017)
+2. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula 284/STF.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.198.768/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 05/03/2018).
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 50, I e §1º, da Lei 9.784/99, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
