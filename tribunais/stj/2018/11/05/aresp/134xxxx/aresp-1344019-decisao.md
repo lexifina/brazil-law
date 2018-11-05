@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 489 do CPC/2015 e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 809/816).
+O acórdão do TJRS está assim ementado (e-STJ fl. 734):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. ALEGAÇÃO DE NULIDADE DOS TÍTULOS QUE EMBASAM O FEITO EXECUTIVO QUE SE FUNDAMENTA EM REQUISITOS FORMAIS, NÃO SENDO NECESSÁRIA A PRODUÇÃO DE PROVA PERICIAL.
+REQUISITOS PREVISTOS NA LEI n. 5.474/1978, ART. 2º, § 1º EVIDENCIADOS. AUSÊNCIA DE APONTAMENTO DA DATA DO ACEITE OU A ASSINATURA EM CAMPO NÃO IDENTIFICADO COMO DO "EMITENTE DO TÍTULO" QUE NÃO INVALIDA OS TÍTULOS EXECUTIVOS. EXISTÊNCIA DE ACEITE. DESNECESSIDADE DE COMPROVAÇÃO DA ENTREGA DAS MERCADORIAS.
+AÇÃO CONEXA EM QUE RESTOU RECONHECIDA A INOCORRÊNCIA DE INFRINGÊNCIA CONTRATUAL POR PARTE DA EXEQUENTE.
+ARGUIÇÃO DE EXCESSO DE GARANTIA. AVALIAÇÃO DOS IMÓVEIS PELO DEVEDOR QUE NÃO POSSUI O CONDÃO DE AFASTAR SEGURANÇA POR ELES VOLUNTARIAMENTE OFERTADA AO CREDOR OU IMPEDIR QUE LHES SEJA EXIGIDO O PAGAMENTO DA DÍVIDA.
+PRETENSÃO REVISIONAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. ÔNUS DE DEMONSTRAÇÃO DO DEVEDOR. APLICABILIDADE DO DISPOSTO NO ART. 917, § 3º DO CPC DE 2015. REJEIÇÃO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+À UNANIMIDADE, REJEITARAM A PRELIMINAR E NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 757/761).
+Nas razões do recurso especial (e-STJ fls. 764/790), interposto com base no art. 105, III, "a", da CF, os recorrentes aduziram violação:
+(a) dos arts. 489, II, § 1º, IV, e 1.022, II, do CPC/2015, afirmando negativa de prestação jurisdicional, visto que a Corte local, apesar dos aclaratórios, não teria se manifestado sobre as teses de: (i) nulidade processual por cerceamento de defesa, ante a falta de oportunidade de provar que as rubricas nas duplicatas não corresponderiam à firma das pessoas autorizadas a emitir títulos representando a empresa, segundo exigência do art. 2º, § 1º, IX, da Lei n. 5.474/1978 (e-STJ fl. 773), e (ii) aplicabilidade dos arts. 887 e 889 do CC/2002, porque o título de crédito somente produziria efeito quando preenchidos os requisitos legais, de modo que, sem assinatura, a cártula seria inválida, ensejando a nulidade da execução, segundo art. 618, I, do CPC/1973,
+(b) do art. 369 do CPC/2015, alegando nulidade processual por cerceamento de defesa, pois, com o julgamento antecipado da lide, não teriam tido a oportunidade de provar, nos embargos à execução, a ausência dos requisitos legais das duplicatas exigidas (e-STJ fls. 771 e 778/779),
+(c) do art. 2º, § 1º, IX, da Lei n. 5.474/1978, porque a duplicata com mera rubrica, mas sem o requisito essencial de assinatura do emitente ou de pessoa autorizada a representar a empresa, seria inválida, não podendo ser executada (e-STJ fls. 776 e 779), e
+(d) dos arts. 887 e 889 do CC/2002, visto que as duplicatas sem assinatura do emitente não preencheriam os requisitos legais para serem consideradas títulos de crédito extrajudicial, não podendo ser executadas, conforme art. 618, I, do CPC/1973, mas tão somente exigidas em ação ordinária de cobrança (e-STJ fls. 777/779).
+Foram apresentadas contrarrazões (e-STJ fls. 797/806).
+No agravo (e-STJ fls. 818/837), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foram ofertadas contraminutas (e-STJ fls. 841/847 e 849/855).
+É o relatório.
+Decido.
+Não assiste razão aos recorrentes quanto à alegada negativa de prestação jurisdicional por afronta ao art. 489, § 1º, do CPC/2015, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte não configura nenhum dos vícios do art. 489, § 1º, IV, do CPC/2015, tampouco hipótese de cabimento dos aclaratórios (CPC/2015, art. 1.022).
+O TJRS afastou a tese de cerceamento de defesa, assentando que a matéria em discussão não exigia prova pericial, nos seguintes termos (e-STJ fl. 739):
+Inicialmente tenho que merece rejeição a preliminar de cerceamento de defesa, tendo em vista que a presente ação não demanda dilação probatória, uma vez que a alegação de nulidade dos títulos que embasam o feito executivo fundamenta-se em requisitos formais, não sendo necessária a produção de prova pericial como sustentam os recorrentes.
+Rever tais conclusões, a fim de reconhecer o cerceamento de defesa alegado pelos recorrentes, demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. APONTADA VIOLAÇÃO AO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA E NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. No caso dos autos, verifica-se que o col. Tribunal de origem, mediante análise soberana do contexto fático-probatório dos autos, foi categórico ao afirmar que os elementos probatórios contidos nos autos seriam suficientes para aferir os cálculos, sem necessidade de produção de prova pericial. Dessa forma, a alteração de tal entendimento, como ora pretendida, encontra óbice na Súmula 7/STJ, tendo em vista a imprescindibilidade do revolvimento do material fático-probatório dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 316.507/PE, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/4/2017, DJe 11/5/2017.)
+A Corte de origem fixou, a partir do art. 2º, § 1º, da Lei n. 5.474/1978, que as duplicatas eram títulos hígidos para embasar a execução, entendendo que a falta de apontamento da data de aceite ou de assinatura no campo de emitente do título não lhes retirava a validade, tendo em vista a rubrica nelas aposta por um dos recorrentes e o reconhecimento dos recorrentes quanto à extensa negociação entre as partes e a existência de saldo devedor, conforme se infere do excerto abaixo (e-STJ fls. 739/740):
+Assim, a ausência de apontamento da data do aceite ou a assinatura em campo não identificado como do "emitente do título" não invalida os títulos executivos, mostrando-se suficiente no presente caso a rubrica posta no lado esquerdo de todas as duplicatas em que se funda a execução (fls. 80/106).
+Merece destaque o fato de que no presente caso os autores/embargantes reconhecem a extensa contratação entabulada entre as partes, bem como a existência de saldo devedor em aberto, o que, aliado à presença de assinatura do autor/embargante [NOME] nas duplicatas de fls. 80/106 - aceite - evidencia a higidez dos títulos, mostrando-se desnecessária a comprovação da entrega das mercadorias.
+Dissentir das conclusões da Corte local quanto à higidez das duplicatas, a fim de reconhecer a nulidade da execução, ensejaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A Corte local não se manifestou quanto às teses fundadas na alegação de afronta aos arts. 887 e 889 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pelos benefícios da gratuidade da justiça (e-STJ fl. 680), ressalva-se a aplicação do art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
