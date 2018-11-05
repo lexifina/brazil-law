@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CONTRATO DE LOCAÇÃO. FIANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. RESPONSABILIDADE SOLIDÁRIA. PREVISÃO CONTRATUAL. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DISSÍDIO PRETORIANO. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outra contra decisão do Tribunal de Justiça de São Paulo que não admitiu o processamento do recurso especial.
+Na origem, Brasilmac - Administração de Bens Próprios e Empreendimentos Imobiliários Ltda. ajuizou ação de reparação de danos em prédio urbano, cumulada com lucros cessantes, em desfavor dos ora agravantes, tendo em vista contrato de locação firmado com terceiro em que os réus figuram como fiadores, ao argumento de que os requeridos não cumpriram o referido contrato, uma vez que abandonaram o imóvel sem a realização dos reparos necessários.
+O Juízo de primeiro grau julgou parcialmente procedente os pedidos e condenou, solidariamente, os réus ao pagamento de R$ 30.000,00 (trinta mil reais).
+No recurso de apelação interposto pelos agravantes, o Tribunal de origem decidiu dar parcial provimento à insurgência tão somente para reconhecer a sucumbência recíproca em acórdão assim ementado (e-STJ, fl. 980):
+Apelação Cível. Locação. Ação de reparação de danos em prédio urbano, cumulada com lucros cessantes. Procedência parcial da ação. Apelo dos réus, fiadores.
+Propriedade do imóvel locado transferida na vigência do contrato. Desnecessidade de anuência dos fiadores com tal transferência. Preliminar de ilegitimidade ativa afastada. A pessoa jurídica administradora de bens próprios não precisa de registro junto ao CRECI.
+Responsabilidade dos fiadores até efetiva entrega das chaves. Se o fiador não se exonerou da fiança, continua responsável pelos débitos da locação até a entrega das chaves. Inaplicabilidade da súmula nº 214 do STJ. Responsabilidade do fiador que persiste até o término da relação locatícia.
+Prova dos autos no sentido de que o imóvel locado foi abandonado e encontrado em estado de depredação. Responsabilidade solidária dos fiadores e da locatária, pela reparação dos danos verificados no imóvel.
+Autora que decaiu de parte do pedido. Sucumbência recíproca, em proporções assemelhadas.
+Apelação parcialmente provida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, os recorrentes alegaram, além de divergência jurisprudencial, violação aos arts. 489, § 1º, incisos seguintes, e 1.022 do CPC; 114, 819 do Código Civil; 40 da Lei n. 8.245/1991; e 23 do Estatuto da OAB.
+Sustentaram, em suma, negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão impugnada, em especial quanto aos seguintes pontos: a) o auto de vistoria indicado no acórdão recorrido não foi assinado pelos recorrentes; b) o imóvel objeto do contrato de locação nunca foi de propriedade da ora recorrida; c) a contradição em aplicar jurisprudência mais moderna em relação às obrigações do fiador e, posteriormente, em relação à distribuição de honorários advocatícios, prestigiar entendimento superado; d) ausência de provas dos danos materiais experimentados pela recorrida.
+Aduziram, ainda, que a fiança deve ser interpretada restritivamente, razão pela qual não podem ser responsáveis por obrigação à qual não anuíram.
+Apontaram ausência do nexo de causalidade entre a entrega do imóvel e a constatação dos danos materiais, uma vez que os referidos danos ocorreram somente após o fim do contrato de locação.
+A Corte de origem deixou de admitir o recurso especial pelos seguintes fundamentos: a) ausência de violação dos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pelos recorrentes foram analisadas, e a decisão encontra-se fundamentada; b) aplicação da Súmula 7/STJ; e c) o ausência de similitude entre os acórdãos recorrido e paradigma.
+Sem contrarrazões (e-STJ, fl. 1.090).
+Irresignados, argumentam os agravantes que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Sem contraminuta (e-STJ, fl. 1.123).
+Brevemente relatado, decido.
+No que se refere à violação do art. 1.022 do CPC/2015, verifico não estar configurada a alegada omissão no julgado proferido na origem, pois o Tribunal de Justiça manifestou-se acerca de todas as questões presentes no recurso de apelação, conforme se extrai dos seguintes trechos do acórdão recorrido (e-STJ, fls. 1.005-1.006, sem grifos no original):
+A questão a respeito da existência, ou não, de auto de vistoria assinado pelos ora embargantes foi apreciada e decidida em sede de agravo de instrumento, por acórdão já transitado em julgado.
+Assim, essa e outras questões decididas naquele recurso não foram conhecidas no julgamento da apelação, pela ocorrência da preclusão, não se vislumbrando a alegada omissão na fundamentação do julgado nesse aspecto.
+Quanto à titularidade do imóvel locado, nenhuma obscuridade há no acórdão embargado.
+A questão foi claramente apreciada e decidida no sentido de que: "É irrelevante, para os fins do contrato de locação, que a venda do imóvel tenha ou não se efetivado, como alegaram os réus, porque não é necessário que o locador seja proprietário do imóvel para a formalização do contrato de locação".
+O fato de considerar que se trata de locação e administração de imóvel próprio, para o que não há necessidade de inscrição no CRECI, não elide a conclusão acima, de que basta que o locador seja o possuidor do imóvel para que contrate a locação.
+Não é contraditório o julgado ao aplicar o art. 39 da Lei de Locações, cuja redação foi modificada pela Lei 12.112/09, enquanto o contrato foi celebrado em 2003.
+Isso porque, mesmo antes dessa alteração legal, quando o art. 39 da Lei de Locações não previa expressamente que qualquer das garantias se estenderia até a devolução do imóvel, ainda que prorrogada a locação por prazo indeterminado, o contrato celebrado entre as partes previu, expressamente, que por vontade das partes ou por prorrogação prevista em lei, ao final do contrato, continuariam em vigor todas as suas cláusulas; até final e efetiva desocupação mediante entrega das chaves e a quitação por escrito do locador ou da administradora da locação (cláusula 15  f. 15).
+A reforma da sentença no tocante à distribuição das verbas da sucumbência, que reconheceu a sucumbência recíproca em partes assemelhadas e determinou a compensação da verba honorária, obedeceu a regra da época da prolação da sentença, quando não era vedada a compensação, admitida, ademais, pelo E. STJ (Súmula 306).
+Nesse quadro, não há contradição no julgado ao aplicar lei nova ou lei já revogada.
+Finalmente, nenhuma alegação se verifica no recurso de apelação a respeito da prova do desembolso do valor de R$ 30.000,00, não havendo, por consequência, omissão no julgado a esse respeito.
+Ademais, embora os embargos de declaração tenham sido rejeitados, a Corte a quo, guardando observância ao princípio da motivação obrigatória das decisões judiciais, examinou, de forma clara e fundamentada, todos os pontos relevantes à solução da controvérsia, em especial quanto à existência de auto de vistoria e à titularidade do imóvel. Outrossim, pronunciou-se a Corte de origem quanto à alegada contradição no julgado ao aplicar lei nova ou lei revogada.
+Portanto, não há que falar em negativa de prestação jurisdicional, mas, ao contrário, em inconformidade da parte com a decisão contrária aos seus interesses.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REEXAME DE CONTRATO E PROVAS. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA.
+1. Não há que se falar em negativa de prestação jurisdicional ou ofensa aos arts. 515 e 535 do CPC se o tribunal se pronuncia sobre as questões postas a debate de modo suficiente.
+2. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelos enunciados nº 5 e 7 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AgRg no Ag 823.016/RS, Quarta Turma, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 22/3/2016)
+Além disso, verifica-se que o acórdão recorrido foi devidamente fundamentado, não se constatando violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Acerca da responsabilidade dos fiadores, o Tribunal de origem reconheceu a validade da fiança, com base na interpretação de cláusulas contratuais e na análise dos elementos fáticos dos autos, em relação ao contrato locatício originalmente celebrado, e também concluiu que houve deterioração do imóvel locado, persistindo a responsabilidade solidária dos recorrentes pelas obrigações contratuais convencionadas, conforme se verifica dos seguintes trechos (e-STJ, fls. 985-987):
+(..)
+Sem razão os réus ao sustentarem que a locadora pretendeu atribuir interpretação extensiva à fiança prestada.
+Independentemente de não ter havido a prorrogação do contrato por escrito, não se pode olvidar que, findo o prazo certo ajustado para a vigência da locação, sem oposição do locador, é presumida sua prorrogação, que decorre de lei, não de aditamento, e tal prorrogação não modifica as obrigações previstas no contrato (art. 46, §1 9 , da Lei de Locações).
+Portanto, permanece o fiador solidariamente responsável pelas dívidas oriundas do contrato originalmente celebrado.
+No presente caso, tal responsabilidade ainda foi prevista contratualmente (cláusula 20  f. 16)
+(..)
+Não houve, no presente caso, a entrega formal das chaves do imóvel à locadora quando de sua desocupação pela locatária, mas, segundo a certidão do Oficial de Justiça, data de 29/09/2006, o imóvel foi encontrado em estado de abandono, cheio de lixo em seu interior, com as portas dos fundos arrombadas e com os banheiros e parte elétrica depredados (f. 31).
+Assim, ainda que não tenha a própria locatária depredado o imóvel, ela assumiu o risco de que isso ocorresse quando abandonou o imóvel à própria sorte, respondendo os fiadores solidariamente com a locatária pelas obrigações assumidas contratualmente.
+O período entre a retomada do imóvel e a elaboração do laudo de vistoria, que, aliás, não é tão grande, não afasta o direito da locadora de ser ressarcida dos danos verificados no imóvel.
+Nesse contexto, para afastar as afirmações contidas no acórdão atacado, seria necessário a interpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice nas Súmulas 5 e 7 desta Corte.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. MANUTENÇÃO INDEVIDA DE GRAVAME. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL.
+INEXISTÊNCIA DE SIMILITUDE.
+1. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n 794.875/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 3/12/2015, DJe 10/12/2015)
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
