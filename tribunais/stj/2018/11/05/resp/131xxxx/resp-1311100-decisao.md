@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COMISSÃO DE VALORES MOBILIÁRIOS - CVM contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE FISCALIZAÇÃO DO MERCADO DE VALORES MOBILIÁRIOS. EXECUTADA QUE PERCEBEU BENEFÍCIOS FISCAIS APENAS ANTES DA EDIÇÃO DA LEI Nº 7.940/89. AUSÊNCIA DE SUPORTE FÁTICO PARA INCIDÊNCIA DA EXAÇÃO.
+1. A taxa de fiscalização da Comissão de Valores Mobiliários tem por fato gerador o exercício do poder de polícia atribuído à própria CVM, nos termos da Lei nº 7.940/89.
+2. O art. 3º da Lei nº 7.940/89 estabelece que: "são contribuintes da Taxa (..) as sociedades beneficiárias de recursos oriundos de incentivos fiscais obrigadas a registro na Comissão de Valores Mobiliários - CVM".
+3. É ilegítima cobrança da Taxa de Fiscalização no caso dos autos, tendo em vista que a previsão contida na Lei nº 7.940/89, somente pode incidir para pessoas jurídicas que perceberam benefícios fiscais após a edição da referida norma, pois lei tributária que institui obrigação não pode retroagir para alcançar fatos anteriores à sua vigência.
+4. A empresa executada colacionou documentos que comprovam que foi beneficiária de incentivos fiscais apenas nos anos de 1971 a 1980, anteriormente, portanto, ao advento da Lei nº 7.940/89, que instituiu a taxa questionada.
+5. Não há suporte fático autorizador da incidência da norma, pois não ocorreu lícito exercício do poder de polícia, já que a executada não se enquadrava dentre os contribuintes da exação. Entender de modo contrário importaria indevida retroatividade da lei, contrária às diretrizes constitucionais que regulam o poder de tributar.
+6. Remessa oficial e apelação não providas.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 20, §§ 3º e 4º, e 535 do CPC/1973 e do art. 3º da Lei n. 7.940/1989, em que pretende a redução da verba honorária de sucumbência e em que sustenta, em síntese, que (e-STJ fl. 261):
+como visto acima, a ora recorrida é, à toda evidência, uma sociedade beneficiária de incentivos fiscais, não importando que o aporte de tais recursos tenha ocorrido há dez, vinte ou trinta anos. Com a capitalização procedida com recursos de incentivos fiscais, adquiriu a empresa recorrida a qualidade de "sociedade beneficiária de incentivos fiscais" para todos os efeitos da legislação, inclusive para ser considerada como sujeito passivo da taxa de fiscalização, nos moldes do art. 3º. da Lei n.º 7.940/89.
+Com efeito, a empresa recorrida, na qualidade de sociedade beneficiária de incentivos fiscais, é contribuinte e sujeito passivo, expresso, da taxa de fiscalização, nos termos do art. 3º da Lei nº 7.940/1989, a seguir transcrito, estando, portanto, sob a égide da atividade de poder de polícia administrativa da Comissão de Valores Mobiliários:
+Contrarrazões foram apresentadas pela FAZENDAS REUNIDAS LÓCIO S.A. - FARELO, nas quais pede o desprovimento do recurso (e-STJ fls. 274/292).
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor (fls. 216/223):
+A empresa executada colacionou aos autos documentos que comprovam que foi beneficiária de incentivos fiscais apenas nos anos de 1971 a 1980, anteriormente, portanto, ao advento da Lei nº 7.940/89, que instituiu a taxa questionada.
+Conforme Certidão emitida pela Junta Comercial do Estado de Pernambuco - JUCEPE, a data do último ato de arquivamento de qualquer ato mercantil por parte da empresa executada se deu em 29.07.1980. A referida Certidão atesta ainda que "a Sociedade Fazenda Reunidas Lócio S/A - Farelo - foi cancelada em 01.10.2005 de acordo com a Lei Federal nº 8.934/94, pelo fato de há mais de 10 (dez) anos não ter procedido a nenhum arquivamento de qualquer ato mercantil perante este Órgão".
+Acostou, ainda, Ofício expedido pelo Ministério da Integração Nacional, comunicando-lhe a ocorrência da caducidade do direito aos incentivos que lhe foram deferidos, dando conta de que a empresa executada foi excluída do Sistema de Incentivos administrato pelo Finor, conforme Portaria nº 83, de 30.04.76 e Ordem de Serviço nº 055, de 29.10.76.
+Com base na Lei acima transcrita, são contribuintes da Taxa de Fiscalização as sociedades beneficiárias de recursos oriundos de incentivos fiscais obrigadas a registro na Comissão de Valores Mobiliários - CVM.
+Assim, entende-se que só é contribuinte a empresa que conjugar os dois requisitos: a) ser beneficiária de recursos oriundos de benefícios fiscais; e b) ser obrigada a se registrar na CVM.
+No caso, percebo que a empresa não perfaz o primeiro requisito.
+Isto porque a empresa não percebeu benefícios fiscais após a edição da Lei nº 7.940/89, conforme documentação trazida aos autos, razão pela qual não vislumbro sua condição de contribuinte da referida taxa.
+Desta feita, impõe-se a manutenção do entendimento perfilhado pela sentença recorrida, segundo o qual não há "suporte fático autorizador da incidência da norma, pois não ocorreu lícito exercício do poder de polícia, já que a executada não se enquadrava dentre os contribuintes do imposto. Entender de modo contrário importaria indevida retroatividade da lei, contrária às diretrizes constitucionais que regulam o poder de tributar".
+Por ocasião da rejeição dos aclaratórios, consignou o TRF:
+Também não há que se falar em omissão quanto à condenação em honorários advocatícios, haja vista que o acórdão, ao manter a sentença em sua totalidade, o fez também no diz respeito aos acessórios. Ademais, a verba fixada em 10% (dez por cento) sobre o valor da causa, que equivale a aproximadamente R$ 6.446,06 (seis mil, quatrocentos e quarenta e seis reais e seis centavos), afigura-se razoável e proporcional, devendo ser mantida.
+Como relatado, os embargos de declaração foram rejeitados sem acréscimo.
+Da tese de violação do art. 535 do CPC/1973
+Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso, em que o órgão judicial externou, expressamente, não ser a autora beneficiária de incentivos ficais.
+Da tese de violação do art. do art. 3º da Lei n. 7.940/1989
+O conhecimento do recurso encontra óbice na Súmula 83 do STJ, pois pacífico o entendimento jurisprudencial deste Tribunal, segundo o qual a fiscalização da Comissão de Valores Mobiliários deve-se dar sobre as sociedades beneficiárias de incentivos fiscais, de tal sorte que, exauridos os efeitos do incentivo, não há falar em permanência da necessidade de registro e, por conseguinte, do pagamento da taxa de fiscalização. Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. TAXA DE FISCALIZAÇÃO DE VALORES MOBILIÁRIOS. NÃO INCIDÊNCIA. EMPRESA NÃO CARACTERIZADA COMO COMPANHIA INCENTIVADA NO PERÍODO. COBRANÇA INDEVIDA. APLICAÇÃO DA SÚMULA N. 83/STJ.
+ ..
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual o que autoriza a cobrança da taxa de fiscalização ora discutida não é a aplicação retroativa da legislação instituidora do tributo, mas sim o exercício, pela CVM, da atividade fiscalizadora da atividade das denominadas companhias incentivadas.
+IV - No caso, o tribunal de origem concluiu ser indevida a cobrança, porquanto referente a períodos em que a empresa não possuía mais as características de companhia incentivada.
+V -  O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+VI - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1536198/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/08/2016, DJe 02/09/2016)
+TRIBUTÁRIO. PROCESSUAL CIVIL. CVM. TAXA DE FISCALIZAÇÃO DO MERCADO DE VALORES MOBILIÁRIOS. INCIDÊNCIA. BENEFÍCIOS FISCAIS. CONCESSÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência do STJ, incidirá a Taxa de Fiscalização do Mercado de Valores Mobiliários enquanto perdurar os efeitos do benefício fiscal. Precedentes: REsp 993.452/SC, Rel.
+Ministra DENISE ARRUDA, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/12/2010, DJe 02/02/2011; AgRg no REsp 1504350/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/02/2016, DJe 12/02/2016.
+2. No caso, a Corte de origem registrou que os incentivos fiscais foram recebidos, em ato isolado, no ano de 1980. Assim, para se alcançar conclusão diversa, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1141276/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/03/2016, DJe 28/03/2016)
+Cumpre esclarecer, com o fim de evitar recurso protelatório, que essa controvérsia não se confunde com a aplicação retroativa da Lei n. 7.940/1989 (v.g.: EREsp 993.452/SC, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 25/11/2015, DJe 09/12/2015).
+Da tese de violação do art. 20, § 4º, do CPC/1973
+Esta Corte admite a reapreciação dos honorários advocatícios só quando arbitrados em valor irrisório ou exorbitante, pois, nesses casos, a violação da norma processual exsurge de maneira flagrante, a justificar a intervenção deste Tribunal como meio de preservar a aplicação da lei federal de regência.
+A respeito, confira-se: AgRg nos EDcl no Ag 1.409.571/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Corte Especial, DJe 06/05/2013.
+Não é, pois, o simples cotejo entre os valores discutidos nos autos e a verba honorária a providência suficiente à conclusão da irrisoriedade ou exorbitância, mormente porque, "no juízo de eqüidade, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, § 3º, alíneas "a", "b" e "c", do CPC, podendo adotar como base de cálculo o valor da causa, o valor da condenação ou arbitrar valor fixo" (REsp 934.074/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 18/09/2008).
+Nesse sentido: REsp 1.556.254/SP, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 03/08/2016.
+No caso dos autos, considerado o delineamento fático realizado nas instâncias ordinárias, não há como se considerar exorbitante a verba honorário de 10% do valor da causa, razão pela qual o recurso, na parte, encontra óbice na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Publique-se.
+Intimem-se.
