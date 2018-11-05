@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"INEXISTÊNCIA DE DÉBITO C.C. DANOS MORAIS E MATERIAIS pretensão do autor fundada na não contratação de cartão de crédito e na falta de autorização para a "Reserva de Margem Consignável" requerido que comprovou a contratação do cartão, bem como a previsão contratual de desconto do "pagamento mínimo" no benefício previdenciário inexistência de conduta ilícita do requerido - demanda improcedente recurso improvido" (fl. 145 - e-STJ).
+O recorrente alega violação dos artigos 37, 42, 51 e 52 do Código de Defesa do Consumidor e 157 do Código Civil ao fundamento de que "jamais buscou a contratação do cartão de crédito consignado, o que aconteceu apenas pela violação do dever de informação do consumidor, com veiculação de propaganda enganosa, sendo imposta uma obrigação com juros equivalentes ao dobro da operação comum" (e-STJ - fl. 160).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O Tribunal de origem manteve a sentença de primeiro grau com base na seguinte fundamentação:
+""Com efeito, o autor assinou Termo de Adesão de Crédito Consignado Banco BMG e também Autorização para Desconto em Folha de Pagamento. De igual modo, logrou a ré colacionar aos autos documentos pessoais que foram apresentados pelo autor no ato da contratação. Cabe ressaltar, ainda, que em sede de Réplica o autor não negou a subscrição do referido contrato, limitando-se a requerer a produção de prova testemunhal, com a oitiva das partes, prova esta que seria inapta a infirmar a ocorrência da contratação Posto isso, certo é que a Lei nº 13.172/2015 permitiu liberação de 5% da margem consignável para uso exclusivo de cartão de crédito, sendo, portanto, lícita a contratação para emissão de cartão em havendo margem consignável. E o crédito foi efetivamente liberado diretamente na conta corrente do autor, como demonstra o documento de fl. 84.
+Quanto ao mais, o documento de fl. 81 informa os descontos das parcelas do empréstimo consignado, com débitos mensais que são relativos aos pagamentos mínimos do cartão de crédito impugnado.
+Portanto, resta patente a licitude e a efetiva existência de relação jurídica entre as partes, não havendo que se falar em cobrança ilícita e tampouco na indenização respectiva.".
+8. Acresce que não vinga a justificativa do autor no sentido de que não sabia o que estava contratando, uma vez que o instrumento de fls. 73/74 está intitulado de "TERMO DE ADESÃO DE CRÉDITO CONSIGNADO BANCO BMG E AUTORIZAÇÃO PARA DESCONTO EM FOLHA DE PAGAMENTO", o que por si só já revela o tipo de produto que está sendo contratado e a forma de pagamento adotada.
+9. Por fim, a cláusula contratual prevendo o desconto direto do pagamento mínimo no benefício do autor (fls. 74, item VIII) não caracteriza venda casada, uma vez que a obtenção do cartão de crédito não foi condicionada à contratação de nenhuma outra operação financeira, nem à aquisição de produto ou serviço diverso. Trata-se apenas de ajuste quanto à forma de pagamento, o que, repita-se, não configura venda casada" (e-STJ fls. 147/149).
+Assim, a alteração de tais conclusões exigiria o reexame de provas, inviável na estreita via do recurso especial (Súmula nº 7/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa (R$ 30.000,00 - fl. 10) e aumentados pelo Tribunal estadual para 15% (quinze por cento), os quais devem ser majorados para 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
