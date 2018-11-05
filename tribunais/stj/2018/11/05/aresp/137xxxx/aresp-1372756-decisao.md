@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE SUSPEIÇÃO. SUSPEIÇÃO DO MAGISTRADO NÃO CONFIGURADA. INEXISTÊNCIA DE TRATAMENTO DESIGUAL ENTRE AS PARTES. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] desafiando decisão do Tribunal de Justiça do Paraná que não admitiu o processamento do recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 5.015):
+EXCEÇÃO DE IMPEDIMENTO/SUSPEIÇÃO CONTRA MAGISTRADO. AÇÃO DE INDENIZAÇÃO. ALEGAÇÃO DE QUE UMA DAS PARTES DA AÇÃO ORIGINÁRIA ESTARIA TRABALHANDO NO ESCRITÓRIO DE ADVOCACIA DO IRMÃO DO EXCEPTO. CONTEÚDO PROBATÓRIO QUE DEMONSTRA QUE REFERIDA PARTE DEIXOU O ESCRITÓRIO ANTES MESMO DO AJUIZAMENTO DA AÇÃO, PASSANDO A TRABALHAR NUMA EMPRESA INCORPORADORA DE IMÓVEIS. AMIZADES DE FAMILIARES DO EXCEPTO QUE NÃO COMPROMETEM A ATUAÇÃO DO PRÓPRIO MAGISTRADO. AUSÊNCIA DE QUALQUER UMA DAS HIPÓTESES PREVISTAS NOS ARTIGOS 144 E 145 DO NCPC. ROL TAXATIVO. EXCEÇÃO QUE DEVE SER REJEITADA E ARQUIVADA, CONFORME DETERMINA O §4º DO ARTIGO 146 DO NCPC.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 5.047-5.054).
+Nas razões do recurso especial, o recorrente alegou ofensa aos arts. 7º, 10, 11, 144, III, VIII, e § 3º, 145, I, e IV, 369, 370, 371, 374, I, IV, e 375 do CPC/2015. Sustentou que na hipótese dos autos é clara a configuração de suspeição e/ou impedimento do magistrado. Aduziu, ainda, que o "Tribunal a quo não podia, em absoluto, rejeitar a exceção, em benefício do interessado e do juiz excepto, sem considerar as contundentes provas, que possuem, inclusive, fé pública, para fazer valer uma prova relativa encartada nos autos pela parte interessada, que clamou pela permanência do juiz excepto" (e-STJ, fl. 5.086). Defende, assim, a existência de tratamento desigual entre as partes.
+Sem contrarrazões (e-STJ, fl. 5.096).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta apresentada às fls. 5.126-5.132 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, o Tribunal de origem, ao dirimir a controvérsia, afastou a alegação de supeição/impedimento, bem como rechaçou qualquer tratamento desigual entre as partes litigantes, salientando ter havido minuciosa análise de todo o conteúdo probatório dos autos.
+A propósito, confiram-se os fundamentos do Colegiado estadual (e-STJ, fls. 5.020-5.022, sem grifo no original):
+O excipiente sustenta que o impedimento e a suspeição devem ser reconhecidos devido ao fato que uma das partes da ação originária, o autor [NOME], ser sócio do escritório de advocacia do irmão do excepto, além de que a família de ambos ter relação de amizade íntima.
+Sem razão.
+Do conteúdo probatório denota-se que nenhuma das hipóteses, tanto de impedimento quanto de suspeição, está configurada.
+O rol do texto legal é taxativo.
+O conteúdo probatório demonstra que as alegações do excipiente não retratam fielmente a realidade. O interessado [NOME] comprovou que deixou o escritório de advocacia do irmão do magistrado em 18 de outubro de 2010 (fl. 22-TJ), tendo firmado contrato de prestação de serviços com a empresa Bascol Brasil - Incorporação Imobiliária Ltda em 20/10/2010 (fls. 27/33-TJ), o qual foi rescindido em 30/12/2011 (fls. 35/36 - Ti), devido ao fato de que [NOME] foi contratado corno gerente regional da mencionada empresa (fls. 38/39-TJ e 44-TJ).
+Necessário destacar que o interessado deixou o escritório de advocacia do irmão do excepto em 18/10/2010, enquanto a ação originária que fundamenta a exceção foi ajuizada em 06/07/2012 (mov. 1.1), ou seja, quando a ação de indenização foi ajuizada o interessado [NOME] já trabalhava em outro local.
+Muito embora o excipiente (fl. 22-Tj) afirme que o recibo de honorários advocatícios juntado pelo interessado não pode ser levado em conta ante a ausência de reconhecimento público das assinaturas, tais alegações devem ser rejeitadas, já que não há exigência legal disso, além do que inexiste qualquer indício de que [NOME] esteja agindo de má-fé.
+A suposta amizade entre a família do excepto e a família [NOME] não foi devidamente demonstrada a ponto de configurar a sua suspeição ou impedimento, tendo em vista que o interessado apenas juntou printscreen"s da rede social Facebook onde comprovam que alguns familiares pertencem à mesma rede de amigos.
+O simples fato de que o pai e uma tia do excepto serem amigos em uma rede social de familiares de uma das partes da ação originária não constitui motivo de impedimento ou suspeição, sendo certo que não cabe ao Magistrado ordenar quais de seus parentes podem ou não manter relação de amizade virtual.
+Como as amizades virtuais de sua família são alheias à sua função perante o Poder Judiciário, inexiste motivo para que a imparcialidade do excepto seja questionada, até porque não foi produzida qualquer prova que demonstrasse a relação de amizade do próprio Magistrado com qualquer das partes.
+Não restou comprovada qualquer hipótese dos artigos 144 e 145 do NCPC, razão pela qual a presente exceção de suspeição deve ser rejeitada.
+Colhem-se, ainda, os seguintes excertos do acórdão recorrido, complementados pelos embargos de declaração (e-STJ, fls. 5.049-5.050):
+Não há que se falar, também, em tratamento desigual às partes, uma vez que o julgamento colegiado somente ocorreu após minuciosa análise de todo o conteúdo probatório.
+É incontroverso que foram juntadas cópias de publicações no Diário Oficial do Paraná em nome do irmão do excepto e de [NOME], entretanto, diante de todas as provas produzidas, conclui-se que [NOME] deixou o escritório de advocacia em 18/10/2010, posto que começou a trabalhar com a empresa Bascol Brasil - Incorporação Imobiliária Ltda.
+Referido vínculo, inclusive, é comprovado através dos documentos juntados aos autos (fls. 24/48-TJ) e de notícias veiculadas e disponíveis na internet.
+Dessa maneira, diante de todo o conteúdo probatório produzido, o qual é suficiente para o julgamento do feito, é possível a conclusão de que as publicações realizadas em nome de [NOME] foram realizadas erroneamente.
+Registre-se, também, que o simples fato de [NOME] ainda possuir cadastro ativo na OAB não autoriza a conclusão de que ainda trabalha com o irmão do excepto, posto que o conteúdo probatório evidencia o contrário.
+Ademais, é imperioso salientar que o rol dos artigos 144 e 145 é taxativo, e como nenhuma das hipóteses foi demonstrada, não há que se falar em impedimento ou suspeição do Magistrado.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
