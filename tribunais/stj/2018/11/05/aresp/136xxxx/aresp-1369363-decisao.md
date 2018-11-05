@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL, contra inadmissão de recurso especial. O apelo extremo está lastreado no art. 105, inc. III, alíneas "a" e "c", da Constituição Federal e ataca acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO AGRÍCOLA. PROAGRO. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. SENTENÇA DE PROCEDÊNCIA. RECURSO DO BANCO DO BRASIL. CONHECIMENTO PARCIAL DO RECLAMO. INÉPCIA RECURSAL. EXEGESE -;
+DO ARTIGO 514, II, DO CÓDIGO DE PROCESSO CIVIL/1973. PEDIDO DE AFASTAMENTO DA OBRIGAÇÃO EM RAZÃO DE EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. ALEGAÇÃO GENÉRICA. NÃO ARTICULADO QUAL A OBRIGAÇÃO NÃO TERIA SIDO SATISFEITA; PELO AUTOR AO TEMPO E MODO CONTRATADO. PRESSUPOSTOS FÁTICOS DO PEDIDO DE REFORMA DA SENTENÇA NÃO DECLINADOS. RECLAMO NÃO CONHECIDO NO ASPECTO. ILEGITIMIDADE PASSIVA AD CAUSAM. INSUBSISTÊNCIA. PARTICIPAÇÃO EFETIVA DO BANCO DO BRASIL NA ADMINISTRAÇÃO NA FASE DE LIQUIDAÇÃO DO SINISTRO. RECURSO DA SEGURADORA REQUERIDA. PRELIMINAR DE CARÊNCIA DA AÇÃO POR AUSÊNCIA DE PEDIDO ADMINISTRATIVO PRÉVIO. INSUBSISTÊNCIA. DEMONSTRAÇÃO DOCUMENTAL, INEQUÍVOCA DA ARTICULAÇÃO DO PEDIDO ADMINISTRATIVO DE PAGAMENTO PELO AGRICULTOR SEGURADO. PREFACIAL DE RECONHECIMENTO DA PRESCRIÇÃO. INSUBSISTÊNCIA. SUPERVENIÊNCIA DE ATO EXTRAJUDICIAL DE RECONHECIMENTO PARCIAL DO DIREITO A INDENIZAÇÃO APÓS O AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO INTERROMPIDA NA FORMA DO ARTIGO 202, VI, DO CÓDIGO CIVIL. QUANTUM INDENIZATÓRIO. ALEGAÇÃO DE INEXISTÊNCIA DE PROVA DA EXTENSÃO DOS PREJUÍZOS AFASTADA. VERBA FIXADA EM SENTENÇA, NA PROPORÇÃO DA QUEBRA DA SAFRA AFERIDA EM LAUDO PERICIAL PRODUZIDO EM PROCESSO, ADMINISTRATIVO DE LIQUIDAÇÃO DO SINISTRO. INSUBSISTÊNCIA DA IMPUGNAÇÃO GENÉRICA DE SEU VALOR PROBATÓRIO. CLÁUSULA BENEFICIÁRIA. PEDIDO DE AUTORIZAÇÃO DE PAGAMENTO PREFERENCIAL DO SALDO DEVEDOR DO FINANCIAMENTO AGRÍCOLA AO AGENTE FINANCEIRO. SUBSISTÊNCIA. EXPRESSA PREVISÃO CONTRATUAL E LEGAL (ARTIGO 58, DA Lei nº N. 8.171/1991). SENTENÇA REFORMADA NO PONTO. RECURSO DO BANCO PARCIALMENTE CONHECIDO, NA EXTENSÃO, DESPROVIDO. RECURSO DA SEGURADORA CONHECIDO E PARCIALMENTE PROVIDO" (e-STJ fls. 240-241).
+No recurso especial, a recorrente alegou, além de dissídio jurisprudencial, violação dos arts. 487 e 1.022 do Código de Processo Civil de 2015 e 206 do Código Civil.
+Sustentou, preliminarmente, a nulidade do acórdão por negativa de prestação jurisdicional ao argumento de que os julgadores de origem não sanaram a contradição entre a comunicação do consumidor ao Banco do Brasil e o não reconhecimento da prescrição.
+No mérito, insistiu que o documento eleito como comunicação do sinistro é relativo a contrato no qual não é parte, circunstância reconhecida na origem, sendo imprestável para afastar a prescrição da pretensão contra ela formulada. Aduziu, ainda, que o caso deve ser resolvido à luz do entendimento consolidado na Súmula nº 101/STJ.
+Com fulcro nos argumentos expostos, pleiteou a cassação ou a reforma do acórdão.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Preliminarmente, importante consignar que o acórdão impugnado pelo recurso especial inadmitido foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSO CIVIL. AGRAVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO.
+1. O artigo 535 do Código de Processo Civil dispõe sobre omissões, obscuridades ou contradições existentes nos julgados. Trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que se verifica a existência dos vícios na lei indicados.
+2. Afasta-se a violação do art. 535 do CPC quando o decisório está claro e suficientemente fundamentado, decidindo integralmente a controvérsia.
+(..)
+4. Agravo regimental desprovido" (AgRg no Ag 1.176.665/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe 19/5/2011).
+Por relevante, registre-se a conclusão dos magistrados de segunda instância quanto ao tema indicado como omisso (efetiva comunicação do sinistro e suspensão do prazo prescricional):
+"(..)
+In casu, diante das afirmações do autor, e não impugnadas pelo Banco, tem-se que, aos olhos do consumidor, o demandado atuava de forma e coordenada com a seguradora (consabidamente pertencente ao mesmo grupo econômico).
+(..)
+Resta demonstrado pelos documentos amealhados aos autos pelo 492 o autor e pelo Banco do Brasil que foi contratado seguro para cobertura de plantio cri de lavoura cujo prazo de colheita restou previsto para o período de setembro/2012 a agosto/2013. Nesse sentido, a quebra da safra só poderia ser verificada após o término do do prazo de colheita (a partir de setembro/2013). OL Consta da documentação apresentada pelo Banco do Brasil, outrossim, ter o autor formulado pedido administrativo de cobertura securitária, em 23/12/2013 (fl. 72), momento a partir do qual a prescrição restou suspensa, ro nos termos da Súmula 229/STJ.
+In casu, consta expressamente do documento juntado pelo autor à fl. 45 ter ele obtido ciência da negativa de cobertura em 08/08/2014, constante em despacho final da área técnica do Banco do Brasil, datado de 25/06/2014 (fls. 72/73).
+Nesse sentido, observado o lapso temporal transcorrido entre o prazo final de colheita e o pedido administrativo, bem como da ciência da negativa e do protocolo da ação, operada restaria a prescrição ânua.
+Ocorre que, solicitada pelo autor reconsideração da decisão denegatória na esfera do sistema do Seguro Proagro, sobreveio decisão administrativa datada de 16/07/2015 garantindo-se cobertura parcial do sinistro (fl. 74).
+Deste modo, operado ato inequívoco de reconhecimento do débito, houve a interrupção do prazo prescricional, nos termos do artigo 202, do Código Civil.
+(..)
+Assim, efetivado o reconhecimento parcial da higidez do crédito postulado na lide, remanesce incólume o interesse processual para a solicitação da complementação da indenização securitária.
+Portanto, não há falar em prescrição" (e-STJ fls. 250-254).
+Como visto, os julgadores de origem afastaram a prescrição com base no reconhecimento de atuação conjunta da recorrente e do Banco do Brasil (grupo econômico), e na interrupção da prescrição por força do reconhecimento do débito - pagamento parcial da indenização. Entretanto, tais fundamentos não foram objeto de impugnação nas razões recursais, circunstâncias que, ao persistirem incólumes, atraem a incidência da Súmula nº 283/STF.
+Ademais, ainda que superado o referido óbice, não seria possível acolher a tese da recorrente, pois estando expresso que o consumidor cumpriu a sua obrigação de comunicar o sinistro ao Banco do Brasil, fornecedor que, aos seus olhos, aparentava ser o responsável pela comercialização dos seguros, seria o caso de aplicação da teoria da aparência.
+Confira-se:
+"RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. INDENIZAÇÃO SECURITÁRIA E DANOS MORAIS. PRIMEIRA DEMANDA PROPOSTA CONTRA A ESTIPULANTE. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO POR ILEGITIMIDADE PASSIVA. SEGUNDA DEMANDA INTENTADA CONTRA A SEGURADORA. INTERRUPÇÃO DA PRESCRIÇÃO COM A CITAÇÃO VÁLIDA OCORRIDA NA PRIMEIRA AÇÃO. PECULIARIDADES DO CASO CONCRETO. APLICAÇÃO DA TEORIA DA APARÊNCIA. POSSIBILIDADE. ESTIPULANTE QUE AGE COMO SE FOSSE A SEGURADORA. RECURSO PROVIDO.
+1. Na hipótese, é justificável a aplicação da teoria da aparência, pois o consumidor, com base em engano plenamente justificável pelas circunstâncias do caso concreto, acreditava que a estipulante, em verdade, era a própria seguradora.
+2. Estipulante que age como se fosse a própria seguradora, realizando a contratação, prestando todas as informações referentes ao contrato de seguro, recebendo a documentação do sinistro e comunicando sobre o indeferimento da indenização securitária.
+(..)
+5. Recurso especial provido" (REsp 1402101/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 11/12/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intime-se.
