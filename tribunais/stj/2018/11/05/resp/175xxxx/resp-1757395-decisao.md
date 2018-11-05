@@ -1,0 +1,20 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. PROCESSO PENAL. APELAÇÃO. EFEITO DEVOLUTIVO RESTRITO À SUA FUNDAMENTAÇÃO. LIMITE FIXADO PELO TERMO DE INTERPOSIÇÃO DO RECURSO. APLICAÇÃO DA SÚMULA 713 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+Recurso especial improvido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], representada pela Defensoria Pública do Espírito Santo, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça local, proferido na Apelação Criminal n. 0011783-61.2017.8.08.0012, assim ementado (fl. 757):
+APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO - TRÁFICO DE DROGAS - PRELIMINAR DE INCOMPETÊNCIA PARA ANÁLISE DE CRIME DE TRÁFICO DE DROGAS PELO TRIBUNAL DO JÚRI - REJEITADA - CRIMES CONEXOS - PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO DEFENSIVO POR INOBSERVÂNCIA À SÚMULA 713 DO STF - PRELIMINAR ACOLHIDA - RECURSO NÃO CONHECIDO.
+1 - Pelo contexto fático descrito nos autos, resta devidamente demonstrada a relação de dependência recíproca que fatos que ensejaram os crimes de tráfico e de homicídio guardam entre si, recomendando a reunião de todos eles em um mesmo processo penal, perante o mesmo órgão jurisdicional, a fim de que este tenha uma perfeita visão do quadro probatório.
+2 - A apelação contra sentença proferida pelo Tribunal do Júri tem natureza restrita, não sendo devolvido à superior instância o conhecimento integral da causa criminal, o que significa dizer que o conhecimento do Tribunal estadual fica circunscrito aos motivos invocados na interposição. É o enunciado da Súmula 713 do Supremo Tribunal Federal.
+3 - Recurso não conhecido.
+O recorrente aponta violação do art. 593, inc. III, do Código de Processo Penal, por entender que as matérias alegadas nas razões de apelação estão abarcadas pelo art. 593, inc. III, do Código de Processo Penal (fl. 776).
+Defende, ainda, que conforme se depreende do v. Acórdão impugnado, o recurso de apelação foi apreciado, em parte, no tocante a incompetência do Tribunal do Júri para julgar o crime de tráfico de drogas. Portanto, não faz nenhum sentido o Tribunal de Justiça apreciar parte do recurso e, ao mesmo tempo, não conhecê-lo, acolhendo a preliminar arguida pelo Ministério Público (fl. 776).
+A Subprocuradoria-Geral da República opinou pelo desprovimento do recurso especial (fls. 802/806).
+É o relatório.
+O inconformismo não merece abrigo.
+De fato, como bem anotado no parecer ministerial, o entendimento do Superior Tribunal de Justiça é firme no sentido de que, a teor da Súmula 713/STF, o efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição, motivo pelo qual a Corte estadual, ao apreciar a apelação criminal oriunda do Tribunal do Júri, está vinculada aos limites de sua interposição fixados, ab initio, pelo termo ou pela petição de interposição do recurso (REsp 1395729/MG, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 12/4/2016, DJe 25/4/2016) (fls. 804/805).
+Em reforço, anoto os seguintes julgados: AgRg no REsp n. 1.541.103/RJ, Ministro Felix Fischer, Quinta Turma, DJe 21/5/2018 e HC n. 266.092/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/5/2016.
+In casu, o Tribunal de Justiça capixaba afirmou o inconformismo no momento da interposição baseou-se em eventual erro ou injustiça no que se refere à aplicação da pena (art. 593, inc. III, alínea c, do CPP) (fl. 769). Entretanto, em sede de apresentação de razões recursais,  o recorrente  inovou e discutiu questões referentes à nulidade na produção de provas, autoria e materialidade delitiva e sequer trata de qualquer inconformismo no que tange à pena aplicada (fl. 769).
+Observa-se, portanto, que o acórdão recorrido se encontra em conformidade com o entendimento firmado nesta Corte Superior, motivo pelo qual não merece reparos.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
