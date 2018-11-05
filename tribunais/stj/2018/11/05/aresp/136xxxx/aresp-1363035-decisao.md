@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO ORDINÁRIA. DIREITO DE PREFERÊNCIA. DECADÊNCIA. DECLARAÇÃO DE OFÍCIO. PRINCÍPIO DA NÃO SURPRESA. ART. 933 DO NCPC. DIREITO INTERTEMPORAL. SÚMULA Nº 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA INATACADO. ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+PAULO HENRIQUE CALDEIRA MIRANDA (PAULO) promoveu contra MÁRCIO ANDRE VIOLA e outro (MÁRCIO e outro) ação pelo rito ordinário alegando, em breve síntese, violação do direito de preferência em contrato societário.
+O Juízo monocrático julgou o feito procedente (e-STJ, fls. 121/128).
+MÁRCIO e outro interpuseram apelação. O Tribunal de Justiça do Estado do Espírito Santo conheceu do recurso para declarar de ofício a decadência em acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - DIREITO CIVIL - ART. 51 DO CC - DIREITO DE PREFERÊNCIA FIXADO EM INSTRUMENTO PARTICULAR - ART. 513, PARÁGRAFO ÚNICO DO CC - LIMITE DE 2 ANOS ANOS PARA IMÓVEIS - VENDA FEITA 1 ANO APÓS O TERMO DO PRAZO - INOPERÂNCIA DE CLÁUSULA CONTRATUAL QUE FIXAVA PRAZO DE 10 ANOS - DECADÊNCIA RECONHECIDA DE OFÍCIO - ART. 10 DO CDC - EXTINÇÃO NA FORMA DO ART. 269, VI DO CPC - INVERSÃO DOS ÔNUS SUCUMBENCIAIS  ..  (e-STJ, fl. 189).
+PAULO opôs embargos de declaração, que foram acolhidos para anular o julgamento da apelação em acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO - NULIDADE DO JULGAMENTO DA APELAÇÃO CÍVEL - DECADÊNCIA RECONHECIDA DE OFÍCIO - VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA - RECURSO PROVIDO - JULGAMENTO ANULADO.
+1. A argüição de nulidade do acórdão por violação ao princípio da não surpresa tese, vício no julgamento do recurso por caracterizar cerceamento de defesa do embargante, o que autoriza o cabimento do recurso vinculado.
+2. Em que pese o Superior Tribunal já ter se manifestado no sentido de que o art. 933 do CPC/15 (princípio da não surpresa aplicável aos recursos) não se aplica aos recursos interpostos na égide do CPC/73 (Aglnt n AREsp 854.095/SP, Rel. Ministro CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 01/09/2016, DJe 14/09/2016), tal entendimento não se mostra o mais consentâneo com o direito intertemporal adotadas pelo CPC/15 e pelo próprio Superior Tribunal de Justiça.
+3. A norma processual possui aplicabilidade imediata aos processos pendentes, devendo, entretanto, respeitar os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada, em consagração do sistema do isolamento dos atos processuais, o que leva ao alcance da conclusão de que (1) interposto o recurso contra decisão publicada na vigência do CPC/73, a sua admissibilidade deve ser aferida segundo as regras processuais revogadas e (2) ultrapassada a fase de admissibilidade recursal e iniciado o seu julgamento, devem ser aplicadas as regras previstas no CPC/15, inclusive aquelas relativas à preparação do feito para julgamento.
+4. Hipótese concreta em que foi ultrapassada a fase de admissibilidade recursal e dado inicio à fase de julgamento do recurso, o que impõe a aplicação do art. 933 do CPC/15 princípio da não surpresa aplicável aos recursos e, dada a inobservância de tal regra, caracterizada está a violação direta ao princípio do contraditório e, portanto prejuízo à parte, que nulifica a decisão recorrida.
+5. Recurso provido (e-STJ, fls.219/220).
+
+Inconformados, MÁRCIO e outro interpuseram recurso especial com base no art. 105, III, c, da Constituição Federal, por dissídio jurisprudencial na aplicação do art. 933 do NCPC. Alegaram que o acórdão recorrido não está em harmonia com julgado paradigma do STJ que interpreta normas de direito intertemporal, sendo aplicável, no caso, o CPC/1973 (e-STJ, fls. 254/269).
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo inadmitiu o apelo nobre porque (a) não houve o devido cotejo analítico na alegação de divergência jurisprudencial, com a demonstração da similitude das circunstâncias fáticas e das diferenças na interpretação da norma jurídica; (b) incide o enunciado da Súmula nº 83 do STJ, porquanto o acórdão recorrido está em conformidade com julgado do STJ (e-STJ, fls. 290/295).
+Dessa decisão, MÁRCIO e outro interpuseram o presente agravo em recurso especial em que defenderam que o cotejo analítico foi devidamente elaborado (e-STJ, fls. 298/312).
+Contraminuta apresentada (e-STJ, fls. 317/323).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, a parte agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo. Não é cabível a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra o segundo fundamento da decisão recorrida, que aplicou a Súmula nº 83 do STJ, com base em um julgado desta Corte.
+É inadmissível, portanto, o presente agravo.
+Nessas condições, com fundamento no art. 932, III, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), NÃO CONHEÇO do agravo em recurso especial.
+Ante a anulação do acórdão que julgou a apelação, não há falar-se em majoração de honorários advocatícios.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
