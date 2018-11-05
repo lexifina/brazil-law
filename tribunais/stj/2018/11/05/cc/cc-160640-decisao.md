@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, instaurado por CONTERN - CONSTRUÇÕES E COMÉRCIO LTDA - EM RECUPERAÇÃO JUDICIAL, em que aponta como suscitados o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP - responsável pela recuperação judicial - e o Juízo da Vara do Trabalho de Alto Araguaia/MT, nos autos da reclamação trabalhista nº 0001086-20.2012.5.23.0131, ajuizada em desfavor da suscitante.
+Informa a suscitante - sociedade pertencente ao Grupo Heber - que aos 16/8/2017 formulou pedido de recuperação judicial, deferido em 24/8/2017 (fls. 57/65).
+Contudo, assevera que o Juízo laboral, nos autos da referida reclamação, proferiu decisão autorizando a liberação do depósito recursal, como forma de pagamento, em favor do credor trabalhista (fl. 67) - em afronta à competência exclusiva do Juízo universal para deliberar sobre atos de constrição do patrimônio de empresa em recuperação judicial.
+A medida liminar pleiteada foi concedida "para determinar o sobrestamento de qualquer ato expropriatório nos autos da referida execução trabalhista, mais notadamente de liberação do montante disponível naquela execução, de titularidade da recuperanda, até decisão final no presente conflito, designando o Juízo da recuperação judicial para resolver, em caráter provisório, as medidas urgentes, inclusive para decidir sobre o destino a ser dado aos mencionados valores". (fls. 70/72).
+Informações prestadas pelos Juízos suscitados (fls. 84/86 e 88/89).
+Parecer do Ministério Público pela perda de objeto do incidente, tendo em vista a liberação superveniente dos valores constritos em benefício da suscitante (fls. 91/92):
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. LIBERAÇÃO SUPERVENIENTE DOS VALORES CONSTRITOS. PARECER PELA DECLARAÇÃO DA PERDA SUPERVENIENTE DE OBJETO DO CONFLITO.
+É o relatório.
+2. O presente incidente foi instaurado visando à definição do Juízo competente para deliberar sobre a constrição do patrimônio de empresa em recuperação judicial - se o Juízo da recuperação ou o Juízo trabalhista.
+Na espécie, contudo, por ocasião das informações prestadas, o Juízo trabalhista - em face de quem a suscitante atribui invasão de competência exclusiva do Juízo da recuperação - consignou a efetiva devolução dos valores constritos, relacionados ao saldo remanescente da dívida, em favor da suscitante (fls. 84/86), circunstância que evidencia a perda de objeto do presente incidente, na medida em que esvaziado risco de decisão pelo Juízo da execução individual que comprometa o patrimônio da empresa recuperanda - sujeito à competência do Juízo universal.
+A propósito, confira-se, no que interessa:
+(..)
+Tendo em vista o despacho proferido em fl. 579, em que se determinou a devolução dos valores à ré COTERN - CONSTRUÇÕES E COMÉRCIO LTDA, o que restou comprovado em fls. 586-v, nada a deliberar acerca do peticionado pela referida parte em fls. 588-605 e dmais petições a serem juntadas, que versam sobre a mesma temática, já exaurida, em face do retromencionado despacho.
+3. Ante o exposto, julgo extinto o presente conflito de competência, por perda de objeto, nos termos da fundamentação. Torno sem efeito a liminar concedida.
+Publique-se. Intimem-se. Oficiem-se.
