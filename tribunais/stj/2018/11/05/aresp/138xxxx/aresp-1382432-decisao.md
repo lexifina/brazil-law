@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados, (b) aplicação da Súmula n. 7/STJ e (c) falta de cotejo analítico para demonstrar o dissídio jurisprudencial alegado (e-STJ fls. 200/201).
+O acórdão do TJSP está assim ementado (e-STJ fl. 167):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA - AGRAVO DE INSTRUMENTO
+- Exceção de pré-executividade que sustenta a ilegitimidade passiva dos executados, que eram sócios da empresa devedora e se retiraram da sociedade antes da constituição da dívida - Não acolhimento - Os executados assinaram carta fiança com prazo indeterminado e deixaram de notificar a exequente (credora) requerendo a exoneração da garantia prestada após a alteração do quadro societário - Decisão mantida.
+- Bloqueio judicial sobre numerário depositado em caderneta de poupança - Decisão anterior que liberou a quantia correspondente a 40 salários mínimos e manteve o bloqueio com relação ao valor excedente - Pretensão de desbloqueio o valor integral (R$ 139.704,86) - Não acolhimento - Decisão mantida. Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 173/180), interposto com base no art. 105, III, "a" e "c", da CF, os recorrentes sustentaram ofensa e dissídio jurisprudencial, defendendo que: (a) na condição de fiadores, não seriam parte passiva na execução, pois não teriam anuído em prestar fiança aos novos sócios da empresa pela dívida ora executada, contraída após a venda da sociedade, conforme pactuado no compromisso de compra e venda, e (b) "a decisão recorrida também diverge da Súmula 214 do C. STJ, que solidificou o entendimento de que "o fiador na locação não responde por obrigações resultantes de aditamento ao qual não anuiu", entendimento que deve ser aplicado por analogia ao presente caso" (e-STJ fl. 177).
+Afirmaram dissídio jurisprudencial e violação do art. 833, IV e X, do CPC/2015, porque os valores de aposentadoria dos recorrentes, mesmo em quantia inferior a 40 (quarenta) salários mínimos, uma vez depositados em conta-poupança, seriam impenhoráveis.
+Foram ofertadas contrarrazões (e-STJ fls. 184/199).
+No agravo (e-STJ fls. 204/212), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 215/231).
+É o relatório.
+Decido.
+Nas razões recursais, os recorrentes não indicaram a legislação federal objeto de violação pela Corte local, ao sustentarem que, na condição de fiadores, não seriam parte passiva legítima na execução, por não terem anuído com a dívida contraída pelos novos sócios.
+Ausente tal providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+De igual modo, na defesa de referida tese, sem indicar a legislação federal objeto de dissenso interpretativo, a insurgência recursal fundada no art. 105, III, "c", da CF mostra-se deficiente, atraindo a aplicação da Súmula n. 284/STF, por analogia, como óbice ao conhecimento do recurso.
+Assim está sedimentada a jurisprudência do STJ, conforme precedente firmado pela Corte Especial no AgRg no REsp n. 1.346.588/DF, fixando que, "no recurso especial interposto com base na divergência jurisprudencial (art. 105, III, "c", da CF), é imprescindível a indicação dos dispositivos legais sobre os quais se baseia o dissenso interpretativo, sob pena de não conhecimento do recurso" (Relator Ministro ARNALDO ESTEVES LIMA, julgado em 18/12/2013, DJe 17/3/2014).
+O dissídio interpretativo quanto à Sumula n. 214/STJ não comporta igual acolhida, tendo em vista que, segundo entendimento pacífico nas Turmas da Segunda Seção do STJ, "não se conhece de recurso especial interposto sob alegação de divergência com súmula de Tribunal Superior, pois é imprescindível a realização do cotejo analítico" (AgInt no AREsp n. 959.727/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/10/2016, DJe 20/10/2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. ENUNCIADO Nº 13 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISSÍDIO COM SÚMULA. IMPOSSIBILIDADE. RELAÇÃO PROCESSUAL NÃO FORMALIZADA. ENUNCIADO Nº 240/STJ. INAPLICABILIDADE.
+1. O único paradigma apontado pelo ora agravante em relação à tese de mérito suscitada no recurso especial é oriundo do mesmo Tribunal prolator do acórdão recorrido, de modo que se mostra incensurável a aplicação do enunciado nº 13 da Súmula do STJ na hipótese dos presentes autos.
+2. O dissídio jurisprudencial com súmula não autoriza a interposição do recurso especial fundado na letra "c" do permissivo constitucional.
+3. É inaplicável o enunciado nº 240/STJ quando não instaurada a relação processual.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag n. 1.135.323/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/6/2010, DJe 18/6/2010.)
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+De tais ônus os recorrentes não se desincumbiram, pois se limitaram a transcrever ementas dos julgados a partir dos quais sustentaram a existência do dissenso interpretativo quanto ao art. 833, IV e X, do CPC/2015, tornando inviável conhecer do recurso no ponto. Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. PRISÃO EFETUADA POR POLICIAL MILITAR FORA DO EXERCÍCIO DAS FUNÇÕES. OFENSA À LIBERDADE PESSOAL. indeniRAL CONFIGURADO. VALOR ARBITRADO. MÉTODO BIFÁSICO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+(..)
+8. Não se conhece do recurso pela divergência jurisprudencial nas hipóteses em que o recorrente se limita à transcrição de ementas, sem promover o cotejo analítico a que se refere o art. 541, parágrafo único, do CPC/1973.
+9. Recurso especial desprovido.
+(REsp n. 1.675.015/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/9/2017, DJe 14/9/2017.)
+O TJSP, à luz do art. 833, X, do CPC/2015, reconheceu a validade da penhora da quantia de até 40 (quarenta) salários mínimos depositada na poupança do recorrente ENOY, assentando que não houve prova de que tal valor seria oriundo de proventos de aposentadoria, conforme se extrai do excerto abaixo (e-STJ fls. 169/170):
+Com relação à alegação de impenhorabilidade do valor depositado na poupança de titularidade de Enoy ([CONTA], [CONTA]/500, do Itaú Unibanco), verifica-se que no primeiro momento houve o bloqueio do valor de R$ 139.704,86. Posteriormente, o Juízo a quo desbloqueou o valor correspondente a 40 salários mínimos (R$ 35.200,00), nos termos do que dispõe o artigo 833, inciso X, do Código de Processo Civil.
+Assim, a r. decisão mostra-se correta, porque somente é impenhorável a quantia depositada em caderneta de poupança até o limite de quarenta salários mínimos. Ressalte-se que a agravante Enoy não comprovou que o valor excedente, cuja penhora foi mantida, (R$ 104.504,86) é referente a provento de aposentadoria.
+Rever tais conclusões, para acolher a tese de que a quantia depositada em caderneta de poupança seria oriunda de proventos de aposentadoria, exigiria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE VALORES DEPOSITADOS EM CONTA DO EXECUTADO. NATUREZA SALARIAL NÃO COMPROVADA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de ser inviável a penhora, ainda que parcial, de valores recebidos a título de salário, dada a natureza alimentar de tais verbas.
+2. O Tribunal a quo, analisado o acervo fático-probatório dos autos, concluiu que não ficou comprovado pelo recorrente que os valores depositados em sua conta-corrente, os quais foram objeto de penhora, são verba de natureza salarial.
+3. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.035.207/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/6/2017, DJe 14/6/2017.)
+Registre-se, por fim, que a incidência da Súmula n. 7/STJ também obsta o conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional, pois impede que se verifique a similitude fática entre os acórdãos confrontados. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. CONHECIMENTO DE RECURSO, AINDA QUE POR DIVERGÊNCIA JURISPRUDENCIAL, QUE EXIJA REVISÃO DA MOLDURA FÁTICA APURADA PELA CORTE DE ORIGEM. INVIABILIDADE.
+1. Orientam as Súmulas 5 e 7/STJ que, em sede recurso especial, é inviável interpretação contratual e reexame de provas.
+2. Conforme a remansosa jurisprudência desta Corte, a Súmula 7/STJ obsta também o conhecimento do recurso especial interposto pela alínea "c", do permissivo constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 914.335/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/9/2012, DJe 1º/10/2012.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
