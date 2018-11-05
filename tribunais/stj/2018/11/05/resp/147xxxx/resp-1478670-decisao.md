@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973 CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL A QUO SOBRE QUESTÃO RELEVANTE AO DESLINDE DA CONTROVÉRSIA. RECURSO ESPECIAL DO DNIT PROVIDO PARA DETERMINAR A REMESSA DOS AUTOS À ORIGEM E A CONSEQUENTE APRECIAÇÃO DO PONTO OMITIDO INDICADO NOS EMBARGOS DE DECLARAÇÃO LÁ OPOSTOS.
+1. Trata-se de Recurso Especial interposto pelo DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT, com fundamento na alínea a do art. 105, III da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5a. Região, assim ementado:
+ADMINISTRATIVO. DESAPROPRIAÇÃO DA POSSE E BENFEITORIAS. EFETUAÇÃO DE REGISTRO IMOBILIÁRIO. IMPOSSIBILIDADE.
+1. Tendo sido desapropriada apenas a posse sobre o imóvel e suas benfeitorias, e não a propriedade do mesmo, não é possível a transcrição da sentença no registro imobiliário;
+2. Apelação improvida.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Alega o recorrente, de início, ofensa ao art. 535 do CPC/1973, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios.
+4. No mérito, aponta violação dos arts. 29 e 35 do DL 3.365/1941; 1.227 e 1.245 do Código Civil; 17 da LC 76/1993; e 167, I, item 34, da Lei 6.015/1973, defendendo ser expropriação a forma originária de aquisição de propriedade, e, ainda, que a expedição de mandado translativo de domínio seria consequência lógica da sentença proferida no âmbito da Ação de desapropriação por utilidade pública.
+5. Ouvido, opinou o Ministério Público Federal, em parecer da lavra do eminente Subprocurador-Geral da República [NOME], pelo desprovimento do recurso.
+6. É o relatório.
+7. Assiste razão ao DNIT quanto à alegada ofensa ao art. 535 do CPC/1973. Da análise dos autos, verifica-se que não foram apreciadas pela Corte de origem as questões suscitadas nos Embargos de Declaração, motivo pelo qual merece prosperar o Recurso Especial por violação ao art. 535 do CPC/1973.
+8. No caso, o Tribunal de origem deixou de apreciar matéria, suscitada nos Embargos de Declaração, atinente à possibilidade de aquisição originária da propriedade a partir da desapropriação, considerando como consequência lógica da sentença proferida na Ação de desapropriação a expedição de mandado translativo de domínio.
+9. Resta caracterizada a violação do art. 535 do CPC/1973, devendo ser anulado o acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para que analise as questões suscitadas.
+10. Corroborando o entendimento, citam-se os julgados:
+ PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido (AgRg no REsp. 1.346.569/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 25.11.2014).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CONFIGURADA. MATÉRIA RELEVANTE NÃO ABORDADA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA MATÉRIA OMITIDA.
+1. Não verificando nenhuma das hipóteses do art. 535 do CPC e tendo em vista o princípio da fungibilidade recursal, recebo os presentes Embargos como Agravo Regimental.
+2. Trata-se de Recurso Especial em que se sustenta violação do art.535 do CPC, pois o acórdão recorrido, apesar das alegações da municipalidade nos aclaratórios, não analisou o seguinte ponto apresentado: o fundamento da sentença que entendeu não ser possível o decote de parte da autuação fiscal considerada como incabível a incidência do ISSQN, notadamente as atividades bancárias enquadráveis no item 24 da lista de serviços vigente à época do Decreto-Lei 406/68. Por essa razão, o acórdão anulou toda a exação, mesmo compreendendo que parte dos serviços tributados são passíveis de tributação pelo ISSQN, principalmente as atividades bancárias enquadráveis no item 95 e 96 da lista de serviços vigente à época do Decreto-Lei 406/68.
+3. Configurada a omissão e, por conseguinte, a ofensa ao art. 535 do CPC, devem os autos retornar à origem para novo julgamento dos Embargos de Declaração.
+4. Agravo Regimental não provido (EDcl no AREsp. 656.152/MG, Rel. Min. HERMAN BENJAMIN, DJe 30.6.2015).
+11. Diante disso, dá-se provimento ao Recurso Especial do DNIT, para anular o acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que analise a questão tida por omitida, conforme acima explicitado, como entender de direito.
+12. Publique-se. Intimações necessárias.
