@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente, em primeiro grau, foi condenado às penas de 17 (dezessete) dias de detenção, em regime inicial semiaberto, e de 11 (onze) dias-multa, como incurso no art. 330 do Código Penal.
+Contra a sentença, recorreram o Ministério Público e o Assistente de Acusação. O Tribunal de origem deu provimento aos recursos "para condenar o réu [NOME] às penas de 2 meses e 10 dias de detenção, em regime inicial semiaberto, por infração ao artigo 147, caput, por duas vezes, do Código Penal, e às penas de 17 dias de prisão simples, pela prática do delito previsto no artigo 21 da Lei 3.688/41, mantendo no mais a r. decisão recorrida" (e-STJ fl. 310).
+Opostos embargos de declaração pela defesa, foram rejeitados (e-STJ fls. 327/341).
+Alega-se, no presente recurso especial, "contrariedade aos arts. 155, 598, 619 e 620, todos do CPP, e arts. 64 e 330, ambos do CP. Para tanto, sustenta: a) a utilização exclusiva de elementos informativos constantes no inquérito policial, para fundamentar a condenação pelos crimes de ameaça e vias de fato; b) que o descumprimento de medidas protetivas não configura o crime de desobediência; c) que os recursos do Ministério Público e da assistente de acusação não poderiam ter sido conhecidos, uma vez o apelo ministerial não foi devidamente assinado e o da assistente de acusação foi interposto fora do prazo; d) que a reincidência deve ser afastada, pois a condenação pela infração prevista no art. 28 da Lei nº 11.343/06 não é suficiente para configurá-la; e) ser cabível o regime inicial aberto, dado que as circunstâncias judiciais do art. 59 do CP foram julgadas favoráveis" (e-STJ fl. 525).
+Contrarrazões às e-STJ fls. 453/454.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 523/531).
+É, em síntese, o relatório.
+Verifica-se que o recurso especial está prejudicado pela superveniência da prescrição da pretensão punitiva. Senão, vejamos.
+Consoante dispõe o art. 110, § 1º, do Código Penal, "a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa" (redação dada pela Lei n. 12.234, de 2010).
+No caso, tendo em vista que as penas impostas ao recorrente são todas inferiores a 1 ano, a pretensão punitiva prescreve em 3 anos, conforme prevê o art. 109, inciso VI, do Código Penal, in verbis:
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010).
+ ..
+ VI - em 3 (três) anos, se o máximo da pena é inferior a 1 (um) ano. (Redação dada pela Lei nº 12.234, de 2010).
+Dessa forma, tendo em vista que, entre o dia do julgamento do recurso de apelação (9/4/2015, conforme e-STJ fl. 297) e a presente data, transcorreu prazo superior a 3 anos, mostra-se forçoso reconhecer a prescrição da pretensão punitiva estatal, na modalidade intercorrente.
+Ante o exposto, com amparo no art. 107, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade do recorrente pela prescrição da pretensão punitiva, em relação aos delitos que lhe são ora imputados, e julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
