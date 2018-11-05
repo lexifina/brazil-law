@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Pernambuco, assim ementado:
+"PROCESSUAL CIVIL. CIVIL. RECURSO DE AGRAVO. RESPONSABILIDADE CIVIL. DANO MORAL. INSCRIÇÃO INDEVIDA. DANO PRESUMÍVEL. RECURSO IMPROVIDO. À UNANIMIDADE.
+1- O Agravado afirma que não possui sítio no local indicado nas faturas de cobrança. Por certo, trata o presente caso de relação de consumo, reclamando, portanto, a incidência da Lei nº 8.078/90 (Código de Defesa do Consumidor).
+2- A Concessionária deixou de demonstrar a efetiva existência do contrato de fornecimento de energia, objeto da inscrição no cadastro de inadimplentes, que pudesse ter ensejado o descumprimento gerador da negativação.
+3- Identificado o ato ilícito, não há que se falar em prova do dano, eis que a simples inscrição indevida, por si só, gera o dever de indenizar.
+4- Diante do caso concreto, o valor da indenização em R$10.000,00 (dez mil reais) atende aos princípios da razoabilidade e da proporcionalidade.
+5- Recurso improvido. Decisão unânime." (e-STJ, fl. 169)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 191/195).
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 5º, inciso II da Constituição Federal e arts. 884, 944 e 945 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, que o valor de R$ 10.000,00 (dez mil reais) arbitrado a título de danos morais em decorrência da negativação do nome da parte agravada é excessivo e implica enriquecimento ilícito
+Foram apresentadas contrarrazões às fls. 241/253.
+É o relatório. Decido.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, no tocante à violação do art. 5º, inciso II da CF, refoge da competência do STJ a análise, em sede de recurso especial, de alegação de violação de norma constitucional, motivo pelo qual é inviável a abertura da via especial, com vistas a tal debate, sob pena de supressão de competência do próprio STF.
+Quanto a suposta divergência jurisprudencial acerca do valor fixado a título de indenização por danos morais, o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. O valor de R$ 10.000,00 (dez mil reais), arbitrado a título de danos morais, não é exorbitante nem desproporcional aos danos sofridos pela parte agravada, que conforme consta no acórdão, foi inscrita no cadastro de proteção ao crédito sem a devida demonstração da existência de contrato de fornecimento de energia que pudesse ter gerado a negativação.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULOS C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA REQUERIDA.
+1. Incide o óbice recursal da Súmula n. 282 do STF na hipótese em que o dispositivo legal apontado como violado - artigo 188, I, do CC/02 - não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Incidência do óbice da súmula 7/STJ no tocante à tese de afastamento da responsabilidade civil. Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu estar provado o fato constitutivo do direito do autor, decidindo pela presença dos requisitos ensejadores da obrigação de indenizar. Impossibilidade de reexame de fatos e provas. 3. Esta Corte firmou o entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se in re ipsa, ou seja, prescinde de prova. Precedentes.
+4. A indenização por danos morais, fixada em quantum sintonizado ao princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado o que não é o caso dos autos. Incidência da Súmula n. 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1077698/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/03/2018, DJe 26/03/2018)
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC) - DEMANDA POSTULANDO DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANO MORAL DECORRENTE DE INSCRIÇÃO INDEVIDA DO NOME DO CONSUMIDOR EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DO CONSUMIDOR.
+1. Pretensão voltada à majoração do valor fixado a título de dano moral. Inviabilidade. Quantum indenizatório arbitrado em R$ 10.000, 00 (dez mil reais), o que não se distancia dos princípios da razoabilidade e da proporcionalidade, nos termos da orientação jurisprudencial desta Corte. Incidência da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 314.892/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/11/2015, DJe 24/11/2015)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
