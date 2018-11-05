@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC), interposto por [NOME], contra decisão que não admitiu recurso especial (fls. 282/283 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado: (fl. 241, e-STJ):
+AÇÃO DE COBRANÇA - Contrato de cessão de quotas sociais. Réu que se retira da sociedade - Contrato que prevê o pagamento de todos os tributos e encargos trabalhistas existentes no momento da retirada do sócio - Ajuizamento de ações trabalhistas após a retirada - Inexistência de provas que apontem qual período em que se formou o crédito cobrado nas ações trabalhistas - Prova indispensável, mediante simples juntada das iniciais das ações trabalhistas, com a finalidade de permitir a composição do crédito supostamente de responsabilidade do réu - Autor não se desincumbiu do ônus de demonstrar a responsabilidade do réu pelos créditos - Sentença de improcedência mantida - Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 255/259, e-STJ).
+Na origem, a demanda proposta pelo Recorrente versa sobre ação de cobrança visando o ressarcimento pelos danos materiais. O Juízo de primeiro grau julgou improcedente o pedido. O Tribunal a quo manteve incólume a sentença.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos arts. 932, III, 1.003, parágrafo único e 1.032, do CC/02. Sustenta, em síntese, que o acórdão deve ser reformado para julgar procedente o seu pedido (fls. 262/269, e-STJ).
+Não houve apresentação de contrarrazões (fl. 281, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do apelo especial, sob argumento de incidir ao caso o óbice sumular 07/STJ.
+Daí o presente agravo (fls. 286/293, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o recorrente busca refutar o óbice aplicado pela Corte estadual.
+Sem contraminuta (fl. 344, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. No que respeita à afronta do disposto no artigo 932, III, do CC/02, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência de prequestionamento, porquanto não teve o competente juízo de valor aferido, nem interpretado ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. No caso concreto, o Tribunal local, com amparo nos elementos de convicção dos autos, manteve a sentença intacta, pois o Recorrente não foi capaz de comprovar o seu direito (art. 373, I, do CPC/15)
+Confira-se trecho extraído do aresto hostilizado (fls. 243/246, e-STJ):
+" ..  Indispensável, porém, que para tanto provasse o autor o seguinte: (i) que efetivamente pagou, na qualidade de terceiro interessado, as dívidas trabalhistas da pessoa jurídica; (ii) que referidas dívidas trabalhistas se formaram em período anterior ao contrato de cessão de quotas sociais. Tais provas, porém, não constam dos autos, uma vez que a instrução do feito foi feita de modo manifestamente deficiente pelo autor. Limitou-se inicialmente o autor a juntar aos autos o contrato social e suas alterações, notificação e contra -notificação trocadas entre as partes, cópias de acordos celebrados entre credores trabalhistas e a pessoa jurídica e depósitos em conta corrente, expressiva parte deles $em contar identificação. Somente depois de estabilizada a lide e já quando encerada a fase probatória é que o autor trouxe aos autos uma declaração firmada pela pessoa jurídica, presentada pelo sócio controlador atual, afirmando quem fez os acordos e os pagamentos. Faltou, no entanto, prova essencial de fato constitutivo do direito do autor: não foram juntadas aos autos demonstração do período em que se formou cada um dos créditos trabalhistas, se anteriores, ou se posteriores ao contrato de cessão de quotas sociais.  ..  ".
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS. AUSÊNCIA DE ILÍCITO CARACTERIZADOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. PRECLUSÃO TEMPORAL. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. O Tribunal local, mediante a análise do contexto fático-probatório dos autos, foi categórico em afastar a responsabilidade da empresa recorrida pelos alegados danos reclamados pelo autor da ação, concluindo pela ausência dos requisitos ensejadores da reparação civil. Infirmar, pois, as conclusões do acórdão recorrido, como postulado pelo agravante, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+2. A falta de combate a fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência ao recurso especial do óbice da Súmula 283/STF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.128/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/09/2014, DJe 16/10/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. AUSÊNCIA DE PROVAS SUFICIENTES PARA COMPROVAR O ALEGADO NA INICIAL. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. VIOLAÇÃO DO ART. 333 DO CPC/73. 3. AGRAVO INTERNO IMPROVIDO.
+1. O acolhimento da pretensão recursal, quanto a existência de provas suficientes para comprovar o alegado na inicial, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+2. O STJ tem entendimento pacificado de que cabe às instâncias ordinárias, soberanamente, a análise quanto à necessidade e suficiência da prova para a formação de seu livre convencimento motivado.
+3. Agravo interno improvido.
+(AgInt no REsp 1591919/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 25/11/2016)
+4. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se.Intimem-se.
