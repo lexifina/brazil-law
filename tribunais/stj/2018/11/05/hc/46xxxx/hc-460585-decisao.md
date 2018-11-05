@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0001126-03.2017.8.26.0548).
+Consta dos autos que a paciente foi condenada como incursa no art. 14, caput, da Lei n. 10.826/2003, à pena de 2 anos de reclusão, em regime fechado, bem como ao pagamento de 10 dias-multa (fls. 13/18).
+Interposta apelação, o Tribunal local negou provimento ao recurso, mantendo a sentença condenatória nos termos proferidos pelo Juízo de primeiro grau (fls. 24/27).
+No presente writ (24/27), a impetrante alega que a paciente está sofrendo constrangimento ilegal, em razão da fixação do regime mais gravoso, não obstante a pena seja inferior a 4 anos de reclusão. Sustenta que todas as circunstâncias judicias são favoráveis e a pena-base foi fixada no mínimo legal. Afirma que, apesar de a paciente ser reincidente, é possível a fixação do regime semiaberto nos termos do enunciado n. 269 da Súmula deste Tribunal Superior.
+Dessa forma, requer, na liminar e no mérito, a fixação do regime semiaberto.
+O pedido liminar foi deferido às fls. 24/27.
+O Ministério Público Federal opinou, às fls. 31/32, pela concessão da ordem.
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que julgou o apelo defensivo, o que, de acordo com a nossa sistemática recursal, enseja a hipótese do recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade na fixação do regime mais gravoso.
+A jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso dos autos, observo que o Tribunal local manteve o regime fechado nos seguintes termos (fl. 27):
+O regime prisional estabelecido na sentença foi o fechado, o que será mantido, tendo em vista a reincidência comprovada, não havendo falar em atenuação do regime como pretendeu a nobre Defensoria Pública, eis que a gravidade do fato em concreto, somada à reincidência da acusada, apontam que a medida é a mais adequada ao atendimento às finalidades da pena.
+Contudo, verifico que, ainda que a paciente seja reincidente, é possível a aplicação do regime intermediário, tendo em vista a quantidade da pena aplicada - 2 anos de reclusão - e as circunstâncias judiciais lhe serem favoráveis. Isso porque, consoante dispõe o enunciado n. 269 da Súmula desta Corte Superior: é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. IMPOSIÇÃO DE REGIME INICIAL FECHADO. REPRIMENDA FIXADA EM 4 ANOS DE RECLUSÃO. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. ACUSADO REINCIDENTE. VERBETE SUMULAR N.º 269/STJ. APLICAÇÃO. COAÇÃO ILEGAL EVIDENCIADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DECISUM ACERTADO. RECURSO DESPROVIDO.
+1. Na hipótese, não obstante a pena-base tenha sido fixada no mínimo legal, o paciente seja reincidente e a sanção definitiva não tenha ultrapassado 4 anos de reclusão, o regime inicial imposto foi o fechado.
+2. Nos termos do Enunciado n.º 269 da Súmula desta Corte Superior de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais ", justificando, assim, a concessão de habeas corpus de ofício.
+3. Ademais, à luz do reiterado entendimento adotado por este Sodalício, não configura fundamento idôneo para a imposição de regime prisional mais gravoso do que o quantum de pena permite, a indicação da gravidade em abstrato do delito e de elementos ínsitos ao próprio tipo incriminador. Inteligência do Enunciado Sumular n.º 440/STJ 4. Agravo regimental a que se nega provimento.
+(AgRg no HC 381.938/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/03/2017, DJe 22/03/2017)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para confirmar a liminar anteriormente deferida e fixar o regime semiaberto, nos termos do art. 33, § 2º, alínea "b", do Código Penal.
+Publique-se. Intime-se.
