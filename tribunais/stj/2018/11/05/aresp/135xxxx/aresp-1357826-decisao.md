@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ (e-STJ fls. 246/247).
+O acórdão recorrido está assim ementado (e-STJ fl. 199):
+"AÇÃO DE OBRIGAÇÃO DE FAZER Penhora - VGBL (Vida Gerador de Benefícios Livres) - Investimento financeiro presumidamente - Aplicação de longo prazo não destinada, necessariamente, à sobrevivência do beneficiário - Precedentes - Art. 833 do CPC - Recurso improvido."
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 210/213).
+Nas razões do recurso especial (e-STJ fls. 217/237), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 833, IV e VI, do CPC/2015 e 1º da Lei Complementar n. 109/2001. Sustentou, em síntese, que os valores depositados no plano de previdência privada, tipo VGBL, são impenhoráveis.
+No agravo (e-STJ fls. 250/276), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 282/287).
+É o relatório.
+O agravante não tem razão.
+No caso concreto, em ação de obrigação de fazer, para reconhecer a impenhorabilidade dos valores depositados no plano de previdência privado, do tipo VGBL, o magistrado julgou improcedente o pedido, pois o autor "não comprovou que recebe mensalidade do fundo (os "proventos de aposentadoria" a que se refere às fls. 24/25) e que tais pagamento seriam necessários à sua manutenção." (e-STJ fl. 154)
+O Tribunal de origem, ao desprover a apelação, adotou, ao menos em parte, a jurisprudência da SEGUNDA SEÇÃO desta Corte Superior acerca do tema, aprofundando-se, ainda, nas circunstâncias fático-probatórias dos autos. Confira-se a seguinte passagem do acórdão (e-STJ fl. 200):
+No mérito, a r. sentença deverá ser mantida, pois a indigitada aplicação financeira não tem natureza alimentar.
+O VGBL (Vida Gerador de Benefícios Livres) é uma espécie de investimento de longo prazo, não destinado, necessariamente, à previdência ou sobrevivência do beneficiário.
+Deveria o apelante trazer elementos concretos de que o investimento teria essa afetação, o que não foi feito. Em abstrato, não pode o magistrado reconhecer a impenhorabilidade, pois a regra é a penhorabilidade dos bens do devedor para a satisfação do credor e o art. 833 do CPC não contempla, de forma expressa e específica, essa hipótese de investimento.
+Segundo a orientação firmada no EREsp n. 1.121.719/SP, julgado em 12/2/2014, as importâncias recolhidas para a formação do fundo de previdência complementar são, em princípio, impenhoráveis. Quando provado, entretanto, que tais valores não se destinam efetivamente à subsistência do beneficiário e de seus familiares, afasta-se o caráter alimentar e permite-se a constrição. A propósito, no voto-vista que proferi no referido precedente, acentuei:
+O regime da previdência privada é facultativo e se baseia na constituição de reservas que garantam o benefício contratado, nos termos do artigo 202 da Constituição Federal.
+Assim, o capital acumulado em plano de previdência privada representa patrimônio destinado à geração de aposentadoria, possuindo natureza previdenciária e, consequentemente, alimentar.
+Em tais circunstâncias, acompanho o entendimento da eminente Relatora no sentido de reconhecer a impenhorabilidade dos valores acumulados em planos de benefícios de previdência privada.
+Sucede, porém, que o regime da previdência privada admite o resgate do saldo aplicado em seus diferentes planos de benefícios.
+Nesse caso, os valores resgatados podem perder o caráter alimentar, tornando-se penhorável a parte que exceder o que for razoavelmente considerado indispensável, ou útil, para a subsistência e o suprimento das necessidades do titular do plano de previdência complementar.
+Com efeito, a despeito de a impenhorabilidade das verbas alimentares ser objeto de proteção legal, conforme art. 649, IV, do CPC, tal se limita às que forem indispensáveis à subsistência do devedor, razão pela qual é possível a constrição do que sobejar para o suprimento de suas necessidades básicas.
+A propósito, a eminente Relatora registrou na ementa de seu voto:
+"A menos que fique comprovado que, no caso concreto, o participante resgatou as contribuições vertidas ao Plano, sem consumi-las para o suprimento de suas necessidades básicas, valendo-se, pois, do fundo de previdência privada como verdadeira reserva de capital, o saldo existente se encontra abrangido pelo art. 649, IV, do CPC".
+Portanto, as quantias aplicadas em plano de benefício de previdência privada são impenhoráveis tão somente enquanto afetadas para esse propósito. Nada impede a constrição judicial sobre o valor resgatado, na parte que exceder o necessário à subsistência do participante do plano.
+Ademais, parece-me que a regra da impenhorabilidade do valor acumulado em PGBL pode comportar exceções, como, por exemplo, a prova da ocorrência de um aporte excepcional e desproporcional visando unicamente a proteger capital, em prejuízo de credores.
+Também não se pode desconhecer a existência de operações financeiras nas quais o saldo em PGBL constitui garantia de empréstimo, sendo possível, a meu ver, a constrição de tais verbas de forma a garantir o pagamento da correspondente dívida.
+Para ilustrar, eis as ementas dos precedentes desta Corte acerca da matéria, incluindo-se os mencionados embargos de divergência:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. IMPENHORABILIDADE. INDISPONIBILIDADE DE BENS DETERMINADA À LUZ DO ART. 36 DA LEI 6.024/74. MEDIDA DESPROPORCIONAL.
+1. O regime de previdência privada complementar é, nos termos do art. 1º da LC 109/2001, "baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal", que, por sua vez, está inserido na seção que dispõe sobre a Previdência Social.
+2. Embora não se negue que o PGBL permite o "resgate da totalidade das contribuições vertidas ao plano pelo participante" (art. 14, III, da LC 109/2001), essa faculdade concedida ao participante de fundo de previdência privada complementar não tem o condão de afastar, de forma inexorável, a natureza essencialmente previdenciária e, portanto, alimentar, do saldo existente.
+3. Por isso, a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC.
+4. Ante as peculiaridades da espécie (curto período em que o embargante esteve à frente da instituição financeira e sua ínfima participação no respectivo capital social), não se mostra razoável impor ao embargante tão grave medida, de ter decretada a indisponibilidade de todos os seus bens, inclusive do saldo existente em fundo de previdência privada complementar - PGBL.
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.121.719/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/2/2014, DJe de 4/4/2014.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INDISPONIBILIDADE DE BENS DETERMINADA À LUZ DO ART. 36 DA LEI 6.024/74. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. PGBL. NATUREZA [NOME] ESPÉCIE. IMPENHORABILIDADE RECONHECIDA. CONFIGURADA DESPROPORCIONALIDADE DA MEDIDA IMPOSTA.
+ ..
+2. O regime de previdência privada complementar é, nos termos do art. 1º da LC 109/2001, "baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal", que, por sua vez, está inserido na seção que dispõe sobre a Previdência Social.
+3. Embora não se negue que o PGBL permite o "resgate da totalidade das contribuições vertidas ao plano pelo participante" (art. 14, III, da LC 109/2001), essa faculdade concedida ao participante de fundo de previdência privada complementar não tem o condão de afastar, de forma inexorável, a natureza essencialmente previdenciária e, portanto, alimentar, do saldo existente.
+4. Por isso, a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC.
+5. Outrossim, ante as peculiaridades da espécie (curto período em que o recorrente esteve à frente da instituição financeira, sem qualquer participação no respectivo capital social), não se mostra razoável impor ao recorrente tão grave medida, de ter decretada a indisponibilidade de todos os seus bens, inclusive do saldo existente em fundo de previdência privada complementar - PGBL.
+6. Recurso especial conhecido e provido.
+(REsp n. 1.121.426/SP, Rel. Originário Ministro SIDNEI BENETI, Rel. para acórdão Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/3/2014, DJe de 20/3/2014.)
+TRIBUTÁRIO. PRECATÓRIOS. VALORES DECORRENTES DE PREVIDÊNCIA PRIVADA. CARÁTER ALIMENTAR. IMPENHORABILIDADE. PRECEDENTES. DESCONFIGURAÇÃO DA NATUREZA ALIMENTAR. SÚMULA 7/STJ. PRETENSÃO COMPENSATÓRIA. IMPOSSIBILIDADE. INCONSTITUCIONALIDADE. AFRONTA AO PRINCÍPIO DA ISONOMIA. ADI 4.357/DF. MODULAÇÃO. INAPLICABILIDADE.
+1. Precedentes desta Corte reconhecem que a complementação de aposentadoria classifica-se, em regra, como de natureza alimentar, cuja desconfiguração deve promover-se casuisticamente. Nesse contexto, se o Tribunal de origem reconheceu o caráter alimentar das verbas a serem recebidas em precatório, a modificação desse entendimento demandaria incursão na seara fática dos autos, inviável na via do recurso especial, ante o óbice da Súmula 7/STJ.
+ ..
+Agravo regimental improvido.
+(AgRg no REsp n. 1.503.161/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 5/3/2015, DJe de 11/3/2015.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA ON LINE. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. INTIMAÇÃO. PENHORA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.º 211/STJ. PENHORABILIDADE. POSSIBILIDADE. ANÁLISE DO CASO CONCRETO. PRECEDENTE ESPECÍFICO.
+ ..
+3. "Por isso, a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC." (EREsp 1121719/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/02/2014, DJe 04/04/2014).
+ ..
+5. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.382.845/PR, Min. PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/3/2015, DJe de 30/3/2015.)
+No caso concreto, extrai-se da fundamentação do acórdão recorrido que "o apelante trazer elementos concretos de que o investimento teria essa afetação, o que não foi feito. Em abstrato, não pode o magistrado reconhecer a impenhorabilidade, pois a regra é a penhorabilidade dos bens do devedor para a satisfação do credor e o art. 833 do CPC não contempla, de forma expressa e específica, essa hipótese de investimento" (e-STJ fl. 200).
+Assim, diante da jurisprudência desta Corte firmada acerca da matéria, a reforma do acórdão recorrido nesta instância especial depende do reexame das provas dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
