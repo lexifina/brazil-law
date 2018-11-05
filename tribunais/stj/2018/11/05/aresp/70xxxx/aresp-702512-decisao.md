@@ -1,0 +1,28 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA CAPACIDADE DO SEGURADO. O BENEFÍCIO EXIGE A COMPROVAÇÃO DA INCAPACIDADE TOTAL DEFINITIVA DO SEGURADO, O QUE NÃO FICOU DEMONSTRADO NA HIPÓTESE DOS AUTOS. REQUISITOS PARA CONCESSÃO DA APOSENTADORIA NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO. AGRAVO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, interposto por ABILIO MACHADO DE OLIVEIRA contra acórdão do Tribunal Regional Federal da 3a Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. AUXÍLIO-DOENÇA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1- O artigo 557 do Código de Processo Civil consagra a possibilidade de o recurso ser julgado pelo respectivo Relator.
+2- Segundo entendimento firmado nesta Corte, a decisão do Relator não deve ser alterada quando fundamentada e nela não se vislumbrar ilegalidade ou abuso de poder que resulte em dano irreparável ou de difícil reparação para a parte.
+3- A decisão agravada abordou todas as questões suscitada e orientou-se pelo entendimento jurisprudencial dominante. Pretende a agravante, em sede de agravo, rediscutir argumentos já enfrentados pela decisão recorrida.
+4- Agravo desprovido. Decisão mantida.
+2. Nas razões do seu Apelo Nobre, sustenta o recorrente que os requisitos para a concessão de aposentadoria por invalidez estão preenchidos.
+3. É o relatório.
+4. A Lei 8.213/1991, que dispõe sobre os benefícios da Previdência Social, preceitua em seu art. 42 que:
+Art. 42 - A aposentadoria por invalidez, uma vez cumprida, quando for o caso, a carência exigida, será devida ao segurado que, estando ou não em gozo de auxílio-doença, for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nesta condição.
+5. Assim, para que seja concedida a aposentadoria por invalidez, necessário que o segurado, após cumprida a carência, seja considerado incapaz para o trabalho e insuscetível de reabilitação em atividade que lhe garanta subsistência.
+6. No presente caso, o Tribunal de origem, com base no conjunto fático probatório dos autos, especialmente o laudo pericial produzido em juízo, concluiu que o Segurado possui capacidade laboral, uma vez que as patologias que apresenta não tem repercussões clínicas capazes de gerar incapacidade laboral total e permanente, não preenchendo, assim, os requisitos legais para a concessão do benefício.
+7. Ademais, a alteração dessa conclusão e o acolhimento da pretensão do recorrente, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+8. Nesse sentido, os seguintes precedentes:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA ACIDENTÁRIOS. ACÓRDÃO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DOS REQUISITOS PARA A SUA CONCESSÃO. REVISÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme a conclusão do Tribunal de origem, à luz dos elementos fático-probatórios dos autos, inexistem os requisitos para a concessão da aposentadoria por invalidez acidentária ou de auxílio-doença acidentário.
+II. Diante desse quadro, a inversão do julgado, para reconhecer a existência dos requisitos para a concessão dos referidos benefícios acidentários, como pretende o agravante, demandaria incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor da Súmula 7 do STJ. Nesse sentido: STJ, AgRg no AREsp 670.113/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 7/5/2015; STJ, AgRg no AREsp 386.429/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 17/4/2015; STJ, AgRg no AREsp 661.496/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 20/4/2015.
+III O óbice da Súmula 7/STJ também prejudica a análise do Recurso Especial, relativamente ao alegado dissídio jurisprudencial, conforme entendimento firmado nesta Corte. Precedentes: STJ, AgRg no AREsp 687.290/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/5/2015; STJ, AgRg no AREsp 638.299/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/5/2015; STJ, AgRg nos EDcl no AREsp 688.502/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 17/8/2015.
+IV. Agravo Regimental improvido (AgRg no AREsp. 636.909/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 5.10.2015).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE PARCIAL. DECISÃO AGRAVADA. FUNDAMENTOS NÃO AFASTADOS. PRECEITO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não se verifica possível, sob pena de invasão da competência reservada ao STF, o exame, em sede de recurso especial, de alegada ofensa a preceito constitucional, mesmo que para fins de prequestionamento.
+2. A modificação do entendimento fixado pelo Tribunal de origem, no sentido de que a prova acostada aos autos demonstra que o autor está apenas parcialmente incapacitado para o labor, por demandar revolvimento do acervo probatório, não pode ocorrer em sede de recurso especial. Incidência da Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 554.967/SP, Rel. Min. OG FERNANDES, DJe 18.9.2015).
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Segurado.
+10. Publique-se. Intimações necessárias.
