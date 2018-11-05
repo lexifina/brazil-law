@@ -1,0 +1,27 @@
+DECISÃO
+Discute-se no recurso especial a questão relativa à cobrança de taxa de manutenção de morador que não anuiu à associação de moradores - matéria já julgada sob o rito dos recursos repetitivos pela Segunda Seção do Superior Tribunal de Justiça, nos autos do REsp n. 1.280.871/SP (DJe de 22/5/2015), vinculado ao Tema n. 882/STJ.
+Esse é o teor da ementa do referido julgamento repetitivo:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança.
+(REsp 1.280.871/SP, relator p/ Acórdão Ministro Marco Buzzi, Segunda Seção, DJe de 22/5/2015.)
+Cabe, ainda, transcrever o seguinte trecho do voto condutor deste julgamento:
+Inexiste, portanto, espaço para a concepção de uma "aceitação tácita" a ser imposta pelo Poder Judiciário como preceitua o voto do eminente relator, pois, na ausência de uma legislação que regule especificamente a presente matéria, prepondera, na hipótese, o exercício da autonomia da vontade a ser manifestado pelo proprietário ou, inclusive, pelo comprador de boa-fé, emanada da própria garantia constitucional da liberdade de associação e da legalidade, uma vez que ninguém pode ser compelido a fazer algo senão em virtude de lei.
+ ..
+E, no caso em testilha, a concepção da aceitação tácita ou da preponderância do princípio da vedação ao enriquecimento sem causa, acaba por esvaziar o sentido e a finalidade da garantia fundamental e constitucional da liberdade de associação, como bem delimitou o Pretório Excelso no julgamento do RE n.º 432.106/RJ, encontrando a matéria, inclusive, afetada ao rito da repercussão geral (RG no AI n.º 745.831/SP, rel. Min. DIAS TOFFOLI, DJ 29/11/2011).
+A associação de moradores é mera associação civil e, consequentemente, deve respeitar os direitos e garantias individuais, aplicando-se, na espécie, a teoria da eficácia horizontal dos direitos fundamentais.
+ ..
+Concluindo, a aquisição de imóvel situado em loteamento fechado em data anterior à constituição da associação não pode, nos termos da jurisprudência sufragada por este Superior Tribunal de Justiça, impor ao adquirente que não se associou, nem a ela aderiu, a cobrança de encargos.
+Se a compra se opera em data posterior à constituição da associação, na ausência de fonte criadora da obrigação (lei ou contrato), é defeso ao poder jurisdicional, apenas calcado no princípio enriquecimento sem causa, em detrimento aos princípios constitucionais da legalidade e da liberdade associativa, instituir um dever tácito a terceiros, pois, ainda que se admita a colisão de princípios norteadores, prevalece, dentre eles, dada a verticalidade de preponderância, os preceitos constitucionais, cabendo tão-somente ao Supremo Tribunal Federal, no âmbito da repercussão geral, afastá-los se assim o desejar ou entender.
+Ora, conforme a jurisprudência do Superior Tribunal de Justiça acima demonstrada, é indevido o pagamento dos valores à associação, a título de taxa de manutenção, quando o morador não integra o seu quadro associativo e tampouco anuiu expressamente com tal encargo.
+Assim, em análise preliminar, ao que parece, o Tribunal de origem decidiu em contrariedade com a orientação consolidada neste Superior Tribunal de Justiça, ao assentar que a compra do imóvel em data posterior à constituição da associação configura aceitação tácita (fls. 380/382).
+Portanto, faz-se necessária a devolução dos autos à Corte de origem para a observância da sistemática dos recursos repetitivos quanto à realização do procedimento do juízo de retratação, consoante determinam os arts. 1.040 e 1.041 do Código de Processo Civil, in verbis:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1o.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, nos termos do art. 21-E, inciso VIII, do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos ao Tribunal a quo para que se observe a sistemática prevista nos arts. 1.040 e 1.041, do Código de Processo Civil.
+Publique-se. Intimem-se.
