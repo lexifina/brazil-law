@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso em habeas corpus interposto por Denize Silva de Lima, contra decisão monocrática de Ministro Relator do STJ, nos autos do RHC 97.216/RS.
+    Colho do STJ o relatório:
+    “Por meio deste recurso, que se volta contra o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 70076426386, busca-se a imediata revogação da decisão do Juízo da Vara Judicial da Comarca de Palmares do Sul/RS, que não autorizou a visitação semanal da recorrente e seu filho ao seu companheiro, que se encontra segregado na Penitenciária de Osório, por estar ela/recorrente cumprindo medidas cautelares distintas da prisão após ter sido presa em flagrante pela suposta prática do crime de tráfico de drogas e, recebido liberdade provisória.” (eDOC 1, p. 132)
+    Neste recurso (eDoc. 1, p. 180), alega a defesa que, por estar cumprindo medida cautelar, a paciente não pode sair da comarca sem autorização judicial e que, ao requerê-la, o pedido foi indeferido. Aduz que a paciente precisa se ausentar da comarca para visitar seu companheiro, preso na mesma ocasião.
+    Esclarece que, no processo de origem, ainda nem sequer houve o oferecimento da denúncia, em que pese os fatos narrados terem supostamente ocorrido há quase um ano.
+    Requer, portanto, o provimento do recurso, a fim de que possa se ausentar da comarca, uma vez por semana, para visitar seu companheiro.
+    É o relatório.
+    Decido.
+    Na espécie, o presente recurso se volta contra decisão monocrática de Ministro Relator do STJ. Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame colegiado pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Além disso, trata-se de recurso ordinário constitucional interposto diante de decisão do STJ em sede de recurso ordinário em face da decisão denegatória de HC no TJRS. Portanto, o presente recurso não é meio adequado para a impugnação pretendida, não devendo ser conhecido.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desses entendimentos jurisprudenciais pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que verifico no presente caso.
+    A paciente foi presa em flagrante, por ter sido surpreendida, dentro de seu veículo, com dois pinos de cocaína. Após se deslocarem à sua residência, policiais encontraram mais três pinos da mesma droga, o que totalizaram 7g (sete gramas). (eDOC 1, p. 15 e 18)
+    Após a revogação da prisão preventiva, o juízo de primeiro grau impôs medidas cautelares diversas: comparecimento mensal ao juízo de seu domicílio; proibição de deixar a sua residência das 20h às 6h; proibição de se ausentar da comarca de sua residência sem autorização do juízo (eDoc. 1, p. 56).
+    Diante disso, a defesa solicitou a autorização para que a ré possa deslocar-se até a cidade de Osório uma vez por semana para visitar seu companheiro que está preso em tal cidade, com a finalidade de manutenção dos laços familiares (eDoc. 1, p. 64).
+    Contudo, o juízo de origem indeferiu o pedido, afirmando que “a visitação ao preso é uma atividade de lazer, indo de encontro com as medidas cautelares impostas” (eDoc. 1, p. 69).
+    Considerando que, nos termos da Lei de Execução Penal, a visitação é direito do preso e que a segregação, ainda mais em sede cautelar, não deve inviabilizar a manutenção dos laços familiares, especialmente com os filhos, deve-se excepcionar a medida cautelar de proibição de ausentar-se da comarca, autorizando o deslocamento da paciente para visitar o companheiro custodiado em cidade distinta.
+    Ante o exposto, não conheço do recurso ordinário constitucional, mas com fundamento no artigo 192, caput, do RI/STF, concedo habeas corpus de ofício, para autorizar a paciente a se ausentar, uma vez por semana, de sua comarca, para a finalidade exclusiva de visitar seu companheiro, custodiado na Penitenciária de Osório.
+    Comunique-se com urgência. Publique-se.
+    Brasília, 5 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
