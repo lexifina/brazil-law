@@ -1,0 +1,31 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO ORDINÁRIA. RESPONSABILIDADE DA SEGURADORA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial apresentado por MANOEL COSTA DIAS e outros, com base no art. 105, III, c, da Constituição Federal.
+Compulsando os autos, verifica-se que os recorrentes ajuizaram ação ordinária de responsabilidade obrigacional securitária (e-STJ, fls. 2-43), tendo o Juízo de primeiro grau julgado improcedente o pedido (e-STJ, fls. 1.055-1.063).
+Interposto recurso de apelação pelos ora recorrentes, o Tribunal de origem decidiu, por unanimidade, negar-lhe provimento, nos seguintes termos (e-STJ, fl. 1.356):
+SEGURO HABITACIONAL - Pedido de indenização para reparação de danos nos imóveis dos autores - Preliminares arguidas rejeitadas - Improcedência da ação corretamente decretada - Inexistência de responsabilidade da seguradora em relação a danos que tenham origem em defeito da construção - Apólice que circunscreve o risco apenas a danos externos, e não a vícios construtivos - Sentença mantida - Recurso não provido.
+Nas razões do recurso especial, fundado no art. 105, III, c, da Constituição Federal, os recorrentes alegam a existência de dissídio jurisprudencial.
+Contrarrazões apresentadas (e-STJ, fls. 1.421-1.441).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a este Tribunal Superior.
+Brevemente relatado, decido.
+Alegam os recorrentes ter a recorrida responsabilidade relativa aos danos físicos ocorridos em seus imóveis e, para tanto, afirmam a existência de divergência jurisprudencial entre o acórdão recorrido e arestos de outros tribunais.
+Entretanto, da acurada análise do recurso especial, observa-se que os recorrentes não apontaram o dispositivo infraconstitucional tido por violado, o que revela deficiência de fundamentação, inclusive por dissídio jurisprudencial, atraindo a incidência do Enunciado sumular n. 284/STF.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, imprescindível que sejam apontados de forma clara os preceitos legais vulnerados, sob pena de inadmissão.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. O conhecimento do recurso especial pelas alíneas "a" e "c" do permissivo constitucional exige a indicação de qual ou quais os dispositivos de lei que supostamente teriam sido violados ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. O Tribunal de origem, com base na análise do acervo probatório dos autos, concluiu que o segurado faz jus ao recebimento da indenização correspondente à cobertura securitária, por entender que a questão relativa ao pagamento da indenização de forma proporcional ao grau de invalidez do segurado, encontra-se tão somente nas condições gerais da apólice, da qual não há prova de que o autor, na condição de segurado, tomou conhecimento. Assim, para rever o entendimento do acórdão recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e reinterpretação de cláusulas contratuais, o que é vedado em razão das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1220109/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. IMPROBIDADE ADMINISTRATIVA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou que o conjunto probatório presente nos autos é capaz de atestar a prática de ato de improbidade administrativa praticado pelos ora agravantes decorrente de "contratação de pessoas que nunca prestaram regularmente serviços à edilidade" e "realização de despesas incompatíveis com combustível, restaurantes, churrascarias, choperias etc". (fl. 1.218, e-STJ).
+2. O Recurso Especial, apesar de ter sido interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. A simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do apelo nobre, não supre a exigência de fundamentação adequada do Recurso Especial. Dessa forma, ante a deficiência na argumentação, não se pode conhecer do Recurso Especial. Aplicação, por analogia, da Súmula 284/STF.
+3. Com relação ao dissídio jurisprudencial, a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+4. Ainda quanto à divergência jurisprudencial, segundo a firme jurisprudência assentada neste Superior Tribunal, a interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem tenha dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+5. Além disso, é inviável analisar a tese defendida no Recurso Especial de que inexiste dolo, má-fé e enriquecimento ilícito, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+6. Agravo Interno não provido
+(AgInt no AREsp 839.897/SP, Rel. Ministro Herman Benjamin, SEGUNDA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade judicial deferida aos recorrentes.
+Publique-se.
