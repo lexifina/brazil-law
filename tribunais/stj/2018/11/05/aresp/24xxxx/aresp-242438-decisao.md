@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por GOOGLE BRASIL INTERNET LTDA fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. "GOOGLE". "PICASA". PROVEDORES DE HOSPEDAGEM. VIOLAÇÃO A DIREITO AUTORAL. EDITORA PROPRIETÁRIA DE [NOME]. DECISÃO QUE DETERMINOU A RETIRADA DE QUALQUER CONTEÚDO OFENSIVO. IMPOSIÇÃO DE MULTA POR DESCUMPRIMENTO. POSSIBILIDADE. DECISÃO REFORMADA. RECURSO PROVIDO. 1 - Deve ser aplicada a multa decorrente de descumprimento da decisão do primeiro Agravo, que determinou prazo de 15 (quinze) dias para o cumprimento da obrigação imposta, não tendo sido atendido. 2 - Agravo provido."
+Opostos embargos de declaração, foram ambos parcialmente acolhidos, restando o acórdão assim ementado:
+"EMENTA: EMBARGOS DECLARATÓRIOS. OMISSÃO NO ACÓRDÃO. ANÁLISE PARCIAL DO PEDIDO DE INCIDÊNCIA DA MULTA COMINATÓRIA. EMENTA EQUIVOCADA. RELATOR VENCIDO. LITIGÂNCIA, [NOME]. AUSÊNCIA DE CONDUTA FRAUDULENTA. INDEFERIMENTO. ACOLHIMENTO PARCIAL DE AMBOS OS EMBARGOS.
+1- Tendo o acórdão analisado apenas a ocorrência ou não do descumprimento da decisão e o termo inicial de incidência da multa, deve ser sanada a omissão, para constar do acórdão a impossibilidade de execução imediata da multa.
+2- Vencido o Relator quanto ao termo inicial da incidência da multa, deve ser corrigida a ementa do acórdão, para constar a decisão dos votos vencedores, que o estabeleceram a partir da nova intimação para cumprimento.
+3- Ausente a manifestação quando ao pedido de condenação por litigância de má-fé, sana-se a omissão e, não constatada a conduta fraudulenta, indefere-se o pedido.
+4- Ambos os embargos parcialmente acolhidos." (e-STJ fl. 1252)
+Opostos novos embargos pela EDITORA FAPI, foram providos para sanar omissão, mas sem efeito modificativo do julgado (e-STJ fl. 1292/1304).
+Nas razões do recurso especial, o agravante alega violação dos arts. 333, 461 do CPC/73 e 396 do CC, sustentando, em síntese, que não houve descumprimento de decisão judicial que enseje a aplicação de multa, tendo em vista que a URL indicada como não removida pela recorrente não fez parte da ordem de remoção expedida.
+É o relatório. Decido.
+Cuidam os autos de agravo de instrumento no qual se discute a ocorrência ou não de descumprimento de ordem judicial de remoção de URL"s, bem como o termo inicial da multa fixada em caso de descumprimento.
+O Desembargador relator do agravo de instrumento, ao analisar a alegação do recorrente de que não teria havido descumprimento de ordem judicial relativa à remoção de URL"s, expressamente consignou o seguinte:
+"Constata-se que o Agravado realmente descumpriu a decisão proferida no julgamento do Agravo 1 .0024.08.982000-51001, a saber:
+"Com tais fundamentos, dou parcial provimento ao agravo, para impor à Agravada o ônus de indicar as respectivas URL das páginas que contém material ofensivo, de forma a permitir a exclusão do conteúdo pelo Agravante, devendo incidir a multa por descumprimento da ordem judicial caso o Agravante não cumpra a determinação no prazo de 15 (quinze) dias.
+O Agravado, em manifestação de fls. 559-TJ, bem como em contraminuta (fls. 5891707-TJ), afirmou que alguns dos URL"s indicados pela agravante às fis. 291/302 (1341145-TJ) foram fornecidos incorretamente e, por isso, não há que se falar em descumprimento da decisão.
+Em contrapartida, no dia 19/08/2010, foi trazida aos autos nova petição, na qual o agravado apresenta documentos que comprovam a remoção dos URL"s requeridos.
+Ocorre que, como afirmado na peça recursal e confirmado por este Relator, a titulo de exemplo, a URL de número 14 (fl. 133-TJ) pôde ser acessada no dia 29/06/2010, pela mera transcrição do endereço digital indicado pela agravante.
+Cabe ressaltar que não houve novo fornecimento de URL"s pela Agravante, o que leva à conclusão de que, se o cumprimento da decisão ocorreu agora, poderia ter sido feito anteriormente, dentro do prazo estipulado.
+Ou seja, fica afastada a alegação de que a autora indicou de forma dúbia os URL"s e comprovado o descumprimento da decisão pmoferida por este Tribunal, no prazo concedido." (e-STJ, fls. 1182/1183)
+Constou ainda, no acórdão que julgou os embargos de declaração:
+"Com relação à omissão quanto à alegação de que não houve descumprimento da decisão, não tem razão a embargante.
+No acórdão embargado, ficou constatado o descumprimento da decisão, nos seguintes termos:
+(..) como afirmado na peça recursal e confirmado por este Relator a título de exemplo, a URL de número 14 (fl. 133-TJ) pôde ser acessada no dia 29/0612010, pela mera transcrição do endereço digital indicado pela agravante.
+Cabe ressaltar que não houve novo fornecimento de URL"s pela Agravante, o que leva à conclusão de que, se o cumprimento da decisão ocorreu agora, poderia ter sido feito anteriormente, dentro do prazo estipulado.
+Ou seja, fica afastada a alegação de que a autora indicou de forma dúbia os URL"s e comprovado o descumprimento da decisão pro ferida por este Tribunal, no prazo concedido.
+Diz a embargante que a decisão de primeira instância remeteu às URL"s indicadas nas f. 291/302 dos autos originais, onde estava apenas uma parcela do total de URLs.
+Ocorre que a URL acessada por este Relator está à f. 138- TJ - f. 295 dos autos originais - portanto, dentro daquelas indicadas pela Editora, tendo sido posteriormente retirada, sem novo fornecimento de endereços.
+Assim, não merece acolhida a pretensão da Google, neste ponto." (e-STJ fl.1259).
+Ocorre que no que diz respeito ao termo inicial para incidência da multa, o ilustre Desembargador restou vencido, tendo prevalecido o voto médio proferido pelos dois Desembargadores vogais, que condicionaram a incidência da multa a uma nova intimação da ora recorrente, por entender que seria a melhor forma de obter o cumprimento da obrigação, senão vejamos.
+Assim constou no voto médio proferido pelo 1º vogal:
+"Pelo exposto, e porque entendo que seja possível, mesmo de oficio, a fixação de novo prazo para que a parte ré cumpra espontaneamente um comando judicial, sob pena de multa, uma vez que cabe ao juiz determinar providências que assegurem o resultado prático pretendido pelo requerente e da eficácia da medida judicial, não há que se falar em ofensa ao princípio da demanda, do instituto da preclusão pro judicato e nem ao princípio da proibição da reformatio in pejus - inteligência do art. 273 c/c art. 461 do CPC." (e-STJ fl.1295/1296)
+E assim constou no voto proferido pelo 2º vogal:
+"O simples fato de ser confirmada a multa fixada em tutela antecipada recursal, pela Turma julgadora, não impede a determinação de nova intimação da embargada para cumprimento espontâneo do comando, não havendo nenhuma ofensa à preclusão pro judicato ou ao reformatio in pejus, mormente se se considerar que houve reforma da decisão de primeiro grau, tendo o acórdão debatido todos os temas amplamente discutidos pelos litigantes.
+(..)
+Entretanto, no presente caso, não há que se cogitar a existência de preclusão judicial.
+Isso porque, embora pareça estar a matéria preclusa, em se tratando de decisão provisória, com o intuito de compelir o cumprimento da ordem, nada impede a determinação de nova intimação da embargada para cumprimento espontâneo, para que vencido o prazo comece a incidir a multa, fixada em observância à autorização legal expressa e ao principio constitucional da proporcionalidade (adequação, necessidade e proporcionalidade em sentido estrito).
+(..)
+Ora, se a multa é faculdade do Juiz e pode ser aplicada independentemente de pedido da parte, plenamente possível que se reavive o debate sobre nova intimação da embargada para cumprimento da decisão, incidindo a multa apenas em caso de novo descumprimento, não havendo que se falar em preclusão pro judicato ou reformatio in pejus.
+Importante ressaltar que a preclusão tem cunho eminentemente preventivo, e deste modo, se a determinação da Turma julgadora é para garantir a efetividade do cumprimento da ordem judicial, nada obsta nova determinação de intimação para cumprimento espontâneo, podendo a análise e reanálise se dar, repita-se, em qualquer momento.
+Pelos mesmos motivos não há que se falar em reformatio in pejus, pois a multa por descumprimento é faculdade do Juiz, utilizada para assegurar o cumprimento das decisões judiciais, não havendo proibição legal para que se oportunize à ora embargada o cumprimento espontâneo do que fora consignado." (e-STJ fl.1299/1302)
+O próprio Desembargador relator consignou que, no que toca ao termo inicial de incidência da multa, o mesmo restou vencido:
+"Nesse sentido, embora sem a clareza e completude necessárias, julguei parcialmente procedente o agravo, por entender, diferentemente do Juízo a quo, que a imposição da multa é possível no curso do processo (como já decidido no Agravo 1.0024.08.982000- 5/001, mas não a sua execução. Assim, concluí que houve, de fato, o descumprimento da determinação judicial e que o termo inicial da multa, para eventual execução, seria o dia 25/03/10.
+Neste ponto é que fui vencido, pois os eminentes Desembargadores Vogais entenderam por bem fixar o termo inicial a partir da nova intimação da Google para cumprimento da determinação judicial." (e-STJ fl. 1258)
+Nesse contexto, resta patente a ausência de interesse recursal da GOOGLE quanto à existência ou não de anterior descumprimento de decisão judicial, tendo em vista que a incidência da multa ficou condicionada a uma nova intimação.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
