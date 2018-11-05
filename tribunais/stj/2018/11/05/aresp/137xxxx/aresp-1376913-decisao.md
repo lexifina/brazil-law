@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão denegatória de seguimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 676, e-STJ):
+AÇÃO DE INDENIZAÇÃO CUMULADA COM PRESTAÇÃO DE CONTAS. AÇÃO CAUTELAR. CASO CONCRETO. MATÉRIA DE FATO. PRELIMINAR DE NULIDADE DA SENTENÇA REJEITADA. TRANSFERÊNCIA DE VALORES DA CONTA DA SOCIEDADE PARA CONTA BANCÁRIA PESSOAL DO ADMINISTRADOR. ATO ILÍCITO CONFIGURADO. ARTS. 186 E 1.031 DO CÓDIGO CIVIL. NECESSIDADE DE RESTITUIÇÃO. VALOR DEPOSITADO EM CONTA JUDICIAL REMUNERADA. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. Depositada quantia em moeda corrente em conta judicial remunerada para segurança do juízo, não há falar-se em incidência de correção monetária e juros moratórios, incidindo apenas o índice de correção da conta remunerada, sob pena de "bis in idem". VERBA HONORÁRIA ADVOCATÍCIA. Os honorários advocatícios devem ser condizentes com o trabalho exigido e produzido pelos profissionais. Apelo provido em parte.
+Opostos embargos de declaração (fls. 686/699, e-STJ), esses foram desacolhidos.
+Nas razões do especial (fls. 710/745, e-STJ), o ora agravante apontou, além de dissídio jurisprudencial, violação aos artigos 85, 489 e 1.022 do Código de Processo Civil/15. Sustentou, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões e contradições suscitadas nos aclaratórios em relação concordância dos demais sócio acerca da retirada do dinheiro da conta corrente da empresa; ii) os honorários sucumbenciais foram fixados pela Corte estadual em valor elevado, impondo-se a redução.
+Contrarrazões às fls. 756/768, e-STJ.
+Em juízo provisório de admissibilidade (fls. 770/779, e-STJ), negou-se seguimento ao reclamo sob os seguintes fundamentos: i) ausência de negativa de prestação jurisdicional; ii) incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 781/819, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 821, e-STJ).
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Com efeito, no que tange à alegada violação aos artigos 489 e 1022 do CPC/15, não merece acolhimento a insurgência, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduz a ora agravante a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso, contraditório relação concordância dos demais sócio acerca da retirada do dinheiro da conta corrente da empresa.
+Contudo, da leitura dos autos, constata-se que referida tese foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fls. 678/680, e-STJ):
+Não visualizo nulidade alguma na sentença. Foi concisa, objetiva, mas não omissa no tocante à análise da prova testemunhal e dos argumentos veiculados pelas partes.
+Como bem ponderou o STJ, "Inexiste nulidade do julgamento se a fundamentação, embora concisa, for suficiente para a solução da demanda" (AgRg no AREsp 36.140/Herman Benjamin), o que ocorreu na espécie.
+Com efeito, o juízo "a quo" entendeu pela configuração de ilicitude na conduta do réu, ora apelante, pois verificou, por meio do depoimento do contador arrolado pela parte demandada, a ocorrência de prática irregular. Embora alegue o recorrente a licitude da transferência de valores por ele efetivada, não foi acolhida a sua tese defensiva. A alegação de descumprimento de cláusula do contrato social não se mostra suficiente para justificar a operação financeira realizada pelo administrador da sociedade ao transferir numerário da empresa para sua conta pessoal.
+Portanto, rejeito a prefacial.
+Quanto às alegações de licitude da conduta praticada, tendo havido a concordância dos demais sócios acerca dos valores por ele transferidos para sua conta bancária, examinando o conjunto fático- probatório dos autos, entendo que os argumentos apresentados nas razões recursais não são capazes de afastar o entendimento exarado na sentença guerreada.
+Segundo a inteligência do art. 1.031 do Código Civil, "nos casos em que a sociedade se resolver em relação a um sócio, o valor da sua quota, considerada pelo montante efetivamente realizado, liquidar-se-á, salvo disposição contratual em contrário, com base na situação patrimonial da sociedade, à data da resolução, verificada em balanço especialmente levantado".
+No caso concreto, está demonstrado nos autos que o administrador, ora apelante, sacou os valores de forma unilateral, sem submeter as verbas à devida análise dos demais sócios da pessoa jurídica. Não houve, em conformidade com a lei, o exercício da retirada societária mediante balanço especial, necessário para apuração de haveres.
+Conforme fundamentou, em seus termos, a r. sentença da lavra do Dr. [NOME], MM. Juiz de Direito, "é ilícita a conduta do réu, pois não aguardou o desfecho da ação de dissolução (atualmente em tramitação) e tal comportamento configura o exercício arbitrário das próprias razões".
+Dita arbitrariedade cometida pelo administrador [NOME], ora apelante, configura ilicitude manifesta, conforme preceituado no art. 186 do Código Civil, pois verificada a violação de direito e o dano causado aos sócios autores desta ação, ora apelada; dessa forma, reconhecido o cometimento do ato ilícito, impõe-se a manutenção da decisão de restituição dos valores retirados de forma unilateral da conta pertencente à sociedade empresária.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA O ACÓRDÃO RECORRIDO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OU OBSCURIDADE. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC. FALTA DE INTIMAÇÃO PARA ACOMPANHAR VISTORIA. ART. 431-A DO CPC. PREJUÍZO NÃO DEMONSTRADO. NULIDADE. AUSÊNCIA. DECADÊNCIA. PRAZO. TERMO INICIAL. ART. 618, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. NÃO OCORRÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ ..
+(REsp 1296849/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+2. Por fim, no que tange à alegação de ofensa ao art. 85 do Código de Processo Civil de 2015, a parte recorrente pretende a redução da verba honorária fixada pelo Tribunal de origem.
+Com efeito, conforme pacífica jurisprudência do Superior Tribunal de Justiça, só é permitido modificar valores fixados a título de honorários advocatícios se estes se mostrarem irrisórios ou exorbitantes, exigindo-se, ainda, que as instâncias ordinárias não tenham emitido concreto juízo de valor sobre o tema.
+No presente caso, o Tribunal de origem decidiu que (fls. 681/682, e-STJ):
+Por fim, quanto ao pedido de redução da verba sucumbencial fixada na sentença em favor dos procuradores da parte autora, ora apelada, não merece prosperar o recurso, pois os honorários advocatícios devem ser arbitrados com moderação e justeza, mas sem caracterizar retribuição ínfima ou demasiada, de certa forma desestimulante e incompatível com a dignidade da profissão. Devem ser arbitrados com vistas ao caso concreto, de molde a que representem adequada remuneração ao trabalho profissional.
+Na espécie, observado o trabalho desenvolvido pelos procuradores, o tempo despendido e a natureza da demanda, a verba honorária fixada em 10% sobre o valor da condenação na ação principal e em R$ 800,00 (oitocentos reais) na cautelar mostra-se adequada à espécie, quantia que remunera apropriadamente o trabalho exigido e produzido pelos profissionais.
+Logo, houve evidente exercício de juízo de valor pela Corte de origem acerca da atividade profissional desenvolvida na lide, razão pela qual resta claro que novo enfrentamento da matéria pressupõe, necessariamente, o ingresso nos aspectos fáticos da demanda, atividade cognitiva esta a que não se presta a via do recurso especial, ante o óbice da Súmula 07/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PERÍCIA. QUESITOS. HONORÁRIOS SUPLEMENTARES. PRECLUSÃO. PREQUESTIONAMENTO FICTO. AUSÊNCIA. DUPLICATA. LAUDO PERICIAL CONCLUSIVO. AUSÊNCIA DE RECEBIMENTO DAS MERCADORIAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL ADEQUADO. HONORÁRIOS RECURSAIS. TRABALHO ADICIONAL. DISPENSABILIDADE. MULTA. ART. 1.021, § 4º, DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. A agravante não formulou os quesitos no momento oportuno, bem como não interpôs recurso contra decisão que, relevando a falha, admitiu a complementação do laudo pericial, desde que condicionada ao pagamento de honorários suplementares, não sendo possível rever tais questões consideradas preclusas.
+2. O STJ concluiu que a caracterização do prequestionamento ficto exige que no mesmo recurso seja apontada violação ao art. 1.022 do CPC/2015, a fim de que esta Corte possa aferir a existência do vício do acórdão a viabilizar a supressão de instância admitida no art. 1.025 do CPC/2015.
+3. Não aceita a duplicata, é imprescindível a comprovação do recebimento das mercadorias retratadas nas notas fiscais.
+Precedentes.
+4. O Tribunal de origem reconheceu que o laudo pericial foi conclusivo quanto à ausência de recebimento das mercadorias pela parte agravante. Nesse contexto, a modificação desse entendimento demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial (Súmula 7/STJ).
+5. Na hipótese em exame, o quantum fixado, a título de verba honorária, pelo magistrado singular, não se caracteriza como exorbitante, tendo em vista que fixado em 10% sobre o valor da causa  à qual o próprio agravante atribuiu o valor de R$ 106.056,93 (cento e seis mil, cinquenta e seis reais e noventa e três centavos)  , percentual inserto dentro dos parâmetros previstos no art. 85, § 2º, c/c o § 6º do CPC/2015, para a hipótese de improcedência do pedido.
+6. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal.
+7. Agravo interno não provido.
+(AgInt no AREsp 1316667/AM, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/10/2018, DJe 25/10/2018)
+3. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+(..)
+3. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+(AgInt no AREsp 1052768/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+ Publique-se.
+ Intimem-se.
