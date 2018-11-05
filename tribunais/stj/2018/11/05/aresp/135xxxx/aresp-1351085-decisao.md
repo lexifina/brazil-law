@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por DEPES & PERDIGÃO DISTRIBUIDORA DE PRODUTOS METALÚRGICOS LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+"APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO CAUTELAR INCIDENTAL. CANCELAMENTO DE PROTESTOS. IMPOSSIBILIDADE. INADEQUAÇÃO DO MEIO PROCESSUAL UTILIZADO. 1. O cancelamento de protesto deve ser buscado por meio de ação de conhecimento, uma vez que, conforme determinado na Lei nº 9.492/97, quando fundado em motivo distinto do pagamento, esse cancelamento vai depender do reconhecimento da inexistência ou inexigibilidade da obrigação, o que só pode ser alcançado no processo de conhecimento. 2. Desse modo, o presente processo cautelar deve ser extinto sem resolução do mérito por carência da ação. 3. Recurso conhecido, porém desprovido. Extinção do processo sem resolução do mérito" (e-STJ fl. 329).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos arts. 462 e 796 do Código de Processo Civil de 1973, ao fundamento de que os protestos em questão devem ser cancelados pois ocorreram após a propositura da ação indenizatória, sendo descabida a exigência de ajuizamento de processo com o objetivo de discutir direito já reconhecido em outro feito.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 462 e 796 do CPC/1973, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No caso em tela, a ação principal é uma indenizatória, onde a demandante requer a condenação da demandada ao pagamento da cláusula penal compensatória prevista no contrato, além de indenização por danos emergentes, lucros cessantes e danos morais, com fundamento em suposta quebra contratual por parte da requerida. Nessa ação principal não há sequer menção a pedido de cancelamento de protesto, não se vislumbrando a instrumentalidade nem a acessoriedade do processo cautelar em relação ao processo principal.
+Não há como o cancelamento dos protestos garantir a efetividade do processo indenizatório, pois neste não se discute a validade dos títulos protestados" (e-STJ fl. 334).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Por fim, além de os mesmos óbices sumulares inviabilizarem o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, a tese de dissídio jurisprudencial, diante das normas legais regentes da matéria (arts. 1.029 do CPC/2015 e 255 do RISTJ), exige confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
