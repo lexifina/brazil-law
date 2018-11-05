@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROBERTO DIOGO DE ALMEIDA e MARCIO RODRIGUES DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu seu apelo nobre.
+Consta dos autos que os agravantes foram condenados pela prática do delito descrito no artigo 157, § 2º, incisos I e II, do Código Penal, respectivamente, à pena de 9 (nove) anos, 9 meses e 10 (dez) dias de reclusão, em regime inicial fechado e pagamento de 23 (vinte e três) dias-multa, no valor mínimo legal, e 9 (nove) anos e 2 (dois) meses de reclusão, em regime inicial fechado e pagamento de 22 (vinte e dois) dias-multa, no valor mínimo legal.
+Interposto recurso especial, este não foi admitido pela Instância de origem, ensejando a presente insurgência, na qual os recorrentes sustentam que o óbice indicado na decisão objurgada não incidiria na hipótese dos autos.
+Requerem o acolhimento do agravo a fim de que seja admitido o recurso especial.
+Parecer do Ministério Público Federal às fls. 552/554.
+É o relatório.
+No recurso especial, as partes alegam divergência jurisprudencial, salientando ausência de fundamentação idônea para aumentar a pena na terceira fase da dosimetria, ressaltando que o magistrado apenas apontou o número de majorantes. Pretendem, em síntese, seja reduzida a fração de aumento de pena oriunda da aplicação das majorantes do crime de roubo para o patamar mínimo legal.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto não merece seguimento.
+Como é possível verificar, as partes não lograram demonstrar o dissídio jurisprudencial, com relação à fixação da fração das majorantes do delito de roubo, nos termos em que exigido pela legislação processual de regência (artigo 541, parágrafo único, do Código de Processo Civil, c.c. artigo 255 do Regimento Interno do Superior Tribunal de Justiça).
+Constata-se que os agravantes limitaram-se a citar apenas a ementa da decisão. Todavia, para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+A propósito, veja-se:
+PROCESSUAL CIVIL. PRESCRIÇÃO. ART. 1º DO DECRETO 20910/1932. EMPRESA PÚBLICA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. (..)
+4. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 863.380/AC, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 29/02/2012, DJe 13/04/2012)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 253, parágrafo único, inciso II, alínea a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
