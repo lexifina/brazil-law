@@ -1,0 +1,14 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE MULTA COMINATÓRIA. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO EM RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL A QUE SE NEGA SEGUIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL, com fundamento na alínea c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TJ/MS, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. EXECUÇÃO DE MULTA COMINATÓRIA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO A FIM DE APURAR O VALOR CONTROVERSO DA MULTA. CARÁTER PRECÁRIO DAS ASTREINTES. DECISÃO REFORMADA. RECURSO PROVIDO.
+O montante fixado a título de astreintes, quando controverso, necessita ser previamente liquidado, devendo ser estipulado o seu termo inicial e final, bem como o seu valor definitivo, para que ela possa ser posteriormente executada em sede de cumprimento de sentença.
+2. Não foram opostos Embargos de Declaração.
+3. Nas razões do seu Apelo Nobre, a parte recorrente alega dissídio de interpretação jurisprudencial, ao argumento de que o entendimento do STJ é no sentido de ser automática a imposição de multa cominatória, não havendo necessidade de procedimento de liquidação.
+4. Com contrarrazões (fls. 83/89), o Apelo Nobre foi inadmitido (fls. 91/93).
+5. É o relatório.
+6. De início, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Código Fux (Enunciado Administrativo 3).
+7. No que tange à alegação de divergência jurisprudencial, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado. A interposição de Recurso Especial para o Superior Tribunal de Justiça requer o primoroso atendimento de requisitos constitucionais de alta definição jurídica; assim, a demonstração da chamada divergência pretoriana deve se dar de forma analítica e documentada, por meio do cotejo analítico, para se comprovar que a decisão recorrida está em desacordo com precedentes julgados de outros Tribunais, inclusive e especialmente deste STJ (art. 105, III, c da Carta Magna).
+8. Ocorre que, no caso, a análise da demonstração da divergência não veio manifestada de forma escorreita e precisa, exata e completa. Apresentou-se o paradigma apenas por sua ementa, sem que fosse feito o indispensável  cotejo, com a conclusão de discrepância, fato que impede o conhecimento do recurso pela alínea c do permissivo constitucional (art. 1.029, § 1o. do Código Fux).
+9. Ante o exposto, nega-se seguimento ao Agravo em Recurso Especial do MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL.
+10. Publique-se. Intimações necessárias.
