@@ -1,0 +1,24 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONCESSÃO. CLÁUSULA DE ELEIÇÃO DE FORO. NÃO SIGNATÁRIO DO CONTRATO. INVIABILIDADE DE INVOCAR A CLÁUSULA. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/1973. AGRAVO EM RECURSO ESPECIAL DA ANTT A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento no art. 105, III, a da Constituição da República, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CONTRATO ADMINISTRATIVO. EXCEÇÃO DE INCOMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DO FORO. ANTT.
+Hipótese em que inviável a incidência da cláusula de eleição de foro, eis que demanda não foi proposta contra a autoridade concedente, não objetivando dirimir controvérsias quanto à execução do contrato de concessão, devendo manter- se a competência do juízo a quo para julgamento da demanda (fls. 102).
+2. Os Embargos de Declaração opostos foram providos parcialmente para fins de prequestionamento (fls. 121/123).
+3. No Apelo Nobre, a parte recorrente aponta violação dos arts. 535, II, 111 do CPC/1973; 55 da Lei 8.666/1993; Lei 10.233/2001; Súmula 335/STF, aos seguintes fundamentos: (a) a despeito da oposição dos Embargos de Declaração, o acórdão recorrido foi omisso quanto aos dispositivos apontados como violados; e (b) o juízo originário é incompetente para processar e jugar a ação que trata da execução de contrato de concessão, porquanto a cláusula vigésima segunda do contrato de concessão que trata da eleição de foro estabeleceu que os conflitos que viessem a surgir na execução do contrato deveriam ser solucionados no foro de Brasília.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 183/187).
+5. É o relatório.
+6. De início, cumpre ressaltar que, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+7. No mais, da leitura atenta do acórdão combatido, verifica-se que o Tribunal de origem, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões posta à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte agravante, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade não se verifica a aludida ofensa ao art. 535, do CPC/1973.
+8. No mérito, o acórdão recorrido está em conformidade com a jurisprudência desta Corte, segundo a qual não é possível àquele que não é signatário do contrato invocar a prevalência de cláusula de eleição de foro.
+9. A propósito, citam-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC DE 1973. AUSÊNCIA DE VIOLAÇÃO. ANTT. NÃO SIGNATÁRIA DO CONTRATO DE CONCESSÃO. CLÁUSULA DE ELEIÇÃO DE FORO. NÃO INCIDÊNCIA. SÚMULA 83/STJ.
+1. Ausente a violação do art. 535 do CPC/1973, porquanto o acórdão de origem fundamentou, claramente, o posicionamento por ele assumido, resolvendo todas as questões levantadas pela agravante.
+2. Está pacificada nesta Corte a orientação de que, nos termos dos arts. 94 e 100 do CPC/1973, a cláusula de eleição de foro não prevalece quando uma das partes demandadas não foi signatária do pacto. Incidência da Súmula 83 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp. 711.234/PR, Rel. Min. DIVA MALERBI, DJe 17.6.2016).
+
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIO. EXCEÇÃO DE INCOMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. NECESSIDADE DE REEXAME DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DA SÚMULA 5/STJ. PRECEDENTES.
+1. Não há a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, uma vez que o acórdão recorrido afastou expressamente a cláusula de eleição de foro.
+2. Nos termos da jurisprudência desta Corte, aquele que não é parte na celebração contratual, não pode invocar cláusula de pacto do qual não figura como signatário, por decorrência da exegese dos arts. 94 e 100 do Código de Processo Civil. Dispor de maneira diversa demandaria a interpretação das cláusulas do contrato de concessão, providência obstada, em sede de recurso especial, pela Súmula 5/STJ. Agravo regimental improvido (AgRg no AREsp. 725.885/PR, Rel. Min. HUMBERTO MARTINS, DJe 24.9.2015).
+10. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da ANTT.
+11. Publique-se.
+12. Intimações necessárias.
