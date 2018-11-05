@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial em virtude da aplicação da Súmula n. 7 do STJ (e-STJ fls. 179/182).
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 80):
+APELAÇÃO CÍVEL - CUMPRIMENTO DA SENTENÇA - DEVEDOR QUE EFETUA ESPONTANEAMENTE O DEPÓSITO DO VALOR DEVIDO - DEVERÁ SER MANTIDA A SENTENÇA QUE EXTINGUE A EXECUÇÃO PELO PAGAMENTO DA OBRIGAÇÃO - RECURSO CONHECIDO E IMPROVIDO.
+O primeiro recurso especial (e-STJ fls. 109/121) foi provido ante a violação do art. 535 do CPC/1973 (e-STJ fls. 148/149).
+Com o retorno dos autos ao Tribunal de origem, foi proferido novo julgamento dos embargos de declaração, restando o acórdão assim ementado (e-STJ fl. 162):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - RETORNO DO STJ PARA CORREÇÃO DE OMISSÃO CONSTATADA NO JULGADO - CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS - DEPÓSITOS REALIZADOS PELO DEVEDOR ANTES DE INICIADA A FASE DE EXECUÇÃO - SUFICIÊNCIA - RECURSO CONHECIDO E PROVIDO, MAS SEM ALTERAÇÃO DO JULGADO.
+Se os depósitos foram realizados pelo devedor antes mesmo de iniciada a fase de cumprimento de sentença e, portanto, sendo impossível a incidência da multa do artigo 475-J, do CPC/1973 e de honorários advocatícios para esta fase de execução, evidencia-se a suficiência dos pagamentos realizados pelo devedor, com a quitação integral da dívida.
+No especial (e-STJ fls. 169/176), interposto com base no art. 105, III, alínea "a", da CF, o recorrente apontou violação do art. 468 do CPC/1973 (atual art. 503 do CPC/2015). Sustentou, em síntese, que para a quitação do débito os depósitos realizados deveriam observar o valor do título executivo, sendo necessário, ainda, o envio dos autos à contadoria judicial para a realização dos cálculos.
+No agravo (e-STJ fls. 184/190), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 192).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+Com efeito, o recurso deve observar o princípio da dialeticidade, ou seja, apresentar as razões pelas quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 1.010, II e III, do CPC/2015, correspondente ao art. 514, II, do CPC/1973), a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com os motivos expendidos no recurso.
+No caso, o Tribunal de origem, no julgamento da apelação, entendeu que os depósitos seriam suficientes, haja vista que promovidos antes mesmo do início da fase do cumprimento de sentença. Confira-se (e-STJ fls. 165/166):
+Incumbe-nos frisar que a apelada foi condenada ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais). Mesmo antes de ter início a fase de cumprimento de sentença, foram realizados dois depósitos. O primeiro foi feito em 10.06.2009, no valor de R$ 2.903,75 (dois mil, novecentos e três reais e setenta e cinco centavos f. 97) e o segundo realizado em 08.02.2010, no importe de R$ 8.596,25 (oito mil, quinhentos e noventa e seis reais e vinte e cinco centavos f. 134), totalizando R$ 11.500,00 (onze mil e quinhentos reais).
+Ora, se os depósitos foram realizados antes mesmo de iniciada a fase de cumprimento de sentença (petição protocolada em 14.05.2010) e, portanto, sendo impossível a incidência da multa do artigo 475-J, do CPC/1973 e de honorários advocatícios para a fase de execução, evidencia-se a suficiência da importância depositada pela devedora e inclusive já levantada pelo credor.
+Aliás, compulsando os autos em apenso (feito n.º 001.07.066655-6), infere-se que a sentença de primeiro grau havia fixado a indenização em R$ 2.500,00 (69-73, dos autos em apenso), sendo proferida em 29.05.2009. A intimação das partes ocorreu em 05.06.2009 (f. 75, dos autos em apenso) e já em 10.06.2009 foi feito o primeiro depósito de R$ 2.903,75, ou seja, o valor da condenação devidamente atualizado (f. 97, dos autos em apenso).
+Após, o Tribunal de Justiça, no julgamento do recurso de apelação ocorrido em 28.01.2010, majorou o valor indenizatório para R$ 10.000,00 (f. 111-115, dos autos em apenso), sendo as partes intimadas em 03.02.2010 (f. 116). Rapidamente, em 08.02.2010, a devedora já realizou o depósito de R$ 8.596,25 (f. 134, dos autos em apenso), referente à diferença entre o primeiro pagamento e a condenação imposta no acórdão.
+Portanto, resta estreme de dúvida que os depósitos realizados pela devedora são suficientes para a quitação integral da dívida.
+Contudo, no especial, o recorrente não impugnou esse fundamento, a saber, que os valores foram depositados antes do início da fase do cumprimento de sentença, haja vista que apenas defende que referidos valores não correspondem ao total devido, motivo pelo qual entende deveriam os autos serem encaminhados à contadoria judicial. Assim, é imperioso reconhecer que trouxe alegações dissociadas do que ficou decidido no acórdão recorrido, incidindo, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF. 3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Por outro lado, mesmo que superado esse óbice, firmadas as premissas de que (1) os depósitos são suficientes e (2) foram realizados antes da fase de cumprimento de sentença, o recurso especial, no ponto em que assevera serem os depósitos insuficientes, é inadmissível porque exigiria novo exame do conteúdo fático-probatório, o que não se permite, nos termos da Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
