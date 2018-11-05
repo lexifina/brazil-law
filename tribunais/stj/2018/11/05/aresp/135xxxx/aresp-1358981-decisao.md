@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+" AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. ABONO DE DEDICAÇÃO INTEGRAL. MUDANÇA DE INTERPRETAÇÃO JURISPRUDENCIAL. IMPOSSIBILIDADE DE RESCISÃO. OFENSA À COISA JULGADA.
+I. A ação rescisória não pode ser utilizada como recurso porque isso não está previsto em lei. Inexistindo motivos de invalidade ou de injustiça pairando sobre a decisão que se pretende rescindir, não serve a ação rescisória para rever ou rediscutir questão já transitada em julgado.
+II. No caso concreto, não se vislumbra a incidência das hipóteses previstas no art. 966, V e VIII, do CPC/2015 (art. 485, V e VII, do CPC/1973), ou seja, violação literal de disposição de lei ou erro de fato. Aliás, mesmo que a interpretação sobre a matéria fosse controvertida nos Tribunais Superiores, ainda assim, não seria cabível a ação rescisória, o que se depreende da Súmula 343, do STF. Ademais, se atualmente a jurisprudência do STJ modificou o entendimento sobre a questão objeto da ação rescindenda, descabe fazê-lo avançar sobre a coisa julgada, em afronta aos arts. 502 e 508, do CPC/2015 (arts. 467 e 474, do CPC/1973), e gerando a tão combatida insegurança jurídica. Precedentes do STJ.
+III. Além disso, os alimentos são em regra, irrepetíveis, ou seja, não são passíveis de restituição por se tratarem de prestação pecuniária que visa a sobrevivência da pessoa, com fundamento no princípio da dignidade da pessoa humana. Dessa forma, o bem jurídico vida estaria acima de qualquer outro posto em confronto.
+AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE" (fl. 959 e-STJ).
+Nas razões do especial, a agravante alegou violação dos seguintes dispositivos com as respectivas teses:
+(i) art. 966, V e VIII, do Código de Processo Civil de 2015 (CPC/2015) - existência de erro de fato e violação literal a dispositivo de lei que justificam a procedência da ação rescisória; e
+(ii) art. 3º da Lei Complementar 108/2001 - haja vista o pagamento de benefício sem o correspondente custeio, provocando desequilíbrio do fundo previdenciário e prejuízo aos demais assistidos.
+Aduziu que, "no momento em que transitou em julgado a decisão de mérito no processo de conhecimento (03/09/2014), a jurisprudência desta Corte encontrava-se consolidada em sentido contrário (31/07/2014), o que enseja o cabimento e, sobretudo, a procedência da ação rescisória" (fl. 1.048 e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Acerca da controvérsia, o Tribunal de origem julgou improcedente o pedido formulado na ação rescisória, consoante os seguintes fundamentos:
+"(..)
+De início, cumpre dizer que a ação rescisória não pode ser utilizada como recurso porque isso não está previsto em lei. Desta forma, inexistindo motivos de invalidade ou de injustiça pairando sobre a decisão que se pretende rescindir, não serve a ação rescisória para rever ou rediscutir questão já transitada em julgado.
+Em segundo lugar, apesar da alegação de ausência de custeio e de que se trata de verba de natureza indenizatória, na época em que a ora autora foi condenada a incorporar o abono na complementação de aposentadoria do requerido, a jurisprudência, tanto desta Corte, como do egrégio STJ, era francamente favorável à tese defendida pelo beneficiário" (fl. 962 e-STJ)
+Segundo o entendimento desta Corte Superior, a alteração jurisprudencial quanto à impossibilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação da aposentadoria pagos por entidade fechada de previdência privada não autoriza a propositura de ação rescisória.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO APELO EXTREMO. SÚMULAS 283 E 284 DO STF. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO NA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada, bem como a ausência de demonstração da suposta violação à legislação federal, impede o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. O recente entendimento da Corte Especial deste Tribunal Superior é de que "a alteração jurisprudencial quanto à inviabilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada posterior à manifestação transitada em julgado não autoriza o manejo da ação rescisória" (EAREsp n. 397.326/MG, Relator Ministro Humberto Martins, Corte Especial).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.073.393/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/9/2017, DJe 2/10/2017)
+"AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. TEMA PACIFICADO À ÉPOCA. ALTERAÇÃO DE ENTENDIMENTO. VIOLAÇÃO LITERAL DE LEI. AFASTAMENTO. SÚMULA Nº 343/STF. APLICAÇÃO. ERRO DE FATO. NÃO CONFIGURAÇÃO. NATUREZA DA VERBA. EFETIVA DISCUSSÃO.
+1. A violação de literal disposição de lei que autoriza o ajuizamento de ação rescisória é aquela que enseja flagrante transgressão do "direito em tese". Assim, a pacificação da jurisprudência da Corte em sentido contrário e em momento posterior à prolação do acórdão rescindendo não afasta a incidência da Súmula nº 343/STF. Precedentes da Corte Especial.
+2. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC/2015). Isso porque, se houve controvérsia na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+3. Na situação em exame, a interpretação feita pelo acórdão rescindendo da legislação aplicável ao caso concreto não foi desarrazoada ou teratológica, tanto que seguiu a orientação jurisprudencial pacífica da época, o que atrai a incidência da Súmula nº 343/STF. Ademais, houve a efetiva discussão sobre a natureza jurídica do auxílio-cesta-alimentação - se verba de caráter remuneratório ou indenizatório -, a afastar a alegação de erro de fato.
+4. Agravo interno não provido."
+(AgInt na AR 5.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 23/8/2017, DJe 19/10/2017)
+Incide, portanto, a Súmula nº 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais".
+Quanto ao art. 966, VIII, do CPC/2015, a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato (art. 966, § 1º, do CPC/2015). Isso porque, se houve controvérsia acerca do fato na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+Na espécie, houve a discussão efetiva no acórdão rescindendo acerca da natureza jurídica do auxílio cesta-alimentação - se verba de caráter remuneratório ou indenizatório -, a afastar, portanto, a alegação de erro de fato.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial
+Tendo a Corte local fixado os honorários advocatícios no valor de R$ 3.000,00 (três mil reais - fl. 970 e-STJ), majora-se a quantia para R$ 3.500,00 (três mil e quinhentos reais), em atendimento ao art. 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
