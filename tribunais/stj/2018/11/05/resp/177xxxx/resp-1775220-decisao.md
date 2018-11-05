@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por MARIA APARECIDA PEREIRA GOZO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 190, e-STJ):
+GRATUIDADE PROCESSUAL - PESSOA FÍSICA - DECLARAÇÃO - AFIRMAÇÃO DA CONDIÇÃO DE POBREZA - ELEMENTOS COMPATÍVEIS COM A ALEGADA NECESSIDADE - DEFERIMENTO - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER - CONSÓRCIO - VALORES - PAGAMENTO - DESISTÊNCIA - PEDIDO DE DEVOLUÇÃO IMEDIATA - IMPOSSIBILIDADE - RESTITUIÇÃO - SESSENTA DIAS APÓS O ENCERRAMENTO DO GRUPO OU POR CONTEMPLAÇÃO - CONTRATO FIRMADO APÓS A VIGÊNCIA DA LEI Nº 11.795/08 - INAPLICABILIDADE DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA Nº 1.119.300/RS - PRECEDENTE JURISPRUDENCIAL - RECLAMAÇÃO Nº 3.752-GO- STJ.
+CÓDIGO DE DEFESA DO CONSUMIDOR - APLICAÇÃO - CLÁUSULA PENAL - DEDUÇÃO EM FAVOR DA ADMINISTRADORA - IMPOSSIBILIDADE - PREJUÍZOS - AUSÊNCIA DE COMPROVAÇÃO - ÔNUS - RÉU -INCUMBÊNCIA.
+CORREÇÃO MONETÁRIA - INCIDÊNCIA A PARTIR DE CADA DESEMBOLSO - SÚMULA 35 DO STJ - JUROS DE MORA - MARCO INICIAL - MOMENTO EM QUE EXIGÍVEL A RESTITUIÇÃO.
+APELO DA AUTORA PARCIALMENTE PROVIDO.
+Nas razões do especial (fls. 203/2012, e-STJ), a recorrente alega, além de dissídio jurisprudencial, violação aos artigos 47 e 51 do Código de Defesa do Consumidor. Sustenta, em síntese, que "A imposição prevista no contrato de adesão do consórcio de que a restituição das importâncias pagas somente ocorrerá após o encerramento do prazo do consórcio afronta os princípios da proporcionalidade e razoabilidade. A devolução imediata das parcelas pagas pelo consorciado não implicou qualquer prejuízo ao funcionamento do grupo, uma vez que o recorrido repassou a cota a outro interessado, assegurando, dessa forma, a continuidade do plano funcionamento do grupo.
+A restituição dos valores pagos somente após o término do grupo encontra-se em flagrante dissonância com a Legislação Consumerista traduzindo-se em retenção indevida e abusiva do dinheiro do consorciado".
+Contrarrazões (fls. 238/247, e-STJ), e após decisão de admissão do recurso especial (fls. 248/250, e-STJ), os autos ascenderam a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Esta Corte Superior recentemente firmou, sob o rito do recurso repetitivo, nos termos do art. 543-C do CPC/73, entendimento no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano" (REsp 1.119.300/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 14/4/2010, DJe 27/8/2010).
+A determinação de devolução imediata dos valores poderia causar uma surpresa contábil ao grupo, que deve se recompor, no sentido de reestruturar o valor das prestações devidas pelos demais participantes, ou, até mesmo, a extensão do prazo de contemplação, onerando o grupo e os demais consorciados.
+O referido julgado restou assim ementado:
+RECURSO ESPECIAL REPETITIVO. JULGAMENTO NOS MOLDES DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. CONSÓRCIO. DESISTÊNCIA. DEVOLUÇÃO DAS PARCELAS PAGAS PELO CONSORCIADO. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO.
+1. Para efeitos do art. 543-C do Código de Processo Civil: é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano.
+2. Recurso especial conhecido e parcialmente provido.
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONSÓRCIO. DESISTÊNCIA DO CONSORCIADO. DEVOLUÇÃO DAS PARCELAS PAGAS. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. MATÉRIA DECIDIDA EM RECURSO ESPECIAL REPETITIVO. CONTRATOS CELEBRADOS APÓS 6/2/2009, NA VIGÊNCIA DA LEI 11.795/2008. APLICAÇÃO. RECURSO IMPROVIDO.
+1. Nos termos do julgamento proferido no REsp 1.119.300, processado nos termos do art. 543-C do CPC/1973, "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano" (Rel. Min. LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 27/8/2010).
+2. Consoante decidido pela Segunda Seção na Rcl 16.390/BA, "Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008" (Rel. Min. MARIA ISABEL GALLOTTI, DJe de 13/9/2017).
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1617560/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+RECLAMAÇÃO. PROCESSAMENTO. RESOLUÇÃO 12/2009-STJ. DISTRIBUIÇÃO ANTERIOR À RESOLUÇÃO 3/2016-STJ. CONSÓRCIO. DESISTÊNCIA OU EXCLUSÃO.RESTITUIÇÃO DE PARCELAS. ENCERRAMENTO DO GRUPO. RECURSO REPETITIVO.CONTRATOS CELEBRADOS APÓS 6.2.2009, NA VIGÊNCIA DA LEI 11.795/2008. GRUPO DE CONSÓRCIO INICIADO NA VIGÊNCIA DA LEGISLAÇÃO ANTERIOR.
+1. A reclamação distribuída e pendente de apreciação antes da publicação da Resolução-STJ 3/2016, que delegou competência aos Tribunais de Justiça para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão proferido por Turma Recursal estadual ou do Distrito Federal e a jurisprudência do STJ, deve ser processada e julgada por este Tribunal, na forma disciplina da pela Resolução-STJ 12/2009.
+2. Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008.
+3. Hipótese, ademais, em que o interessado aderiu, em dezembro 2009, a grupo de consórcio iniciado antes da entrada em vigor da Lei 11.795/2008.
+4. Reclamação procedente.
+(Rcl 16.390/BA, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 13/09/2017)
+Desta forma, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior acerca da matéria, o recurso especial não merece prosperar, ante a incidência da Súmula n. 83 do STJ, aplicável para ambas as alíneas do permissivo constitucional.
+2. Do exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
