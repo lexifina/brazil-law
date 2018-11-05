@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO. DESERÇÃO. INCIDÊNCIA DA SÚMULA 187/STJ.
+1. O recurso especial foi interposto na vigência do CPC/1973, sujeitando-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2/STJ.
+2. Na espécie, o Tribunal de origem indeferiu o pedido de assistência judiciária gratuita. À luz do CPC/1973, no ato de sua interposição o recurso especial deve estar acompanhado das guias do preparo e respectivos comprovantes de pagamento sob pena de deserção, nos termos do art. 511, caput, do CPC/1973 e da Súmula 187/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno contra decisão da Presidência que inadmitiu recurso especial ao fundamento de incidência da súmula 187/STJ.
+A agravante alega "ao propor a ação em primeiro grau, a recorrente formulou pedido expresso de reconhecimento ao direito público subjetivo à gratuidade de justiça, presente às e-STJ fls. 17 e ss, através da Defensoria Pública, e instruiu a exordial com declaração de hipossuficiência, o qual foi tacitamente aceito pelo Juízo, já que não indeferido, tendo em vista a normal tramitação do feito daí em diante" (fls. 349).
+Impugnação apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO. DESERÇÃO. INCIDÊNCIA DA SÚMULA 187/STJ.
+1. O recurso especial foi interposto na vigência do CPC/1973, sujeitando-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2/STJ.
+2. Na espécie, o Tribunal de origem indeferiu o pedido de assistência judiciária gratuita. À luz do CPC/1973, no ato de sua interposição o recurso especial deve estar acompanhado das guias do preparo e respectivos comprovantes de pagamento sob pena de deserção, nos termos do art. 511, caput, do CPC/1973 e da Súmula 187/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+O recurso não merece prosperar.
+Sob a égide do Código de Processo Civil de 1973, os recursos interpostos para esta Corte Superior deveriam estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+A propósito:
+PROCESSUAL CIVIL. PREPARO DO RECURSO ESPECIAL. DESERÇÃO. SÚMULA 187/STJ. FORMULAÇÃO POR MEIO DE PETIÇÃO AVULSA OU PAGAMENTO DO PREPARO. MASSA FALIDA. CUSTAS. NÃO APLICAÇÃO DA EXCEÇÃO PREVISTA NA NORMA DO ART. 208 DO DECRETO 7.661/45.
+1. Os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+2. Esta Corte firmou entendimento de que, embora o pedido de assistência judiciária gratuita possa ser feito a qualquer tempo, quando a ação estiver em curso, o pedido deve ser formulado em petição avulsa, a qual será processada em apenso aos autos principais. Ressalte-se que constitui erro grosseiro a não observância dessa formalidade nos termos do art. 6º da Lei 1.060/50.
+3. "A regra inserta no art. 208 do revogado Decreto-Lei 7.661/1945 somente se aplica ao processo principal da falência, excluída a sua incidência em relação às ações autônomas de que a massa falida seja parte. Precedentes" (AgRg no REsp 1.488.508/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/12/2014).
+4. Agravo regimental improvido. (AgRg no AREsp 860.182/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/5/2016)
+Verifica-se que, na hipótese dos autos, o mérito do recurso especial não diz respeito a questões relacionadas à gratuidade de justiça, pois tal assunto em momento algum foi debatido pelas instâncias inferiores.
+Desse modo, não observado este procedimento, considera-se deserto o recurso, atraindo o óbice da Súmula 187/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA E AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. DESERÇÃO. INCIDÊNCIA DA SÚMULA 187/STJ. INADMISSIBILIDADE DE PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NAS RAZÕES DO RECURSO ESPECIAL. OBRIGATORIEDADE DE FORMULAÇÃO DE PEDIDO EM PETIÇÃO AVULSA. AGRAVO REGIMENTAL DOS PARTICULARES DESPROVIDO.
+1. De início, cumpre ressaltar que, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Mediante análise dos autos, verifica-se que o Recurso Especial não foi instruído com a guia de custas e o respectivo comprovante de pagamento, em virtude do requerimento de justiça gratuita efetuado no corpo da peça recursal.
+3. Consoante a pacífica jurisprudência do STJ, não obstante exista a possibilidade de se requerer, em qualquer grau de jurisdição e em qualquer tempo, os benefícios da justiça gratuita, no curso da ação, o pedido deve ser formulado por petição avulsa e apensado aos autos principais, conforme preceitua o art. 6o. da Lei 1.060/1950, caso em que, não seguido este procedimento, considera-se deserto o recurso, atraindo o óbice da Súmula 187/STJ.
+4. Agravo Regimental dos particulares desprovido. (AgRg no AREsp 686.906/AP, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 6/4/2017)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO ESPECIAL NÃO INSTRUÍDO COM AS GUIAS DE CUSTAS DE PAGAMENTO. DESERÇÃO. SÚMULA 187/STJ. BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA NEGADA NAS INSTÂNCIAS DE ORIGEM. NECESSIDADE DE RECOLHIMENTO DO PREPARO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Ainda que o mérito do recurso especial diga respeito ao indeferimento do pedido de justiça gratuita, considera-se deserto o recurso interposto sem o comprovante de pagamento das custas processuais e do respectivo comprovante de pagamento. (AgRg no AREsp 753.672/RS, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/12/2015, DJe 02/02/2016).
+2. Agravo interno não provido. (AgInt nos EDcl no AREsp 929.242/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/5/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO INSTRUÍDO COM AS GUIAS DE CUSTAS E RESPECTIVO COMPROVANTE DE PAGAMENTO. DESERÇÃO. RECURSO ESPECIAL. DISCUSSÃO SOBRE O DIREITO AO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA. NECESSIDADE DE RECOLHIMENTO DO PREPARO.
+1. Ainda que o mérito do recurso especial diga respeito ao indeferimento do pedido de justiça gratuita, considera-se deserto o recurso interposto sem o comprovante de pagamento das custas processuais e do respectivo comprovante de pagamento.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 753.672/RS, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 2/2/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. NÃO COMPROVAÇÃO DA CONDIÇÃO DE MISERABILIDADE. PREPARO. NÃO RECOLHIMENTO. DESERÇÃO. AGRAVO NÃO PROVIDO.
+1. A concessão da gratuidade de justiça deve preceder a interposição do recurso para afastar a exigência de preparo. Precedentes.
+2. Mesmo quando o mérito do recurso especial diga respeito ao indeferimento do pedido de justiça gratuita, considera-se o recurso deserto se interposto sem o comprovante de pagamento das custas processuais ou sem renovação do pedido de gratuidade. Precedente da Corte Especial.
+3. De acordo com entendimento firmado nesta Corte, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário. Precedentes.
+4. O Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Desembargador Federal Convocado do TRF 1ª Região), Quarta Turma, DJe 18/12/2008).
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 708.431/RS, Relator Ministro Luis Felipe Salomão, DJe de 21/10/2015.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NECESSIDADE DE RECOLHIMENTO DE CUSTAS E PORTE DE
+REMESSA E RETORNO NO ATO DA INTERPOSIÇÃO DO RECURSO. NÃO COMPROVAÇÃO. REQUERIMENTO DE JUSTIÇA GRATUITA INDEFERIDO NA ORIGEM. DESERÇÃO.
+1. Ainda que se discuta, nas razões do recurso especial, a concessão da justiça gratuita, havendo o pleito sido indeferido nas instâncias ordinárias, fazia-se necessário o recolhimento do preparo do apelo nobre.
+2. Agravo regimental não provido." (AgRg no AREsp n. 574.454/MG, relator Ministro Moura Ribeiro, DJe de 6/4/2015.) Desse modo, não merece reparo a decisão agravada, a qual deve ser mantida por seus próprios fundamentos, assim expressos: "Mediante análise dos autos, verifica-se que o recurso especial não foi instruído com as guias de custas e o respectivo comprovante de pagamento, em virtude do próprio mérito do recurso dizer a respeito do indeferimento da gratuidade. No entanto, a jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que "em que pese a discussão do feito dizer respeito à concessão da justiça gratuita, como o pleito foi indeferido pela Corte de origem, se fazia necessário o recolhimento do preparo do recurso especial ou a renovação do pedido, nos termos do art. 6º da Lei n. 1.060/50" (AgRg no AREsp 442.048/MS, 2ª Turma, Rel. Min. Humberto Martins, Segunda Turma, DJe de 17/2/2014).
+Assim, não se verifica o atendimento da exigência contida no art. 511, caput, do CPC/1973, segundo a qual, no ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+Cabe acrescentar que no caso concreto, não se aplica o recente entendimento da Corte Especial proferido no AgRg nos EREsp 1.222.355/MG, Rel. Ministro Raul Araújo, julgado em 04/11/2015, DJe 25/11/2015, porque o recurso especial foi interposto em 16/5/2014. Logo, ainda que venha a ser concedido o benefício da gratuidade de justiça, tal deferimento não teria efeitos retroativos, motivo pelo qual não estaria a parte recorrente dispensada de comprovar o preparo no momento da interposição do apelo especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
