@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL PEREIRA DA SILVA e GUILHERME DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0002424-42.2017.8.26.0544).
+Consta dos autos que os pacientes foram condenados à pena de 2 anos de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 10 dias-multa, pela prática do crime previsto no art. 155, § 4º, I e IV, do Código Penal, pois "subtraíram, para ambos, mediante destruição de obstáculo, 01 (uma) televisão, marca Samsung, 04 (quatro) fones de ouvidos, 08 (oito) relógios de marcas diversas, 02 (dois) vidros de perfumes, 01 (um) óculos de sol e outros objetos descritos no auto de exibição e apreensão, tudo de propriedade da vítima  .. , gerando o prejuízo total de R$ 6.710,00 (seis mil setecentos e dez reais)" - e-STJ fl. 17.
+Irresignada, a defesa dos pacientes ingressou com recurso, tendo o Tribunal de origem negado provimento ao apelo nos termos da seguinte ementa (e-STJ fl. 22):
+Furto duplamente qualificado Apelação Consumação bem delineada Pena motivadamente dosava, necessária e suficiente para reprovação e prevenção do delito Sentença mantida Recursos desprovidos.
+Daí o presente writ, no qual sustenta a impetrante constrangimento ilegal na fixação do regime mais severo, tendo em vista que "a reincidência dos pacientes impede a aplicação do regime aberto, no entanto, levando em consideração a natureza do delito e a pena imposta, certamente o regime fechado está em descompasso com os princípios da individualização da pena e da proporcionalidade e com o disposto no artigo 33, do Código Penal" (e-STJ fl. 5).
+Busca, inclusive liminarmente, seja fixado o regime semiaberto para início de desconto da sanção reclusiva.
+O pedido liminar foi deferido (e-STJ fls. 42/44).
+Ouvido, o representante do Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 50/55).
+É, em síntese, o relatório.
+No caso em desfile, razão assiste à impetrante.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+Confira-se:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIMES DE ROUBO MAJORADOS. TESE DE FRAGILIDADE DA PROVA DO CONCURSO FORMAL. NECESSIDADE DE EXAME APROFUNDADO DA PROVA. VIA IMPRÓPRIA. CONSUMAÇÃO DO DELITO.  .. . IMPOSIÇÃO DE REGIME MAIS GRAVOSO. PRESENÇA DE FUNDAMENTAÇÃO CONCRETA. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+ .. .
+5. Justifica-se a imposição do regime prisional mais gravoso, ainda que estabelecida a pena-base no mínimo legal ao réu primário, quando presentes fundamentos que desbordam da gravidade abstrata, e das circunstâncias comuns à espécie, evidenciando a especial reprovabilidade da conduta praticada. Precedentes.
+6. Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas do paciente RENE para 6 anos, 2 meses e 20 dias, de reclusão, e 15 dias-multa. (HC 209.582/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/11/2015, DJe 03/12/2015, grifei.)
+Na espécie, o Magistrado singular, ao estabelecer o regime inicial fechado, amparou-se na seguinte fundamentação (e-STJ fl. 19):
+Diante das diversas reincidências, os réus iniciarão o cumprimento de suas penas no regime fechado, sendo este o mais adequado para o cumprimento dos requisitos de prevenção e repreensão ao crime praticado, sendo-lhes negado o direito de recorrer desta sentença em liberdade, uma vez que se encontram presentes os requisitos que determinaram a manutenção da custódia cautelar reforçados, ainda mais, por esta sentença.
+A Corte de origem, ao negar provimento ao recurso interposto pela defesa, manteve a sentença, tendo assim se manifestado acerca do regime inicial de cumprimento da pena (e-STJ fl. 26):
+As recidivas (inclusive, em crimes patrimoniais) justificam o regime prisional fechado para ambos os réus, além de tornar impossíveis a substituição das reprimendas corporais por penas alternativas (incisos II e III, do artigo 44, do Código Penal), evidenciando que a medida não é socialmente recomendável.
+A questão acerca do regime prisional ora discutida foi apreciada repetidas vezes pelo Superior Tribunal de Justiça, o que culminou na edição da Súmula n. 440, segundo a qual, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido tem sido os reiterados julgados do Supremo Tribunal Federal, cuja jurisprudência está, inclusive, espelhada nos verbetes sumulares n. 718 e 719, respectivamente, in verbis:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, como se vê das transcrições acima, o regime prisional mais severo foi imposto aos pacientes com fundamento na reincidência e na gravidade abstrata do crime de furto. Todavia, essas justificativas não impedem a fixação de regime prisional intermediário, notadamente considerando-se o teor do enunciado n. 269 da Súmula do Superior Tribunal de Justiça, que assim disciplina:
+É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Diante dessas considerações, concedo a ordem para, confirmando a liminar, determinar sejam os pacientes colocados no regime semiaberto, aplicando-se-lhe as regras desse regime.
+Publique-se. Intimem-se.
