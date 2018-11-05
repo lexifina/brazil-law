@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSA MARIA WEBER E OUTRO contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITOS REAIS SOBRE COISAS ALHEIAS. DOAÇÃO COM RESERVA DE USUFRUTO. EXTINÇÃO DE USUFRUTO E REVOGAÇÃO DA DOAÇÃO. PRELIMINAR DE NULIDADE DA SENTENÇA AFASTADA.
+Considerando as peculiaridades do caso em tela, deve ser mantida a sentença recorrida que revogou a doação e extinguiu o usufruto em razão do descumprimento do encargo assumido pela donatária, filha da recorrida. Afora o fato de que deve ser prestigiada a impressão pessoal da magistrada que, em situações como a retratada nos autos, é de extrema relevância, já que teve contato direto com a prova, inclusive testemunhal, e com as partes litigantes.
+RECURSO ADESIVO PROVIDO. Honorários advocatícios majorados e fixados em observância as diretrizes estabelecidas no art. 85, § 2º, do CPC.
+Preliminar afastada. Apelação improvida. Recurso adesivo provido" (fl. 320 e-STJ).
+No especial, além da divergência jurisprudencial, os recorrentes alegam violação do art. 555 do Código Civil. Sustentam, em síntese, que não houve inexecução do encargo, apta a ensejar a revogação da doação.
+Contrarrazões às fls. 372-382 (e-STJ), e não admitido o recurso na origem, adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, quanto ao cumprimento do encargo da doação, o Tribunal de origem consignou o seguinte:
+"(..)
+No que se refere ao cumprimento da obrigação assumida, do quanto se extrai dos presentes autos, entendo que efetivamente os demandados, ora recorrentes, deixaram de cumprir com o ajuste na forma como estipulada.
+Tanto é assim que a doadora necessitou ir morar em um apartamento em Dois Irmãos, próximo a outra filha. Vê-se, ademais, que a doadora há longa data já não estava mais sob os cuidados da donatária, notadamente, considerando o seu depoimento prestado em juízo ao afirmar que não via a mãe sempre.
+(..)
+E, ao meu sentir, a Sra. [NOME] não vem cumprindo com o encargo instituído.
+Inicialmente, cumpre asseverar que a doadora não mais reside com a donatária. Fato incontroverso.
+A autora, [NOME], com 75 anos de idade, em juízo, esclareceu que teve duas filhas, Rejane e Rosa. Disse que seu marido estava muito doente e que por isso fizeram uma reunião com as filhas para decidir quem cuidaria deles e fariam usufruto dos imóveis. Relatou que durante um tempo as coisas deram certo, mas que depois de um tempo nem via mais a filha, que as vezes por dois, três meses não via a filha, disse que a filha somente lhe visita de duas a três vezes por mês.
+Afirmou que fazem dois anos que vai sozinha no médico, que sempre fez a faxina da casa sozinha e que cuida dos remédios sozinha. Relatou que a um tempo atrás caiu e se machucou bastante, mas que ficou sozinha, não tendo recebido nenhuma visita. Aduziu que vai no banco sozinha, vai as compras sozinha, paga as contas sozinha. Disse que a filha Rejane lhe leva várias vezes para passear. Concluiu que acha que a Rosa não gosta dela, porque não vem lhe visitar. Esclareceu que enquanto seu marido era vivo os réus não moravam com a autora e seu marido, somente depois que o marido faleceu que vieram morar lá, que antes disso Gaspar vinha e plantava algumas coisas nas terras, mas que não ficava lá.
+Aduziu que sua casa é separada por uma parede da casa de Rosa, que a parte de Rosa é melhor do que a casa em que reside. Disse que Rosa é enfermeira e trabalha seis horas por dia. Afirmou que Gaspar não lhe leva no ponto de ônibus. Aduziu que Gaspar não faz as melhorias na casa, mesmo com seus pedidos. Afirmou que o reservatório de água está sujo, mesmo tendo pedido para Gaspar limpar, e que esta é a água que usa para lavar roupa e tomar banho, que usa a do poço para cozinhar e tomar. Disse que sua rede elétrica nunca foi trocada, que as melhorias só foram feitas na parte de Gaspar. Enfatizou que se mantém sozinha, que cuida da casa sozinha e que assim o usufruto não tem valor, visto que faz tudo sozinha.
+(..)
+Do cotejo das declarações das testemunhas, conclui-se que o objetivo da doadora não foi alcançado e que a parte donatária não conseguiu cumprir os encargos que ficou incumbida, tanto que a doadora necessitou ir residir em um apartamento em Dois Irmãos próximo a outra filha. Aliás, vê-se que de longa data a doadora não estava mais sob os cuidados da donatária, que em juízo admitiu que não via a mãe sempre, enquanto que o encargo também foi assumido por esta, levando sua mãe a ingressar com a presente demanda, e posteriormente mudar-se em busca de algum amparo de familiares.
+Convém respaldar que assistência não se resume a trocar poucas palavras com a autora, assistência consiste em auxílio integral e de toda natureza, principalmente quando consideramos a idade da autora, que, por mais independente que seja, sem sombra de dúvida necessita de auxílios, e nesta avançada idade observa-se que na maioria das vezes a maior assistência que pode ser prestada a idosos é lhes dar companhia, companhia esta que não era dada como restou cabalmente comprovado nos autos.
+Inconteste assim que a Sra. [NOME] é uma pessoa de idade avançada, viúva, e carente de afeto e esperava que os donatários lhe acolhessem com carinho, conferindo-lhe a assistência que uma senhora idosa necessita, o que foi preponderante para a concretização da doação.
+A obrigação assumida, que é de trato sucessivo, não foi cumprida, de modo que a donatária se encontra em mora desde a ocasião em que deixou de atender o que dela era exigível: atendimento familiar, alimentar e médico-hospitalar à doadora" (fls. 330-334 e-STJ - grifou-se).
+Assim, a reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em recurso especial, haja vista os óbices das Súmulas nºs 5 e 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais) os quais devem ser majorados para R$ 2.500,00 (dois mil e quinhentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
