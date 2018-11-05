@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S/A, com amparo na alínea "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 276, e-STJ):
+AÇÃO MONITÓRIA - FASE DE CUMPRIMENTO DE SENTENÇA - NOTAS PROMISSÓRIAS - EXTINÇÃO DO PROCESSO COM FUNDAMENTO NA PRESCRIÇÃO INTERCORRENTE - INÉRCIA CARACTERIZADA - Súmula 150 do STF - Desde o arquivamento dos autos, em 09/02/2010, até o seu desarquivamento em 20/07/2016, não houve qualquer manifestação do autor apelante no sentido de dar efetivo prosseguimento à execução - Inércia do autor configurada - Processo paralisado por mais de 6 anos - O mero andamento processual após julho de 2016 não convalida a perda da pretensão executória pela prescrição intercorrente - Artigos 70 e 77 da Lei Uniforme de Genebra c.c. art. 475-L, VI, CPC/1973 (art. 525, VII, CPC/2015) - Sentença de extinção do processo que fica mantida - RECURSO DESPROVIDO NESTE TÓPICO.
+EMBARGOS DE DECLARAÇÃO - MULTA - Afastamento - Não configuração dos requisitos do 1.026, §§ 2º e 3º, CPC/15 - RECURSO PROVIDO NESTE TÓPICO.
+Não foram opostos embargos de declaração.
+Na origem, trata-se de execução julgada extinta, com resolução do mérito, ante o reconhecimento da prescrição intercorrente.
+Nas razões do recurso especial (fls. 284-304, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, ao artigo 485, §1º, do CPC/15, porquanto não promovida a intimação da parte exequente para conferir regular prosseguimento ao feito, situação impeditiva da caracterização da prescrição intercorrente.
+Após decisão de admissão do recurso especial (fls. 321-324, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da análise da decisão prolatada pela Corte Estadual, verifica-se que não se aperfeiçoa a ventilada contrariedade ao disposto no art. 485, §1º, do CPC/15, nem mesmo a divergência jurisprudencial.
+É que a matéria controvertida neste recurso especial foi objeto de discussão no REsp 1.604.412/SC (DJe 22/8/2018), cuja tramitação neste Superior Tribunal de Justiça obedeceu o procedimento previsto para o Incidente de Assunção de Competência - IAC (art. 947 do NCPC), de modo que a Segunda Seção firmou os seguintes entendimentos a respeito da aplicação da prescrição intercorrente:
+1.1) Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2) O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3) O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4) O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.  ..  (REsp 1604412/SC, Rel. Min. Marco Aurélio Bellizze, Segunda Seção, julgado em 27/06/2018, DJe 22/08/2018).
+No caso em exame, o aresto estadual está alinhavado com as premissas fixadas no incidente de uniformização, pois estabeleceu ser prescindível a intimação do exequente para o início da contagem do prazo prescricional (item 1.2), tampouco utilizou a regra do art. 1.056 do CPC/15 na espécie (item 1.3).
+Além disso, o acórdão combatido utilizou o prazo prescricional de direito material como parâmetro para aferir o decurso do interregno da prescrição intercorrente (item 1.1).
+Finalmente, constata-se o exercício do contraditório pelo exequente previamente a decisão que aplicou a prescrição em questão, conforme se extrai das fls. 195-198, e-STJ (item 1.4).
+2. Do exposto, nego provimento ao recurso especial, com amparo no art. 932, IV, alínea "c", do NCPC, e na Súmula 568 do STJ. Inviável a majoração de honorários em sede recursal, porquanto não arbitrada a verba sucumbencial nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
