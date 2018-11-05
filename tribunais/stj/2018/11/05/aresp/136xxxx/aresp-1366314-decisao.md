@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por GOL LINHAS AEREAS S.A.. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. DECISÃO QUE DEFERIU A ANTECIPAÇÃO DOS EFEITOS DA TUTELA PARA DETERMINAR A CESSAÇÃO DA COBRANÇA DOS VALORES DISCUTIDOS NOS AUTOS, A RETIRADA DO NOME DA AGRAVADA DOS CADASTROS DE PROTEÇÃO AO CRÉDITO E A INVERSÃO DO ÔNUS DA PROVA COM BASE NO CDC. ALEGAÇÃO DE NECESSIDADE DE CAUÇÃO PARA RETIRAR O NOME DA AGRAVADA DOS CADASTROS DE PROTEÇÃO AO CRÉDITO E PARA CESSAR A COBRANÇA INDEVIDA. DESNECESSIDADE. DISCUSSÃO ACERCA DA ABSOLUTA INEXISTÊNCIA DE DÉBITO. PROVIMENTO TOTALMENTE REVERSÍVEL. PROVA NEGATIVA. INDÍCIOS DE FRAUDE NA COMPRA DAS PASSAGENS AÉREAS. PARTE DA DECISÃO QUE NÃO MERECE REFORMA. INAPLICABILIDADE DO CDC. AGRAVADA QUE NÃO SE ENQUADRA COMO CONSUMIDORA. AGÊNCIA DE VIAGENS QUE REVENDE PASSAGENS. INDEFERIMENTO DA INVERSÃO DO ÔNUS DA PROVA. PARTE DA DECISÃO REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. UNÂNIME" (fl. 173 e-STJ).
+Os embargos de declaração foram rejeitados (fl. 198 e-STJ).
+Nas razões do especial, o agravante alega violação dos arts. 273 e 804 do CPC/1973; e 300, §§ 1º e 2º, e 1.022 do CPC/2015. Sustenta, em síntese, que "o perigo de irreversibilidade é gritante, pois a Recorrida não fez o depósito integral do valor que está sendo discutido" (fl. 214 e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+As instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Assim sendo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Na hipótese em tela, o Tribunal de origem consignou:
+"Ao analisar o pedido de efeito suspensivo, em razão de ter vislumbrado presentes os requisitos necessários para seu deferimento parcial, esta relatoria proferiu decisão concessiva parcial, a qual restou consignada conforme adiante se transcreve:
+(..)
+Conforme asseverado alhures, para a concessão da tutela antecipada faz-se necessária a existência de fundado receio de dano irreparável ou de dificil reparação, o que, no presente caso, se consubstancia na inscrição do nome da Agravada nos órgãos de proteção ao crédito, afetando, assim, sua reputação no mercado.
+Logo, não se torna plausível a manutenção do nome da Agravada nos cadastros restritivos de crédito enquanto se discute a própria existência ou não da relação jurídica ora impugnada, sob pena de lhe submeter a situações constrangedoras e, talvez, desnecessárias.
+Nesse contexto, verifico dos autos que há indícios de que o fato gerador que ensejou a negativação do nome da Agravada foi oriundo de possível fraude, considerando sua negativa e o conjunto probatório que compõe o caderno processual, o que permite, portanto, o deferimento da liminar.
+(..)
+De fato, os argumentos da Agravante quanto, a necessidade de caução para concessão da liminar, o caráter pessoal e intransferível da senha de acesso ao ambiente virtal de compras, não prosperam, o que não autorizam a reforma da decisão vergastada nestes pontos" (fls. 175/182 e-STJ).
+A verificação dos requisitos para o deferimento ou indeferimento de medidas liminares ou antecipatórias de tutela decorre da análise das circunstâncias fáticas da causa, cujo reexame é vedado nesta seara recursal, pela aplicação da Súmula nº 7 do Superior Tribunal de Justiça.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE RECURSO ESPECIAL EM FACE DE ACÓRDÃO QUE DECIDE PEDIDO DE ANTECIPAÇÃO DE TUTELA. REFORMA. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA (SÚMULA Nº 7/STJ).
+1. Esta Corte, em sintonia com o disposto na Súmula nº 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+2. Inviável a análise do recurso especial se a matéria nele contida depende de reexame reflexo de questões fáticas da lide, vedado nos termos da Súmula nº 7 do STJ.
+3. Agravo regimental a que se nega provimento".
+(AgRg no AREsp nº 526.804/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/8/2014, DJe 15/08/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. TUTELA ANTECIPADA DEFERIDA PARA RESTABELECIMENTO DAS LINHAS TELEFÔNICAS CONTRATADAS E PARA VEDAR A INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO, SOB PENA DE MULTA DIÁRIA. IMPOSSIBILIDADE DE REVISÃO DA QUESTÃO EM SEDE DE RECURSO ESPECIAL. JUÍZO PROVISÓRIO. AUSÊNCIA DE "CAUSA DECIDIDA". INTELIGÊNCIA DA SÚMULA 735/STF. AGRAVO REGIMENTAL NÃO PROVIDO
+1. O recurso especial interposto contra aresto que julga a antecipação de tutela ou liminar deve limitar-se aos dispositivos relacionados aos requisitos da tutela de urgência, notadamente em casos em que o seu deferimento ou indeferimento importa ofensa direta às normas legais que disciplinam tais medidas. Dessa forma fica obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, porquanto as instâncias ordinárias não decidiram definitivamente sobre o tema, sendo proferido, apenas e tão somente, um juízo provisório sobre a questão.
+2. "Não pode ser conhecido o recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa, que, em liminar, é tratada apenas sob juízo precário de mera verossimilhança. Quanto a tal matéria, somente haverá "causa decidida em única ou última instância" com o julgamento definitivo". (REsp 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 06/04/2006, DJ 08/05/2006, p. 176) 3. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+4. Agravo regimental não provido".
+(AgRg no AREsp nº 512.403/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/6/2014, DJe 1º/8/2014)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISIONAL DE CONTRATO BANCÁRIO. INDEFERIMENTO DO PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REVERSÃO DA DECISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ.
+1. A verificação dos requisitos necessários para o deferimento do pedido de antecipação dos efeitos da tutela demanda o reexame de matéria de fato, o que não é cabível no âmbito do recurso especial (Súmula nº 7/STJ).
+2. Agravo regimental não provido".
+(AgRg no REsp nº 1.335.597/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/3/2014, DJe 31/3/2014)
+Ademais, rever a necessidade de caução para retirar o nome do ora agravado dos cadastros de proteção ao crédito também exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ, consoante iterativa jurisprudência desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
