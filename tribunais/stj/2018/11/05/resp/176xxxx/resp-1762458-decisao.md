@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CRIMINAL - POSSE IRREGULAR DE ARMA DE FOGO (LEI N. 10.826/03, ART. 12) - SENTENÇA CONDENATÓRIA - IRRESIGNAÇÃO DEFENSIVA - PRELIMINAR - CERCEAMENTO DE DEFESA - PEDIDO DE NOVAS DILIGÊNCIAS APÓS ENCERRAMENTO DA INSTRUÇÃO CRIMINAL - INDEFERIMENTO DEVIDAMENTE FUNDAMENTADO - EIVA AFASTADA - MÉRITO - MATERIALIDADE E AUTORIA COMPROVADAS - PLEITO ABSOLUTÓRIO POR AUSÊNCIA DE DOLO - INVIABILIDADE - CRIME DE MERA CONDUTA E PERIGO ABSTRATO - CONDENAÇÃO MANTIDA.
+Nas razões do recurso, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, sustenta contrariedade ao art. 12 da Lei 10.826/2003. Argumenta que não há falar em consumação do crime de posse ilegal de arma de fogo de uso permitido quando a arma encontrar-se com registro vencido. Afirma que o fato enseja simples infração administrativa.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+O recorrente foi condenado, como incurso no art. 12, caput, da Lei 10.826/2003, à pena de 1 ano de detenção, em regime inicial aberto, bem como ao pagamento de 10 dias-multa.
+O Tribunal de origem manteve a condenação pelos seguintes fundamentos:
+2. Da materialidade e da autoria
+A materialidade do crime vem consubstanciada no auto de prisão em flagrante n. 5.16.00036, no boletim de ocorrência (p. 14/15), no auto de exibição e apreensão (p. 21), e no laudo pericial (p. 50/52), dos quais extrai-se que foi apreendido um revólver calibre .38, marca Taurus, número de série QC55012, eficiente para os fins a que se destina.
+A autoria, por sua vez, exsurge dos demais elementos de prova acostados aos autos.
+Ao ser interrogado perante a autoridade policial, o acusado relatou:
+Que o depoente apresentou a arma de fogo aos policiais quando estes perguntaram se haveria alguma no local; que a arma de fogo não pertence ao depoente; que não possui nenhum registro com ela; que essa arma foi oferecida por um indivíduo que trabalhou na construção da casa; que inclusive a arma estava sem munição; que o depoente nunca usou; que o nome da pessoa que lhe deu a arma é Fábio, o sobrenome acredita que seja Souza ou Silva, não tem certeza  ..  (p. 29, transcrição indireta).
+Sob o crivo do contraditório, o réu utilizou o seu direito constitucional de permanecerem silêncio (p. 113/114).
+Por sua vez, o policial civil [NOME], em juízo, asseverou:
+Que foi cumprir mandado de busca e apreensão na casa do réu; que no quarto dele encontraram uma arma; que em princípio ele negou a existência da arma; que depois de um tempo ele mostrou o local da arma; que ele disse que estava guardando para alguém (p. 113/114, transcrição indireta).
+Corroborando com seu depoimento, o agente público [NOME] relatou na fase judicial que, ao cumprir o mandado de busca e apreensão na residência do recorrente, encontrou uma arma de fogo entre o gesso e o teto em seu quarto. Acrescentou que o réu alegou guardar a arma para segurança própria, mas o artefato pertencia a terceiro (p. 113/114).
+Analisando a prova oral acima reproduzida, não há falar-se em absolvição, notadamente em face da confissão do acusado, pois, embora afirme que a arma de fogo pertencia a terceiro, o recorrente assume que aceitou a oferta de adquiri-la, tanto que foi encontrada em sua residência pelos policiais civis. Ademais, o réu relatou que a arma não possuía registro, não havendo que se falar em atipicidade da conduta pela ausência de conhecimento sobre a necessidade de sua renovação, uma vez que o ônus de provar a existência de tal registro lhe incumbia.
+Nesse aspecto, é mister salientar que a jurisprudência desta Corte, em consonância com a posição dos tribunais superiores e a doutrina majoritária, vem reiteradamente entendendo que o crime de porte ilegal de arma de fogo é de perigo abstrato e de mera conduta, bastando que o agente porte o artefato bélico sem a devida permissão, para que ofenda o bem jurídico tutelado, que é a incolumidade pública, tomando-se prescindível a perícia para atestar a potencialidade lesiva do objeto.
+ ..
+No caso dos autos, a despeito de o acusado não possuir munições e alegar que nunca utilizou o artefato bélico, restou comprovada a materialidade e a autoria da posse da arma, não havendo como se acolher o pleito absolutório.
+Colhe-se, ainda, do aresto objurgado:
+Sustenta a defesa a ocorrência de cerceamento de defesa, notadamente em face do indeferimento do seu pedido para oficiar o Exército para que seja informado se a arma possui registro.
+A tese não merece acolhimento.
+Impende salientar que o pedido foi rejeitado pela juíza singular, por considerar que "desde o início do processo a alegação do acusado é de que a arma possui registro, contudo, tal prova ainda não está evidente nos autos, não fora pedida quando no oferecimento da resposta à acusação, momento processual adequado para serem realizados todos os pedidos de produção de prova. Ademais, tal prova ora requerida não necessita de ação judicial, bastando que a parte interessada fizesse o pleito a tempo e modo no órgão competente. Assim, não se tratando o pedido de diligência em questão de prova cuja necessidade tenha surgido durante essa instrução do feito" (p. 113/114).
+Conforme se extrai da fundamentação do acórdão recorrido, não há, nos autos, prova acerca da existência de anterior registro da arma de fogo. O decisum também assevera que houve preclusão da quaestio, uma vez que a prova não fora pedida quando do oferecimento da resposta à acusação.
+Verifica-se que, no recurso especial, o recorrente deixou de infirmar referidos fundamentos, limitando-se a sustentar a tese de atipicidade da conduta.
+Nesse contexto, uma vez não impugnado o fundamento do aresto, suficiente para manter o acórdão recorrido, no ponto, incide ao caso a Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 156, II, E 616, AMBOS DO CPP. FUNDAMENTO INATACADO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF. VIOLAÇÃO DO ART. 33, § 2º, "B", DO CP. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Súmula 283/STJ.
+2. Não obstante a estipulação da reprimenda definitiva pela prática do crime descrito no artigo 157, § 2º, incisos I e II, do Código Penal, em 06 anos, 10 meses e 15 dias de reclusão (fl. 967), encontra-se motivada a sujeição a regime mais gravoso, eis que alicerçado em elementos concretos, os quais revelam um plus de reprovabilidade na conduta do recorrente. Súmula 568/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 1201440/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/12/2017, DJe 15/12/2017)
+Além disso, o acolhimento da tese recursal demanda alteração das premissas fáticas delineadas nas instâncias ordinárias, o que não se admite na via eleita, ante o óbice da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
