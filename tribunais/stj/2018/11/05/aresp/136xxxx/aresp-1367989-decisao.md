@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DA REGIÃO DE SÃO SEBASTIÃO DO PARAÍSO LTDA. [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - COOPERATIVA - EQUIPARAÇÃO - INSTITUIÇÃO FINANCEIRA - TAXA DE JUROS REMUNERATÓRIOS - MÉDIA DE MERCADO - INOBSERVÂNCIA - LIMITAÇÃO - POSSIBILIDADE - RECURSO NÃO PROVIDO.
+- As cooperativas de crédito que atuam no mercado oferecendo serviços bancários e créditos estão sujeitas, por equiparação, às mesmas normas que regem as relações jurídicas das instituições financeiras.
+- Mostra-se cabível o recálculo do débito quando restar evidenciado que a taxa de juros remuneratórios estipulada no contrato está acima da média de mercado para operações semelhantes" (fl. 204 e-STJ).
+Nas razões do recurso especial, a agravante sustenta, além da divergência jurisprudencial, violação do artigo 371 do Código de Processo Civil de 2015 e à Súmula nº 382/STJ.
+Aduz que os juros remuneratórios não são excessivos.
+Menciona que "a taxa praticada entre as partes de tão somente 3% (três por cento) ao mês não é abusiva e nem 1,09% ao mês representa a média de mercado" (fl. 226 e-STJ).
+Não houve contrarrazões (certidão de fl. 233 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do processo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+De início, esta Corte Superior já consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação de súmula de tribunal.
+Com relação aos juros remuneratórios, as instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº 22.626/33), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591, c/c o art. 406, do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica. A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382/STJ.
+Nesse sentido, o REsp nº 1.061.530/RS, da relatoria da Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, julgado pela Segunda Seção, com a seguinte ementa, na parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto".
+Assim, no caso presente, tendo sido demonstrada a abusividade dos juros remuneratórios, conforme se observa à fl. 207 e-STJ, rever os fundamentos trazidos pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos e de cláusula contratual, o que atrai o óbice das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor da causa (R$ 8.696,45 - oito mil, seiscentos e noventa e seis reais e quarenta e cinco centavos), os quais devem ser majorados para 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
