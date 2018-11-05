@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, contra acórdão do Tribunal Regional Federal da 1ª Região, proferido na vigência do CPC/2015, assim ementado:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA JURÍDICA. ILEGITIMIDADE ATIVA "AD CAUSAM". INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001. CONSTITUCIONALIDADE. PRECEDENTE DO STF. HONORÁRIOS ADVOCATÍCIOS.
+1. "Tratando-se de ação que tem por objeto a declaração de inexigibilidade da contribuição para o FUNRURAL incidente sobre a comercialização da produção rural, a pessoa jurídica adquirente é parte legítima apenas para discutir a cobrança da exação, não podendo pleitear em nome próprio a repetição dos valores indevidamente recolhidos". (AMS 0006186-27.2012.4.01.3307 / BA, Rel. DESEMBARGADOR FEDERAL MARCOS AUGUSTO DE SOUSA, Rel.Conv. JUIZ FEDERAL ALEXANDRE JORGE FONTES LARANJEIRA (CONV.), OITAVA TURMA, e-DJF1 p.2405 de 29/10/2015).
+2. O egrégio Supremo Tribunal Federal, no julgamento do RE 596177, sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), declarou inconstitucional a alteração da Lei nº 8.212/1991 pela Lei nº 8.540/1992, por ofensa formal (necessidade de Lei Complementar para tratar da matéria).
+3. Em decisão proferida pelo eminente relator Min. Ricardo Lewandowski, em embargos de declaração opostos pela UNIÃO, nos autos do RE 596177, acima mencionado, restou explicitado que: "a discussão do tema com enfoque na Lei 10.256/2001 teve sua repercussão geral reconhecida nos autos do RE 718.874/RS, de minha relatoria. Assim, o julgamento desse feito será a oportunidade adequada para o enfrentamento da matéria.".
+4. Sobre o tema nº 669, o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543- B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718874/RS, em 30/03/2017, fixou a seguinte tese: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção.".
+5. Assim, a Suprema Corte reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional nº 20/98, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+6. No que tange aos honorários de sucumbência, tal ver em característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+7. Ademais, a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos.
+8. A fixação dos honorários advocatícios deve guardar observância aos princípios da razoabilidade e da equidade, considerando-se o previsto nos incisos nos incisos I a V do § 3º c/c o inciso II do § 4º do art. 85 do NCPC, cujo montante deverá ser apurado no momento processual oportuno.
+9. Apelação e remessa oficial providas" (fl. 264/265e).
+Opostos embargos de declaração (fls. 279/281e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente que o acórdão recorrido violou os arts. 85, § § 3º e 4º, do 1.022 do CPC/2015, sustentando, em síntese, além de negativa de prestação jurisdicional, que a fixação do verba honorária não pode ser transferida para liquidação do julgado, uma vez que não houve condenação no presente caso.
+Transcorrido in albis o prazo para apresentação de contrarazzões, foi o Recurso Especial admitido na origem (fls. 303/304e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação merece acolhimento no que diz respeito à indicada ofensa ao art. 1.022 do CPC/2015.
+Com efeito, embora opostos Embargos de Declaração (fls. 279/281e), o Tribunal de origem não se pronunciou acerca da questão referente à impossibilidade de se transferir a fixação da verba honorários em fase de liquidação, por não ter ocorrido condenação no presente caso.
+Deste modo, resta configurada a violação ao art. 1.022 do CPC/2015 e, assim, a negativa de prestação jurisdicional, uma vez que o ponto sobre o qual recai a omissão têm o condão de eventualmente alterar a solução inicialmente dada à controvérsia.
+Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos da jurisprudência pacífica do STJ, quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 535 do Código de Processo Civil.
+2. Hipótese em que o Tribunal de origem, apesar da oposição de embargos de declarção, não se manifestou sobre a alegada violação do art. 10, inciso I, da Lei n. 10.833/2003. Retorno dos autos para novo julgamento dos embargos de declaração.
+Agravo regimental provido" (STJ, AgRg no REsp 1.355.898/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/03/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. IMPUGNAÇÃO AO VALOR DADO À CAUSA. ELEMENTOS FÁTICOS DA DEMANDA NÃO FORAM CONSIDERADOS. ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA A ORIGEM.
+(..)
+3. A Corte de origem quedou silente sobre os argumentos apresentados por meio dos embargos de declaração, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.373.286/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/05/2013).
+Em face do exposto, com fundamento do art. 255, § 4, III, do RISTJ, dou provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se a omissão quanto aos honorários advocatícios.
+Em razão do acolhimento da preliminar reputo prejudicadas as demais alegações.
+I.
