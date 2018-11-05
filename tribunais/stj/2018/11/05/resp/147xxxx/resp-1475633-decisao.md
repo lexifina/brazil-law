@@ -1,0 +1,60 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AJUIZAMENTO POSTERIOR AO PERÍODO DE 5 ANOS DA DATA DE INÍCIO DE VIGÊNCIA DO NOVO CÓDIGO CIVIL. INCIDÊNCIA DA REGRA DO ART. 2.028. PRESCRIÇÃO RECONHECIDA. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM VALOR IRRISÓRIO. MAJORAÇÃO. RECURSO ESPECIAL DA CEF A QUE SE NEGA SEGUIMENTO. AGRAVO DO PARTICULAR PROVIDO.
+1. Trata-se de Recursos Especiais interpostos por CAIXA ECONÔMICA FEDERAL e [NOME] contra acórdão proferido pelo Tribunal Regional Federal da 3a. Região, assim ementado:
+AGRAVO LEGAL. DECISÃO MONOCRÁTICA. CPC, ART. 557. MONITORIA. CRÉDITO EDUCATIVO. PRESCRIÇÃO. VERBA HONORÁRIA ARBITRADA POR EQUIDADE. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+1- A ação monitória foi ajuizada em 26/02/2008, objetivando o recebimento do valor resultante do inadimplemento do Contrato de Crédito Educativo, sob n1. 95.2.30256-8, firmado em 28.02.1996.
+2 - No caso concreto, considerando o vencimento ocorrido em 2001, o prazo vintenário previsto no Código Civil de 1916 ainda não havia transcorrido pela metade quando do advento do novo Código. Assim, conta-se o prazo a partir da entrada em vigor do novo Código, em janeiro de 2003, nos termos da regra de transição insculpida de seu art. 2.028.
+3 - Nos termos da vigente legislação civil, a pretensão da cobrança de dívida líquida, constante de instrumento particular prescreve em cinco anos (art. 206, §5º, I, do Código Civil), donde se conclui pela prescrição da pretensão autoral.
+4- A verba honorária arbitrada em primeiro grau observou o disposto no artigo 20, §4º, do Código de Processo Civil, não havendo razão para sua reforma.
+5 - Agravos desprovidos.
+2. [NOME] alega violação do art. 20 do CPC/1973, defendendo a necessidade de majoração dos honorários sucumbenciais, arbitrados em valor ínfimo, a seu ver.
+3. Por sua vez, a CAIXA ECONÔMICA FEDERAL aponta ofensa aos arts. 205, 206, § 5o., I, e 2.028, todos do Código Civil, insurgindo-se contra o prazo de 5 anos para a prescrição, sustentando ser necessária a observância da regra de transição constante do referido diploma legal.
+4. Admitido somente o Recurso Especial da Autarquia Federal, sobreveio Agravo.
+5. É o relatório.
+6. Não merece reforma o acórdão recorrido quanto ao reconhecimento da prescrição.
+7. Com efeito, somente é preservado o lapso prescricional previsto no CC/1916 se transcorrido mais da metade do seu tempo, sendo certo que, caso contrário, o novo prazo prescricional estabelecido pelo Código Civil de 2002 deve ser contado a partir da sua entrada em vigor. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BANCÁRIO. AÇÃO MONITÓRIA. NOTA DE CRÉDITO INDUSTRIAL.
+I - PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002.
+(..).
+VII - AGRAVO REGIMENTAL DESPROVIDO (AgRg no REsp. 1.411.837/RS, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe 19.6.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. MONITÓRIA EMBASADA EM CHEQUE PRESCRITO. PRESCRIÇÃO QUINQUENAL. PRECEDENTES. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL SOB O RITO DOS REPETITIVOS. REGRA DE TRANSIÇÃO (ART. 2.028 DO CÓDIGO CIVIL DE 2002). APLICAÇÃO DO PRAZO PRESCRICIONAL PREVISTO NO ART. 206, § 5o., I, DO NOVO CÓDIGO CIVIL. TERMO INICIAL.
+(..).
+3. O prazo prescricional em curso, quando diminuído pelo novo Código Civil, só sofre a incidência da redução a partir da sua entrada em vigor, quando cabível (art. 2.028). Nesse caso, a contagem do prazo reduzido se dá por inteiro e com marco inicial no dia 11/01/2003, em homenagem à segurança e à estabilidade das relações jurídicas (4a. Turma, REsp. 717.457/PR, Rel. Ministro CESAR ASFOR ROCHA, DJU de 21.5.2007).
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 576.367/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 29.5.2015).
+
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. USUCAPIÃO. PRAZO PRESCRICIONAL. REGRA DE TRANSIÇÃO. TERMO INICIAL. ENTRADA EM VIGOR NO CÓDIGO CIVIL DE 2002.
+1. Havendo redução do prazo e transcorrido menos da metade do tempo estabelecido no Código Civil/1916, o termo inicial da prescrição é fixado a partir da data de entrada em vigor do Código Civil/2002. Precedentes.
+2. Agravo regimental não provido (AgRg no REsp. 1.390.539/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 12.2.2015).
+8. Assim, decorridos mais de 5 anos entre a data de entrada em vigor do Código Civil de 2002 e o ajuizamento da presente Ação Monitória, impõe-se o reconhecimento da prescrição.
+9. No mais, consoante entendimento deste Tribunal Superior, é possível a revisão da verba honorária arbitrada pelas instâncias ordinárias quando evidenciado nos autos que esta foi estimada em valores manifestamente excessivos ou irrisórios, sem que para isso se faça necessário o reexame de provas ou qualquer avaliação quanto ao mérito da causa.
+10. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios; o fato da demanda versar sobre tema conhecido ou aparentemente simples não deve servir de motivo para o aviltramento da verba honorária.
+11. No caso, o Tribunal de origem entendeu que o montante de R$ 500,00 fixado a título de verba advocatícia pelo Juízo primevo, mostra-se razoável e justa.
+12. Discordando da percepção da Corte de origem, com a devida vênia e atento à jurisprudência do STJ, mostra-se necessária a revisão, para se adequar o caso à orientação desta Corte, que compreende irrisórios os honorários fixados em patamar aquém de 1% sobre o valor da condenação. Confira-se, a propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CARÁTER IRRISÓRIO DO VALOR ARBITRADO NAS INSTÂNCIAS ORDINÁRIAS. MAJORAÇÃO. 1% DO VALOR ATUALIZADO DA CAUSA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Somente é admissível o exame do montante fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. A jurisprudência desta Corte Superior tem entendido como irrisórios honorários sucumbenciais inferiores a 1% do valor da causa ou de seu proveito econômico atualizados, na hipótese de arbitramento por equidade (art. 20, § 4º, do CPC/73).
+3. Na caso concreto, tomando como base o valor atribuído à execução no montante de R$ 3.325.000,00 (três milhões, trezentos e vinte e cinco mil reais), os honorários advocatícios arbitrados nas instâncias ordinárias no montante de R$ 1.500,00 (mil e quinhentos reais) revelaram-se irrisórios e desproporcionais, tendo sido majorados para R$ 33.250,00.
+4. No agravo interno, a parte agravante pleiteou fosse considerado, para fins de aferição da índole irrisória e da majoração dos honorários advocatícios, o valor atualizado da causa. Tal pretensão mostra-se adequada, na medida em que a correção monetária não é acréscimo, gravame ou acessório, visando apenas a salvaguardar o poder aquisitivo da moeda. Precedentes que utilizam o valor atualizado da causa como parâmetro.
+5. Não procede, por outro lado, a pretensão de que o valor a ser arbitrado observe precedentes nos quais se majorou os honorários sucumbenciais para valores que correspondem a percentuais superiores a 1% do valor da causa. A jurisprudência atual da Terceira e da Quartas Turmas é firme no sentido de majorar para o patamar de 1% do valor ou proveito econômico atualizado da causa as verbas sucumbenciais fixadas na origem que sejam consideradas irrisórias. Além disso, os honorários advocatícios, na hipótese do § 4º do art. 20 do CPC, são arbitrados levando-se em consideração as circunstâncias específicas de cada caso.
+6. Agravo interno parcialmente provido (AgInt no AREsp 1.151.280/DF, Rel. Min. LÁZARO GUIMARÃES, DJe 19.3.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. HONORÁRIOS ADVOCATÍCIOS. IRRISORIEDADE.
+1. São irrisórios os honorários advocatícios fixados em patamar inferior a 1% sobre o valor da causa. Precedentes.
+2. Agravo interno no agravo em recurso especial não provido (AgInt no AREsp 1.140.078/SC, Rel. Min. NANCY ANDRIGHI, DJe 14.2.2018).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO SE OCORREU SUCUMBÊNCIA RECÍPROCA OU MÍNIMA, NA VIA ESPECIAL, PARA FINS DE FIXAÇÃO DE VERBA HONORÁRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. FIXAÇÃO DOS HONORÁRIOS EM 3,5% DO VALOR DADO À CAUSA. IRRISORIEDADE. NÃO OCORRÊNCIA. MAJORAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à fixação dos honorários de advogado, o acórdão do Tribunal de origem assim se manifestou: "Sucumbente a União em maior parte do pedido, fixo a condenação em honorários advocatícios no valor de R$ 1.500,00 (hum mil e quinhentos reais)". Sustenta a agravante que não houve sucumbência recíproca, mas decaiu a parte autora de parte mínima do pedido, pelo que inaplicável a Súmula 7/STJ, por serem os honorários de advogado irrisórios.
+II. Entretanto, a jurisprudência do STJ firmou entendimento no sentido de não ser possível, em sede de Recurso Especial, a revisão do percentual de honorários fixado nas instâncias ordinárias, ressalvadas as hipóteses de fixação de valores ínfimos ou exorbitantes, tampouco a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, o que é vedado, nos termos da Súmula 7/STJ.
+III. Hipótese em que os honorários advocatícios foram arbitrados em R$ 1.500,00 (mil e quinhentos reais), equivalentes a 3,5% do valor dado à causa, percentual que não pode ser considerado ínfimo. Incidência da Súmula 7/STJ.
+IV. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido da "inviabilidade de revisão de honorários advocatícios em sede de recurso especial, em razão do óbice na súmula 7/STJ, que somente pode ser afastado quando exorbitante ou irrisório o valor arbitrado" (STJ, REsp 1.387.248/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, DJe de 19/05/2014).
+V. "A jurisprudência do STJ tem considerado irrisórios honorários fixados em patamar inferior a 1% sobre o valor da causa" (STJ, REsp 1.326.846/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 28/02/2013). Nesse mesmo sentido: STJ, AgRg nos EDcl no AREsp 304.364/RN, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 05/11/2013.
+IV. Agravo Regimental improvido (AgRg no AREsp 501.025/PB, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.9.2014).
+
+TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM PERCENTUAL INFERIOR A 1% (UM POR CENTO) DO VALOR DADO À CAUSA. MONTANTE IRRISÓRIO. MAJORAÇÃO. PRECEDENTES DO STJ. AGRAVO PROVIDO.
+1. "A jurisprudência do STJ tem considerado irrisórios honorários fixados em patamar inferior a 1% sobre o valor da causa" (REsp 1.326.846/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe 28/2/13).
+2. Agravo regimental provido para majorar a verba honorária para 1% (um por cento) do valor atribuído à causa (AgRg nos EDcl no AREsp 304.364/RN, Rel. Min. ARNALDO ESTEVES LIMA, DJe 5.11.2013).
+13. Assim, seguindo o entendimento adotado por esta Corte Superior, os honorários advocatícios devem ser majorados para 10% sobre o valor da causa (R$ 137.448,56), quantia mais condizente às circunstâncias da demanda.
+14. Ante o exposto, nega-se seguimento ao Recurso Especial da CAIXA ECONÔMICA FEDERAL e dá-se provimento ao Agravo do particular, para majorar os honorários advocatícios para 10% sobre o valor da causa.
+15. Publique-se.
+16. Intimações necessárias.
