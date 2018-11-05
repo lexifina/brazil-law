@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE COLETIVO. REAJUSTE DA MENSALIDADE. FAIXA ETÁRIA. ABUSIVIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR E ESTATUTO DO IDOSO. REAJUSTES ANUAIS. LIVRE NEGOCIAÇÃO. REPETIÇÃO SIMPLES DOS VALORES INDEVIDAMENTE SATISFEITOS. PRESCRIÇÃO TRIENAL. JUROS MORATÓRIOS. CITAÇÃO.
+1. Trata-se de decisão recorrida publicada após a data de 18/03/2016, quando entrou em vigor o Código de Processo Civil de 2015, de modo que há a imediata incidência no caso dos autos da legislação vigente, na forma do artigo 1.046 do diploma processual precitado.
+2. No caso dos autos o prazo prescricional aplicável ao pedido de restituição de valores é o trienal, previsto no artigo 206, § 32, IV do Código Civil, consoante posicionamento jurídico adotado pelo Colendo Superior Tribunal de Justiça no julgamento do Recurso Especial n2.
+1.360.969 -RS, submetido ao regime dos recursos repetitivos.
+3. Os planos ou seguros de saúde estão submetidos às disposições do Código de Defesa do Consumidor, enquanto relação de consumo atinente ao mercado de prestação de serviços médicos, nos termos do artigo 35-G da Lei 9.656/98 e da súmula nº. 469 do STJ.
+4. A cláusula contratual que determina o acréscimo na mensalidade em razão da mudança de faixa etária não indica os critérios utilizados para determinar o reajuste em valor tão expressivo, rompendo com o equilíbrio contratual, princípio elementar das relações de consumo, a teor do que estabelece o artigo 42, inciso III, do CDC.
+5. Destarte, o consumidor tem o direito de prever qual será a amplitude do aumento dos preços do contrato a que está submetido, que deve ser realizado de forma equitativa entre os contraentes, em especial nos contratos de prestações sucessivas, como é o caso dos autos. Nessa seara, com base no artigo 51, incisos IV, X e XV, § 12, do CDC, reconhece-se a impropriedade do aumento da mensalidade por implemento de idade.
+6. Aplicabilidade da lei 10.741/2003 (Estatuto do Idoso), norma de ordem pública e de incidência imediata, devendo o contrato ser adequado a esse regramento jurídico.
+7. Nos contratos coletivos não há percentual previamente fixado pela Agência Nacional de Saúde, mas apenas a obrigação de a operadora informar o reajuste aplicado no ano, o qual poderá ser livremente negociado com a contratante. Isto é o que se extrai do artigo 35- E, §2º da Lei 9.656/98, da Resolução Normativa nº. 128/2006 da Direção Colegiada da ANS e da Instrução Normativa nº. 13/2006 da DIPRO/ANS.
+8. Hipótese de repetição simples dos valores indevidamente satisfeitos.
+9. Juros moratórios devidos a partir da citação, quando da constituição da mora, ex vi dos artigos 397, parágrafo único, do Código Civil e 240 do novel Código de Processo Civil, sendo possível a alteração de ofício em matéria de ordem pública.
+Dado parcial provimento ao apelo, com disposição de ofício quanto ao termo inicial dos juros de mora" (fls. 325-326, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 369 e 380, e-STJ).
+No recurso especial, o recorrente alega, além de dissídio jurisprudencial, violação dos arts.  187, 421 e 422 do Código Civil; 13, 15 e 35-E, § 2º, da Lei nº 9.556/1998; 39, IV e V, e 51, IV e X, do Código de Defesa do Consumidor; 4º e 5º da Lei de Introdução às Normas do Direito Brasileiro e 140 do Código de Processo Civil de 2015. Sustenta, em suma, que os reajustes anuais devem ser iguais aos aplicados aos contratos individuais e que o reajuste pela planilha de custos e desempenho do plano é abusivo.
+Não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+Contraminuta às fls. 543-552 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal estadual, ao analisar a controvérsia, assim se posicionou acerca dos arts. 421 e 422 do Código Civil e da Lei nº 9.556/1998:
+"(..)
+Por seu turno, no que tange aos reajustes anuais em contratos coletivos, deve ser consignado que no nosso sistema jurídico não há restrição para contratar, bastando para tanto a manifestação livre de vontade para que a relação jurídica se forme. No entanto, esta liberdade não é plena, ilimitada, uma vez que há princípios de ordem pública que devem ser verificados quando do ajuste.
+Assim, plena é a liberdade para aceitar ou não o pacto, mas este deve ser formado de acordo com os princípios que norteiam o sistema jurídico vigente, dentre os quais o da função social do contrato e da boa -fé, conforme aludem os art. 421 e 422, ambos do Código Civil, (..)
+Destarte, sob a perspectiva da função social do contrato, a alteração da forma de reajuste anual para um índice que não reflete os custos das operadoras poderia impossibilitar a manutenção do sistema de saúde suplementar, prejudicando todos os consumidores brasileiros que participam deste mercado.
+Ademais, considerando os prováveis déficits decorrentes desta modificação patrocinada por terceiro não interveniente neste pacto, no caso o Estado Juiz, haveria violação ao princípio da livre iniciativa, extirpando do ramo de assistência complementar à saúde empresa privada que pretendesse atuar nesta área, sem que fosse levado em conta o custo dos serviços contratados e a sua prestação com a mesma qualidade e expertise técnica.
+Ressalte-se, por conseguinte, que o princípio da observância da função social do contrato não afeta a idéia tradicional, oriunda do direito romano, de que o pacto deve ser cumprido. Ao contrário, o art. 422, do CC, ao definir que os contratantes são obrigados a observar a probidade e a boa -fé, tanto na conclusão do contrato, quanto na sua execução, veio a reforçar a idéia do pacta sunt servanda.
+(..)
+Deste modo, deve ser respeitada a forma de reajuste anual pactuada entre os contratantes, até porque inexiste desigualdade apta a ensejar o reconhecimento de que a cláusula, da forma como redigida, foi uma imposição da operadora que importasse em prejuízo da parte autora.
+(..)
+Ressalte-se que os contratos coletivos de plano de saúde possuem preços inferiores às mensalidades dos planos individuais, exatamente pelo volume de consumidores envolvidos, de modo que a negociação entre as partes é feita levando em conta o número de beneficiários deste tipo de plano.
+Merece destaque, ainda, o fato de que a negociação quanto à fixação do preço do serviço é feita entre o plano ou seguro de saúde e o estipulante, sendo que este busca o melhor preço para atender aos seus empregados ou funcionários, podendo optar por outra operadora que lhe ofereça vantagens maiores a serem estendidas aos consumidores que se utilizam deste tipo de serviço.
+Por fim, conforme dispõe o artigo 35-E, §2º da Lei 9.656/98 nos contratos individuais de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, independentemente da data de sua celebração, a aplicação de cláusula de reajuste das contraprestações pecuniárias dependerá de prévia aprovação da ANS.
+Destarte, nos contratos coletivos não há percentual previamente fixado pela agencia reguladora, mas apenas a obrigação de a operadora de saúde informar o reajuste aplicado no ano, o qual poderá ser livremente negociado com a contratante. Isto é o que se extrai da Resolução Normativa nº. 128/2006 da Direção Colegiada da ANS e da Instrução Normativa nº. 13/2006 da DIPRO/ANS" (fls. 336-340, e-STJ).
+Nesse contexto, rever o entendimento do acórdão impugnado implicaria o reexame de cláusulas contratuais e do contexto fático-probatório, procedimento inadmissível em recurso especial, nos termos das Súmulas nº 5 e nº 7/STJ.
+Também é forçoso reconhecer que o conteúdo normativo dos demais artigos tidos como violados não foi prequestionado pelo Tribunal de origem, mesmo depois de opostos os embargos declaratórios, de modo que incide, na espécie, a Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
