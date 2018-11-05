@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. VIOLAÇÃO DO ART. 42 DA LEI N. 11.343/2006. FIXAÇÃO DA FRAÇÃO DE DIMINUIÇÃO. MATÉRIA NÃO DELIBERADA NA INSTÂNCIA LOCAL. FALTA DE OPOSIÇÃO DE EMBARGOS. PRECEDENTE. ART. 1.025 DO CPC. FALTA DE PREQUESTIONAMENTO.
+Agravo conhecido para não conhecer do recurso especial. Pedido de execução provisória das penas indeferido.
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Ceará contra decisão de inadmissão de recurso especial apresentado contra acórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça do Ceará, no Processo n. 0206452-75.2015.8.06.0001, que deu provimento ao apelo de [NOME] e negou provimento ao apelo de [NOME], mas, de ofício, redimensionou as reprimendas, fixando-as em 1 ano e 8 meses de reclusão, em regime aberto, substituídas por restritivas de direitos, e 167 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33, § 4º, da Lei n. 11.343/2006, conforme os termos da seguinte ementa (fl. 481):
+APELAÇÕES CRIMINAIS. TRÁFICO DE DROGAS. PROVA DA AUTORIA E DA MATERIALIDADE. PEDIDO DE ABSOLVIÇÃO REJEITADO. DOSIMETRIA DA PENA - AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA FIXAR PENA-BASE ALÉM DO MÍNIMO LEGAL - CAUSA ESPECIAL DE DIMINUIÇÃO - QUANTUM DE INCIDÊNCIA - AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA - ILEGALIDADE - APLICAÇÃO NO MÁXIMO. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA. SENTENÇA REFORMADA.
+1. Trata-se de Recursos de Apelação interpostos por [NOME] e HAROLDO [NOME] DE LIMA FILHO em face da sentença que os condenou pela prática do crime previsto no art. 33, caput, da Lei 11.343/06. Ao primeiro recorrente foi aplicada a pena de 4 (quatro) anos e 2 (dois) meses de reclusão e 500 (quinhentos) dias-multa; ao segundo, a pena de 4 (quatro) anos e 7 (sete) meses de reclusão e 500 (quinhentos) dias-multa.
+2. Para se configurar o delito de tráfico de drogas, não é necessário que haja prova literal da venda do produto, bastando, para tanto, que a conduta do agente se adeque a qualquer dos comportamentos descritos no dispositivo legal. Os depoimentos dos policiais são válidos para comprovar a autoria do delito, não havendo qualquer razão para descrédito de tais depoimentos pela sua simples condição funcional, máxime quando a defesa nada faz para invalidá-los e quando confirmados em juízo, sob o crivo do contraditório e não destoam das demais provas carreadas ao processo. Pedido de absolvição do acusado [NOME] rejeitado.
+2. Conquanto a análise das condições judiciais previstas no art. 59 do CP esteja sob a discricionariedade do julgador, deve este fazê-la utilizando-se de fundamentação concreta e idônea. Necessidade de redimensionar as penas aplicadas aos apelantes.
+3. A existência de uma graduação de 1/6 a 2/3 reclama decisão fundamentada com base nos elementos do caso concreto. Ante a ausência de fundamentação idônea para a aplicação de redutor diverso do máximo legal, a incidência da causa de diminuição em 2/3 (dois terços) é medida que se impõe.
+4. Em observância ao disposto no §2º do artigo 44 do CP, substitui-se a pena privativa de liberdade imposta, por duas penas restritivas de direitos, nos termos e condições a serem definidos pelo juízo da execução penal.
+5. Em face do entendimento do Supremo Tribunal Federal, manifestado no julgamento do Agravo em Recurso Extraordinário nº 964.246/SP, no qual se reconheceu a repercussão geral do tema, deve o Juízo de primeiro grau, diante do teor do presente acórdão, verificar a possibilidade de imediato cumprimento da pena por parte dos recorrentes.
+O ora agravante interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria contrariado o art. 42 da Lei n. 11.343/2006, porquanto os agravados teriam sido indevidamente beneficiados com a redução de 2/3, dada a grande quantidade de droga e o seu poder devastador (5,2 kg de cocaína). Portanto, estaria justificada a aplicação do percentual mínimo de redução da pena (fls. 500/510).
+Não foram apresentadas contrarrazões, conforme certidão à fl. 512.
+O apelo foi obstado na origem por demandar reexame de provas (fls. 518/519).
+O agravante aviou, então, o presente agravo, no qual aduz, em suma, que teria requerido apenas revaloração de provas, haja vista a quantidade apreendida ser incontroversa (fls. 528/537).
+Contrarrazões ao agravo em recurso especial às fls. 544/550.
+O Ministério Público Federal opina pelo desprovimento do agravo, tendo em vista a consonância do acórdão com a jurisprudência do Superior Tribunal de Justiça, e pugna pelo início da execução provisória das penas (fls. 571/581).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à violação do art. 42 da Lei n. 11.343/2006, por não ter o acórdão considerado a quantidade de droga apreendida na fixação da fração de diminuição, verifica-se que a matéria não foi objeto de deliberação na instância local, que se limitou a assentar a falta de fundamentação para fração de 1/6 (fls. 486 e 492):
+ ..
+Portanto, considerando que as circunstâncias judiciais do art. 59 do Código Penal foram consideradas favoráveis ao réu, deve a pena de multa ser fixada no mínimo legal, qual seja, 500 (quinhentos) dias-multa.
+Por fim, quanto à causa de diminuição de pena prevista no §4º do art. 33 da Lei de Drogas, o juízo a quo aplicou a fração de 1/6, sem, contudo, apresentar qualquer fundamentação.
+A existência de uma graduação de 1/6 a 2/3 reclama decisão fundamentada com base nos elementos do caso concreto. Ante a ausência de fundamentação idônea para a aplicação de redutor diverso do máximo legal, a incidência da causa de diminuição em 2/3 (dois terços) é medida que se impõe. Nesse sentido:
+ ..
+Quanto à causa de diminuição de pena prevista no §4º do art. 33 da Lei de Drogas, o juízo a quo aplicou a fração de 1/6 sem, contudo, apresentar qualquer fundamentação.
+A existência de uma graduação de 1/6 a 2/3 reclama decisão fundamentada com base nos elementos do caso concreto. Ante a ausência de fundamentação idônea para a aplicação de redutor diverso do máximo legal, a incidência da causa de diminuição em 2/3 (dois terços) é medida que se impõe.
+ ..
+A matéria ora suscitada - a grande quantidade de droga apreendida - nem sequer foi objeto de embargos de declaração, conforme preconiza o art. 1.025 do Código de Processo Civil.
+Desse modo, é inviável o conhecimento do apelo, dada a falta de prequestionamento.
+Quanto ao pedido de execução provisória ministerial, tendo em conta a substituição das reprimendas por penas restritivas de direitos, é inviável a execução provisória, conforme posição pacífica da jurisprudência, da qual se extrai o AgRg nos EAREsp n. 1.206.558/RS, Ministro Nefi Cordeiro, Terceira Seção, DJe 18/9/2018.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Indefiro o pedido de execução provisória das penas.
+Publique-se.
