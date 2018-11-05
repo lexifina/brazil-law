@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da Vara das Execuções Penais da Comarca de Araraquara/SP indeferiu pedido do ora paciente, de progressão ao regime intermediário.
+Irresignada, a defesa interpôs agravo em execução junto ao TJSP, o qual negou provimento ao recurso em decisum assim ementado (e-STJ fl. 10):
+AGRAVO EM EXECUÇÃO - Indeferimento de pedido de progressão de regime, tendo em vista a ausência de requisito objetivo - Recurso defensivo - Improcedência - O crime de associação para o tráfico é equiparado a hediondo - Isso porque, se o tráfico de entorpecentes possui tal natureza, a conduta de promovê-lo, com maior razão, deve ser considerada da mesma forma Precedentes desta Colenda Câmara Criminal Ausência de requisito objetivo - Decisão mantida - Agravo defensivo improvido.
+Na presente impetração, alega a Defensoria Pública que tal decisão - ao considerar hediondo o delito de associação para o tráfico - impõe constrangimento ilegal ao paciente.
+Argumenta que, em sendo considerado o referido crime como comum - conforme a jurisprudência pacificada nos Tribunais Superiores - então o paciente já preencheu o requisito objetivo para a progressão de regime.
+Requer, dessa forma, liminarmente, a suspensão - até o julgamento final do presente mandamus - dos efeitos da decisão do TJ paulista, e, no mérito, a cassação do respectivo acórdão, para confirmar a natureza comum do crime tipificado no artigo 35 da Lei n. 11.343/2006.
+Deferido o pleito liminar (e-STJ fls. 59/68 e 72/73), opinou o Ministério Público Federal pela concessão da ordem (e-STJ fl. 70).
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso especial. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Busca-se, na presente impetração, que seja afastada a natureza hedionda do crime de associação ao tráfico de drogas (art. 35 da Lei n. 11.343/2006).
+Sobre a matéria em debate nos presentes autos, registro que o delito de associação para o tráfico não integra, nem nunca integrou, o rol dos crimes hediondos ou equiparados, previstos na Lei n. 8.072/1990.
+No que tange à progressão de regime, com razão a impetrante, porquanto, para efeitos do requisito objetivo/temporal, deve ser obedecido o art. 112 da Lei n. 7.210/1984.
+Confiram-se, a propósito, os seguintes precedentes desta Superior Corte de Justiça: HC 357.635/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/8/2016, DJe 29/8/2016; HC 352.809/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/6/2016, DJe 1º/8/2016; HC 197691/RJ, SEXTA TURMA, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Julgado em 19/6/2012, DJe 29/6/2012.
+Ante o exposto, nego seguimento ao presente habeas corpus. No entanto, ratificando a liminar deferida e acolhendo o parecer ministerial, concedo a ordem de ofício para afastar a natureza hedionda do crime de associação para o tráfico.
+Publique-se. Intime-se.
