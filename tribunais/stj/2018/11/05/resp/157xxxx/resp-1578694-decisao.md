@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 266):
+PROCESSUAL CIVIL - AGRAVO LEGAL CONTRA DECISÃO MONOCRÁTICA - ARTIGO 557 DO CPC - APREENSÃO DE MOEDA ESTRANGEIRA.
+1. A disposição contida no artigo 557, do Código de Processo Civil, possibilita ao Relator do recurso negar-lhe seguimento, ou dar-lhe provimento, por decisão monocrática, sem submeter a questão ao respectivo Órgão Colegiado.
+2. Nos termos do art. 65 da Lei 9.069/95, o ingresso e a saída do País de moeda nacional e estrangeira serão processados exclusivamente mediante transferência bancária.
+3. Dessa regra excetua-se o porte, em espécie, de quantia em moeda estrangeira equivalente a R$ 10.000,00 (dez mil reais).
+4. Mantida a sentença parcialmente concessiva que assegurou a liberação de numerário no limite correspondente a R$ 10.000,00, vez que essa é a importância ressalvada pela Lei nº 9.069/95.
+5. Agravo legal improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 276/283).
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 535 do CPC/73, uma vez que o Tribunal de origem negou a prestação jurisdicional pleiteada ao rejeitar os embargos de declaração;
+(II) art. 65 da Lei nº 9.069/1995 e art. 89 da MP nº 2.158-35/01, de modo que, tendo sido apurado que o contribuinte portava a quantia de US$ 22.000,00 (vinte e dois mil dólares), sem a apresentação de documento que comprovasse a origem lícita do numerário, sem atender às determinações contidas na legislação aduaneira, não seria permitida a liberação dos valores;
+(III) arts. 96 e 100 do CTN, os quais consideram legislação tributária todo ato normativo válido relativo a tributos ou relações jurídicas decorrentes, sendo certo que a legislação infra-legal (Resolução nº 2.524/98 e Portaria do Ministério da Fazenda nº 259/2001) é perfeitamente aplicável.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito, tampouco assiste razão ao recorrente. Com efeito, a jurisprudência desta Corte firmou entendimento segundo o qual a pena de perdimento deve ter por objeto somente o excedente quantitativo não declarado, e não toda a mercadoria.
+É o que se extrai dos seguintes precedentes:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ADMINISTRATIVO. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. INEXISTÊNCIA DE DANOS MORAIS. MERO DESCONFORTO. INGRESSO. DINHEIRO. VIOLAÇÃO À LEGISLAÇÃO. PERDIMENTO DO VALOR EXCEDENTE. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Em relação ao cabimento de danos morais, cumpre transcrever, novamente, trecho do acórdão da Corte local: "De resto, cumpre destacar que o simples desconforto causado à pessoa submetida à fiscalização pelas autoridades aduaneiras não é, por regra, do tipo a causar dano moral, conclusão que se ratifica diante da inexistência de prova de que os agentes estatais tenham atuado de modo excessivo ou abusivo".
+3. Assim sendo, analisar a existência de dano e concluir de maneira diversa da alcançada pelo julgado exige o reexame das provas e dos fatos, o que, a rigor, é vedado pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+4. O ingresso no País de moeda nacional e estrangeira deve ser realizado por meio de instituição autorizada a operar no mercado de câmbio. A desobediência ao dispositivo legal comina na perda do valor excedente a R$ 10.000,00 reais. O STJ não pode analisar os motivos ensejadores da pena de perdimento de bens, pois sua atuação encontra óbice no enunciado da Súmula 7 do STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1540646/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/11/2015, DJe 02/02/2016)
+TRIBUTÁRIO. DESEMBARAÇO ADUANEIRO. MERCADORIA IMPORTADA APREENDIDA EM ZONA SECUNDÁRIA (ART. 33, II, DO DL N. 37/1966), POR ESTAR DESACOMPANHADA DA DOCUMENTAÇÃO ADUANEIRA (ART. 3º-A DA IN/RFB N. 1.059/2010). PENA DE PERDIMENTO. POSSIBILIDADE (ART. 689 DO DECRETO N. 6.759/2009), DESDE QUE PERTINENTE A MERCADORIA QUE ULTRAPASSAR O LIMITE ESTABELECIDO NO ART. 33, III, "B", DA IN/RFB N. 1.059/2010. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. RECURSO ADESIVO DO PARTICULAR NÃO CONHECIDO. RECURSO ESPECIAL DA FAZENDA NACIONAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+1. Recurso especial no qual se discute a possibilidade de liberação de mercadorias importadas, desacompanhadas de documentação aduaneira e que foram apreendidas em via terrestre (zona secundária), bem como a possibilidade de aplicação da pena de perdimento.
+2. No caso, o TRF da 4ª Região qualificou a mercadoria como "bagagem acompanhada" e, por isso, entendeu que o impetrante teria direito às mercadorias importadas até o limite de US$ 300,00; e concordou, de outro lado, com a pena de perdimento com relação àquelas que ultrapassarem esse limite.
+3. Conquanto possível e legal exigir a Declaração de Bagagem Acompanhada - DBA, o art. 3º-A da IN/RFB n. 1.059/2010 dispõe que estão dispensados de apresentá-la a "os viajantes que não estiverem obrigados a dirigir-se ao canal "bens a declarar" nos termos do disposto no art. 6º".
+4. Conquanto o fato de a "bagagem acompanhada" não tornar desnecessário o procedimento de despacho aduaneiro, o fato é que o acórdão recorrido resolveu a controvérsia ao enquadrar a situação no inciso VIII do art. 6º da IN/RFB n. 1.059/2010 ("ao ingressar no País, o viajante procedente do exterior deverá dirigir-se ao canal "bens a declarar" quando trouxer bens que excederem limite quantitativo para fruição da isenção, de acordo com o disposto no art. 33", decidindo que o impetrante poderia ficar os bens até o limite previsto nesse dispositivo, o qual estabelece, no inciso III, alínea "b", que "o viajante procedente do exterior poderá trazer em sua bagagem acompanhada, com a isenção dos tributos a que se refere o caput do art. 32 outros bens, observado o disposto nos §§ 1 º a 5 º deste artigo, e os limites de valor global de US$ 300.00 (trezentos dólares dos Estados Unidos da América) ou o equivalente em outra moeda, quando o viajante ingressar no País por via terrestre, fluvial ou lacustre".
+5. A pena de perdimento, portanto, só é pertinente àqueles produtos que, acima do limite de US$ 300,00 do art. 33 da IN/RFB n. 1.059/2010, venham a configurar dano ao erário, nos termos do art.
+689 do Decreto n. 6.759/2009.
+6. O recurso especial adesivo não merece conhecimento em razão de ser deserto e, se não o bastante, porque ausente o prequestionamento dos dispositivos legais tidos por violados.
+Recurso especial da Fazenda Nacional parcialmente conhecido e, nessa parte, improvido. Recurso especial adesivo de [NOME] não conhecido.
+(REsp 1443110/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+ADMINISTRATIVO - PENA DE PERDIMENTO - EXCEDENTE NÃO DECLARADO.
+1. A pena de perdimento deve incidir apenas sobre o excedente não declarado, não havendo restrição legal ao desembaraço aduaneiro da mercadoria regularmente declarada na guia de importação.
+2. Observância dos princípios da razoabilidade e da proporcionalidade.
+3. Agravo regimental não provido
+(AgRg no Ag 1.198.194/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 25/05/2010).
+Assim, na hipótese vertente, correta a determinação do Tribunal de origem no sentido de a assegurar ao impetrante a liberação de R$ 10.000,00 (dez mil reais) a partir da totalidade do numerário apreendido.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
