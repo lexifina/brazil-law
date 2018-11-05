@@ -1,0 +1,15 @@
+EMENTA
+RECURSO ESPECIAL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. TRATAMENTO DE ESGOTOS. COBRANÇA INDEVIDA DE TARIFA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ART. 9º, § 1º, VIII, DO RISTJ. REDISTRIBUIÇÃO DO FEITO A UM DOS MINISTROS INTEGRANTES DAS TURMAS DA PRIMEIRA SEÇÃO.
+DECISÃO
+Trata-se de recurso especial interposto por Companhia Estadual de Águas e Esgotos - CEDAE contra o acórdão de apelação proferido nos autos da ação indenizatória promovida por [NOME]. O referido julgado foi assim ementado (e-STJ, fl. 236):
+Apelação. Concessionária do serviço público de águas e esgotos. Cedae. Cobrança de tarifa de esgoto de usuário residente em região não beneficiada por estação de tratamento. Licitude reconhecida pelo Superior Tribunal de Justiça que não implica admissão da cobrança na alíquota integral. Abatimento proporcional do preço.
+1. Aplica-se o prazo geral do direito civil, e não o especial do art. 1º do Decreto nº 20.910/32, nem o do art. 27 da Lei nº 8.078/90, nem tampouco o minorado do art. 206, § 3º, V, do Código de 2003, à pretensão de repetição de indébito deduzida pelo usuário contra pessoas jurídicas prestadoras de serviço público de água e esgoto (REsp nº 928.267-RS, nº 1.179.478-RS, nº 1.155.657-SP e nº 1.163.968-RS).
+2. A orientação do Superior Tribunal de Justiça quanto à licitude da cobrança de tarifa de esgoto, ainda que desenvolvida apenas uma ou duas das atividades previstas no art. 3º, I, "b", da Lei nº 11.445/2007 (Marco Regulatório do Saneamento Básico), não implica autorização de cobrança desse preço público no seu valor integral, já que o serviço correspondente tampouco é prestado na sua totalidade.
+3. Em aplicação do art. 20, inciso III, do Código de Defesa do Consumidor, por analogia, o usuário dos serviços públicos de esgotamento que conte apenas com a simples ligação de sua residência à rede coletora de dejetos, sem tratamento do lodo nem, por conseguinte, sua adequada disposição final no meio ambiente, faz jus ao abatimento proporcional da respectiva tarifa à metade do valor constante da fatura, que é o mesmo cobrado pela concessionária, indistintamente, em toda a região metropolitana por ela atendida.
+4. Devolução do excesso já pago pela forma simples, seja por força da Súmula nº 85 deste Tribunal, seja ainda pela inteligência do inciso III do art. 20 da Lei nº 8.078/90.
+5. Provimento parcial. Solução monocrática.
+Brevemente relatado, decido.
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e das respectivas Turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Na hipótese dos autos, trata-se de ação de repetição de indébito cumulada indenizatória por danos morais e materiais ajuizada contra concessionária de serviço de tratamento de esgoto sob o argumento da cobrança indevida de tarifas, o que denota a competência de uma das Turmas integrantes da Primeira Seção desta Corte Superior para julgar o feito.
+Dessa forma, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
