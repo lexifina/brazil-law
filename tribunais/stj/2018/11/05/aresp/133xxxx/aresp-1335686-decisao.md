@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial ao fundamento de incidência da Súmula 83/STJ.
+Sustenta o recorrente, nas razões do especial, contrariedade ao art. 386, III, do Código de Processo Penal, ao fundamento de que é atípica a conduta de portar uma única munição sem apreensão de dispositivo apto a deflagrá-la porquanto não seria possível lesionar o bem jurídico.
+Requer o provimento do recurso a fim de absolver o recorrente do porte ilegal de munição.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+O recorrente foi condenado às penas de 7 anos de reclusão, em regime fechado, e 700 dias-multa, como incurso no art. 33, caput, da Lei 11.343/06, e às penas de 1 ano de detenção, em regime semiaberto, e 10 dias-multa, como incurso no art. 12, caput, da Lei 10.826/03.
+Segundo se extrai do acórdão combatido, foi encontrado em posse do recorrente, além dos entorpecentes, uma munição de calibre .38, sem que fosse encontrado qualquer dispositivo capaz de deflagrá-la.
+A origem manteve a condenação do recorrente, pelo porte ilegal de munição de uso permitido, nos seguintes termos (fl. 509):
+O delito de posse ilegal de munição de uso permitido (tipificado no artigo 12 da Lei 10.826/2003), é de mera conduta e perigo abstrato, não exigindo ocorrência de nenhum resultado naturalístico para a sua configuração, bastando a simples posse do referido artefato, que, per si, já expõe a perigo a incolumidade pública, independentemente da apreensão da arma de fogo, justificando-se, assim, a presunção de ofensa ao bem jurídico.
+Entretanto, embora formalmente típica a conduta praticada pelo recorrente, recai sobre ela a ausência de tipicidade material, diante da aplicação do princípio da insignificância. Tal preceito é parâmetro utilizado para interpretação da norma penal incriminadora, buscando evitar que o instrumento repressivo estatal persiga condutas que gerem lesões inexpressivas ao bem jurídico tutelado ou, ainda, sequer lhe causem ameaça.
+Não obstante esta Corte possua o entendimento de que os delitos previstos no Estatuto do Desarmamento configuram crime de mera conduta, ou seja, basta a prática de alguma das condutas previstas no tipo penal para a subsunção do fato à norma penal, sendo prescindível a demonstração de lesão ou dano, entende-se também, ser possível a aplicação do princípio da insignificância a tais delitos quando evidenciada flagrante desproporcionalidade da resposta penal.
+O apenamento em 1 ano de detenção pela posse de uma munição de calibre .38, sem que houvesse nenhum armamento apto para defragrá-la, é evidentemente desproporcional, devendo a conduta do recorrente ser considerada materialmente atípica.
+A propósito, confiram-se:
+RECURSO ESPECIAL. DIREITO PENAL. ESTATUTO DO DESARMAMENTO. POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. CRIME DE PERIGO ABSTRATO. EXCEPCIONALIDADE DO CASO CONCRETO. ABSOLUTA AUSÊNCIA DE SIGNIFICADO LESIVO.
+1. Os delitos previstos no Estatuto do Desarmamento são crimes formais, de mera conduta e de perigo abstrato e se consumam independentemente da ocorrência de efetivo prejuízo para a sociedade, sendo o dano presumido pelo tipo penal. Assim, como regra geral, é inaplicável o princípio da insignificância aos crimes de posse e porte de arma de fogo ou munição, notadamente porque não se cuidam de delitos desprovidos de periculosidade social em face mesmo da natureza dos bens jurídicos tutelados e do princípio da proteção eficiente.
+2. Não obstante, inexiste perigo de lesão ou probabilidade de dano aos bens jurídicos tutelados pela norma na conduta de alguém que é ourives e vive de sua profissão comercializando jóias, sem qualquer notícia de envolvimento com práticas criminosas, em que foram apreendidas apenas três munições dentro da gaveta de uma mesa no interior do seu estabelecimento comercial, desacompanhadas de arma de fogo.
+3. Recurso ministerial improvido (REsp 1.699.710/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/11/2017, DJe 13/11/2017).
+PENAL. RECURSO ESPECIAL. CRIME DE POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. 8 MUNIÇÕES. AUSÊNCIA DE ARMAS APTAS PARA DISPARAR. POSSIBILIDADE. RECURSO PROVIDO.
+1. O princípio da insignificância é parâmetro utilizado para interpretação da norma penal incriminadora, buscando evitar que o instrumento repressivo estatal persiga condutas que gerem lesões inexpressivas ao bem jurídico tutelado ou, ainda, sequer lhe causem ameaça.
+2. A Sexta Turma do Superior Tribunal de Justiça, alinhando-se ao Supremo Tribunal Federal, tem entendido pela possibilidade da aplicação do princípio da insignificância aos crimes previstos na Lei 10.826/03, a despeito de serem delitos de mera conduta, afastando, assim, a tipicidade material da conduta, quando evidenciada flagrante desproporcionalidade da resposta penal.
+3. Ainda que formalmente típica, a apreensão de 8 munições na gaveta do quarto da ré não é capaz de lesionar ou mesmo ameaçar o bem jurídico tutelado, mormente porque ausente qualquer tipo de armamento capaz de deflagrar os projéteis encontrados em seu poder.
+4. Recurso especial provido. (REsp 1735871 / AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/06/2018, DJe 22/06/2018).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, absolvendo o recorrente do delito capitulado no art. 12 da Lei 10.826/03.
+Publique-se.
+Intimem-se.
