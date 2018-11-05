@@ -1,0 +1,32 @@
+DECISÃO
+01. Trata-se de medida de Interpelação Judicial Criminal ajuizada por [NOME], em face de [NOME], na qual se requer:
+"a) DETERMINAR A CITAÇÃO por mandato do demandado, [NOME], no endereço fornecido no preâmbulo para que o mesmo compareça a Juízo para esclarecer as seguintes questões:
+- Em que data o Interpelado fez a oferta do relógio ROLEX ao então eleito Presidente do Tribunal de Justiça do Estado do Amazonas;
+- Onde e de que forma adquirira o relógio ROLEX que fora presenteado ao então eleito Presidente do Tribunal de Justiça do Estado do Amazonas;
+- Onde e como o Interpelado efetivou a entrega para o Interpelante do relógio ROLEX ao então eleito Presidente do Tribunal de Justiça do Estado do Amazonas;
+- Se, em decorrência do presente, o Excelentíssimo Desembargador FLÁVIO HUMBERTO PASCARELLI LOPES, o beneficiou ou retribuiu, praticando ou deixando de praticar algum ato de ofício;
+Se mantém laços de amizade com o Excelentíssimo Desembargador FLÁVIO HUMBERTO PASCARELLI LOPES, freqüenta, a título particular, seu gabinete no Tribunal de Justiça do Estado do Amazonas e/ou sua residência, vice e versa.
+b) NOTIFICAR a Procuradoria Geral da República, na pessoa de seu(a) Procurador(a), para que a mesma seja cientificada dos fatos nesta narrados e, na forma como lhe comanda cogentemente o art. 129, Inciso I, da Constituição Federal, para que a adote as providências que o caso requer;
+c) NOTIFICAR o Excelentíssimo Senhor Desembargador do Tribunal de Justiça do Estado do Amazonas, FLÁVIO HUMBERTO PASCARELLI LOPES, para que o mesmo tenha ciência dos crimes que lhe foram atribuídos pelo Interpelado e da tramitação desta, para que, querendo, tome as providências que julgar necessárias à defesa de sua honra;
+d) NOTIFICAR o Conselho Nacional de Justiça - CNJ, na pessoa de seu Corregedor Geral, para que adote as providências que o caso requer;
+e) DETERMINAR, com base no art. 40 da Lei Orgânica da Magistratura - LOMAM, recepcionado pelo art. 37, caput da Constituição Federal; da reiterada emanação jurisprudencial deste Sodalício, cristalizada no julgamento pela sua Primeira Seção, ao julgar que:
+"a restrição do acompanhamento da reclamação criminal por meio da internet, imposta para preservar a independência e integridade de magistrados perante terceiros, não incorre em ofensa aos princípios da publicidade e da ampla defesa" (STJ, RMS 21712, Maria Thereza, 6a T., u., 16.10.07). Admitindo a restrição da vista dos autos, também em caso de investigação dirigida contra magistrado: TRF2, MS 20020201008341-1, [NOME]. OE, u., 03.03.05). FINALMENTE, depois de transcorrido o prazo legal para o Interpelado prestar as devidas explicações nesta solicitadas, REQUER sejam os autos entregues ao Interpelante, na forma da Lei".
+FINALMENTE, depois de transcorrido o prazo legal para o Interpelado prestar as devidas explicações nesta solicitadas, REQUER sejam os autos entregues ao Interpelante, na forma da Lei" (fls. 09/10).
+02. Instado a se manifestar, o Ministério Público Federal pugnou pelo reconhecimento da incompetência deste Tribunal Superior, com a remessa dos autos à Justiça estadual do Amazonas.
+03. Pois bem. Compulsando detidamente as razões aventadas pelo requerente, tenho que razão assiste ao parquet, o qual bem destaca que:
+"O pedido não reúne condições de conhecimento.
+A interpelação judicial "constitui típica providência de ordem cautelar destinada a aparelhar ação penal principal tendente a sentença condenatória" (Pet 5557, Relator Ministro CELSO DE MELLO) contra o interpelado. Desta forma, a competência para sua tramitação cabe ao juízo onde será processado aquele a quem se pede explicações.
+No caso, como se nota, o interpelado não dispõe de foro especial por prerrogativa de função, o que afasta a competência dessa Corte Superior de Justiça:
+ A  competência penal originária do Supremo Tribunal Federal, para processar pedido de explicações em juízo, deduzido com fundamento no Código Penal (art. 144), somente se concretizará quando o interpelado dispuser, "ratione muneris", da prerrogativa de foro, perante a Suprema Corte, nas infrações penais comuns (CF, art. 102, I, "b" e "c").  .. . (Pet 4444 AgR, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 26/11/2008, DJe-241 Dl-VULG 18-12-2008 PUBLIC 19-12-2008 EMENT VOL-02346-01 PP-00154 RTJ VOL-00208-01 PP-00040 RSJADV fev., 2009, p. 43-48 RT v. 98, n. 881, 2009, p. 494-505)
+O fato de o interpelado ter mencionado possível delito cometido por autoridade detentora de foro especial por prerrogativa de função não justifica o processamento da interpelação, diante da manifesta inadequação do meio processual.
+Com efeito, a narrativa sugere crime de corrupção por parte de Desembargador, isto é, delito que se processa mediante ação penal pública incondicionada, cuja titularidade cabe ao Ministério Público, não detendo o particular legitimidade ativa para o ajuizamento de qualquer providência processual.
+Por isso mesmo, a interpelação judicial na seara criminal "diz respeito
+a um procedimento anterior ao início da ação penal de iniciativa privada" (GRECO
+ROGÉRIO. Código Penal Comentado. 11. ed. Niterói/RJ: Impetus, 2017, p. 462), isto é, vocaciona-se ao esclarecimento de afirmações que possam caracterizar crime contra honra, nos termos do artigo 144 do CP:
+Art. 144. Se, de referências, alusões ou frases, se infere calúnia, difamação ou injúria, quem se julga ofendido pode pedir explicações em juízo. Aquele que se recusa a dá-las ou, a critério do juiz, não as dá satisfatórias, responde
+pela ofensa.
+Inviável, assim, sua utilização para esclarecimento de situação fática que possa ensejar ação penal de iniciativa pública, que detém como legitimado ativo o Ministério Público.
+Aliás, o próprio interpelante aduz em sua petição inicial que o delito sugerido pelo interpelado não ocorreu, o que deixa claro que sua intenção é mesmo a de deixar evidenciar a violação de sua honra pelo interpelado, e não esclarecer qualquer conduta atribuível ao Desembargador.
+Ante o exposto, manifesta-se o Ministério Público Federal pelo reconhecimento da incompetência desse Superior Tribunal de Justiça para o feito, com a remessa dos autos à Justiça estadual do Amazonas (fls 31/32).
+04. Frente ao exposto, tendo como base o parecer ministerial, reconheço a incompetência deste Tribunal Superior, ao passo em que determino a remessa dos presentes autos, mediante distribuição, a uma das Varas Criminais da Justiça Estadual do Amazonas.
+05. Diligências necessárias.
