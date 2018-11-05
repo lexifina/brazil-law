@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ILEGITIMIDADE PASSIVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO A ARTIGOS. MATÉRIA DIVERSA DA TRATADA NOS AUTOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por BANCO MERCANTIL DO BRASIL S.A., com base no art. 105, III, a e c, da Constituição Federal.
+Compulsando os autos, verifica-se que o agravante ajuizou agravo de instrumento contra decisão do Juízo de primeiro grau (e-STJ, fls. 4-20), tendo o Tribunal de origem decidido, por unanimidade, dar-lhe parcial provimento, nos seguintes termos (e-STJ, fl. 135):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PLEITO PELA REFORMA DA DECISÃO. ILEGITIMIDADE PASSIVA. SUBSTITUIÇÃO PROCESSUAL. PEDIDO DE DESCONSIDERAÇÃO DEFERIDA. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. INAPLICABILIDADE DO ARTIGO 400 CPC/2015. COMPENSAÇÃO DAS DÍVIDAS NÃO EFTUADA PELA PERÍCIA JUDICIAL. DECISÃO REFORMADA NESTES TÓPICOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, o recorrente alegou violação aos arts. 485, VI (267, IV, do CPC/1973), 567, II (778, III, do CPC/1973) e 914, § 1º (736, parágrafo único, do CPC/1973), todos do CPC/2015.
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da Súmula n. 7/STJ.
+Brevemente relatado, decido.
+A Corte estadual, ao apreciar o recurso de apelação interposto pelo ora recorrente, concluiu quanto à ilegitimidade (e-STJ, fls. 142-144):
+Sem razão quanto à sua ilegitimidade passiva.
+Depreende-se dos autos de Embargos à execução nº 0008202-50.2007.8.16.0017 e da ação Executiva, vê-se que apesar que a empresa ITAPEVA II MULTICARTEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NÃO-PADRONIZADOS requereu sua substituição processual nos autos, porém, posteriormente requereu sua exclusão e o desentranhamento dos autos de todo o seu requerimento, tendo o juízo a decidido a questão nos seguintes termos, à qual deve ser mantida incólume:
+ ..
+Portanto, vê-se dos autos que nem sequer o juízo a quo tinha deferido a substituição processual da instituição financeira pela referida empresa ITAPEVA II, e mesmo que a referida empresa jurídica requereu sua substituição nos autos, posteriormente no mov. 53.1 requereu a desconsideração de todas as suas petições protocoladas nos autos e o desentranhamento de todas as suas petições e documentos juntados, o que foi deferido pelo juízo a quo no mov. 54.1 dos autos nº. 0008202-50.2007.8.16.0017, bem como, no item 7 do mov.102.1.
+Assim, não houve a substituição processual alegada pela instituição financeira, e consequentemente não há que se falar em sua ilegitimidade passiva, e neste tópico a decisão combatida deve ser mantida incólume.
+Com efeito, a revisão do julgado, com o consequente acolhimento da pretensão recursal, a fim de que seja reconhecida sua ilegitimidade para figurar no polo passivo em virtude de cessão de crédito supostamente realizada, demandaria, necessariamente, o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7/STJ.
+Ademais, quanto à possível violação ao art. 567, II, do CPC/2015 (antigo 778, III, do CPC/1973), constata-se que o artigo do CPC de 2015 refere-se a interdito proibitório, e o do CPC de 1973 trata da extinção das obrigações, não havendo incisos em nenhuma das normas tidas como violadas, além de inexistir correspondência entre elas. Assim, nítido que a matéria nelas versada é diversa da tratada nos autos.
+Dessa forma, identifica-se que as razões do recurso especial, nesse ponto, encontram-se dissociadas da prescrição contida na legislação federal apontada como violada, incidindo, por analogia, o enunciado da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES DISSOCIADAS DE VIOLAÇÃO À DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL.
+I - A falta de combate a fundamento suficiente para manter o acórdão recorrido, bem como as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, demonstra deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284, do Supremo Tribunal Federal.
+II - O Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, apenas reiterando as alegações veiculadas no recurso anterior.
+III - Agravo regimental improvido (AgRg no AREsp 439.895/SP, Relatora a Ministra Regina Helena Costa, Primeira Turma, julgado em 12/02/2015, DJe 26/02/2015).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
