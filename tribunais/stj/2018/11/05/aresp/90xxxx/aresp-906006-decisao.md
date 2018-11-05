@@ -1,0 +1,36 @@
+DECISÃO
+
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão, assim ementado (e-STJ fl. 306):
+MILITAR. CONCURSO PÚBLICO. REGRA DO EDITAL. ÍNDICE DE MASSA CORPORAL. EXCLUSÃO ILEGAL DO CERTAME. AUSÊNCIA DE PREVISÃO LEGAL.
+Não existe a fixação do Índice de Massa Corpórea - IMC como fator à aptidão ou não para ingresso na carreira militar, não podendo o Edital do Concurso estabelecer requisito que só poderia ser exigido por força de imposição legal.
+Embargos declaratórios foram rejeitados (e-STJ fl. 321)
+No especial obstaculizado, a parte recorrente apontou violação do art. 535, I e II, do CPC/1973, dos arts. 10 e 11 da Lei n. 6.880/1980, do art. 13 da Lei n. 4.375/1964 e do art. 20, § 4º, da Lei n. 12.464/2011, sustentando, além da negativa de prestação jurisdicional, que as leis de regência da carreira militar permitem o estabelecimento de regras específicas para o ingresso, sobretudo para tratar dos aspectos físicos e da saúde do candidato, razão pela qual a limitação sobre o Índice de Massa Corporal previsto no edital teria obedecido aos aspectos da legalidade.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 83 do STJ. (e-STJ fls. 365/372).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludido fundamento.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Em relação à alegada ofensa do art. 535, I e II, do CPC/1973, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se observa violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO LIVRE DE OMISSÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. O SIMPLES PEDIDO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO QUE ESTEJA EM FASE DE COBRANÇA JUDICIAL E GARANTIDO POR PENHORA, SE NÃO FOR INFORMADO AO JUIZ DA EXECUÇÃO ANTES DA ARREMATAÇÃO, NÃO TEM O CONDÃO DE SUSPENDER A EXIGIBILIDADE DA DÍVIDA EXECUTADA, PARA O QUE SE EXIGE, AINDA, A HOMOLOGAÇÃO DO PARCELAMENTO. PRECEDENTES DO STJ. ACÓRDÃO, QUE, ADEMAIS, É EXPRESSO AO AFIRMAR A MÁ-FÉ DA RECORRENTE EM DEIXAR DE COMUNICAR, TÃO LOGO FOSSE POSSÍVEL, A REALIZAÇÃO DO PARCELAMENTO, AINDA QUE TAL COMUNICAÇÃO TENHA OCORRIDO ANTES DA ARREMATAÇÃO. SÚMULA 7/STJ. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL.
+1. Trata-se, na origem, de embargos à arrematação em execução fiscal do INSS em que a executada alega a suspensão do crédito tributário pelo parcelamento e sua comunicação ao Juízo antes da arrematação, pleiteando, assim, sua desconstituição.
+2. A alegada violação ao art. 535, II do CPC não ocorreu, pois a lide foi fundamentadamente resolvida nos limites propostos. As questões postas a debate foram decididas com clareza, não se justificando o manejo dos Embargos de Declaração. Ademais, o julgamento diverso do pretendido não implica ofensa à norma ora invocada. Tendo encontrado motivação suficiente, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado. Precedente: AgRg no AREsp 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.08.2011.
+(..)
+5. Agravo Regimental desprovido. (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014)
+Quanto às demais infringências apontadas, o mais recente entendimento desta Corte é no sentido de que a lei de regência das forças armadas (Estatuto dos Militares - Lei n. 6.880/80) não elenca nenhuma exigência quanto ao limite de altura, peso ou IMC para o ingresso na carreira, de modo que a previsão de algum desses requisitos, em concursos públicos, somente seria permitida mediante respaldo legal específico, compatível com as atribuições do cargo, o que não aconteceu na situação em lume, já que constava apenas no edital.
+Nesse sentido, Superior Tribunal de Justiça possui os seguintes precedentes:
+ADMINISTRATIVO. CONCURSO. CURSO DE FORMAÇÃO DE TAIFEIROS. LIMITAÇÃO DE PESO PREVISTO NO EDITAL. INEXISTÊNCIA DE PREVISÃO LEGAL.
+ ..
+II - O Superior Tribunal de Justiça já pacificou o entendimento de que é possível realizar exigências quanto à altura e ao peso mínimo e máximo para ingresso na carreira militar, desde que haja previsão legal específica que imponha essas restrições. Nesse sentido: RMS 47.299/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/05/2015, DJe 30/06/2015.
+III - No caso, por mais que se possa compreender a razoabilidade da eventual fixação de limite de altura e peso para ingresso em determinadas carreira, é forçoso reconhecer que a lei (Estatuto dos Militares - Lei nº 6.880/80) não elenca qualquer exigência quanto ao limite de altura e peso ou IMC para o ingresso nas Forças Armadas, mormente para a matrícula no Curso de Formação de Taifeiros.
+IV - Agravo interno improvido.
+(AgInt no REsp 1570361/SP, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 26/03/2018).
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. CONCURSO PÚBLICO. INGRESSO NA CARREIRA MILITAR. APTIDÃO FÍSICA. ÍNDICE DE MASSA CORPORAL. CRITÉRIO. EXIGÊNCIA DE PREVISÃO LEGAL ESPECÍFICA. AUSÊNCIA. RECURSO IMPROVIDO.
+ ..
+III - A exigência de limites máximo e mínimo de Índice de Massa Corporal (IMC), em concursos públicos, somente é permitida mediante previsão legal específica, compatível com as atribuições do cargo. Precedente.
+IV - Recurso improvido.
+(REsp 1610667/RS, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 15/12/2017).
+Assim, aplica-se, na espécie, a Súmula 83 do STJ.
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
