@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 489):
+"HONORÁRIOS DE PROFISSIONAIS LIBERAIS. ARQUITETO. RECONVENÇÃO.
+Caso em que o arquiteto não comprovou a realização e entrega dos projetos arquitetônicos que ensejam sua pretensão de cobrança. Execução de obra irregular, sem guiar-se por um projeto. Rescisão causada pelo arquiteto. Descumprimento do contrato. Improcedência da pretensão de cobrança de honorários.
+Ausência de individuação dos danos materiais alegadamente sofridos com a rescisão do contrato de execução da obra. Improcedência da reconvenção.
+APELO PROVIDO EM PARTE."
+Opostos embargos declaratórios, foram rejeitados às fls. 510/516.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 373, 489, 492, 1.022, 1.025 e 1.038 do CPC/15. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que: (i) "a obrigação probatória somente poderia ser remetida à parte contrária, que deveria apresentar prova clara e cabal de que não houve a prestação do serviço" (e-STJ, fls. 529/530); (ii) "não se permite que se aplique um critério objetivo de que não seria crível que a parte não tenha guardada uma cópia do projeto" (e-STJ, fl. 535), sob pena de se ir além das pretensões da inicial e da defesa.
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, não há que se falar em violação dos arts. 489, 1.022, 1.025 e 1.038 do Código de Processo Civil de 2015, tendo em vista que a questão submetida ao Tribunal de origem - análise das provas apresentadas e a quem compete o cumprimento de seu ônus - foi suficientemente apreciada.
+Com efeito, a partir de uma análise detida dos autos, observa-se que não há que se falar em obscuridade, contradição ou omissão a respeito do alegado dever de indenização do recorrido, tendo em vista que o acórdão recorrido foi minucioso na análise do conjunto fático-probatório dos autos, fundamentando satisfatoriamente o decisum.
+Dessa forma, não prospera a alegada ofensa aos arts. 489, 1.022, 1.025 e 1.038 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem adotou fundamentação suficiente no que tange ao conteúdo dos dispositivos invocados no apelo nobre, conforme se demonstra com o trecho dos embargos de declaração a seguir (e-STJ, fls. 513/516):
+"Não se verifica, na situação em voga, omissão ou obscuridade no julgado, já que examinada a controvérsia sub judice de forma fundamentada e suficiente.
+Assinale-se que o acórdão embargado resolveu recurso de apelação, interposto pela parte ora embargada, apreciando justamente a questão de ter havido ou não prestação de serviços arquitetônicos, bem como se o demandante faria jus ou não à remuneração. Não houve decisão fora dos limites da lide.
+Ademais, ao contrário do defendido nestes embargos, houve ampla análise da prova produzida nestes autos, concluindo-se que a documentação apresentada pelo autor não caracteriza elaboração de um projeto arquitetônico propriamente dito, mas sim desenhos incompletos que, inclusive, geraram diversas falhas de execução, onerando o dono da obra.
+(..)
+Veja-se, então, que houve ampla analise da prova produzida nos autos. Não há omissão no acórdão embargado, porquanto as teses controvertidas foram devidamente examinadas, não se visualizando necessidade de menção expressa aos argumentos ora invocados pela parte embargante, eis que secundários ao desfecho dado do feito."
+Ressalta-se que é indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No tocante à alegação de que incorreu o Tribunal a quo em julgamento extra petita, sob a tese que este se pronunciou sobre matéria não suscitada nos autos, anota-se que tal insurgência não merece guarida. Isso porque, consoante o posicionamento desta Corte, não se configura a incongruência da decisão quando o ponto enfrentado advém da interpretação lógico-sistemática da petição inicial e da contestação, como no caso, afastando-se a tese de violação ao princípio da adstrição. Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REFORMATIO IN PEJUS E JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA.
+(..)
+3. Não há nulidade no julgamento quando acolhido o pleito em perfeita harmonia com o princípio da congruência, pois o pedido inicial "deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita" (AgRg no AREsp n.
+322.510/BA, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/06/2013).
+4. Agravo interno desprovido."
+(AgInt no REsp 1327487/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/08/2018, DJe 19/09/2018)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DE COBRANÇA. SENTENÇA EXTRA PETITA. NÃO OCORRÊNCIA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ.
+(..)
+2. No tocante aos honorários advocatícios, cumpre salientar que a jurisprudência do STJ é pacífica ao considerar que a apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontra inequívoco óbice nos termos da Súmula 7/STJ, por revolver matéria eminentemente fáctica.
+3. Agravo Regimental não provido."
+(AgRg no AREsp 322.510/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2013, DJe 25/06/2013)
+No tocante à distribuição do ônus da prova, nota-se que a Corte de origem consignou que "era ônus do demandante, que pretende cobrar pelos serviços que prestou, comprovar que completou o projeto arquitetônico contratado" (e-STJ, fl. 493). No entanto, o recorrente se insurge com a conclusão, argumentando que a parte recorrente é quem deveria "apresentar prova clara e cabal de que não houve a prestação do serviço" (e-STJ, fls. 529/530).
+Ocorre que a interpretação do acórdão é consoante com a desta Corte de Justiça, no sentido da impossibilidade de se exigir da parte a prova de fato negativo, como pretende o recorrente, pois de dificílima produção. A esse respeito, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SERVIÇOS DE TRANSPORTE. PRESTAÇÃO. NÃO COMPROVAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME PROBATÓRIO. ÔNUS PROBATÓRIO. REEXAME. PROVA NEGATIVA. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+(..)
+ 3. É firme a orientação deste Tribunal Superior no sentido de que é inviável a exigência de prova de fato negativo. Precedentes.
+(..)."
+(AgInt no AREsp 1206818/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+
+"ADMINISTRATIVO. PROCESSUAL CIVIL. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. DEMONSTRAÇÃO DE DIREITO LÍQUIDO E CERTO. CLÁUSULA DO EDITAL DO CONCURSO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. EXIGÊNCIA DE PROVA DE FATO NEGATIVO. FORMALISMO EXCESSIVO. PROVA DIABÓLICA. APLICAÇÃO DAS CLÁUSULAS GERAIS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+(..)
+2. Ainda que assim não fosse, vale destacar que o Tribunal a quo entendeu, a partir da análise dos fatos constantes dos autos, pela presença de direito líquido e certo apto a ser tutelado em sede de mandado de segurança.
+3. Isso porque, em se tratando de fato negativo (ou seja, circunstância que ainda não tinha ocorrido) a exigência da produção probatória consistiria, no caso em concreto, num formalismo excessivo e levaria à produção do que a doutrina e a jurisprudência denominam de "prova diabólica", exigência que não é tolerada na ordem jurídica brasileira. Precedente: AgRg no AgRg no REsp 1187970/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/08/2010, DJe 16/08/2010.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 262.594/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/12/2012, DJe 05/02/2013)
+Ademais, verifica-se que o acórdão recorrido afastou a alegação de afronta à regra de distribuição do ônus da prova por compreender que "era ônus do demandante, que pretende cobrar pelos serviços que prestou, comprovar que complementou o projeto arquitetônico contratado" (e-STJ, fl. 493). Ora, ocorre que, consoante o artigo 373 do CPC/15, o ônus da prova incumbe ao autor, quanto ao fato constitutivo de seu direito, sendo certo que, na hipótese, o afastamento de tal ilação exigiria a demonstração por parte do recorrente de que, no caso concreto, situação excepcional refutaria a regra geral.
+Sendo assim, a modificação do entendimento lançado no v. acórdão recorrido, para aferir as peculiaridades que alterariam a regra de distribuição do ônus da prova, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ÔNUS PROBATÓRIO. CERCEAMENTO DE DEFESA. VERIFICAÇÃO. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. No que tange à violação ao art. 373 do CPC - cerceamento de defesa - destaca-se que cabe ao magistrado, como destinatário final, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento.
+2. A questão probatória do ônus do autor ou do réu é questão inviável de ser analisada por esta Corte Superior, em virtude do óbice da Súmula nº 7 do STJ.
+3. Ademais, "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 13/9/2017).
+4. Ao autor incumbe a prova dos atos constitutivos de seu direito, situação bem evidenciada pela Corte de origem, que afirmou textualmente que não se comprovou o dever de prestar contas do recorrido.
+(..)."
+(AgInt no AREsp 1200103/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2018, DJe 25/09/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.200,00 (hum mil e duzentos reais) para R$ 1.320,00 (hum mil e trezentos e vinte reais) sobre o valor da condenação.
+Publique-se.
