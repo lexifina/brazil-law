@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por [NOME], com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA. JULGAMENTO MONOCRÁTICO COM FULCRO NO ARTIGO 932, INCISO III, DO NOVO CÓDIGO DE PROCESSO CIVIL. I NTEMPESTIVIDADE DO RECURSO. INOBSERVÂNCIA AO PRAZO PREVISTO NOS ARTIGOS 219 E 1.003, § 5º, DO NOVO CÓDIGO DE PROCESSO CIVIL.. AFASTADA A ALEGAÇÃO DE PRAZO EM DOBRO PARA RECORRER, POIS A PARTE ADVERSA NÃO FOI CITADA AINDA, NÃO TENDO PROCURADOR CONSTITUÍDO NOS AUTOS. UNÂNIME. RECURSO DESPROVIDO.
+Opostos embargos de declaração, estes restaram rejeitados (fls. 488-492, e-STJ).
+Nas razões do recurso especial (fls. 496-510, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, violação ao artigo 229 do NCPC, ao argumento de que não há razão para não se aplicar o prazo em dobro na hipótese dos autos.
+Contrarrazões apresentadas às fls. 552-558, e-STJ.
+Após decisão de admissão do recurso especial (fls. 586-594, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Acerca da controvérsia, o Superior Tribunal de Justiça firmou o entendimento no sentido de que "A regra benéfica do prazo em dobro independe do comparecimento aos autos do outro litisconsorte para apresentar contestação ou recorrer (no caso de liminar inaudita altera parte), bastando que apresente sua peça separadamente com advogado exclusivo." (REsp 1593161/SP, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/06/2018, DJe 06/09/2018).
+Ainda, no mesmo sentido:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. APELAÇÃO INTERPOSTA ANTERIORMENTE À PUBLICAÇÃO DA SENTENÇA. TEMPESTIVIDADE DO RECURSO. LITISCONSÓRCIO PASSIVO. PROCURADORES DIFERENTES. PRAZO EM DOBRO PARA CONTESTAÇÃO. REVELIA DE UM DOS LITISCONSORTES VERIFICADA APENAS COM O TRANSCURSO DO PRAZO DE DEFESA. PRECEDENTES DESTA CORTE DE JUSTIÇA.  ..  2. A regra do art. 191, do CPC, que confere prazo dobrado para contestar quando os réus atuem com procuradores diversos, tem aplicação independentemente do comparecimento do outro litisconsorte à lide, bastante que apresente a sua defesa separadamente, mediante advogado exclusivo, sob pena de se suprimir, de antemão, o direito adjetivo conferido à parte que, atuando individualmente, não tem como saber se o co-réu irá ou não impugnar o feito. 2. Agravo interno não provido. (AgInt no AgRg no REsp 1277860/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/11/2017, DJe 01/12/2017)  grifou-se
+PROCESSO CIVIL. REVISIONAL DE ALUGUEL. LITISCONSORTES COM PROCURADORES DIVERSOS. BENEFÍCIO DO PRAZO EM DOBRO PARA CONTESTAR. INTELIGÊNCIA DO ARTIGO 191 DO CPC.
+ 1. No âmbito desta Corte, prevalece o entendimento de que a regra mais benéfica do artigo 191 do Códex Instrumental, qual seja, a contagem em dobro dos prazos, independe de prévia declaração dos litisconsortes e é aplicável, ainda que fora do prazo simples. Precedentes. 2. Mesmo que o magistrado não esteja adstrito ao laudo, não ofende ao princípio da livre apreciação da prova a utilização de perito da sua confiança a fim de formar seu convencimento, conforme faculta-lhe o Código de Processo, haja vista ser o destinatário final da prova. 3. Agravo regimental improvido. (AgRg no Ag 1146930/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/03/2010, DJe 12/04/2010)  grifou-se
+O órgão julgador, por sua vez, assim decidiu:
+O recorrente tomou ciência da decisão agravada, conforme certidão anexa aos autos em 01/11/2016. Assim, o prazo começa a contar no primeiro dia útil seguinte à intimação, que foi 28.06.2016, encerrando- se em 25/11/2016.
+Contudo, o presente agravo foi interposto somente em 16/12/2016, sendo intempestivo.
+Aqui não se falar em prazo em dobro para recorrer, pois a outra ré nem mesmo foi citada ainda, pelo que se vê dos autos e informações extraídas do site do TJRS, não tendo procurador constituído nos autos. (fl. 467, e-STJ)
+Como se vê, o acórdão recorrido, ao considerar a necessidade de citação da outra parte demandada para aplicar a regra do prazo em dobro, destoa da jurisprudência desta Corte, razão pela qual merece prosperar a pretensão do recorrente.
+2. Ante o exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568/STJ, dou provimento ao recurso especial para determinar a aplicação do prazo em dobro no feito, devendo os autos, por conseguinte, retornar ao Tribunal de origem.
+Publique-se.
+Intimem-se.
