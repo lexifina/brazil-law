@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOÃO VICTOR DA SILVA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Os autos dão conta de que, em 11/3/2017, o ora recorrente foi preso em flagrante pela suposta prática do crime previsto no art. 157, § 2º, I, do Código Penal. Em 3/8/2017, sobreveio a prolação de sentença penal condenatória, na qual o Juízo da 3ª Vara Criminal da Comarca de Belo Horizonte/MG fixou a pena em 5 (cinco) anos e 4 (quatro) meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 13 (treze) dias-multa, vedando o direito do réu de apelar em liberdade (e-STJ fls. 13/19).
+Objetivando garantir ao acusado o direito de recorrer em liberdade e a sua inserção nas regras do regime semiaberto, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 100):
+HABEAS CORPUS - ROUBO MAJORADO - SENTENÇA PENAL CONDENATÓRIA PROFERIDA - SENTENCIADO PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL - DIREITO DE RECORRER EM LIBERDADE - INVIABILIDADE - DECISÃO FUNDAMENTADA - INTELIGÊNCIA DO ART. 387, § 1º, DO CPP - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM IMPETRADA DENEGADA.
+- A sentença condenatória encontra-se devidamente fundamentada, uma vez que analisou, à luz dos dados fáticos e jurídicos presentes nos autos, os pressupostos necessários para a segregação cautelar.
+- Impende anotar que após a expedição da guia de execução provisória em favor do paciente, este será inserido no regime adequado conforme imposto na sentença condenatória, qual seja, regime semiaberto.
+No presente recurso ordinário, a Defensoria Pública do Estado de Minas Gerais alega "a manifesta desproporcionalidade entre a pena cominada " n a sentença condenatória e a expedição da guia de execução provisória da restrição de liberdade" (e-STJ 114).
+Sustenta que "o fundamento de manutenção da prisão do recorrente não é idôneo e claramente viola o disposto no art. 5º, LXVI, e art. 93, IX, ambos da Constituição da República" (e-STJ fl. 114).
+Assevera que, "no caso em apreço, o constrangimento é patente, uma vez que o paciente, pela pena aplicada, pela primariedade e pelas circunstâncias judiciais, faz jus ao regime inicial semiaberto de cumprimento de pena, nos termos do disposto no artigo 33, § 2º, b, do Código Penal e do enunciado da súmula 718 do STF" (e-STJ fl. 114).
+Aduz que, "mesmo estando disposto em lei que os réus primários possuem o direito de ter um regime inicial de cumprimento de pena semiaberto, quando a pena não atingir o patamar de 08 anos, o magistrado expediu guia de execução provisória da pena, fundamentando-a na gravidade do delito" (e-STJ fl. 115).
+Aponta, ainda, a possibilidade de fixação de medidas cautelares diversas da prisão.
+Diante disso, pleiteia, liminarmente, que o acusado aguarde em liberdade o julgamento final deste recurso e, no mérito, requer seja declarada desproporcional a medida cautelar em relação ao regime semiaberto e revogada a custódia preventiva, permitindo que, até o trânsito em julgado da sentença penal condenatória, o recorrente possa recorrer em liberdade (e-STJ fls. 112/120).
+Liminar indeferida às e-STJ fls. 132/136.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 141/145).
+Informações juntadas às e-STJ fls. 147/163 e 169/171.
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam que o recurso de apelação interposto pelo ora recorrente contra a condenação a que fazem referência estes autos foi julgado pelo Tribunal a quo.
+Das referidas informações se depreende, ainda, o esgotamento da jurisdição ordinária, já que julgados os embargos de declaração opostos.
+Assim, considerando que efeito prático algum teria eventual provimento deste recurso, já que nessa remota hipótese seria assegurado ao recorrente apenas aguardar em liberdade o julgamento da apelação - que, no caso, já foi julgada -, em razão do novo posicionamento do Supremo Tribunal Federal e desta Casa no que concerne à possibilidade de execução provisória da pena após exauridas as instâncias ordinárias, esvaziado está o objeto desta insurgência.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
