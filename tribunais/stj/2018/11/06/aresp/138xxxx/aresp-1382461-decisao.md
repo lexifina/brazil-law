@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado pla Ordem dos Advogados do Brasil - Seção Mato Grosso do Sul, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 51):
+TRIBUTÁRIO. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. ORDEM DOS ADVOGADOS DO BRASIL - OAB. ANUIDADES. APLICAÇÃO DO DISPOSTO NO ART. 8º DA LEI N.º 12.514/11. POSSIBILIDADE. APELAÇÃO DESPROVIDA 1 - No presente caso, a execução de título executivo extrajudicial foi ajuizada, objetivando a cobrança de anuidade prevista para o ano de 2016.
+2 - A fim de ampliar a eficácia dos princípios da economia e celeridade processuais, o art. 8º da Lei 12.514/11 inovou o ordenamento jurídico, fixando como patamar mínimo para haver a execução judicial por conselhos profissionais o valor de 4 anuidades.
+3 -No que diz respeito às anuidades cobradas pela Ordem dos Advogados do Brasil e a aplicação do artigo 8º de referida Legislação, C. Superior Tribunal de Justiça firmou entendimento no sentido de que, apesar de a OAB possuir natureza especialíssima, conforme já decidido pelo E. Supremo Tribunal Federal - STF no julgamento da ADI de n.º 3026/DF, deve a mesma se submeter ao disposto no art. 8º da Lei n.º 12.514/11 Lei.
+4. Apelação desprovida.
+Nas razões do recurso especial, a parte agravante sustenta divergência na interpretação do art. 8º da Lei 12.514/2011, trazendo julgados oriundos dos Tribunais Regionais Federais da 2ª e 5ª Regiões para comprovar o dissídio.
+É o relatório.
+Em que pesem as razões expostas no presente recurso, não há como acolher a pretensão.
+Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corte, que firmou-se no sentido de que o art. 8º da Lei nº 12.514/2011, que trata da execução judicial das contribuições devidas aos conselhos profissionais, alcança também a OAB.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE PAGAMENTO DE UMA ANUIDADE. ORDEM DOS ADVOGADOS DO BRASIL-OAB/PE. CARACTERIZAÇÃO. CONSELHO DE CLASSE. POSSIBILIDADE. APLICAÇÃO DE NORMA JURÍDICA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. É pacífico no STJ que a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. Trata-se de ação de Execução que possui como título executivo extrajudicial certidão de inadimplência no valor de uma anuidade, movida pela OAB/PE contra o recorrido.
+3. O STF teve oportunidade de se manifestar sobre a natureza jurídica da OAB, no julgamento da ADI 3026/DF, Relator Ministro EROS GRAU, julgado em 08/06/2006. Naquela oportunidade consignou que a "Ordem é um serviço público independente, categoria ímpar no elenco das personalidades jurídicas existentes no direito brasileiro", portanto não se sujeitaria aos ditames impostos à Administração Pública direta e indireta.
+4. A Ordem dos Advogados do Brasil - OAB "não pode ser tida como congênere dos demais órgãos de fiscalização profissional".
+Entretanto, conforme decidido pela Corte Especial do STJ, ela não deixa de ser um Conselho de Classe. Precedente: AgRg no AgRg na PET nos EREsp 1.226.946/PR, Rel. Ministra Eliana Calmon, Corte Especial, DJe 10/10/2013.
+5. O Estatuto da Ordem dos Advogados do Brasil, em seu art. 44, II, da Lei 8.906/1994, não deixa dúvida de que a OAB não pode ser equiparada a nenhum outro conselho profissional, pois sua finalidade transpassa todos os objetivos fixados para as demais entidades de classe. Contudo, existe um ponto em comum que as une, qual seja, a representatividade da classe profissional.
+6. Tendo em vista que a OAB é um conselho de classe, apesar de possuir natureza jurídica especialíssima, deve se submeter ao disposto no art. 8º da Lei 12.514/2011, que rege a execução de dívida oriunda de anuidade inferior a quatro vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+7. A finalidade da norma em comento é evitar o ajuizamento de demandas para a cobrança de valores tidos como irrisórios pelo legislador, evitando-se, dessa forma, o colapso da "máquina judiciária". É indiferente que a OAB tenha essa ou aquela personalidade jurídica, pois o texto da lei visa que os conselhos de classe, independentemente da sua natureza jurídica, não sobrecarreguem o Poder Judiciário.
+3. Recurso Especial não provido.
+(REsp 1.615.805/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/09/2016, DJe 11/10/2016)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
