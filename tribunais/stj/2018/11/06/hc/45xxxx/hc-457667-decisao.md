@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SILVIA EMBOADA DA COSTA, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo das Execuções Penais indeferiu pedido de comutação das penas formulado em favor da ora paciente relativamente ao crime previsto no art. 33, caput, da Lei 11.343/2006.
+Irresignada, a defesa interpôs agravo em execução penal, que foi improvido pelo Tribunal de origem.
+Daí o presente writ, em que a impetrante sustenta, em síntese, que É entendimento pacífico que não vedada a comutação pela Constituição da República, e cumprido os requisitos de ordem objetiva e subjetiva, previstas no decreto executivo, exsurge ao condenado o direito ao abatimento da expiação, na proporção neste prevista (fl. 4).
+Aduz, ainda, que a paciente possui o tempo necessário e não registra faltas no período determinado pelo decreto, não se podendo criar empeço não previstos na lei, como óbice comutação (fl. 10).
+Requer, liminarmente e no mérito, a concessão da ordem para, cassando o acórdão atacado, deferir a comutação da pena à paciente.
+A liminar foi indeferida (fls. 21-22).
+As informações foram prestados (fls. 27-35).
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do mandamus, ou por sua denegação (fls. 38-41).
+É o relatório.
+DECIDO.
+No que tange ao pedido de comutação de penas, colhe-se do acórdão impugnado (fls. 14-17):
+2 No caso vertente, o recurso não pode prosperar.
+Isso porque a concessão de indulto aos condenados pela prática de crimes hediondos encontra expressa vedação legal em dispositivo constitucional insculpido na norma do artigo 5º, XLIII, da Constituição Federal.
+E conforme se constata do boletim informativo da agravante, de fls. 07/11, foi ela condenada pela prática de crimes equiparados aos hediondos, entre outros, lhe tendo sido aplicada a reprimenda de doze anos, um mês e dois dias de reclusão, em regime prisional inicial fechado.
+Ainda que o Decreto em referência tenha sido voltado a proteger a maior vulnerabilidade da mulher, não há que se argumentar que tenha ele o poder de revogar a vedação constitucional à concessão de indulto para os delitos hediondos, ou os a eles equiparados.
+Isso porque o tráfico de drogas de há muito figura no rol dos crimes equiparados aos hediondos, através da Lei 8.072/90, que não foi revogada por qualquer disposição legal.
+Nesse sentido, já se pronunciou o Colendo Superior Tribunal de Justiça:  ..
+Acrescente-se a tal que para a concessão dos benefícios estabelecidos no Decreto Presidencial em referência, não basta a comprovação de que a condenada tenha filhos menores de 16 anos, como referido a fl. 23 verso, mas demonstração de que esse necessite de seus cuidados.
+Assim, por qualquer ângulo que se examine a questão, denota- se que a agravante não preenche os requisitos necessários para a recepção das benesses pretendidas.
+Por oportuno transcrevo, no que interessa, o disposto no Decreto Presidencial n. 14.454/2017:
+Art. 1º O indulto especial será concedido às mulheres presas, nacionais ou estrangeiras, que, até o dia 14 de maio de 2017, atendam, de forma cumulativa, aos seguintes requisitos:
+I - não estejam respondendo ou tenham sido condenadas pela prática de outro crime cometido mediante violência ou grave ameaça;
+II - não tenham sido punidas com a prática de falta grave; e
+III - se enquadrem, no mínimo, em uma das seguintes hipóteses:
+a) mães condenadas à pena privativa de liberdade por crimes cometidos sem violência ou grave ameaça, que possuam filhos, nascidos ou não dentro do sistema penitenciário brasileiro, de até doze anos de idade ou de qualquer idade se pessoa com deficiência, nos termos da Lei nº 13.146, de 6 de julho de 2015 - Estatuto da Pessoa com Deficiência, que comprovadamente necessite de seus cuidados, desde que cumprido um sexto da pena;
+b) avós condenadas à pena privativa de liberdade por crimes cometidos sem violência ou grave ameaça, que possuam netos de até doze anos de idade ou de qualquer idade se pessoa com deficiência que comprovadamente necessite de seus cuidados e esteja sob a sua responsabilidade, desde que cumprido um sexto da pena;
+c) mulheres condenadas à pena privativa de liberdade por crimes cometidos sem violência ou grave ameaça, que tenham completado sessenta anos de idade ou que não tenham vinte e um anos completos, desde que cumprido um sexto da pena;
+d) mulheres condenadas por crime praticado sem violência ou grave ameaça, que sejam consideradas pessoa com deficiência, nos termos do art. 2º do Estatuto da Pessoa com Deficiência;
+e) gestantes cuja gravidez seja considerada de alto risco, condenadas à pena privativa de liberdade, desde que comprovada a condição por laudo médico emitido por profissional designado pelo juízo competente;
+f) mulheres condenadas à pena privativa de liberdade não superior a oito anos, pela prática do crime previsto no art. 33, da Lei nº 11.343, de 23 de agosto de 2006, e a sentença houver reconhecido a primariedade da agente, os seus bons antecedentes, a não dedicação às atividades criminosas e a não integração de organização criminosa, tendo sido aplicado, em consequência, o redutor previsto no § 4o do referido artigo, desde que cumprido um sexto da pena;
+g) mulheres condenadas à pena privativa de liberdade não superior a oito anos por crime praticado sem violência ou grave ameaça, desde que cumprido um quarto da pena, se não reincidentes; ou
+h) mulheres condenadas à pena privativa de liberdade não superior a oito anos por crime praticado sem violência ou grave ameaça, desde que cumprido um terço da pena, se reincidentes.
+Art. 2º A comutação da pena privativa de liberdade será concedida às mulheres, nacionais e estrangeiras, nas seguintes proporções:
+I - em um quarto da pena, se reincidentes, quando se tratar de mulheres condenadas à sanção privativa de liberdade não superior a oito anos de reclusão por crime cometido sem violência ou grave ameaça, desde que cumprido um terço da pena até 14 de maio de 2017;
+II - em dois terços, se não reincidentes, quando se tratar de mulheres condenadas por crime cometido sem violência ou grave ameaça e que tenham filho menor de dezesseis anos de idade ou de qualquer idade se considerado pessoa com deficiência ou portador de doença crônica grave e que necessite de seus cuidados, desde que cumprido um quinto da pena até 14 de maio de 2017; e
+III - à metade, se reincidentes, quando se tratar de mulheres condenadas por crime cometido sem violência ou grave ameaça e que tenha filho menor de dezesseis anos de idade ou de qualquer idade se considerado pessoa com deficiência ou portador de doença crônica grave e que necessite de seus cuidados, desde que cumprido um quinto da pena até 14 de maio de 2017.
+Parágrafo único. Caberá ao juiz competente ajustar a execução aos termos e aos limites deste Decreto, conforme o disposto no art. 192 da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, e proceder à conversão da pena privativa de liberdade em restritiva de direitos, quando cabível.
+Art. 3º A autoridade que detiver a custódia das mulheres presas e os órgãos de execução previstos no art. 61 da Lei de Execução Penal, deverão encaminhar ao juízo competente, inclusive por meio digital, na forma estabelecida pela alínea "f" do inciso I do caput do art. 4º da Lei nº 12.714, de 14 de setembro de 2012, a lista daquelas que satisfaçam os requisitos necessários para a concessão dos benefícios previstos neste Decreto.
+§ 1º O procedimento previsto no caput será iniciado de ofício, entretanto, admite-se que seja realizado mediante requerimento da parte interessada, de seu representante, de seu cônjuge ou companheiro, de ascendente ou descendente ou do médico que assista a mulher presa.
+§ 2º O juízo da execução proferirá decisão para conceder ou não o benefício, ouvidos a defesa da beneficiária e o Ministério Público.
+§ 3º Para o atender ao disposto neste Decreto, os Tribunais poderão organizar mutirões, desde que cumprido o prazo de noventa dias para análise dos pedidos formulados, que terão tramitação preferencial sobre outros incidentes comuns.
+§ 4º Fica facultada ao juiz do processo de conhecimento a concessão dos benefícios contemplados neste Decreto nos casos em que a sentença condenatória tenha transitado em julgado para a acusação.
+Art. 4º Este Decreto entra em vigor na data da sua publicação.
+Brasília, 12 de abril de 2017; 196º da Independência e 129º da República.
+O acórdão vergastado não comporta reparos, na medida em que espelha a orientação adotada por esta Corte.
+Com efeito, o inciso XLIII do art. 5º da Constituição Federal veda expressamente a concessão de graça ou anistia aos condenados pela prática do crime de tráfico de drogas, dentre outros. E, consoante orientação desta Corte, a graça constitui gênero no qual estão inseridos o indulto e a comutação de penas.
+Por outro lado, sabe-se que o inciso I do art. 2º da Lei 8.072/90 veda a concessão de indulto aos condenados pela prática de crime hediondo ou equiparado, o que inclui o crime de tráfico de drogas.
+Assim, examinadas as disposições do Decreto Presidencial n. 14.454/2017, acima reproduzidas, à luz das referidas limitações, tem-se que apenas mulheres condenadas pelo tráfico de drogas com a incidência da causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é que foram alcançadas pelas concessão da benesse, nos exatos termos do disposto no art. 1º, III, f, do mencionado Decreto, não sendo o caso da paciente, que restou condenada como incursa do art. 33, caput, da Lei de Drogas, inexistindo, pois, constrangimento ilegal a ser corrigido. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. CONDENADA POR TRÁFICO DE DROGAS. VEDAÇÃO CONSTITUCIONAL. DECRETO PRESIDENCIAL DO DIA DAS MÃES (DECRETO N. 14.454/2017). INCIDÊNCIA. TRÁFICO PRIVILEGIADO.
+1. O art. 5º, XLIII da Constituição Federal não mencione, expressamente, a impossibilidade de concessão de indulto aos condenados pela prática do crime de tráfico de drogas, esse benefício, por ser uma espécie do gênero "graça" (que nada mais é do que um indulto individual), está abrangido pela vedação constitucional. Por conseguinte, uma vez que há vedação expressa no texto constitucional, não pode um decreto prever a possibilidade de concessão de tal benefício aos agentes condenados pelo cometimento de tal delito (HC n. 411.328/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/10/2017).
+2. O Plenário do Supremo Tribunal Federal firmou o entendimento de que  ..  o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos. (HC n. 118.533/MS, Tribunal Pleno, Ministra Cármem Lúcia, DJe de 19/9/2016).
+3. Tratando-se de condenada pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, a agravante não preenche os requisitos exigidos, já que o art. 1º, II, f, do Decreto Presidencial, aplica-se apenas às condenadas por tráfico privilegiado.
+4. Agravo regimental improvido.
+(AgRg no HC 423.047/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. DECRETO PRESIDENCIAL N. 14.454/2017. INDULTO. DIA DAS MÃES. TRÁFICO. ASSOCIAÇÃO PARA O TRÁFICO. VEDAÇÃO EXPRESSA DE CONCESSÃO DA BENESSE ÀS CONDENADAS PELO DELITO DO ART. 33, CAPUT, DA LEI N. 11.343/06. ART. 1º, III, "F", DO DECRETO PRESIDENCIAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Segundo a firme jurisprudência deste Tribunal Superior, para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República.
+III - Por absoluta disposição literal do art. 1º, III, alínea "f", do Decreto n. 14.454/2017, não é possível a concessão de indulto ou de comutação de penas às sentenciadas pelo crime de tráfico, previsto no caput do art. 33 da Lei n. 11.343/06, sendo necessário que, em tais hipóteses, tenha sido aplicada a minorante prevista no § 4º do art. 33 da Lei de Drogas, o que não ocorreu na hipótese concreta.
+Habeas Corpus não conhecido.
+(HC 434.405/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 21/03/2018)
+EXECUÇÃO PENAL - HABEAS CORPUS - IMPETRAÇÃO SUBSTITUTIVA DE RECURSO PRÓPRIO - IMPROPRIEDADE DA VIA ELEITA - DECISÃO QUE INDEFERIU O INDULTO ESPECIAL DE DIA DAS MÃES (ART. 1º, III, "f", DO DECRETO PRESIDENCIAL N. 14.454/2017) - REEDUCANDA CONDENADA PELO CRIME PREVISTO NO ART. 33, CAPUT, DA LEI N. 11.343/2006 - DECRETO-PRESIDENCIAL QUE ADMITE A POSSIBILIDADE DE BENEFICIAR MULHERES CONDENADAS POR TRÁFICO DE DROGAS, DESDE QUE SEJA PRIVILEGIADO (§4º DO MENCIONADO DISPOSITIVO) - REQUISITO NÃO PREENCHIDO - REGIME SEMIABERTO - CUMPRIMENTO DA PENA EM ESTABELECIMENTO PRISIONAL SEPARADO DOS DEMAIS PRESOS - ART. 82, § 2º, DA LEP - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e este Superior Tribunal de Justiça, por sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Dispõe o art. 1º, III, "f", do Decreto Presidencial n. 14.454/2017 que as mulheres condenadas pelo delito de tráfico de drogas, beneficiadas pela minorante do § 4º do art. 33 da Lei n. 11.343/2006, têm direito ao indulto especial do dias das mães. Hipótese diversa da tratada no presente mandamus.
+ ..
+7. Habeas corpus não conhecido.
+(HC 422.801/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/02/2018, DJe 14/02/2018)
+No mesmo sentido, as seguintes decisões monocráticas: HC 439.548/SC, Rel. Ministro Sebastião Reis Júnior, DJe de 12/3/2018; HC 433.250/RS, Rel. Ministro Antonio Saldanha Palheiro, DJe de 8/3/2018; HC 434.406/SC, Rel. Ministra Maria Thereza de Assis Moura, DJe de 28/2/2018; HC 422.923/SC, Rel. Ministro Ribeiro Dantas, DJe de 22/2/2018; e HC 423.940/RS, Rel. Ministro Jorge Mussi, DJe de 8/2/2018.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
