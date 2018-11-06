@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. FALTA DE INTERESSE DE AGIR. PRECEDENTE. 3. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por OI S.A., com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pela Sexta Câmara Cível do Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 527):
+APELAÇÃO CÍVEL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM INVESTIMENTO TELEFÔNICO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTO(S). REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. INTERESSE PROCESSUAL CONFIGURADO. MÉRITO RECURSAL. FATURA TELEFÔNICA QUE DEMONSTRA A RELAÇÃO JURÍDICA ENTRE AS PARTES. DOCUMENTO SUFICIENTE A AUTORIZAR A INVERSÃO DO ÔNUS PROBATÓRIO PARA SE DETERMINAR À RÉ A EXIBIÇÃO DOS DOCUMENTOS PRETENDIDOS PELA AUTORA, NOS TERMOS DOS ARTIGOS 355 E SEGUINTES DO CPC. SENTENÇA CASSADA. RECURSO AO QUAL SE DÁ PROVIMENTO.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial, a insurgente aponta divergência jurisprudencial e violação aos arts. 333, I, e 535, II, do CPC/1973; e 100, § 1º, da Lei n. 6.404/1976.
+Sustenta que, a despeito da oposição dos aclaratórios, o Tribunal de origem teria se mantido omisso acerca de questões essenciais ao desate da lide.
+Defende a ausência do interesse de agir da autora, porquanto ela não teria apresentado prévio requerimento administrativo, acompanhado do respectivo comprovante de pagamento da taxa do serviço, para obtenção de documentos da companhia.
+Afirma que o acórdão recorrido teria desconsiderado a ausência de comprovação do fato constitutivo do direito da parte autora.
+Sem contrarrazões (e-STJ, fl. 617), foi o feito admitido na origem (e-STJ, fls. 623-624), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Preliminarmente, registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não viola o artigo 535 do Código de Processo Civil  atual art. 1.022 do CPC/2015  nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta" (AgRg no AREsp n. 610.500/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe 10/4/2015).
+Em relação ao art. 100, § 1º, da Lei n. 6.404/1976, a Segunda Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp n. 982.133/RS, firmou entendimento de que, nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário demonstrar a ocorrência de requerimento formal, na via administrativa, bem como o comprovante de pagamento da taxa de serviço, quando a empresa o exigir.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 22/09/2008)
+Registre-se, por oportuno, que esta Corte Superior também aplica o entendimento acima aos pedidos de exibição de documentos feitos, incidentalmente, em ação ordinária de adimplemento contratual. Nesse sentido: AgInt no AREsp 1271960/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 07/08/2018, DJe 14/08/2018; e AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro Luís Felipe Salomão, Quarta Turma, julgado em 22/11/2016, DJe 01/12/2016.
+No caso dos autos, não há notícia de ter a recorrida realizado o requerimento administrativo, a fim de estar caracterizado o interesse de agir quanto ao pedido de exibição de documentos.
+Ante o exposto, dou provimento ao recurso especial para reconhecer a ausência de interesse de agir no pleito de exibição de documentos, prejudicadas as demais questões.
+Publique-se.
