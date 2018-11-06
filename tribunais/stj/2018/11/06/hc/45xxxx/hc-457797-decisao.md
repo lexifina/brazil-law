@@ -1,0 +1,12 @@
+DECISÃO
+JÉSSICA VIEIRA BRITO alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0016378-64.2013.8.26.0361.
+A paciente foi condenada a 5 anos e 4 meses de reclusão, mais pagamento de 13 dias-multa, em regime inicial semiaberto, pela prática do crime de roubo majorado pelo concurso de agentes" (fl. 25). A condenação foi confirmada na Apelação n.º 0004344-25.2010.8.26.0050 e transitou em julgado.
+Na confusa inicial, alega-se que a sentenciada tem direito a cumprir a pena em prisão domiciliar por questões de "manutenção da saúde e  ..  da dignidade humana" e porque "trata-se de pessoa que possui filhos menores e precisam da presença da mãe" (fl. 3).
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+O pedido de prisão domiciliar durante a execução da pena não foi objeto de análise pelo Tribunal de Justiça ou pelo Juiz das Execuções, motivo pelo qual não pode ser enfrentado diretamente por este Superior Tribunal, sob pena de indevida supressão de duas instâncias.
+Não é possível conceder a ordem de ofício. A paciente foi condenada por crime de roubo, que traz como elementar a violência e a grave ameaça. Não basta informar que possui filhos menores e requerer a concessão automática da prisão domiciliar durante o cumprimento da pena definitiva. Diversamente do que ocorre com as presas segregadas cautelarmente, é preciso comprovar peculiaridade fática que demonstre que a medida é imprescindível no caso concreto.
+Deveras, de acordo com a jurisprudência, admite-se "a concessão da prisão domiciliar mesmo a apenados em regime prisional diverso do aberto, desde que a realidade concreta, devidamente comprovada, assim o imponha. A subsunção nas hipóteses previstas nos incisos do artigo 117 da LEP, para a concessão da prisão domiciliar, não é automática. Se faz necessária a comprovação da situação fática que exige a excepcionalidade" (HC n. 452.911/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/08/2018).
+Consoante o destaque do Subprocurador-Geral da República [NOME], "não é possível compreender com clareza qual o constrangimento ilegal por que passa, em tese, a paciente", e o writ "foi impetrado desprovido de documentação que viabilizasse o deslinde da controvérsia" (fls. 83-84).
+À vista do exposto, com fulcro no art. 34. XX, o RISTJ, denego este habeas corpus.
+Publique-se e intimem-se.
