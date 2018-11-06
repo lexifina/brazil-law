@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 83/STJ.
+Sustenta o recorrente que, considerando que há recentes julgados do Supremo Tribunal Federal em consonância com a tese veiculada no Recurso Especial, conclui-se pela absoluta inaplicabilidade, ao caso vertente, do Enunciado da Súmula 83 do Superior Tribunal de Justiça (fl. 162).
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, a analise de seu mérito.
+Sustenta o recorrente, nas razões do recurso especial, violação do art. 75, § 2º, do Código Penal e dos arts. 111, parágrafo único, 112 e 118 da Lei de Execuções Penais, sob o argumento de que a unificação das penas acarreta a interrupção dos prazos para a concessão de benefícios executórios ao apenado, sendo o novo marco inicial o dia do trânsito em julgado da nova condenação.
+A controvérsia cinge-se à fixação da data-base para a aquisição de benefícios da execução penal, tendo em vista a unificação das penas decorrente de nova condenação.
+A questão foi submetida a julgamento pela Terceira Seção, no REsp 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, na sessão de 22/2/2018, oportunidade em que se firmou a orientação de que a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem, adotando-se, assim, como data-base da unificação a data da prisão provisória, única ou última, nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+Dessa forma, uma vez que o entendimento do Tribunal de origem está em consonância com o firmado nesta Corte Superior, incide, ao caso, o enunciado da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
