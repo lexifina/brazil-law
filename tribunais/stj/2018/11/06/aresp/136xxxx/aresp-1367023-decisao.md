@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por TIM CELULAR S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO - TELEFONIA - CUMPRIMENTO DE SENTENÇA. CONVERSÃO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS - ALEGAÇÃO DA EXECUTADA DE QUE A OBRIGAÇÃO DE REATIVAÇÃO DA LINHA TELEFÓNICA FOI CUMPRIDA - CONSUMIDORA QUE ALEGA NÃO ESTAR A LINHA FUNCIONANDO - [NOME] DO SISTEMA - DOCUMENTOS CONSIDERADOS COMO INSUFICIENTES PARA PROVA DO ADIMPLEMENTO - QUESTÃO TRATADA EM SEDE DE APELAÇÃO - PRECLUSÃO ANÁLISE DAS PECULIARIDADES DO CASO - PERÍODO DO DESCUMPRIMENTO - FIXAÇÃO DE MULTA QUE SE REVELOU INÓCUA PARA O FIM DE COMPELIR A EXECUTADA À CUMPRIR A OBRIGAÇÃO QUE EQUIVALE À IMPOSSIBILIDADE DE CUMPRIMENTO - FEITO QUE NÃO PODE CONTINUAR PERPETUAMENTE - CONVERSÃO MANTIDA. REDUÇÃO DAS ASTREINTES - VALOR TOTAL EXORBITANTE - PORTE DA EXECUTADA - LAPSO DO DESCUMPRI MENTO DA OBRIGAÇÃO - REDUÇÃO NECESSÁRIA, MAS EM PATAMAR SUPERIOR ÀQUELE DEFINIDO NO DECISUM.
+1. "A multa prevista no art. 461 do CPC, por não fazer coisa julgada material, pode ter seu valor e periodicidade modificados a qualquer tempo pelo juiz, quando for constatado que se tornou insuficiente ou excessiva." (REsp 708.290/RS, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 26/06/2007, DJ 06/08/2007, p. 618.) 2. Recurso conhecido e parcialmente provido" (e-STJ fls. 184/185).
+Nas razões recursais (fls. 205/211 e-STJ), a recorrente alega violação do artigo 537 do Código de Processo Civil de 2015. Sustenta, em síntese, que o valor total da multa diária fixado em R$ 60.000,00 (sessenta mil reais) é exorbitante e implica no enriquecimento sem causa da parte agravada.
+É o relatório.
+DECIDO.
+Presentes os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No caso dos autos, o juiz reduziu o valor total fixado a título de astreintes de aproximadamente R$ 1.200.000,00 (um milhão e duzentos mil reais), para R$ 3.0000,00 (trinta mil reais), a fim de evitar o enriquecimento sem causa do ora recorrido.
+O Tribunal de origem entendeu que as astreintes atingiram um valor elevado, mas em observância ao princípio da razoabilidade e a finalidade das astreintes, fixou o valor da multa em R$ 60.000,00 (sessenta mil reais).
+De fato, somente é admitida a revisão da multa por descumprimento de decisão judicial nesta instância quando o valor se mostrar irrisório ou exagerado ou, ainda, quando for flagrante a impossibilidade de cumprimento da medida, o que não ocorre no presente caso. Desse modo, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível no recurso especial pela incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. REDUÇÃO DO VALOR DAS ASTREINTES PELO DESCUMPRIMENTO DE ORDEM JUDICIAL.
+(..)
+2. O propósito recursal é definir se, na hipótese, a redução do valor final das astreintes - de R$ 120 mil para R$ 30 mil - pelo Tribunal de origem configura manifesta desproporcionalidade, a impor sua revisão.
+(..)
+4. Consoante entendimento da Segunda Seção desta Casa, é admitida a redução do valor da astreinte quando a sua fixação ocorrer em valor muito superior ao discutido na ação judicial em que foi imposta, a fim de evitar possível enriquecimento sem causa.
+5. No entanto, se utilizado apenas o critério de comparação do valor das astreintes com o valor da obrigação principal, corre-se o risco de estimular recursos com esse fim a esta Corte para a diminuição do valor devido, em total desprestígio da atividade jurisdicional das instâncias ordinárias, que devem ser as responsáveis pela definição da questão e da própria efetividade da prestação jurisdicional.
+6. Para se evitar essa situação, outro parâmetro que pode ser utilizado consiste em aferir a proporcionalidade e a razoabilidade do valor diário da multa, no momento de sua fixação, em relação ao da obrigação principal. Assim, verificado que a multa diária foi estipulada em valor razoável se comparada ao valor em discussão na ação em que foi imposta, a eventual obtenção de valor total expressivo, decorrente do decurso do tempo associado à inércia da parte em cumprir a determinação, não ensejaria a sua redução.
+7. Na hipótese sob julgamento, ponderando o valor da multa diária com o período máximo de sua incidência e as peculiaridades da negativa de cobertura da operadora de plano de saúde, resta afastado qualquer equívoco na redução do valor das astreintes.
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido" (REsp 1.658.085/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/3/2018, DJe 19/3/2018 - grifou-se).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. MULTA DIÁRIA (ASTREINTES) FIXADA COM O OBJETIVO DE ASSEGURAR O FORNECIMENTO DE MEDICAMENTO. VALOR DA MULTA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, o recorrente insurge-se contra o valor de R$ 500,00 (quinhentos reais) fixado pela instância de origem a título de multa diária por descumprimento de obrigação de fornecer medicamento a paciente.
+(..)
+3. A jurisprudência do STJ é no sentido de que o quantum da multa pode, de forma excepcional nesta instância, ser aumentado, reduzido ou até mesmo suprimido, se considerado desproporcional em relação à obrigação principal, em análise do caso concreto, superando, assim, o óbice da Súmula 7 do STJ.
+4. Para a fixação da multa o magistrado deve levar em consideração os princípios da razoabilidade e da proporcionalidade, exatamente como fez o Tribunal de origem (fls. 345-362, e-STJ).
+5. Assim, a apreciação dos critérios previstos no art. 461 do CPC utilizados para a fixação do referido quantum demanda reexame de matéria fático-probatória, obstado pela Súmula 7/STJ.
+(..)
+8. Recurso Especial não conhecido" (REsp 1.724.427/MG, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que estes não foram arbitrados na origem.
+Publique-se. Intimem-se.
