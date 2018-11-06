@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por [NOME] contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL -AÇÃO REIVINDICATÓRIA - REQUISITOS - COMPROVAÇÃO - USUCAPIÃO ALEGADA COMO MATÉRIA DE DEFESA - NÃO COMPROVAÇÃO DO LAPSO TEMPORAL - PROCEDÊNCIA DO PLEITO REIVINDICATÓRIO MEDIDA QUE SE IMPÕE. Constatada a presença de todos os requisitos indispensáveis para o sucesso da ação reivindicatória, ou seja, a titularidade do domínio, a individuação da coisa, e a detenção injusta, mormente porque não demonstrada a posse ad usucapionem, inconteste é a procedência do pleito reivindicatório. (e-STJ, fl. 253)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 276/282).
+Nas razões do recurso especial, a parte agravante alega violação aos artigos 1.238, parágrafo único, 1.242, 1.243 e 2.029, do Código Civil. Sustenta, em síntese, que "não resta constatada a presença de todos os requisitos indispensáveis para o sucesso da ação reinvidicatória, ou seja, a titularidade do domínio, a individualização da coisa, e a detenção injusta" (e-STJ, fl. 292)
+Contrarrazões às fls. 298/317, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+O eg. TJ-MG asseverou que os recorridos lograram êxito em comprovar os requisitos essenciais da ação reivindicatória, conforme se infere da leitura do seguinte excerto do v. aresto recorrido:
+"No caso dos autos, estou que os autores/apelados preencheram todos os requisitos da ação reivindicatória.
+Restou comprovada tanto a titularidade, quanto a individualização do bem através da juntada aos autos da Certidão de Registro do Imóvel (f.19/20), no qual consta que os autores/apelados adquiriram a propriedade do imóvel em 10 de setembro de 1987.
+Saliente-se, conforme fundamentado no julgamento do recurso de apelação de nº 1.0672.04.128978-2/001, ora em apenso, que os réus/apelados não demonstraram os requisitos para a aquisição do imóvel pela usucapião. (..)
+Portanto, tendo sido julgada improcedente a ação de usucapião em apenso, não prospera a alegação dos réus/apelantes de ocorrência de prescrição aquisitiva.
+No que tange à posse ou detenção injusta, a meu ver, também restou configurada, tendo em vista a comprovação da propriedade do imóvel pelos autores/apelados e pelo fato de os réus/apelantes não terem demonstrado a posse ad usucapionem.
+Ora, para fins de ação reivindicatória, a posse injusta é aquela sem título de propriedade ou sem o caráter de posse direta adquirida por meio das vias adequadas No caso dos autos, os réus/apelantes se mantêm na posse do imóvel sem a existência de qualquer justo titulo, razão pela qual delineada a posse injusta.
+Neste contexto, inafastável o reconhecimento de que os autores/apelados, satisfatoriamente, comprovaram o fato constitutivo do seu direito, ou seja, a propriedade do imóvel, a individualização deste e a posse injusta exercida pelos réus/apelantes; sendo inconteste a procedência da demanda reivindicatória." (e-STJ, fls. 257/259)
+Nesse cenário, não prospera a pretensão recursal, uma vez que a análise do não preenchimento dos requisitos para pleiteada ação reivindicatória exige revolvimento de matéria fático-probatória dos autos, o que é inviável a teor da Súmula n. 7 deste STJ. Nesse sentido, colhem-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PRESENÇA DOS REQUISITOS. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. A reivindicatória, de natureza real e fundada no direito de sequela, é a ação própria à disposição do titular do domínio para requerer a restituição da coisa de quem injustamente a possua ou detenha (CC/1916, art. 524, e CC/2002, art. 1.228), exigindo a presença concomitante de três requisitos: a prova da titularidade do domínio pelo autor, a individualização da coisa e a posse injusta do réu (REsp 1.060.259/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/04/2017, DJe de 04/05/2017).
+2. O Tribunal estadual, mediante análise do acervo fático-probatório dos autos, entendeu não estarem presentes provas suficientes para corroborar a propriedade e a posse injusta em relação ao imóvel. De acordo com o acórdão recorrido e a sentença, o pedido é improcedente porque foi possível a individualização da coisa, mas não se conseguiu determinar o domínio e a posse injusta.
+3. A alteração das premissas fáticas estabelecidas no acórdão recorrido, tal como postulada nas razões do apelo especial, exigiria novo exame do acervo fático-probatório constante dos autos, o que se sabe vedado pela Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1259039/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/06/2018, DJe 20/06/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. CERCEAMENTO DE DEFESA. SÚMULA Nº 284/STF. ART. 1.245 DO CC/2002. SÚMULA Nº 211/STJ. USUCAPIÃO. SÚMULA Nº 283/STF. LEGITIMIDADE ATIVA. MÉRITO. SÚMULA Nº 7/STJ.
+1. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que acarreta a incidência da Súmula nº 284/STF.
+2. Na hipótese, o conteúdo normativo do art. 1.245 do CC/2002 não foi objeto de debate pelas instâncias ordinárias, apesar da oposição de embargos de declaração, carecendo, portanto, do necessário prequestionamento. Aplicação da Súmula nº 211/STJ.
+3. A ausência de impugnação de fundamento suficiente para manter o acórdão recorrido enseja o não conhecimento do recurso, atraindo a incidência do óbice da Súmula nº 283/STF.
+4. As conclusões do tribunal de origem acerca da legitimidade ativa e da procedência do pedido formulado na ação reivindicatória decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, motivo pelo qual o acolhimento da pretensão recursal encontra óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1430745/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REIVINDICATÓRIA C/C PERDAS E DANOS. IMISSÃO DE POSSE. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ. OFENSA AO ART. 535 DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1021264/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a" , do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
