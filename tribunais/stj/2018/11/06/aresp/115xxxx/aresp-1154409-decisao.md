@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 5 e 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 499):
+APELAÇÕES CÍVEIS. DIREITO CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PRELIMINAR DE ILEGITIMIDADE PASSIVA. HOSPITAL PRONTONORTE. ACOLHIMENTO. PLANO DE SAÚDE. PROCEDIMENTO DE EMERGÊNCIA. PRAZO DE CARÊNCIA. NEGATIVA INJUSTIFICADA. DANO MORAL. CONFIGURAÇÃO. QUANTUM. MANUTENÇÃO. SENTENÇA MANTIDA.
+1. O hospital, que não faz parte do mesmo grupo econômico do plano de saúde, é parte ilegítima para figurar no polo passivo de ação visando o custeio de tratamento e internação hospitalar e compensação por danos morais decorrentes da negativa do plano de saúde em oferecer a cobertura requerida. Preliminar de ilegitimidade passiva acolhida.
+2. Lei nº 9.656/98 determina no artigo 35-C, inciso I, ser obrigatória a cobertura do atendimento médico hospitalar, no caso de emergência, como tal definidos aqueles que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente.
+3. A negativa de acesso a tratamento de saúde ou de internação do paciente, por agravar a situação de aflição psicológica e angústia imposta ao beneficiário, é causa de dano moral, sujeitando o infrator ao dever de reparar o prejuízo causado a outrem.
+4. A indenização fixada a título de compensação por danos morais na quantia arbitrada na sentença, em que pese a falta de critérios objetivos, deve ser pautada pela proporcionalidade e razoabilidade, além de servir como forma de compensação ao dano sofrido e de possuir caráter sancionatório e inibidor da conduta praticada. Revelando-se ponderada e adequada para satisfazer os parâmetros mencionados, deve ser refutado o pedido de majoração do quantum indenizatório fixado.
+5. Apelação da autora conhecida e não provida. Apelação da primeira ré conhecida e não provida. Apelação do segundo réu conhecida, preliminar de ilegitimidade passiva acolhida para extinguir o processo sem julgamento de mérito.
+Nas razões do recurso especial (e-STJ fls. 519/535), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou, além de divergência jurisprudencial, afronta aos arts. 7º e 34 do CDC e 186, 927 e 944 do CC/2002, argumentando que o hospital objeto da negativa de cobertura do plano de saúde seria parte legítima para a ação indenizatória correspondente, também considerando irrisório o valor arbitrado na origem a título de danos morais (R$ 5.000,00 - cinco mil reais).
+No agravo (e-STJ fls. 600/605), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunal de origem entendeu que o hospital recorrido não era parte legítima, pois os danos sofridos pela recorrente decorreram exclusivamente de conduta ilícita da operadora do plano de saúde, que, indevidamente, recusou o custeio de atendimento coberto (e-STJ fls. 507/512).
+É inviável alterar a conclusão quanto ao âmbito de proteção do seguro, pois, para tanto, seria necessário reexaminar os fatos e as provas dos autos, providência vedada a esta Corte, de acordo com a Súmula n. 7 do STJ.
+Por fim, a alteração do valor arbitrado nas instâncias de origem a título de dano moral é possível em sede de recurso especial somente em casos de quantia exorbitante ou irrisória. No caso, o valor fixado (R$ 5.000,00 - cinco mil reais) não se mostra diminuto, esbarrando seu exame no óbice da Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando os limites dos §§ 2º e 3º do referido dispositivo. Deferida a Gratuidade da Justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
