@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Requerimento pleiteado em favor do paciente contra acórdão de habeas corpus proferido pela Quinta Turma do Superior Tribunal de Justiça.
+Nesta petição, a defesa pretende a nulidade do julgamento de voto de habeas corpus, em razão da ausência de intimação do advogado para sustentação oral do julgamento, não tendo sido atendido o pedido expresso na inicial. Argumenta que, embora a questão não tenha sido suscitada em sede de Embargos de Declaração, já julgados, ainda cabe o reconhecimento da nulidade, porque ainda flui o prazo para interposição de recurso ordinário em habeas corpus e porque o mérito da ação mandamental não foi apreciado ("habeas corpus não conhecido") (e-STJ fls. 5.107/5.110).
+Desse modo, requer a nulidade do acórdão de julgamento do habeas corpus, proferido por esta Corte.
+É o relatório. Decido.
+A presente irresignação não pode prosperar.
+Isso porque, em matéria de nulidades no Processo Penal, impera-se o princípio da preclusão, como pode-se ver do texto legal:
+Código de Processo Legal:
+Art. 571. As nulidades deverão ser argüidas:
+ ..  VIII - as do julgamento em plenário, em audiência ou em sessão do tribunal, logo depois de ocorrerem.
+No caso, o peticionário já apresentou Embargos de Declaração, recurso pelo qual teve a oportunidade de alegar a omissão - ausência de sustentação oral na sessão de julgamento do habeas corpus.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECLARATÓRIOS QUE TORNAM A IMPUGNAR DECISÃO JÁ EMBARGADA ANTERIORMENTE. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE OMISSÃO.
+1. Esta Corte Superior, ao julgar monocraticamente os primeiros embargos de declaração, posicionou-se de forma clara, adequada e suficiente ao concluir que não ocorreu a prescrição.
+2. O embargante insurge-se, in casu, ao argumento de que subsiste a omissão, porquanto não enfrentada no julgamento monocrático do recurso especial, ponto, como já visto, tratado nos primeiros embargos de declaração, apresentados antes do julgamento do agravo regimental, havendo, assim, a preclusão consumativa.
+3. Nessa linha, a jurisprudência desta Corte Superior de Justiça é no sentido de que "o princípio processual da unirrecorribilidade, associado à existência de prazos preclusivos para a interposição de recursos, impede que uma mesma decisão seja recorrida em momentos processuais diversos", bem como que "os segundos Embargos de Declaração devem apontar vício no julgamento dos primeiros Embargos de Declaração, e não em decisão anterior, cujo prazo para recurso já se esvaiu, pois operada a preclusão consumativa" (EDcl nos EDcl no AgRg nos EREsp n. 1.341.709/PI, Corte Especial, Rel. Min. Napoleão Nunes Maia Filho, DJe de 30/3/2015).
+4. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl no REsp 1442129/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. SESSÃO DE JULGAMENTO DA APELAÇÃO CRIMINAL. PRECLUSÃO. ARGUIÇÃO DA MATÉRIA NA PRIMEIRA OPORTUNIDADE. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. NECESSIDADE PREQUESTIONAMENTO. SUPRESSÃO DE INSTÂNCIAS. SEGURANÇA JURÍDICA E COISA JULGADA. AGRAVO DESPROVIDO.
+1. Esta Corte é firme na compreensão de que a nulidade ocorrida na sessão de julgamento perante o Tribunal a quo é passível de preclusão, quando não arguida na primeira oportunidade que a defesa teve para se manifestar nos autos. Precedentes.
+2. Na espécie, está caracterizada a preclusão da matéria, ante a firme jurisprudência dos Tribunais superiores quanto à imprescindibilidade da oposição de embargos declaratórios para fins de prequestionamento, mesmo quando a questão federal surja no julgamento do acórdão recorrido.
+3. Constituindo os prazos processuais e as preclusões institutos que exteriorizam a disciplina da influência do tempo no processo, em função da idéia de que a prestação jurisdicional deve representar uma marcha à frente, a necessidade da interposição de recurso para arguir a suposta nulidade ocorrida no julgamento levado a efeito pelo Tribunal de origem é corolário da garantia constitucional da segurança jurídica e da coisa julgada.
+4. Agravo regimental desprovido.
+(AgRg no HC 221.250/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/06/2016, DJe 21/06/2016)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. DEFENSORIA PÚBLICA. AUSÊNCIA DE INTIMAÇÃO PESSOAL. NULIDADE NÃO ARGUIDA NA PRIMEIRA OPORTUNIDADE. PRECLUSÃO.
+1. A falta de intimação pessoal do Defensor Público da sentença caracteriza, em princípio, nulidade, nos termos dos arts. 370, § 4º, 392 e 564, III, "o", do Código de Processo Penal.
+2. Todavia, a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal evoluiu para considerar que tal nulidade é passível de preclusão, nas situações em que não é arguida na primeira oportunidade de a defesa se manifestar nos autos, com a necessária demonstração de prejuízo. Precedentes.
+3. Hipótese em que a Defensoria manifestou-se sobre a nulidade da intimação somente nos embargos de declaração opostos do acórdão da apelação criminal, deixando, contudo, de suscitá-la na primeira oportunidade em que se pronunciou nos autos, ou seja, na apresentação de contrarrazões à apelação interposta pelo Ministério Público, não havendo como reconhecer a alegada nulidade, uma vez que se encontra sanada, em razão da preclusão.
+4. Agravo regimental desprovido.
+(AgRg no HC 326.986/SC, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 08/09/2015, DJe 29/09/2015)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE INTIMAÇÃO DO DEFENSOR PARA A SESSÃO DE JULGAMENTO DO HABEAS CORPUS. NULIDADE. INSTRUÇÃO DEFICIENTE. PRECLUSÃO. EXCESSO DE PRAZO SUPERVENIENTE À SENTENÇA DE PRONÚNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO ORDINÁRIO IMPROVIDO.
+1. "Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Rel.
+Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+2. O entendimento desta Corte é no sentido de que a falta de intimação do advogado constituído para a sessão de julgamento resulta em nulidade. Contudo, mesmo diante da existência de pedido expresso para realizar sustentação oral, a mencionada nulidade deve ser arguida na primeira oportunidade que a defesa tomar ciência do resultado do julgamento, levando ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão.
+3. Na espécie, a defesa formulou expressamente um pedido para fazer sustentação oral. Todavia, não juntou elementos comprobatórios atestando que o defensor não foi devidamente intimado para a sessão de julgamento. Além disso, não arguiu a alegada nulidade na primeira oportunidade que teve, ao tomar ciência do acórdão, no prazo para interposição de embargos de declaração, impondo-se, assim, o reconhecimento da preclusão. Precedentes. Incidência da regra do art. 563 do CPP.
+4. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+5. No caso, não se verifica o excessivo retardo no desenvolvimento da ação penal originária, mesmo após a sentença de pronúncia, prolatada em 18/9/2013, notadamente em razão de incidentes processuais supervenientes - interposição de recurso em sentido estrito por parte da defesa, desistência do recurso com homologação em 5/6/2014 e pedido de desaforamento formulado pelo Ministério Público, ainda pendente de julgamento pelo Tribunal -, não havendo qualquer informação adicional que demonstre haver uma demora excessiva que enseje o relaxamento da prisão do recorrente.
+6. Recurso ordinário a que se nega provimento.
+(RHC 59.744/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2015, DJe 12/08/2015)
+Ante o exposto, indefiro o pedido.
+Publique-se.
