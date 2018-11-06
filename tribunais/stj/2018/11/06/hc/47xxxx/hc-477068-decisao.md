@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra decisão de desembargador do Tribunal de Justiça do Estado do Rio de Janeiro, que indeferiu pedido liminar no HC n. 0058702-07.2018.8.19.0000.
+Extrai-se dos autos que a paciente foi denunciada, juntamente com outros agentes, pela suposta prática dos crimes previstos no art. 2º da Lei 12.850/2013; art. 1º, § 1º, II, c/c. § 4º, da Lei 9.613/98, por três vezes, na forma do art. 29, e do art. 69, ambos do Código Penal (organização criminosa e lavagem ou ocultação de bens, direitos e valores). Por ocasião do recebimento da exordial acusatória, o Magistrado de primeiro grau decretou a prisão preventiva dos acusados (fls. 224/232).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, tendo o desembargador relator indeferido o pedido liminar em decisão acostada às fls. 67/89.
+No presente mandamus, alega, a necessidade de superação da Súmula 691/STF.
+Aduz, inicialmente, que o decreto prisional carece de fundamentação idônea, uma vez que pautado na gravidade abstrata do delito e em elementos genéricos. Salienta que não estão presentes os requisitos do art. 312 do Código de Processo penal. Invoca o princípio da presunção de não culpabilidade.
+Pleiteia que seja estendida à paciente a revogação da custódia deferida à corré Rita, dado que seria alcançada pelos critérios adotados pelo decisum , não havendo peculiaridades a diferenciar os dois casos.
+Nega a autoria delitiva, tendo em vista que, segundo o impetrante, inexiste qualquer relação entre a paciente e os demais acusados da suposta organização criminosa. Afirma que possui uma relação conjugal com o denunciado [NOME] e este adquiriu quatro imóveis em seu nome, contudo, declara que desconhecia eventual origem criminosa dos valores pagos pela compra dos imóveis.
+Nesse contexto, aduz que não há indícios mínimos de sua participação na suposta estrutura criminosa, mormente quando verificado não constar menção ao seu nome, em dois anos de interceptações telefônicas decorrentes dos desdobramentos da investigação criminal chamada de Operação Open Doors. Afirma que sequer os acusados e paciente foram ouvidos.
+Ressalta que conta com condições pessoais favoráveis. Aponta inexistente o fumus commissi delicti e periculum libertatis, sendo desnecessária, portanto, a segregação antecipada, conforme disposto no art. 316 do Código de Processo Penal.
+Pondera que a segregação antecipada é medida desproporcionalmente severa, tendo em vista que sua situação seria manifestamente distinta da dos demais acusados.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+2. Em sede de habeas corpus não é possível conhecer de tema não decidido na origem sob pena de supressão de instância.
+2. Cabe ao impetrante o escorreito aparelhamento do remédio heroico demonstrando por meio de prova pré-constituída o alegado constrangimento ilegal.
+3. Agravo regimental improvido (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 16/03/2016).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/02/2016).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
