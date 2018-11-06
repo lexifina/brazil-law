@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por ALCINO MAZETI, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, alíneas "a" e "c", da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, naquela ocasião, o aresto ficou fundamentado, no que interessa, in verbis:
+- 20/02/1996 a 27/09/2004: Perfil Profissiográfico Previdenciário (fls. 28 e 72) - soldador - exposição, no lapso de 15/10/2002 a 27/09/2004, de maneira habitual e permanente a ruído de 78,10 db, radiação não ionizante e fumos metálicos: inviabilidade de reconhecimento do interregno compreendido entre 15/10/2002 e 27/09/2004 pela exposição a ruído abaixo do exigido pela legislação aplicável ao caso em apreço, bem como pela falta de previsão dos agentes radiação não ionizante e fumos metálicos, não sendo possível também o enquadramento do intervalo posterior, ante a ausência de descrição no formulário apresentado acerca da exposição do segurado a agentes agressivos;
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação do art 1.022 do CPC/15.
+Sustenta que o acórdão foi omisso ao apreciar o direito material invocado.
+Relata que o aresto combatido não reconheceu a especialidade do labor exercido no período de 20.02.96 à 27.09.04, ao argumento de que a exposição à agente nocivo ruído foi inferior ao limite legal.
+Conclui que, ao assim decidir, o tribunal a quo utilizou causa de pedir não aludida (exposição ao agente ruído), sendo portanto, extra petita, devendo ser anulada a parte de erro in procedendo, com novo pronunciamento judicial adequado.
+Alega violação dos arts. 57 e 58 da Lei nº 8.213/91 e o Decreto nº 83.080/79, Anexo II, item 2.5.1, Decreto nº 2.172/97, Anexo IV, item 1.0.0, Decreto nº 3.048/99, Anexo IV, item 1.0.0.
+Argumenta que houve exposição a agentes agressivos químicos (fumos metalicos e radiações não ionizantes) durante o período de 20/02/1996 à 27/09/2004, devendo esses períodos de labor serem considerados como especiais, nos termos dos dispositivos supra citados.
+Não foram apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na súmula nº 7 do STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Sem razão o agravante.
+Por primeiro, cabe esclarecer que não houve julgamento extra-petita, porquanto o acórdão é bem claro ao afirmar que, quanto à exposição à agentes nocivos radiação não ionizante ou fumus metálicos, não houve demonstração adequada a fazer jus à tempo especial.
+Confira-se, in verbis:
+bem como pela falta de previsão dos agentes radiação não ionizante e fumos metálicos, não sendo possível também o enquadramento do intervalo posterior, ante a ausência de descrição no formulário apresentado acerca da exposição do segurado a agentes agressivos;
+Ademais, quanto ao ponto, cabe esclarecer que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007).
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 983.543/RJ, Rel. Ministro HERMAN BENJAMIN, DJe 5/5/2017).
+Já quanto à alegada violação dos arts. 57 e 58 da Lei nº 8.213/91, Decreto nº 83.080/79, Anexo II, item 2.5.1, Decreto nº 2.172/97, Anexo IV, item 1.0.0, Decreto nº 3.048/99, Anexo IV, item 1.0.0, ao argumento de que houve exposição no período de 20.02.96 a 27.09.04 aos agentes nocivos radiação não inonizante e fumus metálicos, melhor sorte não acode ao recorrente.
+Isto, porque, conforme consta da decisão recorrida, a legislação, após a Lei n. 9.032/95, passou a exigir a efetiva exposiçao do segurado aos agentes nocivos, químicos, físicos e biológicos para o reconhecimento de atividade especial e, segundo a corte de origem, tal comprovação não foi demonstrada.
+Sendo esse o panorama dos autos, é inviável o recurso especial, porquanto para o provimento do apelo seria necessário desconstituir a premissa que consta do acórdão a respeito da conclusão sobre as provas dos autos. Isso só seria possível com revolvimento do conjunto fático-probatório, o que é vedado ante o conteúdo da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
