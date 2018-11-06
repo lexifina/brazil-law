@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Historiam os autos que [NOME] propuseram "ação de rescisão de contrato c.c. perdas e danos e lucros cessantes" em desfavor de CONSTRUVERT - ENGENHARIA E COMÉRCIO LTDA., cujo pedido foi julgado improcedente, conforme sentença às fls. 375-380.
+Inconformados, [NOME] recorreram, tendo o eg. TJ-SP negado provimento à apelação, nos termos do v. acórdão assim ementado (fls. 622):
+"COMPROMISSO DE COMPRA E VENDA COM SUB-ROGAÇÃO - Rescisão de contrato c.c. perdas e danos c.c. lucros cessantes - Alegação que o decisum deve ser anulado, posto não estar fundamentado e ser "citra petita" - Inadmissibilidade - Provas carreadas aos autos trouxeram os elementos necessários para o deslinde da controvérsia - Ausência de fundamentação da sentença não constatada - Matéria preliminar afastada - Fundamentação suficiente - Nulidade do ato repelida - Ação improcedente - Recurso improvido."
+Os embargos de declaração opostos foram rejeitados (fls. 717-720).
+Irresignados, [NOME] interpuseram recurso especial (fls. 746-750), pela alínea "a" do permissivo constitucional, apontando, preliminarmente, ofensa ao art. 93, IX, da Constituição Federal. Ultrapassada a preliminar, sustentam violação aos arts. 460, 475 e 476 do Código Civil, ao argumento, entre outros, de que a sociedade empresária "(..) Recorrida não cumpriu com o prazo, fazendo jus os Recorrentes em requerer a rescisão do contrato por culpa exclusiva daquela" (fls. 749).
+Intimada, CONSTRUVERT - ENGENHARIA E COMÉRCIO LTDA apresentou contrarrazões (fls. 763-769), pelo desprovimento do recurso.
+Como dito, o recurso especial foi inadmitido (decisão às fls.771-772), motivando o manejo do presente agravo em recurso especial (fls. 775-780).
+Também foi oferecida contraminuta (fls. 795-804), pelo desprovimento do agravoo.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não se conhece da alegada ofensa ao art. 93, IX, da CF/88, na medida em que se trata de matéria constitucional, cuja competência para análise é do col. Supremo Tribunal Federal, como preconiza o art. 102 da Carta Magna.
+Melhor sorte não socorre ao recurso quanto à violação aos arts. 460, 475 e 476 do Código Civil. Apontando ofensa a tais normas, pretendem os então recorrentes, ora agravantes, a rescisão do contrato por culpa exclusiva da sociedade empresária recorrida, afirmando que esta não teria descumprido suas obrigações contratuais.
+Por sua vez, o eg. TJ-SP, soberano na análise do acervo fático-probatório, concluiu que foram os autores que causaram atrasos na execução do contrato, como se infere de leitura do seguinte excerto do v. acórdão estadual (fls. 624):
+ "Quanto ao mérito, observa-se nos autos, que muitos dos transtornos que geraram o atraso na execução do empreendimento foram causados pelos próprios autores, tanto no que concerne aos documentos pessoais, quanto à documentação do terreno onde foi erigido o empreendimento."
+(grifou-se)
+Nesse cenário, a alteração do entendimento ora transcrito, sob alegada ofensa aos arts.460, 475 e 476 do Código Civil, para reconhecer a ocorrência de inadimplemento contratual pela ora agravada, demandaria revolvimento de matéria fático-probatória e interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, conforme preceitua as Súmulas n. 5 e n. 7, ambas do STJ.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
