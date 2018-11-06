@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da 3ª Câmara Cível do TJCE.
+Na origem, os recorridos ajuizaram ação visando autorização para continuação de tratamento médico domiciliar, além de indenização por danos morais.
+Em primeira instância, os pedidos foram julgados procedentes (e-STJ fls. 209/211).
+A recorrente apelou, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 429):
+AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE.PACIENTE PORTADORA DE NEOPLASIA CEREBRAL. LIMITAÇÃO DA INTERNAÇÃO HOSPITALAR E SESSÕES DE FISIOTERAPIA NEGATIVA DE FORNECIMENTO DA DIETA ENTERAL. REEMBOLSO DAS DESPESAS MÉDICAS. POSSIBILIDADE.
+I - Destaco que a atividade securitária submete-se às disposições do Código de Defesa do Consumidor, conforme estabelece o § 2º, do art. 3º:Nesse sentido, o colendo Superior Tribunal de Justiça editou a Súmula n. 469 afirmando que "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde".
+II - Não restam dúvidas acerca da aplicação do Código de Defesa do Consumidor nos contratos de Plano de Saúde, como no caso em que ora se analisa, sendo imposição legal a interpretação do contrato de maneira mais favorável ao consumidor e a vedação de cláusulas abusivas que coloquem em desequilíbrio a relação contratual. Nesse sentido, ao negar o tratamento adequado aos pacientes, o plano de saúde age de forma abusiva e em discordância com o Código de Defesa do Consumidor, bem como ofende o princípio da dignidade da pessoa humana, expressamente consagrado na Carta Magna.
+Ill - Vale ressaltar que as limitações impostas em contratos de planos de assistência privada à saúde, principalmente os anteriores à Lei n. 9.656/98 (que
+dispõe sobre os planos e seguros privados de assistência à saúde), não foram poucas. Constam de tais ajustes restrições de índole técnico-científicas, atentatórias às expectativas do consumidor, no momento em que adere, sem perfeita compreensão do contrato, às propostas do prestador de serviços. Tal prática sobrepõe a busca do lucro aos cuidados para com a saúde do usuário, desequilibrando, destarte, a relação contratual.
+IV - Se a doença que a parte autora era portadora figura no elenco das quais o plano de saúde oferece cobertura, não cabe à instituição promovida restringir as alternativas de tratamento existentes para se combater a doença, tornando-se assim, manifesta a ofensa à boa-fé objetiva quando a parte surpreende-se com restrição na realização dos procedimentos.
+IV - Agravo improvido. Decisão Unânime.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 458/468).
+Sobreveio o recurso especial (e-STJ fls. 327/337), fundado no art. 105, III, "a", da CF, no qual a parte recorrente sustenta violação dos arts. 54, § 4º, do CDC e 188, I, do CC/2002, sob fundamento de inexistir ato ilícito que justifique sua condenação por danos morais, pois seria lícita a restrição de coberturas constante do contrato.
+Apontou ainda afronta ao art. 1.022 do CPC/2015, argumentando que o acórdão recorrido seria omisso em relação às violações legais apontadas.
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+A Corte local concluiu haver danos morais, porque a operadora do plano teria recusado indevidamente o custeio de despesas necessárias ao tratamento da paciente (e-STJ fls. 431/437).
+Nesse contexto, o Tribunal de origem se baseou nos fatos e provas dos autos para reconhecer a responsabilidade da empresa por danos morais. Para rever esse entendimento, seria necessário reexaminar o conjunto fático-probatório do feito, bem como reinterpretar os termos contratuais, o que é incabível no recurso especial, ante a Súmula n. 7/STJ.
+Além do mais, ao considerar que a negativa ilegal de cobertura pelo plano de saúde gerou dano moral, decidiu o Tribunal a quo em conformidade com a orientação deste Tribunal Superior, a qual preconiza que "a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Caracterização de dano moral in re ipsa. Precedentes." (AgRg no AREsp n. 527.140/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/9/2014, DJe 16/9/2014). A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. NEGATIVA. PROCEDIMENTO DE URGÊNCIA. DANO MORAL. CABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. "Nos termos da jurisprudência reiterada do STJ, "a recusa indevida à cobertura pleiteada pelo segurado é causa de danos morais, pois agrava a sua situação de aflição psicológica e de angústia no espírito" (REsp 657717/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 12/12/2005)" (AgRg no Ag 1318727/RS, de minha relatoria, QUARTA TURMA, julgado em 17/05/2012, DJe 22/05/2012) 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 525.097/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/9/2014, DJe 22/9/2014.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
