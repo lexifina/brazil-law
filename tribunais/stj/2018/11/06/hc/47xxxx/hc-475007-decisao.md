@@ -1,0 +1,9 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS (752 KG DE MACONHA) E ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA. DOSIMETRIA. PRETENSÃO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO E REVISÃO DA DOSIMETRIA. ANTERIOR IMPETRAÇÃO DO HC N. 472.026/RJ. REITERAÇÃO DE PEDIDOS.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que deu parcial provimento à apelação interposta pela paciente para reduzir a pena-base do delito de tráfico de drogas; e provimento à apelação do Ministério Público para condená-la pelo crime de associação para o tráfico (fls. 84/114 - Apelação n. 0281383-52.2016.8.19.0001), redimensionando as penas para 16 anos, 7 meses e 7 dias de reclusão, e 2.421 dias-multa - reformando, assim, a sentença, em que o Juízo de Direito da 2ª Vara da comarca de Três Rios/RJ a condenou à pena de 12 anos e 10 meses de reclusão, e 1.280 dias-multa (fls. 70/83) - pela prática dos crimes de tráfico interestadual de drogas (752 kg de maconha - fl. 70) e de associação para o tráfico.
+Busca a impetração a absolvição da paciente pelo crime de associação para o tráfico - ao argumento de impossibilidade de condenação pelos crimes de tráfico de drogas e de associação para o tráfico - e o redimensionamento da pena, com o afastamento da exasperação da reprimenda-base.
+Ocorre que se trata de mera reiteração de pedidos, pois, em consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração de habeas corpus (HC n. 472.026/RJ) em benefício da ora paciente e contra o mesmo ato coator (Apelação n. 0281383-52.2016.8.19.0001).
+Em razão disso, por configurar reiteração de pedidos, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
