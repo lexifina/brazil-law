@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE GUARULHOS, em 27/04/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"Responsabilidade civil. Dano moral. Acidente causador de graves queimaduras. Imóvel de titularidade da Municipalidade. Faute de service. Responsabilidade subjetiva. Prova abundante nesse sentido. Recurso desprovido. Responsabilidade civil. Dano moral. Quantum indenizatório. Minoração. Cabimento. Recurso provido em parte.
+Juros e correção monetária. Aplicação da Lei Federal 11.960/09. Recurso provido.
+Honorários advocatícios. Critério para fixação. Recurso desprovido.
+Recurso provido em parte" (fl. 1145e).
+Sustenta a parte agravante, que:
+"Por fim, é lícito aos nobres julgadores a análise acerca das normas processuais e sua aplicação em relação às partes que compõem a relação jurídica processual.
+Durante tal apreciação não se está a tratar de análise de matéria fática, mas, sim, de julgamento quanto à efetiva observância à legislação de regência.
+Veja-se que a pretendida análise é requisito ínsito à existência do próprio devido processo legal, razão pela qual não há como se suscitar a inviabilidade de apreciação.
+Nos termos do quanto previamente alegado por esta Municipalidade de Guarulhos, aos litigantes em geral é lícito pretender sejam apreciadas as teses de defesa em toda sua extensão, sob pena de inegável cerceamento de defesa.
+Destarte, não há como se sustentar a inviabilidade de apreciação dos pontos enfocados, já que é ínsito ao presente feito a necessária aplicação da legislação federal, e, em assim não ocorrendo, encontrar-se-ia o Ente Público alijado do direito constitucional de manifestar-se em contraditório e
+ampla defesa" (fl. 1200e).
+Requer, ao final, a admissão e provimento do Agravo.
+Não foi apresentada contraminuta (fl. 1204e).
+Do exame dos autos, verifica-se que os fundamentos da decisão agravada, para inadmitir o Recurso Especial, são os seguintes: a) "quanto à verba honorária, cabe ponderar que, observado o limite legal, a orientação judicial para o seu arbitramento baseia-se em fatos e provas, sendo insuscetíveis de revisão pela via restrita do apelo especial, inexistindo, neste particular, quaestio iuris federal sobre a qual deva pronunciar-se o Eg. Superior Tribunal de Justiça. Incide, portanto, a Súmula 7 da Corte Superior" (fl. 1181e); b) "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciada" (fl. 1181e); c) "rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Superior Tribunal de Justiça" (fl. 1181e).
+O recorrente, no entanto, no Agravo, não cuidou de impugnar especificadamente a decisão quanto à incidência da Súmula 7/STJ, limitando-se a afirmar que "não se está a tratar de análise de matéria fática, mas, sim, de julgamento quanto à efetiva observância à legislação de regência".
+Ora, "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+ Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTO. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. IMPUGNAÇÃO GENÉRICA. SÚMULA 182 DO STJ. INCIDÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. APLICAÇÃO DA SÚMULA 7 DO STJ.
+1. (..)
+3. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e específica, todos motivos da decisão ora agravada, limitando-se a alegar, genericamente, ofensa ao art. 535 do CPC/1973, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, em flagrante desrespeito ao principio da dialeticidade.
+4. No tocante à incidência da Súmula 7 do STJ, a mera referência a julgados desta Corte favoráveis à revaloração do conjunto probatório, mas sem nenhuma identidade fática com o caso em análise, não tem o condão de ilidir os fundamentos da decisão agravada.
+5.Agravo regimental não conhecido" (STJ, AgRg no AREsp 721.539/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 18/08/2016).
+"PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS. ARESP. RAZÕES DE AGRAVO QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL. SÚMULA N. 182 DESTA CORTE SUPERIOR E ART. 544, § 4º, INC. I, CPC.
+1. (..)
+2. No mais, trata-se, originalmente, de agravo interposto contra decisão da instância ordinária que negou admissibilidade a recurso especial com base nos seguintes argumentos: (i) inexistência de ofensa ao art. 535 do CPC e (ii) aplicação da Súmula n. 7 desta Corte Superior.
+3. Nas razões de agravo (ARESP), a parte agravante não combateu todos os motivos que ensejaram a negativa de seguimento ao recurso especial (decisão agravada): afirmou-se não se pretender a análise de fatos e provas (com conseqüente não-incidência da Súmula n. 7/STJ), sem, contudo, demonstrar tal assertiva - trascrevendo, por exemplo, trechos do acórdão recorrido em que tenha sido travada a discussão do especial, para provar que não são necessários novos aportes de fatos e provas não contidos no acórdão. Combate deste tipo é genérico e não se presta como impugnação à decisão agravada.
+4. Incidem, no caso, a Súmula n. 182 desta Corte Superior (por analogia), segundo a qual " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" e o art. 544, § 4º, inc. I, segunda parte, do CPC.
+5. Agravo regimental do Ministério Público estadual não conhecido.
+Agravo regimental do Ministério Público Federal não provido" (STJ, AgRg no AREsp 27.323/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/12/2011).
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
