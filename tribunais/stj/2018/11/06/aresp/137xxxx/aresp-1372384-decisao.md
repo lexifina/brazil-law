@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME], contra decisão do Tribunal Regional Federal da 5ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. ADMINISTRATIVO. MATRÍCULA. ENSINO SUPERIOR. CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO OU EQUIVALENTE. SUPLETIVO. EMANCIPAÇÃO.
+I.Mônica [NOME] ajuizou ação ordinária contra o Complexo Educacional Patoense Limitada - ME e da Universidade Federal de Campina Grande - [NOME], objetivando reserva de vaga no curso de Engenharia de Petróleo da [NOME] pelo prazo de 60 dias, até comprovar sua aprovação na prova do supletivo.
+II. Alega a autora que é menor emancipada civilmente; foi aprovada e classificada no vestibular da [NOME]; o prazo para cadastramento no curso superior terminaria no dia 05 de março de 2015; como ainda está cursando o 3º ano do ensino médio, procurou realizar exame supletivo junto à primeira promovida; no entanto, sua inscrição no supletivo fora negado por ser ainda menor de idade; tal exigência, além de desvirtuar a lógica jurídica do exame supletivo, desprestigia o instituto da emancipação civil.
+III.O MM. juiz "a quo" julgou procedente o pedido para determinar a manutenção da vaga da autora no Curso de Engenharia de Petróleo.
+[NOME] apelou, alegando que, não tendo a idade exigida, 18 anos, o jovem adulto deve concluir o ensino médio para, então, ingressar no ensino superior.
+V. Em suas contrarrazões, a parte autora defendeu a teoria do fato consumado.
+VI. Determina o art. 44, II, da Lei nº 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional), que o ingresso em curso de graduação em nível superior tem por pré-requisitos a conclusão do ensino médio e a aprovação do candidato em exame vestibular
+VII. Nos termos do artigo 38 da acima citada lei, os sistemas de ensino manterão cursos e exames supletivos no nível de conclusão do ensino médio, para os maiores de dezoito anos.
+VIII. O parágrafo único do art. 6º da Resolução n.º 3/2010, do Conselho Nacional de Educação, consta expressamente que a emancipação para os atos da vida civil não supre o requisito da idade mínima exigida para a participação em exames supletivos.
+IX. No caso dos autos, a autora quando foi aprovada no vestibular não havia concluído o ensino médio e, não preenchia o requisito idade mínima de 18 anos para realização do exame supletivo.
+X. Apelação da [NOME] provida" ( 268/269e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 276/277e), os quais restaram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. SUPLETIVO. EMBARGOS DECLARATÓRIOS . REABERTURA DE DISCUSSÃO ACERCA DE MATÉRIA JÁ ANALISADA. IMPOSSIBILIDADE. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+I.Cuida-se de embargos declaratórios opostos contra o v. acórdão que julgou improcedente o pedido da parte autora, que objetiva a reserva de vaga no curso de Engenharia de Petróleo da [NOME] pelo prazo de 60 dias, até comprovar sua aprovação na prova do supletivo.
+II.Embarga a parte autora, alegando que argumentos consistentes e jurídicos, todavia, não foram analisados na decisão. Que fatos devem considerados para decisão do mérito da questão, de modo que se encontre uma decisão justa e não apenas jurídica.
+III.O acórdão não incorreu nas omissões apontadas. Determina o art. 44, II, da Lei nº 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional), que o ingresso em curso de graduação em nível superior tem por pré-requisitos a conclusão do ensino médio e a aprovação do candidato em exame vestibular.
+IV.Nos termos do artigo 38 da acima citada lei, os sistemas de ensino manterão cursos e exames supletivos no nível de conclusão do ensino médio, para os maiores de dezoito anos.
+V.O parágrafo único do art. 6º da Resolução n.º 3/2010, do Conselho Nacional de Educação, consta expressamente que a emancipação para os atos da vida civil não supre o requisito da idade mínima exigida para a participação em exames supletivos.
+VI.No caso dos autos, a autora quando foi aprovada no vestibular não havia concluído o ensino médio e, não preenchia o requisito idade mínima de 18 anos para realização do exame supletivo.
+VII.Embargos declaratórios improvidos" (fl. 295e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, c, da Constituição Federal, a parte ora agravante aponta dissídio jurisprudencial acerca dos artigos 38, 44, II, da Lei 9.394/96, sustentando que "a aprovação do aluno, demonstra a capacidade intelectual necessária, sendo que deve vigorar a teoria do fato consumado quando provimento jurisdicional propiciar a obtenção do certificado e matrícula na faculdade pública" (fl. 306e).
+Contrarrazões a fls. 314/317e.
+Negado seguimento ao Recurso Especial (fl. 319e), foi interposto o presente Agravo (fls. 325/329e).
+Contraminuta a fls. 333/335e.
+A irresignação merece prosperar.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Determina o art. 44, II, da Lei nº 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional), que o ingresso em curso de graduação em nível superior tem por pré-requisitos a conclusão do ensino médio e a aprovação do candidato em exame vestibular Nos termos do artigo 38 da acima citada lei, os sistemas de ensino manterão cursos e exames supletivos no nível de conclusão do ensino médio, para os maiores de dezoito anos.
+O parágrafo único do art. 6º da citada Resolução n.º 3/2010, do Conselho Nacional de Educação, consta expressamente que a emancipação para os atos da vida civil não supre o requisito da idade mínima exigida para a participação em exames supletivos.
+No caso dos autos, a autora quando foi aprovada no vestibular não havia concluído o ensino médio e, não preenchia o requisito idade mínima de 18 anos para realização do exame supletivo" (fl. 268e).
+Com efeito, constata-se que o acórdão recorrido está em divergência com a jurisprudência desta Corte, firmada no sentido de que "a aprovação do estudante universitário em vestibular - no qual tenha sido inscrito por força de liminar, com a outorga do certificado de conclusão do ensino médio em supletivo, como nos autos -, com a conclusão de parte da graduação, excepcionalmente não pode ser prejudicada em razão da apreciação superveniente e negativa do mérito" (STJ, MC 22.463/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/08/2014).
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REEXAME NECESSÁRIO. EXAME SUPLETIVO. ACESSO AO ENSINO SUPERIOR. MENOR DE 18 ANOS. RAZOABILIDADE. SITUAÇÃO FÁTICA CONSOLIDADA COM O DECURSO DO TEMPO.
+1. Esta Corte já se manifestou no sentido de que o exame supletivo especial, para os menores de 18 (dezoito) anos, deve ser examinado sob o aspecto da razoabilidade.
+2. In casu, visto que o estudante se encontra matriculado e cursando o 3º período do curso de Direito, não deve ser modificado o que foi anteriormente estabelecido, pois sua capacidade e maturidade intelectuais restaram demonstradas com a aprovação nos exames necessários ao ingresso na faculdade.
+3. Situação jurídica consolidada com o decurso do tempo, que merece ser respeitada, sob pena de prejudicar desnecessariamente a parte, causando prejuízos a sua vida estudantil, e afrontar o previsto no art. 462 do CPC.
+4. Recurso especial provido" (STJ, REsp 1.289.424/SE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 19/06/2013).
+"DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. INSCRIÇÃO. EXAME SUPLETIVO. APROVAÇÃO NO VESTIBULAR. DETERMINAÇÃO JUDICIAL. APLICAÇÃO. TEORIA DO FATO CONSUMADO.
+1. De acordo com a Lei 9.394/96, a inscrição de aluno em exame supletivo é permitida nas seguintes hipóteses: a) ser ele maior de 18 anos e b) não ter tido acesso aos estudos ou à continuidade destes, no ensino médio, na idade própria, de sorte que é frontalmente contrária à legislação de regência a concessão de liminares autorizando o ingresso de menores de 18 anos em curso dessa natureza.
+2. É inadmissível a subversão da teleologia do exame supletivo, o qual foi concebido com o escopo de contemplar aqueles que não tiveram acesso ao ensino na idade própria ou, mesmo o tendo, não lograram concluir os estudos, não sendo por outra razão que o legislador estabeleceu 18 (dezoito) anos como idade mínima para ingresso no curso supletivo relativo ao ensino médio.
+3. Lamentavelmente, a excepcional autorização legislativa, idealizada com o propósito de facilitar a inclusão educacional daqueles que não tiveram a oportunidade em tempo próprio, além de promover a cidadania, vem sendo desnaturada dia após dia por estudantes do ensino médio que visam a encurtar sua vida escolar de maneira ilegítima, burlando as diretrizes legais.
+4. Sucede que a ora recorrente, amparada por provimento liminar, logrou aprovação no exame supletivo, o que lhe permitiu ingressar no ensino superior, já tendo concluído considerável parcela do curso de Direito.
+5. Consolidadas pelo decurso do tempo, as situações jurídicas devem ser respeitadas, sob pena de causar à parte desnecessário prejuízo e afronta ao disposto no art. 462 do CPC. Aplicação da teoria do fato consumado. Precedentes.
+6. Recurso especial provido" (STJ, REsp 1.262.673/SE, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 30/08/2011).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, a fim de restabelecer os efeitos da sentença de fls. 149/160e.
+I.
