@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de RECURSO ESPECIAL interposto com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, o recurso especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiária da assistência judiciária não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, o AgInt no AREsp 1160301/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30/05/2018.
+É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer cópia integral dos respectivos autos ou certidão comprobatória do tribunal de origem desse deferimento, o que não ocorreu no caso concreto.
+ Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou. Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, não trouxe documentos suficientes para comprovar que possui o beneficio. Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Ainda, a parte Recorrente foi intimada do acórdão recorrido em 29/11/2016, sendo o recurso especial somente interposto em 31/01/2017.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Ressalte-se que, segundo a orientação jurisprudencial desta c. Corte Superior, a oposição de embargos infringentes incabíveis não interrompem nem suspendem o prazo para a interposição do recurso especial, como, de fato, ocorreu na espécie. Veja-se que no atual diploma processual não existe o referido recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
