@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE DECISÃO QUANTO AO MÉRITO PEDIDO INDEFERIDO LIMINARMENTE.
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei Federal dirigido a esta Corte Superior, fundamentado no art. 14, §4º, da Lei n. 10.259/2001, apresentado por [NOME], contra acórdão da Turma Nacional de Uniformização, assim assentada (fl. 284):
+PEDIDO NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO DE TEMPO RURAL EM REGIME DE ECONOMIA FAMILIAR. INÍCIO DE PROVA MATERIAL. EFICÁCIA TEMPORAL DA PROVA. INVIABILIDADE DE REEXAME DO ACERVO FÁTICO PROBATÓRIO. SÚMULA Nº 42. INCIDENTE NÃO CONHECIDO.
+A requerente interpôs incidente de uniformização de jurisprudência dirigido ao Superior Tribunal de Justiça, que teve seu seguimento negado, em decisão do Presidente da TNU, assim fundamentado (282-2830:
+ ..
+O pedido não merece acolhimento.
+No presente caso, inexiste decisão colegiada da TNU que verse sobre a questão de direito material acerca da qual se pleiteia a pacificação de entendimento, descabe o pedido de uniformização dirigido ao STJ, a teor do que dispõe o art. 34, caput, do Regimento Interno da Turma Nacional de Uniformização.
+No mesmo sentido, entende o Superior Tribunal de Justiça que não cabe incidente de uniformização dirigido àquela corte contra acórdão desta TNU que não tenha adentrado no mérito da demanda. Senão, vejamos:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NA PETIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DE MÉRITO DA TNU ACERCA DO DIREITO MATERIAL CONTROVERTIDO. NÃO ADMISSÃO.
+1. Nos termos do que dispõe o art. 14, § 4º, da Lei 10.259/2001, caberá incidente de uniformização dirigido a esta Corte quando a Turma Nacional de Uniformização, ao apreciar questão de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça.
+2. A Turma Nacional de Uniformização não se pronunciou acerca do direito material controvertido, uma vez que não conheceu do incidente previsto no § 2º do artigo 14 da Lei n. 10.259/2001 diante da falta de similitude fática entre a decisão da Turma Recursal e os precedentes indicados.
+3. Agravo regimental não provido. (AgRg na Pet 9.631/PA, Rel. Min. Benedito Gonsalves, Primeira Seção, DJe 02/06/2014)
+Ante o exposto, com fundamento no art. 8º, X, do RITNU, nego seguimento ao pedido uniformização.
+Por consequência, a parte autora interpôs agravo regimental, que recebeu a seguinte decisão: "mantenho a decisão agravada pelos seus próprios fundamentos, ao tempo em que, com fundamento no art. 35, §2º, do RITNU, determino a remessa dos presentes autos ao Superior Tribunal De Justiça.
+É o relatório. Passo a decidir.
+Consoante dispõe o art. 14, § 4º, da Lei n. 10.259/2001, o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ.
+In casu, o presente feito foi manejado contra acórdão da Turma Nacional de Uniformização que não conheceu do incidente de uniformização de jurisprudência por fundamento processual (reexame de provas), não tendo havido juízo de valor acerca do mérito da causa, o que não se encontra na atribuição daquele órgão jurisdicional, conforme previsão expressa do art. 14 da Lei n. 10.259/2001. Nessa sentido confira-se:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL. EXAME. INOCORRÊNCIA.
+1. Conforme disposto no § 4º do art. 14 da Lei dos Juizados Especiais Federais, quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+2. No caso, o Pedido de Uniformização de Jurisprudência não foi conhecido pela TNU por fundamento eminentemente processual (ausência de dissídio jurisprudencial), sem ter sido proferido nenhum juízo de valor acerca do mérito da causa, circunstância que inviabiliza o processamento do presente feito no âmbito desta Corte. Precedentes.
+3. Configuração do caráter caráter manifestamente improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015.
+4. Agravo interno desprovido, com aplicação de multa. (AgInt na PET no PUIL 322/DF, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 15/05/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO DA PETIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 14, §4º, DA LEI 10.259/2001. TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE DECISÃO QUANTO AO MÉRITO.
+1. Nos termos do artigo 14, § 4º, da Lei n. 10.259/01, caberá pedido de uniformização de interpretação de lei federal ao Superior Tribunal de Justiça quando a orientação acolhida pela Turma de Uniformização decidir questão de direito material de forma contrária à súmula ou jurisprudência dominante desta Corte.
+2. No caso em tela, a TNU não conheceu do recurso, ao fundamento de que a análise da questão esbarra no óbice da Súmula 42/TNU, que veda, na via eleita, o reexame de matéria de fato. Assim, o não pronunciamento quanto ao mérito da controvérsia impede o seguimento ao presente feito. Precedente: AgInt no PUIL 29/MG, Rel. Min. Humberto Martins, Primeira Seção, DJe 14/06/2016; AgRg na Pet 9.378/PR, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 14/06/2016; AgRg na Pet 9.641/PR, Rel. Min. Assusete Magalhães, Primeira Seção, DJe 15/03/2016. 3. Agravo interno não provido. (AgInt na Pet 11.333/PR, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 16/08/2017)
+AGRAVO REGIMENTAL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. INADMISSIBILIDADE DO INCIDENTE.
+1. O pedido de uniformização de jurisprudência somente é cabível contra decisão da Turma Nacional que analisou o direito material. Na hipótese, a TNU não conheceu do recurso, ao fundamento de que a análise da questão esbarra no óbice da Súmula 42/TNU, que veda, na via eleita, o reexame de matéria de fato.
+2. Portanto, não há como conhecer do incidente, eis que o acórdão recorrido está pautado em questão de direito processual.
+3. Agravo regimental improvido. (AgRg na Pet 10.422/PR, Rel. Min. Sérgio Kukina, Primeira Seção, DJe 2/6/2014)
+No mesmo sentido: Pet 11.103/SE, Rel. Ministro Napoleão Nunes Maia Filho, DJe 29/2/2016; Pet 11.302/SE, Rel. Ministro Mauro Campbell Marques, DJe 3/3/2016; Pet 11.100/SE, Rel. Ministro Napoleão Nunes Maia Filho, DJe 29/2/2016.
+Ante o exposto, indefiro liminarmente o pedido, nos termos do que dispõe o inciso XVIII do artigo 34 do RISTJ.
+Publique-se. Intimem-se.
