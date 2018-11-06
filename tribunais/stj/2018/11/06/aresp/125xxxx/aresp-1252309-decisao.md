@@ -1,0 +1,74 @@
+DECISÃO
+JACKSON DA SILVA SIQUEIRA agrava de decisão que não admitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0000576-59.2016.8.26.0219.
+Nas razões recursais, a defesa suscita a violação dos arts. 33, § 4º, e 42, da Lei n. 11.343/2006; 26,parágrafo único, 28, §§ 1º e 2º, 44 e 59 do Código Penal, ao argumento de que, em razão do vício em drogas, o agravante é inimputável.
+Sustenta, ainda, a ausência de motivação idônea para negar a aplicação da minorante.
+Requer, dessa forma, o reconhecimento da sua inimputabilidade ou a redução da pena imposta.
+A Corte estadual não admitiu o recurso, o que ensejou a interposição deste agravo (fls. 349-350).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, no mérito, por seu não provimento (fls. 375-378).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, observo que comporta conhecimento parcial.
+Com efeito, a análise da inimputabilidade demanda o reexame de provas e, por conseguinte, atrai a incidência da Súmula n. 7 do STJ, como será delineado a seguir.
+Porém, noto que as questões relacionadas à dosimetria da pena foram apreciadas pelo Tribunal a quo no julgamento da apelação, a evidenciar o devido prequestionamento. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão das teses e a sua apreciação prescinde de reexame de provas.
+II. Contextualização
+O agravante foi condenado, em primeira instância, à pena de 5 anos de reclusão e 500 dias-multa, com valor unitário mínimo, em regime inicial fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Irresignado, o réu recorreu. O Tribunal a quo negou provimento ao recurso e manteve a sentença, sob a seguinte motivação (fls. 314-319, destaquei):
+O Apelante foi condenado como incurso nas sanções do artigo 33, "caput" da Lei nº 11.343/06, porque no dia, hora e local, mencionados na denúncia, guardava e mantinha em depósito, para fins de tráfico, droga consistente em 7 porções de cocaína, pesando aproximadamente 2,7 gramas, substância, esta, que causa dependência física e psíquica, tudo sem autorização e em desacordo com determinação legal e regulamentar.
+A r. sentença recorrida, suficientemente motivada no que diz respeito ao decreto condenatório e em nada abalada pelas razões do recurso oferecidos pela defesa, merece ser mantida quanto ao reconhecimento da ocorrência dos fatos e da autoria imputada ao Apelante.
+A materialidade restou comprovada pelo laudo de exame toxicológico definitivo de fls. 102/106 que constatou tratar-se de cocaína a substância apreendida (auto de exibição e apreensão de fls. 49).
+Também a autoria é certa.
+O Apelante, em juízo, confessou o tráfico.
+Os policiais, em juízo, confirmaram os fatos narrados na denúncia, afirmando que tiveram denúncias do envolvimento do réu com o tráfico de drogas e que havia imagens do Réu traficando, assim, foram a residência do réu e em buscas encontraram a droga. Afirmaram que o Réu depois assumiu o tráfico.
+Vale esclarecer que não se deve cogitar em desqualificar o depoimento de Policial somente por conta de sua condição funcional. Seu testemunho possui, pois, validade jurídica e são equivalentes aos depoimentos de testemunhas civis. Nesse sentido:
+ ..
+Verifica-se que no caso em tela há prova suficiente de que o entorpecente seria utilizado para traficância, não havendo sequer indícios de que seria para uso pessoal ou para consumo em conjunto com outros.
+Dessa forma, é de rigor manter a condenação do Apelante como incurso no art. 33, "caput", da Lei nº 11.343/06, não havendo que se falar em insuficiência probatória.
+Vale ressaltar que houve incidente de dependência toxicológica (fls. 30/32) onde restou comprovado ser o Apelante plenamente imputável, capaz de entender o caráter ilícito do crime que praticou: "O examinado JACKSON DA SILVA SIQUEIRA não é portador de alterações psíquicas, sinais ou sintomas de dependência a drogas ou de doença mental alienante. O consideramos, sob o ponto de vista médico legal, como plenamente imputável para o delito descrito na denúncia".
+As penas foram fixadas, na r. sentença, em montante adequado para a reprovação e prevenção do crime cometido pelo apelante, nos termos do artigo 42 da Lei nº 11.343/06, não merecendo reparo em seu quantum.
+A pena-base foi fixada no mínimo legal.
+Na segunda fase, foram reconhecidas as atenuantes relativas a confissão e a menoridade, as quais não tem o condão de diminuir a pena abaixo do mínimo-legal, nos termos da Súmula 231, STJ, assim, foi mantida a pena-base.
+No mais, não cabe, no caso em tela, a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06.
+Isso porque o dispositivo exige que não se dedique o agente ás atividades criminosas.
+Referido requisito não exige condenações anteriores transitadas em julgado. Em casos concretos, é plenamente possível comprovar que o agente se vale de ilícitos para ganhar a vida. É o caso dos autos.
+Trata-se de indivíduo que faz da traficância seu trabalho, portanto, não faz jus a redutora.
+Por fim, o regime inicial fechado também deve ser mantido, ante a hediondez do delito por equiparação, a gravidade e nocividade concreta da conduta e também evidenciada pela natureza e quantidade da droga apreendida, com fundamento no § 3º do artigo 33 do Código Penal, sendo inviável substituir a pena privativa de liberdade por restritivas de direitos.
+Feito esse registro, examino as teses defensivas.
+III. Inimputabilidade
+Pelos trechos anteriormente transcritos, verifico que as instâncias antecedentes, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela imputabilidade do ora agravante.
+Ao justificar a condenação do réu, o Tribunal a quo ressaltou a conclusão do incidente de dependência toxicológica, a qual destacou que o "examinado não é portador de alterações psíquicas, sinais ou sintomas de dependência a drogas ou doença metal alienante" (fl. 318, destaquei).
+Portanto, pelas razões expostas pela Corte de origem, mostra-se inviável o reconhecimento da inimputabilidade do agravante, sobretudo porque, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela imputabilidade do agente, contanto que o faça fundamentadamente, tal como verificado nos autos.
+Ademais, para infirmar tal conclusão, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, por força da Súmula n. 7 do STJ.
+Assim, não conheço do recurso especial no ponto.
+IV. Aplicação da minorante
+Para a aplicação da referida causa de diminuição de pena é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+Na espécie, observo que o acórdão impugnado justificou a não aplicação da minorante no registro de outras condenações criminais em desfavor do réu, pela prática de delito de mesma natureza, sem trânsito em julgado. Essas circunstâncias, nos termos da jurisprudência desta Corte Superior, são idôneas para obstar a redução da pena, por demonstrarem a dedicação do investigado a atividades criminosas.
+Não se discute que o registro de inquéritos policiais ou de ações penais em andamento, ou mesmo de condenações ainda sem a certificação do trânsito em julgado, não possui o condão de exasperar a reprimenda-base, consoante o enunciado na Súmula n. 444 deste Superior Tribunal. Essa, aliás, é a essência do princípio da presunção de não culpabilidade.
+Também não desconheço a existência de um ou outro julgado, inclusive do Supremo Tribunal Federal, que defende o seguinte:
+"para efeito de valoração da pena, somente podem ser consideradas como maus antecedentes decisões condenatórias irrecorríveis, sendo impossível considerar para tanto investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação ao artigo 5º, inciso LVII (presunção do estado de inocência), do texto constitucional. Logo, o fato de existirem processos criminais por tráfico em andamento contra o recorrente, por si só, não subsidiam razões para inferir que o réu dedica-se à atividade criminosa" (ARE n. 905.124/RS, Rel. Ministro Gilmar Mendes, monocrática, DJe 22/9/2015).
+Contudo, não vejo óbice a que processos em andamento ou mesmo condenações ainda sem a certificação do trânsito em julgado possam, à luz das peculiaridades do caso concreto, ser considerados elementos aptos a demonstrar receio concreto de reiteração delitiva.
+Ademais, imperioso ressaltar que tais elementos - feitos criminais em curso ou condenações ainda pendentes de definitividade - podem afastar o redutor não por ausência de preenchimento dos dois primeiros requisitos elencados pelo legislador, quais sejam, a primariedade e a existência de bons antecedentes, mas pelo descumprimento do terceiro e/ou do quarto requisito exigido pela lei - ausência de dedicação do acusado a atividades delituosas e não integração em organização criminosa.
+Recentemente, a matéria, aliás, foi pacificada pela Terceira Seção desta Corte Superior de Justiça, que, ao julgar os EREsp n. 1.431.091/SP (DJe 1º/2/2017), de relatoria do Ministro Felix Fischer, firmou o entendimento de que: "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica à atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/06".
+A mesma compreensão tem sido adotada também pelo Supremo Tribunal Federal, conforme precedente abaixo colacionado:
+Penal e constitucional. Habeas corpus. Tráfico de entorpecentes (art. 33 da Lei n. 11.343/2006). Causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas. Afastamento: paciente dedicado a atividades criminosas. Extensa ficha criminal revelando inquéritos e ações penais em andamento. Ausência de ofensa ao princípio da presunção de inocência. dosimetria da pena, substituição por restritiva de direitos e regime aberto: Questões não examinadas pelo Tribunal a quo. Não conhecimento.
+1. O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+2. In casu, a minorante especial a que se refere o § 4º do art. 33 da Lei n. 11.343/2006 foi corretamente afastada ante a comprovação, por certidão cartorária, de que o paciente está indiciado em vários inquéritos e responde a diversas ações penais, entendimento que se coaduna com a jurisprudência desta Corte: RHC 94.802, 1ª Turma, Rel. Min. MENEZES DIREITO, DJe de 20/03/2009; e HC 109.168, 1ª Turma, Rel. Min. CÁRMEN LÚCIA, DJe de 14/02/2012, entre outros.
+3. Os temas atinentes à dosimetria da pena, à substituição por restritiva de direitos e ao regime aberto não foram examinados no Tribunal a quo, por isso são insuscetíveis de conhecimento, sob pena de supressão de instância.
+4. Habeas corpus conhecido em parte e denegada a ordem nessa extensão.
+(HC n. 108.135/MT, Rel. Ministro Luiz Fux, 1ª T., DJe 27/6/2012, grifei)
+Não constato, portanto, ilegalidade na espécie.
+Mantida, por conseguinte, a reprimenda imposta ao réu - 5 anos de reclusão e 500 dias-multa.
+V. Regime inicial
+Na espécie, a instância antecedente motivou a imposição do modo inicialmente mais gravoso com base no montante de droga apreendida, na gravidade e na nocividade concreta da conduta e na hediondez do tráfico de drogas (fl. 319):
+ ..
+Por fim, o regime inicial fechado também deve ser mantido, ante a hediondez do delito por equiparação, a gravidade e nocividade concreta da conduta e também evidenciada pela natureza e quantidade da droga apreendida, com fundamento no § 3º do artigo 33 do Código Penal, sendo inviável substituir a pena privativa de liberdade por restritivas de direitos.
+Quanto à natureza do crime, equiparado a hediondo, do tráfico de drogas, como justificativa para o regime adotado, releva observar que a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990 foi declarada pelo Plenário do Supremo Tribunal Federal há mais de 6 anos (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012), devendo tal entendimento ser observado, em nome da higidez e funcionalidade do sistema de justiça criminal.
+Demais disso, o regime inicial fechado se mostra excessivamente gravoso no caso. Isso porque o agravante era tecnicamente primário ao tempo do delito, foi definitivamente condenado a reprimenda inferior a 8 anos de reclusão e a quantidade de droga não foi tão expressiva (2,7 g de cocaína).
+Logo, considero, que o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito praticado, nos termos do art. 33, § 3º, do Código Penal e do disposto no art. 42 da Lei n. 11.343/2006.
+Desse modo, por serem inidôneos os motivos apontados pelas instâncias ordinárias para justificar o regime mais gravoso, estabeleço, de ofício, o modo semiaberto para o início do cumprimento da pena.
+VI. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+VII. Dispositivo
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, negar-lhe provimento. Todavia, por identificar flagrante ilegalidade na espécie, concedo habeas corpus, de ofício, para estabelecer o regime inicial semiaberto.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o acusado não a cumpra atualmente.
+Publique-se e intimem-se.
