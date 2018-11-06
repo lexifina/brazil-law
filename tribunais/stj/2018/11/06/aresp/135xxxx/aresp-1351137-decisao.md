@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO. PREQUESTIONAMENTO.
+1. A retificação de acórdão só tem cabimento nas hipóteses de inexatidões materiais, erros de cálculo, omissão, contradição ou obscuridade.
+2. Os embargos declaratórios não servem ao objetivo de rediscutir o mérito da causa.
+3. Se o acórdão decidiu contrariamente às pretensões da parte, não será na via dos embargos declaratórios que buscará reformar o decisum, sob pena de se lhes atribuir efeitos infringentes, hipótese só admitida excepcionalmente.
+4. De forma a viabilizar o acesso às Instâncias Superiores, possível o acolhimento dos embargos de declaração, ainda que seja para tão-somente explicitar que a decisão embargada não contrariou nem negou vigência aos dispositivos legais invocados.
+O valor atribuído à presente ação judicial perfazia o montante de R$ 7.696,74 (sete mil, seiscentos e noventa e seis reis e setenta e quatro centavos), em março de 2015.
+Opostos embargos de declaração, esses foram parcialmente acolhidos somente para fins de prequestionamento.
+Inicialmente, o recorrente suscita contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou sobre a possibilidade jurídica de inclusão do nome do executado em cadastro de inadimplentes por meio do SERASAJUD ou mediante expedição de ofícios.
+Em seguida, o recorrente aponta violação dos arts. 139 e 782, ambos do CPC/2015.
+Sustenta, em síntese, que a ausência de implementação do convênio entre a Justiça Federal da 4ª Região e o sistema SERASAJUD não pode constituir obstáculo para eventuais determinações judiciais de inclusão do nome de executado nos cadastros de inadimplentes (SERASA).
+O recurso especial foi inadmitido com base nas Súmulas ns. 283 e 284 do Supremo Tribunal Federal.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Sobre a alegada violação do art. 1.022 do CPC/2015, por suposta omissão pelo Tribunal de origem da análise da questão acerca da possibilidade de inclusão do nome do executado no cadastro de inadimplentes mesmo que sem intermédio do sistema SERASAJUD, tenho que não assiste razão ao recorrente.
+Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1.498.690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017, DJe 20/3/2017).
+Por outro lado, percebe-se que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou, à fl. 41, que "ao aderir ao referido convênio, o Tribunal se comprometeu a utilizar o sistema "na forma e nas condições estabelecidas em suas cláusulas", ou seja, a utilização é online, e não por meio de ofícios.", assentando, ainda, que "cumpre ao juiz da execução avaliar as medidas coercitivas postas ao seu alcance sob o prisma da economicidade, não se mostrando razoável seja dispensada a observância dos procedimentos devidamente regulamentados apenas para que se antecipe a satisfação do crédito.".
+Dessa forma, é certo que a alteração das conclusões adotadas pela instância ordinária, acerca das condições em que foi firmado referido convênio bem como sobre a ausência de razoabilidade do pedido do Ente Público, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intime-se.
