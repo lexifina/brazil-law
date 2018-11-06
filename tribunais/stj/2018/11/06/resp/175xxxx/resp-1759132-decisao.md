@@ -1,0 +1,22 @@
+DECISÃO
+
+Trata-se de recurso especial que foi interposto por MARIA WALDECI PEREIRA DE ASSUNÇÃO MATOS e que desafia acórdão assim ementado (e-STJ fl. 136):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE TUTELA ANTECIPADA. PETIÇÃO INICIAL. REQUISITOS. ART. 282 DO CPC. NARRAÇÃO CONFUSA E ININTELIGÍVEL. INVIABILIDADE DE EMENDA. INÉPCIA CONFIGURADA. EXTINÇÃO IMEDIATA DO FEITO SEM RESOLUÇÃO DO MÉRITO. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1.A Lei Adjetiva (art. 282) exige que o requerente indique o direito subjetivo que pretende exercitar contra o requerido e os fatos que deram origem a esse direito, de forma inteligível e com exatidão, de maneira a justificar, através de uma sequência lógica, o pedido formulado, possibilitando ao requerido a exata compreensão da demanda, a fim de que possa se defender de maneira ampla, e possibilitar o julgamento da demanda.
+2.Não estando, pois, a petição inicial em conformidade com o disposto no artigo 282 do CPC e, considerando que da narrativa dos fatos não se extrai, claramente, a pretensão da autora/apelante de modo a possibilitar a resposta dos requeridos e o julgamento da ação, há que se extinguir o feito, imediatamente, sem resolução do mérito, por inépcia da inicial, com fundamento nos arts. 267, I, e 295, do CPC, diante da inviabilidade de emenda.
+3.Recurso conhecido e não provido.
+No especial, a parte recorrente apontou violação do art. 284 do CPC/1973, sustentando a impossibilidade de reconhecimento da inépcia da inicial sem antes intimar a parte autora para emendar a exordial.
+Ausentes contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Inicialmente, observo que a parte recorrente não indicou o permissivo constitucional em que fundamentada a pretensão recursal, circunstância que, em regra, atrai o óbice da Súmula 284 do STF.
+Entretanto, "a jurisprudência majoritária do Superior Tribunal de Justiça inclina-se a conhecer o apelo nobre se, embora não indicado o permissivo constitucional, for possível depreender da leitura das razões recursais por quais das alíneas do artigo 105, III, da Constituição Federal foi interposto o especial" (REsp 1.172.660/DF, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 16/09/2014, DJe 25/09/2014).
+Nesse sentido: AgRg no AREsp 377.390/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 25/3/2014; e REsp 828.123/RN, Rel. Min. LAURITA VAZ, Quinta Turma, DJe 27/9/2010.
+Na hipótese, depreende-se que as alegações tecidas no recurso especial amoldam-se à previsão do art. 105, III, "a", da Constituição Federal.
+Ultrapassada essa questão, em relação à possível ofensa suscitada, constata-se que ela carece do requisito do prequestionamento, haja vista que a tese formulada, no sentido da imprescindibilidade de intimação da parte autora para emendar a inicial antes de reconhecer a inépcia, não foi tratada, ainda que de maneira tácita, no âmbito da instância a quo.
+Deve-se frisar que, na ocasião da apelação, a pretensão do recorrente se limitou a alegar que inexistiria a inépcia reconhecida, não tocando, em momento algum, no ponto referente à necessidade da intimação da parte autora, antes do reconhecimento, o que demonstra, inequivocamente, a inovação recursal do argumento ora formulado.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
