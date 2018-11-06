@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, com fundamento no art. 105, inc. III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+"AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO SEM ASSINATURA DE DUAS TESTEMUNHAS. INDEFERIMENTO DA INICIAL. DECISÃO MANTIDA. CONVERSÃO DO FEITO EM AÇÃO MONITÓRIA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. REDISCUSSÃO. NENHUM ELEMENTO NOVO.
+1- Uma vez demonstrado que o contrato de mútuo, entabulado entre as partes, apesar de estar certificado digitalmente, não possui a assinatura de duas testemunhas (art. 585, II, do CPC), correta a sentença, que extingue o processo, sem resolução de mérito, com o indeferimento da inicial.
+2- Questões não apreciadas na instância primeva não podem ser conhecidas por esta Corte, sob pena de supressão de instância.
+3- Não trazendo a parte Agravante qualquer elemento novo capaz de sustentar a pleiteada reconsideração da decisão agravada, deve ser desprovido o agravo regimental. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO" (fl. 132 e-STJ).
+Em suas razões, a recorrente alega violação dos arts 267 e 585 do Código de Processo Civil de 1973.
+Sustenta, em síntese, que o contrato objeto da ação de execução recebeu assinatura digital devidamente certificada, não sendo o caso de indeferimento da inicial. Aduz, ainda, que a ausência de assinatura das testemunhas autorizaria a conversão da execução em monitória.
+Com fulcro nos argumentos expostos, pleiteia o provimento do recurso para que seja determinado o prosseguimento da execução.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De início, oportuno consignar que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+Quanto ao mérito, o Tribunal de origem, ao apreciar os requisitos da ação de execução consignou os seguintes fundamentos:
+(..)
+Nos termos dos artigos 580 e 585, II, do Código de Processo Civil, "a execução pode ser instaurada caso o devedor não satisfaça a obrigação certa, líquida e exigível, consubstanciada em título executivo" e "são títulos executivos (..) o documento particular assinado pelo devedor e por duas testemunhas (..) ".
+Analisando os presentes autos, verifico que, de fato, falta força executiva ao contrato de mútuo (fls. 39/46) que embasa a execução, uma vez que não traz o requisito exigido pelo artigo 585, inciso II, do CPC, qual seja, a assinatura de duas testemunhas.
+Ainda que se considere a assinatura eletrônica do documento, por meio da certificação digital indicada (selo comprova.com), falta ao título, documento particular, a confirmação da existência do negócio, com a aposição de assinatura de duas pessoas estranhas à relação formada no contrato, que confirmem sua realização.
+Assim, a exigência de assinatura por duas testemunhas tem como finalidade a declaração de veracidade do contrato celebrado entre as partes, razão pela qual, não atendida a formalidade prevista em lei, é impossível atribuir força executiva ao documento particular objeto da presente ação" (fl. 129 e-STJ).
+A leitura do excerto revela que o acórdão recorrido destoou da orientação jurisprudencial desta Corte Superior, ao considerar que "Ainda que se considere a assinatura eletrônica do documento, por meio da certificação digital indicada (selo comprova.com), falta ao título, documento particular, a confirmação da existência do negócio, com a aposição de assinatura de duas pessoas estranhas à relação formada no contrato, que confirmem sua realização" (fl. 129 e-STJ).
+Com efeito, os contratos eletrônicos com assinatura digital e certificação, em princípio, são aceitos como títulos executivos, mesmo sem as assinaturas das testemunhas, conforme se observa do seguinte precedente:
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXECUTIVIDADE DE CONTRATO ELETRÔNICO DE MÚTUO ASSINADO DIGITALMENTE (CRIPTOGRAFIA ASSIMÉTRICA) EM CONFORMIDADE COM A INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA. TAXATIVIDADE DOS TÍTULOS EXECUTIVOS. POSSIBILIDADE, EM FACE DAS PECULIARIDADES DA CONSTITUIÇÃO DO CRÉDITO, DE SER EXCEPCIONADO O DISPOSTO NO ART. 585, INCISO II, DO CPC/73 (ART. 784, INCISO III, DO CPC/2015). QUANDO A EXISTÊNCIA E A HIGIDEZ DO NEGÓCIO PUDEREM SER VERIFICADAS DE OUTRAS FORMAS, QUE NÃO MEDIANTE TESTEMUNHAS, RECONHECENDO-SE EXECUTIVIDADE AO CONTRATO ELETRÔNICO. PRECEDENTES.
+1. Controvérsia acerca da condição de título executivo extrajudicial de contrato eletrônico de mútuo celebrado sem a assinatura de duas testemunhas.
+2. O rol de títulos executivos extrajudiciais, previsto na legislação federal em "numerus clausus", deve ser interpretado restritivamente, em conformidade com a orientação tranquila da jurisprudência desta Corte Superior.
+3. Possibilidade, no entanto, de excepcional reconhecimento da executividade de determinados títulos (contratos eletrônicos) quando atendidos especiais requisitos, em face da nova realidade comercial com o intenso intercâmbio de bens e serviços em sede virtual.
+4. Nem o Código Civil, nem o Código de Processo Civil, inclusive o de 2015, mostraram-se permeáveis à realidade negocial vigente e, especialmente, à revolução tecnológica que tem sido vivida no que toca aos modernos meios de celebração de negócios, que deixaram de se servir unicamente do papel, passando a se consubstanciar em meio eletrônico. 5. A assinatura digital de contrato eletrônico tem a vocação de certificar, através de terceiro desinteressado (autoridade certificadora), que determinado usuário de certa assinatura a utilizara e, assim, está efetivamente a firmar o documento eletrônico e a garantir serem os mesmos os dados do documento assinado que estão a ser sigilosamente enviados.
+6. Em face destes novos instrumentos de verificação de autenticidade e presencialidade do contratante, possível o reconhecimento da executividade dos contratos eletrônicos.
+7. Caso concreto em que o executado sequer fora citado para responder a execução, oportunidade em que poderá suscitar a defesa que entenda pertinente, inclusive acerca da regularidade formal do documento eletrônico, seja em exceção de pré-executividade, seja em sede de embargos à execução.
+8. RECURSO ESPECIAL PROVIDO" (REsp 1495920/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 07/06/2018, informativo de jurisprudência nº 627/STJ).
+Nesse cenário, revela-se inafastável a incidência da Súmula nº 568 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do recurso e dou-lhe provimento, para determinar o prosseguimento do processo executivo.
+Publique-se.
+Intimem-se.
