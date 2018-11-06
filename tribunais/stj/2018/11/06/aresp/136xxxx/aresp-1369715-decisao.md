@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 3ª Região, o qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 175):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. RURÍCOLA. ARTS. 39, I, 48, e 143 DA LEI 8.213/91. PROVAS MATERIAL E TESTEMUNHAL. CONJUNTO PROBATÓRIO INSUFICIENTE. CARÊNCIA NÃO CUMPRIDA. BENEFÍCIO NÃO CONCEDIDO
+- O beneficio de aposentadoria por idade, ao trabalhador rural, encontra-se disciplinado nos artigos 39, inciso I, 48 e 143 da Lei 8.213/91.
+- Além do requisito etário, o trabalhador rural deve comprovar o exercício de atividade rural na condição de segurado especial, mesmo que descontínua, no período imediatamente anterior ao requerimento do beneficio, em número de meses idêntico à carência do beneficio.
+- Insuficiência do conjunto probatório (documentos e testemunhas).
+- Sentença reformada. Apelo provido.
+No especial obstaculizado, o recorrente apontou violação dos arts. 39, I, 48, § 1º e 143 da Lei n. 8.213/1991, sustentando que a condição de segurada foi devidamente comprovada nos autos.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o julgado foi baseado em matéria fática, cuja alteração esbarra na Súmula 7 do STJ.
+Na presente irresignação, o agravante sustenta que não pretende o reexame de matéria fática, mas apenas a aplicação da norma de regência.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse esclarecimento, verifica-se que o caso dos autos diz respeito ao meio de comprovação do tempo de labor agrícola do segurado para efeito de aposentadoria rural por idade.
+Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n. 8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+Sobre essa questão, o Tribunal a quo não reconheceu a qualidade de segurado especial da parte autora após constatar a ausência de comprovação do labor campesino sob o regime de economia familiar, in verbis (e-STJ fls. 173-174):
+No caso em questão, o requerente apresentou cópias de documentos que indicam o exercício de atividade rural desde o ano de 1981 (certidão de nascimento do filho, contratos de arrendamento, pedidos de talonário de produtor e outros - fls. 22/61).
+Os documentos de fls. 146/149, porém, indicam a exploração de atividade agropecuária (bovinocultura) em quatro imóveis diferentes, cada um com uma inscrição no CNPJ.
+Ainda que o autor alegue, a fls. 151/160, que um dos imóveis não mais lhe pertence desde 2011, remanescem ao menos três deles. Assim, da documentação colacionada depreende-se que o demandante não se enquadra na qualidade de segurado especial em regime de economia familiar, nos termos do art. 11, VIL § 1º da Lei 8.213/91, mas sim como empregador e grande produtor rural.
+Cumpre salientar que o regime de economia familiar pressupõe que os membros da família trabalhem no imóvel rural, sem o auxílio de empregados, para sua própria subsistência, o que não ficou comprovado no presente feito.
+Desta feita, não restou devidamente evidenciada a relação dos membros do núcleo familiar da parte autora, em regime de economia mútua, que pressupõe rudimentar economia rural de subsistência, uma pequena roça onde residem todos os membros de uma mesma família de roceiros, campesinos e, nessa terra, moram e dela retiram seu sustento.
+Certo é que o artigo 143 da Lei nº 8.213/91 refere-se ao pequeno produtor "categoria especial", artigo 11, inciso VII, figuras não-condizentes com as características de detentores de propriedade rural em caráter de empreendimento.
+In casu, portanto, o demandante logrou êxito em demonstrar o preenchimento da condição etária, porém não o fez quanto à comprovação do labor no meio campesino, sob manto da economia familiar - o que lhe conferiria a condição de segurado especial.
+Dessa forma, não preenchidos os requisitos legais, é indevido o beneficio de aposentadoria por idade pleiteado, devendo ser reformada a r. sentença, na íntegra.
+Feito esse esclarecimento, verifico que não foi identificada a qualidade de segurado especial a ensejar a concessão do benefício, posto que não comprovado o exercício da atividade rural nos termos exigidos pela legislação.
+Assim, a reforma do julgado, sob o fundamento de que houve comprovação do exercício de atividade rural na condição de segurado especial, em regime de economia familiar, demandaria reexame dos elementos fático-probatórios dos autos, inviável em sede de recurso especial.
+Sobre a questão, cito os seguintes julgados:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RURAL. REGIME DE ECONOMIA FAMILIAR. DESCARACTERIZAÇÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, consignou não estar caracterizado o trabalho rural em regime de economia familiar, porquanto a parte autora possui diversas propriedades, algumas acima de 4 módulos ficais e uma com 10,20 módulos fiscais, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+III - É incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n.
+07/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Honorários recursais. Não cabimento.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1527772/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/06/2018, DJe 08/06/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. APOSENTADORIA. ATIVIDADE RURAL. DOCUMENTOS DO MARIDO. EXERCÍCIO POSTERIOR DE ATIVIDADE URBANA. NÃO CONCESSÃO DO BENEFÍCIO. REGIME DE ECONOMIA FAMILIAR. NÃO COMPROVAÇÃO. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535 do CPC/1973, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Cinge-se a controvérsia à comprovação da atividade rural exercida pela recorrida, como pressuposto para concessão de aposentadoria por idade.
+3. A decisão proferida na origem está de acordo com a compreensão fixada no STJ sob o rito do art. 543-C do CPC no sentido de que "a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana" (REsp 1.304.479/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2012).
+4. O Tribunal de origem, na análise soberana dos fatos e provas, concluiu que a autora não comprovou os requisitos para a concessão do benefício da aposentadoria por idade a trabalhador rural. Desse modo, inviável acolher a pretensão da recorrente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+5. Recurso Especial não conhecido.
+(REsp 1684569/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 16/10/2017)
+Nos termos do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no 1.042, § 5º, do CPC/2015, c/c o art. 253, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial. Majoro os honorários recursais em 10% sobre o valor fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015. Suspensa a exigibilidade por tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
