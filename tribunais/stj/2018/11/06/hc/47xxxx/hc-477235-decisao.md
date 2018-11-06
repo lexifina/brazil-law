@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0029254-79.2014.8.26.0405).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 1 ano, 6 meses e 20 dias de reclusão, em regime inicial semiaberto, e multa, pela prática do crime previsto no art. 155, § 4º, inciso I, c/c o 14, inciso II, ambos do Código Penal (e-STJ fls. 25/32).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi improvido (e-STJ fls. 15/21).
+No presente mandamus (e-STJ fls. 3/14), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois determinou a expedição de mandado de prisão antes de a defesa ser intimada da prolação do acórdão. No ponto, discorre sobre a impossibilidade de execução da pena antes do trânsito em julgado, sob pena de ofensa ao princípio da presunção de inocência. Por fim, afirma que o paciente faz jus à substituição da pena privativa de liberdade por medidas restritivas de direitos, pois a reincidência genérica não constitui óbice ao benefício.
+Ao final, liminarmente e no mérito, pede a alteração do regime prisional para inicial semiaberto.
+É o relatório. Decido.
+Na espécie, além da ausência de correlação entre as razões e o pedido, a pretensão manifestada revela ausência de interesse de agir, porquanto a impetrante pede a fixação do regime semiaberto, não obstante as instâncias ordinárias tenham estabelecido tal regime para o resgate da pena aplicada.
+Além disso, mesmo que se admita pedidos implícitos sobre os temas suscitados nas razões, a impetrante não comprovou, mediante prova pré-constituída, o não exaurimento das instâncias ordinárias. Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 2/3/2015).
+Cabe consignar, por fim, não ser hipótese de ilegalidade que se revele de pronto e que permita a concessão de ordem de habeas corpus, de ofício, ante a inviabilidade de abrandar o regime prisional para aberto ou de substituir a pena, porquanto o paciente é multirreincidente. Sobre o tema, segue a firme jurisprudência desta Corte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. REGIME INICIAL DE CUMPRIMENTO DE PENA. SEMIABERTO. ADEQUADO. RÉU REINCIDENTE. PENA INFERIOR A 4 ANOS (ART. 33, § 2º, "C", CP). SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AUSÊNCIAS DE REQUISITOS (ART. 44, INC. II, DO CP). HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Os requisitos para a imposição do regime aberto constam no art. 33, § 2º, alínea c, e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período igual ou inferior a 4 (quatro) anos, bem como a inexistência de circunstâncias judiciais desfavoráveis.
+IV - Na espécie, ainda que a pena-base tenha sido fixada no mínimo legal, a manutenção do regime mais gravoso do que o cabível pelo quantum de pena imposta justifica-se na reincidência do paciente, nos termos do artigo 33, § 2º, alínea c, do Código Penal.
+V - Incabível a substituição por penas restritivas de direitos, por expressa vedação legal, nos termos do art. 44, inciso II, do Código Penal, dada a presença da reincidência ostenta pelo paciente.
+Habeas Corpus não conhecido. (HC 467.447/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 9/10/2018).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. POSSE DE DROGAS PARA CONSUMO PRÓPRIO E DANO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. PACIENTE REINCIDENTE. REGIME ABERTO E SUBSTITUIÇÃO. PENA INFERIOR A 4 ANOS. INVIABILIDADE. REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- A reiteração no cometimento de infrações penais se reveste de relevante reprovabilidade e, em regra, se mostra incompatível com a aplicação do princípio da insignificância. No caso, tendo em vista que o paciente é reincidente, não é aplicável o aludido princípio. - Não obstante a pena do crime de dano qualificado ter ficado abaixo dos 4 anos, não há se falar em fixação de regime aberto e substituição da pena privativa de liberdade, em razão da reincidência.
+- Habeas corpus não conhecido. (HC 386.093/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 27/4/2017).
+Portanto, em virtude da ausência de correlação entre as razões e o pedido, da inexistência de interesse de agir, da deficiente instrução ou de ilegalidade evidente, o presente habeas corpus revela-se inadmissível.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
