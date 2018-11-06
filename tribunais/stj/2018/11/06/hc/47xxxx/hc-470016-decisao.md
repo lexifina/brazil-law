@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado por [NOME], em benefício próprio, apontando como autoridades coatoras o Tribunal de Justiça de Santa Catarina e o Juízo de Direito da Comarca de Gaspar/SC.
+Afirma que foi condenado, como incurso nos arts. 33 e 35 da Lei n. 11.343/2006, respectivamente, às penas de 8 anos e 1 mês de reclusão e 4 anos e 10 meses de reclusão, sendo que houve a interposição do recurso de apelação. Alega que é simples usuário de drogas, a pena aplicada foi bastante elevada, e já está preso, no regime fechado, há 4 anos.
+A liminar foi indeferida, porque os autos não estavam instruídos com nenhuma peça do processo originário (fls. 21/22).
+Informações prestadas às fls. 28/441.
+A Defensoria Pública, às fls. 447/452, apresentou aditamento à inicial do habeas corpus, postulando a liberdade do paciente, tendo em vista que no acórdão da apelação a pena, na verdade, teria sido reduzida para 4 anos, 4 meses e 15 dias de reclusão e já teria o paciente cumprido quase a totalidade da reprimenda no regime fechado.
+É o relatório.
+Das informações prestadas, verifica-se que o ora paciente, após o julgamento da Apelação n. 00013805220148240025, restou condenado à pena de 4 anos, 4 meses e 15 dias de reclusão, no regime inicial fechado, como incurso no art. 35 da Lei 11.343/2006, sendo instaurado o Processo de Execução Criminal n. 00019024520158240025. Os recursos especiais interpostos foram sobrestados até o julgamento do Tema 984 (32).
+Da última decisão proferida pelo Juízo da Execução (fl. 454), pode-se constatar que o paciente está preso, no regime mais gravoso, desde 05/11/2014, tendo o Magistrado considerado para o cálculo de benefícios o máximo da pena em abstrato, desconsiderando, por completo, a redução da pena operada no acórdão da apelação. Vislumbro, portanto, daí, manifesta ilegalidade a ser sanada nos presentes autos.
+Como bem observado pela Defensoria Pública, a redução da pena determinada no acórdão da apelação implica o cumprimento de praticamente a integralidade da pena privativa de liberdade no regime mais gravoso, sendo certo que o Juízo da Execução indeferiu os benefícios ao paciente, por ter considerado no cálculo o máximo da pena em abstrato, ou seja, nem mesmo a pena constante da sentença foi observada.
+Ante o exposto, concedo a ordem para determinar ao Juízo da Vara de Execução Criminal da Comarca de Blumenau/SC que refaça os cálculos e avalie a possibilidade de concessão de benefícios na execução do paciente (processo n. 00019024520158240025), tomando por base a pena imposta no acórdão da apelação, qual seja, 4 anos, 4 meses e 15 dias de reclusão.
+Comuniquem-se ao Tribunal de origem e ao Juízo da Execução.
+Publique-se.
