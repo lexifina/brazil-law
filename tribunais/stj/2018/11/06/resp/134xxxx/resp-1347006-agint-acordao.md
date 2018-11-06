@@ -1,0 +1,31 @@
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. TRABALHADOR RURAL. RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS DA AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO. PROVA MATERIAL INCONSISTENTE. TESTEMUNHAS CONTRADITÓRIAS. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, com base no conjunto fático-probatório carreado aos autos, consignaram a ausência de comprovação da atividade rural exercida pela parte autora no período de carência exigido.
+2. Não são considerados, para indício razoável de prova material, os documentos que não sejam contemporâneos à época do suposto exercício de atividade profissional. Neste caso, verifica-se, ainda, que o acervo testemunhal produzido apresenta-se inadequado, por contraditório, para evidenciar a pretendida situação de trabalhador rural do de cujus.
+3. Dessa forma, sendo inservíveis os documentos apresentados pela parte autora e contradita a testemunha não faz jus ao benefício requerido.
+4. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] em face da decisão que negou seguimento ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 5o., §1o., a, e 3o. DA LC 11/71. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 E 356/STF. PENSÃO POR MORTE. APOSENTADORIA RURAL POR IDADE. NÃO COMPROVADA A QUALIDADE DE SEGURADO ESPECIAL DO DE CUJUS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+2. Sustenta o Segurado, reafirmando as razões lançados no Recurso Especial, que restou devidamente comprovado o exercício da atividade campesina, havendo, inclusive, reconhecimento administrativo do INPS da condição de trabalhador rural do instituidor da pensão.
+3. É o relatório.
+VOTO
+PREVIDENCIÁRIO. AGRAVO INTERNO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. TRABALHADOR RURAL. RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS DA AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO. PROVA MATERIAL INCONSISTENTE. TESTEMUNHAS CONTRADITÓRIAS. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, com base no conjunto fático-probatório carreado aos autos, consignaram a ausência de comprovação da atividade rural exercida pela parte autora no período de carência exigido.
+2. Não são considerados, para indício razoável de prova material, os documentos que não sejam contemporâneos à época do suposto exercício de atividade profissional. Neste caso, verifica-se, ainda, que o acervo testemunhal produzido apresenta-se inadequado, por contraditório, para evidenciar a pretendida situação de trabalhador rural do de cujus.
+3. Dessa forma, sendo inservíveis os documentos apresentados pela parte autora e contradita a testemunha não faz jus ao benefício requerido.
+4. Agravo Interno do Particular a que se nega provimento.
+1. A insurgência não prospera, a despeito das razões lançadas pelo agravante.
+2. Como visto, no caso dos autos, conforme analisado pelo Tribunal de origem, não ficou comprovada a qualidade de segurado especial do de cujus, tendo em vista que os documentos juntados aos autos acrescidos pela prova testemunhal são insuficientes para demonstrar o exercício de atividade rural.
+3. Confira-se, a propósito, o seguinte trecho do acórdão recorrido:
+Na hipótese em apreço, não há início de prova material acerca da atividade rural do de cujus na época da concessão do amparo previdenciário, pois a autora apenas trouxe aos autos a certidão de óbito, ocorrido em 1993, qualificando-o como "lavrador aposentado" (fl. 5), além da ficha cadastral do lecido junto ao Sindicato dos Trabalhadores Rurais de Ibaiti, com data de admissão em 29-07-1980 (fl. 13).
+Ademais, os depoimentos das testemunhas ouvidas na audiência realizada em 18-05-2009 e 19-08-2009 não servem para comprovar a atividade rural do falecido no período anterior a 1976 (fis. 53 e 60).
+Com efeito, a testemunha [NOME] (fl. 53) disse que conheceu o de cujus em 1986, ou seja, dez anos depois da concessão do amparo por invalidez, pois ambos moraram na Fazenda Vida Nova, e que, desde que o conheceu, ele sempre teria trabalhado na lavoura, à exceção de um período antes do falecimento, durante o qual ficou doente e sem condições de trabalhar.
+A testemunha lzac [NOME] (fl. 60), por sua vez, afirmou ter conhecido o de cujus, porque trabalhava com ele na Fazenda Vida Nova, e que, desde que o conheceu, ele sempre teria trabalhado na lavoura, à exceção de um período antes do falecimento, durante o qual ficou doente e sem condições de trabalhar.
+Como se percebe, não ficou comprovado que o extinto, antes do deferimento do benefício assistencial, adquiriu direito à aposentadoria por idade, como trabalhador rural. Ademais, se eventualmente completou os requisitos posteriormente, pelo exercício de trabalho rural até a data do óbito (o que também não restou demonstrado), também não se pode reconhecer o direito ao benefício, devido ao recebimento cio amparo assistencial.
+Por conseguinte, não havia, na data do óbito, qualidade de segurado, razão pela qual é desnecessária a análise da qualidade de dependente previdenciária. O pedido é improcedente (fls. 125/126).
+4. Assim, não preenchendo o de cujus os requisitos necessários para o reconhecimento de sua condição de trabalhador rural, não merece reparos o acórdão recorrido.
+5. Ademais, a revisão do acervo probatório, como pretendido pelo agravante, demandaria, necessariamente, a revisão do acervo probatório dos autos, o que esbarra no óbice contido na Súmula 7 desta Corte.
+6. Ante o exposto, nega-se provimento ao Agravo Interno do Particular. É como voto.
