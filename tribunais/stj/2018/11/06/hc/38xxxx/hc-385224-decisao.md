@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça de Goiás, que negou provimento ao apelo defensivo.
+Extrai-se dos autos que o paciente foi condenado como incurso no art. 121, caput, do Código Penal, à pena de 7 anos e 4 meses de reclusão.
+Sustenta o impetrante, em síntese, nulidade processual por ausência de intimação do Defensor Dativo da data do julgamento do recurso de apelação ou do inteiro teor do acórdão.
+Requer, assim, seja anulado todos os atos processuais ocorridos após publicação da data do julgamento do recurso de apelação, para que seja realizada a intimação pessoal do Defensor Dativo.
+Deferido o pedido de liminar suspensão da execução da pena do paciente (fls. 1060/1062) e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+No que tange à alegada ausência de intimação pessoal do Defensor Dativo acerca do julgamento do recurso de apelação, bem como de seu acórdão, o Tribunal de origem assim manifestou (fl. 1086):
+Conforme expressamente requerido por Vossa Excelência, insta esclarecer que não consta nos autos a intimação pessoal do causídico acerca da data do julgamento do recurso de apelação, bem como do acórdão. Entretanto, trago a baila que a nomeação foi feita, por este Juízo, somente na data de 11/10/2016 a fim da expedição da certidão de honorários, ou seja, embora a nomeação tenha sido feita com efeito retroativo (desde a designação do Júri Popular), ela só foi lançada nos autos em data posterior ao julgamento do apelo, bem como, por conseguinte, posterior à publicação do acórdão.
+Verifica-se do excerto transcrito acima que, de fato, o Defensor Dativo não foi intimado pessoalmente da data de julgamento da apelação, constando dos autos apenas a publicação, no Diário de Justiça do dia 12/5/2016, da designação do dia para julgamento do recurso (fls. 836/837) e a certidão de encaminhamento, ao Diário de Justiça eletrônico, da intimação do acórdão, em 5/7/2016 (fl. 850).
+Consoante entendimento jurisprudencial desta Corte, aplica-se ao defensor dativo a regra relativa à defensoria pública, no que se refere à prerrogativa de intimação pessoal de todos os atos do processo. Nesse sentido, confira-se:
+HABEAS CORPUS. HOMICÍDIO. APELAÇÃO DO MINISTÉRIO PÚBLICO. DETERMINAÇÃO DE REALIZAÇÃO DE NOVO JÚRI. INTIMAÇÃO DO DEFENSOR DATIVO. NECESSIDADE. PREJUÍZO DEMONSTRADO. ORDEM CONCEDIDA.
+Nos termos do art. 5º, § 5º, da Lei n. 1.060/50, é prerrogativa da Defensoria Pública ser intimada pessoalmente de todos os atos do processo. Tal prerrogativa é, conforme a jurisprudência consolidada desta Corte, estendida aos defensores dativos.
+As informações prestadas pelo Tribunal de origem dão conta de que, de fato, a defesa designada não foi intimada da data do julgamento do recurso da acusação, ficando, desse modo, impossibilitado de sustentar oralmente. Evidenciado, portanto, o cerceamento de defesa e o prejuízo ao paciente.
+Habeas corpus concedido para anular o acórdão impugnado e determinar a realização de novo julgamento com a efetiva intimação pessoal do defensor dativo ou, conforme o caso, da Defensoria Pública. (HC 324.452/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/10/2017, DJe 26/10/2017.)
+Assim, não realizada a intimação pessoal do Defensor Dativo para o julgamento da apelação, imperioso o reconhecimento da nulidade arguida, por cerceamento de defesa. Nesse norte:
+HABEAS CORPUS. CRIMINAL. APELAÇÃO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DE DEFENSOR DATIVO PARA A SESSÃO DE JULGAMENTO. NULIDADE ABSOLUTA. AUSÊNCIA DE PRECLUSÃO, IN CASU. HABEAS CORPUS CONHECIDO. ORDEM CONCEDIDA.
+- A jurisprudência pacífica desta Corte tem entendido que a ausência de intimação pessoal da Defensoria Pública ou Defensor Dativo para a sessão de julgamento da Apelação gera nulidade absoluta do acórdão. Precedentes.
+- Não há falar, in casu, em preclusão temporal da nulidade suscitada. Isso porque, embora a defensora dativa tenha permanecido silente após sua intimação pessoal, em 7.12.2010, quanto ao julgamento do recurso, o paciente, tão logo teve conhecimento da expedição do mandado de prisão em seu desfavor, apresentou sua intenção propor revisão criminal perante a Defensoria Pública, que imediatamente após requerer acesso aos autos, em 28.6.2011 (fls.
+338), impetrou o presente mandamus em 15.8.2011.
+- Habeas Corpus conhecido. Ordem concedida para declarar a nulidade do acórdão proferido nos autos da Apelação Criminal 993.07.069999- 0, a fim de que o referido recurso seja novamente julgado, com a prévia intimação pessoal do Defensor, suspendendo-se, ainda, o mandado de prisão expedido. (HC 216.264/SP, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 24/4/2014, DJe 12/5/2014.)
+Ademais, consoante bem ressaltado pelo Subprocurador-Geral da República, ainda que o réu tenha sido acompanhado, na sessão de julgamento do Tribunal do Júri, não houve a intimação pessoal do causídico acerca da data do julgamento do recurso de apelação, bem como do acórdão, não tendo sido observado o disposto no art. 370 do Código de Processo Penal, de modo que há de se reconhecer a nulidade absoluta (fl. 1081).
+Ante o exposto, concedo o habeas corpus para anular o acórdão condenatório e a respectiva certidão de trânsito em julgado em relação ao paciente, determinando que seja renovado o julgamento do recurso no Tribunal de Justiça, mediante prévia intimação do Defensor Dativo.
+Comunique-se.
+Publique-se.
+Intimem-se.
