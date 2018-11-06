@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por GENI MARIA DISCONZI ZAMBELLI, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 77):
+APELAÇÃO CÍVEL. POLÍTICA SALARIAL. SERVIDOR PÚBLICO. REAJUSTES DA LEI 10.395/95.
+Hipótese em que se verifica o ajuizamento de ação anterior com mesmas partes, a mesma causa de pedir e o mesmo pedido. A mudança de entendimento do órgão fracionário da Corte sobre a matéria, não autoriza o afastamento da coisa julgada. Impossibilidade de relativização do instituto ou de aplicação do artigo 471,I, do Código de Processo Civil ou, ainda, de aplicação do princípio da isonomia.
+POR MAIORIA, NEGARAM PROVIMENTO AO APELO. EM OBSERVÂNCIA AO ARTIGO 942 DO CPC/2015, VOTARAM, NESTA MESMA SESSÃO DE JULGAMENTO, OS DESEMBARGADORES EDUARDO KRAEMER E EDUARDO KOTHE WERLANG.
+Foram rejeitados os embargos declaratórios opostos (fls. 109-115).
+No recurso especial, o recorrente aponta violação dos arts. 5º, incisos LIV e LV, 93, inciso IX, da Constituição Federal bem como o art. 467, inciso I do CPC/1973.
+Sustenta, em síntese, que ao negar seguimento aos embargos de declaração violou os dispositivos constitucionais mencionados, caracterizando, assim, afronta aos princípios do contraditório e ampla defesa.
+Ademais, considera que a relação jurídica discutida se enquadra na hipótese do art. 471, inciso I do CPC/1973, não sendo, a seu ver, hipótese de incidência do fenômeno da coisa julgada.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 142-148).
+O recurso especial foi inadmitido com base na Súmula 7 do STJ e Súmula 280 do STF.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Inicialmente, cumpre destacar que não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, ainda que para o fim de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp 1.604.506/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+Quanto à incidência da coisa julgada ao caso em comento, o Tribunal Local, por maioria, assim se pronunciou (fls. 76-98):
+(..)
+Em que pese o esforço interpretativo da parte apelante, a relação jurídica discutida não se enquadra na hipótese do artigo 471, I, do Código de Processo Civil. Não há relação jurídica continuativa (as prestações devidas pelo ente público é que são continuativas). O caso clássico citado pelos doutrinadores é naquelas situações de julgamento rebus sic stantibus (ações de alimentos).
+No caso, o que ocorreu foi uma mudança de entendimento do órgão fracionário da Corte sobre a matéria, e não uma mudança de fato ou de estado de direito, o que não permite o reexame da questão.
+(..)
+Em verdade, não merece reforma o acórdão de origem, porquanto a modificação do entendimento firmado pelo Tribunal de origem acerca da ocorrência ou não da coisa julgada exigiria o reexame do contexto fático probatório dos autos, o que é vedado em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+Nesse sentido, jurisprudência desta Corte Superior:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORA PÚBLICA. GRATIFICAÇÃO DE DESEMPENHO. PERCEPÇÃO DE PROVENTOS DE PENSÃO. PARIDADE COM SERVIDORES ATIVOS. PRETENSÃO DE RESTABELECIMENTO DO PAGAMENTO DO VALOR INTEGRAL. LIMITAÇÃO TEMPORAL. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. PRECEDENTES DA CORTE. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Ademais, "analisar a alegada ofensa à litispendência e à coisa julgada importa em reexame de provas, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg nos EDcl no REsp 1.539.665/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/10/2015).
+V. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+VI. No caso, as razões do Recurso Especial defendem a inexistência de coisa julgada, eis que distintas as causas de pedir e os pedidos, formulados nas demandas, sem, contudo, impugnar o fundamento do acórdão recorrido, suficiente para manter o referido julgado, que, ante a limitação temporal da anterior decisão judicial, reconheceu que a referida Gratificação não se incorpora aos vencimentos do servidor, dado seu caráter variável e natureza pro labore faciendo, sendo certo que sua redução não ofende o princípio da irredutibilidade dos vencimentos. Precedentes do STJ (AgRg no REsp 1.572.058/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 15/03/2016; AgRg no REsp 1.572.200/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2016; AgRg no REsp 1.570.095/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 29/02/2016).
+VII. Agravo interno improvido.
+(AgInt no REsp 1625260/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/03/2017, DJe 17/03/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONCESSÃO DE VENDAS DE VEÍCULOS. LITISPENDÊNCIA E COISA JULGADA. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgRg no AREsp 737.032/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/02/2017, DJe 13/02/2017)
+Além do mais, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, as Leis nº 10.395/1995 e 12.961/2008, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp 709.574/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015; REsp 1.455.034/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp 970.011/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/5/2017, DJe 24/5/2017).
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo Regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp 4.111/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/10/2014, DJe 12/11/2014).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
