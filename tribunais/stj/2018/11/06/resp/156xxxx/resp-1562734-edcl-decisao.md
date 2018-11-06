@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de embargos de declaração interpostos por VANDA ERLEI DOS SANTOS MACEDO e OUTROS contra decisão monocrática que determinou a redistribuição do feito à 1ª Seção "visto que a matéria objeto do presente litígio diz respeito a contrato de financiamento regido pelo Sistema Financeiro de Habitação com cobertura do FCVS" (e-STJ fl. 1167).
+É O RELATÓRIO. DECIDE-SE.
+Em 05/10/2018, o Plenário do Supremo Tribunal Federal, por maioria de votos, nos autos do RE 827.996/PR, reconheceu a existência de repercussão geral da matéria relativa a possível interesse jurídico da CEF nas ações que envolvem seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação.
+Ressalte-se que o reconhecimento da repercussão geral sobre o tema influencia diretamente na discussão acerca da competência para processar e julgar os feitos desta natureza, tornando por ora inócua a apreciação, por esta Corte Superior, dos recursos que versam sobre a controvérsia.
+Isso porque a definição acerca do interesse jurídico da CEF nas lides desta natureza e, via de consequência, da competência para o julgamento e processamento dos respectivos processos poderá implicar na nulidade de todos os atos processuais praticados pela Justiça Estadual ou Justiça Federal.
+Destarte, por medida de economia processual, e também para evitar decisões dissonantes entre a Corte Suprema e este STJ, impõe-se a devolução dos autos - cuja questão é objeto de debate - à Corte local, para que lá aguardem o desfecho do recurso extraordinário cuja repercussão geral foi reconhecida.
+Forte nessas razões, TORNO SEM EFEITO A DECISÃO DE e-STJ FL. 1167 e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a devida baixa nesta Corte, para que lá permaneçam suspensos até a publicação do acórdão a ser proferido no RE 827.996/PR, observando-se o disposto nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
