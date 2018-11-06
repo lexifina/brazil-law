@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEX HENRIQUE DOS SANTOS DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2204893-89.2018.8.26.0000).
+Depreende-se dos autos que o paciente foi denunciado como incurso nas sanções dos arts. 33, caput, e 35, ambos da Lei 11.343/06, e teve a prisão preventiva decretada pelo Juízo da Vara Criminal da Comarca de Tupã.
+A defesa impetrou habeas corpus perante a Corte local, discutindo a ausência de fundamentos concretos para a prisão preventiva e, também, afirmando que os autos estão com 279 páginas faltantes dentre as 391 páginas do processo.
+O habeas corpus originário teve a ordem denegada perante a 13ª Câmara de Direito Criminal do TJSP (e-STJ fls. 416/419).
+No presente mandamus (e-STJ fls. 3/22), a defesa insiste na tese apresentada no Tribunal a quo a respeito da possível ausência de páginas nos autos, requerendo a nulidade do feito por estar incompleto, o que impossibilita o pleno exercício da defesa, em violação à Súmula Vinculante nº 14, editada pelo Supremo Tribunal Federal.
+Aduz que as páginas faltantes, descritas às fls. 5 a 12 da inicial, não foram encartadas ou foram retiradas dos autos, gerando nulidade absoluta tanto da prisão quanto do próprio processo. Nas palavras do causídico, "Como o Juízo decreta a medida extrema do cárcere, sem nem mesmo os depoimentos, diligências de demais documentos, consta nos autos " (e-STJ fl. 14).
+Requer, liminarmente, a imediata expedição de alvará de soltura. No mérito, pleiteia a anulação de todos os atos processuais, desde o recebimento do flagrante do corréu.
+É o relatório. Passo a decidir.
+Em primeiro lugar, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recurso especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+No caso, o tribunal de origem manifestou-se sobre a possível ausência de páginas nos autos, no sentido de que:
+"Com efeito. De uma simples verificação, tanto na documentação acostada ao presente habeas corpus, bem como no Portal e-SAJ deste E. Tribunal de Justiça, constata-se que as peças tidas como faltantes, elencadas nas fls. 03 a 10 da inicial, encontram-se devidamente encartadas nos autos, não havendo se falar em violação à Súmula Vinculante 14, do STF, ou mesmo de cerceamento de defesa."
+Observa-se, portanto, que o Tribunal paulista apontou claramente - tanto pela documentação relativa ao habeas corpus lá impetrado quanto pelo portal e-SAJ daquele Tribunal - que as inúmeras peças estão acostadas nos autos. E, em que pese o esforço da combatida defesa, constato que rever tal entendimento para anular todo o processo nº 0000116-49.2018.8.26.0592 acarretaria o revolvimento do conjunto fático-probatório, o que é vedado na via eleita.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se.
