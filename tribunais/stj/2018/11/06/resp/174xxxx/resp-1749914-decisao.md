@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se recurso especial interposto por TELEFÔNICA BRASIL S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"TELEFONIA - Contrato de participação financeira vinculado ao serviço de telefonia modalidade PCT - Pretensão julgada procedente - Documentos trazidos aos autos suficientes para ensejar o correto julgamento da causa - Sentença que deverá ser objeto de liquidação - Ausência de prova, que devia ser produzida pela companhia telefônica, da entrega do número correto de ações, em atenção ao entendimento firmado com a Súmula nº 371, do STJ - Decurso do lapso prescricional não reconhecido com acerto - Verba honorária advocatícia que não comporta redução - Recursos não providos" (e-STJ fl. 162).
+Os embargos de declaração opostos pela recorrente foram rejeitados (e-STJ fl. 181/185).
+Em suas razões, além de divergência jurisprudencial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 458, II, e 535, I e II, do Código de Processo Civil de 1973: o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de enfrentar a seguinte questão: o contrato em apreço teria sido firmado sob o regime da Planta Comunitária de Telefonia (PCT) e não de participação financeira regular, não sendo examinadas as peculiaridades de tal contratação. Além disso, o aresto foi contraditório ao tratar o presente caso ora como plano de expansão (PEX) ora como planta comunitária (PCT). Também foi omisso quanto ao critério de conversão de eventual diferença acionária em indenização;
+(ii) artigos 7º, 8º, e 170 da Lei nº 6.404/1976: nos contratos de PCT, a integralização ocorria na data da incorporação da rede ao capital social da empresa de telefonia na forma de dação em pagamento. Após aprovação do laudo de avaliação em assembleia, dividindo-se o valor obtido pelos integrantes da comunidade que financiaram a construção da rede junto ao empreendedor privado, chegava-se ao valor da integralização de cada membro, que, posteriormente, era dividido pelo valor patrimonial da ação conforme o balanço aprovado na mesma assembleia. Nesta modalidade, a relação contratual para a construção da rede era estabelecida entre a comunidade interessada e um empreendedor local, por ela escolhido.
+Após a apresentação das contrarrazões (e-STJ fls. 290/299), o recurso foi inadmitido na origem, sendo o agravo convertido em recurso especial (e-STJ fl. 458).
+ É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+A pretensão merece acolhimento no tocante à alegada negativa de prestação jurisdicional (artigo 535 do CPC/1973).
+Do exame dos autos, verifica-se que, não obstante a oposição de embargos declaratórios, permaneceu silente a Corte local quanto ao requerimento de manifestação expressa acerca da legitimidade do critério de apuração de ações sob o regime PCT, nos termos dos arts. 7º, 8º e 170 da Lei nº 6.404/1976.
+O não enfrentamento pela instância ordinária da matéria ventilada nos embargos de declaração e imprescindível à solução do litígio implica violação ao artigo 535 do Código de Processo Civil de 1973, tanto que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de embargos, trate de tema não analisado pela instância local, porquanto ausente o requisito do prequestionamento.
+A propósito, a título de exemplo, o seguinte precedente:
+"PROCESSUAL CIVIL. AFRONTA AO ART. 535 DO CPC/73. OMISSÃO DE PONTO RELEVANTE. NULIDADE DO ACÓRDÃO RECORRIDO.
+1. Há ofensa ao art. 535, II, do CPC/73 quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor sobre questão desenvolvida nos autos e relevante para o deslinde da controvérsia.
+2. Agravo interno provido para se conhecer do agravo e dar parcial provimento ao recurso especial" (AgInt no AREsp 304.254/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/08/2016, DJe 20/09/2016).
+Solução nesse sentido prejudica as demais questões suscitadas no recurso especial.
+Ante o exposto, dou provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 168/178 (e-STJ).
+Publique-se.
+Intimem-se.
