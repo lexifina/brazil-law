@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VERA GONÇALVES VIANA contra decisão monocrática de lavra deste signatário (fls. 430-434, e-STJ), a qual negou provimento ao recurso especial interposto pela ora embargante, com amparo na Súmula 83/STJ.
+Em suas razões de fls. 430/434 (e-STJ), a embargante alega que a decisão embargada é omissa quanto à existência de sinistros ocorridos no período de vigência do contrato de seguro.
+Explana que a apólice em comento continua em vigor, ante a existência de provimento liminar decretado pelo TJSP no bojo da ação coletiva nº 583.00.2005.115325-5, manejada pela Associação dos Funcionários Aposentados e Pensionistas do Banco Nossa Caixa - AFACEESP.
+Logo, seria incorreto falar em cancelamento do contrato de seguro, bem como em improcedência do pedido de pagamento de indenização.
+Impugnação às fls. 445-456 (e-STJ).
+É o relatório.
+A irresignação não merece prosperar.
+1. Da leitura do acórdão recorrido, constata-se que a Corte local expressamente afastou a possibilidade de utilização, por parte da ora embargante, da decisão liminar proferida nos autos da ação coletiva nº 583.00.2005.115325-5, manejada pela Associação dos Funcionários Aposentados e Pensionistas do Banco Nossa Caixa - AFACEESP. Veja-se (fls. 313-314, e-STJ):
+Com o devido respeito àquilo que disse o magistrado em sentença, a ação civil pública movida pela AFACEESP contra a COSESP ainda não teve sua procedência confirmada por este Tribunal. De acordo com as informações constantes dos autos, o processo se encontra em grau de recurso, e a apelação foi recebida tanto no efeito devolutivo quanto suspensivo.
+Demais disso, inexiste qualquer relação de prejudicialidade. O fato de a autora haver ajuizado a presente ação ciente da existência de demanda coletiva anterior na qual se buscava discutir a validade da não renovação da apólice a que aderiu implica, em termos concretos, renúncia tácita à pretensão de se beneficiar de eventual decisão favorável proferida nos autos da ação coletiva.
+Esta conclusão decorre de disposição contida no art. 104 do Código de Defesa do Consumidor, segundo o qual: "As ações coletivas, previstas nos incisos I e II e do parágrafo único do art. 81, não induzem litispendência para as ações individuais, mas os efeitos da coisa julgada erga omnes ou ultra partes a que aludem os incisos II e III do artigo anterior não beneficiarão os autores das ações individuais, se não for requerida sua suspensão no prazo de trinta dias, a contar da ciência nos autos do ajuizamento da ação coletiva."
+Ainda que a hipótese legal tenha contemplado situação em que a ação individual precede a coletiva, estabelecendo que a ausência de pedido de suspensão da primeira pressupõe a vontade do autor de prosseguir no feito a despeito dó desfecho da segunda, no caso, a intelecção deve ser a mesma. No momento de propositura da presente demanda, a autora já sabia da existência de ação coletiva anterior, tanto é que a ela faz referência expressa em sua inicial (fl. 3). Neste sentido, não tendo requerido a suspensão do feito (eventualmente a fim de evitar a consumação da prescrição), entende-se que preferiu abrir mão do direito que tinha na qualidade de associada de executar ou liquidar o pedido formulado em sede de tutela coletiva (arts. 96 a 99 do CDC), optando pela via ordinária do processo civil individualista.
+Assim, irrelevante, para o caso, o desfecho da ação civil pública.
+Em sede de recurso especial, contudo, tal fundamento não foi refutado. Na oportunidade, limitou-se a insurgente a arguir a impossibilidade de não renovação do contrato de seguro firmado por longo período, com lastro nos artigos 535 do CPC e 421, 422, 774 e 801, § 2º, do Código Civil de 2002.
+Ressalte-se, por oportuno, que a simples menção à existência de liminares que garantiriam a vigência da apólice, formulada unicamente à fl. 348, e-STJ, não permite a submissão do tema ao conhecimento do STJ. Na espécie, relevante a menção ao trecho em testilha:
+15. Ocorre que, como a apólice 745 está em vigor por força de liminares, deveria a Recorrida ter efetuado o pagamento das indenizações, o que não fez e ensejou o ajuizamento da presente ação.
+Cuida-se, com efeito, de alegação genérica, que sequer indica o processo em que tais supostas decisões teriam sido deferidas, tampouco de que maneira estas influenciariam no presente feito. Ademais, não houve menção a dispositivo infraconstitucional supostamente violado a partir do acolhimento, por parte do Tribunal de origem, da tese supracitada.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que esta Corte, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso, de acordo com a impugnação formulada no recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO A DELIBERAÇÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO.
+INSURGÊNCIA DO EXEQUENTE.
+1. Violação ao artigo 535 do CPC/73, atual 1.022 do NCPC, não configurada. Acórdão desta Corte Superior que analisou detidamente todos os pontos necessários ao deslinde da controvérsia. Recurso dotado de caráter meramente infringente.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+Nesse sentido, não merecem provimento os embargos declaratórios.
+2. Do exposto, rejeito os embargos de declaração de fls. 440/441, e-STJ.
+Publique-se.
+Intimem-se.
