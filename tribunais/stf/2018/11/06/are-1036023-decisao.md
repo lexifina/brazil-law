@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça do Estado do Rio Grande do Sul para que se cumprisse o disposto no art. 1.036 do Código de Processo Civil, uma vez que a controvérsia suscitada no recurso extraordinário estaria representada na sistemática da repercussão geral, pelos temas 339, 555 e 660, cujos paradigmas são, respectivamente, ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013; ARE-RG 664.335, Rel. Min. Luiz Fux, DJe 12.2.2015; e AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. (eDOC 19, p. 1)
+    Encaminhados os autos ao Tribunal de origem, este devolveu o processo ao STF, considerando restar no recurso tema não abarcado pelo paradigma indicado. (eDOC 22, p. 8)
+    Após detida análise dos autos, verifico que efetivamente não se contém toda a matéria do recurso extraordinário no citado paradigma.
+    Entretanto, observo que quanto ao assunto remanescente, o Tribunal de origem ao examinar a legislação local aplicável à espécie (Lei Complementar Estadual 10.098/94) e o conjunto probatório constante dos autos, consignou que a parte recorrente não faz jus ao adicional de insalubridade. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Da análise da documentação anexada nos autos, verifico que foi fornecido à parte autora Equipamentos de Proteção Individual, de moldes que estaria eliminada as condições ou os riscos que deram causa à concessão do adicional de insalubridade, nos termos do § 2º do artigo 107 da LC 10.098/94.
+    Tal fato foi admitido pela autora quando de seu depoimento pessoal, fls. 154/155, ao afirmar que recebe luvas de proteção de um a dois pares por semana.
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. LEGISLAÇÃO INFRACONSTITUCIONAL ESTADUAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 827.819, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 2.10.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE INSALUBRIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF.” (ARE-AgR 17.9.2014, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 6 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
