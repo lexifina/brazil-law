@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de [NOME], apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o paciente foi condenado por incursão ao art. 155, § 4º, I, do Código Penal, às penas de 3 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 17 dias-multa.
+Interposta apelação defensiva, foi parcialmente provida para readequar a pena para 2 anos, 2 meses e 20 dias de reclusão, a ser cumprida em regime semiaberto, além do pagamento de 10 dias-multa.
+Neste writ, requer a impetrante a exclusão da valoração negativa das vetoriais da personalidade e da conduta social, pois o histórico criminal do acusado não pode ser desmembrado para valorar negativamente outras circunstâncias judiciais que não os maus antecedentes, sob pena de indevido bis in idem (fl. 7).
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+DECIDO.
+Sobre a pleiteada exclusão do desvalor conferido às vetoriais da conduta social e da personalidade, a Corte a quo teceu as seguintes considerações (fl. 64):
+Diante disso, substituo a anotação utilizada pelo juízo a quo para fundamentar a avaliação desfavorável dos antecedentes (certidão de fl. 141, autos n.º 70371-8/2016) pelas condenações constantes das certidões de fls. 128, 130, 134, 135 e 139 para a mesma finalidade, vez que não irá alterar a situação do apelante. No mais, mantenho a valoração negativa da personalidade e da conduta social em razão das condenações anotadas às fls. 133 e 131, respectivamente.
+Esclareço que, quanto à personalidade e à conduta social do apelante, compartilho do entendimento de que também é possível a avaliação desfavorável em virtude de condenações transitadas em julgado em data anterior ao fato em análise, desde que utilizadas anotações distintas, o que se verifica no caso, tendo em vista a significativa quantidade de condenações que não estão aptas a configurar reincidência.
+Com efeito, nos termos do entendimento majoritário desta Corte, diante da presença de várias condenações com trânsito em julgado, por fatos anteriores, pode o juiz valorar uma delas como reincidência e cada uma das demais como maus antecedentes, personalidade e conduta social sem incorrer em bis in idem. O que não se admite é a consideração de uma mesma condenação para a valoração negativa de mais de uma circunstância judicial ou de uma circunstância judicial e da reincidência. A propósito, os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. DIVERSAS CONDENAÇÕES COM TRÂNSITO EM JULGADO. ANTECEDENTES, CONDUTA SOCIAL E PERSONALIDADE. BIS IN IDEM. NÃO OCORRÊNCIA. LAUDO PSICOSSOCIAL. DESNECESSIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme entende a maioria da Sexta Turma, "a existência de condenações anteriores transitadas em julgado pode justificar validamente a elevação da pena-base, tanto como maus antecedentes, bem como conduta social e personalidade, desde que diferentes as condenações consideradas, sob pena de bis in idem. O que não se admite é a consideração de uma mesma condenação para a valoração negativa de mais de uma circunstância judicial ou de uma circunstância judicial e da reincidência" (HC n. 348.451/RJ, de minha relatoria, Relator para acórdão Ministro Nefi Cordeiro, 6ª T, de DJe 3/5/2016).
+2. O Juiz de primeiro grau - corroborado pela corte local - nada mais fez que atribuir valoração negativa aos antecedentes e, ainda, sopesar desfavoravelmente a personalidade, dada a quantidade de condenações com trânsito em julgado, suficientes para alicerçar cada uma das vetoriais, além da agravante.
+3. Não há empecilho para a elevação da pena-base pela personalidade, em virtude da existência de diversas condenações definitivas, não se fazendo necessária a produção de laudo psicossocial para esse fim.
+4. Agravo regimental não provido.
+(AgRg no AREsp 247.820/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016)
+CONSTITUCIONAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. FURTO QUALIFICADO. VALOR EXPRESSIVO DO BEM SUBTRAÍDO. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DESCLASSIFICAÇÃO PARA MODALIDADE TENTADA. PRESCINDIBILIDADE DA POSSE MANSA E PACÍFICA. MULTIREINCIDÊNCIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE. BIS IN IDEM NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+(..)
+5. Não se infere manifesta desproporcionalidade na pena imposta, visto que a jurisprudência desta Corte admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e, ainda, da personalidade do agente, ficando apenas vedado o bis in idem. Assim, considerando a multireincidência do réu, não se vislumbra ilegalidade na dosimetria da pena. Precedentes.
+6. Habeas corpus não conhecido (HC 306.051/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/04/2016, DJe 15/04/2016)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
