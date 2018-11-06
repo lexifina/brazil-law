@@ -1,0 +1,59 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. REPRIMENDA AINDA EM CUMPRIMENTO. SOLTURA. DESCABIMENTO. FALTA GRAVE. POSSE DE APARELHO CELULAR NO ESTABELECIMENTO PRISIONAL. REGRESSÃO DE REGIME. PERDA DE 1/6 (UM SEXTO) DOS DIAS REMIDOS. ILEGALIDADE. INEXISTÊNCIA. RECURSO ORDINÁRIO DESPROVIDO.
+1. Conforme se infere do acórdão impugnado, a Recorrente cumpre pena total de 14 (catorze) anos de reclusão, tendo ingressado no sistema prisional em 6/9/2011, com previsão de término do cumprimento em 24/10/2024. Portanto, não procede a alegação de que permaneceria presa apesar de já ter cumprido a sua reprimenda.
+2. A perda de 1/6 (um sexto) dos dias remidos, bem assim a regressão ao regime fechado, foi determinada pelo Juízo da Execução, em decisão fundamentada após procedimento administrativo, em razão da prática de falta grave (posse de telefone celular no estabelecimento prisional), inexistindo ilegalidade a ser sanada.
+3. Recurso ordinário desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de recurso ordinário interposto por IEDA MARIA RAMOS VIEIRA contra o acórdão proferido pelo Tribunal de Justiça do Estado do Pará no Habeas Corpus n.º 0803473-67.2018.8.14.0000, assim ementado (fls. 51-52):
+"HABEAS CORPUS LIBERATÓRIO COM PEDIDO DE LIMINAR - TRÁFICO DE DROGAS - ALEGAÇÃO DE EXCESSO DE PRAZO NO CUMPRIMENTO DA PENA IMPOSTA PELO JUÍZO SENTENCIANTE - INOCORRÊNCIA - LAPSO TEMPORAL DA CONDENAÇÃO AINDA EM CURSO - INEXISTÊNCIA DE EXCESSO DE PRAZO NO CUMPRIMENTO DE REGIME PRISIONAL - COMETIMENTO DE FALTA GRAVE PELA PACIENTE - EVENTUAL DELONGA IMPINGIDO EM RAZÃO DE ATO DA PACIENTE - RAZOABILIDADE - ORDEM CONHECIDA E DENEGADA - UNANIMIDADE.
+1. Alegação de excesso de prazo no cumprimento da reprimenda corporal imposta pelo Juízo sentenciante.
+2. Análise da alegação do impetrante sob dois aspectos, tendo em vista a formulação de suas alegações no bojo da inicial, uma relativa ao excesso de prazo no cumprimento da pena final e definitiva, dado seu término e outra relativa ao excesso de prazo no cumprimento de regime prisional.
+3. Com relação ao excesso de prazo no cumprimento da pena imposta no decreto condenatório, esta, de plano, não merece qualquer guarida.
+Da análise da sentença condenatória prolatada pelo Juízo de Direito da Vara Única da Comarca de Baião/PA em 30/03/2012, vê-se que o magistrado sentenciante impôs à paciente a reprimenda corporal, final e definitiva de 14 (quatorze) anos de reclusão e ao pagamento de 1.400 (mil e quatrocentos) dias-multa, em razão do concurso material das condenações dos arts. 33 (08 anos de reclusão) e 35 (06 anos de reclusão) da Lei de Drogas, a ser cumprida inicialmente em regime fechado.
+Diante do quantum imposto (14 anos de reclusão) e, ainda, da data de entrada na custódia na SUSIPE (06/09/2011), consoante Certidão Carcerária acostada aos autos (Id. 589768), sem maiores esforços matemáticos, vê-se que não se colimou o termo final de cumprimento da pena total (previsão de alcance em 24/10/2024 conforme atestado de pena Id. 609247), em que pese os dias remidos (333 dias no total - somados das informações constantes na Certidão Carcerária), dos quais foram subtraídos 1/6 em razão do cometimento de falta grave (decisão do Juízo a quo Id. 609247).
+Como se vê, ainda se encontra em curso o lapso temporal condenatório da paciente, pelo que não há que se falar em excesso no cumprimento da pena definitiva da mesma.
+4. No que tange a alegação de excesso de prazo no cumprimento de regime prisional, também não merece guarida.
+Verifica-se que, após o cometimento da falta grave pela paciente, foi determinada a regressão de regime da paciente para o fechado.
+Segundo apurado na decisão prolatada em audiência de justificação, a paciente estava envolvida na distribuição de aparelhos celulares que foram arremessados para o interior do Centro de Recuperação Feminino (CRF), desobedecendo às regras da execução penal.
+Em decorrência disto, o Juízo reconheceu a existência de falta grave nos termos circunscritos no art. 50,1 e VII da LEP, determinando, em 31/10/2017, a regressão para o regime fechado e a situação da paciente como de mau comportamento por 06 (seis) meses.
+Tal decisão fora objeto de agravo em execução nesta Corte nº 0000021-82.2018.814.0000, sob minha relatoria, o qual fora improvido. Desta decisão, foram opostos embargos de declaração com efeitos modificativos, os quais mantiveram a falta grave cometida pela paciente, contudo, alterou-se o regime de cumprimento de pena para o semiaberto.
+A aludida decisão em sede de embargos fora dada em decorrência da paciente já fazer jus ao regime aberto no ato da decisão do Juízo que a regrediu ao regime fechado, sendo que, por isso, em virtude da mantença da falta grave cometida, a manteve no semiaberto.
+Assim, noutros termos, em que pese a paciente fizesse jus ao regime aberto, a prática da falta grave delimitada no art. 50, I e VII, da LEP a obstou de seguir para o regime mais benéfico, permanecendo a mesma no semiaberto, dado o rigor dos termos do art. 118, I, da LEP.
+Portanto, não há que se falar em excesso de prazo no cumprimento do regime prisional, tendo em vista que justificadas estão as circunstâncias que levaram ao alongamento da execução, dentro dos parâmetros legais e de razoabilidade, sobretudo, em decorrência de que o mesmo se deu em razão de próprio ato (falta grave) da paciente.
+5. Portanto, como se pode constar, não há qualquer excesso que enseje ilegalidade a ser sanado no presente writ.
+ORDEM CONHECIDA E DENEGADA. UNANIMIDADE DOS VOTOS".
+Alega a Defesa que a Recorrente estaria "presa sem ter pena nenhuma a cumprir" (fl. 65), bem assim "não haver embasamento legal para a manutenção de sua segregação cautelar" (ibidem). Do que se pode compreender das razões recursais, argumenta que a pena teria sido cumprida em 20/2/2017, mas que teria, por ilegal decisão do Juízo da execução, perdido 1/6 (um sexto) dos dias remidos e ainda sido regredida ao regime fechado.
+Requer, liminarmente e no mérito, "a imediata LIBERDADE PROVISÓRIA do paciente, mediante imposição de MEDIDAS CAUTELARES DIVERSAS DA PRISÃO, com a imediata expedição de ALVARÁ DE SOLTURA em favor do paciente, aguardando em liberdade para que possa responder ulteriores termos do processo-crime" (fl. 70).
+Contrarrazões às fls. 73-78.
+Indeferida a liminar (fls. 94-109), foram prestadas as informações (fls. 111-130).
+O Ministério Público Federal opina pelo desprovimento do recurso ordinário, por meio de parecer que tem a seguinte ementa (fl. 133):
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. COMETIMENTO DE FALTA GRAVE. ALTERAÇÃO DE REGIME. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ILEGALIDADE NA DECISÃO.
+1. O cometimento de falta grave pelo apenado importa a fixação de regime mais rigoroso, conforme preceituam o art. 118, I c/c art. 50, I e VII, ambos da Lei de Execuções Penais, inexistindo ilegalidade na decisão que assim dispõe.
+Precedente.
+2. Parecer pelo desprovimento do recurso ordinário."
+É o relatório.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. REPRIMENDA AINDA EM CUMPRIMENTO. SOLTURA. DESCABIMENTO. FALTA GRAVE. POSSE DE APARELHO CELULAR NO ESTABELECIMENTO PRISIONAL. REGRESSÃO DE REGIME. PERDA DE 1/6 (UM SEXTO) DOS DIAS REMIDOS. ILEGALIDADE. INEXISTÊNCIA. RECURSO ORDINÁRIO DESPROVIDO.
+1. Conforme se infere do acórdão impugnado, a Recorrente cumpre pena total de 14 (catorze) anos de reclusão, tendo ingressado no sistema prisional em 6/9/2011, com previsão de término do cumprimento em 24/10/2024. Portanto, não procede a alegação de que permaneceria presa apesar de já ter cumprido a sua reprimenda.
+2. A perda de 1/6 (um sexto) dos dias remidos, bem assim a regressão ao regime fechado, foi determinada pelo Juízo da Execução, em decisão fundamentada após procedimento administrativo, em razão da prática de falta grave (posse de telefone celular no estabelecimento prisional), inexistindo ilegalidade a ser sanada.
+3. Recurso ordinário desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, conforme se infere do acórdão impugnado, a Recorrente cumpre pena total de 14 (catorze) anos de reclusão, tendo ingressado no sistema prisional em 6/9/2011, com previsão de término do cumprimento em 24/10/2024. Portanto, não procede a alegação de que permaneceria presa apesar de já ter cumprido a sua reprimenda.
+Outrossim, a perda de 1/6 (um sexto) dos dias remidos, bem assim a regressão ao regime fechado, foi determinada pelo Juízo da Execução, em decisão fundamentada após procedimento administrativo, em razão da prática de falta grave (posse de telefone celular no estabelecimento prisional), inexistindo ilegalidade a ser sanada.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. POSSE DE APARELHO CELULAR DENTRO DA CASA PRISIONAL. FALTA DISCIPLINAR GRAVE. AFASTAMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE PROGRESSÃO DE REGIME. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Tendo em vista o teor da fundamentação apresentada pelas instâncias ordinárias, o afastamento da falta grave praticada pelo ora paciente (art. 50, VII, da Lei n. 7.210/84 Lei de Execução Penal - LEP) demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Ademais, registre-se que esta Corte Superior de Justiça tem entendimento consolidado no sentido de que após a Lei n. 11.466/2007, a posse de aparelho celular constitui falta de natureza grave.
+3. O cometimento de falta grave pelo apenado (a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; (b) autoriza a regressão de regime e (c) a revogação de até 1/3 dos dias remidos (art. 127 da LEP).
+4. Inexiste flagrante ilegalidade no acórdão impugnado que determinou a alteração da data-base, em razão da prática de falta grave, apenas para fins de progressão de regime.
+Habeas corpus não conhecido." (HC 449649/RS, Rel. Ministro JOEL ILAN PARCIORNIK, QUINTA TURMA, julgado em 20/09/2018, DJe de 02/10/2018.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. HOMOLOGAÇÃO FUNDAMENTADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. INCABÍVEL REEXAME. ANÁLISE APROFUNDADA DO CONJUNTO FÁTICO-PROBATÓRIO. VIA INADEQUADA. FALTA GRAVE. CARACTERIZAÇÃO. POSSIBILIDADE DE REGRESSÃO DE REGIME, PERDA DOS DIAS REMIDOS E INTERRUPÇÃO DO LAPSO TEMPORAL, EXCETO PARA LIVRAMENTO CONDICIONAL, COMUTAÇÃO E INDULTO. PRESCRIÇÃO. PRAZO. APLICAÇÃO ANALÓGICA DO ART. 109, INCISO VI, DO CÓDIGO PENAL. PRECEDENTES. PERDA DE 1/6 DOS DIAS REMIDOS. EFETIVA FUNDAMENTAÇÃO. ORDEM DENEGADA. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+2. Agravo regimental desprovido." (AgRg no HC 441.278/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/06/2018, DJe de 02/08/2018.)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário.
+É o voto.
