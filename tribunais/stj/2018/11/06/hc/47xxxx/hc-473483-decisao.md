@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] VITOR, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que concedeu parcialmente a ordem, para substituir a prisão preventiva do paciente por medidas cautelares, dentre elas fiança em 20 salários mínimos, por acórdão que tem a seguinte ementa (fl. 131):
+HABEAS CORPUS - FURTO QUALIFICADO - PRISÃO PREVENTIVA - SUBSTITUIÇÃO POR OUTRAS MEDIDAS CAUTELARES - POSSIBILIDADE - ORDEM PARCIALMENTE CONCEDIDA. 1. Observando os princípios da necessidade e da proporcionalidade, Importante salientar que sendo a prisão antes da prolação da sentença condenatória uma medida cautelar, não se deve deixar de vislumbrar o resultado final do processo, sob pena de submeter ao acusado medida multo mais gravosa que o próprio provimento final. 2. O descumprimento das medidas cautelares implicará em prisão preventiva, conforme disposto no artigo 312, parágrafo único, do CPP.
+Consta dos autos que o paciente foi preso preventivamente pela prática do crime tipificado no art. 155, § 4º, IV, do Código Penal.
+No presente writ, o impetrante sustenta que o paciente encontra-se segregado há 62 dias unicamente em razão do não pagamento da fiança, e que não possui condições financeiras de adimplir com o valor, visto que é pessoa pobre, argumentando que, foi concedida liminar em favor do corréu, pugnando pela aplicação do princípio da isonomia.
+Salienta que o paciente não praticou o crime imputado, visto que os bens apreendidos são de sua propriedade. Aduz que não estão presentes os requisitos ensejadores da prisão preventiva e que o paciente ostenta condições pessoais favoráveis.
+Requer a concessão da ordem para que seja revogada a prisão preventiva.
+Deferida a liminar e, prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+Na origem, o processo n. 0015995-09.2018.8.13.0447 encontra-se em fase de apresentação de alegações finais, conforme consulta ao sítio eletrônico do Tribunal de origem em 29/10/2018.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Posto isso, o acórdão do Tribunal de origem que concedeu liberdade provisória ao paciente e fixou a fiança, assim dispôs (fls. 134/137 - com destaques):
+ .. .Dito isso, examino que a prisão cautelar é medida extrema em nosso ordenamento jurídico, sendo para a sua manutenção exigida fundada motivação dentre as hipóteses elencadas na lei processual penal.
+Com efeito, não querendo adentrar no mérito da questão, verifico que o caso em apreço merece melhor análise em razão do constrangimento reclamado pelo paciente, pelo menos em tese, ou mesmo da substituição da prisão preventiva por cautelares, e que pode ser tratado neste Habeas Corpus.
+Com o advento da Lei 12.403/11, a liberdade é a regra e a prisão se dará em último caso, devendo ser oportunizado ao acusado, em princípio, responder ao processo em liberdade ou, caso seja necessário, substituir a prisão por outras medidas cautelares.
+Ora, a Certidão de Antecedentes Criminais do paciente juntada aos autos às fls.167v/168-TJ demonstram que ele é primário, inexistindo, ademais, dados concretos a ponto de justificar a imposição da segregação provisória.
+Ademais, vale salientar que, em caso de eventual condenação, é muito provável que será fixado regime menos gravoso do que o autuado encontra-se atualmente recolhido.
+Não se olvida a gravidade dos fatos imputados ao paciente, contudo, entendo ser temerária a manutenção da medida extrema de prisão neste momento, restando comprovado o alegado constrangimento ilegal.
+A rigor, nenhuma censura às decisões impugnadas por meio do presente Habeas Corpus, uma vez que possui fundamento e amparo legal. Contudo, no caso em apreço, tenho que a custódia provisória poderia ceder espaço àquelas medidas cautelares previstas no art. 319 e que são diversas da prisão, ficando o paciente ciente, desde já, que o descumprimento das medidas cautelares impostas, implicará em prisão preventiva, conforme disposto no artigo 312, paráarafo único, do CPP.
+Feitas tais considerações, CONCEDO PARCIALMENTE A ORDEM, para substituir a prisão preventiva de [NOME] [NOME] VÍTOR, pelas seguintes medidas cautelares previstas:
+a) Fiança no valor de 20 (vinte) salários mínimos, com fulcro no artigo 325, II, do CPP;
+b) Fornecer ao juízo o endereço em que fixará residência e mantê-lo atualizado para que seja, posteriormente, intimado acerca dos futuros atos processuais;
+c) Comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades;
+d) Proibição de ausentar-se da Comarca sem autorização judicial;
+Frisa-se que o valor arbitrado a título de fiança está dentro dos limites previstos no artigo 325, inciso II, do CPP, que estipula de 10 (dez) a 200 (duzentos) salários mínimos, quando o máximo da pena privativa de liberdade cominada for superior a 4 (quatro) anos, como no caso em apreço.
+Expeca-se alvará de soltura em favor de [NOME] VÍTOR, colocando-o em liberdade se por outro motivo não estiver preso, e que somente deverá ser cumprido após ciência nos autos das medidas cautelares impostas, evitando-se assim, qualquer insinuação de que o paciente não tenha conhecimento das imposições. Na mesma linha, deverá comprovar nos autos o pagamento da fiança.
+Comunique-se. imediatamente, o Juizo a quo acerca do teor do presente acórdão. .. .
+Como já adiantado no exame da liminar, o Tribunal de origem determinou o valor da fiança no importe de 20 salários mínimos, sem analisar a situação econômica do acusado que, até o momento, não pagou a garantia judicial.
+O tempo de prisão concretamente cumprido, desde o dia 31/7/2018, evidencia a hipossuficiência do réu, sendo pacífica a jurisprudência desta Corte no sentido de que o inadimplemento da fiança arbitrada não pode, por si só, legitimar a custódia do paciente, devendo ser observada a disciplina estatuída no art. 350 do CPP. A propósito do tema, confiram-se os seguintes precedentes: HC 113.276/PI, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, Dje 21/02/2011; HC 44000/RS, Relator Ministro HÉLIO QUAGLIA BARBOSA, Sexta Turma, DJe 05/02/2005; HC 383053/RS, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 02/03/2017; RHC 76689/DF, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, Dje 07/12/2016.
+Ante o exposto, concedo o habeas corpus para a soltura do paciente, [NOME] [NOME] VITOR, isentando-o do pagamento da fiança, com fundamento no art. 350 do CPP, sem prejuízo das demais medidas cautelares já fixadas.
+Comunique-se.
+Publique-se.
+Intimem-se.
