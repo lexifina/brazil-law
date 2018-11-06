@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de LUÍS GUILHERME DOS REIS, contra acórdão que denegou o writ na origem.
+O paciente foi preso em flagrante no dia 8 de julho de 2017 pelo cometimento, em tese, do crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006), tendo a magistrada convertido a prisão em flagrante em preventiva.
+Inconformada, a defesa interpôs habeas corpus com pedido liminar, sustentando a ilegalidade no ato de o Tribunal de Justiça ter mantido a decisão singular de manutenção da prisão preventiva.
+O impetrante sustenta que não há motivos para manutenção da prisão do paciente, devendo ser concedida a liberdade provisória mediante a aplicação das medidas cautelares diversas da prisão, conforme preconiza o art. 319 do CPP.
+Aduz ainda que não houve motivação justificada para a manutenção do decreto prisional.
+Indeferido o pedido liminar (e-STJ, fl. 147), o Subprocurador-Geral da República opinou pelo não conhecimento do writ (e-STJ, fls. 190-193).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Em que pesem os esforços do impetrante, verifica-se que o pleito de afastamento da decisão que determinou a manutenção da prisão preventiva, não merece prosperar, especialmente pelo fato de o Tribunal de Justiça ter concluído, às fls. 13-20 (e-STJ), que o periculum libertatis, evidencia-se diante da forma de execução empregada na conduta delituosa, sendo claramente demonstradas:
+" ..  Da mesma forma, o periculum libertatis (perigo da permanência do sujeito em liberdade) evidencia-se diante do modo de execução empregado na empreitada delituosa, pois o paciente foi preso em flagrante juntamente como outros sete agentes, guardando aproximadamente 3.700 kg de maconha, ou seja, mais de três toneladas da droga em comento, dentro de um caminhão, escondido entre grãos, sendo que havia entre os réus uma clara divisão de tarefas para a perpetração do delito, eis que alguns agentes possuíam a função de vigiar o portão e outros de acondicionar a droga no veículo  .. ."
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+A propósito, confiram-se os seguintes julgados:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. COMPLEXIDADE DO PROCESSO. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRANDE QUANTIDADE DE DROGAS. HABEAS CORPUS NÃO CONHECIDO. (..)
+V - In casu, a r. decisão do MM. Juízo de origem que determinou a segregação cautelar do paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente se considerada a quantidade de entorpecentes apreendidos em seu poder (2.739 tijolos de maconha pesando mais de 2 toneladas), circunstância indicativa de um maior desvalor da conduta perpetrada. Habeas corpus não conhecido" (STJ, HC 394.645/SP, rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/08/2017, DJe 16/08/2017).
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. Havendo fundamentação concreta para a manutenção da prisão preventiva a evidenciar a necessidade da rigorosa providência, não há falar em substituição da custódia cautelar por medidas alternativas previstas no art. 319 do Código de Processo penal.
+2. No caso, a prisão cautelar está assentada na necessidade de garantir a ordem pública, tendo a instância ordinária destacado, além da quantidade de droga apreendida, aproximadamente 2 toneladas de maconha (2.102,5 kg), as circunstâncias da prisão em flagrante. Tudo a revelar a periculosidade in concreto do agente.
+3. Recurso em habeas corpus improvido (RHC 96.741/MS, rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/8/2018, Dje 13/8/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
