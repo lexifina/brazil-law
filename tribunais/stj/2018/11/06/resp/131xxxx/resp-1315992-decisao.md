@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO. LIQUIDAÇÃO DE SENTENÇA. INCIDENTE PROCESSUAL. QUE NÃO SE CONFUNDE COM A SUCUMBÊNCIA DETERMINADA EM FASE DE CONHECIMENTO. RECURSO AO QUAL SE NEGOU SEGUIMENTO COM AMPARO NO ART. 557, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO. IMPROVIMENTO.
+- Não se confunde o ônus estabelecido na decisão agravada com aquele determinado na sentença, porquanto não há relação com a sucumbencia reciproca, mas com a natureza do próprio incidente, onde restou apurado o quantum debeatur.
+Conquanto a nova sistemática trazida pela Lei nº11.232/05 tenha alterado a natureza da execução de sentença que passou a ser mera fase complementar do processo de cognição, deixando de ser tratada como processo autônomo, não trouxe ela nenhuma modificação no que tange aos honorários advocaticios, que são devidos no caso de não cumprimento da sentença, proclama o colendo STJ;
+- Recurso ao qual se negou seguimento com amparo no art. 557, do Código de Processo Civil, decisão que se confirma." (e-STJ,fl.85)
+Em suas razões recursais, a recorrente aponta violação do art. 467, do CPC/73, sustentando, em síntese, que a fase de liquidação não é um incidente processual, de modo que a condenação do recorrente ao pagamento de honorários e custas relativas à liquidação ofende a sucumbência recíproca decretada nos autos e já transitada em julgado.
+Apresentadas contrarrazões às fls. 108/114 (e-STJ)
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+A Corte de origem, ao manter a condenação do recorrente ao pagamento de custas e honorários sobre o incidente, assim dispôs:
+"Dessa forma, não se confunde o ônus estabelecido na decisão agravada com aquele determinado na sentença, porquanto não há relação com a sucumbência recíproca, mas sim com a natureza do próprio incidente, onde restou apurado o quantum debeatur.
+Trata-se de disciplinar ônus inerente ao incidente da liquidação, distinto do ônus de sucumbência estabelecido na fase cognitiva da ação, inexistindo, por isso, violação à coisa julgada." (e-STJ fl.86)
+Como se vê, de fato, não há que se falar em ofensa à coisa julgada, uma vez que a Corte de origem considerou tratar-se de nova condenação, sem relação com a fixada na fase de conhecimento. O que cabe discutir, portanto, é a possibilidade de fixação de honorários relativos à fase de liquidação do julgado.
+Neste ponto, além de o recorrente não ter indicado dispositivo violado, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal, tem-se que o entendimento da Corte de origem sobre o tema encontra-se de acordo com a jurisprudência desta Corte Superior. A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. APLICAÇÃO DA SÚMULA 83/STJ.
+1. A jurisprudência desta Corte orienta que é cabível a condenação em honorários na liquidação de sentença que assume caráter contencioso.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 896.730/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 04/06/2018)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) HONORÁRIOS ADVOCATÍCIOS EM LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO CREDOR.
+1. Violação ao artigo 535 do CPC/73 não configurada. Inocorrente a alegada omissão no acórdão recorrido acerca dos honorários periciais devidos na fase de cumprimento de sentença, tampouco contradição referente aos honorários advocatícios pleiteados também nessa fase.
+Tribunal a quo que expressamente se manifestou sobre o tema.
+2. Admite-se a fixação de honorários na fase de cumprimento de sentença, em particular, na liquidação de sentença por arbitramento, se esta assumir nítido caráter contencioso, o que não é a hipótese dos autos.
+2.1 Tribunal local que, com amparo nos elementos de convicção dos autos, afirmou a ausência de caráter litigioso, face a inocorrência de qualquer manifestação que extrapolasse o considerado normal e adequado para o rito de liquidação e para a correta apuração do valor devido, haja vista se tratar de matéria altamente complexa.
+2.2 Para o acolhimento do apelo extremo, no sentido da necessidade de arbitramento de verba honorária na fase de liquidação, e o alegado caráter contencioso, seria imprescindível promover o reenfrentamento do acervo fático-probatório dos autos, providência sabidamente inviável nesta etapa processual ante o óbice da súmula 7/STJ.
+3. Na liquidação por arbitramento, a perícia decorre do próprio procedimento fixado pelo art. 475-D do CPC/73, e não de eventual insurgência do réu, de sorte que não se pode relacionar sua realização com a existência de litigiosidade. Tanto é assim que, mesmo na hipótese do réu manter-se inerte após ser cientificado acerca da liquidação por arbitramento, deverá o Juiz nomear perito para quantificação da obrigação contida no título executivo judicial.
+3.1 O fato do réu indicar assistente técnico para acompanhar a perícia não significa, necessariamente, resistência ao pedido do autor, visto que se trata de medida visando apenas a assegurar o contraditório, podendo, como ocorre na hipótese dos autos, haver a concordância com as conclusões do laudo.
+3.2 Ainda que alegue a parte ora agravante ter a fase de liquidação sido realizada em longo período, com impugnações ao laudo pericial e recursos, todos esses procedimentos foram considerados pelo Tribunal a quo como necessários à correta apuração do valor devido e, em última análise, contribuíram para que houvesse certeza quanto ao quantum multimilionário apurado.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 269.224/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2016, DJe 12/05/2016)
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIOS DO ART. 535 DO CPC. LIQUIDAÇÃO CONTROVERTIDA. FATO GERADOR DOS HONORÁRIOS ADVOCATÍCIOS. OCORRÊNCIA. OMISSÃO CONFIGURADA. PROVIMENTO SEM EFEITOS INFRINGENTES.
+1. O art. 535 do CPC dispõe que: "Cabem embargos de declaração quando: I - houver, na sentença ou no acórdão, obscuridade ou contradição; II - for omitido ponto sobre o qual devia pronunciar- se o juiz ou tribunal".
+2. Com a modificação do julgado (parcial provimento do recurso), surge como seu consectário a necessidade de fixação das verbas de sucumbência, sendo que, nos termos da pacífica jurisprudência desta Corte, é cabível o arbitramento de honorários também na fase de liquidação de sentença quando se verificar, em relação ao quantum debeatur, caráter contencioso.
+3. Na fase liquidatória, a ora embargante, teve a pretensão vencedora em reduzir os valores arbitrados para, além de excluir a capitalização dos juros (nos termos do acórdão recorrido), adotar o termo inicial para contagem dos juros de mora como sendo a citação do réu no processo de conhecimento, surgindo daí, fato gerador para os honorários advocatícios.
+4. Embargos de declaração providos para, sanando a omissão, fixar honorários advocatícios na fase de liquidação."
+(EDcl no REsp 1374735/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe 22/09/2014)
+Frise-se que o caráter litigioso da liquidação realizada nos presente feito não foi objeto de discussão pela Corte de origem, restando ausente, portanto, o prequestionamento do tema, tampouco poderia ser apreciado em sede de recurso especial, nos termos da Sumula 7/STJ, por se tratar de questão eminentemente fática.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
