@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do Tribunal Regional Federal da 4ª Região, a qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 133):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR E COMO "BÓIA-FRIA". INÍCIO DE PROVA MATERIAL CORROBORADO PELA - PROVA TESTEMUNHAL. CONTEMPORANEIDADE DA PROVA. REQUISITOS PREENCHIDOS. CONCESSÃO DO BENEFÍCIO.
+TERMO INICIAL. TUTELA ESPECÍFICA.
+1. O tempo de serviço rural para fins previdenciários pode ser demonstrado através de início de prova material suficiente, desde que complementado por prova testemunhal idônea.
+2. A contemporaneidade entre a prova documental e o período de labor rural equivalente à carência não é exigência legal, de forma que podem ser aceitos documentos que não correspondam precisamente ao intervalo necessário a comprovar. Precedentes do STJ.
+3. Restando comprovado nos autos o requisito etário e o exercício de atividade rural no período de carência, é de ser concedida a aposentadoria por idade rural à parte autora a contar do requerimento administrativo, a teor do disposto - no art. 49, II, da Lei nº 8.213/91.
+4. Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 461 do CPC, sem a necessidade de um processo executivo autônomo (sine intervallo).
+No especial obstaculizado, o recorrente apontou violação do art. 55, § 3º, da Lei n. 8.213/1991, sustentando a necessidade de comprovação do exercício da atividade rural no período imediatamente anterior ao requerimento.
+Transcorrido in albis o prazo para contrarrazões (e-STJ, fl. 147), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que o julgado está em consonância com a jurisprudência desta Corte.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Nos termos do disposto no art. 544, § 4º, I, do CPC/1973, o agravante deve infirmar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles. Nesse sentido, vide: AgRg no AREsp 748.670/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 24/11/2015; AgRg no AREsp 700.751/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28/09/2015.
+No caso dos autos, o agravante não se desincumbiu de infirmar o fundamento impeditivo de seguimento do especial, qual seja, estar o acórdão de origem em consonância com o entendimento desta Corte. Com efeito, limitou-se a aduzir que seu recurso não demanda a análise de provas dos autos sem impugnar o argumento da decisão agravada.
+Ante o exposto, com base no art. 932, III, do CPC/2015, c/c o art. 253, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
