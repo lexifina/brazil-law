@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto contra o TJPR, assim ementado (e-STJ fls. 738):
+RECURSO DE APELAÇÃO CÍVEL - PRESTAÇÃO DE CONTAS EM PROCEDIMENTO DE SEGUNDA FASE - SENTENÇA QUE JULGOU BOAS AS CONTAS PRESTADAS PELO BANCO, SEM DECLARAR SALDO CREDOR OU DEVEDOR EM FAVOR DE UMA DAS PARTES - RECURSO DO REQUERENTE - ANÁLISE SUPERFICIAL E GENÉRICA DAS CONTAS PRESTADAS - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA CARACTERIZADO - NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL PARA DIRIMIR A CONTROVÉRSIA E VIABILIZAR A FUTURA DECLARAÇÃO DE SALDO FINAL NA SENTENÇA - INTELIGÊNCIA DOS ARTS. 915, § 1º e E 3 C/C ART. 918 DO CPC - PREJUÍZO POR INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. DO CONTRADITÓRIO E DA AMPLA DEFESA - ADEMAIS, NULIDADE DA SENTENÇA POR SER CITRA PETITA - DECISUM QUE SE LIMITA A REPUTAR OS PEDIDOS DA REQUERENTE COMO REVISIONAIS E GENÉRICOS, SEM ANALISAR OS PEDIDOS FORMULADOS NA INICIAL - POSSIBILIDADE DE ANÁLISE DE ENCARGOS, TAXAS, TARIFAS E JUROS NÃO CONTRATADOS EM AÇÃO DE PRESTAÇÃO DE CONTAS - SENTENÇA CASSADA - RECURSO PROVIDO PARA O FIM DE ANULAR A SENTENÇA E DETERMINAR O RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA O REGULAR PROSSEGUIMENTO DO FEITO.
+Nas razões recursais (e-STJ fls. 749/757), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, o recorrente apontou violação do arts. 300, 302 e 917 do CPC/1973, sustentando que houve indevida impugnação genérica das contas apresentadas pelo réu.
+O recorrido não apresentou contrarrazões (e-STJ fl. 768).
+É o relatório.
+Decido.
+O Tribunal de Justiça deu provimento à apelação do recorrido a fim de cassar a sentença e determinar a remessa dos autos à origem para o regular prosseguimento do feito, pelos seguintes motivos (e-STJ fl. 742):
+Por se tratar de cálculos contábeis e que exigem conhecimentos técnicos a respeito do assunto, entendo que o consumidor, na condição de vulnerável e de hipossuficiente, não teria habilidade para impugnar as contas prestadas com absoluta precisão, sem o auxílio de um expert do Juízo.
+Assim, é aceitável a insurgência "genérica" da parte interessada, desde que acompanhada de requerimento de produção de perícia contábil, para que seja possível solucionar a questão ora discutida.
+O recorrente sustenta que "a parte autora não explana claramente os motivos que a levaram a não concordar com as contas prestadas pelo Banco, oferecendo impugnação genérica, e tornando, assim, inútil a perícia" (e-STJ fl. 755).
+É firme o entendimento do STJ no sentido de que "as contas apresentadas de forma não mercantil podem ser consideradas boas diante da apresentação de justificativa pela parte e da possibilidade de realização de perícia contábil, mormente ante a ausência de fundamentação plausível para a consideração de que as contas prestadas pela autora possuem presunção absoluta de veracidade"(EDcl no REsp n. 1.218.899/PR, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 25/11/2014, DJe 18/12/2014).
+Estando o acórdão recorrido em consonância com o posicionamento firmado em precedentes desta Corte, impõe-se a aplicação da Súmula n. 83/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
