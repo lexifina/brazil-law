@@ -1,0 +1,19 @@
+Despacho: Trata-se de Ação Direta de Inconstitucionalidade, com pedido de medida liminar, proposta pela Associação Brasileira das Prestadoras de Serviços de Telecomunicações Competitivas - TELCOMP, tendo por objeto a Lei Estadual 3.749/2009 do Mato Grosso do Sul, a qual “veda a inscrição do nome de consumidores nos cadastros de restrição ao crédito, por falta de pagamento nas contas de consumo oriundas da prestação de serviço público no âmbito do Estado de Mato Grosso do Sul”.
+    A Associação Autora, assevera, em suma, a inconstitucionalidade da norma impugnada em virtude de “diversas inconstitucionalidades formais e materiais que eivam a lei estadual acima transcrita, já que ela, a um só tempo, invadiu competência privativa da União, não observou os limites constitucionais impostos ao legislador estadual, em caso de competência concorrente e, ainda, violou vários princípios constitucionais, tais como o da igualdade, livre concorrência e proporcionalidade.”
+    A Associação Brasileira de Distribuidores de Energia Elétrica - ABRADEE requereu admissão, na condição de amicus curiae, na presente ação direta de inconstitucionalidade.
+    Decido.
+    Admissão no feito na condição de amici curiae
+    O amicus curiae revela-se como importante instrumento de abertura do STF à participação na atividade de interpretação e aplicação da Constituição, o que é especialmente marcante nos processos de feição objetiva.
+    Como é sabido, a interação dialogal entre o Supremo Tribunal Federal e pessoas naturais ou jurídicas, órgãos ou entidades especializadas, que se apresentem como amigos da Corte, tem um potencial epistêmico de apresentar diferentes pontos de vista, interesses, aspectos e elementos nem sempre alcançados, vistos ou ouvidos pelo Tribunal diretamente da controvérsia entre as partes em sentido formal, possibilitando, assim, decisões melhores e também mais legítimas do ponto de vista do Estado Democrático de Direito.
+    O vigente Código de Processo Civil inovou ao incorporar ao ordenamento jurídico nacional regramento geral para o instituto no âmbito da jurisdição civil.
+    É extremamente salutar que a Corte reflita com vagar sobre as vascularidades existentes entre o regramento das ações de controle de constitucionalidade perante o Supremo Tribunal Federal e o Processo Civil em geral, especialmente no que diz respeito à legitimidade recursal, etc.
+    De qualquer sorte, consoante disposto no art. 7º, §2º da Lei 9.868/1999, nesse ponto em recomendável leitura integrativa com o art. 138, caput, do CPC, duas balizas se fazem necessárias para a sua admissão.
+    De um lado, tem-se a necessidade de relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia. De outro, a representatividade adequada do amicus curiae.
+    No caso dos autos, a repercussão social da controvérsia é notória, tendo em vista discutir-se acerca de competência legislativa, bem como interpretação do âmbito de proteção dos princípios constitucionais da igualdade, livre concorrência e proporcionalidade.
+    Outrossim, verifica-se que a entidade postulante demonstrou possuir representatividade temática material e espacial. Mostrou-se, portanto, ser entidade legítima à condição de amicus curiae em virtude da possibilidade de contribuir de forma relevante, direta e imediata para o tema em pauta.
+    Diante do exposto, admito a Associação Brasileira de Distribuidores de Energia Elétrica - ABRADEE como amicus curiae, nos termos do art. 7º, §2º, da Lei nº 9.868/1999, facultando-lhe, desde já, a apresentação de informações, memoriais escritos nos autos e de sustentação oral por ocasião do julgamento definitivo do mérito da presente ação direta de inconstitucionalidade. À Secretaria para as providências necessárias.
+    Publique-se.
+    Brasília, 6 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
