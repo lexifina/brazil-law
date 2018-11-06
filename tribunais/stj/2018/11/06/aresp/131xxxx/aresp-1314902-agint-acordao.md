@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERESSE PROCESSUAL. VERIFICAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A alteração das conclusões adotadas pela Corte de origem no sentido de que restou configurado o interesse processual, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por LILIAN TEIXEIRA DE SOUZA, desafiando decisão que negou provimento a agravo em recurso especial, sob o fundamento de que a alteração das conclusões adotadas pela Corte de origem, no sentido de que restou configurado o interesse processual, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+A agravante, em suas razões, repisa seus argumentos quanto à caracterização de interesse processual, defendendo não ser o caso de aplicação da Súmula 7/STJ.
+As razões do recurso foram impugnadas (fls. 483/486).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na decisão recorrida, o Tribunal local entendeu pela ausência de interesse de agir da parte autora, a partir dos seguintes fundamentos (fls. 334/335):
+Para a aferição do direito à nomeação e posse, necessária é a análise do número de vagas oferecidas, a quantidade de aprovados, a obediência à ordem classificatória, o prazo de validade do concurso, a existência de previsão orçamentária e se houve a contratação de pessoas de forma precária para o preenchimento das vagas existentes em detrimentos dos aprovados.
+O STF, no julgamento do RE nº 837.311, submetido ao rito dos recursos repetitivos, pacificou o entendimento de que o surgimento de novas vagas durante o prazo de validade do processo seletivo anterior não gera automaticamente direito à nomeação dos candidatos aprovados fora do número de vagas previstas no edital, ressalvada, entre outras hipóteses, a configuração de preterição de candidatos de forma arbitrária e imotivada por parte da Administração, cuja demonstração cabal fica a cargo do candidato
+(..)
+Neste contexto, prevalece a presunção de que as contratações temporárias visam atender uma necessidade transitória e excepcional do interesse público, sobretudo se tais contratações não tiveram o objetivo de preencher cargos efetivos vagos
+(..)
+Desse modo, o ajuizamento de ação de conhecimento com vista a obrigar o apelado a realizar a nomeação da impetrante, aprovada em 391º lugar (cadastro de reserva) no concurso público destinado ao preenchimento de apenas 48 (quarenta e oito) vagas para o cargo M15 - Assistente de Saúde/Técnico em Laboratório, carece de interesse-utilidade, por impossibilidade de demonstração de que a autora seria uma das próximas na lista de classificação, sob pena de malferimento do direito dos demais candidatos que foram aprovados em melhor colocação.
+No caso, considerada a posição longínqua de classificação da parte autora no cadastro de reserva, não se mostra possível a interferência do Poder Judiciário visando a sua nomeação, circunstância esta que exclui o interesse-utilidade no ajuizamento da ação.
+Correto o decisum, pois, ao estabelecer que a alteração das conclusões adotadas pela Corte de origem, no sentido de que restou configurado o interesse processual, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO ACIDENTÁRIA. IMPLANTAÇÃO DO BENEFÍCIO, NA VIA ADMINISTRATIVA. ACÓRDÃO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE INTERESSE DE AGIR. EXTINÇÃO DO PROCESSO, COM FUNDAMENTO NO ART. 267, VI, DO CPC/73. SÚMULA 7/STJ. IMPOSSIBILIDADE DE ANÁLISE DA OFENSA A DISPOSITIVOS CONSTITUCIONAIS, EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 18/05/2017, que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73, bem como Agravo interposto contra decisão que o inadmitira.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à impossibilidade de análise da ofensa a dispositivos constitucionais, em sede de recurso especial -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+IV. Não havendo sido apreciada a questão suscitada nas razões da Apelação, mesmo após a oposição dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 535 do CPC/73 e, não, aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie.
+Precedentes do STJ.
+V. O entendimento firmado pelo Tribunal a quo, no sentido de que inexiste interesse de agir, em face da implantação, na via administrativa, do benefício almejado na presente ação, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VI. Agravo interno parcialmente conhecido e, nesta extensão, improvido.
+(AgInt no AREsp 1088321/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/10/2017, DJe 13/10/2017)
+PROCESSUAL CIVIL. EXIBIÇÃO DE DOCUMENTOS NÃO COMUNS ENTRE AS PARTES. NECESSIDADE PARA APURAÇÃO CORRETA DE ISS. VIA ELEITA ADEQUADA PARA BUSCAR A PRETENSÃO VEICULADA. INTERESSE DE AGIR CONFIGURADO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O acórdão recorrido consignou que "não há inadequação da via eleita no ajuizamento da ação de obrigação de fazer se a pretensão é a de exibir documento que não é comum entre as partes. Está configurado o interesse de agir da parte se não houve a exibição dos contratos e documentos solicitados, aptos a autorizar o Fisco a fiscalizar e apurar o valor correto de imposto".
+2. In casu, o acolhimento da pretensão recursal depende de revolvimento fático-probatório, vedado pela Súmula 7/STJ.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1693919/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
