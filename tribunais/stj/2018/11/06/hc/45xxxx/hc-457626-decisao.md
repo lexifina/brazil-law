@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício próprio por JORGE RICARDO DOS SANTOS, contra acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 683 dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei n.º 11.343/2006, negando-se ao réu o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação, tendo a Corte de origem negado provimento ao apelo.
+Daí o presente writ, em que o Impetrante-Paciente sustenta que há erro na aplicação da pena, uma vez que a consideração dos maus antecedentes e da reincidência, in casu, ao impedir a redução de pena do art. 33, § 4.º, da Lei de Tóxicos, configuraria bis in idem.
+Requer, liminarmente e no mérito, a concessão da ordem para o fim de reduzir-se a reprimenda imposta pelas instâncias ordinárias.
+A liminar foi indeferida (fls. 24-26).
+As informações foram prestadas (fls. 32-99).
+O Ministério Público Federal ofertou parecer, manifestando-se pela prejudicialidade do mandamus, em razão da ocorrência do trânsito em julgado e da formulação de pleito revisional perante o Tribunal local (fls. 101-102).
+É o relatório.
+DECIDO.
+O decreto condenatório fixou a pena do paciente, a partir da seguinte motivação (fl. 41):
+ ..  Concluindo pela condenação, passo a aplicar as penas. A pena base é fixada em cinco anos e dez meses de reclusão e pagamento de quinhentos e oitenta e três dias-multa, por ser o acusado portador de maus antecedentes (condenação anterior por tráfico de drogas, conforme apenso). Majoro a pena em um sexto pela reincidência (condenação anterior por homicídio qualificado, conforme apenso), resultando em seis anos, nove meses e vinte dias de reclusão e pagamento de seiscentos e oitenta dias-multa. Ausentes causas de aumento ou de diminuição da pena que torno definitiva. Incabível a substituição da pena privativa de liberdade por pena restritiva de direitos nos termos do artigo 44, do Código Penal. Estabeleço o regime fechado como inicial de cumprimento da pena privativa de liberdade e vedo a interposição de recurso em liberdade, por se tratar de crime equiparado aos hediondos, regulado por lei própria e diante da reincidência. Corresponde o valor do dia-multa a um trigésimo do salário mínimo, pelas condições econômicas do réu. Ante o exposto, julgo procedente a ação penal para condenar JORGE RICARDO DOS SANTOS como incurso no artigo 33, caput, da Lei n. 11.343/06 às penas seis anos, nove meses e vinte dias de reclusão e pagamento de seiscentos e oitenta dias-multa. Declaro detraído o período de prisão preventiva, que não é suficiente para alterar o regime inicial da pena privativa de liberdade (Lei nº 12.736/12).  ..
+O Tribunal a quo negou provimento ao apelo defensivo, com base nos seguintes fundamentos (fls. 45-50):
+ ..
+No que se refere à finalidade do entorpecente apreendido, não há outra conclusão possível que não o tráfico. Isto porque, além da descrição dada pelos policiais e da forma e local de acondicionamento, ainda se tem as conversas degravadas, que demonstram claramente que Jorge se dedicava, com habitualidade, ao tráfico, sendo fornecedor de pequenos vendedores, provendo-os de droga de alta qualidade, e também vendedor direto de consumidores finais, negando-se a vender "fiado" (fls. 66/95). É inadmissível, pois, o acolhimento da tese de posse para uso próprio.
+Assim, o conjunto das provas é mais do que suficiente para caracterizar o crime de tráfico ilícito de drogas.
+No que tange ao veículo apreendido, um Citroen zero quilômetro comprado à vista por R$ 83.000,00 (oitenta e três mil reais) (fl. 49), o réu não provou que foi seu pai o responsável pela aquisição do bem. Ademais, pouco importa se sua origem era ou não lícita, porquanto, uma vez que era utilizado para traficar drogas, seu perdimento, assim como de todo o dinheiro apreendido, era a decorrência natural da condenação.
+As penas não comportam reparo.
+O magistrado fixou a pena-base em um sexto acima do mínimo, considerando o mau antecedente de fls. 35/37 do apenso, por crime idêntico. E aumentou mais um sexto em razão da reincidência por crime de homicídio (fls. 33/34 do apenso).
+A reincidência também impede a aplicação do redutor de que trata o artigo 33, § 4º, da Lei 11.343/06, não havendo que se falar em bis in idem.
+Nesse sentido:
+ ..
+Com relação à alegação de bis in idem pela utilização da reincidência em três momentos distintos da dosimetria, melhor sorte não assiste ao impetrante.
+Inicialmente, destaco, por oportuno, que as instâncias ordinárias especificaram exatamente qual condenação anterior transitada em julgado foi utilizada na primeira fase da dosimetria e qual foi utilizada na segunda etapa, sendo que a anotação pretérita pelo ilícito de tráfico de drogas foi valorada como antecedentes, e a condenação anterior pelo crime de homicídio qualificado como reincidência.
+De mais a mais, diante da existência de duas condenações anteriores é possível às instâncias de origem valorarem uma na primeira fase, com o fim de exasperar a reprimenda inicial, e a outra na segunda fase para caracterizar a reincidência e aumentar a sanção intermediária, sem incorrer no alegado bis in idem. No presente caso, o paciente possui duas condenações anteriores, expressamente explicitadas pelo Tribunal impugnado. Dessa maneira, não se vislumbra a ocorrência de bis in idem e nem tampouco violação ao enunciado Sumular 241 desta Corte superior. Nesse mesmo sentido:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. NULIDADE DA SENTENÇA. AUSÊNCIA DE EXAME DO PEDIDO DE DETRAÇÃO. AUSÊNCIA DE PREJUÍZO. REGIME FIXADO COM BASE NOS ANTECEDENTES E NA MULTIRREINCIDÊNCIA. 3. VIOLAÇÃO DA SÚMULA 241/STJ. NÃO OCORRÊNCIA. EXISTÊNCIA DE DUAS CONDENAÇÕES DEFINITIVAS. POSSIBILIDADE DE VALORAR UMA COMO MAUS ANTECEDENTES E A OUTRA COMO REINCIDÊNCIA. 4. ARMA MUNICIADA. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. POSSIBILIDADE DE VALORAÇÃO. FATO QUE NÃO INTEGRA O TIPO PENAL. 5.PENA AQUÉM DE 4 ANOS E RÉU REINCIDENTE. OFENSA À SÚMULA 269/STJ. NÃO VERIFICAÇÃO. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. 6. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. O Magistrado de origem considerou duas condenações definitivas do paciente, uma como maus antecedentes, na primeira fase da dosimetria, e outra como agravante da reincidência, razão pela qual não há se falar bis in idem. De fato, o verbete n. 241 da Súmula desta Corte dispõe que "a reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial". Portanto, não havendo simultaneidade, não há qualquer ilegalidade.
+ ..
+6. Habeas corpus não conhecido.
+(HC 287.650/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+Por fim, com relação à minorante do art. 33, § 4º, da Lei de Drogas, alega o impetrante bis in idem. Quanto ao ponto, novamente não se vislumbra a ocorrência de ilegalidade.
+ Isso porque esta Corte superior entende que não configura bis in idem a utilização da reincidência para exasperar a reprimenda, na segunda fase da dosimetria, e negar a aplicação da minorante do art. 33, § 4º, da Lei de Drogas, uma vez que a existência de reincidência ou maus antecedentes já é suficiente para demonstrar o não preenchimento dos requisitos legais constantes no dispositivo citado. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO EM SEDE DE APELAÇÃO. REFORMATIO IN PEJUS. INEXISTÊNCIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E DIVERSIDADE DA DROGA. CRITÉRIO IDÔNEO. AGRAVANTE DE REINCIDÊNCIA. VALORAÇÃO NA SEGUNDA E NA TERCEIRA FASE. QUANTIDADE E VARIEDADE DA DROGA. VALORAÇÃO NA PRIMEIRA E NA TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. BIS IN IDEM. NÃO OCORRÊNCIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+5. Os requisitos legais para a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas, de um sexto a dois terços, são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa.
+6. O Superior Tribunal de Justiça firmou o entendimento de que a utilização da agravante de reincidência para majorar a pena, assim como para afastar a aplicação do redutor previsto na Lei de Drogas, não caracteriza ofensa ao princípio do non bis in idem.
+7. Reconhecida pelas instâncias ordinárias a reincidência do paciente, torna-se incabível a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, porquanto não preenchidos os requisitos legais.
+8. Não há bis in idem, no tocante à valoração da quantidade e variedade da droga na primeira e na terceira etapa da dosimetria quando há outros elementos impeditivos à aplicação do redutor.
+9. Habeas corpus não conhecido.
+(HC 305.104/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/06/2016, DJe 10/06/2016 - grifos)
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. MAUS ANTECEDENTES. REINCIDÊNCIA. CONDENAÇÕES DISTINTAS. BIS IN IDEM. NÃO OCORRÊNCIA. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. VEDAÇÃO LEGAL. RECURSO ESPECIAL PROVIDO.
+1. A majoração da pena pelos maus antecedentes e o reconhecimento da reincidência, desde que com fundamento em condenações prévias e definitivas distintas, não caracteriza ofensa ao princípio do ne bis in idem.
+2. Há vedação legal expressa à concessão da causa especial de diminuição prevista no art. 33, § 4º, da Lei de Drogas aos condenados possuidores de maus antecedentes e reincidentes.
+3. A valoração dos maus antecedentes na primeira etapa da dosimetria, como circunstância judicial desfavorável, e da reincidência na segunda fase não é incompatível com a sua utilização, na terceira fase, para afastar a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+4. Recurso provido para reconhecer as violações legais apontadas e, consequentemente, tornar a reprimenda do recorrido definitiva em 6 anos e 5 meses de reclusão e 641 dias-multa.
+(REsp 1280993/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/04/2016, DJe 28/04/2016 - grifos).
+Dessa forma, não preenchidos os requisitos do art. 33, § 4º, da Lei n. 11.343/06, indevida a aplicação da causa de diminuição especial.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
