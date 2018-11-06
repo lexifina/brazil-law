@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Marcelo Roque Loiola Boito contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “PENSÃO POR MORTE. Hipótese dos autos em que o autor requer o acréscimo do benefício previdenciário na cota-parte de 50% (cinquenta por cento) que sua irmã percebeu até antes de contrair matrimônio. Reversão de cota parte entre irmãos. Não cabimento. A reversão de cota- parte, ou seja, a transferência de uma porcentagem do benefício a outro pensionista só ocorre em casos de genitor (a) para filho (a), e vice-versa. Reforma da sentença. Inversão dos ônus da sucumbência com observância ao disposto no artigo 12 da Lei 1060/50.
+    RECURSO NÃO PROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 180/78), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em interpretação de direito local:
+    “A pensão concedida ao autor e sua irmã se deu nos termos dos artigos 147, incisos II e 149, § 1º, da Lei Complementar nº 180/78, legislação aplicável à época do óbito do genitor Milton Francisco Boito, ex-servidor público estadual. Dispõe a Lei Complementar nº 180/78, com alteração introduzida pela Lei Complementar nº 1012/2007 em seus artigos:
+    …...................................................................................................
+    Bem por isso, depreende-se da leitura dos artigos supramencionados que a lei não autoriza a reversão da cota-parte do benefício entre filhos do servidor, e é clara ao estabelecer que o benefício é revertido somente de filhos para o cônjuge sobrevivente e vice-versa, ressalvada a hipótese do artigo 149.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte ora agravante revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 06 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
