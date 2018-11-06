@@ -1,0 +1,46 @@
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. A SENTENÇA TRABALHISTA SOMENTE PODE SER CONSIDERADA COMO INÍCIO DE PROVA MATERIAL, QUANDO FUNDADA EM PROVAS QUE DEMONSTREM O EXERCÍCIO DA ATIVIDADE LABORATIVA NA FUNÇÃO E PERÍODOS ALEGADOS NA AÇÃO PREVIDENCIÁRIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA CONSOLIDADA DESTA CORTE. AGRAVO INTERNO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. É firme a orientação desta Corte de que a sentença trabalhista somente será admitida como início de prova material, caso ela tenha sido fundada em outros elementos de prova que evidenciem o labor exercido na função e período alegado pelo segurado. Precedentes: AgRg no AREsp. 789.620/PE, Rel. Min. DIVA MALERBI, DJe 26.2.2016; AgRg no AREsp. 359.425/PE, Rel. Min. REGINA HELENA COSTA, DJe 5.8.2015; AgRg no REsp. 1.427.277/PR, Rel. Min. HERMAN BENJAMIN, DJe 15.4.2014; REsp. 1.427.988/PR, Rel. Min. SÉRGIO KUKINA, DJe 9.4.2014.
+2. Na presente hipótese, a Corte de origem concluiu que o documento carreado aos autos não se presta como início de prova material, não havendo qualquer outro indício de prova que comprove o tempo de serviço que se quer ver reconhecido.
+3. Agravo Interno do Segurado a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra decisão que negou provimento ao presente Recurso Especial, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA URBANA. RECONHECIMENTO DE TEMPO DE TRABALHO. ANOTAÇÃO EM CARTEIRA DE TRABALHO QUE NÃO APRESENTA ASSINATURA DO EMPREGADOR NEM ACOMPANHA QUALQUER OUTRA PROVA DO VÍNCULO LABORAL. IMPOSSIBILIDADE DE REVISÃO DO CONJUNTO PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+2. O agravante sustenta que não se pode negar o reconhecimento da anotação em carteira de trabalho, independentemente de como se deu.
+3. É o relatório.
+VOTO
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. A SENTENÇA TRABALHISTA SOMENTE PODE SER CONSIDERADA COMO INÍCIO DE PROVA MATERIAL, QUANDO FUNDADA EM PROVAS QUE DEMONSTREM O EXERCÍCIO DA ATIVIDADE LABORATIVA NA FUNÇÃO E PERÍODOS ALEGADOS NA AÇÃO PREVIDENCIÁRIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA CONSOLIDADA DESTA CORTE. AGRAVO INTERNO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. É firme a orientação desta Corte de que a sentença trabalhista somente será admitida como início de prova material, caso ela tenha sido fundada em outros elementos de prova que evidenciem o labor exercido na função e período alegado pelo segurado. Precedentes: AgRg no AREsp. 789.620/PE, Rel. Min. DIVA MALERBI, DJe 26.2.2016; AgRg no AREsp. 359.425/PE, Rel. Min. REGINA HELENA COSTA, DJe 5.8.2015; AgRg no REsp. 1.427.277/PR, Rel. Min. HERMAN BENJAMIN, DJe 15.4.2014; REsp. 1.427.988/PR, Rel. Min. SÉRGIO KUKINA, DJe 9.4.2014.
+2. Na presente hipótese, a Corte de origem concluiu que o documento carreado aos autos não se presta como início de prova material, não havendo qualquer outro indício de prova que comprove o tempo de serviço que se quer ver reconhecido.
+3. Agravo Interno do Segurado a que se nega provimento.
+1. A despeito das razões lançadas pelo Agravante, tem-se que razão não lhe assiste.
+2. Cinge-se a controvérsia em saber se as anotações na CTPS, obtidas mediante sentença da Justiça Trabalhista, constituem ou não início de prova material, apta a legitimar a revisão da RMI.
+3. Esta Corte firmou o entendimento de que a sentença trabalhista será admitida como início de prova material, caso ela tenha sido fundada em outros elementos de prova. A propósito, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. SENTENÇA HOMOLOGATÓRIA DE ACORDO DE TRABALHO. PROVA, REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão impugnada. Incidência da Súmula 182 do Superior Tribunal de Justiça.
+2. Em razão do óbice representado pela Súmula 7 do STJ, não é possível, em recurso especial, a revisão da compreensão firmada pelo Tribunal de origem acerca do conjunto probatório dos autos. Precedentes.
+3. A sentença homologatória de acordo trabalhista faz prova do labor quando de seus elementos se possa extrair o trabalho desenvolvido, assim como o tempo de serviço alegado.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 789.620/PE, Rel. Min. DIVA MALERBI, DJe 26.2.2016).
+
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. RECONHECIMENTO DE TEMPO DE SERVIÇO. INÍCIO DE PROVA MATERIAL. SENTENÇA TRABALHISTA. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a sentença trabalhista pode ser considerada como início de prova material para a obtenção de benefício previdenciário, ainda que o INSS não tenha integrado a respectiva lide, desde que fundada em elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador.
+II - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula n. 83/STJ.
+III - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido (AgRg no AREsp. 359.425/PE, Rel. Min. REGINA HELENA COSTA, DJe 5.8.2015).
+
+PREVIDENCIÁRIO. TERMO INICIAL DOS EFEITOS FINANCEIROS. DIREITO JÁ INCORPORADO AO PATRIMÔNIO. SÚMULA 83. VIOLAÇÃO DO ART. 55, § 3º, DA LEI 8.213/1991. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. SENTENÇA TRABALHISTA. INÍCIO DE PROVA MATERIAL.
+1. Na hipótese em exame, o Tribunal de origem consignou que o "termo inicial dos efeitos financeiros deve retroagir à data da concessão do benefício, tendo em vista que o deferimento de verbas trabalhistas representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado".
+2. O acórdão recorrido alinha-se ao posicionamento do Superior Tribunal de Justiça, de que tem o segurado direito à revisão de seu benefício de aposentadoria desde o requerimento administrativo, pouco importando se, naquela ocasião, o feito foi instruído adequadamente. No entanto, é relevante o fato de, àquela época, já ter incorporado ao seu patrimônio jurídico o direito ao cômputo a maior do tempo de serviço, nos temos em que fora comprovado posteriormente em juízo. Súmula 83/STJ.
+3. O decisum vergastado tem por fundamento elementos de prova constantes de processo trabalhista, consignando o Tribunal de origem que o "vínculo é inconteste" e que "o provimento final de mérito proferido pela Justiça do Trabalho deve ser considerado na revisão da renda mensal inicial do benefício concedido aos autores". Súmula 7/STJ.
+4. A discrepância entre julgados deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+5. Agravo Regimental não provido (AgRg no REsp. 1.427.277/PR, Rel. Min. HERMAN BENJAMIN, DJe 15.4.2014).
+
+RECURSO ESPECIAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. QUALIDADE DE SEGURADO. SENTENÇA TRABALHISTA HOMOLOGATÓRIA DE ACORDO ENTRE O ESPÓLIO DO INSTITUIDOR DA PENSÃO E O SUPOSTO EMPREGADOR.
+1. A jurisprudência desta Corte está firmada no sentido de que a sentença trabalhista pode ser considerada como início de prova material, desde que prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativa, durante o período que se pretende ter reconhecido na ação previdenciária.
+2. Na espécie, ao que se tem dos autos, a sentença trabalhista está fundada apenas nos depoimentos da viúva e do aludido ex-empregador, motivo pelo qual não se revela possível a sua consideração como início de prova material para fins de reconhecimento da qualidade de segurado do instituidor do benefício e, por conseguinte, do direito da autora à pensão por morte.
+3. Recurso especial provido (REsp. 1.427.988/PR, Rel. Min. SÉRGIO KUKINA, DJe 9.4.2014).
+4. Como visto, no caso dos autos, conforme consignado pelo Tribunal a quo o documento carreado aos autos não se presta como início de prova material, não havendo qualquer outro indício de prova que comprove o tempo de serviço que se quer ver reconhecido, não merece reparos o acórdão recorrido.
+5. Dessa forma, estando a sentença trabalhista desacompanhada de um conjunto fático-probatório, mantém-se incólume o acórdão recorrido.
+6. Diante disso, nega-se provimento ao Agravo Interno do Segurado. É como voto.
