@@ -1,0 +1,32 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTROS de decisão que negou seguimento a recurso especial fundado no art. 105, III, a, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EXECUÇÃO POR QUANTIA CERTE. Título extrajudicial (alugueres e encargos de locação predial com contrato escrito). Decisão terminativa. Apelo dos exequentes. Desprovimento." (fl. 183)
+Opostos embargos de declaração, foram rejeitados (fls. 198/201).
+Nas razões do recurso especial, os recorrentes apontam violação dos arts. 333, I, 535, II, e 585, V, do Código de Processo Civil de 1973 e 11, I, da Lei 8.245/91, alegando, em síntese: a) nulidade do julgamento, ao argumento de que "rejeitados os embargos, necessários que eram para a correta apreciação da lide, não tendo sido observados os documentos copiados às fls. 48/53 e 57, relativos a condição, nunca negada, de companheira do locatário, bem como tratada a alegação de cerceamento de defesa, persistiu a omissão" (fl. 213); b) que "contrato de locação é título executivo extrajudicial, hábil para instruir a execução, e tratando o inciso I, do artigo 11, da Lei 8.245/91, da sub-rogação da companheira nos direitos e obrigações do locatário, condição nunca negada pela fiadora, Sra. [NOME], IRMÃ DA EXECUTADA, por ocasião do ajuizamento de anterior execução, consoante documentos juntados aos autos (fIs. 36 a 46, 48 a 53, 55 a 57, 59 a 61), efetivamente, foram violados pelo V. Acórdão" (fl. 214); e c) cerceamento de defesa, em razão da extinção da execução antes da citação da executada.
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Ademais, verifica-se que o recorrente fez apenas alegação genérica de sua vulneração, apresentando uma fundamentação deficiente que impede a exata compreensão da controvérsia, razão pela qual incide, na espécie, a Súmula 284/STF.
+Efetivamente, conforme salientado pelo em. Ministro SIDNEI BENETI, "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12/5/2010).
+O recurso também não prospera no tocante aos aspectos de mérito.
+Com efeito, no que se refere às alegações de sucessão contratual e a consequente legitimidade ad causam de recorrida para responder pela execução do título extrajudicial, as questões foram decididas na r. sentença de fls. 164/165 nos seguintes termos:
+ "Trata-se de execução de contrato de locação proposta contra companheira do falecido locatário instruída com procuração, planilha de débito e cópia do contrato.
+ A petição inicial foi emendada para juntada de print do inventário (fls. 30/31); certidão de óbito do locatário (fls.35) e cópias de embargos à execução propostos pelos fiadores em execução pretérita (fls.36 e ss).
+ A executada não foi citada.
+ Após o despacho de fls.143 que determinou comprovação da sucessão contratual, os exequentes apresentaram petição na qual afirmam que a qualidade da executada de companheira do locatário não foi negada pelos fiadores na execução contra eles proposta, fazendo remissão aos mesmos documentos juntados (fls. 149 e ss).
+  o relatório. Fundamento e Decido.
+ A execução não está aparelhada com título executivo judicial.
+ A fls.11/21 está a cópia do contrato no qual o locatário é o falecido [NOME].
+ Não há menção da executada no print do inventário, na certidão de óbito ou em qualquer outro documento.
+ Não comprovam os exequentes que tenha sido ela citada para ação de despejo no local.
+ As cópias das peças dos embargos a execução que ajuizaram contra os fiadores não são documentos suficientes para comprovação de que a executada seja sucessora contratual do locatário.
+ A alegaçao de que a executada fosse a companheira do falecido partiu dos próprios exequentes (fls. 150). Os fiadores, na petição que se sucedeu, não negaram o fato, afirmam que os herdeiros deveriam ser chamados á lide (fls. 152).
+ Ao contrário do que alegam os exequentes, a ausência de negação do fato por terceiros em outro processo não pode ser aceita como demonstração de plano da sucessão contratual.
+ Na r. sentença proferida naqueles embargos não determinou se houve ou não sucessão da locação ou indicou sucessor, reconheceu que a fiança não se estende após o falecimento do locatário. (fls.59/61).
+ O título executivo há de ser amparado por documentos que, por si sós, representem a exigibilidade da débito. No caso, tais documentos não vieram aos autos, motivo pelo qual, deve ser a execução extinta por falta de interesse jurídico lato sensu.
+ Posto isso JULGO EXTINTA A EXECUÇÃO, com fundamento no artigo 267, inciso VI e 598 do CPC, ausente título executivo hábil. Não há honorários porque não houve citação."
+O eg. Tribunal de origem, por sua vez, confirmando a decisão de primeiro grau, consignou o seguinte:
+ "Contrato de locação, vinculando, como locatário, [NOME] (fls. 11/21), já falecido, não há qualquer evidência de que a senhora [NOME] lhe tenha sucedido, na condição de companheira, circunstância que impede convocar-lhe em ação de execução, tomando aludido contrato, sem prévia demonstração (mínimo lastro documental), a confirmar a efetiva integração de sugerida modalidade de trespasse negocial." (fl. 184).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 deste Superior Tribunal de Justiça.
+Do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
