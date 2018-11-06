@@ -1,0 +1,4 @@
+DECISÃO
+Trata-se de petição da União na qual requer o sobrestamento do processo, em razão do deferimento, pelo STF, de efeito suspensivo aos embargos de declaração opostos no RE 870.947/SE, que discutem a aplicação dos juros de mora e correção monetária impostos à Fazenda Pública, nos termos do art. 1º-F da Lei 9.494/97, tese em debate no presente recurso especial.
+Considerando que a matéria ora discutida está sendo apreciada pelo Supremo Tribunal Federal no RE nº 870.947/SE, em sede de repercussão geral (Tema 810), e que o em. Ministro Luiz Fux, relator do feito, atribuiu efeito suspensivo aos embargos de declaração opostos para modulação dos efeitos do julgado, conforme decisão publicada em 26/09/2018, determino a suspensão do presente feito até o julgamento dos aclaratórios pela Suprema Corte.
+Publique-se. Intimem-se.
