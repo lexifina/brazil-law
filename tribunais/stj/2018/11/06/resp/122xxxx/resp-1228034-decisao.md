@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ fl. 213):
+AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA QUE ANULOU TODOS OS ATOS DO CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROPOSTO PELOS AGRAVADOS. FORMAL INCONFORMISMO. NECESSIDADE DE EXTINÇÃO DO PROCESSO E CONDENAÇÃO DOS EXEQUENTES EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS. INCONGRUIDADE. DECLARAÇÃO DE NULIDADE QUE SE MOSTRA ACERTADA ANTE O FATO DE SE TRATAR DE MERA FASE DO PROCESSO. DESAPARECENDO PROCESSO AUTÔNOMO DE EXECUÇÃO NÃO HÁ QUE SE FALAR EM CUSTAS E VERBA HONORÁRIA. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 232/239).
+Nas razões do especial (e-STJ fls. 246/282), interposto com base no art. 105, III, "a" e "c", da Constituição, o recorrente sustenta, além de dissenso jurisprudencial, ofensa aos arts. 535, II, 20, § 4º, 475-I e 475-O, I e II, do CPC/1973, por entender o Tribunal "(..) que não cabe condenação em honorários advocatícios na fase de cumprimento de sentença" (e-STJ fls. 256/257). Afirma que (e-STJ fl. 270):
+"De acordo com o art. 475-O do Código de Processo Civil, que regula o procedimento de execução provisória, "A execução provisória da sentença, far-se-á, no que couber, do mesmo modo que a definitiva". Por sua vez, o art. 475-I, caput, do CPC, rege: "O cumprimento de sentença far-se-á conforme os arts. 461 e 461-A desta Lei ou, tratando-se de obrigação por quantia certa, por execução, nos termos dos demais artigos deste capítulo".
+Ora, se não bastasse a própria redação do art. 475-O, que chama o cumprimento provisório de sentença de execução provisória, seu texto remete-nos ao modo de cumprimento de sentença definitiva, que afirma também, com todas as letras, que nas obrigações por quantia certa (hipótese da execução que se processava) dar-se-á o cumprimento de sentença por EXECUÇÃO.
+Patente, portanto, que se trata a execução provisória de EXECUÇÃO (logicamente) e nos termos do art. 20, § 4º do Código de Processo Civil nas execuções, embargadas ou não, serão fixados honorários de advogado".
+Busca, em suma, que "(..) seja o acórdão de fls. 196/205 reformado, por contrariedade e negativa de vigência aos arts. 20, § 40; 475-1, caput; 475-O, caput e incs. I e II; e 535, inc. II do CPC/1973, nos termos das demais decisões deste Superior Tribunal de Justiça e principalmente nos termos do Acórdão paradigma supra citado, para fins de condenar os ora recorridos (então exequentes) a pagarem à procuradora do Espólio de [NOME] e ora recorrente honorários advocatícios devidos pelo procedimento de execução provisória extinto, em decorrência da anulação da decisão exequenda, no valor correspondente a 10% do valor que se executava ou outro a ser arbitrado por este Tribunal Superior" (e-STJ fl. 282).
+Foram apresentadas as contrarrazões (e-STJ fls. 308/328).
+Exercido o juízo de admissibilidade positivo na origem, os autos vieram a este Tribunal Superior (e-STJ fls. 336/337).
+É o relatório.
+Decido.
+O presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+De início, no que se refere à suposta ofensa ao art. 535 do CPC/1973, o recorrente se ateve a formular alegações genéricas de violação desse dispositivo, sem demonstrar de forma específica em que consistiu a omissão perpetrada pelo Tribunal de origem.
+Com efeito, diante da deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO DE DEFESA. REEXAME. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 1140214/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/11/2017, DJe 20/11/2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA DE AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EXECUTADA.
+1. A alegação de afronta ao artigo 535 do CPC/73 (art. 1.022, CPC/15) de forma genérica impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284 do STF, por analogia.
+2. A falta de impugnação a fundamento autônomo do acórdão recorrido inviabiliza o exame da pretensão recursal, em razão da incidência da Súmula 283/STF.
+3. Na hipótese dos autos, o Tribunal de origem, com base nas provas carreadas aos autos e na interpretação dos acordos celebrados, concluiu ser obrigação da recorrente realizar o pagamento das despesas processuais. Alterar tal conclusão demandaria nova interpretação de cláusulas contratuais, além de reexame de fatos e provas, providências inviáveis em sede de recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 313.149/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 1º/08/2017.)
+Ressalte-se que o fato de o acórdão recorrido ter decidido de forma contrária ao interesse do recorrente não configura omissão ou negativa de prestação jurisdicional.
+No mérito, o Juízo monocrático acolheu os embargos de declaração do recorrente para declarar a nulidade dos atos processuais praticados na fase de conhecimento, nos seguintes termos (e-STJ fls. 160/161):
+1. Com razão em parte o embargante (fls. 601-608). com efeito, desconstituída a condenação pelo provimento do recurso especial (fls. 592-593) - já que enquanto não julgados os embargos declaratórios pelo Tribunal o acórdão embargado não surte qualquer efeito - ,tem-se que o exequente não tinha titulo executivo nem mesmo para intentar execução provisória.
+Todavia, não há falar em extinção do processo de execução, em reparação de danos (CPC, art. 4750, 1) ou em condenação em pagamento de custas e honorários. Não se pode extinguir um processo (execução) que não mais existe, certo que o cumprimento de sentença constitui mera fase do próprio processo de conhecimento.
+De outro lado, não houve penhora de bens nem qualquer outro tipo de gravame sobre o patrimônio da embargante, o qual suscitou a questão da inexistência do titulo por simples petição.
+2. Assim, acolho os embargos declaratórios tão-somente para declarar a nulidade dos atos processuais praticados a partir da decisão de f. 487, inclusive.
+Interposto agravo de instrumento, o Tribunal de origem negou provimento ao pedido de fixação dos honorários advocatícios (e-STJ fls. 212/222).
+Da leitura da decisão de primeira instância, verifica-se que não se trata de analisar a possibilidade de fixação dos honorários advocatícios em fase de cumprimento de sentença, pois nem ao menos foi finalizada a ação de conhecimento, deixando claro o juízo monocrático que, até aquela data, não havia sequer título executivo, por ter sido desconstituída a condenação pelo provimento do recurso especial, enquanto não julgados os embargos declaratórios pelo Tribunal.
+Sobre a questão, o Tribunal de origem afirmou que "(..) diante da desconstituição do título judicial que embasava os pedidos dos agravados de cumprimento provisório de sentença, mostrou-se acertada a decisão hostilizada ao declarar a nulidade dos atos processuais e ao não acolher o pleito de extinção da execução formulado pelo agravante, mesmo porque não é possível extinguir algo que sequer existiu" (e-STJ fl. 219).
+Dessa forma, não tendo sido finalizada a ação de conhecimento, não há que se falar em honorários advocatícios fixados na fase de execução ou cumprimento de sentença.
+Contudo, no recurso especial, apontando contrariedade aos arts. 20, § 40, 475-I, caput, 475-O, caput, I e II, do CPC/1973, o recorrente sustenta tão somente o cabimento de honorários advocatícios na fase de cumprimento de sentença.
+Verifica-se, portanto, que a parte não impugnou os fundamentos do acórdão recorrido, que manteve a decisão de primeira instância, trazendo alegações dissociadas do que ficou decidido no aresto. Incidem, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
