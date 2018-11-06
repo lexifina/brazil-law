@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial sob fundamento de ausência de demonstração das violações legais apontadas.
+O aresto impugnado recebeu a seguinte ementa (e-STJ fl. 146):
+Plano de saúde coletivo empresarial. Contrato de assistência médica e/ou hospitalar. Manutenção de ex-empregado demitido em plano de saúde vigente quando do contrato de trabalho. Procedência. Insurgência da operadora de saúde. Acolhimento. Operadora de saúde que alega o pleito de manutenção do plano de saúde está impossibilitado porque este permanece trabalhando. Requisitos do art. 31 da Lei n.2 9.656/98 não preenchidos, porquanto o autor corrobora que ainda possui vínculo empregatício. Dispositivo legal que somente se aplica para os aposentados e demitidos sem justa causa. Ausência de subsunção do fato a norma. Operadora de saúde informa que a empregadora estipulante optou por resilir a apólice de seguro empresarial. Rescisão unilateral do plano de saúde coletivo perante o consumidor constitui direito material da seguradora. Necessária a observância de certas formalidades previstas na Resolução n. 195/2009 da ANS e na Resolução CONSU 19/99, a bem de não relegar os beneficiários do plano à situação excessivamente desfavorável. Operadora de saúde que oportunizou ao autor ingresso em apólice de seguro individual/familiar antes mesmo do término da vigência da apólice empresarial. Improcedência impositiva. Sentença reformada. Recurso provido.
+Sobreveio o recurso especial (e-STJ fls. 154/160), fundado no art. 105, III, "a", da CF, no qual o recorrente sustentou violação do art. 31 da Lei n. 9.656/1998, argumentando que faz jus à manutenção do plano de saúde coletivo vigente antes da sua aposentadoria.
+No agravo (e-STJ fls. 170/175), afirma a presença dos requisitos de admissibilidade do recurso especial, nos pontos não admitidos pela instância a quo.
+É o relatório.
+Decido.
+O Tribunal de origem reconheceu que o recorrente não tem direito à manutenção do plano de saúde, porque não estariam preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, ante a permanência do vínculo empregatício (e-STJ fls. 147/149).
+Para alterar a conclusão da Corte local, seria imprescindível reexaminar os fatos e as provas dos autos, o que é incabível no recurso especial, ante a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se. Intimem-se.
