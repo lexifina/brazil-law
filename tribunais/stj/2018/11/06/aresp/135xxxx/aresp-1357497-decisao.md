@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ART. 13 DA LEI Nº 8.620/93. INCONSTITUCIONALIDADE. CONFIGURAÇÃO DAS HIPÓTESES DO ART. 135, III, DO CTN. ILEGITIMIDADE RECONHECIDA. RECURSO PROVIDO.
+- Com fulcro no art. 13 da Lei no 8.620/93, era possível a responsabilização solidária dos sócios pelos débitos da empresa junto à Seguridade Social. Contudo, a partir da declaração de inconstitucionalidade do artigo 13 da Lei n. 8.620/93, conforme o RE n.º 562.276/RS, apreciado sob o regime da repercussão geral (art. 543-B do Código de Processo Civil), para a responsabilização do sócio pelo inadimplemento de débitos contraídos pela empresa executada, não basta que seu nome conste do título executivo, cabendo ao Fisco demonstrar a presença de um dos requisitos do artigo 135 do Código Tributário Nacional.
+- Na hipótese em tela, conforme decisão agravada, foi certificado pelo Oficial de Justiça às fls. 44 do executivo fiscal que a empresa devedora não fora encontrada no endereço mantido junto aos cadastros fiscais, o que ensejou a inclusão da pessoa física do sócio no pólo passivo do feito. Entretanto, verifica-se que foi juntado aos autos da execução fiscal, a 11ª Alteração do Contrato Social da Power & Motion do Brasil Ltda., onde consta, expressamente, a alteração de endereço de sua sede, o que foi devidamente registrado junto ao Cartório do 12º Tabelião de Notas, bem como na Junta Comercial do Estado de São Paulo (fls. 28/35). Desta feita, considerando que houve a mudança de endereço da empresa executada, resta afastada a presunção de sua dissolução irregular e, por conseguinte, o redirecionamento do executivo na pessoa do sócio agravante.
+- Recurso provido.
+Foram rejeitados os embargos declaratórios opostos.
+No recurso especial, o recorrente aponta violação ao art. 1.022, II do CPC/2015. Sustenta, em síntese, que o tribunal a quo foi omisso ao não se manifestar sobre (i) a inexistência de peças necessárias à instrução do agravo de instrumento e (ii) a necessidade de dilação probatória no caso concreto, o que impediria a proposição de exceção de pré-executividade.
+Aduz, também, malferimento ao art. 135, III do CTN, sustentando a necessidade de inclusão do sócio-gerente no polo passivo da execução fiscal nos casos de dissolução irregular da pessoa jurídica executada.
+Apresentadas contrarrazões pela manutenção do acórdão, o recorrido afirma que o Recurso Especial encontra óbice na Súmula 7/STJ. Sustenta, ainda, ausência de omissão no acórdão a quo, bem como a inexistência de dissolução irregular da empresa.
+O recurso especial foi inadmitido com base no óbice da Súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Assiste razão a recorrente, no que toca à alegada violação ao art. 1.022, II do CPC/2015.
+De fato, a recorrente apresentou questão jurídica relevante, qual seja, a suposta inexistência de juntada, aos autos do agravo de instrumento, da petição que ensejou a decisão agravada. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PROVA PERICIAL. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+2. Retorno dos autos à origem, a fim de que seja realizado novo julgamento com expresso enfrentamento da questão considerada omitida.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1618708/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/08/2018, DJe 03/09/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CONSTRIÇÃO DE BENS PARTICULARES. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022 do CPC/2015.
+2. De fato, apresentou questões jurídicas relevantes, sobretudo quando afirma que "a execução se direcionou não ao inventariante do espólio, mas aos herdeiros e dentro do limite da herança que coube a cada um" (fl. 318, e-STJ). Apesar de provocado por meio de Embargos de Declaração, o Tribunal a quo não apreciou a questão.
+3. Neste contexto, diante da referida omissão, se apresenta violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os Embargos Declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos Embargos.
+4. Recurso Especial parcialmente provido com o fim de determinar o retorno dos autos à Corte de origem para novo julgamento dos Embargos de Declaração.
+(REsp 1723820/AM, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/04/2018, DJe 25/05/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
