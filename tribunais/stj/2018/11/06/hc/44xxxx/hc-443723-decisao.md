@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EZEQUIEL FERNANDES contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o Juízo da Vara das Execuções Penais da Comarca de Osório/RS deferiu pedido - formulado pelo ora paciente - de detração do período em que esse esteve segregado cautelarmente antes do início do cumprimento da pena.
+Irresignado, o Ministério Público interpôs agravo em execução junto ao TJRS, o qual deu provimento ao recurso, em decisum assim ementado (e-STJ fl. 78):
+AGRAVO EM EXECUÇÃO PENAL - INSURGÊNCIA MINISTERIAL - DETRAÇÃO DE PENA - PROCESSO DIVERSO - CONDENAÇÃO POR DELITO POSTERIOR AO PERÍODO POSTULADO - IMPOSSIBILIDADE.
+Impossível compensar o tempo de prisão provisória como operado pelo juízo da execução, pois, além de ser em processo distinto, foi anterior ao delito pelo qual o apenado está cumprindo a reprimenda atual. Na hipótese vertida, os períodos postulados para detração são anteriores ao delito pelo qual o apenado cumpre pena atualmente (01/01/2017). Caso contrário, estaria se admitindo uma espécie de "crédito de pena" perante a justiça criminal, para condenações futuras. Por óbvio, não foi esta a intenção do legislador no texto do art. 42 do CP. Precedente do STJ e deste Tribunal. Decisão reformada.
+AGRAVO DO MINISTÉRIO PÚBLICO PROVIDO.
+Na presente impetração, alega a Defensoria Pública que a regra contida no artigo 42 do Código Penal não dispõe "qualquer tipo de menção ou exigência de relação entre a condenação imposta e o motivo pelo qual o apenado tenha sido submetido à prisão provisória".
+Argumenta que a detração deve ser interpretada da forma mais ampla possível, coadunando-se com o princípio da dignidade da pessoa humana, sendo "a forma que tem o Estado de reparar o grave dano causado ao cidadão que foi preso injustamente".
+Aduz que a detração, interpretada em sua forma mais ampla possível, "é o mínimo que deve ser concedido àquele que esteve preso injustamente, pouco importando se por processo diverso e/ou anterior ao cometimento do delito pelo qual cumpre sua pena".
+Sustenta que, portanto, está bem delineado o constrangimento ilegal imposto ao paciente pelo Tribunal a quo, razão pela qual requer, liminarmente, a suspensão - até o julgamento final do presente mandamus - dos efeitos de tal decisão, e, no mérito, a cassação do acórdão impugnado, restabelecendo-se a decisão da 1ª instância que deferiu a detração.
+Indeferido o pedido de medida liminar - e dispensada a solicitação das informações de praxe - seguiram os autos com vista para o Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+Inicialmente, cumpre ressaltar que o Supremo Tribunal Federal, por sua Primeira Turma, e este Superior Tribunal de Justiça, pela sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer. Nesse sentido, destaco os seguintes julgados: STF - (HC 104045, Relatora Min. ROSA WEBER, Primeira Turma, julgado em 21/08/2012, ACÓRDÃO ELETRÔNICO DJe-176 DIVULG 05-09-2012 PUBLIC 06-09-2012); e STJ - (HC 239550/RJ, Relatora Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/09/2012, DJe 26/09/2012).
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Como visto no relatório, postula-se no presente habeas corpus reconhecimento do direito de o paciente realizar a detração da pena por ele cumprida a título provisório.
+Sem razão a impetrante.
+De fato, segundo entendimento firmado por esta Corte Superior, a detração do tempo de segregação preventiva efetivada em processo diverso somente pode ocorrer se o crime pelo qual se cumpre pena atualmente for anterior ao período pleiteado.
+Confira-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. ART. 42 DO CP. DETRAÇÃO. TEMPO DE PRISÃO PREVENTIVA CUMPRIDA EM AÇÕES PENAIS DIVERSAS. POSTERIOR ABSOLVIÇÃO. CÔMPUTO DO PERÍODO DE CUSTÓDIA PROCESSUAL NA PENA EM CURSO. IMPOSSIBILIDADE. CRIME PRATICADO EM DATA POSTERIOR À SEGREGAÇÃO CAUTELAR.
+1. A detração do tempo de segregação preventiva efetivada em processo diverso somente pode ocorrer se o crime pelo qual se cumpre pena atualmente for anterior ao período pleiteado.
+2. Na espécie, o período de prisão processual que se pretende descontar se refere ao ano de 2010, ao passo que o crime pelo qual o recorrido cumpre pena atualmente foi praticado somente em 29-11-2011. Ausência de direito ao benefício.
+3. Precedentes de ambas as Turma da 3ª Seção do STJ.
+4. Recurso especial a que se dá provimento para restabelecer a decisão de piso que indeferiu o pedido de detração.
+(REsp 1493990/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/12/2014, DJe 15/12/2014)
+EXECUÇÃO PENAL. HABEAS CORPUS. DETRAÇÃO. AGRAVO EM EXECUÇÃO JULGADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INVIABILIDADE. VIA INADEQUADA. PRISÃO PROCESSUAL QUE PERDUROU NO PERÍODO DE 20.07.2007 A 30.08.2007. POSTERIOR ABSOLVIÇÃO. EXECUÇÃO RELATIVA A CRIME PERPETRADO EM DATA POSTERIOR. INCIDÊNCIA DA DETRAÇÃO. IMPOSSIBILIDADE. VEDAÇÃO DO PRINCÍPIO DA "CONTA-CORRENTE". FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional e em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso especial.
+2. Na hipótese em apreço, inexiste flagrante ilegalidade, pois é admitida a detração em relação a fato diverso daquele que deu azo à prisão processual; contudo, somente em relação a delitos anteriores à segregação provisória, sob risco de se criar uma espécie de crédito contra a Justiça Criminal. Precedentes.
+3. Habeas corpus não conhecido.
+(HC 261.455/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/05/2014, DJe 14/05/2014)
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE CONSISTENTE NA FUGA DO APENADO. INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. DESNECESSIDADE. AUDIÊNCIA DE JUSTIFICAÇÃO REALIZADA. AMPLA DEFESA E CONTRADITÓRIO ASSEGURADOS. INTERRUPÇÃO DO PRAZO PARA OBTENÇÃO DE BENEFÍCIOS. PROGRESSÃO DE REGIME: CABIMENTO. LIVRAMENTO CONDICIONAL E INDULTO: AUSÊNCIA DE PREVISÃO LEGAL. PEDIDO DE DETRAÇÃO. CRIME COMETIDO APÓS A PRISÃO PROVISÓRIA EM OUTRO PROCESSO. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 42 DO CÓDIGO PENAL. PRECEDENTES. ORDEM PARCIALMENTE CONCEDIDA.
+1. Conforme reiterada manifestação desta Corte, a Lei de Execuções Penais não impõe a obrigatoriedade de instauração de procedimento administrativo disciplinar, sendo suficiente a realização de audiência de justificação, com a garantia ao apenado do exercício do contraditório e da ampla defesa, o que foi observado na hipótese.
+Precedentes.
+2. O cometimento de falta grave, embora interrompa o prazo para a obtenção do benefício da progressão de regime, não o faz para fins de concessão de livramento condicional, por constituir requisito objetivo não contemplado no art. 83 do Código Penal. Súmula n.º 441 deste Tribunal.
+3. Só poderá ser interrompido o prazo para a aquisição do benefício do indulto, parcial ou total, se houver expressa previsão a respeito no decreto concessivo da benesse. Precedentes.
+4. Esta Corte Superior de Justiça firmou posicionamento no sentido de ser cabível a aplicação da detração em processos distintos, desde que o delito pelo qual o sentenciado cumpre pena tenha sido cometido antes de sua segregação cautelar. Precedentes.
+5. Ordem parcialmente concedida tão somente para, reformando o acórdão impugnado, restringir a interrupção do prazo apenas para fins de progressão de regime.
+(HC 171.363/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/08/2011, DJe 01/09/2011)
+Na hipótese vertente, conforme se extrai dos autos, o período de prisão cautelar em relação ao qual se pretende a detração é anterior ao cometimento da infração em que o paciente passou a cumprir a pena privativa de liberdade.
+Inexistência, assim, de constrangimento ilegal a justificar a concessão da ordem de ofício.
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, nego seguimento ao presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
