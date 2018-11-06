@@ -1,0 +1,27 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NA EMENTA. CORREÇÃO. OMISSÃO E OBSCURIDADE. ALEGAÇÃO. NÃO CONFIGURAÇÃO.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+2. Verifica-se a existência de erro material no acórdão embargado, uma vez que a embargante, efetivamente, não é a compradora das mercadorias, mas a vendedora. No entanto, tal erro material não afasta a conclusão alcançada no acórdão atacado, concernente à aplicação do óbice da Súmula 7/STJ.
+3. No mais, não se observa a alegada omissão e obscuridade no julgado embargado, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Embargos de declaração acolhidos em parte, sem efeitos infringentes, apenas para sanar o erro material.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos infringentes, apenas para sanar o erro material, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pela Cooperativa de Produtores de Cana-de-Açucar, Açucar e Alcool do Estado de São Paulo em face do acórdão prolatado pela Eg. Primeira Turma assim ementado (fl. 4.105):
+TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS. CREDITAMENTO. VERACIDADE DO NEGÓCIO JURÍDICO. BOA-FÉ DO COMPRADOR NÃO COMPROVADA. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A Corte de origem foi categórica ao afirmar que a agravante não se desincumbiu de seu ônus probatório, especialmente quanto ao destino das mercadorias adquiridas, o que impossibilitou o reconhecimento da boa-fé da compradora e, consequentemente, do direito ao creditamento de ICMS, na forma da jurisprudência pacificada do STJ, no julgamento do REsp 1.148.444/MG, sob o rito dos recursos repetitivos.
+2. Assim, para se chegar à conclusão diversa daquela adotada pelo tribunal local, seria essencial a incursão no acervo fático-probatório dos autos, hipótese vedada, ante óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+A embargante, em suas razões, sustenta haver erro quanto aos elementos fáticos adotados como premissa no acórdão embargado, "uma vez que a Embargante não é a "compradora", mas a vendedora de mercadorias sujeitas ao regime de diferimento do ICMS, não se tratando, portanto de hipótese de "creditamento do ICMS decorrente de compras de mercadorias", mas da exigência do ICMS devido pelo adquirente (terceiro) declarado inidôneo após a realização das operações" (fl. 4.122).
+Acrescenta que estaria configurada omissão e contradição "pois desconsiderou, no caso concreto, diferentemente de outros que cuidam da imputação de responsabilidade no âmbito do ICMS, toda a matéria fática envolvida restou incontroversa", não havendo falar em incidência da Súmula 7/STJ (fl. 4.126).
+Alega, ainda, estar configurada a omissão no julgado, tendo em vista que a alegação de ofensa ao art. 535 do CPC/73 não foi enfrentada sob o aspecto indicado no recurso especial, pois "há um segundo fundamento, igualmente importante e suficiente por si só para a procedência da ação, atinente à impossibilidade de se presumir a má-fé. No caso, cabia à Fiscalização que lavrou o auto de infração demonstrar a má-fé da Embargante. Como o Auto de Infração não veicula qualquer indício da má-fé - pelo contrário, dispensa a sua prova porque a presume - era de rigor o seu cancelamento, pois a Fazenda não se desincumbiu do seu ônus de provar o fato jurídico pressuposto da responsabilidade por ela imputada: a má-fé da Embargante" (fl. 4.128).
+Impugnação apresentada às fls. 4.138/4.140.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso, da leitura do acórdão embargada, verifica-se a existência de erro material, uma vez que a embargante, efetivamente, não é a compradora das mercadorias, mas a vendedora. No entanto, tal erro material não afasta a conclusão alcançada no acórdão embargado, concernente à aplicação do óbice da Súmula 7/STJ.
+Além disso, a Primeira Turma do STJ entendeu que não estava configurada a alegada ofensa ao art. 535 do CPC/73, pois a Corte de origem registrou, expressamente, que não teria sido demonstrada a boa-fé da vendedora, ora embargante, apta a afastar a exigência do ICMS devido pelo adquirente/comprador, em razão das notas fiscais terem sido consideradas inidôneas. Assim, não está configurada a alegada negativa de prestação jurisdicional quando a decisão mostra-se apenas contrária aos interesses da parte.
+No mais, registrou que, para se chegar à conclusão pretendida pela embargante, seria necessária a incursão nos fatos e nas provas dos autos, atraindo o óbice da Súmula 7/STJ.
+Ante o exposto, acolho em parte os embargos de declaração, sem efeitos infringentes, apenas para sanar o erro material.
+É o voto.
