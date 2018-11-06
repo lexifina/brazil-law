@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Maceió, com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado:
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO CÍVEL EM AÇÃO DE EXECUÇÃO FISCAL DA DÍVIDA ATIVA. PRELIMINAR AFASTADA. PRESCRIÇÃO CONFIGURADA. ARTIGO 174 DO CÓDIGO TRIBUTÁRIO NACIONAL. RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+1. A teor do artigo 174 do CTN: "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva". A constituição definitiva ocorre: a) com o lançamento ou no 31º dia após este, ou, b) com a decisão administrativa da qual não cabe mais recurso;
+2. Observa-se que o(s) crédito(s) presente(s) na respectiva certidão da dívida ativa se encontra(m) prescrito(s), transcorrido o prazo legal de 05 anos.
+3. Confirmada a prescrição, resta prejudicada a apreciação das outras matérias trazidas para debate;
+4. Precedentes do Superior Tribunal de Justiça;
+5. Recurso conhecido e não provido. Unanimidade.
+O valor da causa, atribuído na inicial da execução fiscal, foi de R$ 566,71, em dezembro de 2003.
+No julgamento encimado, foi declarada a ocorrência da prescrição porque, em se tratando de feito submetido ao regime anterior à vigência da Lei Complementar n. 118/05, transcorreram mais de cinco anos sem que houvesse a citação, restando afastada a aplicação do enunciado sumular n. 106/STJ, tendo em vista que o reconhecimento da prescrição se deu, exclusivamente, em virtude da desídia da própria Fazenda Pública Municipal.
+No presente recurso especial, o recorrente aponta violação ao art. 174, parágrafo único, I, do CTN, sustentando, em resumo, que o Tribunal de origem não reconheceu que, no caso, não há que se falar em prescrição, considerando que foi ajuizado o executivo fiscal dentro do prazo quinquenal e que houve culpa exclusiva do Poder Judiciário pela demora, situação que atrai a incidência do enunciado sumular n. 106/STJ, diante do fato de que o Juízo de primeira instância sequer proferiu despacho de citação, mesmo após o processo ter permanecido na conclusão por anos.
+Ademais, aduziu a existência de dissídio jurisprudencial.
+É o relatório. Decido.
+Não merece seguimento o recurso, no tocante à suposta violação ao art. 174, parágrafo único, I, do CTN.
+Verifica-se que a irresignação do recorrente, acerca da alegada responsabilidade exclusiva do Judiciário na ocorrência do transcurso do prazo prescricional, vai de encontro às convicções do julgador a quo, o qual, com lastro no conjunto probatório constante dos autos, decidiu que o transcurso do prazo prescricional quinquenal teve responsabilidade exclusiva da exequente, sendo afastado o teor do enunciado sumular n. 106/STJ.
+Ao contrário do quanto argumentado pelo recorrente, não se afasta a necessidade de revolvimento do conjunto fático-probatório apenas pelo fato de simplesmente não ter sido proferido nos autos o despacho de admissibilidade da inicial. Para analisar esse fato - inclusive a permanência do processo por anos na conclusão -, bem como para rever a fundamentação do Tribunal de origem, interpretando o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios em conjunto com o quanto mais consta dos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado sumular n. 7/STJ.
+No mesmo sentido, destaca-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. DEMORA NA CITAÇÃO. PRESCRIÇÃO. AUSÊNCIA DE OMISSÃO. ART. 535 DO CPC. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. O Tribunal local, soberano na análise dos fatos e das provas, consignou: "Finalmente, não sendo a demora na citação nem a paralisação do processo decorrente de causa atribuída, EXCLUSIVAMENTE, ao mecanismo do Judiciário, certamente, a prescrição consumou-se, não havendo como se falar, na espécie, em aplicação da Súmula nº 106 do Superior Tribunal de Justiça".
+3. No caso dos autos, o Tribunal a quo atestou que se passaram cinco anos desde a constituição definitiva do crédito tributário, sem que houvesse a citação, e que essa demora não pode ser imputada ao mecanismo judiciário. Nessa perspectiva, não há como afastar a prescrição sem esbarrar no óbice da Súmula 7 do STJ.
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido. (REsp n. 1.509.335/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/3/2015).
+Por fim, quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que não se permite aferir possível identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. HEPATITE C. INDENIZAÇÃO POR DANO MATERIAL E MORAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, entendeu que não há nexo causal entre a conduta dos agentes públicos e os danos sofridos pelos ora agravantes, e que estes não trouxeram provas para corroborar o que alegou.
+2. Não é cabível em Recurso Especial o exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, em vista do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.612.647/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 7/3/2017).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. A reforma do acórdão recorrido, no sentido de se entender pela falsidade da prova pericial, da existência de documento novo e da ocorrência de erro de fato, demandaria necessário revolvimento de matéria fática, prática vedada pela Súmula 7/STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido. (AgInt no AREsp n. 638.513/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9/3/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
