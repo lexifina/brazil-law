@@ -1,0 +1,27 @@
+DECISÃO
+GIRLANDO ALVES DA SILVA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0013536-06.2015.8.26.0050.
+Depreende-se dos autos que o réu foi condenado à pena de 5 anos e 4 meses de reclusão, em regime semiaberto, mais 13 dias-multa, pela prática do crime previsto no art. 157, § 2º, II, do CP.
+O Tribunal de origem negou provimento à apelação defensiva e deu provimento ao apelo ministerial, a fim de fixar o regime inicial fechado. Os embargos de declaração da defensoria foram rejeitados.
+Nas razões do recurso especial, alega a defesa que o acórdão recorrido violou o art. 59 do CP, ao argumento de que "as condenações anteriores que não se prestam a gerar a reincidência não se prestam também a gerar maus antecedentes" (fl. 191).
+Sustenta contrariedade ao art. 33, §§ 2º, "b", 3º, do CP, uma vez que foi imposto regime inicial mais gravoso que o devido, mediante fundamentação inidônea.
+Requer "seja fixada pena base no mínimo legal, bem como que seja estabelecido regime inicial semiaberto" (fl. 197).
+Não admitido o recurso especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Na primeira fase do cálculo, a pena-base foi corretamente majorada na fração de 1/6 (um sexto), em razão de anterior condenação definitiva pela prática do crime descrito no artigo 33, da Lei nº 11.343/2006 (fls. 77), a qual se encontra extinta pelo cumprimento.
+ ..
+Por fim, quanto ao regime prisional, entendo que razão assiste ao Ministério Público, porquanto a gravidade do crime, informada pelas circunstâncias do fato, bem esclarecidas nos relatos da vítima, recomendam a fixação do regime fechado para início de cumprimento da pena privativa de liberdade aplicada ao acusado Girlando.
+Com efeito, trata-se de roubo praticado em estabelecimento comercial, no decorrer da manhã, em concurso de agentes, acarretando pânico e insegurança à vítima, situação que revela grande obstinação e audácia e se reveste de gravidade concreta, tudo a recomendar o regime prisional mais rigoroso, como resposta adequada à reprovação e prevenção de tal conduta (inteligência do artigo 33, § 3º, c.c. art. 59, ambos do Código Penal).
+Importante consignar, ademais, que o réu é portador de maus antecedentes, o que evidencia sua incapacidade de se ajustar ao ordenamento jurídico estabelecido, sendo certo que o fato de haver tornado a delinquir, após ser advertido por uma condenação anterior, deixa claro que a pena anteriormente aplicada de nada serviu no processo de sua recuperação, reforçando a necessidade de fixação de regime prisional mais severo. Regime prisional mais benigno não atenderia ao caráter repressivo e preventivo da pena.
+Para que não fique sem registro, é oportuno destacar, ainda, que não há qualquer ilegalidade na fixação do regime inicial fechado, e nem ofensa às Súmulas 718 e 719, do STF, pois os fatos concretos - como já acentuado -, bem assim a condição de delinquente contumaz, demonstram não ser recomendável a adoção de regime prisional mais brando na hipótese dos autos.
+(fls. 161-162, destaquei)
+Na espécie, o acusado cumpriu execução de reprimenda pela prática de delito anterior até 10/4/2008 (fl. 61) e praticou o crime objeto destes autos em 18/2/2015 (fl. 2).
+Embora haja decorrido o prazo depurador da reincidência, verifico que, de então até esta data, não transcorreram mais de dez anos, o que autoriza a utilização desse registro de vida pregressa para caracterizar maus antecedentes.
+Nesse sentido, o STJ firmou que, "decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser, em princípio, sopesada a título de maus antecedentes" (AgRg no AREsp n. 924.453/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 15/9/2016).
+Ante a quantidade de pena (entre 4 e 8 anos) e o registro de circunstâncias judiciais negativas (maus antecedentes), revela-se correta a fixação do regime inicial fechado, a teor do art. 33, § 2º, "b", e § 3º, do Código Penal.
+Com efeito, esta Corte Superior já firmou que, "Conquanto ao réu, condenado pela prática do crime de roubo circunstanciado (CP, art. 157, § 2º, inc. II), tenha sido aplicada pena inferior a 8 (oito) anos de reclusão, o fato de haver circunstâncias judiciais desfavoráveis impede a concessão, desde logo, do regime prisional semiaberto para seu cumprimento inicial (CP, art. 33, § 3º). (HC n. 314.814/SP, Rel. Ministro Newton Trisotto (Desembargador convocado do TJ/SC), 5ª T., DJe 25/5/2015)
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
