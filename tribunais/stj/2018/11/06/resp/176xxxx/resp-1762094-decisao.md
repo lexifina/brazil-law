@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL, com fundamento no art. 105, inciso III, alínea c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa.
+Depreende-se dos autos que o recorrido foi, em primeiro grau de jurisdição, condenado à pena de 7 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, "caput", da Lei n. 11.343/2006.
+Sobre os fatos, extrai-se da denúncia que (e-STJ fls. 1/2):
+Consta dos autos que, no dia 27 de maio de 2017, sábado, por volta das 21h00min, na Rua Alexandre Abrão, Bairro Nossa Senhora das Graças, próximo ao "Bar do Cabelo", nesta cidade e Comarca de Três Lagoas/MS, ciente da ilicitude e reprovabilidade de sua conduta, o denunciado [NOME] trazia consigo, para fins de tráfico, droga, sendo 02 (dois) tabletes de maconha, totalizando aproximadamente 1 kg (um quilograma), substância apta a causar dependência física ou psíquica, proscrita em todo o território nacional, conforme Portaria n5 344, de 12 de maio de 1998, da Secretaria da Vigilância Sanitária do Ministério da Saúde.
+Da decisão prolatada pelo Juízo de primeiro grau foi interposto recurso de apelação pelo ora recorrido. Analisando o referido recurso, o Tribunal de Justiça do Estado de Mato Grosso do Sul deu provimento à apelação defensiva para redimensionar a reprimenda para 5 anos e 6 meses de reclusão, em regime inicial fechado.
+Eis a ementa do referido acórdão (e-STJ fl. 211):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - REDIMENSIONAMENTO DA PENA-BASE - REGIME MAIS BRANDO PARA INICIO DE CUMPRIMENTO DA PENA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No caso cm tela, a quantidade de entorpecente apreendido, qual seja 01 kg de maconha, não demonstra a necessidade dc maior reprimenda pelo julgador, motivo pelo qual restou neutralizada a circunstância judicial prevista no artigo 42 da Lei de Drogas, com a conseqüente redução da pena-base. Impossibilidade de concessão de regime semiaberto para inicio de cumprimento da pena, nos termos do §3º, do artigo 33, do Código Penal.
+Daí o presente recurso especial, no qual o MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL, além de apontar dissídio pretoriano, afirma que o Tribunal de origem, no acórdão proferido, contrariou o disposto nos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006.
+Alega, em síntese, que a quantidade de droga apreendida (1kg) deve ser considerada em prejuízo do agente na primeira fase de aplicação da reprimenda.
+Contrarrazões às e-STJ fls. 276/288.
+O Ministério Público Federal manifestou-se pelo conhecimento e pelo provimento do recurso (e-STJ fls. 300/305).
+É, em síntese, o relatório.
+Decido.
+Preenchidos os pressupostos objetivos e subjetivos de admissibilidade do recurso especial, dele conheço.
+Inicialmente, ressalto que este Tribunal Superior, por mais de uma vez, já decidiu que a fundamentação consistente na quantidade e na qualidade do entorpecente é idônea a justificar a majoração da pena-base.
+Nesse sentido, confiram-se recentes julgados da Sexta Turma deste Tribunal Superior:
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. QUANTIDADE, QUALIDADE E VARIEDADE DE DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Nos termos do art. 42 da Lei n. 11.343/2006, são suficientes a motivar a exasperação da pena-base a natureza, a qualidade e a variedade das substâncias entorpecentes apreendidas em poder do sentenciado - 34,8g (trinta e quatro gramas e oito decigramas) de maconha, acondicionados em 12 (doze) invólucros plásticos, 21,6g (vinte e um gramas e seis decigramas) de crack, acondicionados em 27 (vinte e sete) invólucros plásticos, e 132g (cento e trinta e dois gramas) de cocaína, acondicionados em 106 (cento e seis) tubos.
+3. A quantidade e a qualidade de substância ilícita apreendida configuram-se, nos termos do art. 42 da Lei n. 11.343/2006, circunstância preponderante na fixação da reprimenda. Desse modo, não há teratologia no cálculo da reprimenda. Precedentes.
+4. Ordem denegada. (HC 313.796/SP, MINHA RELATORIA, SEXTA TURMA, julgado em 13/03/2018, DJe 26/03/2018, grifei)
+AGRAVO REGIMENTAL. HABEAS CORPUS. (I) INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. (II) PENA-BASE. AUMENTO. QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. (III) CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. REQUISITOS NÃO PREENCHIDOS.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do habeas corpus pelo relator quando o pedido formulado na inicial estiver em evidente confronto com a jurisprudência dominante desta Corte. Precedentes.
+2. De acordo com o art. 42 da Lei n. 11.343/2006, na fixação da pena, o julgador deve valorar, com preponderância sobre as demais circunstâncias judiciais, a natureza e a quantidade da droga. As instâncias originárias procederam à exasperação da pena-base em razão da grande quantidade de entorpecente apreendido - aproximadamente 1kg (um quilo) de maconha -, o que revela a ausência de ilegalidade. Precedentes.
+3. A existência de inquéritos policiais ou de ações penais em andamento não possui o condão de exasperar a reprimenda-base, consoante o enunciado na Súmula n. 444 deste Superior Tribunal.
+Contudo, esta Corte firmou entendimento de que a existência de outros processos criminais contra o acusado, ainda que sem condenação transitada em julgado afasta a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas. Precedentes.
+4. Agravo regimental a que se nega provimento. (AgRg no HC 400.710/ES, MINHA RELATORIA, SEXTA TURMA, julgado em 12/09/2017, DJe 25/09/2017, grifei)
+No caso em tela, sendo, com o recorrente, apreendida considerável quantidade de entorpecente (1kg de maconha), mostra-se imperativo o redimensionamento da pena-base para consideração de tal realidade na primeira fase de aplicação da reprimenda, tal como feito pelo Juízo de primeiro grau.
+Na primeira fase de aplicação da pena, considerando a existência de antecedentes e a considerável quantidade de entorpecente, deve a pena-base ser fixada em 6 anos de reclusão.
+Na segunda fase de aplicação da pena, nos exatos termos do definido pelas instâncias ordinárias, compensam-se a agravante da reincidência e a atenuante da confissão espontânea. Pena provisória mantida em 6 anos de reclusão.
+Na terceira fase, inexistem causas de aumento ou diminuição da pena, motivo pelo qual a pena definitiva deve permanecer no patamar de 6 anos de reclusão.
+Dada a reincidência e considerando a valoração negativa de circunstâncias judiciais, o regime para cumprimento inicial, nos termos do art. 33, § 2º, do Código Penal, deve ser o fechado.
+Ante o exposto, dou provimento ao recurso especial para fixar a pena a ser cumprida por [NOME] em 6 anos de reclusão, em regime inicial fechado.
+Publique-se. Intimem-se.
