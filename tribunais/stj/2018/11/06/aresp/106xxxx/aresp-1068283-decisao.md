@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSS (fls. 282-288), contra decisão que inadmitiu o recurso especial (fls. 259-263) fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. SEGURADO - ESPECIAL. TRABALHADOR RURAL. REVISÃO DE. RMI. OPÇÃO RMI MAIS VANTAJOSA. TUTELA ESPECÍFICA. "
+I. O tempo de serviço rural para fins previdenciários, a partir dos 12 anos, pode ser demonstrado através de início de prova material, desde que complementado por prova testemunhal idônea.
+2. O reconhecimento de tempo de serviço prestado na área rural até 31-10-1991, para efeito de concessão de benefício no Regime Geral da Previdência Social, não está condicionado ao recolhimento dás contribuições previdenciárias correspondentes, exceto para efeito de carência.
+3. A parte autora tem direito à majoração da renda mensal inicial de sua aposentadoria, a contar da DER, observada a prescrição quinquenal.
+4. Se a Parte autora implementar os requisitos para a obtenção de aposentadoria pelas regras anteriores à Emenda Constitucional n.º 20/98, pelas Regras de Transição e/ou pelas Regras Permanentes, poderá ter o benefício revisado pela opção que lhe for mais vantajosa.
+5. "Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença strici to sensu , previstas no art. 461 do CPC, sem a necessidade de um processo executivo autónomo (sine intervallo).
+Opostos embargos de declaração, esses foram acolhidos somente para fins de prequestionamento.
+No recurso especial, a autarquia aponta violação do art. 53, § 4º, da Lei n. 8.213/91.
+Sustenta, em síntese, que em primeira instância o magistrado sentenciante entendeu não comprovada a atividade rural por ausência de prova material apta, mas que o acórdão recorrido alterou esse entendimento sem justificar o motivo pelo qual os documentos apresentados, que não fazem referência à atividade rural, foram considerados aptos a justificar a condição de segurado especial.
+Argumenta que o acórdão recorrido levou em consideração o fato do segurado ser bóia-fria, mas que o referido entendimento está em confronto com o REsp 1.321.493 julgado sob o rito dos repetitivos, que estabelece que também para os bóias-frias, há a necessidade de apresentação de prova material apta.
+Sem contrarrazões, o recurso especial foi inadmitido ao fundamento de que a pretensão esbarra na Súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+A respeito da prova material apresentada, o Tribunal a quo considerou o seguinte, in verbis:
+Os documentos apresentados em nome de terceiros; sobretudo quando dos pais ou cônjuge, consubstanciam início de prova material do labor rural, de acordo com a Súmula n.º 73 desta Corte, haja vista que o trabalho com base em uma única unidade produtiva tem como regra a documentação emitida em nome de uma única pessoa. (..)
+Assim, a qualificação de lavrador ou agricultor em atos do registro civil tem sido considerada, também, como início de prova material, se contemporânea aos fatos, podendo estender-se ao cônjuge, se caracterizado o regime de economia familiar (AgRg no AREsp 517671/PR, 2.a T, Rel. "Min. Assussete Magalhães, DJe de 21-08-2014 e AgRg no AREsp 241687/CE, STJ, 6.a T, Rel. Min. Benedito Gonçalves, DJe de 11-03-2013).
+(..)
+Visando à demonstração do exercício da atividade rural, a parte autora juntou aos autos, em nome de seu irmão, [NOME], certidão de nascimento, do ano de 1959, atestando a condição de rurícola dos pais (fl. 36);
+Em nome da sua irmã [NOME], certidão de nascimento, de 1963, confirmando a condição de trabalhadores rurais dos genitores (fl. 37); em seu nome, certidão de casamento, do ano de 1969, onde há registro profissional como tratorista (fl. 39); em nome de seu filho, [NOME], do ano de 1971, certidão de nascimento, onde constar o autor como tratorista (fl. 40). A prova testemunhal (fl. 179), entretanto, se mostrou frágil à confirmação do trabalho rural nos períodos de 01-01-1964 a 14-01-1965 e de 27-07-1966 a 24-04-1972, conforme se pode destacar, verbis:
+(..)
+Assim, a prova testemunhal, a despeito dos documentos acostados, não se prestou a confirmar o labor rural, em regime de subsistência familiar, nosn períodos de 01-014964 a 14-01-1965 e de 27-07-1966 a" 24-04-1972, mas tão somente de 28-01-1958 (quando completou doze anos de idade) e até 27-01- 1960, sendo que o INSS reconheceu administrativamente a condição de rurícola entre 28-01-1960 a 31-12-1963 (fl. 121).
+Desse modo, a partir dos documentos acostados aos autos, os quais" constituem início de prova material, corroborados pelo depoimento testemunhal, foi devidamente comprovado o trabalho agrícola desenvolvido pela parte autora apenas de 28-01-1958 a 27-01-1960, totalizando exatos 02 anos.
+Vê-se, pois, que no período reconhecido, houve a apresentação de documentação que comprova o labor rural dos pais do segurado, o que é admitido pela jurisprudência desta e. Corte, para comprovação de atividade rural, como início de prova material.
+Nesse sentido, in verbis;
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. DEMONSTRAÇÃO DO TRABALHO NO CAMPO. DOCUMENTOS EM NOME DOS PAIS DA AUTORA. VÍNCULO URBANO DE UM DOS MEMBROS DA UNIDADE FAMILIAR QUE NÃO DESCARACTERIZA A CONDIÇÃO DE RURÍCOLA DOS DEMAIS.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Para o fim de demonstração de labor rural, são aceitos, como início de prova material, os documentos em nome dos pais da autora que os qualificam como lavradores, aliados à robusta prova testemunhal.
+3. Recurso Especial não provido.
+(REsp 1506744/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/11/2015, DJe 02/02/2016)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. SALÁRIO MATERNIDADE. DEMONSTRAÇÃO DO TRABALHO NO CAMPO. DOCUMENTOS EM NOME PAIS DA AUTORA. VÍNCULO URBANO DE UM DOS MEMBROS DA UNIDADE FAMILIAR QUE NÃO DESCARACTERIZA A CONDIÇÃO DE RURÍCOLA DOS DEMAIS. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. A concessão de salário-maternidade rural, benefício previdenciário previsto no art. 71 da Lei 8213/91, exige que a trabalhadora demonstre o exercício de atividade laboral no campo, por início de prova material, desde que ampliado por prova testemunhal, nos dez meses imediatamente anteriores ao do início do benefício, mesmo que de forma descontínua.
+2. Para esse fim, são aceitos, como início de prova material, os documentos em nome dos pais da autora que os qualificam como lavradores, aliados à robusta prova testemunhal. De outro lado, o posterior exercício de atividade urbana por um dos membros da família, por si só, não descaracteriza a autora como segurada especial, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar (REsp 1.304.479/SP, Rel.
+Ministro Herman Benjamin, Primeira Seção, DJe 19/12/2012, recurso submetido ao rito do art. 543-C do CPC) .
+3. No caso dos autos, o juízo de origem, ao examinar o contexto fático-probatório dos autos, concluiu que ficou amplamente demonstrado o labor rural da segurada. Assim, a averiguação de que não existe regime de economia familiar em virtude de vínculo urbano mantido por um dos membros da unidade familiar, esbarra no óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 363.462/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 04/02/2014)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
