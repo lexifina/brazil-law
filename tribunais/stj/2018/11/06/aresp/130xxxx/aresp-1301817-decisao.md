@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de dois agravos interpostos por ALPINIA DESENVOLVIMENTO IMOBILIARIO LTDA e API - ASSESSORIA, CONSULTORIA E INTERMEDIACAO IMOBILIARIA LTDA, contra decisão que inadmitiu recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ALPINIA DESENVOLVIMENTO IMOBILIARIO LTDA, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foi recolhido o porte de remessa e retorno dos autos, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso em razão da não comprovação integral do recolhimento das verbas que compõem o preparo.
+Ainda, percebeu-se, no tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte, conforme se denota da decisão de fl. 501. Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Quanto à irresignação de API - ASSESSORIA, CONSULTORIA E INTERMEDIACAO IMOBILIARIA LTDA, a parte Agravante foi intimada da decisão agravada em 29/08/2018, sendo o agravo em recurso especial interposto antes dessa data, em 16/06/2016.
+Revela-se, assim, prematura a interposição do agravo antes sequer de proferida a decisão de inadmissibilidade do recurso especial. Nesse sentido, o AgInt no AREsp 735.005/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/03/2017, DJe 24/03/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
