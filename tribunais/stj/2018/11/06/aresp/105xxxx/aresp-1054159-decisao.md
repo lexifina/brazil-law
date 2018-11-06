@@ -1,0 +1,16 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0002678-47.2015..8.19.0037
+Nas razões recursais, a defesa aponta a violação dos arts. 33, 35 e 40, VI, da Lei n. 11.343/2006. Requer, em síntese, a absolvição "da imputação dos crimes de tráfico de drogas e associação ao tráfico sendo desclassificada a sua conduta para o crime do art. 28 da Lei 11.343/06, ou, no pior, na hipótese de manutenção de alguma de suas condenações, sejam as penas readequadas para um patamar compatível com o que lhe for de direito" (fl. 409, grifei).
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo (fls. 447-449).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 502-507).
+Decido.
+De plano, observo que o agravo interposto não comporta conhecimento.
+Ao realizar o juízo de admissibilidade prévio do recurso especial, o Tribunal de origem aplicou os seguintes óbices ao seu seguimento: a) Súmula n. 7 do STJ e b) não comprovação do alegado dissídio jurisprudencial.
+Ao interpor o agravo, a defesa limita-se a reafirmar as razões contidas no recurso especial, sem, todavia, delinear a efetiva demonstração do dissídio jurisprudencial suscitado. Incide, assim, a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito recentes julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+Por fim, destaco que tal posicionamento está em consonância com a jurisprudência deste Tribunal, de que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/acórdão Ministro Luis Felipe Salomão, ainda não publicado).
+Ante o esgotamento das instâncias ordinárias como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da reprimenda depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o acusado não a cumpra atualmente.
+Publique-se e intimem-se.
