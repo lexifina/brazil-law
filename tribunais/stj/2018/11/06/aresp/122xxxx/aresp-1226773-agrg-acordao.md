@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AGRAVO DESPROVIDO.
+1. De início, consigne-se que o acórdão recorrido foi publicado após 16/3/2016, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil - CPC de 2015, conforme Enunciado Administrativo 3/2016 do Plenário do Superior Tribunal de Justiça - STJ.
+2. Consta dos autos que a publicação do acórdão recorrido se deu em 30/5/2017 (fl. 698), findando-se o prazo para interposição do apelo especial no dia 15/6/2017, todavia interposto em 16/6/2017 (fl. 701).
+3. Embora a jurisprudência desta Corte admita a prorrogação do prazo para o primeiro dia útil subsequente, caso o termo ad quem se dê em feriado, é necessária a comprovação da ocorrência do feriado local no ato da interposição do respectivo recurso. Isso porque, o feriado de Corpus Christi não é considerado feriado nacional, consoante Lei Federal n. 10.607/02 e Lei Federal n. 6.802/80.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão de fls. 771/772, da lavra da Ministra Presidente desta Corte Superior, em que não foi conhecido o recurso especial por intempestividade.
+A defesa do agravante sustenta que o feriado de corpus christi é público e notório e que apresentou a comprovação do feriado posteriormente, incidindo o disposto no parágrafo único do art. 932 do Código de Processo Civil - CPC/2015.
+Pleiteia, assim, o provimento do agravo regimental para admissão do recurso especial.
+Parecer ministerial pugnando pelo provimento do agravo regimental (fls. 813/820).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O recurso não merece provimento.
+A agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+De início, consigne-se que o acórdão recorrido foi publicado após 16/3/2016, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo n. 3/2016 do Plenário do Superior Tribunal de Justiça - STJ.
+Consta dos autos que a publicação do acórdão recorrido se deu em 30/5/2017 (fl. 698), findando-se o prazo para interposição do apelo especial no dia 15/6/2017, todavia interposto em 16/6/2017 (fl. 701).
+Embora a jurisprudência desta Corte admita a prorrogação do prazo para o primeiro dia útil subsequente, caso o termo ad quem se dê em feriado, é necessária a comprovação da ocorrência do feriado local no ato da interposição do respectivo recurso. Isso porque, o feriado de Corpus Christi não é considerado feriado nacional, consoante Lei Federal n. 10.607/02 e Lei Federal n. 6.802/80.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AGRAVO DESPROVIDO. 1. A segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais, devendo ser colacionado ato normativo local com essa previsão no momento da interposição do recurso, caso ela ocorra. 2. Agravo regimental desprovido. (AgRg no AREsp 1258772/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 03/09/2018 - Grifo Nosso)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO. 1. Nos termos do art. 994, VI, c/c arts. 1.003, § 5º e 1.029, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal, considera-se intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias corridos estabelecidos em lei. 2. A jurisprudência firmada por este Superior Tribunal de Justiça, através do julgamento do ARESP 957.821/MS proferido pela Corte Especial deste Sodalício, passou a entender que, após a vigência do CPC/2015, não mais se permite a comprovação da tempestividade do recurso especial com a interposição de agravo regimental, devendo os feriados locais ou as possíveis suspensões serem comprovadas de plano no momento da interposição da insurgência. Precedentes. 3. In casu, conforme as informações contidas nos autos, o agravante interpôs, do acórdão publicado em 31/05/2017, o recurso especial em 19/06/2017, ou seja, fora do prazo de 15 (quinze) dias previstos em lei, alegando, em sede de agravo regimental, a existência de feriado local nos dias 15 e 16 de junho do ano de 2017, atestando o recorrente, que, diante de tal fato, o apelo nobre mostra-se tempestivo. 4. Agravo improvido. (AgInt no REsp 1704312/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/09/2018, DJe 12/09/2018 - Grifo Nosso).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
