@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por MARCONATO & DONADON INFORMÁTICA LTDA. contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - AÇÃO DE COBRANÇA DE VALORES FINANCEIROS - Sentença procedente - Concessão do beneficio da assistência judiciária gratuita. Preliminar de ausência de impugnação específica afastada. Alegação de inépcia da exordial, por ausência de documentos indispensáveis. Descabimento. Relação contratual entre as partes incontroversa. Número do equipamento cedido em comodato à apelante constante do contrato de prestação de serviços. Regular comprovação de ausência de pagamento dos valores pugnados pela autora, Réu não se desincumbiu do ônus de provar o pagamento das prestações devidas. Prazo prescricional para pleitear dívidas líquidas constantes de instrumentos particulares é de 5 anos, conforme artigo 206, parágrafo 5º, inciso I, do Código Civil. Réu que foi negligente e não agiu de acordo com a melhor prática empresarial. Sentença confirmada pelos próprios fundamentos (art. 252 do Regimento Interno desta Corte). RECURSO DESPROVIDO" (fl. 272 e-STJ).
+Os embargos de declaração interpostos foram rejeitados (fls. 292/298 e-STJ).
+Nas razões do especial (fls. 301/312 e-STJ), a parte recorrente aponta negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+(i) arts. 489 e 1022 do CPC/2015 - porque teria havido negativa de prestação jurisdicional ao deixar o Tribunal de origem de se manifestar acerca de aspectos relevantes da demanda suscitados em sede de embargos de declaração, e
+(ii) arts. 421 do Código Civil - porque não observou o tempo estabelecido entre as partes para que os documentos ficassem arquivados.
+Oferecidas as contrarrazões (fls. 316/326 e-STJ), o recurso não foi admitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Registre-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela parte recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 165, 458 E 535 DO CPC. INEXISTÊNCIA. ARGUMENTOS DO RECURSO ESPECIAL CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Não há ofensa aos arts. 165, 458, 515 e 535 do CPC se o tribunal de origem se pronuncia fundamentadamente sobre as questões postas a exame, dando suficiente solução à lide, sem incorrer em qualquer vício capaz de maculá-lo.
+2. Com base nos elementos circunstanciais da demanda, a corte local entendeu que os devedores não têm direito ao alongamento da dívida em decorrência de ação dolosa, o que, para ser desconstituído, impõe reexame de matéria fático-probatória da lide, vedado nesta sede (Súmula 7 do STJ). Precedente.
+3. Agravo regimental a que se nega provimento" (AgRg no Ag 930.113/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 6/10/2011, DJe 13/10/2011).
+Além disso, verifica-se que as conclusões da Corte de origem resultaram da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda.
+É o que se extrai da leitura do voto condutor do julgado ora hostilizado, merecendo destaque os seguintes trechos de sua fundamentação:
+"(..) Todavia, apesar de já dispor exaustivamente sobre todas as teses ventiladas, importante ressaltar que os elementos presentes nos autos atestam a instalação e prestação de serviços contratados entre as partes (contrato de fls. 45 e ss. e relatório de fls. 24/44). Na primeira lauda do contrato de prestação de serviços (fl. 45), mais especificamente no canto superior direito, há especificação de que se refere ao equipamento instalado na sede da requerida (PA 4476). A existência de contrato celebrado entre as partes e o relatório de serviços são suficientes para comprovar a efetiva prestação dos serviços, de modo que não há se falar em ausência de documento indispensável para a propositura da demanda, até porque não se exige prova documental específica acerca da instalação do equipamento para o ajuizamento da presente ação de cobrança.
+No mais, deveria a embargante manter os documentos extraídos da máquina pelo período de cinco anos, uma vez que a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular prescreve em cinco anos, nos termos do artigo 206, § 5º, inc. I, do Código Civil. Apesar de as partes firmarem contratualmente o dever de guarda dos documentos por apenas noventa dias, descabida a alegação de que optaram por afastar o disposto no mencionado dispositivo, na medida em que o artigo 191 do CC proíbe a renúncia da prescrição antes que ela se consuma.
+Ou seja, existe disposição expressa de lei que veda a renúncia antecipada da prescrição. Logo, não está compreendida pela liberdade contratual a renúncia antecipada da prescrição, inexistindo a alegada violação ao artigo 421 do CC" (fl. 297 e-STJ- grifou-se).
+Tal como posta a questão, a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados e 15% (quinze por cento do valor atualizado da condenação, os quais devem ser majorados para 17,5% (dezessete vírgula cinco por cento), em favor do advogado da parte recorrida, nos termos do art. 85, §§ 2º e 11, do Código de Processo Civil de 2015, observado o benefício da justiça gratuita, se houver.
+Publique-se.
+Intimem-se.
