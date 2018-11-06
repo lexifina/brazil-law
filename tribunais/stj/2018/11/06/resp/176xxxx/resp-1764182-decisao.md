@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 274):
+APELAÇÃO. Prestação de serviços médico-hospitalares. Ação anulatória cumulada com declaratória de inexigibilidade de débito. Atendimento médico que não foi condicionado à assinatura do termo de responsabilidade. Vítima de disparos de arma de fogo admitida em estado grave em 11/2/2017. Termo de responsabilidade que foi assinado pelo autor em 12/2/2017. Ausência de requerimento de outras provas. Autor que poderia ter se informado antes de assinar o contrato, sem prejuízo de o paciente receber atendimento. Negócio pactuado que não é desvantajoso ou excessivamente oneroso. Ausência de impugnação específica aos valores, que não se mostram excessivos, haja vista a gravidade do quadro de saúde do paciente quando foi admitido. Natureza dos serviços médico-hospitalares que é incompatível com as exigências de orçamento e aprovação prévia previstas no art. 40 do CDC. Precedente do C. STJ. Ausência de vício de consentimento. Vítima conduzida por policiais militares. Irrelevância. Termo de responsabilidade assinado posteriormente pelo autor. Hospital réu que providenciou a transferência do paciente para hospital público, com o alinhamento entre os familiares e os médicos. Transferência que somente não se concretizou pelo falecimento três dias após a admissão. Débito que é devido. Sentença mantida. Elevação dos honorários sucumbenciais. Art. 85, § 11, do CPC. Apelo desprovido.
+No recurso especial (e-STJ fls. 284/294), com fundamento no art. 105, III, alínea "a", da CF, o recorrente sustentou, em síntese, violação do art. 156 do CC/2002, pugnando pela reforma do acórdão recorrido, a fim de se anular o contrato assinado em estado de perigo e coação, declarando-se inexigível o débito
+Ofereceram-se contrarrazões (e-STJ fls. 297/315).
+É o relatório.
+Decido.
+O Tribunal de origem analisou expressamente a alegação de vício de consentimento, entendendo que não ficou caracterizado. O fato de a parte não concordar com a conclusão do acórdão recorrido não configura violação dos dispositivos apontados.
+No mais, é inafastável o óbice das Súmulas n. 5 e 7 do STJ, pois foi com fundamento no conjunto fático-probatório dos autos que a Corte estadual concluiu pela inexistência de vício de consentimento. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem se fundamentou na prova dos autos para concluir pela inexistência de vício de consentimento apto a anular o distrato e pela ausência de abusividade na cláusula de retenção das parcelas pagas. Alterar tal conclusão demandaria nova análise de matéria fática, inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1263928/SP, de minha relatoria, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. NULIDADE DO CONTRATO. ALEGAÇÃO DE VÍCIO DE CONSENTIMENTO, ÔNUS DOS AUTORES. AUSÊNCIA DE COMPROVAÇÃO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. Alegação de negócio jurídico anulável, por dolo no agir, ao argumento de que os autores/agravantes foram induzidos a erro.
+2. Hipótese em que se alega que os réus/agravados não comprovaram que os autores/agravantes tinham ciência dos termos do contrato.
+3. É ônus do autor a demonstração do fato constitutivo de seu direito.
+4. O tribunal a quo, mediante análise soberana do contexto fático-probatório dos autos, concluiu pela ausência de comprovação do vício apontado pelos recorrentes, ressaltado, inclusive que "as cláusulas especificam bem os termos do financiamento, com os quais anuíram os mutuários à época da contratação" - o que torna inviável a reforma do acórdão recorrido, por demandar revolvimento de matéria fática, vedado em recurso especial (Súmulas 5 e 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 563.291/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
