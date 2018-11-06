@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que negou seguimento ao recurso especial sob o fundamento de incidência da Súmula n. 7/STJ (e-STJ fls. 404/405).
+O acórdão recorrido está assim ementado (e-STJ fl. 309):
+PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO - LAUDO PERICIAL - CÁLCULOS EM CONSONÂNCIA COM A SENTENÇA/ACÓRDÃO LIQUIDANDO - HOMOLOGAÇÃO - DECISÃO AGRAVADA MANTIDA - RECURSO NÃO PROVIDO.
+- Se os cálculos elaborados pelo perito judicial na liquidação por arbitramento observa os parâmetros estabelecidos pela sentença/acórdão liquidanda, deve ser mantida a decisão agravada que determina sua homologação.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 340/357).
+Nas razões do recurso especial (e-STJ fls. 360/388), fundamentado no art. 105, III, "a", da CF, o recorrente alegou violação dos arts. 467 do CPC/1973 e 5º, XXXVI, da CF, sustentando, em síntese, violação da coisa julgada.
+Segundo afirma, "não resta dúvida quanto a violação a coisa julgada pelo acórdão recorrido de fis. 277/281 TJMG, haja vista que o próprio acórdão de fis. 305/312, que julgou os embargos declaratórios confirma a utilização pura e simples dos índices correção, como se assim estivesse correto para uma RESERVA POUPANÇA, contrariando o que ficou determinado no acórdão de fis. 82/96 TJMG que determinou o comando da r. execução; bem como o art. 12, da Lei no 8.177, de I de março de 1.991, que fixa que em cada período de rendimento, os depósitos de poupança terão a remuneração adicional, por juros de 05% ( cinco décimos por cento) ao mês" (e-STJ fl. 369).
+No agravo (e-STJ fls. 408/424), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Correta a decisão de inadmissibilidade do especial.
+Não é viável apreciar, em recurso especial, a tese de existência de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa ao art. 5º, XXXVI, da CF.
+O acórdão recorrido negou provimento ao agravo de instrumento do recorrente, mantendo a decisão que homologou o laudo pericial de liquidação de sentença, pelos seguintes fundamentos (e-STJ fls. 312/317):
+Pois bem. Compulsando os autos, verifico que a ação de cobrança ajuizada pelo ora agravante contra a ora agravada, condenou a ré/agravada no pagamento da diferença de correção monetária do resgate de sua reserva de poupança relativa aos planos econômicos implementados no pais, de acordo com o IPC-IBGE.
+Constou do dispositivo da referida sentença (f. 27/36-TJ):
+Diante de todo o exposto, e por tudo o que mais dos autos consta, JULGO PROCEDENTE O PEDIDO INICIAL, formulado por LÉLIO CHAVES JÚNIOR e, via de consequencia, condeno a requerida a lhe pagara diferença de correção monetária do resgate de sua reserva de poupança, de acordo com IPC-IBGE, relativos aos planos econômicos implementados no pais no período mencionado na inicial (fls. 07), devendo ser deduzido os percentuais de correção monetária, já aplicados pela suplicada, por certo, o que será apurado em liquidação de sentença por arbitramento, acrescida de juros legais de 1% (um por cento) ao més, a contar da data da citação, tudo corrigido de acordo com a tabela da Egrégia Corregedoria de Justiça do Estado de Minas Gerais, até a data do efetivo pagamento (..)"
+(..)
+Veja-se que, conforme alegado pelo agravante, constou expressamente do referido acórdão que na elaboração do quantum exequendo não cabia observar o sistema de cotas, já que isto não constava da sentença/acórdão liquidando, em que ficou determinada a aplicação da correção monetária plena (sentença de f. 27/36-TJ e acórdão de f. 42/68-TJ, acima já referidos).
+O laudo elaborado pela perita oficial na liquidação por arbitramento, em abril de 2013, foi juntado nos autos às f. 138/189-TJ e os seus esclarecimentos às f. 204/214-TJ.
+De tal perícia, verifica-se que a executada/agravada, em 29/06/2009, realizou o pagamento espontâneo da condenação, pelo valor de R$20.696,49, todavia, naquela data, o valor devido apurado pela perita oficial era de R$21.755,38, havendo uma diferença de R$1.058,59 em relação ao depósito efetuado pela executada/agravada.
+Na elaboração de seus cálculos, a perita respondeu os quesitos formulados pelas partes, inclusive aqueles apresentados pela executada/agravada no sentido de que o valor da condenação fosse apurado por número de cotas. Lado outro, na apuração do valor devido, formulou o cálculo pelo sistema de arbitramento por meio da atualização das contribuições mensais.
+Nos esclarecimentos prestados pela perita oficial, após manifestação do exequente/agravante no sentido de que o laudo não teria seguido o comando exeqüendo (f. 198/201-TJ) constaram os seguintes termos (f. 206/207-TJ):
+(..)
+Note-se que a perita foi enfática ao afirmar que calculou o valor devido partindo do valor de cada contribuição paga pelo agravante e fazendo incidir os encargos e os expurgas deferidos na sentença/acórdão exequendo, não tendo calculado o débito pelo sistema de cotas.
+Demais disto, verifico que tanto no laudo da perita oficial, como nos esclarecimentos prestados, a perita oficial afirmou que o assistente técnico da exequente/agravante, na elaboração de seus cálculos, foi quem utilizou o sistema de cotas e não efetuou o cálculo correto do valor liquidando. Vejamos (f. 150-TJ e f. 213-TJ, respectivamente):
+(..)
+Com efeito, o laudo pericial oficial está em consonância com a sentença/acórdão liquidando, sendo que a perita oficial já teceu considerações sobre o laudo apresentado pelo agravante, não se justificando o encaminhamento dos autos à Contadoria do Juizo, pedido pela agravante, para apreciação e confrontação dos cálculo elaborado pelo seu assistente técnico e pela perita oficial.
+Se razão não assiste ao agravante na alegação de que os cálculos da perita não obedeceram ao comando sentenciai exeqüendo, deve ser mantida a decisão recorrida que os homologou.
+Dessa maneira, para acolher as razões recursais e reconhecer a alegada ofensa à coisa julgada por não terem os cálculos, elaborados pela perita oficial e homologados pelo Juízo, atendido ao comando da sentença recorrida, seria imprescindível reexame do conjunto fático-probatório, vedado em recurso especial, ante o disposto na Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
