@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. NÃO INFIRMADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CRIMINAL. RECEPTAÇÃO – ART. 180 CAPUT, DO CÓDIGO PENAL. Absolvição por fragilidade probatória – inadmissibilidade – autoria e materialidade comprovada – circunstâncias do crime que confirmam que o recorrente sabia da origem ilícita do bem. Pena e regime aplicadas de forma adequada e fundamentada. Sentença mantida. Recurso desprovido”.
+    Os embargos de declaração opostos foram rejeitados (fl. 518).
+    2. No recurso extraordinário, assevera-se ter o Tribunal de origem contrariado os incs. LIV, LV, LVII e LXIII do art. 5º da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de necessidade de análise das provas (Súmula n. 279 do Supremo Tribunal Federal), ausência de ofensa constitucional direta, ausência de prequestionamento e deficiência na fundamentação (Súmula n. 284 do Supremo Tribunal).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. O agravo não pode ter seguimento porque o agravante não impugnou os fundamentos da decisão agravada, os quais, por esse motivo, subsistem.
+    Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam os fundamentos da decisão agravada. Confiram-se, por exemplo, os julgados a seguir:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Tribunal de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. II - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (ARE n. 1.106.864-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 3.9.2018).
+    “Ementa: EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO POR DANOS MORAIS. OFENSA IRROGADA POR ADVOGADO EM SEDE PROCESSUAL PENAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL E INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. RECURSO QUE NÃO SE INSURGE CONTRA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF E ARTIGO 317, § 1º, DO RISTF. (...) 5. O agravo regimental é inadmissível quando não impugna todos os fundamentos da decisão agravada. 6. É que configura princípio básico da disciplina dos recursos o dever que tem o recorrente de impugnar todos os fundamentos da decisão atacada, por isso que deixando de fazê-lo, resta ausente o requisito de admissibilidade consistente na regularidade formal o que, à luz da Súmula 287 do STF e do § 1º do artigo 317 do RISTF, conduz ao não-conhecimento do recurso interposto. (...) 8. Agravo regimental a que se nega provimento” (AI n. 835.549-ED, Relator o Ministro Luiz Fux, Primeira Turma, DJe 22.5.2013).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSO PENAL. CRIMES TRIBUTÁRIOS. SONEGAÇÃO FISCAL. LEI N. 10.684/2003. PARCELAMENTO DOS DÉBITOS EXTENSÍVEL ÀS PESSOAS FÍSICAS. SUSPENSÃO DA PRETENSÃO PUNITIVA E DA PRESCRIÇÃO. INCABÍVEL O RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 418.110-AgR, de minha relatoria, Segunda Turma, DJe 5.5.2014).
+    6. Pelo exposto, nego seguimento ao presente recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
