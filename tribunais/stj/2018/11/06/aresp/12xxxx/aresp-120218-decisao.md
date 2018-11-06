@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial aviado por [NOME], com fulcro no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ fl. 312):
+APELAÇÃO CRIME - (HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR - ACIDENTE DE TRÂNSITO - ARTIGO 302 DA LEI 9503/1998 - CONDENAÇÃO - SENTENÇA FUNDADA NA TESE DE VIOLAÇÃO DO DEVER DE CUIDADO - INCONFORMISMO RECURSAL MANIFESTADO PELA DEFESA - ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA - IMPROCEDÊNCIA DA TESE MERITÓRIA DEFENSIVA - DEMONSTRAÇÃO CABAL DA CULPA DO RÉU - APELO DESPROVIDO.
+Devidamente comprovado por prova pericial e testemunhal, a alta velocidade imprimida pelo veículo do réu, de rigor o reconhecimento da violação de um dever de cuidado que resultou na configuração de homicídio culposo na direção de veículo automotor.
+Recurso conhecido e desprovido. (Grifos originais.)
+No recurso especial, alega a defesa, inicialmente, violação aos arts. 381 e 619, ambos do Código de Processo Penal, além de divergência jurisprudencial, ao argumento que o acórdão recorrido olvidou-se em tratar das questões defensivas relativas à insuficiência da prova para condenação. Ademais, afirma contrariedade aos arts. 59 e 68, ambos do Código Penal, em virtude da inidoneidade dos fundamentos utilizados para elevação da pena-base.
+Contrarrazões às e-STJ fls. 403/405.
+Inadmitido pelo Tribunal a quo subiu o recurso a esta Corte por meio de agravo.
+Manifestou-se o Parquet pelo parcial provimento do agravo, para que se conheça parcialmente do recurso especial e, nessa parte, seja negado provimento ao apelo (e-STJ fls. 453/455).
+É o relatório. Decido.
+A irresignação está prejudicada pela ocorrência da prescrição da pretensão punitiva.
+Inicialmente, conforme entendimento adotado no julgamento do EAREsp n. 386.266/SP, nos casos em que o agravo for conhecido e o recurso especial for desprovido por estar em confronto com súmula ou jurisprudência sedimentada no tribunal ou, ainda, for provido, mesmo que em parte, não há que se falar em retroatividade do trânsito em julgado à data de escoamento do prazo para a interposição de recurso admissível, como é o apelo extremo ora interposto, mesmo que as teses nele esposadas não sejam plausíveis. Assim, o último marco interruptivo da prescrição é a data da sentença condenatória.
+Desse modo, considerando que a pena imposta ao recorrente não ultrapassa 4 anos, nos termos do art. 109, IV, c/c o art. 110, § 1º, ambos do Código Penal, houve o transcurso de mais de 8 anos entre a publicação da sentença, em 21/5/2010 (e-STJ fl. 239), e a presente data, sendo mister o reconhecimento da prescrição da pretensão punitiva.
+Ante o exposto, declaro extinta a punibilidade do recorrente pela prescrição da pretensão punitiva, em relação ao delito ora apurado, e julgo prejudicado o recurso.
