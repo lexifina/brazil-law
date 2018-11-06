@@ -1,0 +1,101 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. TRÁFICO DE DROGAS. ACÓRDÃO PROFERIDO NO JULGAMENTO DA REVISÃO CRIMINAL. FALTA DE MOTIVAÇÃO. PROVIMENTO JUDICIAL FUNDAMENTADO. EIVA INEXISTENTE.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. A imprescindibilidade de fundamentação das decisões judiciais mereceu destaque na Constituição Federal, constando expressamente do inciso IX do artigo 93, justificando-se na medida em que só é possível o seu controle ou impugnação se as razões que as justificaram forem devidamente apresentadas.
+3. No caso dos autos, a instância de origem efetivamente examinou o pleito de desclassificação da conduta imputada à ora agravante, o que afasta a eiva suscitada.
+4. Esta Corte Superior de Justiça tem entendimento pacificado no sentido de que o julgador não é obrigado a refutar expressamente todas as teses aventadas pelas partes, tampouco a se manifestar expressamente sobre os dispositivos legais ou constitucionais que reputam violados, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas, exatamente como ocorreu na espécie. Precedentes.
+REVISÃO CRIMINAL. AUSÊNCIA DE PROVAS NOVAS APTAS A MODIFICAR O QUE JÁ DECIDIDO PELA INSTÂNCIA DE ORIGEM. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 621 DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Nos termos do artigo 621 do Código de Processo Penal, para que o pleito revisional seja admitido, é preciso que a defesa demonstre que a condenação foi contrária ao texto expresso da lei penal ou aos elementos de convicção constantes dos autos, baseada em provas falsas, ou quando surgem novas evidências que provem a inocência do réu ou determinem ou autorizem a redução de sua pena.
+2. Na espécie, a defesa cingiu-se a pleitear a desclassificação da conduta assestada à ré, não trazendo qualquer elemento de convicção passível de desconstituir o que já havia sido decidido por ocasião do julgamento do recurso de apelação, o que, como visto, não dá ensejo à revisão criminal, que não se presta à simples reanálise de provas já exaustivamente examinadas no curso do processo. Precedentes.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o mandamus ante a sua manifesta inadmissibilidade.
+Reitera a agravante que a Corte de origem não teria fundamentado o indeferimento da revisional, em ofensa ao disposto no inciso IX do artigo 93 da Constituição Federal.
+Aduz que a principal alegação da defesa, qual seja, a de que a quantidade de droga apreendida com a acusada ensejaria a desclassificação da sua conduta para o crime do artigo 28 da Lei de Drogas, não teria sido enfrentada.
+Entende que estariam presentes os requisitos para a concessão da revisão criminal.
+Requer o provimento da insurgência para que a conduta que lhe foi imputada seja desclassificada para o delito previsto no artigo 28 da Lei 11.343/2006.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Inicialmente, tendo em vista que a decisão impugnada foi publicada aos 3.10.2018 (e-STJ fl. 1319), cumpre atestar a tempestividade do inconformismo, pois interposto no dia 4.10.2018 (e-STJ fl. 418), dentro do prazo previsto no artigo 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+No mérito, não obstante as razões declinadas pela agravante, a decisão monocrática deve ser mantida.
+Isso porque, tal como consignado no pronunciamento judicial objurgado, a via eleita para a impetração contra o ato apontado como coator é inadequada, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+A propósito:
+HABEAS CORPUS. IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. AUSÊNCIA DO ESTADO DE FLAGRÂNCIA. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. SUPRESSÃO. PRISÃO PREVENTIVA. (..) HABEAS CORPUS NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+(..)
+6. Habeas corpus não conhecido.
+(HC 450.066/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. (..) AUSÊNCIA DE MANIFESTA ILEGALIDADE. ORDEM NÃO CONHECIDA.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+(..)
+7. Habeas corpus não conhecido.
+(HC 432.365/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+Ainda que superado o referido óbice, sabe-se que imprescindibilidade de motivação de qualquer pronunciamento judicial mereceu destaque na Constituição Federal de 1988, constando expressamente do inciso IX do artigo 93:
+Art. 93. Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da Magistratura, observados os seguintes princípios:
+(..)
+IX todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade, podendo a lei limitar a presença, em determinados atos, às próprias partes e a seus advogados, ou somente a estes, em casos nos quais a preservação do direito à intimidade do interessado no sigilo não prejudique o interesse público à informação;
+Com efeito, a necessidade de fundamentação das decisões se justifica na medida em que só podem ser controladas ou impugnadas se as razões que as motivaram forem devidamente apresentadas.
+A respeito do assunto, é essa a lição de Ada Pellegrini Grinover, [NOME] e [NOME]:
+"A necessidade de motivação é imperiosa no sistema de livre convencimento. Abandonados os sistemas de prova legal e da íntima convicção do juiz, tem o magistrado liberdade na seleção e valoração dos elementos de prova para proferir a decisão, mas deve, obrigatoriamente, justificar o seu pronunciamento.
+A motivação surge como instrumento por meio do qual as partes e o meio social tomam conhecimento da atividade jurisdicional; as partes para, se for o caso, impugnarem os fundamentos da sentença, buscando seja reformada; a sociedade, a fim de que possa formar opinião positiva ou negativa a respeito da qualidade dos serviços prestados pela Justiça.
+(..)
+O trabalho do juiz, como toda decisão humana, implica uma escolha entre alternativas. No conteúdo da motivação devem estar claramente expostas as escolhas e seleções feitas.
+(..)
+A garantia da motivação, conforme acentuado, compreende, em síntese: 1) o enunciado das escolhas do juiz com relação à individualização das normas aplicáveis e às consequências jurídicas que delas decorrem; 2) os nexos de implicação e coerência entre os referidos enunciados; 3) a consideração atenta dos argumentos e provas trazidos aos autos." (As nulidades no processo penal. 11ª ed. São Paulo: Revista dos Tribunais, 2009, p. 198/199).
+Na espécie, ao julgar a revisão criminal ajuizada pela defesa, a autoridade impetrada consignou que "a condenação da peticionária pelo crime de tráfico de entorpecentes não afrontou a evidência dos autos" (e-STJ fl. 17).
+Afirmou que "os policiais civis [NOME], [NOME], [NOME] e [NOME] e o escrivão de polícia [NOME] corroboraram, sob o crivo do contraditório, os fatos descritos na exordial", assentando que "havia denúncia anônima dando conta da associação de Davi (amásio da peticionária, com quem esta residia) e Emerson para a prática de tráfico de drogas" (e-STJ fl. 17).
+Explicou que, "segundo essas informações, Davi era o "chefe", enquanto Emerson era o "disciplina", pois cobrava as quantias", sendo que "ambos forneciam a menores de idade as drogas a serem vendidas na "boca"", e que, "realizadas campanas, avistaram movimentação de pessoas e veículos nas casas deles", confirmando que "na residência de Davi e Jéssica foram encontrados pacotes de dinheiro com as iniciais "F" e "M", no valor de R$ 3.236,20, em uma estante, bem como vários aparelhos celulares, uma câmera de vigilância e fita crepe", havendo, com a ora paciente, uma porção de maconha (e-STJ fls. 17/18).
+Asseverou que, à luz das provas colhidas, "Jéssica era amásia e residia na mesma casa do corréu Davi, palco de intensa movimentação relativa à traficância, onde foram encontradas drogas, numerosos celulares e expressiva quantia em dinheiro, relacionados ao tráfico", tendo ela própria, em seu poder, "uma porção do entorpecente, e procurou justificar, em vão, a presença do dinheiro e dos celulares" (e-STJ fl. 18).
+Concluiu ser "inviável afirmar, a esta altura, que a condenação da peticionária pelo crime de tráfico de drogas configura erro judiciário, porquanto afrontosa à evidência proporcionada pela prova dos autos" (e-STJ fl. 18).
+Verifica-se, assim, que a instância de origem efetivamente examinou o pleito de desclassificação da conduta imputada à paciente, o que afasta a eiva suscitada na impetração.
+No ponto, é imperioso frisar que o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão nos autos, tampouco a se manifestar sobre cada um dos dispositivos legais ou constitucionais por ela mencionados, bastando que, pela motivação apresentada, seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões das partes, exatamente como se deu na hipótese em análise.
+Nesse sentido, Guilherme de Souza Nucci esclarece que "não se configura lacuna na decisão o fato do juiz deixar de comentar argumento levantado pela parte, pois, no contexto geral do julgado, pode estar nítida a sua intenção de rechaçar todos eles" (Código de Processo Penal Comentado. 9ª ed. São Paulo: Revista dos Tribunais, 2009, p. 686/687).
+A jurisprudência deste Sodalício não discrepa de tal entendimento:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. FRAUDE EM PROCESSO LICITATÓRIO. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. WRIT DENEGADO. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DESNECESSIDADE DE MOTIVAÇÃO EXAURIENTE E DE REFUTAÇÃO DE TODAS AS TESES DEFENSIVAS. FUNDAMENTAÇÃO PRESENTE. (..) RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Hipótese em que se busca anular o acórdão recorrido ou determinar que outra seja proferido, por negativa de prestação jurisdicional, bem como a extinção da ação penal, sem resolução de mérito, por se encontrar tramitando "há quase uma década, sem solução de continuidade".
+2. Este Tribunal Superior possui entendimento firmado no sentido de que "O julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas" (AgRg no AREsp 1130386/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 08/11/2017).
+(..)
+4. Recurso parcialmente conhecido e desprovido.
+(RHC 60.291/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. (..) S. ARGUMENTOS VEICULADOS PELA DEFESA. DESNECESSIDADE DE SE REBATER TODOS. AUSÊNCIA DE NOVOS FUNDAMENTOS PARA AFASTAR A DECISÃO AGRAVADA. MANUTENÇÃO. AGRAVO NÃO PROVIDO.
+(..)
+3. Não está o julgador obrigado a rebater todos os fundamentos trazidos pela parte em defesa da tese que apresenta, sendo suficiente que enfrente a demanda veiculada.
+(..)
+5. Agravo regimental improvido.
+(AgRg no RHC 81.232/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Em arremate, é cediço que as hipóteses de cabimento da revisão criminal estão previstas no artigo 621 do Código de Processo Penal, verbis:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Assim, nos termos do referido dispositivo legal, para que o pleito revisional seja admitido, é preciso que a defesa demonstre que a condenação foi contrária ao texto expresso da lei penal ou aos elementos de convicção constantes dos autos, baseada em provas falsas, ou quando surgem novas evidências que provem a inocência do réu ou determinem ou autorizem a redução de sua pena, circunstâncias que não se encontram presentes na espécie.
+Sobre o assunto, Guilherme de Souza Nucci explica que "havendo condenação com trânsito em julgado, já não vige o princípio geral do in dubio pro reo, devendo o autor da ação revisional apresentar novos fatos e provas, substancialmente novas, para que seu pedido possa ser acolhido" (Código de Processo Penal Comentado. 9ª ed. São Paulo: Revista dos Tribunais, 2009, p. 1009).
+Na mesma esteira orienta-se a jurisprudência desta Corte Superior de Justiça, a exemplo do seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO DO PACIENTE PELO CRIME DE ROUBO CIRCUNSTANCIADO. CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS. REDISCUSSÃO DE MATÉRIA JÁ APRECIADA EM APELAÇÃO E REVISÃO CRIMINAL. INVIABILIDADE DE EXAME EM SEDE DE HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus, em razão da sua natureza mandamental, não é o meio adequado para se discutir a existência de prova suficiente para apontar a autoria delitiva.
+2. Por outro lado, o Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes". (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/02/2016, DJe 25/02/2016).
+3. Agravo regimental improvido.
+(AgRg no HC 441.602/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E RESPECTIVA ASSOCIAÇÃO. REVISÃO CRIMINAL NÃO CONHECIDA. HIPÓTESES DE CABIMENTO. NÃO VERIFICAÇÃO. PLEITO DESCLASSIFICATÓRIO. INVIABILIDADE. ORDEM DENEGADA.
+1. A revisão criminal caracteriza-se como ação autônoma de impugnação voltada à desconstituição da coisa julgada sempre que o decisum objurgado esteja imbuído de erro judiciário. As hipóteses de cabimento são previstas no artigo 621 do Código de Processo Penal - CPP, as quais devem ser interpretadas de maneira restritiva, sob pena de se vulnerar o princípio mor da segurança jurídica, base sobre a qual se assenta o ordenamento pátrio.
+2. Com relação à pretensão desclassificatória, já amplamente enfrentada pelo Tribunal de origem no julgamento da apelação, agiu com acerto aquela Corte no julgamento da revisão criminal. Isso, porque não houve indicação de novas provas e se demonstrou a ausência dos requisitos do art. 621 do Código de Processo Penal.
+Ademais, tal questão é inviável de ser decidida em sede de habeas corpus, por demandar o exame aprofundado das provas.
+3. Ordem denegada.
+(HC 428.643/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/03/2018, DJe 26/03/2018)
+No caso dos autos, como visto, a defesa cingiu-se pleitear a desclassificação da conduta assestada à ré, não trazendo qualquer elemento de convicção passível de desconstituir o que já havia sido decidido por ocasião do julgamento do recurso de apelação, o que, como visto, não dá ensejo à revisão criminal, que não se presta à simples reanálise de provas que já foram exaustivamente examinadas no curso do processo.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MATÉRIA JÁ SUBMETIDA À REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em nenhum momento, a defesa se insurgiu, no momento processual oportuno, contra a pena que foi aplicada ao acusado, somente havendo questionado a reprimenda já depois do trânsito em julgado da condenação, por ocasião do ajuizamento da revisão criminal.
+2. Se a Corte de origem, ao indeferir a revisão criminal, concluiu que a condenação do acusado seria substancialmente justa e harmônica com as provas produzidas nos autos - tanto que não identificou nenhuma das hipóteses previstas no art. 621 do Código de Processo Penal -, não há razões para o processamento deste habeas corpus, em que se discute, novamente, matérias que já foram verticalmente analisadas pelas instâncias de origem, inclusive já submetidas à revisão criminal.
+3. Agravo regimental não provido.
+(AgRg no HC 426.171/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. CONDENAÇÃO. REVISÃO CRIMINAL IMPROCEDENTE. INOCORRÊNCIA DE HIPÓTESES DO ART. 621 DO CPP. PLEITO DE ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A revisão criminal é ação autônoma de impugnação cujo objetivo é desconstituir sentença condenatória ou absolutória imprópria transitada em julgado (iudicium rescindens), para, eventualmente, substituí-la por outra (iudicium rescissorium). O cabimento do juízo rescindendo está adstrito às hipóteses de violação do texto expresso de lei penal, contrariedade à evidência dos autos, sentença fundada em prova falsa, prova nova e benéfica à situação do réu e nulidade do processo (CPP, art. 621 c/c art. 626), não havendo falar em juízo rescisório nesta última hipótese. Tanto o iudicium rescindens quanto o iudicium rescissorium são realizados pelo próprio tribunal que proferiu os julgados, bem como aqueles pertinentes a juízes a ele vinculados. 3. "A revisão criminal, à luz do disposto no art. 621, inc. III, do Código de Processo Penal, não se presta à mera reapreciação de prova já examinada" (HC 42.063/GO, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJ de 20/6/2005).
+4. No caso em exame, a análise do pleito do paciente mostra-se impróprio na via eleita, bem como incompatível com as hipóteses de cabimento da revisão criminal apresentada na origem, eis que exigiria uma incursão aprofundada no acervo probatório dos autos e o reexame dos temas já exaustivamente analisados pelas instâncias ordinárias.
+5. Habeas corpus não conhecido.
+(HC 310.292/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
