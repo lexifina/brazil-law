@@ -1,0 +1,20 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ALEGAÇÃO, EM SEDE DE ACLARATÓRIOS DE JULGAMENTO EXTRA PETITA, CUJA ANÁLISE PODERIA, EM TESE, ALTERAR O RESULTADO DO JULGAMENTO, NÃO APRECIADA. VIOLAÇÃO DO ART. 535, II DO CPC/1973. NULIDADE RECONHECIDA. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO, EM CONSONÂNCIA COM O PARECER DO MPF.
+1. Houve afronta do art. 535, II do CPC/1973, pois a Corte local não se manifestou, apesar de provocada, sobre questão essencial ao julgamento, qual seja, a possível ocorrência de julgamento extra petita.
+2. Agravo Interno da União a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto pela UNIÃO, contra decisão de minha lavra, que deu provimento ao Apelo Raro do Particular, reconhecendo a violação do art. 535 do CPC/1973 e determinando o retorno dos autos à Corte local. A decisão foi assim ementada:
+ADMINISTRATIVO. CONCURSO PÚBLICO. ANULAÇÃO DE ATO ADMINISTRATIVO QUE TORNOU SEM EFEITO O RESULTADO FINAL DO CERTAME. ACÓRDÃO FUNDAMENTADO NA ILEGALIDADE DA PONTUAÇÃO DE TÍTULO DE DOUTORADO EM ÁREA DIVERSA DA DE ATUAÇÃO DO CARGO, DECORRENTE DE INTERPRETAÇÃO ERRÔNEA DO EDITAL. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR QUE A CORTE DE ORIGEM SE MANIFESTE FUNDAMENTADAMENTE SOBRE QUESTÃO RELEVANTE SUSCITADA NOS ACLARATÓRIOS, CONFORME ENTENDER DE DIREITO, DE ACORDO COM O PEDIDO EXPRESSO DA PARTE. (fls. 491).
+2. Aduz a parte agravante que a decisão agravada não incorreu em omissão e adotou fundamentação suficiente para a solução do caso.
+3. Devidamente intimada, a parte agravada apresentou impugnação às fls. 508/512, onde pugnou pela manutenção do decisum.
+4. É o relatório.
+VOTO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ALEGAÇÃO, EM SEDE DE ACLARATÓRIOS DE JULGAMENTO EXTRA PETITA, CUJA ANÁLISE PODERIA, EM TESE, ALTERAR O RESULTADO DO JULGAMENTO, NÃO APRECIADA. VIOLAÇÃO DO ART. 535, II DO CPC/1973. NULIDADE RECONHECIDA. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO, EM CONSONÂNCIA COM O PARECER DO MPF.
+1. Houve afronta do art. 535, II do CPC/1973, pois a Corte local não se manifestou, apesar de provocada, sobre questão essencial ao julgamento, qual seja, a possível ocorrência de julgamento extra petita.
+2. Agravo Interno da União a que se nega provimento.
+1. Ao contrário do que veiculam as judiciosas alegações da parte agravante, apenas e tão somente se verificou a omissão da Corte local quanto à possível ocorrência de julgamento extra petita.
+2. Desta maneira, a análise a respeito da violação do art. 535, II do CPC/1973 foi direta e objetiva, decorrente do cotejo entre as alegações da parte ora agravada e a constatação, pela simples leitura do acórdão local, de que a Corte estadual deixou de apreciar a argumentação quanto à aplicabilidade do art. 460 do CPC, referente ao julgamento extra petita já que o acórdão foi fundamentado na ilegalidade da pontuação de título de doutorado em área diversa da de atuação do cargo, decorrente de interpretação errônea do edital.
+3. Repita-se, demonstrando que a Corte local, apesar de provocada a se manifestar sobre a matéria, deixou de se pronunciar, causando, por isso, a violação do art. 535, II do CPC/1973, razão pela qual se houve o provimento do Apelo, para se determinar o retorno dos autos para apreciação acerca daquela matéria reputada omissa, da maneira que o TJDF entender de direito.
+4. Ante o exposto, nega-se provimento ao Agravo Interno da União. É como voto.
