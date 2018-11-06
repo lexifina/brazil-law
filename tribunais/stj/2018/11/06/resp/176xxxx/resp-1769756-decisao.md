@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto pela São Paulo Previdência, com fulcro no art. 105, III, "a", da Constituição Federal, em face do acórdão proferido às e-STJ fls. 376/389, no qual se alega violação ao art. 1º-F da Lei nº 9.494/97, com redação dada pelo art. 5º da Lei nº 11.960/09.
+Em juízo de adequação, o Tribunal de origem manteve o acórdão recorrido, deixando de aplicar o entendimento firmado por esta Corte Superior no REsp nº 1.495.146/MG, sob o rito dos recursos repetitivos (Tema 905), conforme acórdão juntado às e-STJ fls. 461/465.
+Decisão de admissibilidade do recurso especial acostada às e-STJ fls. 467/468.
+Considerando que a matéria ora discutida também está sendo apreciada pelo Supremo Tribunal Federal no RE nº 870.947/SE, em sede de repercussão geral (Tema 810), e que o em. Ministro Luiz Fux, relator do feito, atribuiu efeito suspensivo aos embargos de declaração opostos para modulação dos efeitos do julgado, conforme decisão publicada em 26/09/2018, imperiosa a devolução dos autos ao Tribunal de origem, nos termos do art. 1030, II, do CPC/2015.
+Ante o exposto, com fulcro no art. 1030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem para que o recurso especial fique sobrestado aguardando o julgamento do Tema nº 810 pelo Supremo Tribunal Federal, especificamente o julgamento dos embargos de declaração opostos para a modulação dos efeitos do julgado e, após, sejam adotadas as providências previstas no art. 1040 do CPC/2015.
+Publique-se. Intimem-se.
