@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANGELA CRISTINA LIMA FUGITA e OUTROS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 558/559):
+AGRAVO LEGAL. JULGAMENTO POR DECISÃO MONOCRÁTICA. ART. 557 DO CPC DE 1973. AGRAVO PROVIDO.
+1. O julgamento monocrático se deu segundo as atribuições conferidas ao Relator pelo artigo 557 do Código de Processo Civil de 1973, em sua redação primitiva.
+2. Tratando-se de agravo legal interposto na vigência do Código de Processo Civil de 1973 e observando-se o princípio tempus regit actum, os requisitos de admissibilidade recursal são aqueles nele estabelecidos.
+3. Por ocasião do julgamento do recurso, contudo, dever-se-á observar o disposto no §3º do artigo 1.021 do Código de Processo Civil de 2015.
+4. A Lei n.º 8.689/93, que extinguiu o INAMPS, determinou em seu art. 11 que a União o sucederia em todos os direitos e obrigações.
+5. Com relação aos servidores do INAMPS, o art. 5o da referida lei estabeleceu que "Os servidores do Inamps, ocupantes de cargos efetivos, passam a integrar o Quadro de Pessoal Permanente do Ministério da Saúde, respeitados os seus direitos, deveres e vantagens, sendo-lhes garantido o direito de opção por redistribuição para o Ministério da Previdência Social ou outro órgão ou entidade federal, observado o interesse geral da Administração Pública e o específico do Sistema Único de Saúde".
+6. Os documentos acostados nas fls. 23, 46/47, 85/87, 96,105,114, 119, 124, 131, 156 e 164, por sua vez, demonstram que os autores passaram a integrar o quadro de pessoal do Ministério da Saúde, órgão da União, restando evidente, portanto, a ilegitimidade do INSS para responder à presente demanda.
+7. Os honorários advocatícios devem ser fixados em R$ 1.500,00, nos termos do art. 20, § 4o, do CPC/1973.
+8. Agravo legal provido.
+Embargos de declaração foram rejeitados (e-STJ fls. 575/581).
+Nas suas razões, a parte recorrente aponta violação do art. 507 do CPC/2015. Sustenta que já se encontrava preclusa a matéria relativa à legitimidade passiva do ora recorrido, uma vez que já tratada em decisão julgada em primeira instância e não atacada em momento oportuno. Aduz que, mesmo nas matérias de ordem pública, há preclusão consumativa se houver decisão anterior definitivamente julgada. Por fim defende a aplicação da teoria da encampação ao caso.
+Apresentaram-se contrarrazões às e-STJ fls. 606/611.
+ Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 618/619.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu.
+ Incide, pois, o óbice da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/04/2017). No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso. VII - Agravo Interno improvido. (AgInt no REsp 1682293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 10/11/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/09/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
