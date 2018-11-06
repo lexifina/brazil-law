@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, fundado na alínea "a" do permissivo constitucional, em desfavor do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado, verbis:
+"PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. NULIDADE. AUSÊNCIA DE EXAME DE CORPO DE DELITO. DISPENSÁVEL. PROVA TESTEMUNHAL. PRELIMINAR AFASTADA. MATERIALIDADE E AUTORIA COMPROVADAS. CONDENAÇÃO MANTIDA. DOSIMETRIA DA PENA. CONFISSÃO ESPONTÂNEA EXTRAJUDICIAL. RECONHECIMENTO. SÚMULA 231/STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. "A ausência de perícia não acarreta, por si só, nulidade do feito, pois se mostra desnecessária a realização de exame pericial quando a falsidade pode ser verificada por outros meios de prova, conforme ocorreu no presente caso". Precedentes do STJ e do TJDFT.
+2. Comprovadas a autoria e a materialidade do crime da falsificação de documento público por meio de conjunto probatório sólido, inviável a tese de absolvição por estar provado que o acusado não concorreu para a prática do crime e por insuficiência de provas.
+3. A Súmula 545 do STJ dispõe: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no artigo 65, III, d, do Código Penal".
+4. Apelação criminal conhecida e parcialmente provida" (e-STJ, fls. 751-752)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fl. 790-805).
+O agravante alega, no especial obstaculizado, contrariedade aos arts. 158 e 386, IV, V e VII, do Código de Processo Penal.
+Aduz, em suma, que o documento supostamente falsificado não foi apreendido para a realização do exame de corpo de delito, devendo ser absolvido, ao argumento de que "a perícia realizada no computador não encontrou qualquer vestígio da prática criminosa, e que o único depoimento que citou o nome do Recorrente foi claro em dizer que este não concorreu para a consumação do crime" (e-STJ, fl. 813).
+Contrarrazões às fls. 847-853 (e-STJ).
+O recurso foi inadmitido em razão da incidência do óbice da Súmula 83 do STJ (e-STJ, fls. 855-856).
+O Ministério Público Federal manifesta-se pelo não provimento do agravo (e-STJ, fls. 887-890).
+É o relatório.
+Decido.
+Em relação à matéria tratada nos autos, o Tribunal de origem entendeu que:
+"A defesa, preliminarmente, pugna pela nulidade da sentença em razão da inexistência de prova da materialidade do crime.
+Aduz que o crime em análise deixa vestígio e é indispensável a prova pericial, bem como a apreensão do documento supostamente falso. Nesse sentido, a defesa alega que não existe nos autos o documento que teria sido falsificado, tampouco o exame de corpo de delito do referido documento.
+Para tanto, traz à baila o artigo 158 do Código de Processo Penal, que prevê ser indispensável a realização do exame de corpo de delito quando a infração penal deixar vestígios.
+Ocorre que é dispensável o laudo pericial para demonstração da falsidade do documento, podendo supri-lo a prova testemunhal.
+Nesse sentido, confira-se entendimento do Superior Tribunal de Justiça:
+(..).
+A materialidade do crime de falsificação de documento público resultou comprovada pelo Auto de Prisão em Flagrante n. 388/2012 - 11ª DP (fls. 8- 17 e 45-54); pelo Auto de Apresentação e Apreensão (fls. 22); pelo registro de Ocorrência Policial n. 6.562/2016-0 - 11ª DP (fls. 23-27); pelo Laudo de Perícia Criminal n. 24.579/12-IC - Exame de Informática (fls. 143-144); bem como pela prova oral integrada aos autos.
+De igual sorte, a autoria está evidenciada no conjunto probatório constante dos autos.
+Diante do exposto, infere-se das declarações do apelante e do informante do juízo que o acusado RICARDO tinha ciência de que o trabalho solicitado por RHADISON seria a confecção, ou mais precisamente, a "arte final" de permissões falsificadas para a utilização em veículos caracterizados com "táxis piratas". O apelante, inclusive, confessou perante a autoridade policial que confeccionou os documentos em duas oportunidades, a pedido de RHADISON.
+A Defesa postula pela absolvição do apelante, por estar provado que o apelante não concorreu para a prática do crime em exame e por inexistência de provas de sua participação.
+O conjunto probatório constante dos autos, especialmente as declarações do próprio acusado em sede policial, discorrendo, de forma clara e harmônica, a dinâmica dos fatos, ao contrário do alegado pela defesa, demonstra que o acusado RICARDO realmente concorreu para a confecção do documento público que seria utilizado em veículos caracterizados como táxis piratas.
+O depoimento do apelante, em sede extrajudicial, associado a outras provas produzidas sob o crivo dos princípios constitucionais do contraditório e da ampla defesa, pode ser empregado para manter a condenação do apelante.
+(..).
+Assim, considerando as declarações do apelante, em sede extrajudicial, bem como as declarações das testemunhas, resta evidente que o acusado tinha conhecimento que estava participando da confecção de documentos falsificados, razão pela qual concorreu de forma relevante para a consumação do crime.
+A despeito de o apelante ter negado, perante a autoridade judicial, a autoria delitiva, tal circunstância encontra-se isolada nos autos, o que lhe retira o condão de mitigar a veracidade das demais provas colhidas. A negativa da autoria na forma dos autos não pode, por si só, infirmar a tipicidade do delito perpetrado, mormente porque o apelante, na delegacia de polícia, no momento em que foi preso em flagrante e devidamente acompanhado por seu advogado, confessou a participação no crime e teceu diversos detalhes acerca de sua conduta delitiva, bem como foi delatado pelo informante RHADISON, que, inclusive, foi condenado, pelo mesmo crime, nos autos do Processo n. 20121110049036.
+Assim, a correspondente responsabilização penal constitui medida que se impõe, notadamente por inexistir qualquer circunstância que retire a ilicitude de sua conduta ou que o isente das penas, pois é imputável e detinha o potencial conhecimento acerca do caráter ilícito dos fatos, dele sendo exigido, portanto, comportamento diverso.
+No caso, o acervo probatório é harmônico e revela-se suficiente para fundamentar o decreto condenatório do réu" (e-STJ, fls. 750-765).
+Esta Corte Superior de Justiça possui entendimento de que "a inexistência de exame pericial não macula o decreto condenatório baseado em outros elementos de prova suficientes a amparar a pretensão acusatória".
+Confiram-se:
+"EMBARGOS DE DECLARAÇÃO. POSSIBILIDADE DE CONHECIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS.
+Visando a peça processual ao reexame da decisão monocrática, é possível, em atenção aos princípios da fungibilidade e da instrumentalidade das formas, seu conhecimento como agravo regimental, submetendo-a ao colegiado, nos termos do artigo 259 do Regimento Interno do Superior Tribunal de Justiça.
+FALSIFICAÇÃO DE DOCUMENTO PARTICULAR. EXAME DE CORPO DE DELITO. AUSÊNCIA. POSSIBILIDADE DE QUE A PROVA DA MATERIALIDADE DA INFRAÇÃO DECORRA DA CONSIDERAÇÃO DE OUTROS ELEMENTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ.
+1. Hipótese na qual as Instâncias de origem afastaram a arguida nulidade da ação penal em razão da ausência de realização de exame de corpo de delito no documento tido por falsificado, porquanto "a Caixa Econômica informou que a pessoa cujo nome consta do documento não é funcionária do banco, o que se mostra suficiente a atestar a falsidade".
+2. Esta Corte já firmou entendimento no sentido de que a inexistência de exame pericial não macula o decreto condenatório baseado em outros elementos de prova suficientes a amparar a pretensão acusatória.
+3. Incidência do óbice do Enunciado n.º 83 da Súmula do STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+4. Não tendo o insurgente apontado qualquer julgado recente desta Corte Superior capaz de desconstituir a conclusão da decisão ora objurgada, esta deve ser mantida por seus próprios fundamentos.
+NECESSIDADE DE REALIZAÇÃO DE PERÍCIA PARA CONSTATAÇÃO DE FALSIDADE MATERIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ÓBICE PREVISTO NO ENUNCIADO N.º 282 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. INSURGÊNCIA DESPROVIDA.
+1. A tese de que a perícia deveria ter sido realizada no documento para a constatação de falsidade material - com o objetivo de esclarecer se o papel utilizado para a confecção da carta de fiança é ou não da Caixa Econômica Federal - sequer foi alegada nas razões do recurso de apelação do agravante, razão pela qual não foi objeto de análise pelo Tribunal a quo, circunstância que impede sua apreciação por este Sodalício por ausência de prequestionamento.
+Inteligência do Enunciado Sumular n.º 282/STF.
+5. Insurgência desprovida."
+(EDcl nos EDcl no AREsp 894.045/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/11/2016, DJe 18/11/2016
+"PENAL E PROCESSO PENAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 1º, 4º E 5º DA LEI N. 9.296/1996. NÃO OCORRÊNCIA. INTERCEPTAÇÃO TELEFÔNICA. DECLINAÇÃO DE COMPETÊNCIA. NÃO INVALIDAÇÃO DA PROVA COLHIDA. NECESSIDADE DA MEDIDA EXCEPCIONAL. DECISÕES JUDICIAIS FUNDAMENTADAS. TRANSCRIÇÃO INTEGRAL DAS ESCUTAS. DESNECESSIDADE. PRECEDENTES DESTA CORTE E DO STF. AUTO CIRCUNSTANCIADO. PRESCINDIBILIDADE. VIOLAÇÃO DOS ARTS. 158 E 159 DO CPP. NÃO OCORRÊNCIA.
+1. O surgimento de outros investigados, em virtude de escuta, ainda que não submetidos à competência da Justiça que decretou a medida, não invalida a utilização do mencionado procedimento, o qual pode ser ratificado pelo Juízo competente.
+2. É válida a decisão que se ancora nos ditames da legislação vigente, não se podendo falar em ilegalidade quando, ainda que de modo sucinto, estão explicitadas a pertinência e a necessidade da interceptação telefônica.
+3. É assente nesta Corte que não há obrigatoriedade nem quanto à transcrição integral das interceptações telefônicas nem quanto à confecção do auto circunstanciado, razão pela qual não há falar em violação da norma infraconstitucional. Precedentes.
+4. A falta de perícia, por si só, não obstaculiza a constatação da falsidade documental, notadamente quando foi possível comprovar a existência do crime por outros elementos de prova permitidos por lei, os quais podem ser tão convincentes quanto o exame de corpo de delito.
+5. Recurso especial improvido."
+(REsp 1305836/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/02/2014, DJe 11/03/2014)
+Ademais, verifica-se que o acórdão recorrido decidiu com base em elementos probatórios disponíveis nos autos. Reexaminá-lo implicaria o revolvimento de matéria fática, inviável em sede de recurso especial, conforme orientação da Súmula 07/ STJ.
+A teor da uníssona jurisprudência deste Superior Tribunal de Justiça, inviável o apelo especial calcado na reavaliação do conjunto probatório colacionado nos autos.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALSIFICAÇÃO DE SELO OU SINAL PÚBLICO. USO DE DOCUMENTO FALSO. AUTORIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. 1. O Tribunal de origem, após a análise dos elementos colhidos no curso da ação penal, concluiu que o caderno processual ostenta provas aptas para condenar o recorrente pelos crimes de falsificação de selo ou sinal público e uso de documento falso que lhe foram imputados pela denúncia, destacando que a materialidade e autoria do denunciado ficou demonstrada pelas provas dos autos. 2. A desconstituição do julgado para se operar a absolvição pretendida pela defesa demandaria o revolvimento do material probante dos autos, providência exclusiva das instâncias ordinárias e vedada a este Sodalício no âmbito do recurso especial, conforme entendimento expresso no Enunciado n. 7 da Súmula do STJ.
+OCORRÊNCIA DE BIS IN IDEM NA CONDENAÇÃO. APLICAÇÃO DAS SUMULAS 7 DO STJ E 283 DO STF.
+1. A Corte a quo afastou a ocorrência de bis in idem, sob o fundamento de que as condutas imputadas ao recorrente na denúncia não foram julgadas na ação que o condenou pelo crime de sonegação de tributos.
+2. Nesse aspecto, o apelo especial não se presta a desconstituir o julgado e operar a absolvição pretendida, dada a necessidade de revolvimento do material probante, procedimento de análise exclusiva das instâncias ordinárias e vedado ao Superior Tribunal de Justiça, a teor do óbice constante do Enunciado n.º 7 da Súmula desta Corte.
+(..).
+(AgRg no REsp 1717036/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/08/2018, DJe 31/08/2018)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO ABSOLVIÇÃO. DIMINUIÇÃO DA PENA PECUNIÁRIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A conclusão das instâncias ordinárias, soberanas nos exames dos fatos, é a de condenação do agravante pelo cometimento do delito de falsificação de documento público, bem como de que a pena pecuniária foi devidamente imposta, porquanto a quantidade de dias-multa atendeu às circunstâncias judiciais e a fixação do seu valor observou a situação econômica do agravante. Modificar esse entendimento e acolher o pleito da defesa de absolvição do recorrente ou de diminuição da pena pecuniária, demandaria, necessariamente, o revolvimento do acervo fático-probatório, providência vedada pela Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido." (AgRg no AREsp 458.686/RS, de minha relatoria, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. ABSOLVIÇÃO. REEXAME DAS PROVAS. SÚMULA 7 DESTA CORTE SUPERIOR. AGRAVO DESPROVIDO.
+1. A pretendida absolvição do réu, por ausência de provas judiciais aptas a embasar o decreto condenatório, demanda o inevitável revolvimento das provas carreadas aos autos, o que encontra vedação no enunciado n. 7 da Súmula desta Corte.
+Agravo regimental desprovido."
+(AgRg no AREsp 903.804/GO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/04/2017, DJe 20/04/2017)
+" ..
+1. Após toda a análise do conjunto fático-probatório amealhado aos autos, o Tribunal de origem, ao concluir pela autoria dos agravantes em relação ao cometimento do crime  .. , sopesou a delação do corréu com diversas outras provas e depoimentos obtidos em juízo, submetidos, portanto, ao crivo do contraditório.
+2. Para modificar os fundamentos do acórdão recorrido e acolher o pedido de absolvição formulado pelos recorrentes, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+ ..
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido." (AgRg no AREsp 15211/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 30/06/2016, DJe 03/08/2016).
+Ante o exposto, nos termos do art. 932, VIII, do Código de Processo Civil, c/c art. 253, parágrafo único, II, a e b, do Regimento Interno do STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
