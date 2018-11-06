@@ -1,0 +1,75 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL. EXCLUSÃO DA QUALIFICADORA PELO TRIBUNAL A QUO. USURPAÇÃO DE COMPETÊNCIA DO TRIBUNAL DO JÚRI. VALORAÇÃO DA PROVA. DESPROVIMENTO.
+1. A exclusão de qualificadora constante na pronúncia somente pode ocorrer quando manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida.
+2. No caso, a vítima foi atingida por um tamborete de metal na cabeça, vindo a óbito, por ter dito que "não gostava de preto".
+ 3. Os fatos trazidos a esta Corte encontram-se incontroversos nos autos, não havendo que se falar no revolvimento do conjunto probatório, vedado a teor da Súm. n. 7/STJ, mas tão somente na revaloração da prova, o que é permitido na via do especial.
+4. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão que conheceu do agravo para dar provimento ao recurso especial, a fim de restabelecer, na sentença de pronúncia, a qualificadora prevista no art. 121, §2º, II, do Código Penal.
+Alega, em síntese, que "há provas cabais de que a conduta não se deu por motivo fútil, mas sim motivada por prévia, injusta e intensa agressão verbal fundada em preconceito de raça/cor praticada pela vítima" (e-STJ fl 398).
+Acrescenta que, para afastar a conclusão da Corte Estadual que excluiu a qualificadora, seria necessário o revolvimento do acervo probatório, inviável em recurso especial, a teor da Súm. n. 7/STJ.
+Pugna, ao final, pela reconsideração da decisão, ou seja, do feito submetido ao órgão colegiado, intimando-se o recorrente do dia do julgamento, a fim de realizar sustentação oral.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Inicialmente, destaco que o agravo regimental é apresentado em mesa, dispensando-se, assim, prévia comunicação da data de seu julgamento ao recorrente, que, inclusive, não tem prerrogativa de realizar sustentação oral, nos termos do art. 159, inciso IV, do Regimento Interno desta Corte de Justiça (AgRg nos EREsp 1374714/RN, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 05/09/2018, DJe 13/09/2018).
+No mérito, o agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça.
+Nesta Corte, firmou-se o entendimento de que a exclusão de qualificadora constante na pronúncia somente pode ocorrer quando manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida.
+No caso, a conduta delituosa foi assim narrada na proemial acusatória (e-STJ fl. 3):
+Extrai-se dos autos que no dia 02 de setembro de 2010, por volta das 18h30min, no estabelecimento comercial denominado "Trevos Bar", localizado na Rua 04, n. 113, Bairro São Cristóvão, nesta cidade, o denunciando [NOME], agindo de forma livre e consciente e imbuído de animus necandi, utilizando um tamborete de metal, com assento de madeira, descrito no auto de exibição e apreensão de fl. 37, mediante motivação fútil, consistente na desproporção da causa que motivou sua conduta, desferiu um golpe em desfavor da vítima [NOME], que a atingiu na região craniana ocasionando-lhe as lesões descritas no laudo de exame médico cadavérico de fls. 15/18, que foram a causa de sua morte.
+Consta dos inclusos autos de Inquérito Policial que, no dia dos fatos, o denunciando chegou ao estabelecimento comercial acima descrito por volta das 18h00min e passou a ingerir bebida alcoólica, sentado em um tamborete ao lado do balcão.
+Cerca de quinze minutos depois, a vítima chegou ao local dos fatos, pediu uma dose de pinga e saiu para fora do bar.
+Ato contínuo, [NOME] voltou para o interior do estabelecimento e disse que "não gostava de preto", se referindo a [NOME], ao que este pediu para a vítima o deixar em paz, o que foi causa suficiente para se iniciar uma discussão entre ambos.
+Tão logo se iniciou a discussão, o denunciando se apossou do tamborete em que estava sentado, e desferiu um golpe certeiro e fatal contra a cabeça da vítima, a qual caiu inconsciente no chão, evadindo-se em seguida do local dos fatos em sua bicicleta.
+Ora, a conduta descrita é suficiente para determinar que o Conselho de Sentença se manifeste a respeito da incidência ou não da qualificadora de que trata o art. 121, § 2º, II , do Código Penal, impedindo, ao menos nesta fase, seu afastamento.
+Nesse sentido, os seguintes precedentes:
+RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. PRONÚNCIA. QUALIFICADORAS. MOTIVO TORPE. RECURSO QUE IMPOSSIBILITOU A DEFESA DAS VÍTIMAS. AFASTAMENTO. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO CONSELHO DE SENTENÇA.
+1. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência do crime e de indícios de sua autoria, não se demandando aqueles requisitos de certeza necessários à prolação de um édito condenatório, sendo que as dúvidas, nessa fase processual, resolvem-se contra o réu e a favor da sociedade, conforme o mandamento contido no art. 413 do Código Processual Penal.
+2. Em respeito ao princípio do juiz natural, somente é cabível a exclusão das qualificadoras na decisão de pronúncia quando manifestamente descabidas, porquanto a decisão acerca da sua caracterização ou não deve ficar a cargo do Conselho de Sentença, conforme já decidido por esta Corte.
+3. Somente será possível a exclusão de qualificadora quando esta for manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri.
+4. In casu, o Tribunal de origem concluiu, contrariamente ao que registrado na decisão de pronúncia, que não havia indícios para a configuração das qualificadoras atinentes ao uso de recurso que dificultou a defesa da vítima e ao motivo torpe.
+5. Relato acusatório que dá conta de que os acusados, visando assegurar a exclusividade do patrocínio do tráfico de drogas, efetuaram disparos em direção à residência onde estavam as vítimas, com menção expressa a elementos de prova indicativas de que os réus teriam, em tese, cometido os delitos de homicídio tentado, mediante recurso que dificultou a defesa da vítima e por motivo torpe, não se revelando despropositada a submissão, ao Conselho de Sentença, da imputação da suposta prática do tipo descrito no art. 121, § 2º, incisos I e IV, c/c o art. 14, II, ambos do Código Penal. 6. Na fase de pronúncia, eventuais dúvidas estão sujeitas ao princípio in dubio pro societate, e devem ser dirimidas em momento próprio, pelo Conselho de Sentença, por ocasião do julgamento em plenário.
+7. Recurso provido. (REsp 1745982/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/09/2018, DJe 26/09/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL. EMPREGO DE MEIO CRUEL E MEDIANTE DISSIMULAÇÃO OU OUTRO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. PLEITO DE EXCLUSÃO DE QUALIFICADORAS. IMPOSSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que, "somente será possível a exclusão de qualificadora quando esta for manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri" (AgRg no AREsp n. 811.547/DF, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 15/3/2017).
+Agravo regimental desprovido. (AgRg no AgRg no AREsp 1165409/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/06/2018, DJe 20/06/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA. EMISSÃO DE JUÍZO DE VALOR PELO TRIBUNAL A QUO. COMPETÊNCIA. CONSELHO DE SENTENÇA. DISCUSSÃO ANTERIOR NÃO AFASTA O MOTIVO FÚTIL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é pacífica quanto ao entendimento de que não é possível afastar uma qualificadora por mera opção hermenêutica, de modo que o julgador somente pode retirar da pronúncia a qualificadora que objetivamente não exista, mas não a que subjetivamente considera não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença - juízo natural da causa - uma circunstância que, em análise objetiva, ao menos em tese e ante as evidências dos autos, tenha ocorrido.
+2. Na situação posta sob exame, por simples leitura do excerto do acórdão recorrido, é possível constatar que, para afastar a incidência da qualificadora, a Corte estadual invadiu a competência constitucional do Tribunal do Júri, pois emitiu juízo de valor a respeito da ausência de banalidade no motivo do delito.
+3. Ademais, o Superior Tribunal de Justiça tem assentado que a existência de discussão anterior ao cometimento do delito, entre vítima e acusado, por si só, não é suficiente para, de imediato, retirar da competência Tribunal Popular a decisão acerca do conhecimento do motivo fútil ao caso concreto.
+4. Agravo regimental não provido. (AgInt no REsp 1737292/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/09/2018, DJe 25/09/2018)
+Ressalte-se, por fim, que os fatos trazidos a esta Corte estão nos autos (denúncia e pronúncia), não havendo que se falar no revolvimento do conjunto probatório, vedado a teor da Súm. n. 7/STJ, mas tão somente na revaloração da prova, o que é permitido na via do especial.
+Confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DUPLO HOMICÍDIO TENTADO E QUALIFICADO. DANO QUALIFICADO. VIOLAÇÃO DO ART. 413, CAPUT E § 1º, DO CPP. DECISÃO DE PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. EXCLUSÃO DE QUALIFICADORA. RECURSO QUE DIFICULTOU A DEFESA DAS VÍTIMAS. ART. 121, § 2º, IV, DO CP. FUNDAMENTAÇÃO FRÁGIL. ELEMENTOS FÁTICOS QUE FIRMAM DÚVIDA PLAUSÍVEL ACERCA DA EXISTÊNCIA DA QUALIFICADORA. RESTABELECIMENTO. COMPETÊNCIA DO CONSELHO DE SENTENÇA. SÚMULA 7/STJ. INAPLICABILIDADE. REVALORAÇÃO.
+1. Segundo a jurisprudência deste Superior Tribunal, faz-se possível a exclusão de qualificadoras dispostas na decisão de pronúncia, desde que o decisum esteja devidamente fundamentado. No caso, isso não ocorreu, pois é evidente a fragilidade da justificativa apresentada pelo Tribunal de origem para o afastamento da qualificadora do recurso que dificulte a defesa das vítimas.
+2. Conclusão que não demandou nenhum reexame de provas, como afirma a defesa, mas apenas a revaloração das premissas fáticas adotadas pelo próprio acórdão impugnado. Não sendo o caso, pois, de cogitar do óbice da Súmula 7/STJ.
+3. Agravo regimental improvido. (AgRg no REsp 1438212/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/11/2015, DJe 25/11/2015).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. SÚMULA N. 7 DO STJ. NÃO INCIDÊNCIA. DECISÃO DE PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO CONSELHO DE SENTENÇA. IN DUBIO PRO SOCIETATE. AGRAVO NÃO PROVIDO.
+1. Não se aplica o enunciado da Súmula n. 7 do STJ quando ocorre apenas a revaloração da prova na via especial, sem que a controvérsia esbarre no revolvimento probatório.
+2. A exclusão de qualificadoras na decisão de pronúncia somente é cabível quando manifestamente improcedente ou descabida, o que não é o caso dos autos, nos termos do próprio acórdão impugnado.
+3. A existência de dúvidas razoáveis quanto ao pleito da acusação deve ser dirimida pelo Conselho de Sentença.
+4. Agravo regimental não provido. (AgRg no REsp 1156770/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/02/2015, DJe 20/02/2015).
+Em situação bem semelhante, ponderou o eminente Ministro Marco Aurélio Bellizze, com clareza meridiana, a necessidade do pronunciamento do Conselho de sentença:
+HABEAS CORPUS Nº 232.814 - SP (2012/0024367-7)
+RELATOR : MINISTRO MARCO AURÉLIO BELLIZZE
+IMPETRANTE : [NOME]
+ADVOGADO : [NOME]
+IMPETRADO : TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+PACIENTE : [NOME]
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontada como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Tem-se dos autos que o paciente foi denunciado pela suposta práticado delito tipificado no artigo 121, § 2º, incisos II e IV, do CódigoPenal. Encerrada a fase instrutória, o paciente foi pronunciado pelaconduta descrita no artigo 121, caput, do mesmo diploma legal.
+Irresignada, a acusação interpôs Recurso em Sentido Estrito, o qual foi provido pelo Tribunal de origem, para fazer incluir as qualificadoras do motivo fútil e da utilização do recurso quedificultou a defesa da vítima, na sentença que pronunciou opaciente.
+Daí a presente impetração, na qual se alega ausência de fundamentação na decisão impugnada e de apreciação das teses defensivas. Argumenta que "pela leitura do acórdão verifica-se que não há a indicação dos motivos de direito em que se funda a decisão,tampouco a indicação dos artigos de lei aplicados." (fl. 4)
+Diante disso, requer, em tema liminar a suspensão do julgamento do paciente pelo Tribunal do Júri, designado para o dia 13 de fevereiro de 2012, até o julgamento final do presente writ. No mérito, pugna pelo reconhecimento da nulidade do acórdão, ante a falta de fundamentação.
+É o relatório.
+(..) .Ademais, pela perfunctória leitura do acórdão impugnado, primo ictuoculi, não se verifica o alegado constrangimento ilegal, pois, na analise do caso, asseverou o Tribunal a quo que "É certo que a prova colhida até a presente fase demonstra suficientemente as qualificadora imputadas, inclusive o motivo fútil, revelado pela existência de discussão entre o réu e a vítima decorrente de preconceito, motivo insignificante, mesquinho, manifestamente desproporcional em relação ao resultado, devendo a matéria ser submetida ao Conselho de Sentença. Por outro lado, a prova demonstra também que a vítima foi agredida pelas costas, o que tornou impossível a defesa da vítima, configurando-se a qualificadora afastada, impondo-se a análise pelo Tribunal do Júri" (fl. 35).
+Assim, imperioso um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo a ser efetuado pelo Juízo natural da causa, valendo, a mais, ressaltar que a análise do pleito preambular confunde-se com o próprio mérito da impetração (..) - DJe 13/02/2012.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
