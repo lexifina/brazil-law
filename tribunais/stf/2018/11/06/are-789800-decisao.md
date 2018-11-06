@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “DIREITO CONSTITUCIONAL, ECONÔMICO E TRIBUTÁRIO - COFINS - LEI FEDERAL N° 9718/98: ARTIGO 3°, § 2°, INCISO III - REGULAMENTAÇÃO - INOCORRÊNCIA - REVOGAÇÃO - VALIDADE. 1. O artigo 3°, § 2°, inciso III, da Lei Federal nº 9.718/98, revogado pela Medida Provisória no 1991-18/2000, não produziu efeitos, pois, dependia de regulamentação. 2. Apelação improvida”. (eDOC 3, p. 52).
+    Foram opostos embargos de declaração que restaram rejeitados (eDOC 3, p. 64).
+    No recurso extraordinário (eDOC 3, p. 83-97), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXII, LIV e LV; 102, II, “a”; 150, I; 195, I e 246, do texto constitucional.
+    Nas razões recursais, alega-se que “o Ato Declaratório da SRF nº 56/2000 confirmou tacitamente o entendimento de que o artigo 3°, § 2°, inciso III, da Lei 9.718/98 é auto-aplicável, pois se não o fosse, desnecessário seria a referida declaração de ineficácia”. (eDOC 3, p. 95).
+    Aduz ainda, o direito à compensação dos excessos supostamente recolhidos de forma indevida.
+    Decido.
+    A irresignação não merece prosperar.
+    Preliminarmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Federal nº 9.718/98 e Medida Provisória nº 1991-18/2000) e o conjunto probatório constante dos autos, consignou que não deveria ser excluído do cálculo da receita bruta para incidência de PIS e CONFINS os valores que, computados como receita, tenham sido transferidos para outra pessoa jurídica, uma vez que, o artigo 3º, §2º, III, da Lei Federal nº 9.718/98 não produziu efeitos jurídicos, em razão de ter sido revogado pela MP 1991-18/2000.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O Senhor Juiz Federal Convocado Leonel Ferreira: artigo 3.°, § I 2.°, inciso I1I, da Lei Federal nº 9.718/98, determinava a exclusão, da receita bruta, para cálculo da contribuição, dos "valores que, computados como receita, tenham sido transferidos para outra pessoa jurídica".
+    No entanto, o comando legal dependia, expressamente, de norma regulamentadora expedida pelo Poder Executivo, nunca editada.
+    A Medida Provisória nº 1991-18/2000, posteriormente, revogou o dispositivo legal.
+    (…)
+    Desta forma, o artigo 3.°, § 2.°, inciso III, da Lei Federal nº 9.718/98, não produziu efeitos jurídicos”. (eDOC 3, p. 49-51)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. PIS/COFINS. VALORES REPASSADOS A TERCEIROS. INCIDÊNCIA. 1. Reveste-se de caráter infraconstitucional a discussão relativa à incidência de PIS e COFINS sobre valores transferidos a terceiros. Precedentes. 2. Agravo regimental a que se nega provimento, com previsão de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC, e majoração de honorários advocatícios, nos termos do art. 85, § 11, do CPC, observados os limites dos §§ 2º e 3º do mesmo dispositivo”. (ARE 1088936 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 13.4.2018).
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA PIS E COFINS. BASE DE CÁLCULO. EMPRESA INTERMEDIADORA DE PRESTAÇÃO DE SERVIÇOS. VALORES REPASSADOS A TERCEIROS. MATÉRIA DESTITUÍDA DE RESSONÂNCIA CONSTITUCIONAL. PRECEDENTES. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.9.2007. A teor dos precedentes desta Corte, a controvérsia sobre a exclusão de valores transferidos a terceiros da base de cálculo da contribuição para o PIS e a COFINS é restrita à análise da legislação infraconstitucional pertinente. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido”. (AI 719020 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20.11.2014).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, “a” do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
