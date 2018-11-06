@@ -1,0 +1,12 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0006869-89.2018.8.24.0038, em que foi cassada a decisão que incluiu o apenado no sistema de monitoramento eletrônico, dada a ausência de vagas em estabelecimento compatível como regime semiaberto.
+A defesa assere que "a ilegalidade, no caso dos autos é latente, tendo em vista a determinação da Autoridade Coatora do cumprimento, pelo paciente, da reprimenda em regime mais gravoso daquele legalmente atribuído ao seu caso concreto" (fl. 8, grifei), razão pela qual requer o restabelecimento da decisão primeva.
+Decido.
+Na espécie, conforme destacado pela própria Corte de origem, o Juízo de primeiro grau, ao conceder o benefício da prisão domiciliar, salientou que "no Presídio Regional de Joinville os detentos do regime semiaberto permanecem juntos aos detentos do regime fechado e aos presos em caráter provisório, sem oferta oficial de trabalho" (fl. 14, grifei).
+Com efeito, em sessão de julgamento realizada no dia 11/5/2016, o Supremo Tribunal Federal, ao reconhecer a repercussão geral nos autos do RE n. 641.320/RS, de relatoria do Ministro Gilmar Mendes, reafirmou que a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso.
+Tal compreensão resultou consolidada na Súmula Vinculante n. 56 do Supremo Tribunal Federal, in verbis: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS".
+É imperioso destacar que não é bastante a concessão de benesses relativas ao regime imposto ao sentenciado, consoante o entendimento do Pretório Excelso, "não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado".
+Portanto, não pode o preso permanecer em regime mais gravoso do que aquele a que progredido, em ala compartilhada com detentos do regime fechado, sem direito aos benefícios do intermediário, enquanto não se conclua a providência quanto à localização de vagas em estabelecimento adequado.
+Trata-se de deficiência do sistema carcerário estatal, em afronta ao princípio da dignidade da pessoa humana. Não é adequado que o paciente permaneça em situação mais severa devido à omissão do Estado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem para restabelecer a decisão de primeiro grau.
+Publique-se e intimem-se.
