@@ -1,0 +1,56 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. LATROCÍNIO TENTADO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A prisão cautelar, como cediço, é medida excepcional de privação de liberdade que somente poderá ser adotada quando as circunstâncias do caso concreto, devidamente fundamentadas no art. 312 do Código de Processo Penal, demonstrarem a sua imprescindibilidade. Contudo, justificada a custódia, inviável a liberação do acusado.
+2. In casu, a constrição cautelar se encontra amparada em elementos concretos apontados pelas instâncias ordinárias, em especial a periculosidade do recorrente, evidenciada no modus operandi do delito, praticado em concurso de agentes, um deles menor de idade, no interior de residência, com agressão a dois idosos com barra de ferro e chutes, o que deixou uma das vítimas incapacitada por mais 30 dias, aliado ao fato de terem os acusados ateado fogo na residência.
+3. Não há que se falar em ausência de contemporaneidade da prisão quando, no curso das investigações, surgiram os indícios de que o recorrente estaria envolvido na empreitada criminosa, levando, assim, ao requerimento e decretação da prisão preventiva.
+4. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão proferido pela Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais, que denegou a ordem do HC n. 1.0000.18.063794-4/000, nos termos da seguinte ementa (fl. 327):
+HABEAS CORPUS. LATROCÍNIO TENTADO E CORRUPÇÃO DE MENORES. LIBERDADE PROVISÓRIA. IMPOSSIBILIDADE. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. GRAVIDADE EM CONCRETO DO DELITO. GRAVE VIOLÊNCIA E CRUELDADE EMPREGADA CONTRA AS VÍTIMAS. GARANTIA DA ORDEM PÚBLICA. PRESENÇA DOS REQUISITOS DA PRISÃO PREVENTIVA DO ARTIGO 312 DO CPP. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. ORDEM DENEGADA.
+- Estando devidamente fundamentada a decisão que determinou a prisão preventiva e demonstrada a necessidade de garantia da ordem pública, mormente pela gravidade em concreto do delito, perpetrado mediante violência contra duas vitimas idosas, a segregação cautelar se impõe.
+- A prisão preventiva funciona com a finalidade de prevenção, e não com a de punição, que é característica apenas da prisão definitiva.
+- Ordem denegada.
+Afirma da defesa que o recorrente permaneceu solto desde a data do evento trazido na denúncia, sem que haja nos autos notícias de que sobrevieram razões que justificassem a decretação de sua prisão preventiva, seja de ordem pública, seja de risco a instrução criminal (fl. 340).
+Alega, ainda, que a decisão que decretou a prisão preventiva data venia, deixou de demonstrar cabalmente a necessidade da prisão, e assim continuou o v. acórdão e as medidas previstas no art. 319 do Código de Processo Penal, são perfeitamente adequadas ao caso presente, tanto que está há mais de um ano em liberdade e nada ocorreu que presumisse perigo da instrução criminal (fl. 343).
+Requer, assim, o provimento do recurso para determinar imposição de outras medidas cautelares diversas da prisão como comparecimento periódico em juízo (art. 319, I, do CPP), recolhimento domiciliar no período noturno e nos dias de folga, (art. 319, V, do CPP), proibição de se ausentar da comarca sem prévia autorização judicial (art. 319, IV, do CPP), medidas estas suficientes e adequadas ao caso concreto (fl. 346).
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso (fls. 376/379).
+As informações obtidas, em 17/10/2018, na página eletrônica do Tribunal de origem dão conta de que o ora recorrente permanece custodiado e não houve prolação de sentença (Ação Penal n. 0054418-10.2017.8.13.0112).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca o presente recurso a revogação da prisão preventiva do recorrente.
+A prisão cautelar, como cediço, é medida excepcional de privação de liberdade que somente poderá ser adotada quando as circunstâncias do caso concreto, devidamente fundamentadas no art. 312 do Código de Processo Penal, demonstrarem a sua imprescindibilidade.
+Contudo, justificada a custódia, inviável a liberação do acusado.
+O Juízo da Vara Criminal da comarca de Campo Belo/MG, ao receber a denúncia, decretou a prisão preventiva do recorrente, nos seguintes termos (fls. 309/310 - grifo nosso):
+ ..
+A d. autoridade policial representou pela prisão preventiva dos denunciados, conforme se vê do relatório de ff.134/141.
+O Ministério Público, nesta data, ofereceu denúncia e também requereu a decretação da prisão preventiva, pelos fundamentos expostos às ff.143/147.
+Ressai da denúncia que no dia 31 de março de 2017, por volta das 19h, na propriedade intitulada "Fazenda Betitas", zona rural do município de Santana do Jacaré/MG, os denunciados, atuando em comunhão de esforços e unidade de desígnios com o adolescente M.L.M, subtraíram, em proveito comum, mediante violência exercida com emprego de arma em face dos ofendidos [NOME] e [NOME], maiores de 60 (sessenta) anos, a quantia de R$20,00 (vinte reais) em dinheiro, 1 (um) tacho de cobre, 2 (duas) bicicletas das marcas "Caloi" e "Monark", 1 (um) facão, 1 (um) saco branco, 1 (uma) lona preta e várias panelas, tudo pertencentes às vítimas.
+Infere-se da exordial que em decorrência da exacerbada violência empregada pelos agentes, infligiu-se à vítima [NOME] lesão corporal de natureza grave.
+Dessume-se dos elementos de convicção que os codenunciados, com identidade de propósitos e repartição de tarefas, logo depois, com emprego de substância inflamável, destruíram o referido imóvel residencial, bem assim os bens móveis que o guarneciam.
+Depreende-se da denúncia que, naquele ensejo, os denunciados facilitaram a corrupção do menor [NOME], com ele praticando as infrações penais aludidas (roubo e dano qualificados).
+Aquilata-se da exordial que os codenunciados e o inimputável, previamente conluiados, romperam a porta de entrada e lograram ingressar na morada. Na seqüência, golpearam o ofendido [NOME] com uma barra de ferro, resultando-lhe incapacidade para as ocupações habituais por mais de 30 (trinta) dias, e desferiram chutes na vítima [NOME].
+Na sequência, os agentes atearam fogo na residência e evadiram do local na posse da res furtiva.
+Os boletins de ocorrência de ff.03/08, 37/39, 82/84, exame corporal (ff.61/68, 108/114), oitivas dos envolvidos e autos de reconhecimento (ff. 09/17, 19/20, 22/24, 32/36, 40/42, 45/60, 102/105, 119/120), laudo pericial do local dos fatos (ff.89/99); auto de apreensão (f.86) e relatórios policiais (ff. 25/31, 69/75, 77/80, 134/141), comprovam a materialidade delitiva e fortes indícios de autoria.
+Presentes os requisitos, passo à análise da presença ou não de um dos quatro pressupostos da prisão preventiva à luz das alterações trazidas pela Lei 12.043/11.
+O modus operandi do delito remete à periculosidade dos seus agentes. Conforme visto, o crime foi praticado em concurso de pessoas, com emprego de arma, mediante grave ameaça e agressão violenta às vitimas idosas, denotando a gravidade da conduta.
+Ademais, as vitimas reconheceram os acusados como sendo os autores da prática do delito.
+Aliado a isto, o histórico criminal do acusado [NOME] denota que renitiu na prática de crimes graves, uma vez que responde a ação penal pelo cometimento, em 11/01/2018, dos crimes de roubo tentado e corrupção de menores, consoante se infere da CAC acostada às ff. 148.
+Assim, a aplicação de medidas cautelares diversas da prisão não surtiriam efeito, in casu, pois não seriam suficientes para coibi-los de novas práticas delituosas.
+Tais circunstâncias revelam a necessidade da cautelar custódia para garantir a ordem pública, evitando-se a reiteração delituosa.
+Portanto, ao que emerge dos presentes autos, os requisitos e pressupostos para decretação da medida, conforme acima fundamentado, em face dos denunciados, são evidentes.
+ ..
+O Tribunal a quo manteve a segregação cautelar, asseverando que (fls. 330/332):
+ ..  As circunstâncias do crime evidenciam que a manutenção do agente no cárcere é necessária, tendo em vista a gravidade em concreto do delito, pois o paciente e seus comparsas, em tese, a fim de subtrair os bens que guarneciam a residência das vítimas, valeram-se de modus operandi gravíssimo, tendo agredido um idoso com golpes de uma barra de ferro, o que demonstra um alto grau de reprovabilidade de sua conduta, bem como denota a sua periculosidade.
+Além de terem empregado grave ameaça e agressão violenta ás vítimas idosas, os autos também deram conta que os agentes, supostamente, atearam fogo na residência dos ofendidos, o que demonstra total descaso com o que poderia acontecer com os idosos que ali estavam naquele momento.
+ ..
+Portanto, não acredito estar havendo nos presentes autos nenhuma ilegalidade na prisão, eis que se encontra devidamente sustentada tanto nas circunstâncias do crime quanto nos motivos da prisão preventiva, sobretudo, diante do emprego de violência e crueldade contra dois idosos, como acima já explanado.
+Nesse contexto, entendo ser irrelevante o fato de a prisão cautelar ter sido decretada um ano após os fatos, eis que a intensa gravidade do delito revela a periculosidade do paciente, de modo que a ordem pública deve ser garantida, a fim de evitar a prática de outros delitos e de possíveis investidas, inclusive, contra as próprias vítimas, que devem ter sua integridade física e psicológica protegidas.
+ ..
+Como visto, a constrição cautelar se encontra amparada em elementos concretos apontados pelas instâncias ordinárias, em especial a periculosidade do recorrente, evidenciada no modus operandi do roubo, praticado em concurso de agentes, um deles menor de idade, no interior de residência, com agressão a dois idosos com barra de ferro e chutes, o que deixou uma das vítimas incapacitada por mais 30 dias, aliado ao fato de terem os acusados ateado fogo na residência.
+Assim, inexiste constrangimento ilegal na segregação cautelar do ora recorrente, porquanto devidamente fundamentada em dados concretos do delito, justificando-se por razões de ordem pública, ante a gravidade da prática delitiva.
+Ademais, não há que se falar em ausência de contemporaneidade da prisão quando no curso das investigações surgiram os indícios de que o recorrente estaria envolvido na empreitada criminosa, levando, assim, ao requerimento e decretação da prisão preventiva.
+Ademais, demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal (RHC n. 69.035/ES, Ministro Jorge Mussi, Quinta Turma, DJe 14/11/2017).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
