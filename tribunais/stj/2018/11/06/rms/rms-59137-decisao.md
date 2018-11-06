@@ -1,0 +1,35 @@
+DECISÃO
+Cuidam os autos, originariamente, de mandado de segurança impetrado pelo Município de Águas de Santa Bárbara/SP, contra ato judicial atribuído à Juíza de Direito do Setor de Execução Fiscal da Comarca de Cerqueira César/SP, que teria indevidamente extinguido a execução fiscal movida nos autos do Processo 0501259-75.2008.8.26.0136 (nº de ordem 3249/2008), com fundamento no baixo valor cobrado.
+O Tribunal de Justiça do Estado de São Paulo denegou a segurança nos termos resumidos na seguinte ementa (fl. 30):
+Mandado de segurança. Execução fiscal de valor inferior ao limite de alçada. Execução fiscal extinta nos termos do art. 267, VI, do CPC/1973. Embargos Infringentes rejeitados. Mandado de segurança que visa reformar a sentença e assegurar o direito de prosseguimento da execução fiscal. Impossibilidade. Inteligência das Súmulas 640 e 267 do STF. Não cabimento do Mandado de Segurança como sucedâneo de recurso que não foi interposto. Admissibilidade do Mandado de Segurança que desprezaria toda a sistemática legislativa reservada para as execuções fiscais de pequeno valor e faria com que justamente nas execuções fiscais de menor relevância se tivesse um número ainda maior de instrumentos de impugnação das decisões judiciais. Posição recente da Primeira e da Segunda Turma do STJ sobre o tema. Respeito ao princípio da colegialidade. Segurança denegada (artigo 6º, § 5º, e 10, ambos da Lei 12.016/2009).
+No recurso ordinário, a parte recorrente sustenta, em síntese, que:
+(I) a restrição imposta pela Lei n.º 12.016/2009 ao manejo do mandado de segurança é condicionada ao cabimento de recurso dotado de efeito suspensivo, o que, evidentemente, não se verifica no presente caso;
+(II) o cancelamento do débito por baixo valor é ato privativo da Fazenda Pública, o que se dá após a verificação administrativa dos custos da cobrança, não podendo o Magistrado substituir o Administrador Público nesse mister; e
+(III) a extinção das execuções fiscais de pequeno valor constitui-se violação de direito líquido e certo da Fazenda Pública, que, a teor do art. 2º, § 1º, da Lei Federal 6.830/1980, deve ajuizar execução fiscal para cobrança de qualquer valor.
+Requer, por fim, o provimento do presente recurso ordinário.
+Sem contrarrazões ao recurso, conforme certidão de fl. 59.
+O Ministério Público Federal, em parecer de fls. 69/76, opina pelo não provimento do recurso.
+É o relatório.
+O recurso ordinário não merece acolhimento.
+Inicialmente, verifica-se que o caso dos autos se enquadra na situação prevista no art. 34 da LEF, verbis:
+Art. 34 - Das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a 50 (cinqüenta) Obrigações Reajustáveis do Tesouro Nacional - ORTN, só se admitirão embargos infringentes e de declaração.
+§ 1º - Para os efeitos deste artigo considerar-se-á o valor da dívida monetariamente atualizado e acrescido de multa e juros de mora e de mais encargos legais, na data da distribuição.
+§ 2º - Os embargos infringentes, instruídos, ou não, com documentos novos, serão deduzidos, no prazo de 10 (dez) dias perante o mesmo Juízo, em petição fundamentada.
+§ 3º - Ouvido o embargado, no prazo de 10 (dez) dias, serão os autos conclusos ao Juiz, que, dentro de 20 (vinte) dias, os rejeitará ou reformará a sentença.
+Esse dispositivo legal afirma que, em se tratando de execução fiscal de pequeno valor (igual ou inferior a 50 ORTN), da sentença proferida só serão cabíveis os recursos de embargos de declaração e embargos infringentes. E, por força do art. 102, III, da CF, se houver questão constitucional discutida, da decisão que julgou os embargos infringentes seria admissível a interposição de recurso extraordinário. Verifica-se, assim, que a intenção do legislador foi restringir o uso de recursos nessas hipóteses.
+Em casos análogos, as Turmas que compõem a Primeira Seção deste STJ consolidaram entendimento no sentido de que só seriam cabíveis os embargos infringentes de sentença proferida no âmbito das execuções fiscais previstas no art. 34 da Lei 6.830/80, regra excepcionada apenas pelo eventual cabimento de recurso extraordinário, quando houvesse questão constitucional debatida.
+Vejam-se os julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. EMBARGOS INFRINGENTES DE ALÇADA. INADMISSIBILIDADE DA MANDAMENTAL. PRESCRIÇÃO. INÉRCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. DESNECESSIDADE DE INTIMAÇÃO DA FAZENDA PÚBLICA. RECURSO REPETITIVO.
+1. As Turmas de Direito Público desta Corte reajustaram a compreensão para não admitir o cabimento de mandado de segurança contra decisão que julga os embargos infringentes disciplinados na Lei n. 6.830/80. Precedentes: RMS 37.794/MG, de minha relatoria, Segunda Turma, DJe 8/6/2016; AgRg no RMS 36.503/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 28/4/2015; AgRg no RMS 47.452/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/3/2015; AgRg no RMS 47.099/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 4/3/2015.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no RMS 50.271/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 12/08/2016)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. EXECUÇÃO FISCAL DE PEQUENO VALOR. SENTENÇA EXTINTIVA. EMBARGOS INFRINGENTES REJEITADOS. WRIT IMPETRADO COMO SUCEDÂNEO RECURSAL E CONTRA DECISÃO JUDICIAL TRANSITADA EM JULGADO. IMPOSSIBILIDADE.
+1. A jurisprudência das Turmas de Direito Público firmou o entendimento de que a sentença proferida no âmbito de execução fiscal de pequeno valor somente pode ser desafiada pelos embargos infringentes dirigidos ao mesmo Juízo (art. 34 da Lei n. 6.830/1980) e, remanescendo controvérsia de natureza constitucional, pelo recurso extraordinário (art. 102, III, da CF), sendo descabida a impetração do mandamus perante a Corte de segunda instância, porquanto, via de regra, confirmada na espécie, ele é manejado como mero sucedâneo de apelação, infringindo, assim, o subsistema recursal da Lei de Execuções Fiscais, que preconiza o encerramento da fase ordinária ainda na primeira instância.
+2. Hipótese, ademais, em que não cabe mandado de segurança contra decisão judicial transitada em julgado (art. 5º, III, da Lei n.
+12.016/2009 e Súmula 268 do STF).
+3. Agravo regimental não provido.
+(AgRg no RMS 44.746/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 04/08/2016)
+No caso, o recorrente pretende desconstituir decisão judicial que extinguiu execução fiscal. Dessa forma, mostra-se incabível o mandado de segurança impetrado que, na hipótese em exame, não pode ser empregado como sucedâneo recursal, nos termos da Súmula 267/STF (Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.).
+Diante do exposto, nego provimento ao recurso ordinário.
+Publique-se.
