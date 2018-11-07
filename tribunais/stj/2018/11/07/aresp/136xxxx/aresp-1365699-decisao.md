@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] Zanin, inconformado com a decisão que inadmitiu o recurso especial contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo e assim ementado:
+Apelação. Ação de despejo c.c. cobrança de aluguéis. Verbas de sucumbência.
+1. Desistência da ação. Pedido para extinção do feito formulado pela parte autora. Ausência de comprovante de quitação do débito suscitado em sede inicial.
+2. Correta extinção do feito com base no artigo 485, inciso VIII, do Código de Processo Civil. Incidência do artigo 90, do Código de Processo Civil. Dever do autor de suportar os ônus de sucumbência.
+3. Honorários advocatícios fixados em primeiro grau em 10% (dez por cento) sobre o valor da causa, nos termos do artigo 85, §2º, do CPC.
+4. Sucumbência recursal, ante o não provimento do recurso do autor. Condenação ao pagamento de honorários recursais.
+Recurso não provido.
+Nas razões do recurso especial, o ora agravante aponta afronta aos artigos 85, § 10, 86, caput e parágrafo único, e 90 do CPC/2015, ao argumento de que a parte agravada teria dado causa ao processo e seria ela a responsável pelo ônus da sucumbência. Nessa linha, defende que "não houve desistência pura e simples, houve reconhecimento do direito por parte da Ré/Recorrida, que após ter sido compelida na demanda judicial de despejo por falta de pagamento, adiantou o resultado útil do processo, entregando as chaves do imóvel" (fl. 111). Aponta, ainda, divergência sobre o tema.
+É o relatório.
+Quanto à responsabilidade pelo pagamento de honorários nos casos em que o feito é extinto sem resolução do mérito, a regra é ela que seja fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PAGAMENTO DO DÉBITO POR TERCEIRO. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO, POR PERDA SUPERVENIENTE DE INTERESSE PROCESSUAL. CONDENAÇÃO AO PAGAMENTO DOS ÔNUS DA SUCUMBÊNCIA.
+1. Ação ajuizada em 19/12/2012. Recurso especial concluso ao gabinete em 25/08/2016. Julgamento: CPC/73.
+2. Cinge-se a controvérsia em determinar se a recorrente deve ser condenada ao pagamento dos ônus da sucumbência quando a ação de cobrança na qual figura como ré foi julgada extinta, sem resolução de mérito, em virtude de pagamento efetuado por terceiro.
+3. Em função do princípio da causalidade, nas hipóteses de extinção do processo sem resolução de mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à instauração do processo deverá suportar o pagamento das custas e dos honorários advocatícios. Precedentes.
+4. Sendo o processo julgado extinto, sem resolução de mérito, cabe ao julgador perscrutar, ainda sob a égide do princípio da causalidade, qual parte deu origem à extinção do processo sem julgamento de mérito, ou qual dos litigantes seria sucumbente se o mérito da ação fosse, de fato, julgado. Precedentes.
+5. A situação versada nos autos demonstra que é inviável imputar a uma ou a outra parte a responsabilidade pelos ônus sucumbenciais, mostrando-se adequado que cada uma das partes suporte os encargos relativos aos honorários advocatícios e às custas processuais, rateando o quantum estabelecido pela sentença.
+6. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+(REsp 1.641.160/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/03/2017, DJe de 21/03/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "Em função do princípio da causalidade, nas hipóteses de extinção do processo sem resolução do mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios" (AgRg no REsp n. 1.001.516/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/12/2014, DJe 06/2/2015.) 2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, concluiu que não ficou demonstrado que o corréu teria dado causa à instauração do processo. Alterar esse entendimento é inviável em recurso especial, ante o óbice da referida súmula.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 898.601/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/08/2016, DJe de 17/08/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SUPOSTA AFRONTA AO ART. 20, § 4º, DO CPC/73. SUCUMBÊNCIA. REDIMENSIONAMENTO. DESCABIMENTO. AGRAVO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Nas hipóteses de extinção do processo sem resolução do mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+3. No caso dos autos, de acordo com o contexto fático delineado pelo acórdão recorrido, os agravantes deram causa ao ajuizamento da ação de cobrança que foi extinta sem resolução do mérito por perda de objeto, razão pela qual não há que se impor ao agravado os ônus de sucumbência.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.018.133/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/04/2017, DJe de 23/05/2017)
+PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO DE ALIMENTOS. QUITAÇÃO. EXTINÇÃO COM BASE NO ARTIGO 794, I, DO CPC. FIXAÇÃO DE VERBA DE SUCUMBÊNCIA. ALEGAÇÃO DE QUITAÇÃO DA DÍVIDA ANTES DA CITAÇÃO. PAGAMENTO SOMENTE APÓS A PROPOSITURA DA EXECUÇÃO.
+HONORÁRIOS ADVOCATÍCIOS MANTIDOS EM RAZÃO DO PRINCÍPIO DA CAUSALIDADE.
+1. Segundo o princípio da causalidade, aquele que der causa à instauração da demanda ou do incidente processual deve arcar com as despesas deles decorrentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 759.959/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/09/2015, DJe de 28/09/2015)
+Ocorre que, no caso dos autos, a parte agravante noticiou a desocupação do imóvel sem que fosse quitados os débitos, bem como o interesse na extinção do feito (fl. 53), o que configura, não o mero reconhecimento do direito por parte da agravada, mas, sim, a parcial desistência da ação a atrair a aplicação do artigo 90, § 1º, do CPC/2015, segundo o qual, sendo parcial a desistência, a renúncia ou o reconhecimento, a responsabilidade pelas despesas e pelos honorários será proporcional à parcela reconhecida, à qual se desistiu.
+De fato, se foram dois os pedidos na demanda (o despejo e o pagamento dos aluguéis) e se a parte autora, na mesma causa, abdicou da obrigação de pagar, pleiteando a extinção do processo a fim de promover execução com base no título extrajudicial, não existe outra conclusão, senão a no sentido de que houve a parcial desistência.
+Nessa linha, merece reforma o acórdão que manteve a sentença a qual condenou o agravante ao pagamento das custas processuais já despendidas e aos honorários na importância de 10% do valor da causa.
+Por conseguinte, em atenção ao princípio da causalidade, tendo em vista o reconhecimento de parte do direito pela agravada e a desistência parcial da agravante, cada parte arcará com 50% das custas. Condeno, ainda, cada parte ao pagamento de honorários advocatícios, os quais fixo no valor de 10% sobre o valor atualizado da causa, vedada a compensação, forte nos artigos 85, §§ 2º e 14, e 86, caput, do CPC/2015.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
