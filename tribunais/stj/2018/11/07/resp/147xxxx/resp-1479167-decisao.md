@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGF BRASIL SEGUROS S/A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AÇÃO DE COBRANÇA REGRESSIVA. CUMPRIMENTO DE SENTENÇA. BENS PENHORÁVEIS. NÃO LOCALIZAÇÃO. PEDIDO DE SUSPENSÃO. SINE DIE. IMPOSSIBILIDADE. A paralisação do processo "sine die" conspiraria contra o principio de que a execução não se deve eternizar. Desta forma acompanho aqueles que aplicam ao caso, por analogia, a Súmula n.º 314, do col. Superior Tribunal de Justiça que dispõe: "Em execução fiscal não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente". (e-STJ, fl. 77)
+Em suas razões recursais, a recorrente aponta violação ao art. 791, III, do CPC/73, bem como divergência jurisprudencial. Sustenta que, não havendo bens a serem penhorados, e não sendo prevista limitação temporal para a suspensão prevista no citado dispositivo legal, a suspensão deve ser por prazo indeterminado.
+É o relatório. Passo a decidir.
+O presente recurso especial originou-se de agravo de instrumento interposto por AGF BRASIL SEGUROS S/A contra decisão interlocutória que, na ação regressiva de indenização ajuizada em desfavor de [NOME], em fase de execução, não concedeu o pedido de suspensão sine die do processo, concedendo-se a suspensão pelo prazo máximo de um ano.
+Compulsando o sítio eletrônico do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que o processo foi suspenso por decisão publicada em 23/03/2012, tendo ocorrido a baixa definitiva dos autos em 06/07/2015 (Processo nº 1488100-78.2007.8.13.0707).
+Desse modo, diante da baixa definitiva dos autos, verifica-se que já não subsiste interesse na discussão sobre a suspensão do processo por prazo indeterminado, tornando-se prejudicado o recurso especial, por perda superveniente de objeto.
+Diante do exposto, com fundamento no artigo 34, XI, do RISTJ, julgo prejudicado o recurso especial pela superveniente perda de objeto.
+Publique-se.
