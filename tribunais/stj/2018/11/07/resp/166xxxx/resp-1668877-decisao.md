@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial, interposto por VIPLAN - VIAÇÃO PLANALTO LTDA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, cujo teor ficou assim ementado (fls. 193/201, e-STJ):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO. DE SENTENÇA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. PENHORA. IMÓVEL. ALIENAÇÃO. JUÍZO UNIVERSAL. EXCESSO DE EXECUÇÃO. INEXISTÊNCIA.
+I - O juízo da Vara de Falências e Recuperação Judicial é o competente para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros juízos.
+II - Não é nula a penhora incidente sobre imóvel da sociedade em recuperação judicial, desde que submetida a apreciação do juízo universal, que detém competência para o prosseguimento dos atos expropriatórios.
+III - Não há excesso de execução se o devedor, para fins de dedução do valor da dívida executada, não comprova o pagamento de indenização do seguro obrigatório DPVAT.
+IV - Negou -se -provimento ao agravo.
+Nas razões do recurso especial (fls. 117/131, e-STJ), a empresa recorrente aponta violação aos arts. 6º, § 4º, 7º, § 1º e 47, da Lei 11.101/05.
+Sustenta, em síntese, que apesar do entendimento firmado pela Corte de origem, não pode o patrimônio da sociedade recuperanda ser afetado por decisões proferidas por juízes diversos daquele em que se processa sua recuperação judicial, sob pena de comprometer o sucesso do seu plano de soerguimento, ainda que superado o prazo de suspensão de 180 (cento e oiteta) dias, previsto no art. 6º, da Lei 11.101/05.
+Contrarrazões às fls. 228/232 (e-STJ).
+Após decisão de admissão do recurso especial (fls. 234/235, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Segundo o entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, é do juízo em que se processa a recuperação judicial a competência para promover os atos de execução (constritivos/expropriatórios) do patrimônio da empresa, ainda que em execução fiscal ou trabalhista. Pois, à luz do art. 47 da Lei n.º 11.101/2005 e considerando o objetivo da recuperação judicial, que é a preservação da empresa, sua função social e o estímulo à atividade econômica, a atribuição de exclusividade ao juízo universal evita que medidas expropriatórias possam prejudicar o cumprimento do plano de recuperação.
+Nesse sentido:
+RECURSO ESPECIAL. RELAÇÃO DE CONSUMO. CUMPRIMENTO DE SENTENÇA. ATOS DE CONSTRIÇÃO. FORNECEDOR EM RECUPERAÇÃO JUDICIAL. COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO. PROTEÇÃO DO CONSUMIDOR E PRESERVAÇÃO DA EMPRESA. PRINCÍPIOS NÃO ABSOLUTOS. PONDERAÇÃO. MANUTENÇÃO DA EMPRESA. TUTELA DE INTERESSES MÚLTIPLOS. PREVALÊNCIA. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DA LEI Nº 11.101/2005.
+1. A controvérsia dos autos consiste em definir a competência para realizar atos de constrição destinados ao cumprimento de sentença proferida por magistrado do juizado especial cível, em favor de consumidor, quando o fornecedor já obteve o deferimento da recuperação na vara empresarial.
+2. O compromisso do Estado de promover o equilíbrio das relações consumeristas não é uma garantia absoluta, estando a sua realização sujeita à onderação, na hipótese, quanto aos múltiplos interesses protegidos pelo princípio da preservação da empresa.
+3. A Segunda Seção já realizou a interpretação sistemático-teleológica da Lei nº 11.101/2005, admitindo a prevalência do princípio da preservação da empresa em detrimento de interesses exclusivos de determinadas classes de credores, tendo atestado que, após o deferimento da recuperação judicial, prevalece a competência do Juízo desta para decidir sobre todas as medidas de constrição e de venda de bens integrantes do patrimônio da recuperanda. Precedentes.
+4. Viola o juízo atrativo da recuperação a ordem de penhora on line decretada pelo julgador titular do juizado especial, pois a inserção da proteção do consumidor como direito fundamental não é capaz de blindá-lo dos efeitos do processo de reestruturação financeira do fornecedor. Precedente.
+5. Recurso especial provido para reconhecer a competência do juízo da 7ª Vara Empresarial da Comarca da Capital do Rio de Janeiro.
+(REsp 1598130/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/03/2017, DJe 14/03/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. PRAZO DE SUSPENSÃO. ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE DO BEM. AVALIAÇÃO NECESSÁRIA. 1. Ação ajuizada em 03/09/2012. Recurso Especial interposto em 19/08/2016 e concluso ao Gabinete em 24/03/2017. Julgamento: CPC/15.
+2. O propósito recursal é decidir se a ação de busca e apreensão deve prosseguir em relação à empresa em recuperação judicial, quando o bem alienado fiduciariamente é indispensável à sua atividade produtiva.
+3. A concessão de efeito suspensivo ao recurso especial deve ser pleiteada de forma apartada, não se admitindo sua inserção nas próprias razões recursais. Precedentes.
+4. O mero decurso do prazo de 180 dias previsto no art. 6º, § 4º, da LFRE não é bastante para, isoladamente, autorizar a retomada das demandas movidas contra o devedor, uma vez que a suspensão também encontra fundamento nos arts. 47 e 49 daquele diploma legal, cujo objetivo é garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da recuperanda. Precedentes.
+5. Apesar de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial (art. 49, §3º, da Lei 11.101/05). Precedentes.
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 1660893/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/08/2017, DJe 14/08/2017)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS. APRECIAÇÃO DO CARÁTER EXTRACONCURSAL DE CRÉDITOS. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. RETOMADA DAS EXECUÇÕES INDIVIDUAIS. AUSÊNCIA DE RAZOABILIDADE. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Compete ao Juízo da recuperação judicial tomar todas as medidas de constrição e de venda de bens integrantes do patrimônio da empresa sujeitos ao plano de recuperação judicial, uma vez aprovado o referido plano; cabendo-lhe, ainda, a constatação do caráter extraconcursal de crédito discutido nos autos de ação de execução.
+2. No normal estágio da recuperação judicial, não é razoável a retomada das execuções individuais após o simples decurso do prazo legal de 180 dias de que trata o art. 6º, § 4º, da Lei n. 11.101/2005.
+3. Agravo regimental desprovido.
+(AgRg no CC 141.719/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 27/04/2016, DJe 02/05/2016)
+No caso dos autos, concluiu o Tribunal de origem ser lícita a determinação de penhora em detrimento do patrimônio da sociedade recuperanda, na medida em que tal ato de constrição seria posteriormente submetido à análise do juízo recuperacional.
+É o que se extrai do seguinte excerto do aresto impugnado (fl. 200, e-STJ):
+No caso em apreço, a ação foi ajuizada em data posterior ao ajuizamento da recuperação judicial, de modo que a competência do juízo "comum" se limita à apuração do respectivo crédito (processo de conhecimento) e ao processamento do cumprimento de sentença.
+Lícita, portanto, a penhora. realizada. O que não pode haver, contudo, é a alienação do imóvel e o pagamento do credor, tanto que o ato de constrição será submetido ao juízo universal, conforme decisão agravada, o qual poderá informar a real situação dos bens da sociedade executada e decidir sobre a manutenção da constrição.
+Neste contexto, estando o entendimento firmado pela Corte de origem em dissonância com a orientação firmada por este Superior Tribunal de Justiça sobre a matéria, a irresignação merece acolhida.
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, dou provimento ao recurso especial para, reformando a acórdão recorrido, fixar a competência do juízo da recuperação judicial para promover atos executórios em face da sociedade recuperanda.
+Publique-se.
+Intimem-se.
