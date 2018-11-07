@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO.
+    1. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Proclamou-se:
+    Os apelantes apresentam peça de apelação genérica, que sequer se coaduna perfeitamente com o caso concreto. Impugnam o julgamento antecipado da lide, que não houve, pois o laudo pericial encontra-se às fls. 366/399.
+    Os financiamentos para a aquisição de moradia pelo Sistema Financeiro da Habitação têm inegável cunho social. No entanto, não se pode confundir esse caráter social com um caráter assistencialista. Por essas razões, o Código de Defesa do Consumidor não pode servir de salvo-conduto ao mutuário, para adotar índices e sistemas de amortização que mais lhe convenham.
+    […]
+    No caso, tanto a petição inicial, quanto o recurso de apelação apresentam, em relação ao pedido de anulação, argumentos calcados no procedimento regido pelo DL 70/66, inaplicável ao caso. A execução, no caso concreto, rege-se pela Lei n° 9.514/97, o que sequer permite a análise das alagações quanto à existência de irregularidades no procedimento. No entanto, como a regular intimação dos devedores para a purga da mora é comum a ambos os procedimentos, é de se concluir, tal qual a Magistrada a que, que não houve irregularidades no procedimento, como demonstram os documentos de fls. 476/486.
+    Ressalte-se que a consolidação da propriedade em nome da fiduciária é consequência da inadimplência, sendo que ficou comprovado, por perícia, que não houve abusos nas cobranças, o que afasta também o argumento quanto à incerteza e iliquidez do título executivo.
+    […]
+    Deste modo, não se vislumbra qualquer irregularidade no procedimento de execução adotado pela Ré, que se cercou de todas as cautelas no sentido de cientificar os devedores, que tiveram oportunidade de purgar o débito, mas não o fizeram. Mantida a mora, resolve-se o contrato de pleno direito, o que não se modifica, mesmo que se reconhecesse a invalidade do procedimento de execução extrajudicial, fato que não teria o condão de repristinar o vínculo contratual e que inviabiliza a discussão de cláusulas e condições do contrato.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, relatado pelo ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 7 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
