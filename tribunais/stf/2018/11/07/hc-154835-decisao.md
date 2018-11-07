@@ -1,0 +1,35 @@
+Vistos etc.
+    Referente à Petição STF 73.107/2018.
+    Em 11.10.2018, neguei seguimento ao presente habeas corpus em decisão assim exarada:
+    “Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de Francisco das Chagas da Silva, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 421.579/SP.
+    O paciente foi condenado à pena de 01 (um) ano e 06 (seis) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). Posteriormente, o Juízo das Execuções Penais da Comarca de Guarulhos/SP, forte no art. 107, IV, do Código Penal, reconheceu a prescrição da pretensão punitiva estatal.
+    Em sede de agravo em execução, o Tribunal de Justiça de São Paulo deu provimento ao recurso ministerial para cassar a decisão de extinção de punibilidade do réu.
+    Inconformada, a Defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que não conheceu do HC 421.579/SP. Interposto agravo regimental, a Corte Superior negou provimento ao recurso.
+    No presente habeas corpus, a Impetrante alega a possibilidade de detração da pena para contagem de prazo da prescrição da pretensão executória estatal. Requer, em medida liminar e no mérito, o reconhecimento da extinção da punibilidade do paciente.
+    Em 13.4.2018, indeferi a liminar.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Juliano Baiocchi Villa-Verde de Carvalho, opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO. TRÁFICO DE DROGAS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. DETRAÇÃO. UTILIZAÇÃO DO TEMPO DE PRISÃO PROVISÓRIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+    I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+    II - A jurisprudência desta Corte Superior firmou-se no sentido de que o tempo de prisão provisória não deve ser considerado para fins de cálculo da prescrição da pretensão executória, sendo possível o cálculo da prescrição com base na pena remanescente, somente nas hipóteses taxativamente previstas no art. 113 do Código Penal (evasão do condenado e revogação do livramento condicional), cuja interpretação deve ser restritiva. Precedentes.
+    Agravo regimental desprovido".
+    A jurisprudência prevalecente desta 1ª Turma da Suprema Corte, forte na dicção constitucional, orientava-se no sentido do não cabimento de habeas corpus substitutivo do recurso ordinário constitucional (HC 139.258/SP, Rel. p/ acórdão Min. Roberto Barroso, DJe 20.3.2018; HC 150.993-AgR, Rel. Min. Luiz Fux, DJe 15.3.2018; HC 149.594-AgR/PE, Rel. Min. Rosa Weber, DJe 22.02.2018).
+    A jurisprudência do Plenário desta Casa, contudo, não veio a endossar tal compreensão. Por todos, destaco o HC 152.752/PR, Rel. Min. Edson Fachin, Plenário, j. 22.3.2018 e 04.4.2018, em que o Tribunal Pleno conheceu de habeas corpus impetrado em caráter substitutivo. Naquela assentada, após enumerar julgados semelhantes do Plenário – v.g. HC 123.971/DF –, conheci do writ em observância ao princípio da colegialidade, ressalvando a minha posição pessoal sobre o tema.
+    Considero, assim, superado este obstáculo de ordem formal.
+    Ressalto que o paciente foi condenado à pena de 01 (um) ano e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006).
+    De acordo com o acórdão da lavra do Superior Tribunal de Justiça, ‘o tempo de prisão provisória não deve ser considerado para fins de cálculo da prescrição da pretensão executória, sendo possível o cálculo da prescrição com base na pena remanescente, somente nas hipóteses taxativamente previstas no art. 113 do Código Penal (evasão do condenado e revogação do livramento condicional), cuja interpretação deve ser restritiva’.
+    Nesse espectro, o ato apontado como coator está em conformidade com a orientação jurisprudencial firmada por este Supremo Tribunal Federal no sentido de que ‘O tempo de prisão provisória não pode ser computado para efeito da prescrição’ (ARE 938.056-AgR/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 08.3.2016); ‘O tempo de custódia preventiva a ser eventualmente detraído da pena aplicada não pode ser levado em consideração para o cálculo da prescrição da pretensão punitiva’ (HC 122.577/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 09.6.2016); ‘O tempo de prisão provisória não pode ser computado para efeito da prescrição, mas tão-somente para o cálculo de liquidação da pena’ (RHC 85.026/SP, Rel. Eros Grau, 1ª Turma, DJ 27.5.2005); e ‘O tempo em que o réu esteve sujeito a prisão cautelar somente deve ser computado para os fins e efeitos do cumprimento da sanção penal. A prisão provisória é apenas computável na execução da pena privativa de liberdade. A norma inscrita no art. 113 do Código Penal não admite que se desconte da pena in concreto, para efeitos prescricionais, o tempo em que o réu esteve provisoriamente preso (HC 69.865/PR, Rel. Min. Celso de Mello, 1ª Turma, DJ 26.11.1993).
+    Anoto, por fim, na linha do parecer ministerial, que ‘o prazo da prescrição da pretensão executória tem por base apenas a pena definitiva aplicada, não sendo cabível a detração do período em que o apenado ficou provisoriamente preso para fins prescricionais, devendo o art. 113 do CP ser interpretado restritivamente, ou seja, não há que se falar na sua aplicação analógica na hipótese de prisão provisória’.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF)”.
+    Em 05.11.2018, o Superior Tribunal de Justiça, por intermédio da referida petição, encaminha a este Supremo Tribunal Federal pedido de agravo regimental formulado pela Defensoria Pública do Estado de São Paulo, protocolado naquela Corte nos autos do HC 421.579/SP. Informa que, ‘em consulta ao sítio do Supremo Tribunal Federal na internet, verificamos constar registro do Habeas Corpus n. 154.835, em cujo cadastro consta o número 421.579 como número de origem e figuram como paciente Francisco das Chagas da Silva e, como impetrante, a Defensoria Pública do Estado de São Paulo’.
+    É o relatório.
+    Decido.
+    Publicado o juízo monocrático no DJe de 18.10.2018 e dada a ausência de interposição de recurso, a decisão negativa de seguimento do writ transitou em julgado no dia 30.10.2018, exaurindo, por conseguinte, a atuação desta Suprema Corte. Nesse sentido, “com o decurso, in albis, do prazo legal, extingue-se, de pleno direito, quanto à parte sucumbente, a faculdade processual de interpor, em tempo legalmente oportuno, o recurso pertinente” (RMS 26.259-AgR, Rel. Min. Celso de Mello, 16.10.2007).
+    Ante o exposto, nada há a prover.
+    Publique-se.
+    Brasília, 07 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
