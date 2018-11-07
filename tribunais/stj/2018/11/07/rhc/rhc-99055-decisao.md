@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o recorrente foi preso preventivamente pela prática dos delitos referidos nos arts. 1º, §§ 1º, I e II, e 4º, da Lei n. 9.613/1998 e nos arts. 1º, § 1º, e 2º, ambos da Lei n. 12.850/2013.
+Na ação originária, aduziu a defesa que o recorrente não praticou a conduta descrita nos autos, "jamais tendo adquirido qualquer veículo, acrescentando que não restou comprovada a participação do paciente nos crimes em apreço".
+Sustentou, outrossim, que "a denúncia deve ser considerada inepta, uma vez que foi apresentada de forma geral, sem descrever a conduta do paciente" (e-STJ fl. 352).
+Alegou, ainda, ausência dos requisitos para a decretação da prisão preventiva.
+No entanto, a Corte de origem denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 351):
+HABEAS CORPUS - LAVAGEM DE DINHEIRO - ASSOCIAÇÃO CRIMINOSA - PRESENÇA DE FUNDAMENTOS IDÔNEOS CAPAZES DE JUSTIFICAR A CUSTÓDIA CAUTELAR - NEGATIVA DE AUTORIA - MATÉRIA DE MÉRITO - INÉPCIA DA DENÚNCIA - DESCRIÇÃO ADEQUADA - MEDIDA CAUTELAR DIVERSA DA PRISÃO - IMPOSSIBILIDADE - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - NÃO VIOLAÇÃO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA. Estando preenchidos os requisitos do artigo 41 do Código de Processo Penal, não há de falar em inépcia da denúncia, a qual descreve de modo geral e abrangente os elementos essenciais ao conhecimento dos fatos criminosos, adequando a conduta do agente ao respectivo tipo penal. Argumentos fáticos não comprovados, os quais dependem de dilação probatória ultrapassam os limites do presente habeas corpus. Considerando que a prisão preventiva não se ancora em certeza de culpa, mas sim em indícios, não se verifica a violação ao principio da presunção de inocência. Atendido ao menos um dos pressupostos do art. 312 do CPP, qual seja a garantia da ordem pública, bem como um dos requisitos instrumentais do art. 313 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes.
+Nas razões do presente recurso ordinário, a defesa reafirma a alegação originária referente à falta de fundamentação idônea para a decretação da segregação cautelar.
+Diante disso, pleiteia, liminarmente, que o acusado aguarde em liberdade o julgamento final deste recurso e, no mérito, requer a revogação do decreto de custódia preventiva, com a expedição do competente alvará de soltura em seu favor (e-STJ fl. 365).
+O pleito urgente foi indeferido (e-STJ fls. 375/377).
+Informações prestadas às e-STJ fls. 381/415, 420/421 e 422/434.
+Parecer ministerial pelo desprovimento do reclamo (e-STJ fls. 436/439).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem, o ora recorrente foi sentenciado em 26/10/2018 à pena de 8 anos e 9 meses de reclusão, a ser cumprida em regime inicial fechado, como incurso no art. 1º, § 1º, c/c o art. 2º, § 2º, ambos da Lei n. 12.850/2013.
+Fica, portanto, sem objeto o pedido contido neste recurso, em que a defesa insurgia-se contra a custódia cautelar, à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
