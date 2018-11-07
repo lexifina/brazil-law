@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] (e-STJ fls. 142/1463), com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, cuja ementa é a seguinte (e-STJ fl.135):
+Execução penal. Falta grave. Paciente condenado ao regime semiaberto. Regressão a regime mais rigoroso que o fixado na sentença. Possibilidade. Arts. 118, I, e 127, ambos da Lei n. 7.210/84. Não provimento.
+1. O cometimento de falta grave no cumprimento da execução penal tem como conseqüência a regressão de regime, não havendo ilegalidade na sua fixação para forma mais gravosa do que a fixada na sentença, e não afronta ao instituto da coisa julgada, bem como tem por conseqüência a revogação de até 1/3 do tempo remido.
+2. Recurso não provido.
+Nas razões do recurso especial, afirma a parte recorrente violação do artigo 33 do CP, dos artigos 111, parágrafo único, e 118 da LEP e do art. 9º da Convenção Americana de Direitos Humanos. Sustenta que, em razão da falta grave, o recorrente foi colocado no regime mais gravoso daquele que fora condenado, o que encontra proibição no ordenamento jurídico.
+Apresentadas as contrarrazões (e-STJ fls. 150/155), o recurso foi admitido (e-STJ fl. 158), manifestando-se o Ministério Público Federal, nesta instância, pelo provimento do recurso especial (e-STJ fls. 170/172).
+É o relatório. Decido.
+O recurso não merece acolhida.
+O Tribunal a quo, ao decidir a controvérsia, consignou que, uma vez reconhecida a falta grave em seu desfavor, regride-se o cumprimento da reprimenda ao regime imediatamente mais gravoso, que no caso do apenado será o regime fechado, haja vista que ele encontrava-se no semiaberto (e-STJ fl. 139).
+Ora, tal posicionamento encontra-se no mesmo sentido da jurisprudência desta Corte Superior de que a superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+Nessa linha, os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. NÃO CONHECIMENTO. EXECUÇÃO PENAL. PENA CONDENANDO AO REGIME ABERTO. NOTÍCIA DO COMETIMENTO DE NOVO DELITO. REGRESSÃO PER SALTUM. POSSIBILIDADE.
+ ..
+2. O art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência (STJ. AgRg no REsp 1575529/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 17/06/2016) (STJ, AgRg no REsp 1672666/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 13/03/2018, DJe 26/03/2018).
+3. Habeas corpus não conhecido. (HC 456.990/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/09/2018, DJe 02/10/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. RECENTE ENTENDIMENTO FIRMADO PELA TERCEIRA SEÇÃO DESTA CORTE (HC 381.248/MG E REsp. 1.557.461/SC). AGRAVO REGIMENTAL DESPROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando e a regressão de regime prisional, se for o caso (arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal).
+ ..
+3. Agravo Regimental desprovido. (AgRg no REsp 1719880/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/04/2018, DJe 07/05/2018)
+HABEAS CORPUS SUBMETIDO À TERCEIRA SEÇÃO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE NOVA SENTENÇA CONDENATÓRIA. TERMO INICIAL PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito à regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal. Em vez de haver o cumprimento progressivo de cada pena individualmente, há a soma do total de penas a serem cumpridas para que o apenado as cumpra de forma conjunta.
+ ..
+5. Ordem concedida, de ofício, para cassar o acórdão proferido no agravo em execução penal e restabelecer a decisão do Juízo da execução, proferida em 4/3/2016. (HC 381.248/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 03/04/2018)
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
