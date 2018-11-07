@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por JORGE ARSAMENIA DOS SANTOS, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 1.818):
+PRELIMINAR - Cerceamento de defesa - Nulidade - Inocorrência - Rejeição.
+APELAÇÃO CRIMINAL - Extorsão - Materialidade e autoria comprovadas - Absolvição - Desclassificação - Impossibilidade - Pena - Aplicada corretamente - Regimes prisionais eleitos  Adequados - Recursos improvidos.
+PRESCRIÇÃO DA PRETENSÃO PUNITIVA - Ocorrência - Ré que contava com mais de setenta anos na data da prolação da sentença - Extinção da punibilidade decretada.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 1.848/1.851).
+Nas razões do recurso especial, alega a parte recorrente violação dos artigos 33 e 59 do CP. Sustenta a fixação do regime aberto para o cumprimento da pena.
+Apresentadas as contrarrazões (e-STJ fls. 1.902/1.906), o recurso foi admitido (e-STJ fl. 1.909), manifestando-se o Ministério Público Federal, nesta instância, pelo não provimento do recurso especial (e-STJ fls. 1958/1962).
+É o relatório. Decido.
+O recurso não merece acolhida.
+Quanto à fixação do regime prisional, sabe-se que a jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+Nessa linha, foi editada a Súmula n. 440/STJ, segundo a qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Na mesma esteira, há os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No presente caso, a Corte de origem, quanto ao regime prisional, consignou (e-STJ fl. 1.825):
+Os regimes prisionais eleitos, da mesma forma, desmerecem reparos, pois, como justificado pela magistrada sentenciante, os réus Fernando e Jorge "praticaram o crime quando estavam detidos no Presidio de Campos, a evidenciar a maior reprovabilidade de sua conduta e personalidade voltada à prática criminoso " (fls. 1299).
+Ora, o Tribunal a quo, ao manter o regime semiaberto para os acusados, utilizou de fundamentação idônea, não podendo ser considerada genérica ou ilegal, visto que baseada nas circunstâncias fáticas da prática delitiva, consistente no fato do crime ter sido praticado pelos acusados quando estavam detidos no Presidio de Campos, demonstrando a especificidade da situação e a gravidade concreta do delito, que desborda das comumente verificadas para o crime do art. 158 do CP, suficientes, portanto, para justificar a escolha de regime prisional mais severo que o legalmente indicado pelo quantum da pena, ainda que não tenham sido valoradas circunstâncias judiciais negativas. Precedentes: HC 454.254/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/08/2018, DJe 24/08/2018; AgRg no AREsp 782.165/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/06/2017, DJe 28/06/2017; HC 395.808/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/06/2017, DJe 13/06/2017; AgRg no AREsp 666.933/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/05/2016, DJe 06/06/2016.
+Dessa forma, ainda que a pena-base do delito tenha sido fixada no mínimo legal, houve legalidade ao regime semiaberto imposto, tendo em vista que a fundamentação baseou-se na gravidade concreta da conduta .
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
