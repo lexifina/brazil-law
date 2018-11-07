@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão que não admitiu recurso especial manejado com base nas alíneas "a" e "c" do permissivo constitucional.
+Na origem, trata-se de agravo de instrumento interposto contra decisão que determinou ao titular de cartório de registro civil o depósito de quantia destinada à satisfação de débito reconhecido em demanda transitada em julgado.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 176, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE PASSIVA. OFENSA À COISA JULGADA. 1 - Consoante previsão do artigo 485, § 3º, do Código de Processo Civil, "O juiz conhecerá de ofício matéria constante dos incisos IV, V, VI e IX, em qualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado. 2 - Na hipótese, diante do trânsito em julgado da sentença condenatória, contra qual não foi oposto recurso pela parte, revela-se indevida a pretensão de rediscutir matéria relativa à ilegitimidade passiva, bem como obstar o direito da parte autora em receber a quantia que foi deferida judicialmente. AGRAVO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 276-288, e-STJ).
+Em suas razões de recurso especial (fls. 300-320, e-STJ), o recorrente aponta, além da divergência jurisprudencial, ofensa aos seguintes dispositivos: a) art. 489, §1º, IV e V, do CPC/15, ao argumento de que a Corte local, ao apreciar os aclaratórios, limitou-se as reproduzir os argumentos lançados no acórdão recorrido; b) art. 230 do CPC/15, porquanto afirma não ter sido citado/intimado na demanda em que restou reconhecida a responsabilidade do ofício de registros; c) arts. 21 e 22 da Lei n. 8.935/94, sob o fundamento de a serventia extrajudicial não possuir personalidade de jurídica, tornando intransferível a obrigação ao titular sucessor.
+Contrarrazões (fls. 327-341, e-STJ).
+Em juízo de admissibilidade (fl. 367, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso o enunciado da Súmula 7 do STJ.
+Irresignado (fls. 377-397, e-STJ), aduz o agravante que o reclamo merece trânsito, uma vez que as premissas lançadas para a negativa de admissibilidade não se aplicam ao caso.
+Contraminuta sustentando o acerto do decisum hostilizado (fls. 402-419, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. De início, não há se falar em afronta ao art. 489, §1º, IV e V, do CPC/15, pois, na hipótese, a Corte local decidiu a controvérsia aplicando o direito à espécie, muito embora de forma contrária a pretensão do ora recorrente.
+Ademais, a reprodução das razões veiculadas no aresto embargado quando do julgamento dos aclaratórios não constitui em vício de ausência de fundamentação, máxime na hipótese em que a parte embargante apresenta argumentos previamente levados à apreciação do órgão julgador.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TÍTULO DE CRÉDITO. OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Deve-se interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. Na hipótese em que a parte insiste na mesma tese, repisando as mesmas alegações já apresentadas em recurso anterior sem trazer nenhum argumento novo, ou caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador, não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no REsp 1432342/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017, grifou-se)
+No caso, constata-se que o recorrente reeditou as teses anteriormente lançadas na peça de agravo de instrumento, isto é, de o ofício de registros carecer de personalidade jurídica, impossibilitando a transferência de obrigações pretéritas ao novo titular, e de não ter sido participado da demanda em cujo bojo foi constituído o título judicial.
+Em sendo assim, conquanto não abordadas expressamente, as questões acabaram por ser decididas em razão do fundamento da coisa julgada invocada pelo Tribunal Estadual, de modo que não há se falar na nulidade da decisão atacada.
+2. Quanto à vulneração ao art. 230 do CPC/15, o conteúdo normativo do referido dispositivo legal não foi objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração opostos pela ora recorrente. Ademais, nas razões do especial deixou a insurgente de apontar eventual violação do artigo 1.022 do NCPC, razão pela qual incide, na espécie, a Súmula 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Em relação à contrariedade aos arts. 21 e 22 da Lei n. 8.935/94, o Tribunal de origem assentou que a discussão acerca da ilegitimidade do serviço notarial já estava acobertada pela coisa julgada formada em outra demanda, fundamento esse não impugnado pelo recorrente.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+4. Por fim, o recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelo art. 1.029, §1º, do CPC/15 e 255, § 1º, do RISTJ.
+Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, sobretudo quando não configurada a notoriedade do dissídio.
+5. Do exposto, com fulcro no art. 932 do CPC/15 e na Súmula 568 do STJ, nego provimento ao agravo (art. 1.042 do NCPC).
+Publique-se.
+Intimem-se.
