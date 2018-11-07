@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso de apelação defensivo, para reconhecer a atenuante da confissão, sem reflexo na pena corporal aplicada, redimensionando a multa imposta na condenação (e-STJ, fls. 219-226).
+Neste recurso, alega a defesa, em síntese, afronta ao disposto no art. 33, § 2º, "b", do Código Penal, porquanto foi fixado regime prisional inicialmente fechado a réu primário, cuja pena privativa de liberdade não foi superior a 8 anos de reclusão, em razão apenas da gravidade abstrata do crime de roubo duplamente majorado.
+Requer, assim, a fixação do regime inicial semiaberto, para o resgate da reprimenda.
+Contrarrazões apresentadas (e-STJ, fls. 250-257).
+Admitido o recurso (e-STJ, fl. 260), os autos ascenderam a esta Corte.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ, fls. 288-290).
+É o relatório.
+Decido.
+Constata-se que o presente recurso constitui mera reiteração do HC n. 439.480/SP, julgado pela Quinta Turma desta Corte, em 24/5/2018, nos autos do qual foi concedida a ordem, de ofício, no intuito de estabelecer o regime prisional semiaberto para o início do desconto da pena imposta ao ora recorrente. Eis a ementa daquele julgado:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. [NOME]. DUAS VÍTIMAS DE UMA MESMA FAMÍLIA. PATRIMÔNIOS DIVERSOS. CONCURSO FORMAL CONFIGURADO. REGIME PRISIONAL FECHADO. GRAVIDADE ABSTRATA DA CONDUTA. FUNDAMENTO INIDÔNEO. PENA-BASE NO MÍNIMO LEGAL. RÉU PRIMÁRIO. SÚMULAS 440/STJ E 718 E 719 DO STF. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. 1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Independente de se tratarem de membros de uma mesma família, subtraídos, mediante uma só ação ou omissão, bens de indivíduos diversos, não há que se falar em crime único, devendo ser aplicado o disposto no art. 70 do Código Penal.
+3. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+4. Malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional menos severo, os fundamentos genéricos utilizados pelas instâncias ordinárias não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal).
+5. Tratando-se de réu primário, ao qual foi imposta pena superior a 4 e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+6. Writ não conhecido. Ordem concedida, de ofício, com o fim de estabelecer o regime prisional semiaberto para o início do desconto da pena imposta ao paciente".
+(HC 439.480/SP, de minha Relatoria, julgado em 24/05/2018, DJe 30/05/2018).
+Nesse contexto, houve o esgotamento de jurisdição desta Corte para conhecer do pedido ora formulado.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do STJ, julgo prejudicado este recurso especial.
+Publique-se. Intimem-se.
