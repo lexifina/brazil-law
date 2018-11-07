@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais que indeferiu o pedido liminar no writ de origem.
+Argumenta o impetrante, em suma, a ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+O paciente foi preso em flagrante em 12/10/2018, posteriormente convertido em preventiva, pela prática do delito tipificado no art. 157, § 2º, II, do Código Penal.
+Na origem, o Inquérito Policial n. 0088668-08.2018.8.13.0024, oriundo da Vara de Inquéritos de Belo Horizonte, foi redistribuído por prevenção em 18/10/2018, conforme informações processuais eletrônicas extraídas do site do Tribunal a quo em 30/10/2018.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fls. 33/35):
+Trata-se de ordem de HABEAS CORPUS COM PEDIDO LIMINAR, impetrada pelo [NOME], em favor do paciente [NOME], preso em flagrante delito no dia 12/10/2018, pela prática em tese, do crime tipificado no art.157, § 2º, II, do CP.
+Extrai-se dos autos (APFD de fls. 12/18-TJ) que, no dia 12/10/2018, durante patrulhamento, policiais militares se depararam com um veículo Fiat Brava ocupado por três pessoas, que ao avistarem a viatura, empreenderam fuga em alta velocidade. Consta dos autos que, após conseguirem capturar os agentes identificados como Diego, [NOME] e o inimputável I., estes teriam admitido que haviam roubado o veículo com a finalidade de utilizarem o automotor para a prática de outros crimes patrimoniais. Ademais, as vítimas da subtração patrimonial informaram que foram surpreendidas pelos autores, que, de arma em punho, teriam anunciado o assalto e levado o automóvel.
+ ..
+Digo isso porque, em uma análise sumária dos autos, constata-se que a decisão que impôs a prisão preventiva ao paciente (fl, 24-TJ) está, aparentemente, embasada em elementos objetivos do caso, aliados aos pressupostos e requisitos da segregação cautelar. Neste ponto, impende salientar que o delito em apuração envolveu a prática de grave ameaça, concurso de pessoas e uso de arma, o que evidencia a periculosidade social da ação.
+Assim, em um exame perfunctório, estão demonstradas, nessa decisão, as razões legais que motivaram a imposição da prisão processual, notadamente na garantia da ordem pública, satisfazendo o disposto no art. 312 do CPP, o que afasta, por ora, as alegações defensivas.
+ ..
+Diante do exposto, INDEFIRO a liminar pleiteada. ..
+A decisão que decretou a prisão preventiva assim dispôs (fls. 26/27 - destaquei):
+ .. .Com efeito, não obstante a primariedade do autuado, verifica-se que ele foi flagranteado na prática de crime de grande reprovabilidade social, com uso de violência e grave ameaça real, concurso de pessoas e uso de, arma de fogo, o que revela a gravidade concreta do delito e atenta a ordem pública. Cumpre ressaltar que consta dos autos que a vítima reconheceu o autuado como o autor do fato. Destarte, revela-se inadequada e insuficiente a aplicação de medidas cautelares diversas da prisão preventiva, que se faz necessária para a garantia da ordem pública, vulnerabilizada com a sua reiteração criminosa em curto espaço de tempo. Assim, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I, todos do CPP, CONVERTO A PRISÃO EM FLAGRANTE MARCOS VINÍCIUS [NOME] [NOME] EM PRISÃO PREVENTIVA. ..
+Como se vê, expôs o decreto prisional fundamentação idônea com esteio na reiteração delitiva em curto espaço de tempo.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
