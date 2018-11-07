@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S/A com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+Nas razões do nobre apelo, a recorrente aduz, em síntese, que a indenização devida pelo seguro DPVAT deve ter seu valor fixado de forma proporcional à extensão da invalidez, diversamente do que decidiu o Tribunal de origem ao fixar o valor máximo de indenização no caso de invalidez parcial permanente.
+É o relatório. Decido.
+A Segunda Seção desta Corte Superior, no julgamento do Tema n. 542, ao qual está vinculado o Recurso Especial Repetitivo n. 1.246.432/RS, consolidou o entendimento no sentido de que o valor da indenização do seguro DPVAT deve ser proporcional ao grau da invalidez. Confira-se a íntegra da ementa desse julgado:
+RECURSO ESPECIAL REPETITIVO. JULGAMENTO NOS MOLDES DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. DPVAT. SEGURO OBRIGATÓRIO. INVALIDEZ PARCIAL. INDENIZAÇÃO A SER FIXADA DE ACORDO COM A PROPORCIONALIDADE DA INVALIDEZ. SÚMULA N.º 474/STJ.
+1. Para efeitos do art. 543-C do Código de Processo Civil: A indenização do seguro DPVAT, em caso de invalidez parcial permanente do beneficiário, será paga de forma proporcional ao grau da invalidez (Súmula n.º 474/STJ).
+2. RECURSO ESPECIAL PROVIDO. (REsp n. 1.246.432/RS, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe 27/05/2013.)
+Na oportunidade do julgamento foi asseverado que mesmo em sua redação original, a Lei n. 6.194/74 previa a gradação do valor indenizatório, verbis:
+A orientação jurisprudencial desta Corte, cristalizada no enunciado da Súmula n.º 474/STJ, editada em 19/06/2012 por esta Egrégia Segunda Seção, consolidou-se no sentido de que "a indenização do seguro DPVAT, em caso de invalidez parcial do beneficiário, será paga de forma proporcional ao grau da invalidez".
+Nos precedentes que deram origem à referida Súmula, ponderou-se que para a interpretação do art. 3º, "b", da Lei 6.194/74, que dispõe sobre o seguro obrigatório DPVAT, deve-se considerar a partícula "até" constante da sua redação originária e que se manteve, inclusive, após as modificações introduzidas pelas Leis n.os 8.441/1992 e 11.482/2007.
+Confira-se o teor do referido artigo:
+Art. 3º. Os danos pessoais cobertos pelo seguro estabelecido no art. 2º desta Lei compreendem as indenizações por morte, invalidez permanente e despesas de assistência médica e suplementares, nos valores que seguem, por pessoa vitimada:
+a) 40 (quarenta) vezes o valor do maior salário-mínimo vigente no País - no caso de morte;
+b) Até 40 (quarenta vezes o valor do maior salário-mínimo vigente no País - no caso de invalidez permanente;
+c) Até 8 (oito) vezes o valor do maior salário-mínimo vigente no País - como reembolso à vítima - no caso de despesas com assistência médica e suplementares devidamente comprovadas.
+Como se observa, a expressão "até" está a fixar, na estrutura semântica do enunciado da alínea "b", um teto máximo do valor da indenização a ser pago em caso de invalidez permanente, dentro do qual poderá variar gradativamente, de acordo com o grau de incapacidade da vítima.
+Não se trata, pois, de um valor fixo a ser pago indistintamente a todos os graus de incapacidade parcial permanente.
+Com efeito, conforme esclarecido pela eminente Ministra Nancy Andrighi em voto condutor do acórdão proferido quando do julgamento do REsp 1.101572/RS, Terceira Turma, DJe 25/11/2010, " ..  se por um lado a norma estabelece, de maneira fixa, que a indenização será paga em determinado montante para a hipótese de morte (art. 3º, alínea "a") e, por outro, determina que o valor a ser pago para a invalidez permanente será até esse montante (art. 3º, alínea "b"), não é razoável pensar que qualquer incapacidade, ainda que parcial, dê lugar à indenização no patamar máximo.
+Na hipótese dos autos, o Tribunal de origem decidiu de forma contrária à orientação deste STJ, ao confirmar a sentença, na qual o Juízo de primeiro grau conclui que "Assim sendo, e considerando que ocorreu o sinistro invalidez parcial permanente do autor, deve esta perceber a indenização de forma integral, em seu teto, ou seja, o equivalente a 40 salários mínimos (art. 3 1 , inciso III, "b", da Lei 6.194/74, com a redação que lhe foi dada pela Lei 8.441/92)" (fl. 194).
+Portanto, merece reforma o acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial a fim de que retornem os autos à origem para seja analisado o grau da invalidez no caso concreto e arbitrado valor indenizatório proporcional.
+Publique-se. Intimem-se.
