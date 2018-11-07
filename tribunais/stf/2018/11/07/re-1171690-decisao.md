@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na afronta ao art. 150, VI, “c”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado demandaria a análise da legislação infraconstitucional aplicável, e da moldura fática delineada no acórdão recorrido, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas 279 e 280/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ENTIDADE DE ASSISTÊNCIA SOCIAL. ICMS. OPERAÇÃO DE IMPORTAÇÃO. IMUNIDADE. 1. A jurisprudência desta Corte é firme no sentido de que a imunidade contida no art. 150, VI, c, da Constituição Federal abrange o ICMS incidente na importação de bens utilizados na prestação de serviços pelas entidades de assistência social. 2. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do RI/STF.” (ARE 1049943 -AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 13.10.2017)
+    “IMUNIDADE TRIBUTÁRIA – ASSISTÊNCIA SOCIAL – ICMS – IMPORTAÇÃO – CONTRIBUINTE DE DIREITO – DESPROVIMENTO. A imunidade prevista no artigo 150, inciso VI, alínea “c”, da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços incidente sobre a importação de mercadorias por entidades de assistência social, enquanto contribuinte de direito, e relacionadas às finalidades essenciais destas” (AI 629.551-AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 01.6.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ENTIDADE BENEFICENTE. CARACTERIZAÇÃO. REQUISITOS. 1. O preenchimento dos requisitos necessários para caracterização do ente como entidade filantrópica sem fins lucrativos cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Verba honorária majorada em ¼, nos termos do art. 85, §§ 2º, 3º e 11, CPC.” (ARE 1017092-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 23.5.2017)
+    “Agravo regimental em agravo regimental em recurso extraordinário com agravo. 2. Tributário. Imunidade. ICMS. Entidades de assistência social sem fins lucrativos. 3. Jurisprudência da Corte. Precedentes. 4. Agravo regimental a que se nega provimento.” (ARE 713.903-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.11.2014)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
