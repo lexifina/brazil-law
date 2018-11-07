@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. DOCUMENTO IDÔNEO À COMPROVAÇÃO. AUSÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A Corte Especial, em 19/02/2012, no julgamento do AgRg no AREsp 137.141/SE, firmou orientação segundo a qual "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental".
+3. A parte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, não servindo a essa finalidade mera menção no corpo da petição a respeito da existência de legislação ou ato normativo.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com o Sr. Ministro Relator. Licenciada a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA(RELATOR):
+Trata-se de agravo interno interposto pelo ESTADO DE RORAIMA contra decisão de minha lavra (e-STJ fls. 439/441), em que não conheci do recurso especial, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, ante a sua intempestividade.
+Nas suas razões (e-STJ fls. 445/455), o agravante sustenta que o recurso é tempestivo e a decisão monocrática padece de excesso de formalismo. Para tanto, aduz que deveria ser aberta diligência para suprir a apontada irregularidade, relativa ao traslado das peças que comprovariam a suspensão do prazo para a interposição do apelo extremo em decorrência de feriado local.
+Sem impugnação (e-STJ fl. 456).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (RELATOR):
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, verifico que o presente recurso não merece prosperar.
+Procedendo-se à contagem do prazo recursal, verifica-se que a intimação pessoal da Fazenda acerca da decisão a quo se deu em 15/04/2014, terça-feira, e, por isso, o lapso temporal iniciou-se no dia 16/04/2014, quarta-feira, findando-se em 15/05/2014. O recurso, no entanto, somente foi protocolizado naquele tribunal em 16/05/2014 (e-STJ fl. 395).
+Nesse contexto, competia à parte recorrente comprovar a ocorrência de suspensão de expediente forense apto a influenciar na contagem do referido prazo recursal.
+É bem verdade que a Corte Especial, em 19/02/2012, no julgamento do AgRg no AREsp 137.141/SE, firmou orientação segundo a qual "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental".
+Deve-se consignar que, nessa hipótese, a parte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, não servindo a essa finalidade mera menção no corpo da petição a respeito da existência de legislação ou ato normativo (vide, EDcl no AREsp 735.788/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 26/02/2016; AgRg no AREsp 748.093/PB, Rel. Ministra Diva Malerbi (desembargadora convocada do TRF 3ª Região, Segunda Turma, DJe 12/02/2016; AgRg no AREsp 792.418/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 03/02/2016; AgRg no AREsp 740.605/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 01/02/2016; RCD no AREsp 751.455/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 03/02/2016; AgRg nos EDcl no REsp 1494502/SE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2015; e AgRg no AREsp 775.408/BA, Rel. Ministro Humberto Martins, Segunda Turma, DJe 10/12/2015).
+Isso considerado, deve-se destacar que, no caso específico, ao invés de proceder a juntada da documentação que comprovaria a suspensão do expediente forense no período de 16 a 18/04/2014, a parte se limita a defender a conversão do julgamento em diligência a fim de que pudesse exercer tal direito.
+Ora, se a própria jurisprudência desta Corte amparava a possibilidade da comprovação dos feriados locais na oportunidade em que interposto o agravo regimental - nos casos em que o recurso fora julgado sob a égide da codificação processual anterior -, por certo que o descumprimento dessa faculdade importa na preclusão para que o ato processual seja realizado.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
