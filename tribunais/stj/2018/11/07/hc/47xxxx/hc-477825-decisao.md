@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO. MARCO INICIAL. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo em Execução n. 2017 00 2 018959-5).
+Narram os autos que o Juízo da Unidade Regional de Execução Criminal de São José do Rio Preto - DEECRIM 8ª RAJ, em virtude de nova condenação, ao homologar os cálculos, considerou, como termo inicial para novos benefícios, a data da execução provisória da pena, pois ocorrida em data anterior ao trânsito em julgado da sentença (fl. 43).
+Interposto recurso pelo Ministério Publico, o Tribunal paulista, por unanimidade, deu provimento para constar como data para novos benefícios a data do trânsito em julgado da última condenação (fl. 109), nos termos desta ementa (fl. 104):
+Agravo de Execução Penal - Unificação das penas - Interrupção da contagem da pena para fins de obtenção de novos benefícios contados a partir do trânsito em julgado da última condenação - Precedentes do E. Superior Tribunal de Justiça e deste Sodalício - Reforma da r. deliberação Agravo provido.
+Daí o presente writ, em que pretende a Defensoria Pública a concessão da ordem para que seja fixada como data-base a última prisão ou a última falta grave cometida pelo sentenciado (fl. 12).
+Aduz ser desproporcional e incompreensível, especialmente para o sentenciado que está a cumprir sua pena de forma adequada, que a data-base de sua execução se altere após tal incidente quando não há, na prática, qualquer mudança fática de sua situação executória, exceto o acréscimo de pena a cumprir (fl. 10).
+É o relatório.
+Verifico ilegalidade flagrante apta a concessão da ordem de ofício, nos termos da jurisprudência deste Superior Tribunal (AgRg no HC n. 346.810/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 22/6/2016).
+A Terceira Seção desta Corte, no julgamento do Resp n. 1.557.461/SC, ocorrido em 22/2/2018, da relatoria do Ministro Rogerio Schietti Cruz, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+Como dito no voto condutor, é preciso ressaltar que a unificação de nova condenação definitiva já possui o condão de recrudescer o quantum de pena restante a ser cumprido pelo reeducando, logo, a alteração da data-base para concessão de novos benefícios, a despeito da ausência de previsão legal, configura excesso de execução, baseado apenas em argumentos extrajurídicos.
+Pelo exposto, concedo liminarmente a ordem para estabelecer a data da última prisão do paciente, ou a data do cometimento da última falta grave, como a data-base para a aquisição de benefícios na execução da pena, observado o disposto nas Súmulas 441, 534 e 535/STJ.
+Comunique-se.
+Publique-se.
