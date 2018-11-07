@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUTILEIDE [NOME] contra decisão de indeferimento de liminar em habeas corpus pelo Tribunal de Justiça do Rio Grande do Norte. (HC n. 0807611- 12.2018.8.20.0000).
+Consta dos autos que a paciente foi presa preventivamente pela suposta prática do delito de Tráfico de Drogas e porte de arma de fogo. Irresignada, a defesa impetrou habeas corpus, com pedido liminar, na Corte estadual. O Tribunal de origem, contudo, indeferiu o pedido liminar, nos seguintes termos: (e-STJ fl. 33/34).
+ (..)
+Quanto à concessão de medida liminar, é cediço que, em sede de habeas corpus, somente se mostra cabível nos casos em que a ilegalidade do ato atacado esteja provada de imediato.
+No caso dos presentes autos, não vislumbro a presença dos elementos de convicção para, em sede de cognição sumária, conceder a medida antecipatória, excepcional no nosso sistema jurídico.
+Ante o exposto, indefiro o pedido liminar de revogação da prisão preventiva, ao passo que solicito informações à autoridade apontada coatora sobre o alegado constrangimento ilegal da prisão preventiva, no prazo de 72 (setenta e duas) horas.
+(..)
+A defesa alega, em síntese, que a paciente é mãe de criança menor de 12 anos, além de ser primária e possuir endereço fixo, razão pela qual faz jus à substituição da prisão preventiva por domiciliar, nos termos do artigo 318, V, do Código de Processo Penal, superando-se o enunciado da súmula 691 do Supremo Tribunal Federal.
+Diante disso, pugna, liminarmente e no mérito, pela concessão da ordem para que a prisão preventiva seja substituída por domiciliar, nos termos do artigo 318, V, do Código de Processo Penal.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada. A propósito:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese. Agravo regimental desprovido (AgRg no HC 306.319/CE, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 9/6/2015, DJe 19/6/2015).
+Não é o que ocorre na espécie.
+Consoante se observa dos autos, neste juízo superficial, que é típico das decisões liminares, a prisão preventiva não se revela manifestamente injustificada - única hipótese em que se superaria a orientação da Súmula 691 do Supremo Tribunal Federal.
+A decisão do colegiado da Suprema Corte, por ocasião do julgamento do Habeas Corpus coletivo n. 143.641/SP, alcança a todas as mulheres presas, gestantes, puérperas, ou mães de crianças e deficientes sob sua guarda, relacionadas no processo, bem ainda todas as outras em idêntica condição no território nacional.
+É certo também que a teleologia da inovação legislativa consiste em atender ao melhor interesse do menor, cuja presença física da mãe é necessária para o seu desenvolvimento físico e mental. Todavia, o julgado excepciona algumas situações: "(..) os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício."
+No caso, o magistrado de primeiro grau proferiu fundamentação idônea, ao menos em análise preliminar, indicando se tratar de situação excepcionalíssima apta a afastar a aplicação da prisão domiciliar.
+Eis o teor da decisão que converteu a prisão em flagrante em preventiva (e-STJ fls. 10/13):
+(..)
+No presente caso, não estão demonstrados os requisitos do art. 318 do CPP, pelo menos nos termos exigidos pelo seu parágrafo único, de forma que incabível, no momento, a Prisão Domiciliar a que se refere o art. 317 do mesmo diploma legal, tendo em vista que se trata de delito de tráfico de drogas com armas, e praticado dentro da própria residência que supostamente vivem as crianças. Nesse sentido:
+(..)
+Dessa forma, a análise perfunctória do writ não evidencia a ocorrência de constrangimento ilegal hábil a permitir a concessão da ordem. De fato, não se observa flagrante ilegalidade, abuso de poder ou teratologia, resultando incabível a presente impetração, pois não está configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal.
+É certo, de todo modo, que as questões suscitadas pela defesa do paciente serão tratadas naquele mandamus, por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
