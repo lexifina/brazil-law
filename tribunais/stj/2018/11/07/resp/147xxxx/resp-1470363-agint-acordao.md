@@ -1,0 +1,46 @@
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE AUXÍLIO DOENÇA OU APOSENTADORIA POR INVALIDEZ JULGADO IMPROCEDENTE PELAS INSTÂNCIAS ORDINÁRIAS POR PREEXISTÊNCIA DA INCAPACIDADE DE FILIAÇÃO AO REGIME PREVIDENCIÁRIO. AGRAVO INTERNO DA SEGURADA A QUE SE NEGA PROVIMENTO.
+1. No caso concreto, a Corte de origem, soberana na análise fático-probatória da causa, julgou improcedente o pedido inicial por entender que a incapacidade da Segurada é anterior à sua filiação ao RGPS, com amparo na conclusão firmada no laudo pericial judicial.
+2. Nestes termos, apurar o equivoco na análise das provas, como defende a recorrente, demandaria o reexame de matéria fático-probatória, o que faz aplicável o óbice da Súmula 7/STJ.
+3. Agravo Interno da Segurada a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra a decisão de minha lavra, que negou provimento ao Recurso Especial interposto pela Segurada, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE PRÉ-EXISTENTE À FILIAÇÃO RECONHECIDA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE TODO O ACERVO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE REEXAME DE TAIS PREMISSAS. INCIDENTE DE FALSIDADE NÃO ACOLHIDO POR AUSÊNCIA DE DADOS CONCRETOS ACERCA DAS ALEGAÇÕES. CIRCUNSTÂNCIA QUE REDUNDARIA NA FORMAÇÃO DE NOVO JUÍZO ACERCA DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DA SEGURADA A QUE SE NEGA PROVIMENTO.
+2. Pugna a ora agravante pela reforma da decisão, ao argumento de que a jurisprudência mais atual permite a revisão do acervo probatório, sem a incidência de Súmula 7/STJ. Não foram analisados todos os argumentos lançados pela recorrente como a alegada violação do art. 22 da Lei 9.784/1999.
+ 3. Por fim, requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado competente.
+4. É o relatório.
+VOTO
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE AUXÍLIO DOENÇA OU APOSENTADORIA POR INVALIDEZ JULGADO IMPROCEDENTE PELAS INSTÂNCIAS ORDINÁRIAS POR PREEXISTÊNCIA DA INCAPACIDADE DE FILIAÇÃO AO REGIME PREVIDENCIÁRIO. AGRAVO INTERNO DA SEGURADA A QUE SE NEGA PROVIMENTO.
+1. No caso concreto, a Corte de origem, soberana na análise fático-probatória da causa, julgou improcedente o pedido inicial por entender que a incapacidade da Segurada é anterior à sua filiação ao RGPS, com amparo na conclusão firmada no laudo pericial judicial.
+2. Nestes termos, apurar o equivoco na análise das provas, como defende a recorrente, demandaria o reexame de matéria fático-probatória, o que faz aplicável o óbice da Súmula 7/STJ.
+3. Agravo Interno da Segurada a que se nega provimento.
+1. A despeito das alegações da agravante, a insurgência não comporta provimento.
+2. No que diz respeito à alegada violação do art. 22 da Lei 9.784/1999, a recorrente sustenta que o ato do processo administrativo deve ser produzido com a data e o local de sua realização e a assinatura da autoridade responsável, tendo suas páginas numeradas sequencialmente e rubricadas, argumentando que os documentos carreados pelo INSS não apresentam a assinatura de qualquer servidor ou da Segurada e o conteúdo deles é ideologicamente falso.
+3. Ocorre que, como já pontuado na decisão agravada, a Corte de origem rechaçou a tese de falsidade dos documentos, assim, se torna inviável nesta Corte rever o acervo probatório a fim de perquirir possível nulidade dos documentos apresentados pelo INSS ou uma possível irregularidade do processo administrativo por falta de assinatura de Servidor Autárquico.
+4. Tal iniciativa é inviável em sede de Recurso Especial, ante o óbice contido na Súmula 7 desta Corte.
+5. Ademais, a Corte de origem firmou sua convicção nos seguintes termos:
+No entanto, neste caso, verifica-se que a autora submeteu-se a três pericias judiciais, sendo que, o único laudo pericial a indicar a existência de incapacidade total e definitiva para o trabalho, fixou o termo inicial baseando-se exclusivamente na perícia realizada em sede administrativa, na qual consta atestado médico emitido pela Dra. [NOME], documento expressamente impugnado pela própria autora (laudo de fis. 134), sob a alegação de ser ideologicamente falso. Desta forma, não é possível concluir que a incapacidade para o trabalho ocorreu apenas em 07/10/2005.
+Assim, sendo portadora de enfermidades decorrentes da própria idade, como atestaram os peritos, conclui-se que a incapacidade já existia antes mesmo da sua filiação junto à Previdência Social e, ainda, não restou demonstrado que a doença progrediu ou agravou-se, impedindo-o de trabalhar, o que afasta a concessão dos beneficios pleiteados, nos termos do artigo 42, § 2º e art. 59 parágrafo único, ambos da Lei nº8.213/91.
+Neste caso, a decisão agravada levou em consideração todo o conjunto probatório, concluindo pela preexistência da incapacidade à filiação ao RGPS.
+6. O que se extrai da leitura desse trecho do acórdão é que a Corte de origem firmou sua convicção com base na prova pericial formada em Juízo, não no processo administrativo que a agravante defende nulo.
+7. Ademais, o precedente trazido aos autos em que se afasta a aplicação da Súmula 7 não retrata um posicionamento jurisprudencial a favor da tese da agravante, uma vez que cada conclusão é tomada a partir das premissas peculiares de cada processo.
+8. No caso dos autos, a autora passou a verter contribuições ao RGPS em 6.2004, apresentando pedido de benefício por incapacidade no ano seguinte. Somado a tal constatação a perícia judicial consignou que a doença é preexistente à filiação da Segurado, o que impede a concessão do benefício, nos termos da jurisprudência desta Corte:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. SÚMULA 207/STJ. RAZÕES DISSOCIADAS DOS AUTOS. SÚMULA 284/STF. INCIDÊNCIA. ART. 535 DO CPC/1973. CONTRADIÇÃO ENTRE LAUDOS. INAPLICÁVEL. ART. 42 DA LEI 8.213/1991. OMISSÃO. INEXISTÊNCIA. DOENÇA PREEXISTENTE À FILIAÇÃO. REVISÃO DO ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO EM PARTE E NEGADO NESSA EXTENSÃO.
+1. Aplica-se analogicamente a Súmula 284/STF na hipótese em que as alegações recursais estão dissociadas da situação dos autos ou da decisão impugnada. Precedentes.
+2. A contradição passível de oposição pelos embargos declaratórios é a constante na própria decisão embargada. Na hipótese dos autos, volta-se o agravante contra as conclusões da decisão diante dos laudos, o que não configura tal situação. Precedentes.
+3. De igual forma, não há omissão na decisão que aprecia o dispositivo legal ao qual o embargante, ora agravante, empresta interpretação divergente da adotada pelos julgadores. Precedentes.
+4. No caso, a pretensão de afastamento da conclusão das instâncias ordinárias quanto à inexistência de doença anterior à filiação demanda o revolvimento de provas, inviável em recurso especial por incidência da Súmula 7/STJ.
+5. Agravo interno conhecido em parte e negado nessa extensão (AgInt no REsp. 1.470.022/SP, Rel. Min. OG FERNANDES, DJe 15.12.2017).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. DOENÇA PREEXISTENTE. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. O Tribunal de origem concluiu, com base nas provas dos autos, que a incapacidade laborativa da parte autora foi preexistente à sua filiação ao regime geral de previdência social, afastando-se, destarte, a concessão do benefício de aposentadoria por invalidez, nos termos do art. 42, § 2º, primeira parte, da Lei n. 8.213/1991, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido (AgInt no AREsp. 832.079/SP, Rel. Min. GURGEL DE FARIA, DJe 2.2.2018).
+
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. DOENÇA PREEXISTENTE À FILIAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ.
+1. A Corte de origem, com base no contexto fático-probatório dos autos, concluiu que, "conforme laudo pericial, a incapacidade laborativa iniciou-se anteriormente ao ingresso da parte autora ao regime previdenciário, quando ela não possuía a qualidade de segurado. Não há elementos que atestam que a incapacidade ocorreu enquanto a parte autora detinha a qualidade de segurado, não prosperando, portanto, a alegação de progressão ou agravamento da doença, a ensejar a concessão do benefício postulado".
+2. In casu, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+3. Recurso Especial não conhecido (REsp. 1.670.574/SP, Rel. Min. HERMAN BENJAMIN, DJe 30.6.2017).
+9. Ante o exposto, nega-se provimento ao Agravo Interno da Segurada.
+10. É como voto.
