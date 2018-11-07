@@ -1,0 +1,27 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso, ante a deficiência de fundamentação da demonstração da repercussão geral da matéria constitucional e da natureza infraconstitucional da controvérsia (documento eletrônico 3).
+    O embargante opõe estes embargos de declaração sustentando que demonstrou a presença da repercussão geral da matéria, razão pela qual a decisão embargada merece o devido esclarecimento (documento eletrônico 4).
+    É o relatório. Decido.
+    Bem reexaminada a questão, verifico que a decisão ora atacada não merece reforma, visto que o embargante não aduz argumentos capazes de afastar as razões nela expendidas.
+    Por oportuno, conforme preceitua o CPC, art. 1.022, I e II, ressalto que a há pressupostos certos par oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes. A insurgência, na espécie, reflete, tão somente, o inconformismo do embargante com o decidido.
+    Com efeito, a controvérsia destes autos já foi satisfatoriamente dirimida na decisão embargada, consoante se constata no seguinte trecho:
+    “A pretensão recursal não merece acolhida.
+    Isso porque o recorrente, apesar de afirmar a existência de repercussão geral no recurso extraordinário, não demonstrou as razões pelas quais entendem que a questão constitucional aqui versada seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos do processo.
+    A mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2°, do Código de Processo Civil. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    ‘DIREITO PROCESSUAL CIVIL. SEGURO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIA TERRESTRE (DPVAT). INDENIZAÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015 . REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    2. Não houve no recurso extraordinário, interposto sob a égide do CPC/2015, demonstração da existência de repercussão geral. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015 .
+    3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    4. Agravo interno conhecido e não provido’ (RE 1.022.897-AgR/MG, Rel. Min. Rosa Weber, Primeira Turma grifei).
+    ‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 6.4.2017. RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+    1. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico.
+    2. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe a alegar de forma genérica que a questão em debate tem repercussão geral.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o artigo 85, § 11, CPC, em virtude da não fixação de honorários advocatícios nas decisões anteriores’ (RE 993.775-AgR/AM, Rel. Min. Edson Fachin, Segunda Turma grifei)” (págs. 1-3 do documento eletrônico 3).
+    No caso, o recurso extraordinário sustento apenas o seguinte:
+    “Resta notória a repercussão geral no presente caso, visto que as demandas de natureza previdenciária, ostentam relevância social, econômica e jurídica, em razão da própria natureza e extensão subjetiva das contingências sociais cobertas pela autarquia previdenciária federal.
+    Assim, considerando a natureza da matéria, que transcende os interesses subjetivos da causa em razão do número de segurados em situação semelhante, bem como as possíveis consequências jurídicas, econômicas e sociais a estes segurados e à própria União, vez que a matéria interfere no direito dos segurados titulares de benefícios por incapacidade em receber diferenças em seu benefício reconhecidas pela autarquia previdenciária, diferenças essas de caráter nitidamente alimentar, incorporadas ao patrimônio do segurado, demonstrada está a repercussão geral da matéria. “ (pág. 218 do volume eletrônico 1).
+    Verifico, portanto, que o embargante busca apenas a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 7 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
