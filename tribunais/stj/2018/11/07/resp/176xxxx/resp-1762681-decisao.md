@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (fls. 907/908, e-STJ):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA CONCLUSÃO DA OBRA E NA ENTREGA DAS CHAVES. PEDIDO DE REPARAÇÃO POR DANOS MATERIAL E MORAL. SENTENÇA DE IMPROCEDÊNCIA. APELO DO AUTOR, REITERANDO O AGRAVO RETIDO E PUGNANDO PELA PROCEDÊNCIA DOS PEDIDOS FORMULADOS A TÍTULO DE INDENIZAÇÃO POR DANO MATERIAL, CONSISTENTE NOS LUCROS CESSANTES, BEM COMO POR DANO MORAL. ALEGAÇÃO DAS RÉS NO SENTIDO DE OCORRÊNCIA DE COMPLICADORES AO ANDAMENTO DA OBRA NÃO POSSUI O CONDÃO DE AFASTAR A RESPONSABILIDADE DAS MESMAS NO ATRASO DA ENTREGA DO IMÓVEL, UMA VEZ QUE CONSTITUI RISCO INERENTE À MODALIDADE NEGOCIAL QUE SE DISPUSERAM A EXPLORAR. ALEGAÇÃO DE CULPA EXCLUSIVA DO AUTOR QUE NÃO SE SUSTENTA. A PARTE RÉ NÃO OFERECEU SERVIÇO ADEQUADO NA OBTENÇÃO DE FINANCIAMENTO. EXAUSTIVAS MENSAGENS TROCADAS PELAS PARTES QUE DEMONSTRAM EMBARAÇO À CONTRATAÇÃO DE FINANCIAMENTO DOS AUTORES JUNTO À CAIXA ECONÔMICA FEDERAL OCASIONADOS PELAS RÉS. FALHA NA PRESTAÇÃO DE SERVIÇO. LUCROS CESSANTES INDEVIDOS, EIS QUE O IMÓVEL ERA PARA MORADIA. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. DANOS MORAIS IN RE IPSA. ATRASO DE UM ANO E SETE MESES. VERBA INDENIZATÓRIA, ORA FIXADA NO VALOR DE R$ 5.000,00, POR SE MOSTRAR ADEQUADA ÀS CIRCUNSTÂNCIAS DO CASO CONCRETO E DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO RETIDO PARCIALMENTE PROVIDO. RECURSO DE APELAÇÃO A QUE SE DÁ PARCIAL PROVIMENTO.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 929/956, e-STJ), o recorrente apontou violação aos artigos 186, 402 e 927 do Código Civil, artigo 6º, inciso VIII do Código de Defesa do Consumidor e artigo 373 do Código de Processo Civil de 2015. Sustentou que sofreu prejuízos com o atraso na entrega do imóvel. Alegou serem devidos os lucros cessantes, ainda que o imóvel tivesse sido adquirido para moradia própria. Pugnou pelo arbitramento de 1% ao mês de atraso sobre o valor atualizado do imóvel a ser pago a título de lucros cessantes. Suscitou dissídio jurisprudencial.
+Contrarrazões às fls. 1958/1967 e 1969/1981, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal local admitiu o recurso especial, ascendendo os autos a esta Corte (fls. 1.984/1.988, e-STJ).
+É o relatório.
+Decide-se.
+O presente recurso merece prosperar.
+1. Com efeito, o entendimento deste Superior Tribunal de Justiça é no sentido de que, no caso de inadimplemento contratual por atraso na entrega de imóvel, os lucros cessantes são presumidos e devem ser calculados com base no valor dos alugueres que o comprador deixaria de pagar ou no valor médio dos alugueres que o imóvel poderia ter rendido, se tivesse sido entregue na data contratada.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. MULTA CONTRATUAL. PREVISÃO. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A orientação jurisprudencial do Superior Tribunal de Justiça, no caso de lucros cessantes, é firme no sentido de que, comprovado o atraso na entrega das chaves do imóvel, é devida indenização, independentemente de comprovação do prejuízo do comprador.
+3. Rever o entendimento do tribunal de origem, que reconheceu a previsão de multa contratual no acordo firmado pelas partes, esbarraria nos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1710441/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/05/2018, DJe 28/05/2018; grifou-se)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. A citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual. Precedentes.
+3. Embargos de divergência acolhidos.
+(EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018; grifou-se)
+Constata-se que o acórdão recorrido, ao consignar que "está claro que o imóvel seria utilizado pela parte autora como moradia e não como forma de obter renda. Logo, incabível a condenação a título de lucros cessantes", julgou em dissonância com a jurisprudência consolidada desta Corte, devendo ser reformado no ponto.
+Dessa forma, restando incontroverso o atraso de um ano e três meses para a entrega do imóvel ao autor (fl. 922, e-STJ), e constatado o fato de que tal demora ocorreu por culpa da recorrida, necessária a reforma do acórdão da Corte Estadual, no sentido da concessão dos lucros cessantes até o dia 6/10/2014.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, dou provimento ao presente recurso especial a fim de condenar a ré/recorrida ao pagamento de lucros cessantes, calculados com base no valor dos alugueres que o comprador deixaria de pagar ou no valor médio dos alugueres que o imóvel poderia ter rendido, se tivesse sido entregue na data contratada, a ser apurado em liquidação. Ônus sucumbenciais invertidos.
+Publique-se.
+Intimem-se.
