@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. SENTENÇA ANULADA POR CERCEAMENTO DE DEFESA. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM PARA INSTRUÇÃO PROBATÓRIA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DO REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO POR COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR contra a decisão de fls. 332-338 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (fls. 201-202, e-STJ):
+APELAÇÃO CÍVEL. DIREITO AMBIENTAL. AÇÃO DE INDENIZAÇÃO, POR DANOS MORAIS E OBRIGAÇÃO DE FAZER. ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) SÃO JORGE. EMISSÃO DE MAU CHEIRO. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA DE IMPROCEDÊNCIA.
+AGRAVO RETIDO. INTERPOSIÇÃO CONTRA A DECISÃO QUE NÃO ATRIBUIU EFEITO INTERRUPTIVO AOS EMBARGOS DE DECLARAÇÃO. RECONSIDERAÇÃO TÁCITA PELO JUÍZO A QUO. APELAÇÃO RECEBIDA NO DUPLO EFEITO. AGRAVO PREJUDICADO. RECURSO NÃO CONHECIDO.
+!APELAÇÃO. ALEGAÇÃO D,E PREJUÍZO À SAÚDE E AO BEM-ESTAR DO AUTOR. DANO ,AMBIENTAL INDIVIDUAL. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE JULGAMENTO ANTECIPADO. SENTENÇA ANULADA DE OFÍCIO. RECURSO PREJUDICADO.
+Os embargos de declaração opostos foram desacolhidos (fls. 255-265, e-STJ).
+Nas razões do recurso especial (fls. 285-300, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 355, 370, 371 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em suma: (i) negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão impugnada; e (ii) que a prova pericial havia sido deferida no despacho saneador, mas a parte autora insistiu para que a perícia fosse afastada, desistindo, assim, da produção da prova ao requerer, em diversos processos idênticos, o julgamento antecipado, apenas com base no conjunto probatório contido nos autos (prova documental).
+Em juízo de admissibilidade, a Corte de origem negou o processamento do recurso especial com base nos seguintes fundamentos: a) ausência de violação ao art. 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas, e a decisão encontra-se fundamentada; e b) incidência da Súmula 7/STJ.
+Irresignada (fls. 341-350, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 365-374 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, verifica-se que a apontada afronta ao art. 535 do CPC/1973 (atual 1.022 do CPC/2015) não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. ACIDENTE DE TRÂNSITO. SUFICIÊNCIA PROBATÓRIA DAS DESPESAS. VIOLAÇÃO DOS ARTS. 131, 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não subsiste a alegada ofensa aos artigos 131, 165, 458 e 535 do CPC, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+ ..
+3. Agravo regimental não provido. (AgRg nos EDcl no REsp n. 1.155.359/RS, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2014, DJe 2/5/2014).
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, concluiu que a sentença deveria ser anulada, determinando o retorno dos autos à origem para instrução probatória, com base nos seguintes fundamentos (e-STJ, fls. 212-216):
+(..)
+22. O ponto controvertido nos autos diz respeito aos prejuízos causados à saúde e ao bem-estar da requerente em decorrência da suposta emissão de mau cheiro proveniente da Estação de Tratamento de Esgoto (ETE) São Jorge.
+Trata-se, portanto, de dano ambiental de natureza pessoal podendo a requerida responder objetivamente pelos danos causados ao meio, ambiente e aos terceiros prejudicados, independentemente de culpa, desde que restem comprovados a conduta, o nexo causal e o dano.
+24. É o que decorre do art. 3º, III, "a" e art. 14, §1º, da Lei nº 6.938/81, que institui a Política Nacional do Meio Ambiente:
+(..)
+25. Do que precede, vê-se, que a decisão vergastada fundou-se na premissa de que o interesse público prepondera sobre a pretensão individual da parte autora. Assim, reputou desnecessária a dilação probatória, com o fim de demonstrar os danos morais alegados, porquanto a atividade exercida pela ré foi previamente autorizada pelos órgãos ambientais competentes, com amparo nas diretrizes de zoneamento urbano, e é desenvolvida em prol de toda a coletividade, impondo restrições ao uso da propriedade pelos moradores da região.
+26. Nada obstante, é de se reconhecer que as provas carreadas aos autos não dão conta de esclarecer a questão fática sob análise tendo sido precipitado o julgamento da lide no estado em que se encontrava.
+27. Com efeito, o julgamento antecipado da lide, então previsto no art. 330, 1, do CPC/73, permite, mediante juízo de certeza, o abreviamento do procedimento sem a necessidade da instrução.
+(..)
+28. Ocorre que ao julgar antecipadamente o feito o juízo a quo tolheu a oportunidade da parte autora de provar suas alegações, em que pese o pedido inicial pela produção de prova testemunhal, perícia técnica, inspeção judicial e depoimentos pessoais.
+29. Outrossim, as partes foram intimadas para especificarem as provas que pretendiam produzir momento em que a autora reiterou o pedido de prova oral, testemunhal e juntada de documentos novos. A ré, por sua vez, quedou-se silente.
+30. Sem que houvesse apreciação dos pedidos probatórios em décisão saneadora, procedeu o juízo a quo logo ao julgamento antecipado do feito.
+31. Ressalte-se que o fato da empresa ter obtido todas as licenças necessárias à instalação e operacionalização da ETE não é suficiente a demonstrar a efetiva regularidade das atividades, nem as atuais condições de manutenção da estação de tratamento.
+32. Tais circunstâncias somente poderiam ser demonstradas por estudos técnicos especializados, aptos a evidenciar se a instalação da ETE efetivamente atendeu às exigências aplicáveis, se há ou não poluição atmosférica com emissão de gases acima dos níveis legalmente admitidos, se a parte autora efetivamente está exposta a referidos gases, a considerar a distância da sua residência em relação à estação de tratamento, assim como as possíveis consequências nocivas à saúde dos moradores da região.
+33. Destarte, é de se reconhecer que o julgamento antecipado da lide foi precipitado e, não estando a causa suficientemente instruída, deve ser cassada a sentença para que se dê continuidade à instrução probatória (Sem grifos no original).
+Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7/STJ.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. MANUTENÇÃO INDEVIDA DE GRAVAME. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL.
+INEXISTÊNCIA DE SIMILITUDE.
+1. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. Agravo regimental desprovido (AgRg no AREsp n 794.875/RS, Relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 3/12/2015, DJe 10/12/2015).
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial interposto por COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR.
+Publique-se.
