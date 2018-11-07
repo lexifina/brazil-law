@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fls. 200/201):
+APELAÇÃO EM AÇÃO DE COBRANÇA DE COMISSÃO DE CORRETAGEM: ARTS. 722 E SS. DO CÓDIGO CIVIL - NEGÓCIO JURÍDICO BILATERAL - ALEGAÇÃO DE CONTRATO VERBAL - NÃO DEMONSTRAÇÃO DA ATUAÇÃO DETERMINANTE PARA A EFETIVAÇÃO DO CONTRATO - COMISSÃO INDEVIDA - MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+1. Apelação Cível em Ação de Cobrança de Comissão de Corretagem:
+2. Cinge-se a controvérsia recursal ao direito do recorrente em perceber Comissão de Corretagem pela alegada intermediação da venda do imóvel descrito na inicial.
+3. A questão principal volta-se à verificação do direito do recorrente em receber Comissão de Corretagem, no valor de 5% (cinco por cento) sobre o Contrato de Compra e Venda do imóvel situada na Avenida Alcindo Cacela n.º 1865 que fora vendido pelos recorridos à Sociedade Silveira, Athias, [NOME], Guimarães, Pinheiro & Scaff - Advogados pelo valor, à época (16/10/2012), de R$ 1.200.000,00 (Hum milhão e duzentos mil reais).
+4. O apelante alega a existência de contrato verbal firmado com os recorridos, em especial o Senhor [NOME] [NOME] de Lima, referente a serviços de corretagem por ter intermediado a venda do imóvel de propriedade deste e dos demais recorridos. Contudo, a prova documental e testemunhal colhida nos autos não revela segurança de que a parte autora intermediou a negociação da venda do imóvel.
+5. É bem verdade que a aproximação dos demandados com os adquirentes, para fins de compra e venda do imóvel, teve início com tratativas do autor, mas, conforme lê-se do documento de fls. 19 as negociações até o fechamento prosseguiram diretamente com os recorridos [NOME] e [NOME].
+6. Ainda que concretizada a compra e venda do imóvel, não há corno reconhecer o direito à comissão de corretagem, ante a bilateralidade do negócio, com a ressalva de que o fato de figurar o autor como testemunha no Contrato igualmente não faz erigir o direito alegado, uma vez que este decorre da efetiva prestação do serviço de intermediação com a aproximação das partes e obtenção de manifestação consensual sobre as condições do negócio, fato que não fora corroborado tanto pela prova documental quanto pela testemunhal.
+7. O contexto probatório não ratifica que o autor participou efetivamente das tratativas negociais nem da conclusão do negócio, porque desautorizado e não contratado pelos proprietários. Tanto assim que em nenhum momento os compradores foram levados ou estiveram na presença dos réus junto com o autor para corroborar essa falta de contratação.
+8. Não demonstração do fato constitutivo do direito, ônus processual que lhe cabia.
+9. Manutenção da sentença.
+10. Recurso conhecido e improvido.
+11. Decisão unânime.
+No recurso especial (e-STJ fls. 211/240), com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente aponta negativa ao art. 725 do CC/2002, sustentando que a interpretação do Tribunal local estaria equivocada, na medida em que a comissão de corretagem é recebida pela efetiva aproximação das partes, seguida da conclusão bem sucedida do negócio, como seria o caso dos autos. Juntou diversos julgados do STJ, no intuito de comprovar o dissídio jurisprudencial.
+Por fim, destacou a má valoração das provas.
+Ofereceram-se contrarrazões (e-STJ fls. 259/271).
+É o relatório.
+Decido.
+O conhecimento do recurso quanto à má valoração das provas exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente, ônus de que a parte não se desincumbiu. Aplica-se a Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1024730/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 21/08/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ERRO MÉDICO. DANO MORAL. NÃO CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+(..)
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.562.730/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/4/2016, DJe 12/4/2016.)
+O Tribunal de origem, ao dirimir a controvérsia, entendeu não ser devida a comissão de corretagem apenas pela aproximação das partes, merecendo destaque os seguintes trechos (e-STJ fls. 204/206):
+Nesse sentido, importante consignar que o recorrente aduz ter-lhe sido outorgados poderes para mediar a venda do imóvel acima referido de forma verbal pelo recorrido [NOME], fato que teria sido ratificado pelo sócio da sociedade de advogados adquirente, Senhor Afonso Vaz Lobato, ao declarar que o recorrente procurou o escritório oferecendo o bem e que as primeiras tratativas referentes ao negócio foram feitas consigo, conforme o documento de fls. 19, sendo, importante esclarecer que, de acordo o mesmo documento, as negociações até o fechamento foram realizadas diretamente com os Senhores [NOME] e [NOME], ora recorridos.
+Por sua vez, o requerido [NOME], a quando de sua Contestação (fls. 59-67), refuta a contratação do recorrente, afirmando que dela não precisaria por ser vizinho confinante em relação à sociedade adquirente.
+Somado a isso, conforme o documento de fls. 79-87, o apelante assinou o Contrato de Compra e Venda do imóvel, como testemunha, sendo essas as provas que elenca como passíveis de corroborar a sua tese de direito à percepção da Comissão de Corretagem perquirida.
+(..)
+No caso em exame, o apelante alega a existência de contrato verbal firmado com os recorridos, em especial o Senhor [NOME] [NOME] de Lima, referente a serviços de corretagem por ter intermediado a venda do imóvel de propriedade deste e dos demais recorridos.
+Contudo, a prova documental e testemunhal colhida nos autos não revela segurança de que a parte autora intermediou a negociação da venda do imóvel.
+É bem verdade que a aproximação dos demandados com os adquirentes, para fins de compra e venda do imóvel, teve início com tratativas do autor, mas, conforme lê-se do documento de fls. 19 as negociações até o fechamento prosseguiram diretamente com os recorridos [NOME] e [NOME].
+E, assim, ainda que concretizada a compra e venda do imóvel, não há como reconhecer o direito à comissão de corretagem, ante a bilateralidade do negócio, com a ressalva de que o fato de figurar o autor como testemunha no Contrato igualmente não faz erigir o direito alegado, uma vez que este decorre da efetiva prestação do serviço de intermediação com a aproximação das partes e obtenção de manifestação consensual sobre as condições do negócio, fato que não fora corroborado tanto pela prova documental quanto pela testemunhal.
+(..)
+Aliás, ainda que o autor possa ter intermediado as manifestações de interesse em compra e venda entre vendedores e compradores, não participou efetivamente das tratativas negociais nem da conclusão do negócio, porque desautorizado e não contratado pelos proprietários.
+Tanto assim que em nenhum momento os compradores foram levados ou estiveram na presença dos réus junto com o autor para corroborar essa falta de contratação Assim, irrepreensíveis me afiguram os fundamentos invocados pelo MM. Juízo ad quo para julgar improcedente a pretensão esposada na inicial, à vista da não demonstração do fato constitutivo do direito, ônus processual que lhe cabia.
+Como visto, no acórdão recorrido ressaltou-se que não ficou demonstrada a atuação determinante para a consumação do contrato, constituindo-se em mera aproximação, sem a efetiva vinculação entre as partes.
+Assim, conforme entendimento dominante nesta Corte Superior, é incabível o pagamento de comissão de corretagem, no contrato de compra e venda de imóveis, quando o corretor realiza a mera aproximação das partes, conforme se pode observar nos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE DE CONDENAÇÃO AO PAGAMENTO DE COMISSÃO REFERENTE A NEGOCIAÇÃO DISTINTA DAQUELA REPORTADA NA PETIÇÃO INICIAL. JULGAMENTO EXTRA PETITA. COMPRA E VENDA DE IMÓVEL. MERA APROXIMAÇÃO ENTRE AS PARTES. AUSÊNCIA DE PARTICIPAÇÃO NA CONCLUSÃO DO NEGÓCIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A mera aproximação das partes, para que se inicie o processo de negociação, não justifica, por si só, o pagamento de comissão de corretagem. Precedentes.
+2. Após a análise do conjunto probatório coligido nos autos, o Juízo de origem concluiu que não houve a concretização de nenhum contrato de compra e venda entre as demandadas. A concretização do negócio também não foi evidenciada na segunda instância, tendo o relator da apelação apreciado a consumação de negócio jurídico diverso daquele reportado na inicial, ao reconhecer o direito à corretagem sobre a locação do imóvel, proferindo, assim, julgamento extra petita.
+3. A reforma do acórdão recorrido, quanto à falta de atuação plena e esforço eficaz por parte do corretor, com a conclusão de que, embora tenha aproximado as partes, não demonstrou a efetiva participação na conclusão de negócio por seu intermédio, demandaria o revolvimento do contexto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1142969/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. OBRIGAÇÃO DE RESULTADO. PARTICIPAÇÃO NA CONCLUSÃO DO NEGÓCIO. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. CONFIRMAÇÃO DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O contrato de corretagem não impõe simples obrigação de meio, mas de resultado, de maneira que somente é cabível a comissão de corretagem quando o corretor efetua a aproximação entre comprador e vendedor, resultando na efetiva venda do imóvel.
+2. O Tribunal a quo afirmou que, embora o recorrente tenha iniciado as tratativas, não demonstrou a efetiva participação na conclusão do negócio por seu intermédio.
+3. Na medida em que a convicção firmada deu-se com base nos elementos fáticos dos autos, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 514.317/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/08/2015, DJe 16/09/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. COMISSÃO DE CORRETAGEM. OBRIGAÇÃO DE RESULTADO. PARTICIPAÇÃO NA CONCLUSÃO DO NEGÓCIO. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não é devido o pagamento de comissão de corretagem no contrato de compra e venda de imóveis quando o corretor realiza a mera aproximação das partes. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1632498/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018)
+Incide a Súmula n. 83 do STJ, aplicável aos recursos com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial. Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
