@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática dos crimes previstos no artigo 33, caput, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003, na forma do art. 69, caput, do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fls. 49/50):
+HABEAS CORPUS. CRIMES CONTRA A SAÚDE E INCOLUMIDADE PÚBLICAS. TRÁFICO ILÍCITO DE SUBSTÂNCIAS ENTORPECENTES E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO (LEI 11.343/2006, ART. 33, CAPUT, E LEI 10.826/2003, ART. 12). CONVERSÃO DA PRISÃO FLAGRANCIAL EM PREVENTIVA E POSTERIOR INDEFERIMENTO DE PLEITO REVOGATÓRIO.
+INVOCADO CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PROVIDÊNCIA EXTREMA. INOCORRÊNCIA. INQUÉRITO POLICIAL INSTAURADO EM FACE DE NOTÍCIA QUE APONTA O ENVOLVIMENTO DO AGENTE COM O COMÉRCIO ESPÚRIO. APREENSÃO DE MATERIAL ESTUPEFACIENTE FRACIONADO NA CASA DO INVESTIGADO. DECISÕES EMBASADAS EM ELEMENTOS SÓLIDOS E INDÍCIOS CONSISTENTES DA NECESSIDADE DA CONSTRIÇÂO ANTECIPADA DA LIBERDADE. IMPERIOSA GARANTIA DA ORDEM PÚBLICA DIANTE DA GRAVIDADE E REPROVABILIDADE DA CONDUTA. PRESENÇA DOS PRESSUPOSTOS DOS ARTS. 312, CAPUT, E 313, I, AMBOS DA LEI ADJETIVA PENAL. PROJEÇÃO DE PROVÁVEL APLICAÇÃO DA REGRA DO § 4o DO ART. 33 DA LEI DE DROGAS, COM POSSIBILIDADE DE RESGATE DE PENA NO REGIME INTERMEDIÁRIO OU ABERTO. IMPERTINÊNCIA. EXISTÊNCIA DE ETAPA PRÓPRIA.
+CONDENAÇÕES ATINGIDAS PELO PRAZO DEPURADOR DA REINCIDÊNCIA (CÓDIGO PENAL, ART. 64, I). VALORAÇÃO COMO MAUS ANTECEDENTES. VIABILIDADE. PRECEDENTES.
+PREDICADOS SUBJETIVOS INSUFICIENTES PARA A ELISÃO DA CLAUSURA. CONCOMITANTE INCIDÊNCIA DO PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA.
+ALMEJADA PERMUTA DO COMANDO CONSTRITIVO POR MEDIDAS CAUTELARES ALTERNATIVAS (CPP, ART. 319). INVIABILIDADE. ADEQUAÇÃO E SUFICIÊNCIA DA BENESSE NÃO EVIDENCIADAS. ORDEM DENEGADA.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea do decreto de prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que nem a gravidade abstrata do delito nem meras suposições podem servir como fundamento para a decretação da medida constritiva.
+Destaca que o paciente é primário e possui residência fixa e ocupação lícita, tendo sido de poucas proporções a quantidade de droga encontrada em sua residência, de modo que ao menos a imposição de medidas cautelares diversas da prisão merece ser considerada nessa situação.
+Diante disso, requer, em liminar e no mérito, a revogação do decreto de prisão preventiva, com a aplicação, ou não, das medidas cautelares previstas no art. 319 do CPP.
+O pleito urgente foi indeferido (e-STJ fls. 66/69).
+Prestadas as informações (e-STJ fls. 76/77), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 82/90).
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, em 16/10/2018 sobreveio sentença condenatória nos autos da ação penal originária, tendo sido deferido ao réu, ora paciente, o direito de apelar em liberdade, momento em que foi determinada a expedição de alvará de soltura em seu favor.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intime-se.
