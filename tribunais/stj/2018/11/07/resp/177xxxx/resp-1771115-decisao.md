@@ -1,0 +1,76 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO TITULAR DO BENEFÍCIO NO CURSO DO PROCESSO, ANTES DO RECONHECIMENTO DO DIREITO AO BENEFÍCIO. AUSÊNCIA DE DIREITO ADQUIRIDO DOS HERDEIROS. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo espólio de [NOME] contra acórdão proferido pelo TRF-3ª Região, assim ementado:
+PROCESSUAL CIVIL. EXTINÇÃO POR AUSÊNCIA DE INTERESSE PROCESSUAL. CABIMENTO, POR FUNDAMENTO DIVERSO. PREVIDENCIÁRIO. ASSISTÊNCIA SOCIAL. CONCESSÃO ADMINISTRATIVA E CESSAÇÃO DO BENEFÍCIO ASSISTENCIAL PELA MORTE DO TITULAR NO CURSO DO PROCESSO. HABILITAÇÃO DE HERDEIROS. IMPOSSIBILIDADE. DIREITO PERSONALÍSSIMO. ART. 267, IX, do CPC/1973. APELAÇÃO DESPROVIDA.
+1 - Dispõe o artigo 21, §1º, da Lei Assistencial que: "O pagamento do benefício cessa no momento em que forem superadas as condições referidas no caput, ou em caso de morte do beneficiário".
+2 - A morte do beneficiário no curso da ação põe termo final no pagamento do benefício assistencial, sendo que o direito à percepção mensal das prestações vincendas é intransferível a terceiros a qualquer título.
+3 - Consta dos autos que em 17.08.2007, no curso do processo, o benefício assistencial pleiteado foi concedido administrativamente, sob nº 5706675550, conforme noticiado a fl. 229/230 e cessado em 11/07/2012, data do óbito da sua titular.
+4 - In casu, o óbito da titular é anterior ao julgamento desta demanda, razão pela qual não há falar-se em direito dos herdeiros à percepção de eventuais parcelas em atraso, uma vez que estas sequer chegaram a incorporar-se ao seu patrimônio, na medida em que se trata, como anteriormente referido, de direito de natureza personalíssima, intransmissível, pois, por sucessão. Logo, é de ser mantida a extinção do feito, todavia por fundamento diverso, qual seja, nos termos do art. 267, IX do CPC/1973.
+5 - Apelação desprovida.
+Em suas razões de recurso especial, sustenta o recorrente ofensa ao artigo 112 da Lei 8.213/1991 e artigo 23 do Decreto 6.214/2007, afirmando que, conquanto o benefício assistencial seja direito personalíssimo, que se extingue com a morte do beneficiário, os sucessores da de cujus tem direito ao recebimento dos valores atrasados desde a data do ajuizamento da ação até a data do falecimento, com desconto dos valores recebidos administrativamente.
+O prazo para oferta de contrarrazões ao recurso especial transcorreu in albis.
+Noticiam os autos que a ação foi ajuizada, no ano de 2001, por [NOME], pleiteando a concessão de benefício assistencial de prestação continuada à pessoa com deficiência.
+Em 2003, foi prolatada sentença julgando improcedente o pedido, a qual foi anulada pelo TRF-3ª Região, com a determinação de retorno dos autos ao primeiro grau.
+Sobreveio a informação de que a autora estava recebendo, administrativamente, benefício assistencial de prestação continuada ao idoso, a partir de 2007.
+Em face do falecimento da autora, seus sucessores requereram a habilitação nos autos, a qual foi indeferida pela Magistrada de primeira instância.
+Adveio a sentença que extinguiu o processo sem resolução do mérito, com fulcro no artigo 267, VI, do CPC/1973.
+Em sede de apelação interposta pelo espólio da autora, ora recorrente, o Tribunal de origem negou provimento ao recurso, nos termos da ementa supratranscrita.
+Opostos embargos de declaração pela parte autora, foram rejeitados.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A questão recursal gira em torno da possibilidade de os herdeiros se habilitarem no curso do processo para fins de recebimento de prestações de benefício assistencial, não pagas em vida ao titular do benefício, em razão do seu falecimento.
+O benefício assistencial, previsto no artigo 203, V, da Constituição Federal de 1988, equivalente a um salário mínimo, é pago mensalmente ao idoso ou a pessoa com deficiência, que comprove não possuir meios de prover a sua própria existência, independentemente de qualquer contribuição à seguridade social.
+Transcreve-se o referido dispositivo constitucional, in verbis:
+Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social, e tem por objetivos:
+ ..
+V - a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei.
+A lei que regulamenta o direito ao benefício assistencial corresponde à Lei 8.742/1993, cujos artigos 20 e 21 merecem destaque, in verbis:
+Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.
+§ 1º Para os efeitos do disposto no caput, a família é composta pelo requerente, o cônjuge ou companheiro, os pais e, na ausência de um deles, a madrasta ou o padrasto, os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que vivam sob o mesmo teto.
+§ 2º Para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
+§ 3º Considera-se incapaz de prover a manutenção da pessoa com deficiência ou idosa a família cuja renda mensal per capita seja inferior a 1/4 (um quarto) do salário-mínimo.
+§ 4º O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória.
+§ 5º A condição de acolhimento em instituições de longa permanência não prejudica o direito do idoso ou da pessoa com deficiência ao benefício de prestação continuada.
+§ 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de impedimento de que trata o § 2º, composta por avaliação médica e avaliação social realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro Social - INSS.
+§ 7º Na hipótese de não existirem serviços no município de residência do beneficiário, fica assegurado, na forma prevista em regulamento, o seu encaminhamento ao município mais próximo que contar com tal estrutura.
+§ 8º A renda familiar mensal a que se refere o § 3º deverá ser declarada pelo requerente ou seu representante legal, sujeitando-se aos demais procedimentos previstos no regulamento para o deferimento do pedido.
+§ 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo.
+§ 10º Considera-se impedimento de longo prazo, para os fins do § 2º deste artigo, aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos.
+§ 11º Para concessão do benefício de que trata o caput deste artigo, poderão ser utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar e da situação de vulnerabilidade, conforme regulamento.
+Art. 21. O benefício de prestação continuada deve ser revisto a cada 2 (dois) anos para avaliação da continuidade das condições que lhe deram origem.
+§ 1º O pagamento do benefício cessa no momento em que forem superadas as condições referidas no caput, ou em caso de morte do beneficiário.
+§ 2º O benefício será cancelado quando se constatar irregularidade na sua concessão ou utilização.
+§ 3º O desenvolvimento das capacidades cognitivas, motoras ou educacionais e a realização de atividades não remuneradas de habilitação e reabilitação, entre outras, não constituem motivo de suspensão ou cessação do benefício da pessoa com deficiência.
+§ 4º A cessação do benefício de prestação continuada concedido à pessoa com deficiência não impede nova concessão do benefício, desde que atendidos os requisitos definidos em regulamento. (Grifo nosso)
+Consubstanciado nos fundamentos constitucionais da erradicação da pobreza, da construção de uma sociedade livre, justa e solidária e do mínimo existencial, para a sua concessão é exigida a comprovação de deficiência ou idade avançada; renda familiar mensal per capita inferior a 1/4 (um quarto) do salário mínimo e, ainda; da incapacidade de prover a própria sobrevivência ou a do núcleo familiar, sendo certo que o requisito relativo à renda per capita foi relativizado pela jurisprudência do STJ, no Recurso Especial Repetitivo 1.112.557/MG.
+Trata-se de um benefício de natureza personalíssima, porquanto é devido, de modo intransferível, apenas ao seu titular, em razão de suas condições pessoais, e somente por ele pode ser exercido.
+No âmbito regulamentar, o artigo 23 do Decreto nº 6.214/2007, garante expressamente aos herdeiros ou sucessores o valor residual não recebido em vida pelo beneficiário, in verbis:
+Art. 23. O Benefício de Prestação Continuada é intransferível, não gerando direito à pensão por morte aos herdeiros ou sucessores.
+Parágrafo único. O valor do resíduo não recebido em vida pelo beneficiário será pago aos seus herdeiros ou sucessores, na forma da lei civil.
+O caráter personalíssimo do benefício assistencial impede a realização de pagamentos posteriores ao óbito, mas não retira do patrimônio jurídico do seu titular as parcelas que lhe eram devidas antes de seu falecimento, e que, por questões de ordem administrativa e processual, não lhe foram pagas em momento oportuno.
+Destarte, não obstante o caráter personalíssimo do benefício assistencial, eventuais créditos existentes em nome do beneficiário no momento de seu falecimento, devem ser pagos aos seus herdeiros, porquanto, já integravam o patrimônio jurídico do de cujus.
+No âmbito do Superior Tribunal de Justiça, colacionam-se os seguintes julgados:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO TITULAR DO BENEFÍCIO NO CURSO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS PARA O RECEBIMENTOS DOS VALORES NÃO PAGOS EM VIDA. POSSIBILIDADE. ARTIGOS 20 E 21 DA LEI 8.742/1993. ARTIGO 23 DO DECRETO 6.214/2007. RECURSO ESPECIAL PROVIDO.
+1. No caso de benefício assistencial de prestação continuada, previsto na Lei 8.742/1993, não obstante o seu caráter personalíssimo, eventuais créditos existentes em nome do beneficiário no momento de seu falecimento, devem ser pagos aos seus herdeiros, porquanto, já integravam o patrimônio jurídico do de cujus. Precedentes.
+2. O caráter personalíssimo do benefício impede a realização de pagamentos posteriores ao óbito, mas não retira do patrimônio jurídico do seu titular as parcelas que lhe eram devidas antes de seu falecimento, e que, por questões de ordem administrativa e processual, não lhe foram pagas em momento oportuno.
+3. No âmbito regulamentar, o artigo 23 do Decreto nº 6.214/2007, garante expressamente aos herdeiros ou sucessores o valor residual não recebido em vida pelo beneficiário, 4. Portanto, no caso de falecimento do beneficiário no curso do processo em que ficou reconhecido o direito ao benefício assistencial, é possível a habilitação de herdeiros do beneficiário da assistencial social, para o recebimento dos valores não recebidos em vida pelo titular.
+5. Recurso especial provido.
+(REsp 1.568.117/SP, Segunda Turma, Relator Ministro Mauro Campbell, julgado em 21/3/2017, DJe 27/3/2017)
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. MORTE DO AUTOR NO CURSO DA AÇÃO. EXTINÇÃO DO PROCESSO. DIREITO DOS HERDEIROS/SUCESSORES A RECEBER EVENTUAIS PARCELAS ATÉ A DATA DO ÓBITO. POSSIBILIDADE. PRECEDENTES.
+1. O entendimento desta Corte é no sentido de que, apesar do caráter personalíssimo dos benefícios previdenciários e assistenciais, os herdeiros têm o direito de receber eventuais parcelas que seriam devidas ao autor que falece no curso da ação. Precedentes: AgRg no REsp 1.260.414/CE, Rel. Min. Laurita Vaz, Quinta Turma, DJe 26/3/2013; AgRg no Ag 1.387.980/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 28/5/2012; AgRg no REsp 1.197.447/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 2/2/2011.
+2. Agravo interno não provido.
+(AgInt no REsp 1.531.347/SP, Primeira Turma, Relator Ministro Benedito Gonçalves, julgado em 15/12/2016, DJe 3/2/2017)
+Contudo, no caso dos autos, segundo os contornos fáticos e jurídicos delineados no acórdão recorrido e na sentença, não houve o reconhecimento judicial do direito ao benefício assistencial à pessoa com deficiência desde o requerimento administrativo, pois a parte autora faleceu antes de se submeter à perícia judicial para comprovação da sua condição de pessoa com deficiência.
+Acrescente-se que foi concedido administrativamente, no curso do processo judicial, no período entre 17/8/2007 até a data do óbito em 11/7/2012, benefício assistencial à pessoa idosa.
+Destarte, uma vez que a parte autora faleceu antes de se submeter à perícia judicial, quando nem havia sido reconhecido seu alegado direito ao benefício assistencial à pessoa com deficiência, não há falar em direito adquirido dos herdeiros para receberem parcelas supostamente devidas até o óbito da autora.
+Nesse sentido, já decidiu o Superior Tribunal de Justiça em caso análogo:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO AUTOR ANTES DA INSTRUÇÃO PROBATÓRIA. AUSÊNCIA DE DIREITO ADQUIRIDO DOS HERDEIROS. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA AUSÊNCIA DE PROVAS APTAS PARA COMPROVAR A PRESENÇA DOS REQUISITOS PARA O DEFERIMENTO DO BENEFÍCIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, a parte autora faleceu antes da fase instrutória, quando nem sequer havia sido reconhecido o direito ao benefício assistencial pleiteado pelo de cujus, não havendo falar em direito adquirido dos herdeiros para receberem parcelas supostamente devidas até o óbito do autor.
+3. Consignado no acórdão recorrido que o falecimento do requerente ocorreu antes que se realizasse qualquer ato de instrução probatória, especialmente o estudo social para a verificação da alegada situação de miserabilidade. Rever a conclusão a que chegou a Corte de origem exige a revisão do contexto fático e probatório dos autos, o que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1557804/MS, Primeira Turma, Relator Ministro Benedito Gonçalves, julgado em 3/5/2018, DJe 11/5/2018)
+Recai ao recurso especial a Súmula 568/STJ, a qual dispõe in verbis: o relator, monocraticamente, e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fulcro no artigo 932, IV, do CPC/2015 c/c o artigo 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
