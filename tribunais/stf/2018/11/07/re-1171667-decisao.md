@@ -1,0 +1,21 @@
+Decisão
+    A Fazenda do Estado de São Paulo interpôs Recurso Extraordinário, com amparo no art. 102, III, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo alegando que houve violação ao art. 114, incisos I e IX, da CF/1988. Veja-se, a propósito, a ementa do julgado (fl. 2, Doc. 8):
+    “AGRAVO DE INSTRUMENTO AÇÃO DE RITO ORDINÁRIO - INCIDÊNCIA DA SEXTA-PARTE SOBRE OS VENCIMENTOS INTEGRAIS - SERVIDOR PÚBLICO ESTADUAL ADMITIDO SOB O REGIME JURÍDICO DA CLT - COMPETÊNCIA DA JUSTIÇA ESTADUAL. O benefício da sexta-parte não é disciplinado pela legislação trabalhista. O artigo 129 da CE não faz distinção entre os servidores públicos quanto ao regime jurídico em que foram admitidos. Competência da Justiça Estadual Comum para apreciação do pedido, com relação a todos os autores. Decisão reformada. Agravo de instrumento provido.”
+    O Tribunal de origem inadmitiu o Recurso Extraordinário ao fundamento de que a pretensão recursal diverge da jurisprudência desta CORTE (Doc. 26).
+    Interposto Agravo desta decisão (Doc. 28), os autos foram remetidos ao STF. (Doc. 32).
+    No SUPREMO TRIBUNAL FEDERAL, a Ilustríssima Ministra Presidente determinou a devolução dos autos ao Tribunal de origem para que fosse observado o Tema 853 (ARE 906.491, Rel. Min. TEORI ZAVASCKI). (Doc. 37)
+    Em juízo de retratação, o Tribunal de Justiça do Estado de São Paulo adequou o acórdão recorrido ao referido tema de repercussão geral (fl. 191, Vol. 42):
+    “Assim, em sede de retratação, de acordo com o artigo 1.030, II, do novo CPC, acolho o novo entendimento do STF, adequando o acórdão para manter a. r. decisão de primeiro grau e negar provimento ao agravo. “
+    Interpostos Embargos de Declaração, foram acolhidos para determinar “a remessa dos autos para distribuição a uma das Varas da Justiça do Trabalho” (fl. 206, Vol. 42). Eis ementa do julgado (fl. 205, Vol. 42).
+    “EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE RITO ORDINÁRIO. INCIDÊNCIA DA SEXTA-PARTE SOBRE OS VENCIMENTOS INTEGRAIS. Decisão de primeiro grau que declarou a incompetência da Justiça Comum para apreciar os pedidos de servidores públicos celetistas. Adequação do v. acórdão (artigo 1.030, II, do novo CPC) para manter a decisão de primeiro grau, e negar provimento ao agravo. Embargos de declaração acolhidos, com excepcional efeito modificativo, apenas para determinar a remessa dos autos a uma das Varas da Justiça do Trabalho.” (grifo nosso)
+    Em novo juízo de admissibilidade, os autos foram remetidos a esta CORTE (fls. 211-212, Vol. 42).
+    É o relatório. Decido.
+    Da análise dos autos, verifica-se que o Tribunal de origem, em juízo retratação, determinou a remessa dos autos “a uma das Varas da Justiça do Trabalho”, decidindo, assim, em conformidade com à tese fixada no Tema 853 (ARE 906.491, Rel. Min. TEORI ZAVASCKI) assim ementado:
+    “CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA. SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELO REGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. 1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho - CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43). 2. Agravo a que se conhece para negar seguimento ao recurso extraordinário.
+    Desse modo, tendo o Tribunal de origem declarado a incompetência da justiça estadual, não subsiste mais qualquer interesse no julgamento deste recurso.
+    Diante do exposto, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, JULGO PREJUDICADO O RECURSO.
+    Publique-se.
+    Brasília, 7 de novembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+documento assinado digitalmente
