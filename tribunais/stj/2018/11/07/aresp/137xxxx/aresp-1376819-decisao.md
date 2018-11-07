@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de contrariedade aos artigos de lei indicados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 455/456).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 423):
+Reintegração de posse - Imóvel residencial urbano - Esbulho possessório caracterizado - Autor despojado da posse por iniciativa do réu, "sponte sua", que alega comodato precário - Retomada da posse, em sendo verdadeiro o comodato alegado, no exercício arbitrário das próprias razões, sem a denúncia premonitória - Posse do autor para interditos, inclusive em face do pseudo comodante - Prova documental de instalações de energia elétrica e de água/esgoto até ser esbulhada a posse pelo réu - Prova testemunhal da posse do autor - Eventual afastamento da posse por períodos episódicos que não configura abandono em condições de legitimar o comportamento do réu - Solução baseada exclusivamente na posse, sem o estudo do domínio - Sentença mantida - Recurso do réu desprovido.
+Nas razões do recurso especial (e-STJ fls. 435/445), interposto com base no art. 105, III, "a" da CF, o recorrente apontou violação dos arts. 1.196 e 1.233 do CC/2002 e 436 do CPC/2015, porque inexistiria a comprovação da posse do recorrido sobre o imóvel em disputa, devido ao seu abono voluntário e prolongado, o que descaracterizaria o esbulho alegado por esse, bem como inviabilizaria o seu pedido de tutela possessória.
+Não foram apresentadas contrarrazões (e-STJ fl. 454).
+No agravo (e-STJ fls. 461/467), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 473/476).
+É o relatório.
+Decido.
+Na insurgência recursal, o recorrente apontou ofensa ao art. 436 do CPC/2015. Contudo, não demonstrou em que consistiria a afronta a tal dispositivo, visto que não correlacionou suas teses à legislação invocada, nem individualizou como o acórdão recorrido teria afrontado ou negado vigência ao referido dispositivo.
+Diante de tais condutas, verifica-se que a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse aspecto: AgInt no AREsp n. 681.799/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/10/2016, DJe 4/11/2016, e AgInt no REsp n. 1.595.233/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/9/2016, DJe 30/09/2016.
+O Tribunal a quo concedeu a reintegração de posse à parte recorrida sobre o imóvel litigioso, nos seguintes termos (e-STJ fls. 424/426):
+A pretensão resistida é em torno de imóvel residencial urbano, no qual o autor, [NOME], morava, diz ele, numa edícula edificada nos fundos com a ajuda de um irmão.
+As fotografias reproduzidas a fls. 26/27 retratam o imóvel e a certidão a fls. 38/41 evidencia que o autor ajuizou ação de usucapião que tramita no Juízo de Direito da 2ª Vara de Registro de Imóveis da Comarca da Capital (processo n. 583.00.2008.204744-5). O esbulho do qual se queixa o autor, a se ter como ponto de partida o boletim de ocorrência policial trasladado a fls. 45/46, ocorreu em janeiro de 2009 e é imputado ao réu, [NOME], vizinho do imóvel que, inicialmente, cortou a cerca divisória e, logo depois, invadiu a edícula, apossando-se inclusive dos móveis que a guarneciam e de todos os pertences pessoais.
+Essa invasão é informada no boletim de ocorrência policial trazido a fls. 47/48.
+O réu, [NOME], diz-se proprietário do imóvel e junta a fls. 110 certidão da matrícula sob n. 356.894 do 11º Registro de Imóveis da Comarca da Capital, enfatizando que o autor ocupava a edícula por empréstimo, a título de comodato verbal e por força de laços de parentesco, pelo menos até meados de 2006, quando tentou "assassinar" ("sic") a esposa e seu convivente e desapareceu (fls. 106).
+Sob essa perspectiva, o autor, se não tinha posse com "animus domini", tinha a posse direta em virtude do comodato precário, passível de ser invocada inclusive em face do réu. A prova documental atesta que o imóvel é o de n. 237 da Rua Amador Lourenço e, nele, o autor mantinha instalações de energia elétrica e de água/esgoto há anos, observando-se que essas instalações, na conformidade dos documentos a fls. 30,33/35, estavam operantes nos meses de novembro de 2008 a fevereiro de 2009. Portanto, se em dado momento o réu deu a posse em comodato ao autor, acaso seja verdadeira essa versão, é notório que o autor, ainda que nesse interregno se afastou episodicamente da posse, foi vítima do exercício arbitrário das próprias razões de iniciativa do réu.
+Sem ter denunciado o comodato sendo isso, insista-se, a realidade da posse do autor o réu "sponte sua" retomou a posse sob o pretexto de abandono do comodatário.
+De abandono, porém, não se pode falar, se até o exercício arbitrário das próprias razões perpetrado pelo réu o autor mantinha instalações de energia elétrica e de água/esgoto.
+Abandono não é sinônimo de afastamento episódico, temporário, intercalado. Abandono da posse de um imóvel é o compatível com o afastamento por tempo necessário à formação do usucapião.
+Assim, sem adentrar ao exame do domínio, que tudo faz crer em face da certidão a fls. 110 é do réu, a melhor prova da posse é em favor do autor, mesmo admitindo-se que a hipótese fosse de comodato precário, porque dependente de denúncia premonitória não providenciada pelo réu.
+A prova testemunhal, a fls. 331/334, não alude ao comodato cogitado pelo réu; reverso; é eloquente no sentido de que o autor construiu a casa e ocupou-a com a mulher ("rectius": convivente, já que o autor se qualifica solteiro) e uma filha portadora de limitações físicas, sendo essa circunstância o motivo pelo qual ele mudou-se do imóvel, em que há uma escadaria difícil de ser escalada (v. fotografias).
+A r. sentença, em que pese não esmiuce o que foi alegado e provado, é incensurável.
+Não muda esse deslinde a prova documental ministrada pelo réu a fls. 297/307, uma vez que é prova da posse posterior ao esbulho ocorrido no mês de janeiro de 2009.
+Constata-se, portanto, que a Corte local não se manifestou quanto ao art. 436 do CPC/2015. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Além disso, dissentir das conclusões do Tribunal de origem, para reverter a proteção possessória deferida ao recorrido, exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ. A respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. REQUISITOS DO ART. 927 DO CPC. COMPROVAÇÃO DA POSSE E DO ESBULHO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem, mediante análise dos elementos informativos dos autos, entendeu que ficaram configurados os requisitos autorizadores para a procedência do pedido reintegratório.
+2. A modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, no sentido de não estarem demonstrados todos os requisitos do art. 927 do CPC/1973, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 914.916/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 7/2/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REINTEGRAÇÃO DE POSSE. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. REQUISITOS DA POSSE. PREENCHIMENTO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. Inexistentes as hipóteses do art. 535 do CPC/73 (art. 1.022, II, do NCPC), não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 713.560/RN, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/4/2017, DJe 18/4/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 419), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
