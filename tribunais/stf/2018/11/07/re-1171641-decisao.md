@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DECLARATÓRIA C.C. REPETIÇÃO DE INDÉBITO. ICMS. Entidade filantrópica sem fins lucrativos. Pretensão de reconhecimento de imunidade tributária e a repetição de valores supostamente pagos. Impossibilidade. No caso em que a entidade imune é contribuinte de fato ou indireto não se aplica a imunidade. Precedentes do E. STJ, sob o regime dos recursos repetitivos (para os casos de IPI), que assentou o entendimento acerca da impossibilidade de reconhecimento da imunidade tributária do contribuinte de fato de tributo indireto. Imunidade que não atinge toda e qualquer operação feita pela entidade. Precedentes deste E. Tribunal de Justiça. Sentença alterada. Extinção da ação. Recurso da Fazenda do Estado provido e prejudicado o recurso da autora”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, VI, c, da CF. Sustenta que: (i) os bens adquiridos pela recorrente são destinados ao ativo fixo; (ii) a Constituição Federal veda a tributação de entidades assistenciais; (iii) os bens adquiridos pela recorrente são recursos destinados à consecução de suas atividades; (iv) a imunidade deve ser interpretada de forma extensiva, de modo que haja efetiva proteção de todo patrimônio da entidade.
+    A pretensão recursal não merece prosperar.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 608.872-RG, decidiu que é inaplicável a imunidade tributária nos casos em que o adquirente de bens ou mercadorias figura como contribuinte de fato ou indireto. Na assentada, foi fixada a seguinte tese para fins de repercussão geral: “A imunidade tributária subjetiva aplica-se a seus beneficiários na posição de contribuinte de direito, mas não na de simples contribuinte de fato, sendo irrelevante para a verificação da existência do beneplácito constitucional a repercussão econômica do tributo envolvido”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 07 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
