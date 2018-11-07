@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, em razão de acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO. REGRESSÃO DE REGIME CARCERÁRIO. INTEMPESTIVIDADE. NÃO CONHECIMENTO. COMUTAÇÃO INDEFERIDA. ART. 2º DO DECRETO N. 8.172/2013. AUSÊNCIA DE REQUISITO OBJETIVO. IMPOSSIBILIDADE.
+Agravo contra a primeira decisão interposto após esgotado o prazo recursal (Súmula nº 700 do STF). Intempestividade. Não conhecimento. Quanto à segunda decisão, o art. 22 do Decreto 8.615/2015 prevê a concessão da comutação aos apenados que, até 25 de dezembro de 2015, tenham cumprido um terço da pena, se reincidentes, até a referida data,não beneficiados com a suspensão condicional da pena. Apenado que não implementou o requisito objetivo temporal, não fazendo jus ao benefício da comutação. Agravo conhecido em parte e, no mais, improvido" (e-STJ, fl. 137).
+Neste writ, alega a impetrante que a decisão proferida em sede de agravo em execução não deve prosperar. Destaca que o reeducando atualmente cumpre pena de 37 anos, 8 meses e 23 dias de reclusão, em regime fechado. Porém, em 25/12/2015 - data que deve ser considerada para fins de aferimento do direito aos benefícios previstos no Decreto Presidencial n. 8.615/2015 - as penas cadastradas no processo de execução penal somavam 33 anos e 2 meses, e o reeducando já havia cumprido mais de um terço da pena, que corresponderia a 11 anos e 20 dias até o dia 25/12/2015, data em que deveria ver reconhecido o direito à comutação de 1/5 de sua pena.
+A defesa afirma que o Tribunal de origem considerou que a nova condenação, cadastrada no PEC apenas em 12/1/2016 deveria ser somada ao total da pena, pois o trânsito em julgado teria se dado em data anterior a 25/12/2015, e que ao assim decidir, considerou que o apenado ainda não tinha cumprido 1/3 da pena e, equivocadamente, negou o direito à comutação da pena ao paciente.
+Alega que a análise do preenchimento dos requisitos para a concessão da comutação deve ser realizada até o dia 25/12/2015, sob pena de contrariar o texto expresso da norma, não podendo ser consideradas circunstâncias modificativas da pena ocorridas após essa data.
+E, sob tal fundamento, considerando que o apenado já havia cumprido mais de um terço de sua pena em 25/12/2015, reafirma ser impositivo o reconhecimento de seu direito à comutação de pena, segundo os ditames do art. 2º do Decreto n. 8.615/2015.
+Requer, assim, seja concedido o habeas corpus para cassar o acórdão recorrido, ante o constrangimento ilegal que está sendo imposto ao paciente.
+Liminar indeferida (e-STJ, fl. 154).
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Sobre o tema em debate, segundo a jurisprudência do Superior Tribunal de Justiça, para a análise do pedido de indulto ou comutação de penas, o magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República.
+Na hipótese vertente, pugna a impetrante pela concessão da comutação de pena ao apenado com base no Decreto n. 8.615/2015, que assim dispõe:
+"Art. 2º Concede-se a comutação da pena remanescente, aferida em 25 de dezembro de 2015, de um quarto, se não reincidentes, e de um quinto, se reincidentes, às pessoas condenadas a pena privativa de liberdade, não beneficiadas com a suspensão condicional da pena que, até a referida data, tenham cumprido um quarto da pena, se não reincidentes, ou um terço, se reincidentes, e não preencham os requisitos deste Decreto para receber o indulto.
+§ 2º A pessoa que teve a pena anteriormente comutada terá a nova comutação calculada sobre o remanescente da pena ou sobre o período de pena já cumprido, nos termos do caput e do § 1º, sem necessidade de novo requisito temporal e sem prejuízo da remição prevista no art. 126 da Lei de Execução Penal."
+O Tribunal de origem negou provimento ao agravo em execução nestes termos:
+"Verifica-se, assim, que, no art. 2º estão especificadas as condições para a concessão da comutação, conforme seja o beneficiário reincidente ou primário, desde que não tenha sido agraciado com a suspensão condicional da pena.
+No caso, ao apenado seria permitida a comutação de um quinto da pena, por ser reincidente, caso cumprisse um terço até 25.12.2015.
+A defesa argumenta que em 12.01.2016 foi noticiada nova condenação, de 03 (três) anos e 10 (dez) meses de reclusão, que não deveria ser computada para o cálculo da fração.
+Entretanto, não assiste razão ao agravante em sua argumentação, já que a referida condenação a 03 (três) anos e 10 (dez) meses de reclusão transitou em julgado em 09.09.2014 (fl. 10v), pelo que integrava o total de pena em 25.12.2015.
+Assim, não tendo o apenado implementado o requisito objetivo temporal exigido no art. 2º do referido Decreto, não faz jus ao benefício, nos termos da decisão atacada.
+Voto, pois, por não conhecer em parte do agravo em execução e, no mais, lhe negar provimento" (e-STJ, fls. 137-142).
+Como bem explicitado pelo Ministério Público Federal, o acórdão recorrido não merece reparos, pois a pena total que deveria ser cumprida pelo paciente, em 25/12/2015, incluía a derivada da condenação que transitou em julgado em 9/9/2014, mesmo que ainda não houvesse sido registrada no processo de execução penal.
+Nesse contexto, nota-se que a comutação das penas foi indeferida com a devida observância ao decreto presidencial, inexistindo constrangimento ilegal a ser reparado pela presente via.
+Vale destacar que o habeas corpus é ação constitucional de rito célere e de cognição sumária, razão pela qual não é meio processual adequado para a análise de teses genéricas, que para serem analisadas, exigem o amplo exame de provas e fatos.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, XX, do RISTJ.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, arquivem-se os autos.
