@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Turma Recursal da Seção Judiciária de Alagoas, ementado nos seguintes termos:
+    “ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. PAGAMENTO A INATIVOS E PENSIONISTAS. DIREITO À PARIDADE COM OS SERVIDORES DA ATIVA. SENTENÇA DE PROCEDÊNCIA. RECURSO IMPROVIDO.” (eDOC 8, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, II; 37, X; e 61, §1º, II, a e c, do texto constitucional.
+    Nas razões recursais, alega-se que a paridade não se aplica ao caso porque o benefício só foi concedido em agosto de 2010, posteriormente à Emenda Constitucional 41/2003. (eDOC 9, p. 4)
+    Sustenta-se que a concessão da GACEN possui como requisito o exercício de atividades de combate e controle de endemias em caráter permanente, o que não teria sido comprovado nos autos. (eDOC 9, p. 21)
+    Postula-se a suspensão do processo até o julgamento dos embargos de declaração no RE-RG 870.947, que pedem a modulação de efeitos da decisão quanto ao índice de correção monetária aplicável aos débitos da Fazenda Pública. (eDOC 9, p. 32)
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, registro que o relator do RE-RG 870.947, rel. Min. Luiz Fux, conferiu efeito suspensivo aos embargos de declaração opostos contra o acórdão, com o objetivo de evitar que a tese nele proclamada seja aplicada aos processos que versem idêntica controvérsia.
+    Dessa forma, é preciso aguardar novo pronunciamento do Supremo Tribunal Federal para que possa ser julgado o recurso, no ponto.
+    Quanto às questões remanescentes, a Turma Recursal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 11.784/2008) e o conjunto probatório constante dos autos, consignou que a recorrida teria direito ao regime de paridade e que a GACEN seria vantagem de caráter geral. Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+    “A TNU (PEDILEF Nº 05207399620144058300) consolidou o entendimento no sentido de que a GACEN possui natureza remuneratória e de caráter geral, fazendo jus os inativos ao direito à paridade, caso a aposentadoria tenha ocorrido anteriormente à EC nº 41/03, que extinguiu tal direito (…)”. (eDOC 8, p. 1)
+    “No caso em tela, consta no anexo 27, que a postulante obteve pensão em agosto julho de 2010, nos termos da EC 41/2005. Deste modo, a parte possui direito de receber a GACEN no mesmo valor que os servidores da ativa”. (eDOC 8, p. 3)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pela Turma Recursal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos declaratórios recebidos como agravo regimental. 3. Direito Administrativo. Gratificação de Atividade de Combate e Controle de Endemias – GACEN. Incidência de contribuição previdenciária. 4. Natureza da verba. Matéria de índole infraconstitucional. Ofensa reflexa. 5. Pedido de uniformização. Turma Nacional de Uniformização. Análise de direito federal. 6. Decretação de nulidade de atos processuais. Impossibilidade. Requerimento pela parte que lhe deu causa. Art. 243 do CPC. 7. Agravo regimental a que se nega provimento.” (ARE 837277 ED, de minha relatoria, Segunda Turma, DJe 17.03.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO GDPST. EXTENSÃO AOS INATIVOS LIMITADA AO PRIMEIRO CICLO AVALIATIVO. PRECEDENTES. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. NATUREZA DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. (...)”. (RE 973.701 AgR, rel. Min, Cármen Lúcia, Segunda turma, DJe 23.09.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC, c/c art. 21, §1º, do RISTF) quanto ao mérito, e determino a devolução dos autos à Turma Recursal de origem para que observe o disposto no art. 1.030, III, do CPC, quanto ao índice de correção monetária aplicável ao débito.
+    Publique-se.
+    Brasília, 7 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
