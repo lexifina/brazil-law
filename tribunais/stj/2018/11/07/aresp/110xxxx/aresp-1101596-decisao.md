@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC), interposto por BANCO BRADESCO S/A em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 402/403):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. IMPUGNAÇÂO À EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. PRELIMINAR DE INCOMPETÊNCIA TERRITORIAL. PRECLUSÃO. MATÉRIA DECIDIDA EM AGRAVO ANTERIOR. LIQUIDAÇÃO DE SENTENÇA. INOBSERVÂNCIA DE PREJUÍZO À PARTE ADVERSA. ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO. PRELIMINAR DE ILEGITIMIDADE ATIVA AD CAUSA. POSSIBILIDADE DE EXECUTAR O TÍTULO DA AÇÃO CIVIL PÚBLICA. ARGUIÇÃO REJEITADA. CORREÇÃO MONETÁRIA ESTIPULADA NOS TERMOS DA DECISÃO TRANSITADA EM JULGADA. POSSIBILIDADE. CAPITALIZAÇÃO DE JUROS MORA TÓRIOS. INEXISTÊNCIA DE PROVAS. AGRAVO REGIMENTAL CONHECIDO E IMPROVIDO.
+1. A liquidação de sentença, na forma de arbitramento ou artigos, no caso em exame, não é necessária, diante da prova segura sobre a titularidade do exequente em relação ao direito material e a relação jurídica mantida entre as partes, a qual se submete à regra concreta formulada pela decisão definitiva na ação coletiva. Portanto, demonstrados, em princípio, pelos documentos trazidos a legitimidade do autor, o dano, o nexo causai e indicado o valor, que dependente de mera elaboração de conta, é possível ter seguimento a execução.
+2. No caso, conclui-se que qualquer um dos consumidores que foram lesados, em razão dos planos inflacionários, pela conduta da instituição financeira recorrente poderá executar o título judicial formado na Vara de Relações de Consumo, Cíveis e Comerciais da Comarca de Valença, uma vez que os direitos coletivos não se resumem aos participantes diretos da lide, mas a todos aqueles que detêm o mesmo direito.
+3. Quanto à correção monetária, tem-se que a eminente magistrada singular decidiu adequadamente ao manter o índice fixado no título executivo judicial, posto que o Colendo Superior Tribunal de Justiça já pacificou o entendimento de que é vedado promover a modificação da correção monetária da sentença transitada em julgado.
+4. Em relação à capitalização dos juros moratórios, tendo em vista que os juros remuneratórios foram afastados pela decisão agravada, verifica-se que o recorrente não apresentou provas suficientes da sua existência nos cálculos constantes dos autos, restando inadmissível o seu reconhecimento, posto que a prova da existência dos juros moratórios capitalizados seria do recorrente, nos termos do art. 333, inciso II, do Código de Processo Civil.
+5. Ante o exposto, voto no sentido de NEGAR PROVIMENTO ao recurso, mantendo a decisão agravada em todos os seus termos.
+Nas razões do recurso especial (fls. 413/428), a parte insurgente apontou ofensa aos arts. 95, 267, VI, 475-B, 475-J do CPC/73; 2º-A da Lei 9.494/97; 16 da Lei 7.347/85; 12 da Lei 8.177/91 e; 7º da Lei 8.660/93.
+Sustentou, em síntese:
+a) ilegitimidade ativa, pois a ação civil pública ajuizada pelo Instituto Brasileiro de Defesa Consumidor - IDEC só aproveita os seus associados;
+b) a sentença proferida em processo coletivo tem sua eficácia limitada ao território de competência do juízo prolator;
+c) a sentença coletiva necessita de liquidação por artigos, não sendo admissível a efetuada por meros cálculos aritméticos; e
+d) a correção monetária a incidir sobre o valor do débito não pode ser calculada na forma da tabela prática do Tribunal de Justiça.
+Sem contrarrazões.
+Inadmitido o apelo, os autos subiram ao exame do STJ mediante a interposição do agravo (art. 1.042 do NCPC).
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. O Superior Tribunal de Justiça fixou, em sede de recurso especial repetitivo, o entendimento de que o Instituto de Defesa do Consumidor - IDEC tem legitimidade extraordinária para a defesa de interesses coletivos dos consumidores, de modo que o título judicial formado na ação coletiva deve abranger todos os indivíduos que, em liquidação de sentença, comprovem serem titulares do direito tutelado.
+Cite-se a ementa do julgado:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal; b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp 1391198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 02/09/2014)
+A rigor, o precedente do RE 573.232/SC não se aplica à espécie. Primeiro, porque a ação coletiva examinada pelo Supremo Tribunal Federal havia sido ajuizada em face do Poder Público, submetendo-se, portanto, à norma do 2º-A da Lei n. 9.494/97, disciplina inaplicável à ação ajuizada por associação em face de instituição privada. Segundo, porque a demanda coletiva julgada no referido precedente com repercussão geral teve como autora associação corporativa de servidores públicos, circunstância também não identificada com a lide iniciada por instituto de defesa dos consumidores de todo o país.
+Rejeito, portanto, a tese de ilegitimidade ativa.
+2. É unânime nesta Corte o entendimento de que os efeitos subjetivos da sentença coletiva não se submetem aos limites territoriais da competência do juízo.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. LIMITE TERRITORIAL DA SENTENÇA. LIMITAÇÃO INDEVIDA. EFICÁCIA DA COISA JULGADA QUE NÃO SE RESTRINGE AO TERRITÓRIO DO ÓRGÃO JUDICANTE. ABRANGÊNCIA DOS DIREITOS COLETIVOS EM SENTIDO AMPLO INDISTINTAMENTE. HIPÓTESE DE DIREITOS INDIVIDUAIS HOMOGÊNEOS. POSSIBILIDADE DESDE QUE O EXEQUENTE SEJA BENEFICIÁRIO DO COMANDO DISPOSTO NA SENTENÇA. ERESP N. 1.134.957/SP. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA DAR CONTINUIDADE AO CUMPRIMENTO DE SENTENÇA.
+1. "No julgamento do recurso especial repetitivo (representativo de controvérsia) n.º 1.243.887/PR, Rel. Min. Luís Felipe Salomão, a Corte Especial do Superior Tribunal de Justiça, ao analisar a regra prevista no art. 16 da Lei n.º 7.347/85, primeira parte, consignou ser indevido limitar, aprioristicamente, a eficácia de decisões proferidas em ações civis públicas coletivas ao território da competência do órgão judicante." (EREsp 1134957/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 24/10/2016, DJe 30/11/2016).
+2. Agravo interno desprovido.
+(AgInt no REsp 1633392/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+Rejeito, assim, a tese de ilegitimidade ativa.
+3. A liquidação da sentença coletiva pode se dar por meros cálculos aritméticos, quando o juiz verificar que a aferição do débito exequendo independa da produção de novas provas.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ADMISSIBILIDADE DE LIQUIDAÇÃO ABREVIADA. PROVA PRÉ-CONSTITUÍDA DA TITULARIDADE DO DIREITO PLEITEADO E APURAÇÃO DA DÍVIDA POR MEROS CÁLCULOS ARITMÉTICOS. PRETENSÃO RECURSAL EM SENTIDO CONTRÁRIO QUE ESBARRA NA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O entendimento desta Corte é de ser possível a dispensa de liquidação por arbitramento ou artigos nas execuções coletivas que permitam verificar o valor devido por simples operação matemática com planilha de cálculo. Entretanto, essa possibilidade deve ser analisada caso a caso devido à diversidade de situações fáticas existentes nos processos coletivos.
+2. O Tribunal de origem afirmou que os documentos apresentados com a petição que requereu o cumprimento individual da sentença eram suficientes para comprovar, de plano, o valor da dívida e também a titularidade do crédito pleiteado, sem necessidade de uma liquidação por artigos ou arbitramento. Aferir se a liquidação de sentença deve ser procedida por simples cálculo aritmético ou mediante liquidação por artigos na ação coletiva enseja o revolvimento do conjunto fático-probatório dos autos, providência que atrai o óbice da Súmula 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no REsp 1602761/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+Julgo improcedente, assim, a pretensão de modificar a forma de cálculo do débito.
+4. Não houve o prequestionamento adequado do tema relativo à correção monetária, atraindo o óbice da Súmula 282/STF.
+A respeito da matéria, o Tribunal de origem decidiu genericamente o seguinte (fl. 409):
+Quanto à correção monetária, tem-se que a eminente magistrada singular decidiu adequadamente ao manter o índice fixado no título executivo judicial posto que o Colendo Superior Tribunal de Justiça já pacificou o entendimento de que é vedado promover a modificação da correção monetária da sentença transitada em julgado.
+Vê-se, portanto, que não é possível verificar qual foi o índice de correção adotado, se com base na tabela prática do Tribunal, na TR, na SELIC etc.
+Assim, como a parte não opôs embargos de declaração para esclarecer esse ponto da decisão, deve ser aplicado, ao ponto, o óbice da Súmula 282/STF.
+5. Ante o exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nego provimento ao agravo.
+Deixo de majorar os honorários, pois não arbitrados na origem.
+Publique-se.
+Intimem-se.
