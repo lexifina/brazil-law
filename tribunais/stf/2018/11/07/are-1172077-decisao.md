@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 117):
+    “IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISS) - Nota Fiscal Eletrônica (NF-e). Alegação da Municipalidade de que a suspensão da emissão de notas fiscais eletrônicas dos contribuintes inadimplentes do ISS é constitucional e não é indispensável ao exercício de atividade econômica. Descabimento. Hipótese em que a vedação à emissão de nota fiscal eletrônica cria obstáculo ao exercício da atividade empresarial, implicando coerção indireta ao pagamento do ISS. Instrução Normativa nº 19/2011 SUREM/SF.
+    RECURSOS NÃO PROVIDOS.”
+    No apelo extremo, interposto com amparo no art. 102, III, a, da Constituição Federal, a parte recorrente sustenta que houve violação ao artigo 170 da Magna Carta.
+    É o relatório. Decido.
+    O Juízo de origem não divergiu da jurisprudência desta CORTE no sentido de que o impedimento de emissão de notas fiscais eletrônicas pelo contribuinte constitui meio coercitivo de cobrança de tributos. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. UTILIZAÇÃO DE MEIOS COERCITIVOS PARA FORÇAR O ADIMPLEMENTO DE OBRIGAÇÃO TRIBUTÁRIA: IMPEDIMENTO DE EMISSÃO DE NOTAS FISCAIS ELETRÔNICAS. IMPOSIÇÃO ILEGÍTIMA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL REAFIRMADA PELO PROCEDIMENTO DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 914.564-AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 30/11/2015)
+    Vale ressaltar, ainda, que esse entendimento está no mesmo sentido do que firmado pelo Plenário da CORTE, no julgamento do ARE 914.045-RG, Rel. Min. EDSON FACHIN, Tema 856, que possui a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO TRIBUTÁRIO E DIREITO PROCESSUAL CIVIL. CLÁUSULA DA RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA DO TRIBUNAL PLENO DO STF. RESTRIÇÕES IMPOSTAS PELO ESTADO. LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA OU PROFISSIONAL. MEIO DE COBRANÇA INDIRETA DE TRIBUTOS. 1. A jurisprudência pacífica desta Corte, agora reafirmada em sede de repercussão geral, entende que é desnecessária a submissão de demanda judicial à regra da reserva de plenário na hipótese em que a decisão judicial estiver fundada em jurisprudência do Plenário do Supremo Tribunal Federal ou em Súmula deste Tribunal, nos termos dos arts. 97 da Constituição Federal, e 481, parágrafo único, do CPC. 2. O Supremo Tribunal Federal tem reiteradamente entendido que é inconstitucional restrição imposta pelo Estado ao livre exercício de atividade econômica ou profissional, quanto aquelas forem utilizadas como meio de cobrança indireta de tributos. 3. Agravo nos próprios autos conhecido para negar seguimento ao recurso extraordinário, reconhecida a inconstitucionalidade, incidental e com os efeitos da repercussão geral, do inciso III do §1º do artigo 219 da Lei 6.763/75 do Estado de Minas Gerais”.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 7 de novembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
