@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015; e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ e ausência de dissídio jurisprudencial.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando no mencionado óbice.
+O Tribunal de origem, para negar o pleito de concessão do benefício auxílio-reclusão,consignou que "não foi comprovada a dependência econômica da autora, requisito imprescindível à concessão do benefício vindicado" (e-STJ fl. 270).
+Não há como acolher a tese recursal sem que se proceda ao reexame do conjunto fático-probatório. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. NÃO COMPROVADA DEPENDÊNCIA ECONÔMICA. VIOLAÇÃO AO ART. 557 DO CPC. SÚMULA N. 7/STJ. INCIDÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever tal entendimento, no sentido da comprovação da dependência econômico, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial.
+III - É incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n.
+7/STJ.
+IV - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Interno improvido. (AgInt no REsp 1496268/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/05/2016, DJe 30/05/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. DEPENDÊNCIA ECONÔMICA. REVISÃO. IMPOSSIBILIDADE. ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O Tribunal de origem consignou que não ficou comprovada a dependência econômica da parte autora em relação ao filho preso, não fazendo jus à percepção do benefício pleiteado (fl. 178, e-STJ).
+2. É inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Óbice da Súmula 7/STJ.
+3. Agravo Regimental não provido. (AgRg no AREsp 823.912/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/03/2016, DJe 19/05/2016)
+Ressalto, quanto à pretensão recursal arrimada na alínea "c" do permissivo constitucional, que a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 3 do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A teor do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC de 2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita, exceto em ações acidentárias, nos termos do art. 129, parágrafo único, da Lei n. 8.213/1991.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Majoro os honorários recursais em R$ 1.000,00 (mil reais), respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC de 2015. Suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
