@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. LEI N. 13.015/2014. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO E DE CLÁUSULAS DO ACORDO COLETIVO: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. ACÓRDÃO REGIONAL PUBLICADO NA VIGÊNCIA DA LEI 13.015/2014. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. ACORDO COLETIVO. PAGAMENTO COMO COMISSÃO. I. O processamento do recurso de revista está adstrito à demonstração de divergência jurisprudencial (art. 896, alíneas a e b, da CLT) ou violação direta e literal de dispositivo da Constituição da República ou de lei federal (art. 896, c, da CLT). II. Não comprovada nenhuma das hipóteses do art. 896 da CLT, não há como acolher a pretensão da Recorrente. III. Agravo de instrumento de que se conhece e a que se nega provimento” (fl. 1, doc. 64).
+    2. A agravante alega contrariados os incs. XI e XXVI do art. 7º da Constituição da República.
+    Requer
+    “seja anulado ou reformado o v. Acórdão guerreado, excluindo-se a condenação na integração da verba paga a título de PLR e reflexos dos valores pagos durante a vigência do contrato de trabalho da recorrida, posto que referidos valores jamais foram pagos a título de comissões” (sic, fl. 13, doc. 53).
+    3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta e pela incidência da Súmula n. 279 do Supremo Tribunal Federal (doc. 63).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à agravante.
+    5. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Leis ns. 10.101/2000 e 13.015/2014 e Consolidação das Leis do Trabalho), o reexame do conjunto fático-probatório do processo e a interpretação de cláusulas do acordo coletivo, a inviabilizar o recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Assim, por exemplo:
+    “Embargos de declaração no recurso extraordinário com agravo. Trabalhista. Participação nos lucros. Natureza da vantagem. Legislação infraconstitucional. Reexame de fatos e provas e de cláusulas de acordo coletivo de trabalho. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, dos fatos e das provas dos autos, bem como das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 636, 279 e 454/STF. 3. Agravo regimental não provido” (ARE n. 734.104-ED, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 20.9.2013).
+    “DIREITO DO TRABALHO. PARTICIPAÇÃO NOS LUCROS. ACORDO COLETIVO DE TRABALHO. LEI 10.101/2000. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO PUBLICADO EM 29.02.2008. Esta Suprema Corte já pacificou a jurisprudência de que a discussão acerca da participação nos lucros, solvida à luz das normas coletivas aplicáveis à espécie, bem como da Lei 10.101/2000, não credencia o recurso de natureza extraordinária, situada no âmbito infraconstitucional a solução emprestada pela Corte de origem. Agravo regimental conhecido e não provido” (RE n. 614.440-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 21.5.2013).
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
