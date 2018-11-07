@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais que deu parcial provimento ao Recurso em Sentido Estrito n. 1.0024.18.053590-8/002 para decretar a prisão cautelar do paciente, cassando a anterior decisão de concessão da liberdade provisória (Processo n. 0024.18.071.128-5) - fl. 91:
+RECURSO EM SENTIDO ESTRITO - TRÁFICO DE DROGAS - REQUISITOS DO ART. 312 DO CPP AUSENTES NO CASO CONCRETO - SUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS - AGENTE REINCIDENTE - NECESSIDADE DA PRISÃO COMO FORMA DE GARANTIR A ORDEM PÚBLICA E EVITAR A REITERAÇÃO DELITIVA. I - Não estando presente nenhum dos requisitos exigidos no art 312 do CPP, quais sejam, garantia da ordem pública e da ordem econômica, conveniência da instrução criminal ou assegurar a aplicação da lei penal, não é possível decretar a prisão preventiva do réu. II - A prisão preventiva somente deverá ser decretada quando as outras medidas cautelares não forem suficientes para garantir a efetividade do processo. III - Demonstrado o intenso contato do agente com a criminalidade é necessária a decretação de sua prisão cautelar como forma de garantir a ordem pública e evitar a reiteração delitiva, não sendo suficiente somente as medidas cautelares diversas.
+Busca-se a revogação do decreto prisional, ao argumento, em suma, de ausência de fundamentação idônea a amparar a custódia.
+É o relatório.
+O presente writ é mera reiteração do HC 468.441/MG, no qual a Sexta Turma desta Corte, em sessão de julgamento realizada no dia 04/10/2018, denegou a ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
