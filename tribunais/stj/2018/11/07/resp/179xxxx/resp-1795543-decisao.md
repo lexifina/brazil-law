@@ -1,0 +1,38 @@
+EMENTA
+ADMINISTRATIVO. AGRAVOS EM RECURSOS ESPECIAIS. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DOS APELOS ESPECIAIS. AGRAVOS CONHECIDOS PARA REAUTUAÇÃO EM RECURSOS ESPECIAIS.
+DECISÃO
+Trata-se de agravos em recursos especiais interpostos pelo Ministério Público do Estado de Minas Gerais e por [NOME], [NOME] e [NOME], em face de decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que inadmitiu os recursos especiais manejados contra acórdão assim ementado (fls. 2130/2131 e-STJ):
+APELAÇÃO CÍVEL - PRELIMINARES - REJEITADAS - AGRAVOS RETIDOS - NEGAR PROVIMENTO - VEREADORES - RECEBIMENTO DE DIÁRIAS - VIAGENS NÃO COMPROVADAS - IMPROBIDADE ADMINISTRATIVA CARACTERIZADA.
+- Tendo em vista que alguns réus receberam diárias, a fim de custear viagens que não aconteceram, resta comprovado o ato de improbidade administrativa, devendo ser mantida a condenação destes réus.
+- Inexistindo provas de que as viagens não foram efetivamente realizadas pelos outros réus, deve ser dado provimento aos recursos destes para afastar a condenação imposta.
+V.v.. APELAÇÕES CIVEIS. AÇÃO CIVIL PÚBLICA. PORTE DE RETORNO. EVENTUAL DIFERENÇA. COBRANÇA JUNTO COM AS CUSTAS E DESPESAS FINAIS. TESTEMUNHAS. PERGUNTAS IMPERTINENTES. INDEFERIMENTO MANTIDO. DOCUMENTOS REPETIDOS. DESENTRANHAMENTO DETERMINADO. CONFIRMAÇÃO. AGENTES POLÍTICOS. LEI Nº 8.429, DE 1992. APLICABILIDADE. POSSIBILIDADE JURÍDICA DA PRETENSÃO PRESENTE. SENTENÇA CITRA PETITA. VÍCIO INEXISTENTE. CERCEAMENTO DE DEFESA INOCORRENTE. VEREADORES. RECEBIMENTO DE DIÁRIAS. RESOLUÇÃO DA CÂMARA MUNICIPAL. EXIGÊNCIA. RELATÓRIOS ENTREGUES. IMPROBIDADE ADMINISTRATIVA INEXISTENTE. RECURSOS PROVI DOS.
+A eventual diferença de porte de retorno pode ser cobrada junto com as custas e despesas finais, não se justificando a conversão do julgamento em diligência.
+Deve ser confirmado o indeferimento de perguntas impertinente a testemunhas acerca de fatos que devem ser provados por documentos.
+É correta a determinação para desentranhamento de documentos que já se encontram nos autos.
+A possibilidade jurídica da pretensão consiste em existir, na ordem jurídica, previsão abstrata para a tutela jurisdicional pretendida.
+Segundo jurisprudência firmada pelo egrégio Superior Tribunal de Justiça, a Lei nº 8.429, de 1992, é aplicável aos agentes políticos, o que torna a pretensão veiculada em ação civil pública juridicamente possível.
+O vicio citra petita ocorre quando uma ou mais questões deixam de ser examinadas na sentença. Julgados os embargos de declaração, está ausente o vicio.
+O cerceamento de defesa ocorre quando a parte tem o legítimo interesse em produzir um ato ou uma prova e fica impedida pelo órgão judicial. Ensejadas às partes a mais ampla oportunidade para defesa e prova, não há que se falar em cerceamento por inobservância do contraditório e da ampla defesa.
+O recebimento de diárias, atendidas as exigências da Resolução nº 63, de 2001, da Câmara Municipal de Lavras, não constitui improbidade administrativa.
+Agravos retidos conhecidos e não providos.
+Apelações cíveis conhecidas e providas para rejeitar a pretensão inicial, também rejeitadas quatro preliminares. (Des. Caetano Levi Lopes).
+Houve a oposição de embargos de declaração, os quais foram rejeitados.
+Após, os particulares interpuseram recurso especial apontando negativa de prestação jurisdicional por parte do Tribunal de origem. Esta Corte Superior deu provimento ao apelo e determinou o retorno dos autos para que houvesse apreciação pela instância ordinária acerca de contradição apontada oportunamente pelo ora recorrente. A propósito, o acórdão do Tribunal de origem (fl. 2518 e-STJ):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE. CONTRADIÇÃO PRESENTE. ACOLHIMENTO PARCIAL.
+1. A omissão consiste em não ser examinada alguma questão debatida pelas partes. Feito o exame integral, inexiste o vício.
+2. A contradição consiste no desajuste lógico entre os fundamentos e o dispositivo do ato decisório embargado.
+3. Presente o vício, deve ser sanado.
+4. Embargos de declaração conhecidos e parcialmente acolhidos mediante efeitos infringentes.
+Opostos novos embargos declaração, foram rejeitados pelo Tribunal de origem nos seguintes termos (fl. 2568 e-STJ):
+EMBARGOS DE DECLARAÇÃO - VÍCIOS DO ART. 1022 DO NCPC - INEXISTÊNCIA - EMBARGOS REJEITADOS. Os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição, suprir a omissão ou sanar erro material existente no julgado, cuja ausência não permite rediscussão de matéria.
+Nas razões do recurso especial interposto pelo Ministério Público do Estado de Minas Gerais, com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta a violação aos seguintes dispositivos: a) art. 1022, I, do CPC/2015, sustentando que o Tribunal de origem não se manifestou acerca de todas as teses suscitadas nos aclaratórios; b) 9º, 10 e 12, I e II, parágrafo único, da Lei 8.429/92, uma vez que a dosimetria da sanção aplicada revela-se desproporcional, de modo que deve ser reanalisada a fim de que a suspensão de direitos políticos vigore por 8 anos.
+O recurso especial interposto com fundamento das alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, por [NOME], [NOME] e [NOME], por sua vez, sustenta violação aos seguintes artigos: a) 1022, II c/c 489 e 371, do CPC/2015, eis que o acórdão recorrido incorreu em omissão; b) 942 do CPC/2015, uma vez que os autos devem retornar ao Tribunal de origem para que procedam à técnica de julgamento ampliado prevista nesse dispositivo legal; c) 9º, 10 e 11, da Lei 8.429/92, sob o argumento de que não estão presentes os pressupostos necessários à condenação dos recorrentes por ato de improbidade administrativa, sobretudo em razão da ausência do elemento subjetivo; d) 12 da Lei 8.429/92, uma vez que a penalidade aplicada não obedece aos princípios da razoabilidade e da proporcionalidade.
+Contrarrazões às fls. 2644/2654 e 2658/2667 e-STJ.
+O recurso especial do Ministério Público do Estado de Minas Gerais foi inadmitido pelo Tribunal de origem à consideração de que: a) não há falar em negativa de prestação jurisdicional; b) a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ; c) o recorrente não impugnou os fundamentos autônomos do acórdão recorrido, de modo que incide o óbice da Súmula 283/STF.
+O recurso especial interposto pelos particulares foi inadmitido, pois: a) no que diz respeito à tese de aplicação da técnica de julgamento prevista no art. 942 do CPC/2015, não houve prequestionamento; b) inexiste violação ao art. 1022 do CPC/2015; c) a pretensão recursal dos particulares também demanda o reexame das provas dos autos, o que faz incidir o óbice da Súmula 7/STJ.
+Nas razões dos agravos em recursos especiais, os agravantes impugnam todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando o preenchimento dos requisitos de admissibilidade dos agravos e as peculiaridades do caso concreto, os agravos devem ser providos para que seja realizada a reautuação como recursos especiais.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço dos agravos para determinar sua autuação como recursos especiais.
+Publique-se. Intimem-se.
