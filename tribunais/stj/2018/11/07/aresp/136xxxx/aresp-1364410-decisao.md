@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. CUMPRIMENTO DE SENTENÇA. ERRO NOS CÁLCULOS. PRECLUSÃO. NÃO OCORRÊNCIA. ENUNCIADO 83/STJ. 3. CÁLCULOS. AUSÊNCIA DE PREVISÃO, NO TÍTULO EXECUTIVO JUDICIAL, DA UTILIZAÇÃO DOS CRITÉRIOS PREVISTOS NO REGULAMENTO DO PLANO. IMPOSSIBILIDADE DE UTILIZAÇÃO DESSES CRITÉRIOS. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVÊ-LO.
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Sexta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao agravo de instrumento interposto pela ora agravante, conforme ementa abaixo colacionada (e-STJ, fl. 646):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. DECISÃO QUE ANALISOU AS INSURGÊNCIAS DO LAUDO PERICIAL. 1. Inclusão da Gratificação de Férias no cálculo. Havendo evidente equívoco em relação aos cálculos apresentados e estando o mesmo em desacordo com o determinado no título executivo judicial, não há falar em preclusão, podendo ser o mesmo alterado. No caso, deve ser preservada a coisa julgada definida pela sentença e acórdão de apelação, não havendo que se falar em reforma da decisão. 2. Necessidade de observância dos Regulamentos da Petros. A perícia foi clara em resposta a manifestação da parte agravante que deve ser aplicada a valoração dos salários de cálculo pagos nos últimos 12 meses anteriores à DB INSS. Desta sorte, em que pese os benefícios devam ser calculados nos moldes do Regulamento do Plano a que se vincula o associado, deve estrita observância ao título executivo judicial. Logo, não há que se falar em reforma da decisão no ponto. 3. Retenção dos valores devidos pela parte adversa a título de imposto de renda. A jurisprudência maciça desta Corte dispõe que a retenção do imposto de renda deve ser feita pelo próprio devedor, por força do art. 46, da Lei n. 8.541/1992. Assim, cumpre a Fundação devedora, quando do efetivo pagamento do valor a que foi condenada, efetuar a devida retenção. Até porque, a dedução do imposto de renda não tem o condão de reduzir o crédito executado. Desta sorte, o valor do imposto de renda deve ser calculado pelo Perito e determinada a sua retenção para posterior recolhimento ao Fisco. Decisão reformada no ponto. DERAM PARCIAL PROVIMENTO AO RECURSO. UNÂNIME.
+Opostos embargos de declaração, estes foram desacolhidos.
+Nas razões do recurso especial, a insurgente indicou violação aos arts. 5º, 507, 509, § 4º, e 1.022 do CPC/2015; 3º, caput, I e II, e parágrafo único, da Lei Complementar n. 108/2001; 17, caput e parágrafo único, e 68, § 1º, da Lei Complementar n. 109/2001; e 406 e 844 do CC.
+Sustentou a existência de negativa de prestação jurisdicional.
+Afirmou que teria sido violada a boa-fé objetiva e o instituto da preclusão ao se admitir a inclusão da gratificação de férias na base de cálculo do benefício previdenciário.
+Aduziu que, diante da ausência de afastamento expresso das demais disposições regulamentares da Petros, estas deveriam ser consideradas no cálculo dos benefícios previdenciários.
+Contrarrazões às fls. 714-725 (e-STJ).
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Preliminarmente, registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não viola o artigo 535 do Código de Processo Civil  atual art. 1.022 do CPC/2015  nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta" (AgRg no AREsp n. 610.500/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe 10/4/2015).
+Ademais, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL COM PEDIDO DE REPETIÇÃO DE INDÉBITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Não há negativa de prestação jurisdicional no caso, pois o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas a sua apreciação. Ademais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 535 do CPC/73, vigente à época. Precedentes.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 919.016/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/09/2018, DJe 12/09/2018)
+A respeito da inclusão da gratificação de férias na base de cálculo do benefício previdenciário, extrai-se o seguinte excerto do acórdão objurgado (e-STJ, fls. 650-651):
+1. Inclusão da Gratificação de Férias no cálculo.
+Argumenta a parte impugnante que quando intimada sobre o laudo complementar a parte adversa erigiu a questão da inclusão de gratificação de férias na base de cálculo, algo que jamais havia mencionado anteriormente, indo contra a concordância que manifestara antes. Aduz ter havido o instituto da preclusão, visto que inicialmente concordou com os cálculos apresentados pelo Perito.
+Contudo, cabe considerar que havendo evidente equívoco em relação aos cálculos apresentados e estando o mesmo em desacordo com o determinado no título executivo judicial, não há falar em preclusão, podendo ser o mesmo alterado. No caso, deve ser preservada a coisa julgada definida pela sentença e acórdão de apelação, não havendo que se falar em reforma da decisão.
+Do exposto, verifica-se que o Tribunal de origem entendeu que, havendo manifesto erro nos cálculos apresentados, os quais estariam em desacordo com aquilo que foi determinado no título executivo judicial, não haveria que se falar em preclusão.
+O entendimento acima externado se harmoniza com a jurisprudência do Superior Tribunal de Justiça, firmada no sentido de que o erro material nos cálculos apresentados para o cumprimento de sentença não se sujeita à preclusão, podendo o magistrado, inclusive, atuar de ofício, determinando a remessa dos autos à contadoria para apurar se os cálculos estão em conformidade com os parâmetros estabelecidos pelo título executivo.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS APRESENTADOS. DEPÓSITO E LEVANTAMENTO. ERRO MATERIAL. VERIFICAÇÃO. POSSIBILIDADE. PRECLUSÃO. INEXISTÊNCIA.
+(..)
+2. É firme a orientação deste Tribunal Superior no sentido de que o erro material no cálculo apresentado para o cumprimento de sentença não está sujeito à preclusão, sendo possível a sua análise mesmo após o depósito e o levantamento da quantia depositada. Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1085297/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/02/2018, DJe 07/03/2018)
+AGRAVO INTERNO. ADMINISTRATIVO. PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 2/STJ. APLICAÇÃO DAS REGRAS DO CPC/73 AOS RECURSOS INTERPOSTOS NA SUA VIGÊNCIA. EXECUÇÃO. ERRO DE CÁLCULO CONSTATADO PELA CORTE DE ORIGEM. PRECLUSÃO. AFASTAMENTO. POSSIBILIDADE DE CORREÇÃO. CÁLCULOS DO CONTADOR. DETERMINAÇÃO DE OFÍCIO. ARTIGO 475-B DO CPC/73.
+(..)
+2. A jurisprudência atual possui o entendimento de que não há falar em preclusão quanto ao erro de cálculo verificado no procedimento executivo, bem como o de que é possível ao magistrado encaminhar os autos ao contador do juízo quando verificar que os cálculos apresentados estão em desacordo com o título em execução, nos termos do art. 475-B, § 3º, do CPC/73.
+Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no AREsp 875.407/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/08/2016, DJe 10/08/2016)
+Dessa forma, incide, no ponto, o Enunciado n. 83 da Súmula do STJ, aplicável aos recursos interpostos pelas alíneas a e c do permissivo constitucional.
+Quanto à questão jurídica remanescente, observa-se que a Corte estadual entendeu que, não havendo previsão de obediência ao Regulamento do Plano, o expert teria agido de acordo com os ditames do título executivo judicial ao não observar a referida regulamentação, conforme se depreende do trecho abaixo transcrito (e-STJ, fl. 651):
+2. Sobre a necessidade de observância dos Regulamentos da Petros.
+Pleiteia a parte agravante a reforma da decisão para que se esclareça que os regulamentos dos planos de benefícios devem ser observados integralmente, exceto no que se referir ao limite etário afastado pela sentença.
+Da mesma forma não assiste razão a parte agravante.
+A perícia foi clara em resposta a manifestação da parte agravante à fls. 182/186 que deve ser aplicada a valoração dos salários de cálculo pagos nos últimos 12 meses anteriores à DB INSS.
+Conforme pontua o expert, o recálculo foi realizado levando em conta o julgado, no qual não especificou que deveria obedecer os ditames do Regulamento de 1969, sendo, portanto, realizado a atualização monetária destes 12 meses para a obtenção da diferença inicial descontando-se a parcela paga pelo INSS.
+Desta sorte, em que pese os benefícios devam ser calculados nos moldes do Regulamento do Plano a que se vincula o associado, deve estrita observância ao título executivo judicial.
+Logo, não há que se falar em reforma da decisão no ponto.
+Nesse contexto, para aferir se a ausência de previsão expressa no título executivo judicial permitiria ou não a utilização dos critérios previstos no Regulamento do Plano para o cálculo de benefício, seria imprescindível o reexame de provas, medida inadmissível nesta instância extraordinária, por conta do Enunciado sumular n. 7/STJ.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, desprovê-lo.
+Publique-se.
