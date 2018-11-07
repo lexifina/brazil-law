@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Carmen Barbetta Narciso. Aparelhado o recurso na afronta ao art. 8º, II e III, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO CONTROVÉRSIA SUSCITADA NO ARE 748.371-RG/MT MATÉRIA A CUJO RESPEITO NÃO SE RECONHECEU A EXISTÊNCIA DE REPERCUSSÃO GERAL SINDICATO LEGITIMIDADE PROCESSUAL AMPLA PARA DEFESA DE DIREITOS COLETIVOS OU INDIVIDUAIS DA CATEGORIA ORIENTAÇÃO QUE PREVALECE NO SUPREMO TRIBUNAL EM RAZÃO DE JULGAMENTO FINAL, COM REPERCUSSÃO GERAL, DO RE 883.642/AL ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS OFENSA INDIRETA À CONSTITUIÇÃO CONTENCIOSO DE MERA LEGALIDADE REEXAME DE FATOS E PROVAS IMPOSSIBILIDADE SÚMULA 279/STF INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL SÚMULA 454/STF APELO EXTREMO DEDUZIDO TAMBÉM COM FUNDAMENTO EM SUPOSTA OFENSA AO ART. 97 DA CONSTITUIÇÃO ACÓRDÃO QUE NÃO DECLAROU A INCONSTITUCIONALIDADE DE QUALQUER ATO ESTATAL INVIABILIDADE DO RECURSO EXTRAORDINÁRIO SUCUMBÊNCIA RECURSAL MAJORAÇÃO DA VERBA HONORÁRIA PRECEDENTE (PLENO) NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC AGRAVO INTERNO IMPROVIDO." (ARE 1108879 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 10/09/2018, PROCESSO ELETRÔNICO DJe-215 DIVULG 08-10-2018 PUBLIC 09-10-2018)
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. DEFESA DE DIREITOS E INTERESSES INDIVIDUAIS. ARTIGO 8º, III, DA CONSTITUIÇÃO DA REPÚBLICA. REPERCUSSÃO GERAL RECONHECIDA NO RE 883.642-RG. TEMA 823. AGRAVO REGIMENTAL DESPROVIDO." (ARE 906715 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 29/06/2018, PROCESSO ELETRÔNICO DJe-157 DIVULG 03-08-2018 PUBLIC 06-08-2018)
+    Por seu turno, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: Para simples reexame de prova não cabe recurso extraordinário .
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
