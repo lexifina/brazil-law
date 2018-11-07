@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C PEDIDO DE INDENIZAÇÃO POR LUCROS CESSANTES E COMPENSAÇÃO POR DANOS MORAIS. CONCORRÊNCIA DESLEAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. LITISCONSORTES COM DIFERENTES PROCURADORES. MESMO ESCRITÓRIO DE ADVOCACIA. PRAZO EM DOBRO. APLICABILIDADE NA HIPÓTESE CONCRETA. GRAVAÇÕES TELEFÔNICAS REALIZADAS POR UM DOS INTERLOCUTORES. LICITUDE. ADMISSIBILIDADE COMO FONTE DE PROVA.
+1. Cuida-se, na origem, de ação cominatória c/c pedido de indenização por lucros cessantes e compensação por danos morais, fundada na prática de atos de concorrência desleal.
+2. Ausentes os vícios do art. 535 do CPC/73, é impositiva a rejeição dos embargos de declaração.
+3. A jurisprudência desta Corte vigente à época da citação efetuada nos autos (abril/2009), enunciava, sob a luzes do Código de Processo Civil de 1973, que a benesse do prazo em dobro em favor dos litisconsortes representados por advogados distintos se aplicava de forma objetiva, independentemente dos causídicos pertencerem ao mesmo escritório de advocacia. Precedentes da época.
+4. A gravação telefônica realizada por um dos interlocutores, sem o consentimento do outro, é lícita e pode ser validamente utilizada como elemento de prova, mesmo em ação de natureza cível, uma vez que a proteção conferida pela Lei 9.296/1996 se restringe às interceptações de comunicações telefônicas. Precedentes.
+5. Agravo conhecido. Recurso especial conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por IESDE BRASIL S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/03/2016.
+Atribuído a esta Relatora em: 25/08/2016.
+Ação: cominatória c/c pedido de indenização por lucros cessantes e compensação por danos morais, ajuizada pela agravante em face de EGEA - ESCOLA GLOBAL DE EDUCAÇÃO AVANÇADA S.A e TULIO RABELO LOPES, devido, em breve síntese, à prática de atos de concorrência desleal.
+Sentença: julgou improcedentes os pedidos, condenando a agravante ao pagamento das custas e honorários advocatícios, fixados em 20% sobre o valor da causa.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, apenas para reduzir os honorários advocatícios devidos ao patrono de cada réu para o valor de R$ 30.000,00. O acórdão foi assim ementado (e-STJ fl. 2.962):
+"APELAÇÃO. AÇÃO COMINATÓRIA COM PEDIDO DE INDENIZAÇÃO. REVELIA. CONCORRÊNCIA DESLEAL. LITIGÂNCIA DE MÁ-FÉ. HONORÁRIOS DE SUCUMBÊNCIA. MINORAÇÃO.
+- A revelia é matéria de ordem pública, não se sujeitando, pois a preclusão pro judicato. A distinção entre a concorrência leal e a desleal é tarefa bastante árdua, especialmente pelo fato de ambas possuírem a mesma finalidade, ou seja, atrair a clientela do concorrente. No entanto, a mera concorrência entre empresas do mesmo segmento, não torna o ato ilegal, até mesmo porque o princípio da livre concorrência, esculpido no art. 170, inciso IV, da Constituição Federal de 1988, consiste pilar sem o qual a atividade empresarial não alcançaria seus objetivos maiores, como a obtenção de lucros e a captação de clientela. - A parte que age de modo temerário no processo deve ser punida na forma do art. 18 do CPC. - A teor do art. 20, §4º, do Código de Processo Civil, nas causas em que não houver condenação, o magistrado deve fixar a verba honorária de maneira equitativa, e para tanto, pode levar em conta o valor da causa ou arbitrar a verba em valor fixo. O juízo de equidade aludido deve levar sempre em consideração o caso concreto em face das circunstâncias previstas no art. 20, § 3º, do CPC, quais sejam, o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido".
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 191, 297, 319, 332, 333, I, 334, IV, e 535 do CPC/73, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: (i) não se aplica o prazo em dobro quando os réus são representados por procuradores distintos porém integrantes de um mesmo escritório de advocacia; (ii) em razão da intempestividade das contestações, devem ser aplicados os efeitos da revelia, com presunção de veracidade das alegações da petição inicial; (iii) é lícita a apresentação, no processo civil, de gravações telefônicas como prova em favor de um dos interlocutores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/73.
+- Da violação do art. 535 do CPC/73
+No acórdão recorrido não há omissão, contradição ou obscuridade, haja vista que o Tribunal de origem examinou, de maneira clara e fundamentada, todas as questões levadas à sua apreciação por meio dos recursos de apelação.
+Dessa maneira, o art. 535 do CPC/73 não foi violado.
+- Do prazo em dobro aplicável à hipótese
+O Tribunal de origem, ao conceder à parte agravada (ré) prazo em dobro para contestar, alinhou-se ao entendimento desta Corte vigente à época da citação (abril/2009), firmado, sob a égide do Código de Processo Civil de 1973, no sentido de que a benesse do prazo em dobro em favor dos litisconsortes representados por advogados distintos se aplica de forma objetiva, independentemente dos causídicos pertencerem ao mesmo escritório de advocacia.
+A propósito, confiram-se os seguintes julgados:
+PROCESSO CIVIL. LITISCONSÓRCIO PASSIVO. PROCURADORES DISTINTOS. PRAZO EM DOBRO. ADVOGADOS DO MESMO ESCRITÓRIO DE ADVOCACIA. PARTES CASADAS.
+A orientação firmada pelo Tribunal é a de que tendo os litisconsortes procuradores distintos, aplica-se de forma objetiva e irrestrita a regra benévola do artigo 191 do Código de Processo Civil, de modo que também incidente no caso de os advogados serem do mesmo escritório, de as partes serem casadas e de o imóvel em litígio servir-lhes de residência.
+Recurso Especial provido.
+(REsp 818.419/SP, 3ª Turma, Rel. Min. Sidnei Beneti, Dje de 18/06/2009)
+PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. LITISCONSÓRCIO PASSIVO. PROCURADORES DISTINTOS. CISÃO DE PATROCÍNIO NO DECORRER DO PROCESSO. SUBSTABELECIMENTO SEM RESERVAS. ART. 191 DO CPC. PRAZO EM DOBRO. INCIDÊNCIA.
+I - Tendo os litisconsortes procuradores distintos, aplica-se a regra benévola do art. 191, CPC, independentemente dos advogados serem do mesmo escritório e apresentarem a petição em conjunto, suscitando as mesmas razões.
+II - Conforme preceitua antigo brocardo jurídico, "onde a lei não distingue, não o pode o intérprete distinguir"" (REsp n. 184.509/SP, relatado pelo eminente Ministro Sálvio de Figueiredo Teixeira, DJ de 15/03/1999).
+Recurso especial parcialmente conhecido e, nessa extensão, provido .
+(REsp 844.311/PR, 4ª Turma, Rel. Min. Cesar Asfor Rocha, DJ de 20/08/2007)
+Veja-se ainda: EDcl no REsp 1.120.504/SP, 3ª Turma, sob minha relatoria, DJe de 21/03/2011).
+Vale dizer, por oportuno, que não se desconhece que, com a vigência do Código de Processo Civil de 2015, houve integral reversão do referido entendimento na jurisprudência deste Superior Tribunal de Justiça, em atenção ao disposto no art. 229 do novo Códex, que é explícito no sentido de vedar a aplicação do prazo em dobro quando os procuradores dos litisconsortes pertencem ao mesmo escritório profissional.
+No entanto, não se mostra viável, na presente fase, que haja aplicação retroativa da nova norma processual e respectivo entendimento jurisprudencial, pois isso, para além de violar o princípio do "tempus regit actum", implicaria em inadmissível surpresa em prejuízo das partes.
+Assim, não há que se falar, na espécie, em aplicação dos efeitos da revelia, não merecendo o acórdão recorrido reforma quanto ao ponto.
+- Da licitude da gravação telefônica como fonte de prova no processo civil
+Lado outro, assiste razão à recorrente no tocante à admissibilidade das gravações telefônicas como prova em seu favor, haja vista que a jurisprudência deste Tribunal, de longa data, é firme no sentido de que a gravação telefônica realizada por um dos interlocutores, sem o consentimento do outro, é lícita e pode ser validamente utilizada como elemento de prova, mesmo em ação de natureza cível, uma vez que a proteção conferida pela Lei 9.296/1996 se restringe às interceptações de comunicações telefônicas.
+Sobre o tema, vejam-se, dentre outros, os seguintes julgados: AgRg nos EDcl no REsp 815.787/SP, 4ª Turma, DJe de 27/05/2013; AgRg no Ag 962.257/MG, 4ª Turma, DJe de 30/06/2008; REsp 9.012/RJ, 3ª TUrma, DJ de 14/04/1997.
+Logo, impõe-se a anulação do acórdão recorrido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para cassar o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem, a fim de que, em novo julgamento do recurso de apelação, promova o devido exame das gravações telefônicas realizadas pelo recorrente e juntadas aos autos como fonte de prova.
+Publique-se. Intimem-se.
