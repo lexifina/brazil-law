@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO AÇÃO DECLARATÓRIA CUMULADA COM ANULATÓRIA IPTU Município de Diadema Exercício de 2015 - Pretendida isenção do tributo com base em legislação municipal que prevê o benefício aos imóveis locados a templos religiosos - Falta de comprovação, no âmbito administrativo de atendimento de todos os requisitos legais, especialmente quanto a inexistência de débitos tributários ou não tributários incidentes sobre cada um dos imóveis alugados, a inibir o reconhecimento da isenção que não admite interpretação extensiva ou mais favorável ao pretenso beneficiário - Inteligência do art. 111, II do CTN - Sentença mantida - Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente afirma que o indeferimento da isenção tributária por ausência de apresentação de certidão negativa de débitos configura sanção política.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No entanto, o recurso não merece trânsito.
+    De início, oportuno destacar que o juízo primeiro de admissibilidade do recurso extraordinário atua na verificação do atendimento aos pressupostos gerais de recorribilidade, como também aos pressupostos específicos do inciso III do art. 102 da Constituição com o objetivo de conferir a viabilidade, ou não, do processamento do recurso, sem que se configure usurpação da competência do C. Supremo Tribunal Federal (ARE 781896, Rel. Min. CÁRMEN LÚCIA, DJe 04/02/2014).
+    Com efeito, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame das provas colhidas no correr do feito e direito local. Incidentes as Súmulas 279 e 280 do Colendo Supremo Tribunal Federal.
+    Inadmito, pois, o recurso extraordinário com fundamento no inciso V do art. 1.030 do Código de Processo Civil.”
+    A pretensão recursal não merece prosperar. A parte recorrente não indicou, nas razões do recurso extraordinário, os dispositivos constitucionais supostamente violados. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. Nesse sentido, veja-se:
+    PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA. NÃO INDICAÇÃO DO dispositivo CONSTITUCIONAL violado. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+    I Nos termos do art. 327, e § 1º, do RISTF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar formal e fundamentada de repercussão geral serão recusados. Precedentes.
+    II O agravante não indicou o dispositivo constitucional supostamente violado, o que caracteriza deficiência na fundamentação do recurso, a teor da Súmula 284 do STF.
+    III O agravante não atacou os fundamentos da decisão agravada, o que torna inviável o recurso extraordinário, nos termos da Súmula 287 do STF.
+    IV - Agravo regimental improvido. (AI 819.362-AgR, Rel. Min. Ricardo Lewandowski)
+    No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “Embora tenha apresentado diversos documentos, no âmbito administrativo, a apelante não comprovou que apresentou todos os documentos previstos na legislação municipal para todos os imóveis em que pleiteia a isenção.
+    Isto porque, da documentação constante dos autos é possível verificar que dentre os motivos do indeferimento, em cada um dos processos administrativos (fls. 318/853 - cópia dos pedidos administrativos juntados pela apelada) está a falta de comprovação da ausência de débitos tributários ou não tributários incidentes sobre cada um dos imóveis alugados, como exigência expressa do art. 5º da LC Municipal 240/06, além daqueles requisitos do art. 2º do mesmo diploma legal.
+    Como se verifica nas decisões administrativas de fls. 242, 244, 246, 248, 250, 252, 254 e 256, os indeferimentos foram motivados pela ausência de pelo menos um daqueles requisitos, notadamente a ausência de prova de inexistência de débitos tributários ou não tributários incidentes sobre os imóveis locados. Em outras palavras: para cada pedido administrativo houve uma motivação do indeferimento, com a identificação do dispositivo legal não atendido.
+    O art. 5º da LC Municipal 240/06 é suficientemente claro ao dispor que:
+    ‘Art. 5º - O benefício não será concedido caso o imóvel locado esteja com débitos tributários ou não tributários, para com o Município’.
+    Assim, caberia à apelante demonstrar, especificamente, que juntou em cada um dos pedidos administrativos, o documento que a Municipalidade alega não ter sido apresentado, em especial a certidão negativa de débitos incidentes sobre os imóveis alugados.
+    Como assim não procedeu, o indeferimento administrativo lastreou-se em entendimento segundo o qual deve-se interpretar literalmente a legislação tributária que disponha sobre a outorga de isenção (art. 111, inciso II do CTN), não sendo admitida, portanto, a adoção de interpretação extensiva ou mais benéfica ao contribuinte.”
+    Tal como constatou a decisão agravada, dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente, providência vedada nesta fase processual (Súmulas 279 e 280/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 07 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
