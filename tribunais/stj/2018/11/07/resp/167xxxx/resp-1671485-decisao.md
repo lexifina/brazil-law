@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão oriundo do mesmo estado da Federação.
+Depreende-se dos autos que o recorrido foi condenado, como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 7 anos, 8 meses e 3 dias de reclusão, no regime inicial fechado.
+Não foi interposto recurso de apelação.
+Após o trânsito em julgado, foi ajuizada revisão criminal que, julgada parcialmente procedente, afastou a valoração negativa das circunstâncias judiciais relativas à conduta social, à personalidade e às consequências do crime, além de aplicar a fração de 1/3 na terceira fase da dosimetria.
+O acórdão está assim ementado (e-STJ fls. 40/41):
+REVISÃO CRIMINAL. ART. 621, I, DO CÓDIGO DE PROCESSO PENAL). CONDENAÇÃO POR ROUBO DUPLAMENTE CIRCUNSTANCIADO PELO EMPREGO DE ARMA E CONCURSO DE PESSOAS (ART. 157, § 2º, I E II, DO CÓDIGO PENAL). PRETENSA REFORMA DA DOSIMETRIA (PRIMEIRA E TERCEIRA FASES).
+PRIMEIRA FASE. PENA-BASE. CONDUTA SOCIAL E PERSONALIDADE CONSIDERADAS DESFAVORÁVEIS EM RAZÃO DE AÇÕES PENAIS EM CURSO. PROCESSOS EM ANDAMENTO QUE NÃO AUTORIZAM A EXASPERAÇÃO. APLICAÇÃO DA SÚMULA 444 DO STJ. AUSÊNCIA, ADEMAIS, DE LAUDO PSICOLÓGICO OU OUTROS DADOS ESPECÍFICOS PARA TAL CARACTERIZAÇÃO. ELEMENTARES DO ART. 59 DO CÓDIGO PENAL AFASTADAS DO CÔMPUTO DA PENA.
+CIRCUNSTÂNCIAS DO CRIME QUE, EMBORA NÃO INTEGRANTES DO TIPO PENAL, ENVOLVEM O DELITO. CRIMINOSO QUE, VISANDO DIFICULTAR A SUA IDENTIFICAÇÃO NA PRÁTICA DO DELITO, UTILIZA-SE DE UM CAPACETE. FUNDAMENTO VÁLIDO.
+"10. Circunstâncias do crime são os elementos acidentais não participantes da estrutura do tipo, embora envolvendo o delito. Quando expressamente gravadas na lei, as circunstâncias são chamadas de legais (agravantes e atenuantes, por exemplo). Quando genericamente previstas, devendo ser formadas pela análise e pelo discernimento do juiz, são chamadas de judiciais. Um crime pode ser praticado, por exemplo, em local ermo, com premeditação, para dificultar a sua descoberta e apuração do culpado, constituindo circunstância gravosa" (NUCCI, Guilherme de Souza. Código penal comentado. 15. ed. Rev., atual. E ampl. Rio de Janeiro: Forense, 2015. p. 460).
+CONSEQUÊNCIAS DO CRIME CONSIDERADAS GRAVES. NÃO RESTITUIÇÃO DA RES FURTIVA. PERDA PATRIMONIAL. RESULTADOS INERENTES AO PRÓPRIO TIPO PENAL. AUMENTO AFASTADO.
+TERCEIRA FASE. PRESENÇA DE DUAS CAUSAS ESPECIAIS DE AUMENTO DE PENA (CONCURSO DE PESSOAS E EMPREGO DE ARMA). MAJORAÇÃO EM 3/8 (TRÊS OITAVOS). INEXISTÊNCIA DE FUNDAMENTAÇÃO CONCRETA A JUSTIFICAR O PATAMAR UTILIZADO. APLICAÇÃO DA SÚMULA 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA. REDUÇÃO DA MAJORANTE PARA A FRAÇÃO MÍNIMA PREVISTA (1/3). READEQUAÇÃO DA PENA.
+REVISIONAL DEFERIDA EM PARTE.
+Daí o presente recurso especial, no qual se alega violação ao art. 621, I, do Código de Processo Penal. Aduz a defesa para tanto que "a alteração de entendimento jurisprudencial, ainda que venha a dar origem a súmula, não autoriza o ajuizamento de revisão criminal, uma vez que não se está diante de nenhuma das hipóteses taxativamente previstas nos incisos do artigo 621 do Código de Processo Penal" (e-STJ fl. 77).
+Requer, ao final, seja dado provimento ao recurso para afastar a incidência da Súmula n. 443 desta Corte, mantendo-se a exasperação da pena na terceira fase da dosimetria da pena.
+Contrarrazões às e-STJ fls. 93/99.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial em parecer assim ementado (e-STJ fl. 124):
+RECURSO ESPECIAL. ROUBO QUALIFICADO. REVISÃO CRIMINAL. ALTERAÇÃO NA DOSIMETRIA DA PENA NA PRIMEIRA E TERCEIRA FASE. REDUÇÃO DA FRAÇÃO APLICADA NA TERCEIRA FASE COM FUNDAMENTO NA SÚMULA 443/STJ. DESCABIMENTO DA REVISIONAL COM BASE EM JURISPRUDÊNCIA SUPERVENIENTE.
+- A jurisprudência desse C. STJ consolidou-se no sentido de que a mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal.
+- Merece prosperar o presente recurso, tendo em vista que o Tribunal de origem, ao reformar a pena do recorrido, em especial, na terceira fase da dosimetria, se apoiou tão somente em entendimento jurisprudencial sumulado superveniente à prolação da sentença condenatória, o que não autoriza a interposição de revisão criminal com fulcro no art. 621, inciso I, do Código de Processo Penal.
+- Parecer pelo provimento do recurso especial.
+É, em síntese, o relatório.
+O recurso merece provimento.
+Esta Corte firmou a orientação de não se admitir que a alteração da jurisprudência legitime o ajuizamento de revisão criminal com fundamento no art. 621, I, do Código de Processo Penal, porquanto nesse caso não há se falar em contrariedade ao texto expresso da lei.
+Nesse sentido:
+AGRAVOS REGIMENTAIS. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. REVISÃO CRIMINAL. EXASPERAÇÃO NA PRIMEIRA E TERCEIRA FASES DA DOSIMETRIA DA PENA. SÚMULAS 444/STJ E 443/STJ. JURISPRUDÊNCIA CONTROVERTIDA. DESCABIMENTO DA REVISIONAL. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. Segundo entendimento do Superior Tribunal de Justiça, a mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal.
+2. Agravos regimentais improvidos. (AgInt no HC 373.928/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. APLICAÇÃO RETROATIVA DE ENTENDIMENTO JURISPRUDENCIAL SUMULADO. IMPOSSIBILIDADE. ATENUANTE PREVISTA NO ART. 65, III, "b" DO CP. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, mudança de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal visando a sua aplicação retroativa.
+2. No caso em exame, verifica-se que o trânsito em julgado da condenação ocorreu em 10/11/1998 e a orientação descrita na referida Súmula data de 13/5/2010.
+3. "A jurisprudência desta Corte tende a não admitir o ajuizamento de revisão criminal fundada em mudança de entendimento jurisprudencial superveniente ao trânsito em julgado da sentença condenatória. No caso destes autos, a decisão condenatória transitou em julgado (..), antes, portanto, da publicação dos Enunciados Sumulares n. 443 e 444 desta Corte, que justificaram a redução da pena em sede de revisão criminal, não podendo, assim, legitimar a redução da pena dada pela eg. Corte a quo." (AgRg no REsp 1.663.112/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/8/2017).
+4. Verificar a incidência da atenuante prevista no art. 65, III, "b" envolve providência incompatível com o recurso, por demandar reexame do acervo fático-probatório, o que encontra óbice no enunciado da Súmula 7/STJ.
+5. Agravo regimental desprovido. (AgRg no REsp 1594245/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/08/2018, DJe 15/08/2018.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E RECEPTAÇÃO. AUSÊNCIA DE CABIMENTO DA REVISÃO CRIMINAL. REDUTOR. ATIVIDADES ILÍCITAS HABITUAIS. APLICAÇÃO DE 2/3. IMPOSSIBILIDADE.
+I - A decisão agravada deve ser mantida por seus próprios fundamentos.
+II - É firme a jurisprudência desta Corte no sentido de não admitir o ajuizamento de revisão criminal fundada em mudança de entendimento jurisprudencial superveniente ao trânsito em julgado da sentença condenatória. Precedente.
+III - A revisão criminal consiste em ação de fundamentação vinculada, e torna imprescindível a adequação do pleito a uma das hipóteses taxativamente elencadas no artigo 621 do CPP. Isso porque, o mero inconformismo da defesa com a fixação da pena imposta, e sem abranger uma das hipóteses legais, não constitui vício a ser sanado através desta via processual. Precedentes.
+IV - O redutor previsto no art. 33, § 4º da Lei 11.343/06 não foi aplicado em seu grau máximo, em razão do recorrente participar de atividade ilícita habitual, mantida a fração aplicada no julgamento anterior, sob pena de reformatio in pejus. Precedentes.
+Agravo regimental desprovido. (AgRg no AREsp 511.248/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/04/2018, DJe 16/04/2018.)
+No caso, a sentença condenatória foi prolatada em 28/8/2006 e, não tendo sido interposto recurso de apelação, operou-se o trânsito em julgado em 16/11/2006. Contudo, a Súmula n. 443, que motivou a revisão do julgado, foi editada somente em 28/4/2010, portanto, mais de três anos após.
+Dessarte, é notório que a revisão criminal não se revelava o instrumento adequado para o reexame da pena aplicada.
+Ante o exposto, dou provimento ao recurso especial, para restabelecer o aumento na terceira fase da dosimetria em 3/8 (três oitavos), nos moldes da sentença.
+Publique-se. Intimem-se.
