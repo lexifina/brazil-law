@@ -1,0 +1,23 @@
+AÇÃO CÍVEL ORIGINÁRIA. DEMARCAÇÃO DE DIVISAS ENTRE OS ESTADOS DA BAHIA, PIAUÍ E TOCANTINS. AÇÃO JULGADA PARCIALMENTE PROCEDENTE PELO PLENÁRIO, A FIM DE DETERMINAR A DEMARCAÇÃO DA ÁREA SUB JUDICE NAS DIVISAS ENTRE OS ESTADOS DA BAHIA, PIAUÍ E TOCANTINS. OPERADO O TRÂNSITO EM JULGADO DA AÇÃO. AUSÊNCIA DE QUALQUER PEDIDO OU INCIDENTE PENDENTE DE JULGAMENTO OU APRECIAÇÃO. DECURSO DE PRAZO RECURSAL. DETERMINAÇÃO À SECRETARIA QUE CERTIFIQUE O TRÂNSITO EM JULGADO E PROCEDA À BAIXA NA DISTRIBUIÇÃO.
+    Decisão: Trata-se de ação cível originária proposta pelo Estado do Piauí em face do Estado de Tocantins para a fixação de divisas entre os Estados da Bahia, Goiás, Piauí e Tocantins.
+    Em 8/10/2014, o Plenário desta Corte, por unanimidade, julgou o pedido parcialmente procedente, para que fossem fixadas as linhas divisórias entre os Estados da Bahia e de Goiás e entre os Estados do Piauí e do Tocantins, segundo o laudo técnico realizado pelo Serviço Geográfico do Exército Brasileiro. O decisum restou assim ementado, in verbis:
+    “1) Direito Constitucional. Demarcação das Divisas entre os Estados da Bahia, Goiás, Piauí e de Tocantins. Julgamento conjunto desta ACO e da ACO 652.
+    2) Processo de mediação conduzido nos autos que acarretou a celebração de acordos entre os estados da Bahia e Tocantins e com o Estado de Minas Gerais e demais partes desta ação.
+    3) Conflito subsistente em relação ao parâmetro a ser adotado para a demarcação das divisas entre os estados da Bahia e Goiás e entre Piauí e Tocantins.
+    4) A perícia realizada pelo Exército Brasileiro, e requerida pelas próprias partes do processo, demonstrou maior precisão técnica e um melhor resultado. Ademais, o abandono do longo, complexo e detalhado laudo realizado pelo Exército após sua juntada aos autos é medida, deveras, ineficiente e configura comportamento contraditório abominado pelo instituto do venire contra factum proprium, que tem alicerce em nosso ordenamento jurídico no princípio da segurança jurídica.
+    5) O Estado de incerteza quanto à demarcação das áreas em litígio precede à promulgação da Carta de 1988, o que permite, em conjunto com a reversibilidade da situação fática, o afastamento do critério estabelecido pela Carta do IBGE.
+    6) Voto pela parcial procedência desta ação e da ACO 652, a fim de determinar a utilização do laudo do Exército Brasileiro como parâmetro para a demarcação da área ainda sub judice nas divisas entre os estados da Bahia, Goiás, Piauí e Tocantins.
+    7) Ficam preservados os títulos de posse e de propriedade anteriormente definidos, e eventuais disputas de posse e de propriedade relativas às áreas delimitadas não serão decididas originariamente por esta Corte. As ações judiciais referentes às áreas abrangidas por estas ações ainda não sentenciadas deverão ser redistribuídas ao juízo competente.
+    8) Prejudicados todos os recursos interpostos nesta ação e na ACO 652.”
+    Os embargos de declaração opostos foram rejeitados, ocorrendo o trânsito em julgado da referida decisão em 8/8/2017.
+    Em 18/2/2018, o Estado do Piauí apresentou petição informando que alguns órgãos federais, tais como o Ministério do Desenvolvimento Agrário - MDA, o Instituto Nacional de Colonização e Desenvolvimento INCRA e o Instituto Brasileiro de Geografia e Estatística IBGE, ainda hoje aplicam as divisas antigas, em desconformidade com o que fora decido nos autos. Por tal razão, requereu a este juízo a expedição de ofícios dando ciência da decisão com trânsito em julgado aos órgãos acima nominados e mais outros, caso este relator entendesse necessário.
+    Diante disso, em 2/4/2018, deferi o pedido formulado e determinei a intimação da União para que desse ciência do conteúdo do que decidido nos presentes autos e seus processos conexos/apensos aos seus órgãos e/ou entidades com competência para cumprimento do que decidido, tais como o Ministério do Desenvolvimento Agrário - MDA, o Instituto Nacional de Colonização e Desenvolvimento INCRA e o Instituto Brasileiro de Geografia e Estatística IBGE.
+    É o relatório. Decido.
+    Proferida a última decisão no feito em 2/4/2018, as partes não apresentaram qualquer novo recurso ou petição.
+    Com efeito, compulsando os autos, verifico que este foi o último ato processual praticado, não havendo qualquer pedido ou incidente pendente de apreciação.
+    Ex positis, nada mais havendo a apreciar, determino à Secretaria que registre e certifique o trânsito em julgado, procedendo à baixa na distribuição.
+    Publique-se. Int..
+    Brasília, 7 de novembro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
