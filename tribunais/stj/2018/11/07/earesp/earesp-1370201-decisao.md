@@ -1,0 +1,3 @@
+DECISÃO
+Considerando a petição juntada pelo agravante às e-STJ fls. 1276/1286, na qual esclarece que a presente execução decorre do título judicial formado na Ação Declaratória nº 10.878/92, que tramitou perante a 3ª Vara da Fazenda Pública da Comarca de Curitiba/PR (e-STJ fl. 1007), mesmo título objeto do ARESP nº 567.154/PR, julgado pelo em. Ministro Benedito Gonçalves, torno sem efeito a decisão monocrática por mim proferida às e-STJ fls. 1287/1294 e determino o encaminhamento dos autos ao em. Ministro Benedito Gonçalves, consultando Sua Excelência sobre eventual prevenção para o julgamento do presente feito.
+Publique-se. Intimem-se.
