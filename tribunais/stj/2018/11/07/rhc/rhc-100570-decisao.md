@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (HC 1404667-10.2018.8.12.0000).
+Consta dos autos que a recorrente "foi presa em flagrante em 05.03.2018 (Autos n.0000393-55.2018.8.12.00010), pela prática, em tese, do delito de tráfico de drogas (art.33 da Lei 11.343/06), após ter sido surpreendida quando transportava 15,580 (quinze quilos e quinhentos e oitenta gramas) de maconha em uma mala que levava consigo no ônibus da empresa Viação Motta, com destino à cidade de Vitória/ES. A segregação foi convertida em preventiva na audiência de custódia, autos n.0000663-79.2018.8.12.0010" (e-STJ fl. 73).
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura da ora recorrente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 70):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRETENDIDA REVOGAÇÃO DA CUSTÓDIA CAUTELAR - REQUISITOS AUTORIZADORES PRESENTES - DESCUMPRIMENTO DE MEDIDAS CAUTELARES IMPOSTAS EM OUTRO PROCESSO - DECISÃO CALCADA NA CONCRETA POSSIBILIDADE DE REITERAÇÃO DELITIVA - PACIENTE PRESA QUANDO ENCONTRAVA-SE DESCUMPRINDO MEDIDA ALTERNATIVA ANTERIORMENTE IMPOSTA - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E ASSEGURAMENTO DA APLICAÇÃO DA LEI PENAL - CONSTRANGIMENTO ILEGAL INEXISTENTE - PEDIDO DE CUSTÓDIA DOMICILIAR - PACIENTE GRAVIDA - HC COLETIVO 143.641 DO STF - IMPOSSIBILIDADE DE CONCESSÃO - CASO QUE SE ENCAIXA NAS EXCEÇÕES PREVISTAS - EXCEPCIONALIDADE DO CASO CONCRETO EVIDENCIADA - ORDEM DENEGADA.
+Quando restar caracterizada uma das hipóteses previstas no art. 313, do CPP, bem como estiver preenchidos os requisitos e fundamentos legais do art. 312, desse mesmo Diploma Legal, quais sejam: fumus comissi delicti (existência de prova da materialidade e indícios da autoria) e periculum in libertatis, não há falar em revogação da prisão preventiva.
+Mantém-se a prisão preventiva, decretada com fundamento na necessidade de garantir a ordem pública, em razão da possibilidade concreta de que o acusado volte a delinquir, em especial em razão de ter sido presa quando descumpria medidas cautelares impostas em outro processo.
+É certo que as mulheres indicadas no HC coletivo n.143.641 do STF, não tem o direito inequívoco à prisão domiciliar, podendo o julgador indeferir referido benefício, tendo em vista as particularidades que envolvem o caso concreto sob sua responsabilidade, desde que presentes as exceções mencionadas no referido julgado.
+No presente recurso, sustenta a defesa, em resumo, inexistir motivação idônea para a segregação antecipada da recorrente e que ela faz jus à prisão domiciliar por estar grávida.
+Busca, inclusive liminarmente, seja revogada a custódia cautelar da recorrente ou, ao menos, seja substituída por prisão domiciliar.
+Liminar indeferida às e-STJ fls. 123/127.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 133/141).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 13/7/2018, de sentença condenatória em desfavor da recorrente, ocasião em que lhe foi concedido o direito de apelar em liberdade, expedido o competente alvará de soltura.
+Assim, fica sem objeto este recurso, que buscava, justamente, a soltura da recorrente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
