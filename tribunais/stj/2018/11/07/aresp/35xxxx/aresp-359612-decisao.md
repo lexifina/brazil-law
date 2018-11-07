@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPRA E VENDA - Imóvel rural - Posterior transferência para integralização de capital social da autora - Constatação da existência de procedimento administrativo fiscal contra a sócia que integralizou o capital social - Pendência de ITR referente a período em que o imóvel era de propriedade da vendedora - Tributo recolhido pela sócia que integralizou o capital social da autora e que era a proprietária do imóvel ao tempo da instauração do procedimento administrativo - Cessão à autora dos direitos de cobrança e ressarcimento do débito perante a vendedora e antiga proprietária - Ação de cobrança - Sentença de improcedência - Preliminar de falta de representação processual da ré não conhecida - Inovação - Inexistência, ademais, de dúvida razoável acerca da regularidade da representação - Revisão do ITR pela Receita Federal - Débito tributário e multa gerados por inércia e negligência da então proprietária - Documentos solicitados pela Receita Federal não apresentados - Falta de comprovação de que a ré deu causa à existência do débito tributário - Sentença mantida - Apelação desprovida".
+Nas razões do recurso especial, a agravante alega violação dos arts. 1º da lei 9.393/96; 133 e 422 do Código Civil/2002; e 130 do Código Tributário Nacional.
+Sustenta que a recorrida "deixou de realizar o correto lançamento do ITR e por conseguinte o devido recolhimento do referido tributo, ensejando assim, na presente ação, visando o ressarcimento dos valores pagos".
+É o relatório.
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e das respectivas Turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Compulsando os autos, verifica-se que a matéria em debate diz respeito a Direito Tributário.
+Dessa forma, verifica-se que a competência para apreciar o recurso é de uma das Turmas integrantes da Primeira Seção desta Corte.
+Diante do exposto, redistribuam-se os autos a um dos e. Ministros integrantes da Eg. Primeira Seção.
+Publique-se.
