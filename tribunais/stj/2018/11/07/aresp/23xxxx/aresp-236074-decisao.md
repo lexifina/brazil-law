@@ -1,0 +1,31 @@
+DECISÃO
+Tratam os autos de agravo em recurso especial interposto por CONDOMÍNIO TRÊS RIOS - EDIFÍCIO PARAÍBA contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) que inadmitiu seu recurso especial.
+Historiam os autos que [NOME] OUTROS propuseram ação ordinária em desfavor de CONDOMÍNIO TRÊS RIOS - EDIFÍCIO PARAÍBA e NOVA AMÉRICA EMPREENDIMENTOS IMOBILIÁRIOS S/C LTDA, cujos pedidos foram julgados procedentes para "(..) condenar os requeridos a promoverem a cota de participação condominial levando-se em conta o percentual de 2,028%, bem como, que devolvam aos autores todas as importâncias cobradas acima de tal fração (..)" (fl. 404).
+Inconformados, os promovidos recorreram, tendo o eg. TJ-SP negado provimento à apelação, conforme v. acórdão estadual assim ementado (fl. 494):
+"APELAÇÕES CÍVEIS - Ação de obrigação de fazer. Despesas de condomínio. Ilegitimidade passiva da Administradora. Inocorrência. Majoração da fração ideal pertencente aos autores. Convenção condominial inalterada. Ilegalidade na cobrança. Sentença mantida. Apelações não providas."
+Irresignado, CONDOMÍNIO TRÊS RIOS - EDIFÍCIO PARAÍBA interpôs recurso especial com arrimo na alínea "a" do permissivo constitucional no qual aponta ofensa ao art. 12, § 1º, da Lei n. 4.591/64. Aduz, em suma, que os autores devem pagar a cota parte de acordo com a fração ideal do terreno de sua unidade.
+Contrarrazões às fls. 528-530.
+Como dito, o apelo nobre foi inadmitido (fls. 535-536), motivando o manejo do presente agravo em recurso especial (fls. 541-547).
+Contraminutas às fls. 560-563.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, tendo em vista que o recurso especial foi interposto contra acórdão publicado anteriormente à entrada em vigor do Novo Código de Processo Civil, aplica-se ao caso o Enunciado Administrativo n.º 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Com efeito, ao apontar violação ao art. 12, § 1º, da Lei n. 4.591/1964, o condomínio recorrente sustenta que a unidade dos recorridos é maior que as demais, não havendo necessidade de convocação de assembleia para adequar a cobrança das taxas condominiais ao tamanho do imóvel, bastando apenas a notificação dos recorridos. O TJ-SP, por sua vez, soberano na análise do acervo fático-probatório, consignou que, com o intuito de aumentar o percentual a ser pago a título de taxa condominial com base na fração ideal, deveria o condomínio submeter a questão à votação em assembleia e providenciar alterações na convenção condominial. Confira-se excerto do v. acórdão recorrido (fls. 496-497):
+ "Com efeito, ao aumentar o percentual da fração ideal da unidade condominial dos autores, além de submeter a questão a votação em assembléia, deveriam os réus providenciar a alteração da convenção condominial, a fim de que a cobrança se revestisse de legalidade. No entanto, efetuaram a cobrança com o valor diferenciado sem a competente mudança na convenção de condomínio.
+ Frise-se que o laudo pericial elaborado constatou, com a medição obtida, que a fração ideal da unidade dos autores está muito abaixo da área indicada pelos réus. Contudo, para que se efetivasse a cobrança com os novos valores, primeiramente, deveria ser alterado o estatuto condominial.
+ Deste modo, houve por bem o Magistrado a quo julgar procedente a ação, condenando os réus a promoverem a cota de participação condominial, considerando-se o percentual de 2,028, bem como a devolverem aos autores os valores acima da mencionada fração." (grifou-se)
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu que para haver o aumento do valor cobrado em face dos recorridos, seria necessária a aprovação e deliberação em assembleia de condôminos, tendo em vista que há controvérsia acerca da fração ideal da unidade dos autores. Dessa forma, para rever tal entendimento, sob alegada ofensa ao dispositivo mencionado, demandaria o revolvimento do suporte fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas de n. 7 e n. 5, ambas do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. CONDOMÍNIO EDILÍCIO. FORMA DE PAGAMENTO DAS TAXAS CONDOMINIAIS. FRAÇÃO DE CADA UNIDADE. CONVENÇÃO DE CONDOMÍNIO. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+ ..
+2. No caso, as instâncias ordinárias, mediante análise das cláusulas da Convenção de Condomínio, bem como da ata da Assembleia Geral Extraordinária realizada com o objetivo de discutir e aprovar a Convenção do condomínio, entenderam que ficou provado nos autos que os condôminos escolheram o sistema de cobrança da taxa de condomínio a partir do critério das frações ideais. Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1169871/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 11/09/2018, DJe 14/09/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. ILEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+ ..
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1299412/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/10/2018, DJe 16/10/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
