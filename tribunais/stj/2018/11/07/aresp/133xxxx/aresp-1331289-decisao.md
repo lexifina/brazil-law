@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA E VENDA. 1. VIOLAÇÃO AO ART. 535 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. 2. DANO MORAL. ATRASO, POR SI SÓ, QUE NÃO ACARRETA ATO ILÍCITO INDENIZÁVEL. PRECEDENTES. ACÓRDÃO REFORMADO NO PONTO. 3. RETENÇÃO DE PARTE DOS VALORES PAGOS. DESCABIMENTO. CULPA DA CONSTRUTORA PELA RESCISÃO DECLARADA. SÚMULA 543/STJ. 4. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. INDENIZAÇÃO DEVIDA. SÚMULA 83/STJ. 5. NECESSIDADE DE REDUÇÃO DOS LUCROS CESSANTES. TESE QUE NÃO FOI OBJETO DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 6. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por Patri Onze Empreendimentos Imobiliários Ltda. contra decisão que não admitiu o processamento do recurso especial.
+Compulsando os autos, verifica-se que a ação de rescisão de contrato cumulada com indenização por danos materiais e morais ajuizada por [NOME] em desfavor da recorrente foi julgada procedente para declarar rescindido o contrato de compra e venda celebrado entre as partes, bem como para condenar a ré à devolução de 90% (noventa por cento) dos valores pagos pela autora e ao pagamento de danos morais, no valor de R$ 10.000,00 (dez mil reais), e de lucros cessantes, na quantia de R$ 22.500,00 (vinte e dois mil e quinhentos reais).
+Ambas as partes apelaram da sentença. Na ocasião, a Terceira Câmara Cível do Tribunal de Justiça do Estado do Amazonas negou provimento ao apelo da ré e deu parcial provimento ao da autora para excluir a retenção de 10% (dez por cento) dos valores pagos pela promitente compradora, ora recorrida, determinando a restituição integral da monta adimplida, nos termos do acórdão assim ementado (e-STJ, fl. 539):
+DUAS APELAÇÕES CÍVEIS. DANO MORAL. PROVA. DESNECESSIDADE. ATRASO INJUSTIFICADO NA OBRA QUE LEVOU A PROMITENTE COMPRADORA À RESCISÃO CONTRATUAL. LUCROS CESSANTES. PAGAMENTO INTEGRAL DE TODAS AS PARCELAS PAGAS PELA PROMITENTE COMPRADORA CONFORME SÚMULA 543 DO STJ. PRIMEIRO RECURSO CONHECIDO E NÃO PROVIDO. SEGUNDO RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pela demandante foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente apontou a existência de divergência jurisprudencial e de afronta aos arts. 402 e 944 do Código Civil; 333, I, do Código de Processo Civil de 1973; e 535 do CPC/2015.
+Sustentou, preliminarmente, a ocorrência de negativa de prestação jurisdicional. No mérito, defendeu: i) não ser cabível o dano moral reconhecido nas instâncias ordinárias, tendo em vista que o atraso na entrega do imóvel constitui mero inadimplemento contratual; ii) a legalidade da retenção de percentual da quantia paga pela promitente compradora, no percentual compreendido entre 10% (dez por cento) e 25% (vinte e cinco por cento); e iii) não estarem comprovados os lucros cessantes, os quais não podem ser reconhecidos por presunção, ou, caso mantida a condenação da origem, que se reduza o percentual mensal lá arbitrado.
+Contrarrazões acostadas às fls. 210-220 (e-STJ).
+O processamento do recurso especial foi denegado pelo Tribunal de origem, o que levou a insurgente à interposição do presente agravo.
+Apresentada contraminuta (e-STJ, fls. 253-265).
+Brevemente relatado, decido.
+Com efeito, verifica-se que o conteúdo normativo do art. 535 do CPC/2015 (relativo à intimação da Fazenda Pública para impugnar a execução) apontado como violado não é hábil a amparar a tese de negativa de prestação jurisdicional, incorrendo, desse modo, a agravante em fundamentação deficiente a incidir a Súmula 284/STF.
+Quanto aos danos morais, a jurisprudência recente das Turmas integrantes da Segunda Seção deste Tribunal assevera que "o atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente-comprador" (REsp 1.642.314/SE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017).
+Na mesma linha de cognição:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.
+ATRASO NA ENTREGA DE IMÓVEL. MERO INADIMPLEMENTO CONTRATUAL NÃO GERA DANOS MORAIS INDENIZÁVEIS. 1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada. 2.
+Nos termos do entendimento firmado por este Superior Tribunal de Justiça, o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis (REsp 1642314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe 22/3/2017).
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 737.158/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017)
+No caso em apreço, o TJAM, em sentido distinto ao entendimento acima delineado, manteve a verba indenizatória fixada na sentença no valor de R$ 10.000,00 (dez mil reais), "tendo em vista que a construtora foi responsável pelo atraso injustificado da obra, ao meu ver não se trata de mero inadimplemento contratual ou importúnio rotineiro" (e-STJ, fl. 543).
+Nesse contexto, imprescindível a reforma do acórdão recorrido, no intuito de afastar o prejuízo extrapatrimonial.
+Em relação à restituição dos valores pagos pela promitente compradora, ora insurgente, enfatiza-se o entendimento disposto na Súmula 543 do STJ: "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+No caso em apreço, o Tribunal de origem, em consonância com a convicção supracitada, consignou ser devida a restituição integral do montante pago pela demandada, haja vista que a rescisão contratual por esta requerida é proveniente de culpa da construtora, ora recorrente, que atrasou a entrega do imóvel objeto de compra e venda.
+Logo, não há reparo a ser feito na decisão colegiada objurgada nesse ponto.
+No tocante aos lucros cessantes, verifica-se que o entendimento do acórdão recorrido alinha-se à jurisprudência do Superior Tribunal de Justiça, que se firmou no sentido de que a inexecução do contrato de compra e venda, consubstanciada na ausência (ou no atraso) de entrega do imóvel na data acordada, acarreta o pagamento de indenização por lucros cessantes, os quais se presumem, sendo ônus do promitente vendedor provar que a mora contratual não lhe seja imputável.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - ATRASO NA ENTREGA DE IMÓVEL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência desta Corte Superior já consolidou entendimento que os lucros cessantes são presumíveis na hipótese de descumprimento contratual derivado de atraso de entrega do imóvel.
+Somente haverá isenção da obrigação de indenizar do promitente vendedor caso configure uma das hipóteses de excludente de responsabilidade, o que não ocorreu na espécie.
+2. No tocante à multa estipulada em sentença, constata-se carência de interesse recursal a parte ora recorrente, porquanto este pleito não foi sequer apreciado no recurso especial, em virtude da incidência da Súmula 284 do STF.
+3.Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Aplicação da Súmula n. 282 do STF.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1523955/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/12/2015, DJe 11/12/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. DISPENSA COMPROVAÇÃO. MATÉRIA PREQUESTIONADA. CULPA. PROMITENTE VENDEDORA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. OMISSÃO INEXISTENTE.
+1. A violação do art 535 do CPC somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida e não foi. Não ocorrente no caso.
+2. Tendo o tribunal local adotado os fundamentos da sentença, que tratou especificamente dos lucros cessantes, não há falar em ausência de prequestionamento.
+3. A jurisprudência desta Casa é pacífica no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes. Nesse caso, há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável.
+4. Acentuado nas instâncias ordinárias que a demora na entrega do imóvel é injustificada, rever tal posicionamento demanda a análise das circunstâncias fáticas dos autos. Incidência da Súmula nº 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 229.165/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015)
+COMPRA E VENDA. IMÓVEL. ATRASO NA ENTREGA - LUCROS CESSANTES - PRESUNÇÃO - CABIMENTO - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A jurisprudência desta Casa é pacífica no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes. Nesse caso, há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável. Precedentes.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido. (AgRg no REsp 1202506/RJ, Relator o Ministro Sidnei Beneti, Terceira Turma, DJe 24/2/2012)
+Ademais, tal convicção foi corroborado recentemente pela Segunda Seção desta Casa:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. A citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual. Precedentes.
+3. Embargos de divergência acolhidos.
+(EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018)
+Assim, incide a Súmula 83/STJ, na espécie.
+Por fim, em relação à pretensão de redução do percentual mensal de lucros cessantes arbitrado na sentença, verifica-se que a questão não foi debatida pelo Tribunal de origem sob a ótica da justiça do valor fixado, inexistindo, assim, o indispensável prequestionamento a incidir as Súmulas 282 e 356 do STF.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, dar-lhe parcial provimento a fim de afastar o dano moral reconhecido nas instâncias ordinárias.
+Publique-se.
