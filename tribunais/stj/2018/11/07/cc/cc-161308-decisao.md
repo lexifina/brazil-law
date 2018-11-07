@@ -1,0 +1,27 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO DE DIREITO E JUÍZO TRABALHISTA. RECLAMAÇÃO TRABALHISTA. VÍNCULO REGIDO PELA CLT. COMPETÊNCIA DO JUÍZO LABORAL.
+1. Trata-se de Conflito Negativo de Competência envolvendo o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS e o TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIÃO, nos autos de Reclamação Trabalhista ajuizada em desfavor da FUNDACAO HOSPITALAR DO MUNICIPIO DE VARGINHA - FHOMUV, em que a parte autora objetiva o pagamento das verbas trabalhistas no período em que manteve vínculo trabalhista com a Fundação.
+2. A Justiça Laboral declinou da competência e determinou a remessa dos autos à Justiça Comum.
+3. O TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, por sua vez, declarou-se igualmente incompetente aos seguintes argumentos:
+Compulsando os autos verifica-se que a presente ação reclamatória trabalhista foi proposta por [NOME], ex servidora contratada sem concurso público, tendo sua relação de trabalho com a Fundação Hospitalar do Município de Varginha - FHOMUV regida pela CLI, conforme documentação acostada de fls. 10118, dentre outras. Vaie destacar que no TAC firmado entre o Ministério Público Estadual e do Trabalho com Fundação Hospitalar do Município de Varginha - FHOMUV de fls. 1011101, verifica-se que restou Constatado que havia inúmeras pessoas contratadas sem concurso público sob o regime celetisla, incluindo a autora da reclamatória.
+Objetiva a condenação do Município de Varginha aviso prévio indenizado; multa de 40% sobre o FGIS; 13 0 salário proporcional; férias proporcionais; 1/3 constitucional de férias proporcional; retificação da data da saída da CTPS em decorrência do aviso prévio; adicional de insalubridade; FGTS sobre o adicional de insalubridade; reflexos do adicional de insalubridade sobre férias, 113 de férias, 130 salário, aviso prévio, DSR e multa do FGTS; multa do art.
+477, § 80 da CLI; indenização por danos morais pela forma da demissão e pela anotação indevida na página 42 da CTPS.
+(..).
+Tenho que a competência para julgamento da presente ação é da Justiça do Trabalho, porquanto aplicável ao caso o preceituado no art. 114, 1, da Constituição da República, que dispõe:
+Art. 114. Compete à Justiça do Trabalho processar e julgar:
+- as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios (fls. 352/353).
+4. Após, determinou a remessa dos autos a esta Corte Superior.
+5. É o relatório.
+6. Conforme dessume-se dos autos, a parte autora reclama verbas trabalhistas relativas ao período em que foi contratada pela FHOMUV para o Cargo de Auxiliar de Creche.
+7. Inicialmente, cumpre observar que a determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+8. Em face do advento da Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e os da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+9. O STF, porém, ao analisar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e os servidores a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+10. Tem-se, pois, que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para a análise das controvérsias trabalhistas será da Justiça Comum (estadual ou federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça Laboral o julgamento dos litígios daí advindos.
+11. In casu, verifica-se que a hipótese se trata de relação contratual regida pelo regime celetista.
+12. Desse modo, sendo o regime adotado o celetista, compete à justiça trabalhista processar e julgar as ações oriundas da referida relação de trabalho. Confira-se:
+CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. CONTRATO TEMPORÁRIO PARA ATENDER NECESSIDADE DE EXCEPCIONAL INTERESSE PÚBLICO, FIRMADO COM BASE EM LEI MUNICIPAL QUE PREVÊ A ADOÇÃO DO REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A contratação temporária de trabalho, conforme autoriza o art. 37, inciso IX, da Constituição da República, tem natureza nitidamente administrativa, observando, em regra, o regime estatutário. Precedentes.
+2. Todavia, se a Lei Municipal que autoriza a contratação temporária prevê expressamente a adoção do regime celetista para regular os contratos celebrados com base no mencionado regramento - hipótese dos autos -, devem ser observadas as disposições da Consolidação das Leis do Trabalho, excluindo-se, portanto, a competência da Justiça Comum.
+3. Conflito conhecido para declarar a competência do Juízo Suscitado (CC 94.627/RS, Rel. Min. LAURITA VAZ, DJe 3.6.2008).
+13. Em face do exposto, conheço do presente Conflito de Competência para declarar a competência do TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIÃO.
+14. Publique-se. Intimações necessárias.
