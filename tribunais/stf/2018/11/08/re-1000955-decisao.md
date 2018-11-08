@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da Turma Recursal dos Juizados Especiais Criminais do Estado do Rio Grande do Sul, assim ementado (eDOC.4):
+    APELAÇÃO CRIMINAL. DESACATO (ART. 331 DO CP). EXAME DE CONVENCIONALIDADE E DE CONSTITUCIONALIDADE. ATIPICIDADE DA CONDUTA. SENTENÇA CONDENATÓRIA REFORMADA.
+    1. Adesão do Brasil à Convenção Americana sobre Direitos Humanos que torna inafastável o exame de convencionalidade, como decorrência do dever geral de adaptação dos ordenamentos internos ao sistema interamericano de direitos humanos.
+    2. Consequência de tal exame é o reconhecimento, com suporte nos artigos 13 da Convenção Americana sobre Direitos Humanos, e 11 da Declaração de Princípios sobre a Liberdade de Expressão é o reconhecimento da ausência de validade e eficácia do art. 331 do CP, por atentatório à liberdade de expressão.
+    3. A liberdade de expressão, por consistir em garantia constitucional, somente pode encontrar restrição na própria Constituição e não na legislação infraconstitucional, por não prevista na Lei Maior tal possibilidade.
+    4. A não ser que expressamente trouxesse tal previsão. Os únicos limites impostos pela Constituição à liberdade de expressão, além da vedação ao anonimato, correspondem ao direito de resposta (art. 5º, V), e ao direito de indenização por dano material ou moral à intimidade, à vida privada, à honra e à imagem das pessoas atingidas (art. 5º, X). Afora tais hipóteses, todas estabelecidas pela própria Constituição, não se legitima qualquer restrição à liberdade de expressão, de modo que o disposto no art. 331 do CP, que contempla o delito desacato, não foi recepcionado pela nova ordem constitucional.
+    5. Assim, seja pelo controle de convencionalidade, seja pelo de constitucionalidade, se afigura como atípica a conduta descrita no art. 331 do CP.
+    RECURSO PROVIDO, POR MAIORIA.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, II, IV, X, § 2º e § 3º, da Constituição Federal. Pretende, em síntese, o reconhecimento de que o tipo penal do desacato foi recepcionado pela Constituição Federal e é compatível com a Convenção Americana sobre Direitos Humanos.
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    A Segunda Turma do Supremo Tribunal Federal considerou o tipo penal do desacato recepcionado pela Constituição Federal e compatível com a Convenção Americana sobre Direitos Humanos no julgamento do HC 141.949, Rel. Min. Gilmar Mendes, DJe 23.04.2018, assim ementado:
+    Habeas corpus. 2. Crime de desacato a militar (art. 299 do Código Penal Militar). 3. Controle de constitucionalidade (arts. 1º; 5º, incisos IV, V e IX, e 220 da Constituição Federal) e de convencionalidade (art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). 4. Alegada ofensa à liberdade de expressão e do pensamento que se rejeita. 5. Criminalização do desacato que se mostra compatível com o Estado Democrático de Direito. 6. Ordem denegada.
+    (HC 141949, Rel. Min. GILMAR MENDES, Segunda Turma, julgado em 13.03.2018, DJe 23.04.2018)
+    A compreensão assentada a partir do texto do Código Penal Militar (art. 299) foi aplicada também ao Código Penal (art. 331), dada a similitude redacional. Confira-se:
+    EMENTA Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Crime de desacato (CP, art. 331). Recepção pela Constituição Federal de 1988. Artigo 13 da CADH (Pacto de São José da Costa Rica). Compatibilidade. Agravo regimental não provido. 1. A Segunda Turma da Corte, no julgamento do HC nº 141.949/DF, Relator o Ministro Gilmar Mendes, DJe de 21/3/18, assentou a recepção do crime de desacato pela Constituição Federal de 1988 (CF, art. 5º, IV, da CF), bem como a compatibilidade da figura penal do desacato com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). 2. Agravo regimental a que se nega provimento.
+    (ARE 1049152 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 07.05.2018, DJe 28.05.2018)
+    Nesse contexto, assinalo que restei vencido na formação da tese. Nada obstante, cumpre levar a efeito a devida consideração da colegialidade.
+    Ante o exposto, em respeito ao colegiado, ressalvado meu entendimento, dou provimento ao recurso extraordinário para, afastadas as declarações de não recepção do art. 331 do CP e de incompatibilidade com a Convenção Americana sobre Direitos Humanos, determinar o retorno do autos à Turma Recursal Criminal dos Juizados Especiais Criminais do Estado do Rio Grande do Sul, para que prossiga no exame do recurso interposto pela defesa, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 08 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
