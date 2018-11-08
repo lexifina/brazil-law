@@ -1,0 +1,77 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DESOCUPAÇÃO. POSSUIDORES DE BOA-FÉ. PERDA DE LAVOURAS E ÁREAS DE SÍTIO. PETIÇÃO INICIAL. ADITAMENTO. POSSIBILIDADE. TRANSAÇÃO. NULIDADE. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. ÔNUS DA SUCUMBÊNCIA. READEQUAÇÃO. OMISSÃO CARACTERIZADA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+2. A contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+3. Efetiva existência de omissão quanto à distribuição dos ônus da sucumbência em virtude do afastamento dos lucros cessantes.
+4. Caracterizada a sucumbência recíproca, o pagamento das custas processuais e dos honorários advocatícios deve ser reciprocamente distribuído e suportado na proporção de 15% (quinze por cento) pela parte autora e 85% (oitenta e cinco por cento) pela ré.
+5. Embargos de declaração parcialmente acolhidos, apenas para sanar omissão, com efeitos modificativos.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Trata-se de embargos de declaração opostos por USINA PETRIBÚ S.A. ao acórdão assim ementado:
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DESOCUPAÇÃO. POSSUIDORES DE BOA-FÉ. PERDA DE LAVOURAS E ÁREAS DE SÍTIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REPRESENTAÇÃO PROCESSUAL. DEFEITO INEXISTENTE. CONEXÃO. SÚMULA Nº 235/STJ. JULGAMENTO SINGULAR. AUSÊNCIA DE PREJUÍZO. LEGITIMIDADE PASSIVA. SUCESSÃO CARACTERIZADA. PETIÇÃO INICIAL. ADITAMENTO. POSSIBILIDADE. DANO. COMPROVAÇÃO. BENFEITORIAS INDENIZÁVEIS. EXISTÊNCIA. FATO INCONTROVERSO. TRANSAÇÃO. NULIDADE. LUCROS CESSANTES. POSTULADO DA RAZOABILIDADE. FUNDAMENTAÇÃO CONCRETA. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de indenização ajuizada por antigos posseiros objetivando a reparação dos danos que alegam ter sofrido em decorrência da desocupação de uma área de terra na qual residiam, de propriedade da demandada.
+3. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. Irregularidade de representação processual afastada sob o fundamento de que houve a nomeação de advogado ad hoc para defesa dos interesses dos autores.
+5. A conexão não determina a reunião dos processos se um deles já foi julgado, nos exatos termos da Súmula nº 235/STJ.
+6. Não fere o princípio da colegialidade a decisão monocrática proferida com fundamento no art. 557 do CPC/1973, sobretudo na hipótese dos autos, em que foi facultada, mediante prévia deliberação do órgão julgador, a realização de sustentação oral pelo advogado da ora recorrente.
+7. Legitimidade passiva reconhecida pelas instâncias ordinárias com fundamento na existência de verdadeira sucessão entre empresas do mesmo grupo econômico, que se apresentou em juízo na condição de sucessora da sociedade inicialmente demandada e participou de todos os atos do processo sem fazer nenhum questionamento a esse respeito.
+8. Admite-se o aditamento da petição inicial antes da citação ou de qualquer outro ato que possa configurar o comparecimento espontâneo do réu, a que alude o § 1º do art. 214 do CPC/1973.
+9. Não supre a falta de citação a simples assinatura lançada em um suposto acordo entabulado entre as partes, por um advogado que dizia representar os interesses da ré, mas que até então não havia apresentado o respectivo instrumento de procuração, menos ainda com poderes específicos para receber citação.
+10. Se o dever de indenizar resulta da posse exercida de boa-fé, nos termos do art. 516 do Código Civil de 1916, resume-se a prova do dano à demonstração da existência de benfeitoriais indenizáveis erigidas no imóvel objeto de desocupação.
+11. Hipótese em que não houve a inversão do ônus probatório, mas a formação da convicção pessoal do julgador a partir da prova efetivamente produzida (documental e testemunhal) e não contestada pela parte ré, na linha do que preceitua o art. 334, III, do CPC/1973.
+12. De acordo com os brocardos da mihi factum dabo tibi ius (dá-me os fatos que te darei o direito) e iura novit curia (o juiz é quem conhece o direito), o acolhimento da alegação de nulidade da transação não está vinculado à motivação jurídica apresentada pela parte na petição inicial.
+13. A configuração dos lucros cessantes exige mais do que a simples possibilidade de realização do lucro, requer probabilidade objetiva e circunstâncias concretas de que estes teriam se verificado sem a interferência do evento danoso, não podendo subsistir a condenação ao pagamento de lucros cessantes baseada em meras conjecturas e sem fundamentação concreta.
+14. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido" (e-STJ fls. 298-299).
+A embargante afirma, em síntese, que o acórdão embargado merece reparos na parte em que consignou que
+"(..) não supre a falta de citação a simples assinatura lançada em um suposto acordo entabulado entre as partes, por um advogado que dizia representar os interesses da USINA SÃO JOSÉ S.A., mas que até então não havia apresentado o respectivo instrumento de procuração".
+Sustenta a ocorrência de contradição e obscuridade na assertiva supratranscrita.
+Ressalta que
+ "(..) se a Usina, que é a outorgante, está desde aquele momento defendendo que o acordo é válido, declarando de modo implícito que o subscritor do acordo detinha poderes (modo implícito porque a ponderação de que o subscritor não tinha poderes só surgiu agora, uma verdadeira surpresa para a parte), a ninguém mais aproveita a alegação de que o causídico não detinha poderes" (e-STJ fl. 324).
+Defende que os ora embargados sempre reconheceram como válida a assinatura firmada no acordo, sendo objeto de debate apenas o vício de consentimento em virtude da suposta vulnerabilidade daquelas pessoas.
+Aduz que o tribunal de origem, soberano na análise das provas, considerou que o aditamento à inicial somente foi admitido devido à existência de simulação e coação, sem jamais aventar eventual irregularidade na representação processual da Usina, fundamento novo acerca do qual a parte não pôde se defender.
+Ressalta que se não houve ordem de citação ou nem mesmo a outorga de poderes específicos para receber citação,
+"(..) é de rigor, sob pena de grave contradição, deixar de reconhecer a nulidade do processo como um todo, porquanto nos termos exigidos no acórdão (ordem de citação ou comparecimento de advogado com poderes para receber citação) o processo nem teve desenvolvimento válido" (e-STJ fl. 328).
+Salienta, ainda, que deve ser modificado o grau de sucumbência de cada parte da relação processual diante do provimento parcial do recurso para afastar os lucros cessantes, arbitrados em 20% (vinte por cento) sobre o valor da condenação.
+Ao final, requer o acolhimento dos declaratórios, com efeitos infringentes, para que: a) seja reconhecido que houve o comparecimento espontâneo e a ilegalidade da emenda à inicial; b) caso mantido o não reconhecimento do comparecimento espontâneo, que fique claro que a Turma, em desacordo com a jurisprudência do Superior Tribunal de Justiça, entende necessário a colação de procuração com poderes para receber citação; c) seja esclarecido quando ocorreu a citação da embargante, e d) caso mantido o entendimento, sejam redistribuídos os ônus sucumbenciais.
+Devidamente intimada, a parte embargada apresentou impugnação aos aclaratórios (e-STJ fls. 349-356).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DESOCUPAÇÃO. POSSUIDORES DE BOA-FÉ. PERDA DE LAVOURAS E ÁREAS DE SÍTIO. PETIÇÃO INICIAL. ADITAMENTO. POSSIBILIDADE. TRANSAÇÃO. NULIDADE. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. ÔNUS DA SUCUMBÊNCIA. READEQUAÇÃO. OMISSÃO CARACTERIZADA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+2. A contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+3. Efetiva existência de omissão quanto à distribuição dos ônus da sucumbência em virtude do afastamento dos lucros cessantes.
+4. Caracterizada a sucumbência recíproca, o pagamento das custas processuais e dos honorários advocatícios deve ser reciprocamente distribuído e suportado na proporção de 15% (quinze por cento) pela parte autora e 85% (oitenta e cinco por cento) pela ré.
+5. Embargos de declaração parcialmente acolhidos, apenas para sanar omissão, com efeitos modificativos.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Assiste parcial razão à embargante.
+A maioria das questões suscitadas não constituem omissão, contradição ou obscuridade, mas mero inconformismo com os fundamentos adotados pelo órgão colegiado, o que inviabiliza o seu exame no atual momento processual.
+Consoante o disposto no art. 1.022 do CPC/2015, os embargos de declaração somente são cabíveis para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre a qual deveria ter se pronunciado o juiz, de ofício ou a requerimento, bem como para corrigir erro material.
+Na hipótese, o acórdão embargado é suficientemente claro ao concluir pela inexistência de vício processual insanável em virtude do posterior aditamento da petição inicial, tendo em vista as peculiaridades do caso, sobretudo diante da afirmação dos autores de que a pretensão, tal como originariamente formulada, não passou de um ardil para encobrir a real extensão dos danos por eles sofridos, e que nem sequer tinham ciência do ajuizamento da demanda ou do conteúdo do termo de transação apresentado em juízo.
+Concluir de modo contrário é dar exagerado valor à forma em detrimento do conteúdo do ato processual. A petição juntada às fls. 38-47 do 2º apenso (e-STJ), na verdade, só pode ser denominada "aditamento à inicial" na forma, haja vista que somente por meio dela é que foi apresentada em juízo a real pretensão dos autores.
+Também se mostra despropositado o questionamento da embargante quanto ao momento em que se operou a sua citação, tendo em vista que a sua defesa foi plenamente exercida durante todo o trâmite processual, por advogados regularmente constituídos.
+Ressalta-se, ainda, que a contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão, o que não ocorre na hipótese.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CONTRADIÇÃO. INEXISTÊNCIA. REITERAÇÃO DOS FUNDAMENTOS JÁ EXAMINADOS NO ARESTO EMBARGADO. REDISCUSSÃO DA LIDE. IMPOSSIBILIDADE, ANTE OS LIMITES IMPOSTOS PELO ART. 535, INCS. I E II, DO CPC. REJEIÇÃO.
+1. Os embargos de declaração não se apresentam viáveis ao rejulgamento da matéria posta nos autos, porquanto suas finalidades se limitam a permitir a complementação da decisão, quando constatado quadro de omissão a respeito de ponto fundamental da lide, ou o esclarecimento de contradição entre as proposições constitutivas do julgado, bem assim de obscuridade verificada ao longo das razões desenvolvidas pelo Juízo.
+2. Tem-se, desse modo, que a rediscussão de matérias já examinadas e decididas transborda os rígidos limites de cabimento dos aclaratórios, os quais se encontram previstos no art. 535, incs. I e II, do CPC.
+3. Registre-se, ainda, que: "A contradição que rende ensejo à oposição de embargos de declaração é a interna ao julgado, caracterizada por proposições inconciliáveis entre si, que dificultam ou impedem a sua compreensão." (EDcl no AgRg no REsp n.º 571.895/SP, Rel. Min. HAMILTON CARVALHIDO, DJ 25/10/2004).
+4. Embargos de declaração rejeitados" (EDcl no REsp 1.138.970/PE, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 6/9/2011, DJe 22/2/2012).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. OMISSÃO SUPRIDA. AUSÊNCIA DE EFEITOS INFRINGENTES.
+1. A contradição que autoriza o manejo dos embargos é somente a interna ao acórdão, verificada entre os fundamentos que o alicerçam e a conclusão. A contradição externa não satisfaz a exigência do art. 535 do CPC para efeito de acolhimento dos aclaratórios. Precedentes.
+(..)
+4. Embargos de declaração acolhidos em parte sem efeitos infringentes" (EDcl no RMS 26.004/AM, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 19/3/2009, DJe 23/4/2009).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGADA CONTRADIÇÃO. INEXISTÊNCIA. AUSÊNCIA DE QUAISQUER DAS HIPÓTESES PREVISTAS NO ART. 535 DO CPC. EMBARGOS REJEITADOS.
+1. Embargos de declaração opostos com o fito de rediscutir a causa já devidamente decidida. Nítido caráter infringente. Ausência de contradição, omissão ou obscuridade. Inexistência de qualquer hipótese inserta no art. 535, do CPC.
+2. A contradição que autoriza os embargos declaratórios é a interna, entre as proposições da própria decisão, não aquela supostamente verificada entre seus fundamentos e as alegações da parte.
+3. Embargos de declaração rejeitados, com aplicação de multa prevista no art. 538, parágrafo único, do Código de Processo Civil" (EDcl no AgRg no Ag 1.413.479/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/11/2011, DJe 14/11/2011).
+Nesse contexto, ausentes os vícios ensejadores dos aclaratórios quanto a tais aspectos, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+Assiste razão à embargante quanto à necessária redistribuição dos ônus da sucumbência, considerando o parcial provimento do recurso especial para afastar a condenação ao pagamento de lucros cessantes.
+Diante disso, em razão da sucumbência recíproca, as partes devem arcar com o pagamento das custas processuais e dos honorários advocatícios, a ser suportado na proporção de 15% (quinze por cento) pela parte autora (ora embargada) e 85% (oitenta e cinco por cento) pela ré (ora embargante), efetuando-se a compensação nos moldes da Súmula nº 306/STJ, observada eventual concessão de gratuidade da justiça.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para sanar omissão relacionada com a distribuição dos ônus de sucumbência, com efeitos modificativos.
+É o voto.
