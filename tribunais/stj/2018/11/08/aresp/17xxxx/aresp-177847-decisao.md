@@ -1,0 +1,6 @@
+DECISÃO
+Observo que a questão versada no presente recurso é a mesma tratada no Recurso Extraordinário 827.966, "em que se discute, à luz dos artigos 5º, inciso XXXV, e 109, inciso I, da Constituição da República, se a Caixa Econômica Federal detém interesse jurídico para ingressar como parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, em consequência, se a Justiça Federal seria competente para o processamento e o julgamento das ações dessa natureza".
+No referido RE 827.966, o Supremo Tribunal Federal reconheceu a repercussão geral da matéria constitucional suscitada (Plenário Virtual, Relator o Ministro Gilmar Mendes).
+O reconhecimento da repercussão geral enseja a incidência dos artigos 543-B, § 3º, do Código de Processo Civil de 1973 e 1.039 e 1.040, incisos I e II, do Código de Processo Civil vigente, possibilitando a apreciação dos recursos sobrestados na origem, seja para declarar prejudicialidade, seja para exercer juízo de retratação, o que aconselha o retorno dos autos ao Tribunal originário (no mesmo sentido: REsp 1.431.112/RS, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23.8.2018, DJe 31.8.2018).
+Em face do exposto, determino o retorno dos autos à origem, com respectiva baixa nesta Corte.
+Intimem-se.
