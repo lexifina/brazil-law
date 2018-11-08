@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado do Tocantins, em face de decisão proferida pelo Tribunal de Justiça do Estado do Tocantins, que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 427 e-STJ):
+EMENTA: APELAÇÃO CÍVEL. ERRO MÉDICO OCORRIDO EM HOSPITAL PÚBLICO. RESPONSABILIDADE OBJETIVA DO ESTADO. FALHA NO SERVIÇO MÉDICO-HOSPITALAR. NEXO CAUSAL DEMONSTRADO. QUANTUM INDENIZATÓRIO. MANUTENÇÃO. CORRELAÇÃO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+- A responsabilidade civil que se imputa ao Poder Público por ato danoso de seus prepostos é objetivo (artigo 37, § 6o, da CF e art. 14 CDC), impondo-lhe o dever de indenizar os danos sofridos pela vítima quanto comprovado o ato, dano e nexo de causalidade entre a conduta e o evento danoso.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fls. 472/473 e-STJ):
+EMENTA: APELAÇÃO CÍVEL. INDENIZAÇÃO. REPARAÇÃO POR DANOS MORAIS. EMBARGOS DECLARATÓRIOS. IRRESIGNAÇÃO CONTRA A TESE E FUNDAMENTOS ADOTADOS NO VOTO CONDUTOR. CONFIGURAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REEXAME DA MATÉRIA. INVIABILIDADE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+- Embargos de declaração constituem recurso que visa corrigir omissões, obscurídade ou efetiva contradição existente no acórdão. São incabíveis quando opostos com o intuito de rever a decisão anterior, reexaminando pontos sobre os quais já houve pronunciamento claro.
+- E válido ressaltar que o julgador não está obrigado a abordar todos os fundamentos aduzidos pelas partes, mas sim, os pedidos expressamente declinados. O magistrado possui liberdade de formar sua convicção, baseando-se em fundamentos próprios, não se obrigando a ficar adstrito aos argumentos esposados pelos litigantes e tampouco a dizer do não acatamento deste ou daquele embasamento.
+- Inexiste no acórdão embargado a pretensa omissão alegada pelo recorrente, uma vez que os pontos de insurgência trazidos pelo embargante foram devidamente enfrentados no voto condutor/acórdão.
+- Razão não assiste ao recorrente, que pretendeu rediscutir a matéria exaustivamente debatida e solucionada, nos presentes embargos declaratórios, o que é inviável em recurso desta natureza.
+- Não estando presentes as hipóteses para o manejo dos Embargos de Declaração, estes devem ser julgados improcedentes.
+- Recurso a que se nega provimento, com o fim de manter incólume o v. acórdão embargado.
+O recorrente interpôs recurso especial com fundamento no artigo 105, III, alínea "a" do permissivo constitucional, apontando violação aos seguintes dispositivos: a) art. 944 do Código Civil, aduzindo que o montante indenizatório fixado a título de danos morais revela-se exorbitante e merece ser minorado; e b) arts. 186 e 927 do Código Civil, sustentando que não restou demonstrado, pela ora recorrida, a existência de ato ilícito praticado pelo Estado.
+Sem contrarrazões.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Nas razões de agravo, o agravante impugna todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+É o relatório. Passo a decidir.
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca da insurgência recursal, manifestou-se o Tribunal de origem (fls. 423/425 e-STJ):
+Assim, restando incontroverso o nexo causal entre o evento e os danos ocasionados à vítima, aliado ao fato de não ter sido demonstrado nos autos que esta tenha contribuído para a ocorrência do malfadado evento, inferindo-se, ainda, que a responsabilidade do ente não foi elidida pela ocorrência de caso fortuito ou força maior, impõe-se a manutenção da indenização, pelos danos morais causados a autora, ora apelada .
+(..)
+No caso em apreço, deve ser mantida a sentença de primeiro grau, pois a condenação é proporcional ao dano sofrido pela recorrida, dadas as circunstâncias já expostas alhures.
+Consigne-se que o valor do dano moral não é aferido por meio de regras objetivas, cabendo ao juiz a árdua tarefa de arbitrá-lo, atentando, sempre, para a natureza e extensão do dano, bem como para as condições pessoais do ofensor e do ofendido.
+Quanto à quantia arbitrada pelo Magistrado de primeiro grau é condizente com a extensão do dano e as peculiaridades do caso.
+Desta feita, tenho por reexaminados os fatos e o direito, devendo ser confirmada a sentença de primeiro grau. (grifo nosso)
+Com efeito, observa-se que o exame probatório empreendido pela Corte a quo resultou na compreensão de que estão presentes os pressupostos para responsabilização do ora recorrente pelos danos sofridos pela autora, bem como que o valor fixado a título de danos morais revela-se proporcional e condizente com o caso concreto. Trata-se de conclusão decorrente de análise dos documentos juntados aos autos, motivo pelo qual a reversão do entendimento demandaria o reexame de fatos. Logo, não é possível acolher a pretensão recursal porque seria necessário reexaminar conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. PERDA DOS FREIOS DA VIATURA POLICIAL. QUEDA EM BARRANCO. POLICIAL REFORMADO COM INVALIDEZ PERMANENTE. DANOS MORAIS COMPROVADOS. AFASTADA A CULPA CONCORRENTE DA VÍTIMA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCABÍVEL A REVISÃO DO QUANTUM INDENIZATÓRIO.  ..
+4. O Tribunal a quo, com base nos elementos probatórios dos autos, expressamente consignou estar evidenciada a presença do nexo de causalidade entre a omissão estatal e o dano suportado pela vítima, bem como afastou a alegada culpa concorrente. A alteração das conclusões do acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.  ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 340.139/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/06/2015, DJe 25/06/2015)
+ADMINISTRATIVO. PROCESSUAL CIVIL. ART. 42 DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DANOS MORAIS. INDENIZAÇÃO. REVISÃO DO VALOR ARBITRADO. IMPOSSIBILIDADE. SÚMULA 7/STJ.  ..
+2. A revisão do valor de indenização por danos morais somente é possível quando exorbitante ou insignificante a importância arbitrada em flagrante violação dos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso dos autos. Incidência da Súmula 7/STJ. Agravo regimental improvido.
+(AgRg no REsp 1420667/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/06/2015, DJe 10/06/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DANO MORAL E MATERIAL. ACIDENTE DE TRÂNSITO. RODOVIA. MÁ CONSERVAÇÃO. EXTINTO DNER. LEGITIMIDADE PASSIVA DA UNIÃO. CONDUTOR SEM HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. CULPA EXCLUSIVA DA VÍTIMA. DEMONSTRAÇÃO AUSÊNCIA. NEXO DE CAUSALIDADE. VERIFICAÇÃO IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO 535. FUNDAMENTAÇÃO.
+DEFICIÊNCIA. SÚMULA 284/STF. ART. 1º-F DA LEI 9.494/97 NA REDAÇÃO DA LEI 11.960/09. ART. 20. §§ 3º E 4º DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.  ..
+4. Para que fossem alteradas as conclusões do acórdão recorrido, principalmente quanto ao nexo de causalidade, depois de afastada a tese de culpa exclusiva por presunção, seria necessário adentrar-se ao exame do acervo fático-probatório dos autos vedado, na instância especial, pelas disposições da Súmula 7/STJ.  ..
+8. Recurso especial conhecido em parte e não provido.
+(REsp 1328332/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 14/05/2013, DJe 21/05/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
