@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. CLÁUSULAS EDITALÍCIAS E PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ.
+1. A controvérsia relativa à possibilidade de realização de prova de concurso público em local diverso do previsto no instrumento convocatório foi dirimida com fundamento constitucional, especificamente com base nos artigos 5º, XXXVI e 37 da Constituição Federal (princípios da moralidade e segurança jurídica), de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+2. Na hipótese, o entendimento assentado pelo Tribunal de origem a respeito da necessidade de flexibilização das regras contidas no edital do certame decorreu de ampla análise dos contextos fático e probatório dos autos, sobretudo das cláusulas editalícias em cotejo às provas acostadas pelas partes, de forma que a sua reversão ensejaria o reexame dos mencionados suportes, esbarrando nos óbices contidos nas Súmulas 5/STJ e 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 352):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. CLÁUSULAS EDITALÍCIAS E PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega que a questão posta em exame é puramente de direito, consistente na possibilidade de flexibilização ou não das regras contidas no instrumento convocatório do certame, bastando a revaloração das premissas fáticas incontroversas, bem como que o entendimento assentado pelo acórdão primevo viola frontalmente o art. 41 da Lei n. 8.666/1993.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. CLÁUSULAS EDITALÍCIAS E PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ.
+1. A controvérsia relativa à possibilidade de realização de prova de concurso público em local diverso do previsto no instrumento convocatório foi dirimida com fundamento constitucional, especificamente com base nos artigos 5º, XXXVI e 37 da Constituição Federal (princípios da moralidade e segurança jurídica), de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+2. Na hipótese, o entendimento assentado pelo Tribunal de origem a respeito da necessidade de flexibilização das regras contidas no edital do certame decorreu de ampla análise dos contextos fático e probatório dos autos, sobretudo das cláusulas editalícias em cotejo às provas acostadas pelas partes, de forma que a sua reversão ensejaria o reexame dos mencionados suportes, esbarrando nos óbices contidos nas Súmulas 5/STJ e 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, consoante bem delineado na decisão agravada e apontado pelo parecer ministerial, independentemente de eventuais reflexos infraconstitucionais, a controvérsia foi dirimida com fundamento constitucional, especificamente com base nos artigos 5º, XXXVI e 37 da Constituição Federal (princípios da moralidade e segurança jurídica), de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Noutro passo, ressaltou-se também a necessidade de revolvimento dos contextos fático e probatório dos autos, sobretudo das cláusulas editalícias em cotejo às provas acostadas ao processo pelas partes, principalmente quando considerado o argumento utilizado pela Corte de origem de que a banca examinadora autorizou a realização da prova em local diverso, apesar das regras contidas no instrumento convocatório, de forma que a reversão de tal entendimento ensejaria o reexame dos mencionados suportes, esbarrando nos óbices contidos nas Súmulas 5/STJ e 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
