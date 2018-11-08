@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO. DECRETOS PRESIDENCIAIS Nº 8.380/14 e 9.246/2017. NOVO CRIME PRATICADO NO CURSO DA EXECUÇÃO. ALTERAÇÃO DO MARCO INICIAL PARA A CONCESSÃO DO BENEFÍCIO. NÃO OCORRÊNCIA. SÚMULA 535/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra o acórdão do Tribunal de Justiça de São Paulo contra o Agravo em Execução n. 7000685-39.2018.8.26.0071.
+Consta dos autos que o Juízo das Execuções Criminais da comarca de Bauru/SP deferiu o requerimento de comutação, reduzindo as penas do paciente no patamar de 1/5 e 1/4, com base nos Decretos Presidenciais n. 8.380/2014 e 9.246/2017 (fls. 62/63).
+Irresignado, o Ministério Público interpôs agravo em execução. O Tribunal paulista, em 16/8/2018, deu provimento ao recurso para determinar que seja feito novo cálculo, unificadas as penas, para todos os fins, a partir da data do crime praticado (fl. 80), nos termos da seguinte ementa (fl. 78):
+Agravo em execução. Indulto parcial. Preso que pratica novo crime durante o cumprimento da pena. Interrupção do lapso de cumprimento, para todos os fins, embora não pela prática de falta grave, mas com fundamento no art. 75, § 2º, do Código Penal. Recurso conhecido e provido.
+Aqui, pretende a Defensoria Pública a concessão liminar da ordem para que seja afastada a data do crime praticado fora dos 12 meses anteriores aos Decretos Presidenciais, como marco interruptivo do benefício de comutação, com o restabelecimento da decisão de primeira instância que deferiu os pedidos de comutação relativos aos anos de 2014 e 2017 (fl. 7).
+Aponta ofensa à Sumula n. 535/STJ.
+É o relatório.
+Verifico ilegalidade flagrante apta a concessão da ordem de ofício, nos termos da jurisprudência deste Superior Tribunal (AgRg no HC n. 346.810/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 22/6/2016).
+Na espécie, o Tribunal paulista, ao determinar a unificação das penas, para todos os fins, a partir da data do crime praticado (fl. 80), dispôs que, quando ao pedido de comutação (fls. 78/80 - grifo):
+ ..  não está configurado o requisito objetivo. Neste caso não se trata de mera falta grave: o que houve foi, isto sim, o cometimento de crime durante a execução; crime pelo qual, ao que consta, o recorrido foi definitivamente condenado, conforme o boletim informativo fls. 18/28 que acompanhou o pedido da comutação, bem como a juntada da guia de fls. 62/63, segundo os quais o novo crime foi cometido em 16.10.2016, durante saída temporária e, condenado à pena de dois anos e quatro meses de reclusão pelo artigo 14 "caput", da Lei 10.826/03, a sentença transitou em julgado para o réu em 31.01.2017.
+Ora, para este caso o art. 75, § 2º, do Código Penal é claro: "Sobrevindo condenação por fato posterior ao início do cumprimento da pena, far-se-á nova unificação, desprezando-se, para esse fim, o período de pena já cumprido".
+Por fato posterior, friso; ou seja: durante o cumprimento de pena já imposta. Neste caso, a lei é clara: faz-se nova unificação, desprezando-se, para esse fim, o período de pena já cumprido. E isso para todos os fins; inclusive (e é disto que o caput do artigo trata) o total máximo de trinta anos de cumprimento de penas privativas de liberdade  ..
+Ocorre que, a Terceira Terceira Seção desta Corte, por ocasião do julgamento do Recurso Especial Representativo de Controvérsia nº 1.364.192/RS, decidiu que o cometimento de falta grave no curso da execução enseja a interrupção do prazo para fins de progressão de regime prisional mas não para fins de concessão de livramento condicional, comutação da pena e indulto, cujos requisitos objetivos estão expressamente previstos no artigo 83 do Código Penal e no decreto concessivo, pena de ofensa ao princípio da legalidade com a criação de requisito não previsto em lei. (REsp n. 1.633.467/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 2/2/2017).
+Ainda nesse sentido:
+ ..  3. Na hipótese, é manifestamente ilegal o acórdão do Tribunal de origem, que negou ao paciente a comutação da pena, pela falta do preenchimento do requisito objetivo, sob o entendimento de que a falta grave por ele praticada, decorrente de novo crime, redunda na interrupção do lapso temporal para o referido benefício.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o acórdão impugnado e restabelecer a decisão do Juízo das execuções criminais que deferiu a comutação de penas ao paciente.
+(HC n. 365.552/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/9/2016 - grifo nosso)
+Assim, denota-se que assiste razão à impetrante, porquanto a prática de falta grave não interrompe o prazo para a concessão da comutação das penas, na esteira da jurisprudência há muito pacificada nesta Corte, inclusive com a edição da Súmula 535/STJ.
+Ante o exposto, concedo liminarmente a ordem para restabelecer a decisão de primeiro grau que deferiu ao ora paciente o benefício da comutação de penas, com fulcro nos Decretos Presidenciais n. 8.380/2014 e 9.246/2017 (PEC n. 732.408).
+Comunique-se.
+Publique-se.
