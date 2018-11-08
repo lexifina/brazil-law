@@ -1,0 +1,18 @@
+DECISÃO
+[NOME] CORREA [NOME] e [NOME] CORREA [NOME] agravam de decisão em que concedi a ordem.
+No regimental, a defesa postula a correção de erro material na dosimetria da pena imposta ao réu [NOME], uma vez que a pena-base foi fixada em 1 ano e 8 meses de detenção (e não 1 ano e 10 meses, como constou do decisum).
+Requer, dessa forma, a correção da reprimenda estabelecida.
+Decido.
+No caso, observo que o pleito comporta acolhimento.
+De fato, em relação ao acusado [NOME], a pena-base, pelo crime descrito no art. 12 da Lei n. 10.826/2003, foi fixada em 1 ano e 8 meses de detenção (fl. 850). No entanto, ao realizar ajustes na dosimetria da pena, constou do decisum impugnado que (fls. 855-856, destaques no original):
+a) [NOME]:
+Art. 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006: a) exasperação da pena-base em 3/5 - 8 anos de reclusão e 800 dias-multa; b) aumento pela reincidência em 1/10 - 8 anos, 9 meses e 18 dias de reclusão e 880 dias-multa; c) acréscimo em 1/6 pela incidência da majorante - definitiva em 10 anos, 3 meses e 6 dias de reclusão e 1.026 dias-multa.
+Art. 35, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006: a) exasperação da pena-base em 3/5 - 4 anos, 9 meses e 18 dias de reclusão e 1.120 dias-multa; b) aumento pela reincidência em 1/10 - 5 anos, 3 meses e 10 dias de reclusão e 1.232 dias-multa; c) acréscimo em 1/6 pela incidência da majorante - definitiva em 6 anos, 1 mês e 26 dias de reclusão e 1.437 dias-multa.
+Art. 12 da Lei n. 10.826/2003: a) pena-base sem alteração - 1 ano e 10 meses de detenção e 18 dias-multa; b) compensação entre reincidência e confissão - 1 ano e 10 meses de detenção e 18 dias-multa; c) ausentes causas de aumento e de diminuição - definitiva em 1 ano e 10 meses de detenção e 18 dias-multa.
+Somadas, as reprimendas totalizam: 16 anos, 5 meses e 2 dias de reclusão, 1 ano e 10 meses de detenção e 2.481 dias-multa. Para evitar reformatio in pejus, mantenho a pena pecuniária fixada pelo Juízo de primeiro grau (2.159 dias-multa).
+Assim, evidencia-se o erro material apontado pela defesa, a demandar a correção da dosimetria da pena. Deve constar o seguinte cálculo, quanto ao crime de posse irregular de arma de fogo de uso permitido:
+Art. 12 da Lei n. 10.826/2003: a) pena-base sem alteração - 1 ano e 8 meses de detenção e 18 dias-multa; b) compensação entre reincidência e confissão - 1 ano e 8 meses de detenção e 18 dias-multa; c) ausentes causas de aumento e de diminuição - definitiva em 1 ano e 8 meses de detenção e 18 dias-multa.
+À vista do exposto, dou provimento ao agravo para corrigir erro material quanto à pena imposta ao réu [NOME] e alterar a redação do dispositivo da decisão de fls. 845-857, que passa a ter o seguinte teor:
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de: a) em relação aos dois pacientes: fixar o patamar de exasperação das penas-base pelos crimes de tráfico e associação para o tráfico em 3/5 acima do mínimo legal e a fração de acréscimo em decorrência da majorante para o mínimo legal; b) apenas quanto ao réu [NOME]: estabelecer o montante de aumento pela reincidência em 1/10 e, quanto ao crime de posse irregular de arma de fogo de uso permitido, compensar a agravante com a atenuante da confissão; c) por conseguinte, readequar as penas impostas aos acusados, de modo a torná-las definitivas em 16 anos, 5 meses e 2 dias de reclusão, 1 ano e 8 meses de detenção e 2.159 dias-multa ([NOME]) e 14 anos, 11 meses e 6 dias de reclusão, 1 ano de detenção e 1.940 dias-multa ([NOME]).
+Encaminhe-se cópia deste decisum ao Juízo da condenação, a fim de instruir a execução da pena imposta ao réu.
+Publique-se e intimem-se.
