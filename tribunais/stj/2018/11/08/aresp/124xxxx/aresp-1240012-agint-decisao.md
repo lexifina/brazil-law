@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 440/450) interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão desta relatoria que conheceu do agravo e deu provimento ao recurso especial da parte adversa, para determinar a restituição dos valores indevidamente retidos e condenar o réu, ora agravante, a pagar, a título de dano moral, o valor de R$ 5.000,00 (cinco mil reais).
+Em suas razões, o agravante argumenta que o entendimento adotado na monocrática, relacionado à Súmula n. 603 do STJ, "não espelha, verdadeiramente, a jurisprudência atual e dominante desse Superior Tribunal de Justiça, que se põe no sentido da legalidade da cláusula contratual que autoriza a realizar descontos em conta corrente de débitos contraídos por meio de mútuo bancário" (e-STJ fl. 442).
+O agravado apresentou impugnação (e-STJ fls. 457/469).
+É o relatório.
+Decido.
+O inconformismo se justifica.
+Como visto, a controvérsia tem origem em ação declaratória de inexistência de débito cumulada com indenização por danos morais.
+O Tribunal de Justiça manteve a sentença que havia julgado improcedentes o os pedidos, nos seguintes termos (e-STJ fls. 293/296 - grifei):
+Trata-se de ação ordinária movida por [NOME] contra o Banco Santander Brasil S/A. em que o autor se insurge contra o débito do valor de R$ 335,33 efetuado em sua conta salário. Pede a condenação do banco réu em indenização por
+danos materiais e morais.
+No caso em tela, destaca-se que o próprio autor esclarece que estava inadimplente com o pagamento de algumas parcelas de empréstimo vinculado à sua conta corrente de nº 8710847-6, porém alega que jamais teria autorizado a retirada de valores da sua
+"conta salário" nº 710003338 (fl. 208).
+Embora o apelante tenha firmado contrato de confissão e renegociação de dívida com o banco réu no valor de R$ 10.755,00, a ser pago em 42 parcelas de R$ 429,03 (fls. 13/14 e 128/132), há lei que deve ser aplicada ao caso dos autos, inclusive em respeito ao princípio da dignidade humana e ao imperativo de ser preservado o caráter alimentar da remuneração.
+Trata-se da Lei Federal nº 10.820/03 que cuida das autorizações para descontos de prestações originadas de contratos de empréstimos bancários em folha de pagamento dos empregados da iniciativa privada. Essa lei impõe o limite máximo de trinta por cento da remuneração disponível, com a ressalva de consignação que envolva despesas de cartão de crédito.
+Assim, correto está o débito na conta corrente no valor de R$ 335,33 (fl. 12). Referida quantia equivale exatamente a 30% dos rendimentos líquidos do autor.
+Embora o autor afirme que o empréstimo estava vinculado a outra conta corrente, verifica-se que ele não trouxe aos autos o extrato bancário ou comprovante de pagamento para demonstrar a eventual duplicidade de pagamento.
+É forçoso reconhecer que é impossível a produção de prova negativa por parte do banco. O autor deveria provar o pagamento da parcela do empréstimo, o que não ocorreu no presente caso.
+Ressalte-se que mencionada Lei deve ser observada, independentemente dos descontos serem efetuados em folha de pagamento e/ou em conta corrente cujo saldo é formado por crédito salarial. Ao contrário do que afirma o apelante, a alegação de ter havido os descontos indevidos na conta salário foi expressamente impugnada pelo réu na contestação (fls. 39 verso/40 verso).
+O apelante também alega que os descontos efetuados na conta salário são ilegítimos, ante a ausência de autorização e que a veracidade do contrato juntado aos autos é questionável, mas razão não assiste a ele.
+A autorização para débito em conta está prevista no contrato nas cláusulas nºs 24.2 e 24.8 (fls. 129 verso).
+Embora o contrato não tenha sido assinado por duas testemunhas, o apelante não impugnou a assinatura constante de fl. 132 e à luz do princípio da boa-fé objetiva contratual, prevista no art. 422 do Código Civil, é dispensável a aposição de rubrica em todas as folhas do contrato.
+Cumpre ressaltar também que não cabe indenização por danos morais, porque não houve prática de ato ilícito por parte da instituição financeira.
+Somente se dá o dano moral quando a parte sofre comprovado abalo em sua estima pessoal, com notório constrangimento na sua auto valoração, mas em decorrência de ato ilícito. Isso não ocorreu.
+Nas razões do especial, o agravado sustentou ter "ciência de que se encontrava inadimplente com o Banco Recorrido, por conta do empréstimo vinculado à sua "conta-corrente", porém, jamais autorizou ou anuiu com qualquer retirada de valores da conta-salário" (e-STJ fl. 321).
+A modificação do acórdão, para acolher esse argumento, demandaria reexame de provas, atraindo a vedação imposta pela Súmula n. 7 do STJ.
+De todo modo, conforme jurisprudência citada na monocrática, "ainda que expressamente ajustada, a retenção integral do salário de correntista com o propósito de honrar débito deste com a instituição bancária enseja a reparação moral" (AgRg nos EDcl no AREsp n. 215.768/RJ, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 29/10/2012).
+Além disso, sem embargo do entendimento deste relator, manifestado no voto-vista apresentado no julgamento do Recurso Especial n. 1.586.910/SP, a Segunda Seção do STJ aprovou, no dia 22/2/2018, a Súmula n. 603, com a seguinte redação:
+É vedado ao banco mutuante reter, em qualquer extensão, os salários, vencimentos e/ou proventos de correntista para adimplir o mútuo (comum) contraído, ainda que haja cláusula contratual autorizativa, excluído o empréstimo garantido por margem salarial consignável, com desconto em folha de pagamento, que possui regramento legal específico e admite a retenção de percentual.
+Ocorre que a Seção de Direito Privado, no julgamento Recurso Especial n. 1.586.910/SP, cancelou o referido enunciado.
+Confira-se a ementa do julgado:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO BANCÁRIO. MÚTUO FENERATÍCIO. DESCONTO DAS PARCELAS. CONTA-CORRENTE EM QUE DEPOSITADO O SALÁRIO. AUSÊNCIA DE ATO ILÍCITO. INTERPRETAÇÃO DA SÚMULA 603/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. A discussão travada no presente é delimitada como sendo exclusiva do contrato de mútuo feneratício com cláusula revogável de autorização de desconto de prestações em conta-corrente, de sorte que abrange outras situações distintas, como as que autorizam, de forma irrevogável, o desconto em folha de pagamento das "prestações empréstimos, financiamentos, cartões de crédito e operações de arrendamento mercantil concedidos por instituições financeiras e sociedades de arrendamento mercantil" (art. 1º da Lei 10.820/2003).
+2. Dispõe a Súmula 603/STJ que "é vedado ao banco mutuante reter, em qualquer extensão, os salários, vencimentos e/ou proventos de correntista para adimplir o mútuo (comum) contraído, ainda que haja cláusula contratual autorizativa, excluído o empréstimo garantido por margem salarial consignável, com desconto em folha de pagamento, que possui regramento legal específico e admite a retenção de percentual".
+3. Na análise da licitude do desconto em conta-corrente de débitos advindos do mútuo feneratício, devem ser consideradas duas situações distintas: a primeira, objeto da Súmula, cuida de coibir ato ilícito, no qual a instituição financeira apropria-se, indevidamente, de quantias em conta-corrente para satisfazer crédito cujo montante fora por ela estabelecido unilateralmente e que, eventualmente, inclui tarifas bancárias, multas e outros encargos moratórios, não previstos no contrato; a segunda hipótese, vedada pela Súmula 603/STJ, trata de descontos realizados com a finalidade de amortização de dívida de mútuo, comum, constituída bilateralmente, como expressão da livre manifestação da vontade das partes.
+4. É lícito o desconto em conta-corrente bancária comum, ainda que usada para recebimento de salário, das prestações de contrato de empréstimo bancário livremente pactuado, sem que o correntista, posteriormente, tenha revogado a ordem. Precedentes.
+5. Não ocorrência, na hipótese, de ato ilícito passível de reparação.
+6. Recurso especial não provido.
+(REsp n. 1.555.722/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 25/9/2018.)
+Desse modo, estando o acórdão recorrido em consonância com o posicionamento firmado em precedente uniformizador desta Corte, impõe-se a aplicação da Súmula n. 83/STJ.
+Ante o exposto, RECONSIDERO a decisão antecedente (e-STJ fls. 380/382) para NEGAR PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrente, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
