@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WENDELL RAY [NOME] LUCIA, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente cumpre pena total de 12 anos e 4 meses de reclusão, referente a duas condenações por crimes comuns, com término previsto para 26/03/2025.
+No gozo do benefício do livramento condicional, concedido em 07/11/2013, praticou novo delito em 05/01/2016, causa da revogação definitiva do benefício determinada em 10/01/2018 (fl. 98).
+O Tribunal de Justiça negou provimento ao agravo em execução da defesa por entender que, ao contrário do alegado no apelo defensivo, na data de 18/02/2016, portanto, dentro do período de prova, houve a suspensão cautelar da benesse, que foi determinada em face do cometimento de novo delito (fls. 171/174).
+Sustenta a Defensoria, em síntese, que a sustação cautelar ou a revogação do benefício deveria ter ocorrido até a data de 10/11/2016, mas não aconteceu. Acresce que a extinção da pena, nos termos do artigo 89 do Código Penal, pressupõe o trânsito em julgado da sentença relativa ao novo crime, concluindo que não pode o juízo a quo, após o regular decurso do período de prova, revogar ou sustar um benefício que já se encontra extinto (fls. 5/6).
+Requer, ao final, a concessão da ordem para que seja declarada extinta a pena do paciente, sendo reconhecida a ilegalidade da revogação do benefício.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ, e caso conhecido, pela denegação da ordem (fl. 77-78).
+É o relatório.
+DECIDO.
+Cinge-se a controvérsia, primeiramente, em saber se houve ou não a suspensão do benefício do livramento condicional antes do término do período de prova do paciente, estendido até 10/11/2016. Isso porque, enquanto a Defensoria alega não ter ocorrido a suspensão, a Corte de origem informa a existência de decisão nesse sentido em 18/02/2016 (fl. 173):
+2. O recurso não merece acolhimento.
+O sentenciado foi agraciado com o livramento condicional em 07 de novembro de 2013, data a partir da qual se iniciou o período de prova, que se estenderia até o dia 10 de novembro de 2016.
+Ao contrário do que alega a defesa, na data de 18 de fevereiro de 2016, portanto, dentro do período de prova, houve a suspensão da benesse (fls. 106), que foi determinada em face do cometimento de novo delito, em 05.01.2016.
+É de se notar que o crime foi perpetrado antes do término do livramento condicional.
+De fato, consta nos autos a decisão do Juízo das execuções, prolatada em 18/02/2016, suspendendo o benefício do livramento condicional (fl. 122):
+Pelo que se depreende dos documentos encartados às fls. 77/79, o reeducando [NOME] envolveu-se na prática de infração penal, como incurso no artigo 157, § 2o, inciso II, na forma do artigo 29, ambos do Código Penal.
+Como os fatos noticiados ainda estão sendo alvo de investigação criminal, tenho por bem suspender o benefício de Livramento Condicional concedido ao reeducando, ficando a decisão postergada para o final do processo instaurado a partir dos fatos em tela (artigo 145 da L.E.P.).
+Providencie a juntada de certidão atualizada dos autos do processo crime nº 0000283-27.2016..8.26.0272 - com tramite perante o Io Ofício Judicial Criminal da Comarca de Itapira - SP.
+Oportunamente, determino a remessa dos autos ao J.D. da Ia Vara das Execuções Criminais da Comarca de Campinas - SP, observando-se as cautelas de estilo.
+Int.
+Itapira, 18 de fevereiro de 2016.
+Como se observa, foi praticado novo delito em 05/01/2016, durante o período de prova, tendo sido operada a suspensão do benefício em 18/02/2016, nos termos do art. 145 da Lei n. 7.210/84, que ocorreu, portanto, antes da data prevista para o término do cumprimento integral da pena, que se daria apenas em 10/11/2016. Ou seja, houve a suspensão cautelar do benefício em 18/02/2016, e posteriormente, após o reeducando ter sido sentenciado na ação penal superveniente, o Juízo das execuções prolatou nova decisão, suspendendo em definitivo o benefício (fl. 98).
+Com efeito, a teor da jurisprudência pacífica desta Corte Superior, para a constatação de falta grave durante a execução criminal não se exige o trânsito em julgado da ação penal ensejadora da infração disciplinar. A propósito:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME NO CURSO DO PERÍODO DE PROVA. SUSPENSÃO DO BENEFÍCIO. CONCESSÃO DE LIBERDADE PROVISÓRIA EM RELAÇÃO AO NOVO CRIME. NÃO CONFIGURAÇÃO DE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - Não há ilegalidade na decisão que, dentro do prazo do período de provas, suspende o benefício do livramento condicional, em razão da notícia da prática de novo delito pelo réu (precedentes).
+III - In casu, o fato de ter sido concedida liberdade provisória ao paciente, em relação ao crime cometido no curso do livramento condicional, não implica em ilegalidade da suspensão cautelar do benefício. Habeas Corpus não conhecido. (HC 398.352/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/09/2017, DJe 20/09/2017)
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME DOLOSO. FALTA GRAVE. APURAÇÃO MEDIANTE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. EXIGÊNCIA OBSERVADA. PRESCINDIBILIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. SÚMULA N. 526 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Conforme se extrai da documentação acostada ao writ, houve realização do devido procedimento administrativo disciplinar para apuração da falta grave imputada ao paciente. Desse modo, restou plenamente observado o entendimento consagrado na Súmula n. 533 do Superior Tribunal de Justiça - STJ, segundo a qual a instauração de PAD é imprescindível para o reconhecimento da falta grave.
+2. Consoante a jurisprudência iterativa desta Corte, a prática de crime doloso no curso da execução da pena permite o reconhecimento da falta disciplinar de natureza grave e a incidência de seus corolários, antes que sobrevenha o trânsito em julgado da ação penal ensejadora da infração disciplinar. Nesse sentido, a inteligência da Súmula n. 526 do STJ. Habeas corpus não conhecido. (HC 359.022/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+Assim, não há constrangimento ilegal na suspensão do livramento condicional, porquanto ocorrida antes do término do período de prova, ainda que a suspensão definitiva tenha se dado apenas em momento posterior, após a sentença condenatória do crime superveniente.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
