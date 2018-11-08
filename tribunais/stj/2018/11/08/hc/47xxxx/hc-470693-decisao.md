@@ -1,0 +1,5 @@
+DECISÃO
+WARLISSON RODRIGUES NOGUEIRA alega sofrer coação ilegal, em razão de excesso de prazo ocorrido no Tribunal de Justiça do Estado de Minas Gerais para a remessa a esta Corte Superior do agravo em recurso especial interposto pelo Ministério Público daquele estado, assim como para a devolução dos autos à instância a quo para a realização do julgamento perante o Tribunal do Júri, uma vez que o Recurso Especial não possui efeito suspensivo.
+Entretanto, em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico que o agravo em recurso especial interposto pelo Ministério Público do Estado de Minas Gerais já foi autuado nesta Corte, no dia 3/10/2018 (AResp n. 1.373.922/MG). Ademais, conforme informações colhidas no sítio eletrônico do Tribunal de origem, na mesma data o feito foi remetido à comarca de origem (RSE n. 0048974-55.2016.8.13.0621).
+Diante disso, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o habeas corpus pela perda superveniente de objeto.
+Publique-se e intimem-se.
