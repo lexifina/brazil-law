@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado da Bahia.
+Nas razões do recurso especial, alega o recorrente violação dos arts. 28 e 33, § 4.º, da Lei n. 11.343/2006.
+Aduz que, no caso, não restou provado que a droga apreendida fosse destinada a venda.
+Assevera que todas as circunstâncias previstas no artigo 33, § 4º da Lei n. 11.343/2006 são favoráveis ao réu, razão pela qual a redução deve ser realizada na fração máxima de 2/3.
+Argumenta que "a Segunda Turma do Supremo Tribunal Federal, vem decidindo que a quantidade e a natureza da droga apreendida deve ser sopesada na primeira fase de individualização da pena, nos termos do art. 42 da Lei 11.343/2006, sendo inadequado a invocação no momento da escolha do fator de redução previsto no § 4º do,art. 33 da mesma Lei, sob pena de está infringindo o princípio do bis in idem." (e-STJ, fl. 437)
+Requer, assim, a desclassificação da condenação do art. 33 para o art. 28 da Lei n. 11.343/2006. Subsidiariamente, pede a aplicação da minorante do § 4.º do art. 33 da Lei n. 11.343/2006, no patamar máximo.
+Apresentadas contrarrazões (e-STJ, fls. 445-455).
+O recurso não foi admitido (e-STJ, fls. 457-458).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ, fls. 498-499).
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+O Tribunal de origem, ao negar o pedido de desclassificação da defesa, manteve o édito condenatório pelo delito de tráfico de droga em decisão assim motivada:
+"Após examinar as provas constantes nos autos é possível constatar que não assiste razão à defesa e que subsistem evidências mais do que suficientes para manter a condenação imposta na Sentença ora recorrida.
+No presente caso restou comprovado que o Apelante foi preso em flagrante delito, no interior de residência abandonada, na posse e guarda de 38 (trinta e oito) porções de maconha, envoltas em sacos plásticos e fita adesiva, além de um saco contendo 4 (quatro) pedras de crack, 1 (uma) tesoura, sacos plásticos e linha.
+A prova da materialidade delitiva pode ser constatada a partir do exame do Auto de Exibição e Apreensão de fl. 22 e pelo Laudo pericial definitivo de fl. 159, os quais comprovam que as substâncias entorpecentes apreendidas em poder do Recorrente consistem em maconha e crack - tetrahidrocanabinol e benzoilmetilecognina - respectivamente.
+As referidas substâncias são consideradas de uso proscrito no Brasil, e se encontram relacionadas nas Listas F-1 e F-2, da Portaria nº 344/98, da Secretaria de Vigilância Sanitária/Ministério da Saúde.
+Por sua vez a prova da autoria delitiva pode ser aferida a partir dos depoimentos judiciais de fls. 204-206, prestados pelos Agentes Policiais responsáveis pela prisão em flagrante do Recorrente, os quais confirmam que, de fato, foi o autor do delito pelo qual foi condenado na Sentença ora recorrida.
+As referidas conclusões são corroboradas pelos depoimentos judiciais prestados pelos Agentes Policiais responsáveis pela prisão em flagrante delito do Recorrente, os quais afirmaram que o [NOME] foi encontrado nas imediações de residência abandonada, que continha drogas e acessórios para a sua venda, além de ter sido apontada como ponto de venda de entorpecentes:
+ ..
+As referidas declarações se encontram de acordo com o interrogatório policial do acusado [NOME], no qual confessou a prática delitiva objeto desta Ação Penal:
+ ..
+Desse modo, os elementos de prova constantes nos autos demonstram que não é verdadeira a afirmação ora apresentada pela defesa, no sentido de que somente "um cigarro de maconha" foi encontrado em poder do Apelante.
+Cumpre ressaltar que o simples fato de o Apelante negar a prática delitiva não pode ser utilizado como elemento de prova para presumir sua inocência uma vez que, em nosso ordenamento jurídico, o interrogatório do acusado é considerado meio de defesa, como leciona Guilherme de Souza Nucci:
+ ..
+Assim, a partir dos referidos elementos de prova é possível concluir que as alegações defensivas ora apresentadas - referentes à ausência de provas da autoria delitiva - não passam de estratégia genérica de defesa, que não encontra amparo no vasto acervo fático/probatório acostado aos autos.
+Tendo em vista os fundamentos ora mencionados, restou devidamente comprovada a prática do delito previsto no art. 33 da Lei 11.343/06 - dispositivo que possui a seguinte redação:
+ ..
+Havendo provas suficientes acerca da prática do delito de tráfico de drogas, deve ser rejeitado o pedido de desclassificação para o delito do art. 28 da Lei 11.343/06.
+Sendo claras as provas da autoria e da materialidade delitiva, devem ser rejeitados os pedidos de aplicação do princípio do in dubio pro reo ou mesmo do art. 386 do Código de Processo Penal, os quais não possuem correlação com o caso em exame.
+Da validade dos depoimentos prestados pelos agentes policiais.
+Não merece prosperar a irresignação do Recorrente, em relação aos depoimentos prestados pelos referidos Agentes Policiais, uma vez que a defesa não apresenta nenhuma prova concreta acerca da parcialidade dos Agentes, ou mesmo que retire a veracidade das detalhadas informações apresentadas pelos Policiais.
+Vale ressaltar que são pacíficos os entendimentos no sentido de que os depoimentos de agentes policiais se revestem de inquestionável eficácia probatória:
+ ..
+Os aludidos depoimentos são prestados por mais de um Agente Policial e se encontram de acordo com aqueles prestados na fase do Inquérito Policial, circunstância que reforça a verossimilhança das referidas declarações.
+Assim, estando em consonância com as demais provas constantes nos autos, não há que se questionar a validade dos referidos depoimentos." (e-STJ, fls. 414-419)
+Como se observa, foram apontados elementos probatórios suficientes para embasar o decreto condenatório pelo crime de tráfico de drogas. O Tribunal de origem ressaltou que os policiais prenderam em flagrante o recorrente, em local conhecido como ponto de tráfico, com 38 porções de maconha, envoltas em sacos plásticos e fita adesiva, 4 pedras de crack, além de uma tesoura, sacos plásticos e linha, de modo a indicar que as drogas se destinavam ao fornecimento para o consumo de terceiros.
+Sob tal contexto, o pedido de desclassificação para o delito de uso próprio, deduzida neste recurso, demanda, necessariamente, o revolvimento de matéria fático-probatória, o que é inviável em sede especial (Súm. 7/STJ).
+Confira:
+" ..  1. A alegação defensiva de ausência de provas para a condenação e o pedido de desclassificação da conduta encontram óbice no Enunciado n. 7 da Súmula desta Corte porque demandam revolvimento do conjunto fático-probatório dos autos." (AgRg nos EDcl no AREsp 701.858/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016).
+" ..  1. O Tribunal local, após aprofundada análise dos elementos colhidos no curso da instrução criminal, concluiu que restou provada a materialidade e a autoria que dão suporte à condenação do réu pelo crime de tráfico ilícito de entorpecentes, e entender de modo diverso, no intuito de abrigar o pleito defensivo de desclassificação para a figura delitiva descrita no art. 28 da Lei de Tóxicos demandaria o revolvimento no material fático-probatório, providência exclusiva das instâncias ordinárias e vedada a este Sodalício em sede de recurso especial, ante o óbice do Enunciado n.º 7 da Súmula desta Corte.  ..  " (AgRg no AREsp 762.686/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/06/2016, DJe 22/06/2016).
+Ademais, esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese (AgRg no AREsp 875.769/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/3/2017, DJe 14/3/2017; AgRg no AREsp 926.253/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/8/2016, DJe 26/8/2016).
+Por outro lado, no tocante à alegada violação do art. 33, § 4º, da Lei n. 11.343/2006, razão assiste à defesa.
+O juiz sentenciante aplicou a benesse do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 1/2, nos seguintes termos:
+"Deve ser reconhecida, ainda, tendo em vista que as condições objetivas e subjetivas permitem, a aplicação do redutor previsto no § 40, do art. 33, da Lei 11.343/2006, em 1/2." (e-STJ, fl. 307)
+Por sua vez, o acórdão recorrido encontra-se assim fundamentado:
+"2. Da dosimetria.
+Comprovada a referida prática delitiva, devem ser fixadas as respectivas penas, em consonância com os arts. 59 e seguintes do Código Penal.
+Primeira fase: A Sentença ora recorrida fixou a pena-base do Recorrente em 7 (sete) anos de reclusão, tendo valorado de forma negativa as circunstâncias judiciais referentes à personalidade e às circunstâncias do crime.
+Com fulcro no art. 59 do Código Penal e no princípio da non reformatio in pejus, devem ser examinadas as circunstâncias judiciais valoradas na Sentença recorrida.
+Personalidade do agente: Esta circunstância judicial foi valorada de forma negativa com base nos seguintes fundamentos:
+ ..
+Desse modo, tratando-se de fundamentos genéricos deve ser afastada a valoração negativa desta circunstância judicial.
+ ..
+Circunstâncias do delito: Em relação a esta circunstância, a Sentença recorrida ressaltou a apreensão de 2 (duas) substâncias entorpecentes, bem como de elevada quantia de drogas, o que consiste em fundamento idôneo para a valoração negativa desta circunstância judicial, nos termos previstos no art. 42 da Lei 11.343/06:
+ ..
+Com efeito, não merece reparos a valoração negativa desta circunstância judicial uma vez que foram apreendidas 2 (duas) substâncias entorpecentes distintas em poder do Recorrente - maconha e crack - em quantidades moderadas - 38 (trinta e oito) porções da primeira e 4 (quatro) da segunda - fato que justifica a valoração negativa desta circunstância judicial, com fulcro no mencionado art. 42 da Lei 11.343/06.
+Assim, tratando-se de circunstâncias desfavoráveis ao acusado, deve ser mantida a valoração negativa das circunstâncias do crime.
+Demais circunstâncias judiciais: Verifica-se que as demais circunstâncias foram valoradas de forma neutra, entendimento que deve ser mantido por esta Corte Recursal, por força do princípio da non reformatio in pejus.
+Pena-base: Presente 1 (uma) circunstância judicial negativa, que é preponderante, por força da previsão contida no art. 42 da Lei 11.343/06, a pena-base deve ser fixada em 6 (seis) anos e 8 (oito) meses de reclusão.
+ ..
+Segunda fase: Não foram valoradas circunstâncias atenuantes ou agravantes na Sentença recorrida, entendimento que deve ser mantido por esta Corte Recursal, tendo em vista a interposição de Recurso somente pela defesa.
+Desse modo a pena intermediária deve ser mantida em 6 (seis) anos e 8 (oito) meses de reclusão.
+Terceira fase: Nessa terceira fase, a Sentença recorrida aplicou a causa especial de diminuição de pena no patamar correspondente a 1/2 (metade), o que ensejou a fixação da pena em 3 (três) anos e 6 (seis) meses de reclusão.
+A defesa se insurge contra o referido entendimento e requer a aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/06, no patamar máximo - 2/3 (dois terços) - sob o fundamento que a substância entorpecente encontrada em seu poder possui "alto teor de dependência".
+Contudo, não subsistem fundamentos para que seja aplicada a causa especial de diminuição de pena em questão uma vez que existem inúmeras circunstâncias que indicam que o Apelante se dedica com habitualidade ao tráfico de drogas, nos exatos termos previstos no art. 33, § 4º, da Lei 11.343/06:
+§ 4o - Nos delitos definidos no caput e no § lo deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. (Vide Resolução nº 5, de 2012) (Grifos Acrescidos)
+ A referida conclusão se baseia no fato de que o Recorrente foi preso em flagrante delito, na companhia do corréu [NOME], que portava um revólver calibre .38, municiado com 4 (quatro) cartuchos intactos.
+Do mesmo modo, foi apreendido em poder do Recorrente grande porção de maconha - 38 (trinta e oito) porções - e crack - 4 (quatro) porções - envoltos em plástico e fita adesiva, um saco contendo certa quantidade de crack, tesoura, sacos e embalagens plásticas do tipo "geladinho", além da quantia correspondente a R$ 81,00 (oitenta e um reais).
+Vale frisar que, em seus depoimentos judiciais os Agentes Policiais mencionaram claramente que o Apelante foi preso no interior de imóvel apontado como ponto de venda de drogas, o que consiste em mais uma robusta evidência de que se dedica às atividades criminosas.
+Desse modo, havendo evidências concretas nos autos, no sentido de que o Apelante se dedica às atividades criminosas, e com fulcro no princípio da non reformatio in pejus, deve ser mantido o entendimento fixado na Sentença recorrida, que aplicou a redutora em questão no patamar correspondente a 1/2 (metade).
+Vale frisar que embora a Sentença recorrida tenha aplicado a causa de diminuição de pena no patamar correspondente à metade, a pena foi fixada em patamar ligeiramente superior àquele que seria devido. Sendo assim, ao final desta terceira fase, a pena deve ser fixada em 3 (três) anos e 4 (quatro) meses de reclusão." (e-STJ, fls. 422-423; sem grifos no original)
+A teor do disposto no art. 33, § 4º, da Lei de Drogas, para que incida a causa especial de diminuição de pena aos condenados pelo delito de tráfico de drogas, é necessário que o agente seja reconhecidamente primário, ostente bons antecedentes e não se dedique a atividades criminosas ou integre organização criminosa.
+Na falta de indicação pelo legislador das balizas para o quantum dessa redução - de um sexto até dois terços -, o Superior Tribunal de Justiça tem decidido que a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas para definir tal índice ou, até mesmo, para afastar a incidência da minorante quando evidenciarem a habitualidade no comércio ilícito de entorpecentes (AgRg no REsp 1.644.417/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/03/2017, DJe 29/03/2017; AgRg no AREsp 857.658/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/10/2016, DJe 18/11/2016).
+No caso, observa-se que a escolha da fração de 1/2, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, fundou-se, também, na quantidade e diversidade das substâncias entorpecentes apreendidas (38 porções de maconha e 4 pedras de crack).
+Todavia, conforme posicionamento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do Agravo em Recurso Extraordinário n. 666.334/MG, está vedada a utilização, concomitantemente, da quantidade e da natureza da droga na primeira e na terceira fase da dosimetria da pena, sob pena de configuração de indevido "bis in idem".
+Dessa forma, na esteira da jurisprudência desta Corte, mantenho a valoração da quantidade das drogas apenas na primeira fase da dosimetria da pena, afastando-se, assim, o bis in idem verificado.
+A propósito:
+"RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. PENA-BASE. NATUREZA E QUANTIDADE DE DROGAS APREENDIDAS. ART. 42 DA LEI 11.343/2006. FRAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. BIS IN IDEM. REGIME INICIAL DE CUMPRIMENTO DE PENA. ANÁLISE À LUZ DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA. JULGADO PROFERIDO EM HABEAS CORPUS. INAPTIDÃO PARA COMPROVAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+1. Mostra-se devido o aumento da pena-base em razão da quantidade e da natureza da droga apreendida - mais de 20 quilos de cocaína -, em atenção ao disposto no art. 42 da Lei n. 11.343/2006.
+2. O Plenário do Supremo Tribunal Federal, por ocasião do julgamento dos HCs n. 109.193/MG e 112.776/MS, firmou a orientação de que as circunstâncias relativas à natureza e à quantidade de drogas apreendidas só podem ser usadas, na dosimetria da pena, ou na primeira ou na terceira fase, sempre de forma não cumulativa. Em homenagem ao princípio da segurança jurídica, não há razões para insistir na manutenção da tese contrária, até então sedimentada neste Superior Tribunal.
+3. A Corte regional utilizou o mesmo fundamento (quantidade de drogas apreendidas) para justificar tanto a exasperação da pena-base quanto a aplicação da causa de diminuição do § 4º do art. 33 no patamar de 1/6, em inobservância ao princípio do ne bis in idem.
+ ..
+6. Recurso parcialmente conhecido e, nessa extensão, provido em parte para determinar que o Tribunal Regional Federal da 3ª Região proceda a nova dosimetria da pena do recorrente, com a utilização da natureza e/ou da quantidade de drogas apreendidas em somente uma das etapas da dosimetria; ao reanalisar a dosimetria da pena, reavalie o regime inicial de cumprimento da reprimenda, com observância à reprimenda então aplicada e às disposições constantes do art. 33 e parágrafos do Código Penal e do art. 42 da Lei de Drogas."
+(REsp 1.294.540/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/2/2016, DJe 25/2/2016).
+Passo, assim, a readequação da pena do recorrente.
+Mantenho a pena-base em 6 anos e 8 meses de reclusão e 666 dias-multa.
+Na segunda fase, ausentes circunstâncias atenuantes ou agravantes a serem consideradas, a pena permanece inalterada.
+Na terceira fase, conforme razões acima expostas, reduzo-a em 2/3, pela causa de diminuição do art. 33, § 4º, da Lei de Drogas, tornando-a definitiva em 2 anos, 2 meses e 20 dias de reclusão mais 222 dias-multa. O regime aberto fica mantido como estabelecido no acórdão recorrido.
+Observa-se, ademais, que o recorrente foi beneficiado com a substituição da sanção corpórea por penas restritivas de direitos.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo, para conhecer parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, redimensionando a pena do recorrente para 2 anos, 2 meses e 20 dias de reclusão mais 222 dias-multa.
+Publique-se. Intimem-se.
