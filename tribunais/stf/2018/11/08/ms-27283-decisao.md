@@ -1,0 +1,19 @@
+Decisão: Trata-se de pedido de cumprimento de sentença, tendo em vista o trânsito em julgado da decisão que concedeu a segurança pleiteada para cassar os acórdãos do TCU que consideraram ilegais as ascensões funcionais ocorridas na Empresa Brasileira de Correios e Telégrafos – ECT a partir de 23.4.1993.
+    Os requerentes pleiteiam que seja determinada a intimação da autoridade coatora (TCU) a fim de que notifique a ECT para “tomar todas as providências necessárias ao cumprimento da ordem mandamental, regularizando-se os registros funcionais de todos os impetrantes beneficiados pela decisão neste mandado de segurança, devolvendo-lhes os respectivos cargos que foram anulados pelo ato arbitrário cassado, bem como promovendo o cálculo e o pagamento, em folha suplementar, dos direitos retroativos ao ajuizamento do feito – 29.4.2008”.
+    Requerem ainda que o TCU acompanhe e fiscalize os atos da ECT até a finalização das providências necessárias à eficácia da ordem mandamental.
+    Por fim, pedem que, caso não se acolha o pedido acima formulado, seja delegado ao órgão judicial competente a execução da sentença em questão.
+    A ECT apresentou petição, em 15.10.2018, aduzindo que deu integral cumprimento à ordem mandamental, reclassificando os empregados e realizando o pagamento dos valores decorrentes da reclassificação a partir da data em que foi intimada da decisão (24.11.2015).
+    Afirmou ainda que a decisão em comento não teve o condão de gerar efeitos patrimoniais, uma vez que nada mencionou acerca do pagamento de valores retroativos, tampouco foram opostos embargos de declaração com relação a essa questão.
+    Em 18.10.2018, a ECT aditou a petição anterior, acrescentando que a eventual determinação do pagamento dos valores retroativos à data da impetração deve seguir a sistemática dos precatórios. Argumentou ainda que, como não foi parte na relação processual, seria necessário o ajuizamento de ação autônoma, para discutir o direito ao recebimento dos valores retroativos.
+    A União também peticionou alegando que o objeto do presente mandamus limitou-se à cassação dos acórdãos do TCU e, por conseguinte, à comunicação da decisão à ECT, para as providências cabíveis, não havendo determinação à Corte de Contas para restabelecer as ascensões funcionais ou proceder ao enquadramento salarial dos impetrantes.
+    Assim, defende que não haveria mais objeto a ser cumprido na presente via, motivo pelo qual requer o indeferimento dos pedidos formulados.
+    Decido.
+    Cumpre registrar que o presente mandado de segurança foi impetrado por empregados da ECT contra acórdãos do Tribunal de Contas da União, que consideraram ilegais as ascensões funcionais ocorridas na referida empresa a partir de 23.4.1993. Em 2015, a segurança foi concedida para cassar os atos coatores.
+    Por ocasião do julgamento dos embargos de declaração, ficou consignado que caberia ao TCU, após o trânsito em julgado da decisão proferida às fls. 1099-1103, comunicar à Empresa Brasileira de Correios e Telégrafos acerca da anulação Acórdãos 108/2004, 1.024/2004, 1.082/2006 e 1.597/2006, possibilitando à referida empresa a adoção das providências pertinentes.
+    Extrai-se dos autos (fl. 1.667-verso) que o Tribunal de Contas, em cumprimento à ordem mandamental, encaminhou notificação à ECT, em 19.11.2015, para conhecimento da decisão que cassou os acórdãos que haviam considerado ilegais as ascensões funcionais ocorridas na empresa a partir de 23.4.1993, bem como para que tomasse as providências cabíveis.
+    Assim, levando em consideração que a Empresa Brasileira de Correios e Telégrafos não é parte nos autos e que a ordem mandamental foi devidamente cumprida pelo TCU, indefiro os pedidos formulados pelos impetrantes e extingo o presente feito.
+    Publique-se.
+    Brasília, 8 de novembro de 2018
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
