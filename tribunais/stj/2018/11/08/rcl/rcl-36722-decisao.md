@@ -1,0 +1,25 @@
+EMENTA
+RECLAMAÇÃO. AUSÊNCIA DOS REQUISITOS DO ART. 988 DO CPC/2015. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. RECLAMAÇÃO NÃO CONHECIDA.
+DECISÃO
+Cuida-se de reclamação, com pedido de liminar, ajuizada por [NOME], com amparo no art. 988, II e IV, do CPC/2015, contra acórdão proferido pelo TJRS no julgamento da Apelação n. 0127590-23.2018.8.21.7000.
+Depreende-se dos autos que o reclamante ajuizou ação de cobrança de cheques prescritos em desfavor dos ora interessados, haja vista que os litigantes realizaram negociação de compra e venda de gado com prestação de serviços, de modo que os beneficiários deveriam pagar o montante de R$ 311.123,70 (trezentos e onze mil, cento e vinte e três reais e setenta centavos).
+O Magistrado de primeiro grau julgou procedente o pedido para reconhecer a existência do débito. Interposta apelação pelos réus, a Décima Segunda Câmara Cível do Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao apelo para julgar improcedente o pedido inicial, nos termos da seguinte ementa (e-STJ, fls. 15-27):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA. COMPRA E VENDA DE GADOS ABATIDOS. PRELIMINAR DE ILEGITIMIDADE PASSIVA E ATIVA AFASTADA. PRESCRIÇÃO NÃO OPERADA. AUSÊNCIA DE PROVA SEGURA QUANTO AO NEGÓCIO ALEGADO. IMPROCEDÊNCIA DA DEMANDA.
+Caso dos autos em que alega o autor ter celebrado contrato de compra e venda de gados abatidos (carcaça) com os réus, no valor de R$ 311.123,70, o qual não fora adimplido.
+Ilegitimidade ativa e passiva que não se verifica, pois narra o autor ter celebrado o referido contrato diretamente com os réus, sendo que eventual (in)validade comprobatória dos documentos apresentados no decorrer da instrução diz com a procedência ou improcedência da demanda e não quanto à legitimidade das partes.
+Prazo prescricional aplicável na hipótese que é o quinquenal, previsto no art. 206, §5º, I, do Código Civil, não implementado no caso concreto.
+Parte autora que não se desincumbiu do ônus que lhe cabia, nos termos do art. 373, I, do Código de Processo Civil, à medida os elementos carreados aos autos não são suficientes para comprovar a negociação narrada, que fora negada pelos demandados, tendo em vista que as tabelas apresentadas são unilaterais e os demais documentos referem apenas nomes de pessoas estranhas à lide.
+Depoimento pessoal do autor que não possui caráter comprobatório e que apresenta contradição quanto à quantidade de carcaças vendidas. Testemunha compromissada que afirmou não ter conhecimento da negociação objeto da lide.
+Ausência de provas nos autos de que os cheques emitidos e sustados pelo réu Guilherme referem- se, de fato, à compra e venda alegada na exordial. Sentença reformada para julgar improcedente a demanda.
+APELO PARCIALMENTE PROVIDO. UNÂNIME.
+Em decorrência disso, o reclamante alega violação direta ao REsp n. 1.094.571/SP, que foi submetido ao rito dos recursos repetitivos, no qual ficou decidido que, nem em ação monitória, precisa ser demonstrada a origem do cheque, mesmo que se trate de via cognitiva.
+Desse modo, assevera ser cabível a presente reclamação para garantir a autoridade das decisões proferidas por esta Corte e a observância de acórdão proferido em julgamento de demandas repetitivas.
+Por fim, pugna pela procedência da presente reclamação para cassar a decisão impugnada, fazendo prevalecer o entendimento sedimentado por este Tribunal Superior.
+Brevemente relatado, decido.
+É manifesta a falta de cabimento da presente reclamação, razão por que não é possível dela conhecer.
+As alegações formuladas pelo reclamante, conforme detalhado no relatório, não guardam nenhuma relação com as finalidades precípuas da reclamação. Isso porque a reclamação de que tratam o art. 105, I, f, da Constituição Federal e o inciso I do art. 988 do CPC/2015 é cabível quando se fizer necessária a preservação da competência do Superior Tribunal de Justiça e a garantia da autoridade de suas decisões, o que não se verifica na espécie.
+Sob essa perspectiva, aqui já se decidiu que "a reclamação é instituto posto à disposição da parte prejudicada por desobediência judicial à decisão ou acórdão do Superior Tribunal de Justiça, ou sujeita a gravame em função da usurpação da competência deste; decisão de órgão fracionário do Superior Tribunal de Justiça, por óbvio, não lhe pode usurpar a competência nem lhe desobedecer" (AgRg na Rcl n. 1.258/SP, Relator o Ministro Ari Pargendler, DJ 14/11/2005).
+Ademais, é firme a orientação jurisprudencial desta Corte no sentido de que "a reclamação constitui-se como medida excepcional, não podendo ser utilizada como sucedâneo recursal" (AgRg na Rcl n. 33.054/RS, Relator o Ministro Jorge Mussi, DJe 22/6/2017).
+No caso, é notório que a questão deve ser dirimida mediante a interposição do recurso cabível, não estando configurada nenhuma das hipóteses de cabimento da reclamação, assim como inexiste qualquer medida possível de ser tomada por esta Corte Superior.
+Ante o exposto, não conheço da reclamação.
+Publique-se.
