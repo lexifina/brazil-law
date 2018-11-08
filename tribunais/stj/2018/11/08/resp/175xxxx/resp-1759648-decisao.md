@@ -1,0 +1,27 @@
+EMENTA
+RECURSO ESPECIAL. ROUBO MAJORADO. RÉU REINCIDENTE. PENA SUPERIOR A QUATRO ANOS DE RECLUSÃO. REGIME INICIAL FECHADO. CABIMENTO. RECURSO DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por DEIVISON DE PAULA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia (Apelação n.º 0001700-57.2016.8.22.0003).
+Consta nos autos que o Recorrente foi condenado como incurso no art. 157, § 2.º, incisos I e II, c.c. o art. 70, do Código Penal, à pena de 8 (oito) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial fechado (fls. 293-297), por subtrair, mediante concurso de pessoas e grave ameaça exercida com emprego de arma de fogo, a quantia de R$ 1.500,00 (mil e quinhentos reais) em posto de gasolina, e R$ 10,00 (dez reais) de lanchonete no mesmo local. Foi-lhe impedido apelar em liberdade tendo em vista que, inicialmente, não foi localizado para ser intimado, pois empreendeu fuga logo após o crime.
+Irresignada, a Defesa interpôs apelação no Tribunal de origem, que deu parcial provimento ao recurso para reduzir a pena do Recorrente para 7 (sete) anos e 1 (um) mês de reclusão, e ao pagamento de 28 (vinte e oito) dias multas, nos termos da seguinte ementa:
+"Penal e processual penal. Roubo. Preliminar de nulidade por ausência de interrogatório. Rejeitada. Revelia. Ausência prova de autoria. Palavra da vítima. Absolvição. Impossibilidade. Redução pena. Circunstâncias judiciais favoráveis. Culpabilidade e consequências do crime. Mudança de regime. Agravante da Reincidência. Regime fechado. Recurso parcialmente provido." (fl. 205)
+Nas razões do especial, o Recorrente aponta violação do art. 33, § 2.º, alínea b, do Código Penal, porque "sua pena encontra-se dentro do lapso legal previsto para a aplicação do regime semiaberto inicial, uma vez que não supera os oito anos de reclusão" (fl. 222). Busca o provimento do recurso para que seja estabelecido o regime intermediário.
+O Ministério Público Federal manifestou-se às fls. 249-254, opinando pelo desprovimento do recurso.
+É o relatório. Decido.
+No caso, o acórdão recorrido, ao manter o regime prisional mais gravoso, ressaltou "que o apelante é reincidente, o que se mostra suficiente para o início do cumprimento da pena em regime prisional fechado" (fl. 213).
+O entendimento adotado pelo Tribunal de origem está em perfeita consonância com a jurisprudência deste Tribunal Superior, no sentido de que o regime prisional inicial fechado é adequado ao réu reincidente, quando condenado a pena superior a quatro anos de reclusão, nos termos dos arts. 59 e 33, § 2.º, do Código Penal.
+A propósito:
+"RECURSO ESPECIAL. ROUBO MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE. PENA SUPERIOR A QUATRO ANOS. REGIME INICIAL FECHADO. ADEQUAÇÃO.
+I. Hipótese em que a instância de origem decidiu que o recorrido reincidente cuja pena foi fixada em 6 anos de reclusão fazia jus ao regime semiaberto para o início de resgate da reprimenda corporal.
+II. Este Superior Tribunal de Justiça firmou entendimento no sentido de que o réu reincidente, condenado à pena igual ou inferior 4 anos, e que ostente circunstâncias judiciais favoráveis, poderá iniciar o cumprimento da reprimenda em regime semiaberto, conforme enuncia a Súmula n. 269/STJ.
+III. Inadequação do regime intermediário para o início do cumprimento da reprimenda.
+IV. Recurso provido." (REsp 1.717.027/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/08/2018, DJe 31/08/2018.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. REGIME PRISIONAL. RÉU REINCIDENTE CONDENADO A PENA SUPERIOR A 4 ANOS E INFERIOR A 8. REGIME INICIAL FECHADO. POSSIBILIDADE.
+1. "É cabível o regime fechado ao condenado reincidente, cuja pena seja superior a 4 anos de reclusão, nos termos do art. 33 do Código Penal, ainda que reconhecidas as circunstâncias judiciais favoráveis" (HC 314.296/SP, Rel. Ministro ERICSON MARANHO, Desembargador convocado do TJSP, SEXTA TURMA, julgado em 14/4/2015, DJe 24/4/2015).
+2. Agravo regimental desprovido." (AgRg no REsp 1.712.438/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/03/2018, DJe 26/03/2018.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO A CAMINHÃO DOS CORREIOS. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO. MAIS DE CINCO ANOS. PERÍODO DEPURATIVO. NÃO CARACTERIZAÇÃO DE REINCIDÊNCIA. UTILIZAÇÃO COMO MAUS ANTECEDENTES. POSSIBILIDADE. FIXAÇÃO DE REGIME MAIS GRAVOSO PARA O INÍCIO DE CUMPRIMENTO DA PENA. FECHADO. FUNDAMENTO VÁLIDO. RÉU REINCIDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a jurisprudência consolidada desta Corte Superior de Justiça, embora o decurso de mais de cinco anos do cumprimento da pena imposta em processo anterior impeça a caracterização da reincidência, nada impede que tais incidências sirvam para configurar os antecedentes negativos.
+2. Nos termos do artigo 33 do Código Penal, fixada a pena em patamar superior a 4 anos e inferior a 8 anos, a estipulação do regime inicial fechado é apropriada em se tratando de réu reincidente.
+3. Agravo regimental improvido." (AgRg no REsp 1.679.265/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
