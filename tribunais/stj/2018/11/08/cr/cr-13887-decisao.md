@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de carta rogatória por meio da qual a Justiça italiana solicita que [NOME] seja notificado para comparecer a audiência no dia 15 de março de 2019, na Itália.
+A intimação prévia foi recebida. O interessado apresentou impugnação às fls. 360-363. Alegou a impossibilidade de concessão do exequatur pelas seguintes razões: a) necessidade de tradução dos documentos que instruem o pedido rogatório; b) ausência da decisão que determinou a expedição da carta rogatória; e c) falta de endereço do tribunal, do objetivo final do encaminhamento dos documentos, dos documentos que instruem a inicial e do número do processo de origem, o que desatende o disposto no art. 14, "d", do Tratado Relativo à Cooperação Judiciária e ao Reconhecimento e Execução de Sentenças em Matéria Civil entre a República Federativa do Brasil e a República Italiana e prejudica o direito de defesa do interessado.
+O Ministério Público Federal opinou pela concessão da ordem (fl. 366).
+É o relatório. Decido.
+Não procedem os argumentos apresentados pelo interessado, nos termos da manifestação do Ministério Público Federal (fl. 366). Observe-se:
+O interessado compareceu espontaneamente nos autos e protocolou impugnação que não deve ser acolhida. A transmissão do pedido via autoridades centrais garante a autenticidade dos documentos que, mesmo assim, estão apostilados. E, mais, a certidão de f. 175 também atesta que a tradução está conforme o art. 7º do Tratado bilateral. Por outro lado, os documentos não traduzidos, apontados na impugnação, não são essenciais à compreensão da controvérsia e consequentemente a falta de tradução deles não compromete o direito de defesa.
+Desse modo, o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante do êxito na intimação pessoal da parte interessada e do comparecimento espontâneo nos autos, considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+Ante o exposto, com fundamento no art. 216-X do RISTJ, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
