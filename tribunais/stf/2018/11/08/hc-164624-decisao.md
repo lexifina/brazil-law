@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal. Negativa de autoria. Fatos e provas. Excesso de prazo. Dupla supressão de instâncias.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Felix Fischer, assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA NO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    II - A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    III - No caso, as instâncias ordinárias fundamentaram devidamente em dados concretos extraídos dos autos, que evidenciam a imperiosidade da prisão para garantia da ordem pública, notadamente pelo fato de que o paciente integra complexa organização criminosa voltada para o tráfico de entorpecentes conhecida como Primeiro Comando da Capital, constando a informação do envolvimento de, ao menos, outros 44 (quarenta e quatro) acusados (fl. 75) na prática delitiva.
+    IV - ‘A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva’ (HC n. 95.024/SP, Primeira Turma, Relª. Minª. Cármen Lúcia, DJe de 20/2/2009).
+    V - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+    VI - Quanto a alegação de excesso de prazo, a matéria sequer foi apreciada perante o eg. Tribunal de origem, razão pela qual fica impossibilitada esta Corte de proceder a tal análise, sob pena de indevida supressão de instância.
+    Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o paciente, preso temporariamente em 31.10.2017, foi denunciado pelo crime previsto no artigo 35 da Lei 11.343/06.
+    3. Da decisão que converteu a prisão temporária em prisão preventiva, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, não conhecido.
+    4. Neste habeas corpus, a parte impetrante sustenta: (i) a ausência de fundamentação idônea para a decretação da custódia preventiva; (ii) o excesso de prazo para a conclusão da instrução criminal; (iii) a inexistência de comprovação da autoria delitiva.
+    5. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a necessidade de interromper a atuação de organização criminosa constitui fundamentação idônea para a decretação da custódia preventiva (vg. HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    8. No caso de que se trata, tal como assentou a autoridade impetrada, “as instâncias ordinárias fundamentaram devidamente em dados concretos extraídos dos autos, que evidenciam a imperiosidade da prisão para garantia da ordem pública, notadamente pelo fato de que o paciente integra complexa organização criminosa voltada para o tráfico de entorpecentes conhecida como Primeiro Comando da Capital, constando a informação do envolvimento de, ao menos, outros 44 (quarenta e quatro) acusados (fl. 75) na prática delitiva”.
+    9.  Além disso, o entendimento do STF é no sentido de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    10. Quanto ao mais, verifico que a autoridade impetrada não examinou a alegação de excesso de prazo para a conclusão da instrução criminal, tendo em vista que “a matéria sequer foi apreciada perante o eg. Tribunal de origem”. O que impede a imediata análise da questão por esta Suprema Corte, sob pena de dupla supressão de instâncias.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 08 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
