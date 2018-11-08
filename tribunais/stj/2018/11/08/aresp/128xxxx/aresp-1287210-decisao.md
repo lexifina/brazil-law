@@ -1,0 +1,55 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Espaço & Forma Móveis e Divisórias Ltda., com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, ementado nos seguintes termos (e-STJ, fl. 548):
+CONSTITUCIONAL. TRIBUTÁRIO. PROCESSUAL CIVIL. TERMO DE ACORDO DE REGIME ESPECIAL. TARE. PRELIMINAR DE FALTA DE INTERESSE RECURSAL DO DISTRITO FEDERAL E ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. REJEIÇÃO. DEFESA DO PATRIMÔNIO PÚBLICO. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. CABIMENTO DA AÇÃO CIVIL PÚBLICA. ANULAÇÃO DO TARE. CONCESSÃO INDEVIDA DE BENEFICIOS FISCAIS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+É reconhecida a legitimidade do Ministério Público para ajuizar ação civil pública quando o interesse em voga é a defesa do patrimônio público do Distrito Federal, ainda que a demanda tenha como pano de fundo as políticas implementadas pela Administração na chamada "guerra fiscal" (STF - RE nº 576.155/DF).
+Em sede de Ação Civil Pública é possível a discussão acerca de questão constitucional quando esta não for o pedido principal, sem que isto resulte na inadequação da via eleita.
+A revogação da Lei Distrital nº 2.381/99 pela Lei nº 4.100, de 29 de fevereiro de 2008 não interfere na presente demanda, pois, além da distinção entre os pedidos iniciais deduzidos na referida ação direta de inconstitucionalidade e na presente ação civil pública, deve-se considerar que a lei revogada produziu efeitos concretos nas relações jurídicas consolidadas durante a sua vigência.
+Patente a concessão de benefício fiscal, por meio do TARE, na modalidade de crédito presumido, sem a celebração de convênio entre os Estados-membros, com violação do pacto federativo. Julgamento pelo Supremo da ACO 541-1/DF.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 580-586).
+Alega a empresa agravante, nas razões do recurso especial, a existência de violação dos arts. 267, VI, 295, I, parágrafo único, I, e V, 458 e 535 e do CPC de 1973; e 142 do CTN; e 24, 25 e 26 da Lei Complementar n. 87/1996.
+Nessa esteira, sustenta que a petição inicial do Ministério Público seria inepta por ausência de relação lógica entre a explanação jurídica e o pedido, ofendendo o art. 295, I, parágrafo único, I, do CPC de 1973.
+Pugna pelo reconhecimento da inadequação da via eleita pelo MPDFT, argumentado que seria pacífico o entendimento da impossibilidade do uso de ação civil pública como sucedâneo de ação direta de inconstitucionalidade.
+Assevera que o MP não poderia almejar ver lançado uma hipotética diferença de tributo por meio de provimento judicial, devendo ser observado o rito administrativo pertinente, nos termos estabelecidos pelo art. 3º do CTN e na Lei n. 6.830/1980.
+Aduz que não haveria necessidade de convênio ou autorização do CONFAZ porquanto inexiste na sistemática do TARE a concessão de benefício fiscal de qualquer natureza.
+Defende que o Tribunal de origem, não obstante a oposição de embargos declaratórios, omitiu-se a respeito de questões relevantes ao deslinde da controvérsia, em especial quanto ao fundamento de que o "TJDFT foi instado a se manifestar sob a ausência de atribuição de conduta reprovável à ré - fato de terceiro, por não ter havido qualquer conduta reprovável da ora Recorrente, tendo esta simplesmente aderido a uma opção fornecida pelo governo local; também foi instado a se manifestar acerca da impossibilidade da ora Recorrente ser condenada a recolher os tributos de ICMS, sem que haja o lançamento do crédito tributário" (e-STJ, fl. 661).
+A negativa de admissibilidade teve por fundamento o óbice da Súmula 7 do STJ e 280 do STF.
+É o relatório.
+Registro, inicialmente, que não merece prosperar a tese de violação dos arts. 458 e 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Da atenta da leitura da petição de apelação da empresa recorrente (e-STJ, fls. 417-446), verifica-se que os arts. 267, VI, e V, do CPC de 1973; e 142 do CTN; e 24 e 25 da Lei Complementar n. 87/1996, somente foram suscitados por ocasião da oposição dos embargos de declaração e da petição de recurso especial, tratando-se, portanto, de inovação recursal.
+Desse modo, configura-se a ausência do necessário prequestionamento quanto à matéria ventilada no mencionado dispositivo legal.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ADESÃO A PROGRAMA DE PARCELAMENTO. HONORÁRIOS. CANCELAMENTO DA CDA. LEF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OMISSÃO INEXISTENTE. INOVAÇÃO RECURSAL. EFEITO VINCULATIVO. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Da leitura do acórdão recorrido, observa-se que a Corte de origem não analisou, ainda que implicitamente, o art. 2º, § 2º, da Lei n. 6.830/80 e a tese de que o pagamento da verba honorária é condição inerente à própria exclusão do crédito tributário, porquanto inserido no próprio título da CDA.
+2. Isto porque a questão suscitada quanto ao cabimento da execução da verba honorária permeou tão somente a análise do disposto na Lei Estadual n. 17.427/2008 e seu Decreto regulamentar n. 44.695/2007, sem jamais adentrar em normativo da LEF.
+3. Não foi cumprido o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Súmula 211/STJ.
+4. A inovação recursal promovida pela parte nas razões dos embargos de declaração, ao suscitar questão atinente à Lei de Execuções Fiscais, configura manobra processual amplamente rechaçada pela jurisprudência do STJ e que corrobora a ausência de prequestionamento da questão, pois não estaria o Tribunal a quo obrigado a se manifestar sobre a matéria inovadora. Precedentes.
+5. O alegado efeito vinculativo firmado no REsp 1251513/PR, Rel. Mauro Campbell Marques, não socorre a agravante, pois o tema abordado no recurso repetitivo nada trata sobre honorários advocatícios, limitando-se a temática do paradigma à viabilidade de incidência dos benefícios de lei que estabelece parcelamento tributário sobre os depósitos ainda não convertidos em renda, mas com trânsito em julgado, com as reduções devidas à título de remissão e anistia prevista na Lei n. 11.941/2009.
+Agravo regimental improvido.
+(AgRg no AREsp 443.261/MG, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 28/5/2014)
+Relativamente aos arts. 295, I, parágrafo único, I, 26 da Lei Complementar n. 87/1996 o recurso especial não pode ser conhecido. Da análise do voto condutor do acórdão observa-se que o preceitos normativos e a tese a ele vinculada não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se, ao caso, a orientação firmada na Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA. REMUNERAÇÃO DOS EMPREGADOS. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A indicada afronta do art. 458 do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+ ..
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.583.885/DF, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/5/2016, DJe 1º/6/2016)
+No mais, ainda que superado tais óbices, o recuso não mereceria provimento. Da leitura do aresto recorrido verifica-se que a questão foi abordada, de modo claro, com fundamento em normas constitucionais e de direito local, o que impede o exame da controvérsia.
+Ressalte-se que o acórdão recorrido, ao analisar a demanda, baseou seu entendimento no RE n. 576.155-DF e na interpretação da Lei Distrital n. 2.381/1999, cujo exame é vedado em recurso especial pelo enunciado da Súmula 280/STF.
+Em outros casos, vale conferir:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. TRIBUTÁRIO. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STJ.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. O Tribunal a quo expressamente assentou ter acatado o "entendimento do Supremo Tribunal Federal,  que  determinou a imediata suspensão de cobrança do diferencial de alíquotas do ICMS, baseados no Protocolo CONFAZ nº 21/2011 e Decreto Estadual nº 13.162/2011, de toda e qualquer tributação do ICMS nas operações interestaduais em que o consumidor final adquire mercadoria ou bem de forma não presencial por meio de internet, telemarketing ou showroom."
+3. É inviável o recurso especial, em face da incidência, por analogia, da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+4. Não cabe ao STJ examinar, no âmbito do recurso especial, sequer a título de prequestionamento, eventual violação de dispositivo constitucional, competência reservada ao STF, nos termos dos arts. 102, III, e 105, III, da Constituição Federal.
+Agravo regimental improvido.
+(AgRg no AREsp 661.024/MS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/4/2015, DJe 20/4/2015)
+TRIBUTÁRIO. ICMS. COMÉRCIO ELETRÔNICO. DIFERENCIAL DE ICMS. PROTOCOLO CONFAZ 21/11 E DECRETO ESTADUAL. MATÉRIA APRECIADA PELA INSTÂNCIA DE ORIGEM SOB ÓTICA CONSTITUCIONAL. IMPOSSIBILIDADE DA APRECIAÇÃO DE DIREITO LOCAL. SÚMULA 280 DO STF. SUPOSTA OFENSA A SÚMULA JURISPRUDENCIAL. INVIABILIDADE DO APELO NOBRE.
+1. A conclusão do acórdão proferido pela instância de origem a partir da interpretação de norma constitucional não pode ser avaliada no âmbito do apelo nobre.
+2. Examinar lei local é medida inviável nesta sede, a teor de entendimento firmado na Súmula 280 do Supremo Tribunal Federal: "Por ofensa a direito local não cabe recurso extraordinário".
+3. Tese de afronta a entendimento consolidado em súmula de jurisprudência não autoriza o manejo do recurso especial.
+4. Recurso especial não conhecido.
+(REsp 1.402.295/MT, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, julgado em 15/10/2013, DJe 24/10/2013)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
