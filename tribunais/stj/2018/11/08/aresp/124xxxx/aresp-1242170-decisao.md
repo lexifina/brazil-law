@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO PELA FAMÍLIA, pretendendo admissão de recurso especial, no qual alega ocorrência de divergência jurisprudencial quanto à prescrição da pretensão à repetição do indébito e violação do art. 20, § 4º, do CPC/1973, pretendendo a majoração de verba honorária de R$ 5.000,00.
+Quanto à prescrição, após julgamento de recurso repetitivo, houve juízo de conformação, subindo o especial quanto à pretensão de majoração da verba honorária.
+O recurso não foi admitido porque encontraria óbice na Súmula 7 do STJ.
+Contraminuta apresentada pela parte agravada.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+O tribunal de origem, no que interessa, consignou (e-STJ fls. 294/295):
+No que se refere ao valor da condenação em honorários, deve ser fixado de maneira proporcional, não manifestamente exagerado, nem irrisório.
+Sua fixação deve ser justa e adequada. Assim, considerando o valor atribuído à causa (R$ 458.505,67) e em observância ao princípio da razoabilidade e aos contornos fáticos da demanda, de rigor sejam fixados honorários advocatícios a cargo da ré em R$ 5.000,00.
+Pois bem.
+Esta Corte só admite a reapreciação dos honorários advocatícios, de forma excepcional, quando arbitrados em valor irrisório ou exorbitante, porque, nesses casos, a violação da norma processual exsurge de maneira flagrante a justificar a intervenção deste Tribunal como meio de preservar a aplicação da lei federal de regência. A respeito, confira-se: AgRg nos EDcl no Ag 1.409.571/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Corte Especial, DJe 06/05/2013.
+Não é, pois, o simples cotejo entre os valores discutidos nos autos e a verba honorária a providência suficiente à conclusão da irrisoriedade ou exorbitância, mormente porque, "no juízo de eqüidade, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, § 3º, alíneas "a", "b" e "c", do CPC, podendo adotar como base de cálculo o valor da causa, o valor da condenação ou arbitrar valor fixo" (REsp 934.074/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 18/09/2008). Nesse sentido: REsp 1.556.254/SP, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 03/08/2016.
+No caso dos autos, tratando-se de repetição de indébito ajuizada em dezembro de 2001 e considerado o fato de o Tribunal Regional Federal ter reafirmado a fundamentação da sentença, verifica-se que o valor arbitrado não pode mesmo ser mantido, até por que fixado após a decisão reconsiderada no juízo de conformação, razão pela qual, nos termos do art. 20, § 4º, do CPC/1973, à luz da equidade, restabeleço o valor arbitrado na sentença: 10% sobre o valor atualizado da causa, à época R$ 458.505,67.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso e restabelecer a verba honorária de sucumbência arbitrada na sentença, a qual, nos termos do art. 20, §§ 3º e 4º, do CPC/1973, revela-se mais adequada à remuneração dos advogados da parte autora.
+Publique-se. Intimem-se.
