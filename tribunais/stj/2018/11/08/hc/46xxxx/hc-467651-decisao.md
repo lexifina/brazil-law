@@ -1,0 +1,17 @@
+DECISÃO
+RODRIGO DE OLIVEIRA SANTOS e MURILO COUTO ALVES alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0005107-50.2016.8.26.0071).
+Depreende-se dos autos que os pacientes foram condenados à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Busca a defesa, liminarmente e no mérito, seja fixado o regime inicial semiaberto para o cumprimento da reprimenda.
+A liminar foi indeferida e, dispensadas as informações, os autos foram ao Ministério Público Federal, que opinou pelo não conhecimento da ordem e, se conhecida, pela denegação do writ.
+Decido.
+No que tange à pretendida imposição de regime mais brando de cumprimento de pena, verifico que o Juiz sentenciante entendeu devida a fixação do modo inicialmente fechado, "em função da gravidade dos fatos, que envolviam o tráfico de considerável quantidade de droga, assim, como pela quantidade das penas impostas,  .. " (fl. 14, grifei).
+O Tribunal de origem, por sua vez, manteve o regime inicial mais gravoso, conforme trechos abaixo (fl. 42, grifei):
+Mantém-se o regime inicial fechado, conforme dispõe o artigo 33, parágrafo 3º, do Código Penal.
+Ressalto que muito embora tenha passado a admitir a adoção de regime mais brando e substituição depois que o tema foi pacificado nos tribunais superiores, considero que no presente caso se revela incabível tendo em vista as circunstâncias do delito, que recomendam maior rigor na reprovação penal, mesmo se tratando de recorrentes primários.
+Imperioso salientar que, por ocasião do julgamento do HC n. 111.840/ES, realizado em sessão extraordinária no dia 27/6/2012, o Pleno do Supremo Tribunal Federal, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, afastando, assim, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e a eles equiparados.
+Dessa forma, reconhecida a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990, a escolha do regime inicial de cumprimento de pena deve levar em consideração o quantum da pena imposta, a natureza e/ou a quantidade de drogas apreendidas, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto, para que, então, seja definido o regime carcerário que, à luz do disposto no art. 33 e parágrafos do Código Penal, mostre-se o mais adequado para a prevenção e a repressão do delito perpetrado.
+Na espécie, verifico que as instâncias ordinárias entenderam devida a imposição do regime inicial fechado, considerando a gravidade concreta do delito, notadamente a quantidade de drogas apreendidas.
+Assim, tendo sido concretamente fundamentada a fixação do regime inicial fechado de cumprimento de pena ao paciente, com base nas especificidades do caso em análise, notadamente em razão da quantidade de drogas apreendidas (quase 2,5 kg de maconha), não constato nenhuma ilegalidade no ponto em que foi estabelecido o modo inicialmente mais gravoso de execução.
+Além disso, observo que existem circunstâncias judiciais desfavoráveis, tanto que a pena-base foi fixada acima do mínimo legal (fls. 34-35), o que também justifica a fixação de regime fechado de cumprimento de pena.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
