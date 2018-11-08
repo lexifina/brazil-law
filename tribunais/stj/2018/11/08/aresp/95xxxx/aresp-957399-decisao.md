@@ -1,0 +1,17 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA POSSE DO VEÍCULO PENHORADO. INVIABILIDADE DE REEXAME DE PROVAS E FATO. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por TADEU [NOME], com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE COMPROVAÇÃO DA POSSE DE VEÍCULO PENHORADO PELO SISTEMA RENAJUD.
+1. Reza o art. 1.046 do CPC. "Quem, não sendo parte no processo, sofrer turbação ou esbulho na posse de seus bens por ato de apreensão judicial, em casos como o de penhora, depósito, arresto, sequestro, alienação judicial, arrecadação, arrolamento, inventário, partilha, poderá requerer Ihe sejam manutenidos ou restituídos por meio de embargos." 2. No caso dos autos, a despeito da juntada de alguns documentos, não foi devidamente comprovada, pelo embargante, a posse sobre o bem cuja restrição pretende levantar.
+3. Sentença mantida (fls. 119).
+2. Os Embargos Declaratórios opostos foram rejeitados (fls. 139/143).
+3. Nas razões do seu Apelo Nobre, a parte recorrente aduz, além de dissidio jurisprudencial, violação dos arts. 107, 113, 462 e 1.267 do CC/2002; 659, § 4o., 126, 390, 397, 593 e inciso II do CPC/1973. Afirma, em suma, que é indevida a restrição de circulação do caminhão conscrito, devendo-se levar em consideração para aferir a posse do bem a boa-fé do comprador, uma vez que no ato da compra não existia ato de execução sobre o referido caminhão, tendo somente sido proposta execução fiscal sobre o bem depois de um ano da compra do veículo.
+4. O Apelo Nobre foi inadmitido pelo Tribunal de origem (fls. 181/182).
+5. É o relatório.
+6. De início, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Código Fux (Enunciado Administrativo 3).
+7. No mais, no que tange à alegação de que a constrição do veículo é indevida, devendo-se levar em conta a boa-fé para aferir a posse do veículo, o Tribunal de origem, ao decidir a controvérsia, consignou que o embargante não juntou qualquer recibo de pagamento de valores em virtude da compra do caminhão, comprovante de pagamento de multas, impostos, licenciamento ou seguro obrigatório, ou mesmo comprovante de quitação do financiamento (fls. 117).
+8. Assim, verifica-se que, para alterar a conclusão a que chegou a Corte de origem quanto à posse sobre o bem, cuja restrição se discute, seria necessário o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção.
+9. Quanto à interposição do recurso com fundamento na alínea c, o recurso não comporta provimento, porquanto, no caso concreto, o Tribunal de origem se utilizou de outros fundamentos para afastar a posse do terceiro, e não apenas do contrato de compra e venda. Desse modo, inafastável a incidência da Súmula 7/STJ para se afastar as premissas fixadas pelas instâncias ordinárias.
+10. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Particular.
+11. Publique-se.
+12. Intimações necessárias.
