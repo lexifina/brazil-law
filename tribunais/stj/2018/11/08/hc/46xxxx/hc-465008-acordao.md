@@ -1,0 +1,61 @@
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTA GRAVE. AVALIAÇÃO DE TODO O PERÍODO DE CUMPRIMENTO DA PENA. PRECEDENTES. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, ressalvando-se, porém, a possibilidade de concessão da ordem, de ofício, quando verificada flagrante ilegalidade no direito de locomoção do paciente.
+2. As faltas disciplinares de natureza grave, embora não interrompam o prazo (requisito objetivo) do livramento condicional, podem indicar a ausência de mérito (requisito subjetivo) do apenado, obstando, assim, a concessão do benefício.
+3. Na hipótese dos autos, o Tribunal de origem indeferiu o mencionado benefício, por ausência do requisito subjetivo (art. 83, III, do Código Penal - CP), porque o paciente praticou várias faltas graves durante o cumprimento da pena (fuga, novos delitos, posse de drogas e aparelho celular no estabelecimento prisional etc).
+4. "A aplicação de um critério temporal na análise do requisito subjetivo para o livramento condicional não pode ser limitado a um brevíssimo período de tempo, qual seja, os últimos 6 (seis) meses de cumprimento de pena, devendo-se proceder ao exame do mérito durante todo o curso da execução penal" (AgRg no AREsp n. 733.396/DF, QUINTA TURMA, Rel. Min. JORGE MUSSI, DJe de 9/3/2016).
+5. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Juízo da Execução Penal deferiu o livramento condicional ao ora paciente em 23/2/2018. Porém, em agravo do Ministério Público (Recurso n. 10071.07.034057-6/005), o Tribunal a quo afastou o benefício por falta do requisito subjetivo.
+A impetrante afirma que o acórdão impugnado levou em consideração faltas graves praticadas pelo ora paciente há mais de 12 meses, as quais, portanto, "não são suficientes para inviabilizar o reconhecimento do requisito subjetivo" (fl. 10).
+Requer, em liminar e no mérito, o restabelecimento da decisão do Juízo da Execução.
+O pedido liminar foi indeferido às fls. 139/140.
+O Ministério Público Federal manifestou-se, às fls.145/146, pela denegação da ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, ressalvando-se, porém, a possibilidade de concessão da ordem, de ofício, quando verificada flagrante ilegalidade no direito de locomoção do paciente.
+Conforme relatado, a controvérsia refere-se ao livramento condicional, benefício o qual pode ser concedido pelo juiz da Vara de Execuções Criminais aos condenados que preencherem os requisitos previstos no art. 83 do Código Penal - CP, que assim dispõe:
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumprido mais de dois terços da pena, nos casos de condenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir.
+
+As faltas disciplinares de natureza grave, embora não interrompam o prazo (requisito objetivo) do livramento condicional, podem indicar a ausência de mérito (requisito subjetivo) do apenado, obstando, assim, a concessão do benefício. Nesse sentido, os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. COMETIMENTO DE FALTA GRAVE. FUGAS DO ESTABELECIMENTO PRISIONAL. LIVRAMENTO CONDICIONAL. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+ ..
+2. Na espécie, o entendimento do Tribunal a quo encontra-se em harmonia com a jurisprudência consolidada por esta Corte Superior de Justiça, no sentido de que, conquanto não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+3. Por outro lado, é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+4. Habeas corpus não conhecido (HC 307.110/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 07/10/2015).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. FALTA GRAVE. REITERADAS FUGAS. AUSÊNCIA DE REQUISITO SUBJETIVO. MOTIVAÇÃO SUFICIENTE. CONSTRANGIMENTO ILEGAL AUSENTE. DECISÃO MONOCRÁTICA ACERTADA. RECLAMO DESPROVIDO.
+1. Conquanto não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), a prática de falta grave impede a concessão do aludido benefício por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+2. No caso dos autos, a decisão do Juiz da Execução, mantida pelo Tribunal a quo, indeferiu de forma fundamentada o pedido de livramento condicional, por entender que não estava preenchido o requisito subjetivo para obtenção do benefício, destacando o seu conturbado histórico prisional, no qual consta ainda, do acórdão combatido, que a apenada empreendeu reiteradas fugas durante o cumprimento da reprimenda.
+3. Para a aferição do bom comportamento carcerário o julgador não está vinculado ao atestado expedido pelo Diretor do Presídio, de modo que, se o Juízo da Vara de Execuções Criminais, fundamentadamente, considerou não satisfeito o requisito subjetivo indicado, cumpre prestigiar tal entendimento.
+4. Agravo regimental desprovido (AgRg no HC 287.595/MS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 05/10/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO NÃO CUMPRIDO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo a Primeira Turma do Supremo Tribunal Federal, passou a inadmitir habeas corpus substitutivo de recurso próprio, ressalvando, porém, a possibilidade de concessão da ordem de ofício nos casos de flagrante constrangimento ilegal.
+- A prática de três faltas graves (fugas) constitui elemento suficiente para demonstrar a ausência de requisito subjetivo para a concessão de livramento condicional, nos termos do art. 83, III, do Código Penal. Precedentes.
+- Habeas corpus não conhecido (HC 293.039/MS, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 19/08/2015).
+Na hipótese dos autos, o Tribunal de origem indeferiu o mencionado benefício, por ausência do requisito subjetivo (art. 83, III, do Código Penal), porque o paciente praticou faltas graves (fuga, novos delitos, posse de drogas e aparelho celular no estabelecimento prisional etc), conforme se verifica do seguinte trecho:
+ ..
+No presente caso, em que pese o MM. Juiz ter lançado em sua r. decisão que o reeducando apresenta "comportamento satisfatório"(fl. 87), forçoso reconhecer a existência de dúvidas de que os fins educativos da pena foram ou estão sendo atingidos
+Conforme se infere dos autos, durante o cumprimento de pena, mais precisamente em 2011, o recorrido praticou falta grave consistente no cometimento de novo crime (fl.25). É possível extrair dos autos, ademais, que, no ano de 2012, o agravado possuía autorização judicial para participar de projetos de estudos, mas foi desligado da unidade prisional de Boa Esperança porque saiu em benefício de saída temporária, todavia, não retornou, sendo lançado como foragido no sistema Infopen, sendo recapturado somente quatro meses depois (fls.33 e 34).
+Observa-se, ademais, que em 2013 o reeducando foi beneficiado com a progressão do regime semiaberto para o aberto e concessão do livramento condicional (fl 41), mas restou evidenciada a prática de nova infração penal, razão pela qual o benefício foi revogado (fls 42, 43/44 e 55).
+E mais, segundo informado pelo Diretor Geral do Presídio de Boa Esperança o sentenciado ainda praticou falta disciplinar de natureza grave, desrespeitando os procedimentos daquela unidade prisional, por portar, dentro de sua vestimenta intima, material ilícito, mais precisamente, maconha (fls. 45/47). E como se não bastasse o citado histórico, o agravado ainda foi flagrado em poder de um aparelho celular no presídio (fl.65).
+Ora, não há como negar que a depender da falta praticada, absolutamente possível que o requisito subjetivo venha a ser maculado
+Na espécie, a despeito do preenchimento do requisito de ordem objetiva, indiscutível que, diante das inúmeras faltas perpetradas, prática de crimes, fuga, bem como porte de drogas e de aparelho telefônico no interior da unidade prisional, o sentenciado demonstrou senso de indisciplina e irresponsabilidade para o cumprimento da pena, revelando que não está preparado para a benesse e suas regras mais liberais.
+Conforme bem pontuado pela d. Procuradoria Geral de Justiça, "no curso da execução de sua reprimenda o sentenciado cometeu reiteradas faltas disciplinares graves (descumprimento de condições, não atualização de endereço, novos delitos, inclusive de tráfico de drogas e fuga). Assim, há no processado demonstrações efetivas de demérito a impedir a benesse. Ora, não se pode agraciar com livramento, porque absurdo, o recorrido, já que o mesmo faz escárnio de sua execução penal. Externou comportamento incompatível com os fins mais caros preconizados pela LER" (fl. 98).
+Assim, existindo nos autos elementos contundentes de que o livramento condicional pode frustrar os fins educativos da pena, imperiosa a revogação do referido beneficio deferido em primeira instância.
+Em casos similares, já decidiu este e. Tribunal de Justiça:
+ ..
+Feitas essas considerações, DOU PROVIMENTO AO RECURSO MINISTERIAL para revogar o benefício de livramento condicional deferido ao reeducando em primeira instância (fls. 130/133).
+Por outro lado, "a aplicação de um critério temporal na análise do requisito subjetivo para o livramento condicional não pode ser limitado a um brevíssimo período de tempo, qual seja, os últimos 6 (seis) meses de cumprimento de pena, devendo-se proceder ao exame do mérito durante todo o curso da execução penal" (AgRg no AREsp n. 733.396/DF, QUINTA TURMA, Rel. Min. JORGE MUSSI, DJe de 9/3/2016). Nesse sentido: AgRg no REsp 1720745/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/6/2018.
+Ante o exposto, voto pelo não conhecimento do habeas corpus.
