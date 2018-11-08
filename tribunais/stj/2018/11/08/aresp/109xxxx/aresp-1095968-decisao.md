@@ -1,0 +1,27 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE DE CUMULAÇÃO DA APOSENTADORIA EXCEPCIONAL DE ANISTIADO COM OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DESDE QUE NÃO POSSUAM O MESMO FATO GERADOR. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO JURISPRUDENCIAL DO STJ. AFERIÇÃO REALIZADA PELO TRIBUNAL DE ORIGEM COM BASE NO CONJUNTO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO NESTA VIA ESPECIAL. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por FLÁVIO MUNHOZ, com base nas alíneas a e c do inciso III do art. 105 da Constituição Federal, objetivando a reforma do acórdão do Tribunal Regional Federal da 3a. Região que negou seguimento ao pedido de recebimento cumulativo da aposentadoria excepcional de anistiado político e de aposentadoria previdenciária por tempo de serviço.
+2. Sustenta o recorrente, em Apelo Especial inadmitido, além de dissídio jurisprudencial, a possibilidade de cumulação de benefício previdenciário de aposentadoria especial com benefício excepcional de anistiado político.
+3. É o relatório.
+4. Encontra-se consolidado nesta Corte Superior o entendimento pela não possibilidade de cumulação da aposentadoria excepcional de anistiado com outros benefícios previdenciário cujo fato gerador apresente identidade.
+5. Ao manifestar-se acerca do tema em debate, o Tribunal de origem se posicionou da seguinte maneira:
+Ademais, surge evidente o caráter previdenciário dos benefícios em comento na presente demanda, o que conduz à conclusão de que não são cumuláveis.
+Desse modo, deve ser mantida a r. sentença recorrida, uma vez que as prestações possuem a mesma natureza previdenciária, razão pela qual o autor não faz jus ao recebimento cumulativo da aposentadoria excepcional de anistiado político e da aposentadoria previdenciária por tempo de serviço, cuja análise resta prejudicada (fls. 116).
+6. Como se vê, aquele Tribunal decidiu em harmonia com o STJ. A pretensão do ora recorrente não encontra amparo na jurisprudência desta Corte que admite a cumulação aposentadoria excepcional de anistiado com outros benefícios previdenciários, desde que não possuam o mesmo fato gerador.
+7. Confirmando tal orientação, os seguintes julgados:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE PREVIDENCIÁRIA. LEI N. 10.559/2002. IMPOSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. NÃO OBSERVÂNCIA. ALEGAÇÃO DE VIOLAÇÃO DO PRINCÍPIO DA ISONOMIA. COMPETÊNCIA DO STF.
+1. A jurisprudência desta Corte Superior é no sentido de que não é possível acumulação de aposentadoria excepcional de anistiado com outro benefício previdenciário sob o mesmo fato gerador.
+2. A simples reiteração de alegações do recurso especial viola tanto o princípio da dialeticidade quanto o disposto no § 1º do art. 1.021 do CPC/2015.
+3. Inviável a análise de violação de dispositivo constitucional em recurso especial, em observância à competência do Supremo Tribunal Federal.
+4. Agravo interno não conhecido (AgInt no REsp. 1.623.609/SP, Rel. Min. OG FERNANDES, DJe 22.8.2018).
+8. Temos ainda outros julgados monocráticos: AREsp. 915.880/SP, Rel. Min. OG FERNANDES, DJe 2.10.2018; REsp. 1.609.348/SP, Rel. Min. REGINA HELENA COSTA, DJe 1o.10.2018; AREsp. 1.338.495/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 22.8.2018.
+9. Como se vê, a pretensão de alteração das conclusões do Regional demandaria, necessariamente, um novo exame do acervo fático-probatório dos autos, procedimento vedado no âmbito do STJ, ou seja, nesta via especial. Vejamos:
+AGRAVO INTERNO. PREVIDENCIÁRIO. PROCESSUAL CIVIL. ART. 57 DA LEI 8.213/1991. AUSÊNCIA DE PREQUESTIONAMENTO APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. BENEFÍCIO EXCEPCIONAL DE ANISTIADO POLÍTICO. MESMO FATO GERADOR. CUMULAÇÃO. IMPOSSIBILIDADE.
+1. O Tribunal de origem não examinou a matéria contida no art. 57 da Lei 8.213/1991 apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/1973, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.).
+2. Esta Corte possui firme entendimento no sentido de não ser possível a cumulação da aposentadoria excepcional de anistiado com outros benefícios previdenciários que possuam o mesmo fato gerador.
+3. Tendo o Tribunal de origem afirmado expressamente "É vedada a cumulação de duas aposentadorias considerado o mesmo tempo de serviço como base de cálculo, o que aconteceu no caso dos autos (fl. 109), a alteração dessa conclusão demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento (AgInt no AREsp. 907.063/SP, Rel. Min. SÉRGIO KUKINA, DJe 4.4.2018).
+10. Ante o exposto, nega-se provimento ao Agravo em Recuso Especial do Particular.
+11. Publique-se.
+12. Intimações necessárias.
