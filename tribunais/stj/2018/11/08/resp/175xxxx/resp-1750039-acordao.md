@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. TERMO DE AJUSTAMENTO DE CONDUTA. INSTITUIÇÃO DE RESERVA LEGAL. NECESSIDADE. DISPENSA DA AVERBAÇÃO DA ÁREA JUNTO AO CARTÓRIO DE REGISTRO DE IMÓVEIS. OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022 do CPC/2015.
+2. De fato, a parte apresentou questão jurídica relevante, sobretudo quando afirma que eventual dispensa da averbação da reserva legal no cartório de registro de imóveis só teria lugar quando o proprietário rural fizesse o devido registro no Cadastro Ambiental Rural (CAR). Apesar de provocado por meio de Embargos de Declaração, o Tribunal a quo não apreciou a questão devidamente.
+3. Neste contexto, diante da referida omissão, se apresenta violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os Embargos Declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos Embargos.
+4. Consigne-se, in obter dictum, que a jurisprudência do STJ entende que a Lei 12.651/2012 (Novo Código Florestal), que revogou a Lei 4.771/1965, não suprimiu a obrigação de averbação da Área de Reserva Legal no Registro de Imóveis, mas apenas possibilitou que o registro seja realizado, alternativamente, no Cadastro Ambiental Rural - CAR, obrigação essa não cumprida pelos recorridos.
+5. Recurso Especial parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu parcial provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte (fl. 65, e-STJ):
+Apelação cível - Embargos à execução - Termo de ajustamento de conduta (TAC) - Propriedade rural - Averbação de área de reserva legal no registro do imóvel - Novo Código Florestal - Ato facultativo - Cadastro Ambiental Rural (CAR) - Implantação no Estado de Minas Gerais - Registro e inscrição - Prazo legal de um ano - Não escoamento - Compromisso de ajustamento de conduta - Multa moratória - Celebração anterior à implantação do CAR - Titulo inexigível - Recurso ao qual nega provimento (Des MR) 1. Conforme dispõe o novo Código Florestal, a área de reserva legal deve ser inscrita no Cadastro Ambiental Rural (CAR), dispondo o proprietário do prazo de um ano, prorrogável por igual período, para a realização do ato de registro no órgão Municipal ou Estadual competente. 2. Já tendo sido implantado o CAR no Estado de Minas Gerais, de responsabilidade da Secretaria Estadual de Meio Ambiente e Desenvolvimento Sustentável, descabe obrigar o proprietário rural a averbar a área de reserva legal no registro do imóvel, ato que se tornou facultativo com o novo Código Florestal, notadamente quando ainda não esgotado o prazo legal para inscrição no sistema, sendo inexigivel a multa moratória firmada em Termo de Ajustamento de Conduta junto ao Ministério Público, V.V.: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - TERMO DE AJUSTAMENTO DE CONDUTA - INSTITUIÇÃO DE RESERVA LEGAL - NECESSIDADE - AVERBAÇÃO DA ÁREA NO CARTÓRIO DE REGISTRO DE IMÓVEIS - INEXIGIBILIDADE - SUPERVENIÊNCIA DO NOVO CÓDIGO FLORESTAL - FACULDADE DE INGRESSO NO CADASTRO AMBIENTAL RURAL - DEMONSTRAÇÃO DOS REQUISITOS PELO PROPRIETÁRIO RURAL - NECESSIDADE - MANUTENÇÃO DA AVERBAÇÃO NO CARTÓRIO DE REGISTRO DE IMÓVEIS - POSSIBILIDADE--SENTENÇA MANTIDA 1. Consoante o artigo 12 - da Lei nº. 12.651/12, com a redação conferida pela Lei nº 12.727 de 2012, a instituição de reserva legal é obrigatória e deve ser realizada no percentual de 20% quando a área estiver situada fora da Amazônia Legal. 2. Revogada a Lei nº 4.771/65 pela Lei nº 12.651, de 25 de maio de 2012, a averbação da reserva legal às margens da matricula do imóvel tornou-se facultativa com a criação do Cadastro Ambiental Rural, cabendo ao proprietário rural que pretende a inscrição neste cadastro o preenchimento dos requisitos da lei. (Des. AV)
+Os Embargos de Declaração foram rejeitados (fl. 98, e-STJ).
+O recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 1.022, II, do Código de Processo Civil de 2015; 6º, do Decreto-Lei 4.657/1942 e 18, § 4º, da Lei 12.651/2012 (Novo Código Florestal). Aduz que houve negativa de prestação jurisdicional. Defende, em suma, a necessidade de averbação da área relativa à reserva legal.
+Afirma (fl. 122, e-STJ):
+A eventual dispensa da averbação da reserva legal junto ao Cartório de Registro de Imóveis só teria lugar quando o proprietário rural fizesse o devido registro junto ao CAR, evidente cláusula de condição resolutiva.
+Contrarrazões apresentadas às fls. 149-165, e-STJ.
+Decisão de admissibilidade do recurso às fls. 167-171, e-STJ.
+Parecer do Ministério Público Federal às fls. 454-459, e-STJ, opinando pelo parcial provimento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23.8.2018.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022 do CPC/2015.
+De fato, a parte apresentou questão jurídica relevante, sobretudo quando afirma que eventual dispensa da averbação da reserva legal no cartório de registro de imóveis só teria lugar quando o proprietário rural fizesse o devido registro no Cadastro Ambiental Rural (CAR).
+Apesar de provocado por meio de Embargos de Declaração, o Tribunal a quo não apreciou a questão devidamente.
+Neste contexto, diante da referida omissão, apresenta-se violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os Embargos Declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos Embargos.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1113795/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 15/03/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido.
+(EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/04/2016).
+Consigne-se, in obter dictum, que a jurisprudência do STJ entende que a Lei 12.651/2012 (Novo Código Florestal), que revogou a Lei 4.771/1965, não suprimiu a obrigação de averbação da Área de Reserva Legal no Registro de Imóveis, mas apenas possibilitou que o registro seja realizado, alternativamente, no Cadastro Ambiental Rural - CAR, obrigação esta não cumprida pelos recorridos.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. RESERVA LEGAL NÃO AVERBADA. EXCLUSÃO PARA FINS DE CÔMPUTO DA PRODUTIVIDADE DO IMÓVEL. IMPOSSIBILIDADE. PRECEDENTES DO STJ E STF.
+1. O aresto impugnado está em dissonância com a pacífica jurisprudência do STF e do STJ, no sentido de que não se pode excluir a Área de Reserva Legal que não esteja devidamente individualizada na respectiva averbação, para fins de cômputo da produtividade do imóvel rural. Precedente: AgRg nos EREsp 1.376.203/GO, Rel. Ministro Og Fernandes, Primeira Seção, DJe 5/11/2014.
+2. Não basta a averbação genérica. "Não se encontrando individualizada na averbação, a reserva florestal não poderá ser excluída da área total do imóvel desapropriando para efeito de cálculo da produtividade" (MS 24.924/DF, Relator para o acórdão Min. Joaquim Barbosa, Tribunal Pleno, j. 24/2/2011, DJe-211).
+3. A Lei 12.651/12, que revogou a Lei 4.771/65, não suprimiu a obrigação de averbação da Área de Reserva Legal no Registro de Imóveis, mas apenas possibilitou que o registro seja realizado, alternativamente, no Cadastro Ambiental Rural - CAR.
+4. Recurso Especial provido.
+(REsp 1426830/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/10/2016, DJe 29/11/2016).
+Diante do exposto, dou parcial provimento ao Recurso Especial para determinar o retorno dos autos à Corte de origem para novo julgamento dos Embargos de Declaração.
+É como voto.
