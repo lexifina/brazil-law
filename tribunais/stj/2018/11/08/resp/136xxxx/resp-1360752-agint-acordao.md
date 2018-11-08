@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TRANSPORTE TERRESTRE INTERESTADUAL E INTERNACIONAL. ISENÇÃO DE TAXAS E TARIFAS PARA PORTADORES DE NECESSIDADES ESPECIAIS QUE FAZEM JUS AO PASSE LIVRE. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. LEGITIMIDADE DA ANTT PARA FIGURAR NO POLO PASSIVO DA DEMANDA. LEGISLAÇÃO VIGENTE QUE INDICA A COMPETÊNCIA DA AGÊNCIA PARA TRATAR DE QUESTÕES AFETAS AO QUE SE DISCUTE NO FEITO. NATUREZA TARIFÁRIA QUE AFASTA A EXTENSÃO DA ISENÇÃO. TESE NÃO APRECIADA PELA CORTE DE ORIGEM. INCIDÊNCIA DA SÚMULA 211/STJ.
+1. Inexiste violação do art. 535 do CPC/1973, quando o acórdão recorrido manifesta-se de forma clara e suficiente sobre todas as questões necessárias para o deslinde da controvérsia.
+2. Depreende-se dos arts. 22, III, 24, IV e VIII, da Lei n. 10.233/2001, da Portaria GM n. 261, de 3 de dezembro de 2012, expedida pelo Ministério dos Transportes, e da Resolução 1.430/2006 da ANTT que a agência reguladora possui legitimidade passiva para figurar no feito.
+3. A Corte de origem não se pronunciou sobre a inviabilidade de extensão da isenção do Passe Livre para outros encargos, dada a sua natureza tarifária. Incidência da Súmula 211/STJ.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Trata-se de agravo interno interposto pela Agência Nacional de Transportes Terrestres - ANTT contra decisão monocrática assim ementada (fl. 700, e-STJ):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PASSE LIVRE PARA DEFICIENTES. LEI N. 8.899/1994. LEGITIMIDADE PASSIVA DA ANTT CONFIGURADA. NATUREZA TARIFÁRIA DO BENEFÍCIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A agravante repisa os fundamentos do recurso especial aduzindo: (a) a violação do art. 535 do CPC/1973; (b) sua ilegitimidade passiva; (c) a não incidência da Súmula 211/STJ, tendo em vista ter havido o devido prequestionamento.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TRANSPORTE TERRESTRE INTERESTADUAL E INTERNACIONAL. ISENÇÃO DE TAXAS E TARIFAS PARA PORTADORES DE NECESSIDADES ESPECIAIS QUE FAZEM JUS AO PASSE LIVRE. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. LEGITIMIDADE DA ANTT PARA FIGURAR NO POLO PASSIVO DA DEMANDA. LEGISLAÇÃO VIGENTE QUE INDICA A COMPETÊNCIA DA AGÊNCIA PARA TRATAR DE QUESTÕES AFETAS AO QUE SE DISCUTE NO FEITO. NATUREZA TARIFÁRIA QUE AFASTA A EXTENSÃO DA ISENÇÃO. TESE NÃO APRECIADA PELA CORTE DE ORIGEM. INCIDÊNCIA DA SÚMULA 211/STJ.
+1. Inexiste violação do art. 535 do CPC/1973, quando o acórdão recorrido manifesta-se de forma clara e suficiente sobre todas as questões necessárias para o deslinde da controvérsia.
+2. Depreende-se dos arts. 22, III, 24, IV e VIII, da Lei n. 10.233/2001, da Portaria GM n. 261, de 3 de dezembro de 2012, expedida pelo Ministério dos Transportes, e da Resolução 1.430/2006 da ANTT que a agência reguladora possui legitimidade passiva para figurar no feito.
+3. A Corte de origem não se pronunciou sobre a inviabilidade de extensão da isenção do Passe Livre para outros encargos, dada a sua natureza tarifária. Incidência da Súmula 211/STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Cuida-se, originariamente, de ação civil pública ajuizada pelo Ministério Público Federal por meio da qual se pretende garantir o direito de portadores de necessidades especiais que fazem jus ao Passe Livre de receberem o documento de autorização de viagem interestadual ou internacional independentemente de pagamento de qualquer valor, inclusive tarifas/taxas de pedágio e utilização dos terminais rodoviários.
+De início, não se vislumbra a alegada violação do art. 535 do CPC/1973, pois a Corte de origem manifestou-se de forma clara e suficiente sobre todas as questões suscitadas e necessárias ao deslinde da controvérsia.
+No que se refere à alegada ilegitimidade da ANTT para figurar no polo passivo da presente demanda, a decisão agravada não merece reparos.
+Conforme assentou-se, a legislação vigente impõe à agência reguladora a competência para fiscalizar a prestação de serviços de transporte interestadual e internacional (arts. 22, III, 24, IV e VIII, da Lei n. 10.233/2001). Ademais, a Portaria GM n. 261, de 3 de dezembro de 2012, expedida pelo Ministério dos Transportes, dispõe que compete à ANTT a fiscalização da concessão de benefício em questão, além do controle e arrecadação das multas aplicadas em decorrência do descumprimento das normas estabelecidas. Por fim, é a Resolução 1.430/2006 da ANTT que regula os critérios e procedimentos para repasse,pelas permissionárias, dos valores de pedágio aos passageiros, o que integra a discussão dos autos.
+Portanto, não há que se falar em ilegitimidade da Agência Nacional de Transportes Terrestres para figurar na presente demanda.
+Por fim, como já se fez constar na decisão agravada, a Corte de origem não apreciou a tese de segundo a qual a natureza tarifária do passe livre inviabilizaria a isenção dos demais encargos. Ao contrário do afirmado pela ora agravante, em nenhum trecho do excerto do acórdão recorrido transcrito nas razões recursais vislumbra-se a apreciação de tal tese. Incide, pois, quanto ao ponto, o óbice da Súmula 211/STJ, ante a ausência do necessário do prequestionamento.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
