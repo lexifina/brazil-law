@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, interposto contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE LABORAL. AUSÊNCIA.
+1. A concessão de benefício previdenciário por incapacidade decorre da convicção judicial formada predominantemente a partir da produção de prova pericial.
+2. Considerando que a prova dos autos é no sentido de que a parte autora não está incapacitada para o exercício de atividades laborais, não é devido qualquer dos benefícios pleiteados.
+3. O fato da autora haver obtido administrativamente o benefício por incapacidade, em data posterior ao ajuizamento da ação, não influência o resultado deste processo. O pleito deduzido nestes autos é o reconhecimento de incapacidade em 10/10/2013, data na qual formulou o requerimento - DER. Se a perícia não reconheceu incapacidade nesta data, correta a sentença de improcedência prolatada.
+4. Suprida a omissão da sentença para impor à autora o ônus de suportar o pagamento dos honorários periciais, cuja exigibilidade também permanecerá suspensa até modificação favorável da sua condição econômica.
+Opostos embargos de declaração, esses foram parcialmente acolhidos para corrigir erro material, in verbis:
+Erro material
+Com razão a embargante, o voto condutor do acórdão e o acordam encerram erro material, que deve ser corrigido para que conste que a data da entrada do requerimento (DER) é 10/10/2003.
+Contradição
+Inexistente a alegada contradição. Entretanto é necessário agregar fundamentos ao ponto específico.
+A embargante pleiteia o reconhecimento de que, à época do requerimento administrativo de auxílio-doença, 10/10/2003, indeferido pela autarquia previdenciária, encontrava-se incapacitada e, portanto, fazia jus ao benefício por incapacidade. Esta é a questão controvertida nestes autos.
+A perícia realizada nestes autos, visando aferir a condição clínica/médica da requerente, para a formação do juízo acerca do reconhecimento, ou não, do direito ao benefício por incapacidade, pleiteado e indeferido em 2003, atestou que a autora não estava incapaz no ano de 2003 ou 2004.
+À propósito, atente-se para a resposta do perito ao quesito nº 1 da autarquia, que delimita exatamente o ponto do exame clínico que diz especificamente sobre a questão controvertida neste processo:
+Quesitos do INSS 1- A examinada postula a concessão de benefício previdenciário por incapacidade, alegando estar incapaz para atividades de lavradora, desde o ano de 2003. No processo 2005.70.10.001172-0, que tramitou no JEF de Campo Mourão, após a realização de perícia medica realizada em janeiro/2005, a sentença final julgou improcedente o pedido, por não ter sido comprovada incapacidade laboral para as atividades então habituais da autora (f. 160).
+Nesse contexto, pergunta-se: seria possível atestar, atualmente, que a autora estava incapaz no ano de 2003 ou 2004, contrariando a sentença anterior transitada em julgado.
+R: Não é possível atestar.
+Pois bem então, sobre a questão dos autos, capacidade ou incapacidade da autora em 2003, quando teve indeferido o benefício por incapacidade, o perito efetivamente formulou juízo de ausência de incapacidade, por não ser possível atestar que a autora estivesse incapacitada naquela data.
+É necessário apontar que, tendo a autora postulado benefício por incapacidade em 2005, no JEF de Campo Mourão, e lá obtendo provimento sentencial que não lhe reconheceu a incapacidade, o objeto destes autos, a questão debatida nestes autos, circunscreve-se ao escrutínio da capacidade laborativa em 2003.
+Nesse contexto, onde se lê "concluindo com firmeza pela capacidade laborativa da requerente" e "a perícia judicial realizada atestou a inexistência de incapacidade laborativa", deve ser lido e compreendido: "concluindo com firmeza pela capacidade laborativa da requerente em 2003" e "a perícia judicial realizada atestou a inexistência de incapacidade laborativa em 2003", porque esse é o tema controvertido nos autos e limitado pela instrução.
+Omissão
+Não se verifica, por outro lado, a apontada omissão. Tratando-se a questão controversa de averiguação da capacidade laborativa da autora em 2003, e tendo a autora gozado de benefício de auxílio-doença deferida administrativamente, a cessação desse, e o eventual restabelecimento do mesmo, constituem outra causa de pedir.
+Em verdade, a embargante pretende a alteração do julgado e não suprir eventual omissão, como resta claro do acima exposto, o que demanda recurso próprio para tal fim e não os presentes embargos.
+Ante o exposto, voto por dar parcial provimento aos embargos de declaração para corrigir erro material.
+No presente recurso especial, a recorrente aponta violação dos arts. 479 e 493 do CPC/15.
+Argumenta que ajuizou a presente ação ainda no ano de 2006, pugnando benefício de auxílio-doença desde a data do requerimento administrativo (DER) indeferido pela autarquia em, 2003.
+Alega, ainda, que durante a instrução do feito foi realizada perícia no ano de 2014 em que se constatou a existência de incapacidade desde 2010, a qual, inclusive foi reconhecida administrativamente.
+Sustenta que sendo esse o panorama dos autos caberia a concessão do benefício desde 2010, conforme reconhecido no laudo de 2014, porquanto o benefício recebido em 2010 administrativamente foi cessado indevidamente em 2011. Alega que o art.493 do CPC/15 permite tal conclusão, pois, no seu entender estar-se-ia julgando conforme o estado de fato e de direito existente no momento do julgamento, tal como dispõe o citado dispositivo.
+Por fim argumenta que a incapacidade remonta, de fato, ao ano de 2003 e que, nos termos do art. 479 do CPC/15, que também reputa violado, deveria ter o magistrado considerado os demais elementos de prova acostados aos autos para deferir o benefício desde a data pugnada na exordial.
+O recurso especial foi inadmitido ao entendimento de que a pretensão esbarra na Súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+De início, em relação à alegação de que a segurada estava, de fato, incapacitada desde a DER, em 2003, tenho que incide no ponto a súmula 7/STJ, porquanto o acórdão recorrido foi bem claro ao estabelecer, com base em prova pericial, que não havia incapacidade na época, de forma que a reversão de tal conclusão esbarra na indigitada Súmula, que veda o reexame do conjunto fático-probatório em sede de Recurso Especial.
+No mais, pelo que se dessume dos autos, a autora ajuizou ação pugnando por benefício por incapacidade desde 2003. Ocorre que a perícia, nos presentes autos, foi realizada apenas no ano de 2014, tendo reconhecido a incapacidade em 2010. Entende a autora, portanto, que o julgamento deve ocorrer no estado em que está o processo, se deferindo o benefício desde o ano em que constatada a incapacidade, ao entendimento de que o art. 493 do CPC/15, autoriza tal entendimento.
+Ocorre que o Tribunal a quo não fez nenhuma análise da questão controversa dos autos sob a ótica do art. 493 do CPC/15. Verifica-se, assim, que, no acórdão recorrido não foi analisado o conteúdo do referido dispositivo legal, nem foram opostos embargos de declaração para esse fim específico, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos enunciados sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
