@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DE REVISÃO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. PEDIDO ADMINISTRATIVO DE REVISÃO. SUSPENSÃO DO PRAZO PRESCRICIONAL. RECURSO ESPECIAL DO ESTADO DO PARANÁ A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo ESTADO DO PARANÁ, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE APOSENTADORIA COMPULSÓRIA. ESCRIVÃO DA POLÍCIA CIVIL. PROMOÇÃO DE CLASSE DEFERIDA APÓS O ATO DE APOSENTAÇÃO. SENTENÇA DE EXTINÇÃO DO FEITO. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. PRAZO PRESCRICIONAL. TERMO INICIAL. AUSÊNCIA DE CIÊNCIA INEQUÍVOCA DO ATO ADMINISTRATIVO QUE INDEFERIU A REVISÃO. IMPOSSIBILIDADE DE RECONHECIMENTO DA PRESCRIÇÃO. NULIDADE DA SENTENÇA. INAPLICABILIDADE DO ART. 515, § 3o. DO CPC. RECURSO PROVIDO (fls. 252).
+2. Opostos Embargos de Declaração, foram eles acolhidos, sem efeitos modificativos.
+3. Nas razões do Recurso Especial, a parte recorrente alega ofensa ao art. 1o. do Decreto 20.910/1932, ao argumento de que houve a prescrição do fundo de direito, tendo em vista que a aposentadoria da parte recorrida se deu em 10.5.2005, e a ação revisional foi ajuizada somente em 2012, não sendo o caso de aplicação da Súmula 85/STJ.
+4. É o relatório do essencial.
+5. Na hipótese dos autos, o Tribunal de origem consignou:
+Cinge-se a controvérsia recursal, em suma, à ocorrência ou não da prescrição do fundo de direito para a revisão da aposentadoria do autor.
+Consta dos autos que o requerente foi aposentado compulsoriamente com proventos proporcionais em 10.5.2005, aos 65 anos de idade, no cargo de escrivão da polícia civil - 3a classe, com fulcro no art. 176, III, da Lei Complementar Estadual 14/1982, com redação dada pela Lei Complementar Estadual 93/2002, conforme Resolução 6643/2005 (fl. 125), posteriormente retificada pela Resolução 8818/2006 (fl. 141).
+(..).
+Contudo, em 21.12.2005 foi reconhecido o direito do autor à promoção para a 2a. classe na carreira de escrivão, conforme Decreto 5.899/2005, razão pela qual o requerente instaurou o processo administrativo 11.388.646-3 objetivando seu enquadramento na classe em questão, com o pagamento das diferenças retroativas (fls. 164/165).
+Em resposta, a Paranaprevidência reconheceu que o Decreto 5.899/2005 promoveu por antiguidade e merecimento diversos servidores ocupantes do cargo de escrivão da polícia, com efeitos financeiros a partir de 21.12.2005, dentre os quais se incluiu o requerente. Contudo, asseverou não ser possível estender referida promoção ao autor, vez que ele já se encontrava aposentado compulsoriamente desde 10.5.2005.
+(..).
+Assim, o pedido administrativo de revisão foi indeferido em 11.10.2012, determinando-se a comunicação do requerente acerca do teor da decisão (fl. 174).
+(..).
+Ocorre que em 2012 o autor protocolou pedido administrativo de revisão, sendo que inexiste nos autos qualquer documento que comprove a sua ciência inequívoca acerca da decisão proferida no processo administrativo 11.388.646-3, que resultou no indeferimento de revisão da aposentadoria na forma do Decreto 5.899/2005.
+Destarte, não havendo prova quanto à data da ciência da negativa definitiva do pedido administrativo de reimplantação do benefício, não é possível verificar a ocorrência da prescrição do fundo de direito.
+Consta apenas que a decisão administrativa foi proferida em 11.10.2012 (fl. 174), do que se presume que o autor foi cientificado em momento posterior. Lodo, de qualquer forma não há de se falar em prescrição do fundo de direito, já que a ação foi proposta em 21.11.2013 (fls. 255/257).
+6. Verifica-se que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte Superior, que consolidou o entendimento de que a contagem do prazo prescricional fica suspensa na pendência de decisão administrativa, voltando a fluir após a resposta definitiva da autoridade administrativa. Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DEMISSÃO DO BANCO MERIDIONAL DO BRASIL ANISTIA. LEI 8.878/1994. AJUIZAMENTO DE AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM RAZÃO DA DEMORA DA ADMINISTRAÇÃO PÚBLICA EM PROCEDER À READMISSÃO AO EMPREGO. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça possui o entendimento de que a formalização de requerimento administrativo, dentro do prazo prescricional, provoca a suspensão do prazo, e não sua interrupção, ex vi do art. 4º, parágrafo único, do Decreto 20.910/1932.
+2. Recurso Especial provido para que, afastada a prescrição, o feito seja devolvido ao Tribunal Regional Federal da 4ª Região para que julgue o mérito da Apelação Cível 2007.71.00.029229-0/RS (REsp. 1.546.728/RS, Rel. Min. HERMAN BENJAMIN, DJe 27.4.2017).
+
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. PEDIDO DE REVISÃO APRESENTADO QUANDO DECORRIDO MAIS DE 5 ANOS DO ATO DE DEMISSÃO. PRESCRIÇÃO CONFIGURADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Depreende-se da leitura dos autos que a decisão administrativa que determinou a demissão do Servidor, confirmada pelo Tribunal Pleno do TJMS, ocorreu em 2003. Não tendo havido qualquer pedido de revisão por parte do recorrente no período de 5 anos, o que atrai o reconhecimento da prescrição, conforme dispõe a legislação estadual aplicável à espécie.
+2. No que tange à possibilidade de interrupção da prescrição, de fato esta Corte reconhece que a contagem do prazo prescricional fica suspenso na pendência de decisão administrativa, voltando a fluir após a resposta definitiva da autoridade administrativa.
+3. Ocorre que no presente caso, ao contrário do que leva a crer o recorrente, a resposta definitiva da Administração quanto à demissão do Servidor ocorreu em 2003, encerrando-se o prazo prescricional de 2008, razão pela qual não merece reforma a negativa do pedido de revisão formulado em 2011.
+4. Constata-se que a decisão administrativa a que se reporta o autor, que teria interrompido o prazo prescricional, não é referente ao ato de demissão do autor, encerrado no Processo 2003./1.17.69.0002 e concretizado na Portaria 790/2003 de 30.9.2003, e sim, ao Processo 062.1190/2008, onde se postulou o pagamento de diligências realizadas pelo impetrante no transcurso do processo administrativo.
+5. Agravo Interno do particular desprovido (AgInt no RMS 38.529/MS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 19.10.2016).
+7. Portanto, tendo havido o encerramento do processo administrativo somente em 2012, com o indeferimento do pedido de revisão, e a ação sido proposta em 2013, notória a inocorrência da prescrição.
+8. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pelo ESTADO DO PARANÁ.
+9. Publique-se.
+10. Intimações necessárias.
