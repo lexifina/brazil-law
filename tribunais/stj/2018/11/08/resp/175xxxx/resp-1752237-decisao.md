@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação cominatória c/c indenização por danos materiais, fundada na nulidade da cláusula que autoriza o reajuste por faixa etária aos 59 anos.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Em princípio, é idôneo o reajuste de mensalidade de plano de saúde coletivo em razão da mudança de faixa etária do participante, pois com o incremento da idade há o aumento do risco de a pessoa vir a necessitar de serviços de assistência médica. E, para evitar abusividades, esta Corte consolidou o entendimento de que devem ser observados alguns parâmetros, como a expressa previsão contratual, não aplicação de índices de reajuste desarrazoados e que onerem excessivamente o consumidor, em manifesto confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+9. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por ROSIMAR KIRSCHNER, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 10/11/2017.
+Concluso ao gabinete em: 16/07/2018.
+Ação: cominatória c/c indenização por danos materiais com pedido de tutela antecipada para afastar o reajuste etário e determinar a emissão de novos boletos com o reajuste autorizado pela ANS, ajuizada pela recorrente, em face de SULAMERCIA SAÚDE S/A e de QUALICORP SOLUÇÕES EM SAÚDE, fundada na nulidade da cláusula que autoriza o reajuste por faixa etária aos 59 anos.
+Sentença: julgou procedente a ação para: a) declarar ilícito o reajuste descrito na inicial e vedar futuros reajustes em função de mudança de faixa etária, permitindo apenas os editados anualmente pela ANS, tornando definitiva a liminar concedida nesse sentido; e b) condenar a recorrida a restituir à recorrente a quantia de R$ 42.268,18.
+Acórdão: deu provimento à apelação interposta pela recorrida, para entender pela validade e eficácia do reajuste e pela inexistência de abusividade, nos termos da seguinte ementa:
+Ação cominatória. Plano de assistência médico-hospitalar coletivo/empresarial. Reajuste por mudança de faixa etária. Usuária que atingira a idade de 59 anos. Admissibilidade. Inaplicabilidade do Estatuto do Idoso. Entabulado entre as partes se mostra claro e preciso, indicando os períodos em que ocorreriam os reajustamentos por mudança de faixa etária. Validade e eficácia do contratado. Reajuste apto a sobressair. Apelo provido.
+Condenou a recorrente no pagamento das custas processuais e honorários advocatícios fixados em R$ 2.000,00.
+Embargos infringentes: opostos pela recorrente, foram rejeitados, nos termos da seguinte ementa:
+Embargos infringentes. Plano de saúde. Contrato coletivo por adesão. Reajustes anuais que podem ser feitos pela sinistralidade e custos dos usuários, não se submetendo aos índices dos contratos individuais estabelecidos pela ANS. Inexistência de nulidade da cláusula que permite o reajuste por sinistralidade. Reajuste em virtude de mudança de faixa etária. STJ fixou em recurso repetitivo (REsp 1568244/RJ) que o aumento por faixa etária não é ilegal nem fere o Estatuto do Idoso. Ação que é improcedente. Embargos rejeitados.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, 6º, III, 51, IV e X, e 54, §4º, do CDC, arts. 369 e 1.022, II, do CPC/15, art. 15, parágrafo único, do Estatuto do Idoso e art. 757 do CC/02, bem como dissídio jurisprudencial.
+Afirma haver omissão quanto aos artigos tidos por violados, à abusividade do reajuste e ao entendimento do STJ. Sustenta que não foram atendidos os requisitos estipulados pelo STJ para averiguação do percentual fixado, bem como que não haveria o cumprimento da determinação de que os reajustes não fossem desarrazoados ou aleatórios e sem base atuarial idônea. Além disso, a apuração do percentual adequado deveria ser realizada por meio de cálculos atuariais.
+Assevera que o percentual de reajuste etário seria desarrazoado e que não foi objeto de perícia atuarial, bem como que a cláusula de reajuste por sinistralidade permitiria a alteração do prêmio de forma unilateral.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da abusividade do reajuste e do entendimento do STJ (e-STJ fls. 692/693 e 818/820), de maneira que os embargos de declaração opostos pela recorrente de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pelo recorrente não demonstram como o acórdão recorrido violou os arts. 4º e 54, §4º, do CDC, art. 369 do CPC/15, art. 757 do CC/02 e art. 15, parágrafo único, do Estatuto do Idoso, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 369 do CPC/15 e art. 757 do CC/02, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+O recorrente não impugnou o fundamento utilizado pelo TJ/SP de que o Estatuto do Idoso seria inaplicável. Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de abusividade dos reajustes aplicados, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+- Da Súmula 568/STJ
+Ademais, as duas Turmas de Direito Privado do STJ entendem que, em princípio, é idôneo o reajuste de mensalidade de plano de saúde coletivo em razão da mudança de faixa etária do participante, pois com o incremento da idade há o aumento do risco de a pessoa vir a necessitar de serviços de assistência médica. E, para evitar abusividades, esta Corte consolidou o entendimento de que devem ser observados alguns parâmetros, como a expressa previsão contratual, não aplicação de índices de reajuste desarrazoados e que onerem excessivamente o consumidor, em manifesto confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso. Nesse sentido: REsp 1.280.211/SP, 2ª Seção, julgado em 23/04/2014, DJe de 04/09/2014; REsp 1.673.366/RS, 3ª Turma, DJe de 21/08/2017; AgRg no AREsp 558.918/SP, 3ª Turma, DJe de 22/10/2015; e AgInt nos EDcl no AREsp 1.073.880/SP, 4ª Turma, DJe de 19/06/2017.
+Na hipótese, o TJ/SP, ao examinar as cláusulas contratuais e as provas dos autos, e atento aos parâmetros estabelecidos pelo STJ, não vislumbrou abusividade nos aos reajustes aplicados. E tais conclusões, por força do disposto nas súmulas 5 e 7/STJ, não podem ser alteradas nesta instância.
+Na hipótese, o Tribunal de origem decidiu em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 para R$ 2.500,00.
+Publique-se. Intimem-se.
