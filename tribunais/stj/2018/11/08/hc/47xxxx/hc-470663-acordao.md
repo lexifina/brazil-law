@@ -1,0 +1,37 @@
+EMENTA
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. NUMERAÇÃO SUPRIMIDA. LAUDO PERICIAL. EQUÍVOCO QUE NÃO É SUFICIENTE PARA AFASTAR A MATERIALIDADE DELITIVA. EXCESSO DE PRAZO. INCIDÊNCIA DA SÚMULA N. 52 DO STJ. ORDEM DENEGADA.
+1. Para a decretação da prisão preventiva faz-se necessária a indicação de pressupostos fáticos que confirmem a existência de um crime e de fundadas razões de autoria ou participação do acusado, além da necessidade da medida cautelar, traduzida em algumas expressões referidas no art. 312 do CPP.
+2. Não é ilegal a decisão que, para evidenciar a prova de materialidade do delito de porte ilegal de arma de fogo com numeração suprimida, faz referência a auto de apreensão e fotografia. Equívoco na juntada de laudo pericial ao processo não demonstra a falta de justa causa da cautela, pois, mesmo se não comprovada a eliminação de número de série, os fatos descritos na denúncia ainda são típicos e podem ser subsumidos ao art. 14 do Estatuto do Desarmamento.
+3. Encerrada a instrução processual, encontra-se superada a matéria relativa à ilegalidade da prisão preventiva por excesso de prazo para a formação da culpa, conforme verbete n. 52 da Súmula do STJ.
+4. Ordem denegada.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2126602-75.2018.8.26.00000).
+A Defensoria Pública busca a revogação ou o relaxamento da prisão preventiva do paciente, denunciado como incurso no art. 16, parágrafo único, IV, da Lei n. 10.826/2003. Argumenta não haver prova da materialidade delitiva, pois são divergentes a narrativa acusatória e a imagem constante do laudo pericial que traz a sequência numérica da arma de fogo. Aponta, ainda, a ocorrência de excesso de prazo para o encerramento da instrução criminal.
+Indeferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão da ordem.
+EMENTA
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. NUMERAÇÃO SUPRIMIDA. LAUDO PERICIAL. EQUÍVOCO QUE NÃO É SUFICIENTE PARA AFASTAR A MATERIALIDADE DELITIVA. EXCESSO DE PRAZO. INCIDÊNCIA DA SÚMULA N. 52 DO STJ. ORDEM DENEGADA.
+1. Para a decretação da prisão preventiva faz-se necessária a indicação de pressupostos fáticos que confirmem a existência de um crime e de fundadas razões de autoria ou participação do acusado, além da necessidade da medida cautelar, traduzida em algumas expressões referidas no art. 312 do CPP.
+2. Não é ilegal a decisão que, para evidenciar a prova de materialidade do delito de porte ilegal de arma de fogo com numeração suprimida, faz referência a auto de apreensão e fotografia. Equívoco na juntada de laudo pericial ao processo não demonstra a falta de justa causa da cautela, pois, mesmo se não comprovada a eliminação de número de série, os fatos descritos na denúncia ainda são típicos e podem ser subsumidos ao art. 14 do Estatuto do Desarmamento.
+3. Encerrada a instrução processual, encontra-se superada a matéria relativa à ilegalidade da prisão preventiva por excesso de prazo para a formação da culpa, conforme verbete n. 52 da Súmula do STJ.
+4. Ordem denegada.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+O paciente foi preso no dia 30/12/2017, porque portava uma "arma de fogo, de uso permitido,  .. , de numeração suprimida", "conforme auto de exibição e apreensão de fls. 11 e fotografia de fls. 13" (fl. 172).
+O Juiz de primeiro grau converteu o flagrante em prisão preventiva, haja vista a periculosidade do réu, evidenciada por seu histórico criminal, uma vez que o acusado "já foi condenado por roubo e furto" e, "indultado no final do ano passado, obteve liberdade no início do ano" e "agora já voltou, ao menos aparentemente, a se envolver com o crime" (fl. 81).
+II. Materialidade
+Em relação à materialidade do delito, narra a denúncia que a polícia apreendeu a arma de fogo com numeração suprimida, conforme consta em auto de exibição e fotografia. Isso é suficiente para lastrear a medida cautelar extrema.
+A insurgência da defesa, relacionada à impugnação do laudo pericial, deve ser decidida no processo de conhecimento, sob o crivo do contraditório. O habeas corpus não admite dilação probatória, para fins de resolução de matéria fática, pois seu rito sumaríssimo não permite nem sequer a oitiva da parte adversa da ação penal.
+O Magistrado natural da causa solicitou "esclarecimentos à Superintendência da Polícia Técnico-Científica acerca da divergência do número de lacre indicado no laudo pericial n. 9.923/2018 e aquele indicado no auto de exibição e apreensão de fls. 10" (fl. 208). De acordo com o Tribunal, "houve aparente equívoco material na juntada do laudo questionado", o que não demonstra a "inexistência de prova da materialidade delitiva, que se encontra indiciariamente demonstrada por outros documentos" (fl. 208).
+Dessarte, mesmo se não for possível, por meio de perícia, identificar a supressão do número de série da arma de fogo, a conduta do agente não será atípica, a afastar a justa causa para a medida cautelar. Nos moldes da narrativa acusatória, ainda será possível subsumir os fatos ao art. 14 do Estatuto do Desarmamento, a merecer a correspondente responsabilização penal.
+III. Excesso de prazo
+O paciente está preso desde o dia 30/12/2017 e, por meio de consulta telefônica, o gabinete pôde verificar que ocorreu o encerramento da instrução criminal dos Autos n. 0003354-66.2017.8.26.0542. O processo está concluso ao Juízo da 2ª Vara Criminal de Osasco para a sentença, desde 12/9/2018.
+Nesse cenário, é forçoso concluir que, "encerrada a instrução processual, com a apresentação de alegações finais e estando o feito concluso para sentença, fica superada a alegação de excesso de prazo na formação da culpa, incidindo ao caso a Súmula n. 52 deste Superior Tribunal de Justiça" (HC n. 452.343/TO, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 9/10/2018).
+Deveras: "Encerrada a instrução processual e encontrando-se os autos conclusos para sentença, aplicável o enunciado da Súmula 52 do STJ, que dispõe: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (HC n. 429.880/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 4/9/2018).
+Não há, ao menos por ora, manifesta irrazoabilidade apta a justificar o afastamento da Súmula n. 52 do STJ. A denúncia foi recebida em 23/1/2018 e, desde então, o Juiz deu seguimento ao rito processual sem sinais de desídia ou delonga injustificada. A defesa apresentou resposta à acusação no dia 3/5/2018 e, depois da ratificação do recebimento da exordial acusatória, designou-se audiência de instrução para 20/6/2018.
+Uma testemunha da acusação deixou de comparecer em Juízo e foi necessário continuar a assentada no dia 20/8/2018. Ocorreu o interrogatório do réu e a instrução criminal está encerrada. O processo encontra-se concluso para sentença desde 12/9/2018. Nesse cenário, o prazo de prisão cautelar não parece injustificável.
+IV. Dispositivo
+À vista do exposto, denego o habeas corpus.
