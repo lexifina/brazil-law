@@ -1,0 +1,9 @@
+EMENTA
+HABEAS CORPUS. OPERAÇÃO PAIVA LUZ. ORGANIZAÇÃO CRIMINOSA. ESTRUTURA ARMADA E VOLTADA PARA A PRÁTICA DE TRÁFICO INTERNACIONAL DE DROGAS. CONDENAÇÃO. APELAÇÃO DA ACUSAÇÃO PROVIDA PARCIALMENTE NA ORIGEM COM ALTERAÇÃO DA PENA. PRETENSÃO DE RECONHECIMENTO DE NULIDADES E DE REDUÇÃO DA REPRIMENDA. INSTÂNCIA A QUO NÃO ESGOTADA. PENDÊNCIA DE APRECIAÇÃO DE EMBARGOS DE DECLARAÇÃO PELO TRIBUNAL REGIONAL.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Neste writ, alega-se que [NOME] sofre constrangimento ilegal decorrente do julgamento da Apelação Criminal n. 0000024-63.2015.4.03.6117 pelo Tribunal Regional Federal da 3ª Região. E busca-se,
+considerando-se a desproporcionalidade e desarrazoabilidade constatadas no quantum de pena imposto ao ora Paciente e seus fundamentos ensejadores - em breve resumo, as circunstâncias judicias imprecisas e malferidas na primeira fase; a nulidade das agravantes aventadas na segunda fase; e, a vedação à dupla punição consubstanciada pela manutenção da causa de aumento do §4º, inciso V, em nítida violação a proibição de excesso, cominando a uma pena exasperada cinco anos acima do máximo legal - bem como, tendo em vista reconhecida a inidoneidade da decisão proferida pelo E. Tribunal Federal, e, aferindo-se a possibilidade de readequação do v. acórdão combatido, ainda que de ofício, aguarda-se SEJA CONCEDIDA A ORDEM para que, decotando-se os excessos já delineados, e que por consequência ensejam na nulidade do v. acórdão combatido, seja corrigida a decisão e redimensionada a reprimenda do ora Paciente.
+Sucede, no entanto, que o ora paciente opôs embargos de declaração na origem, conforme fls. 1.168/1.190, e não há notícia acerca do julgamento desse recurso. Ao que parece, a instância ordinária não está encerrada, então a competência desta Corte para analisar as ditas ilegalidades não está aberta.
+Pelo exposto, indefiro liminarmente a petição inicial.
+Publique-se.
