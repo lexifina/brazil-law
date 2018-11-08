@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO DA DECISÃO RECORRIDA. NÃO OCORRÊNCIA. DIREITO DE IMAGEM. REVISÃO DO ABUSO DO DIREITO DE INFORMAÇÃO E DA IDENTIFICAÇÃO DA PARTE CUJA IMAGEM FOI DIVULGADA SEM AUTORIZAÇÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por METRÓPOLES MÍDIA E COMUNICAÇÃO LTDA. contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. DIVULGAÇÃO DE IMAGEM. NECESSIDADE DE PRÉVIA AUTORIZAÇÃO. ABUSO DO DIREITO DE INFORMAR. DANO MORAL CONFIGURADO. VALOR DA COMPENSAÇÃO. SUCUMBÊNCIA DO AUTOR. INEXISTÊNCIA.
+I. O direito à imagem foi elevado à categoria de direito fundamental pelos incisos V e X do artigo 5º da Constituição da República e sua violação tem como consequência a reparação dos danos materiais e morais ocasionados.
+II. Acarreta dano moral divulgação de fotografia de caráter reservado em matéria jornalística sem autorização da pessoa retratada, ainda que o rosto tenha sido preservado, máxime em se tratando de fotografia de pessoa nua de conteúdo artístico.
+III. O fato de a fotografia ter sido divulgada pela própria pessoa no facebook, para os fins e destinatários por ela escolhidos, não autoriza o seu uso indiscriminado por qualquer órgão ou veículo de imprensa.
+IV. Ante as particularidades do caso concreto e em atenção ao princípio da razoabilidade, a compensação do dano moral deve ser elevada para R$ 20.000,00.
+V. O fato de que na ação que tem por objeto compensação de dano moral o valor da causa deve corresponder ao "valor pretendido", tal como dispõe o artigo 292, inciso V, do Código de Processo Civil, não autoriza a conclusão de que o arbitramento do quantum compensatório em patamar inferior àquele pleiteado na petição inicial traduz sucumbência do demandante.
+VI. Recurso da Ré desprovido. Recurso do Autor provido parcialmente.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões de recurso especial, interposto com base no art. 105, III, a, da CF, a recorrente alegou violação dos seguintes dispositivos legais:
+a) art. 1.022, II, ante a omissão do TJDFT ao deixar de analisar a ausência de identificação da parte recorrida, cujos rosto, nome e demais dados pessoais não foram revelados; e
+b) art. 20 do CC, defendendo a ausência de ferimento da honra ou dignidade da parte recorrida, sob os argumentos de ter elaborado matéria substancialmente informativa e sem a identificação de nenhuma forma do recorrido.
+Contrarrazões apresentadas às fls. 283-291 (e-STJ).
+Em decorrência da inadmissão do recurso pela origem, foi interposto o presente agravo, o qual é objeto de contraminuta às fls. 310-315 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal local enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Aplicável, portanto, o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Com efeito, o Tribunal de origem concluiu pela utilização indevida da imagem do ora recorrido, com fundamento na utilização não autorizada de foto íntima da parte que permitiu a sua identificação, ainda que o rosto estivesse preservado, em matéria que abusou do direito de informação, seja porque seu uso não era necessário para contextualização dos fatos noticiados, seja porque foi subvertido o cunho artístico original da imagem publicada (e-STJ, fls. 216-219).
+Desse modo, é inviável o conhecimento da pretensão recursal remanescente, pois o acolhimento dos argumentos nos quais está baseada - a natureza informativa da matéria e a ausência de identificação do recorrido - não prescindiria do reexame direto das provas para afastar as supracitadas conclusões fáticas estabelecidas no acórdão recorrido em sentido contrário ao pretendido pela recorrente, providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
