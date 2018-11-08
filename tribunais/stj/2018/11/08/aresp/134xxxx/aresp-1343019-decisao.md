@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Município de São Bernardo do Campo, com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos (e-STJ, fl. 230):
+APELAÇÃO CÍVEL - Ação de obrigação de fazer - IPTU dos exercícios de 2002 a 2004 - Imóvel arrematado em hasta pública em 15/2/2005 - Inexistência de responsabilidade do arrematante por débitos anteriores à arrematação - Pretensão de obtenção de certidão negativa de débitos em nome do arrematante relativa ao período anterior à arrematação - Possibilidade - Sub-rogação dos créditos tributários sobre o preço da arrematação - Inteligência do art. 130, § único do CTN - Municipalidade mesma afirma que na inscrição imobiliária aqui discutida não havia débitos em nome do apelado - Honorários advocatícios recursais - Sentença proferida em 15/4/2016, sob a égide do CPC/2015 - Majoração da verba honorária - Possibilidade - Inteligência do § 30 , inciso I e do § 11, do art. 85 do CPC/2105 - Honorários majorados para R$ 1.100,00 (um mil e cem Reais) - Sentença mantida - Recurso do Município não provido.
+Não houve oposição de embargos de declaração.
+Alega o agravante, nas razões do recurso especial, além de dissídio jurisprudencial, a existência de violação dos arts. 130 e 111 do CTN.
+Nessa esteira, sustenta que "a compra e venda da parcela do imóvel objeto de anterior adjudicação (fração de 5,7% do total e que carregava toda a dívida do imóvel, por solidariedade da proprietária anterior, que não era arrematante e sim adjudicatária), terá sido, por analogia, equiparada à arrematação, em nítida afronta aos comandos do artigo 111, do Código Tributário Nacional, conforme tem alertado o Município desde sua contestação" (e-STJ fl. 247).
+A negativa de admissibilidade teve por fundamento o óbice da Súmula 7/STJ.
+É o relatório.
+Quanto ao art. 110 do CTN e à tese de que teria ocorrido a compra e venda da parcela do imóvel objeto de anterior adjudicação (fração de 5,7% do total), tem-se que referida questão não foi objeto de análise, nem sequer implicitamente, pela instância de origem.
+Dessa forma, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal com base no art. 105, III, "a", da Constituição.
+Se a parte recorrente entendesse existir alguma omissão, contradição ou obscuridade no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal de origem, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. E, caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 535 do CPC por ocasião da interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Incide ao caso, portanto, o disposto nos enunciados 282 e 356 da Súmula do STF, a seguir transcritas:
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada."
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Sobre o tema, os seguintes precedentes jurisprudenciais das Turmas que compõem a Primeira Seção desta Corte:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - PRESCRIÇÃO - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF - MATÉRIA DE ORDEM PÚBLICA - NECESSIDADE DE PREQUESTIONAMENTO - PRECEDENTES - RECURSO QUE NÃO REFUTA OS FUNDAMENTOS DA DECISÃO AGRAVADA - INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. É inadmissível o recurso especial quanto a questão não decidida pelo Tribunal de origem, por falta de prequestionamento. Aplicação das Súmulas 282 e 356/STF.
+2. O entendimento desta Corte é o de que mesmo as questões de ordem pública precisam estar prequestionadas para serem analisadas em sede de recurso especial. Precedentes.
+3. A decisão monocrática aplicou com acerto o raciocínio da Súmula nº 182 do STJ, uma vez que a parte agravante deixou de impugnar, especificamente, os pontos que serviram de arrimo para obstar a subida do recurso especial.
+4. Agravo regimental não provido.
+(AgRg no AREsp 201.596/AP, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, julgado em 2/5/2013, DJe 10/5/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
