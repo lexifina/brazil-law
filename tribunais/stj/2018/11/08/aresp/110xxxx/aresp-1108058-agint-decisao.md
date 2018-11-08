@@ -1,0 +1,20 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGIME GERAL DE PREVIDÊNCIA SOCIAL. LEGITIMIDADE DO PENSIONISTA EM REQUERER REVISÃO DO BENEFÍCIO ORIGINÁRIO. REFLEXOS FINANCEIROS NO BENEFÍCIO DO QUAL É TITULAR. LEGITIMIDADE QUE NÃO SE ESTENDE AOS SUCESSORES DO PENSIONISTAS. IMPOSSIBILIDADE DE REQUERER EM NOME PRÓPRIO DIREITO ALHEIO. AGRAVO INTERNO DO PARTICULAR PROVIDO PARA, CONTUDO, NEGAR PROVIMENTO AO SEU AGRAVO EM RECURSO ESPECIAL.
+1. Cuida-se de Agravo Interno interposto por [NOME] em face de decisão exarada pela Presidência desta Corte que não conheceu de seu Agravo em Recurso Especial, ao fundamento de que não houve impugnação quanto à incidência da Súmula 83/STJ.
+2. Em suas razões defende que a decisão de admissibilidade foi devidamente enfrentada. Pugna, ainda, pelo exame das razões lançadas no Recurso Especial.
+3. É o relatório.
+4. De início, cumpre registrar que não desconheço os óbices sumulares desta Corte, que apregoam o formalismo técnico no exame do Recurso Especial, ouso defender, contudo, que a análise da matéria aqui tratada seja ajustada a esses novos tempos trazidos pelo Novo Código de Processo Civil, que prima pelo julgamento do mérito e do máximo aproveitamento processual, em detrimento do rito processual hígido.
+5. Essa nova legislação processual mostra-se adequada à atualidade, contrária ao formalismo juspositivo que assola ainda nossos tempos, trazendo ao sistema jurídico, a força normativa necessária que conduzirá, sem dúvida, a uma revolução na dinâmica das atividades dos julgadores.
+6. Destarte, o formalismo positivista deixou de ser obstáculo ao provimento jurisdicional justo e equânime. O art. 488 do Código Fux é claro ao determinar que, mesmo havendo um defeito no processo, o Juiz não deve valorá-lo de forma absoluta, se a causa puder ser julgada no mérito em favor daquele que não seria contemplado com decisão de seu interesse caso proferida a decisão de inadmissibilidade, constatado um vício vencível.
+7. Ademais, a revaloração dos critérios jurídicos utilizados na apreciação de fatos tidos por incontroversos pelas instâncias ordinárias não constituiu reexame de provas, sendo perfeitamente admitida na via do Recurso Especial.
+8. Nestes termos, passo à análise do Recurso Especial interposto.
+9. O acórdão recorrido não destoa do entendimento jurisprudencial desta Corte.
+10. De fato, é assente no STJ que o titular de pensão por morte possui legitimidade para pleitear, em nome próprio, o direito alheio concernente à revisão do benefício previdenciário recebido pelo Segurado instituidor da pensão, conforme art. 112 da Lei 8.213/1991, isso porque tal revisão refletirá, diretamente no valor da pensão por morte, assim, não há que se falar em ausência de legitimidade do pensionista.
+11. Contudo, essa legitimidade não se transmite ao sucessores do pensionista, vez que não é admissível pleitear direito alheio em nome próprio. No caso, o sucessor do pensionista não é titular de benefício, assim, a revisão não lhe aproveita.
+12. Confirmando tal orientação, o seguinte julgado:
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. AÇÃO PROPOSTA PELA ESPOSA PARA PLEITEAR APOSENTADORIA POR INVALIDEZ DO DE CUJUS. DIREITO PERSONALÍSSIMO. BENEFÍCIO NÃO REQUERIDO PELO TITULAR DO DIREITO. INAPLICABILIDADE DO ART. 112 DA LEI 8.213/1991. ILEGITIMIDADE ATIVA CONFIGURADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O direito à concessão de benefício previdenciário é personalíssimo.
+2. O de cujus não buscou em vida a concessão de aposentadoria por invalidez na via administrativa e nem na via judicial, razão pela qual não se aplica ao caso em tela o disposto no art. 112 da Lei nº 8.213/1991, que prevê a legitimidade dos sucessores para postular em juízo o recebimento de valores devidos e não recebidos em vida pelo de cujus, independentemente de inventário.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.107.690/SC, Rel. Min. ALDERITA RAMOS DE OLIVEIRA, DJe 13.6.2013).
+13. Ante o exposto, dá-se provimento ao Agravo Interno para, contudo, negar provimento ao Agravo em Recurso Especial do Particular.
+14. Publique-se. Intimações necessárias.
