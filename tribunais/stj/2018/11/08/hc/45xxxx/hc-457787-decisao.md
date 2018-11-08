@@ -1,0 +1,31 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERE LIMINAR EM OUTRO WRIT. SUPERAÇÃO DO ÓBICE DO ENUNCIADO N. 691/STF. NECESSIDADE. CRIMES PREVISTOS NO CÓDIGO DE TRÂNSITO BRASILEIRO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2128281-13.2018.8.26.0000).
+Infere-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, no dia 24/6/2018, pela suposta prática dos crimes previstos nos arts. 303, 306 e 309, todos do Código de Trânsito Brasileiro (fls. 14/15).
+Impetrado prévio writ no Tribunal de origem, a liminar foi indeferida pela Desembargadora relatora em 26/6/2018 (fls. 16/17).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Aduz-se que o paciente é primário e possui bons antecedentes.
+Sustenta-se a superação da súmula 691 do Supremo Tribunal Federal, em razão da flagrante ilegalidade perpetrada contra o paciente.
+Requer-se a concessão da ordem para que seja revogada a custódia cautelar do paciente ou, subsidiariamente, aplicadas medidas cautelares diversas da prisão.
+O pedido liminar foi deferido, em 13/7/2018, pela Presidente desta Corte, Ministra Laurita Vaz (fls. 39/43).
+Os autos me foram distribuídos por prevenção ao HC n. 456.853/SP manejado em favor do paciente e que foi julgado prejudicado em 31/8/2018.
+Prestadas informações às fls. 47/66 e 71/75, o Ministério Público Federal opinou pela concessão da ordem para aplicar medidas cautelares diversas da prisão (fl. 77).
+É o relatório.
+Em regra, não se admite habeas corpus contra decisão que indeferiu pedido de liminar em writ impetrado perante o Tribunal a quo, ainda não julgado. Apesar disso, o caso revela excepcionalidade apta a justificar a superação do óbice previsto na Súmula 691/STF.
+Basta uma rápida leitura da decisão tomada pelo Juízo de primeiro grau para perceber a ausência de fundamentação idônea para a prisão cautelar do paciente. Veja-se (fls. 14/15):
+ ..
+A somatória das penas máximas impostas chega a 06 anos e assim cabível a decretação da prisão preventiva, nos termos do artigo 313, I, do Código de Processo Penal, mesmo para a forma tentada. Ausentes os requisitos para concessão de liberdade provisória. Ademais, não há nenhuma garantia de que a lei penal será aplicada em caso de condenação, não sendo o caso também de arbitramento de fiança. Por fim, a própria ordem pública exige a decretação da prisão preventiva, pois inconcebível para as pessoas comuns verem novamente na rua o conduzido depois da prisão em flagrante por embriaguez ao volante, falta de habilitação e envolvimento em acidente com lesão corporal culposa na vítima. A existência do crime e os indícios de que o conduzido" o cometeu estão comprovados nos autos. Presente, pois os fundamentos e requisitos para decretação de sua prisão preventiva, não cabendo liberdade provisória. A prisão em flagrante do conduzido se reveste de legalidade e presentes os motivos previstos em lei deve ser convertida em prisão preventiva. Isto posto, converto a prisão em flagrante em prisão preventiva, expedindo-se o necessário.
+O pedido liminar formulado pela defesa no writ originário foi indeferido, nestes termos (fls. 16/17):
+ ..
+A medida liminar em Habeas Corpus somente é cabível quando o constrangimento ilegal for manifesto, detectado de imediato através do exame sumário da inicial e dos documentos que a instruem, o que não ocorre no presente caso.
+E impossível se admitir pela via provisória da decisão liminar a pronta solução da questão de fundo, sendo certo que essa medida não se presta a antecipar a tutela jurisdicional.
+Com efeito, não se verifica nas decisões mencionadas nenhuma indicação do modo como o paciente efetivamente colocaria em risco a ordem pública, a aplicação da lei penal e a instrução criminal. Utilizou-se o Juízo singular de argumentos vagos para justificar a segregação cautelar, destacando elementos configuradores dos crimes em questão.
+Logo, com razão o Subprocurador-Geral da República [NOME], cujo parecer adoto, também, como razões de decidir (fl. 77):
+ ..
+O Ministério Público Federal vem, nos autos do processo em epígrafe, manifestar-se pela mitigação da Súmula 691, em face de flagrante ilegalidade, uma vez que a prisão preventiva do acusado, pelos crimes previstos nos artigos 303, 306 e 309, todos do Código de Trânsito Brasileiro, revela fundamentação inidônea, visto que amparada somente na gravidade genérica do delito, sendo recomendável a aplicação das medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+É cediço que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir baseada em fundamentação concreta, sendo insuficientes os próprios termos da imputação e outras generalidades, não se desligando de um viés puramente abstrato, incompatível com o disposto no inciso IX do artigo 93 da Constituição Federal.
+Por fim, importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+Ante o exposto, à vista do parecer, ratificando a liminar deferida, concedo a ordem para substituir a prisão preventiva de [NOME] por medidas alternativas, a serem implementadas pelo Juízo de origem, consistentes em: a) comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades; e b) proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução, sem prejuízo da aplicação de outras cautelares ou de decretação da prisão preventiva em caso de descumprimento de qualquer das obrigações impostas ou de superveniência de motivos novos e concretos para tanto.
+Publique-se.
