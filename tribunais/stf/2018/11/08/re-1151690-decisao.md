@@ -1,0 +1,18 @@
+DESPACHO
+     Este Supremo Tribunal submeteu as questões trazidas no presente processo à sistemática da repercussão geral:
+    a) Tema 313, Recurso Extraordinário n. 626.489: repercussão geral reconhecida e mérito julgado;
+    b) Tema 660, Recurso Extraordinário com Agravo n. 748.371: ausência de repercussão geral, e
+    c) Tema 810, Recurso Extraordinário n. 870.947: repercussão geral reconhecida e mérito julgado.
+    Anote-se que a jurisprudência da Corte é pacífica no sentido de que a existência de precedente firmado por seu Tribunal Pleno autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma. Vide:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REAFIRMAÇÃO DA JURISPRUDÊNCIA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. RE 855.178-RG. JULGAMENTO IMEDIATO. POSSIBILIDADE. TRÂNSITO EM JULGADO. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE nº 909.527/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/5/16).
+    “Agravo regimental em recurso extraordinário. 2. Direito Processual Civil. 3. Insurgência quanto à aplicação de entendimento firmado em sede de repercussão geral. Desnecessidade de se aguardar a publicação da decisão ou o trânsito em julgado do paradigma. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental” (RE n° 1.129.931/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 27/8/18).
+    Entretanto, o eminente Ministro Luiz Fux, Relator do RE nº 870.947/SE, conferiu efeito suspensivo aos embargos de declaração por meio dos quais se busca a modulação dos efeitos da decisão tomada pelo Plenário desta Suprema Corte, o que impõe, excepcionalmente, diante dessa peculiaridade, que se aguarde o julgamento dos referidos embargos declaratórios pelo Plenário do STF para que a Corte de origem aplique a sistemática da repercussão geral no caso em tela.
+    Pelo exposto, nos termos da al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal, determino a devolução destes autos ao Tribunal de origem, para:
+    a) quanto ao Tema 313, observar o procedimento previsto nos incs. I e II do art. 1.030 do Código de Processo Civil;
+    b) quanto ao Tema 660, observar o procedimento previsto na al. a do inc. I do art. 1.030 do Código de Processo Civil, e
+    c) quanto ao Tema 810, observar, após a conclusão do julgamento dos embargos de declaração no RE nº 870.947/SE, o procedimento previsto nos incs. I e II do art. 1.030 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 8 de novembro de 2018.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
