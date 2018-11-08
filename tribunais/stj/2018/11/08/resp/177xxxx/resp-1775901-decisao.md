@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 189):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. SERVIDOR APOSENTADO. GRATIFICAÇÃO "GACEN". AÇÃO PARTICULAR. CIÊNCIA INEQUÍVOCA DA EXISTÊNCIA DE DEMANDA COLETIVA SOBRE A MESMA QUESTÃO. AUSÊNCIA DE PEDIDO DE SUSPENSÃO DA AÇÃO INDIVIDUAL, NA FORMA DO ART. 104 DO CDC. PROJEÇÃO DOS EFEITOS DA AÇÃO COLETIVA NA AÇÃO INDIVIDUAL. INEXISTÊNCIA. INDEFERIMENTO DA PETIÇÃO INICIAL E EXTINÇÃO DO FEITO EXECUTÓRIO. PROVIMENTO DO AGRAVO DE INSTRUMENTO.
+1. Agravo de instrumento contra decisão que deferiu pedido de cumprimento de sentença coletiva que reconhece aos servidores aposentados e pensionistas da FUNASA o direito ao recebimento da gratificação GACEN no mesma pontuação dos servidores ativos.
+2. Comprovação nos autos de que o exequente, representado pelo mesmo advogado do Sindicato autor da ação coletiva, no curso desta, ajuizou ação individual sobre a mesma questão - o recebimento da GACEN na condição de aposentado, nas mesmas condições dos servidores ativos -, não podendo alegar desconhecimento do processo coletivo a fim de requer a suspensão prevista no art. 104 do CDC (Lei 8.078/90).
+3. "A ausência de pedido do autor da ação individual para que esta fique suspensa até o julgamento da ação coletiva, consoante autoriza o art. 104 do CDC, afasta a projeção de efeitos da ação coletiva na ação individual, de modo que cada uma das ações terá desfecho independente, não havendo que se falar em risco de decisões conflitantes a ensejar a reunião dos feitos." - STJ, AgInt no AREsp 655.388/RO.
+4. Inocorrência da incidência dos efeitos da coisa julgada da ação coletiva em favor do apelante, a legitimá-lo ao manejo da execução, a teor do que dispõe o art. 104 da Lei 8.078/90.
+5. Agravo de instrumento provido.
+A parte recorrente aponta violação ao art. 104 da Lei nº 8.078/90. Sustenta ser imprescindível a intimação pessoal do autor no feito individual, a fim de que este tome ciência da existência da ação coletiva e possa optar pela continuidade daquela ou não (fl. 198). Assevera que tal notificação há de ser formal, efetuada no processo individual, como preconiza a melhor doutrina (fl. 198).
+É o relatório.
+O inconformismo não prospera.
+Com efeito, observa-se que o Tribunal de origem não se manifestou sobre a tese de que é imprescindível a intimação pessoal do autor no feito individual, a fim de que este tome ciência da existência da ação coletiva e possa optar pela continuidade daquela, ou não, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
