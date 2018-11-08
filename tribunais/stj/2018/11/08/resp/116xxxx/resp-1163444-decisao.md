@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 81):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO. CITAÇÃO POR EDITAL. REQUISITOS. PUBLICAÇÃO DO EDITAL APENAS NA IMPRENSA OFICIAL. SUFICIÊNCIA. NULIDADE INEXISTENTE. RECURSO DESPROVIDO.
+1. A regra do art 232, inc. III, do Código de Processo Civil, segundo a qual o edital de citação, além de ser publicado na imprensa oficial, deve ser publicado, ao menos por duas vezes, em jornal loca, não se aplica às ações civis públicas, já que incompatível com a norma contida no art 18 da Lei nº 7.347/85, que expressamente estabelece que não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, entre as quais, por óbvio, encontram-se as despesas necessárias à publicado do edital em jornal local.
+2. Nas ações civis públicas basta, como já ocorre nas causas em que figura como parte beneficiário da assistência judiciária gratuita, a publicação do edital de citação apenas e tão-somente no órgão de imprensa oficial.
+Sem embargos de declaração.
+O recorrente alega, além de dissídio jurisprudencial, violação do art. 232 do CPC/1973, porquanto o Ministério Público deve publicar em jornal a citação por edital na ação civil pública.
+Contrarrazões às e-STJ, fls. 111/116.
+Parecer do Ministério Público Federal às e-STJ, fls. 142/143.
+É o relatório.
+A irresignação não merece acolhida.
+Com efeito, o Tribunal de origem resolveu a controvérsia dos autos também com amparo no seguinte fundamento (e-STJ, fls. 85/86):
+Ao lado disso, importante ser lembrado que a regra do art. 19 da Lei da Ação Civil Pública - Lei nº 7.347/85 - expressamente estabelece que somente as disposições do Código de Processo Civil que não contrariem as disposições nela previstas é que podem ser aplicadas à ação civil pública. A mencionada norma dispõe:
+"Art. 19. Aplica-se à ação civil pública, prevista nesta lei, o Código de Processo Civil, aprovado pela Lei nº 5.869, de 11 de janeiro de 1973, naquilo em que não contrarie suas disposições"
+Como a norma do art. 232, inc. III, do Código de Processo Civil, é contrária à regra do art. 18 da Lei da Ação Civil Pública, certo ser afirmado que não se aplica às citações por edital realizadas em ação civil pública.
+No entanto, a insurgência deixou incólume tal justificativa.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. DETRAN/PE. DEFICIENTE FÍSICO. ALTERAÇÃO DA LEI QUE CONSIDERAVA O CANDIDATO COMO DEFICIENTE, DURANTE O CONCURSO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. DEFICIÊNCIA FÍSICA RECONHECIDA, PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 12/02/2016, contra decisão publicada em 02/02/2016.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). No caso, a parte recorrente deixou de impugnar o fundamento do acórdão recorrido, no sentido de que "a junta médica do certame em apreço aplicou a literalidade do supracitado Decreto 5296/04, o qual não estava em vigor na data da publicação do edital do certame em questão, entendendo pela desclassificação do candidato ora apelante por considerar que a sua surdez bilateral não se enquadrava na previsão de deficiência auditiva". Incidência da Súmula 283/STF.
+III. Ademais, tendo o acórdão recorrido concluído pela existência de perda auditiva bilateral, suficiente a enquadrar o autor como deficiente auditivo, nos termos da lei, aferir a existência da perda auditiva, em Recurso Especial, demandaria o reexame do conteúdo fático-probatório dos autos, providência vedada, em sede de Recurso Especial, ante o óbice da Súmula 7/STJ.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1.504.904/PE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/4/2016, DJe 19/4/2016 - grifos acrescidos)
+Ademais, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+No aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. COISA JULGADA. VIOLAÇÃO. MATÉRIA FÁTICA. REEXAME. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DEMAIS QUESTÕES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO. SIMILITUDE FÁTICA. NÃO EVIDENCIADA.
+1. A Corte de origem entendeu que houve efetivo descumprimento da sentença prolatada em ação civil pública, de modo que a revisão das conclusões do acórdão recorrido demandaria necessário revolvimento dos aspectos fáticos da lide, além de reanálise das cláusulas contratuais, o que é vedado nesta via recursal ante o disposto nas Súmulas nºs 5 e 7/STJ.
+2. O simples acolhimento dos aclaratórios na origem, sem que haja expresso pronunciamento, mesmo que implícito, a respeito das normas indicadas nos dispositivos legais indicados como malferidos no recurso especial, não é suficiente para fins de considerar prequestionada a matéria (Súmula nº 211/STJ).
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp 610.722/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/6/2016, DJe 2/8/2016 - (grifos acrescidos).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
