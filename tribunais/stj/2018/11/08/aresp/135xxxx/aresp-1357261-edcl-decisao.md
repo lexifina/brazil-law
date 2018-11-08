@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela União contra decisão que determinou o retorno dos autos à Corte de origem, para que, nos termos dos arts. 1.040 e 1.041 do CPC/2015, seja realizado o juízo de conformação do acórdão local frente ao que decidido pela Excelsa Corte e por este STJ no Recurso Especial Repetitivo nº 1.495.146/MG, relativamente à matéria discutida nos autos, qual seja a atualização monetária das condenações impostas à Fazenda Pública, nos termos do artigo 1º-F da Lei 9.494/1997, com as alterações previstas na Lei 11.960/2009.
+A embargante aponta a existência de omissão na decisão recorrida, pois deixou de considerar não ter ocorrido o trânsito em julgado do acórdão proferido pelo STF no RE 870.937/SE, em razão de terem sido opostos embargos declaratórios, com pedido de efeito suspensivo, objetivando a modulação dos efeitos do referido decisum.
+Requer, pois, que se aguarde a futura decisão da Corte Suprema, que resguardará e unificará todo o procedimento a ser seguido nos casos como o presente.
+Não houve impugnação às razões do recurso (fls. 490).
+É o relatório. Passo a decidir.
+De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado na decisão embargada que "ultimada a resolução da controvérsia em repercussão geral e em recurso especial repetitivo, resta patente que o presente caso não comporta solução na seara do presente recurso especial. Isso porque, nos termos do art. 1.040, II, do CPC/2015, após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos, "o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior"." (fl. 473)
+Conhece-se, ainda, não ter ocorrido o trânsito em julgado da decisão proferida pela Suprema Corte no recurso paradigmático, circunstância que reforça a necessidade de retorno dos autos ao Tribunal de origem, que deverá exercer, a seu tempo, o juízo de conformação de acordo com o entendimento definitivo firmado pela Corte Excelsa.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dospresentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no
+Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
