@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do ato atacado:
+    TRIBUTÁRIO. PARCELAMENTO OU PAGAMENTO À VISTA COM BENEFÍCIOS DA LEI Nº 11.941/2009. APROVEITAMENTO DO BENEFÍCIO MEDIANTE A TRANSFORMAÇÃO EM PAGAMENTO DEFINITIVO (CONVERSÃO EM RENDA) DE DEPÓSITO. IMPOSSIBILIDADE DE DEVOLUÇÃO DA DIFERENÇA ENTRE OS JUROS QUE REMUNERAM O DEPÓSITO JUDICIAL E OS JUROS DE MORA DO CRÉDITO TRIBUTÁRIO QUE NÃO FORAM OBJETO DE REMISSÃO.
+    1. Nos termos da jurisprudência do STJ, firmada em recurso especial representativo de controvérsia (REsp 1251513/PR, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 10/08/2011, DJe 17/08/2011), "a remissão de juros de mora insertos dentro da composição do crédito tributário não enseja o resgate de juros remuneratórios incidentes sobre o depósito judicial feito para suspender a exigibilidade desse mesmo crédito tributário. O pleito não encontra guarida no art. 10, parágrafo único, da Lei n. 11.941/2009. Em outras palavras: 'Os eventuais juros compensatórios derivados de supostas aplicações do dinheiro depositado a título de depósito na forma do inciso II do artigo 151 do CTN não pertencem aos contribuintes-depositantes.' (REsp. n.º 392.879 - RS, Primeira Turma, Rel. Min. Luiz Fux, julgado em 13.8.2002)".
+    2. Agravo legal improvido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. A óptica foi assentada por ambas as Turmas quanto ao tema sob exame. Confiram os seguintes julgados:
+    DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. DEPÓSITO JUDICIAL. CONVERSÃO EM RENDA. JUROS REMUNERATÓRIOS. RESGATE. LEI Nº 11.941/2009. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA.
+    1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes.
+    2. Agravo regimental a que se nega provimento.
+    (Agravo regimental no recurso extraordinário com agravo nº 894.187, relator ministro Luís Roberto Barroso, Primeira Turma, acórdão publicado no Diário da Justiça de 1º de março de 2016)
+    Agravo regimental no recurso extraordinário com agravo. Tributário. Conversão de depósito judicial em renda. Divergência de cálculo. Ofensa reflexa.
+    1. Para ultrapassar o entendimento do Tribunal de origem acerca da divergência de cálculo referente à conversão em renda de depósitos judiciais diante da adesão ao programa de anistia, seria necessário o reexame da causa à luz da legislação infraconstitucional pertinente (Lei nº 11.941/09, Portarias Conjuntas PGFN/RFB nºs 06/09 e 10/09), o que é incabível em sede de apelo extremo. Desse modo, a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame da questão em recurso extraordinário.
+    2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    (Agravo regimental no recurso extraordinário com agravo nº 1.046.079, relatado pelo ministro Dias Toffoli, Segunda Turma, com acórdão veiculado no Diário da Justiça de 23 de novembro de 2017)
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 8 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
