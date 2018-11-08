@@ -1,0 +1,70 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. QUEIMA DE FOGOS DE ARTIFÍCIO. FAGULHA QUE ATINGE O OLHO DIREITO DA VÍTIMA, CAUSANDO-LHE VÁRIAS LESÕES. PARCIAL PROCEDÊNCIA. RECURSO DA SEGURADORA. ARTS. 1022 E 1026, § 2º DO NCPC. MULTA. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. COBERTURA DE DANOS CORPORAIS OU PESSOAIS. ABRANGÊNCIA. DANOS MORAIS. CLÁUSULA DE EXCLUSÃO. INOBSERVÂNCIA. REFORMA DO ACÓRDÃO. SÚMULA Nº 402 DO STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA Nº 568 DESTA CORTE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+FERNANDA OLÍMPIA GOMES (FERNANDA) ajuizou ação indenizatória contra CLUBE CAMPESTRE DE ARAPONGAS (CLUBE).
+Narrou que aos 28/11/2010, por volta das 02h05min, observava a queima de fogos de artifício que ocorria nas dependências do réu, durante a festa conhecida como "Baile do Havaí", quando uma bomba expelida pelos canhões e rojões atingiu o seu olho direito; que em razão do incidente, sofreu lesões descritas como "queimadura corneana associado a múltiplas lesões internas" e "atrofia da retina central", resultando em perda de 80% (oitenta por cento) da visão afetada, além de quadro de depressão pós-traumático; em decorrência de tais fatos, requereu a condenação do réu ao pagamento de indenização por danos morais, danos materiais e pensão mensal, bem como dos ônus sucumbenciais.
+Houve denunciação à lide de SOMPO SEGUROS S.A (atual denominação de YASUDA MARÍTIMA SEGUROS (SEGURADORA).
+O Juízo sentenciante julgou improcedente a lide principal e julgou extinta a lide secundária, condenando a parte autora ao pagamento de custas, despesas processuais e honorários advocatícios.
+A Corte de origem deu parcial provimento ao apelo de FERNANDA, nos termos da ementa a seguir transcrita:
+APELAÇÃO CIVEL - AÇÃO INDENIZATÓRIA - BAILE DENTRO DO CLUBE CAMPESTRE, ORA RÉU SHOW DE FOGOS DE - FAISCA QUE CAI NO OLHO DIREITO DA PARTE AUTORA - PROVA TESTEMUNHAL E DOCUMENTAL QUE ATESTAM QUE A LESÃO NO OLHO DECORRE DE QUEIMADURA - NEXO DE CAUSALIDADE VERIFICADO - RESPONSABILIDADE OBJETIVA DO CLUBE - DEVER DE INDENIZAR VERIFICADO - DANOS MORAIS CABÍVEIS - FIXAÇÃO DO QUANTUM QUE DEVE LEVAR EM CONSIDERAÇÃO O AUXILIO FINANCEIRO PRESTADO PELO RÉU. LIDE SECUNDÁRIA. DANOS MORAIS QUE ESTÃO INCLUÍDOS NOS DANOS CORPORAIS. PROCEDÊNCIA. RECURSO PROVIDO (e-STJ, fls. 363).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 415/439 e 460/460).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, a SEGURADORA alegou, a par de dissídio jurisprudenical, violação dos arts. 1022 e 1026, § 2º do NCPC; 757, 860 e 781 do CC/02. Sustentou, em suma, (1) omissão quanto à validade da cláusula excludente para danos morais prevista na apólice de seguro; (2) a contratação securitária nã contempla cobertura para o risco decorrente de danos morais; e, (3) a inaplicabilidade da multa de 1% quando da interposição dos segundos embargos declaratórios ante a inexistência de caráter protelatório.
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 528/530 e 532/533).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9.3.2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (3) Da ofensa aos arts. 1022 e 1026, º do NCPC
+A SEGURADORA alegou que a Corte de origem não se manifestou sobre pontos essenciais ao desate da controvérsia, incorrendo em omissão, falta de fundação e negativa de prestação jurisdicional.
+Razão assiste à insurgência.
+O Tribunal a quo não enfrentou expressamente as questões suscitadas pela SEGURADORA, notadamente quanto à alegada excludente de ilicitude, consubstanciada na expressa exclusão de danos morais na apólice de seguros.
+De fato, a Corte de origem, no julgamento dos segundos embargos de declaração opostos pela SEGURADORA, atestou inexistir omissão, contradição, obscuridade ou erro material no acórdão recorrido, reconhecendo ter os embargos caráter nitidamente protelatório, especialmente por ter o Tribunal a quo, reconhecido que a seguradora teria o dever de indenizar porque o espécie "dano moral" estaria abarcada nos "danos corporais" previstos na apólice.
+Entretanto, quanto à aplicação da multa prevista no art. 1.026, § 2º, do NCPC, a insurgência recursal merece ser provida, pois foram opostos com o intuito de sanar contradição e/ou obscuridade no acórdão, que não observou a existência de cláusula expressa de excludente de cobertura.
+Nesse contexto, aplica-se a jurisprudência desta Corte no sentido de que a multa por embargos protelatórios, anteriormente prevista no art. 538, parágrafo único, do CPC/1973, deve ser afastada em virtude da incidência da Súmula nº 98 desta Corte de que "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Ressalto que o enunciado sumular vem sendo aplicado por esta Corte também sob a vigência do NCPC.
+Nesse sentido, a jurisprudência desta eg. Corte Superior:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE MORTE. ASSALTO A AGÊNCIA BANCÁRIA. TRANSAÇÃO EXTRAJUDICIAL FEITA EM NOME DA MÃE. QUITAÇÃO AMPLA E GERAL DAS OBRIGAÇÕES INDENIZATÓRIAS DECORRENTES DO SINISTRO. INEXISTÊNCIA DE VÍCIOS. PLENA VALIDADE E EFICÁCIA. LEGITIMIDADE DOS FILHOS PARA PERSEGUIREM REPARAÇÃO EM NOME PRÓPRIO. REDUÇÃO DO QUANTUM INDENIZATÓRIO. NÃO CABIMENTO. VALOR ARBITRADO EM QUANTIA RAZOÁVEL. CASO FORTUITO E FORÇA MAIOR. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. MULTAS PROCESSUAIS. AFASTAMENTO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(..)
+6. A condenação do apelante, por litigância de má-fé, ao pagamento de indenização no valor correspondente a 20% do valor da causa, apenas por se considerarem protelatórios os primeiros embargos de declaração, com nítido caráter de prequestionamento, mostra-se descabida. Da mesma forma, é descabida a multa fixada quando opostos embargos declaratórios à r. sentença de primeiro grau, logo na primeira oportunidade.
+(REsp 815.018/RS, Rel. Ministro RAUL ARAÚJO, Segunda Seção, DJe de 6/6/2016).
+Afasto, portanto, a multa fixada no índice de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do NCPC.
+(2) Da alegada existência excludente de ilicitude.
+O acórdão recorrido rechaçou a tese de existência de excludente de ilicitude, fazendo-o nos seguintes termos:
+O réu denunciou a lide para a seguradora Marítima Seguros S/A, a. qual recusou a denunciação na contestação, urna vez que a apólice exclui expressamente os danos morais da cobertura. Porém sua irresignação não merece acolhimento.
+Analisando as condições gerais do seguro, verifica-se que os danos morais estão dentre as hipóteses de exclusões específicas.
+Entretanto, ainda que estejamos diante de uma previsão de exclusão expressa dos danos morais - a qual, ressalte-se, somente constou das condições gerais o que, a princípio, viola o direito do consumidor - onde há cobertura para danos corporais (cláusula 1.2, alínea "a"), a primeira pode ser desconsiderada. Mesmo porque o dano moral é na realidade uma espécie de dano corporal, sendo este o gênero.
+Neste prisma, importa considerar que o conceito dado ao dano, qual seja o ato ilícito, criados de um fato, que perante o nosso ordenamento jurídico seja reprovado, ensejando alguma forma de, prejuízo à vítima, ou seja, o ilícito importa invasão da esfera jurídica alheia, sem o consentimento do titular ou autorização do edifício jurídico brasileiro.
+Nessa linha, tais prejuízos são visualizados e divididos em duas espécies: o dano patrimonial e o imaterial, sendo este o alvo no caso em lume.
+Segundo a medicina legal, as lesões que a pessoa pode sofrer - em seu corpo e em sua saúde inclusive mental - tem sido denominada lesões corporais, é mais exato que denominarmos lesões" corporais, como enseja a própria redação do art.; 129" do CP, que define como "ofender a integridade corporal ou a saúde de outrem".
+Ora qualquer ação ou omissão que provoque um desequilíbrio do bem-estar físico, psíquico ou moral, é uma ofensa saúde.
+Ou seja, havendo previsão de cobertura para danos corporais, a exclusão dos danos morais revela-se incongruente, já que, conforme já dito, fazem parte da mesma espécie de dano.
+Nessa perspectiva, .deve ser julgada procedente a lide secundária, condenando a litisdenunciada ao pagamento das custas e despesas processuais, bem como honorários advocatícios, estes arbitrados em R$ 1.000,00 (mil reais), conforme art. 20, § 4º, do CPC/73. (e-STJ, fl. 384/386, sem destaque no original).
+Ocorre que a jurisprudência deste Tribunal Superior, consolidada na Súmula 402/STJ, é no sentido de que a previsão contratual de cobertura dos danos pessoais (corporais) abrange os danos morais apenas se estes não forem objeto de expressa exclusão ou não figurarem na apólice como cláusula contratual independente.
+A esse respeito, vejam-se os julgados:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AÇÃO DE COBRANÇA. ACIDENTE DE TRÂNSITO. APÓLICE QUE NÃO EXCLUI INDENIZAÇÃO POR DANOS MORAIS. SÚMULA Nº 402/STJ. CONDENAÇÃO SOLIDÁRIA NOS LIMITES DA APÓLICE.
+SÚMULA 537/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, nos termos da Súmula 402, do STJ, segundo a qual o contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão.
+3. "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." (Súmula 537/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1178468/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 2/8/2018, DJe 10/8/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA PREVISÃO DE DANOS CORPORAIS E DANOS MORAIS DE FORMA INDIVIDUALIZADA.
+1. Havendo previsão explícita e individualizada para cada tipo de cobertura securitária, conclui-se que indenização por danos corporais não abrange os danos morais, ao contrário do que entendeu o acórdão estadual, pois a apólice contratada previu expressamente o limite da indenização por danos morais.
+2. Incidência da Súmula 402 do STJ: "o contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão".
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1153529/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA tURMA, J. 22/03/2018, DJe 02/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. 1. RESPONSABILIDADE CIVIL DA SEGURADORA. COBERTURA DE DANOS CORPORAIS OU PESSOAIS COM ABRANGÊNCIA DOS DANOS MORAIS. NÃO CABIMENTO NA HIPÓTESE. CLÁUSULA EXPRESSA DE PREJUÍZOS EXTRAPATRIMONIAIS. PRECEDENTES DO STJ. SÚMULA 83/STJ. 2. MONTANTE INDENIZATÓRIO DE DANOS MORAIS QUE SE LIMITA AO QUANTO PREVISTO NO CONTRATO PARA TAL FIM. 3. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior, inclusive consolidada na Súmula 402/STJ, é no sentido de que a previsão contratual de cobertura dos danos pessoais (corporais) abrange os danos morais apenas se estes não forem objeto de expressa exclusão ou não figurarem na apólice como cláusula contratual independente.
+ .. .
+3. Agravo interno desprovido.
+(AgInt no AREsp 1107344/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 7/11/2017, DJe 13/11/2017, sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE AUTOMÓVEL. ACIDENTE DE TRÂNSITO (ATROPELAMENTO). RESPONSABILIDADE CIVIL. COBERTURA DE DANOS CORPORAIS OU PESSOAIS. ABRANGÊNCIA. DANOS MORAIS. CLÁUSULA DE EXCLUSÃO. OBSERVÂNCIA. LEGALIDADE. REDUÇÃO DO VALOR. INADMISSIBILIDADE. MONTANTE RAZOÁVEL. SÚMULA Nº 7/STJ.
+1. A previsão contratual de cobertura dos danos pessoais (corporais) abrange os danos morais apenas se estes não forem objeto de expressa exclusão ou não figurarem no contrato como cláusula contratual independente (Súmula 402/STJ).
+2. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais somente quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+3. Agravo regimental não provido.
+(AgRg no AREsp 378.288/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 18/6/2015, DJe 4/8/2015).
+No caso dos autos, o próprio acórdão reconheceu a existência de cláusula específica afastando a cobertura para danos morais.
+Desse modo, estando o acórdão recorrido em confronto com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Em vista de tais razões, o acórdão recorrido merece parcial reforma, apenas para julgar improcedente a lide secundária, devendo ser restabelecida a sentença, quanto ao ponto.
+Nessa condições, DOU PROVIMENTO ao recurso especial, a fim de afastar a multa aplicada no julgamento dos segundos embargos de declaração e para julgar improcedente a lide secundária, restabelecendo a sentença, quanto ao ponto.
+Por derradeiro, advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
