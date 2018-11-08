@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. EXECUÇÃO FISCAL. CARTÓRIO DE REGISTRO CIVIL. AUSÊNCIA DE PERSONALIDADE JURÍDICA. ILEGITIMIDADE PASSIVA. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. TABELIONATO. ILEGITIMIDADE PASSIVA AD CAUSAM. AUSÊNCIA DE PERSONALIDADE JURÍDICA. HONORÁRIOS RECURSAIS.
+1. O Superior Tribunal de Justiça já se manifestou no sentido de que os serviços de registros públicos, cartorários e notariais não detêm personalidade jurídica, de modo que quem responde pelos atos decorrentes dos serviços notariais é o titular do cartório. Logo, o tabelionato não possui legitimidade para figurar no polo passivo da execução fiscal.
+2. Ainda que possuam CNPJ, os Tabelionatos não carregam a personalidade jurídica própria que os habilite a figurar no polo ativo ou passivo de ações judiciais, de modo que eventuais responsabilidades advindas da atividade não são a eles imputáveis, mas sim aos seus titulares, os Tabeliães, que devem responder pelas obrigações tributárias.
+3. Vencida na fase recursal, a parte apelante deve arcar com o pagamento dos honorários recursais, conforme §11 do artigo 85 do Código de Processo Civil (fls. 99).
+2. Os Embargos de Declaração opostos (fls. 108/116), foram rejeitados (fls. 124/129).
+3. Em seu Apelo Nobre, fundado na alínea a do art. 105, III da CF/1988, a Fazenda Nacional aponta ofensa aos arts. 1.022, II do Código Fux, 4o., V, da Lei 6.830/1980, 126, III do CTN, 22 da Lei 8.935/1994 e 38 da Lei 9.492/1997. Aduz, em resumo, que onde está inserido o nome do cartório e o número do CNPJ, deve-se ler o nome da pessoa física titular (e o seu CPF), posto que é a pessoa física quem, de fato, pratica os fatores geradores, acompanha a formação e paga eventual tributo, e responderá em caso de inadimplemento. Aliás, ainda que o referencial incluído no polo passivo da obrigação seja o CNPJ do cartório, quem acompanha a obrigação (e o processo de execução fiscal), desde o seu início, e é notificado de todos os atos, por ser o verdadeiro contribuinte, é o registrador (fls. 144). Pugna pela reforma do julgado.
+4. Sem contrarrazões, o recurso foi admitido na origem (fls. 159).
+5. É o relatório.
+6. De início, cumpre destacar que a alegada violação do art. 1.022 do Código Fux não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Conforme o entendimento do STJ, os serviços de registros públicos, cartorários e notariais não detêm personalidade jurídica, de modo que quem responde pelos atos decorrentes dos serviços notariais é o titular do cartório. Assim, o tabelionato não possui legitimidade para figurar como polo passivo da presente demanda. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ATOS PRATICADOS NO ÂMBITO DA SERVENTIA. RESPONSABILIDADE DO DELEGATÁRIO À ÉPOCA DOS FATOS.
+1- A atual jurisprudência desta Corte orienta que o tabelionato não detém personalidade jurídica, respondendo pelos danos decorrentes dos serviços notariais o titular do cartório na época dos fatos. Responsabilidade que não se transfere ao tabelião posterior (AgRg no REsp 624.975/SC, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 11/11/2010).
+2- O Agravo não trouxe nenhum argumento novo capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+3- Agravo Regimental improvido (AgRg no AREsp. 460.534/ES, Rel. Min. SIDNEI BENETI, DJe 28.4.2014).
+
+RECURSO ESPECIAL - CARTÓRIO EXTRAJUDICIAL - TABELIONATO - INTERPRETAÇÃO DO ART. 22 DA LEI 8.935/94 - LEI DOS CARTÓRIOS - AÇÃO DE INDENIZAÇÃO - RESPONSABILIDADE CIVIL DO TABELIONATO - LEGITIMIDADE PASSIVA AD CAUSAM - AUSÊNCIA - RECURSO ESPECIAL IMPROVIDO.
+1. O art. 22 da Lei 8.935/94 não prevê que os tabelionatos, comumente denominados Cartórios, responderão por eventuais danos que os titulares e seus prepostos causarem a terceiros.
+2. O cartório extrajudicial não detém personalidade jurídica e, portanto, deverá ser representado em juízo pelo respectivo titular.
+3. A possibilidade do próprio tabelionato ser demandado em juízo, implica admitir que, em caso de sucessão, o titular sucessor deveria responder pelos danos que o titular sucedido ou seus prepostos causarem a terceiros, nos termos do art. 22 do Lei dos Cartórios, o que contrasta com o entendimento de que apenas o titular do cartório à época do dano responde pela falha no serviço notarial.
+4. Recurso especial improvido (REsp. 911.151/DF, Rel. Min. MASSAMI UYEDA, DJe 6.8.2010).
+8. Dessa forma, está o acórdão recorrido em consonância com a orientação desta Corte, incidindo à espécie a Súmula 83/STJ.
+9. Ante o exposto, nega-se provimento ao Recurso Especial da FAZENDA NACIONAL.
+10. Publique-se. Intimações necessárias.
