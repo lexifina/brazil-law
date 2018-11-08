@@ -1,0 +1,10 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME NECESSÁRIO. ENTENDIMENTO FIRMADO NO RESP. 1.101.727/PR, REPRESENTATIVO DA CONTROVÉRSIA. ART. 27 DO CPC. FAZENDA PÚBLICA GOZA DA PRERROGATIVA DE PAGAMENTO DAS DESPESAS PROCESSUAIS AO FINAL DO JULGAMENTO DA AÇÃO. RECURSO ESPECIAL DO INSS PROVIDO.
+1. Trata-se de Recurso Especial, fundado na alínea a do art. 105, III da Constituição Federal, interposto pelo INSS em face de Acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+ACIDENTE DO TRABALHO - EMBARGOS À EXECUÇÃO - APELO DA AUTARQUIA - NÃO RECOLHIMENTO DO PORTE DE REMESSA E DE RETORNO - DESERÇÃO CARACTERIZADA Ausência de recolhimento de porte de remessa e de retorno dos autos configura deserção. Inteligência do artigo 511, caput, do Código de Processo Civil. Exegese da Lei Estadual 11.608/2003.
+Recurso não conhecido.
+2. Em seu apelo especial, sustenta o INSS violação aos arts. 27 do CPC/1973, sob os seguintes fundamentos: (a) o acórdão permaneceu omisso, a despeito da oposição de Embargos Declaratórios; e (b) nas ações judicias envolvendo a Fazenda Pública, o pagamento de qualquer despesa processual é postergado para o final do processo.
+3. É o relatório.
+4. Em relação à violação ao art. 27 do CPC/1973, a irresignação também merece prosperar. No julgamento do citado REsp. 1.101.727/PR, representativo de controvérsia, firmou-se a orientação de que, embora não esteja a Autarquia Previdenciária isenta de custas na presente hipótese, é de se reconhecer que, a teor do art. 27 do CPC/1973, a Fazenda Pública goza da prerrogativa de pagamento das despesas processuais ao final do julgamento da ação, caso seja vencida.
+5. Diante disso, dá-se provimento ao Recurso Especial do INSS, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que julgue o recurso voluntário como entender de direito, garantindo ao recorrente o pagamento das despesas processuais ao final do processo, caso seja vencido.
+6. Publique-se. Intimações necessárias.
