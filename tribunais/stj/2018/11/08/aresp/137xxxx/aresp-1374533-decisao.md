@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/04/2018.
+Concluso ao gabinete em: 26/10/2018.
+Ação: de reparação por danos morais e materiais ajuizada por [NOME] contra o ora agravante, na qual alega que levou seu filho de 1 ano e 7 meses para passar em consulta médica particular com o agravante, pagando a quantia de R$ 250,00. Sustenta que durante a consulta, foi informada que o caso de seu filho era gravíssimo, devendo ser internado em 48 horas, pois corria risco de vida. Afirma também que o agravante constatou a necessidade de internação particular, dizendo que o atendimento do SUS era precário e não seria suficiente para o tratamento. Porém, os valores para internação particular eram elevados demais, e a agravada não possui condição de arcar com o pagamento, retornando assim ao consultório médico do agravante que lhe cobrou o valor de R$ 1.000,00 como honorários para acompanhar a internação do menor no hospital, mesmo que internado pelo SUS e lhe orientou como proceder para realizar a internação. Ocorre que após desavenças entre as partes, o agravante deu alta médica ao menor que ainda precisava de cuidados médicos, o que levou a requerente a registrar boletim de ocorrência. Afirma que somente após a chegada da polícia militar, o menor foi novamente internado e outro médico foi disponibilizado para atendimento. Diante dos fatos, requer a devolução do valor pago pelos serviços que não foram prestados, bem como o pagamento de indenização pelos danos materiais e morais sofridos.
+Sentença: julgou procedente o pedido para condenar o agravante ao pagamento de R$ 1.000,00 pelos danos materiais e de R$ 10.000,00 pelos danos morais sofridos.
+Acórdão: negou provimento ao recurso de apelação interposto pelo agravante, nos termos da seguinte ementa:
+INDENIZAÇÃO - Atendimento prestado ao filho da autora pelo médico requerido - Internação realizada através do Sistema Único de Saúde - Quantia paga a título de "honorários médicos" - Criança que recebeu alta hospitalar após desentendimento entre as partes - Prova oral a corroborar os fatos alegados na inicial - Caracterizados os pressupostos da responsabilidade civil - Indenização devida - Danos materiais comprovados - Danos morais configurados - Sentença mantida - Aplicação do disposto no artigo 252 do Regimento Interno desta Corte - RECURSO NÃO PROVIDO.
+Recurso especial: alega a inexistência de dano material ou moral no caso. Defende nesse sentido que não ficou comprovado que o agravante deu alta médica para o filho da agravada quando este ainda estava doente. Sustenta que não há documentos que possam comprovar o afirmado pela agravada quanto ao atendimento médico ou ao recebimento indevido de valores. Aduz que tentou devolver o valor pago pela agravada, mas que esta não teve interesse em receber.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que o agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Publique-se. Intimem-se.
