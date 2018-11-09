@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se entendeu pela constitucionalidade da contribuição previdenciária devida por aposentado pelo Regime Geral de Previdência Social – RGPS que estiver exercendo ou que voltar a exercer atividade abrangida pelo mesmo regime, nos termos do art. 12, § 4º, da Lei 8.212/1991, acrescentado pela Lei 9.032/1995.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 5°, caput; 194, parágrafo único, I, V; 195, II; e 201, I, e, § 11.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corte firmada no sentido de que não há óbice constitucional para a exigência de contribuição previdenciária de aposentado que retorna à atividade. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal, cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL DO APOSENTADO QUE RETORNA À ATIVIDADE. POSSIBILIDADE. PRINCÍPIO DA SOLIDARIEDADE. PRECEDENTES.
+    O Supremo Tribunal Federal consolidou o entendimento de que é constitucional a cobrança de contribuição previdenciária sobre o salário do aposentado que retorna à atividade.
+    O princípio da solidariedade faz com que a referibilidade das contribuições sociais alcance a maior amplitude possível, de modo que não há uma correlação necessária e indispensável entre o dever de contribuir e a possibilidade de auferir proveito das contribuições vertidas em favor da seguridade.
+    Agravo regimental a que se nega provimento” (RE 430.418-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma – grifei).
+    “RECURSO EXTRAORDINÁRIO – EXIGIBILIDADE DA CONTRIBUIÇÃO PREVIDENCIÁRIA DO TRABALHADOR APOSENTADO QUE RETORNA À ATIVIDADE (LEI Nº 8.212/91, ART. 12, § 4º, NA REDAÇÃO DADA PELA LEI Nº 9.032/95) – CONSTITUCIONALIDADE – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – AGRAVO INTERNO IMPROVIDO” (RE 447.923-AgR-segundo/RS, Rel. Min. Celso de Mello, Segunda Turma – grifos no original).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: RE 364.217-AgR/RS, Rel. Min. Marco Aurélio; RE 437.640/RS, Rel. Min. Sepúlveda Pertence; RE 372.506-AgR/RS e RE 437-652-AgR-ED/RS, Rel. Min. Gilmar Mendes; RE 396.020-AgR/RS, Rel. Min. Dias Toffoli; RE 507.740-AgR/RS, Rel. Min. Ayres Britto; AI 822.294-AgR/SP e RE 357.892-AgR/RS, Rel. Min. Cármen Lúcia; RE 381.268-AgR/RS e RE 364.083-AgR/RS, Rel. Min. Ellen Gracie; RE 422.357-AgR/RS, RE 396.717-AgR/RS e RE 367.416-AgR/RS, Rel. Min. Joaquim Barbosa; RE 756.247/SP, RE 364.224-AgR/RS e AI 668.531-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
