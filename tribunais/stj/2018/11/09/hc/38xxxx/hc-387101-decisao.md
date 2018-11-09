@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CAROLINE MENEZES DA CONCEICAO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0036202-98.2015.8.26.0050).
+Infere-se dos autos que o Juízo de primeiro grau condenou a paciente, como incursa nos arts. 157, § 2º, I, II e V, 158, §§ 1º e 3º, na forma do art. 70, todos do Código Penal (roubo majorado e extorsão).
+Interposta apelação, por ambas as partes, o Tribunal a quo negou provimento ao recurso da defesa e acolheu parcialmente a irresignação do Ministério Público, para reconhecer o concurso material de infrações e majorar a reprimenda para 11 anos e 8 meses de reclusão, inicialmente no regime inicial fechado, nos termos do julgamento assim resumido:
+ROUBO TRIPLAMENTE MAJORADO E EXTORSÃO MAJORADA.
+RECURSO DA DEFESA - PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS - NÃO ACOLHIMENTO - PLEITO DE RECONHECIMENTO DE CRIME ÚNICO - DESCABIMENTO - PLEITO SUBSIDIÁRIO DE FIXAÇÃO DO REGIME INICIAL SEMIABERTO - IMPOSSIBILIDADE - RECURSO NÃO PROVIDO.
+RECURSO DO MINISTÉRIO PÚBLICO - PUGNA PELA FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL, ALEGANDO PRESENTES CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS, GRAVIDADE CONCRETA DO FATO E GRAVES CONSEQÜÊNCIAS DA CONDUTA - DOSIMETRIA - POSTULA AFASTAMENTO DA ATENUANTE DA CONFISSÃO, POR TER SIDO PARCIAL, A EXASPERAÇÃO EM METADE COM RELAÇÃO AO ROUBO, NA TERCEIRA FASE, PORQUE PRESENTES TRÊS CAUSAS DE AUMENTO E DE 3/8 COM RELAÇÃO À EXTORSÃO, PORQUANTO PRESENTES DUAS CAUSAS DE AUMENTO E A APLICAÇÃO DO CÚMULO MATERIAL ENTRE AS INFRAÇÕES - RECURSO PARCIALMENTE PROVIDO (fl. 18).
+No presente writ, a Defensoria Pública alega que a reprimenda foi majorada em 5/12, na terceira fase da dosimetria, com base apenas no número de causas de aumento, em desrespeito ao enunciado n. 443 da Súmula do Superior Tribunal de Justiça - STJ. Aduz, ainda, que a ré praticou as condutas imputadas no mesmo contexto fático e em continuidade delitiva.
+Nestes termos, requer a revisão da dosimetria, para reduzir a pena.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem, nos termos da seguinte ementa:
+Habeas Corpus. Dosimetria. Sanção aplicada nos limites legais e de maneira motivada. Ausência de manifesto constrangimento.
+Entendem-se configurados os crimes de roubo e extorsão, em concurso material, quando o agente, após subtrair bens móveis da vítima, obriga-a a entregar o cartão do banco e a fornecer a respectiva senha.
+Execução provisória da pena. Possibilidade. Entendimento do STF. Inexistência de ofensa ao princípio da presunção da inocência.
+Parecer pelo conhecimento e denegação da ordem (fl. 86).
+É o relatório.
+Decido.
+m consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, discute-se inicialmente o quantum de aumento da pena em razão da incidência das majorantes previstas nos incisos I, II e V, do § 2º do art. 157 do CP, que à época dos fatos assim dispunha:
+Art. 157 - Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência:
+Pena - reclusão, de quatro a dez anos, e multa.
+§ 1º -  ..
+§ 2º - A pena aumenta-se de um terço até metade:
+I - se a violência ou ameaça é exercida com emprego de arma;
+II - se há o concurso de duas ou mais pessoas;
+ ..
+V - se o agente mantém a vítima em seu poder, restringindo sua liberdade.
+
+Segundo o enunciado n. 443 da Súmula do STJ, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Na hipótese dos autos, a pena foi aumentada em 5/12, exclusivamente com fundamento no número de majorantes, em desrespeito ao referido Enunciado, conforme se constata do seguinte trecho do voto condutor no acórdão recorrido:
+A ré foi denunciada porque, no dia 20 de janeiro de 2015, às 07h, na Rua Dona Maria Carolina, pouco antes de alcançar a Faria Lima, na cidade e comarca de São Paulo, previamente ajustada, com unidade de desígnios e divisão de tarefas com outros dois indivíduos não identificados, presenciais, e provavelmente outro indivíduo, tampouco identificado, subtraiu, em comum proveito, mediante grave ameaça de morte, exercida com o emprego de arma de fogo e com restrição da liberdade da vítima, o veículo Ford Ecosport, de placas MZK 5757, São Paulo/SP, 02 celulares, marcas Samsung e Sony, 01 relógio de pulso, marca Tissot, e 01 corrente de prata, em prejuízo da vítima [NOME].
+Nas mesmas circunstâncias de tempo e lugar, a acusada, previamente ajustada, com unidade de desígnios e divisão de tarefas com outros dois indivíduos não identificados, presenciais, e provavelmente outro indivíduo, tampouco identificado, constrangeram o ofendido [NOME], mediante grave ameaça de morte, exercida com o emprego de arma de fogo e com restrição da liberdade da vítima, a entregar-lhes seus cartões bancários e respectivas senhas, com o intuito de obter, para si, indevida vantagem econômica (fls. 01D/04D).
+A materialidade delitiva restou delineada pela portaria (fl. 02), boletins de ocorrência (fls. 05/06, 30/32 e 33/38), fatura de cartão de crédito (fls. 16/17), auto de reconhecimento fotográfico (fl. 19), termos circunstanciados (fls. 27/29 e 39/41), certidão (fl. 49), auto de reconhecimento pessoal (fl. 53), auto de avaliação indireto (fl. 81), bem como pela prova oral colhida durante a instrução.
+A autoria delitiva também restou evidenciada.
+ ..
+Passo, então, à análise da dosimetria das penas.
+Na primeira fase, considerando que as circunstâncias judiciais não são desfavoráveis, fixo as penas-base no patamar mínimo legal, ou seja, em 04 anos de reclusão, e pagamento de 10 dias-multa (para o crime de roubo), e 06 anos de reclusão e pagamento de 10 dias-multa (para o delito de extorsão qualificada).
+Não merece acolhida o pleito de exasperação da reprimenda, formulado pelo Ministério Público.
+Não há nos autos certidão que confirme anterior condenação da ré, transitada em julgado, pela prática de crime.
+Consta da folha de antecedentes, grampeada à contracapa, informação, anotada a lápis, de que em 22/02/2016, nos autos referidos pelo Ministério Público, foi publicada sentença condenatória em desfavor da ré, ao cumprimento de 5 anos e 8 meses, sem trânsito em julgado, o que se mostra insuficiente para a consideração de que é portadora de maus antecedentes.
+A privação da liberdade apontada será levada em consideração na terceira fase da dosimetria, pois configura causa de aumento de pena. Por outro lado, as consequências dos crimes foram normais à espécie, tendo o ofendido afirmado que sua rotina continua normal depois dos fatos, só estando mais cauteloso.
+Na segunda fase, ausentes agravantes e atenuantes, as penas não sofrem alteração.
+Inviável acolher o pleito defensivo de reconhecimento da confissão, como atenuante, na medida em que a ré não confessou a prática do crime com todos os seus contornos, espontaneamente, tentando ocultar a identidade de terceiro indivíduo que participou da prática delitiva. Procurou, apenas, justificar seus atos, e tentou minimizar as consequências, objetivando apenas a obtenção de uma redução da reprimenda pela aplicação da atenuante, e não colaborar com a apuração completa do fato para a responsabilização de todos os envolvidos.
+Mas, essa tentativa de minimização não corresponde à atenuante da confissão espontânea.
+ ..
+Ademais, ainda que configurada a atenuante, inviável sua aplicação para reduzir a reprimenda para patamar aquém do mínimo legal, a teor da Súmula nº 231, do Col. STJ: "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.".
+Na terceira fase, com relação ao crime de roubo, presentes três causas de aumento, exaspero a pena em 5/12, totalizando 05 anos e 08 meses de reclusão, bem como pagamento de 14 dias-multa.
+Justifico a exasperação das penas na fração de 5/12, em decorrência da comprovação de três causas de aumento, porquanto essa solução atende ao princípio da individualização da pena, não havendo como se sustentar a incidência do mínimo de 1/3 estando presente uma, duas, três ou mais causas de aumento. Evidente que a exasperação da pena deve guardar proporcionalidade com o número de causas de aumento, porquanto representar maior vulnerabilidade do patrimônio e maior censurabilidade da conduta.
+Isso porque, em se tratando de roubo em que se fazem presentes três causas de aumento, é inadmissível que o juiz deixe de valorar duas delas, pois lhe é defeso observar parcialmente a lei, sobretudo porque a privação da liberdade da vítima se estendeu por expressivo tempo, e foram quatro os autores da infração, com emprego de arma, a revelar acentuada periculosidade de todos os envolvidos.
+Com relação ao crime de extorsão qualificada, a pena é mantida inalterada, ante a ausência de causas de aumento ou diminuição.
+Em razão do concurso material entre a extorsão e o roubo, nos termos do art. 69, do Código Penal, fixo a pena final em 11 anos e 08 meses de reclusão, e pagamento de 24 dias-multa, no valor unitário mínimo.
+Em decorrência da quantidade de pena aplicada, a culpabilidade, a conduta social e a personalidade da agente, assim como as circunstâncias e consequências do crime, necessária a fixação do regime fechado para o início de cumprimento de pena, com fundamento no artigo 33, § 2º, "a", do Código Penal (fls. 20/21 e 31/35).
+Desse modo, impõe-se, no caso vertente, a redução da fração de aumento de pena na terceira fase da dosimetria para o mínimo legal - 1/3.
+Noutro enfoque, esta Corte firmou entendimento no sentido de que restam configurados dois crimes autônomos, de roubo e de extorsão, em concurso material, quando a vítima tem seus pertences subtraídos e, no mesmo contexto fático, obrigada a fornecer o cartão bancário e a respectiva senha, para a realização de saques em sua conta corrente.
+A propósito, trago à colação os seguintes julgados:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E EXTORSÃO. CONCURSO MATERIAL. EMPREGO DE ARMA. APREENSÃO E PERÍCIA. PRESCINDIBILIDADE. RESTRIÇÃO DA LIBERDADE DA VÍTIMA. CARACTERIZAÇÃO. MAJORAÇÃO PELAS CAUSAS DE AUMENTO. AUSÊNCIA DE INSTRUÇÃO DO FEITO. HABEAS CORPUS NÃO CONHECIDO.
+1. Configuram-se os crimes de roubo e extorsão, em concurso material, se o agente, após subtrair bens da vítima, mediante emprego de violência ou grave ameaça, a constrange a entregar o cartão bancário e a respectiva senha, para sacar dinheiro de sua conta corrente.
+2. Nos termos da jurisprudência desta Corte, são prescindíveis a apreensão e a perícia na arma de fogo para a incidência da majorante do § 2º, I, do art. 157 do CP quando existirem nos autos outros elementos de prova que comprovem a sua utilização no roubo, como na hipótese, em que há relato da vítima sobre o emprego do artefato.
+ ..
+5. Habeas corpus não conhecido. (HC 215.717/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 2/3/2016).
+PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E EXTORSÃO. CRIME ÚNICO. INEXISTÊNCIA. CONDUTAS DIVERSAS, PRATICADAS EM CONCURSO MATERIAL. PRETENSÃO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. CRIMES DE ESPÉCIES DIFERENTES.
+1. Segundo a jurisprudência desta Corte de Justiça, se durante o mesmo contexto fático, o agente, mediante grave ameaça, subtrai coisa móvel da vítima e exige que ela forneça a senha do cartão do banco para a realização de saques em sua conta bancária, configuram-se os crimes de roubo e extorsão, em concurso material.
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp 745957, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 10/12/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO E EXTORSÃO. ALEGADA EXISTÊNCIA DE CRIME ÚNICO. CONDUTAS DIVERSAS, COMETIDAS EM CONCURSO MATERIAL. PRETENSÃO DE QUE SE RECONHEÇA A CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. CRIMES DE ESPÉCIES DIVERSAS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Entende a jurisprudência desta Corte que em situações como a dos autos, nas quais há subtração de bens e, posteriormente, a vítima é obrigada a fornecer a senha para a realização de saques em sua conta bancária, estão configurados dois crimes autônomos, de roubo e de extorsão, em concurso material. Não há que se falar, assim, em delito único.
+- Não é possível o reconhecimento de continuidade delitiva entre os crimes de roubo e extorsão, pois não são delitos da mesma espécie. Ademais, o reconhecimento da continuidade delitiva demandaria a incursão no acervo fático-probatório, tarefa vedada na via do habeas corpus.
+- Habeas Corpus não conhecido (HC 324.896/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/08/2015, DJe 28/08/2015).
+PENAL. RECURSO ESPECIAL. ROUBO E EXTORSÃO. CONDUTAS DIVERSAS. CONCURSO MATERIAL. SÚMULA 96/STJ. DOSIMETRIA. PENA-BASE. CULPABILIDADE, MOTIVOS E COMPORTAMENTO DA VÍTIMA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. ANTECEDENTES, PERSONALIDADE E CONSEQUÊNCIAS DO CRIME. MANUTENÇÃO DA VALORAÇÃO NEGATIVA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. FRAÇÃO DE AUMENTO. CRITÉRIO MERAMENTE MATEMÁTICO. IMPOSSIBILIDADE. REDIMENSIONAMENTO DA PENA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A conduta do agente, consistente em subtrair bens pertencentes à vítima mediante grave ameaça e, ainda, em exigir a entrega do cartão bancário e senha, embora realizada no mesmo contexto, caracteriza, de forma autônoma, os delitos de roubo e de extorsão. Precedentes.
+ ..
+8. Na segunda fase da dosimetria, uma vez reconhecida pelo Tribunal de origem a atenuante da confissão espontânea, impõe-se, conforme pacificado entendimento desta Corte (EREsp n. 1.154.752/RS, da minha relatoria, DJe 4/9/2012), a sua compensação com a agravante da reincidência.
+9. Não se admite, no crime de extorsão, com base em critério puramente aritmético, a aplicação de fração de aumento superior à mínima. Precedente.
+10. Recurso especial parcialmente provido. Habeas corpus concedido de ofício (REsp 1.255.559/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 25/6/2013).
+RECURSO ESPECIAL. ROUBO E EXTORSÃO. CONCURSO MATERIAL DE CRIMES. OCORRÊNCIA. RECURSO PROVIDO.
+1. "Crimes de roubo e de extorsão - Ilícitos penais que não constituem "crimes da mesma espécie" - Consequente impossibilidade de reconhecimento, quanto a eles, do nexo de continuidade delitiva - legitimidade da aplicação da regra pertinente ao concurso material" (STF, HC-71.174/SP, Relator Ministro Celso de Mello, DJ de 1º.12.2006).
+2. A conduta dos agentes que, na mesma circunstância fática, após subtraírem os pertences das vítimas, mediante grave ameaça, exigem a entrega do cartão bancário e senha para em seguida realizarem saque em conta-corrente, se amolda aos crimes de roubo e extorsão, de forma autônoma.
+3. Conforme a jurisprudência desta Corte e do Supremo Tribunal Federal, em tais casos revela-se caracterizada a prática de ambos os delitos em concurso material, bem como entende-se afastada a tese da continuidade delitiva por não se tratar de crimes da mesma espécie.
+ .. . (REsp 898.613/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 28/9/2011).
+PENAL. RECURSO ESPECIAL. ART. 158, § 1º (POR TRÊS VEZES), C/C O ART. 71, E ART. 157, § 2º, INCISOS I, II E V, TODOS DO CÓDIGO PENAL. DELITO ÚNICO. CONCURSO MATERIAL. AUMENTO DE PENA EM RAZÃO DE DUAS MAJORANTES. FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+I - Na linha de precedentes desta Corte e do Pretório Excelso, configuram-se os crimes de roubo e extorsão, em concurso material, se o agente, após subtrair alguns pertences da vítima, obriga-a a entregar o cartão do banco e fornecer a respectiva senha.
+II - Todavia, para o aumento acima do patamar mínimo, em virtude de causa de aumento de pena prevista no art. 157, § 2º, incisos I, II e V do CP, é necessária a devida fundamentação baseada em circunstâncias concretas, e não simples constatação de existência de duas ou mais majorantes.
+ ..
+Habeas corpus concedido, de ofício, a fim de reduzir o aumento da pena em razão das majorantes do concurso de agentes, do emprego de arma de fogo e da restrição da liberdade da vítima (em relação ao delito de roubo) ao mínimo legal, qual seja, 1/3, bem como para reduzir o aumento da pena em razão das majorantes do concurso de agentes e do emprego de arma de fogo (em relação ao delito de extorsão) ao mínimo legal, qual seja, 1/3, devendo o e. Tribunal a quo realizar nova dosimetria da pena (REsp 982.158/SP, Rel. MINISTRO FELIX FISCHER, QUINTA TURMA, DJe de 9/2/2009).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para limitar o recrudescimento de pena da paciente, na terceira fase da dosimetria, à fração de 1/3 (um terço), redimensionando sua reprimenda, que se torna definitiva em 11 anos e 4 meses de reclusão, além do pagamento de 23 dias-multa, mantidos os demais termos do decreto condenatório.
+Publique-se.
+Intimações necessárias.
