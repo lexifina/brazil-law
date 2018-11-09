@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 243/244, que não conheceu do recurso.
+Sustenta a parte embargante que "O AGRAVANTE NÃO FOI INTIMADO DO R. DESPACHO DENEGATÓRIO DO RECURSO ESPECIAL NO DIA 05.04.2018, CONFORME CONSTOU DO R. DESPACHO, ORA EMBARGADO, MAS SIM NO DIA 12.04.2018" (fl. 251), e que "não houve expediente, nos foros judiciais de Primeira e Segunda Instâncias do Egrégio Tribunal de Justiça do Estado de São Paulo, nos dias 30.04.2018 e 01.05.2018, o EMBARGANTE fez juntar cópia extraída do Diário de Justiça Eletrônico do Estado de São Paulo, do Provimento CSM nº 2.457/2017, conforme se observa às fls. 230/231 destes autos" (fl. 252).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado pela parte, nos autos há apenas a certidão de fl. 212, atestando a publicação ocorrida em 5/4/2018. Ou seja, não há nenhum documento do tribunal de origem certificando o alegado pela parte. Cabia ao agravante fazer prova de sua alegação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgRg no Ag 1.429.532/MG, relator Ministro Raul Araújo, Quarta Turma, DJe de 16/3/2012.
+Ademais, o comprovante de suspensão juntado às fls. 230/231, não foi suficiente para comprovar a tempestividade do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
