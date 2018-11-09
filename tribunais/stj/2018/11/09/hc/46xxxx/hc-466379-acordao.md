@@ -1,0 +1,37 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SEGREGAÇÃO CAUTELAR DECRETADA COM BASE NA GRAVIDADE EM ABSTRATO DO DELITO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL MANIFESTO.
+1. No caso, o Magistrado singular não apresentou nenhum elemento concreto que justificasse a decretação da custódia, tendo se limitado a considerações a respeito da gravidade abstrata do crime, o que é inadmissível.
+2. Com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto. Precedente.
+3. Ordem concedida, confirmando-se a decisão liminar anteriormente deferida, para assegurar ao paciente que aguarde o julgamento da ação penal em liberdade, podendo o Magistrado singular implementar as medidas cautelares diversas da prisão que entender cabíveis, salvo prisão por outro motivo, fundamentadamente. Pedido de extensão dos efeitos da decisão liminar às fls. 64/68 indeferido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem de habeas corpus e indeferir o pedido de extensão às fls. 64/68 nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Narram os autos que, a requerimento do Ministério Público, o Juízo de Direito da Vara Plantão da comarca de Guaratinguetá/SP converteu a prisão em flagrante em prisão preventiva do paciente, ao fundamento da garantia da ordem pública, pela suposta prática do delito de tráfico de drogas (fls. 20/21 - Ação Penal n. 1500108-08.2018.8.26.0621).
+A defesa impetrou habeas corpus na colenda Corte de origem, que denegou a ordem impetrada (fls. 42/46 - Habeas Corpus n. 2133953-02.2018.8.26.0000):
+HABEAS CORPUS. Pretendida revogação da prisão preventiva ou concessão de liberdade provisória. Subsidiariamente, aplicação de medidas cautelares diversas. Impossibilidade. Decisão devidamente fundamentada, com indicação dos requisitos do CPP, art. 282, II e art. 312, caput. Alegações de possível desclassificação da conduta, concessão de benesses e fixação de regime menos gravoso que demandam aprofundada análise do acervo probatório inviável nesta estreita via do writ. Ausência de constrangimento ilegal. Ordem denegada.
+Aqui, alega o impetrante constrangimento ilegal consistente na ausência de fundamentação do decreto preventivo.
+Postula, ao final, a concessão da ordem para assegurar a liberdade provisória ao paciente até o julgamento de mérito da ação penal.
+Deferi o pedido liminar para assegurar ao paciente o direito de aguardar em liberdade o julgamento do mérito deste habeas corpus, mediante o cumprimento de medidas alternativas à prisão (fls. 50/51).
+Dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício, conforme se extrai (fls. 55/59):
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. MANIFESTA ILEGALIDADE. OFENSA AO ART. 93, X, DA CF/88. PRECEDENTES. NÃO CONHECIMENTO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+2. A simples invocação da gravidade genérica do delito, baseada nos elementos do tipo penal, não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública, da instrução do processo, bem como da futura aplicação da lei penal.
+3. Parecer pelo não conhecimento do habeas corpus, mas pela concessão da ordem, de ofício, para revogar a prisão preventiva do paciente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, sem prejuízo da análise de aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Pedido de extensão dos efeitos da decisão liminar ao corréu [NOME] (fls. 64/68).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a impetração a revogação da prisão cautelar imposta ao argumento de insuficiência na fundamentação do decreto preventivo.
+É o caso de confirmação da liminar anteriormente concedida.
+Em consulta ao portal eletrônico do Tribunal de Justiça de São Paulo, observei que o processo tem regular tramitação, com audiência de instrução e julgamento designada para 5/12/2018.
+Confira-se a fundamentação utilizada pelo Juízo de primeiro grau para justificar a conversão da prisão em flagrante do paciente em preventiva (fl. 21):
+ ..
+Trata-se de prisão em flagrante por tráfico ilícito de drogas de [NOME]. Flagrante formalmente em ordem, inclusive no tocante ao laudo de constatação provisória das drogas apreendidas, já tendo sido reservadas amostrar para o laudo de exame químico definitivo. Oficie-se autorizando a destruição das substâncias entorpecentes, reservando-se as amostras para o laudo definitivo de exame químico toxicológico, nos termos do Comunicado da Corregedoria Geral de Justiça n. 932/2015, publicado no DJ de 23/7/15. Considerando que hã indícios concretos de associação a outro traficante para a prática reiterada do crime, há perigo a ordem pública caso o autuado seja colocado em liberdade e continue atuando em favor do grupo no comércio ilícito de drogas. Posto isso, havendo indícios de autoria e risco à ordem pública advindo dos indícios de associação criminosa, converto a prisão em flagrante em preventiva.
+ ..
+Da análise dos trechos transcritos, observa-se que o Juízo de primeiro grau não apresentou nenhum elemento concreto que justificasse a decretação da custódia, tendo se limitado a considerações a respeito da gravidade abstrata do crime, o que é inadmissível.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+Por fim, com relação ao pedido de extensão do corréu [NOME], observo que ele não logrou demonstrar a similitude fático-processual em relação ao paciente, bem como observo que a decisão que decretou a prisão preventiva do paciente só a ele se refere, razão pela qual o referido pedido não merece prosperar.
+Em face do exposto, concedo a ordem, confirmando-se a decisão liminar anteriormente deferida, para assegurar ao paciente que aguarde o julgamento da ação penal em liberdade, podendo o Magistrado singular implementar as medidas cautelares diversas da prisão que entender cabíveis, salvo prisão por outro motivo, fundamentadamente. Indefiro o pedido de extensão às fls. 64/68.
