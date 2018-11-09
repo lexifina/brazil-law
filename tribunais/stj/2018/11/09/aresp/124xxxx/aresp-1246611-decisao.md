@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO FIBRA S/A, em face da decisão de flS. 332/333, que não conheceu do recurso.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a parte Embargante foi intimada da decisão ora embargada em 18/04/2018 (fl. 334), sendo os presentes embargos de declaração apresentados nessa Corte somente em 09/08/2018 (fl. 338).
+Dessa forma, inadmissíveis os aclaratórios, porquanto intempestivos, eis que interpostos fora do prazo de 5 (cinco) dias úteis, previsto no art. 1.023 do Código de Processo Civil (fl. 336).
+No mais, cumpre esclarecer que o recurso está em trâmite perante o STJ, onde deveria ter sido protocolizada a petição de embargos de declaração. Registre-se que o protocolo em tribunal diverso não tem o condão de afastar a intempestividade da manifestação, sendo que o único protocolo válido é o realizado na Secretaria desta Corte. ((EDcl no AgRg no AREsp 87.616/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 20/11/2017; AgRg no AREsp 803.945/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 16/02/2016, DJe 26/02/2016; AgRg no AREsp 447.040/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/09/2015, DJe 29/09/2015).
+Ante o exposto, não conheço dos embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
