@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 5ª Região, nesses termos ementado (e-STJ fl. 463):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GDPGPE. PARIDADE ENTRE ATIVOS E INATIVOS/PENSIONISTAS APÓS O CICLO DE AVALIAÇÃO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.
+1. Discute-se se os aposentados/pensionistas fazem jus ao recebimento da GDPGPE em igualdade de condições com os servidores ativos, após o processamento das avaliações; ou, alternativamente, ao recebimento da parcela institucional mais 10 pontos relativos ao desempenho individual da GDPGPE;
+2. Após o primeiro ciclo de avaliações, a gratificação em testilha passou a ser de atividade, não podendo o inativo/pensionista pretender recebê-la em condições de paridade com os ativos;
+3. Como gratificação de atividade, aos inativos não se aplica a avaliação institucional, dado que eles não contribuem para a formação do desempenho do órgão a que serviram no passado;
+4. Também sem razão a parte autora quando pleiteia o recebimento de pontuação média (10 pontos), relativamente ao desempenho individual, mais a parcela institucional (80 pontos);
+6. O recebimento da média da pontuação individual não é possível em se tratando de uma gratificação de atividade, uma vez que esta se caracteriza justamente por não se pagar por média, mas sim com base em uma aferição individual da atuação de cada servidor;
+7. Apelação improvida.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos:
+(a) art. 535 do CPC/1973 (ou do art. 1.022 do CPC/2015), aduzindo que não foram sanados os vícios apontados nos embargos de declaração, "tendo em vista que, como a sentença fora proferida sob a égide do NCPC, o acórdão embargado omitiu-se relativamente ao disposto no seu art. 85, § 11, segundo o qual o Tribunal, ao julgar recurso, majorará os honorários fixados anteriormente" (fl. 569 e-STJ);
+(b) arts. 14, 85, §§ 3º e 6º do CPC/2015, alegando que "se o julgamento do processo proposto no regime do CPC de 1973 vier a acontecer já na vigência do CPC de 2015, a verba advocatícia será aplicada de acordo com o art. 85. A incidência, na espécie, do regime novo justifica-se ao argumento de que o direito às verbas sucumbenciais não nasce do ajuizamento da demanda, mas do seu julgamento . Esse direito não é anterior à decisão que soluciona a causa; origina-se justamente dela e, por isso, rege-se pela lei do seu tempo, como, aliás, ocorre com todos os atos processuais, passíveis de serem isolados." (fl. 572 e-STJ)
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso especial deve ser provido.
+Verifica-se, à luz do entendimento da Corte Especial do STJ que o arbitramento dos honorários não configura questão meramente processual. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N.º 08/2008. EMBARGOS INFRINGENTES. ART. 530 DO CPC. DISCUSSÃO SOBRE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O art. 530 do CPC condiciona o cabimento dos embargos infringentes a que exista sentença de mérito reformada por acórdão não unânime, e não que o objeto da divergência seja o próprio mérito tratado na sentença reformada.
+2. Se o dispositivo não restringiu o cabimento do recurso apenas à questão de fundo ou à matéria central da lide, não pode o aplicador do direito interpretar a norma a ponto de criar uma restrição nela não prevista. Precedentes.
+3. Ademais, o arbitramento dos honorários não é questão meramente processual, porque tem reflexos imediatos no direito substantivo da parte e de seu advogado. Doutrina de CHIOVENDA.
+4. Os honorários advocatícios, não obstante disciplinados pelo direito processual, decorrem de pedido expresso, ou implícito, de uma parte contra o seu oponente no processo e, portanto, formam um capítulo de mérito da sentença, embora acessório e dependente.
+5. No direito brasileiro, os honorários de qualquer espécie, inclusive os de sucumbência, pertencem ao advogado. O contrato, a decisão e a sentença que os estabelecem são títulos executivos. Nesse sentido, a Corte Especial do STJ fez editar a Súmula 306, com o seguinte enunciado: "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte". Portanto, os honorários constituem direito autônomo do causídico, que inclusive poderá executá-los nos próprios autos ou em ação distinta.
+6. O capítulo da sentença que trata dos honorários, ao disciplinar uma relação autônoma, titularizada pelo causídico, é de mérito, embora dependente e acessório, de modo que poderá ser discutido por meio de embargos infringentes se a sentença vier a ser reformada, por maioria de votos, no julgamento da apelação.
+7. Assim, seja porque o art. 530 do CPC não faz restrição quanto à natureza da matéria objeto dos embargos infringentes - apenas exige que a sentença de mérito tenha sido reformada em grau de apelação por maioria de votos -, seja porque o capítulo da sentença que trata dos honorários é de mérito, embora acessório e dependente, devem ser admitidos os embargos infringentes para discutir verba de sucumbência.
+8. A ausência de interposição dos embargos infringentes na origem sobre a condenação em honorários advocatícios não veda a admissão do recurso especial, a menos que o apelo verse exclusivamente sobre a verba de sucumbência, caso em que não será conhecido por preclusão e falta de exaurimento de instância.
+9. Recurso especial provido. Acórdão sujeito ao art. 543-C do CPC e à Resolução STJ n.º 08/2008.
+(REsp 1113175/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 24/05/2012, DJe 07/08/2012)
+Deste modo, estabelecida a natureza jurídica dos honorários de sucumbência, mister fixar o marco temporal para a aplicação das novas regras previstas no CPC/2015.
+Neste ponto, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a sucumbência é regida pela lei vigente na data da sentença. Confira-se:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. ADMINISTRATIVO. DESAPROPRIAÇÃO DIRETA. HONORÁRIOS ADVOCATÍCIOS. ART. 27, DL 3.365/41. INCIDÊNCIA.
+1. É pressuposto de admissibilidade do recurso especial a adequada indicação da questão controvertida, com informações sobre o modo como teria ocorrido a violação a dispositivos de lei federal (Súmula 284/STF).
+2. "A sucumbência rege-se pela lei vigente à data da sentença que a impõe" (RESP 542.056/SP, 1ª Turma, Min. Luiz Fux, DJ de 22.03.2004; RESP 487.570/SP, 1ª Turma, Min. Francisco Falcão, DJ de 31.05.2004; RESP 439.014/RJ, 2ª Turma, Min. Franciulli Netto, DJ de 08.09.2003). Assim, na fixação dos honorários advocatícios, em desapropriação direta, devem prevalecer as regras do art. 27 do Decreto-lei 3.365/41, com a redação dada pela Medida Provisória 1.997-37, de 11.04.2000, sempre que a decisão for proferida após essa data.
+3. Recurso especial a que se dá parcial provimento.
+(REsp 783.208/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 03/11/2005, DJ 21/11/2005, p. 168 - grifos não constantes no original)
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SEMELHANÇA ENTRE OS ACÓRDÃOS CONFRONTADOS. INADMISSIBILIDADE. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. ADIN Nº 2.332/2001. EFICÁCIA DA MP Nº 1.577/97 ATÉ A DECISÃO QUE SUSPENDEU OS EFEITOS DA EXPRESSÃO CONSTANTE DO ART. 15-A, DO DECRETO-LEI Nº 3.365/41. DESAPROPRIAÇÃO. HONORÁRIOS. LIMITE. DECRETO-LEI N.º 3.365/41. OBSERVÂNCIA.
+(..)
+6. A sucumbência rege-se pela lei vigente à data da sentença que a impõe, pelo que deve ser observado o art. 27, § 1º, do Decreto-Lei n.º 3.365/41, com a modificação introduzida pela MP nº 1.577/97, observando-se o limite máximo de 5% (cinco por cento).
+(..)
+8. Recurso especial dos expropriados desprovido.
+(REsp 542.056/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/02/2004, DJ 22/03/2004, p. 233)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO PARA FINS DE UTILIDADE PÚBLICA. JUROS MORATÓRIOS. PROLAÇÃO DA SENTENÇA EM DATA POSTERIOR À VIGÊNCIA DA MP 1.901-30/99. HONORÁRIOS ADVOCATÍCIOS. DECISUM SINGULAR POSTERIORMENTE PROFERIDO À EDIÇÃO DA MP 1577 - 97. AFRONTA AO ART. 535 DO CPC NÃO CARACTERIZADA.
+(..)
+6. In casu, a data da prolação da sentença singular, qual seja, 08 de março de 2007 (fls. 352/356), evidencia o equívoco constante do acórdão a quo, que manteve os honorários advocatícios na razão de 6% (seis por cento) sobre a diferença entre o preço inicial e o valor da indenização, sem observância à nova regra instituída pela MP n.º 1.577/97, na medida em que a sucumbência rege-se pela lei vigente à data da sentença que a impõe (Precedentes: REsp 816.848/RJ, Relator Ministro Teori Albino Zavascki, Primeira Turma, DJ de 13 de março de 2009 e REsp 981.196/BA, Relator Ministro Humberto Martins, Segunda Turma, DJ de 02 de dezembro de 2008).
+(..)
+8. Recurso especial conhecido e provido.
+(REsp 1113666/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/08/2009, DJe 19/08/2009)
+Portanto, que os honorários nascem contemporaneamente à sentença e não preexistem à propositura da demanda. Assim sendo, nos casos de sentença proferida a partir do dia 18/3/2016, aplicar-se-ão as normas do CPC/2015.
+In casu, sendo a sentença prolatada em 11/04/2016, o acórdão recorrido não está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual merece prosperar a irresignação.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação para fixar os honorários advocatícios em 10%, nos termos do art. 85, § 3º, do CPC/2015. Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+Publique-se. Intimem-se.
