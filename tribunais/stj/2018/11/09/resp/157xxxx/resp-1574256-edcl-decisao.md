@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. INCIDÊNCIA DOS EXPURGOS INFLACIONÁRIOS. TAXA SELIC. UTILIZAÇÃO APÓS O ADVENTO DA LEI 9.703/1998. EMBARGOS DA SOCIEDADE COMERCIAL E IMPORTADORA HERMES S.A ACOLHIDOS PARA INTEGRAR A DECISÃO EMBARGADA.
+1. Trata-se de Embargos de Declaração opostos pela SOCIEDADE COMERCIAL E IMPORTADORA HERMES S.A contra decisão que deu provimento, em parte, ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. INAPLICABILIDADE DA MULTA PREVISTA NO ART. 538 DO CPC/1973, EM RAZÃO DO NOTÓRIO PROPÓSITO DE PREQUESTIONAMENTO DOS EMBARGOS DE DECLARAÇÃO. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. NÃO INCIDÊNCIA DA TAXA SELIC NO PERÍODO ANTERIOR AO ADVENTO DA LEI 9.703/1998. MATÉRIA PACIFICADA. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO ESPECIAL A QUE SE DÁ PARCIAL PROVIMENTO.
+2. Sustenta a embargante omissão no julgado, defendendo que necessário seja suprida omissão, a fim de que conste expressamente no julgado que, os valores depositados devem ser corrigidos pela Taxa SELIC a partir de 01 de dezembro de 1998, tudo para que a prestação jurisdicional se dê longe de qualquer equívoco e ainda não contrarie o comando legal constante na lei 9.703/1998 (fls. 221).
+3. Requer, ainda, seja suprida omissão quanto ao índice de correção monetária aplicável no período anterior a vigência da lei 9.703/1998, uma vez que, como já apontado no acórdão regional, os depósitos foram realizados a partir de maio de 1991, sendo necessária a manifestação expressa quanto a correção monetária cabível (fls. 221).
+4. O Ente Público deixou de apresentar Impugnação aos Embargos (fls. 228).
+5. É o relatório.
+6. Aplica-se ao presente julgamento o Código Fux de Processo Civil, cujo art. 1.022 prevê caberem os Aclaratórios nas hipóteses de obscuridade, contradição, omissão ou erro material.
+7. Assiste razão à Embargante, porquanto omissa a decisão no tocante à atualização monetária dos depósitos efetuados em Maio/1991.
+8. A jurisprudência do STJ, firmada por ocasião do julgamento do REsp. 1.313.360/RJ, pela sistemática do art. 543-C/1973, reconhece a incidência de expurgos inflacionários no cálculo da correção monetária dos depósitos judiciais. A propósito, cita-se a ementa do julgado em referência:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-CPC. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. INCLUSÃO. NECESSIDADE. DECRETO-LEI 1.737/79. ATUALIZAÇÃO MONETÁRIA COM INCIDÊNCIA DE EXPURGOS INFLACIONÁRIOS. RECURSO PROVIDO.
+1. Para fins do art. 543-C do Código de Processo Civil fixa-se a seguinte tese: a correção monetária dos depósitos judiciais deve incluir os expurgos inflacionários.
+2. No caso concreto em análise, cuida-se de depósito judicial efetuado junto à Caixa Econômica Federal à luz do disposto no Decreto-Lei 1.737/79, que determinava a atualização monetária do depósito segundo os critérios fixados para os débitos tributários, circunstância que não impede a incidência dos expurgos inflacionários.
+3. Recurso especial provido para restabelecer a sentença. (REsp. 1.131.360/RJ, Rel. p/Acórdão Min. MARIA THEREZA DE ASSIS MOURA, DJe 30.6.2017).
+9. Diante disso, vale esclarecer que, quanto à atualização monetária dos depósitos judiciais efetuados em Maio/1991 incidirá os expurgos inflacionários, com base no Decreto-Lei 1.737/1979 e, a partir do advento da Lei 9.703/1998 (1o.12.1998), utiliza-se a Taxa SELIC como correção monetária.
+10. Ante o exposto, acolhem-se os Embargos de Declaração opostos pela SOCIEDADE COMERCIAL E IMPORTADORA HERMES S.A para, em integração à decisão vergastada, nortear a atualização monetária, nos termos da fundamentação supra.
+11. Publique-se.
+12. Intimações necessárias.
