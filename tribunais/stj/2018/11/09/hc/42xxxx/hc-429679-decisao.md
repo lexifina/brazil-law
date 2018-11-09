@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de MARIA EMILIA SENI NOGUEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0033738-06.2015.8.26.0114).
+Consta dos autos que o paciente foi condenado pela prática do crime do art. 157, § 2º, II, do Código Penal, à pena de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, e ao pagamento de 14 (quatorze) dias-multa, no valor mínimo legal, em regime inicial fechado.
+O Tribunal a quo, por sua vez, negou provimento ao apelo da defesa em acórdão assim ementado:
+Roubo majorado - Nulidades não configuradas - Elementos de prova que demonstram autoria e materialidade delitivas Condenação mantida - Pretendido reconhecimento da modalidade tentada - Inviabilidade - Crime que atingiu consumação - Desclassificação para o crime de furto - Descabimento - Expropriação violenta comprovada - Condição de reincidente não comprovada - Recurso parcialmente provido para o abrandamento do castigo relativamente a uma das rés.
+No presente writ, alega, em suma, haver violação do princípio do juiz natural e do devido processo legal ante a indevida redistribuição do recurso defensivo à juízo convocado o que implica em indelével mácula no processo, o que eiva de nulidade absoluta o julgamento da apelação.
+Aduz, ainda, que é necessário documento hábil para prova da condição legal de idoso, e não constando nos autos cópia de documento capaz de comprovar a correta idade da suposta vítima, necessário o afastamento da agravante do art. 61, II, alínea "h", do Código Penal.
+Assevera, outrossim, a ocorrência de afronta à Súmula n. 440 do STJ e Súmulas n. 718 e 719 do STF, por entender que o regime prisional mais gravoso foi fixado com base em argumentos genéricos e lastreado na gravidade abstrata do delito, prescindindo o julgado de fundamentação idônea.
+Em liminar, requer a suspensão da execução provisória da pena privativa de liberdade da paciente. No mérito, pugna pela declaração de nulidade do acórdão combatido em razão da violação do principio do juiz natural, com a remessa da apelação para julgamento da Desembargadora Angelica de Almeida.
+Subsidiariamente, requer a readequação da dosimetria da pena reconhecendo a inaplicabilidade da agravante do art. 61, II, alínea "h", do Código Penal, bem como seja estabelecido o regime semiaberto como cumprimento inicial da reprimenda imposta.
+Liminar indeferida às fls. 657/659.
+Informações prestadas às fls. 670/693.
+O Ministério Público Federal se manifestou pelo não conhecimento da impetração, conforme parecer de fls. 695/701.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Inicialmente, como bem destacado pelo Ministério Público Federal, a alegação de nulidade na redistribuição dos autos a Desembargador convocado não foi deduzida perante o Tribunal de origem, o que impede o conhecimento da matéria por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Quanto a prova da idade da vítima para a incidência da agravante genérica prevista no art. 61, inciso II, alínea h, do Código Penal, esta Corte Superior possui entendimento consolidado de que não apenas o registro civil faz prova da data de nascimento, mas também o fazem outros documentos com fé-pública, como no caso dos autos, o registro da ocorrência policial.
+Em idêntico sentido:
+PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 61, INCISO II, ALÍNEA "H", DO CÓDIGO PENAL. COMPROVAÇÃO DA IDADE DA VÍTIMA. INFORMAÇÃO EXTRAÍDA DE DOCUMENTOS QUE GOZAM DE FÉ PÚBLICA. VALIDADE.
+1. A jurisprudência desta Corte Superior de Justiça consolidou-se no sentido de que o documento hábil para se comprovar a idade da vítima não se restringe ao registro civil, sendo outros documentos dotados de fé pública igualmente hábeis para a comprovação da idade.
+2. Pela leitura do acórdão recorrido, proferido nos embargos de declaração, é possível aferir que a idade da vítima (maior de 60 anos) foi consignada em boletim de ocorrência e nas declarações prestadas em juízo, gozando tais documentos de presunção de veracidade, uma vez que emanados de autoridade pública.
+Assim, havendo comprovação idônea, por documento hábil da idade da vítima, não há como afastar a referida agravante.
+3. Agravo regimental não provido (AgRg no REsp 1504789/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/02/2016).
+Por fim, no que diz respeito ao regime inicial de cumprimento da pena, melhor sorte socorre à paciente.
+O Juízo de primeiro grau fixou a pena-base no mínimo legal, aplicando a agravante genérica correspondente vítima maior de 60 anos e a majorante do concurso de pessoas na segunda e terceira fases, respectivamente, totalizando 6 anos, 2 meses e 20 duas de reclusão. O regime mais gravoso foi fundamentado nos seguintes termos:
+Considerada a natureza grave do delito, roubo a automóvel, no período noturno e em concurso de agentes, crime que está a alarmar a sociedade, fixo o regime inicial fechado para o cumprimento da pena, sendo este regime mais gravoso o único adequado para o crime de roubo (fl. 426).
+Desse modo, de rigor a aplicação da súmula n. 440 desta Corte Superior que dispõe:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração. Contudo, concedo a ordem de habeas corpus, de ofício, apenas para fixar o regime inicial de cumprimento da pena no semiaberto.
+Publique-se.
