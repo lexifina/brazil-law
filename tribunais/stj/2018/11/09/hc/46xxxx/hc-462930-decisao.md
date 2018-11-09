@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+O paciente cumpre pena total de 5 anos e 10 meses de reclusão, por infração ao art. 33, caput, e de 3 anos por infração ao art. 35, caput, ambos da Lei n. 11.343/06.
+Extrai-se dos autos que o Juízo da execução penal adotou o entendimento do STJ de que o crime de associação para o tráfico não se equipara aos crimes hediondos. Sendo assim, homologou o cálculo da pena e determinou o cumprimento de 2/3 para fins de livramento condicional.
+O Tribunal de Justiça do Estado de São Paulo reformou tal decisão, provendo o agravo em execução interposto pelo Ministério Público, nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO - Homologação de cálculo de penas - Recurso ministerial - Pretendida a retificação do cálculo, reconhecendo a associação para o tráfico como crime equiparado a hediondo - Isso porque, se o tráfico de entorpecentes possui tal natureza, a conduta de promovê-lo, com maior razão, deve ser considerada da mesma forma - Precedentes desta Colenda Câmara Criminal - Agravo ministerial provido" (e-STJ, fls. 59/65).
+Neste writ, alega a impetrante, em síntese, que o crime de associação para o tráfico não pode ser equiparado a hediondo, devendo, portanto, ser observados os requisitos relativos aos crimes comuns, quando da análise dos benefícios da execução criminal.
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Busca a impetrante, neste writ, a retificação do cálculo da pena, com a observância das frações de crime comum ao delito previsto no art. 35 da Lei n. 11.343/06.
+Com efeito, o entendimento do Superior Tribunal de Justiça é pacífico no sentido de não ser considerado hediondo o delito de associação para o tráfico, previsto no art. 35 da Lei n. 11.343/2006, uma vez que não está expressamente elencado no rol do art. 2º da Lei n. 8.072/1990.
+Nesse sentido, confiram-se estes julgados:
+"ASSOCIAÇÃO PARA O TRÁFICO. NATUREZA HEDIONDA. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREVISÃO NO ROL TAXATIVO DO ARTIGO 2º DA LEI N. 8.072/1990. PROGRESSÃO DE REGIME. ART. 112 DA LEP. LIVRAMENTO CONDICIONAL. LAPSO NECESSÁRIO PARA A CONCESSÃO (2/3 DA PENA). PREVISÃO EXPRESSA NO ART. 44, PARÁGRAFO ÚNICO, DA LEI N. 11.343/06. PRINCÍPIO DA ESPECIALIDADE.
+1. O crime de associação para o tráfico não é equiparado a hediondo, uma vez que não está expressamente elencado no rol do artigo 2º da Lei n. 8.072/1990.
+2. Em consequência, para fins de progressão de regime incide a regra prevista no art. 112 da LEP, ou seja, o requisito objetivo a ser observado é o cumprimento de 1/6 (um sexto) da pena privativa de liberdade imposta.
+3. Entretanto, para a obtenção do livramento condicional, a jurisprudência desta Corte Superior é assente no sentido de que, independentemente de o crime de associação para o tráfico não se enquadrar no rol de delitos hediondos, certo é que a Lei n. 11.343/06, em seu art. 44, parágrafo único, previu expressamente a necessidade do cumprimento de 2/3 (dois terços) da pena, devendo essa previsão legal prevalecer em relação ao art. 83 do Código Penal, em atenção ao princípio da especialidade.
+4. Habeas corpus não conhecido. Ordem concedida de ofício tão somente para afastar o caráter hediondo do delito de associação para o tráfico ilícito de entorpecentes e, em consequência, determinar que a progressão de regime, em relação a este, seja analisada à luz do art. 112 da LEP." (HC 307.174/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/04/2016, DJe 18/04/2016.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. ASSOCIAÇÃO PARA O TRÁFICO. CRIME NÃO INCLUÍDO NO ROL DOS DELITOS HEDIONDOS OU EQUIPARADOS. REFORMA NO CÁLCULO DAS PENAS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo o entendimento do Supremo Tribunal Federal, passou a inadmitir habeas corpus substitutivo de recurso próprio, ressalvando, porém, a possibilidade de concessão da ordem de ofício nos casos de flagrante constrangimento ilegal.
+- A jurisprudência consolidada do Superior Tribunal de Justiça entende que o delito de associação para o tráfico de drogas não possui natureza hedionda, por não estar expressamente previsto nos arts. 1º e 2º da Lei n. 8.072/90.
+Habeas corpus não conhecido. Ordem concedida de ofício, para determinar que o Juízo das Execuções considere a condenação pelo crime de associação para o tráfico como não hediondo." (HC 337.543/MG, Rel. Ministro ERICSON MARANHO (Desembargador convocado do TJ/SP), SEXTA TURMA, julgado em 03/11/2015, DJe 19/11/2015.)
+Observa-se, dessa forma, a ocorrência de flagrante ilegalidade passível de concessão da ordem de ofício em relação aos cálculos referente à progressão de regime, pois o entendimento do Tribunal de origem diverge da jurisprudência do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para restabelecer a decisão do Juízo das Execuções.
+Publique-se. Intimem-se.
