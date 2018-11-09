@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por UNIMED DE MARÍLIA COOPERATIVA DE TRABALHO MÉDICO contra a decisão proferida pela Presidência do Superior Tribunal de Justiça (fls. 284-285 e-STJ) que não conheceu do agravo em recurso especial.
+Nas presentes razões, a agravante alega:
+"Pretende a agravante a reforma do r. despacho que não conheceu do agravo, limitando-se a afirmar de a agravante deixou de impugnar especificamente não cabimento de REsp alegando violação de norma constitucional, o que com todo respeito não se verifica na espécie. Discute-se no presente agravo e recurso especial o cerceamento de defesa (normas infraconstitucionais) e a legalidade do aumento por sinistralidade embasado no entendimento do Superior Tribunal de Justiça"(e-STJ fls. 289-297).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação da recorrente, faz-se imperiosa a reconsideração da decisão de fls. 284-285 e-STJ e passa-se ao exame do agravo em recurso especial interposto por UNIMED DE MARÍLIA COOPERATIVA DE TRABALHO MÉDICO contra a decisão que negou seguimento ao recurso especial.
+Ultrapassados os requisitos de admissibilidade do agravo, verifica-se que o recurso especial (fls. 209-229 e-STJ), fundamentado nas alíneas "a" e "c" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE - Consignação em pagamento - Procedência decretada - Cerceamento de defesa - Inocorrência - Documentos que deveriam ter sido apresentados com a defesa - Abusividade reconhecida - Relação de consumo que não permite que o fornecedor obtenha vantagem exagerada em detrimento dos interesses dos consumidores - Ajuste celebrado em que devem prevalecer os postulados da cooperação, solidariedade, confiança e boa-fé objetiva - Recurso desprovido"(e-STJ fl. 182) .
+Nas razões do recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos artigos 130, 332 e 333 do Código de Processo Civil de 1973, 5º, XXXV, LIV e LV da Constituição Federal, 54, §§ 3º e 4º, do Código de Defesa do Consumidor e 19, § 1º, da Resolução Normativa 195 da ANS .
+Alega a ocorrência de cerceamento de defesa, em razão do julgamento antecipado da lide, o que lhe impede de demonstrar a legalidade dos índices apresentados na planilhas que demonstram a necessidade do aumento praticado.
+Aduz que o contrato estabelece entre as partes o direito de reajuste por sinistralidade, ou seja, pela variação dos custos do contrato, conforme dispõe a cláusula 15.1.7., redigida de forma legível e clara, de modo a permitir sua compreensão pela recorrida.
+A pretensão recursal não merece acolhida.
+Primeiramente, compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+Resta incabível, também, a análise de recurso especial que tenha por fundamento violação de resolução.
+Ademais, não subsisti a alegação de cerceamento de defesa, em razão do julgamento antecipado da lide.
+Eis o acórdão recorrido, no que interessa à espécie:
+"Rejeito, de início, a aventada preliminar de nulidade do julgado por cerceamento de defesa, posto que para demonstrar a legalidade do reajuste praticado bastava a ré trazer aos autos o cálculo efetivado quando da aplicação de referido reajuste, daí porque desnecessária a produção da prova pericial pretendida" (e-STJ fl. 183).
+Com efeito, devem ser levados em consideração os princípios da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do artigo 370 do Código de Processo Civil de 2015 (art. 130 do CPC/1973), permitem ao julgador determinar as provas que entender necessárias à instrução do processo bem como o indeferimento daquelas que considerar inúteis ou protelatórias.
+Dessa forma, não há falar em nulidade processual por ausência de produção de prova, visto que a decisão vergastada procedeu à devida análise dos fatos e a sua adequação ao direito.
+No mais, o Tribunal de origem decidiu o seguinte:
+"Cuida-se de ação de consignação em pagamento, proposta por empresa beneficiária em face de operadora de plano de saúde.
+Sustenta a autora que a ré se recusou a receber o pagamento da mensalidade, daí porque a necessidade de propositura desta ação.
+Em defesa, alega a ré que a recusa é legítima uma vez que a autora pretendia efetivar o pagamento da mensalidade sem o reajuste decorrente de sinistralidade, previsto no contrato.
+Bem decidiu a lide o julgador monocrático, não assistindo razão à apelante.
+(..) No caso dos autos, em se tratando de relação de consumo, não se admite que o fornecedor obtenha vantagem exagerada em detrimento do interesse dos consumidores, representando o reajuste unilateral, baseado em suposto aumento da sinistralidade, violação ao disposto no artigo 51, incisos IX e XI, do Código de Defesa do Consumidor, contrariando, ademais, a própria natureza do contrato.
+Assim, em se tratando de relação de consumo, não se admite que o fornecedor obtenha vantagem exagerada em detrimento do interesse dos consumidores, representando o reajuste unilateral, baseado em suposto aumento da sinistralidade, violação ao disposto no artigo 51, incisos IX e XI, do Código de Defesa do Consumidor, contrariando, ademais, a própria natureza do contrato.
+Como decidiu o C. Superior Tribunal de Justiça, quando do julgamento do REsp 1.073.595/MG da Relatoria da Ministra Nancy Andrighi, esse tipo de contrato não pode ser analisado isoladamente, como um acordo de vontades por um período fixo, mas deve ser interpretado como um ajuste em que deve prevalecer os postulados da cooperação, solidariedade, confiança e boa-fé objetiva, o que não ocorreu no presente caso.
+Nem se alegue, ademais, que o reajuste dos prêmios possui respaldo no próprio contrato, na legislação da ANS e na finalidade de manter o seu equilíbrio econômico - financeiro, posto que essa argumentação somente impõe ao consumidor, parte mais vulnerável na relação, desequilíbrio em seu desfavor, sem restabelecer a estabilidade do instrumento.
+Além disso, manter equilíbrio econômico não significa autorizar a apelada a deliberar elevações unilaterais, não previamente justificadas e informadas ao consumidor" (e-STJ fls. 183-187).
+Com efeito, alterar tais conclusões da forma pretendida pela recorrente demandaria a análise de circunstâncias fático-probatórias e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. MENSALIDADE. REAJUSTE ABUSIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É idôneo o reajuste de mensalidade dos contratos de plano de saúde coletivo, sempre ressalvada a abusividade da respectiva cláusula.
+3. Rever o entendimento firmado nas instâncias ordinárias, de que os reajustes pretendidos pelo seguro de saúde são abusivos, implicaria a análise de fatos, provas e de cláusulas contratuais, procedimentos inviáveis no recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp 1118977/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/08/2018, DJe 07/08/2018).
+Ante o exposto, reconsidero a decisão agravada (fls. 284-285 e-STJ) e conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% sobre o valor da causa (R$ 12.215,70), os quais devem ser majorados para 17,5% sobre o valor atualizado da causa, em favor do advogado da parte recorrida, nos termos art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
