@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE ALUGUEL. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Ação Revisional de Aluguel
+2. A existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza violação do art. 535 do CPC.
+3 - Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto pela COOPERATIVA DE ELETRIFICAÇÃO RURAL DO VALE DO ACARAÚ LTDA, com fundamento na alínea "a" do permissivo constitucional.
+Recurso Especial interposto em: 26/01/2016
+Processo concluso ao Gabinete em: 13/06/2018
+Ação: revisional de aluguel ajuizada pela recorrente em face da COMPANHIA ENERGÉTICA DO CEARÁ - COELCE, na qual requer a revisão dos valores pagos a título de aluguel em razão da utilização dos equipamentos elétricos pertencente à autora.
+Sentença: julgou improcedentes os pedidos formulados na petição inicial da recorrida, condenando a autora ao pagamento das custas e despesas processuais e dos honorários advocatícios.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela recorrida, nos termos da ementa a seguir:
+PROCESSUAL CIVIL. APELAÇÃO. AÇÃO REVISIONAL DE ALUGUEL PELA UTILIZAÇÃO DE SISTEMA ELÉTRICO. CONEXÃO COM AÇÃO CONSIGNATÓRIA E MONITÓRIA: IMPROCEDÊNCIA. PRETENSÃO DE MAJORAÇÃO DO VALOR ESTIPULADO NO ÚLTIMO ADITIVO AO CONTRATO. ALEGAÇÃO DE ONEROSIDADE EXCESSIVA. AUSÊNCIA DE PRESSUPOSTOS PASSÍVEIS DE CARACTERIZAR A TEORIA DA IMPREVISÃO. MULTA POR EMBARGOS DECLARATÓRIOS PROTELATÓRIOS: MANUTENÇÃO.
+- Não tendo a autora comprovado a ocorrência de fato superveniente, extraordinário, imprevisível, gerador de desequilíbrio entre as partes contratantes, não há como dar guarida à pretensão de revisão contratual, restando incólumes os termos do pacto firmado.
+- A multa prevista no art. 538, parágrafo único, do CPC é devida quando o recurso aclaratório é manifestamente protelatório, não se podendo afastá-la quando o Juiz de primeiro grau entende, acertadamente, que os embargos lançados contra a sentença pretendiam apenas rediscutir acerca do tema relativo à conexão, que fora tratado na decisão de forma contrária à pretensão da parte.
+RECURSO CONHECIDO, PORÉM DESPROVIDO (e-STJ fl. 2793).
+Embargos de Declaração: opostos pela recorrente, foram rejeitados (e-STJ fl. 2885/2892).
+Recurso Especial: a recorrente, em suas razões recursais, alega negativa de vigência ao art. 535, II, do CPC, aduzindo que o Tribunal a quo teria deixado de se manifestar acerca das questões suscitadas em seus aclaratórios, quais sejam: i) ausência de pronunciamento acerca dos arts. 512, 426, II, 437 e 438 do CPC; ii) que o acórdão modificou a causa de pedir e o pedido, tendo ocorrido a violação dos arts. 128 e 460 do CPC; iii) ausência de pronunciamento acerca da Lei de Locações, visto que a revisão de contrato é diferente da revisão de aluguel; iv) ausência de fundamentação no acórdão para justificar que o patrimônio da COPERVA seria de propriedade da COELCE; v) ausência de fundamentação no acórdão recorrido que justifique que o patrimônio da COPERVA se restringiria as redes de baixa tensão; vi) ausência de fundamentação para a manutenção da aplicação da multa inserta no art. 538, parágrafo único, do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 535, II, do CPC
+As razões recursais que envolvem as supostas omissões do Tribunal de origem, residem na alegação de que este, apesar de instado a se manifestar por meio de embargos declaratórios opostos pela recorrente, quedou-se silente acerca da questão nele deduzida.
+Da análise do processo, constata-se que o Tribunal não se manifestou acerca dos pontos suscitados pela recorrente nos embargos declaratórios, quais sejam: i) ausência de pronunciamento acerca dos arts. 512, 426, II, 437 e 438 do CPC; ii) que o acórdão modificou a causa de pedir e o pedido, tendo ocorrido a violação dos arts. 128 e 460 do CPC; iii) ausência de pronunciamento acerca da Lei de Locações, visto que a revisão de contrato é diferente da revisão de aluguel; iv) ausência de fundamentação no acórdão para justificar que o patrimônio da COPERVA seria de propriedade da COELCE; v) ausência de fundamentação no acórdão recorrido que justifique que o patrimônio da COPERVA se restringiria as redes de baixa tensão; vi) ausência de fundamentação para a manutenção da aplicação da multa inserta no art. 538, parágrafo único, do CPC.
+Desse modo, impõe-se a cassação do acórdão que apreciou os aclaratórios, a fim de que seja sanada a omissão suscitada, tendo-se como prejudicada as demais questões deduzidas no presente recurso.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 255, §4º, III, "c", do RISTJ, a fim de anular o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela recorrente.
+Publique-se. Intimem-se.
