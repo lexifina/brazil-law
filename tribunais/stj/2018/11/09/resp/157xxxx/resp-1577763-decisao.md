@@ -1,0 +1,39 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial, interposto por [NOME], fundamentado nas alíneas "a" e "c", inciso III do artigo 105 da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 711/712):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE RESCISÃO DE CONTRATO de compra e venda de imóvel, CUMULADA COM PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS, AÇÃO DECLARATÓRIA E AÇÃO MONITÓRIA. existência de gravame sobre o bem. informação não prestada pelo corretor aos compradores. responsabilidade objetiva da imobiliária. inteligência dos arts. 723 do cc e 14 do cdc. condenação solidária à reparação pelos danos morais infligidos aos autores. HONORÁRIOS ADVOCATÍCIOS. MAnutenção. SUCUMBÊNCIA REDEFINIDA. cheque. DOCUMENTO HÁBIL A APARELHAR A AÇÃO EXECUTIVA. pleito de declaração JUDICIAL DE REPRESENTAR CRÉDITO DO AUTOR. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. AÇÃO EXTINTA. EMBARGOS MONITÓRIOS. PRELIMINAR DE ILEGITIMIDADE ATIVA DESACOLHIDA. TÍTULOS HÁBEIS A INSTRUIR A AÇÃO MONITÓRIA.
+AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL.
+1. O corretor de imóveis tinha o dever de informar aos compradores a existência de gravame real sobre o bem objeto da contratação, nos termos do art. 723 do Código Civil. Não comprovada a ciência dos autores a respeito do gravame, nos termos do disposto no art. 14 do CDC, responde a Imobiliária pela omissão de seu preposto, mediante aplicação da teoria da responsabilidade objetiva.
+Condenação solidária da Imobiliária e do vendedor Edson à indenização pelos danos morais infligidos aos autores.
+1.1. Manutenção da verba honorária devida aos procuradores dos autores em 10% sobre o valor da condenação, considerando, o nível do trabalho realizado, o tempo de tramitação do feito, a existência de dilação probatória e a complexidade da demanda. Contudo, o percentual de 10% deverá ser suportado individualmente pelo réu Edson e pela Imobiliária.
+AÇÃO DECLARATÓRIA.
+1. Tratando-se o cheque de ordem de pagamento à vista e documento hábil a aparelhar a demanda executiva, nos termos do inciso I do art. 585 do Código de Processo Civil, mostra-se descabida a declaração judicial de representar efetivo crédito do autor em relação ao réu. Flagrada a impossibilidade jurídica do pedido, impõe-se a extinção da ação, com fundamento no art. 267, inc. VI, do CPC.
+3. Ação monitória.
+1. Legitimidade do autor para figurar no polo ativo da demanda.
+1.1. Endosso em branco. Preliminar desacolhida.
+No caso concreto, houve endosso em branco dos cheques, ou seja, [NOME], ao assinar o verso dos cheques, possibilitou que esses passassem a circular como se fossem títulos ao portador, tendo os cheques passado às mãos do autor, [NOME], que propôs a ação monitória.
+1.2. Considerando a data da emissão das cártulas, 01/06/2007, e não havendo prova cabal e robusta da alegação da prática de agiotagem, não há como afastar a exigibilidade dos cheques em questão, uma vez que o cheque, uma vez colocado em circulação, mediante o endosso, desvincula-se do ato ou negócio jurídico que lhe deu causa. Torna-se, pois, título não-dependente do negócio que deu lugar à sua criação. Assim, é defeso ao seu emitente invocar a relação subjacente, em face do endossatário de boa-fé. Manutenção do juízo de improcedência dos embargos monitórios e, por consequência, de procedência da ação monitória.
+RECURSO DE APELAÇÃO interposto contra a sentença proferida na ação de rescisão de contrato verbal de compra e venda de imóvel c/c indenização por danos morais parcialmente provido.
+Preliminar suscitada no RECURSO DE APELAÇÃO, quanto à sentença proferida na ação declaratória proposta por [NOME], acolhida. Ação extinta, com fundamento no art. 267, inc. VI, do CPC.
+Preliminar suscitada no RECURSO DE APELAÇÃO interposto contra a sentença prolatada nos embargos monitórios desacolhida. APELO DESPROVIDO.
+Opostos embargos de declaração por ambas as partes, estes não foram acolhidos (e-STJ, fls. 765/771 e 773/779).
+Nas razões do recurso especial, a parte recorrente alega, preliminarmente, violação ao art. 535, II, do CPC, porquanto "o acórdão reconheceu a falha no dever de informar pelo corretor de imóveis, e a responsabilização da imobiliária quanto ao dever de indenizar, contudo, limitou esta indenização apenas a condenação do dano moral, fato que gerou contradição" (e-STJ, fl. 798), tendo em vista que os danos materiais não foram restituídos.
+Sustenta ofensa aos arts. 723 do Código Civil e 14 do Código de Defesa do Consumidor e suscita dissídio jurisprudencial, por entender que seria necessária a condenação da imobiliária por danos materiais, pois "o prejuízo dos recorrente é manifesto, pois pagou com cheques o valor total do imóvel, sendo que um destes cheques foi compensado, e outros foi repassado pelo vendedor para terceiros, estando os ora recorrentes sofrendo ações judiciais no sentido de cobrança dos valores apontados nos mencionado cheques (fato demonstrado pela sentença e acórdão), caracterizando aqui perdas e danos, cuja Legislação Federal, em seu artigo acima citado, determina a responsabilidade do corretor c consequentemente da imobiliária" (e-STJ, fl. 798).
+Sem contrarrazões (e-STJ, fls. 866 e 884), o recurso foi admitido (e-STJ, fls. 886/898).
+É o relatório.
+Passo a decidir.
+Assiste razão a parte recorrente.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+Nos embargos de declaração de fls. 741/744, a parte recorrente alegou omissão quanto ao ressarcimento pelas perdas e danos gerados pelo negócio em demanda.
+Com efeito, na análise detida dos autos, percebe-se que o Tribunal de origem não se manifestou, em sede de embargos de declaração, acerca da questão acima suscitada.
+O Tribunal de origem, no julgamento da apelação, apenas faz menção de que houve um cheque no valor de R$55.000,00 (cinquenta e cinco mil reais), emitido pelo comprador, que foi descontado, in verbis (e-STJ, fl. 723):
+"É de ser salientado que foi equivocadamente referido na sentença que o cheque nº 851119, com vencimento em 04/05/2009, no valor de R$ 65.000,00, nominal à [NOME], teria sido compensado. Entretanto, o título compensado foi o de nº 851117, no valor de R$ 55.000,00, sendo os demais objeto de contraordem pelo autor [NOME], como se constata do documento da fl. 21".
+Contudo, não há na parte dispositiva ou mesmo no corpo do acórdão qualquer menção a necessidade de reparação de danos materiais.
+Inconformada a parte opôs embargos de declaração e no seu julgamento a Corte somente esclareceu que (e-STJ fl. 768):
+"No caso, a decisão não apresenta vício algum, sendo pacifico na jurisprudência do STJ que o Julgador não está obrigado a enfrentar todos os dispositivos legais indicados, bastando resolver a controvérsia posta, como se deu na espécie vertente.
+Evidente, portanto, a pretensão da parte embargante de ver rediscutida a matéria posta no recurso e já apreciada, o que não é permitido em sede de aclaratórios, segundo entendimento do STJ".
+Desse modo, é de rigor o acolhimento da alegação de ofensa ao art. 535, inciso II, do Código de Processo Civil, para anular o acórdão de fls. 765/771, para que seja suprida a omissão concernente a reparação das perdas e danos sofridos pelo consumidor, tal qual como suscitada pela parte recorrente.
+Ante o exposto, dou provimento ao recurso especial interposto por [NOME] OUTRA para anular o acórdão de fls. 765/771 e determinar que outro seja proferido, suprindo-se a omissão acima apontada, como se entender de direito.
+Intimem-se.
