@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela União contra decisão que inadmitiu o recurso especial ante a razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXPLORAÇÃO DE RECURSOS MINERAIS POR ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA DIRETA DA UNIÃO. NECESSIDADE DE PREVISÃO LEGAL ESPECÍFICA. INDENIZAÇÃO. DESCABIMENTO DA CONDUTA ADMINISTRAÇÃO DE IGNORAR A CONCESSÃO DE EXPLORAÇÃO PARA PASSAR A EXPLORAR A JAZIDA SEM O DEVIDO PROCESSO DE REVOGAÇÃO DO ATO DE CONCESSÃO. PEDIDOS DE OBRIGAÇÃO DE NÃO IMPEDIR O PROSSEGUIMENTO DA EXPLORAÇÃO E DE INDENIZAÇÃO PARA A HIPÓTESE DE DESCUMPRIMENTO DA SENTENÇA. INÉPCIA DO SEGUNDO PEDIDO PORQUE SUBMETIDO A CONDIÇÃO FUTURA
+E INCERTA.
+1. O artigo 16 do DL 227/67 regulamenta todo o procedimento necessário à obtenção do título de pesquisa, devendo o interessado apresentar todos os documentos ali elencados sob pena de indeferimento do seu pedido.
+2. Cumpridas as exigências legais e respeitado o direito de prioridade, a Autarquia outorga à parte interessada o alvará de pesquisa mineral, não atuando com discricionariedade, mas sim vinculada à lei. A autorização de pesquisa consiste em título autorizativo permissivo para as atividades de análise e estudo da área em que se pretende lavrar, sendo entendida como a "(..) execução dos trabalhos necessários à definição da jazida, sua avaliação e a determinação da exeqüibilidade do seu aproveitamento econômico", conforme disposto no art. 14 do Código de Mineração, sob a responsabilidade de profissional habilitado.
+3. A autorização de pesquisa precede o requerimento de concessão de lavra, somente sendo este autorizado após a apresentação do relatório final de pesquisa que, aprovado, demonstre a viabilidade lavra. A outorga do título de Lavra, pois, está condicionada a constatação da efetiva pesquisa da jazida, com o respectivo Relatório Final de Pesquisa aprovado e que demonstre a viabilidade dos trabalhos de extração e beneficiamento. A lavra do produto mineral anteriormente à certificação acerca de sua viabilidade é atividade defesa, ratificando a marginalidade legal da conduta da Apelante.
+4. A Administração não pode ignorar a autorização concedida regularmente e explorar a jazida respectiva sem o devido processo de revogação.
+5. Se a Autora requereu que, acaso os Réus não viessem a cumprir a determinação judicial, fossem condenados a uma indenização por perdas e danos correspondente ao valor econômico da jazida, indenização esta a ser calculada em execução de sentença, tal pedido é futuro, incerto e condicional, o que significa dizer inepto.
+6. Apelações e remessa oficial desprovidas.
+A União sustenta que o acórdão violou o art. 2º, parágrafo único, do Decreto-Lei n. 227/1967, que permite a extração, por parte da administração direta e autárquica da União, dos Estados, do Distrito Federal e dos Municípios, de substâncias minerais de emprego imediato, ou seja, para uso exclusivo em obras públicas executadas diretamente por eles.
+Decido.
+Com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+Após o trânsito, enviem-se os autos ao Ministério Público Federal para oferecimento de parecer no recurso especial.
