@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DESCONTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE COMPLEMENTAÇÃO DE APOSENTADORIA. LEIS COMPLEMENTARES 1.012/2007, 954/2003 E LEI 4.819/1958, TODAS DO ESTADO DE SÃO PAULO. ANÁLISE DE DIREITO LOCAL. NÃO CABIMENTO. SÚMULA 280 DO STF. AGRAVO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por EUNICE FONSECA DA NOBREGA e outros, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Mandado de segurança - Desconto de contribuição previdenciária sobre complementação de aposentadoria - Extinção do processo em razão de decadência - Impossibilidade - Relação de trato sucessivo - Ato lesivo que se renova a cada mês - Decadência afastada - Possibilidade de julgamento imediato, nos termos do artigo 515, §§ 1o. e 3o. do CPC - Denegação da segurança - Impossibilidade de cessação do recolhimento - Aplicação do art. 9o. da Lei Complementar estadual 1.012/1997 - Categoria de aposentado do Estado que não distingue se, na ativa, empregado ou servidor público - Denegação da ordem mantida, por fundamento diverso - Não provimento do recurso (fls. 132).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, os recorrentes alegam ofensa aos arts. 2o., § 1o., 5o. e 6o., § 2o. da LICC; 9o., I e 180, § 1o. do CTN; e 535, II do CPC/1973, argumentando que a alteração provocada pela Lei Complementar 1.012/2007 na Lei Complementar 954/2003, ambas do Estado de São Paulo, expressamente excluiu do rol dos contribuintes obrigatórios os servidores que recebem complementação de aposentadoria e pensão, Lei Estadual 4.819/1958.
+4. É o relatório do essencial.
+5. Inicialmente, em relação à suposta contrariedade ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. Dessume-se, da leitura do acórdão recorrido e das razões do Apelo Nobre, que a controvérsia dos autos demanda a análise do disposto nas Leis Complementares 1.012/2007 e 954/2003 e na Lei 4.819/1958, todas do Estado de São Paulo.
+7. Entretanto, como cediço, não é possível, em sede de Recurso Especial, o exame de eventual ofensa a dispositivos legais emanados de legislação local, como no caso, a teor da Súmula 280 do STF.
+8. Ante o exposto, nega-se provimento ao Agravo dos Servidores.
+9. Publique-se.
+10. Intimações necessárias.
