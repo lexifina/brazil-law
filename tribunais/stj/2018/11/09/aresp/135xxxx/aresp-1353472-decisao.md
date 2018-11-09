@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por NZ COOPERPOLYMER TERMOPLÁSTICOS DE ENGENHARIA LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação de obrigação de fazer - Sentença de improcedência - Apelação do réu - Honorários advocatícios fixados em 10% do valor da causa, o que equivale a R$100,00 - Proveito econômico inestimável e valor da causa diminuto - Situações que atraem o arbitramento de honorários por apreciação equitativa, com fulcro no art. 85, §8º, do CPC/2015 - Elevação da verba honorária de R$100,00 para R$1.500,00 - Importância que se ajusta à relativa simplicidade da causa e ao trabalho efetuado pelo causídico vencedor, além de não destoar de precedentes observados por esta 24ª Câmara de Direito Privado - Sentença reformada em parte - Recurso provido" (e-STJ fl. 160).
+No recurso especial, alega-se violação do art. 85, § 2º, do Código de Processo Civil de 2015, ao fundamento de que os honorários advocatícios fixados pelo acórdão estadual são exorbitantes e devem ser reduzidos para 10% do valor da causa.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O acórdão recorrido assim se pronunciou sobre a verba honorária:
+"(..)
+No caso, o proveito econômico é inestimável e o valor da causa, no importe de R$1.000,00, afigura-se muito baixo para servir de parâmetro. Impõe-se, portanto, a observância do critério da apreciação equitativa, com fulcro na norma transcrita, fugindo-se dos percentuais situados entre 10% e 20% do valor da causa.
+Relativamente ao quantum, como se pode observar, o arbitramento por equidade se reporta às balizas traçadas nos incisos do § 2º, do citado dispositivo processual, a saber: (i) o grau de zelo do profissional; (ii) o lugar de prestação do serviço; (iii) a natureza e a importância da causa; (iv) o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+A causa caracteriza-se por relativa simplicidade e foi julgada sem necessidade de dilação probatória. Em contrapartida, não se pode perder de vista que os honorários devem remunerar condignamente a atividade desenvolvida pelo patrono, evidenciada na contestação e resposta a agravo de instrumento, além de assessoria ao cliente e coleta de documentos necessários à confecção da defesa.
+Desse modo, considerando-se não apenas o trabalho empreendido pelo advogado, mas também a inexistência de maiores complexidades, chega-se à conclusão de que o valor o R$ 1.500,00 (mil e quinhentos reais) melhor se ajusta à hipótese, além de não destoar de casos semelhantes recentemente julgados por esta Câmara" (e-STJ fls. 161/162).
+Com efeito, nos termos do art. 85, § 8º, do CPC/2015, a fixação equitativa dos honorários ocorre somente "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo". Verifica-se, portanto, que o caso dos autos se enquadra nas exceções que possibilitam a apreciação equitativa nos moldes desse dispositivo legal.
+Ademais, o arbitramento da verba honorária por equidade não está adstrito aos limites legais do art. 85, § 2º, caput, do CPC/2015 e, nos termos da jurisprudência desta Corte, a revisão do montante arbitrado pelo tribunal de origem encontra óbice na Súmula nº 7/STJ, salvo se configurada manifesta irrisoriedade ou exorbitância, o que não se verifica no presente caso.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE DE ORIGEM COM BASE NO CRITÉRIO DA EQUIDADE. DESPROPORCIONALIDADE NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fixação dos honorários advocatícios pelo tribunal de origem, com base no critério da equidade, demanda apreciação de elementos fáticos, inviabilizando a reapreciação por esta Corte, à vista do óbice da Súmula n. 7/STJ, salvo se configurada irrisoriedade ou exorbitância, o que não ocorreu.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - (..)
+VI - Agravo Interno improvido" (AgInt no REsp 1.673.906/DF, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 13/3/2018, DJe 22/3/2018).
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do entendimento desta Corte, nas causas em que não há condenação, o magistrado não está adstrito aos limites entabulados no § 3º do artigo 20 do CPC/73 (art. 85, § 2º, NCPC), visto que, nestas hipóteses, os honorários deverão ser fixados equitativamente.
+2. Ressalvadas as hipóteses de notória exorbitância ou manifesta insignificância - que não se vislumbra no caso sub judice -, os honorários advocatícios fixados por critério de equidade não se submetem a controle por via de recurso especial, pois demandaria reexame de matéria fática, providência esta vedada a esta Corte, em razão do óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt no AREsp 1.144.990/SE, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 28/11/2017, DJe 4/12/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.500 (mil e quinhentos reais), os quais devem ser majorados para o patamar de R$ 1.875,00 (mil, oitocentos e setenta e cinco reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
