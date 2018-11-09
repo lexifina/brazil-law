@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NOS AGRAVOS EM RECURSO ESPECIAL. RECURSOS ESPECIAIS NÃO CONHECIDOS DIANTE DA SÚMULA N. 7 DO STJ. FUNDAMENTO NÃO INFIRMADO NOS AGRAVOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os recursos especiais interpostos pelos agravantes não foram admitidos pelo Tribunal a quo porque "ultrapassar as conclusões do acórdão, que foram diferentes das conclusões dos recursos extremos sobre matéria fática, implicaria reexame de provas e fatos, o que não autoriza o seguimento do apelo (Súmula n. 7, STJ)" (fl. 1.994).
+2. Nos agravos subsequentes, a defesa furtou-se a infirmar o fundamento da inadmissão dos recursos especiais. Neste regimental, apenas repete os argumentos anteriormente sustentados e alega, de forma bastante superficial, que as questões suscitadas nos recursos especiais não cuidam de mero reexame de provas e fatos e que "a finalidade do processo deve ser privilegiada em detrimento da forma" (fl. 2.266). Incidência da Súmula n. 182 do STJ.
+3. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, ainda não publicado).
+4. Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro. Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LACY DE [NOME] MOREIRA e [NOME] interpõem agravo regimental contra a decisão de fls. 2.193-2.195, em que não conheci dos agravos em recurso especial por incidir, no caso, a Súmula n. 182 do STJ.
+Neste agravo regimental, a defesa insiste nos argumentos anteriormente sustentados. Alega, de forma bastante superficial, que as questões suscitadas nos recursos especiais não cuidam de mero reexame de provas e fatos e que "a finalidade do processo deve ser privilegiada em detrimento da forma" (fl. 2.266).
+Pleiteia, portanto, a reconsideração da decisão anteriormente proferida ou o encaminhamento dos autos para julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NOS AGRAVOS EM RECURSO ESPECIAL. RECURSOS ESPECIAIS NÃO CONHECIDOS DIANTE DA SÚMULA N. 7 DO STJ. FUNDAMENTO NÃO INFIRMADO NOS AGRAVOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os recursos especiais interpostos pelos agravantes não foram admitidos pelo Tribunal a quo porque "ultrapassar as conclusões do acórdão, que foram diferentes das conclusões dos recursos extremos sobre matéria fática, implicaria reexame de provas e fatos, o que não autoriza o seguimento do apelo (Súmula n. 7, STJ)" (fl. 1.994).
+2. Nos agravos subsequentes, a defesa furtou-se a infirmar o fundamento da inadmissão dos recursos especiais. Neste regimental, apenas repete os argumentos anteriormente sustentados e alega, de forma bastante superficial, que as questões suscitadas nos recursos especiais não cuidam de mero reexame de provas e fatos e que "a finalidade do processo deve ser privilegiada em detrimento da forma" (fl. 2.266). Incidência da Súmula n. 182 do STJ.
+3. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, ainda não publicado).
+4. Agravo regimental não conhecido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Os recursos especiais interpostos pelos agravantes não foram admitidos pelo Tribunal a quo porque "ultrapassar as conclusões do acórdão, que foram diferentes das conclusões dos recursos extremos sobre matéria fática, implicaria reexame de provas e fatos, o que não autoriza o seguimento do apelo (Súmula n. 7, STJ)" (fl. 1.994).
+Nos agravos subsequentes, a defesa furtou-se a infirmar o fundamento da inadmissão dos recursos especiais. Neste regimental, apenas repete os argumentos anteriormente sustentados e alega, de forma bastante superficial, que as questões suscitadas nos recursos especiais não cuidam de mero reexame de provas e fatos e que "a finalidade do processo deve ser privilegiada em detrimento da forma" (fl. 2.266). Incide no caso, portanto, a Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito recentes julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+Por fim, tal posicionamento está em consonância com a jurisprudência deste Tribunal, no sentido de que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, ainda não publicado).
+À vista do exposto, não conheço do agravo regimental.
