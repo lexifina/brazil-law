@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por SINDICATO DOS MÉDICOS DO ESTADO DO CEARÁ, com fulcro na(s) alínea(s) "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 236):
+EMENTA: ADMINISTRATIVO. REAJUSTE. SERVIDOR PÚBLICO. PRESCRIÇÃO. INOCORRÊNCIA. ÍNDICE DE 11,98%. AUSÊNCIA DE DIREITO À INCIDÊNCIA SOBRE OS CONTRACHEQUES DOS SERVIDORES DO PODER EXECUTIVO. APELO DESPROVIDO. AGRAVO RETIDO NÃO CONHECIDO.
+1. Não se conhece do agravo retido interposto pelo demandante, tendo em vista não ter sido expressamente requerida, nas razões de apelação, a sua apreciação pelo Tribunal, nos termos do art. 523, § Io do CPC.
+2. A diferença decorrente da conversão dos salários em URV (11,98%) é devida tão-somente aos senadores dos Poderes Judiciário e Legislativo e do Ministério Público, haja vista a vista a norma ínsita no art. 168, da Constituição Federal.
+3. In casu, sendo os substituídos servidores do Poder Executivo, não há como prosperar o pedido de incorporação do respectivo índice.
+4. Precedentes desta Corte e do STJ.
+5. Apelação desprovida.
+Nas suas razões, o (a) recorrente alega, além de divergência jurisprudencial, de acordo com os arts. 19 e 22 da Lei n. 8.880/1994, os substituídos (servidores federais do Executivo) fazem jus à implantação do percentual de 11,98%, a ser apurada em liquidação de sentença.
+Contrarrazões às e-STJ fls. 291/299.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fl. 308.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida tal premissa, anoto, em homenagem ao deduzido nas contrarrazões recursais, que esta Corte admite o prequestionamento implícito, não exigindo a menção expressa ao dispositivo de lei federal pela Corte de origem, para fins de admissibilidade do recurso na instância excepcional, bastando que o acórdão impugnado tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Ilustrativamente:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. OCORRÊNCIA. REEXAME DE PROVA. SÚMULA N. 7 DO STJ.
+1. O conhecimento do recurso especial não exige a expressa menção aos dispositivos legais tidos por violados, bastando que as matérias por eles versadas tenham sido discutidas pelo Tribunal a quo. Admite-se, portanto, o prequestionamento implícito.
+2. Aplica-se a Súmula n. 7 do STJ se a tese defendida no recurso especial reclamar a análise dos elementos fáticos-probatórios produzidos ao longo da demanda.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 676.049/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 22/09/2015, DJe 28/09/2015)
+Destarte, observo que o sentenciante rejeitou o pleito autoral porque os substituídos, servidores do Poder Executivo Federal, recebiam seus vencimentos/proventos no segundo dia útil do mês subsequente e não antes do último dia do mês (e-STJ fl. 153).
+O Regional, por sua vez, no aresto recorrido, fez consignar que a "diferença decorrente da conversão dos salários em URV (11,98%) é devida tão-somente aos servidores dos Poderes Judiciário e Legislativo e do Ministério Público e não aos substituídos "servidores do Poder Executivo" (e-STJ fl. 232).
+De acordo com a orientação preconizada no Superior Tribunal de Justiça, sob o rito do art. 534-C do CPC/1973 (REsp 1101726/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 13/05/2009, DJe 14/08/2009), "os servidores cujos vencimentos eram pagos antes do último dia do mês têm direito à conversão dos vencimentos de acordo com a sistemática estabelecida pela Lei nº 8.880/94, adotando-se a URV da data do efetivo pagamento nos meses de novembro de 1993 a fevereiro de 1994", mesmo aqueles integrantes do Poder Executivo Federal, Estadual ou Municipal.
+Isso quer dizer que "o índice de 11,98% não é devido indistintamente às diversas carreiras do serviço púbico, mas tão somente àquelas cujos servidores recebem seus vencimentos nos moldes do art. 168 da Constituição Federal" (AgRg no REsp 1292028/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/05/2014, DJe 18/06/2014).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DIFERENÇAS SALARIAIS. PRESCRIÇÃO DO FUNDO DO DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. CONVERSÃO DE VENCIMENTOS EM URV. APLICAÇÃO DA LEI FEDERAL Nº 8.880/1994. DATA DO PAGAMENTO. DEFASAGEM. SOMENTE SERVIDORES QUE RECEBIAM OS SALÁRIOS ANTES DO FINAL DO MÊS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. No que se refere à alegada ofensa ao Decreto 20.910/1932, o acórdão recorrido está em sintonia com o entendimento jurisprudencial do Superior Tribunal de Justiça, no sentido de que, em pleitos de diferenças salariais originadas da conversão de cruzeiros reais para URV, não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, por configurar-se relação de trato sucessivo, conforme disposto na Súmula 85/STJ: "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação".
+2. Conforme jurisprudência firmada nesta Corte, a conversão salarial em URV, de que cuidou a Lei nº 8.880/94, em relação àqueles servidores que têm a data de pagamento nos termos da liberação orçamentária estabelecida pelo art. 168 da Carta Magna, deve-se dar na data do efetivo pagamento. Devido o percentual de 11,98% incidente nos vencimentos dos recorridos, resultante do errôneo critério de conversão utilizado pela Administração.
+3. Recurso Especial parcialmente provido.
+(REsp 1664047/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 20/06/2017) (grifos acrescidos).
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. SERVIDOR PÚBLICO ESTADUAL DO PODER EXECUTIVO. CONVERSÃO DE VENCIMENTOS EM URV. SÚMULA 168/STJ.
+1. Esta Corte já consolidou entendimento no sentido de que os servidores públicos, federais, estaduais ou municipais - inclusive do Poder Executivo - têm direito ao acréscimo da diferença decorrente da conversão de seus vencimentos para a Unidade Real de Valor - URV, nos moldes previstos na Lei 8.880/94, levando-se em conta a data do efetivo pagamento.
+2. Nos termos da Súmula 168/STJ, "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acordão embargado".
+3. Agravo interno desprovido.
+(AgRg nos EREsp 833.666/ES, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 22/10/2014, DJe 03/11/2014) (grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
