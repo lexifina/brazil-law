@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANO MORAL E REPARAÇÃO POR DANO MATERIAL. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. PRESUNÇÃO DO PREJUÍZO. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de compensação por dano moral e reparação por dano material devido ao atraso na entrega de unidade imobiliária.
+2. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+3. A jurisprudência firmada no âmbito da Terceira Turma do Superior Tribunal de Justiça é no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação de direito da personalidade dos promitentes compradores.
+4. Recurso especial conhecido e parcialmente provido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por CAMARGO CORREA - RODOBENS EMPREENDIMENTO IMOBILIARIO SPE LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de compensação por dano moral e reparação por dano material, ajuizada por ERIC [NOME], em face da recorrente, devido ao atraso na entrega de unidade imobiliária, na qual pleiteia compensação por dano moral e reparação por dano material.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a recorrente a pagar ao recorrido reparação por dano material no valor equivalente a 2% (dois por cento) sobre o valor total pago pelo imóvel, desde a data em que deveria ser entregue até a efetiva entrega do imóvel, além de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - Atraso na entrega das chaves - Validade do prazo de tolerância de 180 dias - Incidência da Súmula 161, desta E. Corte - Atraso caracterizado - Cabimento de indenização, a título de lucros cessantes, face à impossibilidade de obtenção de renda com o imóvel, que não se confunde com o dano hipotético Inteligência da Súmula 162, desta Corte - Danos morais configurados - Frustração quanto à aquisição do imóvel - Montante fixado com razoabilidade e proporcionalidade, não comportando majoração - Sentença mantida - Recurso desprovido. (e-STJ Fl. 235)
+Recurso especial: alega violação dos arts. 186, 422, 427 e 927 do CC, bem como dissídio jurisprudencial. Sustenta a validade das cláusulas do contrato de compra e venda de imóvel celebrado entre as partes. Insurge-se contra a obrigação de reparar dano material e compensar dano moral, eis que o atraso na entrega de unidade imobiliária se deu por conta da demora na emissão do habite-se.
+Relatado o processo, decide-se.
+- Da Súmula 568/STJ
+O TJ/SP, ao decidir que descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: REsp 1727939/DF, Terceira Turma, Dje de 17/09/2018 e AgInt no REsp 1743230/SP, Quarta Turma, Dje de 28/09/2018.
+- Da compensação por dano moral
+O TJ/SP, ao decidir que o descumprimento contratual gera a ocorrência de dano moral, contrariou o entendimento do STJ no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade (EDcl no REsp 1739451/RJ, Terceira Turma, DJe de 06/09/2018 e AgInt no REsp 1743230/SP, Quarta Turma, Dje de 28/09/2018).
+Na hipótese dos autos, a fixação do dano moral está justificada apenas no mero descumprimento contratual, sem que fossem demonstradas as circunstâncias específicas que permitam aferir a violação de algum direito da personalidade do recorrido, devendo, portanto, ser afastada a compensação por danos morais.
+Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para afastar os danos morais.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte recorrida, a título de honorários recursais, ao pagamento de R$ 1.000,00 (mil reais) em favor do procurador da parte recorrente.
+Publique-se. Intimem-se.
