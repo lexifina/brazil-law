@@ -1,0 +1,5 @@
+DECISÃO
+A decisão proferida no RE n. 870.947/SE, na qual foi deferido efeito suspensivo aos embargos de declaração opostos, relaciona-se, exclusivamente, ao índice de correção monetária. Assim, no que concerne aos juros e ao período de sua incidência há que se observar o que foi decidido o RE n. 579.431/RS e nos recursos repetitivos julgados por esta Corte (REsps n. 1.495.146/MG, 1.495.144/RS e 1.492.221/PR, Rel. Ministro Mauro Campbell Marques, DJe 20/3/2018).
+Assim, em resposta à consulta formulada pela Coordenadoria de Execução Judicial, esclareço que o bloqueio a que alude a decisão de fls. 297-298 se refere, tão somente, a diferença entre os índices de correção monetária adotados antes do julgamento do RE n. 870.947/SE e aquele firmado em repetitivo por esta Corte, após o julgamento do referido recurso, malgrado haja o decisum feito menção ao juros.
+Registro, ainda, que os valores bloqueados relativos à diferença deverão permanecer em conta vinculada até que se julgue, em definitivo, o tema pelo STF. Após o julgamento, se for o caso, a parte poderá levantar os referidos valores.
+Publique-se e intimem-se.
