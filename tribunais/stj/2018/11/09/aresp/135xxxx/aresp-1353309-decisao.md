@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. CHEQUES EFEITO PRO SOLVENDO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outra contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 824):
+Compra e venda. Rescisão. Prescrição. Inocorrência. Aplicação da regra de transição do artigo 2.028 do novo Código Civil. Imposição do artigo 205, caput, do Código Civil. Pagamento parcial efetuado por meio de cheques de terceiros, os quais foram recebidos pelos compradores, sem qualquer ressalva sobre a responsabilidade do cedente quanto à solvência dos mesmos. Artigo 296 do Código Civil. Inexistência de expressa indicação do efeito pro solvendo dos cheques. Rescisão afastada. Quitação mantida. Sentença preservada sob outro fundamento.
+Recurso a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, os recorrentes alegaram, além de divergência jurisprudencial, ofensa aos arts. 296, 421, 439, 489, § 1º, IV, 887, 1.219, 1.220 e 1.268 do Código Civil; e 515, § 3º, do CPC/1973.
+Sustentara,, em síntese, "a impossibilidade de aplicação da teoria da causa madura, pelo fato de ter a sentença extinto o processo em decorrência da prescrição, sendo que o objeto da relação jurídica (inadimplemento e consequente rescisão) não fora analisado em primeiro grau" (e-STJ, fl. 850).
+Afirmaram que "o cheque, sendo título de crédito, tem autonomia (art. 887 do Código Civil) e a sua emissão e entrega ao credor tem, em regra, natureza "pro solvendo"". Portanto, aduziram que "não se pode admitir que o negócio jurídico se extinga no momento em que cheques são entregues, pois imprescindível que estes sejam devidamente compensados pela instituição financeira" (e-STJ, fl. 853).
+Contrarrazões não foram apresentadas, conforme certidão juntada à fl. 900 (e-STJ).
+Juízo de admissibilidade negativo (e-STJ, fls. 901-902).
+Brevemente relatado, decido.
+No presente caso, as instâncias ordinárias consignaram que houve a celebração do negócio com pagamento mediante cheques de terceiros, sem quaisquer ressalvas do efeito pro soluto pelos vendedores, conforme trecho abaixo transcrito (e-STJ, fls. 826-827):
+ No mérito, é inquestionável que os compradores quitaram parte do valor com cheques emitidos por terceiros, os quais foram recebidos pelos vendedores, que só tomaram conhecimento da inadimplência dos réus, quando da apresentação dos mesmos.
+ Apresentado anterior pedido de rescisão contratual, o n. Magistrado a quo entendeu que os autores receberam os pagamentos sob o efeito pro soluto, por presunção, em 24/07/2003 (fls. 53/55), porém, revertido, em grau de recurso, pelo i. Des. Morato Coelho que proclamou a carência da ação, por falta de prévia notificação dos compradores (fls. 56/58).
+ Diante de tal entendimento, os vendedores, ora demandantes, procederam a referida notificação, em 23/04/2009 (fls. 60/114).
+ No entanto, diante da inércia dos requeridos, os autores propuseram, novamente, a presente ação, porém, sem atendimento do pedido, sob o argumento de que estava prescrito o pedido e também porque não houve qualquer ressalva de que os cheques de terceiros, recebidos pelos compradores, teriam sido recebidos sob o efeito pro solvendo (fls. 675/677).
+ Nos termos do artigo 296 do Código Civil, para que o cedente garantisse a solvência do título, o mesmo teria que ter sido acordado, formalmente, entre as partes, o que não ocorreu in casu, pois, ausente qualquer documento que pudesse comprovar tal assertiva.
+ Assim, recebidos os cheques pelos compradores somente sob o efeito pro soluto, quitado está o pagamento, não havendo que se falar em rescisão do contrato, permanecendo hígido o acordo entre as partes.
+Destarte, constata-se que o acórdão recorrido encontra-se em dissonância à jurisprudência desta Corte no sentido de que "o cheque, ordem de pagamento à vista, tem por função extinguir a obrigação causal que ensejou sua emissão; sendo, em regra, pro solvendo, de modo que, salvo pactuação em contrário, só extingue a dívida, isto é, a obrigação que a cártula visa satisfazer consubstanciada em pagamento de importância em dinheiro, com o efetivo pagamento" (REsp 1.199.001/RS, Relator Ministro Luis Felipe Salomão, DJe 20/5/2013, sem grifo no original).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de rescindir o contrato de compra e venda por inadimplemento, com a reintegração na posse do bem, acrescido de perdas e danos a serem apurados em liquidação de sentença.
+Invertam-se os ônus de sucumbência fixados na sentença.
+Publique-se.
