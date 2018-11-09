@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, em 07/11/2017, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AVALIAÇÃO INDIRETA. INOCORRÊNCIA. NOVA VISTORIA. DESCABIMENTO.
+Não contendo nenhum vício a avaliação elaborada pelo perito, bem como não tendo a agravante logrado trazer qualquer elemento para desconstituir seu conteúdo, descabida a realização de nova vistoria" (fl. 29e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 39/40e), os quais restaram parcialmente acolhidos, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração quando houver no acórdão obscuridade, contradição ou for omisso em relação a algum ponto sobre o qual o Tribunal devia ter se pronunciado e não o fez, corrigir erro material (CPC/2015, art. 1.022), ou ainda, para fins de prequestionamento (CPC/2015 art. 1.025) e súmulas 282 e 356 do e. STF e a 98 do e. STJ.
+2. Incabível, nos embargos declaratórios, rever a decisão anterior, reexaminando ponto sobre o qual já houve pronunciamento, com inversão, em conseqüência, do resultado final.
+3. O acórdão embargado não contrariou e/ou negou vigência ao art. 741, inc. II, parágrafo único, do CPC/73; art. 535, §5º e art. 1.035, §5º, ambos do nCPC" (fl. 51e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos artigos: a) 1.022 do CPC/2015, pois, não obstante a oposição dos Embargos Declaratórios, o Tribunal de origem deixou de se manifestar acerca da "necessidade de nova perícia judicial em que se refletisse as reais condições do imóvel avaliado", bem como acerca da forma como a avaliação judicial foi realizada; b) 480 do CPC/2015, porquanto a ausência de acesso integral ao imóvel, inclusive com vedação de registros fotográficos de seu interior, prejudica a elaboração do competente laudo pericial, resultando na falta de apuração de forma adequada de seu valor para fins de deslinde da controvérsia, sendo evidente o prejuízo imposto ao recorrente.
+Por fim, requer o provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 79e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, em face de "decisão que deixou de acolher impugnação apresentada pelo executado frente à avaliação das acessões indenizáveis, realizada por perito" (fl. 26e).
+O Tribunal local negou provimento ao Agravo de Instrumento.
+Daí a interposição do presente Recurso Especial.
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, no que tange à avaliação do perito, manifestou-se o Tribunal de origem:
+"Nada obstante, quanto ao mérito, a decisão é de ser mantida, vez que apreciou adequadamente os elementos jurídico-legais constantes dos autos. Por essa razão, acresço parte de fundamentos às presentes razões de decidir:
+Houve manifestação do INSS, no evento 155, reiterando, por seus fundamentos, a impugnação ao laudo pericial (evento 138) efetuada no evento 141, e atestando seu descontentamento para com a resposta complementar do perito (evento 150).
+A autarquia aduz que a estimativa do perito judicial foi indireta, já que o ocupante não permitiu que se fotografasse o interior da edificação, nem o acesso aos fundos do terreno. Requer a adoção da avaliação efetuada por assistente técnico, no valor de R$ 37.0003,75 ou, subsidiariamente, a determinação de nova perícia, devidamente documentada com fotografias.
+Com efeito, observa-se do laudo pericial (evento 138) que a área dos fundos do terreno, cujo acesso não foi permitido, não foi considerada na avaliação pericial.
+Ademais, apesar de não terem sido permitidas fotos do interior do imóvel, verifica-se que o perito procedeu à avaliação da área levando em consideração o seu padrão de acabamento, tanto que descreve a qualidade dos revestimentos de piso, paredes e forro de cada cômodo da residência, bem como suas considerações físicas.
+Logo, não há necessidade de realização de nova vistoria, uma vez que, nos termos do art. 480 do Código de Processo Civil, a matéria está suficientemente esclarecida.
+Ressalte-se que, diversamente do afirmado pelo INSS, o perito não declarou que não lhe foi facultada a vistoria no interior do imóvel; o que disse o expert (evento 138, LAUDO 2) é que a proprietária não permitiu fotos no interior do imóvel.
+Essa circunstância, contudo, não significa que não houve vistoria, tanto assim que, no mencionado laudo, há descrição individualizada do revestimento existente em cada um dos cômodos da casa.
+Portanto, a avaliação não contém nenhum vício, não tento a agravante logrado trazer nenhum elemento para desconstituir seu conteúdo" (fl. 27e).
+Neste contexto, considerando a fundamentação adotada na origem, no sentido de que não há necessidade de realização de nova vistoria, tendo em vista que na avaliação há descrição individualizada dos cômodos do imóvel, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
