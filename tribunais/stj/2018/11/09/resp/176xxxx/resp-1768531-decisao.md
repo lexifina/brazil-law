@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. QUEDA DE PASSAGEIRA NA SAÍDA DO ÔNIBUS. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL A PARTIR DA CITAÇÃO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. RECURSO ESPECIAL INTERPOSTO POR NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDAÇÃO IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Nobre Seguradora do Brasil S.A. - em liquidação, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 501):
+DANO MORAL  Caracterização  Queda da passageira no momento em que descia do coletivo por não ter o condutor aguardado sua integral saída - Responsabilidade objetiva da transportadora - Lesão corporal comprovada - Indenização arbitrada cm R$ 8.000,00  Valor proporcional ao evento e suas conseqüências - Juros de mora que devem incidir desde a citação, por estar-se diante de responsabilidade civil contratual - Correção monetária, por outro lado, que deve ser computada a partir do arbitramento, a teor do previsto na Súmula 362 do C. STJ - Abatimento de valores eventualmente percebidos pela autora a título de DPVAT que dependia de comprovação do pagamento, que não ficou evidenciado nos autos  Sentença de procedência reformada - Recurso da autora provido em parte, desprovido o da ré.
+Na origem, consta dos autos que [NOME] ajuizou ação indenizatória contra CS Brasil Transportes de Passageiros e Serviços Ambientais Ltda., em razão das lesões sofridas em decorrência de acidente de trânsito quando descia do ônibus pertencente à ré.
+O Juízo singular julgou procedente os pedidos para condenar a ré a indenizar a parte autora pelos danos materiais sofridos no valor apurado de R$ 34,68 (trinta e quatro reais e sessenta e oito centavos) acrescidos de juros de mora de 1% (um por cento) ao mês a contar da data do fato, até o efetivo pagamento, além de R$ 8.000,00 (oito mil reais) a título de indenização por danos morais. Os honorários advocatícios foram fixados em 20% sobre o valor da condenação. A lide secundária movida por CS Brasil Transportes de Passageiros e Serviços Ambientais Ltda. foi julgada procedente para condenar a Nobre Seguradora do Brasil S.A. a indenizar a autora da ação principal quanto aos danos materiais e morais, nos limites do contrato de seguro celebrado com a segurada (e-STJ, fls. 382-387).
+Foram interpostas apelações pela parte autora e ré, tendo o Tribunal de Justiça dado parcial provimento ao recurso da autora apenas para alterar o termo inicial dos juros de mora no que diz respeito à indenização por danos morais. O apelo da ré foi desprovido (e-STJ, fls. 500-507).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 639-641).
+Nas razões do recurso especial (e-STJ, fls. 651-658), a recorrente alega, além de dissídio jurisprudencial, violação ao art. 407 do Código Civil.
+Sustenta, em síntese, que os juros de mora relativos aos danos morais, devem ser contados da data da sua fixação.
+Juízo de admissibilidade positivo (e-STJ, fls. 879-882).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, no tocante ao termo inicial dos juros de mora em relação aos danos morais, verifica-se que o Tribunal estadual adotou entendimento em consonância com a orientação jurisprudencial desta Corte segundo o qual, em se tratando de responsabilidade contratual, os juros de mora devem incidir a partir da data da citação.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRANSPORTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DANOS MORAIS. REDUÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal Superior quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos.
+4. A jurisprudência desta Corte firmou o entendimento de que, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, os juros moratórios fluem a partir da citação.
+5. Agravo interno não provido.
+(AgInt no AREsp 1017397/MA, Relator o Ministro Ricardo Villas Bôas Cueva, DJe 11/06/2018)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. QUEDA DE PASSAGEIRO DENTRO DO ÔNIBUS. MORTE. DANO MORAL. JUROS A PARTIR DA CITAÇÃO. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de que, em se tratando de responsabilidade contratual, como no caso em tela - contrato de transporte coletivo -, os juros fluem a partir da data da citação.
+2. Embargos declaratórios recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp n. 624.278/SP, Relator o Ministro Raul Araújo, DJe de 22/6/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. QUEDA DE PASSAGEIRO DO ÔNIBUS. TRANSPORTE COLETIVO. ACIDENTE DE TRÂNSITO. DANOS MORAIS. VALOR COMPENSATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADE CONTRATUAL. JURISPRUDÊNCIA DESTE STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 319.193/RJ, Relator o Ministro Paulo de Tarso Sanseverino, DJe 27/02/2015)
+Desse modo, o entendimento adotado pela Corte estadual está em harmonia com a jurisprudência deste Tribunal, atraindo a aplicação da Súmula 83/STJ no ponto, aplicável a ambas as alíneas autorizadoras.
+Diante do exposto, nego provimento ao recurso especial interposto por Nobre Seguradora do Brasil S.A. - em liquidação.
+Publique-se.
