@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e OUTRA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PRESCRIÇÃO - NÃO OCORRÊNCIA - DECISÃO MANTIDA - NÃO PROVIDO.
+O prazo prescricional do instrumento particular de mútuo, com garantia hipotecária, era de 20 anos na vigência do Código Civil de 1916 (art. 177), porém, com a entrada em vigor do atual Código Civil (11/01/2003), a respectiva pretensão deve observância ao prazo constante do artigo 206, § 5º, I 1 , que prevê o prazo prescricional de 5 anos para a cobrança de dívidas líquidas constantes de instrumento público ou particular. Inexiste prescrição da pretensão executória, pois, após a juntada do laudo pericial nos autos da ação de consignação em pagamento, requerido pelos próprios suplicantes para que fossem refeitos os cálculos do mútuo, conforme dispositivo de sentença, foi proferida a decisão que tornou líquida a obrigação (publicada em 12/12/2004), de modo que o recorrido iniciou o cumprimento de sentença em 14/1/2005, buscando o adimplemento da obrigação referente ao contrato de mútuo. Assim, a obrigação somente passou a ser líquida em favor do agravado/credor, e, portanto, passível do ajuizamento da ação executiva de título extrajudicial, após a homologação do laudo pericial, em liquidação de sentença promovida nos autos. Acertadamente ressaltado no Juízo singular que improcede também prescrição intercorrente, já que não ocorreu a paralisação do feito executivo por todo o prazo prescricional correspondente ao da propositura da própria execução, diante da desídia da parte exequente em tomar providências para impulsionar o feito" (fl. 139, e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, a violação dos artigos 189 e 206, §3º, do Código Civil e 489, II, do Código de Processo Civil de 2015.
+Os recorrentes aduzem que o juiz singular deixou de analisar e valorar a prova apresentada, sem a adequada fundamentação, e que o Tribunal de origem não apreciou os argumentos levantados na apelação.
+Além disso, sustentam que transcorreu o prazo de prescrição trienal para o exercício da pretensão de executar o título de crédito, considerando que o lapso temporal foi paralisado de 1998 (trânsito em julgado) a 2005 (execução de sentença) por culpa do recorrido.
+Defendem a ocorrência da prescrição, ainda que se considere o prazo de 5 (cinco anos) do art. 206, § 5º, I, do CC, porque o reinício da sua contagem se deu em 15/9/1998 e a execução de sentença foi proposta apenas em 14/1/2005.
+Após a apresentação das contrarrazões (fls. 226/232, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A respeito do art. 489 do CPC/2015, há somente alegação genérica de negativa de prestação jurisdicional nas razões recursais, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Assim, ante a deficiente fundamentação do recurso incide, nesse ponto, a Súmula nº 284/STF, aplicada por analogia.
+No que tange aos arts. 189 e 206, §3º, do CC, o acórdão recorrido está em consonância com a jurisprudência desta Corte firmada no sentido de que a pretensão de cobrar dívida líquida constante de instrumento particular prescreve no prazo de 5 (cinco) anos.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DÍVIDA LÍQUIDA. INCIDÊNCIA DO PRAZO PRESCRICIONAL QUINQUENAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL. PRECEDENTE. 3. AGRAVO INTERNO DESPROVIDO.
+1. (..)
+2. Aplica-se a prescrição quinquenal, prevista no art. 206, § 5º, I, do Código Civil, às ações de cobrança em que se pretende o pagamento de dívida líquida constante de instrumento particular. Precedentes.
+3. Agravo interno desprovido" (AgInt no AREsp 1.215.860/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/6/2018, DJe 29/6/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. COMPROMISSO DE COMPRA E VENDA. OBRIGAÇÃO DE FAZER. OUTORGA DE ESCRITURA DEFINITIVA. AUSÊNCIA DE OMISSÕES E DE DEFICIÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO. PRETENSÃO DE COBRANÇA DE DÍVIDA LÍQUIDA. INSTRUMENTO PARTICULAR. PRESCRIÇÃO RECONHECIDA. PRECEDENTES DO STJ. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DO CONTRATO FIRMADO. ASTREINTES. REDUÇÃO. NÃO CABIMENTO. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO PELA INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+2. De acordo com a jurisprudência consolidada neste Sodalício, o prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular era, ao tempo do Código Civil de 1916 de 20 anos (artigo 177) e, a partir do Código Civil em vigor, de 05 anos (artigo 206, § 5º, I). Precedentes.
+(..)
+6. Agravo interno não provido" (AgInt no AREsp 1.199.885/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/3/2018, DJe 20/3/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. AÇÃO DE COBRANÇA. DÍVIDA LÍQUIDA. PRESCRIÇÃO QUINQUENAL. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 83/STJ. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo. O fato de o Tribunal de origem não ter adotado a tese defendida pela parte recorrente não configura negativa de prestação jurisdicional.
+2. Prescreve em 5 (cinco) anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Precedentes.
+3. Consoante entendimento firmado nesta Corte Superior, a Súmula n. 83/STJ se aplica aos recursos especiais interpostos com base nas alíneas "a" e "c" do permissivo constitucional.
+4. (..)
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 621.464/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/11/2017, DJe 5/12/2017).
+Ademais, não há como acolher a tese recursal, de que a contagem do prazo prescricional teve início em 15/9/1998, sem a análise dos fatos e provas dos autos, providência vedada no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
