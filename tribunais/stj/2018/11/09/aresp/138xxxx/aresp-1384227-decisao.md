@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial com base na incidência da Súmula 07 do STJ, uma vez que "No caso, verifica-se que a eventual análise acerca da comprovação, ou não, do exercício efetivo de atividade rural pela parte autora, com a demonstração da sua condição de rurícola, está a demandar o revolvimento da matéria fático-probatória constante dos autos, o que não se apresenta juridicamente possível de ocorrer em sede de recurso especial" (fl. 128).
+É o relatório.
+Verifica-se, de plano, que o inconformismo sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, o recurso especial foi inadmitido tendo por base o óbice externado pela Súmula 07/STJ, caberia à recorrente declinar os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto, o que não ocorreu, pois apesar de fazer menção ao verbete sumular nº 7/STJ, conforme consta na fl. 136, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
