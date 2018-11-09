@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INADMITIDO POR DESERÇÃO. AUSÊNCIA DE IDENTIFICAÇÃO DO PROCESSO NA GUIA DE RECOLHIMENTO DA UNIÃO-GRU. AGRAVO EM RECURSO ESPECIAL DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por ESTOK COMERCIO E REPRESENTACOES S.A., com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJ/BA, assim ementado:
+AGRAVO REGIMENTAL CONTRA DECISÃO DESTA PRESIDÊNCIA, QUE DEFERIU, POR OFENSA À ORDEM E À ECONOMIA PÚBLICAS, PEDIDO DE SUSPENSÃO DOS EFEITOS DA TUTELA ANTECIPADA, CONCEDIDA EM SEDE DE AÇÃO DECLARATÓRIA. PRELIMINARES DE NULIDADE. REJEIÇÃO. IMPROVIMENTO DO REGIMENTAL.
+Não procede a alegação de nulidade da decisão agravada, primeiro porque o agravo de instrumento de que trata a parte, em relação ao presente pedido de suspensão, não prejudica nem condiciona o julgamento deste último, ex vi do § 4o, do artigo 354, do RITJBA e segundo porque, ainda que se reconheça o erro material apontado, este não inviabiliza o decisum, tendo em vista que as conseqüências da decisão objetivada na suspensão, independentemente do tipo de operação comercial envolvida, repercutem da mesma forma, negativamente, em relação às finanças estaduais, na medida em que implicam em o da arrecadação do ICMS, cuja relevância erário não se discute. Ofende a ordem e, especialmente, a economia públicas, a decisão judicial que impede o Estado da Bahia de exigir, ainda que temporariamente, o pagamento do ICMS antecipado sobre as operações comerciais realizadas por empresa que, na condição de filial de empresa sediada no Estado de São Paulo, não deixa de efetivar venda que implica na concretização do fato gerador do tributo (fls. 219/220).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 245/246).
+3. O Recurso Especial foi inadmitido na origem por deserção (fls. 515/516).
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. Como bem assinalado na decisão denegatória, houve equívoco na indicação do número do processo na Guia de Recolhimento da União, o que dá ensejo à deserção. A propósito, destacam-se os seguintes julgados, no mesmo sentido da decisão agravada:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO INDICAÇÃO DO NÚMERO CORRETO DO PROCESSO NA GUIA DE RECOLHIMENTO E COMPROVANTE DE PAGAMENTO. DESERÇÃO. SÚMULA N. 83/STJ. INCIDÊNCIA.
+I. É firme o posicionamento desta Corte Superior no sentido de que é necessária a indicação do número de processo na Guia de Recolhimento da União (GRU) ou no Documento de Arrecadação de Receitas Federais (DARF) quando da interposição do recurso, sendo considerado deserto o recurso que não atende a esse requisito.
+II. Firmou-se no Superior Tribunal de Justiça o entendimento segundo o qual o recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+III. A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV. Agravo Regimental improvido (AgRg no AREsp. 463.532/PE, Rel. Min. REGINA HELENA COSTA, DJe 8.5.2015).
+
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SUBLOCAÇÃO. GRU. EQUÍVOCO NO PREENCHIMENTO. AUSÊNCIA DO NÚMERO DE REFERÊNCIA QUE É O DO PROCESSO DO TRIBUNAL DE ORIGEM. DESERÇÃO.
+1. As guias de preparo preenchidas com irregularidades no ato da interposição do recurso especial ensejam a pena de deserção, sem a possibilidade de posterior retificação.
+2. Esta Corte afasta a deserção se "corretamente indicados na guia o STJ como unidade de destino, o nome e o CNPJ do recorrente e o número do processo" (AgRg no AREsp 603.295/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 1/9/2015, DJe 21/9/2015), o que não ocorreu no caso em que não houve indicação do número do processo do Tribunal de origem no campo "Número de Referência" na guia de recolhimento das custas judiciais.
+3. Agravo interno a que se nega provimento (AgRg nos EDcl no AREsp. 542.298/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 19.6.2018).
+7. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da Contribuinte.
+8. Publique-se. Intimações necessárias.
