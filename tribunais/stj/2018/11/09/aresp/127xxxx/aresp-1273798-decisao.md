@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL QUE NÃO INFIRMA OBJETIVAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+[NOME] CESAR DE AMORIM ([NOME] CESAR) ajuizou ação de adimplemento contratual contra a OI S.A. - EM RECUPERAÇÃO JUDICIAL (OI), objetivando diferencial acionário e consectários legais, julgada procedente.
+Transitada em julgado, [NOME] CESAR requereu o cumprimento da sentença, tendo a Oi apresentado impugnação.
+O Juízo de 1º grau rejeitou a impugnação e, tendo em vista o valor depositado, julgou extinta a execução de sentença, com base no art. 794, I, do CPC/73.
+Contra essa sentença, [NOME] CESAR interpôs apelação que não provida pelo Tribunal local nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL EM FASE DE IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA. REJEIÇÃO DA IMPUGNAÇÃO, COM A EXTINÇÃO DO CUMPRIMENTO DA SENTENÇA, COM FUNDAMENTO NO ARTIGO 794, INCISO I, DO CÓDIGO DE PROCESSO CIVIL DE 1973. IMPOSSIBILIDADE DA PRETENDIDA REJEIÇÃO LIMINAR DA IMPUGNAÇÃO. DEVEDORA QUE OBSERVOU O DISPOSTO NO ARTIGO 475-L, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 1973. DECISÃO QUE FAZ AS CONSIDERAÇÕES NECESSÁRIAS PARA REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS OPOSTOS. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. PRETENSÃO DE INSERÇÃO NO CÁLCULO DA VERBA RELATIVA À "DOBRA ACIONÁRIA", NÃO CONSTANTE DO TÍTULO EXECUTIVO JUDICIAL. PROIBIÇÃO DA SUA INCLUSÃO NA FASE DE LIQUIDAÇÃO DO JULGADO, SOB PENA DE VIOLAÇÃO À COISA JULGADA. DIVERGÊNCIA NOS CÁLCULOS QUE JUSTIFICOU A DESIGNAÇÃO DE PERÍCIA CONTÁBIL. ACOLHIMENTO DA CONCLUSÃO DO LAUDO PERICIAL. PEDIDO DE DESCONSIDERAÇÃO DA PROVA, COM A REMESSA DOS AUTOS À CONTADORIA JUDICIAL PARA ELABORAÇÃO DE NOVO CÁLCULO. INVIABILIDADE. PERÍCIA FUNDAMENTADA, ELABORADA POR PROFISSIONAL HABILITADO, EQUIDISTANTE DAS PARTES E DA CONFIANÇA DO JUÍZO E DE ACORDO COM OS PARÂMETROS ESTABELECIDOS NO TÍTULO JUDICIAL. APELAÇÃO CÍVEL DESPROVIDA (e-STJ, fl. 146)
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 179/183).
+Irresignado, [NOME] CESAR interpôs recurso especial com base no art. 105, III, a, b e c, da CF, apontando dissídio jurisprudencial e violação do arts. 278, 322, § 2º, 507, 524, §§ 4º e 5º, e 1.022 do NCPC, e 112 do CC/02.
+Foram apresentadas contrarrazões (e-STJ, fls. 257/264).
+O Tribunal estadual inadmitiu o apelo nobre com suporte nas Súmulas nºs 282 e 356 do STF e 7 e 83 do STJ, e por não ficar demonstrada a violação do art. 1.022 do NCPC.
+[NOME] CESAR ingressou com agravo em recurso especial onde, após afirmar o prequestionamento da matéria, reiterou a fundamentação deduzida no recurso especial.
+Foi apresentada contraminuta (e-STJ, fls. 289/292).
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No mais verifica-se que o agravante não impugnou de forma objetiva e arrazoada os fundamentos da decisão de inadmissibilidade do juízo de origem, mais especificamente, a de que a insurgência recursal esbarra na incidência das Súmulas nºs 7 e 83 do STJ, mas limitou-se a reiterar o arrazoado expendido no apelo nobre e alegar o prequestionamento da matéria.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica com a reiteração das razões expostas no recurso especial.
+Assim, não tendo o recurso impugnado especificamente os termos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INCIDENTE DE FALSIDADE. RECURSO CABÍVEL. APELAÇÃO. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO. 1. Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. 2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos. 3. Agravo regimental a que se nega provimento (AgRg no AREsp nº 856.954/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/4/2016)
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se.Intimem-se
