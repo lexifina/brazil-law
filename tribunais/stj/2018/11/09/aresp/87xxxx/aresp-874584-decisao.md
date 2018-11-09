@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão, assim ementado (e-STJ fls. 787/788):
+PROCESSUAL CIVIL - AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO - DEPÓSITO - EVENTUAL SALDO - COBRANÇA PELA LEI N. 6.830/80 - IMPUGNAÇÕES INCONSISTENTES.
+1. Os depósitos efetuados visam à suspensão da exigibilidade do crédito tributário (CTN, art. 151, II).
+2. Trata-se, portanto, de medida lançada com o intuito de resguardar os interesses do contribuinte, e não do Fisco, a quem cabe, por imperativo legal, proceder à verificação da justeza dos depósitos realizados, conferindo-se ao ente fiscalizador o poder-dever de promover o lançamento de oficio em caso de desajuste entre o montante consignado e o quantum devido.
+3. Por conseguinte, o levantamento dos depósitos pela contribuinte dar-se-á por sua conta e risco, nada obstando a que daí advenha ulteriormente a cobrança de eventual saldo em favor do erário, respeitando-se, em qualquer caso, a via processual eleita pela lei (Lei 6.830/80).
+4. Precedentes jurisprudenciais.
+5. Embora com vista dos autos que lhe possibilitava o exame dos documentos apresentados pela autora, deixou a Fazenda Nacional de se manifestar, vindo somente agora, nesta instância, lançar argumentos genéricos, sem apresentação de qualquer elemento concreto apto a desconstituir as alegações da agravada e insistindo na ausência de impugnação a sua própria planilha, o que a autora não fez em virtude de fato novo, consistente no alegado pagamento integral dos valores que já haviam sido objeto de depósito.
+6. O levantamento dos valores depositados pela parte interessada na proporção em que saiu vencedora na ação transitada em julgado é direito incontestável, não se podendo condicionar o exercício desse direito a intermináveis impugnações formuladas pela Fazenda de forma inconsistente.
+7. Agravo legal a que se nega provimento.
+No especial obstaculizado (e-STJ fls. 791/798), a recorrente alega violação dos arts. 142, 151, II, e 156 do CTN. Para tanto, aduz que (e-STJ fls. 793/794):
+ ..  o artigo 151, inciso II, do Código Tributário Nacional preconiza que o depósito do montante integral suspende a exigibilidade do crédito tributário.
+De fato, a suspensão da exigibilidade do crédito tributário, na forma e prevista no artigo 151, inciso II, do Código Tributário Nacional, reclama o depósito integral das parcelas discutidas. Tal procedimento está, igualmente, relacionado ao depósito do principal na data do vencimento da obrigação tributária, com a alíquota correta, sob pena da incidência dos consectários legais, quais sejam, juros e multa, restando eventual levantamento vinculado ao resultado final da demanda.
+Não procede a afirmação de que, por se tratar de faculdade do contribuinte, o depósito judicial, que regularmente realizado acarreta diversas conseqüências em relação ao fisco, pode ser levantado ao seu alvitre, independente do resultado final da demanda ou de prévia oitiva da autoridade fazendária.
+Efetivamente, o depósito judicial, no momento em que realizado, deixa de representar mera faculdade da parte, constituindo nova relação jurídica destinada a garantir a obrigação tributária sub judice.
+ ..
+Em lapidar julgamento, o Colendo Superior Tribunal de Justiça consolidou entendimento no sentido de que, realizado o depósito, não pode a parte pretender o levantamento da quantia, considerando as conseqüências jurídicas decorrentes da suspensão da exigibilidade, vinculando-se o levantamento ao resultado da demanda.  ..
+No caso dos autos, que trata de PIS-DECRETOS, é pacífico que os depósitos devem ser levantados e/ou convertidos, apreciada a questão posta em juízo e os termos em que realizados, considerando que é devida a contribuição ao PIS, no período, porém apurado nos moldes da LC nº 7/70.
+ ..
+Conclui-se, pois, que merece reforma a decisão que permite o levantamento de valores depositados conforme planilhas e requerimentos unilateralmente apresentados pela agravada, tolhendo direito de manifestação da autoridade fazendária.
+ ..
+No caso em exame, a decisão recorrida simplesmente determinou que os valores fossem levantados pela parte, louvando-se, exclusivamente, em planilha da apresentada pela parte Autora.
+Ocorre que existe nos autos divergência de valores. Assim, não se pode, simplesmente, determinar a conversão dos valores com base na planilha apresentada pela parte autora, pois como visto, os depósitos servem para garantia das duas partes.
+ ..
+Está pacífico, portanto, que, realizado o depósito judicial ou prestada a fiança bancária, eles serão levantados a final pela parte vencedora. Havendo divergência. forte no quanto disposto no artigo 142 CTN, deve prevalecer os cálculos fazendários, já que a essa autoridade incumbe, finalmente, a apuração e constituição do crédito tributário, sob pena de ofensa não só ao artigo mas ao primado da separação dos poderes.
+O apelo nobre recebeu juízo negativo de admissibilidade (e-STJ fls. 815/816). Na decisão, o Tribunal a quo destacou a incidência, ao caso, da Súmula 356 do STF.
+No presente agravo (e-STJ fls. 818/826), a recorrente alega que "se mostra despicienda a menção expressa dos dispositivos violados no acórdão recorrido, motivo pelo qual estes também prescindiam da oposição de aclaratórios" (e-STJ fl. 823).
+A contraminuta foi apresentada às e-STJ fls. 829/836.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Dito isso, destaco que o presente recurso teve origem em agravo de instrumento (e-STJ fls. 2/7), interposto contra a decisão que determinou a expedição de alvará de levantamento da totalidade dos depósitos judiciais.
+Ao decidir a questão, o Tribunal de origem consignou que (e-STJ fls. 782/786):
+a princípio, consigno que os depósitos efetuados visam à suspensão da exigibilidade do crédito tributário (CTN, art. 151, II).
+Trata-se, portanto, de medida lançada com o intuito de resguardar os interesses do contribuinte, e não do Fisco, a quem cabe, por imperativo legal, proceder à verificação da justeza dos depósitos realizados, conferindo-se ao ente fiscalizador o poder-dever de promover o lançamento de oficio em caso de desajuste entre o montante consignado e o quantum devido.
+Tenho para mim, por conseguinte, que o levantamento dos depósitos pela agravante, dar-se-á por sua conta e risco, nada obstando a que daí advenha ulteriormente a cobrança de eventual saldo em favor do erário, respeitando-se, em qualquer caso, a via processual eleita pela lei (Lei 6.830/80).
+Nesse sentido, transcrevo ilustrativos acórdãos do Superior Tribunal de Justiça e desta Egrégia Corte em casos análogos:
+ ..
+Saliento ainda que, nos termos expostos acima, mantive a r.decisão agravada quando do exame do pedido de atribuição de efeito suspensivo, de acordo com a fundamentação colacionada a seguir:
+"Observo que, após sucessivas manifestações de ambas as partes, apresentou a agravante a planilha reproduzida a fls. 09/50 (fls. 513/562 dos autos originários), por meio da qual demonstrava a inexistência de valores a levantar, devendo a totalidade dos depósitos ser convertida em renda.
+Não obstante as alegações de que a ora agravada tenha se insurgido contra essa planilha por meio de alegações genéricas, observo que o demonstrativo foi apresentado em agosto de 2004, mas em julho de 2006 a autora requereu a expedição de alvará de levantamento integral dos depósitos em virtude do pagamento integral de todos os débitos referentes ao PIS, efetivado, segundo narra, em virtude da necessidade de obtenção de certidão de regularidade fiscal. Diante disso, alegou que não existia mais a necessidade de detalhamento dos valores porque, em virtude do recolhimento integral do montante controvertido, tudo que foi objeto de depósito deveria ser levantado.
+Intimada a manifestar-se acerca dessa alegação, no entanto, a Fazenda Nacional quedou-se inerte, pois embora exista, a fls. 100 (fls. 64 dos autos principais), cota informando que haveria protocolização de manifestação, jamais houve qualquer impugnação aos fatos alegados pela autora.
+Observa-se, portanto, que, embora com vista dos autos que lhe possibilitava o exame dos documentos apresentados pela autora, deixou a Fazenda Nacional de se manifestar, vindo somente agora, nesta instância, lançar argumentos genéricos, sem apresentação de qualquer elemento concreto apto a desconstituir as alegações da agravada e insistindo na ausência de impugnação a sua própria planilha, o que a autora não fez em virtude de fato novo, consistente no alegado pagamento integral dos valores que já haviam sido objeto de depósito.
+Tal proceder representa, antes de mais nada, falta de apreço ao contribuinte, cuja instabilidade permanece indefinidamente, e desrespeito para com o Judiciário, que não consegue alcançar a solução da lide.
+Entendo que o levantamento dos valores depositados pela parte interessada na proporção em que saiu vencedora na ação transitada em julgado é direito incontestável, não se podendo condicionar o exercício desse direito a intermináveis impugnações formuladas pela Fazenda de forma inconsistente.
+Transcrevo, oportunamente, a seguinte decisão, destacada da pacífica jurisprudência existente acerca da matéria:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. PIS. LEVANTAMENTO DO DEPÓSITO JUDICIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. LEVANTAMENTO DO DEPÓSITO JUDICIAL APÓS O TRÂNSITO EM JULGADO. POSSIBILIDADE. PRECEDENTES.
+1. Os embargos de declaração somente são cabíveis quando "houver, na sentença ou no acórdão, obscuridade ou contradição" ou "for omitido ponto sobre o qual devia pronunciar-se o Juiz ou Tribunal".
+2. Esta Colenda Corte Superior já analisou feitos similares em diversas ocasiões, restando consignado o entendimento de que é lícito o levantamento dos depósitos pela parte vencedora após o trânsito em julgado da demanda e se, porventura, houver incorreções nos valores levantados, deve a Fazenda Pública lançá-los de oficio ou mesmo ajuizar o devido executivo fiscal no intuito de reavê-los.
+3. Recurso especial não-provido."
+(Resp 780593/MG - Rel. Ministro José Delgado - DJ 05.12.2005 p.248)."
+Conforme se infere do acima exposto, a irresignação da agravante foi analisada naquele momento e nada foi acrescentado ao processo que tenha relevância para a modificação do entendimento esposado, razão pela qual reitera-se para o julgamento do recurso ora interposto a aludida fundamentação.
+Ante o exposto, nego provimento ao agravo legal.
+Pois bem.
+A pretensão recursal da Fazenda não merece acolhimento.
+Em primeiro lugar, vale destacar a falta de prequestionamento dos arts. 142 e 156 do CTN, o que impede o conhecimento do recurso no ponto, em razão dos óbices processuais contidos nas Súmulas 282 do STF e 211 do STJ.
+Frise-se, por oportuno, que não houve oposição de embargos de declaração, a fim de sanar eventual vício do acórdão objurgado, o que atrai a incidência da Súmula 356 do STF.
+Sobre a questão:
+TRIBUTÁRIO. PROCESSUAL CIVIL. OFENSA AO ART. 535/CPC. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. ACÓRDÃO ALICERÇADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO  ..
+ ..
+4. O Tribunal de origem não se manifestou sobre a prescrição (art. 1º do Decreto 20.910/32), tampouco essa alegação constou dos embargos declaratórios opostos para suprir eventual omissão (cf fls. 3587/3601). Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+ ..
+(AgRg no REsp 1.038.925/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016).
+TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. AUXÍLIO-CRECHE. AUSÊNCIA DE PREQUESTIONAMENTO.
+ ..
+II - Impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+III - O tema relacionado à limitação do auxílio-creche não foi enfrentado, quer implícita ou explicitamente, pelo acórdão recorrido, o que determina a incidência das Súmulas 282 e 356 do Excelso Supremo Tribunal Federal.
+IV - Se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento no Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, imprescindível a alegação de violação do art. 535 do Código de Processo Civil, por ocasião da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+ ..
+(AgInt no REsp 1.622.039/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/03/2018, DJe 26/03/2018).
+No que concerne especificamente à autorização para o levantamento do depósito, o Tribunal a quo destacou que a Fazenda não conseguiu desconstituir a afirmação da empresa contribuinte de que teria realizado o pagamento integral de todos os débitos referentes ao PIS.
+No ponto, a Corte de origem consignou que (e-STJ fl. 785):
+não obstante as alegações de que a ora agravada tenha se insurgido contra essa planilha por meio de alegações genéricas, observo que o demonstrativo foi apresentado em agosto de 2004, mas em julho de 2006 a autora requereu a expedição de alvará de levantamento integral dos depósitos em virtude do pagamento integral de todos os débitos referentes ao PIS, efetivado, segundo narra, em virtude da necessidade de obtenção de certidão de regularidade fiscal. Diante disso, alegou que não existia mais a necessidade de detalhamento dos valores porque, em virtude do recolhimento integral do montante controvertido, tudo que foi objeto de depósito deveria ser levantado.
+Intimada a manifestar-se acerca dessa alegação, no entanto, a Fazenda Nacional quedou-se inerte, pois embora exista, a fls. 100 (fls. 64 dos autos principais), cota informando que haveria protocolização de manifestação, jamais houve qualquer impugnação aos fatos alegados pela autora.
+Observa-se, portanto, que, embora com vista dos autos que lhe possibilitava o exame dos documentos apresentados pela autora, deixou a Fazenda Nacional de se manifestar, vindo somente agora, nesta instância, lançar argumentos genéricos, sem apresentação de qualquer elemento concreto apto a desconstituir as alegações da agravada e insistindo na ausência de impugnação a sua própria planilha, o que a autora não fez em virtude de fato novo, consistente no alegado pagamento integral dos valores que já haviam sido objeto de depósito.
+Ora, não há como alterar essas conclusões do acórdão sem o reexame do material probatório dos autos, providência vedada em sede de recurso especial diante da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
