@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. ICMS. OPERAÇÃO DE VENDA DE JOIAS A ESTRANGEIRO NÃO RESIDENTE NO PAÍS. EXPORTAÇÃO. PORTARIAS SECEX Nº 02/1992 E Nº 12/2003 ART. 155, § 2º, X, CF. APELO PROVIDO.
+    1. A solução da controvérsia consiste em definir se as operações de venda de joias, metais e pedras preciosas a pessoa não residente no Brasil, com pagamento à moeda estrangeira, está ou não sujeita ao âmbito de incidência do ICMS.
+    2. Quanto ao tema, é firme o entendimento deste Tribunal de Justiça no sentido de que sobre as operações de vendas a estrangeiros não residentes no Brasil não deve incidir ICMS, em razão da disposição prevista pela Portaria SECEX nº 12/2003, que equiparou a citada operação comercial à atividade exportadora, ficando, assim, sujeita à regra contida no art. 155, §2º, X, "a", da CF, que disciplina a incidência de ICMS sobre operações que destinem mercadorias ao exterior (precedentes: TJPE, Agravo 0415227-2, Rel. Des. Erik de Sousa Dantas Simões, 1ª CÂMARA DE DIRIETO PÚBLICO, julgado em 02/02/2016, DJe 17/02/2016 e TJPE, Embargos de Declaração 0265701-4/02, Rel. Des. Ricardo de Oliveira Paes Barreto, 2ª CÂMARA DE DIREITO PÚBLICO, julgado em 02/08/2012, DJ 10/08/2012).
+    3. No caso dos autos, ressalta-se que cumpre ressaltar que as operações autuadas referem-se aos exercícios fiscais de 1994, 1995, 1996, 1997 e 1998, tendo a Portaria SECEX nº 02, de 22 de dezembro de 1992 (invocada na exordial) já previsto a equiparação em apreço.
+    4. Sob essa perspectiva, vê-se que tanto a Portaria SECEX nº 02, de 22 de dezembro de 1992, quanto a Portaria SECEX nº 12/2003 estabelecem que a Nota Fiscal é o documento hábil de saída do país e impõem ao contribuinte o cumprimento de diversas obrigações acessórias (v.g. registro da operação no SISCOMEX, no prazo fixado) para o fim de facilitar a fiscalização das operações de exportação por parte do Fisco Federal.
+    5. Além disso, verifica-se que o contribuinte/apelante está inscrito no Registro de Exportadores e Importadores - REI e que as Notas Fiscais juntadas aos autos respeitam o modelo e as instruções para preenchimento dos carimbos personalizados indicados na Portaria SECEX nº 02/92 e na Portaria SECEX nº 12/2003, com indicação do número de passaporte do adquirente, país de destino final da mercadoria, valor total em moeda estrangeira e o valor equivalente em moeda nacional.
+    6. Considerando, portanto, a definição da operação em tela como exportação pela legislação federal (como expressão do legítimo exercício pela União de sua competência para legislar sobre comércio exterior, nos termos do art. 22, VIII, da CF), constata-se a insubsistência dos créditos tributários objeto da Execução Fiscal ora embargada.
+    7. Diante do exposto, conclui-se pela procedência dos pedidos formulados nos Embargos à Execução Fiscal em apreço, determinando-se a extinção da Execução Fiscal correlata (NPU nº 0011495-25.2002.8.17.0001).
+    8. Apelo provido, à unanimidade.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Desprovejo o agravo.
+    3. Publiquem.
+Brasília, 9 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
