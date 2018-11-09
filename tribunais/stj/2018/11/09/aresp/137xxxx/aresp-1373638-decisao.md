@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 374):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. CONCURSO PÚBLICO. NOMEAÇÃO. CLASSIFICAÇÃO FORA DO NÚMERO DE VAGAS. NOMEAÇÃO. INTERESSE DE AGIR. NÃO CONFIGURAÇÃO. INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA DE OFENSA. INDEFERIMENTO DA PROEMIAL. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO.
+1. O interesse de agir é verificado quando há necessidade da via processual para obtenção do direito pretendido, o qual é resistido pela parte contrária, bem como quando o processo pode trazer utilidade real, capaz de melhorar a condição jurídica do autor.
+2. Na situação concreta, ainda que a apelante comprovasse a irregularidade das contratações efetuadas pelo ente público, deveria demonstrar que é uma das próximas na lista de classificação, sob pena de malferimento do direito dos demais candidatos que foram aprovados em melhor colocação.
+3. A classificação extremamente desfavorável da apelante no concurso público evidencia a ausência de utilidade e, por conseguinte, de interesse de agir no manejo da ação.
+4. O estabelecimento de condições para o exercício do direito de ação não ofende o princípio do livre acesso ao Poder Judiciário, estabelecido no artigo 5º, XXXV, da Constituição Federal. Precedentes do excelso Supremo Tribunal Federal e deste egrégio Sodalício Goiano.
+5. APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 17 e 330, III do CPC/15.
+Sustenta, em síntese, que ao contrário do que decidiu o Tribunal de Justiça do Estado de Goiás, não há motivo para extinção do processo sem julgamento do mérito. Com a propositura da ação, a recorrente buscou juntar documentos aptos a demonstrar que fazendo parte do cadastro de reserva no concurso objeto da demanda, foi e vem sendo preterida, por pessoas contratadas de forma precária pelo recorrido. Sem ao menos analisar os autos, o nobre Juízo singular, posteriormente acompanhado pelos ilustres Desembargadores do Tribunal de Justiça, resolveram extinguir o processo sem julgamento de mérito, ou seja, sem qualquer instrução processual, julgaram o caso como se estivessem analisando uma ação mandamental, e para isso, deram uma interpretação distorcida ao art. 330, III, do Novo Código de Processo Civil, sob o fraco argumento de falta de interesse processual. (fl. 401).
+É o relatório.
+O inconformismo não merece prosperar.
+Inicialmente, a matéria pertinente ao art. 17 do CPC/15 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, observa-se que a Corte de origem decidiu a matéria em debate pelos seguintes fundamentos (fls. 378/383):
+Do cotejo do caderno processual digital, verifico que o Edital nº 009/10/SECTEC/SES, de 29 de março de 2010, que tornou pública a realização de concurso para preenchimento de diversos cargos efetivos na administração pública estadual, deixa claro que o certame disponibilizou 439 (quatrocentos e trinta e nove) vagas para o cargo de Técnico em Enfermagem, na cidade de Goiânia/GO (evento nº 01, p. 168).
+Constato também que a apelante foi classificada na 9.599ª posição, conforme consta no resultado reproduzido no evento nº 01, p. 224.
+Desta feita, ainda que houvesse comprovação de supostas irregularidades na contratação de servidores para o cargo ao qual a apelante concorreu, deveria ela demonstrar que é uma das próximas da lista de classificação, sob pena de malferimento do direito dos demais candidatos que foram aprovados em melhor colocação.
+Contudo, considerando a classificação extremamente desfavorável da recorrente, é cristalina a conclusão de que o presente feito não teria o condão de alterar positivamente sua condição jurídica, evidenciando a ausência de utilidade e, por conseguinte, de interesse de agir no manejo da ação.
+Por oportuno, faz-se importante salientar que a jurisprudência pátria entende que o condicionamento do exercício do direito de ação não representa ofensa ao postulado constitucional da inafastabilidade da jurisdição, porquanto o direito de acesso ao Poder Judiciário não se configura, por si só, como direito de manifestação acerca do mérito do pedido.
+O acervo jurisprudencial da excelsa Suprema Corte, bem como deste egrégio Sodalício não destoa desse posicionamento, como se depreende dos venerandos arestos a seguir colacionados, ad exemplum:
+ ..
+Não se pode olvidar também que o excelso Supremo Tribunal Federal sedimentou as diretrizes acerca do direito à nomeação de candidatos classificados fora das vagas disponibilizadas em concursos públicos, senão veja-se o seguinte acórdão, julgado sob a sistemática da repercussão geral, ipsis litteris:
+ ..
+Conforme salientado, a classificação da apelante é extremamente desvantajosa, demonstrando, sobremaneira, que, ainda que fossem comprovadas as irregularidades das contratações mencionadas na peça exordial, não seria possível enquadrar sua condição nas hipóteses abordadas no aresto supratranscrito.
+Assim, de um lado ou de outro, há efetiva demonstração da ausência de interesse de agir, porquanto a movimentação da máquina judiciária em nada contribuiria para que a recorrente pudesse ser nomeada.
+Verificada a ausência de interesse processual, deve o juiz indeferir a petição inicial e, por conseguinte, extinguir o feito sem resolução do mérito, conforme determinam os artigos 330, inciso III e 485, inciso I, do Código de Processo Civil, verbis:
+ ..
+Saliento que o posicionamento ora externado advém de profunda reflexão e estudos sobre o tema, que levaram à superação do entendimento anteriormente adotado, de modo que, atualmente, tenho que a sentença objurgada encontra-se em total consonância com as disposições legais e lições doutrinárias acerca da matéria, devendo ser integralmente mantida.
+Nesse contexto, verifica-se que a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial a teor da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. CONCURSO PÚBLICO. CRITÉRIOS DE CORREÇÃO DA PROVA SUBJETIVA. INVIABILIDADE DE ANÁLISE. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. As pretensões veiculadas nos Embargos de Declaração ora sob exame, típicas de Agravo Interno, devem ser assim examinadas, diante dos princípios da fungibilidade e economia processual. 2. No julgamento do tema em Repercussão Geral 485, o Supremo Tribunal Federal concluiu não competir ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar as respostas dadas pelos candidatos e notas a elas atribuídas, salvo excepcional juízo de compatibilidade do conteúdo das questões com o previsto no edital do certame (RE 632.853/CE, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 29.6.2015).
+3. A leitura atenta do acórdão recorrido revela inexistir as ilegalidades apontadas, não havendo prova de qualquer irregularidade praticada pela banca examinadora. Assim, insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7/STJ.
+4. Agravo Interno do Particular a que se nega provimento.
+(EDcl no AREsp 579.441/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/03/2018, DJe 10/04/2018)
+RECURSO ESPECIAL. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÃO DE PROVA OBJETIVA. SÚMULA 7 DO STJ.
+1. O Tribunal local concluiu que foi observado o princípio da vinculação ao edital, razão pela qual entendeu pela impossibilidade de o Judiciário aferir os critérios de correção de provas. A desconstituição de tais premissas, na forma pretendida, ensejaria inevitável análise de cláusulas do edital e incursão no acervo fático-probatório dos autos. Incidência do óbice da Súmula 7/STJ.
+2. Recurso Especial não conhecido.
+(REsp 1666669/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/08/2017, DJe 12/09/2017)
+ADMINISTRATIVO. CONCURSO PÚBLICO. ANÁLISE DE CLÁUSULAS EDITALÍCIAS E ASPECTOS FÁTICOS DOS AUTOS. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento à apelação, entendeu que o agravado está apto nos exames médicos para exercer a atividade policial. Portanto, modificar o acórdão recorrido, como pretende a recorrente, no sentido de que o agravado não está apto, demandaria a análise das cláusulas do edital do certame e a revisão do conjunto probatório dos autos, o que esbarra nos óbices trazidos pelas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+ ..
+Agravo regimental improvido.
+(AgRg no AREsp 659.913/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/04/2015, DJe 20/04/2015)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
