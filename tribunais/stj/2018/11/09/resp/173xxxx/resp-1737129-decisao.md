@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/1973). AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO, POR PREJUDICADO, EM RAZÃO DA PERDA SUPERVENIENTE DO OBJETO. SENTENÇA PROFERIDA NO JUÍZO DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SUPERVENIÊNCIA DE DECISÃO. COGNIÇÃO EXAURIENTE. PREJUDICIALIDADE DOS RECURSOS ANTERIORES. PREVALÊNCIA DA COGNIÇÃO EXAURIENTE SOBRE A COGNIÇÃO PERFUNCTÓRIA. PRECEDENTES. ASTREINTES. REVOGAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+RECURSO DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], fundamentado nas alínea "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO, POR PREJUDICADO, EM RAZÃO DA PERDA SUPERVENIENTE DO OBJETO. SENTENÇA PROFERIDA NO JUÍZO DE ORIGEM. PRECEDENTES DESTA CORTE DE JUSTIÇA. DECISÃO MANTIDA.
+CONHECIMENTO E DESPROVIMENTO DO AGRAVO INTERNO.
+Opostos embargo de declaração, estes foram rejeitados (e-STJ fls. 425/429).
+Em seu recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação aos arts. 11, 17, 489, §1º, 505, 537, § 1º e 1.022, II do CPC/2015 e 461, § 6º do CPC/1973, sustentando, em síntese, negativa de prestação jurisdicional; interesse recursal no julgamento do Agravo de Instrumento, haja vista que pretende a reforma da decisão que revogou as astreintes, pretensão que não se confunde com a matéria objeto da sentença e impossibilidade de revogação da multa imposta diante do descumprimento da ordem judicial. Sustenta que a superveniência da sentença, por si só, não torna prejudicado o Agravo de Instrumento interposto no curso do processo, já que o interesse recursal só pode ser verificado caso a caso, após a análise do objeto da sentença e sua eventual repercussão no Agravo interposto.
+Aduz que
+no Agravo de Instrumento a Recorrente pretende a reforma da decisão que revogou a multa quando da apreciação do respectivo pedido de Execução Provisória da mesma, pretensão esta que não se confunde com a matéria objeto da sentença.
+Aliás, sequer foi mencionada na sentença a questão da multa, eis que o Juízo a quo já havia se retratado da multa, não havendo qualquer justificativa para tal item constar na sentença.
+Ora, Doutos(as) Ministros(as), a necessidade de julgamento do Agravo de Instrumento em evidencia é manifesto, com a sentença proferida nos autos não exercendo qualquer influência quanto ao objeto recursal, eis que possuem conteúdos totalmente diversos, sem que haja qualquer relação de interdependência entre o Recurso que se pretende ver examinado e a sentença. (e-STJ fl. 450).
+A irresignação não merece prosperar.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+No que concerne à violação ao artigo 535 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação. Ademais, o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Quanto ao interesse recursal no julgamento do Agravo de Instrumento, ao argumento de que pretende a reforma da decisão que revogou as astreintes, pretensão que não se confunde com a matéria objeto da sentença, tem-se que o cerne da questão cinge-se em definir, no caso concreto, se a superveniência da sentença teria o condão de ocasionar a perda do objeto do presente agravo.
+O Tribunal de origem entendeu que o recurso tornou-se prejudicado, havendo de ser negado seu seguimento por perda de objeto, eis que patente a falta superveniente de interesse recursal, in verbis:
+Assim, qualquer insurgência do agravante com relação às astreintes que entende devidas deverá ser suscitada em eventual recurso de apelação, buscando a reforma da sentença, ou, caso entenda que o tema não foi devidamente apreciado naquele decisum, referida omissão deverá ser questionada através de embargos de declaração.
+Dessa forma, não havendo nada a alterar na decisão atacada, transcrevo-a, utilizando os mesmos fundamentos como razões de decidir:
+"(..)
+Como relatado, verifica-se dos autos, bem como da informação extraída pelo Sistema de Automação Judicial (SAJ), que o Juízo a quo sentenciou o feito originário, julgando parcialmente procedente a pretensão autoral.
+Dessa forma, é cristalino que o presente recurso tornou- se prejudicado, havendo de ser negado seu seguimento por perda do objeto, eis que patente a falta superveniente de interesse recursal. (e-STJ fls. 377/378).
+Com efeito, a jurisprudência do STJ é no sentido de que, havendo a superveniência de sentença que analisa a matéria impugnada, perdem o objeto os recursos anteriores que versaram sobre a questão resolvida por decisão interlocutória combatida via agravo de instrumento.
+O juiz, ao prolatar a sentença, vale-se de cognição exauriente e pode decidir de modo diverso da conclusão a que chegou o Tribunal, em cognição sumária. A decisão dotada de cognição exauriente absorve os efeitos da decisão interlocutória.
+Assim, o juízo em cognição exauriente suplanta aquele proferido anteriormente em cognição perfunctória ou sumária.
+Desse modo, sobrevindo decisão em cognição exauriente, fica prejudicado o recurso interposto anteriormente para discutir questão decidida em cognição perfunctória.
+Nesse sentido, confiram-se os seguintes julgados:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO ESPECIAL INTERPOSTO EM AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. Tendo em conta o caráter manifestamente infringente, e em face do princípio da fungibilidade recursal, recebem-se os presentes embargos de declaração como agravo regimental.
+2. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente. 3. Agravo regimental a que se nega provimento. (EDcl no REsp 1.338.242/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 09/11/2015)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA CONFIRMADA NA SENTENÇA. PERDA DO OBJETO DO AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA A DECISÃO PRECÁRIA. AGRAVO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a sentença de mérito que confirma a antecipação da tutela absorve seus efeitos, por se tratar de decisão proferida em cognição exauriente, ocasionando a perda do objeto do agravo de instrumento.
+Precedentes.
+2. No caso, a sentença confirmou a antecipação dos efeitos da tutela, determinando à agravante a compra de carro adaptável destinado ao transporte do agravado. Assim, o pedido de suspensão dos efeitos da decisão precária ficou prejudicado com a sentença de mérito amparada em cognição exauriente, esvaecendo-se o conteúdo do agravo de instrumento. 3. Agravo regimental a que se nega provimento. (AgRg nos EDcl no AREsp 608.086/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/03/2015, DJe 25/03/2015)
+Quanto à alegada impossibilidade de revogação da multa imposta diante do descumprimento da ordem judicial, o recurso especial não pode ser conhecido, pois, sobre essa matéria, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Destarte, o recurso não merece ser provido.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
