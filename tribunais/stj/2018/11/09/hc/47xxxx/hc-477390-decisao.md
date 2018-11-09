@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RONEI CORREIA SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da 1ª Vara de Execuções Criminais da Comarca de São Paulo/SP unificou as penas impostas ao paciente, fixando o regime prisional fechado e o termo inicial para a concessão de benefícios a data da nova prisão ou da falta grave, excetuando o livramento condicional.
+Inconformado, o Ministério Público interpôs agravo em execução perante o Tribunal a quo, que deu parcial provimento ao recurso, conforme acórdão sintetizado na seguinte ementa:
+"AGRAVO EI"A EXECUÇÃO PENAL - Unificação de penas - Pleito de retificação de cálculos - Interrupção dela decorrente que alcança, inclusive, o benesse do livramento condicional - Entendimento este que, todavia, não abarca os benefícios do indulto e comutação, ante a discricionariedade do Presidente da República ao editar o Decreto concessivo - Recurso parcialmente provido." (e-STJ, fl. 10).
+Neste writ, a impetrante alega, em síntese, que "Não há amparo legal para que o cálculo para fins de livramento condicional considere como termo inicial a data do último crime/prisão", razão pela qual "a alteração de data-base aceita pelos Tribunais restringe-se à progressão de regime nos casos de prática de falta disciplinar de natureza grave, conforme entendimento consagrado pela súmula 441 desse C. Superior Tribunal de Justiça" (e-STJ, fl. 4).
+Requer, assim, a concessão da ordem para que seja cassado o acórdão impugnado, restabelecendo a decisão do Juízo de primeiro grau.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse contexto, passo ao exame das alegações trazidas pela defesa a fim de verificar eventual constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Busca-se neste writ seja afastado o reinício da contagem para fins de livramento condicional ocorrendo falta grave no curso da execução, nos termos da Súmula 441/STJ.
+ O Tribunal Paulista ao dar parcial provimento ao agravo em execução ministerial, assim se manifestou:
+" ..
+Ora, se com a nova condenação houve a unificação das penas e a fixação do regime compatível, não se proceder à interrupção do lapso temporal para fins de benefícios seria desestabilizar todo essa engrenagem.
+A adequação de regime com a unificação das penas se tornaria inócuo, coso o lapso temporal cumprido pelo sentenciado até então fosse considerado para a obtenção de novas benesses. Ademais, não há que se falar em desrespeito ao princípio da legalidade, mas sim em interpretação teleológica da lei, para que não haja soluções díspares a casos semelhantes; anotado que não lhe é tolhido o direito à progressão de regime e ao livramento condicional, mas que estes serão pleiteados a partir dos novos cálculos, considerando a data-base determinada na r. decisão.
+ ..
+Com isso, procedeu o MM. Juiz a quo com o costumeiro acerto ao determinar a interrupção do lapso temporal, o mesmo não se podendo dizer quanto ao seu alcance.
+É certo que a Súmula nº 441 do C. Superior Tribunal de Justiça prescreve que a falta grave não interrompe o prazo para obtenção de livramento condicionar.
+Porém, a despeito de referido Súmula, que não é vinculante, o Col. Supremo Tribunal Federal tem orientação no sentido de que a falta grave interrompe o prazo para obtenção do livramento condicional.
+Com efeito, incoerente seria se a nova condenação ou falta grave não operassem a interrupção da contagem da pena em relação ao livramento condicional. Por essa linha de raciocínio, o sentenciado teria que cumprir novo lapso temporal, a minori, a fim de progredir a regime menos gravoso, mas poderia, ad maius, alcançar a liberdade assistida através do livramento condicional, o que seria juridicamente inadmissível.
+Não poderia ser de outra forma já que a nova condenação, quando da unificação de penas, impõe reinício de contagem do período aquisitivo para obtenção da progressão de pena para regime menos gravoso, não é possível se fazer outro raciocínio para o livramento condicionai. Se para o menos é exigido novo período de contagem de tempo, não é razoável que para o mais, no caso do livramento condicional, tal exigência não perdure.
+Frise-se, porém, que tal interrupção determina, como já mencionado, o remido da contagem do prazo para obtenção de benefícios ordinários no Juízo das Execuções, mas não para o indulto ou comutação, pois o julgador não pode exigir, para seu deferimento, pressupostos outros não previstos no decreto presidencial ou na lei, cuja competência, no primeiro caso, é atribuída com exclusividade ao Presidente da República, devendo ser prestigiado o princípio da repartição dos Poderes.
+Posto isto, DOU PARCIAL PROVIMENTO ao inconformismo ministerial, para cassar a r. decisão proferida e determinar a elaboração de novo cálculo, a fim de que, em virtude da unificação de penas, haja a interrupção do lapso temporal também no que se refere ao benefício do livramento condicional." (e-STJ, fls. 11-12).
+Com efeito, no que concerne à alteração da data-base para cálculo de futuros benefícios na execução penal, verifica-se a ocorrência de flagrante ilegalidade passível de ser sanada mediante a concessão de habeas corpus, de ofício.
+Em 12/2/2014, ao julgar, sob o rito de recurso repetitivo (CPC, art. 543-C), o Recurso Especial 1.364.192/RS, a Terceira Seção desta Corte decidiu:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. EXECUÇÃO. FALTA GRAVE. PROGRESSÃO DE REGIME. INTERRUPÇÃO. PRAZO. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE EFEITO INTERRUPTIVO. COMUTAÇÃO E INDULTO. REQUISITOS. OBSERVÂNCIA. DECRETO PRESIDENCIAL.
+1. A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo.
+2. Em se tratando de livramento condicional, não ocorre a interrupção do prazo pela prática de falta grave. Aplicação da Súmula 441/STJ.
+3. Também não é interrompido automaticamente o prazo pela falta grave no que diz respeito à comutação de pena ou indulto, mas a sua concessão deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos.
+4. Recurso especial parcialmente provido para, em razão da prática de falta grave, considerar interrompido o prazo tão somente para a progressão de regime" (Rel. Ministro SEBASTIÃO REIS JÚNIOR, grifou-se).
+Esse entendimento está, inclusive, consolidado na Súmula n. 441, deste Superior Tribunal de Justiça, a seguir transcrita:
+"A falta grave não interrompe o prazo para obtenção de livramento condicional."
+Desse modo, observa-se que o Tribunal de origem considerou que a falta disciplinar de natureza grave redunda em interrupção do prazo necessário para o livramento condicional (requisito objetivo), o que contraria o referido enunciado sumular, bem como o REsp 1.364.192/RS, representativo da controvérsia, que tem efeito vinculativo.
+Ante o exposto, não conheço do habeas corpus. Entretanto, concedo a ordem, de ofício, nos termos do art. 34, XX, do RISTJ, para cassar o acórdão impugnado e restabelecer a decisão do Juízo de Direito da 1ª Vara de Execuções Criminais da Comarca de São Paulo/SP.
+Oficie-se, com urgência, ao Tribunal de origem e ao Juízo singular, encaminhando-se-lhes cópias deste decisum.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Publico Federal desta decisão.
+Sem recurso, certifique-se o trânsito em julgado e arquivem-se os autos.
