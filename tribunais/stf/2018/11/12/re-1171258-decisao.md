@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado da Paraíba concedeu a segurança quanto à acumulação de aposentadorias. No extraordinário, o recorrente aponta a violação do artigo 37, inciso XVI, alínea “b”, da Constituição Federal. Diz não comprovada a natureza técnica do cargo apontado na inicial. Alude à precedente do Supremo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes fundamentos:
+     (...) o Supremo Tribunal Federal, no julgamento do Recurso Ordinário em Mandado de Segurança nº 28497/DF, cuja Relatora para o Acórdão foi a Ministra Cármen Lúcia, destacou a necessidade de análise do caso concreto do jurisdicionado para verificação da natureza do cargo. A propósito, houve o seguinte destaque:
+    “Para a identificação da natureza do cargo, se técnico ou científico, não basta a sua denominação, mas a análise concreta das funções desempenhadas, o que pode suscitar profundas controvérsias”. (STF, RMS nº 28.497/DF, Relatora do Acórdão Min. Cármen Lúcia, Data de Julgamento: 20/05/2014).
+    Dentro desse contexto, não há dúvidas de que o cargo de Oficial de Justiça se enquadra no conceito de técnico, uma vez que exige daquele que o exerce um certo conhecimento específico numa área do saber, notadamente no campo da ciência jurídica.
+    Além disso, não bastasse a praxe forense que exige do oficial de justiça a aplicação de conhecimentos específicos do direito, é requisito de investidura no cargo, por expressa exigência do §2º do art. 260 da Lei Complementar nº 96/2010 (Lei de Organização e Divisão Judiciárias – LOJE), a graduação em curso de nível superior, circunstância que corrobora o enquadramento no conceito constitucional de técnico ou científico, para efeito de acumulação lícita.
+    […]
+    Consigne-se que, para o exercício das funções dos cargos em questão, há aparente compatibilidade de horários, posto que exerce as funções de Oficial de Justiça no período diurno, e tem carga horária conforme a LOJE, com obrigação de comparecer ao fórum três vezes e o cumprimento de mandados, com plantões semanais, um vez por semana, durante o horário do expediente forense (Doc. Num. 340079, Pág. 03). Já no cargo de Professora de Ensino Fundamental, o impetrante exerce suas funções no turno da noite, nos dias de terça, quarta e sexta-feira, no horário das 19h às 22h (Doc. Num. 340079, Pág. 07).
+    Assim sendo, uma vez observado o enquadramento no conceito de técnico ou científico do cargo de Oficial de Justiça, bem como considerando a compatibilidade de horários no desempenho deste e do cargo de Professor de Ensino Fundamental da Rede Pública, há de ser declarada a licitude de acumulação de cargos pela parte impetrante, e, via de consequência, reputado ilegal o ato da autoridade coatora que determinou o exercício do direito de opção no prazo de 05 (cinco) dias.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Dizer-se, a esta altura, contrariada a Lei Fundamental pressupõe o exame dos elementos probatórios do processo e da legislação infraconstitucional, no que define os cargos tidos como técnicos, revelando os parâmetros respectivos.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 12 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
