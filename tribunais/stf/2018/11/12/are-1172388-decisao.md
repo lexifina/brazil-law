@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Segunda Turma Recursal da Seção Judiciária do Ceará:
+    “DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR IDADE/TEMPO DE CONTRIBUIÇÃO. REVISÃO. RMI. CONTRIBUIÇÕES ANTERIORES A JULHO DE 1994. IMPOSSIBILIDADE. PRECEDENTE TNU. PRINCÍPIO DO ‘TEMPUS REGIT ACTUM’. RECURSO INOMINADO IMPROVIDO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA” (fl. 1, doc. 20).
+    2. No recurso extraordinário, alega-se ter a Turma Recursal de origem contrariado o caput do art. 5º, o inc. IV do art. 194 e os §§ 1º, 4º e 11 do art. 201 da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e incidência das Súmulas ns. 279 e 636 do Supremo Tribunal Federal (doc. 22).
+    4. No agravo, sustenta-se que “o art. 3º, § 2º, da Lei 8.213/91, com redação dada pela Lei 9.876/99, afronta à Constituição Federal, independentemente da forma em que seja interpretado” (fl. 10, doc. 23).
+    A agravante aponta ofensa aos princípios da contributividade e solidariedade e afirma que “não pode haver contribuição ao RGPS, por parte do segurado, sem que haja, ainda que pequena, retribuição em retorno. Vedar a utilização das contribuições vertidas anteriores a 07/1994 afronta, claramente, os princípios basilares da Previdência Social do nosso país, principalmente quando a negativa prejudica, sobremaneira, o segurado em seu momento de maior necessidade e fragilidade” (fl. 11, doc. 23).
+    Requer “seja recebido e provido o presente Agravo Regimental, retificando-se a decisão recorrida, para o fim de admitir, conhecer, determinar o processamento e, ao final, prover o Recurso Extraordinário interposto pela Agravante" (fl. 12, doc. 23).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste à agravante.
+    6. No recurso extraordinário com agravo a agravante não impugnou os fundamentos da decisão agravada quanto à incidência das Súmulas ns. 279 e 636 do Supremo Tribunal Federal. Também não demonstrou, de forma específica e objetiva, por que esse óbice de inadmissibilidade do recurso extraordinário deveria ser superado.
+    Este Supremo Tribunal assentou a inviabilidade do recurso no qual não se impugnam os fundamentos da decisão agravada. Incide, na espécie vertente, a Súmula n. 287 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.080.691-AgR, de minha relatoria, Plenário, DJe 27.2.2018).
+    “AGRAVO INTERNO. AGRAVO DO ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS APTOS, POR SI SÓS, PARA SUSTENTAR A DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO NA ORIGEM. HIPÓTESE DE NÃO CONHECIMENTO. 1. Não pode ser conhecido o agravo do art. 1.042 do CPC/2015 quando não impugna especificamente a decisão que inadmitira o recurso extraordinário. 2. Agravo interno a que se nega provimento” (ARE n. 1.138.577-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2018).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Razões do agravo não atacam os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (ARE n. 966.597-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 14.3.2017).
+    Nada a prover quanto às alegações da agravante.
+    7. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual somado ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 12 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
