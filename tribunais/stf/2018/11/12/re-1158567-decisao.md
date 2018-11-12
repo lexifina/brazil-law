@@ -1,0 +1,35 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, ementado, no que interessa, nos seguintes termos:
+    “I RECURSO DE REVISTA DA CAIXA ECONÔMICA FEDERAL – CEF – PRESCRIÇÃO CTVA COMPLEMENTAÇÃO DE APOSENTADORIA BASE DE CÁLCULO DAS VANTAGENS PESSOAIS.
+    1. A C. SBDI-1 firmou o entendimento de que o pleito de diferenças salariais decorrentes da inobservância da base de cálculo da parcela denominada vantagens pessoais, prevista no regulamento da CEF, sujeita-se à prescrição parcial.
+    2. Esta Eg. Corte pacificou o entendimento de que a pretensão de inclusão da CTVA no salário de contribuição da FUNCEF revela lesão renovada mês a mês, a atrair a incidência da prescrição parcial. Julgados.
+    CTVA - CONTRIBUIÇÃO PARA A FUNCEF - SALDAMENTO TRANSAÇÃO RESERVA MATEMÁTICA VARIABILIDADE DA CTVA 1. A C. SBDI-1 firmou o entendimento de que a parcela CTVA possui natureza salarial e deve ser incluída na base de cálculo das contribuições à FUNCEF. Isso porque, não obstante a variabilidade do valor da CTVA, a parcela tem caráter contraprestativo e reveste-se da qualidade de gratificação pelo exercício de cargo em comissão, à luz do art. 457, § 1º, da CLT.
+    2. Destaca-se que a adesão a um novo regulamento enseja a renúncia apenas às regras do plano anterior, mas não aos direitos já adquiridos pelo empregado à época da opção pelo novo plano, tendo em vista as garantias de acesso à justiça e de preservação do direito adquirido (art. 5º, XXXV e XXXVI, da Constituição). Julgados.
+    3. A jurisprudência desta Corte pacificou-se no entendimento de afastar a responsabilidade do empregado por eventual defasagem da reserva matemática decorrente da ausência de recolhimento no tempo certo. Precedentes.
+    (...)
+    II RECURSO DE REVISTA DA FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF PRESCRIÇÃO.
+    Esta Eg. Corte pacificou o entendimento de que a pretensão de inclusão da CTVA no salário de contribuição da FUNCEF revela lesão renovada mês a mês, a atrair a incidência da prescrição parcial.
+    CTVA INCORPORAÇÃO AO SALÁRIO DE CONTRIBUIÇÃO ADESÃO A NOVO PLANO
+    1. A C. SBDI-1 firmou o entendimento de que a parcela CTVA possui natureza salarial e deve ser incluída na base de cálculo das contribuições à FUNCEF. Isso porque, não obstante a variabilidade do valor da CTVA, a parcela tem caráter contraprestativo e reveste-se da qualidade de gratificação pelo exercício de cargo em comissão, à luz do art. 457, § 1º, da CLT. 2. Destaca-se que a adesão a um novo regulamento enseja a renúncia apenas às regras do plano anterior, mas não aos direitos já adquiridos pelo empregado à época da opção pelo novo plano, tendo em vista as garantias de acesso à justiça e de preservação do direito adquirido (art. 5º, XXXV e XXXVI, da Constituição). Julgados.
+    (...)
+    COMPLEMENTAÇÃO DE APOSENTADORIA - RESERVA MATEMÁTICA.
+    A C. SBDI-1 firmou o entendimento de ser da patrocinadora a reponsabilidade exclusiva pela recomposição da reserva matemática. Jugados.
+    (...)
+    Recurso de Revista conhecido parcialmente e provido.” (eDOC 62) (Grifei)
+    No recurso, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; 114, IX; e 202, caput , §2º, do texto constitucional. (eDOC 84, p. 2-4)
+    Nas razões recursais, alega-se ofensa ao ato jurídico perfeito, ao argumento de que, em razão da transação feita entre as partes e da quitação dada pela recorrida quando da migração entre planos de previdência complementar, não haveria que se discutir a inclusão do CTVA no cálculo do saldamento que se deu de forma integral. (eDOC 84, p. 14-15).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+     No caso em apreço, o Tribunal de origem consignou que a parcela denominada CTVA (Complemento Temporário Variável de Ajuste de Mercado) integra a base de cálculo da contribuição previdenciária recolhida à FUNCEF, devendo repercutir na complementação de aposentadoria. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O acórdão regional está em harmonia com o entendimento da C. SBDI-1, de que a parcela CTVA tem natureza salarial e deve ser incluída na base de cálculo das contribuições à FUNCEF. Isso porque, não obstante a variabilidade do valor da CTVA, a parcela tem caráter contraprestativo e reveste-se da qualidade de gratificação pelo exercício de cargo em comissão, à luz do art. 457, § 1º, da CLT.” (eDOC 62, p. 20)
+    Nesse contexto, observo que a jurisprudência deste Tribunal firmou-se no sentido de que é incabível, em sede de recurso extraordinário, avaliar a eficácia de transação entre particulares e a regularidade da renúncia a direitos, por demandar a análise dos termos negociais e a interpretação de normas infraconstitucionais. Incidem na espécie as súmulas 279 e 454 do STF.
+    Sobre o tema, confiram-se os seguintes julgados de ambas as turmas desta Corte:
+    “DIREITO PREVIDENCIÁRIO. INCLUSÃO DA PARCELA CTVA NO SALÁRIO DE CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO PLANO REG/REPLAN. ADESÃO A NOVO PLANO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (ARE 913015 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 16.12.2015).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. MIGRAÇÃO DE PLANO. TRANSAÇÃO EXTRAJUDICIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 859444 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 8.11.2013)
+    No mesmo sentido, cito as seguintes decisões monocráticas: RE 1.166.476, Rel. Min. Alexandre de Moraes, DJe 16.12.2018; RE 1.163.960, Rel. Min. Rosa Weber, DJe 16.10.2018; RE 1.158.862, Rel. Min. Ricardo Lewandowski, DJe 5.10.2018; RE 1.158.863, Rel. Min. Luiz Fux, DJe 19.9.2018; RE 1.155.821, de minha relatoria, DJe 5.9.2018.
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 12 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
