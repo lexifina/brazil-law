@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. Colho da decisão recorrida os seguintes fundamentos:
+    Assim, aquele servidor com vinculo de natureza comissionada com o Poder Público, não faz jus ao recebimento de valores referentes às diferenças salariais decorrentes da conversão do cruzeiro real para URV — Unidade Real de Valor, conforme entendimento firmados pelas Colendas Câmara de Direito Público e Coletivo, confira: APELAÇÃO CÍVEL — AÇÃO ORDINÁRIA DE COBRANÇA — URV - SERVIDOR COMISSIONADO E SEM REGISTRO NO SISTEMA DA ADMINISTRAÇÃO PÚBLICA — INEXISTÊNCIA DE DEFASAGEM - CARGO EM COMISSÃO - CARGO DE LIVRE CONTRATAÇÃO E EXONERAÇÃO - FGTS — INDEVIDO - RECURSO DESPROVIDO. Os servidores que possuírem vinculo de natureza comissionada com a Administração Pública, não fazem jus ao recebimento de valores referentes às diferenças salariais -decorrentes da conversão do cruzeiro real para URV — Unidade Real de Valor. Não é devido o FGTS e o aviso prévio por ocasião de sua dispensa ao servidor público ocupante de cargo em comissão, de livre nomeação e exoneração pela Administração Pública.(Ap 77772/2017, DESA. ANTÔNIA SIQUEIRA GONÇALVES RODRIGUES, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 29/08/2017, Publicado no DJE 18/09/2017)
+    APELAÇÃO/REEXAME NECESSÁRIO — AÇÃO DE COBRANÇA — CONVERSÃO ERRÔNEA DE CRUZEIRO REAL PARA URV — CONDENAÇÃO — IMPOSSIBILIDADE — CARGO EM COMISSÃO. Servidor público cujo cargo é em comissão não faz jus ao recebimento de 'valores referentes às diferenças salariais, originadas da conversão de cruzeiros reais para URV. Sentença retificada. Recurso prejudicado." (Apelação / Remessa Necessária 55355/2015, DES. LUIZ CARLOS DA COSTA, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 22/09/2015, Publicado no DJE 2./10/2015).
+    Desta feita, de acordo com a jurisprudência firmada, nesta Corte, em se tratando de servidor público comissionado, não faz jus ao recebimento da diferença relativa a errônea conversão da moeda.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Ante o quadro, nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 12 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
