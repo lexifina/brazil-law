@@ -1,0 +1,70 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 284/STF E 7/STJ. CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS REJEITADOS.
+1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no acórdão ou na decisão. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte.
+2. Não padece de contradição o julgado que recebeu os primeiros embargos de declaração opostos como agravo regimental, negando-lhe provimento, por incidir na hipótese os óbices das Súmulas 284/STF e 7/STJ. Ademais, conforme consignado no acórdão embargado, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso.
+3. "O recurso integrativo é cabível apenas para que sejam sanadas eventuais contradições internas do julgado, não se prestando para que sejam invocados parâmetros externos para a caracterização do alegado vício." (AgRg no AREsp 539.479/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/03/2018, DJe 21/03/2018).
+4. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por [NOME] contra acórdão de minha relatoria, assim ementado (e-STJ, fls. 2369-2370):
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. OFENSA A DISPOSITIVOS DA CF/1988. INCOMPETÊNCIA DO STJ. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 284/STF. DELAÇÃO PREMIADA. RETRATAÇÃO E ALEGAÇÃO DE TORTURA. PREENCHIMENTO DOS REQUISITOS. REVOLVIMENTO FÁTICO. DESCLASSIFICAÇÃO DA CONDUTA DELITUOSA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Considerando o caráter manifestamente infringente da oposição, e em face do princípio da fungibilidade recursal, recebem-se os embargos de declaração como agravo regimental.
+2. Em relação à suposta negativa de vigência ao artigo 5º, incisos, II, LV e LVII, da Constituição Federal, cumpre consignar que a jurisprudência desta Corte é pacífica no sentido de que "a análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Carta Magna. Inviável, assim, o exame de ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência reservada à Corte Suprema" (AgRg no REsp 1.651.550/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017).
+3. Conforme consignado na decisão agravada, no que toca à pretensão de reconhecimento do cerceamento de defesa ao argumento de que não houve "à devida análise de todas as questões acostadas em sede de apelação", os argumentos apresentados no recurso especial impossibilita a compreensão da controvérsia, ou seja, não deixa claro de que forma o Tribunal de origem negou vigência à lei federal atraindo a tutela da instância especial. Aplica-se, assim, o óbice da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Oportuno ressaltar que, conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso.
+4. Quanto à delação premiada, o acórdão combatido dispôs que houve retratação em juízo do depoimento prestado, na fase inquisitorial, pelo agravante, o qual inclusive alegou ter sido torturado para a obtenção de uma suposta confissão. Aduziu a Corte, ainda, não haver o preenchimento dos demais requisitos necessário para incidência do instituto atenuante. Assim, alterar o entendimento esposado, tal como pleiteado, demandaria necessariamente, reexame fático-probatório dos autos, o que é inviável nesta sede especial, a teor do que dispõe a Súmula 7/STJ.
+5. O aresto impugnado reconheceu a participação do recorrente no crime, tendo sido ele, inclusive, beneficiado com o produto delituoso. Portanto, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela desclassificação da sua conduta para o crime do artigo 349 do Código Penal, seria necessário o revolvimento de provas e fatos, o que é vedado pela Súmula 7/STJ.
+6. Embargos de declaração recebidos como agravo regimental, ao que se nega provimento."
+Alega o embargante a existência de contradição no julgado, ao argumento de que não incidiriam à hipótese dos autos as Súmulas 284/STF e 7/STJ, pois "todas as alegações de violação a dispositivo de lei federal, bem como o dissídio jurisprudencial foram deduzidos de modo inteiramente conforme os requisitos legais, regimentais e sumulares" (e-STJ, fl. 2393).
+Afirma que os embargos de declaração opostos perante o Tribunal de origem não foram devidamente apreciados, o que, no seu entender, ofenderia os princípios do contraditório e do devido processo legal.
+Ressalta que "o aresto deixou de aplicar a Lei n. 9.034/95, especificamente seu artigo 6º, que estabelecia a redução da pena por parte da colaboração espontânea do agente e mesmo seu perdão" (e-STJ, fl. 2394).
+Requer o acolhimento dos embargos, a fim de que seja sanada a apontada contradição no julgado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 284/STF E 7/STJ. CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS REJEITADOS.
+1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no acórdão ou na decisão. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte.
+2. Não padece de contradição o julgado que recebeu os primeiros embargos de declaração opostos como agravo regimental, negando-lhe provimento, por incidir na hipótese os óbices das Súmulas 284/STF e 7/STJ. Ademais, conforme consignado no acórdão embargado, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso.
+3. "O recurso integrativo é cabível apenas para que sejam sanadas eventuais contradições internas do julgado, não se prestando para que sejam invocados parâmetros externos para a caracterização do alegado vício." (AgRg no AREsp 539.479/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/03/2018, DJe 21/03/2018).
+4. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no acórdão ou na decisão. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte.
+No caso, o acórdão embargado, acerca da controvérsia, assim asseverou (e-STJ, fls. 2374-2378, grifou-se):
+"Inicialmente, considerando o caráter manifestamente infringente, e em face do princípio da fungibilidade recursal, recebem-se os embargos de declaração como agravo regimental.
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Em relação à suposta negativa de vigência ao artigo 5º, incisos, II, LV e LVII, da Constituição Federal, cumpre consignar que a jurisprudência desta Corte é pacífica no sentido de que "a análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Carta Magna. Inviável, assim, o exame de ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência reservada à Corte Suprema" (AgRg no REsp 1.651.550/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017).
+A corroborar esse entendimento:
+ ..
+Conforme consignado na decisão agravada, no que toca à pretensão de reconhecimento do cerceamento de defesa ao argumento de que não houve "a devida análise de todas as questões acostadas em sede de apelação", os argumentos apresentados no recurso especial impossibilitam a compreensão da controvérsia, ou seja, não deixam claro de que forma o Tribunal de origem negou vigência à lei federal atraindo a tutela da instância especial. Aplica-se, assim, o óbice da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ ..
+Oportuno ressaltar que, conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso.
+A propósito, podem ser mencionados os seguintes julgados:
+ ..
+Quanto à delação premiada, assim se manifestou a Corte Federal:
+"A defesa pede, também, o benefício da delação premiada - art. 6º da Lei 9.304/95, norma revogada pela Lei 12.850/13.
+Inegável que a versão policial dos fatos dada por Alexandre foi o ponto de partida para identificação de outros integrantes do esquema criminoso.
+Entretanto, descabida a pretensão na medida em que, embora tenha confessado o delito na fase inquisitorial, desmentiu tudo diante do Juiz, aduzindo que o depoimento foi extraído mediante coação e violência policial, fato devidamente refutado por falta de provas.
+O tipo de colaboração do agente a merecer o benefício é aquele "quando o Réu, voluntariamente, colabora de maneira efetiva com a investigação e o processo criminal. Esse testemunho qualificado deve vir acompanhado da admissão de culpa e deve servir para a identificação dos demais coautores ou participes e na recuperação do produto do crime, o que não se verificou no caso dos autos" (STJ - Resp. 1.102.f736/SP) . (destaquei) Não houve colaboração no processo criminal, que só se instaura após o recebimento da denúncia, mas tão-somente confissão espontânea na fase policial." (e-STJ, fls. 2030-2031).
+O acórdão combatido dispôs que houve retratação em juízo do depoimento prestado, na fase inquisitorial, pelo agravante, o qual inclusive alegou ter sido torturado para a obtenção de uma suposta confissão. Aduziu a Corte, ainda, não haver o preenchimento dos demais requisitos necessários para incidência do instituto atenuante. Assim, alterar o entendimento esposado, tal como pleiteado, demandaria necessariamente, reexame fático-probatório dos autos, o que é inviável nesta sede especial, a teor do que dispõe a Súmula 7/STJ.
+A corroborar esse entendimento:
+ ..
+Em relação à desclassificação da conduta, consta no aresto combatido:
+"O pedido de desclassificação da conduta para a prevista no art. 349 do Código Penal (favorecimento real) encontra obstáculo na própria descrição do tipo incriminador. Vejamos:
+Prestar a criminoso, fora dos casos de co-autoria ou de receptação, auxílio destinado a tornar seguro o proveito do crime:
+Pena - detenção, de um a seis meses, e multa.
+Ora, o réu não é mero auxiliar senão coautor do crime. As provas existentes o demonstram.
+A característica principal do auxiliar do criminoso é não se locupletar do produto do delito. Este deve ser destinado exclusivamente ao autor da conduta. O aproveitamento por parte de quem presta a ajuda enquadra-se, no mínimo, no crime de receptação, figura penal também a ensejar óbice ao reconhecimento da condição almejada pela defesa.
+Não se sustenta, portanto, a pretensão." (e-STJ, fl. 2019).
+Observa-se que houve o reconhecimento da participação do recorrente no crime, tendo sido ele, por sinal, beneficiado com o produto delituoso. Portanto, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela desclassificação da sua conduta para o crime do artigo 349 do Código Penal, seria necessário o revolvimento de provas e fatos, o que é vedado pela Súmula 7/STJ.
+Ilustrativamente:
+ ..
+Ante o exposto, recebo os embargos de declaração como agravo regimental, ao qual nego provimento."
+No caso em exame, não se constata a alegada contradição no julgado, que recebeu os primeiros embargos de declaração opostos como agravo regimental, negando-lhe provimento, por incidir na hipótese os óbices das Súmulas 284/STF e 7/STJ. Ademais, conforme consignado no acórdão embargado, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso.
+Com efeito, "o recurso integrativo é cabível apenas para que sejam sanadas eventuais contradições internas do julgado, não se prestando para que sejam invocados parâmetros externos para a caracterização do alegado vício." (AgRg no AREsp 539.479/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/03/2018, DJe 21/03/2018).
+Ademais, verifica-se que os embargos de declaração opostos às fls. 2386-2395 (e-STJ) consistem em mera reiteração da petição de fls. 2340-2350, a qual foi recebida como agravo regimental diante do caráter manifestamente infringente.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
