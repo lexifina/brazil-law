@@ -1,0 +1,49 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANISTIA POLÍTICA. LEI 10.559/2002. RENÚNCIA TÁCITA À PRESCRIÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona em reconhecer que houve renúncia tácita à prescrição, com o advento da Lei 10.559, de 13/11/2002, regulamentadora do art. 8º do Ato das Disposições Constitucionais Transitórias.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pela União contra decisão de e-STJ, fls. 428/431 que conheceu do agravo para conhecer parcialmente o recurso especial e, nessa extensão, negar-lhe provimento.
+Alega a agravante, em síntese, que o presente recurso é um apelo parcial - referente apenas à violação do art. 1º do Decreto 20.910/1932.
+Defende que (e-STJ, fl. 445):
+O prazo prescricional estipulado pela Lei 10.559/2002 não implica que a Administração Pública tenha renunciado ao prazo previsto no art. 1º do Decreto 20.910/32. Ambas normas devem conviver, consoante a melhor exegese. Portanto, a Lei 10.559/2002 estipulou o prazo de cinco anos (tal qual previsto no art. 1º do Decerto 20.910/32), contados retroativamente do pedido administrativo de anistia (quando a Administração Pública é acionada), para o termo "a quo" prescricional das prestações arbitradas pela Comissão de Anistia.
+Argumenta que, no caso dos autos, a parte agravada não se contentou com o valor estipulado pela Comissão de Anistia e ajuizou ação para rever o valor. Assim, tendo em vista que o valor da prestação pode ser alterado, será necessária a liquidação da sentença e, por isso, não se pode submeter a administração pública a outro prazo prescricional que não seja o previsto no art. 1º do Decreto n. 20.910/1932.
+Afirma que, a partir do momento em que a questão foi ajuizada, o valor a ser definido pelo Poder Judiciário somente pode ser cobrado da União a contar dos cinco anos anteriores à propositura da ação (a começar de 5/2/2009). E, entre 30/9/2000 e 5/2/2009, o valor da prestação devida é aquele estipulado pela Comissão de Anistia, uma vez que foi reconhecida a condição de anistiada da agravada.
+Impugnação às e-STJ, fls. 453/455.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A irresignação não possui condições de prosperar.
+Consoante registrado na decisão agravada, devido à edição da Lei 10.559/2002, instituindo o Regime do Anistiado Político, houve a renúncia tácita da prescrição pela administração, conquanto reconheceu o direito à reparação econômica aos atingidos por atos de exceção, decorrentes de motivação exclusivamente política.
+No que diz respeito à reparação econômica em prestação mensal e continuada, prevê o § 6º do art. 6º da Lei 10.559/2002 que:
+Art. 6º  ..
+§ 6º Os valores apurados nos termos deste artigo poderão gerar efeitos financeiros a partir de 5 de outubro de 1988, considerando-se para início da retroatividade e da prescrição qüinqüenal a data do protocolo da petição ou requerimento inicial de anistia, de acordo com os arts. 1º e 4º do Decreto 20.910/32.
+Ou seja, considerando que o ingresso do requerimento inicial de anistia ocorreu em 30/9/2005 e a decisão administrativa reconheceu o direito à retroatividade quinquenal a partir do referido requerimento, retroagindo a 30/9/2000, não há que se falar em prescrição das parcelas anteriores a 5/2/2009.
+Com a instauração do processo administrativo, incidiu, na espécie, a suspensão do lapso prescricional, não ocorrendo prescrição durante a pendência do pedido. Assim, como a questão só foi decidida em 2011, garantindo a percepção dos valores vencidos desde 30/9/2000, como também, da prestação mensal devida a parti daí, torna-se impossível qualquer entendimento diverso do exposto no aresto combatido. Inexistindo, portanto, violação do art. 1º do Decreto 20.910/1932.
+Em verdade, o fato de haver discussão quanto à revisão da renda mensal que recebe na condição de anistiada política, não implica mudança do prazo prescricional, pois, conforme bem esclareceu o Juízo de primeiro grau e, posteriormente foi confirmado pelo Tribunal local, o prazo prescricional em observância ao princípio da actio in nata somente começou a fluir com a concessão do benefício, que ocorreu em 14/10/2011.
+A propósito (e-STJ, fl. 339):
+ ..  no tocante à prescrição, anoto que o prazo começou a fluir a partir da estipulação do valor da reparação mensal, na sessão de julgamento em 14/10/2011. Ou seja, a possibilidade de pleitear a complementação do valor fixado pela Comissão de Anistia, somente surgiu com a concessão do benefício que deixou de atribuir o valor que a autora entende devido.
+No caso concreto, a concessão da reparação mensal ocorreu em 14/10/2011, sendo que a data do ajuizamento desta demanda é 05/02/2014 e, assim, tem-se que não é possível que se fale em valores prescritos no período anterior a 05/02/2009, como sustentando pela União.
+Explico. A decisão administrativa reconheceu o direito à retroatividade quinquenal a partir de 30/09/2005 - data do requerimento de anistia -, retroagindo a 30/09/2000.
+Assim, não correndo a prescrição durante a pendência do pedido administrativo, quando houve a declaração do direito da autora, em 2011, foi-lhe garantida a percepção dos valores vencidos desde 30/09/2000, bem como, das parcelas que se vencessem a partir de então.
+Dessa forma, como a questão só restou decidida em 2011, com a fixação do valor, tanto dos atrasados quanto da prestação mensal devida a partir daí, não é possível que, simplesmente, adote-se a data do ajuizamento da presente demanda como base para a contagem do prazo quinquenal.
+Com efeito, descabe a limitação ao ano de 2009 pretendida pela União.
+Ademais, conforme já destacado na decisão agravada, este Tribunal Superior pacificou o entendimento de que a edição da Lei n. 10.559/2002, a qual regulamentou o art. 8º do ADCT, importou renúncia tácita da administração pública à prescrição. Nesse sentido:
+ADMINISTRATIVO E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PRESCRIÇÃO. DANOS MORAIS. ANISTIA POLÍTICA. ART. 8º DO ADCT DA CF/88. LEI 10.559/2002. RENÚNCIA TÁCITA À PRESCRIÇÃO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. A jurisprudência do Superior Tribunal de Justiça é uníssona em reconhecer que houve renúncia tácita à prescrição, com o advento da Lei 10.559, de 13/11/2002, regulamentadora do art. 8º do Ato das Disposições Constitucionais Transitórias.
+II. Conforme a Jurisprudência, "a edição da Lei nº 10.559, de 2002, que instituiu o Regime da Anistia Política e regulamentou o art. 8º do Ato das Disposições Constitucionais Transitórias - ADCT, importou em renúncia tácita à prescrição" (STJ, REsp 1.189.306/RJ, Rel.Ministro ARI PARGENDLER, PRIMEIRA TURMA, DJe de 17/09/2013). Em igual sentido: STJ, AgRg nos EREsp 1.056.225/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 06/12/2010.
+III. No caso dos autos, não há de se falar em violação ao art. 1º do Decreto 20.910/32. porquanto, ajuizada a presente ação em 01/12/2005, não houve o decurso do prazo prescricional de cinco anos após a edição da Lei 10.559, de 13/11/2002, que importou em renúncia tácita à prescrição, consoante pacífica orientação jurisprudencial desta Corte.
+IV. Agravo Regimental improvido, embora por fundamento diverso.
+(AgRg no REsp 1.264.832/RJ, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/5/2014, DJe 20/5/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. MILITAR. ANISTIA. ART. 8º DO ADCT. PRESCRIÇÃO. LEI N. 10.559/2002. RENÚNCIA TÁCITA. PRECEDENTES. EXPULSÃO. MOTIVAÇÃO EXCLUSIVAMENTE POLÍTICA. REVOLVIMENTO. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE FUNDAMENTOS NOVOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+(AgRg no REsp 987.333/RJ, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/5/2013, DJe 16/5/2013)
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ANISTIADO POLÍTICO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. VIA ADMINISTRATIVA. ESGOTAMENTO. DESNECESSIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. CUMULAÇÃO COM A REPARAÇÃO ECONÔMICA CONCEDIDA PELA COMISSÃO DE ANISTIA. IMPOSSIBILIDADE. BIS IN IDEM. RECURSO ESPECIAL CONHECIDO E PROVIDO. RECURSO ADESIVO PREJUDICADO.
+1. "No tocante à necessidade de exaurimento prévio da via administrativa para o ingresso de demanda judicial, o entendimento das duas Turmas que compõem a Primeira Seção desta Corte é no sentido de que o não-esgotamento da via administrativa não resulta em falta de interesse de agir capaz de obstar o prosseguimento do pleito repetitivo" (AgRg no REsp 1.190.977/PR, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 28/9/10).
+2. O Superior Tribunal de Justiça firmou a compreensão no sentido de que "a edição da Lei nº 10.559/2002, que regulamentou o disposto no artigo 8º dos Atos das Disposições Transitórias - ADCT e instituiu o Regime do Anistiado Político, importou em renúncia tácita à prescrição" (AgRg no REsp 897.884/RJ, Rel. Min. CELSO LIMONGI, Des. Conv. do TJSP, Sexta Turma, DJe 8/3/10).
+ ..
+8. Recurso especial da União conhecido e provido para reformar o acórdão recorrido e restabelecer os efeitos da sentença de improcedência do pedido. Recurso especial adesivo prejudicado.
+(REsp 1.323.405/DF, Rel. Min. ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 11/9/2012, DJe 11/12/2012)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
