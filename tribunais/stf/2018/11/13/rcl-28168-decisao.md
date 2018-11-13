@@ -1,0 +1,15 @@
+RECLAMAÇÃO. DESCUMPRIMENTO DA JURISPRUDÊNCIA DESTA SUPREMA CORTE. TRÁFICO DE DROGAS. INDULTO. PERDA DO OBJETO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 102, I, ‘l’, da Constituição Federal, e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Elisângela Sarat da Silva contra ato exarado pelo Juiz da 12ª Vara Federal da Seção Judiciária do Paraná, que, nos autos da Execução Penal 5014480-46.2010.4.04.7000, supostamente teria contrariado a jurisprudência deste Supremo Tribunal Federal.
+    Narra a inicial que a Reclamante foi condenada à pena de 2 (dois) anos e 11 (onze) meses de reclusão, em regime inicial semiaberto, substituída por pena restritiva de direitos, pela prática do crime de tráfico de drogas, tipificada no art. 33, § 4º, da Lei 11.343/2006, em regime inicial semiaberto.
+    No curso da execução penal, o juízo singular indeferiu pedido de indulto formulado pela Defensoria Pública da União ao fundamento de que o benefício previsto “no art. 1º, inciso XIV, do Decreto nº 8.615/15 a quem tenha cumprido somente 1/4 das penas restritivas de direitos atenta, a um só tempo, contra a separação dos Poderes, contra o princípio da individualização da pena, contra a vedação constitucional de que o Executivo legisle sobre direito penal e contra o princípio da vedação da proteção insuficiente”.
+    Argumenta a Defesa que “tem lugar a presente reclamação tendo em vista que o recurso cabível afigura-se inócuo em se tratando de decisão embasada em entendimento de inconstitucionalidade proferido pela Corte Especial do Tribunal Regional da 4ª região, Tribunal também competente portanto para apreciação do agravo interposto, de forma que é de todo improvável que a turma julgadora não observe o entendimento encampado pela Corte especial do r. Tribunal”. Sustenta que “a presente reclamação tem cabimento e não se apresenta como instrumento de supressão de instância, na medida em que visa a garantia da autoridade de decisões consolidadas no Supremo Tribunal Federal que asseveram a constitucionalidade dos decretos presidenciais de indulto”. Assevera que a Reclamante preenche os requisitos autorizativos da concessão do indulto. Requer, em medida liminar, a suspensão da execução penal. No mérito, pugna pela cassação da decisão indeferitória de indulto.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Tribunal Regional Federal da 4ª Região, verifico que, em 02.8.2018, o Juízo Federal de primeiro, nos autos do processo n. 5014480-46.2010.4.04.7000 julgou extinta a punibilidade de Elisângela Sarat da Silva dado o integral cumprimento da pena.
+    Tendo em vista não mais subsistir o ato reclamado apontado na inicial, fica evidente a perda de objeto do presente feito.
+    Ante o exposto, forte no art. 21, IX, do RISTF, julgo prejudicada a reclamação, extinguindo o processo sem resolução de mérito.
+    Publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
