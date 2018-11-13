@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. SINDICATO: AUSÊNCIA DE REGISTRO NO MINISTÉRIO DO TRABALHO. LEGITIMIDADE ATIVA: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA COLETIVO. REMESSA OFICIAL. INTERPOSIÇÃO DE OFÍCIO. SINDICATO. AUSÊNCIA DE REGISTRO NO MINISTÉRIO DO TRABALHO. ILEGITIMIDADE ATIVA. 1. Remessa oficial tida por interposta, a teor do disposto no artigo 14, § 1º, da Lei n. 12.016/09. 2. A legitimação ativa do sindicato para atuar como substituto processual em mandado de segurança coletivo pressupõe que ele esteja devidamente registrado no Ministério do Trabalho. Precedentes do STF e do STJ. 3. Como não juntada a certidão de registro sindical no Ministério do Trabalho, e não cabendo dilação probatória em mandado de segurança, deve o processo ser extinto sem julgamento do mérito, for falta de legitimidade ativa” (fl. 137, vol. 2).
+    Os embargos de declaração opostos foram rejeitados (fls. 173-177, vol. 2).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os incs. II, IV, XXXVI e LIV do art. 5º, os incs. IX, XXIII e XVI do art. 7º, o art. 93, a al. a do inc. III e o inc. I do art. 150, o inc. I do art. 154, o § 4º, al. a do inc. I do art. 195 da Constituição da República.
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 279 do Supremo Tribunal Federal (fl. 282, vol. 2).
+    O agravante sustenta que “a presente discussão é acerca da validade do registro em Cartório de Registro de Títulos e Documentos e Registro Civil das Pessoas Jurídicas para o Sindicato adquirir personalidade jurídica. Assim, a questão é estritamente de direito, não sendo aplicável ao caso a referida súmula [279 do STF]” (fl. 337, vol. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    6. O Tribunal de origem assentou:
+    “Alega a União que não foi juntado documento apto a comprovar o registro sindical perante o Ministério do trabalho, para fins de demonstrar a legitimidade do sindicato impetrante para interpor ação coletiva em nome das empresas substituídas.
+    De fato, há entendimento consolidado nas Cortes Superiores no sentido de ser indispensável a comprovação do mencionado registro para o ingresso do sindicato em juízo na defesa da categoria que representa. (…)
+    Como se vê, a legitimação ativa do sindicato para atuar como substituto processual em mandado de segurança coletivo pressupõe que ele esteja devidamente registrado no Ministério do Trabalho.
+    O registro no cartório de títulos e documentos ou no cartório de registro civil não é suficiente para completar o nascimento de um sindicato, porquanto é imprescindível que seja delimitada a sua base territorial, em atenção ao princípio da unicidade sindical, o que só é possível realizar quando há o registro no Ministério do Trabalho.
+    Assim, como não juntada a certidão de registro sindical no Ministério do Trabalho, e não cabendo dilação probatória em mandado de segurança, merece guarida a insurgência da União.
+    Dispositivo
+    Ante o exposto, voto por dar provimento à remessa oficial, tida por interposta, e à apelação da União, para o fim de extinguir o processo sem julgamento do mérito, nos termos do artigo 267, VI, do CPC/73, e julgar prejudicada a apelação do Sindicato” (fls. 135-136, vol. 2).
+    A análise da pretensão do agravante exigiria o conhecimento e o exame do conjunto probatório constante dos autos, procedimento incabível em recurso extraordinário, como disposto na Súmula n. 279 do Supremo Tribunal Federal.
+    A apreciação do pleito recursal exigiria também a avaliação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE ATIVA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE n. 886.043-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 19.5.2016).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Sindicato. Legitimidade ativa. Ausência de homogeneidade de interesses. 3. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório e de cláusulas do estatuto sindical. Súmulas 279 e 454 do STF. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental. Majoração dos honorários advocatícios em 20%” (ARE n. 1.143.037-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 25.9.2018).
+    Nada há a prover quanto às alegações do agravante.
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
