@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTAQUE DA VERBA SOBRE O VALOR PRINCIPAL. POSSIBILIDADE. MOMENTO. MANDADO DE EXPEDIÇÃO DO PRECATÓRIO OU LEVANTAMENTO. RPV. IMPOSSIBILIDADE.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp1.347.736/RS, submetido ao regime de recursos repetitivos, decidiu pela autonomia dos honorários em relação ao crédito principal, inclusive no que concerne à forma de expedição do requisitório.
+2. Contudo, os honorários contratuais, como não decorrem da condenação, não podem ser objeto de RPV, tendo-se em conta o regime estabelecido no art.100 da Constituição Federal. Assim, quanto a essa espécie de honorários, assegura-se ao advogado a possibilidade de requerer sua reserva, mediante juntada do contrato de prestação de serviços aos autos, antes da expedição do mandado de levantamento ou do precatório, se não houver litígio já instalado a esse propósito entre o patrono e seu cliente.
+3. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CONSTITUCIONAL. PROCESSO CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR (RPV) REFERENTE AO VALOR DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAL - POSSIBILIDADE NO CASO - CONTRATO DE HONORÁRIOS PREVENDO O PAGAMENTO DA VERBA ADVOCATÍCIA EM 20% (VINTE POR CENTO) SOBRE O CRÉDITO DEVIDO AO AUTOR - PEDIDO ANTERIOR À EXPEDIÇÃO DE PRECATÓRIO DO MONTANTE PRINCIPAL E EM VALOR INFERIOR A 60 (SESSENTA) SALÁRIOS MÍNIMOS - EXEGESE DO ART. 22, § 4o DA LEI 8.906/94 - INEXISTÊNCIA DE AFRONTA AO DISPOSTO NO ART. 100, § 8o DA CONSTITUIÇÃO DA REPÚBLICA. DECISÃO REFORMADA. RECURSO PROVIDO.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 92 do Código Civil, 22, § 4º, 23 e 24, § 1º, da Lei 8.906/1994 e Lei 10.259/2001.
+Aduz, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Transcorreu, in albis, o prazo para apresentação de contrarrazões (fl. 490).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.9.2018.
+Merece prosperar a irresignação.
+A Primeira Seção deste Superior Tribunal de Justiça, no julgamento do REsp1.347.736/RS, submetido ao regime de recursos repetitivos, decidiu pela autonomia dos honorários em relação ao crédito principal, inclusive no que concerne à forma de expedição do requisitório.
+Contudo, os honorários contratuais, como não decorrem da condenação, não podem ser objeto de RPV, tendo-se em conta o regime estabelecido no art.100 da Constituição Federal. Assim, quanto a essa espécie de honorários, assegura-se ao advogado a possibilidade de requerer a sua reserva, mediante a juntada do contrato de prestação de serviços aos autos, antes da expedição do mandado de levantamento ou do precatório, se não houver litígio já instalado a esse propósito entre o patrono e seu cliente.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECLAMAÇÃO. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. CABIMENTO DE RECURSO INTERNO PERANTE O TRIBUNAL DE ORIGEM. QUANTO AO MÉRITO, INEXISTE DISSÍDIO ENTRE A DECISÃO RECLAMADA E O PARADIGMA INVOCADO, PORQUANTO AMBAS NÃO CONTEMPLAM A POSSIBILIDADE DE INCLUSÃO DOS HONORÁRIOS CONTRATUAIS NA RPV A SER DESTACADA DA EXECUÇÃO PRINCIPAL, SENDO POSSÍVEL, APENAS FAZÊ-LO QUANTO À VERBA SUCUMBENCIAL. AGRAVO REGIMENTAL DA PARTE RECLAMANTE A QUE SE NEGA PROVIMENTO.
+1. A presente Reclamação não apresenta condição formal de procedibilidade porquanto ajuizada contra decisão unipessoal de relator do Tribunal de origem, ocasião em que ainda cabia recurso interno àquele Colegiado.
+2. Quanto ao mérito, a decisão reclamada está em conformidade com o entendimento firmado por este STJ no repetitivo apontado como paradigma, não se podendo admitir a inclusão de honorários contratuais, na RPV destacada da execução principal, destinada apenas e tão-somente à verba sucumbencial.
+3. Agravo regimental da parte reclamante a que se nega provimento.
+(AgRg na Rcl 18.498/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 24/09/2018)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTAQUE DA VERBA SOBRE O VALOR PRINCIPAL. POSSIBILIDADE. MOMENTO. MANDADO DE EXPEDIÇÃO DO PRECATÓRIO OU LEVANTAMENTO. ART. 22, § 4º, DA LEI N. 8.906/1994. RECURSO ESPECIAL IMPROVIDO.
+I - A Primeira Seção deste Superior Tribunal de Justiça, no julgamento do REsp n. 1.347.736/RS, submetido ao regime de recursos repetitivos, decidiu pela autonomia dos honorários em relação ao crédito principal, inclusive no que pertine à forma de expedição do requisitório.
+II - Os honorários contratuais, todavia, como não decorrem da condenação, não podem ser objeto de RPV, tendo-se em conta o regime estabelecido no artigo 100 da Constituição Federal. Assim, quanto a essa espécie de honorários, assegura-se ao advogado a possibilidade de requerer a sua reserva, mediante a juntada do contrato de prestação de serviços aos autos, antes da expedição do mandado de levantamento ou do precatório, se não houver litígio já instalado a esse propósito entre o patrono e seu cliente. Precedentes: AgInt no AgRg no REsp 1282125/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira TURMA, julgado em 11/10/2016, DJe 24/10/2016; AgInt no REsp 1605280/RS, Rel. Ministro Herman Benjamin, Segunda Turma, Julgado em 27/9/2016, DJe 14/10/2016; AgRg nos EDcl nos EDcl no REsp 1464842/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/8/2015, DJe 3/9/2015; AgRg no AREsp 447.744/RS, Rel. Ministro Herman Benjamin, Segunda TURMA, julgado em 20/3/2014, DJe 27/3/2014; e, AgRg no AREsp 408.178/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/11/2013, DJe 27/11/2013.
+III - Agravo interno improvido.
+(AgInt no REsp 1625004/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/05/2018, DJe 21/05/2018)
+Dessa forma, por estar em dissonância com o entendimento desta Corte Superior, deve ser reformado o aresto proferido na origem.
+Diante do exposto, dou provimento ao Recurso Especial.
+É como voto.
