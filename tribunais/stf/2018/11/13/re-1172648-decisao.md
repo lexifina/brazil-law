@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. BASE DE CÁLCULO. EXCLUSÃO DE RECEITAS DAS OPERAÇÕES DE VENDAS PARA A ZONA FRANCA DE MANAUS: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “MANDADO DE SEGURANÇA. CONTRIBUIÇÃO DO ART. 8º DA LEI Nº 12.546, DE 2011. BASE DE CÁLCULO. EXCLUSÃO. RECEITAS DECORRENTES DAS OPERAÇÕES DE VENDAS REALIZADAS PELA AUTORA PARA A ZONA FRANCA DE MANAUS E ÁREAS DE LIVRE COMÉRCIO. CABIMENTO. EQUIPARAÇÃO À EXPORTAÇÃO. COMPENSAÇÃO TRIBUTÁRIA DE VALORES. 1. As receitas decorrentes de exportações, às quais são equiparadas as vendas realizadas para a Zona Franca de Manaus e para as Áreas de Livre Comércio (ALC), estão isentas da contribuição previdenciária prevista no art. 8º da Lei nº 12.546, de 2011. 2. Em se tratando do recolhimento indevido de contribuição instituída a título de substituição de contribuição previdenciária, fica afastada a aplicação do art. 74 da Lei nº 9.430, de 1996, podendo a compensação tributária se dar somente com contribuições previdenciárias” (fl. 214, vol. 1).
+    Os embargos de declaração opostos foram rejeitados (fls. 230-233, vol. 1).
+    2. A recorrente alega ter o Tribunal de origem contrariado § 6º do art. 150 da Constituição da República e o art. 40 do Ato das Disposições Constitucionais Transitórias.
+    Sustenta que, “em se tratando de um benefício fiscal, a disciplina do REINTEGRA deve ser compreendida restritivamente, de tal modo que ao intérprete não seja possível pôr nem tirar palavras. Ora, se a Lei n. 12.456/11 não é expressa ao garantir o ressarcimento e a compensação de créditos tributários residuais atinentes a negócios jurídicos com aquela destinação, é escorreito concluir que a autora está pleiteando em Juízo o que a legislação em momento algum lhe assegurou. Dito de outro modo, se por um lado a requerente pretende operar exclusões no Decreto-lei nº 288/67, por outro é explícita na tentativa de incluir outras na Lei nº 12.456/11, que em momento algum tratou da ZFM” (fl. 252, vol. 1).
+    Requer “seja reformado o acórdão recorrido, nos termos da fundamentação recursal, com a improcedência dos pedidos deduzidos na exordial” (fl. 254, vol. 1).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste à recorrente.
+    4. No julgamento do Recurso Extraordinário n. 1.023.434, Relator o Ministro Dias Toffoli, este Supremo Tribunal assentou inexistir repercussão geral na controvérsia sobre a “possibilidade de extensão automática, considerando a equiparação do Decreto-lei n. 288/1967, do benefício fiscal do programa Reintegra (Lei n. 12.546/2011) às receitas oriundas de vendas efetivadas para a Zona Franca de Manaus” (Tema 945):
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ZONA FRANCA DE MANAUS. PROGRAMA REINTEGRA. BASE DE CÁLCULO. LEI Nº 12.546/2011. DECRETO-LEI Nº 288/1967. OPERAÇÃO DE EXPORTAÇÃO. EQUIPARAÇÃO. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. IMPOSSIBILIDADE DE REINTEPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. AFRONTA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL” (DJe 6.9.2017).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
