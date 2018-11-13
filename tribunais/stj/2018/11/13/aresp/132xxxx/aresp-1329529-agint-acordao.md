@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. MILITAR. CONCESSÃO DE REFORMA REMUNERADA. SURDEZ UNILATERAL DO OUVIDO ESQUERDO. DOENÇA COM RELAÇÃO DE CAUSA E EFEITO COM O SERVIÇO ATIVO. INCAPACIDADE DEFINITIVA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+Ora, não há nenhum vício que mereça retratação no presente caso, afinal, o entendimento do Tribunal se baseou na jurisprudência desta corte e as questões seguintes se embasavam em fato e provas.
+Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de Agravo Interno interposto (e-STJ fls. 376/382) contra a decisão que negou provimento Recurso Especial, assim ementada (e-STJ fl. 356):
+PROCESSO CIVIL. ADMINISTRATIVO. MILITAR. CONCESSÃO DE REFORMA REMUNERADA. SURDEZ UNILATERAL DO OUVIDO ESQUERDO. DOENÇA COM RELAÇÃO DE CAUSA E EFEITO COM O SERVIÇO ATIVO. INCAPACIDADE DEFINITIVA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Sustenta a Agravante, em síntese, que a demanda não gira em torno de questões fáticos probatórias, mas unicamente de direito.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. MILITAR. CONCESSÃO DE REFORMA REMUNERADA. SURDEZ UNILATERAL DO OUVIDO ESQUERDO. DOENÇA COM RELAÇÃO DE CAUSA E EFEITO COM O SERVIÇO ATIVO. INCAPACIDADE DEFINITIVA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+Ora, não há nenhum vício que mereça retratação no presente caso, afinal, o entendimento do Tribunal se baseou na jurisprudência desta corte e as questões seguintes se embasavam em fato e provas.
+Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ficou assentado no acórdão recorrido o seguinte:
+Inicialmente, deve ser ressaltado que a Corte Especial do Egrégio Superior Tribunal de Justiça, quando do julgamento do Agravo Regimental nos Embargos de Divergência no Recurso Especial nº 1.095.870/RJ  1  , firmou o entendimento de que o militar temporário ou de carreira que, por motivo de doença ou acidente em serviço, tornou-se definitivamente incapacitado para o serviço ativo das Forças Armadas faz jus à reforma.
+Dessa forma, se a incapacidade definitiva decorrer de doença, moléstia ou enfermidade adquirida em tempo de paz, com relação de causa e efeito a condições inerentes ao serviço, que o torne incapaz apenas para o serviço militar, será reformado com qualquer tempo de serviço e com a remuneração do posto que ocupava na ativa, ex vi do artigo 108, inciso IV, c/c artigo 109, ambos da Lei nº 6.880/80.
+Mas se tal enfermidade, com relação de causa e efeito a condições inerentes ao serviço, tornar o militar incapacitado total e permanentemente para qualquer trabalho, terá direito à reforma com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato ao que possuir na ativa, ex vi do artigo 108, inciso IV, c/c artigo 110, § 1º, ambos da Lei nº 6.880/80.
+ ..
+Com efeito, a discussão que se trava no presente caso deve ser examinada à luz da perícia médica realizada, devendo ser considerada a opinião do perito e do conjunto probatório carreado aos autos.
+Nessa quadra, verifica-se que, em 10/11/2015, o autor foi diagnosticado pelo médico do Hospital Central do Exército com perda auditiva de moderada à profunda na orelha esquerda (fls. 50).
+Ressalte-se, também, que o autor também foi submetido à inspeção médica realizada pelo perito judicial (fls. 140/141), cuja conclusão foi a de que este apresenta Surdez unilateral do ouvido esquerdo (Disacusia neurosensorial), enfermidade que possui relação de causa e efeito com o serviço militar, e que o incapacita, total e permanentemente, para a prática de atividades laborativas que exijam boa audibilidade.
+Com base nessas afirmações feitas pela instância originária, encampei o seguinte entendimento na decisão monocrática:
+Assim, no presente caso, o Tribunal desmembrou a questão em duas questões: a primeira foi aduzir que o próprio STJ tem entendimento firmado no sentido de que o militar temporário ou de carreira que, por motivo de doença ou acidente em serviço, tornou-se definitivamente incapacitado para o servido, fazendo jus à reforma. Num segundo momento, concluiu, com base no contexto fático-probatório, que a presente demanda se enquadrava num caso de incapacidade definitiva decorrente de acidente de serviço.
+Ora, não há nenhum vício que mereça retratação no presente caso, afinal, o entendimento do Tribunal se baseou na jurisprudência desta corte e as questões seguintes se embasavam em fato e provas.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR. REFORMA. VISÃO MONOCULAR. INCAPACIDADE DEFINITIVA PARA O SERVIÇO CASTRENSE. PRECEDENTES DO STJ.
+1. O militar temporário ou de carreira que, por motivo de doença ou acidente em serviço, tornou-se definitivamente incapacitado para o serviço ativo das Forças Armadas, tem direito à reforma, no mesmo grau hierárquico que ocupava enquanto na ativa, sendo desnecessária a existência do nexo causal entre a moléstia e o serviço castrense.
+Precedentes. (AgInt no REsp 1506727/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 04/04/2017).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1244205/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+In casu, militar temporário sofreu séria lesão que o incapacitou para as atividades castrenses e, em decorrência disso, foi licenciado sem o término de seu tratamento médico. Diante disso, a Turma reafirmou o entendimento de que, caso o militar, no momento de seu licenciamento, encontre-se temporariamente incapacitado em razão de acidente em serviço ou, ainda, de doença, moléstia ou enfermidade cuja eclosão deu-se no período de prestação do serviço, tem o direito de permanecer integrado às fileiras de sua respectiva Força até que se restabeleça. Ressaltou o Min. Relator que, no caso dos autos, o ato de licenciamento deu-se de forma irregular, visto que o militar não havia concluído o tratamento de suas lesões; devendo, portanto, ser reincorporado até o término do tratamento, pois é direito assegurado ao militar, independentemente de ser temporário ou de carreira, o tratamento de saúde necessário para a recuperação de suas lesões, até porque, quando de sua incorporação, gozava de boa saúde física (art. 50 da Lei n. 6.880/1980 e arts. 367 e 431 da Portaria n. 816/2003 do Ministério da Defesa - RISG). Ademais, a mera reintegração de militar temporário para tratamento médico não configura hipótese de estabilidade nos quadros das Forças Armadas. Nesse contexto, a Turma negou provimento ao agravo regimental. Precedentes citados: AgRg nos EDcl no Ag 1.119.154-RS, DJe 24/5/2010; REsp 1.021.500-PR, DJe 13/10/2009; AgRg no REsp 1.071.498-RS, DJe 28/9/2009, e REsp 612.170-RS, DJ 12/3/2007. AgRg no REsp 1.186.347-SC, Rel. Min. Hamilton Carvalhido, julgado em 22/6/2010.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
