@@ -1,0 +1,34 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “DIREITO PENAL. TRÁFICO INTERNACIONAL DE DROGAS. ARTIGO 33, CAPUT, C/C 40, I, DA LEI 11.343/06. AUSÊNCIA DE NULIDADE DE PROVA. DOSIMETRIA DA PENA. PATAMAR DE INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO. EXECUÇÃO PROVISÓRIA.
+    1. A prévia concordância do abordado, autorizando a busca em seu aparelho de celular, afasta a alegação de ilicitude da prova obtida a partir da análise do seu conteúdo.
+    2. São avaliadas as circunstâncias fáticas para valoração da causa de diminuição prevista no parágrafo 4º do artigo 33 da Lei de Tóxicos, que varia de 1/6 a 2/3, nos termos da norma legal.
+    3. O exaurimento do julgamento perante este Tribunal e do competente prazo para interposição do recurso de embargos de declaração permite a imediata execução da pena.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, X, XII e LVI, da CF. Sustenta que: (i) “a questão jurídica aqui trazida teve reconhecida a repercussão geral, tendo em conta que passível de repetição em inúmeros processos (TEMA 977, ARE 1042075 RG, Relator(a): Min. DIAS TOFFOLI”; (ii) “pretende-se, com este extraordinário, o reconhecimento da ilegalidade das provas produzidas, porque a quebra do sigilo dos dados existentes no terminal telefônico se deu sem ordem judicial”; (iii) “no presente caso, é incontestável a violação dessas garantias fundamentais, uma vez que a suposta anuência da parte para acesso aos seus registros telefônicos foi realizado sem o auxílio de um advogado, quiçá diante do temor e/ou coação por parte dos agentes policiais”.
+    O recurso é inadmissível. O Ministério Público Federal se manifestou nos autos sob os seguintes fundamentos:
+    “[...] quanto ao atendimento ao requisito da repercussão geral, também sem razão a defesa.
+    Nos autos do ARE 1042075/RJ, o STF reconheceu a existência de repercussão geral da matéria “atinente à possibilidade de acesso a registros e informações contidos em aparelho de telefone celular apreendido como instrumento ou objeto do crime, sem a necessidade de mandado judicial ou autorização do proprietário”.
+    Diferentemente do paradigma, no caso em questão, a prova obtida a partir do acesso a dados contidos no aparelho celular do réu foi considerada lícita diante da expressa autorização deste, o qual inclusive assinou termo autorizando a busca em seu telefone. Trata-se, portanto, de situação fático-processual diversa da que vai ser examinada no caso paradigma, em que o acesso às informações do aparelho celular ocorreram sem a autorização do réu e sem autorização judicial.
+    Não é caso, portanto, de suspensão da presente ação penal, até porque nos autos do ARE 1042075/RJ não houve determinação nesse sentido.
+    […]
+    Ainda que superados os óbices acima e fosse caso de conhecimento e provimento do agravo, ainda assim o recurso extraordinário não comportaria provimento quanto ao mérito.
+    Ora, existindo prévia autorização por parte do proprietário do aparelho celular, não há que se falar em ilicitude da prova por violação à intimidade, à vida privada ou mesmo à inviolabilidade das comunicações telefônicas. Não há qualquer respaldo jurídico na tese defensiva no sentido da imprescindibilidade de autorização judicial, mesmo quando o próprio réu já havia autorizado o acesso aos dados.
+    […].”
+    Correto o parecer ministerial, que acolho como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação per relationem (ARE 757.522 AgR, Rel. Min. Celso de Mello).
+    No caso, para chegar a conclusão diversa da do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    O Senhor Desembargador Leandro Paulsen: 1. Preliminar de nulidade de prova. A DPU alega que a conduta dos policiais de verificar as mensagens do celular sem a prévia autorização judicial configura prova ilícita e que todas as provas obtidas a partir disto são ilícitas por derivação, devendo o réu Tarsys ser absolvido.
+    Consta na comunicação de prisão em flagrante em anexo que em patrulhamento realizado na cidade de Umuarama, os policiais avistaram um grupo de pessoas que estavam em atitude suspeita e que ao avistarem a viatura mudaram de comportamento. Ao realizar a abordagem e busca pessoal foram encontradas cinco porções, totalizando 1,9 kg de maconha em uma mochila que estaria na posse de Tarsys Gabriel Medeiros Coelho, que teria informado ter pegado a mochila com Edgar dos Santos Machado. O policial Josimar Balbino Pereira da Silva declarou que foi solicitado aos abordados a autorização de busca nos celulares, sendo autorizado pelos mesmos, o que foi confirmado pelo policial Luis Fernando Andrich (autos nº 5003650-96.2016.4.04.7004 - ev. 1 - fls. 8/10).
+    Ademais, o réu Tarsys, estando ciente do direito constitucional de inviolabilidade do sigilo da correspondência e das comunicações telegráficas e de dados e das comunicações telefônicas, bem como ciente do direito constitucional de inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas, assinou termo autorizando a busca em aparelho celular, com acesso a quaisquer informações contidas no aparelho (autos nº 5003650-96.2016.4.04.7004 - ev. 38 - fl. 10).
+    Verifico não estar caracterizada a prova ilícita, na medida em que existente prévia autorização do réu quanto à busca realizada pelos policiais.
+    Afasto, pois, a preliminar.
+    […]
+    2. Materialidade e autoria. Não há insurgência recursal, tendo sido demonstradas pelos documentos acostados aos autos nº 5003650-96.2016.4.04.7004, notadamente pelo auto de prisão em flagrante, auto de exibição e apreensão, auto de constatação, laudo de perícia criminal nº 43917/2016, pelos depoimentos dos policiais que participaram do flagrante e pelas declarações dos acusados que confirmaram os fatos narrados na denúncia, confessando que Edgar trouxe a maconha do Paraguai e que ambos os acusados pretendiam revendê-la para ganhar algum dinheiro.
+    Diante do conjunto probatório constante nos autos, resta confirmada a condenação de ambos os réus pela prática do delito do art. 33 c/c 40, I, da Lei 11.343/06.
+    [...]”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
