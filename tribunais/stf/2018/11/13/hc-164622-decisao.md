@@ -1,0 +1,42 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pelo Ministro HUMBERTO MARTINS, do Superior Tribunal de Justiça, que indeferiu provimento cautelar nos autos do HC 461.101/MG.
+    Consta dos autos, em síntese, que foi decretada a prisão preventiva da paciente em decorrência de investigações realizadas no âmbito da Operação Icarus, instaurada para investigar a existência de organização criminosa dedicada à prática de crimes de tráfico de entorpecentes, lavagem de dinheiro, entre outros.
+    Inconformada com o decreto prisional, a defesa impetrou Habeas Corpus no Tribunal de Justiça de Minas Gerais, cujo pedido de medida liminar foi indeferido.
+    Contra essa decisão, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, na qual o Ministro relator negou a tutela de urgência.
+    Nesta ação, o impetrante sustenta, em suma, (a) a ausência dos pressupostos autorizadores da custódia cautelar; (b) a carência de fundamentação do decreto prisional; (c) a substituição da prisão preventiva por domiciliar, por ser a paciente mãe de 3 filhas, duas delas menores de 12 anos; (d) a possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+    Requer, assim, a expedição de alvará de soltura à Paciente, [...] com a consequente aplicação do art. 282 c.c art. 319 ambos do CPP, especificamente as medidas cautelares dispostas nos incisos I, IV, V, do art. 319 do CPP, ou outras.
+    É o relatório. Decido.
+    Nos termos da Súmula 691/STF, não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de habeas corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em habeas corpus requerido a tribunal superior, sob pena de indevida supressão de instância. O rigor na aplicação desse enunciado tem sido abrandado por julgados desta CORTE somente em caso de manifesto constrangimento ilegal, prontamente identificável (cf. HC 128.740, Rel. Min. MARCO AURÉLIO, Relatora p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 24/10/2016; HC 138.945-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 7/3/2017).
+    Na espécie, entretanto, não se constata a presença de flagrante ilegalidade apta a justificar a intervenção antecipada da SUPREMA CORTE.
+    De todo modo, ante as matérias suscitadas, convém colher trecho do parecer elaborado pelo Ministério Público do Estado Minas Gerais, no qual expõe o quadro fático para se manifestar contrário ao pedido de revogação da prisão preventiva da ora paciente perante o Juízo de origem (Doc. 13 – fls. 27/29):
+    De fato, a investigada é apontada, juntamente com o marido Ademir da Paixão de Jesus, como integrante de organização criminosa responsável pela prática de vários delitos graves.
+    De fato, o veículo do marido da requerente foi utilizado pela organização criminosa para transportar cerca de 72 kg de maconha.
+    De se ressaltar, ainda, o esquema sofisticado utilizado pelos investigados para a venda e distribuição de drogas na cidade de Unaí.
+    Registre-se, por oportuno, que Ademir realiza grandes movimentações financeiras, incompatíveis com a renda declarada, indicativas de lavagem de dinheiro, conforme apontado pelo COAF.
+    É certo que a Requerente não pode ser responsabilizada pelas condutas atribuídas ao cônjuge, mas também há fortes indícios de que ela possuía ampla participação na organização criminosa.
+    Ao que consta, a Requerente possui sociedade empresarial com Ademir Santos da Luz [empresa Brasil Genil LTDA – ME], que é um dos nomes falsos utilizados pelo cônjuge Ademir Jesus Martins.
+    Também consta que a Requerente possui 3 CPFs a ela relacionados, com a precisa intenção de praticar fraudes.
+    No mais, considerando que o inquérito ainda não foi finalizado, outras provas ainda poderão ser angariadas, restando demonstrado, por hora, indícios suficientes de autoria.
+    [...]
+    Por outro viés, a Requerente busca angariar a liberdade pela via da prisão domiciliar.
+    [...]
+    Por outro lado, também estão presentes os Fundamentos da Prisão Preventiva, sendo o cárcere necessário para assegurar a ORDEM PÚBLICA, ante a intranquilidade social causada em nossa sociedade pelo não-aprisionamento de autores de delitos altamente nocivos, como a formação de organização criminosa, relacionada ao tráfico de drogas, lavagem de dinheiro, uso de documentos falsos, dentre outros.
+    De certo, a amplitude das condutas demonstra a probabilidade manifesta de reiteração delituosa.
+    [...]
+     Pois bem, a Requerente acostou aos autos documentos que comprovam que ela possui 3 filhos, de 3, 7 e 12 anos.
+    Também é certo que o pai das crianças também foi preso e consta, ainda, declaração da avó de que não possui condições de cuidar das crianças.
+    É fato que a prisão dos genitores vai causar algum impacto na vida das crianças, mas o parquet entende que os requisitos da domiciliar não restaram demonstrados.
+    Primeiramente, a credibilidade da declaração de fl. 134 é altamente questionável, pois foi elaborada pela genitora da Requerente, que certamente possui interesse na restituição da liberdade da filha, conforme consta no próprio documento.
+    Além do mais, as crianças estão de fato com a avó materna e, ainda que esta não pudesse arcar com o munus, deveriam ser esgotadas as possibilidade de amparo das crianças por família extensa, antes da análise de eventual prisão domiciliar.
+    Por outro lado, não restou comprovado que as crianças necessitam de qualquer cuidado especial. Não há sequer alegação neste sentido.
+    Sobressai, no caso, a necessidade da custódia para resguardar a ordem pública, notadamente em razão do relevante auxílio prestado pela paciente à organização criminosa. Com efeito, esta SUPREMA CORTE já assinalou que “a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa” (HC 118.340/SP, Primeira Turma, Rel. Min. LUIZ FUX, DJe de 23/4/16). Nessa mesma linha de entendimento: HC 145.311 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 25/10/2017; HC 137.238, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ROBERTO BARROSO, Primeira Turma, DJe de 20/9/2017; HC 136.195, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/10/2017.
+    Adiante, também não prospera o pleito de substituição da segregação cautelar por prisão domiciliar. Em referência a este tópico, o Tribunal estadual indicou que a concessão de prisão domiciliar à acusada, para prestar auxílio á criação de seus filhos, poderia representar verdadeiro prejuízo ao sadio desenvolvimento dos mesmos, [...] tendo em vista que a paciente encontra-se supostamente envolvida em crimes graves como tráfico de drogas, organização criminosa, lavagem de dinheiro, receptação, adulteração de veiculo e fraudes documentais.
+    Ora, o art. 318 do Código de Processo Penal, com a redação determinada pela Lei 13.257/2016, dispõe que poderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for mulher com filho de até doze anos de idade incompletos ou gestante. É certo que essa regra não implica reconhecer que a prisão domiciliar tem aplicação irrestrita ou automática. Deve o julgador, como em todo ato restritivo de liberdade, proceder ao exame da conveniência da medida à luz das particularidades do caso concreto (cf. HC 157.084, Rel. Min. ALEXANDRE DE MORAES, DJe de 8/6/2018, decisão monocrática com trânsito em julgado).
+    Esse raciocínio não destoa da decisão proferida pela Segunda Turma desta CORTE no julgamento do HC 143.641/SP (Rel. Min. RICARDO LEWANDOSKI, julgado em 20/2/2018). Na ocasião, asseverou-se que a substituição da prisão preventiva pela domiciliar não seria efetivada nos casos de crimes praticados mediante violência ou grave ameaça, contra os próprios descendentes ou em situações excepcionalíssimas e devidamente fundamentadas.
+    Avaliado o caso concreto, os graves fatos imputados à paciente, tal como acima delineados, constituem, em juízo perfunctório, situação excepcional a obstar a substituição da prisão preventiva pela domiciliar. Não cabe, assim, falar em flagrante ilegalidade.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
