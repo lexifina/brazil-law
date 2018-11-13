@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de dois agravos que têm por objeto decisão que negou seguimento a recursos extraordinários interpostos contra acórdão do Tribunal Superior do Trabalho. Veja-se o seguinte trecho de ementa:
+    “[…]
+    3. REAJUSTE SALARIAL CONCEDIDO PELO CONSELHO DOS REITORES DAS UNIVERSIDADES ESTADUAIS PAULISTA (CRUESP). ANÁLISE DE LEGISLAÇÃO ESTADUAL. NÃO CONHECIMENTO. A respeito da matéria, a egrégia SBDI-1 tem entendido que, em hipóteses como a dos autos, em que as diferenças salariais são deferidas com base em norma estadual, cujos dispositivos indicam a aplicabilidade dos índices aplicados pelo CRUESP - Conselho de Reitores das Universidades do Estado de São Paulo, não há falar violação direta e literal de dispositivo da Constituição Federal, ante a necessidade da análise prévia da legislação estadual, o que não se adequa às hipóteses de admissibilidade do recurso de revista previstas no artigo 896, "c", da CLT. Precedentes.
+    […].”
+    Os recursos não merecem acolhida. Para dissentir do entendimento do Tribunal de origem, seriam necessários a reapreciação dos fatos e do material probatório constantes dos autos e o reexame da legislação infraconstitucional aplicada ao caso, procedimentos inviáveis neste momento processual. Nesse sentido, veja-se o seguinte precedente:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. RESOLUÇÕES DO CONSELHO DOS REITORES DAS UNIVERSIDADES ESTADUAIS PAULISTAS-CRUESP. ART. 6º DA LEI N. 8.899/94. ESTATUTO DA FAMERP. ART. 65 DO DECRETO 41.228/96. RECURSO DE REVISTA. CABIMENTO. ART. 896, A , DA CLT. ALEGAÇÃO DE AFRONTA AO ART. 37, X E XIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. LEI LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.” (ARE 696.934-AgR, Rel. Min. Luiz Fux).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 13 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
