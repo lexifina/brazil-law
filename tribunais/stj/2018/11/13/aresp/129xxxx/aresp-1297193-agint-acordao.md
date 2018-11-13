@@ -1,0 +1,40 @@
+EMENTA
+AMBIENTAL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO. AUTO DE INFRAÇÃO. QUEIMA IRREGULAR DE PALHA DE CANA DE AÇÚCAR. QUESTÃO DECIDA COM BASE EM LEI LOCAL. SÚMULA 280/STF.
+1. O acórdão recorrido, ao decidir pela regularidade da autuação, valeu-se de interpretação da norma local que prevê a responsabilização de quem se beneficiou da infração ambiental decorrente da queima irregular da palha de cana de açúcar (Decreto Estadual 8.468, art. 80, § 2º), fundamento esse que não pode ser revisto em recurso especial, nos termos da Súmula 280/STF.
+2. O tribunal de origem não fez juízo sobre a compulsoriedade de recebimento da palha de cana de açúcar cultivada por fornecedores, nem mesmo de forma implícita, daí a falta de prequestionamento da tese associada ao art. 38 do Decreto-lei 3.855/1941.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno de decisão de minha relatoria em que conhecido do agravo para não conhecer do recurso especial, pois as questões discutidas na insurgência foram resolvidas na origem com base somente em interpretação de lei local; e, no mais, pela falta de prequestionamento da tese associada à violação ao art. 38 do Decreto-lei 3.855/1941.
+Alega a agravante o seguinte: (a) o art. 38 do Decreto-lei 3.855/1941 foi prequestionado; (b) não há falar na incidência da Súmula 280/STF, tendo em vista que foram preenchidos todos os requisitos de admissibilidade do recurso especial, com demonstração de violação à lei federal.
+Apesar de intimada, a agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+AMBIENTAL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO. AUTO DE INFRAÇÃO. QUEIMA IRREGULAR DE PALHA DE CANA DE AÇÚCAR. QUESTÃO DECIDA COM BASE EM LEI LOCAL. SÚMULA 280/STF.
+1. O acórdão recorrido, ao decidir pela regularidade da autuação, valeu-se de interpretação da norma local que prevê a responsabilização de quem se beneficiou da infração ambiental decorrente da queima irregular da palha de cana de açúcar (Decreto Estadual 8.468, art. 80, § 2º), fundamento esse que não pode ser revisto em recurso especial, nos termos da Súmula 280/STF.
+2. O tribunal de origem não fez juízo sobre a compulsoriedade de recebimento da palha de cana de açúcar cultivada por fornecedores, nem mesmo de forma implícita, daí a falta de prequestionamento da tese associada ao art. 38 do Decreto-lei 3.855/1941.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não prospera.
+Conforme resumido na decisão agravada, o presente recurso decorre de embargos à execução de auto de infração lavrado por infração ambiental consistente na queima irregular de palha de cana de açúcar.
+O acórdão recorrido, ao decidir o tema da responsabilidade da ora agravante quanto aos fatos que deram causa à lavratura do auto de infração, valeu-se de interpretação da norma local que prevê a responsabilização de quem se beneficiou da infração ambiental decorrente da queima irregular de palha de cana de açúcar (Decreto Estadual 8.468, art. 80, § 2º).
+Assim, essa fundamentação do acórdão recorrido não pode ser revista em recurso especial, em aplicação analógica da Súmula 280/STF.
+Não obstante, eventual conflito entre lei local e lei federal não pode ser resolvido nessa seara, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102, III, d, da Constituição Federal.
+Quanto ao mais, o tribunal de origem não fez qualquer juízo sobre a compulsoriedade de recebimento da palha de cana de açúcar cultivada por seus fornecedores, nem mesmo de forma implícita, daí a falta de prequestionamento da tese associada ao art. 38 do Decreto-lei 3.855/1941.
+Por fim, conforme consignado na decisão agravada, o óbice da Súmula 280/STF também impede o exame da ofensa ao art. 2º, § 2º, da LINDB, pois, para tanto, seria necessário juízo interpretativo da legislação local.
+Como a agravante não trouxe argumentos suficientes para infirmar os fundamentos da decisão agravada, o seu teor deve ser reiterado:
+Ocorre que o TJ/SP, apesar de consignar que a responsabilidade objetiva é aplicável ao caso concreto, valeu-se de legislação local (Decreto Estadual 8.468/1976) para imputar à ora recorrente a responsabilidade pela infração ambiental, pois colheu e processou a cana de açúcar irregularmente queimada. Veja-se:
+(..) No mérito, não se nega que, em se tratando de ilícito administrativo, há divergência jurisprudencial acerca da responsabilidade, se é subjetiva ou objetiva. Contudo, tenho amplamente adotado a responsabilidade objetiva com base no artigo 14, § 1º da Lei nº 6.938/81. A responsabilidade objetiva baseia-se em elementos concretos, presentes no caso em tela, quais sejam a ocorrência do dano e a atividade desenvolvida pela apelante. Consoante a teoria do risco integral adotada, o dano deve ser evitado por aquele que pratica a atividade, que leva ao dever de vigilância da área, sendo também a omissão nesse sentido causadora de responsabilização. A recorrente admitiu que colheu a cana-de-açúcar e a processou, o que gera o nexo causal, já que ao receber a cana de origem queimada de forma ilegal, houve a voluntária adesão da apelante à conduta infracional. De se observar também que o artigo 80, § 2º, do Decreto 8.468, permite a responsabilização daquele que se beneficiou da infração, independente de ser o proprietário ou o responsável pelo plantio. Daí porque a conduta está corretamente enquadrada. (..) E nem se diga que a suposta queima por terceiros afastaria a responsabilidade. Ora, o alegado ato criminoso ou fato praticado por terceiro ou desconhecido não foi comprovado. E, nos moldes do raciocínio já desenvolvido, a recorrente aderiu à conduta criminosa, daí sua responsabilização. O benefício provém do próprio processamento da cana. Rejeito todas as teses contrárias às ponderações postas neste Acórdão até este momento.
+Nessas circunstâncias, o recurso especial não pode ser conhecido, nos termos da Súmula 280/STF, aqui aplicável por analogia.
+Quanto ao mais, o recurso especial não pode ser conhecido, na medida em que não houve prequestionamento da tese associada ao art. 39 do Decreto-lei 3.855/1941. A propósito, a recorrente sequer opôs embargos de declaração na origem com o intuito de provocar o debate sobre a questão.
+Por fim, o questionamento envolvendo a aplicação do art. 2º, § 2º, da LINDB não pode ser conhecido, tendo em vista que o TJ/SP novamente se valeu de interpretação de lei local para afastar a incidência da Lei Estadual 10.547/2000, senão vejamos:
+(..) No mais, inaplicáveis as disposições da Lei Estadual nº 10.547/2000 para a dosimetria da multa,vez que a apelante foi autuada por ter se beneficiado da queima, nos termos do artigo 80, § 2º, do Decreto8.468/76. Tal beneficiamento não é previsto na lei invocada pela apelante, logo, o critério para a aplicação da multa deve ser aquele do Decreto que ensejou a autuação.
+Nessas circunstâncias, o óbice da Súmula 280/STF também impede o conhecimento do recurso especial nessa parte.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
