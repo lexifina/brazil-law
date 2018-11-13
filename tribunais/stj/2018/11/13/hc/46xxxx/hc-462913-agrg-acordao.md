@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI Nº 11.343/06. FRAÇÃO DO REDUTOR. DISCRICIONARIEDADE. QUANTIDADE DA DROGA. MITIGAÇÃO INFERIOR AO MÁXIMO ACERTADA. AGRAVO DESPROVIDO.
+1. Inexiste ilegalidade na aplicação do redutor no patamar de 1/4 (um quarto), dada a quantidade e natureza de drogas apreendidas. Precedentes.
+2. No caso em análise, a expressiva quantidade de droga apreendida foi utilizada para fazer incidir a minorante de pena no patamar intermediário.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por JOSE [NOME], contra decisão singular de fls. 293/297, por meio da qual não se conheceu do habeas corpus, por ser manifestamente incabível, assentando-se, ainda, a inexistência de constrangimento ilegal para fins de concessão da ordem de ofício.
+Sustenta o agravante que a consideração negativa da natureza e quantidade da droga apreendida deve ser afastada, para possibilitar o aumento do quantum de diminuição referente ao art. 33, § 4º, da Lei nº 11.343/06, pois se tratando de entorpecente popularmente conhecido como "maconha", é substância de menor nocividade à saúde pública, e no que diz respeito à quantidade - 27 kg (vinte e sete quilos) - considerando que foi apreendida em região próxima à fronteira do Brasil com o Paraguai, revela-se quantidade comum se comparada às demais apreendidas no Estado.
+Assevera a ocorrência do vedado bis in idem no cálculo da pena, visto que o Tribunal a quo reduziu a fração da minorante para 1/4 agregando à fundamentação a valoração negativa da culpabilidade e circunstância do delito, sendo que tais vetores que já foram utilizados na exasperação da pena-base, aduzindo que deve ser aplicada a fração máxima de 2/3 pela causa de diminuição do § 4º, do art. 33, da Lei de Drogas.
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Busca-se no regimental a reforma da decisão que não conheceu do writ.
+Consta dos autos que o paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicialmente semiaberto, pela prática do delito previsto no artigo 33, caput, e na forma descrita no § 4º, e artigo 40, inciso III da Lei n. 11.343/06.
+No julgamento da apelação, o Tribunal de origem deu parcial provimento ao recurso interposto pelo Ministério Público, a fim de redimensionar a reprimenda para 3 (três) anos e 9 (nove) meses de reclusão, mantendo-se, no mais, a sentença condenatória.
+Impetrou-se habeas corpus contra o aludido acórdão, pleiteando a sua reforma e, por conseguinte, a aplicação da causa especial do § 4º, do art. 33, da Lei de Drogas, em seu patamar máximo de 2/3 (dois terços).
+Posteriormente, em decisão monocrática não se conheceu do mandamus, restando assinalada a inexistência de constrangimento ilegal.
+Insurge-se o agravante contra a negativa de concessão da fração máxima da minorante do tráfico.
+Todavia, a irresignação não comporta acolhimento.
+Com efeito, conforme restou asseverado na decisão ora agravada, a sentença fixou o redutor em 2/3 , sob o seguinte fundamento (e-STJ, fl. 122):
+(..) Em tal contexto, considerando que o artigo 42, da Lei 11.343/06 exige do juiz a valoração da natureza e quantidade da droga ilícita na primeira fase de dosimetria da pena, ao passo que, segundo a jurisprudência do STF, tal fato não pode ser usado novamente para determinar o montante de redução, quando presente a causa de diminuição em tela, revela-se adequado o entendimento de que o patamar deve ser aplicado de acordo com a necessidade de reprovação e prevenção do crime, resolvendo- se no aspecto do justo, no caso concreto, sob pena de esvaziamento do instituto criado pelo legislador.
+Assim, não havendo qualquer outro elemento desfavorável ao acusado no caso, diminuo a pena aplicada em 2/3. (..)
+O acórdão recorrido, por sua vez, deu parcial provimento ao recurso interposto pelo Ministério Público e reduziu a fração para 1/4, com base nos seguintes fundamentos (fl. 216):
+(..) No caso em apreço, a quantidade e natureza da droga prejudicam o apelado, eis que foi preso em flagrante transportando a quantia de 27.600 kg (vinte e sete quilos e seiscentos gramas) de maconha, e ademais ainda pesam contra o apelante a culpabilidade e as circunstâncias do crime.
+Assim sendo, o recorrido não preenche todos os requisitos para ser agraciado com a causa de diminuição de pena prevista no art. 33, §4º, da Lei nº 11.343/2006 em seu patamar máximo (2/3), portanto, deve ser aplicada a redução de pena em 1/4. (..)
+Destacou-se que, na hipótese dos autos, o Tribunal de origem aplicou a fração de 1/4 para diminuição da pena, fundado na quantidade da droga apreendida, qual seja, "27.600 Kg (vinte e sete quilos e seiscentos gramas) de maconha" - (fl. 216).
+Ademais, da leitura do acórdão impugnado, não se constata a ocorrência do vedado bis in idem no cálculo da pena pois, a despeito do Tribunal a quo ter feito referência à valoração negativa da culpabilidade e da circunstância do delito, verifica-se que a Corte de origem reduziu a fração da minorante para 1/4 em razão da quantidade e natureza da droga, o que representa motivação idônea para impedir a incidência da fração máxima de 2/3 (dois terços).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AGRAVO MINISTERIAL. PLEITO DE AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. PRESSUPOSTOS ATENDIDOS PELO AGRAVADO. PLEITO PELA MANUTENÇÃO DO REGIME FECHADO. REGIME SEMIABERTO ADEQUADO AO CASO. CONFORMIDADE COM O ART. 33, §§ 2º E 3º, DO CP.
+I - A quantidade e variedade de drogas apreendidas com o agravado, por si só, não se revela apta a evidenciar que ele se dedica a atividades criminosas ou integra organização criminosa. Ademais, não foram declinadas as circunstâncias do caso concreto que corroborariam tal conclusão. Assim, tendo em vista que o agravado é primário, não registra maus antecedentes e a quantidade de droga apreendida não evidencia, por si só, sua dedicação à atividade criminosa, nem que integra organização criminosa, é de rigor a aplicação do art. 33, § 4º, da Lei n. 11.343/2006. Entretanto, em consonância com o art. 42 da nova Lei de Tóxicos, utilizo a quantidade e variedade de droga apreendida como parâmetro, diminuindo a pena aplicada em 1/2 (metade).
+II - Ademais, a pena do agravado foi fixada abaixo de quatro anos. Não obstante, não se pode olvidar que a quantidade e variedade de entorpecentes foi considerada na terceira fase da dosimetria, modulando-se a incidência da minorante contida no art. 33, § 4º, da Lei 11.343/2006. Sendo desfavorável tal circunstância, impede a fixação do regime menos gravoso unicamente em razão da quantidade de pena imposta ao agravado, devendo, contudo, ser mantido o regime intermediário para o início de cumprimento da pena, qual seja, o semiaberto.
+Agravo regimental do Ministério Público Federal não provido.
+(AgRg no AREsp 1020105/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/10/2017, DJe 30/10/2017)
+PENAL E PROCESSUAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO § 4º DO ART. 33 DA LEI N. 11.343/2006. APLICAÇÃO EM PATAMAR AQUÉM DO MÁXIMO. QUANTIDADE E VARIEDADE DA DROGA. POSSIBILIDADE. ART. 42 DA LEI DE DROGAS. REGIME INICIAL. CONCEDIDO O SEMIABERTO. VOLUME E DIVERSIDADE. MODO MAIS GRAVOSO JUSTIFICADO. DETRAÇÃO PENAL. TEMA NÃO ANALISADO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência do STJ.
+2. Nos termos do entendimento firmado pelo STJ, a quantidade, a natureza e/ou a variedade da droga apreendida constituem fundamento idôneo a justificar a fixação de fração redutora aquém da máxima legal, pela minorante do § 4º, da Lei n. 11.343/2006 (art. 42 da Lei n. 11.343/2006).
+3. A espécie, volume e diversidade da substância entorpecente podem justificar a escolha do regime penal mais gravoso, in casu, o semiaberto.
+4. Inviável a análise da detração penal diretamente por esta Corte superior, porquanto o tema não foi debatido pelo Tribunal de origem, sob pena de incorrer na indevida supressão de instâncias.
+5. Agravo regimental improvido.
+(AgRg nos EDcl no HC 390.962/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+Assim, inexistindo ilegalidade a ser sanada por esta Corte Superior, a decisão agravada deve ser mantida.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
