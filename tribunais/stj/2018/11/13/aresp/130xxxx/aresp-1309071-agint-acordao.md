@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. MANDADO DE SEGURANÇA. REQUERIMENTO EM FAVOR DE TERCEIROS PERANTE O INSS. IMPOSSIBILIDADE DE EXTENSÃO GENÉRICA DA PRERROGATIVA PREVISTA NO ART. 7º, VI, "C", DA LEI 8.906/94. AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A Segunda Turma desta Corte, no julgamento do REsp 1.582.053, DJe 18/12/2017, firmou orientação no sentido de se afastar a prerrogativa do art. 7º, VI, "c", da Lei nº 8.906/94, quando a atividade exercida pelo advogado não for no âmbito das atividades privativas da advocacia, quais sejam - postulação perante o Poder Judiciário, bem como as atividades de consultoria, assessoria e direção jurídicas (art. 1º da Lei nº 8.906/94).
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno de decisão de minha relatoria cuja ementa é a seguinte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. MANDADO DE SEGURANÇA. OFENSA AO ESTATUTO DO IDOSO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. REQUERIMENTO EM FAVOR DE TERCEIROS PERANTE O INSS. IMPOSSIBILIDADE DE EXTENSÃO GENÉRICA DA PRERROGATIVA PREVISTA NO ART. 7º, VI, "C", DA LEI 8.906/94. PRECEDENTE DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR PROVIMENTO.
+Insurge-se a agravante contra a decisão monocrática sustentando que "tal decisão afronta diretamente o artigo 1º da Lei nº 8.906/94, pois, o segurado busca assessoria especializada junto ao advogado para haver sucesso em sua causa previdenciária".
+Alega que "a partir do momento da outorga dos poderes pelo segurado do RGPS ao advogado, por meio de instrumento de procuração, o Procurador em tela passa a realizar as atividades inerentes e exclusivas de sua categoria, mesmo que em âmbito administrativo, nos exatos moldes do Art. 1º da lei 8.906/94".
+Pugna pela retratação da decisão monocrática ou que seja o presente recurso apreciado e julgado pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. MANDADO DE SEGURANÇA. REQUERIMENTO EM FAVOR DE TERCEIROS PERANTE O INSS. IMPOSSIBILIDADE DE EXTENSÃO GENÉRICA DA PRERROGATIVA PREVISTA NO ART. 7º, VI, "C", DA LEI 8.906/94. AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A Segunda Turma desta Corte, no julgamento do REsp 1.582.053, DJe 18/12/2017, firmou orientação no sentido de se afastar a prerrogativa do art. 7º, VI, "c", da Lei nº 8.906/94, quando a atividade exercida pelo advogado não for no âmbito das atividades privativas da advocacia, quais sejam - postulação perante o Poder Judiciário, bem como as atividades de consultoria, assessoria e direção jurídicas (art. 1º da Lei nº 8.906/94).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Antes de mais nada, cumpre assentar que o presente recurso interno está submetido ao Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+As razões não merecem prosperar.
+Isso porque, conforme asseverado na decisão agravada, a Segunda Turma desta Corte, no julgamento do REsp 1.582.053, DJe 18/12/2017, firmou orientação no sentido de se afastar a prerrogativa do art. 7º, VI, "c", da Lei nº 8.906/94, quando a atividade exercida pelo advogado não for no âmbito das atividades privativas da advocacia, quais sejam - postulação perante o Poder Judiciário, bem como as atividades de consultoria, assessoria e direção jurídicas (art. 1º da Lei nº 8.906/94).
+Não se pode confundir o "exercício da advocacia", no âmbito profissional, com o mero pleito em favor de terceiro, quando é desinfluente a profissão do requerente. Isso porque o art. 1º da Lei 8.906/94 estabelece como atividades privativas da advocacia a postulação perante o Poder Judiciário, bem como as atividades de consultoria assessoria e direção jurídicas.
+No exercício regular dessas atividades privativas, revela-se, em tese, ilegal ato que impeça o livre ingresso de advogado em qualquer edifício ou recinto em que funcione repartição judicial ou outro serviço público onde o advogado deva praticar ato ou colher prova ou informação útil ao exercício da atividade profissional, dentro do expediente ou fora dele, e ser atendido, desde que se ache presente qualquer servidor ou empregado, porquanto se trata de prerrogativa prevista no art. 7º, VI, "c", da Lei 8.906/94.
+Por outro lado, caso o pleito em favor de terceiro não seja exercido no âmbito dessas atividades privativas, impõe-se o afastamento da prerrogativa, sob pena de se atribuir um privilégio.
+Neste agravo interno, por mero inconformismo, a agravante não traz elementos suficientes para infirmar a decisão agravada, a qual deve ser mantida pelos seus próprios e jurídicos fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
