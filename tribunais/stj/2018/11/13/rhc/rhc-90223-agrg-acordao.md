@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO REGIMENTAL NA PETIÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ABUSO DO DIREITO DE RECORRER. AGRAVO DESPROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, evidencia abuso do direito de recorrer a interposição de sucessivos embargos declaratórios seguidos de "questão de ordem", todos instrumentos manifestando simples descontentamento com a decisão meritória desfavorável ao interesse da parte. Em casos tais, determina-se a imediata certificação do trânsito em julgado da decisão com a baixa dos autos.
+2. "A interposição de sucessivos recursos com finalidade meramente protelatória autoriza o imediato cumprimento da decisão, consoante jurisprudência firmada pelo STJ e pelo STF" (HC 338.756/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 30/11/2016).
+3. Agravo regimental desprovido, com a certificação do trânsito em julgado do processo, seguida da baixa imediata dos autos, independentemente da publicação deste acórdão.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, com determinação, nos termos do voto do Sr. Ministro Relator." Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] e ROBERTA DE SAMPAIO SILVA contra decisão na qual este relator indeferiu questão de ordem, nos autos dos Embargos de Declaração nos Embargos de Declaração no Recurso Ordinário em Habeas Corpus, nos termos do RISTJ.
+Os agravantes alegam que "ao entendimento inicialmente esposado por esta Nobre Relatoria, entende o impetrante que o indeferimento da questão de ordem em balha, deve ser revisto, uma vez que, deveras, se mantém neste feito uma total negativa de jurisdição em relação a matéria principal aduzida no writ deste habeas corpus caracteriza efetiva negativa de jurisdição. Ademais, resta claro, no entender dos impetrantes, que a questão de ordem demonstra que não se prestou jurisdição acerca da existência efetiva de ilegalidade patente - vez que violado diretamente o due process of law, causando uma verdadeira situação de tumulto processual - bem como resta demonstrado nas razões de impetração, que o tumulto processual, via procedimento atípico adotado pelo juízo de piso, ocasionou a nomeação de advogado dativo para os pacientes, em total prejuízo à defesa dos mesmos" (e-STJ, fls. 730-731).
+Aduz, outrossim, que "Dentro desta quadra, e com as devidas homenagens ao entendimento inicialmente esposado pela ilustre Relatoria, o impetrante pugna pelo total cabimento do pedido formulado na presente questão de ordem, vez que, efetivamente, presente situação excepcional a ensejar o conhecimento do writ, bem como o enfrentamento, efetivo, da matéria, sanando-se a negativa de jurisdição, com a concessão de ordem de habeas corpus" (e-STJ, fl. 731).
+Requer, assim, a reconsideração da decisão impugnada ou a submissão do feito ao colegiado, visando o reconhecimento "da nulidade do feito, desde a remessa ao MPF, para apresentação de Memoriais finais, vez que feita antes do encerramento da instrução para as defesas, em razão da clara e inequívoca violação do devido processo legal. Destarte, Excelência, no caso em concreto, não há que se falar em razões para indeferir o pedido de questão de ordem, quando se trata de questão de manifesta ilegalidade, envolvendo NEGATIVA DE JURISDIÇÃO" (e-STJ, fl. 740).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NA PETIÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ABUSO DO DIREITO DE RECORRER. AGRAVO DESPROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, evidencia abuso do direito de recorrer a interposição de sucessivos embargos declaratórios seguidos de "questão de ordem", todos instrumentos manifestando simples descontentamento com a decisão meritória desfavorável ao interesse da parte. Em casos tais, determina-se a imediata certificação do trânsito em julgado da decisão com a baixa dos autos.
+2. "A interposição de sucessivos recursos com finalidade meramente protelatória autoriza o imediato cumprimento da decisão, consoante jurisprudência firmada pelo STJ e pelo STF" (HC 338.756/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 30/11/2016).
+3. Agravo regimental desprovido, com a certificação do trânsito em julgado do processo, seguida da baixa imediata dos autos, independentemente da publicação deste acórdão.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O agravo não merece prosperar.
+A decisão recorrida, a seguir transcrita, deve ser mantida pelos seus próprios fundamentos.
+"Trata-se de petição apresentada em favor de [NOME] e ROBERTA DE SAMPAIO SILVA nos autos dos embargos de declaração opostos nos embargos de declaração opostos no recurso ordinário interposto no habeas corpus originário do Tribunal Regional Federal da 2ª Região.
+A defesa, não se conformando com a rejeição de seus dois embargos e o desprovimento de seu recurso ordinário, todos nesta Corte Superior, após ter seu habeas corpus denegado na origem, apresenta pedido de questão de ordem, alegando que "se mantém neste feito uma total negativa de jurisdição em relação a matéria principal aduzida no writ" (e-STJ, fl. 708).
+É o relatório.
+Decido.
+Nada a prover em relação aos pedidos ora apresentados na PET n. 430309/2018 (e-STJ, fls. 707-719).
+Esta Corte Superior de Justiça já prestou sua jurisdição ao recurso aqui interposto (1 decisão monocrática e 3 decisões colegiadas).
+O total inconformismo dos requerentes com o resultado dos julgamentos proferidos neste STJ em nada se confunde com negativa de prestação jurisdicional. O que busca a defesa, na verdade, é a modificação do entendimento já manifestado por este Tribunal Superior a respeito dos temas aqui arguidos.
+Ante o exposto, indefiro o pedido de "questão de ordem".
+Certifique-se o trânsito em julgado do acórdão de fl. 693 (e-STJ).
+Publique-se.
+Após, baixem-se os autos à origem. " (e-STJ, fl. 722).
+Conforme reiterada jurisprudência do Superior Tribunal de Justiça, evidencia abuso do direito de recorrer a interposição de sucessivos embargos declaratórios seguidos de "questão de ordem", todos instrumentos manifestando simples descontentamento com a decisão meritória desfavorável ao interesse da parte.
+Em casos tais, determina-se a imediata certificação do trânsito em julgado da decisão com a baixa dos autos.
+Nesse sentido, destaco:
+"EMBARGOS DECLARATÓRIOS. PETIÇÃO INTERPOSTA POR FAX. ORIGINAIS NÃO APRESENTADOS NA FORMA ELETRÔNICA. RECUSA DA PETIÇÃO FÍSICA. RESOLUÇÃO STJ N. 14/2003. RECURSO NÃO CONHECIDO. ABUSO DO DIREITO DE RECORRER. IMEDIATO TRÂNSITO EM JULGADO DO PROCESSO. BAIXA DOS AUTOS.
+1. Embargos declaratórios interpostos por fax, cujos originais, apresentados fisicamente, foram rejeitados pela Secretaria desta Corte, com amparo no artigo 23 da Resolução STJ n. 14/2003.
+Inexistência de petição eletrônica no prazo legal.
+2. Evidenciado o abuso do direito de recorrer, pela interposição sucessiva de três embargos declaratórios meramente protelatórios. Precedentes da Corte Especial.
+3. Embargos declaratórios não conhecidos e, patente o abuso do direito de recorrer, determina-se a certificação do trânsito em julgado do processo, com a baixa imediata dos autos." (EDcl nos EDcl nos EDcl no AgRg no AREsp 28.328/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/03/2015, grifou-se)
+"HABEAS CORPUS. PROCESSO PENAL. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL. INVESTIGAÇÃO COM BASE EM PROVA DERIVADA DE INTERCEPTAÇÃO TELEFÔNICA TIDA POR ILÍCITA. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. ART. 157, §1º. DO CPP. FONTE INDEPENDENTE. ACUSAÇÃO LASTREADA EM PROVAS AUTÔNOMAS. EMBARGOS DECLARATÓRIOS. CARÁTER MANIFESTAMENTE PROTELATÓRIO. ABUSO DO DIREITO DE RECORRER. POSSIBILIDADE DE IMEDIATO CUMPRIMENTO DA DECISÃO DO TRIBUNAL REGIONAL FEDERAL. ACESSO A NOTAS TAQUIGRÁFICAS DE JULGAMENTO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+1. Tendo sido anulada, pelo Supremo Tribunal Federal, a interceptação telefônica, tal nulidade deve ser estendida às provas, supostamente lícitas e admissíveis, obtidas a partir da prova colhida de forma ilícita, por força da teoria dos frutos da árvore envenenada (fruits of the poisonous tree), de origem norte-americana, consagrada no art. 5º, inciso LVI, da Constituição Federal.
+2. A regra de exclusão (exclusionary rule) das provas derivadas das ilícitas comporta, na jurisprudência da Suprema Corte dos EUA, diversas exceções, tendo sido recepcionadas no ordenamento jurídico brasileiro, no art. 157, §§ 1º e 2º do CPP, ao menos duas delas: a) fonte independente e b) descoberta inevitável.
+3. No caso concreto, em inquérito policial instaurado quase cinco anos após a realização da interceptação telefônica que veio a ser anulada pela ausência de diligências preliminares confirmatórias de denúncia anônima, o paciente peticionou nos autos, prestando informações e sugerindo diligências que vieram a ser realizadas pela autoridade policial.
+4. A manifestação espontânea e voluntária do paciente consubstancia, na linha da jurisprudência pátria, fonte independente, de modo que as provas assim obtidas apresentam-se como autônomas, não restando evidenciado nexo causal com as interceptações telefônicas anuladas.
+5. A interposição de sucessivos recursos com finalidade meramente protelatória autoriza o imediato cumprimento da decisão, consoante jurisprudência firmada pelo STJ e pelo STF.
+6. É legítimo que também os Tribunais Regionais Federais possam impedir a protelação infinita dos processos de sua competência, estabelecendo termo final para as suas decisões e ensejando a preclusão. A reiteração de embargos de declaração protelatórios torna o recurso manifestamente incabível, não merecendo sequer conhecimento.
+7. As manifestações orais em julgamentos colegiados podem ser revisadas e mesmo canceladas, sem que isso implique nulidade do julgado. Assim sendo, não há que se falar em direito líquido e certo de acesso a tais registros.
+8. Ordem denegada." (HC 338.756/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 30/11/2016, grifou-se)
+Ante o exposto, nego provimento ao agravo, determinando a certificação do trânsito em julgado do acórdão de fl. 693 (e-STJ) e a baixa dos autos à origem, independentemente da publicação deste acórdão.
+É o voto.
