@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “ADMINISTRATIVO. ANISTIA POLÍTICA. INDENIZAÇÃO. DANO MATERIAL. IMPOSSIBILIDADE. CASSAÇÃO DO MANDATO DE DEPUTADO FEDERAL. INOCORRÊNCIA. PERSEGUIÇÃO POLÍTICA NO CARGO PÚBLICO ESTADUAL DO DE CUJUS DA PARTE AUTORA. NÃO DEMONSTRAÇÃO. DANO MORAL. CONDENAÇÃO. PREENCHIMENTO DAS EXIGÊNCIAS DO ART. 8º/ADCT E DA LEI Nº 10.559/2002. APLICAÇÃO DO ARTIGO 2º, I, DO REFERIDO DIPLOMA LEGAL. DIREITOS POLÍTICOS SUSPENSOS POR DEZ ANOS. FATO INCONTROVERSO. SEM REPERCUSSÃO EM SUA VIDA FUNCIONAL E SEM PREJUÍZO EM DIREITOS ESSENCIAIS.” (eDOC 6, p. 4)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, LV, do texto constitucional, e ao art. 8º do Ato das Disposições Constitucionais Transitórias.
+    Nas razões recursais, alega-se que o acórdão recorrido ignorou provas incontestáveis de que o anistiado haveria tomado posse como Deputado e sido cassado posteriormente. Além disso, sustenta que o simples impedimento à tomada de posse já implicaria no direito à indenização, não sendo necessária a nomeação. (eDOC 7, p. 51)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifico que no tocante à violação dos princípios da ampla defesa e do contraditório, o assunto versado no recurso extraordinário corresponde ao tema 660 da sistemática da repercussão geral, cujo paradigma é o ARE 748371, de minha relatoria, DJe 01.08.2013.
+    Ademais, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que as recorrentes não preencheram os requisitos necessários para a reparação econômica pretendida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Constata-se, claramente, da documentação anexada aos autos que o de cujus não chegou a tomar posse no cargo de deputado federal. Fato que ora se apresenta incontroverso, ao contrário do que afirma a parte autora.
+    Oportuno frisar que, os direitos políticos do falecido foram suspensos no dia 13/04/1964, documento de fls. 120/121, que se presume haver sido publicado no D.O do dia 14/04/1964. Infere-se, dessa forma, que antes do ato de suspensão dos seus direitos políticos houve a possibilidade de o de cujus tomar posse no cargo de Deputado Federal, sem que o tenha feito, não havendo notícias nos autos dos motivos de sua ausência para cumprir tal convocação.
+    Entrementes, as provas de fls. 106 e ss, que segundo a parte autora demonstrariam haver cumprido o mandato de Deputado Federal, na verdade, conspiram contra o falecido, pois, está demonstrado que o mesmo foi deputado na legislatura de 1963/1967, o que esvazia sua pretensão.” (eDOC 5, p. 194)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. ANISTIA POLÍTICA. CONTROVÉRSIA QUANTO À CONDIÇÃO DE ANISTIADO. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 765516 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 04.08.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Previdenciário. 3. Aposentadoria de anistiado e abono de permanência. Cumulação. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 1101043 AgR, de minha relatoria, Segunda Turma, DJe 17.08.2018)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem (eDOC 6, p. 2), deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
