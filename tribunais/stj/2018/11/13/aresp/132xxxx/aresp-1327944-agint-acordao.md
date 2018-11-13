@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. AUSÊNCIA DE COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Tendo o acórdão recorrido afastado a alegação de compensação em razão da ausência de comprovação, não é possível a esta Corte infirmar o acórdão recorrido no ponto, nem mesmo sob pretexto de divergência interpretativa, tendo em vista que tal procedimento demandaria revolvimento de matéria fático probatória inviável em sede de recurso especial a teor da Súmula nº 7 do STJ.
+2. É preciso registrar que a alegação de compensação no âmbito dos embargos restringe-se àquela já reconhecida administrativa ou judicialmente antes do ajuizamento da execução fiscal, conforme entendimento adotado no sede de recurso especial repetitivo (REsp nº 1.008.343/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe 1º.2.2010), não sendo esse o caso dos autos.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Cuida-se de agravo interno manejado por FECHOPLAST IND/ DE ACESSORIOS P/ ESQUADRIAS LTDA em face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. AUSÊNCIA DE COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante insurge-se contra a decisão agravada alegando, em síntese, que não se trata de pretensão de análise de matéria probatória ou de compensação pelo STJ, mas sim de afastar premissa equivocada da qual partiram os julgadores da Corte a quo no sentido de que a compensação não poderia ser matéria dos embargos à execução fiscal, tendo em vista que esta Corte já teria se manifestado no sentido da possibilidade de alegação de compensação em sede de embargos à execução nos autos do recurso repetitivo REsp 1.008.343/SP. Assevera que pretende a devolução dos autos à origem para análise da compensação realizada com base em sentença transitada em julgado na Ação Declaratória nº 94.0015197-7 através de [NOME]"s retificadoras. Dai porque sustenta violação aos arts. 74 da Lei nº 9.430/1966 e 156, II, do CTN.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante a Turma.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. AUSÊNCIA DE COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Tendo o acórdão recorrido afastado a alegação de compensação em razão da ausência de comprovação, não é possível a esta Corte infirmar o acórdão recorrido no ponto, nem mesmo sob pretexto de divergência interpretativa, tendo em vista que tal procedimento demandaria revolvimento de matéria fático probatória inviável em sede de recurso especial a teor da Súmula nº 7 do STJ.
+2. É preciso registrar que a alegação de compensação no âmbito dos embargos restringe-se àquela já reconhecida administrativa ou judicialmente antes do ajuizamento da execução fiscal, conforme entendimento adotado no sede de recurso especial repetitivo (REsp nº 1.008.343/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe 1º.2.2010), não sendo esse o caso dos autos.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+É que, no que tange à compensação alegada, assim se manifestou o acórdão recorrido:
+Na presente situação, os argumentos da inicial são incapazes de ilidir a presunção de certeza e liquidez da CDA, uma vez não ter sido comprovado, mediante declaração hábil, o valor exato devido e o supostamente compensado.
+Outrossim, a embargante não logrou êxito em comprovar a suspensão da exigibilidade do crédito tributário a obstar a propositura da execução fiscal.
+Nesse sentido, vale destacar trecho da r. sentença, in verbis:
+"O que se verifica é que a embargante teve um direito de compensar garantido por liminar, mas com ressalva de ampla conferência pelo Fisco. Não apresentou o pedido administrativo, de forma que o Fisco veio a inscrever o crédito em 04/12/98yobrevindo o trânsito em julgado do v. Acórdão que confirmou o direito de compensar em 11/12/1998. Em face disso, o que se conclui é que a embargaste demorou a exercitar o direito que a liminar lhe garantiu, pavio que, não postulou, administrativamente, a tempo, e somente com a [NOME] é que o Fisco veio a ter notícia dos valores compensados. Mas então, a execução fiscal já se encontrava ajuizada e a questão da compensação não foi analisada, como informou a resposta fiscal (fls. 230/231 da execução)."
+Portanto, tendo o acórdão recorrido afastado a alegação de compensação em razão da ausência de comprovação, não é possível a esta Corte infirmar o acórdão recorrido no ponto, nem mesmo sob pretexto de divergência interpretativa, tendo em vista que tal procedimento demandaria revolvimento de matéria fático probatória inviável em sede de recurso especial a teor da Súmula nº 7 do STJ.
+Por outro lado, é preciso registrar que a alegação de compensação no âmbito dos embargos restringe-se àquela já reconhecida administrativa ou judicialmente antes do ajuizamento da execução fiscal, conforme entendimento adotado no sede de recurso especial repetitivo (REsp nº 1.008.343/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe 1º.2.2010), não sendo esse o caso dos autos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
