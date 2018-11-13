@@ -1,0 +1,54 @@
+EMENTA
+RECURSO ESPECIAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. QUALIDADE DE SEGURADO. SENTENÇA TRABALHISTA HOMOLOGATÓRIA DE ACORDO ENTRE O ESPÓLIO DO INSTITUIDOR DA PENSÃO E O SUPOSTO EMPREGADOR.
+1. A jurisprudência desta Corte está firmada no sentido de que a sentença trabalhista pode ser considerada como início de prova material, desde que prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativa, durante o período que se pretende ter reconhecido na ação previdenciária.
+2. Na espécie, ao que se tem dos autos, a sentença trabalhista está fundada apenas nos depoimentos da viúva e do aludido ex-empregador, motivo pelo qual não se revela possível a sua consideração como início de prova material para fins de reconhecimento da qualidade de segurado do instituidor do benefício e, por conseguinte, do direito da autora à pensão por morte.
+3. Recurso especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 219, e-STJ):
+PREVIDENCIÁRIO - PENSÃO POR MORTE - TERMO DE CONCILIAÇÃO NA JUSTIÇA TRABALHISTA - DOCUMENTOS APTOS A COMPROVAR INÍCIO DE PROVA MATERIAL - AUSENTES OS REQUISITOS NECESSÁRIOS À CONCESSÃO DA ANTECIPAÇÃO DE TUTELA - DADO PARCIAL PROVIMENTO À APELAÇÃO.
+Os Embargos de Declaração foram rejeitados (fl. 235, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, do art. 1022 do CPC; e, no mérito, dos arts. 55, § 3º e 103 da Lei 8.213/1991.
+À fl. 274, e-STJ, proveu-se o Agravo e determinou-se sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 13 de agosto de 2018.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 213-214, grifei):
+A questão posta nos autos é de comprovação de vínculo trabalhista do instituidor do benefício en data imediatamente anterior ao óbito. Entendeu a mm Juíza a quo pela ausência de inicio de prova material, razão pela qual a autora não faria jus ao benefício postulado.
+Verifico, compulsando os autos, que a autora acostou Termo de Conciliação lavrado pelo Tribunal Regional do Trabalho da 1a Região no dia 17 de março de 1999 entre o espólio de Paulo Fernando Gonçalves, instituidor do benefício, e a Associação Aliança dos Cegos, comprovando que o reclamante trabalhara para aquela instituição no período de 12/03/1997 a 12/03/1998. Restou registrado, no mesmo documento de fl. 60, que a CTPS seria "apresentada, devidamente anotada, na data do pagamento da 1"parcela".
+A jurisprudência reconhece que a sentença trabalhista, ainda que meramente homologatória, pode ser considerada como início de prova material, sendo apta a comprovar o tempo de serviço, desde que fundamentada em elementos que demonostrem o exercício da atividade laborativa no período alegado, bem como o recolhimento da contribuição previdenciária, de forma a denotar a natureza salarial.
+A jurisprudência do Superior Tribunal de Justiça é firme em que "a sentença homologatória de acordo trabalhista é admitida como início de prova material para fins previdenciários, mesmo que o INSS não tenha participado da lide laboral, desde que o decisum contenha elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador" (STJ, AgRg no AREsp 249.379/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 22/04/2014).
+A participação da autarquia previdenciária no processo trabalhista é desimportante, para fins de reconhecimento da qualidade de segurado, em lide previdenciária, porquanto a sentença homologatória de acordo trabalhista só poderá ser admitida, como início de prova material, se fundada em elementos que demonstrem o labor exercido na atividade e os períodos alegados pelo trabalhador. Confiram-se:
+"PREVIDENCIÁRIO. RECURSO ESPECIAL. INÍCIO DE PROVA MATERIAL. ANOTAÇÃO. CARTEIRA DE TRABALHO. SENTENÇA. RECONHECIMENTO. JUSTIÇA DO TRABALHO. INSS. PARTICIPAÇÃO. LIDE. VIOLAÇÃO DO ART. 472. CÓDIGO DE PROCESSO CIVIL. NÃO CONFIGURADO.
+Prevalece a orientação de que as anotações feitas na Carteira de Trabalho e Previdência Social - CTPS determinadas por sentença proferida em processo trabalhista constituem início de prova material.
+Para que os efeitos da sentença da Justiça do Trabalho prevaleçam a fim de verem reconhecidos benefícios previdenciários não é necessário que o Instituto Nacional do Seguro Social - INSS integre a lide.
+Recurso desprovido" (STJ, REsp 710.837/PB, Rel. Ministro JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, DJU de 21/03/2005).
+"PROCESSUAL E PREVIDENCIÁRIO. TEMPO DE SERVIÇO. COMPROVAÇÃO. INÍCIO DE PROVA MATERIAL. SENTENÇA TRABALHISTA. NÃO VIOLAÇÃO AO ART. 472 DO CÓDIGO DE PROCESSO CIVIL. INCIDÊNCIA DO ART. 55, § 3º DA LEI 8.213/91. AGRAVO DESPROVIDO.
+I - A questão posta em debate restringe-se em saber se a sentença trabalhista constitui ou não início de prova material, pois as anotações na Carteira de Trabalho e Previdência Social - CTPS advieram por força desta sentença.
+II - Neste contexto, mesmo o Instituto não tendo integrado a lide trabalhista, impõe-se considerar o resultado do julgamento proferido em sede de Justiça Trabalhista, já que se trata de uma verdadeira decisão judicial, não importando cuidar-se de homologatória de acordo, conforme alegado pelo Instituto. Portanto, não se caracteriza a ofensa ao artigo 472 do Código de Processo Civil.
+Ademais, se no bojo dos autos da reclamatória trabalhista, há elementos de comprovação, pode ser reconhecido o tempo de serviço.
+III - A jurisprudência desta Eg. Corte vem reiteradamente decidindo no sentido de que a sentença trabalhista pode ser considerada como início de prova material, sendo apta a comprovar-se o tempo de serviço prescrito no artigo 55, § 3º da Lei 8.213/91, desde que fundamentada em elementos que demonstrem o exercício da atividade laborativa na função e períodos alegados, ainda que o Instituto Previdenciário não tenha integrado a respectiva lide.
+IV- Agravo interno desprovido" (STJ, AgRg no REsp 543764/CE, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJU de 02/02/2004).
+Com efeito, o acórdão recorrido reconheceu a qualidade de segurado do instituidor da pensão, com base no "Termo de Conciliação lavrado pelo TRT da 1ª Região, em 17 de março de 1999, entre o espólio de [NOME], instituidor do benefício, e a Associação Aliança dos Cegos, comprovando que o reclamente trabalhara para aquela instituição no periodo de 12.3.1997 a 12.3.1998." (fl. 213, e-STJ)
+A jurisprudência desta Corte está firmada no sentido de que a sentença trabalhista pode ser considerada como início de prova material, desde que prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativa, durante o período que se pretende ter reconhecido na ação previdenciária.
+Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO.
+1. Não tendo o falecido, à data do óbito, a condição de segurado ou implementado os requisitos necessários à aposentadoria, seus dependentes não fazem jus à concessão do benefício de pensão por morte. Precedentes.
+2. A sentença trabalhista apta a se prestar como início de prova material é aquela fundada em elementos que evidenciem o labor e o período em que este fora exercido.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.084.414/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 19/02/2013, DJe 01/03/2013 - grifo nosso)
+PREVIDENCIÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.
+CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. ANOTAÇÕES FEITAS POR ORDEM JUDICIAL. SENTENÇA TRABALHISTA NÃO FUNDAMENTADA EM PROVAS DOCUMENTAIS E TESTEMUNHAIS. INÍCIO DE PROVA MATERIAL NÃO-CARACTERIZADO.
+1. A sentença trabalhista será admitida como início de prova material, apta a comprovar o tempo de serviço, caso ela tenha sido fundada em elementos que evidenciem o labor exercido na função e o período alegado pelo trabalhador na ação previdenciária. Precedentes das Turma que compõem a Terceira Seção.
+2. No caso em apreço, não houve produção de qualquer espécie de prova nos autos da reclamatória trabalhista, tendo havido acordo entre as partes.
+3. Embargos de divergência acolhidos.
+(EREsp 616.242/RN, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/09/2005, DJ 24/10/2005, p. 170)
+Na espécie, ao que se tem dos autos, a sentença trabalhista está fundada apenas nos depoimentos da viúva e do aludido ex-empregador, motivo pelo qual não se revela possível a sua consideração como início de prova material para fins de reconhecimento da qualidade de segurado do instituidor do benefício e, por conseguinte, do direito da autora à pensão por morte.
+Nesse sentido: AREsp 249.379/CE, Rel. Ministro Benedito Gonçalves, DJe 10/2/2014; AREsp 440.998/RS, Rel. Ministro Napoleão Nunes Maia Filho, DJe 29/11/2013; e REsp 1.402.671/PE, Rel. Min. Humberto Martins, DJe 01/10/2013.
+Diante do exposto, dou provimento ao Recurso Especial do INSS nos termos da fundamentação supra. Inversão do ônus.
+É como voto.
