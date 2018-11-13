@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “PENAL. CERCEAMENTO DE DEFESA. AFRONTA AO ARTIGO 212 DO CPP. AUSÊNCIA DE PREJUÍZO. NULIDADE. INOCORRÊNCIA. ART. 297, § 4º, DO CÓDIGO PENAL. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. MATIVOS DO CRIME. EXASPERAÇÃO DA PENABASE. CONTINUIDADE DELITIVA. GRAU MÁXIMO.
+    1. No processo penal vige o princípio do 'pas de nullité sans grief', segundo o qual não se declarará nulo nenhum ato processual quando este não causar prejuízo, tampouco houver influído na decisão da causa ou na apuração da verdade real, em conformidade com os arts. 563 e 566, do CPP.
+    2. Não sendo apontado o efetivo prejuízo, nem apontadas as ilegalidades no momento oportuno, não há nulidade a ser reconhecida nos presentes autos.
+    3. Comprovadas a materialidade e a autoria, bem como o dolo da agente, a manutenção da sentença condenatória, por ofensa ao 297, § 4º, do Código Penal, é medida que se impõe.
+    4. Motivos do crime valorados negativamente, tendo em vista o anterior ajuizamento, pela ré, de ação objetivando concessão de benefício por incapacidade, que seria obstada pelo reconhecimento do vínculo trabalhista omitido neste processo.
+    5. Continuidade delitiva fixada em grau máximo, em razão do número de crimes praticados. Precedentes” (pág. 35 do documento eletrônico 3).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alega-se violação dos arts. 5°, LV; e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque este Supremo Tribunal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660). Confira-se a ementa do leading case:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE 748.371-RG/MT, Rel. Min. Gilmar Mendes).
+    Ademais, acerca da apontada nulidade do acórdão alusivo ao julgamento dos embargos de declaração, observo que os Ministros deste Tribunal, no julgamento do AI 791.292-QO-RG/PE (Tema 339), relatado pelo Ministro Gilmar Mendes, reconheceram a repercussão geral e reafirmaram a jurisprudência no sentido de que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Por oportuno, transcrevo a ementa do referido precedente:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
