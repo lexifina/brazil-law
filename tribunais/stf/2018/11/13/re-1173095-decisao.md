@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 4ª Região assentou a incompetência da Justiça Federal para julgar o pedido de pagamento do Piso Salarial Nacional relativo aos profissionais do magistério público da educação básica, considerada a ilegitimidade da União para figurar na relação jurídica processual. No extraordinário, a recorrente afirma a violação dos artigos 5º, incisos XXXV e LV, 93, inciso IX, 109, inciso I, 102, §2º, e 206, inciso VII da Constituição Federal, bem como do artigo 60 do Ato das Disposições Constitucionais Transitórias. Argui a nulidade da decisão por afronta ao devido processo legal. Defende a legitimidade passiva da União e a consequente competência da Justiça Federal para apreciar a causa.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. PISO SALARIAL NACIONAL. BASE LEGAL. ILEGITIMIDADE PASSIVA. INCOMPETÊNCIA. O Piso Salarial Nacional está previsto no Ato das Disposições Constitucionais Transitórias (art. 6, inc. III, alínea 'e') e foi regulamentado pela Lei nº 11.738/08. À União foi dada a responsabilidade subsidiária relativa ao PSN, sendo atribuída aos Estados-Membros a responsabilidade principal. A União é ilegítima passivamente para a causa, visto não compor a relação de direito material subjacente. Exclusão da União Federal da lide. Reconhecida a incompetência para julgar o processo, os autos vão remetidos ao Juízo competente, na forma do artigo 113, § 2º, do CPC.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 13 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
