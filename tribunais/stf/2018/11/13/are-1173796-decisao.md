@@ -1,0 +1,23 @@
+Trata-se de Recurso Extraordinário interposto pelo Estado do Rio de Janeiro em face de acórdão assim ementado (Doc. 4, fls. 18-19):
+    “AGRAVO LEGAL NO RECURSO DE APELAÇÃO. APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER C/C COBRANÇA PROPOSTA POR SERVIDORES DO PODER JUDICIÁRIO DO ESTADO DO RIO DE JANEIRO. PRETENSÃO DE INCORPORAÇÃO IMEDIATA EM SEUS VENCIMENTOS DO REAJUSTE DE 24%. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. PRESCRIÇÃO QUINQUENAL. INTELIGÊNCIA DO TEOR DO VERBETE SUMULAR Nº 300 DESTE E. TJRJ. REAJUSTE CONCEDIDO NO PERCENTUAL DE 70,5% AOS SERVIDORES DO ESTADO DO RIO DE JANEIRO, POR MEIO DA LEI 1.206/87. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ARTIGO 5º DA REFERIDA LEI, QUE NÃO CONTEMPLOU OS SERVIDORES DO JUDICIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA Nº 0064836-60.2012.8.19.0000 QUE RECONHECEU O DIREITO À IMPLEMENTAÇÃO DE UMA ÚNICA VEZ DO REJAUSTE, BEM COMO À PERCEPÇÃO DAS DIFERENÇAS PRETÉRITAS, DEDUZINDO-SE OS ÍNDICES DE REAJUSTE PRATICADOS PELA VIA ADMINISTRATIVA AOS REFERIDOS SERVENTUÁRIOS, ATRAVÉS DO PROCESSO ADMINISTRATIVO Nº 2010.259214, A PARTIR DE JANEIRO DE 2011. POR NÃO SE TRATAR DE AUMENTO, INAPLICÁVEL O VERBETE Nº 339 DO C. STF. OBSERVÂNCIA AO PRINCÍPIO DA ISONOMIA. RECURSO CONHECIDO E DESPROVIDO. AGRAVO LEGAL CONHECIDO E DESPROVIDO”.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que houve violação aos artigos 2º; 5º, XXXVI; e 37, X, todos da Magna Carta.
+    Em juízo de admissibilidade, determinou-se o retorno dos autos para 15ª Câmara Cível, a fim de verificar a compatibilidade da decisão com o Tema 315 da repercussão geral (Doc. 5, fls. 55-65).
+    Em juízo de retratação, o Tribunal de origem manteve o acórdão recorrido, conforme ementa a seguir (Doc. 6, fl. 37):
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA PROPOSTA POR SERVIDORES DO PODER JUDICIÁRIO DO ESTADO DO RIO DE JANEIRO. PRETENSÃO PARA O RECEBIMENTO DAS DIFERENÇAS VENCIDAS E VINCENDAS DECORRENTES DA NÃO IMPLEMENTAÇÃO DO REAJUSTE DE 24% EM SUAS REMUNERAÇÕES. REMESSA DO FEITO A ESTA CÂMARA JULGADORA PARA O EXERCÍCIO DO JUÍZO DE RETRATAÇÃO OU CONFIRMAÇÃO DO ACÓRDÃO PROFERIDO. ART. 543-B DO CPC.
+    - A matéria apreciada nestes autos não se confunde com aquela tratada no julgamento do RE n°592317/RJ, o que impõe a ratificação do acórdão anteriormente proferido por este colegiado.
+    - De outro vértice, cumpre destacar que o próprio STF já se manifestou no sentido de afastar o entendimento da súmula 339 (súmula vinculante 37) à hipótese dos autos.
+    CONFIRMAÇÃO DO ACÓRDÃO PROFERIDO”.
+    É o relatório. Decido.
+    Inicialmente, reputam-se preenchidos os pressupostos constitucionais de admissibilidade do apelo extremo. Dessa forma, passo à análise do mérito.
+    A irresignação merece prosperar.
+    Esta SUPREMA CORTE, no ARE 909.437-RG, Rel. Min. ROBERTO BARROSO, julgado sob o rito da repercussão geral (Tema 915), consolidou a tese de que “não é devida a extensão, por via judicial, do reajuste concedido pela Lei nº 1.206/1987 aos servidores do Poder Judiciário do Estado do Rio de Janeiro, dispensando-se a devolução das verbas recebidas até 1º.09.2016 (data da conclusão deste julgamento)”. A propósito, veja-se ementa do paradigma:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO EM RECURSO EXTRAORDINÁRIO. REAJUSTE DE 24% PARA OS SERVIDORES DO JUDICIÁRIO DO ESTADO DO RIO DE JANEIRO. LEI Nº 1.206/1987. ISONOMIA. REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. 1. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia. Súmula 339/STF e Súmula Vinculante 37. 2. Reconhecimento da repercussão geral da questão constitucional, com reafirmação da jurisprudência da Corte, para assentar a seguinte tese: “Não é devida a extensão, por via judicial, do reajuste concedido pela Lei nº 1.206/1987 aos servidores do Poder Judiciário do Estado do Rio de Janeiro, dispensando-se a devolução das verbas recebidas até 01º.09.2016 (data da conclusão deste julgamento)”. 3. Recurso conhecido e provido”.
+    O acórdão recorrido divergiu desse entendimento, devendo, portanto, ser reformado.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO interposto pelo ESTADO DO RIO DE JANEIRO para julgar improcedente o pedido.
+    Ficam invertidos os honorários sucumbenciais.
+    À Secretaria Judiciária para fazer constar ambas as partes como recorrentes e recorridos.
+    Após, publique-se.
+    Brasília, 13 de novembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
