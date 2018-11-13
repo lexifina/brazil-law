@@ -1,0 +1,68 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO COMPROVADA. PENSÃO POR MORTE. INVALIDEZ DE DEPENDENTE COMPROVADA PELA PERÍCIA MÉDICA. SUPOSTA OFENSA AO ART. 431-A DO CPC. NULIDADE RELATIVA DE ATO PROCESSUAL. INTIMAÇÃO PARA INÍCIO DA PRODUÇÃO DE PROVA PERICIAL. DEMONSTRAÇÃO DE PREJUÍZO. NECESSIDADE. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. A jurisprudência do STJ entende que a ausência de intimação para acompanhar a perícia gera nulidade relativa, cabendo à parte a demonstração de eventual prejuízo sofrido.
+3. Ademais, ainda que superado tal óbice, a Corte local consignou que "descuidou-se o Procurador do Estado que a Secretaria de Planejamento e Gestão, através do ofício nº 0211/2013-COPEM, dirigido ao Juiz da causa, indicou o perito [NOME], para a realizar a perícia, cuja realização deveria ser agendada, por telefone, junto à Coordenadoria de Perícia Médica - através do telefone (..) e assim foi feito" (fls. 166-167, e-STJ). Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Ceará assim ementado:
+DIREITO CIVIL. PROCESSUAL. INVALIDEZ COMPROVADO PELA PERÍCIA MÉDICA. DEPENDENTE INTERDITADA ATRAVÉS DE PROCEDIMENTO REGULAR. DIREITO A PENSÃO DEIXADA PELO FALECIDO INSTITUIDOR POLICIAL MILITAR. LEI COMPLEMENTAR DO ESTADO DO CEARÁ Nº 21/2000.
+AUSÊNCIA DO ESTADO POR OCASIÃO DA PERÍCIA MEDICA FEITO POR ESPERTOS DO ESTADO. PREJUÍZO NÃO COMPROVADO.
+1.Foi pelo Juízo da 10ª Vara de Família da comarca de Fortaleza decretada a interdição da apelada, cabendo a sua irmã exercer a curatela, com poderes conferidos pelos artigos 1.774 e 1.741 a 1.752, todos do Código Civil Brasileiro.
+2. Fato é que, a sentença recorrida foi lastreada em provas irrefutáveis, quais sejam: a perícia médica e a decisão judicial de interdição que somente foi possível porque [NOME] foi submetida à época a perícia médica por determinação do Juízo da 10 Vara de Família que, ao decretar a interdição, veio a pontificar que a apelada"não apresenta capacidade de discernimento com relação a assuntos mais complexos".
+3.O Ministério Público com assento naquela vara, ao manifestar-se, opinou pela procedência da ação de interdição, vez que, todos os quesitos foram respondidos pelos Médicos Peritos do Estado, e os documentos, v. g. vários atestados de internações em hospitais psiquiátricos de 1973 à 1995, concluindo-se, portanto, pela incapacidade laboral total e profissional da apelada, hoje com 65 anos de idade.
+4.O Estado do Ceará, pede em suas razões a nulidade da perícia médica ao alegar o não cumprimento das formalidades do art. 431-A, do CPC - ou seja, ciência às partes de data e local da realização da perícia.
+5.Descuidou-se o Procurador do Estado que a Secretaria de Planejamento e Gestão, através do ofício nº 0211/2013-COPEM, dirigido ao Juiz da causa, indicou o perito [NOME], para a realizar a perícia, cuja realização deveria ser agendada, por telefone, junto à Coordenadoria de Perícia Médica - através do telefone (085) 310112037, e assim foi feito.
+6.Ademais, mesmo que ausente o formalismo do art. 431-A, do Código de Processo Civil, o fato alegado, cuida-se de uma nulidade relativa, dependendo de comprovação do prejuízo as partes para que possa ser declarada, comportando, na hipótese presente a aplicação do princípio pas de nulitté sans grief.
+7.Remessa necessária e apelação cível conhecidas e improvidas.
+Os Embargos de Declaração foram rejeitados (fl. 231, e-STJ).
+O recorrente afirma que houve ofensa aos arts. 489, II, e 1.022 do CPC/2015 e 431-A do CPC/1973. Alega que, "em que pese a afirmação dos nobres Julgadores de que todos os pontos alegados pelo Estado foram debatidos, deve-se atentar para o fato de que o acórdão anteriormente vergastado restringiu-se tão somente a apontar para a existência do direito autoral comprovado por perícia, sem atentar para a nulidade da perícia realizada, a qual ocorreu sem a intimação do Estado do Ceará, em ofensa ao art. 431-A do CPC/1973, gerando prejuízo presumido, só rebatido por prova em contrário produzida pela outra parte, incorrendo sim em séria omissão" (fl. 178, e-STJ).
+Sem contrarrazões.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15.10.2018.
+Inicialmente, constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. (..) ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. MERO INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE, NA VIA ESPECIAL, PELO STJ. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+(..)
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material _ seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente _, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+(..)
+V. Embargos de Declaração rejeitados.
+(EDcl nos EDcl no REsp 1334203/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24.6.2016)
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+O Estado do Ceará, pede em suas razões a nulidade da perícia médica ao alegar o não cumprimento das formalidades do art. 431-A, do CPC - ou seja, ciência às partes de data e local da realização da perícia.
+Descuidou-se o Procurador do Estado que a Secretaria de Planejamento e Gestão, através do ofício nº 0211/2013-COPEM, dirigido ao Juiz da causa, indicou o perito [NOME], para a realizar a perícia, cujo a realização deveria ser agendada, por telefone, junto à Coordenadoria de Perícia Médica - através do telefone (085) 310112037, e assim foi feito.
+Ademais, mesmo que ausente o formalismo do art. 431- A, do Código de Processo Civil, é uma nulidade relativa, dependendo de comprovação do prejuízo as partes para que possa ser declarada, comportando, na hipótese presente a aplicação do princípio pas de nulitté sans grief,.
+A jurisprudência desta Corte Superior entende que a ausência de intimação para acompanhar a perícia gera nulidade relativa, cabendo à parte a demonstração de eventual prejuízo sofrido.
+Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AUSÊNCIA DE INTIMAÇÃO DE ASSISTENTE TÉCNICO PARA ACOMPANHAMENTO DE PERÍCIA. NECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO. NULIDADE INEXISTENTE.
+1. A inobservância do disposto no art. 431-A do CPC/73, o qual não determina a intimação do assistente técnico para acompanhar a perícia, não ocasiona nulidade absoluta, devendo a parte demonstrar a existência de prejuízo, para que possa ser declarada a nulidade.
+2. Agravo interno não provido.
+(AgInt no REsp 1556683/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 431-A DO CPC. SIMILITUDE FÁTICA EXISTENTE. NULIDADE RELATIVA DE ATO PROCESSUAL. INTIMAÇÃO PARA INÍCIO DA PRODUÇÃO DE PROVA PERICIAL. DEMONSTRAÇÃO DE PREJUÍZO. NECESSIDADE. EMBARGOS CONHECIDOS E NÃO PROVIDOS.
+1. Divergência na interpretação do art. 431-A do CPC, que dispõe: "As partes terão ciência da data e local designados pelo juiz ou indicado pelo perito para ter início a produção da prova".
+ 2. Para o acórdão embargado, a nulidade por inobservância desse dispositivo deve ser examinada à luz do art. 249, § 1º, do CPC, de modo que somente se houver demonstração da existência de prejuízo cabe a declaração de nulidade da perícia realizada. Segundo o acórdão embargado, a circunstância de o laudo pericial ter servido de suporte para a prolação da sentença configuraria a demonstração de prejuízo.
+3. É certo, conforme bem leciona José Roberto dos Santos Bedaque, que a segurança constitui valor inerente ao processo e que a "forma e a técnica processuais visam a assegurar o desenvolvimento ordenado da relação, com a prática de atos previamente estabelecidos em lei, permitindo às partes influir no resultado do julgamento" (Efetividade do Processo e Técnica Processual, 2. ed. São Paulo: Malheiros, 2007, p. 499).
+4. A intimação das partes constitui a regra. É a forma que se tem de assegurar aos litigantes ciência, desde o início, dos trabalhos que serão realizados. Busca-se evitar, assim, a feitura de provas periciais de caráter sigiloso, desprovidas de participação das partes da relação processual.
+5. O acompanhamento, desde o primeiro momento, das tarefas técnicas desenvolvidas pelo perito confere ampla transparência e lisura ao processo e permite a produção de laudo pericial que retrate os fatos da forma mais fidedigna possível, a fim de dar suporte adequado ao magistrado, no exercício da atividade jurisdicional.
+ 6. Não se coaduna com o atual estágio de desenvolvimento do Direito Processual Civil, em que impera a busca pela prestação jurisdicional célere e eficaz, a declaração de nulidade de ato processual sem que tenha havido comprovação da necessidade de seu refazimento, diante da existência de vício de natureza processual.
+7. O Superior Tribunal de Justiça tem iterativamente assentado que a decretação de nulidade de atos processuais depende da necessidade de efetiva demonstração de prejuízo da parte interessada, por prevalência do princípio pas de nulitte sans grief.
+8. Embargos de divergência conhecidos e não providos. (EREsp 1121718/SP, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/04/2012, DJe 01/08/2012).
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ademais, ainda que superado tal óbice, a Corte local consignou que "descuidou-se o Procurador do Estado que a Secretaria de Planejamento e Gestão, através do ofício nº 0211/2013-COPEM, dirigido ao Juiz da causa, indicou o perito [NOME], para a realizar a perícia, cuja realização deveria ser agendada, por telefone, junto à Coordenadoria de Perícia Médica - através do telefone (..) e assim foi feito" (fls. 166-167, e-STJ).
+Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013).
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ 2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1089538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 09/09/2011).
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+É como voto.
