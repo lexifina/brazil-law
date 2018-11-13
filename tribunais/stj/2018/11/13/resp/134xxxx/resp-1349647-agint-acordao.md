@@ -1,0 +1,72 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO CIVIL PÚBLICA. PLANOS DE SAÚDE. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FISIOTERÁPICOS E HOSPITALARES. CONTRATOS ANTERIORES À LEI 9.656/98. NÃO INCIDÊNCIA. CLÁUSULA ABUSIVA. RECONHECIMENTO. POSSIBILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 535 do CPC/73 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. As regras estabelecidas na Lei 9.656/98 restringem-se ao contratos de plano de saúde celebrados após sua vigência (art. 35), mas o abuso de cláusula contratual prevista em avenças celebradas em datas anteriores pode ser aferido com base no Código de Defesa do Consumidor.
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fisioterapia.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por GOLDEN CROSS SEGURADORA S/A e BRADESCO SEGUROS S/A contra decisão, da lavra do Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), que negou provimento ao recurso especial das agravantes, com os seguintes fundamentos: a) ausência de ofensa ao art. 535 do CPC/73; b) consonância do acórdão recorrido ao entendimento do STJ, no sentido de que, embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a índole abusiva das cláusulas à luz do CDC; c) devem ser reputadas como abusivas as cláusulas que afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares prescritos para doenças cobertas de assistência e seguro de saúde dos contratantes.
+Em suas razões, as agravantes sustentam que "a r. decisão recorrida merece reforma, na medida em que: - apesar de se manifestar a respeito dos temas ilegitimidade do Ministério Público Federal e inaplicabilidade da Lei 9.656/98 aos contratos celebrados anteriormente, o acórdão do Tribunal local não apreciou questões relevantes para o julgamento da lide, deixando, ainda, de enfrentar a questão da inaplicabilidade da Lei nº 9656/98 com a apreciação explícita das normas constitucionais e infraconstitucionais aplicáveis (CF, art. 5º, XXXVI, e LINDB, art. 6º); e - além de permitir verdadeira irretroatividade da lei apresentada com a denominação de abusividade de cláusula, a r. decisão agravada deixou de observar que o próprio Código de Defesa do Consumidor sempre autorizou a existência de cláusula limitativa do direito do consumidor, desde (sic) redigida com destaque (art. 54, §4º)" - e-STJ, fl. 1.052.
+A parte agravada apresentou impugnação (e-STJ, fls. 507/516).
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada pelos próprios fundamentos.
+Na hipótese, o Ministério Público Federal ajuizou ação civil pública contra GOLDEN CROSS SEGURADORA S/A, BRADESCO SEGUROS, [NOME] RIO, ASSOCIAÇÃO PRÓ-SAÚDE DOS SERVIDORES DA JUSTIÇA DO TRABALHO, CLIMOJ e [NOME], visando: (a) declarar a nulidade de cláusulas que limitem ou restrinjam qualquer procedimento médico, fisioterápico ou hospitalar prescrito para doenças cobertas pela carência em contratos de assistência à saúde firmados pelas rés, antes ou depois da Lei 9.656/98; (b) condenar as demandadas à abstenção de limitar ou restringir tais procedimentos; (c) condená-las ao pagamento de compensação por danos morais coletivos, em prol do fundo previsto pelo art. 13 da Lei 7.347/85; (d) obrigá-las a divulgarem o afastamento de tais restrições aos respectivos contratados.
+O Juiz Federal julgou procedentes os pedidos, com exceção dos danos morais.
+A sentença foi mantida integralmente pelo eg. Tribunal Regional Federal da 2ª Região, dando ensejo ao recurso especial.
+Em uma leitura atenta do acórdão recorrido, verifica-se que o Tribunal de origem prestou jurisdição completa, dirimindo, fundamentadamente, as questões que lhe foram submetidas, inexistindo vício relevante apontado nos embargos de declaração que não tenha sido examinado pela Turma Julgadora, denotando-se nos declaratórios mero inconformismo com a conclusão do julgamento.
+De fato, inexiste vício no aresto recorrido, porquanto o Tribunal regional, malgrado não ter acolhido os argumentos suscitados pelos agravantes, manifestou-se expressamente acerca dos temas relativos à legitimidade do Ministério Público Federal e à inaplicabilidade da Lei 9.656/98 aos contratos de seguro-saúde firmados antes de sua vigência. Irrelevante, para tanto, a menção expressa aos dispositivos legais e constitucionais apontados pelas agravantes.
+No mais, as agravantes sustentam a inaplicabilidade da Lei 9.656/98 aos contratos de seguro-saúde firmados antes de sua vigência e complementam que a limitação de cobertura a procedimentos fisioterápicos nas apólices de seguro-saúde não coloca o consumidor em desvantagem exagerada, inexistindo fundamento jurídico capaz de justificar a declaração de abuso constante do v. acórdão recorrido.
+O inconformismo não merece prosperar.
+Na espécie, o Tribunal de origem não determinou a aplicação retroativa da Lei 9.656/98, mas examinou o abuso da cláusula que figurava nos contratos firmados antes da sua vigência à luz do sistema introduzido pelo Código de Defesa do Consumidor, especialmente com base no art. 51, IV, da Lei 8.078/90, concluindo que viola a boa-fé objetiva a cláusula de limitação ou restrição de procedimentos médicos, fisioterápicos ou hospitalares prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+Assim decidindo, o acórdão recorrido não merece nenhum reparo.
+Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir o abuso das cláusulas à luz do Código de Defesa do Consumidor. Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. PLANO DE SAÚDE. RECUSA INDEVIDA. APLICAÇÃO DO CDC. CLÁUSULA ABUSIVA. HONORÁRIOS ADVOCATÍCIOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. "É nula a cláusula contratual que exclua da cobertura órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor" (REsp 1364775/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/06/2013, DJe 28/06/2013).
+3. "Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento" (AgRg no REsp 1.260.121/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/11/2012, DJe 6/12/2012).
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.027.161/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/05/2017, DJe de 25/05/2017, g.n.)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE LEI 9.656/98, ART. 35. CONTRATOS ANTERIORES. NÃO. INCIDÊNCIA. CLÁUSULA ABUSIVA. RECONHECIMENTO. POSSIBILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. VIOLAÇÃO AO ART. 535. NÃO OCORRÊNCIA.
+(..)
+2. As regras estabelecidas na Lei 9.656/98 restringem-se ao contratos de plano de saúde celebrados após sua vigência, mas a abusividade de cláusula contratual prevista em avenças celebradas em datas anteriores pode ser aferida com base no Código de Defesa do Consumidor.
+3. Delineado pelas instâncias de origem que o contrato celebrado entre as partes previa a cobertura para a cirurgia ao qual foi submetido o autor, é abusiva a negativa da operadora do plano de saúde do tratamento de quimioterapia indicado pelo médico que assiste o paciente. Precedentes.
+4. Agravo regimental a que se nega provimento."
+(AgRg no Ag 1.214.119/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe de 23/11/2015, g.n.)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. ARTIGO 6º DA LICC. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. IRRETROATIVIDADE DA LEI 9.656/98. OBRIGAÇÃO DE TRATO SUCESSIVO. RENOVAÇÃO DO CONTRATO NA VIGÊNCIA DO CDC. INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA.
+(..)
+2.- A matéria contida no art. 6º da LICC (atual LINDB) tem índole constitucional, razão pela qual é vedada a análise em Recurso Especial.
+3.- "Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento." (AgRg no REsp 1260121/SP)
+4.- Agravo improvido."
+(AgRg no AREsp 327.547/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 25/06/2013, DJe de 1º/08/2013, g.n.)
+Nessa linha, à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+A propósito, ressalta-se que o Superior Tribunal de Justiça consolidou o entendimento de que, se o contrato de assistência e seguro de saúde celebrado entre as partes prevê a cobertura para a doença, é abusiva a negativa da operadora do plano de saúde quanto aos procedimentos e técnicas prescritos pelo médico que assiste o paciente.
+Confiram-se:
+"ESPECIAL. PLANO DE SAÚDE. TRATAMENTO. TÉCNICA MODERNA. CIRURGIA. NEGATIVA DE COBERTURA. CLÁUSULA ABUSIVA. VIOLAÇÃO AO ART. 535 DO CPC NÃO CONFIGURADA.
+(..)
+2. Tratamento experimental é aquele em que não há comprovação médica-científica de sua eficácia, e não o procedimento que, a despeito de efetivado com a utilização equipamentos modernos, é reconhecido pela ciência e escolhido pelo médico como o método mais adequado à preservação da integridade física e ao completo restabelecimento do paciente.
+3. Delineado pelas instâncias de origem que o contrato celebrado entre as partes previa a cobertura para a doença que acometia o autor, é abusiva a negativa da operadora do plano de saúde de utilização da técnica mais moderna disponível no hospital credenciado pelo convênio e indicada pelo médico que assiste o paciente. Precedentes.
+4. Recurso especial provido."
+(REsp 1.320.805/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2013, DJe de 17/12/2013, g.n.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OFENSA AO ART. 535 DO CPC. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. COBERTURA SECURITÁRIA DA CIRURGIA POR VIDEOLAPAROSCOPIA INDICADA PELO MÉDICO. SÚMULA 5 E 83/STJ. IMPROVIMENTO.
+(..)
+2.- A convicção a que chegou o Tribunal a quo quanto à inexistência do cerceamento de defesa e de cobertura securitária para a cirurgia por videolaparoscopia decorreu da análise do contrato e do conjunto probatório, o que atrai a incidência das Súmulas 5 e 7/STJ. Ademais, estando o acórdão de origem em sintonia com o entendimento jurisprudencial deste Tribunal, incide a Súmula 83/STJ.
+3. Agravo Regimental improvido."
+(AgRg no AREsp 285.542/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/03/2013, DJe de 26/03/2013, g.n.)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. SEGURO DE VIDA. COBERTURA. IMPLANTAÇÃO DE STENT. IMPRESCINDIBILIDADE PARA O TRATAMENTO. EXCLUSÃO CONTRATUAL. ABUSIVIDADE. SÚMULA 83/STJ.
+1. Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento.
+2. Face o entendimento preconizado por esta Corte, é abusiva a cláusula que prevê a exclusão, da cobertura do plano de saúde, de procedimentos imprescindíveis para o êxito de tratamento médico.
+3. Incidência da súmula 83/STJ.
+4. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no REsp 1.260.121/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/11/2012, DJe de 06/12/2012, g.n.)
+Assim, verifica-se que, ao entender que, "à luz do sistema introduzido pelo Código de Defesa do Consumidor, especialmente com base no art. 51, IV, da Lei nº 8.078/90, violava o princípio da boa fé objetiva a cláusula de limitação ou restrição os procedimentos médicos, fisioterápicos ou hospitalares prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (e-STJ, fl. 843), o acórdão recorrido decidiu em consonância com a orientação do Superior Tribunal de Justiça.
+Cabe ressaltar que o recurso especial não indicou a afronta ao art. 54, § 4º, do CDC ("As cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão"), de modo que a argumentação constitui indevida inovação recursal.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
