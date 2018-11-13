@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DA PENA. DECRETO PRESIDENCIAL Nº 9.246/2017. LIMITAÇÃO IMPOSTA NO PARÁGRAFO ÚNICO DO ART. 7º. INTERPRETAÇÃO TELEOLÓGICA E SISTEMÁTICA. CONSTRANGIMENTO ILEGAL AFASTADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O artigo 7º, parágrafo único, do Decreto n. 9.246/2017 expressamente limita o deferimento da comutação a quem não tenha tido, por decreto anterior, a pena já comutada.
+2. No caso, o paciente já foi beneficiado com comutação anterior, conforme consignado no aresto impugnado, o que torna inviável o deferimento da benesse com fundamento no Decreto Presidencial n. 9.246/2017.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de agravo regimental interposto pela Defensoria Pública do Estado de São Paulo em favor de COSMO FERREIRA ALVES, contra decisão que negou seguimento ao presente habeas corpus, pois, "como o paciente já foi beneficiado com comutação anterior, conforme consignado no aresto impugnado, inviável o deferimento da benesse com fundamento no Decreto Presidencial n. 9.246/2017." (e-STJ fls. 72/75)
+No presente recurso, sustenta a defesa que "o Decreto n.º 9.246/17 foi elaborado às pressas e sem levar em conta as sugestões do CNPCP, que havia elaborado documento mais técnico e claro. Assim, a redação do Decreto é bastante sofrível, deixando a desejar em diversos pontos, o que traz certa confusão a respeito do efetivo desejo do Presidente da República." (e-STJ fl. 83)
+Alega que a melhor interpretação do parágrafo único do art. 7º do aludido decreto é a de que, "caso não tenham sido declaradas as comutações anteriores, com base no Decreto nº 9.246/17 é possível declarar o direito relativo aos decretos passados "independentemente de pedido anterior"" (e-STJ fls. 83/84).
+Desse modo, conclui que o dispositivo legal teve o escopo ampliar o direito às comutações e não limitá-lo.
+Ao final, requer seja reconsiderada a decisão agravada ou que o feito seja levado à apreciação da 5ª Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O recurso não merece prosperar. Afinal, o agravante não traz argumentos capazes de infirmar os fundamentos constantes da decisão impugnada, proferida nos termos seguintes (e-STJ fls. 72/75):
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de COSMO FERREIRA ALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo das Execuções Criminais indeferiu o pedido de comutação de penas formulado em favor do apenado em face do contido no art. 7º, parágrafo único, do Decreto n. 9.246/2017, que proíbe a concessão da referida benesse a sentenciados que já haviam obtido o benefício com base em anteriores.
+Inconformada, a defesa interpôs agravo em execução perante o TJSP, que negou provimento ao recurso, mantendo o decisum prolatado pelo Juízo da Instância primeira (e-STJ fls. 50/52).
+Na presente impetração, a Defensoria Pública alega que ""a redação do Decreto é bastante sofrível, deixando a desejar em diversos pontos, o que traz certa confusão a respeito do efetivo desejo do Presidente da República"" (e-STJ fl. 4).
+Afirma que ""A interpretação que a defesa faz do artigo 7º, parágrafo único do Decreto n.º 9.246/17 é a única possível diante do histórico dos Decretos anteriores, qual seja, a de que, caso não tenham sido declaradas as comutações anteriores, com base no Decreto n.º 9.246/17 é possível declarar o direito relativo aos Decretos passados "independentemente de pedido anterior. Assim, o parágrafo único tem teor que visa ampliar o direito às comutações e não limitá-lo"" (e-STJ fl. 4).
+Aduz que ""por falta de técnica - ou de cuidado na redação -, ao invés de fazer referência às comutações em geral (como ocorreu, p. ex. nos Decretos n.º 8.172/13 e 8.380/14), o legislador fez referência "a comutação a que se refere o caput", dando assim azo à confusão"" (e-STJ fl. 5).
+Requer, dessa forma, liminarmente, o deferimento da comutação da pena em favor do sentenciado. No mérito, pugna pela concessão da ordem ""para cassar o acórdão atacado e conceder ao Paciente a comutação prevista no artigo 7º, I, "a", do Decreto n.º 9.246/17 sobre a pena do crime comum"" (e-STJ fl. 9).
+Indeferido o pleito liminar (e-STJ fls. 60/61), opinou o Ministério Público Federal "pelo não conhecimento do habeas corpus" (e-STJ fls. 64/68). Eis a ementa do parecer ministerial:
+HABEAS CORPUS SUBSTITUTIVO. EXECUÇÃO PENAL. CONCESSÃO DE COMUTAÇÃO DE PENA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DE REQUISITO DE ORDEM OBJETIVA. VEDAÇÃO DO PARÁGRAFO ÚNICO DO ART. 7º DO DECRETO 9.246/2017. PACIENTE AGRACIADO PELO BENEFÍCIO PRETENDIDO POR DECRETOS ANTERIORES. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE APTA A SUPERAR A IMPROPRIEDADE DA VIA ELEITA.
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015 e STF, HC n. 113890, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Busca-se, no presente habeas corpus, seja o paciente agraciado com a comutação da pena prevista no Decreto Presidencial n. 9.246/2017. A respeito do tema, disse o Relator na Corte de origem (e-STJ fls. 51/52):
+O pedido de comutação feito pelo recorrente foi indeferido pelo juízo da Vara das Execuções Criminais de Presidente Prudente em face do contido no art. 7º, parágrafo único, do Decreto nº 9.246/2017, que proíbe a concessão de comutação a sentenciados que já haviam obtido o benefício com base em decretos anteriores, trazendo a seguinte norma:
+"Parágrafo único. A comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior ".
+Irretocável, portanto, a decisão quanto ao indeferimento do pedido de comutação com base no Decreto nº 9.246/2017, tendo em vista o impedimento constante do art. 7º deste mesmo diploma, que veda a concessão de comutação para sentenciados com a pena já comutada com fundamento em decretos anteriores.
+Para que não fique sem registro, deve-se observar que mandamento semelhante não é novidade, tendo sido já previsto no Decreto nº 8.380/2014: "art. 3º Concede-se comutação às pessoas condenadas a pena privativa ide liberdade que não tenham, até 25 de dezembro de 2015, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior", não sendo o caso de se dar interpretação diferente ao dispositivo, como pretende a defesa.
+Sendo o caso destes autos, já que o sentenciado havia sido beneficiado com a comutação via Decreto nº 8.172/2013, fica desprovido o agravo.
+De fato, o artigo 7º, parágrafo único, do Decreto n. 9.246/2017 expressamente limita o deferimento da comutação a quem não tenha tido a pena anteriormente comutada. Veja-se:
+Art. 7º A comutação da pena privativa de liberdade remanescente, aferida em 25 de dezembro de 2017, será concedida, nas seguintes proporções:
+(..)
+Parágrafo único. A comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior.
+Assim, como o paciente já foi beneficiado com comutação anterior, conforme consignado no aresto impugnado, inviável o deferimento da benesse com fundamento no Decreto Presidencial n. 9.246/2017.
+Ante o exposto, nego seguimento ao presente habeas corpus.
+Ademais, a interpretação do dispositivo do decreto presidencial sugerida pela defesa não pode ser aqui acolhida, pois não reflete a melhor hermenêutica. Em caso, semelhante assim decidiu esta Corte Superior:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. EXECUÇÃO PENAL. COMUTAÇÃO. DECRETO PRESIDENCIAL N. 8.172/2013. INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS ANTE O NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. REVISÃO. VIA IMPRÓPRIA. INTELIGÊNCIA DOS ARTS. 2º E 3º DO DECRETO PRESIDENCIAL. ANÁLISE CONJUNTA. INTERPRETAÇÃO TELEOLÓGICA E SISTEMÁTICA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Uma vez assentado pelas instâncias ordinárias o não preenchimento dos requisitos legais insertos no art. 3º do Decreto Presidencial n. 8.172/2013, em sua análise conjunta com o disposto no art. 2º do aludido Decreto, mostra-se imprópria a via do habeas corpus à revisão do entendimento.
+3. A pretendida análise dissociada e independente dos requisitos previstos no art. 3º do Decreto Presidencial levaria à concessão indistintamente a todos os condenados que não tivessem sido beneficiados por decretos anteriores, o que, evidentemente, não se pode admitir como interpretação razoável do dispositivo, na medida em que teratológica. E, nos termos dos princípios da hermenêutica jurídica, nenhuma interpretação da lei pode conduzir ao absurdo.
+4. Não há falar em extensão dos requisitos do Decreto Presidencial n. 8.172/2013 para a concessão da comutação das penas, ou em invasão da competência do Presidente da República - conforme previsto no art. 84, XII, da Constituição Federal -, quando se trata de mera interpretação teleológica e sistemática do texto da lei, inexistindo, pois, constrangimento ilegal.
+5. Habeas corpus não conhecido.
+(HC 302.915/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/05/2016, DJe 20/05/2016)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
