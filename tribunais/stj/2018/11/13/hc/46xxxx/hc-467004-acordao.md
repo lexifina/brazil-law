@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. JÚRI. HOMICÍDIO QUALIFICADO. DECOTE DE QUALIFICADORA. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora.
+2. Firmou-se nesta Corte o entendimento de que a exclusão de qualificadoras constantes na pronúncia somente pode ocorrer quando manifestamente improcedentes e descabidas, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida, o que não se verifica na hipótese dos autos.
+3. A qualificadora do motivo torpe não está distorcida do cenário processual, nem possui fundamentação inidônea, na medida em que o delito foi motivado por desavenças em virtude do tráfico de drogas, inclusive a vítima estava proibida de retornar à comunidade. Conforme consta dos autos, o paciente ligou para a mãe da vítima, afirmando que seu filho poderia voltar à localidade. Nesta oportunidade, a vítima foi morta, assim como sua mãe.
+4. A sentença de pronúncia tem cunho declaratório e finaliza mero juízo de admissibilidade, não comportando exame aprofundado de provas ou juízo meritório. Deve, portanto, o juiz apenas verificar a existência nos autos de indícios de autoria e materialidade, conforme mandamento do artigo 413 do CPP, o que foi adequadamente realizado. Em caso de dúvida quanto as qualificadoras, deve, portanto, o Conselho de Sentença solucionar a questão.
+5. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao recurso em sentido estrito interposto em face da sentença de pronúncia.
+Neste writ, a impetrante alega, em síntese, que não há elementos nos autos capazes de garantir a manutenção da qualificadora do motivo torpe. Sustenta que a doutrina entende que motivo torpe é aquele praticado de maneira repugnante, abjeto, vil e repulsivo, o que não se caracteriza no caso em questão.
+Requer a concessão da ordem para que seja decotada a qualificadora prevista no art. 121, §2º, I do Código Penal.
+Liminar indeferida.
+Informações prestadas pelo Tribunal de origem.
+Parecer do Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. JÚRI. HOMICÍDIO QUALIFICADO. DECOTE DE QUALIFICADORA. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora.
+2. Firmou-se nesta Corte o entendimento de que a exclusão de qualificadoras constantes na pronúncia somente pode ocorrer quando manifestamente improcedentes e descabidas, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida, o que não se verifica na hipótese dos autos.
+3. A qualificadora do motivo torpe não está distorcida do cenário processual, nem possui fundamentação inidônea, na medida em que o delito foi motivado por desavenças em virtude do tráfico de drogas, inclusive a vítima estava proibida de retornar à comunidade. Conforme consta dos autos, o paciente ligou para a mãe da vítima, afirmando que seu filho poderia voltar à localidade. Nesta oportunidade, a vítima foi morta, assim como sua mãe.
+4. A sentença de pronúncia tem cunho declaratório e finaliza mero juízo de admissibilidade, não comportando exame aprofundado de provas ou juízo meritório. Deve, portanto, o juiz apenas verificar a existência nos autos de indícios de autoria e materialidade, conforme mandamento do artigo 413 do CPP, o que foi adequadamente realizado. Em caso de dúvida quanto as qualificadoras, deve, portanto, o Conselho de Sentença solucionar a questão.
+5. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Primeiramente, observo que o Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais.
+A propósito: HC n. 109.956/PR, Ministro MARCO AURÉLIO, PRIMEIRA TURMA, DJe 11/9/2012; HC n. 104.045/RJ, Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 6/9/2012; HC n. 114.924/RJ, Ministro DIAS TOFFOLI, DJe 28/8/2012; e HC n. 146.933/MS, Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/11/2011.
+Quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora, situação verificada de plano, admite-se a impetração do mandamus diretamente nesta Corte para se evitar o constrangimento ilegal imposto ao paciente.
+Na hipótese, não se percebe a existência de ilegalidade manifesta a ser sanada.
+Oportunamente, o acórdão impugnado, sobre o tema, assim se manifestou:
+"" ..
+Lado outro, para que ocorra o afastamento de qualificadoras em sede de pronúncia, é necessário que estas sejam totalmente descabidas ou manifestamente improcedentes, o que não ocorre no presente feito.
+(..)
+Não há como ser afastada, de pronto, as qualificadoras do motivo torpe e mediante o uso de dissimulação, havendo indícios de que a motivação do delito tenha sido desavenças entre réu e vítima envolvendo o tráfico de drogas, tanto que Felipe estaria proibido de retornar à comunidade, por ter participado de outras facções criminosas.
+Igualmente, é possível que o acusado tenha se utilizado de dissimulação para concretizar seu intento homicida, uma vez que teria instruído Paula a dizer para Felipe que poderia retornar à comunidade, que estaria "autorizado", e ao chegar no local foi surpreendido por indivíduos, sendo agredido e ao final morto, assim como sua mãe Paula. Tais circunstâncias podem ser extraídas do depoimento de [NOME], o qual inclusive teria emprestado o celular para a vítima ligar e avisar seu filho que ele estaria autorizado a voltar. Assim, sendo, tenho que existem elementos suficientes para que seja mantida a pronúncia do acusado, inclusive quanto às qualificadoras.
+ .. "" (e-STJ, fls. 469-470)
+A respeito das qualificadoras, firmou-se nesta Corte Superior o entendimento de que a sua exclusão, na pronúncia, somente pode ocorrer quando manifestamente improcedentes e descabidas, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para os crimes dolosos contra a vida.
+Neste sentido:
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO. ACÓRDÃO QUE REFORMOU A SENTENÇA DE PRONÚNCIA PARA INCLUIR A QUALIFICADORA DO MEIO CRUEL. VÁRIAS PANCADAS NA CABEÇA DA VÍTIMA. FUNDAMENTAÇÃO SUFICIENTE. CONSTRANGIMENTO ILEGAL AFASTADO. 1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício (Precedentes). 2. A exclusão da qualificadora constante na denúncia - meio cruel - somente pode ocorrer quando manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida. Precedentes.
+3. É entendimento desta Corte que a reiteração de golpes na vítima, ao menos em princípio e para fins de pronúncia, é circunstância indiciária do "meio cruel" previsto no inciso III do parágrafo 2o do artigo 121 do Código Penal, não se tratando, pois, de qualificadora manifestamente improcedente que autorize o excepcional decote pelo juiz da pronúncia, pena de usurpação da competência constitucionalmente atribuída ao Tribunal do Júri (REsp 1 241 987/PR, Rei. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 24/02/2014) (AgRg no REsp 1721923/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/06/2018, DJe 19/06/2018) 4. Habeas corpus não conhecido (HC 456093 / PR; Relator(a)Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/8/2018; DJe 29/8/2018)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ART. 121, § 2º, IV, DO CP. PRONÚNCIA. QUALIFICADORA. MOTIVO FÚTIL. EXCLUSÃO. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+II - Conforme entendimento firmado no âmbito desta Corte, as qualificadoras somente podem ser excluídas na fase do iudicium accusationis se manifestamente improcedentes, o que não ocorreu in casu.
+Habeas corpus não conhecido (HC 376097 / MG; Relator(a) Ministro FELIX FISCHER; Quinta Turma; julgado em 7/2/2017; DJe 16/2/2017).
+No caso dos autos, verifica-se que a qualificadora do motivo torpe não está distorcida do cenário processual, na medida em que o delito foi motivado por desavenças em virtude do tráfico de drogas, inclusive a vítima estava proibida de retornar à comunidade. Conforme consta dos autos, o paciente ligou para a mãe da vítima, afirmando que seu filho poderia voltar à localidade. Nesta oportunidade, a vítima foi morta, assim como sua mãe.
+Em caso de dúvida quanto as qualificadoras, deve, portanto, o Conselho de Sentença solucionar a questão.
+Neste sentido, não se verifica constrangimento ilegal a ser sanado, de ofício, por esta Corte Superior.
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
