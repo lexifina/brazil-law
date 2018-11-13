@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EXECUÇÃO – Desapropriação indireta – Alegação de precatório pago a maior – Cômputo de juros moratórios durante a moratória prevista no art. 78, do ADCT – Inconstitucionalidade da aplicação de juros moratórios durante o prazo para pagamento dos precatórios (art. 100, § 5º, da CF) – Inadmissibilidade – Ofensa à coisa julgada, ao ato jurídico perfeito e a segurança jurídica – Precedentes deste E. Tribunal – Sentença de extinção, nos termos do art. 794, I, do Cód. de Proc. Civil, mantida – Recurso improvido – Incabível discutir a respeito de normas supervenientes se o débito já está quitado, de molde, portanto, a prevalecer a legislação vigente à época em que foi fixado o valor a ser pago e os cálculos homologados.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 97 da Constituição; bem como aos arts. 78 e 97 do ADCT. Alega que “os juros legais (mencionados expressamente no caput do art. 78 do ADCT), que incidem a partir do vencimento da parcela anual da moratória, quando esta não é quitada, são apenas os juros de mora de 0,5% ao mês (6% ao ano), mas não os juros compensatórios, que devem ser excluídos.”
+    A decisão agravada negou seguimento ao recurso pelos seguintes precedentes: (i) “ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”; (ii) incide, no caso, a Súmula 279/STF.
+    A Procuradoria-Geral da República, por meio de parecer, opinou pelo não conhecimento do agravo.
+    O recurso não merece provimento.
+    Com efeito, o Tribunal de origem assentou ser incabível a discussão envolvendo a aplicação da moratória prevista no art. 78 do ADCT, tendo em vista que “o débito já está quitado, motivo pelo qual deve prevalecer a legislação vigente à época em que foi fixado o valor a ser pago”.
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Houve recurso especial quanto à matéria, não provido e já transitado em julgado. Nessas condições, aplica-se a Súmula 283/STF.
+    Ainda que superado o óbice apontado, nota-se que o Tribunal de origem afirmou que os cálculos realizados estão corretos e obedeceram às regras e princípios trazidos pela EC nº 69/2009. Dissentir desse entendimento exigiria a análise dos fatos e provas constantes dos autos, providências inviáveis de serem realizadas neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
