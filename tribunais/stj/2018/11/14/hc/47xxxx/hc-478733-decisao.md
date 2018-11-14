@@ -1,0 +1,8 @@
+DECISÃO
+[NOME] impetra a presente ordem de habeas corpus, de próprio punho, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 0028637-05.2016.8.26.0000.
+Ao contrário do que sustenta o impetrante, foi dado seguimento ao HC n. 418.608/SP. Após manifestação da Defensoria Pública, que apontou os documentos necessários para examinar a tese apresentada pelo acusado, foram solicitadas as seguintes informações:
+Em atenção ao pedido formulado pela Defensoria Pública, solicitem-se as seguintes informações: a) ao Tribunal de Justiça do Estado de São Paulo, o envio de cópia integral do acórdão prolatado no HC n. 0028637-05.2016.8.26.0000; b) ao Juízo da 1ª Vara Criminal da Comarca de Piracicaba - SP, acerca do andamento atualizado da Ação Penal n. 0002225-47.2013.8.26.0451, em especial se foi prolatada sentença e interposto recurso, com o envio de cópia dos atos decisórios respectivos e da denúncia ofertada pelo Ministério Público naqueles autos; c) ao Juízo da 3ª Vara Criminal da Comarca de Piracicaba - SP, acerca do andamento atualizado da Ação Penal n. 0004495-47.2012.8.26.0451, em especial se foi prolatada sentença e interposto recurso, com o envio de cópia dos atos decisórios respectivos e da denúncia ofertada naqueles autos pelo Ministério Público.
+Com a resposta, foi determinada nova intimação da Defensoria Pública, em 8/11/2018.
+Logo, vê-se que matéria suscitada neste writ já é objeto de análise no HC n. 418.068/SP, também de minha relatoria. Concluo, dessa forma, que se trata de mera reiteração de pedido anterior.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
