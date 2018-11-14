@@ -1,0 +1,33 @@
+EMENTA
+HABEAS CORPUS. PENAL. PLEITO DE CUMPRIMENTO DE PENA NO REGIME SEMIABERTO. IMPETRAÇÃO CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA APRECIAR E JULGAR ORIGINARIAMENTE A CAUSA. ART. 105, INCISO II, ALÍNEA A, DA CONSTITUIÇÃO DA REPÚBLICA. HABEAS CORPUS NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANILO RODRIGUES contra acórdão do Tribunal de Justiça do Estado do Paraná, que, nos autos da Apelação Criminal n.º 1048348-0, denegou a ordem.
+Consta nos autos que o Paciente foi condenado à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial fechado, além do pagamento de 550 (quinhentos e cinquenta) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n.º 11.343/2006.
+Contra a sentença a Defesa interpôs apelação, que, em 16/4/2015, não foi provida pelo Tribunal local (fls. 39-70).
+Na audiência de custódia realizada em 21/8/2018, para cumprimento do mandado de prisão decorrente da condenação mencionada, o Juízo de primeiro grau consignou o seguinte (fls. 78/79):
+" ..  A prisão não é cautelar, decorre de sentença penal condenatória com trânsito em julgado, não havendo que se falar em substituição por medidas cautelares. Rejeito o pedido da defesa. No mais, o apenado foi condenado a cinco anos e seis meses de reclusão no regime inicial fechado. Cumpriu um mil setecentos e noventa e nove (1799) dias de prisão cautelar. Possui ainda cento e vinte e dois (122) dias de remição já computados na guia de execução. Feitos os cálculos, há previsão de atingir o benefício da progressão de regime para o dia 11/09/2018, considerando-se que a prisão ocorreu na data de ontem. Resta agora aguardar o cumprimento da pena imposta. Deixo consignado que a data para concessão de novos benefícios será considerada desde o cumprimento do mandado de prisão no sistema, sem prejuízo à análise da detração do tempo de pena já cumprido. Regularize-se o levantamento de pena, inserindo-se todos os incidentes processuais para correta análise do caso. Fica a advogada nomeada para acompanhamento do feito, sendo que ao final serão arbitrados honorários complementares."
+Neste writ, a Defesa sustenta que "o paciente cumpriu 781 dias de prisão, fora colocado em liberdade por mais de 4 anos, reconstruiu toda sua vida, e agora foi recolhido ao cárcere para cumprir mais 21 dias e atingir os 2/5 da pena para progredir para o regime semiaberto. Com a devida vênia, em que pese "aparentemente" legal, o positivismo exacerbado afronta com a moralidade e os princípios que norteiam a execução penal" (fl. 6).
+Argumenta que o "paciente não esta pedindo as súplicas do poder judiciário para sair da prisão antes do tempo, e sim para que o judiciário reconheça o seu erro em demorar mais de 4 anos para julgar a apelação, e somente agora fazer o réu voltar para o cárcere e cumprir 21 dias de prisão" (fl. 6).
+Também alega que "prender o réu, após ele reconstruir toda sua vida, para cumprir 21 dias em regime fechado, decorrente da inércia da segunda instância, é uma afronta aos direitos fundamentais do réu, afronta a dignidade da pessoa humana, e principalmente a violação ao princípio da ressocialização da pena" (fl. 6).
+Requer, liminarmente, a soltura do Paciente. No mérito, pleiteia a fixação do regime semiaberto.
+A liminar foi indeferida às fls. 85-88.
+As informações foram prestadas às fls. 93-202.
+O Ministério Público Federal opinou pelo não conhecimento do writ, pois, "em 11 de setembro de 2018, foi concedido ao réu o regime semiaberto harmonizado" (fl. 205).
+É o relatório.
+Decido.
+Da acurada análise dos autos, observo que o Impetrante impugna, na verdade, os fundamentos da decisão proferida por magistrado de primeiro grau que, na audiência de custódia realizada em 21/8/2018, entendeu que o requisito objetivo para a progressão ao regime semiaberto só seria cumprido em 11/9/2018, sendo devido o cumprimento de pena no regime fechado.
+Consoante as informações prestadas, não consta acórdão proferido pelo Tribunal de origem que tenha discutido os requisitos necessários para a progressão de regime.
+Portanto, evidenciada a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente a causa, nos termos do que dispõe o art. 105, inciso II, alínea a, da Constituição da República.
+Cito, a propósito, os seguintes precedentes, ipsis litteris:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NOVO CÁLCULO PARA CUMPRIMENTO DE PENAS. EXCLUSÃO DE PENA QUE FOI DECLARADA EXTINTA PELO EG. TJ. ALTERAÇÃO DO MARCO PARA BENEFÍCIOS. PREJUÍZO PARA O REEDUCANDO. DECISÃO PROFERIDA PELO D. JUÍZO DAS EXECUÇÕES PENAIS. INCOMPETÊNCIA DESTA CORTE. MATÉRIA NÃO ANALISADA PELO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DE APRECIAÇÃO. RECURSO DESPROVIDO.
+I - Caso em que o d. Juízo da Execução determinou a elaboração de novo cálculo de cumprimento de pena, após afastar quantum declarado extinto pelo cumprimento, em sede de revisão criminal julgada pelo eg. Tribunal de origem.
+II - A decisão do d. Juízo das Execuções, portanto, deve ser submetida ao eg. Tribunal de origem, a fim de que se manifeste acerca do suposto constrangimento ilegal determinado pela aplicação de lapsos e datas que, segundo a Defesa, teriam retardado o marco para a fruição de benefícios, em prejuízo do paciente.
+III - Falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da CF, para julgar habeas corpus impetrado diretamente contra ato de Juiz de 1º Grau.
+IV - Inviável o conhecimento da quaestio por esta Corte de Justiça, configurada a supressão de instância.
+Agravo regimental desprovido." (AgRg no HC 449.849/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS, IMPETRADO CONTRA ATO DE JUIZ DE DIREITO. INVIABILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DESTA CORTE PARA JULGAMENTO DE ATOS DE TRIBUNAL SUJEITO A SUA JURISDIÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inviável o conhecimento por esta Corte Superior de alegação de constrangimento ilegal praticado por juiz de direito, uma vez que, na forma do art. 105, I, alínea "c" da Carta da República, possui competência para atos emanados de Tribunal sujeito a sua jurisdição.
+2. Agravo regimental improvido." (AgInt no HC 418.953/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 12/12/2017.)
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Deixo de remeter os autos ao Tribunal de origem para processar e julgar o presente mandamus, tendo em vista a informação de que o Paciente já cumpre a pena definitiva no regime semiaberto.
+Publique-se. Intimem-se.
