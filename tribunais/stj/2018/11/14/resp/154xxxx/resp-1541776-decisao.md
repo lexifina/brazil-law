@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Instituto Nacional do Seguro Social - INSS, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fls. 293/294):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. INOCORRÊNCIA. DECADÊNCIA PARA REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. RECONHECIMENTO DE OFÍCIO. MATÉRIA NÃO APRECIADA NO ACÓRDÃO RESCINDENDO. RESCISÃO. INVIABILIDADE.
+1. A violação literal de dispositivo de lei, prevista no art. 485, V, do CPC, legitima o manejo da rescisória quando o pronunciamento meritório transitado em julgado não aplicou a lei ou a aplicou de forma errônea.
+2. Segundo entendimento consolidado no Superior Tribunal de Justiça, a violação a literal disposição de lei pressupõe expressa manifestação sobre o tema no julgado que se pretende rescindir.
+3. A decisão que se pretende rescindir em momento algum tratou da decadência, nem sobre a necessidade do reconhecimento de ofício, ou sequer a instância recursal foi regularmente provocada para se manifestar sobre o tema.
+4. É inviável se cogitar de controle acerca de alegada violação de disposição literal de lei se sequer são conhecidos (pois inexistentes) os fundamentos que teriam se prestado a justificar a adoção da posição que, presume a parte autora, estaria a caracterizar contrariedade frontal de norma jurídica.
+5. Conquanto a decadência (no caso para a revisão do ato de concessão - art. 103 da Lei 8.213/91) possa ser declarada de ofício, ao julgador não é imposta a obrigação de apreciação da questão. Não fosse assim, em todos os processos de concessão ou revisão de benefício o juiz ou Tribunal teria de analisar expressamente a hipótese de haver decadência, ainda que não tivesse dúvida sobre a questão e as partes nada tivessem alegado a respeito. Não tem o julgador o dever de afirmar por que não reconhece a decadência, como também não tem o dever, por exemplo, de afirmar, ausente dúvida, por que não reconhece a ilegitimidade de parte, a impossibilidade jurídica do pedido ou a falta de interesse processual, questões processuais que também devem ser, se for o caso, conhecidas de ofício.
+Alega o recorrente violação dos arts. 103 da Lei n. 8.213/1991; 485, V, do Código de Processo Civil/1973 e 210 do Código Civil/2002.
+Sustenta que não há prequestionamento em ação rescisória, sendo suficiente que verifique a violação literal do dispositivo de lei.
+Aduz, ainda, que deve ser pronunciada a decadência de ofício ou por provocação por tratar de matéria de ordem pública.
+Contrarrazões às e-STJ, fls. 342-351.
+Admitido o recurso especial na origem (e-STJ, fl. 355), subiram os autos a esta Corte de Justiça.
+É o relatório.
+O recurso não merece êxito.
+O Tribunal de origem, ao manifestar acerca da decretação da decadência, fundamentou nos seguintes termos (e-STJ, fls. 275-277):
+Tendo ocorrido empate em relação à questão da eventual decadência, matéria de ordem pública que admitiria ou não seu conhecimento de ofício a qualquer tempo, vieram-me os autos para atendimento ao disposto no artigo 189, § 3º do RITRF/4ª Região.
+Analisada a controvérsia, com a vênia do eminente Relator e dos que o acompanharam, resolvi aderir à divergência, porquanto como mencionado pelo eminente Desembargador Federal Ricardo Teixeira do Valle Pereira por ocasião de seu voto, a alegação de violação a literal disposição de lei não dispensa a manifestação expressa sobre a norma que teria sido violada, ainda que essa possa ser declarada de ofício. E, no caso vertente, "a decisão que se pretende rescindir em momento algum tratou da decadência ou sequer a instância recursal foi regularmente provocada para se manifestar sobre o tema".
+Ademais, tenho que a presente situação comporta a aplicação da Súmula 343 do STF, segundo a qual não cabe Ação Rescisória, por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais. Outra não é a interpretação dada pelo Superior Tribunal de Justiça, a saber:
+ ..
+Ante o exposto, voto por acompanhar a divergência, julgando improcedente a ação rescisória.
+Observa-se que a Corte de origem, alinhando-se à compreensão firmada neste Superior Tribunal, entendeu pelo não cabimento da ação rescisória quando não analisada oportunamente a questão pela decisão rescindenda.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO RESCISÓRIA FUNDAMENTADA NO ART. 485, V, DO CÓDIGO DE PROCESSO CIVIL DE 1973. TESES ACERCA DOS DISPOSITIVOS TIDOS POR VIOLADOS NÃO APRECIADOS NO ACÓRDÃO RESCINDENDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Caso em que as teses acerca dos dispositivos tidos por violados não foram analisadas pelo acórdão rescindendo, o que afasta o cabimento da ação rescisória, fundamentada no art. 485, V, do Código de Processo Civil de 1973.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido"
+(STJ, AgInt na AR 4.652/RS, Rel. Min. REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 22/2/2018, DJe de 28/2/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI. QUESTÃO ESTRANHA AO CONTEÚDO DA DECISÃO TRANSITADA EM JULGADO. INVIABILIDADE.
+1. Trata-se, na origem, de Ação Rescisória ajuizada pelo INSS com a finalidade de desconstituir parcialmente o trânsito em julgado de sentença que condenou a autarquia ao pagamento de benefício previdenciário.
+2. A demanda foi ajuizada com base no art. 485, V, do CPC/1973, tendo sido apontado como violado o art. 219, § 5º, daquele diploma legislativo.
+3. O Tribunal local corretamente julgou improcedente o pedido, adotando como fundamento a inviabilidade desta demanda para discutir matéria estranha ao conteúdo do acórdão cuja rescisão era almejada.
+4. "Ainda que não se exija que a lei tenha sido invocada no processo originário, tendo em vista que o requisito do prequestionamento não se aplica em sede de ação rescisória, mostra-se inviável o pedido de rescisão, com base no art. 485, V, do CPC, fundado em suposta violação a disposição de lei, quando a questão aduzida na ação rescisória não foi tratada em nenhum momento em tal processo" (AgRg na AR 4.741/SC, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 6/11/2013).
+5. Recurso Especial não provido.
+(REsp 1.648.617/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/5/2017, DJe 17/5/2017)
+AÇÃO RESCISÓRIA. ART. 485, V, DO CPC. PRETENSÃO DE DESCONSTITUIÇÃO DE ACÓRDÃO PROFERIDO POR ÓRGÃO FRACIONÁRIO DO SUPERIOR TRIBUNAL DE JUSTIÇA. CASO EM QUE O ACÓRDÃO RESCINDENDO NÃO CUIDOU DAS MATÉRIAS DISCIPLINADAS PELOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. FALTA DE ALEGAÇÃO OPORTUNA NOS AUTOS PRINCIPAIS, DE QUE RESULTA INADMISSÍVEL INOVAÇÃO NA VIA RESCISÓRIA. PRECEDENTES. INÉPCIA DA INICIAL CONFIGURADA.
+1. Sem que tenha havido, no acórdão rescindendo, qualquer manifestação acerca da matéria disciplinada pelos dispositivos legais cuja literalidade é tida por violada - o que se explica pelo fato de a discussão não haver sido oportunamente levantada nos autos principais - impõe-se reconhecer, de plano, a inviabilidade da rescisória ajuizada com exclusivo fundamento no art. 485, V, do CPC.
+2. Ao proferir o acórdão do AgRg no AREsp n. 281.572/MS, que ora se busca rescindir, a Quarta Turma do Superior Tribunal de Justiça limitou-se a afirmar que é de 5 (cinco) anos o prazo prescricional aplicável à pretensão de execução de sentença proferida em ação coletiva, e que esse prazo é contado do trânsito em julgado do título judicial, sendo desimportante, para a configuração da prescrição, o fato de a sentença da ação coletiva necessitar de liquidação. Do que se depreende da leitura do acórdão rescindendo, não houve, por parte do referido órgão julgador, nenhum pronunciamento sobre a necessidade de comunicação prévia aos potenciais beneficiários da sentença proferida na ação coletiva, nem sobre a pretextada consequência que adviria, sobre a contagem do prazo prescricional das execuções individuais, do fato de não ter havido tal comunicação.
+3. Agravo regimental a que se nega provimento.
+(AgRg na AR 5.526/MS, Rel. Min. MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/5/2015, DJe 15/6/2015)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
