@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2105212-49.2018.8.26.0000).
+Consta dos autos que o paciente foi preso preventivamente e, posteriormente condenado, em primeiro grau de jurisdição, à pena de 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial de cumprimento de pena fechado e ao pagamento de 18 (dezoito) dias-multa, pela suposta prática do crime previsto no artigo 157, §2º, incisos I, II e V, do Código Penal, bem como absolvido das imputações da prática dos crimes previstos nos artigos 288, parágrafo único, e 311, caput, do Código Penal, sendo-lhe negado o direito de recorrer em liberdade.
+Irresignada com a negativa do direito de recorrer em liberdade, a defesa impetrou habeas corpus perante o Tribunal estadual. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 15):
+Habeas Corpus. Roubo majorado.
+Direito de apelar em liberdade. Descabimento.
+Réu condenado a pena superior a 04 (quatro) anos de reclusão e que permaneceu preso durante a instrução. Art. 313, I, do CPP.
+Ordem denegada.
+Na presente impetração (e-STJ fls. 1/13), a defesa alega, em síntese, a ilegalidade das decisões que mantiveram a imposição da prisão preventiva do paciente diante da ausência de fundamentação idônea.
+Ressalta que o paciente é primário, de bons antecedentes, endereço fixo e ocupação lícita, bem como que já cumpriu 1 (um) ano e 7 (sete) meses de prisão, estando atualmente em regime semiaberto.
+Declara que Há inúmeros elementos nos autos que demonstram que o réu jamais participou do crime previsto no artigo 157 do CP (e-STJ fl. 6), situação que evidenciaria a probabilidade de provimento do recurso de apelação já interposto pela defesa e consequente desclassificação do delito de roubo para receptação e reforma da sentença condenatória (e-STJ fl. 7).
+Pugna, liminarmente e no mérito, pela revogação da prisão preventiva.
+Indeferida a liminar (e-STJ fls. 35/38) e prestadas as informações (e-STJ fls. 44/46), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (e-STJ fls. 48/51).
+É o relatório. Decido.
+Busca-se, no presente writ, a concessão ao réu do direito de recorrer em liberdade de sua sentença condenatória.
+O presente mandamus não merece ser conhecido, por instrução deficitária.
+O rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+Diante disso, o impetrante deve demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente. Nesse sentido, confiram-se os precedentes desta Corte:
+ ..  4. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa.  ..  (HC 355.769/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/08/2016, DJe 09/08/2016, grifo nosso)
+ ..  3. Não tendo sido juntado aos autos o decreto preventivo, fica inviável a comprovação da alegada ausência de fundamentos. 4. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto. 5. Agravo regimental desprovido. (AgRg no HC 359.225/SP, minha relatoria, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016, grifo nosso).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. 1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte). 2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado. 3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso. 4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+No particular, este habeas corpus, apesar de impetrado por advogados, não está instruído com a documentação necessária à compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Com efeito, não foram trazidos aos autos cópia do decreto de prisão preventiva do paciente e nem da sentença condenatória que lhe negou o direito de apelar em liberdade.
+Ausente a prova pré-constituída do direito alegado, mesmo após a instrução dos autos, com a vinda das informações, o não conhecimento do mandamus é medida que se impõe.
+Ante o exposto, não conheço do mandamus.
+Publique-se. Intime-se.
