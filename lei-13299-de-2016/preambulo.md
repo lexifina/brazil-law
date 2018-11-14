@@ -1,0 +1,2 @@
+Altera a Lei nº 9.074, de 7 de julho de 1995, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 12.111, de 9 de dezembro de 2009, a Lei nº 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, e a Lei nº 13.182, de 3 de novembro de 2015; e dá outras providências.
+O VICE - PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
