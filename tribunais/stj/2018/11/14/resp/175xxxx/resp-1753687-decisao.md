@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+APELAÇÃO CRIME. ART. 10, DA LEI Nº 7347/85. OMISSÃO OU RETARDAMENTO NO FORNECIMENTO DE DADOS TÉCNICOS INDISPENSÁVEIS À PROPOSITURA DE AÇÃO CIVIL.CONDENAÇÃO DO CHEFE TITULAR E ABSOLVIÇÃO DA CHEFE SUBSTITUTA DO IAP. RECURSO DO CHEFE TITULAR, VISANDO A ABSOLVIÇÃO. NÃO ACOLHIMENTO. RESPONSABILIDADE VERIFICADA NO CASO CONCRETO. RECURSO DO MINISTÉRIO PÚBLICO VISANDO A CONDENAÇÃO TAMBÉM DA CHEFE SUBSTITUTA. NÃO ACOLHIMENTO. CHEFE TITULAR QUE RETORNOU ÀS ATIVIDADES A TEMPO DE ATENDER A REQUISIÇÃO, ALÉM DE TER ORIENTADO EXPRESSAMENTE A SUBSTITUTA A DEIXAR PARA QUE ELE ADOTASSE AS MEDIDAS NECESSÁRIAS. ABSOLVIÇÃO DA CHEFE SUBSTITUTA MANTIDA. DOSIMETRIA DA PENA. MANUTENÇÃO. RECURSOS CONHECIDOS E NÃO PROVIDOS. (e-STJ fl.803)
+Aponta a defesa a violação do art. 10 da Lei n. 7.347/1985 insurgindo-se, em síntese, contra a condenação do recorrente pelo delito de omissão ou retardamento no fornecimento de dados técnicos indispensáveis à propositura de ação civil sob a alegação de que: a) estava em férias quando a requisição foi protocolada; b) não há prova do dolo; c) os documentos não eram imprescindíveis para a propositura da ação civil pública e; d) a requisição foi respondida pela substituta.
+As contrarrazões foram apresentadas às e-STJ fls. 902/909.
+Admitido o recurso, os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo desprovimento do recurso às e-STJ fls. 938/950.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Paraná negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 1 (um) ano de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do delito do art. 10 da Lei n. 7.347/1985.
+As questões trazidas pelo recorrente em seu recurso foram assim decidias pelo Tribunal Estadual:
+O Ministério Público enviou ofício ao escritório do Instituto Ambiental do Paraná em Maringá, cujo documento requisitava cópia do procedimento administrativo que visava autorização para derrubada de 41 árvores de um Bosque, sendo ele recebido no dia 07.03.2014 pela ré [NOME], enquanto chefe substituta do réu Paulino, que estava no gozo de férias (fl. 46).
+Ocorre que, como bem concluiu o magistrado singular, as provas produzidas nos autos demonstram que o único responsável pelo retardo no atendimento da requisição do Ministério Público foi o réu Paulino.
+Com efeito, no referido ofício, que foi recebido, como dito, no dia 07.03.2014, constava o prazo de 15 (quinze) dias para atendimento da requisição do Ministério Público.
+O réu Paulino admitiu em seu depoimento que retornou de férias entre os dias 12 eu 13 de março de 2014, quando a corré [NOME] lhe entregou o processo respectivo.
+Desse modo, se antes mesmo do final do prazo constante no ofício do Ministério Público o réu Paulino retornou às atividades do cargo de Chefe titular do IAP de Maringá, conclui-se que ele também retomou as responsabilidades daí decorrentes.
+Não fosse o fato de ter voltado ao trabalho antes de decorrido o prazo para atendimento da requisição, de acordo com os depoimentos colhidos em audiência fica evidente que Paulino pediu expressamente para que [NOME] deixasse o respectivo procedimento para que ele mesmo desse andamento pessoalmente.
+Com efeito, de acordo com o depoimento da corré [NOME], antes mesmo de Paulino se afastar das atividades, ele teria lhe pedido expressamente que aguardasse o seu retorno ao trabalho, para que ele mesmo tomasse pessoalmente as providências alusivas ao procedimento, com o que ela teria concordado.
+Ora, como bem ressaltou a Procuradora de Justiça atuante no feito, "a despeito de Paulino ter usufruído curto período de férias na época dos fatos, tal alegação não tem o condão de isentá-lo de sua responsabilidade", pois é fato incontroverso que ele retornou das férias a tempo de cumprir a requisição.
+ ..
+No mais, é evidente que o réu sabia da essencialidade dos aludidos documentos para instrução de ação civil, pois tal fato constou no ofício.
+Além disso, sabe-se que não cabe ao apelante julgar a indispensabilidade desses documentos para futuro ajuizamento de ação civil pública, mas ao parquet.
+ ..
+E, quanto ao retardamento das informações solicitadas pelo parquet, não restou qualquer dúvida nos autos, sendo certo que era responsabilidade do apelante Paulino prezar pelo bom atendimento das suas determinações dentro do IAP. (e-STJ fls. 812/817 - grifo nosso)
+Ao que se nota, a pretensão do recorrente ao alegar a atipicidade da conduta argumentando que estava em férias quando a requisição foi protocolada, inexistência do dolo e que os documentos não eram imprescindíveis para a propositura da ação civil pública, constitui providência inadmissível em recurso especial por demandar incursão do acervo fático-probatório dos autos. Incidência da Súmula n. 7/STJ, cuja orientação prescreve que a pretensão de simples reexame de prova não enseja recurso especial. A propósito: HC 209.276/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/08/2014.
+Diante do exposto, com fulcro no art. 932, VIII, do CPC, c/c o art. 255, §4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
