@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Turma da Terceira Câmara Cível do Tribunal de Justiça de Goiás:
+    “EMENTA: DUPLO GRAU DE JURISDIÇÃO E APELO. AÇÃO DECLARATÓRIA. MONITORA DE CRECHE. ENQUADRAMENTO NO CARGO DE PROFESSORA. VIOLAÇÃO AO PRINCÍPIO DO CONCURSO PÚBLICO – ART. 37, II, CF/88. IMPROCEDÊNCIA DA PRETENSÃO INICIAL. INVERSÃO DA SUCUMBÊNCIA. REMESSA PROVIDA. APELO PREJUDICADO.
+    1 – A Lei de Diretrizes e Bases da Educação Nacional e a Lei nº 11.738/2008, que tratam dos profissionais da educação básica, não promoveram a equiparação automática dos monitores de creche ao cargo de professor, cujas atribuições são distintas e sujeitas a concursos públicos diversos.
+    2 – A obtenção de licenciatura plena em pedagogia não implica em automático acesso da servidora ao cargo de professora, certo que a Administração Pública é norteada pelo princípio do concurso público (artigo 37, inciso II, CF/88), defesa a transposição do cargo de monitora de creche para o de professora sem a devida aprovação prévia em concurso público.
+    3 – Remessa provida. Apelo prejudicado” (fl. 100, vol. 3).
+    Os embargos de declaração opostos foram rejeitados (fl. 127, vol. 3).
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o inc. IV do art. 206 da Constituição da República e a al. e do inc. III do art. 60 do Ato das Disposições Constitucionais Transitórias – ADCT.
+    Requer o
+    “conhecimento e provimento do presente recurso para reformar ou cassar o acórdão recorrido a fim de se restabelecer a sentença e julgar procedentes todos os pedidos da inicial com relação ao piso nacional do magistério a ser aplicado à parte autora como referência de vencimento inicial na carreira a partir de abril de 2011, e como paradigma de remuneração até então” (fl. 139, vol. 3).
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 282 do Supremo Tribunal Federal (fl. 154, vol. 3).
+    4. No agravo, sustenta-se terem sido “opostos aclaratórios com o objetivo de que os dispositivos apontados fossem enfrentados” (fl. 4, vol. 4).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste à agravante.
+    6. A alegada afronta ao inc. IV do art. 206 da Constituição da República e à al. e do inc. III do art. 60 do Ato das Disposições Constitucionais Transitórias – ADCT não foi objeto de debate e decisão prévios no Tribunal de origem, tendo sido suscitada apenas nos embargos de declaração opostos (fls. 105-107, vol. 3). A agravante pondera ter sido, assim, satisfeito o requisito do prequestionamento.
+    Considera-se atendido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente. Quando, suscitada a matéria constitucional pelo interessado, não há o debate ou o pronunciamento do órgão judicial competente, pode e deve haver a oposição de embargos declaratórios para suprir-se a omissão, como é próprio desse recurso. Apenas nos casos de omissão do órgão julgador sobre a matéria constitucional arguida, os embargos declaratórios cumprem o papel de demonstrar a ocorrência do prequestionamento.
+    A inovação da matéria em embargos é juridicamente inaceitável para fins de comprovação de prequestionamento. Primeiramente porque, se não se questionou antes (prequestionou), não se há cogitar da situação a ser provida por embargos. Em segundo lugar, se não houve prequestionamento da matéria, não houve omissão do órgão julgador, pelo que não prosperam os embargos pela ausência de condição processual. Os embargos declaratórios não servem para suprir a omissão da parte que não tenha providenciado o necessário questionamento em momento processual próprio. Confiram-se os julgados a seguir:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que ‘Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada’. Precedentes” (AI n. 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    “RE: PREQUESTIONAMENTO: SÚMULA 356. O QUE, A TEOR DA SÚMULA 356, SE REPUTA CARENTE DE PREQUESTIONAMENTO É O PONTO QUE, INDEVIDAMENTE OMITIDO PELO ACÓRDÃO, NÃO FOI OBJETO DE EMBARGOS DE DECLARAÇÃO; MAS, OPOSTOS ESSES, SE, NÃO OBSTANTE, SE RECUSA O TRIBUNAL A SUPRIR A OMISSÃO, POR ENTENDÊ-LA INEXISTENTE, NADA MAIS SE PODE EXIGIR DA PARTE, PERMITINDO-SE-LHE, DE LOGO, INTERPOR RECURSO EXTRAORDINÁRIO SOBRE A MATÉRIA DOS EMBARGOS DE DECLARAÇÃO E NÃO SOBRE A RECUSA, NO JULGAMENTO DELES, DE MANIFESTAÇÃO SOBRE ELA” (RE n. 210.638, Relator o Ministro Sepúlveda Pertence, DJ 19.6.1998).
+    Desatendido o requisito do prequestionamento, incide na espécie a Súmula n. 282 do Supremo Tribunal Federal, pois a questão constitucional somente foi suscitada nos embargos, nos termos da decisão recorrida.
+    Nada há a prover quanto às alegações da agravante.
+    7. Pelo exposto, nego provimento a este recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
