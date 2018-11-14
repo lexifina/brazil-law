@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. COISA JULGADA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa à legislação enfocada.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 179, e-STJ):
+Processo Civil - Embargos à execução opostos pelo INSS - Sentença que não se sujeita ao reexame necessário - Inteligência do art. 475, II, do CPC - Precedentes do Colendo Superior Tribunal de Justiça.
+Processo Civil - Execução contra o INSS - Embargos que podem versar sobre qualquer causa impeditiva, modificativa ou extintiva da obrigação - Exegese do art. 741, VI, do Código de Processo Civil que não desconsidera o ato decisório de liquidação - Jurisprudência da Primeira Seção do Colendo Superior Tribunal de Justiça (REsp nº 1.001.655/DF).
+Acidente do Trabalho - Embargos à execução Cumulação - Auxílio-acidente e aposentadoria previdenciária - Inadmissibilidade - Ambos os benefícios concedidos após a edição da Medida Provisória 1.596-14/1997, convertida na Lei nº 9.528/1997 - Entendimento firmado pelo Colendo Superior Tribunal de Justiça, em recurso representativo de controvérsia repetitiva (REsp nº 1.296.673/MG).
+Processo Civil - Litigância de má-fé - Não caracterização - Utilização dos meios de defesa e impugnação previstos na lei processual - Ausência de dolo específico - Precedentes do Colendo Superior Tribunal de Justiça.
+Embargos de declaração do agravando acolhidos, com efeitos infringentes, nos termos da ementa (fl. 232, e-STJ):
+Processo Civil - Embargos de Declaração - Omissão - Ocorrência - Execução - Cumulação de benefícios - Apreciação do tema - Impossibilidade - Ausência de alegação no momento oportuno - Eficácia Preclusiva da Coisa Julgada - Inteligência do art. 474, do Código de Processo Civil - Precedentes do Colendo Superior Tribunal de Justiça - Acolhimento.
+Embargos de declaração do INSS rejeitados.
+No recurso especial o recorrente alega violação do artigo 535 do CPC/1973, ao argumento de que a Corte local não se manifestou a respeito da ausência de preclusão ou coisa julgada. Aponta que questão não foi debatida nos autos da ação de conhecimento, bem como que a inacumulatividade dos benefícios de auxílio-acidente e aposentadoria é expressamente prevista em lei.
+Quanto às questões de fundo, sustenta ofensa aos artigos: (a) 475-L, V e VI, 741, II, V e VI, e 743, I e II, do CPC/1973; (b) 884 do CC/2002; e (c) 86, §§ 1º e 2º, e 18, § 2º, da Lei n. 8.213/1991. Aduz que a hipótese comporta excesso de execução, na medida em que é expressamente vedado por lei a possibilidade de cumulação dos benefícios de auxílio-acidente e aposentadoria, defendendo que a questão não é alcançada pela coisa julgada.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Fixada a premissa, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito à alegação de ofensa aos artigos 475-L, 741 e 743 do CPC/1973, 884 do CC/2002, e 86 e 18 da Lei n. 8.213/1991, a pretensão é inadmissível, pois o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual a questão da inacumulatividade dos benefícios foi expressamente tratada no processo de conhecimento, oportunidade em que foi reputada preclusa.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
