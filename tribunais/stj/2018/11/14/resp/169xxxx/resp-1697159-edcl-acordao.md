@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃO INDENIZATÓRIA - INCLUSÃO INDEVIDA DO NOME DO FALECIDO PAI DA AUTORA NOS ÓRGÃOS RESTRITIVOS DE CRÉDITO. REDISCUSSÃO DE QUESTÕES DE MÉRITO. REVOLVIMENTO DE MATÉRIA FÁTIVA-PROBATÓRIA. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Revelam-se improcedentes os Embargos Declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 1.022 do CPC).
+2. Incabíveis Embargos de Declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial
+4. Embargos de Declaração rejeitados com advertência de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos pela embargante [NOME] contra acórdão que não conheceu do Recurso Especial.
+A parte embargante alega que o acórdão recorrido é omisso.
+Aduz e síntese:
+Na realidade, o aludido recurso tem como objetivo a aplicação da norma inserta no art. 85, § 11, do CPC/2015 ao caso em tela, com a consequente majoração dos honorários fixados em 1ª instância, haja vista o trabalho adicional realizado pelos patronos da ora Embargante em grau recursal e o provimento do recurso de apelação aviado pelos mesmos.
+Houve impugnação às fls. 282-284, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.2.2018.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+A controvérsia devolvida no Recurso Especial restringe-se à fixação de honorários advocatícios no valor de R$ 1.000,00 por ter o recorrido decaído do pedido dc indenização dc danos morais.
+O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação c ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+Esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o rcexamc das razões dc fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias.
+Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implicaria, necessariamente, o reexame da matéria fático-probatória, mesmo para avaliar eventual sucumbência recíproca, o que é obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+A propósito:
+PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. VIGÊNCIA DO CPC DE 1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE VALOR IRRISÓRIO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. A indicada afronta do art. 85, §§ 2o e 3o, do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. 2. O STJ compreende que as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova, quando a sentença, que os determina, como ato processual, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015, aplicação do Princípio do Tempus Regit Actum. No caso sub examine, a verba advocatícia foi fixado pela sentença sob a vigência do CPC/1973. 3. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios dc valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Recurso Especial não conhecido. (REsp 1684753/PR, Rei. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017)
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações da embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
