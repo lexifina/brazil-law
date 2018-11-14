@@ -1,0 +1,18 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida".
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por Boi Verde Alimentos Ltda., desafiando decisão de fls. 338 a 342, que negou provimento ao agravo em recurso especial com base nos seguintes fundamentos: (I) "a matéria pertinente ao art. 333,1, do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (fl. 339); (II) "no que diz respeito à alegada violação ao art. 557, § 1º-A, do CPC/73, anoto que eventual nulidade da decisão unipessoal proferida pelo relator na instância de origem resta superada, na espécie, ante a ratificação do decisum pelo órgão colegiado" (fl. 339); e (III) com relação à alegada nulidade da CDA, "a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (fl. 340).
+Nas razões do agravo interno, a parte agravante sustenta, em síntese, que os documentos colacionados nos autos trazem os elementos essenciais e necessários para o deslinde da controvérsia, não havendo por isso, reexame de fatos e provas, bastando tão somente à valoração dos documentos acostados ao caderno processual. Aduz, ainda, que não se discute nesta seara a interpretação dada aos fatos, mas a equivocada aplicação dada à legislação federal pelo Tribunal a quo.
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do feito ao Colegiado do STJ.
+Intimada, a Fazenda Nacional não apresentou petição de impugnação, conforme Certidão de fl. 361.
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): O inconformismo não ultrapassa a barreira do conhecimento.
+No caso, a parte agravante deixou de impugnar, de forma específica, os seguintes fundamentos: (I) "a matéria pertinente ao art. 333,1, do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (fl. 339); e (II) "no que diz respeito à alegada violação ao art. 557, § 1º-A, do CPC/73, anoto que eventual nulidade da decisão unipessoal proferida pelo relator na instância de origem resta superada, na espécie, ante a ratificação do decisum pelo órgão colegiado" (fl. 339).
+Na linha do entendimento recentemente confirmado pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação), aplicável a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo interno.
+É o voto.
