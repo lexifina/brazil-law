@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GISELE DE FATIMA KORDEL VRIESMAN contra acórdão do Tribunal de Justiça do Estado do Paraná (HC n. 0025815-51.2018.8.16.0000).
+Depreende-se dos autos que a ora recorrente foi presa temporariamente pela suposta prática do crime de homicídio qualificado. Essa prisão foi convertida em preventiva. Contudo, no dia 6/6/2017 a custódia cautelar foi revogada. Posteriormente, diante da dúvida acerca de sua integridade mental, instaurou-se incidente de insanidade mental e foi determinada sua internação cautelar provisória (e-STJ fls. 30/31).
+O Tribunal de origem denegou a ordem de habeas corpus que visava à revogação dessa medida. Eis a respectiva ementa (e-STJ fl. 116):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISOS I E IV, CP), EM COAUTORIA. PACIENTE QUE TERIA ENGENDRADO A MORTE DO MARIDO PARA AUFERIR VULTOSO SEGURO DE VIDA, JÁ PRONUNCIADA. NÃO COMPARECIMENTO À SESSÃO DE JULGAMENTO POR TER SIDO INTERNADA EM UNIDADE HOSPITALAR, TRÊS (3) DIAS ANTES, EM RAZÃO DE SUPOSTO QUADRO CLÍNICO PSIQUIÁTRICO ALTERADO. DESMEMBRAMENTO DO FEITO. INSTAURAÇÃO DE INCIDENTE DE INSANIDADE MENTAL E INTERNAÇÃO CAUTELAR DA PACIENTE (ART. 319, INC. VII, CPP). INSURGÊNCIA DA DEFESA QUANTO À MEDIDA CAUTELAR. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. JUDICIOSA FUNDAMENTAÇÃO DA DECISÃO IMPUGNADA. NECESSIDADE DA MEDIDA INCLUSIVE AMPARADA NOS INFORMES TRAZIDOS PELA DEFESA. PACIENTE, ADEMAIS, QUE ESTAVA EM LIBERDADE APÓS REVOGAÇÃO DA PRISÃO PREVENTIVA EM "MUTIRÃO DE REVISÃO DE PRESAS PROVISÓRIAS", A DESPEITO DE A LEGALIDADE DA MEDIDA TER SIDO RECONHECIDA NÃO APENAS POR ESTA CORTE, EM DUAS OCASIÕES, COMO TAMBÉM PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+No presente recurso, a recorrente defende que "não há elementos justificadores para a medida extrema de internamento compulsório junto ao Complexo Médico Penal" (e-STJ fl. 134). Alega, ainda, que "tem 02 filhos menores, hoje com 08 e 11 anos de idade, os quais necessitam de sua presença" (e-STJ fl. 142). Assim, sustenta que faz jus à prisão domiciliar. Ao final, requer a revogação dessa medida ou a fixação de medida cautelar menos gravosa.
+O pleito urgente foi indeferido (e-STJ fls. 167/169).
+Informações prestadas às e-STJ fls. 174/244 e 245/427.
+Parecer ministerial pela prejudicialidade do reclamo (e-STJ fls. 430/434).
+É, em síntese, o relatório.
+Consoante informações prestadas pelo Juízo da 2ª Vara Privativa do Tribunal do Júri da Comarca de Curitiba/PR, a ora recorrente foi sentenciada em 27/9/2018 ao cumprimento da pena de 16 anos e 4 meses de reclusão, a ser cumprida em regime inicial fechado, como incursa no art. 121, § 2º, I e IV, do Código Penal, sendo-lhe negado o direito de apelar em liberdade.
+Assim, fica sem objeto este recurso à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no RHC 78.448/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei) .
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
