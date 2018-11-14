@@ -1,0 +1,15 @@
+DECISÃO
+COMPETÊNCIA – MEDIAÇÃO – DECLINAÇÃO.
+    1. O assessor Dr. Guilherme Augusto Junqueira de Andrade prestou as seguintes informações:
+    Confederação Brasileira dos Trabalhadores Policiais Civis, com a petição/STF nº 73.965/2018, postula mediação judicial, considerados os artigo 102, inciso I, alínea “n”, da Constituição Federal, e 165, 166, 168 e 175 do Código de Processo Civil, figurando no polo passivo os Poderes Executivo, Legislativo e Judiciário do Estado de Roraima. Busca seja instaurada mediação com a finalidade de solucionar o atraso do salário dos associados, que aduz ocorrer devido a bloqueios judiciais para o repasse de duodécimos aos demais poderes.
+    Narra que o atraso no pagamento do salário dos associados acontece em virtude do desequilíbrio orçamentário no Estado, em razão da má gestão financeira, do aumento desproporcional da receita dos demais poderes e de ações judiciais que determinaram o bloqueio de verbas para repasse das rubricas. Cita o mandado de segurança nº 34.947 neste Tribunal, formalizado pelo Tribunal de Justiça de Roraima, e os mandados de segurança nº 9001269-75.2018.823.0000, 9001412-64.2018.823.0000, 9001478-44.2018.823.0000 e 9001475-89.2018.823.0000 referentes à Defensoria Pública, ao Tribunal de Contas, Á Assembleia Legislativa e ao Ministério Público, respectivamente.
+    Sustenta a adoção de medida judicial no Tribunal de Justiça de Roraima para o pagamento – ação judicial nº 90001585-88.2018.823.0000 –, postulando o desbloqueio judicial das contas do Estado de Roraima, o que foi acolhido, com a ressalva dos bloqueios de repasse dos duodécimos. Salienta ser a medida inócua, pois a totalidade das receitas estaduais são consumidas por tais duodecimais. Aponta a realização de movimento paredista caso o fluxo de pagamento não se normalize. Afirma ser a mediação judicial solução para o impasse.
+    Diz cumprir ao Supremo examinar o requerido ante o interesse da magistratura local.
+    2. Está-se diante de pedido de mediação judicial envolvendo confederação de servidores e Poderes do Estado de Roraima. Os pronunciamentos do Supremo, observado o alcance da alínea “n” do inciso I do artigo 102 da Constituição Federal, são reiterados no sentido de apenas lhe caber o julgamento de conflito de interesses quando tratar-se de direito substancial exclusivo da magistratura. Confiram o seguinte precedente:
+    COMPETÊNCIA. CAUSA DE INTERESSE DA MAGISTRATURA. A letra n do inciso I do art. 102 da Constituição Federal, ao firmar a competência originária do STF para a causa, só se aplica quando a matéria versada na demanda diz respeito a privativo interesse da magistratura enquanto tal e não também quando interessa a outros servidores. Precedentes. Agravo improvido.
+    (Agravo regimental na reclamação nº 1.952, relatora ministra Ellen Gracie, Pleno, julgado em 19 de fevereiro de 2004, Diário da Justiça de 12 de março seguinte)
+    3. Ante o quadro, assento a incompetência do Supremo. Remetam o processo à Justiça do Estado de Roraima.
+    4. Publiquem.
+Brasília, 14 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
