@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESSARCIMENTO AO SUS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela Agência Nacional de Saúde Suplementar, em face de decisão proferida pelo Tribunal Regional Federal da 3ª Região que inadmitiu o recurso especial manejado contra acórdão assim ementado (fls. 1383/1385 e-STJ):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. RESSARCIMENTO AO SUS. NULIDADES INEXISTENTES. ANULAÇÃO DE AUTORIZAÇÕES DE INTERNAÇÕES HOSPITALARES (AIH). VASECTOMIA E LAQUEADURA. PROCEDIMENTO SEM COBERTURA CONTRATUAL. JURISPRUDÊNCIA CONSOLIDADA. SUCUMBÊNCIA.
+1. Infundada a preliminar de nulidade da sentença, pois discorreu sobre todas as questões discutidas, de forma fundamentada, analisando pressupostos processuais e condições da ação, prescrição, mérito relativo à validade da cobrança em razão do
+artigo 32 da Lei 9.658/1998 e atos normativos expedidos pela ANS, de modo que não se trata de formular juízo de anulação, mas de eventual reforma diante da impugnação deduzida pela autora.
+2. Não houve ofensa ao princípio do devido processo legal, vez que a apelante especificou as provas, que pretendia produzir (pericial e testemunhal), porém, ela própria, na inicial dos embargos, juntou prova documental, com todas as informações relevantes para a discussão da cobrança impugnada, tornando, assim, dispensável a produção de perícia e oitiva de testemunhas, pois cabe ao Juízo zelar pela tramitação regular e célere do processo, rejeitando as provas impertinentes e desnecessárias, como no caso ocorrido.
+3. Firmada a jurisprudência no sentido de que a prescrição para a cobrança do ressarcimento ao SUS, pelas operadoras de planos ou segurados de saúde, previsto no artigo 32 da Lei 9.656/1998, pelo uso dos serviços de saúde pública, não é de 3 anos, como pretende a apelante, mas de 5 anos, na forma do Decreto 20.910/1932, a teor do que já decidiu esta Corte no Al 00027067720134030000, de que fui relator, e-DJF3 30/08/2013.
+4. Os débitos referem-se às competências de outubro a dezembro/2005, com vencimento, após processo administrativo, em 23/11/2011, e ajuizamento da execução fiscal em 16/02/2013, tendo sido proferido despacho determinando a citação em 04/04/2013 (processo 0000957-38.2013.8.26.0101), dentro, portanto, do prazo qüinqüenal, pelo que inexistente a prescrição.
+5. As cobranças por atendimentos "fora da área de abrangência geográfica" tem amparo na Lei 9.656/1998, que não faz distinção entre tipos de planos para atendimento urgente ou de emergência, sendo devido o ressarcimento independentemente da cobertura geográfica da contratação, bastando a utilização, como no caso, do serviço médico pelo usuário do plano de saúde privado. Portanto, se o atendimento médico foi prestado pelo sistema público e se os usuários são beneficiários de plano de saúde privado, há que ser efetuado o devido ressarcimento, independentemente da área territorial em que os serviços médicos são prestados pela operadora do plano de saúde, conforme precedente, dentre outros.
+6. Não podem ser admitidas as cobranças das AIH"s 3037984950 (vasectomia) e 3037984983 (laqueadura), tendo em vista que os atendimentos foram prestados fora da cobertura contratual, e os contratos foram firmados antes da Resolução Normativa 167/2008 ter sido expedida pela ANS (e com cláusula de exclusão dos
+referidos procedimentos).
+7. Não se verifica excesso nos valores estabelecidos pela TUNEP - Tabela Única Nacional de Equivalência de Procedimentos, sendo que não restou comprovado que os valores são superiores à média dos praticados pelas operadoras, sendo ainda que tais valores foram estabelecidos em procedimento administrativo, com participação de representantes das entidades interessadas.
+8. Sucumbência mantida em conseqüência do decaimento substancial da autora, mesmo com a reforma ora intentada, tal como fixada (10% sobre o valor do débito), em conformidade com os critérios do § 4o, do artigo 20, do Código de Processo Civil/1973 (vigente à época da prolação da sentença), e com a jurisprudência uniforme da Turma.
+9. Apelação parcialmente provida.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, a recorrente sustenta o prosseguimento da execução das AIHs 3037984950 e 3037984983.
+Contrarrazões às fls. 1521/1532 e-STJ.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que: a) incidência da Súmula 284/STF; e b) rever a posição da Turma Julgadora importaria em ofensa à Súmula 7/STJ.
+Nas razões de agravo, o agravante impugna todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca da insurgência recursal, observa-se que a recorrente não indicou de forma clara, específica e suficiente, quais e de que forma os dispositivos infraconstitucionais elencados no especial teriam sido violados pelo Tribunal de origem. Desse modo, é pacífico o entendimento desta Corte Superior no sentido de que a simples alegação de violação genérica de preceitos e normas infraconstitucionais, desprovida de fundamentação que demonstre de que maneira houve a negativa de vigência dos dispositivos legais pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre o tema, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA À LEI 6.278 E AO ART. 30 DA LEI 11.445/2007. CONDENAÇÃO EM DANOS MORAIS. IMPOSSIBILIDADE DE COMPREENSÃO DA CONTROVÉRSIA EM RAZÃO DA FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Limitando-se a apontar, genericamente, violação ao art. 30 da Lei 11.445/2007 e à Lei 6.278 e deixando de explicitar de que forma teriam sido violados tais dispositivos, aplica-se, por analogia, a Súmula 284 do STF, segundo a qual é inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+ ..
+6. Agravo Regimental da CEDAE desprovido.
+(AgRg no AREsp 388.540/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 05/04/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 10.261/68. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+V - Agravo Interno improvido.
+(AgInt no AREsp 1007956/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/03/2017, DJe 22/03/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
