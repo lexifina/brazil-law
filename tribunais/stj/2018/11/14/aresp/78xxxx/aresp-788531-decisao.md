@@ -1,0 +1,82 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CAQ Casa da Química Indústria e Comércio Ltda. contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial com amparo no óbice da Súmula 7/STJ e na falta de comprovação da divergência jurisprudencial.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base nas alíneas "a" e "c" do permissivo constitucional contra acórdão, publicado na vigência do CPC/1973, assim ementado:
+AÇÃO DECLARATÓRIA. CONTRATO ADMINISTRATIVO. REAJUSTAMENTO CONTRATUAL DE PREÇO E RECOMPOSIÇÃO POR QUEBRA DO EQUILÍBRIO ECONÔMICO-FINANCEIRO.
+A só perda econômica não autoriza o recurso à mecânica da recomposição excepcional do preço contratado, escopo que não pode assentar-se no simples estreitamento ou mesmo desaparição de lucros.
+À multa infligida com estrito apoio na normativa geral de regência e no contrato entre as partes não pode concorrer, seja de modo ablatório, seja de maneira redutora, o aceno genérico a uma sua suposta excessividade.
+Não provimento das apelações.
+Opostos embargos de declaração, eles foram rejeitados (e-STJ, fls. 450/456).
+A recorrente aponta violação dos arts. 65, II, "d", § 6º, e 86 da Lei n. 8.666/1993. Aduz que a súbita desvalorização da moeda nacional diante do dólar norte-americano configura causa excepcional de mutabilidade dos contratos administrativos.
+Defende a necessidade de recomposição do preço em decorrência de fatores inesperados e alheios à atuação das partes. Destaca que a variação de 35% do valor não corresponde a mera perda econômica, mas a modificação da situação econômica do contrato, com ônus excessivo pra si.
+Refere contrariedade aos arts. 83 da Lei n. 8.666/1993 e 393, parágrafo único, do Código Civil. Diz ser exacerbada a penalidade de multa aplicada diante da prova de impossibilidade de continuidade na execução do contrato. Argumenta que, conforme a Lei de Licitações, somente incidirão as sanções administrativas na hipótese de inadimplemento culposo.
+Indica divergência jurisprudencial, apontando como paradigma o julgamento proferido pelo STJ no RO 15.154/PE.
+Contrarrazões às e-STJ, fls. 506/523.
+Em manifestação de e-STJ, fls. 577/586, o Ministério Público Federal opina pelo não conhecimento do recurso especial.
+É o relatório.
+O presente recurso não merece prosperar.
+O art. 393 do Código Civil não serviu de embasamento a qualquer juízo de valor emitido pelo Tribunal a quo. Ausente o necessário prequestionamento, aplica-se a orientação da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Por força do art. 65, II, "d", da Lei n. 8.666/1993, admite-se a alteração do contrato administrativo para a manutenção do seu equilíbrio financeiro quando sobrevindos: a) fatos imprevisíveis ou previsíveis de consequências incalculáveis, retardadoras ou impeditivas de sua execução; b) força maior; c) caso fortuito; d) fato do príncipe.
+Nesse sentido, esta Corte Superior, examinando a possibilidade de alteração do preço de produto licitado pela administração pública, já admitiu o ajuste em decorrência de desvalorização da moeda em relação ao dólar americano ocorrida no ano de 1999. Observe-se:
+CONTRATO ADMINISTRATIVO. EQUAÇÃO ECONÔMICO-FINANCEIRA DO VÍNCULO. DESVALORIZAÇÃO DO REAL. JANEIRO DE 1999. ALTERAÇÃO DE CLÁUSULA REFERENTE AO PREÇO. APLICAÇÃO DA TEORIA DA IMPREVISÃO E FATO DO PRÍNCIPE.
+1. A novel cultura acerca do contrato administrativo encarta, como nuclear no regime do vínculo, a proteção do equilíbrio econômico-financeiro do negócio jurídico de direito público, assertiva que se infere do disposto na legislação infralegal específica (arts. 57, § 1º, 58, §§ 1º e 2º, 65, II, d, 88 § 5º e 6º, da Lei 8.666/93.
+Deveras, a Constituição Federal ao insculpir os princípios intransponíveis do art. 37 que iluminam a atividade da administração à luz da cláusula mater da moralidade, torna clara a necessidade de manter-se esse equilíbrio, ao realçar as "condições efetivas da proposta".
+2. O episódio ocorrido em janeiro de 1999, consubstanciado na súbita desvalorização da moeda nacional (real) frente ao dólar norte-americano, configurou causa excepcional de mutabilidade dos contratos administrativos, com vistas à manutenção do equilíbrio econômico-financeiro das partes.
+3. Rompimento abrupto da equação econômico-financeira do contrato.
+Impossibilidade de início da execução com a prevenção de danos maiores. (ad impossiblia memo tenetur).
+4. Prevendo a lei a possibilidade de suspensão do cumprimento do contrato pela verificação da exceptio non adimplet contractus imputável à administração, a fortiori, implica admitir sustar-se o "início da execução", quando desde logo verificável a incidência da "imprevisão" ocorrente no interregno em que a administração postergou os trabalhos. Sanção injustamente aplicável ao contratado, removida pelo provimento do recurso.
+5. Recurso Ordinário provido.
+(RMS 15.154/PE, Rel. Min. LUIZ FUX, PRIMEIRA TURMA, julgado em 19/11/2002, DJ 2/12/2002, p. 222)
+ADMINISTRATIVO. LICITAÇÃO. CONTRATO E ADITIVO PARA FORNECIMENTO DE SEIS HELICÓPTEROS PARA A POLÍCIA RODOVIÁRIA FEDERAL. PREÇO AJUSTADO EM MOEDA NACIONAL (REAL). VENCEDORA CONTRATANTE QUE NECESSITAVA IMPORTAR AS AERONAVES PAGANDO EM MOEDA ESTRANGEIRA (DÓLAR). DESVALORIZAÇÃO DO CÂMBIO OCORRIDA EM JANEIRO DE 1999. TEORIA DA IMPREVISÃO. ÁLEA EXTRAORDINÁRIA CONFIGURADA. REEQUILÍBRIO ECONÔMICO-FINANCEIRO. ART. 65, II, "D", DA LEI Nº 8.666/93. INDENIZAÇÃO DEVIDA. RECURSO DA EMPRESA PARTICULAR PROVIDO.
+1. Em consonância com o estabelecido no art. 37, XXI, da Constituição Federal, que garante a manutenção das condições efetivas da proposta de contrato celebrado com a Administração, a Lei de Licitações prevê a possibilidade de revisão contratual com o fito de preservação da equação econômica da avença, podendo essa correção, dentre outras premissas, advir da teoria da imprevisão, a teor do disposto no art. 65, II, d, da Lei nº 8.666/93.
+2. De outro lado, os contratos que tenham por objeto a prestação de serviço firmados em real e executados no exterior, eventualmente submetidos a variação cambial significativa e inesperada, são passíveis de repactuação, conforme previsão do art. 65, inciso II, d, da Lei 8.666/1993, caso constatada a oneração excessiva, com o rompimento da equação econômico-financeira firmada.
+3. No caso concreto, a empresa autora, ora recorrente, requer indenização pecuniária, mediante a revisão de contrato administrativo para o fornecimento de helicópteros (por ela entregues) destinados ao serviço de remoção de vítimas de acidentes, resgates e operações especiais do Departamento da Polícia Rodoviária Federal, com preço originariamente fixado em moeda nacional (real), ante a alegada quebra da equação econômico-financeira, decorrente da forte desvalorização da moeda brasileira frente ao dólar, fenômeno ocorrido em janeiro de 1999, como consequência da mudança de política cambial então implementada pelo Banco Central.
+4. Uma vez demonstrado que as aeronaves necessitavam ser adquiridas pela licitante vencedora no exterior, com o desembolso em dólar realizado logo após a mencionada e drástica alteração da política cambial (passando-se do sistema de bandas para o de livre flutuação do dólar), fato esse que, à época, não poderia ser previsto e que acabou por onerar sobremaneira a empresa recorrente, configurada resulta a álea econômica extraordinária e extracontratual de que trata o art. 65, II, d, da Lei nº 8.666/93, legitimando a indenização por ela pleiteada.
+5. Como já decidido por esta Primeira Turma do STJ no RMS 15.154/PE, Rel. Ministro Luiz Fux, j. 19/11/2002, "O episódio ocorrido em janeiro de 1999, consubstanciado na súbita desvalorização da moeda nacional (real) frente ao dólar norte-americano, configurou causa excepcional de mutabilidade dos contratos administrativos, com vistas à manutenção do equilíbrio econômico-financeiro das partes".
+6. Recurso especial conhecido e provido.
+(REsp 1.433.434/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/2/2018, DJe 21/3/2018)
+Estabeleceu-se que " ..  o episódio ocorrido em janeiro de 1999, consubstanciado na súbita desvalorização da moeda nacional (real) frente ao dólar norte-americano, configura causa excepcional de mutabilidade dos contratos administrativos, com vistas à manutenção do equilíbrio econômico-financeiro das partes" (RMS 15.154/PE, Rel. Min. Luiz Fux, Primeira Turma, DJ 2/12/2002).
+A justificativa para essa solução é que, naquelas circunstâncias, a variação do valor da moeda não resultou de simples condições de mercado, mas da alteração do regime cambial vigente desde 1994, quando se firmou a opção pelo câmbio flutuante.
+Esse, contudo, não é o caso dos autos, em que a recorrente venceu a licitação, em agosto de 2008, para o fornecimento de 275 Kg de azatioprina para a Fundação para o Remédio Popular - FURP. Segundo o Tribunal a quo (e-STJ, fls. 434/436):
+8. Postula a suplicante a recomposição do preço contratual em face de apontada alta do custo da matéria-prima importada - azatioprina -, objeto do contrato em exame.
+Verifica-se que a demandante juntou aos autos tabela com variação cambial do dólar americano (fls. 120-1), mas não provou o efetivo impacto que essa variação ocasionou no equilíbrio econômico-financeiro do contrato celebrado.
+Não se provou, como era de exigir, a onerosidade excessiva com a suposta elevação do preço do produto, o que se reclamava para caracterizar a ruptura da equação econômico-financeira e possibilitar acaso a revisão do contrato.
+Para mais, o motivo desfiado para o não cumprimento da obrigação objeto, qual o da ascensão do preço do dólar, não pode ser considerado como impeditivo, simpliciter, do adimplemento contratual, senão que simples difficultas praestandi, impondo-se a quem concorre o proveito patrimonial da empresa as cargas correspondentes: ubi commodum, ibi incommodum; ubi emolumentum, ibi onus.
+ ..
+Não se provando, nestes autos, que a elevação do preço do produto subverteu a economia do discutido contrato administrativo, não houve demonstração, pois, da álea extraordinária que tivesse posto em risco o próprio cumprimento do pacto.
+Acrescente-se que não se confirmou, de resto, que a versada alça de preços fosse a um só tempo imprevista e imprevisível. De comum, é de observar, ela não se apresenta como um fato anômalo às compras de produtos importados que necessitam da conversão cambial do dólar americano.
+A normativa de regência prevê apenas o restabelecimento do equilíbrio econômico-financeiro dos contratos administrativos diante de fatos
+imprevisíveis ou, quando previsíveis, de conseqüências incalculáveis, se eles se mostrarem idôneos a retardar ou impedir a execução do pacto, a que ainda devem agregar-se as hipóteses de força maior, de caso fortuito ou de fato do príncipe, sempre, no entanto, a convocar uma álea econômica extraordinária (alínea d do inc. II do art. 65 da Lei 8.666, de 1993, com a redação da Lei nº 8.883, de 8-6-1994), que não se provou na espécie.
+Como demonstram os precedentes, o direito ao restabelecimento do equilíbrio da equação econômico-financeira do contrato depende da comprovação das hipóteses de seu cabimento, as quais, no caso, não foram confirmadas pela Corte de origem.
+O acórdão impungado concluiu, com base no acervo fático-probatório dos autos, que a alteração do preço da mercadoria não foi imprevisível nem extraordinária. A afirmação do contrário, nessa instância, esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIÇO DE TRANSPORTE MUNICIPAL DE PASSAGEIROS. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. CONTRATO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. RUPTURA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+3. Esbarra no óbice estampado na Súmula 7 do STJ dissentir da Corte de origem no tocante à constatação de que ocorreu ruptura do equilíbrio econômico-financeiro de contrato de prestação de serviço de transporte de passageiros quando a Administração, via resolução, passou a cobrar das permissionárias os custos pela instalação de equipamentos de monitoração dos veículos em tempo real.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.058.357/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 3/4/2018, DJe 9/5/2018)
+ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. CLÁUSULAS CONTRATUAIS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. ALEGAÇÃO DE DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DOS ENUNCIADOS N. 5 E 7 DA SÚMULA DO STJ.
+I - Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha a examinar uma a uma as alegações e os fundamentos expendidos pelas partes.
+II - A modificação da conclusão a que chegou a Corte de origem, referente à observância do equilíbrio econômico-financeiro inerente a contrato administrativo, de modo a acolher as razões do especial e reconhecer a violação aos artigos de lei federal apontados, implicaria necessariamente o revolvimento do arcabouço probatório dos autos, inviável em recurso especial, nos termos dos enunciados n. 5 e 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 945.968/PR, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 1º/3/2018, DJe 6/3/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VIOLAÇÃO DO ART. 535 DO CPC. AUSÊNCIA. REEXAME DE MATÉRIA FÁTICA E CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+1. Não merece prosperar a tese de violação do art. 535 do CPC, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. A revisão do acórdão recorrido e a análise da pretensão recursal demandariam a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas dos autos, e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 505.487/SP, de minha relatoria, SEGUNDA TURMA, julgado em 26/5/2015, DJe 9/6/2015)
+Com respeito à multa contratual aplicada, o colegiado definiu o seguinte (e-STJ, fls. 437/438):
+9. Quanto à aplicação da sanção de multa, disciplina a norma do inciso II do art. 87 da Lei nº 8.666, de 21 de junho de 1993:
+"Art. 87. Pela inexecuçãototal ou parcial do contrato a Administração poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções:
+(..)
+II - multa, na forma prevista no instrumento convocatório ou no contrato" (a ênfase gráfica não é do original).
+O versado edital do pregão internacional nº 0088/2009, previu, na alínea a do item 1o de sua Seção XIII, que:
+"No caso de inadimplemento parcial ou total deste contrato pela CONTRATADA, a FURP, dependendo da gravidade do fato, e ressalvados os casos previstos no Parágrafo Único do Artigo 393 do Código Civil Brasileiro, poderá, independentemente de a qualquer momento, exercer o seu direito de rescindir este contrato, aplicar, cumulativamente ou isoladamente, as seguintes penas:
+(..)
+d) multa correspondente a 10% do valor do contrato para casos de inexecução total ou sobre o valor remanescente para casos de inexecução parcial."
+Dessa forma, a sanção de multa foi imposta de consonância com o correspondente edital Iicitatório e com a Lei nº 8.666/1993, não se avistando ofensa ao principio da razoabilidade e da proporcionalidade entre a conduta da autora e a pena infligida.
+A recorrente, por outro lado, pretende o afastamento da penalidade, dizendo que foi demonstrada a impossibilidade de execução do contrato por fatos alheios à sua vontade.
+A verificação disso, que se contrapõe a todo o contexto fático descrito no acórdão recorrido, dependeria de novo exame dos fatos e provas constantes dos autos. Essa providência, já se disse, é inviável em recurso especial, nos termos do já mencionado verbete sumular de n. 7 dessa Corte Superior.
+Ante o exposto , com fulcro no art. 932, III, do CPC/2015, c/c o art 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
