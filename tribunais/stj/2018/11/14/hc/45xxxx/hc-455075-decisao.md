@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual aponta como autoridade coatora o Tribunal de Justiça do Estado da Paraíba.
+Depreende-se dos autos que a prisão preventiva do ora paciente foi decretada pela prática, em tese, do delito capitulado no art. 2º da Lei n. 12.850/2013, art. 1o, incisos I e II do Decreto-lei n. 201/67 c/c art. 30 do Código Penal, art. 90 da Lei n. 8.666/93 e art. 16 da Lei n. 10.826/03.
+Irresignada, a defesa interpôs agravo regimental junto ao eg. Tribunal a quo, pugnando pela revogação da prisão preventiva, desprovido em v. acórdão cuja ementa transcrevo oportunamente, verbis:
+"AGRAVOS INTERNOS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. DENÚNCIA OFERECIDA. PRESENÇA DO FUMUS COMMISSI DELICTI E DO PERICULUM LIBERTATIS. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. DECISÃO FUNDAMENTADA NOS MOLDES LEGAIS. MANUTENÇÃO. DESPROVIMENTO.
+Evidenciados o fumus commissi delicti (materialidade e indícios suficientes de autoria) e o pericuium libertatis (garantia da ordem pública e conveniência da instrução criminal) através de fartos elementos probatórios e estando a decisão combatida fundamentada à luz do art. 315 do CPP c/c art. 93, IX da CRFB/1988, devem ser as prisões preventivas mantidas" (fl. 348).
+Daí o presente writ, no qual alega a defesa, em linhas gerais, a ocorrência de constrangimento ilegal em razão da ausência de fundamentação idônea do r. decisum que determinou a segregação cautelar do paciente, aduzindo que possuiria condições pessoais favoráveis.
+Assevera, nesse sentido, que "A periculosidade não pode ser subjetivamente valorada sem que constem nos autos circunstâncias indicativas. Alheia à discussão acerca da procedência das acusações diante do cenário atual, onde já foram concretizadas medidas assecuratórias, é altamente improvável que haja reiteração nas condutas" (fl. 12).
+Defende que "não subsiste a alegada possibilidade de ingerência sobre testemunhas e o colaborador ou de intimidação, sendo este o fundamento quanto à conveniência da instrução penal. A completa reestruturação da administração municipal impulsionada pelo afastamento dos investigados constitui óbice natural ao alegado "poder hierárquico". Não se pode deixar de frisar que o paciente não era servidor público" (fl. 16).
+Sustenta, ainda, que "o paciente esclareceu ao ser interrogado que suas empresas - Fort Segurança Eletrônica e Fort Paraíba Vigilância e Segurança Provada - não são de fachada e tampouco se prestam a intermediar desvio de recursos em favor de [NOME]" (fl. 21), aduzindo para tanto que "resta plenamente justificada a movimentação financeira das empresas, uma vez que efetivamente prestam serviços, não apenas ao Município de Cabedelo, como também a diversas empresas e particulares" (fl. 22).
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas.
+A liminar foi indeferida às fls. 551-554.
+As informações foram prestadas às fls. 558-604 e fls. 614-618.
+O Ministério Público Federal manifestou-se pela denegação da ordem, em parecer de fls. 607-612, cuja ementa oportunamente transcrevo, verbis:
+"HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. OPERAÇÃO XEQUE-MATE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DOS FATOS. GARANTIA DA ORDEM PÚBLICA. RISCO DE INFLUÊNCIA SOBRE AS TESTEMUNHAS. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. Parecer pela denegação da ordem" (fl. 607).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Consoante informações do Tribunal de origem houve declinação de competência da ação penal para esta Corte:
+"Em decisão, de minha lavra (doe. 01), datada de 15 de outubro do ano corrente, houve a declinaçáo de competência para o Superior Tribunal de Justiça, à luz do artigo 105, I, "a" da CRFB/1988, ante a existência de indícios de atuação de Conselheiro do TCE/PB no exercício de suas funções, em um dos episódios investigados pela Operação intitulada "Xeque-Mate", qual seja: a construção do Shopping Pátio Intermares (doe. 02).Consequentemente, todos os processos abrangidos pela dita Operação foram remetidos para a Superior Corte, por intermédio dos Correios (doe. 03), haja vista a digitalização ser tecnicamente inviável devido ao grande volume" .
+Nesse contexto, verifico que o presente writ encontra-se prejudicado. Por oportuno transcrevo trecho da referida decisão:
+"Logo, compete ao Superior Tribunal de Justiça apreciar a excepcionalidade ou não do caso, decidindo pelo seu desmembramento ou, se houver justo motivo, a manutenção da união processual.
+Forte em tais razões, à luz do artigo 105, I, "a" da CRFB/1988, DECLINO a competência para o Superior Tribunal de Justiça, ante  existência de indícios de atuação do Conselheiro do TCE/PB, [NOME], no exercício de suas funções, em um dos episódios investigados pela Operação intitulada "Xeque-Mate", qual seja: a construção do Shopping Pátio Intermares.
+Consequentemente, remetam-se a Superior Corte todos os processos abrangidos pela Operação1, devendo, para tanto, ser requisitada, com a urgência necessária, a devolução dos autos tombados sob o n. 0000895-40.2018.815.0000, n. 0001173-11.2018.815.000 e n. 0001042- 66,2018.815.0000 (na Procuradoria-Geral de Justiça);
+No que pertine aos autos tombados sob o 0000991- 55.2018.815.0000, entregues em carga/vista ao advogado, aguarde-se a devolução e, em seguida, encaminhe-os ao STJ.
+À luz do art 71 do RISTJ, a distribuição se dará por prevenção ao ilustre Ministro Félix Fischer2, a quem competirá, a partir de então, se, também, for este o seu superior entendimento, pronunciar sobre o desmembramento ou não do presente feito".
+Ante o exposto, julgo o presente habeas corpus prejudicado.
+P. e I.
