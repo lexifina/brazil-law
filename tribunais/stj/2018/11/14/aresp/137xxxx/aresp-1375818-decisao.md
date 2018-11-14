@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. LIMITAÇÃO DA COBERTURA. POSSIBILIDADE. DEVER DE INFORMAÇÃO OBSERVADO. INEXISTÊNCIA DE ABUSIVIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação cognitiva em desfavor de Bradesco Vida e Previdência S.A. postulando a condenação do réu ao pagamento de indenização securitária em razão da invalidez permanente.
+O Magistrado de primeiro grau julgou procedente o pedido para condenar o requerido ao pagamento da cobertura prevista na apólice para invalidez permanente parcial decorrente de acidente.
+Interpostas apelações por ambas as partes, a Câmara Especial Regional de Chapecó do Tribunal de Justiça de Santa Catarina, por maioria, deu provimento ao apelo da seguradora para julgar improcedente o pedido inicial, ficando prejudicado o recurso da demandante.
+O acórdão está assim ementado (e-STJ, fls. 457-483):
+APELAÇÕES CÍVEIS. SEGURO DE VIDA EM GRUPO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE AMBOS OS CONTENDORES.
+AGRAVO RETIDO DA SEGURADORA. AUSÊNCIA DE COMUNICAÇÃO ADMINISTRATIVA DO SINISTRO. AUSÊNCIA DE INTERESSE DE AGIR AFASTADA. RESISTÊNCIA JUDICIAL. DISPENSABILIDADE DO ESGOTAMENTO DA VIA ADMINISTRATIVA.
+PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. ART. 206, §1º, CC E SÚMULA 101. PRAZO DE 1 ANO. INOCORRÊNCIA. CIÊNCIA INEQUÍVOCA DA DOENÇA. MARCO INAUGURAL PARA CÔMPUTO DO PRAZO. SÚMULA 278, STJ. PRETENSÃO INAUGURAL NÃO ATINGIDA PELA PRESCRIÇÃO.
+MÉRITO. SEGURO DE VIDA EM GRUPO. COBERTURAS PARA INVALIDEZ POR ACIDENTE (IPA) E INVALIDEZ FUNCIONAL PERMANENTE POR DOENÇA (IFPD). AUTORA ACOMETIDA POR DOENÇA LABORAL. RISCO EXPRESSAMENTE EXCLUÍDO. IMPOSSIBILIDADE DE EQUIPARAÇÃO COM A ACIDENTE PESSOAL PARA FINS DE INDENIZAÇÃO. MODALIDADE DE CONTRATO QUE EXIGE INTERPRETAÇÃO RESTRITIVA. ART. 757 DO CÓDIGO CIVIL. AUSÊNCIA DE VIOLAÇÃO AOS DITAMES DO CÓDIGO DE DEFESA DO CONSUMIDOR. RISCOS PREDETERMINADOS QUE FIZERAM PARTE INTEGRANTE DO CERTIFICADO INDIVIDUAL. CIÊNCIA INEQUÍVOCA. RECURSO PRÓVIDO. SENTENÇA INTEGRALMENTE REFORMADA PARA AFASTAR O DEVER DE INDENIZAÇÃO DA SEGURADORA.
+RECURSO DA PARTE AUTORA PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados.
+A segurada interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 19, 20 e 21 da Lei n. 8.213/1991; 3º, § 2º, 14, § 1º, e 47 do CDC; e 757 do CC.
+Sustentou, em síntese, a necessidade de condenação da seguradora ao pagamento da indenização securitária por invalidez permanente por acidente, devendo o contrato ser interpretado favoravelmente à consumidora.
+Contrarrazões às fls. 547-560 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidirem as Súmulas n. 5 e 7 do STJ e n. 283 e 284 do STF.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 576-584 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, a jurisprudência desta Corte Superior é no sentido de que inexiste deficiência no dever de informação quando a seguradora limita a cobertura da apólice de seguro a determinadas patologias, haja vista que as normas consumeristas objetivam equilibrar a relação contratual, e não desiquilibrá-la de forma arbitrária ou desmedida apenas para favorecer, a qualquer custo, a figura do consumidor.
+Confira-se:
+RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. GARANTIA IPA. LESÃO OCUPACIONAL. INCAPACIDADE PARCIAL DEFINITIVA. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE. GRAU DE INVALIDEZ. PREVISÃO CONTRATUAL E NORMATIVA. DEVER DE INFORMAÇÃO AO CONSUMIDOR. OBEDIÊNCIA. ADICIONAL AUTÔNOMO DE 200% SOBRE A COBERTURA BÁSICA DE MORTE. INEXISTÊNCIA. GARANTIA SECURITÁRIA E FÓRMULA DE CÁLCULO. CONCEITUAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de cobrança que visa o pagamento de indenização securitária decorrente da cobertura de Invalidez Permanente Total ou Parcial por Acidente (IPA).
+3. A cobertura de Invalidez Permanente Total ou Parcial por Acidente (IPA) garante o pagamento de uma indenização relativa à perda, à redução ou à impotência funcional definitiva, total ou parcial, de um membro ou órgão por lesão física, causada por acidente pessoal coberto.
+4. Quando a invalidez for parcial, o valor indenizatório deverá ser proporcional à diminuição da capacidade física sofrida pelo segurado com o sinistro, devendo ocorrer o enquadramento da situação em tabela prevista nas condições gerais e/ou especiais do seguro, a qual segue critérios objetivos (arts. 11 e 12 da Circular SUSEP nº 302/2005). Desse modo, para cada grau de inutilização definitiva da estrutura física do indivíduo, haverá um percentual adequado do capital segurado máximo, uma fração, apto a indenizá-lo. Incidência dos princípios da proporcionalidade e da razoabilidade.
+5. Não havendo deficiência no dever de informação da seguradora, visto que as garantias contratadas estavam especificadas na apólice, com previsão de que a cobertura IPA poderia ser paga em valor inferior ao limite do capital segurado, afora o devido esclarecimento no Manual do Segurado (proporcionalidade entre o montante indenizatório e a incapacidade parcial definitiva), é de se afastar qualquer violação dos arts. 46, 47 e 54 do CDC.
+6. As normas consumeristas visam equilibrar a relação contratual e não desiquilibrá-la de forma arbitrária ou desmedida apenas para favorecer a qualquer custo a figura do consumidor.
+7. Não há falar na existência autônoma de um adicional de 200% (duzentos por cento) sobre a cobertura básica (de morte) paralela à garantia IPA, pois tal percentual já é a própria fórmula de cálculo dessa garantia adicional, ou seja, o seu valor é de até 200% (duzentos por cento) da cobertura básica (art. 2º, § 2º, II, da Circular SUSEP nº 17/1992). Na hipótese, a quantia máxima da cobertura IPA já estava dobrada quando comparada com a cobertura básica de "morte".
+8. Recurso especial provido. (REsp n. 1.727.718/MS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/5/2018, DJe 18/5/2018 - sem grifo no original)
+Ademais, a "obtenção da indenização securitária ao argumento de que a invalidez total e permanente por doença deve ser para a categoria profissional, refere-se à cobertura ILPD, não podendo transmudar-se a invalidez funcional em invalidez profissional, igualando indevidamente a conceituação de duas espécies distintas de coberturas" (AgRg no AREsp n. 589.599/RS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1º/3/2016, DJe 7/3/2016).
+Na espécie, consoante asseverado pelo acórdão recorrido, "as patologias que acometem a autora, ainda que permanentes, porque oriundas de doença ocupacional e do trabalho, não estão acobertados, nos exatos termos da cláusula 5, inciso III, do capítulo IV" (e-STJ, fl. 463).
+Desse modo, constata-se que o entendimento adotado pela Corte estadual está em harmonia com a jurisprudência deste Tribunal Superior, atraindo a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre o valor da causa, observados os efeitos da gratuidade de justiça.
+Publique-se.
