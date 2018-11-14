@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DO INDÉBITO. PLANO DE SAÚDE. PRESCRIÇÃO TRIENAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REAJUSTE EM RAZÃO DA MUDANÇA DE FAIXA ETÁRIA. ABUSIVIDADE. SÚMULA 568/STJ.
+1. Ação declaratória c/c repetição de indébito, fundada na abusividade da cláusula contratual de reajuste por faixa etária.
+2. Na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002 (Tema 610). Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que é válida cláusula em contrato de plano de saúde que prevê reajuste de mensalidade fundado na mudança de faixa etária do beneficiário, desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+4. nos termos do art. 51, § 2º, do Código de Defesa do Consumidor, se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do usuário, para não haver desequilíbrio contratual, faz-se necessária a apuração de percentual adequado e razoável de majoração da mensalidade, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença. Precedentes.
+5. Recurso especial conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 30/05/2016.
+Concluso ao gabinete em: 15/03/2018.
+Ação: declaratória c/c repetição de indébito, ajuizada por [NOME], em face da recorrente, devido à abusividade da cláusula contratual que autorizaria o reajuste por idade.
+Sentença: julgou procedentes os pedidos, para declarar abusiva a cláusula 12.3 do contrato celebrado e obstar o aumento no valor da mensalidade, por alteração de faixa etária, após 59 anos, ressalvados os reajustes previstos pela ANS, bem como para condenar a recorrente à devolução dos valores cobrados a maior, a partir de outubro de 2010.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+PLANO DE SAÚDE. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO
+I. Prescrição não configurada. Inaplicabilidade da prescrição ânua (artigo 206, §1º, II, b). Incidência do prazo decenal previsto no artigo 205 do Código Civil. Precedentes desta C. Câmara e do E. Superior Tribunal de Justiça.
+II. Reajustes de mensalidade por mudança de faixa etária. Descabimento. Reajustes vedados pelo artigo 15, parágrafo 3º, da Lei 10.741/03. Obrigação de trato sucessivo. Aplicação da Súmula nº 91 deste E. Tribunal.
+III. Ofensa ao princípio da boa-fé que deve nortear os contratos consumeristas. Atenuação e redução do princípio do pacta sunt servanda. Incidência do disposto no artigo 421 do Código Civil.
+IV. Nulidade da cláusula contratual ante os evidentes aumentos abusivos. Obrigatoriedade da manutenção dos valores praticados, apartados os reajustes por faixa etária, garantida a restituição dos montantes pagos a maior, nos termos a r. sentença recorrida.
+SENTENÇA PRESERVADA, NOS TERMOS DO ARTIGO 252 DO RITJSP. APELO DESPROVIDO.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Embargos de declaração: opostos pela recorrida, foram acolhidos, com efeitos modificativos, para determinar a desconsideração das ressalvas quanto ao prazo prescricional trienal e a aplicação do prazo decenal.
+Embargos de declaração: opostos pela recorrente, foram acolhidos, com efeito modificativo, para reconhecer a incorreção da prescrição decenal e concluir pela prescrição trienal, diante do precedente vinculativo do STJ.
+Recurso especial: alega violação dos arts. 206, §1º, II, e 421, do CC/02, art. 15, §3º, da Lei 10.741/03, bem como dissídio jurisprudencial.
+Sustenta que o prazo prescricional seria anual e que a cláusula de reajuste por faixa etária a partir dos 60 anos não seria abusiva, inexistindo, assim, motivos para alteração do contrato.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da prescrição (Súmula 568/STJ)
+A Segunda Seção do STJ firmou entendimento em recurso repetitivo de que na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002 (Tema 610). Nesse sentido: REsp 1361182/RS, Segunda Seção, DJe de 19/09/2016; e REsp 1360969/RS, Segunda Seção, DJe de 19/09/2016.
+Na hipótese, o Tribunal de origem concluiu que a condenação à repetição do indébito deveria respeitar o prazo prescricional trienal (e-STJ, fl. 482), em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+- Do reajuste por faixa etária (Súmula 568/STJ)
+A Segunda Seção do col. Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo 1.568.244/RJ referente ao Tema 952, firmou entendimento no sentido de que:
+O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+Na hipótese sob julgamento, o TJ/SP considerou abusivo o percentual aplicado a partir da seguinte fundamentação:
+Na hipótese dos autos, verifica-se que o contrato do qual a apelada é beneficiária contém previsão expressa de reajuste de 147,71% da mensalidade do plano de saúde na faixa etária "A partir de 60 anos" (Cláusula 12.3 fl. 244).
+O reajuste imposto pela apelante, no entanto, à luz das disposições do Estatuto do Idoso, não poderia alcançar a apelada. Nada obstante haja expressa previsão contratual a fundamentar os aumentos, nenhuma disposição ou instrumento negocial prevalecerá sobre os preceitos da lei protetiva mencionada. A matéria, inclusive, já se encontra pacificada neste Tribunal, editando-se, a respeito, a Súmula nº 91, in verbis: "Ainda que a avença tenha sido firmada antes da sua vigência, é descabido, nos termos do art. 15, par. 3º, do Estatuto do Idoso, o reajuste da mensalidade de plano de saúde por mudança de faixa etária".
+(..)
+Ademais, a manutenção do percentual de reajuste imposto em razão de faixa etária tornaria a obrigação excessivamente onerosa, rompendo o equilíbrio contratual, atentando-se, inclusive, contra o princípio da boa-fé que deve nortear os contratos consumeristas.
+E nem argumente com a afronta ao princípio contratual do pacta sunt servanda. Afora a abusividade do índice aplicado, já explicitada, cumprindo destacar que, à vista do disposto no artigo 421 do Código Civil de 2002, o alcance do referido princípio restou atenuado e reduzido, especialmente quando está em discussão interesse individual relacionado à dignidade da pessoa humana, aliás, como ocorrente na espécie dos autos.
+(..)
+Sendo ilegal, pelos fundamentos invocados, a respectiva cláusula negocial que fundamenta a majoração da mensalidade com fundamento em faixa etária, de rigor que seja apartada, respeitados os reajustes anuais editados pela ANS, nos termos do provimento de origem. (e-STJ, fls. 343/345).
+Contudo, no julgado paradigma, realizado sob a sistemática dos recursos repetitivos, a orientação quanto à abusividade verificada é a seguinte:
+"Nesse passo, cumpre ressaltar que, se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde devido à alteração de faixa etária, para não haver desequilíbrio contratual, faz-se necessária, nos termos do art. 51, § 2º, do CDC, a apuração de percentual adequado e razoável de majoração da mensalidade em virtude da inserção do consumidor na nova faixa de risco, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença."
+Assim, o recurso especial deve ser provido para determinar a apuração do reajuste na fase de cumprimento de sentença, considerada a declaração da abusividade, pelas instâncias ordinárias, do percentual utilizado pela operadora. Nesse sentido: EDcl no AgInt no AREsp 1.138.813/RS, 3ª Turma, DJe de 18/06/2018; AgInt no AREsp 512.230/SP, 4ª Turma, DJe de 21/11/2017; e REsp 1.673.366/RS, 3ª Turma, DJe de 21/08/2017.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO para determinar a apuração do reajuste na fase de cumprimento de sentença, considerada a declaração da abusividade, pelas instâncias ordinárias, do percentual utilizado pela operadora.
+Publique-se. Intimem-se.
