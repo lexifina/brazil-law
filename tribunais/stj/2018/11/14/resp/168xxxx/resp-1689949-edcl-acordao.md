@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. PAGAMENTO DO IPVA. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+2. Na hipótese dos autos o entendimento do Tribunal de origem não está em consonância com a orientação do Superior Tribunal de Justiça de que a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com qualquer tipo de penalidade.
+3. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, ainda que para viabilizar a interposição de Recurso Extraordinário.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. PAGAMENTO DO IPVA. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. NÃO CONFIGURAÇÃO.
+1. Na hipótese dos autos o entendimento do Tribunal de origem não está em consonância com a orientação do Superior Tribunal de Justiça de que a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com qualquer tipo de penalidade.
+2. Recurso Especial provido.
+Em síntese, a embargante alega que "De fato, a controvérsia foi decidida com fundamento suficiente na legislação estadual, como se vê da seguinte passagem do julgado".
+Houve impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26.11.2017.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+Extrai-se do acórdão vergastado que o entendimento do Tribunal de origem não está em consonância com a orientação do Superior Tribunal de Justiça, de que a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com qualquer tipo de penalidade.
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPVA. RESPONSABILIDADE DO VENDEDOR DO VEÍCULO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO EM LEI ESTADUAL. SÚMULA 280/STF.
+1. Não se conhece da insurgência contra a ofensa ao art. 134 do CTB, pois o referido dispositivo legal não foi analisado pela instância de origem. Dessa forma, não se pode alegar que houve presquestionamento da questão, nem ao menos implicitamente.
+2. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. O Tribunal bandeirante consignou: "Ademais, é relevante consignar que o ônus de comunicação da alienação de bem móvel, à Administração Pública, também é do respectivo alienante, para fins de atualização cadastral, sob pena de responsabilização, solidária, com relação às obrigações de natureza tributária, nos termos dos artigos 4o, inciso III, da Lei Estadual nº 6.606/89 e 6o, inciso II e § 2o, da Lei Estadual nº 13.296/08".
+4. Ainda que se considere o art. 134 do CTB prequestionado, o que não aconteceu, a jurisprudência do STJ é no sentido de que, embora o dispositivo atribua ao antigo proprietário a responsabilidade de comunicar ao órgão executivo de trânsito a transferência do veículo, sob pena de ter que arcar solidariamente com as penalidades impostas, a referida disposição legal somente incide nas infrações de trânsito, não se aplicando a débitos tributários relativos ao não pagamento de IPVA, por não serem relacionados a violação às regras de trânsito.
+5. Recurso Especial não conhecido.
+(REsp 1603507/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/08/2016, DJe 08/09/2016)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. PAGAMENTO DO IPVA. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. NÃO CONFIGURAÇÃO. INCIDÊNCIA DA SÚMULA N. 83/STJ. ACÓRDÃO FUNDAMENTADO EM LEI FEDERAL. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. SÚMULA N. 280/STF. INAPLICABILIDADE.
+I - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com qualquer tipo de penalidade.
+II - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula n. 83/STJ.
+III - Tendo o acórdão recorrido analisado a controvérsia à luz do art. 134 do Código de Trânsito Brasileiro, ainda que mencione a lei local, revela-se inaplicável o verbete da Súmula n. 280 do Supremo Tribunal Federal. Precedente.
+IV - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg no REsp 1528438/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/12/2015, DJe 05/02/2016)
+Por tudo isso, dou provimento ao Recurso Especial
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações da embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
