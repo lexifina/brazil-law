@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. CRIME DE EMBRIAGUEZ AO VOLANTE. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENTENDIMENTO SEDIMENTANDO NA SÚMULA N.º 182 DESTA CORTE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Paraná, que não admitiu o recurso especial manejado com fundamento no art. 105, inciso III, alínea a, da Constituição da República.
+Consta dos autos que o Agravante foi condenado como incurso no art. 306, caput, da Lei n.º 9.503/1997, pela condução de veículo sob a influência de álcool, ao cumprimento da pena de 9 (nove) meses de detenção, no regime inicial semiaberto (reincidente), além do pagamento de 45 (quarenta e cinco) dias-multa. A pena privativa de liberdade foi substituída por uma restritiva de direitos, qual seja, prestação de serviços à comunidade.
+Irresignada, o Réu interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento, nos termos do acórdão assim ementado (fl. 275):
+"APELAÇÃO CRIMINAL. CRIME DE EMBRIAGUEZ AO VOLANTE (ARTIGO 306 DA LEI Nº 9.503/97). 1) INSURGÊNCIA QUANTO A DOSIMETRIA DE PENA. EXASPERAÇÃO DA PENA BASE. PARÂMETRO JURISPRUDENCIAL DE 1/8 ENTRE O INTERVALO DO MÍNIMO E MÁXIMO DE PENA COMINADA AO TIPO PENAL, PARA CADA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. 2) APELANTE QUE APRESENTA DUAS CONDENAÇÕES COM TRÂNSITO EM JULGADO ANTES DOS FATOS EM QUESTÃO. UMA UTILIZADA COMO REINCIDÊNCIA E A OUTRA COMO MAUS ANTECEDENTES. NÃO CONFIGURAÇÃO DE BIS IN IDEM . PRECEDENTE DO STJ. RECURSO CONHECIDO E NÃO PROVIDO."
+Nas razões do especial interposto exclusivamente com fundamento na alínea a do permissivo constitucional, o Recorrente, sem especificar o dispositivo legal violado, alega que a reincidência penal não pode ser considerada como circunstância judicial (primeira fase) e agravante (segunda fase). Argumenta que "tal proibição é prevista na Súmula 241 do STJ" (fl. 306).
+Requer, desse modo, seja provido o recurso especial a fim de readequar a dosimetria da pena.
+Inadmitido o recurso especial na origem (fls. 320-321), subiram os autos a esta Corte por intermédio do presente agravo (fls. 338-344).
+Contraminuta às fls. 349-352.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 364-365).
+É o relatório.
+Decido.
+A decisão agravada inadmitiu o recurso especial com base nas seguintes razões: a) deficiente fundamentação recursal, pois as respectivas razões deixaram de apontar os dispositivos legais eventualmente violados (Súmula n.º 284/STF); e b) incidência da Súmula n.º 518 desta Corte, pois "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+O Agravante, em suas razões, limitou-se a afirmar, genericamente, que não incide a Súmula n.º 284 do Supremo Tribunal Federal e que o acórdão impugnado pelo recurso especial contrariou o entendimento consolidado na Súmula n.º 241 do Superior Tribunal de Justiça ("A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial"), sem refutar, todavia, o segundo fundamento da decisão agravada.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada, sendo aplicável, à espécie, o disposto nas Súmulas n.os 182 desta Corte e 283 do Supremo Tribunal Federal, respectivamente transcritas, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Por oportuno, impende salientar, sobre a Súmula n.º 182 do STJ (aplicável, por analogia, ao agravo em recurso especial), que a Corte Especial deste Tribunal Superior, em sessão realizada no dia 19/09/2018, concluiu o julgamento do EAREsp n.º 746.775/PR. Na oportunidade, a maioria do Colegiado, acompanhando a divergência inaugurada pelo Ministro LUIS FELIPE SALOMÃO, firmou o entendimento de que, no agravo, a Parte agravante deve impugnar todos os fundamentos da decisão que inadmite o recurso especial, sob pena de não conhecimento do recurso (acórdão pendente de publicação).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
