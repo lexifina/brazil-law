@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa se segue:
+"PENAL. PROCESSUAL PENAL. USO DE DOCUMENTO FALSO. ART. 304 C/C 297, AMBOS DO CÓDIGO PENAL. MATERIALIDADE E AUTORIA COMPROVADAS. CRIME IMPOSSÍVEL. INOCORRÊNCIA.
+I - A autoria ficou demonstrada em razão do uso de diploma e histórico escolar falsos apresentados pelo réu, junto ao CREA-RJ, a fim de obter registro profissional.
+II - A materialidade restou comprovada pela informação do CEFET/RJ no sentido de que o diploma apresentado não era autêntico e que os seus dados não conferiam com os registros da instituição.
+III - A falsificação era apta a iludir e exigiu trabalho de conferência detalhada e repassada à autoridade supostamente emitente para lograr êxito na detecção. Inaplicabilidade de crime impossível.
+IV - Apelação a que se nega provimento" (e-STJ, fl. 346).
+Consta dos autos que o ora agravante foi condenado, pela prática do crime previsto no art. 304, c/c o art. 297, ambos do Código Penal, à pena de 2 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa, substituída a reprimenda corporal por duas restritivas de direitos.
+Interposta apelação, pela defesa, o Tribunal de origem negou-lhe provimento, conforme a ementa anteriormente transcrita.
+No recurso especial, aponta a defesa violação do disposto no art. 17 do Código Penal, asseverando que inexiste crime, na hipótese, tendo em vista que, "no que tange os crimes contra a fé pública, em especial ao crime de uso de documento falso, é unânime na doutrina o entendimento de que o documento produzido mediante falsidade deve ter a aptidão para se apresentar como, sendo que somente assim se pode vislumbrar a imprescindível lesão ao bem tutelado" e, desse modo, "se o documento é incapaz de enganar, a ofensa à fé pública é impossível" (e-STJ, fl. 357).
+Requer, assim, a reforma do acórdão recorrido, para que se reconheça a existência de crime impossível.
+Foram apresentadas contrarrazões (e-STJ, fls. 369-399).
+O recurso não foi admitido, em razão da incidência do óbice das Súmulas 7 e 211, ambas deste Superior Tribunal de Justiça, motivo pelo qual foi interposto o presente agravo (e-STJ, fls. 412-418).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 445-448).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem assim se fundamentou, para manter a decisão condenatória:
+" .. adoto os fundamentos do MPF (fls. 242/263), para negar provimento ao recurso.
+ Confira-se:
+ " ..  No tocante à alegação de crime impossível/erro grosseiro do diploma, igualmente não assiste razão ao apelante.
+O diploma apresentado era hábil a enganar e, por isso, o Conselho enviou ofício (fls. 16 do IPL) à instituição de ensino para sanar as dúvidas acerca do documento, ressalte-se: dúvidas essas que apenas a instituição de ensino poderia sanar. Caso a documentação apresentada fosse realmente grosseira, o Conselho se limitaria a tachar o diploma de falso, mas ele causou incertezas acerca de sua veracidade, sendo, portanto, meio eficaz para a prática do delito, afastando completamente o crime impossível ou o erro grosseiro a ensejar a aplicação do artigo 17 do Código Penal.  ..
+A falsificação era, no presente caso, apta a iludir e exigiu trabalho de conferência detalhada e repassada à autoridade supostamente emitente para lograr êxito na detecção. Não há como, portanto, acolher referida tese.
+Frise-se, mais uma vez, que o fato do CREA-RJ prever em sua rotina administrativa que os diplomas porventura apresentados tenham sua autenticidade submetida ao crivo do órgão em nome do qual foi expedido o respectivo documento, em nada influi quanto à aferição do delito de falsificação de documento público imputado ao apelante.
+Nesse sentido, observa-se que tanto o diploma quanto o histórico escolar apresentados pelo réu, quando este requereu registro profissional perante o CREA-RJ, foram aceitos neste órgão, havendo evidente presunção inicial de validade da referida documentação, só vindo a ser constatada a falsidade após a resposta enviada pela instituição de ensino.
+Enfim, constata-se a improcedência dos argumentos colacionados na peça recursal, haja vista ter restado inconteste nos presentes autos, que, em momento algum, houve qualquer questionamento quanto a eventual falsidade grosseira do diploma, hábil a enganar o homem médio, não sendo, portanto, hipótese de discussão sobre eventual ocorrência de crime impossível.
+Bem ao contrário, ainda que fosse impossível o registro, o que se admitiria apenas para fins de argumentação, o crime de uso de documento falso encontra-se plenamente consumado no instante da apresentação do documento à instituição pública, independentemente de o agente lograr ou não registrar-se falsamente.  ..
+Ademais, a potencialidade lesiva da conduta encetada pelo réu pode ser claramente visualizada, pois tão ou mais pernicioso que a própria falsificação do documento é o posterior uso do documento falso, já que é no momento do uso que o documento sai da esfera individual do agente, e o falso se torna apto a dar causa a um futuro dano.
+Na realidade, se por qualquer razão os funcionários da Autarquia Profissional não tivessem buscado junto a instituição de ensino a confirmação da autenticidade dos documentos, o CREA poderia, sim, ter sido induzido em erro e ter concedido o registro profissional a uma pessoa não qualificada para exercer a profissão, pessoa essa que poderia, futuramente, causar danos à coletividade, não havendo que se falar em crime impossível. Como já dito, não se trata de falsificação grosseira, facilmente perceptível. Inclusive, a prova maior desse fato é que o próprio CREA/RJ precisou consultar a instituição de ensino quanto à autenticidade do documento, sendo incapaz de verificá-la. Portanto, há sim potencial lesivo à fé pública na conduta praticada pelos acusados, não obstante se observar estarmos diante de um crime formal, que prescinde da ocorrência do resultado para a sua consumação - consistindo, este, em mero exaurimento do crime" (e-STJ, fls. 337-342, grifou-se).
+Com efeito, para verificar se há, no caso dos autos, elementos suficientes para se afastar a conclusão a que chegou o Tribunal de origem e decidir-se pela tese de crime impossível, seria necessário, invariavelmente, o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 deste Superior Tribunal de Justiça.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 288, 180, § 1º, E 311, DO CÓDIGO PENAL E 158 E 386, II, DO CÓDIGO DE PROCESSO PENAL. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para desconstituir o entendimento firmado pelo Tribunal estadual e concluir pela absolvição do recorrente ou mesmo a desclassificação do crime de receptação para a forma simples, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+2. Agravo regimental não provido".
+(AgRg no AREsp 1208039/GO, de minha Relatoria, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. CIÊNCIA DA ORIGEM ILÍCITA DO AUTOMÓVEL. PRESUNÇÃO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem consignou que o ora agravante tinha plena ciência da origem ilícita do veículo apreendido em seu poder. Para se concluir em sentido contrário, seria necessário o reexame fático-probatório dos autos, vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+2. Agravo regimental não provido".
+(AgRg no AREsp 956.255/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/09/2017, DJe 22/09/2017).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
