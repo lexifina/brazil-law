@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL.
+1. O STJ entende que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da controvérsia, muito menos para prequestionar matéria constitucional.
+2. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+3. O STJ, em precedente que analisou questão idêntica à presente, assim decidiu: "O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual a autoridade coatora que detém legitimidade para figurar no polo passivo de ação mandamental é aquela que tenha praticado o ato impugnado, consoante o disposto na Lei n. 12.016/2009. (..) No caso, depreende-se das informações constantes dos autos, que o Governador do Estado de Goiás é a autoridade responsável pela nomeação dos candidatos aprovados no concurso público da Polícia Militar daquele Estado, não tendo havido delegação de poderes ao Secretário de Estado de Planejamento para a convocação ou nomeação." (AgInt no RMS 52.334/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22.5.2017).
+4. Ademais, cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações do embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+5. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ que negou provimento ao recurso da parte embargante.
+Alega que existe omissão e contradição no decisum, pois deixou de analisar ou apreciou equivocadamente algumas questões de direito.
+O Estado ofereceu impugnação às fls. 437-442, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 10.2.2018.
+A parte embargante alega omissão do acórdão recorrido, porque a decisão impugnada não apreciou explicitamente diversos dispositivos constitucionais.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os aclaratórios constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO CONFIGURADA.
+1. Os embargos de declaração, ainda que manejados para fins de prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, nos ditames do art. 535, I e II, do CPC/1973, bem como para sanar a ocorrência de erro material.
+2. Omissão no exame de um dos paradigmas indicados nas razões recursais.
+3. Acórdão embargado de divergência no sentido de que é preciso ao recorrente comprovar o feriado local no momento da interposição do recurso. Acórdão paradigma no sentido de que a comprovação do feriado local pode ser suprida pela junção de dois fatores: (a) a afirmação pelo recorrente de que era feriado local e (b) o reconhecimento pelo tribunal local de que era efetivamente feriado, ainda que apenas implicitamente, quando admitido o recurso. Entendimento do acórdão paradigma que ilustra a posição dominante nesta Corte.
+4. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento aos embargos de divergência, reconhecendo-se a tempestividade do Recurso Especial interposto por [NOME], devolvendo-se os autos à Terceira Turma para que prossiga no julgamento do Recurso Especial.
+(EDcl nos EREsp 884.009/RJ, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe 4/11/2016).
+O STJ entende que os Embargos Eeclaratórios não constituem instrumento adequado para a rediscussão da controvérsia, muito menos para prequestionar matéria constitucional. Cito precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ICMS-ST. IMPETRAÇÃO CONTRA LEI EM TESE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ATO ATRIBUÍDO AO SECRETÁRIO DE ESTADO DE FAZENDA. ILEGITIMIDADE PASSIVA. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. PREQUESTIONAMENTO DE TEMAS CONSTITUCIONAIS. IMPOSSIBILIDADE.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Ao contrário do que afirma a parte embargante, não se observa no julgado a alegada omissão, uma vez que ficou devidamente consignado no acórdão embargado que nem o Secretário de Estado da Fazenda nem o Governador de Estado detêm legitimidade para figurar como autoridade coatora em mandado de segurança em que se pretende evitar a prática de lançamentos fiscais, ainda que em caráter preventivo, não sendo aplicável a teoria da encampação do ato pela autoridade apontada como coatora, pois, na linha jurisprudencial desta Corte, tal configuraria indevida ampliação da regra de competência absoluta insculpida na Constituição da República.
+3. Inexiste vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+4. A via declaratória não se presta ao exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedente (EDcl no RMS 26.528/RJ, Primeira Turma, Rel. Min. Denise Arruda, DJe 26/3/2009).
+5. Embargos de declaração rejeitados.
+(EDcl no RMS 45.902/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/2/2017).
+O STJ, em julgamento que analisou questão idêntica à presente, assim decidiu: "O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual a autoridade coatora que detém legitimidade para figurar no polo passivo de ação mandamental é aquela que tenha praticado o ato impugnado, consoante o disposto na Lei n. 12.016/2009. (..) No caso, depreende-se das informações constantes dos autos, que o Governador do Estado de Goiás é a autoridade responsável pela nomeação dos candidatos aprovados no concurso público da Polícia Militar daquele Estado, não tendo havido delegação de poderes ao Secretário de Estado de Planejamento para a convocação ou nomeação." (AgInt no RMS 52.334/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22.5.2017).
+Ademais, cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
