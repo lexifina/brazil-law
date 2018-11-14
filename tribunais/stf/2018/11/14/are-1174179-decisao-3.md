@@ -1,0 +1,34 @@
+DECISÃO:
+    Trata-se de agravo interposto por Hilma Fonseca de Deus do Carmo que tem pro objeto decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISOS I E IV, DO CP). DEFICIÊNCIA DE DEFESA. NULIDADE RELATIVA. SÚMULA 523 DO SUPREMO TRIBUNAL FEDERAL. ADVOGADO CONTRATADO PELA ACUSADA. DILIGÊNCIA NA ATUAÇÃO. PREJUÍZO NÃO DEMONSTRADO. MÁCULA INEXISTENTE. RECURSO IMPROVIDO.
+    1. Consolidou-se no âmbito dos Tribunais Superiores o entendimento de que apenas a falta de defesa técnica constitui nulidade absoluta da ação penal, sendo certo que eventual alegação de sua deficiência, para ser apta a macular a prestação jurisdicional, deve ser acompanhada da demonstração de efetivo prejuízo para o acusado, tratando-se, pois, de nulidade relativa. Enunciado 523 da Súmula do Supremo Tribunal Federal.
+    2. Não se pode qualificar como defeituoso o trabalho realizado pelo anterior advogado responsável pela defesa da agravante, pois atuou de acordo com a autonomia que lhe foi conferida por ocasião da habilitação ao exercício da advocacia, nos termos do artigo 7º, inciso I, da Lei 8.906/1994.
+    3. Diante de um insucesso, para o crítico sempre haverá algo a mais que o causídico poderia ter feito ou alegado, circunstância que não redunda, por si só, na caracterização da deficiência de defesa, a qual, conforme salientado, depende da demonstração do prejuízo para o acusado, não verificado na hipótese.
+    4. Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, LV, da CF, bem como às Súmulas 523 e 532/STF. Sustenta “a nulidade do processo, por ausência de defesa técnica efetiva, pois o patrono da apelante, na sessão plenária do Tribunal do Júri, utilizou pouco mais de 15 (quinze) minutos para proferir sua sustentação oral”. Afirma que é “forçoso reconhecer que a condenada Hilma, pela patente deficiência técnica de seu defensor, encontrou-se no julgamento da presente ação penal verdadeiramente indefesa. Inviável sustentar o respeito ao princípio do devido processo legal face a inexistência de real defesa técnica”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Ademais, a jurisprudência do STF é no sentido de que a demonstração de prejuízo, “a teor do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta, eis que […] o âmbito normativo do dogma fundamental da disciplina das nulidades - pas de nullité sans grief - compreende as nulidades absolutas” (HC 85.155/SP, Rel.ª Min.ª Ellen Gracie).
+    No caso, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF).
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    A irresignação, porém, não merece prosperar.
+    Como bem asseverado na decisão impugnada, consolidou-se no âmbito dos Tribunais Superiores o entendimento de que apenas a falta de defesa constitui nulidade absoluta da ação penal, sendo certo que eventual alegação de sua insuficiência, para ser apta a macular a prestação jurisdicional, deve ser acompanhada da demonstração de efetivo prejuízo para o increpado, tratando-se, pois, de nulidade relativa.
+    Tal entendimento encontra-se resumido no enunciado 523 da Súmula do Supremo Tribunal Federal (…).
+    […]
+    Nos termos da decisão agravada, a insurgente foi patrocinada por advogado de sua confiança, que apresentou as peças processuais pertinentes, a acompanhou em todos os atos processuais, havendo registro de interposição de recurso em sentido estrito da sentença de pronúncia, ao contrário do alegado pela defesa.
+    […]
+    É necessário registrar que o tempo utilizado em plenário pelo causídico para sustentar oralmente ou as teses ou linha de defesa por ele utilizadas, por si só, são circunstâncias insuficientes, in casu, para que se possa considerar a ré indefesa, até mesmo porque não restou demonstrado nos autos os prejuízos sofridos.
+    […]
+    Em arremate, é necessário esclarecer que o fato de o patrono anterior ter dispensado testemunhas em plenário, o número de perguntas a elas apresentadas ou, ainda, não ter ele realizado os questionamentos reputados necessários pelo advogado subscritor do presente reclamo não significa que sua atuação tenha sido meramente formal ou deficiente, o que reforça a inexistência de qualquer eiva apta a contaminar o presente processo.
+    […]
+    Por conseguinte, não se pode qualificar como defeituoso o trabalho realizado pelo referido profissional, pois atuou de acordo com a autonomia que lhe foi conferida por ocasião da habilitação ao exercício da advocacia, nos termos do artigo 7º, inciso I, da Lei 8.906/1994.
+    Com efeito, o conhecimento e a experiência agregados por cada profissional, em qualquer ofício, são critérios que levam, muitas vezes, à execução de trabalhos distintos sobre uma mesma base fática, como não raro ocorre, por exemplo, em diagnósticos diversos dados a um mesmo sintoma por dois ou mais médicos. Trata-se, na verdade, da avaliação subjetiva do profissional, diante de um caso concreto, das medidas que entende devidas para alcançar um fim almejado.
+    O trabalho do advogado, entretanto, se consubstancia em obrigação de meio, não lhe sendo exigível qualquer resultado específico sobre a sua atuação em juízo, senão a diligência na prestação do serviço e o emprego dos recursos que lhe estiverem disponíveis em busca do êxito almejado.
+    Assim, embora aos olhos da atual defesa a atuação do anterior causídico da ré não seja digna de elogios, da leitura das peças que foram acostadas aos autos não se constata qualquer desídia ou impropriedade capaz de influenciar na garantia à sua ampla defesa.
+    Entretanto, diante de um insucesso, para o crítico sempre haverá algo a mais que o causídico poderia ter feito ou alegado, circunstância que não redunda, por si só, na caracterização da deficiência de defesa, a qual, conforme salientado alhures, depende da demonstração do prejuízo para o acusado, não verificado na hipótese.
+    [...]”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
