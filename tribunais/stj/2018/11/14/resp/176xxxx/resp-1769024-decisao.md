@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSUÉ NUNES DA CRUZ, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Rondônia, cuja ementa é a seguinte (e-STJ fls. 652/653):
+Apelação criminal. Tráfico ilícito de drogas. Absolvição. Materialidade e autoria. Conjunto probatório suficiente. Absolvição. Impossibilidade. Tráfico privilegiado. Aplicação da causa de diminuição. Inviável. Maus antecedentes. Pena-base acima do minimo legal. Natureza e quantidade do entorpecente. Pena de multa. Consectário legal. Diminuição. Inviabilidade. Acréscimo oriundo do tráfico interestadual. Afastamento.
+1- O conjunto probatório mostra-se inegável quanto à autoria delitiva do apelante, suficiente para autorizar o édito condenatório.
+2 - Quando violado pelo menos um dos requisitos previstos no art.
+33, §4º, da Lei n. H.343"2006 (tráfico privilegiado), este torna óbice para a concessão da benesse.
+3 - A quantidade de droga e sua natureza são circunstâncias judiciais que o magistrado pode e deve atribuir função na individualização da resposta penal ao tráfico de entorpecente, justificando-se a fixação da pena-base acima do mínimo legal.
+4 - A fixação da pena de multa respeitou todas as fases da dosimetria da pena, inclusive no tocante à causa de aumento, que também é levada em consideração em seu cômputo. Dessa forma, se trata de consectário legal, devendo o juiz da execução apreciar a alegada insuficiência financeira do réu, que examinará as condições socioeconômicas para pagamento da multa.
+5 - Visto a identidade das situações fático-processuais entre os corréus, a teor do art. 580 do CPP, afasto a causa de aumento de pena prevista no 40, inciso V, da Lei 11.343/06.
+Nas razões do recurso especial, alega a parte recorrente violação do artigo 33, § 4º, Lei n. 11.343/2006. Sustenta: (i) que a fundamentação trazida pelo tribunal é mera repristinação da sentença; (ii) que a quantidade da droga não pode ser utilizada para afastar o benefício; (iii) que a utilização da quantidade de droga na pena-base e para afastar a incidência do artigo 33, § 4º, Lei n. 11.343/2006 configura bis in idem.
+Apresentadas contrarrazões (e-STJ fls. 679/686), o recurso foi admitido (e-STJ fl. 688), manifestando-se o Ministério Público Federal, nesta instância, pelo não provimento do recurso especial (e-STJ fls. 699/702).
+É o relatório. Decido.
+O recurso não merece acolhida.
+Primeiramente, o Tribunal a quo, ao afastar a incidência do art. 33, §4º, da Lei n. 11.343/2006, assim se manifestou (e-STJ fl. 659):
+ ..
+Visto isso em relação ao pedido de reconhecimento da causa de diminuição de pena prevista no art. 33, § 4o, da Lei n 11.343/06, este não prospera, pois o apelante, à época dos fatos, era réu nos autos da Ação n. 0090726-13.2005.8.22.0501 e Ação n. 0067374-21.2008.8.22.0501, violando um dos requisitos previstos para a concessão da benesse, qual seja, bons antecedentes.
+ ..
+Ora, a Corte de origem o Tribunal a quo, ao decidir acerca do afastamento do tráfico privilegiado, concluiu que a existência de processos em andamento impossibilita a utilização do referido benefício.
+Ocorre que a parte recorrente, em suas razões recursais, limita-se a alegar a impossibilidade da utilização quantidade de droga para fundamentar a não aplicação do art. 33, §4º, da Lei n. 11.343/2006. Assim, estando as razões recursais dissociadas dos fundamentos da decisão atacada, é de se aplicar, por analogia, o óbice previsto na Súmula n. 284/STF ("Inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia").
+Mesmo que superado tal óbice, a teor do entendimento firmado na Terceira Seção desta Corte Superior, ao julgar o EREsp n. 1.431.091/SP, em sessão realizada no dia 14/12/2016, inquéritos policiais e ações penais em curso podem ser utilizados para afastar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por indicarem que o agente se dedica a atividades criminosas. Precedentes: HC 453.370/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/08/2018, DJe 24/08/2018; HC 409.218/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/04/2018, DJe 10/04/2018.
+Assim, tendo o acusado processos criminais em andamento, deve ser mantida a figura do tráfico privilegiado, uma vez que indica a dedicação do acusado à atividade criminosa.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
