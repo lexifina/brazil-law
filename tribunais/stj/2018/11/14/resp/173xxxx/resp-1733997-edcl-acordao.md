@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE A SER SANADA. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA COMPANHIA REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradições existentes no julgado.
+2. Excepcionalmente, o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+3. O acórdão embargado deixou claro que, no caso dos autos, a parte ora embargante foi intimada da decisão em 21.5.2018, com o início do prazo em 22.5.2018, sendo o recurso interposto somente em 14.6.2018, quando já esgotado o prazo recursal de 15 dias úteis, previsto no art. 1.003, § 5o. do CPC/2015.
+4. Verifica-se não tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base em seu inconformismo com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+5. Embargos de Declaração opostos pelo Companhia rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Cuida-se de Embargos de Declaração no Agravo Interno no Recurso Especial opostos pela COMPANHIA MUNICIPAL DE TRANSITO E URBANIZACAO-CMTU-LD em desfavor da acórdão assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO INTERNO. AGRAVO INTERNO DA COMPANHIA NÃO CONHECIDO.
+1. No caso dos autos, a parte agravante foi intimada da decisão em 21.5.2018, com o início do prazo em 22.5.2018, sendo o recurso interposto somente em 14.6.2018, quando já esgotado o prazo recursal de 15 dias úteis, previsto no art. 1.003, § 5o. do CPC/2015.
+2. Agravo Interno da Companhia não conhecido.
+2. A parte embargante pede o suprimento da omissão a fim de que reconheça a tempestividade do Agravo Interno.
+3. Requer, ao final, o acolhimento dos presentes Embargos a fim de que lhe sejam concedidos efeitos infringentes a fim de que o Agravo de Interno seja conhecido.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE A SER SANADA. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA COMPANHIA REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradições existentes no julgado.
+2. Excepcionalmente, o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+3. O acórdão embargado deixou claro que, no caso dos autos, a parte ora embargante foi intimada da decisão em 21.5.2018, com o início do prazo em 22.5.2018, sendo o recurso interposto somente em 14.6.2018, quando já esgotado o prazo recursal de 15 dias úteis, previsto no art. 1.003, § 5o. do CPC/2015.
+4. Verifica-se não tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base em seu inconformismo com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+5. Embargos de Declaração opostos pelo Companhia rejeitados.
+1. De início, cumpre ressaltar que, nos termos do que decidido pelo Plenário do STJ, aplica-se o Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O art. art. 1.022 do Código Fux - CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+3. Destarte, infere-se que, não obstante a pacífica orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+4. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+5. Ressalte-se, por oportuno, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+6. Vale ainda esclarecer que, apenas excepcionalmente, os Aclaratórios podem ser utilizados para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e eficácia da prestação jurisdicional, hipótese diversa da apresentada nestes autos.
+7. O acórdão embargado deixou claro que, no caso dos autos, a parte ora embargante foi intimada da decisão em 21.5.2018, com o início do prazo em 22.5.2018, sendo o recurso interposto somente em 14.6.2018, quando já esgotado o prazo recursal de 15 dias úteis, previsto no art. 1.003, § 5o. do CPC/2015.
+8. Verifica-se não tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base em seu inconformismo com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+9. Diante dessas considerações, rejeitam-se os Embargos de Declaração opostos pelo Companhia.
+10. É o voto.
