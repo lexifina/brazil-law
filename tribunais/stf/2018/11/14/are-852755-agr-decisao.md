@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo regimental contra decisão constante no eDOC 103, na qual consignei não ser cabível recurso para o Supremo Tribunal Federal contra a aplicação do procedimento da repercussão geral nas instâncias de origem.
+    Não obstante, a parte interpõe o presente agravo regimental, no qual sustenta o direito à retroação do período básico de cálculo e a concessão do benefício mais vantajoso. Aduz ainda, a existência de direito adquirido.
+    Entretanto, verifico que as alegações da parte decorrem de mero inconformismo com o procedimento adotado por este Tribunal.
+    Para corroborar o entendimento, segundo o qual, não cabe recurso contra a decisão do Juízo a quo que aplica a sistemática da repercussão geral, cito os seguintes precedentes desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DO PROCEDIMENTO DA REPERCUSSÃO GERAL NAS INSTÂNCIAS DE ORIGEM. INADMISSIBILIDADE DE RECURSO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 718304 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 10.5.2013).
+    “AGRAVO INTERNO. DECISÃO DO JUÍZO DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO APLICANDO PRECEDENTE DE REPERCUSSÃO GERAL E ÓBICES PROCESSUAIS. INSUFICIÊNCIA DO AGRAVO DO ART. 544 DO CÓDIGO DE PROCESSO CIVIL DE 1973 PARA REVERSÃO DO JULGADO. 1. Ao examinar a admissibilidade de recurso extraordinário, a instância de origem negou-lhe seguimento em razão de três fundamentos: (a) necessidade de reexame de fatos (Súmula 279/STF); (b) ofensa constitucional meramente reflexa e (c) aplicação de precedente produzido sob o rito da repercussão geral. 2. Os fundamentos dirigem-se indistintamente ao recurso como um todo. Qualquer deles é, por si só, capaz de sustentar a inadmissão. 3. Nesse panorama, a reversão desse julgado requer a interposição de (I) agravo para o SUPREMO TRIBUNAL FEDERAL, relativamente aos dois primeiros óbices e (II) agravo interno, quanto ao precedente formado sob o procedimento da repercussão geral. 4. A interposição de agravo unicamente para o SUPREMO não tem aptidão para reformar o julgado, pois não cabe a esta CORTE analisar a aplicação do precedente de repercussão geral. 5. Agravo interno a que se nega provimento. Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11)”. (ARE 886465 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 12.6.2018) (Grifei).
+    Ante o exposto, não conheço do presente, por incabível.
+    À Secretaria, para que proceda à imediata baixa dos autos.
+    Publique-se.
+    Brasília, 14 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
