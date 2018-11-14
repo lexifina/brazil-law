@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ fl. 373):
+APELAÇÕES CRIMINAIS - RECURSOS DO MP E DO RÉU - JÚRI - HOMICÍDIO QUALIFICADO - REVISÃO DA DOSIMETRIA.
+I. Eventual erro cometido pelo Juiz-Presidente ao aplicar a pena, de sorte a afrontar a lei ou o veredicto dos jurados, pode receber as devidas corrigendas pelo Tribunal.
+II. O fato de o réu comercializar drogas não é capaz de macular a circunstância judicial da conduta social.
+III. A menoridade é atenuante de caráter predominante. Mister ajustar a redução.
+IV. Recurso do MP desprovido. Apelo da defesa parcialmente provido.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente a violação do artigo 59 do CP (e-STJ fls. 387/392).
+Sustenta, em síntese, que os motivos apresentados para a reprovação da culpabilidade, enquanto circunstância judicial do art. 59 do CP, contrariam os termos da decisão de pronúncia, a qual afastou do caso concreto a incidência da qualificadora do inc. IV do §2º do art. 121 do CP - emprego de recurso que dificulte ou torne impossível a defesa do ofendido.
+As contrarrazões foram apresentadas (e-STJ fls. 397/401), e o Tribunal local negou seguimento ao recurso especial (e-STJ fls. 403/404).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 427/429).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Ao que se nota, a pretensão recursal manifestada pela defesa envolve discussão sobre o ajuste entre a delimitação fática realizada pelo juízo da pronúncia e a aplicação da pena decorrente da condenação pelo Tribunal do Júri. Sustenta-se a existência de descompasso entre o afastamento da qualificadora do inc. IV do §2º do art. 121 do CP na conclusão do sumário de culpa e os motivos apresentados pelo juiz-presidente do Tribunal do Júri na valoração negativa da culpabilidade do agente, quando acentuou a reprovabilidade da conduta pelo fato do crime "ter sido cometido quando a vítima estava desacordada por ter sido anteriormente espancada e, assim, não pôde se defender" (e-STJ fl. 289).
+Entretanto, com efeito, assim como observado na decisão via da qual foi negado seguimento ao recurso especial, ainda no âmbito do Tribunal de origem (e-STJ fls. 403/404), observa-se que a tese não foi enfrentada pela instância ordinária. A pretensão recursal, nessa parte, ressente-se do indispensável prequestionamento da matéria recorrida. É de se acrescentar, aliás, que sequer foram opostos embargos de declaração para suprir a omissão. Incide, ao caso, os enunciados das Súmulas n. 282 e 356/STF e Súmula n. 211/STJ. Nesse sentido:
+PROCESSUAL CIVIL. PRETENSÃO DE APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS, NA VIA ESPECIAL. DESCABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211 DO STJ E 282 E 356 DO STF. NORMA REGIMENTAL. DEFESA SUA APRECIAÇÃO NO RECURSO ESPECIAL. SÚMULA 399 DO STF. AGRAVO REGIMENTAL IMPROVIDO.  ..  III. A ausência de manifestação, pelo Tribunal a quo, sobre as normas tidas por violadas, torna a alegação de afronta a esses dispositivos carente de prequestionamento, impossibilitando sua análise, em sede de Recurso Especial, em face do disposto nos enunciados das Súmulas 211 do STJ e 282 do STF. Incidência, ainda, da Súmula 356 do STF.  ..  V. Agravo Regimental improvido. (AgRg no Ag 1.135.885/MT, Rel. Ministra ASSUSETE MAGALHÃES, Sexta Turma, DJe 5/4/2013).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
