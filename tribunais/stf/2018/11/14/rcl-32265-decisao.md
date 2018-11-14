@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, ajuizada em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que, nos autos do Processo nº 2036664-06.2017.8.26.0000, julgou improcedente ação rescisória que questionava a competência de instância comum para dirimir demanda reparatória de sucessores de trabalhador falecido em ocorrência laboral, já ao tempo da Emenda Constitucional nº 45/2004.
+    Afirma-se ter a decisão ofendido o conteúdo da Súmula Vinculante nº 22/STF. Consoante o reclamante “as súmulas aprovadas, terão eficácia contra todos e efeito vinculante relativamente aos demais órgãos do Poder Judiciário e à Administração Pública Direta e Indireta, podendo o Supremo Tribunal Federal proceder a revisão ou cancelamento de decisões que descumpram essa disposição normativa por via de Reclamação Constitucional” (DOC 1, p. 5), ainda que o ato reclamado tenha transitado em julgado.
+    A reclamação foi endereçada ao Superior Tribunal de Justiça (eDOC. 1, p. 2), que dela não conheceu, por incompetência (eDOC 1, pp. 110-118) e determinou a remessa dos autos eletrônicos para esta Corte.
+    Dispenso o pedido de informações, bem como a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    Inicialmente, defiro o benefício da justiça gratuita, já reconhecido nos autos do processo de origem (eDOC 2, p. 26).
+    Em seguida, constata-se que o ato reclamado (eDOC 2, pp. 22-264) transitou em julgado em 20.4.2018, conforme informação obtida no sítio eletrônico do TJSP.
+    O equívoco no endereçamento da reclamação não afasta a preclusão máxima, sobretudo em casos como o presente, em que a competência é inequivocamente definida, não sendo objeto de discussão acadêmica ou jurisprudencial que pudesse justificar eventual dúvida.
+    Ademais, logo após a decisão que reconheceu a incompetência no e. STJ, cabia à parte reclamante ajuizar imediatamente a ação nesta Corte, justamente para evitar o trânsito em julgado do ato reclamado, o que não ocorreu.
+    Nesse cenário, e considerando que a presente reclamação foi protocolizada nesta Corte apenas em 17.10.2018 (eDOC 2, p. 1), apresenta-se incabível, porque incide, na hipótese, a Súmula 734 do STF, nos temros de iterativa jurisprudência:
+    “RECLAMAÇÃO COISA JULGADA. A reclamação não faz as vezes de rescisória. Verbete nº 734 da súmula do Supremo: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.” (Rcl 19.567 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 28.5.2015)
+    “RECLAMAÇÃO ALEGADO DESRESPEITO À AUTORIDADE DAS DECISÕES PROFERIDAS, PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE FISCALIZAÇÃO ABSTRATA ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, CUJO FUNDAMENTO DE VALIDADE RESIDE EM JULGAMENTO COLEGIADO JÁ TRANSITADO EM JULGADO AJUIZAMENTO DA RECLAMAÇÃO EM MOMENTO POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO EMANADA DO TRIBUNAL DE JUSTIÇA LOCAL INCIDÊNCIA, NA ESPÉCIE, DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF INADMISSIBILIDADE DA RECLAMAÇÃO COMO SUCEDÂNEO DA AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO PRECEDENTES RECURSO DE AGRAVO IMPROVIDO.” (Rcl 16.313 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 19.12.2014)
+    Ante o exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação, ficando prejudicado o pedido de liminar.
+    Publique-se. Intime-se.
+    Brasília, 14 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+ Documento assinado digitalmente
