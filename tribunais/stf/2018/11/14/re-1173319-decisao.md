@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PORTARIA N. 613/1999 DA SECRETARIA DA RECEITA FEDERAL DECLARADA INCONSTITUCIONAL POR ÓRGÃO FRACIONÁRIO POR CONTRARIEDADE AO PRINCÍPIO CONSTITUCIONAL DA MORALIDADE E AO INC. X DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. DISSONÂNCIA COM O ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Sétima Turma Suplementar do Tribunal Regional Federal da Primeira Região:
+    “TRIBUTÁRIO. AÇÃO CIVIL PÚBLICA. CENTRO DE ATENDIMENTO AO CONTRIBUINTE – CAC. VIOLAÇÃO AO SIGILO FISCAL. ART. 198 DO CTN. ATIVIDADE ESPECÍFICA DO PODER PÚBLICO. ART. 7º DO CTN. INDELEGÁVEL. PORTARIA 613/99 DA SRF. ILEGALIDADE E INCOSTITUCIONALIDADE (ART. 5, X DA CF). RECONHECIDA.
+    1. As atividades a serem desempenhadas neste convênio (art. 5º da Portaria nº 613, de 23 de junho de 1999, do Secretário da Receita Federal) são funções indelegáveis nos termos do art. 7º do CTN.
+    2. A execução dessas atividades por particulares violaria o sigilo fiscal previsto no art. 198 do CTN, onde dispõe que “é vedada a divulgação, por parte da Fazenda Pública ou de seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades”.
+    3. Infere-se do § 1º da Cláusula Terceira do ato normativo impugnado (fls. 23), que há várias informações e dados que serão divulgados, tanto que se preveem as cláusulas de confidenciabilidade e sigilo nos contratos firmados. Logo, se percebe a fragilidade do processo, em que se compromete de alguma forma o sigilo das informações relacionadas à situação econômica e financeira dos contribuintes.
+    4. In casu, o fato de os funcionários prestarem serviços de apoio não diminui o risco de quebra de sigilo fiscal, de forma que se comprometem os limites impostos pelo artigo 198 do CTN. É imperioso acrescentar, ainda, que o simples fato de se obter conhecimento de dados e informações restritas ao Poder Público já violaria o sigilo fiscal, independentemente da sua propagação.
+    5. Apelação não provida.
+    (…) Diante do potencial risco ao sigilo fiscal, à segurança do contribuinte e ofensa à moralidade administrativa, reconheço a inconstitucionalidade e ilegalidade do ato impugnado” (fls. 33-35, vol. 2).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A recorrente alega contrariados os incs. XXXV e LV do art. 5º, o inc. IX do art. 93 e o art. 97 da Constituição da República e sustenta a ilegitimidade do Ministério Público para propositura da ação em matéria tributária e a contrariedade à cláusula de reserva de plenário para a declaração de inconstitucionalidade da Portaria n. 613/1999 da Secretaria da Receita Federal.
+    3. Com o julgamento do ARE n. 694.294-RG, o Tribunal Regional Federal da Primeira Região, em juízo de retratação, decidiu:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. JUÍZO DE RETRATAÇÃO. AÇÃO CIVIL PÚBLICA. QUEBRA DE SIGILO FISCAL. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. ACÓRDÃO MANTIDO.
+    1. A questão trazida nos autos não se refere à legalidade e constitucionalidade de tributo, nos termos da tese firmada pelo STF no Tema 645, paradigma ARE 694294, DJe de 17/10/2014 que dispõe: o Ministério Público Federal não possui legitimidade ativa ad causam para, em ação civil pública, deduzir em juízo pretensão de natureza tributária em defesa dos contribuintes, que vise questionar a constitucionalidade/legalidade de tributo.
+    2. O cerne da questão está na legalidade ou não da Portaria 613, de 23 de junho de 1999, do Secretário da Receita Federal que permitiu que a Receita Federal compartilhasse com entidades privadas atividades exclusivas do Poder Público com a instalação do Centro de Atendimento ao Contribuinte – CAC.
+    3. A orientação firmada pelo órgão julgador está em harmonia com o que consolidado pelo Supremo Tribunal Federal.
+    4. Acórdão mantido” (fl. 103, vol. 2).
+     Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica assiste à recorrente.
+    5. O Tribunal de origem, por seu órgão fracionário, declarou a inconstitucionalidade da Portaria n. 613/1999 da Secretaria da Receita Federal com fundamento no princípio constitucional da moralidade e no inc. X do art. 5º da Constituição da República.
+    Este Supremo Tribunal assentou que “se considera declaratório de inconstitucionalidade o acórdão que, embora sem o explicitar, afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios alegadamente extraídos da Constituição” (RE n. 240.096, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 30.3.1999). A declaração de inconstitucionalidade por órgão fracionário de Tribunal, sem anterior declaração pelo órgão especial ou pelo plenário, contraria o art. 97 da Constituição da República. Assim, por exemplo:
+    “Agravo regimental no recurso extraordinário. Renovação de alvará. Lei Complementar distrital n. 294/2000. Violação da cláusula de reserva de plenário. Artigo 97 da Constituição Federal. Súmula vinculante n. 10 do STF. 1. Considera-se declaratório de inconstitucionalidade o acórdão advindo de órgão fracionário que, embora sem o explicitar, afaste a incidência da norma ordinária pertinente à lide. Precedentes. 2. Ofensa ao art. 97 da Constituição Federal, a atrair, para o caso, a incidência do verbete da Súmula Vinculante n. 10 desta Corte. 3. Agravo regimental não provido” (RE n. 601.894-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 1º.6.2012).
+    6. Em 18.6.2008 este Supremo Tribunal editou a Súmula Vinculante n. 10 nos seguintes termos:
+    “VIOLA A CLÁUSULA DE RESERVA DE PLENÁRIO (CF, ART. 97) A DECISÃO DE ÓRGÃO FRACIONÁRIO DE TRIBUNAL QUE, EMBORA NÃO DECLARE EXPRESSAMENTE A INCONSTITUCIONALIDADE DE LEI OU ATO NORMATIVO DO PODER PÚBLICO, AFASTA SUA INCIDÊNCIA, NO TODO OU EM PARTE”.
+    O entendimento posto no julgado recorrido divergiu dessa orientação jurisprudencial.
+    7. Pelo exposto, dou provimento ao recurso extraordinário (al. a do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal) para anular o acórdão recorrido e determino a remessa dos autos ao Tribunal de origem para decidir como de direito.
+    Publique-se.
+    Brasília, 14 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
