@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e Outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 162):
+RECURSO DE APELAÇÃO ADMINISTRATIVO VANTAGENS E REMUNERAÇÃO ADICIONAL POR LOCAL DE EXERCÍCIO (ALE) OFICIAIS ADMINISTRATIVOS VINCULADOS À SECRETARIA DA ADMINISTRAÇÃO PENITENCIÁRIA DESCABIMENTO.
+1. Trata-se de ação ajuizada por servidores públicos estaduais oficiais administrativos vinculados à Secretaria da Administração Penitenciária, lotados na Penitenciária APS de Dracena, em que pretendem a concessão e incorporação do Adicional de Local de Exercício, criado pela Lei Complementar estadual nº 693/92.
+Inadmissibilidade.
+2. O ALE consiste em benefício admitido aos integrantes da série de classes de Agente de Segurança Penitenciária que estejam exercendo suas atividades profissionais em Unidade do Sistema Penitenciário (USISP), em face do maior grau de dificuldade da atividade desempenhada pelo agende de segurança penitenciária, que desempenha suas funções em contato direto com a população carcerária.
+3. Impossibilidade de extensão do benefício aos funcionários não ocupantes do cargo de agente de segurança penitenciário.
+Inteligência da Lei Complementar nº 693/92 e da Súmula n. 339 do STF. Precedentes deste C. Tribunal de Justiça.
+Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º e 4º da Lei Complementar Estadual nº 693/92. Sustenta que o ""Adicional de Local de exercício" será paga a todos funcionários que trabalhem em Estabelecimentos prisionais do Estado de São Paulo que encontrem dificuldade de fixação em virtude do contato direito e permanente com a população carcerária." (fl. 189)
+É o relatório.
+Cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
