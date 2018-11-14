@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 00025944120168260417).
+Verifica-se dos autos que o paciente, após o julgamento da apelação, foi condenado às penas de 1 ano e 8 meses de reclusão, no regime inicial semiaberto, além do pagamento de 166 dias-multa, como incurso no art. 33, §4º, da Lei n. 11.343/2006.
+Alega-se na impetração, em suma, que estabelecida a sanção penal em 1 ano e 8 meses, verificada a primariedade do agente e sendo favoráveis as circunstâncias do art. 59 do Código Penal, o regime inicial aberto é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, § 2o, c, do Código Penal.
+É o relatório.
+A concessão de habeas corpus é cabível quando a decisão impugnada estiver eivada de ilegalidade flagrante, o que, da leitura que faço, é o caso dos autos.
+Como se vê, a pena foi estabelecida em 1 ano e 8 meses de reclusão. O paciente é primário e a pena-base foi fixada no mínimo legal (fls. 164/165). Nos termos do art. 33, § 2º, c, portanto, mostra-se possível a fixação do regime aberto.
+De acordo com a Súmula 719/STF, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea. A Suprema Corte, quando do julgamento do HC n. 111.840/ES, declarou incidenter tantum a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990 com a redação dada pela Lei n. 11.464/2007. Também o Supremo Tribunal Federal já declarou a inconstitucionalidade da proibição à substituição da reprimenda privativa de liberdade:
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ENTENDIMENTO CONSOLIDADO NO HABEAS CORPUS 97.256. INCONSTITUCIONALIDADE DA VEDAÇÃO. CONTROVÉRSIA CONSTITUCIONAL COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. (ARE 663261, Ministro Luiz Fux, DJe 06/02/2013).
+Observo, por fim, que foi vedada a substituição, bem como determinado o regime semiaberto, apenas com base na gravidade abstrata do crime, o que não constitui fundamentação idônea. Destaco que o próprio acórdão impugnado, ao fixar a pena em 1 ano e 8 meses, reconhece que a quantidade de droga (cocaína) apreendida (5 porções que estavam no tênis do paciente), embora significativa, não foi exagerada (fls. 164/165).
+Ante o exposto, concedo a ordem para fixar o regime aberto, cabendo ao Juízo da Execução verificar a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+Comunique-se.
+Publique-se.
