@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. TRIBUTÁRIO. ROYALTIES. CITY GATES. SUSPENSÃO DE DISPOSITIVOS DA LEI 12.734/12 EM MEDIDA LIMINAR. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 2ª Região, nesses termos ementado:
+ADMINISTRATIVO. ROYALTIES DO PETRÓLEO. OPERAÇÕES DE EMBARQUE E DESEMBARQUE. PONTO DE ENTREGA DE GÁS NATURAL.
+1. Pelo que aduz a ANP, a Resolução de Diretoria RDC nº 624/2013 foi editada em observância às disposições contidas no § 3º do artigo 48 e do § 7º do art. 49, ambos da Lei nº 9.478/97, com a redação dada pela Lei nº 12.734/2012.
+2. O Órgão Especial desta Corte, na Arguição de Inconstitucionalidade nº 2013.51.01.020985-6, já reconheceu, incidenter tantum, a inconstitucionalidade do § 3º do artigo 48 e do § 7º do art. 49, ambos da Lei nº 9.478/97, com a redação dada pela Lei nº 12.734/2012, que equiparam os pontos de entrega às concessionarias de gás natural produzido no Pais às instalações de embarque e desembarque, para fins de pagamento de royalties aos Municípios afetados por essas operações.
+3. Na forma do parágrafo único do art. 949 do CPC/2015, desnecessária nova submissão da questão ao Órgão Especial desta Corte.
+4. Agravo de instrumento desprovido.
+Sustenta a parte recorrente que o acórdão regional contrariou os arts. 48, §3º, e 49, §7º, ambos da Lei nº 9.478/1997, com redação dada pela Lei n.º 12.734/2012, além do art. 7º da Lei nº 7.990/1989, alegando em síntese que não é cabível a declaração de inconstitucionalidade por arrastamento no presente caso, em relação à ADI 4971, seja porque não é cabível pela via difusa, seja porque não há dependência entre os dispositivos cautelarmente suspensos por inconstitucionalidade e os artigos mencionados alhures. Aduz ainda, que a Lei 12.734/12 não tem incompatibilidade alguma com a Lei 7.990/89, pois apenas reclassificou como instalação de embarque e desembarque, os pontos de entrega às concessionárias de gás natural, ampliando o rol de Municípios aptos a receber royalties.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Verifica-se que a Corte a quo, ao julgar a controvérsia, entendeu em razão da medida liminar deferida nos autos da ADI 4971-MC/DF, no STF, é de se reconhecer incidentalmente a inconstitucionalidade da regra contida no § 3º do art. 48 e no §7º do art. 49, da Lei n.º 9.478/1997, incluídos pela Lei nº 12.734/2012.
+A propósito, confira-se trecho do acórdão recorrido (fl. 413-e):
+Da leitura dos referidos dispositivos, depreende-se que in casu se fazem presentes as mesmas razões que ensejaram o deferimento da medida cautelar nos autos da ADI nº 4.917/DF, quais sejam: o desequilíbrio federativo provocado pela nova distribuição e a evidente afronta que a mesma causa ao princípio da segurança jurídica, especialmente em relação às previsões orçamentárias dos entes federativos produtores.
+Como se verifica, a CF fala em participação dos Estados e Municípios no resultado ou compensação financeira pela exploração de petróleo e gás natural, ressalte-se, nos seus respectivos territórios. Assim, do próprio texto constitucional, tem-se que os direitos previstos no art. 20, § 1º, da CF cabem aos Estados e Municípios cujos territórios são afetados pela exploração dos referidos recursos.
+Tem-se que a finalidade do art. 20, § 1º, da CF é compensar Estados e Municípios pelos impactos ambientais e socioeconômicos decorrentes ou intensificados pela atividade de exploração de petróleo e gás natural.
+Tal fim constitucional restaria frustrado pelo rateio do produto dos royalties entre todos os entes federativos, sem qualquer consideração quanto aos riscos e encargos dos Estados e Municípios confrontantes da exploração marítima do petróleo e gás natural.
+Ademais, a interpretação no sentido de que devido o pagamento de royalties a entes federativos que na o participem da cadeia de produção do petróleo e gás natural ou sejam afetados pela mesma viola o princípio da isonomia, em sua perspectiva material.
+Desta feita, é inegável que o acórdão recorrido baseou o seu entendimento em fundamento de natureza eminentemente constitucional, o que afasta a possibilidade de análise da pretensão recursal em sede de recurso especial. Assim, a competência só poderia ser atribuída ao Supremo Tribunal Federal, pelo recurso próprio, conforme o que dispõe o art. 102, III, da Constituição Federal.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONTRIBUIÇÃO DESTINADA A FINANCIAR O PROGRAMA DE ESTÍMULO CIENTÍFICO E TECNOLÓGICO NO PAÍS. LEIS Nº S 10.168/00 E 10.332/01. CONTROVÉRSIA SOLVIDA PELA CORTE DE ORIGEM À LUZ DE FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DE EXAME DA MATÉRIA EM SEDE ESPECIAL.
+1. Não se conhece do recurso especial no caso em que o Tribunal de origem afasta a pretensão autoral de afastamento da CIDE incidente sobre royalties, instituída pela Lei nº 10.168/00, decidindo a controvérsia dos autos à luz de fundamento eminentemente constitucional, circunstância que torna inviável o exame da matéria em sede especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1496436/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 13/05/2015)
+ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. SISTEMA ÚNICO DE SAÚDE (SUS). RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. SÚMULA 83/STF. ALTO CUSTO. ENFOQUE CONSTITUCIONAL. RESERVA DO POSSÍVEL E NORMAS FINANCEIRAS. REEXAME DE PROVAS.
+1. A saúde pública consubstancia direito fundamental do homem e dever do Poder Público, expressão que abarca a União, os Estados-membros, o Distrito Federal e os municípios, todos em conjunto.
+2. Com relação à responsabilidade do município no fornecimento de medicamentos de alto custo, verifica-se que o Tribunal de origem decidiu a controvérsia sob o enfoque eminentemente constitucional, ao entender que o direito à saúde decorre do princípio da dignidade da pessoa humana. Competência do Supremo Tribunal Federal.
+3. Quanto à alegação baseada na reserva do possível e no descumprimento de normas financeiras, o Tribunal a quo deixou claro que, na hipótese dos autos, não ocorre a inviabilidade financeira.
+Modificar o acórdão, nesse aspecto, demanda o reexame das provas dos autos. Súmula 7/STJ.
+4. Registre-se, por fim, que o reconhecimento da repercussão geral pela Suprema Corte não enseja o sobrestamento do julgamento dos recursos especiais que tramitam neste Superior Tribunal de Justiça.
+Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 681.618/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/08/2015, DJe 13/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
