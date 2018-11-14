@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de TIAGO PINTO CARVALHO contra acórdão do Tribunal de Justiça do Estado do Espírito Santo.
+O impetrante busca, em síntese, a revisão da pena imposta nos autos da Ação Penal n. 0002426-22.2016.8.08.0035, na qual o paciente restou condenado a 8 anos e 3 meses de reclusão, em regime inicial fechado, como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Indeferido o pedido liminar e dispensadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do mandamus, nos termos da seguinte ementa:
+Habeas corpus substitutivo. Tráfico de drogas. Dosimetria. Pena-base no mínimo legal. Discricionariedade do julgador. Revisão. Impossibilidade. Revolvimento fático. Os vetores "quantidade" e "natureza" da droga, previstos no art. 42 da Lei 11.343/06, podem ser valorados na fixação da pena-base (1ª fase) e, nada obstante, também para não aplicar a minorante do tráfico privilegiado (3ª fase), sem que isso configure bis in idem. Precedentes. Aplicação de regime mais brando: Semiaberto. Impossibilidade. Pena mantida acima de 8 anos. Art. 33 § 2º, "a", do CP. Parecer pelo não conhecimento do habeas corpus (fl. 42).
+É o relatório.
+Decido.
+Mediante consulta aos assentamentos eletrônicos desta Corte, verifico que a irresignação já foi examinada no AREsp n. 1.045.125/ES, de minha Relatoria, ocasião em que neguei provimento ao recurso. Assim, em face da inadmissível reiteração, não há como conhecer dos pedidos.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA SENTENÇA. ABSOLVIÇÃO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A inicial do presente mandamus pugna pelo reconhecimento da nulidade da sentença e pela absolvição do paciente, sendo esse o mesmo pedido formulado no HC n. 334.031/SP, o que configura reiteração de pedido, processualmente inadmissível.
+II - Ademais, há também, no caso, supressão de instância, uma vez que o eg. Tribunal a quo não se pronunciou sobre as matérias ventiladas no presente writ, o que impede a análise, por esta Corte Superior de Justiça, pela vez primeira, de temas não debatidos pelas instâncias ordinárias.
+Agravo regimental desprovido. (AgRg no HC 335.596/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/04/2016).
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. MOTIVAÇÃO SUFICIENTE. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA NOVA LEI DE TÓXICOS. FIXAÇÃO DO QUANTUM DE REDUÇÃO. APLICAÇÃO, PELO JUÍZO SENTENCIANTE, NO PATAMAR DE 1/2 (METADE). PLEITOS DE FIXAÇÃO DO REGIME ABERTO E DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REITERAÇÃO DE PEDIDO JÁ JULGADO PELA QUINTA TURMA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA
+1. O art. 42 da Lei n.º 11.343/2006 impõe ao Juiz considerar, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da droga, tanto na fixação da pena-base, quanto na determinação do grau de redução da pena pela causa de diminuição prevista no § 4.º do art. 33 da nova Lei de Tóxicos.
+2. Na espécie, à luz do art. 42 da Lei n.º 11.343/2006, a natureza da substância entorpecente apreendida justifica a fixação da pena-base acima do mínimo legal, bem como a não aplicação do redutor no grau máximo (2/3).
+3. Não havendo ilegalidade patente na análise do art. 59 do Código Penal e no quantum de redução implementado pela aplicação da minorante prevista no art. 33, § 4.º, da Lei de Drogas, é vedado, na estreita via do habeas corpus, proceder ao amplo reexame dos critérios considerados para a sua fixação, por demandar análise de matéria fático-probatória.
+4. Quanto aos pleitos de fixação do regime aberto e de substituição da pena privativa de liberdade por restritivas de direitos, o habeas corpus consubstancia-se em mera reiteração de pedido, vez que se volta contra o mesmo acórdão de apelação, possui as mesmas partes, o mesmo fundamento e idêntico objeto ao do HC n.º 204.327/DF, Rel. Min. Laurita Vaz, denegado pela Quinta Turma do Superior Tribunal de Justiça, na sessão de 23 de agosto de 2011.
+5. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada (HC 216.332/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 23/08/2013).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
