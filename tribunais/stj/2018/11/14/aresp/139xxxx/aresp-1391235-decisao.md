@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão inadmitiu recurso especial com fundamento na incidência das Súmulas 7 e 83/STJ.
+Nas razões do agravo, sustenta que pretende a revaloração jurídica do quadro fático delineado no acórdão recorrido, e não o simples reexame, além do que não há falar em aplicação da Súmula 83/STJ na espécie, na medida em que o recurso especial foi manejado com base na alínea "a" do permissivo constitucional.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+O Tribunal de origem manteve a condenação do recorrente como incurso no art. 157, § 3º, segunda parte, c/c o art. 14, II, do Código Penal, às penas de 13 anos e 4 meses de reclusão, em regime inicialmente fechado, e de 50 dias-multa.
+Na razões do recurso especial, sustenta o recorrente ofensa aos arts. 29, §2º, do Código Penal, sob o argumento de que o conjunto probatório revela que a sua contribuição visava à realização DE UM CRIME DE ROUBO, não lhe sendo desejada a concretização do resultado mais grave (fl. 401), pelo que pleiteia a desclassificação da conduta para a prevista no art. 157, § 2º, I e II, c/c o art. 14, II, do Código Penal.
+Quanto ao ponto, assim se pronunciou o Tribunal de origem (fl. 381/384):
+O presente recurso foi interposto em face da sentença que condenou o recorrente como incurso nas sanções do art. 157, § 3º, segunda parte, c/c o artigo 14, II, do Código Penal. Nas razões do apelo, a Defesa alegou que, embora o recorrente seja réu confesso da participação no evento criminoso, a sua intenção era a de, tão só, praticar o crime de roubo, postulando, por essa razão, a incidência da figura prevista no artigo 29, § 2º, do Código Penal.
+Todavia, razão não ampara o pedido recursal.
+É que, segundo a própria versão do apelante, ele e seu comparsa estavam armados, e, apesar de negar ter trocado tiros com o policial lá presente, as vítimas são categóricas em afirmar a sua ocorrência, versão que guarda total sintonia com as demais provas que arrimam os autos.
+A cooperação dolosamente distinta, figura prevista no artigo 29, § 2º, do Código Penal, é um beneficio conferido pela lei penal ao agente que, pretendendo e desejando praticar determinado crime, concretiza um delito mais grave, todavia sem a menor condição de prevê-lo. Em hipótese tal, o agente responde pelo crime que pretendeu dolosamente praticar, e não pelo que, imprevisivelmente, concretizou.
+Ora, se o apelante, juntamente com o seu comparsa, deslocou-se até um estabelecimento comercial para roubá-lo fazendo o uso de arma de fogo municiada, ao menos assumiu o risco de produzir um resultado mais gravoso que a subtração patrimonial de alguém. Mais ainda quando reage com tiros à presença de um policial também armado.
+Frise-se, no ponto, que, ao avistar a presença de um policial dentro do local onde se deu o crime, a reação do recorrente e seu comparsa foi a de matar ou de assumir a possibilidade de tal resultado, tanto que, com a arma em punho, trocou tiros com o agente policial, não o acertando por falta de habilidade.
+Os Tribunais pátrios caminham no mesmo sentido, afastando o reconhecimento da cooperação dolosamente distinta nas hipóteses em que o agente pretende cometer roubo à mão armada e ocorre resultado mais gravoso. A propósito, confira-se a jurisprudência de Tribunais pátrios:
+ ..
+A situação fática retratada nos autos afasta, por completo, a possibilidade de reconhecimento da cooperação dolosamente distinta do apelante, cuja figura típica, para incidir, exige a ausência total de aderência/participação/previsão do agente no crime mais grave. É assim que entende a Corte Superior de Justiça:
+ ..
+Improcedente, portanto, o pedido de aplicação do artigo 29, § 2º, do Código Penal, assim como, pelas mesmas razões, o pedido de desclassificação da imputação que recai sobre o apelante na sentença recorrida.
+Assim, não há falar em aplicação do instituto da cooperação dolosamente distinta na espécie, pois não ficou devidamente comprovado nos autos que o recorrente não queria concorrer para o delito, ao revés, como ressaltou a Corte de origem, inegável a responsabilidade do apelante no crime de latrocínio tentado, nos exatos termos dispostos no artigo 157, § 3º, segunda parte, c/c o artigo 14, II, do Código Penal, evidenciada a partir de uma certeza construída com as provas dos autos, não havendo que se falar em cooperação dolosamente distinta daquele que assentiu e efetivamente contribuiu para a produção de resultado mais gravoso (fl. 384).
+Nesse contexto, a pretendida reforma do julgado é inviável no especial, ante o óbice da Súmula 7/STJ. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI N. 8.137/90. SONEGAÇÃO FISCAL 1) VIOLAÇÃO AO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. JUNTADA AOS AUTOS DE PROCEDIMENTO ADMINISTRATIVO FISCAL E DE AÇÃO PENAL. ACUSADO QUE NÃO ERA PARTE NOS REFERIDOS FEITOS. CABIMENTO. 2) DISSÍDIO JURISPRUDENCIAL NA APLICAÇÃO DO ART. 12, I, DA LEI N. 8.137/90. 2.1) CAUSA DE AUMENTO APLICÁVEL PARA VALORES SONEGADOS INFERIORES A 10 MILHÕES DE REAIS. 3) DISSÍDIO JURISPRUDENCIAL. INCLUSÃO DE MULTA NO VALOR SONEGADO. AUSÊNCIA DE PREQUESTIONAMENTO. 4) VIOLAÇÃO AO ART. 29, I, DO CÓDIGO PENAL - CP. PARTÍCIPE. RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 5) AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A condição de partícipe não enseja, por si só, o reconhecimento das causas de diminuição do art. 29 do CP.
+4.1. In casu, o reconhecimento da participação de menor importância demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem, com base na prova dos autos, apresentou fundamentação concreta para entender que a participação foi relevante na concretização do delito.
+5. Agravo regimental desprovido. (AgRg no REsp 1642427/PE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/06/2018, DJe 25/06/2018).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
