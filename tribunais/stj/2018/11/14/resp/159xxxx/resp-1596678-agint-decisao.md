@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. POSSIBILIDADE DE DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ PELO SEGURADO NA HIPÓTESE DE ERRO ADMINISTRATIVO. RECURSO AFETADO À SISTEMÁTICA DE RECURSO REPETITIVO: RESP. 1.381.734/RN, REL. MIN. BENEDITO GONÇALVES. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Agravo Interno no Recurso Especial interposto pelo INSS contra a decisão que negou provimento ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. INEXIGIBILIDADE DE DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ PELO SEGURADO. CARÁTER ALIMENTAR DO BENEFÍCIO. MORMENTE NA HIPÓTESE DE ERRO ADMINISTRATIVO. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+2. Pugna o INSS pelo sobrestamento do feito em face da existência do Tema 979, que trata da devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da Administração da Previdência Social, cujo representativo é o REsp 1.381.734/RN.
+3. Requer, desse modo, a reconsideração da decisão ora atacada com o sobrestamento do feito até o julgamento do REsp. 1.381.734/RN, representativo da controvérsia, que versa sobre matéria semelhante à versada nos autos.
+4. É o relatório.
+5. Em razão da matéria discutida nos autos, torno sem efeito a decisão de fls. 427/431.
+6. Efetivamente, o tema relativo à devolução (ou não) de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da Administração da Previdência Social, foi afetado pelo eminente Ministro BENEDITO GONÇALVES à sistemática do art. 1.036 e seguintes do CPC/2015, tendo sido destacado como paradigma o REsp. 1.381.734/RN. Confira-se a ementa do acórdão que recebeu o mencionado recurso como representativo da controvérsia:
+PREVIDENCIÁRIO. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ. EM RAZÃO DE INTERPRETAÇÃO ERRÔNEA, MÁ APLICAÇÃO DA LEI OU ERRO DA ADMINISTRAÇÃO DA PREVIDÊNCIA SOCIAL.
+1. Delimitação da controvérsia: Devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da Administração da Previdência Social.
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes CPC/2015 e art. 256-I do RISTJ, incluído pela Emenda Regimental 24, de 28/09/2016.
+7. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+8. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia aprecie o Recurso Especial na forma dos arts. 1.040 e 1.041 do CPC/2015.
+9. Publique-se.
+10. Intimações necessárias.
