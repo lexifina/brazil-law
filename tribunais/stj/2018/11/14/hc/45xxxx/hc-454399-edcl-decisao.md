@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME], RAMOM GOMES FERREIRA e LAURO DAMASCENO DOS SANTOS ao decisum de e-STJ fls. 71/72 que julgou prejudicado o presente mandamus, com aplicação da Súmula n. 52/STJ.
+Em suas razões, a defesa alega, em síntese, que, embora a decisão embargada tenha concluído pelo encerramento da instrução, a Juíza processante converteu o julgamento em diligência para requerer certidões de objeto e pé de outros processos.
+Insiste, portanto, na existência de excesso de prazo para a formação da culpa, ressaltando que os pacientes estão presos desde dezembro de 2016.
+Diante disso, requer o acolhimento dos embargos para que seja concedida a ordem do mandamus.
+É o relatório. Decido.
+Consoante prevê o art. 619, do Código de Processo Penal, o recurso de embargos de declaração é restrito às hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado, ou ainda, segundo a jurisprudência, para corrigir erro material.
+Na hipótese dos autos, os embargantes reiteram sua irresignação com relação à suposta demora para o julgamento da ação penal, situação que foi devidamente analisada no decisum embargado, o qual verificando o oferecimento das alegações finais pelas partes assentou que "com o encerramento da instrução criminal, resta superada a alegação de excesso de prazo para a formação da culpa, nos termos do enunciado n. 52 da Súmula desta Corte" (e-STJ fl. 72).
+Verifica-se, portanto, que a irresignação submetida ao crivo do Superior Tribunal de Justiça foi devidamente analisada, embora tenha se firmado entendimento em sentido contrário ao da defesa. Dessarte, não há se falar em acolhimento dos presentes embargos, porquanto a mera irresignação com o entendimento apresentado na decisão não autoriza a oposição de embargos de declaração.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EDcl no AgInt nos EDcl no AREsp 1076319/MG, Rel. Ministro Lázaro Guimarães, DJe 22/08/2018).
+Assim, resolvidas as questões com fundamentação satisfatória, caso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+Destarte, os presentes embargos declaratórios não merecem acolhimento, porquanto não evidenciada a ocorrência de nenhum dos vícios previstos no art. 619 do CPP.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
