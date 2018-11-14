@@ -1,0 +1,25 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. [CPF].
+A Defensoria Pública se insurge contra o reconhecimento de falta grave praticada pelo paciente, consistente em fuga. Afirma que o paciente foi recapturado no mesmo dia, "com prisão em flagrante pela prática de um crime doloso". Assim, "há manifesta desproporção entre o fato praticado e a sanção aplicada" ao apenado (fl. 2).
+Para a impetrante, "a regressão de regime não é corolário obrigatório do reconhecimento da falta grave" (fl. 3) e é abusiva a alteração da data-base para nova progressão de regime. Requer o afastamento da falta grave e de todos os seus consectários legais.
+Decido.
+O Tribunal de Justiça decidiu a controvérsia em acórdão assim ementado:
+ ..
+Não há dúvidas de que a fuga do regime prisional constitui falta grave, prevista no art. 50, inciso II, da LEP. Destaco que a fuga promovida pelo apenado é ato que ostenta alto grau de reprovação, uma vez que aniquila os fins precípuos da execução da pena.
+Afastada a alegação da defesa, é de ser mantido o reconhecimento da falta grave, por conseguinte, determinada a regressão do regime e a alteração da data-base, pois consectário legal. Precedentes (fl. 79).
+O habeas corpus comporta pronta solução, pois existe jurisprudência pacífica sobre o tema, além de tese jurídica firmada em recurso especial repetitivo.
+A Lei de Execução Penal preconiza o sistema progressivo, cuja ideia central é atenuar o modo de cumprimento da reprimenda estabelecida na sentença, a depender do lapso temporal e do comportamento satisfatório do apenado. Os arts. 50, 112, 118, I, e 127, por sua vez, define a fuga como falta disciplinar grave, além de estabelecer suas consequências legais.
+Reconhecido que o paciente, "fugiu do estabelecimento prisional em 13/5/2018, tendo sido capturado no dia seguinte" (fl. 80-81), porque foi preso em flagrante "pela prática de um crime doloso" (fl. 2), é de rigor o reconhecimento do ato de indisciplina e a aplicação das consequências previstas em lei.
+Nos termos da jurisprudência desta Corte: "compete ao Juízo das Execuções Criminais determinar a regressão de regime prisional, quando cometida pelo apenado falta disciplinar de natureza grave devidamente apurada em procedimento administrativo disciplinar (art. 118, inciso I, da Lei de Execução Penal), todavia, a lei não concede ao Juízo da Execução a discricionariedade acerca da possibilidade de deixar de impor tal regressão diante da comprovada prática de falta grave pelo condenado" (AgRg no REsp n. 1528454/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 25/5/2018).
+Esta Corte já decidiu que: "Não cabe ao magistrado proceder à análise do conteúdo da falta disciplinar para verificar a possibilidade de regressão, já que o dispositivo em comento não concede essa margem de discricionariedade ao julgador (HC n. 210.062/SC, Rel. Ministro Gurgel de Faria, 5ª T., DJe 6/4/2015).
+Confira-se:
+2. Uma vez reconhecida a prática de falta grave, devidamente apurada por meio de procedimento administrativo disciplinar, devem ser aplicadas todas as consequências legais daí decorrentes (LEP, art. 48, parágrafo único).
+3. "Conforme descrito no art. 118, I, da LEP, a execução da pena privativa de liberdade fica sujeita à forma regressiva, podendo ocorrer para qualquer dos regimes mais rigorosos, sendo certo que não cabe ao magistrado proceder à análise do conteúdo da falta disciplinar para verificar a possibilidade de regressão, já que o dispositivo em comento não concede essa margem de discricionariedade ao julgador" (HC 210.062/SC, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 19/03/2015, DJe 06/04/2015).
+4. Ressalte-se, porém, que alteração da data-base do prazo para a concessão de benefícios executórios não se aplica ao livramento condicional (Súmula 441/STJ) nem à comutação de pena/indulto (Súmula 535/STJ).
+Precedentes.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para afastar a interrupção do lapso temporal para fins de livramento condicional, indulto e comutação da pena.
+(HC n. 377.301/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/4/2017).
+Deveras: "O cometimento de falta grave pelo apenado (a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; (b) autoriza a regressão de regime e (c) a revogação de até 1/3 dos dias remidos (art. 127 da LEP)" (HC n. 414.299/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 20/6/2018).
+Quanto à alteração da data-base, o aresto estadual está em conformidade com tese jurídica consolidada pela Terceira Seção em julgamento de recurso especial repetitivo (Tema n. 709), de que "A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo" (REsp n. 1364192/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 17/9/2014).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
