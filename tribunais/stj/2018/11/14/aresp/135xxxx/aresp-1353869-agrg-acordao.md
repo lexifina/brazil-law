@@ -1,0 +1,32 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO AGRAVO REGIMENTAL. ART. 258 DO RISTJ. CINCO DIAS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravo regimental deve ser interposto no prazo de 5 (cinco) dias, conforme estabelecido no art. 258 do RISTJ, o que não ocorreu no caso.
+2. Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática proferida por esta Relatoria, às fls. 422-425 e 442-443 (e-STJ), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a defesa insiste na tese de violação do art. 2º, I, do Decreto-lei 261/67. Assevera que o prejuízo sofrido pelo réu é evidente ante a ausência de oportunização para a autodefesa e para a defesa técnica.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO AGRAVO REGIMENTAL. ART. 258 DO RISTJ. CINCO DIAS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravo regimental deve ser interposto no prazo de 5 (cinco) dias, conforme estabelecido no art. 258 do RISTJ, o que não ocorreu no caso.
+2. Agravo regimental não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Reproduzindo o prazo de cinco dias previsto no art. 39 da Lei n. 8.038/90, o art. 258 do Regimento Interno do Superior Tribunal de Justiça, assim dispõe:
+"Art. 258. A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a." (Redação dada pela Emenda Regimental n. 24, de 2016)
+Com efeito, este Superior Tribunal de Justiça tem entendido que, o agravo regimental em matéria criminal deve ser interposto no prazo de 5 (cinco) dias. A propósito:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECURSO INTEMPESTIVO. NÃO CONHECIMENTO.
+(..)
+2. Não se conhece de agravo regimental intempestivo, interposto fora do quinquídio regimental.
+3. Agravo regimental não conhecido." (PET no REsp 1.553.547/MA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/05/2017, DJe 11/05/2017);
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO AGRAVO REGIMENTAL. ART. 39 DA LEI N. 8.038/1990. CINCO DIAS. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o disposto no art. 39 da Lei n. 8.038/1990, o qual fixa o prazo de 5 dias para a interposição do agravo regimental, que, no âmbito criminal, não foi alterado pelo Novo Código de Processo Civil. Precedentes da 3ª Seção.
+2. Agravo regimental não conhecido." (AgRg no RCD nos EDcl nos EDcl no AREsp 875.488/SP, de minha relatoria, QUINTA TURMA, julgado em 20/04/2017, DJe 28/04/2017).
+No caso concreto, a decisão agravada foi publicada em 8/10/2018 (e-STJ, fl. 444). O prazo para interposição do agravo teve início em 9/10/2018 e término em 15/10/2018. Entretanto, o agravo foi protocolizado tão somente em 23/10/2018 (e-STJ, fls. 449-465), portanto, fora do prazo legal.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
