@@ -1,0 +1,15 @@
+DECISÃO
+[NOME] opõe embargos declaratórios contra decisão em que concedi a ordem de habeas corpus.
+Nos aclaratórios, a defesa aponta omissão no decisum, por não haver tratado do pedido de alteração do regime inicial de cumprimento da pena.
+Decido.
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, quando houver ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+Na espécie, observo que os embargos declaratórios comportam acolhimento.
+De fato, a questão atinente à possibilidade de alteração do modo inicial de cumprimento de pena não foi examinada no decisum de fls. 54-58.
+A matéria foi assim assentada na sentença condenatória (fl. 26): "Em sendo equiparado a hediondo o crime atribuído ao réu, impõe-se a fixação de seu regime inicial de cumprimento de pena como sendo o inicialmente fechado, nos termos do artigo 2º, § 1º, da Lei 8.072/90, com a redação que lhe foi dada pela Lei 11.464/2007". O Tribunal de origem nada disse a respeito do tema.
+Embora a questão não haja sido considerada pelo Tribunal a quo, observo a ocorrência de flagrante ilegalidade no ponto, a justificar a manifestação diretamente por esta Corte Superior.
+Com efeito, a fixação do regime mais gravoso foi motivada na hediondez do delito. Todavia, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990 foi declarada pelo Plenário do Supremo Tribunal Federal há mais de 6 anos (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012).
+Impõe o registro de que tal postura do órgão judicante de origem, de descumprimento deliberado de decisão do Pleno do STF, em nada contribui para a higidez do sistema de justiça criminal e traduz menosprezo à jurisdição da Suprema Corte do país, a quem compete, por definição da Lei Maior, a função de, em última análise, dar interpretação às normas constitucionais.
+Desse modo, por ser inidôneo o motivo apontado na sentença para justificar o regime mais gravoso, estabeleço o modo semiaberto para o início do cumprimento da pena, por ser o compatível com o quantum de pena imposta ao réu - 6 anos e 4 meses de reclusão. Apesar de não olvidar que a valoração negativa da culpabilidade do acusado e das circunstâncias do crime justificaria a imposição do modo mais severo, deixo de utilizar esse dado para manter o regime fechado.
+Com efeito, a jurisprudência desta Corte é firme em considerar que o acréscimo de fundamentos, no julgamento de habeas corpus, não se presta a suprir a ausente motivação do Juízo natural, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do acusado. Ilustrativamente: HC n. 377.398/PE (Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 21/3/2017).
+À vista do exposto, acolho os embargos declaratórios para, suprida a omissão apontada, estabelecer o regime semiaberto para o início do cumprimento da pena.
+Publique-se e intimem-se.
