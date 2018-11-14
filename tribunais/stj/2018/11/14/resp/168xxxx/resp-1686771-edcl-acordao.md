@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ICMS. SERVIÇOS DE COMPOSIÇÃO GRÁFICA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ADI 4389/SP.
+1. Hipótese em que o acórdão embargado concluiu: a) não se pode conhecer da irresignação contra a ofensa aos arts. 244, 249 e 552 do CPC/1973, pois esses dispositivos legais não foram analisados pela instância de origem, sendo certo que a parte não opôs Embargos de Declaração visando a provocar a manifestação do Tribunal a quo acerca de tal artigo. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF; b) o Supremo Tribunal Federal, por ocasião do julgamento da Medida Cautelar na ADI 4.389/SP, firmou posicionamento de que se sujeitam ao recolhimento do ICMS as operações de industrialização por encomenda de embalagens destinadas à integração ou utilização direta em processo subsequente de industrialização ou de posterior circulação de mercadoria. Seguindo a orientação do STF, ambas as Turmas integrantes da Primeira Seção reformularam o entendimento exarado no Recurso Repetitivo 1.092.206/SP para adequá-lo ao que ficou consolidado no julgamento da referida ADI.
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão proferido pela Segunda Turma do STJ assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ICMS. SERVIÇOS DE COMPOSIÇÃO GRÁFICA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ADI 4389/SP.
+1. Hipótese em que a recorrente pleiteia a não incidência de ICMS sobre a atividade de prestação de serviços gráficos personalizados.
+2. Não se pode conhecer da irresignação contra a ofensa aos arts. 244, 249 e 552 do CPC/1973, pois esses dispositivos legais não foram analisados pela instância de origem, sendo certo que a parte não opôs Embargos de Declaração visando a provocar a manifestação do Tribunal a quo acerca de tal artigo. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+3. O Tribunal de origem concluiu ser devida a incidência de ICMS sobre as atividades da recorrente por entender que "não há dúvida que as etiquetas e embalagens que identificam os produtos, participam da circulação e compõem o preço negocial. A embargada afirma que vende produtos personalizados, que na forma dos impressos gráficos, não circulam. No entanto, os produtos (sacolas personalizadas) identificam e revestem o produto. até o consumidor final, ou seja, realizam circulação" (fl.662, e-STJ).
+4. O Supremo Tribunal Federal, por ocasião do julgamento da Medida Cautelar na ADI 4.389/SP, firmou posicionamento de que se sujeitam ao recolhimento do ICMS as operações de industrialização por encomenda de embalagens destinadas à integração ou utilização direta em processo subsequente de industrialização ou de posterior circulação de mercadoria. Seguindo a orientação do STF, ambas as Turmas integrantes da Primeira Seção reformularam o entendimento exarado no Recurso Repetitivo 1.092.206/SP para adequá-lo ao que ficou consolidado no julgamento da referida ADI.
+5. Recurso Especial parcialmente conhecido e nessa parte não provido.
+A embargante alega:
+Consta do V. Acórdão embargado:
+"Não se pode conhecer da irresignação contra a ofensa aos arts. 244, 249 e 552 do CPC/1973, pois esses dispositivos legais não foram analisados pela instância de origem, sendo certo que a parte não opôs Embargos de Declaração visando a provocar a manifestação do Tribunal a quo acerca de tal artigo. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Sobre essa parte foram opostos embargos de declaração, em 13 de fevereiro de 2015, conforme texto às páginas 4 e 5 da petição de embargos de declaração:
+(..)
+No agravo interno interposto em relação a essa r. decisão monocrática, datado de 4 de março de 2015, a embargante arguiu a nulidade do julgamento virtual, matéria que foi tratada no V. Acórdão de 1º de junho de
+2015. A questão foi também levantada no recurso especial.
+Dessa forma, a embargante opôs embargos de declaração e todos os recursos necessários sobre a questão, tendo sido as questões também ventilada nas decisões do segundo grau de jurisdição, ocorrendo prequestionamento implícito.
+Dessa forma, não havia necessidade de análise explícita, no V. Acórdão de origem, dos dispositivos contrariados, pois a matéria foi nele tratada.
+(..)
+Com o devido respeito, não se aplica a jurisprudência do E. Supremo Tribunal Federal, de acordo com os argumentos que constam do tópico "Inaplicabilidade da jurisprudência do E. Supremo Tribunal Federal", nas páginas 11 a 21 da petição do recurso especial. O V. Acórdão embargado teria partido de premissas equivocadas, conforme exposto abaixo.
+Pleiteia o acolhimento dos aclaratórios.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.12.2017.
+Tratando-se de recurso de fundamentação vinculada, o conhecimento dos aclaratórios pressupõe que a parte demonstre haver, pelo menos, um dos vícios previstos no art. 1022 do CPC de 2015, in verbis:
+Art. 1022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Esclareço que ao contrário do que aduz a embargante, não foram opostos Embargos Declaratórios contra o acórdão de fls. 660-663, e-STJ.
+No mais, conforme consignado na decisão embargada, não se pode conhecer da irresignação contra a ofensa aos arts. 244, 249 e 552 do CPC/1973, pois esses dispositivos legais não foram analisados pela instância de origem, sendo certo que a parte não opôs Embargos de Declaração visando a provocar a manifestação do Tribunal a quo acerca de tal artigo. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF. Ademais, o Tribunal de origem concluiu ser devida a incidência de ICMS sobre as atividades da recorrente por entender que "não há dúvida que as etiquetas e embalagens que identificam os produtos, participam da circulação e compõem o preço negocial. A embargada afirma que vende produtos personalizados, que na forma dos impressos gráficos, não circulam. No entanto, os produtos (sacolas personalizadas) identificam e revestem o produto. até o consumidor final, ou seja, realizam circulação" (fl.662, e-STJ).
+O Supremo Tribunal Federal, por ocasião do julgamento da Medida Cautelar na ADI 4.389/SP, firmou posicionamento de que se sujeitam ao recolhimento do ICMS as operações de industrialização por encomenda de embalagens destinadas à integração ou utilização direta em processo subsequente de industrialização ou de posterior circulação de mercadoria. Seguindo a orientação do STF, ambas as Turmas integrantes da Primeira Seção reformularam o entendimento exarado no Recurso Repetitivo 1.092.206/SP para adequá-lo ao que ficou consolidado no julgamento da referida ADI.
+Verifica-se a intensão explícita da embargante em rediscutir a lide, o que não é permitido nesta via recursal. Cito precedentes:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. RESÍDUO DE 3,17%. MP N. 2.225-45/2001. LIMITAÇÃO TEMPORAL. IMPOSSIBILIDADE. REESTRUTURAÇÃO DA CARREIRA ANTERIOR AO TRÂNSITO EM JULGADO. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUPRIDA. ALEGAÇÃO DE APLICAÇÃO DA SÚMULA 7. NÃO OCORRÊNCIA.
+(..)
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, materializada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração (EDcl no RHC 41656/SP. Rel. Ministra Laurita Vaz. Quinta Turma. DJe de 3/6/2014).
+3. Embargos de declaração da Universidade Federal de Santa Maria rejeitados. Embargos de declaração de [NOME] e Outros acolhidos para suprir a omissão, mantendo-se os honorários fixados na origem, os quais serão invertidos em razão do provimento do recurso especial.
+(EDcl nos EREsp 1.072.536/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 01/07/2015).
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE CONTRADIÇÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIA DE CONTRADIÇÃO NO JULGADO NO JULGADO.
+1. Não há contradição no julgado. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada a controvérsia. O embargante, inconformado, busca com a oposição destes embargos declaratórios ver reapreciada e decidida a controvérsia de acordo com sua tese. Todavia, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia.
+2. Há omissão no tocante ao termo inicial da correção monetária da indenização por dano moral. Segundo a Súmula n. 362/STJ, "a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento ".
+Embargos de declaração parcialmente acolhidos.
+(EDcl no REsp 1.435.687/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/6/2015).
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
