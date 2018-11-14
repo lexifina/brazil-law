@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2207927-72.2018.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 12 anos e 6 meses de reclusão, em regime inicial fechado, e multa, pela prática dos crimes previstos nos arts. 158, § 1º, e 297, ambos do Código Penal, e 14 da Lei n. 10.826/2006, todos em concurso material (e-STJ fls. 39/50).
+Irresignadas, as partes interpuseram apelações, sendo improvido o recurso da defesa e parcialmente provido para reconhecer a prática de crimes de roubo triplamente qualificado, razão pela qual a pena definitiva do paciente foi aumentada para 13 anos e 9 meses de reclusão e multa (e-STJ fls. 57/62).
+O paciente afirma que a pena definitivamente aplicada ao paciente foi reduzida para 6 anos e 8 meses de reclusão em decorrência de recursos julgados pelo Superior Tribunal de Justiça e pelo Supremo Tribunal Federal.
+Após, a defesa do paciente requereu ao Juízo sentenciante a alteração do regime inicial em virtude do nova pena aplicada que, segundo a impetrante, não excede 8 anos de reclusão. Entretanto, tal pedido foi indeferido, sob o entendimento de que o Juízo exauriu sua jurisdição sobre a matéria, competindo ao juízo das execuções apreciar o pedido formulado pela defesa (e-STJ fl. 51).
+Irresignada, a defesa impetrou habeas corpus na Corte local, cuja ordem foi liminarmente denegada (e-STJ fls. 83/86).
+No presente mandamus (e-STJ fls. 3/20), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois a negativa de análise da questão suscitada na origem ensejou a indevida manutenção do regime inicial fechado. Afirma que o regime prisional deveria ser novamente apreciado, com base na pena definitivamente estabelecida pelos Tribunais Superiores.
+Ao final, formula pedido liminar para que o paciente aguarde em regime semiaberto o julgamento deste writ e, no mérito, pede a redução da pena, a alteração do regime prisional para inicial semiaberto, com exame da detração prevista no art. 387, § 2º, do CPP pelo Juízo das Execuções Criminais e o estabelecimento da data do início do cumprimento provisório da pena como marco inicial para efeito de progressão.
+É o relatório. Decido.
+Na espécie, não vejo como dar seguimento ao presente writ, pois as razões da presente impetração e respectivo pedido, além de dissociados, não foram objeto de debate pela Corte local, que entendeu pela inadequação da via eleita.
+Ademais, eventual constrangimento ilegal não resulta evidente, pois o Juízo sentenciante apresentou motivação suficiente e adequada para não apreciar o pedido formulado pela defesa.
+Por fim, a impetrante sequer instruiu o presente feito com cópias das decisões proferidas pelo Superior Tribunal de Justiça e Supremo Tribunal Federal, o que também revela deficiência na instrução do habeas corpus, cujo rito pressupõe prova pré-constituída do direito alegado.
+Portanto, inexistente pronunciamento do Tribunal de origem sobre o mérito da questão ora aventada e não sendo detectado, de plano, flagrante constrangimento ilegal, além da deficiente instrução do feito, resulta inviável a apreciação do tema no âmbito desta Corte, sob pena de supressão de instância.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
