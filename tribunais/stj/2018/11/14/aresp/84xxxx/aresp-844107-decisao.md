@@ -1,0 +1,40 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PRELIMINAR - Ilegitimidade "ad causam" - Legitimidade passiva da coapelante AGRE - Demandadas que guardam pertinência subjetiva com o negócio jurídico objeto da ação - Inteligência dos artigos 7o, § único, e 25, § Io, ambos do CDC - Preliminar rejeitada.
+COMPROMISSO DE COMPRA E VENDA - Pedido de indenização por danos morais e materiais decorrentes do atraso na entrega do apartamento - Mera alegação de que o retardo não decorrera de vontade das apelantes não elide a obrigação de cumprimento do prazo - Infração contratual a configurar a mora creditoris das rés - Cláusula penal moratória de 0,5% do preço do bem, ao mês, pelo período de atraso na entrega do imóvel - Devida a partir da expiração do prazo de tolerância de 180 dias até a data da efetiva entrega do apartamento - Dano moral - Não ocorrência - Mero dissabor que não enseja abalo emocional indenizável - Recurso parcialmente provido para excluir a condenação no pagamento de indenização por dano moral e fixar o termo inicial para a incidência da multa a partir de março de 2012." (e-STJ, fl. 225)
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 186, 421 e 422 do Código Civil de 2002 e 333, inciso I do Código de Processo Civil de 1973, sustentando, em síntese, (a) que o contrato não é regido pelo CDC, mas sim pelo CC/02, (b) que os contratantes possuem plena liberdade para estipular normas que produzam efeitos entre si, tendo sido observados os princípios da função social do contrato, probidade e boa-fé, (c) que a regularização da documentação não dependia apenas da parte agravante, mas sim da administração pública local, sendo excluída a responsabilidade por força maior e (d) que os danos materiais não podem ser reconhecidos apenas em razão de sua alegação, devendo ser comprovados, o que não ocorreu.
+Foram apresentadas contrarrazões às fls. 262/266.
+É o relatório. Decido.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, observa-se que a parte recorrente alega que o CDC não se aplica ao presente caso e que ocorreu excludente de responsabilidade (força maior), mas não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Com relação à suposta violação aos arts. 333, I do CPC/73 e 421 e 422 do CC/02, tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Por fim, quanto a suposta violação ao art. 186 do CC/02, Tribunal de origem concluiu que restou configurado ato ilícito consubstanciado no atraso injustificado na entrega do imóvel, in verbis:
+"O ato ilícito das incorporadoras resta configurado pelo atraso injustificado na entrega do imóvel negociado com o requerente, mesmo apos o prazo de tolerância de 180 dias.
+(..)
+Destarte a condenação das apelantes no pagamento de multa pelo atraso na entrega de obra deve ser mantida. Todavia deve ser observado que seu termo inicial é da data da entrega do bem considerando o prazo de carência de 180 dias, portanto, a partir do final do mês de fevereiro de 2012." (e-STJ, fl. 287)
+Nesse ponto, a decisão acima está em consonância com o entendimento deste Superior Tribunal de Justiça, no sentido de que a ausência de entrega do imóvel na data acordada acarreta indenização por lucros cessantes, pois se reputa presumido o prejuízo do promitente-comprador. Incidência, portanto, da Súmula 83/STJ.
+Vejamos:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. A Corte Estadual concluiu pela legitimidade passiva da recorrente para a causa. A reforma do acórdão impugnado, neste aspecto, demandaria inegável necessidade de reexame de matéria fática probatória, providência esta inviável em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+2. O reconhecimento de caso fortuito ou força maior no atraso da entrega do imóvel exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. A conclusão do órgão julgador quando ao termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7 do STJ.
+4. Na hipótese, o Tribunal local seguiu orientação desta Corte, no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+5. Incidência da Súmula 182 do STJ e do teor do artigo 1.021, § 1º, CPC/15 quanto às alegações de que os honorários advocatícios devem ser calculados com base no valor da condenação na hipótese dos autos. Razões do agravo interno que não impugnam os fundamentos da decisão monocrática no referido ponto.
+6. Agravo interno parcialmente conhecido e, nesta extensão, desprovido.
+(AgInt no AREsp 915.248/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/12/2017, DJe 01/02/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
