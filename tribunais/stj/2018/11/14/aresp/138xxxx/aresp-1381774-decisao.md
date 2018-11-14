@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 207, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO POR DANOS MORAIS E MATERIAIS - INDENIZAÇÃO DEVIDA - PLANO DE ASSISTÊNCIA FUNERAL - DESCUMPRIMENTO CONTRATUAL - NEGATIVA DA SEGURADORA EM PRESTAR ASSISTÊNCIA DEVIDA - DANO MORAL - CONFIGURADO - REDUÇÃO DO QUANTUM INDENIZATÓRIO A TÍTULO DE DANO EXTRAPATRIMONIAL - ACOLHIMENTO - REDUÇÃO PARA R$ 15.000,00 - VALOR FIXADO PELO JUÍZO MONOCRÁTICO EM DESACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE - DANO MATERIAL - CONFIGURADO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.UNANIMIDADE.
+Em suas razões de recurso especial (fls. 211/225, e-STJ), o recorrente apontou, além de dissídio jurisprudencial, violação aos artigos 186, 187, 844, 927 e 944 do Código Civil e 5º da Constituição Federal. Sustentou, em síntese, a necessidade de afastar ou reduzir a indenização arbitrada a título de dano moral, uma vez que não houve conduta culposa do agravante que ensejasse o dever de indenizar.
+Contrarrazões às fls. 242/252, e-STJ.
+Em juízo de admissibilidade (fls. 255/258, e-STJ), negou-se o processamento do recurso especial, ante a incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 263/270, e-STJ), buscando destrancar o processamento do apelo especial, no qual o insurgente alega ter preenchido os pressupostos de admissibilidade. Refuta o óbice supracitados.
+Contraminuta às fls. 278/285, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, o Tribunal local, com amparo nos elementos de convicção dos autos, decidiu pela presença dos requisitos ensejadores da reparação civil, relativamente à falha na prestação do serviço funerário, definindo o quantum indenizatório segundo critérios de razoabilidade.
+Confira-se trecho extraído do aresto hostilizado (fls. 208/209, e-STJ):
+Conforme a análise dos autos, a empresa não comprovou que os nomes dos dependentes eram os que realmente desejava incluir a autora, bem como não indicou a relação de parentesco entre [NOME] e a atuora, cujo nome foi incluído na relação de dependentes no lugar do filho da requerente, [NOME].
+A prova seria de fácil produção para a empresa ré, sobre cuja parte recaía o ônus da prova por se tratar de relação de consumo, competindo-lhe juntar aos autos a documentação entregue pela autora por ocasião da contratação comprovando que a relação de dependentes expressava a fiel vontade da consumidora contratante.
+Não é crível que alguém indique como dependente, e pague por este custo, pessoa absolutamente estranha do seu convívio, desconhecida, deixando de contemplar como beneficiário, em contrapartida, seu próprio filho e, por força da idade, seguramente seu dependente econômico.
+Em sendo a parte contratante analfabeta, maior cuidado e cautela se exigia da empresa ré por ocasião da contratação, o que, de certo, não se operou na hipótese.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+2. Incide o enunciado da Súmula 7 do STJ relativamente ao exame da pretensão voltada à redução da condenação em danos morais fixados em R$ 15.000,00 (quinze mil reais).
+Não obstante o grau de subjetivismo que envolve o tema, uma vez que não existem critérios predeterminados para a quantificação do dano moral, esta Corte Superior tem reiteradamente se pronunciado no sentido de a indenização deve ser suficiente a restaurar o bem estar da vítima, desestimular o ofensor em repetir a falta, não podendo, ainda, constituir enriquecimento sem causa ao ofendido.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+Assim, se o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (REsp 259.816/RJ, Rel. Ministro Sálvio de Figueiredo Teixeira, DJ de 27/11/2000).
+Dessa forma, para modificar as conclusões consignadas no acórdão impugnado e concluir estar exagerado o quantum indenizatório como quer a parte agravante, seria necessária a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial (Súmula nº 7 do STJ).
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA INDEVIDA. CORTE INJUSTO. INCLUSÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. RESPONSABILIDADE DA CONCESSIONÁRIA RECONHECIDA PELO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE INVERSÃO DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. VALOR DOS DANOS MORAIS. RAZOABILIDADE. MODIFICAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. O Tribunal de origem com base nas provas existentes, entendeu ser imputável à concessionária a responsabilidade pela cobrança indevida de energia elétrica, bem como pelo corte injusto e negativação da parte no cadastro de inadimplentes..A inversão do julgado nos moldes pretendidos pela recorrente demandaria o revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+2. A alteração do montante estabelecido a título de indenização por danos morais somente é possível, em Recurso Especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revelar-se irrisória ou exorbitante, o que não ocorre no presente caso.
+3. O óbice da Súmula 7 do STJ atinge também o Recurso Especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição da República porque impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+4. Recurso Especial não provido.
+(REsp 1645829/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 25/04/2017)
+3. Por fim, importante consignar que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. OMISSÃO E CONTRADIÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. DANO MORAL. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+3. A modificação do entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, demandaria o revolvimento do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. É impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno ao qual se nega provimento.
+(AgInt no AREsp 1152399/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018; grifou-se)
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
