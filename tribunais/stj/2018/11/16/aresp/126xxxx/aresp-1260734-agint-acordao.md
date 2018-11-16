@@ -1,0 +1,115 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA. ENTREGA DE IMÓVEL. ATRASO. CULPA CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Trata-se, na origem, de ação de rescisão de contrato de promessa de compra e venda, motivada pelo atraso na entrega do imóvel.
+3. Na hipótese, o tribunal local, a partir da análise dos termos contratuais e das provas dos autos, concluiu pela culpa das empresas no atraso na entrega da obra, vedando a retenção de valores por parte das rés e condenando-as ao pagamento de lucros cessantes. Inteligência dos arts. 395, 402 e 475 do Código Civil.
+4. O entendimento jurisprudencial desta Corte é firme no sentido de que há prejuízo presumido do promitente comprador pelo descumprimento de prazo para entrega do imóvel objeto de contrato de promessa de compra e venda a ensejar o pagamento de danos emergentes e de lucros cessantes, cabendo ao vendedor fazer prova de que a mora contratual não lhe é imputável para se eximir do dever de indenizar. Precedentes.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por TOLEDO INVESTIMENTOS IMOBILIÁRIOS LTDA. e TECNISA S.A. contra a decisão que conheceu do agravo para não conhecer do recurso especial (fls. 941-948 e-STJ).
+A controvérsia diz respeito à ação de rescisão de contrato de promessa de compra e venda, motivada pelo atraso na entrega do imóvel, cuja apelação recebeu a seguinte ementa:
+"APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC DE 1973. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. PRELIMINAR DE VÍCIO DE JULGAMENTO EXTRA PETITA. RECONHECIMENTO. DECOTE DO EXCESSO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEITADA. PREJUDICIAL DE PRESCRIÇÃO DA PRETENSÃO À RESTITUIÇÃO DOS VALORES PAGOS A TÍTULO DE COMISSÃO DE CORRETAGEM. ACOLHIMENTO. TESE FIRMADA EM JULGAMENTO SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. MÉRITO. ATRASO NA ENTREGA DO IMÓVEL. INADIMPLEMENTO DA CONSTRUTORA RÉ. CONFIGURAÇÃO. DIREITO À CLÁUSULA PENAL, ARRAS OU, SUBSIDIARIAMENTE, RETENÇÃO DOS VALORES PAGOS. DESCABIMENTO. LUCROS CESSANTES. DEVIDOS. SUCUMBÊNCIA MÍNIMA DO RÉU. HONORÁRIOS RECURSAIS. DESCABIMENTO. RECURSO DOS AUTORES CONHECIDO E PROVIDO. RECURSO DOS RÉUS CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA PARCIALMENTE REFORMADA.
+1. Sabendo-se que a r. sentença foi proferida antes da vigência do Novo Código de Processo Civil, os atos processuais praticados e situações jurídicas consolidadas sob a égide da legislação processual anterior continuam por ela regulados, em observância à teoria do isolamento dos atos processuais.
+2. No julgamento extra petita, o juiz defere uma providência totalmente estranha, não só ao pedido, mas também aos seus fundamentos, não guardando correlação com o julgamento da causa, enquanto que no julgamento ultra petita a sentença vai além do que foi pedido, ou seja, sobrepuja em quantidade a tutela reclamada.
+3. Em observância aos princípios processuais do dispositivo, da adstrição e da congruência, o magistrado não pode ultrapassar o marco imposto pelas partes, tendo que decidir a lide nos limites em que foi deduzida. E no caso
+específico dos autos, houve violação aos princípios mencionados. Isso porque não houve pedido, na inicial, de declaração de nulidade da cláusula contratual que estabelece tolerância de 180 (cento e oitenta) dias e, na sentença, a sentenciante declarou a validade dessa cláusula, ensejando, equivocadamente, o reconhecimento de sucumbência parcial dos pedidos autorais. Nesse caso, deve se proceder ao decote da sentença da parte extra petita.
+4. A legitimidade passiva da segunda requerida restou comprovada mediante a juntada dos boletos de pagamento da unidade habitacional emitida em seu nome, bem como correspondências e troca de emails. Ademais, não se pode perder de vista que a relação travada entre as partes é de consumo, conforme pacífico entendimento no âmbito desta Corte de Justiça, e assim sendo, os fornecedores integrantes da cadeia de consumo respondem solidariamente pela reparação dos danos gerados ao consumidor, consoante disposto nos artigos 7º, parágrafo único, e 25, §1º, ambos do CDC.
+5. Rejeita-se a preliminar de ilegitimidade passiva ad causam, suscitada em decorrência do pedido de devolução de valores pagos a título de corretagem, diante da responsabilidade do fornecedor de produtos e serviços pelos atos de seus prepostos. Inteligência do art. 34 do CDC.
+6. Adotando-se a tese firmada pelo Colendo Superior Tribunal de Justiça no julgamento dos Recursos Especiais Repetitivos n.º 1599511/SP e 1551956/SP, necessária a reforma da sentença, para se considerar prescrita a pretensão relativa à devolução dos valores pagos a título de comissão de corretagem, tendo em vista que foi ultrapassado o prazo trienal previsto no art. 206, § 3º, IV, do Código Civil.
+7. Não tendo sido o imóvel entregue na data prevista, e inexistindo qualquer caso fortuito ou motivo de força maior capaz de exonerar as rés de sua responsabilidade, necessário reconhecer a existência da mora.
+8. No caso dos autos, restou comprovado que o descumprimento do contrato se deu, exclusivamente, por culpa das rés, que não observaram o prazo de entrega pactuado, autorizando-se, portanto, a aplicação do art. 475 do Código Civil. Nessas circunstâncias, não tem os réus direito receber qualquer quantia a título de cláusula penal. Aquele que ao seu livre arbítrio deixou de cumprir as obrigações convencionadas é quem deve se submeter aos consectários do inadimplemento, jamais o contrário.
+9. Inexiste, igualmente, direito dos réus em reter as arras. Isso porque ultrapassada a fase preliminar do contrato e firmada a promessa de compra e venda, o valor pago a título de sinal é incorporado como parte do pagamento do preço do imóvel, nos termos do art. 417 do Código Civil, sendo objeto de devolução quando do desfazimento da avença.
+10. Nos casos de rescisão contratual por culpa exclusiva da construtora que não entregou a obra no prazo previsto em contrato, não há que se falar em direito à retenção de valores por parte desta.
+11. O inadimplemento da construtora, que não entregou o imóvel objeto do contrato de compra e venda no prazo estabelecido no contrato, enseja o direito dos autores de serem ressarcidos pelos danos materiais causados pelo atraso na entrega. No caso dos lucros cessantes, o quantum indenizatório deve corresponder ao ganho que o adquirente deixou de ter por não poder exercer a posse do imóvel.
+12. Nos termos do artigo 21, parágrafo único, do CPC/1973, vigente quando
+da prolação da sentença, "Se um litigante decair de parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e honorários".
+13. A teoria do isolamento dos atos processuais, expressa no art. 14 do Novo CPC, impede sejam aplicados honorários recursais, consoante orientação do Colendo Superior Tribunal de Justiça firmada pelo Enunciado Administrativo nº. 7/16, segundo o qual "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+14. Recurso dos autores conhecido e provido. Recurso dos réus conhecido e parcialmente provido. Vício de julgamento extra petita reconhecido. Decote da sentença. Preliminar de ilegitimidade passiva rejeitada. Prejudicial de prescrição acolhida. Sentença parcialmente reformada. Unânime" (fls. 741-743 e-STJ).
+Na decisão ora impugnada, concluiu-se pela impossibilidade de êxito da irresignação recursal, porquanto aplicáveis as Súmula nºs 5, 7 e 568/STJ.
+Nas razões do presente recurso (fls. 952-957e-STJ), as agravantes insistem na tese de que os arts. 402 e 475 do Código Civil foram violados. Afirmam que não houve inadimplemento absoluto e que incorreram tão somente em mora. Sustentam que as perdas e danos devidas ao credor abrangem o que ele efetivamente perdeu e o que deixou de lucrar. Por essa razão, alegam que não cabe a indenização por lucros cessantes no pedido de rescisão contratual, conforme cláusula constante do pacto.
+Insurgem-se contra aplicação das Súmulas nºs 5, 7 e 568/STJ e requerem o provimento do recurso para reforma da decisão atacada.
+Não houve impugnação (fl. 961 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA. ENTREGA DE IMÓVEL. ATRASO. CULPA CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Trata-se, na origem, de ação de rescisão de contrato de promessa de compra e venda, motivada pelo atraso na entrega do imóvel.
+3. Na hipótese, o tribunal local, a partir da análise dos termos contratuais e das provas dos autos, concluiu pela culpa das empresas no atraso na entrega da obra, vedando a retenção de valores por parte das rés e condenando-as ao pagamento de lucros cessantes. Inteligência dos arts. 395, 402 e 475 do Código Civil.
+4. O entendimento jurisprudencial desta Corte é firme no sentido de que há prejuízo presumido do promitente comprador pelo descumprimento de prazo para entrega do imóvel objeto de contrato de promessa de compra e venda a ensejar o pagamento de danos emergentes e de lucros cessantes, cabendo ao vendedor fazer prova de que a mora contratual não lhe é imputável para se eximir do dever de indenizar. Precedentes.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O agravo interno não merece prosperar.
+O tribunal local, a partir da análise dos termos contratuais e das provas constantes dos autos, cuja revisão esbarra nos óbices das Súmulas nºs 5 e 7/STJ, concluiu pela culpa das empresas no atraso na entrega da obra, vedando a retenção de valores por parte das rés e condenando-as ao pagamento de lucros cessantes, observando, assim, a inteligência dos arts. 395, 402 e 475 do Código Civil.
+No ponto, eis o seguinte excerto do acórdão recorrido:
+"(..)
+ATRASO DA OBRA E DA RESPONSABILIDADE DAS RÉS:
+Incontroverso, nos autos, que efetivamente houve o atraso na entrega do imóvel, fato admitido pelos réus na peça de contestação.
+A defesa das rés fundamenta-se, basicamente, na alegação de que não teriam culpa no atraso da obra. Alegam que o atraso se deu em decorrência dos eventos como a alta dos preços dos materiais de construção e escassez de mão de obra especializada.
+É assente o posicionamento desta Eg. Corte de Justiça no sentido de que eventos da crise econômica mundial não são argumentos capazes de afastar a responsabilidade da entrega do imóvel pela ré/apelante.
+Do mesmo modo é o entendimento em relação à falta de mão de obra qualificada e insumos, pois tais hipóteses não são capazes de consubstanciar a ocorrência de força maior, visto que são previsíveis nessa seara de atuação, estando inserido no risco do empreendimento, não podendo ser repassados ao consumidor, ou utilizados como motivação para isentar a ré apelante do atraso na entrega do empreendimento.
+(..)
+Desta forma, não tendo sido o imóvel entregue na data prevista, e inexistindo qualquer caso fortuito ou motivo de força maior capaz de exonerar a ré de sua responsabilidade, necessário reconhecer a existência da mora.
+RESCISÃO CONTRATUAL:
+O Código Civil autoriza a parte inocente a requerer a resolução do contrato, nos casos em que não mais tiver interesse no cumprimento da obrigação.
+Transcrevo:
+Art. 475. A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos.
+No caso dos autos, restou comprovado que o descumprimento do contrato deu-se, exclusivamente, por culpa da ré, que não observou o prazo de entrega pactuado, autorizando-se, portanto, a aplicação do art. 475 do Código Civil.
+Resta, portanto, necessária a análise do pagamento da multa e eventual retenção de valores pagos.
+(..)
+(..) RETENÇÃO DOS VALORES PAGOS:
+(..)
+Finalmente, descabido o pedido subsidiário de retenção de valores em face da rescisão contratual. A jurisprudência firmou entendimento no sentido de ser possível a retenção do percentual de 25% do que foi pago nos casos em que o comprador está inadimplente ou nos que ele deseja rescindir o contrato por livre e espontânea vontade, o que não ocorre no caso dos autos.
+Saliento que, no presente caso, o contrato está sendo rescindido por culpa exclusiva das rés apelantes, que descumpriram o prazo para entrega do empreendimento, frustrando as expectativas dos autores, que cumpriram com todas as suas obrigações contratuais.
+(..)
+DOS LUCROS CESSANTES:
+O Código Civil estabelece os casos em que deverá ocorrer responsabilização por prejuízos causados.
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores monetários segundo índices oficiais regularmente estabelecidos, e honorários de advogado.
+Parágrafo único. Se a prestação, devido à mora, se tornar inútil ao credor, este poderá enjeitá-la, e exigir a satisfação das perdas e danos.
+No caso dos autos, as rés estão em mora, pois não entregaram o imóvel objeto do contrato de compra e venda no prazo estabelecido no contrato, gerando o direito dos autores de serem ressarcidos pelos danos materiais causados pelo atraso na entrega.
+No caso dos lucros cessantes, o quantum indenizatório deve corresponder ao ganho que o adquirente deixou de ter por não poder exercer a posse do imóvel" (fls. 761-767 e-STJ).
+Assim, não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tais conclusões, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Por fim, não há como afastar a aplicação da Súmula nº 568/STJ, pois o entendimento jurisprudencial desta Corte é firme no sentido de que há prejuízo presumido do promitente comprador pelo descumprimento de prazo para entrega do imóvel objeto de contrato de promessa de compra e venda a ensejar o pagamento de danos emergentes e de lucros cessantes, cabendo ao vendedor fazer prova de que a mora contratual não lhe é imputável para se eximir do dever de indenizar.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. ENTREGA DO IMÓVEL. ATRASO INJUSTIFICADO. LUCROS CESSANTES. PRECEDENTES. RESPONSABILIDADE DA CONSTRUTORA. EXCLUSÃO. SÚMULA Nº 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O entendimento desta Corte firmou-se no sentido de que há prejuízo presumido do promitente comprador pelo descumprimento de prazo para entrega do imóvel objeto de contrato de promessa de compra e venda a ensejar o pagamento de danos emergentes e de lucros cessantes, cabendo ao vendedor fazer prova de que a mora contratual não lhe é imputável para se eximir do dever de indenizar. Precedentes.
+3. Inviável acolher a pretensão recursal para rever as conclusões firmadas pelas instâncias ordinárias a partir das provas dos autos, haja vista a incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido".
+(AgInt no AREsp 1.146.916/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/11/2017, DJe 4/12/2017).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Inviável a interpretação de cláusulas contratuais e o reexame de matéria de fato em sede de recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+2. O valor arbitrado a título de reparação civil observou os critérios de proporcionalidade e de razoabilidade, além de estar compatível com as circunstâncias narradas no acórdão, não se revelando exorbitante. Assim, a sua eventual redução demandaria a reanálise de provas, o que é vedado em recurso especial ante o óbice da Súmula 7/STJ.
+3. Na hipótese, o Tribunal local seguiu orientação desta Corte, no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+3.1. A conclusão do órgão julgador quando ao termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7 do STJ.
+4. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento, a teor do disposto na Súmula 543 do STJ.
+5. Agravo interno desprovido".
+(AgInt no AREsp 1.114.698/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. 1. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. PRESUNÇÃO. SÚMULA 83/STJ. 2. INADIMPLEMENTO DO PROMITENTE COMPRADOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. AGRAVO DESPROVIDO.
+1. A inexecução do contrato pelo promitente vendedor que não entrega o imóvel na data estipulada enseja lucros cessantes a título de alugueres, os quais deixariam de ser pagos ou que poderia o imóvel ter rendido se tivesse sido entregue na data contratada, sendo prescindível a comprovação do dano, pois são presumíveis. Incidência da Súmula 83/STJ.
+2. Estando ausente o indispensável prequestionamento da matéria trazido no recurso especial, torna-se inafastável a incidência da Súmula 211/STJ.
+3. Agravo interno desprovido".
+(AgInt no AREsp 1.254.010/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/5/2018, DJe 25/5/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. NÃO OCORRÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. LUCROS CESSANTES. MATÉRIA QUE DEMANDA REEXAME DE FATOS, PROVAS, E CLÁUSULAS CONTRATUAIS. SÚMULAS 5, 7 E 83 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, a convicção a que chegou o acórdão em relação a não ocorrência de caso fortuito ou força maior e a configuração do inadimplemento contratual decorreu da análise de elementos fáticos-probatórios dos autos e da interpretação de cláusulas contratuais, de modo que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que obsta a admissibilidade do especial ante o teor das Súmulas 5 e 7 desta Corte.
+2. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+3. No presente caso, o Tribunal de origem, amparado no acervo fático-probatório dos autos, concluiu pela existência de danos morais, decorrentes do longo atraso na entrega da unidade imobiliária.
+Assim, alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Ademais, incidente a Súmula 83/STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp 1.121.461/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/4/2018, DJe 2/5/2018 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/73). AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. DANOS MATERIAIS E MORAIS. DANO MORAL. MAJORAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. LUCROS CESSANTES. FIXAÇÃO EM ALUGUÉIS. CABIMENTO. CONGELAMENTO DO SALDO DEVEDOR. DEFICIENTE FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N.º 284/STF. QUITAÇÃO OUTORGADA. REVISÃO DO JULGADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. OCORRÊNCIA DE DANOS MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afasta-se a incidência do Enunciado n.º 7/STJ, somente quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos.
+2. Incide o Enunciado n.º 284/STF, por deficiência na fundamentação, quando o recorrente não apresenta, com clareza e objetividade, quais razões amparam a insurgência, limitando-se a tecer alegações genéricas.
+3. O atraso na entrega do imóvel objeto de contrato de promessa de compra e venda acarreta, além do dano emergente, a condenação da promitente vendedora ao pagamento de lucros cessantes, a título de aluguéis, que deixariam de pagar ou que poderia o imóvel ter rendido.
+4. Muito embora o entendimento de que o simples descumprimento contratual não provoca danos morais indenizáveis, tem-se que, na hipótese de atraso na entrega de unidade imobiliária, o STJ tem entendido que as circunstâncias do caso concreto podem configurar lesão extrapatrimonial.
+6. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+7. AGRAVO INTERNO DESPROVIDO".
+(AgInt no REsp 1.651.964/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/3/2018, DJe 27/03/2018 - grifou-se)
+Nesse contexto, não prosperam os argumentos postos no presente recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
