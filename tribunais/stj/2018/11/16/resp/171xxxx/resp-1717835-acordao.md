@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO. BENEFÍCIO ANTERIOR À CF/1988. MENOR E MAIOR VALOR-TETO. DECISÃO FUNDAMENTADA EM INTERPRETAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. COMPETÊNCIA DO STF. PRESCRIÇÃO QUINQUENAL A CONTAR DO AJUIZAMENTO DA AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE.
+1. Na hipótese dos autos, o Tribunal de origem esclareceu que o entendimento do STF também é aplicado aos benefícios concedidos antes da vigência da Constituição Federal de 1988, época em que a legislação previdenciária também estabelecia tetos limitadores, no caso o menor e o maior valor-teto, aplicáveis ao salário de benefício (arts. 21 e 23 da CLPS/1984, arts. 26 e 28 da CLPS/1976 e art. 23 da LOPS).
+2. Outrossim, extrai-se do acórdão objurgado que o entendimento da Corte a quo está integralmente fundamentado em dispositivos constitucionais e interpretação conferida pelo Supremo Tribunal Federal à quaestio iuris, razão pela qual descabe ao STJ se manifestar sobre a vexata questio, sob pena de invasão da competência do STF.
+3. O Superior Tribunal de Justiça possui a orientação de que "a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1.642.625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2017, DJe 12/6/2017).
+4. Recurso Especial parcialmente conhecido e, nessa parte, provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, deu-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 224, e-STJ):
+PREVIDENCIÁRIO. DECADÊNCIA. PRESCRIÇÃO. REVISÃO. BENEFÍCIOS ANTERIORES À CF/88. MENOR E MAIOR VALOR TETO. NOVOS TETOS. JUROS E CORREÇÃO MONETÁRIA. LEI 11.960/2009. CRITÉRIOS DE ATUALIZAÇÃO. DIFERIMENTO PARA A FASE PRÓPRIA (EXECUÇÃO). HONORÁRIOS ADVOCATÍCIOS.
+1. Não há decadência porquanto não se trata de revisão do ato de concessão, e sim de reajustes posteriores.
+2. A prescrição é interrompida para as ações individuais pelo ajuizamento de ação coletiva n. 0004911 -28.2011.4.03.6183.
+3. Entendimento do STF também é aplicado aos benefícios concedidos antes da vigência da Constituição Federal de 1988, época em que a legislação previdenciária também estabelecia tetos limitadores, no caso o menor valor teto, aplicáveis ao valor do salário-de-benefício (arts. 21 e 23 da CLPS/84, arts. 26 e 28 da CLPS/76 e art. 23 da LOPS).
+4. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei n. 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+5. Invertidos os ônus sucumbenciais, estabeleço a verba honorária em 15% (quinze por cento) sobre as parcelas vencidas, considerando as variáveis dos incisos I a IV do §2º- do artigo 85 do NCPC.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte recorrente, em Recurso Especial, violação dos arts. 104 da Lei 8.078/1990; 103, parágrafo único, da Lei 8.213/1991; 219 do CPC/1973; 21, 23 e 25 do Decreto 89.312/84 (CLPS), artigos que regulavam a forma do cálculo do benefício concedido na época; o artigo 6º da LICC, o qual fundamenta o princípio do tempus regit actum, e o artigo 29, § 2º, da Lei 8.213/1991. Defende, ainda, a incidência da prescrição quinquenal.
+Contrarrazões às fls. 310-325, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.1.2018.
+Trata o presente Recurso Especial do inconformismo do INSS quanto ao acórdão prolatado do Tribunal Regional Federal no tocante ao deferimento do pedido de revisão de aposentadoria da parte autora, a fim de corrigir o benefício aos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, sem limitação ao maior valor teto, apesar do benefício ter sido concedido antes da Constituição Federal de 1988.
+Inicialmente, nota-se que o Tribunal de origem esclareceu que o entendimento do STF também é aplicado aos benefícios concedidos antes da vigência da Constituição Federal de 1988, época em que a legislação previdenciária também estabelecia tetos limitadores, no caso o menor e o maior valor-teto, aplicáveis ao salário de benefício (arts. 21 e 23 da CLPS/84, arts. 26 e 28 da CLPS/76 e art. 23 da LOPS).
+Outrossim, extrai-se do acórdão objurgado que o entendimento da Corte de origem está integralmente fundamentado em dispositivos constitucionais e interpretação conferida pelo Supremo Tribunal Federal à quaestio iuris, razão pela qual descabe ao STJ se manifestar sobre a vexata questio, sob pena de invasão da competência do STF.
+Por fim, o Superior Tribunal de Justiça compreende que "a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1642625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/6/2017), razão pela qual o recurso merece ser provido nesse ponto.
+Ainda no mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ADEQUAÇÃO AOS TETOS CONSTITUCIONAIS. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. AÇÃO COLETIVA. PARCELAS EM ATRASO. PRESCRIÇÃO QUINQUENAL CONTADA DO AJUIZAMENTO DA AÇÃO INDIVIDUAL. AGRAVO INTERNO NÃO PROVIDO.
+1. No julgamento do recurso especial repetitivo nº 1.388.000/PR, firmou-se orientação no sentido de que a propositura da ação coletiva tem o condão de interromper a prescrição para a ação individual.
+2. A propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual.
+3. Agravo interno não provido.
+(AgInt no REsp 1644001/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/05/2017, grifei)
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, provejo-o, nos termos da fundamentação acima.
+É como voto.
