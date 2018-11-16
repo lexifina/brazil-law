@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 201, de 6 de novembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: COOPERATIVAS DE CRÉDITO. DISTRIBUIÇÃO DE JUROS. INTEGRALIZAÇÃO. ACRÉSCIMO PATRIMONIAL. IMPOSTO SOBRE A RENDA. MOMENTO DA INCIDÊNCIA. RETENÇÃO NA FONTE. Os juros sobre o capital apurados por cooperativa de crédito destinados à capitalização em nome de cada cooperado estão sujeitos à incidência do imposto sobre a renda na fonte por ocasião da sua capitalização, mediante aplicação da tabela progressiva. Dispositivos Legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), arts. 43, incisos I e II, e 114; Lei nº 5.764, de 16 de dezembro de 1971, art. 3º; Lei Complementar (LC) nº 130, de 17 de abril de 2009, art. 7º; e Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), arts. 620 e 639.
+.
+[arquivo anexo: SC Cosit nº 201-2018.pdf]
