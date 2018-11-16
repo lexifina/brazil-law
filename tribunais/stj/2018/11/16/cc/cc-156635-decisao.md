@@ -1,0 +1,19 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA. LIQUIDAÇÃO DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. BANCO DO BRASIL. DOMICÍLIO DO BENEFICIÁRIO OU NO DISTRITO FEDERAL.
+1. O cumprimento individual de sentença decorrente da ação civil pública nº. 1998.01.1.016798-9, a qual determinou como devidas as diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança mantidas pelo Banco do Brasil, pode ser processado perante o Juízo de domicílio do beneficiário ou no Distrito Federal.
+2. Conflito de competência conhecido para declarar competente o Juízo de Direito da 5ª Vara Cível do Foro Central de São Paulo - SP.
+DECISÃO
+Cuida-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 12ª VARA CÍVEL DE BRASÍLIA - DF, suscitante, e o JUÍZO DE DIREITO DA 5ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP, suscitado.
+Ação: de cumprimento de sentença coletiva (Processo nº. 1998.01.1.016798-9) ajuizada por [NOME] em desfavor de BANCO DO BRASIL S/A.
+Manifestação do Juízo suscitado: declinou de sua competência em favor do juízo suscitante, sob o argumento de que o cumprimento de sentença deve se dar perante o juízo que processou a causa no primeiro grau de jurisdição (art. 475-P, II, do CPC/73).
+Manifestação do Juízo suscitante: suscitou o presente conflito de competência, asseverando que é prerrogativa do consumidor ajuizar suas ações no foro de seu domicílio ou no Distrito Federal sem que haja dependência relativamente ao juízo em que se deu o trâmite da ação civil pública respectiva.
+Parecer do MPF: o i. Subprocurador-Geral da República, Dr. [NOME], opinou pelo conhecimento do conflito, para declarar competente o juízo suscitado.
+RELATADO O PROCESSO, DECIDO.
+A 2ª Seção do STJ firmou a tese em julgamento de recurso representativo da controvérsia no sentido de que o cumprimento individual de sentença decorrente da ação civil pública nº. 1998.01.1.016798-9, a qual determinou como devidas as diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança mantidas pelo Banco do Brasil, pode ser processado perante o Juízo de domicílio do beneficiário ou no Distrito Federal. Confira-se a ementa do julgado:
+"AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL) . EXPURGOS IN- FLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VE - RÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n.
+1998.01.1.016798-9 , que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+(..) 2. Recurso especial não provido." (REsp 1391198/RS, Rel. Ministro Luis Felipe Salomão, 2ª Seção, julgado em 13/08/2014, DJe 02/09/2014)
+Da análise da petição inicial de fls. 1/14 (e-STJ), verifica-se que o beneficiário possui domicílio na cidade de São Paulo - SP, sendo possível, portanto, o julgamento do cumprimento de sentença coletiva pelo Juízo suscitado.
+Forte nessas razões, conheço do conflito e declaro competente o JUÍZO DE DIREITO DA 5ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP, suscitado.
+Publique-se. Intimem-se. Oficie-se.
