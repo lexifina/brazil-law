@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. EMBARGOS DO DEVEDOR. DECISÃO TRANSITADA EM JULGADO. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX VERIFICADA. RECURSO ESPECIAL DOS SERVIDORES PROVIDO, PARA ANULAR O ACÓRDÃO PROFERIDO EM EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, A FIM DE QUE APRECIE A MATÉRIA ARTICULADA NOS ACLARATÓRIOS, COMO ENTENDER DE DIREITO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurgem contra acórdão proferido pelo Egrégio Tribunal Regional Federal da 4a. Região, assim ementado pelo seu caput:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. EMBARGOS DO DEVEDOR.
+Resta evidenciada a impossibilidade do pagamento das parcelas pleiteadas (fls. 496/497).
+2. Foram opostos Embargos de Declaração, os quais foram desprovidos (fls. 551/552) e (582/583).
+3. Em suas razões recursais, os Servidores, além da divergência jurisprudencial, alegam violação dos arts. 1.022, II, 489, 535, § 4o. e 919, § 3o. do Código Fux, aos seguintes argumentos: (a) o acórdão recorrido incorreu em omissão; e (b) a ocorrência do trânsito em julgado dos Embargos do Devedor foi em 10.12.2013, restando cristalina, assim, a negativa de prestação jurisdicional, a bem demonstrar a nulidade no julgado.
+4. É o relatório.
+5. Da análise dos autos, verifica-se que, de fato, o Tribunal de origem não se manifestou quanto ao argumento da parte agravante de que houve a ocorrência do trânsito em julgado dos Embargos do Devedor em 10.12.2013, restando cristalina, assim, a negativa de prestação jurisdicional, a bem demonstrar a nulidade no julgado.
+6. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tal questão, de forma que lhe cabia analisar o ponto omisso e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a essa alegação, de fato houve violação do art. 1.022, II do Código Fux, o que importa em reforma da decisão. A esse propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. O decisum proferido pela Segunda Turma do STJ, ao examinar a questão, consignou que não houve ofensa aos arts. 332, 334, III, e 535, I e II, do CPC de 1973. Dessarte, está demonstrado o erro na transcrição do art. 332 e do art. 535, I e II, do CPC de 1973, contudo tal equívoco não é capaz de emprestar efeitos infringentes à decisão, pois trata-se de simples erro material, que não prejudicou a compreensão da controvérsia debatida nos autos do processo.
+2. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+3. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+4. Ademais, cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações da embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+5. Embargos de Declaração providos, sem efeitos infringentes (EDcl no REsp. 1.656.506/SP, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS À ORIGEM.
+1. O Tribunal de origem, ao dirimir a controvérsia dos autos, consignou (fls. 435, e-STJ): a partir da nova redação dada pela EC 30/2000 ao § 1o. do artigo 100 da Constituição Federal, o que se manteve com o advento da redação conferida ao citado dispositivo pela EC 62/2009, o trânsito em julgado passou a constituir pressuposto inadiável dos pagamentos fazendários sujeitos ao regime do precatório (..).
+2. Nota-se que a Corte a quo asseverou seu entendimento com lastro em fundamento de índole exclusivamente constitucional. No entanto, verifica-se que a matéria em discussão nestes autos tangencia o direito infraconstitucional, e os ora recorridos, de maneira oportuna, aventaram a possibilidade de analisar questões contidas em leis federais. Porém, a instância de origem quedou-se inerte em relação às alegações trazidas.
+3. Deve-se reconhecer, portanto, a existência de omissão no acórdão impugnado - daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, os pontos apresentados pelos recorridos.
+4. Agravo Interno não provido (AgInt no REsp. 1.630.779/RS, Rel. Min,. HERMAN BENJAMIN, DJe 20.4.2017).
+7. Assim, por ter o acórdão recorrido deixado de analisar relevante fundamento para a solução da controvérsia, e tendo a parte recorrente alegado violação dos arts. 489 e 1.022 do Código Fux, merece prosperar o presente Recurso para anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal de origem para que analise a questão omissa.
+8. Diante dessas considerações, dá-se provimento ao Recurso Especial dos Servidores, para anular o acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem para que analise a questão tida por omissa, conforme acima explicitado, como entender de direito.
+9. Publique-se.
+10. Intimações necessárias.
