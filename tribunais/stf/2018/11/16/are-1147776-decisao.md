@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Ceará, está assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO CÍVEL EM AÇÃO POPULAR. INCORPORAÇÃO DE GRATIFICAÇÃO FACE A LEI ESTADUAL Nº 11.171/86. AUSÊNCIA DE OFENSA AO ART. 37, INC. XIV, DA CONSTITUIÇÃO DA REPÚBLICA COM A REDAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL N. 19/98. JURISPRUDÊNCIA CONSOLIDADA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. LIÇÃO DO MINISTRO DIAS TOFFOLI: ‘A jurisprudência desta corte (STF) está consolidada no sentido de que não viola a constituição o cálculo de vantagens nos termos da Lei Estadual nº 11.171/86 em face de fato que tenha se consolidado antes da alteração, pela EC nº 19/98, do art. 37, XIV, da Constituição Federal’. APELO CONHECIDO, PORÉM, NEGADO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, no tocante à alegada violação ao art. 5º, XXXVI, da Constituição Federal, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Cabe assinalar, de outro lado, no que se refere à suposta transgressão ao inciso XIV do art. 37 da Carta Magna, o recurso extraordinário deduzido nestes autos, também revela-se inacolhível, eis que se insurge contra acórdão que, emanado do E. Tribunal de Justiça do Estado do Ceará, ajusta-se, com integral fidelidade, à orientação jurisprudencial que o Supremo Tribunal Federal – quando do julgamento do RE 231.164/CE, Rel. Min. SEPÚLVEDA PERTENCE – firmou na análise da matéria em referência:
+    “Vantagens funcionais em ‘cascata’: vedação constitucional que, conforme o primitivo art. 37, XIV, da Constituição (hoje alterado pela EC 19/99), só alcançava as vantagens concedidas ‘sob o mesmo título ou idêntico fundamento’: não incidência, ao tempo, da proibição no caso concreto: diversidade do título de concessão, no Estado do Ceará, da ‘parcela incorporada pelo exercício do cargo em comissão’ e da ‘parcela horizontal por tempo de serviço’, o que permitia a inclusão da primeira na base de cálculo da última.”
+    Cabe ressaltar, por necessário, que o entendimento ora exposto tem sido observado em sucessivas decisões proferidas no âmbito desta Suprema Corte (RE 330.047-AgR/CE, Rel. Min. ELLEN GRACIE – RE 404.702/CE, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “Agravo regimental no recurso extraordinário. Lei estadual nº 11.171/86. Incorporação de gratificação. Anterior Emenda Constitucional nº 19/98. Precedentes.
+    1. A jurisprudência desta Corte está consolidada no sentido de que não viola a Constituição, o cálculo de vantagens nos termos da Lei estadual nº 11.171/86 em face de fato que tenha se consolidado antes da alteração, pela Emenda Constitucional nº 19/98, do art. 37, inciso XIV, da Constituição Federal.
+    2. Agravo regimental não provido.”
+    (RE 392.572-AgR/CE, Rel. Min. DIAS TOFFOLI)
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. LEI ESTADUAL 11.171/86. EMENDA CONSTITUCIONAL 19/98.
+    I. – A forma de cálculo das vantagens incorporadas aos proventos dos agravados, prescrita pela Lei estadual 11.171/86, não implica o cômputo de acréscimos sob o mesmo título ou idêntico fundamento.
+    II. – Inexistência de violação à redação originária do art. 37, XIV, da Constituição, vigente à época em que os servidores passaram para a inatividade.
+    III. – Agravo não provido.”
+    (RE 393.704-AgR/CE, Rel. Min. CARLOS VELLOSO)
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária ajusta-se à orientação jurisprudencial desta Suprema Corte.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 16 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
