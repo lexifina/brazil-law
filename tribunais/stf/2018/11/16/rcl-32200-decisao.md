@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Gênesis Incorporação e Empreendimentos Imobiliários Ltda. afirma haver a Terceira Vice-Presidente do Tribunal de Justiça do Estado do Rio de Janeiro, no processo nº 0004888-28.2017.8.19.0061, olvidado o teor do verbete vinculante nº 10 da Súmula do Supremo ao deixar de conhecer do agravo protocolado contra a inadmissão do extraordinário.
+    Segundo narra, figura como ré em demanda contra si ajuizada por Ana Beatriz de Souza Neves visando o pagamento de indenização por danos morais ante a alegada demora na entrega de determinado imóvel, em virtude da constatação de vícios neste. Relata a procedência do pedido. Não houve êxito em declaratórios. Sobreveio recurso inominado, o qual acabou parcialmente provido para reduzir o valor fixado a título de danos morais. O extraordinário foi inadmitido. Salienta o não conhecimento de subsequente agravo.
+    Sustenta afastado, em desrespeito à cláusula de reserva de plenário, o artigo 47 da Lei nº 11.101/2005. Diz do interesse na preservação da atividade empresarial. Entende que o atendimento da pretensão ressarcitória gera insegurança jurídica tendo em vista os setenta e dois adquirentes de bens imóveis do mesmo empreendimento, a ensejar, caso todos buscassem a reparação civil, a inviabilização da atividade empresarial por si desempenhada. Refere-se ao princípio do duplo grau de jurisdição, considerado o Pacto de San José da Costa Rica, a justificar a adequação do recurso extraordinário objetivando questionar decisão de Turma Recursal. Pondera que o trancamento do extraordinário na origem implicou ofensa ao paradigma.
+    Sob o ângulo do risco, menciona a iminência da execução.
+    Requer, em sede liminar, a suspensão do acórdão reclamado. Busca, alfim, a cassação do ato atacado e a sequência do extraordinário.
+    2. Surge a inadequação desta medida, direcionada a impugnar decisão mediante a qual não conhecido agravo interposto contra a inadmissão de extraordinário. Mostra-se ausente o apontado afastamento do artigo 47 da Lei nº 11.101/2005 – Lei de Falências –, sem observância da cláusula de reserva de plenário, o qual sequer foi mencionado no pronunciamento questionado, tendo a autoridade reclamada nele se limitado a efetuar, ante o regime da repercussão maior, juízo de admissibilidade do recurso formalizado.
+    Não se verifica desrespeito à sistemática da repercussão geral. Faz-se em jogo controvérsia atinente à fixação de danos morais em virtude de arguido descumprimento de cláusula contratual. Conforme assinalado no ato de inadmissão do extraordinário, a problemática envolve a análise de matéria legal, considerado o decidido nos recursos extraordinários com agravo nº 748.371, 640.525, 837.318 e 835.833 – Temas nº 660, 417, 798 e 800.
+    O manuseio da reclamação é excepcional. Pressupõe a usurpação da competência do Supremo ou o desrespeito a decisão por si proferida ou a verbete de natureza vinculante. Descabe utilizá-la como sucedâneo recursal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 16 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
