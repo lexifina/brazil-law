@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL (CPC/2015). AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO PROVIDO PARA PROSSEGUIR À ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO CONHECIDO. RECURSO ESPECIAL (CPC/2015). AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DO ÓBICE DA SÚMULA 284/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interno interposto por NOVA PAPEIS INDUSTRIA E COMERCIO DE PAPEIS LTDA, contra decisão proferida pela Ministra Presidente deste Superior Tribunal de Justiça, de fls. 199-200, e-STJ, que não conheceu do agravo em recurso especial, em virtude da ausência de impugnação específica de um dos fundamentos da decisão agravada.
+Nas razões do agravo interno, às fls. 204-206, e-STJ, a agravante sustenta, em síntese, que, ao contrário do alegado, houve a devida impugnação.
+É o relatório.
+Passo a decidir.
+Em nova análise e considerando os argumentos declinados nas razões do presente agravo interno, com fulcro no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada.
+Nas razões do agravo interno, às fls. 204-206, e-STJ, a agravante alegou que " ..  do contrário alegado, verifica-se que os Agravantes atacaram todos os fundamentos da decisão denegatória, senão vejamos  ..  os Agravantes por sua vez, interpuseram o respectivo Agravo de Recurso Especial, que a breve relato: ii) demonstrou a violação ao art. 313, IV, alínea a do Código de Processo Civil de 2015 (antigo art.265, a do CPC/73), bem como demonstrou implicitamente a violação ao art. 57 do Código de Processo Civil/2015 (antigo art. 105 do CPC73)" (e-STJ, fl. 205).
+De fato, assiste razão à agravante, uma vez que, nas razões do agravo em recurso especial, houve a devida impugnação ao fundamento da decisão agravada (e-STJ, fls. 176-177).
+Deste modo, a reconsideração do decisum é medida que se impõe, para que prossiga à análise do agravo em recurso especial.
+Trata-se de agravo em recurso especial, interposto por NOVA PAPEIS INDÚSTRIA E COMÉRCIO DE PAPEIS LTDA e OUTROS, contra decisão que inadmitiu o recurso especial fundamentado no artigo 105, inciso III, da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO EM QUE FOI INDEFERIDO PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS. RECURSO DA PARTE EMBARGANTE.REQUERIDA CONCESSÃO DE EFEITO SUSPENSIVO AOS EMBARGOS. IMPOSSIBILIDADE. EXCEPCIONALIDADE QUE DEMANDA O PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 739-A, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 1973, CUJA REDAÇÃO FOI MANTIDA NO ART. 919, § 1º, DO NOVO ESTATUTO PROCESSUAL CIVIL. AUSÊNCIA, NO CASO, DE GARANTIA DO JUÍZO. DEPÓSITO, PENHORA OU CAUÇÃO NÃO PROMOVIDOS. ADEMAIS, VEROSSIMILHANÇA DAS ALEGAÇÕES NÃO DEMONSTRADA PELOS EMBARGANTES. EXISTÊNCIA DE AÇÃO REVISIONAL EM CURSO. CIRCUNSTÂNCIA INCAPAZ DE JUSTIFICAR, APENAS POR SI, A SUSPENSÃO DA EXPROPRIATÓRIA. REQUISITOS LEGAIS NÃO PREENCHIDOS. DECISÃO MANTIDA. RECLAMO CONHECIDO E DESPROVIDO" (e-STJ, fl. 96).
+Nas razões do recurso especial (e-STJ, fls. 384-392) a parte recorrente alega, em síntese, que "requer o processamento do presente recurso para reconhecer a suspensão da execucão que se não suspenso causará decisões conflitantes em relacão a ação revisional a qual esta aguardando julgamento de apelação  ..  a ação revisional encontra-se no Tribunal de Justiça do Estado de São Paulo, aguardando o julgamento do recurso de Apelação, assim sendo na há quaisquer razão para o indeferimento do efeito suspensivo aos Embargos a execução, uma vez que ambas as causas estão intimamente ligadas e que sem sombras de dúvidas o resultado de uma influencia a outra" (e-STJ, fls. 110/112).
+Não foram apresentadas contrarrazões ao recurso especial (e-STJ, fl. 146).
+Sobreveio o juízo de admissibilidade do Tribunal de origem (e-STJ, fls. 169-171), que inadmitiu o recurso especial, o que ensejou a interposição do agravo em recurso especial.
+Nas razões do agravo em recurso especial, às fls. 174-178, a agravante impugnou especificamente os fundamentos da decisão de admissibilidade.
+É o breve relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Depreende-se da análise dos autos que a parte recorrente não aponta, de modo a demonstrar concreta e satisfatoriamente, os dispositivos de lei federal que entende por violados, bem como deixa de informar de que modo a legislação federal teve negada sua aplicação, o que configura deficiência na fundamentação recursal.
+É pacífico nesta Corte Superior a imprescindibilidade da adequada indicação de dispositivo legal nas razões do apelo especial, o que, quando não realizado, atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação do dispositivo legal que supostamente tenha sido violado ou que tenha recebido interpretação divergente de tribunais. Ausente tal requisito, incide a Súmula n. 284/STF. 2.  ..  3. Agravo interno a que se nega provimento. (AgInt no AREsp 940.393/RJ, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 06/06/2017, DJe 20/06/2017, grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.  ..  5. Agravo interno desprovido.
+(AgInt no AREsp 1213182/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/04/2018, DJe 03/05/2018, grifei).
+Destarte, ante a incidência, por analogia, da Súmula nº 284/STF, o não conhecimento do presente recurso é medida que se impõe.
+Por fim, cumpre esclarecer que "não cabe a majoração dos honorários advocatícios nos termos do § 11, do art. 85, do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
