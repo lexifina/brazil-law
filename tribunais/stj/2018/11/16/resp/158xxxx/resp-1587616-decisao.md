@@ -1,0 +1,37 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DEFINITIVO DE SENTENÇA. TRANSAÇÃO SEM PARTICIPAÇÃO DOS PROCURADORES DA PARTE CREDORA, ENGLOBANDO OS HONORÁRIOS DE SUCUMBÊNCIA. NULIDADE DA CLÁUSULA. INTELIGÊNCIA DO ART. 24, § 4º, DO ESTATUTO DA OAB.
+1. A jurisprudência desta Corte Superior é no sentido de que a transação feita, após o trânsito em julgado de sentença condenatória, sem a participação do advogado credor dos honorários, é ineficaz quanto à verba de sucumbência definida no julgado exequendo, inteligência do art. 24, § 4º da OAB. Precedentes.
+2. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por NORBERTO BARUFFALDI ADVOGADOS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. AÇÃO DE COBRANÇA. VERBA HONORÁRIA. LEGITIMIDADE CONCORRENTE DA PARTE E ADVOGADO. HOMOLOGAÇÃO DE ACORDO. POSSIBILIDADE JURÍDICA.
+1. O entendimento jurisprudencial assentado nesta Egrégia Corte de Justiça é no sentido de reconhecer a legitimidade concorrente da parte e do advogado para a satisfação de crédito atinente aos honorários sucumbenciais.
+2. Ademais, é assegurado aos procuradores o direito autônomo à execução, sem excluir a legitimidade da própria parte. Inteligência do art. 23 do Estatuto da OAB, razão pela qual inexiste qualquer impedimento à homologação de forma completa dos termos da transação formulada, quanto mais no caso em tela em que os honorários sucumbenciais estão reservados no acordo entabulado, consoante se vê na Cláusula 3a, incisos VIII e IX, do próprio termo de transação firmado entre as partes.
+3. O art. 840 do Código Civil autoriza a celebração de acordo entre as partes mesmo após o trânsito em julgado da sentença, cabendo ao Juiz a análise e homologação do referido ajuste, sem que isso implique em afronta ao disposto no art. 463 do Código de Processo Civil.
+4. Portanto, existe a possibilidade jurídica de ocorrer transação até ser exaurida a prestação jurisdicional, ou seja, mesmo para regulara forma de cumprimento da decisão transitada em julgado.
+5. Assim, merece ser homologado" o acordo avençado, a fim de por termo a lide, pacificando a relação jurídica mantida entre as partes Mediante a composição voluntária, forma adequada, que melhor atende aos anseios daquelas e da sociedade.
+Dado provimento ao agravo interno, por maioria, vencida a Relatora.
+Em suas razões, a parte recorrente sustentou que o acórdão recorrido violou o disposto nos artigos 535, I e II, do Código de Processo Civil de 1973 e 24, § 4º, da Lei 8.906/94, bem como apontou dissídio jurisprudencial.
+Ausentes as contrarrazões, o recurso especial foi admitido.
+Recurso especial interposto sob a égide do CPC/73.
+É o relatório.
+Decido.
+O Tribunal de origem, por maioria, deu provimento ao agravo de instrumento interposto pela parte executada, reformando a decisão de piso que não homologara o acordo feito pelo cliente sem aquiescência dos patronos, extinguindo, assim, integralmente o cumprimento de sentença que tramitava na origem.
+Irresignada, a parte recorrente aduziu, em síntese, violação ao artigo 24, § 4º, do Estatuto da OAB e apontou vício de omissão e contradição no acórdão recorrido.
+Primeiramente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação. Assim, a contrariedade da parte com a decisão posta não caracteriza vício de julgamento.
+Por outro lado, merece acolhimento a insurgência recursal quanto ao mérito, pois o acórdão recorrido diverge da orientação jurisprudencial desta Corte Superior no sentido de que a transação feita, após o trânsito em julgado de sentença condenatória, sem a participação do advogado credor dos honorários, é ineficaz quanto à verba de sucumbência definidos no julgado exequendo, inteligência do art. 24, § 4º da OAB.
+Nesse sentido:
+AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. TRANSAÇÃO FIRMADA ANTES DA EDIÇÃO DA MP 2.226/2001. INAPLICABILIDADE.
+1. O STJ firmou o entendimento segundo o qual, consoante preconizado nos arts. 23 e 24, § 4º, da Lei n. 8.906/1994, o advogado tem direito autônomo de executar a sentença quanto aos honorários de sucumbência. A transação firmada pelas partes, sem aquiescência do advogado, não prejudica os honorários, tanto os convencionados quanto os de sucumbência.
+2. A regra inserta no art. 3.º da Medida Provisória n.º 2.226, de 04/09/2001, por implicar reflexo na esfera jurídico-material das partes, somente tem incidência sobre os acordos ou transações celebrados a partir de sua edição.
+Agravo regimental improvido. (AgRg no REsp 1440251/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 06/05/2014, DJe 13/05/2014)
+CIVIL E PROCESSUAL CIVIL. PROCESSO EXTINTO EM DECORRÊNCIA DE TRANSAÇÃO. COBRANÇA DE HONORÁRIOS DE SUCUMBÊNCIA DEDUZIDA POR EX-CAUSÍDICOS. ACORDO CELEBRADO ANTES DO TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. EXECUÇÃO DA VERBA NOS PRÓPRIOS AUTOS. INVIABILIDADE. REMESSA ÀS VIAS ORDINÁRIAS.
+1. Embora seja direito autônomo do advogado a execução da verba honorária de sucumbência, inclusive nos próprios autos, não há como atribuir força executiva à sentença que não transitou em julgado se as partes chegaram a consenso acerca do direito controvertido e celebraram acordo que foi devidamente homologado por sentença.
+2. Resguarda-se eventual direito de ex-advogado da parte que, antes do trânsito em julgado da sentença condenatória, celebra acordo com a ré sem nada dispor sobre a verba honorária de sucumbência, devendo o causídico, nessa hipótese, valer-se das vias ordinárias.
+3. Recursos especiais conhecidos em parte e providos. (REsp 1524636/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 17/05/2016, DJe 23/08/2016)
+No presente caso, extrai-se do voto vencido a informação de que o título executivo judicial já se encontrava protegido pelo manto da coisa julgada, reconhecendo, assim, nula de pleno direito a cláusula que transacionou direitos pertencentes aos advogados que não participaram do acordo extrajudicial, verbis (e-STJ Fl. 627):
+No caso dos autos, foi entabulada transação diretamente entre os litigantes, sem a participação dos procuradores dos autores (quanto mais aquiescência), de modo que qualquer disposição, cláusula, regulamento ou convenção que retire dos profissionais o direito ao recebimento dos honorários de sucumbência na forma em que gravada no titulo executivo judicial, já protegido sob o manto da coisa julgada, é nula de pleno direito e não lhes pode prejudicar.
+Portanto, merece reforma o acórdão recorrido, que, por maioria de voto, divergiu da orientação jurisprudencial desta Corte Superior ao extinguir totalmente o cumprimento de sentença, em razão da transação diretamente feita pelo credor com o devedor, após trânsito em julgado, sem a aquiescência dos advogados que detinham direito próprio quanto aos seus honorários de sucumbência, parcela sobre a qual deverá prosseguir a execução do título judicial, forte no artigo 24, § 4º, do Estatuto da OAB.
+Ante todo exposto, DOU PROVIMENTO ao recurso especial para determinar o prosseguimento do cumprimento de sentença quanto aos honorários de sucumbência pertencentes aos patronos da parte autora.
+Intimem-se.
