@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIOGO DE MELO BARBOSA e outros em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento às apelações defensivas.
+Consta dos autos que os pacientes foram condenados como incursos na sanção do art. 155, § 4º, incisos II e IV, e do art. 288, caput, ambos do Código Penal, à pena de 4 anos, 4 meses e 25 dias de reclusão, mais 15 dias-multa, em regime semiaberto.
+O Tribunal a quo negou provimento ao apelo da defesa e deu provimento ao recurso ministerial, expedindo-se mandado de prisão contra os pacientes (fls. 30/46).
+Sustenta a impetrante a existência de constrangimento ilegal decorrente da expedição de mandado de prisão em desfavor dos pacientes antes do esgotamento da instância ordinária.
+Deferida a liminar às fls. 62/63.
+Informações prestadas às fls. 71/104.
+Manifestou-se o Ministério Público Federal pela concessão do writ.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo em 10/10/2018, consta que no dia 03/09/2018 foi cadastrado recurso de embargos declaratórios pendente de julgamento.
+É o relatório.
+DECIDO.
+No que concerne às informações prestadas pelo Tribunal estadual, verificou-se que (fl. 72/74):
+Em atenção à solicitação, esclareço que as partes se insurgiram contra a r. sentença proferida nos autos da Ação Penal nº 0034226-22.2016.8.26.0050, Controle nº 233/2016, da Décima Terceira Vara Criminal da Comarca de São Paulo, na qual foram os ora pacientes condenados, juntamente com outros corréus, por infração ao art. 155, § 4o, II e IV, e ao art. 288, caput, ambos do Código Penal, às sanções de 03 anos e 11 meses de reclusão, em regime inicial aberto, e 13 dias-multa, concedido o direito de recorrerem em liberdade.
+Colhido o parecer da Procuradoria Geral de Justiça, foi expedido mandado para intimação da inclusão da apelação criminal em pauta de julgamento, o qual foi entregue diretamente no Núcleo Especializado de Segunda Instância da Defensoria Pública, respeitando as atribuições específicas da unidade, que o recebeu mediante chancela da Instituição, o qual se encarrega, conforme procedimentos internos daquele órgão, do seu recebimento e comunicações necessárias.
+A Primeira Câmara de Direito Criminal, em sessão de julgamento realizada aos 14 de maio de 2018, à unanimidade, negou provimento ao recurso da Defesa e deu parcial provimento ao do Parquet para, mantida a condenação, recrudescer as reprimendas a 04 anos, 04 meses e 25 dias de reclusão, em regime inicial semiaberto, e 15 dias-multa, determinando a comunicação à Vara de origem para imediata expedição de mandado de prisão.
+Os autos foram remetidos à Vara de origem para intimação pessoal da Defensora Pública que atua em favor dos pacientes, a qual opôs embargos de declaração sob a alegação de não ter sido intimada pessoalmente da data da sessão de julgamento do apelo.
+Devolvidos os autos a este Tribunal, foi determinada por esta Presidência a remessa dos autos ao Relator, observado que há recurso especial dos corréus Ariane e Edson pendente de decisão.
+O feito está em fase de publicação do teor do decisum.
+Nessa perspectiva, a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou orientação, fixada pelo Pleno do Supremo Tribunal Federal (HC 126.292/MG, de 17/2/2016), de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção da inocência.
+Contudo, em vista das peculiaridades do caso em apreço, consta que a fase ordinária ainda não foi concluída, porquanto opostos, pela defesa, embargos de declaração, os quais estão pendentes de apreciação pelo Colegiado, de modo que, por ora, não há falar em expedição do respectivo mandado de prisão.
+Nesse sentido, decidiram recentemente as duas Turmas Criminais deste Superior Tribunal de Justiça, vejamos:
+PROCESSO PENAL. HABEAS CORPUS. ART. 14 DA LEI 10.826/03. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VIA INADEQUADA. SENTENÇA CONDENATÓRIA. APELO EM LIBERDADE. APELAÇÃO JULGADA. EXPEDIÇÃO DO MANDADO DE PRISÃO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA. PENDÊNCIA DO JULGAMENTO DE ACLARATÓRIOS DA DEFESA. EFEITO SUSPENSIVO. CONDENAÇÃO AINDA NÃO CONFIRMADA POR COLEGIADO DE SEGUNDO GRAU. EXPEDIÇÃO DO MANDADO DE PRISÃO OBSTADA. ORDEM CONCEDIDA.
+ ..
+3. Embora determinado o imediato cumprimento da pena, com a expedição do mandado de prisão, ainda não está concluída a fase ordinária, porque a defesa interpôs embargos infringentes - ainda pendentes de análise pelo colegiado na origem - cujo efeito suspensivo impede, por ora, a expedição da ordem de prisão, uma vez que ainda não se exauriu a anterior instância (HC 375.682/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 22/11/2016), com destaques.
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. MÉRITO. ANÁLISE DE OFÍCIO. FRAUDE AO PROCEDIMENTO LICITATÓRIO E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PACIENTES CONDENADOS A 6 ANOS E 3 MESES DE RECLUSÃO, NO REGIME INICIAL SEMIABERTO. PRISÃO DETERMINADA PELO TRIBUNAL APÓS O JULGAMENTO DA APELAÇÃO. JULGAMENTO TOMADO POR MAIORIA. EMBARGOS INFRINGENTES PENDENTES DE JULGAMENTO. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. PRISÃO PREMATURA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Na espécie, todavia, embora eventuais recursos especial e extraordinário não sejam dotados de efeito suspensivo, a jurisdição das instâncias ordinárias ainda não se encerrou. O julgamento do recurso de apelação foi tomado por maioria, tendo sido oposto, no caso, embargos infringentes que, segundo andamento processual obtido no endereço eletrônico do Tribunal de origem, pende de julgamento. Desse modo, diante da ausência de exaurimento no julgamento nas instâncias ordinárias, revela-se prematuro o início da execução provisória da pena (HC 351.804/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/10/2016), com destaques.
+Ante o exposto, concedo o habeas corpus para garantir aos pacientes o direito de permanecerem em liberdade até o exaurimento da instância ordinária.
+Comunique-se.
+Publique-se.
+Intimem-se.
