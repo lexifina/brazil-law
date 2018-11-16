@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1º-F DA LEI 9.494/1997. LEI 11.960/2009. INCONSTITUCIONALIDADE PARCIAL POR ARRASTAMENTO DECLARADA PELO STF. CORREÇÃO MONETÁRIA. OBSERVÂNCIA DA NATUREZA DA DÍVIDA. IPCA. JUROS DE MORA. CADERNETA DE POUPANÇA.
+1. Trata-se de Recurso Especial que questiona a utilização da TR como índice de correção monetária.
+2. O acórdão de fls. 620-633 deu provimento ao Recurso Especial para que fosse aplicado o IPCA para a correção monetária do débito. Após a prolação do referido acórdão, os autos foram encaminhados para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC/2015, ante o julgamento do RE 870.947. Foi prolatado aresto mantendo a fundamentação do decisum de fls. 620-633, porém, contraditória e equivocadamente alterando seu dispositivo.
+3. Embargos de Declaração acolhidos para retificar o dispositivo do julgado para que conste que o Recurso Especial foi parcialmente provido, mantido integralmente o acórdão de fls. 620-633.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, acolheu os embargos de declaração para retificar o dispositivo do julgado para que conste que o recurso especial foi parcialmente provido, mantido integralmente o acórdão de fls. 620-633, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. JUROS DE MORA. INAPLICABILIDADE DO ART. 1º-F DA LEI 9.494/1999 E DA LEI 11.960/2009. VERBA NÃO TRIBUTÁRIA. ENTENDIMENTO FIRMADO PELA PRIMEIRA SEÇÃO NO JULGAMENTO DO RESP 1.270.439/PR.
+1. Reexaminando o acórdão recorrido da Segunda Turma do STJ, verifico que ele não contraria a orientação do Supremo Tribunal Federal exposta no julgamento do RE 870.947/SE, pela sistemática da Repercussão Geral.
+2. O acórdão recorrido reafirmou o entendimento exarado pela Primeira Seção, que por unanimidade, na ocasião do julgamento do Recurso Especial repetitivo 1.270.439/PR, assentou que, nas condenações impostas à Fazenda Pública de natureza não tributária, os juros moratórios devem ser calculados com base no índice aplicável à caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/1997, com redação da Lei 11.960/2009. Já a correção monetária, a partir da declaração de inconstitucionalidade parcial do art. 5º da Lei 11.960/2009, deverá ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada do período.
+3. Recurso Especial não provido em juízo de retratação.
+Em síntese, o embargante alega:
+Cabe relatar que os autos foram remetidos a essa Eg. Corte em razão de recurso especial manejado pelo Sindicato em face de r. julgado do C. Tribunal Regional que negou provimento ao seu agravo de instrumento, mantendo a utilização da TR como índice de correção monetária.
+No v. acórdão de e-fls. 620/633, essa C. Turma deu parcial provimento ao recurso especial aludido, "de forma a incidir o art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, sobre os débitos vencidos a contar da vigência desta última norma. Considerem-se, portanto, para os juros moratórios os juros incidentes sobre a caderneta de poupança, computados de forma simples, e, em observância ao decidido pelo STF nas ADIs 4.357/DF e 4.425/DF, aplique-se o IPCA para a correção monetária do débito." O juízo de retratação exercido por essa Eg. Turma no r. julgado ora embargado deu-se em virtude de recurso extraordinário interposto pela União (e-fls. 678/685). Assim, parece, s.m.j., que o r. julgado incorreu em contradição ao apontar, em sua fundamentação, a necessidade de aplicação do IPCA em observância ao quanto julgado pela Suprema Corte no RE n.º 870.947/SE e por esse C. Tribunal no RESP n.º 1.270.439/PR, e, ato contínuo, negar provimento ao recurso especial do Sindicato outrora provido.
+Desta forma, considera o Sindicato indispensável o acolhimento destes declaratórios a fim de que seja suprido o vício apontado para, como resultado da fundamentação trazida, dar provimento ao seu recurso especial para assegurar a fixação do ICPA como índice de correção monetária aplicável ou, ao menos, a devolução dos autos à Eg. Vice-Presidência para que seja negado seguimento ao recurso extraordinário da União.
+Houve impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): A irresignação prospera.
+Trata-se de Recurso Especial que questiona a utilização da TR como índice de correção monetária.
+O acórdão de fls. 620-633 deu provimento ao Recurso Especial para que fosse aplicado o IPCA para a correção monetária do débito.
+Após a prolação do referido acórdão, os autos foram encaminhados para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC/2015, ante o julgamento do RE 870.947.
+Foi prolatado aresto mantendo a fundamentação do decisum de fls. 620-633, porém, contraditória e equivocadamente alterando seu dispositivo.
+Diante do exposto, acolho os Embargos de Declaração, para retificar o dispositivo do julgado para que conste que o Recurso Especial foi parcialmente provido, mantido integralmente o acórdão de fls. 620-633.
+É como voto.
