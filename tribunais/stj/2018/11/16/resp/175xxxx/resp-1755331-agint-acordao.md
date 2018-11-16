@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CAUTELAR DE BUSCA E APREENSÃO. NATUREZA NÃO SATISFATIVA. NECESSIDADE DE AJUIZAMENTO DA AÇÃO PRINCIPAL NO PRAZO LEGAL. PROVIDÊNCIA NÃO TOMADA. PERDA DA EFICÁCIA DA LIMINAR E EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO. AGRAVO DESPROVIDO.
+1. A medida cautelar satisfativa é providência excepcional no ordenamento jurídico brasileiro, exigindo-se, para o seu cabimento, previsão expressa na legislação pátria.
+2. Quando se trata de medida cautelar de busca e apreensão de coisas, o nosso ordenamento jurídico prevê a possibilidade de ajuizamento de cautelar não satisfativa, com o fim de assegurar a eficácia do provimento a ser proferido na demanda principal; e de cautelar satisfativa, que visa a imediata realização do direito buscado pela parte.
+3. A situação retratada nos autos não se enquadra entre aquelas hipóteses que permitem o ajuizamento de cautelar satisfativa, sendo indispensável, para a retomada definitiva do bem, o ajuizamento de ação de conhecimento, para que, mediante cognição exauriente e ampla produção probatória, possam as partes debater as questões suscitadas, funcionando a cautelar apenas para assegurar a eficácia do provimento a ser proferido na demanda principal.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] contra decisão monocrática desta relatoria, mediante a qual foi dado provimento ao recurso especial de [NOME], assim ementada (e-STJ, fl. 328):
+RECURSO ESPECIAL. CAUTELAR DE BUSCA E APREENSÃO. NATUREZA NÃO SATISFATIVA. NECESSIDADE DE AJUIZAMENTO DA AÇÃO PRINCIPAL NO PRAZO LEGAL. PROVIDÊNCIA NÃO TOMADA. PERDA DA EFICÁCIA DA LIMINAR E EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO. RECURSO ESPECIAL PROVIDO.
+Em suas razões, o agravante sustenta, em síntese, que a ação cautelar proposta teria natureza satisfativa, sendo desnecessária a propositura de ação principal no prazo de 30 (trinta) dias.
+Pretende, ao final, a reforma da decisão agravada.
+Sem impugnação (e-STJ, fl. 344).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CAUTELAR DE BUSCA E APREENSÃO. NATUREZA NÃO SATISFATIVA. NECESSIDADE DE AJUIZAMENTO DA AÇÃO PRINCIPAL NO PRAZO LEGAL. PROVIDÊNCIA NÃO TOMADA. PERDA DA EFICÁCIA DA LIMINAR E EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO. AGRAVO DESPROVIDO.
+1. A medida cautelar satisfativa é providência excepcional no ordenamento jurídico brasileiro, exigindo-se, para o seu cabimento, previsão expressa na legislação pátria.
+2. Quando se trata de medida cautelar de busca e apreensão de coisas, o nosso ordenamento jurídico prevê a possibilidade de ajuizamento de cautelar não satisfativa, com o fim de assegurar a eficácia do provimento a ser proferido na demanda principal; e de cautelar satisfativa, que visa a imediata realização do direito buscado pela parte.
+3. A situação retratada nos autos não se enquadra entre aquelas hipóteses que permitem o ajuizamento de cautelar satisfativa, sendo indispensável, para a retomada definitiva do bem, o ajuizamento de ação de conhecimento, para que, mediante cognição exauriente e ampla produção probatória, possam as partes debater as questões suscitadas, funcionando a cautelar apenas para assegurar a eficácia do provimento a ser proferido na demanda principal.
+4. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A irresignação não merece prosperar.
+Conforme consignado na decisão agravada, a medida cautelar satisfativa é providência excepcional no ordenamento jurídico brasileiro, exigindo-se, para o seu cabimento, previsão expressa na legislação pátria.
+Quando se trata de medida cautelar de busca e apreensão de coisas, o nosso ordenamento jurídico prevê a possibilidade de ajuizamento de cautelar não satisfativa, com o fim de assegurar a eficácia do provimento a ser proferido na demanda principal; e de cautelar satisfativa, que visa a imediata realização do direito buscado pela parte.
+A propósito, confira-se a lição do doutrinador Alexandre Câmara sobre os tipos de cautelares previstas no ordenamento jurídico brasileiro:
+A expressão busca e apreensão, no direito brasileiro, é equívoca. Há uma série de institutos, de diversos matizes, que recebem este nome. Basta dizer que autorizado doutrinador identificou seis diferentes espécies de busca e apreensão. Há, em primeiro lugar, uma busca e apreensão incidente, destinada a permitir a realização de uma medida cautelar. Assim, por exemplo, pode ocorrer, deferido o arresto, ou o sequestro, fazer-se necessária a busca e apreensão da coisa sobre a qual incidirá a constrição judicial. Segunda espécie é a busca e apreensão que tem natureza de meio executivo, previsto no art. 625 do Código de Processo Civil, a ser utilizada na execução para entrega de coisa certa móvel. Terceiro tipo é a "ação de busca e apreensão" de bens alienados fiduciariamente, prevista no art. 3º do Decreto-Lei n. 911/69, que tem natureza satisfativa. Quarto tipo de busca e apreensão conhecido é a medida satisfativa de busca e apreensão de incapazes. Como se verá adiante, há busca e apreensão cautelar de incapazes, assim como há medida satisfativa com tal designação. Nesta enumeração, está-se dando ênfase, por ora à busca e apreensão de índole satisfativa. Quinta espécie, também satisfativa, é a busca e apreensão, determinada mesmo ex officio, de autos e documentos levados por uma das partes e mantidos em seu poder ilegalmente. (CÂMARA, Alexandre Freitas. Lições de direito processual civil. Rio de Janeiro: Editora Lumen Juris, 2004, vol. III, p. 151)
+No caso dos autos, verifica-se que o Colegiado estadual concluiu que a cautelar de busca e apreensão de coisas, ajuizada com base nos arts. 839 e seguintes do CPC/1973, possuiria caráter satisfativo, nos termos da fundamentação abaixo colacionada (e-STJ, fls. 232-234):
+A ação proposta foi intitulada de "busca e apreensão" (fl. 02) e, nela, não há menção a qualquer dispositivo legal.
+Independentemente disso, é de se reputar que a presente demanda está lastreada nos artigos 839 e seguintes do Código de Processo Civil de 1973, e não nos termos do Decreto-Lei n. 911, de 1969. Este último, é consabido, tem aplicação restrita às obrigações contratuais garantidas mediante alienação fiduciária, o que obviamente não se coaduna com o caso dos autos.
+Então, ainda que não se tenha apontado expressamente, a ação cautelar de busca e apreensão foi proposta na forma do art. 839 c/c 840, do Código de Processo Civil de 1973, o que não é suficiente para definir sua natureza.
+É que a ação de busca e apreensão na forma do art. 839 e seguintes do CPC pode ter natureza cautelar ou natureza satisfativa, de acordo com a pretensão que baseia o pedido inicial. Nessa última hipótese, a cognição é exauriente, ainda que o rito a ser seguido seja o dos artigos 839 e seguintes, do CPC.
+Nessa linha, o fato da medida de busca e apreensão ter causa de pedir exposta de maneira exauriente, demonstrando a natureza satisfativa da ação, não impossibilita a propositura e processamento da ação na forma do art. 839 e seguintes do CPC.
+(..)
+Enfim, as questões postas pelo apelante e que sustentam o seu pedido de busca e apreensão - relativas à celebração do contrato de compra e venda, bem assim o apontamento de que simplesmente emprestou o bem para o primeiro réu que, maliciosamente, teria transferido ele para o segundo - revelam que a exposição dos fatos se deu de forma exaustiva.
+Isto é, a medida pretendida não está servindo para resguardar a utilidade de um futuro provimento jurisdicional, tal como é próprio das ações cautelares, mas sim para satisfazer a pretensão do alegado direito do apelante que teria direito de posse sobre o referido bem.
+Registre-se que a liminar de busca e apreensão foi deferida em sede de liminar e o bem foi entregue ao apelante (fl. 33). Contudo, em razão da prolação da sentença terminativa, e a consequente perda dos efeitos da decisão liminar, o bem objeto da demanda foi devolvido ao segundo réu, ora apelado, e já está na posse dele desde o dia 05 de novembro de 2014 (fl. 116), ou seja, há mais de dois anos.
+O que se há de reconhecer, então, no bojo do presente feito, é apenas o cabimento da ação de busca e apreensão (com caráter satisfativo, diga-se), relegando-se a verificação da existência do direito alegado (inclusive para fins liminares, diga-se) ao primeiro grau de jurisdição, tudo segundo o bem alvitre do MM. Juiz a quo.
+Isto posto, dá-se provimento ao recurso para cassar a sentença e determinar o retorno do feito para o primeiro grau de jurisdição para que lá possa retomar o seu regular curso, nos termos da lei.
+Da análise do trecho acima destacado, no entanto, observa-se que a situação retratada nos autos não se enquadra entre aquelas hipóteses que permitem o ajuizamento de cautelar satisfativa, sendo indispensável, para a retomada definitiva do bem, o ajuizamento de ação de conhecimento, para que, mediante cognição exauriente e ampla produção probatória, possam as partes debater as questões suscitadas, funcionando a cautelar apenas para assegurar a eficácia do provimento a ser proferido na demanda principal.
+Sobre o tema, veja-se:
+PROCESSUAL CIVIL. CONTRATO DE COMODATO. AJUIZAMENTO DE AÇÃO CAUTELAR SATISFATIVA DE BUSCA E APREENSÃO. RETOMADA DOS BENS OBJETO DO CONTRATO. IMPROPRIEDADE DA VIA ELEITA.
+1. A possibilidade de ajuizamento de medida cautelar satisfativa é medida excepcional no ordenamento jurídico, devendo haver previsão legal expressa para o seu cabimento.
+2. A observância desses preceitos, longe de apego excessivo a formalismo, na verdade resguarda o devido processo legal e assegura o direito pleno de defesa, com possibilidade ampla de produção de provas, pois o processo cautelar, com nítido escopo de garantia e acessoriedade, tem por finalidade apenas assegurar a eficácia do provimento a ser proferido na demanda principal.
+3. Com efeito, à ausência de previsão legal, descabe o ajuizamento de ação de busca e apreensão absolutamente satisfativa, com o escopo de retomar bens móveis objeto de contrato de comodato, razão pela qual, se inexistente ação de conhecimento ajuizada no prazo do art.
+806 do CPC, mostra-se de rigor a extinção da ação cautelar, sem resolução de mérito.
+4. Recurso especial a que se nega provimento.
+(REsp 540.042/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2010, DJe 24/08/2010)
+Nesse mesmo sentido: REsp 1.333.221/GO, Rel. Ministro Ricardo Villas Bôas Cueva, decisão monocrática, publicada em 14/6/2016.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
