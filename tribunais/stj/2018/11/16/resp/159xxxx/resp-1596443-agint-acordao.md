@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/73. AGRAVO DE INSTRUMENTO. PEDIDO DE PRODUÇÃO DE PROVAS. VIOLAÇÃO AOS ARTS. 165, 458, II, 535, II E 536 DO CPC. INOCORRÊNCIA. QUESTÕES NÃO SUSCITADAS NOS PRIMEIROS EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO:
+Trata-se de agravo interno interposto por CAMPOS E SILVA PROMOÇÕES LTDA E OUTROS contra decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/73. AGRAVO DE INSTRUMENTO. PEDIDO DE PRODUÇÃO DE PROVAS. VIOLAÇÃO AOS ARTS. 165, 458, II, 535, II E 536 DO CPC. INOCORRÊNCIA. QUESTÕES NÃO SUSCITADAS NOS PRIMEIROS EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO ESPECIAL DESPROVIDO.
+Os agravantes alegam, essencialmente, que a decisão agravada merece reparos, pois, ao contrário do que consignou, (a) "não há dúvida de que a omissão se refere ao segundo acórdão, até porque o primeiro acórdão, que julgou o agravo de instrumento, deferiu todas as provas requeridas pelos autores/agravantes" e (b) não houve inovação recursal quanto ao pedido de produção de prova pericial grafotécnica para atestar a assinatura do Sr. [NOME]; e (c) em que pese o juízo de 1º grau ter, a princípio, deferido a prova pericial contábil, esta acabou não sendo produzida, por entender desnecessária posteriormente.
+Intimados, os agravados defendem o não conhecimento do agravo interno e requerem a aplicação da multa do art. 1.021, § 4º, do CPC (e-STJ Fls. 1177-1183 e 1186-1188).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/73. AGRAVO DE INSTRUMENTO. PEDIDO DE PRODUÇÃO DE PROVAS. VIOLAÇÃO AOS ARTS. 165, 458, II, 535, II E 536 DO CPC. INOCORRÊNCIA. QUESTÕES NÃO SUSCITADAS NOS PRIMEIROS EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas. O agravo interno não merece prosperar.
+Em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelos agravantes, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+De início, é imprescindível rememorar o conteúdo das decisões proferidas dos autos, bem assim dos atos processuais praticados pelas partes.
+A decisão do juízo de 1º grau impugnada por agravo de instrumento indeferiu o pedido dos autores, ora recorrentes, de produção das seguintes provas: (a) pericial grafotécnica, (b) pericial contábil e (c) testemunhal.
+No agravo de instrumento, os agravantes defenderam a necessidade de produção das provas requeridas na petição inicial.
+O acórdão recorrido deu provimento ao agravo de instrumento, por entender que (a) a perícia grafotécnica é indispensável para determinar a autoria das assinaturas apostas nos cheques contestados e (b) a prova testemunhal é relevante para a verificação do grau de culpa dos réus.
+Nos primeiros embargos de declaração, os agravantes apontaram omissão, ao argumento de que na parte dispositiva do acórdão embargado não constou expressamente o deferimento do pedido de produção da prova testemunhal.
+Nos segundos embargos de declaração, os agravados apontaram omissão e contradição, alegando que (a) a prova pericial grafotécnica é inútil, pois a autoria das assinaturas apostas nos cheques contestados foi objeto de confissão, tratando-se de matéria incontroversa e (b) a prova testemunhal é desnecessária, porque o acórdão embargado não esclareceu a sua finalidade.
+O acórdão que apreciou os dois embargos de declaração decidiu (a) acolher parcialmente os embargos de declaração dos agravados para (i) indeferir a produção da prova pericial grafotécnica, diante da confissão dos réus e (ii) manter a produção da prova testemunhal e (b) acolher os embargos de declaração dos agravantes para fazer constar na parte dispositiva o deferimento do pedido da produção da prova testemunhal.
+Contra esse acórdão, os agravantes opuseram novos embargos de declaração, alegando que, ao deferir apenas a produção da prova testemunhal, o acórdão foi omisso quanto (a) à existência de pedido de produção da prova pericial contábil e (b) à necessidade de produção de prova pericial grafotécnica para atestar a veracidade da assinatura do Sr. [NOME], tendo em vista que a confissão dos réus diz respeito unicamente das assinaturas do Sr. [NOME].
+Refeita essa breve contextualização, convém destacar que, ao contrário do que defendem os agravantes, no acórdão que deu provimento ao agravo de instrumento não se fez qualquer referência acerca do pedido de produção da prova pericial contábil, incorrendo, desde logo, em omissão.
+A leitura mais atenta do relatório e das razões de decidir permite constatar essa afirmação (e-STJ Fl. 962):
+ Trata-se de agravo de instrumento interposto por Campos e Silva Promoções Artísticas Ltda. e outros da decisão (f. 28- 29-TJ) que, nos autos da ação ordinária ajuizada em desfavor de [NOME] e outros, indeferiu a produção de perícia grafotécnica e prova testemunhal.
+ Na decisão, o MM. Magistrado a quo asseverou que a produção de prova pericial nesta etapa procedimental é desnecessária, de vez que o mérito da demanda versa sobre a possibilidade, ou não, de um dos Agravados ter poderes para assinar os cheques. Por fim, asseverou que, em caso de eventual procedência, o expediente poderia ser efetivado em fase de liquidação.
+(..)
+ Por entender que a perícia grafotécnica é desnecessária no momento, posto que o mérito da demanda versa sobre assunto diverso, porém conexo, o MM. Juiz, reconsiderando decisão anterior, indeferiu sua produção (f. 28-29-TJ).
+(..)
+ Pelo que se pode verificar nestes autos instrumentais, há de se concluir que houve cerceamento de defesa, pois, apesar de o Magistrado ter o poder de indeferir provas desnecessárias (art. 130 do CPC), e da possibilidade de ulterior liquidação (arts. 475-a a 475-H do CPC), há justificativa relevante para a produção das provas pericial e testemunhal.
+ Com efeito, a liquidação não se converte em licença para postergação do acertamento do direito, que deve ocorrer essencialmente durante a fase cognitiva.
+ Assim, tratando-se de ação na qual se discute a responsabilidade pela emissão de cheques sem poderes para tanto, a perícia grafotécnica mostra-se indispensável para determinara autoria das assinaturas. Transferir-se a prova para a liquidação, como se afirmou na decisão recorrida, apenas retardaria a definição dos limites da responsabilidade.
+O acórdão recorrido, ao deferir a produção de prova pericial, referiu-se exclusivamente à prova pericial grafotécnica.
+Assim, não merece reparos a decisão agravada.
+Com efeito, o entendimento adotado pelo acórdão que não conheceu dos segundos embargos de declaração está em conformidade com a pacífica jurisprudência do Superior Tribunal de Justiça, segundo a qual "os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa" (EDcl nos EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2017, DJe 20/02/2018).
+Como já consignado, os primeiros embargos de declaração se limitaram a apontar omissão no tocante à ausência, na parte dispositiva do acórdão que julgou o agravo de instrumento, do deferimento da produção da prova testemunhal.
+Já as apontadas omissões quanto à existência de pedido de produção da prova pericial contábil e à necessidade de produção de prova pericial grafotécnica para atestar a autenticidade da assinatura do Sr. [NOME] somente foram indicadas nos segundos embargos de declaração, razão pela qual deve ser confirmada a preclusão consumativa.
+Como se não bastasse, reafirmo que o argumento de que a "perícia grafotécnica serviria, também, para atestar a assinatura do Sr. [NOME], em alguns cheques, em conjunto com o réu [NOME]" constitui indevida inovação recursal.
+Isso porque, o agravantes, ao reiterarem o pedido de produção da prova pericial grafotécnica, esclareceram expressamente que pretendiam apenas atestar a autenticidade das assinaturas apostas por [NOME] nos cheques contestados (e-STJ Fl. 483).
+Por fim, convém esclarecer que a perda parcial do objeto do recurso especial foi afirmada baseada no relatório da sentença de e-STJ Fl. 1128, em que consta a seguinte informação: "prova pericial contábil deferida em decisão de fl.727".
+De outra parte, ainda que se admita que a decisão que deferira a produção da prova pericial contábil foi reconsiderada, as informações trazidas pelos agravados à e-STJ Fl. 1125 corroboram a perda parcial do objeto do recurso especial, pois esclarecem que "durante a audiência de instrução realizada no dia 19/4/2016, as partes expressamente dispensaram a produção das demais provas, oportunidade em que o juiz de primeira instância abriu vista sucessiva para apresentação de alegações finais".
+Essa informação consta da parte final do relatório da sentença (e-STJ Fl. 1129).
+De qualquer sorte, convém esclarecer que a perda parcial do objeto do recurso especial foi utilizada pela decisão agravada apenas como reforço argumentativo, que em nada altera a conclusão acerca da preclusão consumativa da matéria quando do julgamento dos segundos embargos de declaração.
+Com todas essas considerações, por onde quer que se analise a controvérsia, a pretensão recursal não merece prosperar e a decisão agravada merece ser mantida.
+Com relação aos pedidos dos agravados, deixo, por ora, de condenar os agravantes ao pagamento da multa do art. 1.021, § 4º, do CPC, por não verificar o intuito manifestamente protelatório da oposição do presente agravo interno.
+Como se sabe, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 24/08/2016, DJe 29/08/2016).
+Diante do exposto, nego provimento ao agravo interno.
+Advirto novamente que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
