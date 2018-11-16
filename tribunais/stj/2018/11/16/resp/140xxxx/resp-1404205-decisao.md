@@ -1,0 +1,21 @@
+DECISÃO
+ Trata-se de recurso especial interposto por [NOME] [NOME], com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA: DANO MATERIAL - Hipótese em que o banco não credita a integralidade do valor do cheque depositado em conta corrente - Assiste ao correntista o direito à devolução dos encargos decorrentes da ausência da diferença a que fazia jus - Recurso do réu parcialmente provido e recurso adesivo não conhecido.
+DANO MORAL - O dano moral não se caracteriza quando há mero aborrecimento inerente a prejuízo material ou inadimplemento contratual. Só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação intensa e duradoura que, fugindo à normalidade, cause aflições, angústia e desequilíbrio ao bem-estar - Recurso do réu parcialmente provido e r"e urso adesivo não conhecido." (e-STJ,fl.133)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 143/147)
+Em suas razões recursais, aponta violação dos arts. 186 e 927 do CC, sustentando, em síntese, que é devida a condenação do banco recorrido ao pagamento de indenização por danos morais por ter creditado valores a menor na sua conta, gerando assim a cobrança de encargos indevidos, bem como por ter humilhado e submetido o recorrente a situação vexatória e constrangedora quando buscou ser restituído do valor que efetivamente havia depositado em sua conta bancária.
+Apresentadas contrarrazões às fls. 274/290.
+É o relatório. Passo a decidir.
+O Tribunal de origem, no que pertine ao pleito de condenação do recorrido ao pagamento de indenização danos morais, expressamente consignou o seguinte:
+"No mais, o dano moral não se caracteriza quando há mero aborrecimento inerente a prejuízo material ou inadimplemento contratual.
+O autor narra que, na tentativa de receber a diferença devida, sofreu ofensas de funcionários da agência bancária e foi obrigado a fazer reclamação perante o Procon. Porém, apesar das apreensões e aborrecimentos certamente ocorridos, é exagerado dizer no caso de efetivos danos morais." (e-STJ, fls.136)
+Ao assim decidir, o v. acórdão recorrido à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu que ficou demonstrada nos autos a ausência de conduta da recorrida capaz de gerar abalo moral ao recorrente.
+Coadunou-se, assim, com o entendimento desta Corte no sentido de que quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral.
+No caso dos autos, o depósito a menor de R$ 72,00 na conta do recorrente e as tratativas para solucionar tal equívoco constituem circunstância a ensejar mero aborrecimento ou dissabor, mormente quando consiste em mero descumprimento contratual, que embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente. Nesse sentido:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DEVER DE INDENIZAR. CLÁUSULA CONTRATUAL CONTROVERTIDA.
+1. O mero descumprimento de cláusula contratual controvertida não enseja a condenação por dano moral.
+2. Embora a jurisprudência tenha posteriormente se consolidado no sentido da invalidade de cláusula que exclua a cobertura de stent, no caso em exame, a circunstância de o contrato não ter sido adaptado à Lei 9.656/98 emprestava, na época em que ocorridos os fatos, relevância à discussão travada pelo réu, tese acolhida pelo relator originário da apelação 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1457475/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/09/2014, DJe 24/09/2014)
+Ademais, a alteração do contexto fático delimitado pelo acórdão recorrido, para reconhecer a existência de humilhações e situações vexatórias, como descreve o recorrente, é inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de se reexaminar o acervo probatório dos autos, providência, todavia, incabível, a atrair a incidência do enunciado nº 7 da súmula do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
