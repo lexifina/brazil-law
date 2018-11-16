@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL (CPC/2015). AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO QUE INADMITE O RECURSO ESPECIAL. CABIMENTO. DECISÃO GENÉRICA. INTERRUPÇÃO DO PRAZO. VERIFICADA A TEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO EM RECURSO ESPECIAL (CPC/2015). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interno interposto por [NOME], contra decisão proferida pela Ministra Presidente deste Superior Tribunal de Justiça, de fls. 525-526, e-STJ, que não conheceu do agravo em recurso especial, ante a sua intempestividade.
+Nas razões do agravo interno, às fls. 548-551, e-STJ, a agravante sustenta a tempestividade do recurso, alegando que " ..  tendo em vista que da decisão publicada em 17/03/2017 foram opostos embargos em 24/03/2017, os quais foram rejeitados em acórdão publicado em 16/08/2017, iniciando o prazo para interposição do agravo no dia útil seguinte, em 17/08/2017, o qual sendo computado em dias úteis se encerrou em 06/09/2017, data em que fora protocolizado o recurso em questão  .. " (e-STJ, fl. 549).
+Impugnação às fls. 555-560, e-STJ.
+É o relatório.
+Passo a decidir.
+Em nova análise e considerando os argumentos declinados nas razões do presente agravo interno, com fulcro no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada.
+Isso porque, de fato, assiste razão à agravante, no que tange a tempestividade do agravo em recurso especial interposto.
+Com efeito, compulsando os autos, verifica-se que a decisão que inadmitiu o recurso especial foi disponibilizada em 16/03/2017, sendo considerada publicada em 17/03/2017, conforme certidão de fl. 489, e-STJ. Entretanto, com a oposição dos embargos de declaração, em 24/03/2017, o prazo para a interposição do agravo foi interrompido, de forma que iniciou-se novamente no dia 17/08/2017, com término em 06/09/2017.
+Nesse sentido, com o advento do Código de Processo Civil de 2015, que prevê em seu artigo 1.022 que cabem embargos de declaração contra qualquer decisão judicial, a fim de esclarecer obscuridade ou eliminar contradição, suprir eventuais omissões e corrigir erros materiais, entende-se que inclusive a decisão que inadmite o recurso especial na origem pode ser objeto de embargos de declaração.
+Ademais, a Corte Especial, quando do julgamento do EAREsp 275.615/SP, de relatoria do Ministro ARI PARGENDLER, em 13/03/2014, firmou entendimento que, a oposição de embargos de declaração contra decisão que nega seguimento a recurso especial só interrompe o prazo do agravo dirigido ao Superior Tribunal de Justiça se for genérica a impedir a própria interposição do recurso previsto no artigo 1.042 do CPC/2015, o que, verifica-se, é a hipótese dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL LOCAL. COMPROVAÇÃO POR DOCUMENTO IDÔNEO. NÃO DEMONSTRADA. TEMPESTIVIDADE NÃO EVIDENCIADA. RECURSO ESPECIAL INTEMPESTIVO. ART. 508 DO CPC/73. AGRAVO EM RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. PRAZO DE 15 DIAS. ARTS. 219 E 1.003 DO NCPC. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO NOS PRÓPRIOS AUTOS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. É pacífica a jurisprudência desta Corte no sentido de que os embargos de declaração, quando opostos contra decisão de inadmissão do apelo nobre, não interrompem o prazo para interposição do agravo em recurso especial, excetuando-se os casos em que referida decisão for tão genérica que impossibilite a interposição do respectivo agravo, o que não ocorre no caso.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp 1.276.095/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/08/2018, DJe em 03/09/2018, grifei)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. INTERRUPÇÃO DO PRAZO. INOCORRÊNCIA.
+1. A oposição de embargos de declaração em face da decisão que inadmitiu o recurso especial não interrompe o prazo do agravo do art. 1.042 do CPC/2015, exceto quando a referida decisão for tão genérica que impossibilite a interposição do respectivo agravo. Precedentes da Corte Especial.
+2. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.146.471/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/03/2018, DJe em 09/03/2018, grifei).
+Nesse sentido, o agravo interno deve ser acolhido, uma vez que verifico que o agravo em recurso especial foi protocolado dentro do prazo legal de 15 (quinze) dias, nos termos do artigo 1.070 do Código de Processo Civil de 2015, restando, pois, patente sua tempestividade.
+Deste modo, a reconsideração do decisum é medida que se impõe, para que prossiga à análise do agravo em recurso especial.
+Trata-se de agravo em recurso especial interposto em face de decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o recurso especial, fundamentado no artigo 105, inciso III, alínea "a" e "c", da Constituição Federal.
+É o relatório.
+O presente recurso não pode ser conhecido, em virtude da ausência de impugnação específica dos fundamentos da decisão agravada.
+Isso porque, em atenção ao princípio da dialeticidade, esta Corte Superior tem manifestado reiteradamente, conforme previsto no artigo 932, inciso III, do Código de Processo Civil de 2015, a necessidade de impugnação específica a todos os fundamentos de inadmissão do recurso especial.
+Na hipótese dos autos, o Tribunal de origem, em decisão de fls. 487-488, e-STJ, inadmitiu o recurso especial por considerar que i) o acórdão recorrido não teria violado os artigos 489 e 1.022, do CPC/2015; (ii) a parte agravante não teria demonstrado a alegada violação aos dispositivos arrolados (iii) acolher a prentesão da agravante demandaria o reexame fático-probatório, vedado pela Súmula nº 07/STJ e (iv) incidência da Súmula nº 284/STF, em virtude da ausência de julgados para se proceder o cotejo analítico necessário a comprovar a divergência jurisprudencial alegada.
+Nas razões do presente agravo (e-STJ, fls. 505-510), a parte agravante limitou-se a alegar que "a referida decisão, ao proceder à juízo de admissibilidade preliminar, além de entrar no mérito de questões de competência para julgamento pelo Colendo Superior Tribunal de Justiça, apresenta fundamentação genérica que se limita à indicação, reprodução e paráfrase de atos normativos, precedentes e súmulas, sem explicar sua relação com a causa ou questão decidida; invocando motivos que se prestam a justificar qualquer decisão; e não enfrentando os argumentos deduzidos no recurso capazes de infirmar a conclusão adotada" (e-STJ, fl. 507).
+Com efeito, é pacífico o entendimento desta Corte de que a parte agravante deve impugnar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+(..)
+5. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 1075210/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/05/2017, DJe em 26/05/2017, grifei).
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  1.  AUSÊNCIA DE IMPUGNAÇÃO  ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO  APELO  NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. 2. AGRAVO IMPROVIDO.
+1.  Em  atenção ao princípio da dialeticidade recursal, as razões do agravo  em recurso especial devem infirmar os fundamentos da decisão de  inadmissibilidade  do  apelo  nobre,  proferida pelo Tribunal de origem,  sob  pena  de  não  conhecimento  do reclamo por esta Corte Superior,  nos  termos do artigo 932, III, do CPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno improvido. (AgInt no AREsp 884.574/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, Dje em 01/07/2016, grifei).
+Nesse contexto, à luz do princípio da dialeticidade, conclui-se pelo não conhecimento do presente recurso.
+Por fim, considerando que o presente recurso foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado administrativo nº 7/STJ), arbitro os honorários recursais em R$ 400,00 (quatrocentos reais), a serem suportados exclusivamente pela parte recorrente, em acréscimo àqueles da sucumbência do caso, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015, ressalvada eventual concessão do beneficio de gratuidade de justiça.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
