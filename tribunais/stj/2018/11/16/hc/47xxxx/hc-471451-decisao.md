@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o Juízo da Vara de Execução reconheceu que o paciente cometeu falta grave, determinando a regressão ao regime fechado e declarando a perda de 6 dias de remição outrora concedida ao apenado, em razão de 19 dias de evasão do paciente do estabelecimento penitenciário. Na ocasião, entendeu que, "caso o montante de dias ora declarados perdidos for superior ao limite de 1/3 antes referido, deverá ser observado referido limite" (e-STJ, fl. 49).
+O agravo em execução interposto pelo Ministério Público foi provido pelo Tribunal de origem, nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO PENAL. FALTA GRAVE. RECONHECIMENTO. DIAS REMIDOS. PERDA DE 1/3 DO TOTAL DE DIAS REMIDOS PELO APENADO ATÉ A DATA DA SUA RECAPTURA. DECISÃO REFORMADA.
+AGRAVO PROVIDO" (e-STJ, fl. 81).
+Neste writ, alega a impetrante constrangimento ilegal, pois o acórdão macula o direito de antecipar os lapsos temporais para benefícios e para a extinção da pena. Afirma a ausência de fundamentação atinente ao critério que conduziu à incidência da fração consistente na perda de 1/3 dos dias remidos, o que afronta o art. 93, IX, da Constituição Federal.
+Tece considerações sobre o direito a remição dos dias trabalhados e a necessidade de fundamentação exaustiva a respeito da decretação da perda do dia remido.
+Requer, liminarmente e no mérito, a reforma do acórdão recorrido a fim de que a perda dos dias remidos seja estabelecida em fração que atenda aos parâmetros de adequação e necessidade.
+A liminar foi indeferida (e-STJ, fls. 96-97).
+Prestadas as informações (e-STJ, fls. 104-154), o Ministério Público Federal opina pelo não conhecimento do writ ou, caso ultrapassado, pela denegação da ordem (e-STJ, fls. 164-167).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Tribunal de origem, reformando a sentença, utilizou-se do parecer do Procurador de Justiça, e decretou a perda de 1/3 do total de dias remidos pelo apenado até a data da sua recaptura, nestes termos:
+"Infere-se da Guia de Execução Penal que o apenado [NOME] foi condenado à pena de 13 (treze) anos e 06 (seis) meses e 20 (vinte) dias de reclusão, pela prática dos crimes de tráfico de drogas, associação para o tráfico e roubo majorado, tendo iniciado o cumprimento da pena em 15 de setembro de 2011 (fls. 38/44).
+Ocorre que, no curso da execução da pena, o apenado empreendeu fuga, evadindo-se do sistema prisional em 09 de setembro de 2017 e sendo recapturado no dia 28 de setembro de 2017.
+O artigo 127 da Lei das Execuções Penais refere que, "em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar".
+O referido artigo não limita a perda de eventuais dias remidos ao período em que o apenado cometeu a falta grave, decretando que a revogação de até 1/3 dos dias remidos deve ser realizada no que tange a todos os dias trabalhados em período anterior à falta grave praticada.
+Com efeito, não há qualquer dispositivo legal que refere que a perda dos dias remidos deve ser relativa ao lapso temporal em que a fuga foi empreendida, como entendeu o Magistrado singular.
+Desse modo, além de equivocada, por não encontrar amparo legal, a decisão do Juízo a quo mostra-se insuficiente para repreender a atitude de irreverência do apenado para com o sistema de execução penal e ineficiente para prevenir que novas faltas sejam cometidas durante a execução do restante da reprimenda, uma vez que ela retira do apenado, cujo comportamento mostra-se inadequado, apenas 3% dos dias trabalhados (06 dias de 196 dias remidos).
+Ademais, a referida sentença destoa da jurisprudência deste egrégio Tribunal de Justiça, que tem o entendimento consolidado de que a perda de até 1/3 dos dias remidos se dará com relação a todos os dias já remidos pelo apenado até o momento da prática da falta grave. Veja-se:
+(..)
+Neste contexto, bem como considerando as peculiaridades do caso em análise - o apenado já empreendeu fuga em outra oportunidade, do dia 21 de novembro de 2014 ao dia 08 de janeiro de 2015, e teve declarada a perda de dias remidos em quatro oportunidades anteriores a esta, pelo cometimento de faltas graves -, impõe-se a reforma da decisão, devendo ser decretada a perda 1/3 do total dos dias remidos, sob pena de se desrespeitar o viés punitivo das sanções àqueles apenados cujos comportamento são inadequados" (e-STJ, fls. 82-84).
+Com efeito, a jurisprudência do STJ é firme no sentido de que, em razão da prática de falta grave, a perda de até 1/3 dos dias remidos exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP ("A natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+Assim, na hipótese dos autos, consoante se afere do acórdão, a perda de 1/3 dos dias remidos foi devidamente fundamentada, não se verificando, portanto, nenhuma ilegalidade imposta ao paciente apta a autorizar a concessão da ordem, de ofício.
+A propósito, vejam-se estes precedentes:
+"1. É pacífica a jurisprudência do STF e deste STJ de que o cometimento de falta grave durante a execução da pena poderá ensejar a perda dos dias remidos pelo trabalho, nos termos do art. 127 da Lei de Execução Penal. A partir da Lei 12.433, de 29/6/2011, que alterou a redação do art. 127 da Lei de Execução Penal, a revogação dos dias remidos ficou limitada à fração máxima de 1/3 (um terço).
+2. Nos termos da orientação desta Corte, a escolha da fração de perda dos dias remidos em razão da prática de falta grave deve ser fundamentada pelo Magistrado, consoante disposição expressa do art. 57 da Lei de Execuções Penais.
+ .. ."
+(AgRg no AREsp 674.125/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/06/2015, DJe 29/06/2015.)
+"- O art. 127 da Lei n. 7.210/84, com a nova redação dada pela Lei n. 12.433/11, concede ao juízo da execução a discricionariedade para determinar o patamar de perda do tempo remido, observados os parâmetros do art. 57 da LEP (a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão).
+- Na hipótese dos autos, o juízo da execução declarou a perda de 1/3 do tempo remido, mas não apresentou fundamentação, com base nos parâmetros do art. 57 da LEP, que justifique a escolha desse patamar, o que configura patente ilegalidade. Precedentes: HC n. 282.265/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/5/2014; HC n. 299.308/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 3/10/2014." (HC 312.977/RS, Rel. Ministro ERICSON MARANHO, Desembargador convocado do TJ/SP, SEXTA TURMA, julgado em 18/06/2015, DJe 30/06/2015.)
+Ante o exposto, nos termos do art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, certifique-se o trânsito em julgado desta decisão e arquivem-se os autos.
