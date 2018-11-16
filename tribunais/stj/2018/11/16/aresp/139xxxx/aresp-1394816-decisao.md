@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. REPETIÇÃO DE INDÉBITO. EXECUÇÃO DE SENTENÇA. PEDIDO ADMINISTRATIVO DE COMPENSAÇÃO. NÃO OCORRÊNCIA DE INTERRUPÇÃO E/OU SUSPENSÃO DA PRESCRIÇÃO. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manejado por COMMERCE DESENVOLVIMENTO MERCANTIL LTDA e OUTROS em face de decisão que negou admissibilidade ao recurso especial em razão da conformidade do acórdão recorrido com a jurisprudência do STJ, bem como em razão da incidência da Súmula nº 7 do STJ em razão da necessidade de revolvimento de matéria fático-probatória.
+As agravantes insurgem-se contra a decisão agravada alegando que a aferição da interrupção da prescrição na hipótese não demanda análise de matéria fático-probatória, tendo em vista a ciência do visto em relação aos pedidos de compensação formulados em [NOME], outrossim, que a Súmula nº 461 do STJ assegura ao contribuinte a possibilidade de repetição de indébito via precatória ou de compensação dos valores assegurados em sentença transitada em julgado, sendo desnecessária a informação nos autos a respeito das compensações pleiteadas administrativamente.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 1.285-1.288 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece acolhida.
+É que esta Corte já se manifestou no sentido de que o pedido administrativo de compensação do crédito tributário não caracteriza a interrupção do prazo prescricional para a ação de execução. Precedentes: AgRg no REsp 1.575.004/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/3/2016; REsp 1.248.618/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/2/2015; AgRg no AgRg no REsp 1.217.558/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 19/4/2013.
+Ou seja, ainda que haja a possibilidade de compensação ou recebimento via precatório, a critério do contribuinte, dos valores do indébito reconhecidos em sentença transitada em julgado, na forma da Súmula nº 461 do STJ, tal possibilidade não dispensa o contribuinte de requerer a execução do julgado nos autos no prazo prescricional, eis que, como já ressaltado alhures, o pedido administrativo de compensação do crédito tributário não caracteriza a interrupção do prazo prescricional para a ação de execução.
+Nesse sentido, também:
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. EXECUÇÃO DE SENTENÇA. PEDIDO ADMINISTRATIVO DE COMPENSAÇÃO. NÃO OCORRÊNCIA DE INTERRUPÇÃO E/OU SUSPENSÃO DA PRESCRIÇÃO.
+1. O entendimento desta Corte Superior é no sentido de que o pedido administrativo de compensação do crédito tributário não caracteriza a interrupção do prazo prescricional para a ação de execução. Precedentes: AgRg no REsp 1.575.004/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/3/2016; REsp 1.248.618/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/2/2015; AgRg no AgRg no REsp 1.217.558/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 19/4/2013.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1.423.074/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 09/05/2018)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
