@@ -1,0 +1,43 @@
+DECISÃO
+1. Cuida-se de agravo interposto por LACY MEDEIROS DO NASCIMENTO E SILVA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL assim ementado:
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE EXECUÇÃO. BAIXA E ARQUIVAMENTO. AUSÊNCIA DE COMANDO EXTINTIVO.
+A mera determinação de arquivamento dos autos, com baixa, por si só, não é causa de extinção da ação executiva, por não se enquadrar em qualquer das hipóteses do artigo 794 do Código de Processo Civil de 1973 - conforme então vigente (art. 924 do Novo Código de Processo Civil).
+AGRAVO DE INSTRUMENTO IMPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 237-242).
+Nas razões do recurso especial (fls. 248-260), a recorrente alega violação do art. 1.022, parágrafo único, II, e 489, § 1º, III, do CPC/2015, por entender que o Tribunal de origem se valeu de fundamentação genérica, deixando de analisar os argumentos oportunamente apresentados.
+Aponta contrariedade ao art. 794, III, do CPC/1973, sob o argumento de que "(..) a decisão recorrida olvidou que não se trata de mero arquivamento administrativo do processo, mas de extinção pela desídia do credor que não foi objeto de irresignação, havendo o trânsito em julgado (..)".
+É o relatório. DECIDO.
+2. O recurso não merece prosperar.
+Conforme se verifica às fls. 380-381, a Corte local indeferiu o pedido de concessão dos benefícios da justiça gratuita, pois não houve a devida comprovação dos pressupostos legais para seu deferimento, determinando-se, ao final, a intimação da parte para recolhimento do preparo do recurso especial.
+Ao realizar o juízo de admissibilidade do apelo nobre, o Tribunal de origem asseverou que a parte recorrente, uma vez intimada a efetuar o preparo do recurso, limitou-se a opor embargos de declaração contra a decisão que indeferiu a gratuidade de justiça. Desse modo, concluiu-se pela deserção do apelo (fl. 408).
+Em agravo em recurso especial (fls. 418-424), a parte insurgente insiste na alegação de que faz jus à concessão da AJG, pois não possui meios para litigar em juízo, devendo ser afastada a deserção.
+Ciente disso, afirmo que não merece reparos a decisão prolatada pela Corte estadual, uma vez que, de acordo com o art. 1.007, § 7º, do CPC/2015, "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+Na hipótese dos autos, a arte recorrente, mesmo após intimada a regularizar o preparo, não o fez devidamente, caracterizando, assim, a deserção do recurso especial.
+Conforme entendimento do STJ, "Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. IRREGULARIDADE. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS COMPLEMENTARES. DESERÇÃO. INCIDÊNCIA DA SÚMULA 187 DO STJ.
+1. O Superior Tribunal de Justiça possui jurisprudência pacífica de que "a comprovação do preparo do recurso especial deve ser feita mediante a juntada, no ato da interposição do recurso, das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento" (STJ, AgInt no REsp 1.622.574/RS, Rel.
+Ministro Francisco Falcão, Segunda Turma, DJe 27/4/2017).
+2. De acordo com o posicionamento adotado por esta Corte Superior em caso análogo "descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso, intimado para efetuar o recolhimento em dobro e permanecendo inerte, o recorrente deve ter seu recurso inadmitido com fundamento na deserção. Incide, na espécie, o disposto na Súmula 187 deste Tribunal" (AgInt no AREsp 1.229.342/SP, Rel. Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 16/8/2018, DJe 22/8/2018).
+3. No caso, consignou a Corte de origem que a parte recorrente não realizou o necessário recolhimento em dobro das despesas recursais, apesar de regularmente intimada, circunstância que ensejou na declaração de deserção do recurso especial, nos termos da orientação sumulada no verbete 187 do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos." 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1175991/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/09/2018, DJe 27/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. PREPARO. RECOLHIMENTO INSUFICIENTE. OPORTUNIDADE PARA COMPLEMENTAÇÃO. NÃO CUMPRIMENTO. DESERÇÃO. SÚMULA 187 DO STJ. AUSÊNCIA DE DEFICIÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO ESTADUAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que, "se após a abertura de prazo para regularização do preparo não for realizada a complementação devida, considera-se deserto o recurso" (AgRg no AREsp nº 207.837/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 7/4/2015).
+2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos." Súmula 187/STJ.
+3. O acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar violação ao art. 489 do CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1265495/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agravo interno contra decisão da Presidência desta Corte que não conheceu do recurso, em razão de deserção.
+2. Em não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do artigo 1.007, caput e § 4º, do CPC.
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso, intimado para efetuar o recolhimento em dobro e permanecendo inerte, o recorrente deve ter seu recurso inadmitido com fundamento na deserção. Incide, na espécie, o disposto na Súmula 187 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1229342/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREPARO. AUSÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PROVA. PRECLUSÃO. PAGAMENTO EM DOBRO NÃO DEMONSTRADO. DESERÇÃO. ART. 1.007, § 4º, DO NCPC. SÚMULA Nº 187 DO STJ. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O STJ consolidou o entendimento de que os recursos interpostos devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+3. A simples afirmação da parte de ser beneficiária da assistência judiciária gratuita não basta para afastar a pena de deserção imposta pela Súmula nº 187 do STJ. Precedentes.
+4. Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte.
+5. Agravo interno não provido.
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
