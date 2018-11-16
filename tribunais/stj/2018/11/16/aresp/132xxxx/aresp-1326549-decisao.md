@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] S/A contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 320, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO POR DANO MORAL. COBRANÇA INDEVIDA APÓS RESCISÃO UNILATERAL DE CONTRATO DE RASTREAMENTO DE VEÍCULOS. NEGATIVAÇÃO. PESSOA JURÍDICA.
+SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DE AMBAS AS PARTES. Autora que interpôs dois recursos - principal e adesivo. Impossibilidade de conhecimento do adesivo, diante da preclusão consumativa e da aplicação do princípio da unirrecorribilidade das decisões. Hipótese em que o Órgão Especial deste TJRJ ao decidir o Conflito de Competência suscitado por esta Eg. Câmara concluiu que a relação jurídica estabelecida entre as partes não se qualifica como de consumo, devendo, portanto, ser analisada sob as regras do Código Civil/2002. A relação contratual restou incontroversa, divergindo as partes, entretanto, com relação a data efetiva do rompimento do pacto. Conjunto probatório que evidencia que o pedido de cancelamento do contrato formulado pela empresa autora foi recepcionado pela ré, apenas, em 18/01/2011. Legitimidade das cobranças, relativas ao período de junho a dezembro de 2010, corretamente reconhecida. No entanto, após a regularização do débito em 27/12/2010, a ré não providenciou a exclusão do nome da empresa autora do cadastro do SERASA, situação, esta, que perdurou até a concessão da tutela antecipada, em março de 2012. Dano moral caracterizado. Súmula 227 do STJ. Honra objetiva.
+Dificuldade de obtenção de crédito no mercado. Indenização arbitrada em R$ 6.000,00 (seis mil reais). Quantum fixado que atende aos critérios de razoabilidade e proporcionalidade, sendo eficiente não apenas para reparar o dano, como também desestimular reiterações da conduta lesiva. Juros de mora.
+Responsabilidade contratual. Julgado que fixa corretamente a incidência daquela rubrica a contar da citação, estando em conformidade com jurisprudência do STJ. DESPROVIMENTO DE AMBOS OS RECURSOS.
+Opostos embargos de declaração (fls. 353/356, e-STJ), esses foram desprovidos.
+Em suas razões de recurso especial (fls. 374/386, e-STJ), a recorrente apontou, além de dissídio jurisprudencial, violação aos artigos 373, I, 1.002 e 1025 do Código de Processo Civil/15; 188, 884 e 944 do Código Civil; 93, inciso IX da Constituição Federal. Sustentou, em síntese: i) a suspensão do processo até o pronunciamento do STJ sobre o Tema 937; ii) negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios em relação ao valor fixado para os danos morais; iii) a necessidade de redução do quantum indenizatório, pois fixado em patamar exorbitante, diante da circunstância do caso.
+Sem contrarrazões (fl. 404, e-STJ).
+Em juízo de admissibilidade (fls. 406/409, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de incidência das Súmulas 7 e 83 do STJ.
+Daí o agravo (fls. 418/429, e-STJ), buscando destrancar o processamento do apelo especial, no qual a insurgente alega ter preenchido os pressupostos de admissibilidade. Refuta os óbices supracitados.
+Sem contraminuta (fl. 434, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, no tocante ao pedido de sobrestamento do feito em razão de matéria submetida ao julgamento sob a sistemática dos recursos repetitivos, cumpre salientar que, no dia 10/05/2017, a Segunda Seção desta Corte Superior decidiu pela desafetação do REsp nº 1.446.213/SP, com o cancelamento do Tema nº 937 (DJe de 15/05/2017), razão pela qual não procede o referido pleito.
+2. Com efeito, no que tange à alegada violação ao art. 1022 do CPC/15, não merece acolhimento a insurgência da recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduz a ora agravante a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso em relação aos critério para a fixação do valor dos danos morais.
+Contudo, da leitura dos autos, constata-se que referida matéria foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fl. 331, e-STJ):
+Com relação ao quantum indenizatório, há que se ter em mente que o valor da indenização deve ter caráter compensatório e também punitivo-pedagógico, já que deve representar punição para o infrator, capaz de desestimulá-lo a reincidir na prática da conduta danosa.
+Desta forma, entendo que a quantia fixada pelo Juízo a quo no valor de R$ 6.000,00 (seis mil reais) não merece reforma, considerando as peculiaridades do caso concreto, bem como o lapso temporal da inscrição indevida, que perdurou desde dezembro de 2010 até a concessão da tutela antecipada, em março de 2012 - período mais do que suficiente para causar prejuízos à empresa.
+Ainda neste tocante, vale lembrar que a referida restrição apontava apenas um mês de débito (07/2011), cujo o montante era de R$551,00 (quinhentos e cinquenta e um reais).
+Portanto, no caso, a verba fixada atende aos princípios da razoabilidade e proporcionalidade, bem como aos critérios compensatório e punitivo-pedagógico, a fim de desestimular a conduta lesiva.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÃO. INVERSÃO DO ÔNUS DA PROVA E DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC (art. 535, I e II, do CPC/73). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+(AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+3. Com efeito, o Tribunal local, com amparo nos elementos de convicção dos autos, decidiu pela presença dos requisitos ensejadores da reparação civil, relativamente à manutenção/inscrição indevida do nome da agravada em cadastros de inadimplentes, definindo o quantum indenizatório segundo critérios de razoabilidade.
+Confira-se trecho extraído do aresto hostilizado (fls. 330/331, e-STJ):
+Não obstante, a hipótese em apreço apresenta uma peculiaridade que deve ser considerada para a correta solução da lide, a saber: a 1ª Apelante comprova que efetuou o pagamento das faturas relativas aos meses em questão (junho a dezembro de 2010), no dia 27/12/2010 (docs. 059/062). Todavia, em 11/01/2012, ainda constava restrição em seu nome junto ao SERASA referente ao mês de julho de 2010 (doc. 064).
+Gize-se que, após a regularização do débito, cabia à ré- 2ª Apelante adotar todas as providências necessárias para excluir o nome da demandante dos cadastros de restrição ao crédito; o que não foi feito, uma vez que a restrição só foi resolvida após a decisão que concedeu a antecipação dos efeitos da tutela, proferida em 28/03/2012, conforme se infere dos docs. 140 e 149.
+Assim, resta evidente o ato ilícito praticado pela ré- 2ª Apelante.
+Acerca do dano moral, convém transcrever o teor a Súmula nº 227 do Superior Tribunal de Justiça:
+"Súmula nº 227. A pessoa jurídica pode sofrer dano moral."
+No caso concreto, diversamente do que foi alegado pela ré - 2ª Apelante, a empresa autora trouxe aos autos documento que comprova a ofensa à sua honra objetiva perante fornecedores e instituições financeiras, tendo em conta a necessidade de aquisição capital de giro, sendo que todas as empresas necessitam de crédito no mercado e a inscrição no SERASA é uma das formas de restringi-lo.
+Nesse sentido, vale destacar que o e-mail de fls. 57, enviado pelo Banco Santander à autora - 1ª Apelante, informa que em razão do apontamento realizado pela ré, todas as linhas de crédito da empresa foram automaticamente bloqueadas. (doc.064).
+De tal modo, correta a condenação da ré ao pagamento de verba a título de compensação pelo dano moral, já que presentes o ato ilícito, o dano e o nexo de causalidade, a ensejar o dever de reparar.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Em que pesem os argumentos deduzidos pela agravante, a pretensão voltada para a redução da verba indenizatória fixada pelo Tribunal de origem em R$ 6.000,00 (seis mil reais), a título de indenização por danos morais decorrente de inscrição indevida em cadastro restritivo de crédito, encontra óbice no enunciado contido na Súmula 7/STJ.
+Não obstante o grau de subjetivismo que envolve o tema, uma vez que não existem critérios predeterminados para a quantificação do dano moral, esta Corte Superior tem reiteradamente se pronunciado no sentido de que a indenização deve ser suficiente a restaurar o bem estar da vítima, desestimular o ofensor em repetir a falta, não podendo, ainda, constituir enriquecimento sem causa ao ofendido.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+Assim, se o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (RESP 259.816/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 27/11/2000).
+Dessa forma, para modificar as conclusões consignadas no acórdão impugnado e concluir estar exagerado o quantum indenizatório como quer a parte recorrente, seria necessária a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial (Súmula nº 7 do STJ).
+Nesse sentido: AgRg no REsp 1220686/MA, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 6/9/2011 e AgRg no AREsp 57.363/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 2/12/2011.
+Destaca-se, por oportuno, que este Tribunal Superior tem prelecionado ser razoável a condenação no equivalente a até 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito (REsp 295.130/SP, Rel. Min. Humberto Gomes de Barros, DJ 04.04.2005).
+Com a mesma orientação, também:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+1. A existência de ato ilícito a ensejar a condenação por danos morais foi estabelecida por meio da análise do conteúdo fático-probatório dos autos, que se situa fora da esfera de atuação desta Corte, nos termos da Súmula 7 do STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais fixado na origem, a jurisprudência deste Tribunal Superior permite o afastamento do óbice da Súmula 7/STJ. 2.1. Esta Corte tem entendimento assente no sentido de ser razoável, em caso de inscrição indevida em cadastros de inadimplentes, a quantificação dos danos morais em valor equivalente a até 50 salários mínimos.
+Precedentes.
+2.2. No caso dos autos, verifica-se que o quantum estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em sede de recurso especial.
+3. Consoante jurisprudência deste Tribunal Superior, a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Precedentes.
+4. A falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1278461/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA LAVRA DESTE RELATOR QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ. RESPONSABILIDADE CIVIL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. DANO MORAL. REVISÃO DO VALOR DA CONDENAÇÃO. EXCESSIVIDADE NÃO VERIFICADA. RECURSO NÃO PROVIDO.
+(..)
+3. O STJ já firmou entendimento de ser razoável a condenação em valor equivalente a até 50 (cinquenta) salários mínimos por indenização por dano moral decorrente de inscrição indevida em órgãos de proteção ao crédito. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1201603/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/03/2018, DJe 10/04/2018)
+5. Por fim, importante consignar que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. OMISSÃO E CONTRADIÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. DANO MORAL. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+4. É impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno ao qual se nega provimento.
+(AgInt no AREsp 1152399/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018; grifou-se)
+6. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
