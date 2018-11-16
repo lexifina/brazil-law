@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial, interposto por ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO MONITÓRIA. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA.
+1. Trata-se de ação monitória consubstanciada em instrumento particular de confissão de dívida, julgada procedente na origem.
+2. O Estado do Rio Grande do Sul é legitimado para propor a presente ação que objetiva recuperar créditos da extinta Caixa Econômica Estadual, na qualidade de seu sucessor, já que é o detentor do instrumento particular de confissão de dívida, ex vi 1egis da Lei Estadual 10.959/97, regulamentada pelo Decreto 38.536/98.
+3. A ação guarda caráter de direito pessoal, quando, então, o lapso prescricional era o do art. 177, caput, do Código Civil de 1916 - vinte anos.
+Contudo, na regra de transição (art. 2028 do Novo Código Civil), transcorrido menos da metade do prazo da legislação anterior, o prazo será o da lei nova, que restou diminuído para cinco anos, por força do inciso 1 do parágrafo 5º do artigo 206 do novo Código Civil, a contar da vigência da nova lei. É o caso dos autos. Prescrição inocorrente.
+4. E não se diga que o ora apelado não foi diligente e em providenciar na citação do apelante, posto que tal fato não restou comprovado nos autos, na medida que a simples necessidade de adequação do pólo passivo em razão do falecimento dos réus não pode ser tida como atraso no andamento do feito atribuível ao apelado, posto que diligente no requerimento e Indicação dos endereços dos inventariantes. Assim, aplicável à espécie o disposto no § 1º do art. 2 19 do CPC.
+5. O termo a quo para a incidência dos juros de mora é a citação, nos termos do que dispõe o art. 219 do CPC.
+6. Possível é a adoção da UPF como indexador da correção monetária no caso em comento, por ser o crédito oriundo da extinta Caixa Econômica Estadual, bem como porque o apelante não comprovou nos autos que isso implicaria em aumento da dívida, ex vi legis dos arts. 1º e 2º da Lei Estadual 12.760/07.
+APELAÇÃO PARCIALMENTE PROVIDA (fl. 124).
+O recorrente aponta ofensa aos arts. 535 do CPC/73 e 397 do CC, insurgindo-se contra a determinação de incidência dos juros de mora a partir da citação.
+Alegam que, "por se tratar de ação monitória, fundada em contrato de abertura de crédito em conta-corrente, o marco inicial para a contagem dos juros moratórios é o momento do inadimplemento, que constituiu o devedor em mora, não se aplicando o disposto no art. 219 do CPC". Argumentam que, "de acordo com o artigo 960 do Código Civil de 1916 (art. 397 do CC/02), o inadimplemento da obrigação no seu termo constitui de pleno direito em mora o devedor. Assim, vencido e não quitado contrato, conforme se verifica nos autos, passam a incidir os juros de mora, eis que detectado o inadimplemento da obrigação pactuada" (fls. 157/158).
+Sem contrarrazões (fl. 173).
+É o relatório. Decido.
+Segundo orientação jurisprudencial desta Corte, o termo inicial dos juros de mora, no caso de dívida positiva e líquida, com vencimento certo, é o dia do vencimento da dívida, ainda que cobrada por meio de monitória . Confiram-se, a propósito:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. TERMO INICIAL DE INCIDÊNCIA DE JUROS MORATÓRIOS. AÇÃO MONITÓRIA. RESPONSABILIDADE CONTRATUAL. VENCIMENTO DA DÍVIDA.
+1. No caso de obrigação contratada como positiva e líquida, com vencimento certo, os juros moratórios correm a partir da data do vencimento da dívida.
+2. O fato de a dívida líquida e com vencimento certo haver sido cobrada por meio de ação monitória não interfere na data de início da fluência dos juros de mora, a qual recai no dia do vencimento, conforme estabelecido pela relação de direito material.
+3. Embargos de divergência providos (EREsp 1342873/RS, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe, 18.12.2015).
+EMBARGOS DE DIVERGÊNCIA. JUROS MORATÓRIOS. AÇÃO MONITÓRIA. NOTA PROMISSÓRIA. RESPONSABILIDADE CONTRATUAL. VENCIMENTO DA DÍVIDA.
+1. Embora juros contratuais em regra corram a partir da data da citação, no caso, contudo, de obrigação contratada como positiva e líquida, com vencimento certo, os juros moratórios correm a partir da data do vencimento da dívida.
+2. Emissão de nota promissória em garantia do débito contratado não altera a disposição contratual de fluência dos juros a partir da data certa do vencimento da dívida.
+3. O fato de a dívida líquida e com vencimento certo haver sido cobrada por meio de ação monitória não interfere na data de início da fluência dos juros de mora, a qual recai no dia do vencimento, conforme estabelecido pela relação de direito material.
+4. Embargos de divergência providos para início dos juros moratórios na data do vencimento da dívida (EREsp 1250382/RS, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, DJe, 8.4.2014).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA FUNDADA EM CONTRATO DE CONFISSÃO DE DÍVIDA GARANTIDO POR NOTA PROMISSÓRIA. JUROS DE MORA. TERMO INICIAL. DATA DO VENCIMENTO DO TÍTULO. PRECEDENTES. RECURSO PARCIALMENTE PROVIDO.
+1. Os juros moratórios correm a partir da data do vencimento da dívida, quando esta for líquida e com vencimento certo, não interferindo na data de início da fluência o fato de sua cobrança ocorrer por meio de ação monitória. Precedente.
+2. Por se tratar de matéria de ordem pública, é possível a esta Corte proceder à adequação da incidência dos juros de mora, a fim de que, no cálculo da dívida, seja utilizado o percentual de 0,5% até a vigência do novo CC, aplicando-se, a partir daí, a taxa SELIC, sem que tal fato configure reformatio in peius, tampouco ofensa à coisa julgada.
+3. Agravo regimental parcialmente provido (AgRg no AREsp 572.243/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe, 4.5.2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. JUROS MORATÓRIOS. TERMO INICIAL. OBRIGAÇÃO COM PRAZO DE VENCIMENTO CERTO. MORA EX RE. ART. 397 DO CC/2002. DECISÃO MANTIDA.
+1. "Os juros moratórios correm a partir da data do vencimento da dívida, quando esta for líquida e com vencimento certo, não interferindo na data de início da fluência o fato de sua cobrança ocorrer por meio de ação monitória. Precedente" (AgRg no AREsp 572.243/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/4/2018, DJe 4/5/2018).
+2. Agravo interno a que se nega provimento (AgInt no AREsp 1264181/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe, 9.8.2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. MONITÓRIA. EMBARGOS. MORA. OBRIGAÇÃO POSITIVA, LÍQUIDA E COM TERMO CERTO. DIES INTERPELLAT PRO HOMINE. REGRA DO ART. 397, CAPUT, DO CC. ENTENDIMENTO PACIFICADO PELA CORTE ESPECIAL. REGIMENTAL NÃO PROVIDO.
+1. Tratando-se de obrigação positiva, líquida e com termo certo de vencimento, a regra a incidir é a do art. 397, caput, do CC - dies interpellat pro homine -, independentemente da espécie processual utilizada pelo credor, para cobrar o seu crédito.
+2. Em sendo o objeto da monitória títulos prescritos representando, cada um, obrigação positiva, líquida e com vencimento certo, a fluência dos juros de mora computa-se a partir da data do vencimento da dívida não adimplida, e não da citação. Precedentes: EREsp 1.250.382/RS, CORTE ESPECIAL, Rel. Ministro SIDNEI BENETI, julgado em 2/4/2014, DJe de 8/4/2014.
+3. Agravo regimental não provido (AgRg no REsp 1389717/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe, 20.3.2015).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial nos termos da fundamentação.
+Publique-se.
