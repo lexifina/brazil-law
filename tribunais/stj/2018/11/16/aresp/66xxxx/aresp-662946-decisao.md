@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] e outros contra decisão do Tribunal Regional Federal da Terceira Região que inadmitiu o recurso especial com amparo nos óbices das Súmulas 282 do STF e 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base nas alíneas "a" e "c" do permissivo constitucional contra acórdão, publicado na vigência do CPC/1973, assim ementado:
+FGTS. COMPLEMENTOS DE ATUALIZAÇÃO MONETÁRIA ORIUNDOS DA EDIÇÃO DE PLANOS ECONÔMICOS. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. TERMO FINAL DE INCIDÊNCIA. SATISFAÇÃO INTEGRAL DA OBRIGAÇÃO. ALTERAÇÃO DA TAXA DE JUROS APLICÁVEL POSTERIOR AO CUMPRIMENTO DA OBRIGAÇÃO.
+1. A aplicação dos juros de mora sobre o valor da condenação determinada em sentença transitada em julgado deve ser observada até a data do efetivo cumprimento do decisum, mediante a satisfação integral do título executivo judicial, que se dá com o pagamento do valor principal acrescido de seus acessórios.
+2. A alteração da taxa de juros de mora aplicável, decorrente de modificação legislativa posterior ao trânsito em julgado da decisão exequenda, ainda que anterior ao início da execução do julgado, não permite imputar à Caixa Econômica Federal o ônus pelo retardamento no cumprimento da obrigação unicamente por esta razão, se a alteração da taxa em questão ocorreu por força de decisão posterior até mesmo à satisfação da obrigação pela executada, incidentalmente à execução.
+3. Agravo legal ao qual se nega provimento.
+Os recorrentes apontam, além de divergência jurisprudencial, violação do art. 401 do Código Civil. Aduzem que, " ..  em 17/12/2003, não cumpriu a CEF efetivamente a obrigação imposta nos autos principais, uma vez que não computou em seus cálculos os juros de mora a taxa de 12% ao anos para o período que se inicia em janeiro/2003, como reconhecido pela decisão proferida nos autos do Agravo de Instrumento 2008.03.00.016980-5" (e-STJ, fl. 319).
+Destaca que, até janeiro de 2003, não houve cumprimento efetivo da obrigação.
+Sem contrarrazões.
+É o relatório.
+O presente recurso não merece prosperar.
+Não faz jus a conhecimento a assertiva de divergência jurisprudencial. Os recorrentes não demonstraram, mediante o cotejo analítico do acórdão combatido com os julgados paradigmas, a existência de dissenso quanto à aplicação do direito no caso concreto. Assim, descumpriram a regra dos arts. 541 do CPC/1973 e 255 do RISTJ.
+Quanto ao mais, o Tribunal a quo solucionou a controvérsia nos seguintes termos (e-STJ, fls. 307/308):
+De fato, a aplicação dos juros de mora sobre o valor da condenação determinada em sentença transitada em julgado deve ser observada até a data do efetivo cumprimento do decisum, mediante a satisfação integral do título executivo judicial, que se dá com o pagamento do valor principal acrescido de seus acessórios.
+No caso dos autos, portanto, os juros de mora incidentes sobre as diferenças que foram objeto de condenação devem ser computados até 17.12.2003, data do efetivo cumprimento da sentença em relação aos agravantes, consoante demonstra o documento juntado à fl. 103 (fl. 309 dos autos principais).
+Ao contrário do asseverado pelos agravantes, a Caixa Econômica Federal cumpriu integralmente a obrigação naquela data, porquanto depositou o valor do principal acrescido dos juros de mora de 6% ao ano, tal qual determinado pela sentença transitada em julgado (fls. 80/93).
+Por outro lado, a alteração da taxa de juros de mora aplicável decorreu de modificação legislativa posterior ao trânsito em julgado da decisão exequenda e, ainda que anterior ao início da execução do julgado, não se afigura justo imputar à Caixa Econômica Federal tal ônus, tendo em vista que a alteração da taxa em questão ocorreu por força de decisão posterior até mesmo à satisfação da obrigação pela executada, incidentalmente à execução.
+Dessa exposição, extrai-se que os motivos para a aplicação exclusiva da taxa de 6% (seis por cento) ao ano foram os seguintes: a) a Caixa Econômica Federal cumpriu integralmente sua obrigação em 17/12/2003; b) a decisão transitada em julgado fixou os juros de mora em 6% ao ano; c) a alteração legislativa pertinente ao índice apenas aconteceu após a formação da coisa julgada; d) "a alteração da taxa em questão ocorreu por força de decisão posterior até mesmo à satisfação da obrigação pela executada, incidentalmente à execução".
+Em suas razões recursais, porém, os recorrentes não atacam esses fundamentos. Assim, inviável a análise do apelo nobre, nos termos da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
