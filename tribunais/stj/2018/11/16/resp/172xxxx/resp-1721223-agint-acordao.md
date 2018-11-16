@@ -1,0 +1,52 @@
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTES DA LEI 10.395/1995. EXTENSÃO AOS INATIVOS E PENSIONISTAS. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Hipótese em que o Tribunal local consignou: "tratando-se de demanda que visa ao reconhecimento de reajustes salariais impagos, a prescrição atinge apenas as parcelas vencidas além do quinquênio, nos moldes da Súmula 85 do STJ, conforme já reiteradamente assentado na jurisprudência, tendo sido, inclusive, objeto de discussão por ocasião de julgamento, pelo rito dos processos repetitivos (art. 1.036 do CPC/2015), do Recurso Especial nº 1.336.213 - RS, Rel. Ministro Herman Benjamin" (fl .98, e-STJ).
+2. O STJ possui entendimento pacificado de que "a simples complementação de aposentadoria, sem necessária revisão dos critérios utilizados no próprio ato de aposentação, se traduz em prestação de caráter sucessivo, uma vez que se renova a cada mês de pagamento equivocado dos proventos. Incidência da Súm. n. 85/STJ" (AgInt no AREsp 998.699/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3.4.2017). A propósito: AgInt no AREsp 1.084.600/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 5.12.2017; AgInt no AREsp 1.048.762/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26.10.2017; e AgInt no AREsp 1.151.145/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6.3.2018.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que negou seguimento ao Recurso Especial interposto pelo Estado do Rio Grande do Sul (fls. 217-221, e-STJ).
+O insurgente, em breve síntese, reitera as questões de mérito do apelo recursal ao alegar que não se cuida de prestação de trato sucessivo, devendo ser reconhecida a prescrição do fundo de direito e ser afastada a incidência da Súmula 85/STJ.
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo colegiado, do Agravo Interno.
+Sem impugnação, conforme fl. 238, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.7.2018.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, ao dirimir a controvérsia, o Tribunal local consignou (fl. 98, e-STJ):
+Da Prescrição.
+Tratando-se de demanda que visa ao reconhecimento de reajustes salariais impagos, a prescrição atinge apenas as parcelas vencidas além do quinquênio, nos moldes da Súmula 85 do STJ, conforme já reiteradamente assentado na jurisprudência, tendo sido, inclusive, objeto de discussão por ocasião de julgamento, pelo rito dos processos repetitivos (art. 1.036 do CPC/2015), do Recurso Especial nº 1.336.213 - RS, Rel. Ministro Herman Benjamin
+Esta Corte Superior possui entendimento pacificado de que "a simples complementação de aposentadoria, sem necessária revisão dos critérios utilizados no próprio ato de aposentação, se traduz em prestação de caráter sucessivo, uma vez que se renova a cada mês de pagamento equivocado dos proventos. Incidência da Súmula 85/STJ" (AgInt no AREsp 998.699/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3.4.2017).
+A propósito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTES DA LEI 10.395/1995. EXTENSÃO AOS INATIVOS E PENSIONISTAS. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Hipótese em que o Tribunal local consignou: "Tratando-se de demanda que visa ao reconhecimento de reajustes salariais impagos, a prescrição atinge apenas as parcelas vencidas além do quinquênio, nos moldes da Súmula 85 do STJ, conforme já reiteradamente assentado na jurisprudência" (fl. 79, e-STJ).
+2. O STJ possui entendimento pacificado de que "a simples complementação de aposentadoria, sem necessária revisão dos critérios utilizados no próprio ato de aposentação, se traduz em prestação de caráter sucessivo, uma vez que se renova a cada mês de pagamento equivocado dos proventos. Incidência da Súm. n. 85/STJ" (AgInt no AREsp 998.699/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3.4.2017). A propósito: REsp 1.567.477/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 15.3.2017; AgInt no REsp 1.506.889/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 22.11.2016.
+3. Agravo Interno não provido.
+(AgInt no REsp 1673300/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/10/2017).
+ADMINISTRATIVO. (..) SERVIDOR ESTADUAL INATIVO. PROVENTOS. REVISÃO. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. A Primeira Seção desta Corte Superior, no julgamento do REsp 1.336.213/RS, examinado na forma do art. 543-C do CPC/1973, estabeleceu a incidência da Súmula 85/STJ às hipóteses em que se discute a aplicação do reajuste previsto na Lei n. 10.395/1995, do Estado do Rio Grande do Sul, sobre os 20% da Parcela Autônoma do Magistério - PAM incorporados aos vencimentos dos servidores.
+2. Essa orientação é aplicável também nos casos em que a discussão alcança os proventos do servidor inativo, porque, nesse tipo de ação, não se questiona o ato de aposentação, mas simplesmente os valores recebidos mês a mês, e essa espécie de relação é de trato sucessivo. Precedentes da Segunda Turma.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1084600/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 05/12/2017).
+(..)ADMINISTRATIVO. (..) SERVIDOR PÚBLICO APOSENTADO. REAJUSTE SALARIAL DA LEI ESTADUAL GAÚCHA 10.395/1995. AUSÊNCIA DE PEDIDO DE REVISÃO DO ATO DE APOSENTADORIA. COMPLEMENTAÇÃO DO VALOR DE PROVENTOS. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA 85 DO STJ. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. O acórdão combatido se alinha à jurisprudência desta Corte Superior de que nos casos em que a pretensão envolve o pagamento de vantagem pecuniária, atinente à complementação da aposentadoria, sem que isso envolva a revisão dos critérios utilizados no próprio ato de aposentação, por se tratar de prestações de trato sucessivo que se renovam mensalmente, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+2. Precedentes: AgInt no AREsp. 998.699/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017; AgInt no AREsp. 1.070.749/RS, Rel. Min. SÉRGIO KUKINA, DJe 25.8.2017; AgRg no REsp. 1.492.150/MG, Rel. Min. OG FERNANDES, DJe 28.5.2015; AgInt no REsp. 1.591.939/PR, Rel. Min. HUMBERTO MARTINS, DJe 10.8.2016; AgInt no REsp. 1.591.369/RS, Rel. Min. convocada DIVA MALERBI, DJe 14.6.2016.
+(..)
+5. Agravo Interno do ESTADO DO RIO GRANDE DO SUL a que se nega provimento.
+(AgInt no AREsp 1048762/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 26/10/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO INATIVO. REAJUSTE DA LEI 10.395/95 SOBRE A PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. PEDIDO DE RECÁLCULO DA APOSENTADORIA. PRETENSÃO DE TRATO SUCESSIVO. ENTENDIMENTO CONSAGRADO NA SÚMULA 85 DO STJ.
+1. A decisão agravada está de acordo com jurisprudência deste Superior Tribunal, segundo a qual, nas ações em que se discute o recebimento de vantagem pecuniária, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ).
+2. Na hipótese dos autos, a discussão não envolve a revisão do ato de aposentadoria, mas simples recálculo em razão de reajuste que deixou de ser considerado na apuração dos proventos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1151145/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/03/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA ESTADUAL APOSENTADA. PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. REAJUSTES DA LEI ESTADUAL 10.395/1995. PRESCRIÇÃO DO DIREITO DE AÇÃO. NÃO OCORRÊNCIA. APLICAÇÃO DA SÚMULA 85/STJ.
+1. A discussão travada nos presentes autos não envolve a revisão do ato de aposentadoria, mas simples recálculo em razão de reajuste que deixou de ser considerado na apuração dos proventos.
+2. O Tribunal de origem dirimiu a controvérsia em conformidade com a jurisprudência desta Corte segundo a qual, nas ações em que se discute o recebimento de vantagem pecuniária, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp 1172075/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/05/2018).
+Portanto, dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
