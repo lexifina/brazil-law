@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por [NOME] e NINA TEIXEIRA CAVICHINI [NOME], contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo, assim sintetizado (fls. 607/612, e-STJ):
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. DESPESAS DE CONDOMÍNIO. EXECUÇÃO. POSSIBILIDADE. OBRA INACABADA. RATEIO DE EVENTUAL DIFERENÇA. PREVISÃO CONTRATUAL. RECURSO DESPROVIDO.
+1. "Constituindo as atas de assembléias e as convenções condominiais títulos executivos extrajudiciais, cabível é a via executiva". (TJES - 1ª Câm. Cível - Apelação nº 0005026-31.2007.8.08.0035 - Des. Fábio Clem de Oliveira - J. 14/10/2014 - DJ. 23/10/2014).
+2. Quando da aquisição do imóvel, os apelantes sabiam que o empreendimento estava inacabado, tanto que assumiram expressamente o compromisso com o rateio de eventual diferença a ser apurada para a conclusão das obras, não podendo agora se esquivarem do pagamento.
+3. Recurso desprovido.
+Opostos embargos declaratórios, foram estes rejeitados, nos termos do aresto de fls. 633/639 (e-STJ).
+Em suas razões de recurso especial (fls. 642/649, e-STJ), os recorrentes apontam, além de dissídio jurisprudencial, ofensa aos artigos 585, 586, 618 e 745, do CPC/1973.
+Sustentam, em síntese, que além de o meio processual eleito não se revelar adequado para cobrança de despesas condominiais, não se constituindo as respectivas atas de assembléias título executivo extrajudicial, os valores cobrados não correspondem a cotas/taxas de condomínio, mas a despesas de construção, o que se revela equivocado, porquanto adquiriram sua unidade a preço fechado.
+Contrarrazões às fls. 654/660 (e-STJ).
+Em juízo de admissibilidade (fls. 662/665, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso o enunciado contido na Súmula 284/STF, o que ensejou a interposição do presente recurso (fls. 668/677, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte recorrente refuta a incidência do referido verbete sumular.
+Contraminuta às fls. 680/686 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+1. De início, consigne-se que a decisão recorrida foi publicada em 31/10/2016 (certidão de fl. 640, e-STJ), portanto, após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Em uma análise dos fundamentos que lastrearam o aresto recorrido depreende-se que, com fulcro no disposto no art. 784, X, do CPC/15 (art. 585, V, do CPC/73), concluiu a Corte de origem não haver óbice para ajuizamento de ação executiva amparada em ata de assembléia condominial.
+Destacou, outrossim, com amparo em trecho da escritura pública de promessa de compra e venda de unidade residencial, a ciência pelos ora recorrentes do estado inacabado do empreendimento residencial adquirido, assim como o compromisso de ratear com os demais condôminos as despesas para a conclusão das obras.
+É o que se extrai do seguinte excerto do acórdão hostilizado (fls. 610/611, e-STJ):
+ Quanto ao primeiro ponto levantado, destaco que a sentença adotou o mesmo entendimento desta Corte, concluindo que as atas de assembléias e as convenções condominiais são títulos executivos extrajudiciais, ex vi do art. 585, inc. V, do CPC/1973, senão, vejamos:
+ (..)
+ No ponto, inclusive, ad argumentandum tantum, cumpre deixar consignado que a nova codificação, por meio do seu art. 784, inc. X, fez questão de suplantar qualquer eventual entendimento contrário, deixando indene de dúvidas a executividade do "crédito referente às contribuições ordinárias ou extraordinárias de condomínio edifício, previstas na respectiva convenção ou aprovadas em assembleia geral, desde que documentalmente comprovadas".
+ Além do crédito estar devidamente documentado, os apelantes não negam a ausência de pagamento.
+ De igual sorte, não prospera a alegação dos apelantes de que não poderia o apelado exigir o rateio de despesas de construção já previstas e pagas, máxime se considerado que adquiriram a unidade residencial por preço fechado do próprio condomínio, que buscava, na oportunidade, obter os recursos necessários para justamente concluir a obra.
+ Com efeito, quando da aquisição do imóvel, os apelantes sabiam que o empreendimento estava inacabado, tanto que assumiram expressamente o compromisso com o rateio de eventual diferença a ser apurada para a conclusão das obras, não podendo agora se esquivarem do pagamento.
+ A propósito de tais colocações, transcrevo as seguintes passagens da Escritura Pública de Compra e Venda:
+  ..  Pelos OUTORGADOS foi-me dito que aceitam a presente escritura como nela se contém e declara, por estar a mesma de inteiro acordo com o ajustado e contratado entre si e a OUTORGANTE; declarando ainda, que têm conhecimento da escritura de permuta e de promessa de compra e venda acima referidas, assumindo doravante, na qualidade de condômino, todos os direitos e obrigações decorrentes das mesmas, inclusive quanto ao rateio de eventual diferença a ser apurada para conclusão das obras.  ..  (não possui grifo no original)
+ Assim, Sem mais delongas, entendo por manter a sentença de instância singela, adotando, porém, o fundamento acima declinado.
+Todavia, conforme se depreende das razões do apelo nobre, tais fundamentos não foram impugnados pela parte recorrente, a qual se ateve a defender a inadequação da via eleita e a impossibilidade de arcar com as despesas para a conclusão do empreendimento imobiliário, porquanto sua unidade teria sido negociada a "preço fechado".
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.")
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. CIVIL.
+ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CUMPRIMENTO INTEGRAL DA OBRIGAÇÃO. PERDA DE OBJETO DO RECURSO. REVISÃO EM RECURSO ESPECIAL.
+IMPOSSIBILIDADE. SÚMULA Nº 735 DO STF. RECURSO INCAPAZ DE MODIFICAR AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. O Tribunal de origem, após analisar os embargos de declaração opostos pela ora agravante, esclareceu pontualmente cada uma das indagações realizadas, concluindo tanto pela confirmação da perda de objeto do agravo de instrumento interposto, quanto pela ausência de interesse recursal na modificação do provimento do agravo, fundamento este que não foi impugnado pela recorrente nas razões do apelo nobre, atraindo também a incidência do óbice contido na Súmula nº 283 do STF.
+(..)
+5. Agravo regimental não provido.
+(AgRg no AREsp 792.751/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/02/2016, DJe 15/02/2016) (grifos acrescidos)
+Ademais, para superar a conclusão a que chegou a Corte de origem, notadamente quanto à ciência e aquiescência dos recorrentes, à luz da escritura pública de promessa de compra e venda de unidade residencial, seria necessário o revolvimento dos elementos de prova insertos nos autos, hipótese vedada na presente esfera recursal, ante o óbice contido na Súmula 7/STJ.
+AGRAVO INTERNO NO RECURSO ESPECIAL. INCORPORAÇÃO. EMPREENDIMENTO NÃO CONCLUÍDO. FALÊNCIA. ENCOL S/A. CONDOMÍNIO FORMADO POR ADQUIRENTES PARA CONCLUSÃO DA OBRA. ADJUDICAÇÃO. SUCESSÃO. NÃO SUB-ROGAÇÃO DO CONDOMÍNIO NOS DIREITOS E OBRIGAÇÕES DA ENCOL. AGRAVO INTERNO IMPROVIDO.
+1. Em razão do óbice previsto na Súmula 7 do STJ, não há como afastar, na via estreita do recurso especial, as conclusões do acórdão proferido pela Corte a quo, tomadas com base na análise do acervo fático-probatório dos autos, quanto à inexistência de contrato entre o condomínio e o recorrente - o qual preferiu não aderir ao condomínio -, à não ocorrência de fraude na realização do leilão extrajudicial, bem como à existência de devida notificação do recorrido, tanto para aderir ao condomínio, que daria continuidade à construção paralisada com a falência da ENCOL S/A, como para adimplir os débitos, sob pena de adjudicação do imóvel do promitente comprador que não aderiu ao acordo da conclusão da obra. 2. "Diante da decretação da falência da incorporadora Encol S/A - Engenharia, Comércio e Indústria, e constituída comissão formada por adquirentes de unidades habitacionais destinada a concluir a correspondente obra, o condomínio ou os promitentes compradores não se sub-rogam nos direitos e obrigações da falida (..). Não merece acolhida a pretensão do promitente comprador, que não aderiu ao acordo para conclusão da obra, de exigir do condomínio o cumprimento do contrato de promessa de compra e venda originalmente firmado com a incorporadora" (REsp 1.049.370/GO, Quarta turma, Rel. Min. Raul Araújo, DJe de 8/9/2017). 3. Agravo interno improvido.
+(AgInt no REsp 1124424/MT, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo (art. 1.042, do CPC/15).
+Publique-se.
+Intimem-se.
