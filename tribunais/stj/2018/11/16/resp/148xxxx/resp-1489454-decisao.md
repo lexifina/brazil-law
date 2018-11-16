@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. LEGITIMIDADE AD CAUSAM. ADQUIRENTE DE BEM LITIGIOSO. BOA-FÉ. SUBSTRATOS FÁTICOS DA CAUSA QUE ALICERÇARAM AS CONCLUSÕES DO JULGADO QUE NÃO PODEM SER REVISITADOS EM RECURSO ESPECIAL. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a e c da Constituição da República, em adversidade ao acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE TERCEIRO. VEÍCULO. RESTRIÇÃO RENAJUD. TERCEIRO DE BOA-FÉ. COMPROVAÇÃO. LIBERAÇÃO.
+1. Conforme se extrai da certidão de registro anexada, o veículo foi adquirido pela embargante em 04/02/2009. Todavia, a restrição de arrolamento de bem, promovida pela Fazenda Nacional, foi registrada tão somente em 26/03/2009, ou seja, posteriormente ã aquisição pela embargante. Por sua vez, a restrição RENAJUD, impedindo a circulação do veículo, foi ordenada nos autos do Mandado de Segurança 2006.71.02.00005268-1, em 21/11/2011, sendo efetivada apenas em 09/03/2012.
+2. Inexistente qualquer embaraço registrado, resta caracterizada a impossibilidade do adquirente obter ciência acerca da pendência de ação mandamental sobre o veículo sub judice, denotando a ausência do consilium fraudis do adquirente.
+3. Considerando a natureza do bem litigioso (veículo), não seria razoável esperar que o demandante se sujeitasse à verificação de qualquer outra espécie de restrição.
+4. Restou comprovada a boa-fé do adquirente do bem, porquanto a embargada não trouxe aos autos eletrônicos qualquer elemento que pudesse infirmar as alegações levantadas pelo demandante, e corroboradas pela prova testemunha colhida (Evento 63), não podendo, por conseqüência, a embargante se sujeitar aos efeitos do decisum proferido nos autos do mandado de segurança 2006.71.02.005268-1 apensado.
+5. Sentença mantida (fls. 241).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 263/266).
+3. Em seu Apelo Nobre, a parte recorrente aponta ofensa ao art. 535, II do CPC, sustentando que a instância de origem teria deixado de apreciar questão essencial para o correto deslinde da controvérsia.
+4. No mérito, aduz violação do art. 42, § 3o. do CPC/1973, argumentando, em suma, que a embargante não detém legitimidade para opor os presentes embargos, posto que, na condição de adquirente de coisa litigiosa, a parte sofre diretamente os efeitos preclusivos da coisa julgada que se operou nos autos do mandado de segurança (fls. 278).
+5. Com contrarrazões (fls. 288/290), o recurso foi admitido na origem.
+6. É o relatório.
+7. O inconformismo não merece acolhimento.
+8. Inicialmente, no tocante ao art. 535 do CPC/1973, não se verifica a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+9. Destaca-se, ainda, que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+10. No mais, o Tribunal de origem, ao analisar a controvérsia, assim dispôs:
+Restou comprovada a boa-fé do adquirente do bem, porquanto a embargada não trouxe aos autos eletrônicos qualquer elemento que pudesse infirmar as alegações levantadas pelo demandante, e corroboradas pela prova testemunha colhida (Evento 63), não podendo, por conseqüência, a embargante se sujeitar aos efeitos do decisum proferido nos autos do mandado de segurança nº 2006.71.02.005268-1 apensado (fls. 241).
+11. Destarte, somente nova e acurada análise do acervo fático-probatório da causa possibilitaria concluir-se diversamente. Contudo, tal medida é defesa em Recurso Especial.
+12. Confira-se, a propósito do tema em debate, o seguinte aresto:
+CIVIL E PROCESSUAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. EMBARGOS DE TERCEIRO. SUCESSÃO. PRIMEIROS EMBARGOS INTENTADOS PELO CEDENTE REJEITADOS. INEXISTÊNCIA DE COISA JULGADA. RECONHECIMENTO DE BOA-FÉ. POSSIBILIDADE DE OPOSIÇÃO DE NOVOS EMBARGOS COMO TERCEIRO PELO CESSIONÁRIO. SITUAÇÃO PECULIAR.
+I. Conquanto, em princípio, não seja possível a oposição de embargos de terceiro por aquele que adquire coisa litigiosa, configura situação peculiar aquela em que o Tribunal estadual, soberano na prova, pronuncia a boa-fé do cessionário e efetiva posse do imóvel, além do que, na espécie, os primeiros embargos correram sem interesse do antigo possuidor, que já vendera seus direitos ao atual terceiro embargante, a quem não foi dada ciência ou possibilidade de intervenção no processo primitivo, tudo de modo a afastar a alegada coisa julgada anterior quanto ao exame de mérito dos primitivos embargos intentados pelo cedente.
+II. Recurso especial não conhecido (REsp. 691.219/MS, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe 16.11.2009).
+13. Ante o exposto, nega-se seguimento ao Recurso Especial da Fazenda Nacional.
+14. Publique-se. Intimações necessárias.
