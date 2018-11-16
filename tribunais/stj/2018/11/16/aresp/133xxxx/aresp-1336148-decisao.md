@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão denegatória do recurso especial manejado por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões do nobre apelo, a ora agravante debate, em síntese, a) ilegitimidade passiva da fundação de seguridade social; e b) índice de correção monetária do quantum a ser restituído a título de fundo de reserva de poupança.
+É o relatório. Decido.
+Ilegitimidade passiva da fundação de seguridade social:
+A ausência de manifestação expressa pela Corte de origem acerca da matéria suscitada nas razões do recurso especial, qual seja, a ilegitimidade passiva da fundação de seguridade social, em razão do requisito formal de admissibilidade que é o prequestionamento, atrai, por analogia, a inarredável incidência das Súmulas n. 282 e 356/STF.
+Índice de correção monetária do quantum a ser restituído a título de fundo de reserva de poupança:
+A Segunda Seção deste Tribunal Superior, no julgamento dos Recursos Especiais Repetitivos n. 1.177.973/DF e 1.183.474/DF, ambos de relatoria do Ministro Raul Araújo, processado nos moldes do art. 543-C do Código de Processo Civil de 1973, Temas n. 511 a 514, firmou entendimento acerca da correção monetária da restituição da reserva de poupança da previdência privada a ex-participantes do plano, conforme se extrai dos seguintes termos, in verbis:
+RECURSO ESPECIAL REPETITIVO. PREVIDÊNCIA PRIVADA. EX-PARTICIPANTE. DIREITO À DEVOLUÇÃO DE PARCELAS DE CONTRIBUIÇÕES PAGAS. RESERVA DE POUPANÇA. CORREÇÃO MONETÁRIA PLENA. SÚMULA 289/STJ. EXPURGOS INFLACIONÁRIOS. IPC. INCIDÊNCIA. SÚMULA 252/STJ. ÍNDICES DE CORREÇÃO DE SALDOS DE FGTS. NÃO APLICAÇÃO.
+1. Para efeito do art. 543-C do Código de Processo Civil, ficam aprovadas as seguintes teses: (I) É devida a restituição da denominada reserva de poupança a ex-participantes de plano de benefícios de previdência privada, devendo ser corrigida monetariamente conforme os índices que reflitam a real inflação ocorrida no período, mesmo que o estatuto da entidade preveja critério de correção diverso, devendo ser incluídos os expurgos inflacionários (Súmula 289/STJ);
+(II) - A atualização monetária das contribuições devolvidas pela entidade de previdência privada ao associado deve ser calculada pelo IPC, por ser o índice que melhor traduz a perda do poder aquisitivo da moeda;
+(III) - A Súmula 252/STJ, por ser específica para a correção de saldos do FGTS, não tem aplicação nas demandas que envolvem previdência privada.
+2. Recurso especial da entidade de previdência privada desprovido. (REsp n. 1.177.973/DF, relator Ministro RAUL ARAÚJO, DJe 28/11/2012.)
+RECURSO ESPECIAL REPETITIVO. PREVIDÊNCIA PRIVADA. EX-PARTICIPANTE. DIREITO À DEVOLUÇÃO DE PARCELAS DE CONTRIBUIÇÕES PAGAS. RESERVA DE POUPANÇA. INSTRUMENTO DE TRANSAÇÃO. QUITAÇÃO GERAL. ABRANGÊNCIA LIMITADA. CORREÇÃO MONETÁRIA PLENA. SÚMULA 289/STJ. EXPURGOS INFLACIONÁRIOS. IPC. APLICAÇÃO.
+1 - Para efeito do art. 543-C do Código de Processo Civil, ficam aprovadas as seguintes teses:
+(I) É devida a restituição da denominada reserva de poupança a ex-participantes de plano de benefícios de previdência privada, devendo ser corrigida monetariamente conforme os índices que reflitam a real inflação ocorrida no período, mesmo que o estatuto da entidade preveja critério de correção diverso, devendo ser incluídos os expurgos inflacionários (Súmula 289/STJ);
+(II) - A quitação relativa à restituição, por instrumento de transação, somente alcança as parcelas efetivamente quitadas, não tendo eficácia em relação às verbas por ele não abrangidas. Portanto, se os expurgos inflacionários não foram pagos aos participantes que faziam jus à devolução das parcelas de contribuição, não se pode considerá-los saldados por recibo de quitação passado de forma geral;
+(III) - A atualização monetária das contribuições devolvidas pela entidade de previdência privada ao associado deve ser calculada pelo IPC, por ser o índice que melhor traduz a perda do poder aquisitivo da moeda.
+2. Recurso especial da entidade de previdência privada desprovido. (REsp n. 1.183.474/DF, relator Ministro RAUL ARAÚJO, DJe 28/11/2012.)
+Desse modo, encontrando-se o acórdão recorrido em conformidade com a orientação deste Tribunal (Fls. 1.188/1.191), não há que falar na reforma do decisum.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intimem-se.
