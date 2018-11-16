@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM PESSOAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. LEI 11.960/2009. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. In casu, o Tribunal de origem consignou: "No tocante aos juros, o marco inicial decorre da aplicação da Lei nº 9.494/97 conforme disposto no art. 1º-F da Lei nº 11.960/09. Cumpre destacar que, in casu, não se aplica a regra do CPC/15, invocado pelo embargante, nem mesmo o Código Civil, uma vez que a Lei nº 9.494/97, que regula a matéria é especial em relação às demais. " (fl. 130, e-STJ)
+2. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte:
+EMENTA: REEXAME NECESSÁRIO - APELAÇÃO - AÇÃO ORDINÁRIA - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO DO FUNDO DE DIREITO - REJEIÇÃO - ADMINISTRATIVO - SERVIDOR PÚBLICO DA EXTINTA MINAS CAIXA - VANTAGEM PESSOAL - NATUREZA DE VENCIMENTO BÁSICO - COMPOSIÇÃO DA BASE DE CÁLCULO DOS ADICIONAIS E VANTAGENS DECORRENTES DO TEMPO DE SERVIÇO - DIFERENÇAS PRETÉRITAS DEVIDAS - JUROS E CORREÇÃO MONETÁRIA A PARTIR DE 29/06/2009, CONSOANTE A LEI Nº 11.960/2009 - HONORÁRIOS SUCUMBENCIAIS - DIRETRIZES DO ART. 20, § 40 DO CPC - SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO - RECURSOS VOLUNTÁRIOS PREJUDICADOS. 1. Não havendo negativa administrativa do direito pretendido, ou seja, da própria pretensão, aplica-se somente a prescrição das prestações anteriores ao último quinquênio e não do fundo de direito, vale dizer, atinge apenas as parcelas sucessivas. O direito, ou a pretensão em si, não prescreve, se não houver o indeferimento expresso da Administração. 2. A parcela remuneratôria denominada "vantagem pessoal", percebida pelos s ervidores da extinta MINASCAIXA, tem natureza de vencimento básico e deve integrar a base de cálculo dos adicionais e vantagens decorrentes do tempo de serviço. 3. As diferenças decorrentes da não incidência da denominada "vantagem pessoal" sobre os adicionais por tempo de serviço alcançados depois da EC nº 19198 deverão ser pagas com correção monetária, de acordo com a tabela da CGJMG, desde quando eram devidas e juros de mora,  partir da citação, consoante o art. 1 1-F, da Lei no 9.494/97, até 2910612009, quando então incidirão juros e correção monetária, uma única vez, até o efetivo paamento, consoante a Lei nº 11.96012009, respeitada a prescrição quinquenal. 4. Sentença parcialmente reformada em reexame necessário. 5. Recurso voluntário.
+Os Embargos de Declaração foram rejeitados (fl. 127, e-STJ).
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação do art. 240 do CPC/2015, sob o argumento de que "a constituição do devedor em mora ocorre com a citação válida e, portanto, não há de se falar em juros de mora antes da citação" (fl. 137, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12.9.2018.
+In casu, o Tribunal de origem consignou (fl. 130, e-STJ):
+Ao contrário das afirmações do recorrente, observa-se que o acórdão fixou critérios amplos para aplicação de juros e correção monetária. No tocante aos juros, o marco inicial decorre da aplicação da Lei nº 9.494/97 conforme disposto no art. 1º-F da Lei nº 11.960/09.
+Cumpre destacar que, in casu, não se aplica a regra do CPC/15, invocado pelo embargante, nem mesmo o Código Civil, uma vez que a Lei nº 9.494/97, que regula a matéria é especial em relação às demais.
+Assim, pelo princípio da especialidade, indene de dúvida que aplica-se ao caso as regras estabelecidas na Lei nº9.494/97, conforme constou do acórdão recorrido.
+Ademais, de acordo com a decisão exarada no RE nº 87.0947/SE, em 1610412015, até que o STF se pronuncie definitivamente acerca da declaração parcial de inconstitucionalidade, em sede de Repercussão Geral, prevalece a aplicação do art. 1º-F da Lei nº 9.494/97, na atualização dos valores devidos pela Fazenda
+Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, o recorrente não atacou os argumentos acima mencionados, os quais são aptos, por si sós, para manter o decisum combatido e permitem que se apliquem na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REVISIONAL. COMISSÃO DE PERMANÊNCIA E TAXA DE ABERTURA DE CRÉDITO. DECISÃO MANTIDA. RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DA ADOTADOS PELA DECISÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 284 DO STF.
+(..)
+3. O agravante que, em sede de agravo, se aventura em alegações outras que não seja a impugnação, de forma clara e específica, dos fundamentos adotados na decisão monocrática terá sua argumentação considerada deficiente por razões desassociadas, o que enseja a aplicação da inteligência da Súmula 284 do STF, caso dos autos.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1357144/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 29/04/2013).
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ 2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1089538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 09/09/2011).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
