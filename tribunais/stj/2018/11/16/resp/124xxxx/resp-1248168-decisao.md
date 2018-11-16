@@ -1,0 +1,24 @@
+DECISÃO
+ Trata-se de recurso especial interposto por BANCO SANTANDER BRASIL S/A, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. CRÉDITOS CEDIDOS.
+A eventual cessão do crédito objeto da ação da qual decorrem os honorários advocatícios não tem o condão de alterar o título judicial no seu aspecto subjetivo." (e-STJ,fl. 312)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 322/326).
+Nas razões do recurso especial, alega violação aos art. 535, I e II do CPC/73, sob o fundamento de que o acórdão recorrido deixou de se pronunciar sobre os dispositivos apontados pelo recorrente. Defende, ainda, ofensa aos arts. 42 e 568, II, do CPC/73, e art. 92 e 287, do CC/2002, pelo não reconhecimento da ilegitimidade do recorrente agravante para figurar no polo passivo da demanda, em face da cessão de crédito realizada em favor da Caixa Econômica Federal e do repasse, pela União, dos valores para que a CEF arque com os passivos do Banco Meridional.
+Não foram apresentadas contrarrazões (e-STJ fl. 354).
+É o relatório. Decido.
+Inicialmente, afasta-se a ofensa ao 535, II, do Código de Processo Civil de 1973, pois a Corte de origem dirimiu, fundamentadamente, as matérias que lhe foram submetidas, motivo pelo qual o acórdão recorrido não padece de omissão, contradição ou obscuridade. Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional, ou ausência de fundamentação.
+A agravante alega, em síntese, sua ilegitimidade para ocupar o polo passivo da demanda, uma vez o crédito sobre o qual trata a ação foi cedido à CEF. Sobre o tema, o Tribunal de origem assim dispôs:
+"Como bem destacou o Juiz de Primeiro Grau, a eventual cessão doa crédito que deu origem à execução pelo Meridional à Caixa Econômica Federa.
+A eventual cessão desse crédito, todavia, não tem o condão de alterar o título judicial no seu aspecto subjetivo.
+Ressalvo que entendimento diverso poderia implicar, no limite, na responsabilização da CEF, no tocante aos ônus da sucumbência, em razão da desídia do patrono do Banco Meridional na representação do seu constituinte em Juízo." (e-STJ fl.311).
+Ocorre que neste feito não se discute um crédito de titularidade do Santander MERIDIONAL, eventualmente transferido à CEF, mas sim um débito do Santander para com o autor, reconhecido a partir da improcedência de embargos à execução interposto pelo banco recorrente.
+Assim, considerando que o crédito é do autor/exequente, que não o cedeu a ninguém, a figura jurídica a se analisar não é a de cessão de crédito, mas sim de uma possível cessão de débito/assunção de dívida (arts. 299 a 303 do CC/02 ) que, como é cediço, não é admissível sem o consentimento expresso do credor (art. 299 do CC/02), expressamente ausente no caso dos autos. Neste sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO LIMINAR. CONTRATO DE PERMUTA DE COTAS DE EMPRESA POR TERRENO. ASSUNÇÃO DE DÍVIDA. FALTA DE PROVA DA ANUÊNCIA DOS CREDORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.ENUNCIADO N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO." (AgRg no AREsp 179.760/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 11/02/2014, DJe 17/02/2014)
+"PROCESSO CIVIL. CESSÃO DE CRÉDITO. BANCO MERIDIONAL. CEF. CONTRATO APROVADO PELO CMN. AÇÃO PROPOSTA PARA COBRANÇA DE HONORÁRIOS. LEGITIMIDADE DA PARTE QUE AJUIZOU O PROCESSO, INDEPENDENTEMENTE DA CESSÃO.
+1. A transferência do direito litigioso não altera a legitimidade para o processo, nos termos do §3º do art. 42 do CPC, conquanto a sentença proferida entre as partes originárias estenda seus efeitos ao adquirente ou cessionário.
+2. Na hipótese de ação de execução ajuizada pelo BANCO MERIDIONAL, na qualidade de mero administrador de crédito cedido à CEF, decretada extinta com a imposição de honorários advocatícios, a responsabilidade pelo pagamento dessa verba é da sociedade que figurou no polo ativo da relação processual, independentemente do contrato de cessão firmado entre particulares.
+3. Na ação proposta para recebimento dos honorários, o contrato de cessão do crédito cujo recebimento foi obstado judicialmente não pode ser utilizado como fundamento de eventual declaração de ilegitimidade passiva. Não se estaria, nesta hipótese, diante da cessão de um crédito, mas da cessão de uma dívida, que só é válida com a anuência do devedor, nos termos da lei civil.
+4. Recurso especial não provido. (REsp 1154763/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/03/2012, DJe 14/03/2012)
+Sendo assim, não há que se falar em ilegitimidade passiva do banco recorrente.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
