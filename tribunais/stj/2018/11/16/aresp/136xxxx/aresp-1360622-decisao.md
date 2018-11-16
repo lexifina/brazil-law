@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por MAURÍCIO DAL AGNOL contra decisão que denegou recurso especial, fundado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora agravante discute os seguintes temas: a) inexigibilidade dos honorários advocatícios em fase de cumprimento de sentença; e b) afastamento da multa prevista no art. 523, § 1º, do Código de Processo Civil.
+É o relatório. Decido.
+Honorários advocatícios em cumprimento de sentença e multa do art. 523, § 1º, do Código de Processo Civil:
+Quanto à questão da fixação de honorários advocatícios em fase de cumprimento de sentença, a Segunda Seção do Superior Tribunal de Justiça, sob o rito dos recursos especiais repetitivos, no exame do Tema n. 409, firmou entendimento no sentido de que "apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC", nos termos da seguinte ementa:
+RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Para efeitos do art. 543-C do CPC: 1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS).
+1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC.
+2. Recurso especial provido.
+(REsp 1.134.186/RS, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 21/10/2011.)
+No que tange à multa prevista no art. 523, § 1º, do CPC, tem-se que, também em sede de recurso repetitivo, Tema n. 536, a Corte Especial do Superior Tribunal de Justiça firmou o entendimento segundo o qual "Na fase de cumprimento de sentença, o devedor deverá ser intimado, na pessoa de seu advogado, mediante publicação na imprensa oficial, para efetuar o pagamento no prazo de 15 (quinze) dias, a partir de quando, caso não o efetue, passará a incidir a multa de 10% (dez por cento) sobre montante da condenação (art. 475-J do CPC).". Eis a ementa do julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO POR QUANTIA CERTA. TÍTULO JUDICIAL. MULTA DO ARTIGO 475-J DO CPC. NECESSIDADE DE INTIMAÇÃO APENAS NA PESSOA DO ADVOGADO DO DEVEDOR, MEDIANTE PUBLICAÇÃO NA IMPRENSA OFICIAL.
+1. Para fins do art. 543-C do CPC: Na fase de cumprimento de sentença, o devedor deverá ser intimado, na pessoa de seu advogado, mediante publicação na imprensa oficial, para efetuar o pagamento no prazo de 15 (quinze) dias, a partir de quando, caso não o efetue, passará a incidir a multa de 10% (dez por cento) sobre montante da condenação (art. 475-J do CPC).
+2. No caso concreto, recurso especial parcialmente provido, apenas para sanar o erro material detectado no acórdão que julgou os embargos de declaração, de modo que não há falar em aplicação da multa do artigo 538, parágrafo único, do Código de Processo Civil.
+(REsp 1.262.933/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, Dje de 20/8/2013.)
+No caso em apreço, o acórdão recorrido assim se manifestou ao julgar as matérias devolvidas pelo ora agravante, nos seguintes termos (fls. 74/75):
+O Código de Processo Civil de 2015 é claro ao dispor acerca da incidência de multa e honorários de advogado no § 1º do art. 523, in verbis:
+"Art. 523. No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
+§ 1º Não ocorrendo pagamento voluntário no prazo do caput, o débito será acrescido de multa de dez por cento e, também, de honorários de advogado de dez por cento. (grifei)."
+A Súmula nº 517 do Superior Tribunal de Justiça prevê o marco inicial para a contagem do prazo:
+"Súmula 517 - São devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada."
+Compulsando os autos do presente recurso é possível verificar que a parte ora agravada requereu o cumprimento de sentença em 08 de agosto de 2017 (fls. 41/45). Devidamente intimado, o agravante deixou transcorrer in albis o prazo legal para pagamento voluntário da condenação, mostrando-se correta, portanto, a incidência de multa de dez por cento e, também, de honorários de advogado de dez por cento, conforme determinado no supracitado artigo.
+Quanto à alegação de que o pagamento voluntário não foi realizado em decorrência do bloqueio judicial de seus bens, nos autos da ação cautelar nº 021/1.14.0009933-3, tenho que tal argumento não merece prosperar, pois implicaria em propiciar ao réu que se beneficiasse da própria torpeza, o que não pode ser admitido.
+Como se vê, o acórdão recorrido encontra-se em consonância com as orientações do Superior Tribunal de Justiça, não merecendo reforma o decisum.
+Ante o exposto, nego provimento ao agravo.
+Por fim, deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
