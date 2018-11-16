@@ -1,0 +1,43 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pelo Município da Estância Turística de Barra Bonita, em face de decisão proferida pelo Tribunal do Trabalho da 15ª Região, nos autos do Processo 0012487-33.2016.5.15.0055.
+    Na petição inicial, o reclamante alega que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na Súmula Vinculante 37, ao conceder aumento salarial aos servidores públicos municipais sem que houvesse previsão legal.
+    Afirma que, no caso, não houve revisão geral anual, a teor do art. 37, inciso X, da CF, mas, sim, uma majoração dos salários com a finalidade de melhorar os níveis salariais mais baixos para reduzir as desigualdades existentes nos diversos padrões salariais.
+    Sustenta ser inaceitável que o Poder Judiciário, afrontando o artigo 2º da Constituição Federal, determine aumento de salário dos servidores como base no princípio da isonomia, pois tal função é típica do Executivo e do Legislativo (iniciativa de lei e sua aprovação).
+    Requer a concessão de liminar para suspender a decisão reclamada. No mérito, pugna pela cassação do ato reclamado, por afronta à Constituição Federal e à Sumula Vinculante 37.
+    É o relatório.
+    Passo à análise do pedido liminar.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    A decisão deste Tribunal com efeito vinculante que, segundo o reclamante, teria sido descumprida, é a Súmula Vinculante 37, cuja redação é a seguinte:
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    O ato reclamado entendeu que o pleito do interessado não ofenderia tal enunciado, pois o abono em valor fixo concedido pelo reclamante caracterizaria revisão geral concedida em desacordo com as prescrições constitucionais. Transcrevo o trecho pertinente do voto condutor do acórdão:
+    “Quanto ao mérito, registro que a Lei Municipal 2.121/2001 concedeu abono pecuniário no valor de R$ 50,00, indistintamente, a todos os servidores públicos municipais.
+    Idêntico abono foi concedido com a Lei Municipal 2.189/2002. As Leis Municipais 2.468/2006, 2.554/2007 e 2.685/2008 concederam abonos fixos, também indistintamente, a todos os servidores públicos municipais, no importe de R$ 30,00, R$ 40,00 e R$ 50,00, respectivamente.
+    Nesses termos, o recurso está em confronto com o disposto nas Súmulas 68 e 81 deste E. Tribunal.
+    No mesmo sentido tem se posicionado esta E. 6ª Câmara em caso envolvendo o mesmo ente público, conforme trechos de julgado proferido no processo 0011568-44.2016.5.15.0055 (Relatora Desembargadora Rosemeire Uehara Tanaka; publicação em 30.8.2017):
+    A reclamante, na inicial (ID n. e3aa513), sustentou que o reclamado, por meio das Leis Municipais ns. 2.121/01, 2.189/02, 2.468/06, 2.554/07 e 2.685/08 concedeu revisão geral anual a todos os servidores municipais em valores fixos, na ordem de R$ 50,00, R$ 50,00, R$ 30,00, R$ 40,00 e R$ 50,00 mensais, respectivamente, ocasionando reajuste diferenciado em violação ao art. 37, X, da CF.
+    O Juízo de origem, por sua vez, rejeitou os pedidos formulados pela autora ao fundamento de que os valores foram concedidos a título de reajuste, não havendo nenhuma irregularidade em o Município reclamado conferir a seus servidores de mais baixo escalão reajuste proporcionalmente superior em relação àqueles alocados em níveis mais elevados.
+    Contra essa decisão de origem, insurge-se a reclamante, insistindo nas alegações expostas na inicial e alegando que a Constituição Federal veda a distinção de índices nas revisões gerais anuais de salários dos servidores.
+    Procede a insurgência da reclamante.
+    Pois bem. Ao se analisar o conjunto probatório dos autos, resta claro que o reclamado, com base nas Leis Municipais ns. 2.121/01, 2.189/02, 2.468/06, 2.554/07 e 2.685/08, concedeu abonos salariais em valores fixos e de forma linear a todos os servidores, que posteriormente foram incorporados aos seus respectivos salários.
+    Dessa forma, ao determinar a integração do abono aos salários de seus servidores, o Município alterou a sua natureza jurídica, caracterizada pela provisoriedade, e concedeu reajustes salariais diferenciados, pois, com a incorporação de valores fixos aos salários de servidores enquadrados em padrões salariais diferentes desencadeou reposição salarial com índices diferentes.
+    Logo, essa concessão, em valor nominal fixo e igual para todos os servidores, desrespeitou a necessária igualdade de índices, prevista no inciso X do art. 37 da Constituição Federal, consubstanciando norma de natureza cogente, com ofensa, ainda, ao disposto no art. 5º, ‘caput’, da Lei Maior.
+    Note-se que o Ente Público pode estabelecer os padrões de vencimentos de seus servidores, assim como os seus reajustes, mas sempre com a observância dos dispositivos constitucionais, o que inclui a vedação à concessão de reajustes com distinção de índices, independente das diferenças de remunerações.
+    (…)
+    Ademais, afasta-se a incidência da Súmula n. 339 do E. STF, pois não se está concedendo aumento de vencimentos, mas corrigindo distorções advindas de Leis
+    Municipais que incorporaram aos vencimentos valor fixo, intitulados de abonos, sem observar a necessária identidade de índices para todos os empregados do Município.
+    (…)
+    Adoto como razão de decidir os fundamentos supratranscritos.
+    Frise-se, consoante explicitado, que não há falar em violação à Lei de Responsabilidade Fiscal, às regras orçamentárias e à Sumula 339 do STF, haja vista que apenas se está corrigindo distorções salariais causadas pelo próprio Município”. (eDOC 18, p. 3-4)
+    Todavia, a extensão a todos os servidores do índice mais benéfico, ao fundamento de correção de revisão geral indevidamente realizada, implica contrariedade à Súmula Vinculante 37. Efetivamente, ao entender violada a vedação constitucional à distinção de índices do art. 37, X, a autoridade reclamada está a invocar o princípio da isonomia para estender, sem autorização legal, o percentual de aumento recebido pelos servidores de menor remuneração a todos os demais.
+    A Segunda Turma desta Corte entendeu, em caso semelhante ao dos autos, que a vantagem pecuniária individual (VPI) instituída pela Lei 10.698/2003, no valor de R$ 59,87, não poderia ser convolada em aumento de 13,23%, correspondente ao percentual mais benéfico, para todos os servidores públicos federais, sob pena de violação à Súmula Vinculante 37. O acórdão recebeu a seguinte ementa:
+    “Reclamação. 2. Direito Administrativo. 3. Servidores públicos. 4. Incorporação da vantagem referente aos 13,23%. Lei 10.698/2003. 5. Ações que visam à defesa do texto constitucional. O julgador não está limitado aos fundamentos jurídicos indicados pelas partes. Causa petendi aberta. 6. Órgão fracionário afastou a aplicação do dispositivo legal sem observância do art. 97 da CF (reserva de plenário). Interpretação conforme a Constituição configura claro juízo de controle de constitucionalidade. Violação à Súmula Vinculante n. 10. 7. É vedado ao Poder Judiciário conceder reajuste com base no princípio da isonomia. Ofensa à Súmula Vinculante 37. 8. Reclamação julgada procedente”. (Rcl 14.872, de minha relatoria, DJe 2.6.2016)
+    Dessa forma, verifico que o ato reclamado, ao reconhecer o aumento salarial em percentual da remuneração do servidor, sem amparo legal, aparenta violar o disposto na Súmula Vinculante 37.
+    Feitas essas considerações, constato a presença de periculum in mora e fumus boni iuris, a justificar o deferimento do pleito de urgência.
+    Ante o exposto, defiro o pedido de liminar para suspender os efeitos da decisão reclamada (eDOC 18, p. 3-4).
+    Solicitem-se informações à autoridade reclamada (art. 989, I, NCPC).
+    Cite-se a parte interessada (art. 989, III, NCPC).
+    Após, abra-se vista à Procuradoria-Geral da República (art. 991, NCPC).
+    Publique-se.
+    Brasília, 16 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
