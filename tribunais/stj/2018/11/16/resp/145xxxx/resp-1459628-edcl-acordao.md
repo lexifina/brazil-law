@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL QUE ATAVA DECISÃO JUDICIAL ANTECIPATÓRIA DE TUTELA. SÚMULA 735/STF. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS DE DECLARAÇÃO DO INSTITUTO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+2. No caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e fundamentada, manteve decisão monocrática que reconheceu a incidência da Súmula 735/STF na espécie.
+3. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, e não podem ser ampliados.
+4. Embargos de Declaração do Instituto rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos pelo INSTITUTO ESTADUAL DE FLORESTAS contra acórdão desta Primeira Turma, proferido com a seguinte ementa:
+PROCESSUAL CIVIL. INCIDÊNCIA DA SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. RECURSO QUE ATACA DECISÃO JUDICIAL ANTECIPATÓRIA DE TUTELA. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. IMPOSSIBILIDADE DE APRECIAÇÃO EM SEDE DE RECURSO ESPECIAL. RECURSO DO INSTITUTO ESTADUAL DE FLORESTAS DESPROVIDO.
+1. Nos termos da Súmula 735/STF, em regra, não cabe Recurso Extraordinário contra acórdão que defere medida liminar. Essa orientação se estende, também, às decisões que apreciam pedido de antecipação de tutela, diante da sua precariedadade, sendo adotada, por analogia, no exame de Recursos Especiais neste STJ. Precedentes: REsp. 1.706.944/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017; AgInt no AREsp. 1.085.584/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 14/12/2017.
+2. Esta Corte admite afastar a incidência do referido óbice sumular nas hipóteses em que a concessão, ou não, da medida liminar, e o deferimento, ou não, da antecipação de tutela caracterizar ofensa direta à Lei Federal que regulamenta estes institutos, in casu, o art. 273 do Código Buzaid, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa. A propósito: AgInt no AREsp. 743.894/SP, Rel. Min. GURGEL DE FARIA, DJe 4.10.2017; AgRg no AREsp. 690.896/RJ, Rel. Min. SÉRGIO KUKINA, DJe 1o.6.2015.
+3. Na espécie, não se trata de discussão acerca dos requisitos propriamente ditos para o deferimento do pedido de antecipação de tutela, mas sim de efetivo debate sobre o mérito da causa, evidenciando, assim, a incidência do óbice da Súmula 735/STF, já que, enquanto não advier sentença de mérito confirmando, ou não, a tutela antecipada, não se consideram exauridas as instâncias ordinárias.
+4. Agravo Interno do INSTITUTO ESTADUAL DE FLORESTAS desprovido.
+2. Alega o embargante omissão quanto às razões do seu recurso relacionadas à suposta ofensa ao art. 535, II do CPC/1973, sustentando a necessidade de retorno dos autos à origem para a apreciação da aduzida inobservância do dever de intimação da parte contrária em Agravo de Instrumento.
+3. É o relatório.
+VOTO
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL QUE ATAVA DECISÃO JUDICIAL ANTECIPATÓRIA DE TUTELA. SÚMULA 735/STF. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS DE DECLARAÇÃO DO INSTITUTO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+2. No caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e fundamentada, manteve decisão monocrática que reconheceu a incidência da Súmula 735/STF na espécie.
+3. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, e não podem ser ampliados.
+4. Embargos de Declaração do Instituto rejeitados.
+1. O art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; sendo restrito a situações em que patente a existência de obscuridade, contradição, omissão ou erro material no julgado. Não se prestam, pois, ao rejulgamento da lide, mediante o reexame de matéria já decidida.
+2. Esta Corte Superior somente admite a atribuição de efeitos infringentes a Embargos de Declaração quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+3. Com efeito, no caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e fundamentada, manteve decisão monocrática que reconheceu a incidência da Súmula 735/STF na espécie.
+4. Portanto, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, evidencia-se que a parte embargante busca a reapreciação do mérito da causa, não sendo este o escopo dos Aclaratórios. A discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, que não podem ser ampliados.
+5. Com base nessas considerações, rejeitam-se os Embargos de Declaração do Instituto.
+6. É como voto.
