@@ -1,0 +1,19 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM EXIBIÇÃO DE DOCUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 2. INTERESSE DE AGIR. EXIBIÇÃO INCIDENTAL DE DOCUMENTO. SÚMULA 389/STJ. APLICABILIDADE. PRECEDENTES. 3. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A. - em recuperação judicial, com fundamento nas alíneas a e c do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 143):
+AGRAVO. , DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM INVESTIMENTO NO SERVIÇO TELEFÔNICO. EXIBIÇÃO DOS DOCUMENTOS, PEDIDO INCIDENTAL. POSSIBILIDADE. DEVER DO AGRAVANTE DEVIDAMENTE COMPROVADO. INTERESSE DE AGIR E LEGITIMIDADE DEVIDAMENTE DEMONSTRADOS. POSSIBILIDADE DE "I INVERSÃO DO ÔNUS DA PROVA. ENTENDIMENTOS REITERADOS DESTA CORTE. MANUTENÇÃO DA DECISÃO.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 168-173).
+Nas razões do recurso especial, a recorrente alega a existência de violação aos arts. 333, I, e 535 do Código de Processo Civil de 1973; 100, § 1º, da Lei n. 6.404/1976 e Súmula 389/STJ, além de divergência jurisprudencial.
+Sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional, consubstanciada em omissão quanto à aplicabilidade dos arts. 333, I, do CPC/1973 , em razão da ausência de comprovação da existência do contrato de participação financeira firmado com a extinta Telepar, além da impossibilidade de inversão do ônus da prova.
+Aduz a falta de interesse de agir, em relação ao pedido de exibição de documentação, tendo em vista a ausência de prévio requerimento administrativo solicitando os documentos, com o respectivo comprovante de pagamento da taxa do serviço.
+Admitido o processamento do apelo nobre na origem, os autos ascenderam a esta Corte (e-STJ, fls. 235-236).
+Brevemente relatado, decido.
+De início, verifico dos autos que o recurso foi interposto quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto.
+Não configura vício de omissão, contradição ou obscuridade o acórdão que apresenta fundamentação suficiente, clara e coerente, decidindo a lide em sua integralidade, ainda que os fundamentos adotados como razão de decidir sejam distintos dos indicados pelas partes e a conclusão do julgamento seja diametralmente oposta ao pretendido. Desse modo, afasta-se a alegada violação do art. 535 do CPC/1973.
+Relativamente ao cerne do interesse de agir, convém registrar que a jurisprudência desta Casa dispõe que, "embora tenha editado a Súmula 389 ("a comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima"), o Superior Tribunal de Justiça, em reiterados julgados, assentou que a orientação supra não se restringe à ação cautelar de exibição de documentos, aplicando-se também aos pedidos de apresentação de dados formulados incidentalmente em demandas que objetivam o adimplemento contratual" (AgRg na MC 20.827/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2014, DJe 8/9/2014).
+Na hipótese em apreço, o TJPR afastou a aplicação da Súmula 389 do STJ por não se tratar de medida cautelar de exibição de documentos.
+Destarte, o acórdão recorrido encontra-se em desarmonia com a jurisprudência desta Corte.
+Ante o exposto, dou parcial provimento ao recurso especial para cassar a decisão que deferiu o pedido incidental de exibição de documentos.
+Publique-se.
