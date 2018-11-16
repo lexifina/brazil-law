@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." (Súmula 282 do STF).
+2. "A pretensão de simples reexame de prova não enseja recurso especial." (Súmula 7 do STJ).
+3. Hipótese em que o recurso especial não pode ser conhecido, pois os arts. 332 e 333, I, do CPC/1973 não estão prequestionados e a aferição de eventual violação do art. 6º, XIV, da Lei n. 7.713/1988 só seria possível mediante o reexame fático-probatório dos autos.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com o Sr. Ministro Relator. Licenciada a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR.MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno de [NOME] MONTEIRO FONTES LIMA contra decisão que, por inexistência de violação do art. 535 do CPC/1973 e com apoio nas Súmula 7 do STJ, não conheceu de recurso especial em que se discute isenção do imposto de renda, nos termos do art. 6º, XIV, da Lei n. 7.713/1988.
+A recorrente alega, em síntese, que houve prequestionamento dos dispositivos tidos por violados e que não incide na espécie a Súmula 7 do STJ, porquanto necessária nova valoração da prova incontroversa existente nos autos, e não o reexame dela (e-STJ fl. 612):
+No caso específico, com o devido respeito, não há que se falar em aplicação da súmula 07 deste Sodalício, pois, o que se pretende com o Recurso Especial interposto não era reexaminar fatos e provas (retenção indevida de IR), mas demonstrar que a prova produzida (notadamente o laudo pericial de fl. 329/345) é suficiente e apta para provar o fato (retenção indevida de IR), notadamente porque foi desconsiderado por completo no acórdão do Tribunal Regional.
+O equívoco da decisão agravada está na afirmação de que: "o recurso encontra óbice na Súmula 7 do STJ, porquanto eventual conclusão pela não valoração adequada das provas só seria possível mediante seu reexame (Súmula do STJ)
+Não. Definitivamente, revalorar não é reexaminar. Essa é a pedra de toque do caso.
+Sem impugnação pela FAZENDA NACIONAL.
+É o relatório.
+VOTO
+O EXMO. SR.MINISTRO GURGEL DE FARIA (Relator):
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão deve ser mantida, pois inafastável o óbice da Súmula 7 do STJ.
+Como afirmado, no primeiro grau, o magistrado, anotando a inexistência de requerimento para produção de provas, julgou antecipadamente a lide, com base nos documentos juntados aos autos, entendendo pela improcedência do pedido, assim (e-STJ fl. 387):
+Primeiramente, restou comprovado que, de fato, houve descontos, a título de imposto de renda, efetuados pela União nos proventos percebidos pela autora no ano-base de 2009, conforme se avista da análise dos contracheques de fls. 30/35, relativos aos meses de julho, agosto, setembro, outubro, novembro e dezembro/2009.
+No entanto, restou comprovado, também, como mesmo afirmou a União, que referidos descontos foram devidamente restituídos à parte autora, diante da isenção que lhe foi concedida, nos termos da Lei nº 7.713/80. O documento de fl. 358 em seu campo "imposto a restituir", consta o valor de R$ 1.187,51 (hum mil, cento e oitenta e sete reais e cinqüenta e um centavos), nada mais havendo a ser restituído, portanto.
+Já no tocante aos descontos supostamente efetuados pela União relativos aos anos-base de 1996 a 2008, há de se registrar que, não obstante a vasta documentação juntada aos autos pela parte autora, fls. 21/321, à exceção da cópia dos contracheques de fls. 30/35, o que se vê é que todos os documentos nos quais se "constatam registros de descontos a título de imposto de renda se reportam unicamente à genitora da autora, a Sra. [NOME].
+Não há elementos indicativos nos autos que comprovem que referidos descontos tenham atingido a cota parte do beneficio percebido pela autora. Demais disso, como bem acentua o MPF "a requerente, caso tivesse alguma retenção de imposto de renda nos anos de 1996 a 2008, teria apresentado as correlatadas Declarações de Imposto de Renda de Pessoa Física (DIRPFs), o que, porém, não fez, conforme demonstram os documentos de fls. 355/357".
+A autora, então, opôs embargos de declaração, apontando que a pensão por morte fora concedida "de forma unificada"; todavia, o recurso integrativo foi rejeitado, sem acréscimo (e-STJ fls. 395/398).
+Irresignada, a autora interpôs recurso de apelação, desprovido pelo Tribunal Regional Federal. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 513 e seguintes):
+Trata-se de apelação em face da sentença de fls. 374/376, prolatada pelo MM. Juiz Federal da 2ª Vara Federal de Sergipe, que julgou improcedente ação ordinária na qual [NOME] MOREIRA FONTES LIMA, representada por sua curadora, objetiva a restituição do imposto de renda descontado da sua pensão desde a data de concessão do benefício, em 21.05.1996.
+Entendeu o douto magistrado sentenciante que não há elementos nos autos que comprovem que referidos descontos tenham atingido a cota-parte do benefício percebido pela autora, restando demonstrado, na verdade, que os registros de descontos a título de imposto de renda se reportam unicamente à sua genitora, Sra. [NOME].
+Irresignada, apela a autora aduzindo que desde a morte de seu pai, em 21.05.1996, a pensão por morte fora concedida de forma unificada, através de um único número de benefício, a quatro beneficiários/dependentes, e que todos os demonstrativos/aviso de pagamento sempre foram emitidos e tributados em nome de [NOME], sem que fosse considerado o benefício de isenção tributária de que dispunha a autora, interditada em 2009 por força de sua alienação mental.
+ ..
+Consoante sumariado, a pretensão da recorrente consiste na restituição do imposto de renda descontado do benefício de pensão por morte deixado por seu genitor, desde o ano de 1996, em face da isenção concedida pelo art. 6º, XIV, da Lei 7.713/88, que assim dispõe:
+"Art. 6º Ficam isentos do imposto de renda os seguintes rendimentos percebidos por pessoas físicas:
+(..)
+XIV - os proventos de aposentadoria ou reforma, desde que motivadas por acidente em serviço, e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, esclerose-múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma;"(destaquei)
+Sustenta a apelante que faz jus a isenção em tela, desde a dada da concessão da pensão, tendo em vista que em 2009 fora interditada, em razão de alienação mental, moléstia reconhecida com efeitos pretéritos a data de seu nascimento.
+Entendo, no entanto, que razão não lhe assiste.
+Isso porque a documentação por ela acostada aos autos demostra que a tributação pelo imposto de renda nos anos de 1996 a 2008 se deu, exclusivamente, em nome de sua genitora, Sra. [NOME], não havendo indicação de que o imposto tenha atingido a cota parte do benefício da recorrente.
+Além disso, restou comprovado que os descontos do imposto de renda efetuados no ano de 2009 já foram devidamente restituídos à demandante, consoante se dessume da Declaração de Ajuste Anual do IRPF (fls. 358), que atesta a existência de imposto a restituir no valor de R$ 1.187,51 (mil cento e oitenta e sete reais e cinquenta e um centavos), relativos aos descontos realizados entre os meses de julho a dezembro/2009.
+Conforme bem destacou a douta representante do Parquet Federal em seu parecer, "(..) não há pedido a ser feito pela autora à União, já que ao Fisco cabia tributar os proventos auferidos por sua genitora, [NOME], cabendo somente a ela requerer às fontes pagadoras, in casu o INSS e a PETROS, a devida correção, para que figurassem como titulares da pensão seus filhos, [NOME], [NOME] e [NOME] ou mesmo fazer sua declaração de imposto de renda de modo a refletir a situação real."
+Com essas considerações, nego provimento à apelação.
+Opostos embargos de declaração, foram rejeitados sem nenhum acréscimo de fundamentação (eS-TJ fls. 532/536).
+Pois bem.
+Verifica-se que, de fato, os arts. 332 e 333, I, do CPC/1973, não estão prequestionados, pois não houve discussão sobre os ônus da prova (Súmula 282 do STF).
+De outro lado, o conhecimento do recurso também encontra óbice na Súmula 7 do STJ, tendo em vista eventual conclusão pela não valoração adequada das provas só ser possível mediante o reexame delas (Súmula 7 do STJ). No caso, não há como proceder à revaloração das provas porque o delineamento fático-probatório contido no acórdão recorrido não é suficiente para essa providência.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
