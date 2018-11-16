@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por VICTOR VIRGINIO DO NASCIMENTO contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CRIMINAL - ROUBO DUPLAMENTE MAJORADO - Crime praticado em concurso de agentes e mediante restrição da liberdade das vítimas - Autoria e materialidade do delito bem demonstradas - Condenação devida - Consumação caracterizada - Inteligência da Súmula 582 do STJ - Penas-base aumentadas - Penas finais, contudo, mitigadas - Regime prisional inicial fechado devido - Recurso ministerial provido, provendo-se parcialmente os defensivos." (e-STJ, fl. 331).
+A defesa alega, em síntese, que "o exame da culpabilidade e demais circunstâncias judiciais do artigo 59 do Código Penal no momento da dosimetria da pena demandam do Magistrado moderação e equilíbrio, sob pena de transformar a sentença penal condenatória em medida" (e-STJ, fl. 372).
+Sustenta que, no caso, "o agravamento da pena-base está fundamentado em agressões e ameaças, que nada mais são do que elementares do tipo penal, ou seja, exasperação esta que alicerçou a valoração negativa da pena-base configura-se a hipótese ilegal do bis in idem" (e-STJ, fl. 375).
+Requer "seja o presente Recurso Especial conhecido, processado e, ao final, provido para, garantindo vigência ao artigo 59 do Código Penal, reformar o V. Acórdão recorrido, reestabelecendo a pena-base ao mínimo legal" (e-STJ, fl. 376).
+Foram apresentadas as contrarrazões (e-STJ, fls. 389-393).
+O recurso não foi admitido por incidência das Súmulas 284/STF e 7/STJ (e-STJ, fls. 396-397). Daí este agravo (e-STJ, fls. 400-405).
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ, fls. 425-427).
+É o relatório.
+Decido.
+A pretensão recursal não merece amparo.
+Consoante se extrai dos autos, o réu foi condenado à pena de 06 anos e 08 meses de reclusão, em regime inicial fechado, mais o pagamento de 16 dias-multa, como incurso no art. 157, § 2º, incisos II e V, do Código Penal.
+O Tribunal a quo deu provimento à apelação do Ministério Público do Estado de São Paulo para exasperar a pena-base do acusado, tecendo para tanto os seguintes fundamentos:
+"As bases devem mesmo ser estabelecidas acima do mínimo legal, considerando-se as circunstâncias do caso concreto, pois as vítimas (idosas) foram agredidas e ameaçadas de morte no interior da própria residência, demonstrando maior culpabilidade na conduta dos réus, de forma que elevo a pena nesta fase em 1/4 (um quarto), ficando em 05 (cinco) anos de reclusão e ao pagamento de 12 (doze) dias -multa, no piso legal." (e-STJ, fl. 333).
+Ressalte-se, ainda, o elucidativo trecho colhida da sentença de primeiro grau, que bem demonstra a violência empregada pelo réu e seu comparsa durante a empreitada criminosa:
+"NEUSA GUARDA ALVES, vítima, disse que reconhecia os acusados nesta audiência.
+Na data dos fatos, estava na sala de jantar, momento em que um dos réus entrou na casa e começou a gritar: "perdeu, perdeu". Ele a pegou pelos cabelos. O outro entrou e amarrou o seu marido. Disse que chegaram a subir na casa à procura de dinheiro. Seu marido também foi agredido. Disse que levaram dinheiro, celular, etc. Disse que ficou passada. Disse que constantemente eram ameaçados de morte. A sua filha que estava na parte superior do imóvel informou seu filho que chamou a polícia. Os policiais pegaram os acusados na viela, após saírem por cima das casas. Por fim, confirmou que os assaltantes chegaram a amarrar os braços de seu marido.
+BENEDITO DE DEUS ALVES, vítima, disse que reconhecia os acusados nesta audiência. Na data dos fatos, estava em casa juntamente com a sua esposa na sala de jantar, conferindo o dinheiro que auferiu com o seu trabalho. Em certo momento, os acusados pularam o portão e começaram a mexer nas chaves da porta. Então, eles entraram na casa e um dos réus pegou a sua mulher pelos cabelos. O declarante e sua esposa deram o dinheiro para eles. No entanto, eles começaram a procurar dinheiro na casa. Disse que um dos acusados levou o declarante para a parte superior da casa à procura de dinheiro, sendo que esse o agrediu fisicamente. Disse que a sua filha conseguiu avisar seu outro filho que acionou a polida. Disse que a policia pegou ambos sobre a casa, tentando fugir e com a res furtiva nas mãos (dinheiro e bebidas). Disse que bateram com capacete em seu braço para que não olhasse para eles. A sua esposa chegou a urinar nas calças de tanto pavor.
+Disse que eles foram pegos sobre a casa, sendo que chegaram até a quebrar telhas. Por fim, consignou que eles ficaram cerca de dez minutos no interior de sua residência." (e-STJ, fls. 161-162).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+O aumento da pena-base é decorrente da valoração negativa da culpabilidade, a qual está legitimamente fundamentada no alto grau de reprovabilidade da conduta, que extrapola os elementos inerentes ao tipo penal, uma vez que foi praticada em concurso de agentes, com simulacro de arma de fogo (e-STJ, fl. 159) e restrição de liberdade, contra vítimas idosas, as quais foram brutalmente agredidas e ameaçadas de morte no interior da própria residência.
+Assim, imperiosa a majoração da pena-base.
+No mesmo sentido:
+" ..
+1. O Tribunal de origem, após minuciosa análise de conjunto probatório, concluiu pela autonomia das condutas praticadas, afastando, assim, o princípio da consunção. A modificação desse entendimento exigiria nova apreciação do conteúdo fático-probatório, o que não é possível na via do recurso especial. Incidência da Súmula 7/STJ.
+2. Em relação à culpabilidade, não há falar em bis in idem, isso porque é induvidoso que a conduta do recorrente em agredir as vítimas, uma mulher, puxando-a pelos cabelos e, um homem, com socos e tapas refoge ao tipo penal autorizando a majoração da pena-base.
+3. Agravo regimental não provido."
+(AgRg no AREsp 1073704/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+" ..
+2. Mostra-se legítimo o aumento da pena-base, pela circunstância judicial da culpabilidade, na medida em que fundamentada em elementos que extrapolam os inerentes ao tipo penal imputado, demonstrando, assim, especial reprovabilidade da conduta e justificando validamente, nesta parte, o aumento da pena-base.
+3. O trato negativo relativo às consequências do delito deve ser excluído quando constatados apenas resultados que não extrapolam os ínsitos ao tipo penal.
+4. Habeas corpus não conhecido. Concedida a ordem de ofício para para reduzir a pena a 10 anos de reclusão."
+(HC 211.601/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/02/2015, DJe 25/02/2015).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo, para negar provimento ao recurso.
+Publique-se. Intimem-se.
