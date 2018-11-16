@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por SILVIO KUHN DOS SANTOS contra decisão denegatória de recurso especial fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Na razões do nobre apelo, a parte agravante discute: a) existência de interesse jurídico no ajuizamento da ação cautelar de exibição de contrato firmado com a instituição financeira; e b) redistribuição do ônus da sucumbência.
+É o relatório. Decido.
+Interesse agir para o ajuizamento da ação cautelar de exibição de documentos:
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento, nos moldes do art. 543-C do CPC, do Recurso Especial Repetitivo n. 1.349.453/MS (relator Min. Luis Felipe Salomão, DJe de 2/2/2015), vinculado ao Tema n. 648, firmou o entendimento de que "a propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável e o pagamento do custo do serviço conforme previsão contratual e a normatização da autoridade monetária". Eis a ementa do julgado:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. EXIBIÇÃO DE EXTRATOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. PEDIDO PRÉVIO À INSTITUIÇÃO FINANCEIRA E PAGAMENTO DO CUSTO DO SERVIÇO. NECESSIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese:
+A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária.
+2. No caso concreto, recurso especial provido.
+Na espécie, verifica-se que o acórdão recorrido está de acordo com o entendimento firmado pelos STJ, ao decidir pela carência de ação da parte autora por falta de interesse de agir, visto não ter sido comprovada nos autos a existência de pedido administrativo idôneo, não atendido pela instituição financeira (fls. 281/282).
+O reexame da questão, relativamente à comprovação e à idoneidade do pedido administrativo, ensejaria o revolvimento de matéria fático-probatória, o que é inviável na via do recurso especial (Súmula n. 7/STJ).
+Ônus da sucumbência:
+Quanto ao redimensionamento os honorários advocatícios, esta Corte Superior tem entendimento pacificado no sentido de que nas ações de exibição de documento, a ré somente é condenada em honorários advocatícios quando houver pretensão resistida em fornecer os documentos pleiteados, aplicando-se os princípios da sucumbência e da causalidade, tendo em vista que é ela quem deu causa à demanda judicial e, assim, quem deve arcar com o ônus sucumbencial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS - AUSÊNCIA DE PRETENSÃO RESISTIDA - DESCABIMENTO DA CONDENAÇÃO EM ÔNUS SUCUMBENCIAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. A jurisprudência do STJ caminha no sentido de que, à luz dos princípios da sucumbência e da causalidade, são devidos honorários advocatícios em ações cautelares de exibição de documentos e produção antecipada de provas, desde que demonstrada a recusa administrativa e configurada a resistência pela parte ré em fornecê-los. Precedentes.
+2. O Tribunal de origem, com base na análise dos elementos fáticos e probatórios dos autos, entendeu que não houve resistência na apresentação dos documentos requeridos no incidente de produção antecipada de provas. Assim, para se rever tal entendimento demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1221810/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. CONDENAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. AUSÊNCIA DE PRETENSÃO RESISTIDA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte possui entendimento de que, em ação de exibição de documentos, para haver condenação em honorários advocatícios, deve estar caracterizada nos autos a resistência à exibição dos documentos pleiteados, o que não ficou demonstrado no caso ora em análise. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1216077/SE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/05/2018, DJe 08/05/2018)
+AGRAVO INTERNO. RECURSO ESPECIAL. CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PRETENSÃO RESISTIDA. INCABÍVEL FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. REEXAME DE PROVAS. SÚMULAS 7 E 83 DO STJ.
+1. Pela aplicação dos princípios da sucumbência e da causalidade em ações cautelares de exibição de documentos, para haver condenação ao pagamento de honorários advocatícios deve estar caracterizada nos autos a resistência à pretensão. No caso, o tribunal de origem consignou que não houve pretensão resistida. Incidência da Súmula 83/STJ.
+2. Não é possível reverter a conclusão do acórdão recorrido acerca da ausência de pedido resistido, sem reexame dos elementos fáticos da demanda, o que encontra óbice na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1585865/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2016, DJe 10/08/2016)
+In casu, ausente a resistência à pretensão do requerente por parte da empresa ré, o entendimento a quo está em conformidade com a jurisprudência desta Corte Superior ao condenar o autor da ação, ora Requerente, ao ônus sucumbencial.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observada a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
