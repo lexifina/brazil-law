@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus de próprio punho, substitutivo de recurso próprio, com pedido liminar, impetrado por [NOME], em que se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o paciente foi condenando em 2001 a 2 anos e 2 meses de reclusão, em regime aberto, pela prática do delito previsto no art. 171, III, do Código Penal.
+Alega-se constrangimento ilegal decorrente da ausência de reconhecimento do instituto da prescrição punitiva - Execução Penal n. 2006.70.00.001585-8, pelo Juízo da 12ª Vara Federal de Curitiba.
+Requer a defesa seja declarada a prescrição da pretensão punitiva nos autos da citada execução penal.
+O pedido de medida liminar foi indeferido (e-STJ, fl. 30).
+Intimada a se manifestar, a Defensoria Pública da União requereu a juntada das decisões proferidas em 22/2/2008 e 13/5/2009 pelo Juízo singular.
+Após a juntada das referidas decisões e novamente intimada, a DPU não mais se manifestou nos autos.
+O Ministério Público Federal opinou pelo não conhecimento da ordem de habeas corpus (e-STJ, fl. 141).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Consta nas informações prestadas pela Corte de origem que a Defensoria Pública da União impetrou habeas corpus (HC n. 0000261-20.2017.4.04.0000) em nome do paciente, no TRF4, com o objetivo de ver prescrita a pretensão punitiva do Estado. Afirmou-se que não transcorreu lapso temporal superior a 8 anos entre quaisquer dos marcos interruptivos da prescrição, nestes termos:
+" .. 1. [NOME] DOS [NOME] foi condenado pela prática do crime previsto no artigo 171 caput c/c § 3º do Código Penal à pena de 02 (dois) anos e 02 (dois) meses de reclusão em regime aberto, bem como ao pagamento de 60 (sessenta) dias-multa, no valor de 02 (dois) salários mínimos, e das custas processuais. A pena privativa de liberdade foi substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade pelo tempo da condenação e prestação pecuniária. A audiência admonitória foi realizada em 08/04/2008 (fls. 129).
+Como o executado não iniciou o cumprimento das penas e não mais foi localizado, este Juízo restabeleceu a pena privativa de liberdade e decretou a sua prisão preventiva (fl. 170).
+ ..
+2. Com razão o parquet quando afirma não ter ocorrido a prescrição da pretensão executória. Ao executado foi aplicada a pena privativa de liberdade de 02 (dois) anos e 02 (dois) meses de reclusão, de forma que, nos termos do artigo 109 inciso IV do Código Penal, a prescrição dar-se-á em 08 (oito) anos.
+Com efeito, muito embora o trânsito em julgado para o Ministério Público Federal tenha ocorrido em 12/02/2001 (cf. informação da ficha individual da fl. 04), a audiência admonitória foi realizada em 08/04/2008 (fl. 129), e, nos termos do artigo 117 inciso V do CP, interrompeu a prescrição executiva.
+Nesse ponto, é importante ressaltar que todas as providências que cabiam ao Estado para início do cumprimento das penas foram adotadas por este Juízo Criminal, tendo sido o executado intimado pessoalmente, em 19/03/2008, e comparecido à audiência admonitória no dia 08/04/2008 (fl. 123), oportunidade em que se comprometeu a dar início ao cumprimento das penas restritivas de direitos em Ponta Grossa, cidade onde iria residir.
+Sendo assim, diante do esforço deste Juízo da 1ª Vara Criminal em intimar o condenado para dar início ao cumprimento da pena, obviamente não há como se decretar a prescrição da pretensão executória pois: (I) em nenhum momento o Estado manteve-se inerte na sua função jurisdicional; e (II) o condenado em 08/04/2008, antes do prazo final da prescrição, deu efetivo início à execução de sua pena, atendendo à ordem judicial e comparecendo à audiência admonitória, oportunidade em que tomou ciência das condições de cumprimento de sua pena em regime aberto, na modalidade de penas substitutivas.
+ ..
+3. Diante de todas estas considerações, concluo pela não ocorrência da prescrição das pretensões executória do Estado" (e-STJ, fl. 84).
+Consulta ao site do TRF da 4ª Região revela que o pedido liminar no Habeas Corpus n. 0000261-20.2017.4.04.0000, impetrado na origem, foi indeferido nestes termos:
+"A sentença transitou em julgado para ambas as partes em 22/09/2005. Mas o réu foi preso em flagrante em 25/05/2010, fato que interrompe a prescrição (art. 117, VI, do CP). Foi cumprido mandado de prisão em 07/06/2015, iniciando-se o cumprimento da pena, marco interruptivo da prescrição (art. 117, V, do CP). Não tendo transcorrido o prazo de oito anos, não está prescrita a pretensão executória."
+Em 5/7/2018, a ordem do HC foi denegada em acórdão assim ementado:
+
+"DIREITO PENAL. ESTELIONATO. AUSÊNCIA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. CUMPRIMENTO. PENA. COMPETÊNCIA. JUSTIÇA ESTADUAL.
+1. Não tendo transcorrido o prazo de oito anos, previsto no art. 109, IV, do CP, desde o trânsito em julgado da sentença condenatória à pena de 2 (dois) anos e 2 (dois) meses de reclusão, com causas interruptivas de prisão em flagrante e cumprimento de mandado de prisão, não está prescrita a pretensão executória.
+2. A execução de penas privativas de liberdade, ainda que de condenados pela Justiça Federal, é realizada pela Justiça Estadual, foro competente para analisar incidentes relacionados ao cumprimento da reprimenda, bem como eventual discussão sobre a sua própria extinção."
+Com efeito, não ocorrendo o transcurso do lapso temporal superior a 8 anos entre os marcos interruptivos previstos no art. 117 do CP, como no caso, não há falar em prescrição da pretensão punitiva do Estado. A propósito, os seguintes precedentes:
+"HABEAS CORPUS. USO DE DOCUMENTO FALSO. DOSIMETRIA. CULPABILIDADE E MOTIVOS DO CRIME. MOTIVAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CRIME. BIS IN IDEM. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ORDEM PARCIALMENTE CONCEDIDA.
+1.  ..  4. Não há que falar em extinção da punibilidade pela prescrição da pretensão punitiva, pois não se verifica lapso superior a 8 anos entre os marcos interruptivos. 5. Ordem parcialmente concedida a fim de reduzir a reprimenda do paciente para 2 anos e 4 meses de reclusão e pagamento de 49 dias-multa." (HC 332.563/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/05/2018, DJe 15/08/2018.)
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1.  ..  3. Não configurada a prescrição da pretensão punitiva do Estado quando não transcorrido o lapso temporal de 8 anos entre os marcos interruptivos. 4. O acórdão que dá provimento ao recurso contra a rejeição da denúncia vale desde logo como seu recebimento, nos termos do que dispõe o enunciado 709 da Súmula do Pretório Excelso. Deve, portanto, ser considerado como marco interruptivo da prescrição (AgRg no AREsp 8.610/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/06/2011, DJe 22/06/2011).
+5. Embargos de declaração rejeitados." (EDcl no AgRg no REsp 1519820/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018.)
+Nesse contexto, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada que justifique a concessão da ordem por esta Corte.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Não havendo recurso, certifique-se o trânsito em julgado desta decisão e arquivem-se os autos.
