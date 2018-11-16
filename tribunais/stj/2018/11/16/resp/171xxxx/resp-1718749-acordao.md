@@ -1,0 +1,26 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PORTE DE REMESSA E RETORNO. OMISSÃO. INEXISTÊNCIA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM FUNDAMENTADO EM INTERPRETAÇÃO DA LEI ESTADUAL 11.608/03. SÚMULA 280/STF.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara sobre a deserção pela falta de recolhimento do porte de remessa e retorno, com base na Lei Estadual 11.608/03.
+2. O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, publicado no DJE de 5/4/2016).
+3. Recurso Especial parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu parcial provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+ACIDENTE DO TRABALHO - EMBARGOS À EXECUÇÃO - RECURSO DE APELAÇÃO - INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - DESERÇÃO - NÃO CONHECIMENTO. À falta de recolhimento do porte de remessa e retorno, no momento da interposição do recurso, impõe-se a pena de deserção, conforme o disposto no art. 511, caput, do Código de Processo Civil c/c a Lei Estadual nº 11.608/03.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega, em Recurso Especial, a ocorrência de violação do art. 535 do CPC/1973, com base na falta de apreciação da matéria ventilada nos Embargos de Declaração. Aduz ofensa ao art. 27, sob o fundamento de que a matéria omitida afastaria os pressupostos jurídicos sobre os quais o acórdão recorrido se embasou para declarar deserto o recurso de Apelação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 29.1.2018.
+Inicialmente, constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara sobre a deserção pela falta de recolhimento do porte de remessa e retorno, com base na Lei Estadual 11.608/03 .
+Ocorre que o Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". Transcrevo a ementa do julgado:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL.
+1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002.
+2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002.
+3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal.
+4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular.
+5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão "cujo valor será estabelecido por ato do Conselho Superior da Magistratura".
+6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem. (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, julgado em 3.12.2015 e publicado no DJE de 5.4.2016).
+Por tudo isso, dou parcial provimento ao Recurso Especial.
+ É como voto.
