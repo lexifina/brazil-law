@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 07/06/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA - VEÍCULO - IPVA - Alegação de alienação - Não comunicação ao DETRAN - Pretensão à anulação de lançamento de cobrança - Impossibilidade - Aplicabilidade do art. 134 do CTB e Art. º, II, § 2º da Lei 13.296/08 - Responsabilidade solidária - Dano moral não caracterizado - Sentença de improcedência - Recurso não provido" (fl. 112e).
+Opostos Embargos Declaratórios, restaram rejeitados (fls. 133/138e).
+Sustenta a parte recorrente, no Recurso Especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, além da divergência jurisprudencial, ofensa ao art. 134 do Código de Trânsito Brasileiro e Súmula 585/STJ.
+Não foram apresentadas contrarrazões (fl. 131e).
+O recurso não pode ser conhecido.
+Conforme verifica-se dos autos, o acórdão recorrido foi disponibilizado no Diário de Justiça eletrônico no dia 09/05/2018 (fl. 139e), publicado no dia 10/05/2018, na vigência do CPC/2015, sendo o Recurso Especial interposto no dia 07/06/2018 (fl. 118e).
+O recorrente alegou, em síntese, que:
+"Assim, a r. decisão de fls. 10/15 que rejeitou os Embargos de Declaração de n.º 1009574-46.2015.8.26.0344/50000, foi disponibilizado em 09 de maio de 2.018, considerando a data da publicação, no dia 10 de maio de 2.018, conforme certidão de fls. 16.
+Assim, o prazo fatal para interposição do presente recurso, contados 15 (quinze) dias úteis da data da publicação, expiraria 11 de junho de 2.018, considerando a suspensão dos prazos em 24, 25, 28, 29 e 30, em razão da Greve dos Caminhoneiros e de 31 de maio de 2.018 e 1.º de junho de 2.018, referente ao feriado de Corpus Christi e sua emenda, respectivamente" (fl. 121e).
+Entretanto, não trouxe, aos autos, comprovação das referidas suspensões, nos termos do art. 1.003, § 6º, do CPC/2015, sendo o presente recurso intempestivo.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO APELO NOBRE. INSURGÊNCIA RECURSAL DO EXEQUENTE.
+1. É intempestivo o recurso especial não protocolizado no prazo legal, não tendo sido comprovada a ocorrência de feriado local ou a suspensão dos prazos no Tribunal de origem quando da interposição do recurso especial.
+2. Agravo interno desprovido" (STJ, AgInt no AREsp 1.235.068/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 23/10/2018).
+Ademais, de acordo com a jurisprudência, "o feriado nacional deve estar previsto em lei federal, contudo, o dia de Corpus Christi (Corpo de Cristo) é feriado local, pois não está previsto em qualquer legislação federal e, portanto, sua eventual ocorrência na instância de origem exige comprovação nos autos pela parte interessada por meio de documento idôneo (cópia da lei, ato normativo ou certidão exarada por servidor habilitado)" (STJ, RCD no AREsp 751.455/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 03/02/2016).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/2015. INTEMPESTIVIDADE. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL. ESSENCIAL COMPROVAÇÃO NO MOMENTO DE INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO CPC/2015. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. RECESSO FORENSE NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM.
+1. Tendo em vista a aplicação do CPC/2015 ao presente julgamento, torna-se necessária a observância dos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+2. Na espécie, imperiosa é a aplicação do art. 1.003, § 6º, do CPC/20115, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. A reiterada jurisprudência desta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal de origem, o que não ocorreu na hipótese.
+4. Agravo interno a que se nega provimento" (STJ, AgInt nos EDcl no REsp 1.706.762/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 15/10/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
