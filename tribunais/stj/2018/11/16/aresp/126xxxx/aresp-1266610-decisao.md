@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por VIVA VISTA ARAUCARIA SPE EMPREENDIMENTOS IMOBILIARIOS LTDA em face da decisão acostada a fls.711-712 e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pela ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 247-250 e-STJ, proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+RESCISÃO CONTRATUAL C.C. INDENIZAÇÃO. Compromisso de compra e venda de unidade imobiliária. Inadimplência absoluta da promitente -vendedora. Aplicabilidade do CDC. Restituição integral dos valores pagos pelos promitentes - compradores. Aplicabilidade da Súmula 543 do STJ. Sentença mantida. Recurso desprovido
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 393 do Código Civil, sustentando haver excludente de responsabilidade pelo atraso na entrega da obra; (ii) arts. 51, inc. II e IV, e 54, do CDC, defendendo não ser abusiva a cláusula que permite à promitente-vendedora reter parte dos pagamentos na hipótese de rescisão, uma vez cumprido o dever de informação. Teceu considerações acerca do compartilhamento do risco do negócio entre promitente-comprador e vendedor, o que seria conveniente para o bom funcionamento do mercado e, ainda, sobre o excesso de paternalismo jurídico.
+Contrarrazões a fls. 274-276 e-STJ.
+Em juízo prévio de admissibilidade, a corte de origem negou seguimento ao apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 281-289 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta a fls. 291-295 e-STJ.
+É o relatório. Decide-se.
+O recurso não comporta provimento.
+1. Não se afigura admissível a alegação de ofensa ao artigo 393 do Código Civil, pois ausente o prequestionamento da matéria. Nos termos da jurisprudência deste Tribunal Superior, "Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal." (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Extrai-se da leitura do acórdão recorrido que o Tribunal de origem não emitiu pronunciamento acerca de eventual excludente de responsabilidade, limitando-se a constatar o atraso na entrega do imóvel.
+Uma vez que o Tribunal de origem não proferiu decisão a respeito da controvérsia trazida a esta Corte superior, é inviável conhecer o recurso especial, uma vez ausente o requisito do prequestionamento, conforme a Súmula 282/STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+2. Consoante a jurisprudência deste Tribunal Superior, consolidada no enunciado nº 543 de sua Súmula, "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento"
+Segundo os autos, a Corte de origem manteve a sentença que, nos autos da ação de rescisão contratual proposta pelo ora recorrido julgou procedentes os pedidos iniciais.
+Essencialmente, o Tribunal a quo verificou que se trata de hipótese de aplicação da legislação consumerista e, diante do inadimplemento da promitente-vendedora, em virtude do atraso na entrega do imóvel, considerou-se devida a restituição integral dos valores pagos, nos termos da jurisprudência desta Corte superior.
+Cita-se o excerto correspondente (fls. 249-250 e-STJ, sem grifos no original):
+Com efeito, o balanço dos elementos de convicção amealhados permite constatar que a ré não cumprira tempestivamente com sua obrigação contratual de entregar a unidade compromissada, que está prevista para ocorrer até 26/1/2016 (fls. 33).
+Nessa senda, diversamente do que pugna a apelante, a rescisão contratual não é imotivada, e sim, motivada pelo aludido inadimplemento absoluto.
+Referido comportamento negativa o dever de confiança, transparência e boa-fé objetiva (art. 421 do CC), caracterizando-se, pois, o real desequilíbrio contratual.
+Aplicável o regime do CDC, temática iterativa nesta Corte e no C. STJ.
+A hipótese é de interpretar-se o negócio do modo mais favorável aos aderentes (art. 47 do CDC), aplicando-se o princípio da transparência e vulnerabilidade do consumidor (arts. 4º, caput; 6º, inciso III; 31; 37; 46 e 54, §§ 3º e 4º do CDC).
+ ..
+De rigor, portanto, a manutenção do julgado monocrático nos moldes em que prolatado, o qual ainda se afina com o enunciado da recente Súmula 543 do C. STJ
+O acórdão impugnado acompanhou nesse ponto a orientação firmada no âmbito deste Superior Tribunal de Justiça. Aplica-se, portanto, o óbice enunciado na Sumula 83/STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+3. Do exposto, nega-se provimento ao agravo em recurso especial. Com fundamento no art. 85, §11, do CPC/15, majoram-se os honorários advocatícios para 16% (dezesseis por cento) do valor da condenação.
+Publique-se. Intimem-se.
