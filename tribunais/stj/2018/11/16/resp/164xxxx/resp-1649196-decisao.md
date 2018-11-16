@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. TRIBUTÁRIO. ROYALTIES. CITY GATES. SUSPENSÃO DE DISPOSITIVOS DA LEI 12.734/12 EM MEDIDA LIMINAR NA ADIN 4917-MC/DF. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Agência Nacional do Petróleo, Gás Natural e Biocombuistíveis, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 2ª Região, nesses termos ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ROYALTIES. ALTERAÇÕES PROMOVIDAS PELA LEI 12.734/2012. ADIN 4917-MC/DF. MEDIDA CAUTELAR. REMESSA NECESSÁRIA E RECURSO DE APELAÇÃO DESPROVIDOS.
+1. A controvérsia posta nos autos cinge-se em perquirir se cabível o pagamento de royalties ao autor na forma determinada pela Lei 9.478/97, anteriormente às mudanças acrescidas pela Lei nº 12.734/12.
+2. É cediço que o §1º do art. 20 da Constituição Federal define os titulares do direito à participação no resultado da exploração de petróleo ou gás natural no respectivo território. Isto decorre do ônus que aqueles entes federativos têm de suportar em razão da exploração, garantindo-se que participem no resultado ou sejam compensados pela exploração de petróleo ou gás natural.
+3. Com o advento da Lei 12.734/2012, introduziu-se no ordenamento jurídico brasileiro nova forma de partilha de tais recursos, de modo a beneficiar estados e municípios não ajustados às condições territoriais anteriormente previstas.
+4. Nos autos da ADI nº 4.917, a Min. Carmen Lúcia deferiu a medida cautelar pleiteada, para suspender os efeitos dos arts. 42-B; 42-C; 48, II; 49, II; 49-A; 49-B; 49-C; § 2º do art. 50; 50-A; 50-B;
+50-C; 50-D; e 50-E da Lei Federal n. 9.478/97, com as alterações promovidas pela Lei n.
+12.734/2012.
+5. A Ministra fundamentou a referida decisão no entendimento de que "o Estado e o Município, em cujo território se tenha exploração de petróleo ou de gás natural ou que seja confrontante com área marítima na qual se dê esta atividade (em plataforma continental, mar territorial ou zona econômica exclusiva), titulariza o direito assegurado na regra constitucional".
+6. Apesar dos §§ 3º do art. 48 e 7º do art. 49, ambos da Lei 12.734/12, não terem tido sua aplicabilidade suspensa em razão do deferimento da medida cautelar mencionada, verifica-se, da leitura da legislação, uma relação de dependência entre os mesmos, de modo que dependem, para sua funcionalidade, do disposto no inciso II dos mesmos dispositivos.
+7. Remessa necessária e recurso de apelação desprovidos.
+Os embargos de declaração opostos não foram providos.
+Sustenta a parte recorrente que o acórdão regional contrariou os arts. 48, § 3º, e 49, § 7º, ambos da Lei nº 9.478/1997, com redação dada pela Lei n.º 12.734/2012, além do art. 7.º da Lei n.º 7.990/1989, alegando em síntese que não é cabível a declaração de inconstitucionalidade por arrastamento no presente caso, em relação à ADI 4971, seja porque não é cabível pela via difusa, seja porque não há dependência entre os dispositivos cautelarmente suspensos por inconstitucionalidade e os artigos mencionados alhures. Aduz ainda, que a Lei 12.734/12 não tem incompatibilidade alguma com a Lei 7.990/89, pois apenas reclassificou como instalação de embarque e desembarque, os pontos de entrega às concessionárias de gás natural, ampliando o rol de Municípios aptos a receber royalties.
+Não foram apresentadas contrarrazões
+Parecer do MPF às fls. 441/442 pelo não conhecimento do recurso.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 2/STJ:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Verifica-se que a Corte a quo, ao julgar a controvérsia, entendeu em razão da medida liminar deferida nos autos da ADI 4971-MC/DF, no STF, é de se reconhecer incidentalmente a inconstitucionalidade da regra contida no § 3º do art. 48 e no §7º do art. 49, da Lei n.º 9.478/1997, incluídos pela Lei nº 12.734/2012.
+Desta feita, é inegável que o acórdão recorrido baseou o seu entendimento em fundamento de natureza eminentemente constitucional, o que afasta a possibilidade de análise da pretensão recursal em sede de recurso especial. Assim, a competência só poderia ser atribuída ao Supremo Tribunal Federal, pelo recurso próprio, conforme o que dispõe o art. 102, III, da Constituição Federal.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONTRIBUIÇÃO DESTINADA A FINANCIAR O PROGRAMA DE ESTÍMULO CIENTÍFICO E TECNOLÓGICO NO PAÍS. LEIS Nº S 10.168/00 E 10.332/01. CONTROVÉRSIA SOLVIDA PELA CORTE DE ORIGEM À LUZ DE FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DE EXAME DA MATÉRIA EM SEDE ESPECIAL.
+1. Não se conhece do recurso especial no caso em que o Tribunal de origem afasta a pretensão autoral de afastamento da CIDE incidente sobre royalties, instituída pela Lei nº 10.168/00, decidindo a controvérsia dos autos à luz de fundamento eminentemente constitucional, circunstância que torna inviável o exame da matéria em sede especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1496436/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 13/05/2015)
+ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. SISTEMA ÚNICO DE SAÚDE (SUS). RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. SÚMULA 83/STF. ALTO CUSTO. ENFOQUE CONSTITUCIONAL. RESERVA DO POSSÍVEL E NORMAS FINANCEIRAS. REEXAME DE PROVAS.
+1. A saúde pública consubstancia direito fundamental do homem e dever do Poder Público, expressão que abarca a União, os Estados-membros, o Distrito Federal e os municípios, todos em conjunto.
+2. Com relação à responsabilidade do município no fornecimento de medicamentos de alto custo, verifica-se que o Tribunal de origem decidiu a controvérsia sob o enfoque eminentemente constitucional, ao entender que o direito à saúde decorre do princípio da dignidade da pessoa humana. Competência do Supremo Tribunal Federal.
+3. Quanto à alegação baseada na reserva do possível e no descumprimento de normas financeiras, o Tribunal a quo deixou claro que, na hipótese dos autos, não ocorre a inviabilidade financeira.
+Modificar o acórdão, nesse aspecto, demanda o reexame das provas dos autos. Súmula 7/STJ.
+4. Registre-se, por fim, que o reconhecimento da repercussão geral pela Suprema Corte não enseja o sobrestamento do julgamento dos recursos especiais que tramitam neste Superior Tribunal de Justiça.
+Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 681.618/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/08/2015, DJe 13/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
