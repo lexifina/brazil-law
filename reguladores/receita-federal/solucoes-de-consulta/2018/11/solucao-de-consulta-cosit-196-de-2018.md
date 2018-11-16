@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 196, de 5 de novembro de 2018
+ASSUNTO: SIMPLES NACIONAL EMENTA: PARTICIPAÇÃO NO CAPITAL DE OUTRA SOCIEDADE. NU-PROPRIETÁRIO DE QUOTAS SOCIAIS. LIMITES DE RECEITA BRUTA. VEDAÇÃO. Não poderá se beneficiar do tratamento jurídico diferenciado previsto na Lei Complementar nº 123, de 2006, incluído o Simples Nacional, para nenhum efeito legal, a pessoa jurídica cujo titular ou sócio participe, mesmo na condição de nu-proprietário de quotas sociais, com mais de 10% (dez por cento) do capital de outra empresa não beneficiada pela referida Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput do art. 3º da mesma Lei Complementar; Dispositivos Legais: Lei Complementar nº 123, de 2006, art. 3º, § 4º, IV
+.
+[arquivo anexo: SC Cosit nº 196-2018.pdf]
