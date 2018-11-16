@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 458, I, II E III, 459, PARÁGRAFO ÚNICO, 535, I e II, TODOS DO CPC/73. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO CARACTERIZAÇÃO.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Correta, ainda, a decisão recorrida quanto ao não atendimento das exigências previstas nos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ relativamente ao suposto dissídio jurisprudencial alegado, não merecendo reforma.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME], desafiando decisão que negou provimento a agravo em recurso especial, sob o fundamento de inexistência de ofensa no acórdão aos arts. 458, I, II e III, 459, parágrafo único, 535, I e II, todos do CPC/73.
+A agravante, em suas razões, repisa seus argumentos quanto à ocorrência de negativa de prestação jurisdicional, pois o acórdão não haveria apreciado diversas questões fundamentais ao deslinde da causa, especialmente quanto à sua demissão sem que lhe fosse dado o efetivo direito de defesa no processo administrativo, além de outras supostas nulidades no seu processamento.
+Aduz, por fim, a comprovação da ocorrência de dissídio jurisprudencial.
+Houve impugnação às razões do recurso, às fls. 472/474.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Como asseverado na decisão recorrida, "observa-se pela fundamentação do acórdão recorrido (fls. 243/257), integrada em sede de embargos declaratórios (fls. 273/277), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte." (fl. 439)
+A propósito, "não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional" (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. ENERGIA ELÉTRICA. FORNECIMENTO. INTERRUPÇÃO.
+DANOS MORAIS. RECONHECIMENTO. CASO FORTUITO. AFASTAMENTO. SÚMULAS 284 DO STF E 7 DO STJ. APLICAÇÃO. JUROS DE MORA. MARCO INICIAL DA FLUÊNCIA. SÚMULA 54 DO STJ. CASO CONCRETO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação ao art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1340652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015), pois o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014). (grifei)
+(..)
+7. Agravo interno desprovido.
+(AgInt no AREsp 431.143/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/02/2017, DJe 10/03/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA
+OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução
+jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Correta, ainda, a decisão recorrida quanto ao não atendimento das exigências previstas nos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ relativamente ao suposto dissídio jurisprudencial alegado, não merecendo reforma.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
