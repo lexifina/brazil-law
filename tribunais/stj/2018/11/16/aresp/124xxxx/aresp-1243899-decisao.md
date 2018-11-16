@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/2015), interposto por [NOME] e MARIA ELIZABETH [NOME] DA SILVEIRA em face de decisão que negou seguimento a recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal.
+O apelo extremo desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 232, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - PEDIDO FUNDAMENTADO NO DIREITO DE PROPRIEDADE - AUSÊNCIA DE PROVA DE POSSE ANTERIOR - FALTA DE INTERESSE DE AGIR - INADEQUAÇÃO DA VIA ELEITA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. Ausente a comprovação de que os autores exerceram posse sobre o bem imóvel mencionado na inicial e, tendo o pedido sido fundamentado unicamente no direito de propriedade, excedendo, portanto, os limites da possessória, resta configurada a falta de interesse de agir. Deste modo, a extinção do feito, sem resolução de mérito, em razão da inadequação da via eleita, é medida que se impõe.
+Opostos embargos de declaração (fls. 245/248, e-STJ), esses foram rejeitados (fls.253/261, e-STJ).
+Nas razões do recurso especial (fls. 264/275, e-STJ), os ora agravantes apontaram violação aos artigos 184 e 407 do Código de Processo Civil de 1973. Alegaram que a apresentação do rol de testemunhas foi tempestiva. Argumentaram que protocolaram petição constando o rol de testemunhas mais de 60 (sessenta) dias antes da audiência de instrução e julgamento. Asseveraram que a publicação da intimação para a apresentação do rol de testemunhas não estabeleceu a data de início do prazo.
+Sem contrarrazões.
+Em juízo de provisório de admissibilidade (fls. 289/290, e-STJ), negou-se seguimento ao reclamo sob o fundamento da incidência da Súmula 283/STF.
+Daí o agravo (fls. 293/298, e-STJ), que busca a reforma da decisão agravada, lançando argumentações no sentido de superar o óbice acima apontado.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Da leitura do acórdão recorrido, extrai-se que além da intempestividade na apresentação do rol de testemunhas, o órgão julgador concluiu que os autores não demonstraram exercer a posse sobre o imóvel litigioso, tendo fundamentado seu pedido unicamente no direito de propriedade, sendo inadequada a via eleita, não havendo interesse de agir. Confira-se (fls. 237/239, e-STJ):
+Todavia, no vertente caso, rogata venia, os autores, ora apelantes não demonstraram a presença dos requisitos em evidência, além do suposto comodato, sendo certo que a mera notificação não tem o condão de comprovar a sua existência.
+Os autores não comprovaram que exerciam posse sobre o imóvel litigioso, além de que o requerido o ocupava, a título de comodato verbal, tendo fundamentado o pedido unicamente no direito de propriedade.
+Pois bem.
+Recorrem os autores/apelantes contra a sentença que extinguiu o feito em relação à pretensão possessória, ante a inadequação da via eleita, nos termos do art. 485, VI, do CPC/15.
+A meu ver, a sentença é irretocável. Isso porque, do cotejo da documentação coligida nos autos, não obstante ter a parte autora ajuizado ação de reintegração de posse, verifica-se que a controvérsia cinge em torno dos limites da propriedade. (grifou-se)
+Ora, é evidente a inadequação do instrumento processual escolhido, uma vez que a matéria aduzida refere-se, nitidamente, à propriedade, destoando do objetivo da ação possessória, cabendo ressaltar que esta não é apta para declarar os limites da propriedade imobiliária.
+A ação de reintegração de posse é aquela que possibilita ao possuidor desconstituir o esbulho que sofreu e ser reintegrado na sua posse, que foi ilegalmente afastada, devendo haver a comprovação dos requisitos do art. 561, do CPC/715.
+Desta feita, resta evidente a inadequação da via eleita pela parte autora, notadamente diante da ausência do binômio "necessidade - adequação". A respeito da matéria, a jurisprudência deste Eg. Tribunal de Justiça não discrepa, vejamos:
+(..)
+Como se sabe, um dos vieses do interessse de agir é justamente a adequação da via eleita à dedução do direito alegado pela parte.
+De fato, o que se extrai é que os autores, ora apelantes, apesar de pugnarem pela reintegração de posse do imóvel litigioso, em momento algum afirmam ter exercido posse sobre ele, pelo que, como dito acima, deveriam ter ajuizado ação petitória, própria de dono que não tem a posse contra o possuidor que não é proprietário.
+Assim, indubitável a eleição incorreta da via imprópria à materialização do direito subjetivo alegado na inicial, outra medida não pode ser adotada senão a extinção do feito, sem julgamento do mérito, por ausência de interesse de agir.
+Ocorre que, nas razões do apelo extremo, os recorrentes se insurgem contra a impossibilidade da apresentação do rol de testemunhas em razão da sua intempestividade, não impugnando os fundamentos utilizados pelo Tribunal de origem de inadequação da via eleita e falta de interesse de agir.
+Assim, a subsistência de fundamento inatacado, apto a manter o acórdão recorrido, atrai a incidência do teor da Súmula 283/STF. Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/06/2016, Dje 21/06/2016)  grifou-se
+2. Do exposto, com fulcro no artigo 932, V, do CPC/15 c/c Súmula 568/STJ, nega-se provimento ao agravo e, sendo fixada verba honorária de 20% sobre o valor da causa, deixa-se de majorar os honorários a serem pagos pela parte recorrente, haja vista já terem sido fixados no valor máximo.
+Publique-se.
+Intimem-se.
