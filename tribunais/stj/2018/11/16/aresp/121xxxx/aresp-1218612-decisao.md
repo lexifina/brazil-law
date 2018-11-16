@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). BANCÁRIO. JUROS REMUNERATÓRIOS. DECISÃO DE ADMISSIBILIDADE. NEGATIVA DE SEGUIMENTO, NO PONTO, COM BASE ART. 1.030, INCISO I, "B", DO CÓDIGO DE PROCESSO CIVIL/2015 (543-C, § 7º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL/73). NÃO CABIMENTO DO AGRAVO. CAPITALIZAÇÃO MENSAL. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 283/STF. NECESSIDADE DE REEXAME DE PROVAS. VEDAÇÃO. ÓBICE DA SÚMULA 7/STJ. DESCARACTERIZAÇÃO DA MORA. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 282 E 356 DO STF. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE CONTRARIADO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 284/STF.
+AGRAVO CONHECIDO EM PARTE PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por [NOME] em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim resumido:
+Ação declaratória - revisional de cláusulas de contrato - cerceamento de defesa não caracterizado - capitalização de juros - inocorrência em razão da natureza do contrato de cartão de crédito - viabilidade da cobrança de juros contratados superiores a 12% (doze por cento) ao ano - não incidência do art. 192, §3" da Constituição Federal (que dependia de legislação complementar não editada), revogado pela Emenda Constitucional n" 40, de 29 de maio de 2003 - Súmula n" 596 e Súmula Vinculante n" 7 do Supremo Tribunal Federal - comissão de permanência - Súmula n" 294 do Superior Tribunal de Justiça - possibilidade de cobrança calculada pela taxa média de mercado, desde que pactuada e não cumulada com correção monetária, juros remuneratórios ou multa contratual  ausência de interesse recursal - sentença mantida - recurso improvido, na parte conhecida (e-STJ fl. 280).
+Nas razões do especial, o recorrente alegou que o aresto violou o disposto no art. 51, IV, do Código de Defesa do Consumidor, no tocante à capitalização mensal e aos juros remuneratórios.
+Asseverou que a contenda em torno desses últimos foi solucionada em recurso julgado sob o rito dos repetitivos, devendo ser aplicado ao caso concreto o entendimento então sufragado de que não "havendo demonstração da taxa de juros remuneratórios pactuada, pela omissão a respeito no contrato, objeto da ação, ou pela não juntada do instrumento contratual aos autos, impõe-se a limitação dos juros pela taxa média para as operações fixadas pelo BACEN" (e-STJ fl. 292).
+Sustentou que não houve previsão de forma expressa e clara acerca da capitalização mensal de juros, devendo essa ser afastada, nos moldes do decidido no REsp 973.827/RS, representativo de controvérsia.
+Argumentou que, uma vez reconhecida a abusividade de encargo cobrado durante o período da normalidade, no caso a capitalização mensal de juros, deve ser afastada a mora, em observância ao art. 396 do Código Civil Brasileiro.
+Por fim, insurgiu-se contra a cobrança da comissão de permanência, por não haver pactuação quanto a ela.
+Foram apresentadas contrarrazões às fls. 300/304 (e-STJ).
+Inadmitido o apelo nobre (e-STJ fls. 306/307), vieram os autos conclusos para análise em decorrência da interposição do agravo de fls. 310/316 (e-STJ).
+Impugnação às fls. 319/322 (e-STJ).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que, em razão de o recurso ter sido interposto na vigência do Código de Processo Civil de 2015, o juízo de admissibilidade será realizado com base no regramento nele previsto, conforme Enunciado Administrativo nº. 3/STJ.
+A irresignação não merece prosperar.
+Com efeito, no tocante aos juros remuneratórios, mostra-se descabido o presente agravo, pois, no ponto, foi negado seguimento ao recurso especial, com base no art. 543-C, § 7º, I, do Código de Processo Civil de 1973, sendo certo que o recurso cabível em tal caso é o agravo interno, como dispõe o § 2.º do art. 1.030 do CPC/2015 , não o agravo em recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM
+PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+ ..
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários
+advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, TERCEIRA TURMA, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 26/08/2016, grifo nosso).
+No que se refere à capitalização mensal de juros, o acórdão recorrido assinalou:
+ Nesse trilho, não se configura a alegada nulidade dos encargos cobrados, uma vez que estes foram informados mensalmente ao autor, conforme se verifica nas faturas juntadas com a peça inaugural, possibilitando o pleno conhecimento dos juros cobrados no período em que efetuado apenas o pagamento parcial da fatura.
+ Concernentemente ao contrato de cartão de crédito, "é impróprio se falar em anatocismo. Supõe-se pagamento mensal e integral do débito, que extingue o empréstimo. Mas se não houver pagamento, considera-se o montante devido como principal que será objeto de novo financiamento. Assim, opera-se novação do saldo da divida" (TJSP, Apelação nº 991.06.019197-0, Relator Desembargador Souza Geishofer, 16a Câmara de Direito Privado) (e-STJ fl. 282).
+As razões do especial não impugnaram os fundamentos em destaque, de modo que o apelo esbarra no óbice da Súmula 283/STF, aplicável por analogia.
+Outrossim, para constatar se houve ou não pactuação da capitalização de juros, in casu, seria indispensável revolver o conteúdo fático-probatório dos autos, procedimento vedado em sede especial, conforme reza a Súmula 7/STJ.
+Quanto à tese de descaracterização da mora, inexistiu o devido prequestionamento, incidindo, no particular, também por analogia, as Súmulas 282 e 356 do STF.
+No que toca à comissão de permanência, não houve indicação de qualquer dispositivo de lei federal por ventura violado. Portanto, a Súmula 284/STF impede o conhecimento da matéria, haja vista a deficiência na fundamentação recursal, no ponto.
+Ante o exposto, conheço em parte do agravo para não conhecer do recurso especial.
+Considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários fixados na sentença em R$ 1.500,00 (mil e quinhentos reais - e-STJ fl. 201) para R$ 1.800,00 (mil e oitocentos reais), ressalvado o benefício da assistência judiciária gratuita.
+Intimem-se.
