@@ -1,0 +1,64 @@
+DECISÃO
+ Trata-se de recurso especial interposto por BANCO DO BRASIL SA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"Embargos à execução. Confissão de divida. Título executivo extrajudicial. Liquidez. Pressuposto de constituição e desenvolvimento válido do processo. Ajustes originários ausentes. Conversão do julgamento em diligência.
+A conversão em diligência visa oportunizar ao credor a juntada de todos os documentos que digam respeito à composição do débito, prestigiando-se, com a solução, o princípio da instrumentalidade do processo." (e-STJ,fl.99)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 120/123).
+Em suas razões recursais, a recorrente aponta violação dos seguintes dispositivos: 1) art. 535 do CPC/73, sob o fundamento de que o acórdão recorrido foi omisso quanto à inexistência de pedido do recorrido de revisão dos pactos originários; 2) arts. 2º, 128, e 460, 512, 515 todos do CPC/73, pois a decisão que determina a conversão do feito em diligência para juntada contratos originários, sem que nada tenha sido questionado pelo recorrido em relação aos mesmos, ofende o princípio recursal do "tantum devolutum quantum apellatum" e constitui decisão extra petita; 3) art. 585, II, do CPC/73, pois a escritura pública de confissão de dívida constitui titulo executivo e para a verificação das condições da ação não é necessária a revisão dos contratos que originaram a dívida; art. 284 do CPC/73, porque já foi ultrapassado o prazo para a emenda da inicial e 4) art. 538, do CPC/73, por não serem protelatórios os embargos de declaração opostos perante o Tribunal de origem.
+Por fim, defende haver divergência jurisprudencial quanto à existência de julgamento extra petita.
+Não foram apresentadas contrarrazões (e-STJ fl. 168)
+É o relatório. Passo a decidir.
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Ao tratar da inexistência de pedido do recorrido de revisão dos pactos originários, a Corte de origem decidiu:
+"Embora o contrato de confissão de dívida seja qualificado como titulo executivo extrajudicial (art. 585, II, do CPC), se ausentes liquidez, certeza e exigibilidade da obrigação nele estampada, a execução será nula:
+É nula a execução:
+I- se o título executivo extrajudicial não corresponder a obrigação certa, líquida e exigível (art. 586); (art. 618, I, do CPC)
+Além disso, tal nulidade é matéria de ordem pública, cognoscível a qualquer tempo e até mesmo de oficio pelo magistrado, sendo desnecessária manifestação especifica da parte sobre tais requisitos." (e-STJ fl. 101)
+Como visto, a Corte de origem, a despeito de reconhecer que o contrato de confissão de dívida pode ser qualificado como título executivo extrajudicial, consignou que, no caso concreto, o título apresentado não apresenta liquidez nem certeza da obrigação nele estampada, o que permite o reconhecimento de tal nulidade de ofício pelo magistrado.
+O entendimento acima, de que , encontra-se de acordo com a jurisprudência desta Corte Superior:
+"PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ACORDO HOMOLOGADO JUDICIALMENTE. OBRIGAÇÃO DE FAZER. FIXAÇÃO DE MULTA PELO DESCUMPRIMENTO. PEDIDO DE CUMPRIMENTO DE SENTENÇA, PARA EXECUÇÃO DA MULTA. ALEGAÇÃO DE DESCUMPRIMENTO DO ACORDO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE INEXIBILIDADE DO TÍTULO EXECUTIVO. NECESSIDADE DE PROVA SOBRE O DESCUMPRIMENTO DO ACORDO. VIOLAÇÃO DOS ARTS. 580, 586 e 618 DO CPC CONFIGURADA.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial. Súmula 211/STJ.
+2. Inadmissível recurso especial para interpretação de cláusula contratual ou reexame do conjunto fático-probatório. Incidência das Súmulas 5 e 7, ambas do STJ.
+3. Deficiência de fundamentação do recurso. Incidência da Súmula 284/STF.
+4. Os embargos declaratórios têm como objetivo sanear eventual obscuridade, contradição ou omissão existentes na decisão recorrida.
+Inexiste ofensa ao art. 535 do CPC, quando o Tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como ocorrido na espécie.
+5. O título executivo, como condição da ação de execução, deve preencher os requisitos da certeza, liquidez e exigibilidade.
+Ausente quaisquer deles, há nulidade absoluta. E, como se tratam de matérias cognoscíveis de ofício pelo juiz, podem ser alegadas em sede de exceção de pré-executividade.
+6. Reconhecida a violação dos arts. 580, 586 e 618 do CPC pelo acórdão recorrido.
+7. Recurso especial provido."
+(REsp 1235785/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/06/2011, DJe 30/06/2011)
+"PROCESSUAL CIVIL. CONTRATO DE ABERTURA DE CRÉDITO ROTATIVO. AUSÊNCIA DE EXEQUIBILIDADE DO TÍTULO. RECONHECIMENTO DE OFÍCIO EM SEDE DE EMBARGOS À ARREMATAÇÃO. POSSIBILIDADE. NULIDADE ABSOLUTA DA EXECUÇÃO.
+1. Quer se considere o título executivo uma condição da ação de execução, quer o considere um pressuposto processual, os vícios que o inquinam podem e devem ser apontados pelo juiz ou Tribunal em qualquer tempo ou grau de jurisdição, nos termos do § 3º do art.
+267, § 4º do art. 301 e art. 618, todos do Diploma Processual.
+2. Cuidando-se de nulidade absoluta, como, no caso, a falta de exequibilidade do título, matéria acerca da qual não houve pronunciamento judicial anterior, poderá o juiz ou Tribunal, de ofício, delas conhecer em sede de embargos à arrematação, nos termos da exegese conjunta dos arts. 746, § 3º do art. 267, § 4º do art.
+301 e art. 618, todos do CPC.
+3. Recurso especial conhecido e improvido."
+(REsp 776.272/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/08/2010, DJe 24/08/2010)
+"Recurso especial. Emenda da inicial. Ausência de prequestionamento.
+Contrato de confissão de dívida garantido por aval. Nota Promissória. Contrato originário. Título executivo. Requisitos do título executivo. Exame ex officio.
+1. O tema da emenda da inicial, no caso de irregularidades nos demonstrativos do débito, carece de prequestionamento.
+2. Conforme jurisprudência desta Corte, o contrato de confissão de dívida é título executivo, podendo executar-se a nota promissória a ele vinculado.
+3. Os requisitos do título executivo dizem respeito à condição da ação, podendo ser examinados de ofício pelo Tribunal.
+4 . Recurso especial conhecido e provido, em parte."
+(REsp 399.681/SC, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 10/09/2002, DJ 25/11/2002, p. 230)
+Frise-se que, em se tratando de nulidade absoluta, também não há que se falar em impossibilidade de reconhecimento porque decorrido eventual prazo para emenda da inicial, como alegou o recorrente.
+Ademais, rever as conclusões da Corte de origem acerca da ausência de certeza e liquidez do título objeto de execução, demandaria o revolvimento do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ. Neste sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LIQUIDEZ E EXIGIBILIDADE DO TÍTULO RECONHECIDOS PELA CORTE DE ORIGEM. ALTERAÇÃO DO ENTENDIMENTO. INVIABILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não prospera a alegada negativa da prestação jurisdicional, tendo em vista que o acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. Não se pode confundir descontentamento com o desfecho do julgado com negativa da prestação jurisdicional.
+2. A Corte de origem, com base na análise do acervo fático-probatório dos autos e do contrato firmado entre as partes, afirmou que, embora se trate de contrato de financiamento bancário mediante abertura de crédito rotativo, é perfeitamente possível verificar, no caso concreto, o montante da dívida executada. Isso, porque o feito executivo encontra-se devidamente instruído com vários documentos que são capazes de demonstrar suficientemente a evolução do débito, tanto que o próprio perito judicial foi capaz de fazer todos os cálculos necessários e avaliar os encargos contratualmente fixados, excluindo, inclusive, os aplicados de forma indevida.
+3. A alteração das conclusões tomadas pelo acórdão recorrido com base na análise das peculiaridades do caso concreto, para, com isso, afastar a liquidez e exigibilidade do título executivo, demandaria o reexame do acervo fático-probatório dos autos, o que, contudo, é inviável na via estreita do recurso especial, nos termos das Súmulas 5 e 7/STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1283957/RJ, de minha Relatoria, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do CPC/73. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+2. A exceção de pré-executividade é cabível para alegar matéria de ordem pública que não demande dilação probatória" (AgInt no AREsp 930.040/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/11/2016, DJe de 17/11/2016). No caso, as instâncias ordinárias não acolheram a exceção de pré-executividade sob o fundamento de que as questões a serem decididas demandam dilação probatória. Incidência da Súmula 83 do STJ. 2.1 A análise dos fundamentos que ensejaram o reconhecimento da liquidez, certeza e exigibilidade do título que embasa a execução, exige o reexame probatório dos autos, inviável por esta via especial, ante o óbice da Súmula 7 desta Corte.
+3. A incidência da Súmula 7 do STJ impede o exame do dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 918.175/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/08/2018, DJe 17/08/2018)
+ Por fim, relativamente à alegada violação ao parágrafo único do art. 538 do Código de Processo Civil de 1973, o recurso merece provimento. Observa-se que os embargos de declaração, na espécie, foram opostos com o intuito de questionar matéria considerada não apreciada e para fins de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula nº 98 deste Superior Tribunal de Justiça, deve ser afastada a multa aplicada pelo Tribunal local. Veja-se, a exemplo, o seguinte julgado:
+"AGRAVO REGIMENTAL - AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES  BRASIL TELECOM S/A - CONTRATO DE PARTICIPAÇÃO FINANCEIRA  ART. 538, PARÁGRAFO ÚNICO, DO CPC - MULTA - AFASTAMENTO - NECESSIDADE - INCIDÊNCIA DA SÚMULA N. 98/STJ - VALOR PATRIMONIAL DA AÇÃO - DATA DA INTEGRALIZAÇÃO DO CAPITAL  BALANCETE MENSAL CORRESPONDENTE - VERBA HONORÁRIA - AUSÊNCIA DE CONDENAÇÃO EM DINHEIRO - - FIXAÇÃO COM BASE NOS ARTS. 20, § 4º, DO CPC - AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A multa imposta com fundamento no artigo 538, parágrafo único, do CPC, é de ser afastada, quando, embora tenham sido rejeitados os embargos de declaração, estes tenham sido opostos com a finalidade de prequestionamento da questão federal, conforme disposto na Súmula n. 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+(..)
+4. Agravo regimental parcialmente provido."
+(AgRg nos EDcl no Ag 928.938/RS, 3ª Turma, Rel. o Min. MASSAMI UYEDA, DJe de 5.11.2009)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, dou parcial provimento ao recurso especial apenas para afastar a multa do parágrafo único do art. 538 do Código de Processo Civil de 1973 imposta ao recorrente.
+Publique-se.
