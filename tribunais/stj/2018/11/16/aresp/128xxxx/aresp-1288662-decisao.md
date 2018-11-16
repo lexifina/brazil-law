@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. COMPENSAÇÃO POR DANO MORAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO. PEDIDO EXPRESSO DE PUBLICAÇÃO EXCLUSIVA. NULIDADE.
+1. Ação de obrigação de fazer e compensação por dano moral, em cumprimento de sentença.
+2. É nula a intimação quando, havendo pedido expresso de publicação exclusiva em nome de apenas um dos advogados constituídos, a publicação é feita em nome de patrono diverso do indicado.
+3. A jurisprudência desta Corte é uniforme no sentido de que, quando houver pedido expresso para que seja feita intimação em nome de procurador específico, a não observância de tal disposição gera a nulidade do ato da intimação e deve ser suscitada na primeira oportunidade em que a parte comparecer nos autos. Precedentes.
+4. Agravo em recurso especial conhecido. Recurso especial provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA JOSÉ CARVALHO BRITTO DE GÓES , contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/11/2017.
+Concluso ao gabinete em: 09/05/2018.
+Ação: cominatória cumulada com compensação por danos morais, em cumprimento de sentença, ajuizada por MARIA JOSÉ CARVALHO BRITTO E GÓES em desfavor do agravado, tendo em vista adesão da agravante em grupo de consórcio para aquisição de bens imóveis. Alegou que foi contemplada no consórcio, após efetuar lance de R$ 106.101,50 para aquisição do imóvel descrito na inicial e que, mesmo após providenciar toda a documentação necessária, o agravado não providenciou a carta de crédito, obstando toda a negociação.
+Decisão interlocutória: determinou a aplicação de multa por descumprimento de obrigação de fazer, qual seja, entregar à agravante carta de crédito e concluir os trâmites da aquisição do imóvel indicado na sentença, no prazo de 30 (trinta) dias, sob pena de incidência de multa diária de R$ 1.000,00 (mil reais), até o limite de R$ 50.000,00 (cinquenta mil reais).
+Acórdão: deu provimento ao agravo de instrumento de BRADESCO ADMINISTRADORA DE CONSÓRCIOS LTDA., para afastar a incidência da multa diária fixada pela falta de intimação pessoal do devedor.
+Decisão interlocutória: indeferiu o pedido de MARIA JOSÉ CARVALHO BRITTO E GÓES de declaração de nulidade do processo desde a intimação para apresentação de contraminuta ao agravo de instrumento provido.
+Acórdão: negou provimento ao agravo interno de MARIA JOSÉ CARVALHO BRITTO E GÓES, com condenação da agravante ao pagamento da multa prevista no art. 1021, §4º, do CPC, nos termos da seguinte ementa:
+AGRAVO INTERNO. PROCESSUAL CIVIL. PEDIDO DE PUBLICAÇÃO EM NOME DE ADVOGADO ESPECÍFICO. CONTINUIDADE DAS PUBLICAÇÕES EM NOME DE ADVOGADA CONSTITUÍDA E INTEGRANTE DO MESMO ESCRITÓRIO DE ADVOCACIA. ATUAÇÃO PRIMORDIAL NO PROCESSO DE ORIGEM. INTIMAÇÃO PARA APRESENTAR CONTRAMINUTA AO AGRAVO DE INSTRUMENTO. INÉRCIA DA AGRAVADA. PEDIDO DE NULIDADE. INEXISTÊNCIA. RECURSO CONHECIDO E DESPROVIDO. (e-STJ fl. 743)
+Recurso especial: alega violação dos arts. 272 e 280 do CPC/15. Sustenta a nulidade das intimações que lhe foram dirigidas. Assevera a ocorrência de violação do seu direito de defesa em todo o deslinde processual do agravo de instrumento, impossibilitando a apresentação de contrarrazões, haja vista que o nome do patrono principal da agravante, o Dr. [NOME] [NOME] [NOME], OAB/DF sob o n.º 2.124-A, não constava nas publicações. Aduziu que somente o nome da advogada DR. [NOME] ROCHA RIBEITO [NOME] foi incluído no sistema de cadastramento do TJDFT, mesmo constando expresso requerimento, nos autos originários, para que as publicações fossem dirigidas ao DR. [NOME] [NOME] [NOME] e que, além disso, também constava seu nome relacionado no rol de causídicos da agravante na peça de agravo de instrumento ofertada pelo agravado. Por fim, insurge-se contra a aplicação da multa do art. 1.021 §4º do CPC/15 aplicada pelo TDJFT, quando do julgamento do seu agravo interno.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da orientação consolidada no STJ
+Consta do acórdão recorrido que:
+Ainda que a parte tenha aduzido requerimento expresso para que as intimações e publicações futuras ocorressem em nome do advogado Sr. [NOME], não houve prejuízo à parte com a realização das publicações em nome da Sra. [NOME], porquanto a referida advogada, subscritora da ação de conhecimento e detentora de poderes de representação mediante procuração que lhe foi outorgada, continuou atuando em praticamente todas as peças do processo de origem, prestando informações ou realizando requerimentos. (e-STJ fl. 746) (grifou-se)
+ (..)
+Dessa forma, depreende-se que o cadastramento de seu nome como advogada da parte agravada, no presente recurso, ocorreu em decorrência de sua atuação primordial no processo de origem. (e-STJ fl. 747) (grifou-se)
+(..)
+Dessa forma, a inércia da parte agravada em apresentar contraminuta ao recurso não eiva o processo de vício que acarrete nulidade, porquanto a intimação para realização do ato deu-se nos moldes em que ocorriam as intimações referentes ao processo de origem, ou seja, em nome de sua patrona, Sra. [NOME], devidamente constituída com poderes para representá-la. (grifou-se) (e-STJ fl. 747)
+A jurisprudência desta Corte é uniforme no sentido de que, quando houver pedido expresso para que seja feita intimação em nome de procurador específico, a não observância de tal disposição gera a nulidade do ato da intimação e deve ser suscitada na primeira oportunidade em que a parte comparecer nos autos.
+Nesse sentido: AgRg no REsp 1.416.618/RS, 4ª Turma, DJe de 13/05/2014; AgInt no AREsp 954078 / SP, 4ª Turma, Dje de 04/11/2016; EDcl no REsp 1.608.424/SP, 3ª Turma, de DJe 21/09/2017; e REsp 1641610 / GO, 3ª Turma, DJe de 21/06/2017.
+Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do agravo em recurso especial, para CONHECER e DAR PROVIMENTO ao recurso especial, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para decretar a nulidade dos atos, a partir da certidão de e-STJ fl. 668, e determinar o retorno dos autos ao Tribunal de origem para que proceda a devida intimação da agravante, na esteira do devido processo legal.
+Em consequência do provimento do recurso especial, fica afastada a aplicação da aplicação da multa prevista no §4º do art. 1.021 do CPC/15.
+Publique-se. Intimem-se.
