@@ -1,0 +1,26 @@
+DECISÃO
+SANCIONADOR E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. DESCUMPRIMENTO DE ORDEM JUDICIAL E DISPENSA INDEVIDA DE LICITAÇÃO, GERANDO PREJUÍZO EFETIVO AO ERÁRIO DE R$ 40.000,00. TRIBUNAL DE ORIGEM QUE, COM BASE NOS ELEMENTOS FACTUAIS E PROBATÓRIOS DELINEADOS NOS AUTOS - IMPERMEÁVEIS EM SEDE RARA -, CONCLUIU PELA DESNECESSIDADE DE JUNTADA DE NOVOS DOCUMENTOS PARA REALIZAÇÃO DA PERÍCIA E PELA EXISTÊNCIA DE PREJUÍZO AO ERÁRIO. PARECER DO MPF PELO DESPROVIMENTO RECURSAL. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME] contra acórdão do egrégio TJ/SP, assim ementados:
+AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - Descumprimento de Ordem Judicia! - Distribuição equitativa das publicações oficias do Município entre os jomais da região .
+I - Legitimidade do Município para propositura de ações
+civis públicas - Inteligência do artigo 5o, da Lei nº 7.347/85.
+2. Inconstitucional idade formal da Lei nº 8.429/92 - Ofensa ao processo legislativo bicameral - Vício afastado pelo Colendo Supremo Tribunal Federal
+3. Inconstitucional idade material da Lei nº 8.429/92 - Instituição de sanções não expressamente mencionadas no artigo 37, § 4o, da Constituição Federal - Norma constitucional que não impõe relação numeros clausus de penalidades - Matéria que não está reservada à Constituição ou à Lei Complementar - Inexistência de limites ao legislador ordinário.
+4. Pagamento irregular e não cumprimento de decisão judicial - Processo licitatório fraudulento - Comprovação documental - Ofensa aos princípios norteadores da Administração Pública (art. 11,da Lei nº8.429/92).
+5. Redução das penalidades - Admissibilidade - Art. 12 da Lei nº 8.429/92 - Inexigibilidade de aplicação de forma cumulativa - Razoabilidade e proporcionalidade que devem ser observadas. Excesso reconhecido.
+Agravo retido desprovido. Parcial provimento do recurso
+voluntário (fls. 1.133).
+2. Em seu Apelo Nobre inadmitido, o agravante, fundado no art. 105, III, a da CF/1988, alegou: (i) a ausência de dolo por estar cumprindo parecer da procuradoria geral municipal, bem como a inexistência de descumprimento da ordem judicial; (ii) a falta de documentos essenciais nos autos para realização correta da prova pericial; (iii) o não descumprimento de ordem judicial, pois a sentença do mandamus estaria sujeita ao duplo grau de jurisdição, bem como seria possível a dispensa de licitação no caso com arrimo no art. 24, XVI da Lei de Licitações; e (iv) a ausência de lesão ao erário.
+3. O MPF, em parecer, manifestou-se pelo não provimento do recurso (fls. 1.394/1.397).
+4. É o relatório.
+5. Primeiramente, as alegações concernentes à existência de parecer jurídico da procuradoria municipal, à sujeição da decisão judicial descumprida ao reexame necessário e à possível violação do art. 24, XVI da Lei de Licitações não foram objeto de debate pelas Instâncias Ordinárias, razão pela qual lhes faltam o necessário prequestionamento.
+6. Além disso, a alegação de falta de elementos essenciais para consecução da prova pericial, bem como de inexistência de lesão ao erário, foram decididas nos seguintes termos:
+Outrossim, a alegação de cerceamento de defesa não prospera. Afirma o apelante que a realização da perícia técnica foi prejudicada pela impossibilidade de juntada dos documentos que estariam em posse da Prefeitura Municipal. Contudo, quando intimado a se manifestar acerca do laudo pericial, o apelante somente requereu a oitiva do expert, sem justificar a razão do pedido, que acarretou no encerramento da instrução.
+Ademais, se a requisição destes documentos fosse imprescindível para a realização do laudo, o próprio perito apontaria sua necessidade, o que não ocorreu, sendo, portanto, descabido o pedido de conversão do julgamento em diligencia para a realização de nova perícia neste momento (fls. 1.139).
+
+De acordo com os documentos acostados aos autos, a Municipalidade de Avaré promoveu nova licitação, tomada de preços nº 01/00, que resultou no contrato firmado entre o apelante e a empresa "O Avaré", com o fito de proceder às publicações oficiais do período entre fevereiro e dezembro de 2000; no valor de R$118.250,00. Alega o apelante que os valores pagos a maior decorrem da prorrogação do contrato prevista, albergado pela Lei nº 8.666/93.
+No entanto, a discrepância dos valores, aproximadamente R$40.000,00, entre o contratado e o efetivamento pago (R$152.980,00), não encontra respaldo na simples alegação de variação de espaço e número de páginas utilizadas, uma vez que a observância à dotação orçamentária deve ser irrefugável (fls. 1.140).
+7. A análise da procedência ou não de tais alegações implicaria no reexame e cotejo dos diversos elementos probatórios constantes dos autos, providência vedada em sede rara, ainda que nas ásperas sanções da LIA.
+8. É que, tendo o acórdão recorrido concluído pela desnecessidade de juntada de novos documentos para realização da perícia e pela existência de prejuízo ao erário no valor de R$ 40.000,00, entender em sentido diverso demandaria incursão no campo fático.
+9. Mercê do exposto, nega-se provimento ao Agravo em Recurso Especial do Particular.
+10. Publique-se. Intimações necessárias.
