@@ -1,0 +1,68 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRANSPORTE. COLETIVO ACIDENTE. INDENIZAÇÃO. OMISSÃO INEXISTENTE. CORREÇÃO MONETÁRIA E JUROS. TERMO INICIAL. SÚMULA Nº 568/STJ. LIQUIDAÇÃO EXTRAJUDICIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Nos termos do art. 1.025 do CPC/2015, não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+5. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+6. A jurisprudência desta Corte firmou-se no sentido de que o termo inicial dos juros de mora, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, fluem a partir da citação. Aplicação da Súmula nº 568/STJ.
+7. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por COMPANHIA MUTUAL DE SEGUROS contra a decisão (fls. 501/505 e-STJ) que conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento em virtude da aplicação das Súmulas nºs 211 e 568/STJ e nº 283/STF e porque não demonstrada a violação do art. 1.022 do Código de Processo Civil de 2015.
+No presente recurso, a agravante aduz, em síntese, que a decisão atacada é omissa, pois não apreciou as assertivas de violação do art. 407 do Código Civil e de dissídio jurisprudencial quanto ao termo inicial dos juros de mora sobre a condenação a título de danos morais.
+Afirma que o tribunal de origem violou o art. 1.022 do CPC/2015, haja vista a ausência de manifestação quanto à decretação de sua liquidação extrajudicial e ao pedido de gratuidade de justiça, nos termos dos arts. 98 e 99 do CPC/2015.
+Alega que não há falar na aplicação da Súmula nº 211/STJ, visto que as matérias alusivas aos arts. 18, "d" e "f", da Lei nº 6.024/1974 e 98 e 99 do CPC/2015 foram prequestionadas implicitamente, conforme prevê o art. 1.025 do CPC/2015.
+Afirma que a correção monetária e os juros de mora são matérias de ordem pública e, portanto, podem ser apreciadas a qualquer tempo e até mesmo de ofício.
+Rebate a incidência da Súmula nº 283/STF, asseverando que impugnou especificamente os fundamentos do acórdão recorrido, e, por fim, afirma que não há falar que a matéria relativa ao termo inicial dos juros de mora em indenização por dano moral está pacificada, de modo que se aplicam as Súmulas nºs 83 e 568/STJ.
+Devidamente intimada, a parte contrária não ofereceu impugnação (fl. 538 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRANSPORTE. COLETIVO ACIDENTE. INDENIZAÇÃO. OMISSÃO INEXISTENTE. CORREÇÃO MONETÁRIA E JUROS. TERMO INICIAL. SÚMULA Nº 568/STJ. LIQUIDAÇÃO EXTRAJUDICIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Nos termos do art. 1.025 do CPC/2015, não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+5. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+6. A jurisprudência desta Corte firmou-se no sentido de que o termo inicial dos juros de mora, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, fluem a partir da citação. Aplicação da Súmula nº 568/STJ.
+7. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+Não prospera a assertiva de que a decisão agravada carece de fundamento quanto ao termo inicial dos juros de mora na condenações por dano moral, tendo em vista que, quanto ao ponto, aplicou-se o enunciado da Súmula nº 568/STJ.
+Consta da decisão atacada que o acórdão recorrido não destoa do entendimento desta Corte no sentido de que o termo inicial dos juros de mora, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, fluem a partir da citação.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE DANOS MATERIAIS E MORAIS - ERRO MÉDICO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DOS RÉUS. 1. No tocante à incidência dos juros moratórios, o arbitramento de indenização por dano moral, resultante de obrigação contratual (caso dos autos, prestação de serviço hospitalar), enseja a incidência de juros moratórios desde a citação do réu, por força da norma cogente inserta no artigo 405 do Código Civil de 2002. 2. O Tribunal local decidiu, com base na análise do acervo probatório acostado aos autos, pela presença dos requisitos ensejadores da reparação civil, definindo o quantum indenizatório segundo critérios de razoabilidade e proporcionalidade, razão pela qual, para o acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial. 3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. 4. Agravo regimental desprovido" (AgRg no AREsp 436.188/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/11/2014, DJe 14/11/2014).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE INTERNAÇÃO. INSCRIÇÃO INDEVIDA. DANO MORAL. FALTA DE FUNDAMENTAÇÃO E VALORAÇÃO DA PROVA. ALEGAÇÕES GENÉRICAS. SÚMULA Nº 284/STF. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. Incide o óbice contido na Súmula nº 284/STF quando as razões de recurso limitam-se a alegar genericamente violação dos arts. 131 e 458, II, do Código de Processo Civil/1973 sem, contudo, especificar em que ponto o tribunal de origem deixou de fundamentar sua decisão ou qual foi a parte do julgado que valorou incorretamente a prova.
+2. A jurisprudência desta Corte firmou o entendimento de que, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, os juros moratórios fluem a partir da citação.
+3. Não tendo o recurso apontado qualquer julgado recente desta Corte Superior capaz de desconstituir a conclusão da decisão ora agravada, esta deve ser mantida por seus próprios fundamentos.
+4. Agravo interno não provido" (AgInt no REsp 1608548/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe 16/11/2016 - grifou-se).
+Logo, não há como afastar a incidência da Súmula nº 568/STJ, aplicável em ambas as alíneas do permissivo constitucional.
+No tocante à violação do art. 1.022 do CPC/2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Quanto à suspensão dos juros e à correção monetária, o acórdão afirmou que "nada há que ser dito quanto aos efeitos da decretação da liquidação extrajudicial da ora embargante, pois, até a presente fase processual, não há execução em curso, nem trânsito em julgado" (fl. 362 e-STJ).
+Assim, não há falar em omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/05/2017, DJe 16/05/2017- grifou-se).
+Tal fundamento, aliás, não foi objeto de impugnação específica nas razões recursais, o que atraiu a aplicação da Súmula nº 283/STF.
+Além disso, não há como afastar a aplicação da Súmula nº 211/STJ no que diz respeito aos arts. 98 e 99 do CPC/2015 e 18, alíneas "d" e "f", da Lei nº 6.024/1974, haja vista que as matérias neles versadas não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+De mais a mais, não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, visto que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+Consta da decisão, ainda, que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+Sobre o tema:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial..
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017 - grifou-se).
+Por fim, registra-se que a gratuidade de justiça foi indeferida nesta Corte, (fls. 477 e 478 e-STJ), tendo a recorrente recolhido o preparo recursal após intimada para tanto.
+As razões do presente recurso são insuficientes para reformar a decisão atacada, motivo pelo qual se impõe a sua manutenção.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
