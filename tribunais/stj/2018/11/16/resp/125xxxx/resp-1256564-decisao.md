@@ -1,0 +1,32 @@
+DECISÃO
+ Trata-se de recurso especial interposto por BANCO COMMERCIAL INVESTMENT TRUST DO BRASIL S/A - BANCO MÚLTIPLO, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA: ARRENDAMENTO MERCANTIL DE BENS MÓVEIS. AÇÃO DECLARATÓRIA C.C. PERDAS E DANOS. O contrato deve ser interpretado de forma a prestigiar a livre e soberana manifestação dei vontade celebrada entre as partes, prevalecendo a regra do pacta sunt servanda, devendo os responsáveis suportar o prejuízo causado, sob pena de enriquecimento indevido. Sentença mantida. Recurso improvido." (e-STJ,fl.114.)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 128/133).
+Em suas razões recursais, a recorrente aponta violação dos arts.475 e 476 do CPC/73, sustentando, em síntese, que com a rescisão do contrato de arrendamento mercantil firmado entre as partes por inadimplência das recorridas, devem ser estas condenadas não só ao pagamento das parcelas vencidas até a reintegração de posse, como também das vincendas, a título de indenização por perdas e danos.
+Não foram apresentadas contrarrazões. (e-STJ fl. 163).
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+O Tribunal de origem, no que pertine à alegação de que deveriam as recorridas arcar com o pagamento também das parcelas vincendas, consignou o seguinte:
+"No entanto, as perdas e danos estão consumidas nas prestações vencidas, não nas vincendas, pois,1 * reavendo o bem e rescindido o contrato, o adimplemento integral deste, com o pagamento das prestações vincendas, representaria enriquecimento sem causa, repudiado pelo Direito.
+Desse modo, o valor a ser pago pelo arrendatário deve ser o montante correspondente as parcelas vencidas até a data de reintegração do bem, sendo que a apuração de eventual saldo devedor deverá ser realizada e m face de liquidação de sentença, após a venda do bem." (e-STJ, fls.119)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL (LEASING). VALOR RESIDUAL GARANTIDO (VRG) PAGO ANTECIPADAMENTE. DEVOLUÇÃO. PRECEDENTES. RECURSO DESPROVIDO.
+1. Com a resolução do contrato de arrendamento mercantil por inadimplemento do arrendatário e a consequente reintegração do bem na posse da arrendadora, é devido o cumprimento das parcelas vencidas e não pagas até a efetiva entrega do bem pelo arrendatário, ressalvada a devolução ou compensação dos valores pagos antecipadamente a título de VRG.
+2. Reintegrado o bem na posse da arrendadora, é legítimo o pleito de devolução do Valor Residual Garantido, sob pena de enriquecimento sem causa da instituição financeira arrendante. Precedentes.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 207.267/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/02/2014, DJe 28/03/2014)
+"AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. CONTRATO. RESCISÃO. BEM. REINTEGRAÇÃO. VRG. DEVOLUÇÃO. INOVAÇÃO. PRECLUSÃO. NÃO PROVIMENTO.
+1. "Com a resolução do contrato de arrendamento mercantil por inadimplemento do arrendatário e a consequente reintegração do bem na posse da arrendadora, é devido o cumprimento das parcelas vencidas e não pagas até a efetiva entrega do bem pelo arrendatário, ressalvada a devolução ou compensação dos valores pagos antecipadamente a título de VRG." (AgRg no AREsp 38.824/SC, Rel.
+Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/05/2012, DJe 01/08/2012) 2. Não se admite a adição de argumentos em sede de agravo regimental sobre questões não levantadas anteriormente, seja pela preclusão, seja pela inadmissível inovação de teses.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 51.611/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/09/2012, DJe 27/09/2012)
+"CONTRATOS E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REVISÃO DE CLÁUSULAS CONTRATUAIS. CDC. POSSIBILIDADE MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. LEASING. DEVOLUÇÃO DO BEM ARRENDADO. RESTITUIÇÃO DO VRG PAGO ANTECIPADAMENTE.
+POSSIBILIDADE. ALEGAÇÕES RECURSAIS DESASSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ.
+1. A jurisprudência do STJ se posiciona firme no sentido que a revisão das cláusulas contratuais pelo Poder Judiciário é permitida, mormente diante dos princípios da boa-fé objetiva, da função social dos contratos e do dirigismo contratual, devendo ser mitigada a força exorbitante que se atribuía ao princípio do pacta sunt servanda. Precedentes.
+2. Com a resolução do contrato de arrendamento mercantil por inadimplemento do arrendatário e a consequente reintegração do bem na posse da arrendadora, faz-se devido o cumprimento das parcelas vencidas e em aberto até a retomada do bem pelo arrendatário, ressalvando seu direito quanto à devolução ou compensação em seu favor dos valores pagos antecipadamente a título de VRG. A diluição do valor residual ao longo do prazo contratual, cuja cobrança é feita juntamente com as parcelas das contraprestações, não impede que o arrendatário, por sua livre opção e interesse, desista da compra do bem objeto do contrato de leasing. Retomada a posse direta do bem pela arrendadora, extingue-se a possibilidade de o arrendatário exercer a opção da compra; por conseguinte, o valor residual, que antecipadamente vinha sendo pago para essa finalidade, deve ser devolvido. Precedentes.
+3. A alegação de que o acórdão recorrido procedera à alteração no indexador pactuado no contrato de arrendamento mercantil mostra-se completamente desassociada das questões tratadas e decididas pelo acórdão, caracterizando fundamentação deficiente e, por conseguinte, óbice à exata compreensão da controvérsia, o qua atrai, de forma inexorável, a dicção da Súmula 284/STF.
+5. É pacífico no STJ o entendimento segundo o qual a verificação do grau de sucumbência de cada parte, para fins de aplicação da norma contida no parágrafo único do art. 21 do CPC, enseja incursão à seara fático-probatória dos autos, vedada pela Súmula 7 desta Corte.
+6. Agravo regimental não provido."
+(AgRg no Ag 1383974/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2011, DJe 01/02/2012)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
