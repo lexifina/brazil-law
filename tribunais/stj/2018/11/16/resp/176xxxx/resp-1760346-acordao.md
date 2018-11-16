@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. REQUISITOS NÃO PREENCHIDOS. REVISÃO DO ENTENDIMENTO ADOTADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. REVISÃO DE PROVAS. INVIABILIDADE.
+1. É inviável analisar a tese defendida no Recurso Especial de que há início de prova material suficiente para a comprovação da condição de rurícola, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário. Aplica-se, assim, o óbice da Súmula 7/STJ.
+2. Quanto à interposição pela alínea "c", o Superior Tribunal de Justiça entende que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIARIO - APELAÇAO - APOSENTADORIA POR IDADE (RURAL). CONJUNTO PROBATORIO INSUFICIENTE - APELAÇÃO E REMESSA OFICIAL INTEGRALMENTE PROVIDAS I - A aposentadoria por idade, no que tange ao exercício de atividade rural, encontra-se disciplinada nos artigos 11, 48 §§ 2º e 30. 142 e 143 da Lei nº 8.213/91 e. ainda, no art. 201. § 7, II da CF/88, tendo como pressupostos a exigência de que o labor rural tenha sido exercido em período imediatamente anterior ao requerimento do benefício, por tempo igual ao número de meses de contribuição correspondente à carência do beneficio. além da idade de 60 anos para o homem e 55 para a mulher.
+II- Ainda que a prova testemunhal afirme o trabalho rural da autor por longo período, verifica-se que a prova material colacionada é extremamente frágil, não sendo capaz de formar conjunto probatório favorável à pretensão autoral.
+III- A jurisprudência restou consolidada no sentido de que a prova exclusivamente testemunhal. sem o razoável início de prova material, não basta à comprovação da qualidade de segurado especial (Súmula ng 149 do Eg. STJ). Assim, como não há nos autos nenhum documento que possa. ainda que, minimamente, comprovar o labor rural, por não se observarem os requisitos do art. 11. VII da Lei 8.213/91. a autora não faz jus ao beneficio requerido.
+IV- Com relação à Certidão de Casamento, único documento apto a servir como inicio de prova, quando colocado frente ao CNIS (fls. 16/17), perde a eficácia como meio de prova, vez que este último documento revela contribuições individuais do autor em período que supera a data do casamento, alcançando, até 31/10/2013 o total de 299 (duzentos e noventa e nove) contribuições.
+Os Embargos de Declaração foram rejeitados.
+O recorrente alega que há divergência jurisprudencial e violação do art. 55, § 3º, da Lei 8.213/1991. Aduz que a verificação da existência de início de prova material do exercício de atividade rurícola constitui valoração e não reexame de provas. Assevera que a certidão de casamento é início razoável de prova de atividade rural. Afirma que há outros documentos comprobatórios da condição de rurícola e que a prova testemunhal corroborou o exercício da atividade agrária.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Ao decidir a controvérsia, o tribunal a quo consignou (fl 404):
+Exceto a Certidão de Casamento (f1.19), realizado em 29/12/1984, onde consta "Lavrada" como profissão do autor. os documentos trazidos pelo autor revelam-se frágeis, ora por sua extemporaneidade, ora por referir-se a terceiros.
+Com relação à Certidão de Casamento, único documento apto a servir como inicio de prova, quando colocado frente ao CNIS (fls. 16/17), perde a eficácia como meio de prova, vez que este último documento revela contribuições individuais do autor em período que supera a data do casamento, alcançando, até 31/10/2013 o total de 299 (duzentos e noventa e nove) contribuições.
+Assim. ainda que a prova testemunhal seja unânime, não há prova material suficiente para formar um conjunto probatório apto a consubstanciar o labor rural do autor.
+É inviável, portanto, analisar a tese defendida no Recurso Especial de que há inicio de prova material suficiente para a comprovação da condição de rurícola, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário. Aplica-se, assim, o óbice da Súmula 7/STJ.
+Por fim, quanto à interposição pela alínea "c", o Superior Tribunal de Justiça entende que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem. A propósito:
+PROCESSUAL CIVIL. SUBSTABELECIMENTO. INTIMAÇÃO DO SUBSTABELECENTE. AUSÊNCIA DE REQUERIMENTO. PROPÓSITO INEQUÍVOCO DE TRANSFERIR O ACOMPANHAMENTO DA DEMANDA. SÚMULA 07/STJ.
+(..)
+7. Nesse contexto, em consonância com a judiciosa opinião estampada no parecer ministerial, incide a Súmula 07/STJ, o que também impede o exame da divergência jurisprudencial na medida em as peculiaridades do caso concreto, decisivas à solução conferida pela Corte de origem, não possuem identidade com os paradigmas trazidos à colação.
+8. Recurso especial não conhecido.
+ (REsp 1.186.481/AC, Rel. Min. Castro Meira, Segunda Turma, DJe 2.6.2010)
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
