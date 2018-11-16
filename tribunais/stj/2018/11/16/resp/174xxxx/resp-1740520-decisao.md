@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 378):
+EMBARGOS À EXECUÇÃO FISCAL. TRIBUTÁRIO. IRRF. IRPJ. COFINS. PIS. COMPENSAÇÃO INFORMADA ATRAVÉS DE DCTF. POSSIBILIDADE. AUSÊNCIA DE PROVA DA GLOSA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. ART. 151, III, DO CÓDIGO TRIBUTÁRIO NACIONAL. LIQUIDEZ E CERTEZA DA CDA AFASTADAS. HOMOLOGAÇÃO DAS COMPENSAÇÕES DOS DÉBITOS RELATIVOS À COFINS E AO PIS.
+Embargos de declaração acolhidos.
+Em suas razões, o recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, em especial acerca da aplicação da Lei n. 10.637/2002, haja vista a entrega da DCTF já no ano de 2003.
+Quanto à questão de fundo, sustenta ofensa à Lei n. 10.637/2002 e aos arts. 151 e 170 do CTN, ao fundamento de que apenas os pedidos de compensação pendentes de apreciação quando da edição da Lei 10.637/2002 serão considerados declaração de compensação.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 469.
+É o relatório.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No mais, constata-se que o recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, o recorrente, ao indicar ofensa aos artigos 151 e 170 do CTN e direcionar a sua tese no sentido de que a DCTF não serviria como declaração de compensação, deixou de impugnar o fundamento do acórdão recorrido segundo o qual " ..  os elementos contidos na DCTF (meio previsto na legislação anterior, em vez da Declaração de Compensação- DCOMP, para fins de informação da compensação) são suficientes para o exercício da fiscalização, não decorrendo qualquer prejuízo ao Fisco a sua utilização." (fl. 365).
+Para melhor esclarecer a questão, destaquem-se ainda os seguintes excertos do acórdão recorrido, sem prejuízo dos demais (fl. 368);
+Insta consignar, ainda, que é assente no Superior Tribunal de Justiça o entendimento de que: " ..  tendo o contribuinte declarado o tributo via DCTF e realizado a compensação nesse mesmo documento, também é pacífico que o Fisco não pode simplesmente desconsiderar o procedimento adotado pelo contribuinte e, sem qualquer notificação de indeferimento da compensação, proceder à inscrição do débito em dívida ativa, negando-lhe certidão negativa de débito". (AgRg no REsp 1228660/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 27/09/2011).
+Ademais, a própria Lei nº 10.637/02 introduziu o § 4º no art. 74 da Lei nº 9.430/96, estabelecendo que os pedidos de compensação pendentes de apreciação quando de sua edição (antes, portanto, da exigência da apresentação da DCOMP) fossem considerados declaração de compensação, desde o seu protocolo, o que reforça a suficiência dos dados constantes da DCTF para viabilizar a informação da compensação.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
