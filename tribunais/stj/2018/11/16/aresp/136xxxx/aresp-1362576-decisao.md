@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. LEI EXTRAVAGANTE. ART. 16 DA LEI N. 10.826/2003. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. CARREGADOR GLOK DE CALIBRE 9 MM. 8 CARTUCHOS ÍNTEGROS. PEQUENA QUANTIDADE. AUSÊNCIA DE TIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. ABSOLVIÇÃO. CABIMENTO.
+Agravo conhecido para dar provimento ao recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça de São Paulo que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele oferecido (fls. 348/351).
+Narram os autos que o ora agravante foi condenado, como incurso no art. 16 da Lei n. 10.826/2003, à pena de 3 anos de reclusão, em regime inicial semiaberto, porque, em 29/1/2016, foram realizadas na residência do denunciado em cumprimento a mandado judicial de busca e apreensão expedido pela Vara Criminal (fls. 18/19) e coordenado pelo GAECO-VP, ocasião em que os policiais encontraram um carregador de pistola municiado, no bolso de uma jaqueta dentro do armário do denunciado (fl. 2).
+Nas razões recursais, a defesa aponta negativa de vigência do art. 16 da Lei n. 10.826/2003, porque, conforme auto de exibição e apreensão, nenhuma arma foi apreendida no apartamento do denunciante, não existia qualquer meio apto ao disparo das 08 munições apreendidas (fl. 291).
+Requer a parte agravante, em seu recurso especial, a determinação de sua absolvição em razão da atipicidade da sua conduta (fls. 285/303).
+Apresentadas as contrarrazões (fls. 339/345), o recurso especial não foi admitido, por incidência da Súmula 83/STJ (fls. 348/351). Contra essa decisão a defesa interpôs agravo (fls. 353/369).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso (fls. 401/410).
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões do especial.
+Diante das circunstâncias descritas nos autos, considero que a adoção do princípio da insignificância detém limites para sua incidência no ordenamento jurídico pátrio. Entretanto, há casos em que a sua não aplicação leva o intérprete da lei a situações absurdas - esdrúxulas até -, ao punir condutas que, em razão de sua inexpressividade, não são dignas de guarida pelo Direito Penal, especialmente em decorrência do princípio da fragmentariedade.
+Logo, in casu, a apreensão de 8 cartuchos não é capaz de lesionar ou mesmo ameaçar o bem jurídico tutelado, mormente porque ausente qualquer tipo de armamento capaz de deflagrar os projéteis encontrados em poder do agravante (fls. 318/324 e 329/334).
+Em outras palavras, a Sexta Turma do Superior Tribunal de Justiça, alinhando-se ao Supremo Tribunal Federal, aplica o princípio da insignificância aos crimes previstos na Lei n. 10.826/2003, a despeito de serem delitos de mera conduta, afastando, assim, a tipicidade material da conduta, quando evidenciada flagrante desproporcionalidade da resposta penal. 3. Ainda que formalmente típica, a apreensão de 8 cartuchos não é capaz de lesionar ou mesmo ameaçar o bem jurídico tutelado, mormente porque ausente qualquer tipo de armamento capaz de deflagrar os projéteis encontrados em seu poder (AgRg no AREsp n. 1.171.021/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/9/2018 - grifo nosso).
+Ilustrativamente: AgRg no REsp n. 1.697.974/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/9/2018.
+Diante disso, merece provimento o recurso especial.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de cassar o acórdão a quo (fls. 318/324 e 329/334) e determinar, com base no princípio da insignificância, a absolvição do agravante, com fundamento no art. 386, III, do Código de Processo Penal, nos termos desta decisão.
+Publique-se.
