@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em favor de [NOME] contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, conforme a seguinte ementa (fl. 203).
+PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE ENTORPECENTES. INTERCEPTAÇÃO TELEFÔNICA. LEGALIDADE. ORDEM DENEGADA.
+1. Embora as investigações policiais tenham se iniciado por denúncia anônima, foi o Relatório de Inteligência (RELINT), elaborado pelo Setor de Inteligência Policial da Superintendência Regional do Departamento de Polícia Federal, que deu origem às investigações e indicaram o fato concreto, o qual se relacionava à organização criminosa especializada na prática de tráfico internacional de drogas, o qual deu ensejo à representação pela quebra do sigilo telefônico dos investigados à época.
+2. Ordem denegada.
+Consta dos autos que o paciente foi denunciado, por ocasião da deflagração da "Operação Quinta Roda", pela prática de tráfico internacional de drogas e associação para o tráfico.
+Expõe o recorrente que a investigação teve início por meio de informações prestadas por colaborador eventual não identificado nos autos e, com base nessas informações, a Polícia Federal obteve autorização para a quebra do sigilo telefônico dos envolvidos na prática do delito.
+Sustenta a ilegalidade da quebra do sigilo telefônico, pois a investigação não se iniciou com um fato concreto, mas sim baseada em ilações e conjecturas de um suposto "colaborador eventual" da Polícia Federal (fl. 210), bem como pelo fato de alguns dos investigados possuírem antecedentes criminais, tendo a decisão inaugural de interceptação telefônica sido deferida invocando genericamente a gravidade do fato ou a complexidade do caso.
+Afirma ilegalidade no relatório parcial apresentado quando do pedido de prorrogação da interceptação, dada a transcrição de uma conversa entre um investigado e sua advogada a respeito de um processo em andamento (fl. 215) o que configura quebra do sigilo profissional.
+Aduz, ainda, nulidade das decisões de prorrogação da medida excepcional por ausência de fundamentação.
+Requer, inclusive liminarmente, seja declarada a ilicitude da prova consistente na interceptação telefônica levada a efeito no início da investigação. Em decorrência da declaração de ilicitude da prova originária, pleiteia-se a declaração de ilicitude por derivação de todas as demais provas, anulando-se ab initio a persecução criminal (fl. 223).
+Indeferida a liminar, manifestou-se o Ministério Público pelo desprovimento do recurso.
+É o relatório.
+DECIDO.
+Em consulta processual eletrônica aos autos da ação penal 0002498-03.2016.403.6107, em trâmite no Juiz da 2ª Vara Federal da 7ª Subseção Judiciária de Araçatuba/SP, constata-se que foi proferida sentença em 14/11/2017, a qual condenou o recorrente [NOME] (vulgo "Pezão", brasileiro, casado, instalador de telefone, nascido aos 27/12/1977, natural de São Paulo/SP, filho de [NOME] e de [NOME], portador do [RG]-SSP/SP e no CPF sob o n. [CPF]) ao cumprimento da pena de 29 (vinte e nove) anos e 02 meses de reclusão, inicialmente no regime FECHADO, além do pagamento de 3.150 dias-multa, cada qual no importe de 1/30 do valor do salário mínimo vigente à época do delito tendo em vista a prática do crime de tráfico internacional de drogas (FATO 5), tipificado no artigo 33, "caput", c/c art. 40, inciso I, da Lei Federal n. 11.343/2006, e do crime de associação ao tráfico internacional de drogas, previsto no artigo 35, "caput", c/c art. 40, inciso I, da mesma Lei, ambos cumulados na Forma do artigo 69 do Código Penal (concurso material de infrações).
+Demais disso, de acordo com os dados constantes do portal eletrônico do Tribunal Regional Federal da 3ª Região, a defesa interpôs recurso de apelação, que se encontra pendente de julgamento.
+Desse modo, configurando a sentença condenatória um novo título, encontra-se superada a discussão posta no presente writ:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FORMAÇÃO DE NOVO TÍTULO. NOVA REALIDADE JURÍDICO-PROCESSUAL. ANÁLISE VERTICAL E EXAURIENTE. NECESSIDADE DE SUBMISSÃO DA MATÉRIA AO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DOS FUNDAMENTOS. DESNECESSIDADE. AGRAVO DESPROVIDO.
+1. A Sexta Turma é firme na compreensão de que a alegação de inidoneidade ou de falta de sustentáculo da prisão cautelar fica superada pela prolação de sentença condenatória, que configura novo título jurídico a embasar a custódia.
+2. É indene de dúvidas que a prisão processual, após a análise vertical e exauriente, submetida ao crivo do contraditório e da ampla defesa, possibilitando às partes o acesso a um devido processo legal substancial, convolou-se em prisão-pena, que inaugura nova fase jurídico-processual, mesmo que inalterados os fundamentos para o encarceramento.
+3. Ademais, tendo em vista a formação de novo título para justificar a increpação, urge que a análise dos novos fundamentos seja submetida ao Tribunal de origem, juiz natural da causa, sob pena de se incidir em indevida supressão de instância. Precedentes.
+4. A diversidade dos títulos prisionais, um decorrente de decisão in limine littis, que convola o flagrante em preventiva, e outro que decorre da prolação da sentença condenatória, impede o prosseguimento da marcha do habeas corpus ou do recurso ordinário em habeas corpus, sendo irrelevante a manutenção, ou não, dos fundamentos da primeva decisão.
+5. Agravo regimental desprovido.
+(AgRg no RHC 69.775/BA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/08/2016, DJe 16/08/2016) (com destaques).
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO, HOMICÍDIO QUALIFICADO. CORRUPÇÃO DE MENORES. SUPERVENIENTE SENTENÇA DE IMPRONÚNCIA. NOVO TÍTULO. PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A superveniência de novo título, consubstanciado na sentença de impronúncia, torna prejudicado o habeas corpus que atacava o conjunto probatório.
+2. Decisão agravada mantida por seus próprios fundamentos. 3. Agravo regimental improvido.
+(AgRg no HC 308.979/SC. Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/5/2015, DJe 18/6/2015).
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
