@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE CONTRATO DE PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. CONTRATO REALIZADO NA MODALIDADE DE AUTOGESTÃO. NÃO INCIDÊNCIA. PRINCÍPIO DA PROIBIÇÃO DA DECISÃO SURPRESA. ART. 10 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO APLICAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não tem aplicação a vedação contida no art. 10 do Código de Processo Civil de 2015 (princípio da proibição da "decisão surpresa") quando as partes vêm decidindo o tema - aplicação do Código de Defesa do Consumidor - desde a propositura da ação. Hipótese em que a ação foi proposta exclusivamente com base na legislação consumerista.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra a decisão (fls. 899/903 e-STJ) que deu provimento ao recurso especial para julgar improcedente a ação.
+Nas razões do recurso (fls. 674/678), a agravante sustenta, em síntese, a aplicação do princípio da não surpresa. Afirma que "as partes precisariam ser intimadas para que se manifestassem sobre quais fundamentos jurídicos pretendiam ver aplicados ao caso com a exclusão da incidência do CDC, ou a anulação do Acórdão com o retorno dos autos ao Tribunal de origem para que lá fossem intimadas as partes nesses termos" (fl. 909 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE CONTRATO DE PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. CONTRATO REALIZADO NA MODALIDADE DE AUTOGESTÃO. NÃO INCIDÊNCIA. PRINCÍPIO DA PROIBIÇÃO DA DECISÃO SURPRESA. ART. 10 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO APLICAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não tem aplicação a vedação contida no art. 10 do Código de Processo Civil de 2015 (princípio da proibição da "decisão surpresa") quando as partes vêm decidindo o tema - aplicação do Código de Defesa do Consumidor - desde a propositura da ação. Hipótese em que a ação foi proposta exclusivamente com base na legislação consumerista.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não merece prosperar a irresignação.
+Os argumentos expendidos nas razões do agravo interno são insuficientes para autorizar a reforma da decisão agravada.
+A ora agravante, parte recorrida quando da interposição do recurso especial, insurge-se contra a decisão que deu provimento ao apelo extremo para julgar improcedente o pedido, nos termos da jurisprudência do Superior Tribunal de Justiça.
+Sustenta que deveria ter sido intimada a se manifestar a respeito do afastamento do Código de Defesa do Consumidor, haja vista o princípio que proíbe a decisão surpresa, constante no art. 10 da nova legislação processual.
+Não tem cabimento a alegação de malferimento do art. 10 do Código de Processo Civil de 2015. A redação do referido dispositivo veda ao juiz decidir "com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício".
+No mesmo sentido:
+"ADMINISTRATIVO. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. APROVAÇÃO DENTRO DO NÚMERO DE VAGAS. CERTAME DENTRO DO PRAZO DE VALIDADE. PROCESSO SELETIVO INSTAURADO PARA CONTRATAÇÃO TEMPORÁRIA. PRETERIÇÃO. NECESSIDADE DE DEMONSTRAÇÃO COM PROVA PRÉ-CONSTITUÍDA. INOCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DE PROVIMENTO DO MESMO CARGO EM QUANTIDADE SUFICIENTE A ALCANÇAR A CLASSIFICAÇÃO DA IMPETRANTE. DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. DECISÃO SURPRESA OU DE TERCEIRA VIA NÃO CONFIGURADA. PROVIMENTO JURISDICIONAL PREVISÍVEL E COMPATÍVEL COM A LEGISLAÇÃO DE REGÊNCIA. RESULTADO OBJETIVAMENTE PREVISTO NO ORDENAMENTO LEGAL. SOLUÇÃO DENTRO DO DESDOBRAMENTO CAUSAL, POSSÍVEL E NATURAL, DA CONTROVÉRISA. APLICAÇÃO DOS BROCARDOS IURA NOVIT CURIA E DA MIHI FACTUM, DABO TIBI IUS.
+1. O Mandado de Segurança foi impetrado objetivando a nomeação e posse da recorrente no cargo de Professora de Língua Portuguesa do quadro efetivo da Secretaria de Estado da Educação e Cultura - SEDUC. Sustenta, em apertada síntese, que foi aprovada em 19º lugar para concurso com 19 vagas, mas que foi preterida na assunção do cargo em favor do preenchimento do quadro com profissionais temporários mediante processo seletivo instaurado durante a validade do concurso.
+2. O Tribunal de origem extinguiu o feito sem resolução do mérito, por entender carentes os autos de prova pré-constituída do direito líquido e certo da impetrante. 3. Insurge-se a impetrante recorrente contra a decisão do TJPI alegando violação ao art. 10 do CPC/2015 e que a simples abertura de novo concurso para o mesmo cargo cria para ela direito subjetivo à nomeação.
+4. Não há violação ao art. 10 do CPC/2015 pelo aresto impugnado.
+5. O referido dispositivo estabelece que o juiz não pode decidir, em grau algum de jurisdição, no caso de não se ter dados às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.
+6. Trata-se de proibição da chamada decisão surpresa, também conhecida como decisão de terceira via, contra julgado que rompe com o modelo de processo cooperativo instituído pelo Código de 2015 para trazer questão aventada pelo juízo e não ventilada nem pelo autor nem pelo réu.
+7. Na hipótese dos autos, o fundamento adotado pelo Tribunal acerca da necessidade de prova pré-constituída do direito líquido e certo da impetrante era perfeitamente previsível e cogitável pelas partes, pois inerente a pressuposto formal contido no art. 1º da Lei nº 12.016/2009, que rege a via estreita do Mandado de Segurança. Tal argumento foi, inclusive, invocado como matéria de defesa nas informações prestadas pela autoridade apontada como coatora.
+8. Descabe alegar surpresa se o resultado da lide encontra-se previsto objetivamente no ordenamento disciplinador do instrumento processual utilizado e insere-se no âmbito do desdobramento causal, possível e natural, da controvérsia. Cuida-se de exercício da prerrogativa jurisdicional admitida nos brocados iura novit curia e da mihi factum, dabo tibi ius.
+9. Tampouco prospera o ataque de mérito do recurso.
+10. Não há nos autos prova documental pré-constituída da preterição suscitada, que não decorre automaticamente da simples abertura de processo seletivo simplificado para contratação temporária. Necessário não só a demonstração inconteste da identidade entre os cargos, como principalmente destacar que o provimento dos cargos mediante contratação precária se deu em número suficiente a alcançar a impetrante na lista de classificação.
+11. Assente no STJ que a "contratação temporária para atender à necessidade transitória de excepcional interesse público, consoante o art. 37, IX, da Constituição da República, não tem o condão, por si só, de comprovar a preterição dos candidatos regularmente aprovados, bem como a existência de cargos efetivos vagos"(AgInt no RMS 50.060/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 17/08/2016).
+12. Desse modo, não se verificam razões a ensejar revisão do julgado, que corretamente entendeu inexistir prova pré-constituída, condição de procedibilidade do Mandado de Segurança, com base no art. 6º da Lei 12.016/2009. 13. Em que pese a afirmação de que a impetrante teria sido preterida em virtude da realização de contratações temporárias, ela não conseguiu demonstrar a efetiva ocorrência da preterição do direito à nomeação, porquanto, pelas provas produzidas, não é possível extrair tal fato, de forma conclusiva. Seria necessário dilação probatória para aferição efetiva da ilegalidade ou desvio do ato, o que é incompatível com o rito eleito.
+14. Recurso Ordinário não provido.
+(RMS 54.566/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2017, DJe 09/10/2017)
+Importante registrar que a incidência do Código de Defesa do Consumidor vem sendo discutida desde o início do processo. Verifica-se que a ação foi proposta com base exclusiva na legislação consumerista, havendo pedido de decretação de abusividade da cláusula de reajuste e fixação de novas mensalidades. Já na contestação, a agravada buscou afastar a aplicação do referido diploma. Ademais, não é possível, no curso da demanda, inovar a causa de pedir para que outros fundamentos sejam examinados.
+Assim, não prosperam as alegações postas no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
