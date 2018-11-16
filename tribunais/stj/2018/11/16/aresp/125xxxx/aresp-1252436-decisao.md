@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por [NOME] S/A - EM RECUPERAÇÃO JUDICIAL em face da decisão acostada a fls. e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelos ora agravantes.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 446-458 e-STJ, proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+CONTRATO DE COMPRA E VENDA DE SAFRA DE CANA DE ACUCAR. Atraso na colheita da safra de 2009. Cana-de-açúcar bisada. Autora que alega ter sofrido prejuízos porque o atraso da colheita impediu o plantio de nova safra. Alegação de força maior em razão de precipitação pluviométrica atípica na região.
+Não comprovação de que o atraso na colheita decorreu do excesso de chuvas. Fato que não tornou inevitável o atraso da colheita, que somente veio a ser feita na safra seguinte. Descumprimento contratual imputável à ré.
+Responsabilidade pela reparação dos danos materiais suportados pela autora. Lucros cessantes equivalentes à diferença entre a esperada venda da safra de 2009 e 2010 pelo preço de rebrota e a efetiva venda da safra bisada apenas em 2010, descontada a estimativa de custos para o manejo produtivo da cana soca em preparação para novos cortes. Valor que deve ser apurado em liquidação de sentença. Sentença reformada. Recurso provido.
+Opostos embargos de declaração (fls. 461-465 e-STJ), esses foram rejeitados (fls. 468-474 e-STJ).
+Nas razões de recurso especial, alegou a insurgentes que o acórdão recorrido violou o artigo 393 do Código Civil, defendendo estar configurada a hipótese de excludente de responsabilidade em virtude da ocorrência de força maior, especificamente, excesso de chuvas, o que provocou o atraso na colheita. Aduziu estar configurado o dissídio jurisprudencial.
+Contrarrazões a fls. 523-538 e-STJ.
+Em juízo prévio de admissibilidade, a corte de origem negou seguimento ao apelo nobre indicando insuficiência de fundamentação recursal e por ausência de demonstração do dissídio alegado.
+Inconformados, interpuseram o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 544-557 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta a fls. 560-576 e-STJ.
+É o relatório. Decide-se.
+O recurso não comporta provimento.
+1. Inviável admitir o reclamo por demandar reexame das provas contidas nos autos. Segundo os autos, a Corte de origem reformou a sentença que, nos autos da ação indenizatória proposta pela ora recorrida julgou improcedentes os pedidos iniciais.
+Essencialmente, o Tribunal a quo verificou que "a ré não logrou comprovar de modo inequívoco que a atipicidade das chuvas na região impediu a colheita da cana-de-açúcar produzida pela autora ou que não seria possível adotar alternativas para o cumprimento da obrigação." ( fl. 451 e-STJ).
+Acrescentou a Corte estadual que os elementos de prova trazidos aos autos - as quais corroboram a afirmação de que o volume pluviométrico naquele ano foram acima da média - não demonstravam a ocorrência de força maior, pois não demonstravam a impossibilidade de a insurgente preparar-se para lidar com a intempérie. Especificou que não foi demonstrada a impossibilidade de colheita nos meses de setembro, novembro e dezembro, quando deveria ter sido realizada.
+Por fim, o Tribunal afirmou que a demora se prolongou até meados do ano seguinte, o que ilide o argumento quanto à ocorrência de força maior.
+Citam-se os excertos correspondentes (fls. 451-453 e-STJ, grifos diferentes no original):
+Contudo, tais elementos não são suficientes para comprovar a ocorrência de força maior.
+Isso porque a informação prestada pelo perito é genérica, não especifica a fonte e os valores analisados. O laudo limita-se a apontar que a quantidade de chuva em 2009 foi de 2.040,9mm, e que ela seria superior à média histórica. Porém, o laudo sequer menciona qual seria a referida média.
+Acresce que as informações constantes do laudo pericial se relacionam apenas com a quantidade anual de chuvas na região, mas não trazem qualquer elemento que demonstre a precipitação pluviométrica em relação aos dias do mês, ou seja, qual teria sido a distribuição das chuvas ao longo dos dias. Tal informação é relevante na medida em que o perito informou que as colheitas nas glebas da autora levariam em torno de 32 e 17,20 horas para serem totalmente realizadas (fls. 252).
+Por outro lado, o documento de fls. 127 demonstra, de forma comparativa, a quantidade de dias com chuva ao longo dos anos de 2008 (anterior), 2009 (previsão de colheita) e 2010 (posterior). E analisando esses gráficos, produzidos pelo Centro Integrado de Informações Agrometeorológicas Ciiagro, nota-se que apenas no mês de outubro de 2009 a quantidade de dias com chuva foi superior a 20 dias.
+Nos demais meses do ano de 2009 percebe-se que os dias de chuva permaneceram muito similares aos níveis dos demais anos. Isso comprova que, ainda que houvesse um volume de chuva maior no ano de 2009, os períodos de intermitência poderiam ter sido melhor utilizados pela ré para o cumprimento de suas obrigações contratuais.
+Portanto, embora o laudo indique que a colheita estava inviabilizada em razão das chuvas, o fez de forma genérica, sem sequer especificar o período em que perdurou tal inviabilização. Assim, é de se concluir que a ré não comprovou que houve maior índice de chuvas nos demais meses do ano em que era possível a colheita da cana, como setembro, novembro e dezembro.
+Aliás, segundo esclarecido pelo perito nomeado pelo Juízo às fls. 252, o corte de cana nas propriedades da autora deveria ter sido realizado nos meses de novembro e dezembro de 2009.
+Anote-se que até junho de 2010 a colheita da cana bisada ainda não havia sido realizada (fls. 45), como comprova a notificação enviada pela associação dos fornecedores à ré. E o laudo pericial confirma que a colheita ocorreu apenas no ano seguinte (fls. 194), ou seja, no segundo semestre de 2010.
+Diante desse contexto, fosse a chuva a razão para o atraso na colheita, na primeira oportunidade possível, a ré deveria ter realizado a tarefa. No entanto, optou voluntariamente por efetivar a colheita apenas no ano seguinte.
+O acórdão impugnado está, portanto, fundamentado no quadro fático singular formado na presente demanda. A revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto à caracterização das chuvas como força maior, medidas impossível pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 2. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. 3. EXCLUDENTE DE RESPONSABILIDADE. FORÇA MAIOR. NÃO COMPROVADA. REVER A CONCLUSÃO DO TRIBUNAL DE ORIGEM DEMANDARIA O REEXAME DAS PROVAS DOS AUTOS. SÚMULA N. 7/STJ. 4. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Na hipótese, o Tribunal de Justiça, soberano no exame do acervo fático-probatório dos autos, concluiu pela ausência de excludente de responsabilidade. Assim, não é possível rever esta conclusão ante o óbice do enunciado de súmula supramencionado.
+5. Agravo regimental improvido.
+(AgRg no AREsp 793.635/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/08/2016, DJe 16/08/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 e 356 DO STF e 211/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+ ..
+3. No caso concreto, o Tribunal de origem concluiu pela inexistência da excludente de caso fortuito ou força maior e pela caracterização de dano moral indenizável. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 292.505/RN, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/09/2014, DJe 22/09/2014)
+2. Do exposto, nega-se provimento ao agravo em recurso especial. Com fundamento no artigo 85, §11, do CPC/15, majoram-se os honorários em 1% (um por cento) do valor da condenação.
+Publique-se. Intimem-se.
