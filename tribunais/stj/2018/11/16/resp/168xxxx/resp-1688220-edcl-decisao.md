@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por QUADRI COMERCIO DE ALIMENTOS EIRELI em face do decisum singular acostado à fl. 1426 e-STJ, da lavra deste signatário, em que foi homologada a desistência do recurso especial interposto pelo ora embargado, anotada a reserva quanto a direito de pleitear pela complementação de penhora em sede de feito executivo.
+Nas razões dos aclaratórios (fls. 1429-1431 e-STJ) a embargante alegou que "a possibilidade ou não da Embargada pugnar pelo complemento de penhora em sede de feito executivo, em tempo algum foi discutido no Agravo de instrumento que deu origem ao Recurso Especial." Afirmando que a decisão se mostra contraditória, requerendo a exclusão da ressalva feita pelo então recorrente.
+Impugnação às fls. 1436-1439 e-STJ.
+É o relatório. Decide-se.
+Os presentes aclaratórios não comportam provimento.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+1.1. Ademais, conforme a iterativa jurisprudência deste Tribunal Superior, a contradição que enseja o acolhimento dos embargos de declaração é aquela interna à decisão embargada, na qual há oposição lógica entre os fundamentos adotados ou entre esses e o dispositivo final.
+Nesse sentido: EDcl no AgInt no AREsp 876.673/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/05/2017, DJe 25/05/2017; AgInt no AREsp 523.977/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017.
+2. No caso em tela, a embargante alegou haver contradição no decisum que homologou desistência de recurso especial, pois nele constou ressalva feita pelo então recorrente quanto à sua intenção de pleitar complementação de penhora em sede de feito executivo.
+Razão não assiste à embargante. Registre-se, inicialmente, que o provimento oferecido na decisão impugnada foi, simplesmente, a homologação da desistência, com a extinção do procedimento recursal, direito garantido ao recorrente nos termos do art. 998 do CPC/15.
+Quanto à ressalva feita pelo ora embargado em seu pedido de homologação, essa constou expressamente da decisão simplesmente por cautela, de modo a evitar que a desistência do recurso especial fosse interpretada, no contexto geral da demanda, como aceitação tácita de outra deliberação, nos termos do art. 1.000 do CPC/15.
+Anote-se, por fim, que a discutida menção não gera qualquer prejuízo à parte embargante, uma vez que, conforme ressaltado acima, não foi reconhecido qualquer direito de complementação de penhora, apenas registrada a ressalva feita pela parte.
+Assim, não há de se falar em vício passível de correção por meio de embargos de declaração.
+3. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se. Intimem-se.
