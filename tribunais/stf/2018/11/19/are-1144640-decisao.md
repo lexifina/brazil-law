@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra a decisão monocrática por mim proferida, pela qual negado seguimento ao agravo com fulcro no art. 21, § 1º, do RISTF, maneja agravo regimental o Distrito Federal.
+    Na minuta, reitera as razões do apelo extremo, apontando violação dos arts. 5º, LXXI, e 40, § 4º, da Constituição Federal. Sustenta a ilegitimidade passiva do Governador do Estado e a inadequação da via eleita para a regulamentação de aposentadoria especial de servidor público.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    A Corte de origem reconheceu a legitimidade passiva do Governador do Distrito Federal para figurar no polo passivo do mandado de injunção impetrado em face da ausência de regulamentação da aposentadoria especial de servidor público, a que alude o § 4º do art. 40 da Constituição Federal.
+    Em casos análogos, este Supremo Tribunal Federal tem reconhecido à Presidência da República e ao Congresso Nacional a legitimatio ad causam passiva em mandado de injunção sobre o tema, a despeito da competência concorrente do Estado para legislar sobre previdência social (CF, art. 24, XII), à compreensão de que necessária norma regulamentadora de caráter nacional, da competência da União. Nesse sentido: MI 1.832-AgR, Rel. Min. Cármen Lúcia, Pleno, DJe 18.5.2011; MI 1.898-AgR, Rel. Min. Joaquim Barbosa, Pleno, DJe 01.6.2012, cuja ementa tem o seguinte teor:
+    “CONSTITUCIONAL. MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL. SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS. DECISÃO QUE CONCEDE A ORDEM PARA DETERMINAR QUE A AUTORIDADE ADMINISTRATIVA COMPETENTE ANALISE A SITUAÇÃO FÁTICA DO IMPETRANTE À LUZ DO ART. 57 DA LEI 8.213/1991. AGRAVO REGIMENTAL DA UNIÃO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DO PRESIDENTE DA REPÚBLICA E DE INCOMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS. AGRAVO REGIMENTAL DESPROVIDO. A Corte firmou entendimento no sentido de que a competência concorrente para legislar sobre previdência dos servidores públicos não afasta a necessidade da edição de norma regulamentadora de caráter nacional, cuja competência é da União. Por esse motivo, a Corte assentou a legitimidade do Presidente da República para figurar no polo passivo de mandado de injunção sobre esse tema. Precedentes. Agravo regimental desprovido.”
+    Esse entendimento foi confirmado em sede de repercussão geral no RE 797.905-RG, Rel. Min. Gilmar Mendes, repercussão geral – mérito, DJe 29.5.2014, verbis:
+    “Recurso extraordinário. Repercussão Geral da questão constitucional reconhecida. Reafirmação de jurisprudência. A omissão referente à edição da Lei Complementar a que se refere o art. 40, §4º, da CF/88, deve ser imputada ao Presidente da República e ao Congresso Nacional. 2. Competência para julgar mandado de injunção sobre a referida questão é do Supremo Tribunal Federal. 3. Recurso extraordinário provido para extinguir o mandado de injunção impetrado no Tribunal de Justiça.”
+    Presente a jurisprudência majoritária da Corte, ratificada em recentes julgados do Plenário, merece acolhida a pretensão recursal.
+    Ante o exposto, com fundamento no art. 932, VIII, do CPC/2015, c/c o art. 21, § 1º, do RISTF, reconsidero a decisão agravada e conheço do agravo para dar provimento ao recurso extraordinário e extinguir o processo sem resolução do mérito, forte na ilegitimidade passiva ad causam do Governador do Distrito Federal (art. 485, VI, § 3º, do CPC/2015).
+    Publique-se.
+    Brasília, 19 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
