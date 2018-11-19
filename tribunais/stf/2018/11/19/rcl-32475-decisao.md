@@ -1,0 +1,14 @@
+DECISÃO:
+    1.  Trata-se de reclamação, com pedido liminar, ajuizada pelo Ministério Público do Estado do Rio de Janeiro contra ato de nomeação de Camila Andrade Pires para o cargo de Secretária de Assistência Social, Trabalho e Habitação da Prefeitura Municipal de Itaperuna/RJ.
+    2.  O reclamante alega afronta à Súmula Vinculante 13, em razão de a nomeada ser cônjuge do Prefeito do mesmo Município, Marcus Vinícius de Oliveira Pinto. Narra haver instaurado inquérito civil para apurar a prática de nepotismo no âmbito da Administração Pública do Município de Itaperuna, da qual decorreu a recomendação para exoneração de Camila Andrade Pires do referido cargo, a qual não foi observada.
+    3.  É o relatório. Decido.
+    4.  Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo de determinar a citação do beneficiário do ato reclamado, em face da constatação da inviabilidade do pedido.
+    5.  A jurisprudência do Supremo Tribunal Federal tem majoritariamente afastado a aplicação da súmula vinculante 13 aos cargos de natureza política, conceito no qual se incluem os secretários municipais ou estaduais. A título de exemplo, vejam-se os seguintes precedentes: RE 579.951, rel. Min. Ricardo Lewandowski; Rcl 12.658, rel. Min. Gilmar Mendes; Rcl 14.549/DF, rel. Min. Ricardo Lewandowski; e Rcl 6.650-MC-AgR, rel. Min. Ellen Gracie, entre vários outros.
+    6.  Registro que as hipóteses de nepotismo cruzado, fraude à lei ou inequívoca falta de razoabilidade da indicação, por manifesta ausência de qualificação técnica ou idoneidade moral do nomeado, vem sendo ressalvadas da aplicação desse entendimento pela jurisprudência do Supremo Tribunal Federal. No entanto, no caso concreto, não há demonstração inequívoca da configuração de nenhuma dessas hipóteses.
+    7.  Em tais circunstâncias, eventual violação à súmula vinculante 13 somente poderia ser aferida após dilação probatória, inviável em sede de reclamação. O meio processual eleito revela-se, portanto, inadequado para o alcance da finalidade pretendida. Nesse sentido, v.g.: Rcl 27.944 AgR, rel. Min. Dias Toffoli; e Rcl 23.131 AgR, rel. Min. Luiz Fux.
+    8.  Saliento que foi reconhecida a repercussão geral da questão trazida nestes autos no RE 1.133.118, rel. Min. Luiz Fux (tema 1.000 - “Discussão quanto à constitucionalidade de norma que prevê a possibilidade de nomeação de cônjuge, companheiro ou parente, em linha reta colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante, para o exercício de cargo político”). Tal fato, no entanto, não impede o julgamento da reclamação, em face da independência entre as vias processuais.
+    9.  Por todo o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários.
+    Publique-se.
+    Brasília, 19 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
