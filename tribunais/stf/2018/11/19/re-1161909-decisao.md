@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Nanete Têxtil Ltda. Aparelhado o recurso na violação dos arts. 5º, 37, 145, II, e 150, I e II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    “TRIBUTÁRIO. ADUANEIRO. MANDADO DE SEGURANÇA. TAXA DE UTILIZAÇÃO DO SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR - SISCOMEX. PORTARIA Nº 257/2011 DO MINISTÉRIO DA FAZENDA. REAJUSTE. 1. A taxa de Utilização do Sistema Integrado de Comercio Exterior - SISCOMEX foi criada pela Lei nº 9.716/98 e tem como fato gerador a utilização deste sistema. Não há vício de inconstitucionalidade na legislação que regula a taxa. 2. É excessivo o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso. 3. Apelação parcialmente provida.”
+    Em seu voto, a Desembargadora Federal relatora consignou:
+    “[...]
+    Diante dessas considerações, o recurso merece ser provido em parte, reconhecendo-se o direito da parte autora de recolher a referida exação sem a majoração promovida pela Portaria MF nº 257/2011.
+    Em consequência, é de se declarar inexigível o reajuste da taxa de utilização do SISCOMEX promovido pela Portaria MF nº 257, de 2011, acima do valor resultante da aplicação do percentual de 131,60%, correspondente à variação de preços, medida pelo INPC, entre janeiro de 1999 e abril de 2011, devendo a ré restituir à parte demandante os valores pagos indevidamente, segundo esse critério, nos cinco anos anteriores ao ajuizamento da demanda, acrescidos (somente) de juros compensatórios equivalentes à taxa SELIC [...].”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da constitucionalidade da “Taxa Siscomex” e da possibilidade de o Poder Executivo atualizar os valores previamente fixados na lei, de acordo com os índices oficiais, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Taxa SISCOMEX. Majoração. Portaria. Delegação. Artigo 3º, § 2º, Lei nº 9.716/98. Ausência de balizas mínimas definidas em lei. Princípio da Legalidade. Violação. Atualização. Índices oficiais. Possibilidade. 1. A jurisprudência do Supremo Tribunal Federal tem acompanhado um movimento de maior flexibilização do Princípio da Legalidade em matéria de delegação legislativa, desde que o legislador estabeleça o desenho mínimo que evite o arbítrio. 2. Diante dos parâmetros já traçados na jurisprudência da Corte, a delegação contida no art. 3º, § 2º, da Lei nº 9.716/98 restou incompleta ou defeituosa, pois o legislador não estabeleceu o desenho mínimo que evitasse o arbítrio fiscal. 3. Esse entendimento não conduz a invalidade da taxa SISCOMEX, tampouco impede que o Poder Executivo atualize os valores previamente fixados na lei, de acordo com os índices oficiais, conforme amplamente aceito na jurisprudência da Corte. 4. Agravo regimental não provido. 5. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais.” (RE 1.095.001-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 28.5.2018)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
