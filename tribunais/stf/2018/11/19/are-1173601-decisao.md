@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO – DESPROVIMENTO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes fundamentos:
+    (…) o pagamento do adicional de insalubridade é devido quando a execução do trabalho se dá em local que apresenta riscos à saúde ou à vida e integra os vencimentos do servidor, enquanto persistirem as condições de trabalho que deram causa à sua concessão.
+    Nessa linha, a Lei Estadual n. 066/93, que trata do Regime Jurídico dos Servidores Públicos do Estado do Amapá, dispõe, em seu art. 75, que os servidores que trabalham com habitualidade em locais insalubres ou em contato permanente com substâncias tóxicas, radioativas ou com risco de vida, fazem jus a um adicional sobre o vencimento do cargo efetivo, sendo, portanto, juridicamente possível o pedido contido na inicial e havendo legítimo interesse processual em ver assegurada a tutela postulada, uma vez que existe interesse processual quando a parte tem necessidade de ir a juízo para alcançar a tutela pretendida, alicerçado no art. 5°, XXXV da CF/88, que assim preceitua: "a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito".
+    Deve, contudo, ser observado, que para ter o servidor público direito ao adicional de insalubridade se faz necessária a comprovação da insalubridade por perito capacitado, exigência devidamente requerida pelo Juiz da causa, na medida em que o laudo pericial acostado às fls.113/120, assinado pelo médico Dardeg de Souza Aleixo, de acordo com a Norma Técnica n. 15 do Ministério do Trabalho e Emprego, atestou que, de fatos, os servidores exercem atividades em ambiente cujo grau de insalubridade foi aferido no grau máximo de 20% (vinte por cento).
+    Portanto, não há falar em desconsideração do laudo pericial, eis que não há dúvida que a parte autora faz jus a majoração no pagamento do adicional de insalubridade no percentual de 20% (vinte por cento) a partir da elaboração do laudo pericial, principalmente porque, conforme já salientado, suas conclusões foram corroborados pelo laudo confeccionado por perito designado pelo juiz da causa.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 19 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
