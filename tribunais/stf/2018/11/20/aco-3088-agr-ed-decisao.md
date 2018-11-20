@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de embargos de declaração opostos contra decisão que, ao apreciar o agravo interno interposto pelo Estado de Santa Catarina, reconsiderou parcialmente a decisão agravada, tão somente para restabelecer as liminares concedidas, nos termos do artigo 64, § 4º, do CPC/2015, até a posterior análise pelo juízo declinado.
+    Sustenta o embargante, em síntese: 1) que a petição de agravo interno seria inepta por não se insurgir em relação a todos os fundamentos da decisão; 2) que as liminares foram deferidas além dos limites solicitados na inicial; 3) que não seria possível a apreciação dos demais pontos arguidos no agravo interno.
+    É o relatório. Decido.
+    A decisão embargada não apresenta nenhum dos vícios passíveis de correção por meio de embargos de declaração, a saber, omissão, contradição, obscuridade ou erro material.
+    A propósito, ao contrário do que afirmado nas razões dos embargos declaratórios, o Estado de Santa Catarina, por intermédio do agravo interno, se insurge justamente contra o tópico central da decisão hostilizada, qual seja, o que não reconheceu a competência do SUPREMO TRIBUNAL FEDERAL para o conhecimento da ação. Subsidiariamente, requereu a manutenção da medida liminar até posterior análise da matéria pelo juízo competente, caso mantida a decisão, nos termos do que permitido pelo novo Código Processual.
+    Ademais, conforme fundamentado na decisão embargada, houve apenas reconsideração parcial da tutela agravada para, de forma específica, preservar a medida de cautela até reexame do juízo competente, técnica processual esta expressamente prevista na legislação processual. Com efeito, o Código de Processo Civil prevê ser possível a manutenção da liminar proferida por juízo incompetente até posterior análise, ao dispor no § 4º do artigo 64 que “Salvo decisão judicial em sentido contrário, conservar-se-ão os efeitos de decisão proferida pelo juízo incompetente até que outra seja proferida, se for o caso, pelo juízo competente”
+    Da mesma forma, não há omissão ou contradição na decisão que concedeu as liminares, sendo que, na oportunidade, foram enfrentados todos os fundamentos suscitados pelas parte.
+    Por fim, melhor sorte não lhe assiste em relação à arguição de não ser possível o enfrentamento das demais questões abordadas no agravo interno. Como já realçado, com o processamento do agravo interno, houve reconsideração apenas parcial da decisão atacada, permanecendo hígido o interesse recursal em relação aos tópicos não reconsiderados. Nessa linha, a decisão embargada foi clara ao dispor que apreciava “o agravo interno exclusivamente nos estreitos limites do pedido de manutenção da liminar concedida, devendo os demais pontos da impugnação da decisão declinatória de competência serem apreciados após a apresentação das contrarrazões pela União e pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES)”.
+    Assim, não resta dúvida de que os demais pontos, não reconsiderados, serão enfrentados quando do julgamento do agravo regimental pela 1ª Turma da CORTE, após o oferecimento das contrarrazões pelas partes agravadas.
+    Evidencia-se, ainda, propósito infringente, para o qual não está vocacionado o presente recurso.
+    Por todo o exposto, ausentes os vícios dos incisos do art. 1.022 do CPC/2015, REJEITO OS EMBARGOS DE DECLARAÇÃO.
+    Publique-se.
+    Brasília, 20 de novembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
