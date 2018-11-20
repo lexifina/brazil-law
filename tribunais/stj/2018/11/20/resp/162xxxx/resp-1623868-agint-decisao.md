@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno contra decisão monocrática de fls. 286-288 que não conheceu do recurso especial.
+O presente feito decorre de ação ordinária ajuizada por [NOME] em face do Governo do Estado do Paraná, objetivando a concessão de restabelecimento de pensão por morte. À causa foi arbitrado o valor de R$33.179,73 (trinta e três reais, cento e setenta e nove reais, setenta e três centavos). Na sentença julgou-se extinta a ação pela prescrição. No Tribunal Regional de Justiça do Estado do Paraná, a sentença foi parcialmente reformada, nos seguintes termos ementados;
+APELAÇÃO CÍVEL. AÇÃO PREVIDENCIÁRIA. DEMANDA QUE OBJETIVA O RESTABELECIMENTO DE PENSÃO ESPECIAL POR HANSENÍASE EM RAZÃO DE CANCELAMENTO DO BENEFÍCIO SEM OBSERVÂNCIA DO CONTRADITÓRIO - LEI ESTADUAL 8.246/86 - SENTENÇA QUE RECONHECEU A PRESCRIÇÃO DO DIREITO DA AUTORA E A DECADÊNCIA DO DIREITO DO RÉU PLEITEAR AS PARCELAS JÁ PAGAS A TÍTULO DE PENSÃO ESPECIAL. PEDIDO DE RESTABELECIMENTO DO BENEFÍCIO, COM O CONSEQÜENTE PAGAMENTO DAS PARCELAS VENCIDAS - ACOLHIMENTO - OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DA AMPLA DEFESA E DO CONTRADITÓRIO. PODER DE AUTOTUTELA ADMINISTRATIVA DEVER DE OBSERVAR OS PRINCÍPIOS CONSTITUCIONAIS. PLEITO DE APLICAÇÃO DA DECADÊNCIA DO DIREITO DA ADMINISTRAÇÃO PÚBLICA EM CANCELAR O ATO - REJEIÇÃO - DOENÇA GRAVE, CONTAGIOSA QUE IMPÕE ASSISTÊNCIA PELO ESTADO - GARANTIA DE SOBREVIVÊNCIA FINANCIADA PELA SEGURIDADE SOCIAL JUROS DE MORA DE 1% AO MÊS DESDE A CITAÇÃO ATÉ O DIA 29/06/2009 E, A PARTIR DAÍ, PELO INDEXADOR DE JUROS APLICÁVEIS À CADERNETA DE POUPANÇA. CORREÇÃO MONETÁRIA CONFORME NOVO ENTENDIMENTO DESTA 6a CÂMARA CÍVEL. RECURSO PARCIALMENTE PROVIDO.
+Foram rejeitados os embargos declaratórios opostos.
+Interposto recurso especial pelo Estado do Paraná, com fundamento no art. 105, III, a, da Constituição Federal.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 1º do Decreto 20.910/1932.
+Sustenta, em síntese, que o direito à revisão do ato que cassou a pensão da recorrida está abarcado pela prescrição do fundo de direito, nos termos da Súmula 85/STJ.
+Recebidos os autos no STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial".
+Interposto agravo interno contra essa decisão.
+É o relatório. Decido.
+Diante da razões apresentadas pela parte, reconsidero a decisão recorrida.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+O recurso não merece prosperar.
+O Tribunal de origem entendeu que deve ser afastada a prescrição de fundo de direito, in casu, uma vez que a nulidade do ato administrativo que cancelou o benefício de pensão por hanseníase percebida pela parte recorrida não se convalesce com o tempo.
+Confiram-se excertos do julgado (240-252)):
+ ..
+A pretensão da apelante-autora é que se declare nula a decisão administrativa que acarretou no cancelamento da pensão de hanseníase, e o conseqüente reestabelecimento desde a data de seu cancelamento, ocorrido em maio de 2005. Narrou, ainda, que deve ser afastada a prescrição qüinqüenal, com a reforma na íntegra da sentença.
+ ..
+15. Ao caso, incidiria a prescrição de fundo de direito, contudo, não há que se falar em prescrição, considerando que nulo o ato administrativo que cancelou o benefício, uma vez que realizado sem observância dos princípios do devido processo legal, do contraditório e da ampla defesa.
+16. Assim, tendo em vista que a nulidade não se convalesce, deve ser afastada a prescrição de fundo de direito aplicada pelo juízo a quo.
+ ..
+24. O Estado do Paraná por sua vez, utilizou como fundamento para cancelar a pensão por hanseníase percebida pela apelante o teor do disposto no art. 6o, II, da Lei Estadual 8246/86. Contudo, não poderia o Estado do Paraná ter se baseado na mencionada regra sem ter oportunizado a beneficiária da pensão, o contraditório e a ampla defesa.
+Em dissonância com conclusão alcançada pelo Tribunal a quo, o Superior Tribunal de Justiça possui entendimento de que mesmo em se tratando de ato administrativo nulo, não é possível afastar o reconhecimento da prescrição de fundo de direito se decorridos mais de 5 anos entre o ato administrativo que se busca anular e a propositura da ação.
+Nesse sentido é a jurisprudência:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DEMISSÃO. ANULAÇÃO DO ATO ADMINISTRATIVO. AÇÃO AJUIZADA APÓS O DECURSO DE 5 ANOS. IMPOSSIBILIDADE. PRESCRIÇÃO DE FUNDO DE DIREITO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, "mesmo se tratando de ato administrativo nulo, não seria possível afastar o reconhecimento da prescrição de fundo de direito se decorridos mais de 5 anos entre o ato administrativo que se busca anular e a propositura da ação" (AgInt no AREsp 232.977/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 31/03/2017). Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1075774/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECUSO ESPECIAL. MILITAR. REINTEGRAÇÃO. PROCESSO DISCIPLINAR. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. VIOLAÇÃO AO ART. 535 DO CPC NÃO CONFIGURADO. PRESCRIÇÃO DE FUNDO DE DIREITO. OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. No tocante ao art. 535 do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+2. O acórdão recorrido está em consonância com o entendimento desta Corte de que, mesmo em se tratando de ato administrativo nulo, não é possível afastar o reconhecimento da prescrição de fundo de direito se decorridos mais de 5 anos entre o ato administrativo que se busca anular e a propositura da ação. Precedentes: AgRg no AREsp 750.819/GO, Rel. Min. SÉRGIO KUKINA, DJe 25.9.2015; AgRg no AREsp 470.175/PE, Rel. Min. HUMBERTO MARTINS, DJe 14.4.2014; AgRg no AREsp 451.683/DF, Rel. Min. HERMAN BENJAMIN, DJE 27.3.2014 e AgRg no AREsp 366.866/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.11.2013.
+3. Decorridos mais de 13 anos entre a exclusão do Militar e o ajuizamento da ação de revisão, impõe-se o reconhecimento da ocorrência da prescrição de fundo de direito.
+4. Agravo Interno desprovido. (AgInt no AREsp 273.298/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/8/2016, DJe 1/9/2016)
+Aplica-se ao caso, portanto, o enunciado n. 568 da Súmula do STJ segundo o qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, nos termos do art. 259, caput c/c o art. 253, parágrafo único II, c, do RISTJ, reconsidero a decisão recorrida para conhecer do agravo para dar provimento ao recurso especial interposto pelo Estado do Paraná.
+Publique-se. Intime-se
