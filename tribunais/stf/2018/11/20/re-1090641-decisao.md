@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário interposto em face do acórdão da Turma Suplementar do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 2, p. 74):
+    “AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. APELAÇÃO. EFEITO SUSPENSIVO. DIREITOS INDIVIDUAIS HOMOGÊNEOS. MINISTÉRIO PÚBLICO. LEGITIMIDADE. BENEFÍCIO ASSISTENCIAL.
+    1. Consoante iterativa jurisprudência do Supremo Tribunal Federal, ao Ministério Público é dado promover, via ação coletiva, a defesa de direitos individuais homogêneos, porque tidos como espécie dos direitos coletivos, desde que o seu objeto se revista da necessária relevância social.
+    2. A sentença proferida se coaduna com o entendimento que tem prevalecido neste Tribunal, no que toca à definição do que seja deficiente, nos termos do § 2º do artigo 20 da Lei 8.742/93, de que a incapacidade mencionada na lei não significa incapacidade para todos os atos da vida diária.
+    3. Não restando demonstrado o risco de dano irreparável à parte, deve ser mantida a decisão que recebeu o apelo do INSS apenas em seu efeito devolutivo.
+    4. Agravo de instrumento improvido e julgado prejudicado o pedido de reconsideração.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa aos arts. 127 e 129, III, da Constituição Federal.
+    Observo que o recurso especial simultaneamente interposto ao presente extraordinário foi admitido na origem e, no âmbito do Superior Tribunal de Justiça, foi, inicialmente, provido, reconhecendo-se que o Ministério Público não detém legitimidade ad causam para a propositura de ação civil pública que verse sobre benefícios previdenciários, uma vez que se tratada de direitos patrimoniais disponíveis e inexistente relação de consumo (eDOC 3, p. 49-54). Contudo, por força de recurso extraordinário, a Quinta Turma do STJ, em juízo de retratação e mediante aplicação do precedente desta Corte (Tema 471), negou provimento ao recurso, reconhecendo a legitimidade do Ministério Público. O acórdão restou assim ementado (eDOC 5, p. 78):
+    “DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. RETORNO DOS AUTOS PARA FINS DO ART. 543-B, § 3º, DO CPC. RETRATAÇÃO. ART. 1.030, II, DO NOVO CÓDIGO DE PROCESSO CIVIL. LEGITIMIDADE AD CAUSAM DO MINISTÉRIO PÚBLICO. PROPOSITURA DE AÇÃO CIVIL PÚBLICA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. RELEVANTE INTERESSE SOCIAL NO CASO CONCRETO. DEFINIÇÃO DE INCAPACIDADE PARA PERCEPÇÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. RECURSO ESPECIAL IMPROVIDO.
+    1. O Supremo Tribunal Federal, em sede de repercussão geral reconhecida no RE n. 631.111/GO, consolidou o seu entendimento no sentido de que quando a tutela jurisdicional desses direitos individuais homogêneos se reveste de interesse social qualificado passa a ser legítima a propositura da ação civil pública pelo Ministério Público, com base no art. 127 da Constituição Federal.
+    2. In casu, se denota que os direitos individuais homogêneos se revestem de interesse social, pois a ação civil pública objetivou que, para a concessão de benefícios previdenciários de prestação continuada, no que toca à definição de deficiência, se utilize como critério da incapacidade a impossibilidade de prover a própria manutenção por outros meios que não trabalho, deixando a autarquia previdenciária de avaliar aqueles relacionados à incapacidade para os atos da vida diária.
+    Recurso especial improvido.”
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Quando do julgamento do RE 631.111, de relatoria do Ministro Teori Zavaski, DJe, de 30.10.2014 (Tema 471), o Plenário do Supremo Tribunal Federal analisou o tema com repercussão geral reconhecida e fixou a seguinte tese: “Com fundamento no art. 127 da Constituição Federal, o Ministério Público está legitimado a promover a tutela coletiva de direitos individuais homogêneos, mesmo de natureza disponível, quando a lesão a tais direitos, visualizada em seu conjunto, em forma coletiva e impessoal, transcender a esfera de interesses puramente particulares, passando a comprometer relevantes interesses sociais.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto nos artigos 1.036 e 1.040, II, do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de novembro de 2018
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
