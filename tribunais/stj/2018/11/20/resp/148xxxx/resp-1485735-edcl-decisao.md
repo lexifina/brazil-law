@@ -1,0 +1,11 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO ESPECIAL DE EX-COMBATENTE. REVERSÃO DE COTA PARTE. FILHA MAIOR E HIPOSSUFICIENTE. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR DA PENSÃO. APLICAÇÃO DA LEI 4.242/1963. NECESSIDADE DA ANÁLISE DOS REQUISITOS LEGAIS PREVISTOS NO ART. 30 DA REFERIDA LEI PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS REJEITADOS.
+1. Cuida-se de Embargos de Declaração, opostos por [NOME] OLIVEIRA, contra decisão assim ementada:
+ADMINISTRATIVO. RECURSO ESPECIAL. PENSÃO ESPECIAL DE EX-COMBATENTE. REVERSÃO DE COTA PARTE. FILHA MAIOR E HIPOSSUFICIENTE. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR DA PENSÃO. APLICAÇÃO DA LEI 4.242/1963. NECESSIDADE DA ANÁLISE DOS REQUISITOS LEGAIS PREVISTOS NO ART. 30 DA REFERIDA LEI PELO TRIBUNAL DE ORIGEM. RETORNO DOS AUTOS À ORIGEM. AGRAVO REGIMENTAL PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA UNIÃO.
+2. Afirma a embargante, em suma, que o ilustre Magistrado olvidou-se que o preenchimento dos requisitos do pensionamento já foi cumprido, vez que a Autora já recebe a cota-parte de 1/10 da pensão especial e ex-combatente, na forma do art. 30 da lei 4.242/1963 (fls. 358).
+3. É o relatório. Decido.
+4. Os Embargos não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do CPC, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+5. No caso, o decisum embargado consignou expressamente que é firme o entendimento desta Corte de que os requisitos fixados para pagamento da pensão especial de ex-combatente no art. 30 da Lei 4.242/1963, estendem-se também aos dependentes, que devem comprovar o preenchimento dos aludidos requisitos.
+6. Ressalte-se, que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido, conforme pretende o embargante nesta oportunidade.
+7. Pelo exposto, rejeitam-se os Embargos Declaratórios.
+8. Publique-se. Intimações necessárias.
