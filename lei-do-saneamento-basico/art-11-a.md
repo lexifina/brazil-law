@@ -1,4 +1,0 @@
-Art. 11-A. Na hipótese de prestação dos serviços públicos de saneamento básico por meio de contrato de programa, o prestador de serviços poderá, desde que haja autorização expressa do titular dos serviços, por meio de ato do Poder Executivo, subdelegar o objeto contratado total ou parcialmente.
-§ 1º A subdelegação fica condicionada à comprovação técnica, por parte do prestador de serviços, do benefício em termos de qualidade dos serviços públicos de saneamento básico.
-§ 2º Os contratos de subdelegação disporão sobre os limites da sub-rogação de direitos e obrigações do prestador de serviços pelo subdelegatário e observarão, no que couber, o disposto no § 2º do art. 11 e serão precedidos de procedimento licitatório na forma prevista na Lei nº 8.666, de 1993, na Lei nº 8.987, de 1995, e na Lei nº 11.079, de 2004.
-§ 3º O contrato de subdelegação poderá ter por objeto serviços públicos de saneamento básico que sejam objeto de um ou mais contratos.

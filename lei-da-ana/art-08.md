@@ -1,1 +1,1 @@
-Art. 8º A ANA dará publicidade aos pedidos de outorga de direito de uso de recursos hídricos de domínio da União, por meio de publicação em seu sítio eletrônico, e os atos administrativos que deles resultarem serão publicados no Diário Oficial da União e no sítio eletrônico da ANA.
+Art. 8º A ANA dará publicidade aos pedidos de outorga de direito de uso de recursos hídricos de domínio da União, bem como aos atos administrativos que deles resultarem, por meio de publicação na imprensa oficial e em pelo menos um jornal de grande circulação na respectiva região.
