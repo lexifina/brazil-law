@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME], com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 188):
+TRIBUTÁRIO - IMPOSTO DE RENDA SOBRE OS JUROS DE MORA E SOBRE AS VERBAS DECORRENTES DE AÇÃO TRABALHISTA - DEMISSÃO A PEDIDO (FORA DO CONTEXTO DE DESPEDIDA OU RESCISÃO DO CONTRATO DE TRABALHO - PERDA DO EMPREGO): INCIDÊNCIA - SENTENÇA REFORMADA.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.089.720/RS, firmou o entendimento de que a regra geral é a da incidência do imposto de renda sobre os juros de mora, mesmo reconhecidos em ação trabalhista, salvo se: 1) as verbas são decorrentes de despedida ou rescisão do contrato de trabalho - perda do emprego; 2) a verba principal for isenta ou fora do campo de incidência do imposto de renda, mesmo quando não há perda do emprego (pagas fora do contexto de despedida ou rescisão do contrato de trabalho), consoante regra de que o acessório segue o principal.
+2. Na hipótese de verbas decorrentes de demissão a pedido, fora do contexto de despedida ou rescisão do contrato de trabalho (perda do emprego), na hipótese de acréscimo patrimonial, há incidência do imposto de renda. Logo, o imposto de renda incide sobre os juros de mora, consoante a regra de que o acessório segue o principal.
+3. Condenação da parte autora sucumbente em honorários advocaticios em 10% (dez por cento) sobre o valor da causa, nos termos do art. 85, § 2o, do CPC/2015.
+4. Apelação da União Federal/Fazenda Nacional e remessa oficial providas, para, reformando a sentença, julgar improcedente o pedido formulado na inicial.
+Opostos embargos declaratórios, foram rejeitados (fls. 208/213).
+A parte recorrente aponta violação aos arts. 1.022 do CPC/2015, 6º, V, da Lei 7.713/88 e 43, I e II, do CTN. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca do requerimento da gratuidade judiciária; (II) "ainda que haja pedido de demissão, não pode incidir Imposto de Renda sobre os juros de mora relativo a verbas trabalhistas que tenham caráter indenizatório, ou seja, não salarial, pois direitos de tal natureza têm como finalidade o ressarcimento de alguma perda do trabalhador, recompondo seu patrimônio" (fl. 224/225).
+É o relatório.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15.
+Com efeito, na petição dos embargos de declaração (fls. 191/194), a recorrente aponta a omissão em relação aos dispositivos de lei federal tido como violados. Confira-se o excerto dos aclaratórios em que tais questões foram suscitadas (fls. 191/192):
+1- À apelação da União foi dado provimento pedido da autora foi julgado improcedente, sendo esta condenada pagamento de 10% sobre o valor de causa.
+No entanto, deixou a v. decisão de analisar o pedido de concessão da justiça gratuita efetuado em 26.05.2015, juntado aos autos em 29.05.2015 (petição número 3648041, cópia em anexo).
+Contudo, no julgamento dos aclaratórios (fls. 208/213), a Corte local quedou-se silente sobre tais argumentações, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC/15, porquanto não prestada a jurisdição de forma integral.
+Uma vez reconhecida a negativa de prestação jurisdicional, resta, por ora, prejudicada a análise das demais questões suscitadas no apelo raro.
+Ante o exposto, dou provimento ao recurso especial da [NOME] por violação do art. 1.022 do CPC/15, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
