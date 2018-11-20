@@ -1,0 +1,28 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente, condenado pelo delito do art. 180, caput, do Código Penal, para 1 (um) ano e 2 (dois) meses de reclusão, em regime semiaberto, negada a substituição da pena corporal por restritiva de direitos em razão da reincidência.
+O recorrente aponta a violação dos arts. 44, caput, I, II e III, e § 3º e 59, caput, e inciso IV, todos do Código Penal, alegando, em síntese, que a reincidência não específica não obsta a substituição da pena privativa de liberdade por restritiva de direitos.
+Contrarrazões às e-STJ fls. 234/238.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 275/276.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de São Paulo deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente, condenado pelo delito do art. 180, caput, do Código Penal, para 1 (um) ano e 2 (dois) meses de reclusão, em regime semiaberto, negada a substituição da pena corporal por restritiva de direitos em razão da reincidência.
+O recorrente alega que a reincidência não específica não obsta a substituição da pena privativa de liberdade por restritiva de direitos.
+Sem razão, isso porque, como bem decidiu o acórdão recorrido, esta Corte Superior possui entendimento pacífico no sentido de ser inviável a substituição da pena privativa de liberdade por medidas restritivas de direitos, em se tratando de réu reincidente em crime doloso, ou quando os maus antecedentes não indicarem a possibilidade da medida. Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. FIXAÇÃO DE REGIME MAIS BRANDO. IMPOSSIBILIDADE. PENA INFERIOR A 4 ANOS.
+REINCIDÊNCIA. REGIME INICIAL SEMIABERTO. ADEQUAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA EM CRIME DOLOSO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do artigo 33 do Código Penal e do teor da Súmula 269 desta Corte, fixada a pena em patamar inferior a 4 anos de reclusão, a estipulação do regime inicial semiaberto é apropriada, diante da reincidência do paciente (HC 357.303/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 14/06/2016)
+2. Na hipótese, embora a reincidência não seja específica, o recorrente é reincidente na prática de crime doloso, o que obsta a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do disposto no art. 44, II e III, e § 3º, do CP.
+3. Agravo interno desprovido. (AgInt no REsp 1593300/RR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 14/03/2018 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. INJÚRIA. PENA INFERIOR À QUATRO ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. APENADA REINCIDENTE. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL E SÚMULA 269 DO STJ. SUBSTITUIÇÃO DA REPRIMENDA POR RESTRITIVAS DE DIREITO. INVIABILIDADE. REQUISITOS LEGAIS NÃO ATENDIDOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Quanto ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+III - Na hipótese, o regime semiaberto foi aplicado, em razão de que a paciente é reincidente, não preenchendo os requisitos previstos no art. 33, parágrafo 2º, alínea c, do Código Penal. No ponto, o réu reincidente, condenado a pena igual ou inferior à 4 (quatro) anos, e que ostente circunstâncias judiciais favoráveis, poderá iniciar o cumprimento da reprimenda em regime semiaberto, conforme enuncia a Súmula n. 269/STJ. Precedente.
+IV - Considerando que a paciente é reincidente, descabida a substituição da pena privativa de liberdade por restritiva de direitos (art. 44, inciso II e III, do Código Penal).
+Agravo regimental desprovido. (AgRg no HC 444.326/MS, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 17/08/2018)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. SEQUESTRO E CÁRCERE PRIVADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E RÉU REINCIDENTE. PENA DEFINITIVA INFERIOR A 4 ANOS. FIXAÇÃO DO REGIME INICIAL FECHADO. NÃO APLICAÇÃO DO ENUNCIADO N. 269 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AUSÊNCIA DOS REQUISITOS LEGAIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+ - Prevê o art. 44, incisos II e III, do Código Penal ser inviável a substituição da pena privativa de liberdade por medidas restritivas de direitos, em se tratando de réu reincidente em crime doloso, ou quando os maus antecedentes não indicarem a possibilidade da medida.
+- Habeas corpus não conhecido. (HC 366.006/SP, desta Relatoria, DJe 26/10/2017)
+Incidência do Enunciado n. 568/STJ.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
