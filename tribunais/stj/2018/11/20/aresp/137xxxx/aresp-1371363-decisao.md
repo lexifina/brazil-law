@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ELISANGELA [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL E AGRAVO RETIDO - AUSÊNCIA DE RATIFICAÇÃO DO AGRAVO RETIDO NAS CONTRARRAZÕES RECURSAIS - NÃO CONHECIMENTO - AÇÃO DE REVISÃO DE TAXA CONDOMINIAL - PLEITO DE REDUÇÃO DA CONTRIBUIÇÃO CONDOMINIAL - ALEGAÇÃO DE NÃO USUFRUTO DOS BENS E SERVIÇOS DO CONDOMÍNIO - IMPERTINÊNCIA - DISTRIBUIÇÃO DA TAXA DE CONDOMÍNIO QUE É REALIZADA EM RAZÃO DA FRAÇÃO IDEAL DE CADA CONDÔMINO - EXPRESSA PREVISÃO NO REGIMENTO INTERNO - PLENA LEGALIDADE DA DISPOSIÇÃO - INTELIGÊNCIA DO ART. 12, § 1º, DA LEI Nº 4.591/64 E ART. 1.336, INCISO I, DO CC - PRECEDENTES DO STJ E DESTA CÂMARA - SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS - MAJORAÇÃO CONSOANTE O ART. 85, §11º DO NCPC.
+AGRAVO RETIDO NÃO CONHECIDO,
+RECURSO DE APELAÇÃO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 5º da LINDB.
+Defende que seria cabível a redução da taxa de condomínio, ante a "insignificante vinculação do estabelecimento do autor com relação ao condomínio réu,  .. ".
+E continua:
+Vale esclarecer que tal redução deve se operar independentemente de previsão na convenção ou no regimento interno do Condomínio, amparando-se, com efeito, nos princípios de justiça e de equidade, bem como na proibição do enriquecimento ilícito.
+Alega afronta à equidade e aos fins sociais que devem conduzir a interpretação do direito positivo.
+É o relatório. DECIDO.
+2. A matéria referente ao artigo 5º da LINDB não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Em relação às demais alegações, a parte ora agravante não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial, o que implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Aplicação da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INCIDÊNCIA DAS SÚMULAS 7 e 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO NÃO PROVIDO.
+ .. .
+4. Em relação à alegação de excessivo valor da indenização e quanto ao termo inicial para correção monetária, constata-se, ao se compulsarem as razões do apelo especial, que a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos legais direta e eventualmente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do e. Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+5. Agravo interno não provido.
+(AgInt no AREsp 972.110/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU.
+1. O STJ não detém competência para apreciar afronta à norma constitucional, sob pena de usurpar a competência conferida constitucionalmente ao Supremo Tribunal Federal. Inteligência do art. 102, inciso III, da Carta Magna.
+2. Rever os fundamentos do acórdão recorrido acerca da existência de causa interruptiva da prescrição demandaria a investigação fático-probatória, providência vedada por meio do recurso especial, em razão do óbice do Enunciado 7 da Súmula desta Corte.
+3. A ausência de indicação expressa de dispositivos legais tidos por vulnerados quanto ao tema não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida. Incidência da Súmula 284 do STF, por analogia.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 410.404/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/12/2016, DJe 14/12/2016)
+4. Por fim, o recurso não comporta a análise de divergência jurisprudencial, uma vez que o apelo especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgRg nos EDcl no AREsp 76.762/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 01/10/2013, DJe 09/10/2013; e, AgRg no AREsp 165.810/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 01/10/2013.
+Sobre a questão, oportuno ressaltar que a Corte Especial deste Tribunal Superior, no julgamento do Agravo Regimental no Recurso Especial n. 1.346.588/DF, reafirmou a necessidade do recorrente apontar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio, e de ferir a ampla defesa e contraditório, ante a dificuldade do recorrido em identificar de forma clara e precisa a tese jurídica a ser impugnada.
+O referido julgado está assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(Rel. Ministro Arnaldo Esteves Lima, julgado em 18/12/2013, DJe de 17/3/2014)
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
