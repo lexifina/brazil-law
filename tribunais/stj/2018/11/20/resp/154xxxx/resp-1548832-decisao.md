@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. ACIDENTE EM VIA FÉRREA. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. SEM INDICAÇÃO DO DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DISSÍDIO PRETORIANO. DISPOSITIVO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. PRETENSÃO DEFERIDA PELO JUÍZO A QUO. AUSÊNCIA DE INTERESSE DE RECORRER. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não cabe recurso especial quando o recorrente não declina, nas razões, qual o dispositivo legal afrontado. Deficiência na fundamentação que enseja a aplicação da Súmula nº 284/STF.
+2. Não cabe recurso especial quando o recorrente não declina, nas razões, qual o dispositivo legal afrontado, inclusive quanto ao suposto dissídio pretoriano. Deficiência na fundamentação que enseja a aplicação da Súmula nº 284/STF.
+3. Carece de interesse de recorrer a pretensão cujo objeto já fora deferido pelo juízo a quo.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME] SEABRA com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+ACIDENTE DE TRÂNSITO - ATROPELAMENTO EM VIA FÉRREA QUE RESULTA PARAPLEGIA DA VÍTIMA - DANO E NEXO CAUSAL - RESPONSABILIDADE DA EMPRESA RÉ CONFIGURADA - AUSÊNCIA DE SINALIZAÇÃO E MURO DE PROTEÇÃO - DEVER DE INDENIZAR CARACTERIZADO - SENTENÇA REFORMADA - AÇÃO JULGADA PARCIALMENTE PROCEDENTE.
+Apelação provida parcialmente.
+Opostos embargos de declaração por ambas as partes, foram rejeitados os do recorrente e acolhidos os da recorrida, exclusivamente para retirar do voto a menção à possível litigância de má-fé - fls. 1.666-1.674.
+Em suas razões recursais, aponta o recorrente ofensa aos art. 949 e 950, parágrafo único, do Código Civil, além de dissídio pretoriano, assentando que a CPTM deve ser condenada a custear todos os equipamentos e tratamentos necessários, conforme laudos médicos apresentados em juízo.
+Aponta a existência de dissídio pretoriano relativamente às seguintes teses: (i) a condenação lastreada em salários-mínimos, mesmo na hipótese de pensão mensal, deve levar em consideração os reajustes, devendo ser pago o valor vigente quando do efetivo pagamento de paga prestação; (ii) irrisoriedade do dano moral, pois fixado com base no valor do salário-mínimo vigente à época do fato, devendo ser atualizado; e (iii) a correção monetária deveria incidir sede a data do arbitramento.
+Por fim, alega ser possível acumular o dano estético com o dano moral, conforme Súmula nº 387/STJ.
+É o relatório.
+DECIDO.
+2. Relativamente à tese de ser possível acumular danos morais e estéticos, verifico que, apesar da explicitação dos fatos e fundamentos, não foi apontado qualquer dispositivo de lei federal como afrontado, o que enseja a deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula nº 284/STF.
+3. Por fim, aponta o recorrente a existência de dissídio pretoriano relativamente a 3 aspectos: (i) a condenação lastreada em salários-mínimos, mesmo na hipótese de pensão mensal, deve levar em consideração os reajustes, devendo ser pago o valor vigente quando do efetivo pagamento de paga prestação; (ii) a irrisoriedade do dano moral, pois fixado com base no valor do salário-mínimo vigente à época do fato, devendo ser atualizado; e (iii) a correção monetária deveria incidir sede a data do arbitramento.
+Todavia, a parte recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial, o que implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, aplicável também quanto à hipótese da alínea c do permissivo constitucional. Aplicação da Súmula nº 284/STF.
+4. Um dos requisitos intrínsecos de admissibilidade dos recursos é o interesse de recorrer, com base no qual a intenção da parte recorrente lhe seja útil, razão pela qual "carece do interesse de recorrer a parte que questiona decisão que lhe é absolutamente favorável" - AgInt no AREsp 812.782/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+5. No presente caso, sustenta o recorrente afronta aos arts. 949 e 950, parágrafo único, do Código Civil, pois "devem ser concedidos os equipamentos e tratamentos recomendado, cujos valores foram apurados pelo parecer médico constante nos autos" - fls. 1.757.
+Todavia, essa pretensão foi deferida pela Corte de origem, como se vê do seguinte trecho:
+Responderá ainda a ré por todas as despesas tidas e necessárias para o tratamento médico, assim como também outras oriundas, como gastos com equipamentos (cadeira de rodas, cadeira higiênica, leito especial, colchão d"água etc), que deverão ser comprovadas e apuradas em liquidação de sentença. Devendo-se ainda observar as futuras de acordo com a necessidade física do autor. - fls. 1.632.
+Assim, tenho por carecer esse ponto de interesse recursal.
+6. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
