@@ -1,0 +1,45 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SID COUROS COMERCIO DE COUROS LTDA., contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+GRATUIDADE PROCESSUAL - EMBARGADA - HIPOSSUFICIÊNCIA ECONÔMICA - COMPROVAÇÃO - CONCESSÃO - POSSIBILIDADE - INTELIGÊNCIA DA SÚMULA 481 DO STJ E DO ART. 98 DO CPC - ELEMENTOS COMPATÍVEIS COM A ALEGADA NECESSIDADE.
+AÇÃO MONITÓRIA - CONTRATO SEM PARAR/VIA FÁCIL - PROVA DOCUMENTAL - TERMO DE ADESÃO, FATURA E PLANILHA DE DÉBITO - SERVIÇO - PRESTAÇÃO - COMPROVAÇÃO - DOCUMENTOS HÁBEIS PARA O AJUIZAMENTO DA DEMANDA - INTELIGÊNCIA DO ENTÃO ART. 1102-A DO CPC, ATUAL 700 DO NCPC - CONSTITUIÇÃO DO TÍTULO EXECUTIVO - PEDIDO - PROCEDÊNCIA - SENTENÇA - MANUTENÇÃO.
+APELO DA EMBARGADA NÃO PROVIDO. (fl. 158)
+Opostos embargos de declaração opostos, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta ofensa ao disposto nos arts. 700 do CPC/2015, 940 do Código Civil e 42 do Código de Defesa do Consumidor. Defende que a petição inicial estaria inepta, uma vez que monitória teria sido instruída com contrato sem assinatura das partes; que estaria configurado cerceamento de defesa, tendo em vista a documentação deficitária. Aduz, a inexistência do direito pleiteado, devido a ausência de titulo certo, líquido e exigível para a propositura da monitória. Alega, ainda, a necessidade de devolução em dobro dos valores indevidamente cobrados, em razão da cobrança abusiva de juros, multa e correção monetária.
+Aponta, ainda, dissídio jurisprudencial, haja vista que se trata de pretensão monitória fundada em contrato por adesão, para prestação de serviços de passagem e cobrança de pedágio, no qual não estariam presentes os requisitos mínimos para a propositura da monitória, qual seja, prova escrita sem eficácia de título executivo.
+DECIDO.
+2. Com efeito, a Corte local concluiu pelo cabimento da ação monitória ante o preenchimento dos requisitos para o seu ajuizamento, afastando a tese da parte recorrente de inépcia da inicial, com a seguinte fundamentação:
+A ação monitória compete a quem pretender, com base em prova escrita sem eficácia de título executivo, pagamento de soma em dinheiro, entrega de coisa fungível ou de determinado bem móvel.
+A embargada trouxe o termo de adesão ao serviço denominado Sem Parar/Via Fácil que, apesar de apócrifo, está acompanhado das faturas que discriminam em qual veículo os TAGS foram instalados e os pedágios utilizados (fls.
+22/43). Havia um ciclo de percurso, principalmente entre cidades, o que denota a sistematização da embargante. Aliás, anteriormente, quitou regularmente a obrigação entre outubro de 2014 a abril de 2015, o que reforça a regularidade da dívida (fls. 22).
+A embargada cumpriu com o ônus quanto à prova do fato constitutivo do direito (art. 373, I, do CPC). Há precedentes jurisprudenciais em casos análogos:
+ ..
+Por outro lado, a cobrança não é excessiva. Prevê a cláusula 7.6 do termo de adesão:
+"Em caso de atraso no pagamento das TRANSAÇÕES, o CLIENTE estará sujeito ao pagamento da multa de 2% (dois por cento) sobre o montante em atraso, acrescido de correção monetária pela variação do IGP-M (FGV) e juros moratórios de 1% ao mês, calculados "pro rata die". Os valores em atraso serão sempre corrigidos a partir da data de vencimento até a data do efetivo pagamento" (fls. 21).
+O débito contemplado na inicial é certo e a data de vencimento previamente ajustada, de sorte que o inadimplemento constituiu automaticamente o devedor em mora, impondo a multa e juros a partir do vencimento, já que se trata de mora ex re. Vale ainda lembrar o que prevê o art. 397 do Código Civil:
+O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor.
+Já a correção monetária apenas recompõe o valor principal, corroído pelo fator inflacionário. (fls. 161-162)
+
+Destarte, a análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas, impõem reexame de cláusula contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. SUPRESSÃO DE ÁREA DE MANGUE. PETIÇÃO INICIAL. INÉPCIA. NÃO CONFIGURADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA.
+1. O Superior Tribunal de Justiça possui entendimento pacificado no sentido de que "estando a causa de pedir e o pedido devidamente delimitados na petição inicial, permitindo a compreensão da controvérsia jurídica, não há falar em inépcia da petição inicial" (AgRg no REsp 1337819/DF, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 6/9/2013).
+2. A Corte local, com base nos elementos probatórios da demanda, consignou não estar evidenciada a inépcia da exordial. A alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame de matéria fática, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. Esta Corte Superior entende, ainda, que "não ocorre julgamento ultra petita se o Tribunal local decide questão que é reflexo do pedido na exordial. O pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita" (AgRg no AREsp 322.510/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/06/2013).
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 405.039/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/03/2015, DJe 13/03/2015)
+___________
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 131 E 535 DO CPC. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO DOS FATOS CONSTITUTIVOS. NEXO DE CAUSALIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REVISÃO DE MATÉRIA FÁTICA. RECURSO NÃO PROVIDO.
+1. Não há se falar em violação aos arts. 131 e 535 do CPC, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. O acórdão tratou de forma clara a controvérsia apresentada, lançando fundamentação jurídica sólida, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, para a solução adotada para o desfecho da lide.
+3. No presente caso, as matérias referentes a ausência de comprovação dos fatos constitutivos do direito do autor (art. 333, I, do CPC) e da inexistência de nexo de causalidade demandam a análise da matéria probatória (Súmula 7/STJ).
+4. Em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante, o que não ocorreu na presente hipótese.
+5. Agravo regimental não provido. (AgRg no AREsp 319.710/RJ, de minha relatoria, QUARTA TURMA, julgado em 04/06/2013, DJe 21/06/2013).
+____________
+Nesse sentido: AgInt no AREsp 1061568/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017; AgRg no AREsp 55.967/RN, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 13/12/2011, DJe 16/02/2012; e, AgInt no AREsp 988.549/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018.
+3. Outrossim, não se pode conhecer do recurso pelo dissídio, uma vez que aplicada a Súmula 7/STJ quanto à alínea a, resta prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal. Nesse sentido:
+ADMINISTRATIVO. LIMITAÇÃO AO EXERCÍCIO DO DIREITO DE PROPRIEDADE. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. DEVIDA PRESTAÇÃO JURISDICIONAL. ART. 524 DO CÓDIGO CIVIL DE 1916. DIREITO DE INDENIZAÇÃO DE ÁREA DECLARADA DE PRESERVAÇÃO PERMANENTE. IMPOSSIBILIDADE DE REEXAME DA DECISÃO A QUO POR ESTA CORTE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. (..)
+2. (..)
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Agravo regimental improvido.(AgRg no AREsp 16879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2012, DJe 27/04/2012)
+___________
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
