@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIVERSIDADE FEDERAL DE SERGIPE - UFSE contra decisão de minha lavra, proferida às e-STJ fls. 260/262, em que não conheci do recurso especial com fulcro no disposto no art. 255, § 4º, I, do RISTJ.
+A parte embargante aponta a existência de omissões no julgamento do feito e sustenta a necessidade de se afastar a condenação em honorários de sucumbência à Defensoria Pública.
+Sem impugnação (e-STJ fl. 281).
+Passo a decidir.
+Inicialmente, em homenagem aos princípios da fungibilidade recursal e da instrumentalidade das formas, recebo os embargos de declaração como agravo interno, visto que interpostos dentro do prazo legal e nítido o caráter infringente da irresignação.
+No mais, observo que a questão jurídica referente ao cabimento de honorários advocatícios à Defensoria Pública quando atua contra a pessoa jurídica de direito público da qual é parte integrante teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, no Recurso Extraordinário n. 1.140.005/RJ.
+Dessa forma, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: AgInt nos EDcl no REsp n. 1.612.117/SC, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/08/2017; AgInt no REsp n. 1.366.363/ES, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/08/2017; e AgInt no AgInt no REsp n. 1.603.061/SC, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 28/06/2017.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte para que, aqui, possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, em juízo de reconsideração, TORNO SEM EFEITO o decisum de e-STJ fls. 260/262 e DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, após a publicação do acórdão a ser proferido no Recurso Extraordinário n. 1.140.005/RJ, e em observância ao art. 1.040 do CPC/2015, para que: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
