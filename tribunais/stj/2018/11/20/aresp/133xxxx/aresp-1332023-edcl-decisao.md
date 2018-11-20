@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de instrumento que objetiva o desbloqueio de valores penhorados via BACENJUD e sua substituição por seguro-garantia. No TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, negou-se provimento ao agravo interno, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA ON LINE VIA BACENJUD. SUBSTITUIÇÃO DE DINHEIRO POR SEGURO GARANTIA. VÍCIOS NA APÓLICE. DIREITO DE RECUSA DO CREDOR. PRECEDENTES DO STJ EM RECURSO REPETITIVO (ART. 543-C CPC) E DESTA CORTE. RECURSO IMPROVIDO.
+1. Trata-se de Agravo de Instrumento a fim de reformar decisão proferida em Execução Fiscal que indeferiu o pedido de desbloqueio do valor penhorado via BACENJUD e sua substituição por seguro-garantia, diante da rejeição da substituição pela parte credora.
+2. A jurisprudência, tanto do Colendo STJ - inclusive em sede de recurso repetitivo (art. 543-C do CPC), no julgamento do RESP 1.337.790/PR - como desta Corte, sedimentou entendimento no sentido de que em sede de execução fiscal, após a garantia do juízo com a penhora por meio de dinheiro, a sua substituição por carta de fiança bancária ou seguro garantia sujeita-se à anuência da parte credora, por não respeitar a ordem prevista nos arts. 655 do CPC/1973 e 11 da Lei nº 6.830/80 e por não atender a finalidade executiva de satisfação do credor, que não deve se sujeitar, fora dos parâmetros legais, ao princípio da menor onerosidade rio devedor. Na hipótese dos autos, pelos vícios apontados pelo credor na apólice do seguro garantia, ocorreu expressa recusa da exequente, Comissão de Valores Mobiliários-CVM, o que afasta a plausibilidade do direito invocado.
+3. Agravo improvido.
+Opostos embargos declaratórios, foram rejeitados.
+Interposto recurso especial, negou-se seguimento ao recurso. Foi então interposto agravo em recurso especial.
+Nesta Corte, conheceu-se do agravo em recurso especial, para não conhecer do recurso especial.
+Em embargos de declaração, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargante apresentou impugnação (fls. 339-341).
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+O Tribunal de origem não fixou honorários sucumbenciais, portanto, a não fixação de honorários advocatícios inviabiliza a aplicação do art. 85, § 11, do CPC/2015, pois não há como majorar verba honorária que não foi fixada anteriormente.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL OMISSÕES CONFIGURADAS. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO INTERNO DA PARTE CONTRÁRIA MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. APELO NOBRE INTERPOSTO CONTRA ACÓRDÃO QUE JULGA INCIDENTE PROCESSUAL. INSTÂNCIA A QUO NÃO FIXOU HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015. IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS RECURSAIS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES. 1. Sendo manifestamente inadmissível o agravo interno interposto pela parte ora embargada, deve ser aplicada a multa prevista no art. 1.021, § 4º, do CPC/2015.
+2. Esta eg. Corte firmou entendimento pela impossibilidade de majorar a condenação de parte contrária em honorários advocatícios recursais quanto estes não foram fixados na Instância a quo. Assentou-se, ainda, que, como o art. 85, § 11, do CPC/2015 preconiza que os honorários advocatícios serão majorados, é essencial que estes tenham sido fixados anteriormente.
+3. No caso em apreço, o eg. Tribunal a quo, julgando agravo de instrumento contra decisão singular que deferira tutela antecipada, não fixou honorários advocatícios, o que inviabiliza a aplicação do art. 85, § 11, do CPC/2015, pois não há como majorar verba honorária que não foi fixada anteriormente.
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PREMISSA EQUIVOCADA. CABIMENTO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Na esteira da jurisprudência do STJ, cabem Embargos de Declaração para os fins ordinários (correção dos vícios de omissão, obscuridade ou contradição) e, em caráter excepcional, para adequar o julgamento à orientação firmada no julgamento de recursos repetitivos ou superação de premissa equivocada (esta última a situação do caso concreto).
+2. Hipótese em que o acórdão embargado acolheu os Embargos de Declaração da União para determinar a aplicabilidade do § 11 do art. 85 do CPC/2015 e majorar "em 5% os honorários advocatícios (fixados pela instância de origem em R$ 800,00 (oitocentos reais), (fl 689, e-STJ), considerando que a atuação recursal da embargante consistiu unicamente na apresentação de contrarrazões".
+3. De fato, o art. 85, § 11, do CPC/2015, ao prescrever que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+4. In casu, ao julgar o Agravo de Instrumento interposto pela União, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+5. Embargos de Declaração acolhidos, com efeitos modificativos, para reconhecer a inaplicabilidade do art. 85, § 11, do CPC/2015 à hipótese em exame.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
