@@ -1,0 +1,19 @@
+DECISÃO
+1. Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+AGRAVO DE INSTRUMENTO. Societário. Tutela provisória. Tutela antecipada parcialmente deferida em primeira instância para determinar ao réu a tomada de providências perante o juízo trabalhista para evitar constrições patrimoniais contra o sócio excluído da sociedade que faziam parte. Agravo do réu.
+Tempestividade. Alegada nulidade de citação e intimação.
+Questão não apreciada em primeira instância, mas que pode ser conhecida e examinada de ofício a qualquer tempo e grau de jurisdição. Precedentes. Citação por carta. Aviso de recebimento rubricado por pessoa não identificada.
+Rubrica que não guarda qualquer semelhança com a assinatura do réu agravante constante nos contratos sociais.
+Endereço diligenciado é uma casa. Impossibilidade de recebimento por funcionário de portaria. Réu que logrou comprovar ter residência no estado de Santa Catarina.
+Citação não realizada da forma prescrita em lei (art. 248, § 1º, do CPC/15). Comparecimento espontâneo. Início do prazo para contestar e recorrer. Interposição do agravo antes do decurso do prazo, considerada prorrogação decorrente da indisponibilidade no sistema de peticionamento. Recurso tempestivo.
+Mérito. Autor que alega ser ex-sócio de duas sociedades, mas que continua sendo acionado em ações trabalhistas movidas pelos ex-funcionários das empresas, para responder com seu patrimônio particular e formulou requerimento de liminar visando obrigar o réu a tomar providência para eximir o autor de futuras constrições nos juízos trabalhistas. Impossibilidade de se impor ao réu agravante a obrigação de peticionar, em nome próprio ou do agravado, nos autos das ações trabalhistas. Agravado que já atua nos processos trabalhistas. Ausência de resultado útil na medida. Tomada de providência por parte do agravante, no âmbito do juízo trabalhista, que não tem efetivo potencial de alterar o cenário de constrição que
+recai sobre os bens do agravado. Requerimento que provavelmente já foi feito naqueles autos. Decisão que cabe aos juízos trabalhistas. Revogação da liminar. Agravo provido.
+Nas razões do especial, alega-se violação dos arts. 847, § 2º, e 1.022 do Código de Processo Civil.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Outrossim, a matéria relativa ao art. 847, § 2º, do CPC, não foi objeto de análise pelo acórdão recorrido, uma vez que não houve manifestação a respeito da possibilidade de o executado requerer a substituição de penhora, desde que indique onde se encontram os bens sujeitos à execução, exiba a prova de sua propriedade e a certidão negativa ou positiva de ônus, bem como abstenha-se de qualquer atitude que dificulte ou embarace a realização da penhora.
+Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem, com relação ao artigo em testilha.
+De modo que, a ausência de manifestação judicial a respeito da matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
