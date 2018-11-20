@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 283/STF.
+1. O STJ tem firme posicionamento de que a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. As razões de recurso limitam-se a reiterar as razões já lançadas na impetração, no sentido da existência de direito líquido e certo à reclassificação e consequente matrícula no curso de Formação de Soldado da Polícia Militar do Estado da Bahia.
+3. O recorrente não impugna, contudo, o fundamento da denegação da segurança de ausência de prova pré constituída - "não restou demonstrado o direito liquido e certo alegado, pois, em resumo: não houve ato coator na reclassificação de apenas alguns candidatos; não houve comprovação de que a Administração Pública ultrapassou o comando sentencial do processo 0569986-78.2014.8.05.0001; e o Impetrante também não provou qual a sua posição no certame para que esta fosse objeto de análise da alegada preterição", o que atrai o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Recurso Ordinário não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso ordinário, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Ordinário interposto contra acórdão assim ementado:
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. DECISÃO MONOCRÁTICA QUE INDEFERIU A INICIAL. PETIÇÃO INICIAL. REQUISITOS NÃO ATENDIDOS. AUSÊNCIA DE ATO ILEGAL DA AUTORIDADE COATORA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. REQUISITOS DE ADMISSIBILIDADE. INTELIGÊNCIA DO AR.1.021, §1º, CPC/2015. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. MANIFESTA INADIMISSIBILIDADE. AGRAVO NÃO CONHECIDO.
+- A norma processual estabelece que, na petição do agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada - art.1.021, §1º, do CPC/2015.
+- Não atendida à exigência legal de impugnação específica dos fundamentos da decisão agravada, o Agravo Interno será declarado manifestamente inadmissível.
+Em suas razões, a parte recorrente defende:
+(..) resta patente o direito (subjetivo) liquido e certo do Impetrante, ora Recorrente, de ter tratamento igual, ou seja, COM A DEVIDA E EQUANIME RECLASSIFICAÇÃO, pois a anulação das questões, comuns em todas as provas, por exigência de conteúdo não consignado no edital, e com conceitos que ultrapassam o conteúdo do ensino médio, nível exigido; em função da legalidade e principalmente da ISONOMIA, TRANSCENDE PARA TODOS OS CANDIDATOS OS MOTIVOS DETERMINANTES PARA A RECLASSIFICAÇÃO POR SER MATÉRIA DE ORDEM PÚBLICA que SE OMITIARAM os Impetrados em reclassificar e REALIZAR NOVA HOMOLOGAÇÃO, EIS QUE NULA A ANTERIOR, preferindo, como mencionado acima, AO ARREPIO DA LEI e DENTRO DA VALIDADE do CFSD2012, PUBLICAR NO DIA 10.05.2015 NOVO EDITAL PARA NOVO CONCURSO CFSD 2017.
+Contrarrazões às fl. 339-366.
+O Ministério Público opinou pelo não conhecimento do apelo:
+ADMINISTRATIVO E PROCESSUAL CIVIL.
+Concurso público. Pleito de matrícula no Curso de Formação de Soldado da Polícia Militar do Estado da Bahia. Segurança denegada por ausência de prova pré constituída. Decisão atacada por agravo interno, não conhecido, por ausência de impugnação aos fundamentos da decisão agravada.
+Recurso ordinário. Razões de recurso que se limitam a reiterar os argumentos da impetração.
+Ausência de impugnação ao fundamento de inexistência de prova pré constituída que se repete no recurso ordinário. Incidência da Súmula 283 do STF. Recurso que não deve ser conhecido.
+É o relatório.
+
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.8.2018.
+O Tribunal de origem consignou:
+Repete as mesmas razões trazidas na peça inicial da ação mandamental, afirmando que tem o Agravante direito líquido e certo, no qual fundamenta seu direito na reclassificação com outros candidatos que inclusive foram convocados para exames mesmo fora das vagas, não sendo esta a determinação da sentença do primeiro grau, o que para o Agravante afronta a isonomia.
+Assim, forçoso concluir que o recurso interposto não atende à exigência legal de impugnação específica dos fundamentos da decisão agravada.
+(..)
+Pondero que no caso sequer foi elaborada qualquer fundamentação relativa ao conteúdo da decisão agravada. Até porque, friso, a decisão agravada indeferiu a inicial e denegou a segurança, pois não houve de demonstração inequívoca de ilegalidade/abusividade no ato de reclassificação de outros candidatos, promovido pelos Impetrados, quer seja, por estar a Administração Pública cumprindo uma ordem judicial, ou por não ter demonstrado a sua reclassificação na seleção de candidatos ao curso de formação de soldado da polícia militar do Estado da Bahia (Edital de abertura SAEB/01/2012), com a conseqüente convocação.
+As razões de recurso limitam-se a reiterar as razões já lançadas na impetração, no sentido da existência de direito líquido e certo à reclassificação e consequente matrícula no curso de Formação de Soldado da Polícia Militar do Estado da Bahia.
+O recorrente não impugna, contudo, o fundamento da denegação da segurança de ausência de prova pré constituída - "não restou demonstrado o direito liquido e certo alegado, pois, em resumo: não houve ato coator na reclassificação de apenas alguns candidatos; não houve comprovação de que a Administração Pública ultrapassou o comando sentencial do processo 0569986-78.2014.8.05.0001; e o Impetrante também não provou qual a sua posição no certame para que esta fosse objeto de análise da alegada preterição", o que atrai o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FUNDAMENTO INATACADO. SÚMULA 283/STF. PRINCÍPIO DA DIALETICIDADE. INDEPENDÊNCIA DAS INSTÂNCIAS ADMINISTRATIVA, CIVIL E PENAL. PRESCRIÇÃO. PRAZOS PREVISTOS NA LEI PENAL. PENA EM CONCRETO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual o processo administrativo é, em regra, autônomo em relação ao processo penal, somente experimentando seus reflexos nos casos de decisão absolutória por inexistência de fato (art. 386, I, CPP) ou negativa de autoria (art. 386, IV, CPP).
+IV - Caso o ilícito disciplinar praticado seja também capitulado como crime, a prescrição segue o disposto na legislação penal V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no RMS 55.110/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 01/03/2018)
+Diante do exposto, não conheço do Recurso Ordinário.
+É como voto.
