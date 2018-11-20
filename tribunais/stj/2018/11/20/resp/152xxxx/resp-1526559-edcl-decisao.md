@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela TRÊS CORAÇÕES ALIMENTOS S.A. contra decisão em que conheceu do recurso especial fazendário e deu a ele provimento para reconhecer a omissão no acórdão recorrido e determinar o retorno dos autos à origem para análise do elementos trazidos nos embargos de declaração.
+O embargante alega, em síntese, que há omissão na decisão monocrática que deixou de apreciar as suas contrarrazões de recurso especial.
+Sem impugnação.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+No relatório do recurso especial, referi-me à ausência de apresentação de contrarrazões de recurso especial pelo recorrido, ora embargante. Entretanto, trata-se de mero erro material sem influência no resultado do julgamento.
+Com efeito, consignou o embargante em suas contrarrazões de recurso especial que (i) a União não apresentou cálculos que sustentem a alegação de que os valores executados sejam, de fato, apenas os valores complementares, já descontadas as parcelas não exigíveis; (ii) se opõe ao alegado pelo Fisco, afirmando que o fundamento da execução é o valor total do crédito constituído com fundamento nos decretos-lei n. 2.445 e 2.449; (iii) os cálculos colacionados aos autos corroboram a tese defendida pelo particular; (iv) inexiste a omissão apontada pela Fazenda (e-STJ fl. 1.137 e seguintes).
+Entretanto, os fundamentos ali apostos apenas reforçam a indispensabilidade de que o Tribunal se manifeste acerca da alegação da FAZENDA de que os valores atualmente em cobrança se referem tão somente à quantia que remanesceu após a compensação ocorrida na via administrativa em cumprimento a decisão judicial transitada em julgado nos autos da acão n. 96.004556-7. Essa questão é essencial à solução da controvérsia, uma vez que a não equivalência entre o somatório de todos os débitos de PIS exigidos pelo Fisco e os créditos a que faz jus a empresa erige-se como fundamento central do acórdão recorrido.
+Dessa forma, apesar de não haver na decisão embargada referência expressa às contrarrazões apresentadas pela recorrida, ora embargante, vê-se que as razões trazidas apenas reforçam a indispensabilidade da manifestação da Corte a quo acerca dos temas trazidos pela Fazenda em seus embargos de declaração de e-STJ fls. 1.085/1.087.
+Ante o exposto, ACOLHO os embargos de declaração para correção de erro material, sem efeito modificativo.
+Publique-se. Intimem-se.
