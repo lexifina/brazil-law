@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL E RECURSO ADESIVO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS - PLANO DE SAÚDE - NEGATIVA INDEVIDA NO FORNECIMENTO DE TRATAMENTO - FISIOTERAPIA - DANO MORAL - NÃO CONFIGURADO - RECURSOS DESPROVIDOS.
+Conforme posicionamento do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, porém não o tipo de tratamento médico a ser realizado para a cura ou melhora do quadro de saúde do paciente.
+A negativa de custeio do tratamento respaldado em interpretação divergente das cláusulas contratuais não causa dano moral, conforme entendimento do STJ.
+Alegou-se, no especial, violação dos artigos 3º, § 2º, do Código de Defesa do Consumidor, 4º da Lei 9.961/2000 e 10, § 3º, da Lei 9.656/98, sob o argumento de que não há relação de consumo entre as parte, haja vista que a agravante é entidade de autogestão, e que não é devido o tratamento excluído do contrato.
+Assim delimitada a controvérsia, passo a decidir.
+Já decidiu esta Corte que os planos de saúde podem, com alguma margem, limitar as doenças que serão cobertas, mas não o tratamento a ser ministrado, o que cabe ao profissional de saúde competente, sendo irrelevante haver ou não relação de consumo.
+A propósito:
+RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. PLANOS DE SAÚDE. ASSOCIAÇÕES. LEI N. 9.656/1998. INCIDÊNCIA. BOLSAS DE SANGUE NECESSÁRIAS A TRATAMENTO MÉDICO. COBERTURA DO TRATAMENTO PELO PLANO. LIMITAÇÃO DA QUANTIDADE DE BOLSAS. IMPOSSIBILIDADE. CUMULAÇÃO DE PENALIDADE EM SEDE AÇÃO CIVIL PÚBLICA. VIABILIDADE.
+1. Não há violação ao artigo 535, II, do CPC/1973, quando embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. Nos termos do art. 1º da Lei 9.656/98, os planos privados de assistência à saúde consistem em prestação continuada de serviços ou cobertura de custos assistenciais, por prazo indeterminado, com a finalidade de garantir, sem limite financeiro, a assistência à saúde.
+3. As normas da Lei 9.656/98 são aptas a regular as relações havidas com a entidade que se propõe à atividade de assistência à saúde suplementar, independentemente da natureza jurídica sob a qual se constitui: autogestão, filantrópica, sociedade empresária, medicina de grupo.
+4. É ilegal e abusiva a negativa de cobertura pelo plano de saúde de bolsas de sangue em número considerado essencial para preservar a saúde e a vida do paciente, uma vez que a opção pelos procedimentos e técnica a serem utilizados no tratamento de saúde cabe ao médico especialista.
+5. Os contratos e seguros de plano de saúde são considerados existenciais, por terem como objeto bem de natureza essencial à manutenção da vida e ao alcance da dignidade, e, por esse motivo, o atributo econômico, presente em qualquer relação negocial, pode e deve sofrer ponderações razoáveis em face do valor da vida humana.
+6. Em ação civil pública, é admitida a condenação do réu à obrigação de fazer ou não fazer cumulada com a de indenizar. Na interpretação do art. 3º da Lei 7.347/85 ("A ação civil poderá ter por objeto a condenação em dinheiro ou o cumprimento de obrigação de fazer ou não fazer"), a conjunção "ou" deve ser considerada com o sentido de adição (permitindo, com a cumulação dos pedidos, a tutela integral do direito à saúde) e não o de alternativa excludente (o que tornaria a ação civil pública instrumento inadequado a seus fins).
+7. Recurso especial não provido.
+(REsp 1450134/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/10/2016, DJe 7/12/2016)
+Diante do exposto, nego provimento ao agravo. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
