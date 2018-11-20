@@ -1,0 +1,13 @@
+DECISÃO
+ANDRÉ [NOME], ora recorrente, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, no HC n. 2012408-10.2014.815.0000.
+Consta dos autos que o réu foi condenado à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de multa, como incurso no art. 33, caput, da Lei n. 11.343/2006. A condenação transitou em julgado.
+Nesta Corte Superior, sustenta, em síntese, que impetrou o writ originário, mas o remédio não foi conhecido, pois o Tribunal a quo reconheceu que, ao julgar a apelação criminal e não identificar nenhuma nulidade, passou a ser a autoridade coatora e seria incompetente para julgá-lo.
+Por tal razão a defesa repisa os seguintes argumentos: a) inépcia da denúncia por falta de descrição da conduta do réu; b) falta de fundamentação da sentença, em relação à primeira fase da dosimetria; c) dupla valoração da reincidência, na primeira e na segunda etapa da dosimetria; d) cabimento da minorante do art. 33, § 4º, da Lei de Drogas, pois nada indica que o acusado integre organização criminosa e a reincidência já foi sopesada na segunda etapa da individualização da pena e e) fixação indevida do regime mais gravoso do que o correspondente à sanção aplicada.
+Requer, liminarmente, o sobrestamento da condenação do recorrente.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Na hipótese, a Corte de origem não conheceu do mandamus lá impetrado ao fundamento de que "já analisou e julgou o recurso de apelação interposto pelo ora paciente, mantendo intacta a sentença de primeiro grau", de modo que "tornou-se  ..  autoridade coatora e, por isso, impedido de apreciar o pedido de habeas corpus vinculado ao respectivo processo" (fl. 401).
+Entretanto, em nenhum momento o Tribunal de origem analisou os temas aventados no writ originário e aqui repisados, haja vista que a apelação tratou apenas do pedido de absolvição alegado pela defesa. Tanto é assim que indeferi liminarmente o HC n. 301.090/PB impetrado pela defesa contra o acórdão da apelação, porque as teses aqui trazidas não foram apreciadas na origem, de modo que "a análise neste momento da ilegalidade cogitada configuraria supressão de instância pelo Superior Tribunal de Justiça, em total desprestígio às instâncias ordinárias".
+Logo, tenho como perfeitamente cabível a análise, em habeas corpus, das questões suscitadas perante a Corte local e aqui reiteradas.
+À vista do exposto, dou provimento ao recurso para determinar o retorno dos autos ao Tribunal de origem, a fim de que este se pronuncie acerca da ocorrência de eventual ilegalidade do ato apontado como coator.
+Publique-se e intimem-se.
