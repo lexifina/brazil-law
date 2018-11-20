@@ -1,0 +1,13 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0003397-68.2018.8.26.0509, em que foi cassada a decisão de primeiro grau, que o havia progredido ao regime semiaberto, e determinada a prévia elaboração de exame criminológico antes de novo pleito.
+Com efeito, verifico que a Corte de origem, ao cassar o decisum, asseverou que "o recorrido resgata pena pela reiterada e insistente prática de crimes violentos, o que sugere personalidade avessa aos mais rudimentares padrões morais e potencial periculosidade, mesmo porque revelado por ele próprio que o fez por "impulso" (fls. 31)" (fl. 44).
+Portanto, percebe-se que a instância ordinária entendeu devido o indeferimento do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado cometeu crimes graves, o que, sem maiores detalhamentos, não justifica a negativa da benesse ou a produção de prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+II - O entendimento desta Corte é no sentido de que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamentos idôneos para obstar a progressão de regime.
+III - In casu, ao cassar o benefício concedido pelo Juízo da Execução Penal, o eg. Tribunal de Justiça se valeu do argumento de que o paciente teria cometido faltas graves, porém não as individualizou, o que impede a sua utilização como argumento para afastar o merecimento do apenado.
+IV - O v. acórdão valeu-se, ainda, da gravidade dos crimes pelos quais o paciente foi condenado e de afirmações genéricas no sentido de que o paciente "tem evidente tendência à prática de crimes graves" porém, realizado exame criminológico, não foi indicado qualquer elemento que possa indicar que o paciente apresenta traço de personalidade que o impeça de receber o benefício da progressão de regime.
+Habeas corpus não conhecido. Ordem concedida de ofício para cassar a decisão do eg. Tribunal a quo, fazendo prevalecer a progressão de regime concedida pelo d. Juízo da Execução Penal, confirmando a liminar (HC n. 443.838/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/6/2018, grifei).
+Dessa forma, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de determinar a imediata inserção do apenado no regime semiaberto.
+Publique-se e intimem-se.
