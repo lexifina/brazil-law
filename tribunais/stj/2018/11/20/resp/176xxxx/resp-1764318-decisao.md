@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. SENTENÇA QUE EXTINGUIU O FEITO SEM RESOLUÇÃO DO MÉRITO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. APLICAÇÃO. RECURSO REGIDO PELO CPC/2015. VENDA EXTRAJUDICIAL DO BEM. NECESSIDADE DE RESSARCIR O APELADO. VALOR DE MERCADO COM BASE NA TABELA FIPE. APLICAÇÃO DO § 6º DO ART. 3º DO DECRETO-LEI 911/1969. MULTA COMINATÓRIA DE 50% DO VALOR INTEGRALMENTE FINANCIADO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. ARTIGO 85, § 11 DO CPC. APLICAÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+A parte recorrente alega violação do artigo 3º do Decreto-Lei 911/1969 e divergência jurisprudencial. Afirma que a multa prevista em tal artigo só pode ser imposta em caso de sentença que decrete a improcedência do pedido deduzido na ação de busca e apreensão.
+A Corte de origem entendeu que, se a sentença extinguiu o feito sem resolução de mérito (por ausência de comprovação da mora, pressuposto de constituição e de desenvolvimento válido e regular do processo), cabível a imposição da multa.
+Ao impor a multa na hipótese dos autos, o Tribunal revisor decidiu contrariamente à norma do artigo 3º do Decreto-Lei 911/1969 e divergiu da jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. MORA DESCARACTERIZADA. FIXAÇÃO DE MULTA COM BASE NO ART. 3º, § 6º, DO DECRETO-LEI N. 911/69. JULGAMENTO DE IMPROCEDÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO.
+1. Ação de busca e apreensão ajuizada em 2010, de que foi extraído este recurso especial, interposto em 21/09/2012 e atribuído ao gabinete em 26/08/2016.
+2. O propósito recursal reside em decidir sobre a possibilidade de imposição da multa prevista no § 6º do art. 3º do DL 911/69, bem como sobre a existência de dissídio jurisprudencial no que tange à devolução dos valores pagos nos contratos garantidos por alienação fiduciária.
+3. A multa prevista no art. 3º, § 6º, do Decreto-lei 911/69 não é cabível quando houver extinção do processo sem julgamento do mérito.
+4. No entanto, uma vez demonstrada, no ajuizamento da ação, a devida constituição em mora do fiduciante, a sua descaracterização - porque reconhecida, a partir da análise das cláusulas pactuadas, a abusividade dos encargos no período de normalidade contratual - implica o julgamento de improcedência do pedido de busca e apreensão e não a extinção do processo sem resolução do mérito.
+5. Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico, tampouco a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, não bastando, para tanto, transcrever ementas ou destacar trechos de decisões. Ademais, a falta de indicação do dispositivo legal sobre o qual recai a divergência também inviabiliza a análise do dissídio.
+6. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 1421371/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE BUSCA E APREENSÃO. VEÍCULO APREENDIDO LIMINARMENTE. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. DETERMINAÇÃO DE RESTITUIÇÃO DO BEM SOB PENA DE MULTA DIÁRIA. MULTA PELA VENDA ANTECIPADA DO VEÍCULO. PENALIDADES COM FATOS GERADORES E JUSTIFICATIVAS DIVERSAS. POSSIBILIDADE, EM TESE, DE CUMULAÇÃO. NO CASO CONCRETO, EM QUE A EXTINÇÃO DO FEITO NÃO SE DEU COM JULGAMENTO DE IMPROCEDÊNCIA DO PEDIDO E FIXAÇÃO DA MULTA, MOSTRA-SE DESCABIDA A SUA EXIGÊNCIA. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 3º, § 6º, do Decreto-Lei nº 911/1969, a sentença que decretar a "improcedência da ação" de busca e apreensão, também condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a 50% do valor originalmente financiado, caso o bem apreendido já tenha sido alienado. Essa pena visa a recompor os prejuízos materiais causados pelo credor fiduciário em razão da ação de busca e apreensão injustamente proposta contra o devedor fiduciante.
+2. A multa prevista nos arts. 461, § 4º, e 461-A, § 3º, do CPC/73 tem cabimento nas hipóteses de descumprimento de ordens judiciais, sendo fixada justamente com o objetivo de compelir a parte ao cumprimento da obrigação assinalada. Encontra justificativa no princípio da efetividade da tutela jurisdicional e na necessidade de se assegurar pronto cumprimento às decisões judiciais cominatórias.
+3. Considerando que as sanções em apreço possuem justificativas e fatos geradores distintos, não há obstáculo, em princípio, a sua
+cumulação.
+4. No caso concreto, porém, em que ação de busca e apreensão foi extinta sem julgamento de mérito por decisão judicial que, ademais, não contemplou a multa do art. 3º, § 6º, do Decreto-Lei nº 911/69, mostra-se descabida sua cobrança. Isso porque referidas circunstâncias estão assinaladas na própria norma de regência como pressupostos para exigência da multa em apreço.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1.487.095/PR, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 8/11/2016)
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE BUSCA E APREENSÃO. VEÍCULO APREENDIDO. POSTERIOR EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. MULTA INDEVIDA.
+1.- De acordo com o artigo 3º, § 6º, do Decreto 911/69, a sentença que decretar a "improcedência da ação" de busca e apreensão, também condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado, caso o bem apreendido já tenha sido
+alienado.
+2.- A multa em referência não será cabível quando houver extinção do processo sem julgamento do mérito, tendo em vista a necessidade de se interpretar restritivamente a norma sancionatória.
+3.- Recurso Especial provido.
+(REsp 1.165.903/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 25/06/2014)
+Em face do exposto, dou provimento ao recurso para afastar a multa.
+Intimem-se.
