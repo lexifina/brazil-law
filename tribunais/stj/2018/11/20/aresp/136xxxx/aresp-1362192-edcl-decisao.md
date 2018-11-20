@@ -1,0 +1,47 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por PUNCH LINE COMERCIO E IMPORTACAO LTDA E OUTRA em face das decisões de fls. 434-436 e 437-439 que negou provimento aos seus agravos em recurso especial.
+Nas razões recursais (fls. 445-449), a parte embargante alega contradição e erro material na decisão embargada, arguindo que não há necessidade de comprovação de eventual ocorrência de feriado local, pois o prazo teria sido contado conforme Regimento Interno do STJ, da Portaria nº 32/2018 do STJ e do calendário do STJ.
+Decido.
+2. Segundo o art. 1.022, caput e incisos, do Novo CPC, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo: a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante. Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC, "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+Nenhum desses vícios se faz presente nas decisões ora embargadas.
+2.1 Na espécie, consta das decisões ora embargadas o seguinte:
+" ..
+O art. 1.003, § 5º, do NCPC estabelece o prazo de quinze dias para a interposição de recursos, excetuando apenas os embargos de declaração.
+Ademais, o art. 1.070 do NCPC dispõe que "é de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal".
+Observa-se, ainda, que computam-se apenas os dias úteis, conforme estabelecido no art. 219 do NCPC.
+No caso, a intimação da decisão agravada, disponibilizada no DJE de 07/02/2018, foi considerada publicada em 08/02/2018 (quinta-feira), de acordo com a certidão de fl. 395. Assim, o prazo para interposição do agravo em recurso especial findou em 02/03/2018 (sexta-feira). A petição, todavia, só foi protocolada em 05/03/2018 (fl. 406), ou seja, fora do prazo legal.
+Registra-se que, com a entrada em vigor do novo Código de Processo Civil, há disposição expressa contida no § 6º do art. 1.003 do CPC/2015, que dispõe: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+Nota-se que a segunda-feira de carnaval e a quarta-feira de cinzas não são feriados nacionais, sendo imprescindível a comprovação de eventual suspensão do expediente forense na Corte local.
+Ressalta-se, ainda, que a segunda-feira de carnaval, nos termos das Leis Federais nºs 5.010/1966 e 11.697/2008, não se aplica à justiça comum estadual, porquanto, aplica-se, restritivamente, à Justiça Federal e ao Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), respectivamente, devendo ser comprovada a sua ocorrência na Justiça estadual no ato de interposição do recurso, conforme a nova sistemática do CPC/2015.
+Nesse sentido:
+ ..
+Desse modo, considerando que não houve qualquer comprovação de eventual ocorrência de feriado local no ato de interposição do recurso, o agravo em recurso especial resta intempestivo, nos termos do art. 1.003, §6º, do CPC/2015.
+3. Ante o exposto, não conheço do agravo em recurso especial de fls. 406-413 interposto por Punch Line Comercio e Importacao Ltda." (g.n.)
+"O art. 1.003, § 5º, do NCPC estabelece o prazo de quinze dias para a interposição de recursos, excetuando apenas os embargos de declaração.
+Ademais, o art. 1.070 do NCPC dispõe que "é de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal".
+Observa-se, ainda, que computam-se apenas os dias úteis, conforme estabelecido no art. 219 do NCPC.
+No caso, a intimação da decisão agravada, disponibilizada no DJE de 07/02/2018, foi considerada publicada em 08/02/2018 (quinta-feira), de acordo com a certidão de fl. 395. Assim, o prazo para interposição do agravo em recurso especial findou em 02/03/2018 (sexta-feira). A petição, todavia, só foi protocolada em 05/03/2018 (fl. 397), ou seja, fora do prazo legal.
+Registra-se que, com a entrada em vigor do novo Código de Processo Civil, há disposição expressa contida no § 6º do art. 1.003 do CPC/2015, que dispõe: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+Nota-se que a segunda-feira de carnaval e a quarta-feira de cinzas não são feriados nacionais, sendo imprescindível a comprovação de eventual suspensão do expediente forense na Corte local.
+Ressalta-se, ainda, que a segunda-feira de carnaval, nos termos das Leis Federais nºs 5.010/1966 e 11.697/2008, não se aplica à justiça comum estadual, porquanto, aplica-se, restritivamente, à Justiça Federal e ao Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), respectivamente, devendo ser comprovada a sua ocorrência na Justiça estadual no ato de interposição do recurso, conforme a nova sistemática do CPC/2015.
+Nesse sentido:
+ ..
+Desse modo, considerando que não houve qualquer comprovação de eventual ocorrência de feriado local no ato de interposição do recurso, o agravo em recurso especial resta intempestivo, nos termos do art. 1.003, §6º, do CPC/2015.
+3. Ante o exposto, não conheço do agravo em recurso especial de fls. 397-404 interposto por Global Shipping Logistica Internacional Ltda."
+Como se vê, no presente caso, não há contradição, nem erro material, tampouco qualquer outro vício a ensejar embargos de declaração, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma clara, coerente e lógica.
+Ressalta-se que a contradição que permite o manejo dos aclaratórios é aquela verificada no corpo da própria decisão, e não a existente entre a pretensão da parte e o resultado colhido no julgamento.
+Observa-se, também, que não configura erro material o acórdão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+Com efeito, as decisões embargadas foram fundamentadas e claras no sentido da intempestividade dos agravo em recurso especial ante a ausência da comprovação de eventual ocorrência de feriado local no ato de interposição do recurso, nos termos do art. 1.003, §6º, do CPC/2015.
+Salienta-se, ainda, que "os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual." (AgRg no AREsp 700.715/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/05/2016, DJe 23/05/2016).
+Em igual sentido: AgInt no AREsp 900.519/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/02/2017, DJe 22/02/2017; e, AgInt no AREsp 962.902/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/11/2016, DJe 19/12/2016.
+Ademais, o argumento da parte embargante de que não haveria necessidade de comprovação de eventual ocorrência de feriado local não revela o vício de contradição e erro material na decisão embargada, mas mero inconformismo da parte com o resultado colhido no julgamento.
+A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+3. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
