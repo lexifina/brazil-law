@@ -1,0 +1,17 @@
+DECISÃO
+[NOME] [NOME] alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0006280-75.2016.8.26.0050).
+Neste writ, requer o paciente o reconhecimento da atenuante da confissão espontânea, com o consequente redimensionamento da pena aplicada.
+Não houve pedido liminar.
+Prestadas as informações (fls. 75-78 e 80-131), veio parecer do Ministério Público Federal, que opinou pela concessão da ordem (fls. 133-134).
+Decido.
+O Tribunal a quo confirmou os termos da sentença e registrou que "na fase policial, o acusado confessou a prática delitiva  ..  em Juízo, sob o crivo do contraditório, [NOME] voltou a confessar, porém parcialmente" (fl. 38).
+Por ocasião do julgamento dos embargos declaratórios opostos pela defesa, concluiu que o Juiz de primeiro grau "corretamente deixou de considerar a atenuante da confissão, justificando que os réus não confessaram os fatos narrados na exordial acusatória, de forma integral e espontânea, apresentando apenas "mera versão dos fatos", minimizando a gravidade de suas ações" (fl. 66).
+Este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Dessa forma, verifico o constrangimento ilegal de que estaria sendo vítima o paciente, haja vista que a confissão realizada tanto na fase policial quanto judicial foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Dessa forma, caracterizada a coação ilegal em relação à segunda etapa da dosimetria, passo à sua readequação.
+Quanto ao delito de latrocínio, mantenho a pena-base fixada na origem em 30 anos de reclusão. Na segunda fase, presente a atenuante da menoridade relativa, a pena foi reduzida em 1/6, o que totalizou 25 anos de reclusão. Reconhecida a confissão espontânea, reduzo, novamente, a pena em 1/6, o que resulta em 20 anos e 10 meses de reclusão.
+Em relação ao delito de roubo e de corrupção de menores, as penas-bases foram mantidas no mínimo legal, em 4 anos de reclusão e 1 ano de reclusão, respectivamente. Na segunda etapa, em que pese o reconhecimento da confissão espontânea, as reprimendas permanecem inalteradas, a teor da Súmula n. 231 do STJ. Por fim, o delito de roubo teve a pena aumentada em 1/3, pela incidência das majorantes, o que totalizou 5 anos e 4 meses de reclusão.
+Por fim, as instâncias ordinárias aplicou a regra do concurso formal entre os delitos de latrocínio e de roubo, elevando a pena maior em 1/6, o que totaliza 24 anos, 3 meses e 20 dias de reclusão. O mesmo foi feito em relação aos crimes de corrupção de menores, elevada a pena em 1/6, o que resultou em 1 ano e 2 meses de reclusão.
+Em razão do concurso material de crimes, as penas são somadas, o que torna a pena final, definitivamente estabelecida, em 25 anos, 5 meses e 20 dias de reclusão.
+À vista do exposto, concedo a ordem, a fim de reconhecer a confissão espontânea e reduzir a reprimenda para 25 anos, 5 meses e 20 dias de reclusão.
+Publique-se e intimem-se.
