@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de Alagoas concedeu a segurança, assentando a inconstitucionalidade de lei estadual que fixou subteto. No extraordinário, o recorrente aponta a violação do artigo 37, inciso IX, da Constituição Federal. Diz da possibilidade de instituição de subtetos estaduais, aludindo a precedente do Supremo. Discorre sobre a legislação de regência. Afirma a inexistência de redução remuneratória.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão impugnado:
+    23. No caso vertente, entendo que a criação do subteto, de âmbito local, levado a termo pela Lei Estadual n° 7.348/2012 é inconstitucional, o que afirmo com base em 03 (três) razões primordiais:
+    a) primeiro, por não ser possível a fixação de subteto direcionado apenas para um grupo específico de servidores (servidores públicos inativos e pensionistas da Assembleia Legislativa), ante a exigência constitucional de tratamento igualitário entre os servidores ativos e inativos, inclusive no que diz respeito a aspectos remuneratórios (art. 40, §2°, da Constituição Federal);
+    b) segundo, porque a despeito de a lei ter sido posterior à égide da Emenda Constitucional n° 47/2005 — que admitiu a criação de subteto no âmbito local —, não foi observado o requisito formal de que, para a sua concepção no sistema jurídico, a inovação deveria se dar por meio de emenda à Constituição Estadual; e,
+    c) terceiro por ter utilizado como parâmetro remuneratório local o subsídio mensal do Diretor Geral e do Coordenador Geral para Assuntos Legislativos, quando o limite único a ser obrigatoriamente observado seria o subsídio mensal dos Desembargadores do Tribunal de Justiça.
+    24. Não se aplicando a limitação imposta pela Lei Estadual n° 7.348/2012, por força dos argumentos invocados, e não havendo compatibilidade desta espécie normativa com a disposição no art. 37, §12, da Constituição Federal, não tenho dúvida de que os proventos dos impetrantes estão delimitados pelo subsídio dos Deputados Estaduais.
+    25. Nesse diapasão, o Órgão Plenário deste Tribunal de Justiça já declarou a inconstitucionalidade do art. 2° da Lei Estadual n° 7.34812012 que fixou como subteto o subsídio de Diretor Geral e/ou do Coordenador Geral para Assuntos Legislativos da Assembleia Alagoana, pelo que se faz desnecessário suspender o curso desta ação e instaurar novo incidente acerca da compatibilidade do dispositivo ao texto constitucional, uma vez que já houve Decisão acerca dessa matéria, em conformidade com o parágrafo único do artigo 949 do CPC/2015.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário interposto pelo Estado de Alagoas.
+    4. Publiquem.
+Brasília, 20 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
