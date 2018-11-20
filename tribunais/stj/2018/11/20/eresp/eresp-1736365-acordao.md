@@ -1,0 +1,82 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. RECURSO ESPECIAL. MULTA APLICADA PELO PROCON. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. HONORÁRIOS ADVOCATÍCIOS. AFASTAMENTO OU REDUÇÃO. SÚMULA 7/STJ.
+1. Não pode ser conhecido o Recurso Especial que não ataca fundamento que, por si só, é apto a sustentar o juízo emitido pelo acórdão recorrido. Aplicação analógica da Súmula 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. A jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+3. Recursos Especiais não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu dos recursos, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recursos Especiais interpostos (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. MULTA APLICADA PELO PROCON. NATUREZA NÃO TRIBUTÁRIA. EXIGÊNCIA DE DEPÓSITO PRÉVIO COMO CONDIÇÃO DE ADMISSIBILIDADE DO RECURSO ADMINISTRATIVO. IMPOSSIBILIDADE. SENTENÇA QUE DECLAROU A NULIDADES DOS PROCESSOS ADMINISTRATIVOS. APELO DO MUNICÍPIO DE CASCAVEL. SENTENÇA EXTRA PETITA. REJEITADO. VIOLAÇÃO AO PRINCÍPIO DA AMPLA DEFESA E DO DIREITO DE PETIÇÃO. DECRETO FEDERAL Nº 2.181/97, QUE NÃO IMPÕE CONDICIONANTES. SÚMULA VINCULANTE Nº 21 DO SUPREMO TRIBUNAL FEDERAL. CERCEAMENTO DE DEFESA. MATÉRIA DE ORDEM PÚBLICA, QUE PODE SER ALEGADA A QUALQUER TEMPO. RECURSO CONHECIDO E NÃO PROVIDO. APELO DE BORNHAUSEN E ZIMMER ADVOGADOS. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ATENDIMENTO AO DISPOSTO NO ARTIGO 20, §4º DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados (fl. , e-STJ).
+Aponta o município de Cascavel, em Recurso Especial, violação dos arts. 20, §3º, 128, 165, 458 e 460 do CPC.
+Aduz em síntese:
+.. o acórdão recorrido, data máxima vênia, negou vigência aos artigos 128 e 165 do CPC quando confirmou sentença de primeiro grau que anulou débitos fiscais de maneira extra petita.
+In casu, o acórdão recorrida apreciou questão sob o enfoque do mérito da decisão administrativa e não se ateve ao pedido da inaugural, julgando totalmente procedente os ação anulatória indevidamente, em desacordo a causa de pedir e pedido da recorrida, negando vigência artigos 128, 165 e 460 do CPC/73.
+Ademais, a multa administrativa está fundada em procedimento de penalidade administrativa legal.
+O julgamento do magistrado singular foi extra petita, pois nos ação anulatória discutiu a desconstituição do crédito tributário e não a nulidade do mesmo.
+Com relação aos honorários sucumbenciais, tem-se que os mesmos foram fixados de forma excessiva fugindo à razoabilidade e proporcionalidade, pelo que contrariou a melhor forma do artigo 20 do Código de Processo Civil, devendo ser a fixação dos honorários de acordo com a razoabilidade e a proporcionalidade, observando-se os parãmetros do §3º do artigo 20 do CPC.
+Já o particular, em Recurso Especial, violação do art. 20, § § 3º e 4º, do CPC/73. Afirma que a fixação dos honorários são irrisórios.
+Sustenta, em suma:
+Embora a r. sentença tenha acertadamente julgado totalmente procedente o pedido constante na peça vestibular, "para o fim de declarara nulidade dos débitos oriundos dos processos administrativos 933/2007, 980/2007 e 320/2008 instaurados pelo PROCOM", o fato é que os ora Recorrentes não podem concordar com o quantum fixado pelo MM. Juízo a quo à título de verba honorária sucumbencial, infimamente fixada no importe de R$ 800,00 (oitocentos reais).
+(..)
+Mesmo diante da excelência da prestação do serviço, os honorários fixados, aplicando-se o § 4º do art. 20, do Código de Processo Civil correspondem à apenas 0,44% do valor histórico atribuído à causa.
+Conforme será demonstrado a seguir, o v. acórdão recorrido violou os § § 3º e 4º, do art. 20, do CPC, ao manter o irrisório montante dos honorários advocatícios devidos aos Recorrentes, eis que o valor é irrisório quando comparado ao valor da causa e da condenação, razão pela qual o v. acórdão deve ser reformado.
+Ao manter verba honorária no valor de R$ 800,00 (oitocentos reais) para uma causa em que o valor histórico é de R$ 183.594,15 (cento e oitenta e três mil, quinhentos e noventa e quatro reais e quinze centavos), constata-se flagrante negativa de vigência aos § § 3º e 4º do art. 20 do Código de Processo Civil, uma vez que o valor é irrisório e avilta o exercício da advocacia.
+Sem Contrarrazões.
+O MPF opinou pelo conhecimento e e provimento do Recurso Especial do particular e pelo conhecimento e desprovimento do Agravo interposto pela municipalidade às fls. 542-548, e-STJ.
+À fl. 540, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+1. Recurso Especial do município de Cascavel
+
+O recorrente alega o que o acórdão recorrido não se ateve ao pedido da inaugural, julgando totalmente procedente os ação anulatória indevidamente, em desacordo a causa de pedir e pedido da recorrida, pois a ação anulatória discutiu a desconstituição do crédito tributário e não a nulidade dele.
+O Tribunal local consignou:
+Assim, tem-se que a exigência do depósito no valor correspondente à 25% do quantum arbitrado à título de multa, como pressuposto de admissibilidade do recurso administrativo da Apelada, obstaculizou o seu direito de recorrer administrativamente da penalidade que lhe foi imposta - e afrontou o direito constitucional à Ampla Defesa e ao Direito de Petição previstos na Constituição Federal -, pelo que o débito constante na certidão de dívida ativa é nulo e, consequentemente, inexigível.
+Dessa maneira, como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confiram-se os julgados:
+TRIBUTÁRIO - EXECUÇÃO FISCAL - IPTU - PRESCRIÇÃO - DECRETAÇÃO DE OFÍCIO - SÚMULA 283/STF - NULIDADE DA CDA - AUSÊNCIA DE DISCRIMINAÇÃO DOS VALORES POR EXERCÍCIO, DOS JUROS E DA MULTA.
+1. Tese em torno da prescrição que deixou de atacar um dos fundamentos adotados pelo aresto impugnado. Incidência da Súmula 283/STF.
+(..)
+5. Recurso especial conhecido em parte e, nessa parte, improvido. (REsp 853.390/RS, 2ª T., Rel. Ministra ELIANA CALMON, DJ de 19.10.2006).
+PROCESSUAL CIVIL E TRIBUTÁRIO. ARTS. 11, 15, I, DA LEI 6.830/80 E 620 DO CPC. SUBSTITUIÇÃO DE BEM PENHORADO REQUERIDO PELO EXECUTADO. INCERTEZA SE O DEPÓSITO EM CONSIGNAÇÃO SE REFERE AOS VALORES EM DÉBITO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF.
+1. Não pode ser conhecido o recurso especial que não ataca fundamento que, por si só, é apto a sustentar o juízo emitido pelo acórdão recorrido. Aplicação analógica da Súmula 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Recurso especial não conhecido (REsp 925.031/SC, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ 05.06.2008 p. 1, grifei).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RECURSO ESPECIAL. REDUÇÃO DE VENCIMENTOS. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. VIOLAÇÃO A PORTARIA. NORMA QUE NÃO TEM CARÁTER DE LEI FEDERAL. EXAME. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO-COMPROVADO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. É firme a jurisprudência desta Corte no sentido de ser inviável o recurso especial que não infirma os fundamentos do acórdão impugnado, por atrair o óbice da Súmula 283/STF.
+(..)
+5. Recurso especial não conhecido. (REsp 514.153/RN, 5ª T., Rel. Ministro ARNALDO ESTEVES LIMA, DJ de 23.10.2006).
+Quanto à alegação de que os honorários são excessivos, a jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO AO SEBRAE/APEX-BRASIL/ABDI. LEI 11.457/2007. SECRETARIA DA RECEITA FEDERAL DO BRASIL. CENTRALIZAÇÃO. LEGITIMIDADE PASSIVA AD CAUSAM DA FAZENDA NACIONAL. EXIGIBILIDADE DA EXAÇÃO. ACÓRDÃO DE CUNHO CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. AFASTAMENTO OU REDUÇÃO.
+SÚMULA 7/STJ.
+1. Constata-se que não se configura a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente.
+3. Com o advento da Lei 11.457/2007, as atividades referentes à tributação, à fiscalização, à arrecadação, à cobrança e ao recolhimento das contribuições sociais vinculadas ao INSS (art. 2º), bem como as contribuições destinadas a terceiros e fundos, tais como SESI, SENAI, SESC, SENAC, SEBRAE, INCRA, APEX, ABDI, consoante expressa previsão contida no art. 3º, foram transferidas à Secretaria da Receita Federal do Brasil, órgão da União, cuja representação, após os prazos estipulados no seu art. 16, ficou a cargo exclusivo da Procuradoria-Geral da Fazenda Nacional para eventual questionamento quanto à exigibilidade das contribuições, ainda que em demandas cujo objetivo é restituir o indébito tributário.
+4. Dessarte, in casu, a ABDI, a APEX-Brasil e o SEBRAE deixaram de ter legitimidade passiva ad causam para ações que visem à cobrança de contribuições tributárias ou sua restituição, após a vigência da referida lei, que centralizou a arrecadação tributária a um único órgão central.
+5. Verifica-se que a questão referente à exigibilidade da contribuição ao SEBRAE foi enfrentada pelo Tribunal de origem à luz de fundamentos eminentemente constitucionais, o que obsta o reexame da matéria em Recurso Especial.
+6. Por fim, apontando violação ao art. 85 do CPC/2015, a pretensão da ora recorrente é afastar ou reduzir os honorários advocatícios de sucumbência. No entanto, a jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1681414/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 17/10/2017)
+2. Recurso Especial de BV Financeira SA Crédito Financiamento e Investimento
+Afirma a recorrente que o acórdão do Tribunal a quo fixou os honorários advocatícios em valores inferiores a 1% do valor da causa.
+A Corte de origem consignou:
+Nesse sentido, tem-se que a condenação honorária deve atentar para as alíneas do § 3º do artigo 20 do CPC (grau de zelo do profissional, natureza e a importância da causa, bem como o lugar da prestação do serviço, o trabalho realizado e o tempo despendido pelo advogado), não estando o magistrado adstrito aos percentuais mínimo e máximo previstos no aludido dispositivo legal.
+Verifica-se, desta maneira, que o magistrado a quo arbitrou valor razoável a título de honorários advocatícios, pois além de a matéria constante nestes autos não ser de grande complexidade, tanto do ponto de vista teórico quanto procedimental, atingindo seu desfecho em razoável espaço de tempo, sequer houve necessidade de dilação probatória.
+Dessa forma, revela-se adequada a fixação dos honorários em R$ 800,00 (oitocentos reais), considerando a diligência do Procurador, o lugar da prestação de serviço, o trabalho realizado e o tempo decorrido entre o ajuizamento da ação e a entrega da prestação jurisdicional.
+Logo, entende-se que o valor arbitrado bem atende aos critérios de razoabilidade, para remunerar de forma equânime o trabalho desempenhado pelo profissional.
+A irresignação não merece prosperar.
+A jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+Nessa esteira:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO AO SEBRAE/APEX-BRASIL/ABDI. LEI 11.457/2007. SECRETARIA DA RECEITA FEDERAL DO BRASIL. CENTRALIZAÇÃO. LEGITIMIDADE PASSIVA AD CAUSAM DA FAZENDA NACIONAL. EXIGIBILIDADE DA EXAÇÃO. ACÓRDÃO DE CUNHO CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. AFASTAMENTO OU REDUÇÃO. SÚMULA 7/STJ.
+1. Constata-se que não se configura a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente.
+3. Com o advento da Lei 11.457/2007, as atividades referentes à tributação, à fiscalização, à arrecadação, à cobrança e ao recolhimento das contribuições sociais vinculadas ao INSS (art. 2º), bem como as contribuições destinadas a terceiros e fundos, tais como SESI, SENAI, SESC, SENAC, SEBRAE, INCRA, APEX, ABDI, consoante expressa previsão contida no art. 3º, foram transferidas à Secretaria da Receita Federal do Brasil, órgão da União, cuja representação, após os prazos estipulados no seu art. 16, ficou a cargo exclusivo da Procuradoria-Geral da Fazenda Nacional para eventual questionamento quanto à exigibilidade das contribuições, ainda que em demandas cujo objetivo é restituir o indébito tributário.
+4. Dessarte, in casu, a ABDI, a APEX-Brasil e o SEBRAE deixaram de ter legitimidade passiva ad causam para ações que visem à cobrança de contribuições tributárias ou sua restituição, após a vigência da referida lei, que centralizou a arrecadação tributária a um único órgão central.
+5. Verifica-se que a questão referente à exigibilidade da contribuição ao SEBRAE foi enfrentada pelo Tribunal de origem à luz de fundamentos eminentemente constitucionais, o que obsta o reexame da matéria em Recurso Especial.
+6. Por fim, apontando violação ao art. 85 do CPC/2015, a pretensão da ora recorrente é afastar ou reduzir os honorários advocatícios de sucumbência. No entanto, a jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1681414/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 17/10/2017)
+Ante o exposto, não conheço dos Recursos Especiais.
+É como voto.
