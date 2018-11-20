@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BARBARA DE ALENCAR ARARIPE WANDERLEY E OUTROS contra decisão que conheceu do seu recurso especial em razão da aplicação da Súmula 83 do STJ (e-STJ fls. 363/365).
+Alegam os embargantes que a decisão incorreu em contradição, pois os precedentes citados na decisão embargada "entendem como não configurado o julgamento ultra petita nas situações em que os cálculos elaborados pelo contador superam o valor apresentado pelo exequente", enquanto o julgado impugnado entendeu o contrário.
+Requerem seja sanada a contradição e acolhidos os embargos com efeitos modificativos.
+Decurso do prazo para impugnação (e-STJ fl. 378).
+Passo a decidir.
+O art. 1024, § 2º, do CPC/2015 prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo Órgão prolator da decisão embargada e, a teor do art. 1022 do mesmo diploma, são admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, constato o vício alegado.
+De fato, os julgados citados para fundamentar a decisão embargada estão em linha oposta ao acórdão impugnado no apelo especial, pelo que passo a reapreciar o reclamo.
+A Corte Regional entendeu o seguinte (e-STJ fl. 297):
+os valores apurados no laudo pericial (na data da execução do julgado), resultaram em quantias superiores às vindicadas pelos exequentes, razão pela qual deve a quantia a ser pago aos embargados limitar-se ao montante cobrado na inicial da execução, em atenção ao principio da demanda, e sob pena de se incorrer em julgamento ultra petita (CPC, artigo 460).
+Ao limitar o quantum exequendo ao valor pleiteado pelos exequentes - R$ 418.373,37 - afastando o montante apurado pelo perito contábil judicial - R$ 608.084,72 - por entender configurado julgamento ultra petita (e-STJ fl. 297), o aresto recorrido afastou-se da orientação jurisprudencial desta Corte como demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. LIQUIDAÇÃO DE INDENIZAÇÃO. CÁLCULOS ELABORADOS PELO CONTADOR JUDICIAL EM VALOR SUPERIOR AO APRESENTADO PELO EXEQUENTE. JULGAMENTO ULTRA PETITA NÃO CONFIGURADO. DISCUSSÃO QUANTO A SUPOSTO ERRO MATERIAL DOS CÁLCULOS E NECESSIDADE DE NOVA PERÍCIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado. Precedentes: AgRg no REsp. 1.482.653/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 5.11.2014; REsp. 901.126/AL, Rel. Min. JOSÉ DELGADO, DJU 26.03.2007; REsp. 389.190/SC, Rel. Min. CASTRO MEIRA, DJ 13.3.2006; AgRg no Ag 568.509/MG, Rel. Min. LUIZ FUX, DJ 30.9.2004.
+2. A eventual análise da suposta necessidade de nova perícia para a verificação da alegada incorreção dos cálculos realizados pela Contadoria Judicial demandaria inevitável reexame de matéria fático-probatória, vedada em sede de Recurso Especial, nos termos da Súmula 7/STJ.
+3. Agravo Regimental do ESTADO DO ESPÍRITO SANTO desprovido.
+(AgRg no REsp 1.183.264/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 23/08/2016).
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ACOLHIMENTO DO CÁLCULO DO EXPERT. JULGAMENTO ULTRA PETITA NÃO CARACTERIZADO.
+1. A jurisprudência do STJ entende que "o acolhimento dos cálculos do contador judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (AgRg no Ag 1.088.328/SP, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe 16/8/2010).
+2. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." 3. Agravo Regimental não provido.
+(AgRg no AREsp 563.091/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/11/2014, DJe 04/12/2014).
+Com essas considerações, ACOLHO os embargos de declaração para, COM EFEITOS INFRINGENTES, sanar a contradição constatada e, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para restabelecer a sentença de improcedência dos embargos à execução.
+Publique-se. Intimem-se.
