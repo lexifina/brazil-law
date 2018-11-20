@@ -1,0 +1,37 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL EM CONSTRUÇÃO. INADIMPLEMENTO CONTRATUAL. DANO MORAL, NO CASO CONCRETO, NÃO CONFIGURADO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+1. Cuida-se de recurso especial interposto por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S.A., com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE IMÓVEL - ATRASO QUE ULTRAPASSOU O PRAZO DE TOLERÂNCIA DE 180 (CENTO E OITENTA) DIAS - LEGITIMIDADE PASSIVA DA NORCON ROSSI EMPREENDIMENTOS S/A - APLICAÇÃO DA TEORIA DA APARÊNCIA - RESCISÃO CONTRATUAL MOTIVADA PELA MORA DAS RÉS - RESTITUIÇÃO INTEGRAL E IMEDIATA DOS VALORES PAGOS PELA PROMITENTE COMPRADORA - SÚMULA 543 STJ - MULTA MORATÓRIA PREVISTA NO INSTRUMENTO CONTRATUAL - INCIDÊNCIA NO PRESENTE CASO - POSSIBILIDADE DE CUMULAÇÃO COM VERBA INDENIZATÓRIA - DANO MORAL DEVIDO - SÚMULA 12 DO TJSE - FIXAÇÃO DO QUANTUM - RAZOABILIDADE - REDUÇÃO DO MONTANTE DE R$ 10.000,00 (DEZ MIL REAIS) PARA R$ 6.000,00 (SEIS MIL REAIS), DE ACORDO COM OS PARÂMETROS DESTA CORTE DE JUSTIÇA - JUROS DE MORA INCIDENTES SOBRE O VALOR DOS DANOS MORAIS - RELAÇÃO CONTRATUAL - APLICAÇÃO DO ART.
+405 CC - FLUÊNCIA A PARTIR DA CITAÇÃO - ALTERAÇÃO DA SENTENÇA - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS, POR UNANIMIDADE.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 186 e 927, do CC.
+Alega, em síntese, que o mero inadimplemento contratual não enseja indenização por danos morais.
+Contrarrazões ao recurso especial juntadas às fls. 636/650.
+Crivo positivo de admissibilidade na origem (fls. 654/664).
+É o relatório. DECIDO.
+2. Com efeito, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,.
+2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+Cabe ser analisado, portanto, se, no caso concreto, o descumprimento contratual ultrapassou o mero dissabor, devendo-se levar em conta, apenas, as premissas fáticas descritas no acórdão recorrido para que não incida a vedação contida no enunciado n. 7 da Súmula do STJ.
+No caso, o Tribunal local reduziu o valor dos danos morais para R$ 6.000,00 (seis mil reais). Para tanto, adotou fundamentação nos seguintes termos:
+As apelantes insurgem-se, ainda, contra a condenação ao pagamento de indenização por danos morais, argumentando que o atraso na entrega do imóvel . não enseja o dever de indenizar.
+Quanto ao citado ponto, tem-se que esta Corte de Justiça uniformizou seu entendimento a respeito do dano moral decorrente do atraso de entrega de imóvel nos autos do Incidente de Uniformização nº 201300125531, tal como se verifica da redação da Súmula nº 12 deste TJSE, verbis:
+Súmula de nº 12 do TJSE. É devido o dano moral quando houver atraso na entrega de imóvel superior ao prazo de tolerância previsto no contrato, salvo prova de caso fortuito e força maior, ainda que haja cláusula contratual prevendo a multa moratória, devendo a casuística ser verificada na sua quantificação; quanto aos lucros cessantes devem ser comprovados em cada caso.
+Segundo restou decidido, é devido dano moral na hipótese de atraso na entrega de imóvel superior ao prazo de tolerância previsto no contrato, somente podendo ser afastado quando comprovada hipótese de caso fortuito ou força maior, o que não ocorreu nestes autos.
+Não há, pois, como afastar a condenação das acionadas ao pagamento da indenização respectiva, razão pela qual passo a analisar o pleito subsidiário de redução do quantum indenizatório.
+Ao apreciar os embargos de declaração, o Tribunal estadual ainda consignou que:
+Ora, basta uma análise mais atenta do Acórdão fustigado para se perceber que toda a matéria apresentada nos autos foi exaustivamente apreciada.
+Com efeito, no julgado, foi aplicada a Súmula nº 12 do TJSE, que assevera ser devida a indenização por danos morais no caso de atraso na entrega de imóvel superior ao prazo de tolerância previsto no contrato, salvo prova de caso fortuito ou força maior. Nesse caso, o dano moral é presumido, não havendo que se falar em comprovação. Por outro lado, não se constatou a presença das excludentes de responsabilidade acima mencionadas (caso fortuito e força maior).
+Nota-se que a Corte local deixou de apontar, concretamente, situação específica, desvinculada dos normais aborrecimentos da parte que não recebe o imóvel no prazo contratual, circunstância incapaz de gerar dor e sofrimento indenizável. Em tais condições, impõe-se o afastamento da indenização por danos morais.
+3. Ante o exposto, pelas razões ora expendidas, conheço e dou provimento ao recurso especial, para afastar a indenização fixada a título de danos morais.
+Diante da sucumbência recíproca, fixo os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa e distribuo a responsabilidade pelo pagamento dos ônus sucumbenciais na proporção de 50% (cinquenta por cento) para cada parte, devendo ser respeitada, se for o caso, a regra do artigo 98, § 3º, do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
