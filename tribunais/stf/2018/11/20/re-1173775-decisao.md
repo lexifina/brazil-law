@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de Alagoas concedeu a segurança, assentando a inconstitucionalidade de lei estadual que fixou subteto. No extraordinário, o recorrente aponta a violação do artigos 93, inciso IX, 97 e 169, parágrafos 1º e 3º, da Constituição Federal. Argui a nulidade do acórdão recorrido por ausência de fundamentação. Discorre sobre a legislação de regência. Diz da limitação orçamentária para despesa de pessoal.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário.
+    Quanto à evocação do enquadramento do extraordinário na alínea “d” do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei local contestada em face de lei federal.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão impugnado:
+    24. Não se aplicando a limitação imposta pela Lei Estadual n° 7.348/2012, por força dos argumentos invocados, e não havendo compatibilidade desta espécie normativa com a disposição no art. 37, §12, da Constituição Federal, não tenho dúvida de que os proventos dos impetrantes estão delimitados pelo subsídio dos Deputados Estaduais.
+    25. Nesse diapasão, o Órgão Plenário deste Tribunal de Justiça já declarou a inconstitucionalidade do art. 2° da Lei Estadual n° 7.34812012 que fixou como subteto o subsídio de Diretor Geral e/ou do Coordenador Geral para Assuntos Legislativos da Assembleia Alagoana, pelo que se faz desnecessário suspender o curso desta ação e instaurar novo incidente acerca da compatibilidade do dispositivo ao texto constitucional, uma vez que já houve Decisão acerca dessa matéria, em conformidade com o parágrafo único do artigo 949 do CPC/2015.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário interposto pelo Ministério Público do Estado de Alagoas.
+    4. Publiquem.
+Brasília, 20 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
