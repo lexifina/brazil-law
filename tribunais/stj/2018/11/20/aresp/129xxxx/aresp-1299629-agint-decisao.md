@@ -1,0 +1,19 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE JUNTADA DE CÓPIAS DO PROCESSO PRINCIPAL NÃO APRECIADO. PODER GERAL DE CAUTELA. GARANTIA DA AMPLA DEFESA E DO CONTRADITÓRIO. PARTICULARIDADES DO PROCESSO. NULIDADE DO ACÓRDÃO RECONHECIDA. OMISSÃO VERIFICADA. AGRAVO INTERNO DO PARTICULAR PROVIDO PARA RECONHECER A OMISSÃO APONTADA, DETERMINANDO O RETORNO DOS AUTOS À ORIGEM.
+1. Trata-se de Agravo Interno interposto por [NOME] em face da decisão proferida pelo Ministro Presidente, que não conheceu do seu Agravo em Recurso Especial por deserção.
+2. Nas razões do recurso, o agravante sustenta que já foi beneficiado com a Justiça Gratuita pelo Juízo de origem, não havendo necessidade de apresentar novo pedido nas instâncias superiores.
+3. É o relatório.
+4. Merecem acolhimento as alegações da parte agravante, sendo impositiva a reconsideração do decisório agravado.
+5. Isto porque a Corte Especial em 26.2.2015, no julgamento do EAREsp 86.915/SP, firmou entendimento no sentido de que uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50. Confira-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4o., 6o. E 9o.). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção. (AgRg nos EAREsp 86.915/SP, Rel. Min. RAUL ARAÚJO, DJe 4.3.2015).
+6. Assim, passo a análise do Recurso Especial interposto.
+7. Insurge-se o recorrente contra acórdão do Tribunal Regional Federal que reconheceu a tempestividade da impugnação aos Embargos, ao fundamento de que o termo inicial para a contagem do prazo recursal é a última republicação, mas impediu a juntada das cópias extraídas dos autos principais.
+8. Verifica-se, da leitura dos autos, que de fato o autor em seu Agravo de Instrumento requer o reconhecimento da tempestividade da impugnação dos Embargos, bem como a juntada das peças do processo principal.
+9. Assim, deveria a Corte de origem se manifestar sobre o pedido do autor, uma vez reconhecida a tempestividade da peça recursal, incumbiria à Corte a análise do pedido subsequente, uma vez que no Juízo de origem tal pedido não foi analisado em razão da decretação de intempestividade. Contudo, mesmo provocada por Embargos de Declaração, o acórdão permanece omisso.
+10. Nestes termos, impõe-se reconhecer a alegada violação ao art. 535 do CPC/1973, devendo os autos retornar à origem para sanar a omissão apontada.
+11. Ante o exposto, dá-se provimento ao Agravo Interno do Particular para reconhecer a nulidade apontada no acórdão recorrido, determinando o retorno dos autos à origem para que prossiga no julgamento do feito, esclarecendo a omissão aqui reconhecida.
+12. Publique-se. Intimações necessárias.
