@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão em que dei parcial provimento ao recurso especial interposto pela embargada, para determinar a apuração, na fase de cumprimento da sentença, do índice de reajuste adequado a ser aplicado ao contrato em discussão nos autos, nos moldes em que decidiu a Segunda Seção no RESP 1.280.211/SP.
+Em seu recurso, os embargantes sustentam existência de omissões e contradições, visto que as decisões das instâncias ordinárias determinaram o reajuste das mensalidades do plano de saúde que aderiram, no percentual determinado pela Agência Nacional de Saúde Suplementar - ANS para o período (13,55%).
+Aduzem que a redistribuição dos ônus de sucumbencial foi desproporcional já que a decisão foi favorável ao pleito dos autores.
+A parte embargada, regularmente intimada, não apresentou impugnação.
+Não se verifica as omissões apontadas, devendo-se manter o acórdão recorrido pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pelo embargante, circunstância que não eiva o acórdão de nulidade.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+A decisão embargada foi clara ao pontuar que o acórdão de origem merecia reforma em razão do contrato objeto da ação ser coletivo, já que a compreensão desta Corte Superior é de que a "operadora de plano de saúde não pode ser obrigada a revisar os preços das contribuições anuais dos planos coletivos segundo os índices autorizados pela ANS para os contratos individuais, sobretudo porque os cálculos atuariais e a massa de beneficiários são distintos. Aplicação do Enunciado nº 22 da I Jornada de Direito da Saúde" (AgInt no REsp 1719884/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 3/5/2018).
+ Os apontados vícios, além de inexistentes, objetivam na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Por fim, em que pese o não acolhimento dos embargos, a sua oposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei.
+Em face do exposto, rejeito os embargos, nos termos do acima exposto.
+Intimem-se.
