@@ -1,0 +1,49 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GAFISA SPE-122 EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Compromisso de compra e venda - Rescisão contratual por culpa do comprador - Retorno ao "status quo" devido por meio da devolução de parte dos valores pagos - Cláusulas que determinam retenção de mais de 30% dos valores pagos, consideradas abusivas - Devolução das parcelas pagas devidamente corrigidas e com incidência dos juros legais desde a citação, conforme art. 405 do CC - Sucumbência recíproca mantida - Motivação da sentença que é adotada como razão de decidir em Segundo Grau - Aplicação do art. 252, do Novo Regimento Interno do Tribunal de Justiça - Recurso parcialmente provido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 394, 427 e 884, do CC.
+Alega, em síntese, que a decisão recorrida viola o princípio do "pacta sunt servanda", podendo gerar um enriquecimento sem causa. Defende que devem ser mantidas as cláusulas livremente estabelecida entre as partes, especialmente aquelas que versam sobre a sistemática de restituição de quantias pagas.
+Por fim, defende que o termo inicial dos juros moratórios seria o trânsito em julgado da decisão.
+É o relatório. DECIDO.
+2. Com efeito, a jurisprudência do Superior Tribunal de Justiça tem considerado razoável que o percentual de retenção dos valores pagos pelo promitente comprador - que deu causa à rescisão contratual - seja arbitrado entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias de cada caso.
+Para tanto, devem ser avaliados os prejuízos suportados, notadamente com "as despesas administrativas havidas com a divulgação, comercialização e corretagem, o pagamento de tributos e taxas incidentes sobre o imóvel e a eventual utilização do bem pelo comprador" (REsp n. 1.224.921/PR, Relatora Ministra Nancy Andrighi, TERCEIRA TURMA, julgado em 26/4/2011, DJe 11/5/2011).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 10%. RAZOABILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga.
+2. Em se tratando de resolução pelo comprador de promessa de compra e venda de imóvel em construção, ainda não entregue no momento da formalização do distrato, bem como em se tratando de comprador adimplente ao longo de toda a vigência do contrato, entende-se razoável o percentual de 10% a título de retenção pela construtora dos valores pagos, não se distanciando do admitido por esta Corte Superior.
+3. É abusiva a disposição contratual que estabelece, em caso de resolução do contrato de compromisso de compra e venda de imóvel pelo comprador, a restituição dos valores pagos de forma parcelada.
+4. Agravo interno não provido.
+(AgRg no AREsp n. 807.880/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/4/2016, DJe 29/4/2016.)
+No caso, o Tribunal de origem, soberano na análise do material cognitivo dos presentes autos, concluiu que o percentual de retenção de 20% (vinte por cento) sobre os valores pagos bastaria para indenizar a recorrente pelos prejuízos oriundos da resilição contratual, conforme se extrai dos seguintes excertos:
+A retenção integral dos valores pagos por parte da ré é obstada pelo art. 53 do Código de Defesa do Consumidor, que garante a este o direito de arrependimento.
+No entanto, autorizada a retenção de uma porcentagem pelo fornecedor a título de cláusula penal no caso de rescisão contratual por culpa do comprador, nos termos da Súmula nº 1 editada por este Egrégio Tribunal de Justiça, a qual dispõe que:
+ .. .
+E, com efeito, afigura-se razoável que a retenção se dê no patamar de 20% (vinte por cento) dos valores pagos para a reparação adequada dos prejuízos sofridos, abaixo inclusive do que arbitrou a r. sentença, considerando-se abusiva determinação contratual em contrário.
+Assim, nota-se que o Tribunal a quo, ao fixar o percentual de retenção em 20% (vinte por cento) dos valores pagos pelo recorrido - considerando as peculiaridades da causa -, observou os parâmetros jurisprudenciais adotados nesta Corte Superior. Aplica-se, portanto, a Súmula n. 83/STJ como óbice ao recurso.
+3. Ademais, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, ante a incidência das Súmulas n. 5/STJ e 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO POR INICIATIVA DO COMPRADOR. DEVOLUÇÃO DOS VALORES PAGOS. PERCENTUAL DE RETENÇÃO POR PARTE DO VENDEDOR. ABUSIVIDADE DA CLÁUSULA. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ.
+1. Em face da desistência do comprador, impõe-se a devolução dos valores pagos, com a retenção de percentual destinado à indenização da empresa vendedora, arbitrado na origem dentro dos parâmetros aceitos pela jurisprudência da Corte e cujo reexame encontra óbice nas Súmulas 5 e 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 791.197/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/11/2015, DJe 3/12/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. RESCISÃO DE CONTRATO. RETENÇÃO DOS VALORES PAGOS. PERCENTUAL DENTRO DOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. REEXAME. INCIDÊNCIA DAS SÚMULA 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 701.969/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/2/2017, DJe 2/3/2017.)
+4. Por fim, esta Corte Superior firmou o entendimento de que, nas hipóteses em que a resolução do contrato se dá em decorrência do inadimplemento do promitente comprador e a restituição das parcelas pagas ocorre de forma diversa da cláusula penal convencionada, o termo inicial dos juros moratórios é a data do trânsito em julgado da decisão que determina a resolução contratual, haja vista que não há mora em momento anterior da promitente vendedora.
+A propósito:
+AGRAVOS INTERNOS. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AQUISIÇÃO DE UNIDADE HABITACIONAL. REGIME DA INCORPORAÇÃO IMOBILIÁRIA. RESOLUÇÃO JUDICIAL DO CONTRATO POR INICIATIVA DA CONSTRUTORA. INADIMPLEMENTO DO CONSUMIDOR. DIREITO À RESTITUIÇÃO IMEDIATA DAS PARCELAS. PAGAS. SÚMULA 543/STJ. JUROS DE MORA TERMO "A QUO". DATA DO TRÂNSITO EM JULGADO. JULGADOS DESTA CORTE. PRAZO DE 15 DIAS DO ART. 475-J DO CPC/1973. AUSÊNCIA DE SUSPENSÃO DE EFICÁCIA DA SENTENÇA.
+1. Controvérsia acerca do termo "a quo" dos juros de mora no âmbito do cumprimento de sentença que julgou procedente pedido de resolução do contrato em função do inadimplemento do promitente comprador.
+(..)
+4. Incidência de juros de mora a partir do trânsito em julgado, na linha da jurisprudência desta Corte Superior.
+5. Eficácia restitutória da resolução do contrato, aplicável em benefício das duas partes do contrato, como consequência imediata da desconstituição do vínculo contratual.
+6. Ausência de suspensão da eficácia da sentença durante o decurso do prazo de 15 dias previsto no art. 475-J do CPC/1973. 7. AGRAVOS INTERNOS DESPROVIDOS. (AgInt no REsp 1596064/RJ, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 07/03/2017, DJe 16/03/2017)
+DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+(..)
+4. Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido. (REsp 1211323/MS, Rel. Min. Luiz Felipe Salomão, Quarta Turma, julgado em 01/10/2015, DJe 20/10/2015)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. PROMESSA. COMPRA E VENDA. DESISTÊNCIA. PROMITENTE COMPRADOR. VALORES PAGOS. RESTITUIÇÃO. RETENÇÃO. 25% (VINTE E CINCO POR CENTO). JUROS DE MORA. TERMO INICIAL. DECISÃO JUDICIAL. PARCIAL PROVIMENTO.
+(..)
+3. "Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão." (REsp 1008610/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 26/03/2008, DJe 03/09/2008).
+4. Agravo regimental a que se dá parcial provimento. (AgRg no REsp n. 927.433/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/2/2012, DJe 28/2/2012)
+Desse modo, tendo em vista que o acórdão recorrido adotou a data da citação como o termo inicial dos juros de mora no caso resolução por culpa dos adquirentes, torna-se imperiosa a sua reforma para que seja adotada a data do trânsito em julgado da decisão.
+5. Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, a fim de fixar a data do trânsito em julgado da decisão como o termo inicial dos juros de mora.
+Publique-se. Intimem-se.
