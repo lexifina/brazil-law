@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da decisão de fl. 59 (e-STJ), foi determinado que autor emendasse a petição inicial da presente ação rescisória, no sentido de que fossem juntadas, aos autos, a cópia da decisão rescindenda e a cópia da respectiva certidão de trânsito em julgado, fosse indicado o dispositivo de lei entendido como literalmente violado e fosse demonstrada a prova ignorada ou não utilizada, obtida após o trânsito em julgado, capaz de assegurar pronunciamento favorável.
+É o breve relatório. Decido.
+A petição inicial da presente ação rescisória deve ser indeferida. Isso porque, ainda que o autor tenha providenciado a juntada das cópias requeridas, furtou-se a indicar o dispositivo que entende ter sido literalmente violado pela decisão rescindenda, porquanto se limitou a expor que " ..  o acórdão prolatado por Este Egrégio Tribunal Superior, fere dispositivo legal, quando aplica a Lei 9.636/98 a negócio jurídico realizado antes da sua vigência" (e-STJ fl. 76). Ademais, sobreleva notar que autor também não explicitou os motivos pelos quais entende que o documento de fl. 76 (e-STJ) se encaixa nos ditames do art. 966, VII, do CPC/2015.
+Ante o exposto, indefiro a petição inicial (art. 330, I, do CPC/2015) e julgo extinta a ação rescisória, sem exame de mérito, nos termos dos arts. 485, I, do CPC/2015.
+Outrossim, deixo de fixar honorários advocatícios a título de sucumbência em razão de a relação processual não ter sido aperfeiçoada.
+Publique-se.
