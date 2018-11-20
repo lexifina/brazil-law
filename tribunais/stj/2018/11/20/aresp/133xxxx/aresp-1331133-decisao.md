@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 370 do Código de Processo Civil e 2º do Código de Defesa do Consumidor, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 573):
+APELAÇÃO CÍVEL - AÇÃO DE EMBARGOS À EXECUÇÃO - PRELIMINAR CONTRARRECURSAL: AFRONTA AO PRINCÍPIO DA DIALETICIDADE - NÃO VERIFICADA - PRELIMINAR RECURSAL: CERCEAMENTO DE DEFESA - NECESSIDADE DA REALIZAÇÃO DE PERÍCIA CONTÁBIL EXPRESSAMENTE REQUERIDA - PEDIDO DE INVERSÃO DO ÔNUS DA PROVA NÃO APRECIADO - SENTENÇA INSUBSISTENTE - RECURSO CONHECIDO E PROVIDO.
+1 - Havendo combate direto à fundamentação da sentença recorrida, impõe-se o conhecimento do recurso, afastando-se a preliminar de não observância do princípio da dialeticidade.
+2 - A ausência de manifestação ao pedido de inversão de ônus da prova caracteriza cerceamento de defesa. Havendo pedido expresso na inicial acerca da produção de prova pericial, não pode o magistrado singular julgar antecipadamente a lide, sob pena de cerceamento de defesa.
+2 - Cabe ao juiz, como dirigente do processo e prestador da tutela jurisdicional, a análise do conjunto argumentativo e da realidade concreta do feito, para medição equilibrada da pertinência das provas requeridas, a fim de que possa, com segurança e razoabilidade, denegar vias instrutórias que se mostrem protelatórias ou inúteis para o deslinde da questão, assegurando os direitos constitucionalmente previstos.
+3 - Na hipótese, o julgamento sem a realização de perícia contábil expressamente requerida pelos embargantes necessária ao deslinde da controvérsia, configura cerceamento do direito de defesa.
+Sustenta o agravante, em síntese, que é desnecessária a produção de prova pericial, uma vez que os documentos juntados à inicial permitem que o julgador analise o conteúdo das cláusulas contratuais e eventual abusividade.
+Afirma, ademais, que não incide o Código de Defesa do Consumidor no caso dos autos.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, anoto que as instituições financeiras estão submetidas aos princípios e regras do Código de Defesa do Consumidor, conforme cada situação, de acordo com a reiterada jurisprudência do STJ (enunciado n. 297 da Súmula).
+No mérito, registro que é firme a jurisprudência desta Corte no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade, ou não, de dilação probatória, tendo em vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de especial, ao teor do enunciado n. 7 da Súmula deste Tribunal. Nesse sentido, confira-se:
+PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. TÍTULO EXECUTIVO JUDICIAL. LIQUIDEZ. COISA JULGADA. JULGAMENTO ANTECIPADO DA LIDE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PRINCÍPIO DA LIVRE APRECIAÇÃO DA PROVA. HONORÁRIOS ADVOCATÍCIOS NA FASE DE CUMPRIMENTO DE SENTENÇA. RAZOABILIDADE DO VALOR ARBITRADO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA.
+I - A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+II - A higidez do título executivo judicial foi discutida na exceção de pré-executividade anteriormente manejada e na qual já sobreveio decisão definitiva transitada em julgado.
+III - Compete às instâncias ordinárias exercer juízo acerca da necessidade ou não de dilação probatória e da possibilidade de julgamento antecipado da lide, haja vista sua proximidade com as circunstâncias fáticas da causa e o conjunto probatório constante dos autos, cujo reexame é vedado em sede de especial (Súmula 07/STJ).
+IV - Muito embora o capítulo do cumprimento de sentença seja omisso quanto à fixação da verba honorária, a interpretação sistemática e teleológica da norma conduz ao entendimento de que é cabível arbitramento de honorários. No caso dos autos, vale registar, a verba foi arbitrada com razoabilidade.
+V - Caracterizada objetivamente conduta protelatória da parte, de rigor a manutenção da multa fixada com fundamento no artigo 538 do Código de Processo Civil.
+VI - Recurso Especial improvido.
+(REsp 1.134.973/ES, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 1º.7.2010)
+Dessa forma, observo que rever a conclusão do acórdão recorrido, que acolheu a preliminar de cerceamento de defesa no presente caso, demandaria o reexame do acervo fático, procedimento que, em sede especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
