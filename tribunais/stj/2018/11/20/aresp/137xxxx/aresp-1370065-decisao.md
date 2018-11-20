@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME], contra decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+CUMPRIMENTO DE SENTENÇA Apuração de diferenças de aluguel devidas pelo locador Questão que se arrasta há anos Nomeação de perito contábil para apresentação de novo laudo, fixados honorários provisórios de R$ 4.900,00, a cargo do locador Decisão que não comporta modificação, à luz dos elementos constantes dos autos Perícia requerida pelo locador Estimativa dos honorários devidamente fundamentada Agravo de instrumento não provido. (fl. 146)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões de seu especial, o recorrente aponta violação aos arts. 33, do CPC/1973, insurgindo-se contra a obrigação pelo pagamento dos honorários periciais; aduz, que não tendo a recorrida a certeza dos valores apresentados, deveria arcar com o pagamento da verba pericial; que sendo a perícia determinada pelo juízo, compete a parte autora/recorrida ao pagamento dos honorários periciais; em caráter subsidiário, postula que a verba do perito seja rateada entre as partes, nos termos do art. 95 do CPC/2015; aduz, ofensa aos arts. 465, §3º do CPC/2015, uma vez que caberia ao perito estimar seus honorários, mas não provisórios, a fim de evitar questionamentos futuros e/ou surpresas processuais quanto aos valores a serem pagos somente após os trabalhos da perícia, sob pena de delongar e tumultuar o processo.
+Decido.
+2. Acerca da controvérsia, dispôs o acórdão recorrido:
+Ao contrário do alegado pelo agravante, não foi a agravada quem requereu a perícia contábil. Aliás, pelo que se extrai da petição digitalizada a fls. 19/21, a agravada se posicionou sobre não ser necessária a perícia.
+O agravante, ao contrário, na petição digitalizada a fls. 22/50, que encarna a impugnação que apresentou aos cálculos das diferenças de aluguel, apontou a necessidade da realização de prova pericial (fl. 48).
+Portanto, pelo fato de a perícia ter sido requerida pelo agravante, que é também quem deve as diferenças de aluguel, bem assim pelo fato de ter impugnado os cálculos, tanto os da agravada, como os da contadoria judicial, além de um primeiro laudo contábil apresentado nos autos, justo e correto que suporte as despesas com a produção da prova pericial determinada, irrelevante o fato de, em um primeiro momento, esse ônus ter sido carreado à agravada.
+No que toca aos honorários provisórios arbitrados em R$ 4.900,00, o que se tem é que o perito fundamentou a estimativa apresentada, tanto do trabalho a ser desenvolvido, como do tempo necessário para sua execução
+Vale lembrar que as partes digladiam sobre os cálculos há muitos anos e se mostraram incapazes de chegar a um consenso.
+De resto, o D. Juízo "a quo" deixou assentado no "decisum" que eventual pleito de complementação dos honorários por parte do perito, depois de apresentado o laudo, merecerá a devida apreciação. (fl. 148-149)
+No ponto, o acolhimento da pretensão veiculada no apelo especial, no sentido de que a perícia tivesse sido determinada pelo juízo, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Demais disso, a decisão da Corte estadual encontra-se em harmonia com a jurisprudência sedimentada neste Sodalício, no sentido de que as despesas endoprocessuais devem ser suportadas pela parte sucumbente, razão pela qual os honorários do perito e do assistente técnico devem ser adiantados pela parte que houver requerido a realização da perícia e ressarcidos pelo vencido ao final da demanda.
+Nesse sentido, confira os julgados a seguir:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVAS. HONORÁRIOS DE PERITO. VIOLAÇÃO DOS ARTS. 20, § 2º E 33 DO CÓDIGO DE PROCESSO CIVIL DE 1973. OBSERVÂNCIA AO PRINCÍPIO DA SUCUMBÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Em atenção ao princípio da sucumbência, os honorários periciais devem ser adiantados pela parte que houver requerido a realização da perícia, e ressarcidos, ao final da demanda, pelo vencido.
+2. Agravo interno não provido.
+(AgInt no REsp 1590794/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, DJe 06/09/2016)
+AGRAVO REGIMENTAL - AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA CASA BANCÁRIA.
+1. Em observância ao princípio da sucumbência, devem os honorários do assistente técnico ser adiantados pela parte que os indicar e ressarcidos, ao final do processo, pelo vencido na demanda.
+Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1131213/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/04/2013, DJe 18/04/2013)
+PROCESSUAL - ANTECIPAÇÃO DE HONORÁRIOS DE PERITO - EXIGIBILIDADE DE DEPÓSITO DEFINITIVO - SENTENÇA FINAL - TRÂNSITO EM JULGADO - DISTRIBUIÇÃO DOS ÔNUS DA SUCUMBÊNCIA - VIOLAÇÃO AOS ARTS. 19 E 33 DO CPC.
+1. O depósito dos valores referentes a honorários periciais antecipados pela parte que requereu a perícia é exigível do vencido a partir do trânsito em julgado da decisão final proferida no processo, conforme a teoria da sucumbência, adotada pelo CPC.
+2. Cassação da decisão determinando depósito da verba honorária após a sentença e antes do fim do prazo de recurso, sem que esteja definitivamente determinada a parte que tem razão.
+3. Recurso especial provido.
+(REsp 1067595/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 20/11/2008, DJe 12/12/2008)
+Assim, tenho por incidente a Súmula nº 83/STJ, que veda o conhecimento do recurso especial quando o acórdão recorrido estiver alinhado com o entendimento do Superior Tribunal de Justiça.
+4. Por fim, verifico que os temas insertos nos arts. 95 e 465, §3º do CPC/2015, não vislumbro a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação.
+Ressalto que para a análise da admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano de que forma se deu a suposta vulneração do dispositivo legal pela decisão recorrida, o que não ocorreu na hipótese, sendo certo que, no caso em exame, caracterizou-se deficiência de fundamentação, sendo de rigor a incidência da Súmula 284 do STF. "E inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+5. Ante o exposto, nego provimento ao recurso especial.
