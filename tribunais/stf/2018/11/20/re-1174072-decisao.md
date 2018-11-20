@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Superior do Trabalho negou provimento ao recurso de revista, e subsequentes, aludindo, em síntese, à respectiva inviabilidade. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 37, inciso X, e 125, § 2º, da Constituição Federal.
+    2. Uma vez em jogo controvérsia sobre cabimento de recurso da competência de Corte diversa, a via do extraordinário só é aberta quando o acórdão proferido revela tese contrária a texto da Carta da República. Isso não ocorreu na espécie.
+    Eis os fundamentos da decisão proferida pelo Tribunal Superior do Trabalho:
+    Conforme exposto no acórdão recorrido, por meio da análise da legislação municipal em discussão, constata-se que o reclamado teve a intenção de conceder aos seus servidores reajuste salarial, conforme determina o art. 37, X, da Constituição Federal. No entanto, para se esquivar dos efeitos do reajuste salarial, denominou o reajuste de abono. Concernente conclusão é corroborada em face da previsão legal de incorporação anual dos abonos concedidos aos servidores.
+    Em decorrência da incorporação de tais valores fixos aos vencimentos dos servidores, o reclamado promoveu reajustes em percentuais diferenciados. Tem-se, dessa forma, o reconhecimento de que os denominados abonos concedidos pelo reclamado são, a rigor, reajustes e, portanto, deveriam ter sido concedidos de forma linear, aspecto que escapa à tese jurídica inscrita na Súmula nº 339 do Supremo Tribunal Federal, que expõe o entendimento segundo o qual “não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia”, o que não é a hipótese dos autos. Afasta-se, daí, a arguição de que estaria ocorrendo concessão de reajuste pelo Poder Judiciário, pois, na espécie, opera-se correção de uma distorção, aplicando-se a norma constitucional.
+    Portanto, correta a decisão recorrida no sentido de que a incorporação de abonos fixos aos vencimentos de todos os servidores indistintamente teria gerado distorções entre as referências do quadro de carreira, fazendo transparecer a verdadeira intenção do Município de promover reajustes em percentuais diferenciados, violando o art. 37, X, da Constituição Federal.
+    Em momento algum, foi adotado entendimento conflitante com a Constituição Federal. A alegação de ofensa ao Diploma Maior apenas visa a deslocar o processo ao Supremo, mostrando-se de todo imprópria.
+    A par desse aspecto, no recurso extraordinário nº 598.365/MG, da relatoria do ministro Ayres Britto, o denominado Plenário Virtual, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema relativo ao cabimento de recursos da competência dos demais tribunais.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
