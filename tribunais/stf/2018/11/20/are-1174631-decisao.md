@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 150, § 7º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 150, § 7º, da Constituição da República. Nesse sentido:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. OFENSA CONSTITUCIONAL REFLEXA. PRECEDENTES. 1. O Tribunal de origem solucionou a controvérsia com fundamento na legislação infraconstitucional e no conjunto fático e probatório, o que não enseja a abertura da via extraordinária. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1078502 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 27/04/2018, PROCESSO ELETRÔNICO DJe-090 DIVULG 09-05-2018 PUBLIC 10-05-2018)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IPI. BASE DE CÁLCULO. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I – O recurso extraordinário contém alegação de ofensa indireta ou reflexa à Constituição, pois a análise da exclusão do valor referente ao ICMS, da base de cálculo do IPI, demandaria a interpretação de legislação infraconstitucional, análise inviável nesta sede recursal. II – Agravo regimental a que se nega provimento.” (RE 915828 AgR, Relator(a):Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 21/08/2017, ACÓRDÃO ELETRÔNICO DJe-195 DIVULG 30-08-2017 PUBLIC 31-08-2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IPI. ALTERAÇÃO DE ALÍQUOTAS. DECRETO EXECUTIVO. MOTIVAÇÃO DE ATO ADMINISTRATIVO. 1. O deslinde da controvérsia acerca da motivação da majoração de alíquota do IPI por ato do Poder Executivo federal cinge-se ao âmbito infraconstitucional. 2. Agravo regimental a que se nega provimento.” (RE 600509 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 15/03/2016, ACÓRDÃO ELETRÔNICO DJe-097 DIVULG 12-05-2016 PUBLIC 13-05-2016)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
