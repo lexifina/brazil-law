@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MULTA. CARÁTER CONFISCATÓRIO. REPERCUSSÃO GERAL RECONHECIDA PELO STF (RE 640.452/RO E RE 882.461). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM PARA OBSERVÂNCIA DO DISPOSTO NO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto por BATERIAS CARIOCA LTDA., com fundamento no art. 105, III, alíneas a e c da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada (fls. 232).
+2. Nas razões recursais (fls. 239/252), a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 156, V do CTN, sob a alegação de que, uma vez que retificada a ocorrência da prescrição, extinto encontra-se o crédito tributário ora exequendo e consequentemente, extinta a execução fiscal (fls. 245).
+3. Afirma, no tocante à divergência aventada, que o acórdão recorrido deu interpretação divergente ao art. 150, IV da CF, tendo em vista o valor abusivo cobrado a título de multa nos autos, eis que está a ferir os limites constitucionais permissivos, causando enormes prejuízos a pequena empresa ora recorrente (fls. 251). Requer, no ponto, o reconhecimento do caráter confiscatório incidente na multa aplicada.
+4. Com contrarrazões (fls. 263/265) o recurso foi admitido (fls. 268).
+5. É o breve relatório.
+6. Verifica-se que, nos autos, há discussão de tema objeto de repercussão geral perante o STF (RE 640.452/RO e RE 882.461/MG).
+7. Com efeito, embora a existência de repercussão geral pela Corte Suprema não imponha o sobrestamento do Recurso Especial em matéria idêntica, inexiste óbice a que esta Corte determine a devolução dos autos à origem para a observância do art. 1.040 do Código Fux.
+8. Assim, encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado (AgInt no REsp. 1.366.363/ES, Rel. Min. OG FERNANDES, DJe 23.8.2017). Confira-se, ainda:
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+2. A parte agravante não logrou demonstrar, no caso concreto, a ausência de similitude entre o tema trazido em seu especial e o tema pendente de julgamento no STF com repercussão geral, pelo que se impõe a manutenção do sobrestamento ora combatido.
+3. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp. 1.589.873/CE, Rel. Min. SÉRGIO KUKINA, DJe 22.8.2017).
+9. Ante o exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação dos acórdãos dos Recursos Extraordinários citados, a Corte de origem proceda a novo juízo de admissibilidade, nos termos do art. 1.040 do Código Fux.
+10. Publique-se. Intimações necessárias.
