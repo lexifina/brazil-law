@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. DECISÃO AGRAVADA NÃO ATACADA ESPECIFICAMENTE. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. A parte agravante deixou de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois mais uma vez não impugnou especificamente os fundamentos da decisão agravada, que não conheceu do Agravo em Recurso Especial.
+2. O recorrente limita-se a sustentar, genericamente, que, "tendo apresentado argumentos suficientes para reverter a decisão recorrida, não há razão para se falar em ausência de impugnação específica". Tal afirmação, todavia, não pode ser considerada impugnação específica para fins de superação do enunciado da Súmula 182/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. A ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravo"), que está em consonância com a redação atual do CPC/2015 em seu art. 1.021, § 1º.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Agravo Interno interposto contra decisão monocrática da Presidência do STJ (fls. 563-564, e-STJ), que não conheceu do Agravo em Recurso Especial, em virtude da ausência de impugnação específica de todos os fundamentos da decisão agravada.
+O agravante alega, em breve síntese: "a necessidade de impugnação específica está associada à idéia de supressão de instância. Ao criar o ônus da impugnação, o legislador quis evitar que o Agravo não passasse de uma reiteração dos termos do Recurso Especial, e não que a parte contemplasse de forma abrangente as razões do despacho de admissibilidade".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8.8.2018.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+A parte agravante deixou de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois mais uma vez não impugnou especificamente os fundamentos da decisão agravada, que não conheceu do Agravo em Recurso Especial.
+Nas razões do presente Agravo Interno, a recorrente limita-se a sustentar, genericamente, que, "tendo apresentado argumentos suficientes para reverter a decisão recorrida, não há razão para se falar em ausência de impugnação específica". Tal afirmação, todavia, não pode ser considerada impugnação específica para fins de superação do enunciado da Súmula 182/STJ.
+A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. O Tribunal local concluiu, após a análise do acervo probatório dos autos, ser devida a indenização por danos morais no presente caso, uma vez que o médico agiu com culpa, sendo negligente ao não investigar com maior cautela a paciente, não vislumbrando a extensão do problema, o que acarretou na morte da mesma. Alterar o entendimento do acórdão recorrido demandaria reexame do conjunto fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF. 2.1. Na hipótese, não foi apontada violação do artigo 535 do CPC/73, vigente à época, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+3. Incidência da Súmula 182 do STJ e do teor do artigo 1.021, § 1º, CPC/15, quanto às teses de redução da verba indenizatória e dos honorários advocatícios. Razões do agravo interno que não impugnam os fundamentos da decisão monocrática nos referidos pontos, quais sejam: Súmula 284 do STF e Súmulas 7 e 83/STJ.
+4. Agravo interno parcialmente conhecido e, nesta extensão, desprovido. (AgInt no AREsp 1.144.218/PI, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 8.3.2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial desta Corte Superior na redação da Súmula nº 182/STJ.
+3. Agravo interno não conhecido. (AgInt no AREsp 1.174.511/RS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 8.3.2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. De acordo com os arts. 557, § 1º-A, do CPC de 1973 e 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. No caso, o insurgente limita-se a sustentar a majoração do quantum indenizatório fixado e a alegar de forma digressiva o afastamento da Súmula 7 desta Corte, sem trazer nenhuma impugnação ao argumento do decisum que não conheceu do apelo nobre, no ponto, com base na Súmula 284/STF.
+3. Não é cabível nesta via a majoração da verba honorária, pois, ao contrário do que alega o recorrente, o provimento do recurso especial restringiu-se a determinar o retorno dos autos à instância a quo, para que a Corte estadual prossiga no julgamento do recurso de apelação interposto.
+4. Agravo interno conhecido em parte e, nessa extensão, não provido. (AgInt no REsp 1.473.831/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 16.2.2018)
+Dessa forma, a ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada") , que está em consonância com a redação atual do CPC/2015 em seu art. 1.021, § 1º.
+Diante do exposto, nego provimento ao Agravo Interno, com imposição de multa no importe de 1% sobre o valor atualizado da causa. A interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa aplicada.
+É como voto.
