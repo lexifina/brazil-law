@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por HALPHAVILLE SERGIPE EMPREENDIMENTOS IMOBILIARIOS e outra, contra decisão que não admitiu o seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DO INDÉBITO - ALEGAÇÃO DE ILEGITIMIDADE PASSIVA "AD CAUSAM". AFASTADA. NULIDADE DA CLÁUSULA QUE PREVÊ A responsabilidade do tributo a partir dA ASSINATURA DO CONTRATO. APLICABILIDADE DO ART. 51, C D C . RECEBIMENTO DO CARNÊ DE IPTU EM MEADOS DE JULHO DE 2013. IMÓVEL ENTREGUE EM 15/04/2015. INEXISTÊNCIA DE TRANSMISSÃO DE PROPRIEDADE - IPTU - IMPOSTO DEVIDO EM FUNÇÃO DA POSSE SOBRE O BEM - RESTITUIÇÃO SIMPLES - sentença mantida - RECURSO IMPROVIDO - DECISÃO UNÂNIME. (fl. 420)
+Os embargos de declaração opostos foram rejeitados com aplicação de multa prevista no art. 1.026, §2º, do CPC/2015.
+Nas razões do recurso nobre, a recorrente aponta, ainda, ofensa aos arts. 17, 18 e 485, VI, do CPC/2015, 32 e 34 do CTN e 26, VI, da Lei n. 6.766/1979, alegando que seria do recorrido, por expressa previsão contratual, a responsabilidade pelo pagamento do IPTU, desde a data da celebração do contrato. Aduz, que a partir da assinatura do contrato de promessa de compra e venda, o recorrido tornou-se possuidor do imóvel, ainda que nunca tenha exercido a posse direta no imóvel.
+DECIDO.
+2. De início, cumpre assinalar que a convicção a que chegou o acórdão acerca da legitimidade da recorrente decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. No tocante à responsabilidade pelo pagamento do IPTU e demais tributos, do imóvel adquirido pela promessa de compra e venda, dispôs o acórdão recorrido a seguinte fundamentação:
+As apelantes afirmam que a Municipalidade é a responsável pela emissão do carnê do tributo, não sendo legítima para tal ato.
+Ademais, entendem que o promitente comprador é considerado, por disposição contratual expressa, responsável pelo pagamento de IPTU e demais tributos oriundos do imóvel adquirido na Promessa de Compra e Venda firmada nos presentes autos.
+Resta incontroverso que o empreendimento fora entregue em 15/04/2015. (pag. 104 do processo materializado).
+Em análise ao contrato consta que a responsabilidade pelo pagamento do tributo(IPTU) é de responsabilidade do promitente comprador mesmo antes da entrega do empreendimento (cláusula 14).
+Como bem ponderado pela magistrada do 1º grau houve uma cobrança "antecipada" do referido tributo, portanto abusivo, não podendo ser o consumidor o responsável por tributo sem que houvesse a posse da unidade imobiliária.
+Nessa senda, valho-me da fundamentação da douta magistrada, in verbis:
+" ..  Ocorre que a cobrança "antecipada " do IPTU se deu, e sem que o consumidor estivesse na posse do imóvel, o que é considerado abusivo, porque não encontra amparo algum em lei e fere o equilíbrio da avença, a boa-fé, a proporcionalidade e a razoabilidade que também devem pautar os contratos; e além disso, devemos considerar que se trata de um contrato de adesão e nas circunstâncias o autor não teria a possibilidade de pactuar em outras bases.
+Por certo, é possível a incidência de obrigação tributária em face do promitente comprador, mas tal fato somente se justifica quando a posse do imóvel for a repassada para o comprador ." (grifo no original).
+Por essa razão, a cláusula que prevê antecipação de pagamento de IPTU pelo consumidor, deve ser considerada nula, consoante o art. 51 do Código de defesa do Consumidor.
+Nesse sentido, entende a jurisprudência pátria:
+ ..
+Diante destas ponderações, somente a partir da efetiva posse do imóvel, com a entrega das chaves, é que é definido o momento a partir do qual surge para o adquirente a obrigação de efetuar o pagamento do aludido imposto. (fl. 422-424)
+Nesse contexto, o entendimento das instâncias ordinárias encontra-se em harmonia com a jurisprudência firmada neste Sodalício no sentido de que "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse." (AgInt no REsp 1.697.414/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/12/2017).
+Confira a ementa do julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. 1. LUCROS CESSANTES. CABIMENTO. PRESUNÇÃO DE PREJUÍZO. 2. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC/2015). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO CPC/2015. 4. RESTITUIÇÃO DE VALORES PAGOS COM COTAS CONDOMINIAIS E IMPOSTOS ANTES DA IMISSÃO NA POSSE. POSSIBILIDADE. PRECEDENTES. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. 5. AGRAVO IMPROVIDO.
+ ..
+4. Segundo a jurisprudência do STJ, as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.697.414/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/12/2017).
+__________
+4. Estando, pois, o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ, aplicável, também, às hipóteses de interposição pela alínea "a" do permissivo constitucional.
+5. Diante do exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
