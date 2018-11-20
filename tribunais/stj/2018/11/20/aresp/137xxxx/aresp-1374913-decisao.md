@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROFESSORES DO MUNICÍPIO DE FOZ DO IGUAÇU. REAJUSTE SALARIAL E TERÇO DE FÉRIAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REEXAME DE DIREITO LOCAL. SÚMULA 280/STF. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmulas 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 610-611):
+APELAÇÃO CÍVEL - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - INOCORRENCIA - QUESTÕES QUE VERSAM EXCLUSIVAMENTE SOBRE DIREITO - SENTENÇA CURA PETITA - TEORIA DA CAUSA MADURA - LEI MUNICIPAL Nº. 4.245/2014 - PROFESSORES DO MUNICÍPIO DE FOZ DO IGUAÇU - PEDIDO DE REAJUSTE PROPORCIONAL À VARIAÇÃO DO PISO SALARIAL NACIONAL - VIOLAÇÃO DA LEI DE RESPONSABILIDADE FISCAL - INOCORRÊNCIA - REAJUSTE DEVIDO - DIFERENÇA QUANTO AO PAGAMENTO DO TERÇO DE FÉRIAS - PLANO DE CARREIRA QUE DETERMINA CONSIDERAÇÃO DO PERÍODO DE 45 DIAS - PAGAMENTO DEVIDO - NÃO IMPLEMENTAÇÃO DA HORA ATIVIDADE PROPORCIONAL A 1/3 DA JORNADA - AUSÊNCIA DE PREJUÍZO - ALTERAÇÃO DO MODO DE APROVEITAMENTO DO TEMPO À DISPOSIÇÃO DO MUNICÍPIO SEM AUMENTO DA JORNADA DE TRABALHO - HONORÁRIOS ADVOCATÍCIOS - REDISTRIBUIÇÃO.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial o recorrente alega violação dos artigos 16, 17 e 21 da Lei de Responsabilidade Fiscal afirmando que "o art. 78 da Lei Municipal nº 4.225/14 subordinou seus benefícios a evento futuro e incerto, qual fosse o atendimento aos dispositivos da Lei Complementar nº 101/00 (necessidade de previsão orçamentária e atendimento aos limites de despesa) e isto não ocorreu (fato reconhecido pelo v. Acórdão recorrido), não há que se falar em direito ao pagamento da diferença entre o reajuste proporcional à variação do piso nacional e aquele efetivamente concedido pelo Município, bem como em direito ao terço constitucional de férias sobre 45 dias." (fl. 180).
+Contrarrazões às fls. 642-655.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Tendo o agravante impugnado os fundamentos da decisão de inadmissibilidade, passo a apreciação do apelo especial.
+No que se refere à violação dos artigos da LC 101/2000, a Corte de origem assentou o seguinte: "Todavia, o que se percebe é que o Município de Foz do Iguaçu não esclareceu em quê a eventual concessão do reajuste proporcional à variação do piso nacional violaria a LRF, de modo que não logrou desincumbir-se de seu ônus. As vagas alegações sobre frustração das expectativas de arrecadação não são suficientes para provar a ocorrência de fato impeditivo do direito das Apelantes, motivo pelo qual é forçoso reconhecer a procedência do pedido."
+Infirmar tal conclusão, para fins de afastar o reconhecimento dos direitos assegurados pelas instâncias ordinárias, pressupõe o reexame de matéria fático-probatória, obstado pela Súmula 7/STJ e, ainda, o reexame de direito local, obstado pela Súmula 280/STF, tendo em vista ser necessária a análise da Lei Municipal 4.245/2014.
+Ante o exposto, nego provimento ao agravo.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do art. 85 do CPC/2015 e eventual gratuidade de justiça (cart. 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
