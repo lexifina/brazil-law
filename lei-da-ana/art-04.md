@@ -21,14 +21,11 @@ XIX - regular e fiscalizar, quando envolverem corpos d'água de domínio da Uni�
 XX - organizar, implantar e gerir o Sistema Nacional de Informações sobre Segurança de Barragens (SNISB);
 XXI - promover a articulação entre os órgãos fiscalizadores de barragens;
 XXII - coordenar a elaboração do Relatório de Segurança de Barragens e encaminhá-lo, anualmente, ao Conselho Nacional de Recursos Hídricos (CNRH), de forma consolidada.
-XXIII - declarar a situação crítica de escassez quantitativa ou qualitativa de recursos hídricos nos corpos hídricos que impactem o atendimento aos usos múltiplos localizados em rios de domínio da União; e
-XXIV - estabelecer e fiscalizar o cumprimento de regras de uso da água a fim de assegurar os usos múltiplos durante a vigência da declaração de situação crítica de escassez de recursos hídricos a que se refere o inciso XXIII.
 § 1º Na execução das competências a que se refere o inciso II deste artigo, serão considerados, nos casos de bacias hidrográficas compartilhadas com outros países, os respectivos acordos e tratados.
+§ 2º As ações a que se refere o inciso X deste artigo, quando envolverem a aplicação de racionamentos preventivos, somente poderão ser promovidas mediante a observância de critérios a serem definidos em decreto do Presidente da República.
 § 3º Para os fins do disposto no inciso XII deste artigo, a definição das condições de operação de reservatórios de aproveitamentos hidrelétricos será efetuada em articulação com o Operador Nacional do Sistema Elétrico - ONS.
 § 4º A ANA poderá delegar ou atribuir a agências de água ou de bacia hidrográfica a execução de atividades de sua competência, nos termos do art. 44 da Lei nº 9.433, de 1997, e demais dispositivos legais aplicáveis.
 § 5º (VETADO)
 § 6º A aplicação das receitas de que trata o inciso IX será feita de forma descentralizada, por meio das agências de que trata o Capítulo IV do Título II da Lei nº 9.433, de 1997, e, na ausência ou impedimento destas, por outras entidades pertencentes ao Sistema Nacional de Gerenciamento de Recursos Hídricos.
 § 7º Nos atos administrativos de outorga de direito de uso de recursos hídricos de cursos de água que banham o semi-árido nordestino, expedidos nos termos do inciso IV deste artigo, deverão constar, explicitamente, as restrições decorrentes dos incisos III e V do art. 15 da Lei nº 9.433, de 1997.
 § 8º No exercício das competências referidas no inciso XIX deste artigo, a ANA zelará pela prestação do serviço adequado ao pleno atendimento dos usuários, em observância aos princípios da regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia, modicidade tarifária e utilização racional dos recursos hídricos.
-§ 9º As regras a que se refere o inciso XXIV do caput serão aplicadas aos corpos hídricos abrangidos pela declaração de situação crítica de escassez de recursos hídricos a que se refere o inciso XXIII do caput.
-§ 10. A ANA poderá delegar as competências estabelecidas nos incisos V e XII do caput, por meio de convênio ou de outro instrumento, a outros órgãos e entidades da administração pública federal, estadual e distrital.
