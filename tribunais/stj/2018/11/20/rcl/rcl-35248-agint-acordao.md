@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. AGRAVO INTERNO. RECLAMAÇÃO. PEDIDO DE UNIFORMIZAÇÃO. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. INADMISSIBILIDADE.
+1. Trata-se de Agravo Interno interposto contra decisum deste relator que negou conhecimento à Reclamação proposta pelo ora agravante.
+2. Se de um lado a aplicação da Lei do Juizado Especial da Fazenda Pública afasta a incidência da Res. 12/2009 do STJ; por outro, a ausência de previsão, na Lei 12.153/2009, no que se refere ao Pedido de Uniformização fundado em divergência entre a decisão recorrida e precedentes do Superior Tribunal de Justiça, não autoriza a utilização da Reclamação prevista na Resolução 12/2009 do STJ (AgRg na Rcl 12.756/SP, Ministro Herman Benjamin, Primeira Seção, DJe 17/6/2014).
+3. O Agravo Interno não merece prosperar, pois a falta de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+4. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com bases suficientes e em consonância com jurisprudência pacífica do STJ, não há prover o Agravo Interno que contra ela se insurge.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça: ""A Seção, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator." Os Srs. Ministros Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Agravo Interno interposto contra decisum deste Relator que não conheceu da Reclamação interposta pela parte ora agravante, sob o pálio da seguinte conclusão:
+Isso porque, em se tratando de Juizado Especial, impõe-se a observância dos princípios que lhe são peculiares, especialmente o princípio da celeridade, o qual não se compatibiliza com a instauração de incidentes não previstos na lei.
+A parte insurgente, nas razões do Agravo Interno, sustenta, em síntese:
+A uma, a reclamação se fundamenta no art. 988, IV, do CPC, de modo que, qualquer disposição em contrário, se mostra incompatível com o atual sistemática prevista no CPC.
+A duas, as exigências previstas para o ajuizamento da reclamação encontram-se no art. 988 e segts. do CPC, os quais foram cumpridas pela reclamante.
+
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.4.2018.
+O Agravo Interno não merece prosperar, pois a falta de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+De fato, não merece conhecimento a Reclamação, oferecida outrora pelo agravante. Com efeito, a Reclamação em pauta foi ajuizada contra decisão da Turma Nacional de Uniformização dos Juizados Especiais Federais sob o fundamento de contrariar a orientação sedimentada em Súmula 576 do Superior Tribunal de Justiça.
+Embora a parte reclamante tenha fundamentado a ação na Resolução 12/2009 do Superior Tribunal de Justiça, o caso concreto não se amolda ao diploma legal invocado.
+Consoante a Resolução 12/2009 - STJ, as Reclamações são destinadas a "dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência do Superior Tribunal de Justiça, suas súmulas ou orientações decorrentes do julgamento de recursos especiais processados na forma do art. 543-C do Código de Processo Civil".
+Todavia, a hipótese dos autos é de ação proposta perante o Juizado Especial da Fazenda Pública, que está regido pela Lei 12.153/2009 e possui mecanismos próprios para solucionar divergência sobre questões de direito material (arts. 18 e 19).
+Outrossim, se de um lado a aplicação da Lei do Juizado Especial da Fazenda Pública afasta a incidência da Res. 12/2009 do STJ, por outro, a ausência de previsão, na Lei 12.153/2009, no que se refere ao pedido de uniformização fundado em divergência entre a decisão recorrida e precedentes do Superior Tribunal de Justiça, não autoriza a utilização da reclamação prevista na Resolução 12/2009 do STJ (AgRg na Rcl 12.756/SP, Ministro Herman Benjamin, Primeira Seção, DJe 17/6/2014).
+Isso porque, em se tratando de Juizado Especial, impõe-se a observância dos princípios que lhe são peculiares, especialmente o princípio da celeridade, o qual não se compatibiliza com a instauração de incidentes não previstos na lei.
+Essa é a orientação mais recente da jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. CASO CONCRETO QUE NÃO SE AMOLDA A NENHUMA DAS HIPÓTESES AUTORIZATIVAS DA VIA ELEITA. DECISÃO RECORRIDA PROFERIDA POR TURMA RECURSAL DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA (LEI 12.153/2009). REGIME PRÓPRIO DE SOLUÇÃO DE DIVERGÊNCIA (ARTS. 18 E 19 DA LEI REFERIDA). NÃO CABIMENTO DA RECLAMAÇÃO PREVISTA NA RESOLUÇÃO 12/2009 DO STJ.
+1. A Primeira Seção/STJ, a partir do julgamento do RCDESP na Rcl 8.718/SP (Rel. Min. Mauro Campbell Marques, DJe de 29.8.2012), adotou orientação no sentido de que a Lei 12.153/2009, que disciplina o Juizado Especial da Fazenda Pública, estabelece sistema próprio para solucionar divergência sobre questões de direito material, razão pela qual não é cabível o ajuizamento da reclamação prevista na Resolução 12/2009 do STJ.
+2. Cumpre registrar que a ausência de previsão, na Lei 12.153/2009, no que se refere ao pedido de uniformização fundado em divergência entre a decisão recorrida e precedentes do Superior Tribunal de Justiça, não autoriza a utilização da reclamação prevista na Resolução 12/2009 do STJ. Isso porque, em se tratando de juizado especial, impõe-se a observância dos princípios que lhe são peculiares, especialmente o princípio da celeridade, o qual não se compatibiliza com a instauração de incidentes não previstos na lei.
+3. Ademais, a orientação desta Corte pacificou-se no sentido de que, "para fins de cabimento de reclamação ajuizada com fundamento na Resolução nº 12/2009-STJ, a jurisprudência tida como desrespeitada deve ser referente a direito material e estar consolidada no âmbito do STJ por meio de súmula ou do julgamento de recurso repetitivo, nos moldes do art. 535-C do CPC" (AgRg na Rcl 12.697/RO, 1ª Seção, Rel. Min. Sérgio Kukina, DJe de 20.11.2013), de modo que não é suficiente o confronto da decisão impugnada com precedentes deste Tribunal.
+4. Agravo regimental não provido.
+(AgRg na Rcl 15.462/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 17/12/2013).
+ADMINISTRATIVO. PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL, EM RAZÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECLAMAÇÃO COM AMPARO NA RESOLUÇÃO 12/2009. DECISÃO ORIUNDA DE VARA DA FAZENDA PÚBLICA. DESCABIMENTO. RECEBIMENTO COMO INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ERRO GROSSEIRO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. "A Primeira Seção desta Corte firmou entendimento no sentido de que a reclamação disciplinada pela Resolução 12/2009-STJ não é o meio processual adequado de insurgência contra decisão proferida em Juizado Especial da Fazenda Pública, tendo em vista que o art. 18 da Lei n. 12.153/2009 previu o cabimento de pedido de uniformização de interpretação de lei, em relação às questões de direito material" (EDcl na Rcl 12.198/SP, Rel. Min. HUMBERTO MARTINS, Primeira Seção, DJe 2/8/13).
+2. "Desnecessária a aplicação do art. 97 da CF/1988, pois a prevalência do dispositivo legal sobre a Resolução STJ 12/2009 não decorreu de juízo quanto à sua constitucionalidade ou não" (RCD na Rcl 10581/SP, Rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 24/9/13).
+3. "Os pressupostos legais da reclamação e os do incidente de uniformização de jurisprudência são inteiramente distintos, não havendo dúvida objetiva quanto ao recurso cabível. Assim, não há como aplicar o princípio da fungibilidade à espécie, no sentido de se receber a reclamação como incidente de uniformização de jurisprudência, o qual, ressalte-se, não pode ser suscitado diretamente nesta Corte" (AgRg na Rcl 7.328/RN, Rel. Min. MARILZA MAYNARD, Des. Conv. Do TJSE, Terceira Seção, DJe 17/6/13).
+4. Agravo regimental não provido.
+(RCD na Rcl 15.161/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe 18/12/2013).
+Nesses termos, verifica-se, de plano, a manifesta inadmissibilidade da Reclamação.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, suficientemente fundamentada e em consonância com jurisprudência pacífica deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Pelo exposto, nega-se provimento ao Agravo Interno.
+É o voto.
