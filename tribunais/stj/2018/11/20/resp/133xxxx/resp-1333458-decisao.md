@@ -1,0 +1,15 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. IMPUGNAÇÃO AO FUNDAMENTO SUFICIENTE DA DECISÃO. IMPRESCINDIBILIDADE. ARREMATAÇÃO DE BEM EM SEGUNDA PRAÇA. 77,25% DO VALOR DA AVALIAÇÃO. PREÇO VIL. NÃO CARACTERIZAÇÃO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+DECISÃO
+1. Cuida-se de recurso especial interposto com fulcro no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Alega o recorrente omissão, divergência jurisprudencial, que não foi intimado sobre as datas das hastas públicas e que a arrematação foi por valor inferior ao da avaliação.
+Pondera que não existe modalidade de intimação por contato telefônico e que não procede o entendimento de ser possível a arrematação do imóvel em segunda praça por valor inferior ao da avaliação.
+2. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. No tocante à intimação, o Tribunal de origem apurou que o procurador do recorrente, embora regularmente intimado, não informou o endereço do executado no prazo estabelecido, ensejando preclusão.
+Ademais, consta também do acórdão recorrido que, mesmo tendo havido preclusão, foi expedida carta precatória para o endereço informado, todavia foi verificado pelo oficial de justiça que não é o endereço em que o executado reside durante a semana - que ainda assim não age de acordo com a boa-fé objetiva, pois, na verdade, conforme certificado, foi comunicado pelo oficial de justiça de todo o teor, inclusive das datas e horas designadas para o leilão do bem penhorado, tendo se comprometido a ir à Curitiba para ser formalmente intimado.
+Com efeito, em vista de tudo que foi apurado, incide o óbice da Súmula 7/STJ ao conhecimento das teses recursais.
+ Ademais, o fundamento de preclusão não foi detidamente impugnado, o que também atrai a incidência da Súmula 283/STF.
+4. No caso, foi observado que o bem foi arrematado por valor correspondente a 77,25% da avaliação.
+Com efeito, admite-se a arrematação do bem pelo credor em segunda praça, ainda que seja o único licitante, desde que a venda não se dê por preço vil. Como não existem critérios objetivos para a configuração de preço vil, a jurisprudência do STJ adotou como parâmetro o valor equivalente a 50% da avaliação do bem, ressalvando-se que a caracterização do preço vil depende das circunstâncias do caso concreto, o que atrai a incidência do óbice da Súmula 7/STJ ao conhecimento do recurso especial. (AgRg no AREsp 542.564/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016)
+5. Diante do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
