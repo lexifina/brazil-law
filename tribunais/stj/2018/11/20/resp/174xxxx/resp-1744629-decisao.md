@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado (fl. 262, e-STJ):
+EMENTA: PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA ARBITRADOS NOS MOLDES DO §3º, DO ARTIGO 85, DO CPC/15. DECISÃO TERMINATIVA PROFERIDA QUANDO JÁ EM VIGOR O CPC/15. LEI PROCESSUAL SE APLICA IMEDIATAMENTE AOS PROCESSOS EM CURSO. AGRAVO INTERNO IMPROVIDO À UNANIMIDADE.
+1. A irresignação dos agravantes reside na fixação dos honorários advocatícios de sucumbência nos moldes do §3º, do artigo 85, do CPC/15, pois quando a sentença foi publicada o CPC/73 estava em vigor. Todavia, entendo não merecer reparo o decisium vergastado nesse ponto.
+2. A lei processual se aplica imediatamente aós processos em curso. A decisão terminativa de fls. 190/198, a qual fixou os honorários advocatícios com base no art. 85, §3º do CPC/15, foi proferida em 20/09/2016 (Vinte de setembro de dois mil e dezesseis), quando já em vigor o CPC/15.
+3. A fixação dos honorários advocatícios foi devidamente baseada na tabela do §3º do art. 85 do CPC/15.
+4. Agravo interno improvido.
+5. Decisão Unânime.
+Embargos de Declaração rejeitados.
+A parte recorrente alega violação ao art. 20 do CPC de 1973 e aos arts. 14 e 85, §3º, do CPC. Afirma que a norma processual será aplicável imediatamente (fl. 272, e-STJ).
+Aduz que a fixação de honorários advocatícios devem seguir as regras do Código de Processo Civil de 1973 (fl. 272, e-STJ).
+Contrarrazões ao Recurso Especial às fls. 284-290, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.6.2018.
+O recurso merece prosperar.
+O STJ entende que as normas sobre estipulação de honorários advocatícios não são alcançadas pela lei nova, quando a sentença, que os determinam, como ato processual, se baseou na antiga legislação, (art. 20 do CPC de 1973), pois o decisum deve considerar o dia 18.3.2016 como marco temporal para a aplicação das regras fixadas pelo CPC/2015, adoção do Princípio do Tempus Regit Actum. No caso sub examine, a verba advocatícia foi fixada pela sentença publicada no dia 11.12.2015, ainda sob a vigência do Código de Processo Civil de 1973. Nesse sentido:
+PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. VIGÊNCIA DO CPC DE 1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE VALOR IRRISÓRIO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. A indicada afronta do art. 85, §§ 2º e 3º, do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O STJ compreende que as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova, quando a sentença, que os determina, como ato processual, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015, aplicação do Princípio do Tempus Regit Actum. No caso sub examine, a verba advocatícia foi fixado pela sentença sob a vigência do CPC/1973.
+3. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Recurso Especial não conhecido.
+(REsp 1.684.753/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 10/10/2017).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTA-CORRENTE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. CRITÉRIOS DE DIREITO INTERTEMPORAL. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. SENTENÇA PROLATADA SOB A ÉGIDE DO ANTIGO CÓDIGO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS DE FORMA CORRETA. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. A questão referente aos honorários advocatícios fixados na sentença deve ser examinada à luz do Código de Processo Civil de 1973, vigente à época, em razão da incidência do princípio tempus regit actum e da Teoria do Isolamento dos Atos Processuais.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+4. Agravo improvido.
+(AgInt no REsp 1.675.794/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 27/10/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DAS REGRAS DE ADMISSIBILIDADE DO CPC/1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. ART. 20, §§ 3º E 4º, DO CPC/1973. VALOR ARBITRADO NÃO EXORBITANTE. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. SÚMULA 7/STJ.
+1. Não prospera a pretensão de se verem aplicados preceitos contidos no novo Código de Processo Civil quando o acórdão recorrido tiver decidido a questão dos honorários advocatícios à luz do art. 20 do CPC/1973, tendo em vista a legislação de regência da matéria à época do julgamento do recurso no Tribunal de origem, em homenagem ao princípio do tempus regit actum.
+2. A revisão da verba honorária implica, como regra, reexame da matéria fático-probatória, o que é vedado em recurso especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.658.717/AL, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 05/12/2017).
+Diante do exposto, dou provimento ao Recurso Especial, com fulcro no art. 932 do CPC, restabelecendo o valor de R$ 1.000,00 (mil reais) como o adequado ao pagamento de honorários advocatícios, com fulcro no art. 20 do CPC de 1973.
