@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por [NOME], com fundamento no art. 1.029, §5º, I, do CPC, requerendo a concessão de efeito suspensivo ativo ao recurso especial interposto contra o acórdão abaixo ementado, verbis:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DECISÃO. TUTELA DE EVIDÊNCIA. TUTELA DE URGÊNCIA. RESOLUÇÃO JUDICIAL DE 1º GRAU. REGRAS PROCESSUAIS RECURSAIS E REGIMENTAIS. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. PRECEDENTES. UNIFORMIZAÇÃO DA JURISPRUDÊNCIA. INTERPRETAÇÃO. BOA-FÉ. ELEMENTOS. ARGUMENTOS EM TESE. COLISÃO ENTRE NORMAS. RAZÕES. COLISÃO ENTRE NORMAS. PONDERAÇÃO. PREMISSAS FÁTICAS. INCIDÊNCIA DE NORMAS. PREMISSAS FÁTICAS. ATINÊNCIA.
+Trata-se de Agravo Interno interposto à Decisão proferida em Agravo de Instrumento abordando Tutela de Evidência e Tutela de Urgência no exame de Resolução Judicial de 1º Grau.
+Aplicam-se ao Agravo Interno as regras processuais recursais e regimentais atinentes à Decisão, no caso, proferida em Agravo de Instrumento, que examinou a possibilidade da pretensão de Tutela de Evidência e de Tutela de Urgência sem Retratação, onde estão reproduzidos os Fundamentos relativamente à Impugnação Específica.
+Uniformização da Jurisprudência, com a manutenção da estabilidade, integridade e coerência, compreendendo, inclusive, os casos em que a lei for omissa, pressupõe a decisão de acordo com a Analogia, os Costumes e os Princípios de Direito (Art. 926 e Art. 4º do NCPC).
+A Doação do Imóvel aos Filhos ocorreu anos após a Citação do Executado e Genitor do Agravante, nos autos da Execução de Título Extrajudicial, o qual, atualmente, é objeto de Locação, a excluir a condição de Bem de Família prevista na Lei nº 8.009/1900.
+Apresentadas as Contrarrazões ao Agravo de Instrumento e estando este pronto para julgamento, fica Prejudicado o Agravo Regimental.
+Desprovimento do Agravo de Instrumento e Agravo Regimental Prejudicado.
+O feito decorre de execução fiscal com penhora sobre imóvel que foi doado pelo genitor do requerente, com usufruto à sua genitora.
+No referido julgamento, foi consignado que a doação do imóvel aos filhos do casal com usufruto para a genitora ocorreu em momento posterior à citação do executado - doador do imóvel em questão - , havendo, portanto, indícios de fraude à execução.
+Foi interposto recurso especial onde foi apontada violação ao art. 1º da Lei n. 8.009/90, tendo o recorrente sustentando, em síntese, que o fato de o imóvel ser destinado à locação não o descarateriza como bem de família, o que o impede de ser penhorado em execução fiscal.
+No presente pedido o requerente alega, em síntese, a existência dos requisitos necessários para a concessão da tutela, afirmando que a única tese sufragada no acórdão recorrido é que sendo o imóvel objeto de locação, estaria excluída a condição de bem de família.
+É o relatório. Decido.
+De acordo com o art. 995, parágrafo único, do Código de Processo Civil de 2015, em caso de recurso que em regra não é dotado de efeito suspensivo, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Por sua vez, o art. 1.029, § 5º, inciso I, do CPC/2015 estabelece que o pedido de concessão de efeito suspensivo a recurso especial poderá ser formulado por requerimento dirigido ao Tribunal Superior respectivo, no período compreendido entre a interposição do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+Como se pode notar, para a excepcional concessão do efeito suspensivo, há se exigir a presença cumulada dos dois requisitos legais, quais sejam, a possibilidade de risco de dano grave ou de difícil ou impossível reparação e a probabilidade de provimento do recurso.
+Na hipótese dos autos, verifica-se que a probabilidade de provimento do recurso especial encontra-se intensamente mitigada, tendo em vista que o exame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca do fato de que a doação do imóvel somente ocorreu muito após a citação do executado na execução fiscal, denotando, inclusive a existência de indícios de fraude à execução, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Não sendo plausível o conhecimento do recurso especial se apresenta também inviabilizado o presente pedido.
+Ante o exposto, indefiro o pedido, nos termos do art. 288, § 2º, do RISTJ.
+Publique-se. Intimem-se.
