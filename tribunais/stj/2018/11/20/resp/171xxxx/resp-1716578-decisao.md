@@ -1,0 +1,14 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. FALTA DE DEMONSTRAÇÃO ANALÍTICA DE DISSÍDIO PRETORIANO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+1. Cuida-se de recurso especial interposto por BANCO DO BRASIL SA, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE ABERTURA DE CRÉDITO GARANTIDO POR NOTA PROMISSÓRIA. SENTENÇA DE EXTINÇÃO DO PROCESSO PELA PRESCRIÇÃO INTERCORRENTE. INSURGÊNCIA DA CASA BANCÁRIA. TESE DE INVIABILIDADE DA PRESCRIÇÃO INTERCORRENTE. INSUBSISTÊNCIA. INSTITUTO PLENAMENTE INCIDENTE EM SEDE EXECUTIVA. POSITIVAÇÃO EXPRESSA NO ART. 921 E ART. 924 DO NOVO CODIGO DE PROCESSO CIVIL. APLICAÇÃO ANTERIORMENTE ANALÓGICA DO ART. 40 DA LEI N. 6.830/1980 SOB A ÉGIDE DO REVOGADO DIPLOMA ADJETIVO. INÉRCIA ESCUSÁVEL PELA AUSÊNCIA DE BENS PENHORÁVEIS QUE IGUALMENTE TEM O CONDÃO DE DEFLAGRAR O PRAZO PRESCRICIONAL. DECURSO INTEGRAL DO LAPSO EXTINTIVO ALIADO À INAÇÃO DO EXEQUENTE. RECONHECIMENTO DA EFICÁCIA LIBERATÓRIA DA PRESCRIÇÃO EM FAVOR DO EXECUTADO. PRESCINDIBILIDADE DE INTIMAÇÃO DA PARTE PARA DAR IMPULSO AO PROCESSO, ASSIM COMO DE REQUERIMENTO DA PARTE CONTRÁRIA NA HIPÓTESE DE AUSÊNCIA DE RESISTÊNCIA. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. IRRESIGNAÇÃO DESPROVIDA.
+Em suas razões recursais, alega que no casos de execução de título extrajudicial a sua extinção por inércia do autor depende da intimação pessoal deste. Argumenta que o reconhecimento da prescrição intercorrente ocorrerá somente depois do decurso de prazo contado da intimação pessoal da parte.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 137.
+Crivo positivo de admissibilidade na origem (fls. 150-153).
+É o relatório.
+DECIDO.
+2. O recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284/STF.
+3. Quanto ao dissídio pretoriano, além da falta de indicação do dispositivo de lei federal, observo que o recorrente não cumpriu o disposto § 2º do art. 255 do RISTJ, pois a demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Ante o exposto, não conheço do recurso especial.
+Intime-se. Publique-se.
