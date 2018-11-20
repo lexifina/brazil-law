@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. SÚMULA 284 DO STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAIS DE HORAS EXTRAS, PERICULOSIDADE, INSALUBRIDADE, NOTURNO E TRANSFERÊNCIA. NATUREZA REMUNERATÓRIA. INCIDÊNCIA.
+1. A parte recorrente sustenta que o art. 535 do CPC/1973 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado. Aplica-se, in casu, o óbice da Súmula 284/STF.
+2. A questão da incidência de Contribuição Previdenciária Patronal sobre os valores pagos a título de adicional noturno, de periculosidade e de horas extras já foi objeto de julgamento no Recurso Especial 1.358.281/SP, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, estando, assim, plenamente pacificada no STJ, que concluiu que tais verbas detêm caráter remuneratório, sujeitando-se, portanto, à incidência de contribuições previdenciárias.
+3. No mesmo sentido está o posicionamento do STJ de que os adicionais de insalubridade e transferência possuem natureza salarial.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto por Maxpet Indústria Plástica e Energia Ltda., com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RGPS. PRESCRIÇÃO. ADICIONAIS DE HORAS EXTRAS, NOTURNO, DE PERICULOSIDADE E DE INSALUBRIDADE. AVISO PRÉVIO INDENIZADO E RESPECTIVO DÉCIMO TERCEIRO PROPORCIONAL. COMPENSAÇÃO. TAXA SELIC.
+1. A segunda parte do art. 4º da LC 118/2005 foi declarada inconstitucional, e considerou-se válida a aplicação do novo prazo prescricional de cinco anos para as ações ajuizadas a partir de 9/6/2005  após o decurso da vacatio legis de 120 dias (STF, RE 566621/RS, rel. ministra Ellen Gracie, Tribunal Pleno, DJe de 11/10/2011).
+2. Não incide contribuição previdenciária sobre verbas pagas a título de aviso prévio indenizado, e respectivo décimo terceiro relativo ao mês do aviso prévio indenizado, por não comportarem natureza salarial, mas nítida feição indenizatória.
+3. Consoante orientação jurisprudencial do Superior Tribunal de Justiça (REsp 1.358.281/SP - recurso representativo da controvérsia - e-DJ de 5/12/2014), deve incidir contribuição previdenciária sobre os adicionais de hora extra, noturno, de periculosidade, de insalubridade e de transferência. Ressalva do entendimento da relatora, em sentido contrário.
+4. A compensação das contribuições sociais incidentes sobre a remuneração paga ou creditada aos segurados far-se-á com contribuições destinadas ao custeio da Seguridade Social, nos termos do disposto no art. 26, parágrafo único, da Lei 11.457/2007.
+5. A correção monetária do indébito tributário deverá incidir desde os recolhimentos indevidos dos valores, em decorrência da Súmula 162 do STJ, com aplicação da Taxa SELIC, desde janeiro de 1996, e de juros obtidos pela aplicação do referido índice (arts. 39, § 4º, da Lei 9.250/1995 e 89, § 4º, da Lei 8.212/1991, com a redação dada pela Lei 11.941/2009).
+6. Apelações e remessa oficial a que se nega provimento.
+Os Embargos de Declaração opostos foram rejeitados.
+Nas razões do apelo especial, a recorrente alega violação dos arts. 535, II, do CPC; 22, I, da Lei 8.212/1991; e 170-A do CTN. Sustenta, em suma, ser ilegítima a cobrança de contribuição previdenciária incidente sobre os valores pagos a título de horas extras, adicional noturno, adicional de insalubridade, adicional de periculosidade e adicional de transferência, uma vez que não correspondem à hipótese legal de incidência da exação, bem como têm nítido caráter indenizatório.
+Defende ainda que "não há que se falar no presente caso de aplicação do art. 170-A do CTN, eis que não se trata da compensação disciplinada pelo art. 170 e 170-A do Código Tributário Nacional e sim de compensação de tributo sujeito a lançamento por homologação, ficando, pois, condicionada à homologação pelo Fisco" (fl. 433, e-STJ).
+Contrarrazões às fls. 493-500, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 3 de julho de 2018.
+Inicialmente, destaco que a parte recorrente sustenta que o art. 535, II, do CPC/1973 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+No mais, melhor sorte não assiste à recorrente.
+A questão da incidência de contribuição previdenciária patronal sobre os valores pagos a título de adicional noturno, de periculosidade e de horas extras já foi objeto de julgamento no Recurso Especial 1.358.281/SP, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, estando, assim, plenamente pacificada no STJ, que concluiu que tais verbas detêm caráter remuneratório, sujeitando-se, portanto, à incidência de contribuições previdenciárias.
+Confira-se:
+TRIBUTÁRIO. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DE PREVIDÊNCIA SOCIAL. BASE DE CÁLCULO. ADICIONAIS NOTURNO, DE PERICULOSIDADE E HORAS EXTRAS. NATUREZA REMUNERATÓRIA. INCIDÊNCIA. PRECEDENTES DE AMBAS AS TURMAS DA PRIMEIRA SEÇÃO DO STJ. SÍNTESE DA CONTROVÉRSIA
+1. Cuida-se de Recurso Especial submetido ao regime do art. 543-C do CPC para definição do seguinte tema: "Incidência de contribuição previdenciária sobre as seguintes verbas trabalhistas: a) horas extras; b) adicional noturno; c) adicional de periculosidade".
+CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA E BASE DE CÁLCULO: NATUREZA REMUNERATÓRIA
+2. Com base no quadro normativo que rege o tributo em questão, o STJ consolidou firme jurisprudência no sentido de que não devem sofrer a incidência de contribuição previdenciária "as importâncias pagas a título de indenização, que não correspondam a serviços prestados nem a tempo à disposição do empregador" (REsp 1.230.957/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 18/3/2014, submetido ao art. 543-C do CPC).
+3. Por outro lado, se a verba possuir natureza remuneratória, destinando-se a retribuir o trabalho, qualquer que seja a sua forma, ela deve integrar a base de cálculo da contribuição.
+ADICIONAIS NOTURNO, DE PERICULOSIDADE, HORAS EXTRAS: INCIDÊNCIA
+4. Os adicionais noturno e de periculosidade, as horas extras e seu respectivo adicional constituem verbas de natureza remuneratória, razão pela qual se sujeitam à incidência de contribuição previdenciária (AgRg no REsp 1.222.246/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 17/12/2012; AgRg no AREsp 69.958/DF, Rel. Ministro Castro Meira, Segunda Turma, DJe 20/6/2012; REsp 1.149.071/SC, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 22/9/2010; Rel. Ministro Ari Pargendler, Primeira Turma, DJe 9/4/2013; REsp 1.098.102/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/6/2009; AgRg no Ag 1.330.045/SP, Rel. Ministro Luiz Fux, Primeira Turma, DJe 25/11/2010; AgRg no REsp 1.290.401/RS; REsp 486.697/PR, Rel. Ministra Denise Arruda, Primeira Turma, DJ 17/12/2004, p. 420; AgRg nos EDcl no REsp 1.098.218/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009).
+PRÊMIO-GRATIFICAÇÃO: NÃO CONHECIMENTO
+5. Nesse ponto, o Tribunal a quo se limitou a assentar que, na hipótese dos autos, o prêmio pago aos empregados possui natureza salarial, sem especificar o contexto e a forma em que ocorreram os pagamentos.
+6. Embora os recorrente tenham denominado a rubrica de "prêmio-gratificação", apresentam alegações genéricas no sentido de que se estaria a tratar de abono (fls. 1.337-1.339), de modo que a deficiência na fundamentação recursal não permite identificar exatamente qual a natureza da verba controvertida (Súmula 284/STF).
+7. Se a discussão dissesse respeito a abono, seria necessário perquirir sobre a subsunção da verba em debate ao disposto no item 7 do § 9º do art. 28 da Lei 8.212/1991, o qual prescreve que não integram o salário de contribuição as verbas recebidas a título de ganhos eventuais e os abonos expressamente desvinculados do salário.
+8. Identificar se a parcela em questão apresenta a característica de eventualidade ou se foi expressamente desvinculada do salário é tarefa que esbarra no óbice da Súmula 7/STJ.
+CONCLUSÃO
+9. Recurso Especial parcialmente conhecido e, nessa parte, não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008.
+(REsp 1.358.281/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 5/12/2014).
+No mesmo sentido está o posicionamento desta Corte Superior de que os adicionais de insalubridade e transferência possuem natureza salarial. Cito precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAIS INSALUBRIDADE, TRANSFERÊNCIA E QUEBRA DE CAIXA. INCIDÊNCIA. NATUREZA REMUNERATÓRIA. PRECEDENTES.
+1. "Nos termos da jurisprudência dominante do STJ, incide contribuição previdenciária sobre os adicionais de insalubridade e de transferência, dada a natureza remuneratória de tais rubricas" (AgRg no AREsp 759.351/RO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 8/6/2016).
+2. "A Segunda Turma desta Corte, ao apreciar o REsp 1.443.271/RS na assentada de 22/9/2015, decidiu, por maioria, que o auxílio quebra-de-caixa tem nítida natureza salarial e integra a remuneração (acórdão pendente de publicação). Reconhecida a natureza salarial, conclui-se que este integra a remuneração, razão pela qual se tem como pertinente a incidência da contribuição previdenciária sobre a referida verba, ainda que o pagamento do referido adicional se dê em decorrência de convenção coletiva, dada sua habitualidade" (AgRg no REsp 1.556.354/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/3/2016).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1603394/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 24/03/2017).
+TRIBUTÁRIO E CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAIS DE INSALUBRIDADE E TRANSFERÊNCIA. NATUREZA SALARIAL. INCIDÊNCIA.
+I - A jurisprudência do STJ reconhece a incidência de contribuição previdenciária sobre as rubricas: adicionais de insalubridade e de transferência, dada a natureza remuneratória de tais rubricas.
+Precedentes.
+II - Agravo interno improvido.
+(AgInt no REsp 1595077/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/03/2017).
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Por fim, ressalto que, in casu, fica prejudicado o pedido de afastamento do art. 170-A do CTN.
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
