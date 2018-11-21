@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98316, de 25 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3917.31.00 Mercadoria: Tubo chato de plástico para armazenagem de grãos (cereais, soja, milho etc.), composto por uma tripla camada de polietileno flexível de baixa densidade, uma de cor preta no lado interno e duas de cor branca no lado externo, com 135 MPa de pressão mínima de ruptura, espessura nominal de 205 mm, alta resistência mecânica e proteção contra os raios ultravioleta, com 60 metros de comprimento, 2,70 m de diâmetro e capacidade para armazenar cerca de 180 toneladas de grãos.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 8 do Capítulo 39 e texto da posição 39.17) e 6 (texto das subposições de 1.º e 2.º nível 3917.3 e 3917.31.00) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB n.º 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.316-2018.pdf]
