@@ -1,0 +1,31 @@
+DECISÃO
+    Trata-se de Reclamação proposta contra ato do MM. Juiz de Direito da 2ª Vara Criminal da Comarca de Ribeirão Preto, do Tribunal de Justiça do Estado de São Paulo.
+    Na inicial, o reclamante alega o descumprimento, por parte do Juízo da 2ª Vara Criminal da Comarca de Ribeirão Preto, do Tribunal de Justiça do Estado de São Paulo, do decidido por esta CORTE no julgamento do RE 1.038.925-RG/SP, ao manter a prisão preventiva do reclamante. Alegou que inexistem os requisitos legais para a prisão preventiva, bem como que a decisão que a decretou teria sido genérica e sem qualquer fundamentação legal. Sendo assim, requereu "a concessão de liminar para garantir cautelarmente a liberdade ao reclamante, expedindo-se alvará de soltura" e, no mérito, "requer-se a procedência da reclamação ora interposta para determinar que o reclamante aguarde em liberdade o trânsito em julgado da ação penal n. 0034332-37.2017.8.26.0506, da 2ª Vara Criminal da Comarca de Ribeirão Preto-SP.".
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II, III e §4º, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    §4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    No caso em tela, o reclamante busca a revogação da sua prisão preventiva, sob o fundamento de que não estariam presentes os requisitos legais para a manutenção da sua prisão e que a decisão que a decretou teria sido carente de fundamentação.
+    Mas sem razão.
+    O primeiro motivo é que a defesa do reclamante pretende utilizar a Reclamação Constitucional como sucedâneo de recurso próprio, de sorte que a análise da questão ventilada nesta Reclamação, sem sombra de dúvidas, equivaleria a chapada supressão de instância. Ora, o instituto da Reclamação, cuja finalidade tem previsão constitucional taxativa, não "pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal." (Rcl 4.381 AgR/RJ, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 05/08/2011). Seguindo essa orientação, vale lembrar o já decidido pelo saudoso Min. TEORI ZAVASCKI no julgamento da Rcl 24.686-ED-AgR/RJ, Segunda Turma, DJe de 11/04/2017:
+    [...] se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação. Esse é o sentido que deve ser conferido ao art. 988, §5º, II, do CPC. Interpretação puramente literal desse dispositivo acabaria por transferir a esta Corte, pela via indireta da reclamação, a competência de pelo menos três tribunais superiores (Superior Tribunal de Justiça, Tribunal Superior do Trabalho, Tribunal Superior Eleitoral), para onde podem ser dirigidos recursos contra decisões de tribunais de segundo grau de jurisdição (grifos nossos).
+    O segundo e último motivo é que a defesa não trouxe qualquer informação de que o Juízo reclamado teria violado alguma decisão desta CORTE, seja em controle difuso, seja em controle concentrado, tampouco de enunciado de Súmula Vinculante (art. 988, II e III, do CPC). Apenas há a menção de que a decisão que decretou a prisão preventiva e a que a manteve não foram fundamentadas, o que teria violado o entendimento no RE 1.038.925-RG/SP. Todavia, a tese do referido Recurso Extraordinário em nada se relaciona com a discussão sobre ausência de fundamentação, consoante ementa abaixo:
+    Recurso extraordinário. 2. Constitucional. Processo Penal. Tráfico de drogas. Vedação legal de liberdade provisória. Interpretação dos incisos XLIII e LXVI do art. 5º da CF. 3. Reafirmação de jurisprudência. 4. Proposta de fixação da seguinte tese: É inconstitucional a expressão e liberdade provisória, constante do caput do artigo 44 da Lei 11.343/2006. 5. Negado provimento ao recurso extraordinário interposto pelo Ministério Público Federal.
+    (RE 1.038.925-RG/SP, Rel. Min. GILMAR MENDES, DJe de 19/09/2017)
+    Logo, ausente a estrita aderência entre o ato impugnado e o paradigma invocado, consoante entendimento reiterado desta CORTE (Rcl 29.590/SP, Rel. Min. ALEXANDRE DE MORAES, DJe de 19/06/2018; Rcl 27.890/SP, Rel. Min. DIAS TOFFOLI, DJe de 21/09/2017; Rcl 18.946/SP, Rel. Min. LUIZ FUX, DJe de 05/11/2014 e Rcl 17.108 AgR, Rel. Min. TEORI ZAVASCKI, DJe de 01/07/2014), inviável a análise desta Reclamação.
+    Diante do exposto, com base no art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se. Intime-se.
+    Brasília, 21 de novembro de 2018.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
