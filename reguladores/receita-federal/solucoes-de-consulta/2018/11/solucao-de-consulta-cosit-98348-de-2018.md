@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98348, de 9 de novembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3907.99.91 Mercadoria: Poliéster-7 em solução de di-heptanoato de neopentilglicol, um polímero em solução, cuja proporção de solvente é inferior a 50% do peso da solução, utilizado como matéria-prima para formulações cosméticas que confere resistência à água e solubilização dos filtros ultravioleta, apresentado como um líquido viscoso incolor, acondicionado em baldes de 15,88 kg, tambores de 192,78 kg ou a granel.
+DISPOSITIVOS LEGAIS: RGI 1 (Notas 3 c) e 6 b) do Capítulo 39 e texto da posição 39.07), RGI 6 (textos da subposição de 1º nível 3907.9 e da subposição de 2º nível 3907.99) e RGC-1 (textos do item 3907.99.9 e subitem 3907.99.91) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizada pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.348-2018.pdf]
