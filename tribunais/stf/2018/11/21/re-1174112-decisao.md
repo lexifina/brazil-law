@@ -1,0 +1,25 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Fundação dos Economiários Federais (Funcef). Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 114, I e IX, e 202, caput, §§ 2º e 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem decidiu a lide consideradas as provas dos autos, bem como a natureza jurídica da CTVA, em acórdão cuja ementa dispõe:
+    “RECURSO DE REVISTA. CTVA. EXERCÍCIO DE FUNÇÃO GRATIFICADA POR PERÍODO SUPERIOR A DEZ ANOS. INTEGRAÇÃO DA PARCELA. INCLUSÃO NAS CONTRIBUIÇÕES À FUNCEF.
+    A jurisprudência desta Corte Superior é firme no sentido da natureza jurídica salarial da parcela denominada CTVA, nos termos do art. 457, § 1º, da CLT, e, em observância dos princípios da estabilidade financeira e da irredutibilidade salarial, orienta no sentido da sua incorporação em definitivo à remuneração, quando comprovado que o empregado exerceu função de confiança por mais de dez anos, bem como sua integração ao salário de contribuição devido à FUNCEF. Dessa orientação dissentiu a Corte Regional.
+    Recurso de revista conhecido e provido, no particular.”
+     O exame de eventual ofensa ao preceito constitucional indicado nas razões recursais, consagrador dos princípios da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior.
+    Verifica-se dos autos que o Tribunal de origem dirimiu a lide com fundamento na legislação infraconstitucional e nas provas dos autos, incidente no caso a aplicação das Súmulas nº 279 e 454 desta Corte. Nesse sentido: ARE 1004459, Rel. Min. Gilmar Mendes, DJe 27.10.2016, ARE 1005042, Rel. Min. Celso de Mello, DJe 27.10.2016, ARE 970762, Rel. Min. Dias Toffoli, DJe 06.6.2016, ARE 938597, Rel. Min. Cármen Lúcia, DJe 01.4.2016, ARE 806.687-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.5.2014, e o ARE 913015, de minha lavra, 1ª Turma, DJe 17.12.2015, que possui a seguinte ementa:
+    “DIREITO PREVIDENCIÁRIO. INCLUSÃO DA PARCELA CTVA NO SALÁRIO DE CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO PLANO REG/REPLAN. ADESÃO A NOVO PLANO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2014.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.”
+    A jurisprudência consolidada do STF, por ocasião do exame do RE 590.005-RG, e do ARE 742.083-RG, em relação à matéria, não reconhece repercussão geral em virtude da ausência de matéria constitucional e por demandar o reexame dos fatos e das provas dos autos. As ementas desses julgados restaram assim redigidas:
+    “RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional”.
+    “EMENTA: PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO RECEBIMENTO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de novembro 2018.
+Ministra Rosa Weber
+Relatora
