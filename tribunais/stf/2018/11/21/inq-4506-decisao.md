@@ -1,0 +1,14 @@
+DECISÃO
+MANIFESTAÇÃO – DEFESA – PRAZO – OBSERVÂNCIA EM DOBRO – ARTIGO 229 DO CÓDIGO DE PROCESSO CIVIL – APLICAÇÃO SUBSIDIÁRIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    A Primeira Turma, em 17 de abril de 2018, recebeu a denúncia formalizada em desfavor de Aécio Neves da Cunha, Andrea Neves da Cunha, Frederico Pacheco de Medeiros e Mendherson Souza Lima, considerado, quanto ao primeiro, o cometimento dos crimes tipificados nos artigos 317, cabeça (corrupção passiva), do Código Penal e 2º, § 1º (embaraçar a investigação de infração penal que envolva organização criminosa), da Lei nº 12.850/2013, na forma tentada – artigo 14, inciso II, do mencionado Código; com relação aos demais acusados, do delito do artigo 317, cabeça (corrupção passiva), combinado com o 29 (coautoria). O acórdão, cuja redação ficou a cargo do ministro Luís Roberto Barroso, a teor do artigo 38, inciso II, do Regimento Interno do Supremo, foi divulgado em 3 de setembro último e publicado no Diário da Justiça, no dia 4 de setembro de 2018.
+    Interpostos embargos de declaração, foram rejeitados por unanimidade, nos termos do voto do Relator, com acórdão veiculado em 19 de novembro de 2018.
+    Por meio da petição/STF nº 76.266/2018, protocolada em 20 de novembro último e subscrita por advogado credenciado, Aécio Neves da Cunha requer seja aberto prazo em dobro para manifestação da defesa, aludindo ao artigo 229 do Código de Processo Civil, combinado com o 3º do Código de Processo Penal. Articula com o fato de tratar-se de processo com litisconsórcio passivo, sendo os corréus representados por procuradores distintos. Cita precedente do Supremo revelado na ação penal nº 470. Destaca estar a medida pretendida voltada a prestigiar o princípio constitucional da ampla defesa e do contraditório.
+    2. Juntem a petição.
+    3. O artigo 1.023 do Código de Processo Civil, combinado com o 219 do mesmo diploma, estabelece o prazo de 5 dias úteis, contados da publicação, para a formalização de embargos declaratórios, ficando suplantado o 337, § 1º, do Regimento Interno do Supremo. Ante a existência de corréus com patronos diferentes, cumpre a aplicação subsidiária do artigo 229 do Código de Processo Civil, no que prevê prazo em dobro para manifestações, levando-se em conta o princípio constitucional da ampla defesa no âmbito do processo penal:
+    Art. 229. Os litisconsortes que tiverem diferentes procuradores, de escritórios de advocacia distintos, terão prazos contados em dobro para todas as suas manifestações, em qualquer juízo ou tribunal, independentemente de requerimento.
+    4. Defiro o pedido formulado, determinando seja observado o prazo em dobro relativamente à manifestação da defesa.
+    5. Publiquem.
+Brasília, 21 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
