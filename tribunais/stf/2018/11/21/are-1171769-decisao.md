@@ -1,0 +1,25 @@
+DECISÃO
+RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. AMBIENTAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO DA RÉ. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO. RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO PROVIDO. ANÁLISE DO RECURSO EXTRAORDINÁRIO COM AGRAVO DO MINISTÉRIO PÚBLICO DE MATO GROSSO DO SUL APÓS O TRÂNSITO EM JULGADO DO RECURSO DA RÉ.
+Relatório
+    1. Agravos nos autos principais contra inadmissões de recursos extraordinários interpostos pelo Ministério Público de Mato Grosso do Sul e por Romilda Maria Nascimento com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. O Ministério Público de Mato Grosso do Sul interpôs recurso especial e recurso extraordinário contra o seguinte julgado do Tribunal de Justiça de Mato Grosso do Sul:
+    “APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA AMBIENTAL - PRELIMINARES - NÃO CONHECIMENTO DO RECURSO POR AUSÊNCIA DE PREPARO - AFASTADA - NÃO CONHECIMENTO DO RECURSO POR INTEMPESTIVIDADE - NULIDADE DA SENTENÇA POR AUSÊNCIA DE INTERESSE DE AGIR E POR DEFICIÊNCIA DO RELATÓRIO - NULIDADE DO PROCESSO PELA NECESSIDADE DE LITISCONSÓRCIO E PELA EXISTÊNCIA DE LITISPENDÊNCIA - AFASTADAS - MÉRITO - OCUPAÇÃO E EDIFICAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE (APP) - MARGENS DO RIO IVINHEMA - EXISTÊNCIA DE AUTORIZAÇÃO DO ÓRGÃO COMPETENTE - IMASUL - POSSIBILIDADE - MATÉRIA AMBIENTAL - COMPETÊNCIA DA UNIÃO, DOS ESTADOS E DOS MUNICÍPIOS - DIREITO DE PROPRIEDADE - IMPOSSIBILIDADE DE ADOÇÃO DE MEDIDAS EXTREMAS - OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE - SENTENÇA REFORMADA - RECURSO PROVIDO” (fl. 25, vol. 14).
+    Os embargos de declaração opostos foram rejeitados.
+    3. O Ministério Público de Mato Grosso do Sul alega ter o Tribunal de origem contrariado os incs. I, III, IV e VII do § 1º e o § 3º do art. 225 da Constituição da República.
+    Pede seja restabelecida a sentença (fl. 8, vol. 21).
+    4. O recurso extraordinário do Ministério Público de Mato Grosso do Sul foi inadmitido ao fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal (fls. 30-31, vol. 23).
+    5. O Superior Tribunal de Justiça julgou o Resp n. 1.381.341 nos seguintes termos:
+    “DIREITO ADMINISTRATIVO. AMBIENTAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EDIFICAÇÃO. ÁREA DE PROTEÇÃO PERMANENTE. PROXIMIDADE. LEITO. RIO. VERIFICAÇÃO. ATIVIDADE. IMPACTO. CASAS DE VERANEIO. IMPOSSIBILIDADE. ALEGAÇÃO. FATO CONSUMADO. MATÉRIA AMBIENTAL. INEXISTÊNCIA. AQUISIÇÃO. DIREITO DE POLUIR. JURISPRUDÊNCIA. STJ. CASOS IDÊNTICOS. VIOLAÇÃO. LEI PARCELAMENTO. SOLO URBANO. FALTA. PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA. PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. JULGAMENTO CONTRÁRIO. INTERESSES DA PARTE. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO.
+    (...) Ante o exposto, nos termos do art. 557, § 1º-A, do CPC, conheço em parte do recurso especial e, nesse ponto, dou-lhe provimento para reformar o acórdão e negar provimento à apelação da ora recorrida, restabelecendo os termos da sentença” (fls. 91-100, vol. 23).
+    Contra a manutenção desse julgado Romilda Maria Nascimento interpôs recurso extraordinário inadmitido ao fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal (fls. 30-31, vol. 23).
+    6. Romilda Maria Nascimento argumenta contrariado o inc. XXXV do art. 5º da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    7. Razão jurídica não assiste a Romilda Maria Nascimento.
+    8. A alegada contrariedade ao inc. XXXV do art. 5º da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI n. 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    Nada há a prover quanto às alegações de Romilda Maria Nascimento.
+    9. Pelo exposto, nego provimento ao recurso extraordinário com agravo interposto por Romilda Maria Nascimento (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal). Após o trânsito em julgado, voltem-me os autos conclusos para análise do recurso extraordinário com agravo interposto pelo Ministério Público de Mato Grosso do Sul.
+    Publique-se.
+    Brasília, 21 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
