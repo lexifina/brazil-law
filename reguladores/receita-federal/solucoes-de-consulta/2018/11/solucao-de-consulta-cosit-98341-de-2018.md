@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98341, de 8 de novembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 4911.99.00 Mercadoria: Rótulo plástico do tipo "Camisa", confeccionado no sistema gráfico de tipografia, impresso sobre filme de polipropileno biorentado (BOPP), próprio para cintar recipientes e vasilhames que acondicionam refrigerante, água, óleo comestível, produto de limpeza, entre outros; contendo informações como o nome do produto, marca, tipo, fabricante e etc, apresentado em bobinas com aproximadamente 5.000 metros de comprimento.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 da Seção VII e texto da posição 49.11) e RGI 6 (textos da subposição de 1º nível 4911.9 e subposição de 2º nível 4911.99.00) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.341-2018.pdf]
