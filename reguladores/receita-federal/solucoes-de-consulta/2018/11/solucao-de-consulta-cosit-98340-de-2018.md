@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98340, de 8 de novembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8526.91.00 Mercadoria: Aparelho que incorpora um receptor de GPS, do tipo destinado a ser instalado em veículos terrestres, que desempenha a função de autolocalização e comunica-se com o servidor por meio das tecnologias GPRS, 3G ou 4G, via rede celular (GSM) ou radiofrequência, utilizado para rastreamento de veículo de passeio ou comercial e de cargas, controle de frotas e de jornada de motoristas, denominado comercialmente “rastreador veicular”.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 3 da Seção XVI e texto da posição 85.26) e RGI 6 (texto das subposições 8526.9 e 8526.91) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.340-2018.pdf]
