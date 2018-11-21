@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98343, de 8 de novembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8537.20.90 Mercadoria: Equipamento para proteção e seccionamento de circuitos em tensões de 145/245kv, apresentado em corpo único com disjuntores com princípio de autocompressão, buchas, chaves seccionadoras, transformadores de corrente e de tensão e montagem de conexão de cabeamento, desenvolvido para uso em subestações de distribuição de energia elétrica, denominado comercialmente de disjuntor compacto de tanque morto.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.37), RGI 6 (texto da subposição de 1º nível 8537.20) e RGC 1 (texto do item 8537.20.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.343-2018.pdf]
