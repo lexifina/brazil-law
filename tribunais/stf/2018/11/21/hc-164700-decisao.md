@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Execução penal. Habeas corpus. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 469.990, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 (seis) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 157, § 2º, II, c/ o artigo 70, caput, ambos do Código Penal.
+    3. Após o trânsito em julgado da condenação, o Juízo da 11ª Vara Criminal da Comarca de Goiânia/GO determinou a imediata expedição de mandado de prisão contra o condenado.
+    4. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Goiás. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 469.990, Ministro Antonio Saldanha Palheiro, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante afirma que “o paciente é caminhoneiro e exerce sua função viajando e realizando entrega de mercadorias entre Estados brasileiros, e não tinha conhecimento do mandado de prisão expedido em seu desfavor”. Alega que o acionante “foi abordado em um posto da Polícia Rodoviária Federal em Mossoró-RN, no dia 26/11/2017, e ao constatarem a existência de mandado de prisão em aberto, os policiais de imediato efetuaram sua prisão”.
+    6. Prossegue a impetração para sustentar que, “Após informado de sua prisão o Excelentíssimo Juiz da 11º Vara Criminal de Goiânia prontamente encaminhou oficio solicitando sua imediata transferência para Goiânia, o que até o momento não ocorreu e nem se tem previsão de ocorrer”. De modo que “o paciente se encontra custodiado em um presídio destinado a presos que cumprem pena em regime fechado a QUASE UM ANO, e sequer foi aberto o processo de execução penal na Comarca de Goiânia, para que seja fiscalizado o cumprimento de pena do paciente em regime semiaberto”.
+    7. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão do paciente, “a fim de que seja o paciente posto em liberdade, para que tenha a oportunidade de se apresentar espontaneamente na Comarca de Goiânia para o regular cumprimento de sua pena”.
+    Decido.
+    8. Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. As peças que instruem a impetração não evidenciam situação teratologia, ilegalidade flagrante ou abuso de poder capaz de justificar o pronto acolhimento da pretensão defensiva. Dou especial relevância ao fundamento adotado pelo Tribunal Estadual, no sentido de que “Não se aproveita ao paciente foragido, que se dirigiu para outro Estado da Federação, a alegação de coação ilegal diante da morosidade do seu recambiamento, mormente quando se sabe que as providências administrativas indispensáveis à remoção interestadual são onerosas e requerem tempo, bem como porque todos os esforços estão sendo envidados para tanto, pela autoridade dita coatora”.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 21 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                  Documento assinado digitalmente
