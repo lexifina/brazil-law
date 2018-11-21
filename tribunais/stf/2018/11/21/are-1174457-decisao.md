@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. EXECUÇÃO. OPÇÃO PELO BENEFÍCIO MAIS VANTAJOSO CONCEDIDO NA VIA ADMINISTRATIVA. EXECUÇÃO DAS PARCELAS ATRASADAS RECONHECIDAS POR DECISÃO JUDICIAL. POSSIBILIDADE.
+    – Encontra-se pacificado o entendimento de que reconhecido o direito ao recebimento de mais de um benefício dessa natureza é facultado ao segurado fazer a opção pelo que lhe seja mais vantajoso.
+    – O ora agravante teve reconhecido na via judicial seu direito a aposentadoria especial, com termo inicial fixado em 08.02.2012. Na via administrativa foi concedida a aposentadoria por tempo de contribuição, com DIB em 17.07.2014.
+    – A E. Terceira Seção desta C. Corte, pelas Turmas que a compõe, manifestou-se no sentido de que não há vedação legal para o recebimento da aposentadoria concedida no âmbito judicial anteriormente ao período no qual houve a implantação do benefício da esfera administrativa, sendo vedado tão somente o recebimento conjunto.
+    – Optando pela manutenção do benefício mais vantajoso, concedido administrativamente, são devidas ao autor as parcelas atrasadas, referentes à aposentadoria especial concedida no âmbito judicial, no período anterior à concessão da aposentadoria por tempo de contribuição implantada na esfera administrativa.
+    – Agravo de instrumento provido.”
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe destacar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “No caso dos autos, o ora agravante teve reconhecido na via judicial seu direito a aposentadoria especial, com termo inicial fixado em 08.02.2012. Na via administrativa foi concedida a aposentadoria por tempo de contribuição, com DIB em 17.07.2014.
+    A esse respeito, a E. Terceira Seção desta C. Corte, pelas Turmas que a compõe, manifestou-se no sentido de que não há vedação legal para o recebimento da aposentadoria concedida no âmbito judicial anteriormente ao período no qual houve a implantação do benefício da esfera administrativa, sendo vedado tão somente o recebimento conjunto.
+    Confira-se:
+    …..........................................................................................
+    Assim, optando pela manutenção do benefício mais vantajoso, concedido administrativamente, são devidas ao autor as parcelas atrasadas, referentes à aposentadoria especial concedida no âmbito judicial, no período anterior à concessão da aposentadoria por tempo de contribuição implantada na esfera administrativa.
+    Por essas razões, o benefício concedido administrativamente deverá ser mantido e deverão ser apuradas as diferenças referentes ao reconhecimento do direito na esfera judicial, em liquidação do julgado.”
+    Vê-se, portanto, que a pretensão deduzida pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende registrar, por necessário, que o entendimento exposto na presente decisão tem sido observado em julgamento proferidos no âmbito desta Corte (ARE 1.110.639/SP, Rel. Min. EDSON FACHIN – ARE 1.121.774/SP, Rel. Min. GILMAR MENDES – RE 1.093.210/SC, Rel. Min. RICARDO LEWANDOWSKI – RE 1.108.786/SC, Rel. Min. DIAS TOFFOLI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 21 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
