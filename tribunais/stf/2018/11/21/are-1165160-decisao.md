@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS OPOSTOS CONTRA NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO: ININTERRUPÇÃO DO PRAZO RECURSAL. INTEMPESTIVIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Quarta Turma Recursal Cível e Criminal de São Luís:
+    “EMBARGOS À EXECUÇÃO – ASTREINTES – VALOR EXCESSIVAMENTE DESPROPORCIONAL – REDUÇÃO – RECURSO PARCIALMENTE PROVIDO”.
+    2. A agravante alega contrariados o inc. V e o § 2º do art. 5º da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de deserção e intempestividade.
+    4. Contra essa decisão a agravante opôs embargos de declaração.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste à agravante.
+    6. O agravo não pode ser conhecido por ser intempestivo.
+    A agravante tomou ciência da decisão agravada em 13.4.2018 (sexta-feira) e o prazo recursal começou a fluir em 16.4.2018 (segunda-feira), terminando em 7.5.2018 (segunda-feira).
+    O agravo foi protocolizado em 16.5.2018 (quarta-feira), quando exaurido o prazo legal de quinze dias.
+    7. A interposição de recurso manifestamente incabível (embargos de declaração contra inadmissão de recurso extraordinário) não interrompeu o prazo recursal, nos termos da jurisprudência deste Supremo Tribunal:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS CONTRA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. RECURSO INCABÍVEL. AUSÊNCIA DE SUSPENSÃO OU INTERRUPÇÃO DO PRAZO RECURSAL. INTEMPESTIVIDADE DO AGRAVO. OBSCURIDADE INOCORRENTE. CARÁTER INFRINGENTE. Inexistente descompasso lógico entre os fundamentos adotados e a conclusão do julgado, a afastar a tese veiculada nos embargos declaratórios de que obscuro o decisum. A insurgência veiculada nos declaratórios contra o entendimento de que “a jurisprudência desta Corte é firme no sentido de que os embargos de declaração opostos contra a decisão de inadmissibilidade do recurso extraordinário, em razão de serem manifestamente incabíveis, não suspendem nem interrompem o prazo para a interposição do agravo”, ostenta nítido caráter infringente, hipótese para a qual desserve a via eleita (art. 535 do CPC). Embargos de declaração rejeitados” (ARE n. 690.259-AgR-ED, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 4.9.2014).
+    “Embargos de declaração em agravo interposto nos próprios autos do recurso extraordinário. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 2. Processo Penal. Embargos de declaração opostos contra decisão que não admitiu recurso extraordinário. Recurso manifestamente incabível. Agravo intempestivo. Precedentes. 3. Agravo regimental a que se nega provimento” (ARE n. 750.388-ED, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 1º.7.2013).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AGRAVO INTEMPESTIVO. EMBARGOS DECLARATÓRIOS CONTRA DECISÃO QUE INADMITIU RECURSO EXTRAORDINÁRIO. NÃO INTERRUPÇÃO OU SUSPENSÃO DO PRAZO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 689.264-ED, de minha relatoria, Primeira Turma, DJe 19.9.2012).
+    “Agravo regimental no agravo de instrumento. Intempestividade. embargos declaratórios incabíveis. Não suspensão ou interrupção do prazo recursal. Precedentes. 1. A jurisprudência desta Corte é pacífica no sentido de que a oposição de embargos de declaração contra a decisão do Presidente do Tribunal de origem que não admitiu o recurso extraordinário, por serem incabíveis, não suspende ou interrompe o prazo para a interposição do agravo de instrumento. 2. Agravo regimental não provido” (AI n. 637.038-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 8.6.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. EMBARGOS DE DECLARAÇÃO INCABÍVEIS. IMPOSSIBILIDADE DE SUSPENSÃO OU INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. PRECEDENTES. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte é pacífica no sentido de que a oposição de embargos de declaração contra a decisão do Presidente do Tribunal de origem que não admitiu o recurso extraordinário, por serem incabíveis, não suspende ou interrompe o prazo para a interposição do agravo de instrumento. Precedentes. II - Agravo regimental improvido” (ARE n. 663.031-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 15.3.2012).
+    Nada há a prover quanto às alegações da agravante.
+    8. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de novembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
