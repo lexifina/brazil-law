@@ -1,0 +1,34 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do NCPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração opostos por Frigoestrela S/A (em recuperação judicial) em face de acórdão da Quarta Turma, de minha relatoria, que negou provimento ao agravo interno da ora insurgente, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC/2015. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ.
+1. O Enunciado Administrativo 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016 dispõe que "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. In casu, verifica-se que o recurso especial impugna acórdão publicado na vigência do CPC de 1973.
+3. Consoante entendimento do STJ, a data a ser considerada para efeitos de aferição dos requisitos de admissibilidade do recurso especial é a da publicação do acórdão recorrido e não a data da publicação da decisão de admissibilidade proferida na origem, tampouco o momento de interposição do agravo em recurso especial. Precedente.
+4. Desse modo, devem ser exigidos os requisitos de admissibilidade na forma prevista no CPC/1973, com as interpretações dadas, até então, pela jurisprudência desta Corte, Não se aplicando o novo CPC ao caso dos autos, o que afasta o pedido de incidência da regra contida no art. 932 do CPC/2015.
+5. Agravo Interno não provido.
+Em suas razões, a agravante aponta erro material no julgado, defendendo que o CPC de 2015 é que deve reger a interpretação sobre os requisitos de admissibilidade do recurso especial. Aduz que, "independentemente da data da publicação do v. acórdão recorrido, fato é que a questão atinente à suposta falha na representação processual somente foi suscitada por ocasião do julgamento do Agravo em Recurso Especial, que foi INTERPOSTO sob a égide do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do ENUNCIADO Nº 3: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC"" (fl. 914). Conclui que, nessa perspectiva, "caso houvesse efetiva dúvida acerca da cadeia de procurações, deveria ter sido concedido prazo para a embargante esclarecer a questão e, se o caso, sanar eventual vício formal, a teor do parágrafo único do artigo 932 do CPC/2015" (fl. 914).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do NCPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não merece prosperar o recurso.
+Nos termos do artigo 1.022 do Novo CPC (aplicável à espécie), cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+No caso, o acórdão embargado consignou, com base na jurisprudência desta Corte, que a data a ser considerada para efeitos de aferição dos requisitos de admissibilidade do recurso especial é a da publicação do acórdão recorrido e não a data da publicação da decisão de admissibilidade proferida na origem, tampouco o momento de interposição do agravo em recurso especial.
+Adotada tal exegese, a Quarta Turma assinalou que devem ser exigidos os requisitos de admissibilidade na forma prevista no CPC de 1973, com as interpretações dadas, até então, pelo STJ, motivo pelo qual se revela descabida a incidência da regra contida no parágrafo único do artigo 932 do CPC/2015 ("Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.").
+O Enunciado Administrativo 5/STJ, ademais, bem assinala que, "nos recursos tempestivos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), não caberá a abertura de prazo prevista no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC".
+Assim, observada a correta adoção da orientação jurisprudencial desta Corte, não se vislumbra o erro material suscitado pela embargante, vício que, uma vez constatado, poderia ensejar a reforma da decisão impugnada.
+Ademais, os restritos limites dos embargos de declaração não permitem o rejulgamento da causa, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não ocorreu na hipótese.
+3. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
