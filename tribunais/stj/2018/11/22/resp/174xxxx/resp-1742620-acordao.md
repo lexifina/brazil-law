@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. OCORRÊNCIA DE SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. APLICAÇÃO DA SÚMULA 284/STF. LITISPENDÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O conhecimento do Recurso Especial exige a indicação do dispositivo supostamente violado ou objeto de interpretação divergente, o que não se observou no caso em apreço no ponto referente à alegada ocorrência de supressão de instância, circunstância que atrai a incidência do óbice previsto na Súmula 284/STF.
+2. Hipótese em que a Corte de origem foi clara e inequívoca ao atestar a existência da litispendência em razão da identidade entre as ações. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. LITISPENDÊNCIA. RECONHECIMENTO EM RELAÇÃO À AÇÃO ANULATÓRIA. TRÍPLICE IDENTIDADE. PRECEDENTES DO STJ E DESTA CORTE. CAUSA DE PEDIR
+1. 0 reconhecimento da litispendência exige a presença de identidade de demandas (partes, causa de pedir e pedido), devendo a segunda ser extinta, mantendo-se a primeira em que houve citação válida (art. 219, CPC/73).
+2. Conforme já reconhecido na sentença, há litispendência entre a ação anulatória e os embargos à execução no tocante às questões relativas ao cerceamento de defesa no procedimento administrativo e ao lançamento por arbitramento, porquanto as partes são as mesmas, bem como o pedido e a causa de pedir, sendo inviável a discussão de tais questões na presente demanda. Precedentes do STJ e desta Corte.
+3. Porém, não há litispendência no tocante à alegação de inconstitucionalidade das contribuições do salário -educação, por constituir pedido autônomo em relação ao da ação anulatória, devendo a sentença ser parcialmente reformada nesse ponto. Aplicável o art. 515, § 3º, do CPC/73.
+4. Com relação ao salário -educação, cumpre frisar que a constitucionalidade de sua exigência, tendo por referência tanto a Constituição vigente quanto a Carta Magna anterior, está pacificada pela jurisprudência pátria, havendo, inclusive, julgados proferidos sob a égide paradigmática (STF: RE 660933; STJ: REsp 1162307/RJ).
+5. Apelação parcialmente provida para afastar a litispendência em relação à alegação de inconstitucionalidade das contribuições do salário - educação, julgando-se improcedente o pedido inicial neste ponto (fl. 775, e-STJ).
+Nas razões do Recurso Especial (fls., e-STJ), a parte recorrente sustenta, além de divergência jurisprudencial, violação do art. 301, §§ 1º, 2º e 3º, do CPC/1973 (atual art. 337, §§ 1º, 2º e 3º do CPC/2015). Alega nulidade do julgado devido à existência de supressão de instância e que, "no caso dos autos, com a devida vênia, ao contrário do que decidido, não há que sequer se cogitar na identidade entre a ação anulatória e os embargos à execução fiscal, fato confirmado, agora, pelo próprio v. acórdão recorrido" (fl. 789, e-STJ).
+Aduz ainda que "o máximo que haveria, com a devida vênia, seria conexão entre as ações e não litispendência, já que o pedido constante dos embargos era mais amplo do que aquele deduzido na ação anulatória primeva, mesmo considerando que voltada essa contra a anulação de todos os lançamentos de ofício lavrados contra a Recorrente, implicando, então, na consequente suspensão do curso da execução fiscal e respectivos embargos, até decisão final a ser proferida nos autos da ação anulatória em referência" (fls. 789-790, e-STJ).
+Apresentadas contrarrazões (fls. 825-831, e-STJ), o recurso foi inadmitido na origem (fls. 835-839, e-STJ), o que ensejou a interposição de Agravo (fls. 841-853, e-STJ).
+Para melhor análise da controvérsia, foi dado provimento ao Agravo, determinando-se sua conversão em Recurso Especial (fl. 871, e-STJ).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 23 de maio de 2018.
+A irresignação não merece prosperar.
+De início, no que concerne à mencionada ocorrência de supressão de instância, verifica-se da leitura das razões do Recurso Especial que não foi indicado nenhum dispositivo legal violado, circunstância que atrai a incidência do óbice previsto na Súmula 284/STF.
+Quanto à litispendência, o Tribunal de origem, soberano na análise de fatos e provas, consignou as seguintes premissas fáticas:
+A despeito das razões formuladas pela apelante, a sentença deve ser mantida quanto à ocorrência de litispendência, porém somente nos limites dos elementos dos embargos que coincidem em relação à ação anulatória.
+Verifico, in casu, que as alegações dos embargos relativas ao cerceamento de defesa em relação ao procedimento de constituição do crédito e à inexigibilidade das contribuições previdenciárias por nulidade do lançamento por arbitramento constituem também a causa de pedir da ação anulatória que tramita sob o nº 96.0017778-3, perante a 17a Vara Cível Federal de São Paulo. Quanto a tais matérias, descabe sua apreciação nestes autos, ante a ocorrência da litispendência.
+O reconhecimento da litispendência exige a presença de identidade de demandas (partes, causa de pedir e pedido), devendo a segunda ser extinta, mantendo-se a primeira em que houve citação válida (art. 219, CPC/73).
+Conforme já reconhecido na sentença, há litispendência entre a ação anulatória e os embargos à execução, porquanto as partes são as mesmas, bem como o pedido e a causa de pedir.
+Sendo assim, é inviável a discussão das questões relativas ao cerceamento de defesa no procedimento administrativo e ao lançamento por arbitramento na presente demanda, sendo de rigor a manutenção da extinção dos embargos à execução sem resolução de mérito quanto a este ponto, com base no art. 267, V, do Código de Processo Civil de 1973.
+Acrescento que, mesmo não requerida expressamente por nenhuma das partes, a litispendência pode ser decretada de ofício, nos casos em que constatada a tríplice identidade pelo órgão julgador, por se tratar de matéria de ordem pública.
+(..)
+Uma vez formada a coisa julgada no processo de conhecimento ajuizado anteriormente, em relação a tais questões, ela também deverá produzir efeitos em relação à execução fiscal.
+Porém, não há litispendência no tocante à alegação de inconstitucionalidade das contribuições do salário-educação, por constituir pedido autônomo em relação ao da ação anulatória, devendo a sentença ser parcialmente reformada nesse ponto. Quanto ao tema, cumpre apreciar, por força do art. 515, § 3º, do CPC/73, o mérito da alegação constante da petição inicial dos embargos, o que passo a fazer (fls. 767-770, e-STJ).
+A Corte de origem foi clara e inequívoca ao atestar a existência da litispendência em razão da identidade entre as ações. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte.
+A propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. LITISPENDÊNCIA. COISA JULGADA. LITIGÂNCIA DE MÁ-FÉ. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7. INCIDÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. A análise da tese recursal de existência de litispendência/coisa julgada depende do reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial. Incidência do óbice da Súmula 7.
+3. O Tribunal de origem, para aplicar a multa por litigância de má-fé, reconheceu que a recorrente agiu de forma temerária, "atentando contra a credibilidade do Poder Judiciário", de modo que a revisão desse entendimento demandaria o reexame de matéria fático-probatória, providência vedada na sede especial, por força da Súmula 7 do STJ.
+4. Agravo interno desprovido (AgInt no AREsp 872.521/SP, Rel. Min. Gurgel de Faria, DJe 16.2.2018).
+PROCESSUAL CIVIL. SUPOSTA EXISTÊNCIA DE LITISPENDÊNCIA. LITIGÂNCIA DE MÁ-FÉ. MULTA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A leitura do acórdão recorrido leva à conclusão de que existe litispendência, conforme se observa: "verificou-se a propositura de outra demanda junto a 3ª Vara Cível da Comarca de Jundiaí, que foi julgada improcedente por sentença que transitou em julgado em 15/03/2005, com as mesmas partes e causa de pedir e pedido idênticos a esta, o que configura a ocorrência de litispendência" (fl. 103, e-STJ).
+2. A modificação do entendimento do julgado do Tribunal de origem exige que se verifiquem os elementos configuradores da litispendência entre ações, o que demanda reexame do conjunto fático-probatório dos autos. Súmula 7/STJ.
+3. No mesmo sentido, para aferir se houve ou não litigância de má-fé, reconhecida pela sentença de primeiro grau e mantida pelo Tribunal a quo, seria necessário nova análise do contexto fático-probatório, o que é inviável no STJ, ante o óbice da sua Súmula 7.
+4. Agravo Regimental não provido (AgRg no AREsp 316.845/SP, Rel. Min. Herman Benjamin, DJe 12.6.2013).
+Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL (..) REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. (..)
+(..)
+2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido (AgInt no AREsp 1069867/SP, Rel. Min. Mauro Campbell Marques, DJe 9.8.2017).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
