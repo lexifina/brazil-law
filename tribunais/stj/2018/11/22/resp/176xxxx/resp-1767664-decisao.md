@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que determinou o cumprimento sucessivo de penas privativa de liberdade e restritiva de direitos.
+ Sustenta o recorrente violação do art. 44, § 5º, do CP; art. 111, parágrafo único e art. 181, § 1º, "e", da LEP e art. 76 do CP, sob o fundamento de que, ante a incompatibilidade de cumprimento simultâneo das penas, a restritiva de direitos deve ser convertida em privativa de liberdade.
+Requer o provimento do recurso para que seja convertida em privativa de liberdade a pena restritiva de direitos.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso especial.
+É o relatório.
+Decido.
+O recorrido cumpria pena de 13 anos de reclusão, em regime fechado, quando, condenado, por outro crime, à pena de 1 ano e 8 meses de reclusão, substituída por pena restritiva de direitos, o juízo das execuções unificou as penas e converteu a pena restritiva de direitos em privativa de liberdade.
+Interposto agravo em execução, o Tribunal de origem entendeu possível o cumprimento sucessivo à pena privativa de liberdade, da pena restritiva de direitos, dando provimento ao recurso.
+Nas presentes razões recursais, sustenta o recorrente que a conversão ou não da pena restritiva fica unicamente na dependência da compatibilidade entre as duas sanções punitivas, desimportando qual foi imposta por primeiro (fl. 96). Assim, se não puderem ser cumpridas simultaneamente, como na presente hipótese, deve ser obrigatoriamente convertida em privativa de liberdade a pena restritiva de direitos.
+Ademais, alega ser indevida a utilização do artigo 76 do Código Penal como fundamento para a manutenção das penas restritivas de direitos e postergação do seu cumprimento, pois aquele dispositivo cuida da hipótese de concurso de crimes, disciplinando a forma de execução de penas fixadas em uma mesma condenação. Outrossim, tal dispositivo apenas poderia incidir havendo compatibilidade entre as penas aplicadas, como seria a hipótese, v.g., de pena de reclusão seguida de pena de detenção, o que não é o caso (fl. 99).
+O acórdão impugnado recebeu a seguinte ementa (fls. 80):
+AGRAVO EM EXECUÇÃO. CONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. CUMPRIMENTO SUCESSIVO. POSSIBILIDADE. ENTENDIMENTO DESTA TERCEIRA CÂMARA CRIMINAL. 1. Ressalvado o posicionamento pessoal deste Relator que se filia à orientação dominante do STJ, vai aplicado o entendimento firmado por esta Terceira Câmara Criminal no sentido da possibilidade de cumprimento sucessivo da pena restritiva de direitos quando pendente pena privativa de liberdade, nos termos do artigo 76, do Código Penal. RECURSO PROVIDO.
+O voto condutor do acórdão assim se manifestou quanto ao tema (fls. 79/84):
+Ressalvo entendimento pessoal, destacando que me filio à corrente dominante no Superior Tribunal de Justiça, no sentido de que o cumprimento simultâneo das penas privativas de liberdade com penas restritivas de direito somente é possível quando compatível o que não ocorre nos casos de regime fechado e semiaberto.
+ ..
+Porém, tendo em vista o posicionamento já firmado por esta Terceira Câmara Criminal, de acordo com o qual, nos termos do artigo 76 do Código Penal, é possível a execução sucessiva das penas privativa de liberdade e restritivas de direito, e cuidando-se a posição por mim partilhada de vencida nesta Câmara, mostra-se inócua a insistência em proferir voto divergente ou fadado a ser vencido.
+Nesse sentido seguem julgados:
+ ..
+Portanto, voto por dar provimento ao recurso para determinar a suspensão da pena restritiva de direitos relativa ao processo n9 073/2.13.0001376-0, para posterior cumprimento.
+De fato, nos termos do entendimento firmado por esta Corte superior, sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos se houver possibilidade de cumprimento simultâneo das reprimendas, o que não ocorre quando o cumprimento se dá em regime semiaberto ou fechado. Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REEDUCANDO EM CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE. CONDENAÇÃO SUPERVENIENTE. PENA RESTRITIVA DE DIREITOS. CUMPRIMENTO SIMULTÂNEO. IMPOSSIBILIDADE. CONVERSÃO DA PENA SUBSTITUTIVA EM REPRIMENDA RECLUSIVA.
+1. "A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP)" (HC 360.379/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/9/2016, DJe 22/9/2016).
+2. No caso dos autos, o agravante cumpria pena privativa de liberdade em regime fechado quando sobreveio nova condenação que foi substituída por pena restritiva de direitos.
+3. Desse modo, forçosa a conversão da pena substitutiva em privativa de liberdade e a posterior unificação das reprimendas. 4. Agravo regimental desprovido. (AgRg no REsp 1634175/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PACIENTE QUE CUMPRIA PENA PRIVATIVA DE LIBERDADE. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO A PENAS RESTRITIVAS DE DIREITOS. POSSIBILIDADE DE UNIFICAÇÃO DAS REPRIMENDAS. OBSERVÂNCIA DA REGRA INSERTA NO ART.111 DA LEI DE EXECUÇÕES PENAIS. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO.
+1. O entendimento firmado nesta Corte é de que, sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas. (HC 326.481/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/08/2015, DJe 01/09/2015).
+2. Independentemente de a condenação à pena restritiva de direitos ser anterior ou posterior à sanção privativa de liberdade, o único critério utilizável para manter a pena substitutiva é a compatibilidade de cumprimento simultâneo das reprimendas, quando da unificação.(HC 328.923/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 19/11/2015, DJe 09/12/2015).
+3. Agravo Regimental improvido.
+(AgRg no HC 311.138/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/03/2016, DJe 15/03/2016)
+Ante o exposto, dou provimento ao recurso especial para determinar a conversão da pena restritiva de direitos em privativa de liberdade.
+Publique-se. Intimem-se.
