@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. REAJUSTE DAS MENSALIDADES. ABUSIVIDADE. REVISÃO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 2. . AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, o Tribunal a quo reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inadmissível ante a natureza excepcional da via eleita, consoante as Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão desta relatoria que conheceu do agravo para negar provimento ao recurso especial, assim ementada (e-STJ, fl. 437):
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE. ABUSIVIDADE. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E A ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+A agravante sustenta a inaplicabilidade das Súmulas n. 5 e 7 do STJ, sob a alegação de que não há necessidade de revolvimento de matéria fática, nem interpretação de cláusula contratual.
+Afirma que o recurso especial não foi interposto por alegação de divergência jurisprudencial, sendo os precedentes citados em sua defesa, a título argumentativo.
+Sem impugnação ao recurso fl. 461 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. REAJUSTE DAS MENSALIDADES. ABUSIVIDADE. REVISÃO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 2. . AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, o Tribunal a quo reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inadmissível ante a natureza excepcional da via eleita, consoante as Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A irresignação não merece prosperar.
+Com efeito, conforme asseverado na decisão agravada, a Terceira Turma deste Superior Tribunal possui entendimento no sentido que os contratos grupais de assistência à saúde com menos de 30 (trinta) beneficiários possuem características híbridas, pois ostentam alguns comportamentos dos contratos individuais ou familiares, apesar de serem coletivos.
+A propósito:
+RECURSO ESPECIAL. CIVIL. SAÚDE SUPLEMENTAR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE TRINTA BENEFICIÁRIOS. RESCISÃO UNILATERAL E IMOTIVADA. CLÁUSULA CONTRATUAL. MITIGAÇÃO. VULNERABILIDADE. CONFIGURAÇÃO. CARACTERÍSTICAS HÍBRIDAS. PLANO INDIVIDUAL E COLETIVO. CDC. INCIDÊNCIA. MOTIVAÇÃO IDÔNEA. NECESSIDADE. REAJUSTES ANUAIS. MECANISMO DO AGRUPAMENTO DE CONTRATOS. REAJUSTE POR FAIXA ETÁRIA. IDOSO. PERCENTUAL ABUSIVO. DEMONSTRAÇÃO. QUANTIAS PAGAS A MAIOR. DEVOLUÇÃO. PRESCRIÇÃO TRIENAL. OBSERVÂNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As questões controvertidas nestes autos são: se é válida a cláusula contratual que admite a rescisão unilateral e imotivada do plano de saúde coletivo empresarial que contém menos de 30 (trinta) beneficiários e se a devolução das quantias de mensalidades pagas a maior deve se dar a partir de cada desembolso ou do ajuizamento da demanda.
+3. É vedada a suspensão ou a rescisão unilateral nos planos individuais ou familiares, salvo por motivo de fraude ou de não pagamento da mensalidade por período superior a 60 (sessenta) dias (art. 13, parágrafo único, II, da Lei nº 9.656/1998). Incidência do princípio da conservação dos contratos.
+4. Nos contratos de planos privados de assistência à saúde coletivos, admite-se a rescisão unilateral e imotivada após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias, desde que haja cláusula contratual a respeito (art. 17, caput e parágrafo único, da RN ANS nº 195/2009).
+5. Os contratos grupais de assistência à saúde com menos de 30 (trinta) beneficiários possuem características híbridas, pois ostentam alguns comportamentos dos contratos individuais ou familiares, apesar de serem coletivos. De fato, tais avenças com número pequeno de usuários contêm atuária similar aos planos individuais, já que há reduzida diluição do risco, além de possuírem a exigência do cumprimento de carências. Em contrapartida, estão sujeitos à rescisão unilateral pela operadora e possuem reajustes livremente pactuados, o que lhes possibilita a comercialização no mercado por preços mais baixos e atraentes.
+6. Diante da vulnerabilidade dos planos coletivos com quantidade inferior a 30 (trinta) usuários, cujos estipulantes possuem pouco poder de negociação em relação à operadora, sendo maior o ônus de mudança para outra empresa caso as condições oferecidas não sejam satisfatórias, e para dissipar de forma mais equilibrada o risco, a ANS editou a RN nº 309/2012, dispondo sobre o agrupamento desses contratos coletivos pela operadora para fins de cálculo e aplicação de reajuste anual.
+7. Os contratos coletivos de plano de saúde com menos de 30 (trinta) beneficiários não podem ser transmudados em plano familiar, que não possui a figura do estipulante e cuja contratação é individual. A precificação entre eles é diversa, não podendo o CDC ser usado para desnaturar a contratação.
+8. Em vista das características dos contratos coletivos, a rescisão unilateral pela operadora é possível, pois não se aplica a vedação do art. 13, parágrafo único, II, da Lei nº 9.656/1998, mas, ante a natureza híbrida e a vulnerabilidade do grupo possuidor de menos de 30 (trinta) beneficiários, deve tal resilição conter temperamentos, incidindo, no ponto, a legislação do consumidor para coibir abusividades, primando também pela conservação contratual (princípio da conservação dos contratos).
+9. A cláusula contratual que faculta a não renovação do contrato de assistência médica-hospitalar nos contratos de plano de saúde com menos de 30 (trinta) usuários não pode ser usada pela operadora sem haver motivação idônea. Logo, na hipótese, a operadora não pode tentar majorar, de forma desarrazoada e desproporcional, o custeio do plano de saúde, e, após, rescindi-lo unilateralmente, já que tal comportamento configura abusividade nos planos coletivos com menos de 30 (trinta) beneficiários.
+10. É possível a devolução dos valores de mensalidades de plano de saúde pagos a maior, diante do expurgo de parcelas judicialmente declaradas ilegais, a exemplo de reajustes reconhecidamente abusivos, em virtude do princípio que veda o enriquecimento sem causa. Aplicação da prescrição trienal em tal pretensão condenatória de ressarcimento das quantias indevidamente pagas. Precedente da Segunda Seção, em recurso repetitivo.
+11. Recurso especial parcialmente provido.
+(REsp 1553013/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/03/2018, DJe 20/03/2018)
+Em relação ao reajuste das mensalidades realizado pelo plano de saúde, consta do acórdão recorrido (e-STJ, fl. 337):
+Somente é admitido o reajuste por aumento do índice de sinistralidade se comprovado o desequilíbrio contratual.
+Não é esse o caso dos autos . Ao contrário do que sustenta a ré, o contrato em análise, malgrado firmado em nome da empresa autora, é do tipo familiar, com apenas dois beneficiários.
+Para tal modalidade de contrato tem incidência tanto o Código de Defesa do Consumidor quanto a Lei de Planos de Saúde.
+Sendo assim, o reajuste em percentual bem superior aos praticados à época ou, ainda, divulgados pelos órgãos oficiais, fundado em suposto aumento de sinistralidade, viola o quanto disposto no art. 51, IX e XI, do CDC, e provoca desequilíbrio na relação contratual estabelecida entre as partes, contrariando a natureza do instrumento firmado.
+Parece evidente que, em razão do número reduzido de participantes, o contrato celebrado não atende ao princípio da mutualidade, em que há socialização dos prejuízos pelos integrantes da carteira.
+Desse modo, verifica-se que a abusividade foi constada pelo Tribunal de origem após a acurada análise do acervo probatório e das cláusulas contratuais, sendo inviável infirmar suas conclusões nesta instância extraordinária ante a incidência dos óbices das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
