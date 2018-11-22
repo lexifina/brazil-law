@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CHRYSTIAN HENRIQUES SOARES contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos que o Juízo das Execuções unificou as penas do ora paciente, estabelecendo a data do primeiro recolhimento (26/6/2014) como marco inicial para a concessão de novos benefícios.
+Em agravo do Ministério Público, o Tribunal de origem fixou a data do trânsito em julgado da última condenação (4/11/2016) como termo a quo para o cálculo de novos benefícios, em acórdão assim ementado:
+RECURSO DE AGRAVO. UNIFICAÇÃO DE PENAS. INICIAL PARA CÁLCULO DE BENEFÍCIOS. DATA DO TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO POSSIBILIDADE. PRECEDENTES DO STF, STJ E DESTA CORTE. PREQUESTIONAMENTO.
+1. Sobrevindo nova condenação no curso da execução penal e unificadas as penas do sentenciado, o marco inicia para o cálculo de novos benefícios é a data do trânsito em julgado da última condenação, conforme pacifica jurisprudência das Cortes Superiores e deste Tribunal de Justiça, sendo inviável a consideração da data do primeiro recolhimento para esse fim.
+2. Recurso conhecido e provido (fl. 29)
+No presente writ, a impetrante sustenta, em síntese, que a alteração da data-base pelo trânsito em julgado da nova condenação não possui amparo legal, além de causar prejuízo ao sentenciado, pois desconsidera o período em que ficou preso antes do trânsito.
+Assim, requer, em liminar e no mérito, o restabelecimento da decisão do Juízo da Execução Penal.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão parcial da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. INTERRUPÇÃO DA CONTAGEM DO PRAZO PARA A CONCESSÃO DE BENEFÍ- CIOS. RESTRIÇÃO QUANTO AO LIVRAMENTO CONDICIONAL, AO INDULTO E À COMUTAÇÃO DA PENA. FALTA DE PREVISÃO LEGAL. CONCESSÃO PARCIAL DA ORDEM.
+1. A unificação de penas, em razão da superveniência de nova conde- nação no curso da execução, implica a interrupção da contagem do lapso temporal exigido para a progressão de regime, mas não para fins de concessão de indulto, de comutação da pena e de livramento condicional, por falta de previsão legal.
+2. Parecer pela concessão parcial da ordem, afastando-se apenas a determinação de interrupção do lapso temporal para fins de livramen- to condicional. (fl. 165)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+A Terceira Seção deste Tribunal Superior, em recente julgado (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018), alterou seu entendimento para estabelecer que a unificação das penas, por si só, não altera a data-base para concessão de novos benefícios, devendo ser considerada a data da última prisão ou a data da última infração disciplinar.
+Veja-se a ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 15/3/2018).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer a decisão de primeiro grau.
+Publique-se.
+Intimações necessárias.
