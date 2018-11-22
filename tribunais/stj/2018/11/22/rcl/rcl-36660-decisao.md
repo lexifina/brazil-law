@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de reclamação proposta por RAMON FERNANDES VIEIRA DE JESUS e OUTROS, com fundamento no art. 105, I, alínea "f", da Constituição Federal, nos arts. 13 a 18 da Lei n. 8.038/1990, no art. 988, II, do CPC/2015 e na Resolução 12/2009 deste Tribunal.
+Narra a parte reclamante que (e-STJ fls. 4/6):
+ ..  cumpriu com todos os requisitos editalícios e honrou as obrigações pecuniárias do certame, submetendo-se ao Concurso Público para a Seleção de Candidatos ao Curso de Formação de Soldados da Polícia Militar e Corpo de Bombeiros Militar do Estado da Bahia no dia 06 de Agosto de 2017, cumprindo com todos os requisitos do Edital n. - 01/2017, DE 09 DE MAIO DE 2017.
+Durante a realização do concurso, dentre as questões apresentadas nas provas objetivas, encontravam-se aquelas que versavam sobre HISTORIA.
+É sabido que a vinculação do conteúdo das provas ao edital oferece a garantia legal da lisura e segurança do Concurso Público. Todo o certame deve se dar de acordo com as regras e critérios preestabelecidos por estas normas, que organizam e regem o processo seletivo.
+A quebra desta confiança aconteceu quando a questão n. 19 da prova, que teve gabarito preliminar constando a alternativa ""D""como correta, sofreu retificação de gabarito, constando a alternativa ""A"" no resultado final, comprometendo aqueles candidatos que escolheram a assertiva anterior.
+Conforme se depreende de parecer técnico, em anexo, tal retificação não deveria ter sido feita, uma vez que todas as assertivas apresentadas na questão estão CORRETAS, exatamente como aponta a alternativa ""D"".
+Da ocorrência deste fato jurídico nasce, para os autores, o direito subjetivo de exigir a anulação da questão de n 19 da prova, e aproveitamento dos pontos a ela relativos, vez que a EQUIVOCADA RETIFICACAO DO GABARITO, lhes causou prejuízo.
+ ..  o Exmo Juízo a quo da 1ª Vara do Sistema dos Juizados Especiais da Fazenda Pública da Comarca de Salvador, [NOME] indeferiu o pedido por entender que se trataria de intervenção do Poder Judiciário no mérito do ato administrativo.
+ ..
+Irresignado, o recorrente interpôs Recurso Inominado e este foi conhecido, porém, negado provimento pela 6ª Turma Recursal do Tribunal de Justiça do Estado da Bahia, constando no Acórdão vergastado a seguinte fundamentação:
+"(..)NEGAR PROVIMENTO AO RECURSO, para manter a sentença pelos seus próprios fundamentos. Condeno a parte recorrente ao pagamento das custas processuais e dos honorários advocatícios, estes arbitrados em 20% (quinze) sobre o valor da causa, ficando suspenso o ônus pelo prazo de 05 (cinco) anos, em razão dos benefícios da assistência judiciária gratuita que lhe foram concedidos (art. 98, § 3º, do Código de Processo Civil).
+Inconformado, manejou a presente reclamação constitucional, sustentando, em síntese, que não se trata de substituir a banca examinadora do certame, "mas tão somente de corrigir flagrante ilegalidade relacionada à inserção de conteúdo não previsto na primeira etapa do concurso" (e-STJ fl. 6).
+Aduz que há vasta jurisprudência reconhecendo o princípio da vinculação ao edital, de forma que essa regra deve ser respeitadas pelas partes.
+Para análise da demanda, determinei que a parte reclamante regularizasse a petição inicial, juntando cópia de todos os documentos necessários à instrução do feito, especialmente do julgado desta Corte supostamente descumprido, da sentença e do acórdão atacado (e-STJ fl. 36). Petição foi juntada aos autos (e-STJ fls. 41/114).
+O Ministério Público Federal opinou pela extinção do feito (e-STJ fls. 34/35).
+Passo a decidir.
+Nos termos do art. 105, I, "f", da Constituição Federal, c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, garantir a autoridade das suas decisões, a observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+In casu, conforme consta na inicial, a presente reclamação foi proposta com o fim de atacar acórdão prolatado pela 6ª Turma Recursal do Tribunal de Justiça do Estado da Bahia.
+Ocorre que, nos documentos juntados aos autos (e-STJ fls. 1/24 e 41/114), não consta cópia do aresto proferido pela 6ª Turma Recursal do TJBA - que negou provimento ao recurso inominado - , o que, desde logo, inviabiliza o exame da pretensão por falta de documento imprescindível à admissão do pedido.
+Soma-se a isso o fato de que a parte reclamante não indicou qual o precedente desta Corte, julgado pela sistemática dos recursos repetitivos ou Súmula deste Tribunal, estaria sendo supostamente desrespeitado pelo Tribunal de origem.
+Assim, a presente insurgência não merece conhecimento.
+Nesse sentido: Rcl 20.889/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, DJe 22/10/2018; Rcl 14.099/RS, Rel. Min. ANTÔNIO CARLOS FERREIRA, Segunda Seção, DJe 16/06/2016.
+Ante o exposto, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a presente reclamação, sem exame de mérito, com fundamento no art. 485, I, do CPC/2015 e no art. 34, XVIII, do RISTJ.
+Publique-se. Intimem-se.
