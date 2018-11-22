@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. BENEFÍCIO. TETO DO SALÁRIO DE BENEFÍCIO. EC 20/1998 E 41/2003. REVISÃO. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RESERVADA AO STF.
+1. Não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. A demanda gira em torno da possibilidade de incidência dos valores dos tetos estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003, aos benefícios previdenciários concedidos anteriormente à entrada em vigor das referidas Emendas.
+3. O acórdão recorrido analisou a questão sob o enfoque de interpretação eminentemente constitucional. Dessarte, a apreciação da matéria em Recurso Especial fica inviabilizada, sob pena de usurpação da competência do STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. DECADÊNCIA. PRESCRIÇÃO. REVISÃO. BENEFÍCIOS ANTERIORES À CF/88. MENOR E MAIOR VALOR TETO. NOVOS TETOS. JUROS E CORREÇÃO MONETÁRIA. LEI 11.960/2009. CRITÉRIOS DE ATUALIZAÇÃO.
+DIFERIMENTO PARA A FASE PRÓPRIA (EXECUÇÃO). HONORÁRIOS ADVOCATÍCIOS.
+1. Não há decadência porquanto não se trata de revisão do ato de concessão, e sim de reajustes posteriores.
+2. A prescrição é interrompida para as ações individuais pelo ajuizamento de ação coletiva nº 0004911-28.2011.4.03.6183.
+3. Entendimento do STF também é aplicado aos benefícios concedidos antes da vigência da Constituição Federal de 1988, época em que a legislação previdenciária também estabelecia tetos limitadores, no caso o menor ou maior valor teto, aplicáveis ao valor do salário-de-benefício (arts. 21 e 23 da CLPS/84, arts. 26 e 28 da CLPS/76 e art. 23 da LOPS).
+4. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei nº 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+5. Confirmada a sentença no mérito, majoro a verba honorária para 15% (quinze por cento) sobre as parcelas vencidas até a data da sentença, considerando as variáveis dos incisos I a IV do § 2º do artigo 85 do NCPC (fl. 144, e-STJ).
+Opostos Embargos de Declaração (fls. 150-153, e-STJ), estes foram rejeitados (fls. 162-165, e-STJ).
+Nas razões do Recurso Especial (fls. 172-182, e-STJ), a parte recorrente sustenta violação dos arts. 1.022 do CPC/2015; 40 do Decreto 82.080/1979; 21, 23 e 25 do Decreto 89.312/1984. Alega negativa de prestação jurisdicional, bem como defende a impossibilidade de "concessão da readequação do benefício concedido antes da Constituição Federal de 1988 aos tetos estabelecidos nas Emendas Constitucionais n. 20/1998 e Emenda Constitucional n. 41/2003" (fl. 181, e-STJ).
+Apresentadas as contrarrazões (fls. 204-208, e-STJ), o recurso foi admitido na origem (fls. 214-215, e-STJ).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 23 de maio de 2018.
+Não há como acolher a alegada tese de violação ao art. 1.022 do CPC/2015, visto que o Tribunal de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, ainda que sob ótica diversa daquela almejada pelo ora agravante, não padecendo o acórdão recorrido de qualquer omissão, contradição, obscuridade ou erro material.
+Observa-se que os Embargos de Declaração opostos perante a instância de origem, em vez de apontarem vício formal do julgado, pleitearam a reapreciação do mérito da demanda, pretensão essa que não autoriza o manejo do recurso aclaratório.
+Inexiste, portanto, ausência de exame da insurgência recursal, e, sim, um exame que conduziu a resultado diverso do que a parte pretendia. Isso não configura vício da prestação jurisdicional.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+3. Manifesto o caráter protelatório dos embargos de declaração, é de rigor a aplicação de multa sobre o valor atualizado da causa, prevista no § 2º do art. 1.026 do CPC/2015.
+4. Embargos de declaração rejeitados, com imposição de multa de 1% sobre o valor da causa (EDcl no AgInt no AREsp 1.011.647/SP, Rel. Min. Lázaro Guimarães,Des. Conv. do TRF 5ª Região, DJe 18.12.2017).
+TRIBUTÁRIO E PROCESSUAL CIVIL. (..) ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. MERO INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE, NA VIA ESPECIAL, PELO STJ. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+(..)
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material _ seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente _, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+(..)
+V. Embargos de Declaração rejeitados (EDcl nos EDcl no REsp 1.334.203/PR, Rel. Min. Assusete Magalhães, DJe 24.6.2016).
+No tocante ao pleito revisional, o acórdão recorrido apreciou a questão sob o enfoque das Emendas Constitucionais 20/1998 e 41/2003, o que impede a análise em Recurso Especial, uma vez que a adoção pela instância ordinária de fundamento eminentemente constitucional na solução da lide inviabiliza o conhecimento do apelo extremo, sob pena de usurpação da competência do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. READEQUAÇÃO DE BENEFÍCIO. REVISÃO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. ANÁLISE VEDADA. USURPAÇÃO DA COMPETÊNCIA DO STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. A demanda gira em torno da possibilidade de incidência dos valores dos tetos estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003, aos benefícios previdenciários concedidos anteriormente à entrada em vigor das referidas Emendas.
+3. O acórdão recorrido analisou a questão sob o enfoque de interpretação eminentemente constitucional. Dessarte, a apreciação da matéria em Recurso Especial fica inviabilizada, sob pena de usurpação da competência do STF.
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido (REsp 1.702.665/RS, Rel. Min. Herman Benjamin, DJe 19.12.2017).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.(..)
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+2. O recorrente afirma que a readequação aos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003, não alcança os benefícios concedidos antes da promulgação da CF/1988, porquanto, obedecem a critérios de cálculos distintos. Quanto ao ponto, verifica-se que o acórdão recorrido apreciou a questão sob o enfoque eminentemente constitucional, o que impede a sua análise em sede de recurso especial, a despeito de o recorrente ter interposto recurso extraordinário, vez que a adoção pela instância ordinária de fundamento exclusivamente constitucional na solução da lide, inviabiliza o conhecimento do recurso especial.
+(..)
+(REsp 1672822/SC, Rel. Min. Maruo Campbell Marques, DJe 30.6.2017).
+Por fim, havendo prévia fixação de honorários de advogado pelas instâncias de origem, é possível sua majoração em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento. Honorários advocatícios majorados no importe de 10% (dez por cento) do valor já arbitrado.
+É como voto.
