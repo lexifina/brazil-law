@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS ALBERTO ALVES, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão da seguinte forma ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA, EM FASE DE CUMPRIMENTO DE SENTENÇA - decisão pela qual foi reconhecida a existência de saldo remanescente em favor da agravada, sob o fundamento de que as pensões devidas ao agravante foram computadas em duplicidade - insurgência no tocante ao reconhecimento de duplicidade do cômputo das pensões e em relação à correção monetária - decisão reconsiderada em relação à duplicidade - perda superveniente do objeto - pedido recursal em referência não conhecido - correção monetária - sentença exequenda na qual foi estabelecida que a atualização seria feita de acordo com a evolução do salário mínimo vigente na data do pagamento - determinação que deve ser interpretada no sentido de que o salário mínimo a ser considerado é aquele vigente no mês em que a vítima, ora agravante, receberia sua remuneração - a partir disso, a correção monetária deve ser calculada com a utilização da Tabela Prática do TJSP - entendimento contrário que ensejaria inaceitável utilização do salário mínimo como indexador, o que é vedado pelo art. 7º, IV da CF - decisão mantida - agravo desprovido.
+Opostos os embargos de declaração, foram rejeitados pelo Tribunal de origem.
+Nas razões do especial, aponta o recorrente existência de dissídio jurisprudencial, além de violação dos artigos 337 e 504 do novo Código de Processo Civil; 186 e 927 do Código Civil, sob o argumento de que os cálculos periciais homologados pelo Juízo executório, aplicaram índice de atualização ao saldo exequente em desconformidade com o título judicial, visto ter considerado o valor do salário mínimo vigente na data do pagamento, acrescido de correção monetária, não refletindo a reparação econômica devida.
+O recurso foi admitido na origem, nos termos da decisão de fls. 346-348, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos (fl. 259, e-STJ):
+É certo que na sentença exequenda foi determinado que a atualização monetária do valor da indenização se daria "de acordo com a evolução do salário mínimo vigente na data do pagamento" (fls. 39/42).
+Ocorre que a interpretação do critério estabelecido na sentença mais consentânea com o ordenamento jurídico vigente é mesmo aquela dada pelo i. magistrado de 1º grau, qual seja, a de que o salário mínimo a ser considerado é aquele vigente no mês em que a vítima, ora agravante, receberia sua remuneração - recebimento parcialmente obstado pelo dano causado pela agravada. A partir disso, a correção monetária deve ser calculada de maneira ordinária, com a adoção da Tabela Prática deste Tribunal.
+Com efeito, ao se referir ao "salário mínimo vigente na data do pagamento", considerando que a sentença foi prolatada em abril de 1992 - poucos meses após o ajuizamento da ação o i. juiz sentenciante certamente considerou o pagamento feito tempestivamente, no mês em que o agravante efetivamente o receberia, em substituição à contraprestação integral por seu trabalho que seria percebida não fosse o dano causado pela agravada.
+A se adotar o critério defendido pelo agravante, haveria inaceitável utilização do salário mínimo como indexador, o que é vedado pelo artigo 7º, inciso IV, da Constituição Federal.
+A conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, cuja orientação é de que a apuração do saldo exequente deve converter em valores líquidos à data do vencimento, vinculando-se o valor vigente do salário mínimo à época, acrescidos de correção monetária. Confiram-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. RESPONSABILIDADE CIVIL. ATROPELAMENTO EM VIA FÉRREA. MORTE DE TRANSEUNTE. DANO MATERIAL. PENSÃO MENSAL. INDEXAÇÃO AO SALÁRIO MÍNIMO. NÃO-CABIMENTO. CORREÇÃO MONETÁRIA. TERMO INICIAL. PROFISSIONAL AUTÔNOMO. INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO. 13º SALÁRIO E GRATIFICAÇÃO DE FÉRIAS. EXCLUSÃO. JULGAMENTO EXTRA PETITA. DANOS MORAIS. CORREÇÃO MONETÁRIA. SÚMULA N. 352/STJ.
+1. (..)
+2. (..)
+3. As parcelas de pensão fixada em salário mínimo devem ser convertidas em valores líquidos à data do vencimento e, a partir de então, atualizadas monetariamente.
+4. (..)
+5. Embargos de declaração parcialmente acolhidos, com efeitos modificativos, para sanar as omissões e contradições e determinar: (a) a exclusão dos valores relativos ao décimo terceiro salário e à gratificação de férias do cálculo da indenização, (b) a incidência de correção monetária sobre o valor da indenização por danos morais, de acordo com a Súmula n. 362/STJ, e (c) a conversão das parcelas de pensão, fixada em salário mínimo, em valores líquidos, atualizados monetariamente, a partir de cada vencimento, mantendo-se, no mais, o acórdão embargado (e-STJ fls. 537/545).
+(EDcl no REsp 1123704/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 24/3/2015)
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO RECONHECIDA.
+- (..)
+- (..)
+- As parcelas de pensão, fixadas em salários mínimos, devem ser convertidas em valores líquidos à data do vencimento e, a partir de então, corrigidas monetariamente.
+- Embargos de declaração acolhidos.
+(EDcl no REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/4/2012)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Outrossim, em recurso especial não há como reconhecer a existência de ofensa à coisa julgada quando há mais de uma interpretação a ser extraída do título judicial transitado em julgado, por demandar inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte (REsp 1140369/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/9/2017).
+Diante do exposto, nego provimento ao recurso especial.
+Intimem-se.
