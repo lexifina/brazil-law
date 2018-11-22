@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. PROVA TESTEMUNHAL. LABOR AGRÍCOLA EM TODO PERÍODO POSTULADO. INEXISTÊNCIA. SÚMULA 7 DO STJ. APLICAÇÃO.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Na esteira do REsp n. 1.348.633/SP, da Primeira Seção, para efeito de reconhecimento do labor agrícola, mostra-se desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a eficácia daquele seja ampliada por prova testemunhal idônea.
+3. Caso em que o Tribunal a quo considerou indevida a aposentadoria por tempo de serviço, por concluir que o exercício de atividade rural não foi corroborado pela prova testemunhal, sendo certo que a inversão do julgado esbarra no óbice do verbete sumular 7 do STJ.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão de minha lavra, em que conheci do agravo para não conhecer do recurso especial, visto que a análise da comprovação do labor agrícola do autor demandaria o reexame de provas a teor da Súmula 7 do STJ (e-STJ fls. 270/272).
+O agravante sustenta que não pretende o reexame de matéria fática, mas a sua devida valoração.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 288).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal registro, verifico que a irresignação não merece prosperar.
+O caso dos autos diz respeito ao meio de comprovação do tempo de labor agrícola do segurado para efeito de aposentadoria rural por idade.
+Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n. 8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+No caso concreto, o Tribunal a quo considerou indevida a aposentadoria por tempo de serviço, por concluir "a fragilidade e a inidoneidade dos depoimentos colhidos, motivo pelo qual a prova testemunhal não se mostra convincente e robusta apta a corroborar o início de prova material" (e-STJ fl. 235).
+De observar que o decisum ora recorrido não destoa do entendimento da Primeira Seção, no julgamento do Recurso repetitivo n. 1.348.633/SP, submetido ao rito do art. 543-C do Código de Processo Civil/1973, o qual firmou a compreensão de que é possível o reconhecimento de período de trabalho rural anterior ao documento mais antigo apresentado nos autos, desde que amparado por convincente prova testemunhal colhida sob o contraditório, o que não ocorreu na espécie.
+A propósito:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA POR TEMPO DE SERVIÇO. ART. 55, § 3º, DA LEI 8.213/91. TEMPO DE SERVIÇO RURAL. RECONHECIMENTO A PARTIR DO DOCUMENTO MAIS ANTIGO. DESNECESSIDADE. INÍCIO DE PROVA MATERIAL CONJUGADO COM PROVA TESTEMUNHAL. PERÍODO DE ATIVIDADE RURAL COINCIDENTE COM INÍCIO DE ATIVIDADE URBANA REGISTRADA EM CTPS. RECURSO PARCIALMENTE PROVIDO.
+1. A controvérsia cinge-se em saber sobre a possibilidade, ou não, de reconhecimento do período de trabalho rural anterior ao documento mais antigo juntado como início de prova material.
+2. De acordo com o art. 400 do Código de Processo Civil "a prova testemunhal é sempre admissível, não dispondo a lei de modo diverso". Por sua vez, a Lei de Benefícios, ao disciplinar a aposentadoria por tempo de serviço, expressamente estabelece no § 3º do art. 55 que a comprovação do tempo de serviço só produzirá efeito quando baseada em início de prova material, "não sendo admitida prova exclusivamente testemunhal, salvo na ocorrência de motivo de força maior ou caso fortuito, conforme disposto no Regulamento" (Súmula 149/STJ).
+3. No âmbito desta Corte, é pacífico o entendimento de ser possível o reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos. Precedentes.
+4. A Lei de Benefícios, ao exigir um "início de prova material", teve por pressuposto assegurar o direito à contagem do tempo de atividade exercida por trabalhador rural em período anterior ao advento da Lei 8.213/91 levando em conta as dificuldades deste, notadamente hipossuficiente.
+5. Ainda que inexista prova documental do período antecedente ao casamento do segurado, ocorrido em 1974, os testemunhos colhidos em juízo, conforme reconhecido pelas instâncias ordinárias, corroboraram a alegação da inicial e confirmaram o trabalho do autor desde 1967.
+6. No caso concreto, mostra-se necessário decotar, dos períodos reconhecidos na sentença, alguns poucos meses em função de os autos evidenciarem os registros de contratos de trabalho urbano em datas que coincidem com o termo final dos interregnos de labor como rurícola, não impedindo, contudo, o reconhecimento do direito à aposentadoria por tempo de serviço, mormente por estar incontroversa a circunstância de que o autor cumpriu a carência devida no exercício de atividade urbana, conforme exige o inc. II do art. 25 da Lei 8.213/91.
+7. Os juros de mora devem incidir em 1% ao mês, a partir da citação válida, nos termos da Súmula n. 204/STJ, por se tratar de matéria previdenciária. E, a partir do advento da Lei 11.960/09, no percentual estabelecido para caderneta de poupança. Acórdão sujeito ao regime do art. 543-C do Código de Processo Civil.
+(REsp 1348633/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 28/08/2013, DJe 05/12/2014) (Grifos acrescidos).
+Não há, portanto, como acolher a tese recursal sem esbarrar no verbete sumular 7 do STJ.
+No que concerne à verba honorária recursal, aplica-se o Enunciado n. 16 da ENFAM, que disciplina: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)."
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
