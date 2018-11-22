@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por URCA AUTO ÔNIBUS LTDA., fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO CIVIL. QUEDA NO INTERIOR DE ÔNIBUS. DANOS MORAIS. CRITÉRIOS DE ARBITRAMENTO. ENCARGOS MORATÓRIOS. TERMO INICIAL. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO. 1) A quantificação do dano moral obedece ao critério do arbitramento judicial, que, norteado pelos princípios da proporcionalidade e da razoabilidade, fixará o valor, levando-se em conta o caráter compensatório para a vítima e o punitivo para o ofensor, devendo o valor arbitrado observar os princípios da razoabilidade e se aproximar dos parâmetros adotados pelo Tribunal e pelo Superior Tribunal de Justiça. 2) Em se tratando de ato ilícito, os juros moratórios referentes à indenização por danos morais devem fluir desde a data do evento danoso, nos termos da Súmula nº 54 do STJ e a correção monetária desde o arbitramento. 3) De acordo com o §2º do art. 85 do NCPC "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos: o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância d a causa; e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço" (e-STJ fl. 427).
+Nas razões do recurso especial, a recorrente alega violação dos arts. 405 e 730 do Código Civil, ao argumento de que os juros moratórios são devidos a partir da citação.
+Apresentadas as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+No que pertine ao termo inicial dos juros moratórios, o Tribunal recorrido decidiu em desconformidade com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que devidos desde a citação, quando a relação é contratual.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE TRANSPORTE. QUEDA DO PASSAGEIRO DE COMPOSIÇÃO FÉRREA DURANTE A VIAGEM OCASIONANDO SUA MORTE. 1. REDUÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS. RECURSO INTERPOSTO EXCLUSIVAMENTE COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DESCABIMENTO. 2. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. 3. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL DOS JUROS DE MORA. DATA DA CITAÇÃO. 4. PAGAMENTO DO 13º SALÁRIO. QUESTÃO DECIDIDA COM BASE EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE REEXAME NESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que se refere à fixação dos danos morais, a interposição do recurso especial exclusivamente sob o fundamento de divergência jurisprudencial inviabiliza o exame do tema, uma vez que, não obstante as semelhanças externas e objetivas, os acórdãos sempre serão distintos quanto ao aspecto subjetivo, evidenciando cada situação suas próprias particularidades e circunstâncias fáticas, além do grau de repercussão do evento danoso na esfera individual da vítima ou de seus familiares.
+2. A ausência de particularização dos dispositivos legais supostamente violados, mesmo em se tratando de recurso especial fundado especificamente em divergência pretoriana, caracteriza deficiência na fundamentação, atraindo a incidência da Súmula 284 do Supremo Tribunal Federal, por aplicação analógica.
+3. Nos casos de responsabilidade contratual, o termo inicial para a incidência dos juros moratórios é a data da citação.
+4. Tendo sido reconhecido o direito ao décimo terceiro salário sobre o valor da pensão com base em fundamento constitucional, mostra-se inviável o reexame da questão em âmbito de recurso especial.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.444.068/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/6/2015, DJe 26/6/2015 - grifou-se)
+Ante o exposto, dou provimento ao recurso especial para explicitar que os juros moratórios são devidos desde a citação.
+Publique-se.
+Intimem-se.
