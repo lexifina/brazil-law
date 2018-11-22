@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. VIOLAÇÃO A ARTIGOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Não examinada pela instância ordinária a matéria objeto do recurso especial, sem que a recorrente opusesse embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. É inviável a análise de teses não alegadas em momento oportuno e não discutidas pelas instâncias ordinárias, mesmo se tratando de matéria de ordem pública, por caracterizar inovação recursal, rechaçada por este Tribunal Superior. Precedentes.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra a decisão de fls. 122-126 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial da ora agravante.
+O aludido apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fls. 60-62, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO DE ADIMPLEMENTO CONTRATUAL - CUMPRIMENTO DE SENTENÇA - DECISÃO QUE REJEITOU A IMPUGNAÇÃO DA EMPRESA DE TELEFONIA - RECURSO INTERPOSTO SOB A ÉGIDE DO REGRAMENTO PROCESSUAL DE 1973. VALOR PATRIMONIAL DA AÇÃO - ENTENDIMENTO CONSOLIDADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA - MOMENTO DA INTEGRALIZAÇÃO DO CAPITAL - CONTRATO N. 56648402 - TÍTULOS ACIONÁRIOS DA TELEBRÁS - BALANCETE TRIMESTRAL - MUDANÇA DE ENTENDIMENTO DESTE ÓRGÃO FRACIONÁRIO, ACOMPANHANDO O POSICIONAMENTO DE OUTRAS CÂMARAS DE DIREITO COMERCIAL - ALINHAMENTO JURISPRUDENCIAL RECOMENDADO PELO ART. 926 DO CÓDIGO DE PROCESSO CIVIL - ADOÇÃO DA TESE DE QUE, NOS MESES EM QUE NÃO HAVIA DIVULGAÇÃO DE BALANCETES, DEVE SER CONSIDERADO PARA O CÔMPUTO DO NÚMERO DE AÇÕES A SEREM SUBSCRITAS O ÚLTIMO VPA DIVULGADO (VIGENTE) - RECLAMO INACOLHIDO NO PONTO.
+O Superior Tribunal de Justiça firmou posicionamento no sentido de que o valor patrimonial do titulo acionário deve ser fixado na oportunidade da integralização, esta assim entendida como a data do pagamento da quantia pactuada, a com base no respectivo balancete mensal aprovado.
+Nas hipóteses em que as ações foram emitidas pela Telebrás, não há falar em balancetes mensais, porquanto a companhia elaborava e divulgava apenas balancetes trimestrais.
+Acompanhando o entendimento das demais Câmaras de Direito Comercial desta Corte, passa-se a entender que a apuração do montante devido deve considerar o VPA calculado no mês da assinatura do pacto ou, em se tratando de mês em que não havia divulgação de balancete, o parâmetro vigente até então. Assim, para as lides em que os consumidores receberam títulos acionários da Telebrás, compreende-se que o valor patrimonial da ação valia para o e mês em que era calculado e para os dois anteriores.
+No caso concreto, tendo em vista que a integralização do contrato n. 56648402 ocorreu em 13/11/1995, deve ser utilizado para o cálculo do "quantum" devido o VPA apurado em setembro daquele ano.
+FORMA DE CÁLCULO DA INDENIZAÇÃO - OBSERVÂNCIA, NO QUE APLICÁVEL, DO DISPOSTO NO RESP 1.387.249/SC, APRECIADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA DE ACORDO COM O RITO PREVISTO NO ART. 543-C DO CPC/1973 - IMPERIOSA APLICAÇÃO DAS TRANSFORMAÇÕES ACIONÁRIAS PERTINENTES À COMPANHIA EMISSORA DAS AÇÕES, E ASSIM COMO DOS DIVIDENDOS DISTRIBUÍDOS PELA TELEBRÁS - INSURGÊNCIA ALBERGADA NESSE ASPECTO.
+No tocante à forma de cálculo da indenização devida, deve-se seguir o método registrado no julgamento do REsp 1387249/SC, de Relatoria do Ministro Paulo de Tarso Sanseverino, publicado no DJe de 10/03/2014, com base na fórmula matemática lá expressa. Destarte, reputam-se incorretos os cálculos elaborados pelo contador judicial acerca dos contratos n. 56648402, 319020109, 16699308 e 1000166993, na medida em que aplicou transformações acionárias da Telesc S/A a títulos emitidos pela Telebrás.
+Da mesma forma, o cálculo dos dividendos deve ser feito com base naqueles distribuídos pela companhia emissora o dos títulos acionários.
+PARÂMETROS A SEREM ADOTADOS NO CÁLCULO DAS PERDAS E DANOS - UTILIZAÇÃO DA COTAÇÃO DAS AÇÕES NA BOLSA DE VALORES NA DATA DO TRÂNSITO EM JULGADO - INVIABILIDADE - DECISÃO EXEQUENDA QUE DETERMINOU A SIMPLES CORREÇÃO MONETÁRIA DO MONTANTE - NECESSIDADE DE OBSERVÂNCIA DA COISA JULGADA - IRRESIGNAÇÃO RECHAÇADA NESSE TOCANTE.
+Para a conversão da complementação perseguida em a perdas e danos, deve-se ter por parâmetro o critério fixado no processo de conhecimento - na situação em análise, a simples correção monetária do valor devido à época -, sob pena de violação à coisa julgada. DIVIDENDOS - PLEITO DE LIMITAÇÃO DO CÔMPUTO DAQUELES DISTRIBUÍDOS ATÉ A DATA DO TRÂNSITO EM JULGADO - CÁLCULO HOMOLOGADO PELO MAGISTRADO, TODAVIA, QUE CONSIDEROU TAL FRONTEIRA - INTENTO ATINGIDO ANTERIORMENTE AO PRESENTE RECLAMO - AUSÊNCIA DE INTERESSE RECURSAL - AGRAVO NÃO CONHECIDO NA TEMÁTICA. Constitui-se o interesse recursal pressuposto geral de admissibilidade de todo recurso, de maneira que, para requerer a reforma da sentença, deve o agravante demonstrar o prejuízo advindo da manutenção judicial atacada.
+Tendo o contador do juízo utilizado como limite para incidência dos dividendos a data do trânsito em julgado, não há interesse recursal no pleito de adoção de tal parâmetro.
+DISTRIBUIÇÃO DE RESERVA DE ÁGIO - DECORRÊNCIA DA SUBSCRIÇÃO ACIONÁRIA - PRECINDIBILIDADE DE PREVISÃO EXPRESSA NO TÍTULO EXECUTIVO JUDICIAL - TESE NÃO AGASALHADA.
+"A reserva especial de ágio é decorrência lógica da condenação à subscrição de ações. Isso porque, "se trata, mais precisamente, de benefício conferido a todos acionistas - exceto se expressamente disposto de modo diverso no protocolo e justificação de incorporação -, pelo aumento do capital da companhia advindo da incorporação de parcela da reserva especial de ágio, isto é, pela capitalização da mencionada reserva na exata medida da amortização, quando da obtenção de benefícios fiscais, do ágio pago ao oco ensejo da aquisição do controle de outra companhia aberta" o (TJSC, AI n. 2012.010988-6, Des. Túlio Pinheiro, j. 28.02.2013) (Agravo de Instrumento n. 2011.018866-9, Rel. Des. Getúlio Corrêa, j. 18.2.2014)
+Nas razões do recurso especial (fls. 84-92, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação aos arts. 141, 492 e 503 do Código de Processo Civil de 2015.
+Sustentou, em suma, violação à coisa julgada, por excesso de execução, porquanto foram utilizados índices indevidos para o cálculo do valor pago, em desrespeito aos parâmetros contidos no título executivo.
+Em razão do juízo prévio negativo de admissibilidade, a recorrente interpôs agravo (art. 1.042 do CPC/2015), do qual se conheceu para não conhecer do recurso especial, ante a aplicação das Súmulas 282 e 356/STF, por falta de prequestionamento dos artigos de lei tidos por violados.
+No presente agravo interno (fls. 131-134, e-STJ), a agravante pugna pela inaplicabilidade dos óbices apontados para o desprovimento do reclamo.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Sem impugnação, conforme certidão à fl. 137 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. VIOLAÇÃO A ARTIGOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Não examinada pela instância ordinária a matéria objeto do recurso especial, sem que a recorrente opusesse embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. É inviável a análise de teses não alegadas em momento oportuno e não discutidas pelas instâncias ordinárias, mesmo se tratando de matéria de ordem pública, por caracterizar inovação recursal, rechaçada por este Tribunal Superior. Precedentes.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, no tocante à alegada afronta aos arts. 141, 492 e 503 do Código de Processo Civil 2015, verifica-se que o conteúdo dos citados normativos não foi objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão do tema nele contidos, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, de seguinte teor:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito de prequestionamento.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Na oportunidade, vale rememorar que, segundo pacífica jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO JUDICIAL EXAMINA O MÉRITO DA DEMANDA. AÇÃO ANULATÓRIA. DESCABIMENTO. DECISÃO MANTIDA.
+(..)
+2. O conhecimento de recurso especial, ainda que fundado em matéria de ordem pública, não dispensa o requisito do prequestionamento.
+Precedentes.
+3. Agravo regimental a que se nega provimento (AgRg no REsp 1423291/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/02/2016, DJe 31/03/2016).
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
