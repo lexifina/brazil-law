@@ -1,0 +1,43 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. DISSOLUÇÃO IRREGULAR DA EMPRESA E NÃO LOCALIZAÇÃO DE BENS. RAZÕES INSUFICIENTES PARA A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. RECURSO IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] - Microempresa contra acórdão prolatado pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 73):
+Agravo de instrumento. Ação monitória. Ré revel. Ação julgada procedente. Fase de cumprimento de sentença. Pedido de desconsideração da pessoa jurídica. Indeferimento. Ausência de prova de abuso ou fraude. Decisão mantida. Recurso improvido.
+Ausente prova de abuso ou fraude, não se vê como possa ser acolhido pedido de desconsideração da personalidade jurídica, mostrando-se correta a decisão agravada. A medida extrema da desconsideração da personalidade jurídica somente se justifica nas hipóteses taxativas do art. 50 do Código Civil ou do art. 28 § 5º do CDC.
+Em suas razões, a empresa recorrente, com fundamento na alínea c do permissivo constitucional, alega divergência jurisprudencial com outros julgados, em relação ao disposto no art. 50 do Código Civil/2002, uma vez que a ausência de bens da empresa, a impossibilidade de ser encontrada no endereço informado no contrato social, bem como seu encerramento irregular são capazes de ensejar o acolhimento do pedido de desconsideração da personalidade jurídica.
+As contrarrazões não foram apresentadas - fl. 123 (e-STJ).
+O processamento do apelo nobre foi admitido na origem (e-STJ, fls. 124-125).
+Brevemente relatado, decido.
+A parte recorrente afirmou que estão presentes todos os elementos necessários para que se efetue a desconsideração da personalidade jurídica da empresa recorrida. Para tanto, citou acórdãos paradigmas em que sustentara sua pretensão.
+Com efeito, o Tribunal de origem, ao indeferir o pedido da parte recorrente, asseverou o seguinte (e-STJ, fls. 74-76, sem grifo no original):
+Correta a r. decisão agravada.
+Para se adotar a teoria da desconsideração da pessoa jurídica necessária a existência, no mínimo, de indícios veementes de fraude, má-fé ou simulações, com uso da sociedade de forma ilícita, em favor dos sócios e prejuízos dos credores, o que precisa estar demonstrado nos autos.
+Não se verificam, in casu, as hipóteses taxativas do artigo 50 do Código Civil ou do art. 28 §5º do CDC e justificadoras da desconsideração da personalidade jurídica da agravada.
+Isto porque não provou o credor, ora agravante, ter ocorrido, por parte da agravada, abuso da personalidade jurídica, desvio de finalidade social ou confusão patrimonial, a justificar o deferimento da medida extrema da desconsideração, limitando-se a sustentar a inexistência de bens em nome da empresa recorrida a serem bloqueados, bem como a não localização da sede da executada, e, assim, que está enfrentando grandes dificuldades para satisfazer seu crédito.
+É bem verdade que o direito do sócio de ver intangíveis os seus bens em face das obrigações da sociedade não se mostra absoluto, tanto assim que, como destaca [NOME], "há casos em que fraudes e abusos são cometidos precisamente através da personalidade jurídica que a sociedade apresenta, ficando imunes de sanções os seus componentes. Por isso é que a doutrina vem pacientemente formulando princípios que, de tempos para cá, se cristalizaram na teoria do "superamento da personalidade jurídica", segundo a qual é desconsiderada essa personalidade, em termos de serem, então, responsabilizados os seus integrantes que praticarem aqueles abusos" (cf. "Anotações sobre a teoria da desconsideração da pessoa jurídica", JTACSP 103/9-12).
+A regra geral de não confusão das pessoas jurídica e física deve ser aplicada e, ausente prova de abuso ou fraude, não se vê como possa ser decretada a teoria da desconsideração da pessoa jurídica.
+(..)
+A afirmação de não localização do estabelecimento da executada no endereço informado nos órgãos oficiais não é suficiente para se comprovar a inatividade da empresa, vez que não há prova inequívoca nos autos, limitando-se, ainda, a aplicação da súmula 435 do C. STJ ao âmbito das execuções fiscais, como já consignado pelo D. Magistrado a quo.
+Ademais, não há prova de encerramento fraudulento, não se podendo presumir que a pessoa jurídica foi utilizada pelos sócios para causar prejuízo a outrem, de modo que não merece reforma a r. decisão agravada, porque, pelo menos no agravo, não foi demonstrada causa que conduzisse à desconsideração da personalidade jurídica da agravada.
+(..)
+Assim, em face do não preenchimento dos requisitos mínimos necessários à desconsideração da pessoa jurídica, merece prevalecer a r. decisão agravada, tal como lançada.
+Dito isso, observa-se que o acórdão recorrido decidiu em conformidade com o entendimento desta Corte Superior, o qual se firmou no sentido de que "a mera demonstração de inexistência de patrimônio da pessoa jurídica ou de dissolução irregular da empresa sem a devida baixa na junta comercial, por si sós, não ensejam a desconsideração da personalidade jurídica" (AgRg no AREsp 347.476/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 5/5/2016, DJe 17/5/2016).
+No mesmo sentido:
+ADMINISTRATIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. ENCERRAMENTO DAS ATIVIDADES OU DISSOLUÇÃO IRREGULARES DA SOCIEDADE. INSUFICIÊNCIA. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. NECESSIDADE DE COMPROVAÇÃO.
+1. A jurisprudência do STJ firmou o entendimento de que a desconsideração da personalidade jurídica prevista no artigo 50 do Código Civil trata-se de regra de exceção, de restrição ao princípio da autonomia patrimonial da pessoa jurídica. Assim, a interpretação que melhor se coaduna com esse dispositivo legal é a que relega sua aplicação a casos extremos, em que a pessoa jurídica tenha sido instrumento para fins fraudulentos, configurado mediante o desvio da finalidade institucional ou a confusão patrimonial.
+2. Dessa forma, o encerramento das atividades ou dissolução, ainda que irregulares, da sociedade não são causas, por si só, para a desconsideração da personalidade jurídica, nos termos do artigo 50 do Código Civil. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 794.237/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/3/2016, DJe 22/3/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. INADIMPLEMENTO. INSOLVÊNCIA. EMPRESA DEVEDORA. NÃO PREENCHIMENTO DE REQUISITOS.
+1. É possível a desconsideração da personalidade jurídica nos termos do art. 50 do CC - teoria maior - quando há constatação do desvio de finalidade pela intenção dos sócios de fraudar terceiros ou quando houver confusão patrimonial.
+2. A mera demonstração de insolvência ou a dissolução irregular da empresa, por si sós, não ensejam a desconsideração da personalidade jurídica.
+3. Agravo regimental desprovido. (AgRg no AgRg no AREsp 334.883/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 4/2/2016, DJe 18/2/2016)
+Desse modo, estando o acórdão recorrido em consonância com o entendimento dominante desta Corte Superior, incide ao caso o Enunciado n. 83 da Súmula do STJ.
+Além disso, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do recurso especial, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento vedado pela Súmula 7 do STJ.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA SEGURADORA.
+ ..
+1.2. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+2. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, tão somente para sanar a omissão apontada. (EDcl no AgInt no AREsp 1.226.260/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/9/2018, DJe 18/9/2018)
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
