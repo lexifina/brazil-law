@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Apelação. Ação de cobrança (seguro de vida). Condições pré-existentes não declaradas pela beneficiária no ato de preenchimento da proposta. Má-fé evidenciada no caso concreto, diante das inúmeras doenças de que era portador o segurado. Indenização indevida. Sentença mantida por seus próprios fundamentos, ora reproduzidos (art. 252 do RITJSP). Precedentes do STJ e STF. Apelo não provido.
+Alegou-se, no especial, violação do artigo 765 do Código Civil sob o argumento de que a má-fé do segurado não pode ser presumida pela simples omissão de doença pré-existente.
+Assim delimitada a controvérsia, passo a decidir.
+Ao contrário do que afirma a agravante, nada foi decidido a partir de simples presunções. Diz-se isso porque consta no acórdão local que "pela prova produzida nos autos, não é crível que, ao preencher a proposta do seguro, a autora não tivesse a mínima noção do estado de saúde do seu marido. A farta documentação apresentada pela ré em contestação (fls. 89/253) evidencia que o segurado não era portador de doenças moderadas, mas sim que passava regularmente por consultas médicas das mais variadas sortes e que, para cada patologia que lhe acometia, tomava medicações, as quais não se concebe serem ignoradas pela autora, com quem mora.
+Além de hipertenso, o segurado era diabético e alcoólatra. Mesmo se assumindo que a autora não tivesse ciência da hipertensão, o mesmo não se pode afirmar a respeito da diabetes e do alcoolismo, que são condições visivelmente manifestadas nos seus portadores. Deveria, portanto, ter respondido afirmativamente aos quesitos n. 7 e 11 da proposta (fl. 27), que se referem especificamente à diabetes e ao alcoolismo.
+Não se desconhece que é da seguradora o ônus de se precaver contra informações inverídicas prestadas no momento da contratação do seguro, realizando, por exemplo, exames médicos prévios. Contudo, o que não se admite é que o oblato possa auferir benefício da sua própria má-fé, ainda mais quando manifesta. Adotar conclusão contrária implicaria malferir o postulado que impõe aos contratantes o dever de guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé (arts. 421 e 766 do Código Civil)" (e-STJ, fls. 566/567).
+Inequívoca, pois, a incidência do verbete n. 7 da Súmula desta Casa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA. INDENIZAÇÃO. DOENÇA PREEXISTENTE. PREENCHIMENTO DO QUESTIONÁRIO. OMISSÃO. MÁ-FÉ DO SEGURADO. TRIBUNAL ESTADUAL. RECONHECIMENTO. REVISÃO. INADMISSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não é devido o pagamento de indenização decorrente de contrato de seguro de vida se, consoante o acervo fático soberanamente analisado pelo tribunal local, restar comprovado nos autos que o segurado silenciou a respeito de doença preexistente, sendo clara a má-fé em sua conduta.
+3. A descaracterização da má-fé do segurado ao fornecer intencionalmente informações inverídicas e incompletas à seguradora demanda o reexame de matéria fática, circunstância obstada pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1310293/PB, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/10/2018, DJe 04/10/2018)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
