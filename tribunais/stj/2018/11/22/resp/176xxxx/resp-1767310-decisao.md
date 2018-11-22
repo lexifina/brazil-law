@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial, interposto por HOSPITAL NOSSA SENHORA DA CONCEIÇÃO SA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 195, e-STJ):
+AGRAVO INTERNO. SUBCLASSE RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. DETERMINAÇÃO DE PAGAMENTO DE HONORÁRIOS PERICIAIS. ATO JUDICIAL NÃO PASSÍVEL DE SER ATACADO POR AGRAVO DE INSTRUMENTO. ART. 1.015 NCPC. ROL TAXATIVO.
+Nos termos da decisão monocrática proferida, era caso de inadmissão do agravo de instrumento interposto, forte no art. 932, III, do CPC/2015, pois o ato judicial impugnado - que determinou o pagamento dos honorários periciais - não está contemplado nas hipóteses previstas no rol taxativo do art. 1.015 do NCPC e não é caso de interpretação analógica ou de mitigação do rol.
+AGRAVO INTERNO DESPROVIDO.
+Opostos embargos declaratórios, foram estes rejeitados, nos termos do aresto de fls. 217/224 (e-STJ)
+Nas razões do recurso especial (fls. 236/268, e-STJ), o recorrente aponta, além de dissenso interpretativo, violação dos artigos 95, § 3º, 98, § 1º, VI e 1.015, V, do CPC/15. Sustenta, em síntese, que por litigar sob o pálio da assistência judiciária, afigura-se cabível a interposição de recurso de agravo de instrumento para discutir a determinação de pagamento de verba honorária pericial.
+Sem contrarrazões e após decisão de admissão do recurso especial (fls. 383/393, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+1. Depreende-se da análise dos autos que o apelo nobre (fls. 236/268, e-STJ) versa sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n. 1.696.396/MT e 1.704.520/MT, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/15, a fim de definir sobre a "natureza do rol do art. 1015 do CPC/15 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC" (Tema n.º 988/STJ).
+Logo, nos termos do art. 256-L do RISTJ, o recurso especial distribuído nesta Corte Superior que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso. Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+2. Ante o exposto, dou provimento ao recurso, para determinar a devolução dos autos à origem, a fim de que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema 988, nos termos do artigo 1.037, inciso II, do CPC/15 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/15.
+Publique-se.
+Intimem-se.
