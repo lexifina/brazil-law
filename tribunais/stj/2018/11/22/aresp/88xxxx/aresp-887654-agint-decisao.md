@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto por SIEMENS LTDA contra decisão monocrática, acostada às fls. 370/371 (e-STJ), da lavra da Presidência desta Corte, que não conheceu do agravo em recurso especial (art. 544, CPC/73) ante a incidência da Súmula nº 182/STJ.
+O aludido apelo nobre, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, que recebeu a seguinte ementa (fls. 264/269, e-STJ):
+AGRAVO DE INSTRUMENTO- SEGURO-SAÚDE- Deferimento da liminar para que a agravante integre o agravado e seus dependentes no seguro-saúde - Manutenção - Presença dos requisitos necessários à antecipação dos efeitos da tutela - Ausente o risco de irreversibilidade da medida - Possibilidade de contraprestação - Precedentes do TJSP Coparticipação - Benefício assegurado ao agravado durante todo seu contrato de trabalho - Remuneração indireta - Impossibilidade de exclusão do agravado do plano de assistência à saúde - Recurso desprovido.
+Nas razões do especial (fls. 287/309, e-STJ), a recorrente apontou violação aos art. 30, § 6º, da Lei nº 9.656/98; arts. 273 e 527, parágrafo único, do CPC/73; e art. 5º, inciso II, da Constituição Federal.
+Sustentou, em síntese, que o recorrido não possui o direito de se manter no plano de saúde empresarial, por nunca ter contribuído diretamente para o custeio do mesmo.
+Em face do juízo prévio negativo de admissibilidade (fl. 327, e-STJ), baseado na Súmula nº 7/STJ, a insurgente interpôs o agravo do artigo 544 do CPC/73 (fls. 330/357, e-STJ), ao qual, conforme relatado, negou-se seguimento por força da Súmula nº 182/STJ (fls. 370/371, e-STJ).
+Nas razões do presente agravo interno (fls. 377/380, e-STJ), a agravante refuta a aplicação da referida súmula, ao tempo em que pede reconsideração da monocrática ou, subsidiariamente, seja o recurso submetido a julgamento colegiado.
+É o relatório.
+Decide-se.
+Ante as razões expendidas no agravo interno, reconsidero a decisão de fls. 370/371 (e-STJ).
+Entende-se, todavia, que a insurgência perdeu o seu objeto.
+1. O recurso especial que se busca destrancar objetiva reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 264/269, e-STJ) em sede de agravo de instrumento, interposto, por sua vez, contra decisão liminar exarada pelo Juízo da 2ª Vara Cível da Comarca de Jundiaí (fls. 53/54, e-STJ), mantida em sede de aclaratórios (fl. 217, e-STJ).
+Ocorre que, em consulta ao andamento do processo principal, disponível no sítio eletrônico do Poder Judiciário de São Paulo, verifica-se que houve prolação de sentença meritória.
+Como se sabe, a superveniência de sentença de mérito no processo principal traz à lume a questão afeta à perda, ou não, de objeto de eventual recurso interposto em face de decisão liminar proferida anteriormente e que esteja pendente de julgamento.
+Segundo a consolidada jurisprudência da Corte Especial deste Superior Tribunal de Justiça, "na específica hipótese de deferimento ou indeferimento da antecipação de tutela, a prolatação de sentença meritória implica a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal, uma vez que: a) a sentença de procedência do pedido - que substitui a decisão deferitória da tutela de urgência - torna-se plenamente eficaz ante o recebimento da apelação tão somente no efeito devolutivo, permitindo desde logo a execução provisória do julgado (art. 520, VII, do Código de Processo Civil); b) a sentença de improcedência do pedido tem o condão de revogar a decisão concessiva da antecipação, ante a existência de evidente antinomia entre elas." (EAREsp n. 488.188/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 07/10/2015, DJe 19/11/2015).
+Em conclusão, examinando-se o caso pela ótica do interesse e da utilidade do provimento desejado pela insurgente, observa-se que o recurso especial que se busca destrancar perdeu o seu objeto.
+2. Do exposto, reconsidero a decisão de fls. 370/371 (e-STJ) e, de plano, com fulcro no artigo 34, XI, do RISTJ, julgo prejudicado o agravo em recurso especial, ante a perda superveniente do seu objeto.
+Fica prejudicado, também, o exame da petição de fls. 392/417 (e-STJ).
+Publique-se.
+Intimem-se.
