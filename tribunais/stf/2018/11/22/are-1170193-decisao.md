@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo (eDOC 1, p. 86):
+    “AGRAVO DE INSTRUMENTO Embargos à execução por excesso de execução - Recurso interposto contra decisão que excluiu os juros de mora, conforme a Súmula 17 do STF e, ainda excluiu os juros de mora dos honorários advocatícios - Observa-se que nesta fase processual os cálculos do valor da liquidação sequer foram homologados - Situação diversa da regulada pela Súmula Vinculante 17 do STF Incidência dos juros de mora desde a citação ao montante devido, nos termos da r. sentença e v. Acórdão, para apuração do valor da condenação Honorários advocatícios fixados em 10% do valor da condenação Incidência de juros também no cálculo dos honorários advocatícios.”
+    Foram desprovidos os embargos de declaração (eDOC 1, p. 104).
+    No recurso extraordinário interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, alega-se violação do artigo 100, § 5º, da Constituição Federal,bem como da Súmula Vinculante nº 17 do STF.
+    Nas razões recursais sustenta-se, que o acórdão afastou a aplicação da Súmula 17 do STF a qual determina a exclusão de juros moratórios no prazo constitucional para pagamento de precatório.
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso por entender que as razões do extraordinários não foram suficientes para infirmar as conclusões do acórdão (eDOC 2, p. 20).
+    É o relatório. Decido.
+    De plano, verifica-se que a controvérsia posta em juízo não confronta jurisprudência ou Súmula Vinculante desta Corte.
+    De plano, verifica-se que a matéria cinge-se ao Tema 96 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 579.431, de relatoria do Ministro Marco Aurélio, DJe de 19.04.2017, que assentou a seguinte tese: Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+    Do mesmo modo, a questão referente ao período de graça constitucional está afeta ao Tema 147 da repercussão geral, cujo paradigma é o RE-RG-QO 591.085, de relatoria do Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 20.02.2009, assim ementado:
+    “CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II - Julgamento de mérito conforme precedentes. III - Recurso provido.”
+     Ocorre que ao dar provimento ao Agravo de Instrumento, o Tribunal de origem consignou o seguinte (eDOC 1, pp. 88 e 89):
+    “Todavia, observa-se pelos documentos acostados que os cálculos de liquidação sequer foram homologados. Trata-se o caso em tela de situação totalmente diversa da regulada pela Súmula Vinculante 17 do STF. Impõe-se, desta forma, o dever de reforma da r. decisão que excluiu os juros moratórios devidos.
+    Até a liquidação da sentença incide os juros e correção monetária decididos na r. sentença no que se refere aos danos materiais (fls. 11/12) e no que se refere aos danos morais, igualmente, aplicam-se juros e correção monetária, nos termos do v. acórdão de fls. 15/19.
+    Não podendo se falar em exclusão dos juros, nos termos da Súmula 17 do STF, porque no caso presente sequer foi homologado o cálculo da liquidação da sentença.”
+    Como se depreende desses fundamentos, e diante da ausência do cálculo do débito, não há que se falar em ofensa à jurisprudência da Corte. Sob o enfoque de tais fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, desprovejo o recurso, no termos do artigo 932, IV a e b, do CPC.
+    Publique-se.
+    Brasília, 22 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
