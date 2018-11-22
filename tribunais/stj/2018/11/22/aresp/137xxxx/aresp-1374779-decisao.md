@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 83/STJ.
+Nas razões recursais, sustenta o agravante violação do art. 33, § 4º, da Lei 11.343/2006, ao argumento de ser inidôneo o fundamento utilizado para afastar a aplicação da minorante do tráfico.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+A divergência objeto do presente recurso diz respeito à idoneidade do fundamento para afastar a aplicação da causa especial de redução da pena, uma vez que considerados processos penais em curso para tal fim.
+Manifestou-se o Tribunal a quo, quanto à questão, nos seguintes termos (fls. 367/370):
+Noutro vértice, no que se refere ao reconhecimento e aplicação da causa de diminuição depena prevista no § 4º do art. 33, da Lei Antidrogas, cumpre asseverar que essa postulação também não merece prosperar, haja vista que o apelante não preenche os requisitos para a concessão da referida benesse, especialmente, em razão da sua dedicação à atividade criminosa.
+E tal afirmação se impõe; porquanto da certidão de antecedentes criminais juntada à fl. 176, extrai-se a informação de envolvimento do apelante em uma série de outros delitos (códigos 440298, 385180, 169236 e 357463), ainda que alguns dos processos tenham sido encaminhados para o Juizado Especial Criminal.
+Ademais, é imperioso ressaltar que a intenção do legislador, ao elaborar a minorar-t.te do § 4º do art. 33 da Lei Antidrogas, foi diferenciar o traficante contumaz daqueles que cometeram o ilícito ocasionalmente, concedendo-lhe benefício proporcional ao seu merecimento, para ensejar sanção suficiente à prevenção e reprovação do delito, consoante se infere da doutrina de Renato Marcão, para quem:
+ ..
+E, em relação ao assunto, este é o entendimento do Superior Tribunal de Justiça:
+ ..
+Desse modo, levando-se em conta o caráter teleológico do instituto objetivado pelo legislador no sentido de que somente o traficante eventual merece ser agraciado, basta para a configuração da dedicação à atividade criminosa a demonstração da habitualidade da prática de atividade ilícita, uma vez que esse requisito tem natureza residual, congregando tudo que não caracterize maus antecedentes, daí por que a causa especial de diminuição de pena almejada pelo apelante, não lhe pode ser aplicada.
+Conforme se observa nos autos, o acórdão recorrido está em consonância com o entendimento firmado por esta Corte, no sentido de que processos criminais, ainda que não transitados em julgado, servem para afastar a incidência da minorante do tráfico, por demonstrarem vivência delitiva do agente prevista no art. 33, § 4º, da Lei de Drogas. A propósito, confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. ACÓRDÃO RECORRIDO. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. EXCLUSÃO PELO TRIBUNAL DE ORIGEM. FUNDAMENTAÇÃO IDÔNEA. AÇÃO PENAL EM CURSO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ERESP N. 1.431.091/SP, TERCEIRA SEÇÃO, DJE 1º/2/2017.
+1. A Terceira Seção desta Corte de Justiça tem entendido que é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+2. Em que pese o recorrente não ostentar condenação apta a caracterizar a reincidência, a constatação de que o mesmo está respondendo a outro processo criminal já é fundamento idôneo e suficiente para obstar a concessão do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Consoante entendimento perfilhado pela Sexta Turma Corte nos autos do HC n. 358.417/RS, fatos criminais pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula 444 do STJ), podem, salvo hipóteses excepcionais, embasar o afastamento da minorante do tráfico privilegiado quando permitam concluir a vivência delitiva do agente, evidenciando a dedicação a atividades criminosas (HC n. 416.587/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2017).
+4. Agravo regimental improvido. (AgRg no REsp 1691916/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 33, § 4º DA LEI Nº 11.343/2006. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA. I) INQUÉRITOS E AÇÕES PENAIS EM ANDAMENTO. UTILIZAÇÃO COMO FUNDAMENTO PARA O INDEFERIMENTO DA MINORANTE. POSSIBILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. II) REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. OFENSA AO ART. 5º, LVII, DA CRFB/1988. RECURSO ESPECIAL NÃO ANALISA VIOLAÇÃO A DISPOSITIVOS DA CF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Este Superior Tribunal de Justiça possui entendimento no sentido de que "Embora a existência de inquéritos e ações penais em andamento não maculem os antecedentes criminais do acusado, por expressa disposição da Súmula 444 do STJ, constitui circunstância apta, em princípio, a evidenciar a dedicação a atividades criminosas, salvo hipóteses excepcionais. Precedentes"(HC 358.417/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/09/2016, DJe 03/10/2016). Súmula 568/STJ.
+(..)
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 1096465/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017).
+Estando, portanto, o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
