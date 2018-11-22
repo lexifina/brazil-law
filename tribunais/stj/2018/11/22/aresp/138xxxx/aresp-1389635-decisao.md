@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 1.021, § 4º, do Código de Processo Civil; 4º, IX, da Lei n. 4.595/1964; e 51, IV, do Código de Defesa do Consumidor, além de dissídio jurisprudencial, sob o fundamento de que é autorizada a cobrança dos juros remuneratórios como pactuados; e de que ficou configurada a mora do devedor. O acórdão recorrido está retratado na seguinte ementa (fl. 159):
+AGRAVO INTERNO. ALIENAÇÃO FIDUCIÁRIA. MANUTENÇÃO DA DECISÃO QUE CONHECEU EM PARTE E NEGOU PROVIMENTO AO APELO. REEDIÇÃO DE ARGUMENTAÇÃO JURÍDICA. MULTA. ART. 1.021, § 4º, DO CPC.
+AGRAVO INTERNO DESPROVIDO, VENCIDA A DESA. [NOME].
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, não transita o recurso quanto ao tema da configuração da mora, em virtude da ausência de interesse na reforma do acórdão, conforme se verifica à fl. 142.
+Quanto à taxa de juros remuneratórios, encontra respaldo a irresignação. Depreende-se do acórdão recorrido que o Tribunal de origem a considerou abusiva pelo simples fato de se encontrar acima da média de mercado. Assim discorreu o acórdão (fl. 144):
+(..)
+Ou seja, os juros remuneratórios não estão limitados pelos lindes legais - CCB ou Lei de Usura mas tampouco estão de todo liberados, devendo estar em harmonia com a taxa média do mercado divulgada pelo BACEN.
+Logo, no caso, como o pacto prevê juros remuneratórios anuais no patamar de 28,1663%, superior à taxa de mercado apurada para o período em que se celebrou o ajuste, os juros vão reduzidos ao valor da taxa média do mercado, qual seja, 23,04% a.a.
+(..)
+Esta Corte Superior, entretanto, já sedimentou posicionamento nos termos da Súmula n. 382 do STJ, que assim dispõe:
+ A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+De igual modo, o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado, tal como consignou o acórdão, não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite; justamente porque é média, incorpora as menores e maiores taxas praticadas pelo mercado. O que impõe uma eventual redução é justamente o abuso, ou seja, a demonstração cabal de uma cobrança muito acima daquilo que se pratica no mercado. Assim, deve ser afastada a referida limitação imposta pela Corte de origem.
+Além disso, anoto que é inaplicável ao caso a multa imposta pelo julgado estadual com base no art. 1.021, § 4º, do CPC/2015, pois não vislumbro ter sido configurado o intuito meramente protelatório na conduta de interpor o recurso necessário para o exaurimento da instância ordinária. Nesse sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 557, § 2º, DO CPC/1973. ALTERAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NECESSIDADE DE EXAURIMENTO DE INSTÂNCIA. MULTA INDEVIDA. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+1. No presente caso, o agravo interno manejado junto ao Tribunal de origem foi capaz de evidenciar a inadequação dos fundamentos invocados pela decisão então agravada, revelando-se apto, portanto, se não a alterar o conteúdo do julgado impugnado, ao menos a provocar o seu aperfeiçoamento, revelando-se indevida, portanto, a multa processual aplicada com fundamento no art. 1.021, § 4º, do CPC.
+2. Ademais, amplamente majoritário o entendimento desta Corte Superior no sentido de que o agravo interposto contra decisão monocrática do Tribunal de origem, com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e do extraordinário, não é manifestamente inadmissível ou infundado, o que torna inaplicável a multa prevista no art. 557, § 2º, do Código de Processo Civil. (Recurso Repetitivo 1.198.108/RJ, Rel. Ministro Mauro Campbel Marques, Corte Especial, DJe 21/11/2012).
+3. Embargos de declaração acolhidos com efeitos modificativos para dar provimento ao recurso especial.
+(EDcl no AgInt no AREsp 1.151.486/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 20.3.2018)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para julgar improcedente o pedido inicial, bem como para afastar a multa imposta à recorrente. Custas e honorários pelo autor, estes fixados em R$ 1.000,00 (mil reais). Ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
