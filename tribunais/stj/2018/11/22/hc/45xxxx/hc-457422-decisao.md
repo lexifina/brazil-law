@@ -1,0 +1,21 @@
+DECISÃO
+JOSE [NOME], paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 0016222-09.2015.8.24.0023).
+Consta dos autos que o acusado foi condenado à pena de 2 meses e 20 dias de reclusão, em regime aberto, mais multa, pela prática do delito descrito no art. 155, caput, do Código Penal. A sanção foi substituída por uma restritiva de direitos, consistente em prestação pecuniária (fls. 105-110).
+Interposta apelação pela defesa, a Corte local manteve a condenação nos termos da decisão de primeiro grau. Foi determinada, ainda, a execução imediata da reprimenda (fls. 182-190).
+Neste writ, a impetrante alega constrangimento ilegal decorrente da ordem de execução imediata da pena, por se tratar de reprimenda restritiva de direitos. Requer a concessão da ordem, a fim de que seja suspensa a determinação exarada pelo Tribunal estadual.
+Deferido o pedido de liminar (fls. 197-198) e prestadas as informações (fls. 202-227), veio o parecer do Ministério Público Federal (fls. 235-239) pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+Decido.
+I. Execução imediata da pena
+No caso dos autos, o Juiz sentenciante substituiu a pena privativa de liberdade por sanção restritiva de direitos consistente em prestação pecuniária, o que foi mantido pelo Tribunal estadual.
+O acórdão recorrido foi prolatado em consonância com a tese fixada em regime de repercussão geral pelo Supremo Tribunal Federal no Tema n. 925. Confira-se:
+"A execução provisória de pena restritiva de direitos imposta em condenação de segunda instância, ainda que pendente o efetivo trânsito em julgado do processo, não ofende o princípio constitucional da presunção de inocência, conforme decidido por esta Corte Suprema no julgamento das liminares nas ADC nºs 43 e 44, no HC nº 126.292/SP e no ARE nº 964.246, este com repercussão geral reconhecida - Tema nº 925. Precedentes: HC 135.347-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 17/11/2016, e ARE 737.305-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 10/8/2016" (HC n. 141.978 AgR, Rel. Ministro Luiz Fux, 1ª T., DJe 31/7/2017, destaquei).
+Esse era o entendimento da Sexta Turma (v.g. AgRg no RCD no RHC n. 72.597/DF, Rel. Ministro Antonio Saldanha Palheiro, DJe 8/5/2017 e HC n. 380.104/AM, Rel. Ministra Maria Thereza de Assis Moura, DJe 22/2/2017).
+Contudo, a questão foi submetida recentemente à análise da Terceira Seção no AgRg no HC n. 435.092/SP, julgado em 24/10/2018 (acórdão pendente de publicação), oportunidade em que ficou assentado não ser possível a execução provisória de pena privativa de liberdade convertida em restritiva de direitos. Confira-se:
+ ..
+1. O posicionamento firmado pela Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do EREsp n. 1.619.087/SC, acerca da impossibilidade de execução provisória de penas restritivas de direitos, tem encontrado diversa compreensão pelo STF.
+2. Com efeito, "A execução provisória de pena restritiva de direitos imposta em condenação de segunda instância, ainda que pendente o efetivo trânsito em julgado do processo, não ofende o princípio constitucional da presunção de inocência, conforme decidido por esta Corte Suprema no julgamento das liminares nas ADC nºs 43 e 44, no HC nº 126.292/SP e no ARE nº 964.246, este com repercussão geral reconhecida - Tema nº 925. Precedentes: HC 135.347-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 17/11/2016, e ARE 737.305-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 10/8/2016." (HC n. 141.978 AgR/SP, Rel. Ministro Luiz Fux, DJe 23/6/2017, entre outros).
+3. Determinação de devolução dos autos, pelo STF, para juízo de retratação, com consequente provimento do Agravo, para, reconsiderada a decisão anterior, denegar a ordem de habeas corpus, nos termos da jurisprudência firmada pelo STF em repercussão geral.
+Portanto, não se afigura possível a execução da pena antes do trânsito em julgado da condenação.
+II. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para determinar a suspensão da execução da pena restritiva de direitos imposta ao acusado até o trânsito em julgado da condenação.
+Publique-se e intimem-se.
