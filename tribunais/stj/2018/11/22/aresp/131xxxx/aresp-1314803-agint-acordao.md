@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUPOSTA OFENSA À HONRA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VULNERADO OU SOBRE O QUAL TERIA HAVIDO INTERPRETAÇÃO DIVERGENTE. APLICAÇÃO DA SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ está assentada na impossibilidade de conhecimento de recurso especial por ambas as alíneas do permissivo constitucional quando não indicado o dispositivo de lei supostamente violado ou que tenha recebido interpretação divergente pelo julgado impugnado. Incidência da Súmula 284/STF. Precedente.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] contra a decisão monocrática desta relatoria de fls. 943-945 (e-STJ), em que foi firmada a impossibilidade de conhecimento do recurso especial.
+O apelo especial havia sido fundado na alínea c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 763-783):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - ABALO MORAL SOFRIDO EM RAZÃO DA IMPUTAÇÃO DA PRÁTICA DE ATOS ILÍCITOS REPERCUTIDOS NA IMPRENSA - OFENSAS À HONRA E À IMAGEM DO AUTOR - SENTENÇA DE PROCEDÊNCIA - AGRAVO RETIDO - AUSÊNCIA DE REITERAÇÃO - NÃO CONHECIMENTO - RECURSO DE APELAÇÃO (1) INTERPOSTO PELO AUTOR - PLEITO DE MAJORAÇÃO DO QUANTUM INDENIZATÓRIO FIXADO A TÍTULO DE DANOS MORAIS - NÃO CONHECIMENTO - RECURSO PREJUDICADO PELO JULGAMENTO DA APELAÇÃO (2) - RECURSO (2) INTERPOSTO PELO RÉU - PRETENSÃO DE AFASTAR A RESPONSABILIDADE CIVIL E O CONSEQUENTE DEVER DE INDENIZAR - ACOLHIMENTO - MANIFESTAÇÃO EM PROGRAMA DE RÁDIO QUE GUARDA PERTINÊNCIA COM O EXERCÍCIO DO MANDATO, AINDA QUE PRODUZIDAS FORA DO AMBIENTE LEGISLATIVO - IMUNIDADE PARLAMENTAR - INVIOLABILIDADE EM ÂMBITO CIVIL E PENAL - INTELIGÊNCIA AO DISPOSTO NO ARTIGO 53 DA CONSTITUIÇÃO FEDERAL - RECURSO DE APELAÇÃO CONHECIDO E PROVIDO - SENTENÇA REFORMADA. "A cláusula de inviolabilidade constitucional que impede a responsabilização penal e/ou civil do membro do Congresso Nacional por suas palavras, opiniões e votos também abrange, sob seu manto protetor, (1) as entrevistas jornalísticas, (2) a transmissão, para a imprensa, do conteúdo de pronunciamentos ou de relatórios produzidos nas Casas Legislativas e (3) as declarações veiculadas por intermédio dos "mass media" ou dos "social media", eis que tais manifestações - desde que associadas ao desempenho do mandato - qualificam-se como natural projeção do legítimo exercício das atividades parlamentares. Doutrina. Precedentes. (..) (AC 3883 AgR, Relator (a): Min. CELSO DE MELLO, Segunda Turma, julgado em 10/11/2015, PROCESSO ELETRÔNICO DJe-018 DIVULG 29-01-2016 PUBLIC 01- 02-2016)".
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 808).
+No recurso especial, a parte recorrente fundou sua pretensão na existência de divergência jurisprudencial, sem, contudo, especificar sobre qual dispositivo de lei federal teria havido o suposto dissenso pretoriano.
+Esclareceu que se insurgiu contra o acórdão estadual por este ter afastado a indenização por danos morais, a qual deveria, inclusive, ser elevada ao quantum de R$ 30.000,00 (trinta mil reais), estipulados pelo Magistrado singular, mostrando-se aquém do necessário para reparar a ofensa a sua honra. Argumentou que o recorrido, valendo-se de sua condição de deputado estadual, ofendeu o recorrente com aleivosias e acusações infundadas, configurando atos abusivos que transbordaram de sua imunidade parlamentar. Ponderou que essa conduta deve ser reprimida com a fixação de indenização por danos morais em patamar condizente com o quadro fático apresentado nos autos, conforme a jurisprudência esta Corte (e-STJ, fls. 811-822).
+Negado trânsito ao recurso especial (e-STJ, fls. 884-886), foi manejado o agravo em recurso especial (e-STJ, fls. 889-902), do qual não se conheceu (e-STJ, fls. 943-945).
+Contra este último decisum maneja o insurgente o presente agravo interno. Aduz ser descabido falar em necessidade de especificação do artigo de lei federal em caso de recurso especial fundado em divergência jurisprudencial. No ponto, pondera que tal exigência faz "letra morta" do teor da alínea c do inciso III do art. 105 da CF. Portanto, argumenta que é caso de conhecimento e, inclusive, provimento do apelo especial, pois seu recurso estaria adequadamente formulado.
+Frisa que a manutenção da decisão recorrida acaba por vulnerar o art. 105, III, c, da CF. Pugna pelo provimento do agravo interno (e-STJ, fls. 957-964).
+Contraminuta apresentada (e-STJ, fls. 969-989).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUPOSTA OFENSA À HONRA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VULNERADO OU SOBRE O QUAL TERIA HAVIDO INTERPRETAÇÃO DIVERGENTE. APLICAÇÃO DA SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ está assentada na impossibilidade de conhecimento de recurso especial por ambas as alíneas do permissivo constitucional quando não indicado o dispositivo de lei supostamente violado ou que tenha recebido interpretação divergente pelo julgado impugnado. Incidência da Súmula 284/STF. Precedente.
+2. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Reexaminando a petição de recurso especial e do agravo em recurso especial, observa-se a impossibilidade de conhecimento do apelo especial. Como já afirmado na decisão ora recorrida, o agravante suscita dissídio interpretativo, todavia não aponta, de forma clara e precisa, o artigo de lei federal sobre o qual teria havido a suposta interpretação divergente praticada pelo Tribunal estadual.
+Nesse passo, é de rigor a aplicação da Súmula 284/STF, a qual incide sobre quaisquer das alíneas do permissivo constitucional, inclusive no tocante à alínea c do inciso III do art. 105 da CF.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. RAZÕES DO APELO NOBRE QUE NÃO INDICAM DISPOSITIVO DE LEI QUE TERIA SIDO OBJETO DE VIOLAÇÃO PELO JULGADO IMPUGNADO. PRECEDENTE DA CORTE ESPECIAL DO STJ: AGRG NO RESP. 1.346.588/DF, REL. MIN. ARNALDO ESTEVES LIMA, DJE 17.03.2014 SUMULA 284/STF. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INADMISSIBILIDADE, NECESSIDADE DE DILAÇÃO PROBATÓRIA. RESP. 1.104.900/ES, REL. MIN. DENISE ARRUDA, DJE 01.04.2009. ACÓRDÃO EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. ENTENDIMENTO DIVERSO QUE DEPENDE DO REEXAME DE PROVAS. SÚMULA 07/STJ. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Jurisprudência do STJ está assentada na impossibilidade de conhecimento do Recurso Especial por ambas as alíneas do permissivo constitucional, quando não indicado o dispositivo de lei supostamente violado ou que tenha recebido interpretação divergente pelo julgado impugnado. Incidência da Súmula 284/STF. Precedente da Corte Esepcial do STJ: AgRg no REsp. 1.346.588/DF, Rel. Min. ARNALDO ESTEVES LIMA, DJE 17.03.2014.
+ ..
+4. Agravo Regimental desprovido.
+(AgRg no AREsp 486.861/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 06/06/2014)
+Ao contrário do que alega o recorrido em sua contraminuta ao agravo interno, não é caso de aplicação da multa do art. 1.021, § 4º, do CPC/2015, por não se vislumbrar intuito protelatório nem má-fé do embargante. Igualmente incabível é o pleito por elevação da verba honorária, pois, conforme o sedimentado entendimento desta Corte Superior, não cabe sua elevação em agravo interno quando já efetivado o aumento na decisão monocrática, como ocorreu no caso em tela.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
