@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 691):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CONTROVÉRSIA SOBRE O VALOR DO INVESTIMENTO. EFICÁCIA PRECLUSIVA DA COISA JULGADA.
+1. A partir do trânsito em julgado da ação, é defeso às partes reabrir discussão sobre questões e teses já veiculadas na etapa cognitiva do feito ou que, podendo ter sido suscitadas naquela fase processual, não o foram. 2. Caso concreto em que a parte agravante, na fase de conhecimento, recorreu apenas de outros tópicos da decisão ora em execução, sem manifestar inconformismo contra a questão vertida no presente recurso, também apreciada naquela oportunidade pelo órgão jurisdicional. 3. Impossibilidade de reexame da matéria por este Tribunal, porquanto vedada, no âmbito da jurisdição executiva, a reapreciação de pontos discutidos e definitivamente decididos na causa, contra os quais não foi apresentada insurgência oportuna, em respeito ao instituto da coisa julgada e aos efeitos preclusivos que lhe são inerentes.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, esses não foram acolhidos (e-STJ, fls. 726-731).
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+Com relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+A decisão agravada deixou de admitir o recurso especial sob os seguintes fundamentos (e-STJ, fls. 769-773): incidência das Súmulas 282, 283 e 356 do STF, por ausência de impugnação do fundamento principal do acórdão recorrido e falta de prequestionamento no tocante à alegação de que a integralização deverá ser considerada na data do pagamento da primeira prestação.
+Em suas razões, a agravante limitou-se a alegar a usurpação da competência do Superior Tribunal de Justiça, a inaplicabilidade da Súmula 283 do Supremo Tribunal Federal e ofensa ao artigo 535 do Código de Processo Civil de 1973, deixando de se manifestar sobre a incidência das Súmulas 282 e 356 do STF.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no artigo 544, § 4º, I, do Código de Processo Civil de 1973 (artigo 932, III, do Código de Processo Civil de 2015).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. Inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada, nos termos do que dispõe a Súmula 182 do STJ.
+2. O sistema processual brasileiro consagra e positiva o princípio da dialeticidade ao exigir que o recurso faça impugnação específica aos fundamentos do provimento jurisdicional atacado (arts. 544, § 4º, I, do Código de Processo Civil de 1973; 932, III e 1.021, § 1º, do atual Código de Processo Civil; e 259, § 2º, do Regimento Interno do Superior Tribunal de Justiça).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.003.118/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17.10.2017, DJe 24.10.2017)
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
