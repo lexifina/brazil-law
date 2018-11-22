@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão proferido pelo TJRS assim ementado (e-STJ fls. 366/367):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. BRASIL TELECOM. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DO FEITO.
+Em decorrência do recebimento do pedido de recuperação judicial das sociedades empresárias que compõem o Grupo Oi, da qual a parte agravada faz parte, bem como da determinação pelo juízo competente de sobrestamento das execuções promovidas contra elas, a Presidência deste Tribunal de Justiça expediu o Ofício-Circular nº. 004/2016- SECPRES, em que orienta que: "sejam suspensas todas as ações e recursos, execuções e atos tendentes à constrição de bens das recuperandas, que versem sobre o bloqueio ou penhora da quantia, ilíquida ou não, que impliquem em qualquer tipo de perda patrimonial das requerentes ou interfiram na posse de bens afetos à sua atividade empresarial." Recentemente foi proferida decisão no processo de recuperação judicial (Embargos de Declaração em Agravo de Instrumento nº. 0034576-58.2016.8.19.0000 julgado pela 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro), em que definidos novos requisitos para a suspensão do processo, sendo agora possível a liberação de valores em alguns casos específicos:
+(a) Quando o depósito judicial/bloqueio tenha sido realizado pela OI S/A em data anterior a 21.06.2016;
+(b) Quando acontecer quaisquer das seguintes situações: (i) o depósito tenha sido feito com a expressa finalidade de pagamento pela OI S/A; ou (ii) já tenha ocorrido o trânsito em julgado de embargos à execução, até a data de 21/06/2016, ou (iii) já tenha ocorrido a preclusão do incidente de impugnação ao cumprimento de sentença, até a data de 21/06/2016.
+No caso dos autos, resta pendente de julgamento a impugnação ao cumprimento de sentença oferecida pela Brasil Telecom / OI, razão pela qual é de ser mantida a decisão agravada, no sentido de indeferir a expedição de alvará.
+AGRAVO DE INSTRUMENTO DESPROVIDO. (grifos no original.)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 399/406).
+No presente recurso (e-STJ fls. 412/443), o recorrente aponta divergência jurisprudencial e ofensa aos arts. 489, § 1º, IV e § 2º, 525, §§ 4º e 5º, e 1.022, I, do CPC/2015 e 76 da Lei n. 11.101/2005.
+Alega: (a) negativa de prestação jurisdicional e (b) que os valores incontroversos depositados anteriormente a 21/6/2016 (data em que decretada a recuperação judicial) estão acobertados pela preclusão, podendo ser liberados ao credor.
+Contrarrazões às fls. 474/491 (e-STJ).
+Juízo positivo de admissibilidade (e-STJ fls. 517/520).
+É o relatório.
+Decido.
+O recurso merece provimento.
+Em relação à afronta ao art. 1.022 do CPC/2015, o agravante entendeu que o aresto recorrido teria sido contraditório, sob os seguintes argumentos (e-STJ fls. 418/419):
+Então, a decisão recorrente que entendeu pela necessidade do trânsito em julgado do incidente de impugnação ao pedido de cumprimento de sentença e, de não estarem presente os requisitos da Recuperação Judicial, carece de razoabilidade e suporte legal, NÃO FAZENDO SENTIDO QUE SE AGUARDE O TRÂNSITO EM JULGADO DA DECISÃO DO INCIDENTE DE IMPUGNAÇÃO, JÁ QUE O INCONTROVERSO SUBSISTIRÁ INTOCÁVEL, INDEPENDENTE DE QUALQUER DECISÃO DO INCIDENTE DE IMPUGNAÇÃO, PORQUE NÃO ESTÁ SUB JUDICE, OU EM JULGAMENTO, MAS ALHEIO A QUALQUER DECISÃO DA IMPUGNAÇÃO. E, EM CONTRADIÇÃO COM A DECISÃO DA RECUPERAÇÃO JUDICIAL. Mais precisamente, com a decisão dos EDcl, em anexo, restou assim esclarecido: "Essa suspensão somente alcança as contrições realizadas após o dia 21/06/2016, ou seja, os valores depositados antes da referida data não se submetem à suspensão em tela, bem como aqueles decorrentes de atos processuais que se sujeitaram à preclusão, operada antes do dia 21/06/2016".
+Ou seja, o valor incontroverso não está sob o domínio do judiciário. O valor incontroverso está a salvo de qualquer discussão, está fora do objeto da impugnação, não fazendo parte do litigioso. Porque ao declarar o valor como devido, o mesmo se reveste de força de pagamento e, consequentemente, alcançado pela preclusão.
+Assiste razão ao agravante, visto que o Tribunal de origem, mesmo provocado a se manifestar a respeito do tema nas razões do agravo de instrumento e dos embargos opostos (e-STJ fls. 16/20 e 381/393), manteve-se inerte.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que a questão seja apreciada. Nesse sentido:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+(..)
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Ficam prejudicadas as demais questões trazidas no especial.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de ANULAR O ACÓRDÃO proferido no julgamento dos embargos de declaração (e-STJ fls. 399/406) e determinar o retorno dos autos ao Tribunal de origem para exame da omissão apontada.
+Publique-se e intimem-se.
