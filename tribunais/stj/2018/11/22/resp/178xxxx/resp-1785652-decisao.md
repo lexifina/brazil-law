@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial de decisão denegatória de recurso especial interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, suscitando omissão.
+Narra a recorrente que cuida-se de ação revisional em que se discute o aumento por faixa etária e vindica-se a devolução das quantias pagas em excesso.
+Alega omissão e que o art. 15 da Lei n. 9.656/1998 possibilita a variação do valor da mensalidade por decorrência de mudança de faixa etária, sendo norma específica com relação ao CDC.
+Pondera que formulou pedido subsidiário de manutenção de um percentual mínimo razoável pela alteração de faixa etária, pois cuida-se de forma que o sistema de plano de saúde encontrou para equilibrar os preços, com base na sinistralidade de cada faixa de idade.
+Obtempera que estão previstas no contrato as faixas etárias e os percentuais de reajustes incidentes em cada uma delas, em conformdiade com as normas expedidas pela ANS, e que, apenas posteriormente, a Resolução n. 06/1988 do Consu e a Resolução n. 63/2003 vieram a disciplinar de modo diverso, impondo um limite de faixas etárias e determinando que o valor da última faixa etária não pode ser superior a 6 vezes o valor da primeira.
+Argumenta que o reajuste foi aplicado no momento em que o segurado completou 59 anos, e se deve ao fato de que nas outras faixas etárias posteriores não haverá aumento significativo no valor do prêmio a ser pago.
+Acena que, em seguro-saúde, a idade do segurado é o fator mais determinante, sendo estatisticamente comprovada maior probabilidade de uma pessoa de idade avançada ser mais suscetível às doenças em geral
+Aduz que a Corte local age de forma parcial, pois não pode o Judiciário intervir na relação entre as partes resguardando um suposto direito de uma parte, deixando a outra em completo desamparo.
+2. O acórdão recorrido dispôs:
+Acrescento que a r. sentença julgou improcedente o pedido, sob o fundamento de ser inexistente a abusividade de reajuste anual do plano de saúde por parte da seguradora, a qual agiu nos moldes contratuais e consoante as normas da Agência Nacional de Saúde Suplementar - ANS.
+ ..
+No mérito, aduz que mesmo nos contratos firmados antes da edição a Lei nº 9.656/1998, as mensalidades dos planos de saúde não podem ser abusivas, salientando o tema 952 julgado pelo c. STJ, em sede de recursos repetitivos.
+ ..
+No mérito, aduziu que mesmo nos contratos firmados antes da edição a Lei nº 9.656/1998, as mensalidades dos planos de saúde não podem ser abusivas, salientando o tema 952 julgado pelo c. STJ, em sede de recursos repetitivos.
+ ..
+Mediante análise percuciente dos elementos contidos nos autos, verifica-se que o apelante firmou contrato de plano de saúde individual com a apelada, em 30/06/1994, anteriormente à edição da Lei nº 9.656/1998, reputando como desarrazoados os percentuais de reajuste utilizados pela operadora.
+No entanto, diante da legislação de regência acerca do tema - Resolução Normativa nº 63 de 2003 e Recurso Especial Repetitivo n. 1.568.244/RJ - não se mostra necessário ao deslinde do feito a realização de perícia.
+É certo que o juiz é o destinatário da prova e a ele compete exclusivamente a análise acerca da sua prescindibilidade, podendo, inclusive, indeferir as diligências inúteis ou meramente protelatórias e devendo, ao apreciar o contexto fático-probatório constante nos autos, indicar na decisão as razões de formação de seu convencimento, consoante o disposto nos arts. 370, parágrafo único, e 371, ambos do CPC/2015.
+ ..
+Tal como já destacado, o apelante firmou contrato de planode saúde individual com a apelada, em 30/06/1994, entendendo como desarrazoados es reajustes aplicados pela operadora, ora apelada, tendo em vista o entendimento consolidado pela RN nº 63/2003 da ANS e o Resp Repetitivo n. 1.568.244/RJ, bem assim, o Termo de Compromisso nº 04/2005 firmado entre a ANS e as empresas atuantes ramo.
+Tendo em vista o instrumento contratual entre as partes ter sido celebrado em 30/06/1994, ou seja, antes do advento da Lei nº 9.656/1998, a Agência Nacional de Saúde, o Ministério Público e as operadoras firmaram o Termo de Compromisso nº 04/2005, que, tem por fim, regulamentar os índices de reajuste a serem aplicados aos contratos individuais anteriores a referida lei. 2 Dessa forma, a partir do ano de 2005, a ANS divulga anualmente os percentuais a serem aplicados aos contratos de plano de saúde individuais anteriores a Lei nº 9.656/1998, e não adaptados, evitando reajustes abusivos e onerosidade excessiva em desfavor do consumidor.
+Com efeito, a partir de 2005, os reajustes aplicáveis ao contrato em tela devem obedecer aos percentuais fixados pela referida agência reguladora.
+ ..
+O entendimento da agência reguladora foi consagrado pela Segunda Seção do c. Superior Tribunal de Justiça, ao apreciar, sob a sistemática dos recursos repetitivos, o REsp nº 1.568.244/RJ (Rel. Min, Ricardo Villas Boas Cueva, DJe 19/12/2016). O julgamento foi ementado da seguinte maneira:
+ ..
+Cumpre salientar ainda que, em que pese o entendimento do c. STJ quanto aos contratos firmados antes da Lei nº 9.656/1998, no sentido de que: "deve- se seguir o que consta no contrato, respeitadas, quanto à abusividade dos percentuais de aumento, as normas da legislação consumerista e, quanto à validade formal da cláusula, as diretrizes da Súmula Normativa nº 3/2001 da ANS", não se mostra razoável que sejam aplicados reajustes em quatro faixas etárias excedentes àquelas previstas nas normas que guarnecem o tema.
+Ainda que se trate de contrato firmado antes da edição da lei que regulamenta os planos de saúde, cumpre ressaltar guie a legislação posterior - por ser mais benéfica ao consumidor - deve ser aplicada ao caso em comento, notadamente em virtude da natureza jurídica do contrato debatido nos autos (contrato de adesão de trato sucessivo).
+Nessa esteira já decidiu esta e. Corte de Justiça, em casos semelhantes:
+ ..
+Nesse diapasão, é evidente que as normas posteriores que regem o tema do reajuste por faixa etária, bem assim, a jurisprudência correlata, devem ser aplicadas ao particular, sobretudo quando se verifica abusividade em desfavor do consumidor.
+Impende destacar que o CDC veda que o fornecedor de serviços exija do consumidor vantagens manifestamente excessivas, além de serem consideradas nulas de pleno direito as cláusulas contratuais que permitam ao fornecedor variação de preço de forma unilateral (art. 51, inciso X).
+3. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, conheço do recurso e, na extensão, DOU PROVIMENTO ao presente agravo para determinar seja convertido em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
