@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO DE EMPRÉSTIMO. NÃO EFETIVAÇÃO DO DESCONTO DAS PARCELAS EM FOLHA DE PAGAMENTO E NA CONTA CORRENTE DA MUTUÁRIA. RESPONSABILIDADE DA CREDORA. INCIDÊNCIA DE JUROS MORATÓRIOS. NÃO CABIMENTO. CORREÇÃO MONETÁRIA. INCIDÊNCIA DEVIDA. PEDIDO DE AFASTAMENTO DA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO APTA A JUSTIFICAR O ACOLHIMENTO DA PRETENSÃO.
+1. Evidenciado que o contrato de mútuo que aparelha a demanda monitória estabelece que o empréstimo seria pago mediante o desconto de parcelas na folha de pagamento da devedora, a mutuaria não pode ser responsabilizada por eventuais falhas no controle dos débitos por parte da credora.
+2. Deixando a credora de demonstrar que as parcelas do mútuo não foram debitadas por culpa exclusiva da devedora, tem-se por incabível a incidência de juros de mora sobre o montante devido.
+3. Por representar apenas a recomposição do poder aquisitivo da moeda, a correção monetária deve incidir sobre o montante devido, ainda que a devedora não tenha dado causa à inadimplência.
+4. Incabível o afastamento da condenação da parte ré ao pagamento de honorários de sucumbência, quando evidenciado que não foram apresentados fundamentos recursais específicos e os fundamentos relativos aos demais pedidos deduzidos na petição recursal não têm o condão de assegurar o acolhimento de tal pretensão.
+5. Recurso de Apelação conhecido e parcialmente provido.
+Alegou-se, no especial, divergência jurisprudencial em torno do cabimento dos juros de mora pelo não pagamento da prestação do empréstimo.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local concluiu que, em que pese haver a agravada contraído empréstimo com a recorrente e não ter pagado as prestações, o fato decorreu de falha na prestação dos serviços pela agravante, porquanto o contrato previa o pagamento por meio de desconto em folha de pagamento, o que não foi feito por improvidência da recorrente, daí porque, embora devidas as parcelas do empréstimo, não o são os juros, porquanto não houve culpa imputável à agravada.
+Inequívoco, pois, que reexaminar a questão esbarra nas disposições dos verbetes n. 5 e 7 da Súmula desta Casa.
+Não serve, outrossim, o paradigma juntado, haja vista que nada consta acerca da ausência de culpa do devedor no caso concreto, com o acréscimo de que há no indigitado julgado paradigma o artigo 955 do revogado Código Civil, com correspondência no artigo 394 do vigente, segundo o qual "considera-se em mora o devedor que não efetuar o pagamento e o credor que não quiser recebê-lo no tempo, lugar e forma que a lei ou a convenção estabelecer."
+O pagamento não foi feito no tempo que a convenção estabeleceu por culpa do credor, não do devedor, como apuraram as instâncias ordinárias.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
