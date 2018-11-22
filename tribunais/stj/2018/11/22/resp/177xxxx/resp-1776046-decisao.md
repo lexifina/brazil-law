@@ -1,0 +1,66 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por unanimidade, pela 16ª Câmara do Tribunal de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, assim ementado (fl. 319e):
+ACIDENTÁRIA Preparador de carrocerias Acidente típico Lesão no cotovelo esquerdo Nexo causal reconhecido Redução parcial e permanente da capacidade laborativa Auxílio-acidente devido a partir da juntada do laudo pericial, compensando-se os valores pagos por força da antecipação dos efeitos da tutela Valores em atraso que devem ser atualizados mês a mês, afastada a adoção do INPC Incidência do IPCA-E a partir da elaboração da conta de liquidação Juros de mora devidos desde o termo inicial do benefício, mês a mês, de forma decrescente Aplicação do art. 5º da Lei nº 11.960/09, porém apenas no que concerne aos juros, ante o resultado do julgamento da ADI nº 4.357 pelo STF Rearbitramento dos honorários advocatícios na forma do art. 20, § 4º, do CPC Apelo do autor desprovido, parcialmente providos os recursos autárquico e oficial.
+Opostos embargos de declaração, foram rejeitados (fls. 332/334e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 1.022 do Código de Processo Civil de 2015 - "o recorrente opôs Embargos de Declaração a fim de que a questão fosse esclarecido à luz dos artigos 23 e 129 da Lei n. 8.213/91, se não seria o caso de manter a r. sentença que concedeu a partir do dia 08/07/2010, devidamente comunicado ao INSS mediante CAT" (fl. 339e); e
+Arts. 23 e 129 da Lei n. 8.213/91 - o marco inicial do benefício deve ser concedido da data da emissão da CAT, ocorrida em 08.07.2010, pois este é o momento a ser considerado como requerimento administrativo.
+Sem contrarrazões (fl. 357e), o recurso foi admitido (fls. 358/359e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+De início, prequestionados, implicitamente, a tese recursal e os dispositivos tidos por violados, afasto a alegada ofensa ao 1.022, II, do Código de Processo Civil.
+Neste sentido, os arestos:
+PROCESSUAL CIVIL E TRIBUTÁRIO - VIOLAÇÃO DO ART. 535 DO CPC - INOCORRÊNCIA - EXECUÇÃO FISCAL - MULTA MORATÓRIA APLICADA SOBRE MASSA FALIDA - INEXIGIBILIDADE.
+1. Afasta-se violação do art. 535 do CPC quando implicitamente prequestionada a matéria objeto do recurso especial.
+(..)
+3. Recurso especial não provido.
+(REsp 1218364/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 19/02/2013, DJe 27/02/2013).
+PROCESSUAL CIVIL - RECURSO ESPECIAL - INEXISTENTE VIOLAÇÃO DO ART. 535 DO CPC - MATÉRIA VENTILADA IMPLICITAMENTE - VIOLAÇÃO DOS ARTS. 165, 458, II E III - INEXISTÊNCIA - ACÓRDÃO BEM FUNDAMENTADO - DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO - ACÓRDÃO RECORRIDO DECIDIDO À LUZ DA LEGISLAÇÃO ESTADUAL - VEDADO O EXAME DA CONTROVÉRSIA EM SEDE DE RECURSO ESPECIAL.
+1. Afasta-se a alegação de ofensa ao art. 535 do CPC quando o Tribunal, ainda que implicitamente, emite juízo de valor a respeito da questão tida por omissa.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se apenas que a decisão seja fundamentada, aplicando o magistrado, ao caso concreto, a legislação por ele considerada pertinente. Caso em que o Tribunal de origem bem fundamentou seu entendimento, afastando, ainda que implicitamente, as teses do recurso especial.
+(..) 6. Recurso especial conhecido parcialmente, mas nessa parte não provido.
+(REsp 1049969/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 24/06/2008, DJe 22/08/2008).
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPI. DIREITO DE CREDITAMENTO. VIOLAÇÃO DO ART. 535 DO CPC NÃO-CONFIGURADA. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. NÃO-OCORRÊNCIA. MULTA PREVISTA NO ART. 538, PARÁGRAFO ÚNICO, DO CPC. DESCABIMENTO.
+1. Afasta-se a violação do art. 535 do CPC quando implicitamente prequestionada a matéria infraconstitucional deduzida nas razões do recurso especial.
+(..)
+4. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido para afastar a multa de que trata o art. 538, parágrafo único, do CPC.
+(REsp 214.940/PI, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, julgado em 03/05/2005, DJ 27/06/2005, p. 308).
+
+No caso, o tribunal de origem, em que pese reconhecer a existência de emissão de Comunicação de Acidente do Trabalho - CAT, fixou o termo inicial do benefício na data da juntada do laudo pericial, nos seguintes termos (fls. 320/321e):
+O acidente é objeto da CAT trazida aos autos às fls. 23, sendo oportuno consignar que, segundo ofício enviado pela autarquia, não consta benefício associado a ela (fls. 43).
+Efetuada a avaliação médica (fls. 242/248), constatou o perito que o autor apresenta, em cotovelo esquerdo, "rotura crônica de ligamento colateral lateral e sinais de rotura prévia de ligamento colateral medial, com alterações fibrocicatriciais", além de "discreto espessamento de tendões flexores e extensores" (fls. 246). Atestou que as referidas sequelas acarretam "redução parcial e permanente da capacidade laborativa" do obreiro (fls. 247), devendo ser considerada como data do início da incapacidade a data da perícia médica (03/07/2014).
+O nexo causal comporta reconhecimento, visto que, além da CAT emitida pela empregadora, foi admitido pelo "expert" e não negado pela autarquia em sede recursal.
+O laudo pericial está suficientemente fundamentado e não foi contrariado por nenhum outro trabalho técnico, merecendo orientar o desfecho da lide.
+Dentro desse quadro, comprovada a redução parcial e permanente da capacidade de trabalho e reconhecido o nexo de causalidade, é de ser preservada a concessão do auxílio-acidente.
+Contudo, o termo inicial do benefício deverá corresponder à data da juntada do laudo pericial (assim considerada a liberação digital em 10/09/2014), quando veio para os autos a prova da consolidação das lesões em nível suficiente a permitir o reconhecimento da redução parcial e definitiva da capacidade laborativa, além da confirmação do nexo de causalidade, compensando-se a partir de então os valores pagos por força da antecipação dos efeitos da tutela (DIP: 01/12/2014 fls. 291).
+Com efeito, esta Corte firmou entendimento segundo o qual se considera efetuado o requerimento administrativo na data do recebimento da Comunicação de Acidente de Trabalho - CAT pelo INSS, devendo o termo inicial do benefício ser fixado nessa data.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. AUXÍLIO-ACIDENTE. INFORTÚNIO DE NATUREZA LABORAL. TERMO INICIAL DO BENEFÍCIO. DATA DO RECEBIMENTO DA COMUNICAÇÃO DE ACIDENTE DE TRABALHO - CAT PELO INSS.
+1. Não se configurou a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia.
+2. O termo inicial para a concessão do benefício de auxílio-acidente de natureza laboral deve ser a data do recebimento da Comunicação de Acidente do Trabalho - CAT pelo INSS, momento a ser considerado como efetuado o requerimento administrativo se o acórdão local confirmar que a moléstia remonta à época da referida comunicação.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1666571/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 30/06/2017).
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. INFORTÚNIO DE NATUREZA LABORAL. TERMO INICIAL DO BENEFÍCIO. DATA DO RECEBIMENTO DA COMUNICAÇÃO DE ACIDENTE DE TRABALHO - CAT PELO INSS.
+1. O termo inicial para a concessão do benefício de auxílio-acidente de natureza laboral deve ser a data do recebimento da Comunicação de Acidente do Trabalho - CAT pelo INSS, momento a ser considerado como efetuado o requerimento administrativo se o acórdão local confirmar que a moléstia remonta à época da referida comunicação. A propósito, confiram-se: REsp n. 928.171/PR, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, DJe 09/03/2009; e EDcl nos EDcl nos EDcl no AgRg no Ag n. 1.239.746/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 06/11/2012.
+2. Agravo regimental não provido.
+(AgRg no REsp 1382209/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 14/05/2015).
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUXÍLIO-ACIDENTE. TERMO INICIAL. COMUNICAÇÃO DE ACIDENTE DE TRABALHO.
+1. O termo inicial para a concessão do benefício de auxílio-acidente deve ser fixado na data do recebimento da Comunicação de Acidente de Trabalho - CAT pelo INSS, quando se efetuou o requerimento administrativo (REsp n. 928.171/PR, Ministro Arnaldo Esteves Lima, Quinta Turma, DJe 9/3/2009).
+2. Embargos de declaração parcialmente acolhidos, com efeitos modificativos.
+(EDcl nos EDcl nos EDcl no AgRg no Ag 1239746/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/10/2012, DJe 06/11/2012).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. TERMO INICIAL. DATA DO RECEBIMENTO DA COMUNICAÇÃO DE ACIDENTE DE TRABALHO - CAT PELO INSS. RECURSO IMPROVIDO.
+1. Havendo indeferimento do benefício em âmbito administrativo, o termo inicial dos benefícios previdenciários de auxílio-acidente, auxílio-doença e aposentadoria por invalidez fixar-se-á na data do requerimento. Precedentes do STJ.
+2. Por conseguinte, in casu, o termo inicial para a concessão do benefício de auxílio-acidente deve ser fixado na data do recebimento da Comunicação de Acidente de Trabalho - CAT pelo INSS, quando se efetuou o requerimento administrativo.
+3. Recurso especial improvido.
+(REsp 928.171/PR, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 05/02/2009, DJe 09/03/2009).
+No que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10º, do art. 85, do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO n. 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Assim, tratando-se de recurso sujeito ao Código de Processo Civil de 2015, considerada a fundamentação apresentada e, embora caracterizada a hipótese de provimento do recurso, resta impossibilitado o redimensionamento da verba honorária anteriormente arbitrada porquanto caracterizada hipótese de sucumbência mínima da parte recorrida, nos termos do art. 86, parágrafo único, do Código de Processo Civil de 2015.
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para restabelecer a sentença.
+Publique-se e intimem-se.
