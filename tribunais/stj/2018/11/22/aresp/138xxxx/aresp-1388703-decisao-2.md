@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - JULGAMENTO ANTECIPADO DA LIDE - TEMPESTIVIDADE - EMBARGOS DE DECLARAÇÃO A QUAL DEVE SER ATRIBUIDO O EFEITO SUSPENSIVO - SUSPENSÃO DO PRAZO RECURSAL QUE NÃO SERÁ CONCEDIDA APENAS EM CASO DE NÃO CONHECIMENTO DOS ACLARATÓRIOS - APELAÇÃO QUE DEVE SER CONHECIDA.
+AGRAVO RETIDO - SENTENÇA - DUPLA INTERPOSIÇÃO RECURSAL - OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE - AGRAVO RETIDO INTERPOSTO EM SEQUÊNCIA A APELAÇÃO - RECURSO NÃO CONHECIDO.
+QUESTÕES PRELIMINARES: CONHECIMENTO EX OFFICIO - NULIDADE DA SENTENÇA - PARTE AUTORA QUE POSSUI LEGITIMIDADE ATIVA PARA POSTULAR REPARAÇÃO DE DANO AMBIENTAL INDIVIDUAL - CERCEAMENTO DE DEFESA - NECESSIDADE DE REALIZAÇÃO DE PERÍCIA - SENTENÇA CASSADA.
+Opostos embargos de declaração, esses foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 355, 370, 371 e 1.022 do Código de Processo Civil/2015, assim como divergência jurisprudencial. Sustenta negativa de prestação jurisdicional, bem como ausência de cerceamento de defesa.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, não observo omissão, contradição ou obscuridade no acórdão recorrido, senão julgamento contrário aos interesses da parte recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência. Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento.
+Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4.Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe 03/08/2016)
+No presente caso, o Tribunal de origem, ao reconhecer a configuração do cerceamento de defesa, manifestou-se no seguinte sentido (e-STJ, fls. 413-414):
+ (..) não há como se passar ao exame do mérito da causa, uma vez que faltam provas a respeito da real situação de fato, em razão de ter sido proferido de forma antecipada o mérito do pedido, ocasionando cerceamento de defesa por impedir a parte autora de produzir provas aptas a demonstrar o dano individual que afirma ter sofrido, em especial por haver requerimento na inicial de prova.
+ Insta salientar que, embora o Juiz seja o destinatário da prova e somente a ele cumpre aferir a necessidade ou não, de sua realização, conforme o artigo 130, do Código de Processo Civil/73, o julgador não pode restringir a defesa da parte que procura provar o direito alegado.
+ Neste sentido, o julgamento antecipado da lide realizado no caso em tela configura patente cerceamento de defesa, violou o artigo 330, do CPC/73, na medida em que há questão de fato que necessita ser submetida à prova pericial, pois a análise sobre o mau cheiro no entorno da residência da apelante é essencial ao deslinde da demanda.
+ (..)
+ Desta feita, em observância às garantias constitucionais do contraditório e da ampla defesa, a sentença recorrida deve ser cassada de ofício, anulando-se todos os atos processuais praticados após o evento 10, vez que foi prolatada sentença logo após a apresentação de contestação, sem oportunizar a produção de provas pelas partes, devendo o processo retornar ao juízo de origem para a produção de perícia e demais provas que entenderem pertinentes.
+ Em virtude da cassação acima, resta prejudicada a análise das razões de reforma apresentadas no presente Recurso de Apelação.
+Nesses termos, a análise das razões do recurso, a fim de demover as conclusões da origem, demandaria inevitável reexame de matéria fático-probatória, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Esclareça-se que cabe ao magistrado, respeitando os limites previstos no Código de Processo Civil, a interpretação da prova, ficando a ele facultado o entendimento acerca da necessidade de dilação ou o esclarecimento desta, diante dos fatos apresentados nos autos, sendo inviável a revisão da conclusão adotada pelo óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. APRECIAÇÃO DE PROVA. PRINCÍPIO DO LIVRE CONVENCIMENTO. ART. 131 DO CÓDIGO DE PROCESSO CIVIL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PREJUÍZOS DECORRENTES DE INCÚRIA DA FORNECEDORA. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 771.361/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/05/2016, DJe 18/05/2016)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DEMARCATÓRIA. INICIAL INDEFERIDA. APELO RARO. VIOLAÇÃO DO ART. 335 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. OFENSA AOS ARTS. 130 E 402, AMBOS DO CPC/73. PRODUÇÃO DE PROVA ORAL E PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REFORMA DO JULGADO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Incide a Súmula nº 211 do STJ quando o dispositivo de lei invocado no apelo nobre (art. 335 do CPC/73) não foi debatido no acórdão recorrido, apesar de opostos embargos de declaração a fim de suscitar os temas neles contidos na instância a quo. Caberia à parte, nas razões do seu especial, alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+3. A reforma do acórdão quanto à inexistência de cerceamento do direito de defesa em razão do indeferimento de prova oral e pericial demandaria, necessariamente, o revolvimento dos fatos da causa.
+Incidência da Súmula nº 7 do STJ.
+4. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+5. Agravo regimental não provido.
+(AgRg no AREsp 650.702/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe 09/08/2016)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
