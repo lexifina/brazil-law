@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por BRADESCO VIDA E PREVIDÊNCIA S/A., em face de acórdão assim ementado (fl. 473):
+AGRAVO DE INSTRUMENTO SEGURO FACULTATIVO SEGURO DE VIDA E ACIDENTES PESSOAIS AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA PARCIAL PROCEDÊNCIA FASE DE CUMPRIMENTO DE SENTENÇA IMPUGNAÇÃO AOS CÁLCULOS DESACOLHIMENTO NECESSIDADE. A executada não logrou impugnar, de forma idônea, as contas trazidas aos autos, limitando-se a esboçar inconformismo genérico.
+Ademais, o trabalho do "expert" do juízo desfruta da presunção de veracidade, porquanto lastreado em ideal imparcialidade. A fundamentação da decisão vergastada é suficiente, estando em sintonia com os cânones do direito processual e constitucional. RECURSO DESPROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 490/494).
+Nas razões do especial, a ora agravante alega ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre a divergência acerca da interpretação da Súmula 179/STJ, "sem considerar a gritante distinção entre o valor pleiteado no incidente e o apurado pelo perito, o MM. Juízo a quo julgou improcedente a impugnação" (fl. 502). Argui que "Era de rigor a manifestação expressa sobre a aplicação do artigo 940 do Código Civil ao caso dos autos, II, tendo em vista que o recorrido confessou ter incluído no incidente verbas que não constavam na sentença, o Juízo de 1º grau e o Tribunal também reconheceram o fato e, ainda assim, não houve manifestação judicial sobre uma controvérsia expressa" (fl. 503).
+No mérito, aponta violação dos arts. 884 e 940 do Código Civil, afirmando que realizada "a atualização do valor das apólices para data posterior à dos depósitos judiciais, utilizando como termo final de correção a data da realização do cálculo, ou seja, incluiu correção e juros sobre o depósito judicial" (fl. 501), estando caracterizado o excesso de execução.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Assiste razão à recorrente.
+O acórdão recorrido efetivamente foi omisso, não abordando as questões supracitadas.
+Em face do exposto, prejudicada a análise dos demais pontos, conheço do agravo para, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento das questões postas em discussão desde a apelação.
+Intimem-se.
