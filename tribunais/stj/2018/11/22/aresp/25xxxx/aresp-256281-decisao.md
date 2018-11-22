@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por inexistência de afronta ao art. 535 e por incidência das Súmulas n. 7, 83 e 211 do STJ.
+O Tribunal de origem negou provimento ao apelo interposto pelos agravantes, em julgado que recebeu a seguinte ementa (e-STJ fl. 478/479):
+EMENTA Ação anulatória. Arrematação. Nulidade. Ausência. Improcedência. Penhora e data de venda. Ciência dos executados. Edital de venda. Requisitos. Ausência de informação, Prejuízo. Legitimidade para arguição. Credor hipotecário. Intimação. Insurgência por meio de embargos de terceiro. Vicio inexistente. Preço vil. Não ocorrência.
+Evidenciado pela prova dos autos que todos os executados tiveram ciência da penhora e da data designada para a venda judicial de bem imóvel, em conformidade com a legislação processual civil, não há que se falar em nulidade da arrematação.
+Somente o potencial arrematante tem legitimidade para pleitear a anulação da arrematação, invocando a omissão do edital quanto à existência de ônus real sobre imóvel objeto de constrição judicial.
+É do credor hipotecário a legitimidade para invocar nulidade da arrematação por ausência de sua intimação quanto às datas designadas para venda do bem dado em garantia, afastando-se, por conseguinte, a alegação de nulidade da arrematação quando ficar evidenciado que o tal credor já se insurgiu contra o ato por meio de embargos de terceiro.
+A arrematação de imóvel em segunda praça ou seguintes por 60% (sessenta por cento) do seu valor não configura o preço vil.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 496/503).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a", da CF, os agravantes apontaram violação do art. 535 do CPC/1973 por contradição quanto à intimação pessoal do cônjuge do executado e omissão quanto ao art. 690-A, parágrafo único, do CPC/1973.
+Alegaram ofensa ao art. 398 e 515 do CPC/1973, aduzindo não ter havido intimação para manifestação sobre documentos que teriam determinado o preço por ato unilateral da recorrida.
+Alegaram afronta aos arts. 615, II, 686, V, e 698, do CPC/1973, sustentando a nulidade da arrematação em virtude da falta de intimação do credor hipotecário.
+Suscitaram violação do art. 655, § 2º, do CPC/1973, em virtude da ausência de intimação pessoal do cônjuge do executado.
+Argumentaram, por fim, ofensa ao art. 690-A do CPC/1973, pretendendo a nulidade da arrematação em virtude da ausência de exibição da correta diferença entre o preço da arrematação e o valor do crédito remanescente.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Com relação à afronta ao art. 535 do CPC/1973, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte quanto à alegada contradição no que toca à ausência de intimação pessoal do cônjuge do executado. Não há, portanto, contradição a ser sanada.
+Por outro lado, verifica-se não ter havido manifestação a respeito do art. 690-A, parágrafo único, do CPC/1973. Assim, quanto ao ponto, merece acolhimento a pretensão dos agravantes, a fim de que haja expressa manifestação do Tribunal de origem sobre a questão.
+Sobre os documentos juntados pela agravada, a Corte local decidiu que (e-STJ fls. 500/501):
+Ademais, em relação a impossibilidade de juntada de documentos novos, esta é atrelada à questão relativa ao preço vil, pois os documentos questionados são relativos à atualização do débito trazida antes da arrematação e à diferença do depósito feito pelo credor, contudo, a simples leitura dos autos revela que a tese, inclusive, já foi objeto de impugnação por meio de agravo de instrumento interposto pelos ora embargantes e que sequer foi conhecido por ausência de peças (fís. 261/287), restando preclusa a matéria.
+A modificação das conclusões do acórdão recorrido demandaria nova incursão no acervo fático-probatório dos autos, consubstanciada na análise do conteúdo dos documentos a fim de verificar se teria havido efetivamente alteração do valor do preço da arrematação. Dessa forma, incide a Súmula n. 7 do STJ.
+Quanto à nulidade da arrematação em virtude da ausência de intimação do credor hipotecário, o acórdão recorrido está assim fundamentado (e-STJ fl. 484):
+Assim, seja porque os executados, ambos, estavam cientes da penhora e da data de venda do imóvel, seja porque não havia como a apelante saber da existência de ônus, cuja obrigação de informar ao juízo era dos executados, bem como porque não detém os executados legitimidade para alegar ausência de intimação do credor hipotecário, que já se insurgiu contra a arrematação, não há que se falar em nulidade da arrematação questionada na presente ação anulatória.
+Das razões do recurso especial, verifica-se que os agravantes não impugnaram o fundamento relativo ao art. 656, § 1º, do CPC/1973, segundo o qual é dever do executado informar sobre a existência de ônus reais sobre o imóvel. Dessa forma, incidente a Súmula n. 283 do STF.
+Quanto à necessidade de intimação pessoal do cônjuge do executado, decidiu o TJRO (e-STJ fls. 481/483):
+Conquanto a sentença tenha sido fundamentada no argumento de que a nulidade da arrematação decorra do tato de que a apelada [NOME] não tenha sido cientificada de tal ato, tenho que isto não é verdade.
+O documento de fl. 64 indica que desde 09.05.2007 a apelada [NOME] é representada pela advogada [NOME], bem como os documentos de fls. 75/76, 97/99, 129 e 154/156, dentre outros, apontam que o executado [NOME] também tem sua defesa patrocinada por tal advogada.
+Na petição de fIs. 154/156, verifica-se que os apelados, ambos, representados pela mencionada advogada, apresentam impugnação ao cumprimento de sentença, se opondo à penhora e à avaliação realizadas na execução, demonstrando que os dois executados, [NOME] e Sérgio, marido e mulher, tinham plena ciência do ato de constrição judicial sobre o imóvel.
+Causa espécie, a esse respeito, o fato de que a defesa se comportou de forma estranha na execução, pois, embora defendidos pela mesma advogada e com o mesmo interesse e teses defensivas, várias petições são feitas em nome de um só dos executados e outras em nome de ambos, o que somente pode induzir à conclusão de que querem fazer parecer que são pessoas desconhecidas umas das outras, o que não é verdade.
+Relativamente ao argumento de que [NOME] não foi intimada pessoalmente da hasta pública, tenho que tal lato não implica nulidade na arrematação.
+Como dito, a penhora se efetivou em 25.07.2008, quando já em vigor a Lei n. 11.382/2006, que trouxe a seguinte redação para o artigo 687, §5º, do CPC, in verbis:
+Art. 687.  ..
+§ 5º O executado terá ciência do dia, hora e local da alienação judicial por intermédio de seu advogado ou, se não tiver procurador constituído nos autos, por meio de mandado, carta registrada, edital ou outro meio idôneo.
+Veja-se a manifestação de [NOME] acerca do mencionado dispositivo legal:
+Como quer que a questão fosse respondida, a nova redação dada ao §5º é clara quanto à desnecessidade da intimação pessoal do executado, assim entendida a necessidade de serem realizadas diligências pelo oficial de justiça ou ser expedida a ele carta de intimação pelo crio para que, independentemente do edital, o executado tenha ciência (inequívoca) das datas das hastas públicas. E que, de acordo com a nova regra, faz-se suficiente que o advogado do executado seja intimado daquelas datas. (in Código de Processo Civil Interpretado, 3a Edição, Editora Atlas, 2G08, p. 2191) .
+(..)
+Os executados tinham o mesmo patrono e houve a correta publicação dos editais com as datas de vendas, com a cientiticação de sua advogada, como atestam os documentos de fls. 164/166, 189 e 217/226.
+Assim, fica evidente que não há que se falar em nulidade da arrematação por falta de intimação da executada [NOME], cônjuge do executado Sérgio, quanto à penhora do imóvel e quanto à data de venda do imóvel.
+A modificação das conclusões do acórdão recorrido demandaria análise de matéria de fato, relativa ao processo de execução, para verificação da regularidade das intimações. Nesse contexto, incide a Súmula n. 7 do STJ.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, apenas para reconhecer a omissão do acórdão recorrido quanto à tese fundada no art. 690-A, parágrafo único, do CPC/1973, determinando a remessa dos autos ao Tribunal de origem a fim de que seja sanado o vício apontado.
+Publique-se e intimem-se.
