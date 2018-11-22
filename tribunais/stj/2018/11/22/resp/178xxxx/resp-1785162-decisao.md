@@ -1,0 +1,6 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] em face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão assim ementado:
+EMBARGOS À EXECUÇÃO - Não demonstrada a existência de nenhum vício de vontade do recorrente ao garantir o negócio - Poderia ter pugnado pela produção de prova oral para dirimir a questão e provar o suposto vício, no entanto, não o fez - Desnecessário que a expressão "por aval" acompanhe a assinatura do garantidor da obrigação, pois não configura requisito essencial para validade da garantia - Precedentes da Corte - A alegação de que o recorrido não teria entregado os bovinos não se sustenta diante dos recibos juntados aos autos - Sentença de improcedência mantida - Recurso desprovido e, por ser a sentença proferida já na vigência do NCPC, são majorados os honorários advocatícios de 10% para 15% do valor da causa (art. 85, § 11, do NCPC).
+Sustenta violação ao artigo 30 da Lei n. 7.357/1985.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
