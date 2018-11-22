@@ -1,0 +1,32 @@
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. INCIDÊNCIA DO FATOR PREVIDENCIÁRIO CORRESPONDENTE AO NÚMERO DE DIAS DE ATIVIDADE ESPECIAL. FALTA DE PREVISÃO LEGAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA 283 DO STF.
+1. Da leitura das razões recursais, verifica-se que a parte recorrente não cuidou de impugnar todos os fundamentos do acórdão recorrido especialmente no tocante à ausência de previsão legal para gozar da imunidade do fator previdenciário na proporção do número de dias computados de atividade especial.
+2. Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido. Logo, sendo os fundamentos suficientes para manter o julgado, fica inviabilizado o recurso. A esse respeito, aplicável, por analogia, a Súmula 283/STF.
+3. E, ainda que assim não fosse, considerando a fundamentação adotada, o aresto recorrido concluiu que "Nesse sentido, reunindo o autor os requisitos da aposentadoria por tempo de contribuição somente após o ano de 1999 (DIB em 28/06/2006 - e-fl.12), quando já vigente a nova redação do artigo 29, I, da Lei 8.213/91, com redação dada pela Lei 9.876/99, não há como ser afastada a aplicação do fator previdenciário" (fl. 255, e-STJ). Tal decisum somente poderia ser modificado mediante o revolvimento dos aspectos concretos da causa, o que encontra óbice na Súmula 7 do STJ.
+4. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUÇÃO. REVISÃO DA RMI. EXCLUSÃO DO FATOR PREVIDENCIÁRIO SOBRE A PARCELA DA MÉDIA CONTRIBUTIVA CORRESPONDENTE À RAZÃO ENTRE O NÚMERO DE DIAS DE ATIVIDADE ESPECIAL E O NÚMERO DE DIAS CONSIDERADO NA CONCESSÃO DO BENEFÍCIO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO. MAJORAÇÃO DE 1% DOS HONORÁRIOS ADVOCATÍCIOS.
+APLICABILIDADE DO DISPOSTO NO ART. 85, § 11, COM RESSALVA DO §3º, DO ART. 98, do CPC de 2015.
+Os Embargos de Declaração foram rejeitados às fls. 266-270, e-STJ.
+A parte recorrente alega em Recurso Especial que houve violação do art. 29, II, da Lei 8.213/1991. Sustenta: "(..) a imunidade contra a incidência do Fator Previdenciário é proteção extensível aos titulares de qualquer espécie de aposentadoria em que tenha sido relevante o exercício de atividade especial, inclusive quando convertido na forma do artigo 57 parágrafo 5º."
+Sem contrarrazões.
+Decisão de Admissibilidade às fls. 299-300, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 18.4.2018.
+Ao dirimir a controvérsia, a Corte de origem lançou os seguintes fundamentos (fls. 255-256, e-STJ):
+Na concessão de benefício previdenciário, a lei a ser observada é a vigente à época em que o segurado reuniu as condições necessárias para a obtenção do benefício, decorrendo daí a produção do direito subjetivo à percepção do benefício (STJ - Sexta Turma, RESP n.658.734/SP, Relator Ministro Hamilton Carvalhido, in DJ de 01.07.2005).
+Cumpre reafirmar, ainda, que o Poder Judiciário não detém legitimidade para modificar os critérios utilizados e estabelecidos em lei, sob pena de avocar para si competência dada ao Poder Legislativo, em total afronta ao princípio da independência e da harmonia dos Poderes (art. 2º da CRFB).
+Nesse sentido, reunindo o autor os requisitos da aposentadoria por tempo de contribuição somente após o ano de 1999 (DIB em 28/06/2006 - e-fl.12), quando já vigente a nova redação do artigo 29, I, da Lei 8.213/91, com redação dada pela Lei 9.876/99, não há como ser afastada a aplicação do fator previdenciário.
+(..)
+No presente caso, conforme já referido, o autor aposentou-se por tempo de contribuição em 28/06/2006, tendo sido reconhecido pela autarquia-ré que houve períodos em que ele exerceu atividades especiais, cujo tempo foi convertido em comum (e-fls. 31/32), conforme direito que lhe é assegurado. No entanto, o que pretende o autor, além de se beneficiar da conversão do tempo em atividade especial para comum, é gozar da imunidade do fator previdenciário (na proporção do número de dias computados de atividade especial), conforme a regra da aposentadoria especial.
+Como posto na sentença, tal pleito não merece prosperar, já que não há previsão legal para tanto, sendo certo que, caso acolhido, induziria o Judiciário a atuar como legislador positivo, ao criar uma modalidade híbrida de aposentadoria, o que não se admite, sob pena de violar o princípio da separação dos poderes.
+Nesse contexto, da leitura das razões recursais, verifica-se que a parte recorrente não cuidou de impugnar todos os fundamentos do acórdão recorrido especialmente no tocante à ausência de previsão legal para gozar da imunidade do fator previdenciário na proporção do número de dias computados de atividade especial.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido. Logo, sendo os fundamentos suficientes para manter o julgado, fica inviabilizado o recurso. A esse respeito, aplicável, por analogia, a Súmula 283/STF.
+E, ainda que assim não fosse, considerando a fundamentação adotada, o aresto recorrido concluiu que "Nesse sentido, reunindo o autor os requisitos da aposentadoria por tempo de contribuição somente após o ano de 1999 (DIB em 28/06/2006 - e-fl.12), quando já vigente a nova redação do artigo 29, I, da Lei 8.213/91, com redação dada pela Lei 9.876/99, não há como ser afastada a aplicação do fator previdenciário" (fl. 255, e-STJ). Tal decisum somente poderia ser modificado mediante o revolvimento dos aspectos concretos da causa, o que encontra óbice na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao Recurso Especial.
+É como voto.
