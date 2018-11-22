@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIO ALVES PEREIRA contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu o seu apelo nobre.
+Consta dos autos que o agravante foi condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e pagamento de 13 dias-multa, pela prática do crime tipificado no art. 157, § 2º, inciso II, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante a Corte de origem, a qual negou provimento ao apelo, mantendo todos os termos do édito condenatório.
+Contra a decisão foi apresentado o apelo nobre, com fulcro na alínea "a", do inciso III, do art. 105 da Constituição Federal, o qual não foi admitido na origem, com fundamento na Súmula n. 7/STJ.
+No presente recurso, alega o agravante que o óbice indicado na decisão de admissibilidade não incidiria in casu.
+Requer o acolhimento do agravo, a fim de que seja admitido e provido o Recurso Especial.
+O Ministério Público Federal manifestou-se pelo improvimento da insurgência.
+É o relatório.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o apelo nobre interposto não merece seguimento.
+Pretende a defesa a concessão de perdão judicial ou a redução da pena do acusado em 2/3 (dois terços), conforme previsto nos arts. 13 e 14, ambos da Lei n. 9.807/1999, porquanto o acusado teria colaborado de forma efetiva com as investigação criminal.
+Quanto ao ponto, verifica-se que a matéria não foi objeto de análise e deliberação pelo Colegiado de origem e sequer foram opostos embargos de declaração, a fim de sanar eventual omissão.
+Assim, não tendo a matéria em apreço sido debatida na instância ordinária, mostra-se inviável a pretendida análise nesta via especial ante o óbice previsto no Enunciado n. 282 da Súmula do STF, que impede o conhecimento por este Sodalício de matérias não prequestionadas.
+Ressalte-se que é pacífico o entendimento nesta Corte no sentido de que "a ausência de apreciação pelo Tribunal local do conteúdo normativo do artigo tido por violado impede o exame da matéria por esta Corte Superior, pois, além de não se ter explicitado previamente a tese jurídica controvertida, não houve o preenchimento do requisito constitucional do prequestionamento. Inteligência dos enunciados nos 282 e 356, ambos da Súmula do Supremo Tribunal Federal" (REsp 1.392.386/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA Julgado em 03/09/2013, DJe 09/09/2013).
+A propósito:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. DENUNCIAÇÃO CALUNIOSA. DENÚNCIA. TRANCAMENTO DO PROCESSO-CRIME. EXCEPCIONALIDADE. JUSTA CAUSA PARA A PERSECUÇÃO PENAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. EXCLUDENTE DE ILICITUDE. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+ ..
+6. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte.
+7. O tema da excludente de ilicitude (exercício regular de direito) não foi examinado pelo Tribunal de origem, inviabilizando sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+8. Habeas corpus não conhecido.
+(HC 436733/TO, Rel. Minsitro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE AOS ARTS. 489, § 1º, DO CPC, E 3º E 387, I, II E IIII, AMBOS DO CPP. DISSÍDIO JURISPRUDENCIAL. PONTOS NÃO IMPUGNADOS NO REGIMENTAL. SÚMULA 182/STJ QUANTO ÀS MATÉRIAS. OFENSA AOS ARTS. 1º, 14, I, 109, IV, E 110, § 1º, TODOS DO CP, 1º, I, DA LEI Nº 8.137/90, E 155 E 159, AMBOS DO CPP. TESES JURÍDICAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. ALEGAÇÃO DE PRESCRIÇÃO ETÁRIA. INOCORRÊNCIA. TERMO A QUO DO PRAZO. SENTENÇA PUBLICADA EM CARTÓRIO E NÃO PERANTE A IMPRENSA OFICIAL. VIOLAÇÃO AO ART. 12, I, DA LEI Nº 8.137/90. MAJORANTE DO GRAVE DANO À COLETIVIDADE. REQUISITOS. VERIFICAÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
+1. "Incide por analogia o enunciado 182 da Súmula do STJ às matérias cujos fundamentos não foram impugnados no regimental". (AgRg no REsp 1127566/RS, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 23/03/2012)
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. "A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que, nos termos do artigo 117, inciso IV, do Código Penal, a prescrição se interrompe na data da publicação da sentença em cartório, ou seja, de sua entrega ao escrivão, e não da intimação das partes ou publicação no órgão oficial". (AgRg no REsp 1680080/GO, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 14/11/2017)
+4. "O Tribunal de origem, após a análise do valor sonegado e das demais circunstâncias fáticas que envolveram a prática delitiva, concluiu haver dano grave à coletividade que autorizaria a aplicação da causa de aumento do art. 12, I, da Lei n. 8.137/1990. Para entender de maneira diversa, seria necessário o reexame de matéria fático-probatória, incabível em recurso especial". (AgRg no REsp 1468568/ES, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 06/10/2016)
+5. Agravo regimental parcialmente conhecido, e nessa extensão, não provido.
+(AgRg nos EDcl no AREsp 1204462/SP, Rel. Minsitra MARIA THEREZA DE ASSIS MOURA, QUINTA TURMA, julgado em 02/08/2018, DJe 13/08/2018)
+Por tais razões, conheço do agravo para não conhecer do Recurso Especial, nos termos do artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
