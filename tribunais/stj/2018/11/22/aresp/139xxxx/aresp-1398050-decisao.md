@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ENUNCIADO ADMINISTRATIVO 3/STJ. TAXA DE COLETA DOMICILIAR DE LIXO. CONSTITUCIONALIDADE. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional da 2ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INFRAERO. TAXA DE COLETA DOMICILIAR DE LIXO. CONSTITUCIONALIDADE.
+1. O Supremo Tribunal Federal, no ARE 638.315 RG/BA, submetido à sistemática da repercussão geral, consolidou o entendimento no sentido de que a INFRAERO faz jus à imunidade recíproca prevista no art. 150, VI, "a", da CF, na qualidade de empresa pública prestadora de serviço público.
+2. A imunidade tributária não abrange as taxas, uma vez que o preceito constitucional (art. 150, VI, alínea "a", da CF) só alcança os impostos.
+3. O Supremo Tribunal Federal firmou entendimento no sentido da constitucionalidade da taxa de coleta de lixo proveniente de imóveis, entendendo como específico e divisível o serviço público de coleta e tratamento de lixo domiciliar prestado ao contribuinte ou posto à sua disposição.
+4. O Plenário daquela Corte julgou o RE nº 576.321 QO-RG, com repercussão geral reconhecida, tendo sido tal juízo ratificado pela Súmula Vinculante nº 19, ao dispor que "a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal".
+5. Diante do disposto no art. 145, II, da CF, para a incidência da taxa, basta que o serviço seja disponibilizado, independentemente de sua efetiva utilização.
+6. Agravo de instrumento conhecido e desprovido.
+Os aclaratórios foram rejeitados.
+No recurso especial, interposto com fundamento no artigo 105, inciso III, "a" e "c" da Constituição Federal, o recorrente alega violação aos arts: 9º, 489, II e § 1º, IV, e 1.022, II, parágrafo único, II, do CPC e 3º, 8º e 61 da Lei 3.273/01, bem como o acórdão recorrido teria divergido da jurisprudência de casos similares julgados por outros Tribunais. Sustenta que a taxa de coleta domiciliar de lixo não deve ser cobrada, tendo em vista que "ao Aeroporto sequer é disponibilizado o serviço de coleta de lixo domiciliar pelo município. Não há qualquer fato a ser examinado para tal conclusão, pois é a própria lei municipal que afasta e proíbe a prestação de tal serviço para os grandes geradores de resíduos, como o Aeroporto" (fl. 129).
+O recurso foi inadmitido pela decisão às fls. 177/180, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Relativamente à alegada violação ao art. 1.022 do CPC/2015, sem razão o recorrente.
+Como se sabe, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+No caso, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que:
+O voto é expresso ao consignar que, "diante do disposto no art. 145, II, da CF, para a incidência da taxa, basta que o serviço seja disponibilizado, independentemente de sua efetiva utilização".
+Salienta que "o fato de a INFRAERO possuir sistema próprio de tratamento de lixo, não afasta a atuação municipal e a incidência da TCDL, na medida em que os resíduos sólidos comuns são coletados pela entidade municipal de limpeza, como se verifica pelo artigo 14 da Resolução CONAMA Nº 5/93".
+Acrescenta que, "nos termos do art. 2º da Lei Municipal nº 2.687/98, que instituiu a TCDL, o contribuinte da taxa é o proprietário ou o titular do domínio útil ou o possuidor, a qualquer título, de unidade imobiliária edificada que seja alcançada pelo serviço, razão pela qual descabe falar em ilegitimidade passiva da INFRAERO".
+Por outro lado, verifica-se que as razões recursais estão embasadas em Lei Municipal (3.273/2001). Ocorre que, na esteira da jurisprudência do STJ, nesses casos, não há a abertura da via especial, em virtude do óbice contido na Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário", aplicável à espécie por analogia.
+A corroborar esse entendimento:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. ART. 1º DO DECRETO N. 20.910/32. INAPLICABILIDADE. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF.
+1. A jurisprudência desta Corte é pacífica ao reconhecer que, nas causas em que se discute recebimento de vantagens pecuniárias nas quais não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85 do STJ, que prevê a prescrição apenas em relação ao período anterior a cinco anos da propositura da ação.
+2. O Tribunal de origem, ao apreciar a matéria controvertida, sustentou toda a sua fundamentação na análise da Lei Estadual n. 5.625/91. Todavia, o exame de normas de caráter local é inviável em recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Agravo regimental improvido. (AgRg no AREsp 498.211/PA, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 13/08/2014)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intime-se.
