@@ -1,0 +1,67 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME DIVERSO DO FECHADO. TRIBUNAL A QUO. AUSÊNCIA DE DISCUSSÃO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. MENÇÃO, APENAS, À GRAVIDADE ABSTRATA DO CRIME E CONJECTURAS A RESPEITO DOS FUNDAMENTOS DA PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Não tendo o acórdão impugnado decidido a respeito do regime inicial de cumprimento da pena, não pode esta Corte o fazer, sob pena de indevida supressão de instância. Precedentes.
+2. As prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção. Precedentes.
+3. No caso, o Juízo de primeiro grau, na sentença condenatória, manteve o recorrente preso, restringindo-se a mencionar a gravidade em abstrato do crime, bem como a insegurança gerada na sociedade, fundamentações que não podem ser consideradas idôneas e que destoam da orientação que vem sendo adotada por esta Corte em casos análogos.
+4. Recurso em habeas corpus parcialmente provido, a fim de assegurar ao recorrente o direito de aguardar em liberdade o esgotamento das vias ordinárias, sem prejuízo de aplicação de medidas cautelares alternativas, salvo se por outro motivo estiver preso e ressalvada a possibilidade de haver nova decretação de prisão, caso se apresente motivo concreto para tanto.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça de São Paulo (HC n. 2090395-77.2018.8.26.0000).
+Colhe-se dos autos que o ora recorrente foi condenado como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 5 anos e 4 meses de reclusão a ser inicialmente cumprida em regime fechado, além do pagamento de 13 dias-multa, sendo-lhe negado o direito de apelar em liberdade (fls.14/16).
+Irresignada, a defesa impetrou habeas corpus, cuja ordem foi denegada na parte conhecida pelo Tribunal de origem, em acórdão assim ementado (fl. 34):
+Habeas corpus - Roubo majorado - Execução Criminal - Mudança de regime - Impossibilidade - O remédio heroico não é o instrumento adequado para discutir questões desta natureza Matéria deve ser alegada em recurso especifico - Negado recurso em liberdade - Constrangimento ilegal - Inocorrência - O réu, que já se encontrava preso ao tempo da condenação penal, não tem o direito de apelar em liberdade - Presentes os requisitos do art. 312, do CPP - Decretação da prisão preventiva mantida - Ordem denegada na parte conhecida.
+Nesta via, o recorrente alega constrangimento ilegal consistente na manutenção da prisão cautelar imposta a ele na ação penal em que foi condenado como incurso no crime de roubo circunstanciado.
+Sustenta ausência de fundamentação idônea e dos requisitos da prisão preventiva, pois afirma que o Magistrado singular não demonstrou elementos concretos que justificassem a manutenção da segregação provisória.
+Defende a proibição da prisão antes do trânsito em julgado, mencionando o art. 283 do Código de Processo Penal.
+Pretende a imposição de regime diverso do fechado, apontando ofensa às Súmulas 718 e 719 do Supremo Tribunal Federal e à Súmula 440 do Superior Tribunal de Justiça.
+Requer o direito de recorrer em liberdade.
+O pedido liminar foi indeferido, em 26/7/2018, pelo Ministro Humberto Martins, Vice-Presidente, no exercício da presidência desta Corte, no período das férias forenses (fls. 73/75).
+Os autos me foram distribuídos por prevenção ao RHC n. 100.373/SP, que julguei prejudicado em 3/9/2018.
+O Ministério Público Federal, em sua manifestação às fls. 103/110, opinou pelo desprovimento do recurso.
+Conforme consulta realizada ao portal oficial do Tribunal local na internet, o recurso de apelação interposto em favor do recorrente ainda não foi julgado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): De início, observo que o acórdão impugnado não decidiu a respeito do regime de cumprimento da pena, ao fundamento de que o habeas corpus não é meio idôneo para discussão da tese defensiva (fls. 36/37).
+Dessa forma, tal matéria também não pode, por ora, ser analisada por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO DE PENA. SUPRESSÃO DE INSTÂNCIA. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONHECIDA EM PARTE E, NESSA EXTENSÃO, CONCEDIDA.
+1. Mostra-se inviável a análise, diretamente por esta Corte Superior de Justiça, da pretendida fixação de regime inicial mais brando de cumprimento de pena, tendo em vista que essa matéria não foi examinada pelo Tribunal de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+2. O Juiz sentenciante, ao negar o direito de recorrer em liberdade, limitou-se a afirmar que a ré "permaneceu presa cautelarmente durante todo o trâmite processual" (fl. 176); deixou de fundamentar, concretamente, a necessidade da custódia preventiva, à luz do art. 312 do Código de Processo Penal e conforme própria determinação do art. 387, § 1º, do mesmo diploma processual.
+3. Ordem parcialmente conhecida e, nessa extensão, concedida para assegurar à paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do Código de Processo Penal.
+(HC n. 421.452/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/3/2018 - grifo nosso)
+Quanto à pretensão de recorrer em liberdade, de acordo com reiteradas decisões desta Corte, as prisões preventivas são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+Com efeito, segundo o art. 387, § 1º, do Código de Processo Penal, o juiz deve fundamentar a decretação ou a manutenção da custódia, por ocasião da sentença condenatória. Dessa forma, deve ser demonstrada, nessa fase, com base em dados concretos dos autos, a existência de pelo menos um dos fundamentos da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+O Magistrado converteu a prisão em flagrante em preventiva com a seguinte fundamentação (fls. 99/100 - grifo nosso):
+ ..
+O crime é grave, roubo duplamente majorado, de extrema gravidade, que gera insegurança na sociedade local. A manutenção da medida extrema é necessária para a garantia da ordem pública e para a instrução criminal, possibilitando eventual reconhecimento posterior. Outras medidas cautelares não se mostram adequadas. Presentes assim, os requisitos da custódia cautelar.
+ ..
+Ao proferir a sentença condenatória, o Juízo singular manteve a custódia cautelar do recorrente, afirmando que o réu não poderá apelar em liberdade, inalterados os fundamentos da custódia cautelar (fl. 16).
+O Tribunal de origem manteve a segregação aos seguintes fundamentos (fls. 37/38):
+ ..
+Não há que se falar em falta de fundamentação quanto ao fato de não poder apelar em liberdade, isto porque o seu confinamento resulta de prisão cautelar, tendo permanecido preso durante a instrução e, por ocasião da prolação da r. sentença condenatória foi mantida a sua custódia em regime fechado, não havendo que se falar em ausência de fundamentação.
+Observe-se que a conservação da custódia processual durante a tramitação do apelo não importa coação ilegal à liberdade de locomoção do paciente.
+ ..
+Como se vê, o Juízo de primeiro grau manteve o recorrente preso, restringindo-se a mencionar a gravidade em abstrato do crime, bem como a insegurança gerada na sociedade, fundamentações que não podem ser consideradas idôneas e que destoam da orientação que vem sendo adotada por esta Corte em casos análogos.
+A propósito, confira-se:
+HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. SUPERAÇÃO. CONDENAÇÃO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONCEDIDA.
+ ..
+3. Não foram apontados elementos concretos que, efetivamente, demonstrassem a necessidade de aplicação da custódia cautelar, tendo sido negado o direito de recorrer em liberdade com base apenas na pena impingida à sentenciada, bem como a mera suposição de fuga, além de o seu companheiro também haver sido condenado e estar recolhido ao cárcere.
+4. As instâncias ordinárias deixaram de apontar elementos que, de fato, evidenciassem que a paciente, em liberdade, pudesse colocar em risco a ordem pública ou a ordem econômica, ou mesmo se furtar à aplicação da lei penal, especialmente porque se encontrava em liberdade, conforme destacado na própria sentença, ao mencionar que ela esteve presa cautelarmente por 13 dias no início do processo.
+5. Houve, portanto, clara afronta ao disposto no art. 387, § 1º, do Código de Processo Penal, o qual ordena que "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+6. Ordem concedida para, confirmada a liminar, permitir que a paciente responda ao processo penal em liberdade caso por outro motivo não esteja presa, sem prejuízo da possibilidade de nova decretação da prisão preventiva, se concretamente demonstrada sua necessidade cautelar, ou de imposição de medida alternativa, nos termos do art. 319 do CPP.
+(HC n. 418.285/MA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/11/2017 - grifo nosso)
+PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. POSSIBILIDADE DE RECORRER EM LIBERDADE. DE OFÍCIO, REDIMENSIONAMENTO DA PENA-BASE.
+1. O fato de ter a recorrente permanecido presa, por si só, não é suficiente para impedir que recorra em liberdade. E os demais argumentos apresentados - a suposição de ser possível a reiteração e ser useiro no mundo do crime - não se sustentam, tendo em vista que a recorrente, segundo a própria sentença, é primária e sem antecedentes. Ou seja, não há fundamento suficiente para negar à paciente o direito de recorrer em liberdade.
+2. Recurso em habeas corpus provido para que a recorrente [NOME] possa recorrer em liberdade.
+(RHC n. 78.269/PI, de minha relatoria, Sexta Turma, DJe 27/10/2017)
+HABEAS CORPUS. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REQUISITOS. GRAVIDADE ABSTRATA DOS FATOS. ELEMENTOS INERENTES AO PRÓPRIO TIPO PENAL. MERAS CONJECTURAS. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONDIÇÕES PESSOAIS FAVORÁVEIS.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração do que consiste o periculum libertatis.
+2. O decreto que impôs a prisão preventiva ao paciente não apresentou motivação concreta, apta a justificar a segregação provisória, tendo-se valido de argumentos genéricos, justificando o cárcere com a gravidade abstrata do delito, com meras suposições de reiteração delitiva ou de fuga, e com simples referências a elementos inerentes ao tipo penal supostamente violado.
+3. O discurso judicial puramente teórico, carente de reais elementos de convicção, que não informe e individualize circunstâncias excepcionais da prática delituosa, não justifica a necessidade da rigorosa providência cautelar, configurando o constrangimento ilegal (Precedentes).
+4. Embora não sejam garantidoras de eventual direito à liberdade provisória, condições subjetivas favoráveis do paciente merecem ser devidamente valoradas, caso não tenha sido demonstrada a real indispensabilidade da medida constritiva (Precedentes).
+5. Ordem de habeas corpus concedida, para determinar a soltura do paciente, se por outro motivo não estiver preso, sem prejuízo da imposição pelo Juízo local de medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, caso demonstrada sua necessidade.
+(HC n. 373.953/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/12/2016 - grifo nosso)
+Dessa forma, tendo sido o recorrente condenado pelo crime de roubo circunstanciado, sem que a sentença tenha idoneamente fundamentado a necessidade de manutenção da prisão preventiva, deve lhe ser concedido o direito de recorrer em liberdade.
+Em face do exposto, dou parcial provimento ao recurso em habeas corpus, a fim de assegurar ao recorrente o direito de aguardar em liberdade o esgotamento das vias ordinárias, sem prejuízo de aplicação de medidas cautelares alternativas, salvo se por outro motivo estiver preso e ressalvada a possibilidade de haver nova decretação de prisão, caso se apresente motivo concreto para tanto.
