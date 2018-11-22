@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL — AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Norte concedeu a segurança para tornar sem efeito a decisão proferida em processo administrativo e anular a portaria de exoneração de servidora pública estadual. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 102, § 2º, da Constituição Federal. Afirma não ser necessária a instauração de procedimento administrativo, considerado o decidido na ação direta de inconstitucionalidade nº 2.433.
+    2. O acórdão impugnado está em harmonia com o decidido pelo Supremo, sob a sistemática da repercussão geral, no julgamento do recurso extraordinário 594.296, relatado pelo ministro Dias Toffoli no Pleno, acórdão publicado no Diário da Justiça de 13 de fevereiro de 2012:
+    RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.
+    Colho da decisão recorrida o seguinte trecho:
+    No caso em comento, da leitura da cópia do Processo Administrativo n.o 02686/2015, que culminou na expedição da Portaria n° 040/2015-TJ, de 21 de janeiro de 2016, por meio da qual o impetrante foi exonerado do cargo de Técnico Judiciário do Quadro Permanente de Pessoal do TJRN (fls. 234), tem-se que não restou observado a garantia do devido processo legal (art. 5.°, inciso LlV da CF/88), porquanto violadas as disposições contidas na Lei Complementar Estadual n° 303, de 9 de setembro de 2005, que dispõe acerca das normas gerais pertinentes ao processo administrativo no âmbito da Administração Pública Estadual.
+    Com efeito, do exame das cópias do Processos Administrativo n.° 02686/2015, juntadas aos presentes autos, infere-se que após a Comissão ali processante lançar Relatório no feito administrativo, o impetrante foi intimado para tomar ciência das informações ali lançadas e, após a apresentação da defesa prévia, sem que fosse aberta a fase instrutória, já foi ofertado parecer da Assessoria Jurídica Administrativa opinando no sentido da "inserção da situação funcional de JOSÉ AGNALDO DE LIRA -no que tange ao âmbito de incidência da ADJ 2433-STF, mantendo a estabilidade no cargo anterior, com a garantia da irredutibilidade salarial".
+    […]
+    Em reforço a tais conclusões, observa-se, ainda, da leitura do processo administrativo, que nenhum dos argumentos lançados na "Manifestação" apresentada pelo impetrante na esfera administrativa (fls. 110/132) restou analisado pela autoridade impetrada no ato coator, a despeito do Supremo Tribunal Federal, no julgamento da ADI n° 2433, não ter determinado o desligamento automático dos servidores, mas limitando-se a declarar a inconstitucionalidade dos parágrafos 3°, 4° e 6° do art. 231 da LC n° 165/1999- RN, pelo que as consequências jurídicas do julgado devem ser sopesadas caso a caso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
