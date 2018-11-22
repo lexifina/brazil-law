@@ -1,0 +1,13 @@
+DECISÃO
+DANIEL ALEXANDRE DE JESUS, recorrente neste recurso ordinário em habeas corpus, alega sofrer coação ilegal no seu direito a locomoção, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.18.055607-8/000.
+Nas razões deste feito, sustenta a defesa, resumidamente, o não preenchimento dos requisitos para a decretação da medida extrema elencados no art. 312 do Código de Processo Penal, haja vista que o réu respondeu ao processo em liberdade e não sobreveio fato novo que justificasse a prisão.
+Requer, assim, seja concedido o direito de recorrer em liberdade.
+Decido.
+Destaco, inicialmente, que o Supremo Tribunal Federal, por meio do Tribunal Pleno, no julgamento do HC n. 126.292/SP, decidiu que: "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC n. 126.292/SP, Tribunal Pleno, Rel. Ministro Teori Zavascki, DJe 17/5/2016).
+A matéria foi objeto de novo exame pela Corte Suprema, em 5/10/2016, nas ADCs n. 43 e 44, havendo sido mantida, por maioria, a possibilidade de iniciar a execução provisória da pena a partir do esgotamento das instâncias ordinárias.
+A respeito do tema, no julgamento dos EDcl no REsp n. 1.484.415/DF, de minha relatoria, ocorrido no dia 3/3/2016, a Sexta Turma também concluiu pela possibilidade de início imediato de execução provisória da pena. Faço referência aos fundamentos por mim externados no voto condutor do acórdão, para evitar repetição desnecessária.
+A compreensão externada pode ser resumida na conclusão de que o recurso especial não obsta, via de regra, o início da execução provisória da pena, excepcionada aquelas hipóteses em que, à vista dos requisitos cautelares (fumus boni iuris e periculum in mora), seja atribuído efeito suspensivo ao reclamo.
+No caso dos autos, consoante informações colhidas no sítio eletrônico do Tribunal de origem, verifica-se que houve o prévio esgotamento da jurisdição ordinária, sendo cabível a execução provisória da pena, não havendo mais que se falar na análise dos requisitos do art. 312 do Código de Processo Penal.
+Assim, observo a perda superveniente do objeto deste feito, no qual a defesa questionava a possibilidade de o réu aguardar o recurso de apelação em liberdade.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
