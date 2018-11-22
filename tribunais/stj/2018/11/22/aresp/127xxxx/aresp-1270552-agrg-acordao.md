@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em razão da falta de impugnação dos fundamentos da decisão do Tribunal de origem, no tocante à deficiência de fundamentação - Súmula 284/STF e não cabimento de recurso especial por ofensa à norma constitucional, trazendo a lume a Súmula 182/STJ.
+Alega o agravante, em resumo, que o recurso especial foi obstado ao argumento de que havia os óbices da Súmula n. 211 do Superior Tribunal de Justiça e das Súmulas 282 e 356 do Supremo Tribunal Federal (fl. 647).
+Sustenta, no mais, ter havido o prequestionamento da matéria abordada no recurso especial, defendendo o que se segue (fls. 650/651):
+Desse modo, há que se rechaçar o óbice da Súmula n. 211 do STJ. tendo em vista que o Agravante também opôs Aclaratórios a fim de que fosse sanada a omissão quanto à análise dos dispositivos legais, pugnando pelo prequestionando das matérias aventadas.
+ ..
+Desse modo, há que se rechaçar os óbices da Súmulas n. 282 e 356 do Supremo Tribunal Federal, tendo em vista que o ora Agravante também opôs embargos de declaração com a finalidade de que fosse sanada a omissão quanto à análise dos dispositivos constitucionais, pugnando ainda pelo prequestionando das matérias que posteriormente foram tratadas em sede de Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O inconformismo não merece abrigo.
+Com efeito, nos termos do entendimento consolidado do Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+Tal compreensão cristalizou-se na Súmula 182/STJ, de reiterada aplicação nesta Corte, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Por oportuno, trago à colação os seguintes trechos da decisão ora impugnada (fls. 1.958/1.960):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: deficiência de fundamentação - Súmula 284/STF, não cabimento de REsp alegando violação a norma constitucional, Súmula 7/STJ (art. 155 do Código de Processo Penal), Súmula 83/STJ, Súmula 283/STF e Súmula 7/STJ (art. 180 do Código Penal).
+Entretanto, a parte Agravante deixou de impugnar especificamente: deficiência de fundamentação - Súmula 284/STF e não cabimento de REsp alegando violação a norma constitucional.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Ao que se observa, o agravante deixou de impugnar o fundamento da falta de impugnação específica da deficiência de fundamentação (Súmula 283/STF) e do descabimento do REsp por violação de norma constitucional.
+Destaco que as razões do regimental tratam de óbices processuais não indicados na decisão recorrida, a saber, aplicação das Súmulas 211/STJ e 282 e 356 do STF, mostrando-se dissociadas de seus fundamentos.
+Por conseguinte, o presente agravo regimental não comporta conhecimento, por não ultrapassar o juízo de admissibilidade.
+Nesse sentido: AgRg nos EAg n. 1.369.318/MG, Ministro Cesar Asfor Rocha, Corte Especial, DJe 10/2/2012; AgRg nos EREsp n. 1.201.827/AL, Ministro Cesar Asfor Rocha, Primeira Seção, DJe 4/5/2011; e AgRg nos EAg n. 1.371.137/RJ, Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe 8/3/2012.
+Veja-se, ainda:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. 2. PEDIDO DE CONCESSÃO DE HABEAS CORPUS. IMPOSSIBILIDADE. SUPOSTO ATO COATOR PROFERIDO PELO PRÓPRIO STJ. COMPETÊNCIA DO STF. 3. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Cabe ao agravante, nas razões do agravo regimental, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida nos embargos de divergência - que foram indeferidos liminarmente em virtude de o acórdão embargado não ter sido conhecido pela incidência do verbete n. 182 da Súmula desta Corte - atrai igualmente a aplicação do referido enunciado.
+2. Impossível a concessão de ordem de habeas corpus pelo Superior Tribunal de Justiça contra atos dos seus próprios membros, porquanto competente para analisar os atos desta Corte via mandamus é o Supremo Tribunal Federal, conforme expressa previsão constitucional.
+3. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 254.577/MT, Ministro Marco Aurélio Bellizze, Terceira Seção, DJe 20/8/2014 - grifo nosso)
+Ante o exposto, não conheço do agravo regimental.
