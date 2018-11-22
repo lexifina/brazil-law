@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE ITAPERUNA com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ fls. 741/742):
+Direito Administrativo. Arrendamento rural. Contrato verbal celebrado com o Município de Itaperuna em 1966. Prazo de vinte anos. Validade. A despeito de a contratação com o Poder Público exigir a forma escrita, deixar de reconhecer validade do contrato feito sem a observância desta formalidade afrontaria o princípio "nemo auditur propriam turpitudinem allegans", na medida em que a Administração Pública estaria se beneficiando da própria torpeza.
+Inadimplemento contratual quanto ao pagamento dos alugueis pelo Município a partir da renovação contratual, ocorrida em 1988. Pretensão de retomada do imóvel pelo proprietário c/c indenização por perdas e danos. Sentença reconhecendo a prescrição aquisitiva em favor da edilidade. Afastamento. Posse exercida a título precário, pois decorrente de relação jurídica que impede o reconhecimento da usucapião. Precedente deste Tribunal análogo sobre o tema: Apelação 0000936-67.2003.8.19.0211, Des. Jessé Torres, Julgamento: 31/10/2012 - Segunda Câmara Cível.
+Incontroversa a utilização da área pelo Município para extração de saibro, com o posterior fracionamento da área em 18 lotes, que se encontram hoje ocupados.
+Ação de despejo para a retomada do imóvel pelo locador que acabou perdendo a eficácia, pois o arrendante não tem como ser imitido na posse de imóvel loteado e ocupado por terceiros, que não o arrendatário.
+Apropriação indevida de bem particular sem procedimento regular para desapropriação do bem. Situação a caracterizar efetiva desapropriação indireta, nos termos do art. 35, do Decreto-Lei nº 3.365/41 e, assim, a merecer indenização pela perda do bem.
+Reforma da sentença para condenar o Município a indenizar ao apelante, em valor a ser apurado em liquidação de sentença.
+Parcial provimento do recurso.
+O recorrente aponta violação do art. 247 do CPC/1973, alegando, em síntese, que a falta de intimação para contraarrazoar a apelação desrespeitou o contraditório e o devido processo legal.
+Contrarrazões foram apresentadas.
+Juízo positivo de admissibilidade.
+Manifestação do Parquet federal pelo não conhecimento do recurso especial ou, caso conhecido, pelo desprovimento.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Considerado isso, no que toca à alegação de contrariedade do art. 247 do CPC/1973, verifica-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ressalte-se que, até mesmo as questões de ordem pública, apreciáveis de ofício nas instâncias ordinárias, devem estar prequestionadas, a fim de viabilizar sua apreciação nesta instância especial.
+Nesse sentido: REsp 1.637.854/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe 07/03/2017; AgInt no AREsp 211.228/PE, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 17/03/2017; AgInt no AREsp 899.431/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 20/03/2017, e AgInt no AREsp 871.271/SP, Relator Ministro Raul Araújo, Quarta Turma, DJe 15/03/2017" (REsp 1.663.648/ES, Relator Ministro HERMAN BENJAMIN, Segunda Turma, DJe 16/06/2017).
+Ante o exposto, com arrimo no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem honorários recursais (art. 85, §11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
