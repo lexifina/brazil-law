@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão do Relator da 4ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais que, nos autos do writ n. 10000.18.126157-9/000, indeferiu o pedido liminar.
+Na presente impetração, a defesa narra que "O Paciente foi condenado nos autos do processo criminal nº 0023304-31.2003.8.13.0472 a cumprir pena inicial em regime fechado, sendo o processo da Comarca de Paraguaçu, Minas Gerais. Na mesma Comarca foi Formada a Execução de Pena, que recebeu o nº0004728-33.2016.8.13.0472" (e-STJ fl.4).
+Aduz que em 24/7/2018 o mandado de prisão foi cumprido, sendo o paciente preso na cidade de Pouso Alegre, Minas Gerais, onde reside há mais de 12 (doze) anos, com autorização da transferência do local da execução de pena para referida cidade, enviando-se os autos em 3/9/2018, e recebidos em 10/9/2018.
+Requer, assim, liminarmente e no mérito, seja determinada a imediata expedição do competente alvará de soltura em favor do paciente, até que sua execução de pena seja cadastrada no SISCOM ou SEEU.
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido.
+Isso porque é assente a jurisprudência do Superior Tribunal de Justiça no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira do enunciado da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo se demonstrada flagrante ilegalidade. A propósito:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese. Agravo regimental desprovido. (AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/06/2015, DJe 19/06/2015).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS. APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT.AGRAVO REGIMENTAL PREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado. (AgRg no HC n. 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/05/2015, DJe 26/05/2015).
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, de minha relatoria, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Não é o que ocorre na espécie.
+De fato, consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar controle antecipado por este Superior Tribunal, pois, sob a cognição sumária, está devidamente fundamentada, in verbis (e-STJ fls. 35/37):
+(..)
+Inicialmente, o impetrante alega que o paciente foi condenado a cumprir pena em regime fechado nos autos nº 0023304-31.2003.8.13.0472, tendo o seu processo de execução recebido o número 0004728-33.2016.8.13.0472, ambos tramitando na Comarca de Paraguaçu/MG.
+Alega que o paciente reside há mais de doze anos na cidade de Pouso Alegre/MG, tendo sido autorizada sua transferência do local da execução de pena para a referida comarca.
+Contudo, afirma que até a presente data a sua execução da pena não foi cadastrada no SISCOM ou no SEEU, estando o paciente recolhido na cidade de Machado/MG por motivo não sabido, pois não tem acesso a sua execução de pena.
+Defende que a falta de acesso à execução de pena impede o paciente de requerer qualquer pedido e conseguir benefícios e, por este motivo, este não pode se encontrar recolhido até que seja sua execução da pena cadastrada.
+Deste modo, requer o deferimento da liminar e, no mérito, a concessão definitiva da ordem, com a expedição do competente alvará de soltura até que sua execução de pena seja cadastrada no SISCOM e SEEU.
+Decido.
+Como é sabido e consagrado na doutrina e jurisprudência, na via restrita do habeas corpus, em especial para a concessão de liminar todos os documentos e informações devem ser trazidos de plano, a demonstrar a veracidade e regularidade, indene de dúvidas, das alegações para subsidiar a concessão da ordem, quando for o caso, e a da liminar.
+No presente caso dos autos (sic), não foram anexadas cópias da sentença condenatória, da decisão que deferiu o pedido de transferência da execução do paciente da Comarca de Paraguaçu/MG para Pouso Alegre/MG ou de quaisquer documentos hábeis a elucidar os fatos, inviabilizando, assim, a concessão da liminar, reafirmando por consequência a necessidade de ouvir-se a autoridade dita coatora.
+Inviável a concessão de liminar, vez que não há elementos nos autos que favoreçam a apuração da veracidade das alegações.
+Solicitem-se as informações da autoridade apontada como coatora, bem como a juntada da cópia da sentença condenatória, da decisão que deferiu o pedido de transferência da execução do paciente da Comarca de Paraguaçu/MG para Pouso Alegre/MG, da CAC e FAC atualizadas do paciente e de guaisquer documentos necessários para o julgamento da ordem, sem prejuízo de vista dos autos à Procuradoria-Geral de Justiça.
+Após, conclusos, com a urgência necessária.
+(..)
+De fato, a análise perfunctória do writ não evidencia a ocorrência de constrangimento ilegal hábil a permitir a concessão da ordem de ofício.
+É certo que questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
