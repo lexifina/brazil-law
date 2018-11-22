@@ -1,0 +1,26 @@
+EMENTA
+EXECUÇÃO FISCAL. PROCESSO CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Rio Grande do Sul cuja ementa é a seguinte:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. EXPEDIÇÃO DE OFÍCIOS ÀS INSTITUIÇÕES PÚBLICAS E PRIVADAS PARA OBTENÇÃO DE INFORMAÇÕES. UTILIZAÇÃO DO SISTEMA BACEN CCS. IMPOSSIBILIDADE NO CASO CONCRETO. APLICABILIDADE DO ARTIGO 932 DO CPC/15. PODERES DO RELATOR. INCIDÊNCIA DE MULTA. ART. 1.021, § 4º, CPC/15.
+1. É possível o julgamento monocrático do agravo de instrumento, pelo princípio da prestação jurisdicional equivalente, quando há orientação sedimentada na Câmara sobre a matéria, de maneira que, levada a questão ao órgão colegiado, seria confirmada a decisão do relator.
+2. É excepcional a intervenção do Poder Judiciário junto aos órgãos e entidades públicas e privadas para a obtenção de dados sobre as pessoas físicas ou jurídicas, pela segurança das informações e devido à característica sigilosa desses registros.
+3. Portanto, não tendo o credor esgotado as diligências possíveis no sentido de localizar a parte executada e os bens passíveis de constrição judicial, na medida que sequer diligenciou junto aos órgãos públicos ou banco de dados, é impossível o deferimento da diligência solicitada.
+4. Os argumentos trazidos no recurso não se mostram razoáveis para reformar a decisão monocrática.
+5. Imposição de multa de 1% sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/15.
+PRELIMINAR AFASTADA. NEGADO PROVIMENTO AO RECURSO.
+Nas razões do especial, o Município sustenta divergência jurisprudencial quanto à aplicabilidade dos arts. 198 e 199, ambos do CTN, e do art. 1.021, § 4º, do CPC/2015 no caso dos autos. Assevera que todos os bens devem estar ao alcance do exequente, de tal modo que seu pedido de informação sobre a possibilidade da devedora ser cliente do sistema financeiro nacional deve ser acolhido. Aduz, também, que a multa processual que lhe foi aplicada na origem deve ser reformada.
+O recurso foi inadmitido pela decisão às fls. 178/182, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Convém ressaltar que a interposição do recurso especial pela alínea "c" do permissivo constitucional também exige que o recorrente cumpra o disposto nos arts. 541, parágrafo único, do CPC, e 255, § 1º, a, e § 2º, do RISTJ.
+Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, verifica-se que a ora recorrente limitou-se a transcrever a ementa do julgado paradigma, não atendendo aos requisitos estabelecidos pelos dispositivos legais supramencionados, restando ausente adequado cotejo analítico e a similitude fática entre os julgados mencionados.
+Assim, é descabido o recurso interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Nesse mesmo sentido, confira os seguintes julgados:
+AGRAVO REGIMENTAL EM AGRAVO. RECURSO ESPECIAL. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. DECISÃO PELA INADMISSIBILIDADE DO RECURSO MANTIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+2. O recurso revela-se manifestamente inadmissível e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+3. Agravo regimental não provido com aplicação de multa.
+(AgRg no AREsp 733.241/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
