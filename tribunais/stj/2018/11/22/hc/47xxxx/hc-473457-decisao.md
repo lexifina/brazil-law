@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de YURI MOREIRA DOS REIS contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 10 anos e 8 meses de reclusão, em regime prisional fechado, como incurso nas sanções do art. 157, § 2º, I e II, por seis vezes, na forma do art. 71, parágrafo único, todos do Código Penal (e-STJ, fls. 14-31).
+Irresignada, foi interposta apelação pela defesa perante a Corte de origem, a qual restou parcialmente provida para afastar a continuidade delitiva específica e reconhecer a incidência do art. 71, caput, do CP, tendo reduzido a sanção corporal para 8 anos de reclusão, ficando mantido, no mais, o teor do decreto condenatório (e-STJ, fls. 45-59).
+Neste writ, a Defensoria Pública estadual sustenta, em síntese, não ter sido declinada motivação idônea para a manutenção do regime prisional fechado, considerando que a reprimenda foi reduzida para 8 anos de reclusão, as condições pessoais do réu são favoráveis e a pena-base foi estabelecida no mínimo legal.
+Pugna, assim, pela concessão da ordem para que seja fixado o regime prisional semiaberto para o início do desconto da pena imposta ao ora paciente.
+Sem pedido de liminar, a Subprocuradoria-Geral da República manifestou-se pela concessão da ordem, de ofício, nos moldes do requerido pela impetrante (e-STJ, fls. 67-70).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, observa-se flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte estadual, ao manter o regime prisional fechado para o desconto da reprimenda, baseou-se nos seguintes fundamentos:
+"  ..  O regime inicial fechado para o cumprimento da pena é o adequado, não comportamento abrandamento. O crime de roubo é de extrema gravidade e quem envereda para a prática desse tipo de criminalidade -indisfarçavelmente tem personalidade deturpada, causadora de risco à ordem pública. Necessário, portanto, maior reprovabilidade àqueles que enveredam para a prática de tal conduta ilícita, de modo que prevaleça o parâmetro da suficiência, sob pena de indisfarçável impunidade, na contramão do anseio social voltado para melhoria da segurança pública"(e-STJ, 57).
+Com efeito, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Assim, as referidas súmulas não foram observadas pelo Tribunal a quo. O regime fechado foi imposto sem "motivação idônea".
+A seguir, parcialmente transcritas, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+"É inidônea a fixação de regime inicial mais severo com apoio apenas na opinião em abstrato do julgador quanto ao crime em apreço, sobretudo quando o apenado é primário e a pena-base não vai além do mínimo legal, como na espécie. Súmula n. 440 do STJ."
+(REsp 1409857/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/08/2014.)
+"6. As instâncias ordinárias entenderam devida a fixação do regime inicial fechado de cumprimento de pena com base tão somente na gravidade genérica do delito, "o que revela temibilidade e periculosidade do agente", sem, no entanto, ter apontado nenhum elemento concreto dos autos (como o modus operandi, a potencialidade lesiva de arma ou a desfavorabilidade de circunstâncias judiciais, por exemplo) que efetivamente justificasse a fixação do regime inicial mais gravoso, nos termos do art. 33, § 3º, do Código Penal.
+7. Ausência de peculiaridades específicas do roubo majorado nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF."
+(HC 317.405/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/05/2015.)
+Em verdade, os fundamentos genéricos utilizados pelo acórdão ora impugnado não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal.
+Nesse diapasão, tratando-se de réu primário, cujas circunstâncias judiciais foram favoravelmente valoradas, deve a reprimenda ser cumprida, desde logo, em regime semiaberto, pois a gravidade abstrata do crime de roubo não permite o recrudescimento do meio prisional de desconto da reprimenda.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, a fim de fixar o regime prisional semiaberto para o desconto da sanção corporal, salvo se, por outro motivo, o paciente estiver descontando pena em regime mais severo.
+Publique-se. Intimem-se.
