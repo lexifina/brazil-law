@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por SUPRICEL LOGÍSTICA LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"APELAÇÃO. Ação de ressarcimento de indenização securitária Transporte rodoviário de cargas Roubo Responsabilidade da transportadora pelo descumprimento do plano de gerenciamento de riscos Sentença de procedência Recurso da ré.
+INTERESSE DE AGIR Termo de quitação firmado pela segurada basta para comprovar o pagamento da indenização securitária Sub-rogação da seguradora nos direitos da segurada.
+RESPONSABILIDADE CIVIL Responsabilidade objetiva da transportadora de cargas pela entrega incólume da mercadoria que lhe foi confiada Inteligência dos artigos 749 e 750 do Código Civil, e do artigo 7º da Lei 11.442/2007 Roubo que não afasta a responsabilidade da transportadora no caso Comprovado descumprimento do plano de gerenciamento de risco Responsabilidade contratual assumida pela transportadora para mitigar os riscos inerentes à atividade Ausente informação sobre início de viagem, recebimento da rota pela central de monitoramento e seu cumprimento Nexo causal entre a negligência da transportadora, agravando o risco da atividade, e o prejuízo sofrido pela segurada Indenização mantida. Recurso não provido" (fl. 321, e-STJ).
+No recurso especial, a recorrente alega que houve violação do art. 12 da Lei nº 11.442/2007, sob o argumento de que o roubo de carga mediante emprego de grava ameaça e de arma de fogo configura força maior - excludente de responsabilidade do transportador.
+Não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+Contraminuta às fls. 372-375 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal estadual, ao analisar a controvérsia, concluiu:
+"(..)
+Pois bem. Alega a apelante que o roubo da carga traduz-se em força maior, uma vez que cometido por meliantes armados, sendo um fato imprevisível e inevitável pelo transportador. No entanto, tal argumento não possui validade no presente caso, tendo em vista a falta de adoção dos procedimentos acordados entre as partes para a mitigação dos riscos do empreendimento.
+A autora sustenta que o motorista preposto da ré falhou em informar a macro de início de viagem, sem receber a liberação da central de monitoramento da empresa Brasil Risk para proceder ao início do transporte, com a confirmação da rota a ser seguida e das paradas autorizadas. Argumenta a seguradora que o motorista realizou duas paradas não autorizadas, a primeira por mais de 24 horas próxima à filial da transportadora e a segunda próxima a posto de gasolina, onde teria ocorrido o roubo (conforme laudo de fls. 43/47 e relatório às fls. 70/92).
+A ré não logrou êxito em impugnar tais fatos, com a apresentação de provas em sentido contrário. Alegou que os referidos incidentes não trouxeram prejuízo para a segurança do transporte, uma vez que o veículo estaria sendo rastreado regularmente pela central de monitoramento.
+A análise do Plano de Gerenciamento de Risco permite aferir o descumprimento das obrigações contratuais pela ré, especialmente daquelas estipuladas nas cláusulas 5.2.4, 5.3, 5.4.6 e 5.4.14 e seguintes, que regulam o procedimento para início da viagem, a definição de rotas e a responsabilidade da transportadora pelo descumprimento do procedimento.
+O funcionamento do sistema de rastreio, que possibilitou a elaboração do relatório de localização (fls. 70/151) não exime a ré de cumprir com as obrigações supramencionadas, tratando- se de obrigações cumulativas, certo que o relatório de localização pode ser emitido "a posteriori" pela empresa de fiscalização.
+Ao agir em desconformidade com as normas de segurança firmadas para garantir o direito de garantia securitária às mercadorias, a transportadora assumiu o risco que foi agravado pela conduta de seu preposto.
+Isto significa dizer que a inobservância das regras de segurança acordadas pelas partes não apenas faz surgir a possibilidade do regresso, mas, no presente caso, traduz inobservância ao dever contratual de reduzir os riscos inerentes à atividade, respondendo a transportadora pelos prejuízos advindos de sua conduta negligente.
+A transportadora submeteu-se a observar as normas de segurança previstas no PGR a fim de prestar seus serviços para a segurada. É o que se vê pela sua assinatura na cláusula de dispensa de regresso e das condições para sua validade (fls. 52/53).
+Uma das excludentes da dispensa do regresso é, justamente, o descumprimento pela transportadora do procedimento estabelecido no PGR.
+Trata-se de responsabilidade contratualmente assumida pelas partes, de tal forma que os prejuízos ocorridos em situações em que há a inobservância das normas de segurança pactuadas passam a ser de responsabilidade daquele que se comprometeu a agir de determinada forma para minorar os riscos envolvidos na atividade, desde que observado o nexo causal entre a negligência e o prejuízo, existente no caso" (fls. 326-328, e-STJ - grifou-se).
+Nesse contexto, rever o entendimento do acórdão impugnado implicaria o reexame de cláusulas contratuais e do contexto fático-probatório, procedimento inadmissível em recurso especial, nos termos das Súmulas nº 5 e nº 7/STJ.
+Ademais, a recorrente não impugnou a fundamentação do aresto recorrido, o que atrai, por analogia, o óbice da Súmula nº 283/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
