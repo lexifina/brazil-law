@@ -1,0 +1,26 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. [NOME]. EXPEDIÇÃO DE ALVARÁ DE LEVANTAMENTO. JURISDIÇÃO VOLUNTÁRIA. INCIDÊNCIA DA SÚMULA 161 DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo do Juizado Especial Federal da 3ª Região em face do Juízo de Direito da 3ª Vara Cível de Botucatu/SP, nos autos da ação proposta por [NOME] contra a Caixa Econômica Federal - CEF, em que se pleiteia o levantamento dos depósitos de [NOME] em nome de seu falecido marido [NOME].
+A ação foi inicialmente proposta perante o Juízo de Direito da 3ª Vara Cível de Botucatu/SP, sendo posteriormente remetido à Justiça Federal, sob o fundamento de que seria sua a competência para julgar feitos relativos à movimentação do [NOME].
+O Juízo Federal, por sua vez, suscitou o presente conflito, por entender que o pedido expedição de alvará não se insere no rol das causas afetas à sua competência.
+O Ministério Público Federal, em parecer às fls. 44/46, opinou pelo reconhecimento da competência da Justiça comum estadual.
+ Razão assiste ao Juízo suscitante.
+Transcrevo, por oportuno, o art. 1º da Lei 6.858, de 24.11.1980, in verbis:
+Art. 1º - Os valores devidos pelos empregadores aos empregados e os montantes das contas individuais do Fundo de Garantia do Tempo de Serviço e do Fundo de Participação PIS-PASEP, não recebidos em vida pelos respectivos titulares, serão pagos, em quotas iguais, aos dependentes habilitados perante a Previdência Social ou na forma da legislação específica dos servidores civis e militares, e, na sua falta, aos sucessores previstos na lei civil, indicados em alvará judicial, independentemente de inventário ou arrolamento.
+O texto legal acima destacado nos informa que, em se tratando de pedido de expedição de alvará judicial requerido nos termos da Lei 6.858/80, ou seja, em decorrência do falecimento do titular da conta, inexiste lide a ser solucionada. Cuida-se, na verdade, de medida de jurisdição voluntária com vistas à mera autorização judicial para o levantamento, pelos sucessores do de cujus, de valores incontestes depositados em conta de titularidade de pessoa falecida "independente de inventário ou arrolamento".
+Nesse sentido, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que, nos casos em que o levantamento dos valores a título de [NOME] opera-se mediante simples procedimento de jurisdição voluntária, no qual não há nenhum interesse da CEF a justificar o deslocamento do feito para a Justiça Federal, é competente a Justiça comum estadual para apreciar a demanda.
+Tal entendimento foi cristalizado no enunciado 161 da súmula do STJ, segundo o qual: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/Pasep e [NOME], em decorrência do falecimento do titular da conta".
+Cite-se, a propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. PEDIDO DE ALVARÁ JUDICIAL. LEVANTAMENTO DE [NOME]. RESISTÊNCIA DA CEF. JURISDIÇÃO CONTENCIOSA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A jurisprudência da Primeira Seção do STJ firmou-se no sentido de que, sendo, em regra, de jurisdição voluntária a natureza dos feitos que visam à obtenção de alvarás judiciais para levantamento de importâncias relativas a [NOME], PIS/PASEP, seguro-desemprego e benefícios previdenciários, a competência para julgá-los é da Justiça Estadual.
+2. Por outro lado, havendo resistência da CEF, competente para processar e julgar a causa é a Justiça Federal, tendo em vista o disposto no art. 109, I, da CF/1988.
+3. In casu, verifico que houve obstáculo por parte da Caixa Econômica Federal quanto ao levantamento do [NOME] requerido pelo autor, o que evidencia a competência da Justiça Federal para o julgamento da demanda, nos termos do art. 109, I, da Constituição da República.
+4. Constatada a competência de um terceiro Juízo, estranho aos autos, admite-se-lhe a remessa do feito.
+5. Conflito conhecido para declarar competente a Justiça Federal de Santos/SP, apesar de não integrar o presente conflito (CC 105.206/SP, Rel. Min. Herman Benjamin, Primeira Seção, DJe 28/08/2009)
+PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA PROCESSAR E JULGAR AÇÃO OBJETIVANDO A EXPEDIÇÃO DE ALVARÁ DE LEVANTAMENTO DE VALORES DEVIDOS A SEGURADO FALECIDO.
+1. Nos casos em que não houver pretensão resistida por parte do ente público, não se configura hipótese de competência da Justiça Federal (art. 109, I, CF/88), porquanto não se tem litígio, consistindo o feito em jurisdição graciosa, ou, como parte da literatura defende, em administração pública de interesses privados pelo Poder Judiciário
+2. Compete à Justiça Comum Estadual apreciar e julgar ação que tem por objetivo a expedição de alvará de levantamento de valores devidos a segurado falecido.
+3. Conflito negativo de competência conhecido para declarar competente o Juízo de Direito da 3ª Vara Cível de Cabo Frio, Estado do Rio de Janeiro, o suscitado (CC 46.579/RJ, Rel. Ministro Hélio Quaglia Barbosa, Terceira Seção, DJU 13/12/2004).
+Pelo exposto, conheço do conflito, para declarar a competência do Juízo de Direito da 3ª Vara Cível de Botucatu/SP.
+Publique-se. Intimem-se.
