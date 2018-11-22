@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. SUCESSÃO EMPRESARIAL APTA AO ACOLHIMENTO DA RESPONSABILIDADE TRIBUTÁRIA QUE NÃO FOI CONSTATADA PELO TRIBUNAL DE ORIGEM. MUDANÇA DE ENTENDIMENTO QUE IMPLICARIA REEXAME DE PROVAS, EXPEDIENTE DEFESO EM RECURSO ESPECIAL. AGRAVO DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA) DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA), contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. SUCESSÃO DE EMPRESAS. RESPONSABILIDADE TRIBUTÁRIA. AQUISIÇÃO DE ESTABELECIMENTO COMERCIAL.
+A aquisição de um dos estabelecimentos comerciais de uma empresa não faz do adquirente responsável, na forma do artigo 133 do CTN, pelos débitos fiscais dos outros estabelecimentos (fl. 229).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 245/247).
+3. Em seu Apelo Nobre, fundado no art. 105, III, a da Constituição Federal, a parte recorrente, ora agravante, aponta, além de divergência jurisprudencial, ofensa ao art. 535 do CPC/1973, sustentando a existência de omissão no acórdão recorrido, a despeito da oposição dos Aclaratórios, bem como violação dos arts. 969, 1.142 e 1.146, todos do CC/2002, ao argumento de que, diversamente do firmado no acórdão recorrido a empresa executada foi sucedida por outra, que permaneceu explorando a mesma atividade, no mesmo endereço da matriz devedora (fls. 256).
+4. Sem contrarrazões, o Recurso Especial foi inadmitido na origem (fls. 253/262).
+5. É o relatório.
+6. O inconformismo não merece acolhimento.
+7. Inicialmente, não se vislumbra a alegada afronta ao art. 535 do CPC/1973. A lide foi resolvida integralmente, ainda que sob ótica diversa daquela almejada pela parte.
+8. No mais, verifica-se que a Corte de origem reconheceu a ilegitimidade passiva do embargante ao entendimento de que, no caso, não houve a alegada sucessão empresarial apta à sua responsabilização. Veja-se, a propósito, o quanto consignado no acórdão recorrido:
+A controvérsia acerca da ilegitimidade passiva pode ser assim resumida: a empresa originalmente executada possuía dois estabelecimentos. A dívida refere-se ao estabelecimento "A", que encerrou irregularmente as suas atividades. O embargante adquiriu oestabelecimento "B", sendo reconhecida a sucessão empresarial e a sua responsabilidade, na forma do artigo 133 do CTN, pelos débitos do estabelecimento "A". Resta definir, portanto, se a aquisição de um estabelecimento comercial implica sucessão em relação aos demais estabelecimentos da empresa alienante.
+(..).
+Bem se vê, portanto, que a norma trata das hipóteses em que há sucessão de atividade e não de empresas, estando este último caso reservado ao artigo 132 do CTN, que não se aplica aos autos, porque a embargante não resultou de fusão, transformação ou incorporação da devedora original. Desta maneira, a aquisição de um dos estabelecimentos comerciais da empresa, que não registrava débitos fiscais, não implica aquisição da empresa em si, ainda que as atividades tenham sido irregularmente encerradas (fls. 226/227).
+9. Sob essa perspectiva, é inviável a insurgência, na medida em que reexaminar o acervo probatório dos autos para dele extrair se teria ou não havido a alegada sucessão empresarial é expediente vedado no âmbito do Recurso Especial. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. SUCESSÃO DE EMPRESAS. INEXISTÊNCIA. REVISÃO DAS PREMISSAS FÁTICAS. SÚMULA 7/STJ. GERENCIAMENTO POR MEMBROS DA MESMA FAMÍLIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O Tribunal de origem concluiu que a identidade de localização e de atividade empresarial, por si só, não comprova a sucessão tributária.
+2. No apelo nobre, o ente fazendário afirma que, além das características acima, há "intersecção familiar no gerenciamento das respectivas pessoas jurídicas" (fl. 215, e-STJ), o que evidencia a sucessão de fato.
+3. A assertiva do ente público encontra-se vinculada a uma circunstância fática, cuja análise é vedada em Recurso Especial (Súmula 7/STJ).
+4. Qualifica a inadmissibilidade do apelo a circunstância de que o Tribunal de origem não emitiu juízo de valor a respeito do gerenciamento de ambas as empresas por membros do mesmo grupo familiar (Súmula 211/STJ).
+5. Recurso Especial não conhecido (REsp. 1.651.599/SP, Rel. Min. HERMAN BENJAMIN, DJe 27.4.2017).
+
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. SUCESSÃO DA ATIVIDADE EMPRESARIAL. AQUISIÇÃO DO FUNDO DE COMÉRCIO PARA EFEITO DE RESPONSABILIZAÇÃO TRIBUTÁRIA. NÃO CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - No caso, rever o entendimento do Tribunal de origem, que consignou que não se caracterizou a aquisição do fundo de comércio para efeito de responsabilização tributária por sucessão da atividade empresarial, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido (AgInt no REsp. 1.638.553/BA, Rel. Min. REGINA HELENA COSTA, DJe 27.3.2017).
+10. Pela alínea c do permissivo constitucional, a pretensão recursal não merece acolhimento, porquanto não demonstrada a aventada divergência jurisprudencial, nos moldes regimentais e legais, consoante os arts. 541 do CPC e 255 do RISTJ.
+11. Ante o exposto, nega-se provimento ao Agravo do IBAMA.
+12. Publique-se. Intimações necessárias.
