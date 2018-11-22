@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manifestado por Fundação Saúde Itaú contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Apelação. Plano de saúde coletivo. Pretensão de empregada consistente em manutenção em plano coletivo de assistência médica, disponibilizado por ex-empregadora sob a modalidade de autogestão. Sentença de procedência em parte dos pedidos iniciais. Inconformismos recíprocos. Apelos não conhecidos, ante o reconhecimento de incompetência absoluta.
+1. No presente caso, impõe-se reconhecer, de ofício, a incompetência deste órgão julgador para processar e julgar a presente demanda, nos termos do artigo 64, § 1º, CPC/15.
+Demanda relacionada à discussão do direito subjetivo de ex- empregado de ser preservado beneficiário de plano de saúde/seguro saúde coletivo mantido pela ex-empregadora pelo sistema de autogestão, vinculado à empresa seguradora de saúde pertencente ao mesmo grupo empresarial. Debate afeto a direito previsto em contrato de trabalho ou convenção trabalhista. Precedentes desta Colenda Câmara e do Superior Tribunal de Justiça.
+2. Recursos de apelação da ré e da autora não conhecidos, ante o reconhecimento, de ofício, de incompetência absoluta para processar e julgar o feito, determinada redistribuição à Justiça Especializada Trabalhista.
+Alegou-se, no especial, violação dos artigos 42, 44, 64, §§ 1º e 4º, do Código de Processo Civil sob o argumento de que a competência para o julgamento da presente causa é da justiça comum.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local consignou que o "direito buscado pelos ex-empregados, ainda que fundados em relação de consumo, tinha por embasamento prático justamente a previsão constante de contrato de trabalho, ou de instrumentos ancilares que pautavam esse relacionamento, a saber, convenções coletivas ou acordos coletivos firmados por entidades representativas dos empregados em favor de seus agregados depois de negociações travadas com a empregadora e a operadora do plano de saúde" (e-STJ, fl. 303).
+Concluiu, assim, pela incompetência da justiça comum para processar e julgar a causa, determinando a anulação da sentença e a remessa dos autos ao juízo laboral.
+Esta Corte, todavia, ainda que se tratando de plano de saúde coletivo de autogestão vinculado ao empregador, a discussão de ex-empregado tendo como causa de pedir o direito que rege a relação com a prestadora do serviço é da competência da justiça comum, como já se decidiu.
+A saber:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA ESPECIALIZADA DO TRABALHO. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO.
+1. Conflito negativo de competência suscitado pelo Juízo Trabalhista. Conclusão ao gabinete em 10/04/2018.
+2. O propósito do presente conflito consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+3. Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88.
+4. Plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, § 2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+5. A operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa nº 137/06 da ANS.
+6. O fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+7. Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+8. Declarada a competência da Justiça comum Estadual para julgamento da demanda.
+(CC 157.664/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 25/5/2018)
+Diante do exposto, conheço do agravo e dou provimento ao recurso especial para cassar o acórdão estadual e, declarando competente a justiça estadual comum, determinar o retorno dos autos para que a Corte de origem prossiga no julgamento, como entender de direito.
+Intimem-se.
