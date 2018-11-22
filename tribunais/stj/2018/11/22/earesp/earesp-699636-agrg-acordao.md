@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE EM LICITAÇÕES. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. Considerando que a pena imposta ao agravado, referente ao crime previsto no art. 90 da Lei n. 8.666/93, ficou situada em patamar superior a dois e inferior a quatro anos, o prazo para a prescrição da pretensão punitiva é de oito anos, conforme o disposto no art. 109, inciso IV, do Código Penal.
+2. A sentença condenatória - último marco interruptivo da prescrição - foi publicada em 21/11/2007. Desde então, já transcorreu período superior a oito anos, sendo forçoso reconhecer a extinção da punibilidade do agravado quanto ao crime de falsidade ideológica.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto pelo Ministério Público do Estado de Pernambuco, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal desta Relatoria (e-STJ, fl. 1435), que declarou extinta a punibilidade do agravado em razão do decurso do prazo de prescrição da pretensão punitiva.
+Ao que se tem dos autos, o agravado foi denunciado pela prática do crime previsto no art. 90 da Lei n. 8.666/93, sendo condenado a 2 (dois) anos e 4 (quatro) meses de detenção, em regime aberto, além de 80 (oitenta) dias-multa. A pena privativa de liberdade foi substituída por medidas restritivas de direitos. A defesa apelou, mas o eg. Tribunal de Justiça de Pernambuco negou provimento ao recurso, mantendo integralmente os termos do édito condenatório.
+O recurso especial (e-STJ, fls. 1115-1148) pretendeu anular o processo ou, subsidiariamente, redimensionar a pena aplicada. O apelo, contudo, não foi admitido na origem.
+O agravo em recurso especial impugnou os fundamentos utilizados para negar trânsito ao recurso especial. Ao julgar a insurgência, verificou-se que, desde o último marco interruptivo para a prescrição, já havia transcorrido prazo superior ao assinalado no art. 109, inciso V, do Código Penal, motivo pelo qual foi declarada extinta a punibilidade do então agravante.
+Contra esta decisão, insurge-se o Ministério Público estadual, sustentando, em síntese, que a prescrição da pretensão punitiva superveniente não pode ser aplicada antes que se analise as razões do agravo em recurso especial, uma vez que ainda não houve trânsito em julgado para ambas as partes.
+Requer, então, a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: Atendidos os requisitos genéricos de admissibilidade, passa-se à análise do mérito recursal.
+Considerando o prazo prescricional de oito anos, conforme estabelece o art. 109, inciso IV, do Código Penal, verifica-se o seu transcurso entre a publicação da sentença penal condenatória - último marco interruptivo - em 21.11.2007 e a presente data, ressaltando-se o entendimento assentado na jurisprudência desta Corte que não considera o acórdão confirmatório da condenação como marco interruptivo para fins prescricionais.
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. O ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO NÃO INTERROMPE O LAPSO PRESCRICIONAL. 1. O curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório recorríveis, o que ocorrer em primeiro lugar (art. 117, IV, do Código Penal).
+2. A Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp 1301820/RJ, Rel. Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 789.358/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 30/03/2017, DJe 20/04/2017)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NÃO INTERRUPÇÃO DO LAPSO TEMPORAL. DATA DA PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. ÚLTIMO MARCO INTERRUPTIVO. EXTINTA A PUNIBILIDADE DO AGENTE. RECURSO NÃO PROVIDO.
+1. "Nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação, ainda que majore a pena, não constitui marco interruptivo da prescrição" (AgRg no AREsp 629.278/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016).
+2. Transcorrido lapso superior a quatro anos desde o último marco interruptivo do prazo prescricional - a publicação da sentença condenatória (datada de 19/08/2010) -, está extinta a pena imposta ao ora agravado (1 ano de reclusão), pelo crime de lesões corporais, em razão da ocorrência da prescrição da pretensão punitiva estatal.
+3. Agravo regimental não provido. (AgRg no REsp 1585015/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/10/2016, DJe 09/11/2016)
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
