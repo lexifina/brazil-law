@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi denunciado pela prática dos crimes previstos no art. 33, §3º, da Lei n. 11.343/06 e art. 14, da Lei n. 10.826/03.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual concedeu parcialmente a ordem em acórdão assim ementado:
+Habeas Corpus. Oferecimento de droga e porte ilegal de arma de fogo de uso permitido. Alegação de nulidade da decisão que indeferiu a oitiva das testemunhas de acusação, salvo as comuns, bem como daquela que indeferiu a expedição de oficio, na fase do artigo 402 do Código de Processo Penal. Ofensa ao princípio da ampla defesa caracterizado. E. Magistrado que não definiu a questão do rol de testemunhas no momento oportuno, bem como o indeferiu a oitiva destas injustificadamente. Diligência de requisição de documento que poderia ter sido apresentado o em tempo pela parte, sendo de rigor o indeferimento. Ordem parcialmente concedida (fl. 90).
+No presente recurso, sustenta que o está submetido à constrangimento ilegal, uma vez que o TJSP, mesmo concedendo a ordem determinou que as testemunhas fossem ouvidas sem a necessidade de intimação.
+Requer, assim, que se determine a intimação das testemunhas para a realização da audiência de instrução e julgamento.
+Informações prestadas às fls. 162/214.
+O Ministério Público Federal manifestou-se pelo provimento do recurso, conforme parecer de fls. 270/272.
+É o relatório. Decido.
+Com efeito, o Tribunal de Justiça de São Paulo reconheceu a ocorrência de cerceamento de defesa em razão do indeferimento da oitiva das testemunhas. Contudo, no intuito de acelerar a marcha processual, atribuiu a defesa a apresentação das testemunhas.
+Tal procedimento não encontra previsão no rito especial previsto na Lei 11.343/06 e, apenas quando expressamente assumido o encargo pela parte possibilita a aplicação da preclusão em caso de desídia.
+Logo, tendo sido afirmado pela instância inferior o cerceamento de defesa, de rigor a aplicação do rito legal previsto para a oitiva das testemunhas com a devida intimação e, se necessária, condução coercitiva.
+A respeito da necessidade da intimação, vejamos o seguinte julgado:
+HABEAS CORPUS.  ..  TENTATIVA DE HOMICÍDIO QUALIFICADO (ARTIGO 121, § 2º, INCISO IV, COMBINADO COM O ARTIGO 14, INCISO II, AMBOS DO CÓDIGO PENAL). ALEGADA NULIDADE DO JULGAMENTO. TESTEMUNHA DE DEFESA. AUSÊNCIA EM PLENÁRIO. MANDADO DE INTIMAÇÃO EXPEDIDO PARA ENDEREÇO DIVERSO DO INDICADO NOS AUTOS. CERCEAMENTO CARACTERIZADO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. Da leitura do artigo 461 do Código de Processo Penal, depreende-se que a sessão de julgamento do Tribunal do Júri só pode ser adiada caso a testemunha faltante tenha sido intimada com a cláusula de imprescindibilidade.
+2. No caso dos autos, entretanto, o mandado de intimação da testemunha foi expedido para endereço diverso do indicado pela defesa, motivo pelo qual o oficial de justiça não a encontrou e, consequentemente, ela não compareceu ao Tribunal do Júri, o que fez com que o causídico responsável pela defesa do paciente requeresse o adiamento da sessão de julgamento, o que foi indeferido pelo Juiz Presidente.
+3. Ainda que a testemunha não tenha sido indicada como imprescindível, não se pode admitir que a defesa seja prejudicada por um equívoco do Estado, que expediu mandado de intimação para endereço distinto daquele indicado pelos advogados do acusado, obrando em evidente cerceamento de defesa.
+4. Tendo o paciente respondido o processo em liberdade, imperiosa a expedição de alvará de soltura em seu favor.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para anular o julgamento do paciente pelo Tribunal do Júri, determinando-se que outro seja realizado com a prévia intimação da testemunha indicada pela defesa no endereço fornecido, expedindo-se alvará de soltura em favor do acusado (HC 243.591/PB, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 26/02/2014).
+Ante o exposto, com fundamento no art. 34,inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao presente recurso de habeas corpus para determinar a realização de audiência para a oitiva das testemunhas arroladas pela defesa, devendo ser expedidas as devidas intimações, caso não tenham sido ouvidas ainda.
+Publique-se.
