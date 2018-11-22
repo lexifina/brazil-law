@@ -1,0 +1,11 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO DE SENTENÇA. TERMO INICIAL DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA: TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NO PROCESSO DE CONHECIMENTO. PROTESTO INTERRUPTIVO. INTERPOSIÇÃO EXTEMPORÂNEA. RECONHECIMENTO DA PRESCRIÇÃO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos por EMILCE AVELINE BURGER e outra, contra decisão assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO CONFIGURADA. AÇÃO COLETIVA. EXECUÇÃO DE SENTENÇA. TERMO INICIAL DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA: TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NO PROCESSO DE CONHECIMENTO. PROTESTO INTERRUPTIVO. INTERPOSIÇÃO EXTEMPORÂNEA. RECONHECIMENTO DA PRESCRIÇÃO. RECURSO ESPECIAL DA UFRGS PROVIDO.
+2. Afirmam as embargantes, em suma, que não foi consumado o prazo prescricional.
+3. É o relatório.
+4. Os Embargos não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do CPC, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+5. No caso, o decisum embargado consignou expressamente que, na hipótese dos autos, a ação de conhecimento 97.00.00920-3, transitou em julgado em 2.3.2000 (fls. 1.364). Contudo, a Medida Cautelar de Protesto só foi ajuizada em 9.11.2005, quando já transcorrido o prazo quinquenal prescricional. Nestes termos, impõe-se reconhecer a prescrição da pretensão executória, pois o prazo prescricional não foi interrompido com o início da execução da prestação de fazer, e o protesto interruptivo só fora interposto quando a prescrição já se havia consumado.
+6. Ressalte-se que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido, conforme pretendem as embargantes nesta oportunidade.
+7. Pelo exposto, rejeitam-se os Embargos Declaratórios de EMILCE AVELINE BURGER e outra.
+8. Publique-se. Intimações necessárias.
