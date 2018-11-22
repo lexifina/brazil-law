@@ -1,0 +1,7 @@
+Decisão:
+    1. Apresentaram manifestação, requerendo sua participação na qualidade de amici curiae: (i) o Instituto de Desenvolvimento e Direitos Humanos – IDDH e o Instituto Campanha Nacional pelo Direito à Educação; (ii) a Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis, Transexuais e Intersexos - ABLGBT e o Grupo de Advogados Pela Diversidade Sexual e de Gênero – GADvS; (iii) a Associação Nacional das Defensoras e dos Defensores Públicos – ANADEP e (iv) o Sindicato Nacional dos Docentes das Instituições de Ensino Superior - ANDES.
+    2. Tendo em vista a jurisprudência do STF quanto ao prazo para requerimento de ingresso como amici curiae e considerando que não se recai na exceção de déficit de representatividade de um dos lados do argumento, defiro a apresentação de memoriais: (i) ao Instituto de Desenvolvimento e Direitos Humanos – IDDH e Instituto Campanha Nacional pelo Direito à Educação; (ii) à Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis, Transexuais e Intersexos - ABLGBT e ao Grupo De Advogados Pela Diversidade Sexual e de Gênero – GADvS; (iii) à Associação Nacional das Defensoras e dos Defensores Públicos – ANADEP e (iv) ao Sindicato Nacional dos Docentes das Instituições de Ensino Superior – ANDES, sem direito à sustentação oral. Do contrário, restaria tempo mínimo para cada um dos oradores.
+    3. Intime-se. Publique-se.
+Brasília, 22 de novembro de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
