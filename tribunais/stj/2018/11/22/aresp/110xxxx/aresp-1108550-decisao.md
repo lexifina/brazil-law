@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por MARCATTO FORTINOX INDUSTRIAL LTDA contra decisão que inadmitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça de São Paulo assim ementado:
+APELAÇÃO. Ação de Repetição de Indébito. Município de Guarulhos. IPTU. Exercícios de 2006 a 2009. Insurgência contra a aplicação da Lei Municipal nº 5.753/01, que aprovou a Planta Genérica de Valores, instituiu progressividade e deu outras providências. Desrespeito ao Princípio da Publicidade. Inexigibilidade Parcial. Restituição apenas do valor que superou a alíquota mínima da lei anterior. Reconhecimento da prescrição com relação aos exercícios de 2006 e 2007. Juros de mora devidos a partir do trânsito em julgado da decisão definitiva. Inteligência do art. 167 do CTN e Súmula 188. Sentença reformada. Recurso PARCIALMENTE PROVIDO.
+Nas razões do especial, alega violação dos arts. 2º da LINDB e 21 do CPC/1973, sustentando as seguintes teses:
+a) o Tribunal atribuiu efeito repristinatório à nulidade dos lançamentos feitos com base na Lei Municipal n. 5.753/2001, que não foi declarada inconstitucional e nem perdeu sua vigência;
+b) houve equívoco na distribuição dos ônus sucumbenciais.
+Com contrarrazões ao recurso especial, este recuso não foi admitido, ante a aplicação da Súmula 280 do STF - fundamento com o qual não concorda a agravante.
+Contraminuta foi apresentada pela parte agravada.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de ação de repetição de indébito ajuizada pela agravante, em desfavor do Município de Guarulhos, por meio da qual objetiva o reconhecimento da nulidade de lançamentos relativos a IPTU, ante a falta de publicação do Anexo I da Planta Genérica de Valores, que especificava a base de cálculo do tributo; bem como a restituição das quantias pagas indevidamente.
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara da Fazenda Pública de Guarulhos - SP julgou procedente o pedido para anular os lançamentos de IPTU do imóvel descrito na inicial, referentes aos exercícios questionados, e determinar a repetição do indébito, observado o prazo prescricional quinquenal, com correção monetária a partir de cada desembolso e juros de mora contados da citação.
+Irresignado, o Município interpôs apelação, que fora parcialmente provida pelo TJ/SP, a fim de reconhecer a prescrição do direito de restituição do IPTU de 2006, acolhendo o pedido subsidiário, para determinar a restituição do indébito apenas dos valores que superem a alíquota mínima prevista na Lei n. 2.210/77, com juros de mora de 1% ao mês a partir do trânsito em julgado da decisão.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 154/157):
+O recurso merece parcial provimento.
+A referida Lei 5.753/2001, editada pelo Município de Guarulhos, aprovou a Planta Genérica de Valores anexa, que trata dos parâmetros que influenciam diretamente na base de cálculo do IPTU, conforme transcrito:
+(..)
+Contudo, o Anexo I, destacado no dispositivo acima, deixou de ser publicado em conjunto com a lei reguladora da matéria, afrontando assim o artigo 97 do Código Tributário Nacional, que prevê que a lei deve estabelecer todos os elementos para majoração do tributo.
+Notadamente, a ausência de publicação da Planta Genérica de Valores afronta o princípio da publicidade, gerando a sua ineficácia, por ter havido desrespeito a requisito formal de exigência legal. Tal violação obsta, em tese, que o contribuinte tenha ciência inequívoca dos valores que lhe estão sendo exigidos.
+Esta formalidade se revela indispensável para que a norma ingresse no ordenamento jurídico e, por consequência, tenha vigência, sob pena de ter reconhecida a sua inexistência.
+No caso, como a Lei Municipal nº 5.753/01 fora publicada sem os anexos, só se reconhece a eficácia da parte publicada.
+(..)
+E nesse contexto, o STJ vem assentando ser indispensável, para a validade do lançamento do IPTU, quando for o caso, a publicação da Planta Genérica de Valores, por conter dados essenciais à apuração da base de cálculo desse tributo.
+(..)
+Desse modo, a planta genérica de valores constitui ato normativo com efeitos externos, cuja publicação seria imprescindível, a fim de que obtivesse eficácia "erga omnes" e pudesse legitimar a cobrança do imposto. Logo, afigura-se evidente o prejuízo para o contribuinte nesta situação, por não ter como aferir a conformidade do lançamento com os dados constantes da Planta Genérica de Valores.
+Entrementes, o lançamento é inexigível somente no que tange ao valor apurado com base na Lei Municipal nº 5.753/01. No entanto, o IPTU é devido, porém com a aplicarão de alíquotas mínimas previstas pela legislação anterior, consoante com o pedido subsidiário do Município de Guarulhos.
+Ressalta-se que o direito de pleitear a repetição do indébito tributário extingue-se com o decurso de 5 anos, contados da data de extinção do crédito tributário, nos termos do art. 168, 1 c/c 165 do CTN. Quando ajuizada a ação em 16/12/2011, já havia transcorrido o lapso prescricional referente ao exercício de 2006. Este, portanto, restou atingido pela prescrição.
+No tocante aos juros, de mora, matéria de ordem pública, também merece reparo a sentença. Dispõem o art. 167 do CTN e Súmula 188 do STJ que o termo a quo de sua incidência é o trânsito em julgado da decisão definitiva. Quanto à alíquota, aplica-se 1% ao mês, com base no art. 161, §1º do CTN, sendo inaplicável ao caso a do art. 1º da Lei 9.494/97.
+Em razão da sucumbência recíproca, cada parte deverá arcar com as custas e despesas processuais que despendeu, bem como com os honorários advocatícios de seus respectivos patronos.
+Os embargos de declaração opostos pela agravante foram rejeitados.
+Pois bem.
+Da leitura do acórdão supra, observa-se claramente que a instância ordinária não emitiu juízo de valor sobre os arts. 2º da LINDB e 21 do CPC/1973. Assim, o presente apelo nobre carece, no ponto do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Vale salientar que os referidos dispositivos legais sequer foram mencionados na petição dos embargos declaratórios opostos pela ora agravante, a fim de provocar a manifestação do Tribunal de origem acerca dos temas a eles relacionados, bem como no intuito de subsidiar eventual alegação de negativa de prestação jurisdicional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
