@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA PROCEDENTE. EMBARGOS MONITÓRIOS REJEITADOS. CHEQUES. ORIGEM. COMPRA E VENDA MERCANTIL. DEFEITO NO PRODUTO (PEÇAS DE VESTUÁRIO). CAUSA NÃO EXTINTIVA DA OBRIGAÇÃO. EFICÁCIA DA CAMBIAL. NEGÓCIO JURÍDICO PERFEITO E ACABADO. AUSÊNCIA DE PROVA DE DEVOLUÇÃO DA MERCADORIA. VERBAS DE SUCUMBÊNCIA. HONORÁRIOS MAJORADOS EM SEDE RECURSAL, NOS TERMOS DO ART. 85, § 11, DO CPC/15. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 422 e 476 do Código Civil e 80, 85 e 373 do Código de Processo Civil, associada a dissídio jurisprudencial, sob o argumento de que não se respeitou a boa-fé objetiva, na medida em que "os valores cobrados por meio da ação monitória decorrem de uma dívida e um negócio inexistente" (e-STJ, fl. 492), de modo que caberia à parte contrária o cumprimento prévio de sua parte no contrato; que a agravada litiga em má-fé; e que os honorários advocatícios são exorbitantes.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à alegação de descumprimento do contato pela agravada e, assim, litigar em má-fé, o Tribunal local consignou que, "muito embora o caso dos autos possa admitir a possibilidade de discussão da causa debendi do cheque, posto que não houve circulação do título, exceção à regra da abstratividade dos títulos de crédito, infere-se que, diante da compra e venda perfeita e acabada, o não pagamento apenas seria justificado, se foi verificado defeito nos produtos após a entrega, com a prova da devolução dos itens, o que não ocorreu aqui (e-STJ, fls. 466/467).
+Concluindo a Corte de origem, portanto, que não houve prova de defeito dos produtos adquiridos e sua consequente devolução, inequívoca é a incidência do verbete n. 7 da Súmula desta Casa.
+O argumento, outrossim, de que os honorários são exorbitantes, fixados em 17% (dezessete por cento) sobre o valor da causa, encontram igualmente as disposições do enunciado sumular citado.
+Assim:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE OFENSA AO ART. 330, I, DO CPC. PLEITO DE PRODUÇÃO DE PROVA PERICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC.
+2. No caso concreto, o Tribunal de origem concluiu que não houve cerceamento de defesa e que as provas constantes dos autos eram suficientes para o julgamento da lide. Alterar esse entendimento demandaria o reexame dos elementos fáticos, o que é vedado em recurso especial (Súmula n. 7 do STJ) .
+3. O óbice da Súmula n. 7/STJ também impede o reexame do valor dos honorários advocatícios, arbitrados dentro dos parâmetros legais.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 527.139/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/11/2015, DJe 13/11/2015)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
