@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. JUROS MORATÓRIOS INCIDENTES SOBRE PAGAMENTOS EFETUADOS NA VIA ADMINISTRATIVA. INOCORRÊNCIA DE PRECLUSÃO POR SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. CRITÉRIO DE IMPUTAÇÃO DOS PAGAMENTOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INAPLICABILIDADE DO ART. 354 DO CÓDIGO CIVIL. EMBARGOS DE DECLARAÇÃO DO SERVIDOR ACOLHIDOS PARA SANAR A OMISSÃO, SEM EFEITOS INFRINGENTES.
+1. Cuida-se de Embargos de Declaração opostos por [NOME] DE BASTIANI em face da decisão que negou provimento ao seu Agravo em Recurso Especial, nos seguintes termos:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA CONCEDIDA NA ORIGEM. DESNECESSIDADE DE RENOVAÇÃO DO PEDIDO NA INSTÂNCIA RECURSAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUROS MORATÓRIOS. INCIDÊNCIA SOBRE PAGAMENTOS EFETUADOS NA VIA ADMINISTRATIVA. CRITÉRIO DE CÁLCULO. REEXAME DE PROVAS. SÚMULA 7/STJ. ART. 354 DO CÓDIGO CIVIL. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+2. Aponta o embargante omissão quanto à alegação de preclusão, ao argumento de que a União deixou de, a tempo e modo, postular a incidência de juros sobre pagamentos administrativos.
+3. É o relatório.
+4. Verificada a omissão apontada, passa-se à análise da questão.
+5. Da leitura dos autos, verifica-se que a Corte de origem assim se manifestou:
+Sobre a preclusão/coisa julgada de matérias tidas como não ventiladas em embargos à execução e apenas agora mencionadas pela executada - União, em observância ao princípio da vedação ao enriquecimento sem causa, não há obstáculo processual ao seu exame.
+Ademais, juros moratórios são tidos como consectário da decisão e têm caráter de ordem pública, dispensando provação, podendo ser conhecida de ofício.
+6. Tal entendimento se revela em harmonia com a jurisprudência desta Corte ao afirmar que, por se tratar de consectários legais da condenação principal, os juros moratórios possuem natureza de ordem pública e podem ser analisados até mesmo de ofício pelo magistrado. Desta feita, não há censura a se fazer ao acórdão de origem no ponto em que rejeitou a alegação de preclusão. A propósito, cita-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA - ERRO MATERIAL - CÁLCULO DE JUROS MORATÓRIOS E ATUALIZAÇÃO MONETÁRIA - PRECLUSÃO - NÃO OCORRÊNCIA - RECURSO PARCIALMENTE PROVIDO A FIM DE DETERMINAR O RETORNO DOS AUTOS À INSTÂNCIA ORDINÁRIA. INSURGÊNCIA DA CASA BANCÁRIA.
+1. Consoante a jurisprudência desta Corte Superior, a correção de erro material não se sujeita aos institutos da preclusão e da coisa julgada por constituir matéria de ordem pública cognoscível de ofício pelo julgador. Precedentes do STJ: AgRg no Ag 1134104/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 27/02/2014; AgRg no AREsp 111.499/MA, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 23/04/2015.
+2. Agravo regimental desprovido (AgRg no AREsp. 716.718/DF, Rel. Min. MARCO BUZZI, DJe 3.10.2016).
+
+ ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE VENCIMENTOS. EXECUÇÃO. JUROS MORATÓRIOS. VALORES PAGOS ADMINISTRATIVAMENTE. IMPUTAÇÃO DO PAGAMENTO. ART. 354 DO CC. FAZENDA PÚBLICA. INAPLICABILIDADE. PRECLUSÃO. MATÉRIA DE ORDEM PÚBLICA. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. "O exame dos juros moratórios e da correção monetária pela Corte de origem independe de pedido expresso na inicial ou de recurso voluntário da parte, pois são tratados como matéria de ordem pública" (AgRg no REsp 1.427.958/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/05/2014, DJe 02/06/2014).
+3. "O STJ pacificou a orientação de que a regra de imputação de pagamentos estabelecida no art. 354 do Código Civil é inaplicável às dívidas da Fazenda Pública" (AgRg no AREsp 347.550/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 03/10/2013, DJe 11/10/2013).
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp. 440.971/RS, Rel. Ministro SÉRGIO KUKINA, DJe 11.2.2015).
+7. Ante o exposto, acolhem-se os Embargos de Declaração do Servidor, para sanar a omissão apontada, sem, contudo lhes conferir efeitos infringentes.
+8. Publique-se. Intimações necessárias.
