@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por Petróleo Brasileiro S/A - Petrobrás, desafiando decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial com base nos seguintes fundamentos: (I) inexistência da alegada negativa de prestação jurisdicional; e (II) não cabe o reexame de matéria fática no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+É o relatório.
+De pronto, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 7/STF, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Com efeito, apesar de afirmar que "não há intenção de revolvimento de matéria fática" (fl. 1.844), a parte agravante deixou de declinar os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto. Isso porque a alegação genérica de que o recurso não enseja o reexame de fatos não tem o condão de infirmar o juízo formulado pela decisão agravada, à míngua de demonstração da situação particular que justificasse o afastamento da Súmula 7/STJ.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
