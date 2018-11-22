@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC), interposto por [NOME] em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo objetivou reformar acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 147):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DESPACHO DE MERO EXPEDIENTE. IRRECORRIBILIDADE. EXECUÇÃO. GARANTIA DO JUÍZO. BEM IMÓVEL. AUSÊNCIA DE COMPROVAÇÃO DE PROPRIEDADE.
+1. [NOME] de declaração opostos contra essa modalidade de ato judicial (despacho de meroexpediente), não merecem ser conhecidos, visto estar ausente um dos requisitos de admissibilidade dos recursos, que é o cabimento. (STJ - 3" Turma, AgRg no AREsp 476520, Rel. Min. SIDNEI BENETI, DJE 19.5.2014) 2.Para apreciação do oferecimento de bens imóveis como garantia do juízo, consoante o disposto no art. 739-A, do CPC, necessária a apresentação das respectivas certidões de matricula; de modo a aferir a propriedade, bem como se os imóveis encontram-se desembaraçados e livres de quaisquer ônus para deferimento da penhora. (TRF2, 8" Tuftna Especializada, AG 201402010023260, Rel. Des. Fed. [NOME], E-DJF2R 16.9.2014; STJ, 28 Turma, AgRg no AREsp 82344, Rel. Min.
+Ministro HERMAN BENJAMIN, DJE 1.8.2013) 3..Embargos de declaração não conhecidos e agravo de instrumento não provido.
+Opostos embargos de declaração, estes foram rejeitados (fls. 164/173).
+Nas razões do recurso especial (fls. 176/189), a parte insurgente apontou ofensa aos arts. 535, II, e 655, § 1º, do CPC/73.
+Sustentou, em síntese:
+a) omissão do Tribunal de origem quanto a estes temas: i) a penhora deve recair preferencialmente sobre o imóvel dado em garantia no título executivo, presumindo-se que o valor do bem é suficiente para o adimplemento da dívida; ii) ter sido comprovada nos autos a propriedade do imóvel indicado como garantia; e iii) validade de garantia hipotecária oferecida por terceiro; e
+b) conforme a ordem de preferência do art. 655, § 1º, do CPC/73, a penhora com base em título garantido por hipoteca deve recair, preferencialmente, sobre o bem dado em garantia.
+Contrarrazões às fls. 195/199.
+Inadmitido o apelo, os autos subiram ao exame do STJ mediante a interposição do agravo (art. 1.042 do NCPC).
+Contraminuta às fls. 215/224.
+É o relatório.
+Decido.
+A irresignação merece prosperar, em parte.
+1. Cabem embargos de declaração, conforme disposto no art. 1.022 do NCPC (art. 535 do CPC/73), para promover a integração de julgado que haja incorrido em omissão, contradição, obscuridade ou erro material.
+Nesse contexto, segundo entendimento consolidado desta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte processual e cujo exame, se fosse realizado, poderia alterar o resultado da controvérsia.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. NÃO CONFIGURAÇÃO. QUESTÃO INAPTA A ALTERAR A CONCLUSÃO APRESENTADA NA DECISÃO AGRAVADA. AUSÊNCIA DE OMISSÃO RELEVANTE. PRETENSÃO RECURSAL QUE PARTE DE PREMISSA FÁTICA DISTINTA DA ADOTADA PELO TRIBUNAL DE ORIGEM. IMPRESCINDIBILIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO. (AgInt no AgInt no AREsp 832.531/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/10/2017, DJe 20/10/2017)
+ Na espécie, sustenta a parte insurgente a omissão quanto às seguintes matérias: i) a penhora deve recair preferencialmente sobre o imóvel dado em garantia no título executivo, presumindo-se que o valor do bem é suficiente para o adimplemento da dívida; ii) ter sido comprovada nos autos a propriedade do imóvel indicado como garantia; e iii) validade de garantia hipotecária oferecida por terceiro.
+Com razão, em parte.
+O Tribunal de origem recusou a penhora do imóvel objeto da garantia hipotecária, ratificando a ordem de constrição de outros bens, porque i) não restou demonstrado que a propriedade do sítio denominado Ananguá, localizado no 2º distrito de São Gonçado, pertence a um dos executados; e ii) consta da matrícula do imóvel anotação decorrente de outra demanda judicial, impedindo o exame quanto à suficiência do seu valor para a segurança do juízo.
+Embora não caiba ao STJ examinar o mérito da questão, nesse ponto, cumpre destacar que, conforme entendimento sólido desta Corte Superior, a ordem de preferência do art. 655, § 1º, do CPC/73 é relativa. Isto é, a penhora fundada em contrato com garantia real pode sim recair sobre bem distinto do apontado no ajuste, desde que, segundo juízo fundamentado do órgão competente, a garantia seja insuficiente para adimplir a dívida (vide, nesse sentido: AgRg no AREsp 578.750/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/09/2015, DJe 29/09/2015).
+Assim, não obstante a pretensão da parte recorrente possua tratamento já uniforme na jurisprudência do STJ, não é possível, desde já, aplicar o direito à espécie, por duas principais razões: i) o Tribunal de origem não se manifestou sobre a validade do oferecimento de garantia hipotecária por terceiro, uma vez que o citado sítio de fato não pertence a nenhum dos executados; e ii) também houve omissão quanto à suficiência do valor do bem imóvel para o adimplemento da dívida, mesmo com o registro de constrição fundada em outra demanda judicial. Isto é, caberia às instâncias ordinárias examinar, precisamente, se, mesmo com constrição já anotada, o valor do bem imóvel bastaria para garantir o juízo.
+Portanto, torna-se necessário o retorno dos autos à origem, para que o TRF 2ª Região se manifeste sobre esses pontos.
+2. Ante o exposto, conheço do agravo e, de imediato, dou parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que se manifeste sobre os pontos controvertidos acima destacados.
+Julgo prejudicada a matéria de fundo do apelo especial.
+Publique-se. Intimem-se.
