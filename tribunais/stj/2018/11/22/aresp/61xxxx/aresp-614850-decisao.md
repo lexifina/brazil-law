@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo CONDOMINIO DO EDIFICIO MAISON CLASSIQUE, desafiando decisão que não admitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do eg. Tribunal de Justiça do Estado do Pará, assim ementado:
+"AGRAVO INTERNO. LEI DE FALÊNCIA. RECURSO CONHECIDO E IMPROVIDO.
+1. Trata-se de Agravo Interno interposto contra decisão deste relator que negou seguimento ao recurso interposto por Condomínio do Edifício Maison Classique, com fundamento do artigo 557 do CPC, por encontrar-se em manifesto confronto com a jurisprudência dominante do Superior Tribunal de Justiça e artigo 76 da Lei de Falências.
+2. A alegação de que é aplicável a antiga Lei de Falência em nada/altera a decisão deste relator, uma vez que diferentemente do que afirma o recorrente a declaração de falência ocorreu antes da arrematação.
+3. Assim, a aplicação do §1º do artigo 24 da antiga Lei de Falência, em verdade vai de encontro ao exposto pelo recorrente em seu recurso, uma vez que este dispõe que se já em praça os bens quando da decretação da falência, o produto entrará para a massa e, ao contrário, se já arrematados quando da declaração, somente entrará para a massa a sobra, depois de pago o exequente.
+4. Assim, por todos os ângulos verifica-se que não há razões para reconsiderar a decisão impugnada, pois como já exposto o juízo de falência é indivisível e competente para conhecer de todas as ações sobre bens e interesse da massa e, portanto, é quem tem competência para examinar eventuais atos constritivos em desfavor da massa falida.
+5. Recurso Conhecido e Improvido." (e-STJ, fl. 397)
+Nas razões do recurso especial, o ora agravante aponta ofensa ao artigo 24, § 1º, do Decreto-Lei 7.661/45. Alega que não há motivos para a ação ser encaminhada ao Juízo da Falência, pois, já tendo sido deferida a arrematação, somente entraria para a massa a sobra, depois de pago o exequente.
+É o relatório. Passo a decidir.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Na origem, trata-se de agravo de instrumento contra decisão proferida pelo Juízo da 3ª Vara Cível da Comarca de Belém/PA que, nos autos de ação de cobrança de taxas condominiais, em fase de cumprimento de sentença, se declarou incompetente para processar o feito, em razão de o bem objeto de constrição judicial ser de propriedade da massa falida ENCOL S/A, ocasião em que determinou a remessa dos autos ao juízo falimentar.
+O eg. Tribunal de Justiça do Estado do Pará negou provimento ao recurso, por compreender que a competência para julgar o cumprimento de sentença é do juízo universal da falência, incumbindo-lhe examinar eventuais atos constritivos em desfavor da massa falida. Reforçou que a decretação da falência (16.03.1999) ocorreu antes da arrematação (26.09.2011), de modo que a aplicação do art. 24, § 1º, do Decreto-Lei 7.661/45 também impõe a remessa dos autos ao juízo falimentar.
+Assim decidindo, o acórdão recorrido está em harmonia com a orientação desta Corte Superior, no sentido de que, decretada a falência, é competente o respectivo juízo para prosseguimento dos atos de execução. Nesse sentido:
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA TODOS OS ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL. PENHORA ANTERIOR. PRECEDENTES. 1. Respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais.
+2. O fato de haver penhora anterior ao pedido de recuperação judicial, em nada afeta a competência do Juízo Universal para deliberar acerca da destinação do patrimônio da empresa suscitante, em obediência ao princípio da preservação da empresa.
+3. Agravo interno no conflito de competência não provido.
+(AgInt no CC 152.153/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 15/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DECRETAÇÃO DE FALÊNCIA. ATOS CONSTRITIVOS ANTERIORES. CRÉDITO TRABALHISTA. DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO UNIVERSAL. DECISÃO MANTIDA.
+1. Encontra-se pacificado, na jurisprudência desta Corte, o entendimento de que, deferido o pedido de falência, os atos de execução relacionados a crédito trabalhista incidentes sobre o patrimônio da massa falida devem ser processados no âmbito do juízo universal, mesmo nos casos de penhora anterior. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 148.987/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 13/09/2017, DJe 21/09/2017)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ - AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de que é do juízo em que se processa a recuperação judicial a competência para promover os atos de execução do patrimônio da empresa, evitando-se, assim, que medidas expropriatórias possam prejudicar o cumprimento do plano de soerguimento. Precedentes da Segunda Seção.
+2. Agravo interno desprovido.
+(AgInt no CC 144.740/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 21/09/2016)
+Portanto, a controvérsia posta nos autos encontra-se pacificada no âmbito da Segunda Seção desta Corte, que reconhece ser o Juízo onde se processa a falência ou a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa falida ou recuperanda.
+Especificamente acerca de execução de débitos condominiais, a Segunda Seção desta Corte, da mesma forma, já pacificou entendimento no sentido de que o crédito, mesmo que privilegiado, deve ser habilitado no juízo universal da falência para evitar prejuízos aos demais credores, também privilegiados. Confira-se:
+"CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO DE DESPESAS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. FALÊNCIA DO CONDÔMINO EXECUTADO. COMPETÊNCIA DO JUÍZO UNIVERSAL.
+Decretada a quebra, as execuções singulares pendentes devem prosseguir no juízo universal, ainda que originárias de cobrança de obrigações propter rem.
+Conflito conhecido e provido para declarar a competência do Juízo da 11ª Vara Cível de Goiânia/GO".
+(CC 37.178/GO, Rel. Ministro CESAR ASFOR ROCHA, SEGUNDA SEÇÃO, julgado em 26/04/2006, DJ 21/08/2006)
+Incide, na espécie, a Súmula nº 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável a ambas as alíneas autorizadoras.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
