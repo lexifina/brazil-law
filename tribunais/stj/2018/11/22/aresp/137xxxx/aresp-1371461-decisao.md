@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manifestado por [NOME] e outros, contra decisão que negou seguimento a recurso especial, no qual se alega violação do artigo 919 do novo Código de Processo Civil, sob o fundamento de que foram preenchidos os requisitos para a atribuição de efeito suspensivo aos embargos à execução. O acórdão recorrido está retratado na seguinte ementa:
+EMBARGOS À EXECUÇÃO - Efeitos - Insurgência contra decisão que recebeu os embargos sem atribuição de efeito suspensivo - Inadmissibilidade - Ausência dos requisitos ensejadores da exceção prevista no § 1º do art. 919 do NCPC - Preliminar rejeitada - Agravo não provido, cassado o efeito suspensivo.
+Opostos os embargos de declaração, esses foram rejeitados.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+Com efeito, registro que o Tribunal de origem concluiu que não estão configurados os requisitos para a atribuição de efeito suspensivo aos embargos à execução, conforme se extrai dos seguintes excertos (fl. 350, e-STJ):
+Pois bem, após detida análise da petição inicial dos embargos à execução (folhas 19/36), verifico que os agravantes pretendem revisão do contrato, alegando abusividades de taxas de juros, bem como de outros encargos, alegando excesso na execução. Dizem que o presente caso se enquadra na hipótese descrita no §1º do art. 919 do NCPC, sendo de rigor o recebimento dos embargos à execução no efeito suspensivo.
+Os elementos de convicção que os agravantes coligiram aos autos, parecer técnico financeiro, elaborado de forma unilateral e ainda sem contraposição através do contraditório, não evidenciam a probabilidade do direito, requisito necessário ao provimento da tutela de urgência.
+Também não se fazem presentes os requisitos para tutela de evidência.
+As matérias suscitadas nos embargos à execução dependem de comprovação, o que deverá ocorrer durante a instrução probatória e com a instauração do contraditório.
+A decisão combatida encontra suporte em texto legal aplicável à espécie, não merecendo acolhida a pretensão recursal para reformá-la.
+Anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, procedimento que, em sede especial, encontra óbice no enunciado n. 7 da Súmula do STJ. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 739-A, § 1º, DO CPC. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS AUTORIZADORES DA SUSPENSÃO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Consoante prevê o art. 739-A, § 1º, do Código de Processo Civil, o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. É vedado, em sede de recurso especial, o exame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execução previstos no art. 739-A, § 1º, do Código de Processo Civil, porquanto tal providência demandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da súmula nº 7 do STJ, cuja aplicação obsta, igualmente, o conhecimento do apelo extremo fundamentado na alínea "c" do permissivo constitucional.
+3. Nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a perfeita similitude fática entre o acórdão impugnado e os paradigmas colacionados o que, no caso, não restou evidenciado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.236.545/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 18.10.2010)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
