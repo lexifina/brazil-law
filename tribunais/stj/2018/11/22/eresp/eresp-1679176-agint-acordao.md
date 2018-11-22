@@ -1,0 +1,20 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. RESÍDUO DE 3,17% SOBRE A VANTAGEM DOS 28,86% E SOBRE ANUÊNIOS. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. VEDADA A AMPLIAÇÃO DO ALCANCE DO TÍTULO EXECUTIVO. ANÁLISE DA EXECUÇÃO COMPLEMENTAR. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. Tendo o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluído que sobre as parcelas relativas aos anuênios e reajuste de 28,86% não existe título executivo a embasar a execução (fls. 650), é inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+2. Agravo Interno dos Servidores a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] e OUTROS, contra decisão proferida às fls. 757/760, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. RESÍDUO DE 3,17% SOBRE A VANTAGEM DOS 28,86% E SOBRE ANUÊNIOS. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. VEDADA A AMPLIAÇÃO DO ALCANCE DO TÍTULO EXECUTIVO. ANÁLISE DA EXECUÇÃO COMPLEMENTAR. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DOS SERVIDORES PÚBLICOS A QUE SE NEGA SEGUIMENTO.
+2. Reitera-se a alegada negativa de prestação jurisdicional, havendo contradição em desacolher a preliminar de nulidade e impor o óbice da Súmula 7/STJ; e afirma que há ofensa à coisa julgada, tendo em vista a necessidade de incidência dos 3,17% sobre o reajuste de 28,86% e sobre os anuênios, devendo ser afastada a aplicação da referida Súmula.
+3. Não houve impugnação.
+4. É o relatório.
+VOTO
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. RESÍDUO DE 3,17% SOBRE A VANTAGEM DOS 28,86% E SOBRE ANUÊNIOS. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. VEDADA A AMPLIAÇÃO DO ALCANCE DO TÍTULO EXECUTIVO. ANÁLISE DA EXECUÇÃO COMPLEMENTAR. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. Tendo o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluído que sobre as parcelas relativas aos anuênios e reajuste de 28,86% não existe título executivo a embasar a execução (fls. 650), é inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+2. Agravo Interno dos Servidores a que se nega provimento.
+1. Reanalisando a questão ora trazida para exame desta Corte Superior, tem-se que os agravantes não apresentaram qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, motivo pelo qual inexiste a violação apontada aos arts. 489, II e 1.022, II do Código Fux.
+3. Quanto ao mérito, tendo o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluído que sobre as parcelas relativas aos anuênios e reajuste de 28,86% não existe título executivo a embasar a execução (fls. 650), é inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+4. Ante o exposto, nega-se provimento ao Agravo Interno dos Servidores. É como voto.
