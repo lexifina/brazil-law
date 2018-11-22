@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de RICARDO CAVALCANTE DOS SANTOS, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Apelação n. 0000977-40.2017.8.26.0537, assim ementada:
+TRÁFICO. Recurso defensivo que espera a absolvição por insuficiência probatória. Versão defensiva isolada.
+Nada indica que os policiais teriam injustamente atribuído ao apelante a posse de drogas dispensadas por terceiro. Condenação mantida. Redutor inaplicável ante a reincidência específica. Penas já fixadas no piso legal.
+Regime inicial fechado necessário. Art. 387, § 2º, do CPP inaplicável em segunda instância. Tempo de prisão preventiva que já vem sendo considerado durante a execução provisória da pena. Tese da inconstitucionalidade da pena de multa rejeitada pela jurisprudência superior. Apelo improvido. (fl. 303)
+No presente mandamus, o impetrante alega que o paciente teria direito ao regime semiaberto, tendo em vista que a pena foi fixada no mínimo e as circunstâncias judiciais foram julgadas favoráveis.
+Requer, assim, em liminar e no mérito, a fixação do regime semiaberto.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 325/326).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a controvérsia refere-se ao regime inicial de cumprimento de pena.
+No caso, o paciente foi preso em flagrante na posse de 9 porções de cocaína, com peso líquido de 8,64g, 10 porções de cocaína da forma de crack, com peso líquido de 2,29g e 09 porções de Cannabis Sativa, com peso líquido de 44,18g, razão pela qual foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, por tráfico de drogas. O Tribunal de origem, em julgamento de apelação, negou provimento ao recurso, mantendo o regime fechado, sob os seguintes fundamentos:
+ ..
+A condenação, portanto, foi acertada.
+As penas foram dosadas com brandura e, na falta de recurso ministerial, não comportam quaisquer ajustes.
+Partindo do piso legal, o Magistrado reconheceu a reincidência específica certificada a fls. 137 (condenação por tráfico praticado em 2016 com trânsito em julgado para a defesa apenas três dias antes da prisão em flagrante pelo crime tratado nestes autos) apenas para obstar a redução da pena do artigo 33, §4º, da Lei de Drogas, em equívoco benéfico para o condenado: as penas finais ficaram no mínimo legal, em apenas 5 anos de reclusão e 500 dias-multa.
+A aplicação do redutor pretendido no recurso defensivo é impossível porque bons antecedentes e primariedade são requisitos da benesse expressamente previstos na lei. Sendo reincidente específico, evidentemente não faz jus a ela. Em verdade, observo que RICARDO recebeu o redutor ora buscado na condenação anterior por tráfico e demonstrou sua insuficiência ao cometer novo crime idêntico.
+O regime inicial fechado era mesmo necessário, considerando a hediondez do crime, a reincidência específica e as circunstâncias do caso concreto, a exemplo da variedade e lesividade das drogas apreendidas. (fls. 306/307)
+O Plenário do STF, no dia 27 de junho de 2012, ao julgar o HC n. 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com a redação que lhe foi dada pela Lei n. 11.464/07, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Assim, o regime prisional, nesses casos, deverá ser fixado em obediência ao que dispõe o art. 33, §§ 2º e 3º e art. 59, ambos do CP.
+Por outro lado, firmou-se neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do CP ou em outra situação que demonstre efetivamente um plus na gravidade do delito. Nesse sentido, foi elaborado o enunciado n. 440 da Súmula desta Corte, bem como os enunciados n.718 e 719 da Súmula do STF.
+Na hipótese dos autos, não há falar em flagrante ilegalidade na fixação do regime prisional fechado. Isso porque a pena foi estabelecida em patamar superior à 4 anos e o paciente é reincidente.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECUSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. REGIME INICIAL SEMIABERTO. IMPOSSIBILIDADE. PENA SUPERIOR A 4 (QUATRO) ANOS. RÉU REINCIDENTE. REGIME FECHADO ADEQUADO. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Os requisitos para a imposição do regime semiaberto, constam no art. 33, § 2º, alínea b, e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período superior a 4 (quatro) anos e inferior a 8 (oito) anos, bem como a inexistência de circunstâncias judiciais desfavoráveis.
+III - Sendo o paciente reincidente e fixada a pena em 5 (cinco) anos e 10 (dez) meses de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, alínea b, do Código Penal, ainda que a pena-base tenha sido fixada no mínimo legal, a manutenção do regime mais gravoso do que o cabível pelo quantum de pena imposta justifica-se na reincidência do paciente.
+Habeas Corpus não conhecido. (HC 434.946/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado 05/04/2018, DJE 10/04/2018)
+HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. AFERIÇÃO SOBRE A CONFIGURAÇÃO DO CRIME DE TRÁFICO. ANÁLISE DESCABIDA NA VIA ELEITA. PENA SUPERIOR A 4 ANOS. PACIENTE REINCIDENTE. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CONHECIMENTO EM PARTE E, NESSA EXTENSÃO, DENEGADO.
+1. É inviável a apreciação dos pleitos absolutório ou de desclassificação para o delito do art. 28 da Lei n. 11.343/2006, por ser incabível, na via estreita do habeas corpus, a análise de questões que demandem o reexame do conjunto fático-probatório dos autos.
+2. Na espécie, tendo a reprimenda final alcançado 5 anos e 10 meses de reclusão, e tratando-se de réu reincidente, inviável a fixação do regime semiaberto, nos termos do art. 33, § 2.º, alínea b, do Código Penal.
+3. Habeas corpus conhecido em parte e, nessa extensão, denegado. (HC 458.877/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/10/2018, DJe 19/10/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
