@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por [NOME], fundada no art. 966 do CPC/2015, em que pretendem desconstituir a coisa julgada formada pelo acórdão proferido nos autos da ação n. 0508149-25.2016.4.05.8201 e obter o reconhecimento de tempo de serviço especial e a respectiva aposentadoria.
+O acórdão rescindendo é da lavra da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba, que negou provimento ao recurso da parte autora (e-STJ fls. 25/26).
+Passo a decidir.
+Conforme disposto no art. 105, inciso I, alínea "e", da Constituição Federal, ao Superior Tribunal de Justiça competente para julgar originariamente as as revisões criminais e ações rescisórias de seus próprios julgados.
+Na hipótese, considerando que inexistiu qualquer recurso dirigido e apreciado por esta Corte, na medida em que se observa que a pretensão de rescindir julgado proferido por Juizado Especial Federal, é mister reconhecer a incompetência do Superior Tribunal de Justiça para processar e julgar a presente ação.
+Incide, por analogia, a Súmula 515 do STF, segundo a qual "a competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO FEDERAL. ART. 485, IV, DO CÓDIGO DE PROCESSO CIVIL. OFENSA A COISA JULGADA. EX-COMBATENTE. ACÓRDÃO RESCINDENDO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA EM RAZÃO DA APLICABILIDADE DA SÚMULA 7/STJ. INCOMPETÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 515/STF. PEDIDO SUBSIDIÁRIO. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. IMPOSSIBILIDADE. INICIAL QUE SE INSURGE CONTRA ACÓRDÃO EQUIVOCADO. PRECEDENTES. AÇÃO RESCISÓRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+1. Não tendo havido o exame do mérito pelo STJ, na medida que o acórdão rescindendo limitou-se a aplicar o óbice da Súmula 7/STJ, patente é a sua incompetência para processar e julgar a presente demanda rescisória, a qual deve se voltar contra o acórdão do Tribunal Regional. Incidência da Súmula 515/STF.
+2. O pedido subsidiário não merece acolhida, porquanto o STJ perfilha entendimento no sentido de que, proposta equivocadamente a rescisória, é incabível a remessa dos autos ao juízo competente, na medida em que a inicial se insurge contra acórdão equivocado, caso em que não poderia o relator corrigir o mérito do pedido.
+3. Ação rescisória extinta sem resolução de mérito (AR 4.515/RN, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 19/03/2015) (Grifos acrescidos).
+AGRAVO REGIMENTAL EM AÇÃO RESCISÓRIA. SUPERIOR TRIBUNAL DE JUSTIÇA. COMPETÊNCIA. ART. 105, I, e, CF. RESCISÃO DE SEUS PRÓPRIOS JULGADOS. JULGADO DE JUIZADOS ESPECIAIS. INCOMPETÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as ações rescisórias de seus próprios julgados.
+2. Na espécie, imperioso o reconhecimento da incompetência desta Corte Superior, na medida em que se pretende a rescisão de julgado oriundo de Turma Recursal de Juizado Especial, razão pela qual se confirma a extinção do processo, sem resolução de mérito, consoante o disposto no art. 267, IV, do CPC.
+3. Agravo regimental improvido.
+(AgRg na AR 5.619/PI, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/09/2015, DJe 15/09/2015) (Grifos acrescidos).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. SERVIDOR
+PÚBLICO. FUNÇÃO COMISSIONADA. ÍNDICE DE 28,86%. COMPENSAÇÃO COM REAJUSTE CONCEDIDO COM BASE NA LEI N. 8.627/1993. MATÉRIA NÃO DECIDIDA PELA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 515 DO STF.
+1. Considerando que as causas de desconstituição do julgado apontadas na exordial, relativas à violação de literal disposição de lei e ao erro de fato, se existentes, não surgiram no julgamento do recurso especial, mas por ocasião da apreciação da apelação pelo Tribunal Regional, é de se reconhecer a incompetência do Superior Tribunal de Justiça para julgar a ação rescisória.
+2. Na espécie, a decisão desta Corte Superior restringiu-se a negar seguimento ao recurso especial ao fundamento de que o acórdão recorrido observou a jurisprudência do STJ, de que o índice de 28, 86% também alcança as funções comissionadas ou gratificadas. Nada decidiu sobre a causa de pedir ora invocada, a de que a requerente teria sido beneficiada com reajuste que deveria ser compensado com o aludido percentual assegurado pela sentença coletiva.
+3. Incide, por analogia, a Súmula 515 do STF: "A competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório."
+4. Agravo regimental não provido. (AgRg na AR 4441/RS, de minha relatoria, TERCEIRA SEÇÃO, DJe 09/09/2015) (Grifos acrescidos).
+Cabe acentuar a inaplicabilidade dos arts. 321 e 968, § 5º, II, do CPC/2015, diante da disciplina do art. 59 da Lei n. 9.099/1995, segundo a qual "não se admitirá ação rescisória nas causas sujeitas ao procedimento instituído por esta Lei".
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido.
+Publique-se e intimem-se.
