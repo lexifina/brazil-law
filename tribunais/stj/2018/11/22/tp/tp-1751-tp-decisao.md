@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de petição formulada pela CAMARGO DIAS IMÓVEIS LTDA-ME visando a revogação da tutela provisória de urgência.
+Afirma, em síntese, que (a) a suspensão do leilão causou "sérios prejuízos a ora agravada, visto essa demanda estar tramitando há mais de 20 (vinte) anos junto ao Foro Central da Capital de São Paulo, sendo que as executadas utilizaram-se de todos os meios de recursos sendo derrotadas em 100% deles até a presente data, portanto restando evidências de mero efeito procrastinatório", (b) a "requerida (agravante) possui vários outros imóveis em seu patrimônio"; (c) o acórdão recorrido não merece reparos; e (d) o recurso especial interposto não demonstrou a alegada vulneração ao art. 966, caput, § 2º, do CPC, pois "a simples referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à Lei Federal não é suficiente para o conhecimento do recurso especial". Ao final, requer, alternativamente, a aplicação do disposto no art. 300, § 1º, do CPC.
+É o relatório. Decido.
+Em que pese os argumentos expostos, o efeito suspensivo concedido ao agravo em recurso especial deve ser mantido.
+Isso porque, como esclarecido na decisão anterior, a tutela de urgência foi concedida, pois presentes os elementos que evidenciam a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Relativamente à probabilidade do direito alegado, o recurso especial demonstrou, ao contrário do que alega a peticionante, a probabilidade do acórdão recorrido ter violado o disposto no art. 966, caput, do CPC, pois, em juízo perfunctório, é possível inferir o cabimento da ação rescisória visando a desconstituir decisão judicial definitiva de mérito transitada em julgado, independentemente do esgotamento da via recursal.
+Trata-se de matéria eminentemente de direito, cognoscível sem a necessidade de revolvimento do conjunto fático-probatório dos autos originários.
+Com relação à alegada ausência do periculum in mora, a ora peticionária se limitou a tecer considerações genéricas, sem qualquer comprovação, no sentido de que a suspensão do leilão eletrônico causou prejuízo à exequente e que a executada possui vários outros imóveis.
+Ora, a determinação de suspensão do leilão eletrônico serviu, tão-somente, para evitar possível prejuízo ou dano de difícil reparação à parte executada, GGBA AGROPECUÁRIA S/A, considerando a sua deficitária situação financeira, o montante da dívida executada, bem assim por constatar que os imóveis penhorados servem de sede do seu estabelecimento empresarial.
+Por fim, com relação ao pedido de prestação de caução como condição para a concessão da tutela de urgência, esclareço que essa exigência não é automática e deve sempre obedecer às particularidades do caso concreto.
+Assim, considerando que (a) o direito alegado é desde logo muito provável, (b) a determinação de suspensão do leilão eletrônico não impede a reversibilidade ao estado anterior e que, a princípio, (c) a parte executada é hipossuficiente, não é o caso de se exigir caução.
+Diante do exposto, indefiro o pedido.
+Intime-se.
