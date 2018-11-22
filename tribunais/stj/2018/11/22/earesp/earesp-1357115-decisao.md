@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, e de agravo interposto por JOSE [NOME] [NOME] - ESPÓLIO, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VERBA HONORÁRIA ESTABELECIDA EM SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 20, §4º, DO CPC/1973. FAZENDA PÚBLICA VENCIDA. APLICAÇÃO DO LIMITE MÍNIMO DO ART. 20, § 3º, DO CPC/1973. COMPETÊNCIA DO TRF. IMPOSSIBILIDADE DE CISÃO DO TRÂNSITO EM JULGADO POR CAPÍTULOS. PRAZO DECADENCIAL CONTADO DO TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA. PEDIDO PROCEDENTE.
+1. Ação rescisória fundada em violação a literal disposição de lei (art. 485, inc. V, CPC), ao argumentando que a decisão rescindenda, ao fixar os honorários de sucumbência em desfavor da Fazenda Pública vencida, não observou o disposto no art. 20, § 4, do CPC/1973.
+2. Competência. Ainda que a ação tenha sido apreciada em seu mérito em sede de Recurso Especial nº 1.087.665, pelo Superior Tribunal de Justiça, o capítulo relacionado aos honorários advocatícios que o Autor busca rescindir na presente ação, não foi objeto do referido recurso.
+3. Decadência, inocorrência. A ação originária transitou em julgado aos 05.11.2010, sendo que a presente rescisória foi proposta em 04.10.2012, antes, portanto, do decurso do prazo decadencial.
+4. É assente na jurisprudência a inadmissibilidade de cisão do trânsito em julgado para cada capítulo decisório, gerando coisas julgadas em momentos distintos em uma mesma ação. Precedente STJ.
+5. Injustiça da decisão. Não se trata de discussão acerca de justiça ou injustiça da decisão, mas sim a aplicação das normas legais relacionadas à fixação de honorários de sucumbência em condenação imposta à Fazenda Pública. Ação rescisória admitida.
+6. A jurisprudência emanada do Colendo Superior Tribunal de Justiça e desta Egrégia Corte Regional, vem admitindo a ação rescisória nos casos em que, vencida a fazenda pública, a verba honorária não tenha sido fixada nos termos do artigo 20, §4º, do Código de Processo Civil, sob o fundamento de violação literal de disposição de lei. Precedentes.
+7. A fixação dos honorários não atentou ao disposto no § 4º, do art. 20, do CPC/1973, o qual determina que, sendo a Fazenda Pública vencida, os honorários serão estabelecidos em "apreciação equitativa", observando-se as disposições das alíneas "a", "b" e "c", do §3º, do mesmo artigo 20.
+8. Inexiste fórmula única para o estabelecimento dos honorários advocatícios nos casos de condenação imposta à Fazenda Pública, que se orienta por critério de equidade. Porém, a decisão, objeto desta ação, não expôs as razões pelas quais fixava a condenação em verba honorária em 10% do valor da condenação.
+9. Denota-se que a fixação do valor dos honorários em 10% do valor da condenação, considerando que são 60 (sessenta) autores e que o valor da condenação, conforme comprova o autor com documentos relativos a processo de idêntico conteúdo envolvendo outros servidores do mesmo órgão (fls. 265/378), varia entre duzentos e quinhentos mil reais para cada autor, tem-se que a fixação dos honorários não observou o critério equitativo, estabelecido no §4º, do art. 20, do CPC/1973.
+10. Preliminares de decadência e de não cabimento da ação rejeitadas.
+11. Caracterizada a violação à literal disposição legal. Ação rescisória que se julga procedente para em juízo rescindendo, desconstituir parcialmente o julgado proferido nos autos do processo nº 0036552- 95.1988.403.6100, no capítulo relativo à fixação dos honorários advocatícios.
+12. Prosseguindo no julgamento, em juízo rescisório, fixar os honorários de sucumbência em R$ 2.000,00 (dois mil reais) para cada autor da ação originária, totalizando R$ 120.000,00 (cento e vinte mil reais).
+13. Em consequência da sucumbência deste processo, condena-se os réus ao pagamento das custas processuais e dos honorários advocatícios que fixo, equitativamente, em R$ 3.000,00 (três mil reais).
+Foram rejeitados os embargos declaratórios opostos.
+Na origem, trata-se de ação rescisória proposta pelo Instituto Nacional do Seguro Social - INSS em face de [NOME] e Espólio de [NOME], objetivando desconstituir decisum proferido nos autos de ação ordinária, processo nº 88.0036552-3, que julgou procedente a ação para condenar o extinto IAPAS - Instituto de Administração Financeira da Previdência e Assistência Social - a pagar aos autores as diferenças entre a remuneração recebida e a remuneração do funcionário de grau e padrão equivalente na carreira da auditoria fiscal desde o mês correspondente aos cinco anos imediatamente anteriores à propositura da ação até 31 de maio de 1992. Houve, ainda, fixação dos honorários advocatícios em 10% do valor da condenação.
+Deu-se, à causa, o valor de R$ 100.000,00 (cem mil reais).
+O Recurso Especial de Paulo Roberto [NOME] aponta violação ao artigo 1.022, II, do CPC/15; e, quanto ao mérito, aponta violação aos artigos 20 e 485, V, do CPC/73, pugnando, em síntese, pela inadmissão da ação rescisória e, alternativamente, para que seja mantida a verba honorária fixada no julgado rescindendo. Aduz divergência jurisprudencial relativamente à verba controvertida.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base nas Súmulas nº 7/STJ e 284/STF.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+O Recurso Especial do Espólio de [NOME] apontou violação aos artigos 495 e 485, V, do CPC/73, ao argumento de decadência e descabimento da ação rescisória; e, no mérito, aduz violação ao artigo 20, § 4º, do CPC/73, pugnando pela majoração dos honorários advocatícios fixados no julgado rescindendo.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na Súmula nº 7/STJ.
+No presente agravo, o recorrente limita-se a reiterar os argumentos expendidos em recurso especial.
+Parecer do MPF pelo não conhecimento do recurso de [NOME] - Espólio e pelo improvimento do recurso de [NOME].
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+AGRAVO EM RECURSO ESPECIAL DE [NOME] [NOME] [NOME] - ESPÓLIO
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente as razões de inadmissão do recurso especial, mormente a incidência da Súmula nº 7/STJ, o que impediria a análise do pleito especial.
+Por outro lado, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+Desse modo, não deve ser conhecido o presente agravo em recurso especial.
+AGRAVO EM RECURSO ESPECIAL DE PAULO ROBERTO [NOME]
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Sobre a alegada violação do art 535 do CPC/1973 (art. 1.022 do CPC/2015), por suposta omissão pelo Tribunal de origem da análise da questão acerca do fato de que o objeto da rescisória não seria questão controversa, uma vez que a parte ora Recorrida teria quedado inerte quanto aos critérios de arbitramento da verba honorária, tenho que não assiste razão ao recorrente.
+Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1.498.690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017, DJe 20/3/2017).
+Quanto à alegada violação ao art. 485, V, do CPC/73, ao argumento de que seria incabível a presente ação rescisória porquanto a parte recorrida teria ficado inerte quanto aos critérios de arbitramento dos honorários, verifica-se que tal dispositivo apontado como contrariado não ampara a tese trazida pelo Recorrente.
+O artigo 485, V, do CPC/73 trazia a seguinte redação:
+Art. 485. A sentença de mérito, transitada em julgado, pode ser rescindida quando:
+(..)
+V - violar literal disposição de lei;
+Como se vê, não trata da irresignação ou não da parte no momento da violação, mas somente se a ofensa ocorre ou não.
+Incide, à hipótese, a Súmula nº 284/STF por analogia.
+No mais, tem-se que o redimensionamento de verba honorária exige o revolvimento de fatos e provas dos autos, providência esta vedada no especial, em virtude do óbice do enunciado nº 7 da Súmula do STJ, compreensão relativizada apenas quando o valor fixado se mostrar irrisório ou exorbitante, o que não se verifica na hipótese dos autos.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. MAJORAÇÃO DO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS NA SENTENÇA SOB A ÉGIDE DO CPC/1973. IMPOSSIBILIDADE. IRRISORIEDADE NÃO CARACTERIZADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. 2. HONORÁRIOS RECURSAIS. MAJORAÇÃO EM AGRAVO INTERNO. NÃO CABIMENTO. 3. AGRAVO IMPROVIDO.
+1. O redimensionamento de verba honorária exige o revolvimento de fatos e provas dos autos, providência esta vedada no especial, em virtude do óbice do enunciado n. 7 da Súmula do STJ, compreensão relativizada apenas quando o valor fixado se mostrar irrisório ou exorbitante, o que não se verifica na hipótese dos autos.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1250073/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/05/2018, DJe 18/05/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo de [NOME] - ESPÓLIO, e; com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial de PAULO ROBERTO [NOME] e, nessa parte, negar-lhe provimento.
+Publique-se. Intime-se.
