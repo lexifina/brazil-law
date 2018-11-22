@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial manejado por MARIA APARECIDA CARRIEL RAIMUNDO CARDOSO E JOÃO RAIMUNO JUNIOR, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Opostos embargos de declaração, foram rejeitados (fl. 211).
+Apontam os recorrentes violação aos arts. 165, 461, § 6º, 535, II, 632 e 644 do CPC/73, sustentando, além de negativa de prestação jurisdicional, ser cabível a aplicação de multa diária, pois os documentos contidos nos autos dão conta de que o INSS não implantou o benefício dentro do prazo determinado.
+Afirma que "a autora da ação faleceu sem que a Autarquia implantasse o valor devido, de cunho nitidamente alimentar, apesar da ordem judicial havida nos autos para tanto. Assim deve ser computada multa diária até a data do óbito da autora originária" (fl. 224).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A seguir verifica-se, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, o Tribunal de origem, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 173/174):
+Discute-se nestes autos o indeferimento do pedido de fixação de multa diária pelo atraso no cumprimento de decisão judicial.
+Nos termos do artigo 461, § 4º, do Código de Processo Civil, é facultado ao Juiz aplicar multa cominatória para compelir o Réu a cumprir a obrigação determinada na decisão. Tal multa, também denominada astreintes, não tem caráter de sanção, mas visa à coerção psicológica para o cumprimento da obrigação.
+A doutrina é unânime e pacífica em reconhecer que não há qualquer caráter punitivo, senão puramente de constrangimento à colaboração com a execução das decisões liminares ou definitivas de conteúdo mandamental. Tanto é assim que, caso cumprida a ordem, deixa de ser devida.
+Frise-se que a imposição pecuniária prevista no § 4o, do art. 461 do Código de Processo Civil, conhecida como "astreintes", tem natureza intimidatória, cujo escopo é o de fazer com que o réu se comporte de forma determinada.
+(..).
+No mesmo sentido, a Lei Processual Civil é clara ao determinar que a multa cominatória não consiste em indenização. Reporto-me ao disposto no § 2o do art. 461 do Código de Processo Civil.
+(..).
+Assim, a multa, denominada astreintes, não tem a natureza de sanção, mas visa à coerção indireta para o cumprimento da obrigação. A sua função é vencer a obstinação do devedor ao cumprimento da obrigação, e incide a partir da ciência do obrigado e da sua recalcitrância.
+No caso, não há que se falar em fixação de multa pelo descumprimento da obrigação, neste momento, na medida em que a função da multa é exclusivamente intimidatória e, na hipótese, não há mais obrigação de implantar o benefício, pois a autora já faleceu.
+Ademais, entendo impossível a cobrança da multa diária retroativamente, desde a data do descumprimento da ordem determinada. A imposição efetiva da multa diária só ocorre após a fixação de seu valor e ciência ao réu, sob pena de se descaracterizar a sua natureza coercitiva.
+Ao que se observa, no presente caso, o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, quais sejam, No caso, não há que se falar em fixação de multa pelo descumprimento da obrigação, neste momento, na medida em que a função da multa é exclusivamente intimidatória e, na hipótese, não há mais obrigação de implantar o benefício, pois a autora já faleceu. Ademais, entendo impossível a cobrança da multa diária retroativamente, desde a data do descumprimento da ordem determinada. A imposição efetiva da multa diária só ocorre após a fixação de seu valor e ciência ao réu, sob pena de se descaracterizar a sua natureza coercitiva.
+A irresignação, portanto, esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
