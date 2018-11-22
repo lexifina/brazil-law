@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por [NOME] MOTTA em virtude de decisão da Presidência do Superior Tribunal de Justiça, às fls. 243-244 (e-STJ), que não conheceu do agravo em recurso especial, porquanto a agravante absteve-se de impugnar os fundamentos da decisão agravada, a qual foi proferida nos seguintes termos:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF e Súmula 283/STF.
+Entretanto, a parte Agravante deixou de impugnar especificamente os referidos fundamentos.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Nas razões do agravo interno, a agravante faz uma síntese da demanda e insiste nas violações apontadas no recurso especial.
+CONFEDERAÇÃO NACIONAL DOS DIRIGENTES LOJISTAS (SPC BRASIL) apresentou impugnação, às fls. 277-291 (e-STJ), em que sustenta a manutenção da decisão agravada e a confirmação das deficiências apontadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Inicialmente, cumpre transcrever o acórdão proferido pela Vigésima Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, à fl.141, assim ementado:
+Agravo interno em apelação cível. Registro de nome em órgãos de sistema de crédito. Ação de cancelamento. Requisitos da petição recursal. Sentença terminativa por ilegitimidade passiva. Recurso repetindo a petição inicial.
+Exige-se do recurso de apelação razões de fato e de direito que justifiquem o pedido de nova decisão, sendo indispensável impugnar a sentença recorrida de forma específica e objetiva, que contrariem seus fundamentos de fato e de direito.
+É inviável apelação que argumenta pela procedência do pedido, repetindo as alegações da petição inicial, sem impugnar o fundamento da sentença terminativa por ilegitimidade passiva.
+Incumbe ao agravante impugnar a decisão do Relator especificadamente, sendo manifestamente insuficiente e inepto copiar as alegações da petição inicial do agravo de instrumento, superadas pela decisão de Relator. Agravo interno a que se denega provimento.
+A irresignação não merece prosperar.
+Verifica-se que a parte agravante não refutou nenhum dos fundamentos da decisão agravada (Súmula 284/STF e Súmula 283/STF), limitando-se a reeditar as mesmas argumentações expostas no recurso especial.
+O enunciado 182 da Súmula do STJ, contudo, refere-se à impugnação precisa de todas as razões da decisão impugnada, pois, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos pelo art. 1.021, § 1º, do Código de Processo Civil/2015.
+Assim:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 968.815/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2017, DJe 10/02/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o não conhecimento do agravo em recurso especial por ter sido apresentado em desacordo com os requisitos do art. 544, § 4º, I, do CPC/73. Incidência da Súmula nº 182 do STJ e violação do art. 1021, § 1º, do NCPC.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 878.403/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/06/2016, DJe 23/06/2016)
+PREVIDENCIÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO ADOTADO PELA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada, incidindo, portanto, a Súmula 182/STJ, que tem supedâneo nos arts. 932, III, e 1021, § 1º, do CPC/2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1003302/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/02/2017, DJe 07/03/2017)
+Em face do exposto, não conheço do agravo interno.
+É como voto.
