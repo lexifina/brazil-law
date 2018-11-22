@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Roubo tentado. Alegação de nulidades. Condenação transitada em julgado. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que negou o HC 440.830, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 anos, 6 meses e 15 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, § 2º, I, II e V, c/c o art. 14, II, do Código Penal.
+    3. Irresignada, a defesa apelou. O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator, Ministro Nefi Cordeiro, conheceu em parte o habeas corpus e, nessa extensão, denegou a ordem.
+    5. De próprio punho, o impetrante aponta cerceamento de defesa, tendo em vista que a suposta vítima não compareceu na audiência de instrução e jamais foi ouvida em juízo; requer a anulação da pena ou da sentença condenatória e de todos os seus efeitos; ou até mesmo o trancamento definitivo da ação penal, em face dos vícios e nulidades.
+    Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    7. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    8. Ademais, o Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski). No caso, a página oficial do Tribunal de Justiça do Estado de São Paulo na internet dá conta de que sobreveio o trânsito em julgado da condenação em 26.03.2018.
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    10. Determino, contudo, o envio de cópia integral do pedido à Defensoria Pública de São Paulo.
+    Publique-se.
+    Brasília, 22 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
