@@ -1,0 +1,14 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE MÉRITO PROLATADA E TRANSITA EM JULGADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA JULGAR PREJUDICADO O AGRAVO EM RECURSO ESPECIAL, ANTE A PERDA SUPERVENIENTE DE OBJETO.
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Sindicato dos Servidores Públicos Federais - Estado de Mato Grosso do Sul contra decisão, assim ementada (fl. 321, e-STJ):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Alega: (a) que incabível a majoração dos honorários advocatícios, pois não foi fixado honorárias nas instâncias ordinárias; (b) houve a perda superveniente de objeto, tendo em vista que foi prolatada sentença de mérito.
+É o relatório. Decido.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que a decisão embargada não conheceu do agravo em recurso especial ante a ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+À margem do alegado pelo embargante, não se vislumbra qualquer omissão, contradição, obscuridade ou erro material. Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No entanto, faz-se necessário e oportuno um esclarecimento. Consta da decisão embargada que "tendo sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias e publicado o acórdão que originou o recurso especial na vigência do CPC/2015, majoro em 10% os honorários advocatícios". Assim, como se trata originariamente de agravo de instrumento, no qual não há fixação de honorários sucumbenciais, não há que se falar, consequentemente, de majoração em virtude de honorários recursais.
+Quanto à perda de objeto, questão aduzida somente por ocasião dos presentes aclaratórios, em consulta ao sítio eletrônico do TRF3, verifica-se que em 19/4/2017 foi prolatada sentença de mérito, na qual o pedido foi julgado procedente. Posteriormente, em 20/2/2018 negou-se provimento à apelação do ora embargado, mantendo a procedência da pretensão. Em 26/3/2018, houve o trânsito em julgado. Com razão, portanto, o embargante.
+Ante o exposto, acolho os embargos declaração, com efeitos infringentes, a fim de julgar prejudicado o agravo em recurso especial, em virtude da superveniente perda de objeto .
+Publique-se. Intimem-se.
