@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — CONSELHO PROFISSIONAL — AUTARQUIA — REGIME JURÍDICO DE PESSOAL — SERVIDOR PÚBLICO — NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 3ª Região, reformando o entendimento do Juízo, julgou procedente o pedido de reintegração. No extraordinário, o recorrente aponta violados o artigo 39 da Constituição Federal e 19 do Ato das Disposições Constitucionais Transitórias. Alega não ter o Supremo, na ação direta de inconstitucionalidade nº 1.717-6, definido qual o regime jurídico de pessoal aplicável aos conselhos profissionais.
+    2. Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. CONSTITUCIONAL. APELAÇÃO. SERVIDOR PÚBLICO. CELETISTA. CONSELHO PROFISSIONAL. AUTARQUIA. ARTIGO 19 DO ADCT E 39 DA CF. ESTABILIDADE. DEMISSÃO ARBITRÁRIA. NULIDADE DA DECISÃO. PAGAMENTO DE VALORES DEVIDOS. EFEITOS PRETÉRITOS. JUROS E CORREÇÃO MONETÁRIA.
+    1. Os Conselhos Profissionais são autarquias, conforme já positivou o Supremo Tribunal Federal na ADIN 1717-6/DF e no MS 22.643-9/SC.
+    2. Como autarquias, seu pessoal foi colhido pelo disposto no art. 19 do ADCT, que conferiu estabilidade no serviço público, a partir da promulgação da Constituição, àqueles que já exercessem suas funções nas autarquias, fundações públicas e na administração direta há cinco anos.
+    3. Tendo a apelante ingressado no CREA em 1983, é beneficiária da regra do artigo 19 do ADCT, tendo alcançado, a partir da Constituição, a estabilidade.
+    4. Inegável a inconstitucionalidade da despedida imotivada. Como servidora pública estável, só poderia ser demitida por falta grave, mediante processo administrativo, com ampla defesa e contraditório.
+    5. Provimento ao apelo para anular a decisão que demitiu a servidora dos quadros da autarquia, com os respectivos pagamentos de valores devidos, conforme pleiteado na inicial. Pois, a decretação de nulidade tem efeitos pretéritos.
+    6. A correção monetária deve seguir os parâmetros fornecidos pela Resolução 134, de 21 de dezembro de 2010, do Conselho da Justiça Federal; quanto aos juros moratórios, contados a partir da citação, aplica-se a taxa mensal de 0,5%, nos termos do Código Civil revogado; a contar do novo Código Civil, a taxa Selic.
+    7. Não pode incidir a restrição imposta pela Medida Provisória 2.180-35, de 25.08.2001, a qual acrescentou o artigo 1º-f à lei 9.494/97, na medida em que a ação foi proposta antes daquela (entendimento do STJ, acompanhado por julgados dos TRFs: ex: TRF3ª - APELREE 200361000215950, Juiz Henrique Herkenhoff - segunda turma, 08/10/2009; TRF2ª - APELRE 200450010096608, Desembargadora Federal Liliane Roriz, - segunda turma especializada, 30/04/2010)
+    8. Apelação provida.
+    A decisão impugnada está em consonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. CONSELHO PROFISSIONAL DE FISCALIZAÇÃO. DISPENSA IMOTIVADA. IMPOSSIBILIDADE. PRECEDENTES. O Supremo Tribunal Federal já assentou a necessidade de prévio procedimento administrativo para a demissão de servidor de órgãos de fiscalização profissional, tendo em vista que são entidades dotadas de personalidade jurídica de direito público. Precedentes. Agravo regimental a que se nega provimento. (agravo regimental no recurso extraordinário nº 683.010, relatado pelo ministro Roberto Barroso na Primeira Turma, acórdão publicado no Diário da Justiça de 27 de agosto de 2014).
+    Agravo regimental no recurso extraordinário. Conselhos de fiscalização profissional. Natureza de autarquia. Servidor. Estabilidade. Precedentes. 1. É pacífica a jurisprudência desta Corte de que os conselhos de fiscalização profissional têm natureza jurídica de autarquia e aos seus servidores se aplicam os artigos 41 da Constituição Federal e 19 do Ato das Disposições Constitucionais Transitórias, motivo pelo qual não podem ser demitidos sem a prévia instauração de processo administrativo. 2. Agravo regimental não provido. (agravo regimental no recurso extraordinário nº 838.648, relatado pelo ministro Dias Toffoli na Segunda Turma, acórdão publicado no Diário da Justiça de 26 de maio de 2015).
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 22 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
