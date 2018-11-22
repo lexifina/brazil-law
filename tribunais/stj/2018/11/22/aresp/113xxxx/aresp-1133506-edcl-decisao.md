@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração interpostos por GUIDO MENEGHELLI, autuado como expediente avulso, contra a decisão monocrática de fls. 547-549, e-STJ, que não acolheu os aclaratórios opostos pelo ora insurgente.
+Certidão de trânsito em julgado acostada à fl. 552, e-STJ.
+Nas razões dos embargos (fls. 3-7 - expediente avulso, e-STJ), o embargante sustenta que houve contradição na decisão embargada, ao argumento de que pretende apenas a declaração de aplicabilidade ou não dos dispositivos tidos por violados, providência que "não demanda qualquer revolvimento fático-probatório dos autos e, portanto, não há que se falar em Súmula 7 do STJ, pois não cabe ao presente caso" (fl. 4 - expediente avulso, e-STJ).
+É o relatório.
+Decido.
+O presente recurso sequer ultrapassa o juízo de admissibilidade.
+1. Conforme se extrai dos autos, a decisão embargada foi considerada publicada em 22/09/2017 (sexta-feira), iniciando-se o prazo recursal de 5 (cinco) dias úteis em 25/09/2017 (segunda-feira), com encerramento em 29/09/2017 (sexta-feira).
+Todavia, a petição de embargos de declaração somente foi recebida no Superior Tribunal de Justiça em 22/10/2018, conforme protocolo de fl. 3, e-STJ - expediente avulso, após a aposição do trânsito em julgado (certificado à fl. 552, e-STJ), sendo, portanto, intempestivo o recurso, no termo do artigo 1.023 do Código de Processo Civil de 2015. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. INTEMPESTIVIDADE EVIDENCIADA. 1. São intempestivos os embargos declaratórios opostos fora do prazo legal, como previsto no art. 1.023 do CPC/2015. 2. Embargos de declaração não conhecidos. (EDcl nos EREsp 1445382/CE, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 07/06/2017, DJe 14/06/2017)  grifou-se
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACLARATÓRIOS INTEMPESTIVOS. INTUITO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.026, § 2º, DO NCPC E MAJORAÇÃO DOS HONORÁRIOS RECURSAIS COM BASE NO ART. 85, § 11º, DO NCPC. EMBARGOS NÃO CONHECIDOS.  ..  2. Os presentes embargos declaratórios não merecem ser conhecidos, pois opostos fora do prazo de 5 dias, conforme previsto no art. 1.023, caput, c/c o art. 219, caput, do NCPC.
+ ..  4. Embargos de declaração não conhecidos, com imposição de multa e majoração da verba honorária. (EDcl no AgInt no AREsp 915.418/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 23/02/2017)  grifou-se
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ARTS. 219, 224 e 1.023 DO CPC/2015. NÃO CONHECIMENTO. 1. O prazo para a oposição de embargos de declaração é de 5 (cinco) dias úteis, a teor do que dispõem os arts. 219, 224, caput e § 3º, e 1.023 do CPC/2015, ressalvadas as hipóteses de ampliação do prazo recursal. 2. No caso concreto, os aclaratórios foram opostos após o transcurso do prazo legal, portanto, são intempestivos. 3. Embargos de declaração não conhecidos. (EDcl no AgInt no AREsp 864.251/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2016, DJe 22/08/2016)  grifou-se
+2. Do exposto, não conheço dos presentes embargos de declaração, determinando a baixa dos autos à origem.
+Publique-se.
+Intimem-se.
