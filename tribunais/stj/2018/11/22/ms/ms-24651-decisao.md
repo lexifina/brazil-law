@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por TEREZA ALCICI DE SOUZA, no qual aponta como autoridades coatoras o Ministro do Desenvolvimento Social, Presidente do INSS, o Ministro do Planejamento, Desenvolvimento e Gestão, o Ministro do Trabalho e Emprego e o Ministro de Estado do Planejamento, Orçamento e Gestão, "os responsáveis pela organização do concurso público no Centro Brasilieiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe),  ..  Fundação Universidade de Brasília (FUB) e o Instituto Nacional de Estudos e Pesquisas Educionais" (e-STJ fl. 4).
+Narra a impetrante que:
+a) prestou concurso público para o cargo de Técnico do Seguro Social, INSS, nível médio, regido pelo Edital n. 1, INSS, de 22/12/2015, para a qual foi aprovada além do número de vagas;
+b) o certame teve seu prazo de validade prorrogado até 5 agosto de 2018;
+c) o INSS informou que não há possibilidade de convocação dos excedentes dos últimos certames, em função da expiração dos prazos legais e que solicitou ao Ministério do Planejamento, Orçamento e Gestão a abertura de um novo concurso público para o preenchimento de 7.888 vagas;
+d) mais de 1.000 servidores se aposentaram, o cargo de Técnico do Seguro Social tem o maior número de pedidos de exoneração.
+Por fim, relata que (e-STJ fls. 8):
+Apesar de ter divulgado um concurso em 2015 com 950 vagas, o INSS conta com um déficit de nada menos que 19.221 servidores. Desse quantitativo, há a carência nos cargos de técnico (12.142), analista (2.299) e perito médico (1.630). O déficit no órgão ainda pode piorar com os 12.043 servidores que estão em vias de se aposentar. Se isso acontecer, conforme já apontou em auditoria o Tribunal de Contas da União (TCU), o INSS deverá divulgar um novo concurso público para reoxigenar o seu quadro de servidores. Os dados citados são do balanço divulgado no ano passado pelo Portal Siape Net, da Secretaria de Gestão de Pessoas e Relações do Trabalho no Serviço Público do Ministério do Planejamento.
+Diante dos fatos, sustenta que está sendo preterida, em patente ofensa ao seu direito de ser nomeada.
+Afirmando que estão presentes os requisitos de urgência, pleiteia o deferimento de liminar, a fim de que seja determinada a sua nomeação e posse no cargo em comento.
+No mérito, requer a confirmação do pleito liminar.
+Passo a decidir.
+Inicialmente, cumpre consignar que o presente writ foi impetrado no Juízo da 13ª Vara Federal Cível da SJMG, o qual, declarando-se incompetente para processar e julgar o feito, remeteu os presentes autos para esta Corte (e-STJ fl. 210).
+Feito tal registro, em sede de mandado de segurança, é indispensável que a prova do direito seja pré-constituída, sendo inviável a dilação probatória. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. OUTORGA DE DELEGAÇÕES DE NOTAS E REGISTRO DO ESTADO DO RIO GRANDE DO SUL. EDITAL 001/2013-CECPODNR. AUSÊNCIA DE DOCUMENTO EXIGIDO PELA NORMA DISCIPLINADORA DO CERTAME. CERTIDÃO DA POLÍCIA CIVIL. SUPOSTA RECUSA DA DELEGACIA EM FORNECÊ-LA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. RECURSO IMPROVIDO.
+I - A jurisprudência desta Corte orienta-se no sentido de que o cabimento de mandado de segurança pressupõe a existência de direito líquido e certo, vale dizer, aquele comprovável mediante prova pré-constituída, o que não ocorreu no caso.
+II - Recurso ordinário improvido. (RMS 54.093/RS, Rel. p/acórdão Min. REGINA HELENA COSTA, Primeira Turma, DJe 18/12/2017). (negritos acrescidos).
+MANDADO DE SEGURANÇA. RÁDIO COMUNITÁRIA. OUTORGA DE PERMISSÃO PARA FUNCIONAMENTO. PEDIDO DEFICIENTE NA SUA IDENTIFICAÇÃO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. EXTINÇÃO DO PROCESSO SEM EXAME DO MÉRITO.
+1. Demonstra-se deficiente o mandado de segurança que não apresenta pedido perfeitamente discernível de forma a deixar claro o objeto da impetração.
+In casu, a impetrante não esclarece qual o ato coator combatido: se a ameaça de lacre ou se a efetivação do mesmo, nem tampouco faz prova pré-constituída de qualquer deles mediante a juntada de documento que demonstre a ameaça feita e/ou a data e prova da concretização do alegado lacre.
+2. Na ação mandamental, a liquidez e certeza do direito devem estar amplamente caracterizadas desde a inicial, o que não acontece no presente caso, em que a parte sequer delimitou de forma precisa, o ato combatido. 3. Extinção do processo sem exame do mérito. (MS 9.646/DF, Rel. Ministro JOSÉ DELGADO, PRIMEIRA SEÇÃO, DJ 28/02/2005, p. 178). (negritos acrescidos).
+Na presente hipótese, verifica-se que, no ato da impetração, não foram juntados aos autos documentos necessários à análise do suposto direito pleiteado - por exemplo: Cópia completa do Edital n. 1, INSS, de 22/12/2015, inclusive do ANEXO IV (onde constam as vagas disponíveis), do resultado final do certame (classificação da impetrante e para qual região mineira), da prorrogação da validade do concurso -, circunstância que inviabiliza o processamento do presente mandamus.
+Ante o exposto, INDEFIRO LIMINARMENTE o pedido, a teor do art. 212 do RISTJ, c/c o art. 10 da Lei n. 12.016/2009.
+Publique-se. Intimem-se.
