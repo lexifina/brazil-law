@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão que negou provimento ao agravo em recurso especial, ao fundamento de que incide o teor da Súmula 83/STJ.
+Sustenta o embargante haver omissão na decisão impugnada, alegando que o Ministério Público Federal a e-STJ Fl.254, opinou pela alteração do regime prisional do semiaberto para o aberto, mesmo considerando o sentenciado reincidente, afastando a aplicação do art. 33, § 2º, "c", em obediência ao princípio da proporcionalidade (fl. 267).
+Impugnação apresentada.
+É o relatório.
+Decido.
+A decisão embargada restou assim proferida:
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 83/STJ.
+Nas razões recursais, sustenta o agravante violação do art. 63 do Código Penal, ao argumento de ser necessária a certidão de antecedentes criminais - CAC - para a comprovação da reincidência, uma vez que a folha de antecedentes criminais - FAC - por ser documento inquisitorial, não submetido ao contraditório, não se presta a tal fim.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento do agravo e parcial provimento do recurso especial.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+A controvérsia posta à debate cinge-se em definir se a folha de antecedentes criminais é documento hábil à comprovação da reincidência, tendo o Tribunal a quo se manifestado nos seguintes termos (fls. 178/179):
+Para fins de verificação dos antecedentes, não é indispensável que os registros constem na CAC do acusado, tendo em vista que a FAC, apesar de não ser documento judicial, é fornecida por órgão oficial (Instituto de Identificação da Polícia Civil), sendo certo que as partes podem contestá-la desde sua juntada aos autos, inexistindo razões para não se dar -crédito às informações nela constantes.
+Portanto, constando na FAC de.fis. 16/30 duas condenações definitivas, transitadas- em julgado em 15/4/2014 ,e 11/3/2013 (processos de nº. 0382.14.000151-4 e 0382.07.071439-1, respectivamente), a segunda também por furto, impõe-se a aplicação da agravante da reincidência, conforme definição dos arts. 63 e 64, ambos do CP.
+Com efeito, o acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que, sendo as folhas de antecedentes criminais documento revestido de fé pública, mostra-se suficiente para o reconhecimento da reincidência, desde que aponte condenação anterior transitada em julgado. Nesse sentido: HC 323.144/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/04/2016, DJe 19/04/2016, HC n. 284910/MS - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 5/9/2014; HC 272.899/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/09/2014, DJe 02/10/2014.
+In casu, conforme consignado no acórdão, constam da FAC duas condenações definitivas, transitadas em julgado 15/4/2014 ,e 11/3/2013 (processos de nº. 0382.14.000151-4 e 0382.07.071439-1, respectivamente), o que evidencia a reincidência do agravante.
+Estando, portanto, o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, nego provimento ao agravo.
+Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do Código de Processo Penal: ambigüidade, obscuridade, contradição ou omissão, hipóteses inexistentes no julgado recorrido.
+Como se verifica, não há, na hipótese, qualquer vício a ser sanado, porque apresentada fundamentação concreta no sentido de que, sendo as folhas de antecedentes criminais documento revestido de fé pública, mostra-se suficiente para o reconhecimento da reincidência, desde que aponte condenação anterior transitada em julgado.
+Observa-se, portanto, que o embargante pretende apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita. A propósito:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 619 DO CPP. REVALORAÇÃO DOS ELEMENTOS CONSTANTES DO ACÓRDÃO IMPUGNADO. POSSIBILIDADE. VIOLAÇÃO DE PRINCÍPIO CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+2. Não se verificando nenhuma das hipóteses anteriores, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos aclaratórios.
+3. "Em habeas corpus, é possível a revaloração jurídica dos fatos delineados pelas instâncias ordinárias" (HC n. 330.938/SP, Rel. Min. GURGEL DE FARIA, Quinta Turma, Dje 10/12/2015).
+4. Não cabe a esta Eg. Corte, ainda que para fins de prequestionamento, analisar ofensa à Constituição Federal, sob pena de usurpação de competência atribuída ao STF. Ademais, a suposta violação ao artigo 5º, LXVIII, da Constituição Federal, depende da prévia análise das normas infraconstitucionais, devidamente aplicadas.
+5. Embargos de declaração rejeitados.
+(EDcl no HC 355.140/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/09/2016, DJe 20/09/2016.)
+Quanto ao regime prisional, não obstante a falta de impugnação no presente recurso, verifica-se ilegalidade flagrante, passível de concessão de habeas corpus, de ofício.
+Considerando a pena inferior a 4 anos de reclusão do delito de furto, bem como a restituição do bem subtraído, fixo o regime aberto, por melhor se adequar ao réu, nos termos do art. 33, §§ 2º e 3º, do CP.
+Oportunamente, como bem ressaltado no parecer ministerial, no caso, o crime de furto, por sua própria natureza, não foi cometido com violência. Além disso, não se verifica a ocorrência de grave prejuízo à vítima, porquanto um dos objetos, aparentemente o de maior valor, foi restituído, conforme termo de restituição constante dos autos, a fls. 25. Nessa linha, a fixação do regime aberto mostra-se suficiente para a retribuição e prevenção do crime, além de contribuir para o não agravamento da situação dos presídios (fls. 276/277).
+Ademais, consignou o Tribunal de origem que o apelado não faz jus à substituição da pena privativa de liberdade por restritiva de direitos, não se mostrando a medida socialmente recomendável (art. 44, II e §3º, CP) (fl. 179), afastando-a apenas por se tratar de réu reincidente.
+Contudo, não foram deduzidos pelas instâncias ordinárias fundamentos concretos a demonstrar que a medida não seja socialmente recomendável e suficiente à prevenção de novos delitos, motivo pelo qual cabível a substituição da pena privativa de liberdade por duas penas restritivas de direitos a serem fixadas pelo Juízo das execuções. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA NA PRÁTICA DE OUTRO CRIME. ART. 44, § 3º, DO CP. APLICABILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DO MOTIVO PELO QUAL A MEDIDA NÃO SERIA SOCIALMENTE RECOMENDÁVEL. COAÇÃO ILEGAL EVIDENCIADA.
+1. Deve ser mantida a decisão monocrática em que não se conhece do writ, substitutivo do recurso adequado, mas se concede ordem de habeas corpus de ofício, para reconhecer o direito do réu à substituição da privativa de liberdade por restritiva de direitos, ante a ausência de fundamentação para a negativa do benefício a acusado reincidente na prática de crime diverso (art. 44, § 3º, do CP) que teve todas as circunstâncias judiciais do art. 59 do Código Penal consideradas favoráveis.
+2. Agravo regimental improvido.
+(AgRg no HC 353.512/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 30/06/2016, DJe 03/08/2016.)
+Ante o exposto, rejeito os embargos de declaração, concedendo habeas corpus, de ofício, para fixar o regime aberto, determinando também a substituição da pena privativa de liberdade por restritivas de direitos a serem fixadas pelo Juízo da execução.
+Publique-se.
+Intimem-se.
