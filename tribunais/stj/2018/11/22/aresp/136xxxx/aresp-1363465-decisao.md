@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA COLETIVA - PRELIMINAR DE COISA JULGADA AFASTADA - RETRIBUIÇÃO DE AÇÕES - EXTRATO SEM RECEBIMENTO DO CREDOR - SEM VALOR PROBATÓRIO - RECURSO CONHECIDO E DESPROVIDO.
+1. Houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento. A decisão agravada, por isso, não ofende a coisa julgada, ficando afastada a preliminar arguida nesse sentido.
+2. Os documentos apresentados pela agravante não comprovam o efetivo recebimento das ações pela parte credora.
+Alegou-se, no especial, violação dos artigos 502, 370, 425, IV, 509, § 4º, e 525 do Código de Processo Civil sob o argumento de desrespeito à coisa julgada, haja vista que os documentos apresentados são suficientes à prova de que o recorrido recebeu ações da agravante.
+Assim delimitada a controvérsia, passo a decidir.
+São incompreensíveis, todavia, as alegações da recorrente, porquanto foi enfático o Tribunal local ao assertar que, embora tenha havido "notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento" (e-STJ, fl. 69) e "que os documentos apresentados pela agravante como prova de recebimento e, inclusive, posterior transferência pela parte credora/agravante, consiste em simples extrato do Banco Santander que, mesmo em conjunto com procuração existente nos autos principais do BNDES à Telebrás S/A, nada prova, se desacompanhado do Certificado de Depósito de Ações (art. 43 da Lei n. 6.404/76) e/ou dos Livros Sociais (art. 100 da Lei n. 6.404/76) ou de qualquer recebimento expresso da parte credora" (e-STJ, fl. 71).
+Assim, concluiu a Corte de origem que, "pela absoluta ausência de comprovação, deve ser tida por não efetuada a quitação de 8.619/8.620 ações a cada contrato" (e-STJ, fl. 71).
+Inequívoco, pois, que incidem as disposições dos verbetes n. 7 da Súmula desta Casa e 284 da Súmula do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
