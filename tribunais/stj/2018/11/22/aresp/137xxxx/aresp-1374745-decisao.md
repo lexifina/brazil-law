@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manejado em adversidade a acórdão do Tribunal de Justiça do Estado da Bahia, ementado nos seguintes termos (e-STJ fl. 207):
+DIREITO PROCESSUAL PENAL. RECURSO, EM SENTIDO ESTRITO. RÉ PRONUNCIADA PELO CRIME PRECÓGNITO, NO ART. 121, CAPUT, C/C ART. 14, II, AMBOS DO CÓDIGO PENAL. DESCLASSIFICAÇÃO DO CRIME, ESTAMPADO NO ART. 121, CAPUT, C/C ART. 14, II, AMBOS DO CP, PARA O DELITO DE LESÃO CORPORAL. INADMISSIBILIDADE. IMPOSSIBILIDADE DE SUBTRAIR A RECORRENTE AO JULGAMENTO PELO TRIBUNAL DO JÚRI, CONSOANTE REGRA DO ARTIGO 5º, INCISO XXXVIII, DA CONSTITUIÇÃO FEDERAL. RECURSO IMPROVIDO.
+I. No caso, sob análise, a materialidade encontra-se evidenciada pelo auto de exibição e apreensão (fl. 76), laudo de exame de lesões corporais (fls. 98/99), bem como pelo laudo de exame pericial da arma branca (fls. 101/102). A autoria delitiva, por seu turno, pode ser vislumbrada, suficientemente, pelas declarações das testemunhas (mídia audiovisual, à fl. 07 dos autos físicos), as quais asseveraram que a recorrente praticou o delito, que lhe foi imputado, havendo, portanto, indícios suficientes, a lastrearem a decisão de pronúncia.
+A pronúncia apresenta-se como a opção jurídica viável, no caso concreto, pois, perlustrando-se os autos, restam, a contento, demonstrados os requisitos, exigidos para tal decisão.
+II. A tese defensiva, concernente à desclassificação do crime de homicídio tentado para o delito de lesão corporal, não restou comprovada, de plano. Consectariamente, deve ser analisada pelo Tribunal do Júri, sob pena de usurpação da competência, constitucionalmente, outorgada a este órgão julgador.
+Em havendo a mínima dúvida, no que tangencia à desclassificação do delito, sob deslinde, há de ser preservada a competência do Tribunal do Júri, para a apreciação da causa, por sinal, erigida em status de dignidade constitucional, em consonância com a norma residente, no art. 5º, XXXVIII, da Lei Maior.
+In casu, os depoimentos prestados, nas fases inquisitorial e judicial, demonstram, inelutavelmente, que a configuração da tese defensória não se configura induvidosa.
+III. Pronunciamento da Procuradoria pelo improvimento do recurso.
+IV. RECURSO IMPROVIDO.
+No recurso especial, fundado na alínea "a" do permissivo constitucional, apontou a defesa violação dos arts. 129 e 121, caput, c/c o art. 14, II, do Código Penal, e dos arts. 419 e 155, do Código de Processo Penal.
+Argumentou, em suma, não haver nos autos a comprovação de que a ré agiu com animus necandi. Pleiteou, assim, pela desclassificação do delito de homicídio tentado para o de lesão corporal.
+Contra-arrazoado (e-STJ fls. 235/243), o Tribunal local negou seguimento ao especial (e-STJ fls. 246/247), em razão da incidência da Súmula n. 7/STJ.
+Em seu agravo (e-STJ fls. 251/259), a recorrente rebate a fundamentação utilizada para negar seguimento ao recurso.
+Foi apresentada contraminuta (e-STJ fls. 263/269).
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 284/287), nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. DECISÃO DE PRONÚNCIA. PLEITO DE DESCLASSIFICAÇÃO DO DELITO PARA LESÃO CORPORAL. ALEGAÇÃO DE INEXISTÊNCIA DE ANIMUS NECANDI. DÚVIDA RAZOÁVEL ACERCA DA INTENÇÃO DE MATAR. PARECER PELO IMPROVIMENTO DO RECURSO.
+É o relatório. Decido.
+O recurso é tempestivo e a matéria encontra-se prequestionada.
+No caso, sem razão a recorrente.
+A jurisprudência deste Tribunal "se orienta no sentido de que a sentença de pronúncia não encerra juízo de procedência acerca da pretensão punitiva, tão somente viabilizando a competência para o Tribunal do Júri, que decidirá a lide de acordo com os elementos probatórios produzidos, devendo a este os autos serem enviados na hipótese de razoável grau de certeza da imputação" (AREsp 654379/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe de 25/9/2015).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PRONÚNCIA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. AUSÊNCIA DE NULIDADE
+I - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (v.g.: HC 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado.
+II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+III - Em se tratando de crime afeto à competência do Tribunal do Júri, o julgamento pelo Tribunal Popular só pode deixar de ocorrer, provada a materialidade do delito, caso se verifique ser despropositada a acusação, porquanto aqui vigora o princípio in dubio pro societate.
+IV - Absolvição sumária por legítima defesa, na firme compreensão da jurisprudência e doutrina pátrias, somente há de ter lugar, quando houver prova unívoca da excludente, a demonstrá-la de forma peremptória (Código de Processo Penal, artigo 411)" (HC 25.858/RS, Sexta Turma, Rel. Min. Hamilton Carvalhido, DJ de 1º/8/2005).
+V - Esta Corte admite a adoção da fundamentação per relationem, hipótese em que o ato decisório se reporta a outra decisão ou manifestação existente nos autos e as adota como razão de decidir, desde que nelas a matéria tenha sido suficientemente enfrentada.
+(Precedentes).
+VI - Na hipótese, não há nulidade no r. decisum que adotou os fundamentos contidos no parecer do Ministério Público para afastar a absolvição sumária, pois nele realizado o devido exame do material probatório e da tese defensiva.
+Ordem não conhecida. (HC 295.547/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 30/6/2015, DJe 4/9/2015).
+No caso dos autos, a Corte local, ao manter a pronúncia pela prática do crime de homicídio tentado, assim o fez na forma seguinte (e-STJ fls. 208/210):
+ ..
+De outro ângulo de análise, a tese defensiva, concernente à desclassificação do crime de homicídio tentado para o delito de lesão corporal, não restou comprovada, de plano.
+Consectariamente, deve ser analisada pelo Tribunal do Júri, sob pena de usurpação da competência, constitucionalmente, outorgada a este órgão julgador.
+Iniludivelmente, em havendo a mínima dúvida, no que tangencia à desclassificação do delito, sob deslinde, há de ser preservada a competência do Tribunal do Júri, para a apreciação da causa, por sinal, erigida em status de dignidade constitucional, em consonância com a norma residente, no art. 5º, XXXVIII, da Lei Maior. In casu, os depoimentos prestados, nas fases inquisitorial e judicial, demonstram, inelutavelmente, que a configuração da tese defensória não se configura induvidosa.
+Como consectário, mais que lógico, não havendo reconhecimento, de plano e às escâncaras, da tese defensiva, conclui-se, que, somente, o júri está ungido, constitucionalmente, de competência para apreciar e julgar a causa.
+ ..
+Exsurge-se dos autos, no que pertine ao petitório de desclassificação do crime de homicídio para o delito de lesão corporal, que o modus operandi da recorrente impede, ao menos, nesta fase procedimental, que ela seja albergada, sem se pretender, contudo, formular juízo apriorístico exauriente, mas, apenas e tão-somente, fazendo incursão péripla e superficial, nos elementos probatórios, sob pena de elidir a competência do Tribunal Popular.
+É de trivial sabença que, além de revelar-se desprovida de visos de juridicidade técnica, entremostra-se incurial toda e qualquer incursão judicial, qual mergulho de escafandrista, no pélago profundo da prova, nesta fase de pronúncia. O vasculho do manancial probando há de ser realizado, discreta e prudentemente, pelo juiz e por esta própria instância, no que tangencia à fundamentação de suas decisões, para que não exerçam qualquer influência no ânimo dos leigos cidadãos jurados. Di-lo-ia um dos clássicos, na matéria, [NOME], que "o magistrado que prolata a sentença de pronúncia deve exarar a sua decisão em termos sóbrios e comedidos, a fim de não exercer qualquer influência no ânimo dos jurados".
+Assim sendo e assim o é, a alegativa do insurgente, in casu, não desafia o seu pronto albergamento por este Sodalício neste átrio procedimental.
+Ponha-se, em relevo, que a predita tese da defesa, pura e tão-somente, poderá ser acolhida, nesta fase do ius accusationis, quando for, manifestamente, procedente e conotada de validez, louçania e higidez jurídica, o que inocorre, na hipótese fulcral, reassevere-se.
+Em senso contrário, remete-se tal cognição aos cidadãos jurados, sob pena de se vergastar, desapiedadamente, a competência constitucional do tribunal popular.
+De tudo quanto asseverado, vota-se no sentido de negar provimento ao recurso em sentido estrito.
+Assim, uma vez consignada pelas instâncias ordinárias a impossibilidade de verificação da tese de ausência de animus necandi, a providência mais acertada é a manutenção do acórdão impugnado, de forma que seja tal questão avaliada pelo Tribunal do Júri, sob pena de usurpação de sua competência.
+Acrescente-se, aqui, que tal providência exigiria desta Corte Superior de Justiça, necessariamente, o esmerilamento de todo o conjunto probatório e fático, o que é terminantemente vedado pelo óbice da Súmula n. 7/STJ:
+A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. DECISÃO DE PRONÚNCIA. DESCLASSIFICAÇÃO. HOMICÍDIO. LESÃO CORPORAL GRAVE. AUSÊNCIA DE ANIMUS NECANDI. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em processo por crime doloso contra a vida, caso existam incertezas a respeito da dinâmica dos fatos, não é facultado ao juízo singular dirimi-las, visto que a competência para tanto é do juiz natural da causa, valer dizer, o Tribunal do Júri.
+2. Infirmar o que as instâncias a quo consignaram quanto ao não reconhecimento de dúvida inconteste de animus necandi implicaria o revolvimento do acervo fático-probatório obstado pela Súmula n. 7 do STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 644.192/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/02/2016, DJe 16/02/2016)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO. IMPRONÚNCIA. ANIMUS NECANDI. RECONHECIMENTO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. USURPAÇÃO DA COMPETÊNCIA DO TRIBUNAL DE JURI. INEXISTÊNCIA, NA ESPÉCIE. RECURSO IMPROVIDO.
+1. Desconstituir o entendimento do Tribunal de origem, que impronunciou o acusado diante da não comprovação do animus necandi na sua conduta, exigiria o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula 7/STJ.
+2. Admite-se a desclassificação da conduta criminosa para delito estranho à competência do Tribunal do Júri, sem usurpação da competência do Conselho de Sentença, se o Juízo da Pronúncia se deparar com provas que evidenciem, sem qualquer esforço de análise das circunstâncias fáticas ou subjetivas, a ausência de dolo caracterizador de crime contra a vida.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1302794/RS, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 15/02/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PRONÚNCIA. PLEITO DE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito do apelo extremo. (Súmula n. 7/STJ).
+Agravo regimental desprovido. (AgRg no AREsp 870.592/ES, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 26/9/2016).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. AUSÊNCIA DE ANIMUS NECANDI. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. SENTENÇA DE PRONÚNCIA. MERO JUÍZO DE ADMISSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O acolhimento da tese recursal, no sentido da ausência de dolo específico, implicaria o necessário reexame do contexto fático probatório, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. É a pronúncia reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria, não representando juízo de procedência da culpa.
+3. Agravo regimental improvido. (AgRg no AREsp 765.996/BA, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 17/6/2016).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
