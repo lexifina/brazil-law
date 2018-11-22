@@ -1,0 +1,34 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FRAUDE À LICITAÇÃO. TIPICIDADE. ART. 90 DA LEI N. 8.666/1993. DELITO QUE PODE SER PRATICADO POR QUALQUER PESSOA. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Nos limites estabelecidos pelo artigo 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido. 2. Ausente qualquer omissão quanto à tipicidade da conduta praticada pelo agente acerca do crime de fraude ao processo licitatório, fica afastada a hipótese de ofensa ao art. 619 do Código de Processo Penal.
+3. Embargos declaratórios rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de embargos de declaração opostos por [NOME] contra acórdão que negou provimento ao agravo regimental interposto em face de decisão que negou provimento ao recurso especial da defesa.
+Alega o embargante que o acórdão foi omisso acerca da atipicidade da conduta do embargante que, na condição de funcionário público, somente poderia responder como autor do crime do artigo 90 da Lei de Licitações se estivesse em coautoria ou participação com um particular.
+Requerem, assim, sejam acolhidos os presentes embargos para absolver o embargante.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): O artigo 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Consta nos autos que o embargante foi denunciado pela prática do crime previsto no art. 288, caput, do Código Penal, e art. 90, caput, da Lei n. 8.666/93, por ter, na condição de integrante da Comissão Permanente de Licitações da Prefeitura Municipal de Miguelópolis/SP e associando-se em quadrilha com outros agentes, praticado fraudes em procedimentos licitatórios, dispensas forjadas de licitação e desvios de verbas públicas.
+Sobreveio sentença que julgou parcialmente procedente a denúncia e condenou o réu às penas de 2 anos e 11 meses de detenção, em regime inicial aberto, e pagamento de 14 dias-multa, pela incursão nas sanções do artigo 90 da Lei n. 8.666/93.
+A sentença foi mantida em apelação da defesa.
+Nas razões do apelo nobre, fulcrado na alínea "a" do permissivo constitucional, a defesa alegou violação ao artigo 90 da Lei de Licitações, argumentando que se trata de crime próprio, motivo pelo qual o acusado não poderia ser condenado como partícipe, sendo atípica a sua conduta.
+Contra-arrazoada a insurgência (e-STJ, fls. 1543/1548), após o juízo prévio de admissibilidade (e-STJ, fls. 1597), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição de custos legis, ofertou parecer pelo desprovimento do inconformismo (e-STJ, fls. 1725/1736).
+Por decisão monocrática desta Relatoria, negou-se provimento ao recurso especial, decisão contra a qual foi interposto agravo regimental, também desprovido.
+Daí os presentes embargos, através do qual o embargante alega a ocorrência de omissão do acórdão embargado acerca da atipicidade da conduta praticada pelo agente, sob o argumento de que, na condição de funcionário público, somente poderia responder como autor do crime do artigo 90 da Lei de Licitações se estivesse praticado o delito em coautoria ou participação com um particular, mas nunca como autor.
+ Conforme ficou consignado no voto proferido em sede de agravo regimental, o Tribunal a quo concluiu pela tipicidade da conduta praticada pelo embargante, em conformidade com a jurisprudência desta Corte Superior, nestes termos, litteris:
+Ademais, cabe ressaltar que a tese relativa ao crime próprio também foi acertadamente rechaçada pela instância recorrida (fls. 1408/1409), o que se alinha ao entendimento esposado no seguinte precedente da Quinta Turma deste Sodalício:
+PROCESSUAL PENAL. HABEAS CORPUS. FRAUDE AO CARÁTER COMPETITIVO DE PROCEDIMENTO LICITATÓRIO. TRANCAMENTO. AUSÊNCIA DE JUSTA CAUSA. ATIPICIDADE DA CONDUTA. INOCORRÊNCIA. ORDEM DENEGADA.
+I - A jurisprudência do excelso Supremo Tribunal Federal, bem como desta eg. Corte, há muito já se firmaram no sentido de que o trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. (Precedentes).
+II - Com efeito, extrai-se do excerto da incoativa que o paciente, não obstante ocupasse a posição de Procurador-Geral do Município de Lages/SC, teria participado de concertação voltada para fraudar o caráter competitivo de procedimento licitatório, visando ao favorecimento de empresa específica, o que se evidencia, inclusive, por interceptação telefônica, de modo que inviável falar-se em ausência de justa causa para a tramitação da ação penal (Precedentes).
+III - Consolidou-se em doutrina o raciocínio de que a conduta descrita no art. 90, da Lei n. 8.666/93 retrata crime comum e admite concurso de agentes. Assim, a mera alegação de que é função do prefeito expedir decretos, portarias e outros atos administrativos não exclui a eventual participação de outrem na prática de crimes em concurso de pessoas, mormente quando os atos de ofício são praticados no intuito de violar o interesse público e a moralidade administrativa. (Doutrina e Jurisprudência).
+Ordem denegada.
+(HC 348.084/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/02/2017, DJe 21/02/2017)
+Assim, é certo que o crime previsto no art. 90 da Lei de Licitações não se trata de delito funcional, uma vez que pode ser praticado por qualquer pessoa que participe do certame, seja particular, seja servidor público, tal como ocorreu na espécie.
+Desse modo, o tema acerca da tipicidade da conduta do embargante foi devidamente enfrentada pelo acórdão embargado, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do embargante.
+Destarte, não se verifica a alegada negativa de prestação jurisdicional.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É o voto.
