@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por MARCONI QUEIROZ VASCONCELOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DA BAHIA.
+Consta dos autos que o Prefeito, a Secretária de Educação e o Secretário de Obras e Infraestrutura do Município de Ilhéus/BA (ora recorrente), teriam descumprido, sem qualquer justificação, decisão judicial prolatada nos autos da ação civil pública n. 0010348-40.2006.8.05.0103, que impôs ao município, dentre outras obrigações, a implantação e manutenção de creches, construção de novas unidades escolares, ampliação de colégios da rede municipal, conservação e recuperação de unidades que servem à rede municipal de ensino. Em decorrência deste fato, o Ministério Público estadual ofereceu denúncia contra as autoridades municipais, a fim de apurar a prática do delito previsto no art. 1º, XIV, do Decreto-lei 201/67 (fls. 18/22).
+Neste recurso, alega o recorrente que (i) a conduta pela qual denunciado é atípica, pois o crime de desobediência é subsidiário, só se configurando nos casos em que o descumprimento da ordem judicial não é objeto de sanção civil, administrativa ou processual, diversamente do que ocorre na espécie, em que foram fixadas astreintes, por atraso no cumprimento, no valor de R$24.620.000,00; (ii) a decisão de recebimento da denúncia é nula por ausência de motivação e, por fim, (iii) o delito que lhe foi imputado trata-se de crime omissivo próprio de que somente pode ser sujeito ativo o chefe do executivo municipal.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso, haja vista a ausência de juntada aos autos de procuração conferindo poderes aos causídicos que subscrevem a inicial.
+À fl. 232, a procuração foi encartada aos autos, suprindo, assim, o vício apontado pelo órgão ministerial.
+É o relatório.
+DECIDO.
+Em consulta processual realizada junto ao sítio eletrônico do Tribunal de Justiça da Bahia, obtive a informação de que, em 10/8/2018, foi declarada extinta a punibilidade dos réus, tendo em vista a prescrição da pretensão punitiva, em decisão, cujo dispositivo possui o seguinte teor: diante da ausência de justa causa para o prosseguimento da ação, um dos elementos do interesse de agir e, com a finalidade de evitar o dispêndio de dinheiro, tempo e o desgaste da Justiça Pública e de todos os envolvidos com um processo que, inevitavelmente, perderia sua utilidade, DECLARO EXTINTA A PUNIBILIDADE dos réus [NOME], MARCONI QUEIROZ VASCONCELOS e LIDINEY MARIA CAMPOS FERREIRA, o fazendo com espeque nos artigos 107, IV do Código Penal.
+Na consulta eletrônica realizada também obtive a informação de que a Ação Penal n. 0306274-20.2013.8.05.0103 foi definitivamente arquivada em 19/9/2018.
+Desta forma, está o feito prejudicado, ante a inegável superveniente perda do objeto.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
