@@ -1,0 +1,5 @@
+DECISÃO
+Após decisão em que não conheci do agravo em recurso especial (e-STJ fls. 490/491), a agravante protocolou petição, informando ter celebrado acordo na origem (e-STJ fls. 494/499). Em seguida, interpôs agravo interno e, posteriormente, requereu fosse negado seguimento a esse recurso, bem como ao anterior (e-STJ fls. 515/516).
+Considerando que os causídicos subscritores da peça de e-STJ fls. 494/497 possuem poderes para transigir (e-STJ fls. 256/257 e 498/499) e que a transação é causa para a extinção do processo com resolução do mérito, nos termos do art. 487, III, "b", do CPC/2015, cuja manifestação pode dar-se em sede de agravo em recurso especial (v.g., AREsp 534.812/RJ, Rel. Min. Napoleão Nunes Maia Filho; REsp 1.232.936/AM, Rel. Min. Diva Malerbi, desembargadora convocada do TRF da 3 ª Região), é o caso de deferir o pleito ora formulado.
+Ante o exposto, TORNO SEM EFEITO o decisum de e-STJ fls. 490/491 e, com base no art. 487, III, "b", do CPC/2015, c/c o art. 34, IX, do RISTJ, HOMOLOGO o acordo e EXTINGO o processo, com resolução do mérito, julgando PREJUDICADO o agravo interno.
+Publique-se. Intimem-se.
