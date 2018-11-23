@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto pela Fazenda do Estado de São Paulo, desafiando decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial com base nos seguintes fundamentos: (I) em recurso especial não cabe invocar violação a norma constitucional; (II) os argumentos expedidos não são suficientes para infirmar o acórdão combatido; (III) o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF; e (IV) O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, pois o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 541, parágrafo único, do CPC.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguintes fundamentos: a) em recurso especial não cabe invocar violação a norma constitucional; e b) os argumentos expedidos não são suficientes para infirmar o acórdão combatido.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
