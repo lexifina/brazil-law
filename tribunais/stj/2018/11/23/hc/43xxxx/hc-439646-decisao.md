@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de DANILO RIBAS DE OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2188916-91.2017.8.26.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 18/5/2016 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em prisão preventiva. Em 25/4/2017, o paciente restou condenado, em primeira instância, à pena de 5 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, tendo sido negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que foi assim ementado, in verbis:
+Habeas Corpus. Tráfico de drogas. Alegação de constrangimento ilegal ante a manutenção da prisão cautelar do paciente c carência de fundamentação da decisão coatora. Pleito objetivando a liberdade provisória, com a expedição de alvará de soltura. Não cabimento. Paciente preso com uma porção de cocaína (30.06g), 18 eppendorfs da mesma droga (6.53g), um tijolo de maconha (215,10g), bem como 48 trouxinhas desta mesma droga, com peso de 54,95g. Paciente é possuidor de maus antecedentes. Condenação à pena de 10 anos e 3 meses de reclusão por trafico de drogas. A quantidade e variedade de drogas apreendidas demonstram, "a priori", a gravidade concreta da infração, restando pertinente a manutenção da custodia cautelar do paciente como garantia da ordem pública, sendo inviável a substituição por outras medidas cautelares diversas da prisão. Presentes os requisitos do artigo 312 do Código de Processo Penal. Ordem denegada (fl. 36).
+No presente mandamus, sustenta inexistir fundamentação idônea para a manutenção do decreto prisional, configurando constrangimento ilegal o indeferimento do direito de apelar em liberdade pelo fato de ter o paciente permanecido preso durante o curso da ação penal, sobretudo quando poderia desfrutar de regime menos gravoso.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva e, por extensão, a concessão do benefício ao corréu [NOME].
+Liminar indeferida (fls. 454/455). Informações prestadas (fls. 460/489 e 492/512). O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem (fls. 514/517).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Isso porque, em consulta ao andamento processual na página eletrônica do Tribunal de origem, verifica-se que, em 6/2/2018, a Apelação Criminal n. 0000978-40.2016.8.26.0123, de que aqui se cuida, foi julgada, tendo como resultado o não provimento do recurso defensivo. A condenação transitou em julgado no dia 6/3/2018 e os autos foram baixados, em 13/4/2018, ao Juízo de primeira instância.
+Desse modo, constata-se que custódia do ora paciente decorre, agora, de título definitivo, ocasionando a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intime-se.
