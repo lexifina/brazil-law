@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DIREITO À INFORMAÇÃO. PUBLICIDADE DOS ATOS ADMINISTRATIVOS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Hipótese em que o Tribunal local consignou (fl. 285, e-STJ): "Segundo o inciso XXXIII do art. 5º da Constituição Federal, os órgãos públicos têm o dever de atender pedido de informações que lhes seja formulado, salvo em se tratando de sigilo imprescindível à segurança da sociedade e do Estado, o que não é o caso".
+2. Não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+3. Quanto ao suposto descabimento da multa aplicada, o STJ entende ser inviável o Recurso Especial, fundado na alínea "a" do permissivo constitucional, que não especifica quais normas legais foram violadas. Incide, na espécie, por analogia, o princípio contido na Súmula 284/STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - DIREITO À INFORMAÇÃO - CONSTITUIÇÃO FEDERAL - ARTIGO 5o, XXXIII - PUBLICIDADE DOS ATOS ADMINISTRATIVOS - TRANSPARÊNCIA - DEVER DA ADMINISTRAÇÃO PÚBLICA.
+Segundo o inciso XXXIII do art. 5º da Constituição Federal, os órgãos públicos têm o dever de atender pedido de informações que lhes seja formulado, salvo em se tratando de sigilo imprescindível à segurança da sociedade e do Estado, o que não é o caso. Provido.
+Os Embargos de Declaração foram rejeitados (fls. 305-310, e-STJ).
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 1.022, 11 e 489 do CPC/2015, sob a argumentação de que o Tribunal local não sanou os vícios apontados nos Embargos de Declaração.
+Contrarrazões não apresentadas.
+O Ministério Público Federal opinou pelo não conhecimento do Recurso Especial, in verbis (fls. 384-385, e-STJ):
+ADMINISTRATIVO E PROCESSUAL CIVIL. Mandado de segurança impetrado em face do Prefeito do Município de Orizânia visando à obtenção de informações e documentos requeridos administrativamente à aludida Autoridade impetrada e cujo fornecimento teria sido negado aos Impetrantes. Segurança denegada. Apelação interposta pelos Impetrantes provida, para conceder a segurança, determinando à Autoridade impetrada que prestasse as informações requeridas no prazo máximo de cinco dias.
+Embargos de declaração opostos pelo Município de Orizânia rejeitados, com a imposição de multa de 1% sobre o valor atualizado da causa, com fundamento no artigo 1026, § 2º, do CPC de 2015, porque reputados protelatórios. Recurso especial interposto com fundamento na alínea "a" do artigo 105, III, da Constituição da República, sob a alegação de contrariedade aos artigos 11, 489 e 1022, II, do CPC de 2015. Recurso que não é suscetível de conhecimento, porque não foram demonstradas as omissões e a contradição supostamente existentes no Acórdão recorrido, que trouxe fundamentos suficientes, de fato e de direito, para a solução da controvérsia, embora em sentido contrário à pretensão do Recorrente. A Corte de origem examinou explícita e claramente a alegação do Recorrente de que disponibilizara mediante ofícios dirigidos à Câmara Municipal o acesso aos documentos pleiteados pelos Recorridos, Vereadores naquela Casa Legislativa, no entanto, ponderou que "em que pese sustentar o impetrado ter dispon ibilizado administrativamente aos impetrantes o acesso aos mencionados documentos antes mesmo da impetração do presente mandado de segurança, não logrou comprovar tal assertiva, não servindo para tanto a cópia dos ofícios de fls. 105/106, tendo em vista terem sido endereçados ao Presidente da Câmara Municipal, e não aos próprios requerentes, não havendo como se presumir, portanto, terem eles tomado de fato ciência de tais ofícios, o que não se presume tão somente pelo fato de serem os mesmos vereadores do Município, em especial considerando-se terem eles requerido a exibição de tais documentos não na qualidade de representantes da Câmara, mas sim como cidadãos, não havendo que se falar, portanto, em ilegitimidade ativa na espécie, por não ter constado como impetrante a Câmara Municipal.". Finalmente, o inconformismo quanto à multa imposta ao Recorrente em virtude da oposição de embargos de declaração reputados protelatórios foi apenas declinado como reforço argumentativo, sem a correlata alegação de dispositivo legal violado, o que inviabiliza o conhecimento do recurso especial nesse ponto. Recurso especial que não deve ser conhecido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24.4.2018.
+A irresignação não merece prosperar.
+Constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/08/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/06/2007.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do ora recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. (TRIBUTÁRIO. AGRAVO REGIMENTAL. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. LEI 9.316/96. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL. IMPROPRIEDADE DA VIA ELEITA).
+1. O inconformismo, que tem como real escopo a pretensão de reformar o decisum, não há como prosperar, porquanto inocorrentes as hipóteses de omissão, contradição, obscuridade ou erro material, sendo inviável a revisão em sede de embargos de declaração, em face dos estreitos limites do art. 535 do CPC.
+2. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+3. A pretensão de revisão do julgado, em manifesta pretensão infringente, revela-se inadmissível, em sede de embargos
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 824.309/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 11/05/2009).
+Além disso, quanto ao suposto descabimento da multa aplicada, o STJ entende ser inviável o Recurso Especial, fundado na alínea "a" do permissivo constitucional, que não especifica quais normas legais foram violadas. Incide, na espécie, por analogia, o princípio contido na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO. COFINS. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. APLICAÇÃO DA TESE DOS CINCO MAIS CINCO. PRECEDENTE DO RECURSO ESPECIAL REPETITIVO N. 1002932/SP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF, POR ANALOGIA. VIOLAÇÃO À DISPOSITIVO CONSTITUCIONAL. ATRIBUIÇÃO DO STF.
+(..)
+2. Não se conhece da irresignação que não indica nas razões do apelo nobre qual o dispositivo de lei federal teria sido violado. Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+(..)
+4. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1149976/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 20/09/2010).
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+É como voto.
