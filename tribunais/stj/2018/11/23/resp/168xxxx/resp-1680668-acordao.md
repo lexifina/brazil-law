@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. USUCAPIÃO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NÃO PROVIMENTO. PROFUNDIDADE DO EFEITO DEVOLUTIVO. UTILIZAÇÃO DE FUNDAMENTAÇÃO DIVERSA. POSSIBILIDADE.
+1. A argumentação do recurso, que se centra na possível existência de decisão extra petita, não merece guarida. Os demandantes narram que ocuparam o imóvel em 1977 e requerem a prescrição aquisitiva. Assim, é fato indiscutível que o efeito devolutivo autoriza o Tribunal a perquirir o domínio do imóvel ao apreciar tais pontos.
+2. Como bem exposto pelo Ministério Público Federal em seu Parecer: "O efeito devolutivo da apelação transfere o reexame da matéria a outro órgão julgador, podendo ser analisado sob os seguintes aspectos: extensão e profundidade. A extensão refere-se à delimitação da pretensão recursal, ao âmbito da matéria impugnada, cuja apreciação será feita pela instância revisora, redundando na conhecida máxima latina tantum devolutum quantum apellatum. Já a profundidade guarda relação com os fundamentos utilizados para a solução do objeto litigioso, vale dizer, a instância revisora não se vincula à motivação deduzida pela parte, sendo-lhe autorizado conhecer de questões por ela não ventiladas, mas diretamente relacionadas ao tema controvertido".
+3. Recurso Especial conhecido e não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL PARTE AUTORA - AÇÃO DE USUCAPIÃO - SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO INICIAL - ALEGAÇÃO DE PREENCHIMENTO DOS REQUISITOS LEGAIS NECESSÁRIOS PARA A AQUISIÇÃO DA PROPRIEDADE DA ÁREA POR USUCAPIÃO - NÃO ACOLHIMENTO - BEM QUE, MESMO ANTES DE SER TRANSFERIDO AO DOMÍNIO DO MUNICÍPIO DE CURITIBA, JÁ ERA SUBMETIDO AO REGIME DE DIREITO PÚBLICO - IMÓVEL UTILIZADO PELA COMPANHIA PARANAENSE DE ENERGIA ELÉTRICA (COPEL) PARA A PRESTAÇÃO DO SERVIÇO PÚBLICO DE FORNECIMENTO DE ENERGIA ELÉTRICA QUE ABRIGA TORRE DE TRANSMISSÃO E [NOME] DE ALTA TENSÃO - BEM INSUSCETÍVEL DE AQUISIÇÃO PELA USUCAPIÃO - INCIDÊNCIA DO ART. 183, § 3o, DA CONSTITUIÇÃO FEDERAL E DA SÚMULA 340 DO STF - SENTENÇA MANTIDA - NEGADO PROVIMENTO AO RECURSO.
+Os Embargos de Declaração foram desacolhidos (fls. 823-828, e-STJ).
+Os recorrentes alegam, além de divergência jurisprudencial, violação do art. 535, §§ 1º e 2º, do CPC. Defendem que o Tribunal somente pode analisar questões ventiladas no recurso, sob pena de julgamento extra petita.
+Contraminuta apresentada às fls. 897-903, e-STJ.
+O Recurso Especial não foi admitido na origem em razão da ausência de ofensa a dispositivo de lei federal, do óbice da Súmula 7 do STJ e da falta de cotejo analítico. O Agravo interposto foi convertido em Recurso Especial pela decisão de fl. 941, e-STJ.
+O Ministério Público Federal opina pelo não provimento do recurso (fls. 951-956, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 28 de junho de 2017.
+Verifico, inicialmente, que a argumentação do recurso centra-se na possível existência de decisão extra petita. Nos termos do recurso (fl. 838, e-STJ):
+Nestes termos, equivocada a decisão da 17a Câmara Cível do Tribunal de Justiça do Estado do Paraná, quando diz que ".. o recurso de apelação permite que o tribunal aprecie e julgue todas as questões suscitadas e discutidas no processo, ainda que elas não tenham sido objeto de fundamentação da sentença ou do recurso." Merecendo ser levado ao STJ para julgamento final e interpretação conforme o entendimento pacífico daquela Corte em relação ao alcance do artigo 515, § lº e § 2º do CPC.
+A pretensão recursal não merece guarida. Os demandantes narram que ocuparam o imóvel em 1977 e requerem a prescrição aquisitiva. Assim, é fato indiscutível que o efeito devolutivo autoriza o Tribunal a perquirir o domínio do imóvel ao apreciar tais pontos.
+Como bem exposto pelo Ministério Público Federal em seu Parecer:
+Destarte, ao contrário do que defenderam os recorrentes, o acórdão recorrido não incorreu em julgamento extra petita em afronta ao art. 515, § § 1º e 2o, do CPC/1973, haja vista que, como bem acentuado pelo recorrido em contraminuta de agravo " ..  o efeito devolutivo amplo e a limitação quanto à matéria impugnada a que faz referência o art. 515 não acarreta a restrição aos fundamentos jurídicos que podem ser utilizados pelo órgão ad quem no momento da análise do recurso" (e-STJ, f. 934, grifamos).
+E não é só isso. O efeito devolutivo da apelação transfere o reexame da matéria a outro órgão julgador, podendo ser analisado sob os seguintes aspectos: extensão e profundidade.
+A extensão refere-se à delimitação da pretensão recursal, ao âmbito da matéria impugnada, cuja apreciação será feita pela instância revisora, redundando na conhecida máxima latina tantum devolutum quantum apellatum. Já a profundidade guarda relação com os fundamentos utilizados para a solução do objeto litigioso, vale dizer, a instância revisora não se vincula à motivação deduzida pela parte, sendo-lhe autorizado conhecer de questões por ela não ventiladas, mas diretamente relacionadas ao tema controvertido.
+Isso posto, nego provimento ao Recurso Especial.
+É como voto.
