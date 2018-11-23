@@ -1,0 +1,9 @@
+DECISÃO
+1. Cuida-se de agravo interposto por VIA VAREJO S.A. em face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão assim ementado:
+RENOVATÓRIA DE LOCAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA - INCLUSÃO DOS ENCARGOS DA LOCAÇÃO - POSSIBILIDADE - DISPOSIÇÃO EXPRESSA NA SENTENÇA PROFERIDA - ORDEM DE PREFERÊNCIA DE PENHORA - CELERIDADE E SATISFAÇÃO DO CRÉDITO.
+1 Ação renovatória de locação que foi expressa ao consignar, no dispositivo da decisão de procedência, que o valor do aluguel não se confundia com os encargos da locação, que podem ser cobrados, neste caso, na fase de cumprimento de tal demanda, estando ausente o excesso de execução noticiado. Ademais, não há sentido lógico na renovação da locação sem o pagamento dos encargos respectivos;
+2 - Não há que se falar no afastamento do bloqueio "online" sob argumento de que essa forma de penhora implica maior onerosidade ao devedor. Isso porque, a aplicação do artigo 805 do Código de Processo Civil, não pode ser utilizada em detrimento da eficácia do processo, de modo a dificultar a satisfação do direito do credor. Valores em espécie que já foram bloqueados e, parte deles, inclusive levantados, sendo contraproducente a determinação de penhora de imóveis.
+RECURSO IMPROVIDO.
+Sustenta violação aos artigos 11, 489, inciso II, § 1º, II e III, 1.022, inciso II, do CPC de 2015; 73 da Lei n. 8.245/1991.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
