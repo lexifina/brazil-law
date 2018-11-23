@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por ADILA MARIA KOLBERG BARON E OUTROS, em face de acórdão assim ementado (fl. 690):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM.
+CUMPRIMENTO DE SENTENÇA.
+DECISÃO CITRA PETITA. Aplicação do art. 1.013, § 3º, III, CPC. Possibilidade de imediato conhecimento da matéria pelo Tribunal em decorrência da profundidade do efeito devolutivo à luz da teoria geral dos recursos.
+PROSSEGUIMENTO DA AÇÃO E EXPEDIÇÃO DE ALVARÁ. IMPOSSIBILIDADE.
+Em razão de recente decisão nos embargos de declaração interpostos à decisão proferida no processo de recuperação judicial da qual é parte a agravada (Agravo de Instrumento nº.
+0034576-58.2016.8.19.0000 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro), restaram explicitados os requisitos para a suspensão do processo, quais sejam: a) constrições realizadas após o dia 21/06/2016, ou seja, os valores depositados antes da referida data não se submetem à suspensão em tela e, b) valores objeto de constrição judicial cuja discussão da matéria tenha se esgotado, seja pelo trânsito em julgado dos embargos à execução, seja pela preclusão da decisão da impugnação, antes de 21/06/2016, independentemente de certificação, que possui natureza meramente declaratória. Caso concreto em que o objeto da discussão se refere à existência de suposto saldo em favor dos autores e, neste caso, o valor que seria devido. Ausência de concordância da parte adversa. Controvérsia que impossibilita o prosseguimento do feito e o levantamento de valores. Decisão mantida.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 720/726).
+Nas razões do especial, a ora agravante alega afronta aos arts. 489, § 1º, IV, e § 2º, e 1.022, I, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração, afirmando que "não se sujeita aos efeitos da recuperação judicial" (fl. 738).
+No mérito, argui violação dos arts. 223, 505, 507 e 525 do Código de Processo Civil/2015, bem como dissídio jurisprudencial, afirmando que "o crédito não se submete aos efeitos da recuperação judicial, face ao trânsito em julgado da decisão da impugnação à execução anterior à recuperação judicial" (fl. 748). Aduz que "todos os demais credores nesta situação RECEBERÃO O SALDO DEVIDO quando a decisão da impugnação à execução transitou antes de 21/6/2016, tendo o acórdão recorrido dispensado tratamento diferenciado aos recorrentes, violando o princípio do PAR CONDITIO CREDITORUM" (fl. 748).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao julgar o agravo de instrumento, analisando o caso concreto, concluiu que ausente um dos requisitos necessários à liberação do alvará, assim se pronunciando (fls. 698/699):
+(..) a suspensão somente alcança: a) as constrições realizadas após o dia 21/06/2016 e; b) valores objeto de constrição judicial cuja discussão da matéria tenha se esgotado, seja pelo trânsito em julgado dos embargos à execução, seja pela preclusão da decisão da impugnação, antes de 21/06/2016.
+No caso concreto, impõe-se breve narrativa cronológica acerca do processamento da ação.
+Após o julgamento da ação de conhecimento e início do cumprimento de sentença, em 05.06.2008 prestada garantia do juízo no valor de R$ 1.363.416,99, através de carta de fiança expedida pelo Banco Bradesco S/A, fls. 274-276, posteriormente substituída por bloqueio de valores via BACEN Jud, no valor de R$ 1.627.119,66, fl. 370.
+Interposta impugnação, esta foi julgada improcedente, fls. 372-380. Interposto recurso, este restou parcialmente provido, fls. 414-419. Já o agravo de instrumento interposto perante o STJ, restou desprovido.
+Com o prosseguimento do feito, deferida a expedição de alvará em favor dos autores da quantia depositada, R$ 1.627.119,66, fls. 551-554, em 07.03.2013, já sacado, e a liberação da carta de fiança.
+Os autores, então, postularam prosseguimento do feito, em 18.03.2016, ao argumento da existência de saldo a ser satisfeito pela ré.
+Remetidos os autos à Contadoria Judicial, apurado como ainda devido aos demandantes a quantia de R$ 1.693.937,44, conforme cálculo das fls. 572-573, datado de 30.09.2014. Este valor foi bloqueada via BACEN Jud, em 25.05.2015, fls. 582-583.
+O réu impugnou referidos cálculos, instaurando-se, então, novo incidente, com sucessivas manifestações das partes sem que, até a presente data, houvesse definição acerca da questão de fundo, qual seja, existência ou não de saldo em favor dos autores e, neste caso, o seu quantum.
+Nesse contexto, ainda que julgada anteriormente a impugnação ao pedido de cumprimento de sentença, persistindo a divergência entre as partes quanto ao eventual saldo remanescente, objeto de discussão e prosseguimento da liquidação, a hipótese se amolda às hipóteses de suspensão.
+Logo, irrelevante que o bloqueio tenha ocorrido em data anterior à decretação da recuperação judicial da agravada, tampouco cabível a expedição de alvará.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Acrescente-se que não foram devidamente impugnadas as razões expostas pela origem, acima transcritas, sendo inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
