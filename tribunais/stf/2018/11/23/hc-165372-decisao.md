@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Processo Penal. Habeas Corpus. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 476.470, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos crimes previstos nos arts. 33, caput, 34 e 35, da Lei 11.343/06 (aproximadamente 12,014 kg de maconha). A prisão em flagrante foi convertida em preventiva.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio impetração de habeas corpus no Superior Tribunal de Justiça. O Relator, Min. Antonio Saldanha Palheiro indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante aponta, em síntese, que “o paciente se encontra preso desde o dia 16 de maio de 2018 –ou seja, há mais de 05(cinco)meses, sem a formação da sua culpa em definitivo, violando dessa forma o PRINCÍPIO DA RAZOABILIDADE”; e “que o processo não é complexo, até porque só tem três acusados”.
+    5. Com esses argumentos, requer a concessão da ordem para que o paciente “possa aguardar o julgamento em liberdade (…) COM OU SEM A IMPOSIÇÃO DAS MEDIDAS CAUTELARES DO ARTIGO 319 DO CPP ”.
+    Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    7. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    8. Por outro lado, verifico que a tese defensiva não foi apreciada pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame da matéria por este Supremo Tribunal Federal, sob pena de dupla supressão de instâncias.
+    9. Além disso, o entendimento do STF é no sentido de que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). No caso, as peças que instruem este processo não evidenciam demora injustificada que autorize a imediata expedição de um alvará de soltura.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 23 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                  Documento assinado digitalmente
