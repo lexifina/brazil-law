@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. PATROCÍNIO INFIEL E FALSIDADE IDEOLÓGICA. NULIDADE DAS PROVAS. PRODUÇÃO NA JUSTIÇA ESTADUAL. DECLINAÇÃO DA COMPETÊNCIA. RATIFICAÇÃO DE ATOS PELO JUÍZO COMPETENTE. POSSIBILIDADE. PRECEDENTES. ALEGAÇÃO DE INAPLICABILIDADE DA TEORIA DO JUÍZO APARENTE. AUSÊNCIA DE ENFRENTAMENTO PELA CORTE DE ORIGEM.
+1. Este Superior Tribunal tem entendimento de que, constatada a incompetência absoluta, os autos serão remetidos ao juízo competente, que poderá ratificar ou não os atos praticados.
+2. O questionamento quanto à inteira consciência do Juízo primevo acerca de sua incompetência absoluta, desde o início das investigações, não foi analisado no acórdão combatido, de modo que sua avaliação nesta via implicaria indevida supressão de instância.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Mediante a decisão às fls. 4.341/4.346, neguei provimento ao recurso em habeas corpus interposto por [NOME] - no qual se buscava o reconhecimento da ilicitude do produto da quebra dos sigilos fiscal e bancário do ora agravante autorizada por juízo absolutamente incompetente, determinando-se o desentranhamento das provas dali obtidas e o trancamento da Ação Penal n. 5002118-36.2016.4.04.7118, em curso na 1ª Vara Federal da Subseção Judiciária de Carazinho/RS, no que se refere ao delito de falsidade ideológica.
+Sobreveio, então, este agravo regimental, com a alegação de que a decisão monocrática deve ser reformada, porque, ao contrário do que ali sustentado, não existe jurisprudência firme no sentido de possibilidade de utilização de prova ilícita, consistente em quebra de sigilo por juízo absolutamente incompetente e, portanto, inadmissível, ser utilizada pela mera ratificação posterior (fl. 4.356).
+Reforçando os argumentos da petição inicial, aduz-se que a competência da Justiça Federal, no caso, é absoluta e foi violada pelo Juízo estadual. Sustenta-se que a hipótese trazida nos autos não é de competência aparente, pois os fatos que atraíram a competência da Justiça Federal já eram existentes e conhecidos desde o primeiro momento das investigações.
+Ao final, requer-se seja reformada a decisão impugnada para decretar a ilicitude do produto da quebra dos sigilos fiscal e bancário do ora agravante autorizada por juízo absolutamente incompetente. E, uma vez que as provas ilícitas são o único substrato empírico da acusação de falsidade ideológica, requerem o trancamento da ação penal no que se refere a tal delito (fl. 4.401).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A despeito das alegações deste agravo, a decisão agravada deve ser mantida por seus próprios e jurídicos fundamentos.
+Reafirmo o entendimento desta Corte de que é possível a convalidação dos atos decisórios praticados por juízo incompetente.
+De igual modo, ratifico que não cabe aqui avaliar se o Juízo primevo tinha inteira consciência acerca de sua incompetência absoluta por ocasião do início das investigações. A Corte estadual não enfrentou o tema nos moldes aqui propostos e sua análise por esta Corte Superior implicaria indevida supressão de instância, além de não dispensar uma profunda incursão no conjunto fático-probatório dos autos, o que não se admite na via eleita pelo agravante.
+Tal o contexto, nego provimento ao agravo regimental.
