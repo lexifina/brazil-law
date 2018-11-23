@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PRA FRENTE. RESTITUIÇÃO DA DIFERENÇA ENTRE A BASE DE CÁLCULO PRESUMIDA E A BASE DE CÁLCULO REAL. POSSIBILIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL (RE 593.849).
+1. O Supremo Tribunal Federal, em repercussão geral reconhecida nos autos do RE 593.849, fixou tese no sentido de que "é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+2. Recurso Especial não provido em juízo de retratação, nos termos do art. 1.040, II, do CPC/2015.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Paraná que consignou que "cobrar ICMS sobre valor superior ao realmente efetuado tem caráter de confisco, uma vez que ninguém tem obrigação de recolher imposto sobre o que não recebeu" (fl. 242).
+Aponta o recorrente divergência jurisprudencial com julgado desta egrégia Corte, que aplicou o direito superveniente, consubstanciado na nova interpretação dada pela Excelsa Corte ao preceito inserto no § 7º do artigo 150 da Carta Magna, no sentido de que "o contribuinte tem direito à restituição dos valores recolhidos em regime de substituição tributária para frente apenas quando o fato gerador não se realizar" (REsp 292.302/GO, da relatoria deste Magistrado, DJ 09.06.2003).
+Contrarrazões às fls. 310-320.
+A Vice-Presidência desta Corte, mediante despacho de fls. 366-367, e-STJ, e à vista da decisão proferida pelo STF no RE 593.849/MS, determinou a remessa dos autos a esta relatoria para os fins do inciso II do art. 1.040 do CPC/2015.
+É o relatório.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23.3.2018.
+Com efeito, o tema relativo à possibilidade de restituição do excesso de ICMS recolhido por substituição tributária para frente quando a base de cálculo real for inferior à base de cálculo presumida foi definitivamente julgado pelo Supremo Tribunal Federal em repercussão geral, consoante a seguinte ementa:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA OU PARA FRENTE. CLÁUSULA DE RESTITUIÇÃO DO EXCESSO. BASE DE CÁLCULO PRESUMIDA. BASE DE CÁLCULO REAL. RESTITUIÇÃO DA DIFERENÇA. ART. 150, §7º, DA CONSTITUIÇÃO DA REPÚBLICA. REVOGAÇÃO PARCIAL DE PRECEDENTE. ADI 1.851.
+1. Fixação de tese jurídica ao Tema 201 da sistemática da repercussão geral: "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+2. A garantia do direito à restituição do excesso não inviabiliza a substituição tributária progressiva, à luz da manutenção das vantagens pragmáticas hauridas do sistema de cobrança de impostos e contribuições.
+3. O princípio da praticidade tributária não prepondera na hipótese de violação de direitos e garantias dos contribuintes, notadamente os princípios da igualdade, capacidade contributiva e vedação ao confisco, bem como a arquitetura de neutralidade fiscal do ICMS.
+4. O modo de raciocinar "tipificante" na seara tributária não deve ser alheio à narrativa extraída da realidade do processo econômico, de maneira a transformar uma ficção jurídica em uma presunção absoluta.
+5. De acordo com o art. 150, §7º, in fine, da Constituição da República, a cláusula de restituição do excesso e respectivo direito à restituição se aplicam a todos os casos em que o fato gerador presumido não se concretize empiricamente da forma como antecipadamente tributado.
+6. Altera-se parcialmente o precedente firmado na ADI 1.851, de relatoria do Ministro Ilmar Galvão, de modo que os efeitos jurídicos desse novo entendimento orientam apenas os litígios judiciais futuros e os pendentes submetidos à sistemática da repercussão geral.
+7. Declaração incidental de inconstitucionalidade dos artigos 22, §10, da Lei 6.763/1975, e 21 do Decreto 43.080/2002, ambos do Estado de Minas Gerais, e fixação de interpretação conforme à Constituição em relação aos arts. 22, §11, do referido diploma legal, e 22 do decreto indigitado.
+8. Recurso extraordinário a que se dá provimento" (RE 593.849, Relator Min. EDSON FACHIN, Tribunal Pleno, julgado em 19/10/2016, Acórdão eletrônico repercussão geral - mérito DJe-065, divulgado em 30/3/2017, publicado em 31/3/2017, republicação: DJe-068, divulgado em 4/4/2017, publicado em 5/4/2017.)
+Por ocasião do referido julgado, o Supremo Tribunal Federal, em repercussão geral reconhecida nos autos do RE 593.849, fixou tese de que "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+Diante do exposto, em juízo de retratação previsto no art. 1.040, II, do CPC/2015, nego provimento ao Recurso Especial.
+É como voto.
