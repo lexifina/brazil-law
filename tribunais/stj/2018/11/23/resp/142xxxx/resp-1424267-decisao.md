@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL SA INCORPORADOR DO BANCO NOSSA CAIXA S/A com fundamento no art. 105, III, "c", da Constituição Federal, em face de acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DE COBRANÇA - Razões de apelação que não apresentam fatos e fundamentos que demonstrem o desacerto da sentença, sendo cópia da contestação - A repetição em razões de apelação do contido em peça anterior desvirtua a finalidade do recurso." ( e-STJ fl.112)
+Nas razões do recurso especial, o recorrente alega, de início, ofensa aos art. 514 e 515 do CPC/73, sob o fundamento de que seu recurso de apelação deveria ter sido conhecido, pois a repetição da argumentação trazida na contestação em seu recurso para tentar obter decisão favorável na hipótese de sucumbência em primeiro grau de jurisdição mostra compatibilidade com a decisão contida na sentença.
+Afirma, ainda, que o acórdão recorrido viola o inc. III, do §1º, do art. 178 do Código Civil de 1916, a Lei 7.730/89 e o Decreto-Lei 2.284/86, por não ternreconhecido a prescrição das diferenças de correção monetária e juros contratuais incidentes em caderneta de poupança supostamente creditado de forma indevida, durante a vigência do plano econômico denominado Verão e por terem sido deferidos índices de correção monetária que divergem do que prevê a legislação aplicável.
+Contrarrazões ao recurso especial nas fls. 137/148 (e-STJ)
+É o relatório. Passo a decidir.
+A irresignação do recorrentes merece prosperar.
+Nos termos da jurisprudência desta Corte, a reprodução dos termos deduzidos na contestação/impugnação não obsta ao conhecimento do recurso de apelação quando devidamente demonstrado, nas razões recursais, o interesse na reforma da sentença, como ocorre na hipótese em tela. Nesse diapasão, anotem-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO. RECONHECIDA VIOLAÇÃO AO ART. 514, II, DO CPC. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reprodução dos termos deduzidos na contestação não obsta ao conhecimento do recurso de apelação quando devidamente demonstrado, nas razões recursais, o interesse na reforma da sentença.
+2. No caso em tela, ficou demonstrada nas razões da apelação a pretensão da reforma da sentença, com o devido ataque aos fundamentos do decisum de piso.
+3. Agravo regimental não provido." (AgRg no AREsp 184.633/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/05/2015, DJe 10/06/2015)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO APELO EXTREMO, DETERMINANDO O RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA APELAÇÃO DIRIGIDA CONTRA A SENTENÇA DE PARCIAL PROCEDÊNCIA.INSURGÊNCIA DA SOCIEDADE EMPRESÁRIA AUTORA/APELADA.
+1. Apelação repetindo razões da contestação. Artigo 514 do CPC. A jurisprudência desta Corte é no sentido de que a reprodução dos argumentos deduzidos na inicial ou na contestação pode configurar atendimento ao requisito do artigo 514 do CPC, quando evidenciada a inconformidade recursal, guardada relação com o teor da sentença, impondo-se, assim, o conhecimento da apelação com a mitigação do rigor processual. Precedentes.Hipótese em que a sociedade empresária ré reproduziu argumentos pertinentes da contestação e, ao final, requereu, expressamente, a reforma integral da sentença, razão pela qual se revela cognoscível o reclamo, no tocante ao requisito inserto no artigo 514 do CPC.
+2. Agravo regimental desprovido." (AgRg nos EDcl no REsp 1176399/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/05/2014, DJe 26/05/2014)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. ART. 514 DO CPC. REQUISITOS. OBSERVÂNCIA. NÃO-CONHECIMENTO. RIGOR EXCESSIVO.
+1. O STJ consolidou entendimento segundo o qual a reprodução, na apelação, dos argumentos já lançados na petição inicial ou na contestação não é, por si só, motivo bastante para negar conhecimento ao recurso.
+2. Agravo regimental a que se nega provimento." (AgRg no AREsp 97.905/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/05/2013, DJe 21/05/2013)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar remessa dos autos ao Tribunal de origem, a fim de que prossiga no julgamento da apelação como entender de direito.
+Ficam prejudicadas as demais alegações trazidas no recurso especial.
+Publique-se.
