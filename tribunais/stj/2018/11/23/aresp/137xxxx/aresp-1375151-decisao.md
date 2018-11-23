@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por BANCO DO BRASIL S.A. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+" AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO - REJEITADA - APROVEITAMENTO DOS ATOS JÁ PRATICADOS SEM NECESSIDADE DE PERÍCIA TÉCNICA - VALORES JÁ APURADOS E AMPLAMENTE DISCUTIDOS EM JULGADOS DA CORTE - PENHORA - INDEFERIMENTO MANTIDO - RECURSO PARCIALMENTE PROVIDO.
+Possui cunho decisório o indeferimento de pedido de penhora em cumprimento de sentença.
+Como já houve o exercício do contraditório e ampla defesa ao banco agravado, que já debateu acerca dos cálculos apresentados pela parte agravante, bem como várias outras matérias amplamente discutidas e analisadas em 1º e 2º grau, não se mostra plausível e razoável que sejam novamente apurados cálculos periciais, sob pena de afronta ao que já decidiu esta Corte nos acórdãos supracitados.
+Não havendo ainda como delimitar o valor da obrigação, o indeferimento penhora é medida que se impõe" (fl. 648 e-STJ).
+No especial, o agravante apontou violação dos seguintes dispositivos com as respectivas teses:
+a) arts. artigos 489, § 1º, IV e VI, e 1.022 do Código de Processo Civil de 2015 - negativa de prestação jurisdicional;
+b) arts. 505, 507, 509, § 4º, 1.001 e 1.015 do Código de Processo Civil de 2015 - não se admite agravo de instrumento contra despacho sem cunho decisório e o julgamento foi contrário a decisão anterior no mesmo processo e
+c) arts. 156 e 283 - aproveitamento de atos em prejuízo à sua defesa.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante aos artigos 489 e 1.022 do CPC/2015, registre-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Do acórdão dos embargos de declaração extrai-se a seguinte fundamentação:
+"(..)
+Alega o embargante, em síntese, que há aqui omissão no enfreamento do requisito primordial do aproveitamento dos atos já praticados, previsto no art. 283 do CPC, qual seja, a inexistência de prejuízo à defesa. Salienta que existe prejuízo neste procedimento, uma vez que a liquidação tem cognição muito mais ampla que o cumprimento de sentença, possibilitando a arguição de diversas outras matérias e uma aprofundada análise do cálculo.
+Menciona acerca da realização de perícia técnica para a apuração correta do quantum debeatur, independentemente de qualquer tese jurídica que já tenha sido fixada anteriormente ou do rito que será seguido.
+Em contrarrazões, a parte embargada roga pelo desprovimento do recurso e aplicação da multa por litigância de má-fé.
+Pois bem. Infere-se dos autos que a parte embargante pretende apenas a rediscussão da matéria amplamente já debatida por ocasião do julgamento, o que não é permitido em sede de embargos de declaração.
+Conforme restou decidido no acórdão, apesar desta instância declarar a nulidade do procedimento executivo distribuído no cumprimento de sentença e determinado a sua conversão à fase pré executiva incidental da liquidação por arbitramento, esta Corte analisou todas as matérias vertidas na impugnação ao cumprimento de sentença, atinente aos parâmetros objetivos do cálculo do quantum exequendo.
+Assim, diante da excepcionalidade apresentada no presente caso, não se faz necessária novamente a realização de novos cálculos, em total desconsideração ao que já decidiu esta Câmara Cível, que como apontado, determinou o aproveitamento dos atos aqui praticados.
+Destarte, como já houve o exercício do contraditório e ampla defesa ao banco agravado, que já debateu acerca dos cálculos apresentados pela parte agravante, bem como várias outras matérias amplamente discutidas e analisadas em 1º e 2º grau, não se mostra plausível e razoável que sejam novamente apurados cálculos periciais" (fls. 705/706 e-STJ).
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Quanto aos mais, entendeu a Corte estadual que o recorrente já exerceu o direito ao contraditório à ampla defesa, tendo debatido acerca dos cálculos apresentados pela parte contrária e sobre várias outras matérias amplamente discutidas e analisadas em 1º e 2º graus, não se mostrando plausível e razoável que sejam novamente apurados cálculos periciais, sob pena de afronta ao que decidido anteriormente.
+Eis o excerto do voto condutor:
+"(..)
+Quanto ao mérito, observando a cadeia de julgados desta Corte, tem-se que na decisão proferida por esta 3ª Câmara no AI 1407843-31.2017, de minha relatoria, restou decidido que em homenagem ao princípio da instrumentalidade das formas, o banco agravado poderá aproveitar os atos já praticados, o que de fato foi feito quando apresentou a impugnação ao cumprimento de sentença discutindo sobre valores que entende devidos, inclusive já havendo decisões nesta Câmara.
+De fato, como foi exposto, apesar desta instância declarar a nulidade do procedimento executivo distribuído no cumprimento de sentença e determinado a sua conversão à fase pré executiva incidental da liquidação por arbitramento, esta Corte analisou todas as matérias vertidas na impugnação ao cumprimento de sentença, atinente aos parâmetros objetivos do cálculo do quantum exequendo.
+Nesse cenário, diante da excepcionalidade apresentada no presente caso, não se faz necessária novamente a realização de novos cálculos, em total desconsideração ao que já decidiu esta Câmara Cível, que como apontado, determinou o aproveitamento dos atos aqui praticados.
+Assim, como já houve o exercício do contraditório e ampla defesa ao banco agravado, que já debateu acerca dos cálculos apresentados pela parte agravante, bem como várias outras matérias amplamente discutidas e analisadas em 1º e 2º grau, não se mostra plausível e razoável que sejam novamente apurados cálculos periciais, sob pena de afronta ao que já decidiu esta Corte nos acórdãos supracitados.
+Destarte, já havendo discussão sobre os cálculos e os parâmetros apontados, não há falar em necessidade de perícia técnica.
+No tocante à penhora, não havendo ainda como delimitar o valor da obrigação, o indeferimento desta pretensão é medida que se impõe" (fls. 652/653 e-STJ).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APONTADA VIOLAÇÃO AO ART. 504 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. ACÓRDÃO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA OCORRÊNCIA DA PRECLUSÃO DA MATÉRIA IMPUGNADA. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE, NA VIA ELEITA. SUMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 08/02/2018, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Agravo de Instrumento, interposto pelo Banco Santander S/A, impugnando decisão que, em sede de execução contra a Fazenda Pública Municipal, promovida em ação de desapropriação, manteve provimento anterior, que ordenara, ao Banco depositário, o recolhimento dos valores correspondentes aos expurgos inflacionários dos anos de 1989 e 1991. O Tribunal de origem negou provimento ao recurso, concluindo que a matéria discutida no recurso fora alcançada pela preclusão.
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre o art. 504 do CPC/73, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo os óbices das Súmulas 211/STJ e 282/STF, na espécie.
+IV. Ademais, "a verificação da ocorrência da preclusão implica em exame de violação reflexa ou indireta a texto de lei federal, extrapolando a estreita via do recurso especial, bem como demanda, necessariamente, novo exame do acervo fático-probatório constante dos autos, o que atrai o óbice previsto na Súmula 7/STJ" (STJ, AgInt no AREsp 1.124.681/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2017). No mesmo sentido: STJ, AgInt no AREsp 1.168.860/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 02/05/2018; AgInt no REsp 1.625.884/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 09/04/2018; REsp 1.701.972/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+V. Agravo interno improvido."
+(AgInt no AREsp 1215930/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 08/06/2018)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA A DETERMINAÇÃO DE INTIMAÇÃO DO BANCO/AGRAVADO PARA GARANTIR O JUÍZO, SOB PENA DE NÃO CONHECIMENTO DE SUA IMPUGNAÇÃO. PRONUNCIAMENTO DE CARÁTER DECISÓRIO E SUSCETÍVEL DE CAUSAR LESÃO. REVISÃO DESSE ENTENDIMENTO. SÚMULA 7 DO STJ.
+1. No presente caso, a Corte local, com base nos elementos fático-probatórios da demanda, consignou que o pronunciamento judicial em face do qual o agravado opôs embargos de declaração possuía cunho decisório, sendo suscetível de causar lesão a este. A alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame de matéria fática, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+2. Agravo interno não provido."
+(AgInt no REsp 1625496/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 22/02/2017 - grifou-se)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
