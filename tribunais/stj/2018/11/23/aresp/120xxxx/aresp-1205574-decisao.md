@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] LEITE DA [NOME] contra decisão proferida pelo Tribunal Regional Federal da 3ª Região que inadmitiu recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Consta dos autos que a agravante foi condenada às penas de 2 anos e 2 meses de reclusão, em regime aberto, e 12 dias-multa, pela prática do crime do art. 313-A, c/c o art. 29, ambos do CP, tendo em vista que captou clientela, recolheu documento e os entregou à corré (servidora da autarquia previdenciária) para a inserção de dados falsos no sistema de informações do Instituto Nacional do Seguro Social - INSS, a fim de obter vantagem indevida para outrem, mediante fraude, consistente em aposentadoria por tempo de contribuição no período de 25/7/2003 a setembro de 2007, causando o prejuízo de R$ 68.149,94. A pena privativa de liberdade foi substituída por duas medidas restritivas.
+As apelações criminais do Ministério Público Federal e da agravante foram desprovidas, conforme a seguinte ementa (e-STJ fls. 1.021/1.022):
+PENAL E PROCESSO PENAL. CORRUPÇÃO PASSIVA E ATIVA QUALIFICADAS. MATERIALIDADE NÃO COMPROVADA. ART. 313-A DO CÓDIGO PENAL. PRESCRIÇÃO. NÃO VERIFICADA. AUTORIAS DELITIVAS COMPROVADAS. DOSIMETRIA. APELOS DESPROVIDOS E PROVIDO EM PARTE.
+1. Em razão da incidência do princípio da especialidade, a norma do artigo 313-A do Código Penal (norma especial) prevalece sobre aquelas de que tratam os artigos 317, § 1º, e 333, parágrafo único, ambos do Código Penal (norma geral), razão pela qual, para evitar dupla condenação, há consunção entre referidos delitos nos casos em que correspondam a uma mesma conduta delitiva.
+2. A materialidade dos delitos previstos pelo artigo 317, §1º, e 333, parágrafo único, ambos do Código Penal não restou satisfatoriamente demonstrada pelos elementos dos autos.
+3. A mera alegação de que houve confiança quanto às informações contidas nos documentos que instruíam o requerimento previdenciário de segurados, não exime a Funcionária Pública de sua responsabilidade penal pela prática do delito previsto pelo artigo 313-A do Código Penal, sendo necessária sua comprovação cabal para caracterizar a ausência de conduta dolosa.
+4. Materialidade e autoria delitivas comprovadas quanto ao delito previsto pelo artigo 313-A do Código Penal, para ambas acusadas.
+5. Dosimetria das penas. Readequação ao disposto no artigo 59 do Código Penal.
+6. As consequências do delito justificam a fixação da pena -base do crime do art. 313-A do Código Penal acima do mínimo legal, considerando as consequências do delito.
+7. Tem-se por descabida a incidência da agravante da pena prevista pelo artigo 61, II, g, do Código Penal, já que a condição de funcionária pública integra o tipo penal do artigo 313-A do Código Penal e, por tal razão, sua consideração implica dupla apenação por um mesmo fato .
+8. Apelações interpostas pela defesa de [NOME] e pelo Ministério Público Federal desprovidas. Apelação interposta pela defesa de [NOME] parcialmente provida.
+Irresignada, a defesa interpôs recurso especial, pleiteando a absolvição por falta de provas ou, alternativamente, o reconhecimento da prescrição da pretensão punitiva.
+Inadmitido o apelo extremo, os autos foram encaminhados a esta Corte em virtude do presente agravo.
+Contraminuta às e-STJ fls. 1.125/1.132.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso conhecido, pelo seu desprovimento, em parecer assim ementado (e-STJ fl. 1.151):
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DA DECISÃO AGRAVADA - INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. NÃO APONTADA A NORMA FEDERAL VIOLADA. DIVERGÊNCIA DE JULGADOS ENTRE AS TURMAS DO TRIBUNAL A QUO - INCIDÊNCIA DA SÚMULA Nº 13 DO STJ. PARECER PELO NÃO CONHECIMENTO OU PELO DESPROVIMENTO DO AGRAVO.
+É o relatório. Decido.
+A Corte regional não admitiu o recurso especial, sob os seguintes fundamentos: i) a parte recorrente não indicou os dispositivos da legislação infraconstitucional pretensamente violados; e ii) não prospera a alegação de prescrição da pretensão punitiva.
+Nas presentes razões, no entanto, a agravante deixou de infirmar a decisão ora agravada de maneira fundamentada, limitando-se a impugná-la de forma genérica, além de insistir na ocorrência da prescrição da pretensão punitiva
+Desse modo, nos termos do parecer do Ministério Público Federal, não havendo impugnação específica acerca dos fundamentos da decisão questionada, deve ser aplicado, por analogia, o enunciado sumular n. 182 do STJ.
+Nesse sentido, confira-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Embargos de declaração opostos com caráter infringente, que devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+3. Não tendo decorrido lapso temporal superior a 4 anos, entre os marcos temporais interruptivos, não há falar-se em prescrição da pretensão punitiva.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp 614.968/SP, Rel. Ministro NEFI CORDEIRO, DJe 29/02/2016, grifei.)
+Outrossim, não verifico a arguida prescrição da pretensão punitiva.
+Assim decidiu a Corte regional (e-STJ fls. 1.012/1.013):
+A defesa de [NOME], em razões recursais, aduz encontra-se extinta a punibilidade da acusada, em razão da prescrição da pretensão punitiva estatal (fls. 789 e 813/832).
+Sem razão.
+Há no Supremo Tribunal Federal jurisprudência reiterada de que a natureza do delito de estelionato previdenciário distingue-se conforme o papel desempenhado pelo agente. Assim, se o agente é o próprio beneficiário, o delito tem natureza permanente e o prazo prescricional se inicia com a cessação do recebimento indevido; se o autor do crime pratica a fraude em favor de outrem, o delito é instantâneo de efeitos permanente s, cujo termo inicial do prazo prescricional é o recebimento da primeira prestação do benefício indevido (STF, la Turma, HC n. 102491, Rel.: Ministro Luiz Fux, j. 10.05.11; STF, 2a Turma, ARE-AgR 663735, Rel.: Min. Ayres Britto, j. 07.02.12).
+A mesma orientação se aplica aos delitos previstos pelo artigo 313-A do Código Penal, o qual se consuma no momento em que há a inserção de dados falsos e/ou exclusão de informações corretas no sistema informatizado ou banco de dados do Instituto Nacional do Seguro Social, com o fim de obter vantagem indevida para si ou para outrem, ou causar dano ao erário.
+Nesse particular, tem-se que os fatos consumaram-se entre 27.05.03 (data de entrada do requerimento - fl. 8) e 05.06.03 (data da indevida inserção de dados no Sistema Informatizado do INSS e da concessão do benefício previdenciário - fls. 29/30).
+A sentença condenatória, quanto aos delitos previstos pelo artigo 313-A do Código Penal, transitou em julgado para a acusação (cfr. fls. 781 e 805/807), na medida em que seu recurso limitou-se a requerer a condenação das acusadas pelas práticas dos delitos previstos pelos artigos 333, parágrafo único, e 317, §1º, ambos do Código Penal.
+Com efeito, as penas privativas de liberdade impostas às acusadas tornaram-se definitivas para a acusação.
+Nesse particular, o prazo prescricional deve ser computado pela pena em concreto imposta pelo Juízo da causa, que implicará, para o delito previsto pelo artigo 313-A, do Código Penal, o prazo de 8 (oito) anos (artigo 109, IV, c. c. o artigo 110, ambos do Código Penal).
+Com efeito, transcorrido prazo inferior a 8 (oito) anos entre as datas interruptivas da prescrição - data dos fatos (em 27.05.03, cfr. fl. 8) e recebimento da denúncia (em 14.02.11, cfr. fls. 479/479v.) e entre esta data e a publicação da sentença condenatória (em 19.09.14, cfr. fl. 778) -, não há falar em prescrição da pretensão punitiva do Estado, com base na pena em concreto imposta a [NOME].
+Conforme relatado, a agravante foi condenado às penas de 2 anos e 2 meses de reclusão, em regime aberto, e 12 dias-multa, pela prática do crime do art. 313-A, c/c o art. 29, ambos do CP.
+Com essa pena, o prazo prescricional é de 8 anos, conforme o art. 109, IV, do Código Penal.
+Compulsando os autos, não verifico o transcurso desse lapso entre os marcos interruptivos, senão vejamos: i) data dos fatos em 27/5/2003 (e-STJ fl. 524); ii) a denúncia foi recebida em 14/2/2011 (e-STJ fls. 528/529); iii) a sentença condenatória foi publicada em 18/9/2014 (e-STJ fl. 904); e iv) 20/7/2017, considerando a retroação da coisa julgada à data de interposição do último recurso cabível na origem (e-STJ fl. 1.023), nos termos da orientação jurisprudencial desta Corte, firmada no EAREsp nº 386.266/SP.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
