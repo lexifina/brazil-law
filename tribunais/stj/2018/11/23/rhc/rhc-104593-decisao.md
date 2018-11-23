@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por IRANILDO MOREIRA DA ROCHA - preso cautelarmente por suposta infração ao art. 157, caput, do Código Penal - contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe (HC n. 201800301730) que denegou a ordem nos termos da seguinte ementa (e-STJ fls. 51/52):
+HABEAS CORPUS - DIREITO PENAL E DIREITO PROCESSUAL PENAL - ROUBO MAJORADO PELO CONCURSO DE AGENTES (ART. 157, CAPUT, DO CP) EM CONCURSO FORMAL - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA - NÃO ACOLHIMENTO FUNDAMENTAÇÃO IDÔNEA - INDÍCIOS SUFICIENTES DE AUTORIA E PROVA DA MATERIALIDADE DO CRIME, PRESENTES MOTIVAÇÃO CONCRETA DO PERICULUM LIBERTATIS PERIGO DE REITERAÇÃO DELITIVA PACIENTE QUE OSTENTA CONDENAÇÕES CRIMINAIS NECESSIDADE DE SALVAGUARDAR A ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO INADEQUAÇÃO DAS MEDIDAS CONSTANTES NO ART. 319 DO CPP - DENEGAÇÃO DA ORDEM - UNÂNIME.
+Nas razões do presente recurso, a defesa alega, em síntese, que o decreto prisional não apresentou fundamentação idônea para a constrição cautelar do recorrente. Assevera que o Tribunal a quo, em ação mandamental exclusiva da defesa, acrescentou motivação a fim de suprir a ausência de fundamentação do Juízo processante.
+Sustenta não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP.
+Diante do exposto, requer a revogação da prisão preventiva do recorrente.
+Contrarrazões às e-STJ fls. 93/99.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso, diante da superveniência da sentença condenatória (e-STJ fls. 128/130).
+É o relatório. Decido.
+Busca-se, em síntese, no presente recurso, a revogação da prisão preventiva do recorrente.
+Ocorre que, conforme se extrai dos autos, em 25/4/2018, o recorrente foi condenado à pena de 8 anos, 1 mês e 2 dias de reclusão e 8 meses de detenção, em regime inicial fechado. Interposto recurso de apelação contra a sentença, o apelo defensivo foi julgado em 5/7/2018. Verifica-se, ainda, que já houve o encerramento da instância ordinária, estando os autos aguardando o julgamento de AREsp interposto nesta Corte.
+Nesse aspecto, cumpre salientar, por primeiro, que o Plenário do Supremo Tribunal Federal, na sessão do dia 17/2/2016, entendeu que o início da execução da pena condenatória após a confirmação da sentença em segundo grau não ofende o princípio constitucional da presunção de inocência. O aresto ficou assim ementado:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE.
+1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal.
+2. Habeas corpus denegado (HC n. 126.292/SP, Rel. Ministro TEORI ZAVASCKI, DJe 17/5/2016).
+A partir de fevereiro/2016, o guardião da Constituição Federal esclarece (determinando) que a segregação do cidadão, após o exaurimento da jurisdição das instâncias ordinárias, independe do preenchimento dos requisitos do art. 312 do Código de Processo Penal porque representa a (então autorizada) execução provisória da pena.
+Assim, em compasso com essa nova orientação adotada pelos Tribunais Superiores, confirmada a sentença condenatória em grau de apelação, há um novo título apto a embasar a segregação do paciente, não havendo mais que se falar em prisão preventiva.
+No mesmo sentido: RHC n. 70.150/RS, Rel. Ministro FELIX FISCHER, DJe 3/6/2016; HC n. 326.918/RJ, Rel. Ministro JOEL ILAN PACIORNIK, DJe 7/6/2016; HC n. 315.471/CE, Rel. Ministro JORGE MUSSI, DJe 7/6/2016 e HC n. 336.356/PI, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, DJe 18/5/2016.
+Destarte, fica sem objeto o pedido contido na inicial, em que se impugnavam os fundamentos da prisão preventiva.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Publique. Intime-se.
