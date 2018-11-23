@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de mandado de segurança impetrado por ALEXANDRE FRANCELINO DA SILVA contra suposta omissão do Desembargador Relator de Habeas Corpus n. 0050508-18.2018.8.19.0000, impetrado em seu favor e distribuído à 6ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro/RJ, dado que, desde 13/09/2018, pende de exame o pedido de liminar que autorize o ora impetrante a aguardar, em liberdade, o julgamento de sua apelação criminal contra a sentença que o condenou, na Ação Penal n. 0067148-60.2010.8.19.0038, como "incurso no artigo 33, caput, c/c art. 40, inciso VI, da Lei 11.343/06, sendo fixada pelo Juiz monocrático a REPRIMENDA PENAL EM 8 (OITO) ANOS E 10 (DEZ) MESES DE RECLUSÃO EM REGIME FECHADO" (e-STJ fl. 5).
+Pede, assim, a concessão de "ordem liminar, e no mérito, para conceder ao mesmo o benefício de aguardar em liberdade o recurso de apelação de seu processo, sendo expedido imediato Alvará de Soltura, o que se fará singela homenagem ao DIREITO e à JUSTIÇA!" (e-STJ fl. 9).
+É o relatório. Passo a decidir.
+A via escolhida pelo impetrante é inadequada, pois o art. 1º da Lei 12.016/2009 é expresso ao estabelecer que somente "Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data (..)".
+A contrario sensu, tem-se que, se o direito envolve a liberdade de ir e vir de pessoa física e, portanto, é defensável pela via do habeas corpus, não pode ser o mesmo direito buscado pela via do mandado de segurança. É exatamente este o caso dos autos.
+E, ainda que assim não fosse, o mandado de segurança também é inadmissível em virtude de esta Corte não ter competência para julgar ação ou omissão da autoridade apontada como coatora.
+Nos termos do art. 105, inciso I, alínea "b", da Constituição Federal de 1.988, a competência desta Corte para julgamento de mandado de segurança originário é restrita às seguintes autoridades:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+(..)
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal; (Redação dada pela Emenda Constitucional nº 23, de 1999)
+Vê-se, assim, que esta Corte não detém competência para julgar mandado de segurança em que a autoridade apontada como coatora é Desembargador de Tribunal de Justiça.
+Não é por outro motivo que o enunciado n. 41 da Súmula desta Corte dispõe:
+O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos.
+Coerente com esse entendimento, a jurisprudência desta Corte tem, reiteradamente, declarado sua incompetência para o julgamento de mandados de segurança impetrados contra acórdãos de Tribunais de segundo grau, como se vê, entre outros, dos seguintes precedentes:
+MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECISÃO DE 1ª INSTÂNCIA E ACÓRDÃO DO TRIBUNAL DE JUSTIÇA. MANIFESTA INCOMPETÊNCIA DO STJ. SÚMULA 41/STJ. ATO JUDICIAL. INEXISTÊNCIA DE MANIFESTA TERATOLOGIA OU ABSURDO. PREVISÃO DE RECURSO CABÍVEL. SÚMULA 267/STF. INDEFERIMENTO LIMINAR DO WRIT.
+1. A parte impetrante aponta como atos coatores decisões judiciais de Juiz, Desembargadores e Ministros, ou seja, vários atos e várias autoridades, não cabendo neste Mandado de Segurança a análise de todos. A uma, "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos" (Súmula n.º 41 do STJ). A duas, "descabida a impetração do mandado de segurança contra ato jurisdicional dos órgãos fracionários ou de relator desta Corte Superior. Deveras, o artigo 11, IV, do Regimento Interno do Superior Tribunal de Justiça, que estabelece a competência da Corte Especial para julgar os mandados de segurança contra ato do próprio Tribunal, conforme preceitua o artigo 105, inciso I, "b", da Constituição Federal, não se refere a atos judiciais, mas, sim, aos de ordem administrativas" (AgRg no MS 21.063/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 05/11/2014, DJe 17/11/2014).
+2. No presente caso, considera-se ato coator decisão judicial proferida em processo em que se buscava anular contrato de compra e venda. Ocorre que é descabida a impetração do mandado de segurança contra o referido ato jurisdicional, pois o ajuizamento de mandado de segurança contra decisão judicial pressupõe a inexistência de recurso cabível contra tal ato, bem como que ele seja manifestamente teratológico ou absurdo, o que não ocorreu no presente caso.
+3. Agravo regimental não provido.
+(AgRg no MS 21.368/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 17/12/2014, DJe 19/12/2014) - negritei.
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS. INCOMPETÊNCIA DO STJ PARA PROCESSAR E JULGAR O MANDAMUS. ART. 105, I, "b", DA CF. INCIDÊNCIA DA SÚMULA 41/STJ. INADEQUADA IMPETRAÇÃO EM CONTRARIEDADE À DECISÃO JUDICIAL PASSÍVEL DE IMPUGNAÇÃO PREVISTA EM LEI. APLICAÇÃO DA SÚMULA 267/STF.
+1. "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos" (Súmula 41/STJ).
+2. O Mandado de Segurança não consubstancia sucedâneo recursal, afigurando-se, pois, inadequada sua impetração em contrariedade à decisão judicial passível de impugnação prevista em lei, conforme preceitua o enunciado n. 267 da Súmula do STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+3. Agravo regimental não provido.
+(AgRg no MS 22.146/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/10/2015, DJe 05/11/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECISÃO DO TRIBUNAL DE JUSTIÇA QUE NÃO ADMITIU RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA 41/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Compete ao Superior Tribunal de Justiça, processar e julgar, originariamente os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal" (art. 105, I, "b", da CF).
+2. "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos Respectivos órgãos" (Súmula 41/STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no MS 14.174/MG, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/03/2012, DJe 09/04/2012)
+Ante o exposto, por ser incabível o mandado de segurança ora sub judice, indefiro a inicial, nos termos do art. 5º, II, c/c art. 10 da Lei 12.016/2009, e com o art. 212 do Regimento Interno desta Corte; bem como decreto a extinção do processo, a teor do art. 485, I, do CPC (Lei 13.105/2015).
+Sem honorários (art. 25 da Lei 12.016/2009 e súmula 105/STJ).
+Dê-se ciência desta decisão à autoridade apontada como coatora.
+Publique-se. Intime-se.
