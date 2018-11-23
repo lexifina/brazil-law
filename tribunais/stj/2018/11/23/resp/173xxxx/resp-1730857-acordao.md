@@ -1,0 +1,68 @@
+EMENTA
+PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE. RECURSO ESPECIAL PROVIDO.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto pela Departamento Nacional de Produção Mineral - DNPM, contra decisão que indeferiu pedido de consulta, por meio do sistema Infojud, de informações patrimoniais existentes em nome do executado.
+2. O Tribunal a quo negou provimento ao Agravo de Instrumento.
+3. Contudo, esclareça-se que esta "Corte, em precedentes submetidos ao rito do art. 543-C, firmou entendimento segundo o qual é desnecessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on line (sistemas [NOME]-JUD, RENAJUD ou INFOJUD), em execução civil ou execução fiscal". (AgInt no REsp 1.184.039/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/4/2017) (grifo acrescentado).
+4. Ademais, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17/8/2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 1/7/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/6/2015; REsp 1.667.420/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 14/6/2017; AgInt no REsp 1.619.080/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 19/4/2017; AgInt no REsp 1.184.039/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/4/2017; REsp 1.347.222/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 2/9/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/5/2015, e REsp 1.582.421/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/5/2016.
+5. Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+6. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 111, e-STJ):
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO.
+EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. UTILIZAÇÃO DO SISTEMA DO INFOJUD. NÃO DEMONSTRAÇÃO DE EXAURIMENTO DE TODOS OS MEIOS PARA LOCALIZAR BENS DO EXECUTADO.
+Os Embargos de Declaração foram rejeitados (fl. 135, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, do art. 535 do CPC; e, no mérito, dos arts. 591, 612, 652, §3º, 655, I, 655-A do CPC e 198 do CTN. Afirma:
+Ultrapassado o pedido de nulidade, a AUTARQUIA requer a reforma do V. Acórdão. Conforme já salientado, a execução é realizada no interesse do credor (art. 612 do CPC).
+O moderno direito processual vem aperfeiçoando o processo (ou fase) de execução, de forma a que o direito estabelecido no título executivo seja concretizado, dando efetividade à prestação jurisdicional.
+O exaurimento de todos os meios extrajudiciais, como fundamentado no v. acórdão recorrido, para a utilização do INFOJUD não se coaduna com o art. 612 do CPC, já que a execução deve ser realizada no interesse do credor.
+À fl. 177, e-STJ, proveu-se o Agravo e determinou-se sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 10 de maio de 2018.
+Preliminarmente, constato que não se configurou a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Confira-se:
+AGRAVO REGIMENTAL. ALEGADA OFENSA AOS ARTIGOS 273, 458, II, 473, 535, II DO CÓDIGO DE PROCESSO CIVIL E 11 DA LEI N. 8692/93. SÚMULAS 05 E 07 DO STJ. EM VIRTUDE DA FALTA DE ARGUMENTOS CAPAZES DE PROVOCAR UM JUÍZO DE RETRATAÇÃO, RESTA MANTIDA A DECISÃO ANTERIOR.
+I - Os embargos de declaração são recurso de natureza particular, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição ou omissão.
+II - O simples descontentamento dos embargantes com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não, em regra, à sua modificação, só muito excepcionalmente admitida.
+(..)
+VI - Agravo improvido (AgRg nos EDcl no Ag 975.503/MS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 11/09/2008).
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, o Tribunal a quo, ao confirmar a decisão agravada que indeferiu a pesquisa de informações patrimoniais do executado por meio do Infojud, manifestou-se no sentido da necessidade de exaurimento de todos os meios necessários para a apuração de bens penhoráveis do devedor antes da utilização da penhora on line disponível ao magistrado.
+Contudo, esclareço que esta "Corte, em precedentes submetidos ao rito do art. 543-C, firmou entendimento segundo o qual é desnecessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on line (sistemas [NOME]-JUD, RENAJUD ou INFOJUD), em execução civil ou execução fiscal". (AgInt no REsp 1184039/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/04/2017)
+Ademais, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17.08.2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 01/07/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/06/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/05/2015.
+Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. PESQUISA DE BENS VIA INFOJUD. DESNECESSIDADE DE ESGOTAMENTO DE DILIGÊNCIAS.
+1. Não ocorre contrariedade ao art. 535 do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, como ocorreu na espécie.
+2. "O STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados" (AgInt no REsp 1.619.080/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 19/4/2017).
+3. Recurso especial parcialmente provido.
+(REsp 1667420/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/06/2017)
+PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+I - O STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados.
+II - Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+III - Agravo interno improvido.
+(AgInt no REsp 1619080/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 19/04/2017) (grifei).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PROVIDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. EXECUÇÃO FISCAL. PENHORA PELO SISTEMA [NOME]-JUD. DESNECESSIDADE DE ESGOTAMENTO DAS DILIGÊNCIAS PARA LOCALIZAÇÃO DE BENS. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC/73. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno.
+II - Esta Corte, em precedentes submetidos ao rito do art. 543-C, firmou entendimento segundo o qual é desnecessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on line (sistemas [NOME]-JUD, RENAJUD ou INFOJUD), em execução civil ou execução fiscal, após o advento da Lei n. 11.382/2006, com vigência a partir de 21/01/2007.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1184039/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 04/04/2017) (grifei).
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. SISTEMA RENAJUD. CONSULTA. POSSIBILIDADE. EXAURIMENTO DE DILIGÊNCIAS PARA BUSCA DE BENS DO EXECUTADO. DESNECESSIDADE.
+1. Cinge-se a controvérsia a definir se é dado ao exequente solicitar ao Juízo a busca - pelo sistema RENAJUD - de informação acerca da existência de veículos de propriedade do executado, independentemente da comprovação do esgotamento das vias extrajudiciais para tal finalidade.
+2. O RENAJUD é um sistema on-line de restrição judicial de veículos criado pelo Conselho Nacional de Justiça (CNJ), que interliga o Judiciário ao Departamento Nacional de Trânsito (Denatran) e permite consultas e envio, em tempo real, à base de dados do Registro Nacional de Veículos Automotores (Renavam) de ordens judiciais de restrições de veículos, inclusive registro de penhora.
+3. Considerando-se que i) a execução é movida no interesse do credor, a teor do disposto no artigo 612 do Código de Processo Civil; ii) o sistema RENAJUD é ferramenta idônea para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados e iii) a utilização do sistema informatizado permite a maior celeridade do processo (prática de atos com menor dispêndio de tempo e de recursos) e contribui para a efetividade da tutela jurisdicional, é lícito ao exequente requerer ao Juízo que promova a consulta via RENAJUD a respeito da possível existência de veículos em nome do executado, independentemente do exaurimento de vias extrajudiciais.
+4. Recurso especial provido.
+(REsp 1347222/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 02/09/2015)
+PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Com a entrada em vigor da Lei 11.382/2006, e como resultado das inovações nela tratadas, houve evolução no sentido de prestigiar a efetividade da Execução, de modo que a apreensão judicial de dinheiro, mediante o sistema eletrônico denominado [NOME], passou a ser medida primordial, independentemente da demonstração relativa à inexistência de outros bens.
+2. Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+3. Ademais, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17.08.2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 01/07/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/06/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/05/2015.
+4. Recurso Especial provido.
+(REsp 1582421/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 27/05/2016) (grifei).
+Diante do exposto, dou provimento ao Recurso Especial. Inversão dos ônus.
+É como voto.
