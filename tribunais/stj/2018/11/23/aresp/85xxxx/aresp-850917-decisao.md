@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] MARCO contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado na alínea "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 170):
+PROCESSUAL CIVIL. AGRAVO LEGAL (ART. 557, §1º, DO CPC). PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+1 - É dado ao relator, na busca pelo processo célere e racional, decidir monocraticamente o recurso interposto, quer negando-lhe seguimento, desde que em descompasso com "súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior", quer lhe dando provimento, na hipótese de decisão contrária "à súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior" (art. 557, caput e §1º-A, do CPC).
+2 - O denominado agravo legal (art. 557, §1º, do CPC) tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida.
+3 - Decisão que não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos em consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+4 - Agravo legal improvido.
+Não foram opostos embargos de declaração.
+No especial obstaculizado, a recorrente apontou divergência na interpretação de lei federal (art. 29, II, da Lei n. 8.213/91) entre o acórdão recorrido e julgados desta Corte, sustentando que não deve incidir o fator previdenciário nas aposentadorias concedidas àqueles que exercem funções de magistério.
+Segundo defendeu (e-STJ fl. 177):
+Tal atividade, por sua característica penosa, deve ser considerada especial para efeitos de concessão do benefício, e assim sendo, não há que se falar em aplicação do fator previdenciário. Em outras palavras, a atividade do professor deve ser classificada como especial, mormente pela necessidade de abreviação do tempo de trabalho em razão de sua penosidade, afinal, não é crível que o legislador tenha atribuído à categoria a redução do tempo necessário à aposentadoria para depois desfavorecer a classe com o fator previdenciário. Ademais, tratar a classe do professor de maneira diferenciada das demais categorias profissionais significa desrespeito ao princípio da isonomia.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o acórdão recorrido está em consonância com o entendimento desta Corte, incidindo, portanto, a Súmula n. 83/STJ.
+Na presente irresignação, a agravante sustenta que há julgados desta Corte no sentido oposto ao decidido no acórdão, postulando o acolhimento da pretensão.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que estão presentes os requisitos de admissibilidade do agravo. Entretanto, o recurso especial não merece prosperar.
+Diferentemente do que alega a recorrente, a jurisprudência desta Corte é orientada no sentido da incidência do fator previdenciário no cálculo do salário de benefício da aposentadoria por tempo de contribuição de professor nas situações em que o segurado não completar o tempo suficiente para a concessão do benefício anteriormente à edição da Lei n. 9.876/1999, como é o caso dos autos.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. ATIVIDADE DE PROFESSOR. FATOR PREVIDENCIÁRIO. INCIDÊNCIA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ já teve a oportunidade de se manifestar pela incidência do fator previdenciário no cálculo do salário de benefício da aposentadoria por tempo de serviço/contribuição de professor, quando o segurado não tiver tempo suficiente para a concessão do benefício anteriormente à edição da Lei 9.876, de 1999, como no presente caso. Precedentes.
+2. Agravo interno não provido (AgInt no REsp 1.625.813/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE DE MAGISTÉRIO. FATOR PREVIDENCIÁRIO. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno objetiva reconsiderar decisão que negou seguimento ao Recurso Especial oriundo de ação ajuizada contra o INSS, objetivando a revisão de aposentadoria de professor, para que fosse afastada a utilização do fator previdenciário no cálculo da renda mensal inicial.
+2. In casu, a agravante recebe o benefício de aposentadoria como professora desde 07/05/2012.
+3. A jurisprudência do STJ pacificou o entendimento de que não incidência do fator previdenciário sobre a aposentadoria de professor somente é possível caso o implemento dos requisitos para o gozo do benefício tenha se efetivado anteriormente à edição da Lei 9.897/99.
+4. Agravo Interno não provido (AgInt no AREsp 921.087/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/10/2016, DJe 08/11/2016).
+Confiram-se, ainda, no mesmo sentido, as seguintes decisões monocráticas: REsp n. 1.643.419/RS, Relatora Ministra ASSUSETE MAGALHÃES, DJe de 23/02/2017; REsp n. 1.490.286/RS, Relator Ministro SÉRGIO KUKINA, DJe de 23/08/2016 e AREsp n. 955.411/PE, Relator Ministro HUMBERTO MARTINS, DJe de 05/08/2016.
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
