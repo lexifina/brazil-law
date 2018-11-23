@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Juiz de Fora contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 628):
+APELAÇÃO CÍVEL - ADMINISTRATIVO - REEQUILÍBRIO ECONÔMICO-FINANCEIRO- EMPRESAS DE ÔNIBUS DO MUNICÍPIO DE JUIZ DE FORA - CUSTOS RELACIONADOS A INSTALAÇÃO DE CÂMERAS DE SEGURANÇA NOS VEÍCULOS - REPASSE DOS CUSTOS - IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS - ART. 85, CPC.
+- Não há que se falar em desequilíbrio econômico-financeiro de contrato quando não demonstrado que a obrigação imposta às concessionárias ou permissionárias tenha gerado uma relação de desproporcionalidade entre os encargos por elas assumidos e a compensação econômica que lhes corresponde pelo serviço.
+Opostos embargos declaratórios, foram desacolhidos.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85, § 2º, do CPC/2015.
+Sustenta que o acórdão recorrido incorreu em violação à legislação federal ao reduzir a verba honorária em 20% sobre o valor atualizado da causa. Aduz que "há nos autos a indicação do valor que as Embargadas entendem como dano - prejuízo sofrido-, e assim sendo, o proveito econômico." (fl. 765), motivo pelo qual a sentença, que havia arbitrado os honorário em 20% sobre o valor das despesas afirmadas na inicial, deve ser restabelecida.
+É o relatório.
+O recurso não prospera, pois o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "o critério do valor atualizado da causa foi utilizado porque não houve condenação imposta aos embargados e tampouco proveito econômico auferido pelo Município."(fl. 703), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
