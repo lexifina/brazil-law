@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por CN AUTO S/A fundado no art. 105, III, alíneas "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. COMPRA E VENDA DE AUTOMÓVEL. VÍCIO DO PRODUTO. RESPONSABILIDADE SOLIDÁRIA. ÔNUS DA QUALIDADE DO PRODUTO QUE INCUMBE À COMERCIANTE. RESCISÃO CONTRATUAL. DESPESAS COM MANUTENÇÃO E CONSERTOS QUE ASSUMEM A NATUREZA DE DANO MATERIAL. NEGADO PROVIMENTO AO RECURSO DO RÉU. DADO PARCIAL PROVIMENTO AO RECURSO DA PARTE AUTORA." (e-STJ, fl. 320)
+Opostos embargos de declaração, os mesmos foram desprovidos (e-STJ, fls. 343/347).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 191 do Código de Processo Civil, sustentando, em síntese, que houve nulidade processual absoluta causadora de cerceamento de defesa, pois havendo litisconsórcio passivo e procuradores distintos, os prazos processuais devem ser contados em dobro, de forma que os autos do processo não poderiam ter sido remetidos à instância superior antes do escoamento do prazo para oferta de contrarrazões e apelo adesivo.
+Foram apresentadas contrarrazões às fls. 374/378.
+É o relatório. Decido.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No presente caso, a sentença que julgou procedente o pedido condenatório a restituição de quantia paga pela parte agravante foi apelada pela parte agravada ([NOME]) e por apenas uma das partes agravantes (Top Car Comércio de Veículos LTDA).
+Este Superior Tribunal de Justiça entende que "quando a decisão recorrida é prejudicial aos litisconsortes, mas apenas um recorre, o prazo em dobro previsto no art. 191 do CPC existe em relação ao prazo desse recurso, no entanto passa a ser simples para os recursos posteriores" (RCDESP no Ag 1406919/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/03/2014, DJe 27/03/2014).
+Nesse mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO. PARCERIA COMERCIAL. INADIMPLEMENTO ABSOLUTO. PRECLUSÃO E INTEMPESTIVIDADE DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. MATÉRIAS QUE DEMANDAM REEXAME DE PROVA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A revisão dos fundamentos do acórdão acerca da intempestividade dos embargos de declaração, demandaria alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido. Incidência do óbice da Súmula 7 do STJ.
+2. A jurisprudência desta Corte possui entendimento de que quando a decisão recorrida é prejudicial aos litisconsortes, mas apenas um recorre, o prazo em dobro previsto existe em relação ao prazo desse recurso, no entanto passa a ser simples para os recursos posteriores. Precedentes.
+3. Rever as conclusões do acórdão recorrido, com o intuito de afastar a existência ou não de preclusão, demandaria o reexame do conjunto probatório carreado aos autos. Incidência do verbete contido na Súmula 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp 877.982/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 18/08/2017)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA CUMULADA COM COBRANÇA E PEDIDO DE CUMPRIMENTO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA LAVRA DO EMINENTE MINISTRO SIDNEI BENETI, RELATOR DESIGNADO NOS MOLDES DO ART. 4º DA RESOLUÇÃO STJ N. 17/2013, QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO APELO NOBRE. IRRESIGNAÇÃO DA RÉ.
+1. Para que um recurso seja conhecido pelo órgão ad quem, é imprescindível que o mesmo haja sido interposto dentro do prazo peremptório consignado na lei.
+2. Segundo o art. 545 do CPC/1973, vigente à época da interposição do agravo regimental, era de 5 (cinco) dias o prazo para interposição de recurso em face de decisão monocrática proferida por relator, iniciando-se o mesmo a partir do dia seguinte ao da publicação. Precedentes.
+2.1. Hipótese em que o prazo para interposição de agravo regimental se iniciou em 10/02/2014 e se findou em 14/02/2014, só tendo o referido reclamo, todavia, sido protocolizado no dia 20/02/2014.
+Reconhecimento da intempestividade que se impõe.
+3. De acordo com a reiterada jurisprudência deste STJ, se o acórdão proferido em sede de apelação é prejudicial a todos os litisconsortes, mas apenas um recorre, o prazo em dobro existe em relação ao prazo desse recurso, mas passa a ser simples para os recursos posteriores. Precedentes.
+4. Agravo regimental não conhecido."
+(AgRg no AREsp 458.401/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/08/2016, DJe 16/08/2016)
+Deste modo, em que pese as partes agravantes possuírem procuradores distintos, o prazo recursal só pode ser contado em dobro até a interposição da apelação, de modo que os demais prazos devem se contados de forma simples, conforme previsão no CPC/73.
+Considerando que a decisão que rejeitou os embargos foi publicada em 07/01/2016 e que o prazo recursal ficou suspenso até 20/01/2016, o prazo recursal iniciou-se em 22/01/2016, sendo o termo final de interposição dia 05/02/2016. Desta forma, o recurso especial interposto em 19/02/2016 é intempestivo.
+ Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
