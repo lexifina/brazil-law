@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EXECUÇÃO - RECUPERAÇÃO JUDICIAL - A recuperação judicial constitui mecanismo de superação de crise econômico-financeira da empresa, encerrando favor exclusivo da empresa devedora, e não dos coobrigados, fiadores ou avalistas. O fato de ter sido aprovado o plano de Recuperação Judicial da empresa devedora, que implica novação da dívida entre ela e o credor, não tem qualquer efeito na relação jurídica entre o credor e os devedores solidários da empresa recuperanda. RECURSO DESPROVIDO.
+Os agravantes sustentam que o acórdão estadual é omisso. Afirmam que a penhora de suas quotas sociais foi realizada em detrimento da ordem legal prevista no art. 655 do Código de Processo Civil/1973. Requerem a suspensão da execução contra os garantidores, até o término do procedimento de recuperação judicial.
+Quanto à alegada violação ao art. 535 do Código de Processo Civil, sem razão a recorrente, haja vista que enfrentadas todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto ao tema da penhora das quotas sociais, pois, além de não ter sido suscitado em sede de embargos declaratórios, é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Quanto ao mais, a Corte de origem decidiu em conformidade com o entendimento pacífico do STJ, de que são exemplo os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO DO FEITO QUANTO À UM DOS DEVEDORES. PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL.PROSSEGUIMENTO DA EXECUÇÃO EM RELAÇÃO AOS DEMAIS COOBRIGADOS. OBRIGAÇÃO AUTÔNOMA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve prequestionamento do artigo 265 do Código Civil e 178, § 1º da Lei n. 6.404/67, pois as questões neles insertas não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. Incidência da Súmula 211/STJ.
+2. Não obstante o plano de recuperação judicial opere novação das dívidas a ele submetidas, as garantias reais ou fidejussórias são preservadas, circunstância que possibilita ao credor exercer seus direitos contra terceiros garantidores e impõe a manutenção das ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral. Precedentes do STJ.
+3. O mero inconformismo do agravante com a decisão agravada não enseja a imposição da multa, não sendo decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.176.871/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/03/2018)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALEGAÇÃO DE APROVAÇÃO DA RECUPERAÇÃO JUDICIAL DO DEVEDOR PRINCIPAL. EXECUÇÃO. COOBRIGADO. SUSPENSÃO. IMPOSSIBILIDADE. NOVAÇÃO. NÃO OCORRÊNCIA. LEI Nº 11.101/2005. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP Nº 1.333.349/SP. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do
+Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na
+sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A Segunda Seção deste c. Superior Tribunal de Justiça, no julgamento do REsp 1.333.349/SP, consolidou, nos moldes do art. 543-C do CPC/73, que "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+3. No referido precedente, constou que o art. 61, § 2º, da Lei nº 11.101/2005, não poderia ser interpretado sem a análise do sistema
+recuperacional e que "muito embora o plano de recuperação judicial
+opere novação das dívidas a ele submetidas, as garantias reais ou
+fidejussórias são preservadas, circunstância que possibilita ao credor exercer seus direitos contra terceiros garantidores e impõe a manutenção das ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral".
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo regimental não provido.
+(AgRg no AREsp 677.043/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 13/10/2017)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
