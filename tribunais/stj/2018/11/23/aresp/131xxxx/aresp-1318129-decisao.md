@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 644):
+TRIBUTÁRIO. CONSELHO REGIONAL DE QUÍMICA. ANUIDADES. ATIVIDADE BÁSICA. INDÚSTRIA E COMÉRCIO DE SACOLAS PLÁSTICAS E MATERIAL PLÁSTICO PARA EMBALAGEM. REGISTRO E CONTRATAÇÃO DE PROFISSIONAL DA ÁREA QUÍMICA. INEXIGIBILIDADE.
+No recurso especial, o recorrente sustenta dissídio jurisprudencial e que " ..  não se possa confundir que ao químico compete a responsabilidade pelo processamento industrial como um todo, englobando o controle químico de qualidade das matérias primas, controle do processo industrial, controle de qualidade química dos produtos fabricados, realização de acompanhamento de análises químicas, ou seja, o profissional da química fabrica, analisa o produto sob o ponto de vista químico e físico-químico, padroniza e comercializa esse produto  .. " (fl. 655).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A irresignação não comporta conhecimento.
+De início, no caso dos autos, o recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Noutro passo, a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Por fim, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos. Incidência da Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
