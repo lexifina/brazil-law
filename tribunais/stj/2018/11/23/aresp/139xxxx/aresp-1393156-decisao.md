@@ -1,0 +1,30 @@
+DECISÃO
+ Trata-se de agravo interposto por GEISLA RIBEIRO DOS SANTOS, ZIBA FRANCISCA DA SILVA, JULIO CESAR RAFAEL BORGES, WESLEY DOS SANTOS DINIZ, MARCOS VINICIUS PEREIRA DE SOUZA, MAX RAEL DA SILVA SANTOS e [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Depreende-se dos autos que os agravantes foram condenados, como incursos nas sanções dos arts. 33 e 35, ambos da Lei n. 11.343/2006, às penas de 8 anos e 10 meses de reclusão (JÚLIO, WESLEY e GEISLA); 10 anos, 10 meses e 20 dias de reclusão (ZIBA, [NOME] e MARCOS); e 9 anos e 4 meses de reclusão (MAX).
+Sobre os fatos, consta do acórdão recorrido, im verbis (e-STJ fl. 569):
+A denúncia narra que no dia 05/08/2016, por volta das 13:45 horas, na Rua Bárbara Heliodora, nº 262, Bairro Carioca, na Cidade de São Lourenço, os apelantes, atuando em comunhão de esforços e unidade de desígnios, tinham em depósito, com escopo de tráfico, 01 invólucro plástico, 197 pedras e 28 papelotes de cocaína/crack (totalizando 106,45g), sem autorização e em desacordo com determinação legal ou regulamentar, além de uma balança de precisão.
+Irresignada, a defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem, para reduzir as penas dos agravantes (e-STJ fls. 569/602).
+Interpostos embargos infringentes, foram eles desprovidos (e-STJ fls. 621/645).
+Daí o recurso especial, no qual a defesa apontou violação ao disposto no art. 35 da Lei n. 11.343/2006, sob o argumento de que não existiriam nos autos provas suficientemente aptas para embasar o édito condenatório.
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 700/705).
+É o relatório.
+Decido.
+Suficientemente impugnados os fundamentos da decisão de inadmissibilidade do recurso especial, conheço do agravo. Vejo, no entanto, que a irresignação não merece prosperar.
+É que o Tribunal de origem, a quem cabe a análise das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar as condenações pela prática do crime de associação para tráfico.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fls. 628/629):
+Na espécie, a prova colhida expõe, sem qualquer margem a dúvida, o cometimento do delito em questão por todos os réus.
+Isso porque, conforme já bem expôs o eminente Desembargador Cássio Salomé, Relator do acórdão ora embargado, os testemunhos colhidos em Juízo demonstram que a Polícia já vinha recebendo informações acerca do envolvimento de todos, de forma organizada, com o tráfico de drogas, sendo certo que a atividade se desenvolvia na residência de alguns dos réus, onde foram todos flagrados no preparo da droga para a venda.
+Nesse sentido, colhe-se de testemunho de fl. 229, prestado pelo Policial Militar O.B.R., que, de fato, a Polícia já havia recebido diversas notícias acerca da prática do tráfico naquele imóvel, habitado por Marcos e Geisla; que a casa era muito movimentada, com constante "entra e sai" de pessoas; que, no dia dos fatos, após receberem informações de que havia chegado novo carregamento de drogas no local, os Policiais observaram a casa, constatando movimentação de pessoas ali; que esses Policiais perceberam que os ocupantes da casa  os ora embargantes) se revezavam na vigilância externa do imóvel.
+Esse cenário, somado à grande quantidade de drogas apreendidas no imóvel em que estavam todos os réus, demonstra que, conforme já fundamentado no v. acórdão ora embargado, a hipótese não é de mera coautoria no tráfico, mas de verdadeira associação para o tráfico, delito autônomo, previsto pelo art. 35 da Lei 11.343/06.
+Ora, os réus se associaram com estabilidade para esse fim, tendo desenvolvido uma estrutura para a venda de drogas ilícitas. Manifestação disso é o fato de se revezarem na vigilância da casa, conforme testemunhado pelo Policial Militar, a demonstrar a comunhão de vontades e o empenho de todos na empresa ilícita, com divisão de tarefas.
+Ressalte-se que, ainda que, de fato, não tenha havido monitoração prévia, tendo os Policiais efetuado a operação em um único dia, isso não afasta a configuração do delito em questão. Afinal, além de já ter a Polícia recebido diversas notícias acerca da ocorrência do tráfico naquele imóvel, com envolvimento dos ora embargantes, a própria dinâmica do dia fatos e a forma como foram os agentes presos em flagrante já demonstram, com segurança, a estrutura por eles formada e a estabilidade com se que uniram para o fim de traficar drogas.
+Portanto, diante de tão farto conjunto probatório, o qual aponta firmemente no sentido da prática, pelos ora embargantes, do crime de associação para o tráfico, tenho que a condenação é medida de rigor.
+Desse modo, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO. PLEITO DE ABSOLVIÇÃO. AÇÃO REVISIONAL JULGADA IMPROCEDENTE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Tendo a Corte de origem, ao indeferir a revisão criminal, concluído que as condutas praticadas pelo agravante foram comprovadas no curso da instrução processual por provas idôneas e aptas a amparar o édito condenatório, rever tal entendimento implicaria incursão na seara fático-probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+2. Agravo regimental improvido.
+(AgRg no AREsp 1184707/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/05/2018, DJe 15/05/2018)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
