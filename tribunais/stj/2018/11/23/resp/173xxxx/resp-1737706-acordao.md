@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA IMPOSTO DE RENDA. DECLARAÇÃO FRAUDULENTA EM NOME DO CONTRIBUINTE. COBRANÇA INDEVIDA. ANULAÇÃO DO DÉBITO. DANOS MORAIS CONFIGURADOS. REVOLVIMENTO. SÚMULA 7 DO STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou: "In casu, foi indevidamente constituído crédito tributário contra o autor, o que ocasionou a negativa de concessão de financiamento bancário. Em tal hipótese, o dano moral é inquestionável, sendo certo que o equívoco ocasionou significativo constrangimento moral e prejuízos à atividade laboral do demandante e sua esposa. Cumpre ressaltar não ser o caso de exclusão da responsabilidade estatal por culpa de terceiro. Isso porque, muito embora a Declaração de Ajuste Anual tenha sido transmitida de forma fraudulenta, é certo que a autoridade administrativa não istomou as cautelas exigível no caso. Ora, o autor, trabalhador rural (conforme consta em sua CTPS - evento 1,CTPS6), nunca havia apresentado Declaração de Imposto de Renda (por estar dispensado de tal obrigação), de modo que, ao ser apresentada Declaração do ano- calendário 2010, em que consta a obtenção de rendimentos no valor total de R$ 204.000,00 e patrimônio que soma R$ 2.610.000,00 (evento 1, OUT11), caberia ao Fisco verificar a autenticidade das informações transmitidas" (fls. 195-196, e-STJ). Rever tal entendimento demanda revolvimento das provas dos autos, impossível ante o óbice da Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN(Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+IRPF. DECLARAÇÃO DE AJUSTE ANUAL. FRAUDE PRATICADA POR TERCEIRO. NULIDADE DO DÉBITO TRIBUTÁRIO. DANOS MORAIS. CONDENAÇÃO.
+Tendo ocorrido a indevida constituição de crédito tributário (decorrente de fraude praticada por terceiro, que transmitiu falsa Declaração de Ajuste Anual em nome do contribuinte) , o que impediu a obtenção de financiamento pelo autor, é de ser condenada a União ao pagamento de danos morais. (fl. 198, e-STJ)
+Os Embargos de Declaração foram rejeitados (fl. 218, e-STJ).
+A recorrente alega violação do art. 1.022, II, e parágrafo único, II, do CPC/2015 e dos arts. 186, 187, 188 e 927 do CC.
+Sem contrarrazões.
+O Ministério Público Federal opina pelo não conhecimento e improvimento do Recurso Especial (fls. 273-276, e-STJ).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN(Relator): Os autos foram recebidos neste Gabinete em 21.5.2018.
+Não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que a Corte a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte recorrida examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+O Tribunal a quo consignou:
+In casu, foi indevidamente constituído crédito tributário contra o autor, o que ocasionou a negativa de concessão de financiamento bancário. Em tal hipótese, o dano moral é inquestionável, sendo certo que o equívoco ocasionou significativo constrangimento moral e prejuízos à atividade laboral do demandante e sua esposa.
+Cumpre ressaltar não ser o caso de exclusão da responsabilidade estatal por culpa de terceiro. Isso porque, muito embora a Declaração de Ajuste Anual tenha sido transmitida de forma fraudulenta, é certo que a autoridade administrativa não istomou as cautelas exigível no caso.
+Ora, o autor, trabalhador rural (conforme consta em sua CTPS - evento 1,CTPS6), nunca havia apresentado Declaração de Imposto de Renda (por estar dispensado de tal obrigação), de modo que, ao ser apresentada Declaração do ano- calendário 2010, em que consta a obtenção de rendimentos no valor total de R$ 204.000,00 e patrimônio que soma R$ 2.610.000,00 (evento 1, OUT11), caberia ao Fisco verificar a autenticidade das informações transmitidas.
+Em situações semelhantes, de cobrança de débitos decorrentes de falsas Declarações de IRPF apresentadas por terceiros, este Tribunal tem adotado o entendimento de que a União deve ser condenada por danos morais. Confira-se:
+(..)
+No que se refere à quantificação do dano moral, devem ser consideradas as circunstâncias e peculiaridades do caso, as condições econômicas das partes, a repercussão do fato e a eventual participação do ofendido para configuração do evento danoso.
+A indenização deve ser arbitrada em valor que se revele suficiente a punir o infrator e a compensar o dano causado, não podendo, ainda, constituir valor que caracterize e enriquecimento sem causa da parte que sofreu o dano.
+À vista desses critérios, revela-se razoável, in casu, a fixação da indenização no valor de R$ 10.000,00 (dez mil reais), o qual deve ser corrigido pelo IPCA-E a partir da data de seu arbitramento (Súm. 362 do STJ), acrescido de juros de mora - de 1% ao mês - , a partir da data do evento danoso, conforme enunciado da Súmula 54 do STJ.
+Impõe-se, pois, a reforma da sentença, para julgar parcialmente procedente a demanda, condenando-se a União ao pagamento de indenização por danos morais. (fls. 195-197, e-STJ)
+Como se vê, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Por tudo isso, não conheço do Recurso Especial.
+É como voto.
