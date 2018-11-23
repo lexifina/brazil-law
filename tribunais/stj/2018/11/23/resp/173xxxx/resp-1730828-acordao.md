@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. TARIFA DE ENERGIA ELÉTRICA. AÇÃO REPETIÇÃO DE INDÉBITO. ENQUADRAMENTO TARIFÁRIO EQUIVOCADO DA UNIDADE. NÃO OCORRÊNCIA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ
+1. De início, as matérias referentes aos arts. 16, caput, e § 1º, I, do Decreto 62.724/1968 e 14 do CDC não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do Recurso Especial, razão pela qual não merece ser apreciado, segundo o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Quanto à classificação tarifária do recorrente, não merece conhecimento o apelo, porquanto o que se vê é a pretensão simples de análise de provas, quando as questões suscitadas partem de argumentos de natureza eminentemente fática.
+3. De fato, o Tribunal de origem, soberano na análise das provas dos autos, com base na situação fática do caso, decidiu que o recorrente não demonstrou que fazia jus à classificação tarifária rural. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 200-201, e-STJ): "E não há, por fim, como conceder a alteração da classificação da unidade consumidora para rural, porquanto ausente dos autos a documentação necessária, qual seja: "Certificação do imóvel rural feita pelo (Instituto Nacional de Colonização e Reforma Agrária) e Comprovante de produtor rural (nota fiscal de venda do produto)."
+4. Logo, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da CF/88, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+
+ AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - PEDIDO DE ALTERAÇÃO DA CLASSIFICAÇÃO DA UNI- DADE CONSUMIDORA DE ENERGIA ELÉTRICA - AU- SÊNCIA DE PEDIDO ADMINISTRATIVO - REFORMA DA SENTENÇA.
+Comprovada pela concessionária de distribuição de e- nergia elétrica a regularidade do enquadramento da unidade consumidora, não há que se falar em repetição de indébito ou compensação pecuniária.
+Inviável, também, a alteração judicial da classificação de residencial para rural, em face da ausência da documenta- ção pertinente: certificação do imóvel rural feita pelo Incra e comprovante de produtor rural.
+Em seu Recurso Especial, o recorrente aponta violação dos arts. 16, caput, e § 1º, I, do Decreto 62.724/1968 e 14 do CDC. Argumenta (fl. 208, e-STJ):
+
+Ocorre que o fornecimento de energia para a residência do Recorrente foi classificada como INDUSTRIAL e não como RURAL como deveria ser, fazendo com que o consumidor pagasse valor muito superior ao devido, tendo em vista a classificação incorreta do fornecimento.
+Salienta-se que o imóvel rural utilizado pelo Recorrente está inscrito no INCRA sob nº 803049007960-8 e CCIR nº [CPF], que comprovam sua qualidade de rural.
+Ademais o referido imóvel é objeto do Contrato de Arrendamento de Imóvel Rural para fins de exploração agrícola, firmado em 23/03/2010 entre o Recorrente e o Sr. [NOME], proprietário do imóvel (fls. 20/21).
+Ainda, é imperioso citar que o imóvel em questão se encontra em uma localidade que é inteiramente rural, o que faz presumir que também o seja.
+Sem contrarrazões.
+O Ministério Público Federal, mediante o parecer de fls. 314-316, e-STJ, opinou pelo não conhecimento do Recurso Especial.
+É o relatório.
+
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30.4.2018.
+De início, as matérias referentes aos arts. 16, caput e § 1º, I, do Decreto 62.724/1968 e 14 do CDC não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do Recurso Especial, razão pela qual não merece ser apreciado, segundo o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Quanto à classificação tarifária do recorrente, não merece conhecimento o apelo, porquanto o que se vê é a pretensão simples de análise de provas, quando as questões suscitadas partem de argumentos de natureza eminentemente fática.
+De fato, o Tribunal de origem, soberano na análise das provas dos autos, com base na situação fática do caso, decidiu que o recorrente não demonstrou que fazia jus à classificação tarifária rural. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 200-201, e-STJ):
+Não se constata, também, ao contrário do fundamento da sentença ilegalidade no enquadramento inicial da unidade consumidora na classe industrial, realizado em 11.5.2011, porquanto verificado in loco a existência de construção a justificar a classificação, fundada no art. 5º, § 2º da Resolução 414/2010 da ANEEL (fl. 78).
+E não há, por fim, como conceder a alteração da classificação da unidade consumidora para rural, porquanto ausente dos autos a documentação necessária, qual seja: "Certificação do imóvel rural feita pelo (Instituto Nacional de Colonização e Reforma Agrária) e Comprovante de produtor rural (nota fiscal de venda do produto)"  Disponível em: <http://www.celesc.com.Br/portal/índex.php/duvidas-mais-frequentes/ligacao-nova> Acesso em 3 de março de 2017  (fl. 87).
+Ressalte-se, inclusive, ter sido essa a razão do indeferimento da antecipação da tutela no primeiro grau de jurisdição (fl. 39).
+É possível que o autor tenha, de fato, direito à classificação pretendida. O que não se verifica, no presente caso, é a alegada irregularidade perpetrada pela requerida a subsidiar a procedência dos pleitos iniciais. Diferente seria caso houvesse sido apresentado o pedido administrativo acompanhado da documentação pertinente, o que sequer foi aventado pelo consumidor.
+Assim sendo, a sentença há de ser reformada para que os pedidos iniciais sejam julgados improcedentes.
+Logo, a alteração das conclusões adotadas pela Corte a quo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. TARIFA DE ENERGIA ELÉTRICA. AÇÃO REPETIÇÃO DE INDÉBITO. FALTA DE PREQUESTIONAMENTO. ENQUADRAMENTO TARIFÁRIO EQUIVOCADO DA UNIDADE. NÃO OCORRÊNCIA. ÔNUS DA PROVA. COOPERATIVA DE ELETRIFICAÇÃO RURAL QUE NÃO ESTAVA À ÉPOCA OBRIGADA AO CUMPRIMENTO DAS NORMAS EMITIDAS PELA ANEEL. LEGALIDADE DA COBRANÇA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. 1. Impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência das Súmulas 282 e 356/STF. 2. A Corte de origem, com amparo nos elementos de convicção dos autos, assentou que é da agravante o ônus de provar que a cooperativa de eletrificação rural estava sujeita às regras impostas pela ANEEL e que não houve enquadramento tarifário equivocado da unidade. 3. Assim, insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar incursão no contexto fático-probatório dos autos, defeso em recurso especial, nos termos da Súmula 7 desta Corte de Justiça. Agravo regimental improvido. (AgRg no REsp 1575885/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/03/2016, DJe 11/03/2016)
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
