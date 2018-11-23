@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de pedido de tutela provisória, apresentado por FABIANO PEREIRA DA SILVA e outros, com o objetivo de atribuição de efeito suspensivo ao Recurso em Mandado de Segurança, ainda não processado pela instância de origem.
+Alega, para tanto, que:
+"5. No caso específico, inequívoco o cabimento do pedido de tutela de urgência e a competência dessa e. Corte para a apreciação desta antecipação da tutela recursal ao recurso ordinário (doc. 3), já interposto, hoje, contra o v. acórdão do e. Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro (doc. 1  fls. 201/210), que, por apertada maioria (10x7), denegou a segurança.
+6. Sobre o tema, veja-se que o art. 288 do RISTJ admite "tutela de urgência ou tutela de evidência requeridas em caráter antecedente ou incidental na forma da lei processual". Por seu turno, o art. 299, parágrafo único, do CPC/15 determina que "( ) nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito".
+7. Ora, se o órgão competente para julgamento do mérito do recurso ordinário é o e. Superior Tribunal de Justiça, não há dúvida de que a essa Corte Superior cabe a apreciação deste requerimento incidental.
+8. Ademais, o art. 247 de RISTJ estabelece que "aplicam-se ao recurso ordinário em mandado de segurança, quanto aos requisitos de admissibilidade e ao procedimento no Tribunal recorrido, as regras do art. 1.028 do Código de Processo Civil", cuja redação é seguinte:
+(..)
+9. Como se vê, aplica-se ao recurso ordinário as regras concernentes aos recursos especiais e extraordinários, conforme o aludido dispositivo do Regimento Interno deste e. Tribunal. Por sua vez, o art. 1.029, 5º, I, do CPC, determina que o pedido de concessão de efeito suspensivo será, após a decisão que admite o recurso, formulado ao Tribunal Superior respectivo.
+(..)
+13. O recurso ordinário a ser distribuído, em breve, nessa colenda Corte trata do indeferimento da inscrição do autor, pelo critério de remoção, no LIX Concurso Público para Outorga das Delegações das Atividades Notariais e/ou Registrais do Estado do Rio de Janeiro, sob o fundamento de que não restou comprovado o interstício de 2 (dois) anos exigido para a sua participação no concurso pelo critério de remoção.
+14. Publicado o v. acórdão recorrido em 7.11.18, o autor já interpôs o recurso ordinário aludido, demonstrando violação frontal a direito líquido e certo, uma vez que ele atendia a todos os requisitos, legais e constantes do edital, essenciais à regular participação no concurso (doc. 3).
+(..)
+19. Em atenção à segurança jurídica e, mais do que isso, à injustiça escancarada que está prestes a ser concebida, roga-se ao eminente Ministro relator que defira o pedido de liminar aqui requerido, uma vez que há manifesto receio de perigo de dano, bem como probabilidade do direito alegado no writ, cujo acórdão certamente será reformado por esse egrégio Superior Tribunal de Justiça.
+20. Por outro lado, não há qualquer perigo inverso. Se, ao final, não for provido o recurso ordinário, do que apenas se cogita para argumentar, basta que se desconsiderem os resultados obtidos pelo impetrante nas provas" (fls. 5/9e).
+Prossegue afirmando que "O ora autor teve, inicialmente, a sua inscrição deferida, pelo critério de remoção, no LIX Concurso Público para Outorga das Delegações das Atividades Notariais e/ou Registrais do Estado do Rio de Janeiro. No entanto, posteriormente, o deferimento foi revogado (Doc. 2 - fls. 8), em razão de ilegal interpretação conferida ao item 4.2.b 1 do instrumento convocatório (Doc. 2 - fls. 09/40), bem como ao artigo 17 da Lei nº 8.935/94, que dispõe sobre os serviços notariais e de registro (Lei dos Cartórios), pelo egrégio Conselho da Magistratura que manteve a revogação da decisão que deferiu a inscrição do impetrante, sob o fundamento de que não restou comprovado o interstício de 2 (dois) anos exigido para a sua participação no concurso pelo critério de remoção" (fl. 10e).
+Conforme bem ressaltado pelo peticionário, nos termo do art. 1.029 do CPC/2015, compete ao Presidente ou ao Vice-Presidente do Tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, a análise do pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial.
+Confira-se a exata dicção legal:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+I - a exposição do fato e do direito;
+II - a demonstração do cabimento do recurso interposto;
+III - as razões do pedido de reforma ou de invalidação da decisão recorrida.
+ ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; (Redação dada pela Lei nº 13.256, de 2016)
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037. (Redação dada pela Lei nº 13.256, de 2016)
+O mesmo entendimento, todavia, deverá ser aplicado ao Recurso em Mandado de Segurança, à luz do disposto nos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º e III, do CPC/2015, cuja redação é a seguinte:
+"Art. 1.027. Serão julgados em recurso ordinário:
+I - pelo Supremo Tribunal Federal, os mandados de segurança, os habeas data e os mandados de injunção decididos em única instância pelos tribunais superiores, quando denegatória a decisão;
+II - pelo Superior Tribunal de Justiça:
+a) os mandados de segurança decididos em única instância pelos tribunais regionais federais ou pelos tribunais de justiça dos Estados e do Distrito Federal e Territórios, quando denegatória a decisão;
+b) os processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País.
+ ..
+§ 2º Aplica-se ao recurso ordinário o disposto nos arts. 1.013, § 3º, e 1.029, § 5º.
+Art. 1.028. Ao recurso mencionado no art. 1.027, inciso II, alínea "b", aplicam-se, quanto aos requisitos de admissibilidade e ao procedimento, as disposições relativas à apelação e o Regimento Interno do Superior Tribunal de Justiça.
+ ..
+§ 2º O recurso previsto no art. 1.027, incisos I e II, alínea "a", deve ser interposto perante o tribunal de origem, cabendo ao seu presidente ou vice-presidente determinar a intimação do recorrido para, em 15 (quinze) dias, apresentar as contrarrazões.
+§ 3º Findo o prazo referido no § 2º, os autos serão remetidos ao respectivo tribunal superior, independentemente de juízo de admissibilidade."
+No caso, o recurso interposto contra o acórdão que denegou a segurança, não esgotou seu trâmite perante o TJRJ, encontrando-se pendente de processamento.
+Desse modo, observada a legislação citada, o pedido de de concessão de efeito suspensivo ativo deverá ser protocolado, pela parte ora requerente, no Tribunal de Justiça do Estado do Rio de Janeiro, enquanto não processado.
+Como se não bastasse - e a título meramente ilustrativo -, verifica-se que, ainda que em juízo perfunctório, no caso, com os elementos de que disponho, não antevejo fumus boni iuris na pretensão veiculada na inicial, porquanto, ao que se tem dos autos, a conclusão do Tribunal de origem, em tese, não discrepa da jurisprudência desta Corte, in verbis:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. CONCURSO DE REMOÇÃO. OUTORGAS DE DELEGAÇÃO DE SERVIÇOS DE NOTAS E DE REGISTROS DO ESTADO DO MARANHÃO. EXIGÊNCIA DE 2 (DOIS) ANOS DE TITULARIDADE PARA PARTICIPAR DO CERTAME. MOMENTO DA AFERIÇÃO. PUBLICAÇÃO DO PRIMEIRO EDITAL. CRITÉRIO LEGÍTIMO. INTELIGÊNCIA DO ART. 17 DA LEI N. 8.935/94 E DA RESOLUÇÃO N. 81 DO CONSELHO NACIONAL DE JUSTIÇA. INAPLICABILIDADE DA SÚMULA N. 266/STJ. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. RECURSOS ESPECIAIS IMPROVIDOS.
+(..)
+II - O critério temporal de dois anos de exercício de titularidade em cartório, exigido pela Lei n. 8.935/94 e pela Resolução n. 81 do CNJ, para disputar concurso de remoção, representa condição para participação no próprio certame, não se tratando de mero requisito para o exercício de atividade notarial no cartório de destino, de modo que possa ser aferido tão somente no momento da posse. Inaplicável, à espécie, a orientação contida na Súmula 266/STJ.
+III - Cuida-se de critério objetivo adotado pelo legislador ordinário que não revela nenhuma desproporcionalidade, não havendo falar em violação ao art. 17 da Lei n. 8.935/94, cuja interpretação não permite outra conclusão senão a de que o tempo de exercício na titularidade de cartório deve ser aferido antes de o candidato submeter-se ao certame, ou seja, não poderá ser admitido na disputa quem não preencha tal requisito.
+IV - O tempo de exercício de titularidade cartorária, exigido nos concursos de remoção de cartórios, assemelha-se ao período de prática jurídica necessário à inscrição em concursos da Magistratura ou do Ministério Público, hipótese em que o Supremo Tribunal Federal, no julgamento da ADI n. 3.460/DF, concluiu ser constitucional a exigência da comprovação do requisito na data da inscrição no concurso.
+(..)
+VI - Recursos especiais improvidos" (STJ, REsp 1.394.902/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 20/03/2018).
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA OUTORGA DE DELEGAÇÕES DE NOTAS E DE REGISTRO DO ESTADO DO ACRE. CRITÉRIO PARA REMOÇÃO. PREVISÃO EXPRESSA DO EDITAL DE COMPROVAÇÃO DE IMPLEMENTO DOS REQUISITOS NA DATA DA INSCRIÇÃO DEFINITIVA. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELO PROVIMENTO DO RECURSO. RECURSO ORDINÁRIO DESPROVIDO.
+1. O art. 17, da Lei 8.934/94, bem como a Resolução 81/2009 do CNJ, determinam que o candidato ao concurso de remoção deve atender à exigência de dois anos de prévio exercício de atividade notarial na data da inscrição no certame; nenhuma das normas refere-se expressamente a eventual inscrição preliminar.
+2. In casu, o edital do concurso (Edital 19/2012, de 19 de junho de 2012, do Tribunal de Justiça do Estado do Acre) impunha o requisito de pelo menos dois anos de exercício cartorário para que o interessado pudesse inscrever-se no certame de remoção; o referido edital exige que o implemento do biênio esteja consumado na data da inscrição definitiva do candidato (itens 2.3 e 10.1), daí porque, o termo inicial dessa contagem terá que ser, necessariamente, a data dessa mesma inscrição definitiva.
+3. A jurisprudência deste STJ é rigorosamente torrencial e uniforme quanto à obrigatoriedade de seguir-se fielmente as disposições editalícias como garantia do princípio da igualdade, e sem que isso signifique qualquer submissão a exigências de ordem meramente positivistas. Precedentes.
+4. Recurso Ordinário desprovido" (STJ, RMS 48.057/AC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 11/06/2015).
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - CARTÓRIO EXTRAJUDICIAL - CONCURSO DE REMOÇÃO - EXIGÊNCIA DO EFETIVO EXERCÍCIO DA ATIVIDADE DE NOTÁRIO E REGISTRADOR HÁ PELO MENOS DOIS ANOS - ART. 17, LEI Nº 8.935/94 - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - RECURSO DESPROVIDO.
+1. Segundo jurisprudência desta Corte, a delegação dos serviços notariais, por remoção, só é possível quando o candidato já esteja no efetivo exercício da mesma atividade, sob pena de se caracterizar provimento derivado, vedado pelos arts. 37, II, e 236, CR/88.
+2. Não bastasse, a Lei Federal nº 8.935/94, art. 17, que disciplina o concurso de remoção, determina que dele só podem participar aqueles que sejam titulares de serventias há mais de dois anos.
+Ausência de direito líquido e certo.
+3. Recurso desprovido" (STJ, RMS 20.912/RJ, Rel. Ministro PAULO MEDINA, SEXTA TURMA, DJU de 01/08/2006).
+Ante o exposto, não conheço do pedido.
+I.
