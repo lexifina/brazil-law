@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 606):
+AGRAVO DE INSTRUMENTO. AÇÃO DE NULIDADE DE PROTESTO. LIMINAR CONCEDIDA. PRESENÇA DOS REQUISITOS PARA CONCESSÃO. PROTESTO LEVADO A EFEITO SEM INTIMAÇÃO DA DEVEDORA. RECURSO DESPROVIDO.
+Na origem, o agravo de instrumento foi interposto "contra decisão que, em ação declaratória de nulidade de protesto com pedido de antecipação de tutela parcial c/c indenização por dano moral (..), deferiu a antecipação dos efeitos da tutela, para determinar a suspensão dos efeitos do apontamento do título a protesto" (e-STJ fl. 606). Sustentou o agravante, dentre outros, que "a Comarca de Londrina/PR é competente para dirimir quaisquer questões atinentes ao Contrato de compra e venda que tem por objeto a compra pela autora de 50% da vaca fêmea Nelore P.O. - Shakira; (..)" (e-STJ fl. 607).
+A respeito de tal contrato, há decisão anterior proferida no AREsp n. 12.702/PR, (e-STJ fls. 1.647/1.648), pela Ministra NANCY ANDRIGHI, conhecendo do agravo e negando seguimento ao recurso especial. Nesse AREsp n. 12.702/PR, envolvendo as mesmas partes, o especial impugnava acórdão proferido em agravo de instrumento interposto contra decisão proferida nos autos de "ação cautelar objetivando retirar da posse da ré um semovente (vaca Nelore Pura Origem "Shakira"), suas crias e seu material genético visando assegurar a satisfação de eventual direito a ser reconhecido na ação principal" (e-STJ fl. 1.359).
+Considerando a decisão anterior, proferida em 17/8/2011, verifica-se a prevenção do órgão julgador, no caso, a TERCEIRA TURMA desta Corte (arts. 71, § 1º, do RISTJ e 930, parágrafo único, do CPC/2015).
+À Coordenadoria da QUARTA TURMA para as providências cabíveis.
+Publique-se e intimem-se.
