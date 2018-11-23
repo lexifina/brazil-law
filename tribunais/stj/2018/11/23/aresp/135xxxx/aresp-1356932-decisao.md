@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, por aplicação das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 635/636).
+O Tribunal de origem conheceu e negou provimento ao recurso do agravante OSWALDO ARAUJO FILHO. Confira-se a seguinte ementa (e-STJ fls. 548/549):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C DESPEJO E COBRANÇA. ARRENDAMENTO RURAL. ILEGITIMIDADE ATIVA. MANIFESTAÇÃO DE TESTAMENTEIRO. INOVAÇÃO RECURSAL. PRECLUSÃO DE INCIDENTE DE FALSIDADE. ILEGITIMIDADE DE INVENTARIANTE. PRELIMINARES AFASTADAS. SUBARRENDAMENTO. PREVISÃO CONTRATUAL DE NECESSIDADE DE CONSENTIMENTO EXPRESSO. PERÍCIA DOCUMENTAL. DIVERGÊNCIA ENTRE LAUDO OFICIAL E DE ASSISTENTE TÉCNICO. PREVALÊNCIA DO LAUDO ELABORADO POR EXPERT NOMEADO PELO JUÍZO. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS NOS TERMOS DO ARTIGO 20, § 3º, DO CÓDIGO DE PROCESSO CIVIL DE 1973, VIGENTE À ÉPOCA DA SENTENÇA. SENTENÇA MANTIDA
+1. Nos termos do artigo 12 do Código de Processo Civil de 1973, vigente à época, o inventariante tem legitimidade para representar o espólio em juízo, ativa e passivamente, cabendo a esse a defesa dos seus direitos e interesses.
+2. Não tendo sido a matéria de impossibilidade de manifestação do testamenteiro arguida perante o juízo singular, pelo apelante, não se faz crível a inovação em sede recursal, sob pena de supressão de instância e afronta aos princípios do contraditório e da ampla defesa.
+3. Não há falar em análise do cabimento do incidente de falsidade nesse momento processual, tendo em vista que a sentença nele proferida já transitou em julgado, assim como não merece prosperar a alegada ilegitimidade da inventariante, em virtude da nulidade do testamento, uma vez que houve a sua devida substituição nos autos.
+4. O laudo pericial elaborado por perito oficial nomeado em juízo deve sobrepujar e prevalecer sobre o laudo particular, produzido unilateralmente e por assistente técnico contratado, porque confeccionado por expert que, equidistante do conflito de interesses estabelecido entre as partes, está revestido de imparcialidade e goza de presunção de veracidade.
+5. A condenação dos honorários advocatícios deve ser mantida, porquanto arbitrada nos termos da lei adjetiva, que determina a sua fixação entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento), sobre o valor da condenação.
+6. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram parcialmente providos (e-STJ fls. 585/591).
+No recurso especial (e-STJ fls. 595/616), com fundamento no art. 105, III, alínea "a", da CF, o recorrente alegou violação do art. 535 do CPC/1973, sustentando haver omissão no acórdão recorrido, uma vez que não houve o enfrentamento da questão relativa à majoração dos honorários advocatícios arbitrados pelo juízo, em sede de embargos de declaração.
+Aduziu ainda ofensa aos arts. 3º, 267, IV e VI, e 990 do CPC/1973, afirmando ser incabível a manifestação do testamenteiro, no vertente caso, tendo em vista que cabe ao inventariante promover os atos de interesse do espólio. Asseverou que a nulidade do testamento, reconhecida judicialmente, exerce influência no julgamento do feito, tornando inócua a figura do testamenteiro e da inventariante [NOME], implicando na ausência de legitimidade para representar o espólio, no caso em exame.
+Sustentou, ainda, violação ao art. 390 do CPC/1973, arguindo a preclusão da alegação de falsidade, objeto do incidente que fora julgado procedente.
+Ofereceram-se contrarrazões (e-STJ fls. 624/633).
+No agravo (e-STJ fls. 639/650), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 654/658).
+É o relatório.
+Decido.
+Em relação à afronta ao art. 535 do CPC/1973, os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No que se refere à omissão relacionada à majoração dos honorários advocatícios, o acórdão recorrido entendeu da seguinte maneira (e-STJ fls. 546):
+Por derradeiro, no que pertine ao arbitramento dos honorários advocatícios, tenho que realizado em conformidade com a lei adjetiva, tendo em vista que, nos termos do artigo 20, § 3º, do Código de Processo Civil de 1973, vigente à época em que proferida a sentença, os honorários serão fixados entre o mínimo de dez por cento (10%) e o máximo de vinte por cento (20%) sobre o valor da condenação.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O Tribunal de origem negou provimento ao recurso de apelação do agravante e assentou que a matéria relativa à impossibilidade de manifestação do testamenteiro é uma inovação recursal, uma vez que não foi arguida, pelo apelante, perante o juízo singular. Confira-se (e-STJ fl. 542):
+Já, com relação à alegação de impossibilidade de manifestação por parte do testamenteiro, observo que em momento algum a referida matéria foi arguida pelo apelante, não sendo crível, por conseguinte, a inovação em sede recursal, sob pena de supressão de instância e afronta aos princípios do contraditório e da ampla defesa.
+Contudo, no especial, a parte não impugnou esse fundamento, incidindo, portanto, a Súmula n. 283 do STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. COMPRA E VENDA. IMÓVEL LITIGIOSO. CIÊNCIA INEQUÍVOCA. CLÁUSULA RESOLUTIVA. REGISTRO IMOBILIÁRIO. BOA-FÉ AFASTADA. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONTEXTO FÁTICO DA DEMANDA. CONSIGNAÇÃO INEFICAZ. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF E 5 E 7/STJ. INCIDÊNCIA.
+(..)
+3. Demanda indevido reexame do conteúdo fático e contratual dos autos, com óbice processual nos enunciados 5 e 7 da Súmula do STJ, reverter as conclusões do Tribunal de origem nesse aspecto, circunstância que afasta a aplicação do enunciado 375 da Súmula do STJ à hipótese dos autos.
+4. É inadmissível o recurso especial que não impugna motivação do acórdão recorrido apta, por si só, a manter parte da conclusões a que chegou a Corte estadual (enunciado 283 da Súmula do STF).
+5. Agravo interno a que se nega provimento.
+(AgRg no AgRg no REsp 1483331/DF, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/6/2016, DJe 30/6/2016.)
+Em relação, ainda, à questão da irregularidade da representação do espólio, ante a decretação de nulidade do testamento, a Corte local concluiu que, quando da declaração da nulidade do testamento, foi devidamente realizada a substituição da inventariante, sendo esta, parte legítima para representar o espólio na presente ação.
+No recurso especial, a parte não impugnou esse fundamento, incidindo, mais uma vez, a Súmula n. 283 do STF.
+Ademais, o acórdão recorrido, após análise do acervo probatório, concluiu pela legitimidade da inventariante e inexistência de falha na representação do espólio. A revisão desse entendimento não pode ser feita em recurso especial, por causa da Súmula n. 7 do STJ.
+O Tribunal a quo assim fundamentou sua decisão, em relação à violação do art. 390 do CPC/1973 (e-STJ fl. 543):
+O apelante alega, ainda, a preclusão do incidente de falsidade já julgado, bem como a ilegitimidade da inventariante para representar o espólio, ante a decretação de nulidade do testamento pelo Poder Judiciário.
+No entanto, verifico não lhe assistir razão quanto à análise do cabimento do incidente de falsidade, tendo em vista que a sentença nele proferida até mesmo já transitou em julgado, nem mesmo no que tange à ilegitimidade da inventariante, uma vez que houve a sua devida substituição nos autos após a decretação de nulidade do testamento.
+As instâncias de origem, soberanas na análise das circunstâncias fáticas, entenderam que, quanto à preclusão para instauração do incidente de falsidade, havia sido proferida anteriormente sentença com trânsito em julgado, estando preclusa a matéria relativa à tempestividade do incidente, visto que foi devidamente analisada. Portanto, modificar tal entendimento demandaria reexame do contexto fático-probatório dos autos, providência vedada no recurso especial pelo óbice da Súmula n. 7 do STJ, conforme se observa nos seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.REINTEGRAÇÃO DE POSSE. SISTEMA DA PERSUASÃO RACIONAL. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. No sistema da persuasão racional, adotado pelo Código de Processo Civil (arts. 130 e 131 do CPC), o magistrado é livre para examinar o conjunto fático-probatório produzido nos autos para formar sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou a prova dos autos, mormente a prova pericial e documental, para concluir que o recorrente não comprovou exercer a posse da área litigiosa. Em tais condições, o exame da pretensão recursal, no sentido de verificar que a prova testemunhal corroboraria a tese do recorrente, encontra óbice na mencionada súmula.
+4. Agravo regimental a que se nega provimento
+(AgRg no REsp nº 1.032.425/MT, de minha relatoria, QUARTA TURMA, julgado em 18/11/2014, DJe 25/11/2014)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. PROVA PERICIAL. ESPECIFICAÇÃO. PRECLUSÃO. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adotou para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Tendo o tribunal de origem entendido que ocorreu a preclusão temporal do direito da recorrente especificar as provas, para alterar tal conclusão seria necessário o reexame de provas, o que é inviável em sede de recurso especial, conforme enunciado da Súmula nº 7 do Superior Tribunal de Justiça.
+4. Agravo regimental não provido.
+(AgRg no REsp 1546237/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2015, DJe 23/10/2015)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
