@@ -1,0 +1,84 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Estado do Rio de Janeiro contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o recurso especial com amparo na inexistência de violação do art. 535 do CPC/1973; no óbice da Súmula 83/STJ com respeito à tese fundada no art. 1º do Decreto n. 20.910/1932; e no empecilho da Súmula 7/STJ relativamente às demais razões recursais.
+O agravante afirma a violação do art. 535, I e II, do CPC/1973, alegando contradições quanto: a) à formulação de pedido genérico e o disposto nos arts. 282, IV, e 286, caput, do CPC/1973; b) à necessidade de devolução dos autos à primeira instância para perícia contábil; c) à aplicação da Súmula 85/STJ, porque caracterizada prescrição do fundo de direito; d) ao fato de que os demandantes não ajuizaram a ação da qual se originou a suposta distorção remuneratória; e) à atribuição de efeitos erga omnes à declaração incidental de inconstitucionalidade no MS 583/1987; e) à exigência de lei formal para qualquer tipo de incremento remuneratório, vedada equiparação com base no princípio da isonomia; f) à configuração de sucumbência recíproca (art. 21 do CPC/1973).
+Afirma também obscuridade no julgado, "porquanto não há qualquer indicação de que a vigência do artigo 5º, da Lei n. 1.206/87, tenha sido suprimida por ato do Senado ou da Assembleia Legislativa" (e-STJ, fl. 433). Refere ainda omissão com respeito à Lei n. 1.206/1987; aos arts. 2º, 37, X, 39, § 1º, 167, I e II, e 169, § 1º, da CF/1988; aos arts. 16 e 17 da LC n. 101/2000; ao caráter concreto do art. 5º da Lei n. 1.206/1987.
+Defende a inaplicabilidade da Súmula 7/STJ, argumentando que as matérias pertinentes aos arts. 267, IV, 282, IV, 286, 469, III, 472 e 535, I e II, do CPC/1973 não demandam reapreciação de fatos ou provas. Sustenta o mesmo em relação aos arts. 21, caput, 333, I, e 459, parágrafo único, do CPC/1973; 16 e 17 da LC n. 101/2000. Destaca serem "incontroversas as datas de ingresso dos autores nos quadros do Tribunal de Justiça, assim como o transcurso do prazo de 5 (cinco) anos previsto no artigo 1º, do Decreto n. 20.910/32" (e-STJ, fl. 437).
+Alterca descaber a incidência da Súmula 83/STJ, amparando-se no julgamento proferido pela Sexta Turma do STJ no REsp 437.668/SP, publicado em 13/10/2003.
+Contraminuta às e-STJ, fls. 497/502.
+É o relatório.
+O presente recurso não merece conhecimento.
+A inadmissão do recurso especial pelo Tribunal local fundou-se na inexistência de violação do art. 535 do CPC/1973; no óbice da Súmula 83/STJ com respeito à tese fundada no art. 1º do Decreto n. 20.910/1932; no empecilho da Súmula 7/STJ relativamente às demais razões recursais.
+Muito embora o presente agravo tenha apresentado razões suficientes para o exame das alegações fundadas no art. 535 do CPC/1973 e barradas com base no verbete sumular de n. 7 desta Corte Superior, tal fato não se verifica em relação à imposição do empecilho contido na Súmula 83/STJ.
+No ponto, o Tribunal local consignou o seguinte (e-STJ, fls. 372/374):
+No que pertine à alegada ofensa ao artigo 1º do Decreto 20.910/37 o recurso também não deve ser admitido.
+Muito ao contrário do que pretende fazer crer o Recorrente, o v. acórdão recorrido encontra-se em absoluta e perfeita harmonia com a jurisprudência pacificada do e. Superior Tribunal de Justiça, circunstância que atrai a incidência do verbete n. 83, da Súmula daquela Corte Superior: "Não se conhece do recurso especial pela divergência, quando a decisão do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Neste sentido:
+AGRAVO DE INSTRUMENTO Nº 1.376.463 - PE (2010/0226286- 7) RELATOR : MINISTRO NAPOLEÃO NUNES MAIA FILHO AGRAVANTE: FUNDAÇÃO DE APOSENTADORIAS E PENSÕES DOS SERVIDORES DO ESTADO DOPERNAMBUCO - FUNAPE E OUTROPROCURADOR : GIOVANA ANDRÉA GOMES FERREIRA E OUTRO(S)AGRAVADO : MARIA APARECIDA DA SILVA ALBUQUERQUE E OUTROS ADVOGADO : [NOME]) DECISÃO
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de Pernambuco, assim ementado, na parte que interessa:
+REEXAME NECESSÁRIO E APELAÇÕES CÍVEIS. DIFERENÇA DE 11,98% REFERENTE À CONVERSÃO DA MOEDA EM URV.
+ART. 168 DA CONSTITUIÇÃO FEDERAL. PENSIONISTAS DE MEMBROS DO EXECUTIVO E DO JUDICIÁRIO.
+1. O fato em si da conversão das remunerações de cruzeiro real para URV (Unidade Real de Valor), no ano de 1994, nos moldes determinados pela Lei n. 8.880/1994 não implica em negativa do fundo do direito, que possa ensejar a aplicação, no caso, da prescrição do fundo do direito.
+2. Reconhecida, todavia, a ocorrência da prescrição no tocante às parcelas vencidas há mais de cinco anos antes da propositura da ação.(..) 8. Reexame necessário parcialmente provido, para reconhecer a prescrição das parcelas vencidas antes de 12 de setembro de 1998, devidas a [NOME], prejudicados os apelos voluntários (fls. 287).
+2. Nas razões de seu Apelo Nobre inadmitido, o recorrente sustenta violação ao art. 1o. do Decreto 20.910/32, ao fundamento de que ocorreu a prescrição do fundo de direito em que se funda o pleito inicial.
+3. É o relatório. Decido.
+4. A irresignação não merece prosperar.
+5. O acórdão recorrido está em consonância com o entendimento firmado por esta Corte de que nas demandas em que se busca o reconhecimento de diferenças salariais advindas de errônea conversão da moeda, como no caso, a prescrição atinge tão somente as parcelas anteriores aos 5 (cinco) anos que antecederam a data da propositura da ação, nos termos da Súmula 85/STJ, uma vez que a relação jurídica existente é de trato sucessivo, que se renova mês a mês. Nesse sentido, citem- se os seguintes julgados:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CONVERSÃO EM URV. APLICAÇÃO DA LEI N. 8.880/94. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. RESP 1.101.726/SP.
+1. De acordo com o entendimento firmado no STJ, nos casos de pedido de diferenças salariais originadas da conversão de cruzeiros reais para URV, não há que falar em prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, por incidência do disposto na Súmula 85 deste Tribunal.
+2. A Terceira Seção, no julgamento do Recurso Especial 1.101.726/SP, de relatoria da Min. Maria Thereza de Assis Moura, submetido ao rito dos recursos repetitivos, nos termos do art. 543- C do CPC e da Resolução 8/STJ, determinou que é obrigatória a observância, pelos Estados e Municípios, dos critérios previstos na Lei Federal n. 8.880/94 para a conversão em URV dos vencimentos e dos proventos de seus servidores, considerando que, nos termos do art. 22, VI, da Constituição Federal, é da competência privativa da União legislar sobre o sistema monetário.
+3. Reajustes determinados por lei municipal superveniente à Lei n.
+8.880/94 não têm o condão de corrigir equívocos procedidos na conversão dos vencimentos dos servidores em URV, por se tratar de parcelas de natureza jurídica distintas.
+4. A matéria ventilada nas razões do recurso especial não necessita de análise de matéria fático-probatória e de interpretação de legislação municipal, pois o simples cotejo entre os fatos descritos no acórdão e a pretensão manifestada no recurso especial afastam a incidência das Súmulas 7/STJ e 280/STF.
+5. Quanto aos honorários advocatícios, estes foram fixados dentro de parâmetro razoável, em decorrência da total sucumbência do agravante, motivo pelo qual, não há que falar em redução do quantum estabelecido.
+Agravo regimental improvido (AgRg no REsp. 1.211.587/MG, 2T, Rel. Min. HUMBERTO MARTINS, DJe 10.5.2011).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIFERENÇAS REMUNERATÓRIAS. PRESCRIÇÃO. OBRIGAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. IMPOSSIBILIDADE DE REEXAME DO ACÓRDÃO. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. ART. 260 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO.
+- Nas causas em que se discute a obrigação de trato sucessivo, se não houver a manifestação expressa da administração pública negando o próprio direito pleiteado, não há falar em prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu a propositura da ação. Inteligência do enunciado n. 85 da Súmula do STJ.(..) Agravo regimental improvido (AgRg no REsp. 1.206.448/RS, 2T, Rel. Min. CESAR ASFOR ROCHA, DJe 16.6.2011).
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. DECRETOS 36.033/94 E 36.829/95 DO ESTADO DE MINAS GERAIS.
+REAJUSTE DE VENCIMENTOS. PRESCRIÇÃO. APLICAÇÃO DA SÚMULA 85/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas discussões relativas à extensão de reajuste de vencimentos, nas quais não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85 do STJ, que prevê a prescrição apenas em relação ao período anterior a cinco anos da propositura da ação.
+Precedentes.
+2. Agravo Regimental desprovido (AgRg no REsp. 1015990/MG, 5T, minha relatoria, DJe 8.11.2010).
+6. Ante o exposto, com fundamento no art. 34, VII do RISTJ, nega-se provimento ao Agravo.
+7. Publique-se.
+8. Intimações necessárias.
+Brasília/DF, 1º de setembro de 2011.
+NAPOLEÃO NUNES MAIA FILHO MINISTRO RELATOR (Ministro NAPOLEÃO NUNES MAIA FILHO, 08/09/2011)
+O agravante, por outro lado, não demonstra a dissonância do aresto combatido com a jurisprudência do STJ. Para infirmar a solução estabelecida pela origem, cita apenas um único precedente publicado no ano de 2003.
+Incumbia à parte interessada apontar precedentes contemporâneos ou supervenientes ao acima mencionado, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior. Mas tal não ocorreu na espécie.
+A respeito disso, observem-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO. NÃO OCORRÊNCIA. SÚMULA 182/STJ. INCIDÊNCIA.
+1. O agravante não infirma especificamente os fundamentos da decisão impugnada, impondo-se a incidência do enunciado da Súmula 182 do STJ.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo regimental não conhecido.
+(AgRg no REsp 1.348.491/PR, de minha relatoria, SEGUNDA TURMA, DJe 9/3/2016)
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/6/2013, DJe 26/6/2013)
+Registro que, conforme a orientação sedimentada no Superior Tribunal de Justiça, é necessária, no agravo, a impugnação de todos os fundamentos da decisão denegatória de admissibilidade do recurso especial, sob pena de permanecerem incólumes os que não foram objeto de contestação.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESOLUÇÃO/STJ 17/2013 E ART. 21-E DO RISTJ. COMPETÊNCIA DO PRESIDENTE DO STJ. PRECEDENTES DO STJ. DECISÃO SOBRE O PRIMEIRO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Os artigos 1º e 3º da Resolução/STJ 17, de 4/9/2013, e o artigo 21-E do RISTJ, incluído pela Emenda Regimental 24/2016, autorizam a Presidência desta Corte, antes da distribuição dos feitos, a não conhecer de recursos que não tiverem impugnado especificamente todos os fundamentos da decisão recorrida.
+2. Para se viabilizar o conhecimento do agravo em recurso especial, é necessário que a parte agravante impugne especificamente todos os fundamentos da decisão de inadmissão, o que não ocorreu na hipótese em exame.
+3. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do artigo 932, III, do Código de Processo Civil de 2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.260.703/CE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 11/9/2018, DJe 14/9/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ADEMAIS, OS AGENTES POLÍTICOS SE SUBMETEM À LEI DE IMPROBIDADE ADMINISTRATIVA. AGRAVO REGIMENTAL DO IMPLICADO A QUE SE NEGA SEGUIMENTO.
+1. Pela leitura das razões recursais, constata-se que, o agravante não rebateu, como lhe competia, todos os fundamentos da decisão de inadmissibilidade do Recurso Especial, deixando de impugnar a incidência da Súmula 7 do STJ e ausência de cotejo analítico.
+2. A parte agravante deve infirmar todos os fundamentos da decisão impugnada, autônomos ou não, mostrando-se inadmissível o recurso que não se insurge contra todos eles; incidência da Súmula 182 do STJ.
+3. Ademais, e apenas por amor ao debate, registre-se que a jurisprudência desta Corte orienta que a ação de Improbidade Administrativa deve ser processada e julgada nas instâncias ordinárias, ainda que proposta contra pessoa com prerrogativa funcional. Nesse sentido: REsp. 1.138.173/RN, Rel. Min. HUMBERTO MARTINS, DJe 30.6.2015; REsp. 1.489.024/SP, Rel. Min. BENEDITO GONÇALVES, DJe 11.12.2014; EDcl na AIA 45/AM, Rel. Min. LAURITA VAZ, DJe 28.5.2014; AgRg no AgRg na AIA 35/DF, Rel. Min. ARI PARGENDLER, DJe 10.2.2014).
+4. Agravo Regimental do Implicado a que se nega seguimento.
+(AgRg no AREsp 766.962/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/9/2018, DJe 20/9/2018)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. INOCORRÊNCIA. AGRAVO IMPROVIDO. EXECUÇÃO ANTECIPADA DEFERIDA.
+1. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior. (AgRg nos EDcl no AREsp 803.840/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+2. O Ministério Público estadual possui legitimidade ativa recursal nesta Corte, nos processos em que seja parte, conforme entendimento consolidado no EARESP 1.327.573/RJ. 3. O Superior Tribunal de Justiça firmou o entendimento de que é possível a execução provisória da pena, após prolatado o juízo condenatório por Tribunal de Apelação.
+4. Agravo regimental improvido e deferida a execução provisória da pena.
+(AgRg no AREsp 1.197.888/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/8/2018, DJe 24/8/2018)
+Destaco que esse posicionamento foi reafirmado recentemente pela Corte Especial no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP em 19/9/2018, pendentes de publicação. Na oportunidade de seu exame, conforme o voto proferido pelo Ministro Luís Felipe Salomão, definiu-se que "a decisão que inadmite o recurso especial não é formada por diversos capítulos, mas um único dispositivo de inadmissão do recurso e que sendo incindível, deve ser impugnada em sua integralidade".
+Assim, em razão da falta acima retratada, não houve impugnação específica de todos os fundamentos da decisão combatida. Incide, por conseguinte, o óbice da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
