@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial, sob fundamento de incidência da Súmula n. 7 do STJ.
+O acórdão recorrido apresenta a seguinte ementa (e-STJ fl. 747):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - AÇÃO DE COBRANÇA DE REEMBOLSO DE DESPESAS HOSPITALARES DECORRENTES DE CIRURGIA ADENECTOMIA DE MAMA E LINFADENECTOMIA AXILAR À DIRErTA- REALIZAÇÃO DO PROCEDIMENTO COM PROFISSIONAL E EM HOSPITAL NÃO CREDENCIADOS - IRRELEVÂNCIA DA PREVISÃO DE CLÁUSULA EXCLUINDO O REEMBOLSO EM TAIS CASOS, POR ACARRETAR EXCESSIVA ONEROSIDADE AO CONSUMIDOR E DIANTE DA PRÓPRIA NATUREZA DO CONTRATO - URGÊNCIA NO PROCEDIMENTO. RELACIONADO À SUSPEITA DE CÂNCER - IRRELEVÂNCIA DE AUSÊNCIA DE NEGATIVA DO PLANO PARA AMPARAR O AJUIZAMENTO DA AÇÃO - INAFASTABILIDADE DA JURISDIÇÃO - EXISTÊNCIA DO DEVER DE REEMBOLSO ATÉ O LIMÍTE PREVISTO CONTRATUALMENTE PARA O PROCEDIMENTO - OBSERVÂNCIA DO EQUILÍBRIO ATUARIAL E DOS PRINCÍPIOS DA BOA-FÉ OBJETIVA E DA VEDAÇÃO DO ENRIQUECIMENTO ILÍCITO - SUCUMBÊNCIA - READEQUAÇÃO - PREJUDICIALIDADE DO RECURSO.
+Os embargos de declaração opostos foram parcialmente acolhidos (e-STJ fls. 796):
+EMBARGOS DE DECLARAÇÃO - CONTRADIÇÃO QUANTO À URGÊNCIA DO TRATAMENTO DE SAÚDE E QUANTO AOS ASPECTOS CONTRATUAL, FÁTICO E PROBATÓRIO DOS AUTOS - NÃO OCORRÊNCIA - MATÉRIA DEVIDAMENTE APRECIADA NO ACÓRDÃO - DISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS - OMISSÃO - LACUNA SUPRIDA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS. COM EFEITOS INFRINGENTES.
+Sobreveio o recurso especial (e-STJ fls. 801/823), fundado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustentou, além de divergência jurisprudencial, violação dos arts. 12, I, e 35-G da Lei n. 9.656/1998, 47 e 54 do CDC, argumentando, em síntese, que inexiste conduta ilícita da recorrente, pois não deve custear atendimento em estabelecimento hospitalar não cadastrado ao plano da paciente, tendo ela a opção de escolher a rede conveniada, não tendo sido demonstrada a situação de urgência justificante.
+Apontou ainda afronta ao art. 1.022 do CPC/2015, ante a suposta omissão do acórdão recorrido em relação à situação de urgência do atendimento realizado pela paciente.
+No agravo (e-STJ fls. 860/875), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Inicialmente, não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+Ao reconhecer a ilegalidade da conduta da empresa recorrente, entendeu o Tribunal de origem que houve negativa indevida de atendimento, pois, tratando-se de situação de urgência, seria necessária a cobertura em hospital não credenciado, tendo sido reconhecida a gravidade da doença que exigiu o procedimento realizado (câncer) (e-STJ fls. 750/756).
+O Tribunal de origem se baseou nos fatos e provas dos autos para reconhecer a responsabilidade da empresa pelas despesas hospitalares da parte recorrida. Nesse sentido, para rever o entendimento da Corte local, seria necessário reexaminar o conjunto fático-probatório do feito, o que é incabível no recurso especial, ante a Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
