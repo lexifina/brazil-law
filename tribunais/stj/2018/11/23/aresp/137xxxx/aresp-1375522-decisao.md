@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 456/457).
+O Tribunal de origem negou provimento ao recurso da ora agravante e deu provimento em parte ao da ora agravada, em julgado que recebeu a seguinte ementa (e-STJ fl. 410):
+APELAÇÃO CÍVEL. Prestação de serviços de segurança e vigilância. Ação de reparação de danos julgada procedente em parte. Em apenso, duas ações de cobrança com partes inversas julgadas procedentes. Irresignação recursal da autora. Acolhimento em parte. Atualização do dano material que deve ser feita separadamente, de acordo com a distribuição e citação em cada processo, para depois ser efetuada a compensação. Dano moral não configurado. Inadimplemento contratual que, por si só, não gera danos morais. Autora que decaiu de metade de seus pedidos. Sucumbência recíproca. Vedada a compensação dos honorários sucumbenciais, nos termos do artigo 85, § 14, do CPC/2015, impõe-se a condenação de cada parte, a pagar ao advogado da outra parte, os honorários na proporção de sua sucumbência. Ré que deverá pagar ao patrono da autora os honorários fixados na r. sentença de 10% do proveito econômico (R$ 61.499,75), e autora que deverá pagar ao patrono da ré o mesmo valor, ou seja, 10% do proveito econômico (R$ 61.499,75), tendo em vista que as partes sucumbiram na mesma proporção. Irresignação recursal da ré. Não acolhimento. Falha na prestação dos serviços que gera o dever de indenizar. Contrato firmado entre as partes que não delimita a área de cobertura para prestação dos serviços. Sentença reformada em parte. RECURSO DA RÉ DESPROVIDO E RECURSO DA AUTORA PARCIALMENTE PROVIDO. Majorados honorários advocatícios (art. 85, §11, CPC/2015), em favor da autora de 10% para 15% do proveito econômico obtido. Sem majoração quanto ao recurso da autora em favor da ré GSS Segurança, já que provido somente em parte.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 430/434).
+No recurso especial (e-STJ fls. 437/445), com fundamento no art. 105, III, alínea "a", da CF, a recorrente apontou negativa ao art. 373, I e II, do CPC/2015, alegando que foi contratada para prestação de serviços de segurança nas dependências do empreendimento da autora, o qual compreende galpão na área interna até a portaria, devidamente delimitada por muros e cercas de arames. Sustentou que os furtos ocorreram depois da portaria e cercas que envolvem o empreendimento, sendo certo que seus prepostos não tinham acesso e sequer poderiam realizar ronda armada no local, por se tratar de via pública. Aduziu que os serviços contratados foram devidamente prestados, afirmando que não existiu falha na prestação dos serviços, pois os furtos ocorreram em área externa do empreendimento.
+Ofereceram-se contrarrazões (e-STJ fls. 450/454).
+No agravo (e-STJ fls. 460/467), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 470/473).
+É o relatório.
+Decido.
+No que respeita à falha na prestação do serviço e ao dano material, cumpre esclarecer que o Tribunal de origem enfrentou a questão da seguinte maneira (e-STJ fls. 418/419):
+Pois bem.
+O recurso interposto pela ré não comporta acolhimento, enquanto o recurso interposto pela autora comporta acolhimento em parte.
+De início impende registrar que o recurso interposto pela autora Zimba Empreendimentos Imobiliários Ltda versa apenas sobre a atualização dos valores fixados na r. sentença, condenação nas verbas de sucumbência e indenização por danos morais.
+A ré GSS Segurança Ltda, por sua vez, insiste na improcedência da demanda nº 1006480-79.2014.8.26.0068, sob o argumento de que as áreas onde ocorreram os furtos não estavam abrangidas pelos serviços contratados, de modo que não é possível lhe imputar qualquer responsabilidade.
+Os recursos serão analisados em conjunto.
+De se consignar que não há controvérsia quanto à contratação dos serviços de segurança, nem mesmo quanto aos furtos ocorridos.
+O ponto controvertido se fixa na área de abrangência da prestação dos serviços e de responsabilidade da ré GSS Segurança.
+Analisando o contrato firmado entre as partes (fls. 16/34 e 215/233), nota-se que não há qualquer cláusula delimitando a área de cobertura dos serviços.
+Constou na cláusula I do contrato: "O objeto do presente contrato é a prestação de serviços de vigilância no Empreendimento Zimba D. [NOME] I, localizado na cidade de Itatiba, Rod. [NOME], km 93,6, conforme descrito no Anexo I, deste contrato (fls. 16 e 215)"
+No Anexo I, apesar da cópia apresentada pela autora não estar legível (fls. 26), é possível verificar na cópia apresentada pela ré (fls. 225), que nada constou sobre eventual delimitação da área de cobertura.
+Portanto, na ausência de qualquer delimitação, tem-se que os serviços deveriam abranger todo o empreendimento, tanto a área interna como em seu entorno.
+Não se mostra razoável que a autora tenha sido vítima de três furtos de cabos de cobre de alta tensão, no período de quinze dias, apesar da contratação da ré para prestação de serviços de segurança e vigilância.
+No caso, a ré não logrou êxito em demonstrar que os serviços foram devidamente prestados.
+Sendo assim, não há como afastar sua responsabilidade pelos danos experimentados pela autora, pois a prestação de serviços se mostrou defeituosa.
+Portanto, devidamente demonstrada a falha na prestação dos serviços, de rigor o dever da ré de reparar os danos materiais causados à autora, conforme consignado na r. sentença.
+Assim, a modificação das conclusões do acórdão recorrido demandaria revolvimento do contrato e de matéria fático-probatória, providência vedada nesta instância, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios, em favor da parte recorrida, ora agravada, em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
