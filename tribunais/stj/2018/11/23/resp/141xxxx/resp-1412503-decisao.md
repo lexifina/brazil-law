@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+DIREITO PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. GOZO DE AUXÍLIO-DOENÇA. AGENTES NOCIVOS. RUÍDO E HIDROCARBONETOS. CATEGORIA PROFISSIONAL. APOSENTADORIA ESPECIAL. CONCESSÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Não é cabível o enquadramento como atividade especial de período em que o segurado esteve em gozo de auxílio-doença, quando não demonstrada a relação entre a enfermidade e o exercício da atividade especial.
+2. Tem direito à aposentadoria especial o segurado que possui 25 anos de tempo de serviço especial e implementa os demais requisitos para a concessão do benefício.
+3. Os honorários advocatícios devem ser fixados em 10% sobre o valor das parcelas vencidas até a data da sentença, nos termos da Súmula 111 do
+STJ.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta, inicialmente, violação ao art. 535 do CPC/73. Argumenta que, mesmo ante a oposição de embargos de declaração, o Tribunal a quo pemaneceu omisso "na apreciação da legislação que fixa a forma de reconhecimento de tempo especial".
+Alega, ainda, as seguintes teses a saber:
+a) violação ao art. 6º da LICC e ao Decreto n. 4.882/03, porquanto a Corte regional aplicou retroativamente os termos do novo decreto, que reduziu o grau de ruído considerado nocivo, para atingir situações pretéritas, violando assim o princípio tempus regit actum.
+b) violação ao art. 66, § 1º do Decreto n. 2.172/97 e 68, § 11º do Decreto n. 3.048/99. Sustenta que o mero contato com hidrocarbonetos não enseja a concessão de tempo especial desde o Decreto n. 2.172/97. Argumenta, ademais, que a exposição a óleos minerais, o que é capaz de ensejar tempo especial, dá-se apenas pela exposição decorrente de óleo de carvão mineral, o que não ocorreu no caso dos autos, segundo o seu entender.
+c) violação ao art. 57, § 3º e 4º e 58, § 1º e 2º da Lei n. 8.213/91, ao argumento de que, para a concessão de tempo especial, é necessário que o agente nocivo, de fato, cause prejuízos à saúde do trabalhador e que a utilização de EPI eficaz impede o reconhecimento do tempo especial, porquanto neutraliza o agente nocivo, situação esta que não foi devidamente ponderada no acórdão recorrido, dada as provas dos autos, segundo o seu entender.
+Em contrarrazões, o segurado aponta, preliminarmente, ausência de prequestionamento dos dispositivos invocados e pretensão de revolvimento do conjunto fático-probatório vedado pela Súmula n. 7/STJ. No mérito, pugna pela manutenção do acórdão recorrido com fundamentos equivalentes ao do aresto questionado.
+Admitido o recurso especial, o processo subiu a esta Corte, tendo recebido decisão pelo então Relator, Min. Humberto Martins, que determinou o retorno dos autos àquela Corte para adequação do julgado ao tema repetitivo fixado no REsp n. 1.401.61/RS.
+No Tribunal Regional Federal da 4ª Região, em novo julgamento, foi proferido acórdão ementado, in verbis:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO NCPC. TEMPO ESPECIAL. TEMA 694 DO STJ. ADEQUADA A FUNDAMENTAÇÃO AO NOVO ENTENDIMENTO.
+1. O recurso repetitivo n. 1398260 estabelece que o limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 06/03/1997 a 18/11/2003.
+2. No caso concreto, não restou caracterizada a exposição ao agente nocivo ruído no período de 06/03/1997 a 18/11/2003, razão pela qual deve apenas ser adequada a fundamentação, a fim de afastar a aplicação retroativa do Decreto 4.882/2003 em relação ao nível de efetiva exposição ao agente nocivo ruído.
+O recurso especial da autarquia, após a prolação do referido aresto, foi ratificado, tendo sido novamente admitido, em razão de conter outras questões a serem decididas.
+É o relatório. Decido.
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples legação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 e 515, § 1º, E 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+IV - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual é cabível a conversão dos créditos relativos ao empréstimo compulsório sobre energia elétrica em ações pelo valor patrimonial, e não pelo de mercado, sendo legítimo o critério de fixação do valor da ação no momento de sua conversão (art. 3º do Decreto-lei n. 1.512/76 e no art. 4º da Lei n. 7.181/83).
+V - A possibilidade de a Eletrobrás converter os créditos de empréstimo compulsório em ações tem amparo em expressa autorização legal, sendo, portanto, incabível falar em abuso de direito.
+VI - A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de trechos dos julgados.
+VII - Recurso especial conhecido em parte e improvido.
+(REsp n. 1.274.167/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.)
+Quanto ao mais, cabe consignar, por primeiro, que a controvérsia a respeito do agente nocivo ruído é no momento descabida em razão do acórdão proferido em juízo de retratação.
+Com efeito, no acórdão proferido em juízo de retratação, ficou consignado que, mesmo excluída a exposição ao agente nocivo ruído, os períodos de tempo de serviço especial deveriam ser mantidos pela exposição a óleos minerais.
+Confira-se trecho do julgado, in verbis:
+Verifica-se, desta forma, que o voto condutor do acórdão entendeu que o reconhecimento da especialidade do labor nos períodos de 06/03/1997 a 10/09/1997, 02/12/1997 a 06/07/1998 e 07/06/1999 a 18/11/2003 deu-se em razão da exposição ao agente nocivo óleos minerais.
+Assim, não tendo restado caracterizada no período de 06/03/1997 a 18/11/2003 a exposição ao agente nocivo ruído, deve apenas ser adequada a fundamentação do voto condutor do acórdão, a fim de afastar a aplicação retroativa do Decreto 4.882/2003 em relação ao nível de efetiva exposição ao agente nocivo ruído.
+E quanto a este ponto, alega o INSS que o Tribunal a quo considerou a exposição a hidrocarbonetos como se fossem óleos minerais, o que, no seu entender, não é a mesma coisa, e que a exposição a hidrocarbonetos não dá direito a tempo especial.
+Entretanto o acórdão recorrido é bastante claro ao identificar a exposição a óleos minerais com o fator para a concessão de tempo especial.
+E para se aferir a correção da fundamentação da autarquia, seria necessário revolvimento fático-probatório, o que é inviável ante o óbice contido na Sumula n. 7/STJ.
+Por fim, a respeito da utilização da EPI eficaz, no acórdão primevo, ficou consignado o seguinte, in verbis:
+No caso concreto, o fato de o autor ter informado, na perícia, que a partir de 01/11/2005 passou a utilizar creme protetor para a pele, por si só, não descaracteriza a especialidade da atividade, como entendeu o vistor oficial. Cabe referir, por oportuno, que a testemunha [NOME] admitiu o uso de creme protetor, mas, segundo ele, não resolve nada disso, duas horas depois não tem mais nas mãos, a gente lida muito com óleo, o próprio óleo tira, a querosene tira isso das mãos (fls. 151-151v.).
+Ou seja, em momento algum fica evidente, como quer a autarquia, que houve utilização de EPI eficaz; pelo contrário, o que ficou definido no acórdão é que a EPI de pouco ajudava.
+Rever tal ponto, mais uma vez, implica revolvimento fático-probatório, o que é vedado ante o óbice constante da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
