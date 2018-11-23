@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, manuscrito, impetrado, em benefício próprio, por [NOME], em referência aos autos de n. 0011548-65.2016.8.26.0453/TJSP.
+Na presente impetração, a defesa sustenta, em síntese, a ilegitimidade da prisão preventiva, pedindo para que seja concedido ao paciente, condenado à pena de 5 anos e 10 meses de reclusão, por tráfico ilícito de entorpecentes, o direito de recorrer em liberdade.
+Indeferida a liminar (e-STJ fls. 26/27) e prestadas as informações (e-STJ 38/104), a Defensoria Pública do Estado de São Paulo, intimada para atuar no feito, consignou não haver decisão de segundo grau a respeito do tema e requereu a concessão da ordem de ofício ou o envio do habeas corpus para o TJSP, Tribunal competente para a análise do presente mandamus (e-STJ fl. 108).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 110/111).
+É o relatório. Passo a decidir.
+Busca-se, em síntese, no presente writ, a concessão do direito de recorrer em liberdade ao paciente condenado, por tráfico de entorpecentes, à pena de 5 anos e 10 meses de reclusão.
+Verifica-se, contudo, que o tema sequer foi submetido à apreciação do Tribunal de Justiça. Dessa forma, inviável o conhecimento da questão suscitada no presente writ diretamente por esta Corte, sob pena de indevida supressão de instância, uma vez que a tese não chegou a ser apreciada pelo Tribunal estadual. A propósito, confiram-se os seguintes julgados do STJ:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PLEITO DE FIXAÇÃO DE REGIME PRISIONAL MAIS BRANDO. NOTÍCIA DE SUPERVENIÊNCIA DE PROGRESSÃO AO REGIME SEMIABERTO. RECURSO JULGADO PREJUDICADO. TESE DE NÃO CONFIGURAÇÃO DE PREJUDICIALIDADE ANTE A NÃO OCORRÊNCIA DA PROGRESSÃO. INTERESSE RECURSAL DEMONSTRADO. ANÁLISE DO MÉRITO DO RECURSO. TESE DE FALTA DE FUNDAMENTAÇÃO PARA A IMPOSIÇÃO DO REGIME MAIS GRAVOSO. QUESTÃO NÃO APRECIADA NO HABEAS CORPUS ORIGINÁRIO. APELAÇÃO PENDENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Ainda que o despacho juntado do juízo das execuções, determinando o aguardo da decisão sobre o incidente de regressão, não tenha o condão de demonstrar o alegado equívoco da decisão agravada ao julgar prejudicado o writ - uma vez que denota ter havido anterior progressão ao regime intermediário, vê-se de todo modo dar-se caso de supressão de instância, pois não apreciada a pretensão pelo Tribunal de origem, fato que obsta a análise da questão por este Sodalício.
+(..).
+3. Agravo regimental improvido. (AgRg no RHC 40.054/SP, Rel Ministro NEFI CORDEIRO, Sexta Turma, DJe 21/10/2014).
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. DUPLA TENTATIVA DE HOMICÍDIO QUALIFICADO. NULIDADES NO INQUÉRITO POLICIAL. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. DECRETO PRISIONAL FUNDAMENTADO. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE DO AGENTE. RECURSO ORDINÁRIO CONHECIDO EM PARTE E DESPROVIDO.
+I - A tese recursal relativa à eventuais nulidades ocorridas no inquérito policial sequer foi analisada pelo eg. Tribunal a quo, ao fundamento de que não foram apresentados documentos comprobatórios do alegado, razão pela qual o mandamus impetrado na eg. Corte de origem foi parcialmente conhecido.
+II - Assim sendo, fica impedida esta eg. Corte de analisar a quaestio ventilada no recurso, sob pena de indevida supressão de instância, já que o eg. Tribunal a quo não se manifestou acerca das alegadas nulidades.
+(..). Recurso ordinário conhecido em parte e, nesta parte, desprovido. (RHC 45.246/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 13/10/2014).
+Ante o exposto, nego seguimento ao presente writ.
+Conforme solicitado pela própria Defensoria Pública, encaminhe-se a presente petição inicial ao Tribunal de Justiça do Estado de São Paulo, Corte competente para a análise do pleito.
+Publique-se. Intime-se.
