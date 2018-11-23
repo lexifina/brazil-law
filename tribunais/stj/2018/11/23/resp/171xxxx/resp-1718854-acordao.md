@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. COTA DE DESAPROPRIAÇÃO DA UHE FURNAS. PERÍCIA JUDICIAL QUE RECONHECEU O ESBULHO E O CARÁTER RECENTE DAS OBRAS. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7 DO STJ.
+1. Trata-se, na origem, de Ação de Reintegração de Posse movida pela recorrida contra o que classificou como invasão da cota 769 do reservatório da UHE de Furnas.
+2. Assim dispõe o voto condutor do acórdão recorrido (fl. 854, e-STJ): " ..  compulsando detidamente estes autos, notadamente em seu conjunto probatório, não verifiquei o respaldo de suas alegações no mesmo. Isto porque, o imóvel foi adquirido pelo pai dos denunciados, ora apelantes, em 1997, e não há nenhuma prova que ateste que o esbulho ocorrido através das obras realizadas seja datado desta época. Muito pelo contrário. O nobre perito atesta no laudo apresentado nestes autos (fls. 406 e 411) que as obras são recentes, o que por si só, afastaria tal possibilidade. Ressalto que os denunciados, ao denunciarem sucessivamente a lide, atraíram para si o ônus da prova, como fato constitutivo de seu direito, na forma do art. 333, inciso I, do CPC. Ocorre que, como já dito, em nenhum momento comprovaram minimamente os fatos".
+3. Nos termos da manifestação do Parquet federal, "as peças recursais revelam a real pretensão do recorrente, no sentido de promover nova discussão e novo exame de todo o contexto probatório, já soberanamente analisado na instância precedente para fazer prevalecer uma posse precária, representada pelas construções irregulares em área esbulhada, ao redor do reservatório de Fumas". Aplica-se, portanto, o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. LEGITIMIDADE ATIVA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. PRELIMINAR REJEITADA. PRESCRIÇÃO AQUISITIVA. BEM PUBLICO. IMPOSSIBILIDADE. REQUISITOS. ARTIGO 927 CPC. COMPROVAÇÃO. DENUNCIAÇÃO SUCESSIVA DA LIDE. AUSÊNCIA DE PROVAS DAS ALEGAÇÕES. SENTENÇA MANTIDA. Ê certo que, além da União, Estados, Municípios, Distrito Federal e Territórios, os concessionários de serviço público também podem promover a desapropriação, desde que autorizados por lei ou contrato. Referida área é considerada bem público, imprescritível e não sujeita a ação de usucapião. - Para o reconhecimento da procedência do pedido de reintegração de posse, faz-se necessário que o autor comprove a posse anterior, o esbulho, a data do esbulho., bem como a perda da posse Presentes os requisitos legais, deve ser deferido o pleito de reintegração na posse. - Para que seja cabível a denunciação à lide é necessário que o denunciado esteja obrigado, por força de lei ou de contrato, a indenizar a parte denunciante, em ação regressiva, por eventuais prejuízos decorrentes da ação, e que tal direito de regresso não importe na introdução de fundamento novo, não constante na demanda originária. No presente caso, não se observa a referida hipótese de garantia de direito de regresso que justifique a denunciação à lide, diante da ausência de provas.
+Os Embargos de Declaração foram desacolhidos (fls. 873-891, e-STJ).
+O recorrente alega que a área reputada como esbulhada não se revela imprescindível à prestação ou exploração do serviço concedido. Aduz que as obras já consolidadas e realizadas de boa-fé não são atingidas de pleno direito pela declaração de utilidade pública do imóvel. Defende que a chamada "cota 769" não demanda reintegração, ainda que incidam limitações administrativas. Cita dispositivos aplicáveis ao caso e aponta violação ao art. 1.196 do Código Civil.
+Contraminuta apresentada às fls. 912-927, e-STJ.
+O Recurso Especial não foi admitido na origem em razão da ausência de ofensa à Súmula 7 do STJ. O Agravo interposto foi convertido em Recurso Especial pela decisão de fl. 966, e-STJ.
+O Ministério Público Federal opina pelo não conhecimento do recurso (fls. 971-975, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 23 de abril de 2018.
+Trata-se, na origem, de Ação de Reintegração de Posse movida pela recorrida contra o que classificou como invasão da cota 769 do reservatório da UHE de Furnas.
+Assim dispõe o voto condutor do acórdão recorrido (fl. 854, e-STJ):
+A parte denunciada, ora apelante: afirma que no terreno cedido a seu pai. já havia obras que ocasionaram no esbulho da área da represa.
+Afirmam que denunciaram a lide de forma sucessiva no intuito de responsabilizar os apelados pelas construções realizadas no terreno objeto da lide.
+Todavia, compulsando detidamente estes autos, notadamente em seu conjunto probatório, não verifiquei o respaldo de suas alegações no mesmo.
+Isto porque, o imóvel foi adquirido pelo pai dos denunciados, ora apelantes, em 1997, e não há nenhuma prova que ateste que o esbulho ocorrido através das obras realizadas seja datado desta época. Muito pelo contrário. O nobre perito atesta no laudo apresentado nestes autos (fls. 406 e 411) que as obras são recentes, o que por si só, afastaria tal possibilidade.
+Ressalto que os denunciados, ao denunciarem sucessivamente a lide, atraíram para si o ônus da prova, como fato constitutivo de seu direito, na forma do art. 333, inciso I, do CPC.
+Ocorre que, como já dito, em nenhum momento comprovaram
+minimamente os fatos.
+Ora. os documentos juntados não provam que os antigos proprietários foram os responsáveis pelo esbulho combatido na presente ação.
+É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ. Nesse sentido, confira-se o seguinte excerto do Parecer do Ministério Público Federal:
+17. Constata-se, assim, que as peças recursais revelam a real pretensão do recorrente, no sentido de promover nova discussão e novo exame de todo o contexto probatório, já soberanamente analisado na instância precedente para fazer prevalecer uma posse precária, representada pelas construções irregulares em área esbulhada, ao redor do reservatório de Fumas.
+18. Contrariar a posição adotada pelo Órgão Julgador implica em reapreciação da matéria fática, exercício vedado pelo Enunciado nº 7, da Súmula desse Egrégio Superior Tribunal Justiça, a seguir transcrito: "A pretensão de simples reexame de prova não enseja recurso especial. "
+Isso posto, não conheço do Recurso Especial.
+É como voto.
