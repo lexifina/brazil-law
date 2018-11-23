@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 693/699).
+O acórdão recorrido está assim ementado (e-STJ fl. 632):
+AÇÃO INDENIZATÓRIA. MANDATO. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. CASO CONCRETO. MATÉRIA DE FATO. RESPONSABILIDADE CIVIL DO ADVOGADO NÃO VERIFICADA NA ESPÉCIE. INEXISTÊNCIA DE DANOS A SEREM INDENIZADOS. A aplicação da teoria da perda de uma chance, que objetiva responsabilizar o advogado pela perda da possibilidade do cliente de buscar uma situação mais vantajosa no processo, necessita de demonstração de que a negligência ou desídia do profissional tenha ensejado a perda de uma chance séria e real, que tangencia a certeza, não hipotética ou duvidosa, o que não ocorreu na espécie. Apelo desprovido.
+Os embargos de declaração opostos foram desacolhidos (e-STJ fls. 649/653).
+Nas razões do recurso especial (e-STJ fls. 659/671), interposto com fundamento no art. 105, III, "a" e "c", da CF, o agravante alegou violação dos arts. 186, 927 e 944 do CC/2002, além de dissídio jurisprudencial. Sustentou, para tanto, que houve a perda de uma chance pela má prestação de serviço advocatício pela recorrida, a qual não apelou da sentença para que fosse comprovada a atividade rural no regime de economia familiar entre os 12 e 14 anos, causando, por negligência, prejuízos financeiros em sua aposentadoria.
+Argumentou ainda que "o entendimento jurisprudencial sobre a possibilidade de reconhecimento da atividade rural dos 12 aos 14 anos de idade era pacífico à época da prolação da sentença, conforme precedentes jurisprudenciais e Súmula da TNU citadas na petição inicial" (e-STJ fl. 668), o que caracterizaria uma possibilidade séria e real de êxito. Requer danos morais e dano material de 12% (doze por cento) da diferença do valor mensal da aposentadoria.
+No agravo (e-STJ fls. 703/708), afirma a presença de todos os requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 713/717).
+É o relatório.
+Decido.
+O Tribunal de origem assim decidiu (e-STJ fls. 634/635):
+A aplicação da teoria da perda de uma chance, que objetiva responsabilizar o advogado pela perda da possibilidade do cliente de buscar uma situação mais vantajosa, necessita de demonstração de que o não-agir ou mal-agir do profissional tenha ensejado a perda de uma chance séria e real, que tangencia a certeza, não hipotética ou duvidosa.
+No caso concreto, analisando os elementos dos autos, observo que a ré atuou como advogada do autor em demanda visando a concessão de aposentadoria por tempo de serviço, obtenção êxito quase integral na ação. Contudo, não houve sucesso apenas quanto ao tempo de trabalho rural dos 12 aos 14 anos.
+Considerando o contexto legal e jurisprudencial da época do julgamento, entendo que a não interposição de recurso de apelação por parte da advogada ré, no que diz respeito a sentença não ter considerando o tempo de trabalho rural dos 12 aos 14 anos, não caracterizou no caso vertente a perda de uma chance que tangenciava a certeza.
+Em que pese a maioria dos precedentes jurisprudências da época da prolação da sentença (2003) ser favorável a tese do aproveitamento do período de trabalho rural dos 12 aos 14 anos, haviam ainda entendimentos e disposição expressa de lei em sentido contrário (art. 11, inciso VII, da Lei n.8.213/1991).
+Também necessário salientar o TRF da 4ª Região, ao examinar o recurso de apelação do INSS em face da concessão do benefício referiu no corpo do v. acórdão, como bem ponderou a r. sentença à fl. 490, que o trabalho em atividade rural em regime de economia familiar, incluídos os filhos maiores de 14 anos, deve ser computado. Ou seja, há evidência de que o julgamento de segundo grau inclinava-se no sentido de não seguir a jurisprudência dominante, de não considerar o trabalho rural dos 12 aos 14 anos.
+Ainda, cabe frisar novamente que a demanda patrocinada pela advogada ré foi quase integralmente exitosa, obtendo o autor a concessão do benefício.
+Nesse contexto, entendo que não é possível a caracterização da conduta desidiosa por parte da ré a ponto de responsabilizá-la por perda de uma chance ou por má prestação de serviços.
+Não há como acolher a insurgência, pois a Corte local baseou-se nos fatos e nas provas dos autos para concluir que não há responsabilidade da agravada porque não caracterizada a conduta desidiosa, tampouco comprovada a chance séria e real, circunstância cuja alteração é inviável, a teor da Súmula n. 7 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. A oposição de embargos de declaração não se presta à rediscussão do mérito da causa, ficando reservada apenas para as hipóteses em que a decisão embargada incorre em vícios de fundamentação específicos: omissão, contradição e obscuridade. Ademais, são incabíveis embargos de declaração em face de decisão jurisdicional que, não obstante não se pronuncie especificamente sobre todos os fundamentos suscitados pelas partes, decide a questão sob exame de modo claro, coerente e fundamentado.
+2. A pretensão do recurso especial que demanda reexame das provas dos autos, sobretudo para verificar se há documentos suficientes para acolher a tese de perda de uma chance em razão da prática irregular de ato processual por advogado, encontra óbice na Súmula 7/STJ.
+3. A reforma da conclusão do acórdão recorrido, quanto à fixação do termo a quo do prazo de prescrição, demanda reexame de prova. Aplicação da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 690.453/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe 25/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. TEORIA DA PERDA DE UMA CHANCE. ÊXITO NO PROCESSO. POSSIBILIDADE. NEGLIGÊNCIA DO ADVOGADO. PREJUÍZO. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Em caso de responsabilidade dos advogados pela prática de condutas negligentes, a teoria da perda de uma chance é aplicada por meio da análise das reais possibilidades de êxito do processo, eventualmente perdidas diante da negligência do causídico.
+3. Rever a conclusão do acórdão recorrido acerca dos prejuízos decorrentes da prática de condutas negligentes pelos advogados demandaria a análise das circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. É inadmissível o inconformismo quando o acórdão recorrido não possui similitude fática com os precedentes trazidos à colação.
+5. Agravo interno não provido.
+(AgInt no AREsp 1213438/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONTRATO DE SERVIÇOS ADVOCATÍCIOS. TEORIA DA PERDA DE UMA CHANCE. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem análise do contrato e revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. O Tribunal de origem, com base na avaliação das cláusulas contratuais e nos elementos de prova, afastou a responsabilidade civil do agravado por suposta falha na prestação de serviços advocatícios. Alterar esse entendimento é inviável em recurso especial.
+4. A ausência de indicação do dispositivo legal supostamente violado impede o conhecimento do recurso especial. Incidência da Súmula n. 284/STF.
+5. Agravo regimental a que nega provimento.
+(AgRg no REsp 1312450/DF, de minha relatoria, QUARTA TURMA, julgado em 14/10/2014, DJe 21/10/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. DESÍDIA DO ADVOGADO. PERDA DE UMA CHANCE. REVISÃO. INCIDÊNCIA DA SÚMULA Nº 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 221.645/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/02/2014, DJe 28/02/2014)
+Por fim, conforme a jurisprudência desta Corte, a incidência da Súmula n. 7/STJ também impede o exame de dissídio jurisprudencial, uma vez que falta identidade fática entre os paradigmas apresentados e os fundamentos do acórdão impugnado, tendo em vista a situação específica do caso concreto, com base na qual o Tribunal de origem deu solução à causa. Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. EXCESSO DE EXECUÇÃO. VALOR DAS ASTREINTES. ENRIQUECIMENTO SEM CAUSA. HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. REVISÃO. SÚMULA Nº 7/STJ. DISSÍDIO PRETORIANO PREJUDICADO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Alterar as conclusões trazidas pelo tribunal demandaria reexaminar o conjunto fático-probatório dos autos, o que é inviável no recurso especial em virtude do óbice da Súmula nº 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp 780.609/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/03/2017, DJe 24/03/2017)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
