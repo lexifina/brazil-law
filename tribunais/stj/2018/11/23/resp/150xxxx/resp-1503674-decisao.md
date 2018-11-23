@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea c do permissivo constitucional, contra acórdão, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Sistema Financeiro de Habitação. Condições da ação presentes. Partes legítimas a figurar nos polos processuais da presente demanda. Devido processo legal observado. Prescrição não caracterizada. Aplicação do Código Civil de 1916, vigente na ocasião. Propositura da ação antes do decurso do prazo de 20 anos. Interesse de agir do apelado se faz presente. Caso em exame abrange exclusivamente seguro habitacional. Imóvel adquirido há longo tempo. Cohab. Vícios de construção não configurados. Reparação pleiteada visa o enriquecimento sem causa, isto é, reforma da edificação à custa da seguradora. Inadmissibilidade. Tipo de construção popular. Finalidade de proporcionar moradia às pessoas de baixa renda. Improcedência da ação apta a sobressair. Apelo provido.
+Em suas razões recursais, a parte recorrente aponta divergência jurisprudencial na "hipótese de vícios de construção, devidamente certificados pela prova pericial, devem ser indenizados por quem se obrigou em contrato de seguro a resguardar a contraprestação pelo prêmio recebido, senão a seguradora, ou o pool a que ela faz parte, conclusão que chegam analisando a controvérsia pela ótica do CDC."
+Contrarrazões apresentadas.
+Admitido o recurso na origem, subiram os autos.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O recurso especial foi interposto apenas com fundamento na alínea c do permissivo constitucional, a parte recorrente, no entanto, não apontou o dispositivo de lei federal a que os acórdãos recorrido e paradigmas teriam dado interpretação divergente. Destarte, não há como deixar de reconhecer a deficiência na fundamentação do recurso, aplicando-se a Súmula 284/STF.
+A respeito do tema, salienta o eminente Ministro Aldir Passarinho Junior que "obsta a pretensão, relativamente ao dissídio pretoriano, não haver o recorrente indicado quais os dispositivos de lei federal que teriam tido interpretação jurisprudencial divergente. Assim, não há como se pronunciar esta Corte apenas sobre tese abstrata, sem vinculação a lei federal específica. A divergência se faz em relação a distintas interpretações de tribunais sobre os mesmos dispositivos de leis, e, no caso, isso não ocorre. Aplicável, por analogia, o verbete n. 284 da Súmula do STF" (AgRg no REsp 1.063.256/RS, QUARTA TURMA, DJe de 28/10/2008).
+Eis, a propósito, alguns julgados:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Não se admite recurso especial quanto à alegada violação a dispositivos de lei federal que não contêm comando normativo suficiente para infirmar as conclusões do acórdão recorrido.
+Incidência da Súmula 284/STF. Igualmente, a ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial atrai o óbice da referida súmula. Precedentes.
+2. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal nos termos da Súmula 13 do STJ. 3. É inviável conhecer o apelo nobre pela divergência, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exigiria reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no Ag 1324730/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA Nº 284/STF.
+(..)
+2. A jurisprudência desta Corte orienta-se no sentido de que, para ser apreciado o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal, cabe ao recorrente indicar o dispositivo de lei federal violado, pois o dissídio jurisprudencial baseia-se na interpretação divergente da norma federal. Aplica-se, por analogia, o disposto na Súmula nº 284 do Excelso Pretório diante da deficiência na fundamentação do recurso, na espécie, caraterizada pela ausência de indicação da norma federal tida por violada.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.099.762/RJ, Rel. Ministro VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, TERCEIRA TURMA, DJe de 25/05/2009)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESTITUIÇÃO DE VALOR INDEVIDAMENTE LEVANTADO EM PROCESSO DE CONCORDATA. PRESCRIÇÃO TRIENAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FALTA DE COMPROVAÇÃO DO DISSÍDIO. DECISÃO AGRAVADA MANTIDA.
+(..)
+II.- Estando o recurso especial fundado na alínea a do permissivo constitucional, faz-se indispensável a indicação do dispositivo legal tido por afrontado. Tal deficiência, com sede na própria fundamentação da insurgência recursal, impede a abertura desta instância excepcional, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia.
+III.- Estando as razões do Recurso Especial dissociadas do que restou decidido no v. Acórdão recorrido, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+Agravo Regimental improvido. (AgRg no Ag 1.060.200/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 25/6/2009)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
