@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho que reconheceu a incompetência da Justiça do Trabalho para julgamento de controvérsia em que são discutidas verbas trabalhistas de contrato firmado com vínculo jurídico-administrativo com a Administração Pública.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 114 da CF.
+    O recurso extraordinário não deve ser provido, tendo em conta que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que, ao referendar a liminar concedida pelo Ministro Nelson Jobim na ADI 3.395, afastou qualquer interpretação do art. 114, I, da Constituição, incluído pela EC 45/2004, que reputasse à Justiça do Trabalho competência para o julgamento das causas instauradas entre o Poder Público e seus servidores vinculados por relação jurídico-administrativa. Em outras palavras, estando o servidor protegido por um vínculo dessa natureza, a competência para solucionar as lides é da Justiça comum. Veja-se a ementa da ADI 3.395-MC:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios.
+    Publique-se.
+          Brasília, 23 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
