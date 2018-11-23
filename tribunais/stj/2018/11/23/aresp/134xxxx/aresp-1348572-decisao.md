@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. LOCAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANO MATERIAL.
+LOCAÇÃO PARA INSTALAÇÃO DE ANTENA DE TELEFONIA. NOTIFICAÇÃO EXTRAJUDICIAL.
+MORA NÃO AFASTADA.
+1) Trata-se de recurso de apelação interposto contra sentença de improcedência de ação de rescisão de contrato de locação cumulada com pedido de indenização por danos materiais.
+2) Consoante a exordial, as partes firmaram contrato de locação tendo por objeto imóvel para instalação de antena de telefonia, com vigência inicial de dez meses. Relata que, após o decurso do referido lapso, o contrato passou a viger por prazo indeterminado. lnexistindo interesse da empresa locatária na continuidade da relação contratual, notificou a parte ré acerca da intenção de rescindi- lo. Afirma que a demandada negou-se a rescindir o contrato e a franquear acesso ao imóvel para retirada dos equipamentos, sob alegação de inadimplência, circunstância que vem causando prejuízos materiais à parte autora.
+3) REGULARIDADE DA REPRESENTAÇÃO PROCESSUAL - Todos os atos praticados o foram por procuradores regularmente constituídos (vide instrumentos procuratórios e substabelecimentos acostados). Ainda que se questione a técnica adotada pela autora, que a cada peça juntada traz também cópias de procuração e substabelecimento, gerando inevitável confusão, certo é que não houve a prática de qualquer ato por advogado sem poderes. Relator vencido no ponto.
+4) PRELIMINAR CONTRARRECURSAL INTEMPESTIVIDADE DO APELO - Mostra-se tempestivo o apelo da ré, interposto dentro do prazo previsto no art. 508 do CPC de 1973, através de sistema de protocolo integrado do Poder Judiciário com a Empresa Brasileira de Correios e Telégrafos - ETC. Preliminar contrarrecursal afastada.
+5) RESCISÃO CONTRATUAL -A locatária, em que pese exibir Boletim de Ocorrência que informa a resistência da locadora em permitir a retirada da torre e demais equipamentos do imóvel, não conseguiu comprovar em juízo sua versão posta na inicial. As testemunhas arroladas, seus funcionários, forma inquiridas sem compromisso.
+Assim, não é possível reconhecer que a rescisão contratual operou-se de fato na data da notificação levada a efeito em 06 de junho de 2011. Nesse compasso, ainda que a empresa locadora tenha ajuizado a ação de despejo cumulada com cobrança e alugueres somente em 2015, depois de julgada improcedente a ação promovida pela locatária, não pode ser afastada a mora da locatária no período afetado pela ação julgada improcedente.
+RECURSO CONHECIDO, POR MAIORIA.
+PRELIMINAR CONTRARRECURSAL DESACOLHIDA E APELAÇÃO DESPROVIDA, À UNANIMIDADE.
+Os embargos de declaração opostos foram rejeitados (fls. 576 - 583, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, violação aos artigos 422 e 927 do Código Civil, e 9º, II, da Lei 8.245/91.
+Sustenta que a agravada não poderia, durante o prazo de locação, reaver, ou impedir seu acesso ao imóvel locado, atos que configuram justo motivo para a rescisão contratual.
+Defende que a conduta da agravada gerou danos de ordem material, ponderando pela condenação desta em ressarcir os prejuízos suportados.
+Apresentadas contrarrazões (e-STJ fls. 604 - 620), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 622 - 627, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à agravante.
+Ao afastar a pretensão em tela, a Corte local registrou que (e-STJ, fls. 562 - 564):
+Tramitam duas ações acerca do contrato de locação mantido entre as empresas litigantes A presente ação de rescisão de contrato (101/1.11.0002856-6) foi ajuizada em 28 de outubro de 2011 diante da falta de interesse da locatária em dar continuidade à relação contratual mantida com a empresa ré e em face de não ter tido acesso franqueado pela locadora para retirada de todos os materiais que estão no terreno locado, objetivando a locatária que a rescisão seja considerada a partir da notificação efetuada na esfera administrativa.
+A ação de rescisão de contrato e despejo manejada pela empresa locadora (101/1.15.0001028-1) foi ajuizada somente em 07 de maio de 2015, depois de ser estabelecida a improcedência da ação acima e antes referida, julgada no dia 17 de março de 2017. Na ação de despejo é informada inadimplência dos locativos desde março de 2012.
+O que se evidencia é que ambas as partes demonstraram, inequivocamente, cada uma a seu modo na ação que patrocinou, desinteresse na continuidade da relação contratual.
+Resta, pois, definir qual a data da rescisão a ser considerada e se há dever contratual por parte das litigantes: se a TELEFÔNICA BRASIL é devedora dos locatícios devidos desde a notificação que realizou e se a SILVEIRA E SOUZA GOMES LTDA. impediu a locatária de retirar o resto de materiais depois de encerrada de fato a locação Com efeito, a locatária, em que pese exibir Boletim de Ocorrência (fls. 33) que informa a resistência da locadora em permitir a retirada da torre e demais equipamentos do imóvel, não conseguir comprovar em juízo sua versão posta na inicial. As testemunhas arroladas, seus funcionários, forma inquiridas sem compromisso.
+Assim, não é possível reconhecer que a rescisão contratual operou-se de fato na data da notificação levada a efeito em 06 de junho de 2011 (fls. 29), devendo prevalecer, no caso, o julgamento levado a efeito na ação de despejo.
+A revisão da conclusão adotada na origem, no sentido de acolher a pretensão da agravante, para considerar o dia de 6 de junho de 2011 como data de rescisão do contrato de locação, não comporta procedência na presente via, por demandar necessário reexame de cláusulas contratuais, fatos e provas, medida que encontra veto nas Súmulas 5 e 7 do STJ. Portanto não prospera o pedido de indenização por danos materiais
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
