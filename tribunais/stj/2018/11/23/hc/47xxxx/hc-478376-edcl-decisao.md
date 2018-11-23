@@ -1,0 +1,13 @@
+DECISÃO
+SERGIO LUIS MACHUGA opõe embargos de declaração à decisão de fls. 135-136, em que indeferi a liminar pleiteada neste habeas corpus.
+O embargante alega obscuridade no referido decisum, sob o fundamento de que, apesar de a decisão embargada haver mencionado o fato de o acusado estar foragido, o mandado de prisão já foi cumprido, uma vez que "o próprio paciente se apresentou perante a delegacia da Comarca de Palmital, após o julgamento do habeas corpus pelo TJ/PR" (fl. 141).
+Requer o acolhimento dos embargos, para que seja sanada a apontada obscuridade.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+No caso, em que pesem os argumentos lançados pelo embargante, constato que o decisum embargado não foi obscuro, omisso ou contraditório, porquanto o acórdão do Tribunal de origem, o qual mencionou o fato de o paciente estar foragido, foi proferido em 18/10/2018. Ou seja, até a data em que foi prolatado, ainda não havia notícias de localização do acusado, que foi preso em 31/10/2018, de modo que, dentro dos limites intrínsecos a um juízo de cognição sumária, entendo devida a manutenção da custódia preventiva para assegurar a aplicação da lei penal e para a conveniência da instrução criminal.
+De mais a mais, a decisão ora embargada também mencionou que o Juízo de primeiro grau, ao decretar a custódia preventiva, ressaltou "os requintes de crueldade manifestados pelo representado, tiros pelas costas e execução a queima roupa da própria sogra em virtude de suposta ganância patrimonial" (fl. 135), circunstâncias essas independentes que evidenciam, de per si, a necessidade da custódia preventiva também para a garantia da ordem pública, notadamente em razão do modus operandi empregado na prática delitiva.
+Assim, o que se verifica é a real intenção do embargante em alterar o julgado, haja vista que a decisão que indeferiu a liminar não foi obscura, omissa ou contraditória, sendo certo que o mero inconformismo da parte com o resultado do julgamento não se coaduna com a via do recurso integrativo.
+Conforme é amplamente cediço, "Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida." (EDcl no AgRg no RMS n. 38.465/RJ, Rel. Ministro Moura Ribeiro, 5ª T., DJe 6/9/2013).
+À vista do exposto, rejeito os embargos de declaração.
+Assim que prestadas as informações, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se e intimem-se.
