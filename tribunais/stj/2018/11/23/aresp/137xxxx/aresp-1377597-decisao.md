@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMINIO EDIFÍCIO TANNAT contra decisão exarada pela il. 3ª Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação declaratória de rescisão contratual e de inexigibilidade de débito" promovida por CONDOMINIO EDIFÍCIO TANNAT contra SUPERGASBRAS ENERGIA LTDA, cujo pedido foi julgado procedente para "afastar a incidência de qualquer penalidade contratual, diante do reconhecimento da abusividade da cláusula que estabelece a renovação do contrato por igual prazo" (sentença de fls. 201-204).
+Diante disso, as partes interpuseram apelações. O eg. TJ-RS deu provimento ao recurso da parte demandada e julgou prejudicado o apelo da parte demandante, nos termos do v. acórdão, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. ACÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL E DE INEXIGIBILIDADE DE DÉBITO. PRELIMINAR DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRENTE. CLÁUSULA DE RENOVAÇÃO AUTOMÁTICA. VALIDADE. CDC. SENTENÇA REFORMADA. - Preliminar de nulidade da sentença por ausência de fundamentação desacolhida. Embora concisa, a sentença vergastada apresenta os fundamentos pelos quais entende que a tutela pretendida pela autora não merece provimento. - Mérito: Não é abusiva, ainda que se trate de relação ao abrigo do Código do Consumidor, a cláusula de contrato de fornecimento de gás que prevê renovação automática por igual prazo quando assegura que antes de ocorrer o termo as partes possam manifestar desinteresse em manter a relação obrigacional. Circunstância dos autos em que se impõe reformar a decisão recorrida. Multa contratual pela rescisão antecipada devida. PRELIMINAR REJEITADA. APELO DA PARTE RÉ PROVIDO. APELO DA PARTE AUTORA PREJUDICADO" (fl. 385).
+Os dois embargos de declaração opostos foram rejeitados (fls. 415-421/422-427).
+Inconformado, CONDOMINIO EDIFICIO TANNAT interpôs recurso especial (fls. 431-451), com fulcro no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal, no qual alega, além de divergência jurisprudencial, violação aos arts. 6º, 51, § 1º, III e 54, § 3º do Código de Defesa do Consumidor (CDC); aos arts. 489, § 1º, IV e 1.022, II do CPC/2015; e ao art. 413 do Código Civil.
+Contrarrazões às fls. 494-513.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 518-530), motivando o manejo do presente agravo em recurso especial (fls. 532-546).
+Contraminuta às fls. 552-568.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+De início, rejeita-se a alegação de violação ao art. 489, § 1º, IV e 1.022, II do CPC/2015, uma vez que que o Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Ainda no contexto, destaca-se que é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL DA PARTE EMBARGANTE/EXECUTADA, A FIM DE POSSIBILITAR A REGULARIZAÇÃO DA CAPACIDADE POSTULATÓRIA NA INSTÂNCIA ORDINÁRIA. IRRESIGNAÇÃO DA PARTE EMBARGADA/EXEQUENTE.
+1. Não se constata a alegada violação aos artigos 489, § 1º, inc. IV, e 1.022, inc. II, do CPC/15, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+(..)
+4. Agravo interno desprovido".
+(AgInt nos EDcl no REsp 1602935/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/03/2018, DJe 23/03/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+COMISSÃO DE CORRETAGEM. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022 DO CPC/2015. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1120676/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 13/03/2018 - grifou-se)
+Ressalte-se, ademais, que não se afigura a necessidade de reforma do aresto quando a eg. Corte de Origem adota tese jurídica distinta da posta pela parte, embasada em legislação diversa da invocada por ela, isto é, a divergência em relação à tese defendida não é suficiente para caracterizar falha na fundamentação, como no caso dos autos.
+Avançando no exame do feito, nas razões recursais sustenta o recorrente ofensa aos arts. 6º, 51, § 1º, III e 54, § 3º, do CDC e 413 do Código Civil, em síntese, ao argumento de que: "ao reconhecer que o condomínio é destinatário final da relação de consumo, e por consequência lógica, incidente o CDC, torna-se impositivo o reconhecimento da nulidade de toda e qualquer cláusula que viole os seus princípios e normas, dentre elas, a abusividade da cláusula de renovação automática de 60 meses e da multa abusiva dela decorrente" (fl. 439) e que: "ainda que não fosse considerada abusiva  a cláusula de prorrogação , a multa é flagrantemente exorbitante, o que acarretaria na sua redução" (fl. 444).
+Por sua vez, o eg. TJ-RS, reformando a d. sentença, entendeu não ser abusiva a cláusula do contrato de fornecimento de gás. É o que se verifica da leitura do seguinte excerto do v. acórdão estadual in verbis (fls. 392):
+ "Ainda que se trate de relação ao abrigo do Código do Consumidor, a cláusula de contrato de fornecimento de gás que prevê renovação automática por igual prazo quando assegura que antes de ocorrer o termo as partes possam manifestar desinteresse em manter a relação obrigacional.
+ Circunstância dos autos em que se impõe reformar a sentença recorrida com a finalidade de declarar não abusiva a cláusula de renovação automática.
+ Desta forma, conclui-se como devida a multa cobrada por conta da rescisão contratual antecipada".
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, ora transcrito, demandaria a interpretação de cláusula contratual, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 5/STJ, in verbis: "a simples interpretação de cláusula contratual não enseja recurso especial".
+No tocante ao dissídio jurisprudencial, tampouco se conhece do apelo nobre, ante a ausência de similitude fático-jurídica entre os acórdãos em comparação, o que inviabiliza a demonstração da divergência pretoriana.
+Por fim, conclui-se que o recurso especial não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de R$ 500,00 (quinhentos reais) para R$ 550,00 (quinhentos e cinquenta reais).
+Publique-se.
