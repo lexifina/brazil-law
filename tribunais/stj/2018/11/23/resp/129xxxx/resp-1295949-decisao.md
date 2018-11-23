@@ -1,0 +1,32 @@
+DECISÃO
+ Trata-se de recurso especial interposto por IMPORT EXPRESS COMERCIAL IMPORTADORA LTDA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - AÇÃO DE REVISÃO CUMULADA COM INDENIZAÇÃO - GRAVAÇÃO DE CONVERSA TELEFÔNICA - CONTRATOS ESCRITOS - PROVA CLANDESTINA - INVALIDADE -AMPLA PROVA PRODUZIDA - PERÍCIA TÉCNICA -REGIME LUCRO PRESUMIDO -SENTENÇA DE PARCIAL PROCEDÊNCIA - RECURSO DA AUTORA - CRITICA AO OFÍCIO JUDICANTE - REEXAME AMPLO PROBATÓRIO - JUROS CAPITALIZADOS - POSSIBILIDADE - CONTRATO DE ABERTURA DE CRÉDITO - PREJUÍZO INDEMONSTRADO - LUCRO CESSANTE INDEVIDO - DANO ORAL INEXISTENTE -RECURSO IMPROVIDO." (e-STJ,fl.2254)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 2273/2277).
+Em suas razões recursais, a recorrente aponta, inicialmente, violação do art.383 do CPC/73, sob o fundamento de que o fato de os prepostos do recorrido não terem conhecimento da gravação da conversa que tiveram com o recorrente não afasta a legalidade da prova.
+Alegam, ainda, que: 1) diversos contratos em análise foram firmados antes da vigência da MP nº 1.963-17, sendo inconteste a ilegalidade da aplicação dos juros capitalizados com período inferior a um ano em tais situações; 2) os contratos prevêem a aplicação de comissão de permanência com juros de mora e multa, que é vedado pelo ordenamento jurídico; 3) faz jus ao recebimento de indenização por lucros cessantes e danos morais.
+Apresentadas contrarrazões às fls. 2316/2325.
+É o relatório. Passo a decidir.
+A recorrente aponta, inicialmente, violação do art.383 do CPC/73, sob o fundamento de que o fato de os prepostos do recorrido não terem conhecimento da gravação da conversa que tiveram com o recorrente não afasta a legalidade da prova.
+Sobre o tema, assim dispôs o acórdão recorrido:
+"Em primeiro lugar, cumpre destacar, por importante, que a regra o contrato escrito prevalece sobre pretensa gravação clandestina,cuja prova não se acolhe.
+De fato, a autora entabulou, a partir do ano de 1997, trinta contratos com a instituição financeira, e na impossibilidade de cumpri-los, havia garantia de recebíveis, elaborou tese esdrúxula e abstrusa.
+Pontua seu argumento em gravação clandestina não autorizada, por meio da qual os contratos seguiriam os parâmetros do CDI mais 0,5%, matéria totalmente imprestável, de natureza probatória.
+Correto afirmar que os contratos tinham expressa previsão dos juros pré-fixados e pactuavam os encargos da mora, sem qualquer onerosidade ou abusividade.
+Concedeu o banco crédito de R$ 500.000,00, na primeira oportunidade ,renovando os contratos, seguidamente, ano a ano, até alcançar 30 escritos particulares.
+Nã é crível que a autora possa se basear em esquálida tese, distorcendo a realidade e procurando emprestar efeito probatório numa gravação telefônica que trata do vício do fumo, do álcool, e outras particularidades, as quais destoam da transparência seriedade da ação.""(e-STJ fl.2257/2258)
+E prosseguiu ao julgar os embargos de declaração:
+"Não favorece a embargante a propalada gravação clandestina, cuja ilegalidade é manifesta e seu conteúdo desprestigia a própria natureza do contrato e a conformidade com o escrito particular examinado."(e-STJ fl.2276)
+Tais circunstâncias foram também destacadas na sentença, mantida integralmente pelo acórdão recorrido:
+"A gravação foi realizada às escondidas sem o conhecimento dos representantes do réu, produzida de nodo sub-reptício, a conversa gravada foi conduzida para ponto de interesse da autora e não serve de prova das práticas ilícitas imputadas àquele (..)" (e-STJ fl. 2127)
+Como se vê, a Corte de origem consignou a invalidade da prova não só porque gravada sem o conhecimento dos prepostos do recorrido, mas também por conta do contexto de sua gravação, do conteúdo da conversa e da sua forma de condução, o que faz com que os fatos narrados ali destoem dos demais elementos probatórios dos autos.
+Contudo, tais fundamentos, autônomos e suficientes à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, a modificação do entendimento adotado pela Corte de origem quanto à incoerência da citada gravação com as demais provas dos autos demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Por fim, quanto às demais alegações, quais sejam, de impossibilidade de aplicação dos juros capitalizados com período inferior a um ano nos contratos firmados antes da vigência da MP nº 1.963-17, de ilegalidade da aplicação de comissão de permanência com juros de mora e multa e do direito ao recebimento de indenização por lucros cessantes e danos morais, tem-se que o recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
