@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por Ford Motor Company Brasil Ltda, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) O Tribunal origem não se pronunciou sobre a matéria versada no art. 150, § 4º do CTN, nem na decisão nem nos aclaratórios, incidindo o óbice da Súmula 211/STJ; (II) A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ; e (III) o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, que o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+Nesse caso, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Assim, aplica-se, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, não conheço do agravo de Ford Motor Company Brasil Ltda .
+Publique-se.
