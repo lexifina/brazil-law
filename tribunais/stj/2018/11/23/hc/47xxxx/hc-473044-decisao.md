@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PEDRO DE MENEZES SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Sustenta a impetrante, em síntese, que a dosimetria da pena imposta ao paciente contém vícios sanáveis pela via eleita.
+Alega, ainda, que o corréu ANDRE POMPEO VIEIRA, interpôs Recurso Especial nesta Corte Superior (REsp n. 1.593.227/SP), o qual obteve a redução da pena. E outros corréus também obtiveram a extensão da mencionada decisão.
+Requer a concessão sumária e definitiva da ordem constitucional para que seja deferida a extensão dos efeitos da decisão ao paciente com a redução da pena atribuída ao crime de tráfico, tendo em vista que se encontra sob as mesmas condições que os referidos corréus.
+O pedido de liminar foi indeferido (fls. 93/94).
+Instado a se manifestar, o Ministério Público Federal ofertou parecer pelo não conhecimento da impetração, mas pela concessão da ordem de ofício para que seja deferida ao paciente a extensão dos efeitos da decisão proferida no Recurso Especial n. 1.593/227/SP para fixar a pena definitiva em 8 (oito) anos e 4 (quatro) meses de reclusão, e pagamento de 833 (oitocentos e trinta e três) dias-multa, pela incursão nas sanções do art. 33 da Lei n. 11.343/06 (fls. 98/101).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+A propósito:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MAUS ANTECEDENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. MATÉRIA NÃO DEBATIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Consoante o disposto no artigo 42 da Lei 11.343/2006, na fixação da pena do crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente.  ..
+- Habeas corpus não conhecido.
+(HC 406.549/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Da análise dos autos, verifica-se que assiste razão à impetrante.
+De fato, por meio de decisão monocrática deste Relator exarada no REsp nº 1.593.227/SP, foi operada a redução da sanção básica imposta ao réu ANDRE POMPEO VIEIRA, considerando-se excessiva e desproporcional a sua fixação no patamar de 12 anos de reclusão e 1000 dias-multa, nos seguintes termos, litteris:
+Todavia, não obstante a possibilidade de exasperação da sanção básica, há que se reconhecer que o quantum cominado em razão do tráfico ilícito de entorpecentes (12 anos de reclusão e 1000 dias-multa - fls. 1142/1143), correspondente a mais que o dobro do mínimo legal, se afigura excessivo, não atendendo aos princípios da proporcionalidade e da razoabilidade, merecendo reparos o acórdão a quo nesse ponto.
+Dessarte, mostra-se condizente com o princípio da individualização da pena, na espécie, o aumento de 2/3 (dois terços) na sanção básica, tal como operado para o crime de associação para o tráfico.
+Por essas razões, e observados os demais parâmetros estabelecidos pelas instâncias ordinárias, fixa-se a reprimenda na primeira etapa da dosimetria em 8 (oito) anos e 4 (quatro) meses de reclusão e 833 (oitocentos e trinta e três) dias-multa, a qual resta mantida nesse montante, ante a inexistência de causas de aumento ou diminuição.
+Cabe ressaltar que, conforme previsão contida no art. 580 do Código de Processo Penal, na hipótese de concurso de agentes, como a dos presentes autos, "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Dessa forma, tendo se operado a redução da reprimenda exclusivamente em decorrência do excesso no seu quantum, sem consideração de eventuais aspectos de índole pessoal do acusado, necessária a extensão dos efeitos do decisum para que a redução aproveite também ao paciente PEDRO DE MENEZES SANTOS.
+A propósito, vejam-se:
+RECURSO ESPECIAL. PROCESSUAL PENAL. INVESTIGAÇÃO POLICIAL. INTERCEPTAÇÕES TELEFÔNICAS. DEFERIMENTO. DECISÃO JUDICIAL FUNDAMENTADA. INEXISTÊNCIA. ILEGALIDADE CONFIGURADA. CONTAMINAÇÃO DAS PROVAS DERIVADAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA.
+CODENUNCIADOS EM SITUAÇÃO IDÊNTICA. EXTENSÃO. ART. 580 DO CPP.  ..
+3. De ofício, extensão dos efeitos deste julgado aos demais denunciados, por força do art. 580 do Código de Processo Penal.  ..
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para anular o processo desde a sentença e reconhecer a ilicitude das interceptações telefônicas obtidas pela denominada Operação Leão da Terra e das demais provas delas derivadas, devendo o Juízo singular proferir nova sentença, sem a utilização das provas anuladas, com extensão dos efeitos aos demais denunciados, [NOME], [NOME], [NOME], [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME], por força do art. 580 do Código de Processo Penal.
+(REsp 1391257/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/02/2015, DJe 23/02/2015)
+RECURSO ESPECIAL. AQUISIÇÃO DE REMÉDIOS E ALIMENTOS PARA HOSPITAL MUNICIPAL. DISPENSA DE LICITAÇÃO. ART. 89, CAPUT E PARÁGRAFO ÚNICO, DA LEI Nº 8.666/1993. AUSÊNCIA DE COMPROVAÇÃO DO DOLO ESPECÍFICO DE FRAUDAR O PROCEDIMENTO LICITATÓRIO E DE EFETIVO DANO AO ERÁRIO. RECURSOS PROVIDOS.  ..
+3. Não sendo demonstrada a intenção dos réus de burlar o procedimento licitatório a fim de obterem vantagem em detrimento do erário municipal, tampouco constatado prejuízo aos cofres públicos, não há que se falar em crime de dispensa irregular de licitação.
+4. Considerando a identidade de situações entre os recorrentes e os corréus [NOME] e [NOME], deve se estendido os efeitos desta decisão, nos moldes do que disciplina o art. 580 do Código de Processo Penal.
+5. Recursos especiais providos.
+(REsp 1133875/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 12/06/2012, DJe 13/08/2012)
+Por essas razões, com fundamento no art. 580 do Estatuto Processual Repressivo, defiro a extensão dos efeitos da decisão proferida no REsp nº 1.593.227/SP, para fixar a pena definitiva de PEDRO DE MENEZES SANTOS em 8 (oito) anos e 4 (quatro) meses de reclusão, e pagamento de 833 (oitocentos e trinta e três) dias-multa, pela prática do delito previsto no art. 33 da Lei n. 11.343/06.
+Comunique-se, com urgência, ao TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO e ao respectivo Juízo de primeiro grau.
+Publique-se. Intimem-se.
