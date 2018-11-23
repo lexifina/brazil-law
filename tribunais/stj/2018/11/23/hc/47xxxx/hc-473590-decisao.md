@@ -1,0 +1,33 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO CULPOSO. ALEGAÇÃO DA DEFESA DE BIS IN IDEM. INOCORRÊNCIA. CAUSA DE AUMENTO DA PENA. FUNDAMENTAÇÃO CONCRETA PELA INOBSERVÂNCIA DE REGRA TÉCNICA DA PROFISSÃO MÉDICA. PENA-BASE. SOFRIMENTO PSICOLÓGICO DA MÃE DA VÍTIMA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem de habeas corpus denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul.
+Narram os autos que o Juízo da comarca de Três Lagoas/MS condenou a paciente à pena de 1 ano e 8 meses de detenção, em regime aberto, sendo substituída por duas penas restritivas de direito, por ter sido incursa no delito previsto no art. 121, §§ 3º e 4º, do Código Penal (fls. 24/43).
+Interposta a Apelação Criminal n. 0008193-82.2010.8.12.0021, a defesa apontou nulidade ante a ausência de laudo de exame de corpo de delito da vítima. A 3ª Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul, por maioria de votos, negou provimento ao recurso (fls. 44/78).
+No presente writ, aponta a defesa bis in idem quanto à causa do aumento da pena de 1/3 (um terço), prevista no § 4º do art. 121 do Código Penal, e a circunstância judicial da culpabilidade (fl. 4). Requer a nulidade absoluta do processo desde a prolação da sentença, pela não oferta da suspensão condicional do processo.
+Assim, a defesa pede o decote da majorante prevista no art. 121, § 4º, do Código Penal e a revisão da dosimetria da pena. Caso seja afastada a majorante, requer-se a concessão da ordem para decretar a nulidade absoluta do processo desde a prolatação da sentença, para oportunizar à paciente os benefícios da suspensão condicional do processo nos termos do art. 89 da Lei 9099/95 (fl. 17).
+Decisão deste Relator indeferindo a liminar (fls. 87/88).
+Parecer ministerial opinando pelo não concessão da ordem (fls. 103/112).
+É o relatório.
+Aponta a defesa bis in idem quanto à causa do aumento de pena de 1/3 (um terço), prevista no § 4º do art. 121 do Código Penal, e a circunstância judicial da culpabilidade (fl. 4).
+Eis a dosimetria feita na sentença (fls. 40/41 - grifo nosso):
+Analisadas as circunstâncias judiciais de que trata o artigo 59 do Código Penal, observo que as conseqüências do crime deveras graves, em razão do inevitável abalo psicológico sofrido pela genitora da vitima. As demais circunstâncias judiciais não militam em desfavor da ré. Assim, bem sopesada a circunstância judicial acima elencada, fixo a pena-base em 1 (um) ano e 3 (três) meses de detenção.
+Não há circunstância atenuante, nem mesmo agravante a ser considerada.
+Não há causa especial de diminuição de pena. Como causa de aumento de pena, observo presente a descrita no artigo 121, § 4º do CP, pois, o delito em questão se deu em razão de inobservância de regra técnica da profissão (médica), com o que majoro a reprimenda base em 1/3, a resultar a pena definitiva em 1 (um) ano e 8 (oito) meses de detenção.
+Considerando que o delito em questão foi praticada em sua modalidade culposa, vislumbrando suficiente para a reprovação do crime, nos termos do que dita o artigo 44 do CP, SUBSTITUO a pena privativa de liberdade ora imposta, por DUAS penas restritivas de direito, consistentes em: 1) interdição temporária de direitos  ..  2) prestação pecuniária  ..
+A câmara julgadora manteve a causa do aumento da pena, diante da seguinte motivação (fls. 66/67):
+Subsidiariamente. a defesa pugna pelo afastamento da causa de aumento prevista no art. 121. § 4o do Código Penal, aduzindo que sua aplicação gera uma dupla punição pelo mesmo fato, haja vista que a citada inobservância de regra técnica de profissão, arte ou ofício está diretamente ligada a conceituação de imperícia, o que não aconteceu no presente caso (fl. 343)
+O § 4o do art. 121 do Código Penal prevê:
+§ 4º No homicídio culposo, a pena é aumentada de 1/3 (um terço), se o crime resulta de inobservância de regra técnica de profissão, arte ou oficio, ou se o agente deixa de prestar imediato socorro à vitima, não procura diminuir as conseqüências do seu ato. ou foge para evitar prisão em flagrante. Sendo doloso o homicídio, a pena é aumentada de 1/3 (um terço) se o crime é praticado contra pessoa menor de 14 (quatorze) ou maior de 60 (sessenta) anos.
+De acordo com [NOME], "esta majorante não se confunde com a imperícia (modalidade de culpa), que indica inaptidão, Inabilidade profissional ou insuficiência de capacidade técnica. Nesta majorante, o agente conhece a regra técnica, mas não a observa; haveria uma displicência a respeito da regra técnica O fundamento da culpa é outro; essa desatenção somente graduaria a culpa. Por isso, esta majorante, ao contrário da imperícia, a nosso juízo, aplica-se somente à profissional"
+Ainda de acordo com o mesmo autor, negligência é a displicência no agir, a falta de precaução a indiferença do agente, que, podendo adotar as cautelas necessárias, não o faz. É a imprevisão passiva, o desleixo, a inação (culpa in ommittendo). É não fazer o que deveria ser feito. (..)"
+Referido dispositivo tem aplicabilidade quando o agente, que possui conhecimentos técnicos, deixa de empregá-los.
+No caso, não há bis in idem como alega a defesa pois, conforme verifica-se na sentença, a causa de aumento se deu em virtude de "inobservância de regra técnica da profissão (médica)" (fl. 288), não se confundindo, portanto, com o reconhecimento da negligência e imperícia no atendimento prestado.
+ ..
+Na hipótese, a Dra. [NOME]ixou de monitorar o feto, bem como abreviar o parto da mãe da vítima, realizando uma cesariana, o que resultou em óbito do nascituro. Assim procedendo, deixou de observar o dever de cuidado que lhe era exigido na espécie e as regras técnicas inerentes ao exercício da profissão.
+Desse modo, impõe-se a manutenção da causa de aumento de pena prevista no § 4º do artigo 121 do Código Penal.
+Com efeito, não há constrangimento ilegal ou o apontado bis in idem. Verifica-se que a causa de aumento foi aplicada pela inobservância de regra técnica da profissão médica. Já a elevação da pena-base, como pode ser conferido na transcrição da sentença, deu-se por todo o sofrimento psicológico causado à genitora, com a perda do filho logo após o nascimento, o que não pode ser desconsiderado na hipótese como grave consequência. Nesses termos, indevida a intervenção desta Corte Superior para reduzir a pena-base ou afastar a causa de aumento da pena.
+Como não foi acolhido o pedido de afastamento da causa de aumento da pena, fica prejudicado o pleito de nulidade absoluta do processo desde a prolação da sentença, pela não oferta da suspensão condicional do processo.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
