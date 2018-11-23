@@ -1,0 +1,50 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. ART. 35 DO DECRETO-LEI Nº 3.365/1941. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No tocante à alegada violação ao art. 35 do Decreto-Lei nº 3.365/41, verifica-se que o tema não foi apreciado pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice das Súmulas 282 e 356/STF.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Instituto Nacional de Colonização e Reforma Agrária, desafiando decisão pela qual neguei provimento ao agravo em recurso especial, por entender que: (I) o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; e (II) a questão referente ao art. 35 do Decreto-Lei n. 3.365/41 não foi objeto de debate na instância ordinária, tampouco foi objeto dos aclaratórios opostos (Súmula 282/STF).
+Em suas razões, a parte agravante sustenta que: (I) o Egrégio Tribunal a quo permaneceu silente quanto ao tratamento acerca da temática objeto de questionamento e (II) buscou a submissão da matéria relativa ao Decreto-Lei n. 3.365/41 à apreciação do Egrégio Tribunal Regional Federal da 2ª Região.
+Sem impugnação (fl. 311).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Tal como constatou a decisão agravada, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido, integrada em sede de embargos declaratórios, que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+De fato, na hipótese vertente, o Tribunal de origem tornou definitiva a reintegração de posse e condenou a agravante ao pagamento de indenização pelos prejuízos decorrentes do esbulho, pelos seguintes fundamentos (fl. 214):
+ ..
+Quanto ao mérito, compulsando os autos verifica-se que o Embargante não participou da relação processual da Ação de Reintegração de Posse nº 93.0070883-0, ajuizada pelo INCRA em face de [NOME], bem como que o objeto da mesma limitava-se à área ocupada por este, e não ao lote do Apelado, tendo ocorrido um equívoco no momento do cumprimento do mandado de reintegração devido ao desmembramento do terreno, conforme se manifestou o Juízo do referido processo (f I. 29):
+"Embora as informações trazidas a ambos os autos sejam dissidentes, não restando claro nem mesmo em que lote o autor se encontra, é possível concluir que o lote 56 do PA IMBURO foi desmembrado em quatro outros lotes, quais sejam: 280, 282, 283 e 305. Somente a área ocupada pelo Sr. [NOME]ve ser reintegrada ao INCRA." Ainda, comprovou o Apelado a titularidade do domínio do lote em discussão, conforme se verifica nas cópias autenticadas do seu Título de Domínio perante o INCRA e do Registro de Imóveis, bem como nos demais documentos acostados aos autos (fls. 11/19).
+Salienta-se que eventuais irregularidades praticadas pelo Apelado ou descumprimento das obrigações assumidas no Título de Domínio deverão ser discutidas em ação própria, com observância do Devido Processo Legal e do Contraditório.
+ ..
+Desse modo, considerando que a atividade judicial foi exercida em sua integralidade, deve ser prontamente afastada a alegação de que o acórdão recorrido deixou de oferecer a devida prestação jurisdicional.
+Por outro lado, no tocante à alegada violação ao art. 35 do Decreto-Lei n. 3.365/41, repise-se que o tema não foi apreciado pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. OFENSA. INOCORRÊNCIA. ARTS. 43 E 186 DO CÓDIGO CIVIL. VIOLAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. RESPONSABILIDADE CIVIL. ENFOQUE CONSTITUCIONAL. DANOS MORAIS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. DIVERGÊNCIA. PREJUÍZO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Inexiste violação do art. 1.022, II, do CPC/2015 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente.
+3. Quanto à alegada violação dos arts. 43 e 186 do Código Civil, o Tribunal de origem não emitiu juízo de valor sobre a matéria contida nos aludidos dispositivos, tampouco foram objeto dos embargos de declaração, incidindo, assim, as Súmulas 282 e 356 do STF.
+ ..
+(AgInt no AREsp 1098992/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 05/04/2018)
+Por derradeiro, é imperioso salientar que a indicação, no afã de tentar afastar a incidência da Súmula 282/STF, de trechos do recurso especial, onde há menção à tese relativa ao art. 35 do Decreto-Lei n. 3.365/41, como se tivessem sido extraídos dos aclaratórios opostos na segunda instância revela conduta que não guarda compatibilidade com os cânones da lealdade processual, cuja observância deve nortear a relevante atuação da Procuradoria-Geral Federal perante o Poder Judiciário.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
