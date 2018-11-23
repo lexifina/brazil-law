@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. ATIVIDADE ESPECIAL. RETIREIRO. INSALUBRIDADE. ENQUADRAMENTO. DECRETOS 53.831/64 E 83.080/79. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara quanto à sucessão do Decreto 53.831/64 pelo Decreto 83.080/79, esclarecendo, ademais, que a atividade especial dos períodos laborados na condição de retireiro não diz respeito aos agentes infecciosos mencionados nos códigos do Decreto 53.831/64.
+2. Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente de formulários da data em que o recorrente prestou os serviços e de suas condições, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Recurso Especial parcialmente conhecido e nessa parte não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO LEGAL. INSURGÊNCIA VOLTADA CONTRA O MÉRITO. PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+1 - Embargos de declaração em que é veiculada insurgência quanto ao meritum causae. Recebimento do recurso como agravo previsto no art. 557, §1º, do Código de Processo Civil. Precedentes do STF e STJ.
+2 - É dado ao relator, na busca pelo processo célere e racional, decidir monocraticamente o recurso interposto, quer negando-lhe seguimento, desde que em descompasso com "súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior", quer lhe dando provimento, na hipótese de decisão contrária "à súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior" (art. 557, caput e §1º-A, do CPC).
+3 - O denominado agravo legal (art. 557, §1º, do CPC) tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida.
+4 - Decisão que não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos em consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+5 - Agravo legal do INSS improvido. Embargos de declaração opostos pelo autor recebidos como agravo legal e, igualmente, improvido.
+Em decisão de fl. 597/e-STJ, foi acolhida a alegação de ofensa ao art. 535 do CPC/1973, determinando-se a devolução dos autos ao Tribunal de origem para que aquela Corte se manifestasse sobre a possibilidade de enquadramento da atividade confirmada pela perícia aos códigos supracitados (códigos 1.3.1 do Decreto 53.831/64; 2.2.1 do Decreto 53.831/64 e 1.3.1 do Decreto 83.080/79 e 1.3.2 do Decreto 83.080/79).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.4.2018.
+O Tribunal de origem, ao decidir a vexata quaestio, consignou (fls. 660-662/e-STJ):
+(..)
+O anexo I do referido decreto classifica as atividades profissionais segundo os agentes nocivos.
+Referidos códigos referem como agentes biológicos:
+1.3.1. Carbúnculo, brucela, mormo, tuberculose e tétano - trabalhos permanentes em que haja contato com produtos de animais infectados.
+Trabalhos permanentes em que haja contato com carnes, vísceras, glândulas, sangue, ossos, pelo, dejeções de animais infectados atividades discriminadas entre as do código 2.1.3. do Anexo II: médicos, veterinários, enfermeiros e técnicos de laboratório;
+1.3.2. Animais doentes e materiais infecto-contagiantes. Trabalhos permanentes expostos ao contato com animais doentes ou materiais infecto-contagiantes (atividades discriminadas entre as do código 2.1.3 do Anexo II: médicos, veterinários, enfermeiros e técnicos de laboratório.
+Também é ora analisada a atividade desenvolvida durante a vigência do Decreto 53.831/64, nos termos do que foi pleiteado no recurso especial.
+O autor menciona que o enquadramento correto da atividade de retireiro exercida na vigência do Decreto 53.831/64 encontra-se nos códigos 1.3.1 e 2.2.1.:
+1.3.1. Carbúnculo, brucela, morno e tétano. Operações industriais com animais ou produtos oriundos de animais infectados. Trabalhos permanentes expostos ao contato direto com germes infecciosos - assistência veterinária, serviços em matadouros, cavalariças e outros.
+2.2.1. Agricultura. Trabalhadores na agropecuária.
+O então Relator, Desembargador Federal Nelson Bernardes afastou o enquadramento da atividade de retireiro nos decretos regulamentadores nos seguintes termos:
+Por outro lado, não reconheço a atividade especial dos períodos laborados na condição de retireiro, mencionados nos formulários de fles. 42, 45 e 57, ainda que o laudo pericial de fls 214/224 traga a informação quanto à exposição aos agentes fungos e bactérias, já que não se referem aos agentes infecciosos mencionados nos códigos 1.3.2 do Anexo I do Decreto nº 53.831/64 e 1.3.5 do Anexo I do Decreto nº 83.080/79, que ficam adstritos aos profissionais da saúde.
+Passo à análise determinada.
+Para tanto, utilizo-me dos dados constantes dos formulários de fls. 42, 45 e 57, e do laudo pericial de fls. 214/224.
+Foram enquadradas na qualificação de serviços gerais/retireiro as atividades exercidas de 20/07/1978 a 21/22/1979 (empregador [NOME], Fazenda Cortado), 27/11/1985 a 27/12/1987 (empregador [NOME], Fazenda Ítatinga), 01/04/1991 a 31/01/1992 (empregador [NOME], Fazenda São Bento). É o que consta da inicial.
+Nos formulários emitidos pelos empregadores, os agentes nocivos são químicos (venenos tipo BHC, carrapaticidas e bernicidas), ergonômicos (monotonia, exigência de postura inadequada e ritmo de trabalho), biológicos (vírus, bactérias e protozoários) e atmosféricos (chuva, raios solares e frio).
+As atividades executadas são: preparar o gadopara ordenha no período da manhã e no período da tarde, amarrar vaca e bezerro, tirar leite manualmente, encher latões de leite, armazenar em resfriador, cuidar do manejo do rebanho em geral, cuidar de animais doentes, ministrar medicamentos, sob orientação do médico veterinário, fazer castrações, pulverizações e escovação dos animais e outros serviços inerentes da atividade agropecuária.
+O laudo pericial de fls. 214/224 analisou as condições de trabalho Como retireiro por paradigma, na empresa [NOME] e outros (Sítio do Tonico).
+Não é possível analisar o laudo por similaridade já que as empresas [NOME] e [NOME] foram desativadas.
+Não há sequer menção ao empregador [NOME]. Somente por este motivo já não haveria condições de se qualificar a atividade de retireiro como especial.
+Porém, o que se determina é a análise da condição de retireiro nos Decretos legais regulamentadores, segundo o enquadramento acima.
+A TNU firmou a seguinte tese, no tema 156 (Pedilef 0500180- 14.2011.4.05.8013, Relator Juiz Federal João Batista Lazzari, acórdão publicado em 26/09/2014):
+A expressão "trabalhadores na agropecuária" contida no item 2.1.1 do anexo do Decreto n. 53.831/64, se refere aos trabalhadores rurais que exercem atividades agrícolas como empregados em empresas agro industriais e agrocomerciais, fazendo jus os empregados de tais empresas ao cômputo de suas atividades como tempo de serviço especial.
+Quanto ao Decreto 53.831/64, códigos 1.3.1 e 2.2.1, possível o enquadramento, não no código 1.3.1, mas sim no código 2.2.1. Isso porque os formulários apresentados referem atividade eminentemente agropecuária, especificamente, e não atividade rural, desenvolvida na lavoura (hipótese em que não pode ser reconhecida como especial).
+Para enquadramento no código 1.3.1, seria necessária a comprovação de trabalho permanente exposto a contato direto com germes infecciosos - assistência veterinária, serviços em matadouros, cavalariças e outros, o que não é demonstrado no rol das atividades elencadas nos formulários apresentados.
+Já o Decreto 83.080/79, nos códigos 1.3.1 e 1.3.3 (leia-se 1.3.2), discrimina especificamente atividades outras, que não agropecuária, para o pretendido enquadramento. Assim, somente são admitidas como especiais as atividades em que há a exposição aos agentes biológicos citados, quando se trata de profissionais médicos, veterinários, enfermeiros e técnicos de laboratório. O que não é o caso do autor.
+Nesses termos, acolho parcialmente os embargos de declaração do autor, recebidos como agravo legal pelo relator, para considerar como especial a atividade exercida no período de 20/07/1978 a 24/01/1979 (início da vigência do Decreto 83.080/1979).
+Mesmo com referida modificação, o autor não tem o direito à aposentadoria especial, mas apenas à revisão da aposentadoria por tempo de contribuição concedida, acrescido o tempo inerente às condições especiais de trabalho ora reconhecidas."
+(..)
+Inicialmente, constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara quanto à sucessão do Decreto 53.831/64 pelo Decreto 83.080/79, esclarecendo, ademais, que a atividade especial dos períodos laborados na condição de retireiro não diz respeito aos agentes infecciosos mencionados nos códigos do Decreto 53.831/64.
+Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente de formulários, bem como da averiguação da data em que o recorrente prestou os serviços e suas condições, o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço parcialmente do Recurso Especial e, nessa extensão, nego-lhe provimento.
+É como voto.
