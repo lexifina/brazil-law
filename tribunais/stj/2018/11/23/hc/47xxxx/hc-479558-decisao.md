@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná, no julgamento do HC n. 0030268-89.2018.8.16.0000.
+Consta dos autos que a prisão em flagrante do paciente se deu no dia 28/6/2018, em razão do cumprimento de mandado de busca e apreensão expedido nos autos nº 002034-21.2018.8.16.0090. Em 29/6/2018 foi convertida a prisão em flagrante em preventiva.
+Nos autos da Ação Penal n. 15740-11.2018.8.16.0013 foi oferecida denúncia contra o paciente atribuindo-lhe a prática dos crimes descritos nos arts. 16 e 17 da Lei n. 10.826/2003 e 33 da Lei n. 11.343/2006, pois guardava em sua residência um fuzil M4, calibre 5.56, além de 100 munições do mesmo calibre, e ainda 50g de maconha.
+Irresignada com o indeferimento do pedido de revogação da prisão preventiva, a defesa impetrou prévio writ na origem reiterando o pedido de liberdade ou, ainda, o trancamento ou a suspensão da ação penal.
+Contudo, em sessão de julgamento realizada no dia 23 de agosto de 2018, a 4ª Câmara Criminal, por votação unânime, conheceu em parte da impetração e, nessa extensão, denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 26):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. 1. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA E CONCRETA. ELEMENTOS INFORMATIVOS QUE REPRESENTAM MATERIALIDADE E INDÍCIOS DE AUTORIA. DENÚNCIAS ANÔNIMAS. QUANTIDADE DE DROGAS APREENDIDAS E ARMA DE FOGO DE USO RESTRITO. PRESSUPOSTOS DA GARANTIA DA ORDEM PÚBLICA. 2. CERCEAMENTO DE DEFESA. HABILITAÇÃO DE DEFENSOR NOS AUTOS. PERDA DO OBJETO. 3. DECISÃO. JUÍZO COMPETENTE. 4. EXCESSO DE PRAZO. NÃO VERIFICAÇÃO. 5. CONDIÇÕES SUBJETIVAS FAVORÁVEIS. IRRELEVÂNCIA. 6. APENAMENTO MÁXIMO DO CRIME. DISCUSSÃO INÓCUA. HIPÓTESE DE CABIMENTO DA SEGREGAÇÃO CAUTELAR. ORDEM CONHECIDA EM PARTE E, NESSA EXTENSÃO, DENEGADA.
+No presente writ, alega a defesa falta de fundamentação concreta do decreto de prisão preventiva e excesso de prazo para a formação da culpa.
+Destaca as condições pessoais favoráveis do paciente, especialmente o fato de possuir um filho com sério problema de autismo, necessitando dos cuidados paternos, o que autoriza a concessão da liberdade provisória com a imposição de medidas cautelares diversas da prisão.
+Requer a defesa, ao final, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou a concessão da prisão domiciliar, ainda que cumulada com o uso de tornozeleira eletrônica.
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+In casu, o impetrante não instruiu os autos com o decreto de prisão preventiva, circunstância que impede a verificação da existência, ou não, de flagrante ilegalidade e, assim, do indispensável fumus boni iuris para a concessão de liminar.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
