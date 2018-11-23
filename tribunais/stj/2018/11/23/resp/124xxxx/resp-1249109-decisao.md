@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por COOPERATIVA REGIONAL TRITÍCOLA SERRANA LTDA COTRIJUI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 468-475 e-STJ), assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. CONDENAÇÃO EM RECONVENÇAO. CÁLCULO DO DEBITO. MARCO INICIAL DA CORREÇÃO MONETÁRIA E DOS JUROS. INDEXADOR.
+1.Sem amparo a alegação de que não fundamentada a decisão. Questões invocadas que foram devidamente abordadas pela julgadora, que apresentou suas razões de convencimento, sem que remanesça dúvida quanto aos motivos do * indeferimento das pretensões da ora agravante.
+2. Despropositado o pedido de exame de exceção de pré-executividade ajuizada sete anos atrás. Execução que fora inicialmente extinta, mas que prosseguiu após decisão em segunda instância, sem que a excipiente (ora agravante) tenha manifestado interesse no incidente proposto, o que deveria ter feito na primeira oportunidade, tão-logo retornados os autos após julgamento dos recursos.
+Prática de atos (manifestações contra os valores, indicação de bens à penhora..) incompatíveis com as alegações da exceção. Insurgência injustificada.
+3.Incorreçáo do cálculo elaborado pela Contadoria Judicial quanto ao marco inicial da correção monetária e dos juros. Decisão judicial de procedência da reconvenção determinando o reajuste a partir do ajuizamento daquela demanda, e não da açao principal, esta utilizada no cálculo homologado. Recurso acolhido nesse ponto.
+3.11.nexiste impropriedade na utilização do IGP- M/FORO como índice de correção, ainda que se trate de condenação fixada em 1983. índice Padrão de Atualização formado por sucessivos indexadores, conforme tabela divulgada inclusive no site do Tribunal de Justiça, e que não se confunde com o IGP-M-FGV, este sim não existente em parte do período de correção.
+Agravo provido em parte.
+Opostos embargos declaratórios (fls. 478-483 e 519-522 e-STJ), restaram parcialmente acolhidos, apenas para sanar contradição a respeito da composição do índice (fls. 524-533 e-STJ).
+Nas razões do especial (fls. 574-586 e-STJ), a insurgente alega a nulidade do acórdão julgou os aclaratórios, bem como violação ao disposto nos artigos 165, 460 e 475-A do CPC/73 e na Lei n. 6.899/81, ao argumento de que, ausente definição na sentença do índice de correção, deve ser aplicado o índice oficial.
+Contrarrazões a fls. 620-627 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 645-655 e-STJ), o Tribunal local negou seguimento ao recurso especial, o que ensejou o manejo de agravo de instrumento, ao qual foi dado provimento para melhor análise da matéria (fl. 668 e-STJ)
+É o relatório.
+Decide-se.
+A pretensão recursal não ultrapassa o conhecimento.
+1. De início, em relação à alegada nulidade do acórdão, observa-se que peça recursal deixou de indicar violação a qualquer dispositivo de lei federal.
+Na interposição do recurso especial, é dever da parte recorrente indicar como violado ou como objeto de interpretação divergente dispositivo de lei federal com conteúdo normativo conexo com a matéria discutida na irresignação, sob pena de a deficiência das razões recursais atraírem o óbice da súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, cita-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. INTERPRETAÇÃO DIVERGENTE. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+ ..
+2. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da aludida Súmula nº 284 do STF.
+ ..
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1302139/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/10/2018, DJe 10/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF.
+2. A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1229292/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 04/09/2018)
+2. No mérito, a recorrente sustenta violação aos artigos 165, 460 e 475-A do CPC/73 e à Lei n. 6.899/81, ao argumento de que "a sentença exeqüenda não restou estabelecido o índice inflacionário a ser adotado e o indexador aplicável aos litigantes", motivo pelo qual, "no máximo, poderiam ser adotados os índices oficiais, de inflação do período, sob pena de violação à coisa julgada" (fl. 583 e-STJ).
+Todavia tal questão não foi objeto de debate perante as instâncias ordinárias, não tendo sido, na forma aqui pretendida, sequer levantada anteriormente, evidenciando tratar-se de inovação recursal.
+Ressalta-se que a Corte de origem, apreciando toda o debate levantado por ocasião do agravo de instrumento e dos embargos de declaração, limitou-se a afirmar qual seria o índice mais apropriado para correção, bem como esclareceu sua composição. Não emitiu, assim, julgamento acerca da tese trazida através do apelo extremo - qual seja, de que seria imperiosa, ante o silêncio da sentença, a aplicação do índice oficial.
+Aliás, a decisão recorrida não afirma, sequer, se a sentença tratou ou não da questão - tese esta formulada, apenas, por ocasião do recurso especial.
+Confira-se o excerto do julgado impugnado (fls. 473-474 e-STJ):
+No que tange ao indexador, entretanto, injustificada a inconformidade.
+A planilha elaborada pela Contadora expressamente define a aplicação do IGP-M/FORO, como já vinha sendo utilizado desde o primeiro cálculo apresentado nos autos (em 1996), e que é formado por vários indexadores (ORTN e OTN até 01/1989; INPC em 01/89; BTN até 02/91, IGP-M- FGV até 02/94; URV até 06/94; IGP-2 até 08/94; a partir de então IGP-M - FGV), conforme tabela divulgada inclusive no site do Tribunal de Justiça (..).
+Portanto, não tem amparo a inconformidade, mormente porque o IGP-M/FORO (apenas uma denominação) não se confunde com o IGP-M/FGV, não havendo impropriedade da sua utilização.
+Destaco que o demonstrativo apresentado pela agravante, e que apresenta resultado de R$356.280,80 (aproximadamente 20% daquele apurado pela Contadoria), não reflete com correção, à evidência, a soma devida, em especial se considerado que são 23 anos de juros e correção, não compatível com a tabela apresentada pela recorrente.
+Já por ocasião dos aclaratórios, a composição do índice foi esclarecida (fl. 529 e-STJ):
+No entanto, impõe-se reconhecer que há contradição no julgado, quanto aos indexadores que compõem o chamado "IGP-M Foro", índice expressamente definido para apuração do saldo.
+Ocorre que, ao contrário do que restou expresso na decisão ora embargada, o IGP-M Foro é formado pelo IGP-DI (FGV), de 12/09/83 a 01/06/89,  IGP-M (FGV), de 01/06/89 a 01/03/94,  URV, de 01/03/94 a 01/07/94,  IGP-2 (FGV), de 01/07/94 a 01/09/94,  IGP-M (FGV) a partir de 01/09/94.
+Tal composição observa o teor do Provimento 04/92 da Direção do Foro de Porto Alegre, e objetiva recompor de forma justa a desvalorização da moeda, sendo adotado em regra nas Comarcas do Estado.
+Portanto, quanto a este ponto, merecem acolhida os embargos, para que seja estabelecida a correta composição do IGP-M - Foro, que vai mantido como indexador a ser adotado na situação em tela.
+Nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal." (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Assim, uma vez que o Tribunal de origem não proferiu decisão a respeito da controvérsia, levantada apenas por ocasião do recurso especial, é inviável o seu conhecimento, uma vez ausente o requisito do prequestionamento, conforme óbice da súmula 211/STJ.
+3. Por fim, em relação ao dissídio sustentado, não foi realizado o necessário cotejo analítico a fim de demonstrar a similitude fática entre os acórdãos recorrido e paradigma.
+A realização de cotejo analítico pressupõe não apenas o destaque de trechos das ementas dos acórdãos indicados como paradigmas. Exige-se que seja exposta, de forma argumentativa, a similitude fática entre os arestos recorrido e paradigma, demonstrado haver oposição de teses jurídicas. Ausente essa argumentação, torna-se inviável a admissão do apelo extremo. Nesse sentido, citam-se precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA COMPANHIA TELEFÔNICA.
+1. A jurisprudência desta Corte possui entendimento firme segundo o qual, para a caracterização da divergência jurisprudencial, é imprescindível a colação de trechos do relatório e do voto dos acórdãos paradigma e paragonado, com a realização do devido cotejo analítico, sendo insuficiente a mera transcrição de ementas, como ocorreu no caso.
+2. Ainda que assim não fosse, a parte não cuidou de infirmar o fundamento adotado pelo aresto recorrido, qual seja, a ausência de alegação da nulidade em momento oportuno, circunstância atrativa do óbice contido na Súmula 283/STF.
+3. Agravo interno desprovido.
+(AgInt no REsp 1662280/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 05/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONDOMÍNIO. SÍNDICO. PERÍODO DE ADMINISTRAÇÃO. DEVER DE PRESTAR CONTAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, incide o óbice da Súmula nº 7/STJ para alterar o entendimento do tribunal de origem de que a ex-síndica tem o dever de prestar contas relativamente ao período em que administrou o condomínio.
+3. A divergência jurisprudencial, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp 1152129/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, não se conhece do recurso especial.
+Publique-se.
+Intimem-se.
