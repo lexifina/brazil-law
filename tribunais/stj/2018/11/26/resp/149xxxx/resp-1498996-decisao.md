@@ -1,0 +1,38 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO CAUTELAR DE PROTESTO INTERRUPTIVO DE PRESCRIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRAZO DILATÓRIO DO ART. 284 DO CPC/1973. JUÍZO DE CONFORMIDADE EXARADO NA ORIGEM. ART. 543, § 7º, I, DO CPC/1973. AUSÊNCIA DO CONTRATO DE FINANCIAMENTO. DOCUMENTO INDISPENSÁVEL. PRECEDENTES. NÃO JUNTADA. JUSTA CAUSA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
+DECISÃO
+Cuida-se de recurso especial interposto por EMGEA - Empresa Gestora de Ativos, com fundamento no art. 105, III, a e c, da Constituição Federal, em contrariedade a acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE PROTESTO INTERRUPTIVO DE PRESCRIÇÃO. AUSÊNCIA DO. CONTRATO DE MÚTUO. DOCUMENTO INDISPENSÁVEL À PROPOSITURA DA AÇÃO. INDEFERIMENTO DA PETIÇÃO INICIAL.
+1. O contrato de mútuo habitacional é documento indispensável à propositura de ação cautelar de protesto interruptivo de prescrição, devendo ser indeferida a petição inicial, caso o autor, devidamente intimado para emendá-la, não cumprir o determinado.
+2. Precedentes do Tribunal Regional Federal da 1" Região.
+3. Apelação improvida (e-STJ, fl. 82)
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 93-96).
+A Vice-Presidência do Tribunal Regional Federal da 5ª Região, nos termos do art. 543-C, § 7º, I, do CPC/1973, negou seguimento ao recurso especial, no tocante à natureza do prazo do art. 284 do CPC/1973, na medida em que o acórdão recorrido encontra-se em conformidade com a tese firmada pelo STJ, sob o rito dos recursos especiais repetitivos, por ocasião do julgamento do REsp 1.133.689/PE.
+Esta decisão, é certo, foi mantida por ocasião do julgamento do agravo regimental interposto na origem, bem como dos subsequentes embargos declaratórios (e-STJ, fls. 175-178 e 185-188).
+Sobre a questão pendente  prescindibilidade ou não da juntada do instrumento contratual na ação de cautelar de protesto  , o recurso especial foi admitido (e-STJ, fls. 192-193).
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 535 e 284, c/c o 267, IV, todos do Código de Processo Civil de 1973.
+Preliminarmente, sustenta que o acórdão recorrido incorreu em negativa de prestação jurisprudencial, pois, a despeito da oposição de embargos aclaratórios, o Tribunal regional deixou de "sanar a omissão  ..  na medida em que a juntada do contrato não é indispensável e também quanto ao pedido de dilação de prazo para a referida juntada" (e-STJ, fl. 102).
+No mérito, argumenta que "não era o caso de extinguir o processo com base nos arts. 295, III, c/c 267, I, ambos do CPC, pois, a princípio, a providência jurídica requerida pelo juízo a quo foi cumprida, pois foram anexados documentos comprovando-se a existência e titularidade do referido débito, em atendimento ao comando judicial, tendo a requerente apenas pleiteado a dilação de prazo para juntada do título protestado" (e-STJ, fl. 103).
+Aduz, ainda, que "o prazo concedido pelo juízo a quo para que a autora juntasse os documentos requeridos fora exíguo", mostrando-se "impossível obter o único documento faltante no prazo dado, sendo esta a razão do pedido de dilação de prazo". Sustenta, assim, a possibilidade de dilação do prazo do art. 284, parágrafo único, do CPC/1973, com indicação de dissenso pretoriano.
+Por fim, alega a própria desnecessidade da juntada do contrato, apontando, sobre a matéria, a existência de dissenso jurisprudencial.
+Brevemente relatado, decido.
+De início, infere-se que todas as questões relevantes para o deslinde da causa, devolvidas no âmbito recursal, foram devidamente apreciadas, tendo o Tribunal Regional Federal da 5ª Região proferido os seus acórdãos com suficiente e idônea fundamentação, razão pela qual se afigura insubsistente a alegação de negativa de prestação jurisdicional.
+Segundo alegado, o Tribunal regional, a despeito de instado por meio de aclaratórios, não teria sanado omissão de que "na medida em que a juntada do contrato não é indispensável e também quanto ao pedido de dilação de prazo para a referida juntada" (e-STJ, fl. 102).
+Diversamente, constata-se que a matéria apontada foi devidamente sopesada pelo Tribunal de origem, conforme se verifica do seguinte excerto, devidamente confirmado por ocasião do julgamento dos embargos de declaração:
+O contrato de mútuo habitacional é documento indispensável à propositura de ação cautelar de protesto interruptivo de prescrição, devendo ser indeferida, portanto, a petição" inicial caso o autor, devidamente intimado para emendá-la, não cumprir o determinado.
+É obrigação do autor a instrução da petição inicial com os documentos suficientes à comprovação dos fatos constitutivos de seu direito.
+Considerando o princípio da instrumentalidade das formas, é cabível a concessão de prazo para que o autor emende ou complete a inicial, sendo este prazo, nos termos do art. 284 do CPC, de dez dias, mas o não cumprimento da determinação judicial deve ensejar a extinção do processo sem julgamento do mérito (e-STJ, fls. 82-83).
+Insubsistente, pois, a alegação de negativa de prestação jurisdicional.
+No mérito, em relação à questão afeta à natureza do prazo do art. 284 do CPC/1973, se dilatório ou se peremptório, registre-se, nos termos relatados, que a matéria refoge da presente análise diante do juízo de conformidade exarado na origem, com esteio no art. 543-C, § 7º, I, do CPC/1973.
+Na hipótese dos autos, o acórdão recorrido manteve a sentença que indeferiu a petição inicial, tendo em vista que os autores não cumpriram a decisão que determinou a juntada do contrato de financiamento.
+De fato, a revisão do entendimento das instâncias ordinárias,a no sentido da não configuração de justa causa para a nova dilação do prazo, implicaria o reexame do conjunto fático-probatório, providência inadmissível na presente via especial, conforme dispõe o enunciado n. 7 da Súmula do STJ.
+Saliente-se, ainda, na esteira da jurisprudência do STJ, que o contrato de financiamento constitui documento imprescindível à propositura da ação em demandas que tenham por objetivo discutir a própria relação jurídica contratual.
+A propósito, destaca-se o seguinte julgado:
+PROCESSO CIVIL. RECURSO ESPECIAL. MOMENTO DE JUNTADA DE DOCUMENTOS AO PROCESSO. ABERTURA DE OPORTUNIDADE PARA MANIFESTAÇÃO DA PARTE ADVERSA. DIREITO CAMBIÁRIO. NOTA PROMISSÓRIA. EXECUÇÃO DE AVALISTA, SÓCIO DA EMPRESA AVALIZADA. ENDOSSO PÓSTUMO OU IMPRÓPRIO EFETUADO APÓS O PROTESTO POR FALTA DE PAGAMENTO. EFEITOS DE CESSÃO CIVIL.
+PRINCÍPIO DA INOPONIBILIDADE DE EXCEÇÃO PESSOAL RESTRITO À RELAÇÃO CAMBIÁRIA. AFASTAMENTO NO CASO CONCRETO.
+1. Os documentos indispensáveis à propositura de qualquer ação - acarretando, a sua falta, o indeferimento da petição inicial - dizem respeito à demonstração das condições para o livre exercício da ação e dos pressupostos processuais, aos requisitos específicos de admissibilidade inerentes a algumas ações, bem assim àqueles diretamente vinculados ao objeto da demanda, como sói ser o contrato formal para o ajuizamento de ação que visa discutir relação jurídica contratual. Há também os documentos que visam comprovar as alegações da parte e, portanto, não são imprescindíveis no momento do ajuizamento da demanda ou do julgamento do mérito, mas a sua ausência pode motivar a improcedência do pedido.
+ ..
+(REsp 826.660/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/05/2011, DJe 26/05/2011)
+Logo, o acórdão recorrido não comporta nenhuma censura.
+Em arremate, na esteira dos fundamentos acima delineados, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se.
