@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SANTANDER (BRASIL) S.A em face da decisão acostada às fls. 333-334 e-STJ, da lavra deste relator, proferida em sede de agravo (art. 1.042 do CPC/15) por meio do qual o ora embargante pretendia ver admitido recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que, em sede de ação de cobrança, considerou ser cabível a cobrança de expurgos inflacionários decorrentes do índice de correção monetária aplicado ao depósito judicial realizado em ação de desapropriação.
+É o relatório.
+Decido.
+1. Como é sabido, o Supremo Tribunal Federal, concluiu pela existência da repercussão geral da matéria constitucional versada no Recurso Extraordinário 1.141.156/RJ, qual seja, a inclusão dos expurgos inflacionários na correção monetária incidente sobre depósitos judiciais.
+O reconhecimento de repercussão geral à tese apresentada no mencionado recurso orienta o sobrestamento dos feitos em que tragam controvérsia idêntica, bem como instila a incidência do preceituado nos arts. 1.036 e 1.037, II, do CPC/2015, face ao possível juízo de retratação pela instância de origem.
+2. Ante o exposto, torno sem efeitos a decisão de fls. 333-334 e-STJ, julgando prejudicados os embargos de declaração de fls. 338-344 e-STJ e, ainda, determino a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo do Recurso Extraordinário n.º 1.141.156/RJ e eventual retratação prevista na sistemática dos arts. 1.040, II e 1.041, ambos do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
