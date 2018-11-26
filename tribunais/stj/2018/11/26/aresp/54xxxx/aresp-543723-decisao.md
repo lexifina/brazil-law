@@ -1,0 +1,20 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MATÉRIA APONTADA NO APELO NOBRE QUE NÃO FOI DECIDIDA PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela COMPANHIA TEXTIL SÃO MARTINHO LTDA., com fundamento na alínea a do art. 105, III da Constituição Federal, insurgindo-se contra acórdão proferido pelo TJ/SP, assim ementado:
+Agravo de Instrumento - Processual civil.
+Ausência de decisão. Recurso de Agravo pressupõe a imposição de gravame, materializado em decisão interlocutória, ex vi da inteligência do artigo 522 do CPC.
+Ato do Juiz sem gomando positivo ou negativo - Ausência de gravame - Descabido o recurso de agravo. Recurso não conhecido (fls. 447).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 460/466)
+3. Nas razões do Apelo Especial inadmitido, a parte recorrente aponta violação dos arts. 467, e 475, 499, 515 e 3o. do CPC/1973, ao fundamento de que não havendo decisão transitada em julgado que assegurasse a nova propriedade a Grantel nos autos da execução fiscal 856/2001, como de fato não há, a decisão recorrida reflete comando decisório de desentranhamento de postulações da recorrente (de imposição negativa) mesmo ciente de que não ha certeza da propriedade do imóvel fruto da presente demanda (fls. 474).
+4. O Ministério Público Federal, em parecer da lavra da ilustre Subprocuradora-Geral da República DENISE VINCI TULIO, manifestou-se pelo não provimento do Agravo em Recurso Especial.
+5. É o relatório.
+6. De início, verifica-se que os dispositivos apontados pela parte recorrente não foram objeto de apreciação perante a Corte local, a despeito da oposição dos Aclaratórios. Assim, a matéria recorrida, carece do necessário prequestionamento, requisito indispensável ao acesso às instâncias excepcionais.
+7. Na linha do entendimento desta Corte Superior, para que se tenha por prequestionada determinada matéria é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, o qual deverá emitir um juízo de valor acerca dos dispositivos legais ao decidir pela sua aplicação ou pelo seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+8. Desse modo, ao persistir a omissão no acórdão recorrido, após o julgamento dos Embargos de Declaração, deve a parte recorrente apontar violação do art. 535 do CPC/1973 quando da interposição do Recurso Especial, demonstrando, de forma objetiva, a imprescindibilidade da manifestação do Tribunal de origem acerca da matéria impugnada e em que consistiria o vício apontado, sob pena de incidir no intransponível óbice da ausência de prequestionamento. A propósito:
+ PREVIDENCIÁRIO E PROCESSUAL CIVIL. ATIVIDADE ESPECIAL. OFENSA AO ART. 292 DO DECRETO 611/92. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O Tribunal de origem não se manifestou sobre a matéria versada nas razões de recurso especial, apesar de instado a fazê-lo por meio dos embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo nobre, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+2. Para o prequestionamento da matéria, não basta a menção de dispositivo de lei tido por violado nas razões dos recursos (apelação e/ou embargos de declaração), mas que o Tribunal de origem tenha efetivamente decidido o tema controvertido.
+3. Resta prejudicada a análise da divergência jurisprudencial suscitada, pois é necessário que a questão federal a que se deu divergente interpretação esteja prequestionada.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 621.144/SP, Rel. Min. SÉRGIO KUKINA, DJe 7.11.2016).
+9. Com essas considerações, nega-se provimento ao Agravo em Recurso Especial da Empresa.
+10. Publique-se. Intimações necessárias.
