@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. INDENIZAÇÃO. AUSÊNCIA DE PERÍCIA JUDICIAL. VIOLAÇÃO DO ART. 535, II DO CPC/1973. OMISSÃO CONFIGURADA. RECURSO ESPECIAL DE [NOME] - ESPÓLIO PARCIALMENTE PROVIDO PARA, ANULANDO O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO, DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, A FIM DE QUE SUPRA A OMISSÃO APONTADA.
+1. Trata-se de Recurso Especial interposto por [NOME] - ESPÓLIO contra acórdão do TJ/MG, assim ementado:
+DIREITO CONSTITUCIONAL - DIREITO ADMINISTRATIVO - REEXAME NECESSÁRIO - DESAPROPRIAÇÃO - PRINCÍPIO DA JUSTA INDENIZAÇÃO - LAUDO PERICIAL - ADOÇÃO DO VALOR INDICADO NA PERÍCIA QUE ANTECEDEU A IMISSÃO PROVISÓRIA NA POSSE - DEPÓSITO DO VALOR - JUROS MORATÓRIOS - NÃO INCIDÊNCIA - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO EM PERCENTUAL DA DIFERENÇA ENTRE O VALOR DA INDENIZAÇÃO E O VALOR OFERTADO - ALTERAÇÃO - SENTENÇA PARCIALMENTE REFORMADA.
+- A justa indenização, consagrada no inciso XXIV, do artigo 5o., da Constituição Federal, assegura à expropriada o direito de ser indenizada pelo prejuízo que efetivamente suportou, e impõe ao Poder Público a obrigação de pagar o necessário à recomposição integral do patrimônio atingido. No caso, em que houve a realização de duas perícias, uma em data próxima à imissão provisória e outra, quase três anos após a imissão, deve prevalecer a quantia apurada na primeira, já que o pagamento tem que corresponder ao terreno que foi entregue pelos expropriados.
+- Ocorrendo o depósito do valor da indenização antes da imissão na posse, não há necessidade de se fixar juros moratórios.
+- Os juros compensatórios devem ser calculados sobre a diferença apurada entre 80% do preço ofertado em Juízo e o valor de indenização definitivo do bem.
+- Os honorários advocatícios, no processo de desapropriação, são fixados em percentual da diferença entre o valor da indenização e o oferecido pelo expropriante na inicial. Como houve reforma no tocante ao valor da indenização, os honorários também devem alterados (fls. 556).
+2. Os Aclaratórios foram rejeitados às fls. 574/578.
+3. Em seu Apelo Nobre, a parte recorrente apontou a violação dos arts. 535, II do CPC/1973 e 26 do Decreto-Lei 3.365/1941, pelos seguintes fundamentos: (i) os Aclaratórios foram rejeitados sem sanar vícios importantes para o deslinde da causa; (ii) o aresto negou vigência à determinação legal de que o valor da indenização é contemporâneo à avaliação, ou seja, deve-se prevalecer o valor auferido na avaliação que observou o devido processo legal, ainda que distante da data da imissão provisória na posse (fls. 595).
+4. Contrarrazões apresentadas às fls. 609/625 e juízo positivo de admissibilidade às fls. 627/628.
+5. Em parecer de fls. 643/647, o Ministério Público Federal opinou pelo não provimento do Apelo Nobre.
+6. É o relatório.
+7. Cuida-se, na origem, de Ação de Desapropriação por utilidade pública contra a parte recorrente que avaliou o imóvel em discussão, com área de 40.000,00 m2, em 288.000,00 (duzentos e oitenta e oito mil reais).
+8. O que se verifica da leitura dos autos é que a parte autora, em sede Embargos de Declaração, suscitou precedentes jurisprudenciais que corroboram a tese segundo a qual o valor da indenização deve ser contemporâneo à avaliação, considerando a avaliação judicial.
+9. Contudo, a Corte de origem não emitiu qualquer juízo de valor acerca de tal alegação, que entende-se ser imprescindível para a análise da demanda.
+10. Assim, impõe-se o reconhecimento da alegação de violação do art. 535 do CPC/1973, devendo os autos retornar à origem para suprir a omissão verificada.
+11. Ante o exposto, dá-se parcial provimento ao Recurso Especial de [NOME] - ESPÓLIO, determinando-se o retorno dos autos à origem para suprir a omissão aqui verificada.
+12. Publique-se. Intimações necessárias.
