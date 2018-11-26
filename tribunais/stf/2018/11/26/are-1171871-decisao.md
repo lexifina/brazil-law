@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, ementado nos seguintes termos:
+    “AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO HIPOTECÁRIA. VALOR DA ADJUDICAÇÃO. LEI 5.471/1971. VERIFICAÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.” (eDOC 3, p. 102)
+    Os embargos de declaração opostos foram rejeitados. (eDOC 3, p. 118)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º , II, do texto constitucional.
+    Nas razões recursais, sustenta-se violação ao princípio da legalidade.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifica-se, na petição de recurso extraordinário, a ausência de preliminar formal e fundamentada de repercussão geral, pressuposto de admissibilidade do recurso (art. 1.035, § 2º, do NCPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 3.5.2007, data da publicação da Emenda Regimental nº 21 do STF, o que ocorre no presente caso.
+    Ainda que superado tal óbice, melhor sorte não assistiria ao recorrente, uma vez que, nos termos da orientação sumular desta Corte, não cabe a interposição de recurso extraordinário quando a análise da violação ao princípio da legalidade demandar interpretação de legislação infraconstitucional. Incide, na espécie, o óbice da Súmula 636 do Supremo Tribunal Federal:
+    Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Confiram-se, a propósito, precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EMPREENDIMENTO IMOBILIÁRIO. CONTRATO. PRINCÍPIO DA LEGALIDADE. NÃO OFENSA. INDICIDÊNCIA DA SÚMULA 636/STF. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. OFENSA INDIRETA À CONSTITUIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Como tem consignado este Tribunal, por meio da Súmula 636, é inadmissível o recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. II – Ademais, para se chegar à conclusão contrária à adotada pelo acórdão recorrido faz-se necessário o reexame do conjunto fático-probatório, o que inviabiliza o extraordinário. Incide no caso o óbice da Súmula 279/STF. III – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 1053468 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 19.10.2017)
+    “Agravo regimental no recurso extraordinário com agravo. Direito processual civil. Exceção de pré-executividade. Certidão de dívida ativa. Certeza e liquidez. Alegação de ofensa ao princípio da legalidade. Necessidade de análise da legislação infraconstitucional. Ofensa reflexa. Súmula nº 636/STF. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não cabe recurso extraordinário por contrariedade ao princípio da legalidade quando, para sua verificação, seja necessário analisar a legislação infraconstitucional aplicável ao caso. Incidência da Súmula nº 636/STF. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido.” (ARE 804015 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 8.4.2015)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, § 1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
