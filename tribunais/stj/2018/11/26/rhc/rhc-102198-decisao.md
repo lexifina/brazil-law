@@ -1,0 +1,10 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 299, CAPUT, EM CONCURSO MATERIAL COM O 304, AMBOS DO CÓDIGO PENAL. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO FUNDAMENTO. EFEITO DA CONDENAÇÃO. ASSEGURAR O CUMPRIMENTO DA PENA. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTES DESTA CORTE SUPERIOR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INTELIGÊNCIA DA SÚMULA 52 DO STJ. PERDA DE OBJETO.
+Recurso prejudicado.
+DECISÃO
+O presente recurso em habeas corpus interposto por [NOME], no qual se requer a revogação da prisão preventiva, perdeu seu objeto.
+Isso porque, as informações obtidas no endereço eletrônico do Tribunal a quo dão conta de que, em 8/10/2018, foi proferida sentença no Processo n. 0000647-15.2018.8.26.0535, condenando o ora recorrente a cumprir a pena de 3 anos, 1 mês e 10 dias de reclusão, além de 30 dias-multa, como incurso nos arts. 299, caput, em concurso material com o 304, ambos do Código Penal. Na oportunidade, negou-lhe o recurso em liberdade.
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso, consubstanciado em novo fundamento, qual seja, à luz da condenação, para assegurar o cumprimento da pena, cujos requisitos específicos, desafiam, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017, AgRg no HC n. 366.680/SC, minha Relatoria, Sexta Turma, DJe 14/11/2016 e RHC n. 64.321/AL, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/10/2015.
+Noutro vértice, sobrevindo o julgamento da mencionada ação, perde o objeto a impetração que discute o excesso de prazo (Súmula 52 do STJ).
+À vista, pois, da nova realidade fática, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
