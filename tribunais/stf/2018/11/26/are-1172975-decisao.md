@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Vigésima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 3, p. 11):
+    “Pecúlio post mortem. Súmula nº 340 do Superior Tribunal de Justiça. A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado. Óbito ocorrido durante a vigência da norma prevista no artigo 26, III, 1, da Lei nº 285/79. Garantia do direito ao recebimento do pecúlio post mortem. Apelante que é isenta do pagamento da Taxa Judiciária. Precedentes do STJ. Correção monetária. Termo a quo do requerimento administrativo. Provimento parcial do recurso, na forma do § 1º-A do art. 557, do CPC .”
+    Os embargos de declaração opostos foram rejeitados (eDOC 3, p. 55).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 24, § 4º; e 40, § 12, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “Conforme imposição do artigo 40, §12, da Constituição da República, o sistema previdenciário estadual não pode prever benefício distinto dos benefícios previdenciários pagos pelo Regime Geral de Previdência Social, impedindo o pagamento pelo ente estadual do pecúlio post mortem: (...).” (eDOC 3, p. 90)
+    Aduz-se que “Regulamentando o mencionado dispositivo constitucional, o artigo 5º da Lei 9.717/98 (regras gerais da previdência do servidor público) impede, expressamente, o pagamento pelos sistemas previdenciários de cada entidade da Federação de benefício distinto daqueles pagos pelo INSS.” (eDOC 3, p. 91)
+    Defende-se que “com as alterações constitucionais e com a edição da lei nacional estabelecedora das normas gerais para os regimes próprios de previdência, o pagamento de pecúlio post mortem por entidades previdenciárias passou a ser inconstitucional e ilegal.” (eDOC 3, p. 91).
+    A Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro inadmitiu o recurso ao fundamento de que o acórdão recorrido decidiu a lide valendo-se de interpretação da legislação local, atraindo, portanto, a incidência da Súmula 280/STF.
+    É o relatório. Decido.
+    Não assiste razão ao agravante.
+    O Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 3, pp. 11-19):
+    “Com efeito, o óbito do segurado ocorreu em 19/06/2001(fls. 12), destarte, sob a égide da Lei Estadual nº 285/79, aplicável, portanto, ao caso sob exame, em que pese ter sido revogada a previsão do pecúlio post mortem pelo artigo 12 da Lei nº 5.109/2007.
+    Além disso, a remansosa jurisprudência de nossos tribunais encontra-se pacificada no sentido de que a lei reguladora nesta hipótese é a norma vigente ao tempo da morte do segurado para fins de concessão de benefício previdenciário. Faz-se oportuno invocar o verbete sumular n.º 340 do Superior Tribunal de Justiça:
+    ‘A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado’.
+    A toda evidência, a pretensão da autora possui respaldo na legislação estadual aplicável à hipótese, ressaltando-se que se encontram preenchidos os requisitos legais para a concessão do benefício pleiteado.
+    (…)
+    Isto posto, e na forma do art. 557, § 1º-A, do Código de Processo Civil, dou parcial provimento ao recurso da ré para isentá-la do pagamento da taxa judiciária e em sede de reexame necessário, estabelecer que o termo a quo da correção monetária dar-se-á a partir de junho de 2001, mantendo no mais, a sentença tal como lançada.”
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local, o que é obstado pela Súmula 280 do STF.
+    Na mesma linha, observa-se que a discussão acerca do art. 5º da Lei Federal 9.717/1998 do mesmo modo inviabiliza o processamento do apelo extremo, por caracterizar eventual ofensa reflexa ao texto constitucional.
+    Sobre os temas:
+    “Agravo regimental em recurso extraordinário. 2. Administrativo. Pensão por morte. Cônjuge divorciada. 3. Análise da legislação local. Lei Complementar Estadual 180/1978. Ofensa meramente reflexa ao texto constitucional. Súmula 280 do STF. 4. Necessidade do reexame de conteúdo fático-probatório. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 678354 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 16.05.2014).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.6.2015).
+    Cito, ainda, as seguintes decisões monocráticas: ARE 1.100.310, Rel. Min. Luiz Fux, DJe 1º.2.2018; ARE 1.100.568, Rel. Min. Celso de Mello, DJe 1º.2.2018; ARE 1.099.579, Rel. Min. Alexandre de Moraes, DJe 5.2.2018; e RE 1.095.501, Rel. Min. Ricardo Lewandowski, DJe 2.2.2018.
+     Ante o exposto, nego provimento ao agravo, nos termos do artigo 932, IV, “a”, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
