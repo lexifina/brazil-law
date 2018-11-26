@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSOS DO FUNDEB. RATEIO. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ.
+1. O Tribunal a quo decidiu a causa com base em argumentos constitucionais e infraconstitucionais. No entanto, a parte recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, perante o excelso Supremo Tribunal Federal.
+2. Aplica-se, na espécie, o teor da Súmula 126 do colendo Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba cuja ementa é a seguinte:
+REMESSA OFICIAL E APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. RECURSOS DO FUNDEB. RATEIO. PROCEDÊNCIA DO PEDIDO. PRELIMINAR. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 109, I, DA CONSTITUIÇÃO FEDERAL. INTERESSE DA UNIÃO NÃO. DEMONSTRADO. VERBA DE NATUREZA CONTÁBIL. LEI;IIº 11.494/2007. REJEIÇÃO. CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR. QUESTÃO MERITÓRIA. ENTRELAÇAMENTO. ANÁLISE CONJUNTA. MÉRITO. RECURSOS DO FUNDEB. REMUNERAÇÃO DOS PROFISSIONAIS DO MAGISTÉRIO. SALDO REMANESCENTE. EXERCÍCIO FINANCEIRO ANTERIOR. RATEIO. IMPOSSIBILIDADE. AUSÊNCIA DE NORMA MUNICIPAL REGULAMENTANDO OS CRITÉRIOS OBJETIVOS DO REPASSE. OBEDIÊNCIA AO PRINCÍPIO DA LEGALIDADE. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DESTA CORTE DE JUSTIÇA. REFORMA DO DECISUM. PROVIMENTO DO APELO E DA REMESSA OFICIAL.
+- O Superior Tribunal de Justiça adota o entendimento segundo o qual a competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, define-se pela natureza das partes envolvidas na relação processual, independentemente da controvérsia discutida em Juízo, devendo-se, portanto, rejeitar a preliminar suscitada.
+- O art. 22 da Lei n2 11.494/2007 estabelece o percentual do total dos Fundos que deve ser" destinado para o adimplemento da remuneração dos profissionais, os quais, por expressa previsão legal, devem ser atrelados ao magistério da educação básica, além de estarem em efetivo exercício na rede pública, não fazendo qualquer menção ao rateio de "sobras" entre cada profissional da educação de ensino básico.
+- Para que haja o rateio de sobras do FUNDEB - Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, oriundas de ajuste financeiro, é imprescindível -a existência de legislação municipal regulamentando os termos disciplinados na lei federal apontada, bem ainda consignando os critérios objetivos acerca da forma de utilização da verba e de seu pagamento, além dos valores a serem repassados e a maneira de sua concessão aos professores que serão beneficiados.
+- A Administração Pública é regida, entre outros, pelo princípio da legalidade preconizado" no art. 37, da Constituição Federal, devendo-se, pois, atuar somente dentro dos limites estipulados pela legislação.
+- "INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA.
+Recursos do FUNDEB. Aplicação de percentual inferior ao mínimo legal para pagamento dos profissionais do magistério. Rateio de saldo remanescente. Ausência de Lei municipal disciplinado a forma de realização do repasse. Impossibilidade de rateio das sobras. Observância aos princípios da legalidade, moralidade e publicidade. Divergência entre as câmaras cíveis deste tribunal de justiça. Entendimento prevalecente da primeira, da segunda e da terceira Câmara Cível deste tribunal de justiça." (TJPB. Incidente de Uniformização de Jurisprudência no Recurso nº 0000682- 73.2013.815.0000. Tribunal Pleno. Rel. Des. Marcos Cavalcanti de Albuquerque. J. Em 7/04/2014)"
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação do art. 22 da Lei 11.494/2007, sob o argumento de deve ser feito o "rateio do valor recebido no mês de abril do ano de 2011 referente tão somente ao ajuste financeiro do FUNDEB, e não o rateio do FUNDEB" (fl. 173, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.5.2018.
+A irresignação não merece prosperar.
+Observo que o Tribunal a quo decidiu a causa com base em argumentos constitucionais e infraconstitucionais. No entanto, a recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, perante o excelso Supremo Tribunal Federal.
+Assim, aplica-se, na espécie, o teor da Súmula 126 deste Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Nessa esteira:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. REEXAME FÁTICO-PROBATÓRIO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA. FUNDAMENTO CONSTITUCIONAL NÃO ATACADO. SÚMULA 126/STJ.
+1. A Corte de origem, com base no acervo probatório dos autos, consignou a existência de culpa da concessionária na produção do evento danoso. Assim, para afastar tal conclusão, tal como colocada a questão nas razões recursais, seria necessário o reexame de matéria fática, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. A ausência de interposição de recurso extraordinário contra o fundamento constitucional apto a manter o acórdão recorrido atrai a incidência da Súmula 126/STJ.
+3. A jurisprudência desta Corte admite, em caráter excepcional, a alteração do quantum arbitrado a título de danos morais, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso concreto.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 400.150/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 14/04/2014, grifei)
+RESPONSABILIDADE OBJETIVA. INDENIZAÇÃO. DANO MORAL. RECURSO EXTRAORDINÁRIO INEXISTENTE. SÚMULA 126/STJ. SÚMULA 7/STJ.
+1. In casu, o acórdão de origem julgou a demanda indenizatória com base na responsabilidade objetiva (art. 37, § 6º, CF). Não obstante a existência de fundamento constitucional, a parte agravante não interpôs o competente Recurso Extraordinário. Incidência da Súmula 126/STJ.
+2. Ademais, analisar a suposta existência de dano e de nexo causal demanda reexame dos elementos fático-probatórios dos autos, o que esbarra no óbice da Súmula 7/STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 453.531/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/04/2014, DJe 15/04/2014, grifei).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
