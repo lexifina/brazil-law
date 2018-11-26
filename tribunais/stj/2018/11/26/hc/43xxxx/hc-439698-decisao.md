@@ -1,0 +1,23 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO SIMPLES TENTADO E POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. SENTENÇA. DOSIMETRIA DA PENA. CONSIDERAÇÃO NEGATIVA DA CONDUTA SOCIAL. MENÇÃO À EXISTÊNCIA DE NOTÍCIAS DANDO CONTA DE QUE O RÉU SERIA CONHECIDO COMO "ALTERADO", "BRIGÃO" E "CAUSADOR DE PROBLEMAS". CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Mato Grosso do Sul.
+Narram os autos que o Juízo de Direito da Vara Criminal da comarca de Rio Brilhante/MS condenou o paciente como incurso nos crimes de homicídio simples tentado e posse ilegal de arma de fogo de uso permitido, às penas de 3 anos e 2 meses de reclusão, e 1 ano de detenção, respectivamente (Ação Penal n. 0001329-55.2015.8.12.0020).
+O Tribunal de origem, por sua vez, manteve intacta a condenação imposta.
+Aqui, a impetrante alega constrangimento ilegal consistente na majoração da pena-base, com fundamento na consideração negativa da conduta social, uma vez que a utilização da circunstância judicial da conduta social pelo Juiz singular (CONDUTA SOCIAL prejudicial. Testemunhas relatam que o réu é "alterado, briga e dá problemas"), como fundamento para majoração da pena-base, sem dúvida desrespeita os direitos mínimos do Paciente, por ser absolutamente impertinente e sem qualquer fundamentação concreta, quando analisada como critério para fixação da pena (fl. 8).
+Postula, então, a concessão liminar da ordem para que seja neutralizada a circunstância judicial da conduta social, reduzindo-se a pena-base ao mínimo legal.
+É o relatório.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+No caso, o magistrado singular, ao valorar negativamente a circunstância judicial da conduta social, afirmou que Testemunhas relatam que o réu é "alterado, briga e dá problemas" (f. 43) (fl. 266), elementos concretos aptos a justificarem o aumento da pena-base.
+A propósito:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. DOSIMETRIA. DISCRICIONARIEDADE RELATIVA. TRÊS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PARÂMETRO DE AUMENTO DE 1/8. INCIDÊNCIA SOBRE O INTERVALO DA PENA EM ABSTRATO. PENA-BASE DAS INSTÂNCIAS ORDINÁRIAS MAIS FAVORÁVEIS. NON REFORMATIO IN PEJUS. UTILIZAÇÃO DE QUALIFICADORAS REMANESCENTES COMO CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL OU AGRAVANTES. POSSIBILIDADE. OBEDIÊNCIA À REGRA NE BIS IN IDEM. AGRAVANTE. INCIDÊNCIA SOBRE O INTERVALO DE PENA ABSTRATA DO PRECEITO SECUNDÁRIO. CONFORMIDADE COM O SISTEMA HIERÁRQUICO DE DOSIMETRIA TRIFÁSICO. PENA INTERMEDIÁRIA DAS INSTÂNCIAS INFERIORES MAIS FAVORÁVEL. MANUTENÇÃO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O Código Penal não estabelece critérios objetivos para a fixação da pena; confere ao juiz relativa discricionariedade. Não demonstrado o abuso no seu exercício, impor-se-á a denegação de habeas corpus se nele a parte objetivar a "mera substituição do juízo subjetivo externado em decisão fundamentada, dentro dos parâmetros cominados pela lei" (STJ, AgRg no HC 267.159/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 24/09/2013). Precedentes.
+3. A valoração da culpabilidade por ocasião da dosimetria da pena-base (CP, art. 59) é afinada com a individualização da pena, representando o grau de censura pessoal do réu na prática da conduta, ou seja, trata-se da mensuração de reprovabilidade. No caso, o fato de o réu ter efetuado vários disparos para alcançar o óbito da vítima revela a intensidade de seu dolo e a maior reprovabilidade da conduta.
+4. Quanto à conduta social do paciente, as instâncias ordinárias, com base na persuasão racional acerca dos elementos de prova dos autos, concluíram que o réu é pessoa violenta e fez ameaças à família da vítima, causando medo à comunidade. Trata-se de fundamentação suficiente para justificar aumento da pena-base. Ademais, alterar a conclusão supra implicaria inevitavelmente revolvimento fático-probatório, inviável nesta via sumária do habeas corpus.
+ ..
+12. Habeas corpus não conhecido.
+(HC 318.814/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 08/11/2016 - grifo nosso)
+Em face do exposto, denego a ordem.
+Publique-se.
