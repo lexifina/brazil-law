@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO NA POSSE. EXTINÇÃO DO FEITO. IMÓVEL ALIENADO FIDUCIARIAMENTE ARREMATADO EM LEILÃO. LEI Nº 9.514/1997. VIA ADEQUADA. REGISTRO DA CARTA DE ARREMATAÇÃO DO BEM EM LEILÃO EXTRAJUDICIAL. NÃO DESOCUPAÇÃO DO IMÓVEL PELOS ANTIGOS DEVEDORES FIDUCIANTES. ESBULHO CONFIGURADO. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. PRELIMINAR ACOLHIDA. SENTENÇA CASSADA.
+1. A alienação fiduciária de coisa imóvel se submete à disciplina específica da Lei nº 9.514/97, cujo artigo 30 dispõe que, é assegurada ao fiduciário, seu cessionário, ou sucessores, inclusive o adquirente do imóvel, por força de leilão público, de que tratam os §§ 1º e 2º do seu art. 27, a reintegração na posse do imóvel, desde que comprovada a consolidação da propriedade em seu nome, a qual, no caso dos autos, provou-se, com a Certidão de Registro da Carta de Arrematação (fls. 23/25).
+2. Atendidos os pressupostos da Lei nº 9.514/97, o ajuizamento de ação de reintegração na posse, pelo credor fiduciante, configura-se via eleita adequada para requerer a sua imissão na posse do imóvel, não havendo falar-se em extinção do feito.
+3. Apesar de preenchidos os requisitos da liminar de imissão na posse, a sua determinação por esta Corte, com base na "teoria da causa madura", ensejaria supressão de instância, razão pela qual os autos devem ser remetidos ao juízo de origem para sua apreciação.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA CASSADA.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 554, 560 e 561 do CPC/2015.
+Alega que o recorrido jamais teve a posse do bem para diante do esbulho recuperá-la via reintegração de posse. Afirma que se o recorrido é tão somente proprietário do bem deveria ter proposto ação petitória.
+Contrarrazões ao recurso especial às fls. 179-187.
+É o relatório. Decido.
+2. Na espécie, a Corte local concluiu pela adequação da reintegração da posse, consignando o seguinte sobre a posse do imóvel:
+"Portanto, tendo os Réus/ora Apelados deixado de quitar a dívida perante o credor fiduciário, Gecon Engenharia e Construção LTDA, e tendo sido constituídos em mora, conforme Certidão de Notificação Extrajudicial de fl. 12, esta instituição passou a ser possuidora direta do imóvel. Desse modo, tendo o Autor/ora Apelante adquirido o bem, conforme Carta de Arrematação de fls. 23/25 e Recibo de pagamento de fl. 26, passou a ser sucessor da instituição, tratando-se a ação de reintegração na posse da via eleita adequada." (fl. 110)
+Desse modo, verifica-se que o acolhimento da pretensão recursal de ausência de comprovação da posse do recorrido demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
