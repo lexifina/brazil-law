@@ -1,0 +1,17 @@
+Trata-se recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “AÇÃO CIVIL PÚBLICA - Improbidade Administrativa - Nomeações realizadas para cargos de provimento em comissão - Lei Complementar Municipal de Barueri n° 21, de 30.09.94 - Pedido que visa a condenação de ex-alcaide, por atos de improbidade consistente na nomeação de funcionários - Falta de busca da nulidade desses atos, em evidente paradoxo - Improcedência mantida - Não há como se considerar ímprobo ex-alcaide, por alegadas nomeações irregulares de funcionários em comissão, com base em Lei , Complementar Municipal, se não se busca a anulação desses atos, em verdadeiro paradoxo.” (pág. 241 do documento eletrônico 6).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação dos arts. 37, II e III; e 93, IX, da mesma Carta.
+    O presente recurso perdeu o objeto.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifiquei que o Recurso Especial 1.220.279/SP, interposto pelo ora recorrente, foi provido “[...] para anular o acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao egrégio Tribunal de Justiça do Estado de São Paulo, a fim de que analise a questão tida por omissa, segundo a sua percepção, prejudicadas as demais alegações”, ficando assim ementado o acórdão:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 535, II DO CPC CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL A QUO SOBRE QUESTÃO RELEVANTE AO DESLINDE DA CONTROVÉRSIA. PRECEDENTES: RESP. 1.248.563/RS, REL. MIN. CASTRO MEIRA, DJE 30.06.2011 E RESP. 329.602/DF, REL. MIN. LUIZ FUX, DJU 25.03.2002. RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO ESTADUAL PROVIDO PARA ANULAR O ACÓRDÃO DOS EMBARGOS DECLARATÓRIOS, PARA QUE OUTRO SEJA PROFERIDO, NA INSTÂNCIA DE ORIGEM, SANANDO-SE A OMISSÃO APONTADA, PREJUDICADAS AS DEMAIS QUESTÕES.
+    1. Nos Embargos de Declaração, foi expressamente requerida a manifestação do Colegiado acerca (1) da contradição do acórdão que em seu fundamento trata de matéria estritamente processual e na parte dispositiva conclui pela improcedência da ação, como se tivesse ocorrido o julgamento do mérito; e (2) da omissão, pois o acórdão embargado teria concluído pela improcedência da ação, sem, contudo, apresentar fundamentação a respeito do mérito.
+    2. A Corte a quo, no entanto, não teceu nenhuma argumentação a respeito de questões relevantes colocadas no recurso integrativo e imprescindíveis ao escorreito deslinde da controvérsia.
+    3. O acórdão recorrido, ao deixar de analisar ponto fulcral para o deslinde da controvérsia, incorreu em vulneração do art. 535 do CPC, o que impõe o reconhecimento de nulidade do aresto, bem com a determinação de novo julgamento dos Embargos de Declaração.
+    4. Parecer do MPF pelo parcial provimento do Recurso Especial.
+    5. Recurso Especial do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO provido para anular o acórdão dos Embargos Declaratórios, para que outro seja proferido, na instância de origem, sanando-se a omissão apontada, prejudicadas as demais questões”.
+    Referida decisão transitou em julgado em 27/9/2013, conforme consta no sítio eletrônico do Superior Tribunal de Justiça.
+    Isso posto, julgo prejudicado o recurso (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
