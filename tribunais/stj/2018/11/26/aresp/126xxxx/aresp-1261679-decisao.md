@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de Passa Sete contra decisão que negou seguimento a recurso especial por não ter verificado a ausência de fundamentação a ensejar a nulidade do julgado.
+O insurgente ratificou os termos do recurso especial a fim de demonstrar a suposta nulidade do acórdão recorrido.
+Contraminuta às e-STJ, fls. 431-444.
+Parecer do Ministério Público Federal - MPF às e-STJ, fls. 458-460, opinando pelo não conhecimento do recurso, ante a incidência da Súmula 284 do STF.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O recurso especial foi interposto com base no art. 105, III, alínea "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 269):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. DECISÃO DO TRIBUNAL DE CONTAS. IMPUTAÇÃO DE DÉBITO A PREFEITO MUNICIPAL. FALTA DE COMPETÊNCIA. ÓRGÃO MERAMENTE OPINATIVO.
+Relativamente ao Prefeito Municipal, assim como ocorre com o Presidente da República e o Governador do Estado, o Tribunal de Contas é apenas órgão meramente opinativo, de acordo com o disposto no art. 71 da Carta da República e no art. 71 da Constituição Estadual.
+Aliás, quanto ao Prefeito Municipal, consigna expressamente o art. 71 da Carta da Província que compete ao Tribunal de Contas "emitir parecer prévio sobre as contas que os Prefeitos Municipais devem presta anualmente", numa eloquente demonstração de que não detém competência para imputação de débito, nem aplicação de multa.
+Entendimento este prestigiado pelo egrégio Supremo Tribunal Federal no julgamento do RE 729744, submetido ao rito da repercussão geral:
+"O parecer técnico elaborado pelo Tribunal de Contas tem natureza meramente opinativa, competindo exclusivamente à Câmara de Vereadores o julgamento das contas anuais do Chefe do Poder Executivo".
+Desta forma, é evidentemente nula a imputação de débito apontada na decisão do Tribunal de Contas impugnada.
+Apelação provida.
+Alega o insurgente basicamente nulidade do acórdão recorrido, por não estar devidamente fundamentado, em violação do art. 489, § 1º, do CPC/2015.
+Defende, em síntese, que o Tribunal a quo não se pronunciou sob o argumento de que "não constou uma vírgula sequer sobre a matéria submetida ao rito da repercussão geral aventada (RE nº 729744), notadamente em decorrência do DECRETO LEGISLATIVO nº 002/2011 que RATIFICOU as contas do Poder Executivo Municipal de Passa Sete/RS, exercício de 2008 (fls. 152/158), de onde se extrai que as contas do Poder Executivo Municipal de Passa Sete/RS, exercício de 2008, passou pelo crivo da Câmara Municipal de Vereadores, o que por si só configura omissão de ponto ou questão sobre o qual devia ter se pronunciado o Tribunal de origem e, ao mesmo tempo, contrariedade ao Enunciado do RE nº 729744, submetido ao rito da repercussão geral  .. " (e-STJ, fl. 308).
+Contrarrazões às e-STJ, fls. 344-355, nas quais o recorrido ressalta, dentre outros fundamentos, que, ao contrário do que alega o recorrente, em nenhum momento o Poder Legislativo municipal analisou os débitos impostos pelo TCE-RS, sendo que o Decreto Legislativo n. 2/2011 apenas analisou e aprovou as contas do recorrido.
+É o relatório.
+Não assiste razão ao recorrente.
+O órgão colegiado apreciou a questão supostamente omissa, havendo expressa manifestação acerca da circunstância fática indicada no recurso especial.
+No aspecto (e-STJ, fl. 295):
+O embargante teria razão caso o título executivo assentasse na deliberação da Câmara de Vereadores, estampada a fl. 152 (Decreto Legislativo nº 002, de 09.08.2011).
+Entretanto, insofismavelmente radica ele na Certidão de Decisão do TCE nº 0038/2011, fI. 30, em que assentou a demanda executiva, fl. 22v., e é o objeto da incidental (pedido, itens "e" e "f", fl. 18)
+Portanto, houve expressa manifestação e fundamentação pela Corte de origem acerca da questão tida por omissa pelo recorrente.
+Assim, a alegação de ausência/deficiência na fundamentação do acórdão, na verdade, disfarça pretensão de rediscutir a posição firmada pelo Tribunal a quo, o que é defeso nesta via recursal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS PROTELATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Decidida a questão em sede de decisão monocrática e agravo interno, o segundo recurso manejado com o propósito de rediscutir a matéria ostenta nítido caráter protelatório, circunstância apta a ensejar a multa de 1% sobre o valor corrigido da causa (1.026, § 2º, do Código de Processo Civil).
+4. Embargos declaratórios rejeitados com aplicação de multa.
+(EDcl nos EDcl nos EDcl no AgInt no AREsp 1.197.459/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/9/2018, DJe 17/09/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. LEI N. 12.778/12. [NOME]. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. DIVERGÊNCIA JURISPRUDENCIAL. INSUFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+I - Sobre a alegada violação do art. 1.022 do CPC/2015, por suposta omissão pelo Tribunal de origem da análise da ocorrência ou não de revisão geral anual, tenho que não assiste razão às recorrentes.
+II - Na hipótese dos autos verifica-se a inexistência da mácula apontada, tendo em vista que da análise do referido questionamento em confronto com o acórdão hostilizado não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+III - Nesse panorama, a oposição de embargos de declaração com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. No mesmo diapasão, destacam-se: AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016 e AgInt no REsp 1498690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017, DJe 20/3/2017.
+IV - Quanto à omissão relativa ao art. 37 da Constituição Federal, é cediço que o recurso especial não é a via própria para o desate dessa controvérsia, porquanto a análise de matéria constitucional não é de competência desta Corte, mas, sim, do Supremo Tribunal Federal, por expressa determinação da Carta Magna. Inviável, assim, a análise de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+V - Não há falar em afronta aos arts. 489 e 492, do CPC, sob alegação de negativa de prestação jurisdicional, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente acerca da questão suscitada nos autos. Ao contrário, verifica-se mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o eventual provimento do recurso nessa parte.
+VI - No tocante à parcela recursal referente ao art. 105, III, c, da Constituição Federal, verifica-se que as recorrentes não efetivaram o necessário cotejo analítico da divergência entre os acórdãos em confronto, o que impede o conhecimento do recurso com base nessa alínea do permissivo constitucional.
+VII - Conforme a previsão do art. 255 do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF. Nesse mesmo diapasão, confiram-se: REsp 1.656.510/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/4/2017, DJe 8/5/2017 e AgInt no AREsp 940.174/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/4/2017, DJe 27/4/2017.
+VIII - Outrossim, a duplicidade de recursos interpostos pela mesma parte litigante, ante a incidência da preclusão consumativa, resulta no não conhecimento daqueles que foram protocolizados por último.
+Prejudicado o recurso de fls. 509/537.
+IX - Agravo interno improvido.
+(AgInt no REsp 1.646.097/AL, Rel. Min.o FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/9/2018, DJe 26/9/2018)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo e nego provimento ao recurso especial.
+Por já estarem os honorários fixados no teto previsto em lei (art. 85, §§ 2º, 3º e 11 do CPC/2015), deixo de majorá-los.
+Publique-se. Intimem-se.
