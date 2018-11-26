@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Sorocaba/SP, no processo nº 1500408-35.2018.8.26.0567, converteu em preventiva a prisão em flagrante do paciente e de outras 3 pessoas, ocorrida no dia 3 de março de 2018, ante a suposta prática das infrações versadas nos artigos 157, parágrafo 3º, segunda parte (latrocínio) – com redação anterior à Lei nº 13.654/2018 –, combinado com o 29 (concurso de pessoas) e 157, parágrafo 2º, incisos I e II (roubo com causas de aumento alusivas ao emprego de arma e concurso de pessoas) – com redação anterior à Lei nº 13.654/2018 – na forma do 70, todos do Código Penal; e 16 (porte de arma de uso restrito) da Lei nº 10.826/2003. Frisou demonstrados a materialidade e os indícios suficientes de autoria, segundo declarações das vítimas e depoimentos dos agentes encarregados das diligências. Destacou os contornos do delito, a envolver ataque a carro forte durante o dia, mediante disparos de arma de fogo, em que atingido vigilante da empresa de segurança. Ressaltou apreendida no local dos fatos 1 pistola calibre 45mm e, logo após, 1 pistola Taurus calibre 7.65mm, 2 armas calibre 12mm, 2 submetralhadoras, munições e coletes balísticos. Assentou tratar-se de conduta que subverte a paz social, afirmando necessária a custódia para garantir a ordem pública, a instrução criminal e a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 472.284/SP, o qual teve a medida de urgência indeferida pelo Relator.
+    O impetrante alega insubsistentes os fundamentos lançados no ato por meio do qual determinada a prisão. Articula com a violação do artigo 93, inciso IX, da Constituição Federal e dos princípios da dignidade da pessoa humana e da presunção da não culpabilidade. Sustenta o caráter genérico da decisão impugnada, tendo-a como refutada pela Jurisprudência do Supremo.
+    Requer, no campo precário e efêmero, a revogação da preventiva, com ou sem a aplicação das cautelares descritas no artigo 319 do Código de Processo Penal. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou que o Juízo da Primeira Vara Criminal da Comarca de São Roque/SP indeferiu pedido de afastamento da custódia, em 29 de outubro último.
+    A fase é de apreciação da medida acauteladora.
+    2. A prisão em flagrante, observados os crimes de latrocínio, roubo e porte ilegal de arma de fogo de uso restrito, praticados em concurso de pessoas, no contexto a envolver ataque a veículo de transporte de valores, mediante disparos de arma de fogo, em que atingido vigilante da empresa de segurança e a apreensão, no local dos fatos, de 1 pistola calibre 45 mm e, logo após, 1 pistola Taurus calibre 7.65mm, 2 armas calibre 12mm, 2 submetralhadoras, munições e coletes balísticos, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, ante os fortes indícios de participação em grupo criminoso a medida se impunha, considerada a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem processual – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. O curso desta impetração não prejudica a de nº 472.284/SP, em tramitação no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao relator, ministro Reynaldo Soares da Fonseca.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 26 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
