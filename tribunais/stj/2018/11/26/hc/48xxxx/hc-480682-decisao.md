@@ -1,0 +1,7 @@
+DECISÃO
+WON [NOME] alega sofrer coação ilegal no seu direito a locomoção, em decorrência de acórdão prolatado pelo Tribunal Regional Federal da 3ª Região na Apelação Criminal n. 0008433-64.2014.4.03.6181/SP, em que foi mantida sua condenação pelo delito previsto no art. 149 do Código Penal, além de determinada a execução imediata da pena.
+A defesa assere que a condenação do paciente está calcada em presunções a partir de sua posição de presidente da empresa investigada, a despeito de as provas colacionadas nos autos não demonstrarem efetivamente o seu conhecimento acerca da prática delitiva. Além disso, destaca a desproporcionalidade do aumento operado na primeira fase da dosimetria, apoiado unicamente em uma circunstância judicial. Por fim, aponta que o Tribunal local não poderia determinar o início do cumprimento da pena de ofício. Por tais razões, requer a suspensão do cumprimento da pena.
+Decido.
+Cumpre lembrar que os temas postos nesta impetração já foram avaliados, em decisão nos autos do HC n. 463.768/SP, de minha relatoria. Na oportunidade em que ressaltei que a revisão da dosimetria demandaria dilação probatória, bem como que é válida a execução imediata da pena, tendo em vista o entendimento do STF e fato de já haver recurso especial interposto - o que demonstra o esgotamento da jurisdição nas instâncias ordinárias.
+À vista do exposto, dada a reiteração de pedidos, já constantes em impetrações anteriores, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
