@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRETENSÃO DE MAJORAR HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, a recorrente insurge-se contra o valor atribuído pela instância de origem aos honorários advocatícios de R$ 10.000,00 (dez mil reais).
+2. No tocante à alegada violação do art. 20, §§ 3º e 4º, do CPC/73, inviável a pretensão de discutir tal matéria, uma vez que é cediço que, para fixação de honorários advocatícios, deve-se levar em consideração: a) o grau de zelo do profissional; b) o lugar de prestação do serviço; c) a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+3. Dessa sorte, para se chegar ao importe dos honorários, é necessário que o Tribunal a quo analise o contexto fático-probatório, no sentido de avaliar a atuação do causídico e as circunstâncias, sendo aplicável a Súmula 7/STJ, pois incabível a reapreciação do aludido conteúdo probatório na instância especial.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AMBIENTAL - EM ÁREA DE PARTICULAR REGISTRO IMOBILIÁRIO, O LITÍGIO A ENVOLVER MUNICÍPIO E ESTADO DE SÃO PAULO - AUSENTE JURÍDICO INTERESSE DA UNIÃO - PROVIMENTO AO AGRAVO DA UNIÃO.
+1. Superada a preliminar de aventada intempestividade ao presente recurso, tendo a União demonstrado dentro do prazo legal é que agravou da r. decisão, tanto que a parte agravada restou inerte diante de tal evidência, fls. 158.
+2. O alicerce da r. decisão agravada se concentra nos termos do último parágrafo de fls. 93, em reprise lançado no último parágrafo de fls. 107, ao entendimento de que a comum atribuição protetora ao meio-ambiente imporia força atrativa para a presença da União ao presente litígio.
+3. Sábias e felizes as bem lançadas palavras contidas na v. intervenção ministerial.
+4. A própria União com razão a bradar neste agravo pela ausência de seu jurídico interesse na originária demanda, a envolver autonomia política federativa do Estado-Membro de São Paulo por sua Secretaria do Meio-Ambiente, esta que suspendeu a anterior emissão de Autorização de Desmatamento: ou seja, cuida-se de atos estaduais e municipais, em âmbito de loteamento registrado em nome de particular, a agravada Maitá.
+5. Coerente e acertada a exegese extraída da Lei Maior em torno de seu art. 23, incisos VI e VII em relação ao inciso II de seu art. 20, de molde a não se flagrar imposição da intervenção da União no caso vertente, comum que se põe atribuição competencial suficientemente exercida pelos outros entes federados na espécie, como destacado.
+6. Todo o bojo instrutório coligido aponta unissonamente no rumo da ausência de interesse da União, em explícita aplicação do inciso I do art. 109, CF, bem assim da Súmula 150, E. STJ.
+7. Provimento ao agravo interposto, reformada a r. decisão do último parágrafo de fls. 93 (último parágrafo de fls. 654, na origem), excluída assim a União do polo passivo da demanda na qual inserida desde a preambular, por eqüidade e face ao processado sendo fixados honorários advocatícios de três mil reais em favor da União, com atualização monetária desde o ajuizamento até o efetivo desembolso, a serem suportados solidariamente pelos originários autores Maitá e Fator.
+8. Provimento ao agravo de instrumento, prejudicado o agravo regimental.
+Após a interposição de Recurso Especial, o STJ determinou o retorno dos autos à Corte de origem para que novamente apreciasse os Embargos de Declaração, dessa feita analisando os critérios legais para fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC/1973).
+O TRF da 3ª Região então prolatou acórdão que recebeu a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. RECONHECIDA ILEGITIMIDADE PASSIVA DA UNIÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM MONTANTE RAZOÁVEL. TEMPO CONSIDERÁVEL PARA EXECUÇÃO DO SERVIÇO. INFUNDADA RESISTÊNCIA DA PARTE CONTRÁRIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+- O acórdão em que ficou reconhecida a ilegitimidade passiva da União e em que se fixou honorários em seu favor foi firmado na vigência do CPC/73. Portanto, devem-se tomar em conta os critérios colocados pelo artigo 20, §§ 3º e 4º, do mencionado diploma legal para se fixar a verba honorária.
+- Deveras, acerca do valor dos honorários advocatícios, deve-se registrar que este não pode ser fixado de maneira desproporcional - seja em montante manifestamente exagerado seja em quantia irrisória - distanciando-se da finalidade da lei. Em realidade, a fixação deve ser justa e adequada às circunstâncias de fato a incidir na espécie.
+- Em vista do considerável tempo para a execução do serviço e da infundada resistência que a agravada opôs à União, o caso é de majoração dos honorários. Precedentes.
+- Embargos de declaração acolhidos.
+A União interpôs novo Recurso Especial alegando violação ao art. 20, §§ 3º e 4º, do CPC/1973. Requer majoração dos honorários advocatícios diante do elevado valor atribuído à causa. Aponta divergência jurisprudencial com julgado do STJ.
+O Recurso Especial não foi admitido na origem em razão da Súmula 7 do STJ. O Agravo interposto foi convertido em Recurso Especial pela decisão de fl. 414, e-STJ.
+O Ministério Público Federal opina pelo não conhecimento do recurso (fls. 420-426, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26.3.2018.
+Após retorno ao Tribunal de origem, verifico que a omissão anteriormente observada foi sanada, uma vez que o acórdão recorrido apreciou os fatos relevantes para a quantificação dos honorários. Confira-se o seguinte excerto do voto condutor (fl. 361, e-STJ):
+Portanto, a condenação deve observar o princípio da razoabilidade, bem como os contornos fáticos da demanda, não estando o magistrado adstrito aos percentuais apontados no caput do artigo 20 do CPC/73, já que a ele também é reservada a possibilidade de apreciação equitativa.
+Pois bem. Diante das considerações acima expendidas, tenho por razoável elevar a condenação em honorários advocatícios para R$ 10.000,00 (dez mil reais).
+A ação de origem foi proposta pela parte agravada em 1997, e que esta incluiu no polo passivo do feito, desde o início, a União (fl. 10). A União veio a se manifestar contrariamente à sua inclusão no polo passivo (fls. 63/66), mas ainda assim foi mantida nele (fl. 93), o que ensejou a interposição do presente agravo de instrumento.
+O agravo de instrumento foi interposto em 1999 e somente no ano de 2009 foi reconhecida, por esta Corte Regional, a ilegitimidade passiva ad causam da União. Registro que durante todo este período a União foi obrigada a atuar na ação de origem. Vale dizer: o tempo para a execução do serviço é de considerável extensão.
+Anoto, ainda, que a parte agravada opôs resistência à exclusão da União do polo passivo da ação de origem. Veja-se, por exemplo, que a autora já incluiu a União como ré quando a ação foi proposta, muito embora estivesse evidente, já aquela altura, que os atos administrativos impugnados não provinham de órgãos federais, mas exclusivamente estaduais e municipais.
+Além disso, a autora, neste agravo de instrumento, apresentou
+contraminuta (fl. 129) manifestando-se contrária ao pleito recursal e insistindo no litígio com a União, pelo que deve ser condenada em honorários advocatícios em montante condizente com sua resistência, em virtude do princípio da causalidade.
+Em vista do considerável tempo para a execução do serviço e da infundada resistência que a agravada opôs à União, o caso é de majoração dos honorários. Sobre a importância dos critérios aqui utilizados, confira-se, aliás, o seguinte precedente desta Corte Regional:
+ ..
+No tocante à arguida afronta do art. 20, §§ 3º e 4º do CPC/73, é inviável a pretensão de discutir tal matéria, visto que é cediço que, para fixação de honorários advocatícios, deve-se levar em consideração: a) o grau de zelo do profissional; b) o lugar de prestação do serviço; c) a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Portanto, para chegar ao valor dos honorários, é necessário que o Tribunal a quo análise o contexto fático-probatório, no sentido de avaliar a atuação do causídico e as circunstâncias, sendo aplicável a Súmula 7/STJ, pois incabível a reapreciação do aludido conteúdo probatório nesta instância especial.
+A propósito:
+CONSUMIDOR. PRÁTICA ABUSIVA. CLÁUSULAS ABUSIVAS EM CONTRATO DE ADESÃO A CARTÃO DE CRÉDITO. MULTA ADMINISTRATIVA APLICADA PELO PROCON AO FORNECEDOR. INTERPRETAÇÃO DE CLÁUSULAS PARA FINS DE REDUÇÃO DA SANÇÃO. INVIABILIDADE. SÚMULA 5/STJ. REEXAME DE PROVAS.DESCABIMENTO. SÚMULA 7/STJ. CONTRATO DE DURAÇÃO. INCIDÊNCIA DO CDC E DE SUAS ALTERAÇÕES. (..)
+2. A fixação da verba honorária sucumbencial compete às instâncias ordinárias, já que envolve a apreciação equitativa e a avaliação subjetiva do julgador no quadro fático dos autos (Súmula 7 do STJ).
+3. Eventual desproporção entre o valor da causa e o valor fixado a título de honorários advocatícios nem sempre indica irrisoriedade ou exorbitância da verba honorária, pois a fixação desta envolve a análise da efetiva complexidade da causa e do trabalho desenvolvido pelo advogado no patrocínio dos interesses da parte que representa. Agravo do Estado de Minas Gerais conhecido para negar seguimento ao recurso especial. (REsp 1539165/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16/11/2016).
+Isso posto, não conheço do Recurso Especial.
+É como voto.
