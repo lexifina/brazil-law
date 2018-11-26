@@ -1,0 +1,33 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTRO de decisão que negou seguimento a recurso especial fundado no art. 105, III, a e c, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Locação. Consignatória de chaves. Ação julgada parcialmente procedente.
+Apelação. Alegação de inexistência de recusa, tendo em vista o estado de conservação e uso do imóvel. Multa por rescisão contratual. Proporcional ao tempo restante para o término do contrato. Sentença mantida. Recurso dos autores improvido e adesivo da ré não conhecido." (fl. 193)
+Opostos embargos de declaração contra o acórdão, foram rejeitados (fls. 205/210).
+Nas razões do recurso especial, os recorrentes apontam violação dos arts. 335 e 535, II, do Código de Processo Civil de 1973, 4º da Lei 8.245/91 e 413, 884 e 885 do Código Civil de 2002, alegando, em síntese: a) nulidade do julgamento, uma vez que não sanada omissão apontada em embargos de declaração, relativa ao efetivo cômputo do tempo de cumprimento do contrato de locação "para a análise da excessividade ou não da multa rescisória" (fl. 220); e b) nulidade da cláusula contratual que prescreve a multa rescisória, uma vez que estabelece valor excessivo e enseja o enriquecimento sem causa da recorrida.
+Foram apresentadas contrarrazões (fls. 255/257).
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não prospera a alegada ofensa ao art. 535, II, do CPC/1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Sem razão os recorrentes, também, no que se refere à alegada violação dos arts. 335 do CPC/1973, 4º da Lei 8.245/91 e 413, 884 e 885 do CC/2002.
+A alegada nulidade da cláusula relativa à multa contratual foi expressamente afastada pela r.sentença de fls, 102/109, nos seguintes termos:
+ "(..)
+ Ora, no caso em tela a multa contratual foi limitada em no máximo três aluguéis, independentemente do tempo que faltar para o término do contrato. Além disso, previu que seu valor será, sempre, tomado com base no tempo que faltar para o cumprimento do contrato, ou seja, será equivalente a 50% do tempo que faltar para o término do contrato.
+ A defmnição da multa aplicável em contrato de locação é matéria negociada entre as partes. A intervenção judicial somente se justifica em casos em que "o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio".
+ Entendo que, no caso em tela, a penalidade fixada é razoável e compatível com as fmalidades do contrato de locação, sendo que, inclusive, é apurada com base no tempo restante de contrato, o que demonstra que serve para indenizar justa expectativa do locador quanto à duração do contrato. Por fim, as partes convencionaram um valor máximo, evitando-se, assim, que se tomasse excessivamente onerosa, impedindo que o locatário pudesse exercer livremente o seu direito de devolver as chaves.
+ A referida multa tem caráter de pré-fixação de perdas e danos, de modo que seria excessiva se não previsse redução proporcional à obrigação que já foi cumprida. Somente se fosse requerida a aplicação da pena integral, sem redução proporcional à obrigação já cumprida é que se consideraria que haveria locupletamento indevido." (fls. 107/108)
+O Tribunal de origem, por sua vez, ao examinar a questão, concluiu que a previsão de redução proporcional da multa à obrigação cumprida afasta o alegado excesso na exação, decidindo à base da seguinte fundamentação:
+ "A multa, conforme já registrado na r. sentença atacada, in verbis: "a referida multa tem caráter de pré-fixação de perdas e danos, de modo que seria excessiva se não previsse redução proporcional à obrigação que já foi cumprida.
+ Somente se fosse requerida a aplicação da pena integral, sem redução à obrigação proporcional já cumprida é que se consideraria que haveria locupletamento indevido" (cfr. FI. 115).
+ Ora a penalidade no caso concreto é apurada com base no tempo restante do contrato, não cabendo acolher as alegações dos apelantes, de que a mesma deva ser reduzida." (fl. 195)
+
+Conforme se observa, a onerosidade excessiva da multa contratual foi expressamente afastada pelas instâncias ordinárias ao fundamento de que a respectiva cláusula já previa limitação do valor máximo a ser cobrado, assim como expressa e redução proporcional ao cumprimento da obrigação.
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, assim como a interpretação de cláusula contratual, o que não admite em sede de recurso especial, a teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE COBRANÇA. TERMO INICIAL DOS JUROS DE MORA. VENCIMENTO. PRECEDENTE DA CORTE ESPECIAL. SÚMULA 83/STJ. MULTA MORATÓRIA. ALEGAÇÃO DE ONEROSIDADE EXCESSIVA. REDUÇÃO. APLICAÇÃO DAS SÚMULAS 5 E 7 DO STJ.
+1. "Embora juros contratuais em regra corram a partir da data da citação, no caso, contudo, de obrigação contratada como positiva e líquida, com vencimento certo, os juros moratórios correm a partir da data do vencimento da dívida" (EREsp 1250382/RS, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, julgado em 02/04/2014, DJe 08/04/2014).
+2. A pretensão de redução da multa moratória prevista em contrato, por onerosidade excessiva, encontra óbice nas Súmulas 5 e 7 do STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.417.860/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 5/5/2015)
+Do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
