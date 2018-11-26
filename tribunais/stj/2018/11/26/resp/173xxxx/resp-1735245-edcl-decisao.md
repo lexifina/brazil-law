@@ -1,0 +1,43 @@
+DECISÃO
+[NOME] opõe embargos de declaração à decisão de minha relatoria, em que conheci em parte do recurso especial, para negar-lhe provimento, mantendo a sua condenação pelo delito do art. 2º, II, c/c o art. 12, I, ambos da Lei n. 8.137/1990.
+A defesa alega a existência de omissão e contradição no decisum embargado sob os seguintes pontos: a) a ausência de análise da violação dos arts. 381, III, e 573, ambos do Código de Processo Penal; b) a existência de contradição em razão de um dos julgados, comprobatório da divergência jurisprudencial, haver sido proferido em agravo em recurso especial; c) a violação do art. 41 do CPP; d) a nulidade relativa à ausência de notificação na esfera administrativa não foi examinada sob a ótica do art. 5º, LV, da Constituição Federal; e) os arts. 395, III, e 397, III, ambos do CPP, não foram analisados relativamente à tese da falta de justa causa; f) os arts. 98 do Código de Processo Civil e 5º, LXXIV, da CF não foram analisados no tocante à tese da gratuidade da justiça; g) a isenção da pena de multa ou a sua minoração.
+Requer o acolhimento dos embargos de declaração atribuíndo-lhe efeitos infringentes para dar provimento ao recurso especial.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Sob essas premissas, constato que, no caso em análise, a decisão embargada não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique a oposição dos embargos.
+Os aclaratórios não podem ser utilizados para rediscutir posicionamento contrário ao interesse da parte, tampouco para fins de prequestionamento.
+A questão atinente aos arts. 381, III, e 573, ambos do Código de Processo Penal, foi devidamente analisada, ainda que de forma implícita, uma vez que afirmada a integridade da sentença condenatória, inclusive no tocante à sua fundamentação e a análise das preliminares arguídas.
+Com relação ao acórdão paradigma citado, a decisão embargada estabeleceu que "nem há que se falar em dissídio, nesse particular, uma vez que nenhum paradigma viável trata de nulidades, ou seja, não há similitude fática" (fl. 555).
+A tese de inépcia da denúncia - art. 41 do CPP - foi devidamente analisada e afastada, conforme o seguinte trecho da decisão (fls. 556-558):
+Quanto à inépcia da denúncia, o Tribunal de origem assim se manifestou (fl. 300):
+ ..
+A defesa alega: a) a continuidade delitiva foi descrita de forma genérica; b) o dano à coletividade (art. 12, I, da Lei n. 8.137/1990) não foi especificado; c) a denúncia confunde não recolhimento de tributo com sonegação; d) a acusação tem dúvida sobre o "valor do tributo ICMS, descontado ou cobrado" (fl. 355).
+A discussão sobre a alegada inépcia da denúncia perde força a partir da prolação da sentença, conforme já mencionado.
+Na hipótese dos autos, a continuidade delitiva foi devidamente indicada a partir da narrativa do período e da indicação dos ilícitos praticados (cinco condutas).
+A jurisprudência deste Tribunal Superior, ressalvado meu entendimento pessoal (HC n. 261.842/SP), admite que a descrição, na denúncia, do valor do crédito tributário sonegado é suficiente para que o juízo delibere sobre o grave dano à coletividade e, consequentemente, sobre a incidência da causa de aumento do art. 12, I, da Lei n. 8.137/1990.
+Exemplificativamente:
+ ..
+6. Basta à denúncia a descrição fática, prescindindo do expresso reconhecimento de valor elementar da norma penal - basta indicar o valor sonegado, para que se possa reconhecê-lo como de grave dano à coletividade, assim como basta descrever o modo de cometimento do homicídio para que seja judicialmente reconhecida a qualificadora do meio cruel, ou basta a descrição do cometimento do furto para que se o enquadre na qualificadora do abuso de confiança.
+7. Legítima é a valoração pelo acórdão condenatório de que o montante imputadamente sonegado caracteriza grave dano à coletividade, mesmo não tendo sido tal valoração expressada pelo órgão acusatório.
+8. Recurso especial parcialmente conhecido e, nessa extensão, improvido (REsp n. 1498157/DF, Rel. Ministro Sebastião Reis Júnior, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 3/2/2015)
+Esse é o caso dos autos, uma vez que a denúncia apontou, de forma clara, o valor dos tributos sonegados.
+A discussão sobre a alegada confusão entre os termos sonegação e não recolhimento de tributo ou dúvidas sobre o valor do ICMS descontado ou cobrado, por se tratarem de conceitos jurídicos/contábeis, não inviabiliza a compreensão dos fatos atribuídos ao acusado, os quais foram devidamente descritos.
+A conduta imputada ao acusado foi a de "no período de fevereiro a junho de 2013, não recolhe r  aos cofres públicos, no prazo determinado pelo art. 60 do RICMS/01, os valores apurados e declarados" (fl. 2).
+Destaco que não foi demonstrado o dissídio jurisprudencial, uma vez que, consoante pacífico entendimento desta Corte, os paradigmas firmados em habeas corpus não se prestam à comprovação da divergência.
+A defesa alega que a nulidade relativa à falta de notificação na esfera administrativa não foi examinada sob a ótica do art. 5º, LV, da Constituição Federal.
+Evidente que não seria viável, em recurso especial, a análise de suposta violação do art. 5º, LV, da Constituição Federal, haja vista a competência exclusiva do Supremo Tribunal Federal.
+A tese defendida em relação à inexistência de justa causa - arts. 395, III, e 397, III, ambos do CPP - está fundamentada na "falta de comprovação da materialidade e a ausência da comprovação do dolo" (fl. 368).
+A questão foi devidamente analisada, nos seguintes termos (fls. 561-562):
+A materialidade delitiva está devidamente caracterizada, uma vez que o não pagamento do ICMS devido é fato incontroverso nos autos.
+Sobre o dolo, o acórdão recorrido explicitou (fls. 305-306):
+ ..
+Na espécie, evidenciado está o dolo imputado, uma vez que Fábio confirmou que era o único responsável pela administração da empresa e que reconheceu que os valores recolhidos dos consumidores - pela sociedade empresária da qual é sócio-proprietário (conforme atesta o contrato social de fls. 18-21) - não foram repassados ao Fisco (gravação audiovisual junto ao termo de audiência de fls. 121).
+Tampouco se encontra razão no argumento de que a conduta descrita seria alcançada pela excludente de culpabilidade da inexigibilidade de conduta diversa, dadas as afirmadas dificuldades financeiras enfrentadas pela empresa. O ICMS é imposto indireto, suportado pelo consumidor final (contribuinte de fato); ou seja, cabe ao responsável tributário, tão somente, repassar o que já descontado do consumidor por ocasião da aquisição do produto fornecido.
+ ..
+Lado outro, mesmo se excepcionalmente se admitisse a precária condição financeira da empresa, amparada em que de vendas e de faturamento, como causa supralegal de exclusão de culpabilidade dos agentes (v. g, AP N. 516/DF, rel Min. Ayres Britto, j. 27.9.2010), no caso em análise nem mesmo há elementos bastantes a respeito. Os documentos juntados não revelam, indene de dúvidas, que houve uma drástica mudança no cenário econômico que prejudicasse sobremaneira a saúde financeira daquela pessoa jurídica e que obrigasse os seus sócios-administradores a utilizarem todo o faturamento, além dos valores que deveriam ser repassados ao fisco, à quitação de despesas com fornecedores e empregados.
+Por derradeiro, também não há falar em bis in idem pelo acusado responder pela cobrança de imposta nas esferas administrativa e penal, na medida em que tratam-se de âmbitos distintos, com procedimentos e sanções diversas, sendo o princípio do non bis in idem um óbice à dupla punição na esfera penal.
+Conforme se observa, a Corte antecedente destaca que o acusado, na condição de sócio-gerente da sociedade empresária, admitiu não haver repassado ao fisco o valor do tributo incorporado ao preço dos produtos, o que revela uma consciência ainda que potencial da ilicitude de seu ato.
+Sobre a gratuidade da Justiça, o decisum consignou que: "a concessão do benefício da justiça gratuita não exclui a condenação do acusado em custas processuais, as quais terão a exigibilidade suspensa pelo prazo de cinco anos. A capacidade financeira do condenado será avaliada pelo juízo da execução, instância adequada" (fls. 563-564).
+Evidente que a gratuidade da Justiça não tem nenhuma relação com a isenção da pena de multa estipulada no preceito secundário da norma penal.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
