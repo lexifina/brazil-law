@@ -1,0 +1,8 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NA DESISTÊNCIA EM RECURSO ESPECIAL. EXTINÇÃO DA AÇÃO EM RAZÃO DE DESISTÊNCIA DE RECURSO E RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA. ADESÃO AO PARCELAMENTO. LEGISLAÇÃO SUPERVENIENTE QUE DISPENSA O PAGAMENTO DE HONORÁRIOS. LEI 13.043/2014. LEI 13.496/2017. APLICAÇÃO. ART. 462 DO CPC/1973 (ART. 493 do CPC/2015). EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA EXCLUIR A CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS.
+1. Trata-se de Embargos de Declaração opostos por NORSKE SKOG PISA LTDA. contra decisão que homologou pedido de desistência, mantendo, contudo, a condenação em honorários advocatícios, mesmo em se tratando de renúncia ao direito que se funda a ação decorrente de adesão ao REFIS.
+2. É o breve relatório.
+3. Com razão a parte embargante.
+4. O Superior Tribunal de Justiça firmou entendimento no sentido de que, havendo desistência e renúncia ao direito em que se funda a demanda para fins de adesão a parcelamento tributário, aplica-se a lei superveniente no que diz respeito ao cabimento da verba honorária. Inteligência do artigo 462 do CPC/1973 (art. 493 do Código Fux). Nesse sentido: Observa-se que o art. 38 da Lei 13.043/2014 foi revogado pela MP 766/2017, que também teve sua eficácia revogada pela MP 783/2017, convertida na Lei 13.496/2017. Assim, vigora, o art. 5o., § 3o. da Lei 13.496/2017, que prevê o não pagamento dos honorários advocatícios. É certo que essa norma alcança os feitos em curso, nos termos do art. 462 do CPC/1973 (art. 493 do Código Fux). (AgInt no REsp. 1.446.115/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 13.3.2018).
+5. Ante o exposto, acolhem-se os Declaratórios para excluir a condenação em honorários advocatícios.
+6. Publique-se. Intimações necessárias.
