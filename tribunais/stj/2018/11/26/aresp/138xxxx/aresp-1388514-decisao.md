@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. CÁLCULO DO MONTANTE DEVIDO. UTILIZAÇÃO DO VALOR PATRIMONIAL DA AÇÃO INCORRETO. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Oi S.A. - Em Recuperação Judicial contra decisão que negou seguimento ao recurso especial, com fundamento na alínea a do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça de Santa Catarina assim ementado (e-STJ, fl. 376):
+AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. OI S/A. FASE DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A REMESSA DOS AUTOS À CONTADORIA JUDICIAL PARA ELABORAÇÃO DOS CÁLCULOS DO QUANTUM DEBEATUR, BEM COMO DEFINIU OS PARÂMETROS A SEREM UTILIZADOS POR ESTA. INSURGÊNCIA DA EMPRESA DE TELEFONIA.
+ALEGAÇÃO DE QUE DEVERÁ SER UTILIZADO O VALOR PATRIMONIAL DA AÇÃO (VPA) DIVULGADO EM MOMENTO DISTINTO AO DA INTEGRALIZAÇÃO. INSURGÊNCIA QUE NÃO MERECE PROSPERAR. EMPRESA TELEBRÁS. BALANCETE TRIMESTRAL. MAGISTRADO DE ORIGEM QUE DETERMINOU, ACERTADAMENTE, A UTILIZAÇÃO PELA CONTADORIA JUDICIAL DO VALOR VIGENTE NO MÊS DA CONTRATAÇÃO (NOVEMBRO/1989).
+RECURSO CONHECIDO E DESPROVIDO.
+Foram, ainda, opostos embargos de declaração, que acabaram rejeitados (e-STJ, fls. 388-394).
+Nas razões do recurso especial, a recorrente alegou violação aos arts. 502, 503, 508 e 1.022 do CPC/2015, ao argumento de omissão no acórdão recorrido acerca do VPA divulgado em novembro de 1989, conforme o balancete da Telebras, sendo que foi esse o critério do cálculo determinado no título executivo.
+Além disso, aduziu violação à coisa julgada, visto que, no título executivo foi determinada a utilização do VPA divulgado no balancete na data da assinatura, enquanto o TJSC manteve a utilização do VPA divulgado para o trimestre anterior.
+As contrarrazões não foram apresentadas - fl. 425 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de ofensa ao art. 1.022 do CPC/2015, bem como pela incidência das Súmulas 7 e 211 do STJ.
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+É o que se extrai do seguinte trecho dos embargos de declaração (e-STJ, fl. 391):
+A empresa de telefonia sustenta que há erro material no aresto no tocante à utilização do valor patrimonial da ação na apuração do quantum debeatur.
+Assevera, nesta linha, que "a afirmação constante no acórdão, de que o VPA divulgado em setembro de 1989 como válido para o meses de setembro-outubro-novembro, incorre em erro material, haja vista que o VPA divulgado pela Telebrás valia para o mês da divulgação e os dois meses anteriores" (p. 3).
+Especificamente quanto à irresignação da empresa de telefonia, a decisão embargada destacou que os balancetes da empresa Telebrás, emitente das ações, "eram divulgados de forma trimestral, de sorte que o balancete vigente na data da celebração do contrato (novembro de 1989), correspondente a NCz$ 0,6020, englobou os meses de setembro, outubro e novembro daquele ano, consoante se infere da "Planilha para cálculo de diferença de subscrição de ações de Telefonia - BRT", elaborada pela Assessoria de Custas da Corregedoria-Geral de Justiça (disponível em: http://cgjijsc.jus.brimagistrado/)" (p. 379).
+Nesse contexto, não se visualiza a ocorrência de erro material a ser sanado no acórdão vergastado. Vê-se que, ao seu modo, a decisão desta instância abordou satisfatoriamente os pontos suscitados pela embargante, na medida em que expôs, com clareza, as razões elementares ao desfecho da questão.
+Ademais, quanto ao mérito, o Tribunal estadual deixou assente que (e-STJ, fls. 378-379):
+Da análise da radiografia amealhada à p. 57, verifica-se que a assinatura do contrato celebrado entre a empresa de telefonia e a parte agravada se deu na data de 10-11-1989.
+Aqui, cabe ressaltar que os balancetes da empresa Telebrás, emitente das ações, eram divulgados de forma trimestral, de sorte que o balancete vigente na data da celebração do contrato (novembro de 1989), correspondente a NCz$ 0,6020, englobou os meses de setembro, outubro e novembro daquele ano, consoante se infere da "Planilha para cálculo de diferença de subscrição de ações de Telefonia - BRT", elaborada pela Assessoria de Custas da Corregedoria-Geral de Justiça (disponível em: http://cgj.tjsc.jus.brimagistrado/).
+Assim, não se verifica a alegada incongruência, porquanto, como muito bem observado pelo togado de origem, o valor patrimonial da ação, a ser utilizado pela contadoria judicial na elaboração dos cálculos do quantum debeatur, equivale a NCz$ 0,6020, o qual corresponde ao balancete vigente na data da assinatura da avença, em observância ao disposto no título judicial exequendo.
+(..)
+Logo, não merece prosperar o reclamo.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal quanto à necessidade de elaboração de novos cálculos, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
