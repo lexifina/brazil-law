@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc,
+Trata-se de recurso especial interposto por [NOME] e outro contra acórdão proferido pelo TRF da 4ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO EM AGRAVO DE INSTRUMENTO. PRECATÓRIO/RPV COMPLEMENTAR. INCIDÊNCIA DE JUROS DE MORA. TERMO FINAL. HOMOLOGAÇÃO DA CONTA DE LIQUIDAÇÃO: TRANSITO EM JULGADO DA SENTENÇA RELATIVA AOS EMBARGOS À EXECUÇÃO OU DECURSO IN ALBIS DO PRAZO PARA OPÔ-LOS.
+1. "Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos." (Súmula Vinculante 17)
+2. Todavia, no tocante à incidência de juros de mora no período que medeia a elaboração do cálculo até a data da expedição da requisição de pagamento, a matéria foi recentemente examinada pelo STJ, no julgamento do AgRg no Recurso Especial n" 1. 149.607-SC, que entendeu que: "a orientação adotada por este Superior Tribunal de Justiça, em harmonia com a da Suprema Corte, revela que não se pode imputar à Fazenda Pública a demora do trâmite processual até a expedição do precatório e sua respectiva inscrição no orçamento, após a liquidação do valor devido, esta verificada após a definição do quantum debeatur, com o trânsito em julgado dos embargos à execução, ou com o decurso in albis do prazo para Fazenda Pública opô-los."
+3. Sendo assim, altero meu posicionamento para alinhá-lo ao entendimento esposado no âmbito do STJ (AgRg no REsp 1149607), no sentido de reconhecer a possibilidade de incidência de juros moratórios no período transcorrido até a definição do quantum debeatur, com o trânsito em julgado dos embargos à execução, ou com o decurso in albis do prazo para Fazenda Pública opô-los.
+4. Agravos improvidos.
+Os recorrentes apontam ofensa aos arts. 535, I e II, 525, I, 527, V, e 557, § 1º-A, do CPC/1973 e 17 da Lei 10.259/2001.
+Busca, no mérito, o provimento do apelo para que seja determinada a incidência dos juros de mora entre a data de elaboração da conta e a efetiva expedição do precatório.
+Decido.
+A questão jurídica referente à condenação da Fazenda Pública ao pagamento de juros moratórios entre a data da conta e a expedição do precatório teve repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 96), nos termos da seguinte ementa:
+JUROS DA MORA - FAZENDA PÚBLICA - DÍVIDA - REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório.
+Nesse contexto, os recursos que tratam da mesma controvérsia no STJ devem retornar ao Tribunal de origem para o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Cumpre-se esclarecer que, caso, após o juízo de retratação realizado no Tribunal de origem, ainda tenha restado o exame de alguma questão jurídica suscitada no recurso especial que não foi prejudicada com o novo julgamento, cumprirá à parte interessada pleitear a remessa dos autos para esta Corte Superior, devendo esse pedido de remessa ser previamente avaliado pela instância a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que se faça a adequação ao acórdão proferido no recurso com repercussão geral e, em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STF; b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
