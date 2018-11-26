@@ -1,0 +1,23 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado do Rio Grande do Norte contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “CONSTITUCIONAL E PROCESSSUAL CIVIL. AÇÃO CÍVEL ORIGINÁRIA. COTA-PARTE DO ICMS DESTINADA A MUNICÍPIO. PRELIMINAR DE CARÊNCIA DE AÇÃO, SUSCITADA PELO ESTADO DEMANDADO. ALEGATIVA DE INEXISTÊNCIA DE PROVA. MATÉRIA NÃO INSERIDA DENTRE AS CONDIÇÕES DA ‘ACTIO’. REJEIÇÃO – MÉRITO. REPASSE PREVISTO NA CARTA MAGNA QUE DEVE SE DAR DE FORMA INTEGRAL SEM A REALIZAÇÃO DE SUPRESSÃO, A TÍTULO DE INCENTIVO FISCAL, DAS ISENÇÕES CONCEDIDAS, ÚNICA E EXCLUSIVAMENTE, PELO ENTE ESTATAL (ART. 158, IV, DA CF). PRECEDENTES REITERADOS DO STF E DESTE PLENÁRIO. PROCEDÊNCIA.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (grifei)
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário interposto pela parte ora recorrente.
+    Observo, de outro lado, no que concerne à definição do valor da quota dos Municípios no produto da arrecadação do ICMS, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 572.762/SC, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. ICMS. REPARTIÇÃO DE RENDAS TRIBUTÁRIAS. PRODEC. PROGRAMA DE INCENTIVO FISCAL DE SANTA CATARINA. RETENÇÃO, PELO ESTADO, DE PARTE DA PARCELA PERTENCENTE AOS MUNICÍPIOS. INCONSTITUCIONALIDADE. RE DESPROVIDO.
+    I – A parcela do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, a que se refere o art. 158, IV, da Carta Magna pertence de pleno direito aos Municípios.
+    II – O repasse da quota constitucionalmente devida aos Municípios não pode sujeitar-se à condição prevista em programa de benefício fiscal de âmbito estadual.
+    III – Limitação que configura indevida interferência do Estado no sistema constitucional de repartição de receitas tributárias.
+    IV – Recurso extraordinário desprovido.”
+    O exame da presente causa evidencia que o acórdão ora questionado ajusta-se, no ponto, à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Impõe-se destacar, finalmente, no que se refere à alegação de que “a Lei Estadual nº 5.397/95, que criou no âmbito estadual o Programa de Apoio ao Desenvolvimento Industrial – PROADI, resguardou, explicitamente, a cota constitucional – 25% (vinte e cinco por cento) – pertencente aos Municípios, dentre os quais, o Município-autor”, inexistindo, desta forma, “qualquer prejuízo na repartição constitucional dos valores de ICMS”, que essa pretensão recursal extraordinária revela-se incognoscível.
+    Com efeito, incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a resolução da controvérsia em causa implica necessário exame do direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
