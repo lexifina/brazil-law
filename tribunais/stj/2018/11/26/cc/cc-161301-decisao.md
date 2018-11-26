@@ -1,0 +1,25 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PELA JUSTIÇA FEDERAL. DEPRECADA CARTA PRECATÓRIA À JUSTIÇA ESTADUAL PARA FISCALIZAÇÃO. INALTERADA A COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. COMPETÊNCIA DO JUÍZO FEDERAL SUSCITANTE.
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUIZO FEDERAL DA 1.ª VARA DE CAMPO MOURÃO - SJ/PR contra o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO DE CAMPINA DA LAGOA - PR.
+Consta dos autos que o Juízo Suscitante condenou [NOME] à pena de 1 (um) ano de reclusão, em regime inicial aberto, bem como ao pagamento de 10 (dez) dias-multa, no mínimo legal, como incurso no delito previsto no art. 342, caput, do Código Penal, com redação anterior à Lei n.º 12.850/2013. A pena privativa de liberdade foi substituída por uma restritiva de direitos, qual seja, a prestação de serviços à comunidade (fls. 338-346).
+Com o trânsito em julgado da sentença, o Juiz Suscitante expediu carta precatória ao Juízo Suscitado, sob cuja jurisdição se encontra o domicílio do Condenado, a fim de que fosse realizada a audiência admonitória, acompanhamento e fiscalização da reprimenda restritiva de direitos (fls. 556-558).
+O Juízo Suscitado, por meio da decisão de fl. 628, determinou a expedição de oficio ao Juízo Suscitante, a fim de que fossem encaminhadas cópias das peças do processos necessárias à instrução da execução da pena.
+Realizada a audiência admonitória, o Juízo Suscitado revogou a pena restritiva de direitos e fixou condições para o cumprimento da pena privativa de liberdade em regime aberto (fl. 695).
+A decisão antes mencionada não foi ratificada pelo Juízo Suscitante (fls. 722-723). Entretanto, o Juízo Suscitado, entendendo ser o competente para a execução da pena, determinou o cumprimento da decisão prolatada quando da audiência admonitória (fl. 729).
+Ato contínuo, o Juízo Suscitante prolatou decisão suscitando o presente Conflito Positivo de Competência, alegando que " ..  é competência do Juízo deprecado apenas realizar a audiência admonitória e fiscalizar o cumprimento da pena, permanecendo com o Juízo da condenação a competência para decidir todos os incidentes da execução penal" (fl. 735).
+O Ministério Público Federal manifestou-se às fls. 752-755, opinando pela competência do Juízo Suscitante.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior é firme no sentido de que a execução da pena cabe ao Juízo da condenação, sendo atribuição do Juízo deprecado, tão somente, a supervisão e o acompanhamento da respectiva reprimenda.
+Nesse sentido:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO À PENA EM REGIME ABERTO. NOVO DOMICÍLIO DO APENADO. INADMISSIBILIDADE DA MUDANÇA DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DA PENA. FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+- Esta Corte possui entendimento firmado no sentido de que ao Juízo da condenação compete a execução da pena, não havendo deslocamento desta competência pela mudança voluntária de domicílio do condenado à pena em regime aberto, devendo ser deprecada ao Juízo do domicílio do apenado a supervisão e acompanhamento do cumprimento da reprimenda determinada.
+- Nesse contexto, in casu, os autos devem retornar ao juízo da condenação (Juízo de Direito da Vara Criminal de Videira - SC), competente para a execução penal, a fim de que determine a expedição de carta precatória ao Juízo de onde reside o apenado para a supervisão do desconto da sua reprimenda.
+Conflito conhecido para declarar competente o Juízo de Direito da Vara Criminal de Videira - SC, o suscitado." (CC 131.468/RS, Rel. Ministra MARILZA MAYNARD, DESEMBARGADORA CONVOCADA DO TJ/SE, TERCEIRA SEÇÃO, julgado em 26/02/2014, DJe 13/03/2014.)
+"PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. PENAS RESTRITIVAS DE DIREITOS. MUDANÇA DE DOMICÍLIO DO APENADO. EXECUÇÃO. COMPETÊNCIA NÃO ALTERADA. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA CUMPRIMENTO DA PENA. COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DE EXECUÇÃO CRIMINAL E CORREGEDORIA DE PRESÍDIOS DE SÃO VICENTE/SP.
+1. Aplicadas as penas restritivas de direitos, na hipótese do apenado mudar o seu domicílio, cabe ao Juízo da Execução Penal expedir carta precatória para a nova localidade, deprecando-se, no caso, a realização da audiência admonitória e a fiscalização do cumprimento das condições fixadas.
+2. Não há a transferência da competência, apenas de alguns atos, sendo que os decisórios permanecem atribuídos ao juízo responsável pela execução no local da condenação.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara de Execução Criminal e Corregedoria de Presídios de São Vicente/SP, ora suscitado." (CC 106.036/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 12/08/2009, DJe de 21/08/2009.)
+Ante o exposto, com fulcro no art. 955, parágrafo único, inciso I, do Código de Processo Civil, c.c o art. 3.º do Código de Processo Penal, CONHEÇO do conflito e DECLARO competente o JUÍZO FEDERAL DA 1.ª VARA DE CAMPO MOURÃO - SJ/PR, o Suscitante.
+Publique-se. Intimem-se.
