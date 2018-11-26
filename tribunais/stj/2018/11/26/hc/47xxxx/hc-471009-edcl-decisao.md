@@ -1,0 +1,16 @@
+DECISÃO
+EMERSON CESAR MELLO DA SILVA opõe embargos declaratórios contra a decisão de fls. 640-641, em que indeferi liminarmente o habeas corpus, pois caracterizada a indevida supressão de instância.
+Em suas razões, a defesa alega a existência de erro material no decisum, "à medida em que não houve nova avaliação sobre os fundamentos da prisão cautelar, em sede de decisão de pronúncia"(fl. 650), bem como, "após a data da decisão de pronúncia, proferida em 14/12/2017, a legalidade da prisão preventiva foi novamente submetida ao Tribunal de Justiça do Rio Grande do Sul, através do HC nº [CPF], que foi distribuído em 30/01/2018", de modo que não houve supressão de instância (fl. 649).
+Requer, assim, o acolhimento dos embargos, a fim de que seja corrigido o erro material identificado.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o novo julgamento do caso.
+Na espécie, em que pesem os argumentos lançados pelo embargante, constato que não há erro material a ser reconhecido.
+O acusado alega que as razões da decisão de pronúncia foram submetidas ao crivo do Tribunal de origem por meio do HC n. [CPF]. No entanto, pela leitura do acórdão indicado, observo que naqueles autos foi arguída a motivação adotada para decretar a prisão preventiva do paciente pela Juíza de Direito Plantonista da Comarca de São Sebastião do Caí - RS, in verbis (fl. 47, grifei):
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela advogada KATUSCIA MACHADO DA SILVA em favor de EMERSON CÉSAR MELLO DA SILVA, apontando como autoridade coatora a Juíza de Direito Plantonista da Comarca de São Sebastião do Caí/RS.
+Narra a inicial que o paciente encontra-se preso preventivamente desde 19/07/2015, pela suposta prática de homicídio qualificado.
+Alega a impetrante a ilegalidade da decisão que decretou a prisão preventiva, sustentando a sua excepcionalidade e carência de fundamentação idônea. Refere o excesso de prazo para a formação da culpa, afirmando que o paciente encontra-se preso há mais de 02 anos sem culpa formada.
+Assim, embora a decisão de pronúncia haja sido prolatada, em 14/12/2017, a defesa sustentou a ilegalidade do decreto preventivo por ocasião da impetração do HC n. [CPF], em 30/1/2018.
+Dessa forma, porque não foram apreciados na origem os argumentos exarados na decisão de pronúncia - que manteve a segregação cautelar -, seja no writ originário, seja no HC n. [CPF], sua análise implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria.
+Portanto, percebe-se que esta irresignação se resume a mero inconformismo do réu com o resultado do julgamento, desfavorável à sua pretensão. Tenho, então, que não existe nenhum fundamento que justifique a oposição destes embargos.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
