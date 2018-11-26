@@ -1,0 +1,29 @@
+Trata-se de reclamação constitucional com pedido de liminar ajuizada pela União contra decisão proferida pela Terceira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Tribunal de Justiça do Estado da Bahia – TJBA, no Processo 0020731-84.2016.4.01.3300, por ter concedido à autora o direito a usufruir de “[...] licença-prêmio por tempo de serviço pelo prazo de três meses a cada quinquênio ininterrupto de exercício, conforme previsto no artigo 222, § 3°, da Lei Complementar n° 75/1993” (pág. 2 da inicial).
+    Narra a inicial que, na origem, Ana Fátima Passos Castelo Branco Teixeira, Juíza do Trabalho, propôs ação ordinária contra a União, sustentando que
+    “[…]embora seja a Lei Complementar n° 35/1979 (LOMAN) o diploma normativo que disciplina a carreira dos magistrados, também lhe seriam aplicáveis as disposições da Lei Complementar n° 75/1993 (Lei Orgânica do Ministério Público da União), ao fundamento de que haveria simetria constitucional entre as duas carreiras. Tal simetria teria sido implementada, administrativamente, pelo Conselho Nacional de Justiça […]” (pág. 2 da inicial).
+    A reclamante afirma que o pedido da autora foi parcialmente provido para declarar o direito de usufruir da licença-prêmio. Após ser devidamente impugnado por recurso inominado, a decisão de Primeiro grau foi mantida pela Turma Recursal do TJBA, pelos seguintes fundamentos:
+    “[...] Não por outro motivo, o valor do subsídio pago aos Ministros do Supremo Tribunal Federal é aquele alçado ao teto da remuneração do serviço público. Dessa estrutura, por imperativo de coerência lógica e sistemática, a nenhuma outra carreira pode ser atribuído regime jurídico mais favorável. Veja que a posição paradigmática da magistratura é reafirmada na Constituição, impondo que se aplique ao Ministério Público, no que couber, o art. 93, justamente o que prevê a Lei Orgânica da Magistratura.
+    9. A mesma coerência lógica e sistemática evocada impõe, como forma de reparação automática da coesão normativa da Constituição, a extensão aos magistrados das vantagens atribuídas aos membros do Ministério Público, carreira, a propósito, tida como essencial à Justiça, mas que com ela não se confunde. É essa solução, a que se atribui equivocadamente o nome de simetria [...]” (pág. 3 da inicial).
+    Assevera, em suma, que tal decisão afrontou a Súmula Vinculante 37, pois o Juízo atuou como legislador positivo.
+    Ao final, pede:
+    “[...] a) desde logo, a procedência do pedido para cassar a decisão reclamada, nos termos do art. 161, parágrafo único, do RISTF;
+    b) caso não acolhido o pedido anterior, a concessão de medida liminar inaudita altera pars, com fulcro no art. 989, II, do Código de Processo Civil, para suspender os efeitos da decisão reclamada e o Processo n° n° 0020731-84.2016.4.01.3300, pelas razões expostas [...]” (pág. 13 da inicial – grifos no original).
+    É o relatório. Decido.
+    Bem examinados os autos, verifico, em um exame perfunctório, próprio dessa fase processual, assistir razão à reclamante quanto ao pedido liminar.
+    Em casos análogos, os Ministros desta Corte têm deferido pedidos de liminar para suspender decisões que versam sobre o suposto direito à isonomia de magistrados com membros do Ministério Público.
+    Por pertinente, trago pronunciamento da Segunda Turma:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MAGISTRADOS. CONCESSÃO DE VANTAGENS COM FUNDAMENTO NA ISONOMIA COM OS MEMBROS DO MINISTÉRIO PÚBLICO. SÚMULA VINCULANTE Nº 37. PENDÊNCIA DA ANÁLISE DA CONSTITUCIONALIDADE DA RESOLUÇÃO Nº 133 DO CNJ NA ADI 4.822. MATÉRIA SOB REPERCUSSÃO GERAL. TEMAS 966 E 976. SUSPENSÃO DO ATO RECLAMADO E SOBRESTAMENTO DO JULGAMENTO DA RECLAMAÇÃO. AGRAVO REGIMENTAL PROVIDO.
+    1. A controvérsia acerca da constitucionalidade da Resolução nº 133 do CNJ, que dispõe sobre a concessão de equiparação de vantagens funcionais a magistrados com fundamento na simetria constitucional com os membros do Ministério Público, é objeto de questionamento por meio da ADI 4.822/PE, de relatoria do Min. Marco Aurélio e dos REs 1059466 (Tema 966) e 968646 (Tema 976), ambos da relatoria do Min. Alexandre de Moraes.
+    2. Em decorrência da verticalização das decisões do Plenário, impõe-se a suspensão do ato reclamado e o sobrestamento do julgamento da presente reclamação até a definição do mérito da matéria.
+    3. Agravo regimental provido para suspender o ato reclamado e determinar o sobrestamento dos autos” (Rcl 26.924-AgR/PB, Red. para o acórdão Min. Edson Fachin).
+    Na mesma esteira, cito, ainda: Rcl 32.210-MC/SC, Rel. Min. Celso de Mello; Rcl 32.285-MC/PI, Rel. Min. Gilmar Mendes; Rcl 32.065-MC/MG, Rel. Min. Marco Aurélio; Rcl 28.575/BA, Rel. Min. Rosa Weber, entre outras.
+    Vale registrar, também, que a Segunda Turma deste Tribunal, em sessão de julgamento realizada em 7/8/2018, determinou, em reclamações ajuizadas pela União, a suspensão de processos que versam sobre a mesma temática até que sobrevenha decisão da Corte na ADI 4.822/PE ou nos Temas 966 e 976 de Repercussão Geral.
+    Há, portanto, o risco da demora e da plausibilidade jurídica suficientes para justificar a concessão da liminar requerida.
+    Isso posto, concedo a liminar para determinar o sobrestamento do feito objeto destes autos na origem até que se conclua o julgamento da ADI 4.288/PE ou dos Temas 966 e 976 de Repercussão Geral (RE 1.059.466/AL e RE 968.646/SC).
+    Comunique-se à autoridade reclamada, solicitando-lhe informações (art. 989, I, do CPC).
+    Cite-se a beneficiária do ato impugnado para, querendo, apresentar contestação ao pedido no prazo de 15 dias.
+    Após o cumprimento das referidas diligências, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
