@@ -1,0 +1,38 @@
+DECISÃO
+ Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. OMISSÃO. BENEFICIO DA ASSISTÊNCIA * JUDICIÁRIA. ACOLHIMENTO. PRINCÍPIO DA FUNGIBILIDADE. EFEITOS INFRINGENTES., RECONHECIMENTO. AGRAVO REGIMENTAL. AUSÊNCIA DE FATO NOVO. REEXAME DA MATÉRIA. IMPROVIMENTO.
+1 - Ocorrendo qualquer das hipóteses previstas no artigo 535, 1 e II, do Código de Processo Civil, o recurso adequado são os embargos de declaração.
+II- Quando no ato do julgamento dos embargos de declaração opostos contra a decisão do mérito do agravo de instrumento, não fora observada a concessão da justiça gratuita, isentando o embargante do pagamento de qualquer despesa processual, o reconhecimento da omissão é medida que se faz presente.
+III - Admite-se a atribuição de efeitos infringentes aos embargos quando os vícios da obscuridade, contradição ou omissão, Sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado, afigurando-se presentes os efeitos infringentes ou modificativos como mera conseqüência do suprimento do vício.
+IV - Diante da inexistência de motivo plausível para a reforma, vez que ausentes novos elementos capazes de modificar a convicção inicial do relator, deve ser mantido o decisum combatido, maxime quando o agravo regimental limita-se em repetir os mesmos argumentos expendidos por ocasião dos debates em sede de agravo de instrumento.
+FUNGIBILIDADE ACOLHIDA. AGRAVO REGIMENTAL CONHECIDO E IMPROVIDO." (e-STJ,fl.317/318)
+Em suas razões recursais, a recorrente aponta violação dos arts. 38, 215, do CPC/73, e divergência jurisprudencial, sustentando, em síntese, que: 1) no caso dos autos, como os procuradores constituídos tinham poderes expressos para receber citação, intimação e notificações, além de receber e dar quitação, não havia qualquer obrigatoriedade de intimação pessoal do executado para fins de incidência da multa por descumprimento de obrigação de fazer e 2) não é razoável que o devedor precise ser pessoalmente intimado a cumprir a obrigação de fazer quando já o havia sido com a publicação da sentença que determinou a obrigação, da qual teve oportunidade de recorrer.
+Apresentadas contrarrazões às fls.355/363 (e-STJ)
+É o relatório. Passo a decidir.
+O Tribunal de origem, ao analisar a questão relativa à necessidade de intimação pessoal do executado para fins de incidência da multa por descumprimento de obrigação de fazer concluiu:
+"Ressalta-se, que no caso posto sob apreciação, o recorrente, autos da ação originária, ingressou com pedido de cumprimento de sentença, apresentando memória de cálculo com valor da multa diária devida, requerendo o prosseguimento do processo na forma da execução.
+Em seguida, o magistrado condutor do feito determinou a expedição de um alvará para levantamento de importância em favor do autor, e determinou a intimação do banco para o recolhimento do valor restante da indenização, sob pena de multa, tudo via diário da justiça, o que se torna ineficaz, pois nos casos de cumprimento das obrigações de fazer, há, necessidade de que as Intimações sejam feitas pessoalmente.
+Reiteradamente discutida, a questão foi sedimentada pela edição da Súmula 410 do STJ, a qual determina a imprescindibilidade da intimação pessoal do devedor, não sendo cabível, assim, a intimação via diário de justiça, ainda que os advogados tenham poderes para receberem citações e intimações. Enfim, a ciência inequívoca da parte é condição imprescindível para que o pagamento da pretensa multa se torne exigível.
+Portanto, ausente a comprovação da intimação pessoal da parte devedora, o provimento do agravo de instrumento é medida necessária." (e-STJ fl. 330)
+O entendimento acima encontra-se de acordo com a jurisprudência desta corte Superior:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. EXECUÇÃO. MULTA DIÁRIA. AUSÊNCIA DE INTIMAÇÃO DO DEVEDOR. NÃO PROVIMENTO.
+1. A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Entendimento compendiado na Súmula n. 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face da referida lei.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1289188/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/10/2018, DJe 30/10/2018)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO EM OBRIGAÇÃO DE FAZER. MULTA DIÁRIA POR DESCUMPRIMENTO. NECESSIDADE DE INTIMAÇÃO DA PARTE. SÚMULA N. 410/STJ. DECISÃO MANTIDA.
+1. "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" (enunciado n. 410 da Súmula do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1295123/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/10/2018, DJe 10/10/2018)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PESSOAL DO EXECUTADO. NECESSIDADE. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284 DO STF. FALTA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 535 do Código de Processo Civil de 1973, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, sedimentada na Súmula 410, a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Esclarecimento do decidido pela 2ª Seção no EAg 857.758-RS.
+3. O recurso especial não comporta o exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos, nos termos do enunciado da Súmula 7 do STJ.
+4. Nos termos da jurisprudência do STJ, o relator do recurso está autorizado a decidir monocraticamente, conforme o artigo 557, caput e § 1º-A, do Código de Processo Civil de 1973 (equivalente ao artigo 932 do CPC/15). Ademais, eventual nulidade da decisão singular fica superada com a apreciação da matéria pelo órgão colegiado competente em sede de agravo regimental ou interno.
+5. O mero inconformismo não é suficiente ao julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art.
+105, III, "a", da Constituição Federal .
+6. Agravo interno não provido."
+(AgInt no REsp 1280928/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/10/2018, DJe 06/11/2018)
+Frise-se que não socorre ao recorrente a alegação de que o advogado da parte recorrida possui poderes expressos para receber citação, intimação e notificações, além de receber e dar quitação, uma vez que a orientação desta Corte Superior quanto à necessidade de intimação pessoal foi firmada tendo em vista que, em se tratando de obrigação de fazer, somente a própria parte poderá cumprir a determinação judicial.
+Assim, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, incide o óbice da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
