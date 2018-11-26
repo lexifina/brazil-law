@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo DEPARTAMENTO ESTADUAL DE INFRA-ESTRUTURA RODOVIARIA DE SERGIPE - DER/SE contra decisão que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão, assim ementado (e-STJ fl. 180):
+APELAÇÃO CÍVEL - ADMINISTRATIVO - DESAPROPRIAÇÃO - LOCATÁRIO - TITULAR DE FUNDO DE COMÉRCIO - INDENIZAÇÃO PELO PODER EXPROPRIANTE - CABIMENTO - PRECEDENTES DO STF E STJ- PREQUESTIONAMENTO - MAJORAÇÃO DE HONORÁRIOS, NOS TERMOS DO ART. 85, §11 DO CPC/ - RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 232/237).
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação do art. 26 do Decreto - Lei n. 3.365/1941, sustentando, em suma, a impossibilidade de indenização pelo fundo de comércio ao locatário, em razão da desapropriação do imóvel do proprietário.
+Aduziu que, "o suposto direito à indenização do fundo de comércio e das perdas e danos fixados na Sentença recorrida decorreria, como a própria Autora/Apelada afirma em sua exordial, da Cláusula Décima Segunda do "Contrato de Locação para Fins não Residenciais", de 25/09/2002, firmado exclusivamente entre a Recorrida Terena Transportadora e Revendedora de Gás Ltda. e a real proprietária do imóvel, a Nacional Gás Butano Distribuidora Ltda" (e-STJ 246).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, em face do óbice contido na Súmula 7 do STJ.
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade, não sendo o caso de aplicação do referido enunciado.
+Contraminuta consta às e-STJ fls. 241/250.
+O Ministério Público manifestou-se pelo improvimento do recurso.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, a jurisprudência do Superior Tribunal de Justiça assegura o direito à indenização pelo fundo de comércio ao locatário, em razão dos prejuízos advindos com a desapropriação do imóvel do proprietário.
+Sobre o tema, colho os seguintes precedentes desta Corte de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PERDA DO FUNDO DE COMÉRCIO POR ATO EXPROPRIATÓRIO. DEMANDA AJUIZADA PELO LOCATÁRIO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. NECESSIDADE DE AÇÃO PRÓPRIA. IMPOSSIBILIDADE DE SE CONDICIONAR A IMISSÃO PROVISÓRIA NA POSSE AO DEPÓSITO DE QUANTIA PROVISORIAMENTE APURADA. AFASTAMENTO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Não ocorre ofensa ao art. 535 do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. O valor a ser pago na desapropriação deve corresponder real e efetivamente ao do bem expropriado, de modo a garantir a justa indenização prevista no art. 5º, XXIV, da CF/88, motivo pelo qual deve ser incluída a quantia correspondente ao fundo de comércio.
+3. Distinta é a hipótese em que a indenização pela perda do fundo de comércio é pleiteada por terceiro, locatário do imóvel expropriado, exigindo-se o ajuizamento de ação própria destinada à busca desse direito.
+4. A indenização pela perda do fundo de comércio, apesar de devida, deverá ser apurada pela via própria, sujeitando-se o pagamento respectivo ao regime constitucionalmente imposto às dívidas da Fazenda Pública (art. 100 da CF/88), salvo na hipótese em que o ente expropriante não detém tal prerrogativa, inexistindo previsão legal para se determinar o depósito de quantia provisoriamente apurada em
+laudo pericial e menos ainda para obstar a imissão na posse.
+5. Embargos de declaração opostos para prequestionar questão federal não são protelatórios, nos termos da Súmula 98/STJ.
+6. Recurso especial parcialmente provido. (REsp 1395221/SP, Relatora Ministra ELIANA CALMON, T2 - SEGUNDA TURMA, DJe 17/09/2013).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. INDENIZAÇÃO PELA PERDA DO FUNDO DE COMÉRCIO. MATÉRIA DE PROVA. SÚMULA 7/STJ.
+1. Eventuais prejuízos ocasionados em razão da perda do fundo de comércio, em caso de desapropriação, devem ser indenizados pelo ente expropriante.
+2. Hipótese, contudo, em que a Corte de origem, após percuciente análise do laudo pericial, reformou a sentença de primeiro grau de jurisdição, para julgar improcedente a ação, deixando consignado que os autos não demonstram qualquer prejuízo decorrente da mudança ou da desapropriação.
+3. Se é certo que a indenização é devida em caso de prejuízos causados pela desapropriação, não menos correto é que esses prejuízos devem ser comprovados pela parte que pleiteia a indenização correspondente.
+4. Qualquer conclusão em sentido contrário ao que decidiu o aresto atacado, relativamente à existência de prejuízos decorrentes da perda do fundo de comércio, envolve o reexame do contexto fático-probatório dos autos, inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+5. Agravo regimental desprovido. (AgRg no REsp 647660/SP, Ministra DENISE ARRUDA, Órgão Julgador T1 - PRIMEIRA TURMA, DJ 05/10/2006).
+Nessa quadra, forçoso convir que o acórdão recorrido se encontra em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Registre-se que, no caso, o Tribunal de origem registrou expressamente que a natureza das benfeitorias, objeto da ação desapropriatória, é diversa da indenização pretendida, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Ademais, a análise da pretensão veiculada demanda exame de cláusula contratual, providência inviável pela Súmulas 5 do STJ.
+Nos termos do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
