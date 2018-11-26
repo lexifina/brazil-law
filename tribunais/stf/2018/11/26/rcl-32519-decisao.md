@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Companhia Paulista de Trens Metropolitanos – CPTM afirma haver a Décima Terceira Turma do Tribunal Regional do Trabalho da 2ª Região, no processo nº 1001485-31.2016.5.02.0372, violado o artigo 7º, inciso XXVI, da Constituição de 1988 e decisões proferidas pelo Supremo.
+    Segundo narra, firmou com certo sindicato acordo coletivo por meio do qual assegurado o pagamento de adicional noturno aos empregados no percentual de 50%, superior ao piso de 20% previsto na legislação trabalhista. Esclarece que, em virtude de trabalho noturno, implementou revezamento de grupos de trabalhadores de 4 em 4 meses. Realça a formalização de diversas demandas, inclusive pelos interessados, visando, ante a configuração de turnos ininterruptos de revezamento, o reconhecimento da jornada de 6 horas diárias e o pagamento da sexta e sétima como extraordinárias. Assevera o atendimento dos pleitos, no que desconsideradas as regras estipuladas por intermédio de negociação coletiva. Cita o assentado, sob o ângulo da repercussão geral, no recurso extraordinário nº 590.415, no que teriam sido levadas em conta normas coletivas, e também o decidido na ação direta de inconstitucionalidade nº 4.364, alusiva a determinada lei do Estado de Santa Catarina, bem como no segundo agravo regimental no recurso extraordinário nº 895.759/PE.
+    Sob o ângulo do risco, menciona os prejuízos decorrentes da condenação.
+    Requer, em sede liminar, seja suspenso o ato questionado e, alfim, cassado.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, hoje suportada pelo Tribunal, que, sob o ângulo da celeridade processual, encontra-se inviabilizado. Objetivando impugnar pronunciamento do Tribunal Regional do Trabalho da 2ª Região, a reclamante aponta contrariado o artigo 7º, inciso XXVI, da Constituição Federal.
+    Atentem para os pressupostos da reclamação e a limitação da causa de pedir nela veiculada. De manuseio excepcional, exige a demonstração da usurpação da competência do Supremo, desrespeito a decisão por si prolatada ou a verbete dotado de eficácia vinculante. Descabe utilizá-la como sucedâneo recursal.
+    Relativamente ao declarado no recurso extraordinário nº 590.415, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela que o cabimento da reclamação, objetivando arguir erronia quanto à observância da sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando apreciado agravo interposto contra eventual inadmissão de extraordinário. No caso, o requisito não foi atendido, porquanto direcionada a irresignação contra acórdão resultante do julgamento de recurso ordinário.
+    Quanto ao assentado na ação direta de inconstitucionalidade nº 4.364, é impróprio articular com a tese da eficácia transcendental dos motivos determinantes. No precedente, o Tribunal examinou a validade da Lei Complementar nº 459/2009, do Estado de Santa Catarina, sem nenhum vínculo com a situação concreta.
+    No tocante ao acórdão do segundo agravo regimental no recurso extraordinário nº 895.759/PE, a reclamante não participou da relação processual nele formada. Mostra-se inadequada a utilização da reclamação visando a uniformização de jurisprudência.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 26 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
