@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Mato Grosso do Sul, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão, assim ementado (e-STJ fl. 155):
+E M E N T A - AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - ILEGITIMIDADE ATIVA - AUTOR QUE NÃO INTEGRA O GRUPO MAGISTÉRIO - CARÊNCIA DE AÇÃO RECONHECIDA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - RECURSO PROVIDO.
+1. A ação coletiva movida pela Federação dos Trabalhadores em Educação de Mato Grosso do Sul (FETEMS) pleiteou a condenação do Estado de Mato Grosso do Sul ao pagamento da quantia despendida pelos servidores do grupo magistério, a título de custos operacionais dos empréstimos (taxas do próprio contrato, juros, IOF), que foram descontados dos valores repassados aos servidores.
+2. Conforme se verifica, para pleitear a execução da sentença coletiva genérica basta que a parte demonstre integrar o grupo magistério.
+3. Analisando detidamente os autos, verifica-se que o autor não exerce função do grupo magistério, logo, não se enquadra no rol previsto na ação coletiva, razão pela qual a carência de ação deve ser reconhecida.
+4. Recurso provido.
+Os aclaratórios foram rejeitados (e-STJ fls. 188/192).
+No especial obstaculizado, a parte recorrente aponta violação do art. 535, II, do CPC/1973, dos arts. 14, 489, § 1º, II e IV, 1.022, II, 1.026, § 2º, do CPC/2015 e do art. 97 do CDC, sustentando negativa de prestação jurisdicional, bem como sua legitimidade ativa para execução de sentença proferida em processo coletivo, considerados o pedido formulado em tal demanda e os comandos do título executivo.
+Apresentaram-se contrarrazões às e-STJ fls. 216/220.
+O recurso não foi admitido pelo Tribunal de origem, sendo os fundamentos da decisão atacados no presente agravo.
+Contraminuta consta às e-STJ fls. 400/404.
+Passo a decidir.
+A irresignação recursal não comporta acolhida.
+Quanto à alegada ofensa aos arts. 489, §1º, IV, e 1.022, II, e parágrafo único, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014.
+Quanto ao art. 1.026, § 2º, do CPC/2015, ausente o interesse recursal, uma vez que o acórdão que rejeitou os aclaratórios não aplicou multa quando da rejeição do recurso integrativo. A propósito:
+ADMINISTRATIVO. PRETENSÃO DEFERIDA PELA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE INTERESSE RECURSAL. DEFICIÊNCIA DO RECURSO ESPECIAL. SÚMULA 284/STF.
+1. As razões do especial fundam-se, essencialmente, na pretensão de incluir na base de cálculo do FGTS o aviso prévio indenizado, pretensão já deferida na origem, o que configura a ausência de interesse recursal.
+2. Inviável a manifestação quanto ao auxílio-creche e ao vale-transporte, diante da deficiência do recurso especial quanto à referidas rubricas. Incidência da Súmula 284/STF.
+Agravo interno improvido.
+(AgInt no REsp 1594157/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 09/06/2016, DJe 17/06/2016).
+RECURSO FUNDADO NO CPC/73. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 543-B, § 3º DO CPC. DEMONSTRAÇÕES FINANCEIRAS. ANO-BASE 1989. CORREÇÃO MONETÁRIA. IPC. ÍNDICES DE 42,72% EM JANEIRO E 10,14% EM FEVEREIRO. AUSÊNCIA DE INTERESSE RECURSAL.
+1. A Primeira Seção desta Corte, no julgamento do EREsp 1.030.597/MG, de relatoria do Ministro Mauro Campbell Marques, publicado em DJe 30/04/2014, procedeu à revisão de sua jurisprudência para adequá-la à orientação do STF, adotando o IPC como índices de correção monetária das demonstrações financeiras do ano-base de 1989, no percentual de 42,72% em janeiro de 1989 e reflexo lógico de 10,14% em fevereiro de 1989.
+2. Ausência de interesse recursal do agravante, consubstanciado no binômio necessidade/utilidade, seja para arguir a negativa de prestação jurisdicional, seja para sustentar divergência jurisprudencial quanto à aplicação do índice de 10,14% para fevereiro de 1989, porquanto o Tribunal de origem já havia reconhecido o IPC como índice aplicável à hipótese dos autos e a decisão agravada, ao negar seguimento ao recurso fazendário, manteve o referido acórdão.
+3. Agravo regimental não conhecido.
+(AgRg no REsp 1056574/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/05/2016, DJe 16/05/2016).
+No tocante às demais alegações, assim registrou o Tribunal de origem (e-STJ fl. 190, com destaques no original):
+O acórdão embargado possui fundamentação clara no sentido de que, no caso dos autos, foi verificada a ilegitimidade da parte autora (agravada/embargante), porquanto pretende, em verdade, apenas e exclusivamente embarcar no direito conferido à classe de professores representada pela FETEMS.
+Como consta no acórdão, a sentença proferida no processo de conhecimento identificou como titulares do direito perseguido na ação todos os servidores estaduais ativos e inativos do grupo do magistério de 2000 a 2003, contudo, não há que se confundir integrantes de tal grupo com o rol de representados pela Federação que ingressou com a demanda.
+O fato do artigo 2º do Estatuto da FETEMS prever que a mesma é constituída pelos Sindicatos dos Trabalhadores em Educação - Professor, Especialista em Educação e Funcionário Administrativo - das Redes Públicas Estadual e Municipal, não afasta o fato de que a sentença proferida na ação coletiva beneficiou somente os integrantes do grupo magistério.
+Reitere-se, novamente, o disposto na sentença proferida na Ação Civil Pública que ensejou o ajuizamento da presente liquidação:
+"Isso posto, julgo totalmente procedente o pedido inicial formulado pela FEDERAÇÃO DOS TRABALHADORES EM EDUCAÇÃO DE MATO GROSSO DO SUL - FETEMS/MS face do ESTADO DE MATO GROSSO DO SUL, para o fim de condená-lo à restituição dos custos das operações bancárias, consistentes nas taxas de contratos, IOF e juros contratuais, incidentes nos empréstimos realizados pelos servidores estaduais ativos e inativos do grupo magistério nos anos de 2000 a 2003, com a finalidade de recebimento de salários atrasados e gratificações natalinas.
+Sobre a condenação incidirão juros moratórios no importe de 6% ao ano, contados a partir do evento danoso e remuneratórios no importe de 12% ao ano. Tudo corrigido monetariamente pelo IGPM-FGV, a partir do desembolso.
+Inexistentes os requisitos previstos no artigo 47 do Código de Processo Civil, determino a exclusão do Banco do Brasil S.A. por ilegitimidade passiva, nos termos do artigo 267, VI, do Código de Processo Civil.
+Condeno o requerido ao pagamento das custas processuais e honorários advocatícios, que arbitro em 20% (vinte por cento) do valor atribuído à causa, observados os requisitos do art. 20, § 3º, "a" a "c" e § 4º, do Código de Processo Civil.
+Julgo o presente feito com apreciação de mérito, nos termos do artigo 269, I, do Código de Processo Civil." (g.n.)
+Qualquer insurgência quanto a este assunto deveria ter sido objeto de recurso na própria ação coletiva, sendo incabível alterar o que resta expressamente consignado na sentença transitada em julgado.
+Verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
