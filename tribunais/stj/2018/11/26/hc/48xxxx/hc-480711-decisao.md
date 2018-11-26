@@ -1,0 +1,20 @@
+DECISÃO
+BRUNO DE SOUSA SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0022859-64.2017-8.26.0050)..
+O paciente foi condenado "como incurso no artigo 157 § 2º, incisos I e II, por quatro vezes, na forma do art. 70, ambos do Código Penal, à pena de 6 anos e 8 meses de reclusão, mais o pagamento de 52 dias-multa, no valor mínimo legal permitido, em regime fechado" (fl. 4).
+A defesa assinala que "considerando a quantidade de pena" e a "ausência de circunstâncias judiciais desfavoráveis" (fl. 5), é de rigor a fixação do regime inicial semiaberto, uma vez que não foi apontada pelo acórdão justificativa concreta para "a imposição do regime mais gravoso" (fl. 6).
+Busca a fixação do regime inicial aberto.
+Decido.
+Consta dos autos que o paciente, em concurso com dois indivíduos não identificados, subtraiu, mediante emprego de armas de fogo, aparelho celular e dinheiro pertencentes às Casas Bahia, revólver pertencente à empresa Megavig Segurança e Vigilância Ltda, R$ 1.243,40 do Banco Bradesco e celular de propriedade de pessoa física.
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do CP, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+O paciente é primário e sua pena-base foi fixada no mínimo legal. A pena é superior a 4 anos e inferior a 8 anos. No entanto, o Tribunal de Justiça manteve o regime fechado fixado na sentença, haja vista a "gravidade concreta da conduta  ..  ante o emprego de armas de fogo para a prática do delito" e ameaça "à integridade das vítimas" (fl. 31).
+Descabe falar em ilegalidade na fixação do regime inicial fechado, pois as circunstâncias concretas do delito, praticado mediante o emprego de várias armas de fogo, para ameaçar a integridade de mais de uma pessoa (o vigilante [NOME] e o funcionário T.) evidenciam a maior gravidade da conduta.
+Deveras, "é lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do CP, desde que mediante fundamentação idônea (Precedentes)" (HC n. 430.226/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2018).
+Justifica-se a sujeição ao regime fechado com lastro em elementos concretos (emprego de várias arma de fogo, ameaça a mais de uma vítima) que indicam a maior reprovabilidade da conduta, a despeito desses não haverem sido empregados na fixação da pena-base, estabelecida no mínimo legal. Mutatis mutandis:
+4. A jurisprudência desta Corte, quanto à fixação do regime prisional, firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+5. No caso, embora o paciente seja primário, condenado à pena privativa de liberdade superior a 4 e não excedente a 8 anos, o regime mais gravoso foi estabelecido mediante fundamentação concreta - o acusado, na companhia de mais dois agentes, abordou a vítima com seu veículo em movimento, utilizando-se de armas de fogo.
+ ..
+(HC n. 424.365/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/12/2017).
+4. O Juiz de primeira instância - no que foi ratificado pela Corte de origem - fundamentou idoneamente a fixação do regime inicial fechado, visto que apontou circunstâncias concretas aptas a indicar a maior reprovabilidade da conduta do paciente, qual seja, o número excessivo de agentes, a utilização de várias armas de fogo e a prática da subtração em domicílio, durante o repouso noturno.
+ ..  (HC n. 305.854/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 3/8/2015)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
