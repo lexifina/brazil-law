@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 299, CAPUT, EM CONCURSO MATERIAL COM O 304, AMBOS DO CÓDIGO PENAL. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO FUNDAMENTO. EFEITO DA CONDENAÇÃO. ASSEGURAR O CUMPRIMENTO DA PENA. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTES DESTA CORTE SUPERIOR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INTELIGÊNCIA DA SÚMULA 52 DO STJ. PERDA DE OBJETO.
+Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Depreende-se dos autos que o paciente foi preso em flagrante em 16/3/2018 e denunciado pela prática, em tese, dos crimes descritos no art. 304 c/c o art. 297, caput, ambos do Código Penal, tendo a prisão sido convertida em preventiva na Vara do Plantão Judiciário de Guarulhos/SP em 17/3/2018 (Processo n. 0000647-15.2018.8.26.0535 - fls. 48/50).
+Contra tal decisum, a defesa impetrou o HC n. 2068468-55.2018.8.26.0000, tendo o Tribunal de origem, por unanimidade, denegado a ordem, em acórdão assim ementado (fl. 36):
+HABEAS CORPUS COM PEDIDO DE LIMINAR. REVOGAÇÃO DA PREVENTIVA. RÉU COM ANTECEDENTES. EXCESSO DE PRAZO NÃO CONFIGURADO. ORDEM DENEGADA.
+Sobreveio o presente writ, no qual o impetrante sustenta, em síntese a) falta de fundamentação idônea para justificar o encarceramento; b) a ausência dos requisitos legais autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; e c) excesso de prazo na formação da culpa.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, com expedição de alvará de soltura em seu favor.
+Liminar indeferida (fls. 302/305), informações prestadas (fls. 310/401 e 405/432), o Ministério Público Federal opinou pela extinção do processo, sem julgamento do mérito, pois prejudicado o exame do alegado constrangimento ilegal, ante a superveniência de sentença condenatória (fls. 434/436).
+É o relatório.
+O presente habeas corpus impetrado em benefício de [NOME], no qual se requer a revogação da prisão preventiva, perdeu seu objeto.
+Isso porque, as informações obtidas no endereço eletrônico do Tribunal a quo dão conta de que, em 8/10/2018, foi proferida sentença no Processo n. 0000647-15.2018.8.26.0535, condenando o ora paciente a cumprir a pena de 3 anos, 1 mês e 10 dias de reclusão, além de 30 dias-multa, como incurso nos arts. 299, caput, em concurso material com o 304, ambos do Código Penal. Na oportunidade, negou-lhe o recurso em liberdade.
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso, consubstanciado em novo fundamento, qual seja, à luz da condenação, para assegurar o cumprimento da pena, cujos requisitos específicos, desafiam, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017, AgRg no HC n. 366.680/SC, minha Relatoria, Sexta Turma, DJe 14/11/2016 e RHC n. 64.321/AL, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/10/2015.
+Noutro vértice, sobrevindo o julgamento da mencionada ação, perde o objeto a impetração que discute o excesso de prazo (Súmula 52 do STJ).
+À vista, pois, da nova realidade fática, a teor do disposto nos arts. 659 do Código de Processo Penal e 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
