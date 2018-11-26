@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de ELSON FERNANDES DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0001965-52.2017.8.26.0540).
+Consta dos autos ter sido o paciente condenado à pena de 2 anos e 4 meses de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 11 dias-multa, pela prática do crime previsto no art. 155, § 4º, III, do Código Penal, pois "subtraiu, em proveito próprio, mediante emprego de chave falsa, o veículo VW/Novo Gol 1.0, de cor cinza, placas [PLACA]-São Paulo/SP, avaliado em R$ 30.000,00  trinta mil reais " - e-STJ fl. 35.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao apelo (e-STJ fls. 27/31).
+Daí o presente writ, no qual sustenta a impetrante constrangimento ilegal no reconhecimento da qualificadora prevista no inciso III do § 4º do art. 155 do Código Penal, pois, "como é cediço, em se tratando de delito material, faz-se necessária, para a legítima inclusão da qualificadora de chave falsa na condenação, laudo técnico que indicasse sua efetiva utilização" (e-STJ fl. 4).
+Busca, assim, seja afastada a qualificadora em comento.
+Liminar indeferida às e-STJ fls. 53/54.
+Parecer ministerial pela denegação da ordem, nos termos da ementa ora transcrita (e-STJ fl. 59):
+HABEAS CORPUS. FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. PLEITO DE EXCLUSÃO DA QUALIFICADORA, ANTE A AUSÊNCIA DE PERÍCIA. CONFISSÃO DO ACUSADO E DEMAIS PROVAS QUE ATESTAM O USO DE CHAVE FALSA. POSSIBILIDADE. QUALIFICADORA MANTIDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+- Embora o art. 158, do CPP estabeleça que nas infrações que deixam vestígio seja necessário o exame de corpo delito, direto ou indireto, o art. 167 da mesma norma penal adjetiva flexibiliza a disposição contida no dispositivo precitado quando não mais seja possível o exame de corpo delito, por haverem desaparecido os vestígios, permitindo-se a comprovação da qualificadora, no caso de furto com emprego de chave falsa, com os depoimentos de testemunhas ou outros meios hábeis de prova.
+- Parecer pela denegação da ordem de habeas corpus.
+Informações prestadas às e-STJ fls. 67/113.
+É, em síntese, o relatório.
+Consoante se observa do relatório, busca a defesa seja afastada a qualificadora prevista no inciso III do § 4º do art. 155 do Código Penal.
+Acerca do assunto, destacou o Magistrado sentenciante que "o réu, interrogado em juízo, confessou o furto descrito na denuncia, dizendo que estourou o miolo do veículo e usou uma chave de fenda para ligá-lo, após ter instalado um módulo no veículo; sendo preso após cerca de trinta minutos da prática delitiva" (e-STJ fl. 22).
+O colegiado local, do mesmo modo, deixou assente que "não faz nenhum sentido o pleito da defesa, no sentido de se afastar a qualificadora relativa ao emprego de chave falsa, pois o próprio réu confessou que usou a chave de fenda, não só para abrir o carro, mas também para fazê-lo funcionar, sendo certo que o instrumento foi encontrado dentro do automóvel" (e-STJ fl. 30).
+Nesse palmilhar, observo que a orientação adotada na origem encontra-se em harmonia com a jurisprudência desta Casa de que, "não havendo hierarquia de provas, não há ilegalidade na condenação do agravante pelo crime de furto qualificado em razão do emprego de chave falsa, com base em provas outras que não a pericial (AgRg no AREsp n. 265.106/DF, relator Ministro Jorge Mussi, Quinta Turma, DJe 9/9/2013), em especial porque há confissão acerca da utilização de uma chave de fenda, não só para abrir o carro mas também para fazê-lo funcionar.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. REALIZAÇÃO DE PERÍCIA DA CHAVE. PRESCINDIBILIDADE, IN CASU. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA n.83/Superior Tribunal de Justiça - STJ. AGRAVO DESPROVIDO.
+- Não havendo hierarquia de provas, não há ilegalidade na condenação do agravante pelo crime de furto qualificado em razão do emprego de chave falsa, com base em provas outras que não a pericial (ut, AgRg no AREsp 265.106/DF, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 09/09/2013) .
+- Incide o Enunciado n. 83 do Superior Tribunal de Justiça - STJ quando a decisão proferida pelo Tribunal de origem encontra-se em harmonia com a jurisprudência desta Corte.
+Agravo regimental desprovido.
+(AgRg no AREsp 720.342/DF, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 04/08/2015, DJe 19/08/2015, grifei.)
+No mesmo sentido, o parecer ministerial (e-STJ fl. 61):
+É que, embora o art. 158, do CPP estabeleça que nas infrações que deixam vestígio seja necessário o exame de corpo delito, direto ou indireto, o art. 167 da mesma norma penal adjetiva flexibiliza a disposição contida no dispositivo precitado quando não mais seja possível o exame de corpo delito, por haverem desaparecido os vestígios, permitindo-se a comprovação da qualificadora, no caso de furto com emprego de chave falsa, com os depoimentos de testemunhas ou outros meios hábeis de prova.
+Ademais, deve integrar o arcabouço probatório produzido em desfavor do denunciado sua própria confissão, realizada em juízo, sob o crivo do contraditório, onde o acusado admite o emprego da chave falsa tanto para abrir o automóvel, quanto para iniciar seu funcionamento, mormente se o instrumento empregado é localizado no interior do veículo furtado.
+Sendo assim, não apresentando a defesa argumentos suficientes a modificar a conclusão alcançada na origem, que, inclusive, foi prolatada nos termos da jurisprudência do Superior Tribunal de Justiça, não encontro motivos para modificar o acórdão local combatido nesta oportunidade.
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
