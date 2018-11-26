@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto por [NOME], em face da decisão de fls. 2.549/2.555 (e-STJ), de lavra deste signatário, a qual reconsiderou o decisum de fls. fl. 2.530 (e-STJ), tornando-o nulo e, prosseguindo à análise do feito, negou provimento ao recuso especial, mantendo a competência da Justiça Federal, ante o fundamento da necessidade de participação da Caixa Econômica Federal na demanda.
+Impugnação às fls. 2.574/2.577 (e-STJ).
+É o relatório.
+Decido.
+1. Como é sabido, o Supremo Tribunal Federal, concluiu pela existência da repercussão geral da matéria constitucional versada no Recurso Extraordinário 827.996/PR, no que diz respeito se há interesse jurídico da Caixa Econômica Federal (CEF) para ingressar como parte nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação.
+O reconhecimento de repercussão geral, à tese apresentada no mencionado recurso, orienta o sobrestamento destes feitos, bem como instila a incidência do preceituado nos arts. 1.036 e 1.037, II, do CPC/2015, face ao possível juízo de retratação pela instância de origem.
+2. Ante o exposto, torno sem efeito a decisão de fls. 2.549/2.555 (e-STJ) e julgo prejudicada a petição PET AGINT 00585914/2018. Por conseguinte, determino a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo do Recurso Extraordinário n.º 827.996/PR e eventual retratação prevista na sistemática dos arts. 1.040, II e 1.041, ambos do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
