@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. MEDIDA CAUTELAR CRIMINAL. DECISÃO QUE DEFERIU LEVANTAMENTO DE SEQÜESTRO DE VALORES. PRESENÇA DOS REQUISITOS PARA MANUTENÇÃO DA MEDIDA ASSECURATÓRIA. NÃO CONFIGURAÇÃO. AUSÊNCIA DE INDÍCIOS VEEMENTES DA PROVENIÊNCIA ILÍCITA DOS BENS (ART. 126 CPP). DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL CONHECIDO E NÃO PROVIDO.
+1) Inexistindo nos autos indícios veementes de que os valores seqüestrados em contas bancárias das empresas agravadas tenham proveniência ilícita, deve ser levantada a medida assecuratória de seqüestro deferida com base nesse fundamento, conforme art. 126 do Código de Processo Penal.
+2) Agravo Regimental conhecido e não provido." (e-STJ, fl. 375).
+Nas razões recursais, o Ministério Público aponta violação dos arts. 132 do CPP e 4º e seguintes da Lei n. 9.613/98. Aduz, em resumo, que a liberação dos valores apreendidos não foi medida adequada, ante a existência de fortes indícios quanto à origem ilícita, bem como a complexidade da causa.
+Assim, busca a manutenção do bloqueio.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 431-436).
+É o relatório.
+Decido.
+Ratificando as razões apresentadas em decisão monocrática, o Órgão julgador de origem concluiu não estarem devidamente demonstrados os requisitos do art. 126 do CPP, notadamente os indícios veementes da proveniência ilícita dos bens:
+"À fundamentação já consignada na decisão agravada, acrescento que, inclusive, se verifica uma dificuldade com provas e informações constantes dos autos, para identificar as partes efetivamente lesadas e possíveis beneficiários de um futuro ressarcimento, a partir dos valores bloqueados.
+Dessa forma, não evidenciados os indícios necessários de que trata o art. 126 do Código de Processo Penal, para justificar a decretação do seqüestro, entendo que deve ser mantida a decisão agravada, devendo ser procedida apenas uma alteração formal nesse provimento judicial, no sentido de que os alvarás para levantamento das quantias liberadas sejam expedidos de forma que tais valores sejam transferidos para as contas bancárias das quais foram originariamente seqüestrados, tendo em vista ser considerável o montante a ser liberado." (e-STJ, fl. 384)
+Com efeito, rever a adequação ou não da medida assecuratória, conforme pretende o recorrente, demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula 7/STJ.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. MANDADO DE SEGURANÇA. CABIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+ ..
+2. Concluindo o Tribunal Regional cabível o mandamus porque teratológica a decisão que determinou o bloqueio das contas bancárias da empresa impetrante, uma vez que as circunstâncias de fato e as provas dos autos não autorizavam a medida constritiva, a inversão do decidido esbarra no enunciado nº 7/STJ.
+3. Agravo regimental a que se nega provimento." (AgRg no REsp 1.364.809/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/05/2014, DJe 21/05/2014)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TEMPESTIVIDADE. CONSUMAÇÃO DA INTIMAÇÃO ELETRÔNICA DO MINISTÉRIO PÚBLICO PELO DECURSO DE PRAZO DO ART. 5º DA LEI N. 11.419/2006. TERMO INICIAL. PRIMEIRO DIA APÓS A DISPONIBILIZAÇÃO DA INTIMAÇÃO NO SISTEMA. ART. 22, I, DA RESOLUÇÃO STJ/GP N. 10/2015. SEQUESTRO DE BENS. MANDANDO DE SEGURANÇA. DECADÊNCIA. FUNDAMENTOS INATACADOS. SÚMULAS N. 283 E 284 DO STF. TERATOLOGIA DA DECISÃO QUE DECRETOU O SEQUESTRO DOS BENS. MITIGAÇÃO EXCEPCIONAL DO ENTENDIMENTO DA SÚMULA N. 267 DO STF. POSSIBILIDADE. INDÍCIOS DA ORIGEM ILÍCITA DOS BENS SEQUESTRADOS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DE FLS. 621-631 PROVIDO. AGRAVO REGIMENTAL DE FLS. 604-615 NÃO PROVIDO.
+(..)
+3. Admite-se, excepcionalmente, o mandado de segurança como sucedâneo recursal, na hipótese em que há ato coator ilegal, abusivo ou teratológico. Precedente.
+4. A decisão que decretou o sequestro dos bens na origem não apresenta os indícios veementes da proveniência ilícita dos bens, conforme determinação do art. 126 do CPP. Nos termos em que foi estabelecida, o magistrado presume indistintamente que todo bem pertencente a qualquer dos acusados provém de origem ilícita e, por essa razão, estaria sujeito à medida constritiva. Agiu corretamente o Tribunal de origem ao excepcionar o entendimento da Súmula n. 267 do Supremo Tribunal Federal e processar o mandado de segurança.
+5. A verificação da presença de indícios da origem ilícita dos bens dos recorridos demandaria o reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial pelo entendimento da Súmula n. 7 do STJ.
+6. Agravo regimental de fls. 621-631 provido, para reconhecer a tempestividade do agravo regimental de fls. 604-615. Agravo regimental de fls. 604-615 não provido." (AgRg no AgRg no REsp 1.178.070/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/05/2017, DJe 15/05/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
