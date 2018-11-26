@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado de Pernambuco, que negou admissibilidade a recurso contra acórdão assim ementado:
+RECURSO DE AGRAVO. AUSÊNCIA DE REQUISITO FORMAL. FALTA DE DIALETICIDADE. TERMINATIVA POR INADMISSIBILIADE RECURSAL. RECURSO DE AGRAVO. REPETIÇÃO DE TODA TESE MERITÓRIA EXPOSTA. AUSENCIA DE COMBATE AOS FUNDAMENTOS DA DECISÃO. RECURSO INADMITIDO.
+1. Verifica-se que o ora recorrente não impugnou especificamente os fundamentos da decisão vergastada que pretendia ver reformada, visto que, sua pretensão limita-se a discussão de direito, não opondo-se diretamente sobre a ausência de preenchimento dos requisitos de admissibilidade recursal.
+2. Frisa-se que a decisão terminativa proferida no Recurso de Agravo foi pela inadmissibilidade do recurso por entender que não restou atendido o requisito formal de admissibilidade, qual sejam, as razões de ataque.
+3. Desta feita, sobre tais fundamentos, o recurso silenciou, limitando-se a atacar, sofisticamente, questões do próprio mérito, sendo inócuas a infirmar a decisão vergastada neste ponto.
+4. Ausente a impugnação aos fundamentos adotados, inadmissível é o recurso.
+5. À unanimidade de votos, não se conheceu do presente recurso por manifesta inadmissibilidade.
+Embargos de declaração rejeitados.
+A decisão agravada negou seguimento ao especial sob a compreensão de que
+a parte recorrente, ao paramentar suas razões de reforma na matéria referente à estabilidade financeira sobre a gratificação de incentivo e parcelas de trato, sucessivo, aponta no recurso excepcional matéria diferente da discutida no acórdão recorrido. Trata-se, portanto, de caso em que as razões recursais são dissociadas da decisão recorrida, sendo, assim, deficiente a fundamentação do recurso em análise, o que atrai a incidência do enunciado nº 284 da Súmula do STF, aplicável por analogia.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque "o trancamento do recurso especial não se sustenta em qualquer motivação válida, impondo seja provido este agravo para que se proceda ao processamento do recurso especial".
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não pode ser conhecido, pois a parte agravante não cuidou de impugnar, em bases concretas e específicas, bastante fundamento da decisão agravada.
+Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Bem assim, deve ser observada a Súmula nº 182/STJ que dispõe: "É inviável o agravo do art. 545 do CPC 1973  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalto que a impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido.
+Ilustrativamente, os seguintes precedentes:
+É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016).
+À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia (AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/08/2015).
+Ainda que assim não fosse, sabe-se que o recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+A impugnação deve ser específica.
+É certo na jurisprudência desta Corte que não se considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+As razões recursais, em suma, não podem estar aquém do necessário para se chegar a conclusão contrária ao que decidido na Corte a quo - como ocorrido.
+É de inequívoca clareza a deficiência de fundamentação do recurso especial, pois estão as razões recursais, por falta de impugnação específica, aquém do necessário para se chegar a conclusão contrária ao juízo e às premissas jurídicas assentadas no acórdão objurgado.
+Impositiva, por consectário, seria a aplicação da Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
