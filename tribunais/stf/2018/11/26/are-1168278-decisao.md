@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de sonegação fiscal. No extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação do artigo 5º, incisos II, XXXV e LV, da Constituição Federal. Alega desconsiderado o disposto no verbete vinculante nº 24 da Súmula do Supremo. Aduz não estar autorizada a persecução penal contra a pessoa física se a constituição e o lançamento de crédito tributário, em procedimento administrativo fiscal, se fizeram contra pessoa jurídica.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    No tocante à violação ao princípio do devido processo legal e da ampla defesa, porque não lhe teria sido oportunizada a intimação pessoal, mas apenas da empresa, para exercer sua defesa no procedimento administrativo fiscal, não há razão ao Apelante.
+    Contrariamente ao alegado pelo Apelante, não padece de nulidade o procedimento administrativo fiscal, porquanto não teria havido a intimação pessoal dele, sócio-administrador da empresa.
+    O procedimento administrativo, fiscal ocorreu em desfavor da empresa e não do Apelante, de forma que é suficiente a intimação da pessoa jurídica em seu domicílio fiscal, registrado perante a Junta Comercial, não tendo havido cerceamento de defesa, visto que o Recorrente tinha ciência da suspeita de sonegação.
+    No caso, empresa foi intimada em seu domicílio fiscal, conforme cópia da carta com aviso de recebimento de fl. 162 do Apenso 1, não havendo, portanto, qualquer nulidade, visto que a firma da qual o Apelante era o sócio administrador tinha conhecimento da existência de um procedimento administrativo fiscal em seu desfavor, chegando, inclusive, a requerer parcelamento do débito, que não chegou a se concretizar - fls. 166/167, do Apenso I.
+    Ressalte-se que as notificações com aviso de recebimento são claras em levar ao conhecimento do destinatário a existência de um procedimento fiscal, e se ele não apresentou a defesa, o fez por sua única vontade, já que devidamente ciente de que contra a sua empresa haviam sido lavrados autos de infração.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
