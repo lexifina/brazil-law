@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO PRIVILEGIADO. AFASTAMENTO DA EQUIPARAÇÃO COM CRIMES HEDIONDOS. ORDEM CONCEDIDA PELA SEXTA TURMA NO HC N.º 455.088/SP. AUSÊNCIA SUPERVENIENTE DE INTERESSE PROCESSUAL. PEDIDO DE HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DELNI DE SOUZA FORTE DE MEDEIROS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n.º 9002823-42.2017.8.26.0050.
+Consta dos autos que o Juízo das Execuções Penais concedeu à Paciente, que cumpre pena de 15 (quinze) anos, 5 (cinco) meses e 20 (vinte) dias de reclusão pela prática de dois crimes de tráfico de drogas e associação ao tráfico, progressão ao regime semiaberto.
+Irresignado, o Ministério Público interpôs agravo de execução, ao qual o Tribunal de origem deu provimento, em acórdão assim ementado (fl. 17):
+"Ementa: Agravo em execução. Progressão de regime. Benefício deferido. Insurgência ministerial. Acolhimento. Requisito temporal não alcançado. A aplicação da redução da pena, prevista no artigo 33, § 4o, da Lei nº 11.343/2006, não afasta a hediondez do delito. Precedente do C. STF que não é dotado de efeito vinculante. Necessidade de retificação do cálculo de penas que considerou a pena do tráfico privilegiado (execução nº 1) como crime comum. Sentenciada que, ademais, cumpre longa pena pela prática de delitos que revelam forte tendência à criminalidade e que registra falta disciplinar em seu prontuário. Exame criminológico favorável que não vincula o Magistrado. Precedente do STF. Circunstâncias que, em princípio, evidenciam que a apenada não se encontra devidamente preparada para usufruir de condições mais amenas, sendo temerária sua progressão ao regime semiaberto, em que a vigilância é sabidamente menor, com risco de evasão e retorno à delinquência. Recurso provido, determinando-se a retificação do cálculo de penas e a recondução da sentenciada ao regime fechado, até que preencha os requisitos para a progressão."
+Nas razões do writ, a Defensoria Pública de São Paulo argumenta que o Supremo Tribunal Federal, no julgamento do HC n.º 118.533/MS, afastou a hediondez do crime de tráfico privilegiado (art. 33, § 4.º, da Lei n.º 11.343/2006), o que veio a modificar o entendimento consolidado no Superior Tribunal de Justiça, inclusive com o cancelamento da Súmula n.º 512.
+Requer, liminarmente e no mérito, seja cassado o acórdão proferido pelo Tribunal local, "retificando-se cálculo de penas do paciente" (fl. 10).
+O pedido liminar foi indeferido pela Ministra MARIA THEREZA DE ASSIS MOURA, anterior Relatora deste processo (fls. 32-36).
+As informações foram juntadas às fls. 42-54 e 56-69.
+O Ministério Público Federal opinou pela prejudicialidade do writ (fls. 71-76).
+É o relatório. Decido.
+Em sessão de julgamento realizada em 18/09/2018, a Sexta Turma do Superior Tribunal de Justiça concedeu a ordem no HC n.º 455.088/SP, o qual tinha o mesmo objeto e o mesmo Paciente do presente writ.
+Confira-se a ementa do acórdão:
+"HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO PRIVILEGIADO (ART. 33, § 4.º, DA LEI N.º 11.343/2006). AUSÊNCIA DE HEDIONDEZ. DECISÃO DO SUPREMO TRIBUNAL FEDERAL NO HC N.º 118.533/MS. CANCELAMENTO DA SÚMULA N.º 512/STJ. PRESENÇA DOS REQUISITOS OBJETIVO E SUBJETIVO PARA A PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO FAVORÁVEL. BOM COMPORTAMENTO CARCERÁRIO. PARECER FAVORÁVEL DO MINISTÉRIO PÚBLICO FEDERAL. ORDEM CONCEDIDA.
+1. O Plenário do Supremo Tribunal Federal decidiu que "o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos" (HC n.º 118.533/MS, Relatora: Min. CÁRMEN LÚCIA, Tribunal Pleno, publicado em 19/09/2016).
+2. Embora não se trate de precedente formalmente vinculante, a reverência ao dever de estabilização dos precedentes judiciais (art. 926 do Código de Processo Civil de 2015), por intermédio do qual se otimizam os princípios da segurança jurídica, da isonomia e das expectativas asseguradas, conduziu a Terceira Seção do Superior Tribunal de Justiça, em sistemática de recursos repetitivos (Tema n.º 600), a modificar jurisprudência até então consolidada no Tribunal, no sentido da hediondez do tráfico privilegiado, com consequente cancelamento da Súmula n.º 512/STJ.
+3. Hipótese em que o Juízo das Execuções Penais salientou, igualmente, a presença do requisito subjetivo, apontando o bom comportamento carcerário e a existência de exame criminológico favorável à progressão de regime.
+4. Parecer favorável do Ministério Público Federal.
+5. Ordem concedida, a fim de restabelecer a decisão do Juízo das Execuções Penais que concedeu à Paciente progressão ao regime semiaberto."
+Nesses termos, verifica-se a perda superveniente de interesse processual.
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
