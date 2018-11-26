@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por VILLEFER COMÉRCIO DE PRODUTOS SIDERÚRGICOS LTDA. contra decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina (e-STJ, fls. 300-302), que inadmitiu o recurso especial apresentado, com base nos seguintes motivos:
+i) aplicação das Súmulas 7 e 83 do STJ, ante a conformidade da decisão recorrida, baseada no acervo fático-probatório, com a jurisprudência do STJ, no tocante à comprovação do requisito da ação monitória consistente na prova escrita (cf. AREsp 1.088.994/MG, DJe 23/6/2017; Aglnt no AREsp 1.018.436/RS, DJe 23/5/2017; e AgRg no REsp 1.535.787/PR, DJe 15/9/2016); e
+ii) ausência de demonstração do dissídio jurisprudencial, pela falta de cotejo analítico entre os acórdãos confrontados, devido à mera indicação de ementas de julgados paradigmas, e a incidência da Súmula 7/STJ.
+Nas razões do presente agravo (e-STJ, fls. 306-311), a parte agravante assevera:
+a) a inexistência de consonância entre o acórdão recorrido e o entendimento do STJ sobre o requisito da prova escrita, defendendo a aptidão das duplicatas acompanhadas dos instrumentos de protesto, por serem estes dotados de fé pública; e
+b) a realização de cotejo analítico nas razões do recurso especial, sob o argumento de ter realizado o cotejo por meio de destaque de semelhanças dos casos analisados e indicado repositório oficial do STJ.
+Contraminuta não apresentada (e-STJ, fl. 318).
+Brevemente relatado, decido.
+À luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008; AgInt no AREsp 884.901/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; e AgRg no AREsp 773.710/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016).
+Além disso, a impugnação ao óbice recursal consistente na conformidade da decisão recorrida com a jurisprudência do STJ (Súmula 83/STJ) não prescinde da comprovação da ausência de pacificação do tema nesta Corte Superior no mesmo sentido da decisão recorrida, da inaplicabilidade ou da superação da orientação dos precedentes utilizados como motivo, mediante a indispensável referência a julgados do STJ contemporâneos ou posteriores àqueles que fundamentam o decisum impugnado (v.g. AgRg no AgRg no AREsp 600.526/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/9/2015, DJe 10/2/2016; e AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 3/11/2011, DJe 11/11/2011).
+No caso dos autos, a parte agravante não combateu precisamente nenhum dos fundamentos da decisão agravada.
+Isso porque, como visto do relatório, houve apenas a afirmação genérica de ausência de conformidade do acórdão recorrido com a jurisprudência dessa Corte, sem nenhuma demonstração nesse sentido, nos termos já declinados, para afastar a Súmula 83/STJ.
+Além disso, não houve nenhum ataque ao emprego da Súmula 7/STJ, seja em relação à demonstração do requisito da prova escrita, seja em relação ao dissídio jurisprudencial.
+Por fim, não foi demonstrado o cotejo analítico, por não ter sido indicado o excerto da peça do recurso especial onde poderia ser encontrada a comparação entre as situações fáticas dos casos envolvidos, além da simples citação de ementas.
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
