@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de IDEMAR MIRANDA DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o paciente foi condenado à pena de 57 (cinquenta e sete) anos de reclusão, em regime inicial fechado, como incurso nas sanções do artigo 121, § 2º, incisos II e IV, c/c o artigo 69, ambos do Código Penal.
+No julgamento da apelação, o Tribunal de origem deu provimento parcial ao recurso da defesa, a fim de redimensionar a reprimenda para 42 (quarenta e dois) anos de reclusão, mantendo-se, no mais, a sentença condenatória.
+Sustenta o impetrante a existência de constrangimento ilegal ao argumento de que os delitos pelo quais o paciente fora condenado são da mesma espécie, praticados através de mais de uma ação ocorrida em semelhança de tempo, lugar e forma de execução.
+Defende a existência de constrangimento ilegal, pois resta incontroverso o preenchimento dos requisitos previstos no artigo 71 do Código Penal para o reconhecimento da continuidade delitiva.
+Requer a concessão da ordem para afastar a ilegalidade apontada.
+A liminar foi indeferida à fl. 158.
+O MPF, às fls. 162-166, manifestou-se pela denegação da ordem.
+É o relatório.
+Cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal.
+Insta consignar que nos termos da jurisprudência vigente nesta Corte Superior, é incabível, pela via do habeas corpus, realizar-se análise acerca do preenchimento dos requisitos necessários para a configuração da continuidade delitiva, pois impossível, por meio do mandamus, o revolvimento do contexto fático-probatório.
+A propósito, confiram-se os seguintes precedentes oriundos das Turmas que compõem a Terceira Seção:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. ROUBOS CIRCUNSTANCIADO. CONTINUIDADE DELITIVA. RECONHECIMENTO. IMPOSSIBILIDADE. EXAME DOS REQUISITOS DO ART. 71 DO CÓDIGO PENAL. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou o entendimento de que, para a caracterização da continuidade delitiva, é necessário, além da comprovação dos requisitos objetivos (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução), a unidade de desígnios, ou seja, vínculo subjetivo havido entre os crimes de mesma espécie.
+2. O Tribunal de origem afastou a existência de continuidade delitiva entre os delitos de roubo praticados pelo paciente, destacando a ausência de unidade de desígnios, concluindo que a hipótese dos autos nada mais é do que a típica figura da reiteração criminosa.
+3. O habeas corpus é via inadequada para afastar as conclusões das instâncias ordinárias em relação ao preenchimento dos requisitos para o reconhecimento do crime continuado (art. 71 do Código Penal), uma vez que tal providência demanda a análise aprofunda de todo o conjunto fático-probatório. (grifo nosso)
+4. Habeas corpus não conhecido.
+(HC 303.815/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/09/2016, DJe 20/09/2016)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. PACIENTE GABRIEL: DOSIMETRIA. CONCURSO MATERIAL DE CRIMES. RECONHECIDO. CONTINUIDADE DELITIVA. APLICAÇÃO. INVIABILIDADE. DESÍGNIOS AUTÔNOMOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PACIENTES MURILO: REGIME INICIAL FECHADO. PENA DEFINITIVA SUPERIOR A 4 ANOS. ELEMENTO CONCRETO. ADEQUAÇÃO. PACIENTE GABRIEL: REGIME INICIAL FECHADO. PENA DEFINITIVA SUPERIOR A 8 ANOS. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Este Sodalício pacificou sua jurisprudência no sentido de que o reconhecimento da continuidade delitiva demanda o preenchimento cumulativo dos requisitos objetivos e subjetivos, negando a concessão do benefício quando evidenciada a presença de desígnios autônomos, como no caso dos autos. Para se concluir de maneira diversa demandaria revolvimento fático-probatório, não condizente com a via do writ, eis que as instâncias de origem concluíram pela existência de desígnios autônomos no que se refere aos atos praticados pelo paciente Gabriel quanto aos dois fatos. (grifo nosso)
+3. Não obstante a estipulação da reprimenda final em patamar inferior a 8 (oito) anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elementos concretos, a despeito desses não terem sido empregados na fixação da pena-base, estabelecida no mínimo legal. Na espécie, as instâncias de origem registraram particularidade fática relativa ao modus operandi, que traz para o palco dos acontecimentos um plus de reprovabilidade, impedindo o abrandamento do regime inicial de cumprimento da pena. Quanto ao paciente Gabriel, não é cabível a aplicação do regime semiaberto por ter resultado a sua pena definitiva em quantum superior a 8 anos de reclusão.
+4. Habeas corpus não conhecido.
+(HC 359.513/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/08/2016, DJe 24/08/2016)
+Desse modo, com amparo no artigo 34, XX, do RI/STJ, não se conhece do habeas corpus.
+Publique-se.
