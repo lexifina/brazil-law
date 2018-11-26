@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou a sentença quanto à extensão da gratificação por desempenho de atividade tributária – GDAT aos inativos, fixando o percentual em 30%. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, incisos XXXV, XXXVI e LV, 37 , inciso XV e 40 § 3º e § 8º da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração por negativa de prestação jurisdicional. Aponta a ausência de pronunciamento do Tribunal sobre o previsto no artigo 184 da Lei nº 1.711/52
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica. Ressalto que a questão relativa à incidência do percentual previsto na Lei 1.711/52 sobre a gratificação sequer foi objeto da apelação.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo interposto pelo Sindicato Nacional dos Auditores Fiscais da Receita Federal do Brasil e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
