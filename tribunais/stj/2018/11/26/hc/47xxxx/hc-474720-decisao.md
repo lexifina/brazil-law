@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de CAIO CEZAR DE VASCONCELOS, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito previsto no artigo 33, caput, da Lei 11.343/06.
+A defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da decisão que decretou a prisão preventiva do paciente. O pedido foi denegado em v. acórdão assim ementado:
+"Habeas Corpus". Tráfico de drogas. Alegação de excesso de prazo na formação da culpa. Processo em regular andamento. Princípios da razoabilidade e proporcionalidade. Inexistência de desídia do julgador singular. Constrangimento ilegal não verificado de plano. Ordem denegada liminarmente, com recomendação" (fl. 173).
+Daí o presente mandamus, no qual o impetrante repisa os argumentos lançados no writ originário, reafirmando a existência de constrangimento ilegal em razão do excesso de prazo para a formação da culpa.
+Requer, assim, o relaxamento da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 184-185.
+As informações processuais foram prestadas às fls. 190-206.
+O Ministério Público Federal manifestou-se, às fls. 209-214, pelo não conhecimento do writ, em parecer ementado nos seguintes termos:
+"Penal e Processual Penal. Habeas corpus substitutivo de recurso ordinário. Não cabimento. Tráfico de drogas. Prisão preventiva. Gravidade concreta, quantidade e variedade dos entorpecentes e risco de reiteração. Excesso de prazo não configurado.
+Inexistência de constrangimento ilegal. Habeas corpus que não deve ser conhecido, descabido também a concessão de uma ordem ex officio" (fl. 209).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Não é, contudo, o caso dos autos.
+Inicialmente ressalta-se que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais.
+A propósito, esta Corte firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos. Sobre o tema, os seguintes precedentes:
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. RÉU CONDENADO. REGIME FECHADO. NEGATIVA DE RECORRER EM LIBERDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+4. Consoante pacífico entendimento desta Corte, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva.
+5. A lei processual não estabelece um prazo para o julgamento do recurso de apelação criminal, que deve ser analisado à luz do princípio da razoabilidade, a fim de se verificar a ocorrência ou não de constrangimento ilegal. Sabe-se que eventual atraso no andamento do feito, por si só, não caracteriza excesso de prazo.
+6. No caso, os autos foram distribuídos 6/4/2018, de modo que, desta data até o atual estágio do processo, não há falar em desídia por parte do Poder Judiciário ou em demora injustificada no andamento do feito, estando incluído no índice da pauta de 19/9/2018.
+7. Habeas corpus não conhecido." (HC 454.387/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 26/09/2018, grifei).
+"RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUDIÊNCIA DE CUSTÓDIA NÃO REALIZADA. ILEGALIDADE. NÃO OCORRÊNCIA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO VERIFICAÇÃO. RECURSO NÃO PROVIDO.
+1. Embora seja prevista a realização de audiência de custódia "às pessoas presas em decorrência do cumprimento de mandados de prisão cautelar ou definitiva" (art. 13 da Resolução n. 213/2015 do Conselho Nacional de Justiça), a não ocorrência de tal ato somente acarreta a nulidade da custódia preventiva quando evidenciado o desrespeito às garantias processuais e constitucionais, o que não ocorreu na hipótese.
+2. É assente na doutrina e na jurisprudência pátrias que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+3. A decisão que decretou a custódia preventiva evidenciou o fundado risco de reiteração delitiva, ante os indícios de o recorrente ser um dos integrantes de organização criminosa armada voltada à prática do tráfico de drogas, com o envolvimento de adolescentes nas condutas perpetradas. O acusado, em tese, atuaria diretamente na venda da droga no varejo.
+4. Fica afastada, ao menos por ora, a alegação de excesso de prazo, sobretudo porque se trata de feito complexo, com 26 réus e diversidade de advogados.
+5. O Juízo de primeiro grau dirige o andamento do feito com a diligência necessária e já determinou a intimação do órgão ministerial para que se manifeste sobre a notícia de que alguns acusados permanecem foragidos e de que outros ainda não apresentaram suas defesas preliminares, a evidenciar a busca de celeridade na tramitação.
+6. Recurso não provido." (RHC 92.689/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 12/03/2018, grifei).
+In casu, a alegação de excesso de prazo para a formação da culpa encontra-se, por ora, superada, tendo em vista que houve o encerramento da instrução criminal, sendo que o feito encontra-se em fase de alegações finais, consoante informações colhidas no sítio eletrônico do eg. Tribunal de origem (www.tjsp.jus.br), na Ação Penal n. 1502133-55.2018.8.26.0536/SP.
+Destaca-se o seguinte trâmite processual, verbis:
+"31/10/2018: Alegações Finais Juntadas Nº Protocolo: WGJA.18.70133953-2 Tipo da Petição: Alegações Finais Data:31/10/2018 19:32"
+Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Nesse sentido, os seguintes precedentes:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO ENCERRADA. APLICAÇÃO DA SÚMULA 52/STJ. NEGATIVA DE AUTORIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ..
+3. Quanto ao aventado excesso de prazo, verifica-se que a questão não foi objeto de análise e julgamento pelo Tribunal de origem, o que impede sua apreciação por esta Corte, sob pena de indevida supressão de instância.
+4. Ademais, a instrução criminal já foi encerrada e os autos encontrando-se com vista às partes para apresentação de memoriais, atraindo a incidência da Súmula 52 do STJ, que dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+ ..
+6. Habeas corpus não conhecido" (HC 293.107/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 2/2/2016).
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. PERICULOSIDADE. MODUS OPERANDI. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. ALEGADO EXCESSO DE PRAZO DA INSTRUÇÃO. SÚMULA 52/STJ. INOCORRÊNCIA. COMPLEXIDADE DO FEITO. RAZOABILIDADE. MEDIDAS CAUTELARES. INAPLICABILIDADE. RECURSO ORDINÁRIO DESPROVIDO.  ..
+IV - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais (precedentes do STF e do STJ).
+V - A instrução criminal foi encerrada, consoante informações do d. Juízo processante, razão pela qual fica superada a alegação de excesso de prazo para a instrução criminal, nos termos do Enunciado n. 52, da Súmula/STJ.
+VI - Ademais, malgrado o atraso na instrução criminal, ele se justifica notadamente pelas peculiaridades da causa, como a complexidade do feito, razão pela qual não se vislumbra, na hipótese e por ora, o alegado constrangimento ilegal consubstanciado no excesso de prazo.
+Recurso ordinário desprovido" (RHC 58.140/GO, Quinta Turma, de minha relatoria, DJe 30/9/2015).
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. (1) IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ORDINÁRIO. IMPROPRIEDADE DA VIA ELEITA. (2) EXCESSO DE PRAZO. VERBETE SUMULAR 52 DA SÚMULA DESTA CORTE. (3) PRELIMINARES. ABERTURA DE VISTA PARA O MINISTÉRIO PÚBLICO. CONSTRANGIMENTO. AUSÊNCIA. RESPEITO AO PRINCÍPIO DO CONTRADITÓRIO. PRECEDENTES DESTA CORTE E DO STF. (4) RECEBIMENTO DA DENÚNCIA DURANTE O RECESSO FORENSE. PLANTÃO JUDICIÁRIO. ILEGALIDADE NÃO EVIDENCIADA. (5) NULIDADE DA PUBLICAÇÃO DA AUDIÊNCIA DE OITIVA DE TESTEMUNHA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. (6) NULIDADE EM RAZÃO DO RECEBIMENTO DA DENÚNCIA OCORRIDO ANTERIORMENTE À CITAÇÃO PARA APRESENTAÇÃO DA DEFESA PRELIMINAR. RITO DA LEI N. 11.343/06 NÃO OBSERVADO. CASO CONCRETO. RECEBIMENTO DA DENÚNCIA RATIFICADO. OPORTUNIDADE DA DEFESA APRESENTAR DEFESA PRELIMINAR ANTERIORMENTE À ANÁLISE DE POSSÍVEL ABSOLVIÇÃO SUMÁRIA. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO RESPEITADOS. ILEGALIDADE NÃO EVIDENCIADA. (7) ORDEM NÃO CONHECIDA.
+ ..
+2. A teor da Súmula 52 desta Corte, uma vez proferida a sentença, resta superada a alegação de excesso de prazo da prisão cautelar.
+ ..
+7. Ordem não conhecida" (HC 252.015/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 27/6/2014, grifei).
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+P. e I.
