@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Porto Alegra/RS, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 478/479):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA TRIBUTÁRIA. AGRAVO RETIDO. PROVA ORAL. DESNECESSIDADE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO.
+Sendo o juiz o destinatário da prova, a ele incumbe a formação de seu convencimento, cabendo-lhe a condução do feito nos termos dos artigos 130 e 131. do CPC. Se, à vista das provas documentais carreadas ao feito lhe pareceu dispensável a realização de demais provas (como a prova oral, v.g.), não há cogitar de cerceamento de defesa.
+- ISS. EXPORTAÇÃO DE SERVIÇOS. GESTÃO DE FUNDOS DE INVESTIMENTOS SITUADOS NO EXTERIOR. RESULTADO DO SERVIÇO VERIFICADO NO EXTERIOR. PRECEDENTES DO TJRS.
+Tratando-se de empresa que presta serviços atuando na gestão de fundos de investimentos situados no exterior, onde se operam os efeitos decorrentes de tais atividades e se verifica o resultado da prestação de serviços para os quais fora contratada, não incide o ISS, nos termos do art. 156, III, c/c § 3º, inciso II, da CF/88, e art. 156, 2o, I, c/c parágrafo único da LC 116/03.
+- REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. AUSENTE PROVA DE ASSUNÇÃO DO ENCARGO FINANCEIRO DO IMPOSTO.
+Nos termos do art. 166, do CTN, "a restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove haver assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la".
+Caso em que a demandante não logrou evidenciar ter assumido o encargo financeiro do imposto. Não há prova de que os valores pagos pelo cliente referem-se ao montante em que já deduzido o ISSQN.
+Referência em algumas notas fiscais ao termo "valor aproximado dos tributos" que induz à presunção de que o valor relativo ao ISS teria sido repassado ao contratante do serviço. Inviável, portanto, o acolhimento do pedido de repetição de indébito. Precedente do TJRS.
+AGRAVO RETIDO E APELOS DESPROVIDOS.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 2º da Lei Complementar 116/2003, sustentando, em síntese, que "o caso em exame não retratada situação de exportação de serviço para o exterior, sendo cabível o presente recurso especial, a fim de ser aplicada a devida interpretação da legislação infraconstitucional, no sentido de ser reconhecido a competência do Município de Porto Alegre para tributar os serviços objetos da ação" (fl. 504).
+Requer, por fim, o provimento do presente recurso.
+Foram apresentadas contrarrazões às fls. 509/514.
+É o relatório.
+A irresignação não merece prosperar.
+Com efeito, colhe-se do acórdão o seguinte excerto (fls. 484/487):
+ ..  bem andou a r. Sentença fustigada, ao considerar que o resultado do serviço ocorrerá no país em que os seus efeitos venham a ser produzidos. Neste aspecto, a demandante logrou desincumbir-se do ônus de comprovar que os serviços, embora realizados no Brasil, geraram resultados no exterior - mais especificamente nas Ilhas Cayman. As notas fiscais e os contratos de câmbio juntados, respectivamente, às fls. 167/183 e fls. 95/165 dos autos demonstram que o usuário ou destinatário do serviço ("Nebraska Capital Fund") é domiciliado nas Ilhas Cayman.
+Com efeito, vale destacar que não se pode confundir resultado da prestação de serviço com conclusão do serviço. Não há dúvida alguma de que os serviços são iniciados e concluídos no Brasil. Contudo, no caso concreto, é inegável que a gestão de fundos de investimentos situados no exterior e o repasse do lucro ou prejuízo decorrentes desta atividade faz parte do serviço, porém, se operam no exterior, quando então, se verificará o resultado do serviço e a sua respectiva utilidade.
+ ..
+Outrossim, ainda sobre o ponto, destaco que o Douto Magistrado de primeira instância empreendeu escorreita análise, razão porque peço vênia para transcrever o pertinente excerto da sentença sobre o tema (fls. 381v/382v):
+No mais, a demandante defende, em síntese, a não-incidência de ISSQN sobre a atividade de gestão de fundos de investimento, uma vez que, nesse caso, os serviços são prestados em Porto Alegre, mas os seus resultados se verificam no exterior, configurando, assim, a exportação de serviços, atividade sobre a qual não incide o tributo, nos termos do art. 2º, inc. I, da LC 116/03.
+ ..
+Como se vê, para enquadramento de uma atividade como exportação de serviços, é necessário que o resultado dessa atividade se produza no exterior.
+No caso em exame, a autora é contratada pelo cliente estrangeiro (no caso, um fundo de investimento) para escolher os ativos mais atrativos financeiramente e gerir a aquisição destes junto ao mercado de ações.
+Nesse passo, verifica-se que o resultado do serviço prestado pela demandante ao fundo de investimento é o resultado financeiro do cliente (lucro ou prejuízo), sobre o qual é calculado o valor do serviço, servindo este de base para o cálculo da remuneração da autora. E esse resultado financeiro se dá no domicílio do tomador - no caso, o fundo de investimento situado no exterior -, uma vez que a autora é uma espécie de procuradora do investidor perante a bolsa de valores, sendo que o resultado do serviço será o ganho ou a perda financeira do cliente.
+Dessa feita, resta caracterizada a exportação do serviço, de forma a afastar a incidência de ISSQN sobre a atividade cujo resultado se verifique no domicílio do tomador situado no exterior.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como a interpretação de cláusulas do contrato de prestação de serviço, providências vedadas em recurso especial a teor das Súmulas 5 e 7 do STJ.
+Desse modo, o acórdão recorrido deve ser mantido incólume, por seus próprios e robustos fundamentos.
+Ante o exposto, nega-se provimento ao presente agravo em recurso especial.
+Publique-se.
