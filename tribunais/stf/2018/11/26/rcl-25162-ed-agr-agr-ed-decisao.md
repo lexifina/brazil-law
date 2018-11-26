@@ -1,0 +1,20 @@
+Trata-se de embargos de declaração opostos em favor de Alexandre Longo, em face de acórdão da Segunda Turma do Supremo Tribunal Federal, assim ementado:
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - O agravante apenas reitera os argumentos anteriormente expostos na inicial da reclamação, sem, contudo, aduzir novos elementos capazes de afastar as razões expendidas na decisão agravada.
+    II – Agravo regimental a que se nega provimento.”
+    Em suas razões recursais, o embargante insiste na tese de que a sentença penal condenatória é nula, porquanto o Magistrado de primeiro grau só retirou dos autos as interceptações telefônicas declaradas ilegais pelo STF ao proferir a sentença, o que teria contaminado suas razões de decidir.
+    Ao analisar o mérito da reclamação, decidi que,
+    “[n]a análise do presente caso, não verifico, de plano, o alegado descumprimento a decisão proferida por este Supremo Tribunal Federal, o que inviabiliza o seguimento da reclamatória.
+    Conforme relatado na inicial, o Juízo reclamado invalidou as provas declaradas ilícitas por esta Suprema Corte e avaliou a licitude daquelas eventualmente derivadas, cumprindo o que foi determinado na ordem de habeas corpus.
+    Ademais, verifico que o HC 108.147/PR teve a ordem concedida pela Segunda Turma deste tribunal em 11/12/2012 e que suposto descumprimento desta decisão pelo Juízo Federal de Ponta Grossa/PR teria ocorrido em despacho proferido em 23/4/2013.
+    Registro que a presente reclamação foi autuada nesta Corte em 9/9/2016, ou seja, mais de 3 anos apos o alegado descumprimento, estando o processo já em fase final de analise dos recursos especial e extraordinário.
+    Entendo, assim, que o reclamante almeja que este Supremo Tribunal Federal, na via reclamatória, verifique se a decisão sobre as provas derivadas foi correta e analisada em momento adequado, o que extrapola o objeto da ordem concedida no HC 108.147/PR, utilizando-se assim da reclamação como sucedâneo recursal, o que não e admitido pela jurisprudência da Corte, verbis:
+    ‘PROCESSUAL CIVIL. RECLAMACAO PROPOSTA PARA GARANTIR A OBSERVANCIA DE RECURSO EXTRAORDINARIO COM REPERCUSSAO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5o, II. INTERPRETACAO TELEOLOGICA. 1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5o, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instancia ordinária, em tais casos, significa o percurso de todo o iter recursal cabível antes do acesso a Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitira acesso a Suprema Corte por via de reclamação. 2. Agravo regimental não provido’ (Rcl 24.686 ED-AgR/RJ, Rel. Min. Teori Zavascki).
+    ‘Agravo regimental na reclamação. Incidente de uniformização de jurisprudência. Não cabimento de reclamação como sucedâneo recursal. Agravo regimental não provido. 1. O reclamante não comprova ter apresentado o recurso adequado para submeter ao crivo do órgão colegiado da Turma Nacional de Uniformização a decisão de seu Presidente de negar seguimento ao pedido de uniformização, não tendo, portanto, esgotado a instancia ordinária antes da apresentação da presente reclamação. 2. A reclamação não se confunde com sucedâneo recursal, nem se presta para o reexame do mérito da demanda originaria. 3. Agravo regimental não provido’ (Rcl 23.472-AgR/PR, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento a reclamação (art. 21, § 1°, do RISTF).”
+    Com efeito, não vislumbro a existência de fundamentos aptos à modificar o que foi decidido monocraticamente pelo Ministro Relator e em grau recursal pelo colegiado da Segunda Turma do STF, bem como a inexistência de omissão, obscuridade ou contradição no acórdão embargado.
+    Isso posto, rejeito os embargos.
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
