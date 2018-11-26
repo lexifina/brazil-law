@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou a sentença quanto ao direito do autor às diferenças salariais a título de Gratificação por Desempenho de Atividade Jurídica – GDAT, considerado o período compreendido entre maio e dezembro de 2003. No extraordinário cujo trânsito busca alcançar, a União alega a violação dos artigos 2º, 5º, incisos II, XXXV, LIV e LV, 7º, inciso XXX, 37, cabeça, 39, § 3º, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão por deficiência de fundamentação e contrariedade ao princípio do devido processo legal. Diz ter sido contrariado o princípio da isonomia, tendo em vista o disposto na Medida Provisória nº 2.229/2.001, no tocante ao deferimento retroativo do benefício.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    A Turma Recursal consignou já ter havido o reconhecimento administrativo do pedido, limitando a controvérsia apenas os encargos moratórios e a liberação orçamentária. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo interposto pela União e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
