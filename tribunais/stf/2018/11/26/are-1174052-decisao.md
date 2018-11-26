@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Oitava Turma de Recursos de Santa Catarina, assim ementado:
+    “SERVIDOR PÚBLICO. FÉRIAS PROPORCIONAIS E TERÇO DE FÉRIAS. PERÍODO AQUISITIVO INTERROMPIDO PELO ADVENTO DE APOSENTADORIA. DIREITO A INDENIZAÇÃO PELO TRABALHO EM PERÍODO QUE PODERIA TER GOZADO FÉRIAS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.” (eDOC 3, p. 20)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 7º, XVII; 37, caput; 39, §3º; e 93, IX do texto constitucional.
+    Nas razões recursais, alega-se que o adicional de um terço no pagamento de indenização seria aplicável apenas às férias efetivamente gozadas e que, ao estipular período aquisitivo às férias inferior a um ano efetivo para adotar o ano civil, o acórdão recorrido teria violado o princípio da legalidade, tendo em vista que a legislação local que disciplina a matéria estabeleceria critério diverso. (eDOC 3, p. 35)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que, no tocante à suposta ausência de fundamentação do acórdão recorrido, o assunto versado no recurso extraordinário corresponde ao tema 339 da sistemática da repercussão geral, cujo paradigma é o AI 791.292 QO-RG, de minha relatoria, DJe 13.8.2010.
+    A Turma Recursal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, consignou que o critério para cálculo de férias teria sido corretamente aplicado. Nesse sentido, extrai-se o seguinte trecho da sentença mantida por seus próprios fundamentos pelo acórdão impugnado:
+    “No que se refere ao período das férias proporcionais, deve prevalecer aquele indicado pela parte autora. Isso porque após o primeiro período aquisitivo (doze meses de exercício), as férias passam a ser concedidas por exercício, não se exigindo mais o cumprimento de doze meses para a sua fruição. Assim, a partir de cada dia 01 de janeiro recomeça a contagem, que, no caso em tela, cessa na data das aposentadorias, o que confere às partes demandantes o direito à indenização com base no valor da remuneração devida na data da aposentadoria.” (eDOC 2, p. 156)
+    Ademais, observo que a matéria dos autos é disciplinada por legislação local (Leis Estaduais 6.745/1985 e 6.218/1983) como demonstrado no Recurso Extraordinário. (eDOC 3, p. 33)
+    Assim, verifica-se que a matéria debatida pela Turma Recursal restringe-se ao âmbito infraconstitucional e da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 25.10.2017. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. INATIVIDADE. INDENIZAÇÃO. FÉRIAS NÃO USUFRUÍDAS. DISCUSSÃO SOBRE PERÍODO AQUISITIVO. REEXAME DE FATOS E PROVAS E DA LEGISLAÇÃO LOCAL APLICÁVEL À ESPÉCIE (LEI ESTADUAL 6.745/1985). INCIDÊNCIA DAS SÚMULAS 280 E 279 DO STF.” (ARE 1062850 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 07.05.2018)
+    “DIREITO ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 7º, XVII, 37 E 39, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA. CONVERSÃO DE FÉRIAS NÃO USUFRUIDAS EM PECÚNIA. POSSIBILIDADE. ARE 721.001-RG, REL. MIN. GILMAR MENDES. REPERCUSSÃO GERAL. SERVIDOR PÚBLICO ESTADUAL. FÉRIAS PROPORCIONAIS. OBSERVÂNCIA DO ANO CIVIL PARA O CÔMPUTO. INTERPRETAÇÃO DA LEI ESTADUAL 6.745/1985. MATÉRIA INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA Nº 280/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. RECURSO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.” (RE 1016001 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 27.09.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC, c/c art. 21, §1º, do RISTF) e deixo de majorar a verba honorária por já haver sido fixada no máximo legal. (eDOC 3, p. 22)
+    Publique-se.
+    Brasília, 26 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
