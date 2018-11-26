@@ -1,0 +1,21 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquele estado que no Agravo em Execução Penal n. 0202975-13.2017.8.19.0001 determinou que se observe a fração de 1/3 para a concessão de livramento condicional ao réu.
+Alega o Ministério Público que "o apenado que cumpre pena em razão de condenação pelo crime do artigo 35 da Lei 11.343/2006 (associação ao tráfico) se sujeita ao lapso de 2/3 (dois terços) de cumprimento de pena para obtenção do livramento condicional" (fl. 90).
+Requer, dessa forma, seja restabelecida a decisão do Juiz de primeiro grau, que exigiu, para fins de livramento condional, o cumprimento de 2/3 da pena.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento.
+Decido.
+O recurso especial é tempestivo e preencheu os demais requisitos de admissibilidade.
+Com efeito, a matéria suscitada foi analisada pelo Tribunal a quo, no julgamento da apelação, a evidenciar seu prequestionamento. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão da tese, e a sua apreciação prescinde de revolvimento do contexto fático-probatório dos autos.
+Na espécie, observo que o Juiz de primeiro grau, ao determinar que o acusado cumpra 2/3 da pena para obter o livramento condicional, salientou que o parágrafo único do art. 44 da Lei n. 11.343/2006 está em plena vigência e trata de maneira diferenciada a execução da pena no caso dos delitos tipificados nos arts. 33 a 37, exigindo-se, pois, o cumprimento da fração de 2/3 da pena de tais delitos para fins de livramento condicional (fl. 18).
+O entendimento esboçado pelo Magistrado está em consonância com a jurisprudência desta Egrégia Corte, uma vez que, consoante a redação do parágrafo único do art. 44 da Lei n. 11.343/2006, embora o crime de associação para o tráfico de drogas não figure no rol taxativo de delitos hediondos ou a eles comparados, dar-se-á o livramento condicional após o cumprimento de 2/3 da pena, vedada sua concessão ao reincidente específico.
+Nesse sentido, destaco os seguintes precedentes:
+ ..
+2. Não se tratando de crime hediondo, não se exige, para fins de concessão de benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele, apenas ao lapso de 1/6 para preenchimento do requisito objetivo.
+3. No entanto, a despeito de não ser considerado hediondo, o crime de associação para o tráfico, no que se refere à concessão do livramento condicional, deve, em razão do princípio da especialidade, observar a regra estabelecida pelo art. 44, parágrafo único, da Lei n. 11.343/2006, ou seja, exigir que o cumprimento de 2/3 (dois terços) da pena, vedada a sua concessão ao reincidente específico.
+4. Ordem concedida para afastar a natureza hedionda do crime de associação para o tráfico e determinar que o Juízo da Vara das Execuções Criminais da Comarca de São José do Rio Preto/SP proceda a novo cálculo da pena, considerando, para fins de progressão de regime e de livramento condicional, respectivamente, as frações de 1/6 (um sexto) e 2/3 (dois terços).
+(HC n. 394.327/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T. DJe 23/6/2017, destaaquei).
+ ..
+2. O Superior Tribunal de Justiça entende que o delito de associação para o tráfico de drogas não possui natureza hedionda, por não estar expressamente previsto nos arts. 1º e 2º, da Lei n. 8.072/90. No entanto, apesar de afastada a hediondez do delito descrito no art. 35 da Lei n. 11.343/2006, deve ser cumprida a fração de 2/3 da pena, conforme disposto no parágrafo único do art. 44 da Lei n. 11.343/06, para fins de concessão do livramento condicional, em homenagem ao princípio da especialidade, afastando a norma geral do art. 83, I, do Estatuto Repressivo.
+Habeas corpus não conhecido (HC n. 362.776/RJ, Rel. Ministro Joel Ilan Paciornik, 5  T., DJe 20/2/2017, destaquei).
+À vista do exposto, conheço do recurso especial e dou-lhe provimento a fim de restabelecer a decisão de primeiro grau.
+Publique-se e intimem-se.
