@@ -1,0 +1,76 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA DO INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR - IDEC.
+1. RECURSO ESPECIAL DE HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE REVISÃO DO HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1.1. Inexistência de ofensa ao art. 535, do CPC/73, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+1.2. O valor estabelecido a título de honorários advocatícios pelas instâncias ordinárias somente pode ser alterado, na via do recurso especial, nas hipóteses em que se distanciar dos padrões de razoabilidade e da proporcionalidade, o que não ocorreu na hipótese em exame.
+1.3. RECURSO ESPECIAL DESPROVIDO.
+2. RECURSO ESPECIAL DE [NOME] E OUTROS. LIMITE TERRITORIAL DA SENTENÇA. LIMITAÇÃO INDEVIDA.
+2.1. Há julgados no âmbito do Superior Tribunal de Justiça no sentido de que a eficácia da coisa julgada em ação civil pública não se restringe ao território do órgão judicante.
+2.2. RECURSO ESPECIAL PROVIDO.
+3. RECURSO ESPECIAL DE HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO DESPROVIDO E RECURSO ESPECIAL DE [NOME] E OUTROS PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] E OUTROS e HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO com arrimo no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão do Tribunal de Justiça do Paraná (fl. 38):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA DO INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR - IDEC ILEGITIMIDADE ATIVA. ABRANGÊNCIA DO TÍTULO. POUPA DORES DO ESTADO DO PARANÁ. ART. 16 DA LACP. EFICÁCIA. LIMITES, JURISDIÇÃO DO ÓRGÃO PROLATOR. FALTA LEGITIMIDADE ATIVA AOS POUPADORES PARA AJUIZAREM CUMPRIMENTO DE SENTENÇA EM LOCAL DIVERSO DO ESTADO ONDE FOI PROCESSADA A DEMANDA COLETIVA, POIS A SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA FAZ COISA JULGADA ERGA OMNES NOS LIMITES DA COMPETÊNCIA DO ÓRGÃO PROLATOR DA DECISÃO, NOS TERMOS DO ART. 16 DA LEI N. 7.347/85. RECURSO PROVIDO.
+Consta dos autos que HSBC BANK BRASIL S/A - BANCO MÚLTIPLO interpôs agravo de instrumento contra decisão do juízo de primeiro grau no curso do cumprimento de sentença de ação civil pública.
+O Tribunal de Justiça deu parcial provimento ao reclamo para reconhecer a ilegitimidade ativa dos demandantes e extinguir o processo executivo, além de condenar os autores ao pagamento dos ônus sucumbenciais.
+Opostos embargos declaratórios, estes restaram rejeitados (fls. 81).
+Em suas razões de recurso especial, o HSBC BANK BRASIL S/A - BANCO MÚLTIPLO alegou violação ao art. 535, inciso II, do Código de Processo Civil/73, ao argumento de que houve negativa de prestação jurisdicional. Aduziu contrariedade ao art. 20, do CPC/73, ao argumento de que irrisório o valor fixado a título de honorários advocatícios. Requereu, por fim, o provimento do recurso especial.
+Em suas razões de recurso especial, [NOME] E OUTROS apontaram violação aos arts. 543-C, do Código de Processo Civil/73; 81; 82 e 103, do Código de Defesa do Consumidor, bem como aos arts. 16 e 21, ambos da Lei n.º 7.347/85, ao argumento de que possuem legitimidade para figurar no polo ativo da demanda. Requereram, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões às fls. 233/254.
+É o relatório
+Passo a decidir.
+Examino, em primeiro lugar, o recurso especial interposto por HSBC BANK BRASIL S/A - BANCO MÚLTIPLO.
+1. No que tange à alegação de negativa de prestação jurisdicional:
+Os recorrentes alegaram que houve negativa de prestação jurisdicional. No entanto, as questões submetidas ao Tribunal a quo foram suficiente e adequadamente apreciadas, com abordagem integral dos temas e fundamentação compatível.
+Destarte, não há se falar em negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REVISÃO DE BENEFÍCIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+3. Agravo interno não provido. (AgInt no AREsp 1233390/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESERVA DE NUMERÁRIO. DISCORDÂNCIA ENTRE AS PARTES. NECESSIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA. INCIDÊNCIA DA SÚMULA 83/STJ. CONCLUSÃO DO ACÓRDÃO RECORRIDO QUE SE DEU APÓS ANÁLISE DAS PROVAS E DO CONTRATO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Todas as questões suscitadas pelas partes foram devidamente apreciadas pela Corte estadual, não havendo que se falar em negativa de prestação jurisdicional.
+(..)
+4. Agravo interno desprovido. (AgInt nos EDcl no AREsp 1059771/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+Ademais, consoante a jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DEFERIMENTO DO PEDIDO LIMINAR. [NOME]. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CABIMENTO. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022, I e II, do Código de Processo Civil de 2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica.
+3. Não há falar em erro de julgamento se a decisão de primeiro grau aplica indevidamente o art. 927 do CPC/73, e o Tribunal de origem enquadra o fato em dispositivo legal diverso, confirmando a liminar de reintegração de posse, porque preenchidos os requisitos do art. 273 do CPC/73.
+(..)
+6. Agravo interno não provido. (AgInt no AREsp 1089677/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+2. Quanto aos honorários advocatícios:
+A recorrente insurgiu-se contra ao valor fixado a título de honorarios advocatícios. No entanto, conforme a jurisprudência do Superior Tribunal de Justiça, constatado que os honorários de sucumbência foram fixados em patamar razoável, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em recurso especial, promover a revisão pretendida, ante a incidência do Enunciado n.º 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA SOBRE VALOR DA CAUSA. MAJORAÇÃO. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Conforme o entendimento desta Corte, o valor estabelecido a título de honorários advocatícios pelas instâncias ordinárias somente pode ser alterado, na via do recurso especial, nas hipóteses em que se distanciar dos padrões de razoabilidade e da proporcionalidade, o que não ocorreu na hipótese em exame.
+2. A Corte Especial, por ocasião do julgamento dos EREsp 1.527.430/SC, em 1º/2/2018, decidiu pela não adoção de um parâmetro objetivo para aferição da irrisão dos honorários sucumbenciais, afastando a pretensão de que fosse fixado em 1% do valor da causa.
+Segundo foi decidido, o caráter exorbitante ou irrisório deve ser analisado caso a caso.
+3. Constatado que os honorários de sucumbência foram fixados em patamar razoável, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em recurso especial, promover a revisão pretendida, ante a incidência do Enunciado Sumular n. 7 do STJ.Precedente.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1267869/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/08/2018, DJe 27/08/2018)
+Passo à análise do recurso especial interposto por [NOME] E OUTROS.
+A controvérsia posta no presente processo cinge-se à delimitação da abrangência territorial dos efeitos da sentença proferida na 19ª Vara Cível da Comarca de São Paulo - SP, nos autos de ação civil pública proposta pelo INSTITUTO BRASIELIRO DE DEFESA DO CONSUMIDOR - IDEC em desfavor de HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO.
+Na hipótese, o Tribunal de Justiça do Estado do Paraná reconheceu a ilegitimidade ativa dos recorrentes para o cumprimento de sentença consubstanciado em título executivo judicial oriundo de juízo diverso, uma vez que a coisa julgada material, atribuída à sentença proferida em ação civil pública, limita-se à competência territorial do respectivo órgão julgador, observando-se o regramento estabelecido no art. 16, da Lei n.º 7.347/1985.
+Recentemente, a temática foi apreciada pela Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em REsp n.º 1.134.957/SP, realizado em 24/10/2016 e publicado em 30/11/2016.
+Restou decidido que indevida a limitação, em princípio, a eficácia das decisões proferidas em ações civis públicas coletivas ao território da competência do órgão judicante.
+A propósito, transcrevo a ementa do citado julgado:
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. ART. 16 DA LEI DA AÇÃO CIVIL PÚBLICA. AÇÃO COLETIVA. LIMITAÇÃO APRIORÍSTICA DA EFICÁCIA DA DECISÃO À COMPETÊNCIA TERRITORIAL DO ÓRGÃO JUDICANTE. DESCONFORMIDADE COM O ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA EM JULGAMENTO DE RECURSO REPETITIVO REPRESENTATIVO DE CONTROVÉRSIA (RESP N.º 1.243.887/PR, REL. MIN. LUÍS FELIPE SALOMÃO). DISSÍDIO JURISPRUDENCIAL DEMONSTRADO. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. No julgamento do recurso especial repetitivo (representativo de controvérsia) n.º 1.243.887/PR, Rel. Min. Luís Felipe Salomão, a Corte Especial do Superior Tribunal de Justiça, ao analisar a regra prevista no art. 16 da Lei n.º 7.347/85, primeira parte, consignou ser indevido limitar, aprioristicamente, a eficácia de decisões proferidas em ações civis públicas coletivas ao território da competência do órgão judicante.
+2. Embargos de divergência acolhidos para restabelecer o acórdão de fls. 2.418-2.425 (volume 11), no ponto em que afastou a limitação territorial prevista no art. 16 da Lei n.º 7.347/85.
+(EREsp 1134957/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 24/10/2016, DJe 30/11/2016)
+Outro ponto relevante a ser destacado é que a vedação dessa limitação estende-se aos direitos coletivos indistintamente (direito coletivo em sentido estrito, difuso ou individual homogêneo), sendo que, no caso dessa última espécie, a coisa julgada atingirá todos aqueles beneficiários do comando exarado na decisão que se pretenda executar.
+A fim de elucidar a questão, transcrevo os seguintes trechos consignados no voto da Ministra Laurita Vaz proferido no EREsp 1.134.957/SP (com grifo no original):
+Ocorre que, no julgamento do REsp representativo da controvérsia n.º 1.243.887/PR, a Corte Especial referendou o entendimento do Relator, Ministro Luís Felipe Salomão, diametralmente oposto ao do que decidido pela Terceira Turma, no sentido de que "se o dano é de escala local, regional ou nacional, o juízo competente para proferir sentença, certamente, sob pena de ser inócuo o provimento, lançará mão de comando capaz de recompor ou indenizar os danos local, regional ou nacionalmente, levados em consideração, para tanto, os beneficiários do comando, independentemente de limitação territorial" (grifei).
+ ..
+Dessa forma, o acórdão embargado, proferido pela Terceira Turma, no ponto que limita territorialmente a eficácia do provimento da Justiça Federal, de forma apriorística, diverge da orientação fixada pela Corte Especial do Superior Tribunal de Justiça, razão pela qual deve ser reformado. Mostra-se me conformidade com o entendimento do alto colegiado do STJ o ponto do acórdão do TRF/3 que consignou que "não é possível admitir a limitação dos efeitos da decisão proferida em sede de ação coletiva, para circunscrevê-los tão somente aos limites territoriais que se compreendem na competência do juiz prolator, pois, se assim fosse, estaríamos desvirtuando a natureza da ação e, o que é mais grave, dividindo, cindindo o direito coletivo, difuso ou individual homogêneo, criando, assim, um direito regional" (fl. 2.424, vol. 11, com grifos no original).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ORIUNDA DE AÇÃO CIVIL PÚBLICA. INSTITUTO DE DEFESA DO CONSUMIDOR - IDEC. SENTENÇA PROFERIDA NO ESTADO DE SÃO PAULO. LIMITAÇÃO TERRITORIAL DO TÍTULO. IMPOSSIBILIDADE. ENTENDIMENTO REAFIRMADO PELA CORTE ESPECIAL DO STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A eficácia das decisões genéricas proferidas em ações civis públicas coletivas não está limitada ao território da competência do órgão judicante que as proferiu.
+2. Embora o precedente colacionado na decisão recorrida não seja oriundo de julgamento sob o rito dos recursos especiais repetitivos, faz referência ao REsp 1.243.887/PR, este sim, julgado no rito do art. 543-C do CPC/1973. Sem razão, portanto, o agravante quando defende a não vinculação da decisão.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido. (AgInt no REsp 1664620/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 31/08/2017)
+Partindo dessas premissas, mostra-se impositiva a reforma do acórdão recorrido para determinar o retorno dos autos à origem para que se dê continuidade ao cumprimento de sentença, superando a questão do limite territorial do título executivo judicial oriundo do Estado de São Paulo.
+Ante o exposto, nego provimento ao recurso especial interposto por HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO e dou provimento ao recurso especial de [NOME] E OUTROS para determinar o retorno dos autos à origem para dar continuidade ao cumprimento de sentença apresentado pelos recorrentes nos termos da fundamentação supra.
+Intimem-se.
