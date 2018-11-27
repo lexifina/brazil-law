@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de pedido de reconsideração oposto por [NOME] contra decisão deste relator (fls. 855-856) que determinou a baixa dos autos ao Tribunal de origem, para aguardar o julgamento de Recursos Especiais afetados ao rito dos recursos repetitivos, para oportuna aplicação do art. 1.040 do CPC, nos seguintes termos:
+1. Cuida-se de recurso especial interposto por FORD MOTOR COMPANY BRASIL LTDA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+2. O presente recurso traz como questão de direito a manutenção de ex-empregado aposentado ou demitido sem justa causa no plano de saúde coletivo empresarial, ainda que a contribuição tenha sido exclusiva da empregadora, tema que foi afetado para julgamento, sob o rito dos recursos repetitivos (arts. 1.036 a 1.041 do CPC/2015), conforme julgados da relatoria do em. Ministro Ricardo Villas Bôas Cueva, proferidos no REsp 1.680.318/SP e no REsp 1.708.104/SP, em 02/03/2018 (tema 989).
+3. Dessa forma, a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015 é medida que se impõe, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ. Destarte, a devolução dos autos à origem é medida que se impõe.
+4. Ante o exposto, determino a devolução dos autos ao Tribunal de Origem, com a devida baixa nesta Corte, para que o recurso permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Nas razões do pedido de reconsideração, o requerente alega que os precedentes indicados (REsp 1.680.318/SP e no REsp 1.708.104/SP) não se amoldam à situação jurídica dos presentes autos, sendo o presente caso distinto, pois o empregado contribuía mensalmente com o plano de saúde.
+DECIDO.
+2. Inicialmente, consoante se depreende das razões engendradas no pedido de reconsideração em mote - que visam a esclarecer a exortação presente na decisão monocrática - recebo-o como embargos de declaração.
+3. Ao contrário do afirmado pelo embargante, a hipótese dos presentes autos enquadra-se rigorosamente naquela objeto de afetação ao rito dos recursos repetitivos nos autos do REsp 1.680.318/SP e do REsp 1.708.104/SP, porquanto objetiva a manutenção de ex-empregado no plano de saúde coletivo empresarial nas mesmas condições de cobertura assistencial e de valores da época em que estava em vigor o contrato de trabalho, arcando com a integralidade dos custos, inclusive os da empresa, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998.
+Portanto, à míngua de omissão, obscuridade ou contradição, não merece prosperar os embargos de declaração.
+4. Ante o exposto, recebo o pedido de reconsideração como embargos de declaração e rejeito-o.
+Publique-se. Intimem-se.
