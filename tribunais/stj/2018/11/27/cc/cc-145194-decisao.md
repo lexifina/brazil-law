@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 2ª VARA CRIMINAL E DA INFÂNCIA E JUVENTUDE DE VARGINHA (MG) em face do JUÍZO AUDITOR DA 3ª AUDITORIA DA JUSTIÇA MILITAR DO ESTADO DE MINAS GERAIS.
+O Juízo suscitado declinou de sua competência nos seguintes termos (e-STJ fl. 135):
+As fls. 96/96v., o Ministério Público opinou no sentido de declinação de competência, por se tratar, em tese, de crime praticado por militar da reserva.
+Com efeito, o art. 125, § 4º, da CR/88 preceitua que à Justiça Militar Estadual compete processar e julgar os policiais militares e bombeiros militares nos crimes militares definidos em lei. A Justiça Militar estadual não tem competência para apreciar e para julgar violações comuns à lei penal praticadas quer por militares, de folga e à paisana, quer por civis, em hipótese alguma. Ademais, o militar envolvido não se encontra atualmente na atividade, porquanto já pertence aos quadros da reserva remunerada, o que mais uma vez vem a afastar a aplicação do art. 9º do CPM.
+ANTE O EXPOSTO, declino da competência da Justiça Militar estadual, declarando-me incompetente, com fundamento no disposto no art. 146 do CPPM c.c. o art. 9º, do CPM, bem como determino a remessa dos autos à Justiça Comum Estadual, à comarca de origem, com as cautelas de estilo e as homenagens de praxe.
+O conflito foi suscitado pelo Juízo de Direito da 2ª Vara Criminal e da Infância e da Juventude de Varginha (MG), mediante a invocação dos seguintes fundamentos (e-STJ fl. 142):
+Trata-se de expediente iniciado em virtude de "Portaria de instauração e ordem de serviço iniciais", em que o indiciado [NOME] teria cometido, em tese, os delitos capitulados nos artigos 157, 223, 224, 298, 299 e 341 do Código Penal Militar.
+Uma vez concluídos os autos de Inquérito Policial foi concedida vista ao MP para oferecimento de denúncia.
+O titular da ação penal, por sua vez, no parecer de f. 96, entendeu pela declaração da incompetência da Justiça Estadual Militar, com remessa dos autos ao Juizado Especial de Varginha, ao argumento de que compete à Justiça Estadual Comum processar e julgar civis (e militares equiparados - da reserva), e não à Justiça Militar Estadual.
+A M.M Juíza Militar acolheu o parecer e declinou da competência com fundamento no art. 146 do CPPM c/c art. 90, do CPMV.
+O Ministério Público Estadual, em seu parecer às ff. 100/101, manifestou-se pela instauração de conflito negativo de atribuição, com fundamento no art. 90, inciso III, "b", do Código Penal Militar, por entender que é de competência da Justiça Militar julgar atos de militares da reserva que foram cometidos em desfavor de militares em serviço.
+Relatados, decido.
+Tenho que assiste razão ao Ministério Público, razão pela qual, acolho in totum o parecer de ff. 100/101 e determino a remessa dos autos ao Superior Tribunal de Justiça, com fundamento no art. 105, I, alínea d, da Constituição Federal  .. .
+O Ministério Público Federal se manifestou para que fosse declarada a competência do Juízo militar, em parecer que recebeu a seguinte ementa (e-STJ fl. 160):
+CONFLITO NEGATIVO DE COMPETÊNCIA. VIOLÊNCIA PRATICADA POR MILITAR DA RESERVA CONTRA MILITAR NA ATIVA DENTRO DA SEDE ADMINISTRATIVA DO BATALHÃO. CRIME MILITAR PRATICADO POR MILITAR DO ESTADO. COMPETÊNCIA DA JUSTIÇA CASTRENSE ESTADUAL.
+DICÇÃO DO ART. 125, § 4º, DA CF. PARECER PELA DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO AUDITOR DA 3ª AUDITORIA DA JUSTIÇA MILITAR DO ESTADO DE MINAS GERAIS PARA PROCESSAR E JULGAR O FEITO COMO FOR DE DIREITO.
+É, em síntese, o relatório.
+A controvérsia exige que se defina se a hipótese atende aos requisitos do art. 9º do Código Penal Miliar, com vistas a atrair a competência especializada para o julgamento do feito.
+Diz o referido dispositivo:
+Crimes militares em tempo de paz
+Art. 9º Consideram-se crimes militares, em tempo de paz:
+I - os crimes de que trata êste Código, quando definidos de modo diverso na lei penal comum, ou nela não previstos, qualquer que seja o agente, salvo disposição especial;
+II - os crimes previstos neste Código e os previstos na legislação penal, quando praticados: (Redação dada pela Lei nº 13.491, de 2017)
+a) por militar em situação de atividade ou assemelhado, contra militar na mesma situação ou assemelhado;
+b) por militar em situação de atividade ou assemelhado, em lugar sujeito à administração militar, contra militar da reserva, ou reformado, ou assemelhado, ou civil;
+c) por militar em serviço ou atuando em razão da função, em comissão de natureza militar, ou em formatura, ainda que fora do lugar sujeito à administração militar contra militar da reserva, ou reformado, ou civil; (Redação dada pela Lei nº 9.299, de 8.8.1996)
+d) por militar durante o período de manobras ou exercício, contra militar da reserva, ou reformado, ou assemelhado, ou civil;
+e) por militar em situação de atividade, ou assemelhado, contra o patrimônio sob a administração militar, ou a ordem administrativa militar;
+f) revogada. (Redação dada pela Lei nº 9.299, de 8.8.1996)
+III - os crimes praticados por militar da reserva, ou reformado, ou por civil, contra as instituições militares, considerando-se como tais não só os compreendidos no inciso I, como os do inciso II, nos seguintes casos:
+a) contra o patrimônio sob a administração militar, ou contra a ordem administrativa militar;
+b) em lugar sujeito à administração militar contra militar em situação de atividade ou assemelhado, ou contra funcionário de Ministério militar ou da Justiça Militar, no exercício de função inerente ao seu cargo;
+c) contra militar em formatura, ou durante o período de prontidão, vigilância, observação, exploração, exercício, acampamento, acantonamento ou manobras;
+d) ainda que fora do lugar sujeito à administração militar, contra militar em função de natureza militar, ou no desempenho de serviço de vigilância, garantia e preservação da ordem pública, administrativa ou judiciária, quando legalmente requisitado para aquêle fim, ou em obediência a determinação legal superior.
+Narram os autos que o investigado, "Bombeiro Militar Inativo do 9º BBM, na data de 16/06/15, por volta das 11h40min, no interior da Sede Administrativa do 9º BBM, em frente à B/2 do 9º BBM, localizada no município de Varginha (MG), agrediu com um soco o 1º [NOME], lotado na B/2 do 9º BBM, e proferiu ameaças a ele, cometendo, em tese, crimes militares, conforme previsto nos Arts. 157 (praticar violência contra superior), 160 (desrespeitar superior diante de outro militar), 223 (ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de lhe causar mal injusto e grave), 224 (desafiar outro militar para duelo ou aceitar-lhe o desafio, embora o duelo não se realize), 298 (desacatar superior, ofendendo-lhe a dignidade ou o decoro, ou procurando deprimir-lhe a autoridade), 299 (desacatar militar no exercício de função de natureza militar ou em razão dela) e 341 (desacatar autoridade judiciária militar no exercício da função ou em razão dela) do Código Penal Militar (Decreto-lei nº 1001, de 21/10/69)" (e-STJ fl. 3).
+Como visto, cuida-se, na espécie, de crime cometido por militar da reserva, dentro de organização militar e contra vítima militar, o que caracteriza a hipótese prevista no inciso III, alínea b, do art. 9º do Código Penal Militar, de competência, portanto, da Justiça Militar.
+Esta Corte firmou orientação, ao apreciar caso análogo, de que, por estar configurada hipótese prevista no art. 9º do Código Penal Militar, a competência para processar e julgar o feito é da Justiça Militar da União.
+Nesse sentido:
+PENAL. CONFLITO POSITIVO DE COMPETÊNCIA. AÇÃO PENAL. RECEPTAÇÃO. JUÍZOS MILITAR E COMUM, QUE SE DECLARARAM COMPETENTES. CRIME PRATICADO POR MILITAR REFORMADO CONTRA PATRIMÔNIO DA POLÍCIA MILITAR DE SÃO PAULO. INCIDÊNCIA DO ART. 9º, III, A, DO CPM. COMPETÊNCIA DA JUSTIÇA MILITAR.
+1. Nos termos do art. 9º, III, a, do Código Penal Militar, compete à Justiça Militar julgar os crimes praticados por militar da reserva, reformado, ou por civil, contra o patrimônio sob a administração militar, ou contra a ordem administrativa militar.
+2. Hipótese em que o crime foi praticado por militar reformado contra bem pertencente ao patrimônio da Polícia Militar de São Paulo. Embora o objeto da receptação (netbook) não estivesse submetido diretamente à administração militar, é certo que era mantido sob guarda de policial militar, que o utilizava para o exercício de seu mister, ou seja, para a atividade policial. Consequentemente, não há dúvida de que o crime causou dano efetivo ao patrimônio e à atividade militar. Com efeito, é militar, nos termos do art. 9º, III, a, do Código Penal Militar.
+3. Conflito conhecido para declarar a competência do Juízo Auditor da 1ª Auditoria da Justiça Militar do Estado de São Paulo, suscitado. (CC 124.284/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 12/12/2012, DJe 18/12/2012.)
+Ante o exposto, conheço do conflito para estabelecer a competência do Juízo Auditor da 3ª Auditoria da Justiça Militar do Estado de Minas Gerais.
+Publique-se. Comunique-se.
