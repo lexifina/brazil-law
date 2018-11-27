@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de [NOME] [NOME] VAZ, apontando como autoridade coatora o Tribunal Regional Federal da 1ª Região.
+Consta dos autos ter sido o paciente preso em flagrante, no dia 6/4/2018, custódia essa convertida em preventiva, pela suposta prática do crime previsto no art. 334-A do Código Penal. Segundo a denúncia, o acusado juntamente com outros comparsas "transportaram grande quantidade de cigarros de importação proibida (marcas R7 e GIFT), que estavam acondicionados em fundo falso de 2 semirreboques, que estavam acoplados em um caminhão" (e-STJ fl. 26).
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada em relação a [NOME], nos termos da seguinte ementa (e-STJ fls. 52/53):
+PENAL E PROCESSUAL PENAL. "HABEAS CORPUS". CONTRABANDO (ARTIGOS 334-A DO CÓDIGO PENAL). PRISÃO PREVENTIVA. MATERIALIDADE. INDÍCIOS SUFICIENTES DE AUTORIA. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO. MEDIDA CAUTELAR DIVERSA DA PRISÃO. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. Busca-se, com o presente "habeas corpus", a revogação do decreto de prisão expedido em desfavor dos pacientes, ou, a substituição por medidas cautelares diversas da prisão.
+2. Os pacientes foram presos em flagrante no dia 06/04/2018 pela suposta prática do crime de contrabando (art. 334-A do CP) de cigarros das marcas R7 e GFIT que estavam sendo transportados em 02 REBOQUE/TANQUE MODELO NOMA. acondicionados em fundo falso.
+3. A prisão em flagrante dos pacientes (ocorrida em 6/4/2018) foi convertida em prisão preventiva por meio de decisão proferida pelo magistrado a quo em 9/4/2018, à consideração de que a decretação da medida extrema seria necessária para assegurar a aplicação lei penal e garantir a ordem pública.
+4. Na hipótese, o decreto prisional encontra-se devidamente fundamentado em relação ao paciente [NOME], pois o mesmo foi preso em flagrante transportando grande quantidade de cigarros, atuando em associação para a prática do delito enquanto pesa contra si uma condenação anterior por porte ilegal de arma, sendo consignado pelo juízo "a quo" que o paciente está cumprindo pena de prestação de serviço à comunidade.
+5. Quanto a [NOME] e [NOME], não haveria motivos concretos que justificassem a prisão cautelar dos pacientes.
+6. É cediço que a prisão cautelar é medida excepcional que deve ser adotada apenas quando devidamente amparada em fatos concretos, que demonstrem a presença dos requisitos legais, em observância à proporcionalidade e ao princípio constitucional da presunção de inocência, e quando não forem recomendáveis outras medidas mais brandas (CPP, art. 282, § 6º).
+7. Na dicção pretoriana, entende-se a expressão "ordem pública" como sendo o risco ponderável de o autor da infração voltar a cometer delitos, incluindo aí a incolumidade física das pessoas, sobretudo as que querem colaborar com a Justiça. Não sendo, porém, essa hipótese, é cabível a substituição da prisão preventiva por outras medidas cautelares previstas no artigo 319 do CPP.
+8. Na espécie, não subsiste fundamento apto a autorizar a manutenção do decreto de prisão preventiva em desfavor de [NOME] e [NOME], pelas seguintes razões: 1) ausente o requisito da conveniência da instrução criminal, porquanto não há elementos nos autos que indiquem que os acusados possam interferir na persecução penal; 2) o crime não se revestiu de violência ou grave ameaça; 3) não existe qualquer indício que aponte que os acusados irão empreender fuga, não podendo ser mantida a prisão preventiva por presunção não fundamentada razoavelmente em fatos concretos.
+9. Pesa, ainda, favoravelmente aos pacientes o fato de que foram juntados aos autos documentos que demonstram a existência de ocupação lícita e residência certa, assim como a primariedade e os bons antecedentes criminais.
+10. Ordem de "habeas corpus" concedida para os pacientes [NOME] e [NOME], mediante as condições firmadas no voto.
+11. Ordem de "habeas corpus" denegada para o réu [NOME].
+No presente writ, asseveram os impetrantes inexistir motivação idônea para a custódia cautelar do paciente, visto que não foi apontada concretamente a presença dos requisitos contidos no art. 312 do Código de Processo Penal, aduzindo que a fundamentação foi genérica, com base na gravidade abstrata do delito.
+Apontam excesso de prazo para a formação da culpa, pois o paciente está preso há 154 dias, sem que haja previsão para o término da instrução processual.
+Buscam, inclusive liminarmente, a revogação da custódia provisória ou o relaxamento da prisão por excesso de prazo.
+O pleito urgente foi indeferido (e-STJ fls. 72/75).
+Informações prestadas às e-STJ fls. 79/80, 82/116, 117/148 e 149/184.
+Opinou o Ministério Público Federal pela prejudicialidade do habeas corpus (e-STJ fls. 187/188).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem, em 19/11/2018 foi proferida sentença condenatória pelo Juízo de piso, nos autos da Ação Penal n. 0002717-15.2018.4.01.4001, aplicando ao ora recorrente a pena de 6 anos e 3 meses de reclusão, em regime inicial fechado, e multa, pela prática do crime descrito na denúncia, tendo-lhe sido negado o direito de apelar em liberdade e mantida a sua prisão cautelar.
+ Assim, está superada, a toda evidência, a alegação de que haveria excesso de prazo para a formação da culpa.
+Ademais, na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2016, DJe 29/3/2016.)
+Dessarte, está patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
