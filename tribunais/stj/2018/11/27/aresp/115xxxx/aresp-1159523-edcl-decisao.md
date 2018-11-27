@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão de minha lavra, em que conheci do agravo para não conhecer do recurso especial ante a incidência da Súmula 7 do STJ (e-STJ fls. 244/247).
+A embargante alega omissão na decisão embargada quanto ao "dever de exame da aplicabilidade, do enquadramento, da subsunção do precedente AgRg no Ag n. 1.387.647/SC ao caso dos autos" (e-STJ fl. 257).
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 262).
+Passo a decidir.
+De acordo com o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis quando houver, na decisão judicial, omissão, erro material, contradição ou obscuridade, o que não ocorreu à espécie.
+Como já decidido, a concessão do auxílio-acidente deve observar os requisitos do art. 86 da Lei n. 8.213/1991, ou seja, além da lesão, a necessidade de que a sequela acarrete uma diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia.
+Nesse sentido, a Terceira Seção desta Corte, por meio do julgamento do REsp 1.109.591/SC, representativo da controvérsia, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 08/09/2010, assim decidiu:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. AUXÍLIO-ACIDENTE. LESÃO MÍNIMA. DIREITO AO BENEFÍCIO.
+1. Conforme o disposto no art. 86, caput, da Lei 8.213/91, exige-se, para concessão do auxílio-acidente, a existência de lesão, decorrente de acidente do trabalho, que implique redução da capacidade para o labor habitualmente exercido.
+2. O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão.
+3. Recurso especial provido.
+Verifica-se que o acórdão impugnado não destoou do REsp 1.387.647/SC, como pretende a parte embargante, pois corretamente aplicou o entendimento do recurso repetitivo já citado, mas, por tratar de situação fática diversa, deferiu o benefício tendo em vista a comprovação de redução da capacidade laborativa. Veja-se o mencionado julgado:
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. REDUÇÃO DA CAPACIDADE AFERIDA PELO TRIBUNAL DE ORIGEM. BENEFÍCIO DEVIDO. ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DO RESP. 1.109.591/SC, PROCESSADO COMO REPRESENTATIVO DA CONTROVÉRSIA.
+ 1. A norma legal estabelece que o auxílio-acidente será devido como indenização ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia (art. 86 da Lei n. 8.213, de 1991, com a redação dada pela Lei n. 9.528, de 1997).
+ 2. No julgamento do Resp n. 1109591/SC, processado nos termos do art. 543-C do Código de Processo Civil, esta Corte firmou o entendimento no sentido de que o nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício acidentário, bastando, para tanto, a comprovação de existência de lesão que implique a redução de capacidade.
+ 3. Dentro do quadro fático-probatório delineado pela instância ordinária está atestada a redução da capacidade para o trabalho do autor, motivo pelo qual o segurado faz jus ao benefício acidentário.
+ 4. Agravo regimental improvido.
+(AgRg no Ag 1387647/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/05/2011, DJe 17/05/2011)
+
+No presente caso, decidiu o Tribunal local, com base no laudo técnico, que a parte autora, embora tenha sofrido fratura na perda esquerda decorrente do acidente de trabalho, não apresenta incapacidade laborativa para as suas atividades habituais, como se observa de excerto do voto condutor do acórdão recorrido (e-STJ fls. 160/161):
+Acidente in itinere ocorrido no dia 02.07.2005, devidamente comunicado à autarquia (fls. 16), que concedeu à autora auxilio-doença acidentário (fls. 18).
+A perícia realizada nos autos constatou que a autora, em razão do acidente, sofreu fratura da perna esquerda. Contudo, não apresenta incapacidade laborativa para a função que exerce (controladora de acesso).
+No exame médico realizado concluiu o expert:- "..As seqüelas decorrentes deste acidente estão consolidadas e causam uma INCAPACIDADE PARCIAL PERMANENTE com limitações para a realização de atividades que exijam deambulação excessiva, não havendo, entretanto, restrições para o exercício das suas atividades habituais" (fls. 67 - grifo do relator).
+E em esclarecimentos, acrescentou: - "Quando se fala em deambulação excessiva não quer dizer que não possa se locomover e sim que se realize atividades nas quais a deambulação é feita de maneira contínua ou em grandes extensões. Não há como definir o percurso exato a ser percorrido, mas podemos citar exemplos de certas atividades em que isso é feito tais como Carteiro, Vendedor Ambulante. Dessa forma, as atividades que a autora já realizou e que estava realizando quando ocorreu o referido acidente, não requerem deambulação excessiva".
+Ora, a legislação acidentária não indeniza a lesão ou a doença; mas sim a efetiva redução da capacidade laborativa. É o que dispõe o artigo 86, caput, da Lei nº 8.213/91: - "O auxílio-acidente será concedido, como indenização, ao segurado quando, após a consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem seqüelas que impliquem redução da capacidade para o trabalho que habitualmente exercia" (destaquei). Nestes termos, a improcedência da demanda é medida que se impõe.
+Dessa forma, a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+A propósito:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE FUNDAMENTADO NA PERDA DE AUDIÇÃO. EFETIVA REDUÇÃO PARCIAL E PERMANENTE DA CAPACIDADE DO SEGURADO PARA O TRABALHO NÃO COMPROVADA. BENEFÍCIO INDEVIDO. AGRAVO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. A Terceira Seção desta Corte, no julgamento do REsp. 1.108.298/SC, representativo de controvérsia, de minha relatoria, DJe 6.8.2010, pacificou o entendimento de que para a concessão de auxílio-acidente fundamentado na perda de audição é necessária a comprovação do nexo causal entre a lesão e a atividade laboral e a diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia.
+2. Na hipótese dos autos, as instâncias ordinárias, com base no acervo fático-probatório dos autos, julgaram improcedente o pedido de concessão de auxílio-acidente com base na conclusão que não ficou comprovada a incapacidade laboral do autor.
+3. Assim, ausente os requisitos legais para a concessão do benefício, impossível acolher a pretensão autoral, uma vez que o auxílio-acidente visa a indenizar e compensar o segurado que não possui plena capacidade de trabalho em razão do acidente sofrido, não bastando, portanto, apenas a comprovação de um dano à saúde do segurado, quando o comprometimento da sua capacidade laborativa não se mostre configurado ou quando não há qualquer relação com sua atividade laboral.
+4. Agravo Regimental do Segurado a que se nega provimento.
+(AgRg no AREsp 406.816/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/04/2017, DJe 08/05/2017). (Grifos acrescidos).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. INCIDÊNCIA DA SÚMULA 282/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ACÓRDÃO FUNDAMENTADO EM PERÍCIA MÉDICA REALIZADA EM JUÍZO E QUE CONCLUIU PELA INEXISTÊNCIA DE INCAPACIDADE LABORATIVA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+SÚMULA 7/STJ. AGRAVO INTERNO CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, IMPROVIDO. I. Agravo interno aviado contra decisão monocrática publicada em 28/11/2016, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à incidência da Súmula 282/STF -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+III. O Tribunal de origem concluiu, à luz das provas dos autos, que "não há lesão decorrente do acidente do trabalho relatado, inexistindo incapacidade laboral na atualidade" e que restou "não comprovado o binômio nexo causal/incapacidade parcial e permanente".
+IV. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+V. Agravo interno conhecido, em parte, e, nessa extensão, improvido.
+(AgInt no AREsp 1.014.785/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017). (Grifos acrescidos).
+Assim, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte :
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, I, II E III, DO CPC/2015. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRINCÍPIOS E NORMAS CONSTITUCIONAIS.
+PREQUESTIONAMENTO. DESCABIMENTO NA INSTÂNCIA ESPECIAL. EMBARGOS REJEITADOS. CARÁTER PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC/2015.
+1. Os embargos de declaração, a teor das disposições do art. 1.022, I, II e III, do CPC/2015, destinam-se, precipuamente, a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material que porventura tenha ocorrido na decisão judicial.
+2. Pronuncia-se a inexistência dos pressupostos da via recursal integrativa quando o acórdão embargado não incide em nenhum dos vícios previstos no art. 1.022 do CPC/2015 nem carece de fundamentação por qualquer das condutas descritas no art. 489, § 1º, do mesmo diploma.
+3. Não cabe, na estreita via da instância especial, intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar princípios e normas constitucionais, sob pena de contrariedade das rígidas atribuições jurisdicionais fixadas na Carta Magna.
+4. Em face do caráter manifestamente protelatório dos embargos, aplica-se a multa de 2% (um por cento) prevista no art. 1.026, § 2º, do CPC/2015, que deverá incidir sobre o valor da causa atualizado.
+5. Embargos de declaração rejeitados com a imposição de multa.
+(EDcl nos EDcl no REsp 1428903/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 25/08/2016)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
