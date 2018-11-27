@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região que julgara procedente pedido de readequação de benefício previdenciário, concedido em 24.04.1990, aos tetos das EC 20/1998 e 41/2003.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, XXXVI; 7º, IV; e 195, § 5º, da CF. Afirma que ocorreu aplicação inadequada do art. 14 da EC 20/1998 e do art. 5º da EC 41/2003.
+    O recurso é inadmissível. O Supremo Tribunal Federal (STF), no julgamento do RE 564.354, Relª. Minª. Cármen Lúcia, com repercussão geral reconhecida, entendeu ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários-de-contribuição que foram utilizados para os cálculos iniciais. Na oportunidade, esta Corte não impôs limites temporais à atualização do benefício. Precedentes: RE 953.093, Rel. Min. Dias Toffoli; RE 938.801, Rel. Min. Luiz Fux; RE 899.546, Rel.ª Min.ª Cármen Lúcia; ARE 758.317, de minha relatoria; ARE 917.319, Rel. Min. Edson Fachin.
+    O Plenário do STF, ao examinar o RE 937.595-RG, de minha relatoria, sob a sistemática da repercussão geral, reafirmou sua jurisprudência e fixou a seguinte tese: “os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral”.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 27 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
