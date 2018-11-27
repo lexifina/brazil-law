@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. RECURSO ESPECIAL PROVIDO.
+1. Cuida-se, na origem, de Ação Previdenciária proposta pelo ora recorrido, contra o Instituto Nacional do Seguro Social - INSS, ora recorrente, objetivando a revisão da renda mensal inicial do benefício previdenciário, nos termos do artigo 144 da Lei 8.213/1991.
+2. O Tribunal a quo deu parcial provimento ao reexame necessário, apenas para determinar a incidência dos juros de mora.
+3. Nos julgamentos dos Recursos Especiais 1.326.114/SC e 1.309.529/PR, pelo rito dos Recursos Repetitivos, ficou assim decidido: "Incide o prazo de decadência do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28.6.1997)." (REsp 1.326.114/SC, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 13/5/2013 e REsp 1.309.529/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 4/6/2013).
+4. In casu, ocorreu a DIB em 4/9/1989, em momento anterior a 27/6/1997. Assim, o termo a quo do prazo decadencial é fixado em 28/6/1997. Portanto, a ação foi ajuizada após o decênio legal, em 3/8/2007.
+5. Recurso Especial provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 3ª Região (fls. 125-133) cuja ementa é a seguinte:
+PREVIDENCIÁRIO. AGRAVO LEGAL. REVISÃO DE BENEFÍCIO. APLICAÇÃO DO ART. 144 DA LEI Nº 8.213/91. DECADÊNCIA. INOCORRÊNCIA.
+I - Agravo legal, interposto pelo INSS, em face da decisão monocrática que deu parcial provimento ao reexame necessário, com fundamento no artigo 557, § 1º-A, do CPC, apenas para alterar a forma de aplicação dos juros de mora nas parcelas devidas, referentes à determinação de aplicação do art. 144 da Lei nº 8.213/91, no benefício do autor.
+II - O agravante alega a nulidade do decisum, visto que não foi intimado pessoalmente da sentença. Aduz, ainda, a decadência do direito à revisão pretendida.
+III - O INSS foi regularmente intimado da sentença, conforme se verifica a fls. 94-verso.
+IV - Como não se trata de ação em que se pleiteia a revisão do ato de concessão, como expressamente dispõe o art. 103 da Lei 8.213/91, com a redação dada pela Lei 9.528/97, não há que se falar na decadência do direito de ação.
+V - Para os benefícios previdenciários concedidos após a Constituição de 1988 e antes da edição da Lei nº 8.213/91, aplica-se a revisão preceituada pelo artigo 144 da Lei nº 8.213/91.
+VI - Levando-se em conta a informação constante no documento de fls. 68, de que a revisão do artigo 144 da Lei nº 8.213/91 não foi efetuada no benefício do autor, a procedência da demanda é de rigor.
+VII - Decisão monocrática com fundamento no art. 557, caput e § 1º-A, do C.P.C., que confere poderes ao relator para decidir recurso manifestamente improcedente, prejudicado, deserto, intempestivo ou contrário a jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, sem submetê-lo ao órgão colegiado, não importa em infringência ao CPC ou aos princípios do direito. Precedentes.
+VIII - É assente a orientação pretoriana no sentido de que o órgão colegiado não deve modificar a decisão do Relator, salvo na hipótese em que a decisão impugnada não estiver devidamente fundamentada, ou padecer dos vícios da ilegalidade e abuso de poder, e for passível de resultar lesão irreparável ou de difícil reparação à parte.
+IX - In casu, a decisão está solidamente fundamentada e traduz de forma lógica o entendimento do Relator, juiz natural do processo, não estando eivada de qualquer vício formal, razão pela qual merece ser mantida.
+X - Agravo legal improvido.
+O recorrente sustenta que foi ofendido o artigo 103 da Lei 8.213/1991, sob a argumentação de que ocorreu a decadência.
+Contrarrazões apresentadas às fls. 163-170.
+Recurso Especial admitido às fls. 223-226.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.10.2017.
+Cuida-se, na origem, de Ação Previdenciária proposta pelo ora recorrido, contra o Instituto Nacional do Seguro Social - INSS, ora recorrente, objetivando a revisão da renda mensal inicial do benefício previdenciário, nos termos do artigo 144 da Lei 8.213/1991.
+O Juiz de primeiro grau julgou procedente o pedido.
+O Tribunal a quo deu parcial provimento ao reexame necessário, apenas para determinar a incidência dos juros de mora.
+ Sobre a aplicação do prazo decadencial previsto no art. 103 da Lei 8.213/1991 aos benefícios concedidos anteriormente à alteração instituída pela MP 1.523-9/1997 (posteriormente convertida na Lei 9.527/1997), a Primeira Seção sedimentou posicionamento sobre a questão. Primeiramente assim foi apreciado (grifei):
+PREVIDÊNCIA SOCIAL. REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DECADÊNCIA. PRAZO. ART. 103 DA LEI 8.213/91. BENEFÍCIOS ANTERIORES. DIREITO INTERTEMPORAL.
+1. Até o advento da MP 1.523-9/1997 (convertida na Lei 9.528/97), não havia previsão normativa de prazo de decadência do direito ou da ação de revisão do ato concessivo de benefício previdenciário. Todavia, com a nova redação, dada pela referida Medida Provisória, ao art. 103 da Lei 8.213/91 (Lei de Benefícios da Previdência Social), ficou estabelecido que "É de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo".
+2. Essa disposição normativa não pode ter eficácia retroativa para incidir sobre o tempo transcorrido antes de sua vigência. Assim, relativamente aos benefícios anteriormente concedidos, o termo inicial do prazo de decadência do direito ou da ação visando à sua revisão tem como termo inicial a data em que entrou em vigor a norma fixando o referido prazo decenal (28/06/1997). Precedentes da Corte Especial em situação análoga (v.g.: MS 9.112/DF Min. Eliana Calmon, DJ 14/11/2005; MS 9.115, Min. César Rocha (DJ de 07/08/06, MS 11123, Min. Gilson Dipp, DJ de 05/02/07, MS 9092, Min. Paulo Gallotti, DJ de 06/09/06, MS (AgRg) 9034, Min. Félix Ficher, DL 28/08/06).
+3. Recurso especial provido (RESP 1.303.988/PE, Rel. Ministro TEORI ALBINO ZAVASCKI, Primeira Seção, DJe 21.3.2012).
+Posteriormente essa orientação foi reafirmada nos julgamentos dos Recursos Especiais 1.309.529/PR e 1.326.114/SC, proferidos na sessão de 28.11.2012 (pendente de publicação), pelo rito dos recursos repetitivos (art. 543-C do CPC e Resolução STJ 8/2008), de minha relatoria. Confira-se a ementa do acórdão do REsp 1.309.529/PR (grifei):
+PREVIDENCIÁRIO. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSOS REPRESENTATIVOS DE CONTROVÉRSIA (RESPS 1.309.529/PR e 1.326.114/SC). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO PELO SEGURADO. DECADÊNCIA. DIREITO INTERTEMPORAL. APLICAÇÃO DO ART. 103 DA LEI 8.213/91, COM A REDAÇÃO DADA PELA MP 1.523-9/1997, AOS BENEFÍCIOS CONCEDIDOS ANTES DESTA NORMA. POSSIBILIDADE. TERMO A QUO. PUBLICAÇÃO DA ALTERAÇÃO LEGAL. AGRAVO REGIMENTAL. INDEFERIMENTO DE INTERVENÇÃO COMO AMICUS CURIAE E DE SUSTENTAÇÃO ORAL. AGRAVO REGIMENTAL DA CFOAB
+(..)
+MATÉRIA SUBMETIDA AO REGIME DO ART. 543-C DO CPC
+8. Trata-se de pretensão recursal do INSS com o objetivo de declarar a decadência do direito do recorrido de revisar benefícios previdenciários anteriores ao prazo do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997 (D.O.U 28.6.1997), posteriormente convertida na Lei 9.528/1997, por ter transcorrido o decênio entre a publicação da citada norma e o ajuizamento da ação.
+9. Dispõe a redação supracitada do art. 103: "É de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo."
+SITUAÇÃO ANÁLOGA - ENTENDIMENTO DA CORTE ESPECIAL
+10. Em situação análoga, em que o direito de revisão é da Administração, a Corte Especial estabeleceu que "o prazo previsto na Lei nº 9.784/99 somente poderia ser contado a partir de janeiro de 1999, sob pena de se conceder efeito retroativo à referida Lei" (MS 9.122/DF, Rel. Ministro Gilson Dipp, Corte Especial, DJe 3.3.2008). No mesmo sentido: MS 9.092/DF, Rel. Ministro Paulo Gallotti, Corte Especial, DJ 25.9.2006; e MS 9.112/DF, Rel. Ministra Eliana Calmon, Corte Especial, DJ 14.11.2005.
+O OBJETO DO PRAZO DECADENCIAL
+11. O suporte de incidência do prazo decadencial previsto no art. 103 da Lei 8.213/1991 é o direito de revisão dos benefícios, e não o direito ao benefício previdenciário.
+12. O direito ao benefício está incorporado ao patrimônio jurídico, e não é possível que lei posterior imponha sua modificação ou extinção.
+13. Já o direito de revisão do benefício consiste na possibilidade de o segurado alterar a concessão inicial em proveito próprio, o que resulta em direito exercitável de natureza contínua sujeito à alteração de regime jurídico.
+14. Por conseguinte, não viola o direito adquirido e o ato jurídico perfeito a aplicação do regime jurídico da citada norma sobre o exercício, na vigência desta, do direito de revisão das prestações previdenciárias concedidas antes da instituição do prazo decadencial.
+RESOLUÇÃO DA TESE CONTROVERTIDA
+15. Incide o prazo de decadência do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28.6.1997).
+16. No mesmo sentido, a Primeira Seção, alinhando-se à jurisprudência da Corte Especial e revisando a orientação adotada pela Terceira Seção antes da mudança de competência instituída pela Emenda Regimental STJ 14/2011, firmou o entendimento, com relação ao direito de revisão dos benefícios concedidos antes da Medida Provisória 1.523-9/1997, que alterou o caput do art. 103 da Lei de Benefícios, de que "o termo inicial do prazo de decadência do direito ou da ação visando à sua revisão tem como termo inicial a data em que entrou em vigor a norma fixando o referido prazo decenal (28.6.1997)" (RESP 1.303.988/PE, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJ 21.3.2012).
+CASO CONCRETO
+17. Concedido, no caso específico, o benefício antes da Medida Provisória 1.523-9/1997 e havendo decorrido o prazo decadencial decenal entre a publicação dessa norma e o ajuizamento da ação com o intuito de revisão de ato concessório ou indeferitório, deve ser extinto o processo, com resolução de mérito, por força do art. 269, IV, do CPC.
+18. Agravos Regimentais não providos e Recurso Especial provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+Enfim, in casu, ocorreu a DIB em 4/9/1989, em momento anterior a 27/6/1997. Assim, o termo a quo do prazo decadencial é fixado em 28/6/1997. Portanto, a ação foi ajuizada após o decênio legal, em 3/8/2007.
+Diante do exposto, dou provimento ao Recurso Especial.
+É como voto.
