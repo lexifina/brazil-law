@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE.
+1. Hipótese em que ficou consignado que: a) o STJ firmou orientação de que "o fato superveniente contido no artigo 462 do CPC deve ser considerado no momento do julgamento a fim de evitar decisões contraditórias e prestigiar os princípios da economia processual e da segurança jurídica" (EDcl no AgRg nos EDcl no REsp 621.179/SP, Terceira Turma, Relator Ministro Ricardo Villas Bôas Cueva, DJe 5/2/2015); b) especificamente no que se refere ao cômputo de tempo de contribuição no curso da demanda, a Primeira Turma do STJ, ao apreciar situação semelhante à hipótese dos autos, concluiu ser possível a consideração de contribuições posteriores ao requerimento administrativo e ao ajuizamento da ação, reafirmando a DER para a data de implemento das contribuições necessárias à concessão do benefício. No mesmo sentido: REsp 1.640.903/PR, de relatoria do Ministro Mauro Campbell Marques, DJe 15.2.2017. O Recurso Especial foi provido para determinar o retorno dos autos à origem para que sejam contabilizadas as contribuições realizadas até o momento da entrega da prestação jurisdicional.
+2. A Turma desproveu o apelo com fundamento claro e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+3. Os argumentos do embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. FATO SUPERVENIENTE. ART. 462 DO CPC/1973. REAFIRMAÇÃO DA DER. POSSIBILIDADE.
+1. O STJ firmou orientação de que "o fato superveniente contido no artigo 462 do CPC deve ser considerado no momento do julgamento a fim de evitar decisões contraditórias e prestigiar os princípios da economia processual e da segurança jurídica" (EDcl no AgRg nos EDcl no REsp 621.179/SP, Terceira Turma, Relator Ministro Ricardo Villas Bôas Cueva, DJe 5/2/2015).
+2. Especificamente no que se refere ao cômputo de tempo de contribuição no curso da demanda, a Primeira Turma do STJ, ao apreciar situação semelhante à hipótese dos autos, concluiu ser possível a consideração de contribuições posteriores ao requerimento administrativo e ao ajuizamento da ação, reafirmando a DER para a data de implemento das contribuições necessárias à concessão do benefício. No mesmo sentido: REsp 1.640.903/PR, de relatoria do Ministro Mauro Campbell Marques, DJe 15.2.2017.
+3. Recurso Especial provido para determinar o retorno dos autos à origem para que sejam contabilizadas as contribuições realizadas até o momento da entrega da prestação jurisdicional.
+A parte embargante alega:
+Embora em uma primeira leitura possa se chegar à conclusão que não houve condenação em honorários advocatícios, tal pode não ser o entendimento da parte contrária, que poderá alegar que o recurso especial foi provido e a partir daí querer executar honorários, pois que se o recurso especial foi provido, então o acórdão regional foi reformado e a parte contrária poderá querer executar o item 4, subitem item "c" da apelação (e-fl. 357), que tem o seguinte teor, litteris:
+"c) Honorários de sucumbência a ser calculado sobre o valor da condenação do pagamento das diferenças apuradas entre a aposentadoria antiga e a mais benéfica, nos termos da Súmula 111 do STJ."
+Pleiteia o acolhimento do recurso com efeitos infringentes.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.6.2017.
+A irresignação não merece prosperar.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+O acórdão embargado consignou:
+Especificamente no que se refere ao cômputo de tempo de contribuição no curso da demanda, a Primeira Turma do STJ, ao apreciar situação semelhante à hipótese dos autos, concluiu ser possível a consideração de contribuições posteriores ao requerimento administrativo e ao ajuizamento da ação, reafirmando a DER para a data de implemento das contribuições necessárias à concessão do benefício.
+Eis a ementa do julgado:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. IMPLEMENTAÇÃO DA CARÊNCIA APÓS O AJUIZAMENTO DA AÇÃO. FATO SUPERVENIENTE. RECURSO ESPECIAL PROVIDO.
+1. O Superior Tribunal de Justiça tem entendimento consolidado de que não constitui julgamento extra ou ultra petita a decisão que, verificando a inobservância dos pressupostos para concessão do benefício pleiteado na inicial, concede benefício diverso por entender preenchidos seus requisitos.
+2. O art. 687 e 690 da Instrução Normativa INSS/PRES 77, de 21 de janeiro de 2015, que repete as já consagradas proteções ao segurado dispostas em Instruções Normativas anteriores, dispõe que, se o postulante de uma prestação previdenciária preenche os requisitos legais somente após o pedido, o ente autárquico reconhece esse fato superveniente para fins de concessão do benefício, fixando a DIB para o momento do adimplemento dos requisitos legais.
+3. Essa mesma medida deve ser adotada no âmbito do processo judicial, nos termos do art. 462 do CPC, segundo o qual a constatação de fato superveniente que possa influir na solução do litígio deve ser considerada pelo Tribunal competente para o julgamento, sendo certo que a regra processual não se limita ao Juízo de primeiro grau, porquanto a tutela jurisdicional, em qualquer grau de jurisdição, deve solucionar a lide na forma como se apresenta no momento do julgamento.
+4. As razões dessa proteção se devem ao fato de que os segurados não têm conhecimento do complexo normativo previdenciário, sendo certo que a contagem do tempo de serviço demanda cálculo de difícil compreensão até mesmo para os operadores da área. Além disso, não é razoável impor aos segurados, normalmente em idade avançada, que intentem novo pedido administrativo ou judicial, máxime quando o seu direito já foi adquirido e incorporado ao seu patrimônio jurídico.
+5. Diante dessas disposições normativas e dos princípios da economia e da celeridade processual, bem como do caráter social das normas que regulamentam os benefícios previdenciários, não há óbice ao deferimento do benefício, mesmo que preenchidos os requisitos após o ajuizamento da ação.
+6. Recurso Especial provido para julgar procedente o pedido de concessão de aposentadoria a partir de agosto de 2006.
+(REsp 1296267/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/12/2015, DJe 11/12/2015).
+Não verifico na espécie sub judice qualquer omissão, obscuridade ou contradição no acórdão embargado, senão o intuito de rediscutir matéria já decidida, emprestando-lhe o efeito infringente.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 545.285/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJ 01.08.2006 p. 356).
+No que tange à apontada omissão em relação à verba honorária, não assiste razão ao embargante. Isso porque o aresto embargado deu provimento ao Recurso Especial para determinar o retorno dos autos à origem, para novo julgamento do feito, a partir da premissa jurídica estabelecida. A condenação em honorários deverá decorrer quando houver conclusão do processo, após novo julgamento da Apelação, momento em que haverá pronunciamento jurisdicional definitivo acerca do julgamento do mérito da demanda, ou seja, se haverá procedência, ou não, do pedido feito na inicial.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa.
+É como voto.
