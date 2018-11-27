@@ -1,0 +1,33 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE CUMPRIMENTO DE DIREITOS AUTORAIS C/C PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. COBRANÇA PELO ECAD. QUARTOS DE HOTEL. TV POR ASSINATURA. INCIDÊNCIA.
+1 - Cumprimento de direitos autorais cumulada com reparação por perdas e danos.
+2 - Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3 - É assente o entendimento no STJ de que os estabelecimentos hoteleiros são responsáveis pelo recolhimento de valores a título de direitos autorais em razão da disponibilização de aparelho televisor com equipamento receptor do sinal de TV a cabo ou TV por assinatura, sendo certo que a obrigação da empresa exploradora do serviço de hotelaria não se confunde com a obrigação da empresa prestadora dos serviços de transmissão de sinal de TV por assinatura, pois resultam de fatos geradores distintos.
+4 - Recurso especial parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 17/05/2016.
+Concluso ao gabinete em: 28/09/2016.
+Ação: de cumprimento de direitos autorais cumulada com reparação por perdas e danos.
+Sentença: julgou os pedidos improcedentes tendo em vista que a reprodução de som e imagem realizada nos aposentos do demandado não está abrangida pela proteção do art. 68 da Lei 9.610/98, sendo indevidos direitos autorais. Fixou honorários advocatícios no valor de R$ 2.000,00 com fundamento no art. 20, § 4º, do CPC/73.
+Acórdão: negou provimento à apelação do autor e deu provimento à apelação do Réu nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL E INDENIZAÇÃO POR PERDAS E DANOS.
+RESUMINDO: AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO. RETRANSMISSÃO RADIOFÔNICA EM QUARTOS DE HOTEL. AUSENTES OS REQUISITOS NECESSÁRIOS PARA PROCEDÊNCIA DO PEDIDO. O QUARTO DE HOTEL OU MOTEL, OCUPADO POR SEU HÓSPEDE, NÃO PODE SER CONSIDERADO LOCAL DE FREQÜÊNCIA COLETIVA, MAS DE USO PARTICULAR.
+ADEMAIS, A MERA DISPONIBILIZAÇÃO AO HÓSPEDE DE APARELHOS TELEVISORES E RADIOFÔNICOS NÃO CONFIGURA HIPÓTESE DE "EXECUÇÃO PÚBLICA".
+A UTILIZAÇÃO DE APARELHOS DE SOM E TELEVISORES DENTRO DOS QUARTOS, PELOS HÓSPEDES, TRATA-SE DE EXCEÇÃO CONTIDA NO ART. 46, VI, DA LEI 9610/98, NÃO CONSTITUINDO OFENSA AOS DIREITOS AUTORAIS A EXECUÇÃO MUSICAL REALIZADA NO RECESSO DA HABITAÇÃO EM HOTEIS E MOTEIS, NÃO SENSO DEVIDOS DIREITOS AUTORAIS NA ESPÉCIE.
+HONORÁRIOS FIXADOS EM DESPROPORCIONALIDADE COM A QUESTÃO DO PROCESSO E COM O PRÓPRIO VALOR DA CAUSA. READEQUADOS, MAJORANDO-SE OS HONORÁRIOS DEVIDOS PELO ECAD AO PROCURADOR DE FENÍCIA HOTEL LTDA.
+NEGARAM PROVIMENTO AO APELO DO AUTOR E DERAM PROVIMENTO AO APELO DA REQUERIDA." (fl. 926, e-STJ)
+Embargos de Declaração: foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022 do CPC/15 e 4º, 29, 31 e 68 da Lei 9.610/98, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que a reprodução de obras musicais e de imagens em quartos de hotel necessita de prévia autorização expressa do ECAD, bem como pagamento de retribuição autoral, quando possuem aparelhos de rádio/televisão no recinto. Defende a legitimidade do ECAD para cobrar os direitos autorais nessas hipóteses.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos supostos pontos omissos e contraditórios (possibilidade de cobrança de direitos autorais decorrentes de disponibilização de aparelhos televisivos e rádios em quarto de hotel), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Dos direitos autorais e da transmissão via tv por assinatura em quartos de hotel.
+Além de constituir posição consolidada do STJ o fato de que hotéis e motéis são locais de frequência coletiva (REsp 556.340/MG, 2ª Seção, DJ 11/10/2004), também é assente o entendimento de que "para fins de reconhecimento da possibilidade da cobrança, é irrelevante que a execução não autorizada de obras musicais e audiovisuais em locais de frequência coletiva tenha se dado a partir da disponibilização de aparelho televisor com equipamento receptor do sinal de TV a cabo ou TV por assinatura", sendo certo que, "na cobrança de direitos autorais por suposta utilização não autorizada de obra artística, não se pode confundir a obrigação da empresa exploradora do serviço de hotelaria com a obrigação da empresa prestadora dos serviços de transmissão de sinal de TV por assinatura, pois resultam de fatos geradores distintos, a saber: (i) a captação de transmissão de radiodifusão em locais de frequência coletiva (quartos de hotel) e (ii) a radiodifusão sonora ou televisiva em si. Daí porque não há falar, em casos tais, na ocorrência de bis in idem" (REsp 1.589.598/MS, 3ª Turma, DJe de 22/6/2017 e AgInt no REsp 1.639.215/RS, 4ª Turma, DJe 09/02/2018).
+Logo, o acórdão recorrido merece reforma para determinar a suspensão da execução de obras musicais em seu estabelecimento comercial enquanto não obtiver a devida autorização, sob pena de multa diária fixada em R$ 500,00 (quinhentos reais), bem como condenar a Recorrida no pagamento dos direitos autorais a serem apurados em liquidação de sentença.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar a suspensão da execução de obras musicais em seu estabelecimento comercial enquanto não obtiver a devida autorização, sob pena de multa diária fixada em R$ 500,00 (quinhentos reais), bem como condenar a Recorrida no pagamento dos direitos autorais a serem apurados em liquidação de sentença, invertidos os ônus de sucumbência já arbitrados pelo Tribunal a quo.
+Publique-se. Intimem-se.
