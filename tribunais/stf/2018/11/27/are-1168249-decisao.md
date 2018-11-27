@@ -1,0 +1,11 @@
+Ref. Petição 77.361/2018-STF.
+    Trata-se de petição encaminhada pela recorrente em 23/11/2018 (documento eletrônico 427), solicitando o sobrestamento do feito até o final do julgamento do Incidente de Resolução de Demandas Repetitivas 5052192-11.2016.404.0000/TRF, e/ou o julgamento do REsp 1.639.487/SC. Sustenta a peticionante que
+    “[d]iante da nova controvérsia, foi determinada pelo Egrégio TRF da 4ª Região, em 03/08/2017, a suspensão do próprio IRDR, restando salientado no Voto do Exmo. Relator que ‘os processos afetos ao tema se mantém suspensos em função do que foi determinado no REsp nº 1639487’ (TRF4, IRDR 5052192-11.2016.404.0000, Segunda Seção, Rel. Loraci Flores de Lima, juntado aos autos em 03/08/2017).
+    Deste modo, quer pela incidência do incidente de resolução de demandas repetitivas, quer pelo decidido no REsp nº 1639487, é de ser determinada a suspensão do presente processo, aguardando-se o desfecho destes julgados” (pág. 2 do documento eletrônico 427).
+    Bem reexaminados os autos, verifica-se que a controvérsia foi decidida em 14/11/2018 (documento eletrônico 426), e a decisão publicada em 21/11/2018.
+    Referida decisão negou seguimento ao recurso extraordinário sob os seguintes fundamentos: i) há deficiência na preliminar de repercussão geral, uma vez que a recorrente não demonstrou as razões pelas quais entende que a questão constitucional seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos do processo; ii) os Ministros deste Supremo Tribunal manifestaram-se pela inexistência de repercussão geral da controvérsia atinente à ofensa aos princípios constitucionais da ampla defesa e do contraditório nos casos de indeferimento de pedido de produção de provas no âmbito do processo judicial, por entenderem que a discussão tem natureza infraconstitucional (ARE 639.228-RG/RJ, Tema 424 da Sistemática da Repercussão Geral, de relatoria do Ministro Cezar Peluso); iii) incidência da Súmula 279/STF.
+    Diante disso, uma vez já analisada e decidida a controvérsia nesta Corte (documento eletrônico 426), nada há a deferir.
+    Publique-se.
+    Brasília, 27 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
