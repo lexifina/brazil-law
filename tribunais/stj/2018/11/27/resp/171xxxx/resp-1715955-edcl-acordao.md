@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA DE OMISSÃO, OBSCURIDADE E CONTRADIÇÃO.
+1. A embargante alega estar configurada a afronta do art. 1.022 do CPC/2015 porquanto não foi analisada a violação do art. 1º-F da Lei 9.494/1997.
+2. Em relação ao ponto abordado pela embargante, ficou consignado no acórdão embargado: "Com efeito, nos termos da jurisprudência desta Corte, erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo".
+3. Com efeito, a jurisprudência do STJ adota o entendimento de que o erro material, passível de correção a qualquer tempo, é aquele decorrido de simples cálculo aritmético ou inexatidão material, não se considerando os decorrentes de elementos ou critérios de cálculos ou de juros de mora.
+4. O embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em Embargos de Declaração. Registre-se que os Aclaratórios não se prestam a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+5. Embargos de Declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão assim ementado (fls. 822-823, e-STJ):
+ PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECLUSÃO. ERRO MATERIAL NÃO CARACTERIZADO.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A apontada afronta dos arts. 502, 505, I, 535, IV, 948, 950, 1022 e 1036 do CPC/2015; 27 e 28 da Lei 9868/1999 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Não caracteriza contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 535 do Código de Processo Civil, visto que é possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante.
+4. No caso dos autos, o Tribunal de origem entendeu que a reivindicação quanto ao excesso de execução está preclusa, porquanto não se trata de erro material, passível de correção. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 620-621, e-STJ): "Ocorre que o excesso de execução - no caso a limitação temporal - é matéria de defesa do executado e não de ordem pública. Com efeito, o excesso deveria ter sido suscitado no momento oportuno, providência essa que a embargante não adotou. (..) Nesse momento, não sendo a caso de erro material, em respeito ao princípio da segurança jurídica, a conta não pode ser modificada no que tange aos seus critérios e elementos não oportunamente impugnados".
+5. Com efeito, nos termos da jurisprudência do STJ, erro material, alterável a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo. Assim, quanto aos artigos de lei apontados, quais sejam, art. 917, III, do CPC/2015 e art. 1º-E da Lei nº 9.494/1997, não merece provimento o apelo, porque, no caso dos autos, eventual existência de excesso de execução não decorre de erro material nos cálculos apresentados, não podendo ser corrigido a qualquer momento.
+6. Recurso Especial não provido.
+
+A embargante, repisando os fundamentos do Recurso Especial, alega:
+Em que pese o brilhantismo habitual do e. Min. Relator, a decisão não analisou os argumentos restantes trazidos pela União no Resp de fls. e-STJ, especialmente no que tange à violação ao art. 1-F da Lei 9494/97.
+Houve, apenas, a menção à alegação no relatório do voto condutor da decisão, mas sem análise propriamente na fundamentação e dispositivo (fl. 824 e-STJ). As demais alegações de omissão foram afastadas, mas não com relação ao art. 1-F 9494/97. (fl.837, e-STJ)
+Impugnação aos Embargos de Declaração (fls. 843-863, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30.8.2018.
+Em se tratando de recurso de fundamentação vinculada, o conhecimento dos Aclaratórios pressupõe que a parte alegue a existência de pelo menos um dos vícios previstos no art. 1.022 do CPC/2015.
+ In casu, a embargante alega estar configurada a afronta do art. 1022 do CPC/2015 porquanto não foi analisada a violação do art. 1º-F da Lei 9.494/1997.
+Em relação ao ponto abordado pela embargante, ficou consignado no acórdão embargado (fls. 826-829, e-STJ, grifei):
+Por fim, no caso dos autos, o Tribunal de origem entendeu que a reivindicação quanto ao excesso de execução está preclusa, porquanto não se trata de erro material, passível de correção. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 620-621, e-STJ):
+Ocorre que o excesso de execução - no caso a limitação temporal - é matéria de defesa do executado e não de ordem pública. Com efeito, o excesso deveria ter sido suscitado no momento oportuno, providência essa que a embargante não adotou.
+(..)
+Nesse momento, não sendo a caso de erro material, em respeito ao princípio da segurança jurídica, a conta não pode ser modificada no que tange aos seus critérios e elementos não oportunamente impugnados.
+Com efeito, nos termos da jurisprudência desta Corte, erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo.
+(..)
+Assim, quanto aos artigos de lei apontados, quais sejam, art. 917, III, do CPC/2015 e art. 1º-E da Lei 9.494/97, não merece provimento o apelo, porque, no caso dos autos, eventual existência de excesso de execução não decorre de erro material nos cálculos apresentados, não podendo ser corrigido a qualquer momento.
+Com efeito, a jurisprudência do STJ adota o entendimento de que o erro material, passível de correção a qualquer tempo, é aquele decorrido de simples cálculo aritmético ou inexatidão material, não se considerando os decorrentes de elementos ou critérios de cálculos ou de juros de mora.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. PRECATÓRIO. REDISCUSSÃO DE CRITÉRIO DE CÁLCULO. JUROS DE MORA. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. AGRAVO INTERNO DO MUNICÍPIO DESPROVIDO.
+1. A questão em debate diz respeito à possibilidade de se rediscutir os cálculos de precatório já pago, em virtude de supostos erros materiais verificados, tais como a inclusão de juros de mora e de aplicação equivocada de índice de correção monetária, o que resultaria em um possível saldo credor a favor do Município de Santo André.
+2. O Tribunal de origem negou a pretensão recursal por entender pela impossibilidade de rediscussão sobre a incidência de juros e da forma de elaboração dos cálculos que já foram homologados por sentença, tendo em vista o instituto da coisa julgada.
+3. Sobre o assunto, a jurisprudência desta Corte entende pela possibilidade de revisão de cálculo em sede de precatório na hipótese em que se constata a existência de erro material, o que não é o caso dos autos, considerando que a pretensão da Recorrente é a rediscussão de critérios utilizados pela contadoria judicial para a apuração do valor devido, o que configuraria violação à coisa julgada. Precedentes: EDcl no AgRg no REsp. 1.175.999/PR, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe 4.8.2014; AgRg no REsp. 1.289.419/CE, Rel. Min. BENEDITO GONÇALVES, DJe 2.8.2012.
+4. Agravo Interno do MUNICÍPIO DE SANTO ANDRÉ desprovido" (STJ, AgInt no AREsp 161.523/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 17/03/2017).
+ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. CÁLCULO DO VALOR DEVIDO. COISA JULGADA. ALTERAÇÃO EM FASE DE EXECUÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE OPORTUNA IMPUGNAÇÃO DOS VALORES. HOMOLOGAÇÃO. PRECLUSÃO. ERRO MATERIAL. NÃO CONFIGURAÇÃO.
+1. Defende o recorrente a existência de erro material, porquanto o correto, nos termos do título exequendo, seria o mês de março de 1990 ser utilizado como base de cálculo, o que não foi feito, causando, no seu sentir, excesso na execução.
+2. O Tribunal de origem entendeu que a reivindicação quanto ao excesso de execução está preclusa, porquanto não impugnados os cálculos no momento oportuno, bem como que não se trata de erro de cálculo, passível de correção.
+3. Nos termos da jurisprudência desta Corte, erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo.
+4. No caso dos autos, eventual existência de excesso de execução não decorre de erro material nos cálculos apresentados, não podendo ser corrigido a qualquer momento. Ademais, trata-se de título executivo transitado em julgado e passível de preclusão do direito de questioná-lo. Ausência de afronta aos artigos 463, I, do CPC/73 e 1º-E da Lei 9.494/97. Agravo interno improvido" (STJ, AgInt no AREsp 885.425/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 23/06/2016).
+Como se observa, a embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em Embargos de Declaração. Registre-se que os Aclaratórios não se prestam a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
