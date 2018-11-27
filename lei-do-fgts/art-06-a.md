@@ -1,0 +1,1 @@
+Art. 6º-A Caberá ao Ministério da Saúde regulamentar, acompanhar a execução, subsidiar o Conselho Curador com estudos técnicos necessários ao seu aprimoramento operacional e definir as metas a serem alcançadas nas operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde.
