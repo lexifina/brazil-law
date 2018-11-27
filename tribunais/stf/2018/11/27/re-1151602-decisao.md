@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIÇO MILITAR. MÉDICOS, FARMACÊUTICOS, DENTISTAS E VETERINÁRIOS. MFDV. DISPENSA POR EXCESSO DE CONTINGENTE ANTERIOR À LEI 12.336/2010. CONVOCAÇÃO POSTERIOR. PRESTAÇÃO DE SERVIÇO MILITAR OBRIGATÓRIA. RECURSO IMPROVIDO.
+    1. Tendo em vista o decidido no EDREsp 1.186.513, para fins do art. 543-C do CPC, convém ajustar o entendimento até então adotado para consignar que os estudantes de Medicina, Farmácia, Odontologia ou Veterinária dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar, obrigatório apenas para os que obtiveram o adiamento de incorporação, previsto no art. 4°, caput, da Lei n. 5.292/67, e que a Lei n. 12.336/10, vigente a partir de 26/10/2010, aplica-se aos concluintes dos referidos cursos que foram dispensados de incorporação antes da mencionada lei, mas convocados após sua vigência, devendo prestar o serviço militar (STJ, EDREsp n. 1.186.513, Rel. Min. Herman Benjamin, DJE 14/02/2013, para fins do art. 543-C do CPC).
+    2. Inexistindo fundamentos hábeis a alterar a decisão monocrática, o agravo interno deve ser improvido.” (eDOC 3, Vol 2, parte 1, p. 136)
+    Opostos embargos de declaração foram rejeitados. (eDOC 3, Vol 2, parte 1, p. 148)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput, XXXVI, 60, § 4º, IV, do texto constitucional.
+    Nas razões recursais, alega-se que teria sido dispensado do serviço militar em 2006, por excesso de contingente em momento anterior à edição da Lei 12.336/2010 o que faz com que sua reconvocação seja indevida. (eDOC 3, Vol. 2, parte 1, p. 188)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis 5.292/1967 e 12.336/2010), consignou a possibilidade de reconvocação do recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Tendo em vista o decidido no EDREsp 1186513, para fins do art. 543-C do CPC, o STJ ajustou o entendimento até então adotado para consignar que os estudantes de Medicina, Farmácia, Odontologia ou Veterinária dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar, obrigatório apenas para os que obtiveram o adiamento de incorporação, previsto no art. 4° da Lei 5.292/67, e que a Lei 12.336/2010, vigente a partir de 26/10/2010, aplica-se aos concluintes dos referidos cursos que foram dispensados de incorporação antes da mencionada lei, mas convocados após sua vigência, devendo prestar o serviço militar no ano seguinte ao da conclusão do respectivo curso ou após a realização de programa de residência médica ou pós graduação, conforme previsto no art. 4° da Lei 5.292/67 com a redação da Lei 12.336/2010” (eDOC 3, Vol. 2, parte 1, p. 133)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes monocráticos: RE 1.151.596- ED, Rel. Min Rosa Weber, DJe 22.10.2018; ARE 1.143.060, Rel. Min Celso de Mello, DJe 2.8.2018; ARE 887.162, Rel. Min Cármen Lúcia, DJe 1.6.2015; e AI 832.713, Rel. Min. Ricardo Lewandowski, DJe 16.2.2011.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF) recurso e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do NCPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 27 de novembro de 2018.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
