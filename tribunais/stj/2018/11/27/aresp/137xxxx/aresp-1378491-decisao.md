@@ -1,0 +1,38 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. REDIRECIONAMENTO. ALEGAÇÃO DE QUE A SÓCIA SE RETIROU DO QUADRO SOCIETÁRIO ANTES DA DISSOLUÇÃO IRREGULAR DA EMPRESA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INADMISSIBILIDADE ANTE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DESTA CORTE. RESP 1.104.900/ES, REL. MIN. DENISE ARRUDA, DJE 1o.14.2009. AGRAVO DE [NOME].
+1. Agrava-se da decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento na alínea a do art. 105, inciso III da Constituição Federal, contra acórdão do egrégio Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO AOS SÓCIOS, COM BASE NA DISSOLUÇÃO IRREGULAR DA SOCIEDADE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. REJEIÇÃO EM PRIMEIRO GRAU, COM FUNDAMENTO NO FATO DE A SÓCIA EXERCER A ADMINISTRAÇÃO DA EMPRESA NA DATA DO COMETIMENTO DA INFRAÇÃO À LEI QUE GEROU O AUTO DE INFRAÇÃO.
+ARGUIÇÃO DE ILEGITIMIDADE PASSIVA PARA COMPOR O POLO PASSIVO DA AÇÃO EXECUTÓRIA, EM RAZÃO DA SUA RETIRADA DO QUADRO SOCIETÁRIO MUITO ANTES DA DISSOLUÇÃO IRREGULAR. ALEGAÇÃO DESPROVIDA DE PROVAS. INVIABILIDADE. SÚMULA 393 DO STJ. NECESSIDADE DE DILAÇÃO PROBATÓRIA. RECONHECIMENTO DE OFÍCIO.
+DECISÃO DE PRIMEIRO GRAU MANTIDA, POR FUNDAMENTO DIVERSO.
+NEGADO PROVIMENTO AO RECURSO (fls. 531).
+2. Os Embargos de Declaração opostos (fls. 541/544) foram rejeitados (fls. 583/589).
+3. Nas razões de seu Apelo Nobre inadmitido, a parte recorrente aponta violação dos arts. 135, III do CTN, defendendo que a decisão não está em consonância com a jurisprudência do STJ, pois incluiu a recorrente no polo passivo da demanda em razão da ocorrência de dissolução irregular, quando já não mais fazia parte da sociedade (fls. 596).
+4. Com contrarrazões (fls. 607/610), o recurso foi inadmitido (fls. 614/615).
+5. É o relatório.
+6. O recurso não colhe prosperar.
+7. O Tribunal de origem entendeu que as questões arguidas pela parte ora agravante vão além das provas apresentadas no expediente sumário, demandando dilação probatória. Confirmou, assim, a rejeição da objeção de pré-executividade, porquanto, da análise da documentação acostada aos autos verificou-se a inexistência de suficiente demonstração do direito alegado. Nesse aspecto, consignou:
+(..) a agravante, ao opor o incidente de pré-executividade (f. 447-453-Tj), alegou que, à época da dissolução irregular da sociedade, já havia se retirado do quadro societário há anos, em 02/08/2007, conforme a nona alteração contratual, cláusula primeira, registrada na JUCEPAR em 13/08/2007 sob número [CPF] e protocolo 07/350699-0 (f.448 -Tj).
+Todavia, não juntou aos autos tais documentos, tratando-se, portanto, de mera alegação, sem qualquer comprovação.
+Diante disso, tem-se que a questão da legitimidade ou não da agravante para figurar no polo passivo da ação executória carece de dilação probatória, incabível na via da exceção de pré-executividade, a teor da Súmula 393 do STJ (fls. 535).
+8. Para afastar essa conclusão seria necessário o reexame das provas carreadas aos autos, o que, entretanto, é defeso em Recurso Especial, nos temos em que já decidido sob o rito dos recursos repetitivos, nos moldes do art. 543-C, do CPC (REsp. 1.104.900/ES). Confiram-se, nesse sentido, os precedentes a seguir:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CDA. ACÓRDÃO RECORRIDO QUE AFASTA QUALQUER NULIDADE. REVISÃO. IMPOSSIBILIDADE. SUMULA 7/STJ. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ.
+1. Alterar ou modificar o entendimento da Corte de origem, no sentido da higidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, demandaria, necessariamente, o reexame do contexto fático-probatório dos autos, inviável, em sede do Recurso Especial, em face do óbice da Súmula 7 do STJ (AgRg no AREsp 517.678/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7/4/2015).
+2. No caso dos autos, o Tribunal a quo afastou a existência de qualquer nulidade no título executivo. Rever tal conclusão encontra óbice da Súmula 7/STJ.
+3. A jurisprudência deste Tribunal Superior firmou compreensão, consubstanciada na Súmula 435, no sentido de que se presume dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+4. O recurso também não merece provimento por se tratar de exceção de pré-executividade, conforme dispõe a Súmula 393/STJ: A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória. Desse modo, não caberia nenhuma análise que ultrapasse o conhecimento sumário das informações posta nos autos.
+5. Agravo regimental a que se nega provimento (AgRg no AREsp. 840.629/RS, Rel. Min. DIVA MALERBI, DJe 13.4.2016).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL. POSSIBILIDADE. DISCUSSÃO SOBRE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. A jurisprudência do STJ. no julgamento do REsp 1.104.900/ES, submetido ao rito dos recurso repetitivos, firmou-se no sentido de que, se a execução fui ajuizada contra a pessoa jurídica, mas o nome do sócio consta na CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN.
+2. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória (Súmula 393/STJ).
+3. Inviável em sede de recurso especial o reexame de matéria de fato. Óbice da Súmula 7/STJ.
+4. Agravo regimental não provido (AgRg no AREsp. 844.674/MT, Rel. Min. MAURO CAMPBELL MARQUES, DJe 17.3.2016).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. CDA. REQUISITOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. O reconhecimento, pelo Tribunal de origem, de que a resolução do debate necessita de produção de prova impossibilita a utilização da defesa por Exceção de Pré-Executividade. Orientação reafirmada no julgamento do REsp 1.104.900/ES, sob o regime do art. 543-C do CPC.
+3. Não se pode conhecer da alegação acerca da nulidade da CDA decorrente de vício formal, visto que a aferição dos requisitos de validade da CDA, quais sejam a certeza, a liquidez e a exigibilidade do título, demanda obrigatoriamente revolvimento do acervo fático-probatório dos autos, exame que encontra óbice na Súmula 7/STJ.
+4. Inviável a discussão em Recurso Especial acerca de suposta ilegalidade da multa administrativa que originou a CDA, porquanto prevista em mera resolução, uma vez que exige análise de violação de dispositivo constitucional (art. 5º, II, da CF), cuja competência é exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+5. Agravo Regimental não provido (AgRg no AREsp. 187.807/RJ, Rel. Min. HERMAN BENJAMIN, DJe 27.8.2012).
+9. Ante o exposto, nega-se provimento ao Agravo de [NOME] [NOME] [NOME].
+10. Publique-se. Intimações necessárias.
