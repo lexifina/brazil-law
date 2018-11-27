@@ -1,0 +1,1 @@
+Art. 9º-A O risco das operações de crédito de que trata o § 10 do art. 9º ficará a cargo dos agentes financeiros de que trata o § 9º do art. 9º, hipótese em que o Conselho Curador poderá definir o percentual da taxa de risco, limitado a três por cento, a ser acrescido à taxa de juros de que trata o inciso I do § 10 do art. 9º.
