@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia Metropolitana de Habitação de São Paulo - COHAB SP contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 130):
+Agravo de Instrumento - pleito de execução provisória de medidas de regularização de loteamento indeferimento insurgência cabimento - obrigações de fazer materializadas por atos complexos perfeitamente suscetíveis de deflagração controlada pelo Juízo - primazia do interesse público primário consubstanciado no ordenamento do espaço urbano - poder-dever de não-inércia da Administração Pública - interlocutória reformada - recurso provido
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º e seguintes da Lei 6.766/79. Sustenta que a aplicação da Lei 6.766/79 ao caso concreto enseja a violação ao princípio constitucional da igualdade por tratar de maneira igual aqueles que se encontram em situação de desigualdade. Ademais, alega que o art. 40 da referida legislação prevê que diante do parcelamento irregular do solo a agravante tem a faculdade, mas não o dever, de regularizá-lo segundo critérios de conveniência e oportunidade.
+É o relatório.
+O inconformismo não comporta êxito.
+No caso, o Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 1º e 40 da Lei 6.766/79, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
