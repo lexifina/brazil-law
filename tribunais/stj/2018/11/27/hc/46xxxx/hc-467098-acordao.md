@@ -1,0 +1,73 @@
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. FALTA GRAVE COMETIDA ANTES DA EDIÇÃO DA LEI N.º 12.234/2010. PRAZO PRESCRICIONAL: 2 (DOIS) ANOS. PRECEDENTES. SUPOSTO DESRESPEITO AO CONTRADITÓRIO E À AMPLA DEFESA. MERA ALEGAÇÃO GENÉRICA. INCABÍVEL NA VIA ESTREITA DO HABEAS CORPUS. ORDEM DENEGADA.
+1. À mingua de legislação específica, o prazo prescricional para a apuração de faltas graves é o previsto no inciso VI do art. 109 do Código Penal.
+2. Na hipótese, levando-se em consideração que a perpetração se deu em 26/12/2008, isto é, antes da entrada em vigor da Lei n.º 12.234/2010, o prazo prescricional aplicável é de 2 (dois) anos e, portanto, em tendo sido a falta grave reconhecida e anotada em 27/4/2010, não subsiste a alegação de que ocorreu a prescrição.
+3. Não cabe, na via estreita do habeas corpus, o exame de meras alegações genéricas que, tal como ocorre no caso vertente, estejam divorciadas de elementos concretos que lhes sirvam de alicerce.
+4. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRÉ [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n.º 2099358-74.2018.8.26.0000.
+Consta dos autos que o Juízo das Execuções da Comarca de Guarulhos/SP aplicou sanção disciplinar em razão de falta grave do Paciente (fl. 59), porquanto esse, em 26/12/2008, "agiu de forma desrespeitosa e ameaçadora contra os servidores" (fl. 58).
+Inconformada, a Defesa impetrou writ perante a Corte de origem, que denegou a ordem conforme acórdão assim ementado (fl. 117):
+"EXECUÇÃO PENAL. Falta grave. Alegação de nulidade do procedimento apuratório por não ter sido dada oportunidade à Defesa de prévia manifestação. Inocorrência. Sentenciado que teve a oportunidade de prestar declarações acerca do fato, na presença de Defensor da FUNAP. Apresentação de defesa técnica escrita, posteriormente. Desnecessidade de nova oitiva antes da homologação judicial da falta disciplinar. Não observância do prazo previsto no Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo para a conclusão do procedimento administrativo instaurado para apuração da falta disciplinar. Mera irregularidade, sem o condão de viciar o procedimento. Prescrição da falta disciplinar que, ante a ausência de legislação específica, ocorre no menor prazo previsto no Código Penal, ou seja, em dois anos (art. 109, VI, do Código Penal, segundo a redação da época do fato), ante a ausência de legislação específica. Lapso temporal não transcorrido entre a data da falta e a decisão judicial que determinou a sua anotação. Constrangimento ilegal não caracterizado. Ordem denegada."
+Neste writ, alega a Defesa que o procedimento relativo à apuração da suposta falta grave cometida pelo Paciente ultrapassou o prazo previsto no art. 62 da Resolução n.º SAP-144/2010, devendo, por via de consequência, ser reconhecida a prescrição da punibilidade.
+Pondera que o prazo prescricional a ser observado é o de 1 (um) ano previsto no art. 4.º do Decreto n.º 7.648/2011, por ser o que melhor se adequa às faltas disciplinares, e não o preconizado no inciso VI do art. 109 do Código Penal.
+Defende que não é proporcional aplicar às faltas disciplinares o mesmo prazo prescricional do crimes, especialmente o aumento para 3 (três) promovido com a edição da Lei n.º 12.234/2010.
+Assevera que, tendo em vista que a falta grave foi cometida em 26/12/2008, quando da homologação de seus efeitos, realizada apenas em 27/4/2010, já se havia operado a prescrição.
+Afirma que a decisão que considerou a perpetração de falta grave pelo Paciente é nula, porquanto foi levada a termo sem que tivesse havido oportunidade para a prévia manifestação da Defesa e, por conseguinte, deve ser desconstituída.
+Requer, em liminar e no mérito, a cassação da decisão impugnada, a fim de que seja declarada prescrita a falta grave cometida pelo Paciente para todos os efeitos legais.
+A liminar foi indeferida (fls. 134-138).
+As informações foram prestadas (fls. 143-175).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do habeas corpus (fls. 177-187).
+É o relatório.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. FALTA GRAVE COMETIDA ANTES DA EDIÇÃO DA LEI N.º 12.234/2010. PRAZO PRESCRICIONAL: 2 (DOIS) ANOS. PRECEDENTES. SUPOSTO DESRESPEITO AO CONTRADITÓRIO E À AMPLA DEFESA. MERA ALEGAÇÃO GENÉRICA. INCABÍVEL NA VIA ESTREITA DO HABEAS CORPUS. ORDEM DENEGADA.
+1. À mingua de legislação específica, o prazo prescricional para a apuração de faltas graves é o previsto no inciso VI do art. 109 do Código Penal.
+2. Na hipótese, levando-se em consideração que a perpetração se deu em 26/12/2008, isto é, antes da entrada em vigor da Lei n.º 12.234/2010, o prazo prescricional aplicável é de 2 (dois) anos e, portanto, em tendo sido a falta grave reconhecida e anotada em 27/4/2010, não subsiste a alegação de que ocorreu a prescrição.
+3. Não cabe, na via estreita do habeas corpus, o exame de meras alegações genéricas que, tal como ocorre no caso vertente, estejam divorciadas de elementos concretos que lhes sirvam de alicerce.
+4. Ordem denegada.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+No que diz respeito à prescrição para a reprimenda à falta grave cometida pelo Paciente, o Tribunal a quo consignou o que se segue (fls. 120-122; sem grifos no original):
+"No que diz respeito ao pleito de reconhecimento da prescrição administrativa da falta disciplinar, cabe salientar que a não observância do prazo estipulado no Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo para a conclusão do procedimento administrativo instaurado para apuração da falta disciplinar cometida pelo agravante constitui mera irregularidade, sem o condão de viciar o mencionado procedimento, mormente porque a prescrição da falta disciplinar, consoante entendimento doutrinário e jurisprudencial, ocorre, na hipótese, em dois anos, prazo não ultrapassado no caso em exame.
+Da mesma forma, não há se falar em prescrição da falta disciplinar.
+Não há dúvida de que a falta disciplinar pode ser alcançada pela prescrição e que, nesse caso, ela é regulada pelo menor prazo previsto no Código Penal, ou seja, em dois anos (artigo 109, VI, do CP), de acordo com a redação da época, à falta de legislação específica.
+ ..
+No caso, verifica-se que a falta disciplinar foi cometida em 26 de dezembro de 2008 e que, em 27 de abril de 2010, ou seja, dentro do prazo bienal, o Magistrado a reconheceu e determinou sua anotação, não se cogitando, portanto, de prescrição.
+Portanto, inexiste constrangimento ilegal a ser reparado pela via do presente remédio constitucional."
+Como se observa, o acórdão objurgado firmou-se conforme a jurisprudência desta Corte Superior de Justiça, segundo a qual, à mingua de legislação específica, o prazo prescricional para a apuração de faltas graves é o previsto no inciso VI do art. 109 do Código Penal.
+No mesmo sentido:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO. ROMPIMENTO DE TORNOZELEIRA ELETRÔNICA. CONFIGURAÇÃO DE FALTA GRAVE. PRESCRIÇÃO. PRAZO. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CP. INTERRUPÇÃO DE PRAZO PARA LIVRAMENTO CONDICIONAL, INDULTO E COMUTAÇÃO DE PENA. IMPOSSIBILIDADE. SÚMULAS/STJ 441, 534 E 535. MANIFESTA ILEGALIDADE VERIFICADA. PERDA DE ATÉ 1/3 (UM TERÇO) DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM NÃO CONHECIDA. WRIT CONCEDIDO DE OFÍCIO.
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser de 3 (três) anos o prazo prescricional para a aplicação de sanção disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, utilizando-se, para tanto, do art. 109, VI, do Código Penal, diante da falta de norma específica quanto à prescrição em sede de execução.
+3. In casu, tendo sido a infração cometida em 18/11/2014 e homologada em 9/3/2015, verifica-se a inexistência do transcurso do lapso da prescrição.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para afastar a interrupção da contagem do lapso temporal em relação ao indulto e à comutação de pena." (HC 364.261/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/02/2017, DJe de 15/02/2017; sem grifos no original.)
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CÓDIGO PENAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+2. Considera-se o menor prazo prescricional previsto no art. 109, VI, do CP para fins de reconhecimento da prescrição da falta disciplinar no âmbito da execução penal, no caso, dois anos, tendo em vista que ocorrida a infração antes da vigência da Lei 12.234/2010, devendo ser contado entre a data do fato e a decisão judicial de homologação do procedimento administrativo disciplinar.
+3. Na espécie, o fato gerador da falta grave ocorreu em 05/12/2007, sendo que, segundo se evidencia da decisão singular, não houve a homologação do procedimento administrativo disciplinar no período de dois anos, razão pela qual inexorável o reconhecimento da prescrição da infração disciplinar.
+4. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para reconhecer a prescrição da falta grave e ainda determinar a exclusão da anotação da sanção disciplinar do prontuário do paciente, afastando os demais efeitos dela decorrentes." (HC 201.242/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2015, DJe de 30/11/2015.)
+Na hipótese, levando-se em consideração que a perpetração se deu em 26/12/2008, isto é, antes da entrada em vigor da Lei n.º 12.234/2010, o prazo prescricional aplicável é de 2 (dois) anos e, portanto, em tendo sido a falta grave reconhecida e anotada em 27/4/2010, não subsiste a alegação de que ocorreu a prescrição.
+Por fim, o Impetrante argumenta que a decisão acerca do cometimento da falta grave foi prolatada " ..  sem a vista prévia da defesa, violando os princípios do contraditório, da ampla defesa e do devido processo legal" (fl. 16).
+Entretanto, tal alegação, a par de estar desprovida do necessário desenvolvimento de tese jurídica que a respaldasse, não pode ser corroborada por qualquer traço fático-probatório constante dos autos, sendo certo, inclusive, que o Tribunal a quo a rechaçou nos seguintes termos (fls. 119-120; sem grifos no original):
+"Inicialmente, não há se falar em nulidade em razão de o Magistrado ter reconhecido a falta sem ter dado a oportunidade de prévia manifestação à Defesa.
+É cediço que para o reconhecimento da falta disciplinar é necessária a instauração de procedimento administrativo, até porque a atribuição de apurar a conduta do sentenciado é do diretor do presídio, pois é ele o detentor do poder disciplinar (cf. REsp n. 1.378.557/RS, Terceira Seção, Rel. Min. Marco Aurélio Bellizze, julgado em 23/10/2013, publicado no DJe de 21/3/2014).
+No caso, na tramitação do procedimento instaurado foram perfeitamente observados os princípios constitucionais do contraditório e da ampla defesa, pois ao sentenciado, ora paciente, foi dada a oportunidade de justificar-se quanto à infração disciplinar que lhe fora imputada e de prestar declarações antes da decisão que reconheceu a falta grave (fls. 30). Na ocasião, foi assistido por advogado da FUNAP que, posteriormente, se manifestou por escrito nos autos, postulando, preliminarmente, o reconhecimento da prescrição, em razão de o procedimento administrativo não ter sido encerrado no prazo previsto no artigo 59, do Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo, e da existência de cerceamento de defesa, e, no mérito, a absolvição por insuficiência das provas (fls. 34/37).
+Assim, se o paciente teve a oportunidade de se manifestar no âmbito administrativo, acompanhado de defesa técnica, era desnecessária nova oitiva em juízo, antes da homologação da falta, principalmente porque nenhum direito dele foi desrespeitado, e não se demonstrou, até então, qualquer prejuízo à sua defesa."
+Nessas condições, aplicável à hipótese, no ponto ora sob análise, a jurisprudência do Superior Tribunal de Justiça segundo a qual não cabe, na via estreita do habeas corpus, o exame de meras alegações genéricas que, tal como ocorre no caso vertente, estejam divorciadas de elementos concretos que lhes sirvam de alicerce.
+Nesse sentido, mutatis mutandis:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CAÇA-NÍQUEIS. INTERCEPTAÇÃO TELEFÔNICA. PRECLUSÃO PRO JUDICATO. NÃO INCIDÊNCIA EM MATÉRIA DE INSTRUÇÃO PROBATÓRIA. PRINCÍPIOS DA BUSCA DA VERDADE E DO LIVRE CONVENCIMENTO MOTIVADO. AUSÊNCIA DE INDIVIDUALIZAÇÃO DOS USUÁRIOS DAS LINHAS TELEFÔNICAS. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INTERVALO NÃO ABRANGIDO POR DECISÃO JUDICIAL PRÉVIA. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE INDICAÇÃO DO PERÍODO. IMPOSSIBILIDADE DE ANÁLISE NA VIA DO WRIT. NÃO UTILIZAÇÃO DAS RESPECTIVAS GRAVAÇÕES COMO RAZÕES DE DECIDIR. AUSÊNCIA DE PREJUÍZO AO ACUSADO. DECISÕES DE QUEBRA DO SIGILO TELEFÔNICO E CORRESPONDENTES PRORROGAÇÕES. FUNDAMENTAÇÃO IDÔNEA. HABEAS CORPUS DENEGADO.
+ ..
+3. Não cabem, em sede de habeas corpus, alegações genéricas e desprovidas de específica impugnação.
+ ..
+5. Habeas corpus denegado." (HC 445.812/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/09/2018, DJe de 04/10/2018; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. HOMICÍDIO DUPLAMENTE QUALIFICADO CONSUMADO E TENTADO. PRONÚNCIA. ALEGAÇÃO DE EXCESSO DE LINGUAGEM. NÃO CONFIGURADO. PRONÚNCIA PROFERIDA COM A NECESSÁRIA FUNDAMENTAÇÃO. DESAFORAMENTO. NÃO CONFIGURAÇÃO DOS REQUISITOS LEGAIS. MODIFICAÇÃO DESSE ENTENDIMENTO. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. INVIABILIDADE NA VIA ESTREITA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VIII - No caso dos autos, as alegações genéricas do paciente, de que estaria sendo perseguido pelos Juízes da Comarca não restaram comprovadas em qualquer elemento concreto dos autos, nos termos da conclusão do eg. Tribunal de origem.
+ ..
+Habeas corpus não conhecido." (HC 431.130/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/06/2018, DJe de 28/06/2018; sem grifos no original.)
+Ante o exposto, DENEGO a ordem.
+É como voto.
