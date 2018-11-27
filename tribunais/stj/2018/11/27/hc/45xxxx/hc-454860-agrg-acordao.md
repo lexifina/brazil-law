@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS ADIMPLIDOS. CASSAÇÃO COM FULCRO NA GRAVIDADE EM ABSTRATO DO DELITO, LONGA PENA RESTANTE A CUMPRIR E FALTA ANTIGAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito de o Magistrado da execução penal não estar adstrito aos termos do atestado de bom comportamento carcerário, não pode o indeferimento da progressão de regime estar calcado em fundamentos que não guardam correlação com o cumprimento das penas impostas ao sentenciado ou não possuam contemporaneidade com a situação prisional hodierna.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O agravante pugna pela reconsideração da decisão de fls. 54-56, na qual concedi a ordem para determinar a imediata inserção do apenado no regime semiaberto.
+O agravante alega, em suma, que "não há cogitar-se de qualquer constrangimento ilegal sofrido pelo agravado, uma vez que o atestado de bom comportamento carcerário não vincula o magistrado" (fl. 64), razão pela qual requer a reconsideração da decisão impugnada, a fim de que seja denegado o habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS ADIMPLIDOS. CASSAÇÃO COM FULCRO NA GRAVIDADE EM ABSTRATO DO DELITO, LONGA PENA RESTANTE A CUMPRIR E FALTA ANTIGAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito de o Magistrado da execução penal não estar adstrito aos termos do atestado de bom comportamento carcerário, não pode o indeferimento da progressão de regime estar calcado em fundamentos que não guardam correlação com o cumprimento das penas impostas ao sentenciado ou não possuam contemporaneidade com a situação prisional hodierna.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Como já apontado na decisão agravada, o Juízo singular, ao negar o pleito defensivo, salientou que, " t ratando-se de crimes gravíssimos (cometidos com grave ameaça e violência contra pessoa), no presente caso, roubos majorados, bem como cometimento de faltas de natureza média em 10/02/2014 e 04/04/2014, e de natureza grave em 25/03/2015, demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando" (fl. 21).
+A esse respeito, esta Corte Superior possui o entendimento de que " a  gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal" (HC n. 429.176/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/3/2018, grifei).
+Todavia, na hipótese, as instâncias ordinárias entenderam devido o indeferimento do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado cometeu crimes graves e possui longa pena a cumprir, o que, sem maiores detalhamentos, não justifica a negativa da benesse o a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+II - O entendimento desta Corte é no sentido de que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamentos idôneos para obstar a progressão de regime.
+III - In casu, ao cassar o benefício concedido pelo Juízo da Execução Penal, o eg. Tribunal de Justiça se valeu do argumento de que o paciente teria cometido faltas graves, porém não as individualizou, o que impede a sua utilização como argumento para afastar o merecimento do apenado.
+IV - O v. acórdão valeu-se, ainda, da gravidade dos crimes pelos quais o paciente foi condenado e de afirmações genéricas no sentido de que o paciente "tem evidente tendência à prática de crimes graves" porém, realizado exame criminológico, não foi indicado qualquer elemento que possa indicar que o paciente apresenta traço de personalidade que o impeça de receber o benefício da progressão de regime.
+Habeas corpus não conhecido. Ordem concedida de ofício para cassar a decisão do eg. Tribunal a quo, fazendo prevalecer a progressão de regime concedida pelo d. Juízo da Execução Penal, confirmando a liminar (HC n. 443.838/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/6/2018, grifei).
+Ainda que apontada a existência de faltas disciplinares médias no ano de 2014 e uma média em 2015, as condutas infracionais não foram individualizadas e, além disso, as infrações foram cometidas há mais de 3 anos, de modo que não guardam contemporaneidade com a avaliação hodierna do requisito subjetivo, assim como ressaltado no precedente acima.
+Dessa forma, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, uma vez que o Juízo singular negou a progressão com fulcro em faltas disciplinares praticadas há muito tempo e em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, porquanto foi reconhecida "a atual boa conduta carcerária e o preenchimento do quesito objetivo" (fl. 21).
+À vista do exposto, nego provimento ao recurso.
