@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS, o qual recebeu a seguinte ementa (e-STJ fl. 150):
+APELAÇÃO CÍVEL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. PREVI.
+EMBARGOS À EXECUÇÃO. POSSIBILIDADE DE REVISÃO DO PACTO. INCIDÊNCIA DO CDC NA ESPÉCIE. SÚMULA 321 DO STJ. O Código de Defesa do Consumidor é aplicável à relação jurídica entre a entidade de previdência privada e seus participantes. CAPITALIZAÇÃO MENSAL. A capitalização mensal dos juros remuneratórios somente passou a ser aceita após a edição da Medida Provisória nº 2.170-36, de 23 de agosto de 2001, exigindo-se, ainda, sua previsão expressa no contrato firmado entre as partes. In casu, o financiamento imobiliário foi celebrado anteriormente à edição da Medida Provisória em voga, razão pela qual vai afastada a incidência da capitalização mensal dos juros. TABELA PRICE.
+Considerando-se que o sistema de amortização francês não implica a capitalização mensal dos juros remuneratórios e, ainda, tendo em vista a previsão contratual expressa de sua incidência, cabível sua aplicação no caso em testilha.
+Precedentes da Câmara. COEFICIENTE DE EQUALIZAÇÃO DE TAXAS. Evidenciado que a escritura de compra e venda objeto desta ação já prevê a correção do débito pelo BTN (na época), não há justificativa para nova atualização do valor financiado, em evidente "bis in idem". Utilização do CET para a correção da dívida afastada, diante da abusividade excessiva que representa.
+Apelação parcialmente provida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 171/175).
+Nas razões recursais (e-STJ fls. 180/188), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente alega, além de divergência jurisprudencial, ofensa ao art. 3º do CDC, sustentando que, por ser uma entidade fechada de previdência complementar, não incidiria as normas consumeristas.
+Indica ainda violação do art. 6º da LINDB, aduzindo, em síntese, a legalidade do Coeficiente de Equalização de Taxa - CET, destacando que (e-STJ fl. 187):
+21. Por outro lado, não convence a conclusão contida no aresto recorrido de que o CET deve ser afastado, pois haveria bis in idem. Ocorre que o CET e a indexação pelo BTN têm natureza e finalidade totalmente distintas e especificas, às quais não devem ser confundidas.
+O recorrido não apresentou contrarrazões (e-STJ fl. 237).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A insurgência quanto ao Coeficiente de Equalização de Taxa - CET não pode ser sustentada apenas com base no art. 6º da LINDB, o qual não regula a matéria. Conforme se verifica do aresto impugnado e das próprias razões recursais da recorrente, referido coeficiente foi afastado para se evitar o bis in idem, visto que o saldo devedor é reajustado pelo BTN. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Ainda que assim não fosse, dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Quanto ao art. 3º do CDC, de fato, após o julgamento do REsp n. 1536786/MG, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/8/2015, DJe 20/10/2015, a Segunda Seção deliberou pelo cancelamento da Súmula 321 do STJ, substituindo-a pela Súmula 563, que orienta que o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.
+Entretanto, a Corte local, ao decidir a demanda, não se valeu das normas consumeristas, fundamentando sua decisão nas seguintes premissas: (i) impossibilidade de capitalização mensal de juros anteriormente a Medida Provisória n. 2.170-36/2001, (ii) incidência da tabela price por não ficar caracterizado o anatocismo e (iii) vedação de utilização do Coeficiente de Equalização de Taxa - CET, tendo em vista a previsão de indexação pelo BTN.
+Ante o exposto, NÃO CONHEÇO do especial.
+Publique-se e intimem-se.
