@@ -1,0 +1,46 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PROGRESSÃO DE REGIME FORMULADO NO JUÍZO DA EXECUÇÃO. EXCESSO DE PRAZO. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM, POR SER CABÍVEL O AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE DIREITO. VIABILIDADE DO MANDAMUS ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PEDIDO NÃO CONHECIDO. ORDEM DE HABEAS CORPUS, TODAVIA, CONCEDIDA EX OFFICIO, PARA QUE O TRIBUNAL DE ORIGEM ANALISE A IMPETRAÇÃO ORIGINÁRIA COMO ENTENDER DE DIREITO, AFASTADO O ENTENDIMENTO DE QUE A PRETENSÃO SOMENTE PODERIA TER SIDO FORMULADA EM RECURSO DE AGRAVO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo proferido nos autos do HC n.º 2232861-94.2018.8.26.0000.
+Consta dos autos que o Paciente foi condenado à pena de 9 (nove) anos de reclusão, em regime inicialmente fechado, como incurso nos arts. 33 e 35 da Lei n.º 11.343/06, além do pagamento de 1.633 (mil seiscentos e trinta e três) dias-multa.
+Em 19/09/2018, o Apenado, ora Paciente, formulou, junto ao Juízo das Execuções Criminais da Comarca de Campinas-SP, pedido de declaração de remição de dias trabalhados e de progressão para o regime aberto (fls. 34-35).
+Entendendo haver excesso de prazo na decisão do referido pedido pelo Juízo das Execuções Criminais, a Defesa impetrou habeas corpus originário no Tribunal Estadual, que não conheceu da ordem, nos termos do acórdão assim ementado (fl. 61):
+"Ementa: Habeas Corpus - Execução Penal - Impetração substitutiva a recurso adequado - Impossibilidade de utilização do writ como sucedâneo recursal - Precedentes do Col. Supremo Tribunal Federal - Indeferimento liminar da impetração."
+Na presente impetração, a Defesa alega que o Paciente sofre constrangimento ilegal porque " ..  mesmo sem a devida apreciação do pedido de remição de pena, o paciente [NOME] resgatou o lapso temporal necessário para promoção ao regime aberto, na data de 24/10/2018  .. " e que " ..  resta patente a morosidade na apreciação do pedido de remição de pena e progressão de regime prisional  .. " (fl. 5).
+Requer, inclusive liminarmente, que o Paciente seja posto em liberdade.
+É o relatório inicial.
+Decido.
+Na espécie, a Corte a quo não examinou o mérito da impetração originária n.º 2232861-94.2018.8.26.0000, mediante a seguinte fundamentação (fls. 60-65; sem grifos no original):
+" ..
+Respeitosamente, o writ há de ser indeferido liminarmente, nos termos do disposto pelo art. 663 do Cód. de Processo Penal.
+Justifico.
+O Excelso Supremo Tribunal Federal, em recentes pronunciamentos, aponta para uma retomada do curso regular do processo penal, ao inadmitir o habeas corpus substitutivo do recurso ordinário.
+Nesse sentido a série de precedentes: HC 109.956/PR, l.a Turma, Rel. Min. Marco Aurélio, DJe de 11/09/2012; HC 104.045/RJ, l.a Turma, Rel. Min. Rosa Weber, DJe de 06/09/2012; HC 108.181/RS, l.a Turma, Rel. Min. Luiz Fux, DJe de 06/09/2012. Decisões monocráticas dos ministros Luiz Fux e Dias Tóffoli, respectivamente, nos autos do HC 114.550/AC (DJe de 27/08/2012) e HC 114.924/RJ (DJe de 27/08/2012). Assim também vem entendendo o E. STJ: HC 251.153/SC - Rel. Min. Laurita Vaz - j. 25.2.2014, DJe 12.3.2014.
+A ação de habeas corpus destina-se a remediar situações de iminente violência ou coação ilegal na liberdade de locomoção, cf. se extrai da leitura do disposto pelo art. 647 da Lei Adjetiva Penal.
+E, com todo o respeito, esta não é a situação apresentada na impetração.
+O impetrante se insurge contra o fato de que, na origem, ainda não teria sido apreciado pleito de concessão de progressão de regime formulado em favor do ora paciente.
+Data vênia, "O habeas corpus é via inadequada para o apressamento de decisões ou providências a serem tomadas durante a execução das penas, as quais devem ser pleiteadas junto ao Juízo das Execuções, competente originariamente para a matéria, com possibilidade de eventual recurso para Superior Instância" (RJDTACrimSP, 27:214) (negrito deste Relator).
+Ora, consoante tranquila jurisprudência, o habeas corpus não é instrumento para agilizar a tramitação de processos. Nesta esteira: "O habeas corpus, ação constitucional destinada a afastar coação ou violência ao direito de locomoção, por ilegalidade ou abuso de poder, não é instrumento processual próprio para ordenar urgência em julgamento de competência de instâncias inferiores" (STJ, HC n. 3.555, rei. Min. VICENTE LEAL, DJU de 11.3.1996, p. 6.658) (negrito deste subscritor).
+Sem prejuízo, eventual pronunciamento deste Sodalício sobre tema ainda não enfrentado por S. Exa., o MM. Juiz, poderia acarretar em subtração de instância, o que é defeso por Lei.
+Ademais, para provocar a atividade judiciária, nesta hipótese, existe recurso específico, qual seja, o de agravo em execução, previsto no art. 197 da Lei 7.210/84, oportunidade em que as alegações defensivas poderão ser amplamente suscitadas e apreciadas, o que se mostra impossível na via estreita do habeas corpus.
+Neste sentido vem se posicionando este E. Tribunal de Justiça do Est. de S. Paulo: HC n. 2062472-18.2014.8.26.0000, rei. Des. Ivan Sartori, 4a Câm. de Direito Criminal, J. 6.5.2014; HC n. 2058620-83.2014.8.26.0000, Rel. Des. Amaro Thomé, 7.ª Câm. de Direito Criminal, J. 24.4.2014; e, HC n. 0070964-67.2013, rel. Des. J. Martins, 15a Câm. de Direito Criminal, J. 13.6.2013.
+Assim, ausente ilegalidade visível icto oculi, é hipótese de se manter a situação do paciente.
+Ante o exposto, nos termos do voto, indefiro liminarmente."
+Inicialmente, vale destacar que as alegações ventiladas nas razões do writ originário não foram analisadas pelo Tribunal a quo, razão pela qual é vedada a apreciação do pedido ora formulado pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Com igual conclusão, cito o seguinte julgado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO N. 8.615/15. ORDEM ORIGINÁRIA INDEFERIDA LIMINARMENTE. MATÉRIA NÃO APRECIADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. FALTA GRAVE HOMOLOGADA FORA DO PRAZO DO DECRETO. IRRELEVÂNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE AGRAVO DESPROVIDO.
+1. Evidenciado que o writ originário foi indeferido liminarmente sob o fundamento de que o habeas corpus não é a via adequada à análise do pedido de indulto, devendo ser interposto agravo em execução, resta evidenciada indevida supressão de instância, eis que alegações trazidas no presente mandamus devem ser previamente apreciadas por órgão colegiado do Tribunal a quo.  ..
+Agravo regimental desprovido." (AgRg no HC 360.024/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/06/2017, DJe de 14/06/2017; sem grifos no original.)
+Contudo, a existência de recurso específico não inviabiliza a impetração de habeas corpus para avaliar a legalidade de ato que consubstancia restrição à liberdade de locomoção e que verse unicamente sobre questão de direito.
+Dessa forma, na hipótese, apesar de ser o agravo o recurso cabível contra decisão proferida pelo Juízo das Execuções Criminais, não há óbice ao manejo do remédio heróico, pois a alegação de constrangimento ilegal ao direito ambulatorial suscitada prescinde do exame aprofundado de provas.
+Nesse sentido, cito os seguintes julgados, mutatis mutandis:
+"AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REVOGAÇÃO DE LIVRAMENTO CONDICIONAL. WRIT ORIGINÁRIO NÃO EXAMINADO PELO TRIBUNAL LOCAL POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. CONSTRANGIMENTO ILEGAL QUE JUSTIFICA A UTILIZAÇÃO DA VIA ELEITA.
+1. A existência de recurso específico não obsta a impetração de habeas corpus, dada a possibilidade de lesão à liberdade de locomoção do indivíduo.
+2. Não pode esta Corte analisar a revogação do livramento condicional, sob pena de inadmissível supressão de instância, uma vez que o mérito da questão não foi objeto de pronunciamento pelo Tribunal local.
+3. Agravo regimental improvido." (AgRg no RHC 69.302/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/06/2016, DJe de 22/06/2016; sem grifos no original.)
+"EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS INCONFORMISMO COM A SUSPENSÃO DO LIVRAMENTO CONDICIONAL E A NÃO CONCESSÃO DE INDULTO. TEMAS NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ANÁLISE NO PRÉVIO WRIT. POSSIBILIDADE. RECURSO PROVIDO.
+ ..
+2. Nada obstante a existência de recurso específico, mostra-se cabível a impetração de habeas corpus sempre que a alegada ilegalidade estiver influenciando na liberdade de locomoção do indivíduo, o que ocorre nos autos (AgRg no HC 298.290/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/10/2014, e HC 294.717/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/10/2014).
+3. Recurso provido para determinar que o Tribunal de origem examine o mérito da impetração." (RHC 74.291/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/09/2016, DJe de 28/09/2016; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do pedido. Todavia, CONCEDO ordem de habeas corpus ex officio, para determinar ao Tribunal de Justiça do Estado de São Paulo que, incontinenti, analise como entender de direito o HC n.º 2232861-94.2018.8.26.0000, afastado o entendimento de que a pretensão somente poderia ter sido formulada em recurso de agravo.
+Publique-se. Intimem-se.
