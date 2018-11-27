@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ e da falta de comprovação da alegada divergência jurisprudencial (e-STJ fls. 707/710).
+O acórdão recorrido está assim ementado (e-STJ fl. 490):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO CONTRA A DECISÃO NA QUAL SE MANTEVE, EM CUMPRIMENTO DE SENTENÇA, O VALOR TOTAL DAS ASTREINTES. PRETENDIDA REDUÇÃO - INADMISSIBILIDADE - OBRIGAÇÃO PRINCIPAL AINDA NÃO EFETIVADA - FALTA DE ELEMENTOS NECESSÁRIOS PARA SEU EXAME. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ fls. 534/550).
+No recurso especial (e-STJ fls. 553/586), fundamentado no art. 105, III, "a" e "c", da CF, a agravante apontou ofensa aos arts. 884 do CC/2002 e 461, 489, 493, 933 e 1.022 do CPC/2015. Sustentou, em síntese, falta de prestação jurisdicional e não observância a fato novo, referente ao parcial cumprimento da obrigação.
+Alegou, ainda, necessidade de redução do valor alcançado pela multa diária.
+No agravo (e-STJ fls. 712/733), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 769/781 (e-STJ).
+É o relatório.
+Decido.
+Quanto à afronta aos arts. 489 e 1.022 do CPC/2015, a agravante entendeu que o aresto recorrido teria sido omisso e contraditório sob os seguintes pontos: (a) não apreciação de fato novo, qual seja, cumprimento parcial da obrigação e (b) ausência de efetiva repercussão na esfera jurídica da recorrida.
+No entanto, o Tribunal de origem assim se manifestou sobre os temas (e-STJ fls. 543/545):
+Como se viu, assinalou-se no acórdão atacada que, para o exame de eventual exorbitância do valor total das astreintes, revela-se necessário, antes, o cumprimento da obrigação, notadamente para se levar em consideração elementos fáticos-probatórios da respectiva delonga de modo global (até a execução).
+Do quanto comunicado na referida petição de f. 483/499 - bem como na sessão de julgamento (sustentação oral) -, no entanto, não se extrai que a obrigação principal tenha sido efetivamente cumprida. Pelo contrário, há informação de que se encontrou um novo local para os animais, mas que ainda "está sendo finalizado.., pendentes.. alguns detalhes finais".
+Não demonstrou a Embargante nos presentes aclaratórios, ademais, que já teria removido todos os animais do seu imóvel -"o cumprimento da ordem se efetivaria nos próximos dias, o que de fato vem se consolidando, restando apenas pouquíssimos animais para serem transferidos" (f. 513 -TJ). Vale dizer: até então a ordem não havia sido cumprida.
+Por outro lado, não se justificaria, de mesma forma, a pretendida imediata diminuição do valor total das astreintes - leia-se, sem o cumprimento da obrigação principal - em razão da mera alegação de "ausência de efetiva repercussão na esfera jurídica da Embargada", a qual, por residir fora do país, não sofreu, conforme quer fazer crer, nenhum abalo durante a maior parte do tempo de incidência da multa.
+Isso porque, como se sabe, a aplicação de multa diária tem o objetivo de estimular o devedor a cumprir com sua obrigação de fazer - o que, frise-se, até o momento não ocorreu dada a recalcitrância, por longos anos, da Embargante.
+Por isso, caso limitado um valor às astreintes ou reduzido o quantum desde já, poder-se-ia haver um incentivo - exatamente o que o ordenamento jurídico procura evitar - ao descumprimento. É dizer, portanto, que nessas hipóteses se enfraqueceria o propósito da aplicação da multa diária.
+Além disso, vislumbra-se que a Embargada afirmou "não poder residir com conforto na sua residência, razão pela qual adiou por tempo indeterminado o seu projeto de morar definitivamente no Brasil. Da mesma forma, não consegue alugá-lo, na medida em que nenhum possível interessado sequer chegou a formular proposta após conhecer o local e perceber o terrível barulho (sem contar o mau cheiro) oriundo da casa vizinha" (f. 58-TJ).
+(..)
+De qualquer maneira, todas essas circunstâncias" serão pormenorizadamente levadas em conta quando da análise, repete-se, dos elementos fáticos-probatórios da respectiva delonga (integral), isso após o efetivo cumprimento.
+Não havendo, portanto, nenhum fato novo (constitutivo, modificativo ou extintivo do direito) a influir no julgamento de mérito, não se poderia cogitar de eventual afronta aos evocados arts. 493, 489, inciso IV, e 933 do Código de Processo Civil.
+Portanto, não se constata hipótese alguma de cabimento dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado na instância a quo, circunstância que, de plano, torna imprópria a aplicação dos arts. 489 e 1.022 do CPC/2015 e o conhecimento do recurso especial nessa parte.
+Ademais, como se verifica do trecho acima transcrito, divergir do entendimento proferido pelo acórdão recorrido, a respeito da inexistência de fato novo e de repercussão negativa na esfera extrapatrimonial da recorrida, demandaria nova análise do acervo probatório, esbarrando o recurso no impedimento da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A respeito da impossibilidade de apreciar o montante alcançado pela multa comunitária, o Tribunal a quo asseverou que somente após o cumprimento integral da obrigação seria possível analisar, a partir das circunstância fáticas, o valor das astreintes, sob pena de que eventual redução precoce possa desestimular a conclusão da obrigação imposta, que no presente caso seria a retirada de todos os animais da propriedade da recorrente (e-STJ fl. 544).
+No entanto, a recorrente limitou-se, no recurso especial, a afirmar, de forma genérica o cumprimento parcial da obrigação, a exorbitância da multa cominatória e a vedação ao enriquecimento ilícito.
+Destarte, não havendo impugnação do fundamento do acórdão recorrido, incide, no caso, a Súmula n. 283 do STF:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
