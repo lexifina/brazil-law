@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 751/752).
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 717):
+Execução Prova emprestada - Ausência de elementos que justifiquem a não utilização da prova emprestada - Não acolhimento do pedido de condenação da agravante nas penas por litigância de má-fé, porque não caracterizado este procedimento - Negado provimento ao recurso, com rejeição do pedido de condenação da agravante nas penas por litigância de má-fé.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 728/731).
+No especial (e-STJ fls. 734/739), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação do art. 873, I e II, do CPC/2015 (art. 683, I e II, do CPC/1973), sustentando "que o laudo trazido à este processo como prova emprestada não cumpre seu propósito por conter inúmeros vícios decorrentes da incapacidade técnica do Sr. Oficial de justiça que o realizou" (e-STJ fl. 737).
+Alegou ainda que a avaliação foi realizada abaixo do valor real do imóvel, pois realizada "há mais de 15 meses, sendo certo que a situação do mercado imobiliário da cidade Manauara é amplamente distinta daquela em que realizada a avaliação" (e-STJ fl. 738).
+No agravo (e-STJ fls. 755/760), afirma a presença de todos os requisitos de admissibilidade do especial.
+A contraminuta foi apresentada (e-STJ fls. 765/769).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+O Tribunal a quo negou provimento ao agravo interposto pela ora agravante, afastando a necessidade de nova avaliação sob os seguintes fundamentos (e-STJ fls. 720/721):
+Não pode ser acolhida a alegação do ora agravante, de que a avaliação está defasada e o valor apurado no laudo não corresponde ao valor real de mercado dos imóveis, já que o laudo foi elaborado em 04/05/16 (fls. 639/642), e desse lapso de tempo não decorre a conclusão de alteração significativa em relação ao valor de mercado, especialmente diante dos elementos trazidos no laudo em questão, e inclusive em consideração de que o valor será atualizado até a data do leilão. O mercado imobiliário não possui o resultado alegado e nada justifica nova avaliação, em razão do tempo decorrido. Também não há notícia de eventual alteração da situação do imóvel ou sobre outro fator relevante que ensejasse a realização de novo trabalho pericial.
+Acresce registar que a agravante fez referência aos imóveis penhorados e ao imóvel mat. n. 4.218 - 5º CRI de Manaus), afirmando que este deixou de ser avaliado pela impossibilidade de delimitação do espaço físico pelo oficial de justiça que cumpriu a ordem judicial, questões estas impertinentes neste recurso, já que a prova emprestada é pertinente apenas ao imóvel objeto da matrícula nº36.905 do 3º Cartório de Registro de Imóveis de Manaus-SP, descrito no laudo de fls. 639/642. Logo, impertinentes, neste recurso, as alegações relativas a este imóvel ou a cópia da impugnação à penhora apresentada pela ora agravante em relação a este mesmo imóvel, que está a fls. 590/594.
+Anoto, por fim, que na impugnação à avaliação, apresentada pela ora agravante nos autos do processo 0221833.80.2015.8.04.0001, houve alegação de que seria incabível, por falta de conhecimento técnico, a avaliação dos imóveis por oficial de justiça, e na mesma petição afirmou indicar (naquele processo) outro valor de avaliação em relação aos imóveis penhorados, mas estas alegações não podem aqui ser acolhidas para afastar a prova emprestada, na ausência de fundamentos técnicos que permitam supor pela imprecisão da avaliação.
+Ademais, a avaliação por oficial de justiça encontra amparo jurisprudencial.
+Assim, não há que ser feita nova avaliação pericial nos autos, na ausência de fundadas razões e haja vista a já existente, que deve ser utilizada nos autos de origem como prova emprestada.
+Rever esse entendimento para a acolher a tese da agravante demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
