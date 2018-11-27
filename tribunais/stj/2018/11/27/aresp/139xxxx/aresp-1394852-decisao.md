@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PRÊMIO DE DESEMPENHO INDIVIDUAL. EXTENSÃO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] e Outros em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+PRÊMIO DE DESEMPENHO INDIVIDUAL - PDI - Servidores públicos estaduais inativos - Pretensão ao recebimento da vantagem no percentual de 50% - Prêmio instituído pela Lei Complementar Estadual nº 1.158/2011 e regulamentado pelo Decreto nº 57.781/2012 Inadmissibilidade - Vantagem de caráter específico, com necessidade do efetivo exercício no cargo e da avaliação de desempenho individual do servidor - Precedentes desta C. Corte - R. Sentença mantida.
+Recurso improvido.
+Os Embargos de Declaração opostos foram rejeitados.
+Em suas razões de recurso especial, sustenta a parte recorrente violação dos arts. 1.022 e 489 do CPC/2015, porquanto, não analisou a controvérsia nos moldes da Súmula Vinculante nº 20/STF e temas nº 351 e 664 firmados em sede de repercussão geral pelo STF. Aduz que os servidores aposentados integrantes das classes regidas pela Lei Complementar nº 1.158/2011, tem direito a extensão de verba concedida indistintamente, durante determinado período, a todos os servidores ativos integrante das mesmas classes.
+Apresentadas contrarrazões (e-STJ fls. 297/311).
+A decisão agravada negou seguimento ao especial sob a compreensão de que inexiste violação do art. 1.022 do CPC/2015 e Súmula 7/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade.
+Ofertada contraminuta (e-STJ fls. 342/348).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo o agravante impugnados os fundamentos da decisão de inadmissibilidade, passo a análise do recurso especial.
+Verifico que a Corte de Origem ao apreciar a controvérsia, assentou os seguintes fundamentos, verbis:
+O benefício denominado Prêmio de Desempenho Individual - PDI, destinado para algumas classes de servidores, foi instituído pela Lei Complementar Estadual nº 1.158, de 02.12.2011:
+"Artigo 3- - Fica instituído o Prêmio de Desempenho Individual - PDI, a ser concedido aos servidores integrantes das classes regidas pela Lei Complementar ns 1.080, de 17 de dezembro de 2008, indicadas no Anexo VI desta lei complementar, em efetivo exercício nas Secretarias de Estado e Autarquias, com o objetivo de aprimorar os serviços prestados, observado o disposto nos artigos 9º e 10 desta lei complementar".
+E foi regulamentado pelo Decreto nº 57.781, de 10.02.2012, o qual ordenou nos artigos 2e e 3e:
+"Artigo 2º - O Prêmio de Desenvolvimento Individual - PDI será concedido aos servidores integrantes das classes regidas pela Lei Complementar nº 1.080, de 17 de dezembro de 2008, constantes do Anexo VI a que se refere o artigo 4º da Lei Complementar nº 1.158, de 2 de de dezembro de 2011, em efetivo exercício nas Secretarias de Estado e Autarquias, mediante processo de Avaliação de Desempenho Individual, com o objetivo de aprimorar os serviços prestados.
+Artigo 3º - O servidor fará jus à concessão do Prêmio de Desempenho Individual - PDI correspondente ao percentual obtido, anualmente, na Avaliação de Desempenho Individual, de que trata o Decreto nº 57.780, de 10 de fevereiro de 2012, durante o período de 1 (um) ano a partir do dia 1º de agosto de cada ano.
+§ 1º - Excepcionalmente o servidor fará jus a concessão de 50% (cinqüenta por cento) do Prêmio de Desempenho Individual - PDI nos casos em que obtiver Avaliação de Desempenho Individual inferior a este percentual, se preencher cumulativamente os seguintes requisitos:
+1. contar com pelo menos 2 (dois) terços de efetivo exercício no período considerado para a avaliação;
+2. não ter sofrido penalidades administrativas no período considerado para a avaliação  .. ."
+Consoante os dispositivos citados, nota-se que o recebimento da vantagem está atrelado ao efetivo exercício do cargo e à avaliação de desempenho individual e ainda, em casos excepcionais, mediante o preenchimento dos requisitos da freqüência e da disciplina.
+De fato, o pagamento do prêmio não pode ser estendido a todos os aposentados, vez que não se vislumbra o caráter geral e incondicionado, além da observância ao princípio da legalidade estrita.
+Verifica-se que a vantagem possui caráter específico, pois busca premiar o servidor de determinadas classes que esteja em efetivo exercício, visando ao aprimoramento dos serviços prestados pela Administração.
+Como bem decidiu o Juízo monocrático: "Longe de ser um aumento disfarçado, referido prêmio é uma gratificação que premia o servidor assíduo, em primeiro lugar, como também aquele que se esforça em seu labor, com direito à incorporação de 1/30 por ano de recebimento, com a evidente intenção de garantir que o servidor, durante 30 anos de trabalho, seja sempre assíduo e diligente, requisitos mínimos para se almejar a boa administração que todos desejam" (fls. 185/186).
+Cumpre mencionar que o art. 1º, das Disposições Transitórias da LC nº 1.158/2011, apenas estabeleceu a possibilidade do pagamento provisório do PDI, para não prejudicar os servidores, vez que a avaliação de desempenho demandaria tempo para sua implementação:
+"Artigo 1º - Até 31 de julho de 2012, o PDI será pago aos servidores a que se refere o artigo 3º da parte permanente desta lei complementar na proporção de 50% (cinqüenta por cento) do valor resultante da aplicação dos coeficientes previstos no artigo 4º desta lei complementar, observada a jornada de trabalho a que o servidor se encontra sujeito".
+Tal disposição não teve o condão de transformar a benesse em caráter genérico, mantendo seu cunho de verba eventual e transitória.
+Por sua vez, o artigo 2º determinou que, a partir de 1º.08.2012, o PDI fosse pago com base nos resultados obtidos no processo de avaliação de desempenho individual:
+"Artigo 2º - A partir de 1º de agosto de 2012, o PDI será pago aos servidores a que se refere o artigo 3º da parte permanente desta lei complementar com base nos resultados obtidos no Processo de Avaliação de Desempenho Individual, de que trata o artigo 5- desta lei complementar".
+Além disso, em relação ao cômputo da benesse na base de cálculo de tributos e outros descontos, decidiu o E. DES. MARREY UINT:
+"Outrossim, quanto ao Decreto nº 57.781/2012, está disposto no art. 5º o pagamento de metade da verba sob as condições de freqüência e disciplina. Assim, a questão do cômputo da verba na base de cálculo de tributos e outros descontos nada provam além da natureza remuneratória e arrecadatória, não sendo autorização de verba permanente.
+Destarte, demonstrada que a gratificação é paga com natureza "pro labore faciendo", na medida em que tem por base o desempenho específico e individualizado de cada servidor exercendo função além da jornada de trabalho não há falar, no caso da PDI, de pagamento genérico da gratificação, e, consequentemente, não subsiste base legal para a equiparação entre ativos e inativos" (TJSP - 3º [NOME]. Público - AC 0044477-32.2012.8.26.0053 - j. 05.11.2013).
+Desse modo, descabe aventar o caráter geral da vantagem, inexistindo suporte legal para a sua extensão aos Apelantes.
+Com efeito, extrai-se da leitura da fundamentação do acórdão recorrido que a questão atinente a impossibilidade de extensão da vantagem foi decidida a partir da análise de legislação estadual, qual seja, a Lei Complementar Estadual nº 1.158/2011. Incidência da Súmula 280/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
