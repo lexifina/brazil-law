@@ -1,0 +1,8 @@
+DESPACHO: A Sociedade Hospital Samaritano, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 608.872-RG/MG, Rel. Min. DIAS TOFFOLI, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão, no ponto objeto de discussão nestes autos, assim ementado:
+    “7. A propósito, tal orientação alinha-se aos precedentes desta Corte no sentido de ser a imunidade tributária subjetiva constante do art. 150, VI, ‘c’, da Constituição aplicável à hipótese de importação de mercadorias pelas entidades de assistência social para uso ou consumo próprios. Essas entidades ostentam, nessa situação, a posição de contribuintes de direito, o que é suficiente para o reconhecimento do beneplácito constitucional. O fato de também serem apontadas, costumeira e concomitantemente, como contribuintes de fato é irrelevante para a análise da controvérsia. Precedentes. (…).” (grifei)
+    Isso significa que se impõe, quanto ao tema nº 342/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 27 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
