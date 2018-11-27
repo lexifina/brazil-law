@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJGO assim ementado (e-STJ fls. 109/110):
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA. AÇÃO MONITORIA. PENHORA SOBRE VERBA SALARIAL. POSSIBILIDADE. LIMITE DE 30%. ENTENDIMENTO SUMULADO PELO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS. AUSÊNCIA DE FATOS NOVOS A JUSIFICAR O PEDIDO DE RECONSIDERAÇÃO. I - Em se tratando de matéria a cujo respeito é dominante o entendimento no respectivo Tribunal ou nos Tribunais Superiores (STF e STJ), veiculado em súmula ou jurisprudência, o Relator está autorizado, com lastro no caput e § 1º-A do art. 557 do CPC, negar seguimento ou dar provimento de plano ao recurso, permissividade que não implica cm ofensa aos princípios do devido processo legal, recorribilidade e duplo grau de jurisdição. II - É possível a penhora sobre valores depositados em conta corrente, ainda que provenientes de salário, desde que limitada a 30% (trinta por cento), conforme sedimento na Súmula 1, do egrégio Tribunal de Justiça do Estado de Goiás. III - Inexistindo fundamento ou fato novo capaz de conduzir o julgador a nova convicção, nega-se provimento ao Agravo Regimental. AGRAVO REGIMENTAL CONHECIDO, MAS IMPROVIDO.
+Nas razões recursais (e-STJ fls. 132/151), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, o recorrente aponta ofensa ao art. 649, IV, do CPC/1973, bem como dissídio jurisprudencial.
+Sustenta que a verba acondicionada em conta-salário não poderia ter sido parcialmente penhorada em 30% (trinta por cento) ao mês, tendo em vista que decorre de saldo salarial, tratando-se de bem de natureza absolutamente impenhorável.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal de origem dissentiu da jurisprudência desta Corte ao manter decisão do magistrado de primeira instância que havia autorizado a penhora no percentual de 30% (trinta por cento) sobre os valores encontrados na conta-corrente destinada ao recebimento de salário do recorrente.
+Como regra, é inviável a penhora de salário do devedor, à exceção de crédito com natureza alimentar, o que não se verifica nos autos. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE SALÁRIO. NATUREZA ALIMENTAR DA VERBA EXECUTADA. CONTRATO DE LOCAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior adota o posicionamento de que o caráter absoluto da impenhorabilidade dos vencimentos, soldos e salários (entre outras verbas destinadas à remuneração do trabalho) é excepcionado pelo § 2º do art. 649 do CPC, quando se tratar de penhora para pagamento de prestações alimentícias (AgRg no AREsp 632.356/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 3/3/2015, DJe de 13/13/2015). 2. No caso dos autos, ao autorizar a penhora de 30% sobre os vencimentos do recorrido, o Tribunal a quo decidiu em dissonância com o entendimento do STJ, tendo em vista que o débito em questão decorre de valores que o recorrente/fiador teve que pagar em nome de devedor/recorrido, réu em ação de despejo, ou seja, não consiste em prestação alimentar.
+3. Agravo interno não provido.
+(AgInt no AREsp 877.428/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/03/2017, DJe 27/03/2017.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. PENHORA DE 30% SOBRE CONTA SALÁRIO. IMPOSSIBILIDADE. ART. 649, IV, DO CPC. EXCEÇÃO PARA A PARTE REFERENTE AOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM RAZÃO DE SUA NATUREZA ALIMENTAR.
+1. A jurisprudência desta Corte orienta que, nos termos do artigo 649, IV, do Código de Processo Civil de 1973, são impenhoráveis os valores depositados em conta destinada ao recebimento de vencimentos, salários, ou proventos de aposentadoria do devedor.
+2. É possível, entretanto, a penhora de verbas remuneratórias com o objetivo de adimplir crédito relativo a honorários advocatícios, tendo em vista sua natureza alimentar, nos termos do § 2º do art.
+649 do Código de Processo Civil.
+3. Agravo interno parcialmente provido.
+(AgInt no AREsp 994.681/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/06/2017, REPDJe 24/08/2017, DJe 27/06/2017.)
+Diante do exposto, DOU PROVIMENTO ao recurso especial, para determinar o desbloqueio do percentual penhorado na origem.
+Publique-se e intimem-se.
