@@ -1,0 +1,27 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA ESPECIAL. MANDADO DE SEGURANÇA. PAGAMENTO DE PARCELAS ANTERIORES AO AJUIZAMENTO DO FEITO. ART. 14, § 4o. DA LEI 12.016/2009. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INCIDÊNCIA. RECURSO ESPECIAL DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA - Aposentadoria Especial - Ingresso antes da EC 41/2003 - Regras de transição previstas nos artigos 2o. e 6o. da EC 41/2003 e artigos 2o. e 3o. da EC 47/2005 que se referem à aposentadoria comum - Cumprimento dos requisitos legais - Direito à aposentadoria especial com proventos integrais e paridade com o pessoal da ativa conforme o disposto no art. 40, § 8o. da ÇF, com a redação dada pela EC 20/1998 -Recurso não provido (fls. 135).
+2. Os Embargos de Declaração opostos (fls. 145/148) foram rejeitados (fls. 152/157), por unanimidade.
+3. Nas razões de seu Apelo Nobre, a parte recorrente alega violação do art. 14, § 4o. da Lei 12.016/2009, aduzindo, em suma, que em sede de Mandado de Segurança, é indevido o pagamento de parcelas anteriores ao ajuizamento do feito.
+4. O Ministério Público Federal, em parecer da lavra do ilustríssimo Subprocurador-Geral da República [NOME], opinou pelo não conhecimento do Recurso Especial (fls. 213/215).
+5. É o relatório.
+6. Cuida-se, na origem, de Mandado de Segurança ajuizado contra o Diretor da Divisão de Administração de Pessoal e Planejamento da Polícia Civil do Estado de São Paulo - DAP, em que se pleiteia a concessão de aposentadoria voluntária especial, com proventos integrais e regras de paridade.
+7. A questão controvertida reside na alegação da FAZENDA DO ESTADO DE SÃO PAULO de que, em sede de Mandado de Segurança, é indevido o pagamento de parcelas anteriores ao ajuizamento do feito.
+8. Depreende-se da atenta leitura dos autos que a matéria sobre a qual versa o art. 14, § 4o. da Lei 12.016/2009, a despeito da oposição dos Embargos de Declaração, não foi debatida pelo Tribunal de origem.
+9. Dessa forma, incide, na hipótese, o óbice da Súmula 211/STJ, por ausência de prequestionamento. A esse propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 1o. DA LEI 12.016/2009. INCIDÊNCIA DA SÚMULA 211/STJ. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. RESOLUÇÃO TJ/SC 12/2014. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 280/STF.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+III - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido (AgInt no REsp. 1.603.977/SC, Rel. Min. REGINA HELENA COSTA, DJe 10.11.2016).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VIOLAÇÃO DOS ARTS. 75 DO CÓDIGO CIVIL DE 1916 E 5o. E 6o. DA LEI 12.016/2009. SÚMULA 211/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A tese jurídica relativa à manutenção do Município de Santo André no polo passivo do mandamus não foi apreciada pela instância judicante de origem, tampouco foi objeto do embargos declaratórios opostos perante a Corte de origem. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 75 do Código Civil de 1916; 5o. e 6o. da Lei 12.016/2009, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, no ponto, o óbice da Súmula 211/STJ.
+3. Ademais, a Corte local, com base nos elementos probatórios da demanda, decidiu pela anulação das multas em discussão nos autos, de modo que a alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame de matéria fática, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 492.330/SP, Rel. Min. SÉRGIO KUKINA, DJe 10.12.2014).
+10. Diante do exposto, nega-se provimento ao Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+11. Publique-se.
+12. Intimações necessárias.
