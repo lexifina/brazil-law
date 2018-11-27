@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PRESTAÇÃO DE SERVIÇOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por ENSANA CONSTRUTORA DE OBRAS LTDA. contra a decisão de fls. 538-540 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (fls. 474-475, e-STJ):
+DIREITO DO CONSUMIDOR. DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO DE RUA COM ASFALTO. DEFEITO NO SERVIÇO PRESTADO. OBRA QUE APRESENTOU ERUPÇÕES ("BURACOS") NO ASFALTO PAVIMENTADO. ATRIBUIÇÃO DE CULPA PELA UTILIZAÇÃO INADEQUADA DO ASFALTO APÓS A ENTREGA DA OBRA NÃO COMPROVADA. APELANTE QUE ABDICOU DA PRODUÇÃO DA PROVA TÉCNICA. INEXISTÊNCIA r.r FATOS IMPEDITIVOS, MODIFICATIVOS OU EXTINTIVOS DO DIREITO DO AUTOR/APELADO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM SEDE RECURSAL. MAJORAÇÃO. § 11 DO ART. 85 DA LEI N. 13.105/2015.
+1. Obrigação de fazer fundada na má prestação de serviços, uma vez que a pavimentação apresentou deformidade após a entrega da obra; senão, que, ainda, dentro do prazo da garantia contratualmente prevista.
+2. Atribuição de culpa exclusiva do Apelado pela utilização inadequada da via pavimentada após a entrega da obra não demonstrada ante a ausência de prova acerca do tráfego de veículo pesado.
+3. Produção de prova pericial abdicada pela Apelante, pelo que, os fatos alegados restam não comprovados.
+4. "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 32 para a fase de conhecimento". § 11 do art. 85 da Lei n. 13.105/2015.
+5. Recurso de Apelação conhecido e não provido.
+Os embargos de declaração opostos foram desacolhidos (fls. 502-509, e-STJ).
+Nas razões do recurso especial (fls. 512-521, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 373, 1.022 e 1.026 do Código de Processo Civil de 2015.
+Sustentou, em suma: (i) negativa de prestação jurisdicional, ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, em especial à alegação de ilegitimidade passiva, pois o contrato em análise foi assinado por pessoa estranha à empresa do recorrente; (ii) ser descabida a aplicação da multa porquanto os embargos de declaração tinham intuito de sanar a omissão, ainda existente; e (iii) ser indevida sua condenação à obrigação de fazer pleiteada, pois a contratação foi realizada com terceiro, que não detinha poderes para assumir obrigações em nome da empresa recorrente.
+Em juízo de admissibilidade, a Corte de origem negou o processamento do recurso especial com base nos seguintes fundamentos: a) ausência de violação ao art. 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas e a decisão encontra-se fundamentada; b) incidência da Súmula 7/STJ; e c) o dissenso jurisprudencial não foi demonstrado nos termos exigidos pelo art. 1.029 do CPC/2015.
+Irresignada (fls. 543-549, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Sem contraminuta, conforme certidão à fl. 551 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, verifica-se que a apontada afronta ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. ACIDENTE DE TRÂNSITO. SUFICIÊNCIA PROBATÓRIA DAS DESPESAS. VIOLAÇÃO DOS ARTS. 131, 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não subsiste a alegada ofensa aos artigos 131, 165, 458 e 535 do CPC, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+ ..
+3. Agravo regimental não provido. (AgRg nos EDcl no REsp n. 1.155.359/RS, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2014, DJe 2/5/2014).
+Destaque-se, por oportuno, que a matéria apontada como omitida - alegação de ilegitimidade ad causam para compor o polo passivo da presente demanda - foi objeto de expressa manifestação pela Corte local, consoante denotam os seguintes excertos do acórdão recorrido (fls. 478-479, e-STJ):
+(..)
+A Apelante sustenta sua ilegitimidade passiva, arguindo que o contrato foi firmado entre o Apelado e um seu ex-funcionário [NOME] que utilizou indevidamente o nome da empresa.
+O juízo de Direito que afastou a ilegitimidade e reconheceu ser a empresa Apelante parte legítima para figurar no polo passivo da vertente relação jurídica processual, in verbis:
+(..)
+Portanto, não merece reparo os, fundamentos que o douto Magistrado utilizou para manter a Apelante no polo passivo da ação.
+Dos Autos, verifica-se que o contrato foi firmado, sim, entre a empresa Apelante Ensana Construtora de Obras Ltda. (Pessoa Jurídica inscrita no CNPJ sob n. 75.644.203/0001-10), e, o Apelado. Do contrato social, da sua cláusula 3Ê (Terceira) se extrai que a execução da obra foi realizada pela construtora, além de prever na cláusula 5.ª (Quinta) a responsabilidade da pessoa jurídica por qualquer dano causado, inclusive, pelos atos praticados por seus "ajudantes".
+Ademais, ficou a encargo da empresa o fornecimento de todo o material, equipamento e maquinários para a execução da obra, a qual foi realizada sem qualquer insurgência da pessoa jurídica que pudesse vir a embargar o desenrolar das obras.
+Assim, a preliminar arguida deve ser afastada, manutenindo-se, pois, a decisão judicial que manteve a Apelante jungida à lide (Sem grfosn original).
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+Ademais, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7/STJ.
+No tocante à aplicação da multa disposta no art. 1.026, § 2º, do CPC/2015, o entendimento desta Corte Superior é de que, não ficando nítido o caráter de prequestionamento dos embargos de declaração e concluindo o Tribunal local ser o recurso procrastinatório, o reexame acerca do cabimento ou não da penalidade esbarra no óbice da Súmula 7/STJ.
+No caso dos autos, verifica-se que as questões suscitadas nos embargos declaratórios haviam sido efetivamente decididas, não havendo que se falar em omissão, contradição, obscuridade, erro material ou ausência de fundamentação, mas, sim, em julgamento adverso ao pretendido pela parte recorrente.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
