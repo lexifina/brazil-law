@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973) impugnando decisão que inadmitiu o recurso especial sob o fundamento de incidência da Súmula n. 7/STJ (e-STJ fls. 963/966).
+O acórdão proferido pelo TJPR está assim ementado (e-STJ fl. 427):
+AGRAVO INTERNO - DECISÃO MONOCRÂTICA QUE DEU PARCIAL PROVIMENTO AO PRECEDENTE AGRAVO DE INSTRUMENTO, PARA RECONHECER A IMPENHORABILIDADE APENAS DO IMÓVEL DE PROPRIEDADE DOS AVALISTAS - DESPROVIMENTO ANTE A NÃO VIOLAÇÃO AO DISPOSTO NO caput e §1º-A DO ART. 557 DO CPC. Agravo interno desprovido.
+Os embargos de declaração opostos ao julgado foram rejeitados (e-STJ fls. 467/469).
+Nas razões do especial (e-STJ fls. 472/496), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, os recorrentes apontaram ofensa aos arts. 1º e 3º da Lei n. 8.009/1990, sustentando a impenhorabilidade do bem de família oferecido em garantia hipotecária.
+O recorrido apresentou resposta aos recursos (e-STJ fls. 587/591).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade.
+A conclusão do aresto recorrido está em consonância com a jurisprudência do STJ, segundo a qual a exceção prevista no art. 3º, V, da Lei n. 8.009/1990 é aplicável nas hipóteses em que, comprovadamente, a dívida garantida pela hipoteca, constituída sobre o bem de família, resulta de crédito que reverteu, de algum modo, em favor da entidade familiar.
+Sobre o tema:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - AUTOS DE AGRAVO DE INSTRUMENTO NO BOJO DE DEMANDA DE EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE - IMPENHORABILIDADE DO BEM DE FAMÍLIA - REEXAME DE PROVAS - SÚMULA 7/STJ - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA EXEQUENTE.
+1. É iterativa a jurisprudência deste e. Superior Tribunal de Justiça que entende ser admissível a penhora do bem de família hipotecado quando a garantia real for prestada em benefício da própria entidade familiar, e não para assegurar empréstimo obtido por terceiro ou pessoa jurídica, sendo vedado se presumir que a garantia fora dada em benefício da família, para, assim, afastar a impenhorabilidade do bem com base no art. 3º, V, da Lei n. 8.009/90.
+Alterar a conclusão do Tribunal de origem - de que a dívida decorrente da hipoteca não se reverteu em prol da família -, enseja o reexame de provas e, consequentemente a incidência da Súmula 7/STJ.
+2. A impenhorabilidade do bem de família é irrenunciável pela vontade do seu titular por tratar-se de um princípio relativo às questões de ordem pública. O escopo da proteção ao bem de família é a proteção da própria entidade familiar e não do patrimônio do devedor em face de suas dívidas, devendo as exceções à impenhorabilidade serem interpretadas restritivamente à hipótese prevista em lei. Incidência da Súmula 83/STJ. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no Ag n. 1355749/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/5/2015, DJe 1º/6/2015.)
+CIVIL. RECURSO ESPECIAL. EXECUÇÃO. EXECUÇÃO. EMPRÉSTIMO. BEM DE EMPRESA OFERECIDO LIVREMENTE POR ELA, EM GARANTIA REAL HIPOTECÁRIA DE OUTRA PESSOA JURÍDICA. PENHORA DO IMÓVEL. VALIDADE DA HIPOTECA. EXCEÇÃO À REGRA DA IMPENHORABILIDADE DO BEM DE FAMÍLIA. INTERPRETAÇÃO RESTRITIVA. IMÓVEL DE PROPRIEDADE DE PESSOA JURÍDICA QUE NUNCA FOI SEDE DE EMPRESA FAMILIAR. PENHORABILIDADE DO BEM. VALIDADE DA HIPOTECA OFERECIDA LIVREMENTE POR EMPRESA PARA GARANTIR MÚTUO DE OUTRA PESSOA JURÍDICA. RECURSO ESPECIAL NÃO PROVIDO.
+1. A proteção legal conferida ao bem de família pela Lei nº 8.009/1990, ao instituir a sua impenhorabilidade, objetiva a proteção da própria família ou da entidade familiar, de modo a tutelar o direito constitucional fundamental da moradia e assegurar um mínimo para uma vida com dignidade dos seus componentes.
+2. A lei estabelece, de forma expressa, as hipóteses de exceção à regra da impenhorabilidade do bem de família, o que reflete o seu caráter excepcional, evidenciando que ela é insuscetível de interpretação extensiva.
+3. A jurisprudência desta egrégia Corte Superior, em caráter excepcional, confere o benefício da impenhorabilidade legal, prevista na Lei nº 8.009/1990, a bem imóvel de propriedade de pessoa jurídica, na hipótese de pequeno empreendimento familiar, cujos sócios são seus integrantes e a sua sede se confunde com a moradia deles. Precedentes. Hipótese não configurada.
+4. É consolidado o entendimento de que a impenhorabilidade só não será oponível nos casos em que o empréstimo contraído foi revestido em proveito da entidade familiar, o que se verificou no caso.
+5. É válida a hipoteca prestada por empresa que livremente ofereceu imóvel de sua propriedade para garantir empréstimo de outra pessoa jurídica.
+6. Recurso especial não provido."
+(REsp n. 1422466/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/5/2016, DJe 23/5/2016.)
+O recorrente sustentou que "o imóvel de matricula nº 20.968 do Cartório de Registro de Imóveis de Medianeira/PR não recai na exceção do art. 3º, V da Lei 8.009/90, sendo considerado bem de família pelo simples fato de que a entidade familiar não teve beneficio algum, ou seja, não foram os beneficiários diretos da hipoteca instituída, vez que trata-se de Cédula de Crédito Bancária para o pagamento do custeio agrícola referente a operação, ou seja, referente ao pagamento da Cédula de Produto Rural nº. 40/00805-3, equiparando-se dessa forma a garantia oferecida à hipoteca prestada em beneficio de terceiro e não a entidade familiar, vez que apesar de não ser pessoa jurídica constituída, a propriedade rural do Recorrente (Imóvel de Matricula 779 e 780 do Cartório de Registro de Imóveis de Sapezal/MT) foi a única beneficiada e não a entidade familiar, como aduzem os [NOME]" (e-STJ fls. 491).
+Na espécie, foram consignadas as seguintes circunstâncias pelo Tribunal de origem (e-STJ fls. 358/359):
+Embora afirmem os Agravantes que o imóvel matriculado sob o nº 20.968, de propriedade de [NOME] e [NOME], é o único imóvel da entidade familiar e que o banco exigiu como garantia do financiamento, não há como prosperar tais escusas. Isto porque conforme se verifica da cédula de crédito bancário de f. 43/55, o crédito foi concedido em benefício do emitente [NOME].
+Além disso, não restou evidenciado, no caso em apreço, que a garantia hipotecária foi tomada mediante coação pela instituição financeira agravada.
+Ademais, inegável que o crédito reverteu em proveito da própria entidade familiar.
+Ressalte-se, que cabia ao agravante/emitente o ônus da prova de que a dívida contraída não trouxe benefício para a família e ausente essa prova, não há como resguardar a impenhorabilidade pleiteada.
+Como no caso do imóvel matriculado sob o nº 20.968, de propriedade de [NOME] e [NOME], não restou comprovado que a garantia hipotecária dada por eles foi em benefício de terceiros, que não à própria entidade familiar, em aplicação à regra de exceção prevista no inc. V do art. 3º da Lei 8.009/90 não merece guarida a suscitada impenhorabilidade do bem de família.
+Nessas condições, para dissentir das conclusões do acórdão impugnado quanto ao tema, seria necessário reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos das Súmulas n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
