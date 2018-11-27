@@ -1,0 +1,34 @@
+Decisão: Trata-se de recurso em habeas corpus interposto por Rosa Teixeira de Jesus Silva, contra decisão acórdão da Quinta Turma do STJ, nos autos do HC 454.239/SP.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de ROSANA TEIXEIRA DE JESUS SILVA, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+    Depreende-se dos autos que a paciente foi presa em flagrante e teve a prisão convertida em preventiva pela prática, em tese, dos crimes previstos no art. 2o , parágrafo 2 º , c.c. o artigo 1º, parágrafo 1º, da Lei 12.850/13; artigo 251, parágrafo 2 o , c.c. o artigo 250, parágrafo I o , inciso I, do Código Penal (por duas vezes); artigo 155, parágrafos I o e 4 o , incisos I e IV, do Código Penal (por duas vezes); artigo 155, parágrafos I o e 4 o , incisos I e IV, do Código Penal (armas subtraídas do Banco do Brasil); artigo 157, parágrafo 2o , incisos I e II, do Código Penal (por duas vezes); artigo 15 da Lei 1.0826/2.003; artigo 157, parágrafo I o , c.c. parágrafo 2o , inciso II, do Código Penal (roubo do veículo VW/Fusca em São Luiz do Paraitinga) e artigo 157, parágrafo 2o, inciso II, do Código Penal (roubo do iPhone cm São Luiz do Paraitinga); todos c.c. os artigos 29 e 69 do Código Penal (fls. 62-63).
+    Irresignada, a Defesa impetrou Habeas Corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva da paciente. O eg. Tribunal de origem denegou a ordem, em acórdão de fls. 25-34, que restou assim ementado:
+     […]
+    Daí o presente mandamus, no qual o impetrante alega, em síntese, que "inexistem motivos suficientes que justifiquem a segregação cautelar, ainda mais que, levando-se em consideração da própria lei, a mesma concede o direito de resposta ao processo em liberdade" (fl. 4).
+    Aduz que a paciente ostenta condições pessoais favoráveis e ser possível a aplicação das medidas cautelares diversas da prisão.
+    Requer, assim, a revogação da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medidas cautelares diversas da prisão.
+    A liminar foi indeferida às fls. 38-40.
+    As informações foram prestadas às fls. 45-64.
+    O D. Ministério Público Federal, às fls. 66-74, manifestou-se pelo não conhecimento do writ, em parecer ementado nos seguintes termos:
+    [...]
+    É o relatório.” (eDOC 1, p. 81-82)
+    No STJ, a ordem foi denegada.
+    Nesta Corte, a recorrente sustenta que não estão presentes os requisitos autorizadores da prisão preventiva. (eDoc 1, p. 96)
+    A Procuradoria-Geral da República opinou pelo improvimento. (eDOC 4)
+    É o relatório.
+    Decido.
+    A recorrente aduz que falta ao decreto prisional fundamentação idônea, motivo por que requer a revogação da prisão preventiva ou sua substituição por outras medidas cautelares.
+    Examino, pois, o ato questionado:
+    “No mais, acolho o pedido retro deduzido pelo MP, isto é, atenta às circunstancias referidas no próprio flagrante e aos antecedentes indicados na documentação que instruiu o pedido - de acordo com a FAs de SP (Edio tem diversos antecedentes criminais inclusive por delitos contra o patrimônio - roubo, tráfico, furto, porte de arma, inclusive condenação e passagem pelo sistema prisional; Rosana por receptação e roubo e Joio por receptação e adulteração de sinal identificador de veículo, destacando-se que o último nesta audiência informou que já esteve preso - por oito meses - por porte ilegal de armas; demais disso, nesta data Paulo informou que já esteve preso no Estado de Minas Gerais. Baependi por delito contra o patrimônio e Pedro informou que já foi preso no Estado do Rio de Janeiro por suspeita de envolvimento no tráfico), acrescento também que não é caso de concessão de liberdade provisória. De fato, os prévios registros criminais de cinco dos presos e o forte impacto da conduta que aqui se apura (isto é, a ação tem causado enorme insegurança na população e se repete em diversos Municípios (estouro de caixas eletrônicos depois de prévia análise das características de cada cidade - tanto que ruas e rodovias são bloqueadas, carros são incendiados, tudo para viabilizar a fuga dos agentes) e, mais, os indiciados vieram de outras cidades (três deles do listado do Rio de Janeiro); conclui-se que a segregação cautelar de todos é indispensável - no mínimo - para a manutenção da ordem pública e garantia da própria instrução (ressaltando-se constar que o filho da vitima do roubo do carro foi agredida)." (eDOC 1, p. 17-18)
+    Ao denegar a ordem, registrou o STJ:
+    “Da leitura do trecho acima, pois, tenho que a decisão que decretou a prisão preventiva da paciente encontra-se devidamente fundamentada, em dados concretos extraídos dos autos, que evidenciam a imperiosidade da prisão para garantia da ordem pública, notadamente pelo fato de que a paciente tem passagens por roubo e receptação, dado que evidencia a necessidade da imposição da medida extrema, ante o fundado risco de reiteração delitiva.
+    Ademais, extrai-se, ainda, que a complexidade da organização criminosa supostamente por eles integrada demonstra gravidade concreta da conduta a tornar necessária a prisão preventiva, pois revela grau de envolvimento com o crime a indicar sua periculosidade, constando a informação do envolvimento de, ao menos, outros acusados na prática delitiva. E, conforme a jurisprudência do col. Pretório Excelso, também enquadra-se no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva. Colaciono, oportunamente, o seguinte julgado do col. Supremo Tribunal Federal sobre o tema. (eDOC 1, p. 86)
+    Com efeito, o fundamento para a decretação da prisão preventiva não diverge da orientação desta Corte, Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do acusado com a jurisprudência do STF.
+    Nesse contexto, entendo, também, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+    Ante o exposto, nego provimento ao presente recurso.
+    Publique-se.
+    Brasília, 27 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
