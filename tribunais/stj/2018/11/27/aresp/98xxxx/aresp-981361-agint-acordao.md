@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTA EGRÉGIA CORTE SUPERIOR. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Compulsando os autos, verifica-se que, consoante certificado às fls. 206, o acórdão recorrido foi publicado no Diário da Justiça Federal em 11.3.2016 (sexta-feira). Contudo, a petição de Agravo em Recurso Especial só foi protocolizada em 30.3.2016 (quarta-feira), conforme registro do protocolo à fls. 207. Portanto, manifesta a intempestividade do recurso conforme disposição contida no art. 544, caput do CPC/1973.
+3. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Gurgel de Faria (Presidente) votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Regina Helena Costa.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] em adversidade à decisão da Presidência deste Superior Tribunal de Justiça, o qual não conheceu do Agravo em Recurso Especial, sob fundamento de intempestividade do Agravo em Recurso Especial.
+2. A parte agravante alega, em parca fundamentação, que o Agravo em Recurso é tempestivo, uma vez que o termo inicial se deu no dia 21.3.2016.
+3. Requer, por fim, o provimento do Agravo para que seja determinado o processamento do Recurso Especial para apreciação do mérito.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTA EGRÉGIA CORTE SUPERIOR. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Compulsando os autos, verifica-se que, consoante certificado às fls. 206, o acórdão recorrido foi publicado no Diário da Justiça Federal em 11.3.2016 (sexta-feira). Contudo, a petição de Agravo em Recurso Especial só foi protocolizada em 30.3.2016 (quarta-feira), conforme registro do protocolo à fls. 207. Portanto, manifesta a intempestividade do recurso conforme disposição contida no art. 544, caput do CPC/1973.
+3. Agravo Interno do Particular a que se nega provimento.
+1. Inobstante a irresignação da parte agravante, sua razão não deve ser acolhidas.
+2. De início, cumpre ressaltar que, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+3. De fato, compulsando os autos, verifica-se que, consoante certificado às fls. 206, o acórdão recorrido foi publicado no Diário da Justiça Federal em 11.3.2016 (sexta-feira). Contudo, a petição de Agravo em Recurso Especial só foi protocolizada em 30.3.2016 (quarta-feira), conforme registro do protocolo à fls. 207. Portanto, manifesta a intempestividade do recurso conforme disposição contida no art. 544, caput do CPC/1973.
+4. Ante o exposto, nega-se provimento ao Agravo Interno do Particular. É o voto.
