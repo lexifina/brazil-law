@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por ausência de afronta ao art. 535 do CPC/1973 e incidência das Súmulas n. 5, 7 e 83 do STJ.
+O Tribunal de origem negou provimento ao apelo interposto pelos agravantes, em julgado que recebeu a seguinte ementa (e-STJ fl.
+AÇÃO ANULATÓRIA DE AVAL. OUTORGA UXÓRIA.
+1. E anulável o aval prestado sem anuência do cônjuge, tudo à luz dos arts. 1.647, III, e 1.649 do Código Civil de 2002. Precedente do STJ.
+2. Hipótese em que o aval não subsiste, pois não precedido da vênia conjugal.
+3. Tendo em conta as peculiaridades do caso concreto e os parâmetros fixados pelos §§ 3º e 4º do art. 20 do CPC, impõe-se a majoração da verba honorária, remunerando-se adequadamente o trabalho desenvolvido nos autos pelos patronos da parte vencedora.
+APELO DESPROVIDO. RECURSO ADESIVO PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 203/207).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da CF, os agravantes apontaram violação dos arts. 113, 1.642,caput e I, 1.647, caput I e III, 1.649 e 1.650, do CC/2002, insurgindo-se contra o reconhecimento de nulidade da garantia prestada, em razão da falta de outorga uxória.
+Sustentaram que (e-STJ fls. 218/219):
+(..) o acórdão acercado qual forma impostos embargos de declaração e, posteriormente, o presente Recurso Especial, considerou apenas um grupo de dispositivos do Código Civil,- essencialmente a regra constante no art. 1.647, inciso III - sem, contudo, atentar tara a regra insculpida no art. 1.642, inciso I do mesmo Código, a qual faz, cumpre enfatizar, referência ao próprio art. 1.647. Assim, ainda que se considere a tese de que, via de regra, a falta de outorga uxória gera a nulidade total da garantia (fiança ou aval), tal regra não se aplica a casos como o da garantia prestada pelo esposo da autora, por ser decorre te de atos "de disposição e de administração necessários ao desempenho de sua profissão", sendo-lhe vedado apenas o que consta no inciso I do art. 1.647 do CC e não o que estabelece o inciso III (prestar fiança ou aval) do mesmo dispositivo. Questão essa que não necessita de revisão do quadro fático-probatório, pois de conhecimento das partes e narrado pelo próprio acórdão, sendo fato absolutamente incontroverso. Trata-se, portanto, de matéria afeita à aplicação de lei federal, em que se negou vigência ao disposto no art. 1 .642, caput e inciso I do Código Civil e, via de consequência, contrariou-se o disposto no próprio art. 1.647, III, no disposto no art. 1.649 e 1.650 do mencionado Código.
+Imprescindível, portanto, a reforma do acórdão recorrido pelo Superior Tribunal de Justiça, corno condição sine quad non para a higidez da Legislação Federal.
+Negou-se vigência, ainda, ao insculpido no art. 113 do Código Civil e o princípio (ou cláusula geral) da boa-fé objetiva por ele revelado, na medida em que o é considerado que, a prática de prestar garantia (fiança ou aval) por pessoa, no exercício da profissão, não seria digna de atrair a proteção da relação conjugal de que trata o inciso III do art. 1 .647, haja vista que transmutaria um direito legítimo em abuso de direito. Hipótese plenamente rechaçada pelo Direito Privado e pelo Direito Constitucional.
+Alegaram, ainda, ofensa ao art. 535 do CPC/1973, nos seguintes termos, (e-STJ fls. 226/227):
+(..) sucessivamente, caso haja entendimento pela insuficiência do prequestionamento decorrente do desacolhimento dos embargos de declaração pelo E. Tribunal "a quo", requer a cassação do acórdão ora combatido para que seja suficientemente caracterizado o prequestionamento, reconhecendo-se a violação ao art. 535, I e II, do Código de Processo Civil.
+Foram apresentadas contrarrazões (e-STJ fls. 241/252).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Os recorrentes apontaram, de forma genérica, a ofensa ao art. 535, I e II, do CPC/1973, sem indicar, todavia, de que modo o dispositivo teria sido ofendido ou como a Corte local lhe teria negado vigência. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A Justiça local não se manifestou quanto aos arts. 113, 1.642, caput e I, 1.647, caput I e III, 1.649 e 1.650, do CC/2002 e à tese a eles vinculada, referente à desnecessidade de outorga uxória na hipótese de transação envolvendo o exercício profissional do cônjuge. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
