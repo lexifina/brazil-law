@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e de ofensa ao artigo de lei indicado e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 1.247/1.248).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 1.189):
+RESOLUÇÃO CONTRATUAL c/c RESTITUIÇÃO DE VALORES. Ausência de fundamentação. Inocorrência. Apreciação integral da controvérsia "sub judice". Deserção não vislumbrada. Inexistência de óbices à interposição de um só recurso quando as partes tenham atuado separadamente nas peças inicialmente protocolizadas. No mérito, não restou comprovada a alegação de que o contrato de promessa de compra e venda foi simulado para ocultar garantia de débito. Diante da inexistência de prejuízo a terceiros, a suposta simulação afetaria apenas as partes e tornaria a conduta atual abusiva, na modalidade "venire contra factum proprium". Se autores e réus tinham plena ciência do que fizeram e do que deveriam ter feito, não pode o Direito resguardar a inocência de qualquer um deles, devendo adotar a literalidade do instrumento para adotar as providências cabíveis. Inversão da multa prevista no contrato para sancionar o inadimplemento dos compradores. Impossibilidade. Súmula 159, TJSP. Sucumbência imputada exclusivamente aos réus, com honorários arbitrados, por equidade, em R$2.000,00. NEGADO PROVIMENTO AO RECURSO DOS RÉUS E, EM PARTE, DADO PROVIMENTO AO DOS AUTORES.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.209/1.214).
+Nas razões do recurso especial (e-STJ fls. 1.217/1.227), interposto com fundamento no art. 105, III, alínea "a", da CF, os recorrentes alegaram desrespeito ao art. 1.022, II, do CPC/1973, pois a Corte local teria sido omissa quanto à análise das seguintes teses:
+(i) "ambos os litigantes teriam declarado nas respectivas declarações de bens e rendas apenas a existência de uma obrigação de R$.50.000,00, em relação à qual os recorrentes seriam devedores e os recorridos credores, o que legitimaria a tese dos recorrentes e afastaria a acolhida pela decisão, segundo a qual teria havido compra e venda" (e-STJ fl. 1.222),
+ (ii) a divergência de valores despendidos na aquisição dos apartamentos, o que teria ensejado no reconhecimento indevido de quantias em excesso pagas pelos recorridos, e
+(iii) "o depoimento das testemunhas Dario, [NOME], Yara e Andreia, que, de modo convergente, atestaram a Inexistência de qualquer compra e venda" (e-STJ fl. 1.224).
+Indicaram contrariedade ao art. 168 do CC/2002, argumentando que - na condição de participantes nas transações imobiliárias tidas por simuladas - seriam interessados e, portanto, partes legítimas para alegar a simulação de tais atos, pois tal proceder configuraria nulidade absoluta, na vigência do CC/2002.
+Ao final, requereram a anulação do aresto impugnado por negativa de prestação jurisdicional ou o reconhecimento da simulação apontada e, por consequência, "a retirada dos efeitos do ato em que se funda a demanda" (e-STJ fl. 1.227).
+Foram apresentadas contrarrazões (e-STJ fls. 1.233/1.245).
+No agravo (e-STJ fls. 1.251/1.263), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 1.265).
+É o relatório.
+Decido.
+Não assiste razão aos recorrentes quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade (e-STJ fls. 1.186/1.193 e 1.202/1.207).
+Ressalte-se que o fato de o julgamento ser contrário aos interesses dos recorrentes não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489, § 1º, do CPC/2015), tampouco caso de cabimento dos aclaratórios.
+O Tribunal a quo concluiu pela inexistência da simulação alegada pelos recorrentes, nos termos a seguir (e-STJ fls. 1.191/1.192):
+O exame dos autos indica que as partes assinaram contrato particular de promessa de venda e compra em 01.04.2006, quando os autores se comprometeram a adquirir 4 (quatro) unidades imobiliárias de propriedade dos réus (fls. 21/25 e 26/30).
+Foram juntados às fls. 31/32 comprovantes de quitação, totalizando R$452.000,00 (quatrocentos e cinquenta e dois mil reais).
+Não há indícios de que o negócio teve por objetivo simular garantia de solvência de débito, eis que o valor é completamente desproporcional ao montante da dívida (R$50.000,00 cinquenta mil reais) e a assinatura dos instrumentos veio desacompanhada de qualquer arguição de coação.
+(..)
+Neste particular, não há evidências de que terceiros foram prejudicados pela suposta simulação. A contratação, cujo escopo seria ocultar garantia de crédito, teria utilidade apenas para as próprias partes, que estariam tentando se precaver de eventual falência do devedor.
+(..)
+De qualquer forma, importante ressaltar que não foram produzidas provas convincentes de que o contrato de promessa de compra e venda, na realidade, escondia uma garantia de crédito. As testemunhas ouvidas em juízo, a diferença entre os valores descritos no contrato e os descritos nos recibos e a ausência de demonstrativos enviados à Receita são elementos frágeis para embasar o reconhecimento do vício apontado, tornando imperiosa a manutenção da r. sentença de Primeiro Grau.
+Ultrapassar as conclusões do aresto impugnado, a fim de reconhecer existente o ato de simulação nas transações imobiliárias impugnadas pelos recorrentes e, por consequência, afastar as consequências jurídicas de tais atos jurídicos, conforme postulado no especial, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ. Nesse aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE PRODUTO RURAL. EMBARGOS À EXECUÇÃO. ALEGADA EXISTÊNCIA DE SIMULAÇÃO E DESVIO DE FINALIDADE. NÃO COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou a falta de comprovação da alegada simulação e desvio de finalidade na emissão da cédula de produto rural, pois ausente prova de que a recorrida financiou adubo com terceiro e emitiu a cédula com valor superior ao custo do produto.
+2. A modificação do entendimento lançado no v. acórdão recorrido para concluir pela existência da alegada simulação e desvio de finalidade da cédula de produto rural demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial. Incidência da Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 921.122/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/9/2016, DJe 30/9/2016.)
+Inalterada a premissa fática quanto à inexistência de simulação entre as partes - insuscetível de revisão nesta sede especial, ante a incidência do verbete sumular acima referido - fica prejudicado o exame da legitimidade dos recorrentes para arguir o mencionado vício negocial.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
