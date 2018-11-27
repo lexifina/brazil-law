@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE PAGAMENTO DE UMA ANUIDADE. ORDEM DOS ADVOGADOS DO BRASIL-OAB. CARACTERIZAÇÃO. CONSELHO DE CLASSE. POSSIBILIDADE. APLICAÇÃO DE NORMA JURÍDICA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional da 3ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. ORDEM DOS ADVOGADOS DO BRASIL - OAB. ANUIDADES. APLICAÇÃO DO DISPOSTO NO ART. 8º DA LEI N.º 12.514/11. POSSIBILIDADE. APELAÇÃO DESPROVIDA
+1 - No presente caso, a execução de título executivo extrajudicial foi ajuizada, objetivando a cobrança de anuidade prevista para o ano de 2016.
+2 - A fim de ampliar a eficácia dos princípios da economia e celeridade processuais, o art. 8º da Lei 12.514/11 inovou o ordenamento jurídico, fixando como patamar mínimo para haver a execução judicial por conselhos profissionais o valor de 4 anuidades.
+3 -No que diz respeito às anuidades cobradas pela Ordem dos Advogados do Brasil e a aplicação do artigo 8º de referida Legislação, C. Superior Tribunal de Justiça firmou entendimento no sentido de que, apesar de a OAB possuir natureza especialíssima, conforme já decidido pelo E. Supremo Tribunal Federal - STF no julgamento da ADI de n.º 3026/DF, deve a mesma se submeter ao disposto no art. 8º da Lei n.º 12.514/11 Lei.
+4. Apelação desprovida.
+No recurso especial, interposto com fundamento no artigo 105, inciso III, "c" da Constituição Federal, o recorrente alega haver divergência jurisprudencial no que diz respeito à aplicabilidade do art. 8º da Lei 12.514/2011.
+O recurso foi inadmitido pela decisão às fls. 113/114, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu a controvérsia nos seguintes termos:
+No que diz respeito às anuidades cobradas pela Ordem dos Advogados do Brasil e a aplicação do artigo 8º de referida Legislação, C. Superior Tribunal de Justiça firmou entendimento no sentido de que, apesar de a OAB possuir natureza especialíssima, conforme já decidido pelo E. Supremo Tribunal Federal - STF no julgamento da ADI de n.º 3026/DF, deve a mesma se submeter ao disposto no art. 8º da Lei n.º 12.514/11 Lei.
+Percebe-se que o acórdão está de acordo com o entendimento desta Corte Superior, não merecendo reformar, já que o Superior Tribunal de Justiça entende que, apesar de a OAB possuir natureza jurídica especialíssima, está sujeita ao disposto no artigo 8º da Lei n. 12.514/2011, que determina o não ajuizamento de execução para a cobrança de dívida oriunda de anuidade inferior a quatro vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+No mesmo sentido:
+PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE PAGAMENTO DE UMA ANUIDADE. ORDEM DOS ADVOGADOS DO BRASIL-OAB/PE. CARACTERIZAÇÃO. CONSELHO DE CLASSE. POSSIBILIDADE. APLICAÇÃO DE NORMA JURÍDICA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. É pacífico no STJ que a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. Trata-se de ação de Execução que possui como título executivo extrajudicial certidão de inadimplência no valor de uma anuidade, movida pela OAB/PE contra o recorrido.
+3. O STF teve oportunidade de se manifestar sobre a natureza jurídica da OAB, no julgamento da ADI 3026/DF, Relator Ministro EROS GRAU, julgado em 08/06/2006. Naquela oportunidade consignou que a "Ordem é um serviço público independente, categoria ímpar no elenco das personalidades jurídicas existentes no direito brasileiro", portanto não se sujeitaria aos ditames impostos à Administração Pública direta e indireta.
+4. A Ordem dos Advogados do Brasil - OAB "não pode ser tida como congênere dos demais órgãos de fiscalização profissional".
+Entretanto, conforme decidido pela Corte Especial do STJ, ela não deixa de ser um Conselho de Classe. Precedente: AgRg no AgRg na PET nos EREsp 1.226.946/PR, Rel. Ministra Eliana Calmon, Corte Especial, DJe 10/10/2013.
+5. O Estatuto da Ordem dos Advogados do Brasil, em seu art. 44, II, da Lei 8.906/1994, não deixa dúvida de que a OAB não pode ser equiparada a nenhum outro conselho profissional, pois sua finalidade transpassa todos os objetivos fixados para as demais entidades de classe. Contudo, existe um ponto em comum que as une, qual seja, a representatividade da classe profissional.
+6. Tendo em vista que a OAB é um conselho de classe, apesar de possuir natureza jurídica especialíssima, deve se submeter ao disposto no art. 8º da Lei 12.514/2011, que rege a execução de dívida oriunda de anuidade inferior a quatro vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+7. A finalidade da norma em comento é evitar o ajuizamento de demandas para a cobrança de valores tidos como irrisórios pelo legislador, evitando-se, dessa forma, o colapso da "máquina judiciária". É indiferente que a OAB tenha essa ou aquela personalidade jurídica, pois o texto da lei visa que os conselhos de classe, independentemente da sua natureza jurídica, não sobrecarreguem o Poder Judiciário.
+3. Recurso Especial não provido.
+(REsp 1615805/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/09/2016, DJe 11/10/2016)
+Nesse mesmo sentido: Resp 1.583.655/RS, Relatora Ministra ASSUSETE MAGALHÃES, DJ de 23/10/2017.
+Incidente o teor da Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
