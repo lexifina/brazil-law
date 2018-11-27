@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GERSON CARDOSO PEREIRA, MARCIA ADRIANA SANTOS DA SILVA e GABRIEL SANTOS DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios.
+Depreende-se dos autos que foi decretada a prisão preventiva dos pacientes, denunciados como incursos no art. 171, caput, e no art. 288, ambos do CP.
+Impetrado prévio writ na origem, a ordem foi denegada, em acórdão cuja ementa transcrevo a seguir (e-STJ fl. 24):
+HABEAS CORPUS. CRIME DE ESTELIONATO POR VÁRIAS VEZES E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DECRETADA PARA GARANTIA DA ORDEM PÚBLICA. PRESENÇA DOS REQUISITOS ENSEJADORES DA CUSTÓDIA CAUTELAR. DECISÃO CONSTRITIVA DEVIDAMENTE FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. PRISÃO DOMICILIAR. REQUISITOS LEGAIS NÃO PREENCHIDOS. ORDEM DENEGADA.
+1. Evidenciada a gravidade concreta dos delitos pela potencialidade lesiva das condutas criminosas que perduraram por longo período e fizeram inúmeras vítimas em vários estados da federação, não se vislumbra o alegado constrangimento ilegal na decretação da prisão preventiva para a garantia da ordem pública, em decisão suficientemente fundamentada.
+2. As circunstâncias pessoais eventualmente favoráveis, como residência fixa e ocupação lícita, isoladamente, não são suficientes para afastar o decreto prisional, bastando, para tanto, que estejam satisfeitos os requisitos dos artigos 312 e 313, do Código de Processo Penal.
+3. A paciente é mãe de filho de 14 anos, o que torna inviável a concessão da prisão domiciliar em face do não atendimento da exigência legal prevista no art. 318, V, do Código de Processo Penal.
+4. Ordem denegada.
+Alega-se, na presente impetração, que os defensores "dos pacientes acima já impetraram pedido de revogação de prisão em autos apartados, sustentaram pedido em audiência, mas todos foram negados, sempre com o mesmo fundamento: garantia da ordem pública. O crime ainda que perpetuado por um longo período de tempo, não foi cometido mediante violência ou ameaça às pessoas, pois os pacientes, aqui tratados, são primários,  possuem  bons antecedentes,  ..  emprego lícito e residência fixa há anos" (e-STJ fl. 8).
+Aduz a defesa, ainda, quanto à MARCIA ADRIANA, que " ..  o que se espera é que seja dado tratamento isonômico que foi dado a acusada EDUARDA AGUIAR SERPA, uma vez que a paciente MARCIA está na mesma situação que EDUARDA, qual seja, tem filho menor de idade o qual necessita dos cuidad os  da mãe -, mas isso não foi levado em consideração pelo MM. Juiz de primeiro grau" (e-STJ fl. 11).
+Sustenta, por fim, que os pacientes estariam segregados desde julho de 2017 e que "muito provavelmente o término da instrução não ocorrerá no primeiro semestre desse ano, pois basta uma análise nos andamentos do processo pelo site, sequer consta nova data". Assevera que " ..  um envolvido na suposta organização, segundo as palavras da própria Delegada, é sujeito de alta periculosidade e está solto. Já os pacientes aqui relatados nunca pisaram em uma delegacia, a não ser para contribuir - uma vez que quando foram chamados estiveram lá prestando seus depoimentos" (e-STJ fl. 13).
+Requer, liminarmente, que se coloquem os pacientes em liberdade, porquanto ausentes os requisitos necessários para a segregação cautelar.
+O pedido liminar foi indeferido (e-STJ fls. 141/144).
+Informações prestadas (e-STJ fls. 149/216 e 231/240).
+Parecer ministerial pelo não conhecimento ou denegação do writ (e-STJ fls. 218/224).
+É, em síntese, o relatório.
+Verifica-se, por meio de informações prestadas pela autoridade coatora (e-STJ fls. 231/240) e também extraídas do sítio eletrônico do Tribunal de origem, que a presente impetração perdeu seu objeto, pois, em abril do corrente ano, foi relaxada a custódia dos pacientes pela Primeira Turma Criminal, em razão do excesso de prazo prisional, sendo determinada a imediata expedição dos alvarás de soltura.
+Dessarte, patente que a presente impetração está prejudicada, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
