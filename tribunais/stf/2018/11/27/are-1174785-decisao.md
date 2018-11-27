@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, § 6º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Deixou a parte agravante de impugnar os óbices opostos pela Presidência da Corte de origem ao trânsito do recurso extraordinário, relativos à aplicação da Súmula 283/STF, em desalinho com a exigência contida no inciso III do art. 932 do CPC/2015, verbis:
+    “Art. 932. Incumbe ao relator:
+    [...]
+    III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;” (destaquei)
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 287/STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 645.366-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 12.4.2012; ARE 665.547-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 06.3.2012; AI 805.701-AgR, 1ª Turma, Rel. Min. Luiz Fux, DJe 23.4.2012; RMS 30.366-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 16.8.2016, e ARE 974.823-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 08.9.2016, cuja ementa transcrevo:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INADMISSÃO DO APELO EXTREMO PELA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 1. A decisão do Juízo a quo que obsta a subida de recurso extraordinário pode ser atacada por agravo (art. 1.042 do CPC/2015), o qual deve impugnar especificamente, de forma individualizada, todos os argumentos por si sós suficientes para manter a inadmissão, sob pena de não conhecimento (art. 932, III, do CPC/2015). 2. Agravo regimental a que se nega provimento.”
+    Ainda que não se ressentisse o agravo quanto à inobservância do pressuposto de admissibilidade, melhor sorte não colheria o extraordinário, porquanto as razões do recurso não se mostram aptas a infirmar os fundamentos do acórdão recorrido, especialmente quanto à constatação de que o evento danoso decorreu de ato de terceiro, ensejando o entendimento jurisprudencial vertido nas Súmulas 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ressalto, à demasia, que o Tribunal de origem, na hipótese em apreço, lastreou-se no conjunto probatório e na legislação infraconstitucional para firmar seu convencimento. Compreensão diversa do entendimento adotado demandaria o exame prévio da lei ordinária, bem como a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “RESPONSABILIDADE CIVIL DO ESTADO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INDENIZAÇÃO POR DANOS MATERIAL E MORAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA.
+    1.   Para dissentir da conclusão adotada pelo Tribunal de origem, seria imprescindível o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    3.  Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (ARE 922.156-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 19.4.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO. DISCUSSÃO SOBRE A EXISTÊNCIA DE NEXO DE CAUSALIDADE ENTRE O DANO E A CONDUTA ESTATAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. MAJORAÇÃO DE HONORÁRIOS. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos.
+    II - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais.
+    III - Agravo regimental a que se nega provimento, com aplicação de multa.” (ARE 1057028-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 1º.02.2018)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
