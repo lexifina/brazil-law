@@ -1,0 +1,1 @@
+Art. 9º-C As aplicações do FGTS em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do SUS ocorrerão até o final do exercício de 2022.
