@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Decidiu a Corte estadual que "não restou demonstrado que, à ocasião do fato gerador do tributo, o agravante era, de fato, apenas sócio cotista da Sociedade Comercial Moreira LTDA., não tendo o executado logrado êxito em comprovar que não detinha atribuições de gerência na empresa executada" (fl. 276, e-STJ).
+2. Afirmou ainda o Colegiado de piso que "o recorrente sequer trouxe aos autos cópia do ato constitutivo da empresa em questão, a fim de comprovar a alegada posição de sócio cotista" (fl. 276, e-STJ).
+3. Diante disso, o Tribunal mineiro acertadamente exarou ser imprescindível dilação probatória, razão pela qual não cabe a exceção de pré-executividade pugnada na origem pelo executado ora recorrente.
+4. Nota-se, portanto, que rever a análise acerca da prova dos autos, alterar-lhe ou acrescentar-lhe outros pontos contrariamente ao que consignado pela Corte de piso requer revolvimento do conjunto fático-probatório, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ. Precedentes.
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (fls. 272-278, e-STJ):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - REDIRECIONAMENTO DA EXECUÇÃO CONTRA SÓCIO QUE NÃO CONSTA NA CDA COMO COOBRIGADO - NECESSIDADE DE DILAÇÃO PROBATÓRIA - INADEQUAÇÃO DA VIA ELEITA.
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - ISS - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - NECESSIDADE DE DILAÇÃO PROBATÓRIA - INADEQUAÇÃO DA VIA ELEITA.
+- Cabível a oposição de Exceção de Pré-Executividade no bojo da Execução Fiscal, desde que esta verse sobre matérias cognoscíveis de ofício pelo juiz e que não demandem dilação probatória, consoante preceitua a Súmula 393, do col. STJ.
+- Pode a parte executada contestar a sua inclusão no polo passivo da execução fiscal, mediante instrução, valendo-se dos Embargos à Execução, os quais possuem entre os seus pressupostos a prévia garantia do juízo.
+A parte recorrente alega violação ao artigo 135 do Código Tributário Nacional, bem como dissenso jurisprudencial nacional acerca dele, sob tese de que cabe ao Exequente comprovar atos abusivos ou ilegais por parte do sócio para que tenha, só após, redirecionada a Execução Fiscal ajuizada contra a pessoa jurídica que compõe (fls. 283-287, e-STJ).
+Contrarrazões às fls. 299-304, e-STJ.
+Decisão de admissibilidade negando seguimento ao recurso (fls. 308-310, e-STJ).
+Agravo interposto (fls. 313-315, e-STJ), o qual foi provido para convertê-lo em Recurso Especial (fl. 332, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23.08.2018.
+O intento não merece conhecimento.
+Decidiu a Corte estadual que "não restou demonstrado que, à ocasião do fato gerador do tributo, o agravante era, de fato, apenas sócio cotista da Sociedade Comercial Moreira LTDA., não tendo o executado logrado êxito em comprovar que não detinha atribuições de gerência na empresa executada" (fl. 276, e-STJ).
+Afirmou ainda o Colegiado de piso que "o recorrente sequer trouxe aos autos cópia do ato constitutivo da empresa em questão, a fim de comprovar a alegada posição de sócio cotista" (fl. 276, e-STJ).
+Diante disso, o Tribunal mineiro acertadamente exarou ser imprescindível dilação probatória, razão pela qual não cabe a exceção de pré-executividade pugnada na origem pelo executado ora recorrente.
+Nota-se, portanto, que rever o exame acerca da prova dos autos, alterar-lhe ou acrescentar-lhe outros pontos contrariamente ao que restou consignado pela Corte de piso requer revolvimento do conjunto fático-probatório, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+A título elucidativo:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. Dispõe a Súmula 393/STJ: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória". Assim, nesta via recursal não cabe nenhuma apreciação que venha a ultrapassar o conhecimento sumário das informações postas nos autos.
+3. No caso, o Tribunal regional entendeu que, para acatar arguição de ilegitimidade passiva, seria necessária a dilação probatória, inviável em exceção de pré-executividade.
+4. Nesse contexto, infirmar a conclusão a que chegou o aresto combatido no sentido de que as provas apresentadas nos autos impossibilitam o conhecimento da matéria demandaria a incursão na seara fático-probatória do presente incidente, tarefa soberana às instâncias ordinárias, o que impede o reexame na via especial devido ao óbice da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 993.953/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2018, DJe 27/03/2018)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 CPC/73. ALEGAÇÕES GENÉRICAS. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF. INADEQUAÇÃO DA VIA ELEITA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..) III - In casu, rever o entendimento do tribunal de origem de que a via eleita - exceção de pré-executividade - é inadequada, porquanto necessário dilação probatória, demandaria revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte IV - O recurso especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(..) VII - Agravo Interno improvido. (AgInt no REsp 1679141/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA AFRONTA AO ART. 535 DO CPC/73. INEXISTÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO. SÚMULA 393/STJ. PREMISSA DE FATO FIXADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. Nos termos da Súmula 393/STJ, "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória". Por sua vez, a Súmula 7/STJ enuncia que "a pretensão de simples reexame de prova não enseja recurso especial". IV. Na hipótese dos autos, a Corte de origem manteve a decisão que rejeitara a Exceção de Pré-Executividade, ao fundamento de que, diante da discordância da exequente, a alegação de pagamento da dívida, formulada pela executada, não poderia ser solucionada nessa via excepcional de defesa, por demandar dilação probatória. A revisão desse entendimento demandaria reexame de provas, providência vedada, em Recurso Especial, nos termos da Súmula 7/STJ.
+V. Agravo Regimental improvido. (AgRg no AREsp 553.971/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 13/10/2017)
+Os fatos são aqui recebidos tal como estabelecidos pela instância ordinária, senhora da análise probatória. E, se a violação dos dispositivos legais invocados perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+Fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
