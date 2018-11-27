@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. DESCAMINHO. DISSÍDIO JURISPRUDENCIAL. ART. 334 DO CP. EXISTÊNCIA DE OUTROS PROCEDIMENTOS FISCAIS. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+1. No voto divergente da Apelação Criminal n. 5063594-41.2016.4.04.7000/PR foi exposto que, em face da habitualidade na prática do crime que ora se imputa ao réu,  ..  incabível a aplicação do princípio da insignificância no caso concreto e dou provimento ao Recurso Criminal em Sentido Estrito interposto pelo Ministério Público para determinar a remessa dos autos à origem para regular prosseguimento do feito.
+2. A jurisprudência do Supremo Tribunal Federal firmou orientação no sentido de que a reiteração delitiva impede a adoção do princípio da insignificância penal, em matéria de crime de descaminho (AgR no HC n. 137.749/PR, Ministro Roberto Barroso, Primeira Turma, DJe 17/5/2017).
+3. A decisão agravada está em harmonia com a jurisprudência desta Corte, firmada no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos.
+4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, apesar de não configurar reincidência, é suficiente para caracterizar a habitualidade delitiva e, por consequência, afastar a incidência do princípio da insignificância, não podendo ser considerada atípica a conduta (REsp n. 1.750.739/RS, Ministro Jorge Mussi, Quinta Turma, DJe 17/10/2018).
+5. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra a decisão, de minha lavra, em que dei provimento ao recurso especial apresentado pelo Ministério Público Federal (fls. 254/260):
+RECURSO ESPECIAL. PENAL. DESCAMINHO. DISSÍDIO JURISPRUDENCIAL. ART. 334 DO CP. EXISTÊNCIA DE OUTROS PROCEDIMENTOS FISCAIS. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+Recurso especial provido.
+Aduz o agravante que o STJ tem entendimento no sentido de que a reiteração delitiva, por si só, não afasta o princípio da insignificância quando as instâncias ordinárias, no caso concreto, verificarem que a medida é socialmente recomendável (AgRg no REsp n. 1.675.665/PR, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 15/5/2018).  ..  No caso, as instâncias ordinárias entenderam pela aplicação do princípio da insignificância no caso concreto, não havendo que se falar em divergência jurisprudencial, uma vez que o valor dos tribunos ilididos é inferior a R$ 20.000,00 (vinte mil reais), o que se amolda ao entendimento manifestado pela Terceira Seção do STJ no julgamento do REsp n. 1.709.029/MG (fl. 268).
+Pede o acolhimento de sua insurgência para que seja negado provimento ao recurso especial acusatório.
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Os argumentos recursais não são suficientes para infirmar os fundamentos da decisão agravada, notadamente em razão de o guerreado acórdão estar em dissonância com a moderna orientação jurisprudencial dos Tribunais Superiores.
+No voto divergente da Apelação Criminal n. 5063594-41.2016.4.04.7000/PR foi exposto que, em face da habitualidade na prática do crime que ora se imputa ao réu,  ..  incabível a aplicação do princípio da insignificância no caso concreto e dou provimento ao Recurso Criminal em Sentido Estrito interposto pelo Ministério Público para determinar a remessa dos autos à origem para regular prosseguimento do feito (fl. 165 - grifo nosso).
+Corroborando o entendimento acima esposado, confiram-se os seguintes julgados de ambas as Turmas do Supremo Tribunal Federal:
+HABEAS CORPUS. CONSTITUCIONAL. PENAL. DESCAMINHO. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE. DESCABIMENTO DE IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REITERAÇÃO DELITIVA DO PACIENTE A IMPOSSIBILITAR A INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. ORDEM DENEGADA.
+1. Tanto o Código de Processo Civil (art. 557, caput) quanto o Regimento Interno do Superior Tribunal de Justiça (art. 34, inc. XVIII) preveem a possibilidade de o Relator decidir monocraticamente os recursos quando pacífico o entendimento aplicado, como se tem na decisão objeto da presente impetração. Não se há cogitar de ofensa ao princípio da colegialidade. Precedentes.
+2. A presente impetração volta-se contra decisão monocrática da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, proferida no julgamento do Recurso Especial n. 1.550.437. Descabimento da presente impetração.
+3. Contumácia delitiva do Paciente. A orientação deste Supremo Tribunal, confirmada pelas duas Turmas, é firme no sentido de não se cogitar da aplicação do princípio da insignificância em casos nos quais o réu incide na reiteração do descaminho, evidenciada pela existência de procedimentos administrativos fiscais em seu desfavor, como se tem nestes autos.
+4. Ordem denegada.
+(HC n. 131.342/PR, Ministra Cármen Lúcia, Segunda Turma, DJe 1º/2/2016 - grifo nosso)
+Penal. Agravo Regimental em Habeas Corpus. Falta de impugnação específica dos fundamentos. Descaminho. Princípio da insignificância. Reiteração delitiva. Recurso não conhecido.
+1. A parte recorrente não impugnou, especificamente, todos os fundamentos da decisão agravada, o que impossibilita o conhecimento do recurso, na linha da pacífica jurisprudência do Supremo Tribunal Federal.
+2. A notícia de que a paciente responde a outros procedimentos administrativos fiscais inviabiliza, neste habeas corpus, o pronto reconhecimento da atipicidade penal da conduta. A jurisprudência do Supremo Tribunal Federal firmou orientação no sentido de que a reiteração delitiva impede a adoção do princípio da insignificância penal, em matéria de crime de descaminho. Precedentes.
+3. Agravo regimental não conhecido.
+(AgR no HC n. 137.749/PR, Ministro Roberto Barroso, Primeira Turma, DJe 17/5/2017 - grifo nosso).
+A decisão agravada está em harmonia com a jurisprudência do Superior Tribunal de Justiça, firmada no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos.
+A propósito, colaciono recentes julgados de ambas as Turmas que compõem a Terceira Seção desta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.686.897/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/10/2018 - grifo nosso).
+RECURSO ESPECIAL. DESCAMINHO. HABITUALIDADE DELITIVA. PROCEDIMENTOS ADMINISTRATIVOS FISCAIS. COMPROVAÇÃO. MAIOR REPROVABILIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. INSURGÊNCIA PROVIDA.
+1. A aplicação do princípio da insignificância, causa excludente de tipicidade material, admitida pela doutrina e pela jurisprudência em observância aos postulados da fragmentariedade e da intervenção mínima do Direito Penal, demanda o exame do preenchimento de certos requisitos objetivos e subjetivos exigidos para o seu reconhecimento, traduzidos no reduzido valor do bem tutelado e na favorabilidade das circunstâncias em que foi cometido o fato criminoso e de suas consequências jurídicas e sociais.
+2. A reiteração delitiva, por denotar a maior reprovabilidade da conduta incriminada, deve ser considerada para fins de aplicação do princípio da insignificância, mormente porque referida excludente de tipicidade não pode servir como elemento gerador de impunidade.
+3. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, apesar de não configurar reincidência, é suficiente para caracterizar a habitualidade delitiva e, por consequência, afastar a incidência do princípio da insignificância, não podendo ser considerada atípica a conduta.
+4. Recurso especial provido, para determinar o prosseguimento da ação penal.
+(REsp n. 1.750.739/RS, Ministro Jorge Mussi, Quinta Turma, DJe 17/10/2018 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
