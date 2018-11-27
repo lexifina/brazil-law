@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SAMUEL LEON DA SILVA THEODORO, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que indeferiu o pedido liminar no writ de origem.
+A impetrante argumenta que a prisão é ilegal, sob a alegação de ausência de fundamentação válida e ofensa ao princípio da homogeneidade ante a pena já fixada. Por isso, requer a concessão da ordem, para revogação da prisão preventiva.
+O paciente foi condenado pela prática do crime de tráfico de drogas, tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Na origem, o processo n. 1500093-07.2018.8.26.0567 encontra-se na fase de apelação, abriu-se vista ao Ministério Público para contrarrazoar em 19/11/2018, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 22/11/2018.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fl. 41):
+Indefere-se o pedido de liminar.
+O Paciente respondeu a todo o trâmite processual preso. De outra parte, a decisão judicial nesse tópico (fls.38) está fundamentada, não havendo, a princípio, vício ou mácula jurídica.
+Ante a documentação já apresentada, fica dispensada a requisição de informações à Autoridade Coatora a qual, contudo, deve ser cientificada desta Impetração.
+Na sentença condenatória, no que diz respeito a prisão preventiva, restou assim fundamentada (fl. 29):
+ ..  O réu não poderá apelar em liberdade, uma vez que estão presentes os motivos que indicam a necessidade da manutenção da custódia cautelar, conforme artigo 312, do Código de Processo Penal. Sem dúvida, ao menos por ora, a custódia cautelar terá o condão de garantir a ordem pública, pois no conceito de ordem pública insere-se a necessidade de preservar a credibilidade do Estado e da Justiça, em face da intranquilidade que crimes dessa natureza vêm gerando na comunidade local. A análise cuidadosa e individualizada da conduta do réu demonstra sua insensibilidade moral, a revelar que, se solto, de fato apresentaria risco à ordem pública, de sorte que, neste caso em especial, se faz necessária à manutenção da excepcional segregação cautelar. A gravidade concreta do crime é indiscutível: traficar em via pública, em plena luz do dia, e, mais ainda, buscar se livrar do delito praticado mediante fuga dos zelosos agentes policiais, são fatos que devem ser considerados neste momento e, portanto, justificam a permanência no cárcere.  ..
+Como se vê, o decreto de prisão destacou a necessidade da custódia apontando que houve a tentativa de fuga pelo paciente e justificou a medida extrema, destacando que buscar se livrar do delito praticado mediante fuga dos zelosos agentes policiais. Portanto, o que, neste exame liminar, constitui base empírica idônea à decretação da custódia preventiva.
+Esta Corte Superior entende majoritariamente que a tentativa de fuga no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade, e troca de tiros com agentes policiais, são circunstâncias fáticas que justificam a prisão preventiva. Conforme os seguintes precedentes: RHC 71.563/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016; HC 398.318/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/8/2017, DJe 29/8/2017; HC 403.269/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 1/12/2017; RHC 74.131/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017.
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
