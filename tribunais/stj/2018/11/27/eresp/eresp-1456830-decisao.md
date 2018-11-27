@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com base no art. 105, III, alínea "a", da CF, contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 146):
+BEM DE FAMÍLIA Impenhorabilidade Art. 1º da Lei n. 8009/90 Reconhecimento Uma vez demonstrado que o imóvel destina-se à moradia do agravante e seus familiares, ainda que não seja o único de sua propriedade, e à falta de prova em sentido contrário, não há que se falar em penhora de fração ideal a ele pertencente, uma vez que a impenhorabilidade do bem de família se aplica ao imóvel por inteiro Recurso provido neste tópico.
+IMÓVEL RURAL Pequena propriedade rural Impenhorabilidade Inocorrência - A impenhorabilidade só se aplica quando se tratar de pequena propriedade rural, assim reconhecida como tal pela lei e desde que comprovado que o imóvel rural produtivo é o meio de sustento ou moradia da família, bem como que a dívida que ensejou a penhora seja oriunda da atividade produtiva nele exercida Inaplicabilidade no presente caso, em que não restou comprovado o preenchimento dos requisitos exigidos pelos art. 5, XXVI, da CF, art. 649, VIII, do CPC e art. 4º, § 2º, da Lei 8009/90. Recurso desprovido neste tópico.
+IMÓVEL RURAL Pequena propriedade rural Penhora de fração ideal de herdeiro de dimensão inferior ao módulo rural determinado pelo INCRA para a localidade Possibilidade Não constitui óbice à penhora de parte ideal pertencente ao devedor sobre imóvel rural, ainda que ela seja inferior ao módulo rural, tornando-o, assim, indivisível por determinação legal, uma vez que a penhora não significa a divisão ou extinção do condomínio existente sobre o bem Recurso desprovido neste tópico.
+RECURSO PROVIDO EM PARTE.
+Nas razões do especial (e-STJ fls. 171/178), o recorrente aponta ofensa ao art. 649, VIII, do CPC/1973, sustentando a impenhorabilidade de sua pequena propriedade rural.
+É o relatório.
+Decido.
+A controvérsia estabelecida nos autos tem origem em agravo de instrumento interposto contra decisão que, em execução de título extrajudicial, manteve a penhora realizada sobre direitos hereditários do recorrente.
+O Tribunal de Justiça afastou a impenhorabilidade do imóvel rural objeto da herança, primeiro, por não ter sido comprovado que o bem se destina ao sustento do recorrente e de sua família.
+Além disso, foi ressaltado que o imóvel rural não serve de residência para a família.
+Por fim, o acórdão deixou consignado que a parte ideal do recorrente, correspondente a 4,16 hectares, mesmo sendo inferior ao módulo rural mínimo exigido para a região no qual ele se encontra situado (8,0629 hectares - v. fl. 94), não torna insubsistente a penhora realizada, "tendo em vista que ela não implica divisão do bem e extinção do condomínio, que ficará preservado, ainda que em mãos de terceira pessoa estranha aos atuais proprietários, quando de eventual aquisição da fração do devedor em hasta pública" (e-STJ fl. 156 - grifei).
+A insurgência recursal não traz impugnação específica capaz de combater esse último fundamento.
+Apresentada a questão nesses termos, conclui-se que o recurso encontra óbice na Súmula n. 283 do STF, por analogia:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+O recorrente, por outro lado, "requer a juntada de documento novo, na forma do artigo 397 e 398 do CPC (contrato de arrendamento rural e recibos de pagamentos, destinado ao recorrente, com base na ATR do Mês de Setembro de cada ano), os quais comprovam a veracidade dos fatos alegados, no sentido de que realmente, o recorrente, retira desta pequena propriedade rural o sustento de sua família, associado a plantação de hortaliças" (e-STJ fl. 177).
+Todavia, mostra-se inviável o acolhimento do pedido, por não ser possível instrução probatória no âmbito do recurso especial, tampouco reexame dos elementos fáticos dos autos, conforme orienta a Súmula n. 7/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
