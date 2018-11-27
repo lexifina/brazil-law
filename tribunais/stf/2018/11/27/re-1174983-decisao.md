@@ -1,0 +1,34 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto pelo Ministério Público do Estado do Rio de Janeiro, com amparo no art. 102, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+    No apelo extremo, o recorrente sustenta a existência de repercussão geral e que o julgado ofendeu princípios constitucionais, notadamente com a desconsideração de condenações criminais transitadas em julgado há mais de cinco anos como maus antecedentes. Por fim, requer seja reformado "o v. Acórdão recorrido, com o reconhecimento dos maus antecedentes e o restabelecimento na íntegra da r. sentença monocrática".
+    É o relatório. Decido.
+    Nos termos do art. 102, III, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, mediante Recurso Extraordinário, somente as causas decididas em ÚNICA ou ÚLTIMA INSTÂNCIA, diversamente do que ocorre na presente hipótese, em que há possibilidade de a decisão impugnada sofrer alterações durante o processo principal. Aplicação da Súmula 735/STF.
+    Ademais, nos termos da decisão proferida no REsp 1.763.810/RJ (Rel. Min. FELIX FISCHER), transitada em julgado em 05/11/2018, o Superior Tribunal de Justiça deu provimento ao Recurso Especial, interposto concomitantemente com este Recurso Extraordinário, oportunidade em que reconheceu que "as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base acima do mínimo legal", em decisão da qual destaco o seguinte trecho:
+    [...]
+    In casu, o delito descrito na denúncia foi praticado em 23/6/2015, com sentença proferida em 19/9/2016. Observa-se que, conforme destacado pelo próprio v. acórdão guerreado, constam condenações por crimes anteriores "considerando as anotações n. 01 e 02 (FAC às fls. 174/179 - i.e. 226), relativas a sentenças condenatórias transitadas em julgado em 13/06/2008 e 26/07/2006, respectivamente" (fl. 313).
+    A jurisprudência deste eg. Tribunal Superior de Justiça é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base acima do mínimo legal.
+    Cito em apoio os seguintes precedentes:
+    "DOSIMETRIA. ANTECEDENTES. DECURSO DE MAIS DE CINCO ANOS ENTRE O TRÂNSITO EM JULGADO DA CONDENAÇÃO ANTERIOR E O NOVO CRIME. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. ACÓRDÃO RECORRIDO ALINHADO À JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DO DISPOSTO NA SÚMULA N. 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A existência de condenação anterior transitada em julgado autoriza a valoração negativa dos antecedentes do agente, ainda que ultrapassado o período de 5 (cinco) anos previsto no inciso I do artigo 64 do Código Penal.
+    [...]
+    3. Agravo regimental desprovido" (AgRg no AREsp 1.068.053/DF, Quinta Turma, Rel. Min. Jorge Mussi, DJe 23/8/2017).
+    PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COAÇÃO NO CURSO DO PROCESSO. ART. 344 DO CP. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. MAUS ANTECEDENTES, PRESENÇA DE TRÊS CONDENAÇÕES DEFINITIVAS DISTINTAS. POSSIBILIDADE. QUANTUM DE AUMENTO NA PRIMEIRA FASE. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+    1. A jurisprudência desta Corte Superior admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e da personalidade do agente, ficando apenas vedado o bis in idem.
+    [...]
+    5. Agravo regimental não provido." (AgRg no AREsp 1116974/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/09/2017).
+    "PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. ART, 44, III, DO CÓDIGO PENAL. CIRCUNSTÂNCIA DESFAVORÁVEL DOS MAUS ANTECEDENTES. TESE DE NE BIS IN IDEM. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+    1. O acórdão combatido esta de acordo com a jurisprudência do Superior Tribunal de Justiça, pois, no caso, é incabível a substituição da pena privativa de liberdade pela restritiva de direitos, porquanto inadimplido o inciso III do art. 44 do Código Penal, devido a existência de circunstância judicial desabonadora dos maus antecedentes.
+    2. Ademais, "a pacífica jurisprudência deste Tribunal estabelece que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo o aumento da pena-base acima do mínimo legal" (RHC 66.436/SP, FELIX FISCHER, QUINTA TURMA, DJe 06/05/2016).
+    3. Quanto à tese de existência de ne bis in idem, alegando terem sido utilizados os mesmos fundamentos para fixar o regime mais gravoso e indeferir a substituição da pena, verifica-se que esse pleito não foi aventado em recurso de apelação às fls. 219-223 (e-STJ), o que não se admite nos embargos de declaração, por constituir inovação recursal, carecendo, portanto, a matéria do necessário prequestionamento.
+    4. Agravo regimental não provido" (AgRg no AREsp n. 955.835/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/6/2017, grifei).
+    Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+    Ante o exposto, com fulcro no art. 255, §4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, para restabelecer a dosimetria realizada na sentença.
+    P. e I.
+    Brasília (DF), 02 de outubro de 2018.
+    Assim, é inevitável o reconhecimento da perda de objeto do presente Recurso Extraordinário, pois no julgamento do REsp 1.763.810/RJ (Rel. Min. FELIX FISCHER), transitado em julgado em 05/11/2018, foi reconhecida a possibilidade da utilização de sentenças penais condenatórias transitadas em julgado alcançadas pelo período depurador de 05 anos.
+    Diante do exposto, com fundamento o art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, JULGO PREJUDICADO O RECURSO EXTRAORDINÁRIO.
+    Publique-se. Intimem-se.
+    Brasília, 27 de novembro de 2018.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
