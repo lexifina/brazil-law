@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão proferido nos autos de ação popular, assim ementado:
+AÇÃO POPULAR - Licitação - Dispensas infundadas do certame - Desleixo e falta de planejamento por parte do administrador público - Calamidade pública ou emergencial não configurada - Sentença de improcedência que se reforma - Custas, despesas e honorários a cargo dos réus - Apelos providos.
+No especial obstaculizado, o ora agravante apontou violação dos arts. 165, 458, II, 535, II, do CPC/1973 (nulidade por negativa de prestação jurisdicional), do art. 267, VI, do CPC/1673, do art. 1º da Lei n. 4.717/65 (superveniente falta de interesse de agir do autor da ação) e do art. 884 do CC (ausência de lesividade e locupletamento indevido).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 1030), o que desafiou o presente agravo.
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Estabelecida essa premissa, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se observando, na espécie, nenhuma contrariedade da norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Sobre a hipótese: AgRg no AREsp 750.650/RJ, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/9/2015; AgRg no AREsp 493.652/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/6/2014.
+Dito isso, observo que os autos versam sobre ação popular proposta por [NOME], ora agravado, contra [NOME] (Prefeito Municipal de Itaquaquecetuba) e o ora agravante, sob o fundamento de fraude em procedimento licitatório.
+A Corte de origem rejeitou a preliminar de falta de interesse de agir, corroborando as razões declinadas pelo magistrado singular (e-STJ fl. 824), as quais foram assim esboçadas (e-STJ fl. 704):
+A carência de ação por superveniente falta de interesse de agir a partir do término do prazo contratual, como suscitado pela ré, também não pode ser encampada. É que o que se discute nesta demanda são os reflexos econômicos em prejuízo do erário a partir do ato administrativo, cuja validade e eficácia constituem o centro da controvérsia. Dessa forma, pouco importa se o contrato administrativo está, ou não, com seu prazo de duração expirado ou ainda em vigor.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ (AgInt no AREsp 1.010.409/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/06/2017, DJe 23/06/2017).
+Da mesma maneira, a jurisprudência do STJ é pródiga em reconhecer a impossibilidade de rever, na via do apelo especial, a lesividade e a ilegalidade do ato impugnado na ação popular, dada a imperiosa necessidade de revolvimento fático-probatório dos autos, medida obstada pela Súmula 7 desta Corte.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO POPULAR. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. REQUISITOS. COMPROVAÇÃO DE ILEGALIDADE E LESIVIDADE DO ATO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF).
+2. A revisão do entendimento adotado no acórdão recorrido, segundo o qual não houve "demonstração da prática efetiva de atos lesivos ao patrimônio público", não tendo sido atendidos todos os requisitos necessários à admissibilidade da ação popular, demanda o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1384103/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/04/2015, DJe 23/04/2015).
+Conferir ainda: AgRg no REsp 1.504.797/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/05/2016, DJe 1º/06/2016, e AgRg no REsp 1.367.662/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/05/2016, DJe 02/09/2016.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
