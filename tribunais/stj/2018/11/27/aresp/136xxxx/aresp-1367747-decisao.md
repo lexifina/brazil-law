@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. 2. PERÍODO DE CARÊNCIA. ATENDIMENTO DE URGÊNCIA. PRAZO NÃO APLICÁVEL. SÚMULA 83/STJ. 3. AGRAVO CONHECIDO PARA CONHECIMENTO PARCIAL DO RECURSO ESPECIAL, E NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LTDA. contra decisão que não admitiu o processamento do recurso especial.
+Verifica-se que os agravados ajuizaram ação ordinária, julgada procedente.
+Interposta apelação pela ora insurgente, a Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso, em acórdão assim ementado (e-STJ, fls. 316-317):
+AÇÃO ORDINÁRIA. PLANO DE SAÚDE. MENOR. INTERNAÇÃO HOSPITALAR E TRATAMENTO. NEGATIVA DE COBERTURA. PRAZO DE CARÊNCIA. DESCABIMENTO. SITUAÇÃO DE EMERGÊNCIA. DANOS MORAIS. OCORRÊNCIA. QUANTUM INDENIZATÓRIO. REDUÇÃO.
+I. No caso, o autor, menor, foi diagnosticado com Acidente Vascular Cerebral, sendo prescrito pelo médico-assistente a sua imediata internação e tratamento em UTI pediátrica, cuja cobertura foi negada pela operadora do plano de saúde.
+II. Entretanto, os contratos de planos de saúde estão submetidos às normas do Código de Defesa do Consumidor, na forma da Súmula 469, do STJ, devendo ser interpretados de maneira mais favorável à parte mais fraca nesta relação. De outro lado, os planos de saúde apenas podem estabelecer para quais doenças oferecerão cobertura, não lhes cabendo limitar o tipo de tratamento que será prescrito, incumbência essa que pertence ao profissional da medicina que assiste o paciente. Além do mais, deve ser priorizado o direito à saúde e à vida em relação ao direito contratual. Incidência dos arts. 47 e 51, IV, § 1º, II, do CDC.
+III. Outrossim, é obrigatória a cobertura, ainda que dentro do prazo de carência, nos casos de emergência. E, por sua vez, é de 24 horas o prazo máximo de carência para a cobertura dos casos de urgência e emergência. Inteligência dos arts. 12, V, "c", e 35-C, da Lei nº 9.656/98. Por conseguinte, a requerida deve arcar com todos com os custos despendidos com o tratamento e internação indicados ao menor.
+IV. Reconhecida a conduta ilícita da requerida e caracterizado o dano moral in re ipsa, pois, no momento da negativa de cobertura à internação e tratamento do menor, os autores encontravam-se psicologicamente fragilizados, resta cabível a indenização pretendida.
+V. Redução do quantum indenizatório, levando-se em conta a condição social dos autores, o potencial econômico da ré, a gravidade do fato, o caráter punitivo-pedagógico da reparação e os parâmetros desta Câmara em casos semelhantes. O valor da indenização deverá ser acrescido de correção monetária pelo IGP-M, a partir da presente decisão, na forma da Súmula 362, do STJ, e dos juros moratórios de 1% ao mês, contados da citação, por se tratar de responsabilidade contratual.
+VI. Manutenção da sucumbência preconizada na sentença, considerando o integral decaimento da ré em suas pretensões.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 1º, § 1º, 12 e 35-C da Lei n. 9.656/1998, e 535, II, do Código de Processo Civil de 1973.
+Sustentou existência de omissão no aresto relevante ao julgamento da lide, notadamente quanto ao dispositivo de lei necessário ao atendimento das exigências do prequestionamento.
+Asseverou, ainda, que os contratos de plano de saúde sujeitam-se às normas regulamentares expedidas pela Agência Nacional de Saúde Suplementar - ANS, razão pela qual tem o direito de negar a cobertura de procedimentos, não enquadráveis como de urgência ou emergência, com base no prazo de carência prefixado, considerada a necessidade de manter o equilíbrio econômico-financeiro.
+Contrarrazões às fls. 371-385 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 417-423 (e-STJ).
+Em parecer, o Ministério Público opinou pelo desprovimento do agravo em recurso especial.
+Brevemente relatado, decido.
+No tocante à alegação de negativa de prestação jurisdicional, destaca-se que a parte ora recorrente limitou-se a defender genericamente a ocorrência de violação do art. 1.022, II, do CPC/2015, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. RESTABELECIMENTO DE ALÍQUOTA DE PIS E COFINS SOBRE RECEITA FINANCEIRA MEDIANTE DECRETO DO PODER EXECUTIVO (DECRETO Nº 8.426/2015). CONFLITO ENTRE O ART. 97, II, DO CTN E O ART. 27, CAPUT, E § 2º, DA LEI Nº 10.865/04. MATÉRIA DE ÍNDOLE CONSTITUCIONAL.
+1. A alegada afronta ao art. 1.022 do CPC/2015 (art. 535 do CPC/1973) foi realizada de forma genérica, sem a especificação das teses ou dos dispositivos legais sobre os quais o acórdão recorrido teria deixado de se manifestar. Por óbvio, a recorrente também não se desincumbiu do ônus de demonstrar qual seria a relevância das questões tidas por omissas, contraditórias ou obscuras para o deslinde da controvérsia. Dessa forma, não é possível conhecer da alegação, haja vista a deficiente fundamentação recursal no ponto a atrair a incidência, por analogia, da Súmula nº 284 do STF.
+ ..
+4. Agravo interno não provido. (AgInt no REsp 1624743/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Sobre a questão jurídica objeto da controvérsia, extrai-se o seguinte excerto do acórdão guerreado (e-STJ, fls. 320-258):
+Conforme o documento médico de fl. 49, emitido pelo Dr. [NOME], o autor [NOME], na época com apenas dois meses de vida, foi encaminhado ao nosocômio em consulta de emergência, pois apresentava quadro de crise convulsiva (CID R 56.8), sendo diagnosticado como Acidente Vascular Cerebral Isquêmico (CID 163.9), necessitando ser internado em UTI pediátrica.
+Por sua vez, em contestação, a operadora do plano de saúde alegou que a autorização restou negada, sob o fundamento de que o menor estava cumprindo prazo de carência, sendo descabida a internação hospitalar.
+De fato, o contrato de assistência à saúde firmado pelas partes prevê o prazo de carência de 120 dias para internações hospitalares (cláusula 46º, V - fl. 100).
+..
+De outro lado, os planos de saúde apenas podem estabelecer para quais doenças oferecerão cobertura, não lhes cabendo limitar o tipo de tratamento que será prescrito, incumbência essa que pertence ao profissional da medicina que assiste o paciente.
+Além do mais, vale dizer que deve ser priorizado o direito à saúde e à vida em relação ao direito contratual.
+Outrossim, na forma do art. 35-C, I e II, da Lei nº 9.656/98, é obrigatória a cobertura, ainda que dentro do prazo de carência, do atendimento nos casos de emergência, assim definidos quando implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, nos seguintes termos:
+Art. 35-C. É obrigatória a cobertura do atendimento nos casos:
+I - de emergência, como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente; http://www.planalto.gov.br/ccivil 03/ Ato 2007-2010/2009/Lei/L11935.htm - art1
+II - de urgência, assim entendidos os resultantes de acidentes pessoais ou de complicações no processo gestacional;
+II - de planejamento familiar.
+Parágrafo único. A ANS fará publicar normas regulamentares para o disposto neste artigo, observados os termos de adaptação previstos no art. 35 (grifei).
+Portanto, tenho que a situação fática em questão deve ser enquadrada como de emergência, eis que a não internação do paciente, recém-nascido, certamente traria maiores complicações ao seu estado de saúde. Aliás, no próprio laudo anteriormente mencionado (fl. 49) o médico-assistente classificou a consulta como de emergência, em razão do quadro de saúde do demandante. Inclusive, como bem observado na sentença, o próprio depoimento do médico que atendeu o autor na internação referiu que o seu quadro importava em risco de vida, o que igualmente corrobora o restante do conjunto probatório (fls. 213/214).
+De outro lado, é de 24 horas o prazo máximo de carência para a cobertura dos casos de urgência e emergência, na forma do art. 12, V, "c", da Lei nº 9.656/98, in verbis:
+Art. 12. São facultadas a oferta, a contratação e a vigência dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, nas segmentações previstas nos incisos I a IV deste artigo, respeitadas as respectivas amplitudes de cobertura definidas no plano -referência de que trata o art. 10, segundo as seguintes exigências mínimas:
+V - quando fixar períodos de carência:
+a) prazo máximo de trezentos dias para partos a termo;
+b) prazo máximo de cento e oitenta dias para os demais casos;
+c) prazo máximo de vinte e quatro horas para a cobertura dos casos de urgência e emergência (grifei);
+De outro lado, a delimitação da cobertura contratual ao tratamento oferecido apenas às primeiras doze horas quando do ingresso do paciente ao nosocômio também se revela inadmissível, eis que atenta ao Código de Defesa do Consumidor, razão pela qual não se aplica ao presente caso aquilo que previsto no art. 2º, da Resolução nº 13, da CONSU.
+Do exposto, observa-se que o Tribunal de origem concluiu que, apesar de cabível a imposição de período de carência de 24 (vinte e quatro) meses para doenças preexistentes, ficou caracterizada a situação de urgência, a afastar a exigência do decurso desse prazo para o fornecimento de atendimento.
+Tal entendimento se harmoniza com a jurisprudência desta Corte Superior, que se posiciona no sentido de que o prazo de carência estabelecido em contrato de plano de saúde no caso de doenças ou lesões preexistentes não prevalece nos casos de urgência ou emergência.
+Confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - DEMANDA POSTULANDO CUMPRIMENTO DE OBRIGAÇÃO DE FAZER CONSISTENTE NA AUTORIZAÇÃO DE INTERNAÇÃO DE USUÁRIO DE PLANO DE SAÚDE PARA ATENDIMENTO MÉDICO EMERGENCIAL - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO RECLAMO PARA RESTABELECER SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA OPERADORA DO PLANO DE SAÚDE.
+1. Prazo de carência (24 meses) estipulado pelo plano de saúde para cobertura de doenças e lesões preexistentes ao contrato. A jurisprudência do STJ é no sentido de que "lídima a cláusula de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde, merecendo temperamento, todavia, a sua aplicação quando se revela circunstância excepcional, constituída por necessidade de tratamento de urgência decorrente de doença grave que, se não combatida a tempo, tornará inócuo o fim maior do pacto celebrado, qual seja, o de assegurar eficiente amparo à saúde e à vida" (REsp 466.667/SP, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 27.11.2007, DJ 17.12.2007).
+2. Agravo regimental desprovido.
+(AgRg no REsp 1401390/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/11/2013, DJe 03/12/2013)
+Nesse mesmo sentido: AgRg no AREsp 592.855/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/05/2015, DJe 18/05/2015; REsp 1.055.199/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 03/05/2011, DJe 18/05/2011; e AgRg no AREsp 213.169/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 04/10/2012, DJe 11/10/2012.
+Dessa forma, o entendimento firmado pelo Colegiado estadual está em consonância com o desta Corte, o que atrai o óbice da Súmula n. 83/STJ, por ambas as alíneas do permissivo constitucional.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
