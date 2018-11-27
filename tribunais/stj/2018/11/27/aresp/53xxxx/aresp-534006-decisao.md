@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que inadmitiu o recurso especial sob o fundamento de ausência de omissão, contradição ou obscuridade no acórdão recorrido (e-STJ fls. 196/197).
+O acórdão recorrido está assim ementado (e-STJ fl. 141):
+EMBARGOS DO DEVEDOR. EXECUÇÃO DE CONTRATO DE LOCAÇÃO. TÍTULO EXECUTIVO HÁBIL A EMBASAR A PRESENTE DEMANDA EXPROPRIATÓRIA. CONFISSÃO DE DÍVIDA. BOA-FÉ OBJETIVA E CONTRATUAL. NOVAÇÃO INEXISTENTE. LEGALIDADE NO DESCONTO NO VALOR DO ALUGUEL. INAPLICABILIDADE DO CODIGO DE DEFESA DO CONSUMIDOR. DESCABIMENTO DA MINORAÇÃO DA MULTA MORATÓRIA DE 10% PARA 2%. PENHORABILIDADE DO BEM DE FAMÍLIA. CONSTITUCIONALIDADE DO ART. 3º, INC. VII, DA LEI Nº 8.009/90, COM A REDAÇÃO DA LEI Nº 8.245/91. HONORÁRIOS SÚMULA N. 306 DO STJ. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+O fiador de contrato de locação não tem o direito de opor contra o locador a prerrogativa de impenhorabilidade do bem de família nos termos do disposto no art. 3º, VII da Lei n. 8009/90.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 157/162).
+Nas razões do recurso especial (e-STJ fls. 165/172), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes alegaram ofensa aos arts. 1º e 535 do CPC/1973, sustentando, em síntese, a existência de omissão e obscuridade no acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ fls. 182/193).
+No agravo (e-STJ fls. 200/208), afirmam a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte, tendo apresentado fundamentação satisfatória para dirimir integralmente o litígio. Assim, não incorreu em ofensa ao art. 535, II, do CPC/1973.
+Com efeito, nos embargos de declaração que opuseram na origem, os recorrentes alegaram haver omissão no acórdão, que não teria se pronunciado sobre a alegação de "que o exequente/recorrido não havia comprovado a existência e o valor das despesas cobradas a título de IPTU e condomínio" (e-STJ fl. 167).
+Em relação à omissão apontada, conforme se observa pela leitura do acórdão recorrido, o Tribunal de origem ratificou os termos da sentença que deliberou, de forma clara e suficiente, acerca dos argumentos suscitados, destacando que os recorrentes confessaram "estarem em débito com o exequente na importância de R$ 21.839,21 (vinte e um mil, oitocentos e trinta e nove reais e vinte e um centavos), incluindo alugueres (agosto a novembro de 1999), IPTU (agosto a novembro de 1999), condomínio (maio a novembro de 1999) (..)", que "o titulo executivo que embasa o presente processo de execução nada mais é do que uma confissão de divida, preenchendo todos os requisitos necessários para dar início ao processo executivo" e que "a responsabilidade do locatário pelo pagamento tanto do IPTU quanto das despesas condominiais, é autorizado pela lei e estipulado no contrato, podendo o locador cobrar do locatário inadimplente tais verbas, salvo se este comprovar que efetuou o pagamento (art. 333, lI, do CPC), ônus que lhe competia e não foi cumprido nos autos" (e-STJ fls. 146 e 148).
+Ressalte-se que o fato de o acórdão recorrido ter decidido de forma contrária ao interesse dos recorrentes não configura omissão, contradição, obscuridade nem negativa de prestação jurisdicional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
