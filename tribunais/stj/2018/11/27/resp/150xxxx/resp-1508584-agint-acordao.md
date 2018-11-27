@@ -1,0 +1,32 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. SUBSTITUIÇÃO DA PARTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. PRESCRIÇÃO NÃO CONSUMADA. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A morte de uma das partes é causa de imediata suspensão do processo (art. 265, I do CPC/1973), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores, de modo que, aplicando esse entendimento no caso concreto, constata-se que o processo deveria ter ficado suspenso desde o momento do passamento da autora, ocorrido ainda na fase de conhecimento, não podendo ser contado, a partir desse evento, nenhum lapso prescricional em prejuízo aos herdeiros, seja para a habilitação deles, seja para a propositura da Ação de Execução (REsp. 1.707.423/RS, Rel. Ministro GURGEL DE FARIA, DJe 22.2.2018).
+2. Agravo Interno da União a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra decisão de minha relatoria, assim ementada:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. SUBSTITUIÇÃO DA PARTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. PRESCRIÇÃO NÃO CONSUMADA. RECURSO ESPECIAL PROVIDO.
+2. Em suas razões recursais, afirma a agravante, que o fundamento adotado pela decisão agravada no sentido de que a habilitação não tem prazo é inaplicável ao presente processo porquanto a questão discutida diz respeito à propositura de ação autônoma, no caso a execução. Os precedentes desse STJ citados na decisão monocrática tratam da sucessão durante o processo. O caso dos autos, por outro lado, tratam do ajuizamento de uma nova ação: a ação executiva. Como se tratava no Código antigo de ação autônoma, o prazo para seu ajuizamento não estava suspenso (fls. 781).
+3. Requer a reconsideração da decisão ora agravada ou, caso assim não aconteça, que o recurso seja levado à Turma competente.
+4. É o relatório.
+VOTO
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. SUBSTITUIÇÃO DA PARTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. PRESCRIÇÃO NÃO CONSUMADA. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A morte de uma das partes é causa de imediata suspensão do processo (art. 265, I, do CPC/1973), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores, de modo que, aplicando esse entendimento no caso concreto, constata-se que o processo deveria ter ficado suspenso desde o momento do passamento da autora, ocorrido ainda na fase de conhecimento, não podendo ser contado, a partir desse evento, nenhum lapso prescricional em prejuízo aos herdeiros, seja para a habilitação deles, seja para a propositura da Ação de Execução (REsp. 1.707.423/RS, Rel. Ministro GURGEL DE FARIA, DJe 22.2.2018).
+2. Agravo Interno da União a que se nega provimento.
+1. A despeito das bem lançadas alegações da agravante, razão não lhe assiste.
+2. Conforme afirmado na decisão combatida, o entendimento adotado pela Corte de origem destoa da jurisprudência do STJ, segundo a qual o falecimento da parte impõe a suspensão do processo e abre oportunidade de habilitação dos herdeiros, sem que corra prazo prescricional. Nesse sentido:
+PREVIDENCIÁRIO. SERVIDOR PÚBLICO. PENSÃO. EXECUÇÃO. SUBSTITUIÇÃO DA PARTE. SUSPENSÃO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. ACÓRDÃO EM CONSONÊNCIA COM A JURISPRUDÊNCIA DA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ.
+I - Na origem trata-se de agravo de instrumento contra decisão que anulou sentença de execução. No julgamento do agravo de instrumento deu-se provimento ao recurso para determinar o prosseguimento da execução.
+II - A Corte de origem concluiu que a prescrição não se consumou, visto que o falecimento da parte impõe a suspensão do processo e abre oportunidade de habilitação dos herdeiros, sem que corra prazo prescricional.
+III - O entendimento firmado pelo Tribunal de origem não merece censura, pois "a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente" (AgRg no REsp 891.588/RJ, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, julgado em 22/9/2009, DJe 19/10/2009). Nesse sentido: REsp 1657663/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/08/2017, DJe 17/08/2017; AgRg no AREsp 282.834/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 1º/4/2014, DJe 22/4/2014; AgRg no REsp 1.485.127/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/2/2015, DJe 12/2/2015; AgRg no AREsp 523.598/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/8/2014, DJe 15/8/2014.)
+IV - Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Agravo interno improvido (AgInt no AREsp. 929.097/PE, Rel. Min. FRANCISCO FALCÃO, DJe 18.12.2017).
+
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. AJUIZAMENTO EM NOME DA PARTE QUE FALECERA DURANTE O PROCESSO DE CONHECIMENTO. FATO DESCONHECIDO PELO ADVOGADO. BOA-FÉ. CONVALIDAÇÃO DOS ATOS PROCESSUAIS. ANULAÇÃO DO FEITO EXECUTIVO. DESNECESSIDADE. AUSÊNCIA DE PREJUÍZO. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+(..).
+7. A morte de uma das partes é causa de imediata suspensão do processo (art. 265, I, do CPC/1973), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores, de modo que, aplicando esse entendimento no caso concreto, constata-se que o processo deveria ter ficado suspenso desde o momento do passamento da autora, ocorrido ainda na fase de conhecimento, não podendo ser contado, a partir desse evento, nenhum lapso prescricional em prejuízo aos herdeiros, seja para a habilitação deles, seja para a propositura da ação de execução.
+8. Recurso especial provido (REsp. 1.707.423/RS, Rel. Ministro GURGEL DE FARIA, DJe 22.2.2018).
+3. Ante o exposto, nega-se provimento ao Agravo Interno da União.
+4. É como voto.
