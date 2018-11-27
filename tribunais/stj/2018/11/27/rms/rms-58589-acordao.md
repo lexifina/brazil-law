@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. AVERBAÇÃO DE TEMPO ESPECIAL. APOSENTADORIA. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. AUSÊNCIA DE PROVA PRÉ-CONSTITUIDA.
+1. Cuida-se, na origem, de Mandado de Segurança imperado pela recorrente com o objetivo de anular acórdão que não reconheceu a averbação da contagem do tempo especial para fins de aposentadoria.
+2. É cediço no STJ que a ação de Mandado de Segurança é meio constitucional posto à disposição do cidadão para proteger de direito líquido e certo lesado ou ameaçado de lesão por ato de autoridade. Não demonstrada de plano a lesão ou ameaça, o pedido deve ser indeferido.
+3. No caso em tela, a recorrente não comprovou efetivamente ter havido violação ao seu direito líquido e certo. Desse modo, não se verificam razões a ensejar revisão do julgado, que corretamente entendeu inexistir prova pré-constituída, condição de procedibilidade do Mandado de Segurança, com base no art. 6º da Lei 12.016/2009.
+4. Recurso Ordinário não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Mauro Campbell Marques e Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME], com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão assim ementado:
+DIREITO CONSTITUCIONAL - DIREITO ADMINISTRATIVO - MANDADO DE SEGURANÇA - SERVIDORA PÚBLICA DO TRIBUNAL DE JUSTIÇA -PRESTAÇÃO DE SERVIÇO CONSIDERADO INSALUBRE - APOSENTADORIA ESPECIAL - SÚMULA VINCULANTE 33 - NECESSIDADE DE PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 57 DA LEI 8.213/91 - INOCORRÊNCIA - IMPOSSIBILIDADE DE CONTAGEM DE TEMPO DIFERENCIADA PARA FIM DE APOSENTADORIA COMUM - AUSÊNCIA DE PREVISÃO LEGAL - ARTIGO 40, PARÁGRAFO 4º, INCISO III, DA CONSTITUIÇÃO FEDERAL - PREVISÃO DE APOSENTADORIA ESPECIAL - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL - DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO - SEGURANÇA DENEGADA.
+- Por meio da súmula vinculante 33, o Supremo Tribunal Federal reconheceu a mora legislativa na regulamentação do artigo 40, parágrafo 4º, inciso III, da Constituição Federal, e determinou a aplicação, no que couber, das regras do regime geral da previdência social sobre aposentadoria especial de que trata o mencionado dispositivo constitucional, até a edição de lei complementar específica. Todavia, de acordo com precedentes da Excelsa Corte, o artigo 40, parágrafo 4º, da Constituição Federal, não garante a contagem de tempo de serviço diferenciada ao servidor público.
+- A concessão da aposentadoria especial a servidor sujeito ao regime próprio de previdência, quando não tiver sido editada a lei complementar a que se refere artigo 40, parágrafo 4º, inciso III, da Constituição Federal, exige a comprovação dos requisitos previstos no artigo 57 da lei 8.213/91, o que não ocorreu no presente caso.
+Em suas razões, a recorrente defende, em síntese:
+A aprovação de súmulas possui efeitos vinculantes e, por conseguinte, deve ser seguido pelas instâncias do Poder Judiciário, bem como a Administração Direta e Indireta, dirimindo-se qualquer dúvida jurídica: aplica-se a conversão do tempo especial em comum, multiplicado por 1,2, no âmbito do serviço público.
+Logo, não se busca aqui o reconhecimento do tempo especial em comum, porque já houve aprovação da Sumula Vinculante n.33, pelo Plenário do Excelso STF.
+E, sim, que sejam cumpridos os efeitos da averbação já realizada de tempo especial, conforme Sumula Vinculante n. 33ª do Excelso STF, contudo.
+Contra-razões às fls. 666-668, e-STJ.
+O Ministério Público Federal, na pessoa da Subprocuradora-Geral da República, Dr. [NOME], opinou pelo não provimento do presente recurso (fls. 674-679, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11.9.2018.
+Cuida-se, na origem, de Mandado de Segurança imperado pela recorrente com o objetivo de anular acórdão que não reconheceu a contagem do tempo especial para fins de aposentadoria.
+O Tribunal local consignou:
+Não socorre a impetrante, no tocante à contagem do tempo de serviço sujeito aos agentes insalubres com o multiplicador 1.2, a alegação de que sua pretensão estaria amparada na decisão proferida pelo Supremo Tribunal Federal no julgamento do Mandado de Injunção 3.028, que envolve a mora legislativa na edição de lei complementar regulamentando o artigo 40, parágrafo 4º, da Constituição.
+(..)
+Portanto, não há embasamento legal que ampara a pretensão da impetrante de recontagem, para fim de aposentadoria, do tempo de serviço em condição insalubre averbado em seu assento funcional, com a aplicação do fator multiplicador de 1.2.
+Ademais, para fazer jus à aposentadoria especial de que trata o artigo 40, parágrafo 4º, inciso III, da Constituição Federal, a impetrante deveria provar que preencheu o requisito temporal previsto no artigo 57 da lei federal 8.213/91, o qual prevê que:
+"A aposentadoria especial será devida, uma vez cumprida a carência exigida nesta lei, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física, durante 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme dispuser a lei"
+(..)
+Além disso, não consta no registro funcional da impetrante que ela, antes de ser admitida como servidora deste Tribunal de Justiça, trabalhou sujeita a condições especiais que prejudicassem a saúde ou a integridade física.
+(..)
+Da análise do cálculo apresentado na inicial da ação, extrai-se que a impetrante almeja somar o período de 23/07/2001 a 30/09/2016, exercido na Fundação de Assistência Médica e de Urgência de Contagem, com o tempo exercido em condições insalubres neste Tribunal, o que não é cabível.
+Isso porque não há amparo legal para a soma do tempo de dois vínculos exercidos concomitantemente para a obtenção de uma única aposentação. Para o caso de exposição a agentes biológicos, a lei exige 25 anos de trabalhado em tal situação, não havendo previsão de soma do tempo de trabalho em dois cargos exercidos de maneira concomitante.
+Como bem ressaltado nas informações do Presidente deste egrégio Tribunal, "em caso de acumulação constitucional de cargos públicos, como no caso da impetrante, os tempos podem até ser somados (especial com especial, comum com comum), desde que não correspondam ao mesmo período; em outras palavras, não se permite a soma dos períodos quando forem concomitantes".
+Como se isso não bastasse, não consta da "Declaração de Contagem de Tempo de Serviço para Simples Verificação" fornecida pela Fundação de Assistência Médica e de Urgência de Contagem que o tempo ali exercido tenha sido reconhecido como especial, ou seja, em condição insalubre.
+Com isso, não restou configurado o direito líquido e certo da impetrante de obter a aposentadoria almejada.
+E como não houve o reconhecimento do direito à aposentadoria, não há como falar em direito a abono de permanência.
+Por fim, registro que não há previsão legal de contagem diferenciada do tempo de serviço em condição insalubre para fim de aquisição do direito a quinquênios e a férias-prêmio, sendo que a própria impetrante, de maneira equivocada, tratou de tal pretensão como mera consequência do acolhimento da pretensão de recontagem do referido período para fim de aposentadoria.
+É cediço nesta Corte Superior que a ação de Mandado de Segurança é meio constitucional posto à disposição do cidadão para a proteção de direito líquido e certo lesado ou ameaçado de lesão por ato de autoridade. Não demonstrada de plano a lesão ou ameaça, o pedido deve ser indeferido.
+De fato, compete à parte instruir adequadamente o feito e, por sua vez, ao magistrado cabe explicitar as razões jurídicas que conduziram ao acolhimento de determinados argumentos em detrimento de outros.
+No caso em tela, a recorrente não comprovou efetivamente ter havido violação ao seu direito líquido e certo.
+Desse modo, não se verificam razões a ensejar revisão do julgado, que corretamente entendeu inexistir prova pré-constituída, condição de procedibilidade do Mandado de Segurança, com base no art. 6º da Lei 12.016/2009.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CANDIDATO APROVADO FORA DO NUMERO DE VAGAS. NÃO DEMONSTRAÇÃO DE NUMERO DE CANDIDATOS NOMEADOS PARA O PROVIMENTO DO CARGO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+I - A jurisprudência desta Corte Superior é pacífica no sentido de que o candidato aprovado fora do número de vagas previstas no edital possui mera expectativa de direito à nomeação, convolando-se em direito subjetivo somente na hipótese de comprovação do em direito subjetivo somente na hipótese de comprovação do surgimento de cargos efetivos durante o prazo de validade do concurso público, bem como o interesse da Administração Pública em preenchê-las. II - É cediço que a admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço.
+III - São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos. IV - Na via do mandado de segurança, a prova do pretendido direito deve ser pré-constituída, uma vez que não se admite a dilação probatória nesta via de rito especial.
+V - Na hipótese em tela, conforme bem explicitado pela Corte ordinária, a recorrente deixou de instruir o pedido com a demonstração inequívoca de quantos candidatos efetivamente foram nomeados para provimento do cargo/município disputado; não juntou documento comprobatório de que o primeiro nomeado foi mesmo removido para a cidade de Palmas/TO, conforme alega; e de que o contrato temporário firmado pelos impetrados foi mesmo preenchido por técnico agropecuário, o que inviabiliza a concessão da ordem mandamental postulada.
+VI - Dada a ausência de prova pré-constituída das alegações da recorrente, forçoso o reconhecimento da ausência de direito líquido e certo a ser amparado nesta via mandamental.
+VII - Agravo interno improvido.
+(AgInt no RMS 51.362/TO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 02/10/2018, DJe 08/10/2018)
+Ante o exposto, nego provimento ao Recurso Ordinário.
+É como voto.
