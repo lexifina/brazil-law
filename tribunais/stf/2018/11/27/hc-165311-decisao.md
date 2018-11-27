@@ -1,0 +1,31 @@
+Trata-se de habeas corpus com pedido de liminar impetrado contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 477.034/RJ.
+    Consta da decisão ora questionada que o paciente foi condenado à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico interestadual de drogas (art. 33 combinado com o art. 40, V, da Lei 11.343/2006). Inconformado, apelou para o Tribunal de Justiça do Estado do Rio de Janeiro – TJRJ, que negou provimento ao recurso, mantendo íntegra a sentença de primeira instância.
+    Questionando os fundamentos da prisão preventiva, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, mas o Ministro Relator indeferiu liminarmente a impetração (documento eletrônico 28).
+    É contra essa decisão que se insurgem os impetrantes neste habeas corpus.
+    Registram, inicialmente, que o habeas corpus impetrado no Superior Tribunal de Justiça foi liminarmente indeferido em virtude de erro cometido na digitalização das peças juntadas naquela impetração, porém a distribuição do HC ao STJ teria ocorrido em 29/10/2018 14h00ms, e a petição dos impetrantes esclarecendo o fato e juntando mesmíssima peça, porém legível e no mesmíssimo dia, fora protocolizada às 18h23ms” (págs. 1-2 da petição inicial).
+    Explicam, em seguida, que “a postura diligente dos impetrantes se deu muito antes da manifestação inaugural do Relator, todavia, ainda assim, o HC fora liminarmente indeferido, exatamente pela impossibilidade de visualização correta da Inicial” (pág. 3 da petição inicial).
+    Daí por que defendem “o conhecimento do presente HC, nos termos requeridos, para que, superada a questão preliminar, seja a questão de fundo apreciada na forma a seguir exposta” (pág. 9 da petição inicial).
+    No mais, fazem extenso arrazoado sobre supostas irregularidades ocorridas na tramitação e no julgamento da apelação interposta pela defesa no Tribunal de Justiça local (págs. 10-23 da petição inicial).
+    Afirmam, nesse contexto, que “Egrégio Tribunal de Justiça, por meio da oitava câmara criminal, inobservou regras e direitos essenciais do contraditório e da ampla defesa quando das práticas e omissões vinculadas a fatídica realização da sessão e julgamento virtual, deixando de reconhecer de ofício ou motivadamente os erros cometidos” (pág. .
+    Argumentam, em arremate, que é “injusto que o paciente permaneça tempo maior preventivamente preso até que se defina finalmente os recursos interpostos ao STJ e a este STF, notadamente porque o erro verificado não teve contribuição alguma” (pág. 26 da petição inicial).
+    Requerem, ao final, liminarmente, a revogação da “prisão preventiva do PACIENTE […], permitindo-se ao mesmo o direito de recorrer da sentença/acórdão em LIBERDADE, EXPEDINDO-SE IMEDIATAMENTE ALVARÁ DE SOLTURA/ORDEM DE REVOGAÇÃO DA PRISÃO PREVENTIVA” (pág. 32 da petição inicial).
+    No mérito, pedem a concessão da ordem, “para fins da consolidação da providência em caráter liminar, devendo os IMPETRANTES serem informados nos termos legais sobre a data do julgamento do mérito do presente HABEAS CORPUS, desde já asseverando o paciente não se opor às medidas cautelares do artigo 319 do CPP para fins de acolhimento ao pleito ora posto” (pág. 32 da petição inicial).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 477.034/RJ, com os seguintes fundamentos:
+    “Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VINICIUS DE ALMEIDA FRANCO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+    Consta dos autos que o paciente foi condenado à pena de 8 anos e 2 meses de reclusão, em regime fechado, mais pagamento de 816 dias-multa, como incurso no art. 33, caput, c.c o art. 40, V, ambos da Lei n. 11.343/2006.
+    Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+    Neste writ, ao que parece, o impetrante insurge-se contra a prisão preventiva do acusado, requerendo a expedição de alvará de soltura.
+    É o relatório.
+    Decido.
+    Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado (AgRg no HC 370.583/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016).
+    No caso, além da impossibilidade de se compreender e analisar as alegações do impetrante na peça inicial, diante da vasta quantidade de caracteres não usuais na formação das palavras, o processo não foi instruído com qualquer peça que aponte o suposto ato coator que decretou e/ou manteve a custódia cautelar do paciente. Logo, inviável a aferição de constrangimento ilegal sofrido pelo acusado.
+    Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus” (documento eletrônico 28).
+    Desse modo, este pleito não merece igualmente seguimento, uma vez que o exame da questão implicaria indevida supressão de instância e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Verifico, além disso, que os impetrantes formularam pedido de reconsideração no Superior Tribunal de Justiça, o que recomenda aguardar-se o pronunciamento definitivo daquele Tribunal.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 27 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
