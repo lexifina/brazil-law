@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão de fls. 699-792 (e-STJ), que conheceu do agravo para negar provimento ao recurso especial.
+O embargante alega, em suma, que a decisão embargada incidiu em omissão, na medida em que não declinou a data em que a instrução processual da ação penal em questão foi encerrada para que se pudesse aferir a aplicação ou não da modulação dos efeitos do HC 127.900/AM, no sentido de se aplicar a nova disposição de aplicação do art. 400 do CPP, nas ações penais que tramitam perante a Justiça Militar.
+Requer o acolhimento dos presentes embargos ou o recebimento como agravo regimental em homenagem ao princípio da fungibilidade e economia processual.
+É o relatório.
+Decido.
+Os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Inexistindo qualquer um desses elementos essenciais, rejeitam-se os declaratórios.
+A decisão embargada consignou que:
+"Em relação à matéria tratada nos autos, o Superior Tribunal de Justiça, ao acompanhar o entendimento firmado pela Suprema Corte, no HC n. 127.900/AM, de relatoria do Ministro DIAS TOFFOLI, tem decidido que "o rito processual para o interrogatório, previsto no art. 400 do CPP, deve ser aplicado a todos os procedimentos regidos por leis especiais, porquanto a Lei 11.719/2008, que deu nova redação ao art. 400 do CP, prepondera sobre as disposições em sentido contrário previstas em lei especial, por se tratar de lei posterior mais benéfica ao acusado" (HC 390.707/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/11/2017, DJe 24/11/2017).
+Nessa oportunidade, pontuou-se modular os efeitos da decisão, para se aplicar a nova compreensão somente aos processos em que a instrução não tenha se encerrado até a publicação da ata daquele julgamento (11/3/2016), o que não ocorreu no presente caso" (e-STJ, fl. 700.)
+Na hipótese, verifica-se dos autos que, se a sentença foi proferida em 27/12/2014 (e-STJ, fl. 268-278), é lógico e cristalino que a instrução se encerrou anos antes de 11/3/2016.
+Desta forma, inviável a utilização dos embargos de declaração, ao argumento da pretensa omissão.
+Quanto ao pleito de recebimento dos presentes embargos declaratórios como agravo regimental, tampouco assiste razão ao embargante, na medida em que não se verifica nas razões expendidas o intuito nítido de atribuição de efeitos infringentes, mas apenas a intenção de ver sanada pretensa omissão, qual seja, a data do encerramento da instrução da ação penal.
+Nesse sentido:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. INÉPCIA DA DENÚNCIA. NULIDADE DE ATOS DE INSTRUÇÃO E DA DECISÃO DE PRONÚNCIA. INSUFICIÊNCIA DO CONJUNTO PROBATÓRIO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 283/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO, SÚMULA 284/STF.
+1. Em atenção aos princípios da fungibilidade recursal e da instrumentalidade das formas, admite a conversão, em agravo regimental, de embargos de declaração cujas razões carregam nítido intuito de atribuição de efeito infringente ao julgado. Tal possibilidade é aceita mesmo na seara penal, desde que presentes os requisitos para a aplicação do princípio da fungibilidade que são: a) interposição do recurso dentro do prazo previsto para o manejo do recurso correto; e b) ausência de erro grosseiro. Precedentes.
+2. Não há se falar em inépcia da denúncia. Conforme se extrai da peça acusatória, houve a narrativa das condutas criminosas imputadas aos acusados acerca da prática do crime de homicídio qualificado, com todas as circunstâncias relevantes, de maneira suficiente ao exercício do direito de defesa.
+3. A jurisprudência desta Corte admite, nos crimes de autoria coletiva, a validade da peça acusatória que, apesar de não descrever minuciosamente as ações individuais dos acusados, demonstra um liame entre o agir e a suposta prática delituosa, estabelecendo a plausibilidade da imputação e possibilitando o exercício da ampla defesa. Precedentes.
+4. O recorrente alega a existência de nulidade processual, decorrente da inobservância das alterações promovidas pelas leis 11.689/2008 e 11.719/2008 - artigos 394, 396, parágrafo único, 396-A e 406 do CPP. Não obstante, nada tratou acerca da incidência do princípio do tempus regit actum nem procurou exteriorizar qual o efetivo prejuízo causado pela suposta ilegalidade, deixando, assim, de atacar os fundamentos do acórdão recorrido. Incidência, por analogia, da Súmula 283/STF.
+(..).
+8. Agravo regimental não provido."
+(AgRg no REsp 1432770/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
