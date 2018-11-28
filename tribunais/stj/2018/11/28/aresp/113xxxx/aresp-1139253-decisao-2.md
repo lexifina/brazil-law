@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL. CONSÓRCIO. PACTO DE SEGURO DE VIDA EM GRUPO PARA GARANTIA DO ADIMPLEMENTO CONTRATUAL. INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. AUSÊNCIA. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ATACADÃO MOTO PEÇAS LTDA. ME. (ATACADÃO) ajuizou ação de rescisão contratual cumulada com pedido de indenização por danos morais contra BANCO DO BRASIL S.A. (BANCO) e COMPANHIA DE SEGUROS ALIANÇA DO BRASIL (SEGURADORA), alegando que firmaram contrato de consórcio para aquisição de veículo com pacto de seguro de vida em grupo para garantia da quitação da avença na hipótese de morte do beneficiário [NOME], após a qual o BANCO e a SEGURADORA recusaram-se à concessão da carta de crédito.
+A sentença julgou parcialmente procedente o pedido, condenando o BANCO e a SEGURADORA solidariamente ao pagamento da quantia correspondente a 60% do valor de R$ 18.382,80 (dezoito mil, trezentos e oitenta e dois reais e oitenta centavos), no prazo de 15 dias, sob pena de multa diária de R$ 1.000,00 (mil reais) (e-STJ, fls. 201/203).
+Interpostas apelações, o Tribunal de origem não conheceu do recurso do BANCO, negou provimento ao recurso do ATACADÃO e deu parcial provimento ao recurso da SEGURADORA, em acórdão assim ementado (e-STJ, fls. 322/339):
+APELAÇÃO DA SEGURADORA RÉ. CONTRATO DE CONSÓRCIO. FALECIMENTO DO SÓCIO MAJORITÁRIO DA EMPRESA SEGURADA. INTERESSE DE AGIR CONFIGURADO. APRESENTAÇÃO DA DOCUMENTAÇÃO SOLICITADA. RESPONSABILIDADE SOLIDÁRIA EVIDENCIADA. HIPÓTESE DE CONTRATOS COLIGADOS. INCIDÊNCIA DE MULTA DIÁRIA. INADMISSIBILIDADE EM OBRIGAÇÃO DE PAGAR QUANTIA CERTA. EXEGESE DO ART. 492 DO NCPC. RECURSO PROVIDO EM PARTE.
+APELAÇÃO DA AUTORA. CONTRATO DE CONSÓRCIO. FALECIMENTO DO SÓCIO MAJORITÁRIO DA EMPRESA SEGURADA. MANUTENÇÃO DO VALOR CONDENATÓRIO, EM OBSERVÂNCIA ÀS CLÁUSULAS CONTRATUAIS. CONCESSÃO DE CARTA DE CRÉDITO DEVIDA. PROTESTO DE TÍTULO NÃO DEMONSTRADO. DANO MORAL NÃO CARACTERIZADO. SUCUMBÊNCIA RECÍPROCA MANTIDA. RECURSO NÃO PROVIDO.
+APELAÇÃO DO BANCO RÉU. CONTRATO DE CONSÓRCIO. RAZÕES RECURSAIS DISSOCIADAS DO DECIDIDO EM SENTENÇA. MERA REPETIÇÃO DOS ARGUMENTOS GENÉRICOS LANÇADOS EM SEDE DE CONTESTAÇÃO QUE NÃO TÊM O CONDÃO DE PROPORCIONAR O CONHECIMENTO DO APELO. INFRINGÊNCIA AO PRINCÍPIO DA DIALETICIDADE. INTELIGÊNCIA DO ART. 1010, II E III, DO NCPC. RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos pela SEGURADORA foram rejeitados (e-STJ, fls. 349/353).
+Inconformada, a SEGURADORA interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando, em síntese, que, tratando-se de seguro prestamista, o BANCO é o primeiro beneficiário e, apenas na hipótese de saldo remanescente, o respectivo valor deveria ser repassado ao segurado e herdeiros.
+ATACADÃO ofereceu contrarrazões (e-STJ, fls. 388/392).
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do Tribunal de origem inadmitiu o apelo nobre ante a incidência da Súmula nº 284 do STF, em vista da ausência de indicação de dispositivo legal violado. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual a aplicação do óbice foi refutada.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A alegação de que se cuida de seguro prestamista, que teria como primeiro beneficiário o BANCO, tendo o segurado e herdeiros direito apenas a eventual saldo remanescente não veio amparada em indicação de dispositivo de lei federal eventualmente violado, o que atrai a incidência da Súmula nº 284 do STF.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
