@@ -1,0 +1,21 @@
+Vistos etc.
+     Aplicada a sistemática da repercussão geral e devolvido o recurso à origem para os fins dos arts. 1.036 a 1.040 do CPC/2015, considerado o ARE 954.408-RG, retornam os autos a esta Suprema Corte, com a informação de que a questão em exame é distinta da veiculada no citado paradigma.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    De fato, consideradas as circunstâncias jurídico-normativas da decisão recorrida, a matéria debatida, embora semelhante, não guarda identidade com o paradigma indicado, porquanto, no caso concreto, se trata de servidor público militar.
+    Ante o exposto, reconsidero a decisão pela qual aplicados os arts. 1.036 a 1.040 do CPC, e passo ao exame do recurso.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, caput, 40, caput, §§ 4º e 19, e 42, § 1º, da Constituição Federal.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicada, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público militar. Agente penitenciário. Abono de permanência. Percepção. Requisitos para concessão do benefício. Preenchimento. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Inaplicável o art. 85, § 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa.” (ARE 1123244 AgR, Rel. Min. DIAS TOFFOLI, 2ª Turma, DJe 29-06-2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. POLICIAL MILITAR. DIREITO AO ABONO DE PERMANÊNCIA. LEI COMPLEMENTAR ESTADUAL 10.990/1997. CONTROVÉRSIA INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de norma infraconstitucional local que fundamenta o acórdão recorrido, de modo que eventual ofensa à Constituição Federal seria indireta. Incidência da Súmula 280/STF. II – Agravo regimental a que se nega provimento.” (ARE 1051822 AgR, Rel. Min. RICARDO LEWANDOWSKI, 2ª Turma, DJe 20-03-2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. ABONO DE PERMANÊNCIA. REEXAME DE LEGISLAÇÃO LOCAL. LEI COMPLEMENTAR 10.990/1997 DO ESTADO DO RIO GRANDE DO SUL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1075725 AgR, Rel. Min. LUIZ FUX, 1ª Turma, DJe 22-11-2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Ante o exposto, reconsidero a decisão pela qual aplicados os arts. 1.036 a 1.040 do CPC, e nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
