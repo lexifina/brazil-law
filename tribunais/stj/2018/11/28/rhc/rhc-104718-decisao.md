@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que denegou o writ de origem, por acórdão que tem a seguinte ementa (fl. 193):
+HABEAS CORPUS. CRIMES CONTRA O PATRIMÔNIO. LATROCÍNIO. FUMUS COMMISSI DELICTI E PERICULUM LIBERTATIS EVIDENCIADOS. GARANTIA DA ORDEM PÚBLICA QUE IMPÕE A SEGREGAÇÃO CAUTELAR DO PACIENTE.
+Presentes o Fumus commissi delicti e o periculum libertatis, cabível a prisão preventiva do paciente para a garantia da ordem pública, nos termos do Art. 312 do Código de Processo Penal. A decisão que decretou a prisão preventiva do paciente está adequadamente fundamentada, em observância ao Art. 93, IX, da Constituição Federal, estando presentes os requisitos da segregação cautelar como forma de garantir a ordem pública, pois que o crime em apreço possui natureza grave. A prisão preventiva não é incompatível com o princípio da presunção de inocência, ainda mais quando calcada em dados concretos, como é a hipótese presente.
+Consoante o entendimento do Superior Tribunal de Justiça, eventuais condições pessoais favoráveis, como a primariedade, residência fixa e trabalho lícito, não obstam a decretação da prisão nem confere ao paciente o direito à liberdade. A gravidade do crime e as circunstâncias em que foi perpetrado inviabilizam a aplicação de medidas cautelares previstas no Art. 319 do Código de Processo Penal. ORDEM DENEGADA.
+Neste recurso, argumenta que sofre constrangimento ilegal, porque não estão presentes os requisitos autorizadores da cautelar.
+O recorrente responde pela prática do crime tipificado no art. 157, § 2º, II, § 3º, II, do CP.
+Sem pedido liminar.
+O Ministério Público Federal manifestou-se no sentido do não provimento do recurso.
+No processo n. 0000701-46.2018.8.21.0041 foi designada audiência de instrução para o dia 22/11/2018, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 19/11/2018.
+É o relatório.
+DECIDO.
+O recurso objetiva a revogação da prisão preventiva, sob a argumentação de que não estão presentes os requisitos da constrição.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 70/71 - com destaques):
+ .. .O perigo de liberdade, por sua vez, decorre da gravidade concreta do fato, a revelar a periculosidade dos agentes, considerando as seguintes circunstâncias do latrocínio praticado: a) o crime foi praticado em concurso de agentes e, segundo o relato de um dos flagrados, a mando de integrante da facção dos "Bala na Cara", de alcunha Di Menor, o qual já responde a diversos processos criminais envolvendo o tráfico de drogas, roubos e associação criminosa, e inclusive encontra-se segregado cautelarmente; b) a violência empregada, pois a vítima teria sido espancada com o uso de um facão e permanecido no local sangrando e agonizando até o seu falecimento; c) o motivo do crime, qual seja a cobrança de uma dívida de tráfico, supostamente de duzentos reais.
+Tais peculiaridades do caso concreto contraindicam a utilização de medidas cautelares alternativas, mostrando-se adequada a decretação da prisão preventiva justificada na necessidade de se garantir a ordem pública, evitando-se o cometimento de outros delitos pelos flagrados.
+ISSO POSTO, com fundamento no art. 310, inc. II, do Código de
+Processo Penal:
+(a) HOMOLOGO O PRESENTE AUTO DE PRISÃO EM FLAGRANTE para que surta seus jurídicos e legais efeitos;
+(b) CONVERTO a prisão em flagrante de [NOME] e [NOME] em PRISÃO PREVENTIVA, com
+fundamento na garantia da ordem pública, nos termos do art. 312, caput. do Código de Processo Penal. .. .
+Como se vê, o decreto prisional tem fundamento na gravidade do crime, evidenciada nas circunstâncias fáticas, das quais depreende-se que do latrocínio praticado: a) o crime foi praticado em concurso de agentes e, segundo o relato de um dos flagrados, a mando de integrante da facção dos "Bala na Cara", de alcunha Di Menor, o qual já responde a diversos processos criminais envolvendo o tráfico de drogas, roubos e associação criminosa, e inclusive encontra-se segregado cautelarmente; b) a violência empregada, pois a vítima teria sido espancada com o uso de um facão e permanecido no local sangrando e agonizando até o seu falecimento; c) o motivo do crime, qual seja a cobrança de uma dívida de tráfico, supostamente de duzentos reais, razão, portanto, apta a ensejar a constrição.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
