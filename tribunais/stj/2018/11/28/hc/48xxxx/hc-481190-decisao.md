@@ -1,0 +1,14 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. ART. 180, § 1º, DO CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 691/STF.
+Habeas corpus indeferido liminarmente.
+DECISÃO
+A hipótese é de habeas corpus impetrado em favor de [NOME] - condenado à pena de 4 anos e 1 mês de reclusão, em regime inicial fechado, e 12 dias-multa, no mínimo legal, como incurso no art. 180, § 1º, do Código Penal (Ação Penal n. 1500335-51.2018.8.26.0571) -, contra decisão de Desembargador do Tribunal de Justiça de São Paulo que indeferiu a liminar em writ lá deduzido (HC n. 2214848-47.2018.8.26.0000 - fl. 234).
+Em síntese, sustenta o impetrante, a necessidade de superação da Súmula 691 do Supremo Tribunal Federal, com vista ao trancamento da ação penal n. 1500335-51.2018.8.26.0571, por ausência de prova da materialidade do crime.
+Argumenta, em síntese, que, muito embora haja crime anterior praticado por terceiro (furto da motocicleta), não há elementos suficientes a indicar que o motor apreendido no estabelecimento comercial do paciente apresente origem ilícita (fl. 4).
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração de mandamus contra decisão indeferitória de providência liminar prolatada em feito da mesma natureza (Súmula 691/STF).
+In casu, o Desembargador Relator do prévio habeas corpus, entendeu por indeferir o pleito liminar ali apresentado, em 5/10/2018, porque, ainda que precariamente, a existência do crime - demonstrada através da origem ilícita do motor adquirido pelo paciente - surge razoavelmente fundamentada, o que é suficiente para afastar hipótese de ilegalidade manifesta  ..  Porém, essa questão terá melhor curso durante o exame da apelação, já interposta, aliás, pela Defesa do paciente. Por ora, não há ilegalidade manifesta que possa ensejar a concessão liminar da ordem, quer quanto ao trancamento da ação penal, quer ainda quanto à concessão de liberdade ao paciente (fl. 235).
+Diante desse cenário, não se constatando, de plano, manifesta ilegalidade, julgo mais adequado reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examinará os contornos e nuances delineadores da questão, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte Estadual, mormente se o writ está sendo regularmente processado.
+Não é outra a jurisprudência deste Superior Tribunal de Justiça: AgRg no HC n. 301.011/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/10/2014.
+Pelo exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro in limine o pedido.
+Publique-se.
