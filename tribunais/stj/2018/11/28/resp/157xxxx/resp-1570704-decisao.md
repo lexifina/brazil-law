@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 335):
+EMBARGOS INFRINGENTES. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. IBAMA. GDAMB. GTEMA. PARIDADE COM SERVIDORES DA ATIVA. DESCABIMENTO.
+1. Demanda que veicula pretensão de pensionista do IBAMA ao recebimento da Gratificação de Desempenho de Atividade Técnico-Administrativa do Meio- Ambiente - GDAMB e da Gratificação de Desempenho de Atividade Técnico- Executiva e de Suporte do Meio Ambiente - GTEMA no mesmo patamar percebido pelos servidores ativos.
+2. Inexistindo servidores ativos do IBAMA que percebam a GDAMB e a GTEMA, deixou de haver a regulamentação do critério de avaliação de desempenho para a sua atribuição, conforme a Portaria n2 249/2011 do Ministério do Meio Ambiente, com o quê improcede a pretensão do autor.
+Embargos de declaração rejeitados (e-STJ fls. 355/358).
+Nas suas razões, além de dissídio jurisprudencial, a parte recorrente sustenta violação dos arts. 40, § 8º, da Constituição Federal, e 17 e 17-C da Lei n. 11.357/2006. Aduz que: (a) as vantagens de caráter geral concedidas aos servidores ativos deveriam estender-se também aos inativos, inclusive as decorrentes da transformação do cargo em que se deu a aposentadoria; (b) o IBAMA efetivamente não demonstrou a existência de avaliações dos ativos referente a qualquer gratificação que possua, bem como, não demonstrou que não existem ativos recebendo GTEMA, e, por conseguinte, também não demonstrou que efetua as avaliações de desempenho em relação a referida gratificação.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 425/426.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Inicialmente, importa salientar que a apreciação de dispositivos constitucionais não é possível em sede de recurso especial, porquanto, nos termos do disposto no art. 102 da CF, compete ao STF (AgRg no REsp. 1.543.346/PR, Rel. Min. HUMBERTO MARTINS, Dje 30.9.2015).
+No tocante à violação dos arts. 17 e 17-C da Lei n. 11.357/2006, da análise dos autos verifica-se a ausência de prequestionamento, tendo em vista que o acórdão de origem não tratou do tema objeto da irresignação. Assim, incide à espécie o entendimento consolidado na Súmula 282 do STF.
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento, sendo necessária a interposição de recurso especial por afronta ao art. 535 do então vigente Código de Processo Civil, sob pena de perseverar o referido óbice.
+Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ademais, rever o entendimento firmado pela instância ordinária de que não há servidores ativos no âmbito do IBAMA que recebam a GTEMA demandaria, necessariamente, o exame do conjunto fático-probatório contido nos autos, prática vedada pela Súmula 7 desta Corte.
+Por fim, quanto à divergência, é inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional), quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação.
+Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente não realizou o necessário cotejo analítico.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+ Publique-se. Intimem-se.
