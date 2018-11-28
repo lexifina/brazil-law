@@ -1,0 +1,5 @@
+DECISÃO
+JULIANO PIRES FRANÇA protocoliza petição em que requer a "reconsideração" do acórdão que julgou os Embargos de Declaração no Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial, "para enfrentamento da matéria de ordem pública (vedação de redirecionemento executório após transcorrência do quinquideo legal - processo paradigma STJ em anexo)" (fl. 381e).
+O Superior Tribunal de Justiça esgotou sua jurisdição sobre o presente feito, mediante julgamento dos recursos interpostos nos termos das normas processuais de regência. Ademais, apresenta-se incabível pedido de reconsideração de decisão colegiada. Nesse sentido: STJ, RCD nos EDcl no AgInt no AREsp 785.201/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 16/04/2018; RCD no AgInt no AREsp 863.301/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 04/12/2017; RCD nos EDcl no AgInt no REsp 1.607.927/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/10/2017.
+Desse modo, indefiro o pedido de fls. 380/803e.
+I.
