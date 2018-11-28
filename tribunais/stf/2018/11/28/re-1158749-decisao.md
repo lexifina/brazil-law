@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à concessão da segurança visando aposentadoria especial a policial civil, observadas a integralidade e a paridade. No extraordinário, a recorrente alega a violação do artigo 40, § 1º, § 3º, § 4º, § 8º e § 17, da Constituição Federal. Discorre sobre a Lei Complementar nº 51/1985. Afirma não cumpridos os requisitos previstos nas Emendas Constitucionais nº 41/03 e nº 47/05. Sustenta a inexistência do direito à paridade.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea “b” do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco da agravante, de vez que o Tribunal de origem não declarou a inconstitucionalidade de tratado ou de lei federal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos da decisão recorrida:
+    Com efeito, o autor possui mais de trinta e um anos de serviço público e vinte como policial, conforme os documentos de fls. 15 e 16, adquirindo direito à aposentadoria voluntária com proventos integrais.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, a decisão está em consonância com a jurisprudência do Supremo, que, no julgamento do recurso extraordinário nº 590.260, no qual reconhecida a repercussão geral da matéria veiculada, concluiu que os servidores admitidos no serviço público antes da Emenda Constitucional nº 41/2003, mas que se aposentaram após a respectiva promulgação, têm direito à paridade, inclusive quanto à pensão, observadas as regras de transição constantes na Emenda Constitucional nº 47/2005. Confiram com a seguinte ementa:
+    RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL.PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+    I Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+    II Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+    III Recurso extraordinário parcialmente provido.
+    (Recurso Extraordinário nº 590.260/SP, relatado pelo ministro Ricardo Lewandowski, acórdão publicado no Diário da Justiça de 23 de outubro de 2009).
+    3. Ante o quadro, nego seguimento ao extraordinário. Considerada a fixação no acórdão recorrido dos honorários advocatícios em 10%, fixo os honorários recursais em 5%, nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 28 de novembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
