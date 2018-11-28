@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado em favor de Antônio Valdecir Dias, contra decisão de Ministro do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC 475.432/SP.
+    Colho do STJ as informações sobre o caso:
+    “Trata-se de habeas corpus impetrado em benefício de Antônio Valdecir Dias - preso em flagrante em 9/10/2018 e acusado pela prática, em tese, do crime descrito no art. 155, caput, do Código Penal (Processo n. 1500369-62.2018.8.26.0559) -, em que se aponta como autoridade coatora a Desembargadora Relatora do Tribunal de Justiça de São Paulo, que indeferiu a liminar em writ originário (HC n. 2221820-33.2018.8.26.0000 - fls. 19/29).
+    Em suas razões, sustenta o impetrante, em síntese:
+    a) mitigação da Súmula 691/STF;
+    b) ausência de fundamentação idônea para justificar o encarceramento;
+    c) ausência dos requisitos legais previstos no art. 312 do CPP;
+    d) suficiência da aplicação, in casu, de medidas alternativas à prisão (art. 319 do CPP).
+    Requer, liminarmente e no mérito, a revogação da prisão preventiva, com expedição de alvará de soltura em favor do ora paciente”. (eDOC 2, p. 1)
+    O STJ indeferiu liminarmente a ordem requerida. (eDOC 2, p. 1-3)
+    Nesta Suprema Corte o impetrante repisa os argumentos apresentados às instâncias anteriores.
+    Sustenta ilegalidade na prisão preventiva, por ausência dos fundamentos para sua justificação; e a possibilidade de aplicação das medidas alternativas à prisão a que se refere o art. 319 do CPP. (eDOC 1)
+    Requer seja revogada a prisão preventiva, ou subsidiariamente sua substituição pelas medidas do art. 319 do CPP. (eDOC 1, p. 19)
+    É o relatório.
+    Decido.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013; HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013; HC 127.975-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 3.8.2015 e HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016.
+    Verifico que o impetrante deixou de interpor agravo ao colegiado do Superior Tribunal de Justiça, de modo que seu pedido não pode ser conhecido. Aliás, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014; e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no artigo 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já se havia firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desses entendimentos jurisprudenciais pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não se verifica no presente caso.
+    Por oportuno, destaco precedente desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a reincidência do paciente: HC 136.255/PI, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 10.11.2016.
+    Importante a transcrição dos seguintes trechos da decisão que converteu o flagrante em preventiva, proferida pelo Juízo do plantão da Comarca de São José do Rio Preto/SP:
+    “A materialidade do crime decorre do laudo de exibição e apreensão e as declarações e demais elementos de convicção constantes do auto de prisão em flagrante revelam a existência de indícios de autoria. Destaque-se que o custodiado é mutirreincidente, pela prática de furtos, receptação e homicídio, o que autoriza a conversão da prisão em flagrante em prisão preventiva (art. 313, II do CPP). Considerando a extensa folha de antecedentes do autuado (32 páginas), ainda que o crime em questão não tenha sido praticado com violência ou grave ameaça contra a pessoa, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por hora, do meio adequado a impedir a reiteração delitiva (arts. 312 e 314, CPP), de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art. 282, § 6º, do CPP). Os elementos de convicção contidos nos autos não revelam a existência de excludentes previstas no art. 23, incisos I, II e III, do Código Penal”. (eDOC 3, p. 48-49)
+    Acrescente-se da decisão do TJSP que indeferiu a liminar:
+    “A medida liminar é cabível somente quando o constrangimento ilegal for detectado de plano, por meio do exame sumário da inicial, o que não ocorre no presente caso.
+    Antônio foi preso em flagrante, em 09.10.2018, pela prática do crime de furto, uma vez que, em tese, subtraiu, para si, bens pessoais e um telefone celular do interior da residência da vítima Judite de Souza Fuscaldo, bem como apura-se a prática de um segundo crime semelhante, também, praticado pelo réu, sob as mesmas características, contra Nilsa Perinasso Mauricio, conforme auto de prisão (fls. 01/63 ação penal).
+    A prisão foi convertida em preventiva, em 10.10.2018, durante audiência de custódia (fls. 99/100 ação penal).
+    O causídico não trouxe qualquer situação excepcional, decorrente de manifesta ilegalidade, capaz de alterar, liminarmente, a decisão de 1º grau, a qual fora proferida satisfatoriamente pelo juízo a quo e encontra-se dentro dos limites legais, sendo desnecessária a sua transcrição, pois já se encontra disponível nos autos digitais.
+    Aliás, em nenhum momento se preocupou em pleitear ao juiz natural do caso a mesma benesse ora almejada.
+    Ressalto que o crime de furto traz grande intranquilidade à população colocando em risco a ordem pública, uma vez que, no presente caso, há indícios de ‘modus operandi’ do acusado, porquanto entrou e saiu da residência de uma das vítimas, somente sendo possível identificá-lo, pois acabou sendo surpreendido por um segurança, de forma que a concessão da liminar neste momento se mostra temerária, além, consequentemente, de tal prática fomentar o cometimento de outros crimes, como a receptação, por exemplo.
+    Ademais, o paciente possui diversos outros envolvimentos criminais anteriores, inclusive suportando o peso de prisão em flagrante e, nada menos do que 11 condenações definitivas, a maioria por crimes de mesma natureza e espécie, mas voltou a ser flagrado em ação criminosa similar quando ainda cumpria pena em regime aberto -, revelando a inaptidão para se manter afastado de atos delituosos e a ineficácia de medidas diversas da segregativa que não se mostram capazes de conter o seu ímpeto criminoso, conforme folha de antecedentes (fls. 65/96 ação penal)”. (eDOC 3, p. 159-160 - grifei)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao presente habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 28 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
