@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 927 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO E DE COMANDO NORMATIVO. SÚMULAS 282/STF E 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 31):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS.
+NATUREZA ALIMENTAR. CONCURSO DE CREDORES. CRÉDITO TRIBUTARIO. ART. 186 DO CTN.
+Embora o STJ já tenha reconhecido a natureza alimentar dos créditos decorrentes de honorários advocatícios contratuais, estes não se equiparam aos créditos trabalhistas, razão pela qual eles não têm preferência diante do crédito fiscal no concurso de credores.
+O recorrente alega violação do art. 927 do CPC/2015 e dissídio jurisprudencial, sob os seguintes argumentos: a) art. 927 do CPC/2015 leciona que os Juízes e os Tribunais observarão as decisões das Cortes Superiores, bem como os acórdãos, enunciados e súmulas; b) o art. 988 do CPC/2015 ressalta que caberá reclamação para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; c) a paridade entre os créditos trabalhistas e de honorários advocatícios torna aplicável a estes o privilégio estipulado no art. 186 do CTN; d) pela conjugação das normas do §14, do art. 85 do CPC/2015 com o art. 186 do CTN, os honorários advocatícios estão à frente dos créditos fiscais em caso de concurso; e) a preferência do crédito de honorários advocatícios sobre o crédito tributário está consolidada na jurisprudência do STJ, conforme o REsp 1152218/RS, repetitivo.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 82-83.
+É o relatório. Passo a decidir.
+De pronto, no que diz respeito ao art. 927 do CPC/2015 (e à tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Lado outro, também não é possível conhecer do recurso especial que apresenta suposta violação do referido dispositivo, pois ele não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Já no que diz com o dissídio jurisprudencial, tem-se que a par não ter sido demonstrado nos moldes estabelecidos nos arts. 1029, §1º, do CPC/2015 e 255, §§ 1º e 2º do RISTJ, pois não realizado o devido cotejo analítico - é imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto -, a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu no caso dos autos.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
