@@ -1,0 +1,4 @@
+Solução de Divergência Cosit nº 98020, de 19 de novembro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma de ofício a Solução de Consulta SRRF/7ª RF/DIANA nº 32, de 13 de agosto de 2009. Código NCM 8448.51.90 Mercadoria: Artefato formado por cilindro, agulhas, platinas, guia-fios, excêntricos de agulhas, excêntricos de platinas, acionadores, fixadores e anéis, comercialmente conhecido por “cabeça têxtil” ou “cabeça formadora de malha”, com 76,2 cm de diâmetro, próprio para ser montado em tear circular para formação de malhas. DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 b) da Seção XVI e posição 84.48) e RGI 6 (subposições 8448.5 e 8448.51) e RGC 1 (item 8448.51.90) da NCM constante na TEC, aprovada pela Resolução Camex nº 125, de 2016, e na Tipi aprovada pelo Decreto 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435/1992, e atualizadas pela IN RFB nº 1.788/2018, e alterações posteriores.
+.
+[arquivo anexo: SD Cosit nº 98.020-2018.pdf]
