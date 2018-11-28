@@ -1,0 +1,29 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pela 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul teria transgredido os preceitos inscritos nos arts. 6º e 205 da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Portarias MEC nºs 01/2010 e 10/2010 e Lei nº 10.260/2001), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusulas contratuais, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do recurso extraordinário, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, sustentou as suas conclusões em interpretação de legislação infraconstitucional, em aspectos fático-probatórios e em cláusulas contratuais:
+    “Mérito. Examinando os autos, verifica-se que a demandante possui cobertura de 100% dos encargos educacionais oriundos de financiamento estudantil (evento 30, INF2).
+    Para o semestre 1/2017 o valor exigido pela instituição de ensino, correspondente à semestralidade do Curso de Medicina, totalizou R$ 47.283,45, ao passo que o montante disponibilizado pelo FIES correspondeu a R$ 42.983,70 (evento 30, PET1; e evento 43 CONT1).
+    Conforme previsão no Contrato de Abertura de Crédito para o Financiamento dos Encargos Educacionais ao Estudante do Ensino Superior FIES nº 262.602.002 (ev. 1, CONTR11), celebrado entre as partes, no parágrafo único da cláusula quinta, a 'eventual diferença entre o valor da semestralidade cobrada pela IES e aquele financiado pelo FIES será coberta mediante utilização de recursos próprios do(a) FINANCIADO(A)'.
+    Ou seja, o contrato entabulado previu a possibilidade da ocorrência da situação em litígio, estipulando que o financiado – aluno – deve arcar com os custos dessa diferença, se o valor da semestralidade cobrada pela IES for maior que aquele financiado pelo FIES.
+    A própria cláusula terceira do contrato de financiamento, que estabelece o limite de crédito global, refere um acréscimo de 25% ao valor total, 'para atender possíveis elevações no valor dos encargos educacionais no decorrer do curso' (…).
+    …...................................................................................................
+    A legislação de regência (Lei nº 10.260/2001), que dispõe sobre o Fundo de Financiamento ao estudante do Ensino Superior (FIES), estipula no art. 3º que a gestão do FIES (…):
+    …...................................................................................................
+    O art. 4º-B da referida legislação prevê que:
+    Art. 4º-B. O agente operador poderá estabelecer valores máximos e mínimos de financiamento, conforme regulamentação do Ministério da Educação, nos termos do que for aprovado pelo CG-Fies. (Redação dada pela Medida Provisória nº 785, de 2017) (…)
+    Aliás, a estipulação de limites mínimos e máximos estava prevista desde junho de 2011, na Portaria Normativa nº 1/2010 do MEC, em seu art. 25, § 2º (incluído pela Portaria Normativa nº 12, de 06 de junho de 2011):
+    …...................................................................................................
+    No mesmo sentido, a Portaria Normativa nº 10/2010 do MEC, no art. 2º, § 3º, condiciona a concessão do financiamento à disponibilidade orçamentária e financeira do FIES. (…).”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 28 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
