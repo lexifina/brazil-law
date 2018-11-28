@@ -1,0 +1,20 @@
+Trata-se de agravo em face de decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO—Execução fiscal — ISS. Exercício de 2009 Exceção de pré-executividade acolhida. Alegação de imunidade tributária. Não configuração. Possibilidade de a lei municipal atribuir responsabilidade pelo recolhimento do imposto. Artigo 6°, § 2°, II, da LC 116/03. Precedente desta Corte. Decisão reformada. Recurso provido” (pág. 96 do documento eletrônico 3).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação do art. 150, III e IV, c, da mesma Carta.
+    O recurso não merece acolhida.
+    O Tribunal a quo, ao julgar o recurso de apelação, consignou que:
+    “[...]
+    Conforme se depreende dos autos, a cobrança do ISS não recai sobre a apelada na condição de contribuinte, mas de responsável tributário, nos termos do art. 14, III, da Lei municipal 12.392/05 (fls. 116), que dispõe:
+    […]
+    Ora, a possibilidade de a lei municipal atribuir responsabilidade pelo recolhimento do imposto ao tomador dos serviços, ainda que se trate de entidade imune, está prevista no art. 6º, parágrafo 2°, inciso II, da Lei Complementar 116/03:
+     [...]” (págs. 96-97 do documento eletrônico 3).
+    Observa-se que, no caso, dissentir dos fundamentos adotados pelo acórdão impugnado demandaria a reinterpretação das normas infraconstitucionais pertinentes (Lei Complementar 116/2003 e Lei municipal 12.392/2005), sendo certo que eventual ofensa à Constituição seria apenas indireta, e o reexame do conjunto fático-probatório dos autos, o que atrai o óbice da Súmula 279/STF.
+    Ademais, esta Corte entende que a imunidade tributária não impede a qualificação do ente imune como substituto tributário, relativamente ao ISS devido em razão de serviços prestados por terceiros. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISS. SUBSTITUIÇÃO TRIBUTÁRIA. IMUNIDADE DAS EMPRESAS PÚBLICAS PRESTADORAS DE SERVIÇOS PÚBLICOS. INFRAERO. POSSIBILIDADE DE SUJEIÇÃO PASSIVA NA QUALIDADE DE SUBSTITUTO TRIBUTÁRIO. SERVIÇOS PRESTADOS POR TERCEIRO NÃO ABRANGIDOS PELA IMUNIDADE. AGRAVO IMPROVIDO. I – A imunidade recíproca aplicada aos serviços públicos imanentes ao Estado, quando prestados por empresas públicas, não impede a qualificação dessas entidades como substitutas tributárias em relação ao ISS devido em decorrência de serviços prestados por terceiros não abrangidos por norma de desoneração. II – Agravo regimental improvido” (RE 446.530-AgR/SC, de minha relatoria, Segunda Turma - grifei).
+    “EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ENTIDADE DE ASSISTÊNCIA SOCIAL E EDUCAÇÃO SEM FINS LUCRATIVOS. INAPLICABILIDADE ÀS HIPÓTESES DE RESPONSABILIDADE OU SUBSTITUIÇÃO TRIBUTÁRIA. IMPOSTO SOBRE OPERAÇÃO DE CIRCULAÇÃO DE MERCADORIAS - ICM/ICMS. LANÇAMENTO FUNDADO NA RESPONSABILIDADE DO SERVIÇO SOCIAL DA INDÚSTRIA - SESI PELO RECOLHIMENTO DE TRIBUTO INCIDENTE SOBRE A VENDA DE MERCADORIA ADQUIRIDA PELA ENTIDADE. PRODUTOR-VENDEDOR CONTRIBUINTE DO TRIBUTO. TRIBUTAÇÃO SUJEITA A DIFERIMENTO. Recurso extraordinário interposto de acórdão que considerou válida a responsabilização tributária do Serviço Social da Indústria - SESI pelo recolhimento de ICMS devido em operação de circulação de mercadoria, sob o regime de diferimento. Alegada violação do art. 150, IV, c da Constituição, que dispõe sobre a imunidade das entidades assistenciais sem fins lucrativos. A responsabilidade ou a substituição tributária não alteram as premissas centrais da tributação, cuja regra-matriz continua a incidir sobre a operação realizada pelo contribuinte. Portanto, a imunidade tributária não afeta, tão-somente por si, a relação de responsabilidade tributária ou de substituição e não exonera o responsável tributário ou o substituto. Recurso extraordinário conhecido, mas ao qual se nega provimento”
+(RE 202.987/SP, Rel. Min. Joaquim Barbosa, Segunda Turma - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
