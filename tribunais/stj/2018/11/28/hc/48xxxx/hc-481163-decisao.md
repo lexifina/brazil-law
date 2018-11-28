@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE. PRETENSÃO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. APREENSÃO DE APARELHO CELULAR. REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE NA VIA ELEITA. PERÍCIA. DESNECESSIDADE. PERDA DOS DIAS REMIDOS. FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo em Execução n. 7004644-46.2018.8.26.0482).
+Consta dos autos que o Juízo da Vara de Execuções Penais da comarca de Presidente Prudente reconheceu, em desfavor do paciente, a prática de falta grave e declarou a perda de 1/3 do dias remidos (fls. 51/52 - Execução n. 639.684).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal a quo, ao qual foi negado provimento (fls. 100/108).
+Daí o presente mandamus, em que a impetrante sustenta: a) atipicidade por fato de terceiro (não há falta disciplinar a ser apurada, haja vista não ter sido provada qualquer participação do sindicado, devendo ser o mesmo isentado de culpa (fl.4); b) ausência de perícia (não houve perícia para determinar se o aparelho apreendido seria, de fato, um celular e se estaria em plenas condições para permitir a comunicação com outros presos ou extramuros) (fl. 9); e c) perda dos dias remidos no mínimo legal, em razão das circunstâncias judiciais favoráveis do art. 57 da LEP (fl. 16).
+Requer, pois, a concessão liminar da ordem para afastar, desde já, a falta grave aplicada (fl. 17).
+É o relatório.
+In casu, não há ilegalidade a ser sanada, pois, conforme consta da decisão que homologou a falta grave, os fatos apurados (apreensão de aparelho de telefonia celular) são graves e revelam que o sentenciado ainda não conseguiu conter os seus instintos primitivos diante das eventuais contrariedades da vida (fl. 52).
+Continua, a perda dos dias remidos deve alcançar o montante de 1/3 (um terço), para garantia do princípio da suficiência da pena, em face do caráter acintoso e grave da conduta em foco (fl. 52).
+Em relação a atipicidade da falta, pontuou o Tribunal de Justiça (fls. 104/108 - grifo nosso):
+ ..
+No mérito, melhor sorte não assiste ao agravante.
+A apuração do cometimento da falta grave foi feita através de procedimento apuratório que teve regular processamento e foi concluído sem qualquer vício ou irregularidade, dando conta da comprovação da autoria da falta cometida pelo sentenciado.
+Com efeito, foi apurado que a visitante e amásia do sentenciado, Sra. [NOME], tentou entrar no estabelecimento prisional em que o agravante se encontra, com um aparelho de telefonia celular, ocultado em seu corpo, na região genital, o que foi constatado, no monitor do aparelho scanner, durante a revista íntima. O celular foi apreendido e a visitante foi conduzida a Delegacia de Polícia para lavratura do boletim de ocorrência.
+O agravante negou que tivesse solicitado o aparelho celular à sua amásia e não sabia que a mesma iria tentar entrar na unidade prisional com o aparelho (fls. 11).
+Contudo, a versão ficou isolada no conjunto probatório.
+Os Agentes de Segurança Penitenciária, Marcelo (fls. 12/13) e Eliane (fls. 14/15), declararam de forma uníssona e coerente que a visitante [NOME], ao passar pelo aparelho "body scanner", foi constatado no monitor do aparelho que a mesma tinha algo ocultado em seu corpo, na região genital. Indagada, a visitante confessou que estava portando um invólucro em sua genitália e em local reservado, retirou o invólucro e entregou à funcionária da unidade prisional, sendo encontrado o aparelho de telefonia celular.
+Ressalte-se que as declarações dos Agentes de Segurança Penitenciária não podem ser invalidadas, já que não tinham qualquer motivo para incriminar o reeducando de forma indevida, pelo contrário, elas são dotadas de fé pública e merecem credibilidade.
+Natural que o próprio agravante negue a tentativa de ingresso de componente de celular no estabelecimento prisional, a fim de evitar as conseqüências jurídicas da infração disciplinar.
+Assim, a prova produzida é suficientemente robusta para ensejar o reconhecimento da falta grave praticada pelo agravante.
+Note-se que a mera tentativa de posse do aparelho celular ou de qualquer de seus componentes é o suficiente para a caracterização da falta grave prevista no art. 50, VII, c.c. parágrafo único do art. 49, ambos da Lei 7.210/84, sem que seja necessária qualquer outra prova da materialidade.
+ ..
+Assim, a conduta, como demonstrada, do reeducando tentar possuir aparelho telefônico, que permita a comunicação com outros presos ou com o ambiente externo onde cumpria pena tipifica indisciplina de natureza grave descrita no art. 50, inciso VII, da Lei de Execução Penal, de forma que inviável a tese de absolvição por atipicidade da conduta ou pela ausência de prova da materialidade.
+Uma vez caracterizada a falta grave constante no art. 52 da Lei de Execução Penal, de rigor a imposição da perda dos dias remidos (art. 127 da LEP).
+E, para a análise da quantidade de dias remidos a serem perdidos, são considerados a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão (art. 57 da LEP), sendo que, in casu, analisando tais circunstâncias, bem entendeu o magistrado a quo pela perda dos dias remidos em patamar justo, 1/3 (um terço), não havendo se falar em ausência de fundamentação ou necessidade de redução. A penalidade foi aplicada com critério e não merece reparos.
+Em face do exposto, reconhecida a falta disciplinar de natureza grave, e bem fundamentada a decisão do juízo a quo, inviável a absolvição do sentenciado, bem como a redução da perda dos dias remidos.
+ ..
+Com efeito, se as instâncias ordinárias concluíram que os atos praticados no interior do estabelecimento prisional configuram falta grave, exsurgindo da moldura fática delineada no acórdão vergastado, em tese, acertada adequação típica, a desclassificação para falta média ou leve ou o reconhecimento da atipicidade das condutas demandaria revolvimento do conjunto fático-probatório, insuscetível de ser realizado na via estreita do writ (AgRg no HC 390.311/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/2/2018).
+De mais a mais, esclarece a Corte estadual quanto a necessidade ou não de perícia no material apreendido, a simples apreensão do celular, no presente caso, sem perícia, ou mesmo, não invalida a punição, vez que a posse do aparelho de telefonia celular configura-se em prática de falta disciplinar grave (fl. 117/118). Entendimento este, que vai de encontro com a jurisprudência deste Superior Tribunal (AgRg no HC 317.252/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 01/06/2016)
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
