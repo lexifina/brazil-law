@@ -1,0 +1,40 @@
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. SEGURADO ESPECIAL. ATIVIDADE URBANA. PRAZO CURTO E ANTERIOR AO PERÍODO DE CARÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. INVERSÃO. SÚMULA 7 DO STJ.
+1. A aposentadoria por idade ao trabalhador rural será devida àquele que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que demonstrado o exercício de atividade agrícola, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência, conforme inteligência dos arts. 48 e 143 da Lei n. 8.213/1991.
+2. Caso em que o acórdão recorrido consignou que a condição de segurado especial do autor foi demonstrada pelo conjunto probatório, concluindo que curtos períodos de atividade urbana intercalados e anteriores ao lapso de carência não teriam o condão de descaracterizar o regime de economia familiar, sendo certo que a inversão do julgado encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO GURGEL DE FARIA:
+Trata-se de agravo interno interposto INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão de minha lavra que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 337/340), em razão da aplicação da Súmula 7 do STJ.
+O INSS alega que, "na hipótese dos autos, houve a perda da qualidade de segurado rural especial, eis que a parte autora exerceu atividade urbana por mais de 24 meses" (e-STJ fl. 348).
+Acrescenta que não há falar em reexame de prova, pois "todos os aspectos fáticos necessários estão postos no acórdão do Tribunal de origem" (e-STJ fl. 345) e que é "perfeitamente possível dessumir do acórdão  ..  que o autor exerceu atividade urbana no período de 01/03/1999 a 24/06/1999 e de 01/07/1999 a 07/2001" (e-STJ fl. 346).
+Requer, assim, a reconsideração do decisum recorrido ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 354).
+É o relatório.
+VOTO
+O SENHOR MINISTRO GURGEL DE FARIA(RELATOR):
+A irresignação não merece prosperar.
+Como é cediço, a aposentadoria por idade ao trabalhador rural será devida àquele que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que demonstrado o exercício de atividade agrícola, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência, conforme inteligência dos arts. 48 e 143 da Lei n. 8.213/1991.
+Na espécie, o acórdão recorrido consignou que a condição de segurado especial do autor foi demonstrada pelo conjunto probatório, concluindo que curtos períodos de atividade urbana intercalados e anteriores ao período de carência não teriam o condão de descaracterizar o regime de economia familiar, nos seguintes termos (e-STJ fl. 280):
+Assim, tenho que a prova material acostada, aliada à prova testemunhal colhida, mostra-se razoável à demonstração de que a parte autora trabalhou durante toda a sua vida na lavoura, na condição de boia-fria e em todo o período correspondente à carência, não havendo motivo para que seja afastado seu direito ao benefício.
+No concernente à alegação do INSS, em seu recurso de apelação (Evento 48 - OUT2), de que a parte autora teria exercido atividade urbana nos períodos de 09/05/1995 a 28/06/1995, 28/02/1996 a 11/1996, 01/03/1999 a 24/06/1999 e de 01/07/1999 a 07/2001, conforme CNIS (Evento 48 - OUT3), tendo diferentes empresas como empregadores, tal fato, por si só, não constitui óbice ao deferimento do benefício, visto que, além de tratar-se de períodos curtos e alguns anteriores ao da carência (1998 a 2013), se encaixa perfeitamente, em meu entender, na descontinuidade da atividade rural que a lei admite.
+Isto, antes de significar que a parte autora não necessitava do labor agrícola para sua manutenção, corrobora que o intuito do legislador foi o de não exigir do rurícola hipossuficiente uma continuidade no labor campesino que muitas vezes não tem condições de manter, haja vista que sua própria condição, aliada às dificuldades da vida diária e às exigências de sobrevivência, muitas vezes lhe impõem a busca do sustento em qualquer atividade que se lhe apresente, inclusive as urbanas de menor qualificação, sem significar, com isto, que abdique de sua condição primeira de trabalhador rural, retornando, tão logo lhe seja possível, para o meio de vida a que está acostumado e qualificado.
+Desse modo, a questão concernente à comprovação da atividade rurícola da parte recorrida foi decidida pela instância inferior com base na análise do suporte fático-probatório constante nos autos, cuja alteração, na via estreita do especial, esbarra na Súmula 7 do STJ.
+A propósito:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. COMPROVAÇÃO DO EXERCÍCIO DO LABOR RURAL PELO PERÍODO DE CARÊNCIA. IMPLEMENTO DO REQUISITO ETÁRIO. BENEFÍCIO DEVIDO. INVIABILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. A Lei 8.213/91 dispõe em seu art. 143 que será devida a aposentadoria por idade ao Trabalhador Rural que completar 60 anos de idade, se homem, e 55 anos de idade, se mulher, desde que comprove o exercício de atividade rural, ainda que de forma descontínua, em número de meses idêntico ao período de carência.
+2. No caso dos autos, conforme analisado pelo Tribunal de origem, confirmando a sentença, a autora tem direito a receber o benefício da aposentadoria por idade, tendo em vista que os documentos juntados aos autos acrescidos pela prova testemunhal são suficientes para demonstrar o exercício de atividade rural.
+3. Tendo a Corte de origem entendido que os curtos períodos de trabalho urbano exercido pelo cônjuge não foram suficientes para descaracterizar sua condição de trabalhador rural, inviável o acolhimento da pretensão da Autarquia, ante o óbice contido na Súmula 7/STJ. Precedentes: AgRg no REsp. 1.264.601/RS, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe 11.12.2014, AgRg no AREsp. 586.606/SP, Rel. Min. HERMAN BENJAMIN, DJe 27.11.2014, AgRg no AREsp. 320.819/CE, Rel. Min. BENEDITO GONÇALVES, DJe 2.6.2014, AgRg no AREsp. 34.872/MT, Rel. Min. MARILZA MAYNARD, DJe 15.4.2013.
+4. Agravo Regimental do INSS desprovido (AgRg no REsp 1341331/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/02/2016, DJe 26/02/2016) (Grifos acrescidos).
+Pela aplicação do mesmo enunciado sumular, a contrario sensu, cito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. COMPROVAÇÃO DA ATIVIDADE RURAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A questão jurídica posta no recurso especial gira em torno da caracterização da condição de segurado especial, para fins de concessão de aposentadoria rural por idade.
+3. O Tribunal a quo afastou a referida condição, tendo em vista que o agravante possui significativos vínculos urbanos, o que lhe afastaria da condição de segurado especial.
+4. Se o Tribunal a quo, com base no conjunto probatório constante dos autos, consignou que não ficou comprovado a condição de trabalhador rural, em regime de economia familiar, em razão de existência de vínculo empregatício urbano com registro na CTPS, rever tal entendimento demandaria o reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ.
+ ..
+6. Agravo regimental não provido (AgRg no AgRg no AREsp 786.360/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/12/2015, DJe 14/12/2015) (Grifos acrescidos).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
