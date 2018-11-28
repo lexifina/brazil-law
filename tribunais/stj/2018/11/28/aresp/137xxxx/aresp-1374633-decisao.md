@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 89 E 96, IV, DA LEI N. 8.666/1993. RECURSO QUE ALMEJA A CONDENAÇÃO. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+DECISÃO
+O Ministério Público Federal interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 5ª Região, proferido no julgamento da Apelação Criminal n. 11.453/AL, assim ementado (fls. 719/720):
+DIREITO PROCESSUAL PENAL E PENAL. CRIMES LICITATÓRIOS. DISPENSA INDEVIDA DE LICITAÇÃO E FRAUDE PELA ALTERAÇÃO DA QUANTIDADE DA MERCADORIA FORNECIDA. ARTS. 89 E 96, IV, DA LEI Nº 8.666/93. SENTENÇA ABSOLUTÓRIA. MATERIALIDADE. INEXISTÊNCIA. MUDANÇA DA DEFINIÇÃO DO FATO DELITUOSO EM RAZÃO DE CIRCUNSTÂNCIA ELEMENTAR NÃO CONTIDA NA DENÚNCIA (MUTATIO LIBELLI). IMPOSSIBILIDADE. APELAÇÃO IMPROVIDA.
+1. Apelação do MPF contra sentença que absolveu os réus das acusações de contratar de itens cancelados no processo de licitação (Art. 89 da Lei nº 8.666/93) e alterar a quantidade da mercadoria fornecida, porque vários bens adquiridos não foram encontrados na inspeção feita no local de destino (Art. 96, IV, da Lei nº 8.666/93).
+2. Hipótese em que a acusação baseia-se na análise de duas notas fiscais relativas à aquisição de produtos hospitalares. Não houve irregularidade na primeira compra, pois os produtos foram adquiridos pelo menor preço após regular licitação, sendo o cancelamento relativo a outros itens idênticos repetidos por equívoco no processo licitatório. A segunda nota fiscal foi declarada falsa por decisão judicial, em incidente provocado pela Defesa, ficando provada a inexistência do negócio jurídico, tudo indicando que o documento falso foi apresentado para encobrir a malversação de recursos públicos.
+3. A materialidade dos crimes de dispensa indevida de licitação e fraude no contrato pela alteração da quantidade da mercadoria fornecida, previstos nos arts. 89, caput, e 96, inciso IV, da Lei de Licitações - Lei nº 8.666/93, pressupõe que tenha havido ilegalidade na contratação e na execução do contrato, respectivamente, o que não se verifica nos casos em que o negócio jurídico não existiu.
+4. Impossibilidade de aditar a acusação para responsabilizar os réus por outros fatos delituosos (mutatio libelli), porque tal procedimento é descabido no julgamento do recurso. Aplicação da Súmula nº 453 do STF: "Não se aplicam à segunda instância o art. 384 e parágrafo único do Código de Processo Penal, que possibilitam dar nova definição jurídica ao fato delituoso, em virtude de circunstância elementar não contida, explícita ou implicitamente, na denúncia ou queixa."
+5. Apelação improvida.
+Nas razões, o órgão ministerial suscitou violação dos arts. 89 e 96, IX, ambos da Lei n. 8.666/1993.
+Primeiro, aduziu que está caracterizado o crime de fraude à licitação (art. 89 da Lei n. 8.333/1993), uma vez que a conduta engendrada pelos recorridos caracterizou efetiva contratação direta para fornecimento de bens sem licitação, já que o certame feito quanto aos itens citados foi cancelado.
+Segundo, apontou ofensa ao art. 96, IV, da Lei n. 8.666/1996, alegando que a nota fiscal declarada como falsa constituiu evidência da prática do crime em referência (fls. 724/742),
+Na origem, o recurso foi inadmitido com fundamento na Súmula 83/STJ (fl. 781). Daí, sobreveio o presente agravo (fls. 786/794).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 805):
+Agravo em recurso especial. Dispensa de licitação. Dolo. Discussão exauriente no âmbito da Corte esta dual. Revisão das premissas fáticas da decisão recorrida. Óbice da súmula 7 do STJ. Parecer pelo não provimento do agravo.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Passo, então, ao exame do recurso especial.
+No que se refere ao art. 89 da Lei n. 8.666/1993, a jurisprudência desta Corte tem orientado pela necessidade de prejuízo efetivo e do dolo específico de causar dano ao erário.
+A propósito, destaco:
+ ..
+1. É exigível a presença do dolo específico de causar dano ao erário e a caracterização do efetivo prejuízo para que tipificado o crime previsto no artigo mencionado (art. 89 da Lei n. 8.666/1993) (AgRg no AREsp 1254177/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/06/2018, DJe 22/06/2018).
+ ..
+(AgRg nos EAREsp n. 263.820/DF, Ministro Nefi Cordeiro, Terceira Seção, DJe 30/10/2018)
+No caso dos autos, a Corte de origem rechaçou a existência de dolo, bem como de dano efetivo ao erário (fl. 714):
+ ..  esse fato foi esclarecido durante a etapa instrutória tendo sido verificada a inexistência da irregularidade, porque a compra referiu-se aos itens 21 e 22 da licitação, os quais não foram cancelados. O imbróglio deveu-se ao fato de que eles são idênticos aos itens 35 e 36 os quais foram repetidos no edital por equívoco (cf. se pode verificar às fls. 163/164 e 169/170 do Anexo 1, vol. 1). Ademais, também consta da r. sentença apelada que a empresa Padrão Distribuidora apresentou o menor preço para os itens, estando ausente o elemento subjetivo do tipo do art. 89 da Lei de Licitações, já que não houve o fim específico de burlar a impessoalidade ou obter proveito em prejuízo ao erário.
+6. Enfim, nesse ponto a r. sentença apelada não merece reparos, pois está claro que a suposta irregularidade decorreu de simples equívoco sem maiores consequências, uma vez que os itens 21 e 22 foram validamente licitados, valendo destacar que não houve violação da impessoalidade ou mesmo prejuízo ao erário, pois os produtos foram adquiridos pelo menor preço. Acato, no particular, as razões do parecer da douta Procuradoria Regional da República que transcrevo em parte e passam a integrar os fundamentos do voto:  ..
+Tal o contexto, o acolhimento do recurso acusatório, que almeja a condenação, demandaria a modificação da conclusão da Corte de origem, lastreada no exame da prova, providência vedada na via especial (Súmula 7/STJ).
+Quanto à suposta violação do art. 96, IV, da Lei n. 8.666/1996, o recurso especial também esbarra na Súmula 7/STJ.
+O tipo em comento versa acerca da fraude em licitação, efetivada através da alteração da substância, qualidade ou quantidade da mercadoria fornecida:
+Art. 96. Fraudar, em prejuízo da Fazenda Pública, licitação instaurada para aquisição ou venda de bens ou mercadorias, ou contrato dela decorrente:
+ ..
+IV - alterando substância, qualidade ou quantidade da mercadoria fornecida;
+A Corte de origem, no entanto, concluiu que a segunda nota, declarada falsa, foi apresentada na prestação de contas com o intuito de encobrir a malversação de recursos públicos, ou seja, os produtos ali descritos não foram sequer adquiridos pela administração, circunstância que rechaça a prática do crime em referência, podendo se cogitar da prática de outro lícito não descrito na peça acusatória (fl. 716):
+ ..
+11. A acusação imputa aos réus a contratação sem licitação e a alteração da quantidade de produtos contratados, conforme consta da Nota Fiscal nº 4294, porém, como o documento fiscal é falso deve-se reconhecer que o mencionado negócio jurídico não existiu, tudo indicando que a nota fiscal em questão falsa foi apresentada na prestação de contas com o intuito de encobrir a malversação de recursos públicos. Não tendo havido a compra dos produtos descabe falar em contratação com dispensa indevida de licitação ou alteração da quantidade de produtos contratados que não foram entregues, pois a existência do negócio jurídico é pressuposto necessário à tipificação material do delito.
+12. Há a registrar que hipoteticamente seria possível imputar aos acusados o crime de responsabilidade de Prefeito pelo desvio ou apropriação de recursos públicos, na forma do art. 1º, I, do Decreto-Lei nº 201/67. Todavia, como a denúncia não atribuiu aos réus o desvio ou apropriação de recursos públicos, haveria a necessidade de promover o aditamento à exordial, procedimento que não foi cogitado nem pelo juízo singular nem pelo Ministério Público Federal durante a tramitação do processo no primeiro grau de jurisdição, e tal procedimento é incompatível com o julgamento do recurso pelo tribunal.
+ ..
+Para entender pela prática do crime em comento seria indispensável rever a conclusão da Corte a quo, calcada no exame das provas, providência vedada nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
