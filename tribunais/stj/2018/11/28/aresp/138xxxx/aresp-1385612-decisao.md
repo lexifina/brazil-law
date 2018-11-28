@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL (OMISSÃO). NÃO OCORRÊNCIA. PLANO DE SAÚDE. REVISÃO DO TEMPO DE CONTRATAÇÃO, ESTABELECIDO EM MAIS DE 10 (ANOS), COMO CONDIÇÃO DO REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA DE USUÁRIO DE PLANO COM IDADE SUPERIOR A 60 (SESSENTA) ANOS. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por PRÓ SALUTE - SERVIÇOS PARA A SAÚDE LTDA. contra decisão de inadmissibilidade do recurso especial apresentado, com base no art. 105, III, a, da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 132):
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. MAJORAÇÃO POR TROCA DE FAIXA ETÁRIA. ADERENTE COM MAIS DE 60 ANOS E 10 ANOS DE CONTRATO. IMPOSSIBILIDADE.
+1. Não se questiona que a alteração de valores dos planos de saúde é permitida em razão da idade do aderente, tampouco que dentro de uma contratação vigente haja majoração do preço inicial pela troca da faixa etária.
+2. Entretanto, tal mudança não pode ocorrer contra o aderente com mais de 60 anos que participa de planos de saúde da operadora há mais de 10 anos, conforme dispõe a Lei 9.656/98.
+3. Destaca-se que na contagem do referido prazo devem ser incluídos os diversos planos aderidos ao longo da contratualidade, não apenas o último, nos termos da Resolução 06/98 do CONSU.
+APELO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente alegou violação dos arts. 1.022 do CPC/2015; 51 do CDC; 15 da Lei 9.656/1998; e 15, § 3º, da Lei 10.741/2003.
+Sustentou a omissão da decisão recorrida ao deixar de analisar a abusividade do reajuste no caso concreto. Defendeu o reajuste implementado em 2010, sob o argumento de o beneficiário do plano de saúde não estar a ele vinculado há mais de 10 (dez) anos, pois o ingresso no plano adaptado à Lei 9.656/1998 ocorreu em 2005, motivo pelo qual não poderia ser considerada a continuidade contratual para a contagem do tempo de permanência do beneficiário no plano.
+Contrarrazões apresentadas às fls. 177-183 (e-STJ).
+Em decorrência da inadmissão do recurso pela origem, foi interposto o presente agravo, o qual é objeto de contraminuta às fls. 204-212 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Aplicável, portanto, o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Com efeito, o Tribunal de origem considerou que, em virtude de o beneficiário do plano contar com mais de 60 (sessenta) anos de idade e de 10 (dez) anos de contratação, era incabível qualquer reajuste por troca de faixa etária (e-STJ, fls. 137 e 152).
+Quanto à tese central do recurso - possibilidade de reajuste pelo fato de o beneficiário do plano de saúde não estar a ele vinculado há mais de 10 (dez) anos, em vista do ingresso ao plano adaptado à Lei 9.656/1998 em 2005 -, o recurso não pode ser conhecido por incidência dos óbices das Súmulas 5 e 7 do STJ.
+Isso porque toda a pretensão recursal de insubmissão à vedação legal que fundamentou o acórdão recorrido está baseada na adaptação contratual à Lei 9.656/1998 apenas no contrato celebrado em 2005, fator de rompimento da cadeia contratual. Esse fato, todavia, por não ter sido admitido pelo Tribunal de origem - que apenas considerou devida a soma do tempo dos contratos firmados -, somente poderia ser reconhecido por esta Corte mediante o reexame direto das provas constantes dos autos, notadamente dos instrumentos contratuais, providência manifestamente proibida nesta instância, ante os óbices sumulares supracitados.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
