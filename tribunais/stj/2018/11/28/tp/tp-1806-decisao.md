@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de pedido de tutela provisória apresentado por TRIDEA TECNOLOGIA DA INFORMAÇÃO LTDA. e OUTROS visando à atribuição de efeito suspensivo a recurso especial (já inamiditido na origem em exame prelibação - e-STJ fls. 1.336/1.338) interposto contra acórdão da 33ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo que, negando provimento a agravo de instrumento por eles intentado (e-STJ fls. 1.234/1.237), manteve íntegra decisão do juízo de primeiro grau que, em cumprimento de sentença promovido por SOCRAM COMUNICAÇÕES VISUAL LTDA. em desfavor de MSBS BUSINESS SOLUTION LTDA., reconheceu a presença dos requisitos do art. 50 do Código Civil e incluiu no polo passivo da execução tanto a primeira requerente (TRIDEA) quanto seus sócios.
+O acórdão objeto do especial a que pretendem os requerentes ver emprestado efeito suspensivo recebeu a seguinte ementa:
+"CUMPRIMENTO DE SENTENÇA - Desconsideração da personalidade jurídica - Confusão patrimonial - Cabimento - Sem qualquer início de prova no sentido de que não há pressuposto para a responsabilidade da pessoa jurídica e de seus sócios. Agravo não provido" (e-STJ
+Nas razões do apelo nobre (e-STJ fls. 1.311/1.333), que foi interposto com esteio no art. 105, inciso III, alínea "a", da Constituição Federal, os ora requerentes apontaram ofensa aos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, §1º, incisos I, II e III, e 1.022 do Código de Processo Civil de 2015 - negativa de prestação jurisdicional resultante da rejeição, pela Corte local, de aclaratórios opostos pelos recorrentes, sem o devido saneamento de omissões ali apontadas, e
+(ii) art. 50 do Código Civil - ausência dos requisitos legais autorizadores tanto do redirecionamento da execução à primeira recorrente (TRIDEA) quanto da desconsideração da personalidade jurídica desta para o fim de alcançar o patrimônio de seus sócios;
+No presente pedido de tutela provisória os requerentes afirmam já ter interposto recurso de agravo contra a decisão de inadmissão do especial.
+Asseveram, ainda, ser manifesta a probabilidade de êxito do referido recurso, visto que "não se sustentam os fundamentos utilizados pelo acórdão recorrido para a inclusão da Tridea e de seus sócios no polo passivo da execução" (e-STJ fl. 7).
+Nesse particular, sustentam que:
+"(..) Mesmo diante dos sólidos argumentos apresentados em sede de agravo de instrumento, o acórdão ora recorrido manteve a inclusão da Tridea na demanda (fls. 1201/1202), com base nos seguintes elementos:
+(i) A presença conjunta dos símbolos gráficos da MSBS e da Tridea nos documentos de descrição dos serviços e nas assinaturas de e-mails dos profissionais envolvidos;
+(ii) A presença da MSBS Business e de seu sócio no quadro societário da Tridea por determinado período;
+e (iii) Atestado de capacidade técnica e notícias que narram genericamente a parceria firmada entre as empresas.
+Ocorre que os referidos elementos não são suficientes para a conclusão de que haveria "evidente confusão e nenhuma autonomia entre as pessoas jurídicas", utilizada pelo acórdão recorrido para ultrapassar a personalidade jurídica da demandada original e embasar a inclusão da Tridea ao rol de responsáveis pelas obrigações autonomamente contraídas pela MSBS.
+A desconsideração indireta da personalidade jurídica, providência adotada pelo Tribunal de origem, deve atender aos estritos termos do art. 50 do Código Civil  expressamente citado pelo acórdão  , que requer a existência de abuso ou fraude no uso da pessoa jurídica, caracterizados pelo seu desvio de finalidade ou pela confusão patrimonial.
+(..).
+No caso em análise, nenhum dos elementos está presente.
+Os esparsos fundamentos trazidos pelo acórdão recorrido não indicam qualquer desvio de finalidade na utilização das pessoas jurídicas envolvidas.
+Todas as informações indicadas no acórdão recorrido denotam que as empresas atuavam em parceria comercial, mas não que atuavam com a mesma estrutura operacional e controle acionário.
+A parceria estabelecida entre as empresas buscou tão somente ampliar o rol de clientes atendidos por ambas, atingindo uma parcela maior do mercado com indicações recíprocas, situação justifica a apresentação conjunta das marcas perante potenciais clientes, que poderiam se beneficiar das diferentes modalidades de serviço prestadas por cada uma das empresas.
+Saliente-se, ainda, que a simples existência de notícias indicando suposta fusão das empresas  de forma genérica e sem elementos jurídicos que embasem tal suposição  não é capaz de alterar a realidade de que Tridea e MSBS se tratavam, para todos os efeitos, de empresas distintas, com atuações independentes e especialidades próprias.
+Também não há no acórdão recorrido qualquer elemento concreto que comprove a participação da Tridea na negociação ou na execução dos serviços. Nem mesmo poderia haver, uma vez que a Tridea sequer possui capacidade técnica para prestar serviços contratados junto à MSBS, tampouco estabeleceu qualquer tipo de relação com a empresa ora Requerida" (e-STJ fls. 8/10).
+Além disso, tecem considerações acerca da suposta configuração de ofensa aos arts. 489, §1º, incisos I, II e III, e 1.022 do CPC/2015.
+Quanto ao periculum in mora limitam-se os requerentes a afirmar que "o Juízo de 1º grau determinou que (..) depositem o débito pleiteado pela Requerida (Doc. 04), cujos valores atualizados já chegam ao significativo montante de R$ 580.274,18 (quinhentos e oitenta mil, duzentos e setenta e quatro reais e dezoito centavos)" (e-STJ fl. 16).
+Alertam para o fato de a referida decisão ter sido publicada em 1º/11/2018, de modo que o prazo de 15 dias concedido pelo Juízo singular se esgotará em 27/11/2018, a partir de quando estariam sujeitos a toda sorte de constrições patrimoniais.
+Ao final, requerem o deferimento de medida liminar para que seja atribuído "efeito suspensivo ao Recurso Especial interposto nos autos do agravo de instrumento n. 2133876-90.2018.8.26.0000 (TJSP)" (e-STJ fl. 17), até o julgamento definitivo da demanda por esta Corte Superior.
+É o relatório.
+DECIDO.
+Consoante o disposto no art. 1.029, § 5º, I, do Código de Processo Civil de 2015, com a redação dada pela Lei nº 13.256/2016, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+No caso vertente, considerando que já foi realizado o juízo prévio de admissibilidade do recurso especial, embora negativo, compete ao Superior Tribunal de Justiça o exame do pedido de atribuição de efeito suspensivo ao recurso.
+A atribuição de efeito suspensivo a recurso especial, porém, só se justifica quando presentes, cumulativamente, os requisitos do fumus boni juris e do periculum in mora.
+Isto, contudo, não se verifica na presente hipótese, haja vista que, pelo que se pode facilmente extrair dos autos, a fumaça do bom direito já não se faz presente.
+Oportuno ressaltar também que, na linha da jurisprudência desta Corte, a verificação do fumus boni iuris está relacionada diretamente com a probabilidade de êxito do recurso especial, de modo que conveniente o exame da viabilidade do apelo extremo, ainda que de modo superficial.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO NA MEDIDA CAUTELAR. RECURSO ESPECIAL. EFEITO SUSPENSIVO. AUSÊNCIA DE PRESSUPOSTOS. (..)
+1. Para deferimento de medida liminar conferindo efeito suspensivo a recurso especial, é necessário avaliar a extensão dos efeitos que o eventual provimento do recurso atingirá. Tanto a aparência de direito quanto o perigo de demora na decisão devem ser analisados com as vistas voltadas ao conteúdo do recurso.
+(..) - Agravo não provido".
+(AgRg na MC nº 17.525/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/6/2011, DJe de 1º/8/2011)
+"AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO AGRAVO DE INSTRUMENTO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA TUTELA CAUTELAR. (..)
+2.- Na verificação dos pressupostos da medida há de se ter em conta, como já decidido pela Terceira Turma, que o fumus boni iuris "está relacionado intimamente com a presença dos requisitos de admissibilidade do recurso especial e com a possibilidade de sucesso deste, daí que, na cautelar, convém se aprecie, ainda que superficialmente, os requisitos e o mérito do especial." (AgRg na MC 1.311, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, DJ 13.10.98).
+(..) 5.- Agravo Regimental improvido".
+(AgRg na MC nº 18.033/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/6/2011, DJe de 29/6/2011)
+Na espécie, o que se colhe da simples leitura das razões do apelo nobre inadmitido em exame prévio de admissibilidade é que não resta configurada a aludida negativa de prestação jurisdicional.
+Não bastasse isso, fica claro, na espécie, que a irresignação recursal tem como propósito único convencer esta Corte Superior a respeito do desacerto das conclusões de ambas as instâncias de cognição plena a respeito da necessidade de redirecionamento da execução e desconsideração da personalidade jurídica de TRIDEA TECNOLOGIA DA INFORMAÇÃO LTDA.
+Ocorre que a questão foi assim decidida a partir do exame de circunstâncias fáticas e do acervo probatório carreado nos autos, o que se pode facilmente extrair da fundamentação do acórdão objeto do especial a que os ora requerentes pretendem ver emprestado efeito suspensivo:
+"Trata-se de agravo (fls. 1/27) de instrumento (fls. 28/1190) interposto por TRIDEA TECNOLOGIA DA INFORMAÇÃO LTDA., EGON CESAR CORADINI, FLABIO FERNANDO DA SILVA, [NOME] e ZMAN PARTICIPAÇÕES LTDA. contra r. decisão de fls. 33/34, proferida pelo MM. Juiz da 13ª Vara Cível do Foro Central da Comarca desta Capital, Dr. [NOME], que, nos autos do incidente de desconsideração da personalidade jurídica requerido pela SOCRAM COMUNICAÇÕES VISUAL LTDA., reconheceu "a sucessão fraudulenta de empresas e parceria empresarial", com "confusão operacional", e determinou a inclusão dos agravantes e de MOTISBS ALL IN ON SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO LTDA., CLAUDIA MERCEDES DIAS DE JESUS e GSW SOFTWARE LTDA., [NOME], [NOME] e LUIS FERNANDO DA SILVA PATORELLI.
+Os agravantes fazem resumo da lide. Alegam risco, requerendo a concessão de efeito suspensivo. Rejeitam a confusão patrimonial, muito menos o desvio de finalidade. Recusam haja fundamentação sobre a suposta "sucessão fraudulenta". Negam operação de reorganização societária envolvendo as empresas. Registram a independência. Discorrem sobre a parceria. Diferenciam o que seja grupo econômico. Esclarecem que o sócio Xavier não detinha poderes para a atuação isolada. Registram a extensão da contratação, especialmente a subjetiva. Não identificam a presença de requisitos para a desconsideração da personalidade jurídica.
+(..).
+Nego provimento ao recurso.
+Conquanto o contrato tenha sido firmado entre MSBS BUSINESS e SOCRAM (cf. instrumento de fls. 108/116), os documentos que descrevem a prestação do serviço fazem referência a ambas as pessoas jurídicas: MSBS e TRIDEA (cf. 117/134), sem qualquer distinção.
+A intensa troca de mensagens também comprova que a execução do contrato era feito indistintamente por MSBS e TRIDEA.
+Ora, todas as correspondências eletrônicas foram trocadas por prepostos que tinham por identificação a ligação e a gerência de projetos de MSBS e TRIDEA, inclusive em suas assinaturas eletrônicas (fls. 141 e seguintes), fato a autorizar o reconhecimento de que tratavam as empresas de um único grupo econômico.
+Destaco que até mesmo o sítio mantido na rede mundial de computadores por TRIDEA continha no domínio a sigla MSBS (fls. 145).
+MSBS BUSINESS fez parte do quadro societário de TRIDEA (fls. 372/377), assim como XAVIER JOVE ESTOP, sócio de MSBS BUSINESS (fls. 375).
+Foi amplamente noticiada a ação conjunta de MSBS e TRIDEA (fls. 378/396), com a contratação em vários países.
+Uma das notícias inclusive faz referência à fusão das empresas (fls. 383).
+Em atestado de capacidade técnica, documento com timbre de TRIDEA, a pessoa jurídica é identificada com a seguinte razão social: TRIDEA MSBS Tecnologia da Informação Ltda., fazendo referência ao endereço da sede de MSBS: Avenida Maria Coelho Aguiar, 215, Bloco C, 5º Andar, Jardim São Luiz, São Paulo/SP (fls. 450), o que denota a evidente confusão e nenhuma autonomia entre as pessoas jurídicas.
+Determinada a especificação de provas (fls. 1128), os agravantes nada requereram (fls. 1133/1134).
+Nesse contexto, em que pesem os argumentos dos agravantes, estão preenchidos os requisitos prescritos pelo artigo 50 do Código Civil, para que se reconheça a extensão dos efeitos das obrigações decorrentes do contrato de prestação de serviços de fls. 108/116 aos bens particulares da pessoa jurídica TRIDEA e de seus sócios, em cumprimento à sentença.
+Pelo exposto, nego provimento ao recurso" (e-STJ fls. 1.235/1.237).
+Logo, em um exame perfunctório, próprio das liminares, não se constata a plausibilidade jurídica do recurso especial da requerente, mesmo porque revela-se inarredável a incidência da Súmula nº 7/STJ ao caso em apreço.
+Desse modo, ausente um dos requisitos autorizadores da concessão da medida cautelar, que deveriam estar necessariamente conjugados, inviável o deferimento do pleito.
+Ante o exposto, INDEFIRO o pedido de concessão de efeito suspensivo ora pleiteado e determino a extinção liminar do presente pedido de tutela provisória.
+Publique-se.
+Intimem-se.
+Oficie-se.
+Arquive-se.
