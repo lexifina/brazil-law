@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUSTAVO VALLONE BRAS DE TOLEDO CESAR, em que se aponta como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. A prisão foi convertida em preventiva e o pleito de concessão de liberdade provisória foi indeferido.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que indeferiu o pleito liminar.
+Neste habeas corpus, alega o impetrante ausência de elementos concretos para custódia cautelar. Destaca a primariedade do agente, seus bons antecedentes e que possui residência no distrito da culpa, sendo suficiente à hipótese a aplicação de medidas cautelares diversas do cárcere.
+Requer, liminarmente e no mérito, a revogação da preventiva, impondo-se medidas alternativas do art. 319 do CPP.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, consoante os termos da Súmula 691/STF.
+Nesse sentido, confira:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA N. 691/STF. ART. 1º, I, § 1º, DO DECRETO N. 201/1967 (TRÊS VEZES) E ART. 316 DO CP (TRÊS VEZES). DESCUMPRIMENTO DE MEDIDA CAUTELAR. PRISÃO PREVENTIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que a prisão foi decretada em razão do descumprimento de medida cautelar anteriormente imposta, conforme previsão. Precedentes. Ausência de manifesta ilegalidade, abuso de poder ou teratologia a autorizar a superação do mencionado enunciado.
+3. Agravo regimental a que se nega provimento."
+(AgRg no HC 400.949/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017)
+Na hipótese, o Juízo de primeiro grau indeferiu o pleito de concessão de liberdade provisória, por entender que permanecem inalteradas as razões motivadoras da custódia preventiva, a qual foi decretada com base nos seguintes fundamentos:
+"Não é caso de relaxamento. Pelo que consta do auto de prisão em flagrante (APF), a prisão está formalmente em ordem pois houve a localização de drogas na residência do acusado sem a devida justificativa, o que caracteriza flagrante e permite o ingresso na residência.
+Foram cumpridas todas as formalidades legais e respeitadas as garantias constitucionais.
+As demais providências que se seguem à prisão em flagrante foram regularmente tomadas (em especial nota de culpa e laudo de constatação provisória), tendo o encarcerado sido apreendido em situação de flagrância pela prática de crime tipificada, em tese, no artigo 33, caput, da Lei 11.343/2006. À luz do APF, vislumbro indícios de autoria e prova da materialidade, sendo certo que a custódia cautelar é efetivamente necessária para garantia da ordem pública tendo em vista ter sido apreendido com três tijolos pesando aproximadamente 374 gramas de maconha e três pés da planta, bem como petrechos para seu cultivo e fracionamento, o que indica, neste momento, a prática do tráfico, o que torna necessária a conversão da prisão em flagrante para a prisão preventiva, para a garantia da ordem pública. Assim, nos termos do art. 310, inciso II, do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA" (e-STJ, fls. 28-29).
+A Corte de origem, por sua vez, indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, pois, em um primeiro exame, há elementos suficientes para a manutenção da custódia cautelar, in verbis:
+"1 - A providência liminar em habeas corpus é excepcional, razão pela qual está reservada para os casos em que é flagrante o constrangimento ilegal, não sendo esta a hipótese dos autos. Ademais, a análise do preenchimento, ou não, dos requisitos legais autorizadores da medida pleiteada, revela-se inadequada à esfera de cognição sumária que distingue a presente fase do procedimento. Por conseguinte, INDEFIRO a cautela requerida, reservando-se à Colenda Turma Julgadora a solução do problema, em toda a sua extensão" (e-STJ, fl. 33)
+Assim, da leitura atenta da decisão impugnada, não verifico, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
