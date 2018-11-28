@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça da Bahia, que indeferiu o pedido liminar nos autos do HC 80238189720188050000.
+Consta dos autos que o paciente foi condenado, como incurso nos arts. 33, caput, e 35, c.c. art 40, todos da Lei n. 11.343/2006 (2.143 gramas de cocaína e 9.425 gramas de maconha) e pela prática do crime previsto no art. 12 da Lei n. 10.826/2003, em concurso material, às penas de 9 anos e 11 meses de reclusão e 1 ano de detenção, além do pagamento de 1.467 dias-multa, fixado o regime inicial fechado para a pena de reclusão e o regime aberto para a pena de detenção.
+Alega-se na impetração que não há fundamentação idônea para a manutenção da prisão cautelar.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula n. 691 do STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela.
+Ressalto que, no presente caso, a prisão preventiva está justificada em razão da diversidade e da quantidade de drogas apreendidas, além de arma de fogo, o que constitui fundamento idôneo, inexistindo, assim prova pré-constituída da ilegalidade apontada. Confira-se (fl. 36):
+No caso dos autos, não houve alteração da situação fática que justifique a reavaliação da segregação cautelar do réu. Com efeito, o fundamento da garantia da ordem pública permanece presente, dada a gravidade concreta do delito retratada na significativa quantidade de entorpecentes apreendidos, na natureza de parte destes, no concurso de pessoas efetivado para a sua prática, além da apreensão de arma de fogo, circunstâncias que revelam periculosidade do agente e a necessidade acautelar o meio social. Assim, deixo de conceder ao réu o direito de apelar em liberdade.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
