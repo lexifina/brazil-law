@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e [NOME] DOS [NOME] BARBOSA contra decisão que inadmitiu o recurso especial manejado em face de acórdão proferido pela col. Décima Terceira Câmara de Direito Criminal do eg. Tribunal de Justiça de São Paulo, nos autos da Apelação Criminal n. 0068971-23.2013.8.26.0506.
+Os acusados foram denunciados pela prática do crime de tráfico e de associação para o tráfico de drogas. Encerrada a fase instrutória, [NOME] foi condenado pelo crime previsto no art. 34 da Lei Drogas e art. 333 do Código Penal a 5 (cinco) anos e 3 (três) meses de reclusão, além de 2000 (dois mil) dias-multa. [NOME] foi condenado a 4 (quatro) anos e 6 (seis) mese de reclusão, além de 1800 (mil e oitocentos) dias-multa pelo crime do art. 34 da Lei n. 11.343/2006. Além disso, foi imposta sanção de prestação de serviços à comunidade pelo prazo de cinco meses em razão do crime previsto no art. 28 da Lei de Drogas.
+O apelo da acusação foi provido e ambos os réus foram condenados pelo delito de tráfico de drogas. [NOME] recebeu pena de 9 (nove) anos, 6 (seis) meses e 12 (doze) dias de reclusão, em regime inicial fechado, além de 731 (setecentos e trinta e um) dias-multa. [NOME] recebeu pena de 7 (sete) anos de reclusão, também em regime inicial fechado, mais 700 (setecentos) dias-multa. A imputação relativa ao art. 34 da Lei de Drogas foi alterada, passando a ser a do art. 33, § 1º, inciso I, da mesma lei, tendo este delito sido absorvido pelo de tráfico de drogas.
+Nas razões do recurso especial, os agravantes buscaram a desclassificação da conduta de tráfico de drogas para a forma prevista no art. 28 da Lei n. 11.343/2006. alegam, ainda, reformatio in pejus no que diz respeito à exclusão da atenuante da confissão reconhecida ao réu [NOME], mas afastada pelo Tribunal de Justiça, sem que o órgão de acusação tivesse formulado pedido nesse sentido.
+O apelo não foi admitido na origem. A defesa apresentou agravo, impugnando os fundamentos que serviram de esteio à decisão que negou trânsito ao recurso, além de reprisar os argumentos já trazidos no bojo do recurso especial.
+O Ministério Público Federal opinou pelo não provimento do agravo (e-STJ, fl. 611-614).
+É o relatório.
+Em consulta processual realizada à base de dados desta Corte Superior de Justiça, verifica-se a impetração, perante o STJ, do HC n.º 398.580/SP, em favor da recorrente, no qual se apresentam os mesmos argumentos aqui expostos. O writ foi julgado em 28.9.2017, concedendo, parcialmente, a ordem para redimensionar as penas aplicadas ao então pacientes.
+Portanto, tratando-se o presente recurso de mera reiteração do mandamus acima referido, resta prejudica a análise do recurso especial.
+Nesse sentido, confira-se o precedente a seguir:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO EM RECURSO ESPECIAL. MESMO OBJETO DE HABEAS CORPUS JÁ JULGADO. REITERAÇÃO DE PEDIDOS. IMPOSSIBILIDADE. ANÁLISE PREJUDICADA. AGRAVO IMPROVIDO.
+1. Recurso recebido como agravo regimental, em observância ao princípio da fungibilidade recursal, pois suas razões não apontam qualquer omissão, contradição ou obscuridade para justificar a oposição de embargos de declaração.
+2. Encontra-se prejudicado o agravo em recurso especial que teve seu objeto inteiramente julgado em sede de habeas corpus, não se mostrando razoável o julgamento do mesmo objeto em duplicidade.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(EDcl no AREsp 156.602/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/08/2017, DJe 28/08/2017)
+Por tais razões, julgo prejudicado o agravo, nos termos do art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
