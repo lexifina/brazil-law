@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. O acórdão embargado consignou que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. In casu, o Tribunal a quo fundamentou: "conforme documentado na reprodução dos autos (f. 25 e 151) por mídia eletrônica (f. 21), a penhora recaiu sobre 10% do faturamento líquido mensal da empresa executada, "até que atinja o montante necessário à garantia do juízo", sem comprovação de que se trate de constrição capaz de inviabilizar o funcionamento da atividade econômica desenvolvida. Assim, inexistente prova efetiva de risco de dano irreparável, resta prejudicada a discussão da relevância jurídica dos fundamentos da inicial, pois, como dito, os requisitos à concessão de efeito suspensivo são cumulativos, sendo necessária, portanto, a presença de todos os constantes da legislação", concluindo que, "de todo o contexto expositivo da fundamentação jurídica do pedido e probatório, o que se pode extrair, cristalinamente, é que não estão presentes os requisitos para a atribuição de efeito suspensivo aos embargos do devedor, à luz do que exige o § 1º do artigo 739-A, CPC/1973, e o §1º do artigo 919 do CPC/2015, sendo manifestamente infundada, porque contrária ao texto legal e à jurisprudência consolidada, a pretensão ora deduzida".
+3. Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada pela Segunda Turma.
+4. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+5. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. APLICAÇÃO DO ART. 739-A, § 1º, DO CPC/1973. RESP 1.272.827/PE, JULGADO SOB O RITO DO ART. 543-C, CPC/1973. AUSÊNCIA DOS REQUISITOS ENSEJADORES DO EFEITO SUSPENSIVO PRETENDIDO. REVISÃO. SÚMULA 7/STJ.
+1. Constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. No julgamento do REsp 1.272.827/PE, processado nos moldes do art. 543-C do Código de Processo Civil/1973, firmou compreensão no sentido de ser aplicável o art. 739-A, § 1º, do CPC/1973 aos processos de execução fiscal, desde que presentes os seguintes requisitos: requerimento do embargante; garantia do juízo; verificação pelo juiz da relevância da fundamentação (fumus boni juris) e do perigo de dano irreparável ou de difícil reparação (periculum in mora).
+3. É vedado em Recurso Especial o exame da presença dos pressupostos para a atribuição de efeito suspensivo aos Embargos à Execução previstos no art. 739-A, § 1º, do Código de Processo Civil/1973, porquanto tal providência demanda incursão nos elementos fático-probatórios dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+A parte embargante sustenta:
+Cumpre desde já ressaltar que o Recurso Especial não foi interposto para que fosse analisada a presença dos requisitos que ensejam a concessão de efeito suspensivo aos Embargos, mas sim para que seja reconhecida a nulidade até aqui perpetrada na medida em que tais requisitos não foram analisados pelas Instâncias Inferiores. É com este mesmo objetivo que se opõem os presentes Embargos de Declaração.
+(..)
+Nesse sentido, o v. acórdão ora embargado acabou se omitindo quanto à flagrante violação dos arts. 489 e 1.022 do NCPC, diante da flagrante nulidade apontada, ante a ausência de qualquer juízo valorativo pelo E. Tribunal o quo sobre a penhora de 10% do seu faturamento.
+O requisito do grave dano de difícil reparação, ao contrário do que entendeu o E. Tribunal a quo, está preenchido no caso concreto através da penhora de 10% do seu faturamento, fato este que, lamentavelmente, não foi objeto de valoração por aquele E. Tribunal, razão pela qual o v. acórdão proferido deveria ser anulado por esta C. Corte para que o E. Tribunal de origem se possa valorar devidamente os fatos apresentados nos autos.
+Sem impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11.9.2018.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Hipótese em que o acórdão embargado consignou que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+O Tribunal de origem fundamentou nesses termos e ao final concluiu (fls. 89 e 92-93, e-STJ):
+Senhores Desembargadores, a jurisprudência consagrada do Superior Tribunal de Justiça firmou-se no sentido de que as execuções fiscais se sujeitam ao artigo 739-A do Código de Processo Civil/1973, e que a atribuição de efeito suspensivo sobre o executivo fiscal somente é possível em situações excepcionais, não bastando apenas, como antes, a propositura dos embargos com a garantia do Juízo, mas a relevância de seus fundamentos e o risco de dano irreparável, conforme revela, entre outros, o seguinte julgado:
+(..)
+Na espécie, não se verifica a satisfação dos requisitos cumulativos elencados na legislação processual civil, consoante a jurisprudência colacionada.
+Não há prova do risco de dano irreparável, pois a fase atual da execução fiscal não é compatível com qualquer perspectiva de atos de alienação ou expropriação. Certo é que a efetiva alienação ou expropriação de bens, quando penhorados, depende do exaurimento das etapas de avaliação e reavaliação, além de formalização dos editais, próprios e adequados, sendo que todos os atos são passíveis de discussão judicial e recurso, a demonstrar que não existe, de fato e de direito, menor risco de dano irreparável na tramitação regular da execução fiscal, na fase processual em que se encontra.
+Aliás, conforme documentado na reprodução dos autos (f. 25 e 151) por mídia eletrônica (f. 21), a penhora recaiu sobre 10% do faturamento líquido mensal da empresa executada, "até que atinja o montante necessário à garantia do juízo", sem comprovação de que se trate de constrição capaz de inviabilizar o funcionamento da atividade econômica desenvolvida.
+Assim, inexistente prova efetiva de risco de dano irreparável, resta prejudicada a discussão da relevância jurídica dos fundamentos da inicial, pois, como dito, os requisitos à concessão de efeito suspensivo são cumulativos, sendo necessária, portanto, a presença de todos os constantes da legislação.
+Importante anotar que, no regime legal vigente, o efeito suspensivo dos embargos do devedor não e derivação imediata de estar garantida a execução fiscal, pois a regra geral é a de que não se atribui efeito suspensivo à pretensão executória estatal. A suspensão exige, ao contrário, juízo cognitivo e deliberativo sobre existência de situação jurídico-processual excepcional, a ser devidamente motivada para atribuir ao caso concreto um efeito processual não contemplado, ordinariamente, na legislação.
+Portanto, de todo o contexto expositivo da fundamentação jurídica do pedido e probatório, o que se pode extrair, cristalinamente, é que não estão presentes os requisitos para a atribuição de efeito suspensivo aos embargos do devedor, à luz do que exige o § 1º do artigo 739-A, CPC/1973, e o §1º do artigo 919 do CPC/2015, sendo manifestamente infundada, porque contrária ao texto legal e à jurisprudência consolidada, a pretensão ora deduzida.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é inviável nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada pela Segunda Turma.
+Não constato na espécie sub judice qualquer omissão, contradição, obscuridade ou erro material no acórdão embargado, senão o intuito de rediscutir matéria já decidida, emprestando-lhe efeito infringente.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+EMBARGOS DECLARATÓRIOS EM RECURSO ESPECIAL (..) AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. SIMPLES DESCONTENTAMENTO DOS EMBARGANTES COM A SOLUÇÃO DA CONTROVÉRSIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+(..)
+4. O simples descontentamento da parte com a solução adotada não autoriza a oposição de Embargos Declaratórios, como tantas vezes afirmado pela jurisprudência desta Corte.
+5. Embargos Declaratórios rejeitados.
+(EDcl no REsp 1130545/RJ, Rel. Ministro Napoleão NUNES Maia Filho, Primeira Seção, DJe 5.8.2013, grifei)
+(..) VIOLAÇÃO. ARTIGO 535 DO CPC. NÃO OCORRÊNCIA.
+I - O simples descontentamento com o decisum não gera violação ao artigo 535 do CPC se o Tribunal decidiu satisfatoriamente a lide, ainda que contrário ao interesse da agravante. Os embargos de declaração não visam à reforma do julgado, mas tão-somente servem para sanar vícios, sem os quais não estará configurada a hipótese de cabimento dos aclaratórios. Pretendendo a alteração do julgado, deve o interessado se utilizar dos recursos cabíveis.
+(..)
+(AgRg no REsp 1140356/SP, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 24.8.2012, grifei)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+É como voto.
