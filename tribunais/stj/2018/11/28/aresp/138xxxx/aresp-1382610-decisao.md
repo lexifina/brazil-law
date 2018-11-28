@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE QUITAÇÃO INTEGRAL DA DÍVIDA. SÚMULAS 282 DO STF E 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+BANCO SAFRA S.A. (BANCO) ajuizou ação de busca e apreensão contra BERENICE DE ARAUJO PEREIRA (BERENICE), que foi julgada procedente.
+A apelação interposta por BERENICE não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+EMENTA: Alienação fiduciária em garantia - Ação de busca e apreensão - Sentença de procedência - Manutenção do julgado Cabimento - Inadimplemento incontroverso quanto ao pagamento de parcelas do pacto - Notificação extrajudicial enviada e não atendida - Singela pretensão de discussão acerca de eventual abusividade de cláusulas contratuais, inócua ao deslinde da controvérsia - Ação reipersecutória em que suficiente a prova da mora ou da falta de pagamento das contraprestações avençadas - Liquidação financeira do contrato que será efetuada em momento próprio - Inteligência dos arts. 3º e 4º, do DL nº 911/69 - Cláusula resolutória expressa aperfeiçoada. Apelo da ré desprovido (e- STJ fls. 144).
+Inconformada, BERENICE interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 51 do CDC e 396 do CC/02, ao sustentar que (1) a possibilidade de discussão dos encargos tidos por abusivos com vistas ao afastamento da mora; (2) a não caracterização da mora no caso concreto.
+O apelo nobre não foi admitido em virtude da incidência das Súmulas 284 do STF e 7 desta Corte.
+Nas razões do presente agravo em recurso especial, BERENICE impugnou os fundamentos da decisão agravada e reiterou as teses ventiladas no apelo nobre denegado na origem.
+Foi apresentada impugnação (e-STJ, fls. 204/209).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+De início, verifica-se que os temas referentes aos arts. 51 do CDC e 396 do CC/02 não foram apreciados pelo acórdão recorrido e tampouco foram opostos embargos de declaração a esse respeito, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional.
+Inafastável assim, por analogia, a incidência das Súmulas nº 282 e 356 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada; O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Além disso, o afastamento da mora na ação de busca e apreensão reclama a presença concomitante dos seguintes requisitos: (i) ação proposta pelo devedor contestando a existência integral ou parcial do débito; (ii) efetiva demonstração da plausibilidade da pretensão (consonância com a jurisprudência do STF ou do STJ); e (iii) depósito ou prestação de caução idônea do valor referente à parcela incontroversa, para o caso de a contestação ser apenas de parte do débito (REsp 527.618/RS, Rel. Ministro Cesar Asfor Rocha, Segunda Seção, julgado em 22.10.2003, DJ 24.11.2003).
+Ademais, este STJ, no julgamento do recurso representativo da controvérsia Resp nº 1.418.593/MS de relatoria da Ministra LUIS FELIPE SALOMÃO consignou que "nos contratos firmados na vigência da Lei nº. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária".
+Confira-se a ementa do referido julgado:
+ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO DE BUSCA E APREENSÃO. DECRETO-LEI N. 911/1969. ALTERAÇÃO INTRODUZIDA PELA LEI N. 10.931/2004. PURGAÇÃO DA MORA. IMPOSSIBILIDADE. NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA NO PRAZO DE 5 DIAS APÓS A EXECUÇÃO DA LIMINAR.
+1. Para fins do art. 543-C do Código de Processo Civil: "Nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária".
+2. Recurso especial provido.
+(REsp 1.418.593/MS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 14/5/2014, DJe 27/5/2014)
+Assim, estando o acórdão recorrido de acordo com a jurisprudência dominante do STJ, aplicável, no caso concreto, a Súmula 568 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de USINA SANTA HELENA, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
