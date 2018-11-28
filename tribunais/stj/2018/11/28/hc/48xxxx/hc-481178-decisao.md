@@ -1,0 +1,19 @@
+DECISÃO
+1. Trata-se de habeas corpus na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito de [NOME] no curso da execução de sua reprimenda e que lhe foi desfavorável.
+Alega que o paciente cumpriu a fração necessária à antecipação da liberdade, mantendo, no período, bom comportamento carcerário.
+Requer, assim, a concessão sumária e definitiva da ordem constitucional para que seja deferido o livramento condicional ao paciente.
+É o relatório.
+2. Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ originário, sob pena de se configurar indevida supressão de instância, nos termos do enunciado n. 691, da Súmula do STF, ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+II -  ..
+III -  ..
+IV - Não se verifica, da análise perfunctória, própria dos pedidos liminares, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido.
+(AgRg no HC 423.248/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
