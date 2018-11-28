@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM OUTRA EXECUÇÃO. PRETENSÃO DE MAJORAÇÃO. PEDIDO DEVERIA TER SIDO FEITO NOS AUTOS EM QUE ELA FOI FIXADA. ALÍNEA "C". ANÁLISE PREJUDICADA.
+1. O acórdão recorrido consignou: "No caso concreto, a fazenda restou sucumbente em relação aos recorrentes e um dos princípios a ser analisado é o da causalidade, o qual determina que a imposição dos honorários advocatícios deve recair sobre aquele que deu causa à instauração do processo ou do incidente. É cediço que os honorários advocatícios devem valorizar a dignidade do trabalho do profissional, sem, contudo, implicar meio que gere locupletamento ilícito. A razoabilidade, aliada aos princípios da equidade e proporcionalidade, deve pautar o seu arbitramento. No entanto, verifica-se que o juiz de primeira instância analisou de forma abrangente a atuação do advogado nas diversas demandas, com o objetivo de excluir os ex-sócios do polo passivo. Portanto, o labor jurídico desenvolvido e os valores executados foram sopesados no processo nº 0004058.40.2003.4036105. Assim, no presente recurso, relativo a uma única execução, sequer é possível avaliar se o percentual que os recorrentes alegam ter sido arbitrado corresponde a 0,22% do total cobrado pela exequente, de modo que a pretensão para se majorar a quantia arbitrada deveria ser deduzida nos autos mencionados, com informação detalhada acerca de todas as demais causas, a fim de possibilitar o exame adequado do pleito" (fl. 1.147, e-STJ).
+2. O Tribunal de origem concluiu que a pretensão de majoração da verba honorária deveria ter sido deduzida nos autos do processo em que fixada.
+3. Desse modo, rever o entendimento consignado pela Corte local requer revolvimento do conjunto fático-probatório, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN(Relator): Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ILEGITIMIDADE DE PARTE RECONHECIDA. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM OUTRA EXECUÇÃO. POSSIBILIDADE.
+- A verba honorária está indissociavelmente ligada à noção de sucumbência relativa ao direito em que se funda a ação. Embora a execução permaneça válida contra a empresa, houve ônus para a sócia ao constituir advogado para pleitear sua exclusão do polo passivo.
+- A fazenda restou sucumbente e, um dos princípios a ser analisado é o da causalidade, o qual determina que a imposição dos honorários advocatícios deve recair sobre aquele que deu causa à instauração do processo ou do incidente. É cediço que os honorários advocatícios devem valorizar a dignidade do trabalho do profissional, sem, contudo, implicar meio que gere locupletamento ilícito. A razoabilidade, aliada aos princípios da equidade e proporcionalidade, deve pautar o seu arbitramento. O juiz de primeira instância analisou de forma abrangente a atuação do advogado nas diversas demandas, com o objetivo de excluir os ex-sócios do polo passivo. O labor jurídico desenvolvido e os valores executados foram sopesados no processo nº 0004058.40.2003.4036105, de modo que a pretensão para se majorar a quantia arbitrada deveria ser deduzida nos autos mencionados, com informação detalhada acerca de todas as demais causas, a fim de possibilitar o exame adequado do pleito.
+- Agravo de instrumento desprovido.
+
+Os recorrentes sustentam ter ocorrido, além de divergência jurisprudencial, violação do art. 20, §§ 3º e 4º, do CPC/1973.
+Contrarrazões à fls. 1.190-1.194, e-STJ.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN(Relator): Os autos foram recebidos neste Gabinete em 20.9.2018.
+O acórdão recorrido consignou:
+Objetiva a agravante a condenação da União, nesta execução, de forma individualizada, ao pagamento de honorários advocatícios, ao argumento de que a quantia de R$ 100.000,00, fixada em outro processo de forma abrangente para alcançar os demais feitos executivos, não atende ao disposto nos §§ 3º e 4º do artigo 20 do CPC, dado que corresponde a percentual que não valoriza o trabalho desenvolvido pelo profissional em juízo.
+(..)
+A verba honorária está indissociavelmente ligada à noção de sucumbência relativa ao direito em que se funda a ação. Embora a execução permaneça válida contra a empresa, houve ônus para os sócios ao constituir advogado para pleitear sua exclusão do polo passivo. Ainda que a União tenha eventualmente concordado com o pedido e não tenha ficado "vencida" no tocante à existência da dívida ou legitimidade e liquidez da CDA, houve trabalho desenvolvido por profissional habilitado, o que onerou terceiros indevidamente incluídos na lide. Nesse sentido decidiu o Superior Tribunal de Justiça no julgamento do Recurso Especial n.º1.155.125/MG, representativo da controvérsia, que foi submetido ao regime de julgamento previsto pelo artigo 543-C do Código de Processo Civil, in verbis:
+(..)
+No caso concreto, a fazenda restou sucumbente em relação aos recorrentes e um dos princípios a ser analisado é o da causalidade, o qual determina que a imposição dos honorários advocatícios deve recair sobre aquele que deu causa à instauração do processo ou do incidente. É cediço que os honorários advocatícios devem valorizar a dignidade do trabalho do profissional, sem, contudo, implicar meio que gere locupletamento ilícito. A razoabilidade, aliada aos princípios da equidade e proporcionalidade, deve pautar o seu arbitramento. No entanto, verifica-se que o juiz de primeira instância analisou de forma abrangente a atuação do advogado nas diversas demandas, com o objetivo de excluir os ex-sócios do polo passivo. Portanto, o labor jurídico desenvolvido e os valores executados foram sopesados no processo nº 0004058.40.2003.4036105. Assim, no presente recurso, relativo a uma única execução, sequer é possível avaliar se o percentual que os recorrentes alegam ter sido arbitrado corresponde a 0,22% do total cobrado pela exequente, de modo que a pretensão para se majorar a quantia arbitrada deveria ser deduzida nos autos mencionados, com informação detalhada acerca de todas as demais causas, a fim de possibilitar o exame adequado do pleito.
+Ante o exposto, nego provimento ao agravo de instrumento.
+O Tribunal de origem concluiu que a pretensão de majoração da verba honorária deveria ter sido deduzida nos autos do processo em que fixada.
+Desse modo, rever o entendimento consignado pela Corte local requer revolvimento do conjunto fático-probatório, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. RESSARCIMENTO AO SUS. TABELA TUNEP. INSCRIÇÃO NO CADIN. ANTECIPAÇÃO DE TUTELA. PRESSUPOSTOS. REEXAME DE PROVAS. AGRAVO REGIMENTAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. DECISÃO AGRAVADA. ALICERCE INATACADO. SÚMULA 182/STJ. NÃO-CONHECIMENTO DO RECURSO PELA ALÍNEA A. DISSÍDIO PRETORIANO PREJUDICADO.
+(..)
+5. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/09/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 53 DO CP. SÚMULA 284/STF. VIOLAÇÃO DO ART. 5º, DA LEI 9.71/98. ACÓRDÃO FUNDAMENTADO EM LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+(..)
+3. Resta prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo regimental não provido.
+(AgR no AREsp 34.860/RJ, Rel. Minstro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/9/2013).
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
