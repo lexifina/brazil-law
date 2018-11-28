@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial, contrariedade ao artigo 33, § 4º, da Lei 11.343/06 e ao teor da Súmula 444/STJ pela Corte de origem, "na medida em que, não reconheceu que o acusado tem direito a essa causa de diminuição de pena, conforme o voto vencido proferido no Acórdão" (e-STJ, fl. 449).
+Requer a aplicação da minorante do art. 33, § 4º, da Lei 11.343/06, com a consequente alteração do regime inicial.
+Apresentadas contrarrazões (e-STJ, fls. 458-467).
+O recurso foi inadmitido com fundamento na Súmula 283/STJ (e-STJ, fls. 469-470). Daí este agravo (e-STJ, fls. 473-482).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ, fls. 501-503).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve o afastamento da minorante com os seguintes fundamentos:
+"Acompanho o voto apresentado pelo Relator, pelos mesmos fundamentos expendidos por mim quando do julgamento do recurso de apelação - de que fui Revisor -, conforme deixei consignado naquela oportunidade:
+Examinando os autos e o voto do Desembargador Relator, o qual acompanho para manter a condenação do agente, bem com o reconhecimento da consunção entre os crimes relativos à Lei de Armas, peço vênia para dele divergir parcialmente em relação às sanções fixadas, pelas razões que passo a expor.
+Conforme se extrai, pretende o recorrente Ministerial a exasperação das penas -base do acusado quanto aos crimes de tráfico de drogas e posse ilegal de arma de fogo de uso permitido e numeração suprimida.
+Após analisar o processo, julgo que razão assiste ao Parquet, quanto ao aspecto.
+Ressai dos autos, tal qual observado pela Juiza, que com o acusado foi apreendida imensa quantidade de drogas (121g de maconha, 112g de crack e 164g de cocaína), bem como diversas armas e exorbitante quantidade de munições (dois revólveres calibre 38 e vinte e dois cartuchos do mesmo calibre, uma pistola com numeração raspada, 512 munições, calibre 9mm, 550 munições, calibre 380, 11 munições, calibre .40, 01 munição, calibre 942, dois carregadores com capacidade para 15 munições cada e um carreador para munição de calibre .45), além de expressiva quantia em dinheiro (16.339,35), vários sacos plásticos, utilizados na individualização da droga, uma balança de precisão, um triturador de maconha e 09 aparelhos celulares.
+Junte-se a tudo isso, o fato de se tratar de agente declaradamente usuário de drogas (conduta social desfavorável).
+Assim, verifica-se que as circunstâncias que permearam a prisão do réu foram extremamente gravosas, tendo sido apreendida imensa quantidade de drogas, grande parte dela de natureza altamente lesiva (análise desfavorável do art. 42 da Lei 11.343/06), além de enorme quantidade de armas e munições, inclusive de uso restrito e vários objetos utilizados na individualização das drogas.
+(..)
+Para o crime de tráfico de drogas, registro não ser possível a incidência da minorante prevista no §4º do art. 33 da Lei 11.343/06, por se tratar de indivíduo que se dedica à atividade criminosa.
+Ora, em que pese a primariedade ostentada pelo acusado, há que se observar que com ele foi apreendida imensa quantidade de drogas, sendo parte dela altamente lesiva indicando a sua dedicação à atividade criminosa na toada dos demais dados do processo (apreensão de diversos objetos utilizados na individualização do entorpecente, de expressiva quantia em dinheiro e de armas e munições, etc).
+Isso porque, como sabido, para o traficante adquirir grande quantidade de entorpecentes, é indispensável que ele tenha um considerável mercado consumidor, para que dê vazão ao material ilícito e, consequentemente, possibilite que o agente adquira mais e mais drogas, fomentando a espiral da criminalidade. Somente tem em seu poder tal volume de droga aquele que, já estabelecido no "ramo", possui grande número de clientes ou, o que é pior, está na parte alta da pirâmide da rede de distribuição a traficantes menores.
+De se ressaltar que referida condição não é alcançada pelo meliante de uma hora para outra, sendo necessário esforço pretérito e dedicação ao comércio ilícito, notadamente para que seja reconhecido pelos usuários, aumente sua renda ilícita e, com isso, adquira a confiança dos produtores e/ou grande fornecedores para o repasse de uma quantidade maior de entorpecentes.
+Por tais fundamentos, à luz dos demais dados do processo, deixo de reconhecer a referida causa de diminuição.
+ ..
+Feitas essas considerações, rejeito os embargos infringentes." (e-STJ, fls. 431-434).
+Como é sabido, os requisitos legais para a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa. Segundo decidido por esta Corte, o mencionado dispositivo legal tem como objetivo beneficiar, apenas, pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 5/10/2015; AgRg no REsp 1423806/SP; Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Tem-se decidido também que a quantidade de droga e as demais circunstâncias do art. 59 do CP devem servir de parâmetro para a definição do quantum de redução - de um sexto até dois terços - e para se constatar a dedicação do agente ao tráfico de entorpecentes ou de sua participação em organização criminosa, a fim de obstar a incidência do referido benefício legal (AgRg no AREsp 628.686/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 2/3/2015).
+Na hipótese dos autos, observa-se que, na esteira da jurisprudência desta Corte, o Tribunal de origem concluiu, motivadamente, pela dedicação do recorrente ao tráfico ilícito de entorpecentes levando em conta a expressiva quantidade de droga apreendida (121 gramas de maconha, 112 gramas de crack e 164 gramas de cocaína, e-STJ, fl. 427), e a apreensão de expressiva quantidade em dinheiro, armas, munições e 9 aparelhos celulares. Assim, a modificação desse entendimento - para acolher a pretensão de que ele não se dedica à atividade criminosa - exige o revolvimento do conteúdo fático-probatório, inadmissível em recurso especial (Súmula 7/STJ).
+Nesse sentido:
+" ..
+É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de averiguar os requisitos legais para incidência de eventuais causas de aumento ou diminuição de pena e o percentual a ser fixado. Óbice do enunciado nº 7 da Súmula desta Corte." (AgRg no AREsp 744.179/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/10/2015).
+" ..
+A decisão agravada está em absoluta conformidade com a massiva jurisprudência desta Corte, assentada no sentido de que aferir a dedicação a atividades criminosas, para o fim de negar ou deferir o redutor da pena previsto no art. 33, § 4º, da Lei de Drogas, demanda o revolvimento de fatos e provas o que é terminantemente vedado pela Súmula 7."
+(AgRg no AREsp 644.360/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/11/2015).
+Por fim, indeferido o pleito de diminuição da pena, resta prejudicado o abrandamento do regime prisional.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
