@@ -1,0 +1,68 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. MEDIDA CAUTELAR DE PROTESTO CONTRA ALIENAÇÃO DE BENS. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DECISÃO QUE DETERMINA A PUBLICAÇÃO DE EDITAIS. CABIMENTO DE APELAÇÃO. DECISÃO AGRAVADA IMPUGNÁVEL EM RAZÕES OU CONTRARRAZÕES DE APELO. ART. 1.009, § 1º, DO NCPC. FUNDAMENTO NÃO ATACADO. OBRIGATORIEDADE DE INTIMAÇÃO POR EDITAL. TEMA NÃO DEBATIDO NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 283, AMBAS DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+PARK AVENUE PARTICIPAÇÕES LTDA. (PARK AVENUE) interpôs agravo de instrumento contra decisão que, nos autos da ação cautelar de protesto contra alienação de bens por ela ajuizada contra [NOME] ([NOME]), determinara ao agravante as providências necessárias para a publicação do edital, como estabelecido anteriormente. O prolator da decisão agravada consignou que o protesto contra alienação de bens exige a publicidade por editais, nos termos do artigo 870, I do CPC/73, que deve ser observado, porque a decisão foi proferida ainda em sua vigência.
+O Tribunal de Justiça do Estado de São Paulo, em decisão unipessoal, não conheceu do reclamo, porquanto a decisão impugnada não se enquadrava no rol do art. 1.015 do NCPC.
+O colegiado, ao apreciar o agravo interno, negou-lhe provimento, nos termos da seguinte ementa:
+Agravo Interno. Ação Cautelar de Exibição de Documentos. Decisão pela qual não se conheceu do recurso, nos termos do art. 932, III, do CPC/2015. Rol taxativo do artigo 1.015, do Código de Processo Civil. Matéria que não comporta insurgência por meio de Agravo de Instrumento. Inadmissibilidade evidente. Inexistência de irregularidade ou ilegalidade a ensejar a alteração da decisão monocrática. Decisão mantida. Recurso não provido (e-STJ, fl. 150).
+Os embargos declaratórios interpostos foram rejeitados (e-STJ, fls. 161/167).
+Inconformada, PARK AVENUE manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. (1) 1.022, II, do NCPC, sob o fundamento de negativa de prestação jurisdicional acerca da alegação de que a decisão agravada se refere a tutela provisória; (2) 1.015, I, do NCPC, ao sustentar ser cabível o agravo de instrumento porquanto a decisão agravada se referiu a tutela provisória deferida; (3) 870, I, do CPC/73, e 726, § 1º, do NCPC, dizendo não ser hipótese de obrigatoriedade de intimação por edital. Pleiteou, assim, o provimento do apelo nobre, para que fosse reformado o acórdão recorrido, haja vista ser desnecessária a publicação de edital de ciência de terceiros em ações cautelares de protesto.
+As contrarrazões não foram apresentadas (e-STJ, fl. 178).
+O apelo nobre não foi admitido em virtude (i) da ausência de omissão, (ii) falta de demonstração das violações alegadas e (iii) incidência da Súmula nº 7 do STJ (e-STJ, fls. 179/180).
+Nas razões do presente agravo em recurso especial, PARK AVENUE sustentou ter havido invasão da competência do STJ, porquanto a Corte de origem adentrou na análise do mérito recursal, bem como não ser o caso de incidirem as Súmulas nºs 5 e 7, ambas do STJ (e-STJ, fls. 182/191).
+A contraminuta não foi apresentada (e-STJ, fl. 191).
+É o relatório.
+Decido.
+A insurgência não deve prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada negativa de prestação jurisdicional por omissão
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão. Já a omissão que enseja a apresentação de embargos declaratórios, consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito apresentado pelas partes.
+No presente caso, contudo, não se vislumbra quaisquer dessas situações, porquanto o TJSP, ao não conhecer do agravo de instrumento, fundamentou sua conclusão no fato de que a decisão agravada, ao determinar a publicação de editais, não se enquadra no rol do art. 1.015 do NCPC.
+Dessarte, na hipótese dos autos, embora rejeitado o recurso integrativo interposto, as matérias em exame foram enfrentadas pela Corte local de modo fundamentado e coerente, não se evidenciando o alegado vício. Houve, na realidade, julgamento contrário à pretensão de PARK AVENUE, sem que se lhe possa atribuir, contudo, a pecha de omissão.
+Como consectário, afasta-se a existência do vício referido no arrazoado especial.
+(2) Da ausência de prequestionamento - Súmula nº 282 do STF
+A matéria concernente a obrigatoriedade de intimação por edital em ação cautelar de protesto não foi objeto de deliberação na origem, porquanto o TJSP limitou-se a não conhecer do recurso. Obstado, assim, o conhecimento do reclamo, nesse ponto, por força da Súmula nº 282 do STF.
+(3) Do não cabimento de agravo de instrumento - Fundamento não atacado - Súmula nº 283 do STF
+O Tribunal local, ao não conhecer do agravo de instrumento interposto por PARK AVENUE, assim consignou:
+Nos termos da decisão recorrida, e agora ratificada, o Agravo de Instrumento interposto pela autora, de fato, não comportava conhecimento.
+O presente recurso foi interposto contra decisão monocrática, proferida por este Relator, que negou seguimento ao Agravo de Instrumento interposto pela recorrente, contra a decisão, na origem, que determinou à agravante as providências necessárias para a publicação do edital, em ação cautelar de protesto contra alienação de bens, nos termos do artigo 870, I do CPC/1973, matéria que não se enquadra em qualquer das hipóteses previstas no rol taxativo do artigo 1.015, do Novo Código de Processo Civil.
+O Agravo interno, interposto contra a decisão monocrática deste Relator, de fato, não comporta acolhimento, visto que a decisão proferida na origem não se identifica com nenhuma das hipóteses elencadas, de forma taxativa, no artigo 1.015, do Diploma processual em vigor.
+(..)
+Ao contrário do entendimento da agravante, é cabível recurso de apelação em medida cautelar de protesto contra alienação de bens, daí porque poderá se insurgir contra a decisão agravada em razões ou contrarrazões do apelo, nos termos do artigo 1009, § 1Q, do Código de Processo Civil de 2015 (e-STJ, fls. 151/152 - sem destaques no original).
+Pois bem.
+Verifica-se que o fundamento segundo o qual o tema versado no agravo de instrumento deveria ser objeto de razões ou contrarrazões de apelação, nos termos do art. 1.009, § 1º, do NCPC, não foi impugnado no recurso especial, tendo a PARK AVENUE se limitado a sustentar que a decisão agravada versava, sim, sobre tutela provisória. É o caso, portanto, de incidir a Súmula nº 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+(AgInt no AREsp 921.974/PR, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 23/8/2016 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO ATACADOS. SÚMULA Nº 283/STF. REEXAME DE PROVAS E DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+(AgInt no AREsp 833.798/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 16/8/2016 - sem destaque no original)
+Ademais, como bem registrado pela Corte de origem, o agravo de instrumento atacou a decisão que simplesmente determinara as providências para publicação do edital, conforme estabelecido em decisão antecedente.
+É o que se verifica da leitura da própria petição recursal:
+A r. decisão ora agravada possui o seguinte teor:
+"Vistos. A decisão foi proferida quando ainda estava em vigor o Código de Processo Civil de 1973, portanto, este Código deve ser observado. É certo que o protesto contra alienação de bens exige a publicidade por editais, conforme previa o artigo 870, inciso I. Ademais, a decisão de fls. 257 determinou a intimação nos termos dos artigos 867 e seguintes do Código de Processo Civil, o que, por certo, inclui a publicação dos editais. Assim, a autora deverá providenciar a publicação do edital, conforme determinado. Intime-se." (e-STJ, fl. 3).
+Dessarte, não há mesmo previsão para agravo de instrumento, nem sequer por interpretação extensiva do rol do art. 1.015 do NCPC.
+Vejam-se, a propósito, julgados pertinentes ao tema:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ARTIGO 1.015, CPC/2015. [NOME]. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL CONTÁBIL. IMPOSSIBILIDADE DO USO DO AGRAVO DE INSTRUMENTO. MATÉRIA A SER ARGUÍDA EM PRELIMINAR DE APELAÇÃO.
+1. O presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Este STJ submeteu à Corte Especial o TEMA 988/STJ através do REsp. n. 1.704.520/MT, REsp. n. 1.696.396/MT, REsp. n. 1.712.231/MT, REsp. n. 1.707.066/MT e do REsp. n. 1.717.213/MT com a seguinte discussão: "Definir a natureza do rol do art. 1.015 do CPC/15 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos de referido dispositivo do Novo CPC". Contudo, na afetação foi expressamente determinada a negativa de suspensão do processamento e julgamento dos agravos de instrumento e eventuais recursos especiais que versem sobre a questão afetada.
+3. Ainda que se compreenda que o rol do art. 1.015, do CPC/2015 seja exemplificativo (ainda não há definição sobre isso), há que ser caracterizada a situação de perigo a fim de se estender a possibilidade do agravo de instrumento para situações outras que não aquelas expressamente descritas em lei.
+(..)
+10. Deste modo, sem adentrar à discussão a respeito da taxatividade ou não do rol previsto no art. 1.015, do CPC/2015, compreende-se que o caso concreto (decisão que indefere a produção de prova pericial - perícia técnica contábil) não comporta agravo de instrumento, havendo que ser levado a exame em preliminar de apelação (art.
+1.009, §1º, do CPC/2015).
+11. Recurso especial não provido.
+(REsp 1.729.794/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 9/5/2018)
+PROCESSUAL CIVIL. HIPÓTESES DE AGRAVO DE INSTRUMENTO. ROL TAXATIVO. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. DECISÃO QUE AFASTA A PRESCRIÇÃO E A DECADÊNCIA. POSSIBILIDADE DE INTERPOSIÇÃO DO RECURSO.
+1. É certo que as hipóteses de Agravo de Instrumento trazidas pelo CPC de 2015 são taxativas, mas também é certo que o exegeta pode valer-se de uma interpretação extensiva.
+(..)
+4. Recurso Especial conhecido e provido.
+(REsp 1.695.936/MG, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2017 - Sem destaque no original)
+Ressalte-se que a Corte Especial ainda não apreciou os recursos representativos da controvérsia para definir a natureza do rol do art. 1.015 do CPC/2015 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC. A matéria foi afetada à Corte Especial, em conformidade com os arts. 1.036 e seguintes do NCPC (art. 543-C do CPC/73), nos termos do voto da relatoria da Ministra NANCY ANDRIGHI, prolatado nos autos da ProAfR no REsp nºs 1.696.396/MT e da ProAfR no 1.704.520/MT, DJe de 28/2/2018, todavia, sem determinação de sobrestamento dos feitos que sobre ela versassem.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
