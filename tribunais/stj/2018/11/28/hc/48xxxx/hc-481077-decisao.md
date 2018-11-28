@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIO CESAR BARBOSA DE OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Colhe-se dos autos que o paciente foi condenado à pena privativa de liberdade de 5 (cinco) anos e 6 (seis) meses de reclusão em regime fechado, pela prática do delito tipificado no art. 33 da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento à apelação da defesa e determinou a expedição de mandado de prisão para início de cumprimento da pena.
+Neste writ, a impetrante sustenta que o Tribunal a quo determinou o início da execução provisória da pena, ainda que pendente o julgamento do recurso especial defensivo, em ofensa ao princípio da presunção de inocência.
+Pleiteia seja permitido ao paciente aguardar o trânsito em julgado do processo em liberdade.
+É o relatório.
+Após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Min. TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/02/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+Sobre o tema, confiram-se:
+
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. MÉRITO. ROUBO QUALIFICADO. PACIENTE CONDENADO EM PRIMEIRA INSTÂNCIA, GARANTIDO O DIREITO DE RECORRER EM LIBERDADE. RECURSO EXCLUSIVO DA DEFESA. SENTENÇA CONFIRMADA EM SEGUNDA INSTÂNCIA. PRISÃO DETERMINADA PELO TRIBUNAL. POSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. LEGALIDADE. RECENTE ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. ORDEM NÃO CONHECIDA.
+ ..
+2. O Plenário do Supremo Tribunal Federal, por maioria de votos, entendeu que a possibilidade de início da execução da pena condenatória após a confirmação da sentença em segundo grau não ofende o princípio constitucional da presunção da inocência (HC n. 126292, julgado no dia 17 de fevereiro de 2016).
+3. No particular, como a sentença condenatória foi confirmada pelo Tribunal de origem e porquanto encerrada a jurisdição das instâncias ordinárias (bem como a análise dos fatos e provas que assentaram a culpa do condenado), é possível dar início à execução provisória da pena antes do trânsito em julgado da condenação, sem que isso importe em violação do princípio constitucional da presunção de inocência. Ademais, a sentença assegurou ao paciente o direito de recorrer em liberdade, o que representa a prerrogativa de apelar em liberdade, como ocorreu, tendo em vista que os recursos especial e extraordinário não são dotados, regra geral, de efeito suspensivo.
+4. Habeas Corpus não conhecido. Cassada, de ofício, a liminar outrora deferida em benefício do paciente e recomendada a análise da detração penal.
+(HC 350.518/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/5/2016, DJe 24/5/2016, grifou-se).
+
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO CONFIRMADA PELO SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO ANTECIPADA DA PENA. NOVO ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO HC 126292. HABEAS CORPUS DENEGADO.
+1. Não se constata ilegalidade no decreto de prisão quando proferido em acórdão condenatório em sede de apelação criminal nos termos da nova orientação da Sexta Turma ao apreciar o HC 352.845/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/04/2016, DJe 03/05/2016, adotando recente orientação, fixada pelo Pleno do Supremo Tribunal Federal (HC 126.292/SP, Rel. Min. TEORI ZAVASCKI, de 17/2/2016, DJe 17/5/2016), segundo o qual, a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola ao constitucional princípio da presunção de inocência.
+2. Habeas corpus denegado.
+(HC 354.470/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/6/2016, DJe 16/6/2016, grifou-se).
+
+Acrescente-se que o Supremo Tribunal Federal também reconheceu a repercussão geral do tema (ARE 964.246/SP, Rel. Ministro TEORI ZAVASCKI) e, em 11/11/2016, decidiu, em Plenário Virtual, pela reafirmação de sua jurisprudência externada no mencionado HC 126.292/SP.
+Forçoso destacar, por derradeiro, que a Terceira Seção desta Corte Superior, no julgamento da Rcl 30.193/SP, firmou entendimento de que, com a nova orientação da Suprema Corte, nos autos do HC 126.292/SP, "a manutenção da sentença penal pela segunda instância encerra a análise de fatos e provas que assentaram a culpa do condenado, o que autoriza o início da execução da pena".
+Nessa perspectiva, esgotadas as instâncias ordinárias, a interposição de recursos especial e extraordinário não obsta a execução da decisão penal condenatória, sendo descabido perquirir a presença de motivação cautelar idônea, nos moldes do art. 312 do CPP, bem como valorar as circunstâncias pessoais alegadamente favoráveis do réu, por não se tratar de decreto de prisão preventiva.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
