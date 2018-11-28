@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ LEYVER PINTO CARAMASCHI contra decisão que inadmitiu o recurso especial manejado em face de acórdão proferido pela col. Segunda Câmara Criminal do eg. Tribunal de Justiça de São Paulo.
+De acordo com os autos o agravante foi denunciado pela prática de roubo majorado (art. 157, § 2º, incisos I e II do Código Penal). Após o encerramento da fase instrutória, o réu foi condenado a 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, além de 13 (treze) dias-multa. O Tribunal de Justiça de São Paulo, ao julgar o recurso de apelação, confirmou o édito condenatório.
+Nas razões do recurso especial a defesa alegou, em suma, malferimento ao art. 387, § 2º, do Código de Processo Penal, sustentando que o tempo de prisão não foi considerado para fins de fixação do regime inicial de desconto da sanção imposta.
+Com esteio no enunciado n. 284 da Súmula do Supremo Tribunal Federal, e 7, da Súmula deste Superior Tribunal de Justiça, o recurso não foi admitido na origem. Sobreveio, então, agravo, por meio do qual a defesa infirma os fundamentos utilizados para negar trânsito ao recurso, insistindo na tese de violação do dispositivo supramencionado.
+Em seu parecer, o Ministério Público Federal opinou pelo provimento do recurso (e-STJ, fls. 529-532).
+É o relatório.
+Atendidos os pressupostos formais de conhecimento, passa-se à análise do recurso especial.
+O pedido formulado cinge-se à possibilidade de fixação de regime inicial mais brando com o desconto do período de prisão provisória.
+De se salientar que o conceito de regime inicial de cumprimento da pena é bastante distinto do conceito de progressão de regime, esta sim, da competência do Juízo da Execução.
+A questão, portanto, não é de execução penal, mas de fixação do regime inicial de cumprimento de pena a ser imposto pelo Juízo singular - o da condenação - por ocasião da sentença, quando se computará o período em que o réu permaneceu preso provisoriamente para fins de escolha do modo inicial de execução da sanção, por intenção e determinação do legislador.
+Note-se que, a partir da entrada em vigor do novo dispositivo processual penal, cumpre ao próprio Juiz da condenação abater o período de prisão processual, para fins de escolha do regime inicial, matéria antes da competência exclusiva do Juízo da Execução Penal (art. 66, III, c, da Lei 7.210/84).
+A propósito, deste Superior Tribunal, tem-se:
+HABEAS CORPUS. DIREITO PENAL. ROUBO CIRCUNSTANCIADO. CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. PENA-BASE FIXADA NO MÍNIMO LEGAL. RÉU PRIMÁRIO. FIXAÇÃO DE REGIME MAIS GRAVOSO COM BASE NA GRAVIDADE ABSTRATA DO DELITO. INVIABILIDADE. SÚMULA N.º 440/STJ E 718/719/STF. READEQUAÇÃO DO REGIME PRISIONAL INICIAL. NECESSIDADE DE OBSERVÂNCIA DO CRITÉRIO TRAZIDO PELO § 2.º DO ART. 387 DO CÓDIGO DE PROCESSO PENAL, COM REDAÇÃO DETERMINADA PELA LEI N.º 12.736/12. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA.
+(..)
+4. O estabelecimento do novo regime deve observar os termos do § 2.º do art. 387 do Código de Processo Penal, com redação dada pela Lei n.º 12.736/12, segundo o qual " o  tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade".
+5. Ordem de habeas corpus parcialmente concedida, para determinar que o Tribunal de origem fixe o regime inicial de cumprimento de pena nos moldes das Súmulas n.º 440/STJ e 718/719/STF, e do art. 387, § 2.º, do Código de Processo Penal, nos termos da fundamentação.
+(HC 272600/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/08/2013, DJe 26/08/2013)
+Dessa forma, presente a ilegalidade no aresto combatido, no ponto em que não aplicou o disposto no art. 387, § 2º, do Código de Processo Penal.
+Na hipótese dos autos, o ora agravante foi condenado a 5 (cinco) anos e 4 (quatro) meses de reclusão, tendo permanecido provisoriamente preso entre a data do flagrante em 3 de maio de 2011 e a expedição do alvará de soltura em 5 de dezembro de 2014. Cumpriu, portanto, 3 (três) anos, 7 (sete) meses e 2 (dois) dias de custódia cautelar, restando, com a detração, 1 (um) ano, 8 (oito) meses e 28 (vinte e oito) dias a serem cumpridos.
+Assim, tendo a pena definitiva, após a detração, é inferior a 4 (quatro) anos. Considerando, ainda, que não foram apontadas circunstâncias judiciais negativas nem reincidência, de modo que deve ser fixado o regime inicial aberto para o desconto da reprimenda.
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea c, do Regimento Interno do Superior Tribunal de Justiça, conhece-se do agravo para dar provimento ao recurso especial, fixando o regime aberto para o início do cumprimento da pena do ora agravante nos autos da Ação Penal n. 0017336-61.2011.8.26.0477.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
