@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RAFAEL RUBIO DE OLIVEIRA nos quais se alega omissão na decisão de e-STJ fls. 227/230, que indeferiu o pedido liminar.
+Consta dos autos que o embargante, conhecido no meio policial por "Rei do Ecstasy", foi preso preventivamente, em 19/4/2018, por ordens emitidas pelo Juízo da 14ª Vara Criminal de Natal (RN) - decisão e-STJ fls. 57/66 - e pelo Juízo da 2ª Vara de Entorpecentes do Distrito Federal - decisão e-STJ fls. 48/51, no âmbito da "Operação Caça às Bruxas", em razão de suposta infração dos arts. 33 e 35 da Lei n. 11.343/2006, tendo sido apuradas negociações para a compra de, pelo menos, 13 mil compridos de ecstasy.
+Impetrado habeas corpus no Tribunal de Justiça do Estado do Rio Grande do Norte, a ordem foi denegada em acórdão ante o qual a defesa se insurgiu perante esta Corte alegando excesso de prazo da segregação provisória - o pedido de liminar foi indeferido em 8/11/2018, estando o mérito pendente de julgamento.
+Nas razões dos presentes aclaratórios, sustenta a defesa que "houve omissão quanto a realidade fática arguida e comprovada no writ, uma vez que se comprovou através de documentos que o Paciente é considerado alienado mental, bem como se comprovou que este está preso desde 19/04/2018; portanto, há mais de 200 dias. O incidente de insanidade mental está paralisado, há mora é superior há 180 dias, muito além dos 45 dias previstos pela lei de forma taxativa" (e-STJ fl. 239).
+Requer "sejam acolhidos os presentes embargos de declaração, com efeitos infringentes, reconhecendo-se a sua tempestividade, para que a omissão arguida seja sanada, sendo então deferido, liminarmente, o relaxamento da prisão ou a revogação da prisão preventiva por excesso de prazo" (e-STJ fl. 244).
+É, em síntese, o relatório.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal dos aclaratórios, sempre enfatizada nos precedentes desta Corte, como se percebe do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 03/02/2016.)
+Todavia, o desfecho constante da decisão embargada não encerra nenhum dos vícios acima mencionados, tampouco a omissão sustentada.
+É que a decisão embargada foi completa o suficiente para indeferir o pleito liminarmente, tendo em vista a ausência de demonstração, de plano, do constrangimento ilegal apontado, sobretudo porque a jurisprudência desta Corte entende que a aferição do excesso de prazo da segregação não pode ser feita de forma matemática, mas deve levar em consideração peculiaridades da causa que só podem ser aferidas quando do julgamento do mérito do writ.
+Sendo assim, o fato de o pedido emergencial não ter sido concedido não traduz omissão no julgado, mas apenas que o pedido não pôde ser atendido de pronto, devendo ser analisado em seu pormenor quando do julgamento da causa pelo colegiado.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
