@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/PB assim ementado (fl. 87):
+PROCESSUAL CIVIL - Apelação cível - Ação Cautelar Inominada - Pretensão da obtenção de certidão positiva de débito com efeito negativo - Embargos à execução fiscal julgados improcedente - Irrelevância - Garantida execução pela nomeação de bens à penhora - Suficiência de valores aferível - Retomada da execução com a constrição de bens - Reforma da sentença - Provimento.
+- A suficiente nomeação de bens à penhora, em sede de execução fiscal, habilita o devedor a receber certidão positiva de débito com efeitos de certidão negativa, conforme regra disposta no art. 206 do CTN.
+- "A certidão positiva com efeitos de negativa, nos termos do art. 206 do CTN, somente pode ser expedida quando no processo de execução tiver sido efetivada a penhora ou quando estiver suspensa a exigibilidade do crédito tributário (art. 151 do CTN)." (STJ, REsp 908927 / SP, rel. Min. Castro Meira, DJ 26/04/2007 p. 241).
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, em especial acerca da ordem de preferência de bens para penhora.
+Quanto à questão de fundo, sustenta ofensa aos arts. 9 e 11 da Lei n. 6.830/1980, ao fundamento de que os bens oferecidos à penhora na origem forem rejeitados, com base na ordem de preferência prevista em Lei, razão pela qual o pedido de emissão de certidão positiva com efeitos de negativa não poderia ter sido emitido.
+Ato contínuo, pugna ainda pela ofensa aos arts. 1º, § 3º, da Lei n. 8.437/1992 e 1º da Lei n. 9.494/1997, dado que a legislação de regência proíbe a concessão de medidas liminares de caráter satisfativo em face da Fazenda Pública.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 142/143.
+É o relatório. Passo a decidir.
+A irresignação preliminar merece prosperar.
+Compulsando-se os autos, verifica-se que o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, remanescendo omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da ordem de preferência de bens para penhora, tendo em vista que os oferecidos nos autos da execução fiscal foram recusados.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional, haja vista a existência de jurisprudência consolidada no âmbito do STJ no sentido de que " ..  o devedor deve nomear bens à penhora com a observância da ordem de preferência estabelecida na lei processual, a qual, por força do princípio da menor onerosidade, só poderá ser mitigada mediante comprovada necessidade, de modo que, desatendida essa exigência, poderá a parte credora recusar a garantia ofertada e pedir a penhora on-line, que, se postulada já na vigência da Lei n. 11.382/2006, independe do esgotamento de diligências tendentes à localização de bens passíveis de constrição." (AgInt no AREsp 1174583/SP, Primeira Turma, Rel. Ministro GURGEL DE FARIA, DJe 12/06/2018).
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1022, II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios, na forma da fundamentação supra.
+Publique-se. Intimem-se.
