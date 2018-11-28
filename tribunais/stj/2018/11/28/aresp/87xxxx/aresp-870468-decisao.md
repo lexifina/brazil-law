@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. COBRANÇA. CORRETAGEM. CORREÇÃO MONETÁRIA E JUROS DE MORA. OMISSÕES. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+VICENTE SABINO DAMIANO - ESPÓLIO (ESPÓLIO DE VICENTE) propôs ação de cobrança contra PRINCE CONSTRUTORA LTDA (PRINCE), julgada parcialmente procedente para
+ ..  condenar a PRINCE ao pagamento de comissões de corretagem ao autor, com relação a todos os negócios apontados nas propostas de fls. 12/147, datados de 1982 a 1984, com o acréscimo de correção monetária somente a partir do ajuizamento da ação (em 26.07.2002), com a adoção dos índices da tabela prática publicada no DJE., e juros de mora de 6% (seis por cento) ao ano, da citação até 10 de Janeiro de Dezembro de 2002, e, a partir de 11 de Janeiro de 2003, 12% (doze por cento) ao ano, tudo devidamente atualizado até o efetivo pagamento, mediante apuração por intermédio de cálculo aritmético, a ser apresentado pelo autor, sem a necessidade de perícia contábil. Por conseqüência, julgo extinto o processo, movido pelo ESPÓLIO DE VICENTE SABINO DAMIANO em face de PRINCE CONSTRUTORA LTDA., com resolução de mérito, na forma do artigo 269, inciso I, do Diploma Processual Civil (e-STJ, fl. 1.448).
+Contra essa decisão, o ESPÓLIO DE VICENTE interpôs recurso de apelação que foi parcialmente provido pelo Tribunal de origem, em acórdão assim ementado
+Corretagem. Cobrança de comissão. Sentença de parcial procedência. Autor se insurge apenas contra os termos iniciais da correção monetária e dos juros de mora. Correção - fator de atualização da moeda -, que deve incidir a partir do vencimento da obrigação. Juros de mora, no entanto, incidentes desde a citação, consoante determinado pela sentença. Recurso parcialmente provido (e-STJ, fl. 1.500).
+Os embargos de declaração opostos pelo ESPÓLIO DE VICENTE foram rejeitados (e-STJ, fls. 1.522/1.530).
+Inconformada, o ESPÓLIO DE VICENTE interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando violação dos arts. 128, 131, 458, II e III, 459, 460, 512, 515, §§ 1º e 2º, e 535, II, do CPC/73; e, 955 e 960 do CC/02, sob o argumento de (1) negativa de prestação jurisdicional, pois o acórdão recorrido incorreu em omissões, consubstanciadas na aplicabilidade ao caso dos autos do disposto nos arts. 128, 131, 458, II e III, 459, 460, 512 e 515, §§ 1º e 2º, do CPC/73 e contradições relativas à incidência da correção monetária e dos juros de mora que deveria ocorrer a partir de cada vencimento; (2) julgamento citra petita pois a correção monetária e os juros moratórios deveriam ser computados a partir de julho de 2002 até o efetivo pagamento; e, (3) o reconhecimento de obrigação líquida é aquela de pagar as comissões, cuidando-se de mora ex re da recorrida, determinando-se a incidência dos juros legais moratórios também desde cada vencimento.
+As contrarrazões não foram apresentadas (e-STJ, fl. 1.568).
+O apelo nobre não foi admitido na origem (e-STJ, fls. 1.569/1.571), decisão contra a qual foi interposto o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+Merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, deixou de se manifestar acerca das omissões consubstanciadas na aplicabilidade ao caso dos autos do disposto nos arts. 128, 131, 458, II e III, 459, 460, 512 e 515, §§ 1º e 2º, do CPC/73, bem como das contradições relativas à incidência da correção monetária e dos juros de mora que deveria ocorrer a partir de cada vencimento.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais questões.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por derradeiro, advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
