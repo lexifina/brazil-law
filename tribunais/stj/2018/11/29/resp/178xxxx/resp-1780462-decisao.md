@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 512e):
+CONTRIBUIÇÃO SOCIAL. EMPREGADOR RURAL PESSOA FÍSICA. RECEITA BRUTA DA PRODUÇÃO. FOLHA DE SALÁRIOS. LEI Nº 10.256, DE 2001. VALIDADE RECONHECIDA PELO STF. JUÍZO DE RETRATAÇÃO.
+Cabe retratar o acórdão com base no assentado pelo Supremo Tribunal Federal em sede de repercussão geral, que reconheceu a constitucionalidade formal e material da contribuição social do empregador rural pessoa física, instituída pela Lei nº 10.256, de 2001, incidente sobre a receita bruta proveniente da comercialização da sua produção (RE 718.874, Rel. para Acórdão Min. Alexandre de Moraes, Tribunal Pleno, julgado em 30-03-2017)
+Com amparo no art. 105, III, a e c, da Constituição da República, o Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, que a verba honorária foi fixada em valor exorbitante.
+Sem contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No tocante à condenação em honorários advocatícios, o tribunal de origem assentou que "deve ser condenada a parte demandante ao pagamento de honorários advocatícios, arbitrados equitativamente em R$ 5.000,00, nos termos do art. 20, § 4º e alíneas do § 3º, do Código de Processo Civil de 1973, vigente à época da prolação da sentença" (fl. 516e).
+Este Superior Tribunal aplica, em regra, a Súmula n. 7 nos apelos que objetivam a revisão da verba honorária. Excetuam-se, contudo, as hipóteses em que o quantum arbitrado revela-se irrisório ou abusivo.
+No caso, considerando as circunstâncias abstraídas no acórdão recorrido, não vislumbro excepcionalidade a justificar a revisão do quantum fixado, o que enseja a aplicação da Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. OFENSA AO ART. 535/CPC. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. ACÓRDÃO ALICERÇADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. RECONVENÇÃO. NECESSIDADE DE A PRETENSÃO SER CONEXA COM A DO AUTOR. PRECEDENTES. PERÍCIA. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO BASILAR NÃO ATACADO. SÚMULA 283/STF. SUCUMBÊNCIA. AFERIÇÃO. SÚMULA 7/STJ.
+(..)
+8. Mostra-se inviável a aferição do grau de sucumbência entre as partes, para fins de distribuição da condenação nos honorários advocatícios, tendo em vista a necessidade de revisão do contexto fático-probatório dos autos, providência defesa em recurso especial, ante o enunciado da Súmula 7/STJ.
+9. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1038925/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RESTITUIÇÃO DE INDÉBITO PELO IMPORTADOR. PIS/COFINS-IMPORTAÇÃO. OPERAÇÕES POR CONTA E ORDEM DE TERCEIROS. IMPOSSIBILIDADE. ART. 18 DA LEI Nº 10.865/04. LIMITES SUBJETIVOS DO PROVIMENTO MANDAMENTAL. REVOLVIMENTO DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. REVISÃO DO QUANTUM. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+(..)
+5. No caso dos autos, os honorários foram fixados em 1% sobre o valor do excesso de execução, percentual que não representa valor exorbitante para fins de revisão em sede de recurso especial. É cediço nesta Corte que, salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado n. 7, da Súmula do STJ.
+6. Agravo regimental não provido.
+(AgRg no REsp 1573681/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2016, DJe 10/03/2016).
+Anoto que o recurso especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+Sobre o tema, os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SÓCIO. REDIRECIONAMENTO. EXISTÊNCIA DE CERTIDÃO DO OFICIAL DE JUSTIÇA ATESTANDO QUE A EMPRESA NÃO FUNCIONA NO LOCAL INDICADO. SUMULA 453/STJ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "Para se chegar à conclusão diversa da firmada pelas instâncias ordinárias no tocante ao redirecionamento da execução fiscal em razão do descumprimento ao art. 135, III do CTN pelo sócio-gerente seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial" (AgRg no Ag 1.341.069/PR, Primeira Turma, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15/9/11).
+2. "Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 346.367/SP, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 11/9/13) 3. Agravo regimental não provido.
+(AgRg no AREsp 424.727/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 06/02/2014, destaque meu).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FISCALIZAÇÃO MUNICIPAL DE TRÂNSITO. LEI 9.503/1997. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. A Corte de origem assentou sua decisão baseada na análise do conjunto fático-probatório dos autos, razão pela qual o acolhimento da pretensão recursal demanda novo exame das provas constantes dos autos, incidindo a Súmula 7/STJ.
+2. O alegado dissídio jurisprudencial restou prejudicado ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1247182/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 30/09/2013, destaque meu).
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. CONCESSÃO DE EFEITO SUSPENSIVO. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. ATO ÍMPROBO. ELEMENTO SUBJETIVO DOLO GENÉRICO. CARACTERIZADO. PRECEDENTES. SÚMULA 83/STJ. DOSIMETRIA DA PENA. ART. 12 DA LEI N. 8.429/92. RAZOABILIDADE E PROPORCIONALIDADE. ANÁLISE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+(..)
+7. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Agravo regimental improvido.
+(AgRg no AREsp 597.359/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/04/2015, DJe 22/04/2015, destaque meu).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. LABOR RURÍCOLA. RECONHECIMENTO. PROVA. REEXAME. SÚMULA 7/STJ. INCIDÊNCIA. DISSÍDIO NÃO CONFIGURADO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO AFASTADOS.
+1. Tendo o Tribunal de origem fixado compreensão no sentido de que o segurado não logrou comprovar o labor campesino nos lapsos temporais indicados, a reforma desse entendimento não pode ser lavada à cabo em sede de recurso especial, ante o óbice representado pela Súmula 7 do STJ.
+2. A caracterização do dissídio jurisprudencial demanda a realização do confronto analítico entre as conclusões do aresto impugnado e as teses acolhidas pelos julgados indicados como dissonantes, não se mostrando suficiente para tal a simples transcrição dos julgados tidos como divergentes. Precedentes.
+3. Além disso, impedido o trânsito do recurso especial em decorrência da orientação fixada pela Súmula 7/STJ, fica prejudicada a análise do dissídio jurisprudencial, ante a ausência de similitude fática entre o julgado recorrido e os acórdãos indicados como divergentes. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 611.941/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 14/04/2015, DJe 24/04/2015, destaque meu).
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
