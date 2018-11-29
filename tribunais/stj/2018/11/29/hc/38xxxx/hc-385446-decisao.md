@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado, por infração aos arts. 180, caput, do Código Penal e 16, caput, da Lei n. 10.826/2003, às penas, respectivamente, de 1 (um) ano e 4 (quatro) meses de reclusão e 13 (treze) dias-multa e 4 (quatro) anos de reclusão e 13 (treze) dias-multa, a serem cumpridas inicialmente no regime semiaberto (e-STJ fls. 14/22).
+Após o trânsito em julgado da sentença, o Magistrado singular determinou a expedição de mandado de prisão para que o sentenciado fosse encaminhado à unidade prisional.
+Contra essa decisão insurgiu-se a defesa. Entretanto, os desembargadores integrantes da Sexta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, por unanimidade de votos, denegaram a ordem nos termos do acórdão assim ementado (e-STJ fl. 32):
+Habeas Corpus. MANDADO DE PRISÃO - expedido mandado de prisão proveniente de trânsito em julgado da decisão condenatória - eventual prisão em regime mais gravoso por ausência de vagas - ilegalidade que não existe - denegação da ordem.
+No presente writ, a defesa esclarece que "a praxe que se verifica no cotidiano do sistema carcerário, ao ser cumprida a ordem de prisão, mesmo o apenado fazendo jus ao inicio de cumprimento de sua pena no regime intermediário, será ele posto ao sistema penitenciário no regime fechado e neste, permanecerá até o surgimento de vagas no sistema intermediário, o que comumente tem demonstrado considerável demora devido a ausência de vagas" (e-STJ fl. 2).
+Sustenta que "não se considera justo que condenados a cumprirem pena em regime inicial intermediário sejam alocados em estabelecimento prisional mais gravoso, destinados a sentenciados de alta periculosidade, ainda mais se levarmos em conta o caso em tela, delitos daqueles sem qualquer grau de violência ou grave ameaça a pessoa, sendo ainda o Paciente empresário, arrimo de família, demonstrando assim a desnecessidade da custódia da forma mais severa" (e-STJ fl. 4).
+Por isso, requer, inclusive liminarmente, a suspensão da ordem de prisão ou, alternativamente, seja facultado o início do cumprimento da pena em regime de prisão domiciliar, ou ainda, em regime aberto (e-STJ fls. 1/9).
+O pedido liminar foi indeferido pelo Ministro Humberto Martins, à época, Vice-Presidente no exercício da Presidência (e-STJ fls. 41/45).
+Foram prestadas as informações (e-STJ fls. 50/88).
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento do habeas corpus (e-STJ fls. 91/95).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem denegou a ordem, consignando, para tanto, que (e-STJ fls. 35/36):
+Com o trânsito em julgado do v. acórdão, foi determinado, por este juízo, o seu cumprimento, e consequente expedição do mandado de prisão em desfavor do paciente.
+Ressaltou ainda a d. magistrada que o mandado de prisão foi expedido no regime de cumprimento pelo qual o paciente foi condenado, qual seja, o semiaberto (fls. 52/54 e 152).
+Não há qualquer ilegalidade a ser sanada.
+O impetrante se insurge contra a possibilidade de ilegalidade futura, uma vez que já aponta a ausência de vagas no regime semiaberto.
+O mandado de prisão, ato contra o qual eventualmente poderia se insurgir, está correto.
+A questão da existência ou não de vagas no regime adequado deverá ser discutida quando, e se ocorrer.
+Conforme apontado pelo ilustre parecerista: não cumprido o mandado de prisão, não iniciada a execução da pena, inviável a concessão de garantias com vista à futura e eventual ocorrência de constrangimento ilegal (fls. 157).
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal, uma vez que esta Corte já decidiu que "a simples expedição de mandado de prisão após o trânsito em julgado, ainda que o paciente tenha sido condenado em regime semiaberto, não caracteriza, por si só, constrangimento ilegal" (HC n. 262.001/SP, relator o Ministro Og Fernandes, Sexta Turma, DJe de 28/6/2013).
+A propósito, confira-se, ainda, o seguinte precedente:
+EXECUÇÃO PENAL. HABEAS CORPUS. RÉU CONDENADO A CUMPRIR PENA NO REGIME SEMIABERTO. EXPEDIÇÃO DE MANDADO DE PRISÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ENCAMINHAMENTO A ESTABELECIMENTO PRISIONAL ADEQUADO AO CUMPRIMENTO DA PENA.
+1. Na hipótese vertente, o recorrente foi condenado à pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 1º, § 1º, do Decreto-lei 201/1967.
+2. Transitado em julgado o decisum, os autos foram remetidos ao Juiz da Execução, que determinou a prisão cautelar do recorrente. Contra tal ato judicial, foi impetrado habeas corpus no Tribunal a quo, que ratificou a decisão singular, asseverando que: Nos termos do contido no art. 105 da Lei de Execução Penal, para se dar início à execução da pena e ser expedida a guia de execução, deve o sentenciado, inicialmente, ser recolhido ao cárcere.
+3. Com efeito, firmou-se nesta Corte Superior entendimento de que a simples expedição de mandado de prisão, ainda que o réu tenha sido condenado em regime semiaberto, não caracteriza, por si só, constrangimento ilegal. Isto porque a captura do réu é necessária para que ele seja devidamente encaminhado ao estabelecimento prisional adequado ao cumprimento da pena imposta.
+4. Recurso não provido (RHC n. 59.279/PB, relator o Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 8/9/2015, grifei).
+Com efeito, no caso dos autos, para que seja expedida a guia de recolhimento para a execução, é forçosa a constrição carcerária do condenado, até mesmo porque, assim como consignado no precedente acima citado, "a captura do réu é necessária para que ele seja devidamente encaminhado ao estabelecimento prisional adequado ao cumprimento da pena imposta".
+Ademais, não identifico nenhuma ameaça à liberdade do paciente decorrente do suposto cumprimento da pena privativa de liberdade em regime mais gravoso do que o estabelecido na sentença penal transitada em julgado. A teor do que consta nas razões do presente habeas corpus, a defesa impugna a mera probabilidade de que o paciente, ainda que temporariamente, aguarde, em regime mais gravoso do que aquele a que foi condenado, o seu recolhimento em estabelecimento adequado ao regime semiaberto.
+Nesse sentido, como é cediço, "não cabe ação de habeas corpus contra o chamado, por alguns, "ato de hipótese"" (HC n. 82.319/SP, relator o Ministro Arnaldo Esteves Lima, Quinta Turma, DJ de 12/9/2007).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
