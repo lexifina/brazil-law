@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão proferida no âmbito do Tribunal de Justiça local que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+Depreende-se dos autos que o ora agravado foi condenado, como incurso nas sanções do art. 155, caput, do Código Penal, à pena de 2 anos de detenção, em regime aberto. A pena privativa de liberdade foi substituída por duas restritivas de direitos (e-STJ fls. 198/207).
+Inconformada, apelou a defesa. O Tribunal de origem deu parcial provimento ao recurso, em acórdão assim ementado (e-STJ fl. 260):
+APELAÇÃO CRIMINAL. CRIME DE FURTO QUALIFICADO. SENTENÇA CONDENATÓRIA. ABSOLVIÇÃO. PROVA. PENA. CAUSA PRIVILEGIADORA. REDUÇÃO DO TRATAMENTO PUNITIVO. PRESCRIÇÃO.
+I - Não se realiza a pretensão absolutória da imputação, por insuficiência probatória, quando a materialidade e a autoria delitivas do crime de furto, tipificado pelo art. 155, caput, do Código Penal Brasileiro, restaram demonstradas pelos elementos de convicção apurados durante a investigação judicial dos fatos, especialmente depoimentos testemunhais, indicando a responsabilidade do processado pela conduta imputada.
+II - Pena reduzida e prescrição decretada.
+APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE.
+Nas razões do recurso especial, o recorrente sustenta contrariedade ao art. 155, § 2º, do Código Penal. Defende que "não se aplica o furto privilegiado quando o valor da res furtiva ultrapassa 10% (dez por cento) do salário-mínimo vigente na época dos fatos" (e-STJ fl. 271).
+Contrarrazões à e-STJ fl. 292.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 318/323).
+É o relatório. Decido.
+O inconformismo não merece prosperar.
+Com efeito, o acórdão recorrido encontra-se em harmonia com a orientação jurisprudencial pacífica desta Corte de que "o reconhecimento do privilégio legal é um direito subjetivo do réu, cujo deferimento exige a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada, que deve ter como parâmetro o valor do salário mínimo vigente à época dos fatos" (AgRg no REsp n. 1.486.001/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/5/2015).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. FURTO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. IMPRESCINDIBILIDADE DE PERÍCIA DIRETA. APLICAÇÃO DO ART. 155, § 2.º, DO CÓDIGO PENAL. POSSIBILIDADE. PACIENTE PRIMÁRIO. RES FURTIVA. VALOR INFERIOR A UM SALÁRIO MÍNIMO. PRECEDENTES.
+1. Pacificou-se nesta Corte o entendimento no sentido da necessidade de realização do exame técnico-científico para qualificação do crime ou mesmo para sua tipificação, pois o exame de corpo de delito direto é imprescindível nas infrações que deixam vestígios. Dessarte, se era possível a realização da perícia, a prova testemunhal e o exame indireto não suprem a sua ausência.
+2. Consideradas as circunstâncias do crime (furto de pote de "whey protein", subtraído de estabelecimento comercial e avaliado em R$ 355,00, que foi restituído à vítima) e tendo em vista a primariedade do agente, bem como que a res furtiva é de pequeno valor, não ultrapassando o salário mínimo então vigente (R$ 678,00), evidencia-se o preenchimento dos requisitos necessários à concessão do benefício do privilégio no crime de furto.
+3. Agravo regimental improvido.
+(AgRg no REsp 1.525.563/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/09/2015, DJe 07/10/2015, grifei)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO SIMPLES TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. INAPLICABILIDADE. PEQUENO VALOR DA RES FURTIVA. PACIENTE PRIMÁRIO. PRIVILÉGIO PREVISTO NO § 2º DO ART. 155 DO CP. APLICAÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO. REGIME PRISIONAL ABERTO E SUBSTITUIÇÃO. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS. DESCABIMENTO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+3. A reiteração no cometimento de infrações penais se reveste de relevante reprovabilidade e se mostra incompatível com a aplicação do princípio da insignificância, a demandar a atuação do Direito Penal.
+4. "É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva" (Súmula 511/STJ).
+5. No caso, trata-se de furto simples tentado, praticado por réu tecnicamente primário (tem maus antecedentes), cuja res furtiva é de pequeno valor - caixa com 30 duzias de ovos, avaliada em R$ 70,00 -, sendo hipótese de incidência do privilégio previsto no § 2º do art. 155 do CP.
+6. Embora o paciente seja primário e o quantum da condenação não seja superior a 4 anos, a valoração negativa das circunstâncias judiciais não lhe permite iniciar o cumprimento da pena em regime aberto, tampouco ser beneficiado com a substituição da pena privativa de liberdade por restritiva de direitos.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente.
+(HC 332.416/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/10/2015, DJe 19/10/2015, grifei)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
