@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 419):
+SERVIDOR PÚBLICO ESTADUAL Auxílio alimentação. Pretensão ao recebimento no período de afastamento (art. 78 da Lei nº 10.261/68). Inadmissibilidade.
+Afronta à Lei Estadual nº 7.524/91. Precedentes.
+Recurso não provido.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 7º, IV, da Lei nº 95/98, além de dissídio jurisprudencial. Sustenta, em síntese, que, "ao admitir o prevalecimento da Lei Ordinária nº. 7.524/91 em detrimento da Lei Complementar nº. 10.261/68, o v. acórdão vergastado afrontou, de forma clara e inconteste, o quanto disposto no art. 7º, IV, da Lei Federal nº. 95/98, pois a lei anterior considera que os dias de afastamento previstos no art. 78 são considerados de efetivo exercício para todos os fins, inclusive para pagamentos dos benefícios aos quais faz jus o servidor, como é o caso do auxílio alimentação, ao passo que a lei posterior, veio em sentido completamente contrário, afastando o caráter de efetivo exercício daqueles dias." (fl. 457)
+É o relatório.
+A matéria pertinente ao art. 7º, IV, da Lei nº 95/98 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c, do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
