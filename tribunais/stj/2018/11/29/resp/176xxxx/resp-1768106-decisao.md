@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJAL, assim ementado (fl. 134):
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA PARA INSTITUIÇÃO E COBRANÇA RETROATIVA DE ADICIONAL POR TEMPO DE SERVIÇO. SENTENÇA PELA PROCEDÊNCIA PARCIAL. OBSERVÂNCIA À PRESCRIÇÃO QUINQUENAL. APELAÇÃO CÍVEL. TESES. 1. IMPOSSIBILIDADE DE CÔMPUTO DO TEMPO DE SERVIÇO PRESTADO SOB O REGIME CELETISTA. 2. DIREITO À PERCEPÇÃO DOS QUINQUÊNIOS PREVISTO NA LEI DE Nº 597/2008 SOMENTE A PARTIR DE JULHO DE 2013, VEDADA A CONCESSÃO DE EFEITOS RETROATIVOS A LEI QUE INSTITUIU OS QUINQUÊNIOS. NÃO ACOLHIDAS. CONSOANTE ARTIGO 93 DA LEI MUNICIPAL DE Nº 597/2008, O TEMPO DE SERVIÇO PÚBLICO MUNICIPAL, PRESTADO INCLUSIVE ÀS FORÇAS ARMADAS, MERECE SER CONTADO PARA TODOS OS EFEITOS LEGAIS. SERVIDORA QUE INGRESSOU NO QUADROS DO MUNICÍPIO EM 1998, ATRAVÉS DE CONCURSO PÚBLICO, PELO REGIME CELETISTA. CONDIGNO O APROVEITAMENTO DO TEMPO PARA FINS DE CONCESSÃO DOS QUINQUÊNIOS DISCIPLINADOS NOS ARTIGOS 55 E 61 DA LEI DE Nº 597/2008, QUE ALTEROU O VÍNCULO JURÍDICO DOS SERVIDORES PARA ESTATUTÁRIO. VEDAÇÃO À INTERPRETAÇÃO RESTRITIVA. OBSERVÂNCIA AO PRINCÍPIO DA LEGALIDADE. PRECEDENTES JURISPRUDENCIAIS DAS CORTES SUPERIORES. RECURSO CONHECIDO. PROVIMENTO NEGADO. MATÉRIAS DE ORDEM PÚBLICA. MODIFICAÇÃO DOS JUROS E DA CORREÇÃO MONETÁRIA. MAJORADOS OS HONORÁRIOS, NOS TERMOS DO ART. 85 § 11º do NCPC. SENTENÇA PARCIALMENTE MODIFICADA. DECISÃO UNÂNIME.
+O recorrente alega violação do art. 6º do Decreto-Lei 4.657/1942, porquanto o acórdão recorrido "aplica de forma retroatividade uma legislação para fatos ocorridos antes da sua vigência, sem o preenchimento dos requisitos" (fl. 155).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 169-171.
+É o relatório. Passo a decidir.
+A pretensão recursal não merece prosperar.
+Isso porque, a despeito da parte apontar violação a dispositivo de lei federal - art. 6º do Decreto-Lei 4.657/1942, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento na Lei Orgânica do Município ora recorrente e na Lei Municipal 597/2008, razão pela qual o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Ademais, verifica-se que não houve juízo de valor por parte da Corte de origem acerca do dispositivo de lei federal tido por violado, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que sequer foram opostos embargos de declaração na origem com o intuito de instar a Corte de origem a se manifestar acerca de tal aspecto
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
