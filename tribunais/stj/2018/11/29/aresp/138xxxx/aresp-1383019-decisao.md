@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. CREDOR TITULAR DE POSIÇÃO DE PROPRIETÁRIO FIDUCIÁRIO SOBRE DIREITOS CREDITÍCIOS. NÃO SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, NOS TERMOS DO § 3º DO ART. 49 DA LEI N. 11.101/2005. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação e busca e apreensão devido ao inadimplemento de contrato de alienação fiduciária celebrado entre as partes.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Encontra-se sedimentada no âmbito das Turmas que compõem a Segunda Seção do Superior Tribunal de Justiça a compreensão de que a alienação fiduciária de coisa fungível e a cessão fiduciária de direitos sobre coisas móveis, bem como de títulos de crédito, justamente por possuírem a natureza jurídica de propriedade fiduciária, não se sujeitam aos efeitos da recuperação judicial, nos termos do § 3º do art. 49 da Lei n. 11.101/2005.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ENERGY CONDUTORES DO BRASIL LTDA - EM RECUPERAÇÃO JUDICIAL, contra decisão interlocutória que negou seguimento a recurso especial fundamentado na alínea "c" do permissivo constitucional.
+Ação: de busca e apreensão, ajuizada por COOPERATIVA DE CREDITO, POUPANCA E INVESTIMENTO CENTRO SUL - SICREDI CENTRO SUL PR/SC/RJ, em face da agravante, devido ao inadimplemento de contrato de alienação fiduciária celebrado entre as partes, na qual pleiteia a busca e apreensão dos bens dados em garantia.
+Sentença: julgou procedente o pedido, rescindindo o contrato e consolidando no patrimônio da agravada o domínio e a posse plena e exclusiva dos bens dados em garantia, cuja apreensão liminar torno definitiva, extinguindo o processo com resolução do mérito (art. 487, I, do CPC). No que tange aos dois veículos, facultou a venda extrajudicial dos bens pela agravada, e, com relação aos quatro maquinários, determinou que permanecessem com a agravante, até o trânsito em julgado da ação.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. CÉDULA DE CRÉDITO BANCÁRIO GARANTIDA POR MEIO DE ALIENAÇÃO FIDUCIÁRIA. EMPRESA EM RECUPERAÇÃO JUDICIAL. CRÉDITO NÃO SUJEITO À RECUPERAÇÃO JUDICIAL. ART. 49, §3º DA LEI 11.101/2005. BENS ESSENCIAIS À ATIVIDADE DA EMPRESA. MANUTENÇÃO COM A SOCIEDADE RECUPERANDA ATÉ O TRÂNSITO EM JULGADO DA AÇÃO. APELAÇÃO CONHECIDA E DESPROVIDA. (e-STJ Fl. 258)
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega a ocorrência de dissídio jurisprudencial em relação à interpretação conferida ao art. 49, § 3º, da Lei nº 11.101/05. Sustenta que o acórdão recorrido diverge da orientação de diversos tribunais, no sentido de garantir o seguimento da empresa em recuperação judicial, estendendo a suspensão da eficácia do mandado para além do prazo de 180 (cento e oitenta) dias previsto em lei.
+Relatado o processo, decide-se.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o fundamento utilizado pelo TJ/PR de que "tal prazo encontra-se findo há mais de um ano e meio, conforme se depreende dos autos (11. 160 - CD-ROM). Mesmo findo o referido prazo, o magistrado a quo decidiu pela manutenção dos bens com a Apelante, em razão de sua essencialidade. Desse modo, não se descuidou da cautela necessária ao caso em tela" (e-STJ Fl. 263). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na espécie, a Súmula 283/STF.
+- Da Súmula 568/STJ
+O TJ/PR, ao decidir que os direitos creditórios decorrentes de alienação fiduciária não se sujeitam aos efeitos da recuperação judicial, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no AREsp 884.153/SP, Terceira Turma, Dje de 28/09/2017 e AgInt no AREsp 854.803/SP, Quarta Turma, Dje de 15/02/2017.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados anteriormente para 15% (quinze por cento) do valor atribuído à causa.
+Publique-se. Intimem-se.
