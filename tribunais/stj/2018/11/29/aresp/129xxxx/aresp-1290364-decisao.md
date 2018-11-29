@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENDÊNCIA. AÇÃO DECLARATÓRIA INEXISTÊNCIA DE DÉBITO. PREJUDICIALIDADE. RECONHECIDA. SUSPENSÃO. POSSIBILIDADE. PRECEDENTES. INCIDÊNCIA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Banco do Brasil S.A., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 144):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. REUNIÃO DO FEITO POR CONEXÃO À AÇÃO DECLARATÓRIA EM FASE DE ELABORAÇÃO DE CÁLCULO PERICIAL. PREJUDICIALIDADE EXTERNA RECONHECIDA. SUSPENSÃO DO FEITO EXECUTIVO ATÉ A DECISÃO FINAL DA AÇÃO EM APENSO. POSSIBILIDADE. DECISÃO MANTIDA. 1. Em atenção aos artigos 313, inciso V, alínea "a" e 921, inciso I, ambos do Código de Processo Civil, demonstrada a possibilidade de desconstituição do título executivo que embasa a demanda, ante a existência de questão prejudicial externa, é prudente a determinação de suspensão da ação executiva até a decisão de mérito do feito conexo, em fase de averiguação dos valores devidos aos executados, ora agravados, antes do regular prosseguimento da execução, que atualmente encontra-se garantida por penhora de imóveis. 2. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 191-198).
+Em suas razões de recurso especial o recorrente alegou violação dos arts. 784, § 1º, e 921 do Código de Processo Civil de 1973.
+Sustentou, em síntese, a desnecessidade de suspensão da execução, visto que "o processo de execução é autônomo em relação ao processo de conhecimento, diante do que a interposição de ação declaratória não tem o condão de suspender a ação de execução, especialmente quando tiver sido indeferida a antecipação da tutela na declaratória, como é o caso dos autos" (e-STJ, fls. 212-213)
+Foram apresentadas contrarrazões (e-STJ, fls. 240-247).
+Juízo negativo de admissibilidade (e-STJ, fls. 249-250).
+Brevemente relatado, decido.
+O acórdão impugnado deixou assente a existência de questão prejudicial a autorizar a suspensão da execução, ante a sua prejudicialidade, nos seguintes termos (e-STJ, fls. 142-143):
+ ..  a controvérsia cinge-se na decisão proferida pelo magistrad singular que deferiu o pedido dos executados/agravados, consistente na suspensão do feito até a decisão final dos autos da ação declaratória envolvendo as mesmas partes, que encontra-se em fase de perícia contábil, levando em consideração a inércia do exequente em apresentar documentos de averbação da penhora conforme determinado em juízo.
+Pretende o recorrente o prosseguimento da ação de execução, por se tratar de processo autônomo em relação à declaratória, entendendo não haver razão para a suspensão do feito.
+Pois bem, da análise dos autos entendo que a decisão fustigada não merece reparos.
+Pela leitura do caderno processual, constata-se que o julgador singular, prezando pela economia processual e, vislumbrando a ocorrência de conexão entre demandas, uniu os feitos que envolvem as partes litigantes, a fim de dar maior celeridade ao julgamento e evitar prolatação de decisões conflitantes.
+Ademais, com base em crédito dos executados em desfavor do exequente, ora agravante, ordenou a suspensão do feito até a decisão final da ação declaratória autuada sob o nº 201303244254, que encontra-se em fase de elaboração de cálculos periciais.
+No caso em exame, entendo que demonstrada a existência de questão prejudicial externa, que deve ser decidida antes do regular prosseguimento da execução, que atualmente encontra-se garantida pela penhora de imóveis, isto em conformidade com os artigos 313, inciso V, alínea "a" e 921, inciso I, ambos do Código de Processo Civil.
+O entendimento desta Corte Superior é de que será "possível a suspensão do processo executivo em virtude da conexão existente entre este e o processo de anulação ou revisão da dívida executada, haja vista a identidade de partes e causa de pedir, máxime porque, uma vez julgado procedente o feito cognitivo, o débito exequendo pode vir a ser reduzido ou quiçá extinto" (REsp n. 1.118.595/MT, Rel. o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/11/2013, DJe 6/12/2013).
+No caso, o entendimento adotado pelo acórdão recorrido está em sintonia com a jurisprudência acima delineada, o que atrai a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
