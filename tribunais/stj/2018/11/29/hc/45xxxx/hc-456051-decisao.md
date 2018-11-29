@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Sergipe, contra acórdão assim ementado:
+"AGRAVO  EM  EXECUÇÃO  PENAL  - DESCUMPRIMENTO  DAS  REGRAS DO REGIME ABERTO - AUSÊNCIA DE  COMPARECIMENTO,  POR DIVERSAS  VEZES,  DE  FORMA INJUSTIFICADA,  PARA O  INÍCIO DO  CUMPRIMENTO  DA  PENA  EM REGIME  ABERTO  - POSSIBILIDADE  DE  REGRESSÃO A  REGIME  MAIS  GRAVOSO  - DECISÃO  FUNDAMENTADA  E PROPORCIONAL  -  VIOLAÇÃO  À AUTODISCIPLINA  DO  REGIME ABERTO  ARTIGOS 36, § 2º, DO CÓDIGO  PENAL  E  118,  §1º,  DA LEI  DE  EXECUÇÃO  PENAL  - PRECEDENTE  DO  STJ  -  AGRAVO DE  EXECUÇÃO  CONHECIDO  E IMPROVIDO" (e-STJ, fl. 24).
+Colhe-se dos autos que o paciente, condenado à pena de 2 anos e 8 meses de reclusão, em regime inicial aberto, foi regredido para o regime fechado, em razão de seu não comparecimento, reiterado, ao núcleo psicossocial do Juízo da execução.
+Inconformado com a regressão, a defesa impetrou agravo em execução no Tribunal de origem que negou provimento ao recurso.
+Neste writ, o impetrante alega que a regressão ocorreu porque o apenado deixou de comparecer em Juízo para início de cumprimento da pena, porém, não é sua intenção esquivar-se do cumprimento.
+Aduz que a decisão do Tribunal é desproporcional, ante a possibilidade de se colocar o paciente no regime intermediário. Além disso, todas as ausências do apenado foram justificadas.
+Assevera que a regressão per saltum viola o princípio da proporcionalidade e configura patente constrangimento ilegal imposto ao paciente, já que não respeita os parâmetros da execução penal nem "a jurisprudência e a melhor doutrina".
+Requer, liminarmente e no mérito, a colocação do paciente no regime semiaberto.
+O pedido de liminar foi indeferido (e-STJ, fl. 43).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 311-316).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se identifica o manifesto constrangimento sustentado pela defesa.
+Segundo se afere dos autos, o Juízo da execução, verificando que o sentenciado reiteradamente deixou de iniciar o cumprimento da pena, determinou a sua prisão nos seguintes termos:
+"Nestes autos se executa a pena total de reclusão de 2 anos e 8 meses em regime inicial aberto, imposta a [NOME] [NOME] [NOME].
+Compulsando os autos, verifico que em 15/08/2014 foi determinada a regressão do condenado por inexistir registro de seu comparecimento a Juízo para justificar suas atividades.
+O mandado de prisão foi cumprido em 27/11/2014.
+Em 03/12/2014, o condenado, através de seu advogado, requereu a reconsideração da decisão de regressão sustentando que sempre residiu nesta Comarca e que nunca teve a intenção de descumprir a reprimenda que lhe fora aplicada. Juntou, inclusive, comprovante de residência.
+O pleito foi acolhido, a decisão foi reconsiderada em 16/12/2014 e determinada a expedição de alvará de soltura e designado o comparecimento ao Núcleo psicossocial deste Juízo para 02/12/2015.
+Na data acima referida, o condenado não compareceu e foi intimado para justificar o descumprimento da condição imposta por este Juízo.
+Em 11/03/2016, a defesa alegou que o motivo do não comparecimento do condenado foi por estar o mesmo acometido de dengue. Novamente, esta Juízo acolheu a justificativa e redesignou nova data, sendo o dia 12/04/2017 para o comparecimento ao núcleo desta Juízo.
+Em 20/04/2017, o núcleo psicossocial desta Juízo informou o não comparecimento de [NOME].
+Instado a se manifestar, o Ministério Público pugnou pela regressão de regime. A defesa, em 03/05/2017 apresentou novo endereço do condenado e, mais uma vez, requereu a redesignação do seu comparecimento em Juízo.
+Decido.
+ ..
+Foram ofertadas ao condenado inúmeras oportunidades para o início do cumprimento da pena, entretanto, restaram frustradas pela ausência de comparecimento do mesmo em todas elas.
+A petição juntada em 03/05/2017 sequer trouxe uma justificativa quanto a ausência em Juízo no dia 12/04/2017. A intimação foi encaminhada para o endereço fornecido nestes autos e o despacho publicado para que o advogado cadastrado também tivesse conhecimento da data designada.
+Demonstra o executado, claramente, com estes atos, que pretende frustrar a execução da pena, fugindo ou eliminando a autoridade judiciária e que não tem condições de permanecer no regime aberto domiciliar.
+Assim, com amparo no art. 118, I, da LEP, determino a regressão de [NOME] ao regime fechado de cumprimento de pena.
+ ..
+Expeça-se mandado de prisão" (e-STJ, fl. 31-32).
+O Tribunal de origem, por sua vez, julgou o agravo em execução da seguinte forma:
+"Pois bem. Analisando detidamente os autos do processo de execução nº 201320700312, verifico que o apenado foi condenado a uma pena de 02 (dois) anos e 08 (oito) meses de reclusão em regime aberto, a qual foi substituída por 02 (duas) restritivas de direitos.
+Ocorre eu, diante do não cumprimento das penas restritivas de direitos pelo apenado nos autos do processo de execução nº 201221100087, tais penas foram convertidas em privativa de liberdade, em regime aberto, gerando o processo de execução nº 201320700312, acima já referido.
+Todavia, apesar de devidamente intimado para iniciar o cumprimento da pena em regime aberto, o apenado não compareceu e, em 15/08/2014, teve seu regime prisiional regredido para o fechado.
+Contudo, a defesa do apenado requereu a reconsideração da decisão que regrediu o regime, sendo que o Magistrado a quo, em 17/12/2014, reconsiderou a decisão e reestabeleceu o regime aberto.
+Entretanto, intimado mais uma vez para comparecer ao Núcleo Psicossocial da Vara de Execuções Criminais no dia 02/12/2015, para o início do cumprimento da reprimenda em regime aberto, após seu reestabelecimento, o apenado não compareceu, conforme informação juntada aos autos em 11/12/2015, razão pela qual foi determinada a sua intimação para justificar o não comparecimento, tendo a Defesa, em 11/03/2016, apresentado justificativa para a ausência, o que foi, mais uma vez, acolhido pelo Juízo a quo em 06/04/2016.
+Seguindo  com  a  execução,  o  apenado  foi  intimado,  através  de  seu  causídico, para comparecer ao Núcleo Psicossocial da VEC no dia 12/04/2017, entretanto, mais uma vez, não compareceu, conforme informação juntada aos autos em 20/04/2017, sendo que a Defesa outra vez tentou justificar a ausência, conforme petição juntada aos autos em 03/05/2017, o que não foi acolhido pelo Magistrado a quo que, após parecer do Ministério Público, proferiu decisão regredindo o apenado para o regime fechado, consoante decisão lançada aos autos em 05/05/2017.
+Ora, da análise do figurino processual do apenado, percebe-se que este a todo tempo agiu de forma a frustrar os fins da execução penal no regime aberto, máxime quando intimado diversas vezes e não comparecia ao setor psicossocial da Vara de Execuções Criminais para o cumprimento de sua reprimenda, isso tudo sem apresentar qualquer justificativa plausível.
+Por conta disso, é que se revogou o regime aberto concedido na sentença condenatória, determinando a regressão para o fechado, nos termos dos artigos 36, § 2º, do Código Penal e 118, §1º, da Lei de Execução Penal, verbis:
+Art. 36 - O regime aberto baseia-se na autodisciplina e senso de responsabilidade do condenado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - O condenado deverá, fora do estabelecimento e sem vigilância, trabalhar, frequentar curso ou exercer outra atividade autorizada, permanecendo recolhido durante o período noturno e nos dias de folga. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - O condenado será transferido do regime aberto, se praticar fato definido como crime doloso, se frustrar os fins da execução ou se, podendo, não pagar a multa comulativamente aplicada. (Redação dada pela Lei nº 7.209, de 11.7.1984). (Grifamos).
+Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado:
+I - praticar fato definido como crime dolosos ou falta grave;
+II - sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime (art. 111).
+§ 1º O condenado será transferido do regime aberto se, além das hipóteses referidas nos incisos anteriores, frustrar os fins da execução ou não pagar, podendo, a multa cumulativamente imposta.
+(..). Grifamos.
+Assim, diante das diversas tentativas do apenado de não cumprir a sua pena em regime aberto, do qual já havia sido, inclusive, regredido anteriormente à decisão hora combatida, conforme acima já exposto, torna-se necessário o cumprimento da pena pelo sentenciado em regime mais gravoso daquele estabelecido na sentença condenatória, no caso, o fechado, por se mostrar proporcional à situação do apenado.
+ ..
+Portanto, malgrado o agravante aduza ilegalidade na decisão que o regrediu de regime prisional, as provas constantes nos autos e acima expostas demonstram que a decisão foi acertada e necessária para que o apenado cumpra a reprimenda que lhe foi imposta" (e-STJ, fls. 25-27, grifos no original).
+Como visto, a Corte local, confirmando o entendimento do Juízo da execução criminal, concluiu que o apenado vinha frustrando a execução da pena e, afastar o entendimento a que se chegou as instâncias ordinárias e acatar a tese de que a intenção do paciente nunca fora esquivar-se do cumprimento da reprimenda e que todas as suas ausências foram justificadas demandaria o revolvimento fático-probatório o que é inviável na estreita via do habeas corpus.
+Nesse sentido, confira-se o seguinte julgado:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME INDEFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITO SUBJETIVO. AUSÊNCIA. PARECER PSICOSSOCIAL DESFAVORÁVEL. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO. 1. Nos termos da jurisprudência desta Corte, desde a Lei n. 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada. Precedentes.
+2. Mesmo que inexigível, uma vez realizado o exame criminológico, nada obsta sua utilização pelo magistrado como fundamento válido para o indeferimento do pedido de progressão de regime. Precedentes.
+3. A jurisprudência desta Corte Superior tem considerado admissível e fundamentada a decisão que indefere a progressão de regime com base em relatório psicossocial desfavorável, tal como ocorreu na hipótese. Precedentes.
+4. A alteração da conclusão alcançada pelas instâncias ordinárias, acerca do preenchimento do requisito subjetivo para a progressão de regime, demanda o revolvimento no contexto fático-probatório dos autos, é inviável na via estreita do writ.
+5. Agravo regimental improvido." (AgRg no HC 442.013/SP, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 4/9/2018, DJe 12/9/2018, sem grifo no original.)
+Ademais, não há falar em violação ao princípio da proporcionalidade pela regressão per saltum, pois a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que a execução da pena se sujeita à forma regressiva, podendo o condenado ser transferido para quaisquer dos regimes previstos no art. 33 do Código Penal, conforme se extrai do art. 118 do Estatuto das Execuções Penais.
+Confira-se, a propósito, os seguintes julgados:
+""HABEAS CORPUS". EXECUÇÃO DA PENA. FALTA GRAVE. REGRESSÃO DE REGIME. PASSAGEM DO REGIME ABERTO PARA O REGIME FECHADO. SUPOSTA ILEGALIDADE NA REGRESSÃO "PER SALTUM". FUNDAMENTAÇÃO SUFICIENTE.
+1. Os Tribunais Superiores restringiram o uso do "habeas corpus" e não mais o admitem como substitutivo de recursos, e nem sequer para as revisões criminais.
+2. A execução da pena se submete à forma regressiva. Por isso, o condenado pode ser transferido para qualquer dos regimes previstos no art. 33, do Código Penal, dependendo de avaliação do Juízo das Execuções ou do Tribunal das circunstâncias e peculiaridades do caso concreto para decidir o regime adequado.
+3. "Habeas corpus" não conhecido." (HC 273.726/MG, rel. Ministro MOURA RIBEIRO, QUINTA TURMA, j. 25/3/2014, DJe 31/3/2014, sem grifo no original.)
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. REGRESSÃO PER SALTUM DE REGIME PRISIONAL.
+POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. 3. HABEAS CORPUS NÃO CONHECIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, buscando a racionalidade do ordenamento jurídico e a funcionalidade do sistema recursal, vinha se firmando, mais recentemente, no sentido de ser imperiosa a restrição do cabimento do remédio constitucional às hipóteses previstas na Constituição Federal e no Código de Processo Penal. Nessa linha de evolução hermenêutica, o Supremo Tribunal Federal passou a não mais admitir habeas corpus que tenha por objetivo substituir o recurso ordinariamente cabível para a espécie. Precedentes. Contudo, devem ser analisadas as questões suscitadas na inicial no intuito de verificar a existência de constrangimento ilegal evidente - a ser sanado mediante a concessão de habeas corpus de ofício -, evitando-se prejuízos à ampla defesa e ao devido processo legal.
+2. A execução da pena sujeita-se à forma regressiva, podendo o condenado ser transferido para qualquer dos regimes previstos no art. 33 do Código Penal, consoante a redação do art. 118 da Lei de Execução Penal. Assim, não é necessária a observância da forma progressiva descrita no art. 112 da Lei n. 7.210/1984, competindo ao julgador analisar as circunstâncias do caso e decidir o regime adequado à espécie. Precedentes.
+3. Habeas corpus não conhecido." (HC 283.199/MG, rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, j. 25/2/2014, DJe 7/3/2014, sem grifo no original.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
