@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado do Piauí contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. AUDITOR FISCAL DE CONTROLE EXTERNO. EXISTÊNCIA DE CANDIDATO APROVADO EM CONCURSO AINDA VÁLIDO. PRETERIÇÃO CARACTERIZADA EM FACE DA AUSÊNCIA DE NOMEAÇÃO. COMPROVAÇÃO DA NECESSIDADE E PERENIDADE DA VAGA OFERTADA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Convém assinalar, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF, 280/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    Com efeito, para se acolher o pleito deduzido nesta sede recursal, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo.
+    Registre-se, ainda, que a questão ora em exame foi também decidida com base no direito local (Lei estadual nº 5.242/2002), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em aspectos fático-probatórios, em interpretação de direito local e em interpretação de cláusula de edital:
+    “Após efetivação do concurso previsto no Edital nº 01/2002, alterou-se o plano de cargo e salário do Tribunal de Contas do Estado, mediante a edição da Lei Estadual nº 5.242/2002.
+    …...................................................................................................
+    Diante de tais artigos, conclui-se que os concursos públicos para preenchimento de vagas nos cargos de Auditor Fiscal, não expirados na data de entrada em vigor da lei que reestruturou o plano de cargos do Tribunal de Contas, são válidos para ingresso nos cargos de Auditor Fiscal de Controle Externo. Com esse entendimento, não pode prosperar o argumento de que o concurso para provimento do cargo de Auditor Fiscal de Controle Externo não se referia ao mesmo cargo para o qual concorreu o Apelado.
+    Há que se esclarecer que a Administração Pública, com o fito de regulamentar o certame, estabelece o edital que exerce a função de lei do concurso público, vinculando tanto o Poder Judiciário quanto os candidatos, preestabelecendo normas garantidoras da isonomia de tratamento e igualdade de condições no ingresso no serviço público.
+    …...................................................................................................
+    Logo, do edital desse certame, verifica-se que o prazo de validade do presente concurso corresponde à data de 18/06/2004, ocorre que o Tribunal de Contas do Estado prorrogou o mencionado prazo de validade do concurso por mais dois anos, nos termos da Resolução nº 635/04, validando o certame até o ano de 2006.
+    Desta feita, a realização de concurso em janeiro de 2005 para preenchimento de mais de dez vagas para o mesmo cargo em que foi aprovado o Apelado, sem observar que o certame ocorrido em 2002 ainda não havia expirado, criou um direito de preferência de tais vagas para candidatos que lograram êxito no certame anterior.”
+    Sendo assim, e em face das razões expostas não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro CELSO DE MELLO
+Relator
