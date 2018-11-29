@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 203, de 16 de novembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF
+EMENTA: REMESSAS PARA O EXTERIOR. GASTOS PESSOAIS NO EXTERIOR DE PESSOA FÍSICA RESIDENTE NO PAÍS EM VIAGENS DE TURISMO, NEGÓCIOS, SERVIÇO, TREINAMENTO OU MISSÕES OFICIAIS.
+Os valores pagos, creditados, entregues, empregados ou remetidos para o exterior destinados à cobertura de gastos pessoais, no exterior, de pessoas físicas residentes no País em viagens de turismo, negócios, serviço, treinamento ou missões oficiais sujeitam-se à incidência do Imposto sobre a Renda na fonte à alíquota de 25% (vinte e cinco por cento).
+A partir de 2 de março de 2016 e até 31 de dezembro de 2019, fica reduzida a 6% (seis por cento) a alíquota do Imposto sobre a Renda incidente na fonte sobre os valores pagos, creditados, entregues, empregados ou remetidos para pessoa física ou jurídica residente ou domiciliada no exterior destinados à cobertura de gastos pessoais, no exterior, de pessoas físicas residentes no País, em viagens de turismo, negócios, serviço, treinamento ou missões oficiais, observados os termos, limites e condições estabelecidos no art. 60 da Lei nº 12.249, de 2010, com a redação dada pelo art. 1º da Lei nº 13.315, de 2016, e na Instrução Normativa RFB nº 1.645, de 2016.
+DISPOSITIVOS LEGAIS: Lei nº 9.779, de 19 de janeiro de 1999, art. 7º; Lei nº 12.249, de 11 de junho de 2010, art. 60; Medida Provisória nº 713, de 1º de março de 2016, art. 1º; Lei nº 13.315, de 2016, art. 1º; Instrução Normativa RFB nº 1.611, de 25 de janeiro de 2016, art. 2º; Instrução Normativa RFB nº 1.645, de 30 de maio de 2016, arts. 2º e 3º.
+.
+[arquivo anexo: SC Cosit nº 203-2018.pdf]
