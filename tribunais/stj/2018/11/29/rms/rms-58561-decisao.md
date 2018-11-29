@@ -1,0 +1,34 @@
+DECISÃO
+Relatório.
+Cuida-se de recurso em mandado de segurança interposto por [NOME] para reformar o acórdão às fls. 339 a 352, proferido à unanimidade pela 4.ª Câmara Cível do Tribunal de Justiça do Estado do Paraná e sintetizado pela seguinte ementa:
+MANDADO DE SEGURANÇA. PROCESSO SELETIVO SIMPLIFICADO PARA O CARGO DE PROFESSOR DO ESTADO. DISCIPLINA DE MATEMÁTICA. PRETENSÃO DE ACEITAÇÃO DO CERTIFICADO DE CONCLUSÃO DE CURSO DE LICENCIATURA PLENA EM "FORMAÇÃO DE PROFESSORES" EMITIDO PELA ISULPAR. DOCUMENTO QUE NÃO ATENDE AO ITEM 5.1.1, "B", DO EDITAL N.º 58/2016. NECESSIDADE DE CONCLUSÃO DE CURSO ESPECIAL DE FORMAÇÃO PEDAGÓGICA EQUIVALENTE À LICENCIATURA NA DISCIPLINA DE INSCRIÇÃO. RESOLUÇÃO N.º 02/1997 DO CONSELHO NACIONAL DE EDUCAÇÃO. INSTITUIÇÃO DE ENSINO SUPERIOR QUE NÃO OFERTA REGULARMENTE O CURSO SUPERIOR DE LICENCIATURA EM MATEMÁTICA. AUSÊNCIA DE AUTORIZAÇÃO PARA OFERTAR O CURSO ESPECIAL DE FORMAÇÃO PEDAGÓGICA EM MATEMÁTICA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+Consta dos autos que a recorrente participou do processo seletivo simplificado promovido pela Secretaria Estadual de Educação, regulado pelo Edital n. 58/2016, para provimento de vagas temporárias para ensino da disciplina de matemática. Ocorreu que, mesmo aprovada e classificada dentro das vagas ofertadas, não foi admitida no serviço porque, segundo relatou, os certificados que apresentou para comprovar sua habilitação não teriam atendido às exigências preconizadas no respectivo instrumento convocatório.
+Nas razões recursais, fls. 373 a 382, pondera que o certificado por ela apresentado - Curso de Formação de Professores - tem carga horária de setecentas e vinte horas, bem superior às quinhentas e quarenta horas exigidas no edital, atende ao previsto na Resolução n. 02/1997, do Conselho Nacional de Educação e foi expedido por instituição credenciada, não existindo razão para não ser aceito, mormente quando considerado o fato de que a recorrente lecionou matemática nos anos de 2013, 2014 e 2016, utilizando-se da mesma certificação que é agora questionada. Requer, por isso, o provimento do recurso.
+O Estado do Paraná apresentou as contrarazzões de fls. 386 a 397, nas quais defendeu a manutenção integral do acórdão recorrido, basicamente sob o argumento de que o documento apresentado pela candidata não atendeu às normas editalícias.
+O Ministério Público Federal, pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não provimento do presente apelo, consoante o parecer às fls. 417 a 419, assim referenciado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCESSO SELETIVO SIMPLIFICADO. PRETENSÃO DE ACEITAÇÃO DO CERTIFICADO DE CONCLUSÃO DE CURSO DE LICENCIATURA PLENA. INCOMPATIBILIDADE COM AS EXIGÊNCIAS DO EDITAL. (fl. 417).
+Benefício de gratuidade deferido pela Corte Estadual (fl. 263).
+Representação regular (fls. 27 e 315).
+Decisão.
+O provimento do recurso ordinário constitucional, interposto contra decisão denegatória da segurança pressupõe a demonstração de erro, de procedimento ou de aplicação do direito, no acórdão recorrido. Porém, não há erro de aplicação se os fundamentos do acórdão recorrido são harmônicos com a jurisprudência das Cortes Superiores.
+Adotadas essas premissas, passa-se ao exame do presente apelo.
+O Tribunal Araucariano, consoante a fundamentação do acórdão recorrido, denegou a segurança por entender que a documentação apresentada pela impetrante, em razão de sua generalidade, não atendeu às exigências específicas do edital que regulou o certame. Por outras palavras, o que se afirmou é que o direito da impetrante, acaso existente, não é líquido, nem certo.
+Com feito, da leitura do voto condutor do acórdão recorrido extrai-se, sem maiores dificuldades, que o certificado apresentado "não parece atender aos requisitos do Edital n. 58/2016, que exige certificado de conclusão de curso de programa de formação pedagógica equivalente à licenciatura na disciplina de inscrição" isso porque não faz "qualquer referência à disciplina de Matemática" (fl. 342).
+Ora, a jurisprudência desta Corte é firme no sentido de que a via mandamental não admite dilação probatória, pelo que também a liquidez e certeza do direito que a parte alega possuir deve ser demonstrado por acervo probatório idôneo, já apresentado com a peça exordial.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO LÍQUIDO E CERTO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. "A opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual e da prioridade na tramitação em relação às ações ordinárias, porém, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado" (AgRg no MS 19.025/DF, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 21/9/2016).
+ ..
+4 Agravo interno não provido.
+(AgInt no RMS 56.351/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 05/10/2018)
+Logo, quanto a isso, o acórdão em nada se afasta da linha jurisprudencial deste STJ.
+Ademais, remanescendo eventual dúvida quanto ao direito vindicado, como se verificou no caso, a denegação da ordem é medida que se impõe.
+A propósito:
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL. DEMISSÃO. VALIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR. ALEGAÇÃO DE DÚVIDA QUANTO AOS FATOS IMPUTADOS AO SERVIDOR. PRINCÍPIO DO IN DUBIO PRO REO. INADEQUAÇÃO DO WRIT. RAZOABILIDADE E PROPORCIONALIDADE DA PENA DE DEMISSÃO. ATO ADMINISTRATIVO VINCULADO. IMPOSSIBILIDADE DE SUA REAVALIAÇÃO EM SEDE MANDAMENTAL. AUSÊNCIA DE ABUSO OU ILEGALIDADE POR PARTE DA AUTORIDADE ADMINISTRATIVA JULGADORA. ORDEM DENEGADA.
+1. Os arts. 5º, LXIX, da Constituição Federal e 1º da Lei 12.016/2009 autorizam o emprego do writ tão somente ".. para proteger direito líquido e certo", cuja violação deve ser demonstrável de plano, por isso que a incerteza quanto aos fatos historiados pela parte impetrante não autoriza a concessão da segurança. Por essa mesma razão, não se pode, na estreita via mandamental, invocar a aplicação do princípio in dubio pro reo. Se, após o exame das provas documentais, ainda persistirem dúvidas quanto aos fatos alegados, a denegação da segurança é a medida que se impõe.
+ ..
+4. Segurança denegada.
+(MS 20.428/DF, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 24/08/2017)
+Portanto, não se vislumbra, no acórdão recorrido, erro que justifique a sua reforma. Merece, pois, ser mantido íntegro, por sua própria e robusta fundamentação.
+Por tudo isso, em harmonia com o parecer ministerial e com fundamento nos arts. 932, VIII, do CPC e 34, XVIII, "a", do RISTJ, bem como na Súmula 568/STJ, nego provimento ao presente recurso ordinário.
+Publique-se.
