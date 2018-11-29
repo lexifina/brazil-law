@@ -1,0 +1,57 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO DE VIDA. DECRETO DE LIQUIDAÇÃO EXTRAJUDICIAL. CORREÇÃO MONETÁRIA. INCIDÊNCIA. JUROS DE MORA. AFASTAMENTO. LEI Nº 6.024/74, ART. 18. APELO NOBRE A QUE SE DÁ PARCIAL PROVIMENTO.
+DECISÃO
+[NOME] e outros (BENEFICIÁRIOS) ajuizaram ação de cobrança contra FEDERAL DE SEGUROS S.A. EM LIQUIDAÇÃO EXTRAJUDICIAL (SEGURADORA).
+O Juízo de primeiro grau julgou procedentes, em parte, os pedidos, para condenar a requerida ao pagamento da indenização securitária no valor de R$ 300.000,00 (trezentos mil reais), corrigido monetariamente pelo IGP-M a contar de 16/10/2010 e acrescido de juros de mora de 1% ao mês desde a citação, a ser rateado entre os autores, resguardada a cota parte do herdeiro Miguel, que não figurara no polo ativo (e-STJ, fls. 185/192).
+A apelação interposta pela SEGURADORA foi parcialmente provida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, nos termos da seguinte ementa:
+AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. MORTE. SEGURADORA EM LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DO FEITO. DESCABIMENTO. VALOR DA INDENIZAÇÃO. OBSERVÂNCIA DO CAPITAL SEGURADO INDICADO NO CERTIFICADO INDIVIDUAL. JUROS E CORREÇÃO MONETÁRIA. CABIMENTO.
+I. Nos termos do art. 14, do CPC/2015, a norma processual não retroagirá, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada. Dessa forma, aplicam-se ao caso as disposições constantes do CPC/1973, em vigor quando da publicação da sentença.
+II. A suspensão das ações e execuções dos processos contra as empresas em liquidação extrajudicial prevista no art. 18, "a", da Lei Nº 6.024/74, busca a preservação do patrimônio da empresa, que, por se encontrar em liquidação, já está debilitado, bem com garantir o tratamento igualitário entre os credores, respeitando as suas categorias e seus privilégios. Por conseguinte, a suspensão não se aplica às ações de conhecimento, uma vez que as mesmas não têm reflexo direto no patrimônio da empresa e não existe risco de qualquer ato de constrição judicial de bens da massa. Precedentes do STJ.
+III. De acordo com o art. 757, caput, do Código Civil, pelo contrato de seguro, o segurador se obriga a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados. Desta forma, os riscos assumidos pelo segurador são exclusivamente os assinalados na apólice, dentro dos limites por ela fixados, não se admitindo a interpretação extensiva, nem analógica.
+IV. Na hipótese dos autos, o contrato de seguro de vida em grupo prevê expressamente que os capitais segurados da apólice são escalonados, com valor máximo de R$ 300.000,00, e que para cada segurado será enviado um certificado individual, contendo, dentre outras informações, os capitais segurados e prêmios de cada garantia. Assim, considerando que o certificado individual vigente quando do evento danoso define que o valor do capital segurado para o caso de morte é de R$ 6.092,59, este é o valor da indenização securitária devida aos autores.
+V. O montante indenizatório deverá ser corrigido monetariamente pelo IGP-M, a partir do evento danoso, uma vez que emitido certificado individual, "e acrescido dos juros moratórios de 1% ao mês, desde a citação. Inteligência da Súmula 38, deste Tribunal.
+VII. De outro lado, descabido o pedido de vedação da incidência de correção monetária e juros moratórios em decorrência da liquidação extrajudicial da seguradora-ré, tendo em vista que a correção monetária não importa em acréscimo, mas sim em recomposição do valor da moeda, enquanto que os juros moratórios são consectários legais decorrentes do inadimplemento de obrigação líquida, sendo devidos pela massa liquidanda. APELAÇÃO PARCIALMENTE PROVIDA (e-STJ, fls. 355/356).
+Os embargos declaratórios interpostos pela SEGURADORA foram rejeitados (e-STJ, fls. 383/390).
+Inconformada, a SEGURADORA manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando violação dos arts. (1) 18, d, da Lei nº 6.024/74. Sustentou que, decretada a liquidação extrajudicial, é vedada a fluência de juros, mesmo que estipulados, contra a massa, enquanto não integralmente pago o passivo aos credores habilitados, e apenas de sobejar ativo que os suporte; e (2) 18, f, da Lei nº 6.024/74, sob o argumento de ser proibida a correção monetária sobre o título executivo formado contra sociedade empresarial que se encontra em liquidação extrajudicial.
+As contrarrazões não foram apresentadas (e-STJ, fl. 438).
+O apelo nobre foi admitido na origem (e-STJ, fls. 503/521).
+É o relatório.
+Decido.
+A insurgência merece, em parte, prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da correção monetária e dos juros (art. 18, d e f, da Lei nº 6.024/74)
+No caso agora analisado, a Corte de origem compreendeu que não devem ser afastados os juros, tampouco a correção monetária, em virtude da superveniência da liquidação extrajudicial da SEGURADORA, com base nesses fundamentos:
+(..) mostra-se descabido o pedido de vedação da incidência de correção monetária e juros moratórios em decorrência da liquidação extrajudicial da seguradora-ré, tendo em vista que a correção monetária não importa em acréscimo, mas sim em recomposição do valor da moeda, enquanto que os juros moratórios são consectários legais decorrentes do inadimplemento de obrigação líquida, sendo devidos pela massa liquidanda (e-STJ, fl. 386)
+A SEGURADORA, por sua vez, defendeu a não incidência de juros e correção monetária, porquanto se encontra em liquidação extrajudicial.
+Pois bem.
+Esta Corte Superior é firme na orientação de que, mesmo em caso de a devedora estar sob o regime de liquidação extrajudicial, é devida correção monetária.
+Isso porque o art. 18, f, da referida da Lei nº 6.024/74 foi modificado pelo Decreto-Lei nº 1.477/76, que, em seu art. 1º, determina a incidência de correção monetária sobre a totalidade das obrigações de responsabilidade das entidades sob o referido regime.
+Todavia, de acordo com a jurisprudência do STJ, não há a fluência de juros, enquanto o passivo não estiver integralmente satisfeito, em observância ao art. 18, d, da Lei nº 6.024/74.
+A propósito do tema, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 3. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL. INDEFERIMENTO DO BENEFÍCIO. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE COMPROVAÇÃO DA CARÊNCIA DE RECURSOS. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. 4. CORREÇÃO MONETÁRIA. CABIMENTO E JUROS DE MORA. IMPOSSIBILIDADE. PRECEDENTES. 5. AGRAVO PARCIALMENTE PROVIDO PARA DETERMINAR QUE NÃO HAJA A FLUÊNCIA DE JUROS ENQUANTO NÃO FOR PAGO INTEGRALMENTE O PASSIVO.
+(..)
+4. É entendimento desta Corte que é devida a correção monetária, mesmo em regime de liquidação extrajudicial, e não há fluência de juros enquanto não integralmente pago o passivo. Por conseguinte, "após a satisfação do passivo aos credores habilitados, e havendo passivo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial" (REsp 1.102.850/PE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/11/2014, Dje 13/11/2014).
+5. Agravo interno parcialmente provido para determinar que não haja a fluência de juros enquanto não for pago integralmente o passivo.
+(AgInt no AREsp 1.083.938/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 15/12/2017 - sem destaques no original)
+RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. OBRIGAÇÕES. JUROS MORATÓRIOS. SUSPENSÃO. TERMO INICIAL. DECRETO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Fica suspensa a fluência de juros contra a instituição financeira, sejam legais ou contratuais, a partir do decreto de liquidação até o pagamento do passivo. Na hipótese de sobejar alguma quantia após a satisfação do principal, os juros serão pagos respeitada a ordem estabelecida no quadro geral de credores.
+Precedente.
+2. A princípio, a Lei nº 6.024/1974 suspendia a incidência de correção monetária sobre as dívidas da instituição financeira em liquidação extrajudicial. Porém, o art. 18, "f", da referida lei foi modificado, no ponto, pelo Decreto-Lei nº 1.477/1976, que prevê a incidência de correção monetária sobre a totalidade das obrigações de responsabilidade das entidades sob regime de liquidação extrajudicial.
+(..)
+4. Recurso especial parcialmente provido.
+(REsp 1.646.192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 24/3/2017)
+PROCESSUAL CIVIL E COMERCIAL. CORRETORA DE VALORES. REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. SÚMULA N. 211/STJ. DL N. 7.661/1945. ART. 44, VI. APLICAÇÃO. CORREÇÃO MONETÁRIA. CABIMENTO. SÚMULA N. 43/STJ. ATO ILÍCITO ABSOLUTO E ATO ILÍCITO RELATIVO. JUROS DE MORA. CITAÇÃO.
+(..)
+3. "É entendimento consolidado da Corte que a evolução dos fatos econômicos tornou insustentável a não-incidência da correção monetária, sob pena de prestigiar-se o enriquecimento sem causa do devedor, constituindo-se ela imperativo econômico, jurídico e ético indispensável à plena realização dos danos e ao fiel e completo adimplemento das obrigações" (REsp n. 247.685/AC, relator Ministro Sálvio de Figueiredo Teixeira, DJ de 5.6.2000).
+(..)
+5. Conforme disposto no art. 18, alínea "d", da Lei n. 6.024/1974, decretada a liquidação extrajudicial da empresa, não há fluência de juros enquanto não integralmente pago o passivo. No caso, porém, não tendo havido recurso da parte interessada quanto ao ponto, deve ser mantido o entendimento adotado no acórdão recorrido, que determinou a incidência da norma contida no art. 219 do CPC e, como consequência, fixou a fluência dos juros moratórios desde a citação válida.
+6. Recurso da primeira recorrente conhecido e parcialmente provido.
+Recurso da segunda recorrente parcialmente conhecido e desprovido.
+(REsp 887.131/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 14/10/2013)
+Dessarte, o acórdão recorrido, na parte em que manteve a correção monetária, não merece qualquer tipo de reparo. Entretanto, ao não afastar a incidência de juros, destoou da jurisprudência do STJ, razão por que deve ser, nessa parte, reformado.
+Ressalta-se, ainda, que consoante a Súmula nº 568 do STJ, O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de afastar a incidência dos juros, nos termos da fundamentação.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intime-se.
