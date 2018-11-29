@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. TEMA 6. RE 566.471. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO ESPECIAL. DESNECESSIDADE. MEDICAÇÃO SEMELHANTE OFERECIDA PELO SUS - SISTEMA ÚNICO DE SAÚDE. RECURSO IMPROVIDO.” (Doc. 52)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 57)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 196 da Constituição Federal. (Doc. 59)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice na Súmula 279 do STF. (Doc. 63)
+    Determinei a devolução do feito ao Tribunal de origem por entender que a controvérsia guardava identidade com o Tema 6 da repercussão geral. (Doc. 70)
+    Em novo juízo de admissibilidade, a Presidência da Segunda Turma Recursal do Estado de Pernambuco determinou, novamente, a subida dos autos a esta Corte, por entender que “o RE 566.471 refere-se ao dever do Estado de fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras de comprá-lo. Ocorre que o recurso extraordinário foi interposto pela parte autora em razão de o acórdão combatido haver entendido que, existindo medicamentos similares ao postulado, fornecidos pelo Sistema Único de Saúde (SUS), e não demonstrada nos autos a ineficácia do fármaco oferecido pela rede pública de saúde, o Estado não pode ser compelido ao fornecimento do tratamento médico solicitado. Destarte, determino o retorno dos autos ao STF, para as providências que entender cabíveis.” (Doc. 74)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O Ministro Marco Aurélio, relator do RE 566.471, sugeriu a seguinte tese referente ao Tema 6 submetido por esta Corte ao regime de repercussão geral: “o reconhecimento do direito individual ao fornecimento, pelo Estado, de medicamento de alto custo, não incluído na política nacional de medicamentos ou em programa de medicamentos de dispensação em caráter excepcional, constante de rol de aprovados, depende da demonstração da imprescindibilidade (adequação e necessidade), da impossibilidade de substituição, da incapacidade financeira do enfermo e da falta de espontaneidade dos membros da família solidária em custeá-lo, respeitadas as disposições sobre alimentos dos artigos 1.649 a 1.710 do Código Civil e assegurado o direito de regresso”.
+    Naquela ocasião, o Ministro Marco Aurélio também assentou os seguintes requisitos cumulativos para o Estado fornecer medicamento de alto custo: “a) incapacidade financeira de arcar com o custo do medicamento; demonstração de que a não incorporação do medicamento não resultou de decisão expressa dos órgãos competentes; c) inexistência de substituto terapêutico incorporado pelo SUS; d) comprovação de eficácia do medicamento pleiteado à luz da medicina baseada em evidências; e) propositura da demanda necessariamente contra a União, já que compete a ela a decisão final sobre a incorporação ou não de medicamentos ao SUS”.
+    Dessa forma, constata-se que a matéria versada no presente recurso extraordinário foi submetida por esta Corte ao regime da repercussão geral (Tema 6, RE 566.471, Rel. Min. Marco Aurélio).
+    Ex positis, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem.
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
