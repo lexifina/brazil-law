@@ -1,0 +1,30 @@
+DECISÃO
+O Presidente da Câmara de Vereadores de Piracicaba interpôs agravo regimental contra decisão do juízo do Tribunal de Justiça do Estado de São Paulo que deferiu parcialmente pedido de liminar em ação direta de inconstitucionalidade, ajuizada pelo Ministério Público do Estado de São Paulo, na qual se discute a constitucionalidade da criação de cargo em comissão no âmbito da Câmara Municipal de Piracicaba/SP.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo regimental nos termos da seguinte ementa (fl. 679):
+AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DESPACHO QUE DEFERIU PARCIALMENTE LIMINAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS. INEXISTÊNCIA DE ELEMENTOS NOVOS. QUESTÕES VENTILADAS NO RECURSO E QUE DIZEM RESPEITO AO PRÓPRIO MÉRITO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AGRAVO DESPROVIDO PARA MANTER O DEFERIMENTO PARCIAL DA LIMINAR.
+O agravante interpõe recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando, em síntese, que o Tribunal a quo, ao deferir parcialmente o respectivo pedido de liminar, suspendendo as nomeações para cargo em comissão na Câmara Municipal de Piracibada/SP, teria violado o art. 300 do CPC/2015, uma vez que os requisitos processuais do periculum in mora e fumus boni iuris não se encontrariam presentes no hipótese em tela, o que tornaria ilegal a concessão da medida cautelar (fls. 694-695).
+Após o oferecimento de contrarrazões (fls. 714-724), o Tribunal de origem negou seguimento ao recurso especial (fls. 726-727), tendo sido interposto o presente agravo.
+É o relatório Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Com relação à alegação de violação do dispositivo supra citado, verifica-se que o Tribunal a quo, ao deferir parcialmente o pedido de liminar na ação direta de inconstitucionalidade, dirimiu a controvérsia com base nas provas contidas nos autos, senão vejamos (fls. 684-688):
+O agravante vem rediscutir neste agravo interno, data venia, a própria questão de fundo e que deve ser objeto do mérito do julgamento da própria ação direta de inconstitucionalidade.
+Nesse mesmo passo, colho na jurisprudência desta C. Corte e do E. STF, precedentes que autorizam a manutenção da decisão que deferiu parcialmente a liminar.
+ ..
+Respeitado o entendimento e o notável esforço do agravante, as razões do deferimento parcial da concessão da liminar, em virtude da plausibilidade do direito afirmado, restam mantidas por seus próprios e jurídicos fundamentos, sem prejuízo, evidentemente, do que o C. Órgão Especial vier a decidir em julgamento final, quando haverá o aprofundamento no exame das questões trazidas à baila, especialmente porque, como é sabido, a liminar fica restrita à existência da relevância da fundamentação invocada e da probabilidade de que a pretensão venha a ser acolhida, de um lado, e o perigo da demora, de outro, requisitos que entendo presentes na espécie.
+ ..
+Por isso, é o caso de manter a decisão que deferiu parcialmente a liminar, justamente, porque tudo o mais ventilado neste recurso é mérito.
+Desse modo, para se concluir de modo diverso do acórdão recorrido, na forma pretendida pelo recorrente, no intuito de afastar a presença dos requisitos autorizadores da concessão da medida liminar, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. INOCORRÊNCIA. TUTELA ANTECIPADA. REEXAME DOS REQUISITOS. IMPOSSIBILIDADE. SÚMULAS 7 DO STJ E 735 DO STF. INCIDÊNCIA.
+1. Não há violação do art. 535 do CPC/1973 quando o órgão judicial, de forma coerente e adequada, externa fundamentação suficiente à conclusão do acórdão recorrido.
+2. É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever em recurso especial a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+3. Esta Corte de Justiça admite a mitigação do referido enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), situação que não se vislumbra na espécie.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1027507/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/06/2018, DJe 07/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ANTECIPAÇÃO DE TUTELA. MEDIDA DE URGÊNCIA. FALTA DE DEMONSTRAÇÃO. REVISÃO DO ENTENDIMENTO CONSAGRADO NO ACÓRDÃO RECORRIDO. INVIABILIDADE. NECESSIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA POR ANALOGIA DA SÚMULA 735 DO EXCELSO PRETÓRIO E DA SÚMULA 7 DO STJ.
+1. É inviável recurso especial interposto contra acórdão que concede/convalida ou indefere antecipação de tutela ou liminar. A uma, porque as questões processuais relativas ao mérito da demanda devem aguardar a solução definitiva na origem e, ainda, porque, para o exame dos requisitos da tutela de urgência, no caso, seria necessária a incursão na seara fática da causa. Incidência da Súmula 735 do Excelso Pretório.
+2. Decidir de forma contrária ao entendimento do Tribunal a quo em relação à urgência que justifique a concessão da medida antecipatória de reintegração de posse, demanda a incursão na seara fática do autos. Tal medida é vedada na via especial devido ao óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1186207/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
