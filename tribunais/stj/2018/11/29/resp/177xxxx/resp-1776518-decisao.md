@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo ESPÓLIO DE JOSE FERREIRA CLEMENTE, em 29/05/2018, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Desapropriação. Desistência da ação. Ausência de interesse na expropriação da área descrita na inicial. Pedido de desistência homologado após apresentação de defesa e laudos por assistente técnico. Condenação da autora ao reembolso das custas, despesas processuais e honorários de advogado. Inclusão das despesas do assistente técnico na sucumbência. Admissibilidade. Art. 82 e 84 do CPC. Honorários de advogado majorados, nos termos do art. 85, § 8º, do CPC. Recurso dos expropriados provido" (fl. 341e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 359/363e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"Embargos declaratórios. Inexistência de omissão, obscuridade ou contradição no acórdão. Impossibilidade de atribuição de efeitos infringentes ao julgado. Prequestionamento da matéria. Recurso rejeitado" (fl. 382e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 85, §3º, II, do CPC/2015, sob os seguintes fundamentos:
+"3. Salvo melhor Juízo, a presente ação, que possui valor atribuído pelo próprio Recorrido em R$ 235.920,57 (duzentos e trinta e cinco mil, novecentos e vinte reais e cinquenta e sete centavos), o qual, salvo melhor Juízo, não é irrisório e tampouco baixo, sendo plenamente possível a fixação dos honorários com base no valor atribuído.
+4. Há negativa de vigência ao Código de Processo Civil de 2015, o qual possui previsão específica para o caso ora em tela, em seu artigo 85, §3º, inciso II do Código de Processo Civil.
+(..)
+5. Tendo previsão específica no Código de Processo Civil, contraditório que se aplique, sem qualquer fundamento, artigo diverso, fixando honorários em valor extremamente inferior, eis que a Lei é expressa ao fixar os índices e seus parâmetros.
+6. Efetivamente, não se está diante de quaisquer das situações descritas no §8º do art. 85 do CPC/15, caso em que, assim, tem lugar a fixação da verba honorária em conformidade com o disposto no § 2º do referido dispositivo legal, não se estava diante de causa em que o valor era inestimável, muito menos irrisório o proveito econômico. Muito menos de causa com valor muito baixo. Em nada incide o disposto no § 8º do art. 85 do novo CPC".
+(..)
+12. Efetivamente, a fixação de honorários em R$ 1.800,00 (mil e oitocentos reais), quando o valor da causa é de R$ 235.920,57 (duzentos e trinta e cinco mil, novecentos e vinte reais e cinquenta e sete centavos) é no mínimo descabido, mormente considerando tratar-se de processo fora da comarca, todo o trabalho, despesas de escritório, despesas com água, luz, telefone, secretária, advogados associados, estagiários, cursos de atualização, pagamento de tributos, anuidade da Ordem dos Advogados e enfim, uma vasta gama de despesas que permitem que se mantenha em atividade" (fls. 353/356e).
+Por fim, requer o provimento do Recurso Especial.
+Não foram apresentadas contrarrazões (fl. 386e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 387/388e).
+A irresignação não merece conhecimento.
+Inicialmente, cabe destacar que o Tribunal de origem não se manifestou acerca do teor do art. 85, §3º, II, do CPC/2015. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Ainda que assim não fosse, a modificação das conclusões do acórdão recorrido, no sentido de que "o acórdão decorre de sentença homologatória de pedido de desistência da ação (fls. 270/271 e 293) e, por esse motivo, não há óbice para a fixação de honorários de advogado nos termos do art. 85, § 8º, do CPC" (fl. 383e), demandaria a incursão no conteúdo fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, em razão do óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
