@@ -1,0 +1,11 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DOS ART. 2o., 128, 512 E 515 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO DAS SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos por [NOME] contra decisão assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. JUROS DE MORA. ART. 1o.-F DA LEI 9.494/97. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.270.439/PR, REL. MIN. CASTRO MEIRA, DJE 2.8.2013. CORREÇÃO MONETÁRIA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL DO ART. 5o. DA LEI 11.960/09 (ADIN 4.357/DF). ÍNDICE UTILIZADO: INPC. ENTENDIMENTO CONSOLIDADO EM RECURSO ESPECIAL REPETITIVO. VIOLAÇÃO DOS ART. 2o., 128, 512 E 515 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO DA . SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL DA FAZENDA ESTADUAL PARCIALMENTE PROVIDO. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+2. Afirma a parte embargante, em suma, que, ao contrário do que constou na decisão recorrida, o tema referente à indenização pretendida foi debatido pela Corte de origem.
+3. É o relatório.
+4. Os Embargos não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do Código Fux, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+5. No caso, o decisum embargado consignou, expressamente, que a tese acerca da violação dos arts. 2o., 128, 512 e 515, do CPC não foi debatida pelo Tribunal de origem, tampouco foi alvo dos embargos de declaração opostos, estando carente do indispensável prequestionamento
+6. Ressalte-se que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido, conforme pretende a parte embargante nesta oportunidade.
+7. Pelo exposto, rejeitam-se os Embargos Declaratórios de [NOME].
+8. Publique-se. Intimações necessárias.
