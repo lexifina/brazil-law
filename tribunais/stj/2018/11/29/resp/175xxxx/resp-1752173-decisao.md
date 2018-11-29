@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILSON GONÇALVES DOS SANTOS, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o ora recorrente foi condenado, nas sanções do art. 155, caput, do Código Penal, à pena de 1 ano, 10 meses e 22 dias de reclusão, em regime inicial semiaberto, por ter subtraído uma calça jeans de um estabelecimento comercial.
+Irresignada, a defesa interpôs recurso de apelação, ao qual o Tribunal a quo negou provimento por unanimidade de votos. Eis a ementa do acórdão (e-STJ fl. 179):
+APELAÇÃO CRIMINAL - FURTO SIMPLES - ABSOLVIÇÃO - ATIPICIDADE DA CONDUTA - PRINCÍPIO DA INSIGNIFICÂNCIA - DESCABIMENTO - DESCLASSIFICAÇÃO DO CRIME PARA SUA FORMA TENTADA - INVIABILIDADE - REDUÇÃO DA PENA-BASE - INADMISSIBILIDADE. 1. A aplicação acrítica do Princípio da Insignificância equivaleria a uma forma de anistia aos criminosos habituais. Correr-se-ia o risco de que o princípio, criado como modo de adequar o Direito Penal a um imperativo de justiça, de proporcionalidade, terminasse por inviabilizar uma das funções precípuas desse ramo do Direito, qual seja, a proteção a bens jurídicos relevantes e vulneráveis, em ofensa ao princípio da legalidade em se tratando de crime de furto. 2. Para a consumação do delito de furto, a simples posse espúria de coisa alheia móvel, mesmo que por breve lapso temporal, revela-se suficiente. Súmula 582 do STJ. 3. Tratando-se de agente que ostenta várias condenações caracterizadoras de maus antecedentes, deve sua pena-base se distanciar do mínimo legal em patamar superior àquele que seria estabelecido para um indivíduo que possuísse apenas uma condenação.
+No presente recurso especial, alegou-se violação ao disposto nos arts. 1º e 155, ambos do Código Penal, ao argumento de que a reincidência do recorrente, por se tratar de aspecto subjetivo, não seria suficiente para o afastamento do princípio da insignificância.
+Pugnou-se, dessa forma, pela absolvição do recorrente.
+Contrarrazões às e-STJ fls. 226/231.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 243/245).
+É, em síntese, o relatório.
+Decido.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação do princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No caso, consta das decisões locais que o recorrente é multirreincidente específico e portador de maus antecedentes (e-STJ fl. 189), circunstâncias que frustram o preenchimento dos retromencionados requisitos, notadamente o reduzido grau de reprovabilidade do comportamento do agente e, consequentemente, o reconhecimento da mínima ofensividade de sua conduta.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 155 DO CP. PLEITO DE ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA. ENTENDIMENTO DOMINANTE DO STJ. SÚMULA N.º 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Ressalvado o entendimento desta relatoria, a Terceira Seção desta Corte Superior, no julgamento dos EAREsp n.º 221.999/RS, firmou "a orientação no sentido de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável".
+2. Agravo regimental a que se nega provimento. (AgInt no AREsp 902.930/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 17/06/2016.)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO CRIMINOSA. SEIS CONDENAÇÕES. TRÂNSITO EM JULGADO. REINCIDÊNCIA. INDEVIDA A INCIDÊNCIA DA BAGATELA. CONDUTA SOCIAL CONTRÁRIA À ORDEM LEGAL.
+1. A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos.
+2. Apesar de a pena ter sido fixada em 2 anos de reclusão, foi considerada negativa a circunstância judicial relativa à conduta social e ao fato de existirem seis condenações transitadas em julgado contra o agravante. Razoável, portanto, a fixação do regime semiaberto no presente caso.
+3. Agravo regimental improvido. (AgRg no AREsp 896.863/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016.)
+PENAL. AGRAVO INTERNO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA. VALOR NÃO IRRISÓRIO. REINCIDÊNCIA. INAPLICABILIDADE.
+ ..
+II - Na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que, conforme consta do voto vencido do v. acórdão reprochado, o recorrido é reincidente (precedentes).
+Agravo Regimental desprovido. (AgInt no REsp 1585687/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 22/06/2016.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
