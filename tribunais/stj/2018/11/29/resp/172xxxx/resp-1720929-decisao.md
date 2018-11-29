@@ -1,0 +1,5 @@
+DECISÃO
+CARLOS DE OLIVEIRA e GESLAINE RIBEIRO MOREIRA interpõem recurso especial contra acórdão do Tribunal de Justiça do Estado de Rondônia que, ao negar provimento ao RSE n. 026806-19.2016.8.19.0001, manteve incólume decisão do Juízo de primeiro grau de não receber apelação interposta contra a determinação de prosseguimento da ação penal, à vista da inexistência de atribuição de efeito suspensivo ao REsp n. 1.651.846/MT, apresentado contra a manutenção da pronúncia
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico que sobreveio o julgamento do REsp n. 1.651.846/RO, com trânsito em julgado em 13/12/2017. Assim, consoante parecer do Ministério Público Federal, "fica prejudicado, por perda de objeto, o exame de apelo excepcional no qual se busca que se aguarde o esgotamento das vias extraordinárias para a realização do Tribunal do Júri" (fl. 1.085).
+À vista do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este recurso especial, pela perda superveniente do interesse de agir.
+Publique-se e intimem-se.
