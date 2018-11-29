@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1848, de 28 de novembro de 2018
+Altera a Instrução Normativa SRF nº 83, de 11 de outubro de 2001, que dispõe sobre a tributação de resultados da atividade rural de pessoas físicas.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 18 da Lei nº 9.250, de 26 de dezembro de 1995, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 60 do Decreto nº 3.000, de 26 de março de 1999, resolve:
