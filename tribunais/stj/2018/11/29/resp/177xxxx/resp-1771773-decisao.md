@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pela Décima Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - GRATUIDADE JUDICIÁRIA - PESSOA JURÍDICA - COMPROVAÇÃO DA ALEGADA HIPOSSUFICIÊNCIA - INOCORRÊNCIA - INDEFERIMENTO DO BENEFÍCIO - RECURSO NÃO PROVIDO.
+- Para o deferimento dos benefícios da justiça gratuita à pessoa jurídica é indispensável a comprovação de ausência de recursos financeiros, uma vez que não limita a seu favor a presunção de veracidade do estado de pobreza, afirmado mediante declaração de hipossuficiência.
+Os embargos de declaração opostos pela recorrente foram rejeitados (fls. 781-786,e-STJ).
+A recorrente sustenta, em síntese, nas razões de recurso especial, ofensa aos artigos 98, 99, § 2º, e 1.022 do Código de Processo Civil de 2015; alegando negativa de prestação jurisdicional, assim como demonstra a insuficiência de recursos a autorizar a concessão da justiça gratuita.
+Defende que antes do indeferimento do benefício de gratuidade de justiça, caberia a oportunidade da juntada de novos documentos.
+Apresentadas contrarrazões pela parte contrária (fls. 842-850, e-STJ), pugnando o não provimento do recurso.
+Assim delimitada a controvérsia, passo a decidir.
+É pacífica a jurisprudência desta Corte no sentido de que é possível a concessão dos benefícios da justiça gratuita à pessoa jurídica, desde que seja comprovada a precariedade de sua situação financeira, já que é relativa a presunção de miserabilidade. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte entende que é possível a concessão do benefício da assistência judiciária gratuita à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade.
+2. A concessão do benefício da assistência judiciária à pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais.
+3. Na espécie, foi consignado que, a despeito de se encontrar em regime de liquidação extrajudicial, o recorrente é empresa de grande porte que não logrou êxito em demonstrar, concretamente, situação de hipossuficiência para o fim de concessão do benefício da assistência judiciária.
+4. Neste contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 576.348/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 23.4.2015).
+Anoto que o simples fato de a empresa recorrente ter entrado em liquidação extrajudicial não implica, automaticamente, a concessão dos benefícios da gratuidade de Justiça, o que depende da demonstração da impossibilidade de arcar com os encargos processuais.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EMBARGOS À EXECUÇÃO - INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA - DECISÃO MONOCRÁTICA QUE CONHECEU EM PARTE DO RECLAMO E, NESSA EXTENSÃO, DEU-LHE PARCIAL PROVIMENTO APENAS PARA AFASTAR A CONDENAÇÃO/MAJORAÇÃO DE HONORÁRIOS RECURSAIS. INSURGÊNCIA DA EMBARGANTE.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese. Precedentes.
+2. O direito à gratuidade da justiça da pessoa jurídica, ainda que em regime de liquidação extrajudicial ou de falência, depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie. Precedentes.
+2.1. Ainda que superada a ausência de prequestionamento dos dispositivos invocados, em observância à inovação trazida pelo artigo 1.025 do CPC/15, as teses sustentadas no apelo extremo não mereceriam acolhimento, tendo em vista que, para tanto, far-se-ía necessário o reexame de fatos e provas, o que não se admite no âmbito do recurso especial, em razão do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.671.536/SC, Rel. MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2018, DJe 17/10/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. ATROPELAMENTO. ÔNIBUS COLETIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. REEXAME DE PROVAS. ÔNUS SUCUMBENCIAIS DECORRENTES DA LIDE SECUNDÁRIA. RESISTÊNCIA. RECONHECIMENTO. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO EVENTO DANOSO. INCIDÊNCIA DAS SÚMULAS 54 E 83 DO STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Negativa de prestação jurisdicional não caracterizada, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. Consoante jurisprudência desta Corte, "o direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie" (AgInt no REsp 1.619.682/RO, Relator o Ministro Raul Araújo, DJe de 7/2/2017).
+3. A revisão de matéria - afastamento dos ônus sucumbenciais diante da falta de oferecimento de resistência à lide secundária - que demanda o revolvimento do conjunto fático-probatório dos autos, não pode ser feita na via especial, diante do óbice da Súmula 7 deste Tribunal. 4. Os juros moratórios, nas hipóteses de responsabilidade extracontratual, fluem a partir do evento danoso. Incidência das Súmulas 54 e 83 do STJ. Decisão agravada mantida. 5. Agravo interno desprovido.
+(AgInt no AREsp 1214552/MA, Rel. MINISTRO MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/6/2018, DJe 29/6/2018).
+Na presente hipótese, o Tribunal de origem manteve o indeferimento da gratuidade de justiça à recorrente, sob os seguintes fundamentos:
+O Novo Código de Processo Civil, em vigor a partir de 18/03/2016, em suas disposições finais, revogou de forma expressa os artigos 2º, 3º, 4º, 6º, 7º, 11, 12 e 17 da Lei n. 1.060/50 (art. 1.072, II).
+Aludido diploma processual, em seu art. 99, estabelece que a parte poderá requerer a gratuidade da justiça na primeira manifestação da parte no processo ou por simples petição, quando a hipossuficiência se verificar no curso do processo, não estando mais condicionada à apresentação de declaração de hipossuficiência, como previa o dispositivo revogado acima mencionado.
+O art. 98 do NCPC estabelece que tem direito à gratuidade judiciária a pessoa física e jurídica, inexistindo em relação a esta ultima a presunção de veracidade da alegação de hipossuficiência.
+Para as pessoas jurídicas, imprescindível a comprovação de que não dispõe de recursos para arcar com as despesas do processo sem prejuízo de sua manutenção.
+Trata-se de entendimento consolidado no Superior Tribunal de Justiça:
+(..)
+A questão, inclusive, já foi sumulada pelo STJ, nos termos do verbete n 481, segundo o qual "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+Ressalta-se, mais uma vez, que a presunção que incide sobre a declaração de pobreza prestada por pessoa jurídica não é absoluta, devendo sua apresentação ser embasada em prova cabal de sua impossibilidade de arcar com as custas e despesas processuais.
+A propósito, Nelson Nery Júnior leciona:
+(..)
+Assim, constitui pressuposto básico para a concessão do aludido benefício a prova da impossibilidade de a pessoa jurídica arcar com as despesas do processo sem comprometer ou agravar o seu estado econômico e financeiro.
+No caso dos autos, a agravante requereu o benefício da gratuidade judiciária por se encontrar em liquidação extrajudicial, ressaltando, notadamente, que "despesas que não sejam aquelas inerentes ao cumprimento da finalidade supra, como o pagamento de despesas processuais, mais lento será o trâmite da liquidação, além de ser indiscutível o fato de que os recursos remanescentes se tornarão mais escassos para atender a todos os credores".
+Após detido exame dos autos, não vislumbro a possibilidade de deferimento da pretensão requerida, diante do cenário de insuficiência de elementos probatórios que demonstrem a condição de hipossuficiência da agravante.
+Cumpre ressaltar que a despeito das alegações apresentadas pela recorrente, a "Demonstração do Resultado do Exercício - Contas Contábeis" (documento de ordem nº 14), assim como o "Balancete de Verificação por TCODE" (documentos de ordem nº 10/12) não são suficientes para atestar, de forma inequívoca, sua condição de hipossuficiência, neles não se inferindo estado de miserabilidade capaz de justificar o deferimento da benesse pretendida.
+Releva anotar, por oportuno, que apesar de a agravante não se encontrar no exercício de função comercial desde a decretação de sua liquidação extrajudicial, não se exime da responsabilidade de manter sua contabilidade atualizada, e exsurgindo dos autos sua pretensão de restabelecimento de suas atividades, outra conclusão não se pode ter a não ser a de que sua condição financeira se apresenta atualmente melhor que aquela apresentada em outubro de 2016.
+Observe-se, ainda, que em outubro de 2016 a condição financeira da agravante não se apresentava deficitária, ao contrário, com saldo positivo, capaz de cobrir, com tranqüilidade, as despesas inerentes a este processo.
+Posto isso, REJEITO A PREFACIAL SUSCITADA E NEGO PROVIMENTO AO RECURSO, mantendo incólume a decisão agravada.
+Custas recursais, pela agravante.
+Desse modo, considerando que o Tribunal de origem não verificou hipossuficiência econômica nas provas juntadas nos autos, seria preciso rever fatos e provas para atestar a precária situação financeira da recorrente, o que é vedado em sede de recurso especial por óbice da Súmula 7/STJ.
+Como salientado, o simples fato de a empresa ter entrado em liquidação extrajudicial não implica, automaticamente, a concessão dos benefícios da gratuidade de Justiça, e a adoção de entendimento contrário ao acórdão recorrido quanto ao preenchimento dos requisitos encontra óbice na Súmula 7/STJ.
+No tocante às alegações de ofensa ao artigo 1.022 do NCPC, verifico que não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Com efeito, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Desse modo, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos dos acórdãos cujas ementas transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+Por fim, a incidência da Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
