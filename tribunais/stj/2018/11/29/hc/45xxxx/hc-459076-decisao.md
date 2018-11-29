@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi condenado à pena de 02 (dois) anos de reclusão, em regime inicial aberto, mais o pagamento de 10 (dez) dias-multa, como incurso no art. 14 da Lei n.º 10.826/2003. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos, quais sejam: prestação de serviços à comunidade e prestação pecuniária, consistente no pagamento de R$ 500,00 (quinhentos reais).
+Tendo o Juízo das Execuções constatado que o reeducando não vinha desempenhando com regularidade a sanção restritiva de direitos, consistente em prestação de serviços à comunidade, determinou a sua intimação a fim de que cumprisse a obrigação. Contra tal decisão, o Parquet interpôs Agravo em Execução Penal perante o Tribunal a quo, requerendo a conversão da pena substitutiva em privativa de liberdade.
+A Corte local deu provimento ao Agravo em Execução Penal do Ministério Público para determinar a conversão da pena restritiva de direitos em privativa de liberdade, nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO, CONVERSÃO DA PENA RESTRITIVA DE DIREITO EM PRIVATIVA DE LIBERDADE. DESCUMPRIMENTO.
+É devida a conversão da pena restritiva de direitos em privativa de liberdade, quando o apenado, embora tenha sido intimado pessoalmente, não dá prosseguimento ao cumprimento da pena. No caso, em quatro oportunidades anteriores, o agravado foi instado a dar continuidade ao cumprimento da prestação alternativa e, mesmo assim, adotou postura claudicante que não se coaduna com a condição de apenado e merecedora da manutenção do benefício.
+AGRAVO PROVIDO". (e-STJ, fl. 82)
+Daí o presente writ, no qual os impetrantes sustentam, em suma, que o paciente é genitor de uma menor que dele depende, possui emprego fixo na mesma empresa desde 01/12/2011, sendo considerado funcionário exemplar.
+Aduzem, ainda, que o paciente não deixou de cumprir a pena substitutiva, "mas realizava os serviços conforme algumas horas de folga que conseguia no seu trabalho" (e-STJ, fl. 04).
+Também alegam "questões processuais existentes nos autos que foram extremamente prejudiciais ao Paciente  ..  A primeira delas é que o Paciente foi citado da sentença condenatória e do acórdão de segundo grau por edital  ..  Outro fator relevante nos autos é que não houve audiência admonitória" (e-STJ, fls. 4/5).
+Requerem a concessão de liminar, "determinando o imediato cumprimento da pena na forma de prestação de serviço à comunidade como era inicialmente, com a imediata expedição de ALVARÁ DE SOLTURA em favor do Paciente" (fl. 9).
+A liminar foi indeferida (e-STJ, fls. 152-154).
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ, fls. 213-217).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a possibilidade de concessão do habeas corpus de ofício.
+Os impetrantes requerem seja desconstituída a decisão que converteu a pena restritiva de direitos em privativa de liberdade.
+As hipóteses de conversão das penas restritivas de direitos em privativa de liberdade estão previstas nos arts. 44, §§ 4º e 5º, do Código Penal, e 181 da LEP, sendo certo que o descumprimento injustificado da restrição imposta autoriza a adoção dessa medida.
+No caso, o acórdão impugnado assentou que:
+"Os documentos juntados denotam terem sido efetuadas tentativas de intimação e oitiva do réu para explicar o motivo pelo qual não deu continuidade ao cumprimento da pena e, diante da inércia, mostra-se adequada a conversão. O apenado foi pessoalmente advertido em audiência das conseqüências do descumprimento injustificado das penas restritivas de direitos.
+Embora devidamente advertido, por quatro vezes, o apenado deixou de cumprir sua pena, sem qualquer justificativa.
+Veja-se que a decisão condenatória transitou em julgado em 17/08/2012 (fl. 16-v.), sendo o réu advertido das suas obrigações, assinando o mandado de intimação (fl. 56-v.).
+Posteriormente, ante à condição profissional do réu, a Magistrada deferiu o cumprimento da prestação de serviços à comunidade nos finais de semana e feriados (fl. 60), decisão datada de 20/03/2013.
+Em 21/06/2013, a entidade na qual o apenado devia cumprir pena informou o seu não comparecimento (fl. 61), manifestação reiterada em 21/03/2014 e 04/07/2014 (fl. 66).
+Nova intimação foi expedida, para, que desse início ao cumprimento (fls. 71/72), sendo que no dia 31/07/2014 aportou informação dando conta de que ele se dirigira à entidade, cumprindo, conforme relatórios posteriores, parcialmente suas obrigações (eis que em nenhum momento cumpriu as horas devidas - 30 horas ao mês) nos meses de agosto, setembro, outubro, novembro e dezembro de 2014, e janeiro de 2015, não comparecendo em fevereiro e março do mesmo ano.
+Novamente intimado (fls. 79/80), compareceu em maio de 2015, não cumprindo em abril e junho (fl. 81).
+Instado pelo Ministério Público, o Magistrado determinou a intimação do apenado para que prosseguisse com o cumprimento, sob pena de conversão.
+Vê-se claramente que o apenado cumpre a pena quando quer dispensando pouca atenção às intimações do Poder Judiciário. Foi instado por quatro vezes a cumprir suas obrigações, o que não fez. A conduta recalcitrante não se coaduna com o comportamento esperado pelo apenado.
+Ante a isso, com fundamento no art 181, §1º, letra "b" da LEP, converto em pena privativa de liberdade as restritivas de direito impostas.
+Pelo exposto, dou provimento ao recurso e converto as penas restritivas de direito em pena privativa de liberdade." (e-STJ, fls. 84-86.)
+Inicialmente, cumpre ressaltar que a jurisprudência desta Corte é firme no sentido de considerar "imprescindível a intimação do reeducando para esclarecer as razões do descumprimento das medidas restritivas de direito antes da conversão delas em pena privativa de liberdade, em homenagem aos princípios do contraditório e da ampla defesa" (HC 264.600/RS, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 18/02/2014, DJe 21/02/2014).
+No caso, apesar de a conversão das penas restritivas de direitos em privativa de liberdade não ter sido precedida da audiência de justificação, não se constata qualquer violação aos princípios da ampla defesa e do contraditório, haja vista que o paciente foi intimado 4 (quatro) vezes, para cumprisse a sanção restritiva de direitos, sendo pessoalmente advertido em audiência admonitória das consequências do descumprimento injustificado da pena. Observa-se, inclusive, que o Juízo da Execução, ante à condição profissional do apenado, deferiu o pedido no sentido de que o cumprimento da prestação de serviços à comunidade fosse realizada nos finais de semana e feriados.
+Desse modo, verifica-se que a decisão da Corte de origem encontra-se em sintonia com o entendimento desta Corte, conforme se extrai dos seguintes julgados:
+" ..
+6. Consoante jurisprudência desta Corte, nos termos dos arts. 44, § 4º, do Código Penal e 181 da LEP, a recusa injustificada do cumprimento de penas restritivas de direitos autoriza a sua conversão em sanção privativa de liberdade, sendo, porém, imprescindível a prévia intimação do reeducando para que esclareça as razões do descumprimento. Precedente.
+7. In casu, embora a conversão das penas restritivas de direitos em privativa de liberdade não tenha sido precedida de audiência de justificação, não há que se falar em violação aos princípios da ampla defesa e do contraditório, pois o apenado foi intimado pessoalmente em três ocasiões distintas e apresentou esclarecimentos desacompanhados de quaisquer elementos comprobatórios que o escusasse, sendo, por isso, decretada a conversão. Tese de nulidade afastada. Precedentes.
+8. Habeas corpus não conhecido, ficando prejudicado o pedido de cassação do efeito suspensivo atribuído ao recurso especial."
+(HC 314.578/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 01/10/2015, DJe 15/10/2015).
+" ..
+1. As penas restritivas de direitos se convertem em penas privativas de liberdade, se ocorrer o descumprimento injustificado da restrição imposta (art. 45 do CP).
+2. A execução das penas restritivas, assim como de modo geral de todas as alternativas à prisão, demandam o mecanismo coercitivo, capaz de assegurar o seu cumprimento e este só pode ser a pena privativa de liberdade.
+3. Afigura-se inviável, em sede de habeas corpus ou de recurso em habeas corpus, o revolvimento do conjunto fático-probatório dos autos. No caso dos autos, o Tribunal de origem, por sua vez, asseverou, a partir de elementos concretos extraídos dos autos, que houve efetivamente o descumprimento da restrição imposta pelo recorrente, não se desvencilhou do ônus de apresentar justificativa idônea para o descumprimento da sanção alternativa imposta, deixando de adimplir obrigação por ele assumida. Destarte, não há como desconstituir as conclusões das instâncias ordinárias sem aprofundamento da prova.
+4. Recurso a que se nega provimento."
+(RHC 76.139/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2016, DJe 24/11/2016).
+Por fim, em que pesem os esforços da impetrante, observa-se que a alegação no sentido de que o paciente "foi citado da sentença condenatória e do acórdão de segundo grau por edital, mesmo tendo comprovantes de endereço em seu nome", não foi objeto de apreciação pela Corte de origem, o que obsta o exame do tema por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+A corroborar esse entendimento, confiram-se os seguintes precedentes:
+" ..
+1. A matéria debatida neste writ - nulidade dos atos posteriores à sentença por ausência de intimação do réu e do seu defensor constituído nos autos da sentença condenatória -, ainda que de ordem pública, não foi, em nenhum momento, objeto de exame pelas instâncias ordinárias, até porque nem sequer foi abordada na apelação interposta pela Defensoria Pública, razão pela qual não pode ser originariamente conhecida no âmbito desta Corte Superior de Justiça (art. 105, II, "a", da Constituição Federal), sob pena de indevida supressão de instância.
+2. É cabível a análise, em habeas corpus, da questão suscitada perante a Corte estadual e aqui reiterada, qual seja, a almejada intimação pessoal da sentença condenatória (ou na pessoa do seu defensor, caso solto o réu), visto que essa matéria não requer análise de controvérsia factual nem demanda produção de provas.
+3. Agravo regimental não provido." (AgRg no HC 71.499/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/9/2015, DJe 9/10/2015, grifou-se).
+" ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada a sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da aventada nulidade das provas produzidas, do alegado excesso de prazo para a custódia cautelar, bem como da desnecessidade da constrição em razão da classificação equivocada da conduta imputada ao paciente - uma vez que este seria mero usuário de drogas -, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido.
+autorizando a preventiva.
+Omissis.
+6. Habeas corpus não conhecido." (HC 318.623/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/5/2015, DJe 28/5/2015, grifou-se).
+Diante do exposto, não conheço do habeas corpus.
+É como voto.
