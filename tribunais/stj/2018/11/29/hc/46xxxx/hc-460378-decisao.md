@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.18.011015-7/000).
+Consta nos autos que o paciente teve sua prisão preventiva decretada, no dia 19 de dezembro de 2017, pela suposta prática dos delitos capitulados no art. 33, caput, e no art. 35, ambos da Lei n. 11.343/2006.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 37):
+HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - PRISÃO PREVENTIVA - REVOGAÇÃO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP - GARANTIA DA ORDEM PÚBLICA - DECISÃO FUNDAMENTADA - NEGATIVA DE AUTORIA - IMPOSSIBILIDADE DE ANÁLISE - DILAÇÃO PROBATÓRIA - CRIME COM PENA MÁXIMA APLICADA SUPERIOR A QUATRO ANOS - ORDEM DENEGADA. I - A decisão que decreta a prisão preventiva para resguardo da ordem pública, tendo em vista os atos e comportamentos concretos do imputado, não consubstancia constrangimento ilegal, especialmente quando se constata, em uma análise apriorística, indícios suficientes de seu envolvimento com a atividade criminosa. II - Discussões acerca da materialidade e da autoria delitivas, quando demandam dilação probatória, não são permitidas na estreita via do Habeas Corpus, pois se referem à matéria de mérito a ser discutida durante a instrução processual. III - Presentes os requisitos do art. 312 do CPP, é admitida a decretação da prisão preventiva nos crimes puni dos com pena privativa de liberdade máxima superior a quatro anos (art. 313, I, do CPP).
+No presente writ, defende o impetrante, em suma, que o decreto prisional possui fundamentos inidôneos e que não estariam presentes os requisitos necessários para a prisão cautelar, porque, no curso das investigações, ficou "cabalmente comprovado que o paciente não compunha, de forma consciente, qualquer esquema de tráfico de drogas, como temerariamente aduz a acusação" (e-STJ fl. 4).
+Requer, inclusive liminarmente, a imediata soltura do paciente com ou sem imposição de medidas cautelares diversas da prisão.
+Liminar indeferida (e-STJ fls. 56/59) e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 88/95).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a expedição de alvará de soltura em favor do paciente em 8/11/2018.
+Assim, fica sem objeto este remédio constitucional, que buscava, justamente, a liberdade do paciente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
