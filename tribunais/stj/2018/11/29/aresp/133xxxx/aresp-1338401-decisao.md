@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS 211/STJ E 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO NÃO CONFIGURADO. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE FÁTICA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DEMONSTRAÇÃO DO DISSÍDIO POR MEIO DE DECISÃO MONOCRÁTICA. IMPOSSIBILIDADE.
+- Ação civil pública. Cumprimento de Sentença.
+1. A ausência de manifestação pelo Tribunal de origem acerca dos dispositivos de lei tido como violados, impede o conhecimento do recurso especial.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Dissídio jurisprudencial não configurado, ante a ausência de demonstração do cotejo analítico e similitude fática entre os julgados recorrido e paradigmas e de indicação do dispositivo de lei federal sobre o qual se teria dado interpretação divergente. Aplicação da Súmula 284/STF.
+4. A decisão monocrática não é julgado apto para demonstrar a divergência jurisprudencial.
+5. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo interposto por ARINE FRANCISCO DE MELLO JUNIOR e OUTROS contra decisão denegatória do recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 10/05/2018.
+Atribuição ao Gabinete em: 31/10/2018.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC em face do Banco do Brasil S/A, julgada procedente para condenar a instituição bancária a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva manejo pelos recorrentes.
+Agravo de Instrumento: interposto contra decisão interlocutória que julgou parcialmente procedentes os pedidos formulados pelos agravantes com a fixação dos parâmetros para o cálculo do valor devido.
+Acórdão: conheceu do agravo de instrumento para dar-lhe parcial provimento, nos termos da ementa a seguir:
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - AÇÃO CIVIL PÚBLICA - PLANOS BRESSER E VERÃO - JUROS REMUNERATÓRIOS - APLICAÇÃO ATÉ O ENCERRAMENTO DA CONTA POUPANÇA OU, NÃO SENDO POSSÍVEL SUA FIXAÇÃO, ATÉ A DATA DA CITAÇÃO NOS AUTOS DA AÇÃO CIVIL PÚBLICA - CAPITALIZAÇÃO DOS JUROS REMUNERATÓRIOS - NÃO CONHECIMENTO - FALTA DE INTERESSE RECURSAL E OFENSA À DIALETICIDADE - RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO.
+1. Verificando que a sentença liquidanda não determinou que os juros remuneratórios deveriam incidir até a data do pagamento do crédito, não há ofensa à coisa julgada, deve ser mantida a decisão agravada no capítulo que fixou como prazo final a data de encerramento da conta poupança. 2. A incidência dos juros remuneratórios até a data do encerramento da conta poupança deve-se ao fato de que após tal período o poupador não está mais privado de utilizar seu capital. Ademais, os juros são frutos civis, de forma que dependem da obrigação principal para subsistirem.
+Assim, extinto o negócio jurídico (encerrada a conta poupança) não se justifica sua permanência, vez que nada mais haverá para ser remunerado. 3. Somente no caso de não ser possível a identificação da data do encerramento da conta poupança é que deverá ser adotada a data em que houve a citação nos autos da Ação Civil Pública, conforme precedentes. 4. Quanto à capitalização dos juros remuneratórios, o recurso não deve ser conhecido, tendo em vista a falta de interesse recursal e ofensa ao princípio da dialeticidade. Note-se que na decisão agravada o juízo a quo autorizou expressamente a capitalização conforme pedido no agravo. Ainda que assim não fosse, não há nas razões de agravo nenhuma fundamentação para o pedido de capitalização, o que viola o princípio da dialeticidade (e-STJ fls. 54/55).
+Embargos de Declaração: opostos pelos recorrentes, foram rejeitados (e-STJ fls. 77/81).
+Recurso Especial: o recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 502, 503, 505 e 508 do CPC, aduzindo que teria ocorrido ofensa à coisa julgada, haja vista que a sentença não teria limitado o termo final dos juros remuneratórios, devendo ser determinada a aplicação dos juros sobre a diferença de correção monetária apurada sem qualquer limitação de tempo, ou seja, juntamente com a correção monetária (e-STJ fl. 92).
+RELATADO O PROCESSO. DECIDE-SE.
+De início, importa consignar que os recorrentes, na Petição n. 00466884/2018 (e-STJ fl. 197/200), manifestaram-se no sentido de que seja dado continuidade ao julgamento do processo por não terem interesse em aderir ao acordo coletivo homologado pelo Supremo Tribunal Federal. Diante disso, passo à análise do presente recurso.
+- Julgamento: CPC/2015.
+- Da ausência de prequestionamento
+Quanto à suposta violação dos arts. 502, 503, 505 e 508 do CPC e a tese defendida pelos recorrentes, no sentido de que teria ocorrido ofensa à coisa julgada, haja vista que a sentença não teria limitado o termo final dos juros remuneratórios e que tais juros deveriam incidir sobre a diferença de correção monetária apurada sem qualquer limitação de tempo, ou seja, juntamente com a correção monetária (e-STJ fl. 92), tem-se que esses não foram objeto de análise pelo Tribunal de origem, restando ausente o devido prequestionamento. Incidem as súmula 211/STJ e 282/STF.
+- Da ausência de fundamento impugnado
+No mais, tem-se que o Tribunal de origem ao apreciar a questão atinente à incidência dos juros remuneratórios entendeu que:
+A incidência dos juros remuneratórios até a data do encerramento da conta poupança deve-se ao fato de que após tal período o poupador não está mais privado de utilizar seu capital.
+Ademais, os juros são frutos civis, de forma que dependem da obrigação principal para subsistirem. Assim, extinto o negócio jurídico (encerrada a conta poupança) não se justifica sua permanência, vez que nada mais haverá para ser remunerado.
+Daí que deve ser mantida a decisão agravada que determinou a aplicação de juros remuneratórios a partir da lesão até o encerramento da conta poupança ou da citação na ação civil pública respectiva, no importe de 0,5% (meio por cento) ao mês, capitalizados (e-STJ fl. 58)
+No entanto, da leitura do recurso especial interposto pelos recorrentes, observa-se que não houve a impugnação dos fundamentos utilizados pelo Tribunal de origem, quanto ao termo final dos juros remuneratórios, o que atrai também o óbice da Súmula 283/STJ.
+- Da divergência jurisprudencial
+O recurso também não pode ser conhecido pela alínea "c" do permissivo constitucional, quando não há a devida demonstração da divergência jurisprudencial, em razão da ausência de cotejo analítico e similitude fática entre os julgados recorrido e os paradigmas.
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+No mais, observa-se que os recorrentes para demonstrar o dissídio colaciona, em suas razões recursais, decisão monocrática, julgado que não é apto a demonstrar a divergência jurisprudencial.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não houve a fixação de honorários advocatícios na origem por tratar a presente hipótese de agravo de instrumento.
+Publique-se. Intimem-se.
