@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega negativa de vigência dos arts. 775 do Código Civil, 14 e 34 do Código de Defesa do Consumidor. O acórdão recorrido está retratado na seguinte ementa (fl. 396):
+CARTÃO DE CRÉDITO. Ação de desconstituição de negócio jurídico cumulada com indenização por danos morais. Contrato de seguro em que foi expressamente previsto que a forma de pagamento do prêmio seria feito por meio de cartão de crédito. Desconstituição do negócio jurídico em face da seguradora e da instituição financeira. Impossibilidade, tendo em vista que a emissão do cartão foi lastreada em uma apólice de seguro validamente contratada pela autora. Danos morais. Inocorrência de responsabilidade das corrés. Ação improcedente em relação à Sul América e à Itaucard. Reconhecimento. Recursos providos para esse fim.
+Sustenta a agravante, em síntese, a responsabilidade solidária dos agravados juntamente com as corrés Rosemary e Capital Vale.
+Argumenta que "as recorridas são fornecedoras dos serviços que originaram a fraude e que, embora tenham atuado "regularmente", são solidariamente responsáveis pelos atos das corrés ROSEMARY e CAPITAL VALE, que se apresentam no cenário jurídico como suas representantes" (fl. 410).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o Tribunal de origem afastou a condenação solidária das agravadas Itaucard e Sul América, assim discorrendo (fls. 398/401):
+(..)
+No mérito, a sentença merece reparo.
+Narra a petição inicial (fls. 01/11), que a autora contratou seguro do seu automóvel, com a assinatura de diversos documentos. Afirma que em 12.12.2014 foi surpreendida com uma correspondência da Serasa, informando que seu nome seria incluído nos órgãos restritivos.
+Ressalta que a apólice não foi enviada para o endereço da autora e que as faturas emitidas pelo banco foram enviadas para o endereço da primeira ré, sendo certo que nunca recebeu o cartão de crédito nem realizou as compras, caracterizando a prática de ato ilícito.
+Pois bem.
+Quanto aos corréus Sul América e Itaucard não há como subsistir a condenação solidária.
+Não obstante a autora alegar que o cartão foi utilizado indevidamente pela corré Rosemary, não há como desconsiderar que tanto na proposta do seguro como na apólice contou expressamente que a forma de pagamento do prêmio seria realizada por meio de cartão de crédito (vide fls. 43 e 176).
+Diante de tais circunstâncias, não há como desconstituir o negócio jurídico frente a Sul América, que recebeu o pagamento do prêmio exatamente como previsto na apólice do seguro, ou seja, por meio das parcelas debitadas no cartão de crédito.
+O fato de a autora ter emitido o cheque para pagamento à vista do prêmio (fls. 308) não pode ser imputado à Sul América, que não participou da transação realizada entre a corretora e a autora.
+Não há como desconsiderar que, frente a Sul América e a Itaucard, a emissão do cartão de crédito foi regular, pois lastreada em uma apólice de seguro validamente contratada pela autora.
+Infelizmente, faltou cautela à autora na contratação do seguro, pois se não leu, deveria ter lido seus termos, em especial o campo destinado à forma de pagamento, ocasião em que teria constatado que a quitação seria realizada por meio de cartão de crédito e não pela emissão de cheque.
+Nem se diga que as faturas estavam sendo emitidas para o endereço da corretora, pois, mais uma vez, tal informação constou expressamente na apólice do seguro (vide fls. 42), de modo que não há mesmo como imputar qualquer responsabilidade à Sul América e à Itaucard.
+Nos termos do que dispõe o Código de Defesa do Consumidor (artigos 12 e 14), a responsabilidade dos integrantes da cadeia de fornecimento de produtos ou serviços é pelos danos decorrentes de defeitos ou vícios do produto ou serviço. E, no caso, seguramente não sucedeu isso, pois o produto ou serviço (seguro) não trouxe vício ou defeito em si.
+No caso, o dano decorreu de fato paralelo e imputável exclusivamente à corretora e sua responsável legal, na medida em que elas é que, embora tendo recebido o valor do seguro por meio de cheque, tomaram a si a obrigação de fazer os pagamentos das parcelas por meio de cartão de crédito. No entanto, não o fizeram, levando o nome da autora à negativação.
+Tal fato exclusivo, portanto, é que foi decisivo na ofensa. E ele, obrigatoriamente, não pode ser estendido à seguradora e à instituição financeira, porque, como já dito, trata-se de fato paralelo e não integrante da contratação do seguro. Esta, ao contrário, foi feita exatamente para pagamento em parcelas, por meio de cartão de crédito (fls. 43), donde aquelas contratantes nada mais fizeram do que exercer regularmente o seu direito de cobrar pela forma prevista na apólice.
+Não custa ressaltar que o Código de Defesa do Consumidor dispõe em seu artigo 7º, § único, que a responsabilização solidária ocorre em tendo mais de um autor a ofensa. E no caso, conforme já se salientou, não foi isso o que aconteceu, ao menos relativamente à seguradora e à instituição financeira, visto que ofensa alguma fizeram a direito da autora.
+Já com relação às corrés Capital Vale e Rosemary, forçoso reconhecer a manutenção da sentença condenatória, em razão da ausência da interposição de recurso, tendo se conformado com a decisão.
+(..)
+Com efeito, observo que rever o entendimento do Tribunal de origem demandaria o reexame do acervo contratual e fático dos autos, o que encontra óbice nos enunciados n. 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
