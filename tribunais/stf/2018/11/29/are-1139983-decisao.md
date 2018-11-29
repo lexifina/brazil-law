@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal do Justiça do Estado de São Paulo, assim ementado (eDOC 4, p. 49):
+    “AGENTE DE SEGURANÇA PENITENCIÁRIA. PRETENSÃO AO RECONHECIMENTO DE EXERCÍCIO DE ATIVIDADE PARA FUTURA APOSENTADORIA ESPECIAL. Competência dos juizados Especiais da Fazenda Pública. Os exercício de funções de direção e chefia, exclusivos do cargo de agente de segurança penitenciária, no âmbito de unidade prisional, devem ser considerados como de efetivo exercício no cargo de agente de segurança penitenciária para futura pretensão de aposentadoria especial. Inteligência dos artigos 10, 11 e 14, da Lei Complementar Estadual nº 954/2004. Precedentes do Eg. TJ/SP. Recurso desprovido. Sentença mantida.”
+    Os embargos de declaração foram rejeitados (eDOC 4, p. 70).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 1º, 5º, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma que “só podem ser computados, para fins de integralização do tempo exigido para aposentadoria especial, os períodos de exercício real, efetivo, concreto. Daí, a impossibilidade de cômputo de tempo de exercício ficto, mesmo que, para outros fins” (eDOC 4, p. 80).
+    A Presidência do Colégio Recursal do Estado de São Paulo inadmitiu o recurso extraordinário em virtude de tratar-se de matéria infraconstitucional (eDOC 4, p. 90).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 4, pp. 51 e 52):
+    “Veja-se que a Lei Complementar Estadual nº 959/2004 dispõe sobre a restruturação da carreira de Agente de Segurança Penitenciária, e dá providências correlatas.
+    (…) Assim, infere-se que a lei complementar é expressa no sentido de considerar-se de efetivo exercício no cargo as funções de direção e chefia exercidas pela parte autora.
+    Ademais, referidas função são exercidas apenas por agentes de segurança penitenciária no âmbito de unidade prisional. Logo, não há qualquer razão para afirmar-se que a parte autora – ao exercer funções de direção e chefia – teria deixado de exercer a atividade de agente de segurança penitenciária.
+    Com efeito, o contorcionismo hermenêutico promovido pela Fazenda Pública não pode ser aceito. Se o legislador considera comode efetivo exercício no cargo de agente de segurança penitenciária aquelas funções para efeito de interstício para promoção por merecimento, não há qualquer razão para promover indevida distinção pelo intérprete quando a matéria é aposentadoria especial. ”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, bem como o exame da legislação local pertinente (Leis Complementares Estaduais nº 959/2004 e 1.109/2010), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA ESPECIAL. POLICIAL DO ESTADO DE SÃO PAULO. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. Aplicável, na espécie, a Súmula 280 do STF. 3. Agravo regimental a que se nega provimento.” (ARE 915.807-AgR, Primeira Turma, de minha relatoria, DJe de 7/4/16).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. RECEPÇÃO DA LEI COMPLEMENTAR N. 51/1985. REQUISITOS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 775.155-AgR Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/11/13).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
