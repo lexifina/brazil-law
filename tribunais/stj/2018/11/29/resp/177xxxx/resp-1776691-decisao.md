@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] DE ALBUQUERQUE, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ e-STJ fl. 209)
+ADMINISTRATIVO. REGISTRO DE PORTE DE ARMA. MEMBROS DO MINISTÉRIO PÚBLICO. COMPROVAÇÃO DOS REQUISITOS ESTABELECIDOS NA LEI 10.826/2003. CAPACIDADE TÉCNICA E APTIDÃO PSICOLÓGICA. NECESSIDADE. REMESSA NECESSÁRIA E APELAÇÃO PROVIDAS.
+1. Hipótese de remessa necessária e de apelação interposta pela União em face de sentença que, confirmando a liminar anteriormente deferida, julgou procedente o pedido inicial, consistente em reconhecer o direito do autor, Promotor de Justiça do Estado aposentado, de renovar seu porte de arma de fogo independentemente de se submeter a exame de aptidão psicológica.
+2. O art. 4º, inciso III, da Lei 10.826/2003, com a redação dada pela Lei nº 11.706/2008 (Estatuto do Desarmamento), determina que, para o registro de arma de fogo, é necessário, entre outros requisitos, que o interessado comprove capacidade técnica e aptidão psicológica para o manuseio de arma de fogo, a ser atestada na forma disposta no regulamento da Lei 10.826/2003.
+3. O Superior Tribunal de Justiça, em reiterados precedentes, consignou que para obtenção do porte de arma, o membro do Ministério Público, assim como qualquer outro agente público, necessita do registro, e este só pode ser concedido se cumpridas às condições estabelecidas pelo Estatuto do Desarmamento, dentre as quais, a comprovação de capacidade técnica e de aptidão psicológica.
+4. Cotejando tal diretriz normativa com a situação fática delineada nos presentes autos, forçoso concluir que não há fundamento capaz de legitimar o direito do autor, ora apelado, de poder renovar seu porte de arma de fogo independentemente das condições impostas em leis extravagantes.
+5. Remessa necessária e apelação providas para julgar improcedente o pedido inicial.
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 42 da Lei n. 8.625/1993 e sustenta que "os membros da instituição, Promotores e Procuradores, aposentados e em exercício, possuem porte de arma válido em todo o território nacional, independentemente de quaisquer atos formais de licença ou autorização" (e-STJ fl. 238).
+Assim, argumenta que deve ser dispensado de qualquer exame de aptidão psicológica para a obtenção do registro de porte de arma.
+Contrarrazões às e-STJ fls. 249/258.
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 260).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não comporta conhecimento.
+Com efeito, o Superior Tribunal de Justiça entende que o Estatuto do Desarmamento (Lei n. 10.826/2003) não dispensa o registro de arma de fogo nem a comprovação de capacidade técnica para seu manuseio, inclusive para agentes que possuem autorização legal para o porte ou a posse de arma. Precedentes: REsp 1.327.796/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/8/2015; EDcl no REsp 1.442.315/RN, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 1º/10/2015, DJe 9/10/2015; e AgInt no REsp 1606433/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 07/03/2017, DJe 10/03/2017.
+Confira-se:
+PROCESSUAL E ADMINISTRATIVO. REGISTRO DE ARMA DE FOGO. LEGITIMIDADE RECURSAL DO MINISTÉRIO PÚBLICO FEDERAL. PORTE E REGISTRO. MEMBRO DO MINISTÉRIO PÚBLICO FEDERAL. COMPROVAÇÃO DE CAPACIDADE TÉCNICA. NECESSIDADE.
+I - É firme o entendimento no âmbito do STJ no sentido de que o Ministério Público tem legitimidade para recorrer nos processos em que oficiou como custos legis, ainda que se trate de controvérsia relativa a direitos individuais disponíveis e as partes estejam devidamente representadas por advogados. Enunciado da Súmula n.
+99/STJ, art. 499 do Código de Processo Civil de 1973, art. 996 do Código de Processo Civil de 2015. Precedentes do STF e do STJ. Preliminar de ilegitimidade recursal do Parquet afastada.
+II - O Estatuto do Desarmamento (Lei n. 10.826/2003) não dispensa o registro de arma de fogo nem a comprovação de capacidade técnica para seu manuseio, inclusive para agentes que possuem autorização legal para o porte ou a posse de arma. Precedentes: REsp 1.327.796/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/8/2015; EDcl no REsp 1.442.315/RN, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 1º/10/2015, DJe 9/10/2015).
+III - Agravo Interno improvido. (AgInt no REsp 1606433/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/03/2017, DJe 10/03/2017) (grifos acrescidos)
+Dessa orientação não divergiu o Tribunal de origem, de modo que inexiste ensejo para o acolhimento do recurso. Incide, portanto, o óbice da Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos § § 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
