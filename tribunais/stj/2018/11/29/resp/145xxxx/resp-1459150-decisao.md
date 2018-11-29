@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ fl. 262):
+ADMINISTRATIVO. PENSÃO ESTATUTÁRIA. EX-SERVIDOR DO TERRITÓRIO DE RORAIMA. ÓBITO ANTERIOR À LEI 8.112/90. NÃO REALIZAÇÃO DE CADASTRAMENTO. OBRIGAÇÃO DE PAGAMENTO DE PENSÃO ATRIBUÍDA À UNIÃO. CORREÇÃO. JUROS. APELO DESPROVIDO. REEXAME NECESSÁRIO PARCIALMENTE DESPROVIDO.
+1. Ocorrido o falecimento do servidor meses antes da edição da Lei n. 8.112/90 - circunstância que impossibilitou o cadastramento do extinto segurado como servidor estatutário, em face da mudança de regime antes celetista, pelo advento da transformação do ex-Território de Roraima em Estado - parece razoável impor à União a responsabilidade pelo pagamento da pensão por morte no valor correspondente à última remuneração recebida pelo de cujus no cargo em que era lotado (motorista). Aplicação do art. 40, §5º, da CF/88.
+2. Indevido o pedido de dedução do valor correspondente ao período em que a autora esteve " recebendo pensão por morte paga pelo INSS ante a ausência de legitimidade da União para se beneficiar de compensação de créditos dos quais não é titular.
+3. A correção monetária deve ser calculada conforme parâmetros constantes do Manual de Cálculos da Justiça Federal (Lei 6.899/81 e Súmula 148 do STJ).
+4. Os juros moratórios são devidos no percentual de 1% (um por cento) ao mês, a partir da citação, até a edição da Medida Provisória nº. 2.180-35/2001 de 24.08.2001, que deu nova redação ao artigo 1º-F da Lei nº. 9.494/97, quando então serão devidos no percentual de 0,5% ao mês e, a contar da vigência da Lei 11.960/2009, deverá incidir, a título de correção monetária e ! juros de mora, a taxa de remuneração básica e juros da caderneta de poupança.
+5. Apelação a que se nega provimento. Reexame Necessário parcialmente provido para adequar correção monetária e juros à jurisprudência da Corte.
+Embargos de declaração foram rejeitados (e-STJ fls. 272/273).
+Nas suas razões, a parte recorrente aponta violação do art. 243 da Lei n. 8.112/1990, sustentando que o instituidor da pensão era empregado público celetista e que na data do seu óbito ainda não vigia a Lei n. 8.112/1990
+Apresentaram-se contrarrazões às e-STJ fls. 320/332.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 313/314.
+Passo a decidir.
+ Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, assim decidiu o Tribunal de origem (e-STJ fl. 259):
+Sem embargo disto, a situação da Requerente é emblemática, porquanto com o falecimento de seu esposo, nem a UNIÃO, nem o INSS querem pagar-lhe pensão:
+aquela, ao argumento de que o mesmo não se recadastrou para os fins do Art. 243 da Lei nº 8.112/90: este, por entender que ele não era sujeito ao regime geral da previdência social.
+A responsabilidade pelo pagamento da pensão, salvo melhor juízo, é da UNIÃO, ainda que o ex-servidor fosse regido pela CLT. É que, por força do §5º. Art. 40 da CF/88 (em sua redação original), era assegurado o benefício de pensão por morte correspondente à totalidade dos vencimentos ou proventos do servidor falecido. Tal disposição é reproduzida, com alterações, no §7º, Art. 40 da CF/88 (com redação da EC nº 41). À evidência que o valor da pensão mensal por morte deverá adequar-se
+ao dispositivo constitucional vigente.
+Assim, entendo que, no momento do falecimento do ex-servidor (28.03.1990), a Requerente passou a fazer jus à pensão por morte, a ser custeada pela UNIÃO, equivalente à última remuneração percebida por aquele.
+Verifica-se que o aresto combatido se apoia em fundamentação eminentemente constitucional e infraconstitucional. Ocorre que a parte não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível nos termos da Súmula 126 do STJ. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FORNECIMENTO DE MEDICAMENTOS. TRATAMENTO DE SAÚDE. CERCEAMENTO DE DEFESA. REVISÃO. SÚMULA 7/STJ. ACÓRDÃO IMPUGNADO. DUPLO FUNDAMENTO. QUESTÃO CONSTITUCIONAL NÃO INFIRMADA. SÚMULA 126/STJ.
+ ..  2. A despeito da existência de fundamento constitucional, a parte agravante limitou-se a interpor recurso especial, deixando de interpor o extraordinário, de competência do Supremo Tribunal Federal, o que atrai a incidência da Súmula 126/STJ.
+ 3. Agravo regimental não provido. (AgRg no REsp 1.441.750/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 19/11/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. FORNECIMENTO DE REMÉDIOS. NECESSIDADE DE RECEITA DE MÉDICOS CREDENCIADOS AO SUS. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL DO ACÓRDÃO VERGASTADO. MATÉRIA NÃO IMPUGNADA POR RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ENFERMA QUE JÁ É ACOMPANHADA POR MÉDICOS CREDENCIADOS AO SUS. AUSÊNCIA DE INTERESSE RECURSAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535 do CPC, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Da leitura do acórdão recorrido depreende-se que foram debatidas matérias de natureza constitucional e infraconstitucional. No entanto, a recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal. Súmula 126/STJ.
+ ..  6. Agravo Regimental não provido. (AgRg no REsp 1.517.256/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 30/06/2015).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
