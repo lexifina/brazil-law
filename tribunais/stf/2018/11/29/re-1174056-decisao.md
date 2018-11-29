@@ -1,0 +1,18 @@
+Decisão:
+    1. Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO - Ação anulatória e de repetição de indébito - IPTU - Instituição de alíquotas progressivas e diferenciadas, após a EC 29100. Admissibilidade. Violação a cláusula pétrea não configurada. Observância do princípio da capacidade contributiva e da isonomia tributária.
+    TAXAS DE REMOÇÃO DE LIXO E DE COMBATE A SINISTROS – Descabimento. Inteligência do artigo 145, II, da CF. Divisibilidade do serviço público, autorizadora da cobrança não demonstrada. Subsistência do lançamento relativo ao IPTU. Recursos parcialmente providos.”
+    2. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 30 e 145, ambos da CF. Sustenta, em síntese, a constitucionalidade das taxas de coleta de lixo e de combate a incêndios, instituídas pelo Fisco municipal.
+    3. Primeiramente, importa destacar que o presente recurso versa exclusivamente sobre a taxa de coleta de lixo, uma vez que, quanto à taxa de combate a incêndio, o Tribunal de origem negou seguimento ao recurso extraordinário.
+    4. A pretensão recursal merece prosperar. O acórdão recorrido entendeu pela inconstitucionalidade da taxa de coleta de lixo instituída pela municipalidade.
+    5. O Supremo Tribunal Federal, no julgamento do RE 576.321-RG, (Rel. Min. Ricardo Lewandowski, Tema 146), sob a sistemática da repercussão geral, estabeleceu: I - A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, da Constituição Federal; II - A taxa cobrada em razão dos serviços de conservação e limpeza de logradouros e bens públicos ofende o art. 145, II, da Constituição Federal; III - É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra. Confira-se a ementa do julgado:
+    “CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO. II - JULGAMENTO DE MÉRITO CONFORME PRECEDENTES. III - RECURSO PROVIDO.”
+    6. Desse modo, o acórdão recorrido está em descompasso com o entendimento do Supremo Tribunal Federal.
+    7. Ressalto, por fim, que o entendimento do Tribunal de origem é contrário às Súmulas Vinculantes nºs 19 e 29, que dispõem:
+    “A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.”
+    “É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.”
+    8. Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário a fim de reconhecer a constitucionalidade da taxa de remoção de lixo domiciliar.
+    9. Publique-se.
+     Brasília, 29 de novembro de 2018
+Ministro Luís Roberto Barroso
+Relator
