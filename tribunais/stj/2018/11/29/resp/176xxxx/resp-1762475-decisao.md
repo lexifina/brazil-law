@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. ART. 112 DA LEI N. 10.792/2003. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. DECISÃO A QUO FIRMADA NA GRAVIDADE ABSTRATA DO DELITO. CASSAÇÃO DO ACÓRDÃO A QUO. DETERMINAÇÃO DE PROGRESSÃO DE REGIME NOS TERMOS DA DECISÃO DO JUÍZO DE EXECUÇÃO.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo que, no Agravo de execução penal n. 0005956-32.2017.8.26.05, ao cassar a decisão do juízo da 3ª Vara das Execuções Criminais da comarca de São Paulo/SP, afastou a progressão de regime ao ora recorrente e determinou, ao juízo a quo, a formulação de exame criminológico (fls. 69/75).
+Esta, a ementa do acórdão a quo (fl. 70):
+Agravo em execução - Progressão de regime prisional - Requisito subjetivo - Sentenciado que cumpre pena por roubo qualificado - Art. 112, LEP, alterado pela Lei nº 10.792/03, apesar de não exigir a realização de exame criminológico, fica a critério do Juiz sua realização - Não ficou provado que o sentenciado possui méritos para a obtenção do beneficio - Decisão reformada para cassar a progressão de regime concedida, regredindo o sentenciado ao regime semiaberto e determinando-se que o pedido de progressão de regime prisional do sentenciado seja reapreciado com a realização de exame criminológico.
+Sustenta a parte recorrente que o acórdão a quo deu à lei federal (art. 112 da LEP) interpretação divergente da que lhe foi atribuída pelo Superior Tribunal de Justiça, uma vez que o Tribunal de origem concluiu pela necessidade de realização de exame criminológico, quando, em verdade, o juiz da execução possui maior propriedade para distinguir as situações em que se mostra necessária a realização de exame criminológico.
+Pede o provimento do recurso a fim de reformar a decisão recorrida e determinar  ..  a desnecessidade do exame criminológico para progressão de regime do recorrente, conforme decidido pelo juízo competente da vara de execuções criminais (fl. 207).
+Oferecidas contrarrazões (fls. 282/308), o recurso foi admitido na origem (fl. 311).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 336/338):
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. PROGRESSÃO DE REGIME. REQUISITOS OBJETIVO E SUBJETIVO DISCIPLINADOS PELA LEI 10.792/03. OUTRAS EXIGÊNCIAS. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Em suma, o recorrente pleiteia pelo restabelecimento da decisão que concedeu a progressão de regime, entendendo pela desnecessidade de realização de exame criminológico, no caso em aposto.
+Sobre o tema, o Tribunal teceu os seguintes argumentos (fls. 72/74 - grifo nosso):
+ ..
+Com efeito, embora preenchido o requisito objetivo, realmente os méritos do sentenciado (requisito subjetivo) não restaram comprovados, uma vez que ele não foi submetido ao competente exame efetuado pela Comissão Técnica de Classificação.
+É necessária a realização de exame criminológico para se aferir se o condenado não oferece risco à integridade pública, uma vez que o agravado, embora primário, cumpre pena por crime grave, demonstrando que se trata de pessoa perigosa e nociva à sociedade.
+É certo que o artigo 112, da LEP, com a nova redação dada pela Lei nº 10.792/03, não fala mais que a decisão deverá ser precedida de parecer da Comissão Técnica de Classificação e de exame criminológico, quando necessário, como preceituava o antigo parágrafo único, do artigo 112, da Lei de Execução Penal.
+Contudo, não é menos certo que o novo texto do artigo 112, da LEP, assim reza:
+"A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão." (grifo nosso)
+A frase "a ser determinada pelo juiz", nada mais é do que um elemento subjetivo do tipo (se utilizando da técnica de interpretação da norma penal), pois o legislador ao inserir referida frase, que fica entre vírgulas, pretende dizer que concedeu ao juiz a liberdade de poder realizar os exames que entender necessário para, só então, conceder ou não a progressão pleiteada pelo preso.
+Ora, se a intenção do legislador fosse realmente de não mais exigir parecer da Comissão Técnica de Classificação e o exame criminológico, não haveria necessidade de se inserir no texto a frase acima mencionada, pois subtraindo-se a mesma do corpo do artigo 112, ora em comento, ele também faz sentido, senão vejamos:
+"A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão."
+O legislador não se utiliza de palavras vãs, portanto, está claro que a inclusão, no texto legal acima, da frase "a ser determinada pelo juiz", significa que a partir da promulgação da Lei nº 10.792/03, ficou a seu critério a realização do referido exame.
+ ..
+Entretanto, mesmo ficando a critério do Juiz "a quo" a realização ou não do exame criminológico, no presente caso, data vênia, ele não agiu com seu costumeiro acerto.
+Frise-se que o condenado cumpre pena pela prática de roubo qualificado, crime grave, que tem gerado grande temor nas pessoas, chegando algumas a sequer sair de casa ao anoitecer.
+Desta forma, como não ficou provado que o condenado possui méritos para a obtenção do benefício, o mesmo deve ser tornado sem efeito.
+Consequentemente, a r. decisão combatida deve ser reformada e o benefício cassado, devendo o sentenciado ser previamente analisado por uma equipe de profissionais habilitados, a fim de que se possa avaliar se a sua periculosidade diminuiu e que ele pode ser promovido para um regime mais ameno no qual a vigilância é menos rigorosa.
+ ..
+Com efeito, a jurisprudência desta Corte Superior sedimentou o entendimento de que embora a Lei n. 10.792/2003 -  ao alterar a redação do art. 112 da Lei de Execução Penal -  tenha afastado a exigência do exame criminológico para fins de progressão de regime, é possível ao magistrado de primeiro grau, ou mesmo a Corte estadual, diante das circunstâncias do caso concreto e adequada motivação, determinar a realização do exame (HC n. 304.872/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 9/6/2015).
+No mesmo sentido: HC n. 183.574/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/6/2011.
+O tema, inclusive, foi objeto da Súmula 439/STJ:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+No caso dos autos, no entanto, como se vê do trecho acima colacionado, o Tribunal de origem não destacou elementos concretos que justificassem a realização de exame criminológico para a progressão de regime.
+Por sua vez, o Superior Tribunal de Justiça já se manifestou no sentido de que a gravidade abstrata do delito praticado e a longevidade da pena a cumprir não se prestam, por si sós, como fundamentos para a realização do exame criminológico, tendo em vista que a exigência da perícia técnica deve se fundamentar em elemento concreto, constante da execução da pena, que ateste o demérito do sentenciado (HC n. 389.372/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/4/2017).
+Ainda nesse sentido: o HC n. 284.485/SP, Ministra Laurita Vaz, Quinta Turma, DJe 28/2/2014, HC n. 395.571/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/12/2017, HC n 417.391/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 12/12/2017, AgRg no HC n 410.976/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/12/2017 e HC n 332.108/SP, Ministro Felix Fischer, Quinta Turma, DJe 6/11/2015.
+Sendo assim, inidônea a fundamentação apresentada.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para conceder a progressão de regime ao recorrente, nos termos da decisão do juízo da 3ª Vara das Execuções Criminais da comarca de São Paulo/SP, nos termos da presente decisão.
+Publique-se.
