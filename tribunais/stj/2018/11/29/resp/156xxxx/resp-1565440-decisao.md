@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo CONSELHO REGIONAL DE BIOMEDICINA - 2ª REGIÃO, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"Processual Civil e Constitucional. Apelação atacando sentença que, nos autos de mandamus impetrado pelo Conselho Regional de Biomedicina da 2a Região, concedeu a segurança para declarar a ilegalidade e, em conseqüência, a nulidade das autuações e multas aplicadas aos profissionais biomédicos por atuarem na habilitação de radiologia sem inscrição no Conselho Regional dos Técnicos em Radiologia da 2a Região/CRTR2.
+1. Na pretensão mandamental, é nítido o propósito de defesa dos interesses coletivos dos profissionais Biomédicos, com a justificativa de necessidade de proteção ao livre exercício dessa profissão, máxime na área de radiologia, por ser causa de reiteradas lavraturas de infração por parte do Conselho Regional dos Técnicos em Radiologia da 2a Região/CRTR2.
+2. É assente na jurisprudência que a Justiça Federal é competente para dirimir controvérsias que envolvem os Conselhos de fiscalização das profissões regulamentadas, quando no exercício dos serviços a eles delegados, ou seja, quando o Conselho profissional age em nome próprio, não se inserindo, nesse contexto, a provocação jurisdicional para defesa de direitos, individuais ou coletivos, dos profissionais biomédicos, atuando como substituto processual, cuja prerrogativa encontra-se afeta à entidade sindical patronal a quem compete buscar refrear suposto abuso do poder de polícia de conselho de fiscalização profissional. Jurisprudência  AC 08000551120134058107, des. federal [NOME] (convocado); AGTR - 132166, des. federal Luiz Alberto Gurgel de Faria, DJe de 06 de agosto de 2013; MS 102611, des. Paulo Gadelha, DJe de 20 de julho de 2012, pág. 314 .
+3. Ausente a legitimidade ativa, extingue-se o processo, sem exame do mérito  art. 267, inc. VI, do Código de Processo Civil .
+4. Apelação prejudicada" (fl. 525e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 537/549e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"Processual civil. Embargos declaratórios. Alegação de omissão, quanto à análise do efetivo direito pleiteado na inicial, e contradição, por reconhecer a competência da Justiça Federal, para julgar demandas que envolvem Conselhos de Classe, mas, segundo alega, denegar o writ.
+Embargos declaratórios opostos pelo Conselho Regional de Biomedicina da 2a Região contra acórdão da egrégia Segunda Turma que extinguiu o processo, sem exame do mérito, nos termos do art. 267, inc. VI, do Código de Processo Civil, face à ilegitimidade ativa do ora embargante.
+Alegação de omissão e contradição não reconhecidas, porquanto o acórdão foi claro ao reconhecer a ilegitimidade ativa do CRBM2 para atuar como substituto processual na defesa de direitos individuais ou coletivos dos profissionais biomédicos, cuja prerrogativa encontra-se afeta à entidade sindical patronal a quem compete buscar refrear suposto abuso do poder de polícia de conselho de fiscalização profissional.
+Evidencia-se, em verdade, que a intenção da embargante é de reapreciação de matéria já decidida por esta Turma, o que é inviável por meio de embargos de declaração, tendo em vista que estes não se prestam à inovação, à rediscussão da matéria ou à correção de eventual error in judicando.
+Embargos declaratórios improvidos" (fl. 572e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos artigos 12 da Lei 6.684/79 e 21 da Lei 12.016/2009, sustentando ser parte legítima para impetrar Mandado de Segurança, em nome próprio, "por conta de uma ilicitude praticada pelo Conselho Regional dos Técnicos em Radiologia contra a profissão representada (..), in casu, a Biomedicina" (fl. 588e).
+Por fim, requer o provimento do recurso.
+Sem contrarrazões (fl. 651e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 652e).
+A irresignação não merece conhecimento.
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos artigos 12 da Lei 6.684/79 e 21 da Lei 12.016/2009, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
