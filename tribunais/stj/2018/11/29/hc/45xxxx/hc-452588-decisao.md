@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de WELLINGTON LUIS ALEIXO DE SOUZA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente, em cumprimento de pena no regime fechado, teve a condenação à pena restritiva de direitos convertida em privativa de liberdade pelo Juízo da Vara das Execuções Criminais de Marília (SP).
+Inconformada, a defesa interpôs agravo em execução perante o TJSP, que negou provimento ao recurso, nos termos da seguinte ementa:
+"Agravo de execução penal - Conversão de pena restritiva de direitos em privativa de liberdade - Impossibilidade de cumprimento simultâneo - Art. 44, § 5º, CP c.c. art. 181, § 1º, alínea "d", LEP - Decisão mantida.
+Recurso desprovido" (e-STJ, fl. 13).
+Neste writ, a Defensoria Pública do Estado de São Paulo alega que, como a condenação à pena restritiva de direitos foi posterior ao início do cumprimento da pena privativa de liberdade, deve ser aplicado o disposto no art. 76 do Código Penal, postergando-se o início do cumprimento da restrição imposta para depois de finda a pena privativa de liberdade.
+Sustenta que o disposto nos arts. 44, § 5º do Código Penal e 181, § 1º da Lei de Execuções Penais não se aplicam ao caso do paciente, pois o primeiro "fala expressamente na superveniência de condenação à pena privativa de liberdade" e o segundo "dispõe que a pena de prestação de serviços será reconvertida se o indivíduo previamente condenado à pena restritiva "sofrer condenação por outro crime à pena privativa de liberdade, cuja execução não tenha sido suspensa"" (e-STJ, fl. 4).
+Requer a concessão da ordem, inclusive liminarmente, para que seja cassada a decisão que determinou a conversão da pena restritiva de direitos em privativa de liberdade, "postergando-se o cumprimento da pena restritiva de direitos para período subsequente ao cumprimento da pena privativa de liberdade" (e-STJ, fl. 10).
+O pedido de liminar foi indeferido (e-STJ, fl. 22).
+Prestadas as informações (e-STJ, fls. 29-37 e 41-47), o Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (e- STJ, fls. 49-52).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Conforme relatado, busca-se, neste writ, o reconhecimento da impossibilidade de unificação das penas (privativa de liberdade e restritiva de direitos), quando a mais branda é imposta posteriormente ao início de cumprimento da mais severa.
+Ocorre que, sobrevindo pena restritiva de direitos a condenado que se encontra cumprindo pena privativa de liberdade, não se verifica a ocorrência das hipóteses legais de conversão previstas no art. 44, §§ 4º e 5º, do Código Penal. Contudo, o cumprimento simultâneo de pena privativa com pena restritiva deve mostrar-se compatível, o que não se confirma quando o apenado encontra-se cumprindo pena em regime semiaberto ou fechado. Destarte, faz-se mister a unificação das penas, nos termos do art. 111 da LEP, não havendo se falar, portanto, em aplicação do art. 76 do CP.
+Nesse sentido, confiram-se os seguintes precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. SUPERVENIÊNCIA DE CARTA DE GUIA PARA CUMPRIMENTO DE PENAS RESTRITIVAS DE DIREITOS. INCOMPATIBILIDADE DE EXECUÇÃO SIMULTÂNEA. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITO EM SANÇÃO CORPORAL. UNIFICAÇÃO DAS PENAS. LEGALIDADE. ARTS. 111 E 181 DA LEI DE EXECUÇÃO PENAL. INAPLICABILIDADE DO ART. 76 DO CÓDIGO PENAL. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO ORDINÁRIO DESPROVIDO.
+A jurisprudência deste Tribunal Superior firmou-se no sentido de que, no caso de nova carta de guia para execução de penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou semiaberto, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das reprimendas.
+Nesses casos, as penas restritivas de direito devem ser convertidas em sanção privativa de liberdade, unificando-se as sanções, nos termos dos arts. 111 e 181 da LEP, respectivamente, não sendo aplicável o art. 76 do CP. Precedentes.
+Recurso ordinário em habeas corpus desprovido." (RHC 93.248/SP, rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/8/2018.)
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE CONDENAÇÃO À REPRIMENDA RESTRITIVA DE DIREITOS. CONVERSÃO DA PENA ALTERNATIVA EM PRIVATIVA DE LIBERDADE. POSSIBILIDADE. INCOMPATIBILIDADE DAS REPRIMENDAS. 1. Havendo nova condenação no curso da execução e não sendo compatível o cumprimento concomitante da reprimenda restritiva de direitos com a privativa de liberdade anteriormente imposta, faz-se necessária a unificação das penas.
+2. Recurso provido." (REsp 1728864/MG, rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/5/2018.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. PACIENTE QUE CUMPRIA PENA PRIVATIVA DE LIBERDADE EM REGIME SEMIABERTO. NOVA CONDENAÇÃO A SANÇÕES ALTERNATIVAS. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. UNIFICAÇÃO DAS PENAS (ARTS. 76 E 111 DO CP E ART. 181, § 1º DA LEP). INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. ENTENDIMENTO CONSOLIDADO. DECISÃO MONOCRÁTICA. ADMISSIBILIDADE.
+1. Inexiste violação ao princípio da colegialidade, a teor do art. 34, XX, do RISTJ, quando a decisão monocrática for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça.
+2. É pacifico o entendimento desta Corte segundo o qual, havendo nova condenação no curso da execução e não sendo compatível o cumprimento concomitante da reprimenda restritiva de direitos com a privativa de liberdade anteriormente imposta, faz-se necessária a unificação das penas (art. 181, § 1º, e, da LEP e art. 44, § 5º, do CP).
+3. Agravo regimental improvido." (AgRg no HC 381.235/MG, rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 27/3/2018.)
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem pelo STJ.
+Ante o exposto, nos termos do art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, arquivem-se os autos.
