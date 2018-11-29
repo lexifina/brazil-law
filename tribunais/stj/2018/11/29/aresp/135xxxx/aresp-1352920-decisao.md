@@ -1,0 +1,53 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FURTO EM ESTACIONAMENTO DE COOPERATIVA. CONTRATO DE DEPÓSITO. AUSÊNCIA DE COMPROVAÇÃO. AUSÊNCIA DE RESPONSABILIDADE DA COOPERATIVA. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULAS Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] ([NOME]) promoveu contra COOPAVEL COOPERATIVA INDUSTRIAL (COOPAVEL) ação de indenização por danos materiais e morais. Alegou, em suma, que costumava prestar serviços de transporte de carga à demandada e, um dia, deixou seu caminhão estacionado no pátio da cooperativa, local de onde veio a ser furtado. Pugnou pelo direito ao ressarcimento pelos prejuízos sofridos, uma vez que o bem foi deixado sob guarda e responsabilidade da COOPAVEL.
+O Juízo monocrático julgou improcedentes os pedidos (e-STJ, fls. 364/366).
+[NOME] apelou e o Tribunal de Justiça do Estado do Paraná negou provimento ao recurso em acórdão assim ementado:
+APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - SENTENÇA DE IMPROCEDÊNCIA - FURTO DE CAMINHÃO EM PÁTIO DE COOPERATIVA - CONTRATO DE DEPÓSITO NÃO CARACTERIZADO - APLICAÇÃO ANALÓGICA DA SÚMULA 130 - INVIABILIDADE - DEVER DE GUARDA E VIGILÂNCIA - NÃO EVIDENCIADO - AUSÊNCIA DE AUTORIZAÇÃO TÁCITA - DEVER DE REPARAR INEXISTENTE - SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS - IMPOSSIBILIDADE DE MAJORAÇÃO - FIXAÇÃO PELO JUÍZO A QUO EM PERCENTUAL MÁXIMO. RECURSO DESPROVIDO.
+1. A moldura fática permite concluir ausente a implementação, na hipótese, da modalidade contratual de depósito voluntário, porquanto para se caracterizar, é necessário que o depositário manifeste a vontade de receber a coisa depositada de modo a assumir a obrigação de resultado, qual seja, a guarda e conservação da coisa até a sua restituição ao depositante. Certamente, ato de mera tolerância não enseja a formalização do contrato de depósito, sendo que, caso, nem mesmo a anuência tácita ré restou demonstrada.
+2. Não se desconhece a Súmula 130, do Superior Tribunal de Justiça, a qual preceitua que "a empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento". Entretanto, referido comando foi editado para abarcar aquelas situações em que caracterizados alguns requisitos, tais como a existência de um contrato de depósito (gratuito ou interesse da empresa clientela. Esse não caso dos autos. (e-STJ, fls. 424/425).
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, por violação do art. 627 do CC/2002. Aduziu, em síntese, que (1) o contrato de depósito ficou caracterizado quando a COOPAVEL autorizou a permanência do caminhão em seu pátio, e seu funcionário ficou com as chaves do veículo para o pernoite no local, fato que indica que o bem ficou sob a guarda e vigilância da recorrida; (2) há dissídio jurisprudencial sobre o tema (e-STJ, fls. 439/446).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 478/490).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+A irresignação não merece prosperar.
+(1) Da caracterização do contrato de depósito
+A Corte estadual assim dirimiu a controvérsia:
+A fim de justificar sua pretensão de reforma da sentença, o apelante defende a existência de contrato de depósito ou, ainda, de obrigação de guarda e vigilância tacitamente assumida pela cooperativa.
+Pois bem.
+O conjunto probatório carreado aos autos, revela que não se chegou a aperfeiçoar o liame contratual de depósito, entre o proprietário do caminhão furtado e a cooperativa ré.
+Em seu depoimento pessoal, o autor confessou que o caminhão furtado estava descarregado. Pontuou que, após o descarregamento, o veículo foi estacionado ao lado da balança, pelos funcionários da cooperativa. Contudo, o autor, por entender que o caminhão estava atrapalhando, o colocou em outro local. Disse que deixou as chaves com funcionário da requerida. Respondeu que deixou o bem no pátio da Coopavel, porque estava de motocicleta, não esclarecendo se houve autorização.
+Aduziu que, foi a primeira vez que deixou o caminhão descarregado pernoitar no pátio da cooperativa.
+O preposto da requerida, CLAUDIO TEODORO MEDES, esclareceu que a cooperativa permite, apenas, que os caminhões carregados pernoitem no pátio.
+As testemunhas [NOME] e [NOME] (esta arrolada pela requerida e aquela por ambas as partes), igualmente, afirmaram que, a cooperativa autoriza a permanência tão somente de caminhões carregados, consignando que o autor não foi autorizado a deixar o seu caminhão descarregado no pátio da cooperativa. Afirmaram, também, que o autor não deixou as chaves na cooperativa.
+A testemunha e o informante arrolados pelo autor, [NOME] e [NOME], não souberam precisar se as chaves do caminhão do autor foram deixadas com algum funcionário da cooperativa.
+Inexiste prova oral acerca da existência de guarda noturno, ou outro meio de segurança, fornecido pela cooperativa para a guarda dos caminhões.
+Destaca-se do caso concreto as seguintes premissas fáticas: a) não há solenização contratual, tampouco prova escrita do ajuste; b) a cooperativa permite a pernoite no pátio apenas de caminhões carregados; c) o veículo furtado estava descarregado; d) a prova produzida indica que o autor optou por deixar o veículo no pátio, sem a anuência da cooperativa; d) inexiste prova acerca da existência de serviço de guarda noturno; e) a prova oral aponta no sentido de que as chaves do veículo subtraído não foram deixadas no local; f) o furto ocorreu no período noturno, em horário diverso do funcionamento da cooperativa.
+Os dados destacados permitem inferir que, embora a cooperativa autorize a permanência noturna em seu pátio de caminhões para serem descarregados logo pela manhã, no caso vertente o caminhão não fora ali deixado com esse propósito. Ficara gratuitamente estacionado por conveniência ou necessidade dos interesses e serviços profissionais do autor.
+A moldura fática permite concluir ausente a implementação, na hipótese, da modalidade contratual de depósito voluntário, porquanto para se caracterizar, é necessário que o depositário manifeste a vontade de receber a coisa depositada de modo a assumir a obrigação de resultado, qual seja, a guarda e conservação da coisa até a sua restituição ao depositante.
+Certamente, ato de mera tolerância não enseja a formalização do contrato de depósito, sendo que, no caso, nem mesmo a anuência tácita da ré restou demonstrada.
+Ao contrário, o contexto probatório demonstra que o autor, por sua conta e risco, optou em manter o caminhão no pátio da cooperativa.
+Para que não paire qualquer dúvida, é imprescindível anotar ser inaplicável ao caso a jurisprudência pacificada no âmbito do Superior Tribunal de Justiça firmada em casos típicos de relação de consumo entre cliente e empresa comercial dotada de estacionamento para angariar clientela.
+Na hipótese ora em foco, afigura-se inviável a incidência das normas de proteção ao consumidor, pois, o caminhão furtado é produto empregado na atividade econômica explorada pelo autor, estando diretamente envolvido com os riscos da atividade-fim.
+Além disso, é certo inexistir o ânimo de auferir lucro por parte da demandada, razão pela qual o Código de Defesa do Consumidor não se aplica ao negócio jurídico estabelecido entre cooperativa e cooperado, quando se tratar de ato cooperativo típico, nos termos do artigo 79, da Lei 5.764/711.
+Portanto, in casu, não ocorreu qualquer atividade economicamente proveitosa para a demandada, valendo frisar que sequer um contrato gratuito se dera nesta hipótese, uma vez que o caminhão fora deixado no pátio à sua revelia.
+Ressalte-se que mera tolerância, fundada na boa -fé, de suportar a permanência do veículo no pátio sem a implementação de atos de retirada, como por exemplo, fazer guinchar o caminhão para a via pública, não permite inferir a implementação de contrato de depósito.
+(e-STJ, fls. 428/433, sem destaques no original).
+Da leitura do trecho destacado, verifica-se que o Tribunal a quo considerou os fatos e circunstâncias do caso concreto para a compreensão de que não houve o alegado contrato de depósito.
+Assim, para se alterar a conclusão a que chegou o acórdão recorrido, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula nº 7 do STJ. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou o conjunto probatório dos autos para concluir que não ficou comprovada a existência de contrato de depósito entre as partes. Alterar tal conclusão é inviável em recurso especial, ante o óbice da mencionada súmula.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 351.422/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 13/11/2017)
+(2) Do dissídio jurisprudencial
+Ante a incidência, no presente caso, da Súmula nº 7 do STJ, não é possível o conhecimento do recurso pela alínea c do permissivo, uma vez que não há similitude fática entre o paradigma apresentado e o acórdão recorrido
+Nessas condições, com fundamento no art. 1.042, § 5º, do CPC/2015 c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios, uma vez que já foram fixados em seu patamar máximo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do CPC/2015, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
