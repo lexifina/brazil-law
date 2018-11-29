@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 21/05/2018, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REDIRECIONAMENTO PARA SÓCIOS. INCONSTITUCIONALIDADE DO ARTIGO 13 DA LEI 8620/93. JUÍZO DE RETRATAÇÃO. ARTIGO 543-C, PARÁGRAFO 7º, INCISO II, DO CÓDIGO DE PROCESSO CIVIL DE 1973 (ART. 1040, II, NCPC). REFORMA DO ACÓRDÃO. AGRAVO LEGAL PROVIDO.
+1. O julgamento do recurso extraordinário nº 562.276, realizado na sistemática do art. 543-B do Código Processo Civil, ocasião em que o E. Supremo Tribunal Federal declarou a inconstitucionalidade do art. 13 da Lei 8.620/93, trouxe nova sistemática quanto à possibilidade de inclusão dos sócios na execução fiscal, qual seja, a prova de prática de atos com excesso de poderes ou infração de lei, contrato social ou estatutos.
+2. O Superior Tribunal de Justiça em julgamento de Recurso Especial submetido ao regime do art. 543-C do CPC, ajustou seu entendimento sobre a questão à vista da declaração de inconstitucionalidade do mencionado dispositivo legal.
+3. O reconhecimento da corresponsabilidade dos sócios, pelo simples fato do nome constar da CDA, chega-se a conclusão que a CDA é documento dissociado da realidade administrativa ou, por outro lado, decorre da aplicação aos créditos tributários-previdenciários pelo art. 13 da Lei 8620/93.
+4. Outrossim, o mero inadimplemento da dívida tributaria não é idôneo a configurar a ilicitude para fins de responsabilização dos sócios (Súmula 430 do STJ).
+5. Reforma do acórdão de fls. 398/v, para dar provimento ao agravo legal" (fls. 508/509e).
+Embargos de Declaração não acolhidos (fls. 523/531e).
+No Recurso Especial, manejado com base na alínea a do permissivo constitucional, alega-se violação aos arts. 124, 134 e 135 do CTN, 30, I, 32, II e IV, e 33 da Lei 8.212/91, 168-A e 337-A do Código Penal, 3º e 4º, V, e § 2º, da Lei 6.830/80, 2º da Lei 8.137/90 e 489, § 1º, e 1.022, II, parágrafo único, II, do CPC/2015.
+Sustenta-se, no que ora importa, o seguinte:
+"Nota-se que o v. acórdão citou precedentes obrigatórios que cuidam de sócio incluído na CDA automaticamente, por aplicação do artigo 13 da Lei 8.620/93 o que não é a hipótese dos autos.
+Contudo, os referidos julgados não tratam da hipótese dos autos, não servindo para impedir o conhecimento do recurso especial, mostrando-se necessário fazer o "distinguishing".
+Como já demonstrado, trata-se de hipótese de configuração de apropriação indébita e sonegação previdenciária e que dá azo à responsabilização dos administradores nos termos do artigo 135, III, do CTN. Ocorre que o v. acórdão, indeferiu o prosseguimento da execução em face dos administradores, porquanto o C. Superior Tribunal de Justiça e o C. Supremo Tribunal Federal teriam reconhecido a inaplicabilidade do artigo 13 da Lei 8.620/93.
+Não havendo identidade entre os fundamentos do recurso e os julgados citados, não há óbice ao seu conhecimento.
+Outrossim, conforme abaixo se demonstrará, o v. acórdão recorrido destoa da jurisprudência consolidada em sede de recurso especial repetitivo (nos Resp 1.104.900/ES e Resp 1.110.925/SP), pelo C. Superior Tribunal de Justiça" (fls. 540/541e).
+Aduz-se, ademais, que o acórdão recorrido teria incidido em omissão, justamente porque não atentou para o fato de que, na hipótese, não se cuidaria de redirecionamento com base em mero inadimplemento ou solidariedade tributária, mas de redirecionamento com base no cometimento de crime, a saber: apropriação indébita de contribuição previdenciária descontada de empregados.
+Requer-se, por fim, "seja conhecido e provido o presente Recurso Especial, pelo mérito para que seja determinada a reforma do v. acórdão nos termos acima expostos, caso antes não seja anulado por violação aos artigos 489 e 1.022, do Código de Processo Civil de 2015" (fls. 574/575e).
+Contrarrazões às fls. 591/592e.
+Recurso Especial admitido (fls. 232/233e).
+O presente recurso merece prosperar.
+Está devidamente configurada a omissão, no acórdão recorrido.
+Dessarte, muito embora o Tribunal de origem tenha sido instado, inclusive mediante Embargos de Declaração, a analisar o argumento de que o direcionamento, na hipótese, teria por base não o mero inadimplemento tributário, pela sociedade empresária, ou mesmo eventual solidariedade, mas a apropriação indébita, pelos sócios-gerentes, de valores descontados dos empregados, a título de contribuição previdenciária, deixou, aquele Sodalício, de enfrentar esse tema específico.
+Como eventual reconhecimento de que teria havido, no caso, mais do que mero inadimplemento tributário, verdadeira apropriação indébita poderia, em tese, inverter o resultado do julgamento, tem-se a ocorrência de negativa de prestação jurisdicional e violação ao art. 1.022, II, do CPC/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Aclaratórios da Fazenda Nacional, com o expresso enfrentamento da alegação de que, no caso, a inclusão, dos ora recorridos, na polo passivo da execução fiscal, teria por base não o mero inadimplemento tributário, pela sociedade empresária, mas a ocorrência de apropriação indébita de contribuição previdenciária, pelos seus sócios-gerentes.
+I.
