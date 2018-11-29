@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA JORNALÍSTICA. ALEGAÇÃO DE EXCESSO NO DEVER DE INFORMAR E OFENSA À HONRA. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+APELAÇÃO. MATÉRIA JORNALÍSTICA. LIBERDADE I)E IMPRENSA. FISCALIZAÇÃO DA ATIVIDADE PARLAMENTAR. INTERESSE PÚBLICO. EXCLUDENTE ANÍMICA. INEXISTÊNCIA DE ATO ILÍCITO. DANO MORAL NÃO CONFICURADO. PRECEDENTES DO STF E DO STJ.
+- A Constituição Federal assegura a liberdade da manifestação de pensamento. sendo a imprensa um dos veículos utilizados para a exteriorização do referido direito fundamental, de modo que a indenização decorrente de matéria jornalística encontra amparo somente quando houver abuso no exercício desse direito.
+- A divulgação e interpretação de informações relacionadas à atividade pública desenvolvida, e, portanto, a fatos ligados ao interesse coletivo, atrai verdadeira excludente anímica, apta a afastar o intuito doloso de ofender (animus injuriandi vel diffamando.
+- Inserindo-se a notícia na estrita liberdade de imprensa constitucionalmente assegurada, é possível concluir que o veículo atuou no exercício regular de um direito, e, mais ainda, de uni dever de informação e fiscalização dos agentes públicos, o que afasta a ilicitude do ato praticado e, por conseguinte, o dever de indenizar.
+- Precedentes do STF e do STJ.
+- Apelação Cível a que se dá provimento, e Recurso Adesivo a que se nega seguimento, à unanimidade.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, a recorrente apontou ofensa aos arts. 186, 187, 188, I, e 927 do CC, alegando que a Recorrida não agiu em estrita observância a liberdade de imprensa, tendo atuado com com abuso no dever de informação e de fiscalização dos agentes públicos.
+Houve contrarrazões.
+Determinei a conversão do agravo como recurso especial para melhor exame da matéria.
+Juízo de admissibilidade do presente recurso realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+A parte recorrente afirma que "a matéria publicada emitiu juízo de valor, com a intenção de denegrir a imagem do Autor da ação, extrapolando o simples intuito de informação"
+O Tribunal de origem, à luz das provas constantes dos autos, concluiu que o conteúdo da reportagem como um todo não ultrapassou os limites legais e constitucionais do direito à informação.
+É o que se infere do bem fundamento acórdão do Egrégio Tribunal de Justiça do Estado de Pernambuco (e-STJ fls. 526/531):
+Ora, é exatamente esse o caso dos autos. Ainda que não se possa afirmar com certeza que a ligação causal articulada pela apelante (negociação com o governo - retirada da assinatura) é verídica, pode-se extrair a verossimilhança da notícia não apenas das regras de experiência comum, pela observação do que ordinariamente acontece, haja vista tratar-se de prática sabidamente realizada no Congresso Nacional, mas também pela quantidade de veículos informativos que apresentou as mesmas razões para a mudança de posicionamento do apelado.
+Com efeito, foram acostadas à inicial diversas reportagens repercutindo negativamente o seu recuo (fls. 100/112), muitas delas ironizando a sua conduta, e, inclusive, sua justificativa (fl. 101, 105, 109, III, 112), mencionando expressamente a pressão realizada pelo governo (fl. 102), e relacionando abertamente sua decisão ao recebimento de verbas para emendas parlamentares (fl. 106, 108, 110).
+De outro lado, ainda que tivesse sido provada a falsidade dessa suposição, observo que a motivação apresentada pela imprensa não foi o real causador do dano à imagem do apelado, já que, segundo esta, sua mudança de opinião não teria se dado por motivos escusos ou egoísticos, ou para obter vantagens pessoais ilícitas ou indevidas, mas em benefício de seu próprio eleitorado.
+Dessa maneira, se, do episódio, a imagem do apelado restou comprometida junto aos seus eleitores, mesmo estes tendo sido informados de que seriam favorecidos pela sua conduta, é porque a lesão à sua popularidade deveu-se não às razões apresentadas por alguns jornalistas, mas sim à sua própria atitude - incontroversa - de retirar o apoio à CPI da Corrupção. (..)
+Diferentemente do que aduz o apelado, portanto, o impacto negativo desse fato em sua carreira não se deve a uma suposta violação ao seu direito de manifestação política, que foi livremente desempenhada, mas à consequência natural do seu exercício em uma democracia: o livre julgamento da opinião pública em relação à sua opção política.
+Nesse ponto, é preciso destacar que, para o Supremo Tribunal Federal, a liberdade de imprensa, enquanto projeção das liberdades de comunicação e de manifestação do pensamento, reveste-se de conteúdo abrangente, por compreender, dentre outras prerrogativas relevantes que lhe são inerentes, não apenas o direito de informar, mas também o direito de buscar a informação, o direito de opinar e o direito de criticar (STF - AI 690841 AgR, Relator: Min. CELSO DE MELLO, Segunda Turma, julgado em 21/06/2011). (..)
+Assim, é forçoso deduzir que a Constituição Federal assegura a liberdade da manifestação de pensamento, sendo a imprensa um dos veícu!os utilizados para a exteriorização do referido direito fundamenta! (art. 5º, IV e IX, e art. 220), de modo que a indenização decorrente de matéria jornalística encontra amparo somente quando houver abuso no exercício desse direito (art. 187, do Código Civil), o que não se verifica na presente hipótese.
+De fato, a publicação sob exame não excedeu as prerrogativas que lhe são conferidas pela Carta Magna, restringindo-se ao à divulgação e interpretação de informações re!acionadas à atividade pública desenvolvida pelo apelado, e, portanto, a fatos ligados ao interesse coletivo, o que, consoante o entendimento jurisprudencial citado, atrai verdadeira excludente anímica, apta a afastar o intuito doloso de ofender (animus injuriandi vel diffamandi).
+Como se sabe, o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Nesse cenário, alterar o entendimento do acórdão recorrido demandaria reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Intimem-se.
