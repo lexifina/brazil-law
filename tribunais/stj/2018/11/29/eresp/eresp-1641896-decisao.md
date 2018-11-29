@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por [NOME] DA ROCHA DA HORA em face de acórdão proferido pela Terceira Turma desta Corte, sob a relatoria da Ministra NANCY ANDRIGHI, assim ementado (fl. 512):
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA À COBERTURA DE TRATAMENTO QUIMIOTERÁPICO. PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FORÇA OBRIGATÓRIA DO CONTRATO. BOA FÉ OBJETIVA. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. FORNECIMENTO. IMPOSSIBILIDADE.
+1. Ação de obrigação de fazer ajuizada em 31.10.2013. Recurso especial atribuído ao gabinete em 25.08.2016. Julgamento: CPC/73.
+2. A questão posta a desate nestes autos, consiste em aferir se é abusiva cláusula contratual de plano de saúde, que restringe o fornecimento de medicamento importado sem registro na ANVISA.
+3. Ausente o vício do art. 535, II do CPC/73, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente e dos dispositivos legais indicados como violados, apesar da interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Na hipótese, além do contrato firmado entre as partes, a Lei 9.656/98 autoriza, expressamente, a possibilidade de exclusão do plano-referência o "fornecimento de medicamentos importados não nacionalizados".
+6. A manutenção da higidez do setor de suplementação privada de assistência à saúde, do qual a recorrente faz parte, depende do equilíbrio econômico financeiro decorrente da flexibilização das coberturas assistenciais oferecidas que envolvem a gestão dos custos dos contratos de planos de saúde.
+7. Determinar judicialmente o fornecimento de fármacos importados, sem o devido registro no órgão fiscalizador competente, implica em negar vigência ao art. 12 da Lei 6.360/76.
+8. Recurso especial conhecido parcialmente, e nessa parte, provido.
+O embargante aponta divergência com julgados da Quarta Turma, proferidos nos AgRg no AREsp 327.404/SP e AgInt no AREsp 877.577/SP, ambos de relatoria do Ministro ANTÔNIO CARLOS FERREIRA. Alega que deve prevalecer a tese acolhida nos acórdãos paradigmas, no sentido de que é abusiva a "cláusula contratual limitativa invocada para afastar a obrigatoriedade das operadoras de planos de saúde em autorizar determinados procedimentos médicos ou fornecer medicamentos importados ou de uso domiciliar, necessários para assegurar o tratamento doenças previstas no contrato privado de assistência médico-hospitalar" (fl. 552). Esclarece que, no caso dos autos, houve "negativa de fornecimento do medicamento "Brentuximab" para tratamento quimioterápico do Embargante, que é portador de [NOME], por parte da Operadora de Saúde sob a justificativa de exclusão contratual fundamentada no artigo 10, inciso V, da Lei 9.656/98, nos artigos 12 e 66, da Lei 6.360/76 e no artigo 10, inciso V, da Lei 6.437/77" (fl. 552).
+O Ministério Público Federal, em parecer da lavra do Subprocurador -Geral da República [NOME], opinou pelo não conhecimento dos embargos, em razão da ausência de similitude fático-jurídica entre os casos confrontados (fls. 627/634).
+Assim resumida a controvérsia, passo ao exame do recurso.
+Em que pese a ausência de bases fáticas apontadas pelo parecer ministerial, verifico que os julgados paradigmas apontados reconheceram como abusiva a recusa do plano de saúde em fornecer tratamento ou medicamento essencial à saúde do segurado.
+Recentemente, contudo, a Segunda Seção desta Corte, por unanimidade de votos, analisando com profundidade a questão em debate, firmou entendimento acolhendo especificamente a tese defendida pelo acórdão embargado.
+Na Sessão do dia 8.11.2018, no julgamento do Resp 1712163/SP, relator o Ministro MOURA RIBEIRO, ainda pendente de publicação, a Segunda Seção firmou, nos termos do artigo 1.036 do Código de Processo Civil, a seguinte tese repetitiva:
+As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA.
+Improcedente, portanto, os embargos que deduzem tese contrária à fixada em julgamento de recurso repetitivo, conforme prevê o artigo 266-C do Regimento Interno do STJ.
+Incide, ademais, a Súmula 168 desta Corte, segundo a qual: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168, CORTE ESPECIAL, DJ 22.10.1996).
+Em face do exposto, nego provimento aos embargos de divergência, com base no art. 266-C do RISTJ.
+Intimem-se.
