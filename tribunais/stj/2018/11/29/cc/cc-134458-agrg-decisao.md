@@ -1,0 +1,30 @@
+DECISÃO
+CONFLITO NEGATIVO DE COMPETÊNCIA. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DECISÃO RECONSIDERADA. JUSTIÇA COMUM E DO TRABALHO. VÍNCULO CELETISTA E ESTATUTÁRIO. PLEITO QUE ABARCA O REGIME CELETISTA. INCIDÊNCIA DA SÚMULA 97 DO STJ. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE A JUSTIÇA TRABALHISTA PARA APRECIAR O FEITO, NOS LIMITES DE SUA COMPETÊNCIA.
+1. Trata-se de Agravo Regimental interposto por MARIA EDILENE SANSSÃO CUSTÓDIO contra a decisão que conheceu do Conflito para declarar competente o juízo de direito estadual.
+2. Pugna a agravante pela reconsideração da decisão ora atacada, por entender que seu vínculo é celetista, e não estatutário, de forma que a competência para julgar a ação é do Tribunal Regional do Trabalho da 16a. Região.
+3. É o relatório.
+4. Merecem acolhimento as alegações da parte agravante, sendo impositiva a reconsideração do decisório agravado. Dessa forma, torno sem efeito a decisão agravada (fls. 327/330) e passo à nova análise do conflito de competência.
+5. Trata-se de Conflito de Competência negativo suscitado pelo JUÍZO DE DIREITO DA 1A. VARA DE BARRA DO CORDA - MA em face do TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIÃO, nos autos de reclamação trabalhista em desfavor do MUNICÍPIO DE BARRA DO CORDA/MA, objetivando o recebimento de verbas trabalhistas devidas a partir do período laboral datado de 1o.4.2006, na função de agente comunitário de saúde.
+6. A Justiça Laboral declinou da competência e determinou a remessa dos autos à Justiça Comum.
+7. O JUÍZO DE DIREITO DA 1A. VARA DE BARRA DO CORDA - MA, por sua vez, declarou-se igualmente incompetente pelos seguintes argumentos:
+Considerando que o(a) autor(a) foi contratado pelo Município sob o regime CELETISTA, sem registro na CTPS.
+Considerando que o caso não se enquadra nos fundamentos da decisão lavrada no julgamento da ADI n. 3.395.
+(..).
+Suscito o conflito de competênicia peran te o Superior Tribunal de Justiça, nos termos do art. 105, 1, d, da Constituição Federal (fls. 172/173).
+8. Após, determinou a remessa dos autos a esta Corte Superior.
+9. É o relatório.
+10. Conforme dessume-se dos autos, a parte autora reclama verbas trabalhistas relativas ao período em que foi contratada pelo MUNICÍPIO DE BARRA DO CORDA/MA, na condição de Agente de Saúde Municipal.
+11. Inicialmente, cumpre observar que a determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+12. Em face do advento da Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+13. O STF, porém, ao analisar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e os servidores a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+14. Tem-se, pois, que, se o vínculo estabelecido entre o Poder Público e o Servidor for estatutário, a competência para a análise das controvérsias trabalhistas será da Justiça Comum (estadual ou federal), ao passo que na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+15. In casu, verifica-se que a hipótese trata de relação contratual regida inicialmente pelo regime celetista, até a alteração da legislação Municipal, que estabeleceu o regime estatutário entre os Servidores e a Administração. Dos autos, verifica-se que o período pretendido pela autora refere-se, inicialmente, ao período compreendido sob o regime celetista.
+16. Assim, o Juízo Trabalhista é o competente para dar regular prosseguimento à demanda e analisar o pedido referente ao período no qual o vínculo entre as partes era o celetista, sem prejuízo de posterior ajuizamento de ação própria para exame da pretensão relativa ao período estatutário remanescente pela Justiça Comum.
+17. Portanto, inafastável a incidência do comando contido na Súmula 97 desta Corte: Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único. Nesse sentido:
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. EMPREGADO CONTRATADO SOB REGIME CELETISTA, POSTERIORMENTE ALTERADO PARA ESTATUTÁRIO. PEDIDOS E CAUSA DE PEDIR ASSOCIADOS AO PERÍODO CELETISTA. COMPETÊNCIA DO JUÍZO TRABALHISTA. SÚMULA 97 DO STJ. AGRAVO NÃO PROVIDO.
+1. O autor prestou serviços à extinta Empresa Municipal de Vigilância do Município do Rio de Janeiro, sob o regime celetista, de 20 de maio de 1991, data de sua admissão, a 14 de janeiro de 2010, quando, por força da Lei Complementar Municipal 100/2009, foi transposto para regime estatutário. Busca obter valores que considera devidos à previdência social, relativos especificamente a esse período.
+2.. Nesse contexto, inafastável a incidência do comando contido no enunciado sumular 97 desta Corte: Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único.
+3. Agravo regimental a que se nega provimento (AgRg no CC 129.749/RJ, Rel. Ministro SÉRGIO KUKINA, DJe 29.10.2014).
+18. Com base nessas considerações, reconsidera-se a decisão de fls. 319/322 e, a teor do art. 120, parágrafo único do CPC, conhece-se do presente Conflito de Competência e declara-se competente para processar e julgar a presente demanda o TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIÃO, nos limites de sua competência.
+19. Publique-se.
+20. Intimações necessárias.
