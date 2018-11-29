@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] e [NOME], contra decisão singular de minha relatoria, proferida às fls. 653/658, que julgou prejudicado o habeas corpus.
+Os agravantes sustentam atipicidade das condutas, em razão de [NOME] figurar como parte e testemunha ao mesmo tempo no processo e de [NOME], por ser sua companheira, não teria obrigação de prestar depoimento.
+Afirma, ainda, que o habeas corpus não está prejudicado em razão da extinção da punibilidade dos ora agravantes.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado para que seja reconhecida a atipicidade do fato.
+É o relatório.
+Decido.
+De fato, o pleito não se encontra prejudicado no que diz respeito ao pedido específico de atipicidade da conduta em favor dos ora agravantes.
+Todavia, a irresignação não merece acolhimento e o mandamus não deve ser conhecido.
+Em que pese a tentativa de argumentação dos agravantes, o pedido de atipicidade da conduta de falso testemunho implica no reexame aprofundado de todo o acervo fático-probatório, providencia totalmente incompatível com os estreitos limites do remédio heróico, que em função do seu rito célere e cognição sumária, não admite dilação probatória.
+Confiram-se os seguintes julgados de ambas as Turmas que julgam a matéria penal no Superior Tribunal de Justiça:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PACIENTE CONDENADO À SANÇÃO CORPORAL TOTAL DE 7 ANOS E 6 MESES DE RECLUSÃO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO PROBATÓRIO INVIÁVEL NA VIA ELEITA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE CONSIDERÁVEL E VARIEDADE DA DROGA APREENDIDA. POSSIBILIDADE. INTELIGÊNCIA DO ART. 42 DA LEI N. 11.434/2006. MAUS ANTECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- A estreita via do mandamus não permite análise dilatada de prova no intuito de reexaminar as razões e motivos pelos quais as instâncias de origem formaram o seu convencimento, especialmente como na hipótese, em que o acórdão recorrido apresentou fundamentação suficiente à manutenção da condenação do paciente pela prática do delito de tráfico de entorpecentes.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Consoante o disposto no artigo 42 da Lei 11.343/2006, na fixação da pena do crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente.
+- No caso, observa-se que a pena-base afastou-se do mínimo legal com base na significativa quantidade e variedade de drogas apreendidas (3,190g de maconha, 105,16g de cocaína) e nos maus antecedentes do acusado, não havendo qualquer ilegalidade a ser sanada, pois o acréscimo encontra-se proporcional e baseado em elementos concretos, devendo ser mantido em respeito à discricionariedade do julgador. Precedentes.
+- Habeas corpus não conhecido (HC 290.645/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 22/06/2016).
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. PEDIDO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRETENSÃO DE DESCLASSIFICAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTUM DE INCIDÊNCIA. MOTIVAÇÃO CONCRETA. QUANTIDADE DA SUBSTÂNCIA ENTORPECENTE APREENDIDA. ILEGALIDADE. AUSÊNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS IMPOSSIBILIDADE. PENA SUPERIOR A QUATRO ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. NÃO CONHECIMENTO.
+1. O habeas corpus, como é cediço, não é meio próprio para pretensão absolutória, porque trata-se de intento que demanda revolvimento fático-probatório, não condizente com os estreitos lindes do writ
+2. Hipótese em que as instâncias de origem concluíram, com arrimo nas provas e fatos constantes dos autos, que o delito de tráfico ilícito de entorpecentes restou plenamente caracterizado. Para se chegar à conclusão diversa, atendendo-se à pretensão de desclassificação, seria necessário proceder à análise do conjunto fático-probatório amealhado ao feito, o que não se admite em sede de habeas corpus, via angusta por excelência.
+(..)
+7. Writ não conhecido (HC 330.420/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 10/06/2016).
+Ante o exposto, dou provimento ao agravo regimental a fim de reconsiderar a decisão de fls. 653/658; todavia, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
