@@ -1,0 +1,24 @@
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COTEJO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Os embargos não podem ser conhecidos pela divergência se o recorrente não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+2. Embargos de divergência indeferidos.
+DECISÃO
+Cuida-se de embargos de divergência interpostos por CLARICE WELLAUSEN MESSIAS em face de acórdão proferido pela 4ª Turma do STJ.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada pela embargante em face de GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA, por meio da qual objetiva que a embargada autorize a realização de procedimento médico.
+Sentença: julgou parcialmente procedente o pedido, para "condenar a ré ao cumprimento de fazer, consistente esta em autorizar a intervenção cirúrgica necessária a autora com os respectivos materiais, sob pena de pagamento de multa diária de R$ 500,00 (quinhentos reais)" (e-STJ fls. 233/247).
+Acórdão: negou provimento à apelação interposta pela embargante
+Acórdão embargado: negou provimento ao agravo interno interposto pela embargante, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AMBOS OS PEDIDOS ACOLHIDOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/73. INAPLICABILIDADE DO CPC/2015. APLICAÇÃO DO ART. 20, § 4º, DO CPC/73. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM 10% SOBRE O VALOR DA CONDENAÇÃO A TÍTULO DE DANOS MORAIS. AGRAVO INTERNO DESPROVIDO.
+1. O Ministro Relator está autorizado a julgar recurso por decisão singular quando o v. acórdão estadual estiver em confronto com a jurisprudência dominante do eg. STJ, sendo que a possibilidade de julgamento monocrático não foi eliminada com o advento do Código de Processo Civil de 2015, conforme se verifica no art. 932, III, IV e V, do CPC/2015 e na Súmula 568/STJ. Ademais, eventual mácula fica superada com o julgamento colegiado do recurso pelo eg. órgão competente.
+2. Conforme recentes precedentes desta eg. Corte, a legislação aplicável no tocante à fixação de honorários advocatícios sucumbenciais é aquela vigente à época da sentença que fixou a condenação. Precedentes: EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 27/11/2017; e REsp 1.465.535/SP, Rel. MINISTRO LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2016, DJe de 22/8/2016.
+3. No caso, a parte ora agravada foi condenada a cumprir a obrigação de fazer - autorização para realização de procedimento médico - e a pagar indenização a título de danos morais. Nessa senda, apenas a condenação em danos morais possui conteúdo econômico, motivo pelo qual os honorários advocatícios sucumbenciais devem ser fixados quanto a essa condenação.
+4. Agravo interno desprovido.
+Embargos de divergência: alega que a solução da questão conferida pela 4ª Turma diverge da conclusão, sobre a mesma matéria, alcançada pela 3ª Turma. Aduz que, para fins de base de cálculo dos honorários advocatícios, deve ser considerado tanto o custo do tratamento médico quanto o valor fixado a título de danos morais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+Os embargos de divergência, nos termos dos arts. 1.043 do CPC/15 e 266 do RISTJ, constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça.
+Conforme determinam esses dispositivos, a divergência indicada na via excepcional dos embargos deve ser comprovada mencionando-se, de forma clara e precisa, as circunstâncias que identifiquem ou assemelhem as hipóteses confrontadas, sendo, portanto, de se exigir a realização do devido cotejo analítico. Só assim os embargos podem cumprir a sua função precípua de solucionar controvérsias estritamente jurídicas sobre as quais divirjam duas ou mais Turmas deste Tribunal (AgInt nos EAREsp 862.496/MG, Corte Especial, DJe de 30/11/2016).
+Há necessidade, portanto, de confronto entre o acórdão recorrido e trechos das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não se satisfaz com a simples transcrição de ementas (AgInt nos EREsp 1.377.705/SP, 2ª Seção, DJe de 19/09/2016; e AgInt nos EAREsp 740.220/SP, Corte Especial, DJe de 21/09/2016).
+No particular, todavia, verifica-se que não foram indicadas, de maneira analítica, as circunstâncias que assemelham os acórdãos em confronto, tampouco foi procedido ao cotejo entre os julgados apontados como divergentes.
+Forte nessas razões, INDEFIRO os embargos de divergência, com amparo no art. 932, III, do CPC/2015 e no 266-C do RISTJ.
+Publique-se. Intimem-se.
