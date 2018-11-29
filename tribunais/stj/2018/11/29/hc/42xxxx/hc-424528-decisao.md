@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] [NOME] [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n. 0005060-84.2015.8.26.0597.
+Infere-se dos autos que o paciente foi condenado pela prática do delito tipificado no art. 157, § 2º, incisos I e II, do Código Penal (roubo majorado), à pena de 5 anos e 4 meses de reclusão, em regime inicialmente fechado.
+Irresignada, a defesa interpôs apelação perante o Tribunal estadual, que negou provimento ao recurso, em acórdão acostado às fls. 252/262.
+Daí o presente writ, no qual a defesa alega constrangimento ilegal na majoração da pena na terceira fase de dosimetria, pois não houve fundamentação concreta. Invoca o Enunciado n. 443 da Súmula desta Corte de Justiça. Aduz ser incabível o aumento da pena em 3/8 pela Corte estadual.
+Sustenta que o regime fechado foi fixado com base na gravidade abstrata do delito, violando os Enunciados n. 718 e 719 da Súmula da Suprema Corte e n. 440 da Súmula deste Tribunal.
+Requer, assim, em liminar e no mérito, a revisão da dosimetria da pena na terceira fase, bem como a fixação de regime prisional mais brando.
+Indeferida a liminar às fls. 274/275, a defesa interpôs agravo regimental, que não foi conhecido (fls. 336/339).
+As informações foram prestadas às fls. 328/331 e o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 369/373).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+O Juízo de primeiro grau aplicou a pena e fixou o regime prisional fechado sob a seguinte fundamentação:
+Na análise das diretrizes do artigo 59 do Código Penal, não vislumbro circunstâncias judiciais aptas a valoração de forma negativa, motivo pelo qual, fixo a pena base no mínimo legal.
+Não incidem agravantes, tampouco atenuantes.
+Incidem as causas de aumento previstas no artigo 157, parágrafo 2º, I e II e do Código Penal, razão pela qual, aumento a pena em 1/3, de modo que fixo definitivamente a pena em 5 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa, no valor unitário mínimo.
+Fixo regime inicial fechado, eis que "avulta como o único consoante com a finalidade de prevenção e repressão a temidos autores de assalto. Com efeito, não bastasse a substancial intranquilidade gerada no meio social pelo crime de roubo "deve ensejar uma resposta estatal mais contundente, visando reprimir a formação de núcleos voltados à prática de atividades delitivas, aptos a oferecer maior lesividade aos pilares do convívio pacífico do que a ação individual (..)", consoante deliberou a Augusta Câmara nas Apelações Criminais nº:993.07.042915-1 (Comarca de Ribeirão Preto). Ademais, o acusado responde a inúmeros processos pelo mesmo crime, o que denota o o regime fechado é o único apto a cumprir a finalidade da pena.
+Deixo de substituir a pena privativa de liberdade pela pena restritiva de direitos, com fulcro no artigo 44 do Código Penal, tendo em vista a pena imposta, que ultrapassa quatro anos. Além disso, o crime foi perpetrado mediante grave ameaça. Pelos mesmos motivos, deixo de conceder o sursis, nos termos do artigo 77 do Código Penal.
+Ante o exposto, JULGO PROCEDENTE o pedido formulado, assim o fazendo para CONDENAR [NOME], como incursos no artigo 157, parágrafo 2º, I e II do Código Penal, à pena em 5 (cinco) anos e 4 (quatro) meses de reclusão, no regime inicial fechado e 13 (treze) dias-multa, no valor unitário mínimo (fls. 182/183).
+O Tribunal de Justiça estadual, por sua vez, manteve a pena fixada na sentença, sob a seguinte fundamentação:
+As majorantes do emprego de arma e do concurso de agentes restaram cabalmente demonstradas pela prova oral colhida. Os ofendidos narraram, com detalhes, os lances do assalto, sempre asseverando o concurso de agentes e o uso de arma de fogo.
+No que concerne às reprimendas, verifica-se que foram criteriosamente dosadas, observadas as especificidades do caso concreto e de acordo com o livre e prudente convencimento do MM. Juízo de Primeiro Grau, nada havendo a ser reparado, até porque as penas restaram fixadas na base, com acréscimo mínimo de 1/3 (um terço) ainda que presentes duas qualificadoras.
+A esta altura, insta frisar que, ausentes os requisitos do artigo 44, do Código Penal, incogitável a substituição da reprimenda corporal por restritivas de direitos.
+Inviável o pleito defensivo de redução da pena de multa ou mesmo de isenção de seu pagamento, sob o fundamento de ser o réu pobre e sem condições de suportá- la, pois, assim como a pena privativa de liberdade, a fixação da pena de multa decorre de cominação legal, a todos imposta, dentro dos parâmetros previstos para o delito, servindo a situação econômica, tão só, como parâmetro para a fixação de seu valor, que o foi, no caso, no valor unitário mínimo, mas sem isenção, na esteira de jurisprudência a respeito, a saber:
+ ..
+Quanto ao regime prisional imponível à espécie, insta conservar-se a adoção da modalidade inicial fechada, pois, inobstante o tempo de prisão provisória do apelante, a opção pelo regime prisional mais gravoso, atendeu, sobretudo em virtude da gravidade concreta dos fatos em apreço notadamente a grave ameaça exercida com emprego de arma de fogo e concurso de agentes -, ao disposto no artigo 33, § 3º, do Código Penal, não havendo, dessarte, falar-se na incidência, in casu, das Súmulas nºs 440 e 443 do Colendo Superior Tribunal de Justiça, 718 e 719 do Pretório Excelso, e artigo 387, § 2º, do Código de Processo Penal (acrescentado pela Lei nº 12.736/12).
+Dessarte, aqui mantido o regime prisional inicial fechado, quaisquer alegações a respeito da aplicação do instituto da detração penal e/ou progressão, deverão ser objeto de análise na fase de execução da sentença, após o trânsito em julgado e expedição da guia de recolhimento.
+Por derradeiro, não é de se acolher o pleito de concessão dos benefícios da Justiça Gratuita, pois o acusado, assistido por defensor constituído, não logrou demonstrar sua alegada hipossuficiência econômica (fls. 259/262).
+Inicialmente, quanto a primeira controvérsia, referente à majoração da pena na terceira fase, verifica-se que a pena-base foi fixada no mínimo legal e as majorantes foram reconhecidas na terceira fase, tendo sido aplicada a fração mínima de 1/3.
+Dessa forma, mostra-se evidente a falta de interesse processual da defesa nesse ponto.
+O art. 157, § 2º, incisos I e II, do Código Penal - CP, assim dispõem:
+Art. 157 - Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência:
+Pena - reclusão, de quatro a dez anos, e multa.
+§ 1º -  ..
+§ 2º - A pena aumenta-se de um terço até metade:
+I - se a violência ou ameaça é exercida com emprego de arma;
+II - se há o concurso de duas ou mais pessoas;
+ ..
+
+Ao que se tem, as instâncias ordinárias, na terceira fase da dosimetria da pena cominada ao paciente, elevaram a pena em 1/3 (um terço), patamar mínimo previsto no § 2º do art. 157 do Código Penal.
+Assim sendo, não resta evidenciado o constrangimento ilegal, em razão da majorante do concurso de pessoas e do uso de arma terem sido reconhecidas e utilizadas para fundamentar a exasperação da pena em 1/3 na etapa final da dosimetria.
+Noutro ponto, no que se refere ao regime prisional, é firme neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime prisional mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal - CP. Nesse sentido, foi elaborado o Enunciado n. 440 da Súmula desta Corte, que prevê:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+No mesmo sentido, são os Enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Os fragmentos do acórdão acima transcritos e o exame dos autos revelam que, após fixar a pena-base no mínimo legal por considerarem favoráveis as circunstâncias judiciais do art. 59 do Código Penal - CP, o Tribunal de origem deixou de consignar em que medida a ação delitiva do paciente teria transbordado para um comportamento mais grave, ensejando, assim, a necessidade de fixação de regime mais gravoso que o previsto no art. 33, § 2º, "b", do CP.
+Dessarte, seguindo o entendimento firmado por este Tribunal Superior, a mera referência genérica, pela Corte estadual, à violência e à grave ameaça empregadas no delito de roubo, não constitui motivação suficiente, por si só, para justificar a imposição de regime prisional mais gravoso, porquanto refere-se à situação já prevista no próprio tipo.
+Outrossim, a pena restou fixada em 5 anos e 4 meses de reclusão. Dessa forma, sendo a reprimenda definitiva inferior a 8 anos de reclusão, reconhecidas as circunstâncias judiciais favoráveis e a primariedade do paciente, cabível a imposição do regime semiaberto para iniciar o cumprimento da sanção corporal, à luz do art. 33, §§ 2º e 3º, do CP.
+A propósito, confiram-se os seguintes precedentes:
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISOS I E II DO CÓDIGO PENAL). REGIME INICIAL FECHADO DETERMINADO COM BASE NA GRAVIDADE EM ABSTRATO DO DELITO. ELEMENTOS PRÓPRIOS DO TIPO PENAL VIOLADO. DESCABIMENTO. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. ART. 33, §§ 2º E 3º, DO CÓDIGO PENAL. SÚMULAS 440 DESTE STJ E 718 E 719 DA SUPREMA CORTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ALTERAÇÃO PARA O MODO SEMIABERTO. RECLAMO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, fixada a pena-base no mínimo legal e sendo o acusado primário e sem antecedentes criminais, não se justifica a fixação do regime prisional mais gravoso (Súmula 440/STJ).
+2. A Suprema Corte, nos verbetes 718 e 719, sumulou o entendimento de que a opinião do julgador acerca da gravidade abstrata do delito não constitui motivação idônea a embasar o encarceramento mais severo do sentenciado.
+3. Recurso provido a fim de alterar o regime inicial para o semiaberto (RHC 66.895/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/03/2016).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. ROUBO MAJORADO E RECEPTAÇÃO. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO NA VIA ELEITA. REVOLVIMENTO FÁTICO-PROBATÓRIO. REGIME INICIAL FECHADO. GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTO INIDÔNEO. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+V - Uma vez atendidos os requisitos constantes do art. 33, § 2º, alínea b, e § 3º, e do artigo 59 do CP, quais sejam, a ausência de reincidência, condenação por um período superior a 4 (quatro) anos e não excedente a 8 (oito) anos, e a existência de circunstâncias judiciais totalmente favoráveis, deve o paciente cumprir a pena privativa de liberdade no regime inicial semiaberto (precedentes).
+VI - A gravidade genérica do delito, por si só, é insuficiente para justificar a imposição do regime inicial fechado para o cumprimento de pena. Faz-se indispensável a criteriosa observação dos preceitos inscritos nos artigos 33, § 2º, alínea b, e § 3º, do CP (precedentes).
+VII - Nos termos do Enunciado Sumular nº 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+VIII - "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (enunciado nº 718 da Súmula do col. Pretório Excelso).
+IX - "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (enunciado nº 440 da Súmula desta Corte).
+Habeas corpus não conhecido. Ordem concedida parcialmente de ofício tão somente para fixar o regime prisional semiaberto para o início do cumprimento da pena (HC 343.283/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 21/03/2016).
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem, de ofício, para fixar o regime inicial semiaberto para cumprimento de pena.
+Publique-se.
+Intimações necessárias.
