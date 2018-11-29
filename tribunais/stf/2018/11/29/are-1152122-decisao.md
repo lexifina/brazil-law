@@ -1,0 +1,21 @@
+Decisão: A Primeira Turma do Tribunal Regional Federal da 3ª Região negou provimento ao recurso de apelação interposto pela defesa e deu parcial provimento à apelação do Ministério Público.
+    Daí os recursos especial (eDOC 4, p. 10-20; eDOC 4, p. 35-45) e extraordinários (eDOC 4, p. 21-34; eDOC 4, p. 46-).
+    No RE, fundado no art. 102, III, “a”, da Constituição Federal, alegou-se ofensa ao art. 5º, LIV e LV, da Constituição Federal, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    Inadmitiram-se os recursos especial e extraordinários (eDOC 4, p. 98-100; 102-104; 105-110 e 111-113).
+    Daí a interposição do AREsp 424.373/SP (eDOC 4, p. 116-123 e 131-140) e do presente ARE (eDOC 4, p. 124-130 e 144-152).
+    O relator, no STJ, não conheceu do agravo interposto por Cleide Gonçalves Otarola e negou provimento ao agravo de Ramiro Teles dos Santos (eDOC 5, p. 3-12). Posteriormente, a Sexta Turma daquela Corte não conheceu do agravo de Ramires Teles dos Santos e negou provimento ao agravo de Cleide Gonçalves Otarola (eDOC 5, p. 48-61). Desse acórdão, ainda houve a interposição de RE por Ramiro Teles dos Santos, ao qual foi negado seguimento (eDOC 5, p. 91-93) e, após, a Corte Especial negou provimento ao agravo regimental interposto, bem como determinou a certificação do trânsito em julgado (eDOC 5, p. 119-127). Finalmente, rejeitaram-se os Embargos de Declaração no ARE no RE no AgRg no Agravo em Recurso Especial 424.373/SP (eDOC 5, p. 153-160).
+    É o relatório.
+    Decido.
+    A presente irresignação recursal não merece prosperar, porquanto a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Outrossim, no tocante à eventual ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE 748.371 RG/MT, por mim relatado, Plenário, DJe 1º.8.2013 (Tema 660). Nessa oportunidade, esta Corte rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido, recentemente: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
