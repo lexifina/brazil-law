@@ -1,0 +1,18 @@
+Trata-se de habeas corpus impetrado em favor de Fernando Pereira Borges contra decisão do Ministro Rogerio Schietti Cruz do Superior Tribunal de Justiça - STJ, que indeferiu liminarmente o HC 463.998/RJ.
+    Consta dos autos que a Polícia Civil do Distrito Federal representou à autoridade judiciária pela prisão preventiva do paciente no bojo de investigação criminal instaurada “para apurar a atuação de organização criminosa, cuja principal atividade é sonegar impostos, gerando créditos podres de ICMS através de empresas constituídas para fins ilícitos” (pág. 3 do documento eletrônico 18).
+    Segundo a polícia judiciária, o paciente “é o principal articulador do esquema até então revelado”, atuando “como uma espécie de corretor e aliciador de laranjas, exercendo, por óbvio, poder e domínio sobre essas, eis que geralmente pessoas humildes” e, “se liberto for, irá ameaçar testemunhas e envolvidos, a mando dos principais beneficiários, empresários abonados e inescrupulosos, de grande influência local na cidade de Unaí/MG” (pág. 7 do documento eletrônico 18).
+    Ao decidir sobre a decretação da prisão preventiva, o Magistrado de primeiro grau verificou que o crime em apuração (art. 1°, II e V, da lei 8.137/1990) possui pena máxima superior a 4 anos”, bem como a necessidade de garantir a ordem pública, uma vez que se encontra “imerso em práticas criminosas, a evidenciar o risco concreto de reiteração criminosa, podendo utilizar o seu poder financeiro, ainda, para influenciar na colaboração de testemunhas/investigados e, por consequência, macular a instrução criminal” (pág. 5 do documento eletrônico 3).
+    Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça do Distrito Federal e dos Territórios – TJDFT. No entanto, o pedido liminar foi indeferido pelo Desembargador Relator.
+    Contra a negativa da medida cautelar foi impetrado habeas corpus no Superior Tribunal de Justiça. Ao analisar o writ, o Ministro Relator indeferiu liminarmente, aplicando a Súmula 691/STF.
+    Contra a referida decisão é o presente writ, no qual a defesa sustenta “a abusividade do recolhimento preventivo do paciente e do não preenchimento dos requisitos legais para a manutenção da prisão preventiva” (pág. 16 do documento eletrônico 1).
+    Requer, por fim, a concessão da ordem de habeas corpus para revogar a prisão preventiva.
+    É o relatório. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática do Ministro Rogerio Schietti Cruz, que indeferiu liminarmente o pedido de habeas corpus.
+    Ocorre que a Constituição Federal atribui ao Supremo Tribunal Federal a competência para processar e julgar, originariamente, o habeas corpus, quando o coator for Tribunal Superior (art. 102, I, i, da CF/1988).
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
