@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO ESTADUAL APRESENTOU ADEQUADA FUNDAMENTAÇÃO. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação dos arts. 489, § 1º, e 1.022 do CPC/2015, na medida em que o acórdão estadual abordou todos os pontos necessários à composição da lide e ofereceu conclusão conforme à prestação jurisdicional solicitada. Inexiste omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada, e apenas se deixa de adotar a tese do embargante. Precedentes.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por EMPRESA JORNALÍSTICA O OBSERVADOR DE RONDÔNIA e TUDORONDONIA contra decisão (fls. 429/433) que negou provimento ao seu recurso especial, sob os seguintes fundamentos: (I) não cabimento de recurso especial por violação ao art. 5º, X, e 220, ambos da CF/88; e (II) ausência de violação dos arts. 489, § 1º, e 1.022, II, parágrafo único, do CPC/2015.
+Nas razões do agravo interno, alega-se que "É cedido que, a vedação ao que se chama de "falsas fundamentações" poderia sob exame constitui mostra de que o CPC não busca celeridade a todo custo, preocupando-se, também, em melhorar a qualidade da prestação jurisdicional" (fls. 440/441, grifado no original).
+Afirma-se que "O juízo a quo limitou-se a informar que houve a prevalência do direito à intimidade sobre o direito de liberdade de imprensa, contudo não justifica tal ato, ferindo assim a legislação processual" (fl. 441, grifado no original).
+Sustenta-se que, "Após a prolação do acórdão pelo colegiado local, no qual negou provimento ao Embargos de Declaração, e logo após, Recurso Especial, por parte deste maior prejudicado, onde se verberara, ao menos, três pontos sobre os quais o v. acórdão foi ausente de  fundamentação, não sendo apreciados pelos desembargadores, argumentos que poderiam ensejar outra decisão, sendo eles a antinomia entre as garantias fundamentais de liberdade de  expressão e o direito à imagem e afins; a contradição em votos proferidos e os precedentes demonstrados, os quais salvaguardam o interesse público no exercício da imprensa" (fl. 443, grifado no original).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Intimado, SERGIO PAULO DE MELLO MENDES FILHO não apresentou impugnação (certidão de fl. 450).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): O recurso em apreço não merece prosperar, uma vez que a parte agravante não apresentou argumentos aptos a modificar a decisão vergastada, de relatoria do em. Ministro Lázaro Guimarães - Desembargador convocado do TRF 5ª Região.
+Nas razões do agravo interno, os agravantes reiteram a ausência de fundamentação no v. acórdão estadual, o qual teria apresentado fundamentos genéricos, bem como em razão de não ter apreciado determinados argumentos apresentados na apelação que poderiam ensejar outra decisão. A decisão vergastada, por sua vez, encontra-se assentada nos seguintes termos (fls. 430/431):
+ "Outrossim, sustentam os recorrentes violação dos arts. 489, § 1º, inciso IV, 1.022, inciso II, parágrafo único, do CPC/2015, ao argumento de que o v. acórdão seria omisso na análise do conflito entre as garantias fundamentais, quais sejam liberdade de expressão e direito a imagem, dentre outros.
+ O recurso, contudo, não merece acolhimento.
+ Isso porque, da análise minudente do v. acórdão estadual, verifica-se que o v. acórdão tratou a respeito da alegada antinomia dos direitos fundamentais, os quais foram expressamente ponderados pelo eg. TJ-RO. À título elucidativo, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 329/330):
+"O autor-apelante insurge-se contra a divulgação pelo YouTube de
+vídeo divulgado pelas requeridas apeladas, intitulando a matéria como: "Diretor do João Paulo II surta, fica nu e é preso em Porto Velho" (fl. 30); "Chocante - Vídeo mostra diretor do [NOME]
+surtado, nu e sendo contido por seguranças e policiais" (fl. 34); "Diretor do João Paulo tira a roupa e é dominado por seguranças" (fl. 39); "Diretor do João Paulo II surta e é preso." (fl. 42).
+Impende salientar que é questão trabalhosa precisar os limites da liberdade de comunicação sem que esta venha a extrapolar e atingir outras garantias constitucionais, como o direito à inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas, o que assegura a indenização pelo dano material e moral decorrente de sua violação (art. 5º, X, CF).
+Há que se considerar que o objetivo da notícia é o interesse público e que a liberdade de expressão e de comunicação encontram seus limites na fronteira do abuso, devendo-se repudiar a pura intenção de denegrir e a existência de imputação falsa. Cumpre ao Tribunal, assim, analisar acerca de existência de tais elementos no que se refere ao caso dos autos.
+Compulsando os autos e todo seu conjunto probatório, verifica-se que além do vídeo, a notícia em si apenas retratava o observado nas imagens, não tendo cunho inverídico.
+Nessa esteira, a divulgação da imagem não é contrária ao direito,desde que a informação verse sobre fatos verdadeiros, tal como é a situação dos autos. Não há ocorrência de abuso e não há se de atribuir dever de indenizar (arts. 186 do CC, e 5º, V e X, da CF), já que a responsabilidade dos órgãos de imprensa, dos jornalistas em geral e colaboradores, é disciplinada pela teoria subjetiva e que não dispensa a culpa, não provada no caso sob apreciação, elemento informador do animus injuriandi ou animus nocendi, sendo certo que as notícias veiculadas, conforme se depreende, são informativas, não se vislumbrando ataque à pessoa do autor" (grifou-se).
+Nesse cenário, verifica-se que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se uníssona jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+Com efeito, em que pese a irresignação dos agravantes, verifica-se que o eg. Tribunal estadual apresentou decisão coesa quanto à antinomia dos direitos fundamentais e fundamentou a ponderação feita entre os direitos à intimidade e à liberdade de expressão.
+Assim, é indubitável que o acórdão ora atacado abordou todos os pontos necessários à composição da lide, ofereceu conclusão conforme à prestação jurisdicional solicitada, encontra-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições.
+Salienta-se, novamente, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se estes precedentes:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AÇÃO CIVIL PÚBLICA. CARTÃO DE CRÉDITO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. VIOLAÇÃO AOS ARTS. 427 DO CÓDIGO CIVIL E 30 DO CDC. INCIDÊNCIA DA SÚMULA 83 DO STJ. ALTERAÇÃO DO VALOR DA MULTA COMINATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Não há que se falar em violação ao artigo 535 do CPC, quando o Tribunal local apreciou, ainda que de forma contrária à pretensão das partes, a insurgência posta na lide e apresentou os fundamentos em que apoiou suas conclusões.
+(..)
+4. Embargos de declaração recebidos como agravo regimental a que se
+nega provimento."
+(EDcl no AREsp 528.668/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/08/2014, DJe de 26/08/2014, grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide. O fato de a decisão ser contrária aos interesses da parte recorrente não configura negativa de prestação jurisdicional.
+(..)
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."
+(EDcl no AgRg no AREsp 258.442/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/02/2014, DJe de 07/03/2014, grifou-se)
+Dessa forma, verifica-se que o presente recurso não merece prosperar.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
