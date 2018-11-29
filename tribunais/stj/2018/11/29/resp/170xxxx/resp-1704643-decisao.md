@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão cuja controvérsia diz respeito, entre outros temas, à possibilidade de condenação ao pagamento de honorários advocatícios sucumbenciais à Defensoria Pública, quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+Passo a decidir.
+O Supremo Tribunal Federal, por meio do Recurso Extraordinário n. 1.140.005/RJ, Relator Ministro Roberto Barroso, DJe de 10/08/2018, reconheceu a repercussão Geral da questão jurídica controvertida, nos seguintes termos:
+Direito Constitucional. Recurso Extraordinário. Pagamento de honorários à Defensoria Pública que litiga contra o ente público ao qual se vincula. Presença de repercussão geral.
+1. A decisão recorrida excluiu a condenação da União ao pagamento de honorários advocatícios à Defensoria Pública da União.
+2. A possibilidade de se condenar ente federativo a pagar honorários advocatícios à Defensoria Pública que o integra teve a repercussão geral negada no RE 592.730, Rel. Min. Menezes Direito, paradigma do tema nº 134.
+3. As Emendas Constitucionais nº 74/2013 e nº 80/2014, que asseguraram autonomia administrativa às Defensorias Públicas, representaram alteração relevante do quadro normativo, o que justifica a rediscussão da questão.
+4. Constitui questão constitucional relevante definir se os entes federativos devem pagar honorários advocatícios às Defensorias Públicas que os integram. 5. Repercussão geral reconhecida. (RE
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a esta Corte Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se e intimem-se.
