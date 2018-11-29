@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+[NOME] ([NOME]) promoveu contra MARIA CECÍLIA ALMEIDA CAVALCANTE (MARIA CECÍLIA), ação reivindicatória, a qual foi extinta após requerimento de desistência, com anuência da ré, condenando-se o autor ao pagamento da custas processuais e honorários advocatícios fixados em 20% sobre o valor da causa (e-STJ, fl. 76).
+Não se conformando com o montante fixado a título de honorários advocatícios, [NOME] interpôs recurso de apelação, tendo relator proferido decisão monocrática dando provimento ao apelo para reduzir os honorários para 10% sobre o valor da causa (e-STJ, fls. 228/232).
+Agravo regimental interposto por MARIA CECÍLIA, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS. DECISÃO MONOCRÁTICA QUE REDUZIU O VALOR DOS HONORÁRIOS PARA 10% (DEZ POR CENTO) DO VALOR DA CAUSA. IRRESIGNAÇÃO. INADMISSÍVEL. RECURSO CONHECIDO E DESPROVIDO.
+1. A decisão monocrática, ora agravada, minorou os honorários advocatícios para 10% (dez por cento) sobre o valor da causa, reformando a sentença prolatada na demanda reivindicatória de posse que fixou honorários no percentual de 20% (vinte por cento), aproximadamente a quantia de R$ 20.000,00 (vinte mil reais).
+2. Cumpre analisar que os presentes autos foram interpostos no ano de 2014, motivo pelo qual se aplica o Código de Processo Civil de 1973.
+3. Ora, a verba honorária deve ser estipulada consoante apreciação equitativa do juiz, atendidos os seguintes critérios: grau de zelo do profissional, lugar da prestação do serviço, natureza e importância da causa, trabalho realizado pelo advogado e tempo exigido para a realização do serviço, conforme determina o art. 20, § 4º do CPC.
+4. Constato que a demanda que originou a decisão agravada não exigiu do causídico tanto esforço e trabalho, tendo em vista que, na ação reivindicatória, houve tão somente a interposição da peça inicial e da contestação, sendo os autos julgados extintos devido à desistência do autor. Assim, verifico que a decisão monocrática analisou as peculiaridades do caso em apreço, bem como os critérios previstos no art. 20, § 4º do Código de Processo Civil, de modo que os honorários advocatícios não demonstram exorbitância e, por conseguinte, a decisão monocrática não merece reforma. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fls. 262/263).
+Inconformada, MARIA CECÍLIA interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação do art. 20, §§ 3º e 4º do CPC/73 (art. 85, § 2º e § 8º do NCPC), alegando, em síntese, que é irrisório o valor fixado a título de honorários advocatícios, devendo sofrer majoração.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere à modificação do arbitramento sucumbencial, este Tribunal Superior consolidou o entendimento de que, via de regra, é inviável, em sede recurso especial, porquanto referida discussão encontra-se no contexto fático-probatório dos autos, inviabilizando, em princípio, a alteração do valor arbitrado nas instâncias ordinárias, ressalvando-se as hipóteses de valor excessivo ou irrisório.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SOLIDARIEDADE PASSIVA. REANÁLISE DE CLÁUSULAS E PROVA. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 3º, DO CPC/1973. REEXAME. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Revela-se inviável alterar o entendimento da Corte estadual que, analisando o conjunto fático-probatório dos autos e as cláusulas do contrato, concluiu pela solidariedade entre as empresas, tendo em vista o óbice das Súmulas n. 5 e 7 do STJ. 2. Inviável o conhecimento do dissídio jurisprudencial quando a questão foi decidida com base nas peculiaridades fáticas dos casos, a justificar a incidência da Súmula 7/STJ.
+3. A revisão do valor fixado para os honorários advocatícios esbarra no óbice da Súmula 7/STJ, somente sendo possível superar esse impedimento quando se tratar de valor irrisório ou exorbitante, o que não é o caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1121655/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 9/11/2017, DJe 17/11/2017)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O Tribunal de origem, amparado no acervo fático - probatório dos autos, fixou como termo final para o pagamento dos lucros cessantes data diversa da que foi estabelecida pela sentença. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC) revela-se, em princípio, inviável no âmbito do recurso especial, em virtude da vedação erigida pela Súmula n.7/STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1071719/SE, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 24/10/2017, DJe 6/11/2017)
+No caso dos autos, o valor arbitrado pelo relator e mantido pela turma julgadora não se mostra irrisório, não merecendo, portanto, intervenção desta Corte.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
