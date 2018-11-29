@@ -1,0 +1,9 @@
+DECISÃO
+RODRIGO DUARTE EVANGELIO, paciente neste habeas corpus, estaria sofrendo constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+O impetrante alega, em síntese, que a audiência de custódia foi realizada sem a presença do preso, ora paciente. Pugna, então, pela nulidade absoluta da referida audiência.
+O Tribunal de origem negou seguimento ao writ originário, porquanto "a impetração consubstancia-se em pedido relacionado à decisão já apreciada  .. , inclusive com julgamento da Apelação Criminal".
+Decido.
+Ab initio, importante consignar que, consoante informações prestadas pelo Juízo de origem, o réu já foi condenado à pena de 13 anos e 6 meses de reclusão, mais multa, pela prática dos crimes previstos nos arts. 180, § 3º, e 333, parágrafo único, ambos do Código Penal, e 2º da Lei n. 12.850/2013. Interposta apelação criminal, o recurso foi parcialmente provido apenas para corrigir erro material no cálculo da penal. Em seguida, foram, então, opostos embargos de declaração (negado provimento), interposto recurso especial (não admitido) e agravo em recurso especial (remetido a esta Corte de Justiça em 21/11/2018).
+Quanto ao pleito aqui formulado, a Jurisprudência desta Corte é firme em assegurar que "a pretensão de reconhecer irregularidades da prisão em flagrante, sobretudo diante da falta de realização da audiência de custódia resta superada quando superveniente novo título a embasar a custódia cautelar, qual seja, o decreto preventivo" (RHC n. 96.956/MG, Rel. Ministro Jorge Mussi, 5ªT., DJe 17/10/2018), com maior razão, portanto, está prejudicado o writ, diante da superveniência de sentença penal condenatória confirmada em segundo grau, com o esgotamento das instâncias ordinárias.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
