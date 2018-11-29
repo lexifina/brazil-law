@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC) interposto por WILSON DANTAS DE OLIVEIRA contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 154-158, e-STJ).
+Em juízo de admissibilidade (fls. 225-227, e-STJ), negou-se seguimento ao recurso especial.
+Daí o presente agravo (fls. 230-245, e-STJ), buscando destrancar o processamento daquela insurgência.
+Renúncia dos procuradores do agravante às fls. 266-268, e-STJ.
+Determinada a intimação para regularização processual (fl. 271, e-STJ), o agravante permaneceu inerte, consoante certificado à fl. 280, e-STJ.
+É o relatório do necessário.
+Decido.
+O recurso não merece ser conhecido.
+1. A representação processual da parte é pressuposto de constituição e de desenvolvimento válido e regular do processo. Sua ausência, no âmbito recursal, acarreta o não conhecimento do recurso.
+Nesse sentido, nos termos da jurisprudência desta Corte, a ausência de representação processual impõe à parte o dever de regularização, sob pena de não conhecimento do recurso por ausência de pressuposto processual. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO NOS TERMOS DO ART. 932, PARÁGRAFO ÚNICO, NCPC. TRANSCURSO DO PRAZO IN ALBIS. IMPOSSIBILIDADE DE CONHECIMENTO. ART. 76, § 2º, I, DO NCPC. DECISÃO DE INADMISSIBILIDADE. INTERPOSIÇÃO DE RECURSO ESPECIAL. ERRO GROSSEIRO. INAPLICÁVEL O PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO. ..  2. Não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual, nos termos do art. 932, parágrafo único, do NCPC, deixa transcorrer in albis o prazo para o saneamento do vício, nos termos do art. 76, § 2º, I, do NCPC.  ..  6. Agravo interno não conhecido. (AgInt no AREsp 1246012/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/09/2018, DJe 19/09/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. IMPOSSIBILIDADE DE CONHECIMENTO. INTIMAÇÃO. ART. 932, PARÁGRAFO ÚNICO, CPC/2015. TRANSCURSO DO PRAZO. INÉRCIA DA PARTE. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO JUDICIAL. IMPOSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AGRAVO INTERNO DE FLS. 483-502 DESPROVIDO. AGRAVO INTERNO DE FLS. 503-522 NÃO CONHECIDO. 1. Em atenção ao princípio da unirrecorribilidade recursal e da preclusão consumativa, é vedada a interposição simultânea de dois recursos contra a mesma decisão judicial. 2. Não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual - art. 932, parágrafo único, do CPC/2015 -, deixa transcorrer in albis o prazo para o saneamento do vício, nos termos do art. 76, § 2º, I, do CPC/2015. 3. Agravo interno de fls. 483-502 desprovido. Agravo interno de fls. 503-522 não conhecido. (AgInt no AREsp 1.060.443/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 21/9/2017, DJe 2/10/2017)  grifou-se
+Ressalte-se ainda que, nos termos do art. 112, caput, do CPC/15, compete à parte mandante, devidamente notificada da renúncia de seu mandatário, nomear procurador que suceda aquele que renunciou.
+Com efeito, em atendimento à regra do art. 932, parágrafo único, do NCPC, oportunizou-se a regularização da representação processual em prazo oportuno. Todavida, a parte não tomou providências pertinentes, persistindo o vício processual.
+Assim, comunicada à parte a ausência de representação nos autos e esta quedando-se inerte, o não conhecimento do recurso é medida que se impõe, conforme prevê o art. 76, § 2º, inciso I, do CPC/15.
+2. Do exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
