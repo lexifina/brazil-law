@@ -1,0 +1,32 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO – MANDADO DE SEGURANÇA – TRIBUTÁRIO – ITCMD – IMÓVEL RURAL – BASE DE CÁLCULO – A base de cálculo do ITCMD é o valor venal apurado para fins do ITR – Entendimento do art. 13, inc. II, da Lei Estadual n.º 10.705/00 – Alteração da base de cálculo do tributo por decreto, com adoção de valores divulgados pela Secretaria de Agricultura e Abastecimento do Estado de São Paulo ou por outro órgão de reconhecida idoneidade – Impossibilidade – Ofensa ao princípio da legalidade – Segurança concedida – Sentença mantida – Precedentes jurisprudenciais – Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º; 2º; 5º, LXIX; 18, 25 a 28 e 155, I, todos da CF. Sustenta, em síntese, que a base de cálculo do ITCMD é o valor venal do bem, considerado como o valor de mercado na data da abertura da sucessão.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No entanto, o recurso não merece trânsito.
+    Isto porque, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Colendo Supremo Tribunal Federal.
+    Inadmito, pois, o recurso extraordinário.”
+    A pretensão recursal não merece prosperar. Incide, na hipótese, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. No caso dos autos, o acórdão recorrido consignou:
+    “A Lei Estadual 10.705/2000 dispôs o seguinte, ao instituir a base de cálculo do ITCMD Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos:
+    ‘Artigo 9.º - A base de cálculo do imposto é o valor venal do bem ou direito transmitido, expresso em moeda nacional ou em UFESPs (Unidades Fiscais do Estado de São Paulo).
+    § 1.º - Para os fins de que trata esta lei, considera-se valor venal o valor de mercado do bem ou direito na data da abertura da sucessão ou da realização do ato ou contrato de doação.
+    ...............................................................
+    Artigo 13 - No caso de imóvel, o valor da base de cálculo não será inferior:
+    I (...)
+    II - em se tratando de imóvel rural ou direito a ele relativo, ao valor ao valor total do imóvel declarado pelo contribuinte para efeito de lançamento do Imposto sobre a Propriedade Territorial Rural – ITR.’
+    Entretanto, fundada no Decreto Estadual n.º 46.655/2002, a autoridade tributária sustenta que a base de cálculo do ITCMD, no caso concreto, deverá observar o disposto no parágrafo único do artigo 16 da referida norma, ‘in verbis’:
+    ‘Art. 16- (...)
+    Parágrafo único - Em se tratando de imóvel rural, poderão ser adotados os valores médios da terra-nua e das benfeitorias divulgados pela Secretaria de Agricultura e Abastecimento do Estado de São Paulo ou por outro órgão de reconhecida idoneidade, vigentes à data da ocorrência do fato gerador, quando for constatado que o valor declarado pelo interessado incompatível com o de mercado.’
+    Constata-se que o decreto aponta base de cálculo distinta da prevista em lei, incorrendo em clara ofensa ao princípio da legalidade tributária (Constituição Federal, artigo 150, I e Código Tributário Nacional, artigos 97, II e IV).
+    E quando o legislador disse que o valor da base de cálculo não será inferior ao fixado para o lançamento do ITR, evidentemente não delegou a fixação da base de cálculo à normatização inferior, pois não poderia fazê-lo.”
+    Dissentir das conclusões adotadas demandaria tão somente o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual. Nesse sentido, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO ITCMD. JUROS LEGAIS E MULTA. 1. Reserva de plenário. Ausência de contrariedade ao art. 97 da Constituição da República. Inexistência de declaração de inconstitucionalidade de lei federal. Precedentes. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento.” (ARE 768.206 AgR, Relª. Minª. Cármen Lúcia)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. AÇÃO DECLARATÓRIA SOB O RITO SUMARÍSSIMO. ITCMD. BASE DE CÁLCULO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.” (ARE 1.095.331, Rel. Min. Luiz Fux)
+    No mesmo sentido, vejam-se as seguintes decisões monocráticas: ARE 1.087.868, Rel. Min. Ricardo Lewandowski; ARE 1.065.426, Rel. Min. Marco Aurélio; ARE 1.041.655, Rel. Min. Edson Fachin; e ARE 1.095.331, Rel. Min. Luiz Fux.
+    Ademais, a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015, e no art. 21, §1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 29 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
