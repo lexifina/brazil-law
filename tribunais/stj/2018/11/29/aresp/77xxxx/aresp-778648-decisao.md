@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROCHAEL MOREIRA DA SILVA, devidamente assistido pela Defensoria Pública do Distrito Federal, contra decisão proferida pelo Tribunal de Justiça daquela unidade federativa que negou seguimento ao seu recurso especial interposto com fundamento no art. 105, III, alínea a, da Constituição da República.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 840/842, in verbis:
+Trata-se de Agravo interposto em face da r. Decisão que negou seguimento ao Recurso Especial, interposto, por sua vez, de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIOS QUALIFICADOS. CONSUMADOS E TENTADOS. RECURSOS DA DEFESA E DO MINISTÉRIO PÚBLICO. SENTENÇA CONTRÁRIA À DECISÃO DOS JURADOS. INVIABILIDADE. CIRCUNSTÂNCIAS MANTIDA VALORAÇÃO DESFAVORÁVEL. QUANTUM DE EXASPERAÇÃO DA PENA-BASE REDUZIDO. DELAÇÃO PREMIADA. FRAÇÃO MAIOR. IMPOSSIBILIDADE. RECONHECIMENTO DE CONCURSO MATERIAL. IMPROCEDÊNCIA. INCABÍVEL A APLICAÇÃO DA CONTINUIDADE DELITIVA. CONCURSO FORMAL MANTIDO. QUATRO CRIMES DE HOMICÍDIO. FRAÇÃO DE AUMENTO DE 1/4. PREQUESTIONAMENTO.
+1 .Se os jurados não são questionados sobre o concurso de crimes, uma vez que os critérios de aplicação da pena são de competência do Juiz-Presidente, que o faz em conformidade com as orientações legais, não há que se falar em sentença contrária a decisão dos jurados.
+2. Mantém-se a valoração desfavorável das circunstâncias do crime, quando os delitos de homicídio qualificado foram cometidos por meio de diversos disparos de arma de fogo.
+3. O critério denominado objetivo/subjetivo, segundo o qual se subtrai a pena máxima da mínima, transforma-se o resultado em meses e procede-se à sua divisão por 8 (número de circunstâncias judiciais do art. 59 do CP), produz o agravamento máximo por cada circunstância judicial desfavorável ao apenado, havendo a reprimenda de se adequar, pelo subjetivismo do julgador, aos princípios da necessidade e suficiência da pena justa.
+4. Se não há elementos suficientes nos autos que permitam aferir a relevância da delaçãopremiada, correta a aplicação da fração de 1/3.
+5. Incabível o pleito de reconhecimento do concurso material quando há uma só ação ou omissão.
+6. Correta a aplicação do concurso formal quando, havendo uma só conduta, os crimes de homicídios forem concomitantes.
+7. O aumento da pena. em face do concurso formal, guarda proporção com o número de crimes, se foram quatro vítimas, aumenta-se a pena na fração de 1/4.
+8. Para fins de prequestionamento, é desnecessário que o julgador esmiúce cada um dos argumentos e dispositivos legais tidos por violados, bastando esclarecer os motivos que o levaram a adotar determinada conclusão.
+9. Recursos conhecidos, desprovido o apelo ministerial e parcialmente provido o da defesa." (Fls. 748/749 e-STJ)
+No recurso especial, fundado na alínea "a" do permissivo constitucional, aponta-se violação do art. 14 da Lei 9807/99. Defende, ainda, que faz jus à diminuição da pena em patamar superior a 1/3 (um terço), dada a relevância da delação premiada fornecida.
+O despacho hostilizado, todavia, negou seguimento ao recurso pelos óbices das Súmulas 7/STJ.
+Contrarrazões às e-STJ fls. 807/811.
+Instado, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 840/844).
+É o relatório.
+Decido.
+Preenchidos os pressupostos objetivo e subjetivo de admissibilidade do recurso de agravo, dele conheço.
+De início, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Voltando-se especialmente para o pleito recursal, tem-se que o Tribunal de origem apresentou fundamentos idôneos para a manutenção do percentual de redução de pena no patamar mínimo. Verifique-se, a propósito, trecho do voto condutor do acórdão proferido (e-STJ fls. 755/756):
+No caso, o magistrado aplicou corretamente a fração de 1/3 em razão de não haver elementos suficientes nos autos que permitam aferir a relevância da delação.
+Assim, considerando que o menor A. já havia sido devidamente identificado quando o réu Rochael o apontou como comparsa (depoimento das testemunhas Lucas e Weslei em 16.07.2012 - fls. 24-27 e interrogatório do réu em 20.07.2012 - fls. 55-57), não sendo relevante para o deslinde da causa, mantenho a fração da causa de diminuição da pena em 1/3.
+Inviável o pleito defensivo. (Grifei.)
+Desse modo, alterar a conclusão a que chegou a Corte de origem, notadamente para afirmar que a colaboração exacerbou o delineado no acórdão, demandaria o revolvimento do conjunto fático-probatório, o que é obstado pelo enunciado de n. 7 desta Corte Superior.
+Nesse sentido, precedente deste Superior Tribunal de Justiça:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTIDADE E NATUREZA DA DROGA. ART. 42 DA LEI 11.343/06. ATENUANTE DA CONFISSÃO. DELAÇÃO PREMIADA. REEXAME DO ACERVO PROBATÓRIO. SÚMULA 7/STJ. APLICAÇÃO DO ART. 387, § 2º, DO CPP. TEMA NÃO DEBATIDO NAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE PREQUESTIONAMENTO. REGIME INICIAL FECHADO. CRITÉRIOS DO ART. 33, §§ 2º E 3º, DO CÓDIGO PENAL. POSSIBILIDADE. SÚMULA 83/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. PEDIDO SUBSIDIÁRIO NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada, fundamentada na jurisprudência do Superior Tribunal de Justiça, entendeu que a pena-base, fixada em 6 anos e 3 meses, foi majorada em razão da natureza e quantidade da droga (2.465g de cocaína), bem como pela existência de circunstâncias judiciais desfavoráveis, o que não se mostra desproporcional.
+2. As instâncias ordinárias, baseadas no poder discricionário vinculado do julgador e dentro dos princípios da razoabilidade e proporcionalidade, entenderam satisfatória a redução da pena-base em 09 meses no que se refere à incidência da atenuante de confissão. Mudar essa conclusão importaria em reexame de provas, inviável no âmbito do STJ, sob pena de violação à Súmula n. 07.
+3. Para aplicação do benefício previsto no art. 33, § 4º, da Lei n. 11343/06, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam ser primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa, o que inocorreu na espécie.
+4. No que diz respeito a delação premiada, o Tribunal a quo aplicou a redução no patamar mínimo legal, de 1/3, de forma fundamentada e diante do contexto probatório dos autos. Modificar a conclusão do julgado encontra óbice na Súmula n. 07/STJ.
+5. A aplicação do art. 387, § 2º, do Código de Processo Penal não foi objeto de debate nas instâncias ordinárias, nem foram opostos embargos de declaração para tal fim, razão pela qual não pode ser examinada nesta Corte Superior, por ausência do indispensável prequestionamento (Súmulas 282 e 356, ambas do STF).
+6. Presentes circunstâncias judiciais desfavoráveis à acusada, especialmente em razão da quantidade e natureza da droga apreendida, é legal a fixação de regime inicial de cumprimento da pena mais gravoso, tudo em consonância com a jurisprudência do Superior Tribunal de Justiça.
+7. Fixada a pena privativa de liberdade acima de 4 anos, não há falar em sua substituição por restritiva de direitos, pois ausentes os pressupostos legais.
+9. Agravo regimental desprovido. (AgRg no AREsp 451724/SP, Quinta Turma, Rel. Ministro Gurgel de Farias, DJe 12/11/2014, grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
