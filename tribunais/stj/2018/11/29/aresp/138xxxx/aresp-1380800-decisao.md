@@ -1,0 +1,8 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PESSOA JURÍDICA. PRESTADORA DE SERVIÇO PÚBLICO. FALHA NA PRESTAÇÃO DO SERVIÇO. ART. 9º, § 1º, XIV, DO RISTJ. REDISTRIBUIÇÃO DO FEITO A UM DOS MINISTROS INTEGRANTES DAS TURMAS DA PRIMEIRA SEÇÃO.
+DECISÃO
+Trata-se de agravo interposto por CELG DISTRIBUIÇÃO S.A. - CELG D contra decisão do Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial, manejado em desfavor de acórdão assim ementado (e-STJ, fl. 278):
+APELAÇÃO CÍVEL. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C REPARAÇÃO DE DANOS MORAIS C/C TUTELA ANTECIPADA INAUDITA ALTERA PARS E INITIO LITIS. CERCEAMENTO DE DEFESA. COBRANÇA. DANO MORAL 1. Não se trata de cerceamento de defesa, pois o Magistrado a quo, ao ter saneado o processo, com a posterior prolação da sentença, fundamentou-se na questão da matéria ser eminentemente de direito e documental. 2. Cobrança do período de setembro a dezembro de 2014, cobrados em janeiro/2015, não merece reforma, devendo ser mantido nos termos da sentença. 3. Quanto ao dano moral, não se vislumbra nas circunstâncias descritas, haja vista que, o apelado usufruiu da energia e tinha conhecimento do "dever de pagar", não incorrendo em sofrimento ou angustia pessoal. Recurso de Apelação conhecido e parcialmente provido.
+A discussão jurídica aqui suscitada envolve cobrança de serviço prestado por concessionária de serviço público, estando, portanto, abrangida pelas hipóteses de competência da Primeira Seção, responsável pelos julgamentos relacionados ao direito público, nos termos do art. 9º, § 1º, XIV, do RISTJ.
+Desse modo, determino sejam os autos encaminhados para redistribuição a um dos ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
