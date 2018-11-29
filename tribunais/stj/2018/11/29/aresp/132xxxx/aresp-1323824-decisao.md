@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por ITAÚ SEGUROS S/A contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 411, e-STJ):
+EMENTA: COBRANÇA - INDENIZAÇÃO - SEGURO DE VIDA EM GRUPO - PROVAS - INCAPACIDADE COMPROVADA - INDENIZAÇÃO DEVIDA.
+Previsto no contrato de seguro de vida, a cobertura por invalidez permanente e total por doença, configurada tal hipótese deve ser paga a indenização.
+Em suas razões de recurso especial (fls. 420/424, e-STJ), a recorrente aponta violação aos arts. 750 e 760 do Código Civil, além de dissídio jurisprudencial, sob o argumento, em síntese, do não cabimento do pagamento de indenização por cobertura securitária "para risco não contratado, em decorrência da equiparação - indevidamente formulada pelo Tribunal local - entre "invalidez laboral" e "invalidez funcional", sendo que, in casu, prevê-se cobertura específica à segunda opção, a "invalidez funcional"".
+Contrarrazões às fls. 447/456, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob o fundamento de que o acolhimento da pretensão recursal demandaria o reexame do suporte fático dos autos, atraindo a incidência das Súmulas 05 e 07 do STJ.
+Daí o agravo (fls. 463/466, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 469/473, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca do cabimento da indenização prevista em contrato de seguro de vida em grupo, em razão da ocorrência de invalidez do segurado.
+O Tribunal de origem, com base na análise dos elementos fáticos e probatórios dos autos, concluiu pela improcedência do pedido, sob a seguinte fundamentação (fls. 414/416, e-STJ):
+É incontroverso que o autor celebrou com a ré contrato de seguro de vida em grupo, com apólice nº 1.93-5588099, em razão de ser funcionário da empresa Construjob Edificações LTDA., conforme f1.27. Dentre as coberturas convencionadas, está a de invalidez funcional permanente por doença (IFPD) - fls. 41/42.
+Da prova pericial realizada em juízo (fls.230/236), constam as seguintes conclusões do ilustre expert:
+"Há doença (s)
+Para fim de aplicação dos dispositivos legais, avaliam-se separadamente:
+Primeira doença: Lumbago com ciática (CID-10: M54)
+Desta doença decorre de incapacidade total para o trabalho e para quaisquer outras atividades de caráter produtivo. Desta doença decorre também incapacidade para várias atividades da vida cotidiana (embora sem comprometer a autonomia do examinado).
+Trata-se de doença CURÁVEL, que determina incapacidade TEMPORÁRIA, e a doutrina médica prevê um período máximo de até doze semanas, para a completa recuperação.
+A espondilodiscoartrose invertebral é a outra doença. Tem caráter crônico e degenerativo. Não é curável, e determina, no estágio do autor, restrição apenas para atividades de alta demanda da coluna com sobrecarga, esforço vigoroso, sustentação prolongada em uma só posição ou a vibração continuada."
+Em resposta ao quesito de número 2 (dois), fl. 236, para que o perito informe se a invalidez é parcial ou se é total e permanente por doença, assim se manifestou:
+"A invalidez é total, mas temporária. Uma vez recuperado desta crise de lombociatalgia, restará a espondilodiscoartrose, uma condição que impõe apenas incapacidade parcial (mas é definitiva, na medida em que degenerativa e não passível de um tratamento eu a reverta)."
+De acordo com os elementos constantes dos autos, notadamente ao laudo pericial de fls. 230/236, o autor é portador de espondilodiscoartrose invertebral, doença de caráter crônico e degenerativo, não curável, havendo restrição para atividades de alta demanda da coluna com sobrecarga, esforço vigoroso, sustentação prolongada em uma só posição ou a vibração continuada, conforme bem concluiu o Juiz singular.
+O contrato firmado entre as partes prevê em sua cláusula 3.3.3:
+"3.3.3 Invalidez Funcional Permanente por Doença
+Observados o limite do capital segurado e as hipóteses de exclusão de cobertura (subitens 4.1 e 4.3), garante ao Segurado, desde que este requeira, o pagamento antecipado do capital segurado, estipulado para a garantia básica (subitem 3.2), no caso de o Segurado apresentar invalidez funcional permanente e total em consequência de doença (subitem 2.51)."
+Já o capital segurado é informado conforme documento de fl. 27.
+A seguradora se negou a pagar o capital segurado, conforme fls. 41/42.
+Contudo, o contrato de seguro com cobertura de invalidez funcional por doença é aquele que assegura a impossibilidade do exercício de atividades para as quais o segurado tinha aptidão.
+Desta forma, para o pagamento securitário no caso em questão, basta a demonstração da incapacidade do segurado para o trabalho.
+Considerando que o autor exerce a função de pedreiro, com idade avançada de 53 anos de idade, fl. 22, faz jus a indenização pleiteada.
+É inconteste na espécie a abusividade da cláusula 4.4, fl. 174 que prevê a exclusão da cobertura em caso de hérnia discai, como concluiu o Juiz singular.
+Portanto, ao contrário do alegado nas razões recursais, restou provado o nexo de causalidade entre a invalidez do autor, autorizando a cobertura securitária de invalidez por doença, prevista no contrato de seguro de vida, conforme sentença singular.
+Pelos motivos acima expostos, a manutenção da condenação securitária é medida que se impõe, diante do afastamento definitivo do autor de seu trabalho, fl. 27, corroborado pelo documento de fl. 40.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame da apólice do seguro, demandaria o reexame das cláusula do contrato e das demais provas dos autos, juízo obstado pelas Súmulas 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). INVALIDEZ TOTAL E PERMANENTE COMPROVADA. INDENIZAÇÃO SECURITÁRIA DEVIDA. SÚMULAS 5 E 7/STJ. ÔNUS PROBATÓRIO. AFERIÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem concluiu ser devida a indenização securitária por Invalidez Funcional Permanente Total por Doença (IFPD) porque foi comprovada a invalidez permanente total da agravada. Alterar tal entendimento requer a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos. Incidência das Súmulas 5 e 7 do STJ.
+2. A aferição do cumprimento do ônus probatório de qualquer das partes encontra óbice na Súmula 7/STJ.
+3. A aferição da invalidez funcional permanente total independe da comprovação de estado vegetativo.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1588374/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018) (sem grifo no original)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - DEMANDA POSTULANDO A INDENIZAÇÃO SECURITÁRIA CONTRATADA PARA O CASO DE INVALIDEZ PERMANENTE - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO APELO EXTREMO. INSURGÊNCIA DA SEGURADORA.
+1. Prescrição. Pretensão, deduzida pela segurada, voltada ao recebimento de indenização securitária decorrente de invalidez permanente por doença. 1.1. Nos termos do artigo 206, § 1º, inciso II, do Código Civil, é ânuo o prazo prescricional para exercício da pretensão do segurado em face do segurador. 1.2. A fluência do prazo prescricional em tela fica suspensa entre a comunicação do sinistro à seguradora e a data da ciência do segurado da recusa do pagamento da indenização (Súmula 229/STJ). 1.3. No caso, o Tribunal de origem afastou a alegação de prescrição da pretensão autoral por considerar que os documentos trazidos aos autos são insuficientes para estabelecer o marco temporal para o reinício da contagem do prazo prescricional. Incidência da Súmula 7/STJ.
+2. A discussão acerca da subsunção ou não da invalidez apresentada pela segurada (incapacidade total permanente) ao risco expressamente acobertado no contrato de seguro (Invalidez funcional permanente total por doença) reclama a incursão no acervo fático probatório dos autos, bem assim a interpretação de cláusula contratual, providência inviável em sede de recurso especial, ante a incidência das Súmulas 5 e 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1551414/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/12/2016, DJe 19/12/2016) (sem grifo no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATO DE SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE. CARACTERIZAÇÃO DA INCAPACIDADE FUNCIONAL. AUSÊNCIA DE COBERTURA. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À LIBERDADE DE CONTRATAR, À BOA-FÉ, À PROBIDADE E À ESTIPULAÇÃO DE CONTRATOS ATÍPICOS. INEXISTÊNCIA. CLÁUSULAS LIMITATIVAS AO DIREITO DO CONSUMIDOR. REDAÇÃO EM DESTAQUE. PRINCÍPIO DA PERSUASÃO RACIONAL OU DO LIVRE CONVENCIMENTO MOTIVADO. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. A Corte de origem, mediante a perquirição das cláusulas contratuais e a análise soberana do contexto fático-probatório, apontou que ficou comprovado, por meio da perícia do INSS e dos laudos médicos, que a doença que acometeu o segurado é permanente, fato que levou à concessão de aposentadoria por invalidez, estando caracterizada a incapacidade funcional, a ensejar a indenização securitária.
+2. Desse modo, registre-se que o acolhimento da pretensão recursal, com a perquirição específica da ausência de cobertura de invalidez no caso em epígrafe, nos moldes pretendidos em sede de apelo nobre, demandaria a interpretação do instrumento contratual, bem como a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Na hipótese vertente, não há que se falar em violação à liberdade de contratar, aos princípios da boa-fé e da probidade, bem como à estipulação de contratos atípicos, pois a liberdade de contratar não pode prejudicar o consumidor, além de o contrato de seguro revestir-se de natureza típica, com expressão previsão no Código Civil, consoante se observa entre os arts. 757 e 802.
+4. O Superior Tribunal de Justiça perfilha o entendimento de que as cláusulas contratuais devem ser interpretadas da maneira mais favorável ao consumidor, devendo observar o direito de informação, mediante redação clara, expressa e em destaque das cláusulas limitativas de direitos.
+5. O princípio da persuasão racional ou do livre convencimento motivado constitui prerrogativa concedida ao juiz, para que, com fulcro nos elementos relevantes constantes nos autos, possa firmar a convicção sobre a matéria debatida. Nesse diapasão, o argumento de cerceamento de defesa, por necessidade de dilação probatória, não se sustenta, tendo em vista que o acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+6. O acolhimento da pretensão recursal, no sentido de rever o posicionamento da Corte de origem que apontou a desnecessidade de dilação probatória, demandaria o revolvimento do acervo fático-probatório constante nos autos, situação vedada pelo óbice da Súmula nº 7/STJ.
+7. O dissídio jurisprudencial não foi demonstrado, uma vez que a recorrente se limitou a citar acórdãos trazidos como paradigmas, sem realizar o necessário cotejo analítico, em desatenção ao disposto na legislação processual pátria e no Regimento Interno do Superior Tribunal de Justiça.
+8. Agravo interno não provido.
+(AgInt no AREsp 1123531/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018) (sem grifo no original)
+2. Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, a ser suportado exclusivamente pela parte recorrente, observadas as regras da gratuidade da justiça.
+Publique-se.
+Intimem-se.
