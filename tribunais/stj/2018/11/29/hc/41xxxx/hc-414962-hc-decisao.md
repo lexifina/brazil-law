@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Petição oposta nos autos do habeas corpus 414692/SP, na qual a defesa aponta o surgimento de fato novo apto a desconstituir a medida cautelar diversa da prisão imposta em substituição à prisão preventiva da paciente.
+Consta dos autos que a paciente foi presa em flagrante pela suposta prática de crimes contra a relação de consumo, estelionato e exercício irregular da profissão. Em audiência de custódia, a defesa requereu o relaxamento da prisão e a concessão de liberdade provisória, e o Ministério Público requereu a concessão de liberdade provisória ao lado de medidas cautelares diversas da prisão. Contudo, a custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus, com pedido liminar, na Corte estadual, que indeferiu o pedido liminar, nos seguintes termos (e-STJ fl. 35):
+ (..)
+A matéria arguida na impetração diz respeito ao próprio mérito do writ, escapando, portanto, aos restritos limites da medida liminar, que há de ser deferida apenas nos casos em que exsurge flagrante o constrangimento ilegal apontado, o que não é o caso dos autos.
+ (..)
+Diante do indeferimento do pedido liminar, houve a impetração do presente habeas corpus em que a ordem foi concedida em superação ao verbete da Súmula 691 do Supremo Tribunal Federal para substituir a prisão preventiva pelas medidas cautelares diversas da prisão previstas no art. 319, I, II, e VI, a saber: (a) , (comparecimento período em juízo, no prazo e condições fixadas pelo juiz, para informar e justificar atividades e manutenção atualizada de endereço residencial), II (proibição de acesso ou frequência a clínica médica onde flagrada ou similares, notadamente de procedimentos estéticos), e VI (suspensão do exercício de atividade de natureza econômica ou financeira em clínicas médicas ou similares de procedimentos estéticos).
+Na presente petição, a defesa alega, em síntese, que a paciente concluiu sua graduação no curso de Biomedicina, ministrado pela Universidade Nove de Julho - UNINOVE, estando apta a praticar os procedimentos inerentes ao exercício da profissão de biomédica. Destarte, requer a autorização para que a requerente exerça regularmente a profissão de Biomédica Estética.
+É o relatório.
+Busca-se, em síntese, a revogação da medida cautelar diversa da prisão imposta em face da paciente.
+Conforme se extrai dos autos, houve julgamento de mérito do writ impetrado perante o tribunal a quo, além do trânsito em julgado da decisão que concedeu a ordem no presente habeas corpus, restando exaurida a competência deste Superior Tribunal de Justiça para a análise das alegações trazidas pela defesa por meio da presente petição.
+Desse modo, eventuais pedidos de modificação e revisão das medidas cautelares impostas à paciente devem ser requeridos perante o juízo da instrução - Vara Criminal do Foro de Taboão da Serra - sendo que a análise direta por este Superior Tribunal de Justiça implicaria em indevida supressão de instância.
+Ante o exposto, não conheço do pedido referente à petição oposta às e-STJ fls. 130/132.
+Já certificado o trânsito em julgado dos autos à e-STJ fl. 126, arquivem-se os autos.
