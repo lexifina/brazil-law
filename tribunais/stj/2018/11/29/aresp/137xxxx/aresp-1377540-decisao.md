@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo Conselho Regional de Contabilidade do Estado de Minas Gerais contra decisão que inadmitiu o recurso especial, fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. EXECUÇÃO FISCAL., CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. COBRANÇA DE ANUIDADES. NATUREZA JURÍDICA DE TRIBUTO: LEI Nº 11.000/04. APLICAÇÃO RESTRITA AOS CONSELHOS REGIONAIS DE MEDICINA.
+1. As anuidades exigidas pelos conselhos profissionais se enquadram no conceito de contribuições de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação na fiscalização nas respectivas áreas, nos termos previstos no art. 149 da Carta Magna;
+2. Nesse sentido, as referidas contribuições possuem natureza jurídica de tributo, da competência exclusiva da União, e são submetidas aos princípios que regem o sistema tributário nacional, dentre eles, o da reserva legal, que determina a vedação de exigência ou majoração de tributo sem lei que o estabeleça (art. 150, I, da CF/88). Não é permitido aos conselhos profissionais, por ausência de lei que os autorize, corrigirem suas anuidades por meio de resolução ou qualquer outro ato administrativo, por manifesta afronta ao princípio da legalidade, previsto no art. 150, I, da Carta Magna;
+3. Não há que se falar, no caso ora em exame, em incidente de inconstitucionalidade, (art. 97 da Constituição Federal) em relação à Lei nº 11.000/04, que trata da cobrança e execução "das Contribuições anuais, devidas por pessoas físicas ou jurídicas, bem como as multas e os preços de serviços, relacionados com suas atribuições legais, que constituirão receitas próprias de cada Conselho. Ocorre que a referida lei tem sua aplicação restrita aos Conselhos Regionais de Medicina. Nesse sentido: (AC 2007.38.00.008112-4/MG,- Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma,e-DJF1 p.408 de 31/07/2009);
+4. Apelação a que se nega provimento.
+O valor inscrito na CDA executada era de R$ 2.540,63 (dois mil, quinhentos e quarenta reais e sessenta e três centavos), em setembro de 2014.
+No recurso especial, o recorrente aponta a negativa de vigência ao art. 76 da Lei n. 12.249/2010, responsável por alterar o Decreto-Lei n. 9.295/1946, introduzindo em seu art. 21 os §§ 3º e 4º.
+Aduz, em síntese, que, ao contrário do que ficou consignado no acórdão recorrido, a anuidade devida aos Conselhos Federal e Regionais de Contabilidade possui embasamento legal, assim como o seu valor, cuja cobrança encontra parâmetros legalmente estabelecidos.
+Sugere, ainda, a violação do art. 489, § 1º, IV do CPC/2015. Alega em suma que, na decisão recorrida, o Tribunal de origem deixou de apreciar argumentos relevantes à solução da controvérsia trazida aos autos.
+Sem contrarrazões.
+O recurso especial não foi admitido pelo Tribunal de origem, com base na incidência do óbice constante da Súmula n. 126 do STJ, segundo a qual (in verbis): "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+No presente agravo, o recorrente argumenta com o objetivo de rebater o fundamento apresentado pelo julgador originário.
+É o relatório. Decido.
+Tendo em vista que o agravante, além de impugnar o fundamento da decisão agravada, atendeu aos demais pressupostos de admissibilidade deste agravo, passo ao exame do recurso especial.
+A partir da análise do acórdão recorrido, em confronto com as razões recursais, é possível verificar que as questões debatidas no recurso especial, em nenhum momento, foram abordadas pelo Tribunal de origem à luz dos dispositivos legais supostamente ofendidos, tampouco foram opostos embargos declaratórios a fim de suprir eventuais omissões.
+A admissibilidade do recurso especial exige prequestionamento, ou seja, que a matéria tratada tenha sido objeto de efetivo pronunciamento pelo Tribunal de origem, ainda que em embargos de declaração. Sendo assim, diante da constatação de que a decisão incorreu em omissão, cumpria à parte ora recorrente opor embargos declaratórios, com o intuito de sanar a irregularidade e, consequentemente, provocar o prequestionamento, o que não ocorreu no caso em tela.
+Configurada a ausência do indispensável requisito do prequestionamento, impõe-se o não conhecimento do recurso especial interposto. Incidem na hipótese, por analogia, os óbices constantes das Súmulas n. 282 e n. 356, ambas do STF (in verbis):
+Súmula 282/STF:
+É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356/STF:
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
