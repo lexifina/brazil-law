@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] MELLO contra decisão do Tribunal Regional Federal da 3ª Região, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 158):
+PROCESSUAL CIVIL. AGRAVO LEGAL (ART. 557, § 1º, DO CPC). PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+1 - É dado ao relatar, na busca pelo processa célere e racional, decidir monocraticamente o recurso interposto, quer negando-lhe seguimento, desde que em descompasso com "súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior", quer lhe dando provimento, na hipótese de decisão contrária "à súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior" (art. 557, caput e §1º-A, do CPC).
+2 - O denominado agravo legal (art. 557, §1º, do CPC) tem o propósito de submeter ao órgão colegiada o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida.
+3 - Decisão que não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos em consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+4 - Agravo improvido.
+No especial obstaculizado, o recorrente sustentou ofensa ao art. 535, II, do CPC/1973, apontando omissão no julgamento do acórdão recorrido, pois o Tribunal de origem não teria analisado os documentos relativos à causa de pedir e ao objeto da ação. Postulou o pronunciamento sobre os documentos e cálculos primitivos adotados pelo INSS na fixação da RMI e mais especificamente sobre o valor do salário de beneficio e os tetos do regime geral da Previdência que foram adotados em substituição ao salário de beneficio.
+Transcorrido o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que as razões recursais demandam o reexame das provas dos autos, incidindo o óbice da Súmula 7 do STJ.
+ Na presente irresignação, o agravante sustenta a possibilidade do pedido de isenção postulado na própria peça do recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1022 DO CPC/15. CDA. NOME DO SÓCIO. ÔNUS PROBATÓRIO. DEMONSTRADA AUSÊNCIA DE ABUSO DE PODER OU INFRAÇÃO À LEI. SÚMULA 7/STJ.
+1. Não se reconhece ofensa ao art. 1022 do CPC/15 quando o acórdão embargado enfrenta e decide, de maneira integral e com fundamentação suficiente, toda a controvérsia posta nos autos.
+2. A alteração das conclusões adotadas pela Corte de origem, quanto à alegação da prática de ato ilícito dos gestores da empresa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.625.480/RN, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 05/04/2018).
+Ademais, o Tribunal de origem ao negar o pedido autoral concluiu pela ausência de interesse de agir, tecendo a seguinte fundamentação, in verbis (e-STJ fl. 156):
+A matéria discutida nos autos é exclusivamente de direito, razão pela qual é desnecessária a dilação probatória, nos termos do art. 330, I, do CPC.
+Antes de adentrar no mérito propriamente dito da lide, necessário examinar o interesse processual do autor.
+Examinando o documento de fl. 19, verifico que o autor é beneficiário de aposentadoria por tempo de serviço, com início em 19/03/1987, cujo salário de beneficio (Cr$10.400,00) não foi limitado ao teto (Cr$27.360,00), razão pela qual o autor é carecedor da ação, por falta de interesse processual.
+O interesse processual para propor ação resta configurado quando resulta em alguma vantagem de natureza econômica ou moral ao seu autor.
+Trago à colação escólio de Nelson Nery Júnior e Rosa Maria Andrade Nery, em "Código de Processo Civil Comentado e legislação processual civil extravagante em vigor", 4º edição, pág. 376, verbis:
+..o interesse processual se consubstancia na necessidade de o autor vir a juízo e na utilidade que o provimento jurisdicional poderá lhe proporcionar.
+No caso dos autos, é patente a ausência de interesse processual, nos precisos termos do Art. 267, § 3º, do CPC. Tal matéria, por ser de ordem pública, deve ser conhecida de oficio e em qualquer grau de jurisdição:(..).
+Porém, observa-se que o agravante não se insurgiu nas razões do recurso especial contra esse fundamento do acórdão recorrido, o que atrai a aplicação da Súmula 283 do STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
