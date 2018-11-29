@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO REGIMENTAL. APELAÇÃO CÍVEL. TEMPESTIVIDADE. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO RECURSAL. MANIFESTAÇÃO DA PARTE. CIÊNCIA INEQUÍVOCA DA SENTENÇA.
+1. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de ser possível afastar a regra geral das intimações pela publicação na imprensa oficial, quando a parte tenha tomado ciência inequívoca da decisão que lhe é adversa por outro meio qualquer, iniciando a partir daí a contagem do prazo para interposição do recurso cabível.
+2. Parte que apresentou recurso de apelação demonstrando ciência inequívoca da decisão recorrida.
+3.Publicação de Despacho determinando a mudança dos nomes dos patronos.
+4. Contagem do prazo.
+5. Recurso intempestivo. 5. Agravo regimental não provido.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+Ementa: EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. REDISCUSSÃO DA MATÉRIA. REPRISE EXAUSTIVA DE ARGUMENTOS.
+PREQUESTIONAMENTO. IMPOSSIBILIDADE. EMBARGOS PROTELATÓRIOS. 1. Da simples leitura do recurso interposto verifica-se que o embargante, sob o pretexto de que o acórdão embargado teria incorrido em omissão, efetivamente, têm o nítido propósito de obter o reexame da matéria versada nos autos. 2. Os embargos de declaração não se prestam a tal propósito, constituindo, portanto, instrumento hábil para sanar eventual ambiguidade, obscuridade, contradição ou omissão constante dos acórdãos proferidos pelos Tribunais, Câmaras ou Turmas. 3. Mesmo os embargos de declaração com o fim precípuo de prequestionamento não prescindem de indicar em que vícios incorreu o julgado (obscuridade, contradição ou omissão), o que não ocorre na situação em liça. 4. Portanto, embargos declaratórios manifestamente protelatórios, sendo impositiva a aplicação da multa. 5. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do especial, aponta a parte agravante violação aos artigos 214, 234, 242, 249 e 508, todos do Código de Processo Civil de 1973; 489 e 1.022 e 1.026, todos do Código de Processo Civil.
+Sustenta que não há como falar em ciência inequívoca acerca da sentença quando da primeira intimação se necessariamente haveria de ter uma segunda intimação.
+Questiona, ainda, como a primeira publicação pode ter alcançado seu objetivo, se a própria decisão dispõe que a sentença deveria ser publicada.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, consignou que a apelação interposta é intempestiva, assim dispondo:
+ ..
+No caso em análise foi possível constatar que a empresa Elevadores OTIS LTDA, ora apelante, interpôs seu recurso de apelação intempestivamente.
+Observa-se que a sentença foi proferida em 16.11.2011 e devidamente publicada no Diário da Justiça nº 6933 do Dia 24.11.2011, conforme atestado na Certidão de fls. 190-v dos autos. Ocorre que a parte peticionou às fls. 196/198, alegando ter sido feita a intimação do teor da r. sentença sem que constasse o nome dos patronos por ela indicados. Ao fim pediu que fosse anulada a intimação realizada anteriormente e fosse devolvido o prazo recursal.
+Em atendimento ao pleito, o MM Juiz de 1º Grau, em despacho de fls. 201-v, anulou a intimação e determinou fosse feita nova intimação constando o nome do advogado indicado pela parte. Da certidão de fls. 202 constata-se que foi publicado o referido despacho no Diário Oficial nº 6949 do Dia 19.12.2011. Assim, o prazo recursal iniciou-se em 20.12.2011.
+Ocorre que, conforme previsão do art. 1º, IV da Resolução 44/2011 não houve expediente forense na Justiça Estadual de 1º e 2º Grau no período de 21 de Dezembro de 2011 a 05 de Janeiro de 2012, em razão do recesso natalino. Assim, restou suspenso o prazo recursal neste período, recomeçando a sua contagem em 06.01.2012 e encerrando-se em 19.01.2012.
+A parte apelante retorna aos autos alegando:
+fi) ,es "A r. decisão aqui recorrida, equivocou-se na análise dós sitos extrínsecos de admissibilidade recursal, sobretudo quanto a tempestividade, pois não se atentou a determinação para que a sentença fosse republicada, de modo que, quando da interposição do Recurso de Apelação, sequer havia iniciado o prazo recursal." A parte quer fazer crer que não lhe foi oportunizado novo prazo para apresentação de recurso, tendo em vista a ausência de republicação da sentença a quo.
+Tal entendimento, no entanto, não merece prosperar. Conforme se extrai do Protocolo afixado no rosto das razões recursais às fls. 203 dos autos, o recurso de Apelação foi interposto apenas em 24.01.2012.
+ ..
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, descaracterizar a intempestividade da apelação, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROTOCOLO APÓS EXPEDIENTE. PETIÇÃO RECEBIDA ANTES DO ENCERRAMENTO. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO CONFIGURAÇÃO APLICAÇÃO DO ART. 1.531 DO CC/1916. EXIGÊNCIA DE MÁ-FÉ. PROVA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Tendo a Corte estadual afirmado que o protocolo da petição após o horário de expediente não significa recebimento fora do prazo, sendo atendidos todos aqueles que ingressarem antes deste horário, a reforma do aresto impugnado, quanto ao ponto, para concluir que a apelação é intempestiva, demandaria, necessariamente, revolvimento de matéria fática, inviável em recurso especial (Súmula 7/STJ).
+2. O Tribunal local dirimiu a matéria submetida à sua apreciação, com fundamentação suficiente à resolução da controvérsia, o que afasta a alegada ofensa ao artigo 535 do CPC/73. 3. A indenização prevista no art. 1.531 do CC/1916 (art. 940 do CC/2002) é cabível somente quando caracterizada a má-fé do credor ao demandar o devedor por dívida já paga, total ou parcialmente, sem ressalvar valores recebidos.
+4. Concluindo a Corte de origem pela inexistência de má-fé da recorrida, a reforma do acórdão recorrido demandaria revolvimento de matéria fática, inviável em recurso especial (Súmula 7/STJ).
+5. Agravo interno não provido.
+(AgInt no REsp 1231497/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+Acrescento que o Tribunal estadual não divergiu da jurisprudência do Superior Tribunal de Justiça (STJ) ao decidir pela possibilidade de afastar a regra geral das intimações pela publicação na imprensa oficial, quando a parte tenha tomado ciência inequívoca da decisão que lhe é adversa por outro meio qualquer, iniciando a partir daí a contagem do prazo para interposição do recurso cabível.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DA EXECUÇÃO. TÍTULO EXTRAJUDICIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284 DO STF. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. AUSÊNCIA DE NULIDADE DA INTIMAÇÃO. CARGA DOS AUTOS PELO ADVOGADO. PRECEDENTES DO STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO. 1. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Incidência da Súmula 284 do STF. 2. A reforma do acórdão estadual no tocante a impossibilidade de suspensão da execução, exige a análise minuciosa dos elementos configuradores da conexão entre ações - identidade de objetos ou de causa de pedir -, o que demandaria o reexame do conjunto fático-probatório dos autos. Incidência da Súmula 7 do STJ.
+3. Esta Corte Superior possui entendimento pacífico no sentido de ser possível afastar a regra geral das intimações pela publicação na imprensa oficial, quando a parte tenha tomado ciência inequívoca da decisão que lhe é adversa por outro meio qualquer, iniciando a partir daí a contagem do prazo para interposição do recurso cabível.
+Incidência da Súmula 83 do STJ.
+4. Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na Constituição Federal.
+5. Agravo interno não provido.
+(AgInt no AREsp 1285728/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 23/08/2018)
+Incide, pois, no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
