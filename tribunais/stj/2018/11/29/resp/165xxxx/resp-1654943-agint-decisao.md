@@ -1,0 +1,23 @@
+DECISÃO
+O presente feito decorre de agravo de instrumento interposto por [NOME] contra decisão que, em execução de sentença, indeferiu pedido de intimação da Autarquia para apresenta a conta das parcelas vencidas. No Tribunal Regional Federal da 4ª Região, a decisão objeto do agravo foi mantida, nos seguintes termos ementados:
+AGRAVO DE INSTRUMENTO. PROSSEGUIMENTO DA EXECUÇÃO. MONTANTE INCONTROVERSO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXPEDIÇÃO DO REQUISITÓRIO. IMPOSSIBILIDADE.
+Impossibilidade de executar-se o título, mesmo quanto à parte incontroversa, sem o trânsito em julgado da sentença (fl. 524).
+Interposto recurso especial por [NOME], com fundamento no artigo 105, inciso III, letra a, da Constituição Federal.
+A parte recorrente pretende, em síntese, que seja reconhecido o trânsito em julgado no tocante às questões que não foram objeto do recurso interposto pelo INSS e, ainda, que seja determinado o prosseguimento da execução contra a Fazenda Pública, em caráter definitivo, pelos valores incontroversos.
+A segurada interpôs também recurso extraordinário (fls. 123-133), com idêntico propósito, que foi sobrestado pela decisão de fl. 140, para que se aguardasse o julgamento do tema n. 28, vinculado ao RE n. 614.819/DF, com repercussão geral reconhecida, em cujo julgamento se examinará se é possível o fracionamento da execução contra a fazenda pública, com a expedição de precatório para pagamento da parte incontroversa da condenação.
+Recurso admitido na origem.
+Recebidos os autos no STJ, foi proferida decisão nos seguintes termos:
+Neste caso, como o recurso extraordinário guarda relação de prejudicialidade com o recurso especial, o sobrestamento deste, com a remessa dos autos ao Supremo Tribunal Federal, seria a medida a ser tomada com base no artigo 1.031, § 2º, do CPC/2015.
+Entretanto, em razão da disciplina dos artigos 1.036 a 1.041 do CPC/2015, impõe-se a devolução dos autos ao tribunal de origem, com baixa na distribuição, a fim de que o exame da admissibilidade do recurso especial ocorra após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário.
+Opostos embargos de declaração com nítida feição de agravo interno. Instada a parte embargante a complementar razões, manifestou-se às fls. 198-199.
+Interposto agravo interno. Sustenta a parte agravante, às fls. 198, que
+Conforme se observa nos autos, o que a parte autora ora busca é a certificação do trânsito em julgado no que se refere à parte confessa pela ré (o mérito e a condenação corrigida, a contar da Lei 11.960/09, pela TR  6%), determinando então a remessa para a contadoria para calcular o condenatório e impor a intimação do INSS para efetiva impugnação ou concordância com o cumprimento de sentença, eis que a demanda principal está sobrestada aguardando apenas julgamento do tema 810, STF (juros e correção).
+Já no tema 28 do STF o que se discute é o "fracionamento da execução com expedição de precatório para pagamento de parte incontroversa da condenação".
+Assim, considerando que no tema 28, STF a questão em análise refere-se a processo em sede de execução e/ou Embargos à execução, já a presente demanda encontra-se na fase de conhecimento, não merece restar suspenso o feito, eis que trata de caso diverso àquele sobrestado.
+É o relatório.
+Compulsando os autos, observa-se que houve um equívoco ao se determinar a intimação da parte a complementar as razões, uma vez que trata-se, na verdade, de petição de distinção e não propriamente de agravo interno. Nesse sentido, reconsidero o despacho de fls. 190, julgo prejudicado o agravo interno interposto e passo a analisar novamente os embargos de declaração de [NOME] de fls. 159-163.
+Verifica-se que a parte embargante objetiva o prosseguimento da ação sob o argumento de que a matéria tratada em seu recurso especial é diversa daquela discutida no Tema n. 28/STF. Assim, recebo os presentes embargos de declaração como petição de distinção, nos termos do art. 1.037, § 9º, do CPC/2015.
+No Tema n. 28, o Excelso Pretório discute, sob repercussão geral da matéria, de relatoria do Min. Marco Aurélio, o fracionamento da execução com expedição de precatório para pagamento de parte incontroversa da condenação.
+É exatamente essa a insurgência da parte recorrente em seu recurso especial às fls. 113-121, no qual se busca seguir com a execução de incontroverso, admitindo-se o trânsito em julgado das matérias não recorridas e/ou naquelas recorridas parcialmente.
+Ante o exposto, reconsidero o despacho de fls. 190, julgo prejudicado o agravo interno interposto, recebo os embargos de declaração como pedido de distinção, para rejeitá-lo, mantendo-se a determinação de remessa dos autos à origem.
+Publique-se. Intimem-se.
