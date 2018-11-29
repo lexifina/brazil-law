@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 767, e-STJ):
+AÇÃO ANULATÓRIA DE ASSEMBLEIA CONDOMINIAL. Sentença de improcedência. Apelação de ambas as partes. Ação na qual o demandante pretende a anulação da assembleia geral ordinária realizada pelo condomínio réu, sob o argumento de que não foram observadas as formalidades previstas na respectiva convenção e na legislação pertinente. Aponta irregularidades nos trabalhos assembleares e na feitura da ata. Não constatação de problemas. Ausente qualquer irregularidade, não há que se falar em anulação da assembleia ou vício em razão do não exercício do direito de voto. Honorários advocatícios sucumbenciais majorados. Recurso do autor desprovido. Recurso do requerido provido.
+Opostos embargos de declaração, esses foram rejeitados pelo acórdão de fls. 786-790, e-STJ.
+No recurso especial, aponta violação aos artigos 1.022, inciso II, do Código de Processo Civil/2015, e 1.335, inciso III, do Código Civil.
+Sustenta que o "Juízo primário cerceou o direito de defesa da autora, ao julgar antecipadamente o feito, mesmo já tendo deferido a produção de prova oral em audiência, contra o que não houve nenhum recurso, caracterizando violação "pro judicato"" (fl. 801, e-STJ).
+Alega que, nos termos do art. 1.335, III, do Código Civil, o condômino poderá votar em assembleia, desde que quites com a verba condominial. Aduz que "No caso em tela a recorrente na data da realização da assembléia estava quite com todas as obrigações, tanto as verbas a ela reputadas, quanto as verbas objeto de composição extrajudicial, homologada judicialmente" (fl. 803, e-STJ).
+Contrarrazões às fls. 818-824, e-STJ.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 826-827, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que se refere à preliminar suscitada, não observo omissão, contradição ou obscuridade no acórdão, senão julgamento contrário aos interesses dos recorrentes, o que não autoriza, por si só, o acolhimento de embargos de declaração nem sua rejeição importa em violação à sua norma de regência. Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento.
+Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Assim, não se verifica a apontada violação do art. 1.022 do Código de Processo Civil/2015, vigente à época da publicação do acórdão recorrido.
+O recurso especial não merece prosperar, em razão da incidência da Súmula 7/STJ.
+Ao solucionar a controvérsia, o Tribunal de origem consignou o seguinte: (fls. 332-335 e 338, e-STJ):
+Preliminarmente, não há de se acolher o argumento de ocorrência de cerceamento de defesa. Isso porque completamente desnecessária a produção de prova oral. A causa encontrava-se suficientemente instruída, dando condições para que o magistrado formasse seu convencimento.
+O julgador é o destinatário final das provas que servem à formação da sua convicção sobre a demanda. O art. 130 do Código de Processo Civil, nesse sentido, impõe ao Julgador o poder-dever de indeferir diligências que entenda inúteis ou meramente protelatórias.
+Por sua vez, o art. 330, inciso I, do mesmo diploma, é expresso em permitir o julgamento antecipado da lide quando não houver necessidade de produção de provas em audiência. No caso, com efeito, as provas presentes nos autos eram suficientes à formação da convicção do MM. Juízo a quo.
+ ..
+Especificamente no que tange ao direito de voto, observo que o próprio autor confessa que a transação celebrada com o anterior proprietário ainda não havia sido integralmente cumprida. Desse modo, e tendo em mente a natureza propter rem da obrigação condominial, o autor efetivamente não teria direito a voto.
+Ainda que tivesse, o resultado da assembleia não teria se alterado (votação para síndico no percentual de 69% para a candidata vencedora; 23% para o outro candidato; e abstenções correspondentes a 8%). Para os demais cargos (subsíndico, presidente e secretário), a votação se deu por unanimidade, o que não significa que a aprovação tenha sido "automática", mas apenas que se deu com a concordância de todos. Portanto, apenas o inconformismo do autor com a decisão tomada pela maioria dos condôminos não é capaz de embasar o pleito anulatório.
+Observe-se que o acordo celebrado entre o condomínio e o proprietário antigo não desconstitui a natureza propter rem da dívida que, em essência, recai sobre as unidades condominiais hoje em posse do autor.
+Entendo que a ausência de menção na ata sobre quais unidades votaram para as deliberações do dia, principalmente no que tange à reeleição da síndica, não é capaz de macular a regularidade dos trabalhos desenvolvidos. O resultado já foi apresentado e relatado na ata em percentual que corresponde à fração ideal (31,3678 F.I que corresponde a 69%; 10,6367 F.I que corresponde a 23%e 3,6325 F.I que corresponde a 8% - cf. fls. 81).
+De fato, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento. Revisão do entendimento esbarraria no óbice contido na Súmula nº 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REGRESSIVA DA SEGURADORA CONTRA O CAUSADOR DO DANO - ACIDENTE DE TRÂNSITO - COLISÃO TRASEIRA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DO REU.
+ ..
+2. No sistema da persuasão racional, adotado pela legislação processual civil (artigos 130 e 131 do CPC/1973 e 371 do CPC/2015), o magistrado é livre para examinar o conjunto fático-probatório produzido nos autos para formar sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento.
+2.1. A alteração do acórdão impugnado com relação às provas dos autos demandaria o reexame do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, a teor da Súmula 7/STJ. 2.2.
+Na hipótese, não se vislumbra erro material na apreciação da prova, mas sim o inconformismo da parte com relação ao juízo de valor aferido pelas instâncias ordinárias, cuja revisão esbarra no referido óbice sumular.
+3. Agravo interno desprovido.
+(AgInt no AREsp 483.170/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 25/10/2017).
+No que diz respeito ao direito de voto, o Tribunal de origem solucionou a controvérsia à luz dos fatos e das provas constantes dos autos, de sorte que a modificação do acórdão recorrido nesse particular esbarra no óbice da Súmula 7/STJ.
+Quanto à majoração da verba honorária em razão do disposto no art. 85, § 11, do Código de Processo Civil/2015, mostra-se incabível, uma vez que já houve a sua fixação no limite máximo pelas instâncias de origem.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
