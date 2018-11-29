@@ -1,0 +1,15 @@
+DECISÃO
+    Trata-se de embargos de declaração opostos contra decisão mediante a qual a Presidência da Corte aplicou os óbices das Súmulas 279 e 454 do Supremo Tribunal Federal e da ausência de ofensa constitucional direta.
+    A parte embargante sustenta erro e omissão quanto à prejudicialidade do recurso extraordinário.
+    Decido.
+    Acolho os embargos de declaração para afastar os óbices indicados. Outro óbice, no entanto, impedem o prosseguimento do recurso: o caso é de parcial provimento do recurso especial pelo Superior Tribunal de Justiça, que atendeu a pretensão do agravante quanto ao “pedido de repasse da verba denominada ‘abono único’ aos recorridos”, objeto do recurso extraordinário.
+    O presente agravo está prejudicado pela perda superveniente do objeto, operando-se, portanto, a substituição do julgado nos termos do art. 1.008 do Código de Processo Civil. Assim, por exemplo:
+    Agravo regimental no agravo de instrumento. Processual. Recursos especial e extraordinário interpostos simultaneamente contra acórdão proferido na origem. Provimento integral da pretensão recursal pelo STJ. Prejudicado o exame do recurso extraordinário. Precedentes. 1. Com o trânsito em julgado da decisão do Superior Tribunal de Justiça que deu provimento ao recurso especial interposto simultaneamente ao recurso extraordinário, restou prejudicado o exame deste último, haja vista a perda superveniente de seu objeto. 2. Agravo regimental não provido (AI nº 645.416/RS-AgR, Primeira Turma, de minha relatoria, DJe de 13/10/11).
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO PREJUDICADO EM VIRTUDE DE PROVIMENTO DO RECURSO ESPECIAL. PERDA DE OBJETO. O Superior Tribunal de Justiça, em decisão transitada em julgado, deu provimento ao recurso especial, determinando o retorno dos autos à origem, para que o tribunal a quo aprecie eventual ocorrência de prescrição da ação, considerado o prazo de cinco anos do recebimento das restituições. Recurso extraordinário prejudicado, por perda de seu objeto. Agravo regimental a que se nega provimento (AI nº 651.966/DF-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , DJe de 17/9/12).
+    AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PERDA SUPERVENIENTE DE OBJETO. AGRAVO PREJUDICADO. I - A pretensão deduzida no recurso extraordinário perdeu seu objeto, prejudicando, pois, o recurso de agravo nele interposto. II Agravo regimental improvido (ARE nº 639.404/PR-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski , DJe de 10/2/12).
+    Diante do exposto, por fundamento diverso, nego seguimento ao recurso (alínea c do inciso V do art. 13 do RISTF).
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
