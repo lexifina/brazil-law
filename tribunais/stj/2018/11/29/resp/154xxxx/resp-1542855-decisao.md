@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com base na alínea "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fls. 115/116):
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. LICENÇA-PRÊMIO POR ASSIDUIDADE NÃO USUFRUÍDA NEM COMPUTADA EM DOBRO PARA FINS DE APOSENTADORIA. CONVERSÃO EM PECÚNIA. IMPOSSIBILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO CONCRETA DE ALGUM OBSTÁCULO AO EXERCÍCIO DO SEU DIREITO.
+1. Apelação e remessa oficial de sentença que julgou procedente o pedido, para reconhecer o direito do autor à conversão, em pecúnia, das licenças-prêmios não gozadas, 30 dias referente ao período de 21 de novembro de 1980 a 20 de novembro de 1985; 90 dias referente ao período de 21 de novembro de 1985 a 19 de novembro de 1990; e 90 dias referente ao período de 20 de novembro de 1990 a 18 de novembro de 1995, condenando a União a pagar-lhe os valores correspondentes a essa conversão.
+2. Sentença que se apoia na tese de que i) a parte autora não gozou da licença-prêmio no tempo em que estava em atividade nem utilizou qualquer dos períodos para contagem em dobro da aposentadoria, de isenção de PSS ou abono de permanência.
+3. Ainda que se trate de licença-prêmio não usufruída e não contada em dobro para fins de aposentadoria, não se apresenta possível a sua conversão em pecúnia em favor do servidor aposentado, salvo se este demonstrar concretamente algum obstáculo ao exercício do seu direito.
+4. No caso, o apelado não faz jus à conversão da licença-prêmio em pecúnia, porquanto não comprovou que, por interesse da Administração, restou impossibilitado de usufruir dos períodos de licença-prêmio, quando em atividade.
+5. Precedentes: PJE: 08001471920134058000, APELREEX/AL, RELATOR: DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, Segunda Turma, JULGAMENTO: 29/04/2014; e PJE: 08005849420124058000, APELREEX/AL, RELATOR: DESEMBARGADOR FEDERAL VLADIMIR CARVALHO, Segunda Turma, JULGAMENTO: 18/03/2014
+6. Apelação e remessa oficial providas.
+O recorrente alega violação do art. 87 da Lei n. 8.112/1990, sustentando que tem direito de receber, em pecúnia, a licença-prêmio não gozada nem contada em dobro para fins de aposentadoria. Aduz, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Decisão de admissão à e-STJ fl. 145.
+ Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal merece prosperar.
+Com efeito, este Tribunal Superior tem o entendimento de que é devida ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da Administração. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA E NÃO CONTADA EM DOBRO. CONVERSÃO EM PECÚNIA. POSSIBILIDADE.
+1. Revisar o entendimento da Corte regional, que entendeu ser possível a concessão do benefício da gratuidade de justiça na hipótese, ao argumento de que ficou comprovada a hipossuficiência, importaria em revisão do contéudo probatório dos autos, providência incabível na via eleita, diante do óbice imposto pela Súmula 7/STJ.
+2. O entendimento do STJ se firmou no sentido de que é devida ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da Administração.
+3. Recurso especial de que se conhece em parte e, nessa extensão, nega-se-lhe provimento. ( REsp 1682739/PE, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/08/2017)
+RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO EM PECÚNIA DA LICENÇA-PRÊMIO NÃO GOZADA. POSSIBILIDADE. PRINCÍPIO QUE VEDA O ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO.
+ I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II. O acórdão recorrido encontra-se em harmonia como a jurisprudência desta Corte, segundo a qual é cabível a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para aposentadoria, independentemente de requerimento administrativo, sob pena de configuração do enriquecimento ilícito da Administração.
+III. Negado provimento ao Recurso Especial. (REsp 1588856/PB, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 27/05/2016)
+Dessa forma, o aresto regional destoa da orientação jurisprudencial deste Superior Tribunal de Justiça.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para, reformando o aresto recorrido, reconhecer o direito do autor - servidor público aposentado - de obter a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para aposentadoria. Determino, ainda, o retorno dos autos ao Tribunal de origem a fim de que prossiga no julgamento das demais matérias objeto da apelação, como entender de direito.
+Publique-se. Intimem-se.
