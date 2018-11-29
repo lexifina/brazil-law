@@ -1,0 +1,47 @@
+EMENTA
+HABEAS CORPUS. CRIME DE TRÁFICO DROGAS. PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4.º, DA LEI DE TÓXICOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. ORDEM DE HABEAS CORPUS NÃO CONHECIDA. DE OFÍCIO, ORDEM PARCIALMENTE CONCEDIDA APENAS PARA ESTABELECER O REGIME PRISIONAL INICIALMENTE SEMIABERTO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n.º 0001317-60.2017.8.26.0544.
+Consta nos autos que a Acusada foi presa em flagrante, em 19/06/2017, pela suposta prática do delito de tráfico de drogas, por transportar, para fins de comercialização a terceiros, 949 (novecentos e quarenta e nove) tubetes de cocaína, com peso líquido total de 229,5g (duzentos e vinte e nove gramas e cinco decigramas). Posteriormente a prisão em flagrante foi convertida em preventiva.
+Instaurada a ação penal, a Paciente foi condenada às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e de 500 (quinhentos) dias-multa, como incursa no art. 33, caput, da Lei n.º 11.343/2006 (fls. 28-32).
+O Tribunal a quo negou provimento ao apelo defensivo, nos termos do acórdão assim ementado (fl. 48):
+"APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. Mérito. Provas suficientes da autoria e materialidade delitiva. Valorização das palavras do policial responsável pela prisão do agente. Destinação mercantil dos entorpecentes deduzida, com segurança, pelas particularidades do caso concreto. Condenação mantida. Inadmissibilidade de aplicação do redutor do art. 33, § 4º, da Lei nº 11.343/06, pois há prova de que a ré se dedica a atividades criminosas. 4. Manutenção do regime inicial fechado, vedada a substituição da pena. APELO DESPROVIDO."
+Nas razões do presente writ, a Parte Impetrante busca, em liminar e no mérito, a aplicação da causa de redução da pena do art. 33, § 4.º, da Lei n.º 11.343/2006, com fixação do regime inicial aberto, alegando que a Paciente é primária, com bons antecedentes criminais, possui trabalho lícito e residência fixa, fazendo jus à minorante do tráfico privilegiado.
+Indeferi o pedido liminar às fls. 88-90.
+Foram prestadas informações às fls. 95-121.
+O Ministério Público Federal manifestou-se às fls. 123-130, opinando pela extinção do processo sem resolução do mérito ou pela denegação da ordem.
+É o relatório.
+Decido.
+O Tribunal de origem, ao negar provimento à apelação defensiva, confirmou a inaplicabilidade da causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, ao fundamento de que (fl. 54; sem grifos no original.):
+" ..
+Importante destacar que não incidiu, no caso, a causa de diminuição existente no art. 33, § 4º da Lei nº 11.343/06, tendo em vista a prova de que a ré se dedica à atividades criminosas, levando-se em conta a grande quantidade de droga confiada à sua custódia.
+Aliás, neste ponto, bem anotou o MM. Juiz sentenciante, o que ora se adota: "Esclareço, ainda, que se mostra incabível o reconhecimento do crime em sua forma privilegiada, notadamente em razão da expressiva quantidade de entorpecente apreendida, que demonstra ter a ré vínculo estreito com o crime organizado e que não era iniciante no tráfico e vinha se dedicando a esta atividade criminosa, tanto que a ela foi confiada significativa quantidade de entorpecentes, de valor expressivo".
+Mantido o regime inicial fechado, com fulcro no art. 33, do Código Penal e em atenção às circunstâncias especialmente gravosas.
+ .. ".
+São condições para que o condenado faça jus a diminuição da pena prevista no § 4.º do art. 33 da Lei n.º 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+Ora, se não estão preenchidos conjuntamente todos os requisitos legais - como no caso, no qual se concluiu que a Paciente se dedicava à atividade criminosa -, não é legítimo reclamar a aplicação da minorante.
+Friso que, no caso concreto, a quantidade de droga não foi o único fundamento utilizado para afastar a minorante do tráfico privilegiado, pois o acórdão expressamente ressaltou que, além da apreensão de grande quantidade de cocaína, os demais elementos contidos nos autos demonstram que a Acusada se dedicava à atividade criminosa.
+Por oportuno, ressalto que:
+"Este Superior Tribunal de Justiça firmou entendimento no sentido de que a elevada quantidade de drogas, aliada às circunstâncias da sua apreensão, tem o condão de caracterizar que o agente se dedica a atividades criminosas, não fazendo jus à benesse da redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/06." (AgRg no REsp 1.584.298/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/05/2018, DJe de 23/05/2018).
+A propósito:
+"HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS. PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. BIS IN IDEM. INTERESTADUALIDADE DO DELITO. QUANTUM DE AUMENTO DE PENA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. ORDEM PARCIALMENTE CONCEDIDA.
+1. Nos termos do art. 42 da Lei n. 11.343/2006, mostra-se devido o aumento da reprimenda na primeira fase da dosimetria, com base na elevada quantidade de drogas apreendidas.
+2. Tanto o Supremo Tribunal Federal quanto esta Corte Superior de Justiça firmaram o entendimento de que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas ou mesmo a sua integração em organização criminosa e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+ .. " (HC 373.523/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe de 21/08/2018.)
+Outrossim, não é possível afastar a conclusão da Corte de origem quanto à dedicação da Paciente à atividade criminosa, o que necessitaria de aprofundado exame do conjunto fático-probatório dos autos, o qual, como é sabido, afigura-se inviável na via estreita do writ, consoante jurisprudência uníssona do Superior Tribunal de Justiça.
+No mesmo sentido:
+"HABEAS CORPUS. POSSE DE MUNIÇÃO. ARTS. 12 E 16 DA LEI N. 10.826/2003. APREENSÃO DE APENAS DUAS MUNIÇÕES (SEM AS RESPECTIVAS ARMAS DE FOGO). MÍNIMA OFENSIVIDADE DA CONDUTA. ATIPICIDADE MATERIAL. FLEXIBILIZAÇÃO DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ABSOLVIÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. INDICAÇÃO DE ELEMENTOS CONCRETOS. CONCLUSÃO INVERSA. REEXAME DE PROVAS.
+ ..
+4. Quanto ao tráfico ilícito de entorpecentes, reconhecida a impossibilidade de incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, em razão das evidências concretas de que o paciente se dedicava à atividade criminosa, adotar conclusão diversa demandaria a incursão em aspectos fático-probatórios, providência que é incabível nesta via estreita.
+5. Ordem parcialmente concedida para, cassando-se o acórdão condenatório, absolver o paciente da prática dos delitos tipificados nos arts. 12 e 16 da Lei n. 10.826/2003, com fundamento no art. 386, III, do Código de Processo Penal." (HC 325.085/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/03/2018, DJe 12/04/2018.)
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DO ENTORPECENTE APREENDIDO. POSSIBILIDADE. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE DEDICA-SE ÀS ATIVIDADES CRIMINOSAS. BIS IN IDEM NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - In casu, o eg. Tribunal de origem, considerou, não somente a natureza da droga apreendida, mas também o local da apreensão para afastar o privilégio. Rever esse entendimento, para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+Precedentes.
+ ..
+Habeas Corpus não conhecido." (HC 433.104/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/04/2018, DJe de 16/04/2018)
+De outra parte, no tocante à fixação do regime inicial de cumprimento da pena, a imposição do regime fechado decorreu de fundamentação vaga e genérica acerca da gravidade inerente a todo e qualquer delito de tráfico de drogas.
+Assim, considerando a primariedade da Paciente, a ausência de circunstâncias judiciais desfavoráveis e o quantum da pena, é possível a aplicação do regime inicial semiaberto, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal e da Súmula n.º 440/STJ.
+Por fim, em razão do quantum da pena imposta - acima de quatro anos -, é inviável a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, NÃO CONHEÇO do pedido de habeas corpus. No entanto, CONCEDO PARCIALMENTE A ORDEM de ofício apenas para alterar o regime inicial de cumprimento da pena para o semiaberto.
+Publique-se. Intimem-se.
