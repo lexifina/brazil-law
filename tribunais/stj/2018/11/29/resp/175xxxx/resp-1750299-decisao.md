@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO CUMULADA COM COMPENSAÇÃO POR DANO MORAL E REPETIÇÃO DE INDÉBITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, II, III E IV, DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O PERICULUM IN MORA E O FUMUS BONI JURIS. AUSÊNCIA DE PERICULUM IN MORA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Ação revisional de contrato bancário cumulada com compensação por dano moral e repetição do indébito em razão de descontos indevidos na conta corrente do recorrido.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, II, III e IV, do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial; para tanto, porém, é necessária a caracterização do fumus boni juris e a demonstração do periculum in mora, que, sob um juízo perfunctório, não está configurado na espécie.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO DO BRASIL SA, com fundamento na alínea "a" do permissivo constitucional.
+Ação: revisional de contrato bancário cumulada com compensação por dano moral e repetição de indébito, ajuizada por [NOME], em face do recorrente, em razão de descontos indevidos em sua conta corrente, na qual pleiteia a revisão do contrato de empréstimo celebrado entre as partes, a repetição do indébito dos descontos em excesso, bem como compensação por dano moral.
+Decisão interlocutória: inverteu o ônus da prova e determinou que o recorrente arcasse com os honorários da perícia contábil.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa:
+Agravo de instrumento. Ação revisional c.c. reparação por danos morais com pedido de antecipação de tutela. Imposição dos encargos de antecipação de despesa da prova pericial à ré em saneador proferido pelo juízo "a quo", objeto de embargos de declaração rejeitados. Inconformismo. Acolhimento. Prova requerida pelo autor. Inteligência do art. 95 do CPC/15. Ré que não pode ser obrigada a custear as despesas da produção da prova pericial, mesmo nos termos da nova regra processual, à margem do desdobramento que a ausência da sua realização possa lhe recair, por impertinente ao limite da divergência. Decisão reformada. Recurso provido. (e-STJ Fl. 159)
+Embargos de declaração: interpostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 369, 373, § 1º, 489, § 1º, II, III e IV, 1.022, I e II, do CPC/15 e 6º, VIII, do CDC. Além de negativa de prestação jurisdicional, insurge-se contra a decisão que indeferiu a inversão dos ônus probatórios. Sustenta que a supressão da audiência de instrução e julgamento acarretou cerceamento de defesa em razão da necessidade de oitiva de testemunha.
+Relatado o processo, decide-se.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da inversão do ônus da prova, bem como em relação ao pedido de produção de provas, de maneira que os embargos de declaração opostos pelo recorrente de fato não comportavam acolhimento. Confira-se:
+(..)
+Está claro na decisão colegiada, que o ato de consideração de necessidade da prova pericial, postulada pela agravada, aconteceu em deliberação fundamentada do douto juízo "a quo", segundo suas convicções em torno do ponto controvertido trazido no conflito.
+E é quem destinatário da prova à formação de seu convencimento fl. 162.
+Não bastasse o exposto, consta expressamente no acórdão à fl. 163 que, especificamente, em relação às alterações impostas pelo artigo 357 do NCPC (correspondente ao art. 331, do CPC/73), não obstante existam regras mais específicas para o saneamento e a organização da atividade probatória, dentre elas a distribuição do ônus (inciso III do artigo mencionado), in verbis: não ocorrendo nenhuma das hipóteses deste Capítulo, deverá o juiz, em decisão de saneamento e de organização do processo: (..) III definir a distribuição do ônus da prova, observado o art. 373, neste ponto forçoso o entendimento de que a postulação pela produção foi expressa pelo agravado.
+Por outro ponto do recurso, como se sabe, a inversão do ônus da prova, prevista no inciso VIII do artigo 6º do CDC, que se dá ao critério do Juízo quando configurada a verossimilhança da alegação ou hipossuficiência da parte, não serve para definir a responsabilidade pelo custeio da produção da prova pericial. (REsp 781446/RN; Rel. Min. Sidnei Beneti; AgRg no AREsp nº 246.375/PR, Rel. Min. Luís Felipe Salomão).
+Ademais, o aresto concluiu que: "Assim sendo, muito embora a agravante possua maior suporte técnico e financeiro que o agravado, não pode ser obrigada a custear as despesas da produção da prova pericial, mesmo nos termos da nova regra processual, à margem do desdobramento que a ausência da sua realização possa lhe recair, por impertinente ao limite da divergência". fl. 163/164." (e-STJ Fls. 176/177)
+(..)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, II, III e IV, do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, I, II, e III, do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 369 do CPC/15, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na espécie, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inocorrência de cerceamento de defesa em razão da inversão do ônus da prova, bem como em razão da supressão da audiência de instrução e julgamento, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do efeito suspensivo
+A concessão do pretendido efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, o recorrente afirma estarem presentes os requisitos para a concessão do efeito suspensivo, diante da probabilidade do provimento do recurso e do risco de dano grave ou de difícil reparação em razão da indevida aplicação da inversão do ônus da prova e da violação ao direito de defesa.
+Vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos do recorrente não evidenciam qualquer risco iminente de dano irreparável ou de difícil reparação, tendo em vista que se limita a, genericamente, afirmar que poderá sofrer lesão grave e de difícil reparação, notadamente em razão da possibilidade do encerramento da instrução processual durante o processamento do presente recurso.
+Com efeito, não foi indicado nenhum prejuízo que, concretamente, possa advir da demora no julgamento do recurso especial.
+Assim, indefiro a tutela provisória requerida.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, pois não fixados na origem.
+Publique-se. Intimem-se.
