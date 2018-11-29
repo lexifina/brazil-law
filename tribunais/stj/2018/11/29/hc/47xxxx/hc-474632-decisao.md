@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JULIO CESAR SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará (HC n. 0628222-57.2018.8.06.0000).
+Consta dos autos que o paciente foi preso em flagrante em 5/1/2018 (custódia convertida em prisão preventiva), e denunciado pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 8):
+EMENTA: HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ART. 33 DA LEI 11.345/06. PRISÃO EM FLAGRANTE DELITO. CONVERSÃO EM PREVENTIVA. 1. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. DESCABIMENTO. ANÁLISE GLOBAL DOS PRAZOS. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA RAZOABILIDADE. NÃO VERIFICADA DESÍDIA IMPUTÁVEL AO ESTADO-JUIZ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. 2. TESES DE CARÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL, AUSÊNCIA DE REQUISITOS PREVISTOS NO ART. 312, DO CPP E A POSSIBILIDADE DE APLICAÇÃO SUBSIDIÁRIA DE MEDIDAS CAUTELARES PREVISTAS NO ART.319, DO CPP. ANÁLISE PREJUDICADA. ALEGAÇÕES JÁ APRECIADAS EM WRIT ANTERIOR. Ordem parcialmente conhecida e, na sua extensão, denegada.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, seja pelo excesso de prazo para a formação da culpa, seja em razão da ausência de fundamentação idônea do decreto prisional, ressaltando que nem a gravidade abstrata do delito nem as próprias elementares do tipo penal podem servir como motivo para a decretação da medida constritiva.
+Diante disso, requer, em liminar e no mérito, a concessão da liberdade ao paciente, com a expedição do respectivo alvará de soltura e aplicação de medidas cautelares alternativas.
+Indeferida a liminar (e-STJ fls. 324/326) e prestadas as informações (e-STJ fls. 332/333), o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 335/337).
+É o relatório. Decido.
+De plano, verifico que nesta Corte também houve a interposição do RHC n. 104.873/CE, em favor do ora paciente, requerendo igualmente a revogação da prisão preventiva, sob os argumentos de ausência dos requisitos autorizadores da medida constritiva cautelar e excesso de prazo para a formação da culpa.
+Assim, por se tratar de mera reiteração, o presente writ não pode prosseguir. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1o/9/2015, DJe 22/9/2015).
+Ante o exposto, nego seguimento ao presente mandamus.
+Publique-se. Intime-se.
