@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, interposto por [NOME], em 19/09/2011, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+Mandado de segurança. Pedido de fornecimento de medicamento. Falta de comprovação de carência financeira da impetrante. O fornecimento gratuito de medicamento pelo Estado deve ocorrer prioritariamente para pessoas que demonstrem carência de recursos financeiros. Em mandado de segurança, a falta de prova da impossibilidade material da impetrante para o custeio do tratamento prescrito inviabiliza o reconhecimento de direito líquido e certo à prestação requerida. Segurança denegada.
+Sustenta a recorrente, em suma, que a legislação não exige a comprovação do estado de pobreza para fazer jus ao direito à saúde, consagrado na Constituição Federal.
+Afirma que se encontra afastada do trabalho sem ter condições de exercer sua profissão, devido ao quadro psíquico causado pela doença conhecida por "distúrbio bipolar", devidamente comprovada por relatórios médicos juntados aos autos, circunstância que a levou "a residir como seus pais, objetivando a obtenção de apoio para seu tratamento, pois se trata de uma situação grave e dispendiosa" (fls. 100/104).
+O Ministério Público opinou pelo desprovimento do recurso.
+Intimada, na pessoa de seu advogado, para informar sobre eventual perda de objeto do recurso ou se ainda persistiria o interesse no prosseguimento do feito, a recorrente deixou transcorrer o prazo in albis sem nenhuma manifestação (e-STJ fl. 142).
+Diante disso, determinei a intimação pessoal da parte ora recorrente no endereço indicado na inicial, a fim de que, no prazo de 5 (cinco) dias, apresentasse as informações solicitadas, advertindo-a de que o não atendimento ensejaria a extinção do presente feito, por abandono da causa, na forma do art. 485, III, do CPC/2015.
+Transcorrido in albis o prazo sem o cumprimento da comando judicial, os autos foram a mim conclusos.
+Passo a decidir.
+Nos termos do art. 267, III, do Código de Processo Civil de 1973 (correspondente ao 485, III, do CPC/2015, o magistrado deve extinguir o processo, sem resolução de mérito, quando houver abandono da causa pelo autor, circunstância que se caracteriza pelo não cumprimento dos atos e diligência que lhe incumbir no prazo de 30 (trinta) dias.
+No caso, diante do longo tempo decorrido desde a impetração, determinei a intimação da recorrente para manifestar se ainda persistiria o interesse no prosseguimento desta demanda.
+Realizada a intimação da recorrente, por meio do advogado constituído, no Diário Oficial e, posteriormente, a sua intimação pessoal, o prazo transcorreu in albis sem que informasse se ainda persistiria o seu interesse no julgamento do presente recurso ordinário.
+Nessa quadra, decorrido prazo superior a 30 (trinta) dias, sem o cumprimento da ordem judicial, configura-se o abandono da causa e, consequentemente, a presunção da superveniente perda do interesse recursal, o que enseja a extinção do presente feito, com base no art. 485, III, do Código de Processo Civil de 2015.
+Registre-se que a anuência da parte adversa, nos termos do art. 486, §6º, do NCPC, mostra-se dispensável, em razão do rito processual especial que rege o mandado de segurança.
+Ante o exposto, julgo extinto o processo, sem julgamento de mérito, nos termos do art. 6º, § 5º, da Lei 12.016/2009 c/c o art. 267, III, do CPC/1973 (correspondente ao art. 485, III, do CPC/2015.
+Sem condenação em honorários advocatícios, na forma do art. 25 da Lei 12.016/2009.
+Publique-se. Intimem-se.
