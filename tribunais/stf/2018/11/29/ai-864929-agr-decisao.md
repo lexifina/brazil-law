@@ -1,0 +1,12 @@
+Despacho (ref. Petição 16.643/2017): Trata-se de agravo interposto por Maria do Carmo Ferreira, em face da decisão por mim proferida que negou provimento ao recurso extraordinário de João Pimenta da Costa, nos termos do art. 21, §1º, RISTF, e julgo prejudicado o recurso extraordinário do INSS, na forma do art. 21, XI, do RISTF (eDOC 3).
+    Em 13.3.2017, tendo em vista a ausência de prova da capacidade processual da parte agravante, bem como a inexistência de instrumento procuratório, determinei a intimação de Maria do Carmo Ferreira para, no prazo de 15 (quinze) dias, regularizar a sua capacidade e representação processual, sob pena de não conhecimento do recurso (eDOC 14).
+    Em 6.4.2017 vieram aos autos a Petição 16643/2017 (eDOC 17 e 18), pela qual a interessada informou ser sucessora de João Pimenta da Costa, conforme habilitação processual que teria ocorrido nos autos principais. Além disso, juntou instrumento de mandato conferindo poderes ao procurador que subscreveu a petição de agravo regimental, bem assim alguns documentos pessoais. Entretanto, não comprovou a alegada habilitação processual e juntou documentos ilegíveis.
+    Em 7.11.2017 determinei nova intimação de Maria do Carmo da Costa para que, no prazo de quinze dias, regularize a sua capacidade processual, apresentando documentos legíveis e comprovando a homologação de sua habilitação como sucessora de João Pimenta da Costa, sob pena de não conhecimento do agravo regimental.
+    Em 20.11.2017 vieram aos autos a Petição 69875/2017, informando, em síntese, que “a suplicante encontra-se habilitada a receber a pensão de seu finado marido, autor desta ação” (eDOC 23), acompanhada de cópias de documentos pessoais da interessada (RG e CPF), de Carta de Concessão/Memória de Cálculo do Benefício nº 138.565.368-7 em seu nome, de Extrato de Pagamentos relativos ao referido benefícios, bem como de procuração (eDOC 24 e 25).
+    Diante do exposto, reitero a determinação de intimação da parte, Maria do Carmo da Costa para que, no prazo de quinze dias, regularize a sua capacidade processual, apresentando documentos legíveis e comprovando a qualidade de cônjuge de João Pimenta da Costa, sob pena de não conhecimento do agravo regimental (eDOC 6), nos termos do art. 76, caput e § 2º, inciso I c/c art. 110, do Código de Processo Civil.
+    À Secretaria para as providências necessárias.
+    Publique-se.
+    Brasília, 29 de novembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
