@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+RESPONSABILIDADE CIVIL - Erro médico - Inocorrência - Cirurgia para o implante secundário de lente intraocular com o fito de corrigir catarata, no caso do paciente em causa, de origem congênita, e que o afligia desde a. infância - Prova pericial indicativa da realização de exames pré-operatórios sem constatação de elementos que contraindicassem o procedimento Doença inflamatória e hemorragia intraocular que podem surgir após qualquer trauma ocular, inclusive o cirúrgico" - Procedimentos médicos empregados, adequados, na cirurgia e no tratamento pós-operatório - Perda de visão que não sucedeu na cirurgia, mas em decorrência de processo inflamatório surgido na fase pós-operatória - Demora do paciente no procurar o médico, e quando o fez já se achava instalado grave quadro inflamatório e perda de percepção da luz Prova, ademais, de que, embora verbalmente, o médico informou o paciente sobre os riscos do procedimento, inclusive o de perda de visão - Sentença que julga improcedente a ação, mantida por seus fundamentos.
+Não foram opostos embargos de declaração.
+Nas razões do especial, aponta a parte agravante violação ao artigo 6, inciso III, do Código de Defesa do Consumidor, além de dissídio jurisprudencial.
+Sustenta que não houve informações adequadas e claras acerca do procedimento cirúrgico que culminou na perda da visão do recorrente.
+Alega que o médico é responsável pelo dever de informar.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, descaracterizou a responsabilidade do agravado e concluiu pela não caracterização do dano moral indenizável, assim se pronunciando:
+ ..
+"Se em casos anteriores pacientes confirmaram que o médico os alertara dos, riscos cirúrgicos, não é crível que, no caso do autor, fosse adotar postura totalmente oposta, fazendo leviana afirmação de que era nulo o risco para implantar lente intraocular em paciente que já apresentava problema de catarata congênita.
+"É certo que o médico requerido correu grande risco, desnecessário, ao não solicitar por escrito o consentimento informado. MaS, pelos referidos antecedentes, relatados pelas duas testemunhas mencionadas, não é crível que o réu possa ter afirmado que a cirurgia ,não acarretava riscos. Pelo contrário, é de se crer que, assim como fazia com os demais pacientes, explicou ao autor que a cirurgia acarretava riscos.
+"Em suma quanto à conduta do [NOME], entendo estar demonstrado que adotou a técnica médica recomendável , para a situação apresentada pelo autor, seja no procedimento cirúrgico, seja no pós- operatório. No pós-operatório, há indícios de que houve, na verdade, demora do autor para retornar ao médico para relatar que o quadro inflamatório estava se agravando ao invés de regredir, demora que teria sido o aspecto decisivo para o resultado desfavorável. A ocorrência de processo inflamatório na fase pós-operatório é circunstância inerente à Medicina, não se verificando por erro médico. Reputo provado, ainda, que o médico prestou ao autor prévias informações sobre os riscos inerentes à cirurgia.
+Como consequência, a conclusão é a de que a perda da visão decorreu dos riscos inerentes à Medicina, e não de erro médico, situação na qual não há obrigação de indenizar.
+O eminente Relator dá ênfase a que o médico não demonstrou ter obtido do paciente termo de esclarecimento consentido. A conduta é recomendada pelo Conselho Nacional de Medicina. A lei não o impõe, como lembra o digno Magistrado MAURO ANTONINI na r. sentença.
+O autor afirma não ter sido" esclarecido sobre o procedimento e os riscos dele decorrentes. O médico, doutor [NOME], diversamente, afirma que não apresentou a ele documento para ser assinado, mas que prestou todos os esclarecimentos necessários. O apelante realmente não trouxe prova a respeito. O médico, igualmente não. Certo é que no âmbito restrito do consultório médico, é realmente dificil para ambas as partes fazer prova direta e objetiva a respeito.
+ ..
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, caracterizar a responsabilidade do recorrido, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Por fim, impende registrar que os apelos interpostos com fundamento no artigo 105, III, alínea "c", da Constituição Federal, atraem, regularmente, a incidência da Súmula n. 7/STJ, quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA N. 211/STJ. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+(..) 4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 980.520/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2017, DJe 13/02/2017) (grifou-se)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
