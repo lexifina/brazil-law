@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA NA VIGÊNCIA DO NCPC. NECESSIDADE DE OBSERVAÇÃO DAS REGRAS DO ART. 85 DO CPC/2015. JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 158):
+PROCESSUAL CIVIL. APELAÇÃO. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA LEI EM VIGOR À ÉPOCA DO AJUIZAMENTO DA AÇÃO. APELAÇÃO DESPROVIDA.
+1. Embora inserto no CPC, o tema relativo aos honorários de sucumbência não envolve o tratamento de matéria processual, unicamente. Há, nesse particular, nítido colorido de direito material.
+2. De fato, o novo regramento, em alguns pontos, foi bem mais gravoso do que as previsões da legislação anterior. Basta notar, por exemplo, no artigo 85 do NCPC, os §§3º e 5º, relacionados às causas em que a fazenda pública for parte, ou for vencida, respectivamente. Igualmente, nos §§ 8º e 12.
+3. No que diz respeito aos honorários sucumbenciais, deve ser observada a lei em vigor ao tempo do ajuizamento da ação, que, no presente caso, era o CPC/73, em cujo art. 20, § 4º, estabelecia que, vencida a fazenda pública, a verba honorária deveria ser fixada de acordo com a apreciação equitativa do juiz.
+4. Apelação desprovida.
+Em suas razões, o recorrente sustenta ofensa ao art. 85, §§ 2º, 3º e 6º, do CPC/2015, ao fundamento de que " ..  o acórdão vergastado manteve a sentença que aplicou as normas previstas no CPC/73, já revogado, muito embora a sentença tenha sido proferida já na vigência do novo CPC (Lei nº 13.105/2015)" (fl. 173).
+Pugna pela reforma do acórdão recorrido e fixação de honorários de acordo com os parâmetros previstos no supracitado dispositivo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 189.
+É o relatório. Passo a decidir.
+A irresignação merece parcial provimento.
+De fato, compulsando-se os autos, constata-se que o entendimento assentado pelo Tribunal de origem destoa da jurisprudência consolidada nesta Corte Superior de Justiça no sentido de que as regras aplicáveis na fixação dos honorários de sucumbência são as previstas no diploma processual regente à época da prolação da sentença, e não do ajuizamento da ação. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. PROLAÇÃO DE SENTENÇA QUANDO EM VIGOR O CÓDIGO DE PROCESSO CIVIL DE 1973. INAPLICABILIDADE DA NOVEL LEGISLAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A sentença é o marco temporal para a delimitação do regime jurídico aplicável à fixação dos honorários advocatícios, revelando-se escorreito o seu arbitramento, com fundamento no Código de Processo Civil de 1973, anteriormente à 18.03.2016 (data da entrada em vigor da novel legislação), como ocorreu no caso concreto. (AgInt nos EDcl no REsp 1713784/SP, Primeira Turma, Rel. Ministra REGINA HELENA COSTA, DJe 20/09/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. GDPST. OFENSA AOS ARTS. 1022, II, 489, § 1º, DO CPC/2015. INOCORRÊNCIA. IRREDUTIBILIDADE NOMINAL DE PROVENTOS. VIOLAÇÃO AO ART. 41, § 3º, DA LEI Nº 8.112/90. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FALTA DE COTEJO ANALÍTICO E SIMILITUDE FÁTICO-JURÍDICA. OFENSA AO ART. 85, § 3º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA SOB A VIGÊNCIA DO CPC/1973. INAPLICABILIDADE DO REGIME JURÍDICO PREVISTO NO ART. 85 DO CPC/2015. PRECEDENTES. REVISÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. INVIABILIDADE. SÚMULA Nº 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A jurisprudência deste Tribunal Superior firmou-se no sentido de que a sentença é o marco temporal para delimitação do regime jurídico aplicável à fixação de honorários advocatícios. Assim, indiferente a data do ajuizamento da ação e a data do julgamento dos recursos correspondentes, a lei aplicável para a fixação da verba honorária é aquela vigente na data da sentença que a impõe (ou da primeira decisão que trata da verba honorária, caso seja acórdão). Precedentes. (AgInt no REsp 1656736/RS, Segunda Turma, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 18/09/2018)
+Incide, à hipótese, o teor da súmula 568/STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.").
+Ante o exposto, dou parcial provimento ao recurso especial para anular o acórdão recorrido e determinar o retorno dos autos ao Juízo de primeira instância para que sejam fixados os honorários advocatícios de acordo com os parâmetros previstos no art. 85 do CPC/2015, na forma da fundamentação supra.
+Publique-se. Intimem-se.
