@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, que negou provimento à apelação defensiva e proveu parcialmente a ministerial.
+Consta dos autos que o paciente foi condenado à pena de 16 anos e 4 meses de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, I e IV, do Código Penal.
+Ato seguinte, a defesa e o Ministério Público interpuseram recursos de apelação perante a Corte de origem, a qual negou provimento ao pleito defensivo e proveu parcialmente o ministerial para redimensionar a reprimenda do paciente a 18 anos e 4 meses de reclusão.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal ao argumento de que a pena-base teria sido exasperada com fundamentação inidônea. Destaca que não seria devido sopesar negativamente ao réu condenação por fato anterior com trânsito em julgado posterior. Afirma, ainda, que a conduta social teria sido valorada sem indicação de elementos concretos que justificassem.
+Requer a concessão da ordem constitucional para que seja excluída a valoração negativa dos antecedentes e da conduta social, com redução da pena-base.
+Indeferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela concessão parcial da ordem de ofício.
+É o relatório.
+DECIDO.
+No que toca ao pleito de redução da sanção inicial, pela inidoneidade dos fundamentos utilizados para valorar negativamente os antecedentes e a conduta social, tem-se que o sentenciante fixou a reprimenda, nos seguintes termos (fls. 15):
+Atento ao artigo 68 do Código Penal, passo à individualização das penas.
+Na primeira fase de fixação da pena, analiso as circunstâncias judiciais elencadas no art. 59 do Código Penal.
+Verifico que a culpabilidade, nesta fase funcionando como juízo de reprovabilidade da conduta, não vai além do tipo penal.
+O acusado possui maus antecedentes, constando dos autos uma condenação por fato anterior transitada em julgado posteriormente à presente conduta delitiva.
+Quanto à conduta social e a personalidade do réu, inexistem elementos probatórios aptos a permitir a valoração dessas circunstâncias. Trata-se de circunstâncias que demandam arcabouço técnico e análise impassível de conclusão pelo que se colheu no processo. Prestigia-se aqui o direito penal do fato, e não o do autor.
+O motivo atribuído ao réu é torpe, conforme reconhecido pelos jurados ao reconhecerem a qualificadora subjetiva, e utilizo-as para qualificar o crime e fixar a pena-base.
+As circunstâncias do crime pesam desfavoravelmente ao acusado, conforme reconhecido pelos jurados ao consignarem o recurso que dificultou a defesa do ofendido, mas, por emergir agravante genérica, deixo para valorá-la no momento oportuno.
+As consequências do crime são próprias do tipo penal. Não consta dos autos que a morte da vítima tenha gerado efeito mais grave que a dor e sofrimento de seus familiares e amigos, que já decorrem do resultado da conduta típica.
+No que toca ao comportamento da vítima, apesar dos entreveros evidenciados, não vislumbro conduta contundente desta que seja apta à mensuração de tal circunstância.
+Assim, analisadas as circunstâncias judiciais, fixo a pena-base em 14 (catorze) anos de reclusão.
+A Corte de origem, ao prover parcialmente o recurso ministerial, entendeu que (fls. 24-25):
+No tocante à dosimetria, passo à análise conjunta dos recursos.
+Na primeira fase da dosimetria, verifica-se que o Juiz-Presidente valorou negativamente uma circunstância judicial, qual seja, os maus antecedentes. Quanto ao motivo, justificou que constitui qualificadora subjetiva reconhecida pelos jurados; e que as circunstâncias do crime seriam valoradas negativamente na segunda fase, por se tratar de agravante genérica (art. 61, II, c, CP).
+Sendo assim, o inconformismo do réu apelante em relação à pena base fixada em 14 (quatorze) anos, isto é, 2 anos acima da pena mínima; não merece prosperar.
+Ora o Código Penal não estabelece quanto se deve aumentar a pena em face das circunstâncias judiciais do art. 59, ficando a critério do juiz.
+Vê-se que o critério adotado pelo i. Sentenciante é amplamente aceito pela jurisprudência e melhor doutrina, qual seja, o aumento de 1/8 para cada circunstância negativa, tendo por referência a subtração da pena em abstrato máxima e mínima, o que, no caso dos autos (homicídio qualificado), representa o acréscimo de 2 anos para cada circunstância judicial negativa.
+Por sua vez, o Parquet pugna pela reforma da dosimetria da pena, para reconhecer como circunstâncias judiciais desfavoráveis ao acusado a culpabilidade, conduta social, a personalidade do agente, e as consequências e circunstâncias do crime.
+A culpabilidade acima da comum ao crime, defendida pelo Parquet com fundamento na execução da vítima em razão do tráfico de drogas, com uso de arma de fogo de uso restrito, bem como por ter sido efetuado disparo na cabeça, se confunde com a circunstância agravante do art. 61, II, c, CP e com a conduta social do réu. Assim, para não incorrer em bis in idem, nada a reparar.
+Com base na vida desvirtuada do réu, a valoração negativa referente à conduta social, merece prosperar. Os autos revelaram o comportamento do réu no seu ambiente familiar e social. A vida dedicada ao tráfico de drogas e o temor da população em testemunhar em seu desfavor, significam que é pessoa violenta e afeita a crimes.
+A alegação do Parquet com relação à personalidade do agente, entretanto, esbarra na Súmula 444 do STJ. Os demais elementos trazidos representam bis in idem, à vista da conduta social acima valorada negativamente.
+As circunstâncias do crime apontam que o crime foi praticado mediante recurso que dificultou a defesa da vítima. Entretanto, tal circunstância está prevista no art. 61, II, c, do CP, e foi valorada negativamente na segunda fase da dosimetria. Assim, mantém-se a sentença neste ponto, sob pena de bis in idem.
+As conseqüências do crime também não devem prosperar, uma vez que a dor da perda do ente pela família decorre do resultado da conduta típica.
+Ademais, há informações de que a vítima era usuária de entorpecentes, estava desempregada e envolvida em crime de roubo, o que afasta a alegação do MP de que era arrimo de família.
+Assim, mantenho o incremento no patamar de 2 (dois) anos em decorrência dos maus antecedentes, e aumento mais 2 (dois) anos em face da conduta social considerada desfavorável, redimensionando a pena base para 16 (dezesseis) anos de reclusão.
+Na segunda fase, a pena intermediária foi agravada corretamente em 2 (dois) anos e 4 (quatro) meses. Com o acréscimo da pena base acima, redimensiono a pena para 18 (dezoito) anos e 4 (quatro) meses, em decorrência da circunstância que tornou impossível a defesa do ofendido (art. 61, II, c, CP).
+Por fim, na terceira fase da dosimetria, não existem causas de diminuição e de aumento da pena, razão pela qual fixo a pena em definitivo em 18 (dezoito) anos e 4 (quatro) meses de reclusão.
+Considerando as condições pessoais do réu e o quantum da pena imposta, adequado o regime inicial de cumprimento fechado.
+Nota-se que o Tribunal de origem exasperou a pena-base para 16 anos de reclusão, em razão dos antecedentes e da conduta social.
+Com relação aos antecedentes, o sentenciante destacou que O acusado possui maus antecedentes, constando dos autos uma condenação por fato anterior transitada em julgado posteriormente à presente conduta delitiva. O impetrante alega violação à Súmula 444/STJ tendo em vista o aumento da pena-base com esteio em condenação transitada em julgado posteriormente ao cometimento do ilícito em análise, contudo, não lhe assiste razão.
+Isso porque, esta Corte superior entende que é devida a utilização de condenação transitada em julgado entre o cometimento do fato e a sentença, desde que seja por ilícito praticado anteriormente ao delito em questão. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO COM SINAL DE IDENTIFICAÇÃO SUPRIMIDO E CORRUPÇÃO ATIVA. DOSIMETRIA. PENA-BASE. ALEGAÇÃO DE INADEQUADA VALORAÇÃO DA CONDUTA SOCIAL, CULPABILIDADE, CIRCUNSTÂNCIAS DO CRIME E DOS ANTECEDENTES CRIMINAIS. PENA MAJORADA SEM O CÔMPUTO NEGATIVO DAS TRÊS PRIMEIRAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. MAUS ANTECEDENTES. CONFIGURAÇÃO. CONDENAÇÃO POR CRIME ANTERIOR, COM TRÂNSITO EM JULGADO POSTERIOR À PRÁTICA DELITIVA EM APURAÇÃO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Inexiste qualquer flagrante ilegalidade quando, muito embora se alegue que a pena-base foi majorada em razão de indevida valoração negativa de determinadas vetoriais, verifica-se que tal majoração foi afastada em sede recursal pelo Tribunal de origem.
+III - A condenação por crime anterior, com trânsito em julgado posterior à prática delitiva em apuração, justifica a valoração negativa da circunstância judicial dos antecedentes, lastreando a exasperação da pena-base (precedentes).
+Habeas corpus não conhecido.
+(HC 382.312/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/03/2017, DJe 21/03/2017)
+HABEAS CORPUS. WRIT SUBSTITUTIVO. FURTO QUALIFICADO. PENA-BASE ACIMA DO MÍNIMO. MAUS ANTECEDENTES. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. ILEGALIDADE. INEXISTÊNCIA. REGIME SEMIABERTO. HABEAS CORPUS NÃO CONHECIDO.
+1. A proibição de reforma para pior garante ao recorrente o direito de não ver sua situação agravada, direta ou indiretamente, mas não obsta, por sua vez, que o tribunal, para dizer o direito - exercendo, portanto, sua soberana função de jurisdictio - encontre fundamentos e motivação própria, respeitada, à evidência, a imputação deduzida pelo órgão de acusação e o limite da pena imposta no juízo de origem, o que ocorreu na espécie.
+2. Esta Corte tem entendimento reiterado de que a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado.
+3. A jurisprudência desta Corte reconhece que, diante de circunstâncias judiciais desfavoráveis, é cabível a fixação do regime intermediário para o início do cumprimento da pena inferior a quatro anos, mesmo diante da primariedade do réu.
+4. Ordem não conhecida.
+(HC 349.015/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/04/2016, DJe 02/05/2016)
+Por fim, no que toca à conduta social, tem-se que o Sodalício de origem entendeu que Os autos revelaram o comportamento do réu no seu ambiente familiar e social. A vida dedicada ao tráfico de drogas e o temor da população em testemunhar em seu desfavor, significam que é pessoa violenta e afeita a crimes. De fato, o temor da população em testemunhar em desfavor do réu é fundamento idôneo a justificar o incremento da pena-base pela desvaloração da conduta social, uma vez que demonstra a maneira como o agente é visto na sociedade. Nesse norte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE ACIMA DO PISO LEGAL. CULPABILIDADE, CONDUTA SOCIAL E CIRCUNSTÂNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA DECLINADA. COMPORTAMENTO DA VÍTIMA. CARÊNCIA DE FUNDAMENTAÇÃO. CONFISSÃO ESPONTÂNEA QUALIFICADA. SÚMULA 545/STJ. INCIDÊNCIA DA ATENUANTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. A conduta social corresponde ao comportamento do agente no seu ambiente familiar e em sociedade, de modo que a sua valoração negativa exige concreta comprovação de desvio de natureza comportamental. In casu, o réu não seria benquisto no meio social em que vive, além de causar medo nos demais membros da comunidade, o que teria sido demonstrado especialmente durante a sessão de julgamento do júri, quando as testemunhas teriam deixado claro o temor e a intimidação por ele causados. Tais fundamentos, ao contrário do alegado pelos impetrantes, constituem motivação idônea para o incremento da reprimenda pela conduta social.
+ ..
+9. Writ não conhecido. Habeas corpus concedido, de ofício, para determinar que o Juízo da Execução proceda à nova dosimetria da pena, devendo ser afastada a valoração negativa do vetor "comportamento da vítima", bem como ser reconhecida a incidência da atenuante da confissão espontânea.
+(HC 449.745/MA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2018, DJe 15/08/2018)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
