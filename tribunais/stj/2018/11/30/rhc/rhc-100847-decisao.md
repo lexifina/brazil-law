@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por SERGIO RAIMUNDO COUTINHO FRANCO contra acórdão do Tribunal Regional Federal da 3ª Região proferido no julgamento do HC n. 0004356-23.2017.4.03.0000.
+Extrai-se dos autos que o recorrente foi preso preventivamente em 3/6/2016 pela suposta prática do delito previsto no art. 35, caput, da Lei 11.343/2006 (associação para o tráfico de entorpecentes).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS. OPERAÇÃO AREPA. ASSOCIAÇÃO PARA O TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. MANUTENÇÃO. ORDEM DENEGADA.
+1. Prisão temporária convertida em prisão preventiva, no bojo da denominada Operação Arepa.
+2. Não é viável, na via estreita do habeas corpus, analisar circunstâncias atinentes à dosimetria da pena, com o fito de prever a pena a ser eventualmente aplicada, como pretende a impetração.
+3. Ademais, como sabido, as hipóteses de cabimento da prisão preventiva não se confundem e não guardam relação direta com o regime de cumprimento de pena a ser imposto em eventual condenação.
+4. Garantia da ordem pública e da aplicação da lei penal. Constrangimento ilegal não verificado.
+5. Ordem denegada (fl. 284).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as condições pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Aduz excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdurava, até o momento da interposição do recurso, por mais de dois anos sem que a instrução tivesse sido encerrada.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, com expedição de alvará de soltura.
+Liminar indeferida no recesso forense pelo Excelentíssimo Senhor Ministro HUMBERTO MARTINS, então Vice-Presidente do Superior Tribunal de Justiça, no exercício da Presidência (fls. 352/355). O Ministério Público Federal opinou pelo não conhecimento do recurso ordinário (fls. 359/362).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, em consulta ao andamento processual na página eletrônica do Tribunal de origem, constata-se que, em 6/11/2018, na Ação Penal n. 0005901-23.2015.4.03.6104, de que aqui se cuida, sobreveio a prolação de sentença, que ora faço juntar, por meio da qual o recorrente foi condenado à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.050 dias-multa, no montante de 1/6 do salário mínimo vigente à época do fato.
+Foi-lhe, ainda, negado o direito de recorrer em liberdade e a segregação antecipada restou mantida com base em novos fundamentos além daqueles utilizados para sua decretação, assim consignados:
+Em relação ao condenado SÉRGIO RAIMUNDO, muito embora a associação para o tráfico transnacional de drogas não esteja enumerada dentre os delitos hediondos ex vi legis, entendo que, por ora, é incabível a concessão do benefício da liberdade para recorrer. Desde o início das investigações (no princípio de 2015) até a data atual, SERGIO não trouxe qualquer indicação de exercício de emprego e/ou atividade lícita de forma independente de sua família, em especial de seu cunhado e líder da ORCRIM, [NOME] LINCOLN. Consta até mesmo que chegou a residir na casa do cunhado [NOME]. SERGIO RAIMUNDO, portanto, não revelou independência e/ou autonomia próprias em relação à ORCRIM, de onde se tem que, uma vez solto, recairá novamente em condutas/comportamentos habituais e conhecidos, v. g., a retomada de negócios criminosos a partir do momento em que (em tese) estes minguaram e/ou estancaram, além da ocultação, dilapidação e/ou dissimulação de valores obtidos através do crime. Cuida-se, ainda, de corréu que remanesceu preso durante todo o trâmite processual, e persistem os motivos que ensejaram a medida extrema.
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do recorrente, fica superada a alegação trazida no writ - e no recurso ordinário - que ataca os fundamentos na decretação da prisão preventiva.
+Ademais, cumpre anotar que, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+A propósito:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGA. ALEGAÇÃO DE INIDONEIDADE DA SEGREGAÇÃO CAUTELAR. SOBREVEIO SENTENÇA CONDENATÓRIA. SEGREGAÇÃO CAUTELAR MANTIDA POR NOVOS FUNDAMENTOS. NOVO TÍTULO. PLEITO PREJUDICADO. REGIME INICIAL SEMIABERTO. NEGADO O DIREITO DE RECORRER EM LIBERDADE. COMPATIBILIDADE ENTRE A PRISÃO CAUTELAR E O REGIME MENOS GRAVOSO. NECESSIDADE DE ADEQUAÇÃO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - In casu, a tese de ausência de fundamentação da prisão cautelar encontra-se prejudicada, porquanto a segregação cautelar restou mantida em sentença penal condenatória por novos fundamentos. Consoante entendimento desta col. Quinta Turma, a contrario sensu: "A superveniência de sentença condenatória não possui o condão de prejudicar a análise do habeas corpus em que se discute a fundamentação da prisão preventiva, desde que não acrescentados novos fundamentos ao decreto prisional primitivo" (HC n. 353.894/RJ).
+IV - Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+V - Estabelecido o regime semiaberto para o início do cumprimento da pena, deve o paciente aguardar o julgamento de sua apelação em tal regime, compatibilizando-se a prisão cautelar com o modo de execução ora determinado.
+Habeas corpus não conhecido. Ordem concedida de ofício para determinar a compatibilização da segregação cautelar com o regime inicial fixado, até o julgamento do recurso de apelação, salvo se por outro motivo não estiver preso (HC 411.402/SC, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 17/10/2017).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECEPTAÇÃO. NULIDADE DAS DECISÕES DE AUTORIZAÇÃO DAS INTERCEPTAÇÕES TELEFÔNICAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO JUDICIAL. JUÍZO DE COGNIÇÃO MAIS AMPLO. WRIT PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Com a superveniência da prolação de sentença condenatória, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático processual.
+2. A decisão agravada, que julgou prejudicado o habeas corpus, por perda de objeto, não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+3. Agravo Regimental improvido (AgRg no HC 389.001/MG, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 04/12/2017).
+Dessa forma, inegável a perda superveniente do objeto do recurso.
+Ante o exposto, com base no art. 34, XVII, "a", do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
