@@ -1,0 +1,38 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. CONCURSO DE PESSOAS. ANULAÇÃO DA SENTENÇA. PROVA EMPRESTADA. TRATAMENTO IGUALITÁRIO À CORRÉ. DETRAÇÃO. FIXAÇÃO DO REGIME ABERTO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim resumido (fls. 547-557):
+"Consta do v. acórdão reprochado que a recorrente foi condenada às penas de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, no regime inicial semiaberto, além do pagamento de 14 (quatorze) dias-multa, como incursa no art. 157, §2º, inciso II, c/c o art. 29, caput, do Código Penal.
+O apelo ministerial visava a fixação do regime inicial fechado, sem aplicação do instituto da detração, enquanto que recurso defensivo pretendia a absolvição, a nulidade do feito quanto a utilização de prova emprestada, subsidiariamente, pleiteava a fixação da pena-base no mínimo legal e o abrandamento do regime carcerário.
+O Tribunal de origem destaca a comprovação da autoria e da materialidade do crime, bem como relata que restou comprovada a causa de aumento pelo concurso de agentes.
+Verificou-se que aos autos vieram cópias de depoimentos e interrogatórios dos autos principais, uma vez que não foram localizadas as testemunhas de acusação e de defesa. Afirma que a jurisprudência do Superior Tribunal de Justiça permite o uso da prova emprestada quando não se tratar de único elemento de prova nos autos.
+Quanto à dosimetria, observou que o sentenciante fixou a pena-base acima do mínimo legal, tendo em vista a conduta imoral da recorrente, a qual se valeu de duas versões para se isentar da condenação. Informou que não há irregularidade quanto aos critérios utilizados para fixar as penas da irmã da insurgente, pois fundados em razões individuais. Apontou a presença da causa de aumento pelo concurso de agentes. Considerou o período em que a ré esteve presa preventivamente para a fixação do regime semiaberto. Negou-se, por unanimidade, provimento aos recursos."
+Opostos embargos de declaração, estes foram rejeitados (fls. 572-578).
+Nas razões do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a Defesa sustenta violação dos seguintes artigos:
+a) 5º, incisos LIV e LV, da Constituição Federal e 564 do Código de Processo Penal, busca a anulação da sentença condenatória, visto que se baseou na prova emprestada;
+b) 5º, caput, inciso XLVI, da Constituição Federal e 580 do Código de Processo Penal, 59, 33, § 2º, alínea b, do Código Penal, ao argumento de que se deve "dar a Recorrente tratamento igualitário ao que foi dado a sua irmã [NOME] fixando o regime inicial semiaberto e reduzindo a pena base ao patamar mínimo legal nos termos do artigo 580 do Código de Processo Penal para sua pena em cinco anos e quatro meses de reclusão em regime inicial semiaberto". (fl. 589). Aponta as Súmulas 440/STJ, 718/STF e 719/STF.
+c) 387, § 2º, do Código de Processo Penal, para que seja operada a detração pra fixar o regime aberto para o cumprimento da reprimenda.
+Apresentadas as contrarrazões (fls. 595-611), sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas 7/STJ e 284/STF (fls. 614-615).
+Nas razões do agravo (fls.617-619), postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 1.112-1.115).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmulas 07/STJ.
+Ao que se tem, o agravo apontou o prequestionamento da matéria por meio de embargos de declaração e que foram indicados os dispositivos legais tidos por violados, contudo, deixou de atacar especificamente o fundamento da decisão de admissibilidade do recurso especial, quanto à incidência do óbice da Súmula 7 do STJ.
+No caso, deveria a agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Ressalto que não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. Ainda que assim não fosse, no caso, verifica-se que o acórdão impugnado encontra-se em consonância com o entendimento desta Corte Superior de Justiça firmado no sentido de que o reconhecimento da reincidência do réu é elemento suficiente para impedir a aplicação do redutor, por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas.
+3. Agravo regimental não provido" (AgRg no AREsp n. 1.323.247/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/09/2018, grifei).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido." (AgInt no AREsp 1140814/SP, Quinta Turma, de minha relatoria, DJe 16/02/2018).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. 1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos." (AgRg no AREsp 1074077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 19/12/2017).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+P. e I.
