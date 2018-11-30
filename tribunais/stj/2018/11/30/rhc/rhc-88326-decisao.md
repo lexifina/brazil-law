@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] requer a juntada do documento relativo ao relatório pericial da C.S.I do Ministério Público do Estado do Rio de Janeiro e o provimento do recurso nos termos em que foi deduzido.
+Decido.
+O recurso não foi conhecido porquanto deficiente a sua instrução.
+Não obstante a juntada da cópia do relatório pericial produzido pela Coordenadoria de Segurança e Inteligência - Divisão de Evidências Digitais e Tecnologia - do Ministério Público do Estado do Rio de Janeiro às fls. 177-179), mantenho a decisão de fls. 169-170.
+Primeiro porque a cópia colacionada às fls. 169-170 do referido documento, a princípio, estaria incompleta.
+Segundo porque o documento, de acordo com a cópia juntada, apenas revela que o Ministério Público, por meio da Coordenadoria de Segurança e Inteligência - Divisão de Evidências Digitais e Tecnologia - analisou o conteúdo de áudio e vídeo e identificação de um DVD, marca Multilaser sem inscrições - Serial n. DR5FA1-00452, nomeado de "Bonde na Tatajuba", com tempo total de arquivo de 34 segundos, no qual as imagens apontam a chegada de um grupo de homens armados em meio à população, pelas ruas da comunidade, onde circulam diversas pessoas e motos, com movimentação de pedestres e comércio diversificado (fls. 177-193). Pelo teor do documento anexado, não se percebe nenhuma vinculação dos fatos ao paciente ou a outro indiciado.
+Terceiro porque a defesa - não obstante haver alegado, na origem, que o referido relatório foi apresentado após o relatório final do inquérito e recebido pelo Magistrado a quo como prova pericial, além de haver sido anexado à denúncia como a principal prova que indica a participação do paciente no delito narrado na exordial - não trouxe, também, a cópia da denúncia, da decisão que recebeu a exordial acusatória e da que recebeu o relatório como laudo pericial. Ademais, pela leitura do inteiro teor da decisão de pronúncia (fls. 106-108), é de fácil percepção que o relatório pericial n. 507 elaborado pelo Ministério Público (fls. 177-193) não foi sequer mencionado no decisum que encerrou o iudicium accusationis.
+Portanto, a ausência dos documentos acima mencionados não permite a exata compreensão da tese suscitada pela defesa.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, indefiro o pedido de fls. 176, a fim de manter a decisão de não conhecimento do recurso em habeas corpus.
+Nada impede, porém, à vista dos princípios da celeridade e da economia processuais que, caso a parte traga os documentos faltantes, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
