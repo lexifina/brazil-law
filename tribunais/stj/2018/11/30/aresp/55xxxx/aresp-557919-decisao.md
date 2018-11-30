@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo desafiando decisão que inadmitiu recurso especial, o qual foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação - Seguro Habitacional - Indenização - Prescrição - Inocorrência - Contrato realizado de trato sucessivo - Prescrição que se interrompe com o pagamento de cada parcela do financiamento, que engloba o prêmio do seguro - Afastamento - Vícios construtivos no imóvel - Risco previsto na apólice - Admissibilidade da indenização securitária pretendida - Prova técnica que revelou os defeitos da edificação - Multa decendial que pertence ao mutuário - Juros de mora - Fluência a contar da citação - Efeito processual decorrente do ato judicial de comunicação - Recurso provido.
+No recurso especial, a recorrente alega negativa de vigência aos arts. 206, § 6º, 618 e 760 do Código Civil de 2002, 1.458 e 1.460 do Código Civil de 1916, e 267, VI, e 920 do CPC de 1973.
+Não tendo sido admitido o recurso na origem, por incidência da Súmula 284/STF, foi interposto o presente agravo.
+É o relatório. Passo a decidir.
+De início, em relação à dita ofensa aos arts. 206, § 6º, 618 e 760 do Código Civil de 2002, 1.458 e 1.460 do Código Civil de 1916, e 267, VI, e 920 do CPC de 1973, ressalte-se que a parte recorrente limitou-se a alegar sua violação de maneira genérica.
+Contudo, na interposição de recurso especial, com fundamento na alínea a do permissivo constitucional, não basta a simples menção da norma federal tida por violada, sendo necessária a demonstração clara e precisa da ofensa em que teria incorrido o v. aresto hostilizado, sob pena de incidência do enunciado 284 da Súmula do eg. STF.
+Além disso, a própria deficiência na fundamentação do recurso especial ensejou a não impugnação dos fundamentos do acórdão recorrido, relativamente ao afastamento da prescrição e da ilegitimidade ativa e passiva ad causam, bem como ao reconhecimento da cobertura securitária para os vícios construtivos e da incidência de multa decendial.
+Nesse contexto, a ausência de impugnação de tema essencial e autônomo do v. acórdão recorrido, inviabiliza o conhecimento do mérito recursal, ante o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
