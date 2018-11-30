@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por SHINERAY DO BRASIL S/A, em face de acórdão assim ementado (fls. 134/135):
+Apelação. Ação de indenização por danos materiais e morais. Autora que alega aquisição de motocicleta zero Km que apresentou diversos problemas, advindo daí o dano material e moral.
+Sentença julgou parcialmente procedente o pedido, condenando a ré em R$ 10.000,00 em danos morais e a devolução do valor pago pela motocicleta.
+Apelação do réu requerendo o reconhecimento da ilegitimidade passiva ou a improcedência do pedido.
+Solidariedade entre concessionária e fabricante.
+Entendimento do STJ. Assim o fabricante é legitimado para responder pelo vício do produto.
+Da análise das provas coligidas, verifico que a autora logrou comprovar o ato, o dano e o nexo de causalidade entre este e a conduta dos fornecedores de serviço.
+Ao adquirir um veículo novo o consumidor esperava usufruir do bem com tranquilidade e segurança, algo natural entre os consumidores que optam por pagar mais caro, mas com a certeza de usar um bem isento de vícios que poderiam ser encontrados em um veículo seminovo. Provou a autora que o veículo novo foi diversas vezes para a concessionária para reparos.
+O que se vislumbra é que ninguém pretende adquirir um veículo novo para reiteradas vezes ter que levá-lo à concessionária para fazer reparos, e sendo a responsabilidade solidária entre fabricante e concessionária este responde pelos danos ao consumidor.
+O fato das constantes e reiteradas vezes em que o veículo foi à concessionária, demonstram que a autora perdeu a confiança no veículo, fato este que por certo acarreta mais do que mero aborrecimento, devendo responder pelos danos morais fixados em R$ 10.000,00, valor este que respeita os princípios da proporcionalidade e da razoabilidade. Aplicação da Súmula nº 343 deste Tribunal.
+Correta a determinação do valor pago, à vista do desinteresse do consumidor em manter o mesmo, frente à sucessão de vícios.
+Recurso que se conhece e que se nega provimento.
+Nas razões do especial, a ora agravante alega violação do art. 944 do Código Civil, bem como dissídio jurisprudencial, arguindo que o valor dos danos morais (R$ 10.000,00 - dez mil reais), mostra-se "totalmente desproporcional à demanda, devendo ser reformado para atingir patamar compatível com a natureza do dano" (fl. 150).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem fixou o valor de R$ 10.000,00 (dez mil reais), para os danos morais, com base nos fatos e provas dos autos e a revisão do julgado neste sentido fica obstada pela incidência do enunciado 7 da Súmula do STJ, eis que dependente de reexame de matéria fática da lide.
+É certo que o Superior Tribunal de Justiça considera, excepcionalmente, cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros). Observo, todavia, que a quantia arbitrada pelo Tribunal estadual mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não se mostrando desproporcional à lesão, de modo a ensejar sua alteração em grau de recurso especial.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e, nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
