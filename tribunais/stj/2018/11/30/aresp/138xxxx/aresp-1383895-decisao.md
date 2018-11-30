@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME] e outros, em 04/03/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO - Delegados de Polícia, Investigadores de Polícia, Carcereiros de Polícia, Escrivães de Polícia e Agente de Polícia - Pretensão à recomposição de cálculos referentes à conversão de vencimentos em Unidade Real de Valor - URV, determinada pela Lei nº 8.880/04 - Prescrição do fundo de direito - Inocorrência - Prescrição quinquenal - Caracterização - Súmula nº 85 do C. STJ - Incidência Promulgação de Leis Complementares Estaduais que reestruturaram as carreiras - Ocorrência - RECURSO DESPROVIDO" (fl. 195e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 22 da Lei 8.880/94, 1º e 3º do Decreto 20.910/32, sustentando, em suma, o seguinte:
+"7. Assim, não tendo sido reestruturadas as carreiras dos recorrentes de modo a corrigir os equívocos da conversão dos vencimentos para a URV, a prescrição não é a do fundo de direito, a partir das Leis Complementares 830/97 e 1.063/08, mas apenas e tão somente a parcelar, retroativa aos cinco anos anteriores ao ajuizamento da ação.
+8. Observam os recorrentes que no decorrer desses mais de vinte anos foram editadas inúmeras leis pelo Estado de São Paulo, porque qualquer reajuste, criação de cargos, reclassificação de cargos e demais normas relativas aos servidores e seus cargos devem ser disciplinadas por leis. Nenhuma delas, todavia, promoveu a reestruturação de que falam os acórdãos do Superior Tribunal de Justiça e do Supremo Tribunal Federal de modo a recuperar as perdas provocadas nos vencimentos dos servidores estaduais pela incorreta conversão para a URV" (fl. 212e).
+Por fim, requer o provimento do apelo para reformar o acórdão recorrido.
+Contrarrazões a fls. 218/230e.
+Negado seguimento ao Recurso Especial (fl. 231/232e), foi interposto o presente Agravo (fls. 235/240e).
+Contraminuta a fls. 243/249e.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrente, com o objetivo de obter a condenação da Fazenda Estadual a efetuar a "incorporação das diferenças decorrentes da irregular conversão de seus vencimentos do Cruzeiro Real em URV, bem como a pagar as diferenças atrasadas, respeitada a prescrição qüinqüenal, acrescidas de juros, custas e honorários advocatícios" (fl. 8e).
+Julgada improcedente a demanda, recorreu a autora, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Quanto ao cerne da questão, observa-se que a questão foi decidida pela Corte de origem mediante análise de legislação local, qual sejam, as Leis Complementares Estaduais 830/97 e 1.063/2008. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL N. 4.994/95. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no AREsp 1.170.491/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
