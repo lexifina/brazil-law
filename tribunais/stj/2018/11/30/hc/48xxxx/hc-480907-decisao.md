@@ -1,0 +1,30 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE APRECIAÇÃO DO WRIT. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado do Paraná proferido na Apelação Criminal n.º 1536494-6.
+Consta dos autos que a Paciente foi condenada pela prática da conduta descrita no art. 33, caput, da Lei n.º 11.343/2006, às penas de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e 550 (quinhentos e cinquenta) dias-multa, pois, com finalidade comercial, "tinha em depósito 08 (oito) pedras de substância popularmente conhecida como crack, envoltas em papel alumínio, pesando aproximadamente 02 (dois) gramas" (fl. 11-50).
+Inconformada, a Defesa interpôs apelação no Tribunal de origem, que negou provimento ao recurso, nos termos da seguinte ementa: (fls. 53-54; sem grifos no original):
+"APELAÇÃO CRIME - TRÁFICO DE ENTORPECENTES - "CRACK" - CONDENAÇÃO PELO ART. 33, "CAPUT" DA LEI Nº 11.343/2006 - APELANTE 1 - PEDIDO DE DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/2006 (USO PRÓPRIO) - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DO CRIME TRÁFICO COMPRAVADA - CONFISSÃO DA TRAFICÂNCIA ALIADA AS DEMAIS PROVAS CONSTANTES NOS AUTOS - INEXIGIBILIDADE DE COMPORTAMENTO DIVERSO - INOCORRÊNCIA - OUTRAS POSSIBILIDADES CABÍVEIS QUE NÃO A TRAFICÂNCIA - TRÁFICO CONFIGURADO - APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI 11.343/2006 - INCABÍVEL - PRÁTICA DE ATIVIDADES CRIMINOSAS QUE IMPOSSIBILITA A CONCESSÃO DO BENEFÍCIO - APELANTE 2 - APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI 11.343/2006 - INCABÍVEL - PRÁTICA DE ATIVIDADES CRIMINOSAS QUE IMPOSSIBILITA A CONCESSÃO DO BENEFÍCIO.
+I - Inconteste a demonstração da materialidade do delito imputado, bem como o fato de ter sido praticado pela ré, de modo que restou impossível a desclassificação do crime para o delito previsto no art. 28 da Lei nº 11.343/2006.
+II - "No caso, era exigível outra conduta da ré, na medida em que diante da situação narrada, outras formas de solução eram cabíveis que não o tráfico ilícito de entorpecentes. As circunstâncias fáticas apuradas não podem ser consideradas como anormais a ponto de tolerarem a conduta delituosa perpetrada."
+III - Em que pese a apelante não apresentar anotações criminais anteriores, é evidente que já se dedicava à atividade criminosa. O Superior Tribunal de Justiça, inclusive já entendeu que independe de anotações de condenações transitadas em julgado para a caracterização de prática de atividade criminosa.
+RECURSOS NÃO PROVIDOS."
+Nas razões deste habeas corpus, sustentam os Impetrantes, em síntese, que a Paciente faz jus ao regime semiaberto em razão do quantum da pena e das circunstâncias judiciais favoráveis.
+Alegam, ainda, a insuficiência da fundamentação que embasou a fixação do regime mais gravoso, pois lastreada na gravidade abstrata do crime.
+Por fim, destacam que a Paciente é primária e possui bons antecedentes.
+Requerem, em liminar e no mérito, a fixação do regime inicial semiaberto.
+É o relatório inicial.
+Decido.
+Da acurada leitura dos autos, observa-se que a matéria não foi tratada no acórdão prolatado pela Corte de origem, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. LESÃO CORPORAL PRATICADA NO ÂMBITO DOMÉSTICO. TESE DE INDEVIDO RECONHECIMENTO DA REINCIDÊNCIA. PEDIDO DE MODIFICAÇÃO DO REGIME PRISIONAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de erro na fixação do regime prisional por incorreta consideração da reincidência não foi submetida ao Tribunal estadual, de modo que não pode ser conhecida diretamente por este Superior Tribunal, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental não provido." (AgRg no HC 466.976/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/10/2018, DJe 24/10/2018; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. ENVOLVIMENTO DE MENOR. REGIME PRISIONAL FECHADO. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. RECURSO EM LIBERDADE INDEFERIDO. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DO AGENTE. NATUREZA, QUANTIDADE E VARIEDADE DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIAS DO CRIME. RISCO AO MEIO SOCIAL. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A questão atinente ao regime prisional fixado não foi submetida ou apreciada pelo Tribunal de origem, o que obsta a sua análise por esta Corte Superior, sob pena de se incorrer em indesejável supressão de instância.
+ ..
+5. Tendo o paciente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau. Habeas corpus não conhecido." (HC 449.276/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 02/08/2018, DJe 14/08/2018; sem grifos no original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
