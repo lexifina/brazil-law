@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMIM COMÉRCIO DE IMÓVEIS SC LTDA., em face de decisão que não admitiu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Execução de título executivo extrajudicial. Prêmio de seguro saúde. Admissibilidade. Art. 27 do Decreto-Lei nº 73/66 e do art. 784, inciso XII, do CPC. Exigibilidade das parcelas independentemente da ocorrência dos sinistros previstos na apólice (art. 764 do Código Civil). Negativa de cobertura não demonstrada. Embargos improcedentes. Recurso improvido. (fl. 172)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 784, V, do CPC/2015, aduzindo que o titulo executivo que amparou a execução seria inexigível diante da falta de relatório de utilização do seguro saúde, o qual não se confunde com o seguro de vida previsto no art. 781, V, do CPC/2015. Aduz, que teria comprovado o descumprimento obrigacional por parte da agravada.
+É o relatório. DECIDO.
+2. Acerca da controvérsia, dispôs o acórdão recorrido:
+No caso em tela, a inicial da execução foi instruída com o plano de saúde coletivo empresarial (fls. 38/62), a proposta de adesão assinada por representante do embargante (fl. 63), o demonstrativo de faturamento (fls. 64/65) e a relação de segurados ativos (fls. 66/71).
+Desnecessária na espécie a juntada do "relatório de utilização", como apontado pelo executado.
+Trata-se de cobrança de prêmio de seguro, principal prestação devida pelo segurado, exigível independentemente da ocorrência dos sinistros previstos na apólice (art. 764 do Código Civil).
+De outro lado, a contraprestação da seguradora consiste na cobertura dos riscos na forma contratada, a qual se dá já com a disponibilização dos serviços, pouco importando, se foram utilizados pelo beneficiário, que deles se vale de acordo com sua necessidade.
+Não colhe a alegada exceção de contrato não cumprido, haja vista que não comprovado o inadimplemento da exequente, com a demonstração de negativa de cobertura eventualmente solicitada, a tanto não se prestando os documentos de fls. 76/86. (fl. 173-174)
+Nesse contexto, a análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas como pretende o recorrente, a fim de afastar a exigibilidade do título executivo, demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. De outro modo, no que tange à apontada ofensa ao tema inserto no 784, V, do CPC/2015, não vislumbro a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação.
+Ressalto que para a análise da admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano de que forma se deu a suposta vulneração do dispositivo legal pela decisão recorrida, o que não ocorreu na hipótese, sendo certo que, no caso em exame, caracterizou-se deficiência de fundamentação, sendo de rigor a incidência da Súmula 284 do STF. "E inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
