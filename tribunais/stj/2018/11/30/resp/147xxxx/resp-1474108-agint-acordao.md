@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. FALTA DE COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Nos termos dos arts. 541, parágrafo único, do CPC/1973 e 255, § 2º, do RISTJ, devem ser expostas as circunstâncias que identificam ou assemelham os casos confrontados, com a realização do devido cotejo analítico.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por CONSTRUTORA MESTRA LTDA contra decisão de fls. 246/250 que negou provimento ao recurso especial, com fundamento: (a) na incidência da Súmula 284/STF; e (b) na ausência de comprovação da divergência jurisprudencial.
+Alega a agravante, em síntese: (a) que, embora não tenha havido menção expressa aos dispositivos legais objeto de divergência, foi discriminada a matéria divergente, qual seja o termo inicial da contagem dos juros em ação monitória, conforme previsto no art. 405 do CC/2002, que foi implicitamente analisado pela Corte de origem; e (b) que a parte agravante transcreveu a ementa dos acórdãos e explanou a divergência jurisprudencial.
+Apresentadas contrarrazões às fls. 269/279.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Com relação à incidência da Súmula 284/STF em razão da ausência de indicação do dispositivo legal objeto de divergência jurisprudencial, verifica-se que a parte agravante não indicou nenhum dispositivo legal supostamente contrariado pelo acórdão recorrido ou objeto de interpretação divergente pelos tribunais, o que atrai a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal e é suficiente para obstar a análise por parte desta Corte Superior.
+Nesse sentido é o entendimento jurisprudencial do STJ:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Em relação à alínea "a", a alegação genérica, sem a particularização dos dispositivos legais eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ, atraindo a incidência, ao caso, da Súmula 284/STF.
+2. Quanto à alínea "c", a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF.
+3. Agravo regimental a que se nega provimento, com aplicação de multa." (AgRg no AREsp 675.968/DF, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/4/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INCLUSÃO INDEVIDA EM CADASTRO DE INADIMPLENTE. DISSÍDIO JURISPRUDENCIAL. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. VALOR RAZOÁVEL DA INDENIZAÇÃO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. A ausência de indicação de dispositivo de lei federal no recurso especial fundamentado na alínea "c" no permissivo constitucional atrai a incidência do enunciado da S mula 284/STF.
+2. Em sede de recurso especial a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido."
+(AgRg no REsp 1.372.675/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/10/2013, DJe de 14/10/2013)
+De igual modo, no tocante à suposta comprovação da divergência, a irresignação da parte agravante não merece prosperar.
+Para a caracterização da divergência jurisprudencial, não basta a simples transcrição das ementas dos acórdãos confrontados, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos os requisitos previstos nos art. 541, parágrafo único, do CPC/73 e no art. 255, § 2º, do RISTJ.
+A propósito, confiram-se os seguintes julgados:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. VÍCIOS NO VEÍCULO. FALTA DE PREQUESTIONAMENTO. CLÁUSULA DE RENÚNCIA. INTERPRETAÇÃO DO CONTRATO E ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem, a partir da interpretação do contrato firmado pelas partes e do exame dos demais elementos de prova, afastou a alegação de abusividade da cláusula de renúncia inserida no ajuste. Dessa forma, inviável alterar tais conclusões em recurso especial, ante o óbice das referidas súmulas.
+4. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelo art. 541, parágrafo único, do CPC/1973.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 1.308.277/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2018, DJe de 28/09/2018, g.n.)
+"AGRAVO INTERNO EM FACE DE DECISÃO DA PRESIDÊNCIA. PROCESSUAL. CIVIL. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CPC/1973. FERIADO LOCAL E SUSPENSÃO DE EXPEDIENTE FORENSE. COMPROVAÇÃO EM SEDE DE AGRAVO REGIMENTAL. POSSIBILIDADE. DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. NECESSIDADE.
+1. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+2. No entanto, na vigência do CPC/1973, a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição poderia ocorrer posteriormente, em sede de agravo regimental. (EAREsp 1010230/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 20/06/2018, DJe 29/06/2018)
+3. Como observado na decisão de admissibilidade do recurso especial, proferida na origem, o apelo nobre está fundamento na alínea "c" do permissivo constitucional, e, de fato, a recorrente não comprovou o dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, notadamente por não ter efetuado o necessário cotejo analítico das teses supostamente divergentes, tampouco indicado o repositório oficial ou juntado cópia do inteiro teor dos julgados paradigmas.
+4. Agravo interno provido, para negar provimento ao agravo em recurso especial." (AgInt no AREsp 1.079.629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/09/2018, DJe de 11/09/2018)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
