@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AUXÍLIO-DOENÇA. CONVERSÃO EM APOSENTADORIA POR INVALIDEZ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 139):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. AUXÍLIO -DOENÇA. CONVERSÃO EM APOSENTADORIA POR INVALIDEZ. TRABALHADOR(A) RURAL. ATIVIDADE RURAL COMPROVADA POR PROVA TESTEMUNHAL BASEADA EM INÍCIO DE PROVA MATERIAL. CARÊNCIA E INCAPACIDADE. REQUISITOS PREENCHIDOS. TERMO INICIAL. JUROS DE MORA. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. ANTECIPAÇÃO DE TUTELA. POSSIBILIDADE: REQUISITOS PREENCHIDOS.
+(..)
+7. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (§ 3º do art. 109 da CF/88), o INSS está isento das custas somente quando lei estadual específica prevê a isenção, o que ocorre nos estados de Minas Gerais, Goiás, Rondônia e Mato Grosso. Em se tratando de causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do art. 4º, inc. I, da Lei 9.289/96, abrangendo, inclusive, as despesas com oficial de justiça.
+8. Apelação parcialmente provida.
+Embargos de declaração rejeitados.
+No apelo especial, a parte recorrente alega ofensa ao artigo 1.022, do CPC/2015. Defende, em síntese, que "No entender do INSS, o acórdão da apelação foi omisso, pois não se manifestou sobre o fato de que a competência para processar e julgar as causas relativas a acidentes de trabalho inclusive quanto à concessão/restabelecimento/revisão de benefícios da espécie - está afeta, em primeiro e segundo graus da jurisdição, à Justiça Comum Estadual, nos termos do disposto no artigo 109, inciso I, da Constituição de 1988. Além disso, foi obscuro, por ter julgado o mérito de um recurso cuja competência é do Tribunal de Justiça Estadual, quando, na verdade, deveria ter declinado da competência ou suscitado conflito" (fls. 166).
+Juízo positivo de admissibilidade - fls. 223.
+É o relatório. Passo a decidir.
+Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o acórdão firmou o seguinte entendimento acerca da insurgência da parte recorrente (fls. 108/140):
+Nos termos do art. 109, §3º, da Constituição Federal de 1988, é prerrogativa do segurado da Previdência Social optar entre o juízo estadual do município onde tem domicílio, caso este não seja sede de Vara Federal; o Juízo Federal que exerça jurisdição sobre seu município; ou, ainda, optar pelas Varas Federais da Capital do respectivo estado (Precedente: AG 1999.01.00.068364-9/MG, DJ 29.7.2004, Relator Juiz Federal Convocado [NOME]).
+Essa delegação de competência federal, no entanto, não é extensiva ao Juízo de Direito dos Juizados Especiais Estaduais, motivo pelo qual o Juízo de Direito de Vara do Juizado Especial da Fazenda Pública não é competente para processar e julgar feito que verse sobre questões previdenciárias afetas ao Instituto Nacional do Seguro Social.
+Entretanto, não há que se falar em qualquer irregularidade na hipótese em que, ainda que o feito tenha sido processado e julgado perante a Justiça Estadual, não tenha sido submetido ao rito próprio dos Juizados Especiais, nos termos em que disposto na Lei 9.099/95.
+Por outro lado, o princípio da identidade física do juiz, consagrado no art. 132 do CPC, não se reveste de caráter absoluto, de forma que, estando o juiz natural afastado por qualquer motivo, os autos passarão ao seu sucessor legal sem que isso importe em qualquer irregularidade. Precedentes do STJ e desta Corte. (AC 0002302-55.2006.4.01.3806/MG, Rel. Juiz Federal Cleberson José Rocha (convocado), Segunda Turma, em 05/06/2013).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
