@@ -1,0 +1,10 @@
+DECISÃO
+HAMILTON BRUNNO PENIDO BRANDÃO, impetra este habeas corpus, em causa própria, sob a alegação de estar sofrendo coação ilegal diante do excesso de prazo para o julgamento de mérito do HC n. 438.312/MG, concluso ao meu gabinete, após a manifestação do Ministério Público Federal, no dia 22/6/2018, assim como para a homologação de pedido de desistência protocolado no Tribunal de origem no recurso em sentido estrito interposto pela defesa do réu.
+Pugna, em síntese, pela concessão de sua liberdade com a imposição das medidas cautelares já impostas anteriormente, ou pelo julgamento de mérito do HC n. 438.312/MG, autuado em 27/2/2018. Requer, ainda, seja oficiado o TJMG sobre a demora em aceitar seu pedido de desistência no recurso em sentido estrito, a fim de que ele possa ir logo a julgamento perante o Tribunal do Júri.
+Decido.
+O impetrante aponta excesso de prazo para julgamento de feito protocolado neste Superior Tribunal de Justiça, matéria que refoge a competência desta Corte. De qualquer sorte, aproveito para informar ao paciente que o julgamento do HC n. 438.312/MG deverá ocorrer nas próximas sessões antes do recesso forense.
+Quanto à alegação de excesso de prazo para a homologação do pedido de desistência protocolado no recurso em sentido estrito interposto no Tribunal de origem, o impetrante/paciente não demonstrou a veracidade de suas informações para que ficasse caracterizada a desídia da Corte de origem.
+A ação constitucional de natureza mandamental tem como escopo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, pois não comporta dilação probatória. É obrigatórioa ao impetrante apresentar documentos suficientes para que esta Corte possa aferir a conjecturada existência de constrangimento ilegal no ato atacado na impetração, o que não ocorreu in casu.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Por não estar o réu assistido por advogado, intime-se a Defensoria Pública acerca do inteiro teor deste decisum.
+Publique-se e intimem-se.
