@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial aviado pelo BANCO CENTRAL DO BRASIL - BACEN, o qual foi apresentado com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região.
+A controvérsia foi bem delineada no parecer ministerial às e-STJ fls. 1.968/1.969:
+Trata-se de agravo interposto pelo Banco Central do Brasil contra decisão que, na origem, inadmitiu o recurso especial em que a entidade autárquica impugna acórdão do Tribunal Regional Federal da 1ª Região, que, em sede de embargos infringentes, absolveu os ora recorridos do crime definido no art. 4o, caput, c/c art. 25, ambos da Lei nº 7.492/86 (gestão fraudulenta de instituição financeira), pelo qual haviam sido condenados, por maioria, no julgamento de apelação criminal interposta pelo MPF.
+2. O recurso especial, em que é apontada violação ao art. 4o, caput, da Lei nº 7.492/86 e requerida a condenação dos recorridos pela crime acima mencionado, foi inadmitido com base na Súmula 07/STJ.
+3. O agravante impugna especificamente a fundamentação da decisão agravada e procura demonstrar a desnecessidade do reexame de provas na análise do recurso especial, o que é suficiente para afastar a incidência da Súmula 182/STJ e possibilitar o conhecimento do agravo. (Grifei.)
+A irresignação ministerial está prejudicada.
+Com efeito, mesmo que se desse provimento ao recurso do recorrente para restabelecer a condenação pelo delito do art. 4º, caput, c/c o art. 25, ambos da Lei n. 7.492/1986, decretada no julgamento do recurso de apelação, considerando a pena fixada, a pretensão punitiva estaria prescrita.
+De fato, tendo em vista que as penas impostas aos réus não excedem a 4 anos (e-STJ fls. 1.425/1.426), a pretensão punitiva prescreve em 8 anos, conforme prevê o art. 109, inciso IV, do Código Penal, e tal prazo foi ultrapassado entre o dia da prolação do acórdão (19/1/2010, conforme e-STJ fl. 1.427) e a presente data.
+No mesmo sentido: REsp n. 1578264, relator Ministro JOEL ILAN PACIORNIK, data da publicação 27/10/2017; REsp n. 1653789, relator Ministro SEBASTIÃO REIS JÚNIOR, data da publicação 20/10/2017; REsp n. 1424048, de minha relatoria, data da publicação 18/10/2017; REsp n. 1435557, relator Ministro RIBEIRO DANTAS, data da publicação 2/10/2017.
+Ante o exposto, julgo prejudicado o recurso especial
+Publique-se. Intimem-se.
