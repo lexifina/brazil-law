@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. INSTRUÇÃO DEFICIENTE. INDÍCIOS DE AUTORIA. ALEGAÇÃO DE FRAGILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA SUMÁRIA DO WRIT.
+Indeferimento liminar da petição inicial.
+DECISÃO
+Contra o acórdão do Tribunal de Justiça do Rio Grande do Sul que denegou a ordem no HC n. [CPF] (ou 0333214-69.2018.8.21.7000), preservando a custódia cautelar de [NOME], decretada no Processo n. 001/2.18.0032431-4, da 11ª Vara Criminal do Foro Central da comarca de Porto alegre, impetra-se o presente habeas corpus.
+Sustenta a impetrante que o Paciente está preso há seis meses devido à prova ilícita (qual seja, o reconhecimento), bem como a depoimento contraditório e confuso da única vítima que aponta [NOME] como autor do único fato de roubo em que foi relacionado (fl. 4).
+Aduz que o reconhecimento foi realizado por fotografia e depois pessoalmente, de maneira ilegal, porquanto, num primeiro momento, a Autoridade Policial separou fotos de quem considerava suspeitos e deu para a vítima reconhecer (o que por ser seletivo é indutivo) e posteriormente, trouxe de novo só aqueles previamente selecionados por ela para o reconhecimento pessoal, depois da vítima já estar completamente contaminada por esta manipulação no ato de reconhecer (fl. 5).
+Assevera que, na instrução judicial, novamente a vítima foi instada a apontar os acusados de forma induzida, uma vez que somente os dois réus encontravam-se na sala utilizada para tal fim.
+Alega que  ..  esta é a única prova de autoria do fato, sendo que não houve prisão em flagrante, não existem registros de filmagens de câmeras de segurança, telefonemas ou mensagens entre os acusados ou qualquer indício além do ato de reconhecimento para imputar a autoria ao Paciente (fl. 6).
+Expõe que a vítima apresentou versão contraditória na fase judicial: Em declarações no inquérito informou que lhe abordaram dois indivíduos brancos (fl. 61), já em juízo diz que eram dois, mas um "alemãozinho mais baixo" e outro "moreno" (fl. 7).
+Requer, em liminar, a expedição de alvará de soltura em favor do paciente. No mérito, pleiteia a concessão de ordem para garantir a liberdade do acusado e o reconhecer a nulidade da prova ilegalmente produzida; alternativamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+De início, observo que os autos não estão suficientemente instruídos. No julgamento do HC n. [CPF], a Oitava Câmara Criminal refere-se ao que decidido, em 28/6/2018, no HC n. [CPF]. A nulidade aqui arguida foi analisada por ocasião do primeiro julgamento. Contudo, a íntegra desse acórdão não consta dos autos.
+Ressalte-se que o decisum ora combatido não conheceu do tema ora em discussão neste feito. Veja-se (fl. 58 - grifo nosso):
+ ..  não conheço do presente habeas corpus, no ponto em que busca a revogação da custódia preventiva, por ausência de fundamentação da decisão impugnada e dos requisitos da preventiva, bem como em razão das condições subjetivas do paciente e a possibilidade de aplicação de medidas alternativas à prisão, além da ausência de indícios suficientes de autoria e da ilegalidade no reconhecimento realizado em sede policial, porquanto não houve qualquer modificação na sua situação.
+ De qualquer maneira, vale lembrar que, segundo a jurisprudência desta Corte Superior, as disposições constantes do art. 226 do Código de Processo Penal configuram recomendação legal, e não uma exigência, não se configurando nulidade quando o ato processual é praticado de modo diverso.
+Relativamente à alegada contradição apresentada pela vítima, a Corte estadual, com base no que narrado pela impetrante na petição inicial, não enxergou incongruência nos depoimentos, definindo-os como coerentes.
+Ocorre que a matéria, além de demandar revolvimento fático-probatório, vedado da via estreita do writ, depende de análise mais aprofundada, que será realizada pelo Juízo da causa por ocasião da prolação de sentença, cuja cognição é exauriente.
+Tal o contexto, indefiro liminarmente o pedido de habeas corpus.
+Publique-se.
