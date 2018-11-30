@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMERCIAL DESTRO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE INEXIGIBILDIADE DE TÍTULO DE CRÉDITO C/C INDENIZAÇÃO E EXECUÇÃO DE TÍTULO EXECUTIVO EXTRJUDICIAL - DUPLICATAS - HIGIDEZ AFASTADA - INEXIGIBILIDADE DOS TÍTULOS DIANTE DO PAGAMENTO EVIDENCIADO PELO CARIMBO DE PAGO NAS NOTAS FISCAIS QUE ENSEJERAM SUA EMISSÃO - PAGAMENTO OCORRIDO PELO RECEBIMENTO DE CHEQUES DE TERCEIRO EM CARÁTER "PRO SOLUTO" - PECULIARIDADES DO CASO - INEXIGIBILIDADE DO TÍTULO QUE LEVA À NULIDADE DA EXECUÇÃO - PLEITO FORMULADO NESTES AUTOS PREJUDICADO - DANO MORAL - "QUANTUM" DEVIDAMENTE FIXADO - SENTENÇA MANTIDA - RECURSO DE APELAÇÃO CÍVEL Nº 1418645-3 CONHECIDO E DESPROVIDO - RECURSO DE APELAÇÃO CÍVEL Nº 1418673-7 CONHECIDO E PREJUDICADO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 62 da Lei nº 7.357/85, 360 a 367 e 944 do Código Civil.
+Alega que "para se descaracterizar o caráter pro solvendo do título de crédito necessário se faz a efetiva prova do interesse em novar o crédito, o que não houve no caso em tela" (fl. 553). Aduz que a novação não pode ser presumida. Insurge, ainda, contra o valor da indenização por danos morais, pleiteando sua redução.
+Contrarrazões ao recurso especial às fls. 606-608.
+É o relatório. Decido.
+2. O tema inserto nos arts. 62 da Lei nº 7.357/85, 360 a 367 do Código Civil, tidos por violados, não foi objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente no Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. No que tange à violação ao art. 944 do Código Civil, o inconformismo não prospera.
+É pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, como no presente caso, cumpre ressaltar que não é cabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes: REsp 686050/RJ, 1ª Turma, MIn. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+Com efeito, no presente caso, em que fixada a indenização no valor de R$ 7.500,00 (sete mil e quinhentos reais), não se vislumbra nenhuma excepcionalidade que seria capaz de ensejar redução do valor arbitrado a título de reparação por danos morais pelo STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROTESTO INDEVIDO. COMPROVAÇÃO. DANO MORAL. SÚMULA Nº 7/STJ. VALOR. RAZOABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+3. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por esta Corte quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 10.000,00 (dez mil reais).
+4. Agravo interno não provido.
+(AgInt no AREsp 1248956/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+________________
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE VÍCIO. PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. ENTENDIMENTO COINCIDENTE COM A JURISPRUDÊNCIA DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7 DO STJ. DANO MORAL. VALOR ARBITRADO NA ORIGEM. RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte admite o afastamento da Súmula n. 7/STJ, para permitir a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1031909/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/11/2017, DJe 14/11/2017) (Indenização por dano moral: R$ 10.000,00 (dez mil reais))
+________________
+4. Por sua vez, em relação ao dissídio jurisprudencial suscitado, ressalta-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+4.1 Acresce especificamente em relação aos julgados paradigmas do Tribunal de Justiça do Paraná que incide também o enunciado da Súmula 13/STJ: "A divergência entre julgado do mesmo Tribunal não enseja recurso especial".
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
