@@ -1,0 +1,52 @@
+DECISÃO
+1. Trata-se de agravo interposto por UNIMED DE ITAPETININGA COOPERATIVA DE TRABALHO MÉDICO, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 538):
+Apelação. Responsabilidade civil contratual. Erro médico. Paciente que enfrentou complicações médicas que resultaram em perda do rim. Prova pericial que concluiu que a ausência de exame anatomopatológico impediu a avaliação adequada dos atendimentos dispensados à autora. Perícia inconclusiva. Ausência de provas de que o defeito no serviço inexistiu (art. 14, §3º, CDC). Responsabilidade objetiva do hospital caracterizada. Responsabilidade subjetiva do médico réu configurada. Médico que detém maior facilidade para a produção da prova da regularidade de sua conduta (CPC/15, art. 373, II). Teoria da carga dinâmica do ônus probatório. Dever de indenizar reconhecido, ante o defeito do serviço. Danos morais configurados. Lesão a direito da personalidade caracterizado. Valor arbitrado em R$ 50.000,00. Recurso provido em parte.
+Opostos embargos de declaração pelos corréus (fls. 582-592 e 600-612), foram rejeitados (fls. 595-598 e 614-617).
+Nas razões do recurso especial (fls. 552-574), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 3º e 90, da Lei nº 5.764/71, art. 14, § 3º, II, do Código de Defesa do Consumidor, arts. 4º e 938, § 3º, do Código de Processo Civil.
+Em apertada síntese, sustenta a ilegitimidade passiva da recorrente para a presente demanda, uma vez que não possui qualquer responsabilidade sobre os atos dos médicos cooperadas.
+Argumenta que restou incontroversa a culpa exclusiva de terceiro (médico), o que exime a recorrente de qualquer responsabilidade.
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda, à luz dos elementos fático-probatórios constantes dos autos, a Corte de origem assentou acerca da responsabilidade civil da recorrente:
+ ..
+De acordo com o representante do hospital apelado, [NOME], o exame anatomopatológico foi realizado e ele não sabe dizer o porquê de o documento não ter sido juntado aos autos. Eles requereram uma segunda via, mas não sabe se não foi mandado ou se foi extraviado. Embora tenha mencionado que se encontrava com o referido documento em mãos, o exame não foi juntado aos autos (DVD, fs. 478).
+O apelado [NOME], em depoimento, confirmou que, após dar alta à apelante, percebeu em radiografia que havia ficado um dreno em seu interior (DVD, fs. 479).
+Note-se que, em contestação, o apelado também afirmar que obteve da enfermagem a informação de que o dreno havia saído e que a apelante poderia receber alta (fs. 249). Em razão da não retirada do dreno, a apelante foi submetida a nova cirurgia de lombotomia, para sua retirada e avaliação da fistula e do cálculo renal (fs. 249).
+Em depoimento, a testemunha [NOME] afirmou que a cirurgia do apelado [NOME] não obteve sucesso, na medida em que o cálculo se deslocou do ureter para o rim e ele deu o procedimento por encerrado. A retirada do rim se deu em razão da cirurgia realizada pelo apelado [NOME] e das lesões e infecções que dela resultaram (DVD, fs. 480).
+A testemunha sustentou que, embora seja difícil afirmar que houve erro no procedimento médico, é sabido que a realização da técnica cirúrgica aberta pode causar complicações, como hérnia, infecções, fistula, etc.
+Assim sendo, seja pelas provas pericial ou oral, o conjunto probatório não afastou a possibilidade de ter ocorrido o erro médico indicado em inicial.
+A responsabilidade do hospital pelos serviços prestados deve ser analisada sob o ponto de vista das relações jurídicas estabelecidas com o perfil do serviço prestado:
+ ..
+A exclusão da obrigação indenizatória a esse título só se verifica nas hipóteses previstas no § 3º do art. 14 do Código de Defesa do Consumidor, que devem ser comprovadas pelo fornecedor, no caso, o hospital apelado.
+Significa dizer que é dele o ônus de provar que o serviço prestado não foi defeituoso. E a afirmação resulta do próprio art. 14, §1º, do CDC, e não da inversão. Isso porque o hospital apelado detém maior facilidade para a produção da prova, nos termos da teoria da carga dinâmica do ônus probatório.
+ ..
+No que tange à responsabilidade civil do médico, corréu na demanda, tratando-se de profissional liberal, este só responde pelos danos causados a seus pacientes no exercício de sua atividade se agirem com culpa, como resulta do art. 14, § 4º, do CDC.
+ ..
+No caso, segundo o perito, dois meses antes da retirada do rim, ele funcionava regularmente e não é possível afirmar que a conduta do médico apelado foi adequada ou que não tenha influenciado a perda do órgão.
+Era ônus do médico apelado provar a regularidade de sua atuação porque é inequívoco que ele detém maior facilidade para a produção da prova, nos termos da teoria da carga dinâmica do ônus probatório.
+Por intermédio dessa teoria, afastado o estabelecimento prévio e abstrato dos ônus probatórios do art. 373 do CPC/15, importa considerar o caso concreto, a natureza do fato controvertido a provar e qual dos litigantes, nas reais circunstâncias, acha-se em melhor condição de fazê-lo (cf. Antonio Janyr Dall"Agnol Júnior, Distribuição Dinâmica dos Ônus Probatórios, RT 788/92-107).
+Assim, considerando que apresentou fato impeditivo do direito da apelante, cumpria a ele demonstrar a regularidade de sua conduta, o que não ocorreu.
+Ora, se a apelante tinha um simples cálculo no ureter, que evoluiu para a perda de um órgão, cabia aos apelados demonstrarem que não houve defeito no serviço prestado.
+Pois, se o atendimento foi inadequado, como indica o conjunto probatório dos autos, há defeito autorizador do reconhecimento da obrigação indenizatória em virtude da violação da boa-fé objetiva e abalos à confiança, lealdade e credibilidade do prestador de serviços.
+Assim, é de rigor o reconhecimento da responsabilidade dos apelados, que devem indenizar a apelante pelos danos decorrentes do defeito na prestação do serviço médico.
+Não é possível ignorar a angústia e o abalo psicológico que acometeram a apelante após as diversas complicações que decorreram da cirurgia realizada pelo hospital apelado.
+Além das secreções, a apelante precisou ser internada em UTI e foi submetida a cirurgias que resultaram na retirada de seu rim esquerdo. É certo que se trata de uma sequela física irreparável, que a acompanhará para toda a vida, e que lhe traz sofrimento e preocupação.
+No julgamento dos embargos de declaração, o Tribunal local ainda ressaltou (fl. 616):
+A jurisprudência do STJ é tranquila em reconhecer a legitimidade passiva da cooperativa médica em demanda que se discute responsabilidade civil por suposto erro médico, pois a cooperativa tem por objeto a assistência médica e celebra contrato com seus associados, regulamentando a prestação de seus serviços de maneira padronizada, por meio dos médicos e hospitais a ela filiados.
+A Unimed que determina as condições do atendimento e cobertura, dando ao associado um rol de profissionais habilitados a prestar os serviços de saúde. A escolha do associado não é totalmente livre. Por conseguinte, a cooperativa também é fornecedora do serviço prestado por seu cooperado.
+A convicção a que chegou o acórdão acerca da responsabilidade civil da recorrente por erro médico no presente caso decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. Ademais, a jurisprudência desta Corte é pacífica no sentido de que a operadora de plano de saúde ostenta legitimidade passiva ad causam em demanda cujo objeto é a responsabilização civil por suposto erro médico de profissional por ela referenciado, porquanto a cooperativa tem por objeto a assistência médica e celebra contrato com seus associados, regulamentando a prestação de seus serviços de maneira padronizada, por meio dos médicos e hospitais a ela filiados.
+Nesse sentido, confira:
+PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ERRO MÉDICO DE PROFISSIONAL REFERENCIADO. LEGITIMIDADE PASSIVA DA OPERADORA DE PLANO DE SAÚDE. PRECEDENTES.
+1. A operadora de plano de saúde ostenta legitimidade passiva ad causam em demanda cujo objeto é a responsabilização civil por suposto erro médico de profissional por ela referenciado, porquanto a cooperativa tem por objeto a assistência médica e celebra contrato com seus associados, regulamentando a prestação de seus serviços de maneira padronizada, por meio dos médicos e hospitais a ela filiados. Precedentes.
+2. No caso, a caracterização da agravante como uma seguradora de saúde - e não como uma cooperativa de saúde - é questão que, para sua aferição, comportaria o revolvimento de matéria fático-probatória, mormente tendo o Tribunal de origem asseverado que, qualquer que seja a sua natureza, a recorrente oferece médicos credenciados ou referenciados, e que o médico que realizou o procedimento cirúrgico foi por ela indicado, tendo inclusive assinado o faturamento e todos os requerimentos de exames em papel timbrado da seguradora. Incidência da Súmula 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1319848/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/06/2014, DJe 11/06/2014)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. LEGITIMIDADE PASSIVA DE COOPERATIVA DE TRABALHOS MÉDICOS. PRECEDENTES. AGRAVO IMPROVIDO COM APLICAÇÃO DE MULTA.
+1. A jurisprudência da Casa é tranqüila em reconhecer a legitimidade passiva da cooperativa médica em demanda que se discute responsabilidade civil por suposto erro médico, pois a cooperativa tem por objeto a assistência médica e celebra contrato com seus associados, regulamentando a prestação de seus serviços de maneira padronizada, por meio dos médicos e hospitais a ela filiados.
+2. Improvido o regimental, com aplicação de multa de 1%.
+(AgRg no REsp 1029043/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/05/2009, DJe 08/06/2009)
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
