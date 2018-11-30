@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. ENRIQUECIMENTO SEM CAUSA. CRÉDITO DECORRENTE DE ADIANTAMENTO DE CONTRATO DE CÂMBIO. NÃO SUBMISSÃO AO PLANO DE RECUPERAÇÃO JUDICIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. 3. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE AGRO PECUÁRIA PANTANAL S.A.
+DECISÃO
+Trata-se de agravo interposto por Agro Pecuária Pantanal S.A. contra decisão que não admitiu o processamento do recurso especial, por sua vez apresentado com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 439):
+COBRANÇA - CONTRATO DE CÂMBIO - CRÉDITO NÃO SUBMETIDO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL - LEI Nº 11.101/2005, ART. 49, § 4º - AUTONOMIA DA OBRIGAÇÃO DO GARANTE - SÚMULA Nº 581, STJ - PRESCRIÇÃO AFASTADA POR ACÓRDÃO TRANSITADO EM JULGADO - REJEIÇÃO DAS PRELIMINARES - RECURSOS IMPROVIDOS
+Os dois embargos de declaração opostos por Agro Pecuária Pantanal S.A. e por Cerâmica Chiarelli S.A. foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 508-517), a recorrente apontou a existência de violação aos arts. 86, 329, 489, § 1º, IV, do Código de Processo Civil de 2015; e 884 do Código Civil.
+Defendeu, em síntese, a ocorrência de negativa de prestação jurisdicional fundada em deficiência na fundamentação do acórdão recorrido.
+Ademais, aduziu que o Tribunal de origem, ao permitir o prosseguimento da respectiva ação de cobrança de crédito já constante do plano de recuperação judicial, admitindo a sua exigibilidade em duplicidade, ensejou o enriquecimento sem causa do credor Itaú Unibanco S.A.
+Contrarrazões acostadas às fls. 564-581 (e-STJ).
+Não admitido o processamento do apelo nobre na origem, a parte insurgente interpõe o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 634-642).
+Brevemente relatado, decido.
+Relativamente à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo - notadamente quanto ao suposto enriquecimento sem causa do autor, ora recorrido -, não havendo que se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+No mérito, o Tribunal a quo asseverou que o crédito perseguido pelo banco na demanda não se sujeita aos efeitos da recuperação judicial, porquanto oriundo de adiantamento de contrato de câmbio, nos termos do art. 49, § 4º, da Lei n. 11.101/2005.
+No entanto, tal fundamento não foi impugnado nas razões do recurso especial, o que atrai a incidência do óbice da Súmula 283/STF.
+Ainda que assim não fosse, enfatiza-se que o entendimento consignado no aresto hostilizado encontra-se em sintonia com a jurisprudência desta Corte, no sentido de que "o art. 49, § 4º, da Lei 11.101/2005, estabelece que o crédito advindo de adiantamento de contrato de câmbio não está sujeito aos efeitos da recuperação judicial, ou seja, tem preferência sobre os demais, não sendo novado, nem sofrendo rateio" (RCD no CC 156.717/PR, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 26/9/2018, DJe 5/10/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial interposto por Agro Pecuária Pantanal S.A.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 2% (dois por cento) sobre o valor da condenação a serem custeados pela ora recorrente.
+Publique-se.
