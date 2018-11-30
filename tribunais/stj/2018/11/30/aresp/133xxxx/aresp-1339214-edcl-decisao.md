@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por INDÚSTRIA GRÁFICA BRASILEIRA LTDA à decisão de fls. 307/308, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Desta feita, se depreende que a decisão ora embargada foi omissa quanto a análise dos autos originários para a aferição da regularidade processual dos patronos que subscrevem o Recurso Especial, pelo que, com a devida vênia, acarretou flagrante error in procedendo e negativa da vigência do artigo 1.017, § 5º, do CPC, ofendendo assim a Súmula Vinculante nº 10 do STF.
+Mas sem prejuízo desta clara disposição, junta-se o instrumento de mandato que já estava juntado às fls. 10/21 dos autos de origem (apenas para que se evite outro eventual error in procedendo por este Juízo), para que este processo seja regularmente analisado e processado (fl. 314).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Veja-se que é irrelevante que a procuração tenha sido acostada aos autos somente agora, nestes embargos, pois o que importa para fins de verificação de regularidade da representação processual é o momento da interposição do recurso.
+Como se trata da procuração ao subscritor do recurso especial e do agravo em recurso especial, a regular cadeia de representação deveria estar demonstrada no momento da apresentação dos referidos recursos, o que não aconteceu no caso concreto, porque a parte ora embargante, no momento da interposição dos recursos, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao referido subscritor.
+Registre-se que foi percebida, nesta Corte, a irregularidade na representação processual, razão pela qual houve a intimação da parte embargante para que o referido vício fosse sanado.
+Apesar disso, como bem declarado na decisão de fls. 307/308, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte não regularizou, limitando-se a apresentar apenas um substabelecimento, sem uma procuração originária outorgando poderes ao advogado substabelecente.
+Assim, foi feita a decisão, ora embargada, não conhecendo do recurso. Somente agora, em sede destes aclaratórios, houve a regularização que, no entanto, não pode ser aceita, em razão da preclusão consumativa (AgInt no REsp 1630054/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 4/4/2017, DJe de 11/4/2017.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
