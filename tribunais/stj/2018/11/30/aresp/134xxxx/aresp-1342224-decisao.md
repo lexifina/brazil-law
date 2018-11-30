@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto pela Filtrolar Ltda. contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+EMBARGOS À EXECUÇÃO. EXECUÇÃO FISCAL. DÍVIDA ATIVA. ERRO MATERIAL. EMENDA OU SUBSTITUIÇÃO. ATÉ, A DECISÃO DE PRIMEIRA INSTÂNCIA. POSSIBILIDADE.
+1. Existindo erro material que não enseja a modificação do sujeito passivo da execução, até a decisão de primeira instância, a Certidão de Dívida Ativa poderá ser emendada ou substituída, assegurada ao executado a devolução do prazo para embargos, inteligência do§ 8º do art. 2º da Lei nº 6.830/80 e da Súmula nº 392 do STJ.
+2. Recurso conhecido e provido.
+Naquela decisão, tendo como pano de fundo o afastamento da nulidade da Certidão de Dívida Ativa, ficou consignado que foram preenchidos todos os requisitos legais, tendo havido mero erro material quanto ao ano do processo administrativo que deu origem ao débito, o que não contamina o ato de lançamento, pois não modifica o sujeito passivo da execução, tampouco a presunção de certeza e liquidez da dívida.
+Foram rejeitados os embargos declaratórios opostos.
+No recurso especial, a recorrente aponta a violação dos arts. 2º da Lei n. 6.830/1980 e 202 do CTN, sustentando, em suma, que a Certidão da Dívida Ativa que instruiu o feito é nula, pois não preenche todos os requisitos legais, não tendo havido a substituição ou emenda antes de a sentença ser prolatada.
+Suscitou dissídio jurisprudencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base no Enunciado n. 83/STJ.
+No presente agravo, a recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo a agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Sobre a apontada violação dos arts. 2º da Lei n. 6.830/1980 e 202 do CTN, não merece seguimento o pleito recursal.
+Verifica-se que a irresignação da recorrente acerca da nulidade da Certidão de Dívida Ativa vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, assim decidiu:
+Na hipótese em julgamento, compulsando os autos da Execução Fiscal (Processo nº 2013.01.1.162631-3, apensos), observa-se que a Certidão d Dívida Ativa que instruiu a demanda (fl. 02) possui todos os requisitos exigidos pelo dispositivo transcrito, havendo apenas um mero erro material no ano do Processo Administrativo que deu origem ao débito, 015-000691/2006, quando o correto seria 0015-000691/2010. Irregularidade que não contamina o ato de lançamento, pois não modifica o sujeito passivo da execução, tampouco a presunção de certeza e liquidez da dívida.
+A aludida mácula foi devidamente indicada pelo embargado na impugnação de fls. 106/109, acostando aos autos o Procedimento Administrativo de fls. 113/159 que deu origem à aplicação da multa.
+Desse modo, vislumbro que o vício material de mera retificação do ano correto do Processo Administrativo foi sanado antes da prolação da sentença de Primeira instância, sendo desnecessário, na espécie, ao ente Fazendário a confecção de nova CDA. (fls. 297/298)
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ainda que fosse superado tal óbice, ad argumentandum tantum, tem-se que, no caso, ficou comprovado que houve mero erro material constante da Certidão de Dívida Ativa debatida nos embargos, tendo o recorrido promovido a correção desse erro, conforme apontado nos autos, em conformidade com o Enunciado Sumular n. 392/STJ e com a jurisprudência desta Corte Superior.
+Nesse diapasão, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. OPORTUNIDADE À FAZENDA PÚBLICA PARA EMENDA OU SUBSTITUIÇÃO DA CDA ANTE A EXTINÇÃO DO FEITO. MATÉRIA SOB O RITO DO ART. 543-C DO CPC/1973. ACÓRDÃO RECORRIDO FUNDAMENTO INATACADO. REEXAME DE PROVAS DOS AUTOS. SÚMULAS 283 DO STF e 7 DO STJ.
+1. A Primeira Seção do Superior Tribunal de Justiça, com esteio no art. 543-C do CPC/1973, proclamou o entendimento de que "atentaria contra os princípios da celeridade e da economia processual a imediata extinção do feito, sem que se facultasse, previamente, à Fazenda Pública oportunidade para que procedesse às retificações necessárias na petição inicial e na CDA" (REsp 1.372.243/SE, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Og Fernandes, DJe 21/3/2014).
+2. Proclamou, ainda, que "a Fazenda Pública pode substituir ou emendar a certidão de dívida ativa (CDA) até a prolação da sentença de embargos (artigo 2º, § 8º, da Lei 6.830/80), quando se tratar de correção de erro material ou formal, vedada, entre outras, a modificação do sujeito passivo da execução (Súmula 392/STJ) ou da norma legal que, por equívoco, tenha servido de fundamento ao lançamento tributário" (recurso submetido ao rito do art. 543-C do CPC/1973; REsp 1.045.472/BA, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 25/11/2009, DJe 18/12/2009).
+3. No caso dos autos, a Corte de origem posicionou-se pela possibilidade de emenda ou substituição da CDA em razão de erro formal ou material do título, sendo inviável a extinção da execução com base em nulidade sem antes oportunizar a regularização por parte da Fazenda.
+4. Tal assertiva não foi devidamente impugnada pelo recorrente nas razões do recurso especial, o que, por si só, mantém incólume o julgado combatido. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+5. Além disso, para afastar o entendimento a que chegou o Tribunal a quo, de modo a albergar as peculiaridades do caso e verificar que era hipótese de nulidade do título (CDA) pelo juízo, e não que fosse oportunizada à Fazenda Pública sua substituição, como sustentado neste recurso, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo excepcional por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+6. O dissídio jurisprudencial não foi demonstrado nos termos do parágrafo único do art. 541 do CPC/1973.
+7. A recurso manifestamente incabível ou improcedente aplica-se multa. Precedentes.
+8. Agravo interno não conhecido. (AgInt nos EDcl no REsp n. 1401801/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/8/2018.)
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. HEPATITE C. INDENIZAÇÃO POR DANO MATERIAL E MORAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, entendeu que não há nexo causal entre a conduta dos agentes públicos e os danos sofridos pelos ora agravantes, e que estes não trouxeram provas para corroborar o que alegou.
+2. Não é cabível em Recurso Especial o exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, em vista do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo Interno não provido. (AgInt no REsp n. 1.612.647/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/2/2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. A reforma do acórdão recorrido, no sentido de se entender pela falsidade da prova pericial, da existência de documento novo e da ocorrência de erro de fato, demandaria necessário revolvimento de matéria fática, prática vedada pela Súmula 7/STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido. (AgInt no AREsp n. 638.513/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 9/3/2017.)
+
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
