@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na afronta aos arts. 100, § 6º, da Lei Maior, 33 e 78 do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Precatório. Crédito complementar. Dispensa da expedição de novo precatório. Precedentes. 1. A jurisprudência desta Corte pacificou-se no sentido de que a dispensa de novo precatório ocorrerá quando se tratar de crédito apurado em razão de erro material ou de inexatidão aritmética dos cálculos do precatório, ou na hipótese de substituição, por força de lei, do índice aplicado. 2. Agravo regimental não provido.” (RE 515201 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 24/04/2012, ACÓRDÃO ELETRÔNICO DJe-096 DIVULG 16-05-2012 PUBLIC 17-05-2012)
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. INSUFICIÊNCIA DE PAGAMENTO EM RAZÃO DA MORA. IMPOSSIBILIDADE. 1. O Supremo Tribunal Federal assentou que não se exclui da sistemática do precatório o pagamento de valores complementares ao precatório satisfeito parcialmente, salvo as hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis ao caso. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento.” (RE 1065437 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 01/12/2017, PROCESSO ELETRÔNICO DJe-289 DIVULG 14-12-2017 PUBLIC 15-12-2017)
+    “EMENTA: Seqüestro de Rendas Públicas. Fazenda Pública Municipal. Precatório não-alimentar. Pagamento de prestações. Prazo vencido. Artigo 78, § 4º, do ADCT. Ofensa à autoridade da decisão proferida na ADI nº 1.662. Inexistência. Seguimento negado à reclamação. Agravo desprovido. A reclamação não pode ser usada como sucedâneo de recurso, nem de ação rescisória. Não ofende o acórdão proferido na ADI nº 1.662 a decisão que determina seqüestro de recursos públicos ante o atraso no pagamento de parcela de precatório originado de dívida não-alimentar, nos termos do art. 78, § 4º, do ADCT.” (Rcl 6800 AgR, Relator(a):  Min. CEZAR PELUSO, Tribunal Pleno, julgado em 08/10/2009, DJe-204 DIVULG 28-10-2009 PUBLIC 29-10-2009 EMENT VOL-02380-01 PP-00201)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
