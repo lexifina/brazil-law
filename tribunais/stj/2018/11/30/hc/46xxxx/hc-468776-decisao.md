@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ELISEU SILVEIRA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em execução n. 0177078-44.2018.8.21.7000).
+Depreende-se dos autos que o paciente foi condenado à pena total de 19 (dezenove) anos e 2 (dois) meses de reclusão pela prática dos crimes de tentativa de homicídio, roubo majorado e lesões graves. O cumprimento da pena iniciou-se no dia 9/11/2005 (e-STJ fl. 70).
+Em abril de 2018, foi-lhe deferido pedido de livramento condicional (e-STJ fls. 27/29).
+Contra tal decisão insurgiu-se o Ministério Público por meio de agravo em execução, sustentando a necessidade de realização de exame criminológico para verificação do preenchimento do requisito subjetivo.
+A Segunda Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento ao recurso nos termos da seguinte ementa (e-STJ fls. 67/68):
+AGRAVO EM EXECUÇÃO (ARTIGO 197 DA LEP). LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. CONDUTA CARCERÁRIA PLENAMENTE SATISFATÓRIA. AUSÊNCIA DE EXAME CRIMINOLÓGICO. INCONFORMISMO MINISTERIAL. Inicialmente, deve ser afastada a preliminar defensiva oferecida em contrarrazões, uma vez que os documentos trazidos pelo agravante se mostram suficientes para o esclarecimento da demanda, não havendo qualquer justificativa para que o pleito não seja conhecido. Mérito: se mostra impositiva a melhor avaliação da aptidão subjetiva do preso, sendo recomendável a realização de prévio exame criminológico, para que lhe seja concedido o livramento condicional, consoante restou sedimentado no Superior Tribunal de Justiça, por meio do Enunciado Sumular nfi 439. O Supremo Tribunal Federal, por sua vez, ao analisar o tema, sobre o prisma da progressão de regime, editou a Súmula Vinculante de n.c 26.
+Com efeito, tem-se que os Magistrados de primeiro grau, ou mesmo esta Corte, podem determinar a realização do exame criminológico,
+desde que as peculiaridades do caso o recomendem e em decisão adequadamente motivada.
+No presente caso, infere-se que o Juízo da execução reputou preenchidos os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário) para a concessão do benefício da progressão de regime.
+Penso, contudo, que diante da acentuada gravidade do delito praticado, roubo e homicídio qualificado tentados, faz-se necessária a realização do exame criminológico, para que seja perquirido se o apenado realmente demonstra mérito suficiente e condições psicológicas para ser beneficiado com o livramento condicional, devendo aguardar a realização da perícia no regime de cumprimento de pena em que se encontrava.
+Calha lembrar o contido no artigo 83, parágrafo único, do CP, pois se trata de delito doloso contra a vida, cometido com violência à pessoa, sendo recomendável a constatação prévia de condições que façam presumir que o liberado não voltará a delinquir.
+AGRAVO PROVIDO.
+No presente writ, a defesa aponta constrangimento ilegal decorrente do indeferimento do livramento condicional ao paciente.
+Sustenta o equívoco do acórdão ao concluir que o requisito subjetivo para a concessão do benefício não teria sido satisfeito, exigindo a realização de exame criminológico (e-STJ fls. 4/5):
+Com a devida vênia, a posição adotada pelo Tribunal coator, privilegiando o histórico de faltas em detrimento do atestado de conduta carcerária que comprova ter restado preenchido o requisito subjetivo para o livramento condicional, vai de encontro à necessidade de busca "de soluções tendentes à descarcerização". Inclusive, tal visão é compartilhada pelo Conselho Nacional do Ministério Público  ..
+Sem dúvida, a existência de faltas no curso da execução não pode ensejar o indeferimento do livramento condicional pois são requisitos estranhos à lei. Como dito, a legislação apenas condiciona a fruição do direito ao atingimento do lapso temporal, bem como ao fornecimento de atestado pelo Diretor da Casa Prisional que declara se o apenado mantém conduta plenamente satisfatória. Assim, preenchidos os requisitos legais, deve ser concedido o livramento condicional.
+Diante disso, pede, liminar e definitivamente, seja cassado o acórdão local e deferido o benefício de livramento condicional ao paciente.
+O pleito urgente foi indeferido (e-STJ fls. 85/88).
+As informações foram prestadas (e-STJ fls. 92/140 e 143/117).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 180/184).
+É, em síntese, o relatório.
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico para o deferimento do livramento condicional.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26, do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso, o Tribunal de origem, ao reformar a decisão do Juízo de primeiro grau e ao determinar a realização do exame criminológico para a concessão do livramento condicional, asseverou (e-STJ fls. 39/40):
+No presente caso, infere-se que o Juízo da execução reputou preenchidos os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário) para a concessão do benefício do livramento condicional.
+Penso, contudo, que diante da acentuada gravidade dos delitos praticados, roubo e homicídio qualificado tentado, faz-se necessária a realização do exame criminológico, para que seja perquirido se o apenado realmente demonstra mérito suficiente e condições psicológicas para ser beneficiado com o livramento condicional, devendo aguardar a realização da perícia no regime de cumprimento de pena em que se encontrava.
+Calha lembrar o contido no artigo 83. parágrafo único, do CP, pois se trata de delito doloso contra a vida, cometido com violência à pessoa, sendo recomendável a constatação prévia de condições que façam presumir de que o liberado não voltará a delinquir.
+Ante o exposto, dou provimento ao agravo, nos termos acima explicitados.
+Como se vê, o Tribunal de origem, ao determinar a realização do exame criminológico, não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que pudessem afastar a decisão do magistrado, desconsiderando, ainda, o bom comportamento carcerário atestado pela administração do estabelecimento prisional.
+Dessa forma, não havendo respaldo que demonstre, efetivamente, o demérito do condenado e que justifique a denegação do livramento condicional, deve ser reconhecida a ilegalidade do acórdão.
+Diante dessas considerações, concedo a ordem para restabelecer a decisão de primeiro grau que deferiu ao paciente o livramento condicional.
+Publique-se. Intimem-se.
