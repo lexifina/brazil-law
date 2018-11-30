@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão denegatória de seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, a ora agravante debate, em síntese que: a) o valor apresentado no laudo é excessivo e merece ser reformado, visto que não representa a real condenação imposta; e b) os juros de mora devem incidir desde a ciência da parte devedora acerca da conversão da obrigação de fazer em perdas e danos.
+É o relatório. Decido.
+Com efeito, a parte agravante deixou de indicar, de forma inequívoca, os dispositivos legais supostamente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do e. Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ERRO DE FATO. PREMISSA EQUIVOCADA. CABIMENTO. EXECUÇÃO FISCAL. IPTU. NULIDADE DA CDA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL CONSIDERADO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PRESCRIÇÃO AFASTADA PELO JUÍZO A QUO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+3. Quanto à tese de nulidade da CDA, a via estreita do Recurso Especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos. A falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF.
+ ..
+5. Embargos de Declaração acolhidos, com efeito modificativo, para conhecer do Agravo Interno e, no mérito, negar-lhe provimento. (EDcl no AgInt no AREsp n. 1.038.597/SP, relator Ministro Herman Benjamin, SEGUNDA TURMA, julgado em 8/11/2018, DJe 19/11/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 283 E 284 DO STF. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. SOLIDARIEDADE ENTRE O PROPRIETÁRIO DO "CAVALO MECÂNICO" E O DA CARRETA. RECURSO NÃO PROVIDO.
+1. Em recurso especial, sob pena de ser inadmitido o inconformismo, a parte tem que apresentar, de modo inequívoco, os dispositivos violados, bem como desenvolver argumentação capaz de evidenciar a ofensa alegada, refutando a motivação do acórdão recorrido. A deficiência na fundamentação recursal atrai a incidência das Súmulas 283 e 284/STF.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 398.184/SP, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 23/10/2018, DJe 26/10/2018.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO EM CONCURSO FORMAL. ALEGADA VIOLAÇÃO AOS ARTS. 381, III, E 564, IV, DO CÓDIGO DE PROCESSO PENAL. TESE DEFENSIVA. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. RECONHECIMENTO FOTOGRÁFICO. NULIDADE. NÃO OCORRÊNCIA. PLEITO DE RECONHECIMENTO DE CRIME ÚNICO. IMPROCEDÊNCIA. PATRIMÔNIOS DE VÍTIMAS DISTINTAS. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. VIOLÊNCIA EXARCEBADA. [NOME]. FUNDAMENTO IDÔNEO. EXASPERAÇÃO DA PENA NA TERCEIRA FASE DA DOSIMETRIA. FRAÇÃO SUPERIOR A 1/3. FUNDAMENTAÇÃO CONCRETA. PENA DE MULTA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284/STF.
+ ..
+7. "A ausência de indicação do dispositivo de lei federal supostamente violado pela instância ordinária caracteriza deficiência na fundamentação, o que atrai a incidência da Súmula n. 284 do STF, aplicada por analogia ao recurso especial" (AgRg nos EDcl no AREsp n. 456.426/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/2/2017, DJe 2/3/2017).
+8. Agravo regimental desprovido. (AgRg nos EDcl no AREsp n. 1.155.424/RS, relator Ministro Antonio Saldanha Palheiro, SEXTA TURMA, julgado em 23/10/2018, DJe 13/11/2018.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil tendo em vista que os recursos especiais foram interpostos nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
