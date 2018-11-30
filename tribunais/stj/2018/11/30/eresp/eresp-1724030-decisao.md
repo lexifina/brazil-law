@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se o presente recurso especial de matéria relativa às diferenças de correção monetária em depósitos de caderneta de poupança decorrentes da implementação dos planos econômicos Cruzado, Bresser, Verão e [NOME] e II, a qual foi objeto de acordo coletivo homologado pelo Supremo Tribunal Federal, nos autos da Arguição de Descumprimento de Preceito Fundamental (ADPF) n.º 165, Relator o Ministro Ricardo Lewandowski, DJ n.º 45 do dia 09/03/2018.
+Em razão do referido acordo, a Segunda Seção do Superior Tribunal de Justiça, na sessão do dia 14 de março de 2018, em Questão de Ordem Especial, deliberou sobre a sustação desses processos pelo prazo de 24 meses para adesão ou não ao aludido acordo.
+Em nova apreciação da questão pela Segunda Seção desta Corte, em 22 de agosto de 2018, deliberou-se acerca da continuidade do julgamento dos feitos que envolvam expurgos inflacionários em caderneta de poupança, em fase de execução de sentença, quando o litigante se manifestar acerca do seu desinteresse no acordo homologado pelo Supremo Tribunal Federal.
+Desse modo, determino a intimação pessoal dos recorridos para que, no prazo de 10 (dez) dias, se manifestem acerca do interesse em aderir ao acordo realizado pelo STF.
+Publique-se. Intimem-se.
