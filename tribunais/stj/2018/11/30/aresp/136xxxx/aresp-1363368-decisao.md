@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Agravo, interposto pela UNIÃO, contra decisão do Tribunal Regional Federal da 5ª Região, que negou seguimento ao Recurso Especial, interposto contra acórdão assim ementado:
+"ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. GRATIFICAÇÕES. CORREÇÃO MONETÁRIA. NÃO INCIDÊNCIA DE TR. COISA JULGADA. APELAÇÃO PROVIDAS.
+1. Apelação contra sentença que, acolhendo os cálculos da contadoria do foro, julgou procedentes embargos à execução e condenou o apelante ao pagamento de honorários fixados em 8% sobre o valor da condenação.
+2. Incorreta a utilização de TR para fins de correção monetária, pois o título judicial determina o uso do manual de cálculos da justiça federal, que para o período estabelece o índice IPCAE. entendimento que se coaduna com o que decidiu o Plenário desta Corte no julgamento dos embargos declaratórios em embargos infringentes nº 0800212-05.2013.4.05.8100, Rel. Des. Federal [NOME], j. 17/06/2015.
+3. Ainda assim, a União decai em parte mínima do pedido devendo apenas ser reduzida a condenação do apelante em honorários de sucumbência para 6% sobre o valor da condenação.
+4. Apelação parcialmente provida" (fl. 192e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 215/219e).
+No Recurso Especial, alega-se a ofensa ao art. 1º-F da Lei 9.494/97, requerendo, em síntese, seja sanada a omissão indicada e aplicada a correção monetária pela TR, nos termos da Lei 11.960/2009.
+O Recurso Especial foi inadmitido pelo Tribunal de origem, ensejando a interposição do presente Agravo.
+Com efeito, a tese apresentada pelo recorrente teve repercussão geral reconhecida, pelo Plenário do STF, nos autos do Recurso Extraordinário 873.947/SE, Relator Ministro LUIZ FUX, em que se discute a "validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009" (Tema 810).
+Ocorre que o Supremo Tribunal Federal deferiu o efeito suspensivo aos Embargos de Declaração opostos com a finalidade de modulação dos efeitos do julgamento do RE 870.947/SE, por entender que a aplicação imediata do decisum embargado pelas instâncias a quo poderia ensejar a realização de pagamento de consideráveis valores, em tese, a maior pela Fazenda Pública, ocasionando grave prejuízo às já combalidas finanças públicas.
+Confira-se, a propósito, a ementa do referido julgado:
+"DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997 COM REDAÇÃO DADA PELA LEI 11.960/2009. TEMA 810 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. EFEITO SUSPENSIVO. ARTIGO 1.026, § 1º, DO CPC/2015. DEFERIMENTO" (STF, EDcl no RE 870.947/SE, Rel. Ministro LUIZ FUX, DJe de 25/09/2018).
+Ante o exposto, nos termos do art. 1.030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o Agravo em Recurso Especial fique sobrestado até o julgamento definitivo do Tema 810 pelo Supremo Tribunal Federal e, após, seja submetido a julgamento na forma do art. 1.040 do CPC/2015.
+I.
