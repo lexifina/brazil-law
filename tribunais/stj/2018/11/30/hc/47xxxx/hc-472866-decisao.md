@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. PENAL. [NOME]. PRETENSÃO DE INICIAR O CUMPRIMENTO DA PENA NO REGIME SEMIABERTO. IMPOSSIBILIDADE. REGIME INICIAL FECHADO DEVIDAMENTE MOTIVADO. GRAVIDADE CONCRETA DOS DELITOS. SÚMULAS N.os 440 DESTA CORTE E 718 E 719 DO SUPREMO TRIBUNAL FEDERAL. OBSERVÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DE HABEAS CORPUS DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS PAES FELIZARDO e [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n.º 0010887-06.2017.8.19.0014.
+Consta dos autos que os Pacientes foram condenados às penas de 7 (sete) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e 17 (dezessete) dias-multa, como incursos no art. 157, § 2.º, incisos I e II, por uma vez, e no art. 157, § 2.º, inciso II, por duas vezes, na forma do art. 71, todos do Código Penal.
+Irresignada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de origem deu parcial provimento para alterar a fração de aumento em razão da continuidade delitiva de 1/3 para 1/5, redimensionando as penas para 6 (seis) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 15 (quinze) dias-multa, mantida, no mais, a sentença (fls. 47-63).
+Nas razões deste writ, a Impetrante sustenta, em síntese, que o regime prisional fechado foi fixado sem fundamentação idônea, contrariando o disposto na Súmula n.º 440 desta Corte.
+Requer, liminarmente, seja permitido aos Pacientes aguardarem em regime semiaberto o julgamento deste habeas corpus e, no mérito, o estabelecimento do regime inicial semiaberto.
+O pedido liminar foi indeferido às fls. 67-68.
+As judiciosas informações foram prestadas às fls. 74-84.
+O Ministério Público Federal manifestou-se às fls. 86-87, opinando pela denegação da ordem.
+É o relatório.
+Decido.
+Quanto ao regime inicial de cumprimento de pena, o Juízo sentenciante justificou a fixação do regime prisional fechado nos seguintes termos (fl. 33, sem grifos no original):
+"O regime inicial para cumprimento da pena privativa de liberdade, considerando o "quantum" ora restabelecido, as particularidades do caso concreto (número de delitos cometidos, em concurso de pessoas e um deles com emprego de arma de fogo) e o que dispõem os §§2º e 3º do art. 33 do Código Penal, bem como a súmula nº 381 do TJRJ ("O emprego da arma de fogo na prática de roubo, vinculada à maneira de agir do acusado no caso concreto, constitui fundamento idôneo para a imposição de regime inicial fechado, mesmo na hipótese de a pena-base haver sido fixada no mínimo legal"), será o fechado."
+O Tribunal de origem, por sua vez, ratificou, no ponto, a sentença condenatória (fls. 61-63).
+Como se vê, o regime inicial fechado foi estabelecido com base na gravidade concreta da conduta delituosa, pois praticados três crimes de roubo pelos Pacientes, sendo destacado pelo Juízo sentenciante as "particularidades do caso concreto (número de delitos cometidos, em concurso de pessoas e um deles com emprego de arma de fogo)". E, segundo jurisprudência desta Corte Superior, havendo especial gravidade no delito, inexiste violação das Súmulas n.os 440 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal, conforme já decidido por esta Corte, in verbis:
+"AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. ROUBO MAJORADO. REGIME FECHADO. MOTIVAÇÃO IDÔNEA. SÚMULAS N. 440 DO STJ E 718 E 719, AMBAS DO STF. OBSERVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. Não há ilegalidade na fixação do regime inicial fechado quando apontado dado fático suficiente a indicar a gravidade concreta do crime - na espécie, o concurso de três agentes, pelo menos um deles adolescente -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP). Respeito às Súmulas n. 440 do STJ e 718 e 719, ambas do STF.
+2. Agravo regimental provido para reconsiderar a decisão singular e negar provimento ao recurso especial da defesa." (AgRg nos EDcl no AREsp 1.085.167/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/10/2017, DJe 16/10/2017.)
+"HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. ROUBO DUPLAMENTE CIRCUNSTANCIADO. MAJORAÇÃO DAS PENAS EM FRAÇÃO SUPERIOR À MÍNIMA LEGAL. POSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM MAIOR REPROVAÇÃO DAS CONDUTAS. SÚMULA N. 443/STJ. NÃO INCIDÊNCIA. REGIME INICIAL FECHADO. POSSIBILIDADE. REGIME MAIS GRAVOSO COM BASE NA GRAVIDADE CONCRETA DO DELITO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+4. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+5. No caso, embora o paciente seja primário, condenado a pena privativa de liberdade superior a 4 e não excedente a 8 anos, o regime mais gravoso possui lastro em fundamentação concreta, revelada pela ousadia mais exacerbada, cuja ação contou com o concurso de seis agentes, o emprego de mais de uma arma de fogo, além do fato de o paciente ter cometido o delito quando encontrava-se em gozo de liberdade provisória pela prática de outro crime de roubo.
+6. Habeas corpus não conhecido." (HC 393.409/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
