@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PLEITO DE REVOGAÇÃO, POR EXCESSO DE PRAZO. CONCESSÃO NO TRIBUNAL LOCAL. PREJUDICIALIDADE.
+Writ prejudicado pela perda do objeto.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] - preso preventivamente, pela prática, em tese, dos crimes de dano qualificado pelo emprego de substância inflamável (art. 163, parágrafo único, II, do CP), homicídio qualificado, na forma tentada, para assegurar a impunidade de outro crime (art. 121, § 1º, V, c/c o 14, II, do CP) e homicídio qualificado mediante paga e promessa de recompensa, por motivo fútil e mediante dissimulação (art. 121, § 1º, I, II e IV, do CP) - em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná que denegou a ordem de habeas corpus ali impetrada (fls. 1.296/1.300 - Habeas Corpus n. 0042968-34.2017.8.16.0000):
+HABEAS CORPUS CRIME - HOMICÍDIO TENTADO BIQUALFICADO - ALEGADAS INIDONEIDADE DA FUNDAMENTAÇÃO E FALTA DE PRESSUPOSTOS PARA O DECRETO PRISIONAL E APLICABILIDADE DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - MATÉRIAS JÁ APRECIADAS EM IMPETRAÇÃO ANTERIOR - AUSÊNCIA DE MODIFICAÇÃO DAS CIRCUNSTÂNCIAS DO CASO - ORDEM NÃO CONHECIDA NESTES PONTOS - EXCESSO DE PRAZO - SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA - NÃO CARACTERIZAÇÃO - AUSÊNCIA DE ATRASO NO PROCESSAMENTO DA DEMANDA, TANTO MENOS QUE POSSA SER ATRIBUÍDA À AUTORIDADE JUDICIAL - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO - SEGREGAÇÃO CAUTELAR MANTIDA - WRIT PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DENEGADA A ORDEM -
+Em 9/6/2016, o Magistrado singular pronunciou o ora paciente pela prática, em tese, do crime homicídio qualificado mediante paga e promessa de recompensa e para assegurar a impunidade de outro crime, na forma tentada (art. 121, § 1º, I e V, c/c o 14, II, do CP), mantendo a sua prisão cautelar, especialmente ao fundamento de garantia da ordem pública (fls. 864/892 - Autos n. 0000205-35.2016.8.16.0038).
+Aqui, alega-se constrangimento ilegal consistente na deficiência referente ao excesso de prazo do acautelamento preventivo do paciente.
+Sustenta o impetrante que o ora paciente se encontra preso cautelarmente há mais de 2 anos, pela suposta prática de crime de tentativa de homicídio e que  ..  está sendo utilizada como medida de antecipação de sua pena, posto que atualmente está preso cautelarmente única e exclusivamente pela desídia estatal à realização do seu julgamento perante o Tribunal do Júri,  ..  sendo que até o presente momento não há qualquer expectativa de agendamento de seu julgamento pelo Tribunal Popular, configurando evidente excesso de prazo (fl. 8).
+Postula, então, a concessão liminar da ordem para que seja revogada a prisão preventiva do paciente.
+Em 21/2/2018, indeferi a liminar, solicitando informações ao Juízo de origem (fls. 1306/1309).
+Juntadas as informações (fls. 1.316/1.320), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Sucede que o writ está prejudicado.
+Há notícia, obtida no sítio do Tribunal local, de que, em 28/6/2018, foi concedida ordem de habeas corpus em favor do ora paciente, quando do julgamento do HC n. 0021390-78.2018.8.16.0000, sendo expedido alvará de soltura em favor do paciente (fls. 1549/1.554).
+Consequentemente, atendida a pretensão inicial, este habeas corpus perdeu o objeto. Julgo-o, por conseguinte, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
