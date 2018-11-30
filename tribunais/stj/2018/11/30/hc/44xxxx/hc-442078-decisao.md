@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de MAICK OLIVEIRA DINIZ, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que indeferiu pedido liminar em writ na origem.
+No curso deste mandamus, a Corte local denegou a ordem por acórdão que possui a seguinte ementa (fl. 68):
+Habeas Corpus. Tráfico de entorpecentes. Conversão da prisão em flagrante em preventiva fundamentada. Necessidade da custódia para a garantia da ordem pública. Constrangimento ilegal inexistente. Ordem denegada.
+O impetrante requer a revogação da prisão ou aplicação de medidas cautelares diversas, previstas no art. 319, I, IV ou V do CPP, com a alegação de ocorrência de constrangimento ilegal, por ausência de fundamentos da prisão preventiva.
+O paciente responde pela prática do crime tipificado no art. 33, caput, da Lei 11.343/2006.
+A liminar foi deferida.
+O Ministério Público manifestou-se pela prejudicialidade do writ.
+Na origem, o processo n. 0001243-96.2018.8.26.0050 encontra-se na fase instrutória, conforme informações eletrônicas disponíveis em 27/11/2018.
+É o relatório.
+DECIDO.
+O decreto prisional assim dispôs (fl. 15):
+ .. .No caso em apreço, a prova da materialidade e os indícios suficientes de autoria do crime de tráfico de drogas (art. 33 da Lei nº 11.343/2006) encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante, em especial as declarações colhidas, o auto, de apreensão e o laudo de constatação da droga. Trata-se, na hipótese, da apreensão com o autuado de uma porção de cocaína e, no local, de 33 porções de cocaína, e 21 porções de maconha, R$34,00 em dinheiro trocado, e um celular. Há que se ressaltar que o autuado afirmou não possuir trabalho formal, sendo detido em local conhecido como ponto de tráfico no meio da tarde. Note-se que a quantidade de droga apreendida não pode servir, por ora, para afastar a capitulação legal inicialmente dada aos fatos, pois é comum que os traficantes mantenham consigo, junto ao corpo, apenas parte do entorpecente (só as porções para venda imediata, em quantidade que, isoladamente, poderia indicar porte para consumo), ocultando o restante (a maior parte) em locais próximos. Nem se pode cogitar, nesta análise preliminar, da aplicação do benefício previsto no artigo 33, § 4º, da Lei nº 11.343/06). Os requisitos necessários para o seu reconhecimento devem ser aferidos durante a instrução processual, pelo Juiz Natural, desde que comprovada a não dedicação a atividades criminosas - requisito cumulativo e que não se confunde com os bons antecedentes. Não há, por outro lado indicação precisa de atividade remunerada que ligue o autuado ao distrito da culpa, denotando que a cautela é necessária para a conveniência da instrução criminal e de eventual aplicação da lei penal. Ressalto que a arguição de que as circunstâncias judiciais são favoráveis ao autuado não é o bastante para recomendar a benesse pretendida. .. .
+Como se vê, ainda que o decreto prisional tenha apontado a quantidade de droga apreendida, apenas o fez como indicativo de materialidade delitiva. Na parte em que tratou da necessidade da custódia cautelar, não trouxe qualquer motivação concreta para a prisão, fazendo referência às circunstâncias já elementares do delito, valendo-se de fundamentação abstrata e com genérica regulação da segregação provisória, evidenciando a ausência de fundamentos.
+Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, reconheço a ilegalidade arguida.
+Ante o exposto, concedo o habeas corpus para a soltura do paciente, MAICK OLIVEIRA DINIZ, o que também não impede a fixação de medida cautelar diversa da prisão, pelo juízo de primeiro grau, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
