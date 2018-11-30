@@ -1,0 +1,9 @@
+DECISÃO
+A hipótese é de agravo interno interposto por [NOME] contra decisão que não conheceu do recurso especial, com base nos seguintes fundamentos: (I) em recurso especial, não cabe alegar violação à norma constitucional; e (II) por restar prejudicado o recurso especial de fls. 266/319, em razão de o recurso especial da parte contrária - INSS - ter sido acolhido por violação ao art. 535 do CPC/73.
+Inconformada, a agravante afirma que "não se pode ao mesmo negar seguimento a parte do recurso e, após, declará-lo prejudicado, especialmente quando a sua análise como um todo deve ser suspensa já que houve a anulação do julgado regional e a indicação de devolução dos autos ao Tribunal de origem. O correto, d.m.v., seria declarar prejudicado o conhecimento do recurso especial da parte exequente de modo a permitir a sua análise após o novo julgamento, pelo TRF da 4ª Região, dos embargos declaratórios opostos pelo INSS, até porque a matéria nele vertida não diz respeito exclusivamente a preceito constitucional, já que o acórdão regional também inobservou a existência e coisa julgada em sentido contrário à pretensão da Autarquia, bem como a caracterização de preclusão da matéria" (fl. 462).
+Requer a reconsideração do decisum ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+Assiste razão ao agravante.
+De fato, a decisão de fls. 448/450 merece reparos em sua parte dispositiva, de modo a deixar claro que o exame do recurso especial de fls. 266/319 restou prejudicado, em sua totalidade, em razão do apelo especial manejado pelo INSS ter sido provido por ofensa ao artigo 535 do Código de Processo Civil e determinado novo julgamento dos embargos declaratórios.
+Assim, dou provimento ao agravo interno para declarar que o recurso especial de fls. 266/319 restou prejudicado, ficando sua análise postergada para após a conclusão do novo julgamento do recurso integrativo do INSS.
+Publique-se.
