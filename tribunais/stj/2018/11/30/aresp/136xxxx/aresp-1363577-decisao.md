@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA DE CONSUMO. CONCLUSÃO ESTADUAL NO SENTIDO DA RESPONSABILIDADE DA INSURGENTE. FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. FABRICANTE. ENTENDIMENTO NO SENTIDO DA SUA PARTICIPAÇÃO DA CADEIA DE CONSUMO. DEVER DE INDENIZAR. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BRF S.A., com fundamento na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 1.801-1.812):
+AÇÃO COLETIVA DE CONSUMO. PEDIDO JULGADO PROCEDENTE. CONDENAÇÃO DA RÉ EM INDENIZAÇÃO POR DANO MORAL COLETIVO NO MONTANTE DE DUZENTOS MIL REAIS. COMERCIALIZAÇÃO DE PRODUTOS EM EMBALAGEM REDIGIDA EM LÍNGUA ESTRANGEIRA, SEM A CORRESPONDENTE TRADUÇÃO PARA O IDIOMA NACIONAL. INSURGÊNCIA DESTA. NECESSÁRIA A APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESPONSABILIDADE QUANTO AOS DANOS QUE RECAI SOBRE A RÉ, POIS O FABRICANTE TAMBÉM É RESPONSÁVEL PELAS INFORMAÇÕES INADEQUADAS (ART. 12, CDC), INDEPENDENTEMENTE DE TEREM OS PRODUTOS SIDO OBJETO DE REDIRECIONAMENTO DENTRO DO MERCADO INTERNO POR OUTRA EMPRESA, EIS QUE, INICIALMENTE DESTINADOS À EXPORTAÇÃO. DEVER DE INFORMAÇÃO VIOLADO (ART. 6º, INCISO III, CDC). AUSÊNCIA DE COMPROVAÇÃO DE QUE TODOS OS PRODUTOS DISTRIBUÍDOS PARA O CONSUMO FORAM RETIRADOS DO MERCADO A TEMPO. OBRIGAÇÃO DE INDENIZAR. DANO MORAL COLETIVO (IN RE IPSA). MANUTENÇÃO DO VALOR ESTABELECIDO. DESESTIMULAÇÃO A NOVAS VIOLAÇÕES AOS DIREITOS COLETIVOS. RECURSO NÃO PROVIDO.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.841-1.846).
+No recurso especial, a recorrente apontou violação dos arts. 2º e 12 do CDC; 373, I, do novo CPC; 186, 389 e 927 do CC; e 804, parágrafo único, do Decreto n. 30.391/1952.
+Esclareceu que se opôs ao acórdão que a condenou ao pagamento de danos morais coletivos e do dever de recolher diversos produtos do mercado de consumo.
+Afirmou que merece reforma o julgado, pois não se pode falar em aplicação do CDC, mas de relação de consumo regida pelo Código Civil. Ponderou que os produtos foram direcionados ao mercado externo, todavia, por situações adversas, foram comercializados com a empresa Segala"s, que os utilizaria no mercado institucional e indústrias de transformação, não havendo possibilidade de circulação no varejo, mas sim em redes de fast foods, restaurantes e lanchonetes.
+Enfatizou que, se alguém deve responder pela chegada dos produtos ao consumidor final no país, esta deve ser a Segala"s, porquanto assinou contrato se comprometendo a não fazê-lo. Sublinhou que somente liberou os produtos no mercado interno após a realização e certificação federal, o que corrobora para afastar sua condenação (e-STJ, fls. 1.850-1.860).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 1.902-1.914).
+Contraminuta apresentada (e-STJ, fls. 1.866-1.867).
+Brevemente relatado, decido.
+O acórdão confirmou a sentença, reconhecendo, portanto, a responsabilidade da insurgente pela circulação no Brasil de produtos com rotulagem em língua estrangeira e sem informação clara ao consumidor, em desacordo com a Resolução n. 259/2002 da Agência Nacional de Vigilância Sanitária (Anvisa). Firmou o julgado que o direito de informação clara do consumidor não teria sido observado pela empresa, assim como pela distribuidora Segala"s.
+No ponto, constou no decisum que se perfectibilizou uma relação de consumo, sendo certo que a recorrente é fabricante de produtos que chegaram ao mercado consumidor por meio de empresa intermediária, a qual comprou os produtos da agravante para revender. Consoante se observa, a empresa intermediária não comprou os produtos para si, para aplicação em sua atividade empresarial, mas para distribuição ao consumidor final.
+Esse entendimento foi fundado na apreciação de fatos, provas e termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ.
+Outrossim, arrematou o acórdão, ao concluir pela responsabilidade da insurgente, que a Segala"s teria se comprometido com a comercialização de produtos de acordo com a legislação brasileira e já contendo as especificações na língua nacional, ao passo que os recebidos da recorrente não estariam de acordo com essas premissas. Além disso, a segunda instância teria estampado a negligência da recorrente no controle dos seus produtos vendidos pela Segala"s, devendo ser responsabilizada pelo desrespeito às normas consumeristas ora verificado.
+Novamente, tal entendimento foi calcado em fatos, provas e termos contratuais, ensejando a aplicação dos referidos óbices sumulares.
+Não bastasse isso, infere-se do acórdão que a fabricante fez parte da cadeia de disponibilização dos produtos com rotulagem defeituosa no mercado nacional, a qual de aperfeiçoou com a atuação da Segala"s Alimentos S.A., contratada pela insurgente.
+Portanto, o entendimento no sentido da aplicação do Código de Defesa do Consumidor e da responsabilização da ora recorrente encontra suporte na jurisprudência desta Corte, atraindo a aplicação da Súmula 83/STJ.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CÓDIGO DE DEFESA DO CONSUMIDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. VEÍCULOS AUTOMOTORES. VÍCIO DO PRODUTO. EXISTÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. FABRICANTE E FORNECEDOR. RESPONSABILIDADE SOLIDÁRIA. DANOS MORAIS. CABIMENTO. VALOR. SÚMULA 07/STJ. INCIDÊNCIA.
+1. Não há se falar em violação ao art. 535 do Código de Processo Civil quando o Tribunal de origem resolve todas as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Segundo a jurisprudência desta Corte, a responsabilidade do fornecedor e do fabricante, nos casos em que comprovado o vício do produto, é solidária. Precedentes.
+3. A análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas, a fim de acolher a tese do recorrente acerca da ausência responsabilidade solidária do fabricante pelos danos do veículo adquirido com defeito, demandaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso por ambas alíneas.
+4. Não cabe a revisão do valor arbitrado a titulo de dano moral quando a quantia se mostra razoável.
+5. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 533.426/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/09/2014, DJe 12/09/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. VERIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA/STJ. VÍCIO DO PRODUTO. FABRICANTE E VENDEDOR DE VEÍCULO. RESPONSABILIDADE SOLIDÁRIA. AFASTAMENTO. CULPA EXCLUSIVA. NÃO OCORRÊNCIA. ENTENDIMENTO ADOTADO NESTA CORTE. NÃO PROVIMENTO.
+1. O Tribunal de origem concluiu pela ocorrência de dano por vício do produto e a revisão do entendimento adotado esbarra no óbice do enunciado 7 da Súmula/STJ.
+2. O vício do produto acarreta responsabilidade solidária do fornecedor e do fabricante.
+3. Afasta-se a responsabilidade do fabricante e do vendedor somente nos casos em que comprovada a culpa exclusiva do consumidor.
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 400.983/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/08/2014, DJe 19/08/2014)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
