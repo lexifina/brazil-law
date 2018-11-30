@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO.
+    I – O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+    II – Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil.
+    III – Agravo legal desprovido.”
+    A decisão vergastada manteve decisão monocrática do relator e admitiu a incidência de contribuição previdenciária sobre o descanso semanal remunerado, ante sua natureza remuneratória.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, § 1°;150, I; 154, I; 195, § 4°, todos da CF. Sustenta, em síntese, a não incidência de contribuição previdenciária sobre o descanso semanal remunerado, ante sua natureza indenizatória.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Nesse contexto, e segundo a orientação adotada pelo STF, a tese fixada no julgamento do RE n° 565.160/SC não afasta a necessidade da definição individual das verbas controvertidas e sua habitualidade, providência, no entanto, que é de todo estranha ao contencioso estritamente constitucional.
+    Ocorre, entretanto, que a jurisprudência do C. Supremo Tribunal Federal é firme no sentido de que a controvérsia acerca do caráter remuneratório ou indenizatório das verbas percebidas pelo empregado, para fins de incidência da contribuição previdenciária, demanda o reexame de legislação infraconstitucional, não cabendo, pois, o recurso extraordinário para esta jaez.
+    […]
+    Ante o exposto, não admito o extraordinário.”
+    A pretensão deduzida pela parte não encontra amparo na jurisprudência do Supremo Tribunal Federal, que vem, reiteradamente, negando a repercussão geral de controvérsias relativas à cobrança de contribuição previdenciária sobre valores pagos pelo empregador, quando pendente discussão acerca da natureza jurídica das verbas. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO INTERNO INTERPOSTO PELA UNIÃO. RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. 1. A jurisprudência do SUPREMO TRIBUNAL FEDERAL afirma ter caráter infraconstitucional a discussão acerca da natureza jurídica da verba para fins de incidência tributária. 2. Agravo Interno a que se nega provimento.” (RE 1007651 AgR, Rel. Min. Alexandre de Moraes)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. HORAS EXTRAS. INCIDÊNCIA. NATUREZA DA VERBA. 1. Constitui ônus do agravante a impugnação especificada dos fundamentos da decisão agravada. Art. 1.021, § 1º, do CPC. 2. Não guarda identidade com o Tema 163 da sistemática da repercussão geral a discussão relativa à incidência de contribuição previdenciária patronal sobre folha de salários quando a controvérsia diz respeito à natureza jurídica de determinada verba. 3. Agravo regimental a que se nega provimento, com previsão de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.” (RE 1131958 AgR, Rel. Min. Edson Fachin)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 30 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
