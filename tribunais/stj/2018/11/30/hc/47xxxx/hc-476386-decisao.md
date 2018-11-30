@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi condenado, em sentença confirmada pela Corte a quo, à pena de 5 anos de reclusão, em regime inicial fechado, mais 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei 11.343/2006.
+No presente habeas corpus, alega, em síntese, a existência de constrangimento ilegal, porquanto fixado regime prisional mais gravoso do que o cabível segundo a pena aplicada, sem fundamentação idônea.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+Acerca do regime prisional, no julgamento dos embargos infringentes, o voto condutor foi assim proferido (fls. 215/216):
+A espécie "sub judice" indica que a flexibilidade do regime semiaberto não atende à finalidade da pena, mormente pelo reconhecimento da preponderância da quantidade e natureza da droga apreendida, com amparo no art. 42 da Lei n.º 11.343/06.
+O caso dos autos envolveu a apreensão de 15 tijolos de maconha, pesando 80 gramas, e 73 pedras de crack, com 6,40 gramas (auto de apreensão da fl. 24).
+Trata-se de drogas com elevado potencial nocivo à saúde, que fomentam a criminalidade atrelada à manutenção do vício, facilmente atingido pelas referidas substâncias. A maconha e o crack são drogas psicoativas que provocam alterações cerebrais significativas. A via de administração da cocaína, fumada na forma de crack, é a mais rápida, eficaz e poderosa no que se refere à absorção. Daí por que o Dr. [NOME], médico psiquiatra , explica que "..a capacidade de o crack produzir dependência é muito maior até do que a da cocaína aplicada por via endovenosa".
+Por conseguinte, autorizada a imposição do regime fechado. Ainda que o embargante não seja reincidente, consoante indicado na sentença, não se pode deixar de considerar a gravidade concreta do crime. É indisputável que o aresto impugnado se encontra alinhado à jurisprudência do Superior Tribunal de Justiça, no sentido de que "..a valoração negativa da quantidade, natureza e diversidade de entorpecentes constitui fator suficiente para a determinação do regime inicial de cumprimento da pena privativa de liberdade mais gravoso, bem como para obstar a respectiva substituição por pena restritiva de direito" (HC 340.248/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2016, DJe 29/02/2016).
+Entende esta Corte ser indispensável o apontamento de justificativa concreta e idônea para o recrudescimento do regime prisional, havendo no caso flagrante ilegalidade a ser sanada, tendo em vista que não é admissível o fundamento declinado pela instância a quo.
+Com efeito, nos termos do entendimento firmado pelo STJ, a natureza e a variedade das drogas apreendidas, associadas a uma quantidade expressiva, constituem fundamentação idônea tanto para justificar a imposição do regime mais severo, quanto para a incidência da minorante em índice inferior ao máximo e o indeferimento da substituição das penas.
+No caso, entretanto, em que pese a natureza mais gravosa do crack, a quantidade do entorpecente apreendido (80g de maconha e 6,4g de crack) não pode ser considerada significativa, de sorte a justificar o asseveramento do regime prisional.
+Assim, estabelecida a pena-base ao mínimo legal e tendo em vista a primariedade do paciente, bem como o quantum final da sanção, devida a fixação do regime prisional semiaberto, nos termos dos art. 42 da Lei n. 11.343/06, 33, § 3º e 59, do Código Penal. Confiram-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME PRISIONAL. QUANTIDADE DE DROGA INEXPRESSIVA. MONTANTE DA PENA QUE ENSEJA O REGIME INICIAL SEMIABERTO.
+1. O regime mais gravoso que o patamar de pena aplicada pode ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, conforme o teor das Súmulas n. 440/STJ e 718 e 719/STF.
+2. In casu, verificada a quantidade de droga insuficiente para, por si só, justificar regime prisional mais gravoso e o quantum da pena privativa de liberdade inferior a 8 (oito) anos, faz jus o paciente ao regime semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no HC 400.636/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA INFERIOR A 4 ANOS. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. PREENCHIMENTO DOS REQUISITOS DO ART. 44 DO CP. POSSIBILIDADE. PEQUENA QUANTIDADE DE DROGA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+(..)
+2. Sendo a quantidade de droga apreendida pequena - 9,6 gramas de cocaína e 83,8 gramas de maconha -, as circunstâncias judiciais favoráveis (art. 59 do CP), a pena-base fixada no mínimo legal e a pena aplicada em 1 ano e 8 meses de reclusão, não há justificativa para aplicar regime prisional mais gravoso e vedar a substituição da pena por restritiva de direitos, devendo ser imposto o regime aberto, bem como ser concedida a substituição da pena privativa de liberdade por duas restritivas de direitos a serem especificadas pelo Juízo das Execuções Criminais, em consonância com o disposto no art. 33, § 2º, alínea "c", e art. 44, ambos do Código Penal, e conforme a jurisprudência desta Quinta Turma.
+Agravo regimental desprovido. (AgRg no HC 423.645/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/02/2018, DJe 09/03/2018)
+Ante o exposto, concedo o habeas corpus para abrandar o regime inicial de cumprimento da pena para o semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
