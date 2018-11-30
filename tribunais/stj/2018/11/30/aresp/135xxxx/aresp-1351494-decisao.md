@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por DENISE NEU DE OLIVEIRA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. DESINCORPORAÇÃO. HIPÓTESE LEGAL PREENCHIDA. ENCOSTAMENTO PARA TRATAMENTO DE SAÚDE. LEGALIDADE. ENCOSTAMENTO PARA TRATAMENTO DE SAÚDE. LEGALIDADE.
+A existência de incapacidade para o desempenho de atividade militar, não extensiva a todo e qualquer trabalho, não impede, de per si, o licenciamento ou desincorporação do militar nas hipóteses de término do prazo de serviço de militar temporário, assegurado o tratamento de saúde, em caso de incapacidade temporária, na condição de encostado - justamente a situação dos autos.
+Opostos embargos de declaração, esses foram acolhidos somente para fins de prequestionamento.
+Na origem, trata-se de agravo de instrumento interposto em face de decisão que, em ação de procedimento comum, indeferiu pedido de tutela de urgência para a reintegração da autora às Forças Armadas, com direito de percepção de remuneração.
+No recurso especial, o recorrente aponta violação dos arts. 1º, III, e 196, ambos da CF/88; 106, III, 50, 108, 109, 110 e 111, todos da Lei nº 6.880/80; e 300 e 1.019, I, e 1.022, I e II, do CPC/15.
+Sustenta que o acórdão recorrido foi omisso e contraditório, uma vez que não se manifestou expressamente sobre os regramentos apontados como violados.
+No mérito, afirma, em síntese, que o dano se configurou pela falta de pagamentos da sua remuneração e/ou vencimentos, uma vez que a jurisprudência pátria lhe conferiria o direito de permanecer integrada às Forças Armadas até que se cesse sua enfermidade.
+Aduz que é direito assegurado ao militar, independentemente de ser temporário ou de carreira, o tratamento de saúde necessário para a recuperação de suas lesões, uma vez que quando de sua incorporação, gozava de boa saúde física, devendo ser reincorporado até o final de seu tratamento.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido ao fundamento de que resta prejudicado o apelo excepcional interposto contra acórdão que examinou agravo de instrumento de decisão que outorga ou nega liminar ou antecipação de tutela, quando se verifica a prolação de sentença de mérito.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+O entendimento da jurisprudência desta Corte é de que fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença.
+Confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISSQN. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE TUTELA DA EVIDÊNCIA. DEFERIMENTO. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO ESPECIAL.
+(..)
+III - O entendimento da jurisprudência desta Corte é de que "fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença" (AgRg no AREsp n. 51.857/SP, Rel. Ministro João Otávio de Noronha, TERCEIRA TURMA, DJe 26/5/2015). No mesmo sentido: AgInt no REsp 1690253/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018; REsp 1691928/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 10/10/2017; AgInt no AREsp 984.793/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017.
+IV - Agravo em recurso especial conhecido, para não conhecer do recurso especial.
+(AREsp 1145051/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/09/2018, DJe 12/09/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO QUE EXAMINOU TUTELA ANTECIPADA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A Corte Especial do STJ firmou o entendimento de que, na hipótese de deferimento ou indeferimento da antecipação de tutela, a prolatação de sentença meritória implica a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal, uma vez que: a) a sentença de procedência do pedido - que substitui a decisão deferitória da tutela de urgência - torna-se plenamente eficaz ante o recebimento da apelação tão somente no efeito devolutivo, permitindo desde logo a execução provisória do julgado (art. 520, VII, do CPC/1973); b) a sentença de improcedência do pedido tem o condão de revogar a decisão concessiva da antecipação, ante a existência de evidente antinomia entre elas. 3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 774.844/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 07/08/2018)
+Na hipótese, o recurso especial foi protocolado em 07/11/2017 (fls. 106-145 - Vol. 1), enquanto a sentença ordinária foi prolatada em 22/02/2018 (fls. 685-690 - AP 2), sendo, portanto, superveniente ao apelo especial.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
