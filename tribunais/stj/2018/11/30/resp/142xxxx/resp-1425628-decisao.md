@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENGENHARIA ARQUITETURA E AGRONOMIA DO ESTADO DO PARANÁ CREA/PR, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 665):
+EMBARGOS À EXECUÇÃO FISCAL. CREA. MUNICÍPIO. AUSÊNCIA DE ART. RESPONSABILIDADE DA EMPRESA CONTRATADA.
+Filio-me ao entendimento desta Corte no sentido de que É a empresa contratada mediante procedimento licitatório a responsável pela contratação de profissional regularmente inscrito no conselho, devendo ela, e não o município, ser penalizada pela ausência de ART (Anotação de Responsabilidade Técnica). (..). (TRF4, AC 2001.04.01.049118-5, Quarta Turma, Relator Joel Ilan Paciornik, DJ 31/07/2002).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, o recorrente aponta violação do art. 67 da Lei n. 8.666/1993 e do art. 6º, "a", da Lei n. 5.194/1966.
+Sustenta, em síntese, que (e-STJ fl. 698) "cabia ao ente público contratante averiguar a regularidade da empresa contratada no tocante aos requisitos legais dispostos na Lei 8.666/93 quanto à qualificação técnica e profissional, bem como o cumprimento das exigências legais, principalmente a Anotação de Responsabilidade Técnica".
+Sem contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Considerado isso, no que toca à ofensa ao art. 67 da Lei n. 8.666/1993 e ao art. 6º, "a", da Lei n. 5.194/1966, verifica-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento, sendo necessária a interposição de recurso especial por afronta ao art. 535 do então vigente Código de Processo Civil, sob pena de perseverar o referido óbice. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
