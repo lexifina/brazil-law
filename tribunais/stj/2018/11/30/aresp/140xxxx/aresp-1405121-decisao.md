@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM COBRANÇA. CONTRATO. LIBERDADE DAS FORMAS. ARTIGO 107 DO CÓDIGO CIVIL. PRESTAÇÃO DE SERVIÇOS. VÍNCULO VERBAL. NÃO COMPROVADO. DISTRIBUIÇÃO DO ÔNUS DA PROVA. DIREITO CONSTITUTIVO NÃO DEMONSTRADO. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+1. Nos termos do artigo 107 do Código de Processo Civil, o Direito Contratual adota, como regra, a liberdade das formas, exigindo-se a solenidade apenas nos casos previstos em Lei.
+2. Nos contratos de prestação de serviço, admite-se o vínculo verbal. Nesses casos, faz-se desnecessária a apresentação de documento solene, sendo suficiente a comprovação da existência do vínculo, bem como dos termos e das condições pré -estabelecidos entre os envolvidos.
+3. Segundo as regras de distribuição do ônus da prova, cabe ao autor demonstrar os fatos constitutivos de seu direito; e ao réu comprovar a existência de fato impeditivo, modificativo ou extintivo da pretensão deduzida. Diante da inexistência de provas da existência do vínculo material entre as partes, a pretensão autoral deve ser indeferida.
+4. Apelação conhecida e desprovida." (e-STJ, fl. 291)
+Nas razões do recurso especial, a parte agravante alega violação aos artigos 107 e 884, do CC, aduzindo, em suma, a existência de acordo verbal para prestação de serviços de consultoria na reforma de uma piscina e de outras áreas comuns do condomínio, o que ensejaria a isenção dos valores referentes às taxas condominiais no período de março de 2.014 a maio de 2.015, sob pena de resultar em enriquecimento indevido do recorrido.
+É o relatório. Decido.
+A irresignação não prospera.
+No que tange à existência de prestação de serviço da ora recorrente em favor do recorrido, concluiu a Corte a quo:
+"Conclui-se, então, que, a despeito da inexistência de contrato escrito entre os litigantes, a recorrente não conseguiu demonstrar a existência de vínculo material de prestação de serviço.
+Ocorre que, de acordo com a dinâmica do ônus probatório, estabelecida no artigo 373, I, do Código de Processo Civil, cabe ao autor comprovar os fatos constitutivos de seu direito. Diante da insuficiência de provas da pretensão autoral, a Sentença na qual foram indeferidos os pedidos não merece reforma. No mesmo sentido:
+(..)
+Importa ressaltar que necessidade de comprovação do direito não se verte em mero formalismo processual, mas sim em imperativo necessário ao Devido Processo Legal, como forma de resguardar a Segurança Jurídica e a Efetividade na entrega da tutela."(e-STJ, fls. 296/297 - grifou-se).
+Ocorre que a parte recorrente não rebateu de forma específica e suficiente referida fundamentação, autônoma e suficiente à manutenção do aresto hostilizado, a qual permaneceu incólume, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3. A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/10/2014, DJe 29/10/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS O ACÓRDÃO HOSTILIZADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO REGIMENTAL NÃO PROVIDO.
+1.. A falta de impugnação objetiva e direta aos fundamentos do acórdão recorrido, denota a deficiência da fundamentação recursal que apegou-se a considerações secundárias eque de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2. A análise da retensão recursal, a fim de se examinar a validade da perícia realizada, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos o enunciado da Súmula 7 do STJ.
+3. Inviável o conhecimento do recurso ela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+4. Agravo regimental não provido, com aplicação de multa." (AgRg no AREsp 69.414/SP, Rel. Ministro LUIS FELIPE SALOMÃO , QUARTA TURMA, julgado em 02/10/2014, DJe 16/10/2014) ; b) a ausência do dever de indenizar a título de dano moral, porquanto não foi apontado qualquer abalo que tenha experimentado o recorrido em razão do atraso na entrega do empreendimento, pelo contrário, expressamente, o Tribunal a quo entendeu pela presunção do dano moral; e, c) a necessidade de redução do quantum indenizatório fixado, ante a sua excessividade.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de R$ 1.000,00 (mil reais) para R$ 1.100,00 (mil e cem reais).
+Publique-se.
