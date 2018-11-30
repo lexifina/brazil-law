@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0223540-37.2013.8.19.0001, relator o Desembargador João Ziraldo Maia).
+Consta dos autos que o paciente, denunciado pela prática do crime descrito no art. 180 do Código Penal, foi absolvido em primeiro grau, na forma do art. 386, inciso VII, do Código de Processo Penal.
+Inconformado, o Ministério Público interpôs apelação. O Tribunal de origem deu provimento ao recurso, condenando o paciente à pena de 1 (um) ano de reclusão, a ser cumprida inicialmente em regime semiaberto, e ao pagamento de 10 (dez) dias-multa. Eis a ementa (e-STJ fl. 15):
+APELAÇÃO. RECEPTAÇÃO DOLOSA. ABSOLVIÇÃO. INSURGÊNCIA MINISTERIAL QUE MERECE ACOLHIDA. A prova produzida não é fraca, já que ambos os militares atestaram que um elemento foi preso em flagrante quando saía de um beco na comunidade Final Feliz, no Complexo do Chapadão, conduzindo uma motocicleta produto de roubo, tendo sido este elemento conduzido à autoridade policial. Com efeito, não se pode negar a validade da prova indiciária, também chamada circunstancial, que deve ser valorada, posto reconhecida pelo sistema do livre convencimento - adotado pelo Código de Processo Penal em seus artigos 155 e 239 -, e estas, conjugadas, demonstram um quadro probatório seguro e coeso para fundamentar um decreto condenatório. RECURSO PROVIDO.
+No presente writ, a Defensoria Pública sustenta que o paciente sofre constrangimento ilegal, pois "o recebimento da inicial acusatória ocorreu em 24 de julho de 2013, já a decisão de segunda instância é datada de 19 de junho de 2018, portanto, ultrapassado o lapso temporal de 04 (quatro) anos entre o recebimento da inicial e a decisão condenatória" (e-STJ fl. 4).
+Afirma, nesse sentido, que, "quando prolatado o acórdão em questão, já teria ocorrido efetivamente a prescrição da pretensão punitiva de forma retroativa, ou seja: no período de tempo transcorrido entre o acórdão e o recebimento da denúncia" (e-STJ fl. 4).
+Requer, liminarmente, a suspensão da execução até o julgamento do mérito do presente habeas corpus. No mérito, busca a declaração da extinção da punibilidade, pela ocorrência da prescrição da pretensão punitiva, na modalidade retroativa, em conformidade com o disposto no art. 107, IV, do Código Penal.
+O pedido liminar foi deferido (e-STJ fls. 22/24).
+Ouvido, o representante do Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fl. 41).
+É, em síntese, o relatório.
+Consoante relatado, a impetração objetiva a extinção da punibilidade do paciente, nos termos do art. 107, inciso IV, do Código Penal.
+A denúncia foi recebida em 24 de julho de 2013.
+O acórdão condenatório foi publicado em 19 de junho de 2018.
+Nesse tear, considerando a pena de 1 (um) ano e o prazo do art. 109, inciso V, do Código Penal - 4 (quatro) anos -, reconheço que foi extinta a punibilidade em razão da prescrição retroativa, contado o tempo decorrido entre o recebimento da denúncia e a publicação do acórdão condenatória.
+Com objetivo de esclarecer inteiramente a questão, transcrevo os fundamentos apresentados pelo Ministério Público Federal em seu parecer:
+O Ministério Público Federal vem, nos autos do processo em epígrafe, manifestar-se pelo seguimento do presente habeas corpus, ainda que se trate de writ substitutivo de recurso próprio, face à manifesta irregularidade, uma vez que deve ser declarada extinta a punibilidade pela prescrição da pretensão punitiva retroativa - haja vista ter havido o transcurso do prazo prescricional de 4 anos entre a data do recebimento da denúncia (em 24/07/2013) e a publicação da sentença (em 19/06/2018).
+Ante o exposto, concedo a ordem a fim de declarar, em razão da prescrição, extinta a punibilidade em relação ao paciente, processo n. 0223540-37.2013.8.19.0001.
+Publique-se. Intimem-se.
