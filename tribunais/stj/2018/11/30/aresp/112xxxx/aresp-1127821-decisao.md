@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão do Tribunal de Justiça do Estado de São Paulo, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão, assim ementado (e-STJ fl. 347):
+1. Nos termos da Lei nº 9.032/95, que incluiu o inciso V, no artigo 124, da Lei nº 8.213/91, é vedada a acumulação de dois auxílios-acidentes, devendo, entretanto, o primeiro incorporar o cálculo do salário de benefício do segundo.
+2. A autarquia, por força de lei, está isenta do pagamento das custas do processo.
+3. No tocante aos juros e correção monetária, observo que, os respectivos índices deverão ser definidos na fase de execução, considerando o julgamento -das ADIS nºs. 4.357 e 4.425, pelo Plenário do Colendo Supremo Tribunal Federal.
+No especial obstaculizado, o recorrente apontou violação do art. 124, V, da Lei 8.213/1991, sob o argumento de que a incorporação do valor do benefício acidentário anterior na renda mensal do auxílio-acidente concedido nesta demanda constitui cumulação de benefícios vedada expressamente pela legislação federal, sendo inaplicável, à espécie, a Súmula 146 do STJ.
+Após apresentação de contrarrazões (e-STJ fls. 361/364), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que não foram cumpridos os requisitos legais para seguimento do recurso especial.
+Na presente irresignação, o agravante sustenta que foram satisfeitos todos os requisitos para admissão do apelo nobre.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que foram preenchidos os requisitos de admissibilidade do agravo, motivo pelo qual passo a analisar o recurso especial de e-STJ fls. 354/358.
+O acórdão recorrido, ao entender que, sendo o autor beneficiário de auxílio-acidente e vítima de novo infortúnio, fica assegurado o recálculo de seu benefício, somando-se ao salário de contribuição do período básico de cálculo o valor do benefício que percebe, decidiu em consonância com a Súmula 146 do Superior Tribunal de Justiça, que disciplina: "O segurado vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição do dia do acidente".
+Nesse mesmo sentido:
+Previdenciário. Auxílio-acidente. O segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário-de-contribuição vigente no dia do acidente, a teor da Súmula nº 146/STJ. Embargos conhecidos e recebidos (EREsp 128761/SP, Rel. Ministro COSTA LEITE, Corte Especial, DJ 03/11/1998).
+EMBARGOS DE DIVERGÊNCIA. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. INACUMULABILIDADE DE BENEFÍCIOS. SÚMULA Nº 146 DO STJ. RECEBIMENTO DOS EMBARGOS.
+Assentou o enunciado da Súmula nº 146 que o segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição vigente no dia do acidente (EREsp 120.323/SC, Rel. Ministro HÉLIO MOSIMANN, Corte Especial, DJ 13/03/2000).
+PROCESSUAL E TRABALHO. AUXÍLIO-ACIDENTE. ACUMULAÇÃO. IMPOSSIBILIDADE. BENEFICIO ÚNICO. FIRMOU-SE A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NO SENTIDO DE QUE, SE O SEGURADO SOFRE NOVO ACIDENTE SEM RELAÇÃO COM O ANTERIOR, FAZ JUS A UM SÓ BENEFICIO DEVIDAMENTE REAJUSTADO (EREsp 12628/SP, Rel. Ministro JESUS COSTA LIMA, Terceira Seção, DJ 20/03/1995).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
