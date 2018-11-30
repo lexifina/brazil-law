@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão prolatado pelo Tribunal de Justiça estadual.
+Depreende-se dos autos que o recorrido foi condenado, como incurso nas sanções do art. 16, caput, da Lei n. 10.826/2003, à pena de 4 anos e 8 meses de reclusão, a ser cumprida no regime inicial fechado.
+Irresignada, a defesa interpôs recurso de apelação, que foi provido pelo Tribunal de origem, para "reduzir a pena a três (3) anos de reclusão, no regime semiaberto, além do pagamento de dez (10) dias-multa, mantendo-se, no mais, a respeitável sentença recorrida" (e-STJ fl. 244).
+Opostos embargos de declaração, foram eles rejeitados (e-STJ fls. 268/271).
+Daí o recurso especial, no qual o recorrente aponta violação ao disposto nos arts. 59 e 61, I, ambos do Código Penal, ao argumento de que, "no caso presente, verifica-se que os fatos utilizados para aplicação da agravante da reincidência (autos n. 0000014-11.2013.8.26.0266, trânsito em julgado em 23/11/2015 - fls.93, autos principais) não foram os mesmos utilizados para elevação da pena-base (autos n. 0010352-66.2008.8.26.0477, trânsito em julgado em 24/05/2013 - fls. 95, autos principais). Assim, não houve utilização dos mesmos fatos como circunstância judicial do art. 59, CP e para agravante de reincidência, não se verificando, pois, "bis in idem"" (e-STJ fl. 291).
+Requer, desse modo, a reforma do acórdão impugnado, na parte em que afastou o aumento de pena do recorrido pelos maus antecedentes.
+Contrarrazões às e-STJ fls. 320/324.
+Instado a se manifestar, o Ministério Público opinou pelo provimento do recurso especial (e-STJ fls. 342/343).
+É o relatório.
+Decido.
+Assiste razão ao recorrente.
+É que, na linha da jurisprudência desta Corte Superior, "O conceito de maus antecedentes, por ser mais amplo, abrange não apenas as condenações definitivas por fatos anteriores cujo trânsito em julgado ocorreu antes da prática do delito em apuração, mas também aquelas transitadas em julgado no curso da respectiva ação penal, além das condenações transitadas em julgado há mais de cinco anos, as quais também não induzem reincidência, mas servem como maus antecedentes. Precedentes (HC 310.467/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/05/2015, DJe 02/06/2015)" (HC n. 337.068/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2016, DJe 28/6/2016).
+No ponto, acerca da dosimetria, o Tribunal de origem consignou o seguinte (e-STJ fl. 426):
+O cálculo da pena merece reparos. O juízo considerou antecedentes desabonadores resultantes de processos anteriores, para um primeiro acréscimo e, depois, impôs outro pela reincidência (fl. 95). Quando antecedentes e reincidência decorrem de processos findos, somente a agravante deve influir no cálculo da pena, para evitar o bis in idem 1, nos termos da Súmula 241 do Superior Tribunal de Justiça: "A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial." Assim, a pena na primeira fase da dosimetria é trazida ao mínimo, de 3 anos de reclusão e 10 dias-multa.
+Verifica-se, portanto, que o acórdão recorrido está em desacordo com a orientação firmada neste Tribunal.
+É forçoso, desse modo, o redimensionamento da pena, para considerar negativa a circunstância judicial relativa aos antecedentes do recorrido. Assim, estabeleço a pena-base em 1/6 acima do mínimo legal, fixando-a em 3 anos e 6 meses, pena que deve ser considerada definitiva, nos termos da dosimetria perpetrada pelo Tribunal de origem.
+Ante o exposto, dou provimento ao recurso especial, para, reconhecendo os maus antecedentes do recorrido, estabelecer a reprimenda em 3 anos e 6 meses de reclusão, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
