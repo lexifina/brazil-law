@@ -1,0 +1,35 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RAZÕES RECURSAIS QUE NÃO PERMITEM A EXATA COMPREENSÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de ADRIANO HENRIQUE MOTA DE MORAIS manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+O juízo singular condenou o agravante como incurso nas sanções do artigo 33 da Lei n. 11.343/2006, à pena de 2 (dois) anos e 6 (seis) meses de reclusão, no regime inicial aberto, e 250 (duzentos e cinquenta) dias-multa, operando-se, na ocasião, a substituição da pena privativa de liberdade por restritiva de direitos (fls. 347-385).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 520-534).
+No recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega:
+(i) "torna-se insustentáveis as afirmações contidas, vez que, ficou evidente que o denunciado não cometeu o delito de traficância, não podendo ser penalizado por atos que não cometeu" (fl. 587);
+(ii) "não há nenhuma prova na fase inquisitorial ou judicial, que comprove o referido dolo, ou seja, a vontade livre e consciente de realizar a conduta típica prevista no artigo 33 da Lei de Tóxicos" (fl. 588);
+(iii) " a  pretensão do apelante de redução da reprimenda aplicada deve ser acolhida, pois o condenado tem bons antecedentes, não havendo indícios de que sua personalidade é voltada para o crime, além de não existir nada a desabonar a sua conduta social, os motivos são próprios do tipo" (fl. 594).
+Contrarrazões às fls. 619-625.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 284 STF (fl. 628).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice (fls. 637-645).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 678-681).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Todavia, da análise das alegações recursais, verifica-se incidir à espécie a Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. ALEGAÇÃO DE NULIDADE NO JULGAMENTO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284/STF. DOSIMETRIA. UTILIZAÇÃO DE CRITÉRIO MATEMÁTICO E CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE DEBATE DA TESE EM PLENÁRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Considera-se deficiente a fundamentação do recurso que não aponta o dispositivo legal violado pelo acórdão recorrido. Incidência da Súmula n. 284 do Supremo Tribunal Federal.
+2. As teses referentes ao descabimento da utilização do critério matemático na primeira fase da dosimetria penal e à necessidade de aplicação da atenuante da confissão espontânea não foram objeto de análise pela Corte local, faltando-lhes, portanto, o indispensável requisito do prequestionamento. Incidência das Súmulas n. 282 e 356/STF.
+3. "Nos casos de julgamentos pelo Tribunal do Júri, o juiz só pode utilizar na dosimetria penal as agravantes e as atenuantes alegadas nos debates em plenário. Súmula 568/STJ." (AgInt no REsp 1633663/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 9/3/2017, DJe 16/3/2017) 4. Agravo regimental desprovido" (AgRg no AREsp n. 1.050.159/TO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 07/05/2018, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR (ART. 302, CAPUT, DO CÓDIGO DE TRÂNSITO BRASILEIRO). PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA DE PROVAS. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE PROVAS. NÃO CABIMENTO.
+1. Concluindo a Corte de origem, a partir da análise do arcabouço probatório existente nos autos, acerca da autoria e materialidade delitiva assestadas ao denunciado, considerando que o réu trafegava em velocidade muito superior à permitida para a via, fato que resultou na morte da vítima, a desconstituição do julgado no intuito de abrigar o pleito defensivo absolutório por insuficiência de provas ou culpa exclusiva do ofendido, não encontra espaço na via eleita, porquanto seria necessário a este Tribunal Superior de Justiça aprofundado revolvimento do contexto fático-probatório, providência incabível em Recurso Especial, conforme já assentado pela Súmula n. 7/STJ.
+PLEITO DE EXCLUSÃO DA PENA DE MULTA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284 DO STF. RECURSO IMPROVIDO.
+1. Deixando a defesa de indicar o dispositivo legal apontado como violado, verifica-se patente a deficiência na fundamentação do apelo extremo, o que impossibilita a exata compreensão da controvérsia, fazendo incidir, na espécie, o óbice previsto na Súmula n. 284/STF.
+2. Agravo regimental improvido" (AgRg no AREsp n. 1.119.058/GO, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/04/2018, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO CULPOSO NO TRÂNSITO EM CONCURSO FORMAL COM 03 LESÕES CORPORAIS CULPOSAS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL COMPETÊNCIA DO STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE MALFERIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INDEFERIMENTO DE PERÍCIA. SÚMULA 7/STJ.
+1. Não é cabível no julgamento por este Superior Tribunal de Justiça do recurso especial a análise de suposta violação de dispositivo constitucional, sendo o exame de matéria constitucional da competência do Supremo Tribunal Federal, nos termos do artigo 102, inciso III, da Carta Magna.
+2. Não tendo sido indicado nas razões do recurso especial, interposto com amparo na alínea "a" do permissivo constitucional, o dispositivo legal que supostamente teria sido violado pelo acórdão recorrido, tem aplicação, por analogia, o disposto na Súmula n. 284 do Excelso Pretório.
+3. Além de não ser devido nesta instância extraordinária o exame acerca da necessidade da perícia pleiteada pela defesa, em razão da vedação da Súmula 7/STJ, é sabido que, de acordo com o princípio do livre convencimento motivado, "a produção de provas é ato norteado pela discricionariedade regrada do julgador, podendo ele, portanto, soberano que é na análise dos fatos e das provas, indeferir motivadamente as diligências que considerar protelatórias e/ou desnecessárias" (AgRg no AREsp 186.346/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 21/09/2012).
+4. Agravo regimental improvido" (AgRg no AgRg no AREsp n. 988.165/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 09/02/2017, grifei).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
