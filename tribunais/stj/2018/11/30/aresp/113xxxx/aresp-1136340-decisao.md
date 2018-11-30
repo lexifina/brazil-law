@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por Banco Santander (BRASIL) S.A. contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Embargos à execução - Fundação PROCON - Autuação de instituição financeira por práticas abusivas - Envio de cartão de crédito sem prévia e expressa solicitação do consumidor - Negativação de consumidora por obrigação adimplida - Violação aos artigos 20, §2º, c 39, III, do Código de Defesa do Consumidor - Multa mantida - Valor da multa calculado com observância do disposto no artigo 57 do Código de Defesa do Consumidor e dos critérios estabelecidos na Portaria nº 26/2006 - Controle judicial - Ausência de ilegalidade ou ilegitimidade - Recurso desprovido.
+No recurso especial, o recorrente aponta violação dos arts. 20, § 2º; 39, III e 57, todos do Código de Defesa do Consumidor; 50, II, da Lei n. 9.784/1999; 24, I; 25, III e 28, todos do Decreto n. 2.181/1997.
+Sustenta, em síntese, que (i) o envio de cartão de crédito, sem a prévia solicitação do cliente, e a cobrança de valor já adimplido pelo consumidor não podem ser considerados como prática de serviço impróprio a ensejar a aplicação de multa à empresa e que (ii) o valor da multa imposta demonstra-se exorbitante, tendo em vista que não foi considerada a real condição econômica do estabelecimento comercial e as circunstâncias atenuantes legalmente previstas.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido em decorrência de ausência de contrariedade a dispositivos de legislação federal.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Com relação à possibilidade de aplicação de multa em virtude do envio de cartão de crédito sem a prévia solicitação do consumidor, o Superior Tribunal de Justiça, após reiterada jurisprudência, editou a Súmula n. 532, a qual expressamente prevê a imposição da mencionada sanção administrativa ora debatida nos autos, ipsis litteris:
+Súmula n. 532
+Constitui prática comercial abusiva o envio de cartão de crédito sem prévia e expressa solicitação do consumidor, configurando-se ato ilícito indenizável e sujeito à aplicação de multa administrativa.
+Por outro lado, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca do dever da empresa de manter um sistema seguro e preciso de cobrança, capaz de evitar a exigência de quantia já adimplida pelo consumidor, foi utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo e não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+No que concerne ao valor da multa ora imposta, o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou, à fl. 432, que "O Decreto nº 2.181/1997, por sua vez, estabelece as normas gerais de aplicação das sanções administrativas (..)", concluindo, em seguida, que "pelo demonstrativo de cálculo da multa (fls. 05 - apenso), verifica-se que a penalidade foi fixada segundo critérios objetivos previstos na Portaria nº 26/2006 do Procon, vigente à época do arbitramento."
+Deve-se destacar, ainda, que o mencionado decreto é o responsável, também, pela fixação das atenuantes na dosimetria da multa administrativa, ou seja, é inegável que o julgador a quo, ao examinar o acerco fático, considerou que o valor da sanção aplicada está em consonância com as orientações estabelecidas na legislação.
+Dessa forma, verifica-se que a irresignação do recorrente, acerca do montante atinente à multa aplicada, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
