@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME], em face de acórdão assim ementado (fl. 162):
+RESPONSABILIDADE CIVIL. RESPONSABILIDADE PELO FATO DA COISA. ART. 938, CC. DESPRENDIMENTO DE TELHADO DE PRÉDIO. VENDAVAL. QUEDA DO OBJETO SOBRE CASAS DE MORADIA VIZINHAS. AUSÊNCIA DE EXCLUDENTES DE RESPONSABILIDADE. DEVER DE INDENIZAR. DANOS MATERIAIS CONFIGURADOS.
+Episódio de desprendimento e queda de telhado de estabelecimento comercial. Objeto caído sobre casas de moradia vizinhas, causando danos materiais.
+Fatos que se enquadram na tipificação do art. 938 do Código Civil. O dono da coisa é seu guardião e, nesta condição, assume a obrigação de segurança em relação a ela. A responsabilidade civil pelo fato da coisa é de ordem objetiva, exonerando-se o proprietário do dever de indenizar quando provada força maior, fato exclusivo da vítima e/ou de terceiro. Inocorrentes no caso em tela.
+Caso em quê evidenciada a responsabilidade civil do requerido pelos danos materiais causados.
+Sentença mantida.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 184/191).
+Nas razões do especial, o ora agravante pretende seja atribuído efeito suspensivo ao recurso especial. No mérito, alega afronta aos arts. 466 e 473, IV, §§ 1º e 2º, do Código de Processo Civil/2015, bem como dissídio jurisprudencial. Argui que "a prova pericial não pode ser realizada por amostragem, como no caso dos autos, tornando-a nula e precária uma vez que genérica" (fl. 202).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, em relação à pretensão de efeito suspensivo, o recorrente não demonstrou a excepcionalidade necessária para a sua concessão, o que inviabiliza o pedido. Nesses termos:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA INDEFERINDO O PEDIDO, DIANTE DA AUSÊNCIA DO NECESSÁRIO FUMUS BONI IURIS. INSURGÊNCIA DOS REQUERENTES.
+1. A atribuição de efeito suspensivo aos recursos extraordinários reveste-se de caráter excepcional, justificando-se apenas diante da presença de elementos que demonstrem a probabilidade do direito alegado e o perigo de dano ou risco ao resultado útil do processo (CPC/15, arts. 300, 995 e 1.029, § 5º, I).
+2. Na hipótese dos autos, não se evidenciou a configuração do fumus boni iuris, pois, em sede de cognição sumária, infere-se ausente a plausibilidade de êxito do agravo em recurso especial, o qual, em tese, viola o princípio da dialeticidade, bem assim do próprio apelo extremo, porquanto, perfunctoriamente, verifica-se inocorrente o necessário prequestionamento dos dispositivos apontados como malferidos.
+3. Em atenção ao princípio da unirrecorribilidade recursal, é vedada a interposição de mais de um recurso a fim de impugnar o mesmo decisum.
+4. Agravo interno de fls. 209-216, e-STJ, desprovido e agravo interno de fls. 221-239, e-STJ, não conhecido. (AgInt no PEDIDO DE TUTELA PROVISÓRIA Nº 996 - CE, QUARTA TURMA, Relator Ministro MARCO BUZZI, DJe de 27/11/2017)
+No mais, no que concerne aos dispositivos apontados como violados, as matérias deles constantes não foram objeto de debate pela Corte de origem. Assim, ressentindo-se o especial do requisito de prequestionamento, exigido inclusive para as matérias de ordem pública, e não tendo sido opostos embargos de declaração com vistas a sanar tal vício, inviabilizada a apreciação do recurso por esta Corte, por se tratar de óbice intransponível contido nos enunciados 282 e 356 da Súmula do STF.
+Ainda que assim não fosse, a Corte de origem, com base nos fatos e provas dos autos, concluiu pela comprovação do dano, bem como pela responsabilidade da parte ora recorrente, assim se pronunciando (fls. 166/170):
+Na hipótese em análise, trata-se de responsabilidade civil objetiva pelo fato da coisa, segundo a qual o dono da coisa, é, presumivelmente, seu guardião, e, nesta condição, assume a obrigação de segurança em relação a ela, devendo vigiá-la de modo a evitar danos a terceiros.
+A responsabilidade civil pelo fato da coisa é de ordem objetiva, podendo o proprietário exonerar-se do dever de indenizar apenas quando provar a ruptura do liame causal, seja por força maior, fato exclusivo da vítima e/ou de terceiro.
+(..)
+A hipótese dos autos - queda de telhado - se enquadra na responsabilidade civil por coisas caídas do prédio, situação disciplinada no artigo 938 do Código Civil, consoante segue:
+(..)
+No caso em análise, descabe a alegação de força maior em decorrência do vendaval, uma vez que, segundo relatório de dados metereológicos nº 016/2013 (fl. 19), a velocidade da rajada máxima do vento no dia do evento danoso foi de 83,8 km/h, a qual não causou maiores danos às residências vizinhas.
+A prova pericial (fls. 105/110) confirma a tese de que não restou configurada a excludente de responsabilidade no caso, (..)
+Assim sendo, por se tratar de responsabilidade objetiva, ausentes as excludentes de responsabilidade, basta a comprovação do dano e do nexo de causalidade.
+Com relação ao dano, este restou provado pela análise do conjunto probatório, consistente nas fotografias de fls. 21/36 e laudo técnico de fls. 39/41. No que se refere ao nexo de causálidade, é incontroverso nos autos o fato de que o telhado se desprendeu do prédio do demandado e atingiu as casas das requerentes.
+A prova pericial (fls. 105/110) corrobora a situação fática narrada pelas autoras.
+(..)
+Ora, voltando-se para o caso em comento, é induvidoso que se o telhado não tivesse se desprendido e caído sobre as residências das autoras o dano teria sido evitado.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Acrescente-se que, nos moldes da jurisprudência desta Corte, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EXECUTADOS/EMBARGANTES.
+(..)
+2. Consoante o princípio do livre convencimento motivado do juiz, este é o destinatário final das provas, de modo que cabe a ele decidir quanto à necessidade ou não dessas, não configurando cerceamento de defesa a decisão pelo julgamento antecipado do feito ou o indeferimento do pedido de produção probatória, especialmente quanto o magistrado entender que os elementos contidos nos autos são suficientes para formar seu convencimento. Precedentes. Incidência das Súmulas 7/STJ e 83/STJ.
+3. A reforma do acórdão estadual, no sentido pretendido pela parte recorrente, exigiria ilidir a convicção formada nas instâncias ordinárias sobre as cláusulas da avença firmada entre as partes e sobre a existência de determinação, por parte do BNDES, para que a casa bancária não realizasse o repasse das verbas. Incidência das Súmulas 5/STJ e 7/STJ.
+4. A revisão dos valores arbitrados a título de honorários advocatícios, bem como da distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, providência incabível em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno desprovido. (AgInt no AREsp 374.153/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+Acrescente-se que não foram devidamente impugnadas as razões expostas pela origem, não havendo a recorrente, sequer, apontado violação do art. 938 do Código Civil, utilizado como razão de decidir. Assim, inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal se, como no caso dos autos, não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do RISTJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e, nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
