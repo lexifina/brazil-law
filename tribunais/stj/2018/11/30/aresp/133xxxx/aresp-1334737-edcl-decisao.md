@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interpostos por [NOME] contra decisão que não conheceu do agravo em recurso especial devido ao óbice da Súmula 182 do STJ (e-STJ, fls. 334/336).
+A embargante aduz que (e-STJ, fls. 340/341):
+As obscuridades e omissões constantes da respeitável decisão monocrática, ora embargada, são as seguintes:
+a) No relatório, segundo parágrafo, consta "em oposição a acórdão do TRF da 2ª Região assim ementado (e-STJ, fl. 269) - OBSCURIDADE - Não é desse acórdão que se recorre.
+b) Os embargos de declaração foram rejeitados - OBSCURIDADE - Esta Corte determinou a necessidade de reapreciação dos Embargos de Declaração para esclarecer este Superior Tribunal de Justiça e, no entanto, a ordem não foi obedecida.
+c) No Relatório V Exa. afirmou, no último parágrafo de e-STJ Fl. 334 "Aduz, em suma, que, apesar da declaração a destempo do tributo, seu pagamento foi realizado de forma espontânea, fazendo jus aos benefícios decorrentes.
+- OBSCURIDADE - Isso jamais foi dito. O tributo não foi pago. Está d) A parte decisória inicia-se com a afirmação: "No agravo em recurso especial, verifica-se que a parte insurgente não impugnou os fundamentos da decisão combatida. Limita-se à breve referência de sua tese recursal, não tratando de buscar no acórdão fundamento necessário para que não fosse aplicada a Súmula 7/STJ.
+- OBSCURIDADE - Os argumentos são basicamente os mesmos que geraram o conhecimento e provimento do Agravo em Recurso Especial de e- STJ Fls. 243, sento também V. Exa. o relator quanto, naquela oportunidade, V Exa. entendeu não incidir a Súmula 7.
+e) No quinto parágrafo de e-STJ Fl. 335, consta a afirmação: "Nesse contexto, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível".
+- OBSCURIDADE - Jamais se pretendeu nenhuma prova ou sua revaloração, apenas o cumprimento de texto de lei federal.
+f) No parágrafo seguinte consta: "Com efeito, torna-se necessário o confronto específico dos pressupostos, a fim de demonstrar o desacerto da decisão, o que não ocorreu na espécie." - OBSCURIDADE - Não só houve o necessário confronto como também é de se destacar o fato quer este feito retorna ao STJ em cumprimento de decisão anterior.
+g) A seguir, consta:
+Ademais, "a jurisprudência desta Corte orienta-se no sentido de que o cabimento de mandado de segurança pressupõe a existência de direito líquido e certo, vale dizer, aquele comprovável mediante prova pré- constituída, sendo vedada, portanto, a dilação probatória" (EDcl no RMS 54.093/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/4/2018).
+No caso dos autos, a instância ordinária expressamente consignou que (e-STJ, fl. 267):  ..  a Impetrante não instruiu o processo com as declarações relativas ao período em questão e os DARF"s que comprovariam o pagamento, tornando-se impossível atestar se o recolhimento em atraso se deu antes da apresentação da declaração ao Fisco, bem como se houve pagamento integral. Além disso, a cópia trazida à fl. 58 não pode ser considerada, tendo em vista que a via do mandado de segurança não comporta produção de prova no curso do processo. (grifos acrescidos) - OBSCURIDADE - Não há DARF algum! O tributo foi depositado à disposição do Juízo de Primeiro Grau e lá está até hoje!. A omissão, por sua vez, consiste na nã apreciação dos verdadeiros argumentos expostos quando da interposição do Recurso Especial e do que foi deduzido no respectivo Agravo em Recurso Especial
+É o relatório.
+Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+Com efeito, ao contrário do que pretende fazer crer a embargante, não se verifica, no julgado questionado, as suscitadas omissões ante a deficiência construtiva da peça de agravo.
+Ademais, o não conhecimento do recurso na espécie, com fundamento no óbice imposto pela Súmula 182 do STJ, impede o exame das respectivas questões de mérito. Não há falar, portanto, em omissão ou contradição quanto à análise das matérias suscitadas pela embargante.
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte insurgente não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e, sim, rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
