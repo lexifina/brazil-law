@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MARIA APARECIDA DIAS DE OLIVEIRA, em 17/04/2017, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"APELAÇÃO/REMESSA NECESSÁRIA - DIFERENÇA REMUNERATÓRIA - CONVERSÃO DE CRUZEIROS REAIS EM UNIDADE REAL DE VALOR - EXISTÊNCIA DE EFETIVA DEFASAGEM - COMPROVAÇÃO - NECESSIDADE - APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO - IMPRESCINDIBILIDADE.
+FIXAÇÃO DO ÍNDICE - REESTRUTURAÇÃO FINANCEIRA DA CARREIRA - CONSIDERAÇÃO.
+Somente em liquidação de sentença por arbitramento poderá ser apurada a concreta existência de defasagem remuneratória, bem como o eventual índice, decorrente da utilização do método de conversão previsto na Lei nº 8.880, de 27 de maio de 1994.
+Para fixação do índice decorrente da conversão de Cruzeiro Real para Unidade Real de Valor, deve ser considerada a reestruturação financeira da carreira, acaso ocorrida, consoante decidiu o Supremo Tribunal Federal: STF, Tribunal Pleno, RE 561836/RN, relator Ministro Luiz Fux, publicado no Diário da Justiça Eletrônico em 10 de fevereiro de 2014.
+Recurso provido em parte. Sentença parcialmente retificada" (fl. 295e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 312/319e e 323/328e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO  OMISSÃO  CONTRADIÇÃO  NÃO CONSTATAÇÃO  NOVO JULGAMENTO DA CAUSA  INADMISSIBILIDADE.
+"O inconformismo que tem como real escopo a pretensão de reformar o decisum não pode prosperar, porquanto inocorrentes as hipóteses de omissão, contradição, obscuridade ou erro material, sendo inviável a revisão da decisão em sede de embargos de declaração, em face dos estreitos limites do art. 1.022 do CPC/20I5." (STF, Primeira Turma, ACO 570 AgR-terceiro-ED/RR, relator Ministro Luiz Fux, publicado no Diário da Justiça Eletrônico em 20 de maio de 2016).
+Embargos rejeitados" (fl. 340e).
+"EMBARGOS DE DECLARAÇÃO - OMISSÃO - NÃO CONSTATAÇÃO ARTIGO 168 DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL - SERVIDORES DO PODER EXECUTIVO - NÃO APLICAÇÃO - OBVIEDADE. DIFERENÇA REMUNERATÓRIA - CONVERSÃO DE CRUZEIROS REAIS EM UNIDADE REAL DE VALOR - EXISTÊNCIA DE EFETIVA DEFASAGEM NA REMUNERAÇÃO - APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO - DETERMINAÇÃO NO ACÓRDÃO. PREQUESTIONAMENTO - EXAME DA MATÉRIA - SUFICIÊNCIA.
+Devidamente demonstrado, com transcrição de excertos do acórdão embargado, que foram analisados os pontos sobre os quais a Câmara devia pronunciar-se, inexiste omissão a ser suprida.
+O artigo 168 da Constituição da República Federativa do Brasil, por razões óbvias, não se aplica aos servidores públicos do Poder Executivo.
+A determinação de que a existência de efetiva defasagem na remuneração decorrente do método de conversão de Cruzeiros Reais em Unidade Real de Valor  URV, bem como do eventual índice, acaso constatada, seja apurada em liquidação de sentença por arbitramento, observada ainda eventual reestruturação financeira da carreira, afasta qualquer possibilidade de recebimento em dobro ou em percentual indevido.
+Para fins de prequestionamento, é suficiente que o Tribunal tenha examinado a matéria discutida.
+Embargos rejeitados" (fls. 350/351e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 85, § 3º, I, do CPC/2015, sustentando o seguinte:
+"No caso em tela, a decisão colegiada que fixou os honorários foi publicada em 31/03/2017, ou seja, OCORREU APÓS A DATA DE 18/03/3016, JÁ SOB A VIGÊNCIA DO NOVO CPC, e nos termos do Enunciado Administrativo nº 7 do STJ, contra decisão publicada a partir de 18 de março de 2016 deve ser aplicado regramento do novo CPC para o arbitramento dos honorários sucumbenciais.
+Contudo, o Tribunal a quo entendeu pela aplicação do antigo CPC, reduzindo os honorários sucumbenciais.
+(..)
+A questão de mérito se funda na CONTRARIEDADE à Lei Federal nº 13.105/2015  Novo CPC -, mais precisamente em seu Artigo 85 que trata dos Honorários Advocaticios, pois, o Acórdão recorrido, que foi proferido na data de 13 de março de 2017 e publicado em 31 de março de 2017 ou seja, já sob as rédeas do NOVO CPC, fixou os honorários em 2%, muito abaixo daquele previsto no novo CPC.
+Pois bem, com o advento no novo CPC, os honorários sucumbenciais nas causas em que,a Fazenda Pública for parte deverão ser fixados conforme determina o Artigo 85, vejamos:
+(..)
+Destarte, com a devida vênia, entende o(a) Recorrente que os honorários advocatícios reduzidos pelo Tribunal a quo, ofendeu a Lei Federal nº 13.105/2015 em seu Artigo 85, § 3º, inciso I, pois, a novel legislação prevê honorários fixados em percentual sobre o valor da condenação ou do proveito econômico obtido, uma vez que a fazenda pública é parte na presente demanda.
+O Acórdão recorrido está eivado de ilegalidade, pois, MESMO SIDO JULGADO SOB A VIGÊNCIA DO NOVO CPC fixou os honorários advocatícios em 2% do montante que vier a ser apurado, portanto, muito inferior àquele previsto no Artigo 85 do CPC, que é de 10 a 20% sobre o valor da causa ou do proveito econômico, assim, inquestionável que a decisão do TJMT contrariou os comandos insculpidos no citado diploma legal, afrontou a vontade do legislador, razão pela qual o Acórdão recorrido deve ser reformado Assim, não pode o Poder Judiciário afastar o comando insculpido na Lei Federal nº 13.10512015, válida e vigente à época da decisão, que, reitera-se, determinou os honorários advocaticios entre 10% a 20% do valor da causa ou do proveito econômico advindo da lide" (fls. 419/422e).
+Por fim, requer o conhecimento e provimento do apelo "para o fim de reformar parcialmente o v. Acórdão recorrido, no sentido de se aplicar o disposto na Lei nº 13.105/2015, mais precisamente em seu Artigo 85, § 3º, Inciso I, para fixar os Honorários Sucumbenciais em 20% sobre o valor da causa atualizado ou sobre o beneficio econômico que vier a ter proveito o(a) Recorrente" (fl. 428e).
+Sem contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 495/497e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrente, com o objetivo de obter a condenação do ente público a "incorporar à remuneração da Autora o percentual de 11,98% decorrente da perda ocorrida quando da conversão do cruzeiro real para URV, bem como para condená-lo ao pagamento dos valores pretéritos decorrentes da incorporação, devendo a condenação incidir sobre quaisquer verbas percebidas, inclusive 13º salário, férias, 1/3 de férias, gratificações e demais vantagens que compõem a remuneração".
+Julgada procedente a demanda, recorreu o réu, tendo sido parcialmente reformada a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+A Corte de origem, ao analisar a controvérsia, asseverou, in verbis:
+"A respeito de a publicação da decisão ter sido realizada na data de 17 de junho de 2016, cabe esclarecer que esta se refere à decisão dos embargos de declaração opostos à sentença.
+O recurso de apelação é cabível contra a sentença, nos termos do artigo 1.009, cabeça, do Código de Processo Civil: "Art. 1.009. Da sentença cabe apelação.".
+Desse modo, não há falar no Enunciado Administrativo nº 7 do Superior Tribunal de Justiça, nem em majoração dos honorários nos termos do artigo 85, §11 do Código de Processo Civil, uma vez que a sentença fora publicada no Diário da Justiça Eletrônico em 8 de março de 2016, ainda na vigência do Código de Processo Civil ab-rogado.
+No que concerne à fixação dos honorários advocatícios no percentual de dois por cento (2%) do valor porventura constatado, a decisão mostra-se em consonância com o artigo 20, § 4º, da Lei nº 5.869, de 11 de janeiro de 1973, de modo a não ser necessária a alteração da quantia arbitrada.
+(..)
+Não obstante o artigo 85, §4º, II, do Código de Processo Civil apresentar novo parâmetro para fixação dos honorários advocatícios, à época da sentença, estava em vigor tão somente a Lei nº 5.869, de 11 de janeiro de 1973, a impossibilitar a aplicação retroativa do Código supracitado, haja vista a inexistência de qualquer vício nesta" (fls. 344/345e).
+Entretanto, os fundamentos acima reproduzidos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
