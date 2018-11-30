@@ -1,0 +1,10 @@
+DECISÃO
+ALEX SANTOS DE LIMA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2015764-65.2018.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante e, inicialmente, denunciado, juntamente com [NOME], por infração aos arts. 157, § 2º, I e II, 146, § 1º, c/c o art. 29, 121, § 2º, V, c/c o art. 14, II, 157, § 2º, I, e 329, na forma do art. 69, todos do Código Penal.
+Considerando a imputação de crime doloso contra a vida, o feito seguiu o rito especial do Júri e, em decisão de pronúncia datada de 12/4/2016, tal delito foi desclassificado para o crime previsto no art. 129, §§ 1º e 2º, c/c o art. 21, II, "b", ambos do CP, motivo pelo qual os autos foram redistribuídos ao juízo comum.
+Impetrado prévio writ visando à concessão de liberdade em favor do paciente, a ordem foi denegada.
+No presente mandamus, o impetrante sustenta que o paciente sofre constrangimento ilegal em razão do excesso de prazo de sua prisão.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifico que, em 23/11/2018, foi prolatada sentença, por meio da qual o ora paciente foi condenado "como incurso nas penas dos arts. 157, §2º, I e II, art. 146, §1º, art. 129, caput, c.c. art. 61, II, "b", art. 157, §2º, I, e art. 329, tudo na forma do art. 69, todos do Código Penal, ao cumprimento da pena total de dez anos e dez meses de reclusão, um ano de detenção", em regime fechado. Na ocasião, foi-lhe negado o direito de apelar em liberdade. Assim, o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar (art. 387, § 1º do CPP). Como tais razões não foram submetidas ao crivo daquele Tribunal, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria.
+Nestes termos, evidencia-se a prejudicialidade deste writ, em que se pugna pela revogação da prisão preventiva.
+À vista do exposto, com fundamento no art. 34, XX do RISTJ, julgo prejudicado o recurso, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
