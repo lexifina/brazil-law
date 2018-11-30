@@ -1,0 +1,62 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. PROCRASTINATÓRIOS. APLICAÇÃO DE MULTA. CABIMENTO.
+1. Inexistência de ofensa ao art. 535, incisos I e II, do CPC/73, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Manifesto o caráter protelatório dos embargos de declaração, é de rigor a aplicação, com fulcro no art. 538, parágrafo único, do CPC, de multa de 1% sobre o valor atualizado da causa.
+3. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba (fl. 3.083):
+SÚPLICA REGIMENTAL EM AGRAVO DE INSTRUMENTO. SUBSTITUIÇÃO DA FEDERAL DE SEGUROS PELA CAIXA SEGURADORA S/A NA FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. NÃO DEMONSTRADA RELAÇÃO JURÍDICA ENTRE AS EMPRESAS. INEXISTÊNCIA DE PREVISÃO LEGAL PARA O ATO. DESRESPEITO AO CONTRADITÓRIO E À AMPLA DEFESA. MODIFICAÇÃO DA INTERLOCUTÓRIA. EXCLUSÃO DA SUBSTITUÍDA. PROVIMENTO DA IRRESIGNAÇÃO. MANUTENÇÃO DA MONOCRÁTICA POR SEUS PRÓPRIOS TERMOS. DESPROVIMENTO DO RECURSO.
+- Diante da ausência de demonstração do liame necessário entre as empresas de seguro (Federal de Seguros S/A e Caixa Seguradora S/A), não há que se falar em sucessão processual.
+- Fora das hipóteses legais, descabe a substituição das partes litigantes sem que se aponte o instituto jurídico utilizado.
+- AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. DENUNCIAÇÃO À LIDE. IMPOSSIBILIDADE. Descabe a denunciação da lide no âmbito dos embargos à execução, sendo tal instituto típico e exclusivo do processo de conhecimento. Precedentes jurisprudenciais desta corte. Agravo de instrumento a que se nega seguimento. Decisão monocrática. (TJRS; Al 141293-60.2014.8.21.7000; Esteio; Vigésima Câmara Cível; Re!a Desa Walda Maria Melo Pierro; Julg. 23/04/2014; DJERS 30/04/2014)
+Consta dos autos que CAIXA SEGURADORA S/A, interpôs agravo de instrumento, com pedido de efeito suspensivo, contra decisão do juízo de direito da 1a Vara Cível de Campina Grande/PB, que acolheu pedido de substituição realizado pela FEDERAL DE SEGUROS S/A, em execução de sentença, para determinar que a ação continue em face da CAIXA SEGURADORA S/A, sob o fundamento de que a empresa requerente encontra-se em liquidação extrajudicial e a substituída integra o pool consorcial de cobertura do seguro habitacional firmado.
+O Des. Relator monocraticamente, deu provimento ao recurso para determinar a exclusão da Caixa Seguradora S/A, e, por conseqüência, desobrigá-la de qualquer responsabilidade sobre o pagamento do valor perseguido em execução - R$ 3.962.686,48 (três milhões, novecentos e sessenta e dois mil, seiscentos e oitenta e seis reais e quarenta e oito centavos).
+Interposto agravo regimental, o Tribunal de Justiça de origem negou provimento ao reclamo conforme a ementa acima transcrita.
+Opostos sucessivos embargos de declaração, estes restaram rejeitados com imposição de multa nos seguintes termos (fls. 3.119 e 3.159):
+EMBARGOS DECLARATÓRIOS. SUBSTITUIÇÃO DA FEDERAL DE SEGUROS PELA CAIXA SEGURADORA S/A NA FASE DE CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PROVA DA RELAÇÃO JURÍDICA ENTRE AS EMPRESAS (SOLIDARIEDADE) QUANDO DA DISSOLUÇÃO DA FEDERAL SEGUROS S/A. NÃO DEMONSTRAÇÃO DE ASSUNÇÃO DA DÍVIDA PELA CAIXA SEGURADORA S/A NA FORMA EXIGIDA PELO ART. 568, III, DO CÓDIGO DE PROCESSO CIVIL. NÃO SUBSUNÇÃO LEGAL PARA O PRETENSO ATO DE SUBSTITUIÇÃO DA EXECUTADA SUCESSÃO QUE INFRINGE O CONTRADITÓRIO E A AMPLA DEFESA. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INOCORRÊNCIA. REJEIÇÃO DOS / ACLARATÓRIOS.
+EMBARGOS DE DECLARAÇÃO EM FACE DE ACLARATÓRIOS. SUBSTITUIÇÃO DA FEDERAL DE SEGUROS PELA CAIXA SEGURADORA S/A NA FASE DE CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PROVA DA RELAÇÃO JURÍDICA ENTRE AS EMPRESAS (SOLIDARIEDADE) QUANDO DA LIQUIDAÇÃO DA FEDERAL SEGUROS S/A. NÃO DEMONSTRAÇÃO DE ASSUNÇÃO DA DÍVIDA PELA CAIXA SEGURADORA S/A NA FORMA EXIGIDA PELO ART. 568, III, DO CÓDIGO DE PROCESSO CIVIL. ESTABILIZAÇÃO DA DEMANDA. NÃO SUBSUNÇÃO LEGAL PARA O PRETENSO ATO DE SUBSTITUIÇÃO DA EXECUTADA. SUCESSÃO QUE INFRINGE O CONTRADITÓRIO E A AMPLA DEFESA. CONTRADIÇÃO. INOCORRÊNCIA. TENTATIVA DE REDISCUSSÃO DA MATÉRIA E INOVAÇÃO RECURSAL. INVIABILIDADE. RECURSO PROCRASTINATÓRIO. REJEIÇÃO COM APLICAÇÃO DE MULTA.
+Em suas razões de recurso especial, os recorrentes alegaram violação ao art. 535, inciso II, do Código de Processo Civil/73, ao argumento de que houve negativa de prestação jurisdicional. Aduziram contrariedade ao art. 538, parágrafo único, do CPC/73, ao argumento de que indevida a aplicação de multa. Acenaram pela ocorrência de divergência jurisprudência. Requereram, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões às fls. 3.195/3.215 e 3.229/3.264.
+É o relatório.
+Passo a decidir.
+1. Em relação à alegação de negativa de prestação jurisdicional:
+Verifica-se que as questões submetidas ao Tribunal a quo foram suficiente e adequadamente apreciadas, com abordagem integral dos temas e fundamentação compatível. Destarte, não há se falar em negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. VIOLAÇÃO DE PATENTE. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO. PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1.973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+(..)
+4. Agravo interno não provido. (AgInt no AREsp 1060413/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/08/2017, DJe 09/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALÊNCIA. CÁLCULO DE JUROS E CORREÇÃO MONETÁRIA EM HABILITAÇÃO DE CRÉDITO. DECRETAÇÃO DA QUEBRA. EFEITOS MATERIAIS QUE INCIDEM DESDE A PROLAÇÃO DA SENTENÇA INDEPENDENTE DE PUBLICAÇÃO.
+1. Impugnação de crédito em processo falimentar da qual se extraiu o recurso especial interposto em 19/12/2013, concluso ao Gabinete em 27/10/2016. Julgamento: CPC/73.
+2. O propósito recursal é decidir sobre: i) a existência de negativa de prestação jurisdicional na espécie (arts. 131, 165, 458, 535, do CPC/73); ii) qual o momento que se considera decretada a falência para fins de atualização do crédito, nos termos dos arts. 9, II e 124, da Lei 11.101/05.
+3. Inexistentes os vícios de omissão, contradição ou obscuridade no acórdão recorrido, e estando esse devidamente fundamentado, não se caracteriza a violação dos arts. 131, 165, 458, II, e 535, I e II, do CPC/73.
+(..)
+5. Recurso especial não provido. (REsp 1660198/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/08/2017, DJe 10/08/2017)
+Ademais, consoante a jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. MEDICAMENTO NECESSÁRIO AO TRATAMENTO DA DOENÇA. CLÁUSULAS CONTRATUAIS E CONCLUSÕES FÁTICAS DO TRIBUNAL. REVER O QUADRO FÁTICO TRAÇADO, REEXAME DE PROVAS E ANALISAR CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 3. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF 4. AGRAVO INTERNO IMPROVIDO.
+1. Não há ofensa ao art. 535 do CPC/1973, pois o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+(..)
+4. Agravo interno improvido. (AgInt no AREsp 952.142/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/02/2017, DJe 09/02/2017)
+2. No concerne à multa aplicada em sede de embargos declaratórios:
+Evidenciado o caráter manifestamente protelatório dos embargos declaratórios, impõe-se a aplicação da multa prevista no art. 538, parágrafo único, do Código de Processo Civil/73.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973. ERRO MATERIAL. FUNDAMENTAÇÃO DEFICIENTE. AFASTAMENTO DA MULTA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A oposição de embargos declaratórios na origem, pretendendo a rediscussão do julgado, inclusive invocando questões expressamente decididas no acórdão embargado, caracteriza o manifesto intuito protelatório, sendo correta a aplicação da multa prevista no art.
+538, parágrafo único, do CPC/1973.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1618054/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRODUÇÃO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. VIOLAÇÃO DO ART. 476 DO CC. DESCUMPRIMENTO DO CONTRATO. RESPONSABILIDADE PELOS PREJUÍZOS SUPORTADOS. SÚMULA N. 7 DO STJ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. VIOLAÇÃO DO ART. 538, PARÁGRAFO ÚNICO, DO CPC NÃO CONFIGURADA.
+1. A negativa de produção de prova testemunhal não caracteriza cerceamento de defesa porquanto o juiz é livre para apreciar as provas realizadas e para indeferir diligências que entenda inúteis ou meramente protelatórias. Princípio do livre convencimento motivado.
+2. A verificação da ocorrência de cerceamento de defesa demanda o revolvimento do conjunto fático-probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula n. 7/STJ.
+3. Tendo o Tribunal de origem decidido, com base no laudo pericial, que a parte recorrente descumpriu o contrato ao fornecer peças fora das especificações a ela repassadas, a adoção de entendimento contrário implicaria a incursão no acervo probatório dos autos, procedimento que encontra óbice na Súmula n. 7/STJ.
+4. A oposição de embargos de declaração com a finalidade de rediscutir o mérito enseja a aplicação da multa contida no art. 538, parágrafo único, do CPC, em face do caráter manifestamente protelatório do recurso.
+5. Agravo regimental desprovido. (AgRg no AREsp 232.024/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 01/12/2015, DJe 07/12/2015)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. OBRIGAÇÃO DE NÃO FAZER. COLAÇÃO DE GRAU SIMBÓLICA. NÃO UTILIZAÇÃO DO NOME DA INSTITUIÇÃO DE ENSINO NA FESTIVIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DO ART. 538 DO CPC.
+1. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem por analogia, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Segundo a jurisprudência do STJ, "a pretensão de rediscussão da lide pela via dos embargos declaratórios, sem a demonstração de quaisquer dos vícios de sua norma de regência, é sabidamente inadequada, o que os torna protelatórios, a merecerem a multa prevista no artigo 538, parágrafo único, do CPC" (EDcl no AgRg no Ag 1.115.325/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 4.11.2011).
+3. Agravo regimental não provido. (AgRg no REsp 1399551/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/11/2015, DJe 01/12/2015)
+Ante o exposto, com base no art. 932, inciso IV, do CPC/15 c.c. o Enunciado n.º 568/STJ, nego provimento ao recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
