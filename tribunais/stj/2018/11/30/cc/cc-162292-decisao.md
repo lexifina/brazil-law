@@ -1,0 +1,39 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, com vistas a que o Juízo da recuperação se abstenha de negar a sua competência para processar as habilitações das certidões de crédito trabalhista, bem como à suspensão da execução trabalhista n. 0010771-69.2017.5.18.0081.
+Informa a suscitante que formularam pedido de recuperação judicial, que foi deferido em 17/12/2012 (fls. 20-21), tendo sido também deferida a prorrogação do período de suspensão das ações e execuções, em 10/8/2016, até a homologação do resultado da nova Assembleia Geral de Credores (fls. 22-35).
+Esclarece que os Juízos trabalhistas estão corretamente declinando de sua competência para executar os débitos trabalhistas e expedindo certidão de crédito para habilitação junto ao Juízo da recuperação, tendo o segundo Juízo suscitado, em 23/8/2018, nos autos da execução trabalhista em referência, determinado a expedição de certidão de crédito para habilitação junto ao Juízo da recuperação (fl. 36).
+Contudo (fl. 3):
+ ..  em total desrespeito ao entendimento Jurisprudencial desta Corte Superior, bem como grave indisciplina judiciaria, o juízo da Recuperação Judicial está negando de sua competência, julgando improcedente as habilitações retardatárias, conforme documentos em anexo.
+O juízo da Recuperação Judicial sustenta em suas decisões que a Recuperação Judicial é de 10/10/2012, e o crédito trabalhista é de Relação de Emprego com data posterior a Recuperação Judicial (25/09/2014), por esta razão, entende não ser competente para processar a habilitação vindicada.
+Aduzem, ainda, que (fl. 4):
+ ..  o fato do Juízo da Recuperação negar sua competência para processar habilitação de credor retardatário, pode trazer prejuízos inimagináveis e até a falência da empresa, que hoje mantem inúmeros postos de trabalho no Município em que esta sediada.
+No entanto, mesmo diante das informações levadas aos autos a cerca de inúmeras decisões do Superior Tribunal de Justiça, o juízo suscitado decidiu contra despacho proferido pelo mesmo juízo, no entanto, magistrado diferente.
+Nobre ministro, podemos afirmar que o juízo suscitado ao proferir sentença rejeitando habilitação da certidão no Juízo da Recuperação Judicial, abre margem para que os juízos trabalhistas façam constrições do patrimônio da empresa, o que pode levar a Empresa a falência.
+É o relatório.
+2. Com efeito, o Juízo da recuperação julgou improcedente o pedido de habilitação retardatária de crédito trabalhista, ao fundamento de que a constituição do crédito extraconcursal se deu após o deferimento do pedido de recuperação judicial, a ela não se submetendo (fls. 68-69).
+O pedido veiculado pelas suscitantes é dotado de plausibilidade, tendo a jurisprudência desta Casa adotado tese convergente com a pretensão das recuperandas, no sentido de que "mesmo no que tange ao crédito extraconcursal, há de ser mantida a competência do Juízo da recuperação judicial para prosseguir com os atos de execução que envolvam créditos apurados em outros órgãos judiciais, de modo a que ele exerça controle sobre os atos de constrição patrimonial. Isso porque apenas tal Juízo detém o conhecimento acerca dos pormenores da realidade econômica da empresa recuperanda, devendo, portanto, ser dele a última deliberação sobre a constrição de bens e valores, a fim de equilibrar o pagamento dos credores preferenciais e não concursais e o cumprimento do plano de recuperação, com a consequente superação da situação de dificuldade da sociedade".
+Confiram-se:
+CONFLITO DE COMPETÊNCIA - CRÉDITO TRABALHISTA CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL - ATO EXPROPRIATÓRIO ORDENADO PELO MAGISTRADO LABORAL GENÉRICO E SEM QUALQUER RESSALVA - ANTE A ESPECIFICIDADE DO CASO, COMPETE AO JUÍZO UNIVERSAL AVALIAR ACERCA DA ESSENCIALIDADE OU NÃO DO BEM AO FUNCIONAMENTO DA EMPRESA - PRECEDENTES DO STJ.
+1. Tratando-se de crédito trabalhista constituído depois de ter o devedor ingressado com o pedido de recuperação judicial, está excluído do plano e de seus efeitos (art. 49, caput, da Lei n.º 11.101/2005).
+2. Ante a determinação de ato expropriatório genérico e sem ressalva determinado pelo magistrado trabalhista para a satisfação do crédito executado, compete ao juízo universal exercer o controle sobre atos de constrição patrimonial. Precedentes do STJ.
+3. Conflito conhecido para declarar a competência do juízo da recuperação judicial.
+(CC 129.720/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/10/2015, DJe 20/11/2015)
+--
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+1. São incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência das empresas devedoras, de modo a configurar conflito positivo de competência.
+2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+3. Franquear o pagamento dos créditos posteriores ao pedido de recuperação por meio de atos de constrição de bens sem nenhum controle de essencialidade por parte do Juízo universal acabará por inviabilizar, a um só tempo, o pagamento dos credores preferenciais, o pagamento dos credores concursais e, mais ainda, a retomada do equilíbrio financeiro da sociedade, o que terminará por ocasionar na convolação da recuperação judicial em falência, em prejuízo de todos os credores, sejam eles anteriores ou posteriores à recuperação judicial.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/05/2017, DJe 31/05/2017)
+--
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. No caso de deferimento da recuperação judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts. 83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC.
+(CC 145.027/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 31/08/2016)
+Contudo, não antevejo o fumus boni juris a amparar o pedido das suscitantes, ante a ausência de ato que tenha o condão de iminente e efetivamente afetar o seu patrimônio.
+3. Ante o exposto, ausentes os requisitos autorizadores, ao menos por ora, indefiro o pedido de concessão de liminar.
+Oficiem-se aos juízos suscitados, a quem devem ser solicitadas informações (art. 954 do NCPC).
+Ouça-se, em seguida, o Ministério Público Federal (art. 956 do NCPC).
+Publique-se. Intimem-se. Oficiem-se.
