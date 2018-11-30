@@ -1,0 +1,9 @@
+DECISÃO
+1. Trata-se de Agravo Interno interposto pela UNIÃO contra decisão que deu parcial provimento ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. (I) VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC NÃO RECONHECIDA. (II) SUCUMBÊNCIA RECÍPROCA. REEXAME DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES. QUESTÃO DE FATOS E DE PROVAS. INVIABILIDADE. SÚMULA 7 DO STJ. (III) POSSIBILIDADE DE SUSPENSÃO DOS HONORÁRIOS DE SUCUMBÊNCIA (ART. 12 DA LEI 1.060/50). AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DOS SERVIDORES.
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. (I) VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. (II) APLICAÇÃO DO ART. 1o.-F DA LEI 9.494/1997 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA (RESP. 1.495.146/MG, REL. MIN. MAURO CAMPBELL MARQUES, DJE 2.3.2018). RECURSO ESPECIAL DA UNIÃO PARCIALMENTE PROVIDO.
+2. Sustenta a União o reconhecimento da incidência imediata da Lei 11.960/2009 e requer o sobrestamento do feito, uma vez que o Supremo Tribunal Federal ainda não concluiu o julgamento do RE 870.947/SE.
+3. É o relatório.
+4. De fato, a modulação efeitos do entendimento firmado no RE 870.947/SE ainda está pendente de julgamento pelo Supremo Tribunal Federal, razão pela qual o Min. LUIZ FUX, determinou o sobrestamento do feito que cuida da matéria.
+5. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão de repercussão geral, aprecie a questão dos juros nos termos do que for definido pelo Supremo Tribunal Federal, mantendo-se a decisão de fls. 921/933 para todos os demais efeitos.
+6. Publique-se. Intimações necessárias.
