@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 114, I, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Ação civil pública. Competência da Justiça do Trabalho. Direitos relativos à saúde, higiene e segurança do trabalho. Legitimidade do Ministério Público. Precedentes. 1. Segundo a jurisprudência da Suprema Corte, compete à Justiça do Trabalho julgar ação civil pública na qual se discute questões relativas à saúde, à higiene e à segurança do trabalho. 2. Também, esta Corte já se pronunciou no sentido da legitimidade do Ministério Público para propor ação civil pública em defesa de direitos individuais homogêneos, coletivos e difusos (RE nº 631.111/GO-RG, Relator o Ministro Teori Zavascki). 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de ação civil pública (art. 18, da Lei nº 7.347/85).” (ARE 1090128 AgR, Relator(a):  Min. DIAS TOFFOLI, Segunda Turma, julgado em 23/03/2018, PROCESSO ELETRÔNICO DJe-074 DIVULG 17-04-2018 PUBLIC 18-04-2018)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Processual do Trabalho. 3. Ação Civil Pública. Ministério Público do Trabalho. Legitimidade para defesa de direitos difusos, coletivos e individuais homogêneos. Precedentes desta Corte. 4. Violação aos princípios do contraditório, da ampla defesa e do devido processo legal. Ofensa reflexa. ARE-RG 748.371. 5. Agravo regimental a que se nega provimento.” (ARE 1057601 AgR, Relator(a):  Min. GILMAR MENDES, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-232 DIVULG 09-10-2017 PUBLIC 10-10-2017)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. LEGITIMIDADE ATIVA AD CAUSAM DO MINISTÉRIO PÚBLICO DO TRABALHO. AÇÃO CIVIL PÚBLICA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 915337 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 01/12/2015, PROCESSO ELETRÔNICO DJe-255 DIVULG 17-12-2015 PUBLIC 18-12-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2018.
+Ministra Rosa Weber
+Relatora
