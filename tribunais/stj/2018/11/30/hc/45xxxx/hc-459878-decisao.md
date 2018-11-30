@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de GABRIEL ALEXANDRE FREIRE, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo de Direito da Vara das Execuções Criminais da Comarca de Araraquara (SP) homologou o cálculo de penas do paciente, considerando o crime de associação para o tráfico equiparado a hediondo, incidindo, assim, a fração de 2/5 para a progressão de regime e 2/3 para fins de livramento condicional (e-STJ, fl. 84).
+Inconformada, a defesa interpôs agravo em execução perante o Tribunal de origem, que lhe negou provimento, por meio de acórdão assim ementado:
+"AGRAVO EM EXECUCÃO - Homologação de cálculo de penas, considerando o crime cie associação para o tráfico equiparado a hediondo, incidindo a Tração de 2/5 como necessária à progressão e 2/3 para fins de livramento condicional - Recurso defensivo - Pretendida a retificação do cálculo, reconhecendo a associação para o tráfico como crime comum - Improcedência - O crime de associação para o tráfico c equiparado a hediondo Isso porque, se o tráfico de entorpecentes possui tal natureza, a conduta de promovê-lo, com maior razão, deve ser considerada da mesma forma - Precedentes desta Colenda Câmara Criminal - Decisão mantida - Agravo defensivo improvido." (e-STJ, fl. 90).
+Neste writ, a impetrante alega, em síntese, que a "as infrações penais não descritas e mencionadas na Lei 8.072/90, como o crime de associação para o tráfico, são consideradas delitos comuns, devendo ser aplicada a regra do art. 83, inc. I e II, do Código Penal para fins de Livramento Condicional e não o disposto no art. 44, parágrafo único da Lei 11.343/06" (e-STJ, fl. 7).
+"Portanto, nos termos do art. 131, da LEP c/c art. 83, inc. I, do Código Penal, a fração para a aquisição do livramento condicional no presente caso deve ser 1/3, devendo o cálculo ser retificado com urgência" (e-STJ, fl. 10).
+Requer, assim, "seja reconhecida a ilegalidade da decisão que considerou o delito de associação para o tráfico como equiparado aos crimes hediondos, determinando-se a utilização da fração de 1/6 para progressão de regime e de 1/3 para obtenção do livramento condicional para a pena do delito de associação para o tráfico" (e-STJ, fl. 11).
+Prestadas as informações, o Ministério Público Federal manifestou-se às fls. 116-117 (e-STJ).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Desse modo, passo ao exame das alegações trazidas pela defesa a fim de verificar eventual constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A impetrante sustenta em suma que, no caso do delito previsto no art. 35 da Lei de Drogas, deve ser observado o cumprimento da fração de 1/6 para progressão de regime e de 1/3 para obtenção do livramento condicional.
+Conforme relatado, o Juízo da execução considerou o crime de associação para o tráfico equiparado a hediondo, aplicando, assim, a fração de 2/5 como necessária à progressão de regime e 2/3 para fins de livramento condicional.
+O Tribunal de Justiça confirmou a decisão primeva, nos seguintes termos:
+"Com efeito, é cediço que o delito de associação para o tráfico tem o fim de promover o tráfico ilícito de drogas.
+Ora, se o crime de tráfico de entorpecentes é equiparado a hediondo, a conduta de promovê-lo, com maior razão, deve ser considerada da mesma forma.
+Indubitavelmente, tal delito guarda as mesmas características do tráfico de drogas, conforme se observa do teor do art. 44, da Lei nº 11.343/06, podendo ser considerado como uma espécie do gênero "tráfico de drogas":
+"Art. 44. Os crimes previstos nos arts. 33, caput e § 1 o , e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos".
+Confira-se o entendimento desta C. Câmara:
+(..)
+Por conseguinte, como a ora recorrente cumpre pena por crime que também se revela equiparado a hediondo, respeitados entendimentos contrários, inviável acolher pleito de retificação de cálculo de penas, assentando que, para a progressão e o livramento condicional, é necessário, respectivamente, cumprimento de 2/5 e 2/3." (e-STJ, fl. 92-95).
+Inicialmente, cumpre destacar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de não considerar hediondo o delito de associação para o tráfico, previsto no art. 35 da Lei n. 11.343/2006, uma vez que não está expressamente elencado no rol do artigo 2º da Lei n. 8.072/1990.
+Nesse sentido:
+" ..
+1. O crime de associação para o tráfico não é equiparado a hediondo, uma vez que não está expressamente elencado no rol do artigo 2º da Lei n. 8.072/1990.
+ ..
+4. Habeas corpus não conhecido. Ordem concedida de ofício tão somente para afastar o caráter hediondo do delito de associação para o tráfico ilícito de entorpecentes e, em consequência, determinar que a progressão de regime, em relação a este, seja analisada à luz do art. 112 da LEP." (HC 307.174/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/04/2016, DJe 18/04/2016)
+" ..
+- O Superior Tribunal de Justiça, seguindo o entendimento do Supremo Tribunal Federal, passou a inadmitir habeas corpus substitutivo de recurso próprio, ressalvando, porém, a possibilidade de concessão da ordem de ofício nos casos de flagrante constrangimento ilegal.
+- A jurisprudência consolidada do Superior Tribunal de Justiça entende que o delito de associação para o tráfico de drogas não possui natureza hedionda, por não estar expressamente previsto nos arts. 1º e 2º da Lei n. 8.072/90.
+Habeas corpus não conhecido. Ordem concedida de ofício, para determinar que o Juízo das Execuções considere a condenação pelo crime de associação para o tráfico como não hediondo." (HC 337.543/MG, Rel. Ministro ERICSON MARANHO (Desembargador convocado do TJ/SP), SEXTA TURMA, julgado em 03/11/2015, DJe 19/11/2015)
+Consequentemente, não se exige, para fins de concessão do benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele apenas ao lapso de 1/6 para preenchimento do requisito objetivo, conforme previsão do art. 112 da LEP.
+Contudo, a despeito de não ser considerado hediondo o crime de associação para o tráfico, no que se refere à concessão do livramento condicional, deve-se, em razão do princípio da especialidade, observar a regra estabelecida pelo art. 44, parágrafo único, da Lei n. 11.343/2006, ou seja, exigir o cumprimento de 2/3 (dois terços) da pena, vedada a sua concessão ao reincidente específico.
+A propósito, confiram-se os seguintes julgados desta Corte:
+" ..
+1. A jurisprudência pacífica do Superior Tribunal de Justiça reconhece que o crime de associação para o tráfico de entorpecentes (art. 35 da Lei n. 11.343/2006) não figura no rol taxativo de delitos hediondos ou a eles equiparados, tendo em vista que não se encontra expressamente previsto no rol taxativo do art. 2º da Lei n.
+8.072/1990.
+2. Não se tratando de crime hediondo, não se exige, para fins de concessão de benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele, apenas ao lapso de 1/6 para preenchimento do requisito objetivo.
+3. No entanto, a despeito de não ser considerado hediondo, o crime de associação para o tráfico, no que se refere à concessão do livramento condicional, deve, em razão do princípio da especialidade, observar a regra estabelecida pelo art. 44, parágrafo único, da Lei n. 11.343/2006, ou seja, exigir que o cumprimento de 2/3 (dois terços) da pena, vedada a sua concessão ao reincidente específico.
+4. Ordem concedida para afastar a natureza hedionda do crime de associação para o tráfico e determinar que o Juízo da Vara das Execuções Criminais da Comarca de São José do Rio Preto/SP proceda a novo cálculo da pena, considerando, para fins de progressão de regime e de livramento condicional, respectivamente, as frações de 1/6 (um sexto) e 2/3 (dois terços).
+(HC 394.327/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+" ..
+1. O crime de associação para o tráfico não é equiparado a hediondo, uma vez que não está expressamente elencado no rol do artigo 2º da Lei n. 8.072/1990.
+2. Em consequência, para fins de progressão de regime incide a regra prevista no art. 112 da LEP, ou seja, o requisito objetivo a ser observado é o cumprimento de 1/6 (um sexto) da pena privativa de liberdade imposta.
+3. Entretanto, para a obtenção do livramento condicional, a jurisprudência desta Corte Superior é assente no sentido de que, independentemente de o crime de associação para o tráfico não se enquadrar no rol de delitos hediondos, certo é que a Lei n. 11.343/06, em seu art. 44, parágrafo único, previu expressamente a necessidade do cumprimento de 2/3 (dois terços) da pena, devendo essa previsão legal prevalecer em relação ao art. 83 do Código Penal, em atenção ao princípio da especialidade.
+4. Habeas corpus não conhecido. Ordem concedida de ofício tão somente para afastar o caráter hediondo do delito de associação para o tráfico ilícito de entorpecentes e, em consequência, determinar que a progressão de regime, em relação a este, seja analisada à luz do art. 112 da LEP." (HC 307.174/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/4/2016, DJe 16/4/2016).
+Ante o exposto, não conheço do habeas corpus. De ofício, concedo a ordem apenas para afastar o caráter hediondo do delito de associação para o tráfico de drogas e determinar que a progressão de regime do paciente seja analisada nos estritos termos do art. 112 da Lei de Execução Penal.
+Publique-se. Intimem-se.
