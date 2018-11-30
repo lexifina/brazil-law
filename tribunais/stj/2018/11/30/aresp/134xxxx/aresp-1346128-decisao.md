@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME] OUTRA, em face de acórdão assim ementado (fl. 266):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. OPOSIÇÃO APÓS O TRÂNSITO EM JULGADO DA SENTENÇA.
+1. Os embargos de terceiro visam preservar a posse de bens daqueles atingidos por ato de constrição ilegítima, tratando-se de ação autônoma submetida ao rito especial de jurisdição contenciosa, assim sendo, possível sua interposição fora do prazo legal.
+JULGAMENTO DE EMBARGOS DE TERCEIRO. COMPETÊNCIA FUNCIONAL E ABSOLUTA. EXTINÇÃO DO FEITO.
+2. O art. 676 do CPC/2015 fixa a competência dos embargos no juízo que ameaça realizar ou que ordenou a prática do ato executivo de constrição.
+3. A competência, nesse caso, é funcional e, portanto, absoluta. Em outras palavras, processada e julgada a causa da qual se originou a constrição questionada, os embargos de terceiro eventualmente opostos processar-se-ão perante a Vara Federal da Circunscrição Judiciária de Planaltina- GO, a qual determinou a constrição do bem objeto da demanda, razão pela qual, na hipótese em tela, correta a sentença que indeferiu a inicial e julgou extinto o feito, sem resolução do mérito.
+4. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+SENTENÇA CONFIRMADA POR OUTROS FUNDAMENTOS.
+A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: I) "No tocante ao artigo 1.022, inciso II, do novo Código de Processo Civil, os recorrentes não indicaram, motivadamente, os pontos da lide supostamente não decididos" (fl. 331). Incidência da Súmula 284/STF; II) "Os artigos 10 e 492 do Código de Processo Civil de 2015 não foram objeto de discussão na decisão atacada, o que resulta na falta de prequestionamento imprescindível à admissibilidade do Recurso Especial, ao teor da Súmula 282 do Supremo Tribunal Federal" (fl. 331); e III) "Quanto aos artigos 489, inciso IV, e 676 do mesmo diploma legal, verifica-se que a conclusão sobre o acerto ou desacerto da decisão recorrida demandaria incursão no conjunto fático-probatório dos autos, o que impede o trânsito do Recurso Especial, nos termos da Súmula 7 do Superior Tribunal de Justiça" (fl. 331).
+Os agravantes não infirmaram os fundamentos da decisão recorrida afirmando, apenas genericamente, que prequestionado o art. 492 do Código de Processo Civil/2015, deixando de se pronunciar sobre a incidência das Súmulas 282 e 284/STF; e 7/STJ, bem como sobre as razões de sua aplicação.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no art. 932, III, do Código de Processo Civil/2015.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
