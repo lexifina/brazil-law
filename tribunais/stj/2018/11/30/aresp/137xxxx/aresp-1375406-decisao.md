@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto pelo BANCO DO BRASIL S.A., contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. REVISIONAL C/C RESTITUIÇÃO DE INDÉBITO - CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA. CORREÇÃO DA POUPANÇA PELO BTNF. ILEGITIMIDADE PASSIVA. INCIDÊNCIA DO TERMO INICIAL DOS JUROS DE MORA. PREQUESTIONAMENTO. SOBRESTAMENTO DO FEITO EM VIRTUDE DE REPERCUSSÃO GERAL. INVERSÃO DA SUCUMBÊNCIA. MATÉRIAS AVENTADAS QUE NÃO GUARDAM RELAÇÃO COM O CASO EM APREÇO, MUITO MENOS COM A SENTENÇA. VIOLAÇÃO AO PRINCIPIO DA DIALETICIDADE. INTELIGÊNCIA DO ART. 1.010, II, DO CÓDIGO DE PROCESSO CIVIL.
+- O art. 1.010, II, do CPC impõe o ataque aos termos da sentença, não podendo ser conhecido o recurso que não retratam a causa discutida nos autos, em ofensa ao princípio da dialeticidade.
+Apelação Cível não conhecida. (fl. 441)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 489, §1º, II e §1º, V, do CPC/2015, aduzindo a deficiência de fundamentação do acórdão recorrido; ofensa ao art. 177 do Código Civil, insurgindo-se contra a incidência do prazo prescricional vintenário. Isso porque, segundo alega, quando da entrada do Código Civil/2002, já havia transcorrido mais da metade do prazo prescricional vintenário.
+É o breve relatório.
+DECIDO.
+2. De início, não se verifica, no caso, a alegada vulneração do art. 489, §1º, II e §1º, V, do CPC/2015, do CPC/2015, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+Nota-se que, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, a Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar ausência de fundamentação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+3. De outro modo, verifico que a matéria relativa à prescrição não foi objeto de debate no acórdão estadual, apesar da oposição dos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+4. Não bastasse isso, o acórdão recorrido não conheceu do recurso de apelação da Instituição bancária, amparado nos seguintes fundamentos:
+Insurge-se a instituição financeira contra a sentença aduzindo que realizou a correção da poupança na forma contratada; que não é parte legítima para figura no polo passivo, pois transferiu os valores ao Bacen, sendo este o legitimado a responder a ação; defende que o termo inicial para os juros de mora deve ser do trânsito em julgado da sentença; requereu o prequestionamento das matérias aduzidas, com o sobrestamento do feito afirmando que é objeto de repercussão geral; por fim pediu a inversão da sucumbência. (mov. 26.1)
+Consoante se pode denotar as alegações da instituição financeira não guardam qualquer relação com a sentença exarada.
+Como se observa, não há confronto de suas razões recursais com a sentença.
+A desconexão entre as razões da apelação e a sentença contraria o princípio da dialeticidade, consagrado no art. 1.010, II, do CPC.
+O art. 1.010, II, do CPC, ao determinar que a apelação deve conter os fundamentos de fato e de direito, quer dizer que cabe ao apelante demonstrar fundamentadamente, onde a sentença contrariou o seu direito.
+Como ensina Nelson Nery Jr:
+ ..
+Portanto, restou inviabilizada a apreciação do recurso de apelação, ante a violação do art. 1.010, inciso II, do Código de Processo Civil.
+Por tais motivos, voto no sentido de não conhecer do recurso de apelação. (fls. 443)
+Nesse passo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, a Súmula 283 do STF.
+Ressalto que para a análise da admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano de que forma se deu a suposta vulneração do dispositivo legal pela decisão recorrida, o que não ocorreu na hipótese, sendo certo que, no caso em exame, caracterizou-se deficiência de fundamentação, sendo de rigor a incidência da Súmula 284 do STF. "E inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
