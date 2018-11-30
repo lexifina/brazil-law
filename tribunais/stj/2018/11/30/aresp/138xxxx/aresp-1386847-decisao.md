@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por MAGNUM CRISTIAN [NOME] contra decisão que não admitiu o recurso especial manejado com apoio no art. 105, III, "a" e "c", da Constituição Federal, interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa se segue:
+"APELAÇÃO-CRIME. DENUNCIAÇÃO CALUNIOSA.
+Agente que noticia fato que sabia ser falso, utilizando-se de meio escuso, culminando na movimentação desnecessária da máquina estatal, que acabou por investigar fato inexistente. Condenação mantida. Pena de multa alterada. Apelo parcialmente provido. Unânime" (e-STJ, fl. 131).
+Consta dos autos que o agravante foi denunciado pela prática do crime previsto no art. 339 do Código Penal, tendo em vista que, em 5/1/2015, no Município de Casca/RS, registrara boletim de ocorrência em que imputava a [NOME] a apropriação de veículo que lhe pertencia, embora soubesse que o acusado era inocente. A notitia criminis em tela resultou na instauração do IP nº 30/2015 (e-STJ, fls. 1/2).
+Acolhida a pretensão punitiva, foi o réu condenado a 2 anos de reclusão, no regime aberto, com o pagamento de 30 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos (e-STJ, fls. 92-94).
+A defesa manejou apelação, perante o Tribunal de origem, que lhe deu parcial provimento, apenas para reduzir a pena pecuniária para o valor de 20 dias-multa, conforme ementa anteriormente transcrita.
+Nas razões do recurso especial, a defesa assevera ter havido vilipêndio ao disposto no art. 59 do Código Penal, por entender que a pena-base teria sido exasperada de forma desproporcional em função de apenas uma circunstância judicial desfavorável, ou seja, a culpabilidade (e-STJ, fl. 378). Requer o redimensionamento da pena-base aplicada para o mínimo legal, "pois inexistente vetor que destoe da prática ordinária da espécie delitiva, bem como porque manifestamente desproporcional a majoração da pena em razão de único vetor" (e-STJ, fl. 147).
+Foram apresentadas contrarrazões (e-STJ, fls. 153-158).
+O recurso não foi admitido, em razão da incidência do óbice da Súmula 7 desta Corte, motivo pelo qual foi interposto o presente agravo (e-STJ, fls. 160-164).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 200-205).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem assim fundamentou a manutenção do quantum fixado como pena-base:
+" ..  A pena-base foi afastada em 04 meses do mínimo legal, examinados os operadores do art. 59 do Código Penal, com na douta sentença, considerada negativamente a culpabilidade (praticou o delito para obter ganho financeiro). O afastamento está correto e mostra-se proporcional. A alegação defensiva de que o ganho financeiro não foi comprovado não impede a consideração em grau elevado da culpabilidade, vez que admitida pelo próprio acusado.
+Na segunda fase, reconhecida a atenuante da confissão espontânea em 04 meses e ausentes demais causas modificadoras, restou definitiva a pena em 02 anos de reclusão, em regime aberto" (e-STJ, fl. 134, grifou-se).
+Com efeito, para verificar se há, no caso dos autos, elementos suficientes para se afastar a conclusão a que chegou o Tribunal de origem e decidir-se por afastar a valoração negativa da culpabilidade, nos parâmetros em que fixada pelo Juízo de primeiro grau e confirmada pelo Tribunal a quo, seria necessário, invariavelmente, o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 deste Superior Tribunal de Justiça, pois o cerne da questão diz respeito a se saber se houve, ou não, proveito financeiro por parte do recorrente.
+Nesse sentido, mutatis mutandis:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO CALUNIOSA QUALIFICADA PELO ANONIMATO.  ..  AUTORIA, MATERIALIDADE E FIXAÇÃO DA PENA-BASE FUNDAMENTAÇÃO CONCRETA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7, STJ. OFENSA AO ART. 155 DO CPP. CONDENAÇÃO BASEADA EM PROVAS COLHIDAS SOMENTE NA FASE INQUISITORIAL. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  4. O Tribunal de origem ao analisar a autoria e materialidade, bem como o o art. 59, do Código Penal, manteve a pena-base acima do mínimo legal, de forma suficientemente fundamentada, em razão do reconhecimento de circunstâncias judiciais desfavoráveis, fazendo incidir o óbice da Súmula 7, STJ a desconstituição de tal entendimento.
+5. Esta Corte possui entendimento jurisprudencial no sentido de que o art. 155 do Código de Processo Penal permite que elementos colhidos na fase inquisitorial possam servir de fundamento à sentença, desde que outros elementos colhidos na fase judicial corroborem tal entendimento.
+6. Agravo regimental não provido.
+(AgRg no AREsp 397.846/PR, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 11/02/2014, DJe 17/02/2014, grifou-se).
+.
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MOEDA FALSA. OFENSA AO ART. 289, §§ 1º E 2º, DO CP. AUSÊNCIA DE COMPROVAÇÃO DO DOLO. PLEITO ABSOLUTÓRIO. DESCLASSIFICAÇÃO DA CONDUTA. INADMISSIBILIDADE. REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. VIOLAÇÃO AO ART. 59 DO CP. CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. ELEMENTOS CONCRETOS. AFRONTA AO ART. 33, § 2º, "C", DO CP. REGIME INICIAL. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FIXAÇÃO DO REGIME SEMIABERTO. POSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. MALFERIMENTO AOS ARTS. 44 E 45, AMBOS DO CP. PENA PECUNIÁRIA. REDUÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE
+SE NEGA PROVIMENTO.
+ ..
+2. A redação do artigo 289 do Código Penal não ofende o princípio da proporcionalidade ao aplicar pena mais severa ao agente que promove a circulação de moeda falsa para obter vantagem financeira indevida, em comparação ao que, após receber uma cédula falsa de boa-fé, para não sofrer prejuízo, a repassa a terceiros.
+3. Na espécie, as instâncias de origem arrolaram elementos concretos dos autos para desvalorar a circunstância judicial das circunstâncias do crime, o que justifica o acréscimo da pena-base. Incidência do enunciado 83 da Súmula deste Sodalício.
+4. Nos termos dos artigos 33 e 59 do Código Penal, estabelecida a reprimenda em patamar inferior a 4 (quatro) anos de reclusão, é adequada a estipulação do regime inicial semiaberto, eis que a pena-base foi fixada acima do mínimo legal, diante de circunstância judicial desfavorável. Inteligência do enunciado 83 da Súmula deste Sodalício.
+5.É pacífico que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar o quantum adequado a ser fixado a título de prestação pecuniária, com base nas condições econômicas do acusado e no efetivo prejuízo sofrido pela vítima. Impedimento do enunciado nº 7 da Súmula desta Corte.
+6.Agravo regimental a que se nega provimento".
+(AgRg no AREsp 815.155/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 1º/2/2016, grifou-se).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
