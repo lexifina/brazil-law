@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+    “RECURSO DE REVISTA. ADICIONAL DE INSALUBRIDADE. CORTE DE CANA-DE-AÇÚCAR. EXPOSIÇÃO AOS RAIOS SOLARES. CALOR EXCESSIVO. ORIENTAÇÃO JURISPRUDENCIAL Nº 173, II, DA SbDI-1 DO TRIBUNAL SUPERIOR DO TRABALHO ”. (eDOC 25, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, XXVI, do texto constitucional.
+    Nas razões recursais, alega-se que o recorrente teria direito de suprimir as chamadas horas “in itinere” e integração do prêmio produtividade, em contrapartida, estabelecer outras vantagens aos trabalhadores por meio de acordo coletivo. (eDOC 34, p. 2/5)
+     Aduz, ainda, que a vontade das partes devem prevalecer, uma vez que as chamadas horas “in itinere”, seriam uma criação jurisprudencial, de modo que não seria um direito garantido por lei. (eDOC 34, p. 6/8)
+    Por fim, alega-se, que, com a nulidade do acordo coletivo a empresa teria sido penalizada, uma vez que a norma coletiva teria atribuído ao prêmio produtividade natureza indenizatória, já que a empresa não teria, sequer, a obrigação legal de pagar esses valores. (eDOC 34, p. 8)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal Superior do Trabalho manteve decisão do Regional que, ao examinar o conjunto probatório constante dos autos, bem como interpretar acordo coletivo de trabalho, consignou que não seria possível atribuir natureza indenizatória ao prêmio produtividade, bem como não poderia a recorrente suprimir as chamadas hora in itinere. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Aí reside, precisamente, a meu ver, o limite da negociação coletiva: o incremento da condição social da categoria profissional representada por seu sindicato de classe. A partir do momento em que prevalecessem normas coletivas destinadas à satisfação de outros interesses que não os da classe trabalhadora, esvaziar-se-ia não só o conteúdo da norma contida no art. 7º, XXVI, da Constituição Federal, mas principalmente a própria razão de ser das disposições do caput do referido preceito constitucional.
+    À luz da ponderação desses parâmetros, a jurisprudência assente do TST orienta que não há como prevalecer a norma coletiva que atribui natureza indenizatória ao prêmio produtividade, em face do disposto no art. 457 do CLT.
+    (...)
+    Ao meu ver, o legislador ordinário, ao determinar o cômputo das horas in itinere na jornada de trabalho, a partir da introdução do § 2º ao art. 58 da CLT, por força da Lei nº 10.243/2001, o fez com o objetivo de estabelecer um patamar mínimo de proteção ao empregado submetido a tais condições, especialmente quanto aos reflexos das horas de percurso em verbas salariais.
+    (...)
+    O Eg. TRT de origem, portanto, ao considerar inválida a norma coletiva e, por conseguinte, condenar a Reclamada ao pagamento das diferenças de horas in itinere, proferiu decisão em conformidade com jurisprudência assente do Tribunal Superior do Trabalho.” (eDOC 25, p.10/27)
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório e das cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do STF.
+     Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Recurso de revista. Análise dos pressupostos de admissibilidade. Ausência de repercussão geral. Horas in itinere. Jornada de trabalho. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes. 1. O Plenário do STF, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, concluiu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria. 2. A solução da lide não prescinde da análise da legislação infraconstitucional nem do reexame das cláusulas de acordo coletivo de trabalho, os quais são inviáveis no recurso extraordinário. incidência das Súmulas nºs 636 e 454/STF. 3. Agravo regimental não provido.” (ARE 923.188 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 8.3.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Convenção coletiva. Horas in itinere. Supressão. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório e de cláusulas contratuais. Súmulas 279 e 454 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental.”(ARE-AgR 1091269, minha relatoria, Segunda Turma, DJe 9.10.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 30 de novembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
