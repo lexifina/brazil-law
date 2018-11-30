@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Agência Nacional de Transportes Terrestres - ANTT, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. ANTT.
+Inviável a incidência da cláusula de eleição de foro, visto que a demanda não foi proposta contra a autoridade concedente, não objetivando dirimir controvérsias quanto à execução do contrato de concessão, devendo manter-se a competência do juízo a quo para julgamento da demanda.
+Naquela decisão, tendo como pano de fundo ação de nulidade de notificação de infração expedida pela recorrente, o TRF da 4ª Região entendeu pela competência do juízo a quo, diante da inviabilidade da cláusula de eleição de foro contida em contrato aviado pela empresa concessionária, a qual fixava a competência para a ação na cidade de Brasília. Da decisão acima ementada, destaca-se o seguinte excerto:
+A competência territorial é fixada a partir da narrativa formulada pelo autor, de acordo com os fatos alegadamente constitutivos do seu direito.
+Consoante narrativa do pedido extraída do feito originário, o objeto da lide é a anulação de procedimento administrativo conduzido pela ANTT.
+Afirma a ANTT que a multa tem origem na constatação de infração a preceitos previstos no contrato de concessão, devendo, portanto, ser aplicada a cláusula de eleição de foro estabelecida no contrato firmado (cláusula vigésima-segunda), declinando-se da competência para a cidade de Brasília/DF.
+Entretanto, ao que se percebe, em que pese a anulação da infração demandar a análise do descumprimento de eventual cláusula contratual, tal análise é feita de modo secundário, eis que a lide consiste basicamente na ocorrência de eventuais vícios procedimentais, quando da aplicação da sanção pela ANTT. Mesmo porque, acaso fizesse parte do pedido a discussão sobre cláusula contratual, ter-se-ia de integrar à lide a autoridade concedente, no caso a União.Portanto, inviável a incidência da cláusula de eleição de foro, eis que demanda não foi proposta contra a autoridade concedente, não objetivando dirimir controvérsias quanto à execução do contrato de concessão, devendo manter-se a competência do juízo a quo para julgamento da demanda. (grifos não constam do texto original)
+Opostos embargos de declaração, esses foram acolhidos somente para fins de prequestionamento.
+Foi interposto recurso especial, o qual foi provido para que o feito retornasse ao Tribunal a quo visando a análise das questões articuladas nos embargos de declaração.
+Os embargos de declaração foram desprovidos com o seguinte entendimento, in verbis:
+No caso em exame, tenho que não se verifica a omissão apontada pela parte embargante.
+Alega a ANTT que a Agência sequer existia quando da celebração do contrato (1997), motivo pelo qual não poderia ter assinado o referido documento.
+Entretanto, o acórdão embargado foi claro ao estabelecer que em que pese a anulação da infração demandar a análise do descumprimento de eventual cláusula contratual, tal análise é feita de modo secundário, eis que a lide consiste basicamente na ocorrência de eventuais vícios procedimentais, quando da aplicação da sanção pela ANTT.
+Mesmo porque, acaso fizesse parte do pedido a discussão sobre cláusula contratual, ter- se-ia de integrar à lide a autoridade concedente, no caso a União.
+Com efeito, entendeu a Turma que é inviável a incidência da cláusula de eleição de foro, eis que demanda não foi proposta contra a autoridade concedente, não objetivando dirimir controvérsias quanto à execução do contrato de concessão, devendo manter-se a competência do juízo a quo para julgamento da demanda.
+Assim, em que pese o entendimento do STJ no sentido de que a cláusula de eleição de foro não prevalece quando uma das partes demandadas não foi signatária do pacto, na hipótese em exame o fato de o contrato ter sido assinado antes da criação da Agência reguladora não altera o resultado do julgamento. Ocorre que, no caso dos autos, a ação não busca dirimir controvérsias quanto à execução do contrato de concessão, mas sim no que se refere à alegada ocorrência de eventuais vícios procedimentais, quando da aplicação da sanção pela ANTT. (grifos não constam do texto original)
+Superada a questão afeita à alegada violação do art. 535, II, do CPC/1973, foi reiterado o recurso especial para o deslinde da parcela restante do recurso.
+Na parte restante, a recorrente alega violação dos arts. 111, caput e § 2º, do CPC; 55, § 2º, da Lei n. 8.666/93; e 24, caput, VIII, da Lei n. 10.233/11.
+Sustentou o recorrente, em síntese, que o contrato de concessão foi assinado em 1997, antes da instituição da ANTT, o que determina a sucessão implícita desta à União, nas atribuições contratuais, sendo dela a prerrogativa de invocar a cláusula de eleição de foro. Alega, em resumo, que o foro contratual obriga os sucessores, máxime na hipótese de contrato administrativo em que deve prevalecer o art. 55, § 2º, da Lei n. 8.666/93.
+É o relatório. Decido.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da prevalência do exame de vícios procedimentais na aplicação da sanção, sendo desnecessário perquirir acerca da execução contratual, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+De outro giro, verifica-se que a irresignação do recorrente, sobre a aplicabilidade da eleição do foro, demandaria o reexame das convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu por afastar a validade da referida cláusula de eleição.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
