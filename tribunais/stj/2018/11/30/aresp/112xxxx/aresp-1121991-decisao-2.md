@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Os autos noticiam que [NOME] MACIEL ([NOME]) propôs ação de restituição de valores c/c indenização por danos morais e materiais contra COOPERATIVA HABITACIONAL NOVA METRÓPOLE (COOPERATIVA), pois em razão da desistência na compra do imóvel, os valores pagos devem ser restituídos.
+A pretensão foi julgada parcialmente procedente, para declarar rescindido o contrato e determinar a devolução dos valores pagos, deduzidos 15% do montante referente as despesas de administração e comercialização.
+A sentença foi mantida em apelação, cujo acórdão encontra-se assim ementado:
+Rescisão contratual c/c restituição de valores e indenização por danos morais. Instrumento particular de termo de adesão e compromisso de participação em programa habitacional. Agravo retido conhecido e não provido. Impossibilidade jurídica não caracterizada. Pretensão que é admissível no ordenamento jurídico nacional. Prescrição. Aplicação do artigo 205 do Código Civil. Não ocorrência. Autores que deixaram de adimplir os pagamentos de forma espontânea. Aplicação da Súmula 1 deste Tribunal de Justiça. Rescisão bem decretada, com determinação de devolução de 85% dos valores adimplidos. Cláusula contratual que estabelece a retenção de 50% dos valores pagos que afronta disposição do Código de Defesa do Consumidor. Suspensão do processo, com fundamento no artigo 76 da Lei nº 5.764/71. Hipótese que somente se aplica aos atos executivos, não aos atos do processo cognitivo. Dano moral não caracterizado, vez que os Autores deixaram de adimplir os pagamentos de forma voluntária e aguardaram longo tempo para ajuizarem a ação. Recursos não providos. (e-STJ, fl. 277)
+Os embargos de declaração opostos foram rejeitados.
+Contra esses julgados a COOPERATIVA manejou recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, alegando (1) violação do art. 535 do CPC/73, por não se ter apreciado a incidência dos arts. 21, II e III, 38, 71, 72 e 79, parágrafo único, todos da Lei nº 5.764/71 e § 1º do art. 2º e art. 4º da LICC (2) ofensa ao art. 206, § 5º, I, do CC/02, diante da prescrição da pretensão de se pretender a devolução dos valores pagos; e, (3) divergência jurisprudencial e contrariedade aos arts. 21, II e III, 38, 71, 72 e 79, parágrafo único, todos da Lei nº 5.764/71 e § 1º do art. 2º e art. 4º da LICC, porquanto a devolução das parcelas pagas pelo cooperado desistente deve obedecer o percentual adotado pela Assembleia Geral, que na espécie corresponde a 50% do montante.
+Decorreu in albis o prazo para contrarrazões.
+O Juízo Prévio de Admissibilidade negou seguimento ao apelo nobre por não vislumbrar a alegada negativa de prestação jurisdicional, pela não demonstração da violação dos artigos apontados, tão pouco a divergência jurisprudencial.
+Contra essa decisão [NOME] apresentou agravo asseverando que foi demonstrada a violação dos arts. 186, 187 e 927, todos do CC/02 e 330, I, do CPC/73 e a Lei nº 8.078/90.
+ Sem contraminuta, os autos subiram para esta Corte Superior.
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Quanto a análise do recurso interposto, consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão impugnada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois [NOME] não infirmou seus esteios, na medida em que deixou de refutar de forma arrazoada a não verificação de ofensa do art. 535 do CPC/73 e a ausência de demonstração do dissídio jurisprudencial.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos adotados pelo Juízo Prévio de Admissibilidade, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, vejam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO OCORRÊNCIA.
+1 - O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, de forma específica e consistente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+2 - Agravo interno no agravo em recurso especial não provido, com correção de erro material referente à majoração de honorários.
+(AgInt no AREsp 1.210.626/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 24/5/2018)
+PEDIDO DE RECONSIDERAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.  .. . AGRAVO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art.
+1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+ ..
+5. Agravo interno não provido, com aplicação de multa.
+(RCD no AREsp 1230302/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 02/05/2018)
+Nessas condições, NÃO CONHEÇO do agravo interposto por [NOME].
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
