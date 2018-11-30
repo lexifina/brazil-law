@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto pela SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS contra decisão, que não conheceu da reclamação, com fundamento no art. 34, XVIII, "a" do RISTJ, manejada contra acórdão da Corte Especial do Tribunal de Justiça do Estado de Pernambuco, que, em sede de agravo regimental, manteve a decisão, que inadmitiu o recurso especial com fundamento no art. 543-C, § 7º, I, do CPC/1973.
+Sustenta-se, em síntese, que a usurpação de competência desta Corte de Justiça mostra-se flagrante, em virtude do desrespeito à autoridade da decisão proferida nos autos do AgRg no REsp 1.091.363/SC 1.091.393/SC, submetido à sistemática dos recursos repetitivos, visto que o caso sub judice não se amolda à tese firmada nos referidos julgados.
+Alega que, nos termos da Súmula 150 do STJ, compete tão somente à Justiça Federal analisar o interesse ou não da Caixa Econômica Federal, principalmente quando se trata de matéria cuja repercussão atinge diretamente o erário público, como na hipótese, em que a natureza da apólice é do Ramo 66, em observância às Leis ns. 12.409/2011 e 13.000/2014.
+Impugnação consta às e-STJ fl. 354/360.
+Passo a decidir.
+Cumpre registar, desde logo, que o Plenário do Supremo Tribunal Federal, em 05/10/2018, por maioria de votos, nos autos do RE 827.996/DF, reconheceu a existência de repercussão geral da matéria relativa a possível interesse jurídico da Caixa Econômica Federal nas ações que envolvem seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação, a fim de atrair a competência da Justiça Federal para processar e julgar os feitos dessa natureza.
+Diante disso, o Relator do AREsp n. 1.286.068/PE, Ministro Paulo de Tarso Sanseverino, determinou o sobrestamento e a remessa dos autos principais ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso extraordinário com repercussão geral, seja observada as regras dos arts. 1.039 e 1.040 do CPC/2015 (DJe 23/11/2018).
+Em razão desse novo cenário fático-processual, forçoso reconhecer a perda superveniente do objeto da presente reclamação.
+Diante do exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, JULGO PREJUDICADO o presente agravo interno.
+Publique-se. Intimem-se
