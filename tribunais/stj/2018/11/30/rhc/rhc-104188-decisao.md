@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante, em 03/6/2018, sendo a prisão convertida, posteriormente, em preventiva pela prática, em tese, do delito previsto no art. 157, caput, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus junto ao eg. Tribunal a quo, com vistas à revogação da prisão preventiva. A ordem, por seu turno, foi denegada, em julgado cuja ementa é a seguinte:
+"EMENTA: HABEAS COKPUS. PENAL E PROCESSUAL PENAL. ROUBO. PRISÃO PREVENTIVA. ROUBO. 1. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA 2. IRRELEVÂNCIA DE CONDIÇÕES SUBJETIVAS FAVORÁVEIS. 3. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO AVENTADA NA ORIGEM. INEXISTÊNCIA DE ILEGALIDADE APTA À CONCESSÃO DA ORDEM DE OFÍCIO. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA RAZOABILIDADE. INEXISTÊNCIA DE DESÍDIA DA AUTORIDADE IMPETRADA. TRÂMITE REGULAR. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM PARCIALMENTE CONHECIDA E, EM SUA EXTENSÃO, DENEGADA.
+1. Examinando os fólios, não verifico a presença dos requisitos autorizadores da concessão de liberdade provisória nesta ocasião, notadamcnte porque, cm sentido contrário ao que afirma o impetrante, os atos decisórios estão devidamente fundamentados, levando-se em conta o fumus commissi delicti, no que tange aos indícios de autoria e a prova de materialidade do delito e o periculum libertatis com base da garantia da ordem pública.
+2. Quanto as condições subjetivas favoráveis não pressupõe por si só, a revogação da prisão preventiva ou a substituição desta pelas medidas cautelares previstas no art. 319, do Código de Processo Penal, se existem, nos autos, elementos concretos e suficientes a apontar a necessidade de continuação da custódia antecipada.
+3. No que se refere a tese de excesso de prazo, o impetrante não tratou da tese em seu pedido de revogação da prisão preventiva, não sendo a matéria apreciada pelo Magistrado a quo.
+4. No caso, não há como se reconhecer de ofício o excesso de prazo na formação da culpa, visto que a ampliação dos prazos processuais não configura, até aqui, ofensa ao princípio da razoabilidade, cabendo, nesse diapasão, destacar que não se verifica desídia da autoridade impetrada quanto à tramitação ao feito, que tem demonstrado impulso e celeridade regulares ao seu andamento, estando o processo transcorrendo em seu ritmo natural.
+5. Ordem parcialmente conhecida e, em sua extensão, denegada" (fls. 38-39).
+Daí o presente recurso ordinário, no qual sustenta o recorrente, em linhas gerais, que padece de fundamentação idônea o r. decreto prisional que o segregou cautelarmente.
+No ponto, argumenta também que "até presente data, a instrução sequer iniciou, não tendo a defesa contribuído para tal fato, posto que já apresentou a defesa prévia em 22/08/2018, não tendo sido designada audiência até presente data" (fl. 65).
+Requer, ao final, a revogação da segregação cautelar.
+Liminar indeferida, às fls. 91-93.
+O Ministério Público Federal, às fls. 102-106, opinou pelo desprovimento do recurso ordinário, em parecer assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO EM TRANSPORTE COLETIVO. PRISÃO PREVENTIVA DECRETADA PARA A GARANTIA DA ORDEM PÚBLICA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. GRAVIDADE CONCRETA DO CRIME. EXCESSO DE PRAZO NÃO CARACTERIZADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTE DO STJ. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO ORDINÁRIO" (fl. 102).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Com efeito, em consulta ao sítio eletrônico do eg. Tribunal a quo (www.tjce.jus.br), verifica-se pela movimentação processual que, nos autos da ação penal 0137067-35.2018.8.06.0001, foi expedido o alvará de soltura em favor do recorrente, conforme decisão do dia 31/10/2018, in verbis:
+"Por fim, verificando que não mais se evidenciam motivos para a manutenção da prisão preventiva do acusado [NOME], foi a este concedido o benefício da liberdade provisória, determinando-se a expedição do competente alvará de soltura, o qual deverá ser imediatamente cumprido, salvo se outro motivo houver que determine o seu encarceramento" (www.tjce.jus.br).
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo prejudicado o recurso ordinário em habeas corpus.
