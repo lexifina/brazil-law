@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por BV Financeira S/A - Crédito Financiamento e Investimento, contra decisão que deu provimento ao recurso especial do Ministério Público do Estado de Santa Catarina, sob o fundamento de que "o Procon, em virtude do seu Poder de Polícia, detém legitimidade para aplicar multas administrativas em decorrência da prática de condutas ofensivas ao Código de Defesa do Consumidor, independentemente da reclamação ter sido realizada individualmente por um consumidor".
+Inconformada, a parte embargante alega que o decisum teria incorrido em omissão. Para tanto, sustenta que não teria havido indicação "se houve anulação do acórdão recorrido do Tribunal a quo para que outra decisão seja proferida, ou se houve a reforma do acórdão do Tribunal a quo, cuja consequência seria a improcedência da ação em exame" (fl. 412).
+É o relatório.
+Convém ressaltar que a anulação do acórdão decorre da constatação da existência de error in procedendo, que consiste no desrespeito de norma procedimental, tornando o ato nulo.
+Por seu turno, o juízo de reforma, caracterizado pelo error in judicando, tem por fundamento, nas palavras de Barbosa Moreira, "uma má-apreciação da questão de direito ou da questão de fato ou de ambos, pedindo-se, em consequência, a reforma da decisão" (in Comentários ao Código de Processo Civil, 10 ed. Rio de Janeiro: Forense, 2002, v.5, p.267).
+No caso concreto, o acórdão recorrido incorreu em error in judicando ao decidir que o "Procon não tem legitimidade para impor, sob ameaça de aplicação de multa, o cumprimento de obrigação de natureza individual inter partes" (fl. 201). Daí a sua reforma.
+Contudo, não poderia este Superior Tribunal analisar outros aspectos da demanda, como, por exemplo, o alegado valor exacerbado da multa, sob pena de cometer indevida supressão de instância, razão pela qual o decisum embargado determinou o retorno dos autos ao Tribunal de origem, a fim de que, uma vez superada a matéria da legitimidade do Procon, prossiga no julgamento da apelação como entender de direito.
+Nesse contexto, resta evidente que a decisão embargada não incorreu em qualquer dos vícios elencados no art. 1.022 do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
