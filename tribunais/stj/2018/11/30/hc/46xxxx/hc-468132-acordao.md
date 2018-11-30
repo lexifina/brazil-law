@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ESTELIONATO. AUSÊNCIA DE CONTEMPORANEIDADE. TEMA NÃO APRECIADO NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESPROPORCIONALIDADE DA SEGREGAÇÃO EM FACE DE FUTURA REPRIMENDA. ANTECIPAÇÃO DA ANÁLISE DA DOSIMETRIA DA PENA. NÃO CABIMENTO. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. Não se conhece da tese de ausência de contemporaneidade dos fatos justificadores da prisão, pois tema não submetido ao crivo do Tribunal de origem, sob pena de indevida supressão de instância.
+2. A desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise.
+3. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na vivência delitiva do paciente, pois apontado que responde a outros processos pelos crimes de estelionato e falsificação de documento público, bem como por estar foragido da justiça, não há que se falar em ilegalidade.
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de RICARDO [NOME] DA CRUZ, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que denegou o writ de origem, por acórdão assim ementado (fl. 9):
+Habeas corpus. Estelionato. Prisão preventiva. Ordem pública. Cuidando-se de réu que responde a outros processos por estelionato e falsificação de documentos, encontrando-se também foragido da justiça, tem-se que sua liberdade coloca em tese em risco a ordem pública, o que reclama a manutenção do decreto de sua prisão preventiva.
+Consta dos autos que o paciente responde pela prática do crime tipificado no art. 171, c/c art. 14, II, do Código Penal e teve a prisão preventiva decretada por ocasião do recebimento da denúncia.
+No presente writ, o impetrante aponta ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da prisão preventiva. Aduz que o paciente ostenta condições pessoais favoráveis, argumentando que, caso sobrevenha decisão condenatória, fará jus ao regime mais brando para o cumprimento da pena.
+Ressalta que o delito objeto destes autos foi supostamente cometido em 1º/6/2016 e o paciente está preso desde 22/4/2018. Destaca que o paciente não estava foragido, visto que estava assinando mensalmente folha de comparecimento no processo n. 0001752-60.2016.8.26.0288.
+Requer a concessão da ordem, para que seja revogada a prisão preventiva.
+A liminar foi indeferida e foram prestadas as informações,
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Na origem, o processo n. 0001843-04.2017.8.26.0196 encontra-se aguardando a devolução de carta precatória visando a oitiva de quatro testemunhas, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 8/10/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+No presente writ, o impetrante busca a revogação da prisão preventiva do paciente, sob os argumentos de ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da prisão preventiva, existência de condições pessoais favoráveis e desproporcionalidade da segregação em face de futuro provimento condenatório.
+Por fim, não se conhece da tese de ausência de contemporaneidade dos fatos justificadores da prisão, pois tema não submetido ao crivo do Tribunal de origem, sob pena de indevida supressão de instância.
+Por outro lado, a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+Consta dos que o paciente foi denunciado por suposta prática de crime previsto no artigo 171, caput, c/c artigo 14, inciso II, ambos do Código Penal, porque, supostamente, teria tentado obter vantagem ilícita, consistente em financiamento de veículo da marca Toyota, modelo Hilux, ano 2012/2013, em prejuízo da empresa "Credfran", induzindo o funcionário do estabelecimento a erro medidante fraude, utilizando-se para tanto de documento falso, só não se consumando os delitos por circunstâncias alheias à sua vontade (fls. 15/17).
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 18/19 - com destaques):
+ .. .6. Em relação à prisão preventiva.
+Trata-se de requerimento de prisão preventiva do Ministério Público que, inclusive ofertou a denúncia, hoje recebida.
+É O RELATÓRIO. DECIDO.
+Defiro a representação e requerimento do M.P. para o fim de DECRETAR A CUSTÓDIA PREVENTIVA do(a/s) acusado(a/s).
+Ab initio, ressalto que a hipótese se insere dentre aquela prevista no art. 313 do C.P.P., em especial a inserta no inc. I, e, em juízo perfunctório, não se vislumbra ter o acusado agido alicerçado por justificativas.
+Trata-se, em verdade, de autos versando sobre prática do delito de estelionato, existindo indícios suficientes de autoria, elementos estes que permitem dizer que há prova da existência do crime.
+O réu responde a outros processos por estelionato e falsificação de documentos públicos e está foragido da justiça, demonstrando a potencialidade agressiva da sua conduta no meio social. Solto o(a/s) acusado(a/s), continuará a praticar crimes e poderá ainda frustar a aplicação da lei penal.
+Pelo que se vê, é de rigor o deferimento da custódia preventiva requerida.
+ISTO POSTO, presentes os requisitos da prisão preventiva, em especial o da garantia da ordem pública, DECRETO A PRISÃO PREVENTIVA DE [NOME], com fundamento nos arts. 312 e 313, inc. I, ambos do C.P.P.
+Expeça(m)-se, pois, mandado(s) de prisão. .. ..
+Como se vê, o decreto prisional tem fundamento na vivência delitiva do paciente, pois foi apontando que responde a outros processos pelos crimes de estelionato e falsificação de documento público, bem como por estar foragido da justiça.
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013. Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Esta Corte também tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Analisando a certidão de antecedente criminais do paciente (fls. 56/60), verifica-se que responde a uma ação penal pelo crime de falsificação de documento público, autos n. 1.752/2016, na qual foi denunciado em 22/7/2016, bem como ao processo n. 182/2015, por furto qualificado, que foi denunciado em 13/12/2016, além de outro processo por estelionato, em que não foi possível verificar a situação atual.
+Nesse contexto, embora se trate de estelionato simples, a vivência delitiva do paciente em crimes patrimoniais demonstra o risco concreto de reiteração criminosa.
+Outrossim, mostra-se descabida a pretensão de análise acerca do fato de o paciente estar ou não foragido, pois demandaria o revolvimento do conteúdo fático-probatório dos autos, incompatível com a via eleita.
+Ante o exposto, voto por denegar o habeas corpus.
