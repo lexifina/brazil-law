@@ -1,0 +1,23 @@
+Decisão:
+Ementa: Processual penal. Habeas Corpus. Prisão cautelar. Detração. Supressão de instâncias.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Joel Ilan Paciornik, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. REGIME INICIAL SEMIABERTO PARA O CUMPRIMENTO DA PENA. PENA INFERIOR A 4 ANOS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. GRAVIDADE CONCRETA DO DELITO. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. IRRELEVÂNCIA PARA ALTERAÇÃO DO REGIME INICIAL. CIRCUNSTÂNCIA DESFAVORÁVEL. AGRAVO DESPROVIDO.
+    1. Fixada a pena-base acima do mínimo legal em razão da presença de circunstâncias judiciais desfavoráveis e aplicada a pena em patamar inferior a 4 anos, correta a aplicação de regime prisional mais gravoso, que no caso é o semiaberto, nos termos do que dispõe o art. 33, §§ 2º e 3º, do Código Penal – CP e em consonância com a jurisprudência desta Quinta Turma.
+    2. É certo que o § 2º do art. 387 do Código de Processo Penal – CPP, acrescentado pela Lei n. 12.736/2012, determina que o tempo de segregação cautelar deve ser considerado na pena imposta, para o estabelecimento do regime prisional fixado pela sentença condenatória, não se confundindo com o instituto da progressão de regime, próprio da execução penal.
+    Todavia, inexiste flagrante ilegalidade apta a ensejar a concessão da ordem no tocante à detração do tempo de prisão cautelar dos pacientes para fixação do regime inicial, pois, ainda que descontado o período de segregação cautelar da pena privativa de liberdade imposta, não haveria alteração do regime inicial fixado, tendo em vista que a pena-base foi fixada acima do mínimo legal em razão da presença de circunstância judicial desfavorável, o que justifica a imposição de regime mais gravoso. Precedentes.
+    Agravo regimental desprovido.”
+    2. Extrai-se dos autos que os pacientes foram condenados à pena de 3 (três) anos e 9 (nove) meses de reclusão, em regime inicial fechado, pelo crime previsto no art. 171, caput, c/c o art. 71, do Código Penal.
+    3. Da sentença, acusação e defesa apelaram. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação do Ministério Público e deu parcial provimento ao recurso da defesa a fim de reduzir a pena para 2 (dois) anos e 6 (seis) meses de reclusão e fixar o regime inicial semiaberto.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 452.099, Ministro Joel Ilan Paciornik, não conheceu do writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta que a “matéria trazida no presente writ visa, unicamente, o reconhecimento da ilegalidade na manutenção da prisão dos pacientes, especialmente quando se desconsidera o período de prisão cautelar cumprida por eles, sendo inegável o constrangimento ilegal suportado, especialmente pelo fato de estarem presos, compelidos a manterem-se no cárcere em pena da qual já cumpriram”.
+    6. Prossegue a impetração para destacar que “VIVIANE está presa desde 08 de outubro de 2015, ou seja, há 2 anos e 7 meses. Todavia, sua pena aplicada, após ser redimensionada pelo e. TJSP, foi de 2 anos e 6 meses de reclusão. MICHEL está preso desde 04 de novembro de 2016, ou seja, há 1 ano e 7 meses. E sua condenação também foi de 2 anos e 6 meses de reclusão”. De modo que, “No caso de Viviane, o tempo de prisão já ultrapassou o período pelo qual a paciente foi condenada, pior, em regime inadequado. Em relação a Michel, é fato que ele já cumpriu sua pena quase integralmente no regime integralmente fechado”.
+    7. Com essa argumentação, a defesa requer a concessão da ordem a fim de revogar a prisão dos acionantes.
+    Decido.
+    8. O habeas corpus não deve ser conhecido.
+    9. De início, verifico que a controvérsia dos autos não foi apreciada pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame da matéria por esta Suprema Corte, sob pena de dupla supressão de instâncias.
+    10. Ainda que assim não fosse, observo que a parte impetrante não instruiu os autos com cópia de documentos que comprovem o tempo efetivo de prisão cautelar cumprido pelos acionante. De modo que nem sequer é possível examinar eventual possibilidade de concessão da ordem, ainda que de ofício.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+          Brasília, 30 de novembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
