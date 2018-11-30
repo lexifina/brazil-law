@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE REDUÇÃO DA PENA. FRAÇÃO MÁXIMA. APLICABILIDADE. FUNDAMENTAÇÃO INIDÔNEA. REGIME INICIAL MAIS BRANDO E SUBSTITUIÇÃO DA PENA. POSSIBILIDADE.
+Ordem concedida liminarmente, nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado, pelo Juízo da 2ª Vara Criminal da comarca de Presidente Prudente, à pena de 4 anos e 2 meses de reclusão, em regime inicial fechado, e pagamento de 416 dias-multa pela prática do crime previsto no art. 33, caput, c/c da Lei n. 11.343/2006 (Ação Penal n. 0006493-46.2016.8.26.0482).
+Interposta apelação pela defesa, o Tribunal a quo negou provimento ao recurso.
+Daí a presente impetração, na qual se alega que a natureza e quantidade da droga não é motivo idôneo a afastar a incidência da minorante prevista na Lei de Drogas no seu patamar máximo, porquanto as circunstâncias judiciais são favoráveis ao paciente e a quantidade de droga apreendia não é expressiva (51,21g de maconha).
+Aduz-se que, aplicando-se o redutor na fração máxima, a fixação de regime inicial aberto, bem como a substituição da pena privativa de liberdade por duas restritivas de direitos, são medidas de rigor (fl. 4).
+Requer-se, inclusive em liminar, seja aplicada a causa de diminuição de pena prevista no §4º do art. 33 da Lei de Drogas, em sua fração máxima (2/3), bem como a fixação de regime inicial aberto para cumprimento de pena, com a consequente determinação de substituição da pena privativa de liberdade por restritiva de direitos (fl. 16).
+É o relatório.
+Esta Corte firmou o entendimento de que, na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes (HC n. 407.471/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/9/2017).
+Na hipótese, as instâncias de origem fixaram a fração de 1/6 pelo reconhecimento do tráfico privilegiado, considerando, para tanto, a quantidade de droga apreendida (51,21g de maconha). Ponderou, ainda, a Corte estadual que o paciente não comprovou qualquer atividade lícita, o que indica a dedicação efetiva e não eventual do comércio espúrio, demonstrando que fazia do tráfico de drogas seu meio de vida (fl. 67).
+Contudo, o referidos fundamentos devem ser afastados. A quantidade de entorpecente apreendido, ao contrário do entendimento do Tribunal a quo, não se apresenta como expressiva o suficiente a ponto de afastar a incidência da fração máxima (2/3) de diminuição da pena (art. 33, § 4º, da Lei n. 11.343/06).
+A dedicação à atividade criminosa não passa de mera presunção, pois o fato de não existir comprovação do exercício de atividade lícita pelo acusado não é suficiente para justificar a redução da pena em patamar menor.
+Assim, deve ser redimensionada a pena imposta ao paciente, aplicando-se a minorante do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), na fração de 2/3. Fixa-se, assim, a pena final em 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Quanto ao regime inicial de cumprimento da condenação, sendo o acusado primário e aplicada a causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n.º 11.343/2006, fixada a reprimenda final em quantum inferior a 4 anos de reclusão, é possível o estabelecimento do regime inicial aberto, a teor do disposto no art. 33, § 2º, c, do Código Penal.
+Também não há empecilho à substituição da privativa de liberdade por restritivas de direitos.
+Em razão disso, concedo liminarmente a ordem para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, ficando a pena do paciente estabelecida em 1 ano e 8 meses de reclusão, e 166 dias-multa, no regime inicial aberto, bem como para substituir a pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo competente (Ação Penal n. 0006493-46.2016.8.26.0482, da 2ª Vara Criminal da comarca de Presidente Prudente).
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
