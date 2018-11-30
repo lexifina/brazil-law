@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOÃO PEDRO MATIAS DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado do Espirito Santo.
+Eis a ementa do decisum prolatado (e-STJ fl. 20):
+HABEAS CORPUS - EXECUÇÃO PENAL - LIVRAMENTO CONDICIONAL - NÃO CONHECIMENTO - INCABÍVEL A IMPETRAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO RECURSAL - ORIENTAÇÃO JURISPRUDÊNCIAL DOS TRIBUNAIS SUPERIORES - MATÉRIA AFETA À EXECUÇÃO PENAL - CABÍVEL A 1NTERPOSIÇÃO DE AGRAVO EM EXECUÇÃO PENAL - ARTIGO 197 DA LEP - PEDIDO NÃO ANALISADO PELO JUÍZO DE PRIMEIRO GRAU - SUPRESSÃO DE INSTÂNCIA - ORDEM NÃO CONHECIDA. Na esteira da recente orientação do Supremo TribunaI Federal, acolhida, inclusive, pelo Superior Tribunal de Justiça, revela-se inadmissível o manejo da ação constitucional de Habeas Corpus para análise de matéria passível de impugnação por meio de recurso próprio. Sendo a matéria deduzida na impetração atinente análise de execução da pena e ausente qualquer constrangimento ilegal sanável nesta sede, torna-se impossível a análise da pretensão na presente ação constitucional, devendo o aspecto ser impugnado por meio de Agravo em Execução Penal, previsto no artigo 197 da Lei 7.210/84. Estando o pedido de concessão de livramento condicional ainda pendente de análise pelo Juízo de Primeiro Grau, descabe seu exame por este Tribunal, sob pena de configuração de indevida supressão de instância. Habeas Corpus não conhecido.
+Na presente impetração, a defesa alega, em síntese, que "apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus, quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas, bem como quando ausente decisão, provocando o atraso injustificado na prestação jurisdicional" (e-STJ fl. 7).
+Requer, dessa forma, liminarmente, a suspensão do acórdão prolatado pela Corte de origem. No mérito, pugna pela concessão da ordem para cassar o referido decisum, "determinando-se o regular processamento do habeas corpus nº 0002947-04.2018.8.08.0000 visando julgamento de mérito, como entender de direito, no âmbito da 2ª Câmara Criminal do Tribunal de Justiça do Estado do Espirito Santo" (e-STJ fls. 1/10).
+Informações prestadas pelo Juízo da 9ª Vara Criminal de Vitória/ES (e-STJ fls. 48/55).
+O Ministério Público Federal opina pela prejudicialidade do habeas corpus (e-STJ fls. 57/59).
+É o relatório. Decido.
+Na hipótese vertente, configurou-se a perda de objeto do writ.
+Com efeito, segundo esclarece o Parquet federal (e-STJ fl. 59):
+ ..
+(..) conforme informações de fls. 49 e-STJ, em 20/8/2018 (após a impetração do presente habeas corpus), a Vara de Execuções Penais de Vila Velha se retratou da decisão que indeferiu o livramento condicional e concedeu a benesse, com cumprimento de alvará de soltura em 23/8/2018. 5. Destaca-se, ainda, que o paciente atualmente encontra-se preso pela prática, no dia 31/10/2018, de outro delito, o que ensejou a suspensão do curso do livramento condicional (e-STJ, fls. 49) (..) 6. Desse modo, inviável a determinação à Corte local de apreciação do habeas corpus originário, como pretende a defesa, se o writ está prejudicado pela perda de seu objeto.
+ ..
+Assim, o presente mandamus, efetivamente, perdeu o objeto, diante da alteração da situação fática dos autos, ocasionadora da falta de interesse processual superveniente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
