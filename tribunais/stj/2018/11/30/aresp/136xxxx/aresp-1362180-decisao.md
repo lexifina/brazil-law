@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REDIBITÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SEGURO COM COBERTURA DE 80% NÃO ATRELADO À EXISTÊNCIA DE SINISTRO. DEVER DE INFORMAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça de São Paulo que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a, da CF, desafiando acórdão assim ementado (e-STJ, fl. 164):
+Bem móvel. Compra e venda de veículo usado.
+Alegação de vício oculto, ou seja, veículo sinistrado e objeto de leilão. Ação redibitória cumulada com indenização por danos materiais e morais. Ação julgada improcedente. Veículo adquirido pela autora de revendedora e que era oriundo de leilão, possivelmente por força de rompimento de contrato de financiamento. Seguro com cobertura de 80% que não foi vinculado a sinistro. Ausência de anotação de avarias na venda feita por leilão. Dever de vistoriar o veículo.
+Improcedência corretamente reconhecida. Recurso improvido, com observação.
+O veículo adquirido pela autora junto à revendedora teve origem em leilão extrajudicial, que não é aquele realizado por seguradora por força de perda total, mas por instituição financeira, sem qualquer anotação de avarias, bem como a cobertura do seguro de 80% não foi atrelada à existência de qualquer sinistro, constando ainda vistoria prévia do bem.
+Nas razões do recurso especial (e-STJ, fls. 183-193), a recorrente apontou violação dos arts. 6º, 37 e 67 do Código de Defesa do Consumidor.
+Sustentou, em síntese, que a culpa pelo evento danoso é da recorrida, porquanto no momento da concretização do negócio jurídico deveria informar que o veículo era sinistrado oriundo de leilão judicial.
+Foram apresentadas contrarrazões (e-STJ, fls. 287-299).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da violação do dispositivo apontado e da incidência da Súmula n. 7 desta Corte (e-STJ, fls. 300-301).
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, ao julgar o recurso de apelação, fundamentou o decisum nos seguintes termos (e-STJ, fls. 165-166):
+(..)
+No caso vertente, ficou incontroverso que a autora adquiriu um veículo seminovo (ano/modelo 2005/2006), em 25.08.2014, pelo preço de R$ 25.000,00, com financiamento. Afirma que, quando da vistoria para fins de seguro, ocorrida em 23.06.2015, foi informada que o veículo era oriundo de sinistro e a cobertura seria de 80%, o que foi confirmado ao obter que o veículo foi leiloado pelo Banco Itaú em 30.04.2007.
+Na defesa, foi afirmado que veículo sinistrado é aquele que sofreu avaria ou que seja produto de roubo/furto, característica que fica anotada no histórico do veículo, sendo que o veículo nunca foi objeto de sinistro, tendo sido periciado por empresa idônea que atestou as boas condições. Afirma que o registro de leilão indica que é veículo recuperado de financiamento, sem avaria ou sinistros ou vício.
+A autora comprovou a alegação de que o veículo era oriundo de leilão (fl. 46), restando incontroverso que o veículo em questão foi anteriormente alienado mediante leilão extrajudicial por entidade financeira, possivelmente por força de rescisão do contrato de financiamento e no qual o veículo era a garantia, pois não há qualquer referência a avarias e sinistro.
+Não há demonstração de ocorrência de sinistro, bem como o fato de o veículo ter sido oriundo de leilão não justificaria a recusa da seguradora na cobertura ou, no caso, a cobertura de 80%, segundo a regra do art. 39, IX, do CDC, pois configura prática abusiva. Vale lembrar que houve vistoria técnica, oportunidade em que deveria a empresa, obrigatoriamente, apresentar o motivo que diminuiu a cobertura do seguro.
+Como bem anotado na sentença, não há qualquer referência na proposta de cobertura securitária de 80% da Tabela Fipe como sendo por conta de alegado sinistro, o que, evidentemente, não se confunde com veículo adquirido em leilão (o campo de observações está em branco). A própria autora não traz qualquer subsídio nesse sentido, limitando-se a mera afirmação, com pormenor de que, no momento da compra, não observou qualquer irregularidade, sendo ainda apresentada a vistoria de identificação (fl. 79). Aliás, decorreu certo lapso temporal até que providenciou o seguro e o financiamento foi aprovado.
+O acórdão dos embargos de declaração consignou o seguinte excerto (e-STJ, fls. 180-181):
+(..)
+A convicção da Turma Julgadora já está lançada acerca da questão, destacando que não se trata de veículo sinistrado, mas sim de veículo oriundo de leilão, periciado por empresa idônea com boas condições, sendo que o fato dessa origem não justificaria a depreciação da seguradora, segundo o CDC, art. 39, IX, até porque a empresa sequer apresentou o motivo da diminuição da cobertura e sequer há referência a sinistro.
+Também foi observada a apresentação no ato da compra de vistoria de identificação, com decurso de certo tempo para a providência do seguro. Ademais, o financiamento foi aprovado.
+Logo, não se identificou ofensa ao dever de informação quanto ao detalhe do leilão, pois não resta dúvida em torno da regularidade da situação do veículo.
+Nestes termos, não se justificou o pedido de redibição, pois o pedido foi relacionado com prejuízo pela origem do veículo, prejuízo que, de fato, não restou demonstrado. (Sem grifo no original).
+Dessa forma, rever a conclusão do aresto impugnado e acolher a pretensão recursal demandaria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem em 5% sobre o valor da condenação (e-STJ, fl. 166).
+Publique-se.
