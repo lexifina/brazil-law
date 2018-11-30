@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LEGITIMIDADE ATIVA. ALEGAÇÃO DE OFENSA À COISA JULGADA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+OI S.A. EM RECUPERAÇÃO JUDICIAL (OI S.A.) ajuizou agravo de instrumento contra decisão que julgou improcedente a impugnação ao cumprimento individual de sentença coletiva em favor de ROSEMEIRY FÁTIMA RAIMUNDO (ROSEMEIRY). Alegou, em síntese, ilegitimidade da parte agravada por não estar na lista dos consumidores beneficiados pela ação civil pública.
+O Tribunal de origem negou provimento ao recurso em acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA - LEGITIMIDADE ATIVA - VERIFICADA - RECURSO CONHECIDO E DESPROVIDO.
+Não tendo a agravante ilidido a titularidade, validade e exigibilidade do contrato firmado entre as partes, deve ser mantida a decisão no ponto em que rejeitou a arguição de ilegitimidade ativa (e-STJ, fl. 146).
+Inconformada, OI S.A. interpôs recurso especial com base no art. 105, III, a, da CF, por violação dos artigos 502 e 506 do CPC/2015. Aduziu, em síntese, violação dos limites da coisa julgada, reiterando que o nome da recorrida não está na listagem dos beneficiários da ação civil pública e que o pretendido direito ao ressarcimento de valores investidos dependem da comprovação do cumprimento integral do contrato celebrado sob o Programa Comunitário de Telefonia
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo, inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fl. 290/293).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+O inconformismo não merece prosperar.
+A Corte de origem assim dirimiu a controvérsia:
+Neste ponto, entendo que não assiste razão à agravante.
+A parte agravada comprovou sua qualidade de credora da sentença coletiva e, portanto, sua legitimidade para apresentar o presente cumprimento individual de sentença, através da juntada do contrato firmado com a INEPAR (f. 21 dos autos de origem).
+Aliás, em caso de posterior inadimplemento, competia à agravante exigir o débito ou rescindir o contrato. Se cobrou o débito e recebeu a dívida, o contrato foi quitado e é exigível. Se não cobrou ou não recebeu, deveria ter rescindido o negócio e devolvido os valores pagos. Entretanto, a recorrente não provou a rescisão deste negócio e a devolução dos valores eventualmente pagos, nos termos do art. 333, II, CPC, posto que se constitui fato impeditivo do direito da parte adversa.
+Sem rescisão, o contrato é válido e suas cláusulas e efeitos exigíveis.
+A transferência deste contrato a terceiros também constitui óbice ao direito da parte agravada, cuja prova não se desincumbiu a agravante de produzir. Note-se que não foi juntado aos autos qualquer documento de cessão ou transferência de direitos pela parte agravada, nem mesmo de transferência da linha telefônica para instalação em endereço diverso em favor de novo titular, o que não se presume.
+Outrossim, o fato do nome da parte agravada não constar em lista de consumidores que transferiram direitos ao Município, não significa que não seja titular do contrato ou da linha telefônica, nem que não seja credora da obrigação reclamada, porque figurar nesta lista nunca foi condição imposta na sentença coletiva, a qual garante a todos aqueles que firmaram contratos nos moldes do Programa Comunitário de Telefonia o direito a serem investidos na condição de assinantes/acionistas, devendo inclusive receber dividendos.
+Portanto, não tendo a agravante ilidido a titularidade, validade e exigibilidade do contrato firmado entre as partes, deve ser mantida a decisão no ponto em que rejeitou a arguição de ilegitimidade ativa. (e-STJ, fl. 148, sem destaques no original).
+Da leitura da transcrição, verifica-se que o Tribunal a quo julgou a causa de acordo com as circunstâncias do caso concreto. Assim, para alterar-se a conclusão a que chegou o acórdão recorrido, sobre a legitimidade de ROSEMEIRY para figurar como demandante no cumprimento individual da sentença coletiva, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula nº 7 do STJ.
+Nessas condições, com fundamento no art.1.042, § 5º, do NCPC, c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários recursais uma vez que não são aplicáveis ao presente caso. Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
