@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FUNDAÇÃO SAÚDE ITAÚ S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado:
+PLANO DE SAÚDE OFERECIDO POR EMPREGADORA. MANUTENÇÃO DO CONTRATO DE ASSISTÊNCIA MÉDICA NAS MESMAS CONDIÇÕES DE QUANDO ESTAVA TRABALHANDO. PAGAMENTO INTEGRAL DA MENSALIDADE. APLICABILIDADE DO ART. 31 DA LEI 9656/98. RECURSO NÃO CONHECIDO.
+1- Sentença que julgou procedente a ação, para condenar a requerida a manter a autor a e seu dependente vinculados ao plano de saúde, assumindo integralidade da mensalidade.
+2- Apelo não conhecido, com determinação de remessa à Justiça do Trabalho.
+Os embargos de declaração foram rejeitados (fls. 443-446).
+Nas razões do recurso especial (fls. 477-482), a parte recorrente alega violação dos arts. 42, 44, 64, §§ 1º e 4º, do CPC/2015, sob o argumento de que "o presente caso não comportaria o reconhecimento da incompetência da justiça civil e consequente remessa a justiça do trabalho, tal qual restou decidido".
+É o relatório. DECIDO.
+2. O Tribunal de origem, ao dirimir a controvérsia que lhe foi apresentada, consignou (fls. 416-419):
+II) Reconhecida a estreita relação entre o direito pleiteado na ação e o antigo contrato de trabalho, já que a prestadora do serviço de saúde é uma fundação mantida pela própria empregadora da autora, esta Relatoria, revendo anterior posicionamento, passou a entender pela incompetência da Justiça Estadual para julgar ações envolvendo plano de saúde fornecidos pela empregadora.
+(..)
+III) Diante de tais fundamentos, portanto, não se conhece do recurso, determinando-se a remessa dos autos à Justiça do Trabalho.
+Da leitura do excerto acima colacionado, verifica-se que o Sodalício Bandeirante afirmou que a discussão relacionada à manutenção no plano plano de saúde diz respeito à situação jurídica ligada ao antigo contrato de trabalho, uma vez que a prestadora do serviço de saúde é mantida pela própria empregadora.
+Ocorre que, em julgamento realizado pela Segunda Seção desta Corte Superior, ao se discutir a questão da competência para julgar controvérsias estabelecidas entre ex-empregados e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, relacionado ao direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, ficou consignado que, nessas situações, inexiste discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista (CC 157.664/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 23/05/2018, DJe 25/05/2018).
+Convém colacionar a ementa do referido julgado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA ESPECIALIZADA DO TRABALHO. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO. 1. Conflito negativo de competência suscitado pelo Juízo Trabalhista. Conclusão ao gabinete em 10/04/2018.
+2. O propósito do presente conflito consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+3. Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88.
+4. Plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, §2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+5. A operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa nº 137/06 da ANS.
+6. O fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+7. Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+8. Declarada a competência da Justiça comum Estadual para julgamento da demanda.
+(CC 157.664/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 23/05/2018, DJe 25/05/2018)
+Desse modo, considerando que a discussão posta nos autos é de natureza eminentemente civil e não trabalhista, deve ser reformado o acórdão recorrido, uma vez que é competência da Justiça comum Estadual o julgamento da demanda.
+4. Ante o exposto, conheço do agravo para dar provimento ao recurso especial para, reformando o acórdão recorrido, reconhecer a competência da Justiça Comum Estadual para o julgamento da causa.
+Publique-se. Intimem-se.
