@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. ALEGAÇÃO DE EXCESSO DE PRAZO NO JULGAMENTO DE EMBARGOS DECLARATÓRIOS OPOSTOS PELA ACUSAÇÃO. SUPERVENIÊNCIA DO RESPECTIVO JULGAMENTO NA CORTE DE ORIGEM. WRIT PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL HENRIQUE DA SILVA MARTIMIANO e LUCAS ALVES DOS REIS apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais nos autos da Apelação n.º 1.0040.15.008366-1/001.
+Consta dos autos que o Paciente GABRIEL foi condenado às penas de 27 (vinte e sete) anos e 3 (três) meses de reclusão, em regime inicial fechado, e de 13 dias-multa como incurso no art. 157, § 3.º, c.c. os arts. 29, 61, inciso II, alíneas c e d, e 62, todos do Código Penal, bem como no art. 211 do Código Penal; o Paciente LUCAS, às penas de 25 (vinte e cinco) anos de reclusão, em regime inicial fechado, e de 11 dias-multa, pela prática dos delitos tipificados nos arts. 157. § 3.º c.c. 29, c.c. 61, II, c e d, do Código Penal.
+Isso porque, em unidade de desígnios e mediante violência consistente em golpes com um martelo na cabeça da Vítima (que resultaram a sua morte), subtraíram uma carteira com cartões bancários, documentos diversos, a quantia de R$ 40,00 (quarenta reais); um veículo GM Cruze LT NB ano 2012; e um aparelho de telefonia celular (fls. 70-85).
+Inconformada, a Defesa interpôs recurso de apelação, que foi provido pelo Tribunal de Justiça do Estado de Minas Gerais para desclassificar o delito de latrocínio para o de homicídio qualificado em concurso com o de furto consumado, nos termos do acórdão assim ementado (fl. 11):
+"APELAÇÃO CRIMINAL - LATROCÍNIO - VIOLÊNCIA QUE RESULTA MORTE - AUSÊNCIA DE ANIMUS FURANDI NA CONDUTA - SUBTRAÇÃO PATRIMONIAL POSTERIOR - DESÍGNIO AUTÔNOMO - DESCLASSIFICAÇÃO PARA HOMICÍDIO - RECONHECIMENTO DA INCOMPETÊNCIA ABSOLUTA DO JUÍZO MONOCRÁTICO - ANULAÇÃO AB INITIO DO PROCESSO. I - Se a violência foi praticada por motivo pessoal, não estando devidamente configurado o animus furandi, e a subtração foi posteriormente à morte da vítima, em desígnio autônomo, não há que se falar em latrocínio e, sim, em homicídio. II - Quando se reconhece a incompetência absoluta em razão da matéria, o processo é anulado ab initio, conforme posição dominante na jurisprudência. III - Desclassificar o delito, reconhecer a incompetência absoluta do juízo singular desde o inicio do processo e remeter os autos para o Tribunal do Júri."
+Seguiram-se embargos de declaração opostos pelo Ministério Público estadual.
+No presente writ, alega a Defesa excesso de prazo para o julgamento dos declaratórios. Aduz que "os embargos ministeriais atrasaram em quase (um) ano o feito.  ..  E este atraso processual não fora causado pelos PACIENTES ou por sua defesa. A culpa é exclusivamente estatal, aqui leia-se, Ministério Público de Minas Gerais, que embargou uma decisão clara, incontroversa e bem fundamentada, pelo simples condão protelatório" (fl. 4).
+Sustenta, ainda, que "os Pacientes são primários, de ótimos antecedentes, tinham residência fixa, e inclusive eram, ambos, menores de 21 anos á época dos fatos" (fl. 5).
+Requer, liminarmente e no mérito, que os Pacientes aguardem o desfecho do processo crime em liberdade, ainda que sejam impostas as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido pela Ministra MARIA THEREZA DE ASSIS MOURA, então Relatora do feito (fls. 116-117).
+Prestadas as informações (fls. 123-162), o Ministério Público Federal opinou pela prejudicialidade do pedido (fls. 204-205).
+É o relatório. Decido.
+Verifico, em consulta ao sítio eletrônico da Corte de origem, que os embargos declaratórios a que se refere a impetração foram julgados em 11/07/2018.
+Dessa forma, está configurada a superveniente perda do objeto do presente remédio heroico.
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
