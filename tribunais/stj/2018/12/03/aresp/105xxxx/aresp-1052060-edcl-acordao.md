@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DO ART. 1.022 DO CPC/2015. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães e o Sr. Ministro Herman Benjamin (Presidente) votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Mauro Campbell Marques e Francisco Falcão.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração opostos por [NOME] contra acórdão proferido nos termos da seguinte ementa (e-STJ, fl. 607):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA.
+1. Inexiste violação do art. 535 do CPC/1973, na medida em que o Tribunal de origem julgou integralmente a lide, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+2. Agravo interno a que se nega provimento.
+Sustenta o embargante que o acórdão recorrido é omisso, porquanto a decisão se silenciou sobre o fato de que: a) mais de 19 vagas além daquelas previstas no edital foram abertas, ainda dentro do prazo de vigência do concurso; b) o candidato classificado em posição imediatamente anterior à do agravante foi convocado para a segunda etapa do certame, porém desistiu do concurso e jamais tomou posse; c) o mesmo direito que assiste ao candidato aprovado dentro do limite de vagas do edital é idêntico ao direto do candidato que é contemplado pela abertura de novas vagas, ainda na vigência do certame; e d) a jurisprudência do STJ ampara seu direito.
+Afirma que ficou classificado na 11ª posição.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+Conforme esclarecido no julgamento do agravo interno (e-STJ, fls. 608-611), neguei provimento ao pleito recursal por não haver violação do art. 535 do CPC/1973 na origem.
+Nas razões do recurso, o embargante alega que a decisão ora recorrida é omissa, pois não apreciou os fundamentos de que: a) mais de 19 vagas além daquelas previstas no edital foram abertas, ainda dentro do prazo de vigência do concurso; b) o candidato classificado em posição imediatamente anterior à do agravante foi convocado para a segunda etapa do certame, porém desistiu do concurso e jamais tomou posse; c) o mesmo direito que assiste ao candidato aprovado dentro do limite de vagas do edital é idêntico ao direto do candidato que é contemplado pela abertura de novas vagas, ainda na vigência do certame; e d) a jurisprudência do STJ ampara seu direito.
+Ocorre que todos os argumentos foram analisados no acórdão proferido pela instância ordinária e por esta Corte não havendo qualquer omissão.
+Transcrevo trecho do acórdão do Tribunal local (e-STJ, fls. 375-376):
+Conforme consta dos autos, o apelado participou do concurso para perito criminal da Polícia Federal ventilado no Edital nº 25/2004 - DGP/DPF, concorrendo a uma das quatro (4) vagas que existiam para o Mato Grosso do Sul; foi classificado em 11º lugar apenas na primeira etapa do concurso, mas não foi classificado para essa segunda etapa (curso de formação profissional).
+Ou seja: não foi aprovado no certame, que envolvia duas fases.
+Por aí se vê a completa implausibilidade da tese aventada pelo apelado: deseja ingressar no serviço público federal por conta de "decisões judiciais", mas sem ter sido classificado nas duas fases em que se dividiu o concurso, o que necessariamente deveria ocorrer.
+Segue daí que não se pode ter o apelado como "aprovado" e por isso em condições de assumir o lugar de candidato que desistiu de tomar posse mesmo depois de regularmente nomeado.
+Ora, somente "..a regular aprovação em concurso público em posição classificatória compatível com as vagas previstas em edital confere ao candidato direito subjetivo a nomeação e posse dentro do período de validade do certame" (STJ, AgRg no AREsp 209.870/BA, Rei. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/10/2012, DJe 06/11/2012 - AgRg no RMS 33.797/SP, Rei. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 02/10/2012, DJe 09/10/2012).
+Destarte, se a aprovação completa não ocorreu, nenhum é o direito do candidato de se ver chamado para qualquer vaga e, menos ainda, ser nomeado e tomar posse.
+E que segundo as regras do edital somente poderia participar da segunda etapa do concurso (curso de formação profissional) o candidato aprovado dentro do "numero exato" de vagas que foi previsto no edital (item 11.4), sendo que aqueles não aprovados para o curso de formação seriam considerados eliminados do certame (item 11.5).
+Como bem deduzido na apelação, esse critério de aprovação e eliminação obedece aos termos da lei, porquanto está conforme o artigo 12 do Decreto-lei nº 2.320/87, que regulamenta os concursos no âmbito da Polícia Federal.
+Mais descabida ainda é a pretensão de se imiscuir em concurso futuro, que sequer havia se iniciado, e ter como "garantida" uma vaga, mesmo por ordem judiciai, pois isso é manifesta burla contra a seriedade dos concursos; quem foi reprovado num concurso de modo algum tem direito de já ser alojado em certame futuro para a mesma carreira pública. - grifos acrescidos
+Segundo se extrai do excerto acima colacionado, a Corte de origem entendeu que o embargante foi classificado em 11º lugar apenas na primeira fase do concurso, não sendo classificado para a segunda etapa do concurso (curso de formação profissional). Concluiu, ainda, que ele não foi aprovado em certame que envolvida duas fases.
+Em razão desse argumento que sequer foi combatido pelo insurgente nas razões de seus recursos, já se verifica que a decisão não tem qualquer omissão, contradição ou erro. Uma vez que o embargante não foi realmente aprovado no certame, pois não se habilitou para a segunda fase do concurso - curso de formação profissional. Dessa forma, não há que se analisar o surgimento de novas vagas e nem a desistência de qualquer candidato, posto que o embargante não logrou êxito em ser aprovado em todas as fases do certame.
+Assim, não são cabíveis os presentes embargos, haja vista que a real intenção da parte insurgente não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e, sim, rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
