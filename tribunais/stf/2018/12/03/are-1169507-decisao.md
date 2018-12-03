@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO – DESPROVIMENTO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Da sentença, expressamente mantida pela decisão impugnada, consta:
+    Quanto ao mérito da demanda, entendo que a pretensão autoral é improcedente, consoante a seguir se fundamenta.
+    O deslinde da controvérsia reside em se determinar se a vantagem pecuniária instituída pela Lei nº 10.698/2003, no valor de R$59,87 (cinquenta e nove reais e oitenta e sete centavos) possui natureza de revisão geral de remuneração. Com efeito, alega-se que o legislador, ao editar a Lei nº 10.698/2003, numa tentativa de compensar o diminuto reajuste de 1% concedido pela anterior Lei nº 10.697/2003, violou o art. 37, X, da Constituição, pois, ao se estabelecer um valor único de 1%, acrescido dos R$59,87 (cinquenta e nove reais e oitenta e sete centavos) a todos os servidores públicos federais, procedeu com quebra de isonomia na revisão geral determinada pelo dispositivo constitucional citado, beneficiando os servidores em percentuais diversos, tanto maiores quanto minores fossem a remuneração inicial. De tal maneira, como se sabe, em valores proporcionais, os servidores com menor salários foram beneficiados com reajuste maior, tendo o maior percentual concedido sido, justamente, o de 13,23% ora pleiteado.
+    Vejamos, pois, os dispositivos da Lei nº 10.698/2003 que tratam da referida vantagem, in verbis:
+    Art. 1º Fica instituída, a partir de 1º de maio de 2003, vantagem pecuniária individual devida aos servidores públicos federais dos Poderes Executivo, Legislativo e Judiciário da União, das autarquias e fundações públicas federais, ocupantes de cargos efetivos ou empregos públicos, no valor de R$ 59,87 (cinqüenta e nove reais e oitenta e sete centavos).
+    Parágrafo único. A vantagem de que trata o caput será paga cumulativamente com as demais vantagens que compõem a estrutura remuneratória do servidor e não servirá de base de cálculo para qualquer outra vantagem.
+     Art. 2º Sobre a vantagem de que trata o art. 1º incidirão as revisões gerais e anuais de remuneração dos servidores públicos federais. (destaques acrescentados).
+     Da leitura desses dispositivos, infere-se que a referida lei não trata de reajuste geral concedido aos servidores públicos civis federais, mas de mera concessão de verba pecuniária que não se presta a servir de “base de cálculo para qualquer outra vantagem” e tampouco a recompor as perdas inflacionárias de um determinado período.
+    Veja-se que o legislador, ao determinar que sobre tal vantagem “incidirão as revisões gerais e anuais de remuneração dos servidores públicos federais”, fez distinção entre a vantagem concedida e o reajuste geral a que se refere o art. 37, inciso X, da CF/88, este último implementado naquele ano por meio da Lei nº 10.697/2003. Houve, portanto, a concessão de revisão geral de 1%, com efeitos financeiros retroativos a 1º/1/2003.
+     Assim, não cabe ao intérprete modificar a natureza jurídica de uma vantagem prevista em valor certo (R$ 59,87) para transformá-la em revisão geral, notadamente porquanto a revisão geral já fora efetivada pela Lei nº 10.697/2003, no percentual de 1% (um por cento).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 3 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
