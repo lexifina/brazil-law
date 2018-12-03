@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO DO EDIFÍCIO SAINT LAURENT, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 282):
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - FRAÇÃO IDEAL - CONVENÇÃO DE CONDOMÍNIO - LEI 4.591/64 - OBSERVÂNCIA. As taxas condominiais não podem ser cobradas em desacordo com a Convenção de Condomínio e a Lei 4.591/64. Nas cobranças de taxas de condomínio, é vedada a estipulação de juros de mora em taxa superior ao dobro da taxa legal, nos termos do art. 406 e 1.336, §1º, do Código Civil cumulado com o Decreto 22.626/33."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, o recorrente alega violação dos arts. 1.022 do CPC/2015, 406 e 1.336, § 1º, do Código Civil, e Decreto 22.626/1933, além de dissídio jurisprudencial quanto à possibilidade de incidência dos juros convencionados no percentual de 0,33% ao dia em caso de inadimplência.
+Argumenta que o Tribunal de origem deixou de tratar das questões suscitadas nos aclaratórios. Afirma, ainda, que "embora haja limitação de juros pela Lei de Usura, o importe de 0,33% ao dia deve ser respeitado, uma vez que se trata de consectário aplicado a condômino inadimplente, não sendo os juros originários de tributos ou contratos" (e-STJ, fl. 395).
+Sem contrarrazões.
+É o relatório. Decido.
+Inicialmente não vislumbro a alegada violação ao art. 1.022 do CPC/2015, na medida em que o Tribunal de origem examinou todas as questões necessárias ao deslinde da controvérsia.
+No mais, porém, o recurso procede. Isso porque, consoante a jurisprudência desta Corte, após o advento do Código Civil de 2002, "é possível à convenção de condomínio a fixação de juros moratórios acima de 1% ao mês, em caso de inadimplemento das obrigações condominiais, sendo impossível a redução de tais juros com base na lei de usura, regulatória dos contratos de mútuo e inaplicável à convenção que possui a natureza de estatuto normativo ou institucional, e não de contrato." (AgInt no AgInt no AREsp 1.041.312/SP, Relator o Ministro Marco Aurélio Bellizze, DJe de 14/6/2018).
+Observe-se que, embora o entendimento desta Corte seja neste sentido, o Tribunal estadual entendeu, na linha da sentença de primeiro grau, por limitar os juros moratórios a 1% ao mês, senão vejamos:
+"No que diz respeito aos juros de mora de 0,33% ao dia, muito embora tenham sido aprovados em Assembleia de Condomínio, não estão em conformidade com o que estabelece o Código Civil.
+A liberalidade para disposição dos encargos em caso de inadimplência não pode ser contrária aos ditames legais, artigos 406 e 1.336, §1º, do Código Civil cumulado com o Decreto 22.626/33 que veda a estipulação de juros em taxa superior ao dobro da taxa legal.
+Então, no caso, deve ser mantido o valor fixado pelo Juiz singular, diante da inexistência de pedido alternativo da parte autora." (e-STJ, fls. 287/288)
+Assim, o acórdão atacado está em confronto com a pacífica jurisprudência desta Corte e, portanto, merece reforma, o que autoriza, inclusive, o julgamento monocrático deste recurso especial, conforme enunciado da Súmula 568/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial a fim de permitir a cobrança de juros moratórios tal como previstos na convenção condominial.
+Publique-se.
