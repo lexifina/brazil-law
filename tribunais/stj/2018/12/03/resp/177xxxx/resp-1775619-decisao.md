@@ -1,0 +1,27 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEFONIA. ARGUMENTOS NÃO ENFRENTADOS. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Consta dos autos que SONIA MARA FERNANDES MACHADO, YARA CARDOSO CURCIO JUNQUEIRA, MARIA APARECIDA DOS REIS RIBEIRO, BENEDITA SUELI LOPES DE OLIVEIRA, CAMILO FERREIRA DE CASTILHO, ANIBAL ROSA, ROBERTO SEBASTIAO DE OLIVEIRA, ELISETE DE OLIVEIRA COBRA E NASCIMENTO, ADRIANA FORTUNATO DOS SANTOS, MARLENE APARECIDA SENE DE CARVALHO, BENEDICTO COELHO, ROSELI FARIA DA [NOME] AZEVEDO, MARIA LUCINDA LEITE MOREIRA, [NOME], LUIZ CARLOS FERREIRA, EDISON PEREIRA CAVALCANTE, [NOME], MANOEL PEREIRA DO CARMO e SIDNEI [NOME] (SONIA MARA e outros) ajuizaram ação de cobrança cumulada com pedido de indenização contra TELEFÔNICA BRASIL S.A. (TELEFÔNICA) objetivando a complementação de ações não subscritas decorrentes de contrato de participação financeira firmado e consectários legais, julgada procedente.
+O Tribunal de origem deu parcial provimento ao recurso da TELEFÔNICA, nos termos da ementa a seguir transcrita:
+Prestação de serviços - Telefonia - Plano de expansão - Planta Comunitária de Telefonia - Contrato de participação financeira - Sentença de procedência - Recurso da ré - Parcial reforma do julgado, apenas para modificar o critério de contagem da correção monetária - Necessidade - Ação de cunho pessoal e não societário - Prescrição geral - Incidência do art. 177, do CC/1916 e art. 205, do CC/2002 - Pretendida indenização por descumprimento contratual, por parte da ré - Consistência jurídica - Direito do contratante - Existência.
+Cuidando-se de contrato de participação financeira, o contratante tem direito a receber indenização correspondente à quantidade de ações na data da integralização, mais dividendos e bonificações, sob pena de sofrer severo prejuízo, não podendo ficar ao alvedrio da empresa ou de atividade normativa de natureza administrativa o critério para tal, em detrimento do valor efetivamente integralizado.
+Apelo da ré parcialmente provido (e-STJ, fl. 320).
+Os embargos de declaração opostos pela TELEFÔNICA foram rejeitados (e-STJ, fls. 348/355).
+Em seu recurso especial, interposto com base nas alíneas a e c do art. 105, III, da CF/88, a TELEFÔNICA alegou ofensa aos arts. 333, 458, II, e 535, I e II, todos do CPC/73, 6º, VIII, do CDC, e 7º, 8º e 170, e 233, parágrafo único, todos da Lei nº 6.404/76, além de dissídio jurisprudencial. Sustentou (1) a ausência de fundamentação de fato no acórdão recorrido sobre os contratos objetos da causa e omissão do julgado quanto à circunstância de o contrato ter sido firmado sob o sistema de Planta Comunitária de Telefonia e não de participação financeira regular; (2) ilegitimidade passiva para figurar no polo passivo da demanda; (3) a nulidade do acórdão que inverteu o ônus probatório apenas na fase decisória; (4) que o cálculo para a emissão de ações deve considerar o valor patrimonial da ação apurado na mesma assembleia geral em que se deu a integralização da rede;
+Sem contrarrazões (e-STJ, fl. 471), o recurso foi admitido na origem (e-STJ, fls. 475/478).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, foi omisso quanto à data da integralização para contratos de Planta Comunitária de Telefonia, levando-se em consideração os termos dos arts. 7º, 8º e 170 da Lei das Sociedades Anônimas.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Diante do exposto, ACOLHO os embargos de declaração para DAR PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise a referida questão trazida nos embargos de declaração, como entender de direito.
+Advirto que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
+Publique-se. Intimem-se.
