@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão proferido em agravo em execução penal, ementado os seguintes termos:
+EXECUÇÃO PENAL. AGRAVO. UNIFICAÇÃO DE PENAS. PROGRESSÃO DE REGIME. CONDENAÇÃO POSTERIOR. MARCO INICIAL. TRÂNSITO EM JULGADO SUPERVENIENTE. - O trânsito em julgado de sentença superveniente à execução criminal será o marco para a nova unificação das penas e concessão de benefícios, consoante assente entendimento do Superior Tribunal de Justiça.
+Sustenta o recorrente violação dos arts. 3º, parágrafo único, 52, 111, 112 e 118 da Lei de Execuções Penais, ao argumento de ser a data da última prisão o marco inicial para a aquisição dos benefícios da execução, diferentemente, portanto, do que decidido pelo Tribunal a quo.
+Requer, assim, que seja considerada a data da última prisão como data-base para a contagem de eventuais benefícios na execução penal.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+A controvérsia cinge-se à fixação da data-base para a aquisição de benefícios da execução penal, tendo em vista a unificação das penas decorrente de nova condenação.
+O acórdão do Tribunal de origem foi assim sintetizado (fls. 44/45):
+A irresignação do agravante prende-se à data-base para a comutação das penas e concessão de benefícios do apenado, ora agravado, considerando que o Magistrado entendeu ser a data da última prisão e não a do trânsito em julgado da sentença superveniente à execução criminal.
+Ao exame da matéria, embora seja certo que o tema não é pacífico, tenho que assiste razão ao agravante, porquanto, a orientação sedimentada pelo Superior Tribunal de Justiça é no sentido de que a data do trânsito em julgado superveniente é o marco para a unificação das penas e concessão da progressão de regime, com base na somatória das penas restantes a serem cumpridas.
+A propósito, vejamos os seguintes julgados do e. STJ:
+ ..
+Com efeito, levando-se em conta que a questão encontra-se sedimentada perante a Corte Superior, a data do trânsito em julgado da nova condenação deve ser o marco para a contagem de novos benefícios do apenado.
+Diante do exposto, acolhendo integralmente o parecer da Procuradoria Geral de Justiça, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos à origem para elaboração de novos cálculos, considerando a nova data para obtenção de benefícios, a do trânsito em julgado da última sentença penal condenatória.
+A questão foi submetida a julgamento pela Terceira Seção, no REsp 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, na sessão de 22/2/2018, oportunidade em que se firmou a orientação de que a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem, adotando-se, assim, como data-base da unificação a data da prisão provisória, única ou última, nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+Impõe-se, portanto, o restabelecimento da decisão do Juízo das Execuções Penais, que havia fixado como termo inicial para a contagem do prazo para novos benefícios, a data da última prisão do recorrente.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a decisão do Juízo das Execuções Penais.
+Publique-se.
+Intimem-se.
