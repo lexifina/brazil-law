@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo desafiando decisão que inadmitiu o recurso especial, por deserção, diante da ausência do recolhimento das custas de admissibilidade do especial no momento da sua interposição.
+Em suas razões recursais, alega a agravante, em síntese, que deve ser afastada a pena de deserção.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+De fato, a ora agravante apresentou, no momento da interposição do recurso especial, o comprovante de recolhimento das custas devidas à União, mas deixou de realizar o pagamento das custas estaduais.
+Assim, em razão do julgamento pela Corte Especial do REsp n. 844.440-MS, Relator Ministro ANTÔNIO CARLOS FERREIRA, na sessão do dia 6/5/2015, pacificou-se o entendimento do Superior Tribunal de Justiça para admitir a complementação do preparo nos moldes do art. 511, § 2º, do CPC de 1973, quando recolhida, no ato da interposição do recurso, qualquer uma das verbas que o compõem - custas, porte de remessa e retorno etc. Confiram-se: AgRg no AREsp 523.720-SC, Relator Ministro MOURA RIBEIRO, AgRg no AREsp 438452, Relator Ministro PAULO DE TARSO SANSEVERINO, AREsp 577.123-SC, Relator Ministro ANTONIO CARLOS FERREIRA.
+Em face do exposto, dou provimento ao agravo e determino a remessa dos autos à origem para intimação da agravante para que complemente o preparo do recurso especial com recolhimento das custas faltantes no prazo de cinco dias, sob pena de deserção (art. 511, § 2º, do CPC/1973). Suprido o pagamento, deve o Tribunal de origem prosseguir na análise dos demais requisitos de admissibilidade aplicáveis à espécie.
+Publique-se.
