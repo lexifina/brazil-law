@@ -1,0 +1,6 @@
+DECISÃO
+1. Trata-se de habeas corpus impetrado em favor de [NOME], VLADIMIR TORRES MAGALHAES, JADER JESUS PINTO, DIONATAS DOS SANTOS OLIVEIRA, [NOME] GOMES MUHL, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+2. Em consulta ao sistema processual deste Sodalício, verifica-se que, perante esta Corte, foi interposto em favor dos pacientes o REsp n.º 1.745.603/RS, impugnando o mesmo acórdão aqui combatido e sob os mesmos argumentos ora levantados.
+Constata-se, portanto, que a presente impetração se constitui em mera reiteração do pedido anteriormente formulado no recurso apontado, fato que se consubstancia em óbice ao conhecimento do presente mandamus.
+3. Ante o exposto, com fundamento no artigo 34, XX, do RISTJ, não se conhece do presente habeas corpus.
+Publique-se e intimem-se.
