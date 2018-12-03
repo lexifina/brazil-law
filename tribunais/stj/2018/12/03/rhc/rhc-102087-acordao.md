@@ -1,0 +1,70 @@
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE E ADEQUAÇÃO. MANUTENÇÃO. CONSTRANGIMENTO ILEGAL INEXISTENTE. RECURSO NÃO PROVIDO.
+1. O art. 319 do Código de Processo Penal traz um rol de medidas cautelares, que podem ser aplicadas pelo magistrado em substituição à prisão, sempre observando o binômio proporcionalidade e adequação.
+2. No caso dos autos, o crime, em tese, praticado pelo paciente - corrupção passiva - possui relação direta com sua função pública, já que viabilizava a prática ou omissão de atos necessários para assegurar o sucesso de determinadas empresas em processos de licitação e ou dispensando a realização de tal procedimento.
+3. Hipótese em que se encontram devidamente fundamentadas as medidas cautelares, pois evidenciadas a necessidade e a adequação do afastamento das funções públicas com o fito de evitar reiteração delitiva e assegurar a instrução criminal, já que o recorrente poderia se valer do cargo para ter acesso a documentos e dados constantes da Câmara Municipal que afetariam o curso normal do processo.
+4. Recurso não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de recurso em habeas corpus interposto por PIO MORAES DE LARA contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Na origem, denúncia em desfavor do recorrente pela suposta prática do crime de corrupção passiva nos autos da Ação Penal n. 0003577-19.2017.8.16.0147, em trâmite no Juízo da Vara Criminal da Comarca de Rio Branco do Sul-PR, por ter aceito vantagem indevida de empresários locais que seriam, em tese, favorecidos em licitações promovidas pelo Município de Itaperuçu.
+O Juízo de primeiro grau, acolhendo pleito formulado pelo Ministério Público, determinou ao recorrente e aos demais agentes públicos denunciados naquela ação penal, as seguintes medidas substitutivas: "a) afastamento, suspensão e/ou proibição do exercício da função pública; b) proibição de contratar com o Poder Público; c) proibição de acesso e frequência às repartições públicas dos Municípios de Itaperuçu e Rio Branco do Sul".
+Contra a referida decisão, o recorrente impetrou habeas corpus no TJPR, cuja ordem foi denegada nos termos da seguinte ementa:
+"HABEAS CORPUS - CORRUPÇÃO PASSIVA - ARTIGO 317 DO CÓDIGO PENAL - MEDIDAS CAUTELARES - AFASTAMENTO, SUSPENSÃO E PROIBIÇÃO DO EXERCÍCIO DE FUNÇÃO PÚBLICA - PROIBIÇÃO DE CONTRATAR E ACESSAR REPARTIÇÕES PÚBLICAS - PLEITO DE REVOGAÇÃO - NÃO CABIMENTO - DECISÃO FUNDAMENTADA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+Não há constrangimento ilegal quando se verifica que a decisão que impôs medidas cautelares foi imposta devido à presença de indícios de autoria e materialidade delitivas em relação ao delito de corrupção passiva, bem como para garantir a ordem pública, econômica e por conveniência da instrução criminal".
+Neste recurso, a defesa sustenta que a acusação não guarda nexo de causalidade com o mandato exercido.
+Assevera, ademais, que a conduta a ele imputada não se reveste de gravidade e sequer há provas de sua prática.
+Destaca que a fixação da medida cautelar baseou-se na gravidade em abstrato do delito não existindo nenhum fato concreto a justificar a adoção da medida extrema de afastamento.
+Requer, assim, a revogação das medidas a ele impostas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE E ADEQUAÇÃO. MANUTENÇÃO. CONSTRANGIMENTO ILEGAL INEXISTENTE. RECURSO NÃO PROVIDO.
+1. O art. 319 do Código de Processo Penal traz um rol de medidas cautelares, que podem ser aplicadas pelo magistrado em substituição à prisão, sempre observando o binômio proporcionalidade e adequação.
+2. No caso dos autos, o crime, em tese, praticado pelo paciente - corrupção passiva - possui relação direta com sua função pública, já que viabilizava a prática ou omissão de atos necessários para assegurar o sucesso de determinadas empresas em processos de licitação e ou dispensando a realização de tal procedimento.
+3. Hipótese em que se encontram devidamente fundamentadas as medidas cautelares, pois evidenciadas a necessidade e a adequação do afastamento das funções públicas com o fito de evitar reiteração delitiva e assegurar a instrução criminal, já que o recorrente poderia se valer do cargo para ter acesso a documentos e dados constantes da Câmara Municipal que afetariam o curso normal do processo.
+4. Recurso não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Segundo dispõe o art. 282 do Código de Processo Penal "deverão ser aplicadas observando-se: I - a necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais; II - adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado".
+Por sua vez, é certo que o art. 319 do Código de Processo Penal traz um rol de medidas cautelares, que podem ser aplicadas pelo magistrado, independentemente de provocação da acusação, em substituição à prisão, sempre observando o binômio proporcionalidade e adequação
+Na espécie, o Juízo a quo determinou as medidas cautelares sob os seguintes fundamentos:
+"Analisando, entretanto, toda a situação colocada, como bem ponderado pelos [NOME], a medida extrema de privação da liberdade pode ser substituída por outras medidas cautelares, especialmente a de afastamento, suspensão e/ou proibiação do exercício da função pública e a de proibição de contratar com o Poder Público.
+A medida de afastamento, suspensão e/ou proibição do exercício da função pública é imprescindível no caso vertente, a fim de se evitar que os denunciados, no exercício das respectivas atribuições, criem entraves e obstáculos durante a instrução processual. Parece-me claro que, exercendo as funções que lhes são/eram iminentes junto dos Poderes Executivo e Legislativo Municipal, com plenos poderes, perturbar a prova, influenciando testemunhas e prejudicando o andamento processual.
+Observe-se ainda que os denunciados, caso não sejam afastados ou proibidos de exercerem cargos públicos, continuarão a praticar os mesmos delitos e seguirão a ter acesso pleno a todos os documentos e dados constantes no arquivo da Prefeitura e Câmara Municipal, podendo impedir que as necessárias provas venham a ser produzidas, no decorrer da ação penal. Prejudicada também restará a correta aplicação da lei, como consequência lógica.
+Ante as considerações acima deduzidas, e analisando-se os fatos concretos trazidos à baila, verifica-se agregado aos autos, como fortes indícios do envolvimento dos réus, de modo a justificar a medida requerida de suspensão do exercício da função pública, determinando a imediata comunicação à Prefeitura e Câmara Municipal de Itaperuçu para as devidas providências.
+Diante de todo o exposto, fixo a as seguintes medidas substitutivas: todos os denunciados a) Afastamento, suspensão e/ou proibição do exercício da função pública;
+b) Proibição de contratar com o Poder Público;
+c) Proibição de acesso e frequência às repartições públicas dos Municípios de Itaperuçu e Rio Branco do Sul".
+No caso, as medidas cautelares estão devidamente fundamentadas, pois evidenciadas a necessidade e a adequação do afastamento das funções públicas com o fito de evitar reiteração delitiva e assegurar a instrução criminal, já que o recorrente poderia se valer do cargo para ter acesso a documentos e dados constantes da Câmara Municipal, que afetariam o curso normal do processo.
+Sobre o tema, confiram-se os seguintes julgados desta Corte Superior:
+"HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. VEREADOR DE MUNICÍPIO DO PARÁ. PRESIDENTE DA MESA DO LEGISLATIVO MUNICIPAL. INFRAÇÃO AOS ARTS. 288, 312 E 317 DO CÓDIGO PENAL, E ARTS. 89 E 96 DA LEI N. 8.666/1993. PRISÃO PREVENTIVA SUBSTITUÍDA POR MEDIDAS CAUTELARES ALTERNATIVAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL NO AFASTAMENTO DO CARGO PARA O QUAL FOI ELEITO. PEDIDO DE MANUTENÇÃO DO PACIENTE NO PLENO EXERCÍCIO DO MANDATO. ADEQUAÇÃO E SUFICIÊNCIA DAS MEDIDAS MENOS GRAVOSAS APLICADAS. PERICULOSIDADE ACENTUADA DO ACUSADO. MODUS OPERANDI DA CONDUTA. GRAVIDADE CONCRETA DO DELITO. PRÁTICA CRIMINOSA QUE GUARDA RELAÇÃO DIRETA COM O MANDATO ELETIVO DO PACIENTE.
+CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+3. O Tribunal de Justiça do Pará e o Juízo de Parauapebas reputaram suficiente a aplicação de medidas cautelares alternativas ao acusado, Vereador do Município e Presidente da Mesa da Câmara Legislativa, apesar da necessidade de se resguardar a coisa pública e de se proteger o erário, apesar do iminente risco da alteração do estado de coisas, como documentos ou votações que alterem contratos em discussão na ação penal, apesar da possibilidade de se influenciar a prova a ser colhida na instrução, bem como apesar da periculosidade acentuada do paciente, que se demonstra pelo modus operandi das condutas supostamente praticadas.
+4. Caso em que a gravidade do caso não recomenda a permanência do paciente na Câmara de Vereadores de Parauapebas, dado que a prática criminosa guarda relação direta com o mandato eletivo por ele exercido, sob pena de se por em risco a continuidade das atividades ilícitas em apuração.
+5. A decisão singular e o acórdão impugnado evidenciam que foram atendidos os princípios da razoabilidade e da proporcionalidade, quando outros meios, diferentes da prisão preventiva, foram considerados como eficazes a satisfazer as exigências cautelares da hipótese, com a mesma idoneidade, conquanto o comportamento atribuído ao paciente seja grave e deveras reprovável socialmente.
+6. Habeas corpus não conhecido" (HC 343.915/PA, rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, j. 21/6/2016, DJe 29/6/2016).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA. PROVAS DA MATERIALIDADE E INDÍCIOS DE AUTORIA. DESPROPORCIONALIDADE DA MEDIDA CAUTELAR. SUPRESSÃO DE INSTÂNCIA. SUSPENSÃO DO EXERCÍCIO DA FUNÇÃO PÚBLICA DEVIDAMENTE MOTIVADA. PRÁTICA CRIMINOSA RELACIONADA COM O MANDATO ELETIVO. FUNDADO RECEIO DE CONTINUIDADE DAS ATIVIDADES ILÍCITAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COAÇÃO ILEGAL NÃO EVIDENCIADA. RECLAMO CONHECIDO EM PARTE E, NESSE PONTO, IMPROVIDO.
+ ..
+2. Caso em que o recorrente, na condição de vereador, é acusado de solicitar vantagem indevida para se licenciar do mandato e assim permitir que os demais suplentes assumissem a vaga no parlamento municipal, inclusive com divisão de salários.
+3. Estando-se diante de prática criminosa que guarda relação direta com o mandato eletivo exercido pelo paciente, e havendo o fundado receio de que a sua permanência no cargo poder ensejar a continuidade das atividades ilícitas em apuração, inexiste qualquer ilegalidade ou desproporcionalidade na imposição da medida em questão.
+4. Condições pessoais favoráveis não têm o condão de revogar as medidas cautelares diversas da prisão se há nos autos elementos suficientes a demonstrar a sua necessidade, como ocorreu in casu.
+5. Recurso ordinário conhecido em parte e, na extensão, improvido" (RHC 60.014/CE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 7/6/2016, DJe 17/6/2016).
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME DOLOSO CONTRA O ERÁRIO E CONTRA A SAÚDE PÚBLICA. PRISÃO PREVENTIVA FUNDADA NA POSSIBILIDADE DE REITERAÇÃO DA CONDUTA E NA GARANTIA DA ORDEM ECONÔMICA. DESNECESSIDADE DA PRISÃO. CAUTELAR ALTERNATIVAMENTE IMPOSTA. SUSPENSÃO DO EXERCÍCIO DA FUNÇÃO PÚBLICA.
+1. A necessidade e adequação das cautelares penais permite constatar como desnecessária a custódia cautelar para evitar a reiteração delitiva quando medida cautelar outra, menos gravosa, do art. 319, V, CPP, relacionada à suspensão do exercício de função pública ou de atividade de natureza econômica ou financeira, permite também evitar o risco de reiteração delitiva na função.
+2. Habeas corpus parcialmente concedido para substituir a prisão preventiva pela medida cautelar prevista no art. 319, V, do CPP, consistente na suspensão do exercício da função pública" (HC 322.592/SP, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 6/10/2015, DJe 29/10/2015).
+"PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO ATIVA. CORRUPÇÃO PASSIVA. DISPENSA INDEVIDA DE LICITAÇÃO. FRAUDE À LICITAÇÃO. ADVOCACIA ADMINISTRATIVA. PREFEITO. AFASTAMENTO DO EXERCÍCIO DO CARGO. MEDIDA CAUTELAR DIVERSA DA PRISÃO. APRECIAÇÃO EM SEDE DE HABEAS CORPUS. POSSIBILIDADE. RISCO DE REITERAÇÃO. DECISÃO DEVIDAMENTE FUNDAMENTADA. ORDEM NÃO CONCEDIDA.
+ ..
+II - O afastamento do cargo público, no caso de prefeito municipal, impõe fundamentação concreta apta a evidenciar a necessidade de utilização da medida extrema.
+III - In casu, a r. decisão que determinou o afastamento encontra-se devidamente fundamentada no risco de reiteração da conduta delitiva verbis: o "alegado envolvimento dos denunciados em tratativas e fraudes licitatórias que beneficiariam a empresa Viaplan Engenhria Ltda, em troca de vantagens indevidas, revela a impossibilidade de permanência nos cargos, de forma a acautelar a ordem pública.
+Verificada a necessidade de apuração de delitos supostamente cometidos pelos denunciados, sua permanência nos cargos possibilitaria a reiteração das condutas e a indevida interferência na instrução criminal, devendo-se resguardar nesse momento o interesse público".
+Ordem denegada."
+(HC 312.016/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/04/2015, DJe 05/05/2015).
+Desse modo, não se verifica nenhuma ilegalidade a justificar o provimento do recurso por esta Corte.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É o voto.
