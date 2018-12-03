@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por BANCO SAFRA S A , contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PROCEDÊNCIA NA ORIGEM. 1. RECURSO DO BANCO RÉU. 1.1. ALEGAÇÃO DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO E ILEGITIMIDADE PASSIVA AD CAUSAM. TEORIA DA ASSERÇÃO. LIGAÇÃO DAS PARTES ATIVA E PASSIVA ENTRE SI E COM O OBJETO DO LITÍGIO. ADEMAIS, PLAUSIBILIDADE DO DIREITO INVOCADO. PRELIMINARES AFASTADAS. 1.2. PROPALADA AUSÊNCIA DE RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. EMISSÃO INDISCRIMINADA DE CHEQUES SEM PROVISÃO DE FUNDOS POR THS FOMENTO MERCANTIL LTDA. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. OBRIGAÇÃO DO BANCO DE AGIR COM CAUTELA AO CONCEDER CRÉDITO OU FORNECER ACESSO AOS SEUS SERVIÇOS. LIBERAÇÃO DE CENTENAS DE CÁRTULAS SEM QUALQUER ESPÉCIE DE CONTROLE. CHEQUES EMITIDOS SEM LASTRO FINANCEIRO. VIOLAÇÃO DAS NORMAS LEGAIS E INFRALEGAIS, DO BANCO CENTRAL DO BRASIL, VIGENTES E APLICÁVEIS SOBRE A ATIVIDADE FINANCEIRA. DEVER DA CASA BANCÁRIA DE INDENIZAR O PREJUÍZO MATERIAL EXPERIMENTADO PELO BENEFICIÁRIO DO TÍTULO INADIMPLIDO. 2. APELO CONHECIDO E DESPROVIDO" (fl. 225).
+Nas razões do recurso especial, o ora agravante alega, além de divergência jurisprudencial, violação aos arts. 330, II e 485, VI do CPC/2015; aos arts. 14, § 3º e 26, II do Código de Defesa do Consumidor; e ao art. 393 do Código Civil.
+Contrarrazões às fls. 313-317.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+Quanto à alegada vulneração aos arts. 330, II e 485, VI do CPC/2015; aos arts. 14, § 3º e 26, II do Código de Defesa do Consumidor; e ao art. 393 do Código Civil , verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos de declaração para suscitar o prequestionamento das referidas normas. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO IMOBILIÁRIO COM GARANTIA FIDUCIÁRIA. ALEGAÇÃO DE OFENSA AOS ARTS. 330, § 1º, I, 373, 485, I, 492, DO CÓDIGO DE PROCESSO CIVIL DE 2015, E 422 DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DEFERIMENTO DA ANTECIPAÇÃO DA TUTELA. PRESENÇA DOS REQUISITOS AUTORIZADORES. ALTERAÇÃO DAS PREMISSAS ADOTADAS PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1145733/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+Pela alínea "c" do permissivo constitucional, tampouco prospera o especial, dada ausência de prequestionamento dos dispositivos de lei federal agitados para a comprovação do dissídio pretoriano. Nessa linha de intelecção, destaca-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL VERIFICADO NO CASO CONCRETO. VALOR DA INDENIZAÇÃO. EXAGERO NÃO CONSTATADO. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, ainda que opostos embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação da Súmula 211/STJ.
+2. Os recursos especiais interpostos com base na alínea "c" do permissivo constitucional não dispensam o necessário prequestionamento da questão jurídica, o que não ocorreu no presente caso, pois é impossível haver divergência sobre determinada questão federal se o acórdão recorrido nem mesmo emitiu juízo de valor acerca da matéria jurídica.
+(..)
+7. Agravo interno não provido".
+(AgInt no AREsp 1022840/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017 - grifou-se)
+Por fim, conclui-se que o apelo nobre não merece conhecimento.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 15% (quinze por cento) para 16% (dezesseis por cento).
+Publique-se.
