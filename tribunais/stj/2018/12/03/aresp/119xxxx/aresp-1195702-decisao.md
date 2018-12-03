@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por PRÓ SALUTE - SERVIÇOS PARA A SAÚDE LTDA, contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado:
+"Apelação cível. Seguros. Plano de saúde. Ação revisional. Prescrição. Tratando-se de prestações de trato sucessivo e de contrato em curso não há prescrição do fundo de direito. Relativamente ao pedido de restituição de valores eventualmente pagos a maior o prazo prescricional é trienal. Pretensão de ressarcimento. Inteligência do art. 206, § 3º, inc. IV do CC/2002. Tese firmada no julgamento do REsp 1360969/RS, Tema 610, aprovada pelo STJ, na forma dos Recursos Repetitivos. Aplicabilidade do Código de Defesa do Consumidor. Inteligência da Súmula 469 do STJ. Reajuste por mudança de faixa etária. A previsão de reajuste de mensalidade de plano de saúde em virtude de mudança de faixa etária, por si só, não é abusiva. Necessidade de aferição no caso concreto. Autora beneficiária de plano de saúde não regulamentado. Possibilidade de reajustamento no caso concreto. Percentual aplicado que carece de limitação, pois verificada demasiada majoração da mensalidade. Limitação ao percentual de 30%. Apelo parcialmente provido" (fl. 172).
+Nas razões do recurso especial, a ora agravante alega violação ao art. 15 da Lei 9.656/98; ao art. 51 do CDC; e ao art. 15, § 3º da Lei 10.741/03 (Estatuto do Idoso), além de divergência jurisprudencial.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+Nas razões recursais, sustenta a recorrentes ofensa ao art. 15 da Lei 9.656/98; ao art. 51 do CDC; e ao art. 15, § 3º da Lei 10.741/03 (Estatuto do Idoso), em síntese, ao argumento de que o reajuste de 50% (cinquenta por cento) não se mostra discriminatório ou abusivo e que: "os reajustes operados nas mensalidades da Recorrida estão embasados no contrato vigente entre as partes, do qual estes possuíam manifesta ciência, especialmente no que tange ao valor das contraprestações, de modo que optaram pelo ajuste por liberalidade e não por imposição" (fl. 202).
+Por sua vez, o eg. TJ-RS asseverou que o contrato da consumidora com recorrente não é regulamentado pela Lei 9.656/98, uma vez que é anterior a esta e que, nessas hipóteses, o reajuste deve ser apurado caso a caso. É o que se verifica in verbis (fls. 179-187):
+ "Porém, para as situações que se encontram fora dos limites destas vedações, como os contratos não regulamentados e, ainda, os beneficiários de contratos firmados entre 02 de janeiro de 1999 e 31 de dezembro de 2003, que não contavam com 10 anos de participação no plano quando completaram a idade de 60 anos, a abusividade ou não do reajuste deve ser apurada caso a caso.
+ (..)
+ Examinando as particularidades do caso concreto denoto que a autora é beneficiária de contrato de plano de saúde coletivo não regulamentado, firmado antes da entrada em vigor da Lei 9.656/98, tendo sofrido um reajuste de 50% quando completou a idade de 60 anos.
+ (..)
+ Tenho que neste caso houve excessiva majoração da mensalidade do plano de saúde por ocasião do implemento dos 60 anos de idade, impondo ao beneficiário ônus excessivo em sua contraprestação a tornar inviável o prosseguimento do vínculo (..).
+ Por esse motivo, adotando-se critério de razoabilidade, para essa faixa etária, por equidade, e para efeito de integração do contrato, entendo ser caso de substituir o reajuste efetuado pelo percentual de 30%. (grifou-se).
+Nesse contexto, a recorrente não impugnou fundamento nodal ora transcrito, quanto à inaplicabilidade da Lei 9.656/98 ao caso concreto, em razão da celebração do contrato em discussão antes da entrada em vigor do referido diploma legal, o qual é fundamento autônomo e suficiente para mantar o v. acórdão estadual.
+Portanto, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o presente recurso encontra óbice na Súmula n. 283 do STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1035112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017 - grifou-se)
+No que pertine ao alegado dissídio jurisprudencial, tampouco se conhece do apelo nobre, ante da ausência de similitude fático-jurídica entre os acórdãos em comparação, o que inviabiliza a demonstração da divergência pretoriana.
+Por fim, conclui-se que o recurso especial não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de R$ 1.800,00 (um mil e oitocentos reais) para R$ 1.980,00 (um mil novecentos e oitenta reais).
+Publique-se.
