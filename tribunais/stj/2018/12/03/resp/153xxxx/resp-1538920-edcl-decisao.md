@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIMITAÇÃO TEMPORAL DO REAJUSTE. REAJUSTE DE 3,17%. COMPENSAÇÃO COM REESTRUTURAÇÃO DA CARREIRA. LEI 9.654/1998 E MEDIDA PROVISÓRIA 2.225-45/2001. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos pela UNIÃO, em adversidade à decisão que negou seguimento ao seu Recurso Especial, nos termos da seguinte ementa:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. REAJUSTE DE 3,17%. LIMITAÇÃO. LEI 9.654/1998 E MEDIDA PROVISÓRIA 2.225-45/2001. VIOLAÇÃO À COISA JULGADA. RECURSO ESPECIAL 1.235.513/AL, REPRESENTATIVO DA CONTROVÉRSIA. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO (fls. 806).
+2. Às fls. 820/824, a parte embargante sustenta, em síntese, a ocorrência de omissão, pleiteando por sua devida correção, na medida em que não estabeleceu qualquer limitação a percepção do reajuste de 3,17% na remuneração dos Servidores.
+3. Requer que os presentes Embargos sejam acolhidos e providos, a fim de que seja corrigida a omissão apontada, para fins de limitação do reajuste de 3,17% à data de 1.1.2002.
+4. É o relatório.
+5. De início, cumpre esclarecer que o art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+6. No caso dos autos, verifica-se que não há a suposta omissão. Vejamos.
+7. No presente caso, a embargante busca o rejulgamento do mérito da causa, a fim de que prevaleça o entendimento quanto à limitação do reajuste de 3,17% à data de 1.1.2002. Contudo, tais alegações já foram refutadas no acórdão embargado, de onde se extrai que o entendimento assentado pelo Tribunal de origem se alinha a mais recente orientação firmada por esta Corte Superior, segundo o qual a Lei 9.654/1998 não se refere à reorganização ou reestruturação de cargos da carreira, capaz de absorver o pleiteado reajuste de 3,17%, uma vez que trata da concessão de três novas gratificações que não guardam qualquer pertinência com o referido percentual, possuindo naturezas absolutamente distintas.
+8. Desta forma, só seria possível a compensação, em sede de execução, se a reestruturação da carreira realizada pela Lei 9.654/1998 c/c MP 2.225-45/2001 fosse posterior à sentença exequenda, o que não é o caso dos autos, cuja sentença foi proferida em 10.1.2008, sob pena de violar-se a coisa julgada.
+9. Cabe asseverar que não prospera a argumentação de que a limitação prevista no art. 10 da MP 2.225-45/2001 não pode ser arguida no processo de conhecimento, uma vez que, tendo a respectiva sentença sido proferida em 10.1.2008, a questão poderia ter sido alegada no Recurso de Apelação.
+10. Com efeito, não se verifica, na hipótese, a existência de quaisquer dos vícios elencados no art. 1.022 do Código Fux.
+11. Ante o exposto, rejeitam-se os Declaratórios da União.
+12. Publique-se. Intimações necessárias.
