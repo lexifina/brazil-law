@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos pelo ESTADO DE SANTA CATARINA em face de acórdão da egrégia Quinta Turma desta Corte superior (e-STJ, fls. 740/743), que negou provimento ao agravo regimental interposto contra o decisum monocrático que deu provimento ao recurso especial, para determinar que as instâncias ordinárias procedessem à fixação da verba honorária em atenção aos valores mínimos fixados na tabela da Ordem dos Advogados do Brasil, Seccional de Santa Catarina (e-STJ, fls. 752/760).
+É o relatório.
+Acerca da matéria posta em deslinde, o ilustre Ministro Rogério Schietti Cruz afetou os Recursos Especiais n. 1.656.322/SC e n. 1.665.033/SC para julgamento pela Terceira Seção pela sistemática dos recursos repetitivos (art. 1.036, § 5º, do Código de Processo Civil/2015), ocasião em que determinou o sobrestamento dos recursos especiais interpostos, bem como aqueles recursos que já foram decididos, mas que ainda pendem de agravo regimental ou embargos de declaração, relativo aos parâmetros de fixação de honorários de advogados indicados para atuar como defensores dativos no âmbito penal (Tema 984).
+Em consequência, chama-se o feito à ordem para determinar o sobrestamento deste feito e a remessa dos autos à Coordenadoria da Quinta Turma a fim de que se aguarde o julgamento dos referidos recursos especiais repetitivos.
+Após, voltem-me os autos conclusos.
+Publique-se. Intime-se.
