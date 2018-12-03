@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO MAJORADO. ART. 157, § 2º, INC. I, DO CÓDIGO PENAL. EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE DIANTE DE OUTROS MEIOS DE PROVA.
+Agravo conhecido para negar provimento a recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME], representado pela Defensoria Pública do Mato Grosso, contra decisão que não admitiu seu recurso especial, fundamentado na alínea a do permissivo constitucional, apresentado contra o acórdão do Tribunal de Justiça local, proferido na Apelação Criminal n. 133247/2017 (fls. 344/345):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO PELO EMPREGO DE ARMA E CONCURSO DE AGENTES, E, PORTE ILEGAL DE ARMA DE USO PERMITIDO - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA - 1) ABSOLVIÇÃO - IMPOSSIBILIDADE - CONTEXTO FÁTICO-PROCESSUAL REVELADOR DA AUTORIA DELITIVA - PROVA ORAL TESTEMUNHAL, - INCOMPROVAÇÃO DA TESE DE NEGATIVA DE AUTORIA - CONDENAÇÃO MANTIDA - 2) FIXAÇÃO DA PENA-BASE AQUÉM DO MÍNIMO LEGAL - INACOLHIMENTO - APLICAÇÃO DA SÚMULA 231 DO STJ/REPERCUSSÃO GERAL - RE 597270/RS - 3) EXCLUSÃO DA MAJORANTE DO EMPREGO DE ARMA POR INEFICIÊNCIA DA ARMA - DELITO COMETIDO COM EMPREGO DE DUAS ARMAS, SENDO QUE UMA DELAS NÃO FOI APREENDIDA PARA PERÍCIA - MAJORANTE MANTIDA - APELOS DESPROVIDOS.
+1. Impossível a absolvição dos réus condenados por roubo e um deles ainda por porte ilegal, quando evidenciando nos autos elementos probatórios válidos dando a certeza quanto à ocorrência do crime e da autoria delitiva, ressaltando que os depoimentos de policiais e vítimas dos delito são meios de prova idôneos para embasar a condenação, quando tomados em juízo, sob o crivo do contraditório.
+2. A incidência de circunstância atenuante não pode conduzir a pena abaixo do mínimo legal, ex vt do enunciado Sumular do STJ n. 231 e tema de Repercussão Geral através do RE 597270/RS.
+3. O entendimento prevalente perante esta 3a Câmara Criminal, sedimentado em conformidade com o STJ, mantem-se pacífico no sentido de que para a incidência da majorante é prescindível a perícia da arma usada no roubo, desde que evidenciada a sua utilização por outros meios de prova.
+Apelos desprovidos.
+Alega o agravante, no especial, violação do art. 157, § 2º, inc. I, do Código Penal, sustentando que foi constatado pelo auto de apreensão e pela perícia que a arma  apreendida  era ineficaz para produção de disparos, fato que evidencia a ausência da potencialidade lesiva do instrumento, sendo, de rigor, o afastamento da referida majorante (fl. 380).
+Diz ter havido afronta aos arts. 158, 159 e 175 do Código de Processo Penal, por entender que para a configuração de emprego de arma de fogo como causa de aumento da pena é imprescindível que haja a apreensão da arma e a realização de exame que ateste a sua capacidade vulnerante, pois, do contrário, tal circunstância poderá configurar no máximo, uma elementar do tipo (fl. 381).
+Por conta disso, assevera que não bastando que  a segunda  arma não fora apreendida,  E  não  fora  periciada, é vedado presumir o seu potencial lesivo (fl. 381).
+A Subprocuradoria-Geral da República opinou pelo desprovimento do agravo (fls. 451/455):
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade, sobretudo por infirmar especificamente os fundamentos adotados.
+Passo ao exame do recurso especial.
+O inconformismo não merece abrigo.
+Inicialmente, em relação à alegação de falta de potencialidade lesiva do armamento apreendido, o Tribunal de Justiça matogrossense afirmou que o magistrado pode se utilizar da outra arma que não foi apreendida,  quando  comprovado o seu emprego e intimidação pelo depoimentos das vitimas realizado em juízo (fl. 351), citando jurisprudência do Superior Tribunal de Justiça no mesmo sentido.
+Entretanto, o recorrente deixou de infirmar o fundamento elencado, limitando-se a argumentar que a constatação pericial da falta de potencialidade lesiva da arma apreendida impede a incidência da causa de aumento, motivo pelo qual incide o enunciado n. 283 do STF.
+No tocante à necessidade de apreensão e de perícia da arma de fogo, observo que o Tribunal de origem decidiu pela configuração da majorante, com base em outros elementos de prova que indicaram a efetiva utilização do armamento.
+Por oportuno, anoto os seguintes trechos do acórdão recorrido (fl. 351):
+No que tange a alegada ineficiência da arma dc fogo
+apreendida, conforme conclusão de fls. 154, nada muda em relação a situação fática
+dos recorrentes uma vez que todas as vítimas afirmaram que ambos os recorrentes estavam armados no momento do delito.
+Conquanto, não se possa utilizar da arma apreendida sem potencialidade para majorar o crime - conforme corrente pacífica do Superior Tribunal de Justiça (HC 91598/SP), o certo que pode o magistrado se utilizar da outra arma que não foi apreendida, porem, comprovado o seu emprego e intimidação pelo depoimento das vítimas realizado cm juízo, conforme, também, entendimento da nossa Corte Superior, in verbis:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO APREENDIDA E NÃO PERÍCIA DA. AFASTAMENTO DA MAJORANTE. DESNECESSIDADE DE COMPROVAÇÃO DA POTENCIALIDADE LESIVA. SUFICIÊNCIA DE PROVAS AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte perfilha no sentido de que a apreensão ou sua ausência e a conseqüente impossibilidade de realização de perícia não afastam a causa de aumento de pena. se presentes outros elementos que demonstrem sua efetiva utilização nos crimes de roubo praticados com emprego de arma.
+2. Agravo regimental desprovido." (AgRg no REsp 1695539/SP. Rel. Ministro JOEL 1LAN PACIORNIK. QUINTA TURMA, julgado em 12/12/2Ü17. DJe 01/02/2018).
+Portanto, demonstrado nos autos a autoria e materialidade delitiva, bem como o emprego de arma de fogo, não há causa a afastar a ilicitude ou culpabilidade, razão pela qual se pode concluir que o conteúdo probatório apurado é suficiente para sustentar a condenação contra os réus quanto ao delito de roubo majorado.
+No mesmo cerne, as provas sustentam a condenação do recorrente André com relação ao delito de porte ilegal de arma de fogo e munição de uso permitido, uma vez que as munições apreendidas demostraram serem "EFICIENTES", conforme conclusão do laudo realizada à fl. 155.
+Tal compreensão vai ao encontro do entendimento consolidado do Superior Tribunal de Justiça de que é prescindível a apreensão e a perícia da arma para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito, como no caso concreto,  ..  (AgRg no REsp n. 1.712.795/AM, de minha relatoria, Sexta Turma, DJe 12/6/2018).
+Por conseguinte, vejo que o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, motivo pelo qual não merece reparos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, inc. II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
