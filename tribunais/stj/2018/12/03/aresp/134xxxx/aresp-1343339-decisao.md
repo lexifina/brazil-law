@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de cobrança" promovida por [NOME] em desfavor de [NOME] REIS ROMAO E OUTRA, cujo pedido foi julgado parcialmente procedente, conforme sentença de fls. 242-247, para condenar os demandados a pagarem os débitos relativos à água e à energia elétrica pendentes até a data da efetiva entrega das chaves.
+Diante disso, [NOME] interpôs apelação, que foi desprovida pelo eg. TJ-SP, conforme v. acórdão, assim ementado (fls. 296):
+"Ação de cobrança de encargos locatícios. Laudo de vistoria de saída unilateral. Falta de prova concreta de que a alegada deterioração do imóvel se deu pelo mau uso ou falta ao dever de conservação do bem. Responsabilidade do locatário por alegados danos não demonstrada. Mitigação do princípio "pacta sunt servanda". Imóvel que no início da locação já apresentava sinais de desgaste pelo tempo e com pintura antiga. Abusiva cláusula que determina a entrega do imóvel com pintura nova. Desrespeito ao art. 23, III, Lei 8.245/91. Recebimento pelo locador do imóvel no estado que se encontrava. Anuência tácita. Lucros cessantes não comprovados. Sentença mantida. Apelo improvido".
+Inconformado, [NOME] manejou recurso especial, com fulcro nas alíneas "a" e "c", inciso III, do art. 105 da Constituição Federal, no qual alega, além de divergência jurisprudencial, violação aos arts. 421 e 422 do Código Civil e ao art. 23, II e III da Lei 8.245/91.
+Contrarrazões às fls. 502-508.
+Como dito, o apelo nobre foi inadmitido (fls. 509-511), motivando o manejo do presente agravo em recurso especial.
+Contraminuta às fls. 525-528.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+De início, quanto à alegada violação aos arts. 421 e 422 do Código Civil, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para suscitar o prequestionamento das referidas normas. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Avançando no presente exame, nas razões recursais, sustenta o recorrente ofensa ao art. 23, II e III da Lei 8.245/91, em síntese, ao argumento de que foram desconsideradas "as provas documentais e fotos acostadas aos autos e que provavam que os Recorridos não cumpriram com as suas obrigações legais e contratuais" (fl. 308).
+Por sua vez, o eg. TJ-SP, mantendo a d. sentença, entendeu que foi respeitado o art. 23, III, da Lei 8.245/91, pois o locador recebeu dos locatários as chaves do imóvel, no estado em que se encontrava, concordando tacitamente com a entrega. É o que se verifica in verbis:
+"Ademais, a referida cláusula permitia ao locador não aceitar a devolução das chaves, permanecendo os locatários responsáveis pelos aluguéis, caso recusasse a pintura. Logo, se o locador recebeu as chaves, anuiu tacitamente com a entrega do imóvel no estado em que se encontrava - mormente tendo ciência da necessidade dos locatários em entregar as chaves e realizar a vistoria no mesmo dia em detrimento de mudança para outro Estado" (fls. 298-299).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, ora transcrito, demandaria o revolvimento de suporte fático-probatório dos autos, bem como o reexame de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem a Súmulas 5 e 7/STJ.
+Por fim, conclui-se que o nobre apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% (quinze por cento) para 16% (dezesseis por cento).
+Publique-se.
