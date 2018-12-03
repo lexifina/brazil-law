@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GISELLY [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado de Mato Grosso do Sul que não admitiu recurso especial interposto pela alínea c do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial de e-STJ fls. 565/566, verbis:
+O Tribunal de Justiça do Mato Grosso do Sul manteve a condenação da agravante pela prática de receptação qualificada. Reformou parcialmente a sentença, contudo, para reduzir-lhe a pena para 3 anos de reclusão.
+O julgado, e os embargos contra ele interpostos, foram assim ementados (e-STJ fls. 373-374 e 407):
+EMENTA - APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - RECEPTAÇÃO QUALIFICADA (ART. 180, §1º DO CP) - JOIA FURTADA - PRELIMINAR - NULIDADE DO LAUDO DE AVALIAÇÃO INDIRETA - IMPOSSIBILIDADE - AUTO FIRMADO POR DOIS POLICIAIS DE NÍVEL SUPERIOR - INTELIGÊNCIA DO ART. 159, §1º, DO CPP - PRELIMINAR REJEITADA - MÉRITO - ABSOLVIÇÃO - INVIALIDADE - PRETENSÃO DE DESCLASSIFICAÇÃO PARA RECEPTAÇÃO SIMPLES OU CULPOSA - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADA - QUALIDADE DO AGENTE - CIRCUNSTANCIAS QUE COMPROVAM A ATIVIDADE DE COMERCIANTE - PENA-BASE - CONSEQUÊNCIAS - DÚVIDAS QUANTO AO REAL VALOR DO BEM - INCONGRUÊNCIA QUE SE RESOLVE A FAVOR DO RÉU - RECURSO PARCIALMENTE PROVIDO.
+I. Um dos requisitos para o exercício do cargo de investigador de policia civil é o nível superior, sendo que o dispositivo do código de processo penal não exige como obrigatório que o nível superior seja na área específica, esclarecendo apenas a preferência por tal requisito. Preliminar rejeitada.
+II. A apelante não agiu com a devida cautela e a prudência necessária que a própria atividade comercial exige, pois quando adquiriu a joia que foi furtada da vitima, não se preocupou em exigir de quem lhe vendeu as peças retiradas de forma ilícita da vítima, qualquer tipo de nota fiscal ou mesmo um recibo que pudesse comprovar a origem dos objetos encontrados na joalheria do acusado, fato este que, como se sabe, é punido na forma do parágrafo 1º do art. 180 do CP.
+Portanto, ela assumiu o risco de cometer o delito, ao comprar o objeto furtado, sobretudo por ser experiente no ramo de ourives, sendo inviável a desclassificação para modalidade culposa.
+III. Quanto à qualidade da ré para figurar na modalidade qualificada do crime, é certo que o disposto no § 1º do artigo 180 do Código Penal exige a conduta seja perpetrada por comerciante ou industrial. Na hipótese, a ré afirmou na fase judicial que comprou a joia, emitiu declaração de venda, levou a joia para casa, derreteu o artefato, fabricou um par de alianças, evidenciando portanto a situação de comerciante, sendo de pouca importância que o estabelecimento comercial esteja em nome de terceiro, no caso sua genitora.
+IV. Como consequências do crime entende-se os efeitos (maior ou menor) que o delito provoca na vítima, de natureza material ou moral, que não integram o tipo penal. Havendo dúvidas quanto ao real prejuízo patrimonial sofrido pela vítima, deve ser decotada a moduladora negativa, pois a dúvida se resolve em favor do réu.
+V. Recurso a que, em parte com o parecer, dá-se parcial provimento.
+EMENTA - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL - MERA TENTATIVA DE REDISCUSSÃO DO MÉRITO DECIDIDO NO ACÓRDÃO - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - EMBARGOS REJEITADOS.
+1 - Tratando-se o inconformismo recursal de mero pedido de rediscussão do acervo probatório e teses defensivas, a rejeição dos embargos é medida de rigor, mormente quando se verifica que o acórdão combatido analisou de forma e coerente a matéria devolvida a esta superior instância;
+2 - Não estando presentes nenhuma das hipóteses do artigo 619, do Código de Processo Penal, impraticável a utilização de embargos de declaração para rediscussão da matéria de mérito já validamente apreciada no acórdão;
+3 - Embargos Rejeitados.
+Decisão com o parecer.
+Irresignada, a agravante interpôs recurso especial.
+Nas razões, afirmou que a decisão atacada conferiu interpretação divergente ao art. 180, §1º, do Código Penal. Requereu, assim, a desclassificação do fato para receptação simples. Alternativamente, pediu que fosse aplicada a pena da receptação simples.
+Negado seguimento ao recurso, ante a ausência da demonstração do dissídio jurisprudencial e o óbice da Súmula nº 7, dessa Corte Superior, interpôs o presente agravo em recurso especial.
+Sustenta que ainda que o agravo, em virtude de erro material, tenha feito referência apenas a letra "c", do inciso III, do art. 105, da Constituição Federal, deve também ser recebido pela letra "a", daquele dispositivo. Alega, ainda, que não busca o reexame de prova, senão a sua revaloração. No mais, refuta a incidência daquele enunciado sumular e reitera os argumentos lançados no recurso especial.
+Ao final, o Ministério Público opinou pelo improvimento do recurso (e-STJ fls. 565/568).
+É o relatório.
+Decido.
+O recurso não ultrapassa o juízo de admissibilidade.
+É que este Tribunal Superior firmou orientação de que julgados prolatados de habeas corpus não se prestam à comprovação de divergência jurisprudencial, já que tais ações mandamentais têm um espectro cognitivo maior que o recurso especial, cujo objetivo é a uniformização da interpretação da legislação federal.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PARADIGMAS PROFERIDOS EM HABEAS CORPUS. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. RECURSO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se admite como paradigma, para fins de comprovação do dissídio jurisprudencial, acórdãos proferidos em habeas corpus.
+2. A ausência de indicação do dispositivo violado, ainda que o apelo tenha sido aviado com base na alínea "c" do permissivo constitucional, atrai a incidência da Súmula 284/STF.
+3. Agravo regimental improvido
+(AgRg no REsp 1.257.683/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 03/10/2014).
+Ademais, verifica-se que a Corte originária, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, entendeu pela comprovação da materialidade do delito de receptação qualificada.
+Desse modo, mesmo que não houvesse o supracitado óbice quanto à divergência jurisprudencial, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (incidência das Súmulas n. 7/STJ e 279/STF).
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. RECEPTAÇÃO. CONTRABANDO. DANO. ABSOLVIÇÃO. REDUÇÃO DO VALOR DA PENA DE MULTA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- Não há ofensa ao princípio da colegialidade quando a decisão monocrática é proferida em obediência aos arts. 557, caput, e § 1º-A, do Código de Processo Civil e 3º do Código de Processo Penal, que permitem ao relator dar provimento, negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior.
+- A Corte de origem manteve a condenação do réu concluindo que ficaram caracterizados os crimes de receptação, contrabando e dano, além de ter reconhecido que a defesa não demonstrou a impossibilidade do réu arcar com o valor da pena de multa. Rever estas premissas importa em incursão no conteúdo fático-probatório carreado aos autos, tarefa inviável em recurso especial, ex vi do Verbete n. 7 da Súmula deste Tribunal.
+Agravo regimental desprovido.
+(AgRg no AREsp 753.044/RS, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJSP), SEXTA TURMA, julgado em 15/09/2015, DJe 05/10/2015, grifei.)
+É digno de nota, outrossim, que ""não se mostra prudente a imposição da pena prevista para a receptação simples em condenação pela prática de receptação qualificada, pois a distinção feita pelo próprio legislador atende aos reclamos da sociedade que representa, no seio da qual é mais reprovável a conduta praticada no exercício de atividade comercial" (EREsp 772.086/RS, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 13/10/2010, DJe 11/4/2011)" (AgRg no REsp n. 1.529.699/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/6/2018, DJe 28/6/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
