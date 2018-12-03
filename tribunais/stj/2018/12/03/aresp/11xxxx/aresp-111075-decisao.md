@@ -1,0 +1,53 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CIVEL. AÇÃO DE COBRANÇA. CONTA DE DEPÓSITO JUDICIAL. REMUNERAÇÃO. OBRIGAÇÃO DA INSTITUIÇÃO BANCARIA. PERÍCIA. DOCUMENTO ORIGINAL. RESTITUIÇÃO DO VALOR CORRIGIDO. APLICAÇÃO DA SÚMULA 179 DO STJ. PRESCRIÇÃO AFASTADA. INTERESSE PROCESSUAL EVIDENCIADO.
+PRELIMINARES REJEITADAS. NEGADO PROVIMENTO A APELAÇÃO. UNÃNIME." (e-STJ fl.191)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.209/212).
+Nas razões do recurso especial, o agravante alega violação dos arts. 177, 871, 1280 do Código Civil , art. 3º e 535 do CPC/73, Lei 370/37 e seu regulamento, Decreto 1.508, de 17.03.1937 e Lei 2.313/54, Decreto 40.395/56, art. 1º, 2º e 3º da lei 9.256/97 e art. 871 do CCB e divergência jurisprudencial, sustentando, em síntese, que: 1) o acórdão recorrido foi omisso quanto aos dispositivos apontados pelo recorrente; 2) a pretensão do recorrido encontra-se fulminada pela prescrição, por ter o depósito em questão natureza de mútuo; 3) é parte ilegítima para figurar no polo passivo da lide, pois apenas existe relação jurídica entre o depositante e o Poder Judiciário; 4) a legislação aplica"vel prevê prazos para transferência dos recursos não movimentados em depósitos bancários, prazos estes já ultrapassados no caso concreto, não havendo como exigir do recorrente prova de transferência efetuada; 5) descabe a incidência de correção monetária no período de mai/56 a mai/64 pelo valor do salário mínimo porque inexistente previsão de correção monetária à época e porque não houve impontualidade do banco, mas sim inercia do recorrido.
+Não foram apresentadas contrarrazões ao recurso especial (e-STJ fl. 237).
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à alegação de que a pretensão do recorrido encontra-se fulminada pela prescrição, por ter o depósito em questão natureza de mútuo, assim constou no ac ordão recorrido:
+"Não corre prescrição contra o depositante.
+Cito jurisprudência sobre a matéria citada na sentença:
+NEGÓCIOS JURÍDICOS BANCAR/OS. RESTITUIÇÃO DE DEPÓISITO JUDICIAL. PRESCRIÇAO. Não corre prescrição contra o depositante. LEGITIMIDADE PASSIVA. Caracteriza-se a legitimidade do Banrisul para responder aos termos da demanda, uma vez que comprovada a transmissão dos depósitos judiciais efetuados no Banco do Brasil para os bancos estaduais.
+RESTITUIÇÃO DOS VALORES. Persiste o dever do banco em restituir os valores ao titular do depósito efetuado há mais de 25 anos, porquanto mantida a relação contratual configurando o dever de zelo. Ademais, é vedado pelo ordenamento jurídico pátrio o enriquecimento sem causa. NEGARAM PROVIMENTO AO APELO.
+(Apelação Cível NO [CPF], Décima Sétima Câmara Cível, Tribunal de Justiça do RS, Relator:, [NOME], Julgado em 02108/2007)." (e-STJ fl.194)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. DEPÓSITO JUDICIAL. ACLARATÓRIOS PREQUESTIONADORES. NECESSIDADE DE EMBASAMENTO EM UMA DAS HIPÓTES CONTIDAS NO ARTIGO 535 DO CPC. PRESCRIÇÃO SEGUNDO AS REGRAS DE DIREITO PRIVADO. INAPLICABILIDADE. VIOLAÇÃO À LEI FEDERAL. AUSÊNCIA DE PARTICULARIZAÇÃO. DEFICIÊNCIA RECURSAL.
+1. Ainda quando prequestionadores, os embargos de declaração só são conhecidos em caso de omissão, contradição, obscuridade ou ocorrência de erro material.
+2. O depósito judicial não se submete às regras dos depósitos bancários comuns, uma vez que não cria entre o depositante e o depositário nenhum tipo de relação jurídica de caráter privado, sendo, em verdade, ato judicial. Não há falar, portanto, em prescrição do direito de devolução da quantia depositada ou em prescrição dos juros, pois, o termo inicial da prescrição, neste casos, é a extinção da relação jurídica, o que não se verifica no caso presente.
+3. A ausência de particularização do dispositivo legal tido por violado caracteriza deficiência na fundamentação, impedindo a abertura da via especial, ante a incidência da Súmula 284/STF.
+4. Decisão agravada mantida pelos seus próprios fundamentos.
+5. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no REsp 658.039/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/03/2012, DJe 11/04/2012)
+No que diz respeito à alegação de que é parte ilegítima para figurar no polo passivo da lide, pois apenas existe relação jurídica entre o depositante e o Poder Judiciário, verifica-se que tal matéria não foi apreciada pelo Tribunal a quo, sem que se cogite ter havido qualquer omissão no acórdão recorrido, uma vez que se trata de incabível inovação apresentada apenas em sede de recurso especial. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. NEGÓCIO JURÍDICO ANULADO. REQUISITOS COMPROVADOS. ESTADO DE INSOLVÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. ALEGAÇÃO DE NEGATIVA DE PRODUÇÃO DE PROVAS. VIOLAÇÃO AOS ARTS. 330 E 332 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com fundamento no conjunto probatório dos autos, reconheceu a existência dos requisitos da ação pauliana, bem como o estado de insolvência dos agravantes. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Fica inviabilizado o conhecimento de temas não debatidos e decididos nas instâncias ordinárias, nem mesmo suscitados em embargos de declaração, porquanto ausente o indispensável prequestionamento. Configuração de indevida inovação recursal.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 888.674/MT, de minha Relatoria, QUARTA TURMA, julgado em 06/04/2017, DJe 27/04/2017)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Em relação ao argumento de que a legislação aplicável prevê prazos para transferência dos recursos não movimentados em depósitos bancários, prazos estes já ultrapassados no caso concreto, não havendo como exigir do recorrente prova de transferência efetuada, concluiu a Corte de origem:
+"Entregue o valor à instituição financeira, esta arca com os riscos no tocante a eventual perecimento ou deterioração da "coisa".
+Depois, a alegação de transferência do depósito para o BANRISUL não ficou comprovada (art. 333, II, do CPC), tampouco a perícia apurou falsificação do documento que instruiu a inicial (fI. 11 e verso)." (e-STJ, fls. 195)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão quanto à ausência de comprovação da transferência dos valores, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Por fim, quanto ao pleito de não incidência de correção monetária no período de mai/56 a mai/64 pelo valor do salário mínimo porque inexistente previsão de correção monetária à época e porque não houve impontualidade do banco, mas sim inercia do recorrido, decidiu o Tribunal de origem:
+"Correção monetária devida.
+Aplicação da Súmula 179 do MT: "0 estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos"(..)" (e-STJ fl. 195/196).
+Também neste ponto, a decisão da Corte de origem encontra-se de acordo com a jurisprudência desta corte Superior, senão vejamos:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DEPÓSITO JUDICIAL REALIZADO NO INTERESSE DE MENORES. CONTA INATIVA DESDE 1944.
+1. A falta de prequestionamento em relação ao art. 6º, IV, do CPC, impede o conhecimento do recurso especial. Incidência da súmula 211/STJ.
+2. O depósito judicial não cria entre o depositante e o depositário nenhum tipo de relação jurídica de caráter privado, tratando-se, na realidade, de uma relação essencialmente pública, já que é ato judicial e não contratual. Logo, o depósito judicial não se confunde com os depósitos bancários comuns, não estando submetidos ao mesmo regramento.
+3. Não há falar, portanto, em prescrição do direito de devolução da quantia depositada ou em prescrição dos juros, pois, o termo inicial da prescrição, neste casos, é a extinção da relação jurídica, o que não ocorreu na hipótese ora em análise.
+4. O art. 1º da lei 6.205/75 entrou em vigor em 29 de abril de 1975, gerando efeitos apenas para prestações posteriores a esta data, vedada a sua aplicação retroativa, motivo pelo qual a utilização do salário mínimo como fator de correção monetária para o período de 1944 a 1964, conforme fixado pelo Tribunal de origem, não atenta contra a legislação vigente à época.
+5. Na ausência de índices de correção no período anterior a outubro de 1964, a fim de que não se configure o enriquecimento sem causa por parte do Banco, admiti-se a utilização do salário-mínimo como instrumento de atualização, tendo em vista o caráter oficial de sua estipulação.
+6. É devida a restituição do depósito judicial efetuado em 1944, acrescida de correção monetária, utilizando-se como índice de correção, para o período de 1944 à 1964, o salário mínimo.
+7. Recurso especial não conhecido."
+(REsp 579.500/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/09/2009, DJe 21/09/2009)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
