@@ -1,0 +1,26 @@
+Vistos etc.
+    Trata-se de habeas corpus, sem pedido de liminar, impetrado por Morgana Amaral Silva Santos em favor de Fausto Rodrigues Simões, contra acórdão do Superior Tribunal de Justiça, que não conheceu do agravo regimental no AREsp 1.180.646/SP.
+    O paciente foi condenado à pena de 8 (oito) anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006.
+    Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo/SP deu parcial provimento ao recurso ministerial para condenar o paciente pelo crime de associação para o tráfico (art. 35 da Lei 11.343/2006) à pena de 4 (quatro) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, em regime inicial fechado. Opostos embargos de declaração, foram rejeitados.
+    A Defesa, então, interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. O Ministro Sebastião Reis Júnior, via decisão monocrática, não conheceu do recurso. Ato contínuo, manejado, sem sucesso, agravo regimental.
+    No presente writ, a Impetrante defende a ocorrência de impugnação específica dos fundamentos do juízo de admissibilidade negativo do apelo especial. Sustenta ausência de comprovação da prática do delito de associação para o tráfico. Argumenta exasperação indevida da pena-base. Requer a “concessão da presente ordem de habeas corpus para reformar o acórdão do r. Superior Tribunal de Justiça”.
+    Não há pedido de liminar.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+    1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+    2. Agravo regimental não conhecido.
+    Compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem , o segundo, e definitivo, juízo de admissibilidade positivo ou negativo deste recurso de fundamentação vinculada.
+    Nessa linha, o Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça quanto à inadmissibilidade do recurso especial.
+    Embora tal jurisprudência tenha se formado inicialmente no âmbito de julgamentos quanto à inadmissibilidade de recursos extraordinários sobre a matéria (AI 724.135-AgR/MS, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 03.12.2010), foi também estendida ao habeas corpus (HC 112.130/MG, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012; e HC 99.174/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.8.2011).
+    Nesse prisma, 'não se revela admissível a ação de habeas corpus, quando se pretende discutir os pressupostos de admissibilidade de recurso interposto perante o E. Superior Tribunal de Justiça (HC 118.834/BA, Rel. Min. Dias Toffoli, 1ª Turma, DJe 18.11.2013; HC 106.468/RJ, Rel. Min. Celso de Mello, 2ª Turma, DJe 15.8.2013).
+    Ademais, a jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, 2ª Turma, j. 06.3.2018).
+    Por outro lado, à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto às teses defensivas, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Anoto, por fim, que para concluir em sentido diverso da Corte Estadual quanto à condenação do paciente pela prática do crime de associação para o tráfico, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Esta Suprema Corte já assentou que A ação de habeas corpus de caráter sumaríssimo constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal (HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012). Outros julgados: HC 137.182/SC, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 25.10.2016; HC 101.806/MS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 13.4.2011.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de dezembro de 2018.
+Ministra Rosa Weber
+Relatora
