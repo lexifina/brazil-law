@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de pedido liminar em habeas corpus substitutivo de recurso especial, impetrado pela Defensoria Pública estadual em benefício de DANIEL GREGORIO DA SILVA e [NOME], em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0109895-47.2017.8.26.0050.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, nos seguintes termos: DANIEL às penas de 6 (seis) anos e 8 (oito) meses de reclusão, em regime fechado, mais pagamento de 40 (quarenta) dias-multa, e [NOME] às penas de 7 (sete) anos e 4 (quatro) meses de reclusão, em regime fechado, mais pagamento de 46 (quarenta e seis) dias-multa, ambos como incurso nas sanções do art. 157, § 2º, incisos I e II, do Código Penal (fls. 2-34).
+Irresignado, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, por unanimidade, deu parcial provimento ao apelo defensivo de [NOME], apenas para conceder os benefícios da justiça gratuita e negou provimento ao recurso defensivo do paciente DANIEL, consoante voto condutor do v. acórdão de fls. 43-60.
+Sustenta a impetrante, em síntese, a ocorrência de constrangimento ilegal, haja vista que o estabelecimento do regime fechado ocorreu com base na gravidade abstrata do crime de roubo, em flagrante desacordo com o enunciado das Súmulas ns 718 e 719 do Supremo Tribunal Federal.
+Requer, assim, a concessão da ordem para que seja fixado o regime inicial semiaberto aos pacientes.
+O pedido liminar foi indeferido às fls. 64-66.
+Informações prestadas às fls. 74-75.
+O Ministério Público Federal, às fls. 95-101, manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. ROUBO DUPLAMENTE MAJORADO. REGIME FECHADO. PENA-BASE ACIMA DO MÍNIMO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO OU DENEGAÇÃO DA ORDEM.
+1 - O Supremo Tribunal Federal, por sua primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2 - No caso, foram reconhecidas circunstâncias judiciais desfavoráveis aos pacientes, tanto que a pena-base de ambos foi fixada em 01 ano e 06 meses acima do mínimo legal.
+Assim, nos termos do art. 33, §§ 2º e 3º, do Código Penal, o regime fechado se mostra o mais adequado ao caso.
+3 - O MINISTÉRIO PÚBLICO FEDERAL requer o não conhecimento do writ. Caso conhecido, requer a denegação da ordem" (fl. 95).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Para melhor delimitar a quaestio, destaca-se o seguinte trecho do v. acórdão impugnado, quanto ao tema:
+"Relativamente ao regime prisional imponível à espécie, correta a adoção da modalidade prisional fechada, tendo em vista o quantum de pena aplicado e as graves circunstâncias do delito, sopesadas na primeira fase da dosimetria, em consonância com o artigo 33, § 3º, do Código Penal" (fl. 58-59).
+Segundo jurisprudência do excelso Supremo Tribunal Federal, "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (Súmula n. 718/STF), e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea" (Súmula n. 719/STF).
+Na hipótese, entendo que deve ser mantido o regime inicial fechado, ante a existência de circunstância judicial desfavorável (circunstâncias e consequências do crime), que foi utilizada para majorar as penas-base dos pacientes.
+Segundo pacífica jurisprudência desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado.
+Nesse sentido os seguintes precedentes:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. REGIME. PENA INFERIOR A 8 ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME FECHADO. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. AGRAVO IMPROVIDO.
+1. Nos termos do art. 33 do CP, admite-se a fixação do regime fechado a condenado à pena inferior a 8 anos, quando presente circunstância judicial desfavorável.
+2. Agravo regimental improvido" (AgRg no HC n. 283.446/RJ, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 09/02/2017).
+"PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU PRIMÁRIO. PENA-BASE ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. SÚMULA/STJ 440. RECURSO DESPROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". No mesmo sentido, a Súmula 718/STF esclarece que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada", enunciado que é complementado pelo da Súmula 719/STF, segundo a qual "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+2. As súmulas foram observadas pelo Tribunal a quo, porquanto o regime fechado foi imposto com motivação idônea, devendo ser observado o regime legal dos § 2º e 3º do art. 33 do Código Penal. In casu, as instâncias ordinárias consideraram desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, a pena base foi fixada acima do mínimo legal. Como o paciente é primário e a sanção corporal foi fixada em 6 (seis) anos e 5 (cinco) meses de reclusão, o paciente faz jus ao regime inicial fechado de cumprimento de pena, nos termos do art. 33, § 2º e § 3º, do Código Penal.
+3. Recurso ordinário em habeas corpus desprovido" (RHC n. 68.115/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/12/2016).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. REGIME PRISIONAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIAS DESFAVORÁVEIS. (ART. 33, § 3º, DO CP). RECURSO DESPROVIDO.
+1. Considerando o quantum da pena aplicada - 5 (cinco) anos e 6 (seis) meses de reclusão - e a existência de circunstância judicial desfavorável, é adequado o regime prisional fechado para o cumprimento da reprimenda corporal.
+2. Agravo regimental não provido" (AgRg no AREsp n. 908.298/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/10/2016).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do writ.
+P. e I.
