@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIO DE CONSTRUÇÃO. PROVA PERICIAL. INTERESSE PROCESSUAL.
+PRETENSÃO RESISTIDA. AUSÊNCIA.
+1. Desnecessária a prova pericial quando o magistrado constata que o acervo documental é suficiente para nortear e instruir seu entendimento.
+2. Reputa-se necessária a jurisdição quando retrate a última forma de solução do conflito, ou seja, quando o autor necessita da intervenção da atividade jurisdicional para que a pretensão seja alcançada, pressupondo uma pretensão resistida da parte adversa no plano material.
+3. Apelação improvida.
+Em suas razões recursais, o recorrente aponta violação dos arts. 17 do Código de Processo Civil de 1973, 771 e 1.457 do Código Civil e 47 e 51, I, do Código de Defesa do Consumidor, além de divergência jurisprudencial, sustentando, em síntese, que: (a) a ausência de aviso de sinistro não importa em falta de interesse de agir, estando a resistência da recorrida à pretensão caracterizada pela oposição ao pedido de indenização, em sede de contestação, e (b) comprovou nos autos a comunicação administrativa do sinistro à seguradora.
+Contrarrazões apresentadas.
+Admitido o recurso na origem, subiram os autos.
+É o relatório. Passo a decidir.
+O Tribunal a quo negou provimento à apelação do ora recorrente, mantendo a sentença de origem que extinguiu o processo sem julgamento do mérito, por ter adotado o entendimento que a ausência de comunicação administrativa do sinistro à seguradora retira o interesse processual, condição necessária ao exercício do direito de ação.
+Ocorre que a jurisprudência deste Tribunal Superior firmou-se em sentido contrário, ou seja, de que "a inexistência de prévia comunicação da ocorrência de sinistro não autoriza a recusa ao pagamento da indenização, estando, assim, materializado o interesse de agir do segurado na resistência injustificada da seguradora" (AgInt no REsp 1.652.350/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/02/2018, DJe 12/03/2018).
+Na mesma toada:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA POR VÍCIOS DE CONSTRUÇÃO. SEGURO HABITACIONAL. FALTA DE COMUNICAÇÃO DA OCORRÊNCIA DE SINISTRO. INTERESSE DE AGIR DA SEGURADA. EXISTÊNCIA. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A inexistência de prévia comunicação da ocorrência de sinistro à seguradora, por si só, não a autoriza a recusar o pagamento da indenização.
+3. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1640102/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017 - grifou-se)
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Ainda que não haja prévio comunicado à seguradora acerca da ocorrência do sinistro, eventual oposição desta ao pedido de indenização deixa clara sua resistência frente à pretensão do segurado, demonstrando a presença do interesse de agir. Precedentes.
+2. A decisão proferida pelo Tribunal de origem está em consonância com o entendimento desta Corte Superior, atraindo a incidência do óbice previsto na Súmula 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", aplicável para ambas as alíneas do permissivo constitucional. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 802.606/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/09/2016, DJe 21/09/2016 - grifou-se)
+CIVIL E PROCESSUAL CIVIL. SEGURO. SINISTRO. AVISO À SEGURADORA. INTERESSE DE AGIR. AUSÊNCIA, SALVO SE HOUVER OPOSIÇÃO DA SEGURADORA AO PEDIDO DE INDENIZAÇÃO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. PRESCRIÇÃO. PRAZO. CONTAGEM.
+1. O comando do art. 1.457 do CC/16, cuja essência foi mantida pelo art. 771 do CC/02, não autoriza a seguradora a recusar o pagamento da indenização pelo simples fato de o segurado não ter comunicado o sinistro. A obrigação de informar a seguradora do sinistro "logo que o saiba" desaparece desde que se torne supérfluo qualquer aviso, pela notoriedade do fato ou quando, pela espécie de seguro, não tenha a seguradora interesse algum em ser avisada imediatamente da ocorrência.
+2. Ausente o prévio comunicado de sinistro à seguradora, o segurado em princípio não tem interesse no ajuizamento da ação de cobrança, ante a ausência de pretensão resistida.
+3. Ainda que não haja prévio comunicado à seguradora acerca da ocorrência do sinistro, eventual oposição desta ao pedido de indenização deixa clara sua resistência frente à pretensão do segurado, demonstrando a presença do interesse de agir.
+4. Nem sempre a resposta da seguradora implicará impugnação ao pedido de pagamento. Poderá, por exemplo, reconhecer o seu dever de indenizar ou simplesmente alertar para a ausência de prévia solicitação administrativa, hipóteses em que, a rigor, caberá a extinção do processo sem o julgamento do mérito, por ausência de interesse de agir.
+5. Constitui entendimento assente desta Corte, consolidado nos enunciados n. 101, 229 e 278 da Súmula/STJ, que a ação do segurado em grupo contra a seguradora prescreve em um ano, contado da data em que tiver conhecimento inequívoco da sua incapacidade laboral, sendo que o pedido de indenização formulado à seguradora suspende o referido prazo, até que o segurado tenha ciência da respectiva decisão.
+6. A caracterização da ciência inequívoca do segurado acerca da sua incapacidade laboral se dá, em regra, com a sua aposentadoria por invalidez ou por meio da perícia médica que a autoriza. Precedentes.
+7. Recurso especial provido.
+(REsp 1137113/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2012, DJe 22/03/2012)
+Na hipótese em exame, ainda que o segurado não tenha promovido a prévia comunicação do sinistro, na via administrativa, à seguradora, houve oposição desta ao pedido de indenização por ele formulado na esfera judicial, o que caracteriza sua resistência à pretensão do segurado e, por conseguinte, a existência do interesse de agir na espécie.
+Destarte, impõe-se a reforma do acórdão recorrido, para adequação entendimento deste Sodalício.
+Diante do exposto, dou provimento ao recurso especial, para o fim de reconhecer o interesse de agir do recorrente, determinado a baixa dos autos ao juízo de origem, para prosseguimento da demanda.
+Publique-se.
