@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município da Estância Balneária de Mongaguá, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO Execução fiscal. Decisão que determina emenda da inicial, bem como recolhimento das despesas de postagem para citação. Existência, nos autos, de elementos suficientes que atendem os requisitos da LEF (art. 6º), o que afasta necessidade de emenda. Legítima, contudo, prévia exigência de recolhimento das despesas para expedição de carta citatória. Despesa que não integra o conceito de custas ou de emolumentos. Inaplicabilidade, portanto, da isenção prevista do artigo 39 da LEF. Recurso parcialmente provido.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta a violação do art. 39 da Lei n. 6.830/1980 e art. 91 do CPC/2015, sustentando, em resumo, que o Tribunal de origem não reconheceu a isenção das custas com recolhimento de carta de citação e a prerrogativa de a Fazenda Pública recolhê-las, apenas ao final, se vencida.
+É o relatório. Decido.
+O recurso merece acolhimento.
+Constata-se que o Tribunal a quo adotou entendimento dissonante da jurisprudência firmada por esta Corte Superior, segundo a qual, a Fazenda Pública, em execução fiscal, está desobrigada de recolher antecipadamente as custas necessárias à citação, as quais serão recolhidas, ao final, pelo vencido, conforme preconiza os arts. 27 e 39, ambos da Lei n. 6.830/1980.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESPESAS POSTAIS DE CITAÇÃO. PRÉVIO PAGAMENTO. INEXIGIBILIDADE. ESPECIAL EFICÁCIA VINCULATIVA DOS ACÓRDÃOS PROFERIDOS NO RESP 1.107.543/SP E NO RESP 1.144.687/RS.
+1. A Primeira Seção/STJ, ao apreciar o REsp 1.107.543/SP (Rel. Min. Luiz Fux, DJe de 26.4.2010) e o REsp 1.144.687/RS (Rel. Min. Luiz Fux, DJe de 21.5.2010) ambos submetidos à sistemática prevista no art. 543-C do CPC, pacificou o entendimento no sentido de que, a Fazenda Pública, em sede de execução fiscal, está dispensada do recolhimento antecipado das custas para a realização do ato citatório, as quais serão recolhidas, ao final, pelo vencido, nos termos dos arts. 27 e 39 da Lei 6.830/80.
+2. Agravo regimental não provido. (AgRg no REsp n. 1.483.350/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/11/2014.)
+PROCESSO CIVIL - TRIBUTÁRIO - RECLAMAÇÃO - EXECUÇÃO FISCAL - ANTECIPAÇÃO DO RECOLHIMENTO DE DESPESAS COM ATO CITATÓRIO - ENTENDIMENTO DA CGJ/MG - ESFERA ADMINISTRATIVA - SUBMISSÃO À JURISPRUDÊNCIA DO STJ - RESP 1.017.543/SP - ART. 543-C DO CPC - ARTS. 27 DO CPC E 39 DA LEF.
+1. A Fazenda Pública, nas execuções fiscais, está dispensada do recolhimento antecipado das custas com a realização do ato citatório, que serão recolhidas, ao final, pelo sucumbente, nos termos dos arts. 27 do CPC e 39 da Lei 6.830/80.
+2. Tese firmada no REsp 1107543/SP, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 24/03/2010, DJe 26/04/2010, julgado segundo o procedimento do art. 543-C do CPC.
+3. Entendimento proferido pela Corregedoria-Geral da Justiça do Estado de Minas Gerais - CGJ/MG, em procedimento de consulta, por ostentar natureza administrativa, não prevalece frente à jurisprudência sedimentada do Superior Tribunal de Justiça, em julgamento representativo de controvérsia.
+4. Reclamação provida para cassar a decisão impugnada e determinar a observância da tese fixada no RESp n. 1.107.543/SP pelo juízo reclamado. (Rcl n. 10.252/MG, Rel. Ministra Eliana Calmon, Primeira Seção, julgado em 10/4/2013.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer que o recorrente está desobrigado de recolher, antecipadamente, as custas necessárias à citação, as quais serão recolhidas, ao final, pelo vencido.
+Publique-se. Intimem-se.
