@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO INTERNO. EXECUÇÃO FISCAL. EXTINÇÃO À LUZ DA SÚMULA 392 DO SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO EM SEDE RECURSAL. QUANTIA FIXA RAZOÁVEL E ADEQUADA AO CASO.
+Os honorários serão fixados consoante apreciação equitativa do juiz, atendidos ao grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço.
+No presente recurso especial, o recorrente aponta violação do art. 20 do CPC/1973.
+Sustenta, em síntese, que o montante de R$ 1.500,00 (mil e quinhentos reais), fixado pelo Tribunal a quo a título de honorários advocatícios, não é capaz de remunerar adequadamente o trabalho realizado pelo advogado, razão pela qual, defende a majoração do quantum ora balizado.
+É o relatório. Decido.
+Primeiramente, cumpre destacar que, mediante a simples leitura da peça recursal, percebe-se que o recorrente fundamenta seu inconformismo em relação aos honorários sucumbenciais em virtude do elevado valor da causa ora defendida pelo causídico.
+Contudo, a despeito do expressivo valor atribuído à demanda judicial, deve-se destacar que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou que "não se desconhece o labor desempenhado pelo advogado da agravante, notadamente ao opor a exceção de pré-executividade (..)", ponderando, contudo, que "a causa não possui natureza complexa, envolvendo matéria com entendimento consolidado na Súmula 392 do STJ", motivo pelo qual o julgador a quo entendeu que "se impõe a manutenção da verba honorária em R$1.500,00 (mil e quinhentos reais)".
+Dessa forma, verifica-se que a irresignação do recorrente, acerca do montante dos honorários advocatícios, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
