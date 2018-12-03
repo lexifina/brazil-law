@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO POR TRÁFICO ILÍCITO DE DROGAS. CONFIRMAÇÃO NO JULGAMENTO DA APELAÇÃO. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. ALTERAÇÃO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA REPRIMENDA. FALTA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Neste habeas corpus, o advogado [NOME] aponta a existência de constrangimento ilegal decorrente do acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 0002687-72.2016.8.26.0168 e requer o seguinte (fl. 7):
+1. Seja concedida liminarmente a ordem de Habeas Corpus, para revogar a prisão do paciente determinada pela 5ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, uma vez que pendente o julgamento dos embargos de declaração, bem como, não havendo motivos para determinar a prisão do paciente, eis que respondeu o processo em liberdade e fazer jus a substituição de prisão.
+2. No mérito, seja conhecido e provido o presente Remédio Constitucional, confirmando a liminar, vedando a prisão do paciente antes de integração do acórdão da apelação (julgamento dos embargos de declaração) e concedendo-lhe a substituição da pena conforme requerido nas razões alhures, determinando que cumprimento da pena (provisória e definitiva) do paciente KAUÊ ROBERTO SANTANDA DA SILVA seja feita em regime aberto, expedindo o respectivo contramandado de prisão ou alvará de soltura, por medida de JUSTIÇA.
+É o relatório.
+Basta uma rápida leitura do acórdão impugnado para constatar que há necessidade de suspender o cumprimento do mandado de prisão exarado pelo Tribunal paulista.
+Esta Corte Superior entende ser possível determinar-se a execução provisória da pena privativa de liberdade, desde que exauridas as vias ordinárias. Nesse sentido: HC n. 361.774/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 22/2/2017; HC n. 366.211/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/11/2016; AgRg no HC n. 447.312/SP, Ministro Felix Fischer, Quinta Turma, DJe 8/10/2018; e HC n. 427.752/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/6/2018.
+Constato, contudo, que tal exigência não foi observada na espécie, uma vez que a Quinta Câmara Criminal não fez nenhuma ressalva quanto à necessidade de se aguardar o exaurimento daquela instância antes da determinação de imediata expedição de mandado de prisão ser cumprida.
+Considerando que o julgamento da apelação ocorreu na data de 14/11/2018 e que, conforme estes autos, foram opostos embargos de declaração (fls. 236/239), há que se afastar a definitividade da condenação no âmbito da jurisdição a quo, configurando razão plausível para que se suspenda a execução provisória da pena.
+Quanto aos demais temas suscitados no writ, exatamente pela falta de esgotamento da instância ordinária, não há motivo para proceder a qualquer análise aqui e agora.
+Ante o exposto, concedo liminarmente a ordem apenas para suspender a execução provisória da pena do paciente até o exaurimento dos recursos sujeitos a julgamento pelo Tribunal estadual ou do prazo para sua interposição, o que ocorrer primeiro.
+Intime-se o Ministério Público estadual.
+Publique-se.
