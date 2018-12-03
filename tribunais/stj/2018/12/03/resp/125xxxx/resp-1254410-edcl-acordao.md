@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PRETENSÃO DE SE REDISCUTIR A LIDE. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+3. A Segunda Turma foi clara no entendimento de que não houve impugnação específica ao fundamento do acórdão recorrido, o que fez incidir da Súmula 283 do STF e que o dissídio jurisprudencial não ficou demonstrado.
+4. Não são cabíveis os embargos de declaração com exclusivo propósito de rediscutir o mérito das questões já decididas pela Corte. 5. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães e o Sr. Ministro Herman Benjamin (Presidente) votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Mauro Campbell Marques e Francisco Falcão.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração opostos por Transportes Unidos Região Norte Ltda. contra acórdão da Segunda Turma do STJ, assim ementado (e-STJ, fls. 495):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE NA EXECUÇÃO FISCAL. FALTA DE CITAÇÃO. COMPARECIMENTO ESPONTÂNEO DA EXECUTADA. AUSÊNCIA DE PREJUÍZO. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A falta de combate a fundamento específico da decisão agravada justifica a impossibilidade de análise do recurso especial diante do óbice da Súmula 283/STF.
+3. No caso, a parte recorrente não impugnou o fundamento da Corte de origem de que, " ..  partindo-se da premissa aqui estabelecida de que o comparecimento espontâneo da executada, ora agravante, no processo executivo fiscal, nomeando bens à penhora, e, com isso, evitando uma constrição forçada de bens, supre a falta de citação para o feito executivo, diante da ausência de prejuízo, nos exatos termos do disposto no artigo 214, § 11, do Código de Processo Civil, ainda que se tenha dado por meio de advogado com poderes apenas para o foro em geral, não há que se falar em prescrição do crédito tributário, como defendido na exceção de pré-executividade. De mais a mais, nos moldes do art. 243 do CPC, cediço é que "não deve ser declarada a nulidade quando a parte a quem possa favorecer para ela contribuiu, e se absteve de qualquer impugnação, no curso da demanda, relativamente ao devido processo legal" (RSTJ 12/366)".
+4. O dissídio jurisprudencial não foi comprovado nos termos do art. 541, parágrafo único, do CPC/1973.
+5. Agravo interno a que se nega provimento.
+Irresignada, a embargante alega que o julgado embargado incorreu em contradição, pois há impugnação específica do acórdão recorrido, o que afastaria a incidência da Súmula 283 do STF. No caso, houve contrariedade ao art. 38 do CPC/1973, visto que a procuração geral para o foro não supre a necessidade de uma procuração específica para recebimento da citação inicial.
+Reitera, ainda, que foi comprovado o dissídio jurisprudencial quanto ao tema.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+No caso, o acórdão combatido utilizou-se de fundamentação suficiente para negar provimento ao agravo interno, inexistindo qualquer vício.
+Ficou bem delineado no acórdão embargado que a parte insurgente não impugnou o fundamento do acórdão recorrido no sentido de que se aplica o disposto no art. 243 do CPC de 1973, já que a ela se favoreceu da nulidade ali existente, como se observa às e-STJ, fls. 408/409:
+Na hipótese, a própria agravante foi quem compareceu espontaneamente aos autos, oferecendo bens à penhora, provocando posteriormente a suspensão do feito em razão de parcelamento do débito, sendo que, com o descumprimento, continuou a intervir no processo regularmente sem nada alegar a respeito da ausência de citação. Dessa forma, a sua manifestação por meio da exceção de pré-executividade, apenas cerca de onze anos depois, em oposição às suas condutas anteriores, para fins de requerer, com a declaração da nulidade, o reconhecimento da prescrição do crédito tributário, favorecendo-se com a decretação de extinção do feito, é postura a ser reprimida pelo Direito, que rejeita a atitude oscilante, surpreendente, que atente contra a realidade de fato já consolidada.
+Trata-se de exigência de agir com coerência, uma vertente do imperativo de observância da palavra dada, não se admitindo a adoção de um padrão de conduta segundo as vantagens que a situação lhe oferecer, porquanto não se pode compactuar com o "venire contra factum proprium".
+"não deve ser declarada a nulidade quando a parte a quem possa favorecer para ela contribuiu, e se absteve de qualquer impugnação, no curso da demanda, relativamente ao devido processo legal" (RSTJ 12/366).
+Correta, portanto, a incidência da Súmula 283 do STF.
+No que pertine ao dissídio jurisprudencial alegado (Agravo Regimental no Recurso Especial n. 650.543/SP, de relatoria do Ministro Ari Pargendler), além das espécies serem diversas, reitero que "a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do Regimento Interno do STJ, uma vez que a recorrente apenas transcreveu a ementa do julgado que entendeu favorável à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado".
+Percebe-se, pois, que a embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil a inquinar tal decisum.
+Na realidade, observa-se da argumentação trazida pela insurgente que há simples inconformismo com o resultado do julgamento, não sendo os aclaratórios meio recursal adequado para o exclusivo propósito de rediscutir o mérito das questões já decididas pela Corte.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.374.234/RN, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 3/5/2018, DJe 11/5/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, CPC/2015. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. Deve-se registrar que o acórdão proferido na origem foi publicado na vigência do CPC/1973, razão pela qual os requisitos de admissibilidade do apelo nobre seguiram a sistemática processual correspondente, nos termos do Enunciado administrativo n. 2/STJ.
+3. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada. No caso, a irresignação recursal não foi conhecida, tendo em vista os óbices constantes das Súmulas 5 e 211 do STJ, 280 e 284 do STF, inexistindo qualquer obscuridade, contradição ou omissão no julgado.
+4. Não são cabíveis os embargos de declaração com exclusivo propósito de rediscutir o mérito das questões já decididas pela Corte.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.220.663/RS, de minha relatoria, SEGUNDA TURMA, julgado em 24/4/2018, DJe 30/4/2018)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
