@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO REDIBITÓRIA CUMULADA COM INDENIZAÇÃO. RELAÇÃO DE CONSUMO. VÍCIO DO PRODUTO. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA. OMISSÃO. VIOLAÇÃO DO ART. 535, I E II, DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+ANA CLEA DA GAMA GOMES (ANA) propôs ação redibitória combinada com indenização por danos morais e materiais contra MOSELLI VEÍCULOS LTDA. (MOSELLI), FORD MOTOR COMPANY DO BRASIL LTDA. (FORD) e BANCO TAUCARD S.A. (BANCO), em virtude da compra de veículo, zero km, que apresentou diversos problemas não solucionados, razão pela qual devolveu o veículo à concessionária requerendo sua substituição ou devolução do dinheiro pago, o que não acorreu.
+O juízo de piso julgou a ação procedente (e-STJ, fls. 408/419).
+Interpostas apelações por MOSELLI, FORD e BANCO, o Tribunal de origem negou provimento ao apelo do BANCO e deu parcial provimento aos recursos de MOSSELLI e da FORD em acórdão assim ementado
+PROCESSUAL CIVIL E CIVIL - RELAÇÃO DE CONSUMO - VÍCIO DE PRODUTO (VEÍCULO) - AÇÃO REDIBITÓRIA - AJUIZAMENTO NO PRAZO DA GARANTIA CONTRATUAL - DECADÊNCIA NÃO CONFIGURADA - RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DO FABRICANTE E DA CONCESSIONÁRIA - FATO IMPEDITIVO DO DIREITO DO AUTOR - PROVA - ÔNUS DO RÉU - ART. 333, INC. II, DO CPC - REITERADOS RECOLHIMENTOS DO VEÍCULO PARA REPAROS - SUBSTITUIÇÃO DO PRODUTO - DANO MATERIAL - RESSARCIMENTO DEVIDO - TRANSTORNOS CAUSADORES DE ABALO PSICOLÓGICO - REPARAÇÃO DO DANO MORAL - CONFIRMAÇÃO - DIMINUIÇÃO DO QUANTUM - CONSIDERAÇÃO DA DEPRECIAÇÃO DO PRODUTO DECORRENTE DO USO PELO CONSUMIDOR PARA EVITAR O ENRIQUECIMENTO SEM CAUSA A SER APURADO NA FASE DE LIQUIDAÇÃO.
+1) Ex vi do disposto no art. 26, inc. II e § 3º, c/c o art. 50, ambos do Código Brasileiro de Defesa do Consumidor, em sede de relação de consumo, não há porque se falar de decadência do direito de perseguir indenizações decorrentes dos vícios verificados em veículo, se a ação redibitória foi ajuizada dentro do prazo da garantia contratual concedida pelo fabricante.
+2) Segundo o comando do art. 12, caput , do Código Consumerista, o fabricante e a concessionária de veículos respondem objetiva e solidariamente pelos danos que os vícios do produto tenham causado ao consumidor.
+3) A prova de fato impeditivo do direito alegado e demonstrado pelo autor é de incumbência do réu, ex vi do disposto no art. 333, inc. II, do Código de Processo Civil.
+4) Os gastos devidamente comprovados pela consumidora na realização de despesas com transporte de táxi, devem ser reembolsados a título de dano material.
+5) As agruras e os dissabores sofridos pelo consumidor, que se vê obrigado a procurar repetidas vezes a concessionária a fim de tentar corrigir os defeitos apresentados em um veículo, adquirido zero quilômetro, causam abalo psicológico caracterizador de dano moral, razão pela qual é devida a reparação. Contudo, deve ser fixada de forma moderada e equitativa, urgindo, na hipótese, a diminuição do "quantum" para fins de sua adequação à realidade da causa.
+6) Na fase liquidação da sentença, além da depreciação do automóvel, conforme quilometragem efetivamente rodada pela apelada, também deverá ser apurada, na substituição por veículo de outra espécie, marca ou modelo diversos, eventual complementação da diferença de preços, inclusive podendo ocorrer a compensação de valores, a critério do juiz da causa.
+7) Negado provimento ao recurso do BANCO ITAUCARD S/A. Provimento parcial dos apelos da MOSELLI VEÍCULOS e FORD MOTOR COMPANY BRASIL LTDA (e-STJ, fls. 614/615).
+Os embargos declaratórios opostos pelo BANCO e pela FORD foram rejeitados (e-STJ, fls. 688/692).
+Irresignada, a FORD interpõe recurso especial com base no art. 105, III, a e c, da CF, alegando, além de dissídio jurisprudencial, violação dos arts. 182, 186, 884 e 927, do CC/02, 333, I, 420, 436 e 535, II, do CPC/73, 18, 26, II, 50, do CDC e 5º, da LINDB, sob os argumentos de que (1) negativa de prestação jurisdicional, pois houve omissão no que se refere às matérias consubstanciadas nos arts. 182, 927 e 884 do CC/02; 5º da LINDB; 420 do CPC/73 e 18 do CDC; e, (2) exclusão do pagamento da condenação em dano moral, ou ainda, alternativamente, a excessiva desproporção entre a gravidade da culpa e o efetivo dano, devendo ser reduzida a indenização por dano moral a patamares razoáveis (e-STJ, fls. 693/736).
+As contrarrazões foram apresentadas (e-STJ, fls. 802/816).
+O recurso especial não foi admitido (e-STJ, fls. 828/832), tendo seguimento por força de agravo provido (e-STJ, fls. 972/974).
+É o relatório.
+DECIDO.
+O inconformismo de FORD merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, deixou de se manifestar acerca das teses mencionadas nos embargos de declaração que dizem respeito às matérias consubstanciadas nos arts. 182, 927 e 884 do CC/02; 5º da LINDB; 420 do CPC/73 e 18 do CDC.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre as questões federais terminou por negar prestação jurisdicional à Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por derradeiro, advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se. Intimem-se.
