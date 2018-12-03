@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo MUNICÍPIO DE SÃO CARLOS, em 31/08/2017, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ISENÇÃO - ITBI - Municipalidade de São Carlos  Ação de repetição de indébito  Hipótese em que o autor faz jus à isenção - Art. 3º, V, da Lei Municipal nº 10.086/89 - Situação que se amolda à descrição legal - Imóvel adquirido por meio de programa oficial de habitação e com área útil de até 70m2 - Procedência do pedido corretamente decretada. Recurso não provido" (fl. 120e)..
+O acórdão em questão foi objeto de Embargos de Declaração (fls 127/131e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - Inocorrência de omissão, obscuridade ou contradição  Intuito manifestamente protelatório - Rejeição, com imposição de multa" (fl.160e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.022, II, do CPC/2015 e 179 do CTN, sustentando omissão no julgado em decorrência "da ausência de manifestação direta sobre a preliminar de mérito denominada "da falta dos requisitos legais para obtenção de isenção tributária - art. 179 do CTN" (fl. 185e).
+Alega que as partes ora agravadas não comprovaram o cumprimento do requisito previsto no art. 179 do CTN, no que se refere a exigência de prévio requerimento administrativo para concessão da isenção, padecendo o feito, portanto, de falta de interesse de agir.
+Contrarrazões a fls. 229/233e.
+Negado seguimento ao Recurso Especial (fls. 234/235e), foi interposto o presente Agravo (fls. 238/249e).
+Contraminuta a fls. 251/254e.
+A irresignação não merece prosperar.
+Com efeito, destaco o seguinte excerto contido no acórdão proferido no julgamento dos Embargos de Declaração:
+"Na verdade, o tema do artigo 179 do Código Tributário Nacional e a necessidade de prévio peticionamento junto aos órgãos administrativos do Município sequer foram invocados pelo ente público em sua contestação.
+Ou seja, em toda sua peça de resposta à demanda - no âmbito da qual deve o réu registrar, em sua totalidade, os argumentos que considera aptos a afastar a pretensão do autor - não há uma única passagem relacionada a esse tema. Fica claro, portanto, que esta Corte não tinha mesmo que se pronunciar sobre uma matéria que nem ao menos foi ventilado pela embargante em Primeira Instância, e acerca da qual não se exige a apreciação ex officio" (fls. 162/163e).
+
+Portanto, em relação ao art. 1.022, II, do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 179 do CTN, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ademais, a Corte de origem, ao analisar a controvérsia, asseverou que:
+ "No âmbito local, a incidência e cobrança do ITBI do Município de São Carlos são disciplinadas pela Lei Municipal nº 10.086/89. Esse diploma dispõe também sobre as hipóteses de não incidência daquele tributo, em seu artigo 3o, que assim prevê: "Art. 3o - O imposto não incide: V sobre as transmissões relativas a unidades habitacionais de até 70m2 (setenta metros quadrados), vinculados a programas oficiais de habitação, abrangendo as transmissões de terrenos e lotes destinados à sua construção" (fls. 77).
+A isenção contemplada no referido inciso V aplica-se, de fato, ao caso dos autos, uma vez que a transferência imobiliária aqui examinada deu-se nas circunstâncias enfeixadas por esse dispositivo: a compra de uma moradia no âmbito de um programa habitacional oficial. Trata-se de aquisição de imóvel pelo programa "Minha Casa Minha Vida",regido pela Lei Federal nº 11.977/2009, com financiamento realizado por banco público (Caixa Econômica Federal), conforme se observa dos documentos juntados a fls. 08 e ss., circunstâncias essas que indicam fazerem jus os autores à isenção ora enfocada" (fls. 121/122e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo para conhecer parcialmente do Recurso Especial, e, nessa parte, negar-lhe provimento.
+I.
