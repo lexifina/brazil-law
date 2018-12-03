@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S/A contra decisão que denegou seu recurso especial, fundado no artigo 105, inciso III, alínea c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora agravante discute: a) afastamento da multa prevista no art. 523, § 1º, do Código de Processo Civil; e b) não incidência de juros de mora e correção monetária sobre o valor do débito, após o depósito judicial.
+É o relatório.
+Decido.
+Multa do art. 523, § 1º, do Código de Processo Civil:
+No que tange à multa prevista no art. 523, § 1º, do Código de Processo Civil, tem-se que, em sede de recurso repetitivo, Tema n. 536, a Corte Especial do Superior Tribunal de Justiça firmou o entendimento segundo o qual "Na fase de cumprimento de sentença, o devedor deverá ser intimado, na pessoa de seu advogado, mediante publicação na imprensa oficial, para efetuar o pagamento no prazo de 15 (quinze) dias, a partir de quando, caso não o efetue, passará a incidir a multa de 10% (dez por cento) sobre montante da condenação (art. 475-J do CPC).". Eis a ementa do julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO POR QUANTIA CERTA. TÍTULO JUDICIAL. MULTA DO ARTIGO 475-J DO CPC. NECESSIDADE DE INTIMAÇÃO APENAS NA PESSOA DO ADVOGADO DO DEVEDOR, MEDIANTE PUBLICAÇÃO NA IMPRENSA OFICIAL.
+1. Para fins do art. 543-C do CPC: Na fase de cumprimento de sentença, o devedor deverá ser intimado, na pessoa de seu advogado, mediante publicação na imprensa oficial, para efetuar o pagamento no prazo de 15 (quinze) dias, a partir de quando, caso não o efetue, passará a incidir a multa de 10% (dez por cento) sobre montante da condenação (art. 475-J do CPC).
+2. No caso concreto, recurso especial parcialmente provido, apenas para sanar o erro material detectado no acórdão que julgou os embargos de declaração, de modo que não há falar em aplicação da multa do artigo 538, parágrafo único, do Código de Processo Civil. (REsp n. 1.262.933/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, Dje de 20/8/2013.)
+No caso em apreço, o acórdão recorrido assim se manifestou ao julgar a matéria devolvida pelo ora agravante, nos seguintes termos (Fl. 66):
+De igual sorte, não há falar em inaplicabilidade da multa do art. 523,§ 1º do CPC.
+Com efeito, não há prova nos autos de que tenha ocorrido pagamento voluntário de qualquer quantia. Ao invés, das razões da impugnação oposta pela parte agravante (fls. 27-34), se afere que o depósito em juízo da quantia devida foi efetuado, exclusivamente, para fins de garantia do juízo o que não afasta a incidência da multa de 10%.
+Como se vê, o acórdão recorrido encontra-se em consonância com as orientações do Superior Tribunal de Justiça, não merecendo reforma o decisum.
+Ademais, verifica-se que, para refutar o referido entendimento externado pela Corte de origem, quanto à ausência de prova de pagamento voluntário pela instituição financeira, necessário o reexame do substrato fático-probatório dos autos, o que é vedado em face do óbice sumular n. 7 desta Corte Superior de Justiça.
+Não incidência de juros de mora e correção monetária sobre o valor do débito, após o depósito judicial:
+No que tange à não incidência de juros de mora e correção monetária sobre o valor do débito, após o depósito judicial, verifica-se que tal questão não foi apreciada pelo acórdão recorrido e sequer foram opostos embargos de declaração para tanto, carecendo o recurso, no ponto, do imprescindível prequestionamento, circunstância que atrai a incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Por fim, deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
