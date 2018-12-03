@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por SEBO INDUSTRIA E COMERCIO DE PRODUTOS ANIMAIS contra decisão proferida pelo Tribunal Regional Federal da 3ª Região que não admitiu o seu recurso ordinário em mandado de segurança.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 551/552:
+Trata-se de agravo interposto por Sebo Jales Indústria e Comércio de Produtos Animais LTDA., com fundamento no art. 1.042 do Código de Processo Civil, contra decisão do Vice-Presidente do Tribunal Regional Federal da 3ª Região, que não admitiu recurso ordinário em mandado de segurança, em razão da sua manifesta intempestividade.
+Consta dos autos que o ora agravante impetrou mandado de segurança em face de decisão proferida pela Juíza da Vara Federal da Subseção Judiciária de Jales/SP nos autos da medida cautelar 0000325-57.2013.403.6124, em que se apura a prática do delito do art. 1º, I, II, III e IV, da Lei 8.137/90. Tal decisão determinou o sequestro de bens móveis e imóveis e de ativos financeiros da empresa agravante. A ordem foi denegada ao entendimento de que o pleito era incompatível com o procedimento peculiar do mandado de segurança (ementa às e-fls. 453/455).
+Seguiu-se a interposição de recurso ordinário "para que seja reconhecida e declarada a nulidade da decisão de fl. 1038, determinando a Caixa Econômica Federal que acresça nos valores sequestrados a diferença da correção entre a TR e a SELIC, conforme cálculo de fl. 1028 anexado" (fl. 524).
+Ao realizar o juízo de admissibilidade do referido recurso, o Desembargador Vice-Presidente do TRF/3ª Região reconheceu a intempestividade do apelo, uma vez que "a decisão impugnada foi publicada no Diário Eletrônico da Justiça Federal da 3ª Região em uma segunda-feira, 30.05.16 (fl. 362). Nos termos do art. 4º da Lei nº 11.419/06, considera-se como data de publicação o dia útil seguinte, no caso, 31.05.16 (terça-feira). A fluência do prazo de 15 (quinze) dias para interposição do recurso ordinário, conforme art. 33 da Lei nº 8.038/90, iniciou-se, assim, na data de 01.06.16. Logo, a peça recursal protocolada tão somente em 16.06.16 (fl. 364) é extemporânea" (e-fl. 485).
+No presente agravo, o agravante sustenta a tempestividade do recurso alegando que o prazo deve ser contado em dias úteis, uma vez que o art. 34 da Lei 8.038/90 dispõe que ao recurso ordinário em mandado de segurança serão aplicados, quanto aos requisitos de admissibilidade, as regras do Código de Processo Civil relativas à apelação.
+Contrarrazões às e-fls. 534/537.
+Ao final, o Ministério Público opinou pelo desprovimento do agravo (e-STJ fl. 555).
+É o relatório.
+Decido.
+Não assiste razão ao agravante.
+Isso porque, na linha da jurisprudência deste Tribunal Superior, no tocante à contagem de prazos em matéria criminal, deve ser seguida a regra prevista no art. 798 do Código de Processo Penal, segundo a qual os prazos são contínuos e não se interrompem.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. RECURSO INTERPOSTO APÓS O DECURSO DO PRAZO. INTEMPESTIVIDADE.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Tendo sido o recurso ordinário interposto fora do prazo de 15 dias, deve ser reconhecida a sua intempestividade.
+3. Em matéria criminal, diante do que dispõe o art. 798 do Código de Processo Penal, não é aplicável a contagem em dobro prevista no art. 183 do Código de Processo Civil/2015 (anterior art. 188 do CPC/1973), nem mesmo a contagem em dias úteis do art. 219 do Código de Processo Civil.
+4. Agravo regimental improvido.
+(AgRg no RMS 54.186/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017, grifei)
+PROCESSO CIVIL E PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADVENTO DO NOVO CÓDIGO DE PROCESSO CIVIL (LEI 13.105/2015). PRAZOS PENAIS INALTERADOS. CONTAGEM DE FORMA CONTÍNUA. INTELIGÊNCIA DO ART. 798 DO CPP. MARCO INICIAL DA CONTAGEM DO PRAZO RECURSAL. IRRELEVÂNCIA DA DATA DA DISPONIBILIZAÇÃO DA CERTIDÃO DE PUBLICAÇÃO DA DECISÃO JUDICIAL, SE O INTEIRO TEOR DA DECISÃO FORA PUBLICADO DIAS ANTES NO DIÁRIO DA JUSTIÇA ELETRÔNICO. MULTA POR ABANDONO INDIRETO DA CAUSA (ART. 265 DO CPP). LEGALIDADE DA IMPOSIÇÃO NO CASO CONCRETO.
+1. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" (AgRg no AREsp n. 1.040.102/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 07/04/2017).
+2. No caso concreto, o acórdão recorrido foi publicado no Diário Judicial Eletrônico de 16/02/2017 (quinta-feira). Considerada a data da publicação o 1º dia útil seguinte, seja dizer, o dia 17/02/3017 (sexta-feira), a contagem do prazo recursal somente teria início no dia 20/02/2017 (segunda-feira). No entanto, o presente reclamo foi protocolado no Tribunal de Justiça do Estado de São Paulo somente em 14/03/2016, uma terça-feira, ou seja, no 23º dia após a publicação, desbordando, portanto, do prazo de 15 (quinze) dias fixado no art. 33 da Lei n. 8.038/1990 e no art. 1.003, § 5º, do novo CPC (Lei 13.105/2015).
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no RMS 54.291/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/9/2017, DJe 20/9/2017, grifei)
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
