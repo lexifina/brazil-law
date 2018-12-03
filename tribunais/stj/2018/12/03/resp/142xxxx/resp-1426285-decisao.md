@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se recurso especial interposto por [NOME] e OUTRO contra o v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. CONTRATO DE LOCAÇÃO NÃO RESIDENCIAL. EXONERAÇÃO DE FIANÇA. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DOS AUTORES.
+GARANTIA FIDEJUSSÓRIA PRESTADA PELOS APELANTES EM DECORRÊNCIA DE SER A SEGUNDA APELANTE SÓCIA DA EMPRESA LOCATÁRIA.
+POSSIBILIDADE DE SÓCIO FIADOR EXONERAR-SE DA FIANÇA CONCEDIDA À EMPRESA LOCATÁRIA DA QUAL SE RETIROU, AINDA QUE O CONTRATO DE LOCAÇÃO ESTEJA VIGENDO POR PRAZO DETERMINADO. PRECEDENTE DO STJ.
+NECESSIDADE DE NOTIFICAÇÃO DA LOCADORA NOS TERMOS DO ART. 835 DO CCB. PROCEDIMENTO QUE NÃO RESTOU COMPROVADO NOS AUTOS.
+SENTENÇA DE IMPROCEDÊNCIA QUE SE MANTÉM.
+RECURSO CONHECIDO E DESPROVIDO." (fl. 216)
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, os recorrentes apontam violação do art. 835 do Código Civil de 2002 e divergência jurisprudencial, alegando, em síntese: a) que notificou a recorrida, assim como sua procuradora, por meio de carta registrada, e que, embora o Tribunal de origem tenha entendido que a notificação enviada à recorrida e a sua procuradora não tenha atendido as exigências legais, uma vez que não foram firmados pessoalmente pelas destinatárias, esse entendimento "diverge do posicionamento do STJ no sentido de que é válida a notificação judicial recebida no endereço correto, não obstante um terceiro assinar o AR" (fl. 230); b) que o art. 835 do CC/2002 possibilita a exoneração de fiança mediante o envio de notificação ao credor, não exigindo, para tanto, nenhuma formalidade específica, bastando que chegue ao conhecimento do credor; e c) que a existência de débitos anteriores não impede o exercício do direito à exoneração da fiança prestada, cujos efeitos se operam a partir da notificação.
+Foram apresentadas contrarrazões (fls. 248/252).
+É o relatório. Decido.
+2. O presente recurso não tem como prosperar.
+Tal como apontado na r. sentença de fls. 181/184, tratando-se de contrato de locação por prazo determinado, não se mostra viável a pretensão dos fiadores de exonerarem-se do compromisso durante a vigência do pacto, uma vez que a obrigação se estende até o fim do prazo contratual por força do art. 39 da Lei n. 8.245/1991 combinado com o art. 835 do CC/2002, que assim dispõem:
+"Art. 39. Salvo disposição contratual em contrário, qualquer das garantias da locação se estende até a efetiva devolução do imóvel." (Lei 8.245/91, com a redação anterior à Lei n. 12.112/2009)
+"Art. 835. O fiador poderá exonerar-se da fiança que tiver assinado sem limitação de tempo, sempre que lhe convier, ficando obrigado por todos os efeitos da fiança, durante sessenta dias após a notificação do credor". (CC/2002)
+Nesse sentido a jurisprudência consolidada no âmbito deste Superior Tribunal de Justiça, conforme se observa dos seguintes precedentes:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. LOCAÇÃO. FIANÇA. ALTERAÇÃO DO QUADRO SOCIAL DE EMPRESA LOCATÁRIA. EXONERAÇÃO DURANTE A VIGÊNCIA DO CONTRATO POR PRAZO DETERMINADO. AUSÊNCIA DE ADITAMENTO. IMPOSSIBILIDADE. ARTIGOS 39 DA LEI N. 8.245/91 E 835 DO CÓDIGO CIVIL.
+1. Na vigência do contrato de locação, respondem os fiadores pela garantia dada à empresa locatária em contrato por tempo determinado, ainda que haja mudança no seu quadro social.
+2. Na hipótese, ainda que posta em dúvida pelo acórdão recorrido a existência de notificação extrajudicial do locador, a tentativa de exoneração da obrigação durante o prazo determinado de vigência do contrato, sem que haja qualquer tipo de aditamento contratual, contrariaria os artigos 39 da Lei n. 8.245/91 e 835 do Código Civil.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.336.452/MG, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 7/4/2014)
+"RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO CELEBRADO SOB A ÉGIDE DO CÓDIGO CIVIL DE 1916. FIANÇA COM CLÁUSULA DE VIGÊNCIA ATÉ A "ENTREGA DAS CHAVES". POSSIBILIDADE DE EXONERAÇÃO. RENÚNCIA AO BENEFÍCIO PREVISTO NO ART. 1500/CC16 OU 835/CC02. IRRELEVÂNCIA. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PELO FIADOR À LOCADORA NA VIGÊNCIA DO CODEX DE 2002. ADMISSIBILIDADE.
+I- Na vigência do contrato de locação, responde o fiador pela garantia dada à locadora, não havendo que falar em aplicação do disposto nos arts. 1500 do CC/16 ou 835 do CC/02, que disciplinam os contratos sem limitação de tempo.
+II- No âmbito da 3ª Seção desta Corte, está consolidado o entendimento segundo o qual os fiadores continuam responsáveis pelos débitos locatícios posteriores à prorrogação legal do contrato até a efetiva entrega das chaves, se anuíram expressamente a essa possibilidade e não se exoneraram na forma dos artigos 1.500 do Código Civil de 1916 ou 835 do Código Civil de 2002. Precedentes.
+III- A cláusula contratual na qual consta a renúncia do fiador ao benefício previsto no art. 1.500 do CC/16 - atual 835 do CC/02 - não subsiste após o decurso do prazo inicialmente previsto para a duração da locação, uma vez que o Direito não se compraz com relação jurídica eterna e permanente, especialmente no campo dos direitos pessoais, como é o caso da fiança.
+IV- A partir da vigência do Código Civil de 2002, o pedido de exoneração de fiança, independentemente da data do contrato de locação, será analisado à luz de suas disposições. Precedentes.
+V- Recurso Especial improvido."
+(REsp 1.426.857/RJ, Rel. Min. REGINA HELENA COSTA, QUINTA TURMA, DJe de 19/5/2014)
+No mesmo sentido o acórdão proferido pela eg. Quarta Turma em 13/11/2018, no julgamento do AREsp 627.755/RJ, desta relatoria, o qual restou assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA. CONTRATO DE LOCAÇÃO POR PRAZO DETERMINADO. NOTIFICAÇÃO EXTRAJUDICIAL DA LOCADORA. EXONERAÇÃO DA FIANÇA NA VIGÊNCIA DO CONTRATO. IMPOSSIBILIDADE. GARANTIA QUE SE ESTENDE ATÉ O FIM DO CONTRATO. ARTS. 39 DA LEI 8.245/91 E 835 DO CC/2002. RECURSO PROVIDO.
+1."O fiador poderá exonerar-se da fiança que tiver assinado sem limitação de tempo, sempre que lhe convier, ficando obrigado por todos os efeitos da fiança, durante sessenta dias após a notificação do credor" (CC/2002, art. 835). Tratando-se, contudo, de fiança prestada por prazo determinado, não se cogita dessa liberalidade, sob pena de causar insegurança jurídica aos negócios.
+2. Na vigência do contrato de locação por prazo determinado, responde a fiadora pela garantia dada. A notificação extrajudicial feita à locadora não exonera a fiadora do compromisso, que se estende até o fim do contrato de locação (art. 39 da Lei 8.245/91, combinado com o art. 835 do CC/2002).
+3. Agravo interno a que se dá provimento, para conhecer do agravo e dar provimento ao recurso especial.
+Nesse contexto, a discussão acerca da validade ou não da notificação realizada pelos recorrentes mostra-se despicienda, uma vez que, conforme já decidido por esta eg. Corte, "ainda que posta em dúvida pelo acórdão recorrido a existência de notificação extrajudicial do locador, a tentativa de exoneração da obrigação durante o prazo determinado de vigência do contrato, sem que haja qualquer tipo de aditamento contratual, contrariaria os artigos 39 da Lei n. 8.245/91 e 835 do Código Civil" (AgRg no REsp 1.336.452/MG, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 7/4/2014).
+No caso, a exoneração da fiança somente seria possível após o vencimento do prazo contratual, na hipótese de prorrogação do contrato, o que não é o caso dos autos.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXONERAÇÃO DE FIANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE INTERESSE DE AGIR SUPERVENIENTE. NÃO CONFIGURADA. PRECLUSÃO. INEXISTÊNCIA. PRÉ-QUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CLÁUSULA DE RENÚNCIA AO DIREITO DE SE EXONERAR DA FIANÇA. PRORROGAÇÃO DO CONTRATO POR PRAZO INDETERMINADO. VALIDADE. REGRA DE DIREITO INTERTEMPORAL. ART. 2.035 DO CC/02. EXONERAÇÃO DA FIANÇA. PLANO DA EFICÁCIA DO NEGÓCIO JURÍDICO. APLICAÇÃO DO CC/02. VALIDADE DA NOTIFICAÇÃO ENVIADA PELOS FIADORES. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Ação exoneratória de fiança ajuizada em 08/05/2003, de que foi extraído o presente recurso especial, interposto em 22/06/2006 e concluso ao Gabinete em 02/03/2017. Julgamento pelo CPC/73.
+ 2. O propósito recursal é decidir sobre: (i) a negativa de prestação jurisdicional; (ii) a falta de interesse processual superveniente dos recorridos; (iii) a ocorrência da preclusão; e (iv) a validade do ato de exoneração da fiança.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 535, II, do CPC/73.
+4. A ação de exoneração de fiança é útil, necessária e adequada à satisfação da pretensão deduzida por quem é demandado a pagar as verbas locatícias pendentes, de modo que o fato de não opor embargos do devedor na ação de execução das verbas locatícias não acarreta, por si só, a perda superveniente do interesse de agir naquela demanda.
+5. Pode o juiz, valendo-se de cognição mais profunda e segura (exauriente), ao prolatar a sentença, decidir de modo diverso da conclusão a que chegou o Tribunal, em cognição sumária, na análise de antecipação de tutela, pois o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória.
+6. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+7. A cláusula de renúncia ao direito de exoneração da fiança é válida durante o prazo determinado inicialmente no contrato; uma vez prorrogado por prazo indeterminado, nasce para o fiador a faculdade de se exonerar da obrigação, desde que observado o disposto no art. 1.500 do CC/16 ou no art. 835 do CC/02.
+8. Em virtude do exame do mérito, por meio do qual foram afastadas as teses sustentadas pelos recorrentes, fica prejudicada a análise da divergência jurisprudencial.
+9. Recurso especial parcialmente conhecido e, nessa parte, desprovido."
+(REsp 1656633/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 22/8/2017)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LOCAÇÃO. FIANÇA. EXONERAÇÃO.
+1. A via judicial é a adequada para a obtenção da exoneração da fiança, quando o acordo amigável não se mostrou viável (art. 1.500 do Código Civil).
+2. O fiador tem o direito de exonerar-se da garantia na prorrogação automática do contrato, período em que não mais vige a cláusula de renúncia da exoneração. Precedentes.
+3. Agravo regimental provido para negar seguimento ao recurso especial."
+(AgRg no REsp 895211/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 4/11/2014)
+Do exposto, com fundamento nas Súmulas 83 e 568 do STJ, nego provimento ao recurso especial.
+Publique-se.
