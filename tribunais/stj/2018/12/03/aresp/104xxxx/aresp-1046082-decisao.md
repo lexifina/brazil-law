@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FERTIMAR TRANSPORTES E ARMAZÉNS LTDA - EPP de decisão que negou seguimento a recurso especial fundado no art. 105, III, a e c, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONTRATO DE LOCAÇÃO. Exceção (objeção) de pré-executividade que somente deve ser aceita em situações excepcionais, tais como a nulidade do título executivo, ou matéria de ordem pública, cognoscível de ofício pelo juízo. Não verificadas tais hipóteses, de rigor o prosseguimento da demanda. Questões, aliás, já dirimidas, quando do julgamento do Agravo de Instrumento nº 2209255-42.2015.8.26.0000. Litigância de má-fé não evidenciada. RECURSO DESPROVIDO." (fl. 340)
+Opostos embargos de declaração, foram rejeitados ( fls. 366/369).
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 463, I, 473, 535, I e II, 585, 614, 616 e 618 do Código de Processo Civil de 1973 e 569, 570 e 884 do Código Civil de 2002, bem como divergência jurisprudencial, alegando, em síntese: a) a nulidade do julgamento, porque não supridas as omissões e contradições arguídas em embargos de declaração; b) inexistência parcial do título executivo extrajudicial, um vez que "o contrato estava rescindido em período anterior ao que se pleiteia o pagamento dos aluguéis" (fl. 381); c) excesso de execução; e d) inexistência de preclusão consumativa.
+Não foram apresentadas contrarrazões (fl. 425).
+É o relatório. Decido.
+2. Conforme se observa, o agravo de instrumento interposto pela recorrente foi desprovido pelo Tribunal de origem nos seguintes termos:
+ "Cuidam os autos originários de ação de execução de título extrajudicial decorrente de contrato de locação, em cujos lindes foi apresentada objeção de pré-executividade pela empresa executada.
+ Como não se ignora, a aceitação do instituto da exceção (ou objeção) de pré-executividade deriva de criação doutrinária e jurisprudencial, admitindo-se tal meio de defesa do devedor, independentemente de garantia do juízo, quando existe na execução evidente nulidade ou flagrante irregularidade, bem como nas hipóteses em que se fazem presentes questões de ordem pública.
+ No entanto, com o advento da Lei Federal 11.382/2006, que suprimiu a necessidade de prévia penhora, depósito ou caução como condição para a defesa do executado na execução de título extrajudicial (art. 736 do CPC), e tendo em vista a amplitude da matéria dos embargos (art. 745 do CPC), não há mais utilidade na oposição da objeção de pré-executividade.
+Sobre o tema, a jurisprudência desse Sodalício já sedimentou que:
+"A exceção de pré-executividade somente deve ser exercitada quando flagrante a inviabilidade da execução, como pelo pagamento da dívida ou inexistência de título que a sustente". 1 "Embora não prevista expressamente em lei, doutrina e jurisprudência admitem a exceção de pré-executividade apenas e excepcionalmente para discussão dos pressupostos processuais ou condições da ação, e não quanto ao próprio mérito da execução, deduzível em sede de embargos do devedor."
+ É que o vício deve ser manifesto, reconhecível independentemente de produção de provas. Deveras, não é essa a situação da agravante."
+(fls. 341/342)
+Esse fundamento, no entanto, embora suficiente para a manutenção do acórdão recorrido, deixou de ser atacado no recurso especial, o que torna inviável o conhecimento do recurso especial (STF - Súmula 283).
+Do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
