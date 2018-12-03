@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Acre, mantendo, na íntegra, a sentença que condenou [NOME] à pena de 2 (dois) anos e 6 (seis) meses de reclusão, em regime aberto, mais 100 (cem) dias-multa, por infração ao art. 14, caput, da Lei n. 10.826/2003, nos termos da seguinte ementa (e-STJ fls. 134/135):
+APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO. ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. PROVAS TESTEMUNHAIS. DEPOIMENTO DE POLICIAIS. VALIDADE. PRESTADOS SOB O CRIVO DO CONTRADITÓRIO. REDUÇÃO DA PENA-BASE. INVIABILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE E CONDUTA SOCIAL DESABONADORAS. DIMINUIÇÃO DA PRESTAÇÃO PECUNIÁRIA. VEDAÇÃO. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. NÃO PROVIMENTO DO APELO.
+1. Restando devidamente comprovada a conduta delituosa delineada na exordial acusatória, notadamente por meio da prova testemunhai o pericial, descabe cogitar em absolvição, mormente em se tratando de crime de mera conduta.
+2. O crime do Art. 14, caput, da Lei 10 826/03, é considerado de perigo abstrato, sendo punido antes mesmo que represente qualquer lesão ou perigo concreto.
+3. Os depoimentos de policiais são detentores de credibilidade e possuem valor probatório, sobretudo, quando prestados em sede Judicial, sob o crivo do contraditório.
+4. Inviável a fixação da pena-base no mínimo legal ante a presença de circunstâncias judiciais desfavoráveis, devidamente sopesadas e fundamentadas na primeira fase da dosimetria.
+Nas razões do especial, fulcrado nas alíneas "a" e "c" do permissivo constitucional, alega a defesa negativa de vigência aos arts. 155 e 386 do Código de Processo Penal e 14 da Lei n. 10826/2003, além de divergência jurisprudencial.
+Sustenta, em síntese, que "todas as provas colhidas em Juízo denotam a inexistência da autoria do crime de Roubo, a sentença condenatória baseou-se somente em um único depoimento da vítima, que se encontra de forma frágil" (e-STJ fl. 154).
+Pugna pela absolvição, com fulcro no princípio in dubio pro reo. Alternativamente, requer a revisão da pena imposta pois é primário, sem condições econômicas favoráveis.
+Contra-arrazoado (e-STJ fls. 162/165), o recurso foi inadmitido (e-STJ fls. 166/167), motivando o presente agravo.
+Contraminuta às e-STJ fls. 179/181 e manifestação ministerial, nesta instância, pelo desprovimento do recurso, em parecer assim ementado (e-STJ fl. 191):
+AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. VEDAÇÃO DO REEXAME DO QUADRO PROBATÓRIO. SÚMULA N. 07, DO STJ. VIOLAÇÃO AO ART. 157, DO CÓDIGO PENAL. ARGUMENTOS DISSOCIADOS DO ACÓRDÃO DE ORIGEM. SÚMULA N. 284, DO STF. PARECER PELO IMPROVIMENTO.
+É o relatório. Decido.
+O agravo não merece ser conhecido.
+Isto porque o recurso especial foi inadmitido na origem em face da incidência da Súm. n. 7 e por não ter sido a divergência jurisprudencial devidamente demonstrada.
+Nas razões do agravo em recurso especial, a defesa, em sucinta petição, limitou-se a fazer menções genéricas às razões do despacho de inadmissibilidade, conforme se depreende dos seguintes trechos (e-STJ fl. 171):
+A decisão agravada negou seguimento ao Recurso Especial com, justificando que se trata de reexame de prova, o que não condiz com o alegado e fundamentado no Recurso Especial, a matéria foi prequestionada, o recurso preencheu com os requisitos exigidos para sua admissão, considerando que a matéria foi prequestionada, o fundamento do Recurso Especial não se trata de reexame do conjunto fático-probatório, ressalta-se que a defesa requereu em seu Recurso Especial, a reforma total do Acórdão recorrido, considerando que os artigos prequestionados foram violados, quando do julgamento do recurso de apelação, a decisão que inadmitiu o Recurso Especial foi de forma genérica, apenas inadmitindo, em razão de se tratar do reexame de provas o que não condiz com a verdade, conforme se verifica no Recurso Especial.
+A alegação proferida em decisão que inadmitiu o Recurso Especial, em mencionar que os fatos alegados em Recurso Especial se tratam de rediscussão de provas não tem respaldo, posto que conforme acórdão ora anexo, verifica-se que a matéria pré-questionada não foi julgada procedente tampouco apreciada.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA NÃO CONHECIDA.
+1. No caso dos autos, enquanto a decisão de inadmissibilidade assentou a impossibilidade de análise de matéria constitucional na via especial e os óbices das Súmulas n. 7 e 83/STJ, no agravo em recurso especial a defesa limitou-se a repetir os fundamentos apresentados no apelo nobre, deixando de mencionar a impossibilidade de análise de matéria constitucional na via especial e a harmonia da decisão recorrida com a jurisprudência deste Sodalício.
+2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+ ..
+2. Agravo não conhecido. (AgRg no AREsp 1260812/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018).
+Ainda que assim não fosse, rever o entendimento das instâncias ordinárias que entenderam pela condenação do recorrente por infração ao art. 14 da Lei n. 10.826/2003, implica em exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súm. n.7/STJ.
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 15 DA LEI N. 10.826/2003. ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como destacado na decisão agravada, a leitura do acórdão prolatado pelo Tribunal de origem evidencia, claramente, a conclusão de que o agravante efetuou disparo de arma de fogo no interior de sua residência, existindo pessoas por perto.
+2. O disparo de arma de fogo em local habitado configura o tipo penal descrito no art. 15 da Lei n. 10.826/2003, crime de perigo abstrato que presume o dano à segurança pública e prescinde, para sua caracterização, de comprovação da lesividade ao bem jurídico tutelado.
+3. Para acolher o pleito defensivo e absolver o réu, seria necessário o revolvimento do contexto fático-probatório dos autos.
+4. Agravo regimental não provido. (AgRg no AREsp 684.978/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+Diante do exposto, com fulcro no art. 932, III, do CPC, c/c art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
