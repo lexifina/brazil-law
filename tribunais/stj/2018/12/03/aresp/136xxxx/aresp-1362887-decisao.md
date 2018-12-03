@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por [NOME] contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"REVISÃO CONTRATUAL - Ação julgada improcedente - Aplicação das normas insertas no Código de Defesa do Consumidor (Lei nº 8.078/90) - Admissibilidade - Partes que se enquadram nas definições dos artigos 2º e 3º da referida lei - Alegação de onerosidade e inobservância dos termos pactuados contratualmente - Inocorrência - Realização de prova técnica contábil - Comprovação de ausência de abusividade ou onerosidade excessiva - Cláusulas livremente pactuadas entre as partes, sem qualquer oposição - A utilização da Tabela Price, por si só, não configura a capitalização de juros apregoada - Sentença mantida Recurso desprovido." (fl. 510)
+Os embargos de declaração opostos foram rejeitados (fls. 530/534).
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 4º do Decreto 22.626/33 e Súmula 121 do STF, sustentando, em síntese, que a utilização da Tabela Price como sistema de amortização resultou em anatocismo, prática vedada pelo ordenamento jurídico.
+Apresentada contrarrazões às fls. 553/555.
+É o relatório.
+A questão relativa à existência de capitalização de juros vedada pelo Decreto 22.626/33 na própria fórmula matemática da Tabela Price foi objeto de afetação ao rito dos recursos repetitivos pela eg. Corte Especial deste Tribunal Superior, sob o Tema n. 909, e encontra-se pendente de julgamento.
+Assim, é imperiosa a devolução dos autos ao Tribunal a quo, consoante determina o art. 256-L, I, do RISTJ, que assim dispõe: "Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I- se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator", para observância da sistemática dos recursos repetitivos.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
