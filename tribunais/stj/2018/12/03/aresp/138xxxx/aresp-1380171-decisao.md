@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. GOLPE DO BILHETE. INSURREIÇÃO QUE CONTÉM ALEGAÇÃO GENÉRICA QUE NÃO REBATE DIRETAMENTE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DOS TERMOS DA PETIÇÃO DO APELO EXTREMO. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e [NOME] contra a decisão que inadmitiu o recurso especial interposto pela alínea a do permissivo constitucional dirigido contra o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul na Apelação Criminal n. [CPF], cuja ementa transcrevo:
+APELAÇÃO CRIME.
+ESTELIONATO. GOLPE DO BILHETE.
+INOBSERVÂNCIA DE PROCEDIMENTO DE INQUIRIÇÃO DE TESTEMUNHA. DEVIDO PROCESSO LEGAL. O procedimento quanto à inquirição de testemunhas nos termos do art. 212 do Código de Processo Penal visa à preservação da ampla defesa. Portanto, havendo iniciativa de perguntas pelo juiz sem arguição de prejuízo, não há nulidade a ser reconhecida.
+CRIME IMPOSSÍVEL. FLAGRANTE ESPERADO. Não ocorre crime impossível pelo fato de os policiais, comunicados de que golpistas se encontravam na cidade, passaram a monitorar as acusadas que, no entanto, obtiveram êxito em ludibriar a vítima que entregou a elas a quantia que tinha depositada no banco. Inocorrente a inidoneidade absoluta do meio, tanto que o crime de estelionato se consumou. Flagrante esperado que não se confunde com o forjado
+TORPEZA BILATERAL. O interesse da vítima em receber parte do prêmio não afasta a tipicidade da conduta e não autoriza a absolvição. Precedentes jurisprudenciais.
+PRELIMINAR REJEITADA. RECURSO DEFENSIVO IMPROVIDO.
+Nas razões do recurso especial (fls. 772/801), a defesa aponta violação dos arts. 212, parágrafo único, do Código de Processo Penal, 17 e 59 do Código Penal. Alega que houve nulidade absoluta por ter o magistrado inquirido diretamente as testemunhas, tal como ocorria no antigo sistema presidencialista (fl. 783). Sustenta, ainda, a tese do crime impossível, pugnando pela absolvição pela ineficácia absoluta do meio empregado pelo agente, uma vez que toda a empreitada criminosa foi monitorada pela Polícia Civil (fl. 788). Por fim, afirma que o magistrado utilizou-se de argumentação genérica, sem a indicação de qualquer fato concreto que justificasse a consideração desfavorável das circunstâncias do delito (fl. 799).
+Apresentadas contrarrazões (fls. 807/813), foi o recurso especial inadmitido pela Corte de origem por aplicação das Súmulas 83/STJ (fls. 815/829). Contra tal decisão foi manejado o agravo em análise (fls. 833/869), com contraminuta ofertada às fls. 875/877.
+O Ministério Público Federal opina pelo desprovimento do agravo (fls. 892/895).
+É o relatório.
+A decisão ora agravada inadmitiu o recurso especial por entender, tanto em relação à alegação de nulidade absoluta por ofensa ao art. 212 do Código de Processo Penal, quanto à tese do crime impossível, que o acórdão recorrido não destoa da jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência do enunciado nº 83 da Súmula do Superior Tribunal de Justiça (fl. 823).
+Entendeu também a Corte de origem que não havia falar em ofensa ao art. 59, uma vez que a valoração negativa das circunstâncias do delito foi mantida com base em fundamentação concreta e que extrapola os elementos ínsitos ao tipo penal (fl. 828).
+Nas razões do presente agravo, entretanto, a defesa se limitou a tecer considerações gerais sobre os direitos que garantem a possibilidade de litigar em todo o território nacional e de apresentar recursos aos tribunais superiores, sempre que as instâncias inferiores não fizerem a melhor aplicação das leis (fl. 844).
+Asseverou que quando o Poder Judiciário se afasta dos requisitos expressos na Constituição quando da análise da admissibilidade dos recursos, está sacrificando o Estado Democrático de Direito (fls. 844/845).
+E concluiu seu raciocínio afirmando que os princípios constitucionais não podem sofrer restrições por parte das decisões judiciais, sejam elas de aplicação individual, sejam genéricas, como é o caso das súmulas (fl. 848), e que não poderiam os Tribunais utilizarem tais decisões para criar requisitos que não sejam aqueles constantes da Constituição ou das leis federais (idem).
+Pelos trechos acima transcritos, observo que a defesa se limitou a aduzir uma exposição geral quanto ao direito à ampla defesa e aos princípios constitucionais supostamente violados em decorrência da inadmissibilidade de seu recurso especial pela incidência do enunciado sumular desta Corte.
+E, diante desse panorama, hei de concordar com a argumentação exposta nas contrarrazões recursais no que diz respeito ao não conhecimento da presente insurreição, dada a ausência de impugnação específica aos termos da decisão agravada.
+Com efeito, especificamente no tocante à inadmissão do recurso especial pela incidência da Súmula 83/STJ, a defesa apenas mencionou genericamente que as particularidades do caso concreto impediam a incidência da Súmula 83, do Superior Tribunal de Justiça (fl. 848), sem, contudo, tecer qualquer outra consideração a respeito, visto que prossegue seu arrazoado com a mera reprodução da petição do apelo extremo.
+Nesse sentido, e adotando como razões de decidir os termos trazidos nas contrarrazões recursais, tenho que tais argumentos não possuem densidade jurídica suficiente à configuração de verdadeiro contraponto, tendo em vista que a defesa não busca demonstrar precedentes que indiquem a inexistência de jurisprudência firmada no sentido referido pela decisão monocrática (fl. 876).
+De fato, como bem colocado nas contrarrazões ministeriais, a maneira pela qual a presente insurreição foi redigida, revela uma atuação à margem da verdadeira finalidade do agravo, que é justamente a de tentar desfazer a construção argumentativa exposta na decisão monocrática, para afastar os entraves colocados à admissão do recurso especial e demonstrar a viabilidade do pleito (fl. 876).
+Logo, a presente insurreição, tal como posta, não impugna com a especificidade necessária os fundamentos da decisão ora agravada, o que atrai a incidência da Súmula 182/STJ à hipótese em comento.
+A propósito:
+ ..
+2. É dever do agravante demonstrar o desacerto da decisão agravada, impugnando um a um os seus fundamentos, sob pena de vê-los mantidos. Nesse sentido é o enunciado da Súmula 182 desta Corte: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+ ..
+(AgRg no AREsp 562.927/RJ, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 11/3/2015)
+Ante o exposto, com fundamento no art. 253, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
