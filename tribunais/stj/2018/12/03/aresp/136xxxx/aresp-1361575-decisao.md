@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS (0,66 Kg DE CRACK E 8,39 Kg DE COCAÍNA). ALEGAÇÃO DE VIOLAÇÃO DO ART. 386, VII, DO CPP. CONDENAÇÃO BASEADA EM AUTO DE APREENSÃO E EXIBIÇÃO, LAUDO TOXICOLÓGICO E DEPOIMENTO DE TESTEMUNHAS. REEXAME DE PROVAS. SÚMULA 7/STJ. ALEGAÇÃO DE VIOLAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. QUANTIDADE DE ARMAS E DROGAS APREENDIDAS. FUNDAMENTO NÃO ABARCADO NAS RAZÕES RECURSAIS. SÚMULA 283/STF.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão de inadmissão de recurso especial, este apresentado na Revisão Criminal n. 0015627-54.2017.8.26.0000 contra acórdão proferido pela Sexta Câmara Criminal do Tribunal de Justiça de São Paulo que, indeferindo o pleito revisional, manteve hígida a condenação imposta no processo n. 296/98 (fls. 118/129).
+O recorrente permaneceu condenado à pena de 3 anos e 6 meses de reclusão, pela prática de conduta descrita nos arts. 12 da Lei n. 6.368/1997 e 10, §§ 2º e 3º, III e IV, da Lei n. 9.437/1997, na forma do art. 69 do Código Penal.
+O recorrente alega, nas suas razões recursais, em síntese, que o acórdão recorrido teria contrariado o art. 386, VII, do Código de Processo Penal, porquanto o órgão ministerial não teria cumprido com seu onus probandi. Não existiriam nos autos comprovação de que os objetos ilícitos apreendidos seriam de propriedade do requerente e, para que fosse condenado, far-se-ia necessário não existir nenhum lastro de dúvida sobre a autoria e materialidade do delito. Assim, com esteio nos princípio do in dubio pro reo e da presunção de inocência, pede a reforma do édito condenatório.
+Sustenta, outrossim, que a decisão teria vulnerado o art. 33, § 4º, da Lei n. 11.343/2006, visto que à época dos fatos possuiria todos os requisitos exigidos pela nova legislação para alcance do benefício (fls. 133/148).
+Contrarrazões às fls. 150/154.
+O apelo foi obstado na origem por demandar reexame de provas (fl. 157).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que as matérias objeto de inconformismo teriam sido devidamente fundamentadas pelas defesa, tendo sido devidamente discutidas e bem fundamentadas. Esclarece que não buscaria simples reexame de provas, mas apenas discutir o descumprimento das normas processuais penais discutidas. Reitera, por fim, os termos do recurso especial (fls. 159/173).
+Contrarrazões ao agravo em recurso especial às fls. 175/179.
+O Ministério Público Federal opina pelo não provimento do agravo, dada a necessidade de reexaminar provas (fls. 193/197).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à suposta violação do art. 386, VII, do Código de Processo Penal, imprescindível observar trecho do acórdão que manteve a condenação imposta (fls. 125/128):
+ ..
+Sentença condenatória contrária à evidência dos autos é aquela que não encontra eco nas provas amealhadas sob o crivo do contraditório. Em outras palavras, somente se rescinde sentença transitada em julgado se ficar evidente, de forma cristalina, que a condenação é arbitrária, ou seja, não reflete a situação fático-jurídica dos elementos probatórios angariados ao longo do processo.
+Mas não é isto que ocorre na hipótese dos autos.
+A materialidade dos crimes vem comprovada pelo auto de exibição e apreensão (fls. 19/20), pelo laudo de exame químico toxicológico (fls. 79/80) e pelos laudos periciais das armas de fogo e dos artefatos explosivos (fls. 74/76, 81/84, 85/87, 88/90, 91/93, 94/97, 99/105, 117/119, 120/122 e 123/125).
+No que concerne à autoria, o peticionário na fase extrajudicial, na presença de Advogado, admitiu integralmente os fatos narrados na inicial acusatória. Disse que vendia entorpecente no local da apreensão havia dois anos. Ganhava quinze por cento de toda a venda de drogas. As armas apreendidas foram compradas com o dinheiro oriundo do tráfico de drogas e seriam revendidas. O entorpecente foi adquirido de um homem chamado Cícero (fl. 10).
+Sob o crivo do contraditório, Lindeoberto negou a prática das infrações penais. Agora disse que morava ao lado da casa onde as drogas e as armas foram apreendidas. E ouviu dizer que os objetos ilícitos pertenciam a um tal de Cícero (fl. 110).
+Apesar da negativa judicial do peticionário, as provas amealhadas o comprometem e a solução condenatória com elas é compatível.
+O policial militar Reginaldo esclareceu que participou de operação realizada em conjunto com a Polícia Civil na favela do Jardim Elba. O réu foi preso em um barraco onde foi encontrada uma arma de fogo. No barraco ao lado, no mesmo quintal, havia uma televisão ligada. Indagado, o acusado disse que o barraco pertencia a sua irmã, que estava viajando. Nele foram encontradas armas de fogo, munições e expressiva quantidade de entorpecente. O réu confirmou que era traficante e recebia as armas como forma de pagamento pelas vendas realizadas. O agente possuía um ferimento de arma de fogo nas costas e no armário que havia no barraco onde as drogas foram apreendidas também localizou gases, esparadrapo, mercúrio e água oxigenada, utilizadas para fazer o curativo. Destacou que foi a maior apreensão de drogas e armas feita pela ROTA na favela do Jardim Elba (fls. 128/129). No mesmo sentido foram as declarações prestadas pelos policiais militares [NOME] e [NOME] (fls. 130/131 e 132/133).
+As testemunhas de defesa nada esclareceram a respeito dos fatos (fls. 138, 139/140 e 141).
+O conjunto probatório é robusto e suficiente para a manutenção da condenação.
+É preciso ter em mente que os policiais não conheciam o réu e não teriam motivos para gratuitamente imputar a prática de tão grave crime a uma pessoa que eventualmente soubessem ser inocente. Às suas palavras deve ser dado o mesmo tratamento reservado para os depoimentos prestados por outras testemunhas. Valem pela firmeza, coerência e harmonia que revelam, atributos que se fizeram presentes no caso concreto. Diminuir o valor das palavras dos agentes da lei, só por essa condição, seria desprezar o próprio trabalho para o qual foram incumbidos de desempenhar. Se discrepâncias há, elas dizem respeito a aspectos periféricos, secundários, que não interferem no desfecho da ação penal.
+Revela-se inviável, então, o acolhimento da pretensão absolutória.
+ ..
+Do excerto, verifica-se que o acórdão se lastreou em elementos probatórios produzidos na instrução penal original, em especial os autos de apreensão e exibição e laudo toxicológico, bem como os depoimentos das testemunhas Reginaldo, [NOME] e [NOME], policiais militares responsáveis pelo flagrante, inacessíveis em sede de recurso especial.
+A inversão da conclusão a que chegou o Tribunal a quo implicaria, necessariamente, o reexame de todo o conjunto fático-probatório, pois a instância ordinária, soberana na análise das circunstâncias fáticas da causa, concluiu existirem elementos suficientes para a manter a condenação.
+Aplica-se, portanto, no ponto, o óbice da Súmula 7/STJ.
+Em relação à aplicação da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, consta no acórdão fundamento não abarcado nas razões recursais, a saber, a quantidade de drogas e armas apreendidas (fl. 128):
+ ..
+Quanto à pena, a Defesa busca apenas a aplicação do redutor previsto no artigo 33, § 4o, da Lei 11.343/06. Embora seja possível, em tese, a aplicação do benefício a casos praticados antes da vigência da norma penal, no caso dos autos estão ausentes os requisitos para a redução da pena.
+Com efeito, a quantidade de drogas e armas apreendidas em poder do peticionário indica que ele se dedicava a atividades criminosas e provavelmente era integrante de organização criminosa.
+ ..
+Tal fundamento constante no acórdão não foi impugnado nas razões recursais.
+Essa omissão implica o não prosseguimento da insurgência, tendo em vista o ônus do então recorrente de abarcar todos os fundamentos do acórdão em sua insurgência, óbice exposto na Súmula 283/STF.
+Ante o exposto, com fulcro no art. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
