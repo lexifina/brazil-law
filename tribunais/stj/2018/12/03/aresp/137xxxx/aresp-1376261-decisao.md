@@ -1,0 +1,13 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PETIÇÃO INICIAL. INDEFERIMENTO. AUSÊNCIA DO DEPÓSITO DE 5% (CINCO POR CENTO) DO VALOR DA CAUSA PREVISTO NO ART. 968, II, DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 700):
+AGRAVO INTERNO. DECISÃO DE INDEFERIMENTO DA INICIAL DE AÇÃO RESCISÓRIA POR NÃO RECOLHIMENTO DA DIFERENÇA DE DEPOSITO DE 5% (CINCO POR CENTO) DA RESCISÓRIA E CUSTAS PROCESSUAIS. GRATUIDADE. AUSÊNCIA DE CONDIÇÕES ECONÔMICAS DE PESSOA JURÍDICA. NÃO COMPROVADA. AFRONTA AO CONTRADITÓRIO. NÃO CARACTERIZADO. EXISTÊNCIA DE COISA JULGADA. DECISÃO MANTIDA. In casu incabível a concessão da gratuidade processual pleiteada pela agravante, pois na qualidade de pessoa jurídica não logrou êxito em comprovar a sua impossibilidade de arcar com o deposito de 5% (cinco por cento) exigido na rescisória e custas processuais, conforme exigido na pacificada jurisprudência do Superior Tribunal de Justiça sobre a matéria, e o pleito ainda encontra óbice na existência de preclusão máxima da matéria, tendo em vista o trânsito em julgado da decisão que consignou no dispositivo a determinação de emenda da inicial neste particular, no prazo de 15 (quinze) dias úteis, sob pena de indeferimento, o que afasta a arguição de afronta ao princípio do contraditório. Agravo conhecido, mas improvido à unanimidade.
+No recurso especial a recorrente alega violação dos artigos 98 e 968, II, § 1º, do CPC/2015, sob o seguinte argumento: impossibilidade de arcar com o depósito de valor equivalente a 5% (cinco por cento) sobre o valor da causa, na hipótese de ação rescisória, requerendo, assim, o benefício da gratuidade de justiça.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No caso dos autos, a recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 98 e 968, II, § 1º, do CPC/2015, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
