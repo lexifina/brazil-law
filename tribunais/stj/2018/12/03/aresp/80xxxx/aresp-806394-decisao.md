@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial, este interposto com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RECURSO APELAÇÃO - PRESTAÇÃO DE SERVIÇOS - ADMINISTRAÇÃO DE CONDOMÍNIO - AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. Condomínio que imputa à administradora inadimplemento contratual por má gestão administrativa. Pretensão do condomínio de obter da administradora a quantia que gastou com tarifas de consumo de água junto à SABESP, por ter ela tardado em providenciar o seu reenquadramento tarifário de uma única economia comercial em tantas economias residenciais das quais é composto. Obrigação contratual de reenquadramento tarifário, ajustada sem prazo certo para ser cumprida, devidamente adimplida pela prestadora. Conjunto probatório que indica ter a administradora, enquanto mandatária do autor, empregado a diligência habitual esperada para este tipo de negociação, mormente considerando a realidade fática de então, quando o condomínio ainda se encontrava em regime de implantação por fases. Tardança no reenquadramento tarifário para além do desejado pelo autor que não se traduz em violação de dever de adimplir. Pretensão reparatória a este título indevida. Indevida, também, a pretensão articulada sob a rubrica de danos suportados por falta de aplicação de recursos financeiros em aplicação bancária, por não se verificar nos autos conduta irregular da prestadora. Pleito, ademais, que se refere apenas a dano hipotético, não eletivo. Procedência. Sentença reformada em parte, somente naquilo em que foi impugnada. Recurso de apelação provido." (fl. 368)
+Os embargos de declaração opostos foram rejeitados (fls. 388/394).
+Irresignada, a parte recorrente aponta ofensa ao art. 535 do Código de Processo Civil de 1973, bem como aos arts. 247, 402 e 422 do Código Civil, argumentado, em síntese, que "tratando-se de questões relevantes para o deslinde do litígio instaurado entre as partes e não tendo elas sido dirimidas, impõe-se a cassação do v. acórdão recorrido, uma vez que houve deliberada omissão sobre pronunciamentos de extrema relevância, justificando o provimento do apelo extremo para o completo exame da matéria" (fl. 398).
+É o relatório. Decido.
+De início, cumpre asseverar que não se visualiza a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Destarte, conforme a jurisprudência do Superior Tribunal, o magistrado não está obrigado a se pronunciar sobre todos os pontos abordados pelas partes, mormente quando já tiver decidido a controvérsia sob outros fundamentos (EDcl no Resp 202.056/SP, 3ª Turma, Rel. Min. CASTRO FILHO, DJ de 21.10.2001).
+No tocante à alegação de ofensa aos arts. 247, 402 e 422 do Código Civil, faz-se oportuno destacar que, embora se tenha indicado os dispositivos supostamente vulnerados, a parte recorrente, no entanto, não discorreu argumentos jurídicos claros e precisos sobre como o eg. Tribunal a quo teria violado ou interpretado de forma divergente os mencionados dispositivos de lei federal.
+Nesse cenário, as razões do apelo nobre apresentam meras alegações genéricas de violação da lei federal, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse sentido, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. (..). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..)
+2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/1973) - AÇÃO DE INDENIZAÇÃO DECORRENTE DE NEGATIVAÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A alegação genérica de ofensa a dispositivo da lei federal, sem a demonstração, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, atrai, por analogia, a Súmula 284 do STF.
+(..)
+4. Agravo regimental desprovido."
+(AgRg no AREsp 518.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2016, DJe 28/10/2016)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RESP. INOBSERVÂNCIA DA SÚMULA 123/STJ. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO GENÉRICA À LEI FEDERAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. (..). AGRAVO NÃO PROVIDO. (..)
+2. A jurisprudência desta Corte é pacífica no sentido de que a alegação de ofensa genérica de lei federal não enseja a abertura da via especial, aplicando-se, por analogia, o disposto na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(..)
+6. Agravo interno a que se nega provimento."
+(AgRg no AREsp 263.268/PB, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/05/2016, DJe 18/05/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
