@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1850, de 29 de novembro de 2018
+Dispõe sobre o despacho aduaneiro de exportação em consignação de pedras preciosas ou semipreciosas e de joias.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no inciso II do § 2º do art. 551 e no art. 595 do Decreto nº 6.759, de 5 de fevereiro de 2009, e na Instrução Normativa RFB nº 1.702, de 21 de março de 2017, resolve:
