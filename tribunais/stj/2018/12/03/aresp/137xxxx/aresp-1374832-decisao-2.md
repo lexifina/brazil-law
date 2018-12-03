@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+RECURSO. APELAÇÃO. REQUISITOS DE ADMISSIBILIDADE. INOBSERVÂNCIA DO DISPOSTO NO ART. 1010, III, DO CPC. INOCORRÊNCIA. HIPÓTESE EM QUE AS RAZÕES DO RECURSO DEIXAM CLARO O INTERESSE NA REFORMA DA SENTENÇA. APLICAÇÃO DO ARTIGO 932, IV, "a", DO CPC, ADEMAIS, QUE É FACULTATIVA. RECURSO CONHECIDO. PRELIMINAR REJEITADA.
+PRESCRIÇÃO. AÇÃO ORDINÁRIA RELATIVA A CONTRATO DE PLANO DE SAÚDE INDIVIDUAL. CASO DE RELAÇÃO DE CONSUMO. APLICAÇÃO DO PRAZO PRESCRICIONAL DO ARTIGO 27 DO CDC. INTELIGÊNCIA DO ART. 35-G DA LEI N. 9.656/98. PRELIMINAR AFASTADA.
+SEGURO. PLANO DE SAÚDE. CLÁUSULA DE REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA, RELATIVA A BENEFICIÁRIO IDOSO. NULIDADE. OCORRÊNCIA. INTELIGÊNCIA DO ART. 15, § 3o DO ESTATUTO DO IDOSO QUE VEDA O REAJUSTE COM BASE NA ALTERAÇÃO DE FAIXA. PRECEDENTES DO STJ. DEVOLUÇÃO DOS VALORES COBRADOS INDEVIDAMENTE, CONTUDO, QUE SE LIMITA AOS VALORES INDEVIDOS EVENTUALMENTE PAGOS APÓS O AJUIZAMENTO DA DEMANDA. PRESUNÇÃO DE CONCORDÂNCIA DO AUTOR COM OS VALORES ANTERIORES. SENTENÇA ALTERADA NESTA PARTE. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração foram rejeitados pelo Tribunal de origem.
+Nas razões do especial, aponta a parte recorrente a existência de dissídio jurisprudencial, além da violação dos artigos 1.022 do novo Código de Processo Civil; 169, 182, 205 e 884 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão acerca de ter ocorrido a anuência do segurado com os reajustes da mensalidade do plano de saúde.
+Sustenta que, ante o reconhecimento da nulidade da cláusula contratual, a pretensão de receber os valores pagos indevidamente deveriam respeitar a prescrição trienal.
+Assim delimitada a controvérsia, passo a decidir.
+Em face do exposto, julgo prejudicada a análise do recurso, em razão do parcial provimento do recurso especial interposto nos autos pela ré, SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, em que se determinou ao Tribunal de Justiça que examinasse o reajuste das mensalidades levando-se em conta, também, o entendimento firmado no REsp 1.568.244/RJ supratranscrito.
+Intimem-se.
