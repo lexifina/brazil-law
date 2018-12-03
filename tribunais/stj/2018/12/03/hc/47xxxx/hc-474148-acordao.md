@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. ESTELIONATO CONTRA IDOSO. PRISÃO CAUTELAR. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. A prisão cautelar, como cediço, é medida excepcional de privação de liberdade, que somente poderá ser adotada quando as circunstâncias do caso concreto, devidamente fundamentadas no art. 312 do Código de Processo Penal, demonstrarem a sua imprescindibilidade. Contudo, justificada a custódia preventiva em razões idôneas e devidamente preenchidos todos os seus requisitos, inviável a sua revogação por esta Corte.
+2. A prisão cautelar foi decretada e mantida pelas instâncias ordinárias, especialmente, para a garantia da ordem pública, com o intuito de cessar a reiteração delitiva.
+3. Responde o paciente a outras cinco ações penais, sendo quatro pelo crime estelionato e uma por extorsão majorada e qualificada, em comarcas diversas (Santa Maria/RS, Novo Hamburgo/RS, Ijuí/RS e Porto Alegre/RS), além de uma condenação provisória também por estelionato contra idoso.
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/11/2016).
+5. Presentes os requisitos da prisão preventiva, inviável a aplicação de medidas cautelares alternativas à prisão.
+6. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Habeas Corpus n. [CPF]).
+Consta dos autos que o paciente, denunciado na Ação Penal n. 105/2.18.0000430-1 como incurso no art. 171, caput, e § 4º, c/c o art. 29, caput, ambos do Código Penal (fl. 36), teve a prisão decretada pelo Juízo da Vara Judicial da comarca de Ibiruba/RS (fls. 107/111).
+Alegando ausência de fundamentos idôneos a justificar a segregação cautelar do paciente, a defesa impetrou habeas corpus na colenda Corte de origem, que denegou a ordem (fls. 117/128).
+Daí a presente impetração, em que a defesa aponta constrangimento ilegal em razão de ausência de fundamentação acerca da não aplicação de medidas cautelares diversas da prisão.
+Sustenta que o suposto delito foi cometido sem violência ou grave ameaça e que o paciente é primário, possui residência fixa, trabalho lícito e família (fl. 7).
+Requer, assim, concessão da ordem para que o paciente possa exercer a liberdade mesmo que sob o manto de condições a serem fixadas por este juízo (medidas cautelares - art. 319 do CPP) apresentação semanal, monitoramento eletrônico, fiança no valor do prejuízo da vítima, etc (fl. 17).
+Liminar indeferida (fls. 132/134).
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do writ (fls. 136/141).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a presente impetração a revogação da prisão preventiva do paciente.
+A prisão cautelar, como cediço, é medida excepcional de privação de liberdade, que somente poderá ser adotada quando as circunstâncias do caso concreto, devidamente fundamentadas no art. 312 do Código de Processo Penal, demonstrarem a sua imprescindibilidade.
+Contudo, justificada a custódia preventiva em razões idôneas e devidamente preenchidos todos os seus requisitos, inviável a sua revogação por esta Corte.
+O Juízo singular decretou a prisão cautelar do paciente, afirmando que (fls. 108/110):
+ ..  constitui pacífico entendimento doutrinário e jurisprudencial o de que a decretação da prisão preventiva com fundamento na garantia da ordem pública busca evitar que o delinquente pratique novos crimes contra a vítima ou qualquer outra pessoa, quer porque seja acentuadamente propenso à prática delituosa, quer, porque, em liberdade, encontrará os mesmos estímulos relacionados com a infração cometida, situações essas que se enquadram perfeitamente ao representado, à vista de sua certidão de antecedentes judiciais (fls. 72-74), que demonstra outros processos relativos a crime de estelionato contra idosos em vários municípios do Estado do Rio Grande do Sul, inclusive com uma condenação em 1º grau na Comarca de Porto Alegre/RS pela prática desse tipo de delito, condenação essa que não serviu para inibir a prática de novos delitos patrimoniais pelo acusado.
+Efetivamente, a certidão de antecedentes judiciais das fls. 72-74, demonstra que o réu [NOME] [NOME] é um estelionatário profissional, que faz da arte de lesar o patrimônio alheio a sua profissão habitual.
+Além disso, não há como ignorar o conteúdo da certidão da fl. 43 onde consta que os Policiais Civis de Passo Fundo informaram os agentes policiais de Ibirubá de que [NOME] é comparsa do corréu LERRI ADÁO DOS SANTOS na prática do golpe de "conto do bilhete", estando, ambos, com a prisão preventiva decretada pela prática de outros delitos.
+ ..
+De outra banda, a conveniência para a instrução criminal e a necessidade de garantir a aplicação da lei penal decorrem do fato de o denunciado não residir no distrito da culpa, circunstância que dificulta a instrução probatória e torna incerta a aplicação da pena.
+Por derradeiro, é forçoso reconhecer que, em se tratando de crime de estelionato pela prática do conto do bilhete premiado de indivíduo que já foi condenado e continuou cometendo o mesmo tipo de delito, as medidas cautelares diversas da prisão se revelam inadequadas e insuficientes para o caso concreto.
+ ..
+O Tribunal a quo, corroborando com os fundamentos esposados pelo Magistrado de piso, asseverou que se verifica que se trata de indivíduo que responde a outras 5 ações penais que estão em andamento pelo crime estelionato (4) e extorsão majorada e qualificada (1), cometidos em comarcas diversas (Santa Maria/RS, Novo Hamburgo/RS, Ijuí/RS e Porto Alegre/RS), além de uma condenação provisória também por estelionato contra idoso, cometido nesta Capital (fl. 124).
+Assim, verifica-se que a prisão cautelar do paciente foi decretada e mantida pelas instâncias ordinárias, especialmente, para a garantia da ordem pública, com o intuito de cessar a reiteração delitiva, o que, na hipótese, representa risco concreto.
+Como visto, ao que tudo indica, o paciente tem se dedicado reiteradamente à prática criminosa. Tal circunstância denota a imperiosidade da prisão preventiva, não havendo ilegalidade a ser suprida.
+Vale ressaltar que a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/11/2016).
+Ademais, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão (HC n. 449.750/SP, Ministro Felix Fischer, Quinta Turma, DJe 15/6/2018).
+Ante o exposto, denego a ordem.
