@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão assim ementado:
+SECURITIZAÇÃO. Contrato de abertura de crédito fixo para aquisição de trator com recursos do Finame. Embargos A execução julgados parcialmente procedentes. Insurgência do devedor. lliquidez do título. Incidência de encargos abusivos. Necessidade de revisão reconhecida através de Resolução do Banco Central. Irrelevância. Abusividades a serem expurgadas no exame judicial do contrato.
+Inexigibilidade. Pleito de novo alongamento. Impossibilidade.
+Devedor que não atende ao requisito normativo.
+Preliminares rejeitadas. Capitalização mensal. Previsão expressa no ajuste originário da dívida. Incidência semestral a partir do contrato de securitização ante a falta de pactuaçã"o inequívoca. Correção monetária. Preço mínimo básico oficial do produto. Critério já adotado no contrato e suas prorrogações. Falta de interesse recursal.
+Sucumbência. Redistribuição. Reclamo conhecido em parte e provido parcialmente (fl. 258).
+O recorrente alega que o acórdão recorrido deu interpretação divergente aos arts. 21 do CPC/73 e 23 da Lei 8.906/94, insurgindo-se contra a vedação da compensação de honorários advocatícios.
+Sem contrarrazões (fl. 306).
+É o relatório. Passo a decidir.
+Nos termos do Enunciado 2 do Plenário do STJ: "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No caso, proferido o aresto impugnado na vigência do CPC/73, a orientação jurisprudencial desta Corte é no sentido de que, havendo sucumbência recíproca, devem ser compensados os honorários advocatícios. A propósito:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. COMPENSAÇÃO. SÚMULA 306 DO STJ. TRIBUTÁRIO. MULTA FISCAL. REDUÇÃO. ALEGADO EFEITO CONFISCATÓRIO. SÚMULA 284 DO STJ. INAPLICABILIDADE DO CDC. DÉBITOS TRIBUTÁRIOS. MULTA MORATÓRIA. ART. 17 DO DECRETO 3.342/00. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO C. STF.
+1. "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte." (Súmula 306, CORTE ESPECIAL, julgado em 03/11/2004, DJ 22/11/2004)
+2. O Código de Processo Civil, quanto aos honorários advocatícios, dispõe, como regra geral, que:
+"Art. 20. A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios. Esta verba honorária será devida, também, nos casos em que o advogado funcionar em causa própria."
+"Art. 21. Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídos e compensados entre eles os honorários e as despesas."
+3. A seu turno, o Estatuto da OAB - Lei 8.906/94, estabelece que, in verbis:
+"Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência."
+"Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor."
+"Art. 24. A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, concordata, concurso de credores, insolvência civil e liquidação extrajudicial.
+(omissis)
+§ 3º É nula qualquer disposição, cláusula, regulamento ou convenção individual ou coletiva que retire do advogado o direito ao recebimento dos honorários de sucumbência."
+4. A Lei nº 8.906/94 assegura ao advogado a titularidade da verba honorária incluída na condenação, sendo certo que a previsão, contida no Código de Processo Civil, de compensação dos honorários na hipótese de sucumbência recíproca, não colide com a referida norma do Estatuto da Advocacia. É a ratio essendi da Súmula 306 do STJ..
+5. "O artigo 23 da Lei nº 8.906, de 1994, não revogou o art. 21 do Código de Processo Civil. Em havendo sucumbência recíproca e saldo em favor de uma das partes é assegurado o direito autônomo do advogado de executar o saldo da verba advocatícia do qual o seu cliente é beneficiário." (REsp 290.141/RS, Relator o Ministro Antônio de Pádua Ribeiro, DJU de 31/3/2003)
+(..)
+10. Recurso especial parcialmente conhecido e, nesta parte, desprovido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008 (REsp 963.528/PR, Rel. Ministro LUIZ FUX, Corte Especial, DJe, 4.2.2010).
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE E DE CRÉDITO FIXO. AUSÊNCIA DE PREQUESTIONAMENTO. PRESTAÇÃO JURISDICIONAL COMPLETA. AUSÊNCIA DE NULIDADE. MATÉRIA DE FATO E CONTRATUAL. TAXA DE JUROS REMUNERATÓRIOS. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DE CUMULAÇÃO COM DEMAIS ENCARGOS. FALTA DE INTERESSE PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. VERBA ALIMENTAR. GRATUIDADE JUDICIÁRIA. COMPENSAÇÃO. POSSIBILIDADE. ENUNCIADOS 282 E 356 E 5, 7, 182 E 306 DA SÚMULA DO STF E DO STJ.
+1. Inviável o recurso especial que debate tema não enfrentado pelo tribunal de origem, por carência do requisito indispensável do prequestionamento.
+2. Se as matérias trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla e fundamentada, ainda que contrariamente à pretensão da parte, afasta-se a alegada violação aos arts. 458 e 535 do Código de Processo Civil.
+3. A revisão de parte do julgado impõe reexame da matéria fática e contratual, tarefa vedada no âmbito do recurso especial pelo óbice dos enunciados sumulares 5 e 7 desta Corte.
+4. Não controverte a jurisprudência deste tribunal quanto à inaplicabilidade da limitação da taxa de juros remuneratórios em 12% ao ano nos contratos bancários não regidos por leis especiais, e à impossibilidade de aferir a exorbitância da taxa de juros apenas com base na estabilidade econômica do país, sendo necessária a demonstração, no caso concreto, de que a referida taxa diverge drasticamente da média de mercado.
+5. Segundo o entendimento pacificado na 2ª Seção (AgRg no REsp n. 706.368/RS, Rel. Ministra Nancy Andrighi, unânime, DJU de 8.8.2005), a comissão de permanência não pode ser cumulada com quaisquer outros encargos remuneratórios ou moratórios, nem com correção monetária, o que retira o interesse na reforma da decisão agravada no particular, considerando-se que não é possível extirpar qualquer forma de remuneração da dívida durante a inadimplência.
+6. A ausência de impugnação específica aos fundamentos da decisão agravada, que desqualificaram em parte a pretensão reformatória, em relação às matérias por eles atingida, atrai a incidência do enunciado 182 da Súmula do STJ.
+7. Nem o caráter alimentar dos honorários advocatícios nem o deferimento da gratuidade judiciária são óbices à compensação, nos termos do enunciado 306, da Súmula desta Corte.
+8. Agravo regimental a que se nega provimento (AgRg no REsp 1411168/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe, 25.6.2014).
+Ante o exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para permitir a compensação de honorários advocatícios.
+Publique-se.
