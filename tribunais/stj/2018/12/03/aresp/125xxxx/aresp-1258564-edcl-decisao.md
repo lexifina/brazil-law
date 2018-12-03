@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Vivabem Comércio e Empreendimentos Ltda. contra acórdão, assim ementado (fl. 1.184):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. RESPONSABILIDADE CIVIL DO ESTADO. ART. 43 do CÓDIGO CIVIL. ALEGAÇÃO DE INDEVIDA DEMORA DA POLÍCIA MILITAR NO CUMPRIMENTO DE REINTEGRAÇÃO DE POSSE. NEXO DE CAUSALIDADE E OMISSÃO ESTATAL NÃO COMPROVADOS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Inafastável, o óbice da Súmula 284 do STF.
+2. No que diz com a suscitada ofensa ao art. 43 do Código Civil, a Corte de origem, com arrimo no acervo probatório dos autos, consignou a inexistência de desídia estatal no cumprimento da ordem judicial de reintegração de posse. Logo, a revisão de tal conclusão ensejaria, necessariamente, o reexame da matéria fática, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo interno do particular desprovido.
+A parte fundamenta seus aclaratórios ao argumento de que "existe, no v. acórdão, verdadeira omissão com relação aos fatos, que constam expressamente nas decisões e são incontestes, relativos às infundadas exigências da Polícia Militar" (fl. 1.193), reiterando a tese central do recurso especial no sentido de que "houve efetiva demora no cumprimento da liminar de reintegração de posse, exclusivamente em razão das exigências infundadas realizadas pela Polícia Militar" (fl. 1.197)
+Pugna, pois, pelo acolhimento dos embargos de declaração, a fim de sanar o vício apontado.
+A parte embargada deixou transcorrer o prazo de impugnação in albis, cf. certidão de fl. 1.209.
+É o relatório.
+O recurso não merece ser conhecido.
+Do exame atento dos autos, nota-se que, contra a decisão de fls. 1.185/1.188, a Vivabem Comércio e Empreendimentos Ltda opôs embargos de declaração às fls. 1.192/1.197 e, também, em duplicidade, às fls. 1.198/1.203, ambos datados de 24/9/2018.
+Nesse contexto, inviável o conhecimento do presente recurso, uma vez que o princípio da unirrecorribilidade veda a utilização de dois recursos para impugnar a mesma decisão, devendo o segundo não ser conhecido, ante a preclusão consumativa.
+Segundo nossa jurisprudência, "a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no REsp 1.525.945/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 03/06/2016" (AgInt no AREsp 1.097.778/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/10/2017).
+Ante o exposto, não conheço dos aclaratórios de fls. 1.198/1.203.
