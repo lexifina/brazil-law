@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto em face de acórdão assim ementado:
+REPARAÇÃO DE DANOS - GRAVIDEZ INDESEJADA USO DE MÉTODO CONTRACEPTIVO (DIU) INDICADO PELO SUS EM ATENDIMENTO DE PLANEJAMENTO FAMILIAR - INEFICÁCIA DO PRODUTO - REPARAÇÃO DE DANO MATERIAL
+1 - O fato de a própria fabricante afirmar que o produto não é completamente eficaz demonstra sua falibilidade e a possibilidade de que não funcione em caso algum, não sendo atingida a finalidade para o qual se destina Autora que, aos 22 anos de idade, procurou orientação junto ao SUS para fins de planejamento familiar, sendo indicada adesão ao DIU, que depois de implantado, ainda assim não evitou a gravidez, ocorrida poucos meses depois;
+2 - Como não bastasse a surpresa da gravidez indesejada, todo o período gestacional foi acompanhado de extrema tensão, diante da impossibilidade de retirada do DIU de dentro de seu útero, fator de risco que poderia ter ocasionado uma série de complicações, como inclusive consta da própria bula do produto.
+Dano moral reconhecido e fixado em R$ 40.000,00, suficiente para impor ao fabricante o dever de aprimorar o seu produto;
+3 - Indenização por danos materiais (pensão mensal) correspondente ao pagamento de um salário mínimo ao mês em favor da mãe, para fins de auxilio no sustento da criança não planejada, até que ela complete 24 anos de idade.
+RE CURSO PROVIDO.
+Opostos embargos de declaração, foram acolhidos conforme esta ementa:
+EMBARGOS DE DECLARAÇÃO - ERRO MATERIAL - PENSÃO MENSAL - IDADE MÁXIMA - EFEITOS INFRINGENTES
+1 - Serão cabíveis embargos de declaração quando houver obscuridade ou contradição na sentença ou no acórdão, ou omissão em ponto relevante não abordado pelo Julgador, assim como erro material;
+2 - Decisão que efetivamente incorreu em erro material, fixando pensão mensal em quantidade superior àquela pretendida na inicial, ou seja, até 24 anos de idade quando a própria parte pediu que o limite fosse de 21 anos de idade.
+Correção necessária;
+3 - No mais, descabida a alteração do que já foi decidido por meio de embargos de declaração, que não é recurso próprio para este fim. Se o embargante entende que a questão não foi bem apreciada, o recurso cabível é outro, que não os embargos de declaração, que se prestam a esclarecer, se existentes, dúvidas, omissões ou contradições no julgado; não para que se conforme a decisão ao entendimento do embargante.
+EMBARGOS ACOLHIDOS, apenas para correção de erro material.
+No recurso especial, a parte agravante alega ofensa ao artigo 12 do Código de Proteção e Defesa do Consumidor e divergência jurisprudencial. Inconforma-se com a condenação ao pagamento de indenização por danos materiais e morais. Esclarece que a ocorrência de gravidez durante a utilização do contraceptivo não representa defeito de fabricação do produto. Aduz que um produto somente pode ser tido como defeituoso se não oferecer a segurança que dele legitimamente se espera, considerando-se o uso e o risco a ele inerentes. Informa que, no caso, o produto não apresentou defeito e que jamais foi garantida uma eficácia contraceptiva de 100% durante o uso. Sustenta que não existe método contraceptivo 100% seguro. Assevera que a gravidez não decorreu de defeito de fabricação do produto ou de falha de informação acerca de seu uso, mas do índice de falibilidade inerente (risco normal, natural e previsível) a todos os métodos anticoncepcionais, o que afasta sua responsabilidade (dever de indenizar).
+Em face da relevância da matéria, dou provimento ao agravo para determinar a conversão dos autos em recurso especial.
+Intimem-se.
