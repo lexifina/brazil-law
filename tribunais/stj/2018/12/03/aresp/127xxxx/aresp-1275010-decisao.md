@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Maracanaú, contra decisão que inadmitiu recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 298):
+DESAPROPRIAÇÃO. JULGAMENTO ANTECIPADO. POSSIBILIDADE. CIRCUNSTÂNCIAS DO CASO QUE TORNAM DISPENSÁVEL A AUDIÊNCIA DE INSTRUÇÃO. LAUDO PERICIAL QUE, BEM INSTRUÍDO E FUNDAMENTADO, CONVENCE DO ACERTO DE SUAS CONCLUSÕES. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+A parte recorrente aponta violação aos arts. 535 do CPC/73 e 27 do Decreto-lei 3.365/41. Para tanto, sustenta que: (I) o aresto integrativo deve ser anulado, pois não sanou omissão indicada em embargos de declaração; (II) o valor estabelecido no laudo pericial foi acolhido sem a devida fundamentação.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O recurso não tem como prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Sobre a questão de fundo, o Tribunal a quo manteve a sentença de primeiro grau mediante os seguintes fundamentos (fls. 301/302):
+A sentença está correta e, bem fundamentada, tendo o magistrado acolhido o laudo do perito judicial, deve ser mantida pelos motivos muito bem expostos a fls. 172/173.
+Os autos estavam suficientemente instruídos e comportavam mesmo o julgamento antecipado, nos termos do art. 330, I, do Código de Processo Civil, daí não decorre qualquer nulidade. Desnecessária a realização de audiência de instrução e julgamento, eis que o laudo (fls. 135/147) é claro e convincente, e os esclarecimentos apresentados pelo perito a fls. 164/165 elucidaram satisfatoriamente todas as questões suscitadas pela parte autora.
+Cabe ressaltar que nada se apresentou que comprometesse a confiabilidade do trabalho técnico adotado pela sentença. As manifestações do perito convencem do acerto das suas considerações quanto às características da área desapropriada, que considerou urbanizável pelos motivos que bem demonstrou.
+Bem é de ver, portanto, que o magistrado teve condições de avaliar o ó trabalho do perito. Não se tratam de questões estritamente técnicas, eis que os elementos dos autos permitem ao próprio magistrado se convencer do acerto das opções do técnico quanto ao método por ele utilizado.
+Impõe-se a prevalência da indenização fixada na decisão recorrida em R$ 107.000,00, com base no valor estabelecido por perícia (fls. 173).
+Como se percebe do texto transcrito, a alteração das conclusões adotadas pela Corte de origem, a fim de se apurar eventual imprecisão no laudo pericial, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
