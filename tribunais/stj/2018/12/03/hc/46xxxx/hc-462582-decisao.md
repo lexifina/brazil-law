@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado de próprio punho por [NOME] e CELSO PEREIRA DOS [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Narram os impetrantes/pacientes que foram presos em flagrante e denunciados pela suposta prática do delito tipificado no art. 155, § 4º, I e IV, do Código Penal.
+Informam que, segundo a peça acusatória, teriam subtraído uma caminhonete Toyota/Hilux CD 4x4, cor prata, placa FSZ 0700, ano 2014, além da quantia de R$ 1.000,00 (mil reais) em espécie, jóias, 155 (cento e cinquenta e cinco) euros, uma chave reserva do veículo Honda-HRV, óculos de sol da marca [NOME] e dois talonários de cheques, bens estes pertencentes às vítimas [NOME] e L. C. de M.
+Afirmam que sofreram grave violência física e moral por parte dos policiais no ato da prisão e que a Magistrada de piso não apurou a alegação de ambos sobre as agressões a fim de que fosse instaurado, na Corregedoria Geral de Polícia, o competente inquérito investigatório de abuso de poder.
+Sustentam que possuem trabalho lícito, residência fixa e, apesar de inocentes, foi denegada a ordem de habeas corpus impetrada por eles no Tribunal de Justiça.
+Dessa forma, requerem, em liminar e no mérito, a "revogação, de imediato, da denegação do HC n. 1600877-34.2018.8.12.0000 oriundo do Egrégio Tribunal de Justiça de Mato Grosso do Sul" (e-STJ fl. 10).
+O pleito urgente foi indeferido (e-STJ fls. 24/25).
+Informações prestadas às e-STJ fls. 31/56 e 58/71.
+Parecer ministerial pela prejudicialidade do writ (e-STJ fls. 83/84).
+É, em síntese, o relatório.
+Conforme informações obtidas no sítio eletrônico do Tribunal de origem, verifica-se que, em 19/10/2018, foi prolatada sentença penal condenatória julgando parcialmente procedente a denúncia para absolver o paciente CELSO PEREIRA DOS [NOME], com fundamento no art. 386, VII, do Código de Processo Penal, e condenar o paciente [NOME] [NOME] DOS [NOME], como incurso no art. 155, § 4º, I, do Código Penal, à pena de 3 anos, 2 meses e 15 dias de reclusão, em regime inicial semiaberto, e ao pagamento de multa, sendo-lhe negado o direito de apelar em liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE NÃO ESTAREM PRESENTES OS REQUISITOS AUTORIZADORES DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA MANTENDO A PRISÃO. NOVO TÍTULO. PERDA DE OBJETO. AGRAVO NÃO CONHECIDO. - Sobrevindo sentença condenatória na qual foi mantida a segregação cautelar, fica prejudicado o pedido de revogação da prisão por supostamente não estarem presentes os requisitos autorizadores do art. 312 do Código de Processo Penal, tendo em vista a formação de novo título para justificar a prisão preventiva. Assim, seus fundamentos devem ser submetidos à análise do Tribunal de origem antes de aqui serem apreciados, sob pena de se incidir em supressão de instância. Precedentes desta Corte e do Supremo Tribunal Federal - STF. Agravo regimental não conhecido. (AgRg no HC 336.563/SC, Rel. Ministro ERICSON MARANHO, SEXTA TURMA, julgado em 03/03/2016, DJe 19/05/2016)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
