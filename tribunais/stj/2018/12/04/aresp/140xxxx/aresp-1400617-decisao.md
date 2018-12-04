@@ -1,0 +1,46 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"POSSESSÓRIA - ação de interdito proibitório sentença de improcedência recurso do autor impossibilidade lide eminentemente possessória autor não comprovou a posse- ausência de comprovação de turbação ou esbulho exegese do artigo 333, I do CPC/73 e artigo 373, I do CPC/15 - descabimento da proteção possessória sentença mantida - recurso não provido." (e-STJ, fl. 384)
+Opostos dois recursos de embargos de declaração, os primeiros foram acolhidos sem efeito modificativo (e-STJ, fls. 414/417) e os segundos foram rejeitados (e-STJ, fls. 427/431).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 932 do Código de Processo Civil de 2015 sustentando, em síntese, (a) que os requisitos para a configuração do interdito proibitório restaram comprovados, pois a parte agravada cometeu atos de esbulho contra sua posse, (b) que restaram comprovados a aquisição da posse da ocupante anterior que a exercia há mais de 20 anos por meio de escritura pública de transmissão de posse, o pagamento de IPTU, a construção de muros no terreno, a ameaça de construção e a ameaça de construção de um muro pela parte agravada.
+Apresentadas contrarrazões às fls. 435/438.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Com relação a suposta violação ao art. 932 do CPC/15, o Tribunal de origem afirmou que o interdito proibitório não poderia ser concedido pois a posse do imóvel não restou comprovada, considerando que a matrícula do mesmo está registrada em nome da parte agravada, que o contrato de compra e venda do suposto possuidor anterior não está registrado, que a suposta antiga possuidora afirma não ter exercido a posse do mesmo e que a ação de usucapião intentada pela parte agravante foi julgada improcedente em razão da ausência de prova da posse do imóvel, in verbis:
+"Destaca-se a princípio que a ação de interdito proibitório é uma das ações possessórias previstas na legislação processual civil, tendo como objetivo único e exclusivo a proteção à posse de imóvel.
+Dessa forma, não se nega que deve ser devidamente comprovada a posse do imóvel para que seja configurado o direito do possuidor ser segurado na turbação ou esbulho eminente do imóvel.
+O artigo 567 do novo CPC não deixa dúvida com relação ao direito assegurado ao possuidor do imóvel.
+"Art. 567. O possuidor direto ou indireto, que tenha justo receio de ser molestado na posse, poderá impetrar ao juiz que o segure da turbação ou esbulho iminente, mediante mandado proibitório, em que se comine ao réu determinada pena pecuniária, caso transgrida o preceito."
+Ocorre que o cerne da questão é a configuração da ameaça alegada pelo apelante sobre a sua posse com relação ao imóvel em discussão.
+No entanto, para fazer jus à proteção, é necessário o requisito da posse, como dita o art. 561 do CPC. E a posse do autor não foi comprovada.
+No caso dos autos, a matrícula do imóvel (fls. 22/23) está registrada em nome dos apelados, constando que adquiriram o imóvel de [NOME] e [NOME].
+De outra sorte, o contrato de compromisso de compra e venda de terreno firmado entre Sr. [NOME], na qualidade de vendedor, e Sr. [NOME], na qualidade de comprador, não foi registrado (fls. 20/21). E sem tal instrumento registro - não há efeito perante terceiros. É um nada jurídico. E a escritura pública de cessão de direitos possessórios na qual figura como cedente, Sra. [NOME] (viúva do adquirente por compromisso de compra e venda, Sr. [NOME]) e como cessionário o autor (fls. 24/26). Afirma o documento que a Sra. [NOME]stá na posse há mais de 20 anos. Sobredita escritura foi registrada perante o Tabelião de Notas e de Protesto de Letras e Títulos de Bauru-SP.
+Em sentido contrário, a própria Sra. [NOME], na qualidade de testemunha do autor, afirmou às fls.
+318/319 que "não chegou a morar no imóvel, tendo cedido para parentes".
+Ora, não poderia a Sra. [NOME] ceder posse de imóvel em favor do autor, no qual sequer exercia o "animus domini". Não se pode dispor de algo que não tem.
+(..)
+E sem prejuízo do acima fundamentado, o autor não obteve sentença favorável em ação de usucapião que ajuizou. Diz o d. juiz sentenciante naqueles autos que o autor "nem sequer provou que usou ou usa o bem imóvel, que dele fruiu alguma utilidade ou praticou algum ato de disposição como se dono fosse, donde se conclui que a posse dele não está apto a lhe conferir a aquisição da propriedade por intermédio de usucapião. O laudo pericial não demonstra o tempo de exercício da posse para a aquisição do domínio via usucapião" (fls. 241/243).
+Dessa forma, o interdito proibitório se justifica pela prática de ato material por terceiro, a dificultar o exercício da posse, tendo como objetivo resguardar a posse de ameaça concreta de turbação ou esbulho, sendo indispensável a demonstração da moléstia injusta à posse do atual possuidor, seja por esbulho ou turbação, o que não restou configurado no caso dos autos, ônus que o autor não se desincumbiu nos termos do artigo 333, I do CPC/73 e artigo 373, I do CPC/15.
+E, repetindo-se, o autor não comprovou a posse."
+(e-STJ, fls. 386/388)
+Os fundamentos que serviram de base para a decisão da Corte de origem acerca da ausência de provas da posse (inexistência de posse anterior, registro do imóvel litigioso em nome da parte agravada e ação de usucapião que decidiu pela inexistência da posse do imóvel) não foram objeto de impugnação pela parte agravante e são suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia das Súmula 283 e 284 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Ademais, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERDITO PROIBITÓRIO. REVISÃO DO ACÓRDÃO. SÚMULA 7/STJ.
+1. No caso, rever o entendimento do Tribunal de origem, acerca da posse, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 591.787/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/12/2014, DJe 19/12/2014)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSIGNAÇÃO EM PAGAMENTO. DÚVIDA DA TITULARIDADE DO CRÉDITO. LEGITIMIDADE DO ADQUIRENTE QUE POSSUI REGISTRO DO TÍTULO AQUISITIVO DA PROPRIEDADE. PRECEDENTES. REVISÃO DOS FUNDAMENTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A revisão da conclusão da Corte local, a fim de reconhecer que o agravado jamais deteve a posse sobre o imóvel objeto da contenda seria imprescindível exceder os fundamentos colacionados no acórdão recorrido e adentrar no exame das provas, providência vedada a esta Corte Superior, em sede de recurso especial ante o óbice da Súmula 7 do STJ.
+2. Nos termos da jurisprudência firmada nesta Corte Superior, a comprovação da propriedade de bem imóvel somente se faz por meio da apresentação da escritura devidamente registrada no Cartório de Registro de Imóveis competente, nos termos dos arts. 1.227 e 1.245 do Código Civil.
+3. Agravo interno não provido."
+(AgInt no AREsp 1272596/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 11% para 12% sobre o valor da causa.
+Publique-se.
