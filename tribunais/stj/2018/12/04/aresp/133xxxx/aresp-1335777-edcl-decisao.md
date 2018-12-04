@@ -1,0 +1,11 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por CONSTRUTORA INCON INDUSTRIALIZAÇÃO DA CONSTRUÇÃO S/A, contra decisão de e-STJ fls. 1.430-1.432 que negou provimento ao agravo em recurso especial interposto pela parte ora embargada.
+Nas razões recursais (e-STJ fls. 1.436-1.438), a embargante alega omissão na decisão embargada por deixar de fixar honorários advocatícios recursais (art. 85, §§ 1º e 2º, do CPC/2015).
+Impugnação aos embargos de declaração às fls. 1.445-1.450.
+Decido.
+2. Assiste razão à parte embargante quando alega omissão em virtude da não fixação dos honorários sucumbenciais recursais.
+De acordo com o entendimento firmado nesta Corte, a "majoração dos honorários recursais será possível somente quando presentes os seguintes requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação ao pagamento de honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017).
+3. No caso dos autos, a via especial foi iniciada com a interposição do recurso especial, na vigência do atual CPC, uma vez que o acórdão recorrido foi disponibilizado em 23/01/2017 e considerado publicado em 24/01/2017 (e-STJ fl. 1.326). Ao agravo em recurso especial foi negado provimento. Além disso, constata-se a condenação em honorários advocatícios na Corte local (e-STJ fl. 1.319). Diante disso, é devida a majoração da verba honorária, nos termos do art. 85, §§ 1º e 11, do CPC de 2015.
+Levando-se em conta o trabalho adicional realizado em grau recursal, os honorários advocatícios serão elevados em 2% em favor da parte ora embargante.
+4. Ante o exposto, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em prol dos patronos da parte ora embargante de 10% (dez por cento)(e-STJ fls. 1.257 e 1.319) para 12% (doze por cento) sobre o valor da causa, nos termos do art. 85, §§ 1º e 11, do CPC/2015, observada a gratuidade de justiça.
+Publique-se. Intimem-se.
