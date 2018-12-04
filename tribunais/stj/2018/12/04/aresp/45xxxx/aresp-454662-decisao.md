@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por inexistência de afronta aos dispositivos legais e por falta de comprovação da divergência jurisprudencial.
+O Tribunal de origem negou provimento ao apelo interposto pela agravante, em julgado que recebeu a seguinte ementa (e-STJ fl. 888):
+*EMBARGOS DE TERCEIRO. PENHOR AGRÍCOLA. REQUISITOS. REGISTRO IMOBILIÁRIO. PARCERIA. CONSENTIMENTO DO PROPRIETÁRIO DA FAZENDA. HONORÁRIOS DE ADVOGADO. SÚMULA 303 STJ.
+1. Não incorre em cerceamento de defesa o julgamento que prescinde de dilação probatória, mormente diante dos documentos bastantes colacionados aos autos. Cumpre ao julgador, destinatário da prova, evitar procrastinações indevidas, dando rápida solução aos litígios.
+2. O penhor agrícola, firmado por parceiro agrícola sobre a safra, deve ser acompanhado do consentimento do proprietário da fazenda. Sem tal consentimento, o penhor é inválido.
+3. A venda e compra da safra pela terceira foi realizada com a proprietária da fazenda, e não por meio dos executados, não havendo que se falar em fraude à execução.
+4. Se a terceira embargante não deu causa à constrição, não cabe arcar com honorários de advogado, consoante se interpreta do teor da Súmula 303 STJ.
+5. Recurso desprovido.*
+Os embargos declaratórios foram rejeitados (e-STJ fls. 906/910).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da CF, a agravante alegou ofensa aos arts. 12 da Lei n. 8.929/1994 , 9º da Lei 492/1937 e 2º, § 1º, da LINDB. Sustentou que (e-STJ fls. 923/924):
+(..) a Recorrida não só tinha pleno conhecimento do registro como também se esquivou intencionalmente de juntar os anexos disponibilizados pelo CRI de Franca quando da emissão da certidão positiva de penhor ("REGISTROS N-S 8.124, 8.279 E 8.290, conforme acompanham a presente em cópia reprográfica").
+Constata-se dessa maneira que o arresto deu-se sobre a safra de 2010/2011 da Fazenda Sant"Anna, nos exatos termos dos títulos executados e do Registro n" 8.124, e que a Recorrida, mesmo tendo inequívoca ciência da constrição real identificada da safra de 2010/2011, realizou a compra da mesma cana-de-açúcar.
+(..)
+É dizer: nos exatos termos da Lei Federal supramencionada, os requisitos de validade e eficácia erga omnes da CPR e do Penhor são apenas dois: (i) inscrição no Cartório de Registro de Imóveis do domicilio do emitente e (ii) averbação na matrícula do imóvel no Cartório de localização dos bens apenhados. Noutro falar, o v. acórdão ora combatido, ao exigir o consentimento expresso da Recorrida com fulcro art. 90 da Lei 492/37, inadvertidamente incorre em negativa de vigência à Lei Federal nº 8.929/94.
+É de bom tom ressaltar, de modo a afastar quaisquer dúvidas sobre a necessidade de reforma da decisão, que o aparente conflito de normas relativo aos reais requisitos para a validade do penhor agrícola contra terceiros não se sustenta quando utilizados os critérios definidos no Decreto-Lei nº 4.65711942, com a redação dada pela Lei nº 12.376/2010 (atual "LINDB", antiga "LICC"), quais sejam, o critério da temporalidade e o critério da especialidade. Senão veja-se:
+De acordo com o artigo 2º, § 1º da LINDB, a lei posterior deve revogar a anterior(i) quando elas forem incompatíveis, ou (ii) quando a lei posterior regular inteiramente a matéria de que tratava a lei anterior. É dizer: em caso de conflito, (i) a lei nova deve prevalecer sobre a lei antiga, e (ii) a lei especial deve prevalecer sobre a lei geral.
+No caso concreto, a Lei da CPM foi publicada em 1994. ao passo que a Lei do Penhor Agrícola foi publicada em 1937; sendo mais recente, deve portanto a lei posterior prevalecer sobre a anterior, em evidente hipótese de revogação tácita.
+No mesmo sentido, o art. 9º da Lei 492/37. dispõe genericamente sobre os requisitos para a constituição do penhor agrícola, ao passo que o artigo 12, caput e § 1º da Lei da CPR estabelece os requisitos específicos para a validade de penhor agrícola instituído nessa nova espécie de título de crédito. Tal exegese conduz inexoravelmente à conclusão de que a Lei da CPR é posterior e especial em relação à Lei do Penhor Agrícola, que neste caso é anterior e geral, o que impede a sua aplicação.
+Portanto, diante do disposto na Lei que instituiu as CPRs e das normas regularizadoras do registro de penhor de lavoura (não constrição direta do imóvel, e sim da lavoura, consoante artigos 167, 177 e 178 da Lei 6.015/73), verifica-se que para garantir a eficácia contra terceiros do referido penhor. basta sua inscrição no Livro n" 3 do Cartório de Registro de Imóveis do domicílio do emitente e da localização da lavoura empenhada.
+Foram apresentadas contrarrazões (e-STJ fls. 960/968).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A Justiça local não se manifestou quanto aos arts. 12 da Lei n. 8.929/1994 e 2º, § 1º, da LINDB e à tese de conflito aparente de normas, a fim de prevalecer a primeira em detrimento do art. 9º da Lei n. 429/1937, fundamento do acórdão recorrido. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
