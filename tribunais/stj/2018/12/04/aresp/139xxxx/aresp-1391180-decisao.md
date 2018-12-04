@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Indenização por danos morais. Agressões físicas. Fato incontroverso. Apelante que alega ter agido em legítima defesa. Não comprovação (art. 373, II do CPC/15). Ainda que tenha havido mútuas agressões verbais, a agressão física configura clara desproporção. Ato ilícito configurado (arts. 187 do CC e art. 129, parágrafo 1º, do CP). Quantum indenizatório na quantia de R$ 15.000,00 que cumpre a dupla função da reparação. Montante proporcional e compatível com a extensão do dano (art. 944, do CC), levando em consideração a culpa concorrente. Sentença mantida. Recurso desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do especial, aponta a parte agravante violação aos artigos 23 e 25 do Código Penal e 188 do Código Civil.
+Argumenta, em síntese, que não houve ato ilícito, pois a lesão corporal decorre de legítima defesa.
+Narra que foi condenada ao pagamento de R$ 15.000,00 (quinze mil reais) por danos morais.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, apurou a ocorrência de responsabilidade da agravante, concluiu pela caracterização do dano moral indenizável, pelos excessos praticados os quais configuraram ato ilícito, assim se pronunciando:
+ ..
+Trata-se de pleito de reparo moral que a autora alega ter sofrido em função de agressão física promovida por sua prima, ora ré.
+A autora alega que em 01/04/2015 a ré adentrou seu estabelecimento comercial e que após discussão acalourada, foi surpreendida com a ofensa a sua integridade física, vindo a sofrer hematomas e escoriações (edema nasal e hematoma na região subobcular fls. 18).
+Do conjunto probatório produzido na espécie, verifica-se que de fato a autora sofreu lesão corporal de natureza leve (fls. 18) em função de briga física tida entre ela e a apelante (fls.
+15/16).
+Com efeito, é evidente o imbróglio ocorrido no estabelecimento comercial da autora, além as mútuas agressões verbais das partes envolvidas, inclusive mediante mensagens privadas trocadas em rede social (fls. 50).
+No entanto, a despeito da tese de legítima defesa reputada pela apelante, não há nos autos qualquer prova de que a autora tenha iniciado as agressões físicas, ônus processual que desincumbia à apelante (art. 373, II do CPC/15).
+Não há legitima defesa quando, de um lado, a atitude da autora se manteve na quadra dos gestos e gritos e a apelante reagiu com agressões físicas, em patente desproporção.
+Aliás, é imperioso pontuar que a tese de legítima defesa sequer foi acolhida em sede a ação penal, a qual, embora em fase recursal e pendente de julgamento, foi julgada procedente em primeiro grau (proc. nº 0024624-15.2015.8.26.0576),
+nos seguintes termos da sentença proferida em 17/08/2016, verbis:
+"A par da prova testemunhal, os laudos de exame de corpo de delito juntados aos autos indicam que a vítima teve fratura nasal e incapacidade para ocupações habituais por mais de 30 dias. (..) Dessa maneira, a prova produzida nos autos evidencia que a acusada, sem qualquer justificativa legal, agrediu fisicamente a vítima [NOME], com vários socos e tapas no rosto, provocando as lesões descritas nos laudos, que a incapacitaram para as ocupações habituais por mais de 30 dias. Os elementos carreados aos autos indicam que foi Aliane quem iniciou a agressão, não havendo nenhuma prova nos autos demonstrando que esta encontrasse em situação de legítima defesa. (..) JULGO PROCEDENTE a presente ação penal para condenar a ré ALIANE FERNANDA DE MARCHI por incursa no art. 129, § 1º, I, do CP, à pena de 01 ano e 04 meses de reclusão em regime aberto; com suspensão condicional da pena na forma acima especificada." É nítida a desconformidade e disparidade do uso da força utilizada pela apelante, não se vislumbrando nenh uma moderação no uso dos meios supostamente defensivos, sobretudo considerando que não foi comprovado que houve qualquer agressão física desferida pela apelada em princípio.
+Não é preciso muito para se notar que os fatos narrados não passam de meros desentendimentos gerados em função de briga familiar, o qual, frise-se, é lamentável, sobretudo entre pessoas que deveriam agir de forma condizente e harmônica no ceio familiar.
+No entanto, não há firmamento na sociedade democrática, fundada na coletividade de interesses comuns, para condutas truculentas e desmedidas, embasadas na violência gratuita, chegando a atitudes nefastas como a narrada nos autos, sendo irrelevante quaisquer motivos morais ou familiares que estejam envolvidos nas condutas de ambas as partes.
+Por certo, a apelante deve responder pelos excessos praticados os quais configuraram ato ilícito capaz de ensejar reparação moral (arts. 187 do CC e artigo 129, § 1º do CP).
+Marque-se, ademais, que o dano sofrido pela autora é de natureza in re ipsa, ou seja, dispensa a prova na espécie.
+Nessa linha, portanto, o dano moral persiste advindo da humilhação, constrangimento e prostração que as agressões causaram à autora.
+Noutro bordo, a reação da autora deve ser ponderada na seara da culpa concorrente (art. 945 do CC), importando critério redutor proporcional na fixação do quantum indenizatório, o que, pelo que se viu, já foi ponderado pelo magistrado sentenciante, notadamente porque a apelante sofreu lesão de natureza grave (fratura nasal).
+Malgrado nenhuma quantia em espécie tenha o condão de reparar prejuízos dessa ordem, a moderação há de conter a exasperação, notadamente para que não se promova o desvio do fim precípuo de compensar o ilícito.
+À míngua de parâmetros legais e tendo em mente o grau de reprovabilidade da conduta, da culpa concorrente e da capacidade econômica das partes, penso que a indenização dever ser arbitrada na quantia de R$ 15.000,00 mostra-se adequada e proporcional à reparação civil.
+Com esses contornos, a importância arbitrada é apta ao fim de indenizar o dano moral suportado, guarda correspondência com os parâmetros jurisprudenciais e às circunstâncias do caso concreto e, ainda, não proporciona enriquecimento indevido e exagerado à autora.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, descaracterizar a responsabilidade do ato ilícito, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
