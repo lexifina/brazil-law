@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Soft Consultoria Ltda. em face de decisão que negou provimento ao agravo em recurso especial, tendo em vista que, no especial apelo, a parte recorrente não amparou o inconformismo na violação de qualquer lei federal, sendo, pois, aplicável a Súmula 284/STF (cf fls. 139/151).
+A parte embargante sustenta que "o recurso especial interposto possui todos os pressupostos recursais para a sua admissão" (fl. 310); e que "quando se analisam os pressupostos recursais é preciso levar em consideração também, questões subjetivas que permeiam o processo, bem como o bom direito do embargante, evitando desta forma, a permanência de um formalismo exacerbado, em detrimento da prestação jurisdicional adequada, o que acabaria gerando um cerceamento de defesa da embargante, que teria seu direito de recorrer negado" (fl. 310), sendo certo que "a decisão que ora se discute não analisou tais questões subjetivas, nem o bom direito do embargante, nem tão pouco os atos arbitrariamente praticados pelo embargado, que acabaram por gerar um ataque a nossa constituição, uma vez que se está negando o direito de petição da embargante" (fl. 311).
+Transcorreu in albis o prazo para impugnação (fl. 330).
+É o relatório.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso, a parte embargante sequer explicitou qual teria sido a pecha da decisão embargada a justificar a oposição do recurso integrativo, deficiência de fundamentação recursal capaz de atrair a incidência da Súmula 284/STF.
+Assim, não há como conhecer dos presentes aclaratórios.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DO ESTADO. RECURSO ESPECIAL INTEMPESTIVO. JULGAMENTO DE AGRAVO INTERNO QUE MANTÉM A DECISÃO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+II - Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/2/2017, DJe 8/3/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017)
+Ressalte-se, por fim, que, ainda que se pudesse, por esforço interpretativo, conceber que a parte intencionou apontar a pecha de omissão no decisum ao alegar que "a decisão que ora se discute não analisou tais questões subjetivas, nem o bom direito do embargante, nem tão pouco os atos arbitrariamente praticados pelo embargado, que acabaram por gerar um ataque a nossa constituição, uma vez que se está negando o direito de petição da embargante" (fl. 311), melhor sorte não acorreria o embargante.
+Isso porque, conforme destacado no relatório, o especial apelo sequer ultrapassou a barreira de admissibilidade recursal ante a incidência da Súmula 284/STF. Assim, não há como tachar a decisão de omissa quanto às questões de mérito nele veiculadas, como cediço.
+Ante todo o exposto, não conheço dos embargos de declaração de Soft Consultoria Ltda. (Petição 00437147/2018).
+Publique-se.
