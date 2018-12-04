@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE NITEROI, em que pretende a admissão de recurso especial, que desafia acórdão assim ementado (e-STJ fl. 380):
+Agravo interno contra decisão que, em reexame necessário, reduziu honorários sucumbenciais. Incidência do artigo 557, § 1º-A, do CPC. Manutenção da decisão monocrática agravada.
+Os embargos de declaração foram rejeitados (e-STJ fls. 388/390).
+Nas suas razões (e-STJ fls. 392/404), o recorrente apontou violação dos arts. 535 e 557 do CPC e do art. 1º c/c os itens 4.22 e 4.23 da lista anexa à LC n. 116/2003. Aduziu, em resumo, que a base de cálculo do ISS "deve ser formada pela receita total dos serviços prestados pelo plano de saúde, nos termos do art. 7º, caput da LC nº 116/03, de modo que não devem ser descontados os valores repassados aos profissionais credenciados da seguradora".
+Apresentaram-se contrarrazões às e-STJ fls. 407/412.
+O Tribunal de origem obstou o recurso especial por entender inexistente a alegada infringência do art. 535 do CPC/1973 e incidente a Súmula 83 do STJ (e-STJ fls. 427/432), fundamentação com a qual não concorda o agravante (e-STJ fls. 442/454).
+Sem contraminuta (e-STJ fl. 456).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Dito isso, registro que o acolhimento de recurso especial por violação do art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+Com efeito, por ocasião do julgamento dos aclaratórios, o TJ/RJ foi claro ao assentar que o agravo interno da municipalidade foi examinado e desprovido, sob o fundamento de que da base de cálculo do ISS devido pelas empresas de administradoras de plano de saúde devem ser deduzidos os valores repassados para os profissionais credenciados pela seguradora. Confira-se:
+Os embargos de declaração supõem omissão, contradição ou obscuridade no julgado. Nenhum desses defeitos ocorreu no presente caso.
+A decisão embargada consigna expressamente que "da base de cálculo do ISSQN incidente sobre os serviços de plano de saúde devem ser descontados os valores repassados aos profissionais credenciados da seguradora. Não admitir tal abatimento configuraria dupla incidência do tributo, uma vez que esses profissionais já recolhem a exação quando prestam serviço (..). As razões dos agravantes não me convenceram da necessidade da apresentação do caso originário ao Colegiado".
+A pretensão do recorrente, na verdade, é rediscutir a decisão impugnada, pela via inadequada dos embargos de declaração.
+Afasto, pois, a alegada violação do art. 535 do CPC/1973.
+Quanto ao juízo de reforma, melhor sorte não socorre ao recorrente, visto que o julgado estadual está em sintonia com a jurisprudência desta Corte, consoante se verifica dos seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ISS. PLANO DE SAÚDE. INCIDÊNCIA. BASE DE CÁLCULO. DEDUÇÃO DOS VALORES REPASSADOS AOS PROFISSIONAIS POR SERVIÇOS MÉDICOS PRESTADOS AOS SEGURADOS. ACÓRDÃO RECORRIDO EM SINTONIA COM O ATUAL ENTENDIMENTO DO STJ.
+1. A jurisprudência do STJ é pacífica no sentido de que a base de cálculo do ISS sobre planos de saúde é o preço pago pelos consumidores, diminuído dos repasses feitos pela contribuinte aos demais prestadores de serviços de saúde (hospitais, clínicas, laboratórios, médicos, etc.).
+2. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação.
+3. Recurso Especial não provido.
+(REsp 1722550/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/03/2018, DJe 22/11/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ISS. PLANO DE SAÚDE. BASE DE CÁLCULO. DEDUÇÃO DOS VALORES REPASSADOS AOS PROFISSIONAIS CREDENCIADOS. PROSSEGUIMENTO DA EXECUÇÃO PELOS VALORES REMANESCENTES. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. "No que se refere à base de cálculo, mostra-se ilegítima a incidência do ISS sobre o total das mensalidades pagas pelo titular do plano de saúde à empresa gestora, pois, em relação aos serviços prestados pelos profissionais credenciados, há a incidência do tributo, de modo que a nova incidência sobre o valor destinado a remunerar tais serviços caracteriza-se como dupla incidência de um mesmo tributo sobre uma mesma base imponível. Por tal razão, o valor repassado aos profissionais credenciados deve ser excluído da base de cálculo do tributo devido pela empresa gestora" (REsp 783.022/MG, Rel. Ministra Denise Arruda, Primeira Turma, DJe 16/03/2009). No mesmo sentido: REsp 1.237.312/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/10/2011; REsp 1.137.234/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/09/2011; AgRg no Ag 1.288.850/ES, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe 06/12/2010.
+2. A tese de que a execução fiscal poderia prosseguir pelo valor remanescente, fundada na alegação de que o decote na base de cálculo depende de meros cálculos aritméticos, não foi apreciada pelo Tribunal de origem, carecendo o recurso especial, nesse particular, do requisito do prequestionamento, nos termos da Súmula 211/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 218.161/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2013, DJe 26/08/2013).
+Nesse mesmo sentido, cito essas recentes decisões monocráticas: REsp 1.221.938/RS, Relatora Ministra Assusete Magalhães, DJ 16/08/2018; REsp 1.337.836/DF, Relator Ministro Napoleão Nunes Maia Filho, DJ 25/116/2016.
+Incide, pois, o óbice de conhecimento estampado na Súmula 83 do STJ.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Publique-se. Intimem-se.
