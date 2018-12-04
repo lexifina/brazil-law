@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001. CONSTITUCIONALIDADE. PRECEDENTE DO STF.
+1. O egrégio Supremo Tribunal Federal, no julgamento do RE 596177, sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), declarou inconstitucional a alteração da Lei n.º 8.212/1991 pela Lei n.º 8.540/1992, por ofensa formal (necessidade de Lei Complementar para tratar da matéria).
+2. Em decisão proferida pelo eminente relator Min. Ricardo Lewandowski, em embargos de declaração opostos pela UNIÃO, nos autos do RE 596177, acima mencionado, restou explicitado que: "a discussão do tema com enfoque na Lei 10.256/2001 teve sua repercussão geral reconhecida nos autos do RE 718.874/RS, de minha relatoria. Assim, o julgamento desse feito será a oportunidade adequada para o enfrentamento da matéria.".
+3. Sobre o tema o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718874/RS, em 30/03/2017, declarou que: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção.".
+4. Assim, o egrégio STF reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional n. 20/98, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+5. Apelação a que se dá provimento.
+6 Os honorários advocatícios deve guardar observância aos princípios da razoabilidade e da equidade, considerando-se o previsto nos incisos nos incisos I a V do § 3º c/c o inciso II do § 4º do art. 85 do NCPC, cujo montante deverá ser apurado no momento processual oportuno.
+O valor da causa atribuído, em fevereiro de 2016, foi de R$ 30.000,00 (fl. 20).
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, a recorrente aponta a violação do art. 1.022 do CPC/2015, aduzindo, em resumo, que, não obstante a oposição dos declaratórios, o Tribunal de origem não apreciou o fato de que deveriam ter sido fixados os honorários sucumbenciais desde logo, de sorte que não poderia ter postergado essa análise para momento processual oportuno. Assim, deveria ter incidido o art. 85, § 4º, do CPC/2015, não em seu inciso II, que trata da hipótese de sentença ilíquida, mas em seus incisos I e III, diante da inexistência de condenação principal.
+É o relatório. Decido.
+O recurso não merece seguimento.
+Verifica-se que o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da necessidade de apreciação do montante dos honorários em momento oportuno, não foi rebatido no apelo nobre, que sequer buscou demonstrar se tratar da hipótese dos incisos I e III e não do inciso II, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ainda que superado esse óbice, ad argumentandum tantum, tem-se que não há que se falar em violação ao dispositivo em comento.
+Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pela recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido. (AgInt no REsp 1.498.690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
