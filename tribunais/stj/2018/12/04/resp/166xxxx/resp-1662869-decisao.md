@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de recurso especial em que, entre outras questões, discute-se a existência de capitalização de juros vedada pelo Decreto 22.626/33 na própria fórmula matemática da Tabela Price, o que implicaria, inevitavelmente, e em abstrato, a ilegalidade de seu emprego como forma de amortização de financiamentos no sistema jurídico brasileiro em contratos bancários diversos anteriores à edição da MP 1.963-17/00 e em financiamentos habitacionais anteriores à Lei 11.977/2009.
+Ocorre que o citado tema foi objeto de afetação ao rito dos recursos repetitivos pela Corte Especial deste Tribunal Superior, sob o Tema n. 909, e encontra-se pendente de julgamento.
+Assim, é imperiosa a devolução dos autos a Corte a quo, consoante determina o artigo 256-L, I, do RISTJ, que assim dispõe: "Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I- se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator", para observância da sistemática dos recursos repetitivos.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos artigos 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
