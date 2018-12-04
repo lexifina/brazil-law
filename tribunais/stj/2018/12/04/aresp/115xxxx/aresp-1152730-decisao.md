@@ -1,0 +1,48 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fls. 292/293):
+"FUNDAÇÃO - INTERVENÇÃO DO MINISTÉRIO PÚBLICO - NECESSIDADE DE MANIFESTAÇÃO - AÇÃO - EXTINÇÃO POR RENÚNCIA - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - CABIMENTO - GRATUIDADE DA JUSTIÇA - PEDIDO NÃO APRECIADO EM PRIMEIRO GRAU - EXAME EM SEGUNDO GRAU - POSSIBILIDADE - DEFERIMENTO - HONORÁRIOS ADVOCATÍCIOS - AUSÊNCIA DE CONDENAÇÃO - CRITÉRIO DE FIXAÇÃO - RECURSO CONHECIDO E PROVIDO.
+1) - Nos termos do artigo 66 do Código Civil Brasileiro, estando fundação em um dos pólos da demanda, necessária se faz a intervenção do Ministério Público.
+2) - Havendo a possibilidade que a intervenção não se faça necessária, quando, mesmo intitulada de fundação, se tratar de entidade fechada de previdência privada, o que afasta a participação nos termos do artigo 72, da Lei Complementar 109, de 26 de maio de 2001, fundamental que se ouça o Ministério Público, para que possa ele dizer de seu interesse ou não.
+3) - Extinta a ação, com julgamento do mérito, em razão da renúncia ao direito postulado, deve o autor arcar com os ônus da sucumbência, uma vez que a conseqüência de seu ato é de ser ele tido como vencido.
+4) - Pode pedido de concessão de gratuidade ser apreciado em qualquer grau de jurisdição, ainda mais quando pleiteado em primeiro grau, que não o apreciou no momento certo.
+5) - Firmando o interessado declaração, de próprio punho, dando conta de sua necessidade de ter a gratuidade da justiça, atendida esta a vontade da lei 1060/50, e, por este motivo, deve ser ela concedida.
+6) - Nas causas em que não se dá condenação, deve se fixar o valor dos honorários advocatícios, devidos em razão da sucumbência, com base no artigo 20, § 4º, do CPC.
+7) - Para fixar o valor dos honorários advocatícios, deve-se levar em conta a complexidade da causa, o tempo que nela se gastou e os atos processuais praticados.
+8) - Recurso conhecido e provido."
+Nas razões do recurso especial, o agravante alega violação dos arts. 460, do Código de Processo Civil de 1973, sustentando, em síntese, que: ao conceder AJG a parte apelada, ora recorrida, "o tribunal a quo realizou o julgamento ultra petita, manifestando-se além do que fora postulado no Recurso de Apelação, em prejuízo a própria APELANTE, violando-se, assim, os preceptivos dos artigos 460 do CPC/79 e 492 do NCPC." (e-STJ, fls. 445).
+É o relatório. Decido.
+Quanto à alegada violação ao art. 460 do CPC, faz-se mister asserir que a Corte de origem entendeu que não houve julgamento extra petita, mormente porque o pedido de justiça gratuita foi formulado oportunamente pelo Autor. De fato, divisam-se os seguintes fundamentos extraídos do acórdão dos aclaratórios, litteris (e-STJ, fls. 427/428):
+ "Não há contradição no julgado, nem preclusão do pedido de justiça gratuita, ou julgamento ultra petita.
+ Não se verifica contradição no fato de a Apelação ter sido provida para condenar o Apelado ao pagamento de honorários sucumbenciais, ao mesmo tempo em que suspendeu a exigibilidade do pagamento, em razão do deferimento da justiça gratuita.
+ Não há que se falar em preclusão, porquanto o pedido de justiça gratuita foi formulado oportunamente pelo Autor, firmando declaração de miserabilidade (fls.199-200), nos moldes da Lei nº 1.050/60, e reiterado nas contrarrazões da Apelação (fl. 235), o qual não foi apreciado pelo MM. Juiz a quo, nem, tampouco, impugnado pela Ré, ora Embargante.
+ Nesse contexto, a omissão do Poder Judiciário sobre pedido de concessão da assistência judiciária não pode prejudicar a parte, especialmente quando não houve qualquer impugnação à concessão do benefício.
+ Assim, o deferimento da justiça no julgamento da Apelação não viola o disposto no artigo 473 do CPC de 1973.
+ De igual maneira, não se sustenta a alegação de que houve julgamento ultra petita e consequente violação ao artigo 460 do CPC de 1973, pois é assegurado à parte requerer o benefício a qualquer tempo. Conforme já salientado, houve o pedido de justiça gratuita antes da prolação da sentença, reiterado nas contrarrazões da Apelação.
+ ..
+ Destaco, inclusive, recente entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgRg no EAREsp 440.971/RS, no qual restou assentado que "se presume o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada, inclusive na instância especial".
+ Assim, restam afastadas as preliminares de preclusão e de julgamento ultra petita.
+ O descontentamento com o resultado do recurso, em decorrência de adoção de entendimento contrário à pretensão recursal, não enseja embargos de declaração."
+Não se pode olvidar que, em consonância com o entendimento desta egrégia Corte Superior, não há falar em julgamento extra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida, em respeito ao princípio da congruência.
+Observe-se:
+"RECURSOS ESPECIAIS. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESILIÇÃO SEM ÔNUS. POSSIBILIDADE. PREVISÃO CONTRATUAL. COBRANÇA DE HONORÁRIOS INTERMEDIÁRIOS DE ÊXITO. PROCEDÊNCIA. ARBITRAMENTO DE HONORÁRIOS FINAIS DE ÊXITO. IMPROCEDÊNCIA. CONDIÇÃO NÃO IMPLEMENTADA. AÇÕES EM CURSO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO E DA CAUSA DE PEDIR. JULGAMENTO EXTRA-PETITA. INEXISTÊNCIA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULA Nº 5/STJ. COMPENSAÇÃO. CRÉDITO NÃO CONSTITUÍDO. IMPOSSIBILIDADE. PEDIDO NÃO VEICULADO EM RECONVENÇÃO. APURAÇÃO DO QUANTUM DEBEATUR EM LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE. ART. 603 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SUCUMBÊNCIA RECÍPROCA.
+ ..
+3. Não subsiste a alegada ofensa ao art. 535 do CPC, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+4. Não há falar em julgamento extra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida, respeitando o princípio da congruência.
+5. Consoante a jurisprudência desta Corte Superior, os pedidos formulados devem ser examinados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta, mesmo porque a obrigatória adstrição do julgador ao pedido expressamente formulado pelo autor pode ser mitigada em observância aos brocardos da mihi factum dabo tibi ius e iura novit curia.
+ ..
+13. Recursos especiais não providos."
+(REsp 1550255/RJ, Rel. Ministro MOURA RIBEIRO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015)
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA VIOLAÇÃO AOS ARTIGOS 165, 458, 459 E 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. SÚMULA 283/STF. DISCUSSÃO ACERCA DA COMPENSAÇÃO DE TRIBUTOS DA MESMA ESPÉCIE E IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS (PEDIDO DE MAJORAÇÃO). QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. IMPOSSIBILIDADE DE UTILIZAÇÃO DA ANALOGIA ENTRE O VALOR FIXADO A TÍTULO DE ENCARGO LEGAL E OS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DEVIDOS PELA FAZENDA AO CONTRIBUINTE. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. ENTREGA DA DECLARAÇÃO PELO CONTRIBUINTE. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. SÚMULA 436/STJ.
+ ..
+6. Decidida a lide nos limites em que foi proposta, não há falar em ofensa aos arts. 128 e 515 do CPC, tendo em vista que a fundamentação não é critério apto para a avaliação de julgamento extra petita. Aplicável ao caso o princípio do jura novit curia, o qual, dados os fatos da causa, cabe ao juiz dizer o direito. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto sob fundamentos diversos aos apresentados pela parte.
+ ..
+8. Agravo regimental não provido."
+(AgRg no REsp 1417314/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/10/2015, DJe 09/11/2015)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE USUCAPIÃO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA RÉ.
+1. É entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados, como ocorreu no caso ora em apreço. Omissão afastada. Precedentes.
+2. A decisão impugnada limitou-se ao pleito dos autores, qual seja, a declaração da propriedade pela usucapião. Embora o julgador tenha utilizado fundamento diverso daquele estampado na inicial, não há se falar em decisão ultra/extra petita, visto que o pedido da ação não corresponde apenas ao requerido ao final da petição inicial, mas da interpretação lógico-sistemática da inicial como um todo.
+3. A revisão do resultado o qual sucedeu a Corte de origem acerca da presença dos requisitos para a aquisição da propriedade pela usucapião, demanda a reapreciação probatória, obstada pela incidência da Súmula 7 do STJ.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 354.070/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/10/2015, DJe 21/10/2015)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
