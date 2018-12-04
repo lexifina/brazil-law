@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ESTELIONATO MAJORADO. ART. 171, § 3º, DO CP. RECEBIMENTO DA DENÚNCIA. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. MATÉRIA NÃO PREQUESTIONADA. TEMA NÃO SUSCITADO POR OCASIÃO DA APRESENTAÇÃO DAS RAZÕES AO RECURSO EM SENTIDO ESTRITO. FALTA DE PREQUESTIONAMENTO.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão de inadmissão de recurso especial, este apresentado no processo n. 0010544-16.2017.4.03.6181 (2017.61.81.010544-6) em face de acórdão proferido pela Quinta Turma do Tribunal Regional Federal da 3ª Região que, dando provimento ao recurso em sentido estrito ministerial, recebeu denúncia pela suposta prática de conduta descrita no art. 171, § 3º, do Código Penal, conforme termos da seguinte ementa (fl. 136):
+PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. ESTELIONATO QUALIFICADO. ARTIGO 171, §3º, CÓDIGO PENAL. RECEBIMENTO DE BENEFÍCIO PREVIDENCIÁRIO EM NOME DE TITULAR FALECIDO. TIPICIDADE DA CONDUTA DELITIVA. RECURSO PROVIDO. DENÚNCIA RECEBIDA.
+1. Desde que presentes os elementos que configuram, em tese, a prática delitiva descrita pelo artigo 171, §3º, do Código Penal, com evidências da materialidade delitiva, indícios de autoria e descrição da fraude empregada pela denunciada para garantir o indevido recebimento de parcelas de aposentadoria por invalidez depois do falecimento de sua titular, descabe a rejeição da denúncia com fundamento no artigo 395, III, do Código de Processo Penal.
+2. Conforme orientação veiculada pela Súmula n. 709 do Supremo Tribunal Federal, o provimento deste recurso importa o recebimento da denúncia oferecida pelo Ministério Público Federal.
+3. Recurso provido.
+A recorrente alega, nas suas razões recursais, em síntese, que a denúncia não possuiria justa causa, tanto por não possuir indícios suficientes de autoria e materialidade, como por não ser proporcional aos fatos imputados à ré. Afirma já ter firmado acordo de parcelamento da dívida, o que significaria a restituição do valor indevidamente sacado.
+Sustenta, outrossim, que não estaria comprovada a materialidade do delito de estelionato, pois os fatos narrados não configurariam o ato tipificado no art. 171 do Código Penal. Argumenta não ter induzido o INSS a erro, pois não teria tentado, em nenhum momento, ocultar o óbito de sua sogra, tampouco ter utilizado de artifício, ardil ou meios fraudulentos. Sua conduta seria visivelmente atípica.
+Pede a rejeição da denúncia pela falta de justa causa para prosseguimento da ação penal e a ausência de tipicidade da conduta narrada (fls. 142/152).
+Contrarrazões às fls. 157/165.
+O apelo foi obstado na origem por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça e por demandar reexame de provas (fls. 167/171).
+A recorrente aviou, então, o presente agravo, no qual aduz, em suma, que as questões apresentadas não demandariam o revolvimento da matéria fática, tampouco seriam entendimento consolidado do Superior Tribunal de Justiça. Salienta não se tratar de reanálise do material probatório constante dos autos, mas, no limite, tratar-se-ia de revaloração das circunstâncias consideradas pelos julgadores. Acresce não haver incidência de óbice da Súmula 83/STJ, pois não haveria entendimento consolidado no sentido contrário ao alegado em recurso especial (fls. 175/186).
+Contrarrazões ao agravo em recurso especial às fls. 189/201.
+O Ministério Público Federal opina pelo desprovimento do agravo em recurso especial, dada a necessidade de reexaminar provas (fls. 211/213).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à violação do art. 395, III, do Código de Processo Penal, conforme reiterada jurisprudência desta Corte Superior, compete ao julgador analisar a existência de indícios mínimos de autoria e materialidade a partir dos elementos colhidos na fase preparatória do processo que, uma vez ausente, enseja rejeição da inicial acusatória por falta de justa causa.
+Nesse sentido: AgRg no REsp n. 1.229.786/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/3/2016.
+Analisando a viabilidade da inicial, no acórdão, o Tribunal local exarou a seguinte decisão (fls. 132 e 134):
+ ..
+[NOME], nascida em 15.05.49, foi denunciada como incursa nas penas do artigo 171, §3º, do Código Penal.
+Relatou o Ministério Público Federal que a denunciada induziu em erro o Instituto Nacional do Seguro Social, para continuar a receber aposentadoria por invalidez em nome de sua sogra, [NOME], mesmo depois de seu falecimento, ocorrido em 14.03.14 (cfr. fl. 35).
+Constou da denúncia que [NOME], depois do falecimento de sua sogra, não comunicou o fato ao Instituto Nacional do Seguro Social e fez o uso de seu cartão magnético para continuar a receber as parcelas mensais do benefício de sua titularidade durante o período compreendido entre março e dezembro de 2014.
+A materialidade delitiva, conforme sustentado pela acusação, restou demonstrada pelo processo administrativo instaurado pelo Instituto Nacional do Seguro Social, por meio do qual, foram verificados os recebimentos indevidos do benefício assistencial (sic) após o óbito da titular, o que causou ao Instituto Nacional do Seguro Social o prejuízo de R$8.431,23 (oito mil, quatrocentos e trinta e um reais e vinte e três centavos).
+ ..
+Há evidências da materialidade do crime, indícios da autoria e a descrição da fraude empregada pela denunciada para garantir o indevido recebimento de parcelas de benefício previdenciário devido exclusivamente à sua falecida sogra.
+Grosso modo, a aposentadoria por invalidez previdenciária é devido apenas a seu titular e, apenas em hipóteses em que seja possível sua conversão em benefício de pensão por morte, será transferida aos beneficiários do instituidor falecido, não sendo cabível nos casos em que não houver beneficiários sua continuidade depois do falecimento do titular.
+Assim, a despeito de eventual ausência de comunicação do óbito do titular do benefício ao Instituto Nacional do Seguro Social não se configurar obrigação da acusada, o uso de cartão magnético que não lhe pertencia e de sua senha para a obtenção de benefício previdenciário que não lhe cabia implicou, em tese, a prática delitiva prevista pelo artigo 171, §3º, do Código Penal.
+Nesse particular, configurada justa causa para a ação penal, não se me afigura prudente obstar, de plano, o pleno exercício do direito de ação pelo órgão persecutório, sendo necessária a produção de provas, sob o crivo do contraditório e da ampla defesa, para completo esclarecimento dos fatos objeto da denúncia e, assim, se for o caso, proceder à absolvição da acusada da prática do delito que lhe fora imputado pela acusação.
+ ..
+Do excerto, verifica-se que o Tribunal local tratou de receber a denúncia, tendo em vista que as imputações encontrariam amparo no processo administrativo do Instituto Nacional do Seguro Social.
+A revisão da conclusão do Tribunal de origem, acerca da presença da justa causa, na forma pretendida na presente insurgência, demanda reexame do contexto fático-probatório dos autos, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+Quanto à atipicidade da conduta, verifica-se não ter a matéria sido objeto de deliberação da origem, que se limitou a debater a existência de justa causa, conforme trecho supra destacado.
+A questão relativa à atipicidade da conduta sequer constou das razões de apelação (fl. 109/115), o que torna inviável o conhecimento do apelo, dada a falta de prequestionamento.
+Ante o exposto, com fulcro no art. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
