@@ -1,0 +1,17 @@
+DECISÃO
+Tratam os presentes autos de demanda relativa a diferenças de correção monetária referente à expurgos inflacionários em depósitos de caderneta de poupança.
+O recurso especial é interposto pelo BANCO BRADESCO, em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Cumprimento de sentença - Ação Civil Pública - Expurgos inflacionários.
+Juros Remuneratórios - Não cabimento - Descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento.
+Expurgos Inflacionários posteriores - Reconhecimento - Incidem os expurgos inflacionários posteriores a titulo de correção monetária plena do débito judicial, que terá por base de cálculo o saldo existente ao tempo do referido plano econômico, e não os valores de eventuais depósitos da época de cada plano subsequente.
+Juros Moratórios - Pedido implícito - Incidência sobre o valor objeto da condenação, independente de pedido expresso e de determinação pela sentença - Artigos 293, do Código de Processo Civil e 407, do Código Civil.
+Juros de mora - Termo inicial - Citação na fase de conhecimento da ação - Entendimento consolidado pelo STJ - Incidência no percentual de 6% (seis por cento) ao ano (art. 1.062 do CC/16), desde a data da citação na ação civil pública até a data da entrada em vigor do novo Código Civil e, daí em diante, no percentual de 12% (doze por cento) ao ano (art. 406 do CC/02, c/c art. 161, § 1º do CTN).
+Apuração do "quantum debeatur" - Remessa dos autos a Contadoria - Regra de legalidade - Matéria de ordem pública.
+Recurso provido em parte, com observação." (fl. 213)
+Quanto ao tema, tem-se que o Supremo Tribunal Federal, em questão de ordem, prolatada pelo em. Ministro Gilmar Mendes, nos autos do RE 632.212, na data de 6 de novembro do corrente ano, determinou a suspensão de todos os processos individuais ou coletivos, seja na fase de conhecimento ou execução, que envolvam o tema referente a diferenças de correção monetária de expurgos inflacionários em depósitos de poupança.
+Na mesma toada, se observa, ainda, que o Plenário Virtual do Supremo Tribunal Federal já havia reconhecido, nos autos dos REs 626.307 e 591.797, a repercussão geral de referido tema.
+Em razão do acima decidido, a Segunda Seção do Superior Tribunal de Justiça, na sessão do dia 28 de novembro de 2018, em Questão de Ordem nos autos do Resp 1.361.869/SP, desta relatoria, deliberou por suspender todos os processos, individuais ou coletivos, seja na fase de conhecimento ou execução, que versem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 meses a contar de 5.2.2018, bem como para se aguarde os julgamentos dos REs 626.307 e 591.797, os quais orientarão as Cortes ordinárias na solução das aludidas ações.
+Por maioria, decidiu, ainda, pelo encaminhamento às instâncias de origem de todos os processos relacionados ao tema que estejam nesta Corte, com a devida baixa nesta Corte.
+Nesse contexto, determino a devolução dos presentes autos ao eg. Tribunal de origem onde o andamento ficará suspenso pelo prazo de 24 meses a contar de 5.2.2018, bem como para se aguarde os julgamentos dos REs 626.307 e 591.797, os quais orientarão as Cortes ordinárias na solução das aludidas ações.
+Dê-se a baixa imediata dos autos.
+Publique-se.
