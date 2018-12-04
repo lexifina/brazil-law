@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por BROOKFIELD CENTRO-OESTE EMPREENDIMENTOS IMOBILIÁRIOS S/A, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. RESTITUIÇÃO DE PRAZO PARA CONTESTAÇÃO. NATUREZA PEREMPTÓRIA. AUTOS CONCLUSOS. [NOME]. CONTAGEM EM DOBRO. ART. 191, DO CPC. FALTA DE DEMONSTRAÇÃO DO PREJUÍZO. AUSÊNCIA DE CERTIDÃO, DEMONSTRANDO ÓBICE NO ACESSO AO FEITO. COMPROVAÇÃO DE CARGA DOS AUTOS, ANTES DO PRAZO PARA CONTESTAR.
+1. A conclusão dos autos, por si só, não é uma circunstância suficiente para afastar a natureza peremptória do prazo para contestação, previsto nos arts. 297 e 191, do CPC. Nesse sentido: "1. A fragilidade da alegação de que o prazo, recursal transcorreu enquanto os autos estavam conclusos não configura justa causa para restituição o prazo. 2. Restou caracterizada a preclusão temporal (art. 183, CPC). 3. Agravo improvido." (20040020097865AGI, Relator Hérmenegildo Gonçalves, DJ 31/05/2005 p. 136): 1.2 "A conclusão dos autos, por si só, não enseja cerceamento de defesa a justificar a restituição do prazo recursal". (Acórdão n. 521617, 20110020106600AGI, Relator Carmelita Brasil, DJ 26/07/2011 p. 86).
+2. No caso, por mais que o feito tenha sido concluso ainda na fluência do prazo para resposta, nada impedia que o patrono das partes, devidamente constituído, tivesse acesso aos autos, informando, se fosse necessário, o equívoco da serventia, ao não considerar a contagem do prazo em dobro. 2.1. Caso contrário, com vistas à comprovação do prejuízo processual, cumpre ao agravante, em atenção ao art. 183, do CPC, demonstrar, por meio de certidão cartorária, que, de fato, esteve no Juízo da origem e que não conseguiu ter acesso aos autos, sob pena de sujeitar-se à preclusão.
+3. Ratifica a ausência de prejuízo, a comprovação de que o agravante, antes do início do prazo para contestar, teve acesso aos autos, retirando-os do cartório, tendo, portanto, conhecimento dos termos da petição inicial e dos documentos que a acompanham.
+4. Recurso improvido." (e-STJ, fls. 336/337)
+Opostos embargos de declaração pelas partes, foram parcialmente acolhidos, sem efeitos infringentes.
+Em suas razões recursais, a recorrente aponta ofensa ao artigo 183 do CPC/73. Postula a devolução do prazo para apresentação de defesa porque, durante o transcurso do prazo para oferecimento da contestação, os autos permaneceram indisponíveis.
+É o relatório. Passo a decidir.
+Em consulta realizada no sítio eletrônico do TJDFT, pode-se constatar que, posteriormente à prolação do acórdão recorrido, na data de 26/08/2013, sobreveio sentença no processo originário (Processo n. 2010.01.1.191853-8), julgando parcialmente procedentes os pedidos formulados naquela ação.
+Segundo o entendimento do Superior Tribunal de Justiça, a superveniência da sentença proferida no processo principal acarreta a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória atacada em agravo de instrumento, tendo em vista que nela a cognição é exauriente. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. SENTENÇA DE PROCEDÊNCIA. AGRAVO DE INSTRUMENTO. PREJUDICIALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2 A superveniência de sentença de mérito, mediante cognição exauriente, enseja a perda de objeto do recurso especial oriundo de decisão interlocutória.
+3. Agravo interno não provido.
+(AgInt no AREsp 1235877/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, tendo em vista ser esta de cognição exauriente.
+2. Agravo interno não provido.
+(AgInt na PET no AREsp 1114938/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+"COISA JULGADA. DECISÃO DE MÉRITO NÃO IMPUGNADA. PROCESSUAL CIVIL. ACÓRDÃO QUE EXAMINOU AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. APELO NOBRE. PERDA DE OBJETO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Consoante a jurisprudência deste Superior Tribunal de Justiça, a prolação de sentença de mérito, cuja cognição é exauriente, enseja a perda de objeto do recurso especial interposto contra acórdão que examinou agravo de instrumento que se insurge contra decisão interlocutória. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 477.509/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 02/02/2018)
+Desse modo, no caso dos autos, diante da prolação da sentença de mérito, é inequívoca a perda de objeto do recurso que objetivava devolução de prazo para oferecimento da contestação.
+Cabe ressaltar que, da leitura da sentença, não se verifica a ocorrência de prejuízo manifesto pela falta de apresentação de contestação pela recorrente, já que as outras co-rés também contestaram e todas tiveram oportunidade para especificar provas e recorrer da decisão de saneamento.
+Diante do exposto, com fundamento no artigo 34, XI, do RISTJ, julgo prejudicado o recurso especial pela superveniente perda de objeto.
+Publique-se.
