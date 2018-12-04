@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS TIDOS POR VIOLADOS. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/CE, assim ementado (fl. 115):
+REEXAME NECESSÁRIO. DIREITO ADMINISTRATIVO E TRIBUTÁRIO. PENDÊNCIA DE DÍVIDA TRIBUTÁRIA. NEGATIVA DE AUTORIZAÇÃO PARA EMISSÃO DE NOTAS FISCAIS. SANÇÃO POLÍTICA. O PODER PÚBLICO DETÉM OS MEIOS EXECUTIVOS LEGAIS SUFICIENTES PARA COBRANÇA DE TRIBUTOS. NECESSIDADE DE SUPRESSÃO PELO JUDICIÁRIO DO ATO INQUINADO DE ILEGALIDADE. SENTENÇA MANTIDA.
+1 - Importa ofensa ao princípio da livre iniciativa encartado no Art. 170 da Constituição Federal a negativa de autorização municipal de emissão de notas fiscais sob argumento de existência de débitos perante a municipalidade. Seria inócua a garantia do exercício de qualquer trabalho, caso a lei infraconstitucional pudesse burlá-la impedindo as atividades da impetrante, através deste mecanismo.
+2 - A Fazenda Pública dispõe de meios executivos legais necessários para buscar a efetividade do pagamento de tributos, inclusive com procedimento especial e com mecanismos que sequer são assegurados aos credores em geral (Lei 6.830/80), sendo certo que o processamento dessa pretensão deve sempre assegurar a ampla defesa e o contraditório ao contribuinte, em homenagem ao princípio do devido processo legal.
+3 - É inadmissível em matéria de tributação o uso de sanções políticas pelo poder público como forma constranger o contribuinte a efetuar o pagamento da exação fiscal. Precedentes do STF.
+4 - REMESSA DE OFÍCIO CONHECIDA E IMPROVIDA.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente alega violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, em especial no que diz respeito às teses defensivas de fls. 151/152.
+Quanto à questão de fundo, sustenta que condicionar o exercício de direitos à regularidade perante a administração pública é medida de exigibilidade, de há tempos utilizada no direito brasileiro, que não consubstancia inconstitucionalidade, razão pela qual a recusa em emitir talonário fiscal seria legal.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 203/207.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Ainda preliminarmente, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Frise-se que, para perfectibilização do julgado, não está o órgão jurisdicional obrigado a manifestar-se sobre toda e qualquer tese defensiva ou prova juntada pela parte, bastando que solucione a controvérsia posta nos autos de maneira satisfatória, de forma a considerar os aspectos fáticos e legais que circunstanciem a lide.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+No mais, compulsando-se as razões recursais, constata-se a existência de óbice intransponível ao conhecimento do recurso, pois o recorrente não cotejou, especificamente, os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Ressalte-se que o recurso especial exige elaboração técnica específica, inerente à própria competência conferida pela Magna Carta a esta Corte Superior de Justiça, órgão que não serve como "terceira" ou "super" instância da qual as partes poderiam se valer, em qualquer hipótese, incondicionalmente.
+Sendo assim, como as razões recursais destinam-se quase que exclusivamente a repisar o que fora assentado nas irresignações anteriores, fica cristalina a desobediência aos supramencionados requisitos e a tentativa de acesso à instância superior em flagrante desrespeito à legislação de regência.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
