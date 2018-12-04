@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com base no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 399/400, in verbis:
+Trata-se de recurso especial interposto por [NOME] contra acórdão do TJ/SC, que negou provimento ao apelo ministerial e deu parcial provimento ao apelo defensivo para, mantida a condenação do recorrente à pena total de 4 anos, 8 meses e 13 dias de reclusão, em regime inicial fechado, e 97 dias-multa pela prática dos crime de porte ilegal de arma de fogo de uso restrito (art. 16, caput, da Lei n. 10.826/03) e falsa identidade (art. 307 do CP), afastar a valoração negativa da conduta social, sem interferência no quantum da pena, e corrigir erro material da sentença, consistente na aplicação da regra do concurso material.
+2. Aponta o recorrente ofensa ao art. 59 do CP, ao argumento de que o Tribunal de origem, mesmo tendo afastado a valoração negativa referente à conduta social, manteve a pena-base no mesmo patamar, bem como ao art. 67 do CP, uma vez que não promoveu a compensação entre a atenuante da confissão espontânea e a agravante da reincidência. Nesse último ponto, alega divergência jurisprudencial.
+3. Contrarrazões do MP às fls. 353/363 e decisão de admissibilidade na origem à fl. 385.
+O Parquet opinou pelo provimento do recurso especial, a fim de compensar a atenuante da confissão com a agravante da reincidência.
+É o relatório. Decido.
+Verifica-se que a sentença condenatória aumentou a pena-base dos crimes em 1/8 para cada circunstância judicial valorada negativamente - antecedentes e conduta social. Por sua vez, o acórdão reputou indevida a negativação da conduta social, porém, manteve a exasperação da pena.
+Todavia, esta Corte entende proporcional o aumento na fração de 1/6 (um sexto), calculado a partir da pena mínima abstratamente prevista, para cada vetorial negativa considerada na fixação da pena-base.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. QUANTUM DE AUMENTO NA SEGUNDA FASE DA DOSIMETRIA DA PENA. FRAÇÃO DE 1/6 PARA CADA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. PERCENTUAL EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. COMPENSAÇÃO DA PRIMARIEDADE COM AS CONSEQUÊNCIAS DO DELITO. BONS ANTECEDENTES RECONHECIDOS. BIS IN IDEM. AGRAVO NÃO PROVIDO.
+1. A majoração da pena-base em 1/6 para cada circunstância judicial desfavorável, como adotado pelo Tribunal de origem, está em harmonia com o entendimento pacificado nesta Corte de Justiça, a atrair a incidência da Súmula n. 83 do STJ.
+2. A primariedade do réu já foi admitida na primeira fase da dosimetria da pena que reconheceu como imaculados os seus antecedentes.
+3. A utilização de um mesmo elemento para sopesar positivamente duas circunstâncias judiciais caracteriza-se como bis in idem.
+4. Agravo regimental não provido.
+(AgRg no AREsp 811.666/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2016, DJe 19/05/2016, grifei)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE REDUÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. QUANTIDADE ELEVADA DA DROGA APREENDIDA. 18 KG DE MACONHA. AUMENTO DA PENA-BASE EM 3/5 SOBRE O MÍNIMO LEGAL. DESPROPORCIONALIDADE. INTELIGÊNCIA DO ART. 42, DA LEI N. 11.343/2006. NECESSIDADE DE CORREÇÃO DO QUANTUM DE INCREMENTO PUNITIVO. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+- A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que a grande quantidade da droga apreendida legitima o incremento punitivo, na primeira etapa dosimétrica, em montante superior ao patamar de 1/6, prudencialmente fixado, como piso de elevação da reprimenda em função de cada vetorial desfavorecida. No entanto, a fração de 3/5 é exacerbada, sendo mais adequado, ao caso concreto, o patamar de 1/3 sobre o mínimo.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir as penas do paciente ao novo patamar de 6 anos e 8 meses de reclusão e 666 dias-multa, mantidos os demais termos da condenação.
+(HC 459.101/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/10/2018, DJe 19/10/2018, grifei)
+Na segunda fase da dosimetria, o Tribunal de origem negou a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+Todavia, esta Corte pacificou o entendimento segundo o qual "é possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal" (EREsp n. 1154752/RS, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 23/5/2012, DJe 4/9/2012).
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO CIRCUNSTANCIADO. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. DETRAÇÃO DO TEMPO DE CUSTÓDIA CAUTELAR. SENTENÇA TRANSITADA EM JULGADO. COMPETÊNCIA CONCORRENTE DO JUÍZO DAS EXECUÇÕES. REGIME PRISIONAL FECHADO. GRAVIDADE ABSTRATA DO CRIME. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. No julgamento do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, em 10/4/2013, a Terceira Seção firmou o entendimento de que, observadas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+3. Tratando-se de paciente que registra apenas uma condenação transitada em julgado anterior, não há qualquer óbice à compensação integral da atenuante da confissão espontânea com a agravante da reincidência, como na hipótese dos autos.
+ ..
+7. Writ não conhecido. Habeas corpus concedido, de ofício, com o fim de estabelecer a pena do paciente Felipe em 5 anos e 4 meses de reclusão, mais 13 dias-multa, e determinar que o Juízo das Execuções proceda à detração do tempo de custódia cautelar, nos moldes do art. 387, § 2º, do CPP, bem como para fixar o regime prisional semiaberto para o desconto da pena imposta ao paciente Lucas, caso ele não esteja, por outro motivo, cumprindo pena em regime prisional mais severo.
+(HC 420.489/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/03/2018, DJe 12/03/2018, grifei)
+Dessa forma, tendo em vista a existência de uma circunstância judicial negativa - maus antecedentes -, a pena-base do crime do art. 16, caput, da Lei n. 10.826/2003 deve ser aumentada em 1/6, resultando em 3 anos e 6 meses de reclusão. Essa sanção, mantida na segunda fase em razão da compensação acima reconhecida, fica estabelecida definitivamente.
+A sanção do crime de falsa identidade, seguindo as mesmas diretrizes, resulta em 3 meses e 6 dias de detenção.
+Essas alterações nas penas não importam em outras modificações na condenação.
+Ante o exposto, dou provimento ao recurso especial para reduzir as penas para 3 anos e 6 meses de reclusão, quanto ao crime previsto no art. 16, caput, da Lei n. 10.826/2003, e para 3 meses e 6 dias de detenção, com relação ao delito tipificado no art. 307 do Código Penal, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
