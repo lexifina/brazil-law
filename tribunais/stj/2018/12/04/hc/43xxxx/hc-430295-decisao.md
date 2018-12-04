@@ -1,0 +1,8 @@
+DECISÃO
+1. Trata-se de habeas corpus por meio do qual se pretende, em síntese, a revogação da segregação decretada em desfavor de [NOME], alegando-se, para tanto, a inidoneidade da fundamentação para decretação e manutenção da custódia cautelar do paciente, reputando ausentes os requisitos do art. 312 do Código de Processo Penal.
+Infere-se dos autos que o ora paciente foi preso em flagrante em 24/8/2017 e, em audiência de custódia realizada no dia seguinte, teve prisão preventiva decretada em seu desfavor pela prática, em tese, do delito tipificado no art. 157 do Código Penal, em razão da gravidade do delito e ausência de residência fixa no distrito da culpa e ocupação lícita.
+Não obstante, não pode prosperar o mandamus.
+2. Isso porque, das informações obtidas na página eletrônica do Tribunal de origem (www.tjsp.jus.br), verifica-se que, em 6/5/2018, sobreveio a prolação de sentença pelo Juízo de primeiro gru, condenando o paciente às penas de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais pagamento de 26 (vinte e seis) dias-multa, ocasião em que manteve a custódia preventiva.
+Assim, resta prejudicado o presente remédio constitucional voltado a abordar a legalidade da prisão preventiva imposta, haja vista que os fundamentos utilizados pelo Juízo singular na sentença são distintos daqueles mencionados na decisão primeva, isto é, trata-se de decisão diversa da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Diante do exposto, com fundamento no art. 34, inciso XX, do Regimento Interno deste Tribunal, julga-se prejudicado o habeas corpus, pela perda de seu objeto.
+Publique-se e intimem-se.
