@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa ao artigo de lei indicado e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 681/682).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fls. 647/648):
+RECURSOS DE APELAÇÃO INTERPOSTOS CONTRA R.SENTENÇA PELA QUAL FOI JULGADA PROCEDENTE AÇÃO DE INTERDITO PROIBITÓRIO. RECURSO DA AUTORA - PRETENSÃO RECURSAL DIRIGIDA A NECESSÁRIA FIXAÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS DECORRENTES DA TURBAÇAO POSSESSÓRIA PRATICADA PELA RECORRIDA - INSTALAÇÃO DE SISTEMA DE DRENAGEM NO INTERIOR DO IMÓVEL PERTENCENTE À INCONFORMADA CIRCUNSTÂNCIA QUE NÃO CARACTERIZA, POR SI SÓ, DANO PATRIMONIAL DITO INDENIZÁVEL, ISTO EM RAZÃO DE SE TRATAR DE BEM IMÓVEL NÃO EDIFICADO - NECESSÁRIA COMPROVAÇÃO DE EFETIVO PREJUÍZO EXPERIMENTADO PELA AUTORA - ACERTO DA R.SENTENÇA - RECURSO NÃO PROVIDO. NECESSÁRIA APLICAÇÃO DO DISPOSTO NO ART.252, DO REGIMENTO INTERNO DO E. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO -REAPRECIAÇÃO MINUCIOSA DA R.SENTENÇA QUE IMPLICARÁ EM DESNECESSÁRIA REPETIÇÃO DOS ADEQUADOS FUNDAMENTOS DO PENSAMENTO MONOCRÁTICO - SIMPLES RATIFICAÇÃO DOS TERMOS DA R DECISÃO DE 1o GRAU, QUE SE MOSTRA SUFICIENTEMENTE MOTIVADA RECURSOS NÃO PROVIDOS.
+Nas razões do recurso especial (e-STJ fls. 660/670), interposto com fundamento no art. 105, III, alínea "a", da CF, a recorrente alegou desrespeito ao art. 921, I, do CPC/1973, por ser devido condenar a recorrida ao pagamento de aluguéis, ante o esbulho de parcela do imóvel de sua propriedade, a fim de executar diversas obras subterrâneas e aterros.
+Não foram apresentadas contrarrazões (e-STJ fl. 680).
+No agravo (e-STJ fls. 685/694), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 696).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A Corte local, soberana na análise do processo cognitivos dos autos, indeferiu o pedido de condenação da recorrida ao pagamento de aluguéis à recorrente, tendo em vista que (e-STJ fls. 652/653):
+E os prejuízos experimentados pela requerente, segundo o perito, decorrem diretamente do aumento das erosões no terreno dela, autora, com modificação do estado original do terreno (resposta ao Bº quesito da autora, fls.276), mais a perda física de área para construção, por conta da caixa de captação (resposta ao 9o quesito), situação que, se (e somente se) persistir, poderá cercear o pleno uso e gozo da propriedade, naquele local (resposta ao 14º quesito), mas que, solucionada, reconduzirá a propriedade da autora às suas anteriores condições (resposta ao 25º quesito).
+Para desfazer as obras, finalizou o expert nos esclarecimentos complementares de fls.323/325, será necessário o concurso de uma máquina de terraplanagem leve, assim como moderada alocação de mão-de-obra e ferramentaria por 4 (quatro) dias, tendo estimado esse custo em R$3.500,00 (três mil e quinhentos reais).
+Nesse cenário, forçoso concluir com o perito (resposta ao 1º quesito complementar da ré, fls. 324): a liminar (de fls.72) fez cessar as irregularidades perpetradas pela requerida, daí porque - e a conclusão agora não é do expert -, bem definida a tutela de urgência, que merece ratificação, depois de exaurida a prova, o que também conduz, sem maiores dificuldades, à procedência do pleito possessório.
+Daí a dizer que a requerida também deverá desfazer as obras realizadas - desfazimento dos aterros e da caixa de captação, reposição do solo lixiviado pela erosão por outro material, que não o solo arenoso local, mais plantio de gramíneas -, igualmente nenhuma dificuldade, anotando-se que aqui a obrigação é de fazeç. a ser cumprida no prazo razoável de 10 (dez) dias - até porque o. Perito estimou em 4 (quatro) dias o prazo necessário para tanto - pena de multa diária de R$1.000,00 (um mil reais) por dia de atraso, incidente já a partir do 11º dia, limitada a sanção, todavia, ao décuplo dos R$3.500,00 que o perito estimou ser necessário (em junho de 2009, fls. 323/325) para a consecução desses trabalhos e ficando facultado à ré, por óbvio, executar ela mesma as obras e cobrar, da requerida, aquilo que comprovadamente gastar, até o teto fixado pelo expert. A opção, aqui, é da autora.
+E isso é só, porque o perito por ora, não vislumbrou e nem cogitou de outros prejuízos experimentados pela requerente, tanto que a questão, uma vez solucionada, reconduzirá a propriedade da autora às suas anteriores condições, sem caracterizar qualquer espécie de cerceamento ao pleno uso e gozo da propriedade.
+Com esses fundamentos, que por si só afastam o pedido contraposto deduzido pela ré, em contestação (lembrando que a demanda comportava duplicidade, inclusive nas perdas e danos - artigo 922 do Código de Processo Civil) e anotando-se que a prova que se seguiu após o término dos trabalhos periciais em nada alterou os rumos da lide, é como se decide.
+(..)
+Os demais pleitos deduzidos na inicial são IMPROCEDENTES, nos termos da fundamentação.
+Processo extinto com resolução do mérito, nos termos do artigo 269, inciso I, do CPC.
+Ultrapassar as conclusões do acórdão impugnado, para admitir existente a comprovação dos danos alegados pela recorrente e, por consequência, condenar a recorrida ao pagamento de aluguéis, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. Nesse aspecto:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS AGRÁRIOS. ESBULHO POSSESSÓRIO. INDENIZAÇÃO POR DANOS MATERIAIS. RECONVENÇÃO. VIOLAÇÃO AOS ARTS. 333, I, DO CPC, 476, 884 E 885 DO CÓDIGO CIVIL. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. Quanto à alegada violação aos arts. 333, I, do CPC, 476, 884 e 885 do Código Civil, verifica-se que a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 456.122/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/5/2014, DJe 28/5/2014.)
+AGRAVO REGIMENTAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. LUCROS CESSANTES. ESBULHO POSSESSÓRIO DE BEM MÓVEL. DANO. PROVA. APLICAÇÃO DA SÚMULA 7/STJ. DISSÍDIO NÃO CARACTERIZADO. DECISÃO AGRAVADA MANTIDA.
+1.- A desconstituição das conclusões a que chegou o Colegiado a quo a respeito dos danos, como propugnado, ensejaria nova incursão no acervo fático-probatório da causa, o que é vedado à luz da Súmula 7 desta Corte.
+(..)
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 179.466/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/6/2012, DJe 27/6/2012.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PLEITO DE PERDAS E DANOS. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO DO ACÓRDÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Para infirmar a premissa fática consignada pelo acórdão recorrido de que não houve a comprovação de danos causados à parte, seria imperioso incursionar no contexto fático-probatório, providência vedada a teor da Súmula 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 380.601/SC, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/5/2015, DJe 28/5/2015.)
+Ademais, a jurisprudência das Turmas da Segunda Seção desta Corte firmou-se no sentido de não ser cabível a indenização por danos hipotéticos, remotos ou presumidos. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. LIQUIDAÇÃO DE TÍTULO EXECUTIVO JUDICIAL. LUCROS CESSANTES RESULTANTES DE COGITADO EMPREENDIMENTO IMOBILIÁRIO FRUSTRADO. DANOS HIPOTÉTICOS. ARTS. 402 E 403 DO CC/2002. EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE CARÁTER PROTELATÓRIO. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973 AFASTADA.
+(..)
+4. A jurisprudência do STJ não admite a indenização de lucros cessantes sem comprovação, rejeitando os lucros hipotéticos, remotos ou presumidos, incluídos nessa categoria os lucros que supostamente seriam gerados pela rentabilidade de atividade empresarial que sequer foi iniciada. Precedentes.
+(..)
+6. Recurso especial provido para reformar o acórdão estadual, a fim de excluir do cálculo da indenização os lucros cessantes decorrentes do aventado empreendimento imobiliário, e para afastar a multa imposta pelo juízo singular nos embargos declaratórios.
+(AgInt no AREsp n. 964.233/SP, Relator Ministro LUIS FELIPE SALOMÃO, Relatora para o Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/4/2017, DJe 23/5/2017.)
+RECURSO ESPECIAL. CÉDULA DE CRÉDITO INDUSTRIAL. RESCISÃO CONTRATUAL. ÍNDICE INFLACIONÁRIO. ADOÇÃO EQUIVOCADA. REPASSE AQUÉM DO CONTRATADO. DIFERENÇA DEVIDA. OFENSA AO ART. 535 DO CPC/1973. OMISSÃO NÃO CARACTERIZADA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. LUCROS CESSANTES E DANOS EMERGENTES. AUSÊNCIA DE DEMONSTRAÇÃO. COMPENSAÇÃO. ART. 368 DO CÓDIGO CIVIL. VIABILIDADE. SUCUMBÊNCIA RECÍPROCA. ART. 21 DO CPC/1973.
+(..)
+5. O Superior Tribunal de Justiça tem a orientação firme de que é necessária a efetiva comprovação da ocorrência dos lucros cessantes e dos danos emergentes, não se admitindo indenização baseada em cálculos hipotéticos nem cálculos por presunção ou dissociados da realidade.
+(..)
+10. Recurso especial parcialmente provido para afastar a condenação do banco em lucros cessantes e danos emergentes.
+(REsp n. 1.496.018/MA, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/5/2016, DJe 6/6/2016.)
+Estando o acórdão impugnado em sintonia com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
