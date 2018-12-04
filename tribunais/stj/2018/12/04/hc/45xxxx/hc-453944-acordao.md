@@ -1,0 +1,61 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. FALTA DE INDÍCIOS DE AUTORIA. DILAÇÃO PROBATÓRIA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS DENEGADO.
+1. No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a autoria delitiva.
+2. Matéria não apreciada pelo Tribunal de origem não pode ser diretamente enfrentada por esta Corte Superior, sob pena de supressão de instância.
+3. Tendo a sentença reiterado os fundamentos do prévio decreto de prisão preventiva e deste constando a gravidade concreta da conduta criminosa previamente planejada, em que houve troca de tiros com a força policial, além do cerceamento da liberdade da vítima que se encontrava encapuzada, não há que se falar em ilegalidade do decreto de prisão preventiva.
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de ALCENIR PEREIRA DOS [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo, que denegou o writ de origem por acórdão assim relatado (fl. 29):
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor do paciente ALCENIR PEREIRA DOS [NOME], apontando como autoridade coatora o Exmo. Juiz de Direito da 1a Vara Criminal da Comarca de Aracruz/ES.
+O impetrante requer a concessão da ordem para que seja revogada a prisão, alegando ausência de prova de autoria, ausência de requisitos do art. 312 do CPP, bem como ausência de fundamentação da decisão que denegou a liberdade provisória. Alega ainda condições pessoais favoráveis.
+Decisão indeferindo o pedido de liminar proferida no plantão judiciário às fls. 310/314, pelo Desembargador Telêmaco Antunes de Abreu Filho.
+Informações prestadas às fls. 310/314.
+Parecer às fls. 379/383, onde a Douta Procuradoria de Justiça opina pela denegação da ordem.
+Petição interposta pelo impetrante às fls. 386/387 reiterando o pedido de liminar.
+É o relatório. Em mesa para julgamento independente de inclusão em pauta por força do art. 129, § único do RITJES.
+O impetrante argumenta que o paciente sofre constrangimento ilegal, porque não mais estão presentes os requisitos da prisão preventiva indicados no decreto, principalmente por serem escassos os indícios de autoria.
+Além disso, sustenta que há excesso de prazo para o julgamento da ação penal, pois há mais de 60 dias o processo está concluso ao Juiz. Por isso, requer o provimento do recurso em habeas corpus, para a revogação da custódia, com a aplicação de medidas alternativas à prisão.
+O paciente foi condenado pela prática do crime de roubo majorado, tipificado no art. 157, §2º, incs. I, II e V, do Código Penal, à pena privativa de liberdade de 15 anos de reclusão.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi pela prejudicialidade do writ.
+Na origem, processo n. 00046144120178080006, sobreveio sentença em 5/7/2018, e a defesa interpôs recurso de apelação em 19/9/2018, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 1/10/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Pretende-se neste writ a revogação da prisão preventiva, porque não mais estão presentes os requisitos da prisão preventiva indicados no decreto, principalmente por serem escassos os indícios de autoria. Além disso, sustenta-se que há excesso de prazo para o julgamento da ação penal, pois o processo está concluso ao Juiz de primeiro grau há mais de 60 dias.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+A matéria relativa ao excesso de prazo não foi objeto de análise do Tribunal de origem, conforme cópia de acórdão de fls. 29/34. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância. Ademais, trata-se de matéria superada, porque sobreveio sentença.
+No curso deste habeas corpus foi proferida sentença que manteve a prisão preventiva sem acrescentar novo fundamentos (fl. 109):
+ ..
+Em observância ao § 1º do art. 387 do Estatuto Processual Penal, ressalto que não houve qualquer alteração fática ou jurídica superveniente às decisões de fls. 225/227, 302/302-verso, 346 e 471/473, que justificasse eventual soltura dos acusados, razão pela qual, ainda presentes os requisitos do art. 312 do CPP - conforme devidamente fundamentado nos provimentos supracitados -, mantenho a prisão provisória dos réus [NOME], GECENILDO CUNHA SOUZA, [NOME] e ALCENIR PEREIRA DOS [NOME].
+Por outro lado, a decisão de prisão preventiva restou assim fundamentada (fls. 16/19):
+ ..
+Ademais, o art. 313, II, do mesmo diploma, admite a decretação da prisão cautelar quando o investigado tiver sido condenado por outro crime doloso, em sentença transitada em julgado", tal como se verifica no caso em tela. em que as consultas ao SIEP anexas apontam que o indiciado ALCENIR PEREIRA DOS [NOME] possui duas condenações criminais transitadas em julgado, aptas a gerarem reincidência.
+Além das hipóteses do art. 313 do CPP, é cediço que, para a decretação da prisão preventiva, deve-se demonstrar, ainda, a presença dos pressupostos do art. 312 do CPP, traduzidos pela "garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente do autoria".
+Exige-se. portanto, a demonstração do fumus comissi delicti e do penculum libertatis.
+ ..
+No caso em questão, a prisão preventiva do indiciado ALCENIR PEREIRA DOS [NOME] se mostra necessária como medida de garantia da ordem pública.
+De fato, as peças informativas até então disponíveis demonstram que o delito atribuído ao indicado evidencia algumas circunstâncias que merecem, ainda que se tratando de um momento limiar da persecução criminal, serem ressaltadas, porquanto apontam, em tese, no sentido da gravidade concreta da ação delituosa, realçam a audácia, ousadia e periculosidade dos agentes, a saber:
+a) os depoimentos acostados no presente expediente apontam para a existência, em tese, de um crime roubo, o qual foi praticado por volta de 22h25min, ou seja, durante um horário em que o reduzido fluxo de veículos e baixo policiamento ostensivo favorecem o êxito da empreitada criminosa.
+b) demais disso, impõe registrar que o suposto fato delituoso foi praticado em número excessivo de agentes, a princípio quatro indivíduos, estando, ao menos, dois deles armados, os quais estavam a bordo de veiculo, circunstâncias estas que, também, potencializam consideravelmente o sucesso da ação criminosa;
+c) ademais, salta aos olhos que, no momento da abordagem policial ao autuado [NOME] [NOME] CORDEIRO, o qual estava conduzindo o caminhão supostamente subtraído e na companhia, em tese, do inciado ALCENIR PEREIRA DOS [NOME] ocorreu a realização de disparos contra a guarnição policial, fato que revela um nível extremo de ousadia, audácia e periculosidade dos agentes;
+d) demais disso, salienta-se que a vitima imediata do suposto roubo, o senhor [NOME], motorista do caminhão, foi encapuzado pelos autores do suposto roubo, desde após o anúncio do suposto assalto até a chegada da guarnição policial;
+e) obtempere-se, ainda, que há fortes indícios de que a suposta ação delituosa foi previamente planejada e muito bem organizada, notadamente cm razão da vultosa quantidade e tamanho das res furtivae (480 unidades de botijas de gás e um veiculo caminhão, respectivamente) e em virtude do modus operandi empregado na suposta ação criminosa em si.
+Desta feita, a gravidade concreta do delito supostamente praticado, espelhada, principalmente, pelo modus operandi, aliada, ainda, à necessidade de se acautelar o meio social, evidenciam que a prisão preventiva é medida que se impõe para a garantia da ordem pública.
+Ademais, as consultas ao eJud e SIEP anexas evidenciam que o indiciado ALCENIR PEREIRA DOS [NOME]:
+possui condenação nos autos nº 024090030610. pela prática do crime tipificado no art. 155. §4º. IV, c/c art. 14. II. ambos do Código Penal transitada em julgado em 09/12/2011;
+possui condenação nos autos nº [CPF]. pela prática do crime tipificado no art. 311 do Código Penal, transitada em julgado em 31/01/2011;
+responde e/ou já respondeu a diversos procedimentos criminais em várias Comarcas deste Estado.
+Ou seja, os dados concretos acima citados apontam para um risco concreto de reiteração criminosa e para necessidade da custódia cautelar para a garantia da ordem pública.
+Ante o exposto, reputo que a prisão preventiva, embora excepcional, é adequada e necessária ao caso em tela, razão pela qual, com fulcro nos arts. 312 e 313, incisos I e II. ambos do CPP, DEFIRO a representação da Autoridade Policial DECRETO a prisão preventiva do indiciado ALCENIR PEREIRA DOS [NOME]. brasileiro. [RG]-ES, filho de [NOME] e de Luzia Pereira dos [NOME], nascido aos 08/02/1978. natural de Vitória/ES. residente na Rua [NOME] Celso Cláudio. nº 170. Apto 304. Edificio SunTower. Jardim Camburi. Vitória/ES. como medida de garantia de ordem pública.
+ ..
+Como já adiantado no exame da liminar, integra o decreto prisional fundamento na gravidade do crime, evidenciada nas circunstâncias fáticas, no prévio planejamento da empreitada, na troca de tiros com a força policial enquanto o caminhão roubado estava sendo dirigido por corréu, e também porque o proprietário do caminhão foi mantido sob custódia encapuzado, libertado apenas após a abordagem policial.
+Além disso, também é citado que o paciente ostenta duas condenações transitadas em julgado e encontra-se envolvido com outros processos, o que indica reiteração delitiva.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que justifica a prisão preventiva a verificação de circunstâncias reveladoras de uma gravidade acentuada do delito, evidenciada na restrição por tempo prolongado da liberdade da vítima e disparos de arma de fogo contra agentes da polícia, mediante concurso de agentes. Nesse sentido: HC n. 302029/SP - 6ª T. - unânime - Rel Min. Sebastião Reis Júnior - DJe 5/2/2015; RHC n. 40739/SP - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 9/9/2014; RHC n. 44777/PR - 5ª T. - unânime - Rel. Min. Jorge Mussi - DJe 25/8/2014; RHC n. 46956/SP - 5ª T. - unânime - Rel. Min. Regime Helena Costa - DJe 10/6/2014.
+Esta Corte também tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, voto por denegar o habeas corpus.
