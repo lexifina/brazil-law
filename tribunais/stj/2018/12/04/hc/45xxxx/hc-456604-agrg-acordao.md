@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. MODO MAIS GRAVOSO JUSTIFICADO. ILEGALIDADE INEXISTENTE. INSURGÊNCIA DESPROVIDA.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena firmada, devendo-se considerar as demais circunstâncias do caso versado.
+2. Na espécie, estabelecida a sanção em patamar superior a 4 anos e inferior a 8 anos de reclusão, a gravidade concreta do crime, evidenciada pela periculosidade do réu e pela utilização de arma de fogo, além de ter havido troca de tiros entre os agentes e uma das vítimas, constituem fundamentação idônea que justifica a imposição do modo prisional fechado para o início do resgate da reprimenda.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME] contra a decisão de fls. 528/531, por meio da qual não se conheceu do habeas corpus, por ser manifestamente incabível, assentando-se, ainda, a inexistência de constrangimento ilegal para fins de concessão da ordem de ofício.
+Sustenta o agravante a ausência de fundamentação idônea apta a justificar a imposição do regime inicial fechado para o resgate da sanção.
+Assevera que, no caso dos autos, é imperiosa a fixação do modo prisional mais brando para o início do cumprimento da pena, em observância aos critérios previstos no art. 33, §§ 2º e 3º, do CP, aduzindo que a reprimenda imposta foi abaixo de oito anos, além de inexistir circunstância judicial desfavorável.
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o breve relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Inicialmente, tendo a decisão agravada sido publicada no dia 06.11.2018 (e-STJ fl. 532), cumpre atestar a tempestividade da insurgência, pois interposta aos 08.11.2018 (e-STJ fl. 537), ou seja, dentro do prazo previsto no artigo 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Isso porque, consoante consignado no provimento judicial impugnado, constata-se que a via eleita para a insurgência contra o ato apontado como coator é inadequada, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. (..) HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+(..)
+6. Habeas corpus não conhecido.
+(HC 269.944/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TENTATIVA DE HOMICÍDIO QUALIFICADO. (..) HABEAS CORPUS NÃO CONHECIDO.
+I - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (v.g.: HC n. 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC n. 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC n. 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+(..)
+Habeas Corpus não conhecido.
+(HC 346.926/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/04/2016, DJe 19/04/2016)
+Ainda que superado o referido óbice, consolidou-se neste Tribunal Superior o entendimento de que se afigura possível o resgate inicial da reprimenda em regime mais gravoso do que o cabível em razão do quantum da sanção imposta com base em elementos concretos do delito, o que se evidencia na hipótese dos autos.
+No que se refere ao tema, a Corte impetrada fixou o regime inicial fechado, em aresto assim redigido, verbis:
+Contudo, consideradas as peculiaridades do caso concreto, o regime fechado é o mais adequado, em face da periculosidade concreta demonstrada pelo réu, que rendeu o vigilante e subtraiu seu telefone, subtraiu o dinheiro de Marcos, um policial que estava de folga, abastecendo seu veículo, e subtraiu o dinheiro do posto de combustível que estava com o frentista Eli. Outro carro estava chegando ao local e os roubadores iam abordar seu condutor quando Marcos sacou sua arma de fogo e seguiu-se um tiroteio.
+Ficou evidenciada, então, pela dinâmica do evento, a periculosidade concreta do agente, que tanto intranquiliza a sociedade, exigindo resposta enérgica, com a qual não é suficiente, compatível e adequada solução mais branda, ainda que apoiada na primariedade e na confissão do apelante. (fls. 380/381)
+Verifica-se da leitura do excerto transcrito que foi considerada a periculosidade do réu e o emprego de arma de fogo, circunstâncias concretas que constituem fundamento suficiente para a imposição do modo prisional mais gravoso, a despeito da reprimenda ter sido fixada abaixo de 8 (oito) anos para o delito de roubo duplamente circunstanciado, tendo sido destacado no acórdão impugnado que houve um tiroteio com troca de disparos entre os agentes e uma das vítimas.
+Assim, não se pode considerar ilegal o acórdão proferido pela Corte a quo no ponto em que aplicou o regime fechado, visto que foi apresentada fundamentação idônea para justificar o encarceramento mais gravoso.
+Nesse mesmo vértice:
+HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. ROUBO DUPLAMENTE CIRCUNSTANCIADO E RESISTÊNCIA. MAJORAÇÃO DA PENA EM FRAÇÃO SUPERIOR À MÍNIMA LEGAL NO CRIME DE ROUBO. POSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM MAIOR REPROVABILIDADE DA CONDUTA. SÚMULA N. 443/STJ. NÃO INCIDÊNCIA. REGIME INICIAL FECHADO. POSSIBILIDADE. REGIME MAIS GRAVOSO COM BASE NA GRAVIDADE CONCRETA DO DELITO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443/STJ).
+3. Na espécie, a majoração das penas em fração superior a 1/3 possui lastro em circunstâncias concretas e idôneas, como o maior número de agentes em comparsaria e o emprego de mais de uma arma de fogo.
+4. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+5. No caso, embora o paciente seja tecnicamente primário e a condenação não exceda 8 anos de reclusão, extrai-se da transcrição supra que o regime inicial fechado pautou-se em fundamentação concreta e idônea, qual seja, o emprego de mais de uma arma de fogo na empreitada criminosa, o que denota a maior periculosidade da ação e justifica o recrudescimento do regime.
+6. Habeas corpus não conhecido.
+(HC 423.560/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/09/2018, DJe 01/10/2018)
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME INICIAL FECHADO. LEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+1. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Súmula n. 443 do STJ.
+2. As instâncias ordinárias não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido. Ressalva do relator.
+3. Fixada a quantidade da sanção devida a quem, comprovadamente, violou a norma penal, compete ao juízo natural da causa indicar, de maneira motivada e com base nos dados concretos dos autos, qual o regime inicial adequado para o cumprimento da reprimenda, não sendo possível coarctar-lhe a consideração de fatores que, associados e complementares à dogmática penal, indiquem como necessária, para o alcance dos fins da pena, a imposição de regime mais gravoso do que indicaria a mera correspondência da quantidade da pena à previsão legal.
+4. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, roubo contra residência em concurso de três agentes e com emprego de arma de fogo.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal o aumento da reprimenda procedido na terceira etapa da dosimetria.
+(HC 222.445/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/02/2016, DJe 02/03/2016)
+Assim, inexistindo ilegalidade a ser sanada por este Sodalício, a decisão agravada deve ser mantida.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
