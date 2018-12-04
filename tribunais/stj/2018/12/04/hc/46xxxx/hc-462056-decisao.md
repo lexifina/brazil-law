@@ -1,0 +1,33 @@
+DECISÃO
+[NOME], paciente neste habeas corpus substitutivo de recurso especial, alega sofrer coação ilegal no seu direito a locomoção, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0034598-34.2017.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão de reclusão, no regime inicial fechado, mais multa.
+Irresignada, a defesa interpôs apelação criminal perante o Tribunal de origem, que, à unanimidade, negou-lhe provimento, mantendo-se inalterada a sentença condenatória.
+Nas razões deste mandamus, sustenta o impetrante, resumidamente, a ilegalidade da dosimetria, sendo de rigor: a) a redução da pena-base ao mínimo legal - porquanto não se mostra excessiva a quantidade de entorpecente encontrado em poder do paciente; e b) a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006, - pois "o paciente possui apenas UMA condenação anterior transitada em julgado  .. , logo, ao deixar de aplicar a referida minorante exclusivamente em razão da recalcitrância os D. Desembargadores incorreram em ofensa aos princípios da proporcionalidade e do non bis in idem" (fl. 5).
+Requer, assim, seja refeita a dosimetria da pena, com a consequente colocação do réu em regime mais brando.
+A liminar foi indeferida, consoante decisão de fls. 62-63.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do feito (fls. 68-71).
+Decido.
+I. Pena-base
+Da análise detida dos autos, entendo não prosperar a alegação de que o aumento da pena-base ocorreu em patamar desproporcional e de forma desfundamentada.
+Com efeito, consoante descrito no acórdão inquinado coator e na sentença condenatória, as instâncias ordinárias estabeleceram a pena-base 1/6 acima do mínimo legal, havendo utilizado, para tanto, a natureza nociva e a vultuosa quantidade de drogas apreendidas - a saber 46 eppendorfs de cocaína (20,9g), 580 eppendorfs de crack (108g), 110 porções de maconha (232,7g), 300 eppendorfs de crack (47,2g) e 4 porções de maconha (562,9 g).
+Entendo, assim, além de serem concretos os fundamentos mencionados e atinentes às peculiaridades do caso, ser também proporcional o aumento de 1/6 para o crime em comento.
+Vale dizer, é lícito às instâncias ordinárias sopesar, dentro de sua discricionariedade juridicamente vinculada, as peculiaridades do caso concreto e recrudescer a reprimenda na primeira fase da dosimetria, mas desde que o faça não só de maneira fundamentada, mas também proporcional, a fim de se evitar excesso na pena-base, tal como na espécie. Isso porque, conforme anteriormente salientado, as substâncias entorpecentes (cocaína e crack) são, efetivamente, dotadas de alto poder viciante e foram apreendida em quantidade considerável.
+Com efeito, não se pode olvidar que a quantidade e a natureza da droga podem ser valoradas na fixação da pena-base mesmo que o crime de tráfico tenha sido praticado na vigência da Lei n. 6.368/1976, uma vez que o art. 37 da referida lei preconizava que, "para efeito de caracterização dos crimes definidos nesta lei, a autoridade atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação criminosa, as circunstâncias da prisão, bem como à conduta e aos antecedentes do agente".
+A propósito, menciono o seguinte julgado:
+2. Ainda que o delito tenha sido praticado sob a vigência da Lei n.º 6.368/76, segundo entendimento desta Corte é "lícito ao juiz levar em conta a quantidade da substância entorpecente na fixação da pena, a fim de elevar a pena-base acima do mínimo" (HC 35.795/RJ, 6.ª Turma, Rel. Min. NILSON NAVES, DJ de 01/08/2005).
+ ..
+4. Resta justificada a dosimetria da pena nos termos do art. 42, da Lei n.º 11.343/06, segundo o qual " o  juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente." E ainda o revogado art. 37, da Lei n.º 6.368/76 (vigente quando da conduta praticada), considerava, " p ara efeito de caracterização do crimes definidos nesta lei, a autoridade atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação criminosa, as circunstâncias da prisão, bem como à conduta e aos antecedentes do agente" (sem grifos nos originais).
+ ..
+(HC n. 202.282/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 12/3/2013).
+II. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+No que tange à almejada aplicação, em favor do paciente, da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, verifico que o Juízo singular entendeu indevida a incidência da benesse "dada a reincidência do réu, condenado que foi definitivamente pela prática anterior de crime grave de roubo qualificado, tudo comprovando estar implicado na prática de atividades criminosas, nele não se podendo reconhecer a figura de criminoso ocasional" (fl. 35).
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+Por isso mesmo, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do(a) acusado(a), que este(a) não integre organização criminosa e que não se dedique a atividades delituosas.
+No caso, contudo, o paciente não era tecnicamente primário ao tempo do delito, nem possuidor de bons antecedente.
+Dessa forma, não identifico nenhum constrangimento ilegal no ponto em que, fundamentadamente, foi negada ao paciente a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas.
+Mantidos os termos da sentença condenatória, julgo prejudicado a análise de abrandamento do regime inicial e de substituição da pena.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
