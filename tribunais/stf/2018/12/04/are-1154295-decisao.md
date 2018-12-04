@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Colho do acórdão recorrido os seguintes fundamentos:
+    A jurisprudência em geral seja desta Corte seja do STJ posicionou-se pela sua subsistência, visto que o art. 10 da LC 116 não incluiu no rol dos revogados o art. 9° e §§ do DL 406/68, que disciplinava a matéria, estabelecendo a regra e as exceções. Acontece que a revogação também ocorre de modo implícito, é dizer, quando a lei nova regula inteiramente a matéria e por incompatibilidade (LICC, art. 2°, § 2°).
+    […].
+    Prosseguindo, e retornando à questão específica dos "Serviços de registros públicos, cartorários e notariais", como sujeitos ao ISS (LC 116/03, item 21 da Lista anexa; LCM 17/13, CTN do Município de Campinas do Sul, item 21 da Lista anexa), embora a meu ver — como disse — o STF não tenha sido explicito quanto à forma de tributação, o STJ vem deliberando no sentido de que, ao invés, a Suprema Corte decidiu pela forma comum, por exemplo. no REsp 1187464-RS, com a seguinte ementa nos pontos que interessam:
+    PROCESSUAL CIVIL E TRIBUTÁRIO. !SS. SERVIÇOS DE REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS. BASE DE CÁLCULO. ART. 9°, § 1°, DO DL 406/1968. TRIBUTAÇÃO FIXA. MATÉRIA APRECIADA PELO STF ADIN 2089-DF.
+    3. O acórdão do STF, focado na possibilidade de os emolumentos (que são taxas) servirem de base de cálculo para o ISS, afastou, por imperativo lógico, a possibilidade da tributação fixa, em que não há cálculo e, portanto. base de cálculo. (STJ, REsp 1187464-RS, Rel. Min. Herman Benjamin, em 1°-6-2010). Idem o AgRg no REsp 102458-PR, Rel. Min. Humberto Martins, em 10-4-2012; o AgRg no REsp 34576-RS, Rel.Min. Humberto Martins, 23-11-2011; o REsp 1185119-SP, Rel. Benedito Gonçalves, em 20-8-2010; e o REsp 1187464-RS, Rel. Min. Herman Benjamin, em 1°-7-2010.
+    Resumindo, é tranquila a jurisprudência do STJ de que o STF, ao admitir a incidência do ISS sobre os emolumentos, que são — digamos —as custas cobradas pelos serviços extrajudiciais, definiu a base de cálculo; e, ao defini-la, excluiu, por imperativo lógico, a tributação fixa ou privilegiada, pois nesta não há base de cálculo.
+    […].
+    Portanto, a prestação de serviço levada a efeitos pelos titulares dos serviços registrais e notariais não goza da tributação privilegiada prevista no art. 9°, § 1°, do Dec.-Lei 406/68, até porque detém capacidade contributiva para tanto.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par disso, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    2. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    3. Publiquem.
+Brasília, 4 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
