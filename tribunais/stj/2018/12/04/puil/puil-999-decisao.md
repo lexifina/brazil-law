@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de uniformização de jurisprudência ajuizado por AILTON RIBEIRO DOS SANTOS, com fundamento no art. 14, §4º, da Lei n. 10.259/2001, contra decisão monocrática proferida pelo Presidente da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais, por estar fundada em questão processual.
+O Ministério Público Federal opinou pela inadmissão do incidente, nos termos do parecer de fls. 222-225, que guarda a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. ART. 14, § 4o, DA LEI N. 10.259/2001. AUSÊNCIA DOS REQUISITOS LEGAIS. INCIDENTE PROPOSTO EM FACE DE DECISÃO MONOCRÁTICA. PLEITO QUE FORA INADMITIDO PELO JUIZ FEDERAL PRESIDENTE DA TNU POR QUESTÕES PROCESSUAIS. PARECER PELA NÃO ADMISSÃO DO INCIDENTE.
+É o relatório. Decido.
+Dispõe o art. 14, § 4º, da Lei 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ.
+Nesse sentido, confira-se o julgado:
+AGRAVO REGIMENTAL NA PETIÇÃO. JUIZADOS ESPECIAIS FEDERAIS. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. INADMISSIBILIDADE DO INCIDENTE.
+1. A teor do disposto no art. 14, § 4.º, da Lei n.º 10.259/2001, "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+2. Em relação ao tema, asseverou esta Terceira Seção, ao julgar o Agravo Regimental na Petição n.º 6.297/RJ, do qual Relatora a em. Ministra Laurita Vaz (DJ 04.08.08), que a remessa do incidente de uniformização de jurisprudência a este Superior Tribunal de Justiça somente será possível quando a decisão da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais tratar de questões relacionadas com o direito material e contrariar súmula ou jurisprudência dominante desta Corte.
+3. No caso dos autos, todavia, a mencionada Turma Nacional de Uniformização de Jurisprudência inadmitiu o incidente a ela dirigido por motivos exclusivamente processuais, razão por que não foi apreciada qualquer questão de direito material, tornando-se, nessa extensão, incabível o incidente.
+4. Agravo regimental a que se nega provimento.
+(AgRg na Pet 7.549/PR, 3ª Seção, Min. Og Fernandes, DJe de 8/4/2010)
+No presente caso, o incidente de uniformização, além de não se insurgir contra acórdão da Turma Nacional de Uniformização, mas decisão monocrática da Presidência, reflete decisão que o não conheceu, justamente ao fundamento de que não cabe incidente de uniformização dirigido ao STJ contra decisão monocrática da Presidência da TNU (fls. 182-184).
+Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual.
+Nesse sentido:
+AGRAVO REGIMENTAL NA PETIÇÃO. JUIZADOS ESPECIAIS FEDERAIS. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. INADMISSIBILIDADE DO INCIDENTE.
+1. A teor do disposto no art. 14, § 4.º, da Lei n.º 10.259/2001, "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+2. Em relação ao tema, asseverou esta Terceira Seção, ao julgar o Agravo Regimental na Petição n.º 6.297/RJ, do qual Relatora a em. Ministra Laurita Vaz (DJ 04.08.08), que a remessa do incidente de uniformização de jurisprudência a este Superior Tribunal de Justiça somente será possível quando a decisão da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais tratar de questões relacionadas com o direito material e contrariar súmula ou jurisprudência dominante desta Corte.
+3. No caso dos autos, todavia, a mencionada Turma Nacional de Uniformização de Jurisprudência inadmitiu o incidente a ela dirigido por motivos exclusivamente processuais, razão por que não foi apreciada qualquer questão de direito material, tornando-se, nessa extensão, incabível o incidente.
+4. Agravo regimental a que se nega provimento.
+(AgRg na Pet 7.549/PR, 3ª Seção, Min. Og Fernandes, DJe de 8/4/2010)
+Ante o exposto, não conheço do pedido de uniformização de jurisprudência, com fundamento no art. 34, XVIII, do RISTJ, combinado com o art. 1º, § 2º, da Resolução nº 10/2007, da Presidência do STJ.
+Publique-se. Intimem-se.
