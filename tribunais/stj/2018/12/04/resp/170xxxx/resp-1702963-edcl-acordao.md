@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. RECONHECIMENTO. ERRO DE FATO. VIOLAÇÃO DO ART. 485, IX, DO CPC/1973. NÃO OCORRÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. O acórdão embargado omitiu-se no exame da tese de que violado o art. 485, IX, do CPC/1973, deduzida sob a alegação de que o aresto rescindendo fundou suas conclusões em erro de fato.
+2. As razões do especial apontam que o erro de fato resulta do exame da natureza jurídica do chamado "auxílio cesta-alimentação". Trata-se, portanto, de suposto equívoco na qualificação jurídica da parcela objeto da controvérsia (e não erro de fato), revelando-se impertinente a norma legal que se aponta como violada (CPC/1973, art. 485, IX), o que atrai a incidência do óbice da Súmula n. 284/STF.
+3. O aresto recorrido consigna que a controvérsia relativa ao suposto erro de fato foi apreciada no acórdão rescindendo, motivo suficiente para obstar o conhecimento da ação rescisória por esse fundamento, ante a expressa previsão contida no art. 485, § 2º, do CPC/1973 (art. 966, § 1º, do CPC/2015).
+4. Para afastar as conclusões do acórdão recorrido e reconhecer o alegado erro de fato seria imprescindível o revolvimento de material fático-probatório, em especial das peças coligidas aos autos da demanda originária, procedimento inviável na instância excepcional a teor do que orienta a nota n. 7 da Súmula do STJ.
+5. Embargos de declaração acolhidos para integrar o acórdão embargado, acrescentando fundamentos, mantendo-se inalterada a conclusão pela negativa de provimento do agravo interno e, da mesma forma, do agravo nos próprios autos.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, acolheu os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de embargos de declaração opostos a acórdão desta Quarta Turma que julgou agravo interno nos termos da seguinte ementa (e-STJ, fls. 410/411):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. AÇÃO RESCISÓRIA. ART. 485, V, DO CPC/1973. VIOLAÇÃO LITERAL DE LEI FEDERAL AFASTADA NA ORIGEM. SÚMULA N. 343/STF. DECISÃO MANTIDA.
+1. Não existe afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido examina todas as questões necessárias para uma adequada solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. A jurisprudência do STJ abriga o entendimento consolidado na Súmula n.
+343 do STF, segundo o qual "não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+3. A ação rescisória, fundada no art. 485, V, do CPC/1973, pressupõe violação frontal e direta de literal disposição de lei, de forma que seja possível extrair a ofensa legal do próprio conteúdo do julgado que se pretende rescindir.
+4. Para concluir pela aplicabilidade do entendimento consolidado na nota n. 343 da Súmula do STF e aferir a ocorrência da chamada "sentença rebelde" deve ser considerada a data em que proferida a decisão rescindenda, não se afigurando relevante o trânsito em julgado em momento ulterior, postergado em face da interposição de recursos excepcionais cujo julgamento não avançou sobre o mérito da controvérsia.
+5. No caso concreto, o acórdão rescindendo foi prolatado antes de o STJ firmar entendimento em sentido contrário ao de suas conclusões, adotando uma das interpretações possíveis para normas que, à época, eram objeto de interpretação controvertida nos tribunais. Incide, na espécie, o entendimento consolidado na Súmula n. 343 do STF.
+6. Agravo interno a que se nega provimento.
+Em suas razões (e-STJ, fl. 415), a embargante aponta omissão do acórdão no exame da tese de que a ação rescisória está outrossim fundada em erro de fato, a par da alegada violação literal de lei.
+Resposta dos embargados às fls. 424/426 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. RECONHECIMENTO. ERRO DE FATO. VIOLAÇÃO DO ART. 485, IX, DO CPC/1973. NÃO OCORRÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. O acórdão embargado omitiu-se no exame da tese de que violado o art. 485, IX, do CPC/1973, deduzida sob a alegação de que o aresto rescindendo fundou suas conclusões em erro de fato.
+2. As razões do especial apontam que o erro de fato resulta do exame da natureza jurídica do chamado "auxílio cesta-alimentação". Trata-se, portanto, de suposto equívoco na qualificação jurídica da parcela objeto da controvérsia (e não erro de fato), revelando-se impertinente a norma legal que se aponta como violada (CPC/1973, art. 485, IX), o que atrai a incidência do óbice da Súmula n. 284/STF.
+3. O aresto recorrido consigna que a controvérsia relativa ao suposto erro de fato foi apreciada no acórdão rescindendo, motivo suficiente para obstar o conhecimento da ação rescisória por esse fundamento, ante a expressa previsão contida no art. 485, § 2º, do CPC/1973 (art. 966, § 1º, do CPC/2015).
+4. Para afastar as conclusões do acórdão recorrido e reconhecer o alegado erro de fato seria imprescindível o revolvimento de material fático-probatório, em especial das peças coligidas aos autos da demanda originária, procedimento inviável na instância excepcional a teor do que orienta a nota n. 7 da Súmula do STJ.
+5. Embargos de declaração acolhidos para integrar o acórdão embargado, acrescentando fundamentos, mantendo-se inalterada a conclusão pela negativa de provimento do agravo interno e, da mesma forma, do agravo nos próprios autos.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Comporta acolhida o recurso declaratório. A abrangência da orientação que emana da Súmula n. 343/STF limita-se às hipóteses de suposta violação literal de dispositivo legal, conforme registra o texto da referida nota sumular:
+Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais.
+Passo ao exame da alegada ofensa ao art. 485, IX, do CPC/1973 (art. 966, V, do CPC/2015).
+Segundo a embargante, o acórdão rescindendo teria incorrido em erro de fato ao examinar a natureza jurídica do chamado "auxílio cesta-alimentação", concluindo tratar-se de parcela salarial e remuneratória, "embora a natureza indenizatória  houvesse sido  expressamente definida em norma coletiva do trabalho" (e-STJ, fl. 284).
+Essa fundamentação demonstra que o erro de fato apontado pela embargante consiste, na verdade, em um suposto engano na qualificação jurídica da parcela objeto da controvérsia (auxílio cesta-alimentação). Sob essa perspectiva, o recurso depara-se com o óbice erigido pelo enunciado n. 284 da Súmula do STF, ante a impertinência da norma legal tida por violada e as alegações deduzidas pela recorrente nas razões do especial. Com efeito, revela-se incongruente alegar a ocorrência de erro de fato apontando equívoco na análise jurídica da matéria julgada. Cito, a propósito:
+AÇÃO RESCISÓRIA. ERRO DE FATO. VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. 1) A atribuição de nova qualificação jurídica ao compromisso assumido entre as partes não caracteriza erro de fato. 2) A aplicação do artigo 920 do Código Civil de 1916 dispensa postulação. Ação rescisória improcedente.
+(AR 701/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA SEÇÃO, julgado em 22/03/2006, DJ 22/05/2006, p. 144)
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. GRATIFICAÇÃO RECEBIDA POR SERVIDOR INATIVO. GEFA. NATUREZA JURÍDICA. AÇÃO RESCISÓRIA. AFRONTA AO ART. 485, V E IX, DO CPC. ERRO DE FATO. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVOS DE LEI. ARTS. 42 DA LEI N. 8.112/90 E 37, XI, DA CF/88, MATÉRIA CONSTITUCIONAL. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+(..)
+2. O suposto equívoco da Corte de origem ao considerar como vantagem pessoal o que não o é, não se enquadra na previsão do art. 485, IX, do Código de Processo Civil, por se tratar de conclusão do tribunal de mera interpretação jurídica acerca da natureza e enquadramento da gratificação debatida e não de erro de fato.
+(..)
+(AgRg no REsp 1228225/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/06/2011, DJe 29/06/2011)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. FINSOCIAL. AÇÃO RESCISÓRIA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 535 E 485, INCISO V, DO CPC. SÚMULA 284/STF. NATUREZA JURÍDICA DA EMPRESA. REAPRECIAÇÃO DE FATOS INCONTROVERSOS À ÉPOCA. ERRO DE FATO. INEXISTÊNCIA.
+(..)
+2. Segundo dispõe o art. 485, IX, §§ 1º e 2º, do CPC, ocorre erro de fato "quando a sentença admitir um fato inexistente, ou quando considerar inexistente um fato efetivamente ocorrido." Em qualquer situação, não pode ter havido pronunciamento no julgado rescindendo sobre o fato objeto de erro.
+3. Na hipótese, constatou-se pronunciamento judicial acerca da natureza jurídica da empresa no acórdão do Tribunal, o que afasta o cabimento da Ação Rescisória.
+4. Agravo regimental não provido.
+(AgRg no REsp 945.372/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/03/2010, DJe 30/03/2010)
+Acresça-se, ainda, que os fundamentos do acórdão recorrido apontam o anterior exame da natureza jurídica da parcela salarial em comento, manifestando o entendimento de que não se tratava de verba indenizatória (e-STJ, fl. 208), o que se afigura suficiente para obstar o conhecimento da ação rescisória por esse fundamento, ante a expressa previsão contida no art. 485, § 2º, do CPC/1973 (art. 966, § 1º, do CPC/2015). Nesse sentido:
+CIVIL E PROCESSUAL. AGRAVOS REGIMENTAIS NA AÇÃO RESCISÓRIA. VALOR DA VERBA HONORÁRIA. FEITO EXTINTO SEM RESOLUÇÃO DE MÉRITO. FIXAÇÃO EQUITATIVA. CARÊNCIA DE AÇÃO. NEGATIVA DE SEGUIMENTO DO FEITO APÓS CONTESTAÇÃO. ART. 34, XVIII, DO RISTJ. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI - ARTIGOS 134, § 1º, E 945, § 2º, DO CC - MATÉRIA FÁTICA CONTROVERTIDA. REEXAME DE PROVA. CORREÇÃO DE PRETENSA INJUSTIÇA. SÚMULA 410/TST. INADMISSIBILIDADE. ERRO DE FATO. MATÉRIA CONTROVERTIDA NO ACÓRDÃO RESCINDENDO. IMPOSSIBILIDADE DE REDISCUSSÃO. ART. 485, IX, § 2º, DO CPC. CARÊNCIA DE AÇÃO POR DECISÃO SINGULAR. LEVANTAMENTO DO DEPÓSITO PELO AUTOR. ART. 488, II, DO CPC.
+(..)
+3. A simples correção de injustiças quanto aos fatos da causa, ou o mero reexame das provas, não estão entre as hipóteses que ensejam a rescisória. Precedentes.
+4. Para ultrapassar a regra de que a injustiça do julgado em virtude de erro na apreciação da questão fática não pode ser corrigida em ação rescisória, deve-se atentar, como preceitua o § 2º do inciso IX do art. 485, à exigência de que somente o erro acerca de fato não objeto de discussão no acórdão rescindendo pode ser afastado por meio de ação rescisória. Identificada extensa controvérsia dirimida no acórdão rescindendo entre as partes acerca dos fatos alegados, impossível o juízo rescisório. (..)
+(AgRg na AR 4.754/MG, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/10/2013, DJe 16/10/2013)
+Por fim, para afastar as conclusões do acórdão recorrido e reconhecer a ocorrência do alegado erro, far-se-ia imprescindível o revolvimento de material fático-probatório, em especial das peças coligidas aos autos da demanda originária, procedimento sabidamente inviável na instância excepcional. No ponto:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. IMPOSSIBILIDADE DE SUA UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. INVIÁVEL A REVISÃO DAS PROVAS PARA ANÁLISE DA TESE DEFENDIDA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É inadmissível a ação rescisória em que se pretende a simples rediscussão da causa, porquanto não tem por finalidade, diante de inconformismo da parte, rever equívoco alegado. Precedentes.
+2. Atrai a incidência da Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial demanda a revisão dos elementos probatórios produzidos ao longo da demanda originária.
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp 166.383/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 01/02/2017)
+Ante o exposto, ACOLHO os embargos de declaração para integrar o acórdão embargado, acrescentando os fundamentos acima, mantendo inalterada a conclusão pela negativa de provimento do agravo interno e, da mesma forma, do agravo nos próprios autos.
+É como voto.
