@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto pelo Município de Tubarão, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+MANDADO DE SEGURANÇA EM FACE DE ATO JUDICIAL. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. AGRAVO REGIMENTAL. JULGAMENTO EM MESA PELO ÓRGÃO ESPECIAL. ALEGAÇÃO DE NULIDADE. AUSÊNCIA DE INTIMAÇÃO DO IMPETRANTE. DESNECESSIDADE. PREVISÃO DO REGIMENTO INTERNO DESTA CORTE DE JUSTIÇA. INEXISTÊNCIA DE TERATOLOGIA, ABUSO DE PODER OU ILEGALIDADE. AUSÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+"Incabível o mandado de segurança quando não evidenciado o caráter abusivo ou teratológico do ato judicial impugnado." (STJ - AgRg no MS 17525/DF, rel. Min. João Otávio Noronha, j. em 7.5.2012) (TJSC, Mandado de Segurança n. 2014.049300-2, de Palhoça, rel. Des. João Henrique Blasi, j. 10-12-2014).
+O valor atribuído à causa foi de R$ 880,00, em maio de 2016 (fl. 69).
+Na origem, trata-se de impetração com o objetivo de que seja determinada a subida do recurso especial adesivo para análise e julgamento por este Superior Tribunal de Justiça.
+No julgamento encimado, o Tribunal de origem entendeu que não há necessidade de intimação do impetrante para acompanhar o julgamento do seu agravo regimental pelo Órgão Especial, porque o Regimento Interno do Tribunal de origem (art. 196) prevê que o agravo interposto contra decisão do 2º Vice-Presidente será apresentado em mesa, tal qual a mesma sistemática adotada pelo CPC/1973 (art. 557).
+No presente recurso ordinário, o recorrente sustenta a ilegalidade e a inconstitucionalidade do Regimento Interno do Tribunal de origem, devendo ser reconhecida a nulidade do julgamento pela falta de intimação das partes e procuradores para a sessão de julgamento, com fundamento dos arts. 5º, LV, 93, IX e 133, todos da Constituição Federal; 236, §1º, 237 e 552, todos do CPC/1973, requerendo o conhecimento e julgamento do recurso especial por este Superior Tribunal de Justiça.
+O Ministério Público opina pelo não provimento do recurso.
+É o relatório. Decido.
+O recurso não comporta provimento.
+Não há que se falar em inconstitucionalidade ou ilegalidade do dispositivo regimental, porque, em conformidade com a jurisprudência deste Superior Tribunal de Justiça, o julgamento em sede de agravo regimental independe de inclusão em pauta para a sessão de julgamento, devendo apenas ser apresentado em mesa, sendo dispensada a prévia intimação do agravante, razão pela qual não há que se falar em nulidade do julgamento, por suposta violação ao contraditório e à ampla defesa.
+Nesse diapasão, confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECLAMAÇÃO. INEXISTÊNCIA DE PRÉVIA INTIMAÇÃO DO ADVOGADO PARA O JULGAMENTO DO AGRAVO REGIMENTAL. AUSÊNCIA DE NULIDADE. JULGAMENTO ANTERIOR À REFORMA DO CÓDIGO DE PROCESSO CIVIL. CONTRADIÇÃO. AUSÊNCIA. FUNDAMENTOS CLAROS SOBRE O CABIMENTO DA MULTA E A ADEQUAÇÃO DO SEU VALOR.
+1. Agravo regimental julgado à época em que ainda estavam em vigor as disposições contida nos artigos 91, I, e 258 do Regimento Interno do Superior Tribunal de Justiça com sua antiga redação, segundo as quais o julgamento do referido recurso independe de inclusão em pauta, devendo ser apresentado em mesa, de modo que a ausência de intimação prévia dos advogados das partes para a sessão de julgamento não implica a alegada nulidade.
+2. Ausência de contradição, omissão ou obscuridade, estando claros e expressos os fundamentos pelos quais foi considerado adequado o valor da multa cominatória fixada pelo Tribunal de origem.
+3. Embargos de declaração não conhecidos. (EDcl no AgRg na Rcl 23.850/PE, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/11/2016, DJe 17/11/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE SUSTENTAÇÃO ORAL. INVIABILIDADE. ART. 159 DO REGIMENTO INTERNO DO STJ.
+1. Inviável acolher o pleito de prévia intimação para a sessão de julgamento formulado pelo agravante, pois segundo previsão regimental expressa - artigos 91, I, 156 e 258, do RISTJ - não haverá sustentação oral no julgamento do agravo regimental, que será apresentado em mesa, independentemente de inclusão na pauta do Órgão Colegiado competente.
+(..)
+3. Agravo regimental não conhecido. (AgRg no AREsp 595.464/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/11/2015, DJe 10/11/2015)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
