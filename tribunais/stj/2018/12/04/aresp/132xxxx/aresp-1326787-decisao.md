@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, em face da decisão de admissibilidade negativa do recurso especial, visando à reforma de acórdão assim ementado (fl. 321):
+APELAÇÃO CIVIL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO.
+APELO 1 (BANCO DO BRASIL S/A). SENTENÇA QUE RECONHECEU A PRESCRIÇÃO INTERCORRENTE. INSURGÊNCIA DA EXEQUENTE. PEDIDO DE SUSPENSÃO DO PROCESSO EM RAZÃO DA AUSÊNCIA DE BENS PENHORÁVEIS. PRAZO PRESCRICIONAL QUE NÃO CORRE. NECESSIDADE DE PRÉVIA INTIMAÇÃO DA PARTE EXEQUENTE PARA DAR PROSSEGUIMENTO AO FEITO. SÚMULA 63 DESTE TRIBUNAL. NÃO OCORRÊNCIA. DECISÃO REFORMADA. SENTENÇA ANULADA. RECURSO CONHECIDO E PROVIDO.
+APELO 2 (MARIA MARTINHA BOCARDO E OUTRO). MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. SENTENÇA ANULADA. RECURSO PREJUDICADO.
+Opostos embargos de declaração pelos ora agravantes, foram rejeitados às fls. 369/375.
+Nas razões do especial, interposto com fulcro nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, alegam os recorrentes, em suma, divergência jurisprudencial com julgados do STJ, violação do art. 189 do Código Civil e má aplicação do art. 791, inciso III, do Código de Processo Civil de 1973.
+Sustentam que não há necessidade de intimação pessoal do exequente para a ocorrência de prescrição intercorrente, pois a situação é de desídia, não de ausência de bens.
+Afirmam que o prazo transcorreu por duas vezes, entre 6.11.2003 e 1º.3.2011 e desta data até 7.4.2014, quando o Banco do Brasil propôs a retomada da tramitação, de sorte que o prazo prescricional da cambial, que é de três anos, em muito foi ultrapassado.
+Por fim, pleiteiam a análise da matéria prejudicada pelo julgado do TJPR.
+A instituição financeira apresenta contrarrazões às fls. 427/432, repetidas às fls. 434/439, no sentido de que incide a Súmula 240/STJ, dependendo a extinção de prévio requerimento da parte executada.
+A admissibilidade negativa deveu-se à aplicação da Súmula 284/STF, por ausência de indicação dos dispositivos legais violados e falta de confronto analítico para a divergência, fundamentos que foram devidamente combatidos na petição de fls. 448/456, razão por que considero superado o limite do conhecimento.
+Assim posta a questão, passo a decidir.
+Efetivamente não é caso de obstrução por força da Súmula 284/STF porque houve expressa referência no especial aos arts. 189 do Código Civil e 791, inciso III, do CPC anterior, além de que o confronto analítico foi realizado de forma satisfatória.
+Quanto ao tema de fundo, tem-se que a prescrição intercorrente depende da verificação de inércia do credor, que não se movimenta para cumprir o julgado após o sentenciamento de mérito, considerando o prazo estabelecido para o exercício da pretensão de direito material, nos termos do que prevê a Súmula 150 do Supremo Tribunal Federal, ou durante o tempo previsto para a perda da executividade do título extrajudicial. Admite-se a suspensão, apenas uma vez, por até um ano, na hipótese de a execução encontrar-se suspensa em 18.3.2016.
+Após essa data, quando passou a viger o atual CPC, que dispôs expressamente sobre a prescrição intercorrente, a intimação do credor deixou de ter o caráter de provocar o impulsionamento do feito, cumprindo unicamente o propósito de permitir a apresentação de fatos impeditivos da prescrição, como por exemplo a renúncia ao prazo pelo devedor, dado que o interregno já estará irremediavelmente esgotado.
+Essas conclusões foram objeto de definição do julgamento pela Segunda Seção do STJ no Incidente de Assunção de Competência no REsp 1.604.412/SC, cuja ementa possui o seguinte teor:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(Rel. Ministro MARCO AURÉLIO BELLIZZE, por maioria, DJe de 22.8.2018)
+Destaco que a aplicação da Súmula 240/STJ, arguída na defesa do banco, por suposto abandono da causa, constitui venire contra factum proprium em relação aos temas da apelação por ele interposta (fls. 245 e 249).
+Em face do exposto, conheço do recurso especial e a ele dou parcial provimento para determinar o retorno dos autos à instância de origem, para que o exequente seja intimado visando à apresentação de eventuais fatos impeditivos à incidência da prescrição intercorrente.
+Diante disso, fica mantida a prejudicialidade quanto às matérias objeto da apelação dos recorrentes.
+Intimem-se.
