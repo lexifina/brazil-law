@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 397/398).
+O acórdão recorrido está assim ementado (e-STJ fls.320/321):
+DIREITO CIVIL. DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS. AGRAVO RETIDO. DESCUMPRIMENTO ART. 523 DO CPC. AUSÊNCIA DE INTERESSE RECURSAL. CONHECIMENTO PARCIAL. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEITADA. LIVRE CONVENCIMENTO MOTIVADO. SUCUMBÊNCIA RECÍPROCA. ART. 21, CAPUT, CPC. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA.
+1. Não se conhece do agravo retido quando não cumpre o apelante a determinação inserta no artigo 523 do Código de Processo Civil, deixando de requerer a apreciação do agravo no bojo do apelo.
+2. Não se conhece da parte do recurso que pretende a reforma da sentença em ponto que foi favorável ao recorrente. Inteligência do art. 499 do CPC.
+3. Quando cada litigante for em parte vencedor e em parte vencido, as partes serão recíproca e proporcionalmente responsáveis pelos ônus da sucumbência, conforme dispõe o art. 21, caput, do CPC.
+4. Não há litigância de má-fé imputável à parte que apenas busca o reconhecimento do seu direito, sem cometer nenhum ilícito processual.
+5. Recurso parcialmente conhecido e desprovido. Agravo retido não conhecido. Preliminar rejeitada.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 337/345).
+Nas razões do recurso especial (e-STJ fls. 351/362), interposto com fundamento no art. 105, III, "a" e "c", da CF, a agravante alegou violação dos arts. 3º e 267, VI, do CPC/1973, além de dissídio jurisprudencial.
+Sustentou, para tanto, que o pedido é juridicamente impossível, pois os cheques foram devolvidos à recorrida, cabendo a ela apresentá-los ao banco para que dê baixa em seu nome.
+Argumentou ainda que não é legitimada passiva para a ação, por ter sido o banco que, ante à ausência de numerário na conta, automaticamente inseriu o nome da recorrida no Cadastro de Emitentes de Cheques sem Fundos (CCF).
+No agravo (e-STJ fls. 399/406), afirma a presença de todos os requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 410/415).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no CPC de 1973, motivo por que deve ser exigido o requisito de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Observa-se que a tese de impossibilidade jurídica do pedido constituiu indevida inovação recursal em sede especial, o que a jurisprudência desta Corte Superior não admite, mesmo se tratando de matéria de ordem pública, até porque implica ausência de prequestionamento. Sob tal aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.
+IMPENHORABILIDADE. BEM DE FAMÍLIA. INDENIZAÇÃO. ATO ILÍCITO.
+INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO DO RECURSO POR AMBAS AS ALÍNEAS AUTORIZADORAS. SÚMULAS 211/STJ, 282 E 356/STF. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. AGRAVO NÃO PROVIDO. 1. A alegação de que a impenhorabilidade prevista na Lei 8.009/90 não é oponível ao credor de indenização por ato ilícito foi suscitada apenas em sede de embargos de declaração, razão pela qual não foi analisada pela Corte Estadual, por se tratar de indevida inovação recursal. Portanto, carece de prequestionamento, nos termos das Súmulas 211/STJ, 282 e 356/STF.
+2. É inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado.
+3. "A falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional, diante da impossibilidade de configuração do dissídio jurisprudencial, por não haver como ser feita a demonstração da similitude das circunstâncias fáticas em relação ao direito aplicado" (AgRg nos EDcl no AREsp 174.853/RJ, Rel. Ministro SIDNEI BENETI, Terceira Turma, julgado em 28/5/2013, DJe de 14/6/2013).
+4. A jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame de questão não debatida na origem, ainda que se trate de matéria de ordem pública.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1317107/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018) (grifei)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA DEMANDADA.
+1. Consoante se observa dos embargos declaratórios opostos em face do acórdão estadual ora recorrido, a agravante não ventilou a tese, agora defendida, de novidade da prova. A matéria, portanto, não foi objeto de apreciação pela instância ordinária, quando do exame do recurso integrativo, carecendo do devido prequestionamento e constituindo em indevida inovação recursal.
+2. Incide, na hipótese, o enunciado da Súmula 7 do STJ, porquanto a Corte Estadual, mediante o exame de provas e contratos, reconheceu a vinculação da agravante como integrante da associação de moradores.
+3. É incabível a majoração dos honorários em grau recursal, a teor do art. 85, §§ 11, do CPC, quando a instância especial fora inaugurada em momento anterior à vigência da nova norma. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AREsp 366.050/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITE O APELO NOBRE COM FULCRO NO ART. 1.040, I, DO NCPC (ANTIGO ART. 543-C, § 7º, I, DO CPC/73). INTERPOSIÇÃO DE AGRAVO DO ART. 1.042, CAPUT, DO NCPC. ERRO GROSSEIRO. INOVAÇÃO RECURSAL.
+VEDAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição do agravo previsto pelo art. 1.042, caput, do NCPC, contra decisão proferida pelo Tribunal de origem que nega seguimento ao recurso especial com base no julgamento de recurso repetitivo, constitui erro grosseiro.
+3. À exceção do agravo interno, dirigido ao próprio Tribunal de origem, contra a decisão que não admite recurso especial com base no art. 1.040, I, do NCPC (antigo art. 543-C do CPC/73), não há previsão legal para interposição de outro recurso a fim de dirimir possível recurso, sobe pena de se tornar ineficaz os ditames da Lei nº 11.672/2008.
+4. É vedado o exame de inovação recursal no recurso especial.
+(AgInt no AREsp 1227908/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO DIREITO INTERTEMPORAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. AÇÃO DE RITO ORDINÁRIO COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA COMBINADA COM INDENIZATÓRIA. TUTELA ANTECIPADA DEFERIDA EM SENTENÇA TRANSITADA EM JULGADO. CUSTEIO DE TRATAMENTO DE SAÚDE DA AUTORA POR OPERADORA DE PLANO OU SEGURO DE SAÚDE (MEDIAL SAÚDE S/A). NATUREZA JURÍDICA DA OBRIGAÇÃO. FAZER E NÃO FAZER. ART. 461, §§ 4º E 5º, DO CPC/1973. FIXAÇÃO DE ASTREINTES. CABIMENTO. ATRASO NO CUMPRIMENTO DA ORDEM JUDICIAL. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DA MULTA COMINATÓRIA IMPOSTA. POSSIBILIDADE. TESE RECURSAL DE COBRANÇA INDEVIDA DE ASTREINTES COMINADA EM OBRIGAÇÃO DE DAR. PAGAMENTO DE QUANTIA CERTA (PECÚNIA). NÃO OCORRÊNCIA. REVISÃO DO VALOR DAS ASTREINTES. POSSIBILIDADE. EXORBITÂNCIA CONFIGURADA. REDUÇÃO DO VALOR DA MULTA. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEVEDOR. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+7. A tese recursal de que não teria ocorrido a prévia intimação pessoal da ora agravante para o cumprimento da obrigação de fazer ou de não fazer que lhe foi imposta foi agitada somente nas razões do apelo nobre, configurando-se, desse modo, inovação nas razões recursais, inadmissível em sede de recurso especial, ante o óbice da preclusão consumativa e da ausência de prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+8 Agravo interno a que se dá parcial provimento.
+(AgInt no AREsp 298.029/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 30/08/2018, DJe 04/09/2018)
+A respeito da ilegitimidade passiva, verifica-se que a tese e o conteúdo normativo de tal dispositivo não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar ofensa ao art. 535 do Código de Processo Civil de 1973 especificamente quanto à matéria, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, ainda que se trate de tema de ordem pública, incide a Súmula n. 211 do Superior Tribunal de Justiça. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído o investimento realizado pelo consumidor, conforme determinava a portaria que regulamentava a relação entabulada entre as partes à época, nada impede que o contratante postule e veja reconhecido seu direito em ver o valor investido devidamente devolvido. Rever esta conclusão esbarraria no óbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido.
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe de 28/8/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
