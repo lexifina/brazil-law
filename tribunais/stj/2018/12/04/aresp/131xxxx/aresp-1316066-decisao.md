@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto pela Fazenda Nacional, com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição a acórdão do TRF da 5ª Região, ementado nos seguintes termos (e-STJ, fls. 106-107):
+TRIBUTÁRIO E PROCESSUAL CIVIL. LANÇAMENTO FISCAL. ANÁLISE DA LEGALIDADE. ART. 489, §1º, I, DO CPC/2015. ANULAÇÃO.
+1. Apelação interposta pelo Particular em face de sentença que julgou improcedente a Ação Ordinária ajuizada com o fito de obter a anulação ou a revisão do lançamento de ofício realizado pela Receita Federal, relativo à Imposto de Renda.
+2. No ano de 2010 a Pessoa Física/Apelante recebeu o valor de R$ 314.747,55 em decorrência de ação judicial na qual obteve o reconhecimento do direito à Aposentadoria. Por ocasião do recebimento da importância, através de Precatório Judicial, foi retida a importância de R$ 9.734,46, a título de Imposto de Renda, cujo cálculo foi realizado pela Contadoria do Juízo.
+3. A Receita Federal efetuou o lançamento suplementar da importância de R$ 78.075,65, acrescido da multa de oficio de R$ 58.556,73, e juros de mora de R$ 35.438,53, totalizando o valor de R$ 172.070,91, sob o fundamento de haver constatado inexatidão no número de meses referentes ao Rendimento Recebido Acumuladamente (RRA), informados na Declaração de Rendimentos.
+4. Na sentença, a pretensão autoral foi indeferida com base no entendimento de que os valores recolhidos a título de Imposto de Renda, incidentes sobre as verbas recebidas em decorrência de Ação Judicial, deveriam ter sido calculados com base no art. 12-A, da Lei nº 7.713/88.
+5. Decisão que não concluiu se a importância retida a título de Imposto de Renda estava em desacordo com a legislação que regulava o assunto na época dos fatos, atentando que o cálculo foi realizado por Contadoria Judicial, nem, tampouco, se o lançamento realizado pela Receita Federal obedeceu aos critérios fixados em lei, questões imprescindíveis para a solução do conflito de interesses. Sentença Inteligência do §1º, do art. 489, do CPC/2015. Retorno dos autos ao juízo de origem para novo julgamento. Apelação prejudicada.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 129/136).
+Alega a agravante, nas razões do recurso especial, a existência de violação do art. 1.022 do CPC. Nessa esteira, sustenta que o Tribunal de origem, não obstante a oposição de embargos declaratórios, omitiu-se a respeito de questões relevantes ao deslinde da controvérsia.
+Salienta que alegou nos embargos de declaração que, em momento algum, o apelante invocou a contrariedade ao art. 489, § 1º, I, do CPC; sendo que toda a fundamentação do contribuinte contestaria a própria legitimidade da norma introduzida pela Lei n. 12.350, de 2010 (art. 12-A da Lei n. 7.713/1988).
+A negativa de admissibilidade teve por fundamento a inexistência de óbice a ser sanado.
+É o relatório.
+Não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, consignado expressamente que a decisão a ser anulada não concluiu se a importância retida a título de imposto de renda estava em desacordo com a legislação que regulava o assunto na época dos fatos.
+A propósito, o seguinte trecho do voto condutor do acórdão recorrido (e-STJ, fl. 97):
+Na sentença, a douta juíza indeferiu a pretensão autoral com base no entendimento de que os valores recolhidos a título de Imposto de Renda, incidentes sobre as verbas recebidas em decorrência de Ação Judicial, deveriam ter sido calculados com base no art. 12-A, da Lei nº 7.713/88.
+O "Decisum" não concluiu se a importância retida a título de Imposto de Renda estava em desacordo com a legislação que regulava o assunto na época dos fatos, atentando que o cálculo foi realizado por Contadoria Judicial, nem, tampouco, se o lançamento realizado pela Receita Federal obedeceu aos critérios fixados em lei, questões imprescindíveis para a solução do conflito de interesses e a correta prestação da tutela jurisdicional.
+
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
