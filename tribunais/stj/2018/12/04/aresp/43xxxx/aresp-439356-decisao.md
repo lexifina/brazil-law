@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por ELBEGASTO REBOUÇAS TOMÉ PRACIANO contra decisão proferida pelo Tribunal Regional Federal da 5ª Região que não admitiu seu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Depreende-se dos autos que o agravante foi condenado, como incurso nas sanções dos arts. 138, 139 e 140, na forma do art. 70, todos do Código Penal, à pena total de 2 anos e 3 meses de detenção.
+Interposto recuso de apelação criminal pela defesa (e-STJ fls. 729/743), o Tribunal de origem, por unanimidade de votos, negou-lhe provimento, mas substituiu a pena privativa de liberdade por medida de segurança, em acórdão assim ementado (e-STJ fl. 831):
+"PENAL. CALÚNIA. INJÚRIA E DIFAMAÇÃO. NULIDADE DA SENTENÇA. FALTA DE INTIMAÇÃO. INOCORRÊNCIA. AUTORIA E MATERIALIDADE COMPROVADAS. ELEMENTO SUBJETIVO PRESENTE. CULPABILIDADE. DOSIMETRIA. DEVIDAMENTE APURADO O QUANTUM SANCIONATÓRIO. SEMI-IMPUTÁVEL. PENA PRIVATIVA DE LIBERDADE. APLICAÇÃO DE MEDIDA DE SEGURANÇA. CABIMENTO DA SUBSTITUIÇÃO PELO TRIBUNAL. IMPROVIMENTO DA APELAÇÃO" (e-STJ fl. 831).
+Sobreveio recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual a defesa alega violação ao disposto nos arts. 138, 139 e 140, todos do Código Penal, e no art. 383, caput, do Código de Processo Penal. Sustenta, em síntese, que: a) o Magistrado a quo condenou o acusado em crime pelo qual não foi denunciado; b) no caso dos autos, deveria ter havido muttatio libelli, e não emendatio libelli; c) a condenação do recorrente não pode subsistir, tendo em vista que não é plenamente são e não pode demonstrar vontade e consciência capazes de ferir a honra de outrem; e d) "não está presente o dolo, o que torna a conduta em atípica" (e-STJ fls. 902/918).
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Neste recurso, repisa o agravante todos os fundamentos anteriormente apresentados e refuta os argumentos expendidos na decisão que inadmitiu o seu recurso especial.
+O Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso (e-STJ fls. 970/975).
+É o relatório.
+Decido.
+A irresignação está prejudicada pela ocorrência da prescrição da pretensão punitiva.
+Inicialmente, conforme entendimento adotado por esta Corte quanto à análise de recursos não admitidos, no julgamento do EAREsp n. 386.266/SP, nos casos em que o agravo for conhecido e o recurso especial for desprovido por estar em confronto com súmula ou jurisprudência sedimentada no tribunal, não há que se falar em retroatividade do trânsito em julgado à data de escoamento do prazo para a interposição de recurso admissível. Senão vejamos.
+No caso em apreço, tenho que as teses expostas no recurso especial são admissíveis. Desse modo, o último marco interruptivo da prescrição é a data da sentença condenatória.
+Assim, reputando a pena imposta pela instância ordinárias, que não ultrapassa 2 anos (desconsiderado o concurso formal), nos termos do art. 109, V, c/c o art. 110, § 1º, ambos do Código Penal, houve o transcurso de mais de 4 anos entre a publicação da sentença, em dezembro de 2011 (e-STJ fl. 662), e a presente data, sendo mister o reconhecimento da prescrição da pretensão punitiva.
+Ante o exposto, declaro extinta a punibilidade do ora agravante pela prescrição da pretensão punitiva, em relação ao delito ora em apuração, e julgo prejudicado o recurso.
+Publique-se. Intimem-se.
