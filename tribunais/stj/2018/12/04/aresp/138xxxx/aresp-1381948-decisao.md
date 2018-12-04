@@ -1,0 +1,55 @@
+DECISÃO
+[NOME], participante do PROAGRO MAIS, ajuzou ação com o objetivo de condenar o Banco Central do Brasil - BACEN e o Banco do Brasil S/A ao pagamento de indenização de seguro, restituição de quantia paga, danos morais e obrigação de fazer no sentido de que seu nome não fosse inserido nos órgãos de proteção ao crédito.
+A ação foi julgada procedente em relação ao BACEN (fls. 189-200), decisão mantida, em grau recursal, o Tribunal Regional Federal da 3ª Região, nos termos da seguinte ementa (fl. 288):
+PROCESSUAL CIVIL. AGRAVO LEGAL. APLICAÇÃO DO ARTIGO 557, CAPUT, DO CPC. AUSÊNCIA DE NOVOS ARGUMENTOS PARA AUTORIZAR A REFORMA DA DECISÃO AGRAVADA.
+1. A r. decisão impugnada foi proferida em consonância com o disposto no artigo 557, caput, do Código de Processo Civil.
+2. A parte agravante não apresenta argumentos relevantes que autorizem ou justifiquem a reforma da r. decisão agravada.
+3. Agravo legal desprovido.
+Os embargos declaratórios opostos foram rejeitados (fl. 317).
+O Banco Central do Brasil - BACEN interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 1.022, II do CPC/2015, ao argumento de que a despeito da oposição dos embargos declaratórios, o Tribunal a quo proferiu acórdão genérico, olvidando-se de se manifestar especificamente sobre as circunstâncias fáticas ou jurídicas da demanda, ou ainda sobre os vícios apontados nos embargos (fl. 330).
+E ainda, em suas razões especiais o recorrente sustenta violação dos arts. art. 1º da Lei n. 5969/73 e 59 da Lei n. 8.171/91, alegando que o Tribunal a quo, ao entender que "chuvas excessivas" correspondem a fenômeno natural, interpretou extensivamente o conceito de "fenômenos naturais", previsto na legislação, de modo a distorcer o contido na norma vigente, provocando afronta a determinação normativa constante da Resolução 3.388, de 27.07.2006 e as previsões do Manual de Crédito Rural (fl. 345).
+Sem oferta de contrarrazões (fl. 349), o Tribunal de origem negou seguimento ao recurso especial (fls. 351-363), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, sobre a alegada violação do art. 1.022, II do CPC/2015, por suposta omissão pelo Tribunal de origem da análise das questões, tenho que não assiste razão ao recorrente.
+Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DO ART 1.022, I, DO CPC/2015. INEXISTENTE. NÃO CONFIGURAÇÃO DE DANOS EMERGENTES OU DE LUCROS CESSANTES. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DOS ENUNCIADOS N. 5 E 7 DA SÚMULA DO STJ.
+ .. .
+II - Com relação à alegada violação do art. 1.022, I, do CPC de 2015, sem razão a recorrente a esse respeito, tendo o Tribunal a quo decidido a matéria de forma fundamentada e não contraditória, analisando todas as questões que entendeu necessárias para a solução da lide, mormente aquela apontada como omitida no apelo nobre (fl. 705), não obstante tenha decidido contrariamente à sua pretensão.
+III - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+IV - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+V - Tendo o Tribunal a quo, com base na análise do acervo fático carreado aos autos, nele incluído o contrato administrativo firmado entre as partes, concluído não restar configurada a ocorrência de danos emergentes ou de lucros cessantes a exigir reparação indenizatória, para se infirmar tais fundamentos, na forma pretendida no apelo nobre, seria necessário proceder a um novo exame dos fatos e provas já analisados, providência vedada por via de recurso especial, ante os óbices dos enunciados n. 5/STJ e n. 7/STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1263804/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DANO MORAL. NEGATIVAÇÃO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. OMISSÃO. AUSÊNCIA DE VÍCIOS. SÚMULA 385/STJ. APLICAÇÃO. EXISTÊNCIA DE APONTAMENTOS ANTERIORES. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ .. .
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+ .. .
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1745930/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/08/2018, DJe 30/08/2018)
+No mais, com relação aos dispositivos tidos por violados, verifica-se que o Tribunal a quo, mantendo a sentença, dirimiu a controvérsia com base nas provas contidas nos autos, senão vejamos (fls. 253-255):
+O indeferimento administrativo do pedido de cobertura do sinistro foi fundamentado na falta de previsão contratual, ao argumento de que o evento "chuvas excessivas" não vem previsto entre as hipóteses legais do PROAGRO e, em sua apelação, o BACEN insiste nessa tese, alegando que "chuvas excessivas" não podem ser equiparadas ao evento "trombas d"água", sendo vedado ao juiz fazer interpretação extensiva da cobertura securitária prevista no contrato firmado entre as partes.
+De fato, admito ser equivocado o fundamento utilizado pelo d. Juízo de origem à condenação do BACEN, ou seja, a equiparação de dois eventos distintos "tromba d"água" e "chuvas excessivas". No entanto, o error in judicando não afasta a realidade dos fatos, que se enquadram como sinistro passível da cobertura securitária que se requer dentre aquelas hipóteses legais previstas na legislação que trata do PROAGRO.
+Por outro lado, confira-se o que dispõem os arts. 1º e 5º da Lei n. 5.969, de 11 de dezembro de 1973, com as alterações introduzidas pela Lei n. 6.685/79:
+Art. 1º É instituído o Programa de Garantia da Atividade Agropecuária - PROAGRO, destinado a exonerar o produtor rural, na forma que for estabelecida pelo Conselho Monetário Nacional, de obrigações, financeiras relativas a operações de crédito, cuja liquidação seja dificultada pela ocorrência de fenômenos naturais, pragas e doenças que atinjam bens, rebanhos, e plantações.
+Art. 5º A comprovação dos prejuízos será efetuada pela instituição financeira, mediante laudo de avaliação expedido por entidade de assistência técnica.
+Parágrafo único. Não serão cobertos pelo Programa os prejuízos relativos a operações contratadas sem a observância das normas legais e regulamentares concernentes ao crédito rural.
+Ora, se o intuito da referida legislação é cobrir eventuais perdas do agronegócio advindas de "fenômenos naturais", certo é que as chuvas excessivas enquadram-se perfeitamente nessa previsão legal. Ademais, o excesso de chuvas, de modo distinto do incêndio, da erosão e de alguns tipos de pragas da lavoura, não estão previstos como exceção à cobertura securitária, mencionadas nos termos da sentença, como se vê às fls. 155 e 155 v.
+ .. .
+Sendo assim, ainda que os laudos de acompanhamento da lavoura descrevam que a autora foi negligente quanto ao controle de pragas que deveria ter sido feito por ela sob as orientações dos técnicos do PROAGRO, ficou demonstrado que a perda da produção deu-se em razão do excesso de chuvas no período compreendido entre o plantio e a colheita, enquadrando-se o caso dos autos, portanto, nos sinistros previstos na legislação de regência.
+Desse modo, para se concluir de modo diverso do acórdão recorrido - tratar-se, in casu, de pagamento de seguro em razão de perdimento de lavoura de milho provocado por chuvas excessivas -, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROAGRO. PERDA PARCIAL DA PRODUÇÃO. COMUNICAÇÃO TARDIA. AUSÊNCIA DE ÓBICE AO PAGAMENTO DA INDENIZAÇÃO. DECISÃO MANTIDA.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. A conclusão do Tribunal de origem está de acordo com o entendimento jurisprudencial desta Corte, o qual determina que o seguro da atividade agropecuária, na forma dos artigos 1º e 4º da Lei 5.969/73 e 59 da Lei 8.171/91, garante a satisfação do financiamento concedido por instituição financeira, além da parcela de recursos próprios do produtor, sem abranger os lucros cessantes decorrentes da frustração da safra.
+3. Na hipótese, independentemente da comunicação das perdas ter sido efetuada posteriormente à colheita, ficou comprovado que houve perda parcial da produção, de modo que o mutuário faz jus ao ressarcimento, deduzido o valor do produto que ficou à salvo. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo regimental não provido.
+(AgRg no AREsp 497.278/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/05/2014, DJe 04/06/2014)
+PROGRAMA DE GARANTIA DA ATIVIDADE AGROPECUÁRIA. LEI Nº 5.969/73. QUEDA DE PREÇO. FENÔMENO NATURAL.
+I - A apuração de prejuízos na produção ou comercialização de safra agrícola importa revolver conjunto probatório, inviável a teor da Súmula 7 do STJ.
+II - Agravo regimental improvido.
+(AgRg no Ag 279.521/DF, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, TERCEIRA TURMA, julgado em 15/05/2000, DJ 19/06/2000, p. 149)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a e b, do RI/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta parte, negar-lhe provimento.
+Publique-se. Intime-se.
