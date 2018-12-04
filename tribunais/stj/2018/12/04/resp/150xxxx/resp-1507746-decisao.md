@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial manifestado por [NOME], com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. REPETIÇÃO DO INDÉBITO. SERVIDOR PÚBLICO MUNICIPAL. CONTRIBUIÇÃO AO PLANO DE ASSISTÊNCIA A SAÚDE. MUNICÍPIO DE CAXIAS DO SUL INCONSTITUCIONALIDADE DA COMPULSORIEDADE DA CONTRIBUIÇÃO.
+1. Não tendo a parte interesse em contribuir e permanecer vinculada ao Plano de Assistência à Saúde assiste-lhe o direito de desvincular-se e não mais contribuir, o que também conduz a consequente desobrigação do IPAM em prestar-lhe assistência à saúde, a partir de quando cessada a respectiva contribuição mensal.
+2. Incabível a restituição das contribuições descontadas do servidor em favor do IPAM, tendo em vista que enquanto ao mesmo esteve vinculado, os serviços de saúde estiveram a sua disposição. Não se pode falar em enriquecimento ilícito se os serviços de saúde foram colocados à disposição do servidor.
+A parte autora não tem direito à repetição dos valores, pois inexiste prova nos autos de que não utilizou o serviço que lhe foi disponibilizado, ônus que lhe cabia, a teor do disposto no artigo 333, inciso I, do CPC.
+APELAÇÃO DO DEMANDANTE DESPROVIDA.
+APELAÇÃO DO DEMANDADO DESPROVIDA" (fl. 304e).
+Os Embargos de Declaração, opostos ao acórdão recorrido, foram rejeitados (fls. 328/334e).
+A recorrente, além da divergência jurisprudencial, aduz violação à Lei 8.078/90 e aos arts. 165 do CTN, 197 e 199 da CF/88, 884 e 885 do Código Civil, 20 do CPC, sustentando que teria o direito à restituição dos valores descontados a título de contribuição à saúde, declarada inconstitucional. Alega que o fato de ter usufruído, ou não, do serviço de saúde não é pressuposto para a repetição do indébito.
+Não foram apresentadas Contrarrazões (fl. 632e).
+Recurso admitido na origem (fls. 635/641e).
+No que concerne à violação aos arts. 197 e 199 da CF, ressalto que "não cabe a esta Corte, em sede de recurso especial, examinar suposta violação a dispositivos constitucionais, tendo em vista os precisos termos do art. 105, III, alíneas "a", "b" e "c", da CF/88" (STJ, REsp 1.281.061/PB, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe de 20/08/2013).
+Quanto à alegada violação ao art. 20 do CPC, verifica-se, da leitura das razões expendidas no Recurso Especial, que a recorrente não expôs as razões de seu inconformismo.
+No que concerne à ofensa à Lei 8.078/90, igualmente, verifica-se a ausência da técnica própria indispensável à apreciação do recurso, pois a recorrente não indicou o dispositivo tido por violado.
+Nesta instância excepcional, é obrigação da parte recorrente indicar, com clareza, o dispositivo legal tido como violado, sob pena de o inconformismo ser inadmitido. No especial, não basta à parte alegar a ocorrência das hipóteses do permissivo constitucional; é indispensável seja deduzida a necessária fundamentação, com a finalidade de demonstrar o cabimento do recurso, sob pena de incidência, uma vez mais, da Súmula 284 do STF.
+No mérito, melhor sorte assiste à recorrente.
+No caso concreto, a Corte de origem, após concluir pela inconstitucionalidade da contribuição obrigatória do servidor ao plano de saúde do município, decidiu que "a parte autora não tem direito à repetição dos valores, pois inexiste prova nos autos de que não utilizou o serviço que lhe foi disponibilizado, ônus que lhe cabia, a teor do disposto no artigo 333, inciso I do CPC" (fl. 312e).
+Ao que se tem, o Tribunal a quo dissentiu da jurisprudência do Superior Tribunal de Justiça, segundo a qual o único pressuposto da repetição do indébito da contribuição compulsória, para custeio de serviços de saúde, é a cobrança indevida de tributo, conforme o disposto no art. 165 do CTN.
+Dessa forma, é irrelevante saber se o servidor público usufruiu, ou não, do serviço de saúde prestado pelo recorrido.
+Nesse sentido:
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTRIBUIÇÃO COMPULSÓRIA PARA CUSTEIO DE SERVIÇOS DE SAÚDE. INCONSTITUCIONALIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. REPETIÇÃO DE INDÉBITO. CABIMENTO. AGRAVO PARCIALMENTE PROVIDO PARA RECONHECER A PRESCRIÇÃO QUINQUENAL.
+1. A pendência de julgamento no Supremo Tribunal Federal dos Edcl na ADI 3.106/MG não enseja o sobrestamento dos recursos que tramitam no Superior Tribunal de Justiça, por ausência de previsão legal.
+2. A decisão agravada deve ser mantida em face de estar em consonância com a jurisprudência deste Superior Tribunal no sentido de que o único pressuposto da repetição do indébito é a cobrança indevida de tributo, conforme o art. 165 do Código Tributário Nacional.
+3. Quanto à verba honorária, não há como modificá-la, porque a parte agravante limitou-se a deduzir considerações genéricas quanto à necessidade de ser arbitrada de forma equitativa, sem, contudo, demonstrar de maneira clara e precisa em que consistiria a exorbitância. Incidência do óbice da Súmula 284/STF.
+4. Merece acolhida a pretensão de incidência da prescrição quinquenal, haja vista que a ação foi ajuizada em 6/3/09, almejando a restituição dos valores pagos a título de contribuição compulsória, em face da Lei Complementar Estadual 64/02.
+5. Agravo regimental parcialmente provido para reconhecer a prescrição quinquenal" (STJ, AgRg no REsp 1.274.528/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 13/05/2013).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. OMISSÃO INEXISTENTE. INCONFORMISMO COM A TESE ADOTADA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INOVAÇÃO RECURSAL. VEDAÇÃO.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. A Corte de origem não emitiu juízo de valor quanto aos arts. 884 e 885 do Código Civil, nem quanto à tese de enriquecimento ilícito por parte do segurado. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal do recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. A tese de enriquecimento ilícito reveste-se de inovação recursal, sobre a qual a Corte de origem não estava obrigada a manifestar-se, e que, consequentemente, robustece o entendimento de ausência de omissão no julgado.
+4. A jurisprudência desta Corte firmou-se no sentido de os servidores públicos terem ou não usufruído do serviço de saúde prestado pelo Instituto de Previdência do Estado do Rio Grande do Sul (IPERGS) é irrelevante, pois essa circunstância não retira a natureza indevida da exação cobrada. Nos termos do artigo 165 do CTN, o único pressuposto para a repetição do indébito é a cobrança indevida de tributo.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.336.912/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 25/10/2012).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA CUSTEIO DE SAÚDE.
+REPETIÇÃO DO INDÉBITO. CABIMENTO. HONORÁRIOS. INVERSÃO DA SUCUMBÊNCIA.
+1. O fato de os servidores públicos terem ou não usufruído do serviço de saúde prestado pelo Instituto de Previdência do Estado do Rio Grande do Sul - IPERGS é irrelevante para fins de repetição de indébito da contribuição questionada. Precedentes.
+ 2. Acolhida a pretensão externada no recurso especial, invertem-se os ônus sucumbenciais.
+3. Recurso especial provido" (STJ, REsp 1.294.775/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 05/03/2012).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do CPC, dou parcial provimento ao Recurso Especial, para reformar o acórdão recorrido, a fim de julgar totalmente procedente a pretensão deduzida na petição inicial, e condenar o IPAM a restituir à autora, ora recorrente, os valores descontados de seus contracheques a título de contribuição ao IPAM-Saúde, acrescidos de correção monetária e juros de mora.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
