@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração - fls. 455/466e -, opostos por INDÚSTRIAS BRASILEIRAS DE ARTIGOS REFRATÁRIOS - IBAR - LTDA, em face de decisão por mim proferida às fls. 434/452e, que reconsiderou a decisão de fls. 397/408, para dar provimento ao Recurso Especial, para anular o acórdão proferido no julgamento do embargos de declaração na origem.
+Nas razões de seus aclaratórios, sustenta a embargante que a decisão incorreu em omissão uma vez que, in verbis:
+"Ocorre que, tendo a r. decisão embargada acatado tal alegação, acabou por incorrer em omissão quanto aos termos da Impugnação apresentada pela ora Embargante, na qual demonstra que, em verdade, o que a Quarta Turma do E.
+TRF-3 fez foi reiterar o fundamento de que a verba honorária de sucumbência permaneceria fixada em 10% do valor da condenação, considerando-se a procedência total do pedido, tendo sido pontuados os critérios que foram levados em conta, com base nos parágrafos 3º e 4º, do art. 20, do CPC/73, para espancar qualquer dúvida:
+(..)
+Demonstrou a Embargante que o r. decisum pronunciou-se expressa e exaustivamente acerca da convicção formada para arbitramento dos honorários advocatícios, pontuando que a condenação ao pagamento da verba de sucumbência no percentual de 10% (que, inclusive, frise-se ser o mínimo estipulado pelo §3º do art. 20, do CPC/73) é inevitável in casu.
+Assim, omitiu-se a r. decisão embargada, deixando de se pronunciar acerca do cotejo feito pela Embargante. Vale rever os termos da Impugnação sobre a qual não se manifestou a r. decisão: "Neste sentido, considerando que insiste a Agravante não terem sido delineados os critérios do §3º do art. 20, do CPC/73, vale cotejar os termos da decisão proferida com os critérios que se pode extrair das referidas alíneas:
+(..)
+Ora, vê-se que a r. decisão proferida foi devidamente pautada sobre os critérios extraídos do §3º do art. 20, do CPC/73, os quais, após analisados pelo D. Desembargador, levaram à conclusão inarredável de que o percentual devido para fixação dos honorários seria o de 10% sobre o valor da condenação" (fls. 461/463e).
+Sem razão a embargante.
+Com efeito, indica a parte a ocorrência de suposto error in judicando, vício que, caso existente, deve ser alegado por via diversa, uma vez que as hipóteses de cabimento dos aclaratórios estão taxativamente indicadas no rol previsto do art. 1.022 do CPC/2015.
+Corroborando este entendimento, "o recurso de Embargado de Declaração não é a via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não sendo possível atribuir eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamim, Segunda Turma, DJe 6.11.2003; (..).
+Considerando, destarte, o desiderato revelado de atribuir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os Embargos de Declaração" (STJ, EDcl nos EDcl no AgRg no AREsp 705.844/SP, Rel. p/ acórdão Ministro HERMAN BENJAMIM, SEGUNDA TURMA, DJe de 27/05/2016).
+Ante o exposto, à míngua de vícios, rejeito os Embargos de Declaração.
+I.
