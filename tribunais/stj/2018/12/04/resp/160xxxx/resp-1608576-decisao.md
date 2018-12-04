@@ -1,0 +1,57 @@
+DECISÃO
+[NOME] [NOME] [NOME] LIMA FERREIRA, [NOME] LIMA FERREIRA e a firma individual, [NOME] [NOME] [NOME] LIMA FERREIRA, de nome fantasia ANNICAR LOCAÇÕES LTDA, ajuizaram ação de indenização por danos morais contra o ESTADO DO MARANHÃO, alegando que foram prejudicados em sua atividade empresarial de locação de veículos, uma vez que alguns de seus automóveis foram alienados de forma irregular, mediante o uso de assinaturas falsas perante o Cartório do 2º Oficio de Notas da Comarca de São Luis/MA.
+O Tribunal de Justiça do Estado do Maranhão não conheceu das apelações, mantendo a sentença de extinção do feito sem julgamento de mérito, em razão da ilegitimidade passiva ad causam estatal, e improcedente quanto ao DETRAN, nos termos da seguinte ementa (fl. 486):
+APELAÇÃO EM AÇÃO ORDINÁRIA. IDENTIDADE ENTRE PESSOA NATURAL E FIRMA INDIVIDUAL. REVOGAÇÃO DA PROCURAÇÃO. LITISCONSÓRCIO PASSIVO. ADVOGADO COMUM. INAPLICABILIDADE DO ART. 191 DO CPC. RECURSOS INTEMPESTIVOS. PRECEDENTES DO STJ.
+I. A empresa individual se confunde com a pessoa física que a instituiu, havendo unicidade patrimonial. Realizada audiência, o comparecimento da pessoa natural demonstra a devida representação em Juízo da firma individual. Precedentes do STJ.
+II. Implica em revogação do instrumento procuratório a nova outorga de poderes realizada pela parte em audiência. Por sua vez, o substabelecimento com reservas não destitui o patrono substabelecente.
+III. O recurso subscrito por advogado não habilitado nos autos é manifestamente inadmissível, por faltar-lhe, no caso, capacidade postulatória.
+IV. É inaplicável a contagem em dobro do prazo recursal, fixada pelo art. 191 do CPC, quando todos os litisconsortes possuírem ao menos um procurador comum. Precedentes do STI.
+V. Ocorrendo a interposição do recurso de apelação após o prazo estabelecido no art. 508 do Código de Processo Civil, configurada está a sua intempestividade.
+VI. Apelos NÃO CONHECIDOS.
+Os embargos de declaração opostos não foram conhecidos (fl. 518).
+Os autores [NOME] [NOME] [NOME] LIMA FERREIRA e [NOME] LIMA FERREIRA interpuseram recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando, em síntese, que o decisum, além de contrário à jurisprudência desta Corte, teria violado o art. 37 do CPC/73, sob o argumento de que não consta dos autos qualquer procuração que tenha revogado, expressa ou tacitamente a procuração dos advogados dos autores (fls. 532).
+Aduzem ainda violação do art. 191 do CPC/73, ao argumento de que "o deferimento da intervenção advogado da pessoa jurídica configure a situação descrita no art. 191 do CPC, tornando tempestiva a apelação promovida pelos ora recorrentes, devendo seu apelo ser apreciado pelo Tribunal de Justiça do Maranhão." (fl. 534).
+Por sua vez, a autora [NOME] [NOME] [NOME] LIMA FERREIRA (ANNICAR LOCAÇÕES LTDA), firma individual, interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando, em síntese, que o decisum teria violado o art. 37 do CPC/73, aduzindo que em nenhum lugar dos autos há substabelecimento formal ou procuração formal outorgada a outro profissional de direito que possa validar eventual revogação expressa ou tácita do mandato outorgado desde o início da ação (fl. 565), assim como o simples registro do comparecimento da parte com seu advogado não é suficiente para substituir a necessidade da procuração formal, escrita, que habilite o procurador no feito (fl. 566).
+Pretende a decretação de nulidade de todos os atos processuais realizados sem a participação do advogado formalmente constituído nos autos, desde a fase das alegações finais (fl. 569).
+Contrarrazões ofertadas (fls. 600-606).
+O Ministério Público Federal se manifestou pelo não conhecimento dos recursos (fls. 627-633).
+É o relatório Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+No que se refere às alegações de [NOME] [NOME] [NOME] LIMA FERREIRA e [NOME] LIMA FERREIRA, no que tange a violação dos arts. 37 e 191, do CPC/73, constata-se que o Tribunal vergastado, diante das peculiaridades do caso in concreto - ausência nos autos de qualquer procuração que tenha revogado, expressa ou tacitamente a procuração dos advogados dos autores, assim consignou (fl. 493-495):
+ .. .
+Os primeiros apelantes, em petição de fls. 257/258 (vol. II), alegam que "a pessoa jurídica, com nome de fantasia ANNICAR LOCADORA E SERVIÇOS, permaneceu vinculada ao Dr. [NOME], por procuração não revogada, nem mesmo tacitamente, sendo legítimo o 2º Apelo interposto nos presente autos" (fl. 358, vol. II).
+Sustentam que participaram de audiência na qual constituíram como procurador Carlos Levy Pereira Gomes, segundo ata consignada às fls. 161/162 (vol. I).
+Nesse ponto, algumas ponderações são necessárias, concernentes à representação das partes.
+À fl. 18 consta declaração de firma individual de [NOME], nome fantasia Annicar Locações Ltda. Segundo os argumentos dos recorrentes, a empresa individual não esteve representada na primeira audiência designada, presentes apenas os demais autores, [NOME] e [NOME].
+Ora, tratando-se de empresa individual não há distinção entre a pessoa jurídica e a pessoa natural que a instituiu. É inimaginável que a Sra. [NOME] tenha Comparecido à audiência e a representante da empresa individual [NOME] estivesse ausente, uma vez que se tratam, de fato, da mesma pessoa.
+ .. .
+Desarrazoado, pois, dissociar, na espécie, a pessoa natural da empresa individual, especialmente em se tratando de ação indenizatória, uma vez que o patrimônio é comum. Nesse contexto, não há como afirmar que a senhora [NOME] esteve presente em audiência, promovendo nova outorga de poderes, não promulgada pela Annicar Locações Ltda.
+Com efeito, operou-se, in casu, a revogação tácita da procuração outorgada a [NOME] por parte de todos os requerentes, constituindo em audiência, o Dr. [NOME] como novo patrono.
+Feitas estas considerações, o primeiro apelo não merece ser conhecido ante sua intempestividade.
+ .. .
+Já com relação às alegações de [NOME] [NOME] [NOME] LIMA FERREIRA (ANNICAR LOCAÇÕES LTDA), firma individual, no que tange a violação do art. 37, do CPC/73, constata-se que o Tribunal vergastado, diante das peculiaridades do caso in concreto - ausência nos autos de substabelecimento ou procuração outorgada a outro advogado que possa validar eventual revogação expressa ou tácita do mandato outorgado ao advogado constituído desde o início da ação, consignou que (fl. 497):
+A revogação do mandato outorgado a [NOME], mediante a constituição de novo procurador, impõe o não conhecimento do segundo apelo, posto o advogado subscritor não se encontrar regularmente habilitado nos autos. Cumpre registrar que a falha na representação não é o único óbice ao conhecimento do recurso.
+A bem de ver, considerando a ausência de distinção entre a pessoa física e a empresa individual, admitir o segundo apelo no caso concreto, se não violaria o princípio da unirrecorribilidade - segundo o qual é defeso à parte manejar mais de um recurso contra a mesma decisão -, certamente desconsiderar-se-ia o instituto da preclusão consumativa, porquanto já praticado o ato recursal, ainda que aviado o apelo em questão a destempo.
+Desse modo, o reexame do acórdão recorrido, em confronto com as razões de ambos recursos especiais, revela que os fundamentos apresentados no julgado acerca das peculiaridades apresentadas, utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido nos apelos nobres, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Demais disso, no que concerne à parcela recursal referente ao art. 105, III, c, da Constituição Federal, alegadas pelos recorrentes [NOME] [NOME] [NOME] LIMA FERREIRA e [NOME] LIMA FERREIRA, verifica-se que os recorrentes não efetivaram o necessário cotejo analítico da divergência entre os acórdãos em confronto, o que impede o conhecimento do recurso com base nessa alínea do permissivo constitucional.
+Conforme a previsão do art. 255 do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+Nesse mesmo diapasão, confiram-se:
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. CONFIGURAÇÃO DO ELEMENTO SUBJETIVO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. DIVERGÊNCIA NÃO COMPROVADA.
+ ..
+V - A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC/1973 e art. 255 do RI/STJ) impede o conhecimento do recurso especial com base na alínea do inciso III do art. 105 da Constituição Federal.
+VI - Agravo interno improvido.
+(AgInt no AREsp 940.174/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/4/2017, DJe 27/4/2017).
+Ademais, para se concluir de modo diverso do acórdão recorrido, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO. CORREÇÃO DO VALOR DA EXECUÇÃO. AGRAVOS DE INSTRUMENTO. FUNDAMENTO REFERENTE À AUSÊNCIA DE PREJUÍZO. NÃO IMPUGNAÇÃO. INCIDÊNCIA, POR ANALOGIA, DOS ENUNCIADOS N. 283 E 284 DA SÚMULA DO STJ. ALEGAÇÃO DE AUSÊNCIA DE PEÇA ESSENCIAL. REEXAME DE FATOS E PROVAS. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE ANÁLISE ANTE A INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ .. .
+II - A juntada das peças obrigatórias previstas no art. 525, I, do Código de Processo Civil de 1973 é indispensável para o conhecimento do agravo, competindo à parte zelar pela correta formação do instrumento. O acolhimento da pretensão recursal, mormente quanto à verificação da existência ou não das peças obrigatórias, demanda o reexame do contexto fático-probatório, o que não se admite, ante a incidência do enunciado n. 7 da Súmula do STJ.
+ .. .
+IV - Agravo interno improvido.
+(AgInt no REsp 1630090/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 25/04/2017, DJe 02/05/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço dos recursos especiais.
+Publique-se. Intimem-se.
