@@ -1,0 +1,41 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA. CABIMENTO. AL. O DO INC. I DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. IMPUGNAÇÃO À RESOLUÇÃO N. 3 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONFLITO ENTRE TRIBUNAL SUPERIOR E TRIBUNAL A ELE VINCULADO. CASO DE HIERARQUIA JURISDICIONAL. PRECEDENTES. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+Relatório
+    1. Conflito de competência autuado neste Supremo Tribunal em 29.11.2018, tendo como suscitante a relatora da Reclamação n. 1.0000.16.070326-0/000, do Tribunal de Justiça de Minas Gerais, e suscitado o Relator da Reclamação n. 31.799, do Superior Tribunal de Justiça.
+O caso
+    2. A suscitante, Desembargadora Juliana Campos Horta, ao suscitar o presente conflito de competência, assim resumiu a controvérsia:
+    “Trata-se de RECLAMAÇÃO proposta por JUAREZ PAULINO contra decisum proferido no recurso inominado nº. 0003829-91.2016.813.0518 julgado pela Turma Recursal de Poços de Caldas, em Minas Gerais.
+    O reclamante alega que o acórdão ali proferido encontra-se em confronto com a jurisprudência do Superior Tribunal de Justiça, requerendo, em razão disso, a reforma do que ali restou decidido.
+    A reclamação foi proposta perante o Superior Tribunal de Justiça, o qual declinou da competência para processá-la e julgá-la, com fundamento da Resolução STJ/GP nº. 3/2016, determinando que os autos fossem encaminhados para este Tribunal.
+    Recebidos os autos, foi determinada a suspensão da reclamação, para aguardar a manifestação da Corte Especial deste Tribunal sobre o incidente de inconstitucionalidade da resolução em que se baseou o STJ para declinar da competência.
+    No julgamento do aludido incidente (autos nº. 0397089-54.2016.8.13.0000), a Corte Especial declarou a inconstitucionalidade da Resolução STJ/GP nº. 3/2016.
+    Referida resolução delegou o julgamento das reclamações propostas contra decisões de Turma Recursal estadual para os Tribunais de Justiça Estadual, em afronta ao disposto no art. 125, § 1º da Constituição de 1988, na medida em que institui nova competência para as Câmaras reunidas ou da seção especializada dos mencionados tribunais.
+    A competência dos tribunais é matéria constitucional e definida na Constituição do Estado e somente mediante lei de organização judiciária de iniciativa do Tribunal de Justiça poderá ser atribuída nova competência aos Tribunais Estaduais.
+    A Resolução nº 03/2016/STJ ofende, ainda, o princípio da legalidade previsto no caput do artigo 37, na medida em que define competência diversa daquela prevista no artigo 988, §1º, do CPC/2015, o qual determina expressamente que o julgamento da reclamação compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir e não, na forma prevista na citada Resolução, quanto à definição de que compete aos Tribunais Estaduais julgarem reclamação que diverge da orientação de outro Tribunal, no caso do Superior Tribunal de Justiça.
+    A propósito, quando do julgamento dos embargos declaratórios no recurso extraordinário nº 571.572-8/BA, citado na Resolução nº 3/2016/STJ, o Supremo Tribunal Federal ressalvou expressamente a competência do STJ para afastar, mediante reclamação, a divergência de julgados proferidos pelos juizados especiais estaduais com a jurisprudência daquela Corte (STJ), até que seja criada, mediante lei federal, turma nacional de uniformização da jurisprudência, o que não foi feito até o momento no âmbito da justiça estadual.
+    Assim, em vista destes fundamentos e considerando que este Tribunal, por meio da Corte especial, já declarou a inconstitucionalidade da A Resolução nº 03/2016/STJ, suscito o presente conflito negativo de competência, a ser dirimido pelo Supremo Tribunal Federal, na forma do disposto no art. 102, I, o, da Constituição Federal, por entender que a competência para julgamento da reclamação compete ao Superior Tribunal de Justiça”. (fl. 39, Vol. I - grifos no original)
+     Examinados os elementos havidos nos autos, DECIDO.
+    3. Não está configurada a competência deste Supremo Tribunal para o julgamento desta ação.
+     Dispõe-se na al. o do inc. I do art. 102 da Constituição da República:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I – processar e julgar, originariamente:
+    o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal;”.
+    Para se caracterizar a competência deste Supremo Tribunal, é indispensável que esteja em conflito a competência do Superior Tribunal de Justiça ou de Tribunal Superior para o julgamento da ação em que se busca a prestação jurisdicional.
+    4. Não há de se cogitar de conflito de competência entre o Superior Tribunal de Justiça e qualquer outro órgão judiciário a ele vinculado a ensejar a competência deste Supremo Tribunal. Cite-se, a propósito, a Questão de Ordem no Conflito de Competência n. 7.094, de que foi Relator o Ministro Sepúlveda Pertence:
+    “I. Conflito positivo de competência: inexistência de regra, sequer em tese, entre STJ e Tribunais de segundo grau da justiça ordinária, federal ou estadual: jurisprudência do Supremo Tribunal.
+      Embora manifestado entre Tribunais, o dissídio, em matéria de competência, entre o Superior Tribunal de Justiça e um Tribunal de segundo grau da justiça ordinária - não importando se federal ou estadual -, é um problema de hierarquia de jurisdição e não, de conflito: a regra que incumbe o STF de julgar conflitos de competência entre Tribunal Superior e qualquer outro Tribunal não desmente a verdade curial de que, onde haja hierarquia jurisdicional, não há conflito de jurisdição” (Plenário, DJ, 4.5.2001 – grifos nossos).
+    Nesse mesmo sentido:
+    "A instauração de conflito de jurisdição pressupõe, naturalmente, o dissídio de órgãos entre os quais não se identifique um liame de subordinação.
+    Aqui, ao revés, verifica-se a relação de hierarquia, de que, data venia, não se pode eximir o suscitante..." (CC n. 6.627, Relator o Ministro Octavio Gallotti).
+    "I- Hierarquia jurisdicional entre o STJ e os Tribunais de 2º grau, federais e estaduais, já que as decisões destes são submetidas, mediante recurso, à jurisdição do STJ. Sendo assim, não há falar em conflito de jurisdição ou de competência entre o STJ e aqueles Tribunais de 2º grau.
+    II- Conflito de jurisdição não conhecido" (CC n. 6.997, Relator o Ministro Carlos Velloso).
+    A necessidade, para a configuração da competência deste Supremo Tribunal, de se ter no conflito de competência ao menos um dos Tribunais Superiores da União e, de outro lado, que não haja magistrado a ele vinculado, está presente em diversos julgados, dentre os quais:
+    “- Pertence ao Supremo Tribunal Federal a competência para dirimir, originariamente, conflitos de competência Instaurados entre qualquer Tribunal Superior da União e magistrado de primeira instância que não esteja a ele vinculado. Precedentes.” (CC n. 7.027, Relator o Ministro Celso de Mello, DJ 1º.9.1995).
+    “Cabe ao Supremo Tribunal Federal processar e julgar, originariamente, os conflitos de competência entre os Tribunais Superiores da União e os magistrados de primeira instância a eles não vinculados. Inteligência do art. 102, I, o, da Constituição. Precedentes” (CC n. 7.025, Relator o Ministro Celso de Mello, DJ 9.6.1995).
+    Em hipóteses idênticas ao caso em exame, no qual este Supremo Tribunal não se conheceu de conflito suscitado por tribunal estadual contra a Resolução n. 3/2016, do Superior Tribunal de Justiça, cite-se: CC 7.978, de que foi Relator o Ministro Edson Fachin; CC 7.982, de que foi Relator o Ministro Dias Toffoli; CC 7.980, de que foi Relator o Ministro Alexandre de Moraes; CC 7.968, de que foi Relator o Ministro Ricardo Lewandowski, entre outros.
+    Não está caracterizada, portanto, hipótese de cabimento de conflito de competência a ser resolvido por este Supremo Tribunal.
+    5. Pelo exposto, não conheço do presente conflito de competência, determinando a restituição do processo ao tribunal suscitante (§ 1º do art. 21 do Regimento Interno deste Supremo Tribunal Federal e art. 38 da Lei n. 8.038/1990).
+    Publique-se.
+    Brasília, 4 de dezembro de 2018.
+ Ministra CÁRMEN LÚCIA
+Relatora
