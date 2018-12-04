@@ -1,0 +1,54 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. REQUERIMENTO DE INTIMAÇÃO DA INCLUSÃO EM PAUTA DOS ACLARATÓRIOS PARA FINS DE SUSTENTAÇÃO ORAL. INDEFERIMENTO. RECURSO INTEGRATIVO LEVADO A JULGAMENTO EM MESA. PRECEDENTES. OMISSÃO. INEXISTÊNCIA. INOVAÇÃO EM SEDE RECURSAL. TEMA NÃO SUBMETIDO OU ANALISADO PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. REDISCUSSÃO DA MATÉRIA NOS DECLARATÓRIOS. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. "O recurso de embargos de declaração independe de pauta e deve ser apresentado em mesa para julgamento, sequer sendo cabível a sustentação oral. Precedentes desta Corte" (HC 212.544/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/11/2014).
+2. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP.
+3. Não prospera a irresignação do embargante, pois, em verdade, tratar-se de inovação de pedido deduzido em sede de embargos, função para a qual não se prestam os declaratórios. Em função do novo pedido de ser posterior a interposição do recurso ordinário, não foi submetido ao apreciado no acórdão atacado, circunstância que inviabiliza a manifestação desta Corte Superior sobre o tema, vedada a supressão de instância.
+4. Manifesta a intenção do embargante em rediscutir temas já decididos, função para o qual não se mostram cabíveis os embargos de declaração.
+5. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de embargos de declaração nos embargos de declaração opostos por [NOME] contra acórdão de fl. 1091/1097, que ficou assim ementado:
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OMISSÃO EM PARTE. AUSÊNCIA DE RESPOSTA EM RELAÇÃO A UM DOS PEDIDOS DO RECURSO ORDINÁRIO. OCORRÊNCIA. CORREÇÃO DO VÍCIO. INOVAÇÃO EM SEDE RECURSAL. TEMA NÃO SUBMETIDO OU ANALISADO PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE OMISSÃO EM RELAÇÃO DEMAIS ALEGAÇÕES. REDISCUSSÃO DA MATÉRIA NOS DECLARATÓRIOS. INVIABILIDADE. EMBARGOS ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP.
+2. Em relação a alegação de ilegalidade decorrente de gravações em período não autorizado pelo poder judiciário, razão assiste ao embargante, uma vez que o tema não respondido no acórdão atacado. Todavia, constata-se que a tese deduzida no recurso ordinário não foi submetida ou apreciado no acórdão do Tribunal de Justiça do Mato Grosso do Sul. Tratando-se de inovação deduzida somente no recurso ordinário e não analisada pelo Tribunal Estadual, fica impedida a manifestação desta Corte Superior sobre o tema, vedada a supressão de instância.
+3. No tocante a alegada omissão quanto à apontada ilicitude da prova colhida pelo delator diante da ausência de atribuição da Polícia Federal - PF para investigar o crime objeto da denúncia, não há que se falar em omissão no julgado tendo o acórdão embargado manifestado-se expressamente sobre o tema.
+Constata-se, na verdade, é a intenção do embargante em rediscutir temas já decididos, função para o qual não se mostram cabíveis os embargos de declaração.
+4. Embargos de declaração acolhido em parte, sem efeitos infringentes.
+Sustenta o embargante haver omissão quanto à alegação da existência de existir fato relevante e superveniente à impetração em razão do acordo de delação premiada ter sido anulado.
+Requer, preliminarmente, a intimação do embargado da data do julgamento para que o mesmo se manifeste tendo em vista o efeito modificativo que o recurso encerra, sob pena de nulidade.
+No mérito, o provimento dos embargos "para que o mesmo se manifeste e, após conhecidos, sejam providos os embargos de declaração para o fim de reconhecer a existência de fato superveniente, consistente na nulidade do termo de delação premiada firmada entre o Ministério Público e [NOME], decidida no Habeas Corpus n. 2011.035225-7, da Primeira Câmara Criminal do Tribunal de Justiça do Mato Grosso do Sul, situação em que deve ser atribuído efeitos infringentes aos embargos e declarada a nulidade das provas pelo mesmo coletadas" (fl. 1114/1115).
+É o breve relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Em relação ao pedido de intimação da data de julgamento dos embargos de declaração, não há como acolher o pedido.
+Isso porque é pacífico ao entendimento desta Corte no sentido de que "O recurso de embargos de declaração independe de pauta e deve ser apresentado em mesa para julgamento, sequer sendo cabível a sustentação oral. Precedentes desta Corte" (HC 212.544/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/11/2014).
+No mesmo sentido:
+HABEAS CORPUS. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NA INSTÂNCIA ORDINÁRIA. JULGAMENTO EM MESA. OBSERVÂNCIA DO PRAZO LEGAL. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO DA DEFESA. NULIDADE. INOCORRÊNCIA. ORDEM DENEGADA.
+1. O julgamento dos embargos de declaração independe de inclusão em pauta e intimação da data da sessão de julgamento, mediante publicação na imprensa oficial, uma vez que o feito é apresentado em mesa e não cabe a sustentação oral.
+2. Ordem denegada. (HC 448.294/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 02/08/2018)
+PENAL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. NULIDADE DO JULGAMENTO DOS ACLARATÓRIOS POR FALTA DE PRÉVIA INTIMAÇÃO DO DEFENSOR PARA A SESSÃO. ALEGAÇÃO MANIFESTAMENTE IMPROCEDENTE. PREVISÃO REGIMENTAL E LEGAL PARA JULGAMENTO EM MESA. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. JURISPRUDÊNCIA PACÍFICA. CARÁTER PROTELATÓRIO RECONHECIDO. INÍCIO DA EXECUÇÃO PENAL.
+1. O julgamento dos embargos de declaração independe de inclusão em pauta e de intimação da data da sessão de julgamento, mediante publicação na imprensa oficial, uma vez que o feito é apresentado em mesa e não cabe sustentação oral (HC n. 229.593/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/9/2013). O tema é pacífico na jurisprudência desta Corte e do Supremo Tribunal Federal. A título exemplificativo, destaco: AI n. 702.192, Ministra Cármen Lúcia, Primeira Turma, DJe 18/6/2010; EDcl nos EDcl no REsp n. 819.766/RS, Quinta Turma, Ministro Jorge Mussi, DJe 26/4/2010; EDcl na APn n. 247/SP, Ministro Francisco Peçanha Martins, Segunda Turma, DJ 9/2/2004; e EDcl no AgRg no Ag n. 54.180/SC, Ministro Luiz Vicente Cernicchiaro, Sexta Turma, DJ 13/3/1995.
+2. Caracterizado o nítido caráter protelatório da insurgência, não há outra solução senão determinar a imediata execução da pena. Precedentes.
+3. Embargos de declaração rejeitados, com determinação de se dar imediato início à execução da pena imposta, independentemente da publicação do acórdão. (EDcl nos EDcl no AgRg no AREsp 532.041/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 06/11/2014)
+No mérito, é certo que os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP.
+No caso em análise, o embargante sustenta haver omissão em função da ocorrência de fato superveniente ao recurso ordinário, cujo teor tem o condão de modificar o resultado do julgamento e não foi analisado nos primeiros embargos.
+Não prospera a irresignação do embargante, pois, em verdade, tratar-se de inovação de pedido deduzido em sede de embargos, função para a qual não se prestam os declaratórios.
+Além disso, verifica-se que o referido tema, em função de ser posterior a interposição do presente recurso, não foi submetido ao apreciado no acórdão atacado, circunstância que inviabiliza a manifestação desta Corte sobre o tema, vedada a supressão de instância.
+Dessa forma, o que se constata, in casu, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela Quinta Turma, providência para a qual os aclaratórios não se prestam.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. LOCAÇÃO. FIANÇA. INEXISTÊNCIA DE VÍCIO A SER SANADO. FUNDAMENTAÇÃO SUFICIENTE. INCONFORMISMO COM O RESULTADO DO JULGAMENTO. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+Na hipótese em apreço, está evidenciado o intuito dos embargantes em rediscutir a matéria já integralmente decidida pelo aresto embargado, o que não se admite nos estreitos limites do art. 535 do Código Processo Civil - CPC.
+Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 954.305/SP, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 08/06/2016, DJe 14/06/2016)
+Da mesma forma, não se mostram cabível a utilização dos embargos de declaração para fins de prequestionamento de matéria constitucional, sob pena de invasão na competência da Suprema Corte.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE OBSCURIDADE OU CONTRADIÇÃO NO JULGADO. INCOMPATIBILIDADE LÓGICA INTERNA INEXISTENTE. PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Os embargos de declaração, como se infere da sua própria terminologia, supõem defeitos na mensagem do julgado, em termos de omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração, a despeito de valiosas, revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio nesta espécie recursal.
+3. A contradição que enseja o efeito corretivo nos embargos é aquela que pressupõe incompatibilidade lógica entre os fundamentos da decisão, ou entre eles e a conclusão do julgado, o que em absoluto ocorreu.
+4. Esta Corte é firme na compreensão de que são inadmissíveis os embargos de declaração que visem ao prequestionamento de matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+5. Embargos de declaração rejeitados. (EDcl no RHC 68.380/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 16/08/2016)
+Ante todo o exposto, voto no sentido de rejeitar os embargos de declaração nos embargos de declaração.
