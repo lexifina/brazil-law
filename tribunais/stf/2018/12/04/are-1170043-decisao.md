@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de Pernambuco contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. PRESERVAÇÃO DO DIREITO À VIDA E À SÁUDE. DEVER DO IRH. COBERTURA DE ASSISTÊNCIA MÉDICO-HOSPITALAR. IMPLANTAÇÃO DE ‘STENTS’ FARMACOLÓGICOS. RECUSA INDEVIDA. APLICAÇÃO DA SÚMULA Nº 11 DESTA CORTE DE JUSTIÇA. DANOS MORAIS E MATERIAIS CONFIGURADOS. ENTENDIMENTO PACIFICADO. INCIDÊNCIA DA SÚMULA Nº 35 DO TJPE. MANUTENÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL. CONDENAÇÃO DA FAZENDA PÚBLICA EM CUSTAS PROCESSUAIS. POSSIBILIDADE. APELO IMPROVIDO. DECISÃO UNÂNIME. (…).”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusulas contratuais, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    Impende assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.016.345/PE, Rel. Min. ROSA WEBER – ARE 1.101.707/PE, Rel. Min. EDSON FACHIN, v.g.):
+    “DIREITO DO CONSUMIDOR. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. CONTROVÉRSIA INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. REEXAME DE CLÁSULAS CONTRATUAIS. SÚMULA 454/STF.
+    1. A solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso, o reexame do conjunto fático-probatório dos autos, assim como a revisão do contrato celebrado entre as partes, o que torna inviável o processamento do recurso extraordinário. Precedentes.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 836.093-AgR/DF, Rel. Min. ROBERTO BARROSO)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. COBERTURA DE PLANO DE SAÚDE: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO, DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 891.306-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 04 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
