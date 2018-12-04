@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito de competência com pedido de liminar, em que é suscitante MENDO SAMPAIO S.A., em recuperação judicial, e suscitados, o JUÍZO FEDERAL DA 5ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE ALAGOAS e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE MACEIO - AL, onde tramita a recuperação judicial.
+A suscitante informa que ajuizou pedido de recuperação na Justiça comum de Alagoas, o qual foi deferido em 2/10/2013.
+Aduz que, após o deferimento do juizo da recuperação, realizou a alienação de sete fazendas de sua propriedade.
+Destaca que tramita em seu desfavor a execução fiscal n. 0001263-89.1996.4.05.8000 (e-STJ fls. 5/6):
+(..) que tem como objeto a cobrança de crédito previdenciário representado pela inscrição em Dívida Ativa DEBCAD nº 31.488.605-2, no valor de R$ 3.054.706,24 (três milhões, cinquenta e quatro mil, setecentos e seis reais e vinte e quatro centavos), cuja cópia segue em anexo (DOC.11).
+Na referida Execução Fiscal, em 05/07/2007, foi realizada a penhora da Fazenda da Suscitante denominada Utinga, com o fito de garantir a Execução Fiscal. A Fazenda está avaliada no valor total de R$ 19.017.000,00 (dezenove milhões e dezessete mil reais) (Vide doc.11), conforme auto de penhora e avaliação abaixo, vejamos:
+(..)
+Concomitantemente, a Fazenda Nacional também ajuizou a Execução Fiscal tombada sob o nº 0005874- 46.2000.4.05.8000, datada de 15/09/2000, em desfavor da Suscitante.
+Na referida ação foram penhoradas 07 (sete) fazendas de propriedade da Suscitante, quais sejam: (i) Barrocão, (ii) [NOME], (iii) Andorinha Rosa, (iv) Saudade, (v) Andorinha de Baixo, (vi) Olho D"Água e (vii) Utinga.
+Apenas a titulo de informação, a Suscitante esclarece que as fazendas penhoradas no bojo da Execução Fiscal nº 0005874- 46.2000.4.05.8000, são exatamente as mesmas propriedades cuja alienação foi autorizada pelo Juízo Recuperacional na decisão proferida em 28/07/2016 (vide doc. 09).
+O fato é que nos autos da Execução Fiscal nº 0005874- 46.2000.4.05.8000, a Suscitante apresentou petição em 27/10/2015 (DOC. 12), requerendo a reunião da demanda com outros processos, dentre eles, a Execução Fiscal nº 0001263-89.1996.4.05.8000 (vide doc. 11), já tratada anteriormente e também movida pelo INSS.
+Na mesma petição, a Suscitante também requereu a substituição da penhora realizada nas 7 (sete) Fazendas (i) Barrocão, (ii) [NOME], (iii) Andorinha Rosa, (iv) Saudade, (v) Andorinha de Baixo, (vi) Olho D"Água e (vii) Utinga, pela penhora de uma única propriedade, denominada "Fazenda Pecó", sob argumento de que o valor do referido imóvel é capaz de garantir todas as execuções movidas pelo INSS (que foram objeto do pedido de reunião destacado no parágrafo anterior) (vide doc.12).
+Informa que a justiça federal indeferiu a reunião dos processos e deferiu o pedido de liberação das constrições das fazendas, acolhendo a penhora de uma única propriedade, a Fazenda Pecó.
+Relata que o INSS requereu a substituição da penhora realizada na Fazenda Pecó para recair na Fazenda Horizonte ou Plateia, pedido que foi deferido. No entanto (e-STJ fls. 8/9):
+(..) a Fazenda "Horizonte ou Plateia", penhorada nos autos da Execução Fiscal nº 0001263-89.1996.4.05.8000, já fora afetada por decisão proferida pelo Juízo Universal da Recuperação Judicial, que desde 2016 determinou a alienação do referido imóvel (vide Doc. 10).
+É evidente, portanto, que não poderia o Juízo Federal Suscitado ter determinado a penhora sobre o referido imóvel, haja vista que conflita com a decisão proferida pelo Juízo Universal (1ª Vara Cível de Maceió/AL), único competente para promover os atos de execução do patrimônio da empresa.
+Destarte, a decisão que determinou a substituição da penhora da Fazenda Pecó, pela Fazenda Horizonte ou Plateia (vide. Doc. 10), acaso mantida, inviabilizará o negócio jurídico firmado com a Usina Caeté S/A, e, certamente, comprometerá o fluxo de caixa da Suscitante, bem como, o pagamento de seus funcionários, fornecedores e credores concursais.
+Postula, em caráter liminar, suspensão dos atos de constrição proferidos na execução n. 0001263-89.1996.4.05.8000, até o julgamento definitivo do presente conflito e, no mérito, o reconhecimento da competência exclusiva do Juízo da recuperação judicial.
+Liminar deferida às fls. 1.527/1.529 (e-STJ).
+Parecer do Ministério Público Federal pela competência do Juízo da recuperação, nos seguintes termos (e-STJ fl. 1.550):
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO FEDERAL. RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ART. 6º, § 2º, DA LEI Nº 11.101/2005.
+- Parecer pelo conhecimento do conflito, declarando-se a competência do Juízo de Direito da 1ª Vara Cível da Maceió - AL.
+É o relatório.
+Decido.
+Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse precisamente o caso dos autos, em que se busca fixar o juízo competente para processar atos executivos contra o patrimônio de empresa em recuperação judicial.
+Com efeito, a jurisprudência do STJ é pacífica quanto ao tema, afirmando que, "com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, ainda que tenha ocorrido a constrição de bens do devedor" (AgRg n. CC n. 127.629/MT, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 25/4/2014). Ainda nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO NO ÂMBITO TRABALHISTA. NATUREZA FISCAL. DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. ART. 6º, § 7º, DA LEI Nº 11.101/05, COM A RESSALVA NELE PREVISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DO DEVEDOR OU EXCLUAM PARTE DELE DO PROCESSO DE RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 97 DA CF E DE DESRESPEITO À SÚMULA VINCULANTE N. 10/STF.
+1. "Apesar de a execução fiscal não se suspender em face do deferimento do pedido de recuperação judicial (art. 6º, §7º, da LF n. 11.101/05, art. 187 do CTN e art. 29 da LF n. 6.830/80), submetem-se ao crivo do juízo universal os atos de alienação voltados contra o patrimônio social das sociedades empresárias em recuperação, em homenagem ao princípio da preservação da empresa." (CC 114987/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/03/2011, DJe 23/03/2011).
+(..)
+3. Agravo regimental não provido.
+(AgRg no CC n. 123.228/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/6/2013, DJe 1º/7/2013.)
+CONFLITO DE COMPETÊNCIA. AGRAVO. EXECUÇÃO FISCAL. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS EXPROPRIATÓRIOS NO JUÍZO DA AÇÃO EXECUTIVA. IMPOSSIBILIDADE.
+- As execuções fiscais ajuizadas em face da empresa recuperanda não se suspenderão em virtude do deferimento do processamento da recuperação judicial.
+- Todavia, embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto mantida essa condição. Na hipótese, a aplicação literal do art. 6º, § 7º, da Lei 11.101/05 conduziria à inibição do cumprimento do plano de recuperação previamente aprovado e homologado.
+- Agravo não provido.
+(AgRg no CC n. 119.970/RS, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/11/2012, DJe 20/11/2012.)
+Assim, embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto mantida essa condição. A providência evita o eventual comprometimento do sucesso do plano de recuperação pelas decisões prolatadas no Juízo da execução individual, preservando, assim, o princípio da continuidade da empresa, previsto no artigo 47 da Lei de Recuperação Judicial.
+Diante do exposto, CONHEÇO do presente conflito positivo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE MACEIO - AL, para apreciar os atos executivos que incidam sobre o patrimônio sujeito à recuperação judicial.
+Publique-se e intimem-se.
