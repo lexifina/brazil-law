@@ -1,0 +1,25 @@
+DECISÃO
+1. Trata-se de agravo interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Rio Grande do Sul, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+APELAÇÃO CÍVEL. SEGURO DE VIDA. AUMENTO DO PRÊMIO EM RAZÃO DA FAIXA ETÁRIA DO SEGURADO. ABUSIVIDADE. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+Da lei processual aplicável ao presente feito
+1. No caso em exame a decisão recorrida foi publicada após 17/03/2016. Assim, em se tratando de norma processual, há a incidência da legislação atual, na forma do art. 1.046 do Código de Processo Civil de 2015.
+Da prescrição do direito de ação
+2. Lide versando sobre a nulidade de cláusula que prevê o aumento do prêmio securitário em razão da idade do segurado, sendo que o prazo prescricional para esta espécie de relação jurídica é de um ano, conforme alude o art. 206, § 1º, inciso II, da legislação civil vigente, pois a ação em exame versa sobre o pagamento de indenização securitária.
+3. No caso em exame, cumpre destacar que o contrato de seguro de vida objeto do presente litígio tem renovação automática a cada ano.
+Assim, estando o mesmo em plena vigência, pode a parte contratante discutir as sua cláusulas em juízo, bem como postular a manutenção do pacto nos termos em que originariamente contratado, ante a imposição levada a efeito pela seguradora de aderir a nova contratação, sob pena de rescisão do contrato firmado entre as partes.
+4. Assim, não ultrapassado o lapso anual quanto ao exercício do direito de ação, resta afastada a prefaciai de prescrição.
+Mérito do recurso em exame
+5. O objeto principal do seguro é a cobertura do risco contratado, ou seja, o evento futuro e incerto que poderá gerar o dever de indenizar por parte da seguradora. Outro elemento essencial desta espécie contratual é a boa-fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes.
+6. A relação jurídica de seguro está submetida às disposições do Código de Defesa do Consumidor, enquanto relação de consumo atinente ao mercado securitário.
+7. A cláusula contratual que determina o acréscimo no prêmio, não indica os critérios utilizados para determinar o reajuste em valor tão vultoso. Previsão de aumentos que rompeu com o equilíbrio contratual, princípio elementar das relações de consumo, a teor do que estabelece o artigo 4Q, inciso III, do CDC, inviabilizando a continuidade dos contratos a segurados nessa faixa etária.
+8. O consumidor tem o direito de prever qual será a amplitude do aumento dos preços, que deve ser realizado de forma eqüitativa entre os contraentes, em especial nos contratos de prestações sucessivas, como é o caso dos autos. Nessa seara, com base no artigo 51, incisos IV, X e XV, § 1Q, do CDC, reconhece-se a impropriedade do aumento da mensalidade por implemento de idade, nos moldes em que definidos pela seguradora.
+9. Dessa forma, como não foram indicados os critérios utilizados para determinar o reajuste em valor tão expressivo, manter o contrato na forma em que fora pactuado antes da alteração de plano é à medida que se impõe.
+10. Os reajustes definidos pela ANS não se aplicam ao caso em exame, uma vez que se trata de seguro de vida fiscalizado e regulado pela SUSEP.
+Dos honorários recursais 11. Honorários recursais devidos a parte que obteve êxito neste grau de jurisdição, independente de pedido a esse respeito, devido ao trabalho adicional nesta instância, de acordo com os limites fixados em lei. Inteligência do art. 85 e seus parágrafos do novel Código de Processo Civil.
+Afastada a prefaciai de prescrição e, no mérito, negado provimento ao apelo.
+Nas razões do especial, alega-se violação do art. 178, § 6º, II, do Código Civil/16 e art. 206, § 1º, II, "b", do Código Civil/02.
+Decido.
+2. Observa-se que esta Corte Superior não se defrontou, ainda, com a tese engendrada pela recorrente, no sentido de que é anual o prazo da prescrição em todas as pretensões que envolvam segurado e segurador, independentemente da extensão do pedido formulado.
+Nota-se, ademais, que a Segunda Seção, por unanimidade, admitiu o incidente de assunção de competência proposto, de ofício, por este relator, no Resp 1.303.374-ES, nos termos dos artigos 947, § 4º, do CPC de 2015, e 271-B do RISTJ, a fim de uniformizar o entendimento acerca de tema tratado nestes autos: "prazo anual de prescrição em todas as pretensões que envolvam interesses de segurado e segurador em contrato de seguro".
+3. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
