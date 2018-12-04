@@ -1,0 +1,19 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. DCTF. PRESCRIÇÃO. DECLARAÇÃO RETIFICADORA. ARTIGO 174, PARÁGRAFO ÚNICO, IV DO CTN. INTERRUPÇÃO DA PRESCRIÇÃO QUE NÃO SE APLICA À ESPÉCIE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO. AGRAVO DO PARTICULAR NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 3a. Região, assim ementado:
+AGRAVO. DECISÃO MONOCRÁTICA. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO PARCIAL DOS CRÉDITOS.
+I- Nos termos do caput e §1º-A, do art. 557, do Código de Processo Civil e da Súmula 253/STJ, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento ao recurso e ao reexame necessário, nas hipóteses de pedido inadmissível, improcedente, prejudicado ou em confronto com a jurisprudência dominante da respectiva Corte ou de Tribunal Superior.
+II- A decisão monocrática está em absoluta consonância com o entendimento do Colendo Superior Tribunal de Justiça.
+III - Os débitos constantes na DCTF 0000.100.2001.80455132, entregue em 22.01.01 não foram alcançados pela prescrição, porquanto a interrupção do prazo prescricional na data do despacho de citação, retroagiu data da propositura da execução fiscal, ocorrida em 16.01.06. Outrossim, os demais débitos sobre os quais se funda a pretensão recursal da Agravante, foram alcançados pela prescrição anteriormente ao ajuizamento da execução fiscal.
+V - Agravos legais improvidos (fls. 396).
+2. Em seu recurso excepcional, sustenta a parte recorrente violação dos arts. 142, 150, 174, parág. único, IV do CTN, argumentando que a apresentação da declaração pelo sujeito passivo corresponde a confissão de dívida a ensejar a interrupção do prazo prescricional.
+3. Contrarrazões apresentadas (fls. 436/465).
+4. O recurso da Fazenda Pública foi admitido pelo Tribunal de origem (fls. 509/510) e inadmitido o do particular (fls. 503/508).
+5. Em Agravo apresentado às fls. 512/553, o particular impugna o fundamento quanto a violação do art. 535 do CPC/1973 e da não aplicação da Súmula 7/STJ quanto à incidência da Súmula 106/STJ.
+6. É o breve relatório.
+7. A Primeira Seção do STJ, em sede de recurso especial repetitivo (art. 543-C do CPC/1973), consolidou o entendimento de que, nos tributos sujeitos a lançamento por homologação, a apresentação de Declaração de Débitos e Créditos Tributários Federais - DCTF, de Guia de Informação e Apuração do ICMS - GIA, ou de outra declaração dessa natureza prevista em lei, é suficiente para a cobrança dos valores nela declarados, dispensando-se qualquer outra providência por parte do Fisco (REsp. 962.379/RS, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 28.10.2008.
+8. No caso, não há reconhecimento de débito tributário pela simples entrega de declaração retificadora, pois o contribuinte já reconheceu os valores constantes na declaração original quando constituiu o crédito tributário. A declaração retificadora, tão somente, corrigiu equívocos formais da declaração anterior, não havendo que se falar em aplicação do artigo 174, parágrafo único, IV, do CTN.
+9. Quanto ao Agravo do particular, observa-se que a decisão que inadmitiu sem Apelo teve como fundamento: (i) impossibilidade de análise de dispositivos constitucionais; (ii) ausência de violação do art. 535 do CPC/1973; e (iii) aplicação da Súmula 7/STJ para análise da incidência da Súmula 106/STJ.
+10. Contudo, não impugnou o fundamento da impossibilidade de análise de dispositivos constitucionais, o que atrai a incidência da Súmula 182/STJ, segundo a qual, é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+11. Ante o exposto, nega-se provimento ao Recurso Especial da Fazenda Nacional. Agravo do Particular não conhecido.
+12. Publique-se. Intimações necessárias.
