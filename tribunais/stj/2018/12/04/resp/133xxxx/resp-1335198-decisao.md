@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com arrimo nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão assim ementado (fls. 281):
+"EMBARGOS À EXECUÇÃO. CONTRATO DE CESSÃO DE COTAS DE SOCIEDADE COMERCIAL. IMÓVEL PENHORADO. JULGAMENTO IMPROCEDENTE.
+1. A competência é desta Subseção DP-II, pois, havendo título executivo extrajudicial, torna-se irrelevante a natureza da matéria nele contida (Conflito de Competência 990.10.494929-7, de 17/112010, relator Desembargador Ruy Coppola; Dúvida de Competência nº 181.511-0/4-00, Desembargador Corrêa Vianna, j. 07/10/2009).
+2. Mesmo sem ter havido nomeação de curador especial ao devedor, tal fato não invalida a execução, em razão dá existência de ampla oportunidade de defesa nos autos à parte executada, tendo apresentado o presente embargos do devedor; que a inicial está fundada em regular título executivo e apta a produzir seus efeitos em razão de conter todos os requisitos preceituados no artigo 282, do CPC, havendo pedido e causa de pedir regulares, e ainda, entendeu estar presente o interesse processual e que a compensação não deveria prevalecer em razão de que não veio precedida de substrato contratual.
+3. Não há prova de pagamentos feitos com relação ao débito executado, não se denotando invalidades no contrato firmado, não havendo ainda outra nulidade de qualquer origem na execução. Sentença mantida.
+Recurso improvido."
+Nas razões do apelo nobre alega-se que violação aos arts. 9º, II e 125 do CPC/73 ao argumento, entre outros, de que "(..) a nomeação de curador especial, então, é imperativa, cogente, porque sobre a citação ficta (seja por hora certa, seja pela via editalícia) pesa a presunção de que poderá o réu não ter sido efetivo conhecimento da existência da demanda. Visa, então a garantir o contraditório efetivo e real quando não se tem certeza de que o réu tem ciência da açaõ em face dele aforada. Daí, decorrer, destarte, se tratar de múnus público imposto com vistas a preservar o direito de defesa, consubstanciando bilateralidade do processo" (fls. 294).
+Intimado, [NOME] apresentou contrarrazões (fls. 307-311), pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Na espécie, tem-se que o conteúdo normativo do art. 125 do CPC/73 não foi apreciado pelo eg. Tribunal a quo, acarretando a ausência de prequestionamento desse dispositivo legal. Ademais, não foram opostos embargos de declaração para fins de prequestionar essa norma. Nesse diapasão, nessa parte o apelo nobre não merece conhecimento, em face da incidência, por analogia, do óbice das Súmulas n. 282 e n. 356 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp 1208802/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO. ARTS. 6º DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO E 4º, PARÁGRAFO ÚNICO, DA LEI N. 8.955/94. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONTRATO DE FRANQUIA. RESCISÃO. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. A ausência de prequestionamento de dispositivos legais tidos por violados impede o conhecimento do recurso especial. Incidem as Súmulas n. 282 e 356 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 234.398/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018 - grifou-se)
+Melhor sorte não socorre ao recurso no que pertine à alegada ofensa ao art. 9, II, do CPC/73. Com efeito, o eg. TJ-SP assentou que apesar de não nomeado o referido curador especial, não houve prejuízo ao ora recorrente, pois apresentou defesa - embargos de devedor - os quais foram devidamente julgados -, prevalecendo, no sistema processual pátrio, o princípio da instrumentabilidade das forma. A título elucidativo, colhe-se o seguinte excerto do v. acórdão estadual (fls. 284-285):
+ "O e. Magistrado singular, Dr. [NOME] julgou improcedentes os embargos à execução, salientando que ainda que não tenha havido nomeação de curador especial ao devedor, tal fato não invalida a execução, em razão da existência de ampla oportunidade de defesa nos autos à parte executada, tendo apresentado o presente embargos do devedor; que a inicial está fundada em regular título executivo e apta a produzir seus efeitos em razão de conter todos os requisitos preceituados no artigo 282, do CPC havendo pedido e causa de pedir regulares, e ainda, entendeu estar,presente o interesse processual e que a compensação não deveria prevalecer em razão de que não veio precedida de substrato contratual.
+ Registrou o Julgador, que não há prova de pagamentos feitos com relação ao débito executado, não se denotando invalidades no contrato firmando, não havendo ainda outra nulidade de qualquer origem na execução.
+ O sistema processual é informado pelo princípio da instrumentalidade das formas, por isso que somente a nulidade que sacrifica os fins de justiça do processo deve ser declarada ("pas de nullité sans grief"). Precedentes: REsp 1.157.788/MG, Min. BENEDITO GONÇALVES, DJe 11/05/2010; AgRg no RÉsp 1.157.760/MT, Min. HERMAN BENJAMIN, DJe 04/03/2010, REsp 1.129.574/MG, Min. CASTRO MEIRA, DJe 29/04/2010, REsp,983.155 / SC, Min. ELIANA CALMON, DJe 01/09/2008.
+ E a improcedência veio forte no argumento de que: aA compensação no presente caso não pode prevalecer, pois não veio precedida de substrato contratual asseverando-se que na compensação tem natureza jurídica de contrato e por tal razão deve estar inserida em uma convenção com concordância da parte contrária, o que não se verifica nesta hipótese dos autos. Ademais, não há prova de pagamentos feitos com relação ao débito executado, não se denotando invalidades no contrato firmado, não havendo ainda outra nulidade de qualquer origem na execução".
+ Outros fundamentos são dispensáveis diante da adoção integral dos que foram deduzidos na r. sentença, e aqui expressamente adotados para evitar inútil e desnecessária repetição, nos termos do artigo 252 do Regimento Interno deste Egrégio Tribunal de Justiça." (grifou-se)
+Por sua vez, o fundamento supra destacado, autônomo e suficiente para manter o v. acórdão estadual não foi impugnado nas razões do recurso especial. Nesse cenário, tem-se que o apelo nobre esbarra na Súmula n. 283/STF, pois não infirmou fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PERSONALIDADE JURÍDICA.DESCONSIDERAÇÃO. CITAÇÃO. NULIDADE. PRIMEIRO RÉU. CITAÇÃO POR EDITAL. LOCAL INCERTO. REEXAME. SÚMULA N. 7/STJ. SEGUNDO RÉU. COMPARECIMENTO ESPONTÂNEO. IMPUGNAÇÃO. SÚMULA N. 283/STF. FRAUDE CARACTERIZADA. INTENÇÃO DE NÃO PAGAR CREDORES. IMPUGNAÇÃO. ARTIGO 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A ausência de impugnação a fundamento bastante do acórdão estadual atrai o óbice de que trata o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+(..)
+4. Agravo interno não conhecido."
+(AgInt no REsp 1574437/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+(..)
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+6. Agravo interno a que se nega provimento, com majoração de honorários sucumbenciais."
+(AgInt no AREsp 1034507/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/08/2017, DJe 05/09/2017 - grifou-se)
+Finalmente, pela alínea "c" do permissivo constitucional, o recurso tampouco merece guarida, uma vez que o ora recorrente não realizou o cotejo analítico entre os vv. acórdãos em comparação, limitando-se a transcrever cópia de ementas. No entanto, a uníssona jurisprudência desta eg. Corte firmou-se no sentido de que a mera transcrição de ementas não é suficiente para a comprovação da divergência jurisprudencial.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMINATÓRIA. PLANO DE SAÚDE. CUSTEIO DO TRATAMENTO DO SEGURADO. RECUSA. NATUREZA ABUSIVA. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1118727/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/08/2017, DJe 06/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ERRO DE CÁLCULO. REVISÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+(..)
+3. A demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Agravo interno não provido."
+(AgInt no AREsp 978.980/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 15/08/2017 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 255, § 4º, I, do RI-STJ, não conheço do recurso especial.
+Publique-se.
