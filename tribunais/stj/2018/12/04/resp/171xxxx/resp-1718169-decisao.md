@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJRS assim ementado (e-STJ fl. 160):
+APELAÇÃO CÍVEL. CONTRATOS DE CARTÃO DE CRÉDITO. AÇÃO INDENIZATÓRIA. DANOS MORAIS. HONORÁRIOS ADVOCATÍCIOS.
+MAJORAÇÃO. IMPOSSIBILIDADE.
+Ainda que considerados descabidos os descontos operados pela administradora de cartões, referentes a "seguro perda e roubo" e "seguro conta paga família", conforme sentença da ação anteriormente ajuizada, subsiste o inadimplemento da fatura levada a registro.
+Logo, não restou demonstrado nos autos a existência de conduta ilícita adotada pela parte ré que, ao realizar o cadastro negativo, agiu em exercício regular do direito.
+In casu, como não houve recurso do réu, não há como agravar a situação da parte recorrente, sob pena de incorrer em "reformatio in pejus", devendo ser mantida a sentença que julgou procedente a presente ação e fixou a indenização no valor de R$ 1.000,00 (mil reais), bem como a sucumbência arbitrada na origem, cujos valores não comportam majoração, pois sequer seriam devidos caso o requerido tivesse apelado.
+APELAÇÃO DESPROVIDA.
+Nas razões apresentadas (e-STJ fls. 184/193), a recorrente aponta, além do dissídio jurisprudencial, ofensa ao art. 6º, VI, do CDC e à Súmula n. 54 do STJ, sustentando, em síntese, ser irrisório o valor fixado a título de danos morais na importância de R$ 1.000,00 (mil reais), além de pleitear a incidência dos juros moratórios desde a época do evento danoso.
+Foram apresentadas contrarrazões (e-STJ fls. 207/222).
+O recurso foi admitido na origem (e-STJ fls. 245/249).
+É o relatório.
+Decido.
+Não houve pronunciamento do Tribunal a quo sobre a questão dos juros moratórios, nem foi instado a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Além disso, em relação à suposta afronta à Súmula n. 54/STJ, segundo a jurisprudência deste Tribunal, é incabível a interposição de recurso especial com fundamento em violação de súmula, por não se enquadrar no conceito de lei federal, a teor do que dispõe o art. 105, III, da CF.
+Por outro lado, conforme entendimento pacífico do STJ, a modificação do valor arbitrado a título de danos morais é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016 e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016), permitindo, assim, o afastamento do óbice da Súmula n. 7/STJ para possibilitar sua revisão. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE DO BANCO. ENDOSSO-MANDATO. PROTESTO INDEVIDO. CONDUTA CULPOSA.
+DUPLICATA SEM ACEITE E SEM COMPROVANTES DE ENTREGA DA MERCADORIA OU DO SERVIÇO PRESTADO. DANO MORAL. PROTESTO INDEVIDO. DANO IN RE IPSA. REVISÃO DE VALOR. SÚMULA 7/STJ. INCIDÊNCIA.
+(..)
+3. Acrescente-se que a revisão do julgado, no sentido de que o protesto era devido, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. A jurisprudência desta Corte é firme no sentido da desnecessidade, em hipóteses como a dos autos, de comprovação do dano moral, que decorre do próprio fato da inscrição indevida em órgão de restrição ao crédito, operando-se in re ipsa.
+5. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Desse modo, uma vez que o valor estabelecido a título de reparação por danos morais não se apresenta ínfimo ou exagerado, à luz dos critérios adotados por esta Corte, a sua revisão fica obstada pelo enunciado da Súmula 7 do STJ.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 179.301/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2012, DJe 18/12/2012.)
+O Tribunal a quo, considerando as peculiaridades do caso em questão, em especial a ausência de conduta ilícita da instituição financeira, manteve o valor da indenização fixado na origem em R$ 1.000,00 (mil reais) - para evitar a reformatio in pejus -, quantia que não se afigura excessiva tampouco discrepante a ponto de ensejar a intervenção deste Superior Tribunal.
+Destaca-se, ainda, que "o STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgRg no AREsp n. 515.363/PB, de minha Relatoria, QUARTA TURMA, julgado em 23/9/2014, DJe 30/9/2014). Dessa forma:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. DANO MORAL. REVISÃO DO VALOR. MONTANTE RAZOÁVEL. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE. 3. AGRAVO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a modificação da indenização por danos morais somente é admissível quando o montante estabelecido na origem for excessivo ou irrisório, de forma a violar os princípios da proporcionalidade e da razoabilidade. Na espécie, o Tribunal de Justiça diminuiu a verba indenizatória para o patamar de R$ 10.000,00 (dez mil reais), tendo em vista, em especial, o porte econômico da empresa recorrida. Desse modo, inviável alterar o valor fixado sem esbarrar na redação do enunciado n. 7 da Súmula desta Casa. Precedentes.
+2. Ademais, "tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos" (AgRg no AREsp n. 528.943/MS, Relator o Ministro João Otávio de Noronha, DJe 30/9/2014).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 592.848/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/12/2014, DJe 15/12/2014.)
+Ante o exposto, NEGO PROVIMENTO do recurso especial.
+Publique-se e intimem-se.
