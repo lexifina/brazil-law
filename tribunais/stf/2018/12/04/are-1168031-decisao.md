@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado do Amazonas, ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL – AÇÃO DE IMPROBIDADE ADMINISTRATIVA – COMPROVAÇÃO DE DOLO – NECESSIDADE – DANO AO ERÁRIO – INEXISTÊNCIA.
+    Além da existência de prejuízo ao erário e suposto enriquecimento lícito, a jurisprudência pátria dominante tem exigido também a presença de dolo, isto é, o intuito de prejudicar o bem público e de se beneficiar por meio de tal prejuízo como requisito para a constatação de improbidade administrativa.
+    Falhando o autor em trazer elementos que comprovem o dolo – qualificando a ilegalidade apontada como ato ímprobo, deve ser julgada improcedente a ação de improbidade administrativa.
+    RECURSO CONHECIDO E IMPROVIDO”. (eDOC 4, p. 70).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 37, caput, §4º e art. 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se, inicialmente, violação ao dever de motivação das decisões judiciais. Sustenta-se ainda que os atos praticados pela recorrida, enquanto gestora da MANAUSTUR, teriam violado os princípios da legalidade, moralidade e eficiência, além de ter causado dano ao erário.
+    Aduz ainda, que o acórdão proferido pelo Juízo a quo não enfrentou todos os pontos levantados em sede de apelação, além disso, não considerou a previsão contida nos arts. 10 e 11 da Lei 8.429/92.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que não restou comprovados nem dolo, nem enriquecimento ilícito da recorrida a dar ensejo à sua condenação por improbidade administrativa.
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “IREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE IMPROBIDADE. DOLO. EXISTÊNCIA. SÚMULA 279/STF. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. Hipótese em que a resolução da controvérsia demanda o reexame da lei de improbidade administrativa e do conjunto fático-probatório dos autos (Súmula 279/STF), procedimento inviável nesta fase recursal. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de unanimidade da decisão”. (ARE 979587 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.2.2017).
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Improbidade. Prequestionamento. Ausência. Proporcionalidade e razoabilidade das sanções impostas. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. Processamento e julgamento de prefeitos por atos de improbidade administrativa com base na Lei 8.429/92. Repercussão geral reconhecida. Mantida a decisão em que se determinou o retorno dos autos à origem. 1. Não se admite o apelo extremo quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. É inviável, em recurso extraordinário, o reexame da legislação infraconstitucional e do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Manutenção da decisão mediante a qual, com base no art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, se determinou a devolução dos autos ao Tribunal de origem para a aplicação da sistemática da repercussão geral. 4. Agravo regimental não provido”. (ARE 1053857 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 7.5.2018).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem (eDOC 4, p. 3), deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 4 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
