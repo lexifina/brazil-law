@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado do Paraná que não admitiu o recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Embora tempestivo, o agravo não deve ser conhecido, uma vez que o agravante deixou de infirmar a decisão ora agravada de maneira fundamentada, notadamente quanto à incidência da Súmula n. 284/STF.
+Assim, não havendo impugnação específica acerca dos fundamentos da decisão questionada, deve ser aplicado, por analogia, o enunciado sumular n. 182 do Superior Tribunal de Justiça.
+Nesse sentido, confira-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Embargos de declaração opostos com caráter infringente, que devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+3. Não tendo decorrido lapso temporal superior a 4 anos, entre os marcos temporais interruptivos, não há falar-se em prescrição da pretensão punitiva.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp 614.968/SP, Rel. Ministro NEFI CORDEIRO, DJe 29/02/2016, grifei.)
+Outrossim, verifico que a defesa interpôs recurso especial, alegando a ocorrência da prescrição e a nulidade da citação editalícia e pleiteando o reconhecimento do arrependimento eficaz.
+O recurso está amparado apenas no art. 563 do Código de Processo Penal, segundo o qual " n enhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+Ocorre que o apelo nobre se revela deficiente quanto à fundamentação, visto que esse artigo não contém comando normativo suficiente para embasar a tese recursal e para reformar os fundamentos do acórdão recorrido. Dessa forma, incide o óbice da Súmula n. 284/STF.
+A propósito:
+PENAL. RECURSO ESPECIAL. FACILITAÇÃO DE DESCAMINHO. ART. 619 DO CP. ARGUMENTAÇÃO DE VIOLAÇÃO GENÉRICA. SÚMULA N. 284 DO STF. LUGAR DO CRIME. COMPETÊNCIA RELATIVA. DELAÇÃO ANÔNIMA. VALIDADE DESDE QUE CORROBORADA POR OUTROS ELEMENTOS DE INFORMAÇÃO. REVISÃO DA VEROSSIMILHANÇA. SÚMULA N. 7 DO STJ. INTERCEPTAÇÃO TELEFÔNICA. VIOLAÇÃO GENÉRICA À LEI FEDERAL, SEM ESPECIFICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA Nº 284 DO STF. QUEBRA DE SIGILO FISCAL, CONDUÇÃO DO INQUÉRITO PELO MINISTÉRIO PÚBLICO E EXCESSO DAS AUTORIDADES POLICIAIS. MATÉRIAS NÃO ANALISADAS NA ORIGEM. SÚMULA N. 282 DO STF. INTERCEPTAÇÃO TELEFÔNICA. TESE DE QUE A PROVA PODIA SER REALIZADA POR OUTROS MEIOS. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL QUE PRETENDE DISCUTIR, AMPLAMENTE, VIOLAÇÕES NÃO ANALISADAS PELO ACÓRDÃO RECORRIDO. SÚMULA N. 352 DO STF. ART. 318 DO CP. CRIME FORMAL QUE PRESCINDE DO RESULTADO MATERIAL DO DESCAMINHO. PROVA DA AUTORIA DELITIVA E DOLO. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL QUE NÃO ATACOU TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STJ. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. FLAGRANTE ESPERADO. RECURSOS NÃO PROVIDOS. PEDIDO DE RESTITUIÇÃO DE DOCUMENTOS DEFERIDO.
+1. A alegação genérica de que o acórdão não indicou expressamente "alguns dispositivos questionados pela defesa", sem especificar quais seriam eles, atrai o óbice da Súmula n. 284 do STF. Destarte, consoante entendimento desta Corte Superior, não é necessária a indicação numérica dos preceitos legais se o acórdão enfrenta a questão federal controvertida.
+ ..
+19. Consoante entendimento desta Corte Superior, é deficiente a fundamentação recursal quando os dispositivos federais apontados como violados não possuem pertinência normativa suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai a incidência da Súmula n. 284 do STF.
+ ..  (REsp 1304871/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/06/2015, DJe 01/07/2015, grifei.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
