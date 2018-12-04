@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa ao artigo de lei indicado e (b) aplicação das Súmulas n. 7 e 126 do STJ (e-STJ fls. 193/194).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 117):
+CUMPRIMENTO DE SENTENÇA. Bloqueio online de valores. Alegação de que a constrição recaiu sobre proventos de aposentadoria. Impenhorabilidade. Inocorrência. A proteção conferida pelo art. 649, IV do CPC/73 (art. 833 do CPC/15) não é absoluta, devendo ser interpretada com base na proporcionalidade. Agravante que não fez prova mínima sobre o prejuízo concreto decorrente do bloqueio, tampouco de que sua aposentadoria seria a única fonte de renda atual. Cumprimento de sentença iniciado há mais de 2 anos, sem que o crédito da agravada, no total de R$ 192.013,91, tenha sido satisfeito. Decisão mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 145/147).
+Nas razões do recurso especial (e-STJ fls. 149/174), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente alegou dissídio jurisprudencial e desrespeito ao art. 833, IV, do CPC/2015 (CPC/1973, art. 649, IV), sustentando impenhorabilidade absoluta dos seus proventos de aposentadoria.
+Foram apresentadas contrarrazões (e-STJ fls. 188/192).
+No agravo (e-STJ fls. 197/228), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 230/233).
+É o relatório.
+Decido.
+Discute-se a possibilidade de penhora dos proventos de aposentadoria do recorrente, a fim de quitar as contribuições mensais executadas pela associação de moradores, ora recorrida. A Corte local entendeu que seria inviável tal constrição, conforme se observa no seguinte trecho (e-STJ fls. 117/119):
+A insurgência, respeitado entendimento diverso, não prospera.
+Contrapõem-se nos autos, dois interesses de repercussão constitucional: de um lado, a impenhorabilidade do salário/proventos de aposentadoria (art. 7º, X da CF), que se coaduna, na esfera processual, ao princípio do menor sacrifício do executado, e de outro, a efetividade do processo (art. 5º, XXXV da CF), que serve de substrato ao princípio da máxima utilidade da execução.
+(..)
+Em contrapartida a estes avanços, a fim de se evitar abusos, cuidou o legislador de delinear o rol dos bens que não se sujeitam à penhora (arts. 649 do CPC/73 e 833 CPC/15), fato que merece especial atenção do aplicador do Direito, sob pena de
+grave ofensa às garantias do devedor.
+No que diz respeito especificamente à verba salarial, dispõe o inciso IV do artigo 649 do CPC/73 (diploma vigente quando da prolação da r. Decisão agravada), que são impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, observado o disposto no § 3º deste artigo.
+Assim, em princípio, ressalvado o débito de natureza alimentícia, não poderia o salário, tampouco os proventos de aposentadoria, sofrer qualquer tipo de constrição forçada.
+Esta regra, todavia, como acima mencionado, se aplicada sem qualquer juízo de ponderação, a depender do caso concreto, pode significar a completa frustração do direito do credor, em detrimento da proteção exacerbada ao patrimônio do devedor, o que não se deve admitir.
+Na hipótese dos autos, observa-se que o agravante foi condenado ao pagamento de contribuições mensais à associação de moradores responsável pelo loteamento em que situado o seu imóvel (fls. 69/73), tendo o trânsito em julgado ocorrido em 10/05/2014 (fls. 75), sem que o crédito da agravada (no valor de R$ 192.013,91 em 11/03/2015 fls. 85/86) tenha sido integralmente satisfeito até o momento.
+Vale ressaltar que o único fundamento invocado pelo agravante para liberação do bloqueio online procedido, consiste na impenhorabilidade abstrata do numerário, sem, contudo, fazer prova mínima de que esta seria a sua única fonte de renda, tampouco de que teria havido prejuízo concreto decorrente da constrição.
+(..)
+Nesta medida, é evidente que o agravante pretende se beneficiar indevidamente da proteção conferida pela legislação aplicável à espécie, representando este recurso uma medida meramente protelatória.
+Frise-se, por derradeiro, que a constrição ora autorizada tem caráter excepcional e pontual, com aplicabilidade apenas para este momento, não estando autorizados, nem mesmo implicitamente, bloqueios futuros sobre os proventos de aposentadoria do agravante, o que dependerá da análise pormenorizada do caso.
+Tal entendimento contraria a jurisprudência do STJ, segundo a qual as verbas de natureza alimentar, tais como os vencimentos e proventos de aposentadoria, são absolutamente impenhoráveis. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTO SUFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 283/STF. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. SALÁRIO. PENHORA. IMPOSSIBILIDADE.
+(..)
+3. É vedada a penhora das verbas de natureza alimentar apontadas no art. 649, IV, do CPC, tais como os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria e pensões, entre outras. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.325.985/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/4/2017, DJe 26/4/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE SALÁRIO. NATUREZA ALIMENTAR DA VERBA EXECUTADA. CONTRATO DE LOCAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior adota o posicionamento de que o caráter absoluto da impenhorabilidade dos vencimentos, soldos e salários (entre outras verbas destinadas à remuneração do trabalho) é excepcionado pelo § 2º do art. 649 do CPC, quando se tratar de penhora para pagamento de prestações alimentícias (AgRg no AREsp 632.356/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 3/3/2015, DJe de 13/13/2015).
+2. No caso dos autos, ao autorizar a penhora de 30% sobre os vencimentos do recorrido, o Tribunal a quo decidiu em dissonância com o entendimento do STJ, tendo em vista que o débito em questão decorre de valores que o recorrente/fiador teve que pagar em nome de devedor/recorrido, réu em ação de despejo, ou seja, não consiste em prestação alimentar.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 877.428/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2017, DJe 27/3/2017.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. PENHORA DE VERBA SALARIAL. PERCENTUAL DE 30%. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA.
+1. Esta Corte Superior adota o posicionamento de que o caráter absoluto da impenhorabilidade dos vencimentos, soldos e salários (dentre outras verbas destinadas à remuneração do trabalho) é excepcionado pelo § 2º do art. 649 do CPC, quando se tratar de penhora para pagamento de prestações alimentícias (AgRg no AREsp 632.356/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado 3/3/2015, DJe 13/13/2015).
+(..)
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 634.032/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/08/2015, DJe de 31/8/2015.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IMPROBIDADE ADMINISTRATIVA. PROVENTOS DE APOSENTADORIA. VERBA IMPENHORÁVEL. ENTENDIMENTO FIXADO EM JULGAMENTO DE RECURSO REPETITIVO. PRECEDENTES DAS TURMAS QUE COMPÕEM A 1ª SEÇÃO DO STJ. 1. A Primeira Seção desta Corte Superior, no julgamento do REsp 1.184.765/PA, Rel. Ministro Luiz Fux, submetido ao rito dos recursos repetitivos, firmou o entendimento de que a penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal" (STJ, REsp 1.184.765/PA, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe de 03/12/2010). No mesmo sentido: AgInt no AREsp 1245044/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/08/2018, DJe 21/08/2018; AgRg no REsp 1502003/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2015, DJe 04/02/2016; REsp 1164037/RS, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2014, DJe 09/05/2014.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.704.379/RO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/9/2018, DJe 10/9/2018.)
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de possibilitar o levantamento da penhora sobre os valores referentes aos proventos de aposentadoria da parte recorrente.
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de afastar a penhora sobre os valores dos proventos de aposentadoria da parte recorrente
+Publique-se e intimem-se.
