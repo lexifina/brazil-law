@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por [NOME], com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 191):
+APELAÇÃO  AÇÃO ANULATÓRIA DE DÉBITO TRIBUTÁRIO  CONTRIBUIÇÃO DE MELHORIA  ILEGALIDADE  NÃO OBSERVÂNCIA DOS ARTS. 81 E 82 DO CTN. REPETIÇÃO DE INDÉBITO  PLANO DE PAVIMENTAÇÃO COMUNITÁRIO  PAGAMENTO EM DECORRÊNCIA DE CONTRATO  . IMPOSSIBILIDADE.
+É ilegal a cobrança de contribuição de melhoria em desconformidade com os requisitos dos artigos 81 e 82 do Código Tributário Nacional.
+Pagamento efetuado em decorrência de contrato firmado com o Município (Plano de Pavimentação Comunitário) é juridicamente válido, logo não é passível de restituição.
+Recurso provido em parte.
+Os embargos declaratórios, opostos foram rejeitados às fls. 219/228.
+Nas razões do recurso especial, a parte recorrente, aponta, além de divergência jurisprudencial, ofensa aos arts. 165, I e III do CTN, 182 e 368 e seguintes, do CC e 22 e seguintes da Lei 8.906/94. Sustenta, em síntese, que (I) mesmo declarando a nulidade da cobrança efetuada pelo Município a título de contribuição de melhoria, negou a repetição de indébito referente aos valores pagos indevidamente; e (II) inviabilidade da compensação da verba honorária sucumbencial em razão de sua natureza alimentar, bem como pela ausência de identidade entre credor e devedor.
+Foram apresentadas contrarrazões às fls. 378/381.
+É o relatório.
+A irresignação não merece prosperar.
+Com efeito, colhe-se do acórdão o seguinte excerto (fls. 200):
+No entanto, penso que não é o caso de restituição da importância paga, visto que o pagamento decorreu de terem anuído ao Plano de Pavimentação Comunitário, consoante bem posto na sentença:
+ ..  No presente bloco processual, constatamos que todos os autores são apenas aderentes ao Plano de Pavimentação Comunitário, o que se extrai da leitura dos termos de confissão de dívida de fls.
+Destaque-se, que não obstante a parte requerida não tenha apresentado termo de adesão formalmente redigido entre as partes o termo de confissão de Divida é claro ao se reportar ao mesmo, sendo prova suficiente de sua celebração, mormente quando observamos que as condições de parcelamento imputadas aos autores é equivalente à prevista para a hipótese de aderência à Pavimentação Comunitária e não da prevista para as hipóteses de contribuição de melhoria exigível quanto aos não aderentes, parcelamento este regulamentado no Decreto 1932/2008.  .. . (fls. 149).
+Do aresto proferido em sede de aclaratórios, verifica-se, ainda, o seguinte trecho (fl. 225):
+Com efeito, uma coisa é a nulidade do lançamento tributário, porque não atendidos os requisitos à instituição de contribuição de melhoria, outra, bem diferente, é a restituição dos valores pagos em virtude de anuência ao Plano de Pavimentação Comunitário, comprovada pelos documentos de fls. 68/69.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. CERCEAMENTO DE DEFESA. REVISÃO DE PROVAS. SISTEMA DE PERSUASÃO RACIONAL. FORMAÇÃO DE LITISCONSÓRCIO.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. PREJUÍZOS CAUSADOS AO ERÁRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 7 DO STJ.
+1. Rever o entendimento do Tribunal de origem, no tocante à não ocorrência de cerceamento de defesa do direito dos agravados, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Esta Corte já se manifestou no sentido de que, no sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cumpre a análise da conveniência e necessidade de sua produção. O que ocorreu no caso específico.
+3. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+4. O Tribunal de origem entendeu pela existência de prejuízos suportados pela administração, em razão do procedimento realizado pelos agravados, com suporte nas provas dos autos. Incidência da Súmula 7 do STJ.
+5. O apelo extremo fundado na alínea "c" do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.249.277/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 22/10/2018)
+Por fim, quanto à sucumbência recíproca e a determinação de sua compensação, o Tribunal de origem não se pronunciou sobre a tese de "inviabilidade da compensação da verba honorária sucumbencial em razão de sua natureza alimentar, bem como pela ausência de identidade entre credor e devedor", apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
