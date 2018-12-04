@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALLSITES INTERNET E TELECOMUNICACOES LTDA em face de decisão de fls. 465-468 (e-STJ), na qual neguei provimento ao agravo em recurso especial.
+A parte embargante aponta omissão, contradição e erro material na decisão embargada, ao fundamento de que houve uma falta de valoração da prova perante as instâncias inferiores. No mais, argumenta que "O Embargante demonstrou CABALMENTE seu direito constitutivo o contrato de prestação de serviços, nota fiscal e duplicata, bem como é fato incontroverso que ocorreu a prestação de serviço e que houve a negociação de pagamento" (fl. 472, e-STJ). Afirma que "Foi de forma errada transferido o ônus de comprovar o ERRO NA PRESTAÇÃO DE SERVIÇO (fato incontroverso) ao Embargante" (fl. 473, e-STJ). Assim, aponta que a parte embargada é quem deveria comprovar o direito impeditivo, modificativo e extintivo do direito do ora embargante.
+Não houve impugnação da parte embargada (fl. 480).
+O recurso não merece prosperar.
+Da leitura dos autos, não identificado, na decisão embargada, nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do art. 1022 do Código de Processo Civil/2015, adstrito à correção de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALÊNCIA. IMPONTUALIDADE. TÍTULO EXECUTIVO JUDICIAL. EXECUÇÃO FRUSTRADA. DESNECESSIDADE. LIQUIDEZ DO TÍTULO. SIMPLES CÁLCULO ARITMÉTICO PARA INCLUSÃO DO VALOR DOS ENCARGOS E ABATIMENTO DOS PAGAMENTOS PARCIAIS. ACLARATÓRIOS. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DESCABIMENTO.
+(..)
+2. Ausentes as hipóteses insertas no art. 535 do CPC, inexistindo omissão, contradição ou obscuridade, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa já devidamente decidida.
+3. Caráter manifestamente protelatório dos embargos de declaração, ensejando a aplicação da multa prevista no artigo 538, parágrafo único, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa. (EDcl no AgRg no Ag 1073663/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2011, DJe 16/08/2011.)
+Observe-se que em sua petição, a parte embargante, sequer, se desincumbiu de demonstrar omissão, obscuridade ou contradição no julgado embargado, nem conseguiu comprovar a contrariedade ao art. 1022 do Código de Processo Civil/2015 no caso em análise.
+A decisão embargada abordou, expressamente, a questão que se pretendeu discutir no apelo especial, estando assim redigida naquilo que importa (fls. 466-467, e-STJ):
+Quanto à alegação de cerceamento de defesa, o Tribunal local consignou que era desnecessária a oitiva de testemunhas no caso em análise, de modo que o reexame da questão esbarra no óbice de que trata o verbete n. 7 da Súmula desta Casa.
+Assim:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL RECEBIDOS COMO AGRAVO INTERNO.
+MULTA AMBIENTAL. REALIZAÇÃO DE PROVA PERICIAL INDEFERIDA EM PRIMEIRO GRAU. COMPROVAÇÃO DE SUA NECESSIDADE. SÚMULA 7/STJ.
+1. Reexaminar a alegação de cerceamento de defesa, pautada na necessidade da realização da prova pericial, demanda a incursão na seara fática dos autos - óbice da Súmula 7/STJ -, uma vez que o acórdão recorrido afastou tal pedido em observância aos demais elementos de convicção neles carreados. Entendimento, de igual modo, aplicável ao recurso interposto com base na divergência jurisprudencial.
+2. Embargos de declaração recebidos como agravo interno, a que se nega provimento.
+(EDcl no REsp 1.330.856/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/8/2017, DJe 9/8/2017) 5. Recurso Especial não provido.
+(REsp 1.651.622/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28.3.2017, DJe 18.4.2017.)
+No mais, a Corte local, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (fls. 351-352, e-STJ):
+Assim o é porque, como bem anotado no decisum recorrido, não se desincumbiu a autora em demonstrar o fato constitutivo de seu direito por meio de prova idônea, sob o crivo do contraditório.
+Consta dos autos que a autora moveu ação de cobrança contra a ré, alegando que foi contratada para realizar serviços de criação de software e manutenção e suporte de sistemas e internet, conforme contrato de fls. 31/39, e que mesmo após a prestação dos serviços, a ré deixou de quitar as notas fiscais nº 170 e 220, nos valores de R$5.600,00 e R$4.973,33, motivo pelo qual requer a procedência da ação.
+O MM. Juiz de primeiro grau houve por bem julgar improcedente a ação. Contra esta decisão se insurge a autora. Sem razão, contudo.
+Conquanto alegue em sua inicial que executou todos os serviços contratados pela ré, e que, se houve falha, foi por culpa exclusiva da requerida, a qual não teria fornecido os códigos de sistemas ou reparado os serviços que não eram de sua competência concluir, fato é que a autora não comprovou o fato constitutivo de seu direito, ônus que lhe incumbia, nos termos do art. 373, I, do Novo CPC.
+Ora, incumbia à autora provar sua versão dos fatos por outros meios de prova, em especial a pericial, e desse ônus não se desincumbiu, não podendo se auferir nos autos se os serviços que alega terem sido executados foram feitos nos termos do contrato firmado entre as partes, e que não houve qualquer falha atribuída a ela.
+Ora, diante deste quadro, é evidente a debilidade da prova produzida pela autora quanto ao direito invocado. Sem a produção de prova pericial, não há como o juízo ter certeza quanto a pertinência de seu pleito.
+Com relação à irresignação acerca do ônus da prova, conforme se verifica do trecho acima, o Colegiado estadual concluiu que a parte ora recorrente, ora autora, não se desincumbiu de comprovar a prestação dos serviços na forma contratada e a contento. Assim, a pretensão não comporta análise na presente via, por encontrar nítido veto na Súmula n. 7 do STJ.
+A incidência, novamente, da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Ante o exposto, nego provimento ao agravo.
+Dessa forma, destaco que o Colegiado estadual concluiu que a parte ora recorrente, ora autora, não se desincumbiu de comprovar a prestação dos serviços na forma contratada e a contento. Dessa maneira, verifico que a pretensão não comporta análise na presente via, por encontrar nítido veto na Súmula n. 7 do STJ. Assim, observo que a decisão embargada decidiu a questão jurídica que lhe foi devolvida a julgamento, não havendo que se falar em omissão, contradição ou erro no julgado ora embargado.
+Assim, não havendo omissão na decisão embargada, mantém-se o julgado embargado tal como posto.
+Em face do exposto, não configurado nenhum vício na decisão ora embargada, rejeito os embargos de declaração.
+Intimem-se.
