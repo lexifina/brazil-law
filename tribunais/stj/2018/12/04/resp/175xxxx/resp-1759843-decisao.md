@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+EMENTA: Apelação. Ação de rescisão de compromisso de compra e venda de imóvel. Sentença de parcial procedência. Inconformismo das partes. Aplicabilidade do CDC. Inépcia da inicial afastada. Possibilidade do comprador inadimplente reaver as quantias pagas.
+Devolução de 90% das parcelas pagas. Impossibilidade de retenção das arras. Ausência de previsão expressa acerca das arras penitenciais. Arras confirmatórias que devem ser restituídas ao comprador. Pedido de restituição de comissão de corretagem e da taxa de serviço de assessoria técnico-imobiliária (SATI). Tese firmada em sede de Recurso Especial Repetitivo pelo Superior Tribunal de Justiça. Art. 1.040, III, do CPC. Legitimidade passiva da vendedora para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa SATI. Cobrança da comissão de corretagem informada ao comprador, com destaque do seu valor na discriminação do preço. Restituição indevida. Abusividade na cobrança da taxa SATI. Devolução dos valores a pagos a título de taxa SATI, de forma simples. Recurso do autor parcialmente provido. Recurso da ré não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 412 - 418, e-STJ).
+Nas razões de recurso especial, alega a ora recorrente, em suma, divergência jurisprudencial e violação aos artigos 104, 110, 421 e 422, do Código de Processo Civil de 2015.
+Sustenta a validade dos termos contratuais, ao argumento de que, a decisão recorrida fere o princípio da pacta sunt servanda, ao determinar a restituição de 90% dos valores pagos, em virtude da rescisão de contrato de compra e venda de imóvel,
+Defende que, a contagem dos juros moratórios deve ter início a partir da data do trânsito em julgado da decisão, e não da citação, conforme determinado na origem.
+Apresentadas contrarrazões (e-STJ fls. 482 - 488), pugnando o não provimento do recurso.
+O recurso foi admitido na origem, nos termos da decisão de fls. 491 - 492, e-STJ.
+Assim posta a questão, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Assiste razão, em parte, ao recorrente.
+Ao afastar a pretensão em análise, a Corte local registrou que (e-STJ, fls. 380 - 381):
+Observa-se da leitura do contrato celebrado entre as partes que as cláusulas 31 e 32 são abusivas (fls. 20/21), eis que estabelecem a devolução das parcelas em percentual desproporcional, nos termos dos artigos 51, inciso IV, § 1º e 53 do Código de Defesa do Consumidor.
+Por outro lado, a partir da análise do compromisso de compra e venda de fls. 10/30, verifica-se que as arras penitenciais não foram previstas de forma expressa no contrato firmado entre as partes.
+Ao contrário, o contrato previu a hipótese arras confirmatórias, marcando o início da execução do contrato. O sinal pago foi diluído nas parcelas de pagamento do imóvel, caracterizando princípio de pagamento.
+Desfeito o negócio, incabível a retenção das arras confirmatórias pela vendedora. Nesse sentido: O arrependimento do promitente comprador só importa em perda do sinal se as arras forem penitenciais, não se estendendo às arras confirmatórias (STJ, T3 Terceira Turma AgRg no Ag 717840/MG, rel. Ministro VASCO DELLA GIUSTINA, J. 21/10/2009). Desse modo, deve ser restituído o valor pago a título de sinal pelo comprador.
+Feitas tais considerações, esta C. Câmara estabeleceu um percentual de devolução no patamar de 90% das parcelas pagas, incluindo-se o sinal, para casos semelhantes a este discutido nos autos, com incidência de correção monetária desde o desembolso de cada parcela e juros de mora a partir da citação, nos termos do artigo 405, do CC. Ressalte-se que este percentual já engloba as verbas previstas na cláusula 31 (fl. 20).
+Conforme se verifica, após a análise das cláusulas contratuais, fatos e provas, a Corte local concluiu pela abusividade da cláusula de retensão prevista em contrato, determinando a restituição das parcelas pagas pela parte agravada, e retidas pelo agravante, à ordem de 90% do respectivo valor. Assim, a revisão da conclusão adotada na origem é medida que encontra veto nas Súmulas 5 e 7 do STJ.
+Quanto ao percentual fixado, constata-se que a decisão está em consonância com o entendimento adotado nesta Corte Superior, não havendo que se falar em majoração. Incide no ponto a Súmula 83/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. A jurisprudência do STJ firmou-se no sentido de que inocorrem as máculas descritas no art. 1.022 do NCPC, quando clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+2. A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados. Desse modo, a discussão acerca do percentual de retenção, no caso, pressupõe o reexame dos fatos da causa, bem como das cláusulas do respectivo contrato, o que encontra obstáculo nos enunciados 5 e 7 da Súmula do STJ.
+3. A incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem (grifo nosso).
+4. Agravo interno desprovido. (AgInt no AREsp 1200273/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+Em relação à pretensão de incidência dos juros moratórios, a partir do trânsito em julgado da decisão, assiste razão ao recorrente.
+Isso porque é assente perante a jurisprudência deste Superior Tribunal de Justiça que o termo inicial de incidência dos juros moratórios nos casos de rescisão contratual de compra e venda, em decorrência da inadimplência do comprador, é o trânsito em julgado da demanda.
+Nesse sentido:
+AGRAVOS INTERNOS. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AQUISIÇÃO DE UNIDADE HABITACIONAL. REGIME DA INCORPORAÇÃO IMOBILIÁRIA. RESOLUÇÃO JUDICIAL DO CONTRATO POR INICIATIVA DA CONSTRUTORA. INADIMPLEMENTO DO CONSUMIDOR. DIREITO À RESTITUIÇÃO IMEDIATA DAS PARCELAS. PAGAS. SÚMULA 543/STJ. JUROS DE MORA TERMO "A QUO". DATA DO TRÂNSITO EM JULGADO. JULGADOS DESTA CORTE. PRAZO DE 15 DIAS DO ART. 475-J DO CPC/1973. AUSÊNCIA DE SUSPENSÃO DE EFICÁCIA DA SENTENÇA.
+1. Controvérsia acerca do termo "a quo" dos juros de mora no âmbito do cumprimento de sentença que julgou procedente pedido de resolução do contrato em função do inadimplemento do promitente comprador.
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. Oposição do promitente comprador à resolução do contrato, tendo inclusive ajuizado ação revisional.
+4. Incidência de juros de mora a partir do trânsito em julgado, na linha da jurisprudência desta Corte Superior.
+5. Eficácia restitutória da resolução do contrato, aplicável em benefício das duas partes do contrato, como consequência imediata da desconstituição do vínculo contratual.
+6. Ausência de suspensão da eficácia da sentença durante o decurso do prazo de 15 dias previsto no art. 475-J do CPC/1973.
+7. AGRAVOS INTERNOS DESPROVIDOS.
+(AgInt no REsp 1596064/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 7/3/2017, DJe 16/3/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. RESCISÃO. RESTITUIÇÃO DAS PARCELAS PAGAS. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. AGRAVO IMPROVIDO.
+1. Segundo a orientação jurisprudencial das Turmas que compõem a Segunda Seção, nos casos de rescisão de contrato de promessa de compra e venda, os juros moratórios devem incidir sobre o valor determinado para restituição a partir da data do trânsito em julgado da decisão.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1552449/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 2/2/2016)
+DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+1. O entendimento firmado no âmbito da Segunda Seção é no sentido de ser possível a resolução do compromisso de compra e venda, por parte do promissário comprador, quando se lhe afigurar economicamente insuportável o adimplemento contratual.
+2. Ocorrendo a resolução do compromisso por culpa do promissário comprador, este deverá ser ressarcido parcialmente sobre o valor pago.
+3. No caso em julgamento, considerando suas peculiaridades, a taxa de ocupação deve incidir desde o início da permanência no imóvel até sua efetiva devolução, tendo em vista a necessidade de não gerar enriquecimento sem causa por parte do promissário comprador.
+4. Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido.
+(REsp 1211323/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1/10/2015, DJe 20/10/2015)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL PROVIDO EM PARTE. EQUÍVOCO NO DISPOSITIVO. CORRETA FIXAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. UTILIZAÇÃO DE ÍNDICES DIFERENCIADOS. JUROS DE MORA. CONSECTÁRIOS. TERMO A QUO. TRÂNSITO EM JULGADO.
+1. No caso de rescisão de contrato de compra e venda de imóvel em construção, o índice de atualização monetária para corrigir as parcelas a serem devolvidas pela vendedora é o INCC, por estar vinculado ao contrato; após o ajuizamento da ação, o INPC.
+2. Na hipótese em que a rescisão contratual ocorre por iniciativa da promitente vendedora, em razão do inadimplemento das parcelas pactuadas pelo comprador, o termo inicial dos juros de mora é a data do trânsito em julgado, pois inexiste mora anterior.
+3. Agravo regimental provido em parte.
+(AgRg no REsp 1151282/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/8/2013, DJe 29/8/2013)
+Em face do exposto, dou parcial provimento ao recurso especial para declarar, como termo inicial dos juros de mora incidentes sobre o percentual devolvido, o trânsito em julgado da demanda.
+Intimem-se.
