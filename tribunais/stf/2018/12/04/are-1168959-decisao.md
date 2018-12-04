@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDOR AUTÁRQUICO
+    DER – Gratificação – Dedução Exclusiva – Nível Universitário – Incidência – Reenquadramento – Precatório – Diferenças – Ofício requisitório complementar – Possibilidade.
+     - O ofício requisitório complementar pode ser expedido para pagamento de saldo ainda devedor.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. O recorrente alega violação ao art. 100, § 8º, da CF. Sustenta que o Supremo Tribunal Federal possui entendimento no sentido de que “a expedição de precatório complementar apenas pode ocorrer quando a insuficiência de depósito derivar de erros materiais ou aritméticos, não podendo, entretanto, ocorrer a expedição de ofício requisitório complementar se a diferença apurada relacionar-se a critério ou a índice de atualização”.
+    A decisão agravada negou seguimento ao recurso por entender que “o posicionamento alcançado pelos doutos julgadores, embora contrário às pretensões da recorrente não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior”.
+    O recurso não deve ser provido. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que não se exclui da sistemática do art. 100 da Constituição o pagamento de valores complementares ao precatório satisfeito parcialmente, salvo as hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis ao caso. Nessa linha, veja-se a ementa da ADI 2.924/SP, julgada sob a relatoria do Ministro Carlos Velloso:
+    “CONSTITUCIONAL. PRECATÓRIO. CRÉDITO COMPLEMENTAR: NOVO PRECATÓRIO. Regimento Interno do Tribunal de Justiça do Estado de São Paulo, inciso V do art. 336. CF, art. 100. Interpretação conforme sem redução do texto. I. - Dispõe o inciso V do art. 336 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo que para pagamentos complementares serão utilizados os mesmos precatórios satisfeitos parcialmente até o seu integral cumprimento. Interpretação conforme, sem redução do texto, para o fim de ficar assentado que pagamentos complementares, referidos no citado preceito regimental, são somente aqueles decorrentes de erro material e inexatidão aritmética, contidos no precatório original, bem assim da substituição, por força de lei, do índice aplicado. II. - ADI julgada procedente, em parte.”
+    No mesmo sentido, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso.
+    II – A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988.
+    III – Agravo regimental a que se nega provimento.” (ARE 722.803/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski).
+    No caso, está-se diante de hipótese de inexatidão aritmética e diferenças de índices de atualização monetária, situação que permite a expedição de precatório complementar, como determinou o Tribunal de origem.
+     Ademais, observa-se que os fundamentos apresentados no recurso extraordinário apenas tratam de forma genérica sobre a necessidade de expedição de novo precatório, deixando de demonstrar que o caso estaria fora das exceções previstas pelo Supremo Tribunal Federal.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 04 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
