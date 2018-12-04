@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/2015, assim ementado:
+"IMUNIDADE TRIBUTÁRIA Exigência de ICMS sobre importação de computadores destinados à diagnósticos e tratamentos hospitalares Pretensão da entidade filantrópica importadora ao reconhecimento da imunidade concedida no artigo 150, inciso VI, alínea "c" e § 4º, da Constituição Federal, às entidades de assistência social sem fins lucrativos Pendente de renovação o Certificado de Entidade para Fins Filantrópicos, exigido na Lei nº 12.101/2009 Irrelevância Supremacia da norma constitucional e do Código Tributário Nacional, que é lei complementar à Constituição, sobre exigência prevista na legislação ordinária Precedentes jurisprudenciais Reconhecimento, do benefício fiscal constitucionalmente outorgado à entidade importadora Sentença mantida Apelação não provida" (fl. 615e).
+Opostos embargos de declaração (fls. 635/638e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 469, incisos I, II e III e § 1º, inciso IV e 1.022, inciso II, do CPC/2015, arts. 9º, inciso IV, c, 14, inciso II, do CTN, 4º, inciso II, 8º, inciso II, e 26, § 1º, da Lei 12.101/2009, sustentando, em síntese, além de negativa de prestação jurisdicional, que a contribuinte não faz jus à imunidade pleiteada.
+Apresentadas contrarrazões às fls. 813/835e, foi o Recurso Especial inadmitido na origem (fls. 841/842e), daí a interposição do presente Agravo (fls. 847/886e).
+Contraminuta às fls. 933/948e.
+A irresignação não merece acolhimento.
+Em relação aos arts. 469, incisos I, II e III e § 1º, inciso IV e 1.022, inciso II, do CPC/2015 , deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Prosseguindo, verifica-se que o Tribunal de origem ao decidir a controvérsia o fez sob o viés constitucional.
+Todavia, não compete a este Superior Tribunal de Justiça analisar acórdão assentado em fundamentos de caráter eminentemente constitucional, sob pena de usurpação da competência do STF (art. 102, inciso III, da CF/88).
+Nesse sentido:
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. RENDA MENSAL INICIAL. REVISÃO. ADEQUAÇÃO AOS NOVOS TETOS ESTABELECIDOS PELAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. MATÉRIA CONSTITUCIONAL.
+(..)
+3. No tocante à questão principal, não cabe ao STJ reformar acórdão assentado em fundados eminentemente constitucionais, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+4. Agravo em Recurso Especial não provido (STJ, AREsp 1.075.860/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/05/2017).
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nesta extensão, negar-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
