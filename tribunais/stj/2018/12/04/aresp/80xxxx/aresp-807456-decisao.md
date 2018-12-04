@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão que inadmitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 41):
+"AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. Penhora on line. Impenhorabilidade não demonstrada. Existência de saldo superior a 40 salários mínimos na data do bloqueio. Importância penhorada que não atinge o limite insuscetível de constrição. Gratuidade de justiça indeferida pelo juízo de 1º grau. Ausência de comprovação da hipossuficiência. Manutenção do indeferimento, Impugnação ao cumprimento da sentença. Necessidade de preparo. Entendimento jurisprudencial pacífico do STJ e deste Tribunal. Recurso parcialmente provido."
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação aos arts. 2º, parágrafo único, e 4º, caput, da Lei nº 1.060/50. Alega a possibilidade de formulação do pedido de concessão da gratuidade de justiça a qualquer tempo, mesmo que já tenha sido proferida decisão revogando o benefício.
+É o relatório. Decido.
+No recurso em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No que se refere ao pedido de concessão do benefício de justiça gratuita, formulado no âmbito do agravo instrumento interposto pelo recorrente contra decisão que indeferiu pedido de desbloqueio de valores objetos de penhora on line e determinou a apresentação de declaração do imposto de renda para o exame do pedido de gratuidade de justiça, assim dispôs o Tribunal de origem:
+"Com efeito, conforme se verifica no anexo 1, pasta 09, fls. 14, o juízo de 1º grau indeferiu o benefício, razão pela qual se impõe o enfrentamento da questão.
+A matéria sobre gratuidade de justiça está preclusa, em face do decidido na pasta 18 do anexo 01, em que se revogou a gratuidade em incidente de impugnação à gratuidade." (e-STJ, fl. 45, grifou-se)
+Embora o pedido de assistência judiciária gratuita possa ser postulado a qualquer tempo, verifica-se que a instância ordinária revogou o benefício em impugnação ao pedido de gratuidade de justiça, por compreender não subsistirem os motivos configuradores da hipossuficiência do ora agravante.
+Tal conduta é autorizada pela própria norma (art. 8º da Lei 1.060/50), que estabelece que o magistrado pode, de ofício, revogar ou inadmitir o benefício, aferindo a miserabilidade do postulante, até porque se trata de presunção juris tantum.
+Infirmar as conclusões do julgado, para reconhecer a hipossuficiência do agravante, diante de eventual modificação da situação fática, demandaria a incursão no contexto fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 deste Superior Tribunal de Justiça. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REQUERIMENTO DO BENEFÍCIO DA JUSTIÇA GRATUITA. RECOLHIMENTO DO PREPARO NÃO COMPROVADO NO ATO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO. SÚMULA N. 187/STJ.
+1. É firme a jurisprudência do STJ no sentido de que "ainda que venha a ser concedido o benefício da gratuidade de justiça, tal deferimento não teria efeitos retroativos, motivo pelo qual não estaria a parte recorrente dispensada de comprovar o preparo no momento da interposição do apelo especial" (AgRg no AREsp 610.966/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 09/06/2015, DJe 06/08/2015).
+2. Ademais, da leitura das referidas razões, verifica-se que o julgado está em consonância com a jurisprudência do STJ, o que atrai a aplicação da Súmula 83 do STJ. Isto porque, como prevê a própria norma (art. 8º da Lei n. 1.079/50) o magistrado pode, de ofício, revogar ou inadmitir o benefício, aferindo a miserabilidade do postulante, até porque se trata de presunção juris tantum.
+3. A revisão do acórdão recorrido sobre o indeferimento dos benefícios da justiça gratuita encontra óbice no enunciado da Súmula 7/STJ. Precedentes.
+4. Agravo regimental não provido."
+(AgRg no AREsp 702.562/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/10/2015, DJe 20/10/2015, grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. QUESTÕES TIDAS POR RELEVANTES PARA O DESLINDE DA CONTROVÉRSIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPUGNAÇÃO DO BENEFÍCIO DE JUSTIÇA GRATUITA. REVOGAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. As instâncias ordinárias, mediante o exame do acervo fático-probatório dos autos - análise do patrimônio e renda do recorrido -, entenderam não mais subsistirem os requisitos para o deferimento do benefício da justiça gratuita. A modificação do julgado, na hipótese dos autos, demandaria o reexame de fatos e provas da demanda, providência, contudo, incabível em sede de recurso especial, em razão da Súmula 7 desta Corte Superior.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 370.334/SP, de minha relatoria, QUARTA TURMA, julgado em 26/05/2015, DJe 25/06/2015, grifou-se)
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC) - PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA - EXIGÊNCIA DE COMPROVAÇÃO PELO MAGISTRADO - ADMISSIBILIDADE - PRECEDENTES DO STJ.
+1. A afirmação de hipossuficiência, almejando a obtenção do benefício da assistência judiciária gratuita, possui presunção legal juris tantum, ou seja, relativa, podendo o magistrado, com amparo no art. 5º, da Lei n.º 1.050/60, infirmar a miserabilidade da requerente.
+2. A pretensão de que seja avaliada pelo Superior Tribunal de Justiça a condição econômica da requerente exigiria reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 07 do STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 121.135/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/11/2012, DJe 27/11/2012, grifou-se)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. ENUNCIADO SUMULAR N. 329 DO STJ. REQUERIMENTO. JUSTIÇA GRATUITA. ART. 4º DA LEI 1.060/50. PRESUNÇÃO JURIS TANTUM. POSSIBILIDADE DE AFASTAMENTO. REVISÃO NESTA CORTE. SÚMULA 07/STJ.
+(..)
+3. Esta Corte possui o entendimento de que o benefício da justiça gratuita pode ser pleiteado a qualquer tempo, bastando, para obtenção do benefício, a simples afirmação do requerente de que não está em condições de arcar com as custas do processo e com os honorários advocatícios. Sendo assim, a afirmação de hipossuficiência possui presunção iuris tantum, contudo pode o magistrado indeferir a assistência judiciária se não encontrar fundamentos que confirmem o estado de hipossuficiência do requerente.
+4. Recurso especial a que se nega provimento."
+(REsp 1196896/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/09/2010, DJe 04/10/2010, grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
