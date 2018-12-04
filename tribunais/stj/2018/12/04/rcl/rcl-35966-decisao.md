@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de reclamação constitucional com pedido de liminar ajuizada pelo BANCO BRADESCO S.A., por meio da qual se noticia suposta usurpação da competência do STJ.
+Argumenta que o Vice-Presidente do TJBA reteve indevidamente seu agravo nos próprios autos, interposto na origem contra decisão que negou seguimento ao seu recurso especial.
+Na petição inicial (e-STJ fls. 1/9), afirma que (e-STJ fl. 6):
+Em seqüência, em despacho deneqatório, a 2ª Vice-Presidente do Tribunal de Justiça inadmitiu o recurso especial.
+Em consonância com o disposto no art. 1.042, do Código de Processo Civil de 2015, o ora Reclamante apresentou agravo em recurso especial.
+Eméritos Ministros, o agravo em recurso especial visava a anulação do despacho denegatório, em virtude da evidente ausência de fundamentação. E, caso não fosse este o entendimento desta Corte, o Reclamante requeria a reforma do despacho denegatório proferido pela 2ª Vice- Presidente no que diz respeito às seguintes teses constantes no recurso especial:
+[NOME] ILEGITIMIDADE ATIVA - LIMITAÇÃO AOS ASSOCIADOS DO IDEC - VIOLAÇÃO AO ART. 59, XXI, DA CONSTITUIÇÃO FEDERAL E ART. 22-A DA LEI 9.494/1997;
+II. DECISÃO ORIUNDA DE AÇÃO CIVIL PÚBLICA - IMPOSSIBILIDADE DE LIQUIDAÇÃO POR SIMPLES CÁLCULOS ARITMÉTICOS - VIOLAÇÃO DO ART. 95, DO CDC E DOS ARTIGOS 475-B E 475-J, DO CÓDIGO DE PROCESSO CIVIL.
+De tal modo, em seu agravo em recurso especial o Reclamante comprovou que os referidos capítulos decisórios não eram fundados na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos, sendo cabível o recurso de agravo em recurso especial por força do disposto no caput do art. 1.042 do Código de Processo Civil de 2015.
+Ocorre que, de modo equivocado, a 2ª Vice Presidente do Tribunal de Justiça da Bahia negou sequimento ao agravo em recurso especial interposto, em clara hipótese de usurpacáo de competência desta Corte.
+Inegavelmente, a competência para julgar o agravo interposto pelo Reclamante é desta Corte, conforme dispõe, inclusive, o art. 1.042 do Código de Processo Civil do Código de Processo Civil de 2015.
+Assim, ao inadmitir o agravo em recurso especial, sem remessa para esta Corte, a prolatora da decisão incorreu em manifesta usurpação de competência constitucionalmente estabelecida.
+Nesse contexto, requer liminarmente a suspensão do feito, até o julgamento final do mérito.
+Por fim, pede a cassação da decisão proferida pelo 2ª Vice-Presidente do TJBA, "de modo a determinar o regular processamento do agravo em recurso especial com a remessa dos autos a este Superior Tribunal de Justiça" (e-STJ fl. 9).
+Liminar indeferida às fls. 365/368 (e-STJ).
+Informações prestadas às fls. 805/809 (e-STJ).
+Parecer do Ministério Público Federal pelo NÃO CONHECIMENTO da reclamação (e-STJ fls. 800/802).
+É o relatório.
+Decido.
+O recurso especial da parte reclamante foi inadmitido na origem com base na ausência de omissão no acórdão recorrido, na incidência da Súmula n. 7/STJ e na conformidade da decisão colegiada recorrida com a jurisprudência do STJ, firmada sob o rito dos repetitivos no julgamento do REsp n. 1.391.198/RS, que apresenta a seguinte ementa:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n.
+1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp 1.391.198/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 2/9/2014.)
+Interposto agravo nos próprios autos (art. 1.042 do CPC/2015), a 2ª Vice-Presidência do STJ o reteve, considerando ser incabível.
+Conforme a jurisprudência do STJ, é cabível o agravo interno contra decisão da Justiça de origem que nega seguimento a recurso especial tendo por fundamento a consonância do acórdão recorrido com entendimento repetitivo desta Corte Superior. A propósito:
+AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL (CF, ART. 105, I, f). DECISÃO RECLAMADA. INADMISSÃO DE RECURSO ESPECIAL, CONSOANTE O RITO DOS RECURSOS REPETITIVOS. ART. 1.040, I, DO CPC; ART. 543-C, § 7º, I, DO CPC/1973. AUSÊNCIA DE PREVISÃO LEGAL. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Código de Processo Civil atribuiu, com exclusividade, aos tribunais locais o juízo de admissibilidade do recurso especial nos casos em que o acórdão recorrido coincidir com a jurisprudência firmada no julgamento de recurso repetitivo, cabendo contra essa decisão apenas agravo interno. 2. A previsão legal de que caberia agravo em recurso especial contra a decisão de inadmissão de recurso especial, sob o fundamento de que o acórdão recorrido coincide com a orientação desta Corte, foi revogada ainda durante a vacatio legis do novo Código de Processo Civil.
+3. Conforme o entendimento uníssono desta Corte, é manifestamente inadmissível a reclamação constitucional manejada em face de decisão que não conheceu de agravo em recurso especial movido contra acórdão de Tribunal local que, promovendo o juízo de adequação previsto no rito dos recursos repetitivos (art. 1.040, I, do CPC; art. 543-C, § 7º, I, do CPC/1973), nega seguimento a recurso especial ao constatar que o aresto recorrido coincide com a orientação consolidada por esta Corte sob o rito singular.
+4. Agravo interno não provido.
+(AgInt na Rcl 34.672/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/11/2017, DJe 27/11/2017.)
+PROCESSO CIVIL. RECLAMAÇÃO CONTRA DECISÃO DE INADMISSIBILIDADE DE RECURSO ESPECIAL, CONSOANTE SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. NÃO CABIMENTO.
+1. Não é cabível o ajuizamento de reclamação contra decisão do Tribunal a quo que inadmite o recurso especial, com fundamento no art. 543-C do CPC, porquanto cabe ao Tribunal a quo, com exclusividade, o juízo de admissibilidade desse recurso quando o acórdão recorrido coincidir com a jurisprudência formada no âmbito do recurso representativo da controvérsia, nos termos do art. 1.040, I, c/c o art. 1.030, § 2º, do CPC.
+2. Agravo interno não provido.
+(AgInt na Rcl 34.141/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/8/2017, DJe 28/8/2017.)
+Portanto, é inadmissível o agravo do art. 1.042 do CPC/2015 interposto pela reclamante - contra decisão que entendeu estar o acórdão do TJBA em conformidade com julgado repetitivo do STJ -, pois o recurso apropriado seria o agravo interno.
+Nesse contexto, a jurisprudência deste Tribunal tem afastado o uso da reclamação, por não reconhecer usurpação da competência do STJ. Confira-se:
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO. ART. 543-C, § 7º, DO CPC. AGRAVO EM RECURSO ESPECIAL. RECURSO OBSTADO NA ORIGEM. INEXISTÊNCIA DE USURPAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO EXTINTA SEM RESOLUÇÃO DO MÉRITO.
+1. O Tribunal Regional Federal da 4ª Região, ao julgar os recursos de apelação e a remessa necessária, acolheu a tese de decadência defendida pelo INSS, amparando-se no decidido pelo STJ no REsp 1.326.114/STJ e no STF no RE 626.489/SE. O recurso especial interposto pela ora recorrente foi declarado prejudicado pela incidência do disposto no art. 543-C do CPC; ingressou, então, com agravo regimental, ao qual foi negado provimento; por fim, interpôs agravo, com fundamento no art. 544 do CPC, o qual não foi conhecido.
+2. A reclamação foi liminarmente extinta, ao argumento de que a Corte Especial do Superior Tribunal de Justiça, ao apreciar a questão de ordem no Agravo de Instrumento 1.154.599/SP, Relator Ministro Cesar Asfor Rocha, DJe 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC".
+3. Naquela oportunidade, decidiu-se também que eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto poderá ensejar agravo interno na instância de origem. Por fim, julgado o agravo, descabe reclamação a esta Corte.
+4. Desse modo, na hipótese de recurso incabível, o seu trancamento na origem não importa em usurpação de competência desta Corte Superior, consoante a iterativa jurisprudência deste Tribunal.
+Agravo regimental improvido.
+(AgRg na Rcl 26.796/RS, Relator Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 14/10/2015, DJe 22/10/2015.)
+Diante do exposto, julgo IMPROCEDENTE a reclamação. Condeno a parte reclamante às despesas e aos honorários do advogado da parte interessada, os quais fixo em R$ 5.000,00 (cinco mil reais), com fundamento no art. 85, § 8º, do CPC/2015.
+Publique-se e intimem-se.
