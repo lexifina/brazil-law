@@ -1,0 +1,15 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. SERVIDOR MILITAR ESTADUAL. ARQUIVAMENTO DE PROCESSO ADMINISTRATIVO. EDITAL DE CONCURSO PÚBLICO. NATUREZA DISCIPLINAR DO ATO NÃO CONFIGURADA. HIPÓTESE QUE NÃO SE ENQUADRA NA REGRA DO ART. 125, § 4º, DA CF (REDAÇÃO DADA PELA EC Nº 45/2004). COMPETÊNCIA DA JUSTIÇA COMUM.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Auditoria da Justiça Militar da Comarca de Belo Horizonte/MG e o Juízo de Direito da 5ª Vara da Fazenda Pública e Autarquias da Comarca de Belo Horizonte/MG, nos autos do mandado de segurança preventivo impetrado por [NOME] contra ato praticado pelo senhor comandante da Escola de Formação de Soldados da Polícia Militar de Minas Gerais, por meio do qual o impetrante pretende o arquivamento definitivo do Processo Administrativo Exoneratório n. 102069/201
+A Subprocuradoria-Geral da República opinou pela competência do Justiça comum.
+É o relatório. Passo a decidir.
+O STJ já firmou compreensão no sentido de que a competência se determina de acordo com o pedido e a causa de pedir.
+O demandante, em sua inicial, sustenta que " ..  a simples abertura do processo Administrativo (PAE), impede injustamente que o impetrante de diversas situações junto ao seu batalhão, sendo que o mesmo não pode prestar concursos internos, teve seu porte de armas cassado  .. " (e-STJ fl. 21).
+Nesse sentido, esta Corte Superior já firmou compreensão de que: "tratando de ação que objetiva a anulação de ato administrativo praticado pela Administração Militar dos Estados, a competência é da Justiça Comum Estadual, e não da Justiça Militar" (Conflito de Competência no 127.483-MG, Ministro Relator Herman Benjamin, DJe em 18/04/2013).
+Ainda sob esse enfoque, como bem ponderado pelo Parquet (e-STJ fls. 148-149):
+Consoante se observa nos autos, o conflito de competência teve origem no mandado de segurança impetrado contra ato do Comandante da Escola de Formação de Soldados da Polícia Militar de Minas Gerais que determinou a instauração de Processo Administrativo de Exoneração em razão do candidato ter omitido no Formulário de ingresso na Corporação, a informação de que "atuou, na condição de defensor constituído, para autor da prática de crimes de tráfico de drogas, bem como teria aceitado buscar certa quantia de drogas em Cidade próxima a Varginha e entregá-la ao preso durante a audiência no Fórum local, e ainda aceitado repassar um
+aparelho telefônico e uma serra ao mesmo cliente durante atendimento jurídico." (fl. 29).
+No caso, o Processo Administrativo de Exoneração combatido no mandado de segurança, decorre do descumprimento de requisito exigido no Edital DRH/CRS n. 13/2016 do Concurso Público da Polícia Militar de Minas Gerais e, portanto, desprovido de natureza disciplinar militar, atraindo, pois, a competência da Justiça Comum para processar e julgar o feito.
+Diante do exposto, conheço do conflito e declaro competente o Juízo de Direito da 5ª Vara da Fazenda Pública e Autarquias da Comarca de Belo Horizonte/MG.
+Expeça-se ofício aos juízos conflitantes. Publique-se. Intimem-se
