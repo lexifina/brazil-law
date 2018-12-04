@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO AÇÃO DECLARATÓRIA Suposta alienação do veículo, sem comunicação ao órgão de trânsito Pretensão de declaração de inexigibilidade dos débitos de IPVA Alienação do veículo, sem comunicação ao órgão de trânsito dentro do trintídio legal As regras do art. 134 do Código de Trânsito Brasileiro e dos arts. 4º, III, e 16, §§1º e 2º, da Lei Estadual n. 6.606/89 (atuais arts. 6º, inciso II e §2º, e 34, parágrafo único, da Lei Estadual n. 13.296/2008) não impedem a comprovação, por meio idôneo, da alienação do bem, antes da ocorrência do fato gerador Tributo de natureza real, incidente sobre a propriedade do veículo automotor (art. 155, III, da CF), cuja transferência opera-se com a tradição, não se podendo admitir tributação sobre fato fictício Ausência de comprovação da alienação no caso dos autos Sentença mantida Recurso improvido.
+No recurso especial, o recorrente aponta violação dos arts. 1.267 do Código Civil e 134 do Código Tributário Nacional.
+Sustenta, em síntese, que restou comprovada a alienação do veículo, razão pela qual, de acordo com a jurisprudência do Superior Tribunal de Justiça, é devida a declaração de inexigibilidade de IPVA após a alienação do mencionado bem móvel.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na deficiência na realização do cotejo analítico.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+É irrefutável que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou , à fl. 105, que "a apelante não trouxe aos autos cópia do CRV, comprovantes de pagamento, eventual pedido de bloqueio junto ao DETRAN ou qualquer outro documento apto a comprovar a transferência de propriedade do veículo.".
+Dessa forma, verifica-se que a irresignação do recorrente, acerca da comprovação de transferência do veículo antes do fato gerador do IPVA, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
