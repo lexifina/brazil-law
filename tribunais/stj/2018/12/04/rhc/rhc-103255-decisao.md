@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Mato Grosso do Sul, que denegou o writ na origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 119):
+HABEAS CORPUS - RECEPTAÇÃO E ASSOCIAÇÃO CRIMINOSA - PRISÃO PREVENTIVA - REQUISITOS LEGAIS DEMONSTRADOS - PENA PRIVATIVA DE LIBERDADE SUPERIOR A QUATRO ANOS - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE DO DELITO - MATERIALIDADE E INDÍCIOS DE AUTORIA PRESENTES - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA.
+I - Presentes os motivos autorizadores (fumus comissi delicti - relativo à materialidade e indícios de autoria - e o periculum libertatis - risco à ordem pública, à instrução criminal ou à aplicação da lei penal), bem como o requisito instrumental de admissibilidade (artigo 313, I , do Código de Processo Penal - delito abstratamente apenado a mais de 04 quatro anos de reclusão), e não sendo recomendável a aplicação das medidas cautelares do art. 319 do Código de Processo Penal, denega-se ordem de habeas corpus que visa revogar prisão cautelar fundamentada em elementos concretos, extraídos dos autos, quando a acusação é pela prática de receptação e associação criminosa (artigos 180 e 288 do Código Penal), pois o paciente supostamente associou-se ao corréu com o intuito de transportar carros furtados/roubados do Estado de Goiás para o Estado de Mato Grosso do Sul, mesmo que as condições pessoais sejam favoráveis, pois estas, por si só, não garantem o direito de responder ao processo em liberdade quando presentes os requisitos que autorizam a segregação cautelar.
+II - Ordem denegada.
+Neste recurso argumenta-se, em suma, a ausência dos requisitos do art. 312 do CPP e a desproporcionalidade da medida extrema, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+O recorrente foi preso em flagrante em 5/8/2018, posteriormente convertido em preventiva, pela prática dos delitos tipificados nos arts. 180 e 288 do Código Penal.
+A liminar foi indeferida.
+Informações prestadas às fls. 175/187.
+Manifestou-se o Ministério Público Federal pelo improvimento recursal.
+Na origem, o processo n. 0005416-37.2018.8.12.0800, oriundo da Vara Criminal, Infância e Juventude de Coxim/MS, encontra-se na fase instrutória, ainda sem data de audiência designada, conforme informações processuais eletrônicas extraídas do site do Tribunal a quo em 26/11/2018.
+É o relatório.
+DECIDO.
+De início, a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Dispôs o decreto preventivo (fls. 83/85 - destaquei):
+ ..  Com efeito, no caso em tela, revelam-se presentes os requisitos autorizadores da segregação cautelar.
+Isso porque, de acordo como os elementos de informação que compõe o presente auto de prisão em flagrante, verifica-se que os flagrados dedicam-se à atividade criminosa, pois saíram do Estado de Goiás conduzindo veículos produtos de furto/roubo, da cidade de Brasília/DF, com conhecimento da situação narrada no presente APF.
+Aduziram ainda, que para facilitar a comunicação entre o grupo de condutores dos veículos, utilizaram o aplicativo WhatsApp.
+No entanto, em interrogatório policial, o preso [NOME] fez uso do direito de permanecer em silêncio. Por sua vez, [NOME] confessou o transporte dos veículos, contudo alegou desconhecer a origem ilícita do veiculo.
+Em consulta aos sistemas, os Policiais averiguaram também que os veículos utilizados, além de serem produtos de crime, estavam com as placas adulteradas.
+Os veículos tratam-se de um SIENA ATTRACT, cor branca na qual apresentava placa [PLACA] de Dourados/MS, no entanto a placa verdadeira é PBJ 1676 de Brasília/DF e VOYAGE, cor branca na qual apresentava placa NRN 8689 de Campo Grande/MS, no entanto a placa verdadeira seria JKG 3050.
+Procedeu-se a apreensão dos celulares bem como dos valores em dinheiro que estavam na posse dos flagrados.
+ Percebe-se, assim, que os presos são voltados à pratica de crimes, causando intranqüilidade social e gerando sentimento de insegurança na população, de modo que a conversão da sua prisão em preventiva, nesse momento, é medida que se impõe.
+Assim a natureza dos delitos praticados e as circunstâncias de seu cometimento, evidencia ser desaconselhável, por interesse da ordem pública e fundado temor de novas práticas delitivas, a concessão de liberdade provisória ao autuado.
+Diante do exposto, com fundamento nos artigos 312 e 310, inciso II, do Código de Processo Penal, converto as prisões em flagrante de [NOME] e e [NOME], qualificados, em prisões preventivas. ..
+Como se vê, consta do decreto prisional que o recorrente dedica-se a atividades criminosas, ressaltando, assim, sua vivência delitiva, demonstrada, de igual forma, em sua folha de antecedentes criminais acostada às fls. 75/79 destes autos.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
