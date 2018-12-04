@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de HABEAS CORPUS por meio do qual se pretende, em síntese, a revogação da segregação decretada em desfavor de [NOME], RAMON DA SILVA MACEDO GOMES e [NOME].
+2. Entretanto, das informações colhidas na origem, verifica-se que, em 23-11-2018, sobreveio a prolação de nova sentença condenatória, ocasião em que os pacientes RAMON DA SILVA MACEDO GOMES e [NOME] foram condenados à pena 2 (dois) anos e 4 (quatro) meses de reclusão e 11 (onze) dias-multa e [NOME] às penas de 3 (três) anos e 2 (dois) meses de reclusão e 14 (quatorze) dias-multa, a ser cumprida em regime semiaberto, por terem infringido o comando normativo proibitivo do artigo 155, § 4º, incisos II e IV do CP, e absolvidos do art. 288 do CP, oportunidade em que lhes foram negado o apelo em liberdade.
+Na hipótese, resta prejudicado o presente mandamus voltado a abordar a legalidade da prisão provisória aplicada ao paciente, visto que os fundamentos utilizados pelo Juízo singular são diversos daqueles mencionados na ordem constritiva originária, isto é, trata-se de decisão diferente da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Ante o exposto, julga-se prejudicado o HABEAS CORPUS, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, diante da peerda do seu objeto.
+Publique-se e intimem-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
