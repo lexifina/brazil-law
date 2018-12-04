@@ -1,0 +1,10 @@
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão assim ementado:
+EMENTA: ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL. SUSPENSÃO DE LEILÃO EXTRAJUDICIAL. A Lei nº 9.514/1997 cm aplicação conjunta com o Decreto-Lei nº 70/66 possibilitam ao devedor de contrato de financiamento de bem imóvel com garantia de alienação fiduciária a purgação da mora até o momento da assinatura do auto de arrematação, observado o pagamento integral da dívida acrescida dos consectários legais e contratuais. Inteligência dos artigos 26 e 27 da Lei nº 9.514/1997 e do artigo 34 do Decreto-Lei nº 70/1966. Posicionamento do Egrégio Superior Tribunal de Justiça. Sentença mantida. Recurso desprovido, com majoração da verba honorária, nos termos do artigo 85, § 11, do CPC.
+A decisão agravada negou seguimento ao recurso especial pelos seguintes fundamentos: i) ausência de demonstração de ofensa aos dispositivos arrolados, ii) aplicação do óbice da Súmula n. 7/STJ e iii) ausência de comprovação de dissenso jurisprudencial.
+Ocorre que o agravante não rebateu especificamente os fundamentos da ausência de comprovação de dissenso jurisprudencial, tampouco o de ausência de violação aos dispositivos arrolados.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no art. 932, III, do Código de Processo Civil/2015.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, nos termos do art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
