@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1852, de 3 de dezembro de 2018
+Altera a Instrução Normativa RFB nº 1.277, de 28 de junho de 2012, que institui a obrigação de prestar informações relativas às transações entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior que produzam variações no patrimônio das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no Decreto nº 7.708, de 2 de abril de 2012, resolve:
