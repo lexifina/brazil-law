@@ -1,0 +1,20 @@
+DECISÃO
+ALEX SANDRO SERAFIM alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de Santa Catarina (Agravo n.0017182-12.2018.8.24.0038).
+A Defensoria Pública sustenta a possibilidade de o apenado em regime semiaberto cumprir sua pena em prisão domiciliar, por não existir vaga em estabelecimento prisional adequado.
+Requer o restabelecimento da prisão domiciliar.
+Decido.
+Consta dos autos que "o apenado cumpria sua pena em regime semiaberto no Presídio Regional de Joinvile". Em 10/8/2018, o Juiz da VEC deferiu sua "saída antecipada em regime de prisão domiciliar" (fl. 302).
+O Tribunal salientou que "a transferência imediata da apenado ao redime de prisão domiciliar,  .. , conflita diretamente com a recente Súmula Vinculante 56 do Supremo Tribunal Federal" (fl. 307). Recomendou ao Juiz que adotasse os "parâmetros estabelecidos no RE n. 641.320/RS", inclusive para evitar o tratamento não isonômico aos presos (fl. 308), "devendo-se privilegiar a progressão ou liberação daqueles que estiverem mais próximos de atingir benefícios" (fl. 309).
+O órgão de segundo grau manteve a prisão domiciliar até a adoção de medidas administrativas. Deveras, em 1º/11/2018, o agravo foi provido:
+ ..  para determinar que o Juízo de origem, com urgência, oficie ao Órgão competente a fim de que, caso haja interesse, providencie o recambiamento do apenado para outra unidade adequada para cumprimento do regime semiaberto, isso no prazo de 20 (vinte) dias, sem excluir a possibilidade de colocação do detento na Penitenciária da comarca.
+Até a efetiva resposta do Órgão competente e, também, caso não haja interesse de indicação de outra unidade prisional, o ora agravado permanecerá na atual situação em que se encontra, cumprindo estritamente os termos da decisão impugnada.
+Nesse cenário, não há constrangimento ilegal a ser sanado neste habeas corpus.
+Por ora, estão mantidos os termos da decisão do Juiz da VEC. O Tribunal Pleno do Supremo Tribunal Federal, no julgamento do RE n. 641.320/RS, estabeleceu diversas providências que deverão ser determinadas antes da concessão da prisão domiciliar. Confira-se:
+a) a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+b) os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para verificar se são adequados a tais regimes, sendo aceitáveis estabelecimentos que não se qualifiquem como colônia agrícola, industrial  (regime semiaberto) ou casa de albergado ou estabelecimento adequado  (regime aberto) (art. 33, §1º, alíneas b e c)
+c) no caso de haver déficit de vagas, deverão determinar: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao preso que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. O colegiado decidiu, ainda, que, até serem estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao apenado.
+O aresto estadual está em consonância com a Súmula Vinculante n. 56 e com a tese fixada no Recurso Especial Repetivo n. 1710674/MG (Tema 993), in verbis:
+3. TESE: A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante nº 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE nº 641.320/RS,
+De mais a mais, não há prova inequívoca de excesso de execução, pois consta expressamente no acórdão impugnado que o sentenciado permaneceria na situação em que se encontra (em prisão domiciliar) até a estruturação das medidas alternativas.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego este habeas corpus, in limine.
+Publique-se e intimem-se.
