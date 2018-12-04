@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo Interno, interposto pela FAZENDA NACIONAL, inconformada com a decisão por mim proferida, às fls. 1.160/1.166e, que conheceu do Agravo, para conhecer parcialmente do Recurso Especial, e, nessa parte, negar-lhe provimento.
+Em razão da relevância dos argumentos expendidos pela agravante, reconsidero a decisão agravada, nos seguintes termos.
+Trata-se de Agravo em Recurso Especial, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, em face de decisão que inadmitiu o Recurso Especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+"CONSTITUCIONAL. TRIBUTÁRIO. ADMINISTRATIVO. DESEMBARAÇO ADUANEIRO. INTERPOSIÇÃO FRAUDULENTA. ART. 23, V E §§, DO DECRETO-LEI 1.455/1976. DEVIDO PROCESSO LEGAL, AMPLA DEFESA, CONTRADITÓRIO. PROCEDIMENTO ESPECIAL DE FISCALIZAÇÃO. ATO VINCULADO. MOTIVAÇÃO. OBRIGATORIEDADE.
+ O art. 5º, LIV e LV, da CF/1988 dispõe que ninguém será privado de seus bens sem o devido processo legal, e que, em processo administrativo, aos litigantes são assegurados os princípios do contraditório e da ampla defesa, com os meios e os recursos a ela inerentes.
+ Além da regra do devido processo legal administrativo, expressa como direito fundamental, deve a administração atuar segundo o princípio da legalidade (art. 37 da CF/1988), que é de observância obrigatória diante da supremacia da Constituição, caráter normativo (cogente) dos princípios informadores do ordenamento jurídico.
+ Em obediência aos comandos constitucionais do princípio da legalidade, do devido processo legal, do contraditório e da ampla defesa, afigura-se indispensável a motivação do ato administrativo vinculado, que enseja a abertura de procedimento especial de fiscalização alfandegária que possa culminar em pena de perdimento dos bens importados por particular (art. 50 da Lei 9.784/1999; artigos 65, 67, II, e 68 da IN SRF 206/2002).
+ Ausente a necessária motivação no ato administrativo, violado está o devido processo legal e o direito do particular à ampla defesa e ao contraditório no processo administrativo, o que torna nulo o processo administrativo.
+ Ausente ofensa ao princípio da separação dos Poderes, uma vez que ao Poder Judiciário é dado declarar a nulidade de atos ilegais da administração pública, notadamente quando ausente o elemento motivação do ato administrativo vinculado (art. 5º, XXXV, CF/1988; enunciado 473 da Súmula do STF).
+ Apelação da Fazenda Nacional e remessa oficial a que se nega provimento.
+ Apelação da impetrante a que se dá provimento" (fl. 1.037e).
+Opostos Embargos de Declaração, pela parte ora agravante, foram eles rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. DESEMBARAÇO ADUANEIRO. INTERPOSIÇÃO FRAUDULENTA. ART. 23, V E §§, DO DECRETO-LEI 1.455/1976. DEVIDO PROCESSO LEGAL, AMPLA DEFESA, CONTRADITÓRIO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JULGADA.
+1. Incabíveis os embargos de declaração utilizados indevidamente com a finalidade de reabrir discussão sobre tema jurídico já apreciado pelo julgador. O inconformismo da embargante se dirige ao próprio mérito do julgado, o que desafia recurso próprio.
+2. Necessária a inequívoca ocorrência dos vícios enumerados no art. 535 do CPC para conhecimento dos embargos de declaração, o que não ocorre com a simples finalidade de prequestionamento.
+3. Embargos de declaração rejeitados" (fl. 1.073e).
+Alega a parte agravante, nas razões do Recurso Especial interposto pela alínea a do permissivo constitucional, violação aos arts. 535, I e II, 2º, 128, 262, 264, 293 e 460, todos do CPC/73; 73 e 642 do Decreto 6.759/2009; 9º, § 3º, 73, 486 e 574, todos do Decreto 4.543/2002, sustentando, de início, omissão não suprida em sede de declaratórios, quanto ao fato de que houve julgamento ultra petita e "quanto ao fato de haver previsão legal no sentido de que o fato gerador ocorrido no momento do esgotamento do prazo de permanência no recinto alfandegado" (fl. 1.081e).
+Aduz, ainda, que houve julgamento ultra petita; que "a empresa não realizou o desembaraço aduaneiro no prazo estipulado legalmente, ocorrendo o fato gerador no momento em que vencido o prazo de permanência no recinto alfandegado (fl. 1.088e); que "inexistiu mora da Administração Pública no desembaraço das mercadorias importadas vez qua a Administração atuou da maneira que lhe era possível para efetuar o célere desembaraço aduaneiro das mercadoria, sendo que a demora decorreu de mecanismos inerentes aos trâmites aduaneiros" (fl. 1.091e).
+O Recurso Especial foi inadmitido, pelo Tribunal de origem (fls. 1.109/1.112e), ensejando a interposição do presente Agravo (fls. 1.115/1.131e).
+O Ministério Púbico Federal, em parecer da lavra do Subprocurador-Geral da República DILTON [NOME], manifestou-se pelo improvimento do Agravo.
+A irresignação merece acolhimento no que diz respeito à indicada ofensa ao art. 535 do CPC/73.
+Com efeito, embora opostos Embargos de Declaração (fls. 1.043/1.056e), o Tribunal de origem não se pronunciou acerca da questão referente ao julgamento ultra petita.
+Deste modo, resta configurada a violação ao art. 535 do CPC/73 e, assim, a negativa de prestação jurisdicional, uma vez que o ponto sobre o qual recai a omissão têm o condão de eventualmente alterar a solução inicialmente dada à controvérsia.
+Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos da jurisprudência pacífica do STJ, quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 535 do Código de Processo Civil.
+2. Hipótese em que o Tribunal de origem, apesar da oposição de embargos de declarção, não se manifestou sobre a alegada violação do art. 10, inciso I, da Lei n. 10.833/2003. Retorno dos autos para novo julgamento dos embargos de declaração.
+Agravo regimental provido" (STJ, AgRg no REsp 1.355.898/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/03/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. IMPUGNAÇÃO AO VALOR DADO À CAUSA. ELEMENTOS FÁTICOS DA DEMANDA NÃO FORAM CONSIDERADOS. ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA A ORIGEM.
+(..)
+3. A Corte de origem quedou silente sobre os argumentos apresentados por meio dos embargos de declaração, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.373.286/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/05/2013).
+Em face do exposto, reconsidero a decisão agravada. Com fundamento do art. 253, parágrafo único, inciso II, alínea "c", do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se a omissão quanto a ocorrência ou não de julgamento ultra petita.
+Em razão do acolhimento da preliminar reputo prejudicadas as demais alegações.
+I.
