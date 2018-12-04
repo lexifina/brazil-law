@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJMG assim ementado (e-STJ fl. 273):
+EMENTA: APELAÇÃO CÍVEL - REINTEGRAÇÃO DE POSSE - CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL - INADIMPLEMENTO - AUSÊNCIA DE RESCISÃO CONTRATUAL JUDICIAL PRÉVIA - CARÊNCIA DE AÇÃO - EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO - NECESSIDADE. Tratando-se de ação de reintegração de posse, deve o autor comprovar o cumprimento dos requisitos previstos no art. 927 do CPC, para o deferimento da tutela possessória. Se as partes firmaram contrato de promessa de compra e venda, a posse do apelado é justa, e somente posse ser pleiteada pela parte contrária se houver rescisão contratual prévia, a qual deve ser judicialmente declarada, eis que a cláusula resolutiva expressa de rescisão em caso de inadimplemento deve ser interpretada à luz do CDC, não produzindo, pois, efeitos automáticos.
+
+Nas razões apresentadas (e-STJ fls. 282/302), a recorrente aponta divergência interpretativa e violação do art. 327, I, II, e II, e § 3º, do CPC/2015, por ser cabível a aplicação subsidiária do referido dispositivo legal ao procedimento especial das ações possessórias, a fim de possibilitar a cumulação dos pedidos de reintegração de posse e de rescisão contratual, justificando, dessa maneira, o exame do seu requerimento subsidiário de rescisão da avença pelas instâncias de origem, a fim de, em seguida, reintegrá-la na posse do imóvel.
+Indica dissídio jurisprudencial e desrespeito ao art. 474 do CC/2002, argumentando que, ante a existência de cláusula resolutiva expressa no compromisso de compra e venda imobiliário celebrado entre as partes, o inadimplemento do recorrido ensejaria a rescisão automática do ajuste, motivo por que seria descabido extinguir a demanda de reintegração de posse do bem, com fundamento na carência de ação da empresa, devido à falta de prévia intervenção judicial para rescindir a avença.
+Por tais fundamentos, defende estar configurado o esbulho possessório imputado ao recorrido, por causa da permanência desse no imóvel, após o seu inadimplemento contratual, sendo, dessa forma, devido o deferimento do seu pedido de reintegração de posse.
+Foram apresentadas contrarrazões (e-STJ fls. 308/314).
+O recurso foi admitido na origem (e-STJ fl. 316).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 327, I, II, e II, e § 3º, do CPC/2015. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Segundo a jurisprudência do STJ, "é imprescindível a prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda de imóvel para que seja consumada a resolução do contrato, ainda que existente cláusula resolutória expressa, diante da necessidade de observância do princípio da boa-fé objetiva a nortear os contratos" (AgInt no AREsp n. 1.278.577/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/9/2018, DJe 21/9/2018).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PROMESSA DE COMPRA E VENDA. INADIMPLEMENTO CONTRATUAL. CLÁUSULA RESOLUTÓRIA EXPRESSA. AUSÊNCIA DE EFEITO AUTOMÁTICO. SÚMULA 83/STJ. EVASÃO APÓS A NOTIFICAÇÃO DA RESOLUÇÃO CONTRATUAL. IRRELEVÂNCIA. JURISPRUDÊNCIA FIRMADA TAMBÉM COM BASE EM CASOS DE PACTUAÇÃO DE CONTRATOS PARITÁRIOS. PRECEDENTES. APLICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. QUESTÃO SUSCITADA APENAS EM AGRAVO INTERNO. INOVAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+1. É assente o entendimento desta Corte Superior no sentido de que a cláusula resolutiva expressa não possui efeito automático em relação à posse derivada de promessa de compra e venda de imóvel, diante da necessidade de observância do princípio da boa-fé objetiva.
+2. Dessa forma, mostra-se escorreita a decisão monocrática ao fazer incidir o Enunciado n. 83/STJ, sendo irrelevante, para a solução desta controvérsia, eventual evasão de um dos recorridos após a notificação da resolução contratual.
+(..)
+5. Agravo interno parcialmente conhecido para, nesta extensão, negar-lhe provimento.
+(AgInt no AREsp n. 1.170.673/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/5/2018, DJe 18/5/2018.)
+O TJMG concluiu que (e-STJ fls. 275/278):
+Ab initio, submeto à apreciação da colenda Turma Julgadora matéria preliminar de carência de ação, suscitada pelo apelado na contestação e nas contrarrazões recursais de fls. 222/229.
+Quanto ao tema, deve-se ressaltar que, conquanto a prefacial tenha sido analisada pelo Magistrado a quo na sentença combatida, tratando-se de matéria de ordem pública, relacionada às condições da ação, não ocorre a preclusão pro judicato, prevista na norma do art. 471 do Estatuto de Rito.
+Compulsando os autos, vislumbra-se que o autor, ora apelante, ingressou com ação de reintegração de posse, aduzindo ter firmado junto ao apelado contrato de promessa de compra e venda de bem imóvel. Noticiou que apesar da entrega do bem à parte contrária, esta não efetuou o pagamento integral avençado.
+Após a impugnação à defesa, o Magistrado a quo julgou antecipadamente a lide, por entender pela desnecessidade da dilação probatória.
+Em que pesem as razões expendidas na sentença recorrida, perfilho o entendimento de que falta ao autor interesse processual para propor ação de reintegração.
+Isto porque, conforme dito, as partes firmaram contrato de promessa de compra e venda de imóvel, sendo a posse do apelado justa, porque decorre de contrato.
+(..)
+Destarte, anoto que o teor resolutivo expresso da cláusula 19 (contrato de fls. 32/47) deve ser interpretado à luz do Código de Defesa do Consumidor, não produzindo, pois, efeitos automáticos, de modo que, para a obtenção da reintegração de posse, faz-se necessária a rescisão judicial do negócio jurídico firmado entre as partes.
+Assim sendo, considerando que o contrato celebrado entre os litigantes não foi resolvido, não há que se falar em esbulho possessório, e, por corolário lógico, em ação de reintegração de posse.
+(..)
+Desta forma, forçoso reconhecer a carência de ação do apelante, o que implica na extinção do feito sem resolução do mérito, nos termos da norma do art. 267, VI, do Código de Processo Civil.
+Estando o acórdão impugnado em sintonia com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c"quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
