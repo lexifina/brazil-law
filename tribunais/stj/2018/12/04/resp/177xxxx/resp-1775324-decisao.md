@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por [NOME] AOUAR, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 170-196 e-STJ), assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE VERBA SALARIAL. LIMITE DE 30%. POSSIBILIDADE. - A parte executada deve responder pelos débitos a si imputados sem, no entanto, comprometer o seu sustento e o de sua familia. - Mesmo após o advento da nova ordem processual, mostra-se legitima a penhora de 30% (trinta por cento) do salário do executado, para fins de satisfação de sua obrigação.
+Opostos embargos declaratórios (fls. 141-157 e-STJ), restaram acolhidos para sanar omissão (fl. 162-167 e-STJ).
+Nas razões do especial (fls. 170-196 e-STJ), o insurgente aponta a existência de omissão e contradição na decisão recorrida e alega violação ao disposto no artigo 833, inc. IV, do CPC/15, sustentando ser impenhorável o salário.
+Transcorrido, in albis, o prazo para contrarrazões (fl. 220 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, em relação a omissão e contradição apontadas, o insurgente não apontou especificamente os dispositivos que teriam sido vulnerados pelo aresto estadual.
+No entanto, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. No presente caso, o recorrente não indica o dispositivo legal tido por violado, em relação a condenação por danos morais e necessidade da ação de prestação de contas. Incidência da Súmula 284-STF.
+2. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que houve falha na prestação de serviço, e que o mandatário praticou ato ilícito apto a gerar o dever de indenizar;
+outrossim, concluiu que não é cabível a condenação do autor por danos morais, e que não há falar em litigância de má-fé. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1115460/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+2. No mérito, o recorrente sustenta ser impenhorável o salário, nos termos do art. 833, inc. IV, do CPC/15.
+A Corte de origem assim decidiu a controvérsia (fls. 124-127 e-STJ):
+Como cediço, o cumprimento da sentença ocorre com o objetivo de satisfazer um direito reconhecido judicialmente, persuadindo o condenado a cumprir a sua obrigação, em prazo legalmente estipulado, ou, na sua inércia, retirando de seu patrimônio o necessário à satisfação de referido direito.
+E, como regra geral, todo o patrimônio do devedor se mostra suscetível a suportar os efeitos da sanção executiva. Confere-se imunidade à penhora de bens do devedor somente em hipóteses excepcionais, a fim de que, à luz do princípio constitucional da pessoa humana, não seja privado dos meios materiais indispensáveis à sua subsistência.
+O CPC/2015, a exemplo da ordem processual ora revogada, positiva o princípio da dignidade da pessoa humana no processo de execução, ao estabelecer, em seu art. 805, que a execução irá se realizar pelo modo menos gravoso ao devedor, e, ainda, em seu artigo 833, quando lista bens impenhoráveis.
+Contudo, os dispositivos que protegem o devedor no cumprimento de sentença, bem assim na execução, devem ser considerados não somente à luz do principio da dignidade da pessoa humana, mas também à luz dos princípios da razoabilidade, da proporcionalidade e, sobretudo, da segurança jurídica.
+Dessa forma, incumbe ao julgador sopesar a impossibilidade de sacrifícios exagerados do executado e a preservação da efetividade da prestação jurisdibional.
+Neste contexto, a meu sentir, considerando que a parte se encontra sendo demandada em procedimento de cumprimento de sentença, não pode deixar de pagar o que deve, simplesmente pelo fato de que o que recebe pelo seu trabalho é destinado a satisfazer as necessidades pessoais e da família, se esquivando de cumprir a obrigação a que condenado, sob a assertiva de que qualquer constrição sob seus rendimentos configuraria ofensa à sua dignidade.
+Afinal, assim não fosse, estaria o princípio da dignidade da pessoa humana sobrepondo-se com primazia à segurança das relações obrigacionais, assegurada pela jurisdição estatal, que não pode olvidar em garantir a pretensão dos credores em geral.
+ ..
+Todavia, deve ser ponderado o direito à dignidade da pessoa humana, visto que, caso o devedor tenha a totalidade de seus proventos destinados à quitação de débitos, estará privado do direito à vida, a alimentação, à saúde e à educação, direitos individuais os quais cumpre ao julgador fazer sobrepor ao direito do credor de ver satisfeito o seu crédito.
+O entendimento predominante neste eg. Tribunal de Justiça antes da entrada em vigor do Código de Processo Civil de 2015 era de que deveria ser permitida a penhora dos rendimentos do devedor, desde que fosse limitada ao percentual de 30% (trinta por cento) do rendimento liquido.
+ ..
+Com o advento do Código de Processo Civil de 2015, a princípio, não vislumbro razão para afastar o entendimento outrora firmado majoritariamente neste Sodalicio, o qual, como se infere, tem mantido a posição anteriormente adotada:
+ ..
+Ciente das divergências, comungo, com efeito, do entendimento que admite a penhora de 30% (trinta por cento) dos rendimentos líquidos do executado.
+De fato, me parece que a solução se mostra justa e atende à equidade contratual e aos princípios fundamentais do sistema jurídico brasileiro, eis que estabelece fixação de um patamar de retenção que permita a amortização do débito, sem o comprometimento do sustento e manutenção do agravante.
+Sendo assim, diante das circunstâncias especiais que estão a emoldurar o caso sob comento, estou a entender que a retenção de 20% (vinte por cento) do valor percebido pelo agravante a titulo de salário revela-se razoável.  grifou-se
+Em seguida, ao acolher os aclaratórios opostos, considerando a existência de penhoras anteriores sobre o salário do recorrente, a Corte de origem sanou omissão "a fim de permitir, com base na fubndamentação do acórdão embargado, a penhora de percentual máximo de 30% (trinta por cento) dos rendimentos líquidos do ora agravante, os quais deverão ser demonstrados no juízo da execução, a fim de que haja eventual dedução" (fl. 167 e-STJ).
+Ou seja, o Tribunal a quo entendeu ser possível a penhora do salário do recorrente, desde que não se ultrapasse o limite de 30% de seus rendimentos.
+A decisão encontra-se em consonância com o entendimento firmado pela Corte Especial em recente julgamento:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.
+(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018)  grifou-se
+Considerando o entendimento acima, a reforma do julgado, na forma pretendida pelo recorrente, a fim de reconhecer que a penhora do percentual de 30% de seus rendimentos lhe retiraria as condições de sustento e dignidade, esbarra no óbice da Súmula 7/STJ, uma vez que seria necessário o enfrentamento do quadro fático delineado na instância ordinária, o que é vedado nesta via recursal extrema, vocacionada à discussão eminentemente jurídica.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se parcialmente do recurso especial e, nesta extensão, nega-se provimento.
+Publique-se.
+Intimem-se.
