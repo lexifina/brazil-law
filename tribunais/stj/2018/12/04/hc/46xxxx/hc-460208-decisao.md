@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DIOGO INACIO DOS SANTOS, em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 39):
+APELAÇÃO CRIMINAL - MÉRITO, PENAS E REGIME PRISIONAL - Crime patrimonial praticado com emprego de arma e em concurso de agentes - Autoria e materialidade do delito hem demonstradas - Depoimentos dos policiais seguros e coerentes - Ausência de motivos para dúvidas acerca da veracidade de suas palavras - Prova suficiente para o decreto condenatório - Penas mitigadas - Necessidade - Regime prisional fechado adequado à espécie - Recursos parcialmente providos.
+O paciente foi condenado em 1º grau como incurso no art. 157, § 2º, incisos I e II, do CP, à pena de 6 anos de reclusão, mais 15 dias-multa, em regime inicial fechado.
+Interposta apelação, o Tribunal local deu parcial provimento ao recurso para reduzir a pena do roubo a 5 anos e 4 meses de reclusão, mais 13 dias-multa.
+Alega a impetrante que há constrangimento ilegal ao determinar um regime mais gravoso do que o cabível, ignorando a quantidade da pena aplicada, as circunstâncias judiciais valoradas de forma favorável e o tempo de prisão cautelar cumprida em regime fechado (fl. 6).
+Requer a fixação de regime inicial aberto de cumprimento de pena.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer ministerial foi pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+Sustenta a impetrante haver constrangimento ilegal na fixação de regime inicial fechado com base em motivação inidônea, tendo em vista que o paciente já se encontra preso preventivamente há quase três anos.
+Sobre o assunto, o magistrado de 1º grau se manifestou da seguinte forma (fls. 18/19):
+A pena-base restou arbitrada além do mínimo patamar abstratamente previsto em relação a Diogo por conta de seus maus registros penais consoante prova a certidão de fls. 166.
+ ..
+As sanções corporais aplicadas a ambos serão inicialmente expiadas no regime fechado como prevê a alínea "a", do §3º, do art. 33, do CP com a autorização do 3o do mesmo preceito legal por conta das nefastas conseqüências desta espécie de infração penal, que na atualidade em que vivemos neste país causa temor a todos os cidadãos de bem.
+O Tribunal local, por sua vez, assim se pronunciou (fl. 46/47):
+As bases ficam estabelecidas nos mínimos para ambos os acusados, tendo em vista que a certidão de fls. 166 (apontada na r. sentença recorrida para majorar a pena em relação ao coacusado Diogo) não indica o trânsito em julgado para a defesa; sem alterações, na etapa intermediária, pela atenuante da menoridade relativa do outro apelante Diogo (cf. fls. 28 e artigo 65, inciso I, do Código Penal), a teor, inclusive, da Súmula 231 do STJ.
+ ..
+O regime inicial fechado, a despeito da extensão das penas carcerárias aplicadas, no entanto, deve ser preservado, considerando a gravidade concreta da conduta perpetrada pelos réus, que revelaram ousadia e periculosidade diferenciada ao cometerem o crime em plena via pública, onde há grande movimentação de pessoas e, ainda, fazendo uso de uma arma de fogo para a prática da subtração, não merecendo, bem por isso, iniciar a sanção corporal em regime prisional mais brando, que não se mostra, no caso em análise, suficiente à prevenção e reprovação do delito perpetrado por eles (cf. artigo 33, § 3o, do Código Penal).
+Como se observa, foi fixado o regime fechado tendo em vista que o crime foi praticado em concurso de agentes, em via pública, mediante emprego de arma de fogo.
+A Terceira Seção deste STJ entende ser possível, desde que com base em motivação concreta, estabelecer regime prisional mais gravoso do que aquele que corresponderia, como regra geral, à pena aplicada. Tal fundamentação, porém, deve ser aferida caso a caso (HC n. 362.535/MG, Terceira Seção, Rel. Min. Felix Fischer, Rel. para o acórdão Min. Maria Thereza de Assis Moura, DJe de 8/3/2017).
+No caso em apreço, entretanto, o Tribunal local utilizou argumentos baseados na gravidade abstrata do delito, na mera reiteração do tipo penal e nos genéricos efeitos sociais da criminalidade para a fixação de regime prisional mais severo, o que é expressamente defeso em vista da jurisprudência das Cortes Superiores. Nesse sentido:
+HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. VALORAÇÃO NEGATIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CAUSAS DE AUMENTO. MAJORAÇÃO. CRITÉRIO MATEMÁTICO. ILEGALIDADE. SÚMULA 443/STJ. REGIME FECHADO. IMPOSIÇÃO. GRAVIDADE ABSTRATA. CONTINUIDADE DELITIVA. DUAS INFRAÇÕES. MAJORAÇÃO NA FRAÇÃO MÁXIMA. DESCABIMENTO.
+ ..
+7. Sendo os pacientes primários e reduzidas as penas-base ao mínimo legal em razão da ausência de circunstâncias judiciais negativas, impõe-se o estabelecimento do regime inicial semiaberto, mormente porque a opção pelo regime mais severo, nas instâncias ordinárias, foi fundamentada na gravidade abstrata do delito (HC 136.451/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/08/2011, DJe 12/09/2011).
+Portanto, não se justifica a imposição de regime inicial fechado a paciente primário, condenado à pena reclusiva superior a 4 anos e inferior a 8 anos, fazendo jus o paciente ao regime semiaberto, em atenção ao disposto no art. 33, §§ 2º, b, e 3º, do Código Penal.
+No que tange à detração, assim consignou a Corte local (fl. 74):
+Insta consignar, por derradeiro, que, a despeito do disposto na Lei nº 12.736/12, no caso em apreço, entendo inviável o desconto do tempo de prisão provisória para fins de determinação do regime inicial da pena privativa de liberdade, ante a ausência de outros subsídios de forma a averiguar a presença do requisito subjetivo para aplicação do artigo 387, § 2º, do Código de Processo Penal (bom comportamento carcerário dos acusados e ausência de faltas disciplinares), de modo que deixo de alterar, nesta fase, o regime inicial acima estabelecido para o cumprimento da pena corporal, conforme também postulado pela defesa.
+Com efeito, é pacífico nesta Corte Superior o entendimento de que, com o advento da Lei n. 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Ainda, entende-se que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+Nesse sentido: HC 351.957/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/04/2016, DJe 02/05/2016; HC 332.043/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2015, DJe 30/11/2015; HC 331.595/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/06/2016, DJe 28/06/2016; HC 353.618/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2016, DJe 28/06/2016.
+Assim, considerando que as instâncias ordinárias deixaram de aplicar o art. 387, § 2º, CPP, devem autos ser remetidos ao Juízo das execuções (fl. 78) para sanar a irregularidade do acórdão.
+Ante o exposto, concedo o habeas corpus para, mantida a condenação, fixar o regime inicial semiaberto, bem como para que o Juízo das execuções proceda à análise da detração, com estrita observância às regras do art. 33 do CP e do art. 387, § 2º, do CPP.
+Comunique-se.
+Publique-se.
+Intimem-se.
