@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 98):
+Gratuidade de justiça. Pessoa jurídica. Operadora de plano de saúde. Ausência de prova abrangendo a impossibilidade de arcar com os encargos do processo. Hipossuficiência não demonstrada. Denegação do benefício é de rigor. Inteligência da Súmula 481 do Superior Tribunal de Justiça. Agravo desprovido.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem, sob os seguintes fundamentos: ausência da demonstração de violação dos artigos 7º, 98, 369 e 408 do Código de Processo Civil de 2015; incidência da Súmula 7 do STJ no tocante ao pedido de concessão dos benefícios da justiça gratuita; e, não ser cabível recurso especial fundado em negativa de vigência à Súmula, limitou-se a agravante a sustentar a não incidência da Súmula 7 do STJ e a demonstração da violação dos dispositivos de lei suscitados em seu recurso com o lançamento de extensa fundamentação.
+Deixou, contudo, a ora agravante de impugnar o fundamento da decisão de admissibilidade relativo ao não cabimento de recurso especial fundado em negativa de vigência à Súmula.
+Assim, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Intimem-se.
