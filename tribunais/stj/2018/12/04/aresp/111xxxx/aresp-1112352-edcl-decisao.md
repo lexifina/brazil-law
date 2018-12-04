@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração - fls. 429/430e -, opostos por [NOME], em face de decisão por mim proferida às fls. 419/426e, que conheceu do Agravo para não conhecer do Recurso Especial interposto pelo ora embargada.
+Nas razões de seus aclaratórios, sustenta a embargante que a decisão incorreu em contradição uma vez que "foi determinada a sucumbência recíproca das partes, onde cada uma arcaria com o pagamento da verba honorária de seus respectivos patronos em 10% sobre as parcelas vencidas até a data da sentença" (fl. 430e).
+Com razão a embargante.
+Constatada a contradição, onde lê-se:
+"Por fim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da condenação, para 11% (onze por cento) sobre o valor da condenação, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015" (fl. 425e)
+Leia-se:
+"Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e, considerando a sucumbência recíproca estabelecida pelas instâncias ordinárias, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, devido ao advogado da parte recorrida, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015, sendo vedada a compensação, nos termos do § 14 do aludido dispositivo legal"
+Ante o exposto, acolho os embargos de declaração para que seja efetuada a retificação acima indicada.
+I.
