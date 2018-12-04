@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 133/134) que inadmitiu recurso especial por falta de demonstração da ofensa à lei federal.
+O acórdão recorrido está assim ementado (e-STJ fl. 103):
+Agravo interno. Decisão monocrática do Relator que negou seguimento a agravo de instrumento em processo falimentar, por ausência de peça obrigatória, referente à representação processual da parte agravada (Massa Falida) pelo Administrador Judicial. Alegação de habilitante de crédito de ter reproduzido a totalidade das peças de sua habilitação. Irrelevância. Incidente processual no qual não necessariamente presentes todas as peças necessárias ao agravo, a serem então buscadas nos próprios autos da falência. Habilitante que não juntou quer o termo de compromisso, quer cópia da decisão nomeando o Administrador, quer, no extremo, certidão indicativa da pessoa do representante judicial. Omissão efetivamente verificada. Decisão monocrática do art. 557, caput, do CPC, mantida. Agravo interno a que se nega provimento.
+O recurso especial (e-STJ fls. 112/121), fundamentado no art. 105, III, alíneas "a" e "c", da CF, apontou violação dos arts. 154 e 525, I, do CPC/1973. Apontou que o agravo de instrumento não foi conhecido na origem por ausência de peça obrigatória, a saber, documento que comprovasse a nomeação do administrador judicial.
+Alegou que haveria certidão em que consta o nome do administrador, o que seria suficiente. Ponderou ser aplicável o princípio da instrumentalidade das formas.
+Sustentou que a peça apontada pelo aresto não seria obrigatória, não estando no rol do art. 525, I, do CPC/1973.
+Foram apresentadas contrarrazões (e-STJ fls. 125/128).
+O agravo (e-STJ fls. 139/146) refuta os fundamentos da decisão agravada e alega o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 166/170).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem não conheceu o agravo de instrumento por ausência das peças obrigatórias. Ressaltou faltar documento que comprove a representação da parte e identifique o administrador judicial. Apontou inexistir cópia do termo de nomeação ou de certidão correspondente (e-STJ fls. 105/107):
+A alusão à reprodução integral das peças dos autos da habilitação é inócua, visto tratar-se de incidente relativo ao processo falimentar, não contemplando necessariamente todas as peças obrigatórias à instrução de recursos de agravo, algumas presentes nos autos principais, onde deveriam ter sido obtidas pela agravante.
+É o caso da documentação relativa à representação da Massa Falida pelo Administrador Judicial, aspecto formal que como é cediço acaba não sendo reproduzido em cada incidente que vai sendo formado ao longo do processamento da falência.
+E não há que se falar em desnecessidade de qualquer documento a esse respeito, pelo fato de o Administrador atuar pessoalmente, sem a constituição por ele próprio de advogado. O que o art. 525,1, do CPC, cogita, não é de procurações pelo simples fato de o serem, mas por constituírem usualmente a forma de se demonstrar a representação processual de cada parte; o objeto central, em última análise, é esse, vale dizer, a demonstração cabal de quem esteja habilitado a falar pela parte nos autos.
+À agravante, dessa forma, era não apenas possível como também exigível que juntasse cópia em tal sentido, não bastando evidentemente a reprodução de petições subscritas pelo pretenso Administrador (como também, em agravos relativos a causas comuns, a reprodução de petições em nome de agravante e agravado, apresentadas nos autos originários, não supre a necessidade de juntada dos instrumentos de mandato respectivos).
+Note-se que, pela circunstância de inexistir no caso presente procuração quanto ao Administrador, o cumprimento da exigência legal se mostrava inclusive mais flexível. Mencionou a decisão monocrática do Relator o termo de compromisso, mas a exigência poderia também ser suprida pela reprodução da decisão judicial de nomeação, ou no extremo por certidão cartorária acerca desse aspecto.
+Ocorre que nenhum desses documentos veio exibido pela agravante.
+Embora a recorrente afirme existir certidão que indique o nome do administrador judicial, a tese não pode ser analisada no recurso especial, pois exigiria análise do contexto probatório dos autos, o que não se permite, segundo a Súmula n. 7/STJ.
+Sobre a não obrigatoriedade de apresentação do documento, o recurso também não prosperar.
+Isso porque a jurisprudência, analisando a representação processual da massa falida, concluiu que o termo de compromisso, ou documento equivalente, deve fazer parte do instrumento.
+A propósito, confiram-se as seguintes ementas:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA. ATO DE NOMEAÇÃO DO SÍNDICO DE MASSA FALIDA. ARTIGO 544, § 1º, DO CPC.
+1. Compete ao agravante zelar pela correta formação do instrumento de agravo. A ausência de cópia da procuração do agravado acarreta o não-conhecimento do recurso, ante o disposto no artigo 544, § 1º, do CPC.
+2. "A procuração da agravada é peça essencial à formação do instrumento de agravo, de modo a permitir o seu conhecimento. Sendo a agravada massa falida, a peça essencial se constitui no ato de nomeação do síndico" (Ag 535.677/RS, Rel. Min. Luiz Fux).
+3. Agravo regimental não provido.
+(AgRg no Ag 1016177/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 03/06/2008, DJe 16/06/2008)
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CÓPIA. PROCURAÇÃO. ADVOGADO. PARTE AGRAVADA. PEÇA OBRIGATÓRIA. MASSA FALIDA. ATO DE NOMEAÇÃO DO SÍNDICO. AUSÊNCIA.
+I - A cópia da procuração outorgada ao advogado da parte agravada constitui peça obrigatória na formação do agravo de instrumento, conforme explicitado no artigo 544, § 1º, do Código de Processo Civil.
+II - Figurando a massa falida como agravada, torna-se imprescindível a juntada aos autos da cópia do ato de nomeação do síndico, por constituir peça fundamental à comprovação da regularidade da representação processual Agravo improvido.
+(AgRg no Ag 1029025/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/05/2008, DJe 16/06/2008)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMPROVAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ATO DE NOMEAÇÃO E TERMO DE COMPROMISSO. VIOLAÇÃO DO ART.
+535 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO DO AGRAVO DE INSTRUMENTO PELO TRIBUNAL DE ORIGEM. NÃO INTIMAÇÃO DO AGRAVADO PARA APRESENTAÇÃO DE CONTRARRAZÕES. VIOLAÇÃO DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NULIDADE DA DECISÃO.
+1. O ato de nomeação e o termo de compromisso prestado pelo síndico, advogado que representa a massa falida em juízo, substituem a procuração.
+2. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado por julgado proferido em embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+3. Provido o recurso, é necessária a intimação da parte recorrida para apresentar contrarrazões, nos termos do art. 527, V, do CPC, sob pena de violação do contraditório e da ampla defesa. (REsp n. 1.148.296/SP, submetido ao regime do art. 543-C do CPC.) 4. Agravo regimental provido para se conhecer do recurso especial e dar-lhe parcial provimento.
+(AgRg no REsp 1427729/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.
+RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. SÚMULA 115 DO STJ. MASSA FALIDA. REGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. JUNTADA DO ATO DE NOMEAÇÃO DO SÍNDICO E DO RESPECTIVO TERMO DE COMPROMISSO. NECESSIDADE. AGRAVO NÃO CONHECIDO. 1. Ausente procuração outorgando poderes ao advogado e/ou incompleta a cadeia de substabelecimento, o recurso deve ser considerado inexistente, pela aplicação do verbete sumular n. 115/STJ. Precedentes. Enunciado Administrativo n. 2 do STJ.
+2. "Se a massa falida figura como parte em processo diverso daquele em que se processa a falência, é dever do síndico juntar cópia do ato de nomeação e do termo de compromisso que o habilitou. Se não o fizer, tem-se por irregular a representação processual" (AgRg no AREsp n. 81640/PR, Relator Ministro Antonio Carlos Ferreira).
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1010928/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/04/2017, DJe 18/04/2017)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1042 DO CPC/15) - AÇÃO DE HABILITAÇÃO DE CRÉDITO EM FALÊNCIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO - INCIDÊNCIA DA SÚMULA 115/STJ. INSURGÊNCIA DA DEMANDADA.
+1. É necessário consignar que o recurso especial subjacente ao presente agravo interno atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça." 2. Nos termos da jurisprudência consolidada sob a égide do anterior diploma adjetivo, consideram-se inexistentes os recursos dirigidos à instância superior, desacompanhados do respectivo instrumento de procuração, à luz do disposto na Súmula 115 do STJ. Vício não sanável por juntada posterior de mandato ou substabelecimento, uma vez inaplicável o disposto no artigo 13 do CPC/73 (vigente à época da interposição do reclamo) na instância extraordinária.
+3. "Se a massa falida figura como parte em processo diverso daquele em que se processa a falência, é dever do síndico juntar cópia do ato de nomeação e do termo de compromisso que o habilitou. Se não o fizer, tem-se por irregular a representação processual" (AgRg no AREsp n. 81640/PR, Relator Ministro Antonio Carlos Ferreira).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 183.869/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O ato de nomeação e o termo de compromisso prestado pelo síndico, advogado que representa a massa falida em juízo, substituem a procuração. Precedentes.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp 1493389/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/08/2018, DJe 10/08/2018)
+Por fim, inaplicável o princípio da instrumentalidade das formas. Isso porque, o documento apontado pela recorrente não é suficiente para alcançar a finalidade da norma, qual seja, aferir de modo efetivo a tempestividade.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
