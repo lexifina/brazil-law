@@ -1,0 +1,29 @@
+DECISÃO
+1. Trata-se de agravo interposto por CONDOMINIO EDIFICIO LE BOUGANVILLE HOME SERVICE contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO. CONTRIBUIÇÃO DE MANUTENÇÃO DE LOTEAMENTO. INCORPORAÇÃO IMOBILIÁRIA. SUB-ROGAÇÃO NOS DEVERES DA PROPRIETÁRIA INCORPORADORA. ANUÊNCIA. COBRANÇA APROVADA EM ASSEMBLEIA. TERMO INICIAL DOS JUROS E DA CORREÇÃO MONETÁRIA. VENCIMENTO. HONORÁRIOS. FIXAÇÃO EM PERCENTUAL DA CONDENAÇÃO.
+1. É certo que o valor da liberdade de associação, consubstanciado na Constituição Federal, deve prevalecer sobre o interesse dos associados na criação de uma entidade destinada a promover melhorias no loteamento. No entanto, a anterior proprietária do lote concordou com a condição de sócia nata que lhe conferia o Estatuto Social da autora, e, com isso concordou em contribuir com a manutenção realizada pela associação. Diante da incorporação levada a efeito, os condôminos se sub-rogaram na obrigação de pagar a taxa instituída, de modo que não pode o condomínio que os representa se eximir do pagamento.
+2. Obrigação com data de vencimento certo. Correção monetária e juros legais devidos desde o inadimplemento, quando constituída a mora.
+3. Embora não liquidada na própria sentença, uma vez que deverão ser consideradas as demais prestações vencidas no curso da demanda, houve condenação da ré ao pagamento de quantia, não estando presentes quaisquer das situações previstas no art. 20, § 4º, do Código de Processo Civil a autorizar o arbitramento da verba honorária equitativamente, de modo que deve ser aplicada a regra geral estabelecida no § 3º do mesmo dispositivo, que prevê, no arbitramento dos honorários sucumbenciais, a aplicação de percentual sobre o valor da condenação.
+4. Recurso do réu não provido. Recurso da autora provido nos termos explicitados.
+
+Nas razões do especial, alega-se violação dos arts. 3º, 6º e 267, VI, do Código de Processo Civil/73, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+O Tribunal de origem registra que a incorporadora MENDES JUNIOR EDIFICAÇÕES LTDA, anuiu ao regulamento da associação de moradores recorrida.
+Sendo assim, os condôminos ao adquirirem unidades do edifício construído pela incorporadora supracitada, se sub-rogaram no dever de pagar a taxa de manutenção instituída pela associação de moradores.
+Deste modo, não pode o condomínio, na condição de representante dos condôminos, se eximir da obrigação em questão, notadamente porque os pagamentos realizados desde 1986 até 2012 reforçam a sua anuência às cobranças.
+Portanto, não pode o recorrente alegar sua ilegitimidade passiva ad causam pois está expressamente consignado na convenção que o instituiu a obrigação de arcar com a referida taxa, na qualidade de representante dos condôminos.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. TEMA Nº 882. TAXA DE MANUTENÇÃO. CRIAÇÃO POR ASSOCIAÇÃO DE MORADORES. ANUÊNCIA RECONHECIDA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Segunda Seção do STJ, sob o rito dos recursos especiais repetitivos, no julgamento do Recurso Especial n.º 1.280.871/SP, vinculado ao Tema nº 882 do STJ, consolidou o entendimento no sentido de que as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram.
+3. Para se concluir em sentido contrário ao que ficou expressamente consignado no aresto recorrido no sentido de que teria havido anuência por parte do recorrente quanto à cobrança das taxas de manutenção, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é vedado pela Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1726980/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/08/2018, DJe 27/08/2018) - g.n.
+3. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
