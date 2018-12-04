@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 196/197, in verbis:
+1. Trata-se de recurso especial, interposto pelo MP/RS, com base no art. 105, inciso III, "a", da CF, contra acórdão da 3ª Câmara Criminal do TJRS (fls. 139- 44), que, em 30-05-2018, deu provimento ao Agravo em Execução interposto pelo apenado EVERSON PORTO MARQUES (recorrido) para deferir a remição do período estudado entre 17-03-2014 e 05-08-2014. O agravo foi interposto contra decisão do Juízo de Direito da Vara de Execuções Criminais da Comarca de Cachoeira do Sul/RS, que, em 20-02-2018, indeferiu o pedido de remição formulado pelo apenado [NOME] (recorrido) (PEC 23034-0; fls. 124).
+II - Relatório 2. Em 20-02-2018, o Juízo de Direito da Vara de Execuções Criminais da Comarca de Cachoeira do Sul/RS indeferiu o pedido de remição do apenado [NOME] PORTO MARQUES (recorrido) sob o fundamento de que o período de estudo ou trabalho anterior ao crime pelo qual o sentenciado cumpre pena não pode ser utilizado para fins de remição (fl. 124).
+3. Em 30-05-2018, a 3ª Câmara Criminal do TJRS deu provimento ao Agravo em Execução interposto pelo apenado (recorrido) para deferir a remição do período estudado entre 17-03-2014 e 05-08-2014.
+4. Em 15-06-2018, o MP/RS interpôs recurso especial; alega, em síntese, contrariedade ao art. 126 da Lei nº 7.210/84; embora a remição pelo trabalho ou pelo estudo seja direito subjetivo do apenado, é necessário que o período de trabalho seja posterior à data de cometimento dos crimes pelos quais o apenado cumpre pena. Requer o provimento do recurso especial para restabelecer a decisão do Juízo de Execuções.
+5. Em 14-8-2018, o apenado ofereceu contrarrazões ao recurso especial (fls. 166-74).
+Ao final, o Parquet opinou pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Assiste razão ao recorrente.
+É que "este Superior Tribunal de Justiça firmou orientação quanto à impossibilidade de remição do tempo de trabalho executado em momento anterior à prática do delito da pena a ser remida" (HC n. 420.257/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+Confiram-se, ainda, nesse mesmo sentido:
+PROCESSUAL PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. REMIÇÃO PELO TRABALHO. DESCONTO DOS DIAS TRABALHADOS EM OUTRA EXECUÇÃO. PERÍODO TRABALHADO ANTERIOR AO COMETIMENTO DO CRIME. INVIABILIDADE. IMPOSSIBILIDADE DE CRIAÇÃO DE CRÉDITO CONTRA A JUSTIÇA CRIMINAL. PRECEDENTES. APLICAÇÃO DO ENTENDIMENTO FIRMADO SOBRE A DETRAÇÃO PENAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - "In casu, constata-se que a decisão proferida pelo Tribunal Paulista está em consonância com o entendimento consolidado na jurisprudência desta Corte Superior, no sentido de ser possível aplicar-se a detração penal dos dias trabalhados no cômputo da pena de processo diverso daquele no qual efetivou-se a atividade laboral, exigindo-se, para tanto, que o crime ao qual se deseja a detração seja anterior à execução na qual implementou-se os dias remidos, hipótese inocorrente nos autos" (AgRg no HC n. 326.443/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/5/2017).
+III - No presente caso, verifica-se que o período trabalhado pelo paciente, e sobre o qual se pretende a remição da pena (28/6/2012 a 8/5/2013), é anterior à data do cometimento do crime de tráfico (9/7/2013), cuja pena está sendo executada, razão pela qual não é possível a remição pretendida, tal qual ocorre com a detração, sob pena de criação de um crédito em favor do paciente contra a Justiça Criminal.
+Habeas Corpus não conhecido. (HC 377.703/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/08/2017, com destaques.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRISÃO CAUTELAR RELATIVA A PERÍODO ANTERIOR AO DELITO. INCIDÊNCIA DA DETRAÇÃO. IMPOSSIBILIDADE. VEDAÇÃO DO PRINCÍPIO DA "CONTA CORRENTE". AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Tendo em vista as particularidades dialogais que entremeiam o delito e seu contexto cronológico, é difícil admitir-se que o sujeito, de antemão, já possa ter "remido a culpa" por fato ainda vindouro, sob pena de se consagrar o indevido princípio da "conta corrente".
+2. Agravo regimental a que se nega provimento. (AgRg no REsp 1036459/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/06/2011, DJe 28/06/2011.)
+Ante o exposto, tendo em vista que o entendimento consignado pelo Tribunal de origem não está de acordo com a orientação firmada por esta Corte Superior, dou provimento ao recurso especial, para indeferir a remição postulada referente ao período anterior ao cometimento do crime.
+Publique-se. Intimem-se.
