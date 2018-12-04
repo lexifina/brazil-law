@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+      APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. CANCELAMENTO DA MATRÍCULA DE IMÓVEL. USUCAPIÃO RECONHECIDA EM SENTENÇA TRANSITADA EM JULGADO. DIREITO LÍQUIDO E CERTO COMPROVADOS. IMPROVIMENTO.
+    - Mostra-se correta a sentença que reconhece a violação de direito líquido e certo do proprietário de imóvel que teve cancelada sua respectiva matrícula, objeto de sentença, transitada em julgado, de procedência da anterior ação de usucapião;
+    - Outrossim, não prospera a alegação de que o cancelamento da referida matrícula fora baseado em decisão do Supremo Tribunal Federal, uma vez que essa decisão apenas determinou a discussão, na esfera administrativa da legalidade do posterior projeto de loteamento, não adentrado sobre a propriedade do bem;
+    - Apelo improvido.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 183 da CF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pelo não seguimento do recurso.
+    O recurso não deve ser provido.
+    De início, o art. 102, § 3º, da Constituição exige, como requisito de admissibilidade do recurso extraordinário, a demonstração de repercussão geral das questões constitucionais discutidas no caso. Por sua vez, o art. 1.035, § 1º, do Código de Processo Civil estabelece que para caracterizar a repercussão geral deve ser considerada a existência ou não de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. O § 2º do mesmo artigo impõe à parte recorrente o dever de demonstrar a existência de repercussão geral.
+    Visto brevemente o quadro normativo relevante, passa-se à análise do caso. O recurso não trata de hipótese de repercussão geral presumida, uma vez que não houve contrariedade a súmula ou jurisprudência dominante do Supremo Tribunal Federal (STF), nem reconhecimento de inconstitucionalidade de qualquer ato normativo (CPC, art. 1.035, §3º). Diante disso, a sua admissibilidade exige que a demanda não apenas ultrapasse os interesses das partes, como também se mostre adequada para a discussão das questões constitucionais relevantes do ponto de vista econômico, político, social ou jurídico. Do exame do caso concreto, porém, estou convencido que o recurso extraordinário não preenche os requisitos fáticos, normativos e comparativos necessários para o seu conhecimento.
+    A jurisprudência do STF já afirmou que é ônus da parte recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário. A alegação de repercussão geral com fundamentação insuficiente ou não demonstrativa da relevância e transcendência do caso impede o conhecimento do recurso. Nesse sentido:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO.  PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DA PARTE RECORRENTE  . ANÁLISE DE NORMAS LOCAIS. INVIABILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (RE 807143-AgR, Rel. Min. Teori Zavascki, grifos acrescentados)
+    Citem-se, ainda, contendo igual orientação, o ARE 691.595-AgR, Rel. Min. Ricardo Lewandowski; ARE 696.347-AgR-segundo, Relª. Minª. Cármen Lúcia; ARE 696.263-AgR, Rel. Min. Luiz Fux; RE 762.114-AgR, Relª. Minª. Rosa Weber, AI 717.821-AgR, Rel. Min. Joaquim Barbosa; e ARE 858.726-AgR, sob a minha relatoria.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 04 de dezembro de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
