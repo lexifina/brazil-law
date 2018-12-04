@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA PRIVATIVA INFERIOR A 04 ANOS. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. QUANTIDADE DOS ENTORPECENTES. MODO PRISIONAL JUSTIFICADO. INSURGÊNCIA DESPROVIDA.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena privativa firmada, devendo-se considerar as demais circunstâncias do caso versado.
+2. Na espécie, embora tenha sido fixada a reprimenda em patamar inferior a 4 (quatro) anos de reclusão, a gravidade concreta do crime, evidenciada pela quantidade dos entorpecentes - 48 kg de maconha -, torna viável o estabelecimento do modo mais gravoso, nos termos do art. 33, § 2º, alínea b, e § 3º, do Código Penal e art. 42 da Lei de Drogas.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por ANDRE JULIANO VASSELAI DE OLIVEIRA, contra a decisão de fls. 653/656, por meio da qual não se conheceu do habeas corpus, por ser manifestamente incabível, assentando-se, ainda, a inexistência de constrangimento ilegal para fins de concessão da ordem de ofício.
+Sustenta o agravante a ausência de fundamentação idônea apta a justificar a fixação do regime inicial semiaberto para o resgate da reprimenda privativa.
+Assevera que a pena imposta ao agravante foi abaixo de 04 anos, razão pela qual deve ser estabelecido o modo prisional mais brando, em atenção ao princípio da proporcionalidade e a evitar violação ao dispositivo no art. 33 do Código Penal.
+Destaca que existe jurisprudência recente no sentido de se fixar o regime menos gravoso mesmo diante de mais de uma circunstância judicial desfavorável.
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o breve relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Inicialmente, tendo em vista que a defesa foi intimada eletronicamente da decisão impugnada aos 22.10.2018 (e-STJ fl. 659), cumpre atestar a tempestividade do inconformismo, pois interposto aos 22.10.2018 (e-STJ fl. 657), dentro do prazo previsto no artigo 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Isso, porque, consoante consignado no pronunciamento judicial atacado, no que concerne ao regime inicial para o cumprimento da pena, o Tribunal a quo manifestou-se da seguinte forma, litteris:
+Do regime prisional No caso em apreço, a imposição do regime prisional inicial deve ser feito de acordo com as particularidades do caso concreto e ditames do artigo 33, do Código Penal, pois apesar da pena ser inferior a 4 (oito) anos, o regime prisional inicial deve ser o semiaberto, ante a grande quantidade da droga apreendida com o ora apelante, qual seja, 48 Kg de maconha (f. 28) nos moldes do artigo 33, §§2º e 3º, do Código Penal. (fls. 577/578)
+A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena privativa firmada, devendo-se considerar as demais circunstâncias do caso versado.
+Desse modo, conforme aludido no acórdão de apelação, a quantidade de substâncias entorpecentes - 48 kg de maconha - não pode ser ignorada na análise do modo inicial de cumprimento de pena, a qual é vinculada às regras estabelecidas nos §§ 2º e 3º do art. 33, do Código Penal, aliada à regra específica do art. 42 da Lei de Drogas.
+A par disso, levando-se em conta o quantum final de pena aplicado, além da quantidade de entorpecentes apreendidos, entende-se proporcional a escolha do seu encarceramento no regime intermediário, haja vista que a mantença do modo fechado implicaria duplo agravamento na situação prisional do paciente, conforme disposto no art. 33 do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO AGRAVADA QUE DEFERIU O REGIME INTERMEDIÁRIO AO PACIENTE. IRRESIGNAÇÃO MINISTERIAL. ASSOCIAÇÃO PARA O TRÁFICO. REGIME PRISIONAL. MAUS ANTECEDENTES. VALORAÇÃO NEGATIVA. CRITÉRIO IDÔNEO. PACIENTE PRIMÁRIO, CONDENADO A PENA NÃO SUPERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS NEGATIVAS QUE APENAS JUSTIFICAM O REGIME INTERMEDIÁRIO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para alterar o regime prisional para inicial semiaberto.
+2. Hipótese em que a decisão agravada reconheceu como idônea a fundamentação exarada na origem para recrudescer o regime prisional, mas ponderou que o inicial fechado, excessivamente mais gravoso que a pena de 3 anos e 6 meses de reclusão comporta, seria desproporcional, na medida em que o paciente é primário.
+3. Agravo regimental não provido.
+(AgRg no HC 448.106/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/09/2018, DJe 13/09/2018)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E VARIEDADE DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. FALTA DE ELEMENTOS CONCRETOS QUE INDIQUEM A DEDICAÇÃO DO AGENTE EM ATIVIDADES CRIMINOSAS. NECESSIDADE DE READEQUAÇÃO DA PENA. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODO SEMIABERTO. MANIFESTA ILEGALIDADE VERIFICADA, EM PARTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. In casu, as instâncias antecedentes consideraram a quantidade e a variedade de droga apreendida - 50 frasquinhos de cocaína (28,9g) e 45 pedras de crack (6g) - para majorar a pena inicial em 1/6, o que não se mostra desproporcional.
+4. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art.
+33, § 4º, da Lei n. 11.343/2006).
+5. Hipótese em que a ausência de ocupação lícita e a quantidade de droga apreendida são insuficientes para se inferir a habitualidade do paciente no comércio de drogas, sobretudo quando certificada sua primariedade e seus bons antecedentes, sendo cabível, portanto, a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo.
+6. Estabelecida a pena em patamar inferior a 4 anos de reclusão, o regime semiaberto é o adequado para o cumprimento da pena privativa de liberdade, diante da aferição negativa das circunstâncias judiciais (art. 33, §§ 2º e 3º, e art. 59, ambos do CP).
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 2/3, ficando a pena final em 1 ano e 8 meses de reclusão, mais pagamento de 167 dias-multa, bem como para fixar o regime inicial semiaberto.
+(HC 458.961/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/08/2018, DJe 03/09/2018)
+Destacou-se que, fixada a reprimenda em patamar inferior a 4 (quatro) anos de reclusão e tendo em vista a quantidade dos entorpecentes apreendidos, mostra-se viável o estabelecimento do modo semiaberto, nos termos do art. 33, § 2º, alínea b, e § 3º, do Código Penal.
+Assim, inexistindo ilegalidade a ser sanada por esta Corte Superior, a decisão agravada deve ser mantida.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
