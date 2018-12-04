@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA. DUPLA APELAÇÃO CÍVEL. AÇÃO DE REVISÃO E RESCISÃO CONTRATUAL. RESTITUIÇÃO EM DOBRO. NÃO CABIMENTO. AUSÊNCIA DE MÁ FÉ. DANOS MORAIS. INEXISTENTES. MERO DISSABOR. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL. IMPROCEDENTES. HONORÁRIOS ADVOCATÍCIOS. 1 - Incabível a restituição em dobro, no caso, uma vez que até o momento da revisão contratual aqui decidida, não se poderia reconhecer erro e muito menos má-fé da instituição financeira. 2 - Tratando-se de empréstimo na modalidade cartão de crédito consignado em folha de pagamento, o abalo subjetivo sofrido pelo recorrente não transpõe a barreira do mero dissabor, o qual não pode ser confundido com o dano moral e, por isso, não dá ensejo à compensação pecuniária. 3 -  Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente . REsp 1112879/PR, Tema 234, STJ. 4 -  A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara . REsp 973827/RS, Tema 247, STJ. 5 - Quando não for possível mensurar o valor da condenação ou do proveito econômico obtido, o percentual de honorários será fixado sobre o valor atualizado da causa. APELAÇÕES CONHECIDAS E DESPROVIDAS.
+Sustenta a agravante, violação ao art. 85, § 2º do Código de Processo Civil/2015, sob o argumento de que os honorários de sucumbência deveriam ter sido arbitrados sobre o proveito econômico a ser apurado em fase de liquidação de sentença e não sobre o valor da causa.
+Alega que "numa ação em que se busca a nulidade de cláusulas contratuais derivadas de um contrato de abertura de crédito, os honorários devem ser estipulados sobre o proveito econômico obtido pelo devedor, e não sobre o valor atribuído à causa cuja composição não guarda equivalência com o desfecho da demanda" (fl. 459).
+Requer, dessa forma, a reforma na fixação dos honorários de sucumbência.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+No tocante aos honorários advocatícios, assim discorreu a Corte de origem (fls. 447-448):
+Por fim, a segunda apelante pleiteia, ainda, a reforma da sentença a fim de que os honorários advocatícios sejam fixados sobre o valor do proveito econômico obtido pelo autor e não sobre o valor da causa. O art. 85, § 2o do Código de Processo Civil disciplina os critérios quantitativos e qualitativos de fixação dos honorários advocatícios de sucumbência, senão vejamos:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Da exegese do referido dispositivo, nota-se que quando não for possível mensurar o valor da condenação ou do proveito econômico obtido, o percentual de honorários será fixado sobre o valor atualizado da causa.
+Isso porque proveito econômico obtido com procedência do pleito revisional serão apurados em liquidação de sentença.
+Assim, correta a sentença que fixou 20% de honorários advocatícios de sucumbência sobre o valor da causa.
+Com efeito, consigno, dentre outras, a seguinte alteração calçada nos parágrafos do art. 85 do CPC/2015: a base de cálculo dos honorários será o valor da condenação ou do proveito econômico obtido e, no caso de não haver estes dois, poderá ser adotado o valor atualizado da causa.
+No caso, tendo em vista que a sentença foi proferida na vigência do CPC/2015, adotou o valor atualizado da causa para fixação dos honorários de sucumbência. Tal entendimento foi confirmado pelo acórdão recorrido com fundamento na inexistência de valor para a condenação e impossibilidade de apuração do proveito econômico, o que encontra guarida na jurisprudência deste Superior Tribunal de Justiça, vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. CONTRADITÓRIO PRÉVIO À SENTENÇA DE EXTINÇÃO EXISTÊNCIA. POSSIBILIDADE DE DECLARAÇÃO DA PRESCRIÇÃO. TESE FIRMADA NO TEMA 1 DO IAC, PRECEDENTE DE OBSERVÂNCIA OBRIGATÓRIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APLICAÇÃO DA EQUIDADE PREVISTA PELO ART. 85, § 8º, DO CPC/2015 EM CASO DE ELEVADO VALOR DA CAUSA E DE PROVEITO ECONÔMICO DE VALOR RELEVANTE IDENTIFICADO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Os honorários advocatícios devem, ordinariamente, ser arbitrados com fundamento nos limites percentuais estabelecidos pelo art. 85, § 2º, do CPC/2015 sobre o proveito econômico obtido, ou, na impossibilidade de identificá-lo, sobre o valor atualizado da causa. A equidade prevista pelo § 8º do referido artigo somente pode ser utilizada subsidiariamente, apenas quando não possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa.
+3. Agravo interno desprovido.
+(AgInt no AREsp 983554/PR, Rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14.8.2018, DJe 24.8.2018).
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - SOCIEDADE ANÔNIMA - BÔNUS DE SUBSCRIÇÃO E OPÇÃO DE COMPRA DE AÇÕES - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO RECURSO ESPECIAL PARA JULGAR IMPROCEDENTE A AÇÃO - INSURGÊNCIA DO AUTOR.
+(..)
+2. Nas causas em que não houver condenação, em razão da improcedência da demanda, os honorários advocatícios serão arbitrados com base no valor atualizado da causa, atendendo aos critérios estabelecidos no artigo 85, § 2º, CPC/2015, quais sejam: o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa; o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Na hipótese, foram observados tais preceitos, não havendo razão para reduzir a verba honorária fixada.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1305165/RJ, Rel. Min. MARCO BUZZI, Quarta Turma, julgado em 18.5.2017, DJe 30.5.2017).
+Incide, portanto, o óbice da Súmula 83 desta Casa.
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil, em razão de ter a sentença (e-STJ, fl. 355) estabelecido o percentual máximo permitido.
+Intimem-se.
