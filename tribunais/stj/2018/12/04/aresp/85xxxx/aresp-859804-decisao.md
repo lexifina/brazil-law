@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por descabimento de tese da violação de dispositivo constitucional e incidência da Súmula n. 7 do STJ (e-STJ fls. 1.275/1.276).
+O acórdão recorrido está assim ementado (e-STJ fl. 928):
+EMENTA - DANO MORAL. FIXAÇÃO EM SALÁRIOS MÍNIMOS. POSSIBILIDADE. DÍVIDA EXEQUENDA. QUANTUM DEBEATUR. RETIFICAÇÃO DE OFÍCIO PELO JUÍZO AD QUEM. PROVIMENTO JURISDICIONAL EXTRA PETITA. NÃO CONFIGURAÇÃO. RECURSO ADESIVO INTERPOSTO PELO EXEQUENTE/AGRAVADO. IMPROVIMENTO. REEMBOLSO DAS CUSTAS DE PREPARO AO SUCUMBENTE. DESCABIMENTO. COMPENSAÇÃO DO DÉBITO ENTRE OS LITIGANTES. IMPOSSIBILIDADE.
+1 - Rega possibilitada a fixação da reparação por danos morais em salários mínimos, uma vez que tal parâmetro não foi utilizado como fator de indexação - que seria vedado constitucionalmente - mas, tão-somente, para a definição do montante indenizatório, o qual deverá ser corrigido monetariamente e acrescido de juros moratórios a partir desse valor, sendo igualmente corrigidas as custas e honorários advocatícios de sucumbência, conforme mandamento insculpido no Art. 1º da Lei nº 6.899/81.
+2 - Não se configura provimento jurisdicional extra petita do juízo ad quem, mas prerrogativa legalmente conferida ao julgador, a retificação, de oficio, do quantum debeatur, adequando-os ao dispositivo da sentença, quando constatado erro material no cálculo da dívida exeqüenda, sendo igualmente descabida a hipótese de reembolso, ao exeqüente/agravado, das custas de preparo do recurso adesivo interposto pelo mesmo, no qual foi sucumbente ante o seu improvimento.
+3 - Afigura-se impossibilitada a compensação do débito entre os litigantes, eis que este não pertence ao exeqüente/agravado, mas à pessoa jurídica da qual é sócio avalista, razão pela qual, não seria pertinente que respondesse diretamente por dívida de outrem, mormente quando esta se revela ilíquida, ao se restringir a uma planilha unilateralmente produzida pelo próprio executado/agravante.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 998/1.003).
+Nas razões do recurso especial (e-STJ fls. 1.012/1.041), interposto com fundamento no art. 105, III, "a" e "c", da CF, o agravante alegou:
+(i) ofensa ao art. 463, I, do CPC/197, requerendo a nulidade do julgado, porque não houve correção de erro material no cálculo da dívida, "mas sim (uma) mudança da forma ou do critério do cálculo do valor da indenização arbitrada, circunstância essa que, como bem sabem os versados em direito, não pode ser invocada para tanto, porque, afinal, tal mudança da forma ou do critério do cálculo não configura a existência de um erro de cálculo material capaz de desconstituir a coisa julgada" (fl. 1.029),
+(ii) violação dos arts. 128, 460, 467, 468, 471 a 474 e 475-G do CPC/1973, pois houve julgamento extra petita, considerando que o executado nada arguiu em relação ao cálculo dos valores em si, mas apenas a inexigibilidade do título por sua vinculação ao salário mínimo. Ademais, o recorrido entendeu como incontroverso o cálculo que resultou em indenização de R$ 104.000,00 (cento e quatro mil reais),
+(iii) afronta aos arts. 5º, XXXVI, da CF e 6º da LINDB, ou seja, à coisa julgada, porque o acórdão alterou a forma do cálculo da indenização. Requer a nulidade,
+(iv) dissídio jurisprudencial com acórdão desta Corte, que considerou que só pode haver alteração na execução em caso de erro material ou de cálculo e que, se a divergência for sobre a forma de calcular o valor devido, não haverá erro material.
+No agravo (e-STJ fls. 1.281/1.301), afirma a presença de todos os requisitos de admissibilidade do especial.
+O agravado apresentou contraminuta (e-STJ fls. 1.308/1.325).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no CPC de 1973, motivo por que deve ser exigido o requisito de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Da violação da Constituição Federal
+De início, não cabe falar em afronta aos arts. 5º, XXXVI, da CF e 6º da LINDB, que repete a disposição constitucional, pois é inviável a análise de ofensa a dispositivo constitucional em recurso especial, sob pena de usurpação da competência da Suprema Corte. Cite-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO AUTORAL. RECURSO
+ESPECIAL. AÇÃO DE COBRANÇA. EXECUÇÃO PÚBLICA DE OBRAS MUSICAIS POR RÁDIO COMUNITÁRIA. DIREITOS AUTORAIS. ECAD. DEVER DE PAGAMENTO. ATIVIDADE NÃO LUCRATIVA. IRRELEVÂNCIA.
+1. A análise de suposta violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp 1.619.402/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 23/11/2017.)
+Das demais alegações
+O Tribunal a quo assim decidiu (e-STJ fls. 918/920):
+Na sentença objeto da execução impugnada, consta no dispositivo:
+ ..  Considerando, o grau de culpa do ofendido, e as demais invocações anteriores feitas, fixo esse valor em quatrocentos salários mínimos, correspondentes, no dia de hoje a pouco mais de 52 mil reais. Não há exagero, pelo que penso. Portanto, ao dar como procedente a ação, arbitro a indenização em quatrocentos salários - mínimos  ..  .
+Como visto, não há dúvida de que, na sentença em questão, não houve indexação da indenização ao salário mínimo, tendo o magistrado a quo apenas se utilizado do salário vigente à época da prolação - R$ 136,00 (cento e trinta e seis reais) - para fixar o montante indenizatório, o que correspondia, naqueles dias e em suas palavras, "a pouco mais de R$ 52.000,00 (cinqüenta e dois mil reais)" ou, precisamente, a R$ 54.400,00 (cinqüenta e quatro mil e quatrocentos reais), sendo este o valor líquido da condenação arbitrada no ano 2000.
+(..)
+Conforme se observa na memória de cálculo apresentada pela parte exequente junto à petição de cumprimento de sentença, bem assim nos argumentos e cálculos deduzidos por ocasião das contrarrazões deste recurso, a parte exequente/agravada vem tentando atualizar o valor da indenização a partir dos ajustes anuais do salário mínimo, fazendo com este se torne, de fato, um indexador do quantum indenizatório.
+A sentença foi prolatada em 30 de março de 2000, época em que o salário mínimo vigente era de R$ 136,00 (cento e trinta e seis reais) e, posteriormente, já em 2004, restou integralmente confirmada por este Tribunal de Justiça.
+Quando requereu a execução da sentença, em fevereiro de 2005, o agravado efetuou os cálculos da dívida exeqüenda tomando por base não o salário mínimo vigente à época da prolação da sentença, mas sim o equivalente a R$ 260,00 (duzentos e sessenta) reais e, em 2006, apresentou atualização do débito partindo do salário mínimo então em vigor, qual seja, R$ 350,00 (trezentos e cinquenta reais).
+Ora, em respeito à coisa julgada, o órgão julgador deve corrigir, ainda que de ofício, o erro contido no cálculo do credor, adequando-o ao dispositivo da sentença. No caso dos autos, tendo esta sido proferida no ano 2000, em que se fixou a indenização em 400 (quatrocentos) salários mínimos, o que equivaleu a R$ 54.400,00 (cinquenta e quatro mil e quatrocentos reais), a atualização do débito do agravante deve partir sempre desse valor, incidindo sobre ele a correção monetária e os juros de mora, jamais se admitindo o recálculo do quantum indenizatório a partir de um novo valor do salário mínimo, tal como perpetrado pelo exeqüente, sob pena de se admitir a indevida indexação ao salário mínimo.
+No recurso especial, apontando contrariedade aos arts. 463, I, do CPC/1973, bem como aos arts. 128, 460, 467, 468, 471 a 474 e 475-G do mesmo diploma, o recorrente sustenta tão somente a inexistência de erro material e o julgamento extra petita por não ter havido impugnação do quantum pela parte.
+Verifica-se que a parte não impugnou todos fundamentos do acórdão recorrido, especialmente o de que, ao atualizar a indenização conforme o salário mínimo, estaria este se tornando de fato indexador, o que é vedado constitucionalmente. Tampouco refutou-se o entendimento de que o próprio julgador teria estimado o valor da indenização em conformidade com o salário mínimo, à época da prolação da sentença.
+Incidem, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento. (AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido. (AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
