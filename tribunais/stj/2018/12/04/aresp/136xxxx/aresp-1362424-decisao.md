@@ -1,0 +1,50 @@
+DECISÃO
+JOSIMAR DE BESSA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos Embargos de Declaração na Apelação n. 0000219-67.2016.8.26.0611/50000.
+Nas razões recursais, a defesa aponta violação dos arts. 619 E 386, VII, do Código de Processo Penal, 489, II, do Código de Processo Civil, 33, § 4º, e 42 da Lei n. 9.296/1996, 33, §§ 2º, "b", e 3º, 59, 60, 63 e 91, II, "a" e "b", do Código Penal.
+Sustenta a nulidade do acórdão prolatado pela Corte estadual em embargos declaratórios, pois não supriu os seguintes vícios: a) omissão por não tratar expressamente do princípio in dubio pro reo; b) contradição ao afirmar que a versão do recorrente ficou isolada nos autos e, depois, transcrever depoimentos que corroboram as declarações do acusado; c) omissão no exame da pena-base, pois nada disse sobre a suscitada impossibilidade de os registros mencionados pelo Juízo singular configurarem maus antecedentes e de valorar negativamente a natureza da droga, em face da pequena quantidade apreendida; d) omissão por deixar de apreciar a possibilidade de aplicação da minorante, em sua fração máxima; e) omissão e contradição quanto à possibilidade de abrandamento do regime, sobretudo porque a pena imposta ao réu é inferior a 8 anos de reclusão; f) omissão em relação ao pedido de liberação dos bens e valores apreendidos.
+De modo subsidiário, faz as seguintes alegações: a) insuficiência de provas para a condenação; b) ausência de motivação idônea para exasperar a pena-base; c) possibilidade de aplicar a minorante e de fixar regime menos gravoso; d) cabimento da restituição dos bens encontrados com o réu.
+Requer o provimento do recurso para anular o acórdão ou, subsidiariamente, absolver o réu ou reduzir a pena imposta.
+A Corte local inadmitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, também deve ser conhecido.
+Com efeito, a defesa opôs embargos declaratórios para provocar o debate da matéria e alegou, neste recurso, a nulidade do acórdão diante da ausência de manifestação da instância antecedente. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão da tese e a sua apreciação prescinde de reexame de provas.
+O ora agravante foi condenado, em primeira instância, à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, e 660 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo, sob a seguinte motivação (fls. 682-694, grifei):
+A materialidade do delito restou comprovada pelo boletim de ocorrência (fls. 107/111), auto de exibição e apreensão (fls. 115/118), laudo de constatação preliminar (fls. 31/34), e pela prova oral colhida nos autos.
+A autoria também é inconteste.
+Na fase administrativa, o acusado negou a prática delituosa, afirmando que  .. .
+Entretanto, a versão exculpatória apresentada pelo réu restou isolada do conjunto probatório.
+O policial militar [NOME], durante a fase administrativa, narrou que  .. .
+Seu companheiro de farda, [NOME], em ambas as etapas do contraditório, corroborou integralmente com o depoimento de seu colega. Esclareceu que  .. .
+Os depoimentos colhidos merecem credibilidade e não podem ser desprezados, porque seguros, coerentes e verossímeis.
+ ..
+A testemunha [NOME], em fase inquisitorial, narrou que  .. .
+Sua namorada, a testemunha [NOME], em ambas as etapas que foi ouvida, corroborou com a narrativa de Marcos. Contou que seu namorado  .. .
+A testemunha [NOME], em solo policial, alegou que  .. .
+[NOME], em juízo, narrou que  .. .
+Por fim, a testemunha [NOME] nada esclareceu sobre o ocorrido (mídia digital).
+A versão do acusado é confusa e contraditória, e, apesar das testemunhas [NOME] e [NOME] tentarem inocentar o réu, a alegação não ficou demonstrada nos autos.
+Ao mesmo tempo em que o apelante afirma que foram abordados pelo casal Marcos e [NOME] durante o percurso até a festa que iria com [NOME], a testemunha [NOME] e o próprio [NOME] alegaram que os usuários pediram carona ao réu no bar em que estavam.
+Mas não é só. [NOME] disse, em solo policial, que somente notou a presença do casal depois que os milicianos os abordaram. Ora, impossível que a testemunha, no interior do veículo, não perceba que existam outras pessoas no carro. Portanto, a narrativa de [NOME] é claramente voltada em proteger o réu.
+As confissões das testemunhas Marcos e [NOME] são seguras e coerentes, e demonstram que o acusado é conhecido pela venda de ilícitos e que, inclusive, ele lhes vendeu crack na ocasião dos fatos.
+Ademais, os depoimentos acima aliados às narrativas dos agentes policiais, provam a autoria do tráfico de drogas e são corroborados com os fatos apresentados na exordial.
+Dessa forma, uma vez configurado o crime descrito na denúncia, o desfecho condenatório era de rigor, posto que, a materialidade delitiva e a autoria restaram devidamente incontroversas e comprovadas de forma exaustiva pelos elementos de convicção compilados ao longo da persecutio criminis.
+As penas não comportam reparo porque foram fixadas de acordo com os parâmetros previstos em lei, estão motivadas, individualizadas e adequadas à hipótese dos autos.
+A pena base foi fixada acima do mínimo legal, em razão da personalidade voltada ao cometimento de crimes, conforme se depreende da Folha de Antecedentes (fls. 458/462) e pela natureza da droga apreendida, que possui maior potencialidade lesiva. Assim, a basilar foi acrescida em 1/3, totalizando em 06 (seis) anos e 08 (oito) meses de reclusão e pagamento de 660 (seiscentos e sessenta) dias multa, que restou definitiva pois ausentes causas capazes de alterar a reprimenda.
+Tal aumento foi aplicado corretamente, pois o tráfico de drogas é crime de perigo contra a saúde pública e, levando em consideração que tal natureza de droga facilmente afetaria gravemente seus usuários, visto que a droga vendida era crack, entorpecente que possui maior potencialidade lesiva, a conduta do réu é mais reprovável.
+ ..
+Inviável, ainda, a aplicação do redutor previsto no artigo 33, parágrafo 4º da Lei de Drogas, pois a causa especial de redução de pena que deve ser concedida em prol daqueles que, a despeito de condenados pela prática de crime de tráfico ilícito de drogas, estão se iniciando no mundo do crime, tendo, por isso, maior chance de serem recuperados e reintegrados ao convívio social, mediante a imposição de sanções penais menos rigorosas. Sua aplicação só se justifica em hipóteses bastante reduzidas, pela necessidade de estarem presentes todos os requisitos enumerados no § 4º, do artigo 33, da lei em comento.
+Pelas provas trazidas aos autos, ficou configurado que o apelante era conhecido no local dos fatos pela prática do tráfico de drogas, e diante da natureza do narcótico apreendido e das circunstâncias do caso concreto, emerge claro que não se tratava de traficante eventual, mas que, ao contrário, exercia o comércio espúrio de forma habitual, constatando-se, pois, seu inegável envolvimento com a atividade criminosa.
+O regime inicial fechado deve ser mantido para início de cumprimento de pena, pois a imposição de regime diverso, não atenderia ao princípio da suficiência no presente caso.
+O próprio artigo 33 em seu parágrafo terceiro determina que na fixação do regime inicial o magistrado deverá observar não só o quantum de pena, mas também o disposto no artigo 59 do Código Penal.
+Ora, no caso em tela o apelante não apresenta circunstâncias judiciais favoráveis, haja vista sua personalidade voltada ao cometimento de crimes e, ainda, a natureza da droga apreendida, o que exige maior rigor por parte do Estado.
+ ..
+Por derradeiro, inadmissível a restituição do veículo apreendido, uma vez que este era utilizado para se concretizar o tráfico de drogas, haja vista que expandia o seu comércio ilegal para outras cidade, fato que foi bem demostrado nos autos. Ademais, os valores foram resultado da venda de drogas.
+Assim sendo, correta a perda dos bens, de acordo com o previsto no artigo 63 da Lei 11.343/06.
+A defesa opôs embargos declaratórios, que foram rejeitados pelo Tribunal de origem por considerar que "é clara a intenção do embargante de rediscutir matéria já examinada, dando aos presentes embargos de declaração caráter infringente" (fl. 792).
+Pela leitura dos excertos transcritos, verifico que o Tribunal a quo, a despeito de haver considerado suficientes as provas para justificar a condenação do réu e a dosimetria realizada pelo Juízo singular, deixou de analisar, de modo concreto, os seguintes vícios do acórdão embargado: a) afirmação de que a versão apresentada pelo réu estava isolada nos autos e posterior registro de que algumas testemunhas prestaram depoimento no mesmo sentido (contradição); b) ausência de exame dos dados mencionados pela defesa para postular a redução da pena-base - não registrar o acusado condenação definitiva pretérita e impossibilidade de valorar a natureza da droga apreendida, em razão da pequena quantidade localizada (omissão).
+Assim, identifico, de plano, a nulidade do acórdão, motivo pelo qual deixo de examinar as demais teses recursais.
+Embora a determinação de novo julgamento dos embargos de declaração leve a concluir que não foram esgotadas as instâncias ordinárias na hipótese, a impedir o início do cumprimento da pena nesse momento, noto que o Juízo singular havia negado ao réu o direito de recorrer em liberdade, situação que persiste e, por isso mesmo, impede a determinação de soltura do acusado.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo e dou provimento ao recurso especial para cassar o acórdão impugnado e determinar que o Tribunal de origem se pronuncie sobre os vícios apontados.
+Publique-se e intimem-se.
