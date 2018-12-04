@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de agravo interposto por FUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIAL contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA PROFERIDA EM AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. FALTA DE INTERESSE RECURSAL.
+1) Trata-se de agravo interno interposto contra a decisão de não conhecimento do agravo de instrumento nº [CPF], manejado pela ora recorrente, por falta de interesse recursal.
+2) Segundo a parte agravante, recorrente, o interesse recursal da fundação agravante na permanência da patrocinadora no polo passivo da demanda decorre de previsão legal.
+3) A fundação agravante, na condição de corré, não detém interesse recursal e legitimidade para ataque da decisão dirigida ao afastamento da patrocinadora, por acolhimento de preliminar de ilegitimidade passiva.
+AGRAVO INTERNO DESPROVIDO, POR MAIORIA.
+
+Nas razões do especial, alega-se violação dos arts. 1.022, II, e 1.026, § 2º, do Código de Processo Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2.1 Com efeito, o Tribunal de origem registra que a recorrente, na condição de corré, não detém interesse recursal e, por que não se dizer, legitimidade ao ataque recursal contra decisão dirigida ao afastamento da patrocinadora, por acolhimento de preliminar de ilegitimidade passiva, em ação de natureza previdenciária. Ocorre que, neste caso, a decisão que acolhe ilegitimidade passiva de ré (patrocinadora) incluída no pólo passivo por interesse da parte autora somente pode ser alvo de recurso pela própria parte autora.
+2.2 Portanto, não há que se falar em omissão no julgado, uma vez que a prestação jurisdicional entregue pelas instâncias ordinárias abordou todos os temas ventilados pelas partes.
+É importante salientar que "julgamento omisso" não é o mesmo que "julgamento equivocado" (ou injusto). Se acaso a decisão não se coaduna com a realidade fática do caso, isto é, se o direito foi mal aplicado à situação delineada nos autos, o recurso deve vir baseado nos artigos de lei federal que tratam da matéria de fundo tratada no caso. Para tanto, não se presta a alegação de mácula ao dispositivo processual que inquina de nulidade os julgamentos omissos, contraditórios ou obscuros, quando nenhuma dessas máculas eiva na realidade o aresto proferido na origem.
+3. Quanto à multa prevista no art. 1.026, § 2º, do CPC, aplicada à recorrente em razão de embargos com propósito protelatório, ressalte-se que, examinados a petição destes e o decisório que os apreciou, verifica-se que o Tribunal Estadual já havia analisado e decidido de modo claro e objetivo as questões que delimitaram a controvérsia, não havendo a necessidade de oposição de aclaratórios para fins de prequestionamento, o que afasta a incidência da Súmula 98 deste STJ.
+Portanto, deve ser mantida a multa ali aplicada.
+Cumpre ressaltar que o mero inconformismo da parte não constitui hipótese de cabimento de embargos de declaração e tampouco caracteriza vício no acórdão.
+4. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
