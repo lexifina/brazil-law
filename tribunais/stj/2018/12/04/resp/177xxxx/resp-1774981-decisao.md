@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO HOSPITALAR DE SAÚDE, com fundamento no art. 105, III, letra "a" da Constituição Federal, contra acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PLEITO DE DEFERIMENTO DE JUSTIÇA GRATUITA. FUNDAÇÃO QUE PASSA POR CRISE FINANCEIRA COMPROVADA. PEDIDO CONCEDIDO. INDICAÇÃO DE CIRURGIA PARA RETIRADA DE HÉRNIA INGUINAL DIREITA. PROFISSIONAL MÉDICO QUE, NO ATO DA INTERVENÇÃO, OPEROU DESNECESSARIAMENTE O LADO ESQUERDO DO AUTOR, NA OCASIÃO COM NOVE MESES DE IDADE.
+MANIFESTO ERRO MÉDICO. CULPA EVIDENCIADA. NEGLIGÊNCIA.
+RESPONSABILIDADE OBJETIVA DO HOSPITAL. MÉDICO QUE DETÉM VÍNCULO COM O HOSPITAL. DANO MORAL EVIDENCIADO.
+QUANTUM INDENIZATÓRIO MANTIDO EM R$ 15.000,00 (QUINZE MIL REAIS). QUANTIA SUFICIENTE PARA COMPENSAR O DANO SOFRIDO E ATENDER PO CARÁTER PUNITIVO QUE LHE É INERENTE. RECURSO PARCIALMENTE PROVIDO." (e-STJ, fl.433)
+Nas razões recursais, o ora agravante aponta violação aos artigos 397, 405 e 944, do CC, sustentando, em síntese, que: a) ser excessivo o valor de R$ 15.000,00 (quinze mil reais) arbitrados a título de danos morais; b) o termo inicial dos juros de mora incidentes sobre a indenização por dano moral deve ser a citação.
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 15.000,00 (quinze mil reais), não é exorbitante nem desproporcional aos danos sofridos pelo agravado, que, conforme mencionado pelas instâncias ordinárias, submete-se a intervenção cirúrgica em lado contrário ao indicado.
+No que tange ao termo inicial para a incidência dos juros moratórios, razão assiste à recorrente, uma vez que o Superior Tribunal de Justiça firmou entendimento de que nos casos de indenização por dano moral decorrente de responsabilidade contratual, como na hipótese dos autos, os juros incidem desde a data da citação.
+À propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CPC. AÇÃO DE INDENIZAÇÃO. DANO MORAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA DE SIMILITUDE. TERMO INICIAL JUROS MORATÓRIOS. RELAÇÃO CONTRATUAL. DATA DA CITAÇÃO.
+1. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. O termo inicial para a incidência dos juros moratórios em casos de relação contratual é a data da citação.
+4. Agravo interno desprovido".
+(AgInt no AREsp 871805 / RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, julgado em 04/08/2016, DJe de 19/08/2016, grifou-se)
+"AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - INDENIZAÇÃO - ERRO MÉDICO - JUROS DE MORA - TERMO INICIAL - CITAÇÃO - QUANTUM INDENIZATÓRIO - RAZOABILIDADE - RECURSO IMPROVIDO."
+(AgRg nos EDcl no Ag 1186066/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 16/12/2010, DJe 03/02/2011)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para que os juros moratórios incidam a partir da data da citação.
+Publique-se.
