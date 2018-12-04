@@ -1,0 +1,24 @@
+EMENTA
+ADMINISTRATIVO. ANISTIA. VALORES RETROATIVOS. PORTARIA VIGENTE. INEXISTÊNCIA DE ANULAÇÃO OU REVOGAÇÃO. PERMANÊNCIA DOS SEUS EFEITOS. IMPOSSIBILIDADE DE DISCUSSÃO RELATIVA A JUROS E CORREÇÃO MONETÁRIA EM MANDADO DE SEGURANÇA.
+I - De acordo com a jurisprudência do STJ, entende-se ser inviável, "ampliar o objeto da demanda para definição da quantia a ser adicionada a título de juros e correção monetária, pois em tal hipótese o feito assumiria os contornos de ação de cobrança, escopo absolutamente estranho ao mandado de segurança" (MS 16.707/DF, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 8/2/2012, DJe 6/3/2012). Ainda nesse sentido são os julgados: AgInt no MS 22.709/DF, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 11/4/2018, DJe 19/4/2018; AgInt no MS 22.343/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 14/3/2018, DJe 17/4/2018; MS 20.426/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 13/12/2017, DJe 18/12/2017; e MS 23.188/DF, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 22/11/2017, DJe 18/12/2017.
+II - Agravo interno provido para afastar a concessão da ordem, relativamente ao pagamento de juros e correção monetária.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo interno para afastar a concessão da ordem, nos termos do voto do Sr. Ministro Relator." Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de mandado de segurança impetrado por [NOME] contra ato do Ministro de Estado da Defesa, consubstanciado na ausência de cumprimento de portaria que o declarou anistiado político e lhe concedeu reparação econômica de caráter indenizatório, no tocante aos valores retroativos relativos à declaração de anistiado.
+Parecer do Ministério Público Federal pela concessão parcial da ordem, em ementa de seguinte teor:
+Mandado de Segurança. Anistia. Reparação econômica. Lei nº 10.559/02. Efeitos financeiros retroativos. Portaria anistiante submetida a revisão, sendo passível de anulação. Poder de auto tutela da Administração. Jurisprudência dominante do Egrégio Superior Tribunal de Justiça pela parcial concessão do mandamus. Juros e correção monetária. Descabimento. Parecer pela concessão parcial da ordem.
+Por meio da decisão às fls. 287-291, a segurança pleiteada foi parcialmente concedida, com a ressalva de que, revogada ou anulada a anistia concedida ao impetrante, cessam os efeitos desta ordem.
+Opostos embargos de declaração, foram rejeitados diante da inexistência de vícios na decisão embargada (fls. 297-304).
+Interpõe-se agravo interno contra essa decisão, no qual a parte alega em síntese que o julgado permanece omisso ao deixar de se manifestar expressamente "acerca da ressalva ou não referente ao pagamento apenas do valor nominal do débito, sem juros e correção monetária, como restou sedimentado em recente jurisprudência dessa Corte".
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O agravo interno merece provimento.
+Quanto ao requerimento da parte impetrante, de que seja garantido o pagamento do valor retroativo previsto na portaria de anistia, acrescido de juros e correção monetária, esclareço que o presente mandado de segurança está limitado à apuração da ofensa ao direito líquido e certo do impetrante, que no caso é o reconhecimento da omissão no dever de providenciar o pagamento do montante concernente aos retroativos, conforme valor nominal estabelecido no ato administrativo.
+Assim, de acordo com a jurisprudência do STJ, é inviável, "ampliar o objeto da demanda para definição da quantia a ser adicionada a título de juros e correção monetária, pois em tal hipótese o feito assumiria os contornos de ação de cobrança, escopo absolutamente estranho ao mandado de segurança" (MS 16.707/DF, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 8/2/2012, DJe 6/3/2012).
+Ainda nesse sentido são os julgados: AgInt no MS 22.709/DF, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 11/4/2018, DJe 19/4/2018; AgInt no MS 22.343/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 14/3/2018, DJe 17/4/2018; MS 20.426/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 13/12/2017, DJe 18/12/2017; e MS 23.188/DF, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 22/11/2017, DJe 18/12/2017.
+Ante o exposto, dou provimento ao agravo interno para afastar a concessão da ordem, relativamente ao pagamento de juros e correção monetária.
+É o voto.
