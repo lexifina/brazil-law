@@ -1,0 +1,36 @@
+DECISÃO
+[NOME] e o INSS interpuseram recursos especiais contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado, in verbis:
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003.
+- Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+- O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+- O valor do novo teto fixado pela EC Nº 20/98 tem aplicação imediata aos benefícios já concedidos, inclusive aqueles deferidos antes da sua edição: Precedente do STF, RE Nº 564.354/SE, Relatora Ministra CARMEM LUCIA.
+- Embora limitado o benefício ao teto constitucional, tal fato não assegura que o benefício foi prejudicado quando da modificação do teto previdenciário pelas Emendas Constitucionais 20/98 e 41/03, razão por que a apuração de eventuais diferenças devidas deverão ocorrer quando da LIQUIDAÇÃO DE SENTENÇA.
+- Incabível a contagem da prescrição apenas a partir da ACP Nº 0004911-28.2011.4.03.6183, eis que ela somente atingiria o Autor se ele pretendesse executar a sentença da ação coletiva.
+Além disso, a propositura da ação coletiva não impede a propositura de ações individuais, razão por que os prazos prescricionais continuam a correr normalmente, a partir da propositura da ação individual.
+- Cabimento da remessa necessária, que visa conferir eficácia aos provimentos jurisdicionais finais, cujo mérito é alcançado pela coisa julgada material. Sumula 423 do E.STF.
+- Considerando a inconstitucionalidade parcial, por arrastamento, do art. 1º-F da Lei nº 9494/97, com redação dada pelo Lei nº 11.960/09 (STF, ADI 4357), os juros devem ser os mesmos aplicados à caderneta de poupança (de julho/2009 em diante) e a correção monetária deve ser calculada pelo INPC (art. 31 da Lei nº 10.741/03 e art. 41-A da Lei nº 8.213/91).
+- Deve ser excluída da condenação a determinação quanto ao imediato pagamento da nova RMI, e parcelas a título de atrasados, matéria a ser discutida em sede de liquidação de sentença.
+- Honorários advocatícios fixados em R$ 1.000,00 (mil reais), nos termos do § 4º, do art. 20 do CPC.
+O INSS sustenta o seguinte:
+a) violação ao art. 535 do CPC/73, ao argumento de que, mesmo ante a oposição de embargos de declaração, o Tribunal a quo, não teria apreciado a alegação de que o benefício autoral não se enquadra na revisão em tela, por não ter sido limitado ao teto, bem como a alegação de que houve irregular afastamento do disposto no art. 5º da Lei 11.960/09, quanto ao juros e correção monetária.
+b) violação ao art. 26 da Lei 8.870/94, ao argumento de que, nos termos do citado dispositivo, somente faz jus à revisão em tela os benefícios concedidos entre 05.04.91 e 31.12.03.
+c) violação ao art. 5º da Lei 11.960/09, porquanto referido dispositivo, que trata de juros e correção monetária, não teria sido afetado pela declaração de inconstitucionalidade proferida nas ADIs 4357 e 4425 no cálculo de parcelas atrasadas, sendo a declaração de inconstitucionalidade, na verdade, restrita apenas ao cálculo dos precatórios.
+[NOME], por sua vez, alega o seguinte:
+a) dissídio jurisprudencial com julgado do TRF da 4ª Região, o qual, no seu entender, contém disposição no sentido de que o ajuizamento de ação civil pública interrompe a prescrição também em relação aos atrasados na ação individual. Pugna em razão disso pela contagem da prescrição a partir da inicial da ação civil pública.
+b) violação ao art. 20 do CPC/73. Aduz que o acórdão a quo reduziu a verba honorária fixada na sentença de 10% sobre o valor da condenação para R$ 1.000 (mil) reais, o que configura, no seu entender, honorários aviltantes, dado o tempo despendido na causa.
+O recurso especial do INSS não foi admitido, e o recurso especial do particular foi admitido parcialmente, tendo ambos interposto agravo.
+O INSS, em petição de fls. 361-398, alega a existência de outro processo com as mesmas partes, pedido e causa de pedir, ajuizado anteriormente ao presente feito, e que já transitou em julgado, pugnando pelo reconhecimento da coisa julgada.
+Instado a se manifestar sobre a petição do INSS, [NOME] permaneceu silente.
+É o relatório. Decido.
+Tenho que assiste razão à autarquia.
+Com efeito, o processo mencionado pelo INSS, autuado na origem sob o n. 01381520520134025101, foi objeto de Recurso Especial, tendo recebido nesta e. corte o n. AREsp 1056264 e já transitou em julgado. E nele, [NOME] figura como autor.
+E o acórdão proferido no processo em tela recebeu o seguinte acórdão, in verbis:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. SENTENÇA EXTRA PETITA. SENTENÇA ANULADA. CAUSA MADURA. ART. 515, PARÁG. 3º, DO CPC. READEQUAÇÃO DO VALOR DOS BENEFÍCIOS LIMITADOS AO TETO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. APLICABILIDADE.
+1. Além de a sentença ser extra petita, o que impõe a sua nulidade, qualquer pretensão que corresponda à revisão do ato de concessão do benefício está fulminada pela decadência, eis que o benefício em questão possui DIB em 27/09/1990, e a presente ação foi ajuizada em 23/10/2013.
+2. No mérito, o Supremo Tribunal Federal, no julgamento do Recurso Extraordinário com Repercussão Geral nº 564.354/SE, Relatora Ministra Cármen Lúcia, publicado em 15/02/2011, assentou entendimento no sentido da possibilidade de aplicação dos tetos previstos nas Emendas Constitucionais nos 20/1998 e 41/2003 mesmo em relação aos benefícios previdenciários concedidos antes da vigência dessas normas.
+3. Faz jus os autores à readequação pleiteada, eis que os documentos acostados às fls. 16-17, 27, 38 e 49-50 comprovam que os salários de benefício sofreram limitação ao teto.
+4. Apelações e remessa necessária julgadas prejudicadas. Sentença anulada de ofício e, com base no art. 515, parágrafo 3º, do CPC, julga-se parcialmente procedente o pedido para condenar o INSS a readequar os benefícios dos autores, observando os novos valores teto instituídos pelas Emendas Constitucionais 20/98 e 41/2003, bem como a pagar as diferenças apuradas em decorrência da referida readequação, observada a prescrição quinquenal, corrigidas monetariamente nos termos do Manual de Cálculos da Justiça Federal, acrescidas de juros de mora também nos termos do referido manual, a contar da citação. Condenado o réu ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) do valor da condenação, excluídas as parcelas vincendas, nos termos da Súmula 111 do STJ.
+Vê-se pois, a tríplice identidade entre a presente ação e aquela julgada no AResp 1056264, havendo mesmas partes, mesma causa de pedir e mesmo pedido
+Por tudo isso, reconheço a coisa julgada e julgo extinto o feito, sem resolução de mérito, com base no art. 485, V do CPC/15.
+Em razão do princípio da causalidade, inverto os honorários advocatícios, que ficam com a exigibilidade suspensa em razão do deferimento da justiça gratuita.
+Publique-se. Intimem-se.
