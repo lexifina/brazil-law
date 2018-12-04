@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA EM SEDE DE MANDADO DE SEGURANÇA COLETIVO. PRESCRIÇÃO. AUSÊNCIA DE PUBLICIDADE DA DECISÃO PROFERIDA NA AÇÃO COLETIVA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda do Estado de São Paulo com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 22):
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA EM FASE DE EXECUÇÃO. Decisão vergastada que rechaçou a alegação de prescrição da pretensão executiva. Título judicial de mandado de segurança coletivo impetrado pelo Sindicato dos Trabalhadores Públicos da Saúde - SINDSAÚDE, na qualidade de substituto processual dos servidores. Prescrição. Inocorrência. Não corre a prescrição enquanto não iniciadas diligências necessárias à liquidação do crédito resultante de sentença proferida em ação coletiva promovida no regime de substituição processual. Inaplicabilidade do julgamento proferido pelo STJ no REsp 1.388.000/PR (tema 877) por se tratar de "leading case" diverso. Decisão mantida. Recurso não provido.
+O recorrente alega violação do art. 1º do Decreto 20.910/1932, porquanto "não há suspensão/interrupção da fluência do prazo prescricional enquanto se aguarda o fornecimento de informes oficiais". Sustenta, ainda, que não há que se falar em obrigatoriedade, mesmo se tratando de execução de ação coletiva, de dar ciência do título executivo aos eventuais interessados por meio de publicação em edital, considerando que o art. 94 do CDC não faz essa exigência, conforme entendimento do Egr. STJ alcançado em sede de RECURSO REPETITIVO (Tema 877). Requer, portanto, seja pronunciada a prescrição executiva de pagar quantia, restando inexigível o título.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 81-84.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+No que se refere à prescrição, o Tribunal de origem afastou o decreto prescricional perseguido, sob a seguinte fundamentação (fls. 24-26):
+ ..
+O caso em exame nos presentes autos é, contudo, diverso, pois cuida-se de execução de condenação oriunda de ação coletiva promovida no regime de substituição processual e a ausência de informação quanto ao resultado da demanda afasta o direito dos substituídos de receber seu crédito.
+Aliás, com intuito de evitar repetição desnecessária, pede-se vênia para transcrever excerto da brilhante decisão da lavra do ilustre Desembargador Danilo Panizza, em caso análogo, extraída da mesma ação coletiva, no qual sintetiza a questão:
+A ação que originou o crédito objetivado fora promovida por Sindicato, em mandado de segurança coletivo, sendo vários os legitimados, daí não se podendo afastar a ausência de comunicação aos interessados acerca de tal propositura, quanto mais de seu êxito, a fim de que se dê início ao prazo prescricional para sua execução, corroborando, dessa forma, o posicionamento externado pela Magistrada, que reconheceu a aplicação do art. 94 do CDC, cabível o prescrito no art. 5º, LIV, da Constituição Federal.
+E, ainda, em reforço, a prevalecer o afastamento da prescrição, apesar do lapso temporal quinquenal ocorrido entre a decisão do processo de conhecimento e a promoção do cumprimento de sentença, em se tratando de título executivo judicial, embora tornado certo pelo trânsito em julgado daquela sentença de conhecimento, só pode ser executado quando também tornado título líquido.
+ ..
+Por outro lado, ainda que assim não o fosse, a ausência de comunicação aos interessados acerca da propositura da ação (art. 94, do CDC) se consubstancia em causa impeditiva para o transcurso do prazo prescricional, pelo completo desconhecimento da demanda pelos interessados.
+Não se pode perder de vista que a mens legis consiste em oportunizar aos interessados intervir no processo como litisconsortes, sem prejuízo de ampla divulgação pelos meios de comunicação social, de maneira que, inobservada tal regra, na fase de conhecimento, esta será extensiva à execução, sob pena de tornar a norma inócua.
+ ..
+Assim, não há dúvida que o prazo prescricional para se promover a execução de condenação alcançada, em ação individual, se inicia com o trânsito em julgado do correspondente decreto condenatório porquanto tal questão é pacifica, contudo, quando se trata da iniciativa para executar condenação oriunda de ação coletiva, promovida no regime de substituição processual, sem que os substituídos sejam informados sobre a propositura da ação, não se pode admitir tal termo a quo, sob pena de violação da mens legis e de literalmente cercear o direito dos interessados.
+ ..
+Nesse contexto, a alteração da conclusão adotada pela instância ordinária, segundo a qual, não há notícia de que tenha sido efetivada a necessária publicidade do feito, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+À propósito, o recente julgado desta 1ª Turma, em recurso que resume a mesma controvérsia:
+AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA COLETIVO. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. INTERRUPÇÃO. AUSÊNCIA DE PUBLICIDADE DA DECISÃO PROFERIDA NA AÇÃO COLETIVA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A desconstituição da premissa segundo a qual não há notícia de que tenha sido efetivada a necessária publicidade do feito, tal como postulado nas razões recursais, ensejaria o reexame de matéria fática, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+2. Agravo Interno a que se nega provimento. (AgInt no AREsp 1.131.433/SP, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 9/3/2018)
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
