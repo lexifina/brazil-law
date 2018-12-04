@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por CL II ESTACIONAMENTO E SERVIÇOS LTDA EPP fundado no art. 105, III, "a", e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 265):
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ASSALTO A MÃO ARMADA NO INTERIOR DE ESTACIONAMENTO - FORTUITO INTERNO - COMPRAS EM LOCAL DE INTENSO COMÉRCIO DURANTE A MADRUGADA - RESPONSABILIDADE CIVIL OBJETIVA - ART. 14 DO CDC - VALOR DA INDENIZAÇÃO - MÍNORAÇÃO - INDEVIDA - RECURSO NÃO PROVIDO. - O fornecedor de serviços responde objetivamente pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, nos termos do art.14 do CDC. - O crime de roubo ocorrido no interior de estacionamento localizado em grande pólo comercial, que funciona de madrugada e atrai diversas pessoas para compra e revenda de mercadorias, não constitui força maior e, sim, fortuito interno. Isso porque, estão presentes vários fatores que aumentam o risco da atividade desenvolvida pelo requerido, não havendo que se falar em exclusão de responsabilidade civil da empresa que disponibilizou tal serviço.
+V.V. APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ASSALTO À MÃO ARMADA EM INTERIOR DE ESTACIONAMENTO PRIVADO DE VEÍCULOS - FATO INEVITÁVEL E TOTALMENTE ESTRANHO À ATIVIDADE POR ELE DESEMPENHADA - DEVER DE INDENIZAR AFASTADO - PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. - A ocorrência de assalto à mão armada realizado por várias pessoas em interior de estacionamento privado e autônomo de veículos caracteriza-se como fato inevitável e estranho ã atividade desempenhada, bastante a romper o nexo de causalidade e afastar o dever de indenizar. - "O roubo à mão armada exclui a responsabilidade de quem explora o serviço de estacionamento de veiculos". (STJ, Resp n.º1232795/SP)."
+Em suas razões recursais, CL II ESTACIONAMENTO E SERVIÇOS LTDA EPP aponta, além de dissídio jurisprudencial, ofensa ao 333, II, do Código de Processo Civil de 1973 e aos arts. 186 e 927 do Código Civil, ao argumento, entre outros, que "(..) não há como responsabilizar a Recorrente por ação violenta de terceiros sobre seus clientes, que extrapolam a segurança normal. Trata-se, incontroversamente, de risco social que, infelizmente, todos nós estamos sujeitos em uma grande cidade (..)". (conforme fl. 288).
+Sem contrarrazões, conforme certidão à fl. 328.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, considerando que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplica-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, ao apontar violação aos arts. 186 e 927 do CC, bem como ao art. 333, II, do CPC/73, a empresa recorrente sustenta que o assalta a mão armada realizado por várias pessoas em interior de estacionamento privado e autônomo de veículos caracteriza-se como fato inevitável, sendo suficiente para romper o nexo de causalidade e afastar o dever de indenizar. O TJ-MG, por sua vez, soberano na análise do acervo fático-probatório, consignou que a prática do crime de roubo no interior do estabelecimento do demandado constitui fortuito interno, pois se trata de fato previsível, diretamente relacionada à atividade empresarial explorada pelo recorrente, sendo certo do dever de indenizar pelos danos morais ocorridos. Confira-se o excerto do v. acórdão recorrido (fls. 272-274):
+ "No caso em exame, peço venia ao eminente Desembargador Relator para posicionar-me pela manutenção da sentença.
+ É incontroverso nos autos que a autora foi vítima de assalto a mão armada quando estava dentro de um ônibus estacionado no estabelecimento do réu.
+ Inicialmente, registra-se que o local do roubo é conhecido como um grande polo comercial. Tal região atrai pessoas do Brasil inteiro para aquisição de mercadorias e posterior revenda.
+ Assim, o estacionamento réu é utilizado pelas empresas de ônibus que transportam passageiros até a cidade de São Paulo para que estes realizem compras no comércio que funciona durante a madrugada, regressando para a cidade de origem em seguida.
+ Esses fatores, por óbvio, aumentam o risco da atividade desenvolvida pelo requerido, porquanto favorecem a atuação de criminosos.
+ Destarte, a prática do crime de roubo no interior do estabelecimento do demandado constitui fortuito interno. Isso porque, trata-se de fatos previsíveis, diretamente relacionados à atividade empresária explorada pelo recorrente.
+ No caso em exame, incidem as regras do Código de Defesa do Consumidor, especialmente no que se refere à responsabilidade objetiva. O art.14 da Lei nº 8.078/90 dispõe que o fornecedor responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores pelos defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+ No que diz respeito aos danos morais, certo é que estes se tratam de dano puro, "in re ipsa" sendo despicienda sua demonstração em juízo, porquanto decorrente do próprio ato ilícito indenizável. Na hipótese em exame, é evidente que a situação experimentada pelos autores foge ao mero dissabor e aborrecimento.
+ ..
+ Registra-se, por fim, que a segurança constitui um serviço agregado oferecido pelo fornecedor visando atrair clientes, cujo custo, em geral, é repassado ao consumidor. Assim agindo, a parte requerida traz para si o dever jurídico de zelar pela segurança e incolumidade daqueles que lá se encontram, respondendo objetivamente pelos danos daí decorrentes.
+ Logo, rogando venia ao i. Des. Relator, posiciono-me pela manutenção da sentença que condenou a parte ré ao pagamento de indenização a título de dano moral no importe de R$ 14.000,00. Tal valor encontra-se de acordo com os princípios da razoabilidade e proporcionalidade, em consonância com o art. 944 do Código Civil e também com os demais ressarcimentos arbitrados por esta Câmara em hipóteses semelhantes, não havendo, portanto, que se falar em mínoração." (grifou-se)
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu que a recorrente possui o dever de indenizar o recorrido, em razão do assalto ocorrido em suas dependências.
+Sobre o tema, tem-se que segundo a iterativa jurisprudência desta eg. Corte Superior, faz parte do dever dos estabelecimentos comerciais, como shopping centers e hipermercados, zelar pela segurança de seus clientes, não sendo possível afastar sua responsabilidade civil com base em excludentes de força maior ou caso fortuito. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Na hipótese, o acórdão recorrido está em conformidade com a jurisprudência desta Corte, no sentido de que é dever de estabelecimentos como shoppings centers e hipermercados zelar pela segurança de seu ambiente, de modo que não se há falar em força maior para eximi-los da responsabilidade civil decorrente de assaltos violentos aos consumidores. Incidência da Súmula 83/STJ.
+ ..
+3. Agravo interno desprovido."
+(AgInt no AREsp 1115096/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/08/2018, DJe 29/08/2018 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). RESPONSABILIDADE CIVIL. CONSUMIDOR. ROUBO EM ESTACIONAMENTO DE CLUBE. DANOS MATERIAIS E MORAIS.
+ ..
+2. A ocorrência de roubo não constitui causa excludente de responsabilidade civil nos casos em que a garantia de segurança física e patrimonial do consumidor é inerente ao serviço prestado pelo estabelecimento comercial.
+ ..
+5. AGRAVO DESPROVIDO."
+(AgInt no REsp 1687632/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018 - grifou-se)
+Com efeito, verifica-se que a decisão recorrida encontra-se em consonância com a remansosa jurisprudência do STJ acima exposado, de modo a ensejar o óbice da Súmula n. 83/STJ.
+Ademais, ainda que superado o referido enunciado sumular, tem-se que a pretensão de alterar o entendimento firmado no Tribunal a quo, sob alegada ofensa aos dispositivos mencionados, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula n. 7/STJ.
+ Nesse sentido, confira-se o seguinte precedente:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - FURTO DE VEÍCULO EM ESTACIONAMENTO DE SUPERMERCADO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+ ..
+2. No caso concreto, o Tribunal a quo, com base no suporte fático apresentado nos autos, decidiu pela presença dos requisitos ensejadores da reparação civil. A reforma de tal entendimento requer o reenfrentamento do arcabouço fático da causa, atraindo, no caso, a incidência da Súmula 7/STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 850.198/RN, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017 - grifou-se)
+No tocante ao quantum indenizatório, a recorrente sustenta que o valor foi arbitrado em patamar excessivo. De acordo com a jurisprudência desta. eg. Corte, a pretensão de alterar o valor da indenização a título de danos morais esbarra no óbice da Súmula n. 7/STJ, afastando-a, excepcionalmente, caso o quantum mostrar-se irrisório ou exorbitante.
+No caso, o valor arbitrado em R$14.000,00 (quatorze mil reais), em razão do assalto a mão armada no estabelecimento comercial da recorrente, não se mostra exorbitante, devendo ser confirmada a incidência do referido óbice sumular. Nesse mesmo sentido, tem-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp 1325793/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018 - grifou-se)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1290283/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/11/2018, DJe 20/11/2018)
+Por fim, tem-se que o conhecimento do apelo nobre pela alínea "c" do permissivo constitucional restou prejudicado, pois, conforme entendimento desta Corte, a Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "a" quanto pela alínea "c" do permissivo constitucional. Nessa linha de entendimento, confiram-se os seguintes precedentes:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. APLICAÇÃO DAS NORMAS RELATIVAS AO CRÉDITO RURAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. SÚMULA N. 83/STJ. ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. APLICABILIDADE. DECISÃO MANTIDA.
+ ..
+3. Conforme o entendimento desta Corte, a Súmula n. 83 do STJ aplica-se a recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1301639/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/10/2018, DJe 15/10/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE TRATAMENTO. PERÍODO DE CARÊNCIA. URGÊNCIA. ÍNDOLE ABUSIVA. DOENÇA PREEXISTENTE. AUSÊNCIA DE EXAMES CLÍNICOS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO, AINDA QUE IMPLÍCITO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A Súmula 83 do STJ, consoante entendimento firmado nesta Corte Superior, é aplicável aos recursos especiais interpostos com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional, visto que a divergência nela referida relaciona-se com a interpretação da norma infraconstitucional.
+6. Agravo interno não provido."
+(AgInt no AREsp 964.858/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 23/08/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% sobre o valor da condenação.
+Publique-se.
