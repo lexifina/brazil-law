@@ -1,0 +1,28 @@
+DECISÃO
+Em vista das razões do agravo interno (fls. 290/295), reconsidero a decisão proferida às fls. 284/286, tornando-a sem efeito, e passo à nova análise do recurso.
+Trata-se de recurso especial interposto por BANCO BRADESCO FINANCIAMENTOS S/A, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pela Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 246):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRIMEIRA SUSPENSÃO DEFERIDA COM BASE NO ART. 791, III, DO CPC. SUSPENSÃO SUBSEQUENTE REQUERIDA E DEFERIDA SEM FUNDAMENTO. DECURSO DE 20 ANOS EM ARQUIVO PROVISÓRIO. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. EXTINÇÃO DO FEITO.
+RECURSO PROVIDO.
+A instituição financeira recorrente sustenta ofensa ao artigo 791, III, do Código de Processo Civil, bem como divergência jurisprudencial, alegando que o processo encontrava-se suspenso por ausência de bens penhoráveis e, ainda, que foi surpreendida com a extinção do feito.
+Assim posta a questão, passo a decidir.
+Conforme apontado pelo recorrente, a jurisprudência desta Corte orientava-se no sentido de que, na vigência do Código de Processo Civil de 1973, a prescrição intercorrente não corre durante a suspensão por ausência de bens penhoráveis e que seria necessária a intimação pessoal do exequente para diligenciar nos autos antes do seu reconhecimento.
+Ocorre que a Segunda Seção desta Corte, em incidente de assunção de competência no julgamento do REsp 1.604.412/SC, decidiu que, nos processos submetidos ao CPC de 1973, o prazo máximo de suspensão é de um ano, se não houve determinação expressa a respeito, e que, após esse prazo, a inércia do credor por prazo superior ao de prescrição do direito material vindicado enseja o reconhecimento da prescrição intercorrente, devendo apenas ser atendido o princípio do contraditório mediante a simples intimação do autor. Confira-se a ementa do precedente citado:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR.
+INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe 22.8.2018).
+O voto condutor do referido precedente assim consignou sobre a necessidade de prévia oitiva da parte:
+Destarte, para o eventual reconhecimento de ofício da prescrição intercorrente, em ambos os textos legais - tanto na LEF como no novo CPC - prestigiou-se a abertura de prévio contraditório, não para que a parte dê andamento ao processo, mas para assegurar-lhe oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição. Portanto, frisa-se, não para promover, extemporaneamente, o andamento do processo.
+Ainda nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. INÉRCIA VERIFICADA. AGRAVO INTERNO DESPROVIDO.
+1. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. Agravo interno desprovido.
+(AgInt no REsp 1735082/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 27.9.2018).
+No presente caso, as instâncias ordinárias delinearam que o processo ficou paralisado, sem nenhum requerimento do credor objetivando o seguimento da execução, por quase vinte anos, momento em que os executados apresentaram exceção de pré-excutividade pugnando pelo reconhecimento da prescrição intercorrente, e o credor, intimado, ofereceu contestação.
+Desse modo, configurada a paralisação do processo executivo por prazo superior à prescrição da ação e tendo sido respeitado o contraditório, correta a extinção do feito em razão da prescrição intercorrente.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
