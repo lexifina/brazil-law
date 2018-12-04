@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por SOYBRASIL AGRO TRADING LTDA. contra decisão que decidiu a respeito do termo a quo da correção monetária de créditos escriturais quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco.
+Transcorreu in albis o prazo para a apresentação de impugnação (e-STJ fl. 480).
+Passo a decidir.
+Exerço o juízo de retratação.
+Com efeito, emerge dos autos que o tema em discussão foi afetado recentemente à sistemática de julgamento dos recursos repetitivos, em 20/11/2018.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, Rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 425/428, tornando-a sem efeito, e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
