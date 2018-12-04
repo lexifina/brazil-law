@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. AÇÃO DE DEPÓSITO. PROSSEGUIMENTO DO FEITO. VIABILIDADE (A DESPEITO DA IMPOSSIBILIDADE DE PRISÃO DO DEPOSITÁRIO).
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. "O art. 9º da Lei 8.866/94 estabeleceu a cobrança de contribuições e exações em favor da Fazenda - via ação de depósito -, e explicitou sua abrangência também às hipóteses de depósitos irregulares, quando afastou a incidência do art. 1.280 do antigo Código Civil", sendo que "o STF suspendeu diversos dispositivos e expressões da Lei 8.866/94, pela ADinMC 1.055, mas manteve integralmente o disposto no art. 9º, o que autoriza a ação de depósito, esvaziada apenas no tocante à prisão liminar" (REsp 612.388/RJ, 2ª Turma, Rel. Min. Eliana Calmon, DJ de 28.11.2005).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 534/557) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. AÇÃO DE DEPÓSITO. PROSSEGUIMENTO DO FEITO. VIABILIDADE (A DESPEITO DA IMPOSSIBILIDADE DE PRISÃO DO DEPOSITÁRIO). AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante alega, em síntese, o seguinte: a) inadequada a via processual adotada pela exequente, ora agravada, para a cobrança de créditos tributários inscritos em dívida ativa, qual seja, a ação de cobrança (fl. 542), possuindo o fisco "procedimento próprio e regulamentado", via execução fiscal, para tal fim (fl. 545); b) as instâncias inferiores "em momento algum enfrentaram as questões acerca da divergência jurisprudencial existente no próprio TRF da 2ª Região" (fl. 544), sendo flagrante a violação ao art. 1.022 do CPC/2015; c) "a dívida ora discutida se insere perfeitamente no conceito de dívida ativa tributária (..), o que implica em exigir a cobrança da dívida sob o rito e regras específicas de cobrança judicial previstos da Lei de Execuções Fiscais, inadmitindo-se a propositura de ação de depósito" (fl. 546).
+Requer seja provido o recurso.
+Não houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. AÇÃO DE DEPÓSITO. PROSSEGUIMENTO DO FEITO. VIABILIDADE (A DESPEITO DA IMPOSSIBILIDADE DE PRISÃO DO DEPOSITÁRIO).
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. "O art. 9º da Lei 8.866/94 estabeleceu a cobrança de contribuições e exações em favor da Fazenda - via ação de depósito -, e explicitou sua abrangência também às hipóteses de depósitos irregulares, quando afastou a incidência do art. 1.280 do antigo Código Civil", sendo que "o STF suspendeu diversos dispositivos e expressões da Lei 8.866/94, pela ADinMC 1.055, mas manteve integralmente o disposto no art. 9º, o que autoriza a ação de depósito, esvaziada apenas no tocante à prisão liminar" (REsp 612.388/RJ, 2ª Turma, Rel. Min. Eliana Calmon, DJ de 28.11.2005).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Com efeito, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+De outra parte, ao apreciar o REsp 1.276.147/SC (Rel. Min. HUMBERTO MARTINS, DJe de 26.10.2011), este Superior Tribunal de Justiça adotou a seguinte orientação:
+"Ainda que a medida cautelar do STF na ADIn n. 1.055-7/DF tenha suspendido a eficácia do disposto nos §§ 2º e 3º do art. 4º da Lei n. 8.866/94, entende-se que permanece a ação de depósito. "Observa-se que o STF só obstou a lei em comento quando ele permitia a prisão de depositário antes do devido processo legal, mas não impediu fosse proposta a ação de depósito" (REsp 612.388/RJ, Rel. Min. Eliana Calmon, Segunda Turma, julgado em 14.6.2005, DJ 28.11.2005, p. 249), o que afasta a conclusão da Corte de origem de que não há interesse no prosseguimento do feito.
+Outrossim, a conclusão da Corte de que a Fazenda Pública dispõe de outros instrumentos processuais para a cobrança da dívida acarretará maior dispêndio de tempo e de atos processuais para o Judiciário, afrontando os princípios da efetividade, economia e celeridade processual, porquanto demandaria a propositura de nova ação para discutir os mesmos valores."
+Como se verifica, tal entendimento baseia-se em precedente desta Corte Superior segundo o qual "o art. 9º da Lei 8.866/94 estabeleceu a cobrança de contribuições e exações em favor da Fazenda - via ação de depósito -, e explicitou sua abrangência também às hipóteses de depósitos irregulares, quando afastou a incidência do art. 1.280 do antigo Código Civil", sendo que "o STF suspendeu diversos dispositivos e expressões da Lei 8.866/94, pela ADinMC 1.055, mas manteve integralmente o disposto no art. 9º, o que autoriza a ação de depósito, esvaziada apenas no tocante à prisão liminar" (REsp 612.388/RJ, 2ª Turma, Rel. Min. Eliana Calmon, DJ de 28.11.2005).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE DEPÓSITO. PROSSEGUIMENTO DO FEITO. VIABILIDADE (A DESPEITO DA IMPOSSIBILIDADE DE PRISÃO DO DEPOSITÁRIO).
+1. "O art. 9º da Lei 8.866/94 estabeleceu a cobrança de contribuições e exações em favor da Fazenda - via ação de depósito -, e explicitou sua abrangência também às hipóteses de depósitos irregulares, quando afastou a incidência do art. 1.280 do antigo Código Civil", sendo que "o STF suspendeu diversos dispositivos e expressões da Lei 8.866/94, pela ADinMC 1.055, mas manteve integralmente o disposto no art. 9º, o que autoriza a ação de depósito, esvaziada apenas no tocante à prisão liminar" (REsp 612.388/RJ, 2ª Turma, Rel. Min. Eliana Calmon, DJ de 28.11.2005).
+2. Agravo regimental não provido.
+(AgRg no REsp 1.374.085/RJ, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 27.9.2013)
+Desta forma, resta mantido o acórdão recorrido, por meio do qual o Tribunal de origem anulou a sentença e determinou o retorno dos autos ao juízo singular para prosseguimento do feito.
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
