@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO POR LAVAGEM DE CAPITAIS. CONFIRMAÇÃO NO JULGAMENTO DA APELAÇÃO. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. AUSÊNCIA DE TRANSCURSO DO PRAZO PARA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. VIAS RECURSAIS ORDINÁRIAS. NÃO EXAURIMENTO. CONSTRANGIMENTO ILEGAL. CONFIGURAÇÃO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME]. Impugna-se o acórdão prolatado pelo Tribunal de Justiça de São Paulo na Apelação n. 0032270-05.2015.8.26.0050.
+Objetiva-se, inclusive em caráter liminar, a suspensão da execução provisória da pena até o esgotamento da jurisdição de 2ª instância, ou até o trânsito em julgado de seu processo (fl. 20).
+Segundo os autos, Marco Aurelio foi condenado (fls. 22/52), ao lado de outros corréus, às penas de 10 anos de reclusão, em regime inicial fechado, e 33 dias-multa, no valor de 1 salário mínimo cada, pela prática do delito previsto no art. 1º, V, da Lei n. 9.631/1998 (11 vezes). Foi deferido aos acusados o direito de recorrer em liberdade (fl. 49).
+Contra essa sentença penal condenatória, tanto as defesas dos apenados quanto o Ministério Público estadual interpuseram o recurso de apelação, o qual foi julgado no dia 27/11/2018 (fls. 54/106). Em relação ao paciente, suas penas foram aumentadas para 16 anos de reclusão, em regime fechado, e 53 dias-multa, mantendo-se o valor de 1 salário mínimo cada, tendo sido determinada, na oportunidade, a imediata expedição de mandado de prisão contra ele e os demais réus que foram condenados em regime inicial fechado.
+É o relatório.
+A partir de uma breve leitura do acórdão impugnado, verifico que assiste razão ao impetrante no tocante à necessidade de suspensão do cumprimento do mandado de prisão.
+Esta Corte Superior entende ser possível determinar-se a execução provisória da pena privativa de liberdade, desde que exauridas as vias ordinárias. Nesse sentido: HC n. 361.774/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 22/2/2017; HC n. 366.211/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/11/2016; AgRg no HC n. 447.312/SP, Ministro Felix Fischer, Quinta Turma, DJe 8/10/2018; e HC n. 427.752/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/6/2018.
+Contudo, constato que tal exigência não foi observada na espécie, uma vez que a Quarta Câmara Criminal do Tribunal de Justiça de São Paulo, ao impor a segregação provisória, não fez qualquer ressalva quanto à necessidade de se aguardar o exaurimento daquela instância antes de essa determinação ser cumprida.
+Considerando que o julgamento da apelação ocorreu na data de 27/11/2018, ainda não há se falar em transcurso do prazo recursal para impugnar o acórdão que daí resultou, sendo cabível, em tese, a oposição de embargos de declaração, cuja competência para julgamento será do próprio Tribunal estadual. Tal circunstância afasta a definitividade da condenação no âmbito da jurisdição a quo, configurando razão plausível para que se suspenda a execução provisória da pena.
+Ante o exposto, concedo liminarmente a ordem para suspender a execução provisória da pena do paciente até o exaurimento dos recursos sujeitos a julgamento pelo Tribunal estadual ou do prazo para sua interposição, o que ocorrer primeiro.
+Intime-se o Ministério Público estadual.
+Publique-se.
