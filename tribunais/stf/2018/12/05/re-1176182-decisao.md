@@ -1,0 +1,11 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de juízo de retratação pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado:
+    “AGRAVO INTERNO EM APELAÇÃO CÍVEL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE. DIREITO A PARIDADE E INTEGRALIDADE. SERVIDOR PÚBLICO APOSENTADO ANTES DA EC 41/2003 E FALECIDO EM 01/04/2004. REPERCUSSÃO GERAL DA QUESTÃO DECLARADA PELO STF. INTERPRETAÇÃO MAIS FAVORÁVEL AO BENEFICIÁRIO. APOSENTADORIA CONCEDIDA EM PERÍODO ANTERIOR À PROMULGAÇÃO DA EMENDA JÁ REFERIDA, SENDO COERENTE QUE TAL CONDIÇÃO SEJA ESTENDIDA À PENSÃO POR MORTE DO MESMO SERVIDOR. DECISÃO MONOCRÁTICA QUE NÃO MERECE REPARO. DESPROVIMENTO DO RECURSO.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 40, §§ 7º e 8º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional idêntica à versada na presente causa, julgou o  RE 603.580/RJ, Rel. Min. RICARDO LEWANDOWSKI, nele fixando tese assim consubstanciada:
+    “Os pensionistas de servidor falecido posteriormente à EC nº 41/2003 têm direito à paridade com servidores em atividade (EC nº 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC nº 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I).” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge, no que concerne ao direito à integralidade, da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou parcial provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com acórdão emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar seja observado, quanto ao cálculo do valor da pensão por morte, o disposto no art. 40, § 7º, I, da Constituição da República.
+    Publique-se.
+    Brasília, 05 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
