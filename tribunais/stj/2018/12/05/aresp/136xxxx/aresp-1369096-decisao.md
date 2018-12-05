@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ACÓRDÃO COM DEVIDA FUNDAMENTAÇÃO. AUSÊNCIA DE NULIDADES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado em face de decisão do Tribunal de Justiça do Estado de Minas Gerais, que negou admissibilidade a recurso contra acórdão assim ementado (fl. 273):
+APELAÇÃO CÍVEL. EXECUÇÃO DE PEQUENO VALOR CONTRA A FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS. ART. 1º-D, LEI 9.494/97. INAPLICABILIDADE. PRECEDENTE DO STF. REVOGAÇÃO DA DECISÃO QUE FIXOU HONORÁRIOS. NOVA FIXAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. CONDENAÇÃO AO PAGAMENTO DAS CUSTAS PROCESSUAIS. ISENÇÃO. ART. 10, INCISO I, DA LEI ESTADUAL 14.939/03. RECURSO CONHECIDO E PROVIDO.
+1. O art. 1º-D, da Lei 9.494/97 (com a alteração dada pelo art. 4º, da Medida Provisória nº 2.180-35/01), que afasta a possibilidade de condenação de verba honorária em execução de sentença promovida contra a Fazenda Pública, não alcança as hipóteses de pagamentos de obrigações definidos em lei como de pequeno valor (§ 3º, do art. 100 da Constituição da República), conforme interpretação dada pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 420.816.
+2. Nos termos da norma inserta no artigo 505, do Código de Processo Civil, é defeso ao Juiz reapreciar, no curso do mesmo processo, questão já decidida anteriormente.
+3. Considerando que o magistrado, após manifestação da Fazenda que informou que não oporia embargos, tornou sem efeito a decisão pela qual havia fixado honorários em sede de execução de sentença, a questão relativa à fixação de referida verba encontra-se claramente acometida pela preclusão pro judicato.
+4. Deve ser reformada a sentença que, não obstante a existência de decisão anterior que afasta a possibilidade de fixação de honorários em sede de execução, condena a executada ao pagamento da referida verba.
+5. A teor do disposto no art. 10, inciso I, da Lei 14.939/03, a Fazenda Pública goza de isenção quanto ao pagamento das custas e despesas processuais.
+Nas razões do especial, o recorrente defende violação dos arts. 11 e 489, ambos do CPC/2015. Sustenta que o Tribunal de origem não decidiu à questão relativa aos honorários advocatícios que lhe são devidos com devida fundamentação. Isso porque não salientou a não ocorrência da preclusão dos honorários advocatícios e nem sobre a vedação de honorários nas obrigações de pequeno valor.
+Apresentadas contrarrazões às fls. 316/326.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+O Tribunal de origem possui fundamentação clara quanto à impossibilidade de condenação da parte recorrida ao pagamento de honorários advocatícios. Confira-se (fl. 277):
+Contudo, o caso em espeque guarda peculiaridade que enseja a reforma da sentença, pois conforme se extrai da narrativa dos fatos alhures, o magistrado a quo, após a manifestação da executada que informou que não oporia embargos, tornou sem efeito a decisão pela qual havia fixado honorários em sede de execução, de modo que, a meu aviso, a questão relativa à fixação de referida verba encontra-se claramente acometida pela preclusão pro judicato, nos termos da norma inserta no art. 505 do CPC:
+ ..
+Destarte, não pelas razões recursais apresentadas pelo apelante, mas em virtude da ocorrência de preclusão pro judicato, a hipótese é de provimento do recurso para afastar a condenação do apelante ao pagamento dos honorários, e, de igual modo, afastar também a obrigação quanto ao pagamento das custas processuais, pois o ente público goza de isenção quanto ao pagamento dessas verbas, a teor do disposto no art. 10, inciso I, da Lei Estadual nº 14.939/03.
+Assim, conforme depreende-se dos autos, o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Portanto, na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
