@@ -1,0 +1,8 @@
+DECISÃO: A parte ora recorrente pede destaque de seu processo, que foi regularmente pautado para julgamento virtual.
+    A Resolução STF nº 587/2016, embora prevendo a possibilidade de pedido de destaque por qualquer das partes, não o torna, porém, de atendimento necessário, especialmente em casos como o de que ora se cuida, em que a parte ora embargante “(...) não ofereceu razões substanciais a justificar o julgamento presencial” (ARE 930.778-AgR-EDv-ED-ED-AgR/BA, Rel. Min. TEORI ZAVASCKI).
+    Cabe acentuar, ainda, que o eventual acolhimento do pedido de destaque – que implica exclusão do julgamento em ambiente virtual, deslocando-o para o plano presencial – pode gerar essa consequência, desde que o pleito veicule matéria revestida de caráter inédito (que jamais tenha constituído objeto de apreciação por parte do Supremo Tribunal Federal) ou que se mostre impregnada de caráter extremamente relevante (ARE 999.926-AgR-terceiro/RJ, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.102.031-AgR-ED/SP, Rel. Min. ROBERTO BARROSO – ARE 1.111.241-AgR-ED/SP, Rel. Min. DIAS TOFFOLI – HC 160.670- -AgR/PR, Rel. Min. ROSA WEBER – HC 160.815-AgR/RJ, Rel. Min. LUIZ FUX – RE 1.021.936-AgR/DF, Rel. Min. GILMAR MENDES, v.g.), situações de todo inocorrentes na espécie ora em exame, que envolve a aplicação de regra legal ancianíssima, vale dizer, o art. 5º, I, da Lei nº 12.016/2009, que reproduziu o disposto no art. 5º, I, da Lei nº 1.533/1951, cujo teor, por sua vez, resultou da primeira Lei do Mandado de Segurança (Lei nº 191/1936, art. 4º, II).
+    Sendo assim, indefiro o pedido de destaque.
+    Publique-se.
+    Brasília, 05 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
