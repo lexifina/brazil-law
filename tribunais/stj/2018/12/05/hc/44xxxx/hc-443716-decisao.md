@@ -1,0 +1,23 @@
+DECISÃO
+NILO ALVES SIQUEIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região no Agravo n. 0004159-68.2017.4.03.0000.
+O impetrante acoima de ilegal a decisão que renovou o período de permanência do paciente no Presídio Federal de Campo Grande/MS, pois o Juízo da 5ª Vara Federal de Campo Grande: a) não observou o contraditório e a ampla defesa no procedimento, "na medida em que a Defensoria não foi ouvida antes da prolação da referida decisão, em afronta ao dispositivo no art. 5º, § 2º, da Lei n. 11.671/2008" (fl. 5) e b) não motivou concretamente a providência excepcional.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Na hipótese:
+Consta do relatório de inteligência, que o interno é considerado de alta periculosidade, envolvido diretamente com tráfico de drogas em todo o Estado de Pernambuco. Em 2015, estava diretamente ligado na tentativa de fuga na Penitenciária Barreto Campeio, em que foram utilizadas duas pistolas. O preso é bastante influente na obtenção de explosivos diversos. O interno comanda homicídios por todo o Estado do Pernambuco, (fls. 128).
+O Juízo de origem admitiu a prorrogação do prazo de permanência do apenado no sistema penitenciário federal, diante das razões apresentadas pelo Secretário de Justiça e Direitos Humanos do Estado de Pernambuco, bem como com o objetivo de frustrar movimento de rebeliões, motins, fugas e articulação criminosa, em benefício da segurança pública, (fls. (25/127).
+A Lei n. 11.671/2008 prevê que a inclusão ou a renovação do período de permanência do apenado em estabelecimento federal de segurança máxima é medida de caráter excepcional e temporária, requerida pelo Juízo de origem mediante decisão justificada no interesse da segurança pública ou do próprio preso.
+Assim, cabe ao Juízo solicitante justificar a postulação e se disso discordar a defesa, contra sua decisão caberá recurso ao Tribunal ao qual está vinculado. O Juízo Federal somente poderá recusar o pedido se evidenciadas condições inviáveis da unidade, tal como lotação.
+O Tribunal Regional Federal da 3ª Região assinalou que a discussão deduzida pela defesa deveria haver sido demandada no Juízo de origem, pois compete ao Juiz Federal "avaliar apenas os pressupostos formais e os requisitos para a permanência em presídio federal, como se deu no caso" (fl. 44).
+O Julgado está em consonância com os precedentes deste Superior Tribunal, in verbis: "ao Juízo Federal não compete realizar juízo de valor sobre as razões de fato emanadas pelo Juízo solicitante, sendo-lhe atribuído pelo art. 4.º da Lei n.º 11.671/2008, tão-somente, o exame da regularidade formal da solicitação" (RHC n. 42.184/MS, Rel. Ministra Laurita Vaz, 5ª T., DJe 26/3/2014).
+Com efeito: "ao Juízo Federal não compete realizar juízo de valor sobre as razões de fato emanadas pelo Juízo solicitante, sendo-lhe atribuído pelo art. 4.º da Lei n.º 11.671/2008, tão-somente, o exame da regularidade formal da solicitação" (CC n. 127.981/RJ, Rel. Ministra Laurita Vaz, 3ª S., DJe 9/12/2013).
+Ilustrativamente:
+ ..
+Persistindo as razões e fundamentos que ensejaram a transferência do preso para o presídio federal de segurança máxima, como afirmado pelo Juízo suscitante,  .. , a renovação da permanência é providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública.
+3. Não cabe ao Juízo Federal discutir as razões do Juízo Estadual, quando solicita a transferência de preso para estabelecimento prisional de segurança máxima, assim quando pede a renovação do prazo de permanência, porquanto este é o único habilitado a declarar a excepcionalidade da medida.
+(CC n. 120.929/RJ, Rel. Ministro Marco Aurélio Bellizze, 3ª S., DJe 16/8/2012).
+Consoante o parecer da Subprocuradora-Geral da República [NOME] (fl. 73, destaquei):
+De fato, como muito bem asseverado no acórdão ora atacado (fls.41/46), as questões atinentes à transferência de presos para estabelecimentos penais federais, bem como às renovações de permanência devem ser debatidas perante o juízo solicitante. Desse modo, não cabe ao juiz federal solicitado reapreciar e decidir acerca das formalidades do processo e das razões que motivaram a permanência do réu em presídio federal, tendo em vista, inclusive, que é no âmbito do juízo que solicita a renovação que devem ser exercidos o contraditório e a ampla defesa.
+Assim, não competia ao Juiz Federal ou ao TRF da 3ª Região a análise sobre a legalidade da decisão que renovou período de permanência do paciente no presídio federal.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
