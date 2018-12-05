@@ -1,0 +1,44 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSO CIVIL. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. PROVA EMPRESTADA. VALIDADE. PRECEDENTES. RECURSO ESPECIAL DA SEGURADA A QUE SE DÁ PROVIMENTO.
+1. Trata-se Recurso Especial interposto por MARIA VICENTINA PEGO, com base na alínea a e c do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 3a. Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. BENEFÍCIO ASSISTENCIAL. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1- O artigo 557 do Código de possibilidade de o recurso ser julgado pelo respectivo Relator.
+2- Segundo entendimento firmado nesta Corte, a decisão do Relator Processo Civil consagra a não se vislumbrar ilegalidade ou de difícil reparação para a não deve ser alterada quando fundamentada e nela ou abuso de poder que resulte em dano irreparável parte.
+3- A decisão agravada abordou todas as questões suscitadas e orientou-se pelo entendimento jurisprudencial dominante. Pretende a parte agravante, em sede de agravo, rediscutir argumentos já enfrentados pela decisão recorrida.
+4- Agravo desprovido. Decisão mantida.
+2. Em seu Apelo Nobre, sustenta o recorrente violação ao art. 130 do CPC/1973, ao seguinte argumento de que a deficiência impeditiva para o trabalho e vida independente restou devidamente provada através do laudo pericial confeccionado no processo de interdição, afirma que é possível a utilização da prova emprestada.
+3. É o relatório.
+4. No Código de Processo Civil de 1973, a prova emprestada, era considerada como prova atípica, sendo admitida, entretanto, como meio probatório de utilização legítimo. Importante consignar, que a admissão de meios probatórios atípicos (como os indícios, presunções e a própria prova emprestada) foi uma inovação trazida pelo CPC de 1973 em relação ao seu antecessor, que não possuía disposição semelhante.
+5. O CPC/1973 previa que a prova emprestada para ser admitida tinha que ter identidade de relação fática e tratar-se das mesmas partes.
+6. A Corte Especial do STJ sufragou o entendimento acima e concebeu que a prova emprestada não pode se restringir a processos em que figurem partes idênticas, sob pena de se reduzir excessivamente sua aplicabilidade, sem justificativa razoável para tanto. Independentemente de haver identidade de partes, o contraditório é o requisito primordial para o aproveitamento da prova emprestada, de maneira que, assegurado às partes o contraditório sobre a prova, isto é, o direito de se insurgir contra a prova e de refutá-la adequadamente, afigura-se válido o empréstimo (EREsp 617.428/SP, Rel. Ministra NANCY ANDRIGHI, Corte Especial, DJe 17/6/2014).
+7. A prova emprestada foi sendo aceita em muitos casos e aplicada, sempre em consonância com os princípios constitucionais, o Código Fux que tem com uma das suas principais inovações a valorização do precedente judicial, confirmando o posicionamento desta Corte Superior deixou de considerar a Prova Emprestada como atípica, para ser introduzida como prova típica, encontrando previsão legal em seu artigo 372, verbis:
+Art. 372. O juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo-lhe o valor que considerar adequado, observado o contraditório.
+8. Ademais, não há falar em cerceamento de defesa pela utilização de prova emprestada, se produzida com observância do contraditório e do devido processo legal (AgRg no REsp. 1.066.838/SC, Rel. Min. HERMAN BENJAMIN, DJe de 4.2.2011).
+9. No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO EM DOBRO. SOCIEDADE DE ECONOMIA MISTA. PESSOA JURÍDICA DE DIREITO PRIVADO. INAPLICABILIDADE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. LEGITIMIDADE ATIVA E PASSIVA AD CAUSAM. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. PRESCRIÇÃO. APLICABILIDADE DO DECRETO Nº 20.910/32. INTELIGÊNCIA DO RECURSO ESPECIAL Nº 1.251.993/PR SUBMETIDO AO RITO DOS REPRESENTATIVO DE CONTROVÉRSIA. SÚMULA 83/STJ. CARACTERIZAÇÃO DA DANOS MATERIAIS E CABIMENTO DE PROVA EMPRESTADA. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+9. Por fim, quanto à violação dos artigos 330 e 332, ambos do CPC, o entendimento desta Corte Superior é no sentido de que não há cerceamento de defesa pela utilização de prova emprestada se esta tiver sido produzida com a observância do contraditório e do devido processo legal. Com efeito, verifica-se que foi com base nos fatos e provas constantes dos autos, que Tribunal a quo decidiu por negar a dilação probatória, ao reconhecer a validade da prova emprestada. Frisa-se que analisar se deve ser reaberta a fase de instrução probatória no presente feito, atrai a incidência do óbice da Súmula 7/STJ, eis que implica no reexame do conjunto fático e probatório dos autos.
+10. Agravo regimental interposto pela Companhia de Gestão dos Recursos Hídricos não conhecido e não provido o agravo regimental interposto pelo Departamento Nacional de Obras Contra as Secas (DNOCS) (AgRg no AREsp. 299.583/CE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 22.5.2013).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. PRESCRIÇÃO, LEGITIMIDADE E INDENIZAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STF. OMISSÃO INEXISTENTE. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. PROVA EMPRESTADA. VALIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA.
+(..)
+4. O Tribunal de origem concluiu que a prova emprestada não era elemento preponderante para o deslinde da demanda. A modificação da conclusão a que chegou a Corte de origem demandaria reexame do acervo fático probatório dos autos, inviável em sede de recurso especial, sob pena de violação à Súmula 7 do STJ.
+5. Esta Corte entende que a utilização da prova emprestada não configura cerceamento de defesa quando as razões de convencimento das instâncias de origem não se pautam apenas naquele meio de prova.
+Agravo regimental do DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - DNOCS improvido (AgRg no AREsp. 301.249/CE, Rel. Min. HUMBERTO MARTINS, DJe 16.5.2013).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL RECEBIDOS COMO AGRAVO REGIMENTAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. PROVA EMPRESTADA PRODUZIDA SOB O DEVIDO PROCESSO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. No caso em exame, o Tribunal a quo se valeu de prova emprestada sobre a não prestação do serviço de esgoto. Assim, não cabe, em recurso especial, o revolvimento do contexto fático-probatório dos autos para se examinar se houve ou não a efetiva prestação do serviço.
+3. Não há falar em cerceamento de defesa pela utilização de prova emprestada, se produzida com observância do contraditório e do devido processo legal. Nesse sentido: AgRg no REsp 1.066.838/SC, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe de 4/2/11.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento (EDcl no AREsp. 179.824/RJ, Rel. Min. ARNALDO ESTEVES LIMA, DJe 4.2.2013).
+10 No caso em exame, a matéria de fundo é a concessão do benefício assistencial, o qual tem como requisitos:
+Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.
+(..)
+I) ser pessoa portadora de deficiência ou idoso com 65 (sessenta e cinco) anos ou mais (art. 34 do - Lei n.º de 01.10.2003);
+II) não possuir meios de subsistência próprios ou de tê-la provida por sua família, cuja renda mensal per capita seja inferior a  do salário mínimo (art. 203, , da ; art. 20, § 3º, e art. da Lei n.º 8.742 de 07.12.1993).
+11. O juiz sentenciante com base no conjunto fático-probatório dos autos, reconheceu estarem cumprido os dois requisitos necessários, julgando procedente o pedido de concessão do benefício assistencial.
+12. In casu, a recorrente demonstrou a incapacidade através da decisão de interdição transitada em julgada, proferida pelo Juízo da 2a vara Cível de Mogi Guaçi do Estado de São Paulo (fls. 29), assim sendo verifica-se a plena validade da prova emprestada juntada aos autos.
+13. Contudo, o Tribunal de origem reformou a sentença ao fundamento de que para aferição da condição da deficiência não poderia ser utilizada a prova emprestada, o que impossibilitaria a concessão do benefício. Ocorre que esse entendimento encontra-se em dissonância com a orientação acima estabelecida, razão pela qual deve ser reformado o acórdão.
+14. Ante o exposto, dá-se provimento ao Recurso Especial da Segurada para restaurar a sentença em todos os seus termos.
+15. Publique-se.
+16. Intimações necessárias.
