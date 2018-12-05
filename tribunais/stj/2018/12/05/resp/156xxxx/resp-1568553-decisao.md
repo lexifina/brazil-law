@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Paquetá Calçados Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 397):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA DA AUTORIDADE IMPETRADA. NÃO OCORRÊNCIA. COFINS - IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. § 21 DO ART. 8º DA LEI Nº 10.865/04. PRODUÇÃO DE EFEITOS.
+1. Tratando-se de discussão acerca da exigência da COFINS - Importação é legitimada para figurar no polo passivo do writ a autoridade fiscal sob cuja jurisdição for efetuado o despacho aduaneiro da mercadoria (art. 70 da IN RFB nº 1.300/12.
+2. Inaplicável à espécie os arts. 15, inc. III, da Lei nº 9.779/99 e 35 da Lei nº 10.833/03, que prevêem que o recolhimento do PIS e da COFINS deverá ser efetuado de forma centralizada pelo estabelecimento matriz, porquanto a base de cálculo da COFINS - Importação não é o faturamento ou a receita bruta global da empresa, mas o valor aduaneiro da mercadoria, o qual é aferido isoladamente, em cada operação de importação.
+3. A majoração de alíquota de tributo, seja ele qual for, não prescinde de qualquer ato regulamentador a ser expedido pela autoridade fiscal para entrar em vigor. Todavia, considerando o disposto no art. 78, § 2º, da Lei nº 12.715/12, que previu a necessidade de regulamentação do art. 53 do referido diploma legal, que instituiu um adicional de alíquota para a COFINS - Importação, tenho que tal condição restou implementada com a edição do Decreto nº 7.828, de 16-10-2012, que regulamentou os arts. 53 a 56 da Lei nº 12.715/12 naquilo que necessitava ser regulamentado.
+Opostos embargos declaratórios, foram rejeitados (fls. 419/422).
+A parte recorrente aponta violação aos arts. 78, § 2º, da Lei 12.715/2012; e 108 do CTN; bem como dissídio jurisprudencial. Sustenta, em resumo, que não é possível se utilizar de interpretação analógica, sob pena de resultar na exigência de tributo não previsto em lei, para entender que o Decreto 7.828/2012 regulamentou a majoração da alíquota da COFINS - Importação.
+Contrarrazões pelo não-conhecimento do especial apelo, ante a incidência das Súmulas 211/STJ, 282/STF, 356/STF e 7/STJ (fls. 458/460).
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No caso, o Tribunal de origem não se pronunciou sobre a tese veiculada no especial apelo de que não é possível se utilizar de interpretação analógica, sob pena de resultar na exigência de tributo não previsto em lei, para entender que o Decreto 7.828/2012 regulamentou a majoração da alíquota da COFINS - Importação, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/73, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Registre-se, por fim, que o não conhecimento do apelo raro pelo conduto da alínea a, do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. SÚMULA 284/STF. VIOLAÇÃO DO ART. 5º, DA LEI 9.717/98. ACÓRDÃO FUNDAMENTADO EM LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+ ..
+3. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo regimental não provido.
+(AgRg no AREsp 344.860/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/9/2013, DJe 27/9/2013)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO DISTRITAL INATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LICENÇA PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO DO FUNDO DE DIREITO AFASTADA PELO TRIBUNAL DE ORIGEM. LEI LOCAL. EXAME. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO NÃO PROVIDO.
+ ..
+3. "O não-conhecimento do recurso especial pela alínea "a" do permissivo constitucional, em razão do óbice das Súmulas 7/STJ e 280/STF, inviabiliza também o exame do dissídio jurisprudencial quando fundado na mesma tese" (REsp 755.815/RO, Rel. Min. ARNALDO ESTEVES LIMA, Quinta Turma, DJ 6/8/07).
+ ..
+4. Agravo regimental não provido.
+(AgRg no REsp 1224648/DF, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 22/3/2011, DJe 7/4/2011)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
