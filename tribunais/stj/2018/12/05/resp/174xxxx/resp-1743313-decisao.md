@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 114):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. PRESCRIÇÃO. HONORÁRIOS ADVOCATICIOS.
+I. A Lei n. 11.280/2006 alterando a redação do § 5º do artigo 219 do Código de Processo Civil possibilitou ao magistrado o reconhecimento, de oficio, da prescrição. As alterações introduzidas por esta lei têm aplicação imediata, alcançando os feitos em andamento.
+II. A apresentação da Declaração de Créditos e Débitos Tributários Federais -DCTF-, caracteriza constituição definitiva do crédito tributário e enseja inicio do prazo prescricional a partir do vencimento do débito tributário.
+III. Em execução fiscal, a prescrição se interrompe pelo despacho do juiz ordenando a citação, conforme dispõe o artigo 174, parágrafo único, inciso I, do Código Tributário Nacional, com redação dada pela Lei Complementar 118/2005, de aplicação imediata, respeitadas as situações que se consumaram sob a égide da legislação pretérita.
+IV. Em sendo a prescrição fato superveniente, independente da vontade das partes, não são devidos honorários advocatícios.
+V. Apelação da embargada e remessa oficial parcialmente providas.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente alega violação do artigo 535 do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, em especial "quanto ao fato de que o crédito exequendo, não obstante tenha datas de vencimento entre 28/02/94 e 31/01/97, somente foi constituído por meio de Declarações de Rendimento entregues após a data do vencimento" e, ainda, "quanto ao ingresso da embargante no REFIS, em 26/04/2001, do qual somente foi excluída em 28/09/2001." (fl. 137).
+Quanto à questão de fundo, sustenta ofensa ao artigo 174, parágrafo único, IV, do CTN, ao fundamento de que o STJ já pacificou entendimento a respeito do marco inicial da prescrição em tributos sujeitos ao lançamento por homologação, e, ainda, que o pedido de parcelamento importou em reconhecimento do débito e interrupção do lustro prescricional.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 179/186.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Ainda preliminarmente, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+No mérito, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa ao artigo 174, parágrafo único, IV, do CTN, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Outrossim, o recorrente, ao indicar ofensa ao artigo 174, parágrafo único, IV, do CTN e direcionar a sua tese no sentido de constituição posterior ao vencimento do crédito e interrupção da prescrição pela adesão ao REFIS (conforme documentação juntada nos embargos de declaração), deixou de impugnar os fundamentos do acórdão recorrido segundo os quais (fls. 110 e 130):
+Se munido de tais informações a Fazenda Pública tem a prerrogativa de inscrever o débito em dívida ativa a partir do dia seguinte ao vencimento, também deve ser este o marco inicial do lapso prescricional para o ajuizamento da execução.
+Com efeito, a apresentação pelo contribuinte de Declaração de Débitos e Créditos Tributários Federais - DCTF, Guia de Informações e Apuração do ICMS - GIA, ou declaração prevista em lei de mesma natureza, desacompanhada do pagamento no vencimento dispensa a constituição formal do crédito tributário.
+ ..
+Por fim, destaque-se que a embargante trouxe aos autos fatos/documentos novos, sendo cediço o entendimento jurisprudencial de que é incabível a juntada de novas provas ou apresentação de novas alegações no bojo de embargos de declaração, pois imprescindível o contraditório, sendo inadmissível a inovação nesta sede (EDREsp 660831, Rel. Min. Nancy Adrighi, DJ de 05/02/2007 e REsp 1022365, Rel Min. Aldir Passarinho Junior, DJE de 13/12/2010). Logo, não há que se falar em omissão, pois o v. acórdão avaliou todos os elementos juntados aos autos no momento oportuno.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
