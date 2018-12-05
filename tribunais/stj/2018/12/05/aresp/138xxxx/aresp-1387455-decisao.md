@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial em virtude da incidência das Súmulas n. 282 do STF e 7 do STJ (e-STJ fls. 271/274).
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 147):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA - LEGITIMIDADE ATIVA - VERIFICADA - LITIGÂNCIA DE MÁ-FÉ - REJEITADA - RECURSO CONHECIDO E DESPROVIDO. 1. Não tendo a agravante ilidido a titularidade, validade e exigibilidade do contrato firmado entre as partes, deve ser mantida a decisão no ponto em que rejeitou a arguição de ilegitimidade ativa. 2. A intenção temerária da agravante não se presume na hipótese, razão pela qual rejeita-se o pedido de aplicação de multa por litigância de má-fé.
+No recurso especial (e-STJ fls. 152/156), interposto com base no art. 105, III, alínea "a", da CF, a recorrente apontou violação dos arts. 502 e 506 do CPC/2015 (arts. 467 e 472 do CPC/1973). Sustentou ofensa à coisa julgada, tendo em vista que a parte ora recorrida não seria beneficiária da ação coletiva cujo cumprimento de sentença é objeto dos autos, porque seu nome não constaria na listagem dos consumidores abrangidos pela eficácia da decisão na Ação Civil Pública.
+No agravo (e-STJ fls. 276/282), afirma a presença de todos os requisitos de admissibilidade do especial.
+A contraminuta foi apresentada (e-STJ fls. 291/294).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+A Corte de origem negou provimento ao agravo de instrumento interposto pela companhia telefônica, reconhecendo a legitimidade da parte ora agravada, nos seguintes termos (e-STJ fls. 148/149):
+Inicialmente, aduz a agravante que o nome da parte agravada não aparece na lista dos consumidores abrangidos pela eficácia da Ação Civil Civil Pública;
+que o simples fato de ter firmado contrato com a empresa Inepar não é suficiente para que o consumidor tenha direito ao recebimento de ações e que a parte agravada não se tornou acionista da TELEMS, seja porque não adimpliu o contrato de PCT com a Inepar, seja porque transferiu seus direitos à terceiros.
+Neste ponto, entendo que não assiste razão à agravante.
+A parte agravada comprovou sua qualidade de credora da sentença coletiva e, portanto, sua legitimidade para apresentar o presente cumprimento individual de sentença, através da juntada dos contratos firmados com a INEPAR (f. 11 e 12 dos autos principais).
+Aliás, em caso de posterior inadimplemento, competia à agravante exigir o débito ou rescindir o contrato. Se cobrou o débito e recebeu a dívida, o contrato foi quitado e é exigível. Se não cobrou ou não recebeu, deveria ter rescindido o negócio e devolvido os valores pagos. Entretanto, a recorrente não provou a rescisão deste negócio e a devolução dos valores eventualmente pagos, nos termos do art. 333, II, CPC, posto que se constitui fato impeditivo do direito da parte adversa.
+Sem rescisão, o contrato é válido e suas cláusulas e efeitos exigíveis.
+A transferência deste contrato a terceiros também constitui óbice ao direito da parte agravada, cuja prova não se desincumbiu a agravante de produzir. Note- se que não foi juntado aos autos qualquer documento de cessão ou transferência de direitos pela parte agravada, nem mesmo de transferência da linha telefônica para instalação em endereço diverso em favor de novo titular, o que não se presume.
+Outrossim, o fato do nome da parte agravada não constar em lista de consumidores que transferiram direitos ao Município, não significa que não seja titular do contrato ou da linha telefônica, nem que não seja credora da obrigação reclamada, porque figurar nesta lista nunca foi condição imposta na sentença coletiva, a qual garante a todos aqueles que firmaram contratos nos moldes do Programa Comunitário de Telefonia o direito a serem investidos na condição de assinantes/acionistas, devendo inclusive receber dividendos.
+Portanto, não tendo a agravante ilidido a titularidade, validade e exigibilidade do contrato firmado entre as partes, deve ser mantida a decisão no ponto em que rejeitou a arguição de ilegitimidade ativa. (grifos no original.)
+Dissentir de tal entendimento é inviável no âmbito desta Corte, haja vista o teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
