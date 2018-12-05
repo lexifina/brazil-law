@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO FEDERAL DA 2ª VARA DE SÃO JOSÉ DO RIO PRETO - SJ/SP, o suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE PALESTINA - SP, o suscitado.
+Na origem, "Trata-se de ação penal ajuizada pelo Ministério Público do Estaco de São Paulo, perante a Vara Única da Comarca de Palestina/SP, em desfavor dos denunciados [NOME], NICANOR NOGUEIRA BRANCO, UGILTON CÉSAR DE MORAES GARCIA, [NOME], MAURO ANDRE [NOME], [NOME], GUILHERME PANSANI DO LIVRAMENTO, CIRO SPADÁCIO, CARLOS GILBERTO ZANATA, VALDIR MIOTTO, [NOME], [NOME], [NOME], [NOME], LUCAS ELIAS JUNQUEIRA DE OLIVEIRA E ANTONIO CARLOS FREDERICO, pela prática do crime previsto no artigo 90 da Lei nº 8.666/93 c/c o artigo 69 do Código Penal, considerando a existência de fraudes em dezoito licitações realizadas pelo município de Palestina/SP, nos anos de 2008 a 2011, investigadas no bojo da denominada "Operação Fratelli"" (e-STJ, fl. 3.161).
+A Justiça Estadual declinou da competência para analisar o feito e determinou a remessa dos autos à Justiça Federal (e-STJ, fl. 3.082).
+Por sua vez, o Juízo Federal suscitou o presente conflito ao seguinte entendimento:
+"Não há que se falar, portanto, em declínio à seara federal de todos os crimes praticados pela organização criminosa investigada no bojo da "Operação Fratelli", mas tão somente daqueles casos em que as licitações fraudadas utilizaram verbas federais para o custeio das obras licitadas, o que não se vislumbrou no presente caso.
+Destarte, conclui-se que os presentes autos foram remetidos indevidamente ao Juízo Federal de Jales/SP e, posteriormente, à 2ª Vara Federal de São José do Rio Preto, considerando que, no presente feito, não há malversação de verbas oriundas da União, bem como conexão instrumental ou probatória deste feito com outras ações em trâmite perante este Juízo Federal".
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 3.182-3.185).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Destaca-se, ainda, que a conexão probatória se configura na hipótese em que a prova de uma infração puder, de alguma forma, influir na de outra (art. 76 do CPP).
+No caso, "diante da autonomia delitiva apresentada nos autos, embora haja similaridade do modus operandi dos demais crimes apurados na mesma investigação, deve haver o trâmite independente ao presente feito na Justiça Estadual (Comarca de Palestina), assim como dos demais feitos que apuram os delitos praticados pela organização criminosa investigada no bojo da "Operação Fratelli", de modo que cada conduta delitiva seja processada perante o seu juízo territorialmente competente (art. 70 do CPP), conforme a existência, ou não, de verba federal como objeto dos autos (artigo 109, inciso I, da CF). (..) Os crimes foram perpetrados em detrimento do Erário Público Municipal, a serem processados e julgados pela Justiça Estadual (ver art. 18 e 92, VII da Constituição Federal)" (e-STJ, fls. 3.183-3.185, grifou-se).
+Assim, é de se reconhecer, neste momento processual, a inexistência de conexão probatória entre os delitos praticados pelo interessado, de forma que inaplicável, no caso em tela, a Súmula 122/STJ.
+Nesse sentido:
+"PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME AMBIENTAL E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. AUSÊNCIA DE CONEXÃO PROCESSUAL. CONCURSO DE CRIMES QUE NÃO IMPLICA NECESSARIAMENTE CONEXÃO. NÃO INCIDÊNCIA DA SÚMULA 122/STJ.
+I - Não obstante a verificação dos crimes tenha ocorrido no mesmo contexto fático, não há elementos para se indicar a existência de conexão processual que atraia a competência da Justiça Federal, nos termos do Enunciado n. 122, da Súmula do Superior Tribunal de Justiça.
+II - A competência para o processamento do crime do art. 16, parágrafo único, IV, da Lei 10.826/03 deve recair sobre a Justiça Estadual, não havendo se falar em prejuízo à instrução com a cisão dos processos, pois a consumação dos crimes imputados se deu em momentos diferentes.
+Conflito conhecido para declarar a competência do d. Juízo de Direito da 2ª Vara de Bocaiúva- MG para apuração do crime previsto no art. 16, parágrafo único, IV, da Lei 10.826/03" (CC 140.649/MG, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 09/11/2015 - grifou-se.)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara Única de Palestina - SP, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
