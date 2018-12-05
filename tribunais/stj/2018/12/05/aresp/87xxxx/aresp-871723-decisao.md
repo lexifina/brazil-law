@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS NÃO IMPUGNAM ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela União (fls. 2004-2019) contra decisão que inadmitiu a subida do recurso especial (fls. 2.119-2.120) pela aplicação das Súmulas 284/STF e 83 do STJ. Entendeu também deficiente de fundamentação no tocante à alegada violação do artigo 535 do CPC/1973 (Súmula 284/STF).
+O apelo nobre enfrenta acórdão oriundo do Pleno do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 1857):
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. AUDITORES FISCAIS. 28,86%. INCIDÊNCIA SOBRE A RAV. ENTENDIMENTO QUE DIVERGE DA ORIENTAÇÃO FIRMADA NO RESP 1.318.315/AL. INCIDÊNCIA DO ART. 543-C, §7º DO CÓDIGO DE PROCESSO CIVIL.
+1. O eg. Superior Tribunal de Justiça, ao apreciar o Recurso Especial 1.318.315/AL, submetido aos auspícios do regime de recursos repetitivos (art. 543-C, §7º do CPC) assentou entendimento segundo o qual é devido aos Auditores Fiscais o reajuste integral de 28,86% sobre a RAV, sem compensação com o aumento decorrente o reposicionamento estabelecido pela Lei nº8.627/97.
+.2. Procedência do pedido. Adequação do acórdão à orientação da Corte Superior, nos termos do art. 543-C, §7º do CPC.
+Opostos embargos de declaração por ambas as partes, foram acolhidos os do particular e rejeitados os da União.
+Opostos embargos infringentes, ficaram assim ementados:
+PROCESSUAL CIVIL. EMBARGOS INFRINGENTES EM AÇÃO RESCISÓRIA. SÚMULA 343 DO STF. INAPLICABILIDADE. AUDITORES FISCAIS. 28,86%. INCIDÊNCIA SOBRE A RAV. ORIENTAÇÃO FIRMADA NO RESP 1.318.315/AL ART. 543-C, NOS TERMOS DO ART. 543-C DO CPC.
+1. Em que pese tratar-se de matéria controvertida nos Tribunais à época do julgamento, o Superior Tribunal de Justiça tem admitido a propositura de ação rescisória para adequar o acórdão rescindendo à jurisprudência pacificada sobre o tema.
+2. Referida Corte Superior, ao apreciar o Recurso Especial 1.318.315/AL, submetido aos auspícios do regime de recursos repetitivos assentou entendimento segundo o qual é devido aos Auditores Fiscais o reajuste integral de 28,86% sobre a RAV, sem compensação com o aumento decorrente o reposicionamento estabelecido pela Lei nº 8.627/93.
+3. Embargos infringentes improvidos.
+O apelo nobre foi interposto com fundamento no art. 105, III, "a" e "c", da CF. Pugna inicialmente pela nulidade do acórdão recorrido, por suposta persistência das omissões apontadas nos embargos, configurando-se violação ao disposto no art. 535, II, do CPC. No mérito, anota contrariedade aos arts. 2º, 6º, 467, 468, 474 e 485 do [PLACA], 81, § único, III, 91, 95, 97 e 98, da Lei nº 8.078/1990, 2º-A da Lei 9.494/97, redação da MP nº 2.180-35/2001 (ilegitimidade do Sindicato e necessidade da listagem de substituídos).
+O agravante sustenta que o óbice na Súmula 83/STJ não pode ser aplicado ao caso dos autos, porquanto o recurso especial foi interposto com amparo na negativa de vigência a artigo de lei federal (alínea "a" do permissivo constitucional).
+Assevera também que a decisão agravada, ao analisar o mérito do recurso especial, "não respeitou os limites do juízo de admissibilidade", e que não é o caso de discussão de matéria de fato, e, sim, de contrariedade a dispositivos legais, não incidindo o óbice da Súmula 7/STJ.
+É o relatório. Passo a decidir.
+Registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Esclarece-se inicialmente que o teor da Súmula 83/STJ aplica-se de forma indistinta aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional (v.g.: AgInt no REsp 1.685.885/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe: 6/3/2018; AgRg no AREsp 743.354/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/09/2015)
+É de se notar também que a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica em usurpação da competência do Superior Tribunal de Justiça (v.g. AgRg no AgRg no AREsp 624.404/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/08/2015);
+No mais, o recurso de agravo não reúne condições para ser conhecido por esta Corte Superior. Isso porque a agravante não impugnou, especificamente, todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o recurso especial, conforme determina o inciso I do § 4º do artigo 544 do CPC (incluído pela Lei n. 12.322/10), in verbis:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4o No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada;
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ENERGIA ELÉTRICA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A parte agravante não rebateu os fundamentos da decisão que inadmitiu o Recurso Especial, tendo se limitado a repisar as mesmas razões de mérito do Apelo Nobre e a afirmar que o Tribunal de origem, ao realizar o juízo de admissibilidade, usurpou a competência do STJ. Em razão disso, consignou-se a incidência da Súmula 182/STJ.
+2. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do CPC/1973 (atual art. 1.042 do CPC/2015), como o dito Regimental ou Interno previsto no art. 545 do CPC/1973 (atual art. 1.021, § 1º, do CPC/2015), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não lhe comporta seguimento.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar, não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+4. Agravo Regimental do particular a que se nega provimento. (AgRg no AREsp 781.420/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 9/3/2018)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
