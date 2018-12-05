@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. Afasto a suspensão anteriormente determinada.
+    2. Observem as premissas do acórdão impugnado. Colho da decisão recorrida os seguintes fundamentos:
+    TRIBUTÁRIO - MANDADO DE SEGURANÇA - ARTIGO 6° DA LEI N° 2.249/95 - EXTINÇÃO DA CORREÇÃO MONETÁRIA DOS VALORES CONTROLADOS NA PARTE "B" DO LIVRO DE APURAÇÃO DO LUCRO REAL (LALUR) APÓS 31 DE DEZEMBRO DE 1995 - CONSTITUCIONALIDADE E LEGALIDADE.
+    1. O artigo 6º da Lei nº 9.249/95 prescreveu que os valores controlados na parte "B" do Livro de Apuração do Lucro Real, existentes em 31 de dezembro de 1995, somente serão corrigidos monetariamente até essa data, observada a legislação então vigente, ainda que venham a ser adicionados, excluídos ou compensados em períodos-base posteriores.
+    2. A correção monetária norteia-se pelo princípio da legalidade estrita, o que significa dizer que a sua incidência depende de previsão legal e somente pode ocorrer dentro dos limites, índices e periodicidade determinados pelo legislador. Se a lei não prevê a correção monetária, não pode o Poder Judiciário ordenar a sua aplicação concreta, sob pena de se transformar em legislador positivo, em ofensa ao princípio da separação de poderes.
+    3. Não há que se falar em violação ao conceito constitucional ou legal de renda (artigos 153, inciso III, e 146, inciso III, da C.F./88, e 110 do C.T.N.). A Carta Magna, como bem frisado pelo magistrado de primeiro grau, não define, em minúcias e de forma exauriente, o conceito de renda ou lucro. Compete ao legislador, segundo parâmetros proporcionais e razoáveis, definir o lucro real e a forma de sua apuração, estipulando, conforme o caso, adições, exclusões e compensações. Logo, não há, em virtude da ausência de correção monetária das demonstrações financeiras, tributação de lucro fictício ou irreal, que não corresponda à renda ou acréscimo patrimonial, porque o lucro contábil decorre obrigatoriamente das adições e exclusões previstas na legislação tributária. Precedentes.
+    4. Igualmente, não resta vulnerado o princípio da isonomia, porquanto a vedação da correção dos balanços aplica-se indistintamente a todas as pessoas jurídicas. Por fim, a ausência de atualização monetária não configura confisco, já que, em períodos de baixa inflação, ela não importa em absorção integral ou desproporcional do fato imponível, e nem há demonstração, no caso concreto, de que isso ocorra relativamente à impetrante.
+    5. Apelação improvida.
+    O Tribunal de origem asseverou não competir ao Judiciário estabelecer normas de atualização da moeda na demonstração financeira de pessoa jurídica, em estrito cumprimento ao princípio da legalidade, pois extinta a correção monetária nas demonstrações financeiras, a partir de 1996, pela Lei nº 9.249/1995.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par disso, o Supremo, ao analisar o recurso extraordinário nº 1.159.714, relator ministro Dias Toffoli, acórdão publicado no Diário da Justiça de 30 de novembro de 2018, assentou a legalidade e a ausência de repercussão geral da discussão alusiva à supressão da correção monetária das demonstrações financeiras pelo artigo 4º da Lei nº 9.249/1995.
+    3. Ressalvada a óptica pessoal, nego seguimento ao recurso.
+    4. Publiquem.
+Brasília, 5 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
