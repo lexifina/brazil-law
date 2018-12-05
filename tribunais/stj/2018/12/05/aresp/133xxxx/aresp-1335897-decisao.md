@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+[NOME] e outros ajuizaram ação de conhecimento em desfavor de Vitta Empreendimentos Imobiliários Ltda. e outra postulando a rescisão do contrato de promessa de compra e venda e a condenação das rés à restituição, em dobro, dos valores pagos, ao pagamento de indenização por danos morais e materiais decorrentes da entrega de imóvel com metragem inferior ao contratualmente previsto.
+O Magistrado de primeiro grau julgou parcialmente procedente o pedido para condenar as requeridas ao pagamento de R$ 103.381,50 (cento e três mil, trezentos e oitenta e um reais e cinquenta centavos), referente a diferença de metragem do imóvel, bem como para obrigar as requeridas a aditarem o contrato, sob pena de multa diária de R$ 1.000,00 (mil reais), limitado a R$ 100.000,00 (cem mil reais).
+Interpostas apelações por ambas as partes, a Terceira Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao apelo das rés e deu provimento à insurgência dos autores para majorar a verba honorária para 10% sobre o valor a ser restituído.
+O acórdão está assim ementado:
+PROCESSO CIVIL. CONSUMIDOR . DIREITO INTERTEMPORAL. RECURSO. REQUISITOS. MARCO. PUBLICAÇÃO DA DECISÃO RECORRIDA. ANTERIOR À VIGÊNICA DA LEI 1 3.105/1 5. REGÊNCIA PELO CPC/73.AGRAVO RETIDO. PRODUÇÃO NOVA PROVA PERICIAL. NÃO CABIMENTO. DESPESAS CONDOMINIAIS. NATUREZA PROPTER REM. RESTITUIÇÃO HONORÁRIOS PERITO ADIANTADOS. ART. 20.CPC. COMISSÃO DE CORRETAGEM. CLAUSULA EXPRESSA. VALIDADE.
+1. A análise do recurso deve considerar, em substância, a lei processual vigente ao tempo em que foi publicada a decisão recorrida.
+2. A Lei 13.105/15 - Novo Código de Processo Civil - não se aplica às decisões publicada anteriormente à data de sua entrada em vigor, ocorrida em 18 de março de 2016.
+3. A prova é dirigida ao juiz, a quem cabe dizer se esta é suficiente ou não. O mero inconformismo com o laudo realizado por expert qualificado e indicado pelo juízo não se mostra como argumento razoável para se deferir nova perícia.
+4. As taxas condominiais possuem natureza de dívidas propter rem. Portanto, sua relação é com o bem, que não se confunde com obrigação pessoal. Dessa forma, é facultado ao condomínio exercer o direito de cobrança das referidas taxas contra o titular do domínio, responsável pelo adimplemento.
+5. Nos casos de promessa de compra e venda jurisprudência consolidou a possibilidade de modulação dos efeitos de natureza propter rem em obrigação condominial. Assim, os adquirentes de tais unidades são responsáveis pelo pagamento dos encargos condominiais, somente após a efetiva posse direta dos imóveis, ou seja, a partir da entrega das chaves.
+6. Cabível a restituição das custas processuais por eles adiantadas para a produção de prova pericial, conforme artigo 20 do CPC.
+7. A questão acerca da legalidade da transferência ac consumidor do pagamento da comissão de corretagem foi decidida pelo Superior Tribunal de Justiça, em sede de julgamento de recurso repetitivo nº 1.599.511/SP e 1.551.956/SP.
+8. Nos termos do REsp 1.599.511/SP, julgado pela sistemática do recurso repetitivo, é válida "a clausula contratual que transfere ao promitente -comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem".
+9. Não há que se falar em ilegalidade do repasse do valo - cobrado pela construtora ou imobiliária referente à intermediação da venda da unidade imobiliária ao consumidor, sendo legítima a cobrança da comissão de corretagem dos adquirentes do imóvel, desde que, prévia e expressamente pactuada.
+10. Agravo retido e recurso do primeiro apelante conhecidos e desprovidos.
+11. Recurso dos apelantes/autores conhecido e parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Os requerentes interpuseram recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 86, parágrafo único, 489, § 1º, e 1.022, I e II, do CPC/2015.
+Sustentaram, em síntese, ter havido negativa de prestação jurisdicional por parte do Tribunal de origem. Aduziram, ainda, a necessidade de redimensionamento dos honorários sucumbenciais.
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de terem sido analisadas todas as questões suscitadas pelas partes e de incidir a Súmula 7/STJ.
+Irresignados, os recorrentes apresentam agravo refutando os óbices apontados pela Corte a quo.
+Brevemente relatado, decido.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido enfrentou, de forma clara e fundamentada, as questões suscitadas pelas partes, notadamente acerca da redistribuição dos ônus sucumbenciais, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Quanto ao mérito, o acórdão recorrido fixou os honorários sucumbenciais em 10% sobre o valor total da restituição, dos quais 60% serão pagos pelos ora recorrentes e 40% pelas ora recorridas.
+Assim, em relação ao redimensionamento dos ônus sucumbenciais, é aplicável o óbice da Súmula 7/STJ, pois a "revisão da distribuição dos ônus sucumbenciais, com o intuito de perquirir eventual sucumbência recíproca dos litigantes, envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto" (AgRg no AREsp n. 438370/PR, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 24/2/2015, DJe 4/3/2015).
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DE 28,86%. ANUÊNIOS. BASE DE CÁLCULO. IMPOSSIBILIDADE. BIS IN IDEM. ÔNUS DA SUCUMBÊNCIA. SUCUMBÊNCIA MÍNIMA. REDISTRIBUIÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..  2. Aferir, no caso, a proporção do decaimento de cada parte de modo a concluir pela ocorrência de sucumbência recíproca ou mínima exigiria nova análise de aspectos fáticos da causa, providência vedada em recurso especial devido ao óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1518515/PR, Rel. Min. Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 05/12/2017)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 1% sobre o valor total da restituição.
+Publique-se.
