@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Paraná que não admitiu recurso especial com base nos seguintes fundamentos: (I) as questões submetidas ao Tribunal de origem foram examinadas, inexistindo ofensa ao art. 1.022 do CPC/2015; (II) a questão referente ao cabimento da reclamação encontra óbice na Súmula 83/STJ; (III) a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 está alinhada com a jurisprudência do STJ; e (IV) ausência de prequestionamento dos arts. 113, 422 e 1.267 do CC e 134, e 257, §§ 3º e 7º, do do CTB.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência da Súmula 83/STJ, pois, em hipóteses como a presente, caberia ao agravante demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes citados na decisão agravada não se aplicariam ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
