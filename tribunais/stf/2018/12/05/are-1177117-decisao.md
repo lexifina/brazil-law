@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO —REPERCUSSÃO GERAL JULGADA — AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 2ª Região confirmou o entendimento do Juízo quanto ao reconhecimento da prescrição quinquenal da pretensão de ressarcimento ao erário. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 37, § 5º, da Constituição Federal. Discorre sobre a imprescritibilidade, aludindo ao decidido no recurso extraordinário nº 669.069.
+    Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. IMPRESCRITIBILIDADE DA AÇÃO DE RESSARCIMENTO AO ERÁRIO. DECISÃO DO STF EM REPERCUSSÃO GERAL. APELO DESPROVIDO. CONDENAÇÃO DA APELANTE EM HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE.
+    1. Trata-se de Apelação Cível interposta pelo CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO - CNPQ objetivando a reforma da sentença que reconheceu a prescrição, julgando procedente o pedido formulado nos embargos e determinando a extinção da execução fiscal.
+    2. A Apelante ajuizou Execução Fiscal em face da Apelada objetivando receber crédito oriundo de sanção imposta à Apelada pela ausência de prestação de contas referente a recursos recebidos para financiamento de projeto de pesquisa do qual era coordenadora.
+    3. A Embargada, ora Apelante, em suas razões recursais, alega que, de acordo com o artigo 37, §5º da CRFB/88, seriam imprescritíveis as ações de ressarcimento ao erário, requerendo que seja afastada a prescrição.
+    4. No presente caso, não se trata de ação de ressarcimento, mas sim de execução de dívida ativa não-tributária.
+    5. Como bem decidido pelo Juízo a quo, "a própria Constituição é clara ao estabelecer que a imprescritibilidade refere-se às “ações” utilizadas para ressarcimento do erário, não sendo possível incluir nesse rol as execuções fiscais."
+    6. Ainda que se entendesse possível à aplicação do § 5º do artigo 37 da CRFB/88 à presente ação, o Plenário do Supremo Tribunal Federal, no julgamento do RE 669.069, pela sistemática da Repercussão Geral, delimitou o alcance da imprescritibilidade das ações de ressarcimento por dano ao erário, tendo decidido que a ação de ressarcimento decorrente de ilícito civil é prescritível.
+    7. Correta a sentença que decretou a prescrição pelo decurso do prazo de mais de cinco anos entre a data da constituição do crédito, 24/11/1998, e o início da execução, que foi ajuizada em 30/04/2012, visto que, após o término do processo administrativo, com a constituição definitiva do débito, a Administração Pública tem o prazo de cinco (05) anos para cobrança do mesmo, conforme artigo 1-A da Lei 9.873/99.
+    8. Quanto ao pedido formulado em contrarrazões no sentido de que a parte Apelante seja condenada em honorários advocatícios recursais, nos termos do artigo 85, § 1º do CPC/2015, há de se observar a orientação do C. Superior Tribunal de Justiça, segundo a qual “na aplicação do direito intertemporal, as novas regras relativas a honorários advocatícios de sucumbência, advindas da edição do CPC de 2015, devem ser aplicadas imediatamente em qualquer grau de jurisdição, sempre que houver julgamento da causa já na vigência do novo Código” (AgInt nos EDcl no REsp 1357561/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/2017, DJe 19/04/2017).
+    2. A decisão recorrida está em consonância com a jurisprudência do Supremo, assentada, sob o ângulo da repercussão geral, no exame do recurso extraordinário nº 669.069, relator ministro Teori Zavascki, Pleno. O acórdão foi assim resumido:
+    CONSTITUCIONAL E CIVIL. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. SENTIDO E ALCANCE DO ART. 37, § 5º, DA CONSTITUIÇÃO. 1. É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil. 2. Recurso extraordinário a que se nega provimento. (recurso extraordinário nº 669.069, relatado no Pleno pelo ministro Teori Zavascki, acórdão publicado no Diário de Justiça de 28 de abril de 2016).
+    Tendo o Colegiado de origem consignado tratar-se de ilícito civil, somente pelo reexame do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Em face do precedente, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
