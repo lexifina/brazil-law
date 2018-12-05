@@ -1,0 +1,37 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. 293,19g DE COCAÍNA. DOSIMETRIA. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. ACÓRDÃO A QUO QUE APLICOU O REDUTOR. PLEITO PELO DECOTE DA CAUSA DE DIMINUIÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Recurso especial não conhecido.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de São Paulo, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local que deu parcial provimento ao recurso defensivo para fixar a pena-base no mínimo legal e para reconhecer a incidência da minorante do art. 33, § 4º da Lei 11.343/06, reduzindo sua reprimenda para 4 anos e 2 meses de reclusão e 416 dias-multa.
+Aponta o recorrente, a existência de divergência jurisprudencial e contrariedade ao art. 33, § 4º, da Lei n. 11.343/2006. Sustenta que é indevida a aplicação da benesse da Lei de Drogas em favor do recorrido, vez que gizados elementos probatórios coligidos aos autos que demonstram que o acusado, de fato, dedicava-se à prática do tráfico ilícito de entorpecentes.
+Assevera que  ..  a quantidade e a forma como estava embalada a cocaína associadas ao fato de que também foram apreendidos na casa utilizada para armazenar, dividir e embalar a cocaína, um liquidificador, uma balança de precisão, talheres com resquícios de drogas, uma chancela e R$ 263,50, em dinheiro, demonstram que o tráfico era exercido de forma profissional, por quem está se dedicando habitualmente a esta atividade (fls. 319/320).
+Defende, ainda, que  ..  a causa especial de diminuição de pena, como já adiantado, não foi prevista para ser aplicada para quem é surpreendido com grande quantidade de drogas para o comércio habitual, mas apenas para aquele que exerce a atividade de forma ocasional (fl. 322).
+Pede, por fim, o decote da minorante prevista no art. 33, § 4º, da Lei de drogas.
+Oferecidas contrarrazões (fls. 368/371), o recurso do Parquet foi admitido na origem (fl. 374).
+O Ministério Público Federal opina pelo não conhecimento do recurso (fl. 385):
+RECURSO ESPECIAL. CRIMINAL. TRÁFICO DE ENTORPECENTES. APLICABILIDADE. DO TRÁFICO PRIVILEGIADO. REGIME INICIAL SEMIABERTO. INADEQUAÇÃO REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. NÃO CONHECIMENTO.
+1. A aplicabilidade do redutor previsto no § 4º do art. 33 da Lei Antidrogas bem como a fixação do regime inicial semiaberto defluíram de minuciosa ponderação do contexto fático probatório, cujo revolvimento é inviável na via especial, conforme óbice da Súmula 7/STJ.
+2. Pelo não conhecimento do recurso.
+É o relatório.
+Em suma, o recorrente pretende que seja afastada a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, uma vez que entende que o réu se dedicava à prática de atividades criminosas.
+Ao aplicar a minorante, o Tribunal teceu os seguintes fundamentos (fls. 282/283 - grifo nosso):
+ ..
+Ausentes agravantes e atenuantes, é cabível, porém, a redução prevista no artigo 33, § 4o, da Lei 11.343/06, negada pelo Juízo de primeiro grau apenas em função dos maus antecedentes, aqui afastados, como já exposto acima. O apelante é primário e, pela documentação constante dos autos, ainda ostenta bons antecedentes, não havendo também prova cabal de que ele se dedicasse a atividades criminosas ou integrasse organização criminosa, embora os depoimentos dos policiais e os diversos petrechos apreendidos tragam indícios nesse sentido. Assim, reduzo as reprimendas em 1/6, sendo impossível maior redução em razão da quantidade de tóxicos apreendida (quase 300g de cocaína). Observo que há, neste ponto, discricionariedade conferida pela Lei ao Juiz, não se tratando de direito subjetivo dos réus. E o Magistrado, na fixação da reprimenda, deve levar em consideração o disposto no artigo 42 do citado Diploma legal. Sendo assim, as penas definitivas de Rogério resultam em 4 anos e 2 meses de reclusão, e pagamento de 416 dias-multa, no valor unitário mínimo legal.
+ ..
+Ora, se o Tribunal de origem entendeu que não há prova efetiva de que o réu se dedicava a atividades criminosas, nem que integrava organização criminosa, para rever tal posicionamento, entendendo, como pretende o recorrente, que o réu estava envolvido em atividades criminosas, demandaria o reexame de matéria fático-probatória, vedada em recurso especial, por força da Súmula 7/STJ.
+Nesse sentido, os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. DOSIMETRIA. MINORANTE DO § 4º DO ART. 33 DA LEI 11.343/06. NÃO DEDICAÇÃO À ATIVIDADE CRIMINOSA RECONHECIDA PELO TRIBUNAL A QUO. REVERSÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A quantidade da droga pode justificar a não incidência da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, quando evidenciada a dedicação à atividade criminosa.
+2. Reconhecido pelo Tribunal de origem o preenchimento dos requisitos legais do art. 33, § 4º, da Lei 11.343/2006, porquanto não comprovada a dedicação do réu à atividade criminosa, a despeito da quantidade de droga apreendida, a reversão das premissas fáticas adotadas no acórdão encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1731542/GO, Ministro Nefi Cordeiro, Sexta Turma, DJe 24/09/2018)
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (22 KG DE MACONHA). VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DE PENA. REQUISITOS ATESTADOS PELO TRIBUNAL DE ORIGEM. AFASTAMENTO. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ.
+1. Não há omissão a ser sanada. Trata-se de mero inconformismo da parte. Objetivam os aclaratórios, na verdade, a rediscussão dos fundamentos do acórdão embargado, finalidade essa imprópria para tal via recursal.
+2. O embargante suscitou, em sede de agravo regimental, que não havia a necessidade do reexame do conteúdo fático-probatório, notadamente em função da quantidade de droga apreendida, o que denotaria a dedicação do embargado a atividades criminosas.
+3. Levando-se em consideração os termos do voto condutor do guerreado acórdão, in verbis: In casu, do exame detido do conjunto probatório produzido, constata-se que o réu/recorrente é primário e não há provas e nem mesmo indícios de que se dedique a atividades criminosas ou faça parte de organização criminosa, impõe-se a manutenção do quantum decidido pelo Tribunal de origem, pois, tendo aquela Corte concluído que o embargado preenchia os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, notadamente pela não participação em organização criminosa, seria inviável entender de modo diverso, dada a necessidade de revisão de elementos fáticos, vedada na via eleita, por força da Súmula 7/STJ.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp n. 1717882/MS, de minha relatoria, Sexta Turma, DJe 25/09/2018)
+Vale destacar, ainda, o entendimento da Sexta Turma desta Corte Superior de Justiça firmado no julgamento do HC n. 343.290/SP, DJe 13/5/2016, no sentido de que a quantidade e a qualidade de drogas, por si sós, não podem impedir a aplicação do redutor do § 4º do art. 33 da Lei de Drogas.
+Portanto, no ponto, o recurso não merece conhecimento, em razão do óbice previsto na Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
