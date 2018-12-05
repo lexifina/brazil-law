@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. 1. PROTESTO INDEVIDO. DANO MORAL CONFIGURADO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULAS 7 E 83/STJ. 2. QUANTUM INDENIZATÓRIO RAZOÁVEL. REVISÃO. SÚMULA 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Sucos do Brasil S.A. contra decisão que negou seguimento ao recurso especial, com fundamento na alínea a do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 330):
+DANO MORAL. PROTESTO INDEVIDO. PROVA. ARBITRAMENTO.
+1. O protesto indevido gera dever de reparar "in re ipsa", não havendo necessidade de comprovação do dano, porque este é presumido. Seja ela pessoa física ou jurídica.
+2. No arbitramento do dano moral, há que se observar as circunstâncias da causa, a capacidade econômica das partes e as finalidades reparatória e pedagógica desse arbitramento. Essa fixação é realizada dentro do prudente arbítrio do juízo. No caso, o arbitramento foi adequado, não comportando redução.
+3. Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 348-350).
+Nas razões do recurso especial, a empresa recorrente alegou violação aos arts. 186, 884, 927 e 944 do CC/2002, sustentando a reforma do acórdão recorrido, uma vez que não praticou nenhum ato capaz de caracterizar sua responsabilidade civil. Para tanto, afirmou que conforme amplamente demonstrado nos autos, "o protesto discutido nesses autos foi empreendido pelo Banco Intermedium, e não pela Sucos do Brasil. Isso por que o Banco Intermedium era o real proprietário da referida cártula, tendo adquirido a propriedade sobre o título através de endosso translativo, passando a ser o único a poder exigir as obrigações referentes ao mesmo, cabendo tão somente a ele o direito de cobrança, de protesto, de apontamento e de recebimento dos créditos respectivos" (e-STJ, fl. 359).
+Além disso, afirmou que deve ser afastada sua condenação por danos morais, uma vez que a recorrida Distripires Comercial Ltda. declarou que não houve nenhum prejuízo decorrente da negativação objeto da demanda.
+Ao final, pugnou pela revisão do quantum fixado a título de danos morais.
+As contrarrazões não foram apresentadas - fl. 376 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de vulneração aos dispositivos tidos por violados, bem como pela incidência da Súmula 7 do STJ.
+Brevemente relatado, decido.
+De fato, esta Corte já firmou entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SUMULA 7/STJ. PROTESTO INDEVIDO DE TÍTULO. DANO MORAL IN RE IPSA. PESSOA JURÍDICA. AGRAVO INTERNO NÃO PROVIDO. 1. No presente caso, constato que a revisão das premissas firmadas pelo Tribunal a quo demandaria reanálise dos fatos discutidos na lide, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso especial por ambas as alíneas. 2. "Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp n. 1.059.663/MS, Relatora Ministra NANCY ANDRIGHI, DJe 17/12/2008).
+3. Agravo interno não provido. (AgInt no AREsp 1.132.603/RO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/2/2018, DJe 5/3/2018)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL "IN RE IPSA". RAZOABILIDADE NA FIXAÇÃO DO "QUANTUM". REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no AREsp 473.343/SP, Relator o Ministro PAULO DE TARSO SANSEVERINO, DJe de 25/9/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ILEGALIDADE DA INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. DANO MORAL IN RE IPSA. SÚMULA N. 83/STJ. REDUÇÃO DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. É entendimento pacífico desta Corte que o dano moral sofrido em virtude de indevida negativação do nome se configura in re ipsa, isto é, prescinde de prova. Incidência da Súmula n. 83/STJ.
+2. A análise da insurgência contra o valor arbitrado a título de indenização por danos morais esbarra na vedação prevista na Súmula n. 7/STJ. Apenas em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a quantia fixada, é possível sua revisão por esta Corte, situação não verificada no caso dos autos.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 521.400/PR, Relator o Ministro ANTONIO CARLOS FERREIRA, DJe de 25/9/2014).
+No caso, o Tribunal de origem, ao manter o que foi decidido pelo Juízo a quo, concluiu que, além de indevido, o protesto realizado pela ora agravante ocasionou prejuízos à parte agravada, conforme se extrai do seguinte trecho do acórdão recorrido (e-STJ, fls. 330-332 - sem grifo no original):
+Ficou apurado nos autos que foi indevido o protesto da duplicata mercantil 063777-1, vencida em 10.5.2016, sacada pela ora apelante no valor de R$ 10.657,50 e negociada com o Banco Intermedium S/A em operação de desconto de títulos.
+Como o protesto foi efetivado e a autora teve que ingressar em juízo para obter a sustação dos seus efeitos nocivos, tem-se por configurados os danos morais.
+Com efeito, o protesto indevido gera dever de indenizar, em razão de dano moral que não necessita de comprovação, uma vez que é inegável o abalo psicológico de pessoa (seja ela física ou jurídica) cumpridora de seus deveres ao ter o nome indevidamente protestado.
+Veja-se que, consoante restou consignado no julgamento do A.I. nº 2022816-49.2017.8.26.0000, que concedeu a tutela de urgência neste processo, a autora não apresentava nenhum apontamento desabonador, que não os quatro providenciados pela apelante. Apesar de ela haver reconhecido a inexigibilidade das cambiais e se comprometido a reabilitar o nome da autora. O que não fez.
+Ora, "O protesto indevido pode gerar danos de ordem econômica ou material por abalo de créditos sujeitos à demonstração; assim como pode gerar danos de ordem moral, que não precisam de comprovação, posto que ligados ao sofrimento que pessoa honesta sente ao encontrar seu nome no cadastro de comerciantes impontuais.." (Apelação nº 76.472-4, 9ª Câmara de Direito Público do Tribunal de Justiça, Relator Ruiter de Oliveira).
+Trata-se, portanto, de dano "in re ipsa". O fato de se tratar de pessoa jurídica não altera esse panorama.
+Aliás, ao reverso do asseverado nas razões recursais, na inicial a autora já mencionou que a restrição estava atrapalhando sua vida comercial, por obstar a obtenção de crédito na praça.
+(..)
+As razões recursais, em suma, não conseguiram abalar os fundamentos da r. sentença reptada.
+Posto isso, nega-se provimento ao recurso.
+No julgamento dos embargos de declaração, o TJSP esclareceu que (e-STJ, fl. 349):
+O colegiado consignou expressamente se aliar ao entendimento no sentido de que o simples protesto indevido gera danos que não necessitam de comprovação, porquanto "in re ipsa".
+Desse modo, para infirmar a conclusão a que chegou o acórdão recorrido, acerca da imprudência da insurgente em relação ao protesto, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+Por fim, em relação ao quantum indenizatório, é certo que o entendimento deste Tribunal é de que o valor estabelecido pelas instâncias ordinárias a título de danos morais somente deve ser revisto nas hipóteses em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade.
+Com efeito, na hipótese, verifica-se que a verba indenizatória fixada em R$ 3.000,00 (três mil reais) não se mostra excessiva e sua revisão demandaria, inevitavelmente, o reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários somente em favor dos advogados da Distripires Comercial Ltda. em 2% sobre o valor da condenação.
+Publique-se.
