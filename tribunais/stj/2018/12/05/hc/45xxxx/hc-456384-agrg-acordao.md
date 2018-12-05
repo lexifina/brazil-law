@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. DECISÃO FUNDAMENTADA. RECURSO INCABÍVEL. INSURGÊNCIA NÃO CONHECIDA.
+1. É assente na jurisprudência deste Tribunal Superior o entendimento de que não é cabível a interposição de agravo regimental contra decisão de Relator que, fundamentadamente, indefere pleito liminar.
+2. Na hipótese, a negativa da medida de urgência requerida foi devidamente fundamentada, não se mostrando cabível, neste momento, a avaliação aprofundada dos temas suscitados pelo agravante, o que será feito quando do julgamento do mérito do writ.
+3. O pleito liminar em sede de habeas corpus e de recurso ordinário em habeas corpus, por se tratar de expediente que não dispõe de previsão legal, deve ser deferido apenas em hipóteses excepcionalíssimas, de flagrante violação ou ameaça ao direito de locomoção do indivíduo, mediante demonstração da plausibilidade jurídica do pedido e do perigo da demora na prestação jurisdicional invocada, ônus do qual não se desincumbiu a defesa.
+4. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por DIRCEU TAVARES FERRÃO contra decisão singular de fls. 103/105 que indeferiu o pedido de liminar formulado no presente habeas corpus.
+Sustenta o agravante a ausência de fundamentação idônea apta a justificar a exasperação da pena-base, tendo em vista que, nos crimes de concussão e de corrupção ativa, a ganância, a cobiça e a intenção de obter lucro fácil, por constituem elementares do delito, não podem ser consideradas para elevar a sanção básica, sob pena de indevido bis in idem.
+Pleiteia a concessão da medida de urgência, para que seja readequada a pena-base imposta ao agravante.
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Inicialmente, tendo em vista que a decisão impugnada foi publicada aos 02.08.2018 (fl. 159), verifica-se a tempestividade da insurgência, pois interposta no dia 07.08.2018 (fl. 168), ou seja, dentro do prazo previsto no artigo 258 do Regimento Interno do Superior Tribunal de Justiça.
+No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+É assente na jurisprudência deste Sodalício o entendimento no sentido de que não é cabível a interposição de agravo regimental contra decisão de relator que, fundamentadamente, indefere pretensão liminar.
+Nesse sentido, vejam-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. NÃO CABIMENTO. SOBRESTAMENTO DO FEITO NA ORIGEM. ANÁLISE DA PRESCRIÇÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Segundo entendimento consolidado neste Superior Tribunal, não cabe agravo regimental contra decisão que, fundamentadamente, defere ou indefere pedido de liminar formulado em habeas corpus.
+2. A decisão ora recorrida apontou elementos concretos dos autos que, em um juízo de cognição sumária, evidenciam a impossibilidade de concessão da medida de urgência, haja vista que o Tribunal a quo afastou, fundamentadamente, a ocorrência da prescrição no caso.
+3. Agravo regimental não provido.
+(AgRg no HC 351.839/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/04/2016, DJe 20/04/2016)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. DECISÃO QUE INDEFERE LIMINAR. RECURSO INCABÍVEL. PRECEDENTES.
+1. É incabível agravo regimental contra decisão que defere ou indefere liminar em habeas corpus. Precedentes.
+2. Agravo regimental não conhecido.
+(AgRg nos EDcl no HC 299.830/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 16/12/2014, DJe 02/02/2015)
+Na hipótese dos autos, consoante destacado no provimento judicial atacado, o pleito sumário foi indeferido em razão da deficiente instrução dos autos pelo impetrante, visto que as cópias trazidas pelo impetrante são de baixíssima qualidade e diversos trechos estão ilegíveis.
+Vê-se, então, que a negativa da liminar requerida foi devidamente fundamentada, não se mostrando cabível, neste momento, a avaliação aprofundada dos temas suscitados pelo agravante, o que será feito quando do julgamento do mérito do writ.
+É de se ressaltar, outrossim, que o pleito liminar em sede de habeas corpus e de recurso ordinário em habeas corpus, por se tratar de expediente que não dispõe de previsão legal, deve ser deferido apenas em hipóteses excepcionalíssimas, de flagrante violação ou ameaça ao direito de locomoção do indivíduo, mediante demonstração da plausibilidade jurídica do pedido e do perigo da demora na prestação jurisdicional invocada, ônus do qual não se desincumbiu a defesa.
+Ante o exposto, não se conhece do agravo regimental.
+É o voto.
