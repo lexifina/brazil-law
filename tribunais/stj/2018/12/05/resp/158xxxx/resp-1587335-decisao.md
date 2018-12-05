@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 15/07/2009, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL. EXECUÇÃO FUNDADA EM TÍTULO JUDICIAL. CÁLCULOS DE LIQUIDAÇÃO. CITADA A DEVEDORA NOS TERMOS DO ART. 730, DO CPC. DECORRIDO PRAZO PARA EMBARGAR. PROFERIDA SENTENÇA HOMOLOGATÓRIA. NULIDADE DO ATO. PRELIMINAR ACOLHIDA. PREJUDICADO O MÉRITO DO RECURSO E A REMESSA OFICIAL.
+1- A Lei nº 8.898/94 deu nova redação ao artigo 604 do Código de Processo Civil, suprimindo a modalidade de liquidação de sentença por cálculo do contador, nas hipóteses em que a determinação do valor da condenação dependa apenas de cálculo aritmético.
+2- Referida modificação proporcionou a imediata execução do título judicial, permitindo ao credor, desde logo iniciá-la, instruindo o seu pedido com a memória discriminada e atualizada do cálculo, especificando os parâmetros adotados, nos termos do artigo 652 do CPC, e, se eventualmente o executado não concordar com os cálculos apresentados pelo credor, terá de impugná-los pela via dos embargos à execução, onde será assegurado o contraditório e a ampla defesa.
+3- Não há que se falar em homologação da conta pelo juiz, pelo que se impõe a nulidade absolutamente ao ato, uma vez que não albergado pela sistemática processual civil.
+4- Tendo em vista que a União Federal (Fazenda Nacional) fora citada nos termos do artigo 730, do CPC, e deixou transcorrer "in albis" o prazo que dispunha para embargar, preclusa qualquer discussão a respeito dos cálculos de liquidação de fls. 59/63, que deverá ser, oportunamente, atualizado e dele dar ciência ao devedor para a formulação de eventual impugnação, dirimindo o Juízo em seguida os conflitos que se apresentarem, e após expedir o precatório.
+5- Preliminar de nulidade acolhida, para anular a r.sentença homologatória, prejudicado o mérito da apelação e a remessa oficial" (fls. 145/146e).
+Embargos de Declaração rejeitados (fls. 157/162e).
+No Recurso Especial, manejado com base na alínea a do permissivo constitucional, invoca-se violação aos arts. 463, I, e 535, II, do CPC/73.
+Sustenta-se, no que ora importa, o seguinte:
+"Conforme se pode conferir da apelação da União Federal, houve erro no cálculo de juros de mora, erro estes que não se encontra precluso, mesmo que a União não tenha oposto embargos à execução proposta pelo credor.
+Com efeito, tendo a sentença que transitou em julgado determinado que os juros de mora, à razão de 1% ao mês, seriam computados a partir do trânsito, que se deu em fevereiro de 1996, até a data em que a conta foi apresentada (em junho de 1997) teria decorrido 16 meses e não 18 como conta da conta.
+Tratando-se de erro material o artigo 463, I do CPC prevê a possibilidade de sua correção, o que não foi considerado pelo v. acórdão de fls., que se omitiu quanto à aplicação do dispositivo da lei processual aplicável à espécie.
+Entretanto, o v. acórdão que apreciou os embargos de declaração da União Federal, entendeu que não havia qualquer vício no "decisum", tendo sido omisso, portanto, quanto à apreciação da matéria de lei federal aplicável.
+Assim sendo, é evidente a omissão do julgado pelo que, requer a União Federal seja decretada a sua nulidade, determinando-se ao E.Tribunal Regional, o exame do art. 463, I, do CPC" (fl. 171e).
+Requer-se, por fim, "a admissão do presente Recurso Especial e, após seu processamento regular, o provimento da pretensão recursal perante o Colendo Superior Tribunal de Justiça de modo a reformar o Acórdão Recorrido, para o fim de que seja corrigido o erro material havido no cálculo dos juros de mora, por ser esta medida da mais lídima JUSTIÇA" (fl. 179e).
+Contrarrazões às fls. 183/184e.
+Recurso Especial admitido (fl. 186e).
+O presente recurso merece prosperar.
+Está devidamente caracterizada a omissão, no acórdão recorrido.
+Dessarte, embora o Tribunal de origem tenha sido instando, inclusive mediante a oposição de Embargos de Declaração, a examinar a alegação de que, uma vez se cuidando, no caso, de suposto erro material, não teria aplicação o instituto da preclusão, de modo que seria possível a retificação do valor da liquidação, mesmo sem a apresentação de impugnação processual tempestiva, pela parte devedora, quedou-se, aquele Sodalício, silente.
+Como o acolhimento da argumentação da ora recorrente - no sentido de que não haveria, no caso, preclusão, dado cuidar-se de erro material - poderia, hipoteticamente, alterar o resultado do julgamento, tem-se que sua análise era de rigor, sob pena de negativa de prestação jurisdicional e violação ao art. 535, II, do CPC/73
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para determinar, ao Tribunal de origem, o rejulgamento dos Embargos de Declaração, com o expresso enfrentamento da questão acerca da ocorrência, ou não, de mero erro material, nos cálculos da conta de liquidação, hábil a afastar, em tese, a incidência do instituto da preclusão.
+I.
