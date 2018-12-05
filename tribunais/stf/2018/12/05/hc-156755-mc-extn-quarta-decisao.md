@@ -1,0 +1,15 @@
+Decisão: Mediante a Petição STF 42.263, de 21.6.2018 (eDOC 172, p. 1-22), o ora requerente, com fundamento nos arts. 102, I, “l”, da Constituição Federal; 988, inciso II, do CPC; e 70 do RI/STF, ajuíza “RECLAMAÇÃO COM PEDIDO LIMINAR contra decisão proferida pela Exma. Magistrada da 35ª Vara Criminal da Comarca da Capital do Rio de Janeiro, Dra. Daniela Prado, eis que, nos autos do processo nº 0054184-68.2018.819.0001, versão estadual da ‘Operação Pão Nosso, a referida Autoridade Reclamada, ao negar pedido de revogação da prisão preventiva ao Reclamante, descumpre decisão libertária, proferida em sede de extensão em Habeas Corpus, pelo Eminente Ministro Gilmar Mendes no âmbito federal da mesma Operação.” (eDOC 172, p. 1).
+    Ao final, requer o seguinte:
+    “a) primeiramente, o conhecimento da presente reclamação, eis que, conforme demonstrado, trata-se da via processual adequada à hipótese;
+    b) em caso de não conhecimento, a recepção da presente inicial como se pedido de extensão nos autos do HC nº 156.755 fosse, com o fim de devolver a liberdade ao Reclamante na versão estadual da ‘Operação Pão Nosso’, ressalvando-se, sempre, a possibilidade de concessão da ordem de ofício;
+    c) considerando o conhecimento da medida ajuizada, o deferimento de medida liminar para revogar a decisão proferida pela Autoridade Reclamada, assim restabelecendo a liberdade a César Rubens Monteiro de Carvalho nos exatos termos do decisum paradigma proferido pelo Eminente Ministro Gilmar Mendes;
+    d) no mérito, seja mantida a medida liminar, eis que o ato ora impugnado contraria frontalmente a decisão do Eminente Ministro Gilmar Mendes nos autos do HC nº 156.755, pois seus fundamentos possuem aplicação obrigatória a toda circunscrição da ‘Operação Pão Nosso’, seja em âmbito federal ou estadual, ante a exposição de mesmo contexto fático.”
+    Recebo a supracitada petição como pedido incidental no presente HC 156.755 MC-Extn-quarta/RJ. Examino-a, pois.
+    Preliminarmente, em consulta ao portal eletrônico do STJ, constato que, posteriormente ao presente pedido, a Sexta Turma do STJ, em 18.10.2018, ao julgar o PEXt no HC 442.954/RJ, DJe 19.11.2018, no qual o ora requerente também é parte (corréu), deferiu “o pedido de extensão para, ratificada a liminar, conceder aos postulantes o direito de aguardar em liberdade o julgamento do Processo n. 0054184-68.2018.8.19.0001, ressalvada a possibilidade de nova decretação da prisão preventiva caso efetivamente demonstrada a superveniência de fatos novos e recentes que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP” (grifos originais).
+    Assim, não mais subsiste interesse jurídico legítimo do peticionário a ser amparado na presente via.
+    Ante o exposto, julgo prejudicado o presente pedido, por perda superveniente do objeto, nos termos do artigo 21, inciso IX, do RI/STF.
+    Publique-se.
+    Brasília, 5 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
