@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 323):
+"EMENTA: SEGURO SAÚDE Cancelamento Notificação - Legalidade - Inexistência de obrigação de restituir despesas médico-hospitalares pagas pelo beneficiário do plano cancelado - Dano moral não caracterizado pela recusa na cobertura do atendimento e pela negativação, diante da existência do débito - Recurso desprovido."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 333-335).
+Em suas razões recursais, [NOME] [NOME] [NOME] aponta ofensa aos artigos 6º, IV, e 51, IV, do Código de Defesa do Consumidor e art. 13, parágrafo único, II, "b", da Lei n. 9.656/98, ao argumento, entre outros, que "(..) as recorridas não notificaram o recorrente acerca do cancelamento do contrato, o que só fora descoberto quando em situação emergencial, devido à necessidade de intervenção cirúrgica em sua esposa(..)". (conforme fl. 344).
+Contrarrazões às fls. 350-361.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, considerando que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplica-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, ao apontar violação aos arts. 6º, IV, e 51, IV, do CDC, bem como ao art. 13, parágrafo único, II, "b", da Lei n. 9.656/98, o recorrente sustenta que a cláusula 9º do contrato do plano de saúde contratado junto aos recorridos é abusiva, porquanto prevê a possibilidade de cancelamento ante a inadimplência por 30 dias, quando o correto seria após 60 dias, bem como o referido segurador procedeu com a rescisão unilateral sem a devida notificação.
+O TJ-SP, por sua vez, soberano na análise do acervo fático-probatório, consignou que o referido art. 13, parágrafo único, II, "b", da Lei n. 9.656/98 somente é aplicável aos planos ou seguros individuais ou familiares, devendo ser aplicada, ao caso, a disposição contratual estabelecida entre as partes, não havendo qualquer ilegalidade na referida cláusula, que foi devidamente cumprida, tendo em vista a notificação enviada ao endereço do recorrente. Confira-se excerto do v. acórdão recorrido (fls. 325-326):
+ "Insurge-se o autor contra o cancelamento de seu seguro saúde coletivo, com a consequente suspensão dos serviços e negativação do prêmio devido.
+ O prêmio não foi debitado em conta corrente no vencimento em 10/12/2012, havendo o autor sido notificado para pagamento por telegrama encaminhado ao mesmo endereço constante da petição inicial (fls. 170), e se presume entregue diante da presunção de eficiência do serviço público, e o contrato cancelado em 09/01/2013, conforme admitido na contestação (fls. 107), portanto, uma vez decorridos 30 dias, conforme previsto na cláusula 19ª, no que não incorreram as rés em qualquer ilegalidade.
+ É assente que: "II - O pacto sob exame refere-se exclusivamente a plano ou seguro de assistência à saúde de contratação coletiva, enquanto que o artigo 13, parágrafo único, II, "b", aponta a nulidade da denúncia unilateral nos planos ou seguros individuais ou familiares" (REsp 889.406/RJ, Rel. Ministro MASSAMI UYEDA, QUARTA TURMA, julgado em 20/11/2007, DJe 17/03/2008).
+ Destarte, independentemente se havia ou não limite de cheque especial disponível para o pagamento do prêmio em 10/12/2012 na conta bancária do autor, o que é uma questão entre ele e sua instituição bancária, que não autorizou o desconto por "insuficiência de saldo" conforme extrato de fls. 42, o que foi confirmado no ofício de fls. 252/253, é certo que o cancelamento do plano foi regular, não havendo que se falar em restabelecimento, até porque incumbia ao consumidor promover o pagamento atrasado, como constou do telegrama, e não ficar aguardando eventual providência da fornecedora.
+ Não está demonstrado que após o desconto do prêmio em 10/01/2013, devido pelo trintídio anterior em que esteve coberto, ocorreu qualquer outro, de maneira que o autor não pode reclamar que não houve o atendimento à sua esposa em 21/05/2013, não sendo devido o ressarcimento das despesas médico-hospitalares que assumiu, não se caracterizando dano moral pela recusa.
+ Não houve ainda ilegalidade na negativação no valor do prêmio efetivamente devido, cujo valor foi depositado às fls. 70, mas nada se pediu na apelação e o destino deve ser dirimido no Juízo de origem." (grifou-se)
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu pela inaplicabilidade do art. 13, parágrafo único, II, "b", por se tratar de plano de saúde coletivo e, por tal motivo, considerou válida a disposição contratual que previa a possibilidade rescisão unilateral após 30 dias da inadimplência, com a devida notificação.
+Sobre o tema, a iterativa jurisprudência desta eg. Corte Superior é no sentido de que é admitida a rescisão unilateral de contrato de plano de saúde na modalidade coletiva, não incidindo a norma prevista no art. 13, parágrafo único, II, "b", da Lei n. 9.656/98, a qual se aplica exclusivamente aos contratos individuais ou familiares. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. POSSIBILIDADE. NÃO INCIDÊNCIA DO ART. 13, II, DA LEI Nº 9.656/98. PRECEDENTES. SÚMULA Nº 83/STJ.
+ ..
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, é possível a rescisão unilateral do contrato coletivo de saúde, não incidindo a norma prevista no artigo 13, II, b, parágrafo único, da Lei nº 9.656/98, a qual se aplica exclusivamente aos contratos individuais ou familiares. Precedentes. Incidência da Súmula nº 83/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 638.928/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2017, DJe 14/12/2017 - grifou-se)
+"DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANOS DE SAÚDE. CONTRATO COLETIVO. RESCISÃO UNILATERAL. POSSIBILIDADE. RESOLUÇÃO NORMATIVA. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. CONDIÇÕES. OBSERVÂNCIA. ABUSIVIDADE. NÃO CONFIGURADA.
+ ..
+5. Apenas em relação aos contratos individuais/familiares é vedada a "suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o qüinquagésimo dia de inadimplência" (art. 13, II, LPS).
+6. Na hipótese dos autos, a operadora de plano de saúde observou as condições para realizar a rescisão unilateral e imotivada do contrato coletivo empresarial, de modo que não há se falar em abusividade em sua conduta.
+7. Recurso especial conhecido e provido."
+(REsp 1680045/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/02/2018, DJe 15/02/2018 - grifou-se)
+ Dessa forma, ao afastar a incidência do art. 13, parágrafo único, II, "b", da Lei n. 9.656/98 dos planos de saúde coletivos ou empresariais, o v. Acórdão estadual encontra-se em consonância com a pacífica jurisprudência desta Corte, de modo a incidir, ao caso, o óbice da Súmula n. 83/STJ.
+Ademais, ainda que superado o referido óbice, a pretensão de analisar a abusividade da cláusula contratual, sob alegada ofensa aos arts. 6º, IV, e 51, IV, do CDC, demandaria o revolvimento do suporte fático-probatório e análise do instrumento contratual, o que é inviável em estreita sede de recurso especial, conforme dispõem as Súmulas de n. 7 e n. 5, ambas do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. CONTRATO DE PLANO DE SAÚDE. COBERTURA PARA CIRURGIA DE REFLUXO.OFENSA AOS ARTS. 535, I, 165 E 458, II, DO CPC. INOCORRÊNCIA. ART. 6º DA LINDB. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. DECISÃO MANTIDA.
+ ..
+4. Para alcançar conclusão diversa daquela a que chegou o Tribunal de origem, seria imprescindível o reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+ ..
+6. Agravo regimental não provido."
+(AgRg no AREsp 731.318/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/10/2018, DJe 15/10/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+ ..
+2. Nesse contexto, alterar as premissas adotadas pelo decisum atacado, no sentido de haver abusividade na negativa de realização do procedimento requerido, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1174176/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor atualizado da causa.
+Publique-se.
