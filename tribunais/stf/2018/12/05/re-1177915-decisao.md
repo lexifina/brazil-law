@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – EXECUÇÃO CRIMINAL EM CURSO – CONDENAÇÃO SUPERVENIENTE – BENEFÍCIOS – DATA-BASE – ALTERAÇÃO – PROVIMENTO.
+    1. O Superior Tribunal de Justiça, concedeu habeas corpus de ofício, por constrangimento ilegal, determinando seja a data-base para início dos benefícios da execução penal, na situação de unificação de penas, a primeira condenação. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta violado o artigo 5º, incisos XXXIX e XLVI, da Constituição Federal. Tece considerações sobre o termo inicial para a concessão de benesses decorrentes da execução, considerada a unificação de penas.
+    2. Os argumentos mencionados pelo recorrente já foram analisados pelo Supremo em outras ocasiões, tendo o Tribunal concluído em sentido contrário ao consignado pelo Colegiado de origem. Confiram com as seguintes ementas:
+    Habeas Corpus. 2. Execução Penal. 3. Condenação superveniente, decorrente de fato cometido antes do início da execução da pena. 4. Fixação de nova data-base para obtenção de benefícios executórios. Possibilidade. Precedentes. 5. Constrangimento não configurado. 6. Ordem denegada. (habeas corpus nº 102.492/RS, relatado pelo ministro Gilmar Mendes na Segunda Turma, publicado no Diário da Justiça de 28 de outubro de 2010.)
+    HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CONDENAÇÃO SUPERVENIENTE. ALTERAÇÃO DA DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. PRECEDENTES. ORDEM DENEGADA. I - A superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base para concessão de benefícios, ainda que o crime tenha sido cometido antes do início de cumprimento da pena. II - A data do trânsito em julgado da nova condenação é o termo inicial de contagem para concessão de benefícios, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas. III - Habeas corpus denegado. (habeas corpus 101.023/RS, relatado pelo ministro Ricardo Lewandowski na Primeira Turma, publicado no Diário da Justiça de 26 de março de 2010.)
+    3. Ante o quadro, conheço e provejo o extraordinário para, reformando o acórdão recorrido, estabelecer como data-base o trânsito em julgado da última condenação.
+    4. Publiquem.
+Brasília, 5 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
