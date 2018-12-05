@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, instaurado por PVC BRAZIL INDÚSTRIA DE TUBOS E CONEXÕES S.A. - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da Vara Cível de Ibiporã-PR, onde tramita a recuperação judicial da suscitante (n.º 0000043-78.2016.8.16.0090), e o r. Juízo da 3.ª Vara do Trabalho de Londrina-PR, que processa a Reclamação Trabalhista n.º 0000190-14.2017.5.09.0673, movida por [NOME] em desfavor da recuperanda.
+Afirma que formulou pedido de recuperação judicial, o qual foi deferido pelo Juízo de Direito da Vara Cível de Ibiporã-PR, em 15/01/2016. Todavia, sustenta que "(..) nos dias 23 de julho de 2018, a Excelentíssima Dra. [NOME] 03ª Vara do Trabalho de Londrina/PR, nos Autos de Reclamação Trabalhista n.º 0000338-88.2015.5.09.0513, ajuizada por [NOME], ordenou a "penhora on line de numerário" (1º na ordem de preferência) em contas e/ou aplicações em instituições financeiras em nome da executada PVC BRAZIL INDÚSTRIA DE TUBOS E CONEXÕES S/A, utilizando-se do convênio BACEN-JUD firmado com o TST, no montante de R$ 11.694,07 (onze mil e seiscentos e noventa e quatro reais e sete centavos) - conforme anexos", invandindo, assim a competência do juízo do soerguimento, nos termos dos arts. 6.º e 66 da Lei n.º 11.101/2005.
+Requer o deferimento da liminar para que seja fixada a competência do Juízo de Direito da Vara Cível de Ibiporã-PR, juízo da recuperação, para resolver as medidas urgentes relacionadas à reclamação trabalhista já mencionada. No mérito, requer a confirmação da liminar.
+O pedido de liminar foi parcialmente deferido para sobrestar quaisquer determinações constritivas/expropriatórias que, nos autos da Reclamatória Trabalhista n.º 0000338-88.2015.5.09.0513, em curso perante o Juízo da 3.ª Vara do Trabalho de Londrina-PR, afetem o patrimônio da suscitante, bem como para designar o Juízo de Direito da Vara Cível de Ibiporã-PR como competente para resolver, em caráter provisório, eventuais medidas urgentes, até ulterior deliberação deste relator (fls. 101-104).
+Prestadas as informações (fls. 127-139), o Ministério Público Federal ofereceu parecer, pugnando pelo conhecimento do conflito e declaração da competência do Juízo recuperacional (fls. 141-144).
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência desta Corte Superior para o conhecimento e processamento do presente conflito, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. Em incidentes similares, envolvendo, de um lado, o Juízo da Recuperação Judicial e, de outro, o Juízo Trabalhista, no qual tramita demanda individual em fase de cumprimento de sentença contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para controlar os atos de constrição e expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Em regra, uma vez iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o precitado prazo de 180 dias de suspensão (art. 6º, § 4º, da Lei 11.101/2005).
+A propósito, vale conferir os seguintes julgados:
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO.
+COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, ainda que o crédito seja anterior ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação. Precedentes do STJ.
+3. Competência do Juízo de Direito da 1.ª Vara Cível de Santa Helena de Goiás/GO, para o prosseguimentos de execuções trabalhistas.
+4. Agravo interno desprovido.
+(AgInt no CC 148.536/GO, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 15/03/2017, grifado).
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS CONSTRITIVAS IMPOSTAS AO PATRIMÔNIO DA RECUPERANDA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL, INDEPENDENTEMENTE DO DECURSO DO PRAZO DE 180 (CENTO E OITENTA) DIAS PREVISTO NO ART. 6º, § 4º, DA LEI N. 11.101/05. ART. 49, § 3º, DA LEI N. 11.101/2005. BENS ESSENCIAIS ÀS ATIVIDADES ECONÔMICO-PRODUTIVAS. PERMANÊNCIA COM A EMPRESA RECUPERANDA.
+COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+1. A despeito de o art. 6º, § 4º, da Lei n. 11.101/05 assegurar o direito de os credores prosseguirem com seus pleitos individuais passado o prazo de 180 (cento e oitenta) dias da data em que deferido o processamento da recuperação judicial, a jurisprudência desta Corte tem mitigado sua aplicação, tendo em vista tal determinação se mostrar de difícil conciliação com o escopo maior de implementação do plano de recuperação da empresa. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no CC 143.802/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/04/2016, DJe 19/04/2016, grifado)
+.
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS. APRECIAÇÃO DO CARÁTER EXTRACONCURSAL DE CRÉDITOS. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. RETOMADA DAS EXECUÇÕES INDIVIDUAIS. AUSÊNCIA DE RAZOABILIDADE. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Compete ao Juízo da recuperação judicial tomar todas as medidas de constrição e de venda de bens integrantes do patrimônio da empresa sujeitos ao plano de recuperação judicial, uma vez aprovado o referido plano; cabendo-lhe, ainda, a constatação do caráter extraconcursal de crédito discutido nos autos de ação de execução.
+2. No normal estágio da recuperação judicial, não é razoável a retomada das execuções individuais após o simples decurso do prazo legal de 180 dias de que trata o art. 6º, § 4º, da Lei n.
+11.101/2005.
+3. Agravo regimental desprovido.
+(AgRg no CC 141.719/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 27/04/2016, DJe 02/05/2016, grifado)
+Ademais, vale registrar, a orientação jurisprudencial mais recente, firmada no âmbito da Segunda Seção, é no sentido de que, mesmo em relação aos créditos extraconcursais, cabe ao Juízo que a preside o controle dos atos de constrição patrimonial.
+Nesse sentido, confiram-se:
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+(..)
+2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts. 83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC.
+(CC 145.027/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 31/08/2016, grifado)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+(..)
+2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+(..)
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/05/2017, DJe 31/05/2017)
+Em outras palavras, "os atos de alienação ou de constrição que comprometam o cumprimento do plano de reorganização da empresa somente serão efetivados após a anuência do Juízo da recuperação judicial, tendo em vista o objetivo maior da Lei n. 11.101/2005, que é o da preservação da empresa, da sua função social e do estímulo à atividade econômica" (CC nº 153.627/PE, Rel. Min. Maria Isabel Gallotti, DJe de 17/08/2017, grifado).
+3. Do exposto, com amparo na jurisprudência acima colacionada e no parecer ministerial, conhece-se do presente conflito e, confirmando a liminar, declara-se a competência do Juízo de Direito da Vara Cível de Ibiporã-PR, onde se processa a recuperação judicial da suscitante, para decidir acerca da efetivação de atos constritivos/expropriatórios que afetem o patrimônio da mesma em decorrência da Reclamação Trabalhista n.º 0000338-88.2015.5.09.0513 (Juízo da 3.ª Vara do Trabalho de Londrina-PR), movida por [NOME] contra a suscitante, bem como para decidir acerca dos pedidos de restituição ou levantamento de bens/valores eventualmente já bloqueados nos respectivos autos.
+Publique-se. Intimem-se. Oficiem-se.
