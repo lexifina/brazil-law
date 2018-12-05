@@ -1,0 +1,5 @@
+DECISÃO
+HERONIEDSON ALLAN FAUSTINO MALTA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de Pernambuco no HC n. 0000450-02.2017.8.17.0000.
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que, em 28/3/2018, foi realizada sessão do Tribunal do Júri (Processo n. 0005678-70.2017.8.17.0480, em trâmite perante a Comarca de Caruaru - PE, em decorrência do desaforamento da Comarca de Inajá - PE, Processo n. 0000429-10.2011.8.17.0720). Na oportunidade, o paciente foi condenado à pena de 21 anos de reclusão, em regime inicial fechado, como incurso nos arts. 121, § 2º, IV, e 288 do Código Penal, negado o direito de recorrer em liberdade. Evidencia-se, dessa forma, a prejudicialidade do pedido aqui formulado - revogação da prisão preventiva por ausência de motivação idônea e pelo excesso de prazo para o encerramento do feito.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
