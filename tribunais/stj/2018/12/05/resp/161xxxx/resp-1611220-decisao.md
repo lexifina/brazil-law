@@ -1,0 +1,23 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/1993. ABSOLUTAMENTE INCAPAZ. NÃO INCIDÊNCIA DE PRESCRIÇÃO. RECURSO ESPECIAL DO SEGURADO A QUE SE DÁ PROVIMENTO PARA RESTAURAR A SENTENÇA NO TOCANTE AO TERMO INICIAL.
+1. Trata-se Recurso Especial interposto por [NOME], com base na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 5a. Região, assim ementado:
+PREVIDENCIÁRIO. RESTABELECIMENTO DE AMPARO SOCIAL. PEDIDO FORMULADO ADMINISTRATIVAMENTE. PRESCRIÇÃO. OCORRÊNCIA. NOVO PEDIDO NA VIA JUDICIAL. CONFIGURAÇÃO DA LIDE. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS AO DEFERIMENTO DO BENEFÍCIO. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS.
+Considerando que entre a data da cessação do benefício na via administrativa (01.08.1998) e o ajuizamento do feito (26.06.2013), passaram-se mais de 05 (cinco) anos, é de se reconhecer prescrito o direito de requerer na via judicial o benefício com base naquele pedido formulado na via administrativa.
+Irrelevância da menoridade do autor, ao tempo do indeferimento do benefício na órbita administrativa, seja porque antes do ajuizamento desta ação transcorreram mais de cinco anos, contados da aquisição da maioridade, seja porque a situação fática de 1998 já não é sindicável, dado o tempo decorrido.
+Apresentado novo pedido de amparo social, ainda que apenas na via judicial e tendo o INSS, em sua defesa (contestação) resistido à pretensão autoral, não há falar em falta de interesse de agir.
+Restou demonstrado, através de perícia judicial, ser o autor portador de retardo mental grave (CID 10 F72.1), desde o nascimento (28.02.1982), que o incapacita total e permanentemente para o exercício de qualquer atividade laborativa e para os atos da vida independente.
+Constatando-se que o núcleo familiar do requerente é composto por ele e sua genitora, que sobrevivem com renda decorrente de percepção de aposentadoria por aquela última (maior de 65 anos de idade) equivalente a um salário mínimo, atendido está o requisito da miserabilidade.
+Sobre as parcelas devidas (que, no caso, são a partir do ajuizamento da ação) aplica-se o Manual de Cálculos da Justiça Federal como critério de atualização, a contar do débito e juros de mora de 0,5% ao mês, a partir citação.
+Não se conhece da apelação na parte que se ocupa de tema decidido de maneira favorável ao recorrente (honorários advocatícios, nos termos da Súmula 111, STJ). Ausência de interesse para o manejo do apelo neste aspecto.
+Apelação parcialmente conhecida e, nesta parte, desprovida e remessa oficial parcialmente provida.
+2. Embargos de Declaração opostos pelo recorrente, foram rejeitados.
+3. Em seu Apelo Nobre, sustenta o recorrente violação aos arts. 79 e 103 da Lei 8.213/1991; 198 e 208 do CC, sustenta em síntese que não corre prescrição contra absolutamente incapaz.
+4. É o relatório.
+6. Nos termos do art. 79 da Lei 8.213/1991, não se aplica o prazo decadencial e prescricional previsto no art. 103 da Lei 8.213/1991 ao pensionista menor, incapaz ou ausente, na forma da lei. Por sua vez, conforme os arts. 198, I e 208 do Código Civil, não corre a prescrição contra os absolutamente incapazes.
+7. Na hipótese o Tribunal de origem consignou que recorrente é incapaz desde o nascimento, transcrevo:
+Compulsando-se os autos, restou constatado, através de laudo médico pericial (fls. 239/241), que o demandante é portador de retardo mental grave (CID 10 F72.1), desde o nascimento (28.02.1982), que o incapacita totalmente e permanentemente para o exercício de qualquer atividade laborativa e para os atos da vida (fls. 493)
+8. Contudo, a Corte regional reformou a sentença e reconheceu a prescrição do direito de requerer na via judicial o restabelecimento do benefício de amparo social com base no pedido formulado na via administrativa, e alterou o termo inicial do benefício.
+9. Verifica-se, assim, que o entendimento do acórdão recorrido a respeito da controvérsia está em dissonância com a atual jurisprudência do STJ, pois não corre a prescrição contra absolutamente incapaz, nos casos de concessão de benefício previdenciário. REsp 1.656.825. Ministro Benedito Gonçalves. Data da Publicação 15/9/2017; REsp 1.257.059/RS. Ministro Mauro Campbell Marques. segunda turma. DJe 8/5/2012; REsp 1.513.977/CE, Rel. Min. Herman Benjamim, Segunda Turma, DJe 05/08/2015 e REsp 1.626.354. Ministro Sérgio Kukina. Data da publicação: 23/11/2016.
+10. Ante o exposto, dá-se provimento ao Recurso Especial do Segurado para restaurar a sentença no tocante ao termo inicial do benefício assistencial.
+11. Publique-se.
+12. Intimações necessárias.
