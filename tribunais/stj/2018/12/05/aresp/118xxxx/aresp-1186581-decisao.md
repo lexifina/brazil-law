@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto pelo ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD, contra decisão que não admitiu recurso especial (fls. 667/669, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 595, e-STJ):
+ECAD - COBRANÇA DE DIREITOS AUTORAIS EM RAZÃO DE UTILIZAÇÃO DE OBRAS MUSICAIS EM EVENTOS PROMOVIDOS PELA MUNICIPALIDADE - ADMISSIBILIDADE - LEI 9.610/98 - IRRELEVÂNCIA DE SE TRATAR OU NÃO DE ENTIDADE SEM FINS LUCRATIVOS - DIREITOS AUTORAIS INCIDENTES - VALORES COBRADOS PELO ECAD FIXADOS PELA PRÓPRIA INSTITUIÇÃO EM FACE DA NATUREZA PRIVADA DOS DIREITOS RECLAMADOS - PROVAS INSUFICIENTES PARA ESTRIBAR ÉDITO DE ACATAMENTO INTEGRAL DA PRETENSÃO - SENTENÇA CONFIRMADA - RECURSOS DESPROVIDOS.
+Opostos embargos de declaração, foram rejeitados (fls. 615/618, e-STJ).
+Na origem, a demanda versa sobre ação de cobrança por violação de direitos autorais. O Juízo de primeira instância julgou parcialmente procedentes os pedidos. O Tribunal local negou provimento ao reclamo.
+Em suas razões de recurso especial, o recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 535, I e II, do CPC/73, 110, da Lei 9.610/98 (fls. 621/629, e-STJ). Sustenta, em síntese, que deve ser reconhecida a negativa de prestação jurisdicional, bem como a responsabilidade solidária do recorrido.
+Não houve apresentação de contrarrazões (fl. 666, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve negativa de prestação jurisdicional; ii) não foi demonstrada a violação do dispositivo legal citado e, por fim; (ii) ausência de similitude fática.
+Daí o presente agravo (art. 1.042 do CPC/15), no qual o agravante lança argumentos a fim de combater os retrocitados óbices.
+Contraminuta (fls. 691/695, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Quanto à apontada violação do artigo 535, do CPC/73 (fls. 621/639, e-STJ), não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Destaque-se, por oportuno, que a matéria apontada como omitida - responsabilidade do recorrido - foi objeto de debate pela Corte local, consoante denotam os seguintes excertos do acórdão recorrido (fls. 597/598, e-STJ):
+" ..  Por outro lado, o Autor não comprovou que os shows realizados no XII Rodeio de Cotia foram contratados pela Prefeitura de Cotia, mostrando-se insuficientes o panfleto de fls. 62/63 e os documentos de fls. 72/80, na medida em que ter o evento o apoio da Prefeitura não significa que os shows tenham sido contratados por ela. De aí que a procedência de um feito não pode estar embasada no solo movediço do possível ou do provável, senão no terreno firme da certeza; as provas são insuficientes para estribar édito de acatamento integral à pretensão. .. "
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao 535 do CPC/73, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+A propósito:
+DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. AUSÊNCIA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E PREMISSA FÁTICO-PROBATÓRIA. CONCLUSÕES DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE.
+1. O entendimento desta Corte é pacífico no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Precedentes.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 74.629/ES, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+3. Na questão em análise, o tribunal de origem, com base nas provas dos autos, não reconheceu a responsabilidade do recorrido.
+É, aliás, o que se extrai do seguinte excerto do acórdão hostilizado (fls. 597/598, e-STJ):
+" ..  Por outro lado, o Autor não comprovou que os shows realizados no XII Rodeio de Cotia foram contratados pela Prefeitura de Cotia, mostrando-se insuficientes o panfleto de fls. 62/63 e os documentos de fls. 72/80, na medida em que ter o evento o apoio da Prefeitura não significa que os shows tenham sido contratados por ela. De aí que a procedência de um feito não pode estar embasada no solo movediço do possível ou do provável, senão no terreno firme da certeza; as provas são insuficientes para estribar édito de acatamento integral à pretensão. .. "
+Assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO AUTORAL. DANO MORAL.AUSÊNCIA DE COMPROVAÇÃO DE OFENSA À IMAGEM. SÚMULA 7 DO STJ. DANO MORAL IN RE IPSA. AUSÊNCIA DE PREQUESTIONAMENTO. EXECUÇÃO DE OBRA LÍTERO-MUSICAL. MULTA DO ART. 109 DA LEI Nº 9.610/98. AUSÊNCIA DE APURAÇÃO DA MÁ-FÉ E DA INTENÇÃO ILÍCITA DE USURPAR DIREITOS AUTORAIS. EXCLUSÃO DA MULTA.
+1. A Corte de origem asseverou que a simples exposição pública da obra, por si só, não autoriza a indenização por danos morais, máxime quando não se comprovar a ocorrência de eventuais danos causados à imagem dos autores.
+2. No caso em epígrafe, o acolhimento da pretensão recursal, no sentido de reconhecer a comprovação de ofensa à honra, em virtude de violação ao direito autoral, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Por outro lado, a específica tese de dano moral in re ipsa não foi enfrentada pela instância a quo, e a recorrente não opôs embargos de declaração quanto ao ponto, situação que impede a apreciação da matéria, em virtude da ausência de prequestionamento, com a incidência das Súmulas 282 e 356 do STF.
+4. A multa prevista no art. 109 da Lei n. 9.610/1998, equivalente a vinte vezes o valor que deveria ser originariamente pago, não deve ser aplicada ao caso concreto, pois, para a devida incidência, deve ser apurada a existência de má-fé e de intenção ilícita de usurpar os direitos autorais, situação que não ficou cristalizada no acórdão recorrido.
+5. Agravo interno não provido.
+(AgInt no REsp 1315628/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/08/2017, DJe 04/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 458, 515, §1º, 535 DO CPC/73 E DISSÍDIO JURISPRUDENCIAL. ALEGADA OMISSÃO E FALTA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. INSCRIÇÃO EM CADASTROS DE INADIMPLENTES E DANOS MORAIS. DÍVIDA EXISTENTE. SÚMULA 7 DO STJ.
+1. Embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. A convicção formada pela Corte local quanto à manutenção da improcedência do pedido autoral decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp 895.197/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/06/2016, DJe 16/06/2016)
+4. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+ADMINISTRATIVO. SERVIÇO DE FORNECIMENTO DE ÁGUA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. DIVERGÊNCIA JURISPRUDENCIAL. OCORRÊNCIA DE DANO MORAL REPARÁVEL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Rever entendimento do Tribunal de origem que, com base nos elementos de convicção do autos, afasta a ocorrência de dano moral reparável demanda o revolvimento do arcabouço probatório dos autos, inviável em recurso especial, dado o óbice da Súmula 7 desta Corte.
+2. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+(AgRg no Ag 1.160.541/RJ, Rel. Min. Humberto Martins, 2ª Turma, 25.10.2011)
+5. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
