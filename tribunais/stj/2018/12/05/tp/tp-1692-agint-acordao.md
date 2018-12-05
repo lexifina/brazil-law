@@ -1,0 +1,64 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL CUMULADA COM MANUTENÇÃO NA POSSE. EFEITO SUSPENSIVO A RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O PERIGO DA DEMORA E A FUMAÇA DO BOM DIREITO. AUSÊNCIA DO PERIGO DA DEMORA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Cuida-se, na origem, de ação declaratória de nulidade de contrato de mútuo com alienação fiduciária de bem imóvel em garantia, c/c pedido de manutenção na posse.
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial; para tanto, porém, é necessária a demonstração do perigo da demora e a caracterização da fumaça do bom direito.
+3. A ausência da fumaça do bom direito basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica da perigo da demora, que deve se fazer presente cumulativamente.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por [NOME] e MÁRCIA APARECIDA CAMILO [NOME], contra a decisão unipessoal que indeferiu o pedido de tutela provisória que formularam, com vistas à atribuição de efeito suspensivo a recurso especial inadmitido na origem.
+Ação: declaratória de nulidade de contrato de mútuo com alienação fiduciária de bem imóvel em garantia, c/c pedido de manutenção na posse, ajuizada pelos agravantes em face da CAIXA ECONÔMICA FEDERAL.
+Decisão interlocutória: indeferiu o pedido liminar formulado pelos agravantes para que fosse suspenso o procedimento expropriatório do imóvel.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa (e-STJ fls. 21/22):
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. EMPRÉSTIMO CONTRAÍDO DOM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA PARA COBRIR DESPESAS DE PESSOA JURÍDICA. POSSIBILIDADE NA ESPÉCIE. ART. 3º, V, DA LEI N. 8009/90. [NOME]. AGRAVO DE INSTRUMENTO IMPROVIDO.
+I - A impenhorabilidade do bem de família "é oponível em qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, salvo se movido: (..) V - para execução de hipoteca sobre o imóvel oferecido como garantia real pelo casal ou pela entidade familiar" (art. 3º da Lei 8.009/90);
+II - A jurisprudência conclui que tal exceção só tem incidência quando a garantia é prestada em benefício da entidade familiar, não servindo para assegurar empréstimo obtido por terceiro.
+III - Todavia, o empréstimo beneficia pessoa jurídica constituída exclusivamente por membros da entidade familiar, é possível reconhecer a incidência da exceção prevista no inciso V do art. 3º da Lei nº 8.009/90. Precedentes.
+IV - Agravo não provido".
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: foi interposto pelos ora agravantes e fundamentado nas alíneas "a" e "c" do permissivo constitucional. Além de divergência jurisprudencial, alegaram violação aos arts. 1º e 3º da Lei 8009/90. Sustentaram, em síntese, que o imóvel alienado fiduciariamente à agravada é o único que possuem e lhes serve de moradia, o que o caracteriza como bem de família. Afirmam que "a Corte Regional decidiu de forma simplista e com base em uma mera presunção de que os avalistas, por serem sócios da pessoa jurídica beneficiada foram de alguma forma beneficiados pela dívida contraída pela pessoa jurídica" (e-STJ fl. 44).
+Decisão de admissibilidade: o TJ/SP inadmitiu o recurso especial, com fundamento na ausência de comprovação da divergência jurisprudencial e incidência da Súmula 83 do STJ.
+Pedido de tutela provisória: requereram a atribuição de efeito suspensivo ao recurso especial, sustentando que, além da probabilidade de êxito no mérito do recurso especial, existe risco de dano irreparável, pois, na origem, foram informados pela agravada que o imóvel seria levado a leilão extrajudicial nos dias 11/09/2018 e 25/09/2018.
+Decisão unipessoal: indeferiu o pedido de tutela provisória, nos termos da seguinte ementa (e-STJ fl. 106):
+"PROCESSO CIVIL. PEDIDO DE TUTELA PROVISÓRIA. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL CUMULADA COM MANUTENÇÃO NA POSSE. EFEITO SUSPENSIVO A RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O PERIGO DA DEMORA E A FUMAÇA DO BOM DIREITO. AUSÊNCIA DO PERIGO DA DEMORA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Ação declaratória de nulidade de contrato de alienação fiduciária de bem imóvel cumulada com manutenção na posse, com pedido de tutela provisória de urgência.
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial; para tanto, porém, é necessária a demonstração do perigo da demora e a caracterização da fumaça do bom direito.
+3. A ausência da fumaça do bom direito basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica da perigo da demora, que deve se fazer presente cumulativamente.
+4. Não demonstrada a fumaça do bom direito, suficiente para inviabilizar o deferimento de cassação do efeito suspensivo, desnecessária torna-se a análise do requerimento sob a ótica do perigo da demora.
+5. Tutela provisória indeferida".
+Agravo interno: nas razões do presente recurso, os agravantes reiteram a necessidade de concessão de efeito suspensivo ao recurso especial, a fim de evitar a consolidação da propriedade do imóvel nas mãos do credor.
+Asseveram que o contrato firmado com a agravada é eivado de simulação, pois não se trata de aquisição de imóvel com recursos da instituição financeira, mas sim de mútuo para capital de giro para a pessoa jurídica formada pelos agravantes.
+Afirmam que a hipótese não se subsume à exceção à regra de impenhorabilidade contida no art. 3º, V, da Lei 8.009/90, não havendo, tampouco, provas no sentido de que o montante tenha revertido em favor da entidade familiar.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL CUMULADA COM MANUTENÇÃO NA POSSE. EFEITO SUSPENSIVO A RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O PERIGO DA DEMORA E A FUMAÇA DO BOM DIREITO. AUSÊNCIA DO PERIGO DA DEMORA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Cuida-se, na origem, de ação declaratória de nulidade de contrato de mútuo com alienação fiduciária de bem imóvel em garantia, c/c pedido de manutenção na posse.
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial; para tanto, porém, é necessária a demonstração do perigo da demora e a caracterização da fumaça do bom direito.
+3. A ausência da fumaça do bom direito basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica da perigo da demora, que deve se fazer presente cumulativamente.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada indeferiu o pedido de tutela provisória com base nos seguintes fundamentos (e-STJ fls. 108/110):"
+"Inicialmente, faz-se mister destacar que, em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial inadmitido na origem; para tanto, porém, é necessária a demonstração do perigo da demora, que se traduz na urgência da prestação jurisdicional e, cumulativamente, a caracterização da fumaça do bom direito, consistente na plausibilidade do direito alegado.
+Por se tratar de atribuição de efeito suspensivo a recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual da requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, os requerentes aduzem estarem presentes os requisitos para a concessão do efeito suspensivo ao seu agravo em recurso especial, pois "mais que um mero risco de dano grave e de difícil reparação, haverá a prática de dano irreparável em (seu) desvafor (..), que serão expropriados de sua residência e bem de família, sem que os Embargos tenham sido definitivamente julgados em sede de recurso especial" (e-STJ fl. 16).
+Vê-se, todavia, ao menos em tese, com base em juízo perfunctório, que os argumentos dos requerentes não evidenciam a probabilidade de êxito em seu agravo em recurso especial.
+De fato, em exame superficial, típico das medidas cautelares, observa-se que o desprovimento do seu agravo de instrumento, atacado pelo recurso especial que aguarda julgamento, se baseou no fato de que a espécie configura a incidência da exceção prevista no inciso V do art. 3º da Lei 8.009/90, ou seja, quando a dívida é contraída em benefício da pessoa jurídica constituída pelos membros da entidade familiar (e-STJ fl. 24).
+Nesse contexto, destaca-se o posicionamento da 2ª Seção do STJ:
+PROCESSUAL CIVIL. DIREITO CIVIL. EMBARGOS DE DIVERGÊNCIA. BEM DE FAMÍLIA OFERECIDO EM GARANTIA HIPOTECÁRIA PELOS ÚNICOS SÓCIOS DA PESSOA JURÍDICA DEVEDORA. IMPENHORABILIDADE. EXCEÇÃO. ÔNUS DA PROVA. PROPRIETÁRIOS.
+1. O art. 1º da Lei n. 8.009/1990 instituiu a impenhorabilidade do bem de família, haja vista se tratar de instrumento de tutela do direito fundamental à moradia da família e, portanto, indispensável à composição de um mínimo existencial para uma vida digna, ao passo que o art. 3º, inciso V, desse diploma estabelece, como exceção à regra geral, a penhorabilidade do imóvel que tiver sido oferecido como garantia real pelo casal ou pela entidade familiar.
+2. No ponto, a jurisprudência desta Casa se sedimentou, em síntese, no seguinte sentido: a) o bem de família é impenhorável, quando for dado em garantia real de dívida por um dos sócios da pessoa jurídica devedora, cabendo ao credor o ônus da prova de que o proveito se reverteu à entidade familiar; e b) o bem de família é penhorável, quando os únicos sócios da empresa devedora são os titulares do imóvel hipotecado, sendo ônus dos proprietários a demonstração de que a família não se beneficiou dos valores auferidos.
+3. No caso, os únicos sócios da empresa executada são os proprietários do imóvel dado em garantia, não havendo se falar em impenhorabilidade.
+4. Embargos de divergência não providos. (EAREsp 848498/PR, 2ª Seção, DJe de 07/06/2018)
+Desse modo, não fica caracterizado a fumaça do bom direito.
+Com efeito, não foi indicada qualquer ilegalidade ou teratologia no acórdão que julgou o agravo de instrumento dos requerentes.
+Assim, não demonstrada a fumaça do bom direito, suficiente para inviabilizar o deferimento do pedido de efeito suspensivo, desnecessária se torna a análise do requerimento sob a ótica da urgência da prestação jurisdicional".
+Pela análise das razões recursais apresentadas, verifica-se que os agravantes não trouxeram qualquer argumento novo apto a modificar as conclusões da decisão agravada.
+Com efeito, ainda que se possa cogitar, na espécie, de possível periculum in mora, ante a iminência do leilão extrajudicial, não se vislumbra a presença do fumus bonis iuris, consistente na probabilidade de êxito recursal.
+Isso porque, ao menos numa análise inicial - típica das medidas cautelares -, verifica-se que a pretensão recursal vai de encontro à jurisprudência sedimentada deste Superior Tribunal de Justiça, no sentido de que o bem de família é penhorável quando os únicos sócios da empresa devedora são os titulares do imóvel dado em garantia real, sendo ônus dos proprietários a demonstração de que a família não se beneficiou dos valores auferidos (EAREsp 848.498/PR, 2ª Seção, Dje de 07/06/2018).
+E, na espécie, consoante se extrai do acórdão recorrido, a pessoa jurídica é constituída exclusivamente por membros da entidade familiar, razão pela qual caberia a estes comprovar que os valores decorrentes do contrato de mútuo celebrado não reverteu em benefício da família. Todavia, não há no recurso especial uma linha sequer nesse sentido, limitando-se os agravantes a trazerem argumentos genéricos quanto à impenhorabilidade do bem que serve de moradia familiar.
+Assim, não caracterizada a fumaça do bom direito, mostra-se inadmissível a concessão do pretendido efeito suspensivo.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
