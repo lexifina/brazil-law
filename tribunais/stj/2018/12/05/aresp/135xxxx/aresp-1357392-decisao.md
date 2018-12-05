@@ -1,0 +1,8 @@
+DECISÃO
+JORGE TADEU LEAL DE CARVALHO agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 9000122-40.2017.8.26.0590).
+De início, registro que, em consulta processual realizada na página eletrônica desta Corte Superior, verifiquei a anterior impetração do HC n. 453.525/SP, em que figura como paciente JORGE TADEU LEAL DE CARVALHO que se volta, em tal writ, contra o mesmo ato aqui impugnado (acórdão prolatado no Agravo em Execução n. 9000122-40.2017.8.26.0590) e possui objeto idêntico ao do recurso especial interposto às fls. 108-120 (restabelecimento da decisão de primeiro grau que concedeu a progressão de regime ao sentenciado).
+Ademais, observo que a matéria foi por mim examinada no mandamus em 15/6/2018, ocasião em que concedi, in limine, a ordem postulada, a fim de restabelecer a decisão do Juízo da Vara das Execuções Penais da Comarca de São Vicente - SP, que deferiu o pedido de progressão ao regime semiaberto.
+Assim, tendo em vista que este recurso cuida de mera reiteração de pedido, não se pode dele conhecer. Nesse sentido, confira-se o seguinte julgado, mutatis mutandis:
+ ..  Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de recurso especial anteriormente interposto perante este Sodalício caracteriza indevida reiteração de pedido, o que obstaculiza o conhecimento do writ.  ..  (AgRg no HC n. 118.517/AC, Rel. Ministro Jorge Mussi, DJe 25/4/2011)
+À vista do exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 34, XVIII, a, do RISTJ, não conheço deste recurso.
+Publique-se e intimem-se.
