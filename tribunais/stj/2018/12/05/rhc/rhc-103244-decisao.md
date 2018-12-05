@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] - acusado do crime de homicídio qualificado na forma tentada, fato que teria ocorrido no dia 30/8/2013 - contra acórdão do Tribunal de Justiça do Estado de Goiás (5374757-48.2018.8.09.0000).
+Segundo consta dos autos, em 10/2/2018 foi proferida sentença de pronúncia e decretada a prisão preventiva do réu em razão do descumprimento de medidas anteriormente impostas - estaria em lugar incerto e não sabido (e-STJ fl. 129).
+A defesa impetrou habeas corpus na Corte Estadual alegando que o réu não está foragido, apenas mudou de endereço sem prévio aviso ao juízo, mas já teria regularizado seu endereço e, em seguida, postulou a revogação da prisão preventiva. Porém, o pleito ainda não teria sido analisado, configurando, assim, constrangimento ilegal por excesso de prazo.
+O Relator, após a manifestação ministerial, não conheceu do mandamus por entender que haveria supressão de instância, mas determinou que o Juízo da Vara Criminal de Santa Terezinha de Goiás - GO julgasse de imediato o pedido de revogação da prisão (e-STJ fls. 417/419).
+Nas razões do presente recurso, a defesa alega excesso de prazo, porquanto o pedido de revogação da prisão preventiva do paciente ainda não foi analisado e já se passaram mais de 180 dias da data da expedição do mandado de prisão. Acrescenta que o processo se encontra com carga para o Ministério Público desde o dia 11/5/2018.
+No mais, assevera não haver motivos legais para a prisão cautelar, bem ainda que a medida extrema viola o princípio da presunção de inocência. Destaca, ainda, as condições subjetivas favoráveis do réu - sem antecedentes criminais, trabalha, tem formação secundária e família estruturada - e levanta a possibilidade de aplicação de outras medidas mais brandas, até mesmo o monitoramento eletrônico.
+Diante disso, pede, em liminar e no mérito, seja assegurado ao recorrente o direito à liberdade provisória.
+A liminar foi indeferida (e-STJ fls. 463/465).
+As informações foram prestadas (e-STJ fls. 472575 e 680/687) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo não conhecimento do recurso ordinário (e-STJ fl. 690).
+É o relatório, decido.
+Em que pese o esforço da zelosa defesa, entendo que o recurso não pode ser conhecido. Isso porque a defesa não manejou previamente o recurso próprio para obter um pronunciamento do Colegiado do Tribunal.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+Nesse sentido:
+(..) 1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de Justiça do Estado de Sergipe, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF. (..) (AgRg no HC 419.345/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2018, DJe 15/02/2018).
+(..) 1. A provocação da jurisdição de Corte Superior exige o prévio exaurimento da instância antecedente, de modo que correta a decisão que indeferiu liminarmente o habeas corpus que ataca decisão monocrática de relator não impugnada por recurso cabível. (..) (AgRg no HC 417.354/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/11/2017, DJe 24/11/2017).
+Ante o exposto, com base no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
