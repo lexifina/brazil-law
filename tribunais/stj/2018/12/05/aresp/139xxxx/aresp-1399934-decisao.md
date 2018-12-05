@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. INVALIDEZ PERMANENTE POR ACIDENTE. COMPROVAÇÃO. DEVER DE INDENIZAR. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação de conhecimento em desfavor de Mongeral Aegon Seguros e Previdência S.A. e outra, pretendendo o recebimento do valor do seguro que contratou com as rés, ao argumento que, em razão de acidente doméstico, tornou-se permanentemente incapaz de se locomover.
+O Magistrado de primeiro grau julgou procedente o pedido, com resolução de mérito, e condenou as requeridas, solidariamente, ao pagamento "de 100% (cem por cento) sobre o valor do capital segurado a título de indenização securitária diante da incapacidade permanente de membro inferior esquerdo" (e-STJ, fl. 405).
+Interpostas apelações por ambas as demandadas, a Vigésima Quinta Câmara Cível/Consumidor do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento às insurgências, nos termos do acórdão assim ementado (e-STJ, fl. 477):
+APELAÇÕES CÍVEIS. RELAÇÃO DE CONSUMO. AÇÃO DE COBRANÇA. APÓLICE DE SEGURO. INVALIDEZ PERMANENTE. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DA PARTE RÉ QUE NÃO MERECE PROSPERAR. REJEIÇÃO DA PRELIMINAR DE ILEGITIMIDADE PASSIVA DA PRIMEIRA APELANTE. CONTRATO DE SEGURO FIRMADO ENTRE O AUTOR E AS RÉS, EM PARCERIA. LAUDO PERICIAL QUE ATESTOU INCAPACIDADE PERMANENTE DO AUTOR. PREVISÃO DE INDENIZAÇÃO EM CASOS DE ACIDENTE PESSOAL QUE TENHAM COMO CONSEQUÊNCIA DIRETA A MORTE OU A INVALIDEZ PERMANENTE, TOTAL OU PARCIAL DO SEGURADO. O DEVER ANEXO DE COOPERAÇÃO PRESSUPÕE AÇÕES RECÍPROCAS DE LEALDADE DENTRO DA RELAÇÃO CONTRATUAL. A CONDIÇÃO PREEXISTENTE DO AUTOR NÃO FOI CONSIDERADA PELAS SEGURADORAS QUANDO O CONTRATO FOI FIRMADO. AS RÉS RECEBERAM A CONTRAPRESTAÇÃO PELO VALOR TOTAL DO SEGURO E NÃO PODEM, AGORA, PRETENDER PAGAR APENAS 30% DO CAPITAL SEGURADO. SENTENÇA MANTIDA. RECURSOS DESPROVIDOS.
+Opostos embargos de declaração, foram rejeitados.
+Mongeral Aegon Seguros e Previdência S.A. interpôs recurso especial, com fundamento na alínea c do permissivo constitucional, alegando a ocorrência de interpretação jurisprudencial divergente dos arts. 757 e 760 do Código Civil.
+Sustentou, em síntese, que a responsabilidade da seguradora se limita aos riscos predeterminados. Aduziu, ainda, ser indevida a indenização securitária no presente caso, uma vez que a situação do autor decorre, preponderantemente, de doença prévia, e apenas parcialmente decorrente do acidente.
+Aduziu que o acórdão recorrido deixou de observar o percentual de indenização previsto em contrato para os casos de invalidez permanente.
+Contrarrazões às fls. 503-515 (e-STJ).
+O Tribunal de origem inadmitiu o recurso especial ante a incidência das Súmulas n. 5 e 7 do STJ.
+Irresignada, argumenta a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Sem contraminuta (e-STJ, fl. 572).
+Brevemente relatado, decido.
+Com efeito, a Corte local, ao contrário do que sustenta a seguradora, consignou que a incapacidade permanente total do consumidor ocorreu em decorrência do acidente, e não em razão de doença prévia. Concluiu, também, que a parte recorrida tinha ciência da condição do autor quando contratou o seguro com cobertura para invalidez permanente.
+A propósito, confiram-se os seguintes trechos do aresto impugnado (e-STJ, fls. 482-483):
+Compulsando os autos, restou incontroverso que o autor entabulou contrato de seguro denominado "vida toda" junto a parte ré, cuja apólice - nº. 93.100.020 - prevê indenização por morte e invalidez permanente no valor de R$ 56.612,48 (fls.40/42 - indexador 0009).
+O autor sofreu, em 09/09/2008, acidente doméstico que resultou em fratura do fêmur esquerdo, sendo necessário intervenção cirúrgica. Ficou constatado que o autor ficou incapacitado para se locomover, pois o membro inferior esquerdo era o único que ajudava o autor a se locomover, conforme se verifica no relatório médico acostado, emitido em 09/09/2009 (fl. 53 - indexador 0009).
+Administrativamente, houve recusa no pagamento da indenização por parte das rés, sob argumento de que não ficou comprovada a invalidez do autor.
+Segundo afirmado na contestação da primeira apelante "o laudo emitido pelo médico particular, de confiança do Autor, não serve como elemento absoluto de prova da invalidez, especialmente nestes autos, que versam sobre seguros facultativos, de fisiologia privada." Diante disso, o juízo a quo determinou a produção de prova pericial, cuja conclusão foi:
+"De acordo com o exame realizado, o Autor em decorrência do acidente descrito na exordial, onde sofreu a lesão descrita no corpo do laudo, e suas consequências, apresenta uma incapacidade que arbitro no grau percentual e período seguinte:
+Vale lembrar que o Autor apresentava antes do acidente, em razão de doença, poliomielite, uma incapacidade que nos permite arbitrar, pois não o avaliamos antes do acidente, no grau percentual de 70% da função motora dos membros inferiores. Os 30% restantes, lhe era 100% de sua capacidade.
+TOTAL E PERMANENTE:
+No grau percentual de 100%, EM CARÁTER PERMANENTE, da perda dos 30% de sua capacidade, de 09 de setembro de 2008, data do acidente, até a sua sobrevida ou enquanto vivo for."
+Assim, vê-se que o sr. Perito, de forma estreme de dúvidas, atestou haver nexo de causalidade entre o acidente sofrido e a incapacidade total permanente do autor.
+Conforme entendeu o juízo sentenciante, havendo previsão contratual sobre cobertura securitária para o caso de invalidez permanente total ou parcial por acidente e o laudo pericial demonstrando que o autor foi acometido dessa sequela, o que bastaria para atestar a ocorrência do sinistro e pagamento da respectiva indenização.
+A tese de que o autor não pode receber a totalidade da indenização prevista na apólice porque já possuía incapacidade parcial de 70%, em função poliomielite que o acometeu na infância, atenta contra os princípios da função social e da boa-fé contratual.
+Isso porque, o autor já tinha essa condição quando contratou o seguro com as rés que, mesmo assim, concordaram em firmar contrato de seguro com cobertura para invalidez permanente, recebendo, mensalmente, a contraprestação correspondente do autor.
+Ora, qual o sentido de firmar com o autor um contrato com cobertura de invalidez permanente se, pela tese das apelantes, ele jamais poderia usufruir da totalidade do prêmio, em decorrência de sua condição pré-existente
+O ordenamento jurídico brasileiro exige que os contratantes atuem imbuídos da boa-fé objetiva, donde se extraem os deveres anexos ou laterais de comportamento, tais como os deveres de informação, confiança, respeito, probidade e transparência, que devem estar presentes em todo e qualquer negócio jurídico, com o fito de buscar a harmonização da relação jurídica.
+Cumpre ratificar que a boa-fé objetiva deve ser observada em todas as fases contratuais, não podendo, por isso, pretender a parte ré se eximir de responsabilidade, mormente quando o dever anexo de cooperação impõe a adoção de ações recíprocas de lealdade.
+Dessa forma, diante dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Tribunal local (acerca do cabimento da indenização de seguro) implicaria na análise de cláusulas contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AOS ARTIGOS 131, 165 E 458 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS 145 E 460 DO CÓDIGO DE PROCESSO CIVIL SOB O ENFOQUE APRESENTADO NO RECURSO ESPECIAL. SÚMULA 211/STJ. OCORRÊNCIA DE INVALIDEZ TOTAL E PERMANENTE. SÚMULAS 5 E 7/STJ. ACÓRDÃO AMPARADO EM TODO O CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ PARA A ANÁLISE DO DISSÍDIO JURISPRUDENCIAL. AGRAVO IMPROVIDO.
+(..)
+3. O Tribunal de origem concluiu que o segurado foi acometido por invalidez total e permanente. No caso, essa conclusão não pode ser alterada nesta Corte, pois demandaria o reexame do conjunto fático-probatório e interpretação de cláusulas contratuais, o que atrai os óbices das Súmulas 5 e 7 desta Corte.
+4. O acórdão recorrido está amparado em todo o contexto fático-probatório, e não apenas na concessão da aposentadoria do INSS.
+5. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes.
+6. Agravo regimental improvido.
+(AgRg no AREsp 432.332/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/02/2015, DJe 05/03/2015)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
