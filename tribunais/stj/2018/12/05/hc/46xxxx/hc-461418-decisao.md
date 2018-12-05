@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente iniciou cumprimento de pena em regime aberto em 12/6/2015, com a obrigação de comparecimento bimestral em Juízo. Seu primeiro comparecimento deveria ocorrer em 31/8/2015, o que não ocorreu.
+Neste writ, alega a impetrante que sofre constrangimento ilegal, pois o período compreendido entre 31/8/2015 e 1º/6/2016, quando não compareceu em Juízo, foi anotado como interrupção para cumprimento de pena.
+Sustenta ainda que "não há previsão legal que fundamenta a interrupção do tempo de pena cumprido pelo sentenciado, uma vez que tal interrupção só deve ocorrer a partir da decisão que determina a sustação do regime aberto e a regressão cautelar" (e-STJ, fl. 4).
+Requer, em liminar e no mérito, que seja reconhecido como período de pena efetivamente cumprida em regime aberto o tempo decorrido antes de sua prisão, pois que não houve a sustação do regime aberto.
+A liminar foi indeferida (e-STJ, fls. 103-105).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fl. 120).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+A medida cautelar objeto do art. 319, I, do Código de Processo Penal, diz respeito ao comparecimento periódico em Juízo para que venha o apenado informar e justificar suas atividades, de modo a viabilizar sua perfeita reinserção na sociedade.
+O período em que há o descumprimento da medida, que ocorre quando do não comparecimento do apenado em Juízo, não pode ser computado como período de pena efetivamente cumprida.
+Nesse sentido, confiram-se os seguintes precedentes:
+"HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. EXTINÇÃO DA PENA. IMPOSSIBILIDADE. PENA REMANESCENTE. CUMPRIMENTO DA PENA SEQUER INICIADO. DESCASO COM A EXECUÇÃO DA REPRIMENDA. CONDUTA INCOMPATÍVEL COM A FINALIDADE DO REGIME MENOS GRAVOSO. FRUSTRAÇÃO DOS FINS DA EXECUÇÃO. ART. 36, § 2º, DO CP. CONDUTA PASSÍVEL, INCLUSIVE, DE CONFIGURAÇÃO DE FALTA GRAVE. ART. 50, V, DA LEP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ.
+2. O descumprimento das condições impostas no regime aberto mostra-se incompatível com a sua finalidade ressocializadora, porquanto acarreta a frustração dos fins da execução, além de configurar, em tese, falta disciplinar de natureza grave, nos termos do inciso V do art. 50 da Lei de Execução Penal - cujo reconhecimento é apto a interromper o prazo para a aquisição de futuros benefícios, além de importar em regressão de regime -, inexistindo, pois, constrangimento ilegal a ser sanado.
+3. Ordem denegada." (HC 380.077/PR, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 24/10/2017, DJe 6/11/2017.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. COMPETÊNCIA DAS CORTES SUPERIORES. MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DESTE TRIBUNAL, EM CONSONÂNCIA COM A SUPREMA CORTE. EXECUÇÃO PENAL. REGIME ABERTO. EXIGÊNCIA DE COMPARECIMENTO MENSAL DO SENTENCIADO EM CARTÓRIO. DESCUMPRIMENTO. TÉRMINO DO CUMPRIMENTO DA PENA. NÃO OCORRÊNCIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE QUE, EVENTUALMENTE, PUDESSE ENSEJAR A CONCESSÃO DA ORDEM DE OFÍCIO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Excelso Supremo Tribunal Federal, em recentes pronunciamentos, aponta para uma retomada do curso regular do processo penal, ao inadmitir o habeas corpus substitutivo do recurso ordinário. Precedentes: HC 109.956/PR, 1.ª Turma, Rel. Min. Marco Aurélio, DJe de 11/09/2012; HC 104.045/RJ, 1.ª Turma, Rel. Min. Rosa Weber, DJe de 06/09/2012; HC 108.181/RS, 1.ª Turma, Rel. Min. Luiz Fux, DJe de 06/09/2012. Decisões monocráticas dos ministros Luiz Fux e Dias Tóffoli, respectivamente, nos autos do HC 114.550/AC (DJe de 27/08/2012) e HC 114.924/RJ (DJe de 27/08/2012).
+2. Sem embargo, mostra-se precisa a ponderação lançada pelo Ministro Marco Aurélio, no sentido de que, "no tocante a habeas já formalizado sob a óptica da substituição do recurso constitucional, não ocorrerá prejuízo para o paciente, ante a possibilidade de vir-se a conceder, se for o caso, a ordem de ofício." 3. Se o Paciente não compareceu em Juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida.
+4. Ausência de ilegalidade flagrante que, eventualmente, ensejasse a concessão da ordem de ofício.
+5. Habeas corpus não conhecido." (HC 207.698/SP, rel. Ministra LAURITA VAZ, QUINTA TURMA, j. 16/10/2012, DJe 23/10/2012.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
