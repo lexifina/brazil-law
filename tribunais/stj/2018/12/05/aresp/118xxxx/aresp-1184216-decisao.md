@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC), interposto por LUNICORTE INDÚSTRIA E COMÉRCIO DE LAMINADOS LTDA., contra decisão que não admitiu recurso especial (fls. 129/131, e-STJ).
+O apelo nobre desafia acórdão prolatado, em sede de agravo de instrumento, pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Tutela de urgência - Tutela cautelar em caráter antecedente - Finalidade de sustar o protesto de título extrajudicial para fins falimentares - Tutela indeferida e protesto extrajudicial lavrado - Inexequibilidade da sustação e inutilidade da suspensão da publicidade - Título usado pelo portador para instruir processo de falência - Defesa da autora a ser exercida no processo falimentar - Nota promissória vinculada a instrumento de confissão de dívida, segundo a autora irradiado de contrato de "factoring" - Réu, em tese, portador de título e no exercício regular de um direito, se preencheu - o conforme o pactuado - Falta de probabilidade do direito da autora - Pressupostos do art. 300 do novo CPC não coexistentes - Recurso desprovido.
+Na origem, a demanda versa sobre agravo de instrumento visando reformar a decisão do juízo de primeiro grau, o qual indeferiu a tutela antecipada de sustar os efeitos do protesto de título extrajudicial. O Tribunal de origem negou provimento ao reclamo.
+Em suas razões de recurso especial (fls. 106/124, e-STJ), a recorrente aponta ofensa aos artigos 300 e 305 do Código de Processo Civil/2015. Sustenta, em síntese: a) que ofereceu garantia ao Juízo e; b) estão presentes os requisitos da probabilidade do direito e o perigo de dano.
+Sem contrarrazões (fl. 128, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso o enunciado da Súmula 07 do STJ.
+Irresignada (fls. 134/144, e-STJ), aduz a agravante que o reclamo merece trânsito, uma vez que não há necessidade de revolvimento fático-probatório para se analisar a matéria.
+Sem contraminuta (fl. 145, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Inicialmente, cumpre destacar que, no âmbito do recurso especial, não se permite a reexame dos requisitos da fumaça do bom direito e do perigo na demora para o deferimento da medida liminar pelo juízo de origem, seja em razão do óbice constante da Súmula 7/STJ, seja pela incidência do disposto no enunciado da Súmula 735/STF.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. TUTELA ANTECIPADA. REQUISITOS. AUSÊNCIA. REEXAME. SÚMULAS NS. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1693653/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+Na hipótese, a Corte Estadual, com amparo no acervo fático-probatório dos autos, manteve o indeferimento do pedido de tutela de urgência e, por conseguinte, negou a sustação dos efeitos do protesto, oportunidade na qual o Tribunal a quo entendeu que deve prevalecer o instrumento de confissão de dívida, em razão da inexistência da probabilidade do direito da recorrente.
+Confira-se, por oportuno, trecho elucidativo do julgado (fl. 2.595, e-STJ):
+" ..  Em princípio, até melhor prova, o réu age no exercício regular de um direito, uma vez que, portador de nota promissória vinculada a instrumento de confissão de dívida, tem faculdade de levá-la a protesto extrajudicial.  ..  Essa questão, às escâncaras, há de ser debatida largamente num devido processo legal e, de plano, não milita em favor da autora a probabilidade do direito. .. "
+Logo, para se dissentir da conclusão firmada pela Corte Estadual, na qual não foi reconhecida a probabilidade do direito da agravante, seria imprescindível o reexame do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nessa senda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. LEGALIDADE. SITUAÇÃO DE CARÊNCIA E EMERGÊNCIA. MITIGAÇÃO DO PRAZO DE CARÊNCIA. LIMITAÇÃO DO TEMPO DE INTERNAÇÃO. IMPOSSIBILIDADE. EXERCÍCIO REGULAR DE DIREITO. NÃO OCORRÊNCIA.
+1. De acordo com a jurisprudência desta Corte Superior, é lícita a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos. Precedentes.
+2 No caso em tela, a Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, consignou estar cristalizada a situação de urgência e emergência na hipótese vertente. Incidência da Súmula 7 do STJ.
+3. Não prospera a pretensão da recorrente no sentido de limitar a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: "É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado".
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1122995/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, o exame feito por esta Corte Superior restringe-se à análise dos dispositivos relacionados aos requisitos da tutela de urgência ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal. Precedentes.
+2. A concessão ou revogação da antecipação da tutela pela instância recorrida fundamenta-se nos requisitos da verossimilhança e do receio de dano irreparável ou de difícil reparação aferidos a partir do conjunto fático-probatório constante dos autos, sendo defeso ao Superior Tribunal de Justiça o reexame dos aludidos pressupostos, em face do óbice contido na Súmula 7 do STJ.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal." (AgRg no REsp 1159745/DF, Min. Humberto Martins, Segunda Turma, julgado em 11/05/2010, DJe 21/05/2010).
+4. Agravo interno não provido.
+(AgInt no AREsp 1292463/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+Concluindo, não se verifica, portanto, a excepcionalidade a fim de justificar a reforma do entendimento proferido pela instância ordinária.
+2. Ante o exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo (art. 1.042 do NCPC).
+Publique-se. Intimem-se.
