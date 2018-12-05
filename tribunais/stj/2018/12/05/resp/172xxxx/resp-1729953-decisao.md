@@ -1,0 +1,25 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. CUMPRIMENTO DE SENTENÇA. MULTA DO ART. 475-J DO CPC/1973. INTIMAÇÃO. NECESSIDADE. ENTENDIMENTO CONSOLIDADO DESTA CORTE. RECURSO ESPECIAL DO INSS A QUE SE DÁ PROVIMENTO.
+1. Trata-se Recurso Especial interposto pelo INSS, com base na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+PREVIDENCIÁRIO EMBARGOS À EXECUÇÃO. MULTA DIÁRIA.
+Ainda que não tenha constado a cominação de multa na versão impressa, se no voto publicado e em relação ao qual houve a devida intimação, há a fixação da multa, ocasionando, inclusive, a oposição de embargos de declaração, deve ser mantida a cobrança.
+2. Os Embargos de Declaração opostos pelo recorrente foram rejeitados.
+3. Em seu Apelo Nobre, sustenta o recorrente violação aos arts. 497, 536 § 1 e 537 § 1 do CPC/1973 e 884 do Código Civil, sob o argumento de que que não houve intimação para cumprimento de obrigação de fazer tida como base para a fixação de astreinte, conforme a Súmula 410 deste Tribunal Superior. Além disso, caso superada a tese anterior, pugna pela redução do valor fixado por considerar excessivo.
+4. É o relatório.
+5. Cinge-se a lide se há necessidade de intimação do executado acerca da decisão judicial que fixa a multa com fulcro no art. 461, § 4º, do CPC/1973.
+4. Em 2009, foi sumulado o entendimento desta Corte no enunciado 410/STJ, estabelecendo que a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer.
+5. A Corte Especial, no julgamento do REsp 940.274/MS, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, DJe 31/5/2010 assentou que o cumprimento da sentença não se efetiva de forma automática, cabendo ao credor o exercício de atos para o regular cumprimento da decisão condenatória, especialmente requerer ao juízo que dê ciência ao devedor sobre o montante apurado.
+6. No mesmo sentido::
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. PEDIDO DE INDEFERIMENTO LIMINAR REJEITADO. ASTREINTES. REVISÃO DO VALOR. POSSIBILIDADE. APLICAÇÃO AUTOMÁTICA DA MULTA DO ART. 475-J DO CPC/73. DESCABIMENTO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Afasta-se o pedido de rejeição liminar da impugnação do cumprimento de sentença, por falta de indicação precisa pelo executado do valor que entende correto, se os argumentos deduzidos na impugnação não se restringem ao excesso de execução.
+2. O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. 3. A aplicação da multa de 10% do artigo 475-J do CPC/73 somente incidirá após intimado o devedor, na pessoa do seu advogado, e decorrido o prazo para cumprimento voluntário da obrigação imposta na decisão condenatória, não incidindo a penalidade de forma automática.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1.332.730/MS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), DJe 25/6/2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. OBRIGAÇÃO DE PEQUENO VALOR. EXECUÇÃO INVERTIDA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. PAGAMENTO VOLUNTÁRIO. INÍCIO DO PRAZO. NECESSIDADE DE INTIMAÇÃO DO REPRESENTANTE DO DEVEDOR.
+1. Na hipótese de cumprimento espontâneo da obrigação de pequeno valor pelo ente público, descabe a condenação ao pagamento de honorários advocatícios. Precedentes.
+2. Conforme a orientação firmada por esta Corte Superior, o cumprimento de sentença não ocorre de forma automática, sendo necessária a intimação do devedor, na pessoa do seu representante, para o pagamento da dívida.
+3. "No caso em exame, após o trânsito em julgado e o retorno dos autos à instância de origem, foi determinada a intimação do INSS para implantação no prazo de 45 dias. Intimado o INSS em 10/02/2012, uma sexta-feira (fl. 384), protocolou em 27/03/2012 (fl. 385) petição informando que o benefício já havia sido implantado e que em anexo juntava os cálculos das parcelas em atraso, portanto dentro do prazo estabelecido pelo Juízo." 4. Agravo interno a que se nega provimento (AgInt no REsp 1.473.684/SC, Rel. Ministro OG FERNANDES, DJe 23/2/2017).
+7. O acórdão recorrido apesar de reconhecer que não houve intimação do INSS manteve a incidência da multa, considerando apenas o decurso do prazo fixado pelo Juiz para cumprimento da obrigação; enquanto o precedente alçado a paradigma concluiu pela necessidade de prévia intimação pessoal do devedor.
+8. Ante o exposto, dá-se provimento ao Recurso Especial do INSS, para afastar a incidência da referida multa ante a ausência de intimação específica para pagamento.
+9. Publique-se.
+10. Intimações necessárias.
