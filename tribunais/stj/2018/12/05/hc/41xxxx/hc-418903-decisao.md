@@ -1,0 +1,5 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, estaria sofrendo constrangimento ilegal em decorrência do acórdão proferido pelo Tribunal Regional Federal da 4ª Região no HC n. 5038702-82.2017.4.04.0000.
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que, em 3/8/2018, foi proferida sentença condenatória na ação penal objeto deste writ (Processo n. 5004418-82.2017.4.04.7005), por meio da qual o réu foi condenado à pena de 9 anos, 6 meses e 10 dias de reclusão, em regime inicial fechado, e 221 dias-multa, como incurso nos arts. 2º, caput e §§ 3º e 4º, I, da Lei n. 12.850/2013, 334-A, § 1º, I, do Código Penal, c/c o art. 3º do Decreto-Lei n. 399/1968, negado o direito de recorrer em liberdade. Evidencia-se, portanto, a prejudicialidade do pedido aqui formulado - revogação da prisão preventiva por ausência de motivação idônea.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
