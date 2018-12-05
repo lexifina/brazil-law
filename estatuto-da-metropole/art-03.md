@@ -1,3 +1,4 @@
 Art. 3º Os Estados, mediante lei complementar, poderão instituir regiões metropolitanas e aglomerações urbanas, constituídas por agrupamento de Municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum.
 § 1º O Estado e os Municípios inclusos em região metropolitana ou em aglomeração urbana formalizada e delimitada na forma do caput deste artigo deverão promover a governança interfederativa, sem prejuízo de outras determinações desta Lei.
 § 2º A criação de uma região metropolitana, de aglomeração urbana ou de microrregião deve ser precedida de estudos técnicos e audiências públicas que envolvam todos os Municípios pertencentes à unidade territorial.
+§ 3º O Distrito Federal poderá integrar região metropolitana com Municípios limítrofes ao seu território, observadas as regras estabelecidas neste Capítulo para a sua instituição.
