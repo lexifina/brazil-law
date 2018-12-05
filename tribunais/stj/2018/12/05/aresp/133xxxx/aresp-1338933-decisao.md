@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CONDOMÍNIO EDIFÍCIO SUTAION contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fls. 308):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO PELO RITO ORDINÁRIO. CONTRATO DE LOCAÇÃO DE SERVIÇOS PARA ELEVADORES. REAJUSTES DAS MENSALIDADES COM PERIODICIDADE MAIOR DO QUE A ANUAL. COBRANÇA INDEVIDA. REPETIÇÃO DO INDÉBITO QUE TEM COMO FUNDAMENTO O ENRIQUECIMENTO SEM CAUSA. OBSERVÂNCIA DO PRAZO PRESCRICIONAL TRIENAL (ART. 206, § 3º, IV, DO CÓDIGO CIVIL). REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES.
+1. Afasto a preliminar recursal quanto à alegação de negativa de prestação jurisdicional, pois ainda que contrária aos interesses do apelante, o juízo apresentou seus fundamentos amparado nos documentos juntados aos autos, entendendo que os reajustes foram acima do pactuado.
+2. Comprovado que a ré não respeitou os termos da contratação, evidente a sua obrigação de restituir os valores cobrados a maior. Cabia à parte ré demonstrar a inexatidão dos cálculos apresentados pelo autor, na forma do artigo 333, II, do CPC, ônus que não logrou comprovar.
+3. Considerando tratar-se de demanda consubstanciada em ressarcimento de valor pago por serviço que a parte autora alega não ter solicitado/contratado, aplica-se o prazo trienal previsto no art. 206, §3º, IV, do CC/02, pois fundada a pretensão no princípio que veda o enriquecimento sem causa. Precedentes do STJ e desta Corte.
+4. Descabida a incidência do artigo 42, parágrafo único, da Lei 8.078/90, no caso dos autos, pois necessária a demonstração da má-fé no que toca à cobrança indevida, o que não ocorreu. Devida a restituição dos valores, na forma simples.
+PRELIMINAR RECURSAL REJEITADA. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+1. O recurso especial discute, entre outras questões, as hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC, matéria afetada pelo Ministro PAULO DE TARSO SANSEVERINO, sob o rito dos Recursos Representativos de Controvérsia, à Segunda Seção do Superior Tribunal de Justiça nos autos do Resp nº 1.585.736/RN, (DJe 14/06/2017), Tema n. 929.
+Assim, é imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o artigo 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, a saber:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por
+decisão fundamentada do Presidente do STJ.
+Ressalta-se que "somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo" (REsp 1.361.535/MG, Rel. Min. Gurgel de Faria, DJe 8/2/2017).
+Vale lembrar, ainda, que a competência para aplicação da sistemática de recursos repetitivos é do Tribunal de origem, a teor do disposto no artigo 543-C do CPC/73, atual artigo 1.040 do CPC/2015. Aplicação analógica da interpretação dada pelo STF à sistemática do artigo 543-B do CPC/1973.
+2. Ante o exposto, determino a devolução dos autos à origem, com a devida baixa nesta Corte, para que o recurso especial subjacente permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema n. 929, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se.
+Intimem-se.
+Cumpra-se.
