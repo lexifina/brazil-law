@@ -1,0 +1,35 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado (Apelação Criminal n. 286311-10.2013.8.09.0137).
+Depreende-se dos autos que o ora recorrido foi condenado à pena de 2 anos e 1 mês de reclusão, em regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006, substituída a pena privativa de liberdade por restritiva de direitos.
+Nas razões do recurso especial, o ora agravante alega violação do art. 33, § 4º, da Lei n. 11.343/2006, sob o fundamento de que não há como ser aplicada a causa especial de diminuição de pena em comento, em razão de o recorrido se dedicar a atividades criminosas.
+Para tanto, argumenta que "a apreensão de expressiva quantidade de droga (565g de maconha) e sua variedade (maconha e cocaína), bem como a existência de execução penal em andamento - circunstâncias reconhecidas no acórdão - são fatores que permitem concluir pela dedicação a atividades delitivas" (fl. 504).
+Requer o provimento do recurso, para que seja afastada a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo..
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+No tocante à causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, verifico que o Tribunal de origem, ao dar parcial provimento à apelação interposta pela defesa, assim fundamentou a incidência do redutor em questão, in verbis (fls. 478-488 , grifei):
+Na terceira fase, o Ministério Público busca ainda a exclusão da causa especial de redução de pena prevista no § 4º do art. 33, argumentando que o apelante não faz jus ao benefício, diante da quantidade e diversidade de drogas apreendidas, bem como por conta do processo de execução - Comarca de Rio Branco - AC/ fl. 240, indicando assim que se dedica a atividade criminosa. Ao seu turno a defesa requer a redução de 2/3 (dois terços).
+ ..
+Contudo, sem razão o MINISTÉRIO PÚBLICO (1º apelante). O objetivo da referida causa especial de redução de pena é uma medida de política criminal, que visa beneficiar o traficante que ainda não está envolvido profundamente com a prática criminosa, propiciando-lhe uma oportunidade mais eficaz e ligeira de ressocialização.
+ ..
+Na hipótese, observe-se que o apelante preenche todos os requisitos elencados na lei, de sorte que não há como afastar a referida benesse, pois a quantidade e variedade de drogas apreendidas não são previstos como pressupostos legais para se negar a causa especial de redução de pena, sendo que tal circunstância não autoriza sequer presumir que pudesse assim se dedicar a atividades criminosas, pois não há qualquer prova nos autos de que o acusado fizesse dessa prática seu meio de vida.
+Ademais, examinando a certidão de fl. 240, observo que se trata de condenação relativa delito de trânsito, sendo-lhe aplicado medidas alternativas.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T, DJe 14/4/2014).
+No caso, constato que o Tribunal de origem entendeu devidamente preenchidos os requisitos autorizadores da reduç ão de pena em questão, havendo salientado que não havia elementos concretos nos autos que permitissem a conclusão de que o recorrido se dedicava a atividades delituosas ou de que integrava organização criminosa.
+Na ocasião, ressaltou que, "a quantidade e variedade de drogas apreendidas não são previstos como pressupostos legais para se negar a causa especial de redução de pena, sendo que tal circunstância não autoriza sequer presumir que pudesse assim se dedicar a atividades criminosas, pois não há qualquer prova nos autos de que o acusado fizesse dessa prática seu meio de vida" (fls. 478-488).
+Destacou, ainda, que, "examinando a certidão de fl. 240, observo que se trata de condenação relativa delito de trânsito, sendo-lhe aplicado medidas alternativas" (fl. 488).
+Dessa maneira, para entender de modo diverso, acolhendo a alegação de que o acusado se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa que, como cediço, é vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+ ..
+- Tendo o Tribunal a quo, ao apreciar a apelação, entendido que o agravante preenche os requisitos necessários para a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, chegar a conclusão diversa implica em exame aprofundado de provas, vedado em sede de especial, a teor da Súmula n. 7 do STJ.
+- A alteração do que restou consignado na instância ordinária, de maneira a permitir a readequação do redutor, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via especial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 425.613/PR, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 17/4/2015).
+Assim, fica afastada a alegada violação do art. 33, § 4º, da Lei n. 11.343/2006, visto que a aplicação da minorante ocorreu de forma concretamente motivada.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
