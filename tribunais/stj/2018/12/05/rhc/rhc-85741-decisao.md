@@ -1,0 +1,14 @@
+DECISÃO
+[NOME], ora recorrente, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no Habeas Corpus n. 0001407-03.2017.8.17.0000.
+Sustenta o insurgente que sua prisão preventiva é ilegal, haja vista o excesso de prazo para o encerramento do feito, com destaque para o fato de que foi encarcerado em 10/10/2014.
+Requer o provimento do recurso, in limine, a fim de que seja relaxado seu encarceramento cautelar. Pleiteia, ainda, a extensão dos efeitos da decisão ao corréu [NOME].
+Após apresentadas as informações (fls. 105-119), a liminar foi indeferida (fls. 124-127) e o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 133-138).
+Decido.
+De pronto, observo que o recurso ordinário não obedeceu aos trâmites procedimentais e foi interposto diretamente neste Superior Tribunal de Justiça, sem prévio juízo de admissibilidade e contrarrazões do Ministério Público.
+Ao que parece, contudo, trata-se de habeas corpus substitutivo de recurso especial e recurso ordinário, pois a defesa instrui a exordial com acórdão de habeas corpus denegado pelo Tribunal a quo.
+O recorrente pretende seja revogada sua custódia cautelar, por alegado excesso de prazo para o encerramento do feito. Entretanto, a despeito de afirmar que está encarcerado preventivamente desde 10/10/2014, dos documentos que constam dos autos se extrai que a decisão que decretou a referida prisão foi proferida em 22/10/2014, data na qual foi recebida a denúncia (fl. 29), e o respectivo mandado foi expedido somente em 23/10/2014 (fl. 25).
+Além da aludida incongruência, certo é que, no decreto de prisão preventiva, o Magistrado de origem esclarece que o insurgente "já se encontra preso por ser reincidente específico, respondendo ao processo n. 5810-57.2014.8.17.0990 nesta Vara do Tribunal do Júri" (fl. 19).
+Ação constitucional de natureza mandamental, o recurso ordinário em habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória. É cogente ao recorrente - sobretudo quando for assistido por advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal, o que não ocorreu na hipótese sob exame.
+Com efeito, não há nos autos nenhum documento que comprove a data em que efetivamente foi cumprido o mandado de prisão preventiva expedido em desfavor do insurgente, referente à decisão proferida nos Autos n. 0011154-19.2014.8.17.0990, circunstância que impossibilita a análise da alegada existência de excesso de prazo da referida custódia cautelar.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do recurso ordinário em habeas corpus.
+Publique-se e intime-se.
