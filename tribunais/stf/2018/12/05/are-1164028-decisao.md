@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Tocantis, assim ementado:
+    APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. CONJUNTO PROBATÓRIO ROBUSTO. PROVA DA AUTORIA E MATERIALIDADE PARA AMBOS OS DELITOS. ABSOLVIÇÃO. INCOMPORTÁVEL. DESCLASSIFICAÇÃO PARA USO. NÃO CABIMENTO. - MULTIRREINCIDÊNCIA. UTILIZAÇÃO DE UMA COMO MODULADORA NEGATIVA DOS ANTECEDENTES E OUTRA COMO AGRAVANTE. - SUPRESSÃO DA PENA DE MULTA. IMPOSSIBILIDADE – RECURSO IMPROVIDO.
+    As provas colhidas, bem como os testemunhos são verossímeis e estão em harmonia no contexto probatório, servindo de lastro para a condenação do réu. Os depoimentos testemunhais servem de sustentação para um édito condenatório por tráfico de drogas, ainda mais quando, em cotejo com os demais elementos de convicção, comprovam de forma indiscutível a traficância exercida.
+    O delito de associação para o tráfico de drogas, estatuído no artigo 35 da Lei nº 11.343/2006, exige, para a sua caracterização, a associação estável e permanente de dois ou mais agentes, agrupados com a finalidade de praticar, reiteradamente ou não, qualquer dos crimes previstos no artigo 33, caput e § 1º, e artigo 34 do mesmo diploma legal. Assim, diante das provas do animus associativo de caráter estável e duradouro entre os apelantes descritos na denúncia, inviável o pleito absolutório quanto ao delito de associação para o tráfico, especialmente pelas declarações judiciais prestadas pelos policiais, corroboradas pelas interceptações telefônicas.
+    Quando não há nos autos qualquer prova que sustente que o réu seja dependente químico ou psíquico de substância entorpecente, não há possibilidade de desqualificação do tráfico para o uso. Ademais na fase instrutória deve restar provado que a destinação da droga era para o consumo pessoal, sendo ônus da defesa, ou seja, caberia, provar o dolo específico exigido para a simples utilização, ao invés do dolo genérico do tráfico, inclusive demonstrando a contento eventual dependência, o que não se verificou.
+    Diante da multirreincidência do agente, é possível a utilização de condenações pretéritas distintas, evitando-se o bis in idem, para justificar o aumento da pena-base ante a consideração desfavorável das circunstâncias judiciais dos maus antecedentes e da reincidência na segunda fase.
+    A pena de multa incluída no preceito secundário do tipo não pode ser suprimida da condenação de crime que a prevê porque decorre de norma cogente. Ainda que o acusado seja pobre no sentido legal, é defeso ao magistrado (por respeito ao princípio da reserva legal) inovar atuando de forma contrária ao que determina o texto normativo.
+    RECURSO CONHECIDO E IMPROVIDO.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da CF, aponta-se violação ao art. 5º, LIV, LV, e 93, IX, ambos da CF, buscando-se o provimento do recurso a fim de que seja anulado o processo, por cerceamento de defesa, em razão da negativa de acesso aos autos do inquérito policial e da interceptação telefônica, nos quais se fundamentou a sentença condenatória.
+    A Presidência do TJTO inadmitiu o recurso extraordinário por considerá-lo intempestivo.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que a nulidade processual não foi suscitada perante o Tribunal de Justiça. Assim, a questão referente à violação dos dispositivos constitucionais tampouco foi objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Ante o exposto, nego seguimento ao presente recurso, com fulcro no art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 05 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
