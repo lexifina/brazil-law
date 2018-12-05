@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REQUISITOS. JUÍZO FIRMADO NOS FATOS E PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por INSTITUTO NACIONAL DO SEGURO SOCIAL, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 205):
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. REQUISITOS. CONSIDERAÇÃO DOS ELEMENTOS CONSTANTES DOS AUTOS. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. Reunidos os requisitos de qualidade de segurado e carência, a inativação por invalidez deve ser outorgada nos casos em que, na prática, for difícil a reabilitação, seja pela natureza da doença ou das atividades normalmente desenvolvidas, seja pela idade avançada.
+2. Embora tratando-se de auxílio-doença ou aposentadoria por invalidez o Julgador firme sua convicção, via de regra, por meio da prova pericial, a esta não está adstrito, podendo fazê-lo com base em outros elementos presentes nos autos (art. 479 do CPC/2015).
+3. O Plenário do STF concluiu o julgamento do Tema 810, consoante acompanhamento processual do RE 870947 no Portal do STF. Dessarte, a correção monetária incidirá a contar do vencimento de cada prestação e será calculada pelos índices oficiais e aceitos na jurisprudência, quais sejam: - INPC (de 04/2006 a 29/06/2009, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A na Lei n.º 8.213/91); - IPCA-E (a partir de 30-06-2009, conforme RE 870.947, j. 20/09/2017). Os juros de mora serão de 1% (um por cento) ao mês, a contar da citação (Súmula 204 do STJ), até 29/06/2009. A partir de 30/06/2009, seguirão os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, conforme art. 5º da Lei 11.960/09, que deu nova redação ao art. 1º-F da Lei nº 9.494/97.
+No recurso especial, o recorrente sustenta negativa de vigência aos arts. 42 da Lei n. 8.213/1991 e 156 do CPC alegando que não cabe a conversão do auxílio-doença e aposentadoria por invalidez, porque não ficou comprovada pela perícia a incapacidade total e permanente para o trabalho.
+Contrarrazões a fls. 227-233 e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Na espécie, verifica-se que a Corte de origem entendeu pela conversão do auxílio-doença para aposentadoria por invalidez, a despeito de o laudo pericial ter concluído pela incapacidade parcial permanente para a atividade laboral desempenhada, ao analisar, no caso concreto, demais elementos fáticos envolvidos, como idade avançada, grau de escolaridade, natureza da atividade executada ordinariamente, a intensidade da limitação para o trabalho, concluindo que, uma vez que a possibilidade de reabilitação para outra atividade é remota, a incapacidade, no presente caso, é total (fls. 200/201 e-STJ):
+O Perito afirma que a incapacidade é parcial, não havendo impedimentos à atividade do autor, que é de motorista - fazendo entregas com o carro.
+Contudo, consoante a resolução 267/2008 do CONTRAN:
+1.2. Exigências para candidatos à ACC e à direção de veículos das categorias A e B:
+1.2.1. acuidade visual central igual ou superior a 20/40 (equivalente a 0,50) em cada um dos olhos ou igual ou superior a 20/30 (equivalente a 0,66) em um dos olhos, com pelo menos percepção luminosa (PL) no outro;
+No presente caso, conforme o laudo pericial, o autor apresenta "acuidade visual, com a melhor correção, de 20/25 em ambos os olhos", de modo que não preenche os requisitos sequer para a categoria B.
+Ademais, em que pese a conclusão do laudo ter sido pela incapacidade parcial (mesmo que, conforme concluiu o laudo, houvesse incapacidade apenas para atividades como de motorista de caminhão ou ônibus, instrumentos de precisão ou corte, etc.), considerando a idade do autor, seu grau de escolaridade (5º ano do ensino fundamental), conclui-se que no presente caso, a incapacidade é total, uma vez que é remota a possibilidade de reabilitação para outra atividade.
+Consoante referido anteriormente é importante observar as circunstâncias do caso concreto como a faixa etária do requerente, seu grau de escolaridade, a natureza da atividade executada ordinariamente, etc. a fim de aferir se há capacidade ou incapacidade para o trabalho.
+ ..
+Assim, deve ser reconhecido que há incapacidade total e permanente para o trabalho, sendo devida a concessão de aposentadoria por invalidez desde a data da cessação do benefício.
+Assim, tem-se que, diante da complexidade do contexto fático apresentado no acórdão recorrido, inviável a desconstituição da conclusão a que chegou o Tribunal de origem sobre a questão, sem o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, por força da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
