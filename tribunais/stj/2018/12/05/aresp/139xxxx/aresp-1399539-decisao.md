@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. USURPAÇÃO DE COMPETÊNCIA POR PARTE DO TRIBUNAL DE ORIGEM NA DECISÃO DE ADMISSIBILIDADE DO RESP. NÃO OCORRÊNCIA. SÚMULA 123 DO STJ. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO VERIFICADAS. 3. TUTELA DE URGÊNCIA INDEFERIDA. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 735 DO STF. REVISÃO DA MOTIVAÇÃO DA DECISÃO. SÚMULA 7 DO STJ. 4. NULIDADE DE INTIMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. SÚMULA 211 DO STJ. 5. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Miguel Forte Industrial S.A. - Papéis e Madeiras, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 136):
+AGRAVO DE INSTRUMENTO. Negócio fiduciário vinculando bens imóveis. Ação declaratória de inexigibilidade de débito. Abordagem de devedora, fiduciante. Indeferimento de liminar. Recurso da autora. Desprovimento.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 310-312).
+Nas razões do recurso especial, a ora agravante alegou dissídio jurisprudencial e violação dos arts. 300, 489, II, § 1º, III, e 1.022 do CPC/2015; e 26, § 1º, da Lei 9.514/1997.
+Sustentou, preliminarmente, negativa de prestação jurisdicional e falta de fundamentação. No mérito, alegou a presença dos requisitos para concessão da tutela de urgência requerida e a nulidade da intimação que lhe foi enviada pelo Cartório de Registro de Imóveis.
+Contrarrazões às fls. 341-344 (e-STJ).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta apresentada às fls. 395-397 (e-STJ).
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Inicialmente, convém registrar que deve ser afastada a alegação da agravante quanto à usurpação de competência por parte do Tribunal de origem. Isso porque cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica num exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe o enunciado n. 123 da Súmula do Superior Tribunal de Justiça "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+Com relação à suposta negativa de prestação jurisdicional, não assiste razão à parte recorrente, tendo em vista que o Tribunal estadual expôs, fundamentadamente, as razões que levaram à conclusão do julgado. Todas as questões postas em debate foram efetivamente decididas, não havendo que se falar em omissão ou ausência de fundamentação nas decisões, nem constando do acórdão embargado os defeitos previstos nos citados dispositivos do Estatuto Processual Civil, existindo, de fato, decisão adversa à pretendida pela parte agravante.
+Ademais, ao contrário do que se sustenta, a decisão está efetivamente fundamentada, ainda que de forma concisa, o que, na linha dos precedentes desta Corte, não se confunde com a ausência ou deficiência de fundamentação.
+Relativamente à questão de fundo, melhor sorte não assiste à insurgente.
+Com efeito, tendo em vista o pressuposto constitucional de esgotamento de instância, afigura-se incabível, em regra, o recurso especial contra decisão que examina pedido de tutela de urgência, ante sua precariedade.
+Tal posicionamento é cristalizado no enunciado n. 735 da Súmula do STF, segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar", in totum aplicável, por analogia, aos recursos especiais e, contrario sensu, também para as decisões que indeferem pedido liminar.
+O enunciado, como visto, guarda a compreensão de que o recurso direcionado aos tribunais superiores deve ser interposto contra decisão definitiva dos tribunais de origem, qualidade ausente em decisões liminares (como no caso dos autos, em que foi indeferido o pedido de tutela de urgência para suspender a consolidação da propriedade dos imóveis ao credor fiduciário), passíveis de reversão a qualquer tempo na própria instância ordinária.
+Nesse contexto, a precariedade da decisão liminar, de fato, não autoriza a interposição do apelo nobre.
+Ademais, é firme a orientação do Superior Tribunal de Justiça no sentido de ser inviável a interposição de recurso especial no qual se visa discutir o preenchimento, ou não, dos requisitos da tutela de urgência, porquanto tal discussão ensejaria o reexame do substrato fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5/STJ, 7/STJ E 735/STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+3. A verificação do preenchimento ou não dos requisitos necessários para a antecipação de tutela, no caso em apreço, demandaria a análise de cláusulas contratuais e o reexame do conjunto fático-probatório, inviáveis em sede de recurso especial, a teor dos enunciados nº 5 e 7 da Súmula do STJ, respectivamente.
+4. Agravo interno a que se nega provimento. (AgRg no REsp 1.253.947/RJ, Relatora a Ministra Maria Isabel Gallotti, DJe de 1º/8/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO. LEILÃO EXTRAJUDICIAL. SUSPENSÃO. TUTELA ANTECIPADA. DEFERIMENTO. REQUISITOS. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. SÚMULA Nº 7/STJ.
+1. Inviável, em sede de recurso especial, modificar o acórdão recorrido que concluiu pela existência dos requisitos da tutela antecipada, tendo em vista que a análise do tema demandaria o reexame do conjunto fático-probatório, o que é vedado, nos termos da Súmula nº 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 472.980/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/12/2014, DJe 9/12/2014)
+Por fim, o art. 26, § 1º, da Lei 9.514/1997 não foi enfrentado pelo acórdão impugnado, incidindo o óbice da Súmula n. 211 do STJ.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
