@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO – DESPROVIMENTO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes fundamentos:
+    Por outro flanco, não vingam as impugnações apresentadas pela expropriante, vez que o laudo pericial, estribado no autorizada método comparativo direto de avaliação, bem apurou a indenização do imóvel (fls. 20/31) descrito na exordial. Cumpre, neste particular, registrar que o fato de outros imóveis terem sido extrajudicialmente alienados por valores inferiores aos vertentes em nada ratifica eventuais criticas ao laudo pericial definitivo (fls. 448/517). É que na seara extrajudicial as partes estão livres à plena negociação, fraqueando-se, a cada qual, pactuar o preço que reputar melhor. Em juízo, mormente à luz das previsões do Decreto-Lei n° 3365/41, impõe-se a avaliação pericial que, não raro, refletirá os valores praticados no mercado, não deixando espaços à transação ente os litigantes. Logo, eventuais acordos extrajudiciais, conquanto deitem suas raízes sobre imóveis do mesmo edifício, em nada abonam as impugnações da expropriante.
+    […]
+    Em suma: o laudo pericial (fls. 448/517) bem avaliou o objeto da expropriação vertente, fundamentando adequadamente os parâmetros pelos quais alvejou o valor da "justa e prévia indenização". Assim sendo, em que pese a argumentação dedilhada pelos assistentes técnicos dos apelantes (fls. 325/348, 352/419, 533/547 e 586/686), há que se agasalhar as conclusões sacadas pelo arpem judicial.
+    […]
+    Compulsando os autos, extrai-se que, no caso vertente, o valor integral da indenização, a ser pago pela desapropriação do imóvel, descrito às fls. 20/31, foi depositado em juízo antes da imissão da expropriante na sua posse. Com efeito, o depósito judicial foi concretizado (fls. 124, 743 e 763) logo após a juntada dos esclarecimentos do expert judicial (fls. 707/727). Por seu turno, a imissão na posse (fs. 769) ocorreu, apenas, depois de efetivado o depósito judicial que englobou a integralidade da indenização aquilatada.
+    Estando, o quantum indenizatório apurado, custodiado em conta vinculada ao juízo, impossível é a cominação dos juros moratórios e compensatórios. Com efeito, sendo o depósito judicial efetivado antes da imissão na posse, não suporta o expropriado, ora apelado, quais quer ônus, pois, esse montante — além de tempestivamente pago - será corrigido, mensalmente, pela instituição financeira depositária, no caso, o Banco do Brasil.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, a partir de quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 5 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
