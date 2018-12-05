@@ -1,0 +1,22 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DO TRABALHO E JUÍZO EMPRESARIAL. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA A PRÁTICA DE ATOS DE EXECUÇÃO. EXECUÇÃO. BENS DOS SÓCIOS. CONFLITO. NÃO OCORRÊNCIA.
+1 - O processamento de execução trabalhista em face dos bens dos sócios da empresa em recuperação judicial, que não estejam abrangidos para o cumprimento do plano de recuperação, não invade a esfera de competência do juízo cível por inexistir dois juízos distintos a decidir sobre o mesmo patrimônio. Precedentes.
+2 - Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para prosseguimento de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+3 - Conflito parcialmente conhecido. Estabelecida a competência do juízo da recuperação judicial.
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por MELO MACHADO CONSTRUTORA EIRELI - EM RECUPERAÇÃO JUDICIAL em face do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE VARGINHA - MG e dos JUÍZOS DA 1ª E DA 2ª VARAS DO TRABALHO DE VARGINHA - MG.
+Ação em trâmite no Juízo da 3ª Vara Cível de Varginha - MG: recuperação judicial da suscitante.
+Ações em trâmite nos Juízos do Trabalho: reclamatórias trabalhistas ajuizadas em face da suscitante.
+Conflito de competência: alega a suscitante, em síntese, que os juízos trabalhistas não detêm competência para a prática de atos que impliquem restrição ao patrimônio de sociedade em processo de recuperação judicial.
+Pedido Liminar: foi deferido às fls. 79/80, e-STJ.
+Informações dos juízos suscitados: o Juízo da 1ª Vara do Trabalho de Varginha - MG informou que, após notícia da recuperação judicial da suscitante, foi desconsiderada a personalidade jurídica da empresa e o prosseguimento da execução se deu somente em desfavor dos sócios e de outras empresas do grupo econômico (fls.93/95, e-STJ). O Juízo da 2ª Vara do Trabalho de Varginha informou que em razão da ausência de licitantes ao leilão de bem penhorado da empresa recuperanda, determinou a desconsideração da personalidade jurídica para inclusão do seu sócio. O Juízo Universal informou que a recuperação judicial encontra-se em regular andamento.
+Parecer do MPF: o i. Subprocurador-Geral da República, [NOME], opina pela competência do juízo universal.
+RELATADO O PROCESSO, DECIDO.
+Depreende-se dos documentos colacionados aos autos que o processo de recuperação judicial da empresa suscitante está em regular andamento perante o Juízo de Direito da 3ª Vara Cível de Varginha, mas que seus efeitos não foram estendidos a seus sócios ou a outra empresas pertencentes ao grupo econômico.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que "os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da última norma" (EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015).
+Na hipótese, portanto, não compete ao juízo trabalhista interferir no acervo patrimonial da suscitante, motivo pelo qual o conflito deve ser acolhido com relação aos bens da empresa recuperanda.
+Por outro lado, é preciso destacar que a jurisprudência da Segunda Seção do STJ é pacífica no sentido de que  a justiça do trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face de empresa a ele pertencente (AgInt no CC 144.788/RJ, Rel. Min. MARCO BUZZI, DJe 19/12/2016. Sem destaque no original.).
+Como salientado pelo Juízos da 2ª Vara do Trabalho de Varginha - MG há, tanto constrições ao patrimônio da empresa suscitante, como também com relação a bens pertencentes ao sócio da empresa em razão da desconsideração da personalidade jurídica.
+Assim, com relação ao patrimônio dos sócios, ausente decisão de juízos distintos sobre esses bens, não há configuração do conflito.
+Forte nessas razões, CONHEÇO PARCIALMENTE do conflito de competência para declarar a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE VARGINHA - MG para decidir acerca da prática de atos constritivos somente sobre o patrimônio da suscitante em recuperação judicial.
+Publique-se. Intime-se. Comunique-se aos juízos suscitados.
