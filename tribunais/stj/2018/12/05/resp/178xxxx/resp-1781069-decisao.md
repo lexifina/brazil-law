@@ -1,0 +1,19 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Cuida-se de recurso especial manejado pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que, por unanimidade, negou provimento ao agravo de instrumento, resumido da seguinte forma:
+PROGRAMA ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA - PERT. LEI 13.496/17. ART. 6º, §2º. DEPÓSITOS JUDICIAIS. PAGAMENTO À VISTA.
+REDUÇÕES. CONVERSÃO EM RENDA.
+Fere o princípio da isonomia e da razoabilidade a exigência de que o valor do depósito vinculado à ação judicial seja utilizado para o pagamento integral da dívida, aplicando-se as reduções previstas na Lei 13.496/17 apenas para eventual saldo devedor.
+A recorrente alega ofensa aos arts. 6º da Lei nº 13.496/2017 e 111 do CTN e sustenta, em síntese, que apenas os débitos não quitados pelo depósito judicial poderão ter sobre si aplicados os descontos dos arts. 2º e 3º da Lei em comento. Alega que os benefícios fiscais devem ser literalmente interpretados, nos termos do art. 111, do CTN e do REsp 1407274/SE. Aduz que o acórdão recorrido, ao permitir o levantamento do depósito e determinar a validação imediata dos pagamentos efetuados pelo contribuinte para o PERT autorizou, de forma contrária ao estabelecido pela legislação em tela, o uso do depósito para pagamento do PERT com a incidência dos descontos.
+Requer o conhecimento e o provimento do recurso especial.
+Sem contrarrazões.
+Admitido o recurso especial na origem, subiram os autos a esta Corte e vieram-me conclusos.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece conhecimento.
+Primeiramente, registro que o art. 111 do CTN não foi objeto de análise pelo acórdão recorrido, o que impossibilita o conhecimento do recurso especial em relação a ele por ausência de prequestionamento a atrair a Súmula nº 282 do STJ.
+Quanto ao mais, o acórdão recorrido negou provimento ao agravo de instrumento por entender que, sendo o PERT um programa de regularização tributária, que possibilita uma parte do pagamento à vista e o saldo parcelado com reduções, fere o princípio da isonomia e da razoabilidade a exigência de que o valor do depósito vinculado à ação judicial seja utilizado para o pagamento integral da dívida, aplicando-se as reduções previstas na Lei 13.496/17 apenas para eventual saldo devedor. Entendeu, também, que a apropriação integral do depósito judicial prejudica o contribuinte que garantiu o débito em dinheiro e favorece aquele que nada garantiu ou que se valeu de outras garantias, e que a exigência da alocação do valor depositado, caso seja maior do que a dívida incluída, implicaria pagamento integral à vista e sem qualquer benefício para o sujeito passivo, mas apenas para a Fazenda Pública por conta da desistência da ação judicial renunciada.
+Da análise da petição de recurso especial de fls. 41-44 e-STJ, verifica-se que a recorrente não impugnou os supracitados fundamentos do acórdão recorrido, os quais são suficientes para mantê-lo, o que impossibilita o conhecimento da irresignação, haja vista a incidência da Súmula nº 283 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
