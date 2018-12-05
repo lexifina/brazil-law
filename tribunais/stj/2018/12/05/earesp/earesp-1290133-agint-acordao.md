@@ -1,0 +1,77 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. EMBARGOS DE DECLARAÇÃO NA INSTÂNCIA A QUO JULGADOS SEM PRÉVIA INTIMAÇÃO DA PAUTA DE JULGAMENTO. INEXISTÊNCIA DE NULIDADE. NÃO DEMONSTRAÇÃO DE PREJUÍZO.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O acórdão recorrido que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+5. A uníssona jurisprudência desta eg. Corte é no sentido de que a falta da prévia intimação para sessão de julgamento não acarreta nulidade do julgamento de embargos de declaração, pois não é cabível sustentação oral.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interposto por [NOME] contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera para, nessa parte, negar-lhe provimento.
+Ação: de reparação por danos materiais, ajuizada por [NOME], em face de UNIMED BRASÍLIA COOPERATIVA DE TRABALHO MÉDICO (interessada), VICENTE DE PAULO CRUZ JUNIOR e [NOME], na qual relata que obteve o direito de reintegrar-se na posse de equipamentos hospitalares que se encontravam com o agravante e os interessados, mas nunca conseguiu encontrar os bens. Pleiteia sejam o agravante e os interessados condenados ao pagamento de reparação por dano material.
+Sentença: julgou procedente o pedido, para condenar o agravantes e os interessados, solidariamente, a pagar ao agravado "o valor dos equipamentos conforme lista à fl. 284, bem assim ressarcir os lucros cessantes calculados conforme a Tabela à fl. 1.505, reduzida em 50% e mediante o decote de 33/39 do valor da diária de UTI".
+Acórdão: deu parcial provimento à apelação interposta pelo agravante e pelo interessado, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO INDENIZATÓRIA. CONVERSÃO EM DANOS MATERIAIS, DECORRENTES DO DESCUMPRIMENTO DA OBRIGAÇÃO DE RESTITUIÇÃO DE EQUIPAMENTOS HOSPITALARES RECONHECIDA NA REINTEGRAÇÃO DE POSSE 2000.01.1.032083-4. VENDA A NON DOMINO DE EQUIPAMENTOS HOSPITALARES DE PROPRIEDADE DO AUTOR. AGRAVO RETIDO.
+PRESCRIÇÃO. CERCEAMENTO DE DEFESA. RESPONSABILIDADE CIVIL. LUCROS CESSANTES. HONORÁRIOS. AGRAVO RETIDO IMPROVIDO. APELAÇÃO PARCIALMENTE PROVIDA.
+1. Trata-se de ação pela qual o autor pleiteou converter em danos materiais o direito de receber equipamentos hospitalares, reconhecido na ação de reintegração de posse 2000.01.1.032083-4, que tramitou perante a 14" Vara Civel de Brasília. 1.1. Na sentença, o pedido foi julgado parcialmente procedente, para condenar os réus ao pagamento de danos emergentes e lucros cessantes. 1.2. Os réus reiteram o julgamento do agravo retido, suscitando prejudicial de mérito e cerceamento de defesa. No mérito, pedem o afastamento do dever de indenizar e afirmam que os lucros cessantes não foram comprovados. Pedem ainda a redução do valor dos honorários.
+2. Rejeitada a prejudicial de mérito. 2.1. 0 prazo prescricional da pretensão de reparação de danos, causada pela não restituição dos referidos equipamentos, foi interrompido com a propositura da ação de reintegração de posse, tendo iniciado seu decurso somente após o transito em julgado do feito, que ocorreu em junho de 2010. 2.2. Considerando que o prazo prescricional para a pretensão de reparação civil é de três anos (art. 206, §3, V, CC), a ação de reparação de danos materiais poderia ter sido protocolada até junho de 2013. 2.3. Portanto, a presente ação foi protocolada tempestivamente em 9/3/2012.
+3. Afastada a preliminar de cerceamento de defesa. 3.1. A prerrogativa prevista no art. 370 do Código de Processo Civil dispõe de forma clara que "Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito. Parágrafo único. O juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias ".
+4. Quanto ao mérito, os recorrentes pretendem rediscutir matéria já decidida e protegida pelo manto da coisa julgada, pois na ação de reintegração de posse 2000.01.1.032083-4 foi reconhecida a obrigação dos recorrentes em restituir os materiais ao autor.
+5. Nos termos do art. 461, §1º do CC. A obrigação em reparar os danos materiais, no caso dos autos, deve ser convertida em perdas e danos, tendo em vista a impossibilidade da restituição dos bens ao demandante.
+6. Nos termos do art. 402 do Código Civil, as perdas e danos são gênero, da qual são espécies os danos emergentes (prejuízos efetivos) e os lucros cessantes (o que se deixou de ganhar). 6.1. Inexiste dúvida de que os equipamentos de UTI geram potencialidade de ganhos, pois poderiam ser alugados pelo valor estimado mediante prova pericial.
+7. Honorários reduzidos para 10% da condenação.No caso, trata-se de ação indenizatória que, apesar de volumosa, não apresentou grande complexidade, circunstância que concorre para diminuir o esforço argumentativo do patrono.
+Ante o exposto, na hipótese vertente, o processo demonstra notória simplicidade que realmente não justifica a fixação dos honorários no importe de 15% do valor da condenação.
+8. Agravo retido improvido e apelação parcialmente provida. (e-STJ Fls.
+1.853/1.855)
+Embargos de declaração: interpostos pelo agravante e pelo interessado, foram rejeitados.
+Recurso especial: alega violação dos arts. 272, § 2º, do cpc/15; 325, 461, § 1º, 467, 468, 470 e 474 do CPC/73; 206, § 3º, 402 e 403 do CC, bem como dissídio jurisprudencial. Sustenta a ocorrência de nulidade absoluta em virtude da publicação da intimação da data da sessão de julgamento dos embargos de declaração não constar o nome do advogado signatário do recurso. Insurge-se contra o pagamento de indenização por lucros cessantes, sob o fundamento de que a regra inserta no art. 461, § 1º, do CPC/73 não abarca situações fáticas pretéritas ao momento processual de assegurar a tutela jurisdicional específica. Aduz que a questão prejudicial debatida na ação de reintegração de posse não está acobertada pela coisa julgada material, de modo que o Tribunal de origem não poderia ter limitado a cognição acerca dos pressupostos e requisitos necessários para a incidência da responsabilidade civil na espécie. Assevera que a pretensão do agravado encontra-se fulminada pela prescrição. Insurge-se, ainda, contra a condenação ao pagamento de reparação por dano material, eis que o nexo de causalidade não foi devidamente demonstrado pelo agravado.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial que interpusera para, nessa parte, negar-lhe provimento.
+Agravo interno: nas razões do presente recurso, o agravante afirma que as razões recursais foram devidamente fundamentadas, de forma a afastar a aplicação da Súmula 284/STF à espécie. Sustenta que os dispositivos arrolados foram prequestionados na origem. Aduz ser desnecessário o revolvimento do acervo fático-probatório carreado aos autos para o deslinde da controvérsia. Assevera que o dissídio jurisprudencial foi demonstrado mediante a realização do cotejo analítico entre o acórdão recorrido e o paradigma. Alega que a hipótese em análise difere da jurisprudência colacionada na decisão agravada, sendo indevida a aplicação da Súmula 568/STJ à espécie.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. EMBARGOS DE DECLARAÇÃO NA INSTÂNCIA A QUO JULGADOS SEM PRÉVIA INTIMAÇÃO DA PAUTA DE JULGAMENTO. INEXISTÊNCIA DE NULIDADE. NÃO DEMONSTRAÇÃO DE PREJUÍZO.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O acórdão recorrido que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+5. A uníssona jurisprudência desta eg. Corte é no sentido de que a falta da prévia intimação para sessão de julgamento não acarreta nulidade do julgamento de embargos de declaração, pois não é cabível sustentação oral.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada foi assim fundamentada, na parte em que impugnada pelo agravante:
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 461, § 1º, do CPC/73, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 325, 467, 468, 470 e 474 do CPC/73 e 403 do CC, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inocorrência da prescrição da pretensão do agravado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Outrossim, alterar o decidido no acórdão impugnado, no que se refere ao cabimento de lucros cessantes à hipótese dos autos, tendo em vista que a venda dos materiais de propriedade do agravado para terceiro resultou na subtração da renda que este poderia obter, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+- Da Súmula 568/STJ
+O TJDFT, ao decidir que o erro material da intimação para sessão de julgamento não acarreta nulidade do julgamento dos embargos, em razão da ausência de prejuízo, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: EDcl nos EDcl no AgRg no REsp 1276096/PR, Terceira Turma, Dje de 23/04/2015 e AgInt nos Edcl no AREsp 885.949/SC, Quarta Turma, Dje de 06/04/2018.
+Forte nessas razões, CONHEÇO dos agravos e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE dos recursos especiais interpostos por VICENTE DE PAULO CRUZ JUNIOR e [NOME] e, nessa extensão, NEGO-LHES PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, condeno cada agravante, a título de honorários recursais, ao pagamento de mais R$ 1.000,00 (mil reais) em favor do procurador da parte agravada.
+Publique-se. Intimem-se. (e-STJ Fls. 2.236/2.238)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da ausência de prequestionamento
+Os arts. 325, 467, 468, 470 e 474 do CPC/73 e 403 do CC não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+O tema inserto nos artigos supramencionados, tidos como violados no recurso especial, não foi objeto de debate no acórdão recorrido nem no aresto que julgou os embargos de declaração. Caso de aplicação da Súmula 211/STJ.
+Nessa hipótese, para viabilizar o conhecimento do recurso especial, caberia ao agravante alegar ofensa ao art. 535 do CPC/73. Ressalto ainda que, nos termos da reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir por sua aplicação ou afastamento em relação a cada caso concreto, o que não se deu na espécie.
+2. Da fundamentação deficiente
+No que tange à fundamentação deficiente, o agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa ao art. 461, § 1º, do CPC/73.
+Sendo assim, é de rigor a manutenção da Súmula 284/STF à hipótese dos autos.
+3. Do reexame de fatos e provas
+A incidência da Súmula 7/STJ deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido, no que se refere à inocorrência da prescrição da pretensão do agravado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Permanece, ainda, a incidência da Súmula 7/STJ no que se refere ao cabimento de lucros cessantes à espécie, tendo em vista que alteração da premissa de que a venda dos materiais de propriedade do agravado para terceiro resultou na subtração da renda que este poderia obter, exige o reexame de fatos e provas, o que é vedado em recurso especial pela mencionada súmula.
+4. Da divergência jurisprudencial
+Quanto ao dissídio jurisprudencial, verifica-se que entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+5. Da Súmula 568/STJ
+De fato, o TJDFT, ao decidir que o erro material da intimação para sessão de julgamento não acarreta nulidade do julgamento dos embargos, em razão da ausência de prejuízo, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: EDcl nos EDcl no AgRg no REsp 1276096/PR, Terceira Turma, Dje de 23/04/2015 e AgInt nos Edcl no AREsp 885.949/SC, Quarta Turma, Dje de 06/04/2018.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
