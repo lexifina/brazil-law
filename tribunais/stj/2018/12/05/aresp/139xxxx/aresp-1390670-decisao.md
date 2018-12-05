@@ -1,0 +1,13 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DECISÃO PROFERIDA EM LIQUIDAÇÃO DE SENTENÇA. RECURSO CABÍVEL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por Caixa de Previdência dos Funcionários do Banco do Nordeste do Brasil - CAPEF, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fl. 1.665):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. Decisão que encerra a liquidação de sentença. Interposição de recurso de apelação. Via recursal eleita inadequada.
+Inteligência do parágrafo único, do artigo 1.015, do CPC/2015. Assim sendo, a decisão proferida na fase de cumprimento de sentença, o recurso cabível é o agravo de instrumento, exceto quando esta importar em extinção da execução, hipótese na qual caberia apelação. Precedentes deste Tribunal e do Superior Tribunal de Justiça. Agravo interno a que se nega provimento.
+Nas razões do recurso especial, alegou a entidade previdenciária violação do art. 509, § 4º, do CPC/2015, sustentando, em síntese, que a liquidação de sentença foi decidida com base em cálculos periciais equivocados, que "resultaram na majoração da quantia de R$ 3.078.823,90 (três milhões, setenta e oito mil, oitocentos e vinte e três reais e noventa centavos), eis que elaborados em sentido contrário aos termos da coisa julgada" (e-STJ, fl. 1.682).
+Contra-arrazoado, o recurso não foi admitido, ensejando a interposição do presente agravo, ao qual foi oferecida contraminuta.
+Brevemente relatado, decido.
+No caso, o Tribunal estadual negou provimento ao agravo interno interposto pela ora recorrente, com amparo no art. 1.015, parágrafo único, do CPC/2015, ao entendimento de que, contra decisão proferida na fase de cumprimento de sentença, "o recurso cabível é o agravo de instrumento, exceto quando esta importar em extinção da execução, hipótese na qual caberia apelação" (e-STJ, fl. 1.666).
+Ocorre que, nas razões do recurso especial, a entidade previdenciária limita-se a reeditar os argumentos por ela deduzidos para infirmar as conclusões do laudo elaborado pelo perito judicial, sem impugnar, especificamente, o fundamento do acórdão recorrido acima transcrito - que acarretou o não-conhecimento de sua apelação -, atraindo a incidência à hipótese do óbice da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
