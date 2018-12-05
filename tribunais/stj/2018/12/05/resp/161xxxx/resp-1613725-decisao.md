@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Agência Nacional de Transportes Terrestres - ANTT, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. CND. CAUÇÃO SEGURO-GARANTIA.
+Segundo precedentes deste Tribunal Regional Federal, a prestação de seguro garantia judicial, desde que integral, constitui garantia presumidamente idônea, na medida em que guarda equivalência em dinheiro com valor que se pretende caucionar. O fato de o débito em debate não possuir natureza tributária, mas sim, administrativa, não obsta a aplicação do entendimento supra.
+A ementa acima transcrita foi consignada após a interposição de embargos de declaração pelo ora recorrido, onde foi observada a retificação acima explicitada.
+Os embargos declaratórios da ANTT foram acolhidos tão somente para fins de prequestionamento.
+No presente recurso especial, o recorrente aponta violação do art. 151, II do CTN, afirmando, em síntese, que a exigibilidade do crédito tributário somente pode ser suspensa com o depósito do montante integral do débito.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A partir da edição da Lei Complementar n. 104, de 10/1/2001, que acrescentou o inciso V, ao artigo 151 do Código Tributário Nacional, foi autorizada a suspensão da exigibilidade do crédito tributário via medida liminar ou tutela antecipada, em outras espécies de ação judicial.
+Nesse panorama, tratando-se de suspensão da exigibilidade conferida via tutela antecipada, onde foi permitida a garantia da execução por seguro garantia, em conformidade com a nova redação do art. 9, II, da Lei n. 6.830/1980, não se faz impositiva a substituição da garantia por dinheiro, haja vista a prévia concessão da referida tutela antecipada.
+Nesse sentido, destacam-se os seguintes julgados, verbis:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SUSPENSÃO DE EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. LIMINAR. AÇÃO CAUTELAR. CABIMENTO. ART. 151, V, DO CTN.
+I - A partir da edição da Lei Complementar nº 104, de 10 de janeiro de 2001, ao artigo 151 do Código Tributário Nacional foi acrescentado o inciso V, que autoriza a suspensão da exigibilidade do crédito tributário via medida liminar ou tutela antecipada, em outras espécies de ação judicial. Precedentes: REsp nº 524.962/SC, Rel. Min. LUIZ FUX, DJ de 15/03/2004; REsp nº 575.867/CE, Rel. Min. TEORI ALBINO ZAVASCKI, DJ de 25/02/2004; AGA nº 517.989/DF, Rel. Min. JOSÉ DELGADO, DJ de 15/12/2003; AGREsp nº 228.792/CE, de minha relatoria, DJ de 30/06/2003 e REsp nº 153.633/SP, Rel. Min. FRANCIULLI NETTO, DJ de 01/07/2002.
+II - Por não se tratar de deferimento de compensação, mas de mera suspensão da exigibilidade do crédito tributário, não se aplica a Súmula nº 212 deste Tribunal, segundo a qual "a compensação de créditos tributários não pode ser deferida por medida liminar", nem o artigo 170-A do CTN, com a redação conferida pela LC nº 104/2001, segundo o qual "é vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial".
+III - Agravo regimental improvido.
+(AgRg no AgRg no REsp n. 668.389/CE, Rel. Ministro Francisco Falcão, Primeira Turma, julgado em 22/2/2005, DJ 21/3/2005, p. 279.)
+EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO NÃO CONFIGURADA. ART. 151 DO CTN. TRANSCURSO DO PRAZO PRESCRICIONAL DO ART. 174, DO CTN.
+1. Contrariamente ao expresso no acórdão regional, somente com a vigência da LC 104/2001, em que foi incluso o inciso V ao art. 151, do CTN, admitiu-se a hipótese de suspensão da exigibilidade do crédito tributário, mediante tutela antecipada ou medida liminar, em outras espécies de ação judicial.
+2. De igual modo: "A partir da edição da Lei Complementar nº 104, de 10 de janeiro de 2001, ao artigo 151 do Código Tributário Nacional foi acrescentado o inciso V, que autoriza a suspensão da exigibilidade do crédito tributário via medida liminar ou tutela antecipada, em outras espécies de ação judicial. Precedentes: REsp nº 524.962/SC, Rel. Min. LUIZ FUX, DJ de 15/03/2004; REsp nº 575.867/CE, Rel. Min. TEORI ALBINO ZAVASCKI, DJ de 25/02/2004; AGA nº 517.989/DF, Rel. Min. JOSÉ DELGADO, DJ de 15/12/2003; AGREsp nº 228.792/CE, de minha relatoria, DJ de 30/06/2003 e REsp nº 153.633/SP, Rel. Min. FRANCIULLI NETTO, DJ de 01/07/2002.". (AgRg no AgRg no REsp 668.389/CE, Rel. Min. Francisco Falcão, DJ de 23/5/2005).
+3. Dessa forma, os créditos estão prescritos, pois não obedeceram o prazo prescricional. A recorrente entregou as declarações em 2001 e 2002, e a ação somente foi ajuizada em 2013.
+4. Recurso Especial provido.
+(REsp n. 1.691.824/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2017, DJe 23/10/2017.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
