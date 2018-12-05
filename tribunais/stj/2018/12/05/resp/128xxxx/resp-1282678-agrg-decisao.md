@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME], em face da decisão de fls. 470-473, e-STJ, que negou provimento ao recurso especial.
+Nas razões de fls. 476-485, e-STJ, alega que: a) o juízo formulado por esta Corte deveria circunscrever-se à divergência jurisprudencial, nos termos da decisão de admissibilidade formulada pelo Tribunal a quo; b) encontrava-se em tratamento médico para câncer no momento da resilição do contrato; c) a agravada não demonstrou o dissídio jurisprudencial.
+Não foi apresentada impugnação (fls. 1107, e-STJ).
+É o relatório.
+Decido.
+1. Inicialmente, reconsidero a decisão de fls. 470-473, e-STJ, exclusivamente no que toca à alegada violação ao art. 13 da Lei 9.656/98, na oportunidade julgada procedente.
+2. Antes, porém, que se discorra acerca do mérito da controvérsia originária, refuta-se a questão preliminar suscitada pela agravante, atinente à impossibilidade de conhecimento do recurso especial pela alínea "a" do permissivo constitucional.
+No ponto, destaca-se que, de acordo com a pacífica jurisprudência do STJ, a admissão do apelo nobre pelo Tribunal a quo tão somente por uma das alíneas do art. 105 da Constituição da República não obsta o amplo conhecimento do recurso por parte do STJ, nos termos da Súmula 292 e 528 do STF. Precedentes:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM SUSTAÇÃO DE PROTESTO E INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA AUTORA.
+1. Nos termos da Sumula 292 do STF, a admissão do recurso especial por uma das alíneas do permissivo constitucional não prejudica o seu conhecimento por qualquer dos outros. O caso apresentado, contudo, não se enquadra na hipótese, haja vista que a decisão monocrática aplicou óbices impeditivos de exame da controvérsia por ambas as alíneas do permissivo constitucional.
+2. A admissibilidade do recurso especial pressupõe que tenha o recorrente desenvolvido uma argumentação lógica e jurídica apta a demonstrar de que forma se deu a suposta vulneração do dispositivo legal, o que não ocorreu na hipótese ora em foco, haja vista ter o recorrente se limitado a afirmar, genericamente, que a parte ex adversa não teria produzido uma única prova acerca do seu desconhecimento sobre o negócio jurídico que deu origem aos cheques e de sua posterior resilição.
+3. Somente em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da verba honorária, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão da quantia fixada. No presente caso, não se evidencia hipótese que autorize a pleiteada redução, haja vista ter sido estipulada com moderação e razoabilidade em R$ 3.000,00 (três mil reais).
+4. A conclusão da Corte local acerca da boa-fé e ausência de conhecimento da relação negocial pelo banco recorrido, portador do cheque, decorreu de convicção formada em face dos elementos fáticos e probatórios dos autos. Rever o entendimento implicaria reexame de provas, hipótese vedada pela Súmula 7 deste Superior Tribunal de Justiça.
+5. A análise dos depoimentos das partes demandaria o reexame de fatos e provas, procedimento vedado no âmbito desta Corte Superior.
+6. Agravo regimental desprovido.
+(AgRg no AREsp 523.964/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/09/2015, DJe 11/09/2015)
+AGRAVO REGIMENTAL EM FACE DE DECISÃO PROLATADA NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO PROLATADA, NA ORIGEM, ADMITINDO, POR UM DOS FUNDAMENTOS RECURSAIS, O RECURSO ESPECIAL, AINDA QUE COM A INVOCAÇÃO DE DECISÃO PROLATADA EM SEDE DE RECURSO REPETITIVO. CONFORME ENTENDIMENTO CONSOLIDADO NO STJ, DECISÃO DO TRIBUNAL DE ORIGEM QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL, INVOCANDO O ART. 543-C, § 7º, I, DO CPC, EXIGE A INTERPOSIÇÃO, NA ORIGEM, DE AGRAVO REGIMENTAL. NO ENTANTO, NAS HIPÓTESES DE ADMISSÃO DO RECURSO ESPECIAL, O PRIMEIRO JUÍZO DE ADMISSIBILIDADE FICA SUPERADO. SÚMULAS 292 E 528/STF.
+1. É bem verdade que, consoante a iterativa jurisprudência do STJ, nas hipóteses em que o apelo nobre tenha tido o trânsito negado com base em aplicação de tese firmada em recurso especial representativo de controvérsia repetitiva, o recurso a ser interposto é o agravo regimental para o Tribunal de origem.
+2. Ademais, com a edição da Lei n. 12.322, de 9 de setembro de 2010, que transformou o agravo de instrumento em face de decisão que não admite recurso especial em agravo nos próprios autos, o legislador incorporou ao texto legal o entendimento há muito sedimentado na jurisprudência desta Corte, firmado com amparo na doutrina sobre o tema. Com efeito, de acordo com o inciso I do § 4º do art. 544 do Código de Processo Civil, observa-se que é dever da parte agravante atacar especificamente todos os fundamentos da decisão do Tribunal de origem que nega trânsito ao recurso especial, sob pena de não conhecimento de sua irresignação.
+3. No entanto, o caso é absolutamente diverso, pois, na origem, foi conferido trânsito ao recurso especial, ficando superado o exame da decisão de admissibilidade, pois não vincula o relator nesta Corte, que promoverá novo exame do recurso especial.
+4. Por um lado, orienta a Súmula n. 292/STF que, interposto o recurso extraordinário por mais de um dos fundamentos, a admissão apenas por um deles não prejudica o seu conhecimento por qualquer dos outros. Por outro lado, a Súmula n. 528/STF, também aplicável por analogia ao recurso especial, esclarece que, se a decisão de admissibilidade do recurso excepcional contiver partes autônomas, a admissão parcial não limitará a apreciação de todas as demais questões pelo Tribunal de superposição.
+5. Agravo regimental não provido.
+(AgRg no REsp 1472853/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/08/2015, DJe 27/08/2015)
+Agravo regimental. Recurso especial admitido. Súmula nº 292/STF.
+1. Mesmo que admitido o especial por apenas um de seus fundamentos, todo o conteúdo da peça recursal fica sujeito ao exame do Superior Tribunal de Justiça, razão por que, ainda assim, seria desnecessária a interposição do presente agravo. Aplicação dos entendimentos consolidados nas Súmulas nºs 292 e 528/STF.
+2. Agravo regimental desprovido.
+(AgRg no Ag 551.472/RS, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 10/02/2004, DJ 05/04/2004, p. 261)
+Assim, não há vedação de análise do recurso especial manejado pela ora agravada sob o prisma das alíneas "a" e "c" do permissivo constitucional.
+3. De igual modo, não subsiste a alegada ausência de cotejo analítico no bojo do recurso especial manejado pela ora agravada.
+Com efeito, considerando-se que a apreciação do apelo por parte desta Corte ocorreu tanto pela alínea "a" quanto pela "c" do permissivo constitucional, eventual irregularidade na demonstração do dissídio em nada alteraria o entendimento então firmado, porquanto subsistente a possibilidade de reconhecimento da violação a dispositivo infralegal.
+Logo, inviável o reconhecimento da nulidade em testilha, nos termos da Súmula 283/STF, in verbis "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". Precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/1973. EXEGESE DO ART. 1.211 DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO NAS RAZÕES DO APELO NOBRE. ÓBICE DA SÚMULA 283/STF. PRONUNCIAMENTO SOBRE QUESTÃO NÃO DEVOLVIDA. "OBITER DICTUM".
+(..)
+3. Aplicação do óbice da Súmula 283/STF, segundo a qual: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Ocorrência de mero "obiter dictum" do Tribunal de origem acerca do termo final do efeito suspensivo dos embargos à execução.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1609649/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/11/2018, DJe 21/11/2018)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. LIMINAR. SUSPENSÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. CRÉDITOS GARANTIDOS FIDUCIARIAMENTE. EXCLUSÃO DO PROCEDIMENTO DE RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. DECISÃO MANTIDA.
+1. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1317401/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/11/2018, DJe 21/11/2018)
+4. Por outro lado, faz-se necessário o acolhimento da questão meritória suscitada no agravo regimental.
+Com efeito, em que pese reconheça a possibilidade de resilição unilateral imotivada dos contratos coletivos de plano de saúde, a jurisprudência desta Corte reputa abusiva a invocação de tal potestade no momento em que o beneficiário se submete a tratamento médico essencial à sua sobrevivência. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência. Nesse sentido: AgInt no AREsp 1.085.841/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe de 04/04/2018; AgInt no AREsp 1.072.700/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017; AgRg no AREsp 624.420/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/03/2015, DJe de 07/04/2015).
+2. Agravo interno não provido.
+(AgInt no AREsp 1274617/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 24/08/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PLANO DE SAÚDE. RESCISÃO UNILATERAL. PACIENTE EM TRATAMENTO. RECONHECIMENTO DE ILEGALIDADE. PRECEDENTES. SÚMULA 83/STJ. CONCLUSÃO DO ACÓRDÃO PELO DEVER DE REPARAÇÃO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de Justiça adotou solução em consonância com a jurisprudência desta Corte, concluindo pela configuração do dano moral decorrente de cancelamento unilateral de contrato de plano de saúde de paciente que se encontra em tratamento médico. Incidência da Súmula 83/STJ.
+2. Para rever a referida conclusão e analisar a tese de que o dano moral não está configurado, já assentado como comprovado pelo Tribunal de origem, seria inevitável a interpretação das cláusulas do contrato e o reexame do conjunto fático-probatório dos autos, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1072700/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL. POSSIBILIDADE. BENEFICIÁRIO EM TRATAMENTO. EXCEÇÃO. BOA-FÉ. DIVERGÊNCIA INTERNA. DECISÃO SINGULAR QUE, ADEMAIS, FOI RECONSIDERADA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA. ARTIGO 1.021, § 4º, DO CPC.
+1. "O plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009).
+2. Nada obstante, no caso de usuário internado, independentemente do regime de contratação do plano de saúde (coletivo ou individual), dever-se-á aguardar a conclusão do tratamento médico garantidor da sobrevivência e/ou incolumidade física para se pôr fim à avença" (AgInt no AREsp 885.463/DF, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/3/2017, DJe 8/5/2017).
+2. A indicação de decisão em sentido contrário ao julgado agravado, que foi reconsiderada, informação omitida pelo recorrente, demonstra tentativa de induzir em erro o colegiado e torna o recurso manifestamente inadmissível.
+3. Agravo interno a que se nega provimento, com aplicação de multa de 2% (dois por cento) sobre o valor da causa.
+(AgInt no AREsp 1085841/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe 04/04/2018)
+Na espécie, a necessidade de tratamento médico no momento da rescisão unilateral por parte da agravante restou consignada pelas instâncias ordinárias. Veja-se (fls. 308, e-STJ):
+O contrato do autor não era individual, mas coletivo.
+E continha cláusula que permitia a resilição unilateral, mediante aviso prévio.
+Não se ignoram a liberdade de contratar nem a força obrigatória dos contratos; também não se ignora que, em princípio, a vedação à resilição unilateral incide nos contratos individuais apenas; o mesmo se aplica ao fato de caber ao Estado, em princípio, oferecer serviços de saúde.
+Porém, devem ser consideradas as peculiaridades do caso concreto.
+Conforme é incontroverso nos autos (artigo 334, inciso III, do Código de Processo Civil), o autor tem idade avançada e sofre de doença grave.
+O autor necessita da cobertura, sob pena de risco de morte. Se o autor se associar a outro plano, deverá cumprir carência até agosto de 2.011, por sofrer de mal anterior a essa nova contratação.
+Isso, porém, deixará o autor em desamparo quando mais necessita de assistência.
+Nesses termos, afigura-se necessária a reconsideração da decisão de fls. 470-473, e-STJ, no que tange à apontada violação ao art. 13 da Lei 9.656/98.
+Logo, considerando-se que o entendimento disposto no acórdão recorrido alinha-se à pacífica jurisprudência do STJ sobre o tema, afigura-se inviável a admissão do recurso especial pela operadora AMESP SISTEMA DE SAÚDE LTDA., às fls. 386-398, e-STJ, à luz da Súmula 83/STJ.
+5. Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 470-473, e-STJ, no que toca à alegada ofensa ao art. 13 da Lei 9.656/98. Assim, na linha da argumentação acima exposta, nego provimento ao recurso especial de fls. 386-398, e-STJ.
+Publique-se.
+Intimem-se.
