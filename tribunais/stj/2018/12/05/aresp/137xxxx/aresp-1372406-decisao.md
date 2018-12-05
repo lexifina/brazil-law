@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HONORÁRIOS. MAJORAÇÃO.
+1. Ação monitória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FRANCO FABRIL ALIMENTOS LTDA, PADUA DINIZ ALIMENTOS LTDA - EM RECUPERACAO JUDIACIAL EM RECUPERACAO JUDICIAL e ADERBAL [NOME], contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/12/2017.
+Concluso ao gabinete em: 25/10/2018.
+Ação: monitória ajuizada pelo BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL em face dos agravantes, devido ao inadimplemento do contrato de financiamento, que após a liquidação extrajudicial do Banco Santos, sub-rogou-se nos créditos e garantias em favor do agente financeiro.
+Sentença: rejeitou os embargos e julgou procedente o pedido inicial, constituindo de pleno direito o título executivo judicial, com a obrigação de os réus pagarem a quantia de R$ 14.967.508,38 (quatorze milhões, novecentos e sessenta e sete mil, quinhentos e oito reais e trinta e oito centavos), apurada em outubro de 2006.
+Condenou, ainda, os réus ao pagamento das custas e despesas processuais, assim como de honorários advocatícios, que fixou em 10% (dez por cento) do valor do título formado, de acordo com os critérios contidos no artigo 20, § 4º, do Código de Processo Civil.
+Acórdão: negou provimento ao recurso interposto pelos agravantes, conforme a seguinte ementa:
+APELAÇÃO EM EMBARGOS À EXECUÇÃO. OPERAÇÃO DE CRÉDITO. BNDES. CDC. INEXISTE RELAÇÃO DE CONSUMO ENTRE AS PARTES. BANCO SANTOS. SUB-ROGAÇÃO, CONFORME ARTIGO 14 DA LEI 9.365/96. CLÁUSULAS ABUSIVAS. ARGUMENTO GENÉRICO.JUROS. COMISSÃO DE PERMANÊNCIA. APELAÇÃO NÃO PROVIDA.
+1. Depreende-se do contrato entabulado entre as partes que o serviço de credito tomado pela pessoa jurídica junto à instituição financeira tinha como finalidade o fomento da sua atividade empresarial, desenvolvimento da atividade lucrativa, de forma que a sua circulação econômica não se encerra nas mãos da pessoa jurídica, sociedade empresária. Não se verifica qualquer indício de vulnerabilidade na parte devedora.
+2. O BNDES se sub-rogou nos créditos e garantias do Banco Santos em virtude do disposto no artigo 14 da Lei 9.365/96, para o que corrobora a documentação acostada nos autos, demonstrando a relação com os recursos oriundos do BNDES, bem como a intervenção no Banco Santas.
+3. A mera alegação de encargos abusivos cobrados pela instituição financeira consubstancia argumentação vaga e genérica, e é tranqüilo o entendimento dos Tribunais Federais de que alegações como estas não permitem o reconhecimento de nulidade.
+4. Não há impedimento para que a taxa de juros seja cobrada em percentual superior a 12% ao ano, tratando-se de operações realizadas por instituição integrante do Sistema Financeiro Nacional.
+5. Não há empecilho na cobrança de comissão de permanência,desde que não cumulada com outros encargos. No caso dos autos, apesar de prevista contratualmente, a indevida cumulação não foi incluída no cálculo do valor devido.
+6. A multa pelo ajuizamento da ação, prevista na cláusula vigésima quarta, também não se mostra indevida. A cláusula penal é a cláusula que estipula as implicações econômicas em decorrência de uma ação ou omissão da parte contratante, tendo como finalidade estimular o cumprimento da obrigação caso ocorra à insatisfação desta.
+7. Apelação não provida.
+Recurso especial: alegam violação dos arts. 346, 347, 348, 389, 391, 394, 476, do Código Civil; 373, 514, 700, 784, 786, 787, 789, 793, 835, §3º, do CPC/15 (333, 572, 580, 582, 591, 594, 655, §1º, 1.012 - A do CPC/73) e 2º e 3º, §2º, do CDC. Insurgem-se contra decisão que entende no sentido de que a parte adversa é detentora de crédito. Asseveram que, na presente hipótese, não foi demonstrada a efetiva quitação da dívida nem a transferência dos direitos e deveres entabulados no contrato de financiamento agenciado pelo Banco Santos. Aduzem que não foi preenchido os requisitos para ajuizamento da ação monitória, tendo em vista a ausência de demonstração da existência de obrigação líquida e certa com a apresentação de documentos escrito e hábeis à comprovação da dívida excutida. Declaram que "a memória de cálculo apresentada é simplista e completamente incompreensível, a ponto de impossibilitar o real entendimento do raciocínio utilizado para a formação do valor final". Relatam que, em que pese o ajuizamento da ação monitória, não houve a constituição dos devedores em mora. Afirmam que a parte adversa não efetivou a necessária prestação de contas em relação a utilização dos valores garantidos pelas duplicatas oferecidas.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 346, 347, 348, 389, 391, 394, 476, do Código Civil; 373, 514, 784, 786, 787, 789, 793, 835, §3º, do CPC/15 (333, 572, 580, 582, 591, 594, 655, §1º, do CPC/73) e 2º e 3º, §2º, do CDC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere a à análise dos documentos acostados aos autos; a respeito de comprovação de quitação da dívida; no que concerne à demonstração de hipótese de sub-rogação, acerca do disposto no contrato, quanto à comprovação do financiamento com os recursos do BNDES, intermediado pelo Banco Santos; acerca do inadimplemento contratual; a respeito das condutas das partes; exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% (cinco por cento).
+Publique-se. Intimem-se.
