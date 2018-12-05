@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pelo CONSELHO REGIONAL DE FARMACIA DO EST DO RIO DE JANEIRO contra decisão, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 37):
+AGRAVO DE INSTRUMENTO CONHECIDO. EXECUÇÃO FUNDADA EM TÍTULO EXTRAJUDICIAL. SISTEMA INFOJUD. QUEBRA DE SIGILO FISCAL. EXCEPCIONALIDADE. PRINCÍPIO DA MENOR ONEROSIDADE. ESGOTAMENTO DAS DILIGÊNCIAS PARA LOCALIZAÇÃO DE BENS DO DEVEDOR. RECURSO DESPROVIDO.
+I - Agravo de Instrumento interposto contra Decisão Interlocutória que indeferiu o pedido de localização de bens por meio do sistema INFOJUD.
+II - A jurisprudência tanto do STJ, quanto do STF já reconheceu o caráter excepcional da medida que determina a expedição de ofícios à Secretaria da Receita Federal, com o fito de obter informações sigilosas sobre pessoas físicas e/ou jurídicas. Precedentes.
+III - Não obstante o mais moderno posicionamento da jurisprudência do STJ, no sentido de dispensar o esgotamento das diligências para a localização de bens penhoráveis do executado (Aglnt no REsp 1184039/MG, Rel. Min. Regina Helena Costa, 1a Turma, DJe 04/04/2017), não podemos perder de vista que a quebra de sigilo fiscal é medida de caráter extremo e excepcional e, por isto, somente seria cabível após a comprovação de que o exequente diligenciou suficientemente e sem sucesso no intuito de satisfazer o seu crédito. Precedentes desta Corte Regional.
+IV - Embora a execução se realize no interesse do credor, tal circunstância não o impede de, através de outros meios, buscar informações sobre o patrimônio do devedor, de modo que seja preservado o princípio da menor onerosidade, princípio este que encontra guarida no art. 805 do CPC.
+V - Agravo de Instrumento desprovido.
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação dos arts. 774, V, e 797 do Código de Processo Civil de 2015, dos arts. 198 e 199 do Código Tributário Nacional e dos arts. 10 e 11 da Lei n. 6.830/1980, defendendo que, atualmente, a utilização do sistema INFOJUD prescinde da realização de outras diligências extrajudiciais por parte do exequente para satisfazer os créditos executados.
+Decorrido o prazo legal sem oferecimento de contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 79/81).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 85/95).
+Não foi apresentada contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, verifico que a irresignação recursal merece prosperar.
+A Corte Especial do STJ, sob o rito do art. 543-C do CPC/1973, ratificou a compreensão de que, "após o advento da Lei n.º 11.382/2006, o Juiz, ao decidir acerca da realização da penhora on line, não pode mais exigir a prova, por parte do credor, de exaurimento de vias extrajudiciais na busca de bens a serem penhorados" (REsp 1.112.943/MA, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 15/09/2010, DJe 23/11/2010).
+As Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça têm se manifestado no sentido de que a supramencionada orientação também se aplica à utilização do sistema INFOJUD.
+Vejam-se os recentes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL. INFOJUD. INEXISTÊNCIA DE NECESSIDADE DE ESGOTAMENTO DAS BUSCAS POR BENS DO DEVEDOR.
+1. A jurisprudência do STJ é no sentido de que a utilização do sistema INFOJUD não está condicionada ao esgotamento de diligências.
+2. Sendo assim, o Tribunal a quo, ao concluir pelo esgotamento de diligencias para a utilização do sistema INFOJUD, decidiu em confronto com a jurisprudência desta Corte.
+3. Recurso Especial provido para permitir a utilização do sistema INFOJUD independentemente do esgotamento de diligências. (REsp 1667529/RJ, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 29/06/2017). (Grifos acrescidos).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PROVIDO. EXECUÇÃO FISCAL. PENHORA DE VALORES PELO BACENJUD. LEI N. 11.382/2006. DESNECESSIDADE DO ESGOTAMENTO DAS DILIGÊNCIAS NA BUSCA DE BENS. ADESÃO POSTERIOR A REGIME DE PARCELAMENTO. SUSPENSÃO DO CRÉDITO TRIBUTÁRIO. PRECEDENTES. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É desnecessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on line (sistemas BACEN-JUD, RENAJUD ou INFOJUD), em execução civil ou fiscal, após o advento da Lei n. 11.382/2006, com vigência a partir de 21/01/2007.
+III - É cediço o posicionamento neste Superior Tribunal de Justiça no sentido de que a manutenção da constrição, em virtude do parcelamento, dar ensejo somente à suspensão do crédito tributário e, não, à sua extinção.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no REsp 1.636.161/PE, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 11/05/2017). (Grifos acrescidos).
+Confira-se, ainda: AREsp 1.360.970, Relator Ministro SÉRGIO KUKINA, Data da Publicação: 28/09/2018; REsp 175.431, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Data da Publicação: 24/09/2018; e AREsp 1.352.722, Relatora Ministra ASSUSETE MAGALHÃES, Data da Publicação: 01/10/2018.
+Na espécie, a Corte de origem confirmou a decisão que indeferiu a utilização do sistema INFOJUD, sob o fundamento de que não ficou demonstrado o esgotamento de todas as diligências para a localização dos bens do devedor (e-STJ fl. 35), o que evidencia o descompasso do acórdão recorrido com a jurisprudência assentada no STJ.
+Ante o exposto, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, para garantir o prosseguimento da execução fiscal com a realização de diligência ao INFOJUD.
+Publique-se. Intimem-se.
