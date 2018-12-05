@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional em desafio a acórdão assim ementado (e-STJ fl. 226):
+Acidente do Trabalho - Execução - Pretensão de computar juros moratórios até a data de expedição do precatório - Demonstrativo de cálculo do depósito autárquico que noticia aplicação de juros moratórios até a data da inscrição - Sentença de extinção mantida. Nego provimento ao recurso.
+No especial obstaculizado, o recorrente apontou violação do art. 406 do Código Civil e art. 161, § 1º, do Código Tributário Nacional, postulando o pagamento de juros de mora no período entre a conta de liquidação e a expedição do precatório.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o julgado foi baseado em matéria fática, cuja alteração esbarra na Súmula 7 do STJ.
+Na presente irresignação, o agravante sustenta que não pretende o reexame de provas, mas apenas a aplicação da norma de regência.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal registro, verifico que não prospera a irresignação.
+"O interesse de agir é identificado pela análise do binômio necessidade-utilidade. Assim, a aludida condição da ação se faz presente quando a tutela jurisdicional se mostrar necessária à obtenção do bem da vida pretendido e o provimento postulado for efetivamente útil ao demandante, proporcionando-lhe melhora em sua situação jurídica." (REsp 1.584.614/CE, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 07/11/2018).
+O Tribunal a quo negou provimento à apelação sob os seguintes fundamentos (e-STJ fls. 227/229):
+Na verdade, ao que parece, de uma análise do demonstrativo juntado pelo INSS, o ente público aplicou, sim, juros moratórios até a data da inscrição do precatório, pois, na fase inicial do documento, foi lançado um valor de R$ 9.681,06, referente aos juros da conta original, sendo que, logo abaixo, o montante subiu para R$ 11.156,43, confirmando a tese de que após a conta, a autarquia continuou aplicando juros, mas, somente até junho de 2008, data da inscrição.
+Cumpre anotar que o exequente, em primeiro grau de jurisdição, lutava para defender suposto direito ao cômputo de juros moratórios até o dia do depósito, pois assim procedeu em seus cálculos (fl. 169).
+Contudo, em sede recursal, ao que consta, se insurgiu apenas e tão somente quanto à possibilidade de aplicar juros moratórios até a inscrição.
+Essa premissa poderia levar até mesmo ao não conhecimento do apelo, por falta de interesse em recorrer, pois, ao final, o ente público teria atuado exatamente como pedido no recurso. No entanto, diante da informação do auxiliar contábil de que o INSS não teria, nem mesmo, computado juros moratórios entre a data da conta e a inscrição, razoável admitir a discussão.
+No entanto, os elementos dos autos apontam para cômputo de juros moratórios até a data da inscrição, de modo que o INSS, neste processo, agiu com acerto e até mesmo da pretensão recursal.
+Já no que diz respeito aos índices de atualização, mais uma vez, razão não assiste ao apelante, pois o contador de primeiro grau informou que o ente público aplicou o IGP-DI até a inscrição do precatório e, após, IPCA-E, ausente, nas razões recursais, qualquer fundamento que pudesse comprovar o desacerto desse critério ou, ainda, prejuízo na sua aplicação.
+Dessa forma, a r. sentença que extinguiu a execução merecer ser mantida por seus próprios fundamentos.
+Assim, concluo pela ausência de interesse de agir da parte autora, porquanto pedido de pagamento de juros de mora no período entre a conta de liquidação e a expedição do precatório já fora atendido pelo INSS, conforme salientou o aresto impugnado.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se e intimem-se.
