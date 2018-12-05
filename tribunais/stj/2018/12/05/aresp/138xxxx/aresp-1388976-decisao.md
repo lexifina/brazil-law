@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. ALEGAÇÃO DE AFRONTA À SÚMULA 106 DO STJ. INVIABILIDADE. APLICAÇÃO DA SÚMULA 518/STJ. 2. PRESCRIÇÃO INTERCORRENTE. CONTEÚDOS NORMATIVOS DOS DISPOSITIVOS DE LEI FEDERAL ARROLADOS NAS RAZÕES DO RECURSO ESPECIAL QUE NÃO SÃO HÁBEIS A IMPUGNAR A MATÉRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e [NOME] contra decisão que não admitiu o processamento do recurso especial.
+Compulsando os autos verifica-se que a exceção de pré-executividade oposta por Itaú Unibanco S.A. foi acolhida para decretar a prescrição intercorrente da execução contra ele movida pelos ora agravantes.
+Irresignados, os exequentes interpuseram apelação, a qual foi desprovida pela Décima Nona Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, nos termos do acórdão assim ementado (e-STJ, fl. 480):
+EXECUÇÃO DE TÍTULO JUDICIAL - Prescrição intercorrente - Extinção - Recurso do exequente sob os argumentos de nulidade da r. sentença, não transcurso do prazo de cinco anos, irregularidades dirigidas apensamento indevido dos autos e equívocos na publicações dirigidas apenas à executada, imprescritibilidade da verba honorária executada, prequestionamento e pedido de concessão da gratuidade - Gratuidade deferida na fase de conhecimento, inexistindo novos elementos a revogá-la - Improcedência dos demais argumentos recursais - Prescrição intercorrente ocorrida - Período iniciado na data da primeira intimação para manifestação do exequente após infrutífera penhora on line - Recurso não provido.
+Nas razões do recurso especial, interposto com supedâneo na alínea a do permissivo constitucional, os recorrentes apontaram a existência de violação à Súmula 106/STJ e aos arts. 85 e 245, § 3º, do Código de Processo Civil de 2015; e 23 da Lei n. 8.096/1994 (Estatuto da Advocacia).
+Sustentaram, em síntese, não estar prescrita a pretensão de cobrança do saldo residual da execução de honorários, uma vez que a continuidade do feito executivo só ficou paralisada por mecanismos inerentes à justiça, haja vista o extravio dos autos, que decorreu de culpa exclusiva do cartório.
+Não admitido o processamento do apelo nobre na origem, as partes insurgentes interpõem o presente agravo.
+Brevemente relatado, decido.
+Cinge-se a controvérsia a aferir se, no presente caso, houve a consumação da prescrição intercorrente da pretensão de execução de honorários advocatícios.
+De início, cumpre esclarecer que o apontamento de ofensa a verbete sumular (Súmula 106/STJ, na espécie) não merece conhecimento, uma vez que, segundo a Súmula 518 do STJ, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Outrossim, constata-se que os conteúdos normativos dos dispositivos de lei federal arrolados nas razões do apelo extremo (arts. 85 e 245, § 3º, do CPC/2015; e 23 da Lei n. 8.096/1994) não são hábeis a amparar a tese relativa à prescrição, estando, desse modo, deficiente a fundamentação do recurso especial a atrair a aplicação da Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
