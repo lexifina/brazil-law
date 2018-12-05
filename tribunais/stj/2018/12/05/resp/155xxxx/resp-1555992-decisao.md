@@ -1,0 +1,24 @@
+EMENTA
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OFENSA AO ART. 535 DO CPC/73. VÍCIO NÃO ESPECIFICADO. SÚMULA Nº 284/STF. PROCEDIMENTO MÉDICO. DEVER DE INFORMAÇÃO. INOBSERVÂNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Para verificar a possível afronta ao art. 535 do CPC/73, é necessário que a parte recorrente indique especificamente qual o ponto acerca do qual deixou o tribunal a quo de se manifestar, sob pena de configurar deficiência na fundamentação recursal. Súmula nº 284/STF.
+2. A pretensão de verificar se observado o dever de informação pelo profissional médico somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+3. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME] com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo retido - Decisão que determinou a renovação da prova técnica - Inconformismo - Ausência de pedido expresso de exame do recurso interposto pelo réu - Inteligência do art. 523, § 1º, do CPC - Recurso não conhecido.
+Apelação - Responsabilidade civil - Ação indenizatória - Improcedência - Inconformismo - Acolhimento - Pretensão decorrente de suposta falha médica, por ocasião de intervenção cirúrgica - Elementos de convicção que evidenciam a ação culposa, na modalidade omissão, por insuficiência das informações prévias quanto aos riscos efetivos do procedimento cirúrgico - Ofensa à integridade física - Dever de indenizar (danos morais) configurado, porém, mitigado pelas circunstâncias do caso e da possibilidade de ocorrência de complicações - Verba reparatória fixada em R$ 20.000,00 - Sentença reformada - Recurso provido.
+Agravo retido interposto pelo réu não conhecido e apelo da autora provido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a recorrente ofensa aos seguintes dispositivos legais:
+a) art. 535, I e II, do CPC/73, sustentando a existência de vícios no acórdão recorrido; e
+b) art. 333, I e II, do CPC/73 e art. 14, § 4º, do Código de Defesa do Consumidor, além de dissídio pretoriano, por não existirem elementos de convicção suficientes para a condenação, tanto que indeferida o alegado erro médico.
+É o relatório.
+DECIDO.
+2. A admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, assim como em que medida teria o acórdão recorrido afrontado a cada um dos artigos impugnados o que, na espécie, no tocante à alegação de negativa de prestação jurisdicional, não ocorreu, porquanto a recorrente alega genericamente que houve ofensa ao art. 535, I e II, do CPC/73, sem, contudo, indicar precisamente em que consiste a eventual omissão, contradição ou obscuridade. Incide, na espécie, por analogia, o óbice da Súmula nº 284/STF.
+3. Por fim, quanto aos elementos de convicção - art. 333, I e II, do CPC/73 e art. 14, § 4º, do Código de Defesa do Consumidor, além de dissídio pretoriano, insta consignar que realmente foi o erro médico afastado, tendo o Tribunal, todavia, entendido que houve omissão quanto ao dever de informação, assim decidindo a Corte de origem:
+Aliás, a omissão do indispensável dever de informação é reforçada pela observação do experto de que não houve relato da intercorrência, na descrição cirúrgica, e que, mesmo após o imediato quadro clínico (boca torta) apresentado e indicativo da iatrogenia, "Não há informações sobre o motivo pelo qual o cirurgião não propôs nova cirurgia precocemente para a paciente." (fls. 876).
+Acontece que, a par da ausência de expressa informação desse risco, o experto apontou que a intervenção era imprescindível (cf. resposta ao quesito 4.2.20, fls. 759), daí mitigada a sugestão de que se fosse avisada das complicações, a apelante não se submeteria ao procedimento cirúrgico (fls. 919).
+Em outras palavras, se a intercorrência não pode ser exclusivamente atribuída à ação culposa do médico, forçoso concluir que a omissão de informação dos riscos e a ausência de imediata constatação da iatrogenia caracterizam o defeito do serviço e autorizam a responsabilização solidária do profissional e do plano de saúde (arte. 932, III, c.c. 942, par. ún  do CC, e art. 14, § 4º, do CDC), à vista do vínculo contratual entre eles, especialmente pela informação não impugnada de que se tratava do único especialista da rede credenciada (cf. segundo parágrafo, fls. 5). - fls. 1.082-1.083; grifei.
+Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula nº 7 do Superior Tribunal de Justiça.
+4. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
