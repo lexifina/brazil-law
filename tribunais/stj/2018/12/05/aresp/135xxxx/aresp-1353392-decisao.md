@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 83/STJ (e-STJ fls. 1.220/1.221).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.154):
+APELAÇÃO CÍVEL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - SUBSTABELECIMENTO - SEM RESERVAS - LEGITIMIDADE DO ADVOGADO/AUTOR - DESISTÊNCIA DA AÇÃO E REVOGAÇÃO UNILATERAL DO MANDATO, POR PARTE DO CLIENTE - APLICAÇÃO DOS PARÂMETROS DO ART. 22, §2º, DA LEI Nº. 8.906/95 - A legitimidade do Autor, relativamente à pretensão de arbitramento de honorários, encontra-se amparada na espécie de substabelecimento que lhe foi confiado - "sem reserva", bem como na sua comprovada atuação no processo.
+- A desistência da ação antes do trânsito em julgado da Sentença, sem a aquiescência do Advogado até então constituído, aliada à revogação unilateral do Mandato, impõem ao cliente o dever de remunerar o Causídico pelos serviços que prestou (art. 22, §2º, do CPC/2015).
+Nas razões do recurso especial (e-STJ fls. 1.170/1.178), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, ofensa ao art. 26 da Lei n. 8.906/1994.
+Sustentou, em síntese, que "mesmo se o substabelecimento for outorgado sem reserva de poderes, deve haver a concordância do cliente, para que o advogado substabelecido tenha legitimidade para o recebimento dos honorários" (e-STJ fl. 1.174).
+No agravo (e-STJ fls. 1.225/1.240), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 1.266/1.268).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu pela legitimidade do advogado substabelecido sem reserva de poderes para a pretensão de arbitramento de honorários, uma vez que "a disposição contida no art. 26, da Lei nº. 8.906/94 é restrita aos substabelecimentos outorgados "com reserva" de poderes" (e-STJ fl. 1.158).
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual o substabelecimento passado sem reserva de poderes afasta a norma do art. 26 da Lei n. 8.906/1994. Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. VÁRIOS ADVOGADOS CONSTITUÍDOS ORIGINARIAMENTE PELA PARTE VENCEDORA. LEGITIMIDADE PARA EXECUTAR. SOLIDARIEDADE ATIVA. OMISSÕES NÃO VERIFICADAS. TERMO INICIAL DOS JUROS DE MORA.
+1. Ausência de omissão acerca das questões pertinentes à solidariedade ativa entre advogados no que tange à cobrança de honorários sucumbenciais e ao termo inicial dos juros moratórios, matérias decididas fundamentadamente no acórdão recorrido.
+2. "Havendo pluralidade de advogados representado a mesma parte e constando do mandato autorização para que possam agir em conjunto ou separadamente, qualquer um deles tem legitimidade para pleitear o arbitramento dos honorários ou ajuizar a ação de execução da verba incluída na condenação" (REsp n. 1.370.152/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 13.11.2015).
+3. Também, no caso concreto, não se trata de substabelecimento passado com reserva de poderes, o que afasta a norma do art. 26 da Lei n. 8.906/1994.
+4. A tese relativa ao termo inicial dos juros moratórios foi repelida no acórdão recorrido com fundamento, sobretudo, na coisa julgada material. No entanto, tal motivação não foi impugnada no recurso especial, incidindo, por analogia, a vedação contida na Súmula n. 283 do STF.
+5. Recurso especial parcialmente conhecido e desprovido.
+(REsp 1149574/ES, de minha relatoria, QUARTA TURMA, julgado em 17/11/2016, DJe 08/02/2017.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUBSTABELECIMENTO SEM RESERVA DE PODERES. INAPLICABILIDADE DAS REGRAS PREVISTAS NOS ARTS. 23 E 26 DA LEI 8.906/94. PRETENSÃO DE HONORÁRIOS, POR PARTE DO ADVOGADO SUBSTABELECENTE SEM RESERVA DE PODERES, QUE DEVE SER VEICULADA EM AÇÃO AUTÔNOMA. PRECEDENTE.
+1. O direito autônomo para executar a sentença na parte relativa aos honorários incluídos na condenação, por arbitramento ou condenação, previsto no art. 23 da Lei 8.906/94, é assegurado ao advogado constituído nos autos, habilitado para representar a parte em juízo, na forma do art. 36 do CPC, de modo que não abrange o advogado que substabeleceu sem reserva de poderes, sobretudo porque o substabelecimento, sem reserva de poderes, caracteriza renúncia ao poder de representar em juízo (REsp 713.367/SP, 1ª Turma, Rel. Min.
+Luiz Fux, DJ de 27.6.2005; AgRg nos EREsp 36.319/GO, Corte Especial, Rel. Min. Dias Trindade, DJ de 8.5.95).
+2. Por outro lado, o art. 26 da Lei 8.906/94 impede que o advogado substabelecido, com reserva de poderes, efetue a cobrança de honorários sem a intervenção daquele que lhe conferiu o substabelecimento. Extrai-se, a contrario sensu, que não há óbice para que o advogado substabelecido, sem reserva de poderes, efetue a cobrança de honorários, sendo descabida a intervenção do advogado substabelecente. Assim, não há falar em ofensa ao artigo em comento.
+3. No mais, o acórdão recorrido está em consonância com a jurisprudência desta Corte, que se firmou no sentido de que "a controvérsia quanto ao percentual de honorários advocatícios que cada advogado que atuou na causa deve receber, tendo em vista a revogação do mandato e substituição dos causídicos, deve ser solucionada em ação autônoma" (REsp 766.279/RS, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 18.9.2006).
+4. Recurso especial não provido.
+(REsp 1207216/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/12/2010, DJe 03/02/2011.)
+Medida Cautelar. Recurso especial. Efeito suspensivo. Levantamento de honorários. Substabelecimento sem reserva de poderes.
+1. A concessão de efeito suspensivo a recurso especial ainda não interposto tem caráter excepcional, só tendo cabimento ante a presença indiscutível de requisitos especialíssimos, aqui não demonstrados.
+2. O Acórdão proferido no Tribunal a quo não apresenta qualquer contrariedade ao artigo 26 do Estatuto dos Advogados, já que o dispositivo, de fato, proíbe que o advogado substabelecido, com reserva de poderes, que ainda se encontre no processo, cobre os honorários sem a intervenção do substabelecente. O direito do agravante, que não mais está no processo ante o substabelecimento passado sem reserva de poderes, ao levantamento dos honorários não está configurado, não se cogitando, em princípio, de ofensa ao artigo 24, § 3º, da Lei nº 8.906/94. Fumus boni iuris não comprovado.
+3. O periculum in mora também não está comprovado. As alegações feitas em sede de agravo regimental, no sentido de que a parte contrária não terá condições de eventualmente ressarcir o ora agravante do valor levantado e de que a totalidade da verba honorária cabe ao agravante, não restaram, de forma inequívoca, comprovadas. Não há nos autos, portanto, elementos que viabilizem a concessão do pretendido efeito suspensivo ao recurso especial.
+4. Agravo regimental desprovido.
+(AgRg na MC 4.441/PR, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 18/12/2001, DJ 01/04/2002, p. 180.)
+Incide, portanto, a Súmula n. 83 do STJ, aplicável tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados na alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
