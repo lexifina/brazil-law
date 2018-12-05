@@ -1,0 +1,13 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EM WRIT ANTERIORMENTE IMPETRADO NESTA CORTE. REITERAÇÃO DE TESE. LITISPENDÊNCIA CONFIGURADA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARILZA NOGUEIRA DA SILVA contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido nos autos da Apelação Criminal n.º 0032784-98.2012.8.24.0023.
+Consta dos autos que a Paciente, em primeiro grau, foi condenada pela prática do crime descrito no art. 155, § 4.º, inciso II, na forma do art. 70, caput, primeira parte, todos do Código Penal, às penas de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, e 12 (doze) dias-multa. A reprimenda privativa de liberdade foi substituída por duas sanções restritivas de direitos, consistentes em "prestação de serviço à comunidade, pelo mesmo tempo da pena, à razão de uma hora por dia de condenação (1ª pena), e prestação pecuniária no valor de 1 (um) salário mínimo (2ª pena), relegando-se à fase da execução penal a escolha das entidades beneficiadas" (fl. 172).
+Contra a sentença a Condenada interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento nos termos de acórdão assim ementado (fl. 225):
+"APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO ABUSO DE CONFIANÇA (ART. 155, § 4º, II). SENTENÇA CONDENATÓRIA. INSURGÊNCIA DA DEFESA. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS ACERCA DA AUTORIA. INOCORRÊNCIA. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS PELA PROVA TESTEMUNHAL COLIGIDA EM AMBAS AS FASES DA PERSECUÇÃO PENAL. PLEITO DE AFASTAMENTO DA QUALIFICADORA REFERENTE AO ABUSO DE CONFIANÇA, AO ARGUMENTO DE QUE O POUCO TEMPO EM QUE TRABALHOU PARA A VÍTIMA, NÃO EXISTIU RELAÇÃO DE CONFIANÇA. INVIABILIDADE. RELAÇÃO DE CONFIANÇA DEMONSTRADA. QUALIFICADORA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO."
+Neste writ, insurge-se a Impetrante contra a determinação da execução provisória das penas restritivas de direitos.
+Requer, liminarmente e no mérito, a suspensão de todos os efeitos da condenação.
+É o relatório. Decido.
+A pretensão ora formulada versa mera reiteração do que requerido no HC 468.084/SC, Rel. Min. LAURITA VAZ (cuja liminar foi por mim deferida em 18/09/2018). Isso porque há identidade de partes e de causa de pedir, impugnando os dois feitos o mesmo acórdão e a mesma determinação de cumprimento imediato da condenação. Portanto, está configurada a litispendência.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
