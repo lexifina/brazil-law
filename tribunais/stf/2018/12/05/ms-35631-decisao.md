@@ -1,0 +1,13 @@
+Decisão
+    Por meio da petição 79562/2018, a impetrante formula pedido de desistência, após a publicação do acórdão que negou provimento ao seu recurso, cuja ementa segue reproduzida:
+    EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. IMPUGNAÇÃO ESPECÍFICA EVIDENCIADA. DESNECESSIDADE DE INTIMAÇÃO PARA COMPLEMENTAR AS RAZÕES. INTELIGÊNCIA DO ART. 1.024, § 3º, DO CPC. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DO CNMP. CONDUTA QUE CARACTERIZA INFRAÇÃO ADMINISTRATIVA E PENAL. LEGITIMIDADE DA APLICAÇÃO DO PRAZO PRESCRICIONAL DA LEI PENAL, INDEPENDENTEMENTE, DE INSTAURAÇÃO DE PROCEDIMENTO NA ESFERA CRIMINAL. OBSERVÂNCIA AO ART. 244, PARÁGRAFO ÚNICO, DA LC 75/93. PRECEDENTES. ALEGADA ATIPICIDADE DA CONDUTA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA MANDAMENTAL. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+    EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO, AO QUAL SE NEGA PROVIMENTO. (MS 35.631 ED, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 12/11/2018, PUBLIC 26/11/2018).
+    Ao formular o pedido, aqui objeto de análise, a impetrante explicita que pretende desistir do presente Mandado de Segurança para que possa, por completo, submeter a arguição de afronta a direito individual e de nulidade absoluta às instâncias ordinárias do Poder Judiciário (doc. 35, fl. 3).
+    Exatamente para coibir esse tipo de manobra, em que há manifesto interesse em contornar a autoridade desta CORTE, a jurisprudência alinhou-se no sentido de deixar de homologar pedidos de desistência, formulados após a denegação da segurança, distinguindo, assim, a força da jurisprudência desta CORTE (MS 29.895 AgR-ED-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/9/2018; MS 30.259 AgR-ED, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 7/11/2017; MS 29.129 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015; MS 29.130 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015; MS 29.146 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015; MS 29.128 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015; MS 29.186 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015; MS 29.189 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 4/8/2015; MS 29.093 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015; e MS 29.101 ED-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 3/8/2015).
+    Diante do exposto, INDEFIRO o pedido de DESISTÊNCIA.
+    À Secretaria para, oportunamente, certificar o trânsito em julgado e proceder ao arquivamento da ação.
+    Publique-se.
+    Brasília, 5 de dezembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
