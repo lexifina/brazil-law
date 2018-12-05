@@ -1,0 +1,31 @@
+EMENTA
+RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. RESPONSABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] contra os acórdãos de fls. 348-351, 363-364 e 385-388 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+EMBARGOS DE DECLARAÇÃO - QUESTÃO DECIDIDA COM EQUÍVOCO - TROCA DE ARESTOS VERIFICADA NESTE GABINETE - EMBARGOS ACOLHIDOS PARA CORRETA DEFINIÇÃO DO JULGADO - EMENTA E JULGAMENTO CORRIGIDOS CONFORME ABAIXO - EMBARGOS ACOLHIDOS COM PLEITO DE DESCULPAS ÀS PARTES.
+COMPROMISSO DE COMPRA E VENDA - PRÉDIO DE APARTAMENTOS - PRETENSÃO DE RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM E QUEJANDOS - ILEGITIMIDADE DA RÉ COM RESPONDER POR VERBAS DE COMISSÃO AFASTADA  VALOR DEVIDO ANTE O RESULTADO ÚTIL AUFERIDO - INEXISTÊNCIA DE VÍCIO NO AJUSTE - DECISÃO REFORMADA - APELO PROVIDO.
+EMBARGOS DE DECLARAÇÃO - QUESTÃO DECIDIDA NOS LIMITES DA PROVA COM ANÁLISE DOS FATOS DISCUTIDOS - NÃO OCORRÊNCIA DE OBSCURIDADE - APELICAÇÃO DO PRINCÍPIO "MAJOREM ABSORBET MINOREM" OU DA CONSUNÇÃO - EQUIVOCAÇÃO DA VISÃO JURÍDICA DO RECURSO - DESNECESSIDADE DA INTERPOSIÇÃO PARA PREQUESTIONAMENTO - EMBARGOS REJEITADOS.
+EMBARGOS DE DECLARAÇÃO - QUESTÃO DECIDIDA NOS LIMITES DA PROVA COM ANÁLISE DOS FATOS DISCUTIDOS - NÃO OCORRÊNCIA DE OMISSÕES E OBSCURIDADES E TAMPOUCO DE ERRO MATERIAL - RECURSO QUE TAL NÃO PODE IMPORTAR EM REEXAME DA PROVA - DECISÃO NÃO OBRIGADA AO ESGOTAMENTO DE TODA A MATÉRIA ARTICULADA - ARESTO COM FUNDAMENTAÇÃO BASTANTE - DESNECESSIDADE DA INTERPOSIÇÃO PARA PREQUESTIONAMENTO - EMBARGOS REJEITADOS.
+Nas razões do recurso especial (e-STJ, fls. 390-421), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 6º, III, 37, §§ 1º e 3º, 39, I, 46, 47, 51, IV e § 1º, I, e 54, § 3º, do Código de Defesa do Consumidor. Sustenta, em síntese, a ilicitude da cobrança da comissão de corretagem, tendo em vista a ausência de informação adequada e transparente sobre a transferência de responsabilidade, a caracterização de venda casada e a ausência de previsão contratual.
+Contrarrazões às fls. 522-532 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 562-563), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+A recorrente fundamenta o recurso na ilicitude da cobrança da comissão de corretagem, alegando a ausência de informação adequada e transparente sobre a transferência de responsabilidade, a caracterização de venda casada e a ausência de previsão contratual. Contudo, o acórdão recorrido deixou de se manifestar sobre esses argumentos.
+Veja-se às fls. 350-351 (e-STJ):
+Com efeito, a R. sentença, pesar do zelo de sua insigne Prolatora, não deu ao feito a exata solução; deslembrou-se a R. sentença de que, em sendo a corretagem pacto dos chamados DE RESULTADO ÚTIL, com sua perfectibilização, no caso, houve a legitimação da cobrança - e a protetiva decisão não pode receber, nesse aspecto, encômios: a Autora é pessoa esclarecida, e de aí sabia (ou devera saber) do que estava a contratar - e nem sendo lícita a exigência de quem nada recebeu pelo contrato paralelo celebrado, e a inicial nem tangencia a figura do vício da vontade.
+E se existira algo que contrariara o a que a Apelada aspirava, que não firmasse o ajuste - essa é a exata dimensão do Princípio da Autonomia da Vontade.
+Alfim, nem fora comprovado o vício de consentimento, e presente a contratualidade plena - pelo que SE DEFERE PROVIMENTO ao recurso para haver por improcedente a ação, invertida a sucumbência".
+Dessa forma, incide, na espécie, a Súmula 211/STJ, ante a ausência de prequestionamento, uma vez que não houve manifestação da Corte estadual sobre os fundamentos do presente recurso ou sobre os dispositivos tidos por vulnerados.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISPOSITIVO CONSTITUCIONAL. STF. COMPETÊNCIA. SUBSTABELECIMENTO. JUNTADA POSTERIOR. POSSIBILIDADE.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. Em observância ao princípio da função instrumental do processo, a jurisprudência desta Corte é no sentido de ser cabível a abertura de prazo a fim de que o autor regularize a inicial, sendo a extinção do processo, sem julgamento de mérito, somente proclamada depois de proporcionada à parte a oportunidade de regularização.
+5. Agravo regimental não provido.
+(AgRg no AREsp 372.573/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/03/2017, DJe 04/04/2017).
+O mesmo ocorre quanto ao alegado dissídio jurisprudencial. Não tendo o Tribunal de origem se manifestado sobre a existência, ou não, de previsão contratual da obrigação de arcar com a comissão de corretagem; sobre a clareza da informação acerca de tal responsabilidade; ou sobre a ocorrência de venda casada, não há como detectar a similitude fática entre os casos, o que impede a análise da divergência.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados dos recorridos em 3% (três por cento) sobre o valor da causa.
+Publique-se.
