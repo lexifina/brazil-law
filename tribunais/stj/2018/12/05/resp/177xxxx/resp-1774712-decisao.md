@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 152):
+Execução de título judicial obtido em ação de indenização. Sentença que extinguiu a execução em razão do pagamento, com fundamento no art. 924, inciso II, do CPC. Posterior decisão que, após o trânsito em julgado, tornou sem efeito a sentença de extinção. Impossibilidade. Preclusão.
+Recurso provido, com observação.
+Os embargos de declaração de fls. 156/157 (e-STJ) foram rejeitados (e-STJ fls. 160/165), mas os aclaratórios de fls. 167/168 (e-STJ) foram acolhidos "apenas para acréscimo de fundamentos, sem modificação da parte dispositiva do julgado" (e-STJ fls. 171/174).
+Em suas razões (e-STJ fls. 177/181), o recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 494, I, e 924, II, do CPC/2015.
+Sustenta, em síntese, que a sentença que declarou extinto o processo poderia ser modificada, pois fundamentada em erro material - "o depósito não foi corrigido, sendo que somente o alvará foi emitido no final de Novembro de 2016, quando se aperfeiçoa o ato" (e-STJ fl. 179).
+Foram apresentadas contrarrazões (e-STJ fls. 187/198).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu que o magistrado não podia, após o trânsito em julgado, tornar sem efeito a sentença que extinguiu a execução em razão do pagamento, sob o fundamento de erro de cálculo. Confira-se (e-STJ fls. 153/154):
+O documento de fl. 88 (cópia da sentença que extinguiu a execução), bem como aquele de fl. 89 (certidão de trânsito em julgado), comprovam as alegações do banco agravante.
+Realmente, a lei não permite que o próprio magistrado decrete a invalidade da sentença que prolatou, salvo hipóteses restritas. É o que disciplina o art. 494 do CPC/2015:
+(..)
+Se o credor ainda não estava satisfeito, deveria ter interposto o apropriado recurso contra a sentença que determinou a extinção da execução. Não o fazendo, presume-se ter se conformado com a decisão do juízo.
+O exequente sequer alegou não ter sido intimado da sentença que extinguiu a execução.
+(..)
+Importante notar que a sentença não extinguiu apenas parte da execução nem fez ressalva nesse sentido.
+E, como se não bastasse, no mérito, o banco comprovou ter incluído o autor na folha de pagamento mensal. Ainda que possa admitida discussão a respeito do valor, esse não se caracteriza como um motivo válido para tornar sem efeito a sentença de extinção (fls. 104/127).
+Assim, prospera a pretensão do banco agravante de obstar o prosseguimento da execução. Observo, contudo, que o cumprimento das prestações sucessivas pagamento da prestação mensal poderá ser apreciado nos mesmos autos, independentemente do trânsito em julgado.
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual, transitada em julgado a decisão que extinguiu o processo de execução pelo pagamento, é defeso reabri-lo sob o fundamento de ter havido erro de cálculo. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO VERIFICADA. EFEITOS INFRINGENTES. DECISÃO QUE EXTINGUIU A EXECUÇÃO PELO ADIMPLEMENTO. ARTIGO 794, I, DO CPC/73.TRÂNSITO EM JULGADO. COISA JULGADA MATERIAL. POSTERIOR REABERTURA SOB A ALEGAÇÃO DE ERRO MATERIAL. IMPOSSIBILIDADE.
+1. Verificada a existência de omissão na decisão embargada, os embargos de declaração devem ser acolhidos para sanar o vício apontado, imprimindo-lhes excepcionais efeitos infringentes.
+2. Nos termos da jurisprudência consolidada deste Superior Tribunal de Justiça, sob o procedimento dos recursos repetitivos, "transitada em julgado a decisão de extinção do processo de execução, com fulcro no artigo 794, I, do CPC, é defeso reabrí-lo sob o fundamento de ter havido erro de cálculo." (REsp 1143471/PR, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 3/2/2010, DJe 22/2/2010).
+3. Embargos de declaração acolhidos.
+(EDcl nos EDcl no AREsp 675.521/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2016, DJe 24/10/2016.)
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C, DO CPC. EXECUÇÃO DE SENTENÇA. EXTINÇÃO DO PROCESSO. INÉRCIA DO EXEQÜENTE. PRESUNÇÃO DE QUITAÇÃO DA DÍVIDA. ARTIGO 794, I, DO CPC. ERRO NO CÁLCULO DO VALOR EXECUTADO (EXCLUSÃO DE PARCELA CONSTANTE DA SENTENÇA EXEQÜENDA). COISA JULGADA. OCORRÊNCIA. ARTIGO 463, I, DO CPC. RENÚNCIA TÁCITA AO SALDO REMANESCENTE QUE NÃO FOI OBJETO DA EXECUÇÃO. CONFIGURAÇÃO.
+1. A renúncia ao crédito exeqüendo remanescente, com a conseqüente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita.
+2. A extinção da execução, ainda que por vício in judicando e uma vez transitada em julgado a respectiva decisão, não legitima a sua abertura superveniente sob a alegação de erro de cálculo, porquanto a isso corresponderia transformar simples petitio em ação rescisória imune ao prazo decadencial.
+3. Deveras, transitada em julgado a decisão de extinção do processo de execução, com fulcro no artigo 794, I, do CPC, é defeso reabrí-lo sob o fundamento de ter havido erro de cálculo.
+4. É que, in casu: "Trata-se de agravo de instrumento, interposto contra decisão que, tendo em conta a extinção por pagamento de execução de título judicial relativo aos expurgos de poupança (com trânsito em julgado ainda em 02.02.2005), indeferiu requerimento de cumprimento de sentença (protocolado em 02.06.2008), relativo a juros de mora no período de jan/94 a mar/99. Argumenta o agravante que à época da propositura da Execução de Sentença nº 94.00.00710-8/PR, por mero erro material foram incluídos juros só a partir de abr/99, data da citação da CEF na ACP nº 98.0016021-3/PR, quando na verdade os juros deveriam ser cobrados desde jan/94, pois a Execução era relativa à sentença proferida na Ação de Cobrança nº 94.00.00710-8/PR, ajuizada na referida data. (..) A decisão recorrida não merece qualquer reforma pois, com efeito, a inexistência de manifestação acerca da satisfação dos créditos, dando ensejo à sentença extintiva da execução, fundada na satisfação da obrigação (art. 794, I, do CPC), impossibilita a inovação da pretensão executória, sob o argumento do erro material, sob pena de o devedor viver constantemente com a espada de Dâmocles sob sua cabeça. Não se trata, in casu, de erro de cálculo, como argumenta o recorrente, mas de renúncia, ainda que tácita, a eventual remanescente, pois embora os cálculos estejam corretos, houve uma restrição no período executado relativo aos juros (por culpa exclusiva do exeqüente), questão que poderia mesmo ter sido objeto de controvérsia em embargos. Sob este prisma, a aceitação desta inovação no objeto da execução poderia implicar, mesmo, num indevido cerceamento de defesa do executado, que a toda hora poderia estar sendo reacionado, mormente, face aos mais de 5 (cinco) anos que passaram entre a inicial da execução e o requerimento ora indeferido (e 3 anos do trânsito em julgado da sentença extintiva da execução)."
+5. Recurso especial desprovido. Acórdão submetido ao regime do artigo 543-C, do CPC, e da Resolução STJ 08/2008.
+(REsp 1143471/PR, Relator Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 3/2/2010, DJe 22/2/2010.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
