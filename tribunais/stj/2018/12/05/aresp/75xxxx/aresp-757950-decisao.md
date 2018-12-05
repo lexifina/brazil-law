@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGÓCIO JURÍDICO REALIZADO MEDIANTE FRAUDE PERPETRADA POR TERCEIRO. CADASTRAMENTO INDEVIDO NOS ÓRGÃOS DE INADIMPLÊNCIA. RISCO INERENTE À ATIVIDADE ECONÔMICA DA INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE CONFIGURADA. DANO MORAL CONFIGURADO. REDUÇÃO DO VALOR DA INDENIZAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por BV Financeira S.A. Crédito Financiamento e Investimento, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 186):
+CADASTRAMENTO INDEVIDO. DANO MORAL. FATO DE TERCEIRO NÃO CARACTERIZADO. VALOR DA INDENIZAÇÃO. APELAÇÃO PROVIDA.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a recorrente alegou violação dos arts. 186 e 188 do Código Civil, bem como divergência jurisprudencial, sustentando a exclusão da responsabilidade em razão de fato de terceiro, bem como a redução dos danos morais.
+Brevemente relatado, decido.
+Cuida-se, na origem, de ação declaratória cumulada com indenização por danos morais contra BV Financeira S.A. Crédito Financiamento e Investimento, objetivando a declaração de inexistência de relação jurídica entre as partes, o cancelamento da inscrição indevida de seu nome nos órgãos de proteção ao crédito, bem como a condenação ao pagamento de danos morais.
+A sentença julgou parcialmente procedentes os pedidos, para declarar a inexistência da relação jurídica que ensejou a dívida, bem como o cancelamento da inscrição nos órgãos de proteção ao crédito. Todavia, negou os danos morais ao argumento de que o réu não teve responsabilidade no evento danoso, em razão de culpa exclusiva de terceiro que perpetrou a fraude.
+O acórdão recorrido reformou a sentença nessa parte, porquanto o fato imputado a terceiro não exclui a responsabilidade do banco por constituir risco inerente à sua atividade econômica, cabendo a este diligenciar para aferir a veracidade e autenticidade das informações fornecidas por consumidores potenciais, de modo a evitar que terceiros utilizem documentação alheia para obtenção de créditos.
+A Segunda Seção desta Corte, no julgamento do REsp Repetitivo n. 1.199.782/PR, Relator Ministro Luis Felipe Salomão (DJe 12/9/2011), pacificou o entendimento de que as instituições financeiras respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros, in verbis:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO.
+1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno.
+2. Recurso especial provido. (REsp n. 1.199.782/PR, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2011, DJe 12/9/2011.)
+No mesmo sentido, o seguinte julgado:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. FRAUDE PRATICADA POR TERCEIROS. RESPONSABILIDADE. INSTITUIÇÃO FINANCEIRA. PRECEDENTES. DANO MORAL. VALOR. REEXAME. SÚMULA N. 7-STJ. NÃO PROVIMENTO.
+1. "O Superior Tribunal de Justiça já decidiu que a pactuação de contrato bancário mediante fraude praticada por terceiro estelionatário, por constituir risco inerente à atividade econômica das instituições financeiras, não elide a responsabilidade destas pelos danos daí advindos." (AgRg no Ag 1148316/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2011, DJe 06/09/2011)
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1318080/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2011, DJe 30/11/2011)
+Portanto, caracterizada a responsabilidade da instituição financeira.
+Por sua vez, o quantum compensatório arbitrado a título de danos morais pelas instâncias de origem só pode ser reexaminado nesta Corte Superior quando se revelar manifestamente irrisório ou exorbitante.
+A respeito, destacam-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATO ILÍCITO. INSCRIÇÃO INDEVIDA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. CERCEAMENTO DE DEFESA. REVISÃO DAS PROVAS. SÚMULA N. 7/STJ. SÚMULA N. 385/STJ. INAPLICABILIDADE. AUSÊNCIA DE INTERESSE DE AGIR. DANO MORAL. QUANTUM ARBITRADO. REVISÃO. INVIABILIDADE.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A Súmula n. 385/STJ somente é aplicável às hipóteses em que a indenização é pleiteada do órgão mantenedor do cadastro de proteção ao crédito que deixa de proceder à notificação prevista no art. 43, § 2º, do CDC antes de efetivar a anotação do nome do devedor.
+Inexiste interesse de agir da parte em apresentar provas na apelação, visando à incidência da referida súmula.
+3. O quantum arbitrado pelo juiz a título de indenização por danos morais deve ser fixado de maneira que a composição do dano seja proporcional à ofensa, cabendo ao STJ examinar apenas os valores indenizatórios irrisórios ou exorbitantes.
+4. Agravo regimental desprovido. (AgRg no REsp 1436158/SC, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 2/9/2014, DJe 9/9/2014)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DOENÇA PREEXISTENTE. EXAME PRÉVIO. NEGATIVA DE COBERTURA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. INDENIZAÇÃO. DANO MORAL. VALOR. REVISÃO NÃO CABIMENTO.
+1. A alteração das conclusões do acórdão recorrido no sentido de considerar ausente a comprovação de doença preexistente, e configurada a urgência que justificou o tratamento fora da rede credenciada, demandaria o reexame do conjunto fático-probatório, procedimento vedado no âmbito do recurso especial (Súmula 7/STJ.
+2. A ausência do requisito do prequestionamento do tema relativo ao prazo de carência para a cobertura de doença preexistente (Lei 9.656/98, art. 11), que não foi objeto de exame pelo acórdão recorrido, impede o conhecimento do recurso especial, no ponto (Súmulas 211/STJ e 356/STF).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 144.418/MT, Relatora a Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/8/2014, DJe de 9/9/2014)
+No presente caso, o Tribunal de Justiça fixou o valor indenizatório em R$ 15.000,00 (quinze mil reais), a título de danos morais, tendo em vista as peculiaridades do caso concreto, bem como os princípios da razoabilidade e proporcionalidade, não se mostrando exorbitante, razão pela qual deve ser mantido.
+Nesse quadro, a revisão do valor indenizatório não prescinde do revolvimento do conjunto fático-probatório dos autos, medida defesa em recurso especial, por incidir a Súmula n. 7/STJ.
+Pela alínea c, é inafastável a aplicação do enunciado n. 83 da Súmula desta Corte, que dispõe: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
