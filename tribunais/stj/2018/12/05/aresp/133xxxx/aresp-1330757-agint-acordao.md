@@ -1,0 +1,91 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. EXPEDIENTE FORENSE. ENCERRAMENTO ANTECIPADO. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo em recurso especial foi protocolado na vigência do novo Código de Processo Civil, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso.
+3. A existência de encerramento antecipado do expediente forense que altere a contagem do prazo recursal deve ser comprovada por documento idôneo no momento da sua interposição.
+4. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, em negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+LILIAN ABREU DIAS (LILIAN) promoveu ação de rescisão contratual contra [NOME] - EMPREENDIMENTO IMOBILIÁRIOS LTDA. (SPE), objetivando a rescisão contratual firmada entre as partes por não ter mais interesse na manutenção do contrato.
+Em primeira instância, o pedido foi julgado procedente para declarar rescindido o compromisso particular de compra e venda realizado entre as partes e condenar a restituir, em parcela única, 90% de todos os valores pagos (e-STJ, fls. 211/217).
+A apelação interposta por SPE não foi provida pelo Tribunal de origem, nos termos do acórdão assim ementado:
+COMPROMISSO DE VENDA E COMPRA  Resolução do contrato por impossibilidade econômica da adquirente de pagar as parcelas remanescentes do preço  Cabimento  Irrelevante, para este fim, que o contrato tenha sido firmado em caráter irrevogável e irretratável  Não se confundem impossibilidade e arrependimento  Abusividade, contudo, da cláusula penal que previu perda integral do sinal  Arras confirmatórias que integram o preço e são computadas para efeito de devolução  Previsão contratual de retenção de 10% dos valores pagos pela adquirente a partir do 25º mês do registro da incorporação que não é abusiva e pode ser aplicada ao caso concreto  Valores pagos a título de seguro que não devem ser excluídos da base de cálculo da restituição, pois entregues diretamente à alienante, e exigidos como condição necessária para a contratação  Sentença mantida  Recurso não provido (e-STJ, fl. 297).
+Os embargos de declaração opostos por LILIAN foram acolhidos tão somente para majorar a verba honorária, sem efeitos infringentes (e-STJ, fls. 313/318).
+Sendo que os aclaratórios opostos por SPE foram rejeitados (e-STJ, fls. 337/342).
+Inconformado, SPE interpôs recurso especial com amparo no art. 105, III, a e c, da CF, alegando violação da legislação federal e divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude da (1) não demonstração da vulneração dos dispositivos arrolados; (2) incidência da Súmula nº 7 do STJ; e, (3) não demonstração do dissenso jurisprudencial.
+Seguiu-se o agravo em recurso especial, que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, nos termos do art. 21-E, V, do RISJ, em virtude da sua intempestividade.
+Nas razões do presente agravo interno, SPE alegou (1) que o recurso é tempestivo, em virtude da suspensão dos prazos no dia 19/3/2018, em razão do encerramento precoce das atividades do Fórum; (2) que deve haver abertura de prazo para sanar o vício ou complementar a documentação exigível, nos termos do art. 932, parágrafo único, do NCPC; e, (3) violação dos arts. 418, 884 e 944 do CC/2002 e divergência jurisprudencial.
+Não houve impugnação ao recurso (e-STJ, fl. 521).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. EXPEDIENTE FORENSE. ENCERRAMENTO ANTECIPADO. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo em recurso especial foi protocolado na vigência do novo Código de Processo Civil, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso.
+3. A existência de encerramento antecipado do expediente forense que altere a contagem do prazo recursal deve ser comprovada por documento idôneo no momento da sua interposição.
+4. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+A tese da SPE de que seu recurso foi interposto dentro do prazo, considerando a ocorrência de feriado, não pode ser acolhida por ausência de comprovação no momento oportuno.
+À época da vigência do CPC/1973, era firme a jurisprudência desta Corte no sentido de que eventual suspensão do prazo recursal, decorrente de ausência de expediente, recesso forense, feriados locais, paralisação ou interrupção do expediente, poderia ser demonstrada no agravo contra a decisão que reconhecia a intempestividade, desde que a comprovação se desse por documento oficial ou certidão expedida pelo Tribunal de origem.
+Contudo, o entendimento não pode ser aplicado ao caso dos autos, na medida em que o recurso especial foi interposto já sob a égide do NCPC, devendo ser por ele regido (Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016).
+Assim, o art. 1.003, § 6º, do NCPC não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso.
+A propósito, veja-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. RECESSO E SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. A comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem, pode ocorrer por meio de agravo interno. Precedentes.
+2. A decisão de inadmissibilidade do recurso especial foi publicada em 06/05/2016 (e-STJ fl. 352), sexta-feira. Exauriu-se, pois, o prazo legal para a interposição do agravo em recurso especial em 30/05/2016, segunda-feira. No entanto, a petição do agravo em recuso especial foi protocolizada em 31/05/2016, terça-feira (e-STJ fl. 354), ou seja, fora do prazo legal de 15 dias úteis.
+3. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+4. Considerando que o agravo em recurso especial foi interposto sob a a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do agravo em recurso especial.
+5. Agravo interno provido. Agravo em recurso especial não conhecido.
+(AgInt no AREsp 1.011.031/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 27/4/2017, DJe 5/5/2017 - sem destaque no original)
+Ademais, a Corte Especial, aos 20/11/2017, ao julgar o AREsp nº 957.821/MS (acórdão publicado aos 19/12/2017), assentou que o NCPC foi taxativo ao estipular que a comprovação do feriado local seja feita no ato da interposição do recurso.
+Nesse sentido, a Ministra NANCY ANDRIGHI, que lavrou o acórdão, concluiu que ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso e, em consequência, opera-se a coisa julgada.
+Confira-se a ementa a seguir:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, Corte Especial, j. 20/11/2017, DJe 19/12/2017)
+No caso dos autos, a decisão de inadmissibilidade do apelo nobre foi disponibilizada, no DJe, aos 23/2/2018, tendo sido considerada publicada aos 26/2/2018 (segunda-feira - e/STJ, fl. 463).
+Portanto, como o prazo recursal para a interposição do agravo em recurso especial se iniciou aos 27/2/2018 (terça-feira), com término aos 19/3/2018 (segunda-feira), e sua interposição só se deu aos 20/3/2018 (terça-feira - e-STJ, fl. 465), deve ser reconhecida a sua intempestividade, já que interposto fora do prazo de 15 dias úteis, nos termos dos arts. 219, caput, e 1.003, § 5º, do NCPC, considerando que a ausência de expediente forense no dia apontado não foi comprovado no momento oportuno, por documento idôneo.
+Saliente-se que esta Corte adota o posicionamento jurisprudencial de que incumbe à parte, no momento da interposição do recurso, a comprovação da ocorrência de feriado, suspensão dos prazos processuais de âmbito regional ou do encerramento do expediente antes do horário normal, por meio de documento oficial idôneo, o que não se verifica no presente caso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL, INTERPOSTO SOB A ÉGIDE DO CPC/73. ALEGADO ENCERRAMENTO ANTECIPADO DE EXPEDIENTE, NO TRIBUNAL DE ORIGEM. NÃO DEMONSTRAÇÃO, TODAVIA, POR DOCUMENTO OFICIAL. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. De igual modo, a Corte Especial do STJ pacificou o entendimento no sentido de que a existência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão, expedida pelo Tribunal de origem, que afirme o período no qual ocorreu um desses fatos (STJ, EREsp 884.009/RJ, Rel. Ministro CASTRO MEIRA, Rel. p/ acórdão Ministro ARI PARGENDLER, CORTE ESPECIAL, DJe de 11/04/2014).
+IV. Todavia, no caso dos autos, a parte agravante não apresentou, com as razões do presente Agravo Regimental, documento oficial idôneo à comprovação do alegado encerramento antecipado do expediente, no Tribunal de origem, no dia 08/07/2014. Com efeito, "não basta a simples menção, nas razões do presente agravo regimental, da existência de Resolução da Corte de origem constituindo o recesso forense" (STJ, AgRg no AREsp 564.097/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 03/11/2014).
+V. Agravo Regimental improvido.
+(AgRg no REsp 1.569.765/SP, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, j. 9/10/2018, DJe 18/10/2018 - sem destaques no original)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INTEMPESTIVIDADE. EXPEDIENTE DIFERENCIADO NO DIA DO INÍCIO DO PRAZO RECURSAL. AUSÊNCIA DE DOCUMENTO OFICIAL COMPROBATÓRIO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias, consoante dispõe o art. 508 do Código de Processo Civil.
+2. Para fins de demonstração da tempestividade do recurso, incumbe à parte, no momento da sua interposição, comprovar a ocorrência de feriado, suspensão dos prazos processuais de âmbito regional ou até mesmo a ocorrência de eventos diferenciados, os quais culminem em encerramento do expediente antes do horário normal de funcionamento do órgão judicial, por meio de certidão ou portaria expedida pelo Tribunal ou outro documento oficial. Precedentes.
+3. Constata-se, na espécie, que a recorrente, apesar de indicar a existência de expediente diferenciado para o dia 25.6.2010, olvidou-se de juntar aos autos a documentação oficial comprobatória do fato alegado.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1.307.344/RJ, Rel. Ministro CASTRO MEIRA, Segunda Turma, j. 7/8/2012, DJe 21/8/2012 - sem destaque no original)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. EXPEDIENTE FORENSE. ENCERRAMENTO ANTECIPADO. AUSÊNCIA DE COMPROVAÇÃO. JUÍZO DE ADMISSIBILIDADE DO TRIBUNAL A QUO. NÃO VINCULAÇÃO. DECISÃO AGRAVADA.
+MANUTENÇÃO.
+I. A existência de encerramento antecipado do expediente forense que altere a contagem do prazo recursal deve ser comprovada por documento idôneo no momento da sua interposição, o que não ocorreu no caso dos autos.
+II. O juízo de admissibilidade realizado na instância ordinária não vincula esta instância especial.
+Agravo Regimental improvido.
+(AgRg no REsp 1.238.211/PB, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 17/5/2011, DJe 26/5/2011 - sem destaque no original)
+Além disso, vale pontuar que o prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+Sobre o tema, confira-se o seguinte julgado:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N.º 3/STJ. AÇÃO ANULATÓRIA. ICMS. ARTIGO 932, PARÁGRAFO ÚNICO, DO CPC/2015. VÍCIOS FORMAIS. PRECEDENTE DO STF. ARE 953.221/SP. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prazo de cinco dias previsto no parágrafo único do art. 932 do CPC/2015  "Art. 932. Incumbe ao relator: .. III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente. Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível"  só se aplica aos casos em que seja necessário sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação" (ARE 953.221/SP, Relator Ministro Luiz Fux)
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 982.077/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 28/3/2017, DJe 3/4/2017 - sem destaques no original)
+Assim, considerando que o recurso foi interposto sob a égide do NCPC e que não houve a comprovação da suspensão dos prazos processuais no Tribunal local apta a postergar o termo final dos prazos recursais, no momento da interposição, não há como ser afastada a sua intempestividade.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
+Advirto que eventual recurso interposto contra este acórdão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
