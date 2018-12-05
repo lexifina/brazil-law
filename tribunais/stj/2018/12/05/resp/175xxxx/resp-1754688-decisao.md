@@ -1,0 +1,28 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. ALEGAÇÃO DE QUE DETERMINADA CLÁUSULA CONTRATUAL FOI INTERPRETADA AMPLIATIVAMENTE. INCIDÊNCIA DA SÚMULA Nº 5 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+IVO GOMES DO PRADO (IVO) ajuizou ação de cobrança contra BANESPREV FUNDO BANESPA DE SEGURIDADE SOCIAL (BANESPREV), que foi julgada procedente em primeiro grau de jurisdição para determinar o aumento de sua suplementação de aposentadoria (e-STJ, fls. 272/275).
+O Tribunal de origem negou provimento a apelação da BANESPREV em acórdão assim ementado:
+Previdência Privada - Ação de cobrança que visa suplementação de aposentadoria com fundamento nos artigos 48 e 49 do Estatuto do Banespa e 56 do Regulamento de Pessoal do Banespa - Inexistência de litispendência, por ausência de identidade de partes nas ações mencionadas - Prescrição afastada, pois o pagamento de participação nos lucros e resultados envolve prestação de trato sucessivo e a cada novo evento renova-se o prazo prescricional - Reconhecido o direito, estendido aos aposentados, à "participação nos lucros e resultados", conforme previsão no Regulamento vigente na data da admissão e da aposentadoria do autor - Eventual alteração para restringir direito anteriormente concedido não se dá por ato unilateral da entidade de previdência privada - Recurso não provido (e-STJ, fl. 326).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 340/343).
+Inconformada, a BANESPREVE interpôs recurso especial, com fundamento no art. 105, III, a e c da CF, alegando que o Tribunal de origem teria violado os arts. 112 e 114 do CC/02, porque interpretou ampliativamente o art. 56 do Regulamento de Pessoal do Banespa para equiparar a gratificação semestral nele prevista à repartição de lucros e, assim, determinar a inclusão dos respectivos reflexos na suplementação de aposentadoria de IVO. A respeito do tema, ainda suscitou dissídio jurisprudencial indicando, como paradigma, precedente desta Corte Superior (REsp 1.632.374/MG).
+Apresentadas contrarrazões (e-STJ, fls. 397/407), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+O Tribunal de origem, no julgamento da apelação examinou a questão em debate da seguinte forma:
+O entendimento sedimentado desta Corte é no sentido de que "a verba denominada "Participação nos lucros e resultados" (PLR) identifica-se com a parcela paga aos aposentados sob a rubrica de "gratificação semestral"; sendo que sua exigibilidade se estende aos inativos, por força do disposto no art. 56, § 2º, do Regulamento de Pessoal do Banespa". (Apelação nº 1000512-48.2016.8.26.0246, 28" Câmara de Direito Privado, rel. [NOME], j. 08.05.2017).
+É irrelevante, portanto, a nomenclatura dada à verba, considerando que o autor tem direito ao recebimento à participação nos lucros, segundo previsto no artigo 56 do Regulamento de Pessoal do Banespa e no artigo 49 do Estatuto do banco empregador, vigentes na época de sua admissão no Banespa, antecessor do Banco Santander. (e-STJ, fl. 329)
+Nos embargos de declaração foi apontada omissão ao art. 114 do CC/02, tendo o Tribunal de origem rejeitado referida alegação nos seguintes termos:
+Embargos de declaração não se destinam a discutir os fundamentos do acórdão, mas a suprir o que porventura tenha faltado, e, neste caso, nada há a suprir.
+O fato de não ter havido julgamento consoante a interpretação da embargante não determina omissão, contradição ou obscuridade do julgado, não servindo, a repetição de tudo quanto já foi apreciado e julgado, para fundamentar os embargos e menos ainda para alterar o que foi decidido.
+Nesse contexto, não há necessidade de suprir o já decidido e inexiste respaldo para o pedido que, na verdade, busca atribuir caráter infringente aos embargos (e-STJ, fl. 343).
+Com efeito é preciso registrar que o Tribunal de origem jamais afirmou ser possível interpretar ampliativamente negócios jurídicos benéficos ou que implicassem alguma renúncia de direitos. Disse, simplesmente, que determinada verba renuneratória, indicada em determinada cláusula do Regulamento de Pessoal do Banespa, pela sua natureza jurídica, seria equiparável a uma outra verba remuneratória cuja inclusão do benefício da aposentadoria complementar, era devida pelo próprio Regulamento do BANESPREV.
+Impossível afirmar, assim, se referida equiparação pautou-se em uma interpretação ampliativa ou não sem reexaminar a cláusula do Regumento de Pessoal do Banespa e o Regulamento do BANESPREV.
+Incide, assim, a Súmula nº 5 do STJ.
+Com relação ao dissídio jurisprudencial suscitado vale esclarecer que o precedente indicado como paradigma é uma decisão monocrática, não servindo, portanto, para viabilizar o conhecimento do recurso especial pela alínea c do recurso especial.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Majoro em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da BANESPREV, nos termos do art. 85, § 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
