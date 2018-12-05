@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fls. 548/549):
+APELAÇÃO CÍVEL - AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS - CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM COMPANHIA TELEFÔNICA - SENTENÇA DE PROCEDÊNCIA
+AGRAVO RETIDO - PARCIAL CONHECIMENTO - DESISTÊNCIA PARCIAL DO RECURSO QUE NÃO IMPEDE O CONHECIMENTO DA PARTE COM RELAÇÃO À QUAL NÃO DESISTIU O RECORRENTE - NULIDADE DA DECISÃO INTERLOCUTÓRIA QUE DETERMINOU A EXIBIÇÃO DOS DOCUMENTOS - INOCORRÊNCIA - AUSÊNCIA DE CERCEAMENTO DE DEFESA - INTERESSE DE AGIR CONFIGURADO - INVERSÃO DO ÔNUS DA PROVA - POSSIBILIDADE; ANTE A VEROSSIMILHANÇA DAS ALEGAÇÕES - LISTA TELEFÔNICA DA ÉPOCA EM QUE CONSTA O NOME DO AUTOR, EVIDENCIANDO A RELAÇÃO JURÍDICA ALEGADA - RECURSO DESPROVIDO
+RECURSO DE APELAÇÃO - INOCORRÊNCIA DE INÉPCIA DA INICIAL - LEGITIMIDADE PASSIVA CONFIGURADA - INCORPORAÇÃO PELA REQUERIDA DAS OBRIGAÇÕES ASSUMIDAS PELA ANTIGA COMPANHIA - INTERESSE DE AGIR E INVERSÃO DO ÔNUS DA PROVA - ANÁLISE PREJUDICADA PELA APRECIAÇÃO DO RECURSO ADESIVO - FATO CONSTITUTIVO DO DIREITO DO AUTOR - INVERSÃO DO ÔNUS DA PROVA QUE IMPÕE À REQUERIDA O ÔNUS DA EXIBIÇÃO DO CONTRATO - ALEGADA LEGALIDADE NO CRITÉRIO DE CONVERSÃO DAS AÇÕES - INOCORRÊNCIA - ENTENDIMENTO PACIFICADO NO SENTIDO DE QUE A EMISSÃO DEVE SE DAR COM BASE NO VALOR DA AÇÃO NA DATA DA INTEGRALIZAÇÃO DO CAPITAL - CRITÉRIO PARA CONVERSÃO EM PERDAS E DANOS - DATA DO TRÂNSITO EM JULGADO - IMPOSSIBILIDADE - CONVERSÃO EM INDENIZAÇÃO QUE DEVE SE PAUTAR NO VALOR DAS AÇÕES À ÉPOCA - PARCELAS ACESSÓRIAS DEVIDAS - PRESCRIÇÃO - INOCORRÊNCIA - GRUPAMENTO DE AÇÕES - IRRELEVÂNCIA - JUROS DE MORA - INCIDÊNCIA A PARTIR DA CITAÇÃO, EM 1% - RECURSO DESPROVIDO
+Nas razões recursais (e-STJ fls. 655/671), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente alega violação do art. 100, § 1º, da Lei n. 6.404/1976, sustentando falta de interesse de agir do recorrido pelo não esgotamento da via administrativa com o pagamento da taxa pelo serviço (Súmula n. 389/STJ).
+Aduz, ainda, divergência quanto à aplicabilidade da Súmula n. 389/STJ tanto às ações cautelares quanto às ações ordinárias.
+As contrarrazões foram apresentadas (e-STJ fls. 681/699).
+Juízo positivo de admissibilidade (e-STJ fls. 704/705).
+É o relatório.
+Decido.
+O recurso merece provimento.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas até então pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A caracterização do interesse de agir em ações que objetivam a exibição de documentos societários exige a demonstração da prova do requerimento formal na via administrativa e o comprovante do pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976), conforme assentado por esta Corte em recurso submetido ao regime do art. 543 do CPC/1973:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar:
+a) haver apresentado requerimento formal à ré nesse sentido;
+b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp n. 982.133/RS, Relator Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/9/2008, DJe 22/9/2008.)
+Além disso, aplica-se o entendimento da Súmula n. 389/STJ aos pedidos de exibição incidental dos contratos de prestação de serviços de telefonia com cláusula de participação financeira. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.331.352/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/11/2016, DJe 1º/12/2016.)
+O Tribunal de origem, em descompasso com o entendimento desta Corte, reconheceu o interesse de agir do recorrido, conforme se extrai do seguinte excerto (e-STJ fls. 554/555):
+Embora já tenha me manifestado em sentido contrário, revejo meu prévio posicionamento para o fim de considerar que, em demandas que contenham pedido incidental de exibição de documentos, inviável é a aplicação do entendimento preconizado pela Súmula 389/STJ.
+E assim porque, diversamente do que se passa na cautelar de exibição de documentos, de cunho satisfativo e tendente à apresentação de documentos de natureza societária, pura e simplesmente, diversa é a pretensão aduzida nos casos de exibição incidental. Nestas, busca-se o acesso à prova apta a fundamentar pretensão já apresentada em demanda indenizatória, consistindo o pedido exibitório o único meio adequado à comprovação dos fatos narrados na inicial.
+Em julgado análogo já se pronunciou o Tribunal com fundamento semelhante:
+(..)
+Por consequência, nesses casos há a presença do binômio utilidade/necessidade (o pedido é, ao mesmo tempo, benéfico ao requerente e indispensável à comprovação da tese já arguida na demanda principal), pelo que coerente seu deferimento.
+Reputa-se, por consequência, que embora exigível o pedido administrativo e o pagamento da taxa para fins de exibição de documento previsto no procedimento cautelar, sob pena de carência de ação em razão da desnecessidade do ajuizamento da ação, o pedido incidental apresenta peculiaridade diversa, por ser indispensável à solução de lide já instaurada.
+Todavia, em contrarrazões, o recorrido afirma que (e-STJ fl. 694):
+25. No entanto, de qualquer modo, o requerimento administrativo está inserto no mov.1.6 e segue em anexo, que, implicaria para todos os efeitos a aplicação da Súmula 7 do STJ, que impede a análise do conjunto fático-probatório.
+Diante do exposto, DOU PROVIMENTO ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que decida acerca do interesse de agir do autor à luz da Súmula n. 389/STJ.
+Publique-se e intimem-se.
