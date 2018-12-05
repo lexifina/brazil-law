@@ -1,0 +1,32 @@
+DECISÃO
+[NOME] e [NOME] MENEZES DE [NOME] interpõem recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia na Apelação n. 1003435-68.2017.8.22.0005.
+Depreende-se dos autos que os recorrentes foram condenados, em primeira instância, às penas de 4 anos e 8 meses de reclusão, no regime fechado, mais multa ([NOME]), e 3 anos e 4 meses de reclusão, no regime aberto, mais multa ([NOME]), juntamente com o corréu [NOME], pela prática de furto noturno e qualificado pelo rompimento de obstáculo (fls. 298-307).
+O Tribunal local negou provimento aos recursos defensivos e manteve a sentença condenatória em todos os seus termos (fls. 390-397).
+Nas razões de recurso especial, a defesa dos réus aponta violação do art. 67 do Código Penal, ao argumento de não haver sido compensada a agravante da reincidência com a atenuante da confissão na fixação das penas.
+Requer, assim, o provimento do recurso, a fim de que sejam revistas as dosimetrias.
+Apresentadas as contrarrazões (fls. 530-535) e admitido o recurso (fls. 571-576), veio o parecer do Ministério Público Federal (fls. 602-611), que opinou pelo provimento do recurso.
+Decido.
+O recurso é tempestivo e preenche todos os requisitos de admissibilidade, todavia, observo a ausência de interesse recursal em relação à ré [NOME], porque sua pena não foi exasperada pela reincidência.
+Assim, entendo que incide a Súmula n. 284 do Supremo Tribunal Federal, aqui aplicada por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", motivo pelo qual deixo de conhecer do especial da acusada.
+I. Compensação entre a confissão e a multirreincidência - inviabilidade
+No caso, o Juiz de primeira instância, ao exasperar a pena-base do réu [NOME], destacou: "reconheço a atenuante da confissão, contudo, sendo a reincidência preponderante, aumento 06 (seis) meses, perfazendo 03 (três) anos e 06 (seis) meses de reclusão" (fl. 304).
+A Corte de origem negou provimento ao apelo, sob a seguinte motivação (fls. 294-298, grifei):
+ ..
+Em relação ao pedido de compensação formulado pela defesa, conforme entendimento do Superior Tribunal de Justiça, mesmo nos casos de reincidência específica, é possível fazer a compensação da referida agravante com a atenuante de confissão espontânea, para fim de dosimetria da pena.
+No entanto, tendo em vista a múltipla reincidência do paciente, a compensação integral entre a confissão e a reincidência violaria os princípios da individualização da pena e da proporcionalidade.
+ ..
+Assim, considerando que, em favor do réu, está a circunstância atenuante da confissão espontânea e, contra ele, a circunstância agravante da múltipla reincidência, porquanto ostenta ao menos cinco condenações transitadas em julgado (antecedentes - fls. 102/114), tenho que a confissão espontânea deve ser compensada com una das reincidências (0009196-40.2012.8.22.0501), enquanto as demais devem agravar a pena, na proporção de 1/6, porém, em respeito ao princípio do non reformatio in pejus, mantenho o patamar de aumento fixada na sentença, em 6 meses, totalizando 3 anos e 6 meses de reclusão.
+Pela leitura do excerto transcrito, observo que o acórdão impugnado reconheceu a aplicação da circunstância atenuante, mas deixou de compensá-la com a agravante da reincidência por haver pelo menos cinco condenações pretéritas definitivas contra o réu [NOME].
+Acerca da compensação entre as circunstâncias agravante e atenuante reconhecidas, a matéria foi pacificada no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT. No primeiro, julgado em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" (destaquei).
+Ainda, a Terceira Seção do Superior Tribunal de Justiça afirmou a possibilidade de compensação entre a reincidência específica e a confissão, ao julgar o HC n. 365.963/SP (Rel. Ministro Felix Fischer, 3ª S., DJe 23/11/2017, grifei).
+Todavia, reafirmou, naquela oportunidade, não ser possível tal compensação quando se trata de réu multirreincidente. No ponto, confira-se excerto do voto condutor do acórdão:
+ ..
+Ocorre que ao se possibilitar a compensação entre as respectivas circunstâncias, denota-se que sequer foi anunciada ou mesmo ressalvada a aplicabilidade de quaisquer das espécies de reincidência, vale dizer, possibilitou-se, ainda que tacitamente, e para os referidos fins, que fossem viabilizados tanto o seu viés genérico, quanto o específico.
+Nesse sentido, não obstante a existência de arestos nesta Corte edificados em premissas diversas, entendo que a melhor hermenêutica a ser implementada na ocasião, até mesmo para se evitar descompasso e afronta à proporcionalidade, deverá ser aquela voltada à possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multirreincidência, conforme os precedentes emanados por este Tribunal Superior:  ..
+No caso em exame, como já delineado, a Corte local destacou o registro de cinco condenações definitivas pretéritas em desfavor do acusado, circunstância que inviabiliza a compensação pleiteada, nos termos da jurisprudência deste Tribunal Superior.
+II. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c os arts. 34, XVIII, "b", e 253, parágrafo único, II, "b", parte final, do RISTJ, não conheço do recurso especial de [NOME] Menezes de [NOME]; também conheço do recurso especial de [NOME] e a ele nego provimento.
+Determino o envio de cópia dos autos ao Juízo da condenação para a imediata execução da pena imposta caso os agentes não as cumpram atualmente.
+Publique-se e intimem-se.
