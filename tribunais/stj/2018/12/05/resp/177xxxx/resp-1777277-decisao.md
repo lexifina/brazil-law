@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão do TJRJ, o qual recebeu a seguinte ementa (e-STJ fls. 546/547):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. INDENIZATÓRIA. SENTENÇA DE EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO, EM FACE DA SEGUNDA APELADA E DE PARCIAL PROCEDÊNCIA DOS PEDIDOS FORMULADOS EM RELAÇÃO À SEGUNDA APELANTE. PREVENÇÃO DESTE ÓRGÃO JULGADOR. ILEGITIMIDADE PASSIVA DA SEGUNDA RÉ QUE SE MANTÉM. LIDE SOLUCIONADA COM BASE NAS DISPOSIÇÕES DO CÓDIGO DE PROTEÇÃO E DEFESA DO CONSUMIDOR, LEI N.º 8.078/90. A PARTE AUTORA É CONSUMIDORA AO PASSO QUE A RÉ REMANESCENTE É FORNECEDORA, ART.2.º E 3.º DO DIPLOMA CONSUMERISTA. ANTECIPAÇÃO DA TUTELA PARA ENTREGA DO IMÓVEL SOB PENA DE MULTA MENSAL MANTIDA POR ESTE ÓRGÃO JULGADOR. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. REJEIÇÃO.
+1. A condenação da Apelante ao pagamento de dano material na modalidade lucros cessantes a título de alugueres que poderiam ter sido auferidos no período da mora é medida que se impõe, devendo ser mantido, apenas com redução de sua base de cálculo e limitação de período.
+2. No que toca ao dano moral, entende-se evidente o dano sofrido pelo consumidor que adquire a casa própria e se vê privado de usufruí-la por atraso injustificado no término do empreendimento.
+3. A fixação da indenização deve ser equacionada pela reprovabilidade da conduta e duração do sofrimento, observada a capacidade econômica do causador do evento lesivo e as condições pessoais do ofendido. Nessa toada, entendo que a verba reparatória a esse título fixada em R$20.000,00 (vinte mil reais) se revela adequada e proporcional e cumpre a finalidade pedagógico-punitiva que visa desestimular a reincidência.
+DESPROVIMENTO DO RECURSO DO AUTOR E PARCIAL PROVIMENTO DO RECURSO DA SEGUNDA RÉ. MANUTENÇÃO DOS HONORÁRIOS.
+No especial (e-STJ fls. 570/581), fundamentado no art. 105, III, "a", da CF, a recorrente aponta ofensa aos arts. 186, 927 e 944 do CC/2002. Sustenta, em síntese, que o mero inadimplemento contratual não teria o condão de gerar dano moral, sendo necessário provar que a situação ultrapassou a esfera do mero aborrecimento, o que não ficou evidenciado nos autos.
+Alega ainda a exorbitância da indenização arbitrada (R$ 20.000,00 - vinte mil reais).
+Contrarrazões às fls. 584/593 (e-STJ).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Em relação à presença do dano moral, a jurisprudência desta Corte entende que o simples inadimplemento contratual não gera, por si só, reparação indenizatória, sendo possível provar que a conduta ilícita ultrapassou o mero dissabor, trazendo consequências fáticas que repercutam na esfera de dignidade da vítima.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. INDENIZAÇÃO. PARCIAL PROCEDÊNCIA. OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. RESPONSABILIDADE DA CONSTRUTORA. AUSÊNCIA DE EXCLUDENTE. LUCROS CESSANTES DEVIDOS. CUMULAÇÃO COM MULTA. POSSIBILIDADE. EQUIPARAÇÃO DE MULTAS. VALOR EXAGERADO PARA O COMPRADOR. DESEQUILÍBRIO CONTRATUAL. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. RECENTE ENTENDIMENTO DESTA CORTE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. É inaplicável o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(..)
+5. A moderna jurisprudência firmada no âmbito da Terceira Turma desta Corte é no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes-compradores.
+6. No caso concreto, a fundamentação do dano moral está justificada somente da frustração da expectativa da autora, que se privou do uso do imóvel pelo tempo em que perdurou o atraso na entrega da obra, sem tecer nota adicional ao mero atraso que pudesse, além dos danos materiais, causar grave sofrimento ou angústia a ponto de configurar verdadeiro dano moral.
+7. Agravo regimental parcialmente provido a fim de excluir a condenação por dano moral.
+(AgRg no AREsp n. 847.358/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/5/2017, DJe 1/6/2017.)
+No presente caso, o Tribunal de origem, com base nas provas apresentadas, concluiu pela configuração do dano moral, in verbis (e-STJ fl. 555):
+No que toca ao dano moral, entende-se evidente o dano sofrido pelo consumidor que adquire a casa própria e se vê privado de usufruí-la por atraso injustificado no término do empreendimento.
+In casu, o contrato firmado em 15/08/2009 previu a conclusão da unidade para o último dia do mês de agosto/2011, ressalvada a tolerância de 180 dias, fixado o prazo final em 28/02/2012.
+A outorga do habite-se em 25/09/2013, portanto 19 (dezenove) meses mais tarde, evidencia a quebra da expectativa criada pela Ré-Apelante que deve responder pelos danos morais, afastada a incidência do enunciado da súmula n.º 75 deste Tribunal.
+Com efeito, a frustração e os prejuízos oriundos do atraso da parte ré são incontestes, presente o nexo causal entre a omissão da vendedora e a angústia, ansiedade e transtornos experimentados pelo comprador, em razão do atraso.
+Dissentir dessa conclusão é inviável no âmbito do recurso especial, haja vista o óbice da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Quanto ao valor da indenização, conforme entendimento pacífico do STJ, a modificação da quantia arbitrada é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+O valor estabelecido pelo Tribunal a quo não enseja a intervenção do STJ.
+Em face do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
