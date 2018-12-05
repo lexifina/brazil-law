@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO. IMÓVEL PÚBLICO. DOAÇÃO. PROPRIEDADE RESOLÚVEL. REVERSÃO. LEI MUNICIPAL. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. RAZÕES DISSOCIADAS DO DISPOSITIVO LEGAL APONTADO VIOLADO. SÚMULA 284/STF.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME], em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 424):
+APELAÇÃO CÍVEL - CONSTITUCIONAL - USUCAPIÃO - IMÓVEL PÚBLICO: IMPOSSIBILIDADE - MUNICÍPIO - DOAÇÃO COM ENCARGO:
+PROPRIEDADE RESOLÚVEL - PATRIMÔNIO PÚBLICO: REVERSÃO. O imóvel objeto de doação pelo Município sujeito a encargo para destinação específica e reversão em caso de descumprimento, é, consumando esse último caso, a qualquer tempo, passível de retorno ao patrimônio público e, por isso, insuscetível de usucapião (art. 183, §3º, da Constituição Federal).
+No recurso especial, o recorrente, alegando violação do art. 1.238 do CC, sustenta que, considerando a prescrição da pretensão do Município de reaver o imóvel doado pelo município, não há mais possibilidade de reversão do imóvel ao patrimônio público municipal, não subsistindo as características que cercam um imóvel público, devendo ser reconhecida a aquisição da propriedade pela usucapião porque preeenchidos os requisitos exigidos, posse mansa, pacífica e ininterrupta, por mais de 20 (vinte) anos..
+Contrarrazões a fls. 464-469 e-STJ e 471-478 e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Confere-se que a Corte de origem se valeu do disposto no art. 183, § 3º, da CF, quanto à vedação de usucapião de imóveis públicos, e do art. 1.359 do CC, quanto à propriedade resolúvel, para resolver a lide. Na fundamentação adotada no acórdão recorrido, o órgão julgador consigna que o imóvel em tela é uma área pública do Município que foi objeto de doação à Faculdade de Teologia de Ipatinga, com encargo sujeito a condição resolutiva e como a lei municipal (Lei municipal n. 1.092/1989), que levou a efeito a desafetação para autorizar a transferência da propriedade do imóvel, determinou de forma expressa a vedação de alteração da destinação originária, o Município detém do direito de reavê-lo ao patrimônio público a qualquer tempo e, portanto, é insuscetível de usucapião (fls. 426-428 e-STJ).
+Ocorre que, no caso, a recorrente traz tese a respeito de possível prescrição da pretensão de reversão do imóvel pelo Município com base na alegação de violação do art. 1.238 do CC, norma que dispõe sobre os requisitos para aquisição da propriedade por usucapião.
+Tem-se, por primeiro, que a recorrente não enfrenta especificamente a fundamentação do acórdão recorrido, a qual remanesce incólume por falta de impugnação específica, mantendo o resultado do julgado e tornando inadmissível o recurso que não a impugnou. Incidência da Súmula 283/STF.
+Por segundo, a vinculação da tese da prescrição ao art. 1.238 do CC denota razões dissociadas, a não permitir a exata compreensão da controvérsia, o que impõe o não conhecimento do recurso. Incidência à espécie da Súmula 284/STF.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
