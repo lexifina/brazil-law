@@ -1,0 +1,11 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. TEMA NÃO ENFRENTADO PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. REGIME INICIAL. EXISTÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO FECHADO. INEVIDÊNCIA DE ILEGALIDADE.
+Writ indeferido liminarmente.
+DECISÃO
+Por meio deste writ, a Defensoria Pública vem a esta Corte Superior requerer a concessão liminar da ordem para que seja revista a reprimenda de [NOME] n. 0050568-74.2017.8.26.0050, da 20ª Vara Criminal da comarca da Capital/SP, aplicando-se a redutora do § 4º do art. 33 da Lei n. 11.343/2006 e, com isso, abrandando-se o regime prisional e substituindo-se a reprimenda privativa de liberdade por restritiva de direitos. Em caráter subsidiário, busca a alteração do regime inicial para o semiaberto.
+Ocorre que, ao que se tem dos autos e como informado pela própria impetrante, a questão relativa à aplicação da redutora não foi enfrentada pelo Tribunal paulista.
+Ora, não tendo a matéria sido objeto de apreciação pelo Tribunal de Justiça - nem sequer tendo sido opostos embargos de declaração para suprir eventual omissão do acórdão da apelação - não há como se proceder ao seu exame diretamente nesta Corte, sob pena de indevida supressão de instância.
+De qualquer forma, observo que há nesta Corte a compreensão de que, embora ações penais em curso não possam ser utilizadas para negativar a pena-base, podem servir como fundamento para considerar que haveria dedicação às atividades criminosas, o que afastaria a incidência da minorante do art. 33, § 4.º, da Lei n. 11.343/2006 (AgInt no AREsp n. 1.340.204/PI, Ministra Laurita Vaz, Sexta Turma, DJe 23/10/2018).
+Ainda nos termos da nossa jurisprudência, a valoração negativa da quantidade, natureza e diversidade de entorpecentes constitui fator suficiente para a determinação de regime inicial de cumprimento da pena privativa de liberdade mais gravoso (HC n. 427.216/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018). Assim, na espécie, justificada está a imposição do regime mais gravoso na quantidade, natureza e diversidade do entorpecente apreendido - 72,4 g de maconha, 43,3 g de cocaína e 4,4 g de crack.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
