@@ -1,0 +1,5 @@
+DECISÃO
+Diante da recente decisão proferida pelo STF, no bojo do RE n. 870.947/SE, da lavra do Ministro Luiz Fux, publicada no DJe de 26/9/2018, que conferiu efeito suspensivo aos embargos de declaração opostos pelos Estados, a fim de sobrestar a aplicação do entendimento firmado no referido aresto, relativamente à aplicação dos índices de correção monetária incidente sobre condenações da Fazenda Pública, há que se observar o referido decisum especificamente quanto a esses aspectos.
+É importante pontuar que o sobrestamento, por se relacionar apenas ao índice de correção, não interfere no imediato cumprimento da execução. Assim, esclareço que o bloqueio de que trata à decisão de fls. 274-275 refere-se, tão somente, a diferença entre os índices de correção monetária adotados antes do julgamento do RE n. 870.947/SE e aquele firmado em repetitivo por esta Corte, após o julgamento do referido recurso.
+Registro, por fim, que os referidos valores deverão permanecer em conta vinculada até que se julgue, em definitivo, o tema pelo STF. Após o julgamento, se for o caso, a parte poderá levantá-los.
+Publique-se e intimem-se.
