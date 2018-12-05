@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 182):
+TRIBUTÁRIO. PEDIDO DE RESSARCIMENTO. PRAZO PARA ANÁLISE E DECISÃO. ART. 24 DA LEI N. 11.457/07. CORREÇÃO MONETÁRIA. TERMO INICIAL. [NOME].
+1. Ultrapassado o prazo de 360 dias de que trata o art. 24 da Lei n. 11.457/207 para a análise de pedido de ressarcimento ou compensação, o contribuinte tem direito à atualização monetária dos respectivos créditos pela taxa [NOME], a contar do protocolo do pedido administrativo.
+2. A União é isenta do pagamento de custas processuais no âmbito da Justiça Federal, devendo restituir, no entanto, os valores adiantados pela parte adversa a esse título (Lei n. 9.289/1996, art. 4º, I, e parágrafo único).
+A insurgente aduz contrariedade ao art. 24 da Lei n. 11.457/2007 sob a alegação de que a correção monetária incidiria após a fluência do prazo de 360 dias.
+O apelo nobre foi admitido na origem.
+É o relatório.
+A controvérsia devolvida a este Tribunal diz respeito ao termo inicial para a incidência de correção monetária sobre créditos escriturais da contribuinte na hipótese de resistência ilegítima do fisco em restituir o valor devido.
+A Primeira Turma firmou o posicionamento de que a mora da administração tributária, para análise dos requerimentos formulados pelos contribuintes, tem incidência após o transcurso do prazo de 360 dias previsto no art. 24 da Lei n. 11.457/2007.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IPI. CREDITAMENTO. CORREÇÃO MONETÁRIA. SÚMULA 411/STJ. TERMO INICIAL: 360 DIAS APÓS PROTOCOLADO O PEDIDO DE RESSARCIMENTO. VERBA HONORÁRIA FIXADA EM R$ 5.000,00. VALOR NÃO CONSIDERADO IRRISÓRIO PELO STJ, CONSIDERANDO O VALOR ATRIBUÍDO À CAUSA (R$ 200.000,00) E O DECAIMENTO PARCIAL DAS AUTORAS. AGRAVO INTERNO DAS CONTRIBUINTES A QUE SE NEGA PROVIMENTO.
+1. Encontra-se pacificado o entendimento da 1a. Seção desta Corte de que eventual possibilidade de aproveitamento dos créditos escriturais não dá ensejo à correção monetária, exceto se tal creditamento for injustamente obstado pela Fazenda, considerando-se a mora na apreciação do requerimento administrativo de ressarcimento feita pelo Contribuinte como um óbice injustificado. Aplica-se a essa hipótese o enunciado 411 da Súmula do STJ, segundo o qual é devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco. A propósito, 1ª Seção do STJ consolidou esse entendimento por ocasião do julgamento do REsp. 1.035.847/RS, relatado pelo ilustre Ministro LUIZ FUX e julgado sob o regime do art. 543-C do CPC/1973.
+2. O marco inicial da correção monetária só pode ser o término do prazo conferido à Administração Tributária para o exame dos requerimentos de ressarcimento, qual seja, 360 dias após o protocolo dos pedidos. Precedentes: AgInt no REsp. 1.581.330/SC, Rel. Min. GURGEL DE FARIA, DJe 21.8.2017; AgRg no AgRg no REsp. 1.548.446/RS, Rel. Min. HUMBERTO MARTINS, DJe 10.12.2015; AgRg no AgRg no REsp. 1.255.025/SC, Rel. Min. HERMAN BENJAMIN, DJe 8.9.2015.
+ ..
+6. Agravo Interno das Contribuintes a que se nega provimento.
+(AgInt no REsp 1.348.672/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 5/12/2017)
+TRIBUTÁRIO. RESSARCIMENTO DE CRÉDITOS. PEDIDO ADMINISTRATIVO. MORA. CORREÇÃO MONETÁRIA. TERMO A QUO.
+1. A correção monetária de créditos escriturais só é devida quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco, hipótese em que é contada a partir do fim do prazo de que dispõe a administração para apreciar o pedido administrativo do contribuinte (360 - trezentos e sessenta dias), nos termos do que dispõe o art. 24 da Lei n. 11.457/2007.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.640.763/SC, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 15/2/2018)
+Por sua vez, a Segunda Turma entendia que "o prazo de 360 dias para a conclusão do processo administrativo de aproveitamento de créditos escriturais não pode ser confundido com o termo a quo para a incidência da correção monetária e de juros de mora, já que a resistência ilegítima do Fisco inicia-se com o protocolo dos pedidos de ressarcimento" (AgRg no REsp 1.465.757/SC, de minha relatoria, DJe 11/9/2015).
+Recentemente, a Primeira Seção, ao concluir o julgamento dos EREsp 1.461.607/SC, consolidou o entendimento segundo o qual somente após decorrido o prazo previsto na lei é que se pode considerar a demora injustificável a admitir a incidência de correção monetária.
+Assim, a correção monetária pela taxa [NOME] deve ser contada a partir do fim do prazo de que dispõe a administração para apreciar o pedido da contribuinte, que é de 360 dias (art. 24 da Lei n. 11.457/2007), estando o acórdão recorrido desalinhado da jurisprudência desta Corte Superior de Justiça.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de declarar que o termo a quo para a correção monetária dos créditos escriturais incide após o prazo inserto no art. 24 da Lei n. 11.457/2007.
+Publique-se. Intimem-se.
