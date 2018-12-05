@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 21):
+AGRAVO EM EXECUÇÃO - Progressão de regime - Deferimento - Recurso ministerial - Procedência - Reincidente - Condenado por tráfico de drogas - Art. 2º, § 2º, da Lei de Crimes Hediondos - Requisito objetivo consistente em 3/5 da pena privativa de liberdade - Satisfação do requisito objetivo somente em 14.06.2018, posteriormente à decisão recorrida, prolatada em 19.03.2018 - Decisão cassada - Recurso provido.
+No presente writ, a defesa sustenta, em síntese, que o apenado sofre constrangimento ilegal, uma vez que preenche os requisitos legais para a progressão: boa conduta carcerária e resgate do lapso necessário.
+Aponta que a Lei n. 10.792/2003 não mais exige o prévio parecer da Comissão Técnica de Classificação e o exame criminológico do reeducando para a instrução do pedido de progressão de regime, sendo suficiente, além do requisito temporal, a comprovação de bom comportamento carcerário emitido pelo Diretor do estabelecimento prisional.
+Aduz que o pedido de progressão está devidamente instruído com o atestado de bom comportamento carcerário do paciente, restando, deste modo, comprovados os requisitos do artigo 112 da LEP, não podendo ser referida progressão negada apenas sob os argumentos de que o paciente ostenta longa pena a cumprir e que os crimes por ele praticados são graves.
+Sustenta que a falta grave, que se menciona, remonta a longa data, tendo sido purgada pelo paciente.
+Requer, dessa forma, liminarmente, seja sustada a submissão do apenado ao regime de pena mais gravoso. No mérito, pugna pela cassação do acórdão prolatado pela Corte de origem, ""permitindo assim o cumprimento progressivo da pena nos termos do artigo 112 da LEP"" (e-STJ fl. 17).
+Liminar indeferida (e-STJ fls. 29/30).
+Informações prestadas pelo Juízo da Vara de Execuções Criminais da Comarca de Marília/SP (e-STJ fls. 37/41).
+O Ministério Público se manifestou, opinando pela extinção do writ sem resolução de mérito ou pela denegação da ordem (e-STJ fls. 43/48).
+É o relatório. Decido.
+Inicialmente, cumpre ressaltar que o Supremo Tribunal Federal, por sua Primeira Turma, e este Superior Tribunal de Justiça, pela sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer. Nesse sentido, destaco os seguintes julgados: STF - (HC 104045, Relatora Min. ROSA WEBER, Primeira Turma, julgado em 21/08/2012, ACÓRDÃO ELETRÔNICO DJe-176 DIVULG 05-09-2012 PUBLIC 06-09-2012); e STJ - (HC 239550/RJ, Relatora Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/09/2012, DJe 26/09/2012).
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A respeito do lapso temporal (requisito objetivo) para a progressão de regime prisional, assim decidiu a Corte de origem (e-STJ fl. 22):
+Tratando-se de reincidente, dispõe o § 2º do art. 2º da Lei n. 8.072/90 que a progressão de regime se dará quando satisfeitos 3/5 da pena privativa de liberdade.
+Ocorre que o agravado satisfez 3/5 da pena somente em 14.06.2018, sendo que a decisão recorrida, que a ele deferiu o benefício, foi prolatada em 19.03.2018, ou seja, anteriormente à satisfação do requisito objetivo.
+Verifica-se, pois, que sequer o requisito objetivo se mostrava satisfeito, razão pela qual a decisão deve ser cassada.
+O acórdão impugnado está em sintonia com a jurisprudência deste Superior Tribunal de Justiça, pois, praticado crime hediondo, na vigência da Lei n. 11.464/2007, é necessário, para fins de progressão de regime, em todas as fases/etapas da execução, o cumprimento de 2/5 ou 3/5 da pena, conforme se trate de apenado primário ou reincidente.
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIME HEDIONDO. PROGRESSÃO DE REGIME. DISTINÇÃO. REQUISITO OBJETIVO. IMPOSSIBILIDADE. 2/5 OU 3/5 PARA CADA PROGRESSÃO. PENA A CUMPRIR. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - A jurisprudência do Superior Tribunal de Justiça não faz distinção entre os regimes de cumprimento da pena para fins de progressão, de modo que, em se tratando de crimes hediondos, as frações de 2/5, para o apenado primário, ou 3/5, para o reincidente, previstas no art. 2º, §2º, da Lei n. 8.072/90, se aplicam a cada uma das fases de progressão, independentemente de se tratar da primeira ou segunda.
+Habeas corpus não conhecido.
+(HC 410.798/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 20/02/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CRIME HEDIONDO PRATICADO APÓS A VIGÊNCIA DA LEI N. 11.464/2007. LAPSO TEMPORAL DE 2/5 (DOIS QUINTOS), SE PRIMÁRIO, 3/5 (TRÊS QUINTOS), SE REINCIDENTE. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Nos termos da jurisprudência desta Corte Superior, praticado crime hediondo na vigência da Lei n. 11.464/2007, é necessário, para fins de progressão de regime, o cumprimento, em todas as fases da execução, de 2/5 (dois quintos) ou 3/5 (três quintos) da pena, conforme se trate de apenado primário ou reincidente.
+3. Habeas corpus não conhecido.
+(HC 349.672/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016)
+Inexistência, portanto, constrangimento ilegal a justificar a concessão da ordem de ofícío.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, nego seguimento ao presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
