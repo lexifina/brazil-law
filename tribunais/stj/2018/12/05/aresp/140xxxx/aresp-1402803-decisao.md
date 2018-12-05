@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA UM NOVO JULGAMENTO.
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional da 4ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REDIRECIONAMENTO.
+1. Ao rejeitar a exceção de pré-executividade (ev127- DESPADEC1), o Juízo de origem, pautado no princípio da especialidade, delimitou a prevalência da L 6.830/1980 sobre o CPC em matéria de desconsideração da personalidade jurídica. 2. Eventual excesso na duração da medida cautelar fiscal, por inobservância do prazo fixado pelo art. 11 da L 8.397/1992, em que pese afetar a manutenção das medidas constritivas, não invalida o conteúdo informativo do procedimento, que permanece hábil a fundamentar o redirecionamento da execução fiscal.
+Os aclaratórios foram rejeitados.
+No recurso especial, interposto com fundamento no artigo 105, inciso III, "a" da Constituição Federal, o recorrente alega violação dos arts: 134, 135 e 1.022 do CPC/2015. Sustenta que, mesmo com a oposição dos aclaratórios, o Tribunal a quo se manteve silente em relação à questão essencial para o deslinde da causa. Aduz que não fora observado o procedimento estabelecido no CPC/2015, a fim de se desconsiderar a personalidade jurídica.
+O recurso foi inadmitido pela decisão às fls. 145/146, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Primeiramente, no que diz respeito à violação ao art. 1.022 do CPC/2015, tem razão o recorrente, tendo em vista que o órgão julgador de origem, apesar de instado na via recursal própria e oportunamente pela parte, absteve-se de emitir pronunciamento sobre questões expressamente ventiladas pelo recorrente na apelação e nos embargos de declaração, quais sejam:
+O Agravante destacou em sua peça recursal que na Execução que deu ensejo à Exceção de Pré-Executividade rejeitada, havia a informação (fundamentos de fato), de que no processo existia penhora em dinheiro em quantia suficiente para quitação da dívida executada.
+A quantia era pertencente ao Devedor Principal, portanto, em ordem de responsabilidade, já se encontrava direcionado o processo à pessoa a quem de direito.
+Contudo, o v. acórdão ao entender válido o redirecionamento da ação de cobrança contra terceiros, silenciou a respeito desse fato relevante, eis que se a dívida já possuía penhora em dinheiro, desnecessário e sem utilidade o tumulto causado pela inclusão de inúmeros novos réus na ação.
+Inclusive, já havia indicativo de existência de penhora que ocupa primeiro lugar na ordem de preferência, não havendo motivo para serem penhorados bens de terceiros, de outra natureza e em grau de preferência anterior.
+Bastaria à União requerer a conversão em renda, e somente caso não aceito pelo devedor ou pelo Juiz, ai sim, requerer eventual redirecionamento, porque a finalidade do processo já se encontrava plenamente obtida.
+Diante do exposto, requer seja esclarecido se mesmo existente prévia penhora em DINHEIRO de quantia suficiente para quitação da dívida, o redirecionamento para terceiros estranhos ao processo deve ocorrer paralelamente, o que contribui para ausência da efetividade e celeridade processuais, ou somente após o decurso de prazo para eventual quitação (conversão em renda), tal procedimento deve ser manejado." (Evento 29)
+Assim, verifica-se que, de fato, a adequada solução da lide perpassa necessariamente sobre a valoração das questões de fato e de direito apontadas nos embargos de declaração, com manifestação explícita sobre a extensão e o alcance dos dispositivos invocados, considerando-se o caso concreto.
+Essencial, assim, que os autos retornem à instância a quo, para que seja proferido novo julgamento.
+Ante o exposto, com amparo no artigo 557, § 1º-A do CPC, dou provimento ao recurso especial para anular o acórdão proferido no âmbito dos embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, enfrentando o ponto tido por omisso.
+Publique-se. Intimem-se.
