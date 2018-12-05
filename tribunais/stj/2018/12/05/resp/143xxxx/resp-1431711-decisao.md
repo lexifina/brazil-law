@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA SOBRE VALORES PAGOS EM ACORDO TRABALHISTA. USO/DESGASTE DE VEÍCULO. DANOS MORAIS. HONORÁRIOS ADVOCATÍCIOS.
+1. A ausência de especificação no acordo trabalhista das verbas de caráter indenizatório induz à incidência do imposto de renda sobre o total do valor acordado na Justiça do Trabalho. Contudo, tendo sido as verbas indenizatórias discriminadas no acordo trabalhista, sobre elas não incide tributação.
+2. No caso de verbas recebidas a título de indenização por danos morais, o entendimento desta Turma é no sentido de que possuem natureza indenizatória, limitando-se a recompor o patrimônio imaterial da vítima, ainda que mediante pagamento de um valor em pecúnia. Não representa essa verba riqueza nova a autorizar sua tributação pelo imposto de renda, mas apenas reconstituição do equilíbrio quebrado pela lesão ocasionada pelo dano.
+3. O valor pago à título ressarcimento de despesas com uso/desgaste de veículo próprio utilizado para o exercício da atividade profissional não pode ser considerado remuneração, uma vez visa à reposição do que foi desembolsado pelo trabalhador ao utilizar veículo de sua propriedade, não configurando um ganho ou um acréscimo patrimonial.
+4.Tendo a parte autora sido sucumbente na maioria dos seus pedidos, deve ser reformada a sentença determinando-se que a verba honorária fixada seja distribuída na proporção de 2/3 para o autor e 1/3 para a União.
+Opostos embargos de declaração, foram rejeitados sem acréscimo.
+A parte recorrente alega violação do art. 535 do CPC/1973, dos arts. 43 e 111 do CTN e dos arts. 39 e 43 do Decreto n. 3.000/1999, sustentando: "não há qualquer dispositivo legal que autorize a isenção do imposto de renda pelo recebimento de verba de indenização" (e-STJ fls. 119/211).
+Sem contrarrazões.
+Recurso especial admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, vejamos o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 189/190):
+No tocante ao valor pago a título ressarcimento de despesas com uso/desgaste de veículo próprio utilizado para o exercício da atividade profissional, tenho que este não pode ser considerado remuneração, uma vez que tal verba visa à reposição do que foi desembolsado pelo trabalhador ao utilizar veículo de sua propriedade, não configura um ganho ou um acréscimo patrimonial. Trata-se, portanto, de numerário cuja percepção não configura riqueza nova, fruto do capital, do trabalho, ou da combinação desses dois fatores, tendo nítido caráter indenizatório.
+Destarte, a presunção estabelecida pela União de que o montante pago pelo uso/desgaste de veículo próprio para o exercício da atividade profissional, em função do seu elevado valor (R$ 66.144,96), seria composto, na verdade, de parcelas salariais, não se reveste de razoabilidade, principalmente se considerado que o acordo foi entabulado já na fase recursal e que a União não logrou comprovar suas alegações.
+Pois bem.
+Da tese de violação do art. 535 do CPC/1973.
+O recurso não tem condição de ser conhecido, pois esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 535 do CPC/1973 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; e AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Da tese de violação dos arts. 43 e 111 do CTN e dos arts. 39 e 43 do Decreto n. 3.000/1999.
+Incontroversa no acórdão recorrido a premissa de que os valores foram pago a título de indenização, o conhecimento do recurso encontra óbice na Súmula 83 do STJ; vide:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AUXÍLIO CONDUÇÃO. IMPOSTO DE RENDA. NÃO-INCIDÊNCIA.  ..
+1. A incidência do imposto de renda tem como fato gerador o acréscimo patrimonial, sendo, por isso, imperioso perscrutar a natureza jurídica da verba paga pela empresa sob o designativo de auxílio condução, a fim de verificar se há efetivamente a criação de riqueza nova: a) se indenizatória, que, via de regra, não retrata hipótese de incidência da exação; ou b) se remuneratória, ensejando a tributação. Isto porque a tributação ocorre sobre signos presuntivos de capacidade econômica, sendo a obtenção de renda e proventos de qualquer natureza um deles.
+2. O auxílio condução consubstancia compensação pelo desgaste do patrimônio dos servidores, que utilizam-se de veículos próprios para o exercício da sua atividade profissional, inexistindo acréscimo patrimonial, mas uma mera recomposição ao estado anterior sem o incremento líquido necessário à qualificação de renda.  ..
+ ..
+8. Recurso especial da União Federal desprovido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+9. Recurso especial da parte autora parcialmente conhecido e, nesta parte provido, tão-somente para determinar a aplicação da prescrição decenal, nos termos da fundamentação expendida.
+(REsp 1096288/RS, repetitivo, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 08/02/2010)
+No mesmo sentido, dentre outros: EDcl no AgInt no REsp 1340660/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 06/09/2018; e AgRg no REsp 1296710/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/10/2013, DJe 24/10/2013.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
