@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, do NCPC), interposto por DEFENSORIA PÚBLICA DA UNIÃO, em face de decisão que negou seguimento a recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 1370, e-STJ):
+AÇÃO CIVIL PÚBLICA. PROGRAMA DE ARRENDAMENTO RESIDENCIAL. COMPETE À CAIXA ECÔMICA FEDERAL INSTITUIR A EMPRESA ADMINSITRADORA DO CONDOMÍNIO. ILEGITIMIDADE DE SÍNDICA ELEITA POR MORADORES. PAGAMENTOS FEITOS A SÍNDICA ELEITA SÃO INVÁLIDOS. DEVER DE QUITAÇÃO PARA COM A ADMINISTRADORA INDICADA PELA CEF. APELAÇÃO E REMESSA NECESSÁRIA DESPROVIDAS.
+1. A Defensoria Pública da União ingressou com Ação Civil Pública, em prol da coletividade constituída pelos moradores do Condomínio Vivendas do Caminho das Amendoeiras, na qual objetiva declarar a validade dos pagamentos de cotas condominiais realizados à síndica, eleita pelos moradores em Assembleia, durante o período em que houve "autogestão" do condomínio, impedindo as Apeladas CEF e Effetiva de cobrar, direta ou indiretamente, tais valores.
+2. O Condomínio Vivendas do Caminho das Amendoeiras foi instituído pelo Programa de Arrendamento Residencial (PAR) e, por expressa determinação legal, cabe à Caixa Econômica Federal a operacionalização do programa (art. 4º, inciso III, da Lei nº 10.188/2001), decorrendo desta atribuição a função de escolha da empresa síndica que fará a administração/gestão do condomínio.
+3. A eleição pelos moradores de síndica, conferindo a esta poder de gestão, é  ato ilegal, pois ocorreu de forma alheia às regras do Programa ao qual o condomínio está inserido.
+4. Sendo os condôminos sabedores de que cabia à CEF e à empresa que esta escolhesse o gerenciamento do condomínio, não se pode admitir que a eleição de uma síndica paralela ao Programa, bem como os pagamentos das taxas condominiais feitos a esta, tenham se dado com boa-fé, o que acaba por invalidar tais pagamentos.
+5. Não há que se falar em enriquecimento sem causa pela CEF, já que, por ser a legítima credora e tendo em vista que os débitos encontram-se em aberto, nada a impede de cobrar a quitação da dívida.
+6. Apelação e Remessa Necessária desprovidas.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a recorrente aponta ofensa aos artigos 884 e 885 do CC/02; e 1022 do NCPC.
+Sustenta, em síntese, que "as despesas condominiais, tais como água e esgoto, luz e energia, jardinagem, portaria, etc., foram quitadas à época, sendo impossível novo pagamento, visto que não há mais o que se pagar" (e-STJ, fl. 1400).
+Contrarrazões às fls. 1408/1418 (e-STJ).
+Em juízo de admissibilidade (fls. 1425/1428, e-STJ) negou-se o processamento do recurso especial, sob o fundamento de incidência das Súmulas 7, 83 e 211 do STJ.
+Daí o agravo (art. 1042 do NCPC - de fls. 1434/1452, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 1458/1470 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Quanto à apontada violação do artigo 1.022 do NCPC, não assiste razão à recorrente, porquanto uníssona a jurisprudência deste STJ no sentido de que inocorre a mácula quando clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Com efeito, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÃO. INVERSÃO DO ÔNUS DA PROVA E DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC (art. 535, I e II, do CPC/73). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+(AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+O que se vê, na verdade, no presente caso, é o inconformismo da ora recorrente com o fato de suas teses não terem sido acolhidas pelo órgão julgador.
+Desta forma, considerando que as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+2. Além disso, a Corte Regional, ao negar provimento à apelação da ora insurgente, consignou que "a eleição pelos moradores da síndica Cátia, conferindo a esta poder de gestão, configura ato ilegal, pois ocorreu de forma alheia às regras do Programa ao qual o condomínio está inserido", bem como a Convenção de Condomínio, art. 17, parágrafo primeiro, "já que, como visto, pertence à Caixa Econômica Federal a atribuição de escolher quem fará a administração gestão condominial", e, ainda, constatou o Tribunal a quo "ausente a boa-fé, se tornam ilegítimos os pagamentos realizados à Srª Cátia, o que confere aos administradores legítimos (CEF e Effetiva) o poder de cobrança das taxas condominiais devidas, o que não caracteriza pagamento em duplicidade".
+É, aliás, o que se extrai do seguinte excerto (fls. 1368/1369, e-STJ):
+Cinge-se a discussão em apreciar a (in)validade dos pagamentos efetuados pelos moradores do Condomínio Vivendas do Caminho das Amendoeiras , instituído pelo Programa de Arrendamento Residencial (PAR), à síndica eleita em Assembleia, Srª Cátia Cristina Carneiro Marques, durante o período em que esta administrou o condomínio.
+Ocorre que, por expressa determinação legal, cabe à Caixa Econômica Federal a operacionalização do PAR (art. 4º, inciso III, da Lei nº 10.188/2001), decorrendo desta atribuição a função de escolha da empresa síndica que fará a administração/gestão do condomínio.
+Na própria Convenção de Condomínio consta no art. 17, parágrafo primeiro,  que "enquanto o Fundo de Arrendamento Residencial - FAR detiver a propriedade de, no mínimo, 2/3 das unidades autônomas, o Síndico, obrigatoriamente pessoa jurídica, será indicado e contratado pela Caixa Econômica Federal, representante daquele Fundo, com mandato de 2 (dois) anos, podendo o respectivo contrato ser renovado sucessivamente por iguais períodos". Assim, a eleição pelos moradores da síndica Cátia, conferindo a esta poder de gestão, configura ato ilegal, pois ocorreu de forma alheia às regras do Programa ao qual o condomínio está inserido, já que, como visto, pertence à Caixa Econômica Federal a atribuição de escolher quem fará a administração gestão condominial.
+Desse modo, sendo os condôminos sabedores de que cabia à CEF e à empresa que esta escolhesse o gerenciamento do condomínio, não se pode admitir que a eleição de uma síndica paralela ao Programa, bem como os pagamentos das taxas condominiais feitos a esta, tenham se dado com boa-fé.
+Sendo assim, ausente a boa-fé, se tornam ilegítimos os pagamentos realizados à Srª Cátia, o que confere aos administradores legítimos (CEF e Effetiva) o poder de cobrança das taxas condominiais devidas, o que não caracteriza pagamento em duplicidade, pois os primeiros sequer são válidos, de acordo com o que dispõe o art. 310 do Código Civil:
+(..)
+Portanto, não há que se falar em enriquecimento sem causa pela CEF, já que, por ser a legítima credora e tendo em vista que os débitos encontram-se em aberto, nada a impede de cobrar a quitação da dívida.
+Deixo a ressalva de que fica assegurado aos moradores que efetuaram os pagamentos à Srª Cátia, o direito de regresso dos valores que deverão pagar a administradora instituída pela Caixa econômica Federal.
+Ocorre, conforme se constata das razões recursais, que os referidos fundamentos, não foram impugnados pela parte recorrente, eis que limitou-se a sustentar a ocorrência de bis in idem e enriquecimento ilícito.
+Desse modo, incide o disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Ilustrativamente:
+RECURSO ESPECIAL - SEGURO - EMBRIAGUEZ - PROVA - FUNDAMENTO INATACADO - JUROS MORATÓRIOS - TERMO INICIAL - MATÉRIA DE ORDEM PÚBLICA.
+1.- Ausente impugnação a fundamentos do acórdão recorrido, aplica-se a Súmula 283 do Supremo Tribunal Federal.
+ ..
+3.- Agravo Regimental improvido. (AgRg no REsp 1086197/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/06/2011, DJe 01/07/2011)
+Ademais, para acolhimento do apelo extremo, seria imprescindível derruir as afirmações contidas no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática e na reapreciação de cláusulas contratuais, incidindo, na espécie, os óbices da Súmulas n. 5 e 7 deste Superior Tribunal de Justiça, motivo pelo qual é manifesto o descabimento do recurso especial.
+3. Ante o exposto, nego provimento ao recurso, com amparo no artigo 932 do NCPC c/c súmula 568/STJ.
+Publique-se.
+Intimem-se.
