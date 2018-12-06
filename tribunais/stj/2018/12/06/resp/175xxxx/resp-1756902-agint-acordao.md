@@ -1,0 +1,124 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE SENTENÇA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ANTERIOR EXTINÇÃO DA EXECUÇÃO, POR ILEGITIMIDADE PASSIVA. PRESCRIÇÃO. CITAÇÃO VÁLIDA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 24/10/2018, que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Embargos à Execução de Sentença, alegando excesso de execução e ocorrência da prescrição da execução. Sobreveio a sentença, que julgou parcialmente procedente o pedido, rejeitando a arguição de prescrição e corrigindo o valor executado. O acórdão recorrido reconheceu a prescrição e extinguiu a execução de sentença, daí a interposição do Recurso Especial, que foi provido, pela decisão ora agravada.
+III. De acordo com a orientação jurisprudencial predominante nesta Corte, "mesmo extinto o processo por ilegitimidade passiva, a citação válida possui o condão de interromper o curso do prazo prescricional ante a aparência de correta propositura da ação. Precedentes" (STJ, AgInt no REsp 1.618.257/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 28/03/2017). No mesmo sentido: STJ, AgInt no AREsp 1.294.919/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 17/09/2018; AgInt no REsp 1.652.436/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 17/08/2018; AgInt no REsp 1.725.885/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/06/2018; AgRg no REsp 1.385.528/GO, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 15/04/2016; REsp 1.668.107/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017.
+IV. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto pela FAZENDA NACIONAL, em 01/11/2018, contra decisão de minha lavra, publicada em 24/10/2018, assim fundamentada, in verbis:
+"Trata-se de Recurso Especial, interposto por SCHWENGBER, SOARES & ADVOGADOS, em 21/09/2017, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"EMBARGOS À EXECUÇÃO DE SENTENÇA. INSS. ILEGITIMIDADE PASSIVA. CITAÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO. INOCORRÊNCIA.
+1. A partir da Lei 11.457/2007 houve a transferência das atribuições do INSS pra a União, inclusive no que tange à legitimidade exclusiva do ente federado a suportar a condenação da verba sucumbencial de demanda movida inicialmente contra o ente autárquico.
+2. A citação de parte ilegítima não interrompe o prazo prescricional" (fl. 48e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 50/54e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. CORREÇÃO DE ERRO MATERIAL. INEXISTÊNCIA. PREQUESTIONAMENTO IMPLÍCITO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Não se enquadrando em qualquer das hipóteses de cabimento legalmente previstas, devem ser rejeitados os declaratórios.
+3. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (art. 1.025 do CPC/2015)" (fl. 60e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 219 do CPC/73; 240, § 1º, e 1.022, ambos do CPC/2015; 202, I, V e VI do CC; 16 da Lei 11.457/2007; 4º, II, a e 5º, I, ambos do Decreto 200/67 e 17 da Lei 8.029/90, sustentando, em síntese, que, "com o ajuizamento da execução de sentença contra o credor originário, INSS, operou-se a interrupção do prazo prescricional, de modo que o pronto ajuizamento da execução contra a União Federal, não transbordou o prazo quinzenal" (fl. 67e).
+Contrarrazões a fls. 77/80e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 81e).
+Na origem, trata-se de Embargos à Execução de sentença em face de ação de execução de honorários sucumbenciais ajuizados pela UNIÃO, em que alega a prescrição do título executivo, ao fundamento de que a sentença exequenda transitou em julgado em novembro de 2006, há mais de cinco anos da propositura da ação executiva contra a União.
+Julgados parcialmente procedentes os Embargos, recorreu a UNIÃO, tendo sido reformada a sentença, pelo Tribunal local, reconhecendo a prescrição e extinguindo a execução de sentença, pelos seguintes fundamentos:
+"No caso dos autos, constou do título judicial o INSS, já que, à época, a autarquia era a responsável pela cobrança judicial das contribuições previdenciárias. A sentença foi confirmada por este Regional, transitando em julgado em nov/2006, conforme certidão de fl. 36, verso, dos autos em apenso.
+Em 29/09/2008, a parte ingressou com execução de sentença contra o INSS, tendo sido reconhecida a ilegitimidade passiva da autarquia federal.
+Em razão disso, a sociedade de advogados ajuizou, em 09/10/2012, a presente execução de sentença contra a União Federal (Fazenda Nacional).
+(..)
+A ilegitimidade do INSS é inquestionável, tanto que reconhecida na primeira execução proposta.
+Não havendo citação válida, não há se falar em interrupção da prescrição.
+Assim, merece acolhimento a apelação para reconhecer a prescrição e, em conseqüência, julgar procedentes os embargos, extinguindo a execução de sentença" (fls. 45/46e).
+Daí a interposição do presente Recurso Especial, que merece prosperar.
+Com efeito, o entendimento da jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que a citação válida interrompe o prazo prescricional e retroage à data da propositura da ação, mesmo que ocorra em processo extinto sem julgamento do mérito em decorrência da ilegitimidade da parte.
+Nesse sentido, os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE, AMPARADA NA SÚMULA 83 DO STJ, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DAS AUTORAS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, mesmo tendo sido extinta sem resolução de mérito a ação anteriormente proposta, a citação no prazo e na forma da lei processual é suficiente a obstar a suscitada prescrição e viabilizar o prosseguimento do feito. Precedentes.
+2. Agravo interno desprovido" (STJ, AgInt no REsp 1.652.436/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 17/08/2018).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PROCESSO EXTINTO POR ILEGITIMIDADE DE PARTE. CITAÇÃO VÁLIDA. EFEITO INTERRUPTIVO DA PRESCRIÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A citação válida é apta a interromper a prescrição, ainda que o processo tenha sido extinto por ilegitimidade da parte, ressalvando-se apenas as causas de inércia do autor, previstas no art. 267, II e III, do CPC/73. Precedentes.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido" (STJ, AgInt no REsp 1.725.885/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/06/2018).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. IRPF. AÇÃO DE REPETIÇÃO DE INDÉBITO. SERVIDOR ESTADUAL. AJUIZAMENTO NA JUSTIÇA FEDERAL, CONTRA A FAZENDA NACIONAL. EXTINÇÃO POR ILEGITIMIDADE PASSIVA. NOVO AJUIZAMENTO NA JUSTIÇA ESTADUAL. PRESCRIÇÃO. APROVEITAMENTO DA CITAÇÃO VÁLIDA REALIZADA NA JUSTIÇA FEDERAL. POSSIBILIDADE.
+1. Trata-se de Ação de Repetição de Indébito promovida por servidores estaduais, discutindo a não incidência de IRPF sobre parcela de sua remuneração.
+2. Originalmente, o feito foi promovido na Justiça Federal, porque foi indicada a Fazenda Nacional para ocupar o polo passivo. Extinto o feito em razão da ilegitimidade passiva, a demanda foi ajuizada na Justiça Comum, desta vez contra o Estado do Paraná.
+3. O acórdão hostilizado decretou a prescrição, considerando que a citação válida somente interrompe a prescrição, na forma do art. 219 do CPC/1973, se, ainda que ordenada por juiz incompetente, for validamente promovida, ou seja, contra o réu corretamente indicado.
+4. A orientação acima destoa da jurisprudência do STJ, segundo o qual a citação válida interrompe a prescrição, mesmo quando envolver parte ilegítima, excetuando-se, apenas, os casos em que o feito é extinto sem resolução do mérito por abandono da parte.
+5. Superado o entendimento adotado no acórdão hostilizado, deve o feito retornar à origem para prosseguimento da análise da Apelação, considerando-se, para efeito da interrupção da prescrição, a citação promovida na demanda que tramitou na Justiça Federal.
+6. Recurso Especial provido" (STJ, REsp 1.668.107/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Destarte, estando o acórdão recorrido em confronto com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial e determino a devolução dos autos à origem, para prosseguimento da execução de sentença" (fls. 121/125e).
+Inconformada, sustenta a parte agravante que:
+"A Fazenda Nacional não desconhece nem desconsidera os precedentes indicados pela eminente Min. relatora na r. decisão agravada. Não obstante, a agravante entende que o caso não pode ser decido sem ampara na colegialidade, porquanto se trata de tema ainda não consolidado nesse c. STJ.
+Destarte, a questão merece ser enfrentada pela c. Primeira Turma.
+No que diz respeito à violação à legislação federal, frise-se que o recurso especial trata de tese dissonante de precedente recente desse c. STJ, confira-se:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. INTERRUPÇÃO DA PRESCRIÇÃO. CITAÇÃO VÁLIDA. AJUIZAMENTO DE AÇÃO INDENIZATÓRIA CONTRA PARTE MANIFESTAMENTE ILEGÍTIMA. EMENDA REALIZADA APÓS O IMPLEMENTO DO PRAZO PRESCRICIONAL. CITAÇÃO DA PARTE LEGÍTIMA OCORRIDA DE MODO INTEMPESTIVO, QUANDO JÁ ESCOADO O LAPSO PRESCRICIONAL. INAPLICABILIDADE DO EFEITO INTERRUPTIVO RETROATIVO.
+1. Discussão acerca da eficácia interruptiva da prescrição operada pela citação válida, mas de parte ilegítima, em relação à parte legítima contra a qual apenas foi direcionada a demanda após o acolhimento do pedido de emenda da petição inicial.
+2. Nova citação realizada apenas após o implemento do prazo prescricional e do escoamento dos prazos previstos nos §§ 2º e 3º do art. 219 do CPC/73, contados do primeiro despacho ordinatório.
+3. Ação indenizatória por danos morais decorrentes de veiculação, em 15/06/2004, de matéria jornalística alegadamente ofensiva ajuizada em 13/06/2007, alguns dias antes do implemento da prescrição trienal prevista no art. 206, §3º, inciso V, do CC.
+4. A maior parte dos precedentes do STJ, versando acerca dos efeitos interruptivos da prescrição advindos da citação válida, remontam a fatos ocorridos na vigência do art. 175 do CC/16, cuja revogação pelo CC/02 e posterior tratamento legislativo do tema, exige uma nova abordagem da questão.
+5. A interpretação que mais bem atende ao disposto no art. 219, §1º, do CPC/73 e, ainda, ao art. 202, inciso I, do CC, é a de que apenas com a citação formalmente correta e tempestiva da parte legitimada para estar no polo passivo da ação, é que se poderá entender interrompida a prescrição.
+6 Recurso especial desprovido.
+(REsp 1527157/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 05/06/2018, DJe 08/06/2018)  Grifou-se.
+Desta feita, a Fazenda Nacional entende que não houve interrupção do prazo prescricional, devendo ser mantido o acórdão recorrido que indicou a ilegitimidade inquestionável da parte contra a qual foi proposta a execução, atraindo a consequência de que inexiste citação válida capaz de culminar na interrupção da prescrição" (fls. 132/133e).
+Por fim, requer "a reconsideração da decisão agravada ou, se assim não entender Vossa Excelência, que o feito seja submetido a julgamento pela Turma, negando-se provimento ao Recurso Especial, conforme aduzido nas razões recursais" (fl. 133e).
+Impugnação da parte agravada, a fls. 136/139e, pelo improvimento do recurso.
+É o relatório.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os argumentos da parte agravante, as razões deduzidas neste recurso não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Trata-se, na origem, de Embargos à Execução de Sentença, opostos pela FAZENDA NACIONAL, em face de [NOME], em Ação de Execução de honorários advocatícios sucumbenciais, alegando, além do excesso de execução, a ocorrência da prescrição da execução.
+Após o regular processamento do feito, sobreveio a sentença, que julgou parcialmente procedente o pedido, rejeitando a arguição de prescrição e corrigindo o valor executado (fls. 22/27e).
+Interposta Apelação, pela FAZENDA NACIONAL (fls. 30/32e), o Tribunal de origem assim decidiu a questão, no que interessa à espécie:
+"A discussão neste recurso limita-se à interrupção da prescrição quando citada parte ilegítima a figurar no feito.
+No caso dos autos, constou do título judicial o INSS, já que, à época, a autarquia era a responsável pela cobrança judicial das, contribuições previdenciárias. A sentença foi confirmada por este Regional, transitando em julgado em nov/2006, conforme certidão de fl. 36, verso, dos autos em apenso.
+Em 29/09/2008, a parte ingressou com execução de sentença contra o INSS, tendo sido reconhecida a ilegitimidade passiva da autarquia federal.
+Em razão disso, a sociedade de advogados ajuizou, em 09/10/2012, a presente execução de sentença contra a União Federal (Fazenda Nacional).
+Pois bem. A partir da Lei 11.457/2007 houve a transferência das atribuições do INSS pra a União, inclusive no que tange à legitimidade exclusiva do ente federado a suportar a condenação da verba sucumbencial de demanda movida inicialmente contra o ente autárquico. Nesse sentido:
+(..)
+A ilegitimidade do INSS é inquestionável, tanto que reconhecida na primeira execução proposta.
+Não havendo citação válida, não há se falar em interrupção da prescrição.
+Assim, merece acolhimento a apelação para reconhecer a prescrição e, em consequência, julgar procedentes os embargos, extinguindo a execução de sentença.
+Os honorários advocatícios devem ser suportados exclusivamente pela embargada, os quais fixo em 10% sobre o valor atribuído à execução.
+Ante o exposto, voto por dar provimento à apelação" (fls. 45/46e).
+Os Embargos de Declaração, opostos por [NOME] (fls. 50/54e), foram rejeitados (fls. 55/60e).
+Nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 219 do CPC/73, 240, § 1º, e 1.022 do CPC/2015, 202, I, V e VI, do Código Civil, 16 da Lei 11.457/2007, 4º, II, a, e 5º, I, do Decreto 200/67 e 17 da Lei 8.029/90, sustentando, em síntese, que, "com o ajuizamento da execução de sentença contra o credor originário, INSS, operou-se a interrupção do prazo prescricional, de modo que o pronto ajuizamento da execução contra a União Federal, não transbordou o prazo quinzenal" (fl. 67e).
+Com efeito, de acordo com a orientação jurisprudencial predominante nesta Corte, "mesmo extinto o processo por ilegitimidade passiva, a citação válida possui o condão de interromper o curso do prazo prescricional ante a aparência de correta propositura da ação. Precedentes" (STJ, AgInt no REsp 1.618.257/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 28/03/2017).
+No mesmo sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO SERVIDOR PÚBLICO. IMPOSTO DE RENDA. RESTITUIÇÃO. PRESCRIÇÃO. CITAÇÃO VÁLIDA. INTERRUPÇÃO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ.
+I - Servidores ajuizaram ação objetivando compelir o Estado do Paraná a restituir os valores integrais do imposto de renda retidos na fonte, em 2007, sobre as férias não gozadas por necessidade de serviço e o respectivo terço constitucional. Na sentença reconheceu-se a prescrição da pretensão. No Tribunal a quo a sentença foi reformada.
+II - Esta Corte tem o entendimento de que a citação válida interrompe a prescrição ainda que ordenada pelo juízo incompetente, como no caso dos autos, em que o juízo federal ordenou a citação na ação em que somente foi indicada como ré parte ilegítima. Nesse sentido: REsp 1682977/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2017, DJe 09/10/2017; REsp 1668107/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 30/06/2017; AgRg no AREsp 188.959/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/03/2017, DJe 16/03/2017.
+III - Assim, incide ao caso o enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+IV - Agravo interno improvido" (STJ, AgInt no AREsp 1.294.919/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 17/09/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE, AMPARADA NA SÚMULA 83 DO STJ, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DAS AUTORAS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, mesmo tendo sido extinta sem resolução de mérito a ação anteriormente proposta, a citação no prazo e na forma da lei processual é suficiente a obstar a suscitada prescrição e viabilizar o prosseguimento do feito. Precedentes.
+2. Agravo interno desprovido" (STJ, AgInt no REsp 1.652.436/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 17/08/2018).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PROCESSO EXTINTO POR ILEGITIMIDADE DE PARTE. CITAÇÃO VÁLIDA. EFEITO INTERRUPTIVO DA PRESCRIÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A citação válida é apta a interromper a prescrição, ainda que o processo tenha sido extinto por ilegitimidade da parte, ressalvando-se apenas as causas de inércia do autor, previstas no art. 267, II e III, do CPC/73. Precedentes.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido" (STJ, AgInt no REsp 1.725.885/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/06/2018).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CITAÇÃO VÁLIDA EM PROCESSO EXTINTO POSTERIORMENTE POR ILEGITIMIDADE DA PARTE. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. OCORRÊNCIA. PRECEDENTES.
+1. A jurisprudência desta Corte é firme no sentido de que, "mesmo no processo extinto por ilegitimidade da parte, a citação válida interrompe a prescrição, excepcionando-se as causas de inação do autor" (AgRg no AREsp 512.416/SP, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, julgado em 15/12/2015, DJe 2/2/2016). Precedentes.
+2. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.385.528/GO, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 15/04/2016).
+E, ainda, em hipótese idêntica à dos autos:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. IRPF. AÇÃO DE REPETIÇÃO DE INDÉBITO. SERVIDOR ESTADUAL. AJUIZAMENTO NA JUSTIÇA FEDERAL, CONTRA A FAZENDA NACIONAL. EXTINÇÃO POR ILEGITIMIDADE PASSIVA. NOVO AJUIZAMENTO NA JUSTIÇA ESTADUAL. PRESCRIÇÃO. APROVEITAMENTO DA CITAÇÃO VÁLIDA REALIZADA NA JUSTIÇA FEDERAL. POSSIBILIDADE.
+1. Trata-se de Ação de Repetição de Indébito promovida por servidores estaduais, discutindo a não incidência de IRPF sobre parcela de sua remuneração.
+2. Originalmente, o feito foi promovido na Justiça Federal, porque foi indicada a Fazenda Nacional para ocupar o polo passivo. Extinto o feito em razão da ilegitimidade passiva, a demanda foi ajuizada na Justiça Comum, desta vez contra o Estado do Paraná.
+3. O acórdão hostilizado decretou a prescrição, considerando que a citação válida somente interrompe a prescrição, na forma do art. 219 do CPC/1973, se, ainda que ordenada por juiz incompetente, for validamente promovida, ou seja, contra o réu corretamente indicado.
+4. A orientação acima destoa da jurisprudência do STJ, segundo o qual a citação válida interrompe a prescrição, mesmo quando envolver parte ilegítima, excetuando-se, apenas, os casos em que o feito é extinto sem resolução do mérito por abandono da parte.
+5. Superado o entendimento adotado no acórdão hostilizado, deve o feito retornar à origem para prosseguimento da análise da Apelação, considerando-se, para efeito da interrupção da prescrição, a citação promovida na demanda que tramitou na Justiça Federal.
+6. Recurso Especial provido" (STJ, REsp 1.668.107/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Quanto ao precedente isolado, invocado neste Agravo interno, faz-se importante ressaltar que, diante dos termos do art. 266, caput, do RISTJ, não se presta o Agravo interno a veicular eventual divergência entre as Turmas desta Corte. A propósito:
+"ADMINISTRATIVO. PERSEGUIÇÃO POLÍTICA E TORTURA DURANTE O REGIME MILITAR. VIOLAÇÃO DE DIREITOS HUMANOS FUNDAMENTAIS DURANTE O PERÍODO DE EXCEÇÃO. DANO MORAL. CUMULATIVIDADE COM REPARAÇÃO ECONÔMICA. CABIMENTO.
+(..)
+3. A modificação de entendimento em uma das Turmas do STJ não afasta a possibilidade de outra discernir, mantendo o entendimento então prevalente, de modo que eventual desacordo deverá ser enfrentado por meio do recurso cabível, qual seja, os embargos de divergência, consoante dispõe o art. 266 do RISTJ.
+Agravo regimental provido em parte. Recurso especial da União conhecido em parte e improvido" (STJ, AgRg no REsp 1.445.346/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 21/10/2015).
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
