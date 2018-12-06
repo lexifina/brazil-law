@@ -1,0 +1,25 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. INCAPACIDADE PARA AS ATIVIDADES CASTRENSES. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. HONORÁRIOS ADVOCATÍCIOS. CÁLCULO QUE DEVE TER POR BASE O VALOR DA CONDENAÇÃO. AGRAVO INTERNO DO MILITAR PROVIDO.
+1. Esta Corte Superior possui entendimento de que nas condenações impostas à Fazenda Pública decorrentes de prestações de trato sucessivo, os honorários advocatícios sucumbenciais devem ter como base de cálculos as prestações vencidas até o ajuizamento da ação acrescidas de 12 prestações vincendas. Precedentes: AgRg no REsp. 1.211.898/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15.10.2015 e AgRg no REsp. 1.395.620/SP, Rel. Min. OG FERNANDES, DJe 4.9.2015.
+2. Ocorre que a referida orientação somente é aplicada quando a verba honorária for fixada com base no valor da causa, e, no caso dos autos, as instâncias ordinárias fixaram os honorários advocatícios com base no valor da condenação. Assim, deve ser mantida a verba sucumbencial nos moldes em que fixada pelas instâncias de origem.
+3. Agravo Interno do Militar provido para que a verba honorária seja calculada com base no valor integral da condenação, mantendo o que foi decidido pela Corte de origem.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, dar provimento ao Agravo Interno de [NOME], nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] contra decisão de minha relatoria, que deu parcial provimento ao Recurso Especial da União, cuja ementa é a seguinte:
+RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR. INCAPACIDADE PARA AS ATIVIDADES CASTRENSES. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NOS TERMO DO ART. 260 DO CPC/1973. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+2. Em suas razões recursais, o agravante defende, em suma, que o art. 260 do CPC/1973 não possui comando normativo suficiente para alterar a forma de cálculo da verba honorária. Acrescentando que não há, nem no código antigo, nem mesmo no novel diploma, regramento para limitação da base de cálculo da verba honorária ao somatório das prestações vencidas, acrescido de uma anualidade das prestações vincendas, caso em que, portanto, deve ser revista e reformada a parte final do voto do Recurso Especial em voga (fls. 415).
+3. Pugna, desse modo, pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja desprovido o Recurso Especial.
+4. É o breve relatório.
+VOTO
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. INCAPACIDADE PARA AS ATIVIDADES CASTRENSES. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. HONORÁRIOS ADVOCATÍCIOS. CÁLCULO QUE DEVE TER POR BASE O VALOR DA CONDENAÇÃO. AGRAVO INTERNO DO MILITAR PROVIDO.
+1. Esta Corte Superior possui entendimento de que nas condenações impostas à Fazenda Pública decorrentes de prestações de trato sucessivo, os honorários advocatícios sucumbenciais devem ter como base de cálculos as prestações vencidas até o ajuizamento da ação acrescidas de 12 prestações vincendas. Precedentes: AgRg no REsp. 1.211.898/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15.10.2015 e AgRg no REsp. 1.395.620/SP, Rel. Min. OG FERNANDES, DJe 4.9.2015.
+2. Ocorre que a referida orientação somente é aplicada quando a verba honorária for fixada com base no valor da causa, e, no caso dos autos, as instâncias ordinárias fixaram os honorários advocatícios com base no valor da condenação. Assim, deve ser mantida a verba sucumbencial nos moldes em que determinado pelas instâncias de origem.
+3. Agravo Interno do Militar provido para que a verba honorária seja calculada com base no valor integral da condenação, mantendo o que foi decidido pela Corte de origem.
+1. Razão assiste ao Agravante.
+2. O art. 260 do CPC/1973 assim dispõe:
+Art. 260. Quando se pedirem prestações vencidas e vincendas, tomar-se-á em consideração o valor de umas e outras. O valor das prestações vincendas será igual a uma prestação anual, se a obrigação for por tempo indeterminado, ou por tempo superior a 1 (um) ano; se, por tempo inferior, será igual à soma das prestações.
+3. Ocorre que a referida orientação somente é aplicada quando a verba honorária for fixada com base no valor da causa, e, no caso dos autos, as instâncias ordinárias fixaram os honorários advocatícios com base no valor da condenação.
+4. Assim, deve ser mantida a verba sucumbencial nos moldes em que fixada pelas instâncias de origem.
+5. Diante do exposto, dá-se provimento ao Agravo Interno do Militar para que a verba honorária seja calculada com base no valor integral da condenação, mantendo o que foi decidido pela Corte de origem.
+6. É o voto.
