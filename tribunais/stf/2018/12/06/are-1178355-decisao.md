@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que inadmitiu o recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “Apelação Cível - Mandado de segurança - Cancelamento de multa por infração à legislação tributária - Denegação da segurança - Recurso voluntário do impetrante – Desprovimento de rigor.
+    AIIM - Presunção de legitimidade - ICMS diferido com recolhimento antecipado. ILEGALIDADE.
+    Sentença mantida nos termos do art. 252 do RITJSP.
+    R. sentença mantida – Recurso desprovido” (pág. 203 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 150, IV, e 170 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque a recorrente, apesar de afirmar a existência de repercussão geral no recurso extraordinário, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. A alegação genérica acerca da existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2°, do CPC/1973, introduzido pela Lei 11.418/2006, e no art. 327, § 1°, do RISTF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE. ADMINISTRATIVO. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. EXIGÊNCIA DE DEMONSTRAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279/STF.
+    1. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. A peça de recurso, portanto, não atende ao disposto no art. 543-A, § 2º, do CPC. Precedente.
+    2. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável nesta fase recursal.
+    3. Agravo regimental a que se nega provimento” (AI 814.690-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 7.3.2017. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+    1. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico.
+    2. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe à alegação genérica de que a questão em debate é dotada de repercussão geral.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo. Ressalto, ainda, que a compensação recíproca dos honorários advocatícios determinada na primeira instância, observando-se o art. 98, § 3º, do CPC, refere-se unicamente ao mínimo legal, restando à recorrente a condenação ao pagamento do valor excedente à compensação como consequência da majoração ora operada” (ARE 1.023.387-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 6 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
