@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 194/195).
+O acórdão recorrido está assim ementado (e-STJ fl. 148):
+*EXECUÇÃO DE TÍTULO EXTRAJUDICIAL Desconsideração da personalidade jurídica Determinada a desconsideração inversa da personalidade jurídica da agravante Cabimento Artigo 50 do CC - Presentes os requisitos legais - Admitido abuso de personalidade, caracterizado pela confusão patrimonial - Decisão mantida Recurso não provido*
+Nas razões do especial (e-STJ fls. 160/168), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 50 do CC/2002 e 133, § 1º, 134, § 4º, 373, I, e 795, § 1º, do CPC/2015, sustentando, em síntese, que não foram preenchidos os requisitos para a desconsideração inversa da responsabilidade civil do recorrido. Destacou os seguintes pontos (e-STJ fls. 162):
+  É possível a aplicação do instituto da desconsideração da personalidade jurídica na modalidade inversa sem a comprovação de ato de gestão, desvio de patrimônio para a pessoa jurídica e/ou fraude da pessoa física apontada como suposto sócio oculto
+  É possível a aplicação do instituto desconsideração da personalidade jurídica sem a presença efetiva dos requisitos autorizadores por lei, nos termos do art. 133, §1º e art. 134, §4º, ambos do CPC
+  É possível pleitear-se a desconsideração da personalidade jurídica de outrem antes do esgotamento total dos meios para satisfação do crédito contra os Executados originais
+  É possível a inversão do ônus da prova para os casos de requerimento de aplicação do instituto desconsideração da personalidade jurídica, sem qualquer situação peculiar que o permita, violando-se frontalmente o art. 373, I do CPC
+No agravo (e-STJ fls. 198/207), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 210/216).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 153/154):
+Compulsando-se os autos, verifica-se que a agravada ajuizou em 18.08.2005 execução de título extrajudicial no valor histórico de R$ 122.847,90 (fls. 39/41).
+Após empreender diversas medidas a fim de localizar de bens passíveis de constrição, as quais restaram infrutíferas, a agravada requereu a desconsideração inversa da personalidade jurídica para a inclusão da empresa A.C. Morgado Confecções de Roupas Ltda ME, ora agravante, no polo passivo da demanda, bem como a desconsideração da personalidade jurídica desta última, para inclusão de seus sócios, filhos do executado Gilberto (fls. 49/59).
+Instaurado incidente específico, em 29.09.2017, proferiu-se, então, a r. decisão agravada (fls. 129/133), que deferiu em parte o pleito da agravada, tão somente para determinar a desconsideração inversa da personalidade jurídica, incluindo-se a empresa A.C. Morgado Confecções de Roupas Ltda ME.
+Tal determinação se deu com azo nos elementos encartados nos autos, donde concluiu o r. juízo a quo que "o executado Gilberto vem exercendo atividade empresarial por intermédio de terceiros" e que este "não atua como mero procurador da sociedade, apenas em situações pontuais, mas que age, de fato, como sócio da empresa".
+Por conseguinte, depreende-se do narrado que a agravante não acostou documentos hábeis a afastar as evidências presentes no trâmite processual, as quais culminaram no "decisum" ora afrontado.
+Além disso, vale destacar que a agravada tenta, desde agosto de 2005, buscar bens do executado para satisfação do débito exequendo, ou seja, o processo está em trâmite há mais de dez anos e ainda não foram localizados bens para garantir a execução.
+Dessa forma, fica demonstrado que o executado Gilberto se valeu de expediente fraudulento para blindar seu patrimônio e a pessoa jurídica agravante serviu como meio para tanto.
+A hipótese, assim, atrai a incidência da desconsideração da personalidade jurídica inversa, como bem reconheceu o MM. juízo "a quo", de modo que é imperiosa a manutenção da r. decisão agravada.
+Para alterar tais fundamentos e concluir que não foram preenchidos os requisitos para a desconsideração inversa da personalidade jurídica, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+No que tange ao apontado dissídio jurisprudencial, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012, REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011, EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010, e AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
