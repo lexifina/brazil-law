@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “A) AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. CTVA. REFLEXOS SOBRE A COMPLEMENTAÇÃO DE APOSENTADORIA. Caracterizada a divergência jurisprudencial, dá-se provimento ao agravo de instrumento para destrancar o recurso de revista. Agravo de instrumento conhecido e provido. (…) 3. CTVA. INCLUSÃO NO SALÁRIO DE CONTRIBUIÇÃO À FUNCEF. A jurisprudência desta Corte é pacífica no sentido de que a parcela CTVA ostenta natureza salarial e integra a base de cálculo da complementação de aposentadoria paga pela FUNCEF. Precedentes. Recurso de revista conhecido e provido. (…).”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXVI, e 202, §§ 2º e 3º, da Constituição da República.
+    Cumpre ressaltar, desde logo, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXVI, da Constituição, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe observar, ainda, no tocante às demais alegações, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula contratual, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Corte (RE 1.158.493/RS, Rel. Min. LUIZ FUX – RE 1.158.797/CE, Rel. Min. DIAS TOFFOLI – RE 1.158.807/RS, Rel. Min. ALEXANDRE DE MORAES – RE 1.158.944/SC, Rel. Min. ROBERTO BARROSO – RE 1.173.390/DF, Rel. Min. RICARDO LEWANDOWSKI – RE 1.174.445/BA, Rel. Min. ROSA WEBER, v.g.):
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CIVIL. COMPLEMENTAÇÃO DE APOSENTADORIA. PARCELA CTVA. NATUREZA JURÍDICA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454 DO STF. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO.”
+    (RE 1.164.036-AgR/SP, Rel. Min. LUIZ FUX)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 06 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
