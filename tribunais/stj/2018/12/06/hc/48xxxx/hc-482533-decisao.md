@@ -1,0 +1,28 @@
+DECISÃO
+DIOGO ROBERTO MATA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo n. 0007501-97.2018.8.26.0026).
+A Defensoria Pública busca a retificação dos cálculos penais, uma vez que as instâncias ordinárias adotaram como data-base para nova progressão de regime aquela em que foi proferida decisão concessiva da promoção anterior, e não a data em que a paciente implementou os requisitos do art. 112 da LEP.
+Decido.
+O writ comporta pronta concessão, pois existe jurisprudência pacífica sobre o tema.
+O Tribunal de Justiça assim decidiu a controvérsia (fl. 33):
+Execução Penal - Progressão de regime prisional - Cálculo para fins de concessão da benesse - Data-base a ser considerada a partir da decisão que concedeu a progressão ao regime anterior.
+O termo inicial a ser adotado para fins de cálculo de progressão de regime não é a data em que o requisito objetivo foi preenchido pelo reeducando, mas sim o dia em que foi proferida sentença progredindo o sentenciado ao regime anterior.
+Tal decisão, ao analisar o preenchimento também do requisito subjetivo pelo condenado, possui cunho constitutivo, e não meramente declaratório de direito pré-existente.
+O aresto está em desacordo com a jurisprudência. A Quinta e a Sexta Turma desta Corte Superior alinharam-se ao posicionamento do Supremo Tribunal Federal de modo a fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da LEP e não aquela em que o Juízo da VEC deferiu o benefício anterior.
+A decisão que defere a progressão de regime é declaratória, e não constitutiva. Embora se espere celeridade da análise do benefício, é cediço que a providência jurisdicional, por vezes, demora meses para ser implementada. Não se pode desconsiderar, em prejuízo do reeducando, o período em que, mesmo atendidos os requisitos do art. 112 da LEP, permaneceu cumprindo pena em regime mais gravoso enquanto o Judiciário analisava seu pedido de promoção. Confira-se:
+ ..
+1. Revisão da jurisprudência da Quinta Turma desta Corte Superior, para adequar-se ao posicionamento firmado pelo Supremo Tribunal Federal no HC 115.254, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, julgado em 15/12/2015, DJe 26/2/2016, no sentido de que a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime.
+2. Aplica-se à progressão de regime, por analogia, o regramento da LEP sobre a regressão de regime em caso de falta grave (art. 118), que estabelece como data-base a prática do fato, e não da decisão posterior que reconhece a infração.
+3. É de se considerar a necessidade de que os direitos sejam declarados à época adequada, de modo a evitar que a inércia estatal cause prejuízo ao condenado.
+4. Agravo regimental a que se dá provimento.
+(AgRg no Resp n. 1.582.285/MS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 24/8/2016).
+ ..
+1. Revisão da jurisprudência da Sexta Turma desta Corte Superior, para alinhar-se ao posicionamento do Supremo Tribunal Federal e da Quinta Turma de modo a fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das Execuções deferiu o benefício.
+2. Consoante o recente entendimento do Supremo Tribunal, a decisão do Juízo das Execuções, que defere a progressão de regime - reconhecendo o preenchimento dos requisitos objetivo e subjetivo da lei (art. 112 da LEP) - é declaratória, e não constitutiva. Embora se espere celeridade da análise do pedido, é cediço que a providência jurisdicional, por vezes - como na espécie - demora meses para ser implementada.
+3. Não se pode desconsiderar, em prejuízo do reeducando, o período em que permaneceu cumprindo pena enquanto o Judiciário analisava seu requerimento de progressão.
+4. Habeas corpus não conhecido, mas concedida a ordem de ofício, para restabelecer a decisão do Juízo das Execuções Penais.
+(HC n. 369.774/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/12/2016).
+Consoante o posicionamento do Supremo Tribunal Federal:
+Habeas Corpus. 2. Execução Penal. Progressão de regime. Data-base. 3. Nos termos da jurisprudência do STF, obsta o conhecimento do habeas corpus a falta de exaurimento da jurisdição decorrente de ato coator consubstanciado em decisão monocrática proferida pelo relator e não desafiada por agravo regimental. Todavia, em casos de manifesto constrangimento ilegal, tal óbice deve ser superado. 4. Na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. 5. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. 6. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta. 7. Constrangimento ilegal reconhecido, ordem concedida."
+(HC n. 115.254, Rel. Ministro Gilmar Mendes, 2ª T., DJe 26/2/2016).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus, in limine, a fim de determinar como marco para a progressão ao regime aberto a data em que o paciente preencheu os requisitos do art. 112 da LEP, e não o dia da decisão que determinou sua anterior promoção ao regime semiaberto.
+Publique-se e intimem-se.
