@@ -1,0 +1,33 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO OU SOBRE O QUAL RECAI A DIVERGÊNCIA JURISPRUDENCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. ÓBICE DA SÚMULA 284/STF. ALEGAÇÃO DE VIOLAÇÃO À SÚMULA DO STJ. IMPOSSIBILIDADE.
+1. Embora a parte recorrente tenha interposto o apelo nobre com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, não apontou qual regramento legal teria sido efetivamente violado pelo acórdão recorrido, tampouco apresentou razões para esse fim. Dessarte, sendo deficiente a fundamentação do recurso especial, o pleito esbarra no óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+2. Do mesmo modo, quanto ao recurso especial fulcrado na alínea c do permissivo constitucional, também é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da já citada Súmula 284/STF.
+3. No que se refere à alegada infringência às Súmulas 54 e 362/STJ, cumpre dizer que esta Corte cristalizou o entendimento de que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A hipótese é de agravo interno interposto por [NOME] e [NOME] contra decisão que não conheceu do recurso especial, em razão do óbice da Súmula 284/STF.
+Sustentam as agravantes, em resumo, que o seu apelo nobre cumpriu os requisitos para a demonstração do dissídio jurisprudencial, sendo possível a exata compreensão da controvérsia, de modo que deve ser afastada a incidência da Súmula 284/STF.
+Aduzem que as conclusões firmadas pela Corte de origem acerca do termo inicial dos juros e da correção monetária contrariam os entendimentos consolidados nas Súmulas 54 e 362/STJ.
+Requerem a submissão do feito ao julgamento colegiado para que seja dado provimento ao recurso especial.
+Impugnação do agravado juntada às fls. 600/604.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Isso porque, embora a parte recorrente tenha interposto o apelo nobre com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (fl. 447), não apontou qual regramento legal teria sido efetivamente violado pelo acórdão recorrido, tampouco apresentou razões para esse fim. Dessarte, sendo deficiente a fundamentação do recurso especial, o pleito esbarra no óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Do mesmo modo, quanto ao recurso especial fulcrado na alínea c do permissivo constitucional, também é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da já citada Súmula 284/STF.
+Nesse mesmo sentido, destacam-se os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONHECIMENTO. ALEGAÇÃO GENÉRICA. SÚMULA 284 DO STF. ADICIONAL DE INSALUBRIDADE. PERCENTUAL. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. ENRIQUECIMENTO ILÍCITO. AFASTAMENTO NA INSTÂNCIA DE ORIGEM. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REVISÃO DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. AUSÊNCIA DE EXCEPCIONALIDADE NO CASO. SÚMULA 7 DO STJ. MULTA DO ART. 1.026, § 2º, DO CPC/2015. CONFIGURAÇÃO. EMBARGOS PROTELATÓRIOS.  ..
+2. A admissibilidade do recurso reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica, nos termos da Súmula 284 do STF.
+3. Em suas razões recursais, a agravante não indicou, precisamente, os dispositivos de lei federal que teriam sido afrontados em razão do entendimento firmado no acórdão recorrido acerca do percentual do adicional de insalubridade, não sendo suficiente o apontamento à divergência jurisprudencial entre o acórdão combatido e a posição adotada por outros tribunais em relação à controvérsia.  ..
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.670.007/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/5/2018, DJe 9/5/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO BANCÁRIO. PERÍCIA CONTÁBIL. FORÇA OBRIGATÓRIA DOS CONTRATOS. CAPITALIZAÇÃO DE JUROS. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FALTA DE INDICAÇÃO DE NORMA VIOLADA. SÚMULA 284/STF. CONCLUSÃO ADOTADA COM BASE NA ESPECIFICIDADE DO CASO CONCRETO. A COMPROVAÇÃO DO DISSENSO ENCONTRA ÓBICE TAMBÉM NAS SÚMULAS 5 E 7/STJ. RECURSO DESPROVIDO.
+1.Constata-se que a parte recorrente, nas razões do apelo especial, não indicou nenhum dispositivo de lei federal supostamente contrariado pelo acórdão recorrido ou objeto de interpretação divergente pelos tribunais, o que atrai a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+2. Por oportuno, registre-se a ausência de comprovação do dissídio jurisprudencial, tendo em vista que as razões que levaram a conclusão do eg. Tribunal local relacionam-se diretamente às especificidades do caso concreto. Incidência das Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.288.930/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/8/2018, DJe 27/8/2018)
+Por fim, no que se refere à alegada infringência às Súmulas 54 e 362/STJ, cumpre dizer que esta Corte cristalizou o entendimento de que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
