@@ -1,0 +1,5 @@
+DECISÃO
+Verifica-se que na decisão de fl. 911, e-STJ, constou do dispositivo que: "Diante dos argumentos trazidos pelo ora agravante, exerço o juízo de retratação, nos termos do caput do artigo 259 do RI/STJ, para tornar sem efeito a anterior decisão de fl. 908, e-STJ".
+No entanto, deve ser tornada sem efeito a decisão de fls. 845/846, e-STJ, em razão dos argumentos trazidos pelo embargante/agravante às fls. 850/873, e-STJ.
+Dessa forma, ante o evidente erro material, nos termos do art. 103, § 2º, do RISTJ, determino a correção da decisão de fl. 911, e-STJ, para que, onde se lê: "Diante dos argumentos trazidos pelo ora agravante, exerço o juízo de retratação, nos termos do caput do artigo 259 do RI/STJ, para tornar sem efeito a anterior decisão de fl. 908, e-STJ", leia-se: "Diante dos argumentos trazidos pelo ora agravante, exerço o juízo de retratação, nos termos do caput do artigo 259 do RI/STJ para tornar sem efeito a decisão de fls. 845/846, e-STJ.".
+Após, retornem-me os autos conclusos.
