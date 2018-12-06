@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA CUMULADA COM PERDAS E DANOS. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 182/STJ. 2. AUSÊNCIA DE COMPROVAÇÃO DE QUE A PARTE RECORRIDA TENHA DANIFICADO O IMÓVEL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Viola-se o princípio da dialeticidade recursal quando as razões do agravo interno deixam de infirmar especificadamente os fundamentos da decisão agravada. A inobservância do preceito contido no art. 1.021, § 1º, do CPC/2015 atrai a aplicação da Súmula n. 182/STJ.
+2. A desconstituição da conclusão do acórdão recorrido - acerca da falta de comprovação de que os agravados tenham danificado o imóvel, a fim de dar procedência ao pedido de reparação de danos pleiteado pelos agravantes - só seria possível mediante o reexame dos fatos e das provas dos autos, incidindo, na espécie, a Súmula 7 deste Tribunal Superior, a obstar o conhecimento do recurso especial.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] e outro contra decisão monocrática desta relatoria que conheceu do agravo para não conhecer do recurso especial assim ementada (e-STJ, fl. 734):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA CUMULADA COM PERDAS E DANOS. 1. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. AUSÊNCIA DE COMPROVAÇÃO DE QUE A PARTE RECORRIDA TENHA DANIFICADO O IMÓVEL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, os agravantes pretendem a reforma da decisão agravada sustentando, para tanto, que não foi levada em consideração a força probante dos meios de provas apresentados nos autos, nos termos do que dispõe o art. 369 do CPC/2015.
+Além disso, alegam que as fotografias são meios hábeis de prova documental, conforme previsto no art. 422, § 1º, do CPC/2015.
+Asseveram ainda falta de fundamentação na sentença, visto que o Magistrado não levou em conta o contexto da instrução processual.
+Por fim, pugnam pela inaplicabilidade da Súmula 7 do STJ, pois o recurso não trata de reexame de prova.
+A impugnação não foi apresentada - fl. 750 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA CUMULADA COM PERDAS E DANOS. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 182/STJ. 2. AUSÊNCIA DE COMPROVAÇÃO DE QUE A PARTE RECORRIDA TENHA DANIFICADO O IMÓVEL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Viola-se o princípio da dialeticidade recursal quando as razões do agravo interno deixam de infirmar especificadamente os fundamentos da decisão agravada. A inobservância do preceito contido no art. 1.021, § 1º, do CPC/2015 atrai a aplicação da Súmula n. 182/STJ.
+2. A desconstituição da conclusão do acórdão recorrido - acerca da falta de comprovação de que os agravados tenham danificado o imóvel, a fim de dar procedência ao pedido de reparação de danos pleiteado pelos agravantes - só seria possível mediante o reexame dos fatos e das provas dos autos, incidindo, na espécie, a Súmula 7 deste Tribunal Superior, a obstar o conhecimento do recurso especial.
+3. Agravo interno a que se nega provimento.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento.
+De início, tal como enfatizado na decisão agravada, no que se refere à alegada ofensa aos arts. 369 e 489 do CPC/2015, esta não deve prosperar. Isso porque o tema relacionado a esses dispositivos não foi objeto de debate no acórdão recorrido, e tampouco foram opostos embargos de declaração a fim de suscitar a discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento (Súmulas n. 282 e 356/STF).
+Contudo, não se extrai das razões de agravo interno a devida impugnação quanto a esse ponto. Assim, o agravo interno é recurso que reclama, em homenagem ao princípio da dialeticidade, a impugnação dos fundamentos da decisão agravada, sob pena de não conhecimento. Incide na espécie o verbete sumular n. 182/STJ.
+No mais, em que pese às alegações deduzidas pelos agravantes, conforme foi consignado na decisão agravada, o Tribunal de origem negou provimento ao recurso com base nos seguintes fundamentos (e-STJ, fls. 670-677 - sem grifo no original):
+Na peça inaugural, a autora [NOME] noticia que recebeu de herança o quinhão nº 3 do imóvel registrado sob a matrícula nº 1035, no livro 2-F, fl. 77, verso R-04, correspondente a uma área de 3,08 hectares da Fazenda Areias, no município de Israelândia - Goiás (formal de partilha registrado no Cartório de Registro de Imóveis em 23/02/2012), e que o seu irmão [NOME], acompanhado da esposa, de forma turbulenta e agressiva utilizaram-se do imóvel, destruíram benfeitorias ali constantes, e subtraíram madeiras. Diante de tais fatos, a requerente e seu esposo postularam pela condenação dos requeridos à reparação dos prejuízos causados no valor aproximado de R$ 30.000,00 (trinta mil reais).
+Pois bem. Para a caracterização da responsabilidade civil, necessária e imprescindível se faz a comprovação do ilícito praticado pelo agente, ou seja, da culpa, do dano sofrido pela vítima e do nexo de causalidade existente entre o prejuízo e a conduta qualificada como sendo antijurídica, nos termos do que dispõem os artigos 186 e 927, ambos do Código Civil.
+A propósito do tema em debate, orienta o professor Silvio Rodrigues, in "Direito Civil, v. 4. Responsabilidade Civil", 20. ed. rev. e atual., São Paulo: Saraiva, 2003, página 18, in verbis:
+"Para que surja a obrigação de reparar, mister se faz a prova de existência de uma relação de causalidade entre a ação ou omissão culposa do agente e o dano experimentado pela vítima. Se a vítima experimentar um dano, mas não se evidenciar que este resultou do comportamento ou da atitude do réu, o pedido de indenização formulado por aquele deverá ser julgado improcedente."
+No caso em comento, tenho que, diferentemente do asseverado pelos apelantes, o magistrado singular, com absoluto cuidado e prudência, apreciou todo o processo e corretamente concluiu pela improcedência do pedido de reparação de danos, eis que não há nos autos comprovação de que os requeridos/apelados tenham danificado o imóvel.
+Como bem ponderado pelo magistrado singular, as fotografias de fls. 462/467 e fls. 542/545, respectivamente, arquivos 23 e 42 da movimentação 3, não possuem data e sequer revela-se possível mensurar pelas imagens apresentadas que de fato houve destruição do local por ato voluntário ou se a depreciação do local decorreu por abandono.
+Em relação às testemunhas ouvidas na audiência de instrução e julgamento, igualmente, não se revela seguro atestar que a precariedade do local decorreu de ato intencional. Ao que se infere do termo de audiência de instrução e julgamento foram ouvidos os dois requeridos/apelados, uma vizinha e o informante Waldesson (irmão da requerente [NOME] e do requerido [NOME]), cujas informações apresentadas, conforme ressaltado pelo magistrado singular, em cotejo com outros elementos constantes dos autos, não subsistem.
+Para melhor compreensão, transcrevo as considerações feitas pelo juiz a quo na sentença, in verbis:
+" ..  Nesse passo, denota-se que, embora a testemunha Ivonete tenha afirmado que viu o réu [NOME] retirar o poste da caixa d"água da sede da fazenda, o informante Waldesson negou tal fato e ressaltou que o poste ainda se encontra no mesmo lugar, o que restou confirmado pela vistoria in loco realizada pelo Oficial de Justiça, consoante certidão e fotografia de fls. 566/568.
+Quanto ao relato prestado pelo informante Waldesson acerca dos danos supostamente causados por [NOME] à propriedade da autora, tenho que seu depoimento deve ser desvalorado, haja vista que é irmão de ambas as partes ([NOME] e [NOME]), sendo que este último declarou em Juízo que não se relaciona bem com Waldesson."
+Ademais, em que pese a informação de que na ação de indenização nº 201202406801 a ora apelante [NOME] foi condenada a pagar a importância de R$ 25.000,00 (vinte e cinco mil reais) ao aqui apelado [NOME] pelas acessões feitas no imóvel em questão, a referida informação não veio acompanhada de documentos, tais como laudo e fotografias da época, a fim de viabilizar um cotejo com os elementos constantes nos presentes autos e, assim, lastrear a alegação de que os apelados destruíram parte das benfeitorias.
+Especificamente sobre a insurgência quanto ao indeferimento da inspeção judicial, ressalto que a referida prova apenas demonstraria as condições atuais do local e não o momento em que os aludidos fatos ocorrem.
+Nesse contexto, convém salientar que o ônus da prova representa em obrigação imposta a parte autora quanto ao fato constitutivo de seu direito (art. 373, inc. I, CPC/15) e, referido ônus, consiste na conduta processual exigida para que a verdade dos fatos por ela arrolados seja admitida como incontroversa pelo julgador.
+(..)
+Enfim, como os apelantes não trouxeram nenhum elemento de prova capaz de infirmar a sentença objurgada, deve ser a mesma mantida por seus próprios e jurídicos fundamentos.
+Na confluência do exposto, conhecido o recurso de apelação cível, nego-lhe provimento, para manter a sentença sob censura na sua inteireza.
+É como voto.
+Desse modo, é inafastável o óbice da Súmula 7 do STJ, visto que o acolhimento do recurso especial, na forma como pretendem os agravantes, somente poderia ocorrer mediante reexame direto do acervo fático-probatório, a fim de serem extraídas conclusões fáticas em sentido contrário àquelas estabelecidas pelo Tribunal de origem, providência manifestamente proibida nesta instância.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
