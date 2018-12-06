@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. CONTRATO DE LOCAÇÃO. LEGITIMIDADE ATIVA DA IMOBILIÁRIA. MANDATÁRIA DO PROPRIETÁRIO DO IMÓVEL. CONTRATO QUE EXPRESSAMENTE PREVÊ A LEGITIMIDADE. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. A relação jurídica estabelecida entre a imobiliária e o proprietário do imóvel locado é de um contrato de prestação de serviços, no qual aquela figura como mandatária deste para realizar e administrar a locação, nos termos do art. 653 do CC, obrigando-se a indenizar o mandante por quaisquer prejuízos advindos de sua conduta culposa.
+2. O acórdão recorrido, mediante acurada análise do acervo probatório e do contrato firmado pelas partes, asseverou que o instrumento entabulado pelos contratantes expressamente previa a legitimidade ad causam da ora recorrida para figurar no polo ativo de demandas envolvendo o bem locado. Rever tais conclusões demandaria o reexame de provas e análise do contrato. Incidência das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+[NOME] ajuizou ação declaratória de nulidade em desfavor de Imóveis L & A P Administradora Ltda. alegando a nulidade da sentença proferida nos autos da Ação n. 6070-95.009.8.16.0131, haja vista que a autora desta demanda não possuiria legitimidade ativa.
+A Magistrada de primeiro grau julgou improcedente o pedido. Interposta apelação pelo autor, a Décima Segunda Câmara Cível do Tribunal de Justiça do Paraná negou provimento à insurgência, em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE QUERELA NULLITATIS INSANABILIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA - PLEITO DE ANULAÇÃO DE SENTENÇA PROFERIDA EM SEDE DE AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS - ILEGITIMIDADE ATIVA DA IMOBILIÁRIA PARA AJUIZAR AÇÃO EM NOME PRÓPRIO - INTELIGÊNCIA DO ARTIGO 18 DO CPC/2015 - CONTRATO DE ADMINISTRAÇÃO DE IMÓVEL QUE DÁ PODERES PARA AJUIZAMENTO DE DEMANDAS - ILEGITIMIDADE ATIVA NÃO CONFIGURADA - AUSÊNCIA DE CONDIÇÕES DA AÇÃO NÃO CARACTERIZADA - RECURSO NÃO PROVIDO.
+O demandante interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação ao art. 18 do CPC/2015. Sustentou, em síntese, a ilegitimidade ativa da imobiliária para ajuizar a ação de despejo, tornando nula a sentença anteriormente proferida.
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidirem as Súmulas n. 5 e 7 do STJ.
+Irresignado, o recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Em decisão monocrática proferida por este signatário, conheceu-se do agravo para negar provimento ao recurso especial, nos termos da seguinte ementa (e-STJ, fls. 667-670):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. CONTRATO DE LOCAÇÃO. IMOBILIÁRIA. LEGITIMIDADE ATIVA. MANDATÁRIA DO PROPRIETÁRIO DO IMÓVEL. CONTRATO QUE EXPRESSAMENTE PREVÊ A LEGITIMIDADE ATIVA. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do agravo interno (e-STJ, fls. 673-682), o agravante refuta os óbices apontados pela deliberação unipessoal e repisa os argumentos trazidos no recurso especial, notadamente acerca da impossibilidade de cláusula contratual criar legitimidade extraordinária.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. CONTRATO DE LOCAÇÃO. LEGITIMIDADE ATIVA DA IMOBILIÁRIA. MANDATÁRIA DO PROPRIETÁRIO DO IMÓVEL. CONTRATO QUE EXPRESSAMENTE PREVÊ A LEGITIMIDADE. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. A relação jurídica estabelecida entre a imobiliária e o proprietário do imóvel locado é de um contrato de prestação de serviços, no qual aquela figura como mandatária deste para realizar e administrar a locação, nos termos do art. 653 do CC, obrigando-se a indenizar o mandante por quaisquer prejuízos advindos de sua conduta culposa.
+2. O acórdão recorrido, mediante acurada análise do acervo probatório e do contrato firmado pelas partes, asseverou que o instrumento entabulado pelos contratantes expressamente previa a legitimidade ad causam da ora recorrida para figurar no polo ativo de demandas envolvendo o bem locado. Rever tais conclusões demandaria o reexame de provas e análise do contrato. Incidência das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da decisão agravada.
+Conforme assinalado anteriormente, a relação jurídica estabelecida entre a imobiliária e o proprietário do imóvel locado é de um contrato de prestação de serviços, no qual aquela figura como mandatária deste para realizar e administrar a locação, nos termos do art. 653 do CC, obrigando-se a indenizar o mandante por quaisquer prejuízos advindos de sua conduta culposa.
+A propósito:
+PROCESSO CIVIL. RESPONSABILIDADE CIVIL. LOCAÇÃO. LEGITIMIDADE PASSIVA AD CAUSAM DA ADMINISTRADORA DE IMÓVEIS. INOCORRÊNCIA DA PRESCRIÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO. APROVAÇÃO CADASTRAL DE LOCATÁRIO SEM CAPACIDADE ECONÔMICA. DÉBITOS RELATIVOS A ALUGUERES, COTAS CONDOMINIAIS E TRIBUTOS. OBRIGAÇÃO DE INDENIZAR. ART. 667 C/C 186 DO CC.
+1. A administradora de imóveis figura como mandatária do proprietário do bem para, em nome deste, realizar e administrar a locação, nos termos do art. 653, do Código Civil, obrigando-se a indenizar o mandante por quaisquer prejuízos advindos de sua conduta culposa (art. 667 do mesmo diploma legal). Por outro lado, não cabe à imobiliária que agiu diligentemente a responsabilidade pelo pagamento de aluguéis, cotas condominiais ou tributos inadimplidos pelo locatário - ressalvadas as hipóteses de previsão contratual nesse sentido -, porquanto ausente sua culpa, elemento imprescindível em sede de responsabilidade civil subjetiva.
+2. Ao revés, configura-se a responsabilidade da administradora de imóveis pelos prejuízos sofridos pelo locador quando ela não cumpre com os deveres oriundos da relação contratual.
+3. A recorrente é parte legítima para figurar no polo passivo da presente demanda, uma vez que a pretensão veiculada na petição inicial não diz respeito à mera cobrança de alugueres atrasados, mas à responsabilização civil da imobiliária pelo descumprimento do contrato. No caso concreto, o Tribunal a quo consignou a efetiva existência de falha na aprovação do cadastro do locatário e do fiador, uma vez que a renda auferida por eles não alcançava o patamar mínimo exigido contratualmente, resultando na frustração da execução que visava à cobrança dos alugueres e débitos relativos às cotas condominiais e tributos inadimplidos.
+4. A pretensão do proprietário do imóvel nasceu com a ciência do defeito na prestação do serviço consubstanciado na desídia relacionada à aprovação cadastral do locatário e do fiador, o que se deu por ocasião da frustração do processo executivo ajuizado em junho de 2003. Tendo a presente demanda sido proposta em agosto de 2005, antes de transcorrido o prazo trienal previsto no art. 206, § 3º, V, do CC, ressoa manifesta a não ocorrência da prescrição.
+5. Recurso especial a que se nega provimento. (REsp 1103658/RN, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 04/04/2013, DJe 23/04/2013 - sem grifo no original)
+Desse modo, caso a imobiliária não atuasse de forma diligente para cobrar os aluguéis e requerer o despejo do ora recorrente, poderia ser responsabilizada pela sua atuação negligente, de forma a justificar a propositura de demanda anterior.
+Outrossim, constata-se que o acórdão recorrido, mediante acurada análise do acervo probatório e do contrato firmado pelas partes, asseverou que o instrumento entabulado pelos contratantes expressamente previa a legitimidade ad causam da ora recorrida para figurar no polo ativo de demandas envolvendo o bem locado.
+Dessa forma, para infirmar tais conclusões, seria imprescindível o reexame de provas e a análise de cláusulas contratuais, medidas inadmissíveis nesta instância extraordinária, atraindo a aplicação das Súmulas n. 5 e 7 do STJ.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO. LEGITIMIDADE ATIVA. IMOBILIÁRIA. ANÁLISE. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULAS NºS 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda consistente na legitimidade ativa da imobiliária para promover a execução do contrato de locação, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+2. Agravo regimental não provido. (AgRg no AREsp 834682/SC, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 15/03/2016, DJe 29/03/2016)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
