@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO REGIMENTAL  Decisão monocrática que negou seguimento ao recurso especial  Cumulação  Aposentadoria Auxilio  Acidente - Matéria idêntica ao rito dos recursos repetitivos com julgamento definitivo de mérito.
+ - A questão referente à possibilidade de cumular auxilio - acidente com aposentadoria, diante do art. 86, § 3º da Lei 8.213191, com a redação dada pela Medida Provisória 1.596-141/97, posteriormente convertida na Lei nº 9.5281/97 é matéria idêntica à tratada no rito dos recursos repetitivos Resp. n. 1.296.673/MG.
+Manutenção do decidido.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta inicialmente violação do art. 1.022 do CPC/15. Sustenta que não foram apreciadas as teses suscitadas em sede de embargos de declaração.
+Alega ainda violação aos arts. 18, §2º, 23, 31, 86, §§1º e 2º, 115, II , da Lei nº 8.213/1991, art. 201, I, da CF/88, Lei nº 9.528/97 e súmula nº 507 do STJ.
+Argumenta que para ser devido a cumulação dos dois benefícios, ambos devem ter fato gerador anterior à vigência da medida provisória nº 1.594, de 10/11/1997, posteriormente convertida na Lei nº 9.528/97.
+Alega que a questão encontra-se pacificada pelo STJ, em sede de recurso especial repetitivo n.º 1.296.673/MG, no sentido de que só é possível a cumulação de auxílio-acidente e aposentadoria se preenchidos os requisitos, para ambos os benefícios, em momento anterior a Lei nº 9.528/97
+Em contrarrazões, [NOME] alega a incidência da súmula nº 7 do STJ.
+O recurso especial foi inadmitido com base na súmula nº 7 do STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Em relação à alegada violação do art. 535, II, do CPC/73, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 535, II, do CPC/73 atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2017, DJe 17/4/2017.)
+Quanto à questão de fundo, melhor sorte não acode ao recorrente.
+Com efeito, verifico que após ter seu recurso especial negado, ante a aplicação de precedente repetitivo (fls. 312), foi interposto agravo regimental, o qual foi julgado conforme a ementa transcrita no relatório da presente decisão.
+E a Corte Especial do STJ estabeleceu o entendimento de que não cabe o agravo previsto no art. 544 do CPC/73 contra a decisão que nega seguimento a recurso especial, com fundamento no art. 543-C, § 7º, I, do mesmo diploma.
+Em tais situações, ao concluir a parte que o recurso especial teve o seu seguimento negado de maneira indevida, deverá interpor agravo interno perante o Tribunal a quo, único instrumento possível para essa impugnação (QO no Ag n. 1.154.599/SP, Rel. Min. Cesar Asfor Rocha, Corte Especial, julgado em 16/2/2011, DJe 12/5/2011).
+Observa-se, portanto, que o recorrente já manifestou a sua insurgência contra a negativa de seguimento ao recurso especial, com fundamento no art. 543-C, § 7º, I, do CPC/73, por meio da interposição de agravo interno perante o Tribunal a quo, ao qual foi negado provimento, sem que se negasse a tese aqui fixada.
+Não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior quanto a esse aspecto, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008, somado, ainda, à inexistência de previsão legal para o cabimento de qualquer outro meio de impugnação (AgRg no AREsp n. 652.000/PB, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 2/6/2015, DJe 17/6/2015).
+Nesse sentido:
+ADMINISTRATIVO. SISTEMA FINANCEIRO DE HABITAÇÃO. SFH. SEGURO. DECISÃO COM FUNDAMENTO NO ART. 543-C. NÃO CABIMENTO DE AGRAVO INTERNO NESTA CORTE. RECURSO REPETITIVO RESP N. 1.091.393/SC.
+I - A Corte Especial do STJ estabeleceu o entendimento de que não cabe o agravo previsto no art. 544 do CPC/73 contra a decisão que nega seguimento a recurso especial, com fundamento no art. 543-C, § 7º, I, do mesmo diploma. Em tais situações, ao concluir a parte que o recurso especial teve o seu seguimento negado de maneira indevida, deverá interpor agravo interno perante o Tribunal a quo, único instrumento possível para essa impugnação (QO no Ag n. 1.154.599/SP, Rel. Min. Cesar Asfor Rocha, Corte Especial, julgado em 16/2/2011, DJe 12/5/2011).
+II - Posteriormente, em evolução jurisprudencial, no julgamento da AgRg no AREsp n. 260.033/PR, de relatoria do Min. Raul Araújo, o mesmo órgão colegiado deste Tribunal assentou o entendimento de que não constitui erro grosseiro a interposição do agravo do art. 544 do CPC/73 naquela hipótese, porque esse dispositivo legal não faz distinção acerca do fundamento utilizado para a negativa de seguimento do recurso especial. Desse modo, concluiu-se que, se equivocadamente a parte interpuser o agravo do art. 544 do CPC/73 contra tal decisão, cabe ao Superior Tribunal de Justiça remeter o recurso à Corte de origem para a sua apreciação como agravo interno.
+III - Observa-se que o recorrente já manifestou a sua insurgência contra a negativa de seguimento ao recurso especial, com fundamento no art. 543-C, § 7º, I, do CPC/73, por meio da interposição de agravo interno perante o Tribunal a quo, ao qual foi negado provimento.
+IV - Não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior quanto a esse aspecto, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008, somado, ainda, à inexistência de previsão legal para o cabimento de qualquer outro meio de impugnação (AgRg no AREsp n. 652.000/PB, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 2/6/2015, DJe 17/6/2015). Nesse sentido: AgRg na Rcl n. 26.144/RJ, Rel. Ministra Regina Helena Costa, Primeira Seção, julgado em 13/4/2016, DJe 20/4/2016).  Sem grifos no original .
+V - Por ser incabível, não se conhece do presente recurso no que concerne à aplicação do entendimento sufragado no recurso repetitivo REsp n. 1.091.393/SC.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1,200.467/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/6/2018, DJe 14/6/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE NOVO RECURSO ESPECIAL CONTRA DECISÃO QUE, EM SEDE DE AGRAVO INTERNO, MANTÉM A INADMISSIBILIDADE DO RECURSO POR INCIDÊNCIA DA PREVISÃO CONTIDA NO ART. 543-C, § 7o., I DO CPC/1973. AGRAVO REGIMENTAL DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. O acórdão combatido não destoa do entendimento consolidado nessa Corte Superior, segundo o qual não se admite a interposição de novo Recurso Especial contra acórdão do Tribunal de origem que, apreciando Agravo Regimental, mantém a inadmissão do Apelo Nobre anterior.
+2. É firme o entendimento desta Corte de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação dos arts.
+543-B ou 543-C do CPC/1973 é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+3. Agravo Regimental da União a que se nega provimento.
+(AgRg no AREsp n. 772.375/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/2/2018, DJe 12/3/2018).
+RECURSO FUNDADO NO NOVO CPC. TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO DENEGATÓRIA DA SUBIDA DO RECURSO ESPECIAL. AGRAVO INTERNO JULGADO MONOCRATICAMENTE PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE.
+1. É pacífico no STJ o posicionamento de que, "na linha do entendimento perfilhado/definido pela Corte Especial, a vincular todos os ministros e órgãos julgadores do STJ, o único meio para impugnar decisão do Juízo de admissibilidade que nega seguimento a Recurso Especial, com base no art. 543 -C, § 7º, I, do CPC - ainda que o recurso agite a tese de que o Tribunal de origem não efetuara a correta aplicação da tese sufragada em recurso especial representativo da controvérsia (error in judicando ou procedendo) - é o agravo regimental endereçado ao Tribunal de origem  ..  Dessarte, nessa linha de intelecção, só é exaurido o primeiro juízo de admissibilidade com o julgamento, por Órgão colegiado do Tribunal de origem, do agravo interno" (EDcl no AREsp n. 580.974/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/4/2015, DJe 17/4/2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1685292/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 6/12/2017).
+Por ser incabível, não se conhece do presente recurso no que concerne à aplicação do entendimento sufragado no recurso repetitivo REsp n. 1.296.673/MG (tema 555)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo.
+Publique-se. Intime-se.
