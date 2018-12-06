@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei indicados, (b) aplicação da Súmula n. 7/STJ e (c) falta comprovação do dissídio jurisprudencial, por inexistência de similitude fática (e-STJ fls. 511/512).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 366):
+APELAÇÃO - RESCISÃO CONTRATUAL - VENDA E COMPRA DE VEÍCULO - CARRO QUE PEGOU FOGO DOIS MESES APÓS A AQUISIÇÃO - LAUDO INCONCLUSIVO, DADAS AS CONDIÇÕES EM QUE O AUTOMÓVEL SE ENCONTRAVA - RELAÇÃO DE CONSUMO - INVERSÃO DO ÔNUS PROBATÓRIO - SENTENÇA REFORMADA. O veículo pegar fogo extrapola a esfera do desgaste natural do veículo antigo. O ônus de provar que o incêndio se deu por culpa da consumidora era das correqueridas, as quais dele não se desincumbiram. Rescindido o contrato de venda e compra do automóvel, também o deve ser aquele de financiamento. RECURSO PROVIDO.
+Os embargos de declaração da recorrida foram acolhidos, conforme ementa a segui redigida (e-STJ fl. 392):
+EMBARGOS DE DECLARAÇÃO - ALEGAÇÃO DE OMISSÃO - AUSÊNCIA DE FIXAÇÃO DO ÔNUS DA SUCUMBÊNCIA E DE VERBA HONORÁRIA - OCORRÊNCIA - ALEGAÇÃO DE OMISSÃO EM RELAÇÃO ÀS PROVAS E DE RESPONSABILIDADE DA FINANCEIRA - INOCORRÊNCIA EMBARGOS DE ELLEN ACOLHIDOS, COM EFEITO MODIFICATTVO. EMBARGOS DE LIDERKAR E OMNI REJEITADOS.
+Os aclaratórios opostos pela recorrente foram rejeitados (e-STJ fls. 393/394).
+Nas razões do recurso especial (e-STJ fls. 399/415), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e ofensa aos arts. 14, § 3º, I e II, 18 e 19 do CDC, pois seria parte ilegítima para responder solidariamente com a vendedora do veículo pela reparação dos danos experimentados pela recorrida, ante os vícios do bem adquirido e dado em garantia fiduciária à instituição financeira, além de que seria descabido rescindir o contrato de financiamento veicular, com fundamento no caráter acessório desse em relação ao compromisso de compra e venda rescindido.
+Não foram apresentadas contrarrazões (e-STJ fl. 510)
+No agravo (e-STJ fls. 515/522), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 525/528).
+É o relatório.
+Decido.
+O Tribunal de origem concluiu pela rescisão do contrato de compra e venda veicular devido a existência de vício no produto e, por consequência, rescindiu o contrato de financiamento celebrado entre a recorrida e a recorrente - tido por acessório em relação ao primeiro ajuste - além de reconhecer a responsabilidade solidária da instituição financeira, pela reparação dos danos experimentados pela compradora, nos seguintes termos (e-STJ fl. 368):
+Embora tenha restado demonstrado que a Liderkar adquiriu o veículo de seu prévio proprietário sem quaisquer alterações, não se mostrou cabalmente que ele foi vendido
+nas mesmas condições à requerente.
+Não se quer dizer, com isso, que a vendedora agiu de má-fé, efetuando a modificação apontada como possível causa do incêndio após a elaboração do laudo de vistoria de fls. 251, porquanto a má-fé há de ser provada. Contudo, por este mesmo motivo, não se pode dizer que referida alteração foi efetuada pela compradora. A questão, aqui, é que, repita-se, a prova, inexistente, cabia à alienante.
+Configurada a responsabilidade da Liderkar, deve o contrato de venda e compra ser rescindido, encontrado mesmo destino aquele de crédito.
+É que não se trata de mero empréstimo, mas de CDC com alienação fiduciária em garantia, totalmente vinculado ao contrato de venda e compra firmado entre a consumidora e a Liderkar. O pacto de financiamento é, portanto, acessório ao negócio envolvendo o veículo em si, de sorte que, rescindido este, deve aquele também o ser.
+A par disso, diante das circunstâncias descritas, a Omni integra a cadeia de consumo, daí se configurando sua responsabilidade solidária.
+Diante do exposto, DOU PROVIMENTO ao recurso, declarando rescindido o contrato de venda e compra do veículo Polo Classic objeto dos autos e, por conseguinte, aquele de financiamento firmado entre a autora e a Omni, condenando ambas as apeladas a, solidariamente, devolverem à consumidora todos os valores por ela pagos, corrigidos pela Tabela Prática deste Tribunal dos respectivos desembolsos e acrescidos de juros de mora de 1% ao mês, da citação. Eventuais negativações promovidas, tendo como fundamento referido contrato, deverão ser canceladas, no prazo de 5 (cinco) dias, sob pena de multa diária de R$ 200,00, até o limite de R$ 5.000,00.
+Entretanto, segundo a jurisprudência desta Corte Superior, "não existe caráter acessório entre o contrato de compra e venda de bem de consumo e o de financiamento bancário com arrendamento mercantil destinado a viabilizar a aquisição do bem, não havendo falar, portanto, em responsabilidade da instituição financeira por eventuais defeitos no veículo alienado" (AgInt nos EDcl no REsp n. 1.537.920/RS, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/8/2018, DJe 22/8/2018).
+Do mesmo modo:
+DIREITO CIVIL. CONTRATO DE COMPRA E VENDA DE VEÍCULO. ARRENDAMENTO MERCANTIL. CÓDIGO DE DEFESA DO CONSUMIDOR. DEFEITO NO PRODUTO. RESPONSABILIDADE DO FORNECEDOR.
+(..)
+2. O banco não está obrigado a responder por defeito de produto que não forneceu, tão somente porque o consumidor o adquiriu por meio de financiamento bancário.
+(..)
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.597.668/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 26/8/2016.)
+Outrossim, a jurisprudência do STJ é no sentido de haver "autonomia entre os contratos de compra e venda de veículo e de financiamento concedido por instituição financeira para sua aquisição, motivo pelo qual o cancelamento do primeiro não impede a exigibilidade das obrigações assumidas pelo consumidor perante a instituição financeira" (AgInt nos EDcl no REsp n. 1.292.147/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/5/2017, DJe 2/6/2017).
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CANCELAMENTO DE CONTRATO DE COMPRA E VENDA DE VEÍCULO COM A REVENDEDORA. RESCISÃO DO CONTRATO DE FINANCIAMENTO E RESTITUIÇÃO DOS VALORES PAGOS COM A INSTITUIÇÃO FINANCEIRA. INEXISTÊNCIA DE ACESSORIEDADE ENTRE OS CONTRATOS. MANUTENÇÃO. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O cancelamento de contrato de compra e venda de veículo com a revendedora não se estende ao contrato de financiamento estabelecido com a instituição financeira, tendo em vista que a jurisprudência desta Corte entende não haver relação de acessoriedade entre o contrato de compra e venda de bem de consumo e o de financiamento bancário com alienação fiduciária destinado a viabilizar a aquisição.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 688.771/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/12/2015, DJe 3/2/2016.)
+Em tais condições impõe-se a reforma do aresto impugnado, a fim de reconhecer a ilegitimidade passiva de OMNI S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO para a demanda e, por consequência, extingui-la sem resolução do mérito em relação à ela, nos termos do art. 485, VI, do CPC/2015, bem como para reformar o aresto impugnado, na parte em declarou rescindido o contrato de financiamento veicular, que permanece hígido.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial a fim de reconhecer a ilegitimidade passiva de OMNI S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO para a demanda e, por consequência, extingui-la sem resolução do mérito em relação à ela, nos termos do art. 485, VI, do CPC/2015, bem como para reformar o aresto impugnado, na parte em declarou rescindido o contrato de financiamento veicular, que permanece hígido.
+Condeno a parte recorrida às custas e aos honorários advocatícios, os quais fixo em 20% (vinte por cento) sobre o valor atualizado da causa, com fundamento no art. 85, § 2º, do CPC/2015.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 325), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+ Publique-se e intimem-se.
