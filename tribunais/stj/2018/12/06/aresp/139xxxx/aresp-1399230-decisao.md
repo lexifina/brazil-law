@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA contra decisão que negou seguimento a seu recurso especial, interposto com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, com o objetivo de reformar acórdão assim ementado pelo Tribunal Regional Federal da 1ª Região (fl. 362):
+ADMINISTRATIVO. AMBIENTAL. MANDADO DE SEGURANÇA. APREENSÃO DE MADEIRA. LICENÇA PARA TRANSPORTAR SOMENTE PARTE DA MADEIRA APREENDIDA. DOCUMENTO DE GUIA FLORESTAL - GF. LIBERAÇÃO PARCIAL.
+I - Na espécie dos autos, não havendo irregularidade no transporte de parte da madeira apreendida, conforme se verifica do documento de Guia Florestal - GF, não se afigura razoável a manutenção da apreensão da madeira acobertada pela aludida Guia Florestal. Precedentes deste egrégio Tribunal.
+II - A todo modo, existindo documento de Guia Florestal - GF que forneça cobertura parcial à madeira transportada, a multa aplicada pelo IBAMA deve ser readequada, para incidir tão-somente sobre a parte da carga transportada irregularmente.
+III - Apelação e remessa oficial desprovidas.
+Opostos embargos de declaração, foram eles rejeitados (fls. 380-388).
+Em suas razões recursais especiais IBAMA aponta violação, pelo aresto vergastado, dos arts. 25, caput, e 46, parágrafo único, da Lei 9.605/1998, e do art. 47, §3º, do Decreto 6.514/2008, porquanto, em síntese, legal e regular o ato de apreensão de toda a carga de madeira objeto da fiscalização ambiental, ainda que parte da mercadoria tenha procedência lícita e documentação regular, tendo em vista a necessidade de coibir o recorrente artifício de alguns madeireiros que se valem de guias florestais parcialmente válidas para encobrirem o transporte e o comércio de outras madeiras ilegais.
+Não foram oferecidas contrarrazões e o Tribunal a quo negou seguimento ao recurso (fls. 403-405), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No que trata da alegada contrariedade aos arts. 25, caput, e 46, parágrafo único, da Lei 9.605/98, e do art. 47, §3º, do Decreto 6.514/08, suscitada no apelo nobre, constata-se que o Tribunal a quo, ao examinar a matéria, fundamentou o decisum nos seguintes termos (fls. 283-284):
+ ..
+Na hipótese dos autos, a controvérsia instaurada cinge-se sobre a possibilidade de se permitir a liberação de parte da madeira apreendida que se encontra compatível com a especificação contida na Guia Florestal e Nota Fiscal.
+Com efeito, não merece reparos a sentença monocrática, posto que não havendo irregularidade no transporte de parte da madeira apreendida, conforme se verifica da Guia Florestal - GF, não se afigura razoável a manutenção da apreensão da madeira acobertada pela aludida Guia Florestal.
+ ..
+Por fim, havendo documento de Guia Florestal - GF que forneça cobertura parcial à madeira transportada, a multa aplicada pelo IBAMA deve ser readequada, para incidir tão-somente sobre a parte da carga transportada irregularmente.
+ ..
+Nesse sentido, concluir diversamente do Tribunal a quo que, com o exame do acervo fático dos autos, dentre eles o documento de Guia Florestal e o Fiscal, deduziu como injustificada a apreensão de toda a carga de madeira apreendida, tendo em vista que parte dela teria origem lícita, comprovada por documento regular, para se infirmar tais conclusões, na forma pretendida no apelo nobre, seria necessário revolver todo o material fático já analisado, procedimento esse impossível por via de recurso especial, ante a incidência do óbice da Súmula n. 7/STJ, que assim dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+PROCESSUAL CIVIL. TRANSPORTE DE MADEIRA. PARTE REGULAR E PARTE IRREGULAR. UTILIZAÇÃO DA MADEIRA REGULAR COMO ACOBERTAMENTO DA IRREGULAR. APREENSÃO TOTAL. POSSIBILIDADE, EM TESE. SITUAÇÃO NÃO CONSTATÁVEL NOS AUTOS. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não obstante a razoabilidade da tese do Ibama de que é possível a apreensão da totalidade da carga quando a madeira transportada regularmente é usada para acobertar madeiras em desacordo com a legislação ambiental, na presente hipótese não é possível abstrair tais conclusões.
+2. A pretensão de revisão do entendimento proferido na origem acerca da regularidade de parte das madeiras transportadas implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+3. Recurso Especial não conhecido (REsp 1651673/RR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/03/2017, DJe 24/04/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE REQUESTIONAMENTO. SÚMULA 211/STJ. SEGURANÇA CONCEDIDA PARCIALMENTE PARA A LIBERAÇÃO DE PARTE DA MADEIRA APREENDIDA. PROCESSO ADMINISTRATIVO AMBIENTAL: OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE, PROPORCIONALIDADE E DA ADEQUAÇÃO, QUE NÃO AFASTAM OS PRINCÍPIOS DA PRECAUÇÃO/PREVENÇÃO. SÚMULA 7/STJ. CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+(..).
+3. Rever o entendimento do Tribunal a quo para chegar a conclusão diversa encontra óbice na Súmula 7/STJ.
+4. Os fundamentos adotados pelas instâncias ordinárias relativos à proporcionalidade e razoabilidade da sanção aplicada suficientes à manutenção do julgado não foram impugnados no Recurso Especial interposto o que atrai a aplicação, por analogia, a Súmula 283/STF.
+5. A Corte de origem decidiu a questão com base nos princípios da razoabilidade e da proporcionalidade -, de modo que a via especial não se presta a modificar os termos do aresto regional, sob pena de invadir a competência exclusiva da Suprema Corte.
+6. Recurso Especial não provido (REsp. 1.463.762/RO, Rel. Min. HERMAN BENJAMIN, DJe 17.11.2016).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
