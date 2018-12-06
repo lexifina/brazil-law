@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 115):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1022 DO CPC/2015. NÃO OCORRÊNCIA. AFRONTA AO ARTIGO 40 DA LEF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ARTIGOS 332, § 1º, E 487, PARÁGRAFO ÚNICO, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. IMPULSO OFICIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ SOBRE O TEMA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O embargante aponta omissão no julgado quanto ao enquadramento deste caso ao do REsp 1.340.553/RS, submetido à sistemática dos recursos repetitivos, inobstante pedido expresso deduzido pelo Município, visto que no referido paradigma estabeleceu-se que a decretação de prescrição intercorrente em execução fiscal deve seguir, obrigatoriamente, o procedimento previsto no art. 40 e parágrafos da LEF.
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registro que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada conheceu do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento, diante dos seguintes fundamentos: a) inexistência de ofensa ao art. 1022 do CPC/2015; b) incidência à hipótese das Súmulas 283/STF, 282/STF e 284/STF (alegação de ofensa sem qualquer argumentação e ausência de comando normativo em dispositivos indicados); c) consonância do acórdão recorrido com o entendimento do STJ; d) ausência de demonstração, nos moldes legais, do dissídio jurisprudencial invocado.
+Neste momento, a parte acusa omissão no julgado quanto ao enquadramento do caso ao estabelecido no REsp 1.340.553/RS, submetido à sistemática dos recursos repetitivos, inobstante pedido expresso deduzido pelo Município, visto que referido paradigma fixou-se que a decretação de prescrição intercorrente em execução fiscal deve seguir, obrigatoriamente, o procedimento previsto no art. 40 e parágrafos da LEF.
+Todavia, a bem de ver, razão não lhe assiste. Com efeito, a decisão embargada não conheceu da tese recursal vinculada ao art. 40 da LEF em razão da incidência, no ponto, do óbice da Súmula 283/STF. Assim, se a matéria sequer ultrapassou a barreira do conhecimento, não há falar em análise do seu mérito, donde incabível a presente alegação de omissão no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
