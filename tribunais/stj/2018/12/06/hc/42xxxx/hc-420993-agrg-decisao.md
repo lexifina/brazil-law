@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se agravo regimental manejado por [NOME] contra decisão monocrática de minha lavra por meio da qual deneguei a ordem de habeas corpus (e-STJ fls. 382/383).
+Nas razões regimentais, a Defensoria Pública sustenta que deve ser admitida a incidência do redutor previsto no §4º do art. 33 da Lei n. 11.343/2006 no patamar máximo de 2/3 (dois terços) ou, subsidiariamente, em 1/2 (metade), modificando-se, ainda, o regime de cumprimento de pena para o aberto, bem como deferindo-se a substituição da pena privativa de liberdade por restritivas de direitos (e-STJ fl. 409).
+Afirma, ainda, que, "embora na r. decisão agravada tenha sido transcrito trecho no qual feita alusão à condenação anterior do agravado, tal referência, considerando-se envolver fato remoto, cuja pena inclusive admitiu a suspensão condicional, foi apenas para justificar o não afastamento do privilégio, de modo que a única fundamentação utilizada para embasar a mínima redução da pena base foi a natureza da droga apreendida" (e-STJ fl. 409).
+Requer que o presente agravo seja submetido a julgamento pela Sexta Turma, a fim de que seja provido e seja concedida a ordem de habeas corpus pleiteada.
+É, em síntese, o relatório.
+O presente agravo regimental está prejudicado.
+Com efeito, verifico que a matéria aqui tratada foi dirimida pela Sexta Turma por ocasião do julgamento de processo conexo a estes autos, qual seja, o REsp n. 1.722.450/RS, cuja ementa ficou assim definida (e-STJ fl. 463 do mencionado recurso especial):
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE FIXADA NO MÍNIMO LEGAL. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI . 11.343/2006. QUANTIDADE E NATUREZA DA DROGA QUE JUSTIFICAM A APLICAÇÃO NA FRAÇÃO MÍNIMA.
+1. Tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas (AgRg no HC n. 272.773/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2016, DJe 21/6/2016).
+2. No caso dos autos a pena-base foi fixada no mínimo legal e a minorante do § 4º do art. 33 da Lei n. 11.343/2006 foi aplicada na fração de 1/6, com amparo em fundamentação idônea. Digno de nota que o agravante possui uma condenação transitada em julgado em 2001 e foi surpreendido na posse de 33 pedras de crack.
+3. Agravo regimental desprovido.
+Dessa forma, diante de nova realidade fático-processual, é forçoso reconhecer a perda superveniente do objeto deste recurso, no qual se buscava a modificação do patamar de incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Ante o exposto, julgo prejudicado o presente agravo regimental.
+Publique-se. Intimem-se.
