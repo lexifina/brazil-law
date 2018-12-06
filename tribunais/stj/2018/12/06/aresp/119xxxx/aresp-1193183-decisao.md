@@ -1,0 +1,29 @@
+DECISÃO
+MARCOS [NOME] agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0002475-77.2004.8.26.0069.
+O agravante foi condenado à pena de 2 anos de reclusão mais 10 dias-multa, em regime inicial aberto, substituída por restritiva de direitos, pela prática do delito do art. 304, caput, do Código Penal. O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do recurso especial, a defesa alega violação dos arts. 361 do Código de Processo Penal, 257, I, 256, II, do Novo Código de Processo Civil (arts. 232, I e 231, II, do CPC antigo). Alega, em síntese, a nulidade da citação por edital.
+O recurso especial não foi admitido na origem, o que foi objeto de interposição do agravo em recurso especial.
+O Ministério Público Federal, às fls. 289-293, em parecer do Subprocurador-Geral da República [NOME], opinou pelo não conhecimento do agravo e, eventualmente, pelo não provimento.
+Decido.
+I. Admissibilidade do recurso especial
+A defesa alega, em síntese, a nulidade da citação por edital efetivada nos autos, ao argumento de que não foram esgotadas todas as possibilidades de localização do réu.
+Aduz que "não caberia falar em citação editalícia do recorrente antes de ter sido oficiada à Embaixada daquele país  Japão , pois "de acordo com o entendimento sedimentado nesta Corte Superior, é certo que depois de efetuadas todas as diligências necessárias para localização do ora recorrente, cabível a intimação por edital"" (fl. 241).
+O Tribunal de origem examinou a questão nos seguintes termos (fls. 229-232):
+ ..
+O réu protocolou um pedido de renovação da sua carteira nacional de habilitação junto ao CIRETRAN da cidade de Bastos. Ao fazê-lo, o acusado apresentou a documentação exigida, fornecendo ao órgão público, por consequência, o seu endereço residencial naquela localidade (fl. 20).
+Todavia, ao ser procurado para apresentar a sua versão acerca dos fatos em apuração nestes autos, Marcos não foi encontrado. Sua sogra informou à autoridade policial que ele havia embarcado para o Japão, onde estaria residindo e trabalhando, sem, contudo, revelar o endereço em que o mesmo poderia ser encontrado naquele país (fl. 21).
+Diante do oferecimento da denúncia, foi expedido mandado de citação, do qual constou o endereço fornecido pelo apelante às autoridades públicas, na cidade de Bastos. Ao tentar realizar o chamamento pessoal, o oficial de justiça foi novamente informado pela sogra do recorrente que ele estava no Japão, em endereço desconhecido (fls. 42 e verso).
+Por conta disso, diante da não localização do acusado no endereço existente nos autos, e da ausência de notícias precisas acerca do seu paradeiro (fls. 61/63), foi expedido edital de citação, realizando-se o chamamento ficto (fls. 43, 44 e 52).
+E como o réu não atendeu ao chamado judicial, nem constituiu defensor, foi determinada a suspensão do processo e da contagem do prazo prescricional, nos termos do artigo 366 do Código de Processo Penal (fl. 54).
+Em que pese o esforço da Defesa, não se vislumbra, em tal procedimento, qualquer vício ou irregularidade capaz de gerar a nulidade do processo.
+A citação por edital foi regularmente realizada, porquanto o réu não foi encontrado no único endereço existente nos autos, que ele mesmo fornecera às autoridades públicas nacionais.
+Ao contrário do que sustenta a Defesa, não cabia ao Juízo diligenciar, a fim de tentar obter o endereço de Marcos no Japão, onde supostamente estaria residindo e trabalhando, quando nem mesmo os seus familiares conheciam o seu paradeiro naquele país.
+Como se extrai da jurisprudência:
+"Ao contrário do que alegado, o MM. Juiz de Direito cumpriu rigorosamente a lei, determinando, primeiramente, a citação pessoal da acusada por meio de Oficial de Justiça, que restou frustrada ante a informação de que a paciente estaria residindo nos EUA. Descabe ao Judiciário realizar diligências excepcionais para a localização do acusado, mormente daquele que passa a viver fora do País, sem deixar informação confiável sobre o seu paradeiro." (Superior Tribunal de Justiça, HC 102187/PA, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 04/02/2010, DJe 08/03/2010 - negrito não presente no original).
+Destarte, diante da regularidade do chamamento ficto, não há que se falar, paralelamente, em invalidade dos atos processuais subsequentes, especialmente, da suspensão do processo e da contagem do prazo prescricional. Como o apelante não atendeu à citação, nem constitui defensor, a aplicação da regra do artigo 366 do Código de Processo Penal era mesmo de rigor.
+Conforme se observa, o acórdão impugnado consignou que a citação por edital ocorreu após a não localização do investigado no endereço fornecido nos autos e o recebimento da notícia de que ele havia se estabelecido em outro país, em endereço desconhecido.
+Em princípio, tal circunstância autorizaria a determinação da citação por edital e posterior suspensão do processo e do prazo prescricional. Cumpre ressaltar que não caberia a esta Corte Superior decidir se, no caso concreto, foram esgotadas todas as possibilidades de localização do acusado, haja vista a necessidade de incursão fático-probatória dos autos, vedada, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Ademais, é cogente consignar que não houve demonstração de prejuízo efetivo à ampla defesa e ao contraditório do investigado, requisito necessário ao reconhecimento de nulidades sejam de natureza absoluta ou relativa.
+ II. Dispositivo
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
