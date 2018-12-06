@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recurso especial interposto pela CONSTRUTORA SAN ROMAN S/A, no qual se discute, entre outras questões, sobre a possibilidade de cumulação da indenização por lucros cessantes com a cláusula penal, nas hipóteses de inadimplemento do vendedor em virtude do atraso na entrega de imóvel em construção objeto de contrato ou promessa de compra e venda.
+A questão de direito discutida no recurso especial foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 970), nos autos do REsp 1.635.428/SC e do REsp 1.498.484/DF, de relatoria do Min. Luis Felipe Salomão, com publicação em 03/05/2017, o que impõe a suspensão dos presentes recursos perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental n. 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Forte nessas razões, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneçam suspensos os recursos até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
