@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente) e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto em face da decisão que negou seguimento ao Recurso Especial, assim ementada (e-STJ fl. 443):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. IMUNIDADE TRIBUTÁRIA. ACÓRDÃO A QUO FUNDADO NOS FATOS DA CAUSA. SÚMULA 7/STJ. PRECEDENTES. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+Em suas razões, a Fazenda Nacional alega violação ao art. 535 do CPC/1973, tendo em vista que o acórdão do Tribunal de origem não teria se manifestado sobre a impossibilidade de retroação dos efeitos da imunidade.
+Impugnação às fls. 458-469.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não comporta conhecimento.
+A decisão agravada negou seguimento ao recurso especial pelos seguimentos fundamentos, "(a) não existência de violação ao art. 535 do CPC/1973; (b) a revisão da conclusão do Tribunal de origem de que a parte recorrida preenche os requisitos exigidos para a fruição da imunidade tributária demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+(fls. 443-444).
+Ocorre que a agravante não impugnou o seguinte fundamento da decisão agravada: (b) a revisão da conclusão do Tribunal de origem de que a parte recorrida preenche os requisitos exigidos para a fruição da imunidade tributária demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
