@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão que não admitiu o seu recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal - CF, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE GOIÁS - TJGO.
+Consta dos autos que o agravante e corréu foram condenados pela prática do delito tipificado no art. 157, § 3º, do Código Penal - CP, à pena de 24 anos de reclusão, em regime inicial fechado (fls. 203/205)
+As defesas interpuseram recursos de apelação que acarretaram a redução de pena ao patamar de 21 anos de reclusão (fls. 415/416). O acórdão ficou assim ementado:
+APELAÇÃO CRIMINAL DUPLA. LATROCÍNIO. RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. Io APELO. PRELIMINARES. CERCEAMENTO DO DIREITO DE DEFESA. CONFISSÃO APÓS TORTURA DE POLICIAIS.
+1 - A não intimação de testemunha da defesa em razão de alteração de endereço e posterior dispensa feita pelo próprio advogado do acusado não gera nulidade por cerceamento de defesa. 2- Não comprovado durante o processo a aventada tortura, inviável a anulação da sentença. 3- Preliminares rejeitadas.
+MÉRITO. ABSOLVIÇÃO POR FALTA DE PROVAS. DESCLASSIFICAÇÃO PARA O CRIME DE LESÃO CORPORAL SEGUIDA DE MORTE OU HOMICÍDIO SIMPLES. DE OFÍCIO, APLICADA A ATENUNATE DA CONFISSÃO ESPONTÂNEA.
+1- Restando comprovadas a autoria e materialidade do crime de latrocínio, tipificado pelo art. 157, § 3o, parte final, do Código Penal Brasileiro, não há que se falar em absolvição por falta de provas ou em desclassificação para o crime de lesão corporal seguida de morte (art. 129, § 3o, CP) ou homicídio simples (art. 121, caput, CP), devendo ser mantido o édito condenatório, revelando a improcedência da insurreição defensiva. 3- Quando utilizada para a formação do convencimento motivado, a confissão espontânea deve incidir na fixação da reprimenda imposta ao acusado. 4- Io Apelo conhecido e desprovido. De ofício, reconhecida a atenuante da confissão espontânea e reduzida a pena do acusado.
+2o APELO. DESCLASSIFICAÇÃO PARA OS CRIMES DE LESÃO CORPORAL SEGUIDA DE MORTE. HOMICÍDIO PRIVILEGIADO. HOMICÍDIO SIMPLES. REDUÇÃO DA PENA APLICADA.
+1- Depois de constatada a conduta ilícita quanto ao crime de latrocínio, impraticável a desclassificação para os crimes de lesão corporal seguida de morte ou homicídio privilegiado ou, ainda, homicídio simples. 2- A pena privativa de liberdade não merece qualquer reparo, pois fixada em estrita obediência aos ditames legais. 3- 2o Apelo conhecido e parcialmente provido (fls. 417/418).
+Em sede de recurso especial, a defesa do agravante alegou violação do art. 616 do Código de Processo Penal - CPP, porque o Tribunal de origem se recusou a ouvir testemunha antes do julgamento do recurso de apelação, deixando de aplicar o princípio da busca da verdade real. Destaca que o recorrente estava preso quando seu então procurador nos autos dispensou a oitiva da referida testemunha, em conflito de interesses.
+Requer novo julgamento do recurso de apelação após a realização da diligência.
+Contrarrazões (fls. 437/438).
+A r. decisão agravada não admitiu o recurso especial haja vista o óbice do revolvimento fático-probatório, vedado conforme Súmula 7/STJ (fls. 441/444).
+Em agravo em recurso especial, a defesa refuta o referido óbice (fls. 449/454).
+Contraminuta (fl. 457).
+O Ministério Público Federal - MPF opinou pelo desprovimento do agravo em recurso especial (fls. 469/474).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Sobre a violação do art. 616 do CPP, o Tribunal de origem negou a diligência para oitiva da testemunha porque a referida testemunha foi dispensada pelas defesas e a autoria ficou comprovada nos autos. Cito o trecho:
+Inicialmente é necessário destacar que após o parecer da Procuradoria-Geral de Justiça, o acusado [NOME] constituiu nova defensora (fls. 310/313), ao argumento de que havia um desgaste entre ele e o antigo causídico, sendo determinada vista dos autos à atual procuradora.
+Em seguida, a advogada formulou pedido de oitiva do adolescente [NOME] que estava residindo no exterior, afirmando ser o verdadeiro comparsa do acusado [NOME] na prática do crime de latrocínio, contra a vítima [NOME].
+A defesa relata que o referido menor se trata do irmão do acusado [NOME], que por coincidência também se chama [NOME]. Sustenta que, durante o interrogatório em sede policial, o processado confessou e narrou detalhadamente a prática do crime e indicou como comparsa uma pessoa denominada [NOME], contudo, estava se referindo a seu irmão e não ao denunciado.
+Por este motivo, pleiteia a oitiva do menor [NOME] para que possa contar o que realmente aconteceu no dia dos fatos.
+Ocorre que durante a instrução processual as defesas dos apelantes tentaram sustentar a tese de que quem estava no veículo com a vítima e o processado [NOME] era o menor [NOME] e não o apelante [NOME], entretanto, em razão da insuficiência probatória tal argumento foi rechaçado na sentença penal condenatória.
+Conforme se depreende dos autos, a própria defesa do acusado [NOME] dispensou a oitiva do menor. O adolescente foi arrolado como testemunha pelos processados, porém, não foi encontrado para ser intimado da audiência de instrução e julgamento ocorrida no dia 16 de outubro de 2014 (fl. 88). Nessa mesma data a audiência foi redesignada a pedido das partes para que o menor fosse ouvido (fls. 89/90).
+Na seqüência, após ser constatado que o adolescente havia se mudado para a Espanha, as defesas dos apelantes dispensaram sua oitiva.
+Assim, não há que se falar na possibilidade de um novo depoimento neste momento processual pelo simples fato de o menor ter voltado a residir no Brasil. Tal ausência, tanto na fase extrajudicial quanto judicial, não revela qualquer prejuízo à defesa dos apelantes, tendo em vista que a instrução processual comprovou a materialidade e autoria delitivas, conforme será a seguir delineado.
+Como se sabe, o sistema de nulidades processuais norteia-se pelo postulado pas de nullité satts grief, segundo o qual não será ordenado se não ficar evidenciado prejuízo em desfavor de qualquer das partes, conforme artigo 563, do Código de Processo Penal.
+Da mesma forma, não merece prosperar o pedido de nulidade processual, sob a alegação de que o denunciado [NOME] só confessou o crime perante a autoridade policial porque foi torturado. Não há nos autos nada que comprove tal afirmação.
+Importante frisar que eventuais vícios ou irregularidades ocorridos na fase inquisitorial não acarretam a nulidade do processo. E, no presente caso, verifica-se que não existem falhas a serem sanadas.
+Preliminares rejeitadas (fls. 405/406).
+No mesmo sentido, ou seja, pela faculdade de se aplicar o art. 616 do CPP, cito precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO ATIVA. OFENSA AO ART. 619 DO CPP. NÃO OCORRÊNCIA. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. INDEFERIMENTO. FACULDADE DO JULGADOR. CRIMES DE QUADRILHA E FALSIDADE IDEOLÓGICA. PRESCRIÇÃO RECONHECIDA. DELITO REMANESCENTE. REGIME INICIAL. FIXAÇÃO. JUÍZO DE EXECUÇÕES PENAIS. HABEAS CORPUS DE OFÍCIO. INTUITO DE SUPRIR DEFICIÊNCIA RECURSAL. DESCABIMENTO. AGRAVO IMPROVIDO.
+ ..
+2. O art. 616 do CPP traduz uma faculdade do órgão julgador, que, diante da análise do conjunto probatório, pode determinar ou não a realização de novas diligências (HC 59.851/PE, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 11/12/2007, DJ 07/02/2008, p. 334).
+ ..
+5. Agravo regimental improvido (AgInt no REsp 1483299/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 28/10/2016).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ATENTADO VIOLENTO AO PUDOR CONTRA VÍTIMA MENOS DE 14 ANOS DE IDADE. VALORAÇÃO JURÍDICA DOS FATOS. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. PRÁTICA POR DIVERSAS VEZES, ENTRE 2002 E 2004. CONTINUIDADE DELITIVA. PATAMAR MÍNIMO. NÃO CABIMENTO. APLICAÇÃO DO PATAMAR DE 2/3. PRECEDENTES. PRÁTICA DE ATOS LIBIDINOSOS DIVERSOS DA CONJUNÇÃO CARNAL.PADRASTO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROPOSITURA DA AÇÃO PENAL PÚBLICA INCONDICIONADA. ABSOLVIÇÃO. SÚMULA 7/STJ. PALAVRA DA VÍTIMA. RELEVÂNCIA. VIOLAÇÃO DO ART. 616 DO CPP. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO PARA A CONDUTA TIPIFICADA NO ART. 61 DA LEI DAS CONTRAVENÇÕES PENAIS. NÃO CABIMENTO. PRECEDENTES.
+ ..
+4. De acordo com entendimento deste Superior Tribunal de Justiça, ao interpretar o artigo 616 do Código de Processo Penal, há faculdade, e não obrigação, do tribunal de segundo grau determinar ou não o reinterrogatório do acusado ou a reinquirição da vítima ou de testemunhas, diante do conjunto probatório produzido.
+ ..
+6. Agravo regimental improvido (AgRg no REsp 1418746/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/05/2015, DJe 02/06/2015).
+Acrescente-se que o Tribunal de origem afastou a negativa de autoria com base na prova dos autos, notadamente o depoimento testemunhal do irmão da vítima. Cito o trecho:
+Da leitura dos autos, infere-se que os acusados tentaram transferir a culpa do latrocínio para o menor de idade [NOME], contudo, a segunda versão dos fatos se encontra isolada do conjunto probatório, especialmente o depoimento da testemunha [NOME], irmão da vítima, o qual reconheceu o acusado [NOME] dirigindo o carro de [NOME] e uma pessoa muito parecida com o processado [NOME] OLIVEIRA FERNANDES no banco do passageiro (fl. 413).
+Assim, para desconstituir a conclusão do Tribunal de origem é necessário o revolvimento fático-probatório, vedado conforme Súmula 7/STJ.
+Ante o exposto, com fundamento na Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
