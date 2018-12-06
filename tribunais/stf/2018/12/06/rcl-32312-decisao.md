@@ -1,0 +1,24 @@
+Trata-se de reclamação proposta por Marcos Roberto Schmitz contra acórdão proferido pela Terceira Turma do Tribunal Regional Federal da 4ª Região, ao julgar embargos de declaração opostos no processo 2004.71.00.027222-8, por suposto desrespeito ao que decidido por esta Suprema Corte em recurso com repercussão geral reconhecida (RE 661.256/SC).
+    A reclamante sustenta, em síntese, que o ato reclamado aplicou de forma equivocada a tese fixada no julgamento do RE 661.256/SC, que teve como Relator para acórdão o Ministro Dias Toffoli.
+    É o relatório necessário. Decido.
+    Inicialmente, consigno que deixo de requisitar informações e enviar o feito à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida, pois o pedido formulado pelo reclamante não se enquadra em nenhuma das hipóteses de cabimento de reclamação.
+    O art. 988, § 5°, II, do Código de Processo Civil, informa que a reclamação não será admitida quando “proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias”.
+    No ponto, ressalto que a disposição supratranscrita deve ser interpretada em consonância com o que dispõe o caput do art. 988, segundo o qual a reclamação somente será cabível para: (i) preservar a competência do tribunal; (ii) garantir a autoridade das decisões do tribunal; (iii) garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; e (iv) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    Ora, nem mesmo foram esgotadas as instâncias ordinárias, uma vez que ainda cabem recursos para combater o ato reclamado. Desse modo, a presente reclamação não atende ao requisito previsto no art. 988, § 5°, II, do CPC. Nesse sentido:
+    “PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+    1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+    2. Agravo regimental não provido” (Rcl 24.686 ED-AgR/RJ, Rel. Min. Teori Zavascki).
+    Deixo de condenar o reclamante ao pagamento de honorários, porquanto ausente o contraditório.
+    Ressalto, todavia, que eventual interposição de recurso exigirá a intimação do beneficiário da decisão reclamada para que se manifeste sobre o teor do recurso, podendo implicar em condenação ao pagamento da verba prevista no art. 85 do CPC à parte sucumbente e da multa prevista no art. 1.021, § 4°, do CPC.
+    Na linha do aqui afirmado, transcrevo a ementa do seguinte julgado:
+    “AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO E DO TRABALHO. REMUNERAÇÃO. SÚMULAS VINCULANTES 37 E 42. HONORÁRIOS ADVOCATÍCIOS EM RECLAMAÇÃO. NOVO REGIME PROCESSUAL. CABIMENTO.
+    1. Não viola as Súmulas Vinculantes 37 e 42 decisão que, com base no Decreto nº 41.554/97 e Lei nº 8.898/94, ambos do Estado de São Paulo, garante a empregada pública cedida da Fundação Municipal de Ensino Superior de Marília para a Faculdade de Medicina de Marília – FAMENA o percebimento de remuneração conforme índices estabelecidos pelo Conselho de Reitores das Universidades Estaduais de São Paulo – CRUESP. Precedentes.
+    2. O CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Neste novo cenário, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários, devendo o respectivo cumprimento da condenação ser realizado nos autos do processo de origem, quando se tratar de impugnação de decisão judicial.
+    3. Agravo interno a que se nega provimento” (Rcl 24.417-AgR/SP, Rel. Min. Roberto Barroso).
+    A reclamante, em caso de eventual interposição de recurso, deverá indicar o valor da causa (art. 292 do CPC).
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 6 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
