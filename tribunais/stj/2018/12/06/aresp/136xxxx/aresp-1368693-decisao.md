@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+RECURSO DE APELAÇÃO 1 -. AUTORES - APLICAÇÃO DA TEORIA DA IMPREVISÃO - AFASTADA - PRESENÇA DE PARASITA NO SOLO - FATO PREVISÍVEL E QUE PODERIA SER CONTORNADO PELO PRODUTOR RURAL - RISCO INERENTE AO NEGÓCIO - MÁ-FÉ DOS ARRENDADORES - NÃO DEMONSTRADA - RECURSO DESPROVIDO RECURSO DE APELAÇÃO 2 - REQUERIDOS - MAJORAÇÃO DA VERBA HONORÁRIA - ART 20, 03" E C, CPC/73 - NATUREZA DA CAUSA - NECESSIDADE DE PESQUISA SOBRE ÁREA DIVERSA DE SUA FORMAÇÃO TEMPO EXIGIDO PARA O SERVIÇO DE APROXIMADAMENTE 10 ANOS- RECURSO PROVIDO
+Os embargos de declaração opostos foram rejeitados (fls. 964 - 971, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, violação aos artigos 393, 441, e 478, do Código Civil, e 26, VI, do Decreto 59.566/66.
+Sustenta a existência de equívoco, por parte da Corte local, quanto à valoração das provas dos autos, alegando estar comprovada a imprevisibilidade da presença de parasitas no cultivo da soja, na área objeto do contrato de arrendamento firmado entre as partes.
+Defende que a presença dos parasitas configura vício oculto, não havendo que se falar em previsibilidade do incidente.
+Pondera pela aplicação da teoria da imprevisibilidade, e pela necessidade de resolução contratual, por onerosidade excessiva.
+Apresentadas contrarrazões (e-STJ fls. 995 - 1.003), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.012 - 1.013, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à agravante.
+De início, cumpre destacar a impropriedade da via eleita para a análise de violação ao artigo 26, VI, do Decreto 59.566/66, por não se inserir no estrito conceito de dispositivo de Lei Federal, espécie normativa cuja guarda efetivamente compete a esta Corte Superior.
+Quanto ao mais, ao afastar a pretensão em análise, a Corte local registrou que (e-STJ, fls. 932 - 934):
+Em que pese a longa explanação fática apresentada pelos Apelantes, cinge-se a controvérsia à previsibilidade da presença de parasitas no solo do imóvel rural arrendado.
+E, após extensa análise dos autos, conclui-se pelo acerto da sentença atacada em que se consigna que os Autores, agricultores experientes, poderiam antever a possibilidade de existência do nematoide no terreno a ser cultivado, bem como que a presença de pragas configura risco inerente ao negócio. Explica-se.
+(..)
+Entretanto, como se adiantou, a existência de pragas no solo não se caracteriza como fato imprevisível ou inevitável.
+Do laudo pericial produzido nos autos (Mov. 1.62) destaca-se que o parasita Meloidogyne javanica é uma das espécies que mais limitam a produção das grandes culturas, como soja e algodão. Trata-se de um dos principais agentes fitopatogênicos da cultura de soja no Brasil e, portanto, pressupõe-se que era de conhecimento dos Autores (repita-se, incontroversamente agricultores experientes) a sua existência e probabilidade de presença na terra a ser cultivada (grifamos).
+Ademais, ao responder ao quesito sobre a possibilidade de análise do solo com finalidade para constatar a existência ou não de nematoides antes do cultivo da soja, descreveu o expert que "a identificação da presença de nematoides é possível quando o solo se encontrar devidamente coberto com vegetação susceptível ao seu ataque, onde se poderiam identificar as reboleras. (..)". A seguir, afirmou-se a possibilidade de fazer análise até mesmo em amostras de ervas daninhas e não somente nas próprias plantas de soja, como tentam fazer crer os Apelantes.
+(..)
+Por fim, como bem destacou o Juízo singular, "é próprio dos contratos de arrendamento que o arrendatário assuma os riscos inerentes à atividade exercida, logo, no caso em questão, era dever dos Requerentes diligenciar para que fatos como o ocorrido não interferissem na produção". Outro não poderia ser o entendimento, já que a infestação de lavouras por pragas é risco inerente ao negócio (grifamos).
+Conforme se verifica, após a análise dos fatos e provas levados aos autos, a Corte local concluiu que a presença de pragas na lavoura de soja, objeto do litígio entre as partes, não constitui fato imprevisível a justificar a resolução do contrato. Assim, a revisão da conclusão adotada na origem não comporta acolhimento na presente via, por demandar necessário reexame de fatos e provas, medida que encontra veto na Súmula 7/STJ.
+Por outro lado, verifica-se que o entendimento exarado na origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que a presença de pragas na lavoura não constitui fato imprevisível a justificar a resolução contratual nos moldes em que pretende a agravante. Incide no ponto a Súmula 83/STJ. A propósito:
+CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. OCORRÊNCIA DE PRAGA NA LAVOURA, CONHECIDA COMO "FERRUGEM ASIÁTICA". ONEROSIDADE EXCESSIVA. AUSÊNCIA. AGRÁRIO. CONTRATO DE COMPRA E VENDA DE SOJA. FECHAMENTO FUTURO DO PREÇO, EM DATA A SER ESCOLHIDA PELO PRODUTOR RURAL. AUSÊNCIA DE ABUSIVIDADE. EMISSÃO DE CÉDULA DE PRODUTO RURAL (CPR) EM GARANTIA DA OPERAÇÃO. AUSÊNCIA DE ADIANTAMENTO DO PREÇO.VALIDADE.
+1. Nos termos de precedentes do STJ, a ocorrência de "ferrugem asiática" não é fato extraordinário e imprevisível conforme exigido pelo art. 478 do CC/02.
+2. A Lei 8.929/94 não impõe, como requisito essencial para a emissão de uma Cédula de Produto Rural, o prévio pagamento pela aquisição dos produtos agrícolas nela representados. A emissão desse título pode se dar para financiamento da safra, com o pagamento antecipado do preço, mas também pode ocorrer numa operação de "hedge", na qual o agricultor, independentemente do recebimento antecipado do pagamento, pretende apenas se proteger contra os riscos de flutuação de preços no mercado futuro.
+3. Recurso especial conhecido e provido (REsp 866414 / GO, Relatora: Ministra NANCY ANDRIGHI, TERCEIRA TURMA, Julgamento, 20/06/2013, DJe 02/08/2013).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
