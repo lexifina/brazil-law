@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob aplicação da Súmula n. 7 do STJ.
+O TJRJ negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 40):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PEÇAS OBRIGATÓRIAS ILEGÍVEIS. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO. Oportunidade para que a agravante sanasse vício. Agravante quedou-se silente, embora devidamente intimada eletronicamente (artigo 270 do C.P.C.). Agravante que não atendeu ao disposto no artigo 1.017 do C.P.C. Inaplicabilidade do §5º do artigo 1.017 do C.P.C. Consoante o disposto no inciso III, do artigo 932 do C.P.C., decisão monocrática que não conheceu o agravo de instrumento. Mantida decisão monocrática. NEGADO PROVIMENTO AO AGRAVO INTERNO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 59/64).
+Nas razões do recurso especial (e-STJ fls. 66/70), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos arts. 224, §§ 1º, 2º e 3º, 231, 245, 272, §§ 1º, 2º, 932, § único, 1.017, § 3º do CPC/2015 e dissídio jurisprudencial, ao afirmar que "para a hipótese de o agravante não juntar quaisquer das peças que formam o agravo de instrumento, isto não implicará na inadmissibilidade do recurso, uma vez que o tribunal competente deverá intimar a parte para regularizar a formação do instrumento" e que" a decisão na qual determinou a juntada de peças legíveis aos autos, bem como a comprovação da gratuidade de justiça, sequer foi publicada no Diário Oficial, acarretando assim o não cumprimento pelo patrono" (e-STJ fl. 69).
+Não se ofereceram contrarrazões (e-STJ fl. 115).
+No agravo (e-STJ fls. 180/186), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 208).
+É o relatório.
+Decido.
+Verifica-se nos autos do processo que a Corte de origem afirmou que o patrono da parte teria sido intimado de forma tácita, ou seja, "a certidão da secretaria (..) atesta que o patrono da agravante possui cadastro presencial e, mais ainda, que foi intimado tácita e eletronicamente no dia 11/04/2016" e que este documento "confirma que o Dr. [NOME], subscritor do agravo de instrumento, além de ser o nome do advogado da agravante indicado na inicial (..) foi, de fato, intimado eletronicamente, não prosperando, portanto, também a tese da agravante de que a publicação foi feita em nome de outro advogado, que não o constituído nos autos" (e-STJ fl. 46).
+A respeito de tais razões de decidir, a recorrente não se manifestou, limitando-se a alegar que o patrono não teria sido intimado para regularizar a formação do instrumento. Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283 do STF.
+Por fim, revela-se inviável o exame do recurso especial fundado na alínea "c", do permissivo constitucional, visto que a recorrente deixou de cumprir as formalidades exigidas pelos arts. 1.029, § 1º do CPC/2015 e 255, §§ 1º e 2º, do RISTJ, na parte que diz respeito à comprovação do dissídio jurisprudencial, limitando-se à transcrição de ementas dos acórdãos paradigmas, sem contudo, proceder ao cotejo analítico entre as teses confrontadas.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
