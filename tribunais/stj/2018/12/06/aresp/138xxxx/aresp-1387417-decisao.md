@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de [NOME] ALVES DA [NOME] [NOME], a parte Recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes aos Drs. [NOME] e Carlos Alberto C. de Moura, subscritores do recurso especial.
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ainda, importante salientar que o marco temporal de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido.
+O Novo Código de Processo Civil entrou em vigor em 18/3/2016, sendo aplicado somente a recursos cujo decisum recorrido tenha sido publicado a partir desta data (Enunciado Administrativo n. 3 do STJ).
+Portanto, no caso específico dos autos, a intimação da decisão que inadmitiu o recurso especial foi publicada em 02/08/2016, ou seja, posteriormente a 18/3/2016. Logo, na análise dos requisitos de admissibilidade do agravo em recurso especial, aplicar-se-ão as regras da novel legislação, razão pela qual houve a intimação para regularização da representação do subscritor do referido recurso, nos termos do art. 76, c/c o art. 932, parágrafo único, do Código de Processo Civil de 2015.
+Por outro lado, a intimação do acórdão recorrido se deu em 26/01/2016, ou seja, anteriormente a 18/3/2016. Logo, na análise dos requisitos de admissibilidade do recurso especial, aplicar-se-ão as regras do Código de Processo Civil de 1973, não havendo possibilidade de regularização, em observância ao princípio do tempus regit actum (Enunciado Administrativo n. 2 do STJ).
+Como as regras que se aplicam ao recurso especial são a do Código de Processo Civil de 1973, é inaplicável a providência de que tratava o art. 13 do mesmo diploma em sede especial, devendo a representação processual estar formalmente perfeita por ocasião da interposição do recurso (EREsp n. 868.800/RS, Corte Especial, relatora Ministra Laurita Vaz, DJe de 11/11/2010).
+Por essa razão, a regularização da representação processual do subscritor do agravo em recurso especial só tem o condão de afastar o vício para o agravo, interposto na vigência do novo Código de Processo Civil, não alcançando o recurso especial, interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
