@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ITCMD. SUCESSORES LEGAIS. LEGITIMIDADE PASSIVA AD CAUSAM. EMBARGOS DE TERCEIROS. INADEQUAÇÃO DA VIA PROCESSUAL ELEITA. REVISÃO DO ENTENDIMENTO FIRMADO NO TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] E HÉLIO ANTÔNIO DA [NOME], em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. ):
+ITCMD. Imposto sobre Transmissão "Causa Mortis".Embargos de terceiro opostos pelos sucessores legais da executada. Discussão sobre legitimidade da executada originária e dos seus sucessores legais e eventual irregularidade da CDA. Matéria veiculada é própria dos embargos à execução, revelando-se inadequada a oposição de embargos de terceiro por aqueles que não são propriamente estranhos à execução fiscal, mas são os sucessores legais da executada originária. RECURSO DESPROVIDO, com alteração do dispositivo da sentença.
+No recurso especial, os recorrentes apontam violação dos arts. 3º, 43, 267, VI, 1.046 do CPC/1973 e 131, II e III, do CTN ao argumento de que a execução fiscal foi proposta quatro anos após o falecimento da executada, quando já encerrada até mesmo a partilha dos bens, o que torna os embargantes, então sucessores da de cujus, não mais responsáveis tributários, mas sim contribuintes, sendo, pois, terceiros na relação processual e sem legitimidade passiva ad causam. Alegam interpretação divergente.
+Sem contrarrazões (Certidão à fl. 190).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Contraminuta a fls. 222-224.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+Na espécie, a Corte de origem consignou que a execução fora ajuizada em face de [NOME] e, após seu falecimento, direcionada ao espólio, vindo assim a reconhecer a legitimidade passiva ad causam dos recorrentes, então sucessores legais da de cujus no bem penhorado, em execução fiscal relativa a ITCMD não recolhido, para, em seguida extinguir os embargos de terceiros, por inadequação da via eleita, aos seguintes fundamentos (fls. 138/139):
+No caso concreto, os embargantes são os sucessores legais de [NOME], conforme revela a matrícula imobiliária do bem constrito (fls. 10/13).Ao que consta, [NOME] deixou de recolher o ITCMD no montante de R$ 8.121,40, devido na qualidade de donatária, por doação recebida de [NOME] (fls. 38/39).
+A execução fiscal foi ajuizada contra [NOME] e, após, redirecionada ao espólio, contra o que se insurgem os embargantes, embasado no fato de que a CDA estava em nome daquela executada originária e não do espólio.
+A matéria veiculada, portanto, é própria dos embargos à execução, revelando-se inadequada a oposição de embargos de terceiro por aqueles que não são propriamente estranhos à execução fiscal, mas são os sucessores legais da executada originária, [NOME].
+ ..
+No caso, quem sucede na propriedade do bem penhorado, como os embargantes, não são terceiros e estão, em regra, sujeitos a relação material litigiosa posta da execução fiscal, de modo que a exceção à regra deve ser perquirida pela via adequada.
+Assim, o caso é, em verdade, de extinção dos embargos de terceiro, sem resolução mérito, por inadequação da via eleita.
+Com efeito, inviável desconstituir a conclusão firmada no acórdão recorrido sem o reexame dos elementos fático-probatório dos autos, o que, em sede de recurso especial, é vedado por força da Súmula 7/STJ.
+Na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+No mesmo sentido: "prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015)
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
