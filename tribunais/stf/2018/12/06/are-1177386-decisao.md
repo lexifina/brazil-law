@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 15, Vol. 8):
+    “CONCORRÊNCIA DESLEAL – Patente de modelo de utilidade e de modelo industrial – Manifesto interesse processual da autora, até a data da expiração da concessão respectiva, ocorrida no curso da lide, porque, a violação perdurou durante esse período – Comprovação, nos autos, por perícia, de identidade dos produtos das partes litigantes – Apelo desprovido.”
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que houve violação ao art. 5º, XXIX, da Carta Magna.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Tribunal de origem decidiu, com base na legislação ordinária pertinente (Lei 9.279/1996), bem como no conteúdo probatório constante nos autos, que houve concorrência desleal. Vejam-se, a propósito, os seguintes trechos do acórdão recorrido (fls. 19-21, Vol. 8):
+    “Uma vez reconhecida a patente do modelo de utilidade e do desenho industrial da autora, não apresenta qualquer relevo discutir, presentemente, se o produto mencionado nos autos decorria do estado da técnica. Houve obtenção da patente, concedida pelo INPI, que, logicamente, analisou todos os requisitos e pressupostos para tanto.
+    O art. 11 da Lei n. 9.279/96 prevê que a invenção e o modelo de utilidade são considerados novos quando não compreendidos no estado da técnica. Nos termos do art. § 1º deste dispositivo legal, o estado da técnica ‘é constituído por tudo aquilo tornado acessível ao público antes da data do depósito do pedido de patente, por descrição escrita ou oral, por uso ou qualquer outro meio, no Brasil ou no exterior’.
+    Na hipótese, a insistência da apelante no sentido de que o produto da autora não se reveste de novidade soa disparatada.
+    Esse tema, como referido, está superado, ante a concessão da patente à autoria; certo que eventual questionamento acerca de sua legitimidade deveria ser discutido, pela ré-apelante, em sede própria.
+    A discussão acerca do patenteamento do produto refoge aos limites dedutível nos presentes autos. Pois no âmbito de ação fundada em alegada contrafação, descabido questionar a validade da concessão de patente emitida pela autarquia federal.
+    (...)
+    Bem por isso, o tema relativo à validade da patente não pode ser objeto de discussão nesta lide.
+    Quanto à alegada inexistência de identidade de produtos, esse tema, a bem de ver-se, foi bem analisado pela perícia judicial, que concluiu o seguinte (fls. 145):
+    (...)
+    Ainda, o laudo complementar de fls. 360/374 observou que o produto fabricado pela ré é idêntico àquele patenteado pela autora.
+    Bem por isso, bem colocado na sentença: ‘conforme se verifica do laudo pericial, o produto é similar, e não se pode negar que as diferenças apontadas no produto é ínfima, não sendo, portanto, suficiente para afastar a exclusividade da patente da qual a autora é legítima proprietária’.
+    O depoimento das testemunhas não poderia servir como fundamento para afastar o reconhecimento da identidade dos produtos levado a efeito no âmbito pericial.”
+    Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 6 de dezembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
