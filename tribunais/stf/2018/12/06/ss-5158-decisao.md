@@ -1,0 +1,18 @@
+Despacho:
+    Vistos.
+    Trata-se de pedido de tutela incidental, fundado no poder geral de cautela, por meio do qual, a Associação dos Delegados de Polícia do Estado de Santa Catarina postula a preservação dos valores das aposentadorias já concedidas, visto que a concessão do pedido de suspensão de segurança, formulado pelo Instituto de Previdência do estado de Santa Catarina – IPREV, implicou em redução no montante de aposentadorias pagas a associados seus.
+    Acrescentou que tal pedido de suspensão acabou confirmado pelo Plenário da Corte, mas que ainda há embargos de declaração pendentes de julgamento, em face desse acórdão. Mesmo assim, a Procuradoria Geral do Estado de Santa Catarina apresentou parecer recomendando que o IPREV tornasse sem efeito aposentadorias já concedidas, ou a fórmula do cálculo dos respectivos proventos, o que foi feito, sem que houvesse sido concedido direito de defesa aos interessados, como seria de rigor. Isso decorreu de equivocado pressuposto de que a referida decisão fosse dotada de efeitos “ex tunc” quando, em verdade, é dotada de efeitos “ex nunc”. Assim, postulou que sejam preservadas as aposentadorias já concedidas, com base no parâmetro normativo que era até então aplicado.
+    É o relatório.
+    A presente suspensão de segurança já foi definitivamente julgada pelo Plenário desta Corte, que por maioria de dez votos, manteve a suspensão que havia sido deferida pela então Presidente do STF, Ministra Cármen Lúcia.
+    Como se não bastasse, nos estreitos limites de uma ação deste tipo, não se mostra possível a concessão de pedido de tutela, de nenhuma espécie, contra o Poder Público.
+    Como se sabe, nos termos dos artigos 1º da Lei nº 9.494/97 e 4º, da Lei nº 8.437/92, são disciplinados os pedidos de suspensão de execução de tutelas antecipadas, formulados pelo Ministério Público ou pela pessoa jurídica de direito público interessada, em ações propostas contra o Poder Público, nos casos de manifesto interesse público ou de flagrante ilegitimidade, assim como para evitar grave lesão à ordem, à saúde, à segurança ou à economia públicas. E não o contrário.
+     Por oportuno, vale destacar a lição de Leonardo Carneiro da Cunha quanto à natureza jurídica das medidas de contracautela:
+    “O pedido de suspensão não tem natureza recursal, por não estar previsto em lei como recurso e, igualmente, por não gerar a reforma, a anulação nem a desconstituição da decisão. Desse modo, o requerimento de suspensão não contém o efeito substitutivo a que alude o art. 1.008 do CPC. Na verdade, conquanto alguns autores de nomeada lhe atribuam a natureza de sucedâneo recursal e outros, a de um incidente processual, o pedido de suspensão consiste numa ação cautelar específica destinada, apenas, a retirar da decisão sua executoriedade; serve, simplesmente, para suspender a decisão, mantendo-a, em sua existência, incólume. No pedido de suspensão, há uma pretensão específica à cautela pela Fazenda Pública.” (A Fazenda Pública em juízo. Rio de Janeiro: Forense, 2018, 15ª Edição, p. 654-655).
+    Assim, em demandas deste tipo, apenas pessoas de direito público interessadas, ou o Ministério Público, podem deduzir pretensões, e sempre em defesa da ordem, saúde, segurança, ou economia públicas.
+    Pedidos como este ora deduzido pela Associação de Delegados Públicos de Santa Catarina, devem ser apresentados perante os juízos competentes, e não diretamente à Presidência do STF, notadamente em vista de não ser dotado de caráter recursal, o instituto da suspensão de segurança.
+    Ante o exposto, não conheço do presente pedido de tutela provisória incidental.
+    Publique-se.
+    Brasília, 6 de dezembro de 2018.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
