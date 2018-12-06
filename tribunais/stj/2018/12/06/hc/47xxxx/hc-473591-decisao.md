@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que indeferiu pedido liminar no writ de origem.
+Busca-se a revogação da prisão preventiva, com a alegação de existência de fundamentos inidôneos no decreto prisional, além de que o paciente gozaria de condições pessoais favoráveis.
+Argumenta-se, ainda, que a prisão em flagrante foi ilegal, pois restava ausente o estado de flagrância, não sendo presente nenhuma das situações elencadas no artigo 302 do Código de Processo Penal. Aponta-se que houve violação de domicílio do paciente e pede-se que esse responda o processo criminal em liberdade, mediante aplicação de medidas cautelares diversas previstas no artigo 319 do Código de Processo Penal.
+O paciente responde pela prática dos crimes tipificados nos artigos 288, 148 e 180, todos do Código Penal e 1º da Lei n. 9.455/1997.
+A liminar foi deferida.
+As informações foram prestadas.
+Manifestou-se o Ministério Público pelo não conhecimento do writ.
+A defesa peticiona às fls. 347/352, pleiteando a extensão dos efeitos da decisão que concedeu a liminar ao corréu [NOME].
+Conforme as informações prestadas nas fls. 354/358, verifica-se que o juízo a quo complementou as razões da necessidade de prisão preventiva aos acusados, em 22/10/2018, nos seguintes termos:
+ .. .Faz-se necessário, neste momento de recebimento da denúncia dos acusados, complementar a referida decisão proferida no Plantão Judiciário e reforçar a necessidade da custódia cautelar, pois os fatos apurados nos autos em que, segundo a vítima, um deficiente físico, teria sido arrancado de casa e levado para um local em que foi torturado, agredido e teve até a pele queimada, enquanto aguardava a "sentença do tribunal do crime" causam tamanho espanto, indignação e reprovação. Segundo consta, durante o deslocamento da vítima do local em que torturado até o local em que seria executado, policiais militares rodoviários abordaram o veículo e vieram a descobrir os fatos criminosos. As diligências seguintes denotam a existência de ligação e envolvimento dos acusados com a organização criminosa PCC, bem como a gravidade da situação e a necessidade da custódia cautelar, para a garantia da ordem pública. Ademais, os relatos da vítima (fls. 283), dos policiais rodoviários (fls. 3/4) que abordaram o veículo em que estavam os acusados, e, dos policiais civis que empreenderam diligências, também reforçam que este caso concreto enseja uma postura rígida do Poder Judiciário. Anoto a existência dos antecedentes criminais de alguns dos acusados (fls. 155-182), relacionados à crimes patrimoniais, tráfico de drogas, entre outros delitos. Por fim, as condutas dos acusados, descritas na Denúncia de fls. 296/303, demonstram a gravidade da situação fática.
+Cópia da presente decisão deverá ser enviada, com nossas homenagens, ao e. STJ, para instrução do Habeas Corptts no 473.591-SP. .. .
+Dessa forma, constatada a presença de novo título judicial, é necessária a prévia submissão da matéria ao Tribunal de origem, sob pena de supressão de instância, encontrando-se superada a discussão posta neste writ.
+Ante o exposto, julgo prejudicado o habeas corpus, cassando-se a liminar antes deferida. Prejudicado o pedido de extensão.
+Publique-se.
+Intimem-se.
