@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ORDEM LEGAL DE PENHORA. POSSIBILIDADE DE RECUSA DE BEM OFERTADO FORA DA ORDEM PREVISTA NOS ARTS. 11 DA LEF E 835 DO CPC/2015.
+I - O Superior Tribunal de Justiça possui jurisprudência pacífica no sentido da possibilidade de a Fazenda Pública recusar bem nomeado à penhora em desobediência à ordem legal prevista no art. 11 da Lei n. 6.830/1980 e no art. 835 do CPC/2015, não caracterizando tal ato, violação ao princípio da menor onerosidade constante do art. 805 do diploma adjetivo civil. Precedentes: AgRg no REsp n. 1581091/SP, Rel. Min. BENEDITO GONÇALVES, DJe de 14/2/2017; e AgInt no AREsp n. 898.753/SP, Rel. Min. HUMBERTO MARTINS, DJe 17/08/2016.
+II - Recurso especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO. EXECUÇÃO FISCAL. PENHORA DE BENS. ORDEM LEGAL. ART. 11 DA LEF. RECUSA INJUSTIFICADA. FORA DA SEDE DA EXECUÇÃO. PRESUNÇÃO DE SUPERAVALIAÇÃO. BACENJUD. REITERAÇÃO. APÓS UM ANO. INVIÁVEL. SÚMULA 81 DO STJ.
+1. A mera alegação de desobediência à ordem legal de preferência estabelecida no art. 11 da LEF não justifica, por si só, a rejeição da oferta. Se o bem for idôneo, apto a garantir a execução, a recusa por tal fundamento faria letra morta do próprio artigo. Se assim fosse, qualquer bem ofertado, à exceção de dinheiro, poderia ser recusado prontamente pela exequente. Não é essa, por certo, a intenção da norma, devendo a oferta ser analisada casuisticamente.
+2. O bem indicado (terreno rural com 67,58ha) é idôneo. Assim, a recusa da União não se mostra plausível, já que a mera localização fora da sede da execução não é óbice para a penhora. Também não o é a presunção de superavaliação, pois antes de uma efetiva avaliação oficial neste feito não se pode ter certeza de seu real valor.
+3. Inexistindo decisão reconhecendo a responsabilidade tributária da empresa Intercity Investimento e Administração de Imóveis Ltda pela dívida exequenda, não há como neste momento processual determinar a penhora de bens de sua propriedade.
+4. Em 24 de junho de 2016, este Tribunal editou a Súmula da Jurisprudência Dominante nº 81, na qual reconhece o direito à renovação do pedido de penhora por meio do Sistema BACENJUD, nas hipóteses em que decorrido prazo superior a um ano da última consulta.
+Foram rejeitados os embargos declaratórios opostos pela Fazenda Nacional.
+Inicialmente, a recorrente suscita contrariedade aos arts. 489, § 1º e 1.022, ambos do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca de questões essenciais ao deslinde da controvérsia.
+Em seguida, a recorrente aponta violação dos arts. 11 e 15 da Lei n. 6.830/1980.
+Sustenta, em síntese, que é legítima a recusa pela exequente do imóvel oferecido pelo contribuinte, tendo em vista que o aludido bem necessita observar a ordem de penhora legalmente prevista no art. 11 da Lei de Execuções Fiscais.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Com relação à alegada contrariedade aos arts. 489, § 1º e 1.022 do CPC/2015, a leitura do acórdão recorrido possibilita afirmar que não houve qualquer omissão, contrariedade, obscuridade ou erro material incorrido pelo Tribunal de origem, razão pela qual é irretocável o decisum no ponto impugnado.
+Por outro lado, o Superior Tribunal de Justiça tem jurisprudência consolidada no sentido da possibilidade de a Fazenda Pública recusar bem nomeado à penhora em desobediência à ordem legal prevista no art. 11 da Lei n. 6.830/1980 e no art. 835 do CPC/2015, não caracterizando tal ato, violação ao princípio da menor onerosidade constante do art. 805 do diploma adjetivo civil.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. RECUSA DA FAZENDA PÚBLICA. INOBSERVÂNCIA DA ORDEM LEGAL. POSSIBILIDADE. MATÉRIA JULGADA NESTA CORTE SOB O RITO DO ART. 543-C DO CPC/1973.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. No julgamento do REsp 1.337.790/PR, submetido ao rito do art. 543-C do CPC/1973, esta Corte ratificou o entendimento de que é legítima a recusa por parte da Fazenda de bem nomeado à penhora, caso não observada a gradação legal, não havendo falar em violação do art. 620 do CPC/1973, uma vez que a Fazenda Pública pode recusar a nomeação por quaisquer das causas previstas no art. 656 do CPC/1973 ou nos arts. 11 e 15 da LEF.
+3. Agravo regimental não provido. (AgRg no REsp n. 1581091/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 7/2/2017, DJe de 14/2/2017.)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRECATÓRIOS JUDICIAIS. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. ORDEM DE INDICAÇÃO NÃO OBSERVADA. INEXISTÊNCIA DE EQUIVALÊNCIA COM DINHEIRO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS.
+1. A jurisprudência do STJ firmou-se no sentido de que é legítima a recusa da Fazenda Pública de bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC e 11 da Lei 6.830/80, inclusive em recurso repetitivo (art. 543-C do CPC), no julgamento do REsp 1.090.898/SP, Rel. Min. Castro Meira.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.337.790/PR (Rel. Ministro HERMAN BENJAMIN, DJe de 7/10/2013), representativo da controvérsia, decidiu que é possível à Fazenda Pública recusar a nomeação à penhora de precatório judicial, quando a nomeação não observar a ordem legal, cabendo ao executado apresentar elementos concretos, que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica do art. 620 do CPC, tal como ocorreu, in casu.
+3. O princípio da menor onerosidade do devedor, insculpido no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor, sendo indevida sua aplicação de forma abstrata e presumida, cabendo ao executado fazer prova do efetivo prejuízo.
+Agravo interno improvido. (AgInt no AREsp n. 898.753/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/8/2016, DJe 17/08/2016.)
+Ante o exposto, dou provimento ao recurso especial para reconhecer como legítima a recusa do bem ofertado pelo contribuinte, bem como para determinar que a constrição recaia sobre os bens do devedor de acordo com a ordem prevista no art. 835 do CPC/2015.
+É o voto.
