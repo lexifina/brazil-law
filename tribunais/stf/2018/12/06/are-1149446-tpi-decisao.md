@@ -1,0 +1,22 @@
+Trata-se de pedido de tutela provisória incidental em favor de Rosani Terezinha Pires da Costa Donadon e Darci Agostinho Cerutti
+    “para conferir efeito suspensivo ao ARE nº 1149446, para que sejam suspensos os efeitos do v. acórdão do Tribunal Superior Eleitoral nos autos do REspE nº 256-51, que deu provimento aos Recurso Especiais interpostos pelo Ministério Público Eleitoral e pela Coligação pra Fazer a Diferença, a fim de reformar o acórdão regional e indeferir o registro de candidatura dos recorrentes“ (fl. 3.768).
+    Segundo os requerentes, o recurso extraordinário trata
+    “de registro de candidatura impugnado sob a alegação de incidência da causa de inelegibilidade do art. 1º, inciso I, alínea ‘d’, da LC 64/90, ante a cassação do registro da chapa composta pela recorrida no pleito de 2008, quando era vice-prefeita, e que, por consequência, foi cassada como beneficiária” (fl. 3.768).
+    Sustenta que “no RE 929.670/DF, a discussão foi travada tendo por pressuposto as hipóteses de candidatos que concorreram ao pleito com amparo em decisão liminar, razão pela qual contra eles seria aplicado o entendimento firmado no recurso extraordinário” (fl. 3.769).
+    Alega que os requerentes tiveram o registro deferido pelo Tribunal Regional eleitoral de Rondônia – TRE/RO, de modo que não concorreram ao pleito amparados por decisão liminar.
+    Nesse sentido, apontam decisão do Ministro Alexandre de Moraes que, em caso supostamente semelhante, deferiu tutela de urgência, para suspender os efeitos do julgamento proferido pelo Tribunal Superior Eleitoral, nos autos do REspe n° 145-89.201 6.6.20.0047/R e da decisão da ilustre Presidente do TSE, que ordenou execução imediata do acórdão, determinando, ainda, o retorno do requerente ao cargo até o trânsito em julgado da decisão do STF acerca do recurso extraordinário com agravo.
+    Por fim, requer a
+    “concessão de efeito suspensivo ativo ao Agravo em Recurso Extraordinário interposto pelos requerentes, suspendendo os efeitos do acórdão proferido pelo eg. TSE nos autos do Respe 256-51 até decisão definitiva deste Supremo Tribunal Federal, eis que presentes a probabilidade do direito e o perigo da demora”.
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que o pleito não merece prosperar.
+    Isso porque, ao analisar o recurso extraordinário com agravo, em decisão proferida em 4/12/2018, observei a ausência de prequestionamento em relação a alegada afronta ao art. 16 da Constituição Federal de 1988, o que impede a análise do recurso.
+    Ademais, o pedido de tutela provisória incidental carece dos requisitos do fumus boni iuris e do periculum in mora.
+    O primeiro requisito está ausente porque, ao julgar o RE 929.670/DF, o Plenário do STF , ressalvado meu entendimento, fixou a tese de que “a condenação por abuso do poder econômico ou político em ação de investigação judicial eleitoral transitada em julgado, ex vi do art. 22, XIV, da LC nº 64/90, em sua redação primitiva, é apta a atrair a incidência da inelegibilidade do art. 1º, inciso I, alínea d, na redação dada pela LC nº 135/2010, aplicando-se a todos os processos de registro de candidatura em trâmite” (grifei).
+    Assim, não há espaço para entender que apenas os candidatos que disputavam o pleito amparados por decisões liminares seriam alcançados pela citada tese de repercussão geral, excluindo-se, de tal forma, aqueles que estavam com o registro deferido, mas com recurso de adversário ou do Parquet pendente de julgamento.
+    Destaco, ainda, que o encerramento do prazo de inelegibilidade após a data da votação não se configura como causa superveniente de retomada da capacidade eleitoral passiva, ou seja, o direito de receber votos. A incidência do art. 26-A da Lei Complementar 64/1990 ocorre apenas nas hipóteses em que a causa de inelegibilidade é afastada pelo órgão competente, de modo a anular a condenação que gerou tal consequência.
+    O segundo requisito, periculum in mora, apresenta-se, na espécie, de modo inverso, uma vez que a eleição suplementar para o cargo de Prefeito do Município de Vilhena/RO foi realizada em 3/6/2018, de modo que o retorno dos requerentes ao cargo acarretaria a descontinuidade do mandato dos eleitos no primeiro semestre do corrente ano.
+    Isso posto, indefiro o pedido de tutela provisória incidental (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 6 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
