@@ -1,0 +1,37 @@
+EMENTA
+TRIBUTÁRIO. PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA. PAGAMENTO DAS DESPESAS DE POSTAGEM DE CARTA CITATÓRIA. INEXIGÊCIA. ART. 39 DA LEI Nº 6.830/80.
+I - A Fazenda Pública é isenta do recolhimento prévio das custas judiciais, a exemplo das despesas de postagem de carta citatória, dispêndio que será recolhido, ao final, pelo vencido. Precedentes: AgRg no REsp 1483350/MG, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 26/11/2014; REsp 1332428/RS, Rel. Ministro HERMAN BENJAMIN, DJe 03/09/2012 e REsp 1107543/SP, Rel. Ministro LUIZ FUX, DJe 26/04/2010.
+II - Recurso especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE MONGAGUÁ, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO CÍVEL - Execução Fiscal - IPTU e Taxas - Determinação de emenda da inicial - Inércia da Fazenda - Extinção da ação em Primeiro Grau - Petição inicial que preenche os requisitos exigidos pela LEF - Prosseguimento da demanda - Cabimento do recolhimento antecipado, pela Municipalidade, das despesas de postagem para citação do executado - Prosseguimento da ação executiva - Recurso da Municipalidade parcialmente provido.
+Na origem trata-se de execução fiscal proposta pelo Município de Mongaguá.
+Em sede de sentença, o juízo de piso indeferiu a inicial e extinguiu o processo, após o exequente não ter atendido o despacho de emenda da exordial e de recolhimento das despesas de postagem de carta citatória.
+O tribunal a quo, por sua vez, deu parcial provimento à apelação, para reconhecer indevida a ordem de emenda da petição e determinar seu processamento, após recolhimento das despesas postais.
+No presente recurso especial, o recorrente aponta violação ao art. 39 da Lei 6.830/80 e ao art. 91 do CPC/2015.
+Sustenta, em síntese, que a Fazenda Pública é legalmente isenta do recolhimento das custas processuais, razão pela qual é indevida a exigência do pagamento das despesas com a carta de citação postal.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a Fazenda Pública é isenta do recolhimento prévio das custas judiciais, motivo pelo qual é ilegal a exigência de pagamento das custas despendidas com a carta de citação postal. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESPESAS POSTAIS DE CITAÇÃO. PRÉVIO PAGAMENTO. INEXIGIBILIDADE. ESPECIAL EFICÁCIA VINCULATIVA DOS ACÓRDÃOS PROFERIDOS NO RESP 1.107.543/SP E NO RESP 1.144.687/RS.
+1. A Primeira Seção/STJ, ao apreciar o REsp 1.107.543/SP (Rel. Min. Luiz Fux, DJe de 26.4.2010) e o REsp 1.144.687/RS (Rel. Min. Luiz Fux, DJe de 21.5.2010) ambos submetidos à sistemática prevista no art. 543-C do CPC, pacificou o entendimento no sentido de que, a Fazenda Pública, em sede de execução fiscal, está dispensada do recolhimento antecipado das custas para a realização do ato citatório, as quais serão recolhidas, ao final, pelo vencido, nos termos dos arts. 27 e 39 da Lei 6.830/80.
+2. Agravo regimental não provido.
+(AgRg no REsp 1483350/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/11/2014, DJe 26/11/2014)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA. DESPESAS PARA POSTAGEM DE CARTA CITATÓRIA. DESNECESSIDADE. ART. 39 DA LEI 6.830/80. PRECEDENTES.
+1. A jurisprudência do STJ é no sentido de que a Fazenda Pública está dispensada do pagamento da citação postal, uma vez que tal ato processual encontra-se abrangido no conceito de custas processuais (art. 39 da Lei 6.830/80).
+2. Recurso Especial provido.
+(REsp 1332428/RS, Rel. Ministro HERMAN BENJAMIN, DJe 03/09/2012)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. EXECUÇÃO FISCAL. PAGAMENTO ANTECIPADO PARA EXPEDIÇÃO DE OFÍCIO AO CARTÓRIO DE TÍTULOS E DOCUMENTOS E CIVIL DE PESSOAS JURÍDICAS PELA FAZENDA PÚBLICA. DESNECESSIDADE. ART. 39, DA LEI Nº 6.830/80. ART. 27, DO CPC. DIFERENÇA ENTRE OS CONCEITOS DE CUSTAS E DESPESAS PROCESSUAIS. PRECEDENTES.
+1. A certidão requerida pela Fazenda Pública ao cartório extrajudicial deve ser deferida de imediato, diferindo-se o pagamento para o final da lide, a cargo do vencido. (Precedentes: AgRg no REsp 1013586/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/05/2009, DJe 04/06/2009; REsp 1110529/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/05/2009, DJe 21/05/2009; AgRg no REsp 1034566/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 10/02/2009, DJe 26/03/2009; REsp 1036656/SP, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 11/03/2009, DJe 06/04/2009; REsp 1015541/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 22/04/2008, DJe 08/05/2008)
+2. O Sistema Processual exonera a Fazenda Pública de arcar com quaisquer despesas, pro domo sua, quando litiga em juízo, suportando, apenas, as verbas decorrentes da sucumbência (artigos 27 e 1.212, parágrafo único, do CPC). Tratando-se de execução fiscal, é textual a lei quanto à exoneração, consoante se colhe dos artigos 7º e 39, da Lei nº 6.830/80, por isso que, enquanto não declarada inconstitucional a lei, cumpre ao STJ velar pela sua aplicação.
+3. A isenção de que goza a Fazenda Pública, nos termos do art. 39, da Lei de Execuções Fiscais, está adstrita às custas efetivamente estatais, cuja natureza jurídica é de taxa judiciária, consoante posicionamento do Pretório Excelso (RE 108.845), sendo certo que os atos realizados fora desse âmbito, cujos titulares sejam pessoas estranhas ao corpo funcional do Poder Judiciário, como o leiloeiro e o depositário, são de responsabilidade do autor exeqüente, porquanto essas despesas não assumem a natureza de taxa, estando excluídas, portanto, da norma insculpida no art. 39, da LEF. Diferença entre os conceitos de custas e despesas processuais.
+4. Ressalte-se ainda que, de acordo com o disposto no parágrafo único art. 39 da Lei 6.830/80, a Fazenda Pública, se vencida, é obrigada a reembolsar a parte vencedora no que houver adiantado a título de custas, o que se coaduna com o art. 27, do Código de Processo Civil, não havendo, desta forma, riscos de se criarem prejuízos à parte adversa com a concessão de tal benefício isencional.
+5. Mutatis mutandis, a exoneração participa da mesma ratio essendi da jurisprudência da Corte Especial que imputa a despesa extrajudicial da elaboração de planilha do cálculo àquele que pretende executar a Fazenda Pública.
+6. Recurso especial provido, para determinar a expedição da certidão requerida pela Fazenda Pública, cabendo-lhe, se vencida, efetuar o pagamento das custas ao final. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1107543/SP, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 24/03/2010, DJe 26/04/2010)
+Ante o exposto, dou provimento ao recurso especial para determinar o prosseguimento da execução sem a exigência do recolhimento pela Fazenda Pública das despesas de postagem de carta citatória.
+É o voto.
