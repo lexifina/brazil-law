@@ -1,0 +1,34 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo manejado por [NOME], em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 33, caput c/c § 4º, da Lei nº 11.343/2006, à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime aberto, além de 166 (cento e sessenta e seis) dias-multa, substituída por duas restritivas de direitos, consistente na prestação de serviços à comunidade e prestação pecuniária (fls. 204-211).
+O eg. Tribunal a quo deu provimento ao apelo ministerial, para decotar a minorante reconhecida na sentença, redimensionando a pena para 5 (cinco) anos de reclusão, em regime semiaberto, além de 500 (quinhentos) dias-multa, cassada a substituição da pena corporal por restritiva de direitos.
+ O v. acórdão foi ementado nos seguintes termos (fl. 288):
+"APELAÇÃO CRIMINAL - RECURSO DO MINISTÉRIO PÚBLICO DOIS RÉUS TRÁFICO DE ENTORPECENTE - ARTIGO 33, CAPUT, DA LEI 11.343/06 - PLEITO ABSOLUTÓRIO AFASTADO - AUTORIA E MATERIALIDADE COMPROVADAS - CONJUNTO PROBATÓRIO ROBUSTO E SUFICIENTE À CONDENAÇÃO - QUE DEMONSTRA A TRAFICÂNCIA - RÉU REINCIDENTE - REGIME FECHADO - TRÁFICO PRIVILEGIADO QUANTO AO SEGUNDO RÉU - IMPOSSIBILIDADE - REGIME SEMIABERTO - PREQUESTIONAMENTO - RECURSO CONHECIDO E PROVIDO, COM O PARECER
+- Despontando dos autos conjunto probatório robusto e consistente, em harmonia aos depoimentos das testemunhas, submetidos ao crivo do contraditório, indene a materialidade e autoria imputadas ao acusado, concernentes ao tráfico de drogas, revelando-se de rigor o decreto condenatório pelo cometimento do crime tipificado no art. 33, caput, da Lei Antitóxicos.
+- O réu reincidente deve iniciar o cumprimento de pena em regime fechado, muito embora não tenha sido a pena privativa de liberdade fixada acima do patamar de 08 anos.
+- Para a aplicação da causa de diminuição de pena, necessário que o agente seja primário, de bons antecedentes e não se dedique às atividades criminosas, e nem integre organização criminosa, nos termos do 33, § 4o, da Lei 11.434/2006, sendo que, na ausência de um destes, inviável a aplicação da benesse legal.
+- Tendo em vista a inexistência de circunstâncias judiciais desfavoráveis ao segundo apelado, e, em atenção às diretrizes do art. 33, § 2o, "b", do Código Penal, fixo o regime semiaberto para o início de cumprimento da pena de 05 anos de reclusão.
+- É assente na jurisprudência que, se o julgador aprecia integralmente as matérias que lhe são submetidas, se torna despicienda a manifestação expressa acerca de dispositivos legais utilizados pelas partes como sustentáculo às suas pretensões"
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a defesa alegou ofensa ao art. 33, § 4º, da Lei de Drogas, ao argumento de que o agravante faz jus ao reconhecimento da benesse legal, uma vez que é primário, com bons antecedentes, não se dedicando a atividades criminosas ou integrando organização criminosa, tanto que foi reconhecido pelo édito condenatório, que merece ser restabelecido no presente caso.
+Alega, ainda, ofensa aos arts. 33, § 2º, c e 44, ambos do Código Penal, uma vez deve ser restabelecido o regime aberto e substituída a pena corporal por restritiva de direitos, em caso de acolhimento do pedido principal ou, em caso contrário, ao menos fixado o regime aberto.
+Apresentadas as contrarrazões (fls. 330-333), sobreveio juízo negativo de admissibilidade fundado: i) na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria revolvimento de matéria fático-probatória; ii) na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 346-358).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do agravo para desprover o recurso especial (fls. 380-382).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 7/STJ.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios." (AgRg no AREsp 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/6/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
