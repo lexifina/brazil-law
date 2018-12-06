@@ -1,0 +1,14 @@
+DECISÃO
+ Trata-se de embargos de declaração opostos pelo ESTADO DO RIO GRANDE DO SUL contra a decisão de fls. 230/234, que negou provimento ao agravo.
+Em suas razões, sustenta a parte embargante, em síntese, que:
+Diante do hialino teor do enunciado, os efeitos modulatórios a contar de 30/06/2017 incidem apenas nos casos de decisões transitadas em julgado até 17/03/2016 e que estejam na pendência de fornecimento de fichas financeiras pelo executado para o ingresso de cumprimento de sentença, situação inocorrente in casu, eis que, tanto o trânsito em julgado, bem como o ajuizamento do pedido executivo, ocorreram na égide do Código de Processo Civil de 1973.
+A exegese integrativa entre o julgamento que firmou a tese no recurso representativo de controvérsia e o que modulou os efeitos da decisão no primeiro não indica a restrição de aplicação da tese para o interregno temporal posterior a março de 2016, tal como se entendeu na decisão agravada, pois, caso contrário, estar-se-á invalidando o reconhecimento do instituto da prescrição a todos feitos passíveis de extinção pelo decurso do lapso prescricional transitados em julgado a contar de março de 2002 até março de 2016, criando-se verdadeira marco suspensivo, algo que nem a lei fez (fls. 240/241).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+No julgamento dos Embargos de Declaração no Recurso Especial Repetitivo n. 1.336.026/RS a Primeira Seção modulou os efeitos do julgado a fim de fixar como marco temporal para sua aplicação a data de 30/6/2017, que correspondia à publicação do acórdão embargado.
+Especificamente para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras, foi fixado o termo inicial do prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença, que seria contado a partir de 30/6/2017.
+Mas esse regramento especial, aplicável aos casos em que o pedido de cumprimento de sentença não haja sido apresentado, de modo algum reduziu a abrangência da modulação de efeitos do repetitivo, que se estende, também, às decisões transitadas em julgado na vigência do Código de Processo Civil de 1973 cujas execuções já tenham sido propostas ou cujos pedidos de cumprimento de sentença já tenha sido apresentados.
+Nesse sentido, vale citar os seguintes julgados, que adotaram a mesma solução jurídica em casos idênticos ao dos presentes autos: EAREsp n. 668.582/RS, EAREsp n. 657.520, EAREsp n. 692.181/RS e EAREsp n. 549.713/RS, todos da relatoria do Ministro Og Fernandes, publicados no DJe de 15/8/2018.
+Ante o exposto, acolho os embargos de declaração, mas sem efeitos infringentes.
+Publique-se. Intimem-se.
