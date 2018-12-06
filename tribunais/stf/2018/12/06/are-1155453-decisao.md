@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região reformou parcialmente o entendimento do Juízo. Assentou a procedência do pedido de devolução de valores pagos em decorrência de fraude processual, consignando-a desnecessária no tocante à remuneração recebida pela prestação de serviços de docência. No extraordinário cujo trânsito busca alcançar, a Universidade Federal de Santa Catarina - UFSC alega a violação dos artigos 5°, incisos XXXV e LV, 37, cabeça e inciso IX, e 133 da Constituição Federal. Aponta a ausência de relação jurídica válida dado o caráter ilícito dos atos praticados pelo réu. Argui a nulidade do acórdão por negativa de prestação jurisdicional. Diz não terem sido definidos os parâmetros de remuneração do professor.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. PROCESSO INEXISTENTE. INTERESSE PROCESSUAL. LITISCONSÓRCIO NECESSÁRIO. IMPOSSIBILIDADE. NÃO PRODUÇÃO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA. PRECLUSÃO. AUSÊNCIA DE CAPACIDADE POSTULATÓRIA. LEGITIMIDADE AD CAUSAM. ATO JURÍDICO. INEXISTENTE.
+    1. A parte condenada em processo anterior (98-0001008-4) a pagamento de título judicial que se busca ora reconhecer como inexistente possui interesse processual.
+    2. Ausentes as hipóteses do artigo 47 do CPC, inviável o reconhecimento de litisconsórcio necessário.
+    3. Não se insurgindo no tempo hábil a respeito da negativa de produção de prova testemunhal, ocorre a preclusão, não sendo mais possível reclamar pela realização do ato.
+    4. Negócio jurídico traduz uma declaração de vontade, emitida segundo a regra fundamental da autonomia privada, pela qual a parte pretende atingir determinados efeitos jurídicos escolhidos, respeitados os parâmetros limitativos da função social e da boa-fé objetiva, persegue determinados efeitos jurídicos escolhidos e possíveis.
+    5. Ato jurídico em sentido estrito, também chamado de ato não negocial, regulado apenas no artigo 185 do CC, é aquele comportamento humano, voluntário e consciente que determina a produção de efeitos jurídicos legalmente previstos, ou seja, no ato em sentido estrito não há liberdade ou autonomia alguma na escolha dos efeitos jurídicos produzidos.
+    6. Reconhecida que a sentença é um ato jurídico, resta configurada a legitimidade da parte condenada em ação anterior, considerada inexistente por ausência de capacidade postulatória, a figurar no polo ativo da presente ação.
+    7. 'O ato jurídico nulo não é inexistente, porque satisfaz mínimo suporto fático, que basta para se falar em ato jurídico, embora nulo, e não basta para ser válido, nem, sequer, somente anulável.
+    (...) A ação declaratória é sobre existência ou inexistência - ou do fato jurídico, ou do efeito, ou da relação jurídica. O ato jurídico nulo é tratado como se não tivesse existido nunca; mas existiu e existe até que transite em julgado a decisão que o desconstitua.
+    (...) O nulo é negação da validade; não é negação da existência.
+    (...) O ato tido por nulo, é; o não-escrito não é, não existe.
+    (...) Existir, valer e ser eficaz são conceitos tão inconfundíveis que o fato jurídico pode ser, valer e não ser eficaz, ou ser, não valer e ser eficaz. As próprias normas jurídicas podem ser, valer e não ter eficácia. O que se não pode dar é valer e ser eficaz, ou valer, ou ser eficaz, sem ser; porque não há validade, ou eficácia do que não é' (Tratado de direito privado. Borsoi, Rio, 1954, t. 4, p. 9/15).
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo interposto pela Universidade de Santa Catarina e o desprovejo. Ficam prejudicados os embargos de declaração da recorrente.
+    4. Publiquem.
+Brasília, 6 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
