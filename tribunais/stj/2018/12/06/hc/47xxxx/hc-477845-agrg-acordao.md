@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. SENTENÇA. DOSIMETRIA DA PENA. PERCENTUAL DE AUMENTO DAS MAJORANTES E REGIME INICIAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA EM QUE SE INDEFERIU LIMINARMENTE A INICIAL.
+1. Deve ser mantida a decisão monocrática em que se indefere liminarmente o writ, substitutivo de recurso especial, quando não evidenciada coação ilegal à liberdade de locomoção.
+2. Inexiste constrangimento ilegal quando evidenciado que, para a aplicação do percentual superior a 1/3, em razão das majorantes do crime de roubo, o Magistrado singular se referiu ao modus operandi do crime, vale dizer, praticado em concurso de quatro pessoas, todas portando arma de fogo, circunstância que desborda do tipo penal majorado. Idêntico raciocínio foi aplicado na ocasião da fixação do regime inicial fechado de cumprimento da pena.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] e [NOME] contra decisão, de minha lavra, em que indeferi liminarmente a inicial do writ impetrado em seu favor, por entender ausente constrangimento ilegal manifesto à liberdade de locomoção. Eis a ementa (fl. 97):
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. SENTENÇA. DOSIMETRIA DA PENA. PERCENTUAL DE AUMENTO DAS MAJORANTES E REGIME INICIAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Os agravantes reiteram os argumentos da impetração e alegam, em síntese, que o constrangimento ilegal perpetrado pelas instâncias ordinárias exsurge com clareza solar, urgindo a cessação desse estado de coisas de forma rápida e eficaz, fim somente alcançável mediante a impetração do remédio heróico (fl. 107).
+Postulam, ao final, a reconsideração da decisão hostilizada ou a submissão do julgamento do recurso à Sexta Turma deste Superior Tribunal.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Apesar das alegações dos agravantes, a decisão monocrática deve ser mantida.
+Primeiramente, porque o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+Depois, porque não se verifica coação ilegal manifesta quando evidenciado que, para a aplicação do percentual superior a 1/3, em razão das majorantes do crime de roubo, o Magistrado singular se referiu ao modus operandi do crime, vale dizer, praticado em concurso de quatro pessoas, todas portando arma de fogo, circunstância que desborda do tipo penal majorado.
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO CIRCUNSTANCIADO (EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES). ASSOCIAÇÃO CRIMINOSA. DOSIMETRIA DA PENA. (I) REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. AFIRMAÇÕES CONCRETAS RELATIVAS ÀS CIRCUNSTÂNCIAS DO CRIME. (II) TERCEIRA ETAPA DO CÁLCULO. AUMENTO SUPERIOR AO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. (III) CONTINUIDADE DELITIVA. ACRÉSCIMO COM BASE NO NÚMERO DE INFRAÇÕES.
+ ..
+4. Na espécie, o magistrado sentenciante considerou desfavoráveis as circunstâncias dos delitos. Relativamente aos crimes de roubo, deslocou a causa de aumento referente ao concurso de agentes para a primeira etapa do cálculo e esclareceu que os delitos foram praticados por várias pessoas (seis), em unidade de desígnios, situação que facilitou demasiadamente a execução das infrações. No tocante ao delito de associação criminosa, destacou o número de armas empregadas (três), sendo uma delas, inclusive, um fuzil. Descreveu, portanto, as particularidades dos delitos, as atitudes assumidas pelo condenado no decorrer do fato criminoso, bem como os instrumentos utilizados na prática delituosa e a maior gravidade da conduta espelhada pela mecânica delitiva empregada pelo agente. Precedentes.
+5. O Superior Tribunal de Justiça consagrou o entendimento de que "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula 443/STJ).
+6. No caso, as instâncias de origem, ao reconhecerem a causa de aumento relativa ao emprego de arma de fogo na terceira etapa do cálculo da reprimenda, justificaram o acréscimo acima do mínimo legal no número de armas empregadas em cada delito patrimonial (três), destacando que uma delas, inclusive, tratava-se de fuzil. Precedentes.
+7. É firme a jurisprudência desta Corte no sentido de que, "em se tratando de aumento de pena referente à continuidade delitiva, aplicando-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4, para 4 infrações; 1/3, para 5 infrações; 1/2, para 6 infrações; e 2/3, para 7 ou mais infrações" (HC n. 283.720/RN, Ministra Maria Thereza de Assis Moura, DJe 26/8/2014).
+8. Nesse contexto, a existência de quatro crimes de roubo circunstanciado, como no caso em exame, legitima o aumento de 1/4 (um quarto), nos termos do art. 71 do Código Penal. 9. Habeas corpus não conhecido.
+(HC n. 208.629/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2017 - grifo nosso)
+O mesmo se pode afirmar em relação à fixação do regime inicial fechado de expiação (fl. 44).
+Em face do exposto, nego provimento ao agravo regimental.
