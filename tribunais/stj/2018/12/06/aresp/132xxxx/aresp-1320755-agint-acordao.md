@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO DE EMPREGADORES RURAIS. PESSOAS FÍSICAS. INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. FUNRURAL. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+I - Na origem, trata-se de ação que objetiva, em síntese, a declaração de inexistência de relação jurídica tributária da contribuição prevista no art. 25, I e II, da Lei n. 8.212/91, com a alteração legislativa da Lei n. 8.540/92 e demais alterações, denominada "Funrural". Na sentença, julgou-se procedente o pedido. No Tribunal Regional Federal da 3ª Região, a sentença foi mantida.
+II - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, os enunciado n. 211 da Súmula do STJ e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se ainda que a incidência do Enunciado n. 7 quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+V - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de ação ajuizada por [NOME] em desfavor da União que objetiva, em síntese, a declaração de inexistência de relação jurídica tributária da contribuição prevista no art. 25, I e II, da Lei n. 8.212/91, com a alteração legislativa da Lei n. 8.540/92 e demais alterações, denominada "Funrural", com valor da causa fixado em R$5.000,00 (cinco mil reais). Na sentença, julgou-se procedente o pedido. No Tribunal Regional Federal da 3ª Região, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+AGRAVO LEGAL. SUBMISSÃO DA MATÉRIA AO ÓRGÃO COLEGIADO. ARGUMENTOS INSUFICIENTES PARA MODIFICAR A DECISÃO.
+1. O denominado agravo legal (art. 557, § 1º, do CPC) possui como finalidade primordial submeter ao órgão colegiado a legalidade da decisão monocrática proferida pelo Relator, não constituindo recurso para a rediscussão da matéria já decidida.
+2. Os argumentos trazidos pela recorrente não são suficientes para modificar a decisão agravada.
+3. Agravo desprovido.
+Sem embargos declaratórios.
+Interposto recurso especial por [NOME], com fulcro no art. 105, III, a e c, da CF. Apresentadas contrarrazões.
+Negou-se seguimento ao recurso especial na origem. Sobreveio agravo.
+Recebidos os autos no STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço parcialmente do agravo em recurso especial, para não conhecer do recurso especial".
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ : "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Relativamente às alegações de violação de dispositivos infraconstitucionais, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO DE AUDITORIA FINANCEIRA. AÇÃO MONITÓRIA. HONORÁRIOS AD EXITUM. PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Segundo jurisprudência do STJ, ao juiz, como distinatário da prova, cabe indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Incidência da Súmula 7 do STJ.
+2. A incidência da Súmula 7 do STJ impede o exame da divergência, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.044.194/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.)
+Ainda que assim não fosse, o dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp n. 1.235.867/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp n. 1.109.608/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp n. 1.717.512/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
