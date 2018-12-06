@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que a paciente é mãe de filhos menores de doze anos fazendo jus à prisão domiciliar.
+Aduz, para tanto, que "Como se infere, não houve fundamentação para o indeferimento da liminar postulada, de sorte que a simples afirmação de que "E, neste caso, não constatei a comprovação, de plano, o direito requerido pelos impetrantes em ter seu pleito atendido, uma vez que, no meu sentir, em juízo de cognição sumária, a imprescindibilidade da segregação cautelar da paciente preenche os requisitos legais, fazendo-se necessária a sua manutenção pelos motivos alinhavados pela autoridade apontada coatora, às pp. 61/66. Desse modo, não verificando os elementos autorizadores da pretendida medida (fumaça do bom direito e o perigo da demora) é insuficiente para o indeferimento do pleito* Não foi apontada, ainda que de forma sucinta, por qual motivo o panorama apresentado pela impetrante não possui a excepcionalidade exigida para concessão da medida liminar" (fl. 20).
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja substituída a prisão decretada em desfavor da paciente por prisão domiciliar.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, o writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+Convém destacar que em sede de habeas corpus, para que haja concessão da medida liminar, as alegações devem encontrar respaldo factual e legal, em outras palavras, as provas devem ser incontestáveis e oferecidas de forma pré-constituídas.
+E, neste caso, não constatei a comprovação, de plano, o direito requerido pelos impetrantes em ter seu pleito atendido, uma vez que, no meu sentir, em juízo de cognição sumária, a imprescindibilidade da segregação cautelar da paciente preenche os requisitos legais, fazendo-se necessária a sua manutenção pelos motivos alinhavados pela autoridade apontada coatora, às pp. 61/66.
+Desse modo, não verificando os elementos autorizadores da pretendida medida (fumaça do bom direito e o perigo da demora), indefiro a medida liminar" (fl. 146).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
