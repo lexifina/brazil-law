@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TAPECARIA BREJAO LTDA à decisão de fls. 424/425, que não conheceu do recurso.
+Quanto à tempestividade do recurso especial, sustenta a parte embargante que:
+Dois feriados acometeram a contagem de prazo do recurso de especial:
+a. 15/11/2017 - quarta-feira - Proclamação da República - feriado nacional;
+e,
+b. 20/11/2017 - segunda-feira - Consciência Negra - feriado municipal de São Paulo - Comarca do Tribunal de Justiça de São Paulo. Feriado no Distrito Federal também.
+Portanto, o recurso especial protocolado dia 04/12/2018 é tempestivo. O referido prazo foi analisado pelo Presidente Desembargador do Tribunal de Justiça do Estado de São Paulo (fl. 430).
+Quanto à tempestivade do agravo em recurso especial, alega que:
+Um feriado e uma emenda de feriado acometeram a contagem de prazo do recurso de especial:
+a. 30/04/2018 - segunda-feira - emenda de feriado nacional; e,
+b. 01/05/2018 - terça-feira - Dia do Trabalho - feriado nacional.
+Portanto, o agravo protocolado dia 22/05/2018 é tempestivo. O referido prazo foi analisado pelo Presidente Desembargador do Tribunal de Justiça do Estado de São Paulo, desempenhando seu juízo de admissibilidade (fl. 432)
+Assevera, ainda, que, "no presente caso, não se aplica a exigência do parágrafo 6º do artigo 1.003 do CPC/2015, até mesmo porque, desempenhando a sua incumbência ("o juízo de admissibilidade"), coube ao Presidente do E. Tribunal de Justiça do Estado de São Paulo analisar a tempestividade de ambos recursos" (fl. 434).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade dos recursos, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 (quinze) dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade (AgInt no AREsp n. 829.932/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/10/2016; e AgInt no AREsp n. 886.498/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/9/2016).
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que os feriados nacionais de 15/11/2017 e 1º/5/2018 não precisam ser comprovados. Porém, os dias 20/11/2017 e 30/4/2018 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp n. 1.686.469/AM, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/3/2018).
+Ademais, de acordo com a jurisprudência do STJ, "o juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no REsp n. 1.684.240/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/2/2018).
+Nesse mesmo sentido, veja-se que, nos termos do art. 1.042, § 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação. Os pressupostos de admissibilidade do recurso serão verificados nesta Corte.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
