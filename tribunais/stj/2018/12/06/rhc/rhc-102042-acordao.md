@@ -1,0 +1,68 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar "a expressiva quantidade e a natureza da droga apreendida (47 kg de maconha), bem como a elevada quantidade de dinheiro (R$ 16.610,00)".
+3. Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+4. Recurso não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] [NOME] alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que manteve a sua prisão preventiva nos autos do HC n. 1.0000.18.082522-6.
+Consta dos autos que o paciente - preso em flagrante como incurso no art. 33 da Lei n. 11.343/2006 - teve a prisão convertida em preventiva em 21/7/2018.
+Neste recurso, sustenta a defesa a inexistência das hipóteses previstas do art. 312 do CPP.
+Requer a expedição de alvará de soltura, com aplicação de medidas cautelares diversas previstas no artigo 319 do CPP.
+Indeferida a liminar e prestadas as informações de fls. 123-140, foram os autos enviados ao Ministério Público Federal, que oficiou pelo não provimento do recurso (fls. 142-143).
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar "a expressiva quantidade e a natureza da droga apreendida (47 kg de maconha), bem como a elevada quantidade de dinheiro (R$ 16.610,00)".
+3. Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+4. Recurso não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O Juiz de Direito fundamentou a constrição cautelar nos seguintes termos:
+ ..
+Dos elementos de convicção coligidos é possível comprovar a materialidade do crime de tráfico de drogas, bem extrair indícios suficientes de que [NOME], [NOME], [NOME], [NOME] e [NOME] estão à serviço do tráfico.
+Em verdade, infere-se que a ação policial foi deflagrada em razão de denúncia anônima e que esta foi confirmada, prima facie, pelos Policiais Militares que, ao abordarem os veículos GOL e PLTNTO, ocupados por [NOME], [NOME] e [NOME], encontraram em seu interior 20 barras de substância semelhante à maconha.
+Depreende-se, ainda, que após nova informação anônima, compareceram à residência de [NOME] e [NOME], local de onde havia partido as drogas, e, depois de procedidas novas buscas, localizaram 36 barras de substância semelhante à maconha, com aparência semelhante à droga localizada no veículo.
+Tais elementos, que se encontram perfeitamente descrito na fala dos policiais militares, constituem, nesse momento sumário, em indício de que os mencionados autuados estão envolvidos com o tráfico de drogas. Nesse ponto, vale lembrar que para a decretação da prisão preventiva não demanda o mesmo grau de certeza exigível nas decisões condenatórias, baseando-se, quase sempre, em sérios indícios justificadores da medida extrema, os quais, In casu, são facilmente extraídos.
+Desta forma, havendo prova da materialidade e indícios suficientes de autoria, a prisão se faz necessária para garantia da ordem pública, haja vista que o crime de tráfico possui extrema gravidade. Embora não tenha vítima determinada, seu poder de disseminação facilita o uso de substâncias geradoras de dependência ou entorpecentes e acaba favorecendo a prática de outros crimes.
+Em síntese, o tráfico de drogas é atividade que em si mesma representa risco à ordem pública, gerando insegurança coletiva a justificar sua equiparação a delito hediondo, bem como a restringir a liberdade provisória daqueles que tenham sido flagrados em tal prática. Noutros termos, tratando-se a garantia da ordem pública de um dos motivos legitimadores da prisão preventiva (art. 312 do CPP), o grave risco que inerentemente traz, que se representa pela constante ameaça à conformidade dos fatos em relação ao determinado pelo ordenamento jurídico, justifica maior cautela em relação a este delito.
+Ademais, a expressiva quantidade e a natureza da droga apreendida (47kg de maconha), bem como a elevada quantidade de dinheiro (R$ 16.610,00). constituem indícios veementes da periculosidade da ação dos atuados no meio social, exigindo uma postura mais rígida do Poder Judiciário no que diz respeito à sua liberdade de locomoção, a bem do resguardo da ordem pública.
+Ora, a apreensão de expressiva quantidade de droga demonstra, em um juízo valorativo baseado em elementos concretos e não puramente abstrato, que há dados objetivos para se concluir que os autuados, soltos, simbolizam um risco à ordem pública, pela propensão para a repetição de novas infrações deste jaez.
+Verifico, de igual modo, que é incabível, no caso em tela, a substituição da prisão por alguma outra medida cautelar, conforme disposto no artigo 282, § 6.º, do Código de Processo Penal, pois, além de estarem presentes os requisitos do artigo 312 do CPP, a gravidade do crime e as circunstâncias em que foi praticado demonstram a inadequação de tais medidas ao caso concreto.  ..  (fl. 83-88)
+À título de contextualização, visto que a digitalização dos autos aparentemente carece de completude, transcrevo o acórdão ora impugnado:
+ ..
+É o relatório. Decido.
+Inicialmente, cumpre registrar que o exame de teses relativas ao mérito da ação penal, tal como a discussão acerca da autoria e tipicidade delitivas, não é permitido pela via estreita do Habeas Corpus, pois depende de dilação probatória, incompatível com o rito célere do Writ.
+A jurisprudência é tranquila no sentido de que "não é cabível em sede de Habeas Corpus a valoração do quadro probatório existente nos autos para aferição da responsabilidade criminal do paciente. Na via estreita do writ não se admite exame aprofundado das provas até então produzidas, o que se reserva para o julgamento do mérito da ação penal, na fase adequada do processo" (RT 699/231).
+Prosseguindo, aduz o impetrante que a decisão que converteu a prisão em flagrante do paciente em prisão preventiva carece de fundamentação idônea. E mais, afirma que não estão presentes os motivos da segregação cautelar, previstos no artigo 312 do CPP.
+Razão, contudo, não lhe assiste.
+O MM. Juiz de Direito Dr. [NOME], ao converter a prisão em flagrante dos pacientes [NOME], [NOME] e [NOME] em prisão preventiva, fundamentou sua decisão no preenchimento dos pressupostos e motivos previstos no artigo 312 do CPP, nos seguintes termos:  ..
+De igual forma, o MM. Juiz Dr. [NOME] fundamentou a decisão que converteu a prisão em flagrante em prisão preventiva dos pacientes Lucas [NOME] e [NOME], na garantia da ordem pública, nos termos da decisão supracitada, uma vez que eles foram presos no mesmo contexto fático dos demais pacientes (fl. 73).
+Assim, as duas decisões acima referidas encontram-se devidamente fundamentadas, uma vez que têm como motivada a prisão dos pacientes para fins de garantia da ordem pública, mormente levando-se em consideração a gravidade concreta do fato noticiado, em razão da quantidade de droga apreendida, o que, a meu ver, justifica a custódia provisória.
+Sobre o conceito de ordem pública, ensina o brilhante [NOME]:  ..
+No presente caso, verifica-se a presença dos pressupostos da prisão preventiva, ou seja, há prova da materialidade e indícios de autoria delitiva.
+Extrai-se do APFD que os pacientes foram presos em flagrante delito em razão de denúncia anônima dando conta de que um veículo Fiat Punto e outro VW Gol estariam carregando grande quantidade de droga, sendo que um deles seria responsável pela escolta do outro, e, realizada a operação policial, logrou-se êxito em apreender um total de 47kg de maconha e R$16.610,00 (dezesseis mil e seiscentos e dez reais) em dinheiro.
+Ademais, o delito pelo qual os pacientes estão sendo processado (tráfico de drogas), possui pena máxima superior a 4 anos, encontrando-se preenchido o requisito do art. 313, I, do CPP.
+Desta forma, verifica-se que necessária se faz a manutenção dos pacientes no cárcere para fins de resguardo da ordem pública, diante das circunstâncias graves do caso concreto, com apreensão de considerável quantidade de droga e dinheiro.
+O colendo Supremo Tribunal Federal já se manifestou que é legal a prisão decretada com base na periculosidade do agente, diante das circunstâncias do caso concreto:  ..
+Ora, o crime de tráfico de drogas é a mola propulsora dos demais delitos, e vem crescendo assustadoramente nos últimos tempos, exigindo do Poder Judiciário uma posição mais enérgica em relação ao impedimento da perpetuidade deste delito, que desgraça milhares de famílias, pois estimula o vício e degrada os usuários de forma cada vez mais brutal.
+Com efeito, resta ao Poder Judiciário responder satisfatoriamente à sociedade, sendo imprescindível, por vezes, a constrição da liberdade do indivíduo em prol da garantia da ordem pública. Entre o interesse individual e o público deve prevalecer o interesse público.
+Registre-se que vigora no processo penal o princípio da inocência e, a regra, é a liberdade, no entanto, em certos casos, deve se prestigiar a paz e a segurança da sociedade, o que se verifica no presente caso e nesta fase processual.
+Relativamente às condições de natureza pessoal dos pacientes, cumpre registrar que não são suficientes para autorizar a concessão da liberdade provisória, quando presentes outros elementos que recomendam a manutenção da custódia.
+A propósito:  ..
+Quanto à possibilidade de aplicação das medidas cautelares previstas no artigo 319 do CPP à hipótese dos autos, entendo que tal questão restou prejudicada, uma vez que presentes os motivos da preventiva.
+Desta feita, diante da prova da materialidade do delito, da existência de indícios suficientes de autoria, bem como da presença dos motivos da segregação cautelar, não merece acolhida o pedido contido na inicial.
+Em face do exposto, CONHEÇO EM PARTE DA IMPETRAÇÃO E, NA PARTE CONHECIDA, DENEGO A ORDEM impetrada.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar "a expressiva quantidade e a natureza da droga apreendida (47kg de maconha), bem como a elevada quantidade de dinheiro (R$ 16.610,00)" (fl. 86).
+O STJ, em casos similares, entende que a quantidade e a natureza da droga apreendida - a revelar a habitualidade da traficância - pode justificar idoneamente a prisão preventiva. Confira-se:
+ ..
+2. O Juiz de primeira instância apontou concretamente a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de colocar o recorrente cautelarmente privado de sua liberdade, visto que ressaltou a apreensão de expressiva quantidade de droga, que denota a habitualidade da traficância.
+3. Recurso não provido.
+(RHC n. 92.229/MS, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 19/2/2018)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso.
