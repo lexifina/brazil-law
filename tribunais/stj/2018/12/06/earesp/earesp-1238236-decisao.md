@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por ITACIR FIORIO contra acórdão de relatoria do Ministro Luis Felipe Salomão, proferido pela Quarta Turma, em agravo interno no agravo em recurso especial assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. AGRAVO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+4. Agravo interno não provido" (fl. 610).
+O embargante alega a existência de dissídio jurisprudencial com julgados da Terceira Turma deste Tribunal Superior (AgRg no AREsp nº 834.749/SP e AgRg no AREsp nº 370.646/SP).
+Sustenta, em síntese, que deve prevalecer "(..) a tese dos acórdãos paradigmas, com a aplicação imediata do Estatuto do Idoso bem como o principio da boa-fé contratual, vedando a majoração da mensalidade do plano de saúde em razão da alteração da faixa etária" (fl. 656).
+É o breve relatório.
+DECIDO.
+O recurso não merece ser processado.
+Com efeito, os embargos de divergência não comportam seguimento na hipótese em que o aresto paradigma adentra o mérito do recurso e o acórdão embargado restringe-se a não conhecê-lo em razão da incidência de algum óbice recursal.
+De fato, extrai-se do art. 1.043, III, do Código de Processo Civil de 2015 (CPC/2015) que existe a necessidade de que tanto o acórdão embargado quanto o aresto paradigma tenham apreciado a tese jurídica trazida no recurso especial, embora a pretensão de um deles, ao final, não tenha sido conhecida.
+Efetivamente,
+"(..) a previsão do art. 1.043, III, do novo CPC, na esteira dos princípios da instrumentalidade das formas e da primazia da resolução de mérito (art. 4º, CPC), vem afirmar o cabimento de embargos de divergência contra julgados que, por um equívoco de técnica de julgamento, a despeito de terem examinado o mérito da controvérsia, não conhecem de recurso ou pedido, quando o resultado de julgamento mais adequado seria o da improcedência" (AgRg nos EREsp nº 1.393.786/RS, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 2/12/2016).
+Nesse sentido, o seguinte julgado da Corte Especial:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA REJEITADOS LIMINARMENTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado com base na Súmula 07/STJ, com a ressalva de não restar caracterizado o dissídio jurisprudencial.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo interno não provido." (AgInt nos EAREsp nº 823.290/MG, Rel. Ministro FELIX FISCHER, Corte Especial, DJe 27/9/2017 - grifou-se)
+Referido entendimento deve-se ao fato de ser inviável a verificação de similitude fática entre os arestos confrontados caso ao menos um deles verse acerca da aplicação de regra técnica concernente ao conhecimento de recurso especial.
+É certo que o inciso II do art. 1.043 do CPC/2015 previa a possibilidade de interposição de embargos de divergência em se tratando de acórdãos relativos a juízo de admissibilidade, mas tal hipótese de cabimento foi revogada pela Lei nº 13.256/2016.
+Assim, é de ser mantido o entendimento pacífico desta Corte Superior de que os embargos de divergência não se prestam a discutir o erro ou acerto na aplicação de regra técnica de conhecimento de recurso especial, visto que tal análise se esgota nas particularidades de cada caso concreto, não havendo dissonância interpretativa quanto à mesma questão de direito (vide AgInt nos EREsp nº 1.377.677/RS, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe 20/6/2017, e AgRg nos EREsp nº 1.459.396/MG, Rel. Ministro Humberto Martins, Corte Especial, DJe 14/6/2017).
+No caso dos autos, enquanto os acórdãos paradigmas decidiram o mérito da demanda, o aresto embargado não conheceu da irresignação especial em virtude da incidência da Súmula nº 182/STJ (dos arts. 932, III, do CPC/2015 e 253, I, do RISTJ), o que acarreta a inadmissão dos embargos de divergência.
+Não existem, portanto, interpretações conflitantes por órgãos fracionários do Superior Tribunal de Justiça a respeito dos mesmos temas de direito e substratos fáticos, a exigir a devida uniformização.
+O embargante busca, na realidade, o reexame dos pressupostos de admissibilidade do recurso especial e do respectivo agravo para extrair conclusão diversa acerca da incidência da Súmula nº182/STJ.
+Logo, incide, na espécie, a Súmula nº 315/STJ, de seguinte teor:
+"Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." (grifou-se)
+Por fim, cumpre assinalar que, consoante entendimento deste Tribunal Superior,
+"(..) não é certo entender pelo cancelamento tácito das Súmulas 315 e 316 desta Colenda Corte, em razão da previsão do art. 1.043, III, do novo CPC",  pois  "(..) não há incompatibilidade entre a prescrição legal e o entendimento sumular. Isso porque somente se deve conhecer da divergência entre acórdão que apreciou o mérito e outro que não conheceu do recurso, quando ambos, ao menos, tenham apreciado a questão objeto da divergência" (AgInt nos EAREsp nº 641.762/RS, Rel. Ministro Og Fernandes, Corte Especial, DJe 21/10/2016).
+Ante o exposto, indefiro liminarmente os presentes embargos de divergência, com fulcro nos arts. 34, XVIII, e 266-C do RISTJ.
+Publique-se.
+Intimem-se.
