@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BALASSIANO ENGENHARIA LTDA. à decisão de fls. 369/370, que não conheceu do recurso.
+Sustenta a parte embargante que:
+5. Com o devido respeito, a v. decisão embargada, ao não conhecer do recurso por uma questão meramente formal (ter a BALASSIANO apenas indicado as leis que suspenderam os prazos processuais, e não anexado tais leis no recurso), vai de encontro a toda a sistemática do novo Código de Processo Civil.
+ ..
+8. Aliás, como não poderia deixar de ser, a Divisão de Autuação da Terceira Vice-Presidência do e. Tribunal de Justiça do Rio de Janeiro certificou a tempestividade do recurso especial interposto pela embargante (cf. fls. 295) (fl. 375).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp 1686469/AM, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2018, DJe de 27/3/2018).
+De acordo com a jurisprudência do STJ, "o juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no REsp n. 1.684.240/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/2/2018).
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema nos autos do processo que atesta a tempestividade do recurso não impede o reexame desse requisito pelo STJ. Nesse sentido: AgRg no REsp n. 770.786/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 8/3/2010; e AgRg no AREsp n. 703.592/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2015.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
