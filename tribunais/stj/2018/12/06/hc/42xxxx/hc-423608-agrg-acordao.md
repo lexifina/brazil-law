@@ -1,0 +1,66 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO POR LATROCÍNIO TENTADO. TRÂNSITO EM JULGADO. DOSIMETRIA. REVISÃO CRIMINAL. DESVALOR DADO À CONDUTA SOCIAL. REVISÃO DOS ARGUMENTOS PELO TRIBUNAL DE JUSTIÇA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. ALTERAÇÃO EM SEDE DE HABEAS CORPUS SOMENTE SE HOUVER ILEGALIDADE FLAGRANTE OU TERATOLOGIA. HIPÓTESES NÃO DETECTADAS.
+1. Nos termos do entendimento majoritário desta Corte, diante da presença de várias condenações com trânsito em julgado, por fatos anteriores, pode o juiz valorar uma delas como reincidência e cada uma das demais como maus antecedentes, personalidade e conduta social sem incorrer em bis in idem. O que não se admite é a consideração de uma mesma condenação para a valoração negativa de mais de uma circunstância judicial ou de uma circunstância judicial e da reincidência, situação contrária a dos autos, na qual se verifica a existência de diversas condenações em desfavor do agravante.
+2. Em sede de revisão criminal e ao contrário do que apresentado pela defesa, a Corte estadual não agregou argumentos a justificar o desvalor dado à conduta social, pelo contrário, procedeu à revisão dos fundamentos apresentados na dosimetria da pena, indo de encontro ao entendimento da jurisprudência desta Corte Superior.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de minha relatoria, assim ementada (fl. 500):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CONDENAÇÃO POR LATROCÍNIO TENTADO. TRÂNSITO EM JULGADO. DOSIMETRIA. REVISÃO CRIMINAL. DESVALOR DADO À CONDUTA SOCIAL. REVISÃO DOS ARGUMENTOS PELO TRIBUNAL DE JUSTIÇA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. ALTERAÇÃO EM SEDE DE HABEAS CORPUS SOMENTE SE HOUVER ILEGALIDADE FLAGRANTE OU TERATOLOGIA. HIPÓTESES NÃO DETECTADAS.
+Ordem denegada.
+Em suas razões recursais, o agravante repisa os argumentos lançados no writ originário, destacando que o Tribunal de Justiça, em recurso exclusivo da defesa, agregou novos argumentos a justificar o desvalor dado à conduta social, razão pela qual a análise da questão deve se limitar à fundamentação da origem (fl. 517).
+Diz, ainda, que o acórdão valorou negativamente a conduta social com base em decisões condenatórias anteriores, sendo que tais elementos inserem-se na circunstância judicial de antecedentes, não se confundindo com a circunstância diversa e autônoma da conduta social (fl. 517).
+Requer, assim, o afastamento da vetorial negativa sobre referida circunstância (fl. 520).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão agravada deve ser mantida pelos seus próprios fundamentos.
+Isso porque o Magistrado de piso, com clareza singular, pontuou: a conduta social, nos termos das diretrizes estabelecidas pela novel Súmula 444 do STJ, pelo que foi apurado, demonstrou desrespeito com a vida e patrimônio alheios, bem como com as instituições legalmente instituídas, mostrando-se indiferente as benesses que lhe foram concedidas, tanto que já foi condenado outras vezes agraciado com o sursis e continuou a delinquir, o que demonstra que as medidas anteriores não foram suficientes para que assimilasse o caráter educativo da reprimenda (fl. 303).
+Fundamentos, inclusive, ratificados pelo Tribunal de Justiça no julgamento da apelação defensiva. Conforme se infere a seguir (fls. 460/464):
+A sentença foi mantida pela Terceira Câmara Criminal. Eis o teor do acórdão rescindendo no ponto:
+"No que diz respeito à redução das penas, razão também não lhe assiste.
+Verifica-se que foram aplicadas conforme dita o Código Penal. O douto magistrado a quo considerou a aplicação de três circunstâncias desfavoráveis na primeira fase da dosimetria: antecedentes, conduta social e circunstâncias do crime. Portanto, o aumento na primeira fase da dosimetria da pena está devidamente fundamentada.
+É o entendimento majoritário deste Tribunal de Justiça:
+(..) Não obstante inexista na legislação penal qualquer indicação específica da fração a ser agregada ou reduzida da pena frente à constatação de circunstâncias legais (CP, art. 59), a orientação predominante neste egrégio Tribunal de Justiça é no sentido de adotar-se, no cálculo, a quantia de 1/6 (um sexto), para cada circunstância desfavorável (..) (Apelação Criminal n.2009.034544-4, de Joinville, rela. Desa. [NOME], j. 18/01/2011) (grifou-se).
+Desta feita, entende-se que para a reprovação e prevenção do caso em apreço, está correta a aplicação da pena na primeira fase da dosimetria feita pelo magistrado de primeiro grau, a qual, destaque-se poderia ter sido até maior, se aumentada de 3/6 (três sextos) - devido à três circunstâncias judiciais desfavoráveis.
+ ..
+2.1. Como visto, na etapa inicial, ainda que o Magistrado tenha feito menção à personalidade, foram considerados desfavoráveis ao revisionando as penas os antecedentes, a conduta social e as circunstâncias do crime, razão pela qual lhe falta interesse em postular o afastamento da personalidade e dos motivos do crime.
+ ..
+Dessarte, o pleito não pode ser conhecido no ponto.
+2.2. Da mesma forma, não se pode conhecer dos pleitos de afastamento da conduta social e das circunstâncias do crime, bem como do pedido de aplicação da teoria do "termo médio" na aplicação da pena-base.
+Ora, o magistrado é dotado de discricionariedade para analisar as circunstâncias judiciais previstas no art. 59 do CP e elevar a reprimenda de acordo com sua convicção, desde que fundamente suas razões e não incorra em teratologia.
+No que toca à conduta social, admite-se "a utilização de condena- ções anteriores transitadas em julgado como fundamento para o estabelecimento da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e, ainda, da personalidade do agente, ficando apenas vedado o bis in idem" (STJ, AgRg no HC n. 405062, Min. Sebastião Reis Júnior, j. 22.08.2017).
+Com efeito, do exame das certidões de antecedentes constata-se a existência de diversas condenações em desfavor do revisionando, referentes a fatos anteriores ao agora analisado (ocorrido em 2005)
+ ..
+Como visto, uma delas foi utilizada como reincidência e outras duas como maus antecedentes, não havendo empecilho para que a sobressalente possa ser utilizada, como feito, para aumentar a reprimenda pela conduta social, indicando a inadequação do agente no convívio social, em razão da reiteração da prática delitiva. (grifo nosso).
+ ..
+Assim, nos termos do entendimento majoritário desta Corte, diante da presença de várias condenações com trânsito em julgado, por fatos anteriores, pode o juiz valorar uma delas como reincidência e cada uma das demais como maus antecedentes, personalidade e conduta social sem incorrer em bis in idem. O que não se admite é a consideração de uma mesma condenação para a valoração negativa de mais de uma circunstância judicial ou de uma circunstância judicial e da reincidência.
+A propósito, os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. DIVERSAS CONDENAÇÕES COM TRÂNSITO EM JULGADO. ANTECEDENTES, CONDUTA SOCIAL E PERSONALIDADE. BIS IN IDEM. NÃO OCORRÊNCIA. LAUDO PSICOSSOCIAL. DESNECESSIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme entende a maioria da Sexta Turma, "a existência de condenações anteriores transitadas em julgado pode justificar validamente a elevação da pena-base, tanto como maus antecedentes, bem como conduta social e personalidade, desde que diferentes as condenações consideradas, sob pena de bis in idem. O que não se admite é a consideração de uma mesma condenação para a valoração negativa de mais de uma circunstância judicial ou de uma circunstância judicial e da reincidência" (HC n. 348.451/RJ, de minha relatoria, Relator para acórdão Ministro Nefi Cordeiro, 6ª T, de DJe 3/5/2016).
+2. O Juiz de primeiro grau - corroborado pela corte local - nada mais fez que atribuir valoração negativa aos antecedentes e, ainda, sopesar desfavoravelmente a personalidade, dada a quantidade de condenações com trânsito em julgado, suficientes para alicerçar cada uma das vetoriais, além da agravante.
+3. Não há empecilho para a elevação da pena-base pela personalidade, em virtude da existência de diversas condenações definitivas, não se fazendo necessária a produção de laudo psicossocial para esse fim.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 247.820/MG, Sexta Turma, Ministro Rogerio Schietti Cruz, DJe 12/9/2016)
+CONSTITUCIONAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. FURTO QUALIFICADO. VALOR EXPRESSIVO DO BEM SUBTRAÍDO. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DESCLASSIFICAÇÃO PARA MODALIDADE TENTADA. PRESCINDIBILIDADE DA POSSE MANSA E PACÍFICA. MULTIRREINCIDÊNCIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE. BIS IN IDEM NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+5. Não se infere manifesta desproporcionalidade na pena imposta, visto que a jurisprudência desta Corte admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e, ainda, da personalidade do agente, ficando apenas vedado o bis in idem. Assim, considerando a multireincidência do réu, não se vislumbra ilegalidade na dosimetria da pena. Precedentes.
+6. Habeas corpus não conhecido (HC n. 306.051/DF, Quinta Turma, Ministro Ribeiro Dantas, DJe 15/4/2016)
+Em sede de revisão criminal e ao contrário do que apresentado pela defesa, a Corte estadual não agregou argumentos a justificar o desvalor dado à conduta social, pelo contrário, procedeu à revisão dos fundamentos apresentados na dosimetria da pena, indo de encontro ao entendimento da jurisprudência desta Corte Superior, conforme se infere a seguir (fl. 464):
+ ..
+Com efeito, do exame das certidões de antecedentes constata-se a existência de diversas condenações em desfavor do revisionando, referentes a fatos anteriores ao agora analisado (ocorrido em 2005)
+ ..
+Como visto, uma delas foi utilizada como reincidência e outras duas como maus antecedentes, não havendo empecilho para que a sobressalente possa ser utilizada, como feito, para aumentar a reprimenda pela conduta social, indicando a inadequação do agente no convívio social, em razão da reiteração da prática delitiva.
+ ..
+Nesse sentido, confiram-se os precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. NATUREZA E QUANTIDADE DE DROGAS. MANUTENÇÃO DO REGIME INICIAL MAIS SEVERO. POSSIBILIDADE. MATÉRIA DEVOLVIDA AO STJ. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AUSÊNCIA DE AGRAVAMENTO DA PENA. AGRAVO NÃO PROVIDO.
+ ..
+3. A jurisprudência desta Corte Superior entende que é permitida, ainda que em sede de recurso exclusivo da defesa, a revisão dos fundamentos apresentados na dosimetria da pena e na fixação do regime prisional, desde que não se agrave a situação do réu, sem que se caracterize indevida reformatio in pejus.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.582.468/MG, Quinta Turma, Ministro Ribeiro Dantas, DJe 15/8/2018 - grifo nosso)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. OFENSA AOS ARTS. 59 DO CP E 42 DA LEI Nº 11.343/2006. PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE. NATUREZA E QUANTIDADE DA DROGA. CIRCUNSTÂNCIAS PREPONDERANTES. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. VIOLAÇÃO DO ART. 33, § 4º DA LEI Nº 11.343/2006. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO. INVIABILIDADE. I) RÉUS INTEGRANTES DE ORGANIZAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. II) REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. NEGATIVA DE VIGÊNCIA DO ART. 33, § 2º E § 3º, DO CP. FIXAÇÃO DE REGIME MAIS BRANDO. IMPOSSIBILIDADE. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. PRETENSÃO EM DESACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. OFENSA AO ART. 617 DO CPP. I) INOVAÇÃO RECURSAL. II) REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+Ademais, importante consignar que, ressalvado o entendimento desta relatoria, "a jurisprudência desta Corte firmou compreensão de que, ainda que em sede de recurso exclusivo da defesa, é possível a revisão dos fundamentos apresentados na dosimetria da pena, desde que não modificada a quantidade de sanção imposta, sem que tal procedimento caracterize indevida reformatio in pejus. Precedentes do STJ". (AgRg no HC n. 280.353/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/8/2015).
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.328.838/SP, Sexta Turma, Ministra Maria Thereza de Assis Moura, DJe 3/9/2018)
+Ante o exposto, nego provimento ao agravo regimental.
