@@ -1,0 +1,30 @@
+DECISÃO
+ Trata-se de conflito de competência suscitado no mandado de segurança impetrado por [NOME] contra ato imputado ao Diretor do Serviço de Veteranos e Pensionistas da Marinha - Marinha do Brasil (União Federal), objetivando obter ordem no sentido de que o Impetrado se digne receber o recurso administrativo interposto pela Impetrante.
+O feito foi distribuído ao Juízo da 4ª Vara Federal de Santos/SP, que declinou de sua competência, sob o fundamento de que a competência para juglar mandado de segurança define-se pela categoria da autoridade coatora e pela sua sede funcional, a qual, in casu, localiza-se na cidade do Rio de Janeiro/RJ.
+Distribuído o feito ao Juízo da 12ª Vara Federal do Rio de Janeiro/RJ, foi suscitado o conflito perante o Superior Tribunal de Justiça, tendo o suscitante consignado que, tratando-se de mandado de segurança impetrado contra autoridade pública federal, o que abrange a União e suas respectivas autarquias, aplica-se o disposto no art. 109, § 2º, da CF, a fim de permitir o ajuizamento da demanda no domicílio da impetrante.
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+No presente caso, fixada a competência da Justiça Federal em razão da matéria, nos termos do art. 109, caput e inciso I, da Constituição Federal, para o processamento e julgamento das causas em que a União for interessada na condição de ré, como no caso da ação mandamental que deu origem ao presente conflito de competência, abre-se espaço para a incidência simultânea do disposto no art. 109, I e § 2º, da Carta Republicana:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+(..)
+§2º As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+Da interpretação do artigo 109, § 2º da Constituição Federal extrai-se a ausência de qualquer tipo de restrição no que concerne à opção conferida ao autor, que, por isso, é o juiz de sua conveniência para exercê-la, limitadas, apenas, às opções estabelecidas pelo próprio texto constitucional.
+Nesse ponto, constata-se que as causas intentadas contra a União poderão, de acordo com a opção do autor, ser aforadas perante os juízos indicados no art. 109, § 2º, da Lei Maior. O ordenamento constitucional, neste aspecto, objetiva facilitar o acesso ao Poder Judiciário da parte quando litiga contra a União.
+Assim sendo, é legítima a opção da parte autora de que o feito ajuizado seja processado tanto no foro de seu domicílio, quanto no próprio Distrito Federal. O artigo 109, § 2º da CF elenca foros nos quais a ação pode ser ajuizada, cabendo ao autor da ação escolher o foro em que irá propor a demanda.
+Nos termos da jurisprudência do Supremo Tribunal Federal, o § 2º do art. 109 da Constituição Federal é aplicável também quando se tratar de mandado de segurança. Veja-se, a propósito, a seguinte ementa:
+CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. JURISDIÇÃO E COMPETÊNCIA. MANDADO DE SEGURANÇA. UNIÃO. FORO DE DOMICILIO DO AUTOR. APLICAÇÃO DO ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência do Supremo Tribunal Federal está pacificada no sentido de que as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Agravo regimental improvido.
+(RE 509.442 AgR, Relatora  Min. Ellen Gracie, Segunda Turma, DJe 20/8/2010).
+CONSTITUCIONAL. COMPETÊNCIA. CAUSAS AJUIZADAS CONTRA A UNIÃO. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. APLICABILIDADE ÀS AUTARQUIAS FEDERAIS, INCLUSIVE AO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE. RECURSO CONHECIDO E IMPROVIDO.
+I - A faculdade atribuída ao autor quanto à escolha do foro competente entre os indicados no art. 109, § 2º, da Constituição Federal para julgar as ações propostas contra a União tem por escopo facilitar o acesso ao Poder Judiciário àqueles que se encontram afastados das sedes das autarquias.
+II - Em situação semelhante à da União, as autarquias federais possuem representação em todo o território nacional.
+III - As autarquias federais gozam, de maneira geral, dos mesmos privilégios e vantagens processuais concedidos ao ente político a que pertencem.
+IV - A pretendida fixação do foro competente com base no art. 100, IV, a, do CPC nas ações propostas contra as autarquias federais resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo referido dispositivo constitucional.
+V - A jurisprudência do Supremo Tribunal Federal tem decidido pela incidência do disposto no art. 109, § 2º, da Constituição Federal às autarquias federais. Precedentes.
+VI - Recurso extraordinário conhecido e improvido.
+(RE 627709, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 20/08/2014, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014).
+Nesse sentido, as seguintes decisões: CC 137.408/DF, Rel. Min. BENEDITO GONÇALVES, DJe 13.3.2015; CC 145.758/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.3.2016; CC 137.249/DF, Rel. Min. SÉRGIO KUKINA, DJe 17.3.2016 e CC 143.836/DF, Rel. Min. HUMBERTO MARTINS, DJe 9.12.2015.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o JUÍZO FEDERAL DA 4ª VARA DA SUBSEÇÃO DE SANTOS/SP, ora suscitado.
+Publique-se. Intimem-se.
