@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PET NO RECURSO ESPECIAL. PEDIDO INDEFERIDO DE CHAMAMENTO DO FEITO À ORDEM, COM O FIM DE PROMOVER REABERTURA DE PRAZO RECURSAL, APÓS O TRÂNSITO EM JULGADO DE DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. TRANSFERÊNCIA DE PODERES COM RESERVA. INTIMAÇÃO DO ADVOGADO SUBSTABELECENTE. CERCEAMENTO. AUSÊNCIA.
+1. Quando há substabelecimento sem reservas, a intimação só se perfaz quando chamado o advogado substabelecido; havendo transferência de poderes com reserva, como na espécie, a intimação pode se dar tanto no nome do substabelecente como do substabelecido. Precedente.
+2. Na espécie, a representante da parte autora - Dra. [NOME] -, ao substabelecer seus poderes mencionou expressamente que o fazia "com reserva". Dessa forma, não há falar em cerceamento de defesa, porquanto a decisão que não conheceu do recurso especial foi publicada corretamente em seu nome.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça prosseguindo o julgamento, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Napoleão Nunes Maia Filho.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por [NOME] contra despacho, à fl. 8 e-STJ, de minha lavra, que indeferiu o pedido de chamamento do feito à ordem, com o fim de promover reabertura de prazo recursal. Isso após o trânsito em julgado de decisão que não conheceu do recurso especial.
+A agravante pugna pela reforma do decisum reiterando os argumentos no sentido de que, não obstante tenha juntado procuração com substabelecimento e renúncia de poderes, a decisão que não conheceu do RESP "foi publicada tão somente nos nomes dos causídicos antigos da Requerente, Srs. [NOME] - este que havia renunciado ao mandato, e [NOME] - advogada que substabeleceu os poderes aos novos causídicos".
+Ou seja, a autora pugna pela reabertura de prazo recursal dizendo que os novos causídicos "não foram intimados da decisão", a qual não conheceu do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PET NO RECURSO ESPECIAL. PEDIDO INDEFERIDO DE CHAMAMENTO DO FEITO À ORDEM, COM O FIM DE PROMOVER REABERTURA DE PRAZO RECURSAL, APÓS O TRÂNSITO EM JULGADO DE DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. TRANSFERÊNCIA DE PODERES COM RESERVA. INTIMAÇÃO DO ADVOGADO SUBSTABELECENTE. CERCEAMENTO. AUSÊNCIA.
+1. Quando há substabelecimento sem reservas, a intimação só se perfaz quando chamado o advogado substabelecido; havendo transferência de poderes com reserva, como na espécie, a intimação pode se dar tanto no nome do substabelecente como do substabelecido. Precedente.
+2. Na espécie, a representante da parte autora - Dra. [NOME] -, ao substabelecer seus poderes mencionou expressamente que o fazia "com reserva". Dessa forma, não há falar em cerceamento de defesa, porquanto a decisão que não conheceu do recurso especial foi publicada corretamente em seu nome.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Esclareço inicialmente que na sessão de julgamento de 18/8/2018 proferi voto no sentido de negar provimento ao agravo interno, momento em que o Ministro Napoleão Nunes Maia Filho pediu vista antecipada.
+Ocorre que Sua Excelência, à fl. 46, proferiu despacho declarando-se suspeito, em razão de foro íntimo superveniente.
+Dessa forma, reitero o meu voto anteriormente proferido no sentido de negar provimento ao agravo interno, in verbis:
+Na origem, a autora objetiva a reversão da pensão especial de ex-combatente percebida por sua genitora a partir da data de seu óbito, ocorrido em 21.10.2005. O acórdão recorrido deu provimento à apelação e à remessa oficial ao fundamento de que a autora não preenche os requisitos para a reversão pleiteada, em razão de ser maior. o RESP não foi conhecido, pelo teor das Súmulas 283 e 284 do STF. A decisão transitou em julgado em 1º/11/2017, conforme certidão de fl. 401 e-STJ.
+Como relatado, a agravante se insurge contra despacho de minha lavra que indeferiu pedido de chamamento do feito à ordem, com o fim de promover reabertura de prazo recursal. Isso após o trânsito em julgado de decisão que não conheceu do recurso especial.
+Quanto à tese de cerceamento de defesa, a Coordenadoria da Primeira Turma prestou esclarecimentos no sentido de que:
+ ..  a petição de fls. 391/393 não solicitou a retificação da autuação para que constassem dela os advogados substabelecidos, sendo certo que esta Coordenadoria, ao verificar que a Dra. [NOME] havia substabelecido com reserva de poderes e, assim, permanecia habilitada como representante da parte agravante - [NOME], não a excluiu da autuação do RESP 1.416.687/CE, equivocando-se, tão-somente, quando não excluiu o nome do Dr. [NOME], que renunciou ao mandato que lhe fora outorgado.
+Como se denota, constata-se que realmente a representante da parte autora - Dra. [NOME], ao substabelecer seus poderes, o fez "com reserva" (fl. 392 e-STJ, grifos no original). O único equívoco da Coordenadoria consistiu em não excluir o nome do Dr. [NOME], que renunciou ao mandato que lhe fora outorgado.
+Anote-se que o Superior Tribunal de Justiça tem reiteradamente decidido no sentido de que, se a parte autora tem mais de um advogado constituído, basta que na publicação figure o nome de um deles, salvo nas hipóteses em que se requer que a intimação se dê apenas a um deles (v.g.: AgRg nos EREsp 1.310.350/RJ, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 20/5/2013).
+Por outro lado, já se decidiu também que, quando há substabelecimento sem reservas, a intimação só se perfaz quando chamado o advogado substabelecido; havendo transferência de poderes com reserva, como na espécie, a intimação pode se dar tanto no nome do substabelecente como do substabelecido. Nesse sentido: EREsp 202.184/AL, Rel. Ministra Eliana Calmon, Corte Especial, DJ 25/6/2001.
+No caso concreto, a representante da parte autora - Dra. [NOME], ao substabeleceu seus poderes mencionou expressamente que o fazia "com reserva". Dessa forma, não há falar em cerceamento de defesa, porquanto a decisão que não conheceu do recurso especial foi publicada corretamente em nome da advogada habilitada à época (Dra. [NOME]).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
