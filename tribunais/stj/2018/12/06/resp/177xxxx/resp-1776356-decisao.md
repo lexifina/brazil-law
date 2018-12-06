@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ACIDENTE DO TRABALHO. REVISÃO DA RENDA MENSAL INICIAL. ARTIGO 29, II, DA LEI 8.213/1991. AÇÃO CIVIL PÚBLICA COM ACORDO TRANSITADO EM JULGADO. INTERESSE DE AGIR PARA AJUIZAMENTO DA AÇÃO INDIVIDUAL. RECONHECIMENTO. PRECEDENTE DA SEGUNDA TURMA: RESP 1.722.626/RS. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. ACIDENTE DE TRABALHO. AÇÃO DE REVISÃO DE BENEFÍCIO. RENDA MENSAL INICIAL (RMI). ART. 29, INC. II, DA LEI 8.213/91. PRETENSÃO DE RECEBIMENTO DAS DIFERENÇAS DE BENEFÍCIO REVISTO ADMINISTRATIVAMENTE. NECESSIDADE DE OBEDIÊNCIA À ORDEM CRONOLÓGICA DE PAGAMENTOS ESTABELECIDA EM AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE INTERESSE PROCESSUAL CONFIGURADA. EXTINÇÃO DO PROCESSO.
+De acordo com o entendimento firmado por esta Câmara, carece de interesse processual a parte que pretende o pagamento das diferenças resultantes de revisão do benefício, com base no art. 29, II, da Lei nº 8.213/91, quando a revisão pretendida já foi alcançada administrativamente e já foi estabelecido, através de acordo judicial firmado nos autos da Ação Civil Pública nº 0002320- 59.2012.4.03.6183/SP, cronograma de pagamento, que precisa ser respeitado.
+Valorização da solução coletiva dos conflitos, considerando todo o conjunto e a dimensão que circunda o litígio.
+Sentença de extinção do processo, por ausência de interesse de agir mantida.
+APELO DESPROVIDO. SENTENÇA CONFIRMADA.
+Em suas razões de recurso especial, sustenta o recorrente seu interesse de agir, porque embora a revisão de seu benefício por incapacidade, com base no artigo 29, II, da Lei 8.213/1991, tenha sido objeto de ação civil pública, da qual decorreu acordo homologado e transitado em julgado, o qual obedece a escala orçamentária, previamente acordada com a Administração, possui direito em ajuizar ação individual, em observância aos artigos 103, 104, do Código de Defesa do Consumidor combinados com os artigos 10, §§ 1º e 2º, 489, 506, 926, 927, 1.022, parágrafo único, I, II, do CPC/2015.
+O prazo para o Instituto Nacional do Seguro Social apresentar contrarrazões ao recurso especial decorreu in albis.
+Noticiam os autos que o ora recorrente ajuizou ação em face do INSS, objetivando a revisão da renda mensal inicial de seu benefício por incapacidade.
+ A sentença julgou extinto o processo sem resolução do mérito, por ausência de interesse processual.
+A parte autora, ora recorrente, apelou, tendo o Tribunal a quo negado provimento ao recurso, nos termos da ementa supratranscrita.
+Opostos embargos de declaração rejeitados.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ, que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A questão recursal gira em torno do interesse de agir, considerando a existência de ação coletiva, para reconhecimento de direitos individuais homogêneos dos segurados do INSS, referentes à revisão da renda mensal inicial de benefícios oriundos de acidente do trabalho, da qual surgiu acordo transitado em julgado, com respectivo cronograma orçamentário.
+No tocante ao interesse de agir, a Segunda Turma do STJ enfrentou o tema, decidindo por reconhecê-lo.
+Confira-se:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DA RENDA MENSAL DO BENEFÍCIO PREVIDENCIÁRIO. ART. 29, II, DA LEI 8.213/1991. RECONHECIMENTO ADMINISTRATIVO DO DIREITO SUBJETIVO POSTULADO. MEMORANDO-CIRCULAR Nº 21/DIRBEN/PFE-INSS, DE 15/4/2010. ACORDO EM AÇÃO CIVIL PÚBLICA SEM A PARTICIPAÇÃO DO AUTOR DA AÇÃO. DISCORDÂNCIA DOS CRITÉRIOS DA REVISÃO ADMINISTRATIVA. INTERESSE PROCESSUAL CONFIGURADO.
+1. Trata-se de Recurso Especial que tem como objetivo afastar a alegação de ausência de interesse processual da parte recorrente quanto ao direito à revisão da renda mensal do benefício previdenciário de auxílio-doença (art. 29, II, da Lei 8.213/1991) por ter o INSS realizado a revisão administrativa, em razão do Memorando-Circular 21/DIRBEN/PFE-INSS, de 15/4/2010, e de acordo celebrado sem a participação do autor na Ação Civil Pública 0002320-59.2012.4.03.6183 proposta pelo Ministério Público Federal.
+2. A parte recorrente requereu administrativamente o pedido de revisão da renda mensal do benefício previdenciário com base no art. 29, II da Lei 8.213/1991, tendo-se indeferido o pedido por existir acordo celebrado na referida Ação Civil Pública.
+3. A ação judicial foi proposta em 2013 questionando a revisão do benefício previdenciário nos termos do Memorando-Circular 21/DIRBEN/PFE-INSS, de 15/4/2010.
+4. Não reconhecimento da divergência jurisprudencial pela ausência do cotejo analítico entre o acórdão recorrido e os paradigmas.
+5. Há interesse de agir do segurado quando, não obstante a revisão administrativa pela autarquia previdenciária, o objeto da ação envolve a discordância com os próprios critérios da revisão.
+6. As ações coletivas previstas nos incisos I e II e no parágrafo único do art. 81 do CDC não induzem litispendência para as ações individuais, mas os efeitos da coisa julgada erga omnes ou ultra partes a que aludem não beneficiarão os autores das ações individuais se não for requerida sua suspensão no prazo de trinta dias, a contar da ciência nos autos do ajuizamento da ação coletiva (AgRg no AREsp 595.453/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/5/2015, DJe 18/11/2015, e AgInt na PET nos EREsp 1.405.424/SC, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 26/10/2016, DJe 29/11/2016).
+7. Embora haja a relação de conexão entre a ação coletiva e a ação individual que trate do mesmo objeto e causa de pedir, como bem afirmado pelo §1º do art. 103 do CDC (Lei 8.078/1990), "os efeitos da coisa julgada não prejudicarão interesses e direitos individuais dos integrantes da coletividade, do grupo, categoria ou classe", não pode ser retirada do jurisdicionado afetado pela relação jurídica a faculdade de postular em juízo o direito subjetivo.
+8. A legislação dá a opção para o jurisdicionado ingressar na ação coletiva como litisconsorte (art. 94 do CDC) ou utilizar o título executivo judicial para requerer a execução individual da sentença proferida no processo coletivo, mas não lhe retira o direito a promover ação individual para a discussão do direito subjetivo.
+9. As ações coletivas previstas nos incisos I e II e no parágrafo único do art. 81 do CDC não induzem litispendência para as ações individuais, mas os efeitos da coisa julgada erga omnes ou ultra partes a que aludem não beneficiarão os autores das ações individuais se não for requerida sua suspensão no prazo de trinta dias, a contar da ciência nos autos do ajuizamento da ação coletiva (AgRg no AREsp 595.453/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/5/2015, DJe 18/11/2015).
+10. Recurso Especial parcialmente provido a fim de que retornem os autos ao Tribunal de origem para novo julgamento quanto ao mérito recursal.
+(REsp 1.722.626/RS, Segunda Turma, Relator Ministro Herman Benjamin, DJe 23/5/2018)
+
+Ante o exposto, dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal a quo, para novo julgamento do recurso de apelação.
+Publique-se.
+Intimem-se.
