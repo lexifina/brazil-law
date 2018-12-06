@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo, interposto por PÓLO PRECATÓRIO FEDERAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS, em 14/09/2015, mediante o qual se impugna decisão indeferitória de seguimento a seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal Regional Federal da 2ª Região, assim ementado:
+"TRIBUTÁRIO. PRECATÓRIOS. EXISTÊNCIA DE QUESTIONAMENTOS QUANTO AO VALOR DA DIVIDA E IMPUGNAÇÕES A CÁLCULOS. VALOR QUE NÃO PODE SER RECONHECIDO COMO INCONTROVERSO. DIREITO INDISPONÍVEL.
+1. A matéria questionada no presente agravo de instrumento é relativa ao levantamento de parcelas de precatório, cujo valor requisitado, inicialmente, era considerado incontroverso, uma vez que a União havia embargado a execução apenas parcialmente.
+2. Entretanto, o valor da dívida ainda é alvo de vários questionamentos e impugnações a cálculos, tanto por parte da Fazenda quanto por parte da embargada.
+3. O fato de a União Federal haver, inicialmente, concordado com o valor objeto da execução e esse valor ter sido considerado incontroverso, não a impede de, ao rever o cálculo, constatar que o valor realmente devido é menor e abrir nova discussão em torno de todo o valor da execução, para encontrar o valor efetivamente devido. Isso é possível, por se tratar de direito indisponível e não haver decisão definitiva nos embargos à execução.
+4. Não seria razoável o levantamento das demais parcelas pelos beneficiários, pois e e levantamento, se realizado, poderá causar dano irreparável à União, afronta o a supremacia do interesse público.
+5. Agravo de instrumento desprovido" (fl. 855e).
+Embargos de Declaração rejeitados (fls. 868/881e).
+Alega-se, nas razões do Recurso Especial, manejado com apoio nas alíneas a e c do permissivo constitucional, ofensa aos arts. 165, 458, I e II, 535, I e II, e 739, § 2º, do CPC/73.
+Sustenta, a parte recorrente, em síntese, o seguinte:
+"A União apresentou o valor que entendia devido, e indicou o montante do suposto excesso. Os precatórios foram expedidos.
+Nem formalmente poderia aquele valor incontroverso ser novamente discutido. Houve trânsito em julgado, a matéria estava preclusa. O FUNDO PÓLO PRECATÓRIO, na forma da lei, efetuou "due diligence" no crédito adquirido e confirmou que a União deveria, no mínimo, aquele valor que ela mesma reconheceu dever, e que ensejou a expedição dos precatórios.
+Mas o acórdão atacado expressamente afirma possibilidade da União reabri a discussão, contrariando o próprio teor dos embargos à execução interpostos que mencionam o art. 743, inciso I, do CPC, e tratam exclusivamente do excesso por ela encontrado.
+Pior ainda, o acórdão atacado "inventa" uma imaginada lide sobre todo o valor total da execução, o que simplesmente não existe! A WARRANT e a União debatem nos embargos uma valor adicional porventura devido à autora da ação, nada mais.
+(..)
+Houve também negativa de vigência aos artigos 165, 458, incisos I e II, e principalmente ao artigo 535, incisos I e II, do CPC, quando se negou provimento aos embargos de declaração interpostos sem qualquer fundamento para tanto
+Como já destacado, o acórdão atacado simplesmente afirmou que não existiria valor incontroverso, o que se revela ilógico e contraditório com o que consta imediatamente antes na própria decisão, para negar provimento ao recurso" (fls. 895/898e).
+Requer, por fim, "seja dado provimento ao presente recurso, a fim de que seja autorizada a expedição dos competentes alvarás de levantamento aos titulares dos precatórios expedidos na ação principal, uma vez que a discussão que ocorre nos embargos à execução não diz respeito àqueles valores incontroversos. Caso assim não entenda esse C. Superior Tribunal de Justiça, pede-se seja anulado o acórdão para que seja apreciado o pedido de limitar a suspensão dos levantamentos somente à décima e última parcela, que tem valor superior à diferença apurada entre o valor original que ensejou a expedição dos precatórios, e o menor valor encontrado (aquele da conta errada, que já foi corrigida)" (fl. 902e).
+Contrarrazões às fls. 963/976e.
+Recurso Especial inadmitido (fls. 979/980e), com base na inocorrência de omissão e na Súmula 7/STJ, o que ensejou a interposição de Agravo (fls. 982/992e).
+Contraminuta às fls. 995/999e.
+O presente recurso não merece prosperar.
+Não há de se cogitar de omissão nem de contradição, no acórdão recorrido.
+Com relação à existência, ou não, de valor incontroverso, bem como sobre a possibilidade de impugnação, da integralidade do montante executado, pela Fazenda Nacional, assim se pronunciou, expressamente, o Tribunal de origem:
+"Acontece que, no presente agravo, conforme se percebe pelo exposto acima, e como demonstrou a União Federal, não há, por ora, valor incontroverso. Tal situação impede a expedição de qualquer alvará quanto às demais parcelas depositadas ou a serem depositadas, uma vez que o valor objeto da execução está sendo discutido em sua totalidade nos embargos à execução, não havendo ainda cálculo que tenha estabelecido um valor definitivo para o crédito.
+Como já havia afirmado na decisão proferida no agravo de instrumento (..), o fato de a União Federal haver, inicialmente, concordado com o valor objeto da execução e esse valor ter sido considerado incontroverso, não a impede de, ao rever o cálculo, constatar que o valor realmente devido é menor e abrir nova discussão em torno de todo o valor da execução, para encontrar o valor efetivamente devido. Isso é possível, por se tratar de direito indisponível e não haver decisão definitiva nos embargos à execução.
+Portanto, deixou de existir, "in casu", valores incontroversos, daí a manifesta improcedência do pedido de levantamento dos valores depositados enquanto pendente julgamento os embargos à execução fiscal perante esta Corte" (fls. 850/851e)
+Se o Tribunal de origem se equivocou, eventualmente, ao afirmar que (i) a União teria impugnado, na sua integralidade, o valor executado e que (ii) por se tratar de direito indisponível, bem como por não haver ainda decisão definitiva, nos embargos à execução, seria possível, ao ente público, "abrir nova discussão em torno de todo o valor da execução", ter-se-ia, em tese, error in judicando, não error in procedendo. Omissão (ou contradição), sem embargo, não há. A decisão guerreada, bem ou mal, está suficientemente fundamentada.
+Finalmente, no tocante à efetiva existência, ou não, de valor incontroverso, o Recurso Especial, claramente, não pode ser conhecido, dada a vedação constante da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa parte, negar-lhe provimento.
+Sem honorários. Decisão interlocutória.
+I.
