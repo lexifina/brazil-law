@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo, quanto ao tema remanescente (incidência de contribuição previdenciária a cargo do empregador sobre horas extras), não se revela viável.
+    Com efeito, verifico que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 565.160/SC, Rel. Min. MARCO AURÉLIO, nele fixando tese assim consubstanciada:
+    “A contribuição social a cargo do empregador incide sobre ganhos habituais do empregado, quer anteriores ou posteriores à Emenda Constitucional nº 20/1998.”
+    Impende registrar, ainda, que a colenda Segunda Turma desta Suprema Corte, ao analisar a mesma controvérsia jurídica em referência, julgou o ARE 1.048.172-AgR/SC, Rel. Min. DIAS TOFFOLI, nele fixando entendimento consubstanciado em acórdão assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Contribuição previdenciária patronal. Um terço de férias gozadas, horas extras, adicionais de insalubridade, periculosidade e adicional noturno. Verbas remuneratórias. Folha de salários. Ganhos habituais. Incidência.
+    1. A definição da natureza jurídica das verbas pagas pelo empregador, cuja natureza remuneratória é assentada pelo próprio texto constitucional, prescindem da análise de legislação infraconstitucional. A Constituição Federal consignou o caráter remuneratório das verbas referentes ao terço de férias usufruídas, à hora extra, aos adicionais de insalubridade, periculosidade e trabalho noturno.
+    2. O Tribunal Pleno, em sede de repercussão geral (Tema 20), fixou a tese no sentido de que ‘a contribuição social a cargo do empregador incide sobre ganhos habituais do empregado, quer anteriores ou posteriores à Emenda Constitucional nº 20/1998’. Desse modo, é válida a incidência de contribuição previdenciária patronal sobre os valores pagos a título de terço constitucional de férias, hora extra, adicionais de insalubridade, periculosidade e trabalho noturno, cuja natureza de contraprestação ao trabalho habitual prestado é patente.
+    3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+    4. Inaplicável a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que a parte ora recorrente não foi condenada no pagamento de honorários sucumbenciais pela Corte de origem.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou quanto à análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar, quanto à questão remanescente nestes autos, o presente agravo, nego provimento, no ponto, ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante  a inadmissibilidade de condenação em verba honorária, por tratar-se  de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 06 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
