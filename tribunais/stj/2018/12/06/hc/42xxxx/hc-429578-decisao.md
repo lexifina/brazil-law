@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de habeas corpus impetrado, de próprio punho, em favor [NOME], no qual se pretende, em suma, o reconhecimento de litispendência nos processos pelos quais respondeu e foi condenado por receptação.
+De acordo com as informações prestadas pelo Tribunal de origem, o paciente está preso na Penitenciária de Mirandópolis II, no regime fechado, descontando a sanção estipulada na Ação Penal nº 3874/2009, da Vara da Comarca de Brotas, com início em 04 de maio de 2013 e término previsto para 03 de outubro de 2019 (Execução nº 04), havendo o registro de mais vinte e sete execuções por cumprir (fl. 27).
+Todavia, conforme bem observado pela Defensoria Pública do Estado de São Paulo, a análise sobre eventual litispendência em processos respondidos pelo paciente, exige a consulta pormenorizada do processo execucional e das suas condenações, situação que não é possível de ser feita nesses autos (fl. 165).
+Ante o exposto, não conheço do writ, determinando que a petição do habeas corpus (fls. 1/6) seja encaminhada ao juízo de execuções penais de São Paulo-SP, responsável pela execução penal do paciente para análise do seu processo, e para tomada de eventuais providências e benefícios, com vista à Defensoria Pública local, conforme requerido pela Defensoria Pública do Estado de São Paulo, à fl. 165.
+Publique-se.
