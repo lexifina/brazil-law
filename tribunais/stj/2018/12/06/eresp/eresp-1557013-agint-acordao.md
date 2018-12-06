@@ -1,0 +1,85 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO ORDINÁRIA DE REVISÃO DE SUPLEMENTAÇÃO DE APOSENTADORIA. OMISSÃO INEXISTENTE. REPACTUAÇÃO. NÃO ADESÃO. PRESCRIÇÃO. PARCELAS SUCESSIVAS. CÓDIGO DE DEFESA DO CONSUMIDOR. FALTA DE INTERESSE. REDUÇÃO. HONORÁRIOS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Afasta-se a violação do art. 535 do CPC/1973 quando a decisão está claro e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, não tendo havido transação extrajudicial, em que há acordo de vontades e concessões de vantagens recíprocas, operando-se a transferência de reservas de um plano de benefícios para outro no interior de uma mesma entidade fechada de previdência complementar, ou havendo a declaração de nulidade da transação firmada entre as partes, o que conduziria ao retorno ao status quo ante, prevalecem as regras do plano primitivo.
+4. Tratando-se de revisão de renda mensal inicial de benefício previdenciário complementar, a obrigação é de trato sucessivo, alcançando a prescrição apenas as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação, não afetando, assim, o próprio fundo de direito. Precedentes.
+5. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que o Código de Defesa do Consumidor não se aplica à relação jurídica existente entre entidade fechada de previdência privada e seus participantes (Súmula nº 563/STJ). Na hipótese, à recorrente falece interesse recursal, pois o tribunal local afastou a incidência do CDC.
+6. É orientação pacífica nesta Corte de não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da verba advocatícia, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto, excetuadas as hipóteses em que o valor se afigura manifestamente ínfimo ou exorbitante, o que não se verifica na espécie.
+7. Na verba honorária arbitrada com base na equidade (art. 20, § 4º, do CPC/1973), o magistrado não está adstrito aos limites de 10% (dez por cento) a 20% (vinte por cento) inscritos no § 3º do art. 20 do CPC/1973, de sorte que pode, inclusive, arbitrar valor fixo.
+8. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, em negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO NORDESTE DO BRASIL - CAPEF - contra a decisão (fls. 1.954/1.964 e-STJ), declarada às fls. 1.968/1971 (e-STJ), que conheceu parcialmente do recurso especial e, nessa parte, negou-lhe provimento em virtude da aplicação das Súmulas nºs 7, 291, 427 e 563/STJ e da ausência de interesse recursal quanto à incidência do Código de Defesa do Consumidor.
+Aduz a agravante, em síntese, que há omissão no acórdão recorrido quanto:
+(i) à data de aposentadoria de cada autor que não firmou transação a respeito da norma de vigência no momento da aposentadoria. Afirma que para fins de cálculo de renda mensal inicial de benefício previdenciário suplementar, aplica-se o regulamento vigente à época em que preenchidos os requisitos para a sua obtenção;
+(ii) aos critérios utilizados para enquadrar os autores nos cargos e funções constantes do novo Plano de Cargos e Salários;
+(iii) à violação da coisa julgada relativamente aos autores [NOME] e [NOME], e
+(iv) à desconsideração do art. 68, § 1º, da Lei Complementar nº 109/2001.
+Sustenta a ocorrência da prescrição total ou de fundo do direito ao enquadramento em determinado regime jurídico, sendo inaplicáveis as Súmulas nºs 291 e 427/STJ.
+Insiste na inaplicabilidade do Código de Defesa do Consumidor, a teor da Súmula nº 563/STJ. Afirma que o plano primitivo não é aquele vigente quando da adesão dos autores à CAPEF, em 1967, mas, sim, aquele vigente na data da elegibilidade, no caso, 1986 para o autor [NOME] e 1994 para o autor Fernando.
+Por fim, alega a não incidência da Súmula nº 7/STJ, visto que a condenação dos honorários relativa aos dois autores ([NOME] e Fernando) é muito maior do que aquela atribuída aos demais autores sucumbentes.
+Devidamente intimada, a parte contrária ofereceu impugnação (fls. 2002/2018, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO ORDINÁRIA DE REVISÃO DE SUPLEMENTAÇÃO DE APOSENTADORIA. OMISSÃO INEXISTENTE. REPACTUAÇÃO. NÃO ADESÃO. PRESCRIÇÃO. PARCELAS SUCESSIVAS. CÓDIGO DE DEFESA DO CONSUMIDOR. FALTA DE INTERESSE. REDUÇÃO. HONORÁRIOS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Afasta-se a violação do art. 535 do CPC/1973 quando a decisão está claro e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, não tendo havido transação extrajudicial, em que há acordo de vontades e concessões de vantagens recíprocas, operando-se a transferência de reservas de um plano de benefícios para outro no interior de uma mesma entidade fechada de previdência complementar, ou havendo a declaração de nulidade da transação firmada entre as partes, o que conduziria ao retorno ao status quo ante, prevalecem as regras do plano primitivo.
+4. Tratando-se de revisão de renda mensal inicial de benefício previdenciário complementar, a obrigação é de trato sucessivo, alcançando a prescrição apenas as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação, não afetando, assim, o próprio fundo de direito. Precedentes.
+5. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que o Código de Defesa do Consumidor não se aplica à relação jurídica existente entre entidade fechada de previdência privada e seus participantes (Súmula nº 563/STJ). Na hipótese, à recorrente falece interesse recursal, pois o tribunal local afastou a incidência do CDC.
+6. É orientação pacífica nesta Corte de não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da verba advocatícia, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto, excetuadas as hipóteses em que o valor se afigura manifestamente ínfimo ou exorbitante, o que não se verifica na espécie.
+7. Na verba honorária arbitrada com base na equidade (art. 20, § 4º, do CPC/1973), o magistrado não está adstrito aos limites de 10% (dez por cento) a 20% (vinte por cento) inscritos no § 3º do art. 20 do CPC/1973, de sorte que pode, inclusive, arbitrar valor fixo.
+8. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+No presente recurso, a agravante alega nulidade do acórdão por omissão, pretendendo que seja reconhecida a prescrição e a inaplicabilidade do CDC e que sejam diminuídos os honorários da sucumbência.
+Na origem, a demanda versa a respeito do recálculo do valor do benefício mensal de suplementação de aposentadoria.
+Esta Corte tem entendimento firmado no sentido de que, não tendo havido transação extrajudicial, em que há acordo de vontades e concessões de vantagens recíprocas, operando-se a transferência de reservas de um plano de benefícios para outro no interior de uma mesma entidade fechada de previdência complementar, ou havendo a declaração de nulidade da transação firmada entre as partes, o que conduziria ao retorno ao status quo ante, prevalecem as regras do plano primitivo.
+Adotando esse entendimento, o tribunal de origem julgou procedentes os pedidos dos autores [NOME] e [NOME], tendo em vista que estes "não aderiram ao regulamento de 2003" (fl. 1.318, e-STJ), indeferindo os dos demais autores.
+Diante desse cenário, restou afastada a alegação de nulidade do acórdão por omissão, pois as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia.
+De fato, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles considerados suficientes para fundamentar sua decisão, o que foi feito.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. TRANSFERÊNCIA CONDICIONADA AO PAGAMENTO DE RENOVAÇÃO DE MATRÍCULA. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DELINEADO PELA CORTE LOCAL. IMPOSSIBILIDADE. SÚMULA 07/STJ. VIOLAÇÃO AO ARTIGO 535 DO CPC. JULGADO QUE TRAZ FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. "Quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte" (AgRg no Ag 1.265.516/RS, 4ª Turma, Rel. Min. João Otávio de Noronha, DJe de 30/06/2010).
+3. Agravo regimental desprovido" (AgRg no AREsp nº 205.312/DF, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe 11/2/2014).
+No tocante à prescrição, restou assentado na decisão impugnada que a Segunda Seção desta Corte Superior já decidiu que "A ação de cobrança de parcelas de complementação de aposentadoria pela previdência privada prescreve em cinco anos" (Súmula nº 291/STJ) ou, ainda, que "A ação de cobrança de diferenças de valores de complementação de aposentadoria prescreve em cinco anos contados da data do pagamento" (Súmula nº 427/STJ).
+Ademais, "Se, já não sendo segurado, o autor reclama a restituição do capital investido, a prescrição qüinquenal apanha o próprio fundo do direito; se, ao revés, demanda na condição de segurado, postulando prestações ou diferenças, a prescrição alcança apenas as parcelas vencidas há mais de cinco anos  da propositura da ação " (REsp nº 431.071/RS, Rel. Ministro Ari Pargendler, Segunda Seção, DJ de 2/8/2007), tratando-se, pois, nessa hipótese, de relação de trato sucessivo.
+Repita-se que, o caso dos autos versa acerca de ação revisional em que se pretende o recálculo do valor do benefício mensal de suplementação de aposentadoria.
+Logo, como se cuida de revisão de renda mensal inicial de benefício previdenciário complementar, a obrigação é de trato sucessivo, alcançando a prescrição apenas as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação, não afetando, assim, o próprio fundo de direito.
+Confiram-se:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. REVISÃO DA RENDA MENSAL INICIAL. PRESCRIÇÃO QUINQUENAL. FUNDO DO DIREITO NÃO ALCANÇADO. SÚMULA N. 83/STJ.
+1. Em ação de revisão da renda mensal inicial de benefício previdenciário complementar, tratando-se de obrigação de trato sucessivo, a prescrição alcança apenas as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação, não atingindo o próprio fundo do direito.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" - Súmula n. 83 do STJ.
+3. Agravo regimental desprovido" (AgRg no AREsp nº 295.187/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJe 30/5/2014).
+"AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - AÇÃO REVISIONAL DE BENEFÍCIO DE PREVIDÊNCIA PRIVADA (ALEGADA INOBSERVÂNCIA DOS CRITÉRIOS DE CORREÇÃO MONETÁRIA PREVISTOS NO REGULAMENTO VIGENTE NA DATA DA APOSENTADORIA) - DECISÃO MONOCRÁTICA CONHECENDO DO RECLAMO DOS PARTICIPANTES/ASSISTIDOS PARA, DE PRONTO, DAR PROVIMENTO AO RECURSO ESPECIAL, AFASTADA A PRESCRIÇÃO DO FUNDO DO DIREITO PRONUNCIADA NA ORIGEM. INSURGÊNCIA DA ENTIDADE DE PREVIDÊNCIA PRIVADA.
+1. Prazo prescricional para exercício da pretensão de revisão da renda mensal inicial do benefício de previdência privada. Aplicação da Súmula 291/STJ. Cuidando-se de prestação de trato sucessivo, o decurso do prazo prescricional quinquenal não atinge o próprio fundo do direito invocado, mas apenas as parcelas vencidas anteriormente ao quinquênio que antecede o ajuizamento da ação. Precedentes.
+2. Agravo regimental desprovido" (AgRg no AREsp nº 396.723/RJ, Rel. Ministro MARCO BUZZI, DJe 22/5/2014).
+Ressaltou, ainda, que a jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que o Código de Defesa do Consumidor não se aplica à relação jurídica existente entre entidade fechada de previdência privada e seus participantes (Súmula nº 563/STJ).
+Todavia, na hipótese, à recorrente falece o interesse recursal, tendo em vista que o tribunal de origem não aplicou as regras do Código Consumerista ao presente caso.
+Por fim, quanto à pretensão de reduzir os honorários, melhor sorte não socorre à agravante.
+Isso porque é firme a jurisprudência desta Corte no sentido de não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da verba advocatícia, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto.
+Excetuadas as hipóteses em que o valor se afigura manifestamente ínfimo ou exorbitante, o que não se verifica na espécie, a majoração ou redução dos honorários advocatícios, igualmente, atrai a incidência da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO REGIMENTAL - VERBA HONORÁRIA SUCUMBENCIAL - TESE DE IRRISORIEDADE - CIRCUNSTÂNCIAS FÁTICAS QUE NÃO CONSTAM DO ACÓRDÃO PROFERIDO PELA INSTÂNCIA DE ORIGEM - REVISÃO DE FATOS E PROVAS - IMPOSSIBILIDADE - SÚMULA 7 DO STJ.
+(..)
+2. Só se admite revisar a verba honorária sucumbencial caso a desproporção possa ser verificada a partir da leitura do acórdão recorrido, que contenha o concreto delineamento dos valores da causa e das circunstâncias a que se refere o art. 20, § 3º, do Código de Processo Civil.
+3. No caso em que o quadro fático delineado pelo Tribunal de origem não contempla sequer os valores disputados em juízo, é impossível verificar se, conforme alegado pela recorrente, teriam sido os honorários sucumbenciais fixados em patamar manifestamente aquém do razoável. Isso porque expediente diverso consistiria em inadmissível incursão nos aspectos fáticos da causa, cujo exame é cometido soberanamente às instâncias ordinárias de jurisdição e que, portanto, não admite análise na via do apelo nobre, conforme entendimento firmado na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo regimental não provido." (AgRg no AREsp 329.578/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 6/8/2013, DJe 14/8/2013).
+"PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONDENAÇÃO. IRRISORIEDADE NÃO CONSTATÁVEL DE PLANO. SÚMULA 7/STJ.
+(..)
+3. As circunstâncias elencadas nas alíneas do § 3º do art. 20 do CPC, às quais o § 4º faz remissão, possuem natureza eminentemente fática, razão pela qual não podem ser revisitadas pelo STJ em julgamento de Recurso Especial, consoante preceituado em sua Súmula 7: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Recurso Especial não provido." (REsp 1.346.753/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/10/2012, DJe 5/11/2012).
+Cumpre asseverar que na verba honorária arbitrada com base na equidade (art. 20, § 4º, do CPC/1973), o magistrado não está adstrito aos limites de 10% (dez por cento) a 20% (vinte por cento) inscritos no § 3º do art. 20 do CPC/1973, de sorte que pode, inclusive, arbitrar valor fixo.
+Nesse sentido:
+"AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. NÃO CONFIGURAÇÃO. DECISÃO AGRAVADA. MANUTENÇÃO.
+1.- A fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+2.- Agravo Regimental improvido." (AgRg no AREsp nº 122.036/MS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, Julgado em 19/6/2012, DJe 25/6/2012).
+Consoante se pode verificar, as razões da agravante são insuficientes para infirmar os fundamentos da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
