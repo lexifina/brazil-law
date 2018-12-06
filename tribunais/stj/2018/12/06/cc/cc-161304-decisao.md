@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa do Juízo de Direito da 9ª Vara Cível de Uberlândia, Estado de Minas Gerais, em face do Juízo de Direito da 4ª Vara Cível de Araçatuba, Estado de São Paulo, relativamente à ação de obrigação de fazer cumulada com cobrança proposta por GOU - Grupo Odontológico Unificado Franchising Ltda. em desfavor de [NOME] e [NOME] Flávio [NOME] Junior - ME.
+Na inicial, o autor alega que as partes elegeram o foro de Araçatuba para processar as ações decorrentes do contrato.
+O Juízo suscitado, após afastar a arguída abusividade com base no Código de Defesa do Consumidor, declarou de ofício a nulidade da cláusula eletiva de foro, ao argumento de que os contratantes pretenderam escolher o foro de domicílio da franqueada, que transferiu sua sede para Uberlândia, MG (fls. 118/121).
+O Juízo de Direito mineiro suscitou o presente conflito, ao argumento de que a incompetência relativa não pode ser arguída de ofício, nos termos do art. 65 do Código de Processo Civil e da Súmula 33/STJ (fls. 1/7).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência do Juízo de Direito da 4ª Vara Cível de Araçatuba, SP, para processar e julgar o feito (fls. 131/133).
+Assim delimitada a matéria, necessário consignar que, conforme se colhe dos autos, a questão orbita em torno da competência territorial, que é relativa, cuja prorrogação se impõe quando não oposta exceção viável no tempo próprio.
+Portanto, não tendo a ré arguído na exceção de incompetência a alegativa de mudança de endereço, não é admissível que o Juízo a substitua para determinar a remessa por esse fundamento, já que foi integralmente afastada a defesa consistente na relação de consumo. Nesse sentido, o enunciado da Súmula 33/STJ:
+A incompetência relativa não pode ser declarada de ofício.
+Diversamente do que ocorre quando a competência é absoluta, no caso de competência territorial, decorre da ausência de questionamento a concordância tácita com o foro em que ajuizada a demanda, prorrogando-a, mesmo quando houver a "declaração de nulidade" da cláusula eletiva, razão por que é indispensável a iniciativa do réu, que não tratou desse tema específico, não podendo a partir disso ser alterado o foro de eleição, cuja competência foi prorrogada. Os seguintes precedentes específicos da Segunda Seção tratam da controvérsia:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE REINTEGRAÇÃO DE POSSE EM VIRTUDE DO DESCUMPRIMENTO DE CONTRATO DE ARRENDAMENTO MERCANTIL. SUSCITANTE: JUÍZO DE DIREITO DE RECIFE (SEDE DA EMPRESA RÉ) E SUSCITADO: JUÍZO DE DIREITO DE SÃO PAULO (FORO DE ELEIÇÃO). COMPETÊNCIA TERRITORIAL E, PORTANTO, RELATIVA. IMPOSSIBILIDADE DE DECLINAÇÃO DE OFÍCIO. SÚMULA N. 33 DESTA CORTE.
+- Em se tratando de competência territorial, portanto, relativa, não cabe ao juiz declará-la de ofício (verbete nº 33, Súmula STJ). Somente o próprio réu, mediante oposição de exceção na forma do art. 112 do CPC, poderá se insurgir contra o foro escolhido pelo autor, ainda que o juízo reconheça a nulidade da cláusula eletiva do foro.
+- Conflito conhecido e declarada a competência do Juízo de Direito da 15ª Vara Cível de São Paulo, o suscitado.
+(CC 17.037/PE, Rel. Ministro CESAR ASFOR ROCHA, unânime, DJU de 23.9.1996)
+CONFLITO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. CONTRATO DE ADESÃO. DECLARAÇÃO DE NULIDADE E DECLINAÇÃO DE OFÍCIO PELO JUÍZO. INCOMPETÊNCIA RELATIVA. ENUNCIADO N. 33 DA SUMULA/STJ.
+- A competência concernente à cláusula de eleição de foro é de natureza territorial e, portanto, relativa, não cabendo ao magistrado dela declinar de oficio, ainda que após a declaração de sua nulidade, incidindo, na espécie, o verbete nº 33 da súmula/STJ.
+(CC 14.519/MG, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, unânime, DJU de 4.3.1996)
+Em face do exposto, conheço do conflito para declarar competente o do Juízo de Direito da 4ª Vara Cível de Araçatuba, SP.
+Comunique-se. Intimem-se.
