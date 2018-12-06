@@ -1,0 +1,74 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO E SISTEMAS DE ALARME ELETRÔNICO. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 283 E 284 DA SÚMULA DO STF. APRECIAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA N. 5/STJ.
+I - O presente feito decorre de ação que objetiva rescisão de contrato, bem como indenização por perdas e danos. Na sentença, julgou-se improcedente o pedido. No Tribunal Regional Federal da 3ª Região, a sentença foi mantida.
+II - O reexame do acórdão recorrido, especificamente dos excertos dele colacionados, em confronto com as razões do recurso especial, revela que o principal fundamento apresentado naquele julgado, relativamente ao fato de que a recorrente não apresentou (juntou aos autos) os documentos necessários à comprovação de seu direito, notadamente a nota fiscal/fatura com vencimento em 1º/8/2007, devidamente atestada pela recorrida, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e n. 284, ambas do STF.
+III - E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ. Nesse sentido: REsp n. 1.693.880/RJ, Relator Ministro Herman Benjamin, Segunda Turma, Julgamento em 10/10/2017, DJe 23/10/2017 e AgInt no AREsp n. 398.832/ES, Relator Ministro Gurgel de Faria, Primeira Turma, Julgamento em 15/8/2017, DJe 19/9/2017.
+IV - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre de ação ajuizada por Viaseg Monitoria 24h Ltda. contra Unidade Orçamentária do Estado de São Paulo da Empresa Brasileira de Correios e Telégrafos - ECT que objetiva rescisão de contrato, bem como indenização por perdas e danos. À causa foi arbitrado o valor de R$ 1.000,00 (mil reais). Na sentença, julgou-se improcedente o pedido. No Tribunal Regional Federal da 3ª Região, a sentença foi mantida, nos termos assim ementados:
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO E SISTEMAS DE ALARME ELETRÔNICO. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. RESCISÃO UNILATERAL. CARACTERIZAÇÃO DA MORA. APRESENTAÇÃO DA NOTA FISCAL/FATURA COM ATESTO.
+1. A parte Autora ajuizou a presente ação requerendo a rescisão unilateral do contrato firmado com a Empresa Brasileira de Correio e Telégrafos, cumulada com perdas e danos. Alega que a Ré não efetuou o pagamento da fatura apresentada em 01/08/2007 no prazo ajustado, fato suficiente a ensejar a rescisão unilateral do contrato, por parte da Autora, além do recebimento de danos morais, em decorrência dos prejuízos sofridos.
+2. Em sede preliminar, requereu a Ré a extinção do feito sem análise do mérito, por perda do objeto, ao fundamento de que o contrato já foi rescindido. Não obstante o contrato tenha sido rescindido unilateralmente, pela Ré, no ano de 2008, remanesce o interesse da Autora no julgamento, na medida em que se ficar demonstrado que ela, Autora, tem direito a rescindir o contrato em razão de irregularidade praticada pela Ré, fará jus ao ressarcimento dos prejuízos sofridos, como veremos a seguir. De mais a mais, a presente ação ordinária foi ajuizada antes da rescisão do contrato por parte da Ré.
+3. Segundo consta, as partes celebraram, em 10 de janeiro de 2007, o CONTRATO DE LOCAÇÃO DE SISTEMAS ELETRÔNICOS DE ALARMES (nº 13/2007), estabelecendo, entre outros, as hipóteses de rescisão unilateral pela contratada.
+4. O contrato prevê expressamente, na cláusula 5.1, a forma de apresentação da fatura e o termo inicial do prazo para pagamento, in verbis: "5.1.
+Os pagamentos serão efetuados mensalmente após a prestação do(s) serviço(s), mediante apresentação de Nota Fiscal(is)/Fatura(s), após o atesto pela CONTRATANTE, a qual acontecerá da seguinte forma:"
+5. Bem se vê que somente após o atesto da Contratante, vale dizer, da sua concordância com os serviços discriminados na Nota Fiscal ou na Fatura, é que começa a ser computado o prazo para pagamento.
+6. A parte autora não juntou aos autos a Nota Fiscal/Fatura, com vencimento em 01/08/2007, com o atesto da Ré, ônus de sua incumbência.
+Trata-se de documento essencial para caracterizar a mora da Contratante.
+7. Está demonstrado nos autos que foi concedida à parte Autora, na esfera administrativa, oportunidade de apresentar defesa, tanto é assim que ela apresentou os recursos cabíveis.
+8. Consta, ainda, que a Ré iniciou o procedimento de rescisão unilateral do contrato em 12 de dezembro de 2007, que foi finalizado no ano de 2008.
+9. Ao participar da licitação e celebrar contrato com órgão integrante da Administração Pública, a Autora submete-se integralmente às regras previamente apresentadas pelo contratante. Trata-se de um contrato regido pelas normas de direito público, não sendo possível à parte contratante, após a assinatura da avença, discutir a legalidade das cláusulas, pois com elas concordou. E assim é em razão do interesse público envolvido no feito e da estrita aplicação das normas constitucionais que regem a Administração Pública, especialmente os princípios da legalidade e da impessoalidade.
+10. Ao participar da licitação e assinar o contrato sub judice, a parte autora tinha pleno conhecimento das hipóteses de rescisão unilateral e das condições exigidas para a caracterização da mora do Contratante, mas não apresentou os documentos necessários à comprovação do direito alegado.
+11. Preliminar rejeitada. Apelação desprovida.
+Interposto recurso especial por Viaseg Monitoria 24h Ltda. com fundamento no art. 105, III, a, da Constituição da República por violação dos arts. 55, IV, e 66 da Lei n. 8.666/1993, porquanto, em síntese, plenamente cabível o pedido de rescisão unilateral do Contrato Administrativo n. 13/2007, vigente a partir de 1º/8/2007, em razão do inadimplemento, por parte da ECT/recorrida, do pagamento dos serviços prestados e regulamente cobrados por meio das notas fiscais/faturas emitidas, consoante previsão contida no referido ajuste.
+Contrarrazões apresentadas às fls. 1.171-1.175, o Tribunal a quo negou seguimento ao recurso (fls. 1.183-1.187). Sobreveio agravo nos próprios autos.
+Recebidos os autos no STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial".
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Com relação à alegada violação dos arts. 55, IV, e 66 da Lei n. 8.666/1993, o Tribunal a quo, na fundamentação do decisum, assim firmou entendimento (fls. 1.122-1.123):
+ ..
+Alega a Autora que a Ré não efetuou o pagamento da fatura apresentada em 01/08/2007 no prazo ajustado.
+O contrato prevê expressamente, na cláusula 5.1, a forma de apresentação da fatura e o termo inicial do prazo para pagamento, in verbis:
+"5.1. Os pagamentos serão efetuados mensalmente após a prestação do(s) serviço(s), mediante apresentação de Nota Fiscal(is)/Fatura(s), após o atesto pela CONTRATANTE, a qual acontecerá da seguinte forma:"
+Bem se vê que somente após o atesto da Contratante, vale dizer, da sua concordância com os serviços discriminados na Nota Fiscal ou na Fatura, é que começa a ser computado o prazo para pagamento.
+A parte autora não juntou aos autos a Nota Fiscal/Fatura, com vencimento em 01/08/2007, com o atesto da Ré, ônus de sua incumbência.
+Trata-se de documento essencial para caracterizar a mora da Contratante.
+Está demonstrado nos autos que foi concedida à parte Autora, na esfera administrativa, oportunidade de apresentar defesa, tanto é assim que ela apresentou os recursos cabíveis.
+Consta, ainda, que a Ré iniciou o procedimento de rescisão unilateral do contrato em 12 de dezembro de 2007, que foi finalizado no ano de
+Está demonstrado nos autos que foi concedida à parte Autora, na esfera administrativa, oportunidade de apresentar defesa, tanto é assim que ela apresentou os recursos cabíveis.
+Consta, ainda, que a Ré iniciou o procedimento de rescisão unilateral do contrato em 12 de dezembro de 2007, que foi finalizado no ano de 2008.
+Ao participar da licitação e celebrar contrato com órgão integrante da Administração Pública, a Autora submete-se integralmente às regras previamente apresentadas pelo contratante.
+Trata-se de um contrato regido pelas normas de direito público, não sendo possível à parte contratante, após a assinatura da avença, discutir a legalidade das cláusulas, pois com elas concordou.
+E assim é em razão do interesse público envolvido no feito e da estrita aplicação das normas constitucionais que regem a Administração Pública, especialmente os princípios da legalidade e da impessoalidade.
+Como admitir a alteração das cláusulas contratuais expressamente previstas no instrumento licitatório, que vincula às partes
+Como admitir a alteração das cláusulas contratuais, outorgando ao licitante tratamento diferenciado
+Ao participar da licitação e assinar o contrato sub judice, a parte autora tinha pleno conhecimento das hipóteses de rescisão unilateral e das condições exigidas para a caracterização da mora do Contratante, mas não apresentou os documentos necessários à comprovação do direito alegado.
+ ..
+O reexame do acórdão recorrido, especificamente dos excertos dele colacionados, em confronto com as razões do recurso especial, revela que o principal fundamento apresentado naquele julgado, relativamente ao fato de que a recorrente não apresentou (juntou aos autos) os documentos necessários à comprovação de seu direito, notadamente a nota fiscal/fatura com vencimento em 1º/8/2007, devidamente atestada pela recorrida, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e n. 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284.
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ, segundo a qual "a simples interpretação de cláusula contratual não enseja recurso especial".
+Sobre as questões, os seguintes julgados:
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. MULTA POR DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. APRECIAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. DESCUMPRIMENTO DOS REQUISITOS LEGAIS.
+1. Ao dirimir a controvérsia, o Tribunal de origem consignou: "Por fim, cabe reconhecer a ilegalidade da retenção dos pagamentos devidos ao Recorrente, ante os termos do supracitado artigo 86, parágrafos 2º e 3º, da Lei nº 8.666/93, que somente admite tal medida quando a multa ultrapassar o valor da garantia prestada. Segundo a Cláusula Décima Primeira, item 11.1 (fl. 60), a garantia exigida da parte Contratada é de 5% (cinco por cento) do valor global do contrato (fl. 193), que é quantia suficiente para o pagamento da penalidade imposta. Nestes termos, a Recorrida deveria ter se apropriado da garantia ofertada para se ressarcir da pena de multa aplicada." (fl. 162, e-STJ).
+2. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, bem como exame das regras contidas no contrato, o que é impossível no Recurso Especial, ante os óbices contidos nas Súmulas 5 e 7 do STJ.
+3. Em relação ao dissídio jurisprudencial, impossível se torna o confronto entre os paradigmas e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que é vedado realizar na via especial, por força da Súmula 7 do STJ.
+4. Recurso Especial não conhecido (REsp n. 1.693.880/RJ, Relator Ministro Herman Benjamin, Segunda Turma, Julgamento em 10/10/2017, DJe 23/10/2017.)
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO. PAGAMENTOS A MENOR. RESSARCIMENTO DE DIFERENÇAS. REVISÃO FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A via especial é sede imprópria para a revisão fático-probatória dos autos, bem como para interpretação de cláusulas contratuais, sob pena de ofensa às Súmulas 7 e 5 do STJ, respectivamente.
+3. No caso, o acórdão recorrido entendeu que os aditivos celebrados não poderiam ter alterado os termos dos acordos originários, reconhecendo haver saldo em favor das empresas agravadas, asseverando, ainda, que a falta de prestação de contas não foi motivo suficiente para que a agravante se eximisse do pagamento, pois tal encargo não constava do pacto original.
+4. Agravo interno desprovido (AgInt no AREsp n. 398.832/ES, Relator Ministro Gurgel de Faria, Primeira Turma, Julgamento em 15/8/2017, DJe 19/9/2017.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
