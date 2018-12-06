@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. SUPOSTA CONTRADIÇÃO. INOCORRÊNCIA. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos pela União contra decisão de e-STJ fls. 463/474, por meio da qual conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, que restou assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DESCONTO INDEVIDO EM FOLHA DE PAGAMENTO. DANO MORAL RECONHECIDO PELO TRIBUNAL DE ORIGEM. OFENSA AO ART. 927 DO CÓDIGO CIVIL. AFASTAMENTO DO DANO MORAL. SÚMULA Nº 7/STJ. VIOLAÇÃO AOS ARTS. 884 E 944 DO CÓDIGO CIVIL. REDUÇÃO DO VALOR ARBITRADO. INVIABILIDADE. SÚMULA Nº 7/STJ. CONDENAÇÃO DA FAZENDA PÚBLICA. DÍVIDA NÃO TRIBUTÁRIA. JUROS MORATÓRIOS. ART. 1º-F DA LEI 9.494/97, COM REDAÇÃO DADA PELA MEDIDA PROVISÓRIA Nº 2.180-35/01 E PELA LEI Nº 11.960/09. APLICABILIDADE IMEDIATA, OBSERVADA A IRRETROATIVIDADE. RESP. Nº 1.205.946/SP E Nº 1.492.221/PR JULGADOS PELO RITO DOS REPETITIVOS. RE 655.540/DF. OFENSA AO ART. 14 E 1046 DO CPC/2015. INOCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A embargante alega, em síntese, que a decisão embargada padeceria de contradição no tópico relativo à violação ao art. 1º-F da Lei nº 9.494/97, uma vez que negou provimento ao recurso especial, mas afastou a incidência do IPCA-E determinada pelo Tribunal de origem.
+Sem impugnação aos aclaratórios.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+Ao contrário do que sustenta a embargante, a decisão embargada não tratou da incidência do IPCA-E para fins de correção monetária, mas se limitou tão somente a analisar os juros moratórios, matéria impugnada nas razões do recurso especial no que tange a suposta ofensa ao art. 1º-F da Lei nº 9.494/97.
+Segundo consta do acórdão recorrido, cujos trechos foram parcialmente transcritos na decisão embargada, o Tribunal de origem determinou a incidência do IPCA-E quanto a correção monetária, afastando as regras do art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09.
+Quanto aos juros moratórios, a Corte Regional determinou a fixação de acordo com as regras previstas no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Medida Provisória nº 2.180-35/01 e, posteriormente, pela Lei nº 11.960/09, determinando, assim, a incidência imediata da norma e observando a sua irretroatividade, em consonância com a jurisprudência deste Tribunal Superior.
+Logo, a decisão embargada não afastou a incidência do IPCA-E para fins de correção monetária, matéria sequer suscitada nas razões do recurso especial, inexistindo qualquer contradição no decisum.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
