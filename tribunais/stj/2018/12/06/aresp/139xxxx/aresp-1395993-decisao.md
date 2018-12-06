@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial sob fundamento de incidência da Súmula n. 7 do STJ, ausência de omissão no acórdão recorrido e da falta de cotejo analítico.
+O aresto impugnado recebeu a seguinte ementa (e-STJ fl. 751):
+Plano de saúde. [NOME]. Recusa do plano de saúde em custear o tratamento oncológico do agravante no Hospital Nove de Julho. Preliminares. Ilegitimidade passiva da [NOME] FESP não caracterizada. Unimeds que atuam de modo integrado por meio de intercâmbios entre as unidades, formando um único grupo econômico. Solidariedade reconhecida. Cerceamento de defesa não configurado. Conjunto probatório suficiente para o julgamento antecipado. Mérito. Categoria do plano do autor que não tem cobertura para hospital escolhido. Vedação ao enriquecimento sem causa. Médico que não pertence à rede credenciada. Honorários médicos indevidos. Reembolso das despesas deverá observar os parâmetros do contrato. Sentença mantida. Recurso do autor parcialmente provido. Recurso da ré [NOME] provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 785/788).
+Sobreveio o recurso especial (e-STJ fls. 791/818), fundado no art. 105, III, "a", da CF, no qual o recorrente sustentou, além de divergência jurisprudencial, violação dos arts. 6º, 14 e 20 do CDC e 373, 370 e 1.022 do CPC/2015, além do art. 884 do CC/2002, pois seria ilícita a negativa de cobertura de tratamento pela operadora do plano, havendo ainda nulidade ante o julgamento antecipado da lide, além de ter havido enriquecimento ilícito do plano, diante do reconhecimento de que a sua rede credenciada não possuía profissionais e hospitais aptos ao tratamento necessitado pelo beneficiário.
+Afirmou ainda ter havido omissão no acórdão quanto aos alegados dispositivos legais apontados como violados.
+No agravo (e-STJ fls. 879/905), afirma a presença dos requisitos de admissibilidade do recurso especial, nos pontos não admitidos pela instância a quo.
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+O Tribunal de origem manteve a improcedência antecipada da pretensão de cobertura, porque a prova juntada aos autos era suficiente para demonstrar os limites da cobertura contratada pela parte autora, sendo que o hospital onde ele pretendeu realizar seu tratamento não seria disponibilizado aos clientes do seu plano de saúde - plano básico ou C2 da [NOME] [NOME] (e-STJ fls. 757/758).
+Para rever as conclusões da Corte local e considerar que era incabível o julgamento antecipado, além de entender que o plano contratado pelo recorrente garantiria cobertura para tratamento no hospital por ele requerido, seria necessário reexaminar os fatos e as provas dos autos,o que é incabível no recurso especial, ante as Súmulas n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se. Intimem-se.
