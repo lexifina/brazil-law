@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DE OBRA. VIOLAÇÃO AOS ARTS. 944 E 945 DO CÓDIGO CIVIL. TRIBUNAL A QUO ENTENDEU CONFIGURADA A RESPONSABILIDADE DA AGRAVANTE. DANOS MORAIS CONFIGURADOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE JURÍDICA ENTRE OS ARESTOS. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, soberano na análise do acervo fático-probatório, concluiu pela ocorrência do dano moral, considerando as circunstâncias do caso concreto, na medida em que o atraso foi superior a um ano, tendo atribuído também à ora recorrente a demora na entrega de documentos necessários para o respectivo financiamento imobiliário. A pretensão de alterar tal entendimento, sob alegada ofensa aos arts. 944 e 945 do Código Civil, demandaria o reexame do acervo fático-probatório, o que é inviável em recurso especial, conforme dispõe a Súmula 7/STJ.
+2. O entendimento desta Corte Superior é de que a revisão do valor do dano moral em sede de recurso especial, via de regra, atrai a Súmula 7/STJ, a qual somente é relativizada quando fixada em valores exorbitantes ou irrisórios, o que não é o caso dos autos.
+3. O recurso especial interposto com fundamento na alínea c do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do cotejo analítico, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, o que não aconteceu no presente caso.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por CONDOR SÃO CRISTÓVÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA e OUTRO contra decisão monocrática de relatoria do em. Min. Lázaro Guimarães (fls. 917-920), que conheceu do agravo para não conhecer do recurso especial sob os seguintes fundamentos: (a) incidência da Súmula 211/STJ, quanto à violação ao art. 46 da Lei 10.931/2004; (b) aplicação da Súmula 7/STJ, no tocante aos arts. 944 e 945, parágrafo único, do Código Civil; e (c) ausência de cotejo analítico para verificação do dissídio jurisprudencial.
+Nas razões do presente agravo interno, CONDOR SÃO CRISTÓVÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA e OUTRO afirmam, em síntese, que:
+a) "(..) ao manter o v. acórdão que negou provimento ao recurso de apelação, a Corte local acabou por fulminar o art. 944 e 945 do Código Civil, na medida em que proclamou a existência de dano moral indenizável em hipótese fática onde tal dano não ocorreu tendo atribuído verba indenizatória de R$5.000,000, atribuindo uma extensão a um dano que sequer ocorreu!"
+b) "(..) merece, sim, ser conhecido o Recurso Especial pela alínea "c" do permissivo constitucional, na medida em que s agravantes demonstraram a divergência do julgado do Tribunal a quo e entendimento dessa Corte."
+Ao final, requerem a reconsideração da decisão agravada ou, se mantida, seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Impugnação às fls. 815-821, pelo desprovimento do presente agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cabe examinar, no presente agravo interno, tão somente a parte impugnada da decisão hostilizada, permanecendo incólume o fundamento quanto à incidência da Súmula 211/STJ, pois não refutado no presente recurso.
+O recurso em apreço não merece prosperar, uma vez que as agravantes não apresentaram argumentos jurídicos aptos a motivar a modificação da decisão agravada.
+Como assentado na decisão atacada, a pretensão trazida no apelo nobre quanto à alegada violação aos arts. 944 e 945, parágrafo único, do CC/2002, cinge-se em afastar a indenização a título de dano moral, porquanto o referido abalo efetivamente não ocorreu. No caso, o eg. TJ-RJ firmou entendimento de que o dano moral foi configurado, ante a frustração da expectativa da agravada quanto à data em que o imóvel adquirido estaria à sua disposição, ocasionando aborrecimentos que superam os do cotidiano. A título elucidativo, decalca-se o seguinte trecho do v. acórdão local (fls. 625-626):
+"O atraso na entrega do bem também impediu que a Apelada passasse a residir no imóvel próprio, necessitando arcar com o custo de aluguéis até a entrega das chaves, comprovados às fls. 143/146, tendo sido a indenização por dano material a esse título corretamente imposta às Apelantes.
+Outrossim, a sentença determinou que o valor a ser pago seja apurado em liquidação, comprovando a Apelada o pagamento de tais alugueis, considerando-se o período compreendido entre a data em que o imóvel deveria ter sido entregue até a data da efetiva entrega, o que não merece reparo.
+O dano moral, por sua vez, ficou configurado, pois, inegavelmente, a frustração da expectativa da Apelada quanto à data em que o imóvel adquirido estaria à sua disposição, por certo lhe causou aborrecimentos que superam os do cotidiano.
+O quantum da indenização deve ser fixado com moderação para que não seja tão elevado a ponto de ensejar enriquecimento sem causa para a vítima do dano, nem tão reduzido que não se revista de caráter preventivo e pedagógico para o seu causador.
+Logo, o montante de 5.000,00 (cinco mil reais), arbitrado na sentença, não comporta a redução pretendida pelas Apelantes, pois se mostra adequado a critérios de razoabilidade e de proporcionalidade e à repercussão dos fatos narrados nestes autos, sendo aplicável, neste caso, o entendimento consagrado na Súmula 343 deste Tribunal de Justiça" (grifou-se)
+Observando o trecho acima transcrito, tem-se que a pretensão de alterar o entendimento firmado pelo eg. TJ-RJ ensejaria o revolvimento de matéria fático-probatória, o que é inviável nesta estreita via recursal, consoante disposto na Súmula 7/STJ.
+Nessa linha de intelecção, além dos precedentes colacionados na decisão agravada, confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico. 1.1. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+1.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido."
+(AgInt no REsp 1.751.684/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2018, DJe de 10/10/2018 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA.ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES.PRESUNÇÃO DO PREJUÍZO. APLICAÇÃO DA SÚMULA N. 83/STJ.DANO MORAL, NO CASO CONCRETO, CONFIGURADO.APLICAÇÃO DA SÚMULA N. 7/STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+2. Em relação aos danos morais, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade.
+3. No caso concreto, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu pela existência de danos morais.
+Assim, alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo não provido."
+(AgInt no REsp 1.743.230/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/09/2018, DJe de 28/09/2018 - grifou-se)
+Quanto à pretensão de reduzir o valor da referida indenização, melhor sorte não socorre o recurso.
+Como sabido, a uníssona jurisprudência desta eg. Corte firmou-se no sentido de que a pretensão de alterar o valor da indenização a título de danos morais esbarra na já mencionada Súmula 7/STJ, a qual é afastada, excepcionalmente, quando fixada em quantum irrisório ou exorbitante.
+Na espécie, a indenização foi estabelecida em R$ 5.000,00 (cinco mil reais), valor que não se mostra exorbitante, não caracterizada a excepcionalidade que justifica o afastamento da referida Súmula.
+Avançando nas razões do agravo, melhor sorte não socorre os agravantes no tocante ao conhecimento do apelo nobre pela alínea c do permissivo constitucional.
+Sabe-se que o recurso especial interposto com fundamento na alínea c do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do cotejo analítico, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados.
+No caso, o dissídio jurisprudencial não foi devidamente demonstrado, na medida em que, tal como apresentado o cotejo analítico, tem-se que o paradigma (EREsp 670.117/PB) não se embasou no mesmo fundamento legal do v. acórdão recorrido. Assim, é patente a ausência de similitude jurídica entre os arestos em comparação.
+Com essas considerações, tem-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
