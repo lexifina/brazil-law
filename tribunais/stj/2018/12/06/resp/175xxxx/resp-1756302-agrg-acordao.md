@@ -1,0 +1,75 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. PENA ACESSÓRIA. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. COTEJO ANALÍTICO. NECESSIDADE.
+1. Para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+2. Não tendo sido demonstrada a divergência nos termos em que exigido pela legislação processual de regência (art. 1.029, § 1º, do NCPC, c/c art. 255 do RISTJ), não pode ser conhecido o recurso especial interposto com fundamento na alínea "c" do permissivo constitucional.
+PERDA DA FUNÇÃO PÚBLICA. POLICIAL MILITAR. DECISÃO FUNDAMENTADA.
+1. A perda do cargo ou função pública, como efeito da condenação, não é automática, exigindo fundamentação expressa e específica, conforme ocorrido na espécie.
+2. Ausência de qualquer ilegalidade na decisão que utiliza-se de fundamentação concreta e adequada para manter a pena de perda do cargo público do réu, diante do preenchimento dos requisitos de ordem objetiva e subjetiva.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de regimental interposto por [NOME] contra a decisão unipessoal de fls. 912/917 (e-STJ) que negou provimento ao recurso especial da defesa.
+Alega o agravante que a pena acessória de perda função pública de policial militar foi desarrazoada, uma vez que se deu, exclusivamente, com fulcro no quantum da pena aplicada, sem que fosse apresentada fundamentação dos motivos que ensejaram a aplicação da penalidade.
+Pondera que a perda de função pública, por violação de dever inerente a ela, necessita ser por crime cometido no exercício dessa função, valendo-se o acusado do cargo para a prática do crime.
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Os elementos existentes nos autos indicam que o recorrente foi denunciado pelos crimes de homicídio e lesão corporal, por ter, na qualidade de policial militar, sem estar no exercício da função, em razão de briga no interior de um bar, efetuado dois disparos de arma de fogo, matando a primeira vítima e causando lesão corporal na segunda, incurso nos artigos 121, caput e 129, caput, c/c o artigo 61, inciso II, alínea "g" e 69, todos do Estatuto Repressivo. (e-STJ, fls,. 1/3)
+Julgada procedente a denúncia o réu foi condenado pelo Tribunal do Juri à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, bem como o pagamento de indenização de R$15.000,00 (quinze mil reais), além da perda do cargo público. (e-STJ, fls. 746/750)
+A sentença foi mantida pela Corte de origem, em apelação da defesa. (e-STJ, fl. 818)
+Nas razões do apelo nobre (e-STJ, fls. 854/869), a defesa apontou dissídio jurisprudencial e alegou violação do artigo 92, inciso I, alínea "b", do Código Penal, sustentando que a perda de função pública, por violação de dever funcional, só ocorre se o crime é cometido no exercício da função, valendo-se o acusado do cargo para a prática do crime.
+Aduziu, ainda, que a simples menção ao tipo legal sem que haja a fundamentação escorreita e integral dos motivos os quais ensejaram a perda do cargo são insuficientes para que haja a validade da decisão judicial a qual impusera uma pena de cunho acessório.
+Requereu, ao final, o provimento do especial para reforma do acórdão recorrido.
+Contrarrazoada a insurgência (e-STJ, fls. 875/882), após o juízo prévio de admissibilidade (e-STJ, fl. 895), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do inconformismo (e-STJ, fls. 905/909).
+Por decisão monocrática desta Relatoria, negou-se provimento ao recurso especial.
+Daí a apresentação deste regimental pela defesa.
+A irresignação, porém, não merece prosperar.
+Inicialmente, conforme ficou consignado na decisão agravada, no que se refere à divergência jurisprudencial, verifica-se que o réu limitou-se a citar a ementa dos acórdãos. Cumpre dizer que, para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+Nesse sentido, veja-se:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, IV DO CP). ALEGAÇÃO DE NULIDADE DA PRONÚNCIA. CONTRARIEDADE ENTRE FUNDAMENTAÇÃO E DISPOSITIVO. AUSÊNCIA DE COMPROVAÇÃO DE DISSÍDIO JURISPRUDENCIAL.  ..
+I - A interposição do apelo extremo interposto com fulcro na alínea c, do inciso III, do art. 105 da Constituição Federal, exige o atendimento dos requisitos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno desta Corte, para a devida demonstração do alegado dissídio jurisprudencial, pois além da transcrição de acórdãos para a comprovação da divergência, é necessário o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu na espécie.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp 916829 / SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, Julgado em 06/03/2018, DJe 14/03/2018)
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. QUALIFICADORAS. RECONHECIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO DEMONSTRADO. OFENSA A DISPOSITIVO DE LEI FEDERAL. ART. 206 DO CÓDIGO DE PROCESSO PENAL. TESTEMUNHA. FILHA DO RÉU. OITIVA. INDEFERIMENTO. NULIDADE. CERCEAMENTO DE DEFESA. PREJUÍZO. DEMONSTRAÇÃO. AUSÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Na esteira da jurisprudência desta Corte Superior, o conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnados e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, não sendo suficiente a simples transcrição de ementas ou votos sem a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+ ..
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1437794 / SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, Julgado em 01/03/2018, DJe 12/03/2018)
+Assim, uma vez que a divergência não foi demonstrada nos termos em que exigido pela legislação processual de regência (art. 1.029, § 1º, do NCPC, c/c art. 255 do RISTJ), não se conhece do recurso interposto com fundamento na alínea "c" do permissivo constitucional.
+Acerca da perda do cargo público, colhe-se o seguinte excerto do acórdão proferido pelo Tribunal a quo ao examinar o tema, litteris:
+Diferentemente do que diz o apelante, o Juiz singular o condenou à perda do cargo público, em razão da sua pena ter sido aplicada em patamar superior a quatro anos de reclusão - artigo 92, inciso I, alínea b, do Código Penal.
+A perda do cargo público é pena acessória, aplicada ao réu quando sobrevir condenação à pena privativa de liberdade superior a quatro anos, não importando a natureza do crime cometido pelo agente. Na hipótese dos autos, o apelante foi condenado à pena de cinco anos de reclusão, em regime inicialmente semiaberto.
+Ressalto que a Lei contém essa previsão, porque a intenção do legislador foi de conferir maior gravidade à conduta daqueles que investidos em cargos ou funções públicas, praticam crimes graves. (..)
+Vê-se que o requisito objetivo exigido pela Lei foi preenchido, já que o apelado foi condenado à pena de cinco anos de reclusão. Do mesmo modo, julgo que a fundamentação utilizada pelo Juiz singular se mostra expressa, específica e suficiente, razão pela qual a Sentença deve ser mantida. (e-STJ, fls. 815/818)
+Por sua vez o Juízo de origem manifestou nestes termos, in verbis:
+Compulsando-se os autos, observa-se que o réu agiu impelido por impulso, sendo que o fato ocorreu no interior do bar, local de elevado fluxo de pessoas e de consumo de bebida alcoólica.
+Imperioso destacar que o fato iniciou no interior de um bar, local de confusão generalizada, ocasião em que várias pessoas travaram luta corporal, inclusive com arremesso de várias garrafas, conforme relatado pelas testemunhas, tornando-se impossível a identificação adequada da responsabilidade de cada pessoa que participava da briga.
+O Tribunal do Júri ao apreciar o mérito, decidiu que o réu foi o autor dos disparos efetuados por arma de fogo e que foram a causa eficiente da morte da vitima [NOME]. (..)
+O réu alegou que após a primeira briga ocorrida no interior do bar, levou a sua amiga que estava ferida para o carro, momento em que pegou a arma de fogo que estava debaixo do banco do veículo. De posse da arma, voltou para o interior do bar visando buscar uma pessoa que estava acompanhando o seu grupo.
+Ocorre que ao adentrar no bar, já armado, avistou a vítima e foi ao seu encontro, ocasião em que falou para ela que a sua amiga encontrava-se ferida em decorrência da briga anterior.
+Na qualidade de policial militar, deveria saber que não deveria ter voltado ao bar, tendo em vista a proporção da confusão generalizada. Ficou evidente que retomou para tomar satisfação com a vítima.
+As circunstâncias do crime revelam o despreparo para o exercício do cargo público, pois ao se apossar da arma de fogo, retornar ao local do fato para retalhar o comportamento da vítima, fica evidente o descontrole emocional e que afeta a sua função de policial militar.
+A arma de fogo utilizada no cometimento do ilícito era da corporação, motivo pelo qual se impõe a perda do cargo como necessária medida de prevenção e de reprovação do crime.
+O crime cometido pelo réu foi extremamente grave, visto que tirou a vida de uma pessoa cm uma briga de bar, demonstrando ser incompatível para continuar a exercer um cargo em uma instituição tão respeitada como a Polícia Militar, ainda mais quando se tem em mente que o crime de homicídio foi praticado com uma arma de fogo da própria corporação, no momento em que o acusado não encontrava-se exercendo a função de policial militar. (..)
+Por oportuno, que a perda da função pública decretada não afronta o princípio da ampla defesa, uma vez que, sendo efeito secundário específico da condenação, desnecessário que o pedido esteja expresso na exordial acusatória. (e-STJ, fls. 746/749)
+Dessarte, verifica-se que o acórdão recorrido se encontra alinhado com a jurisprudência deste Sodalício, a qual se firmou no sentido de que a perda do cargo público, como consequência extrapenal, não é automática, exigindo fundamentação expressa e específica.
+In casu, verifica-se que foram preenchidos tanto o requisito objetivo (pena de 5 anos), bem como o requisito subjetivo, quando bem fundamentou as instâncias ordinárias. Eis a justificativa: "As circunstâncias do crime revelam o despreparo para o exercício do cargo público, pois ao se apossar da arma de fogo, retornar ao local do fato para retalhar o comportamento da vítima, fica evidente o descontrole emocional e que afeta a sua função de policial militar."
+Nesse sentido, confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE CORRUPÇÃO PASSIVA. POLICIAIS CIVIS. PENA-BASE. INIDONEIDADE DA FUNDAMENTAÇÃO NÃO VERIFICADA. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PERDA DO CARGO PÚBLICO. DELITO PRATICADO COM VIOLAÇÃO DE DEVER PARA COM A ADMINISTRAÇÃO PÚBLICA.
+(..)
+5. A jurisprudência desta Corte Superior é no sentido de que o reconhecimento de que o réu praticou ato incompatível com o cargo por ele ocupado é fundamento suficiente para a decretação do efeito extrapenal de perda do cargo público (AgRg no REsp 1613927/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 20/09/2016, DJe 30/09/2016).
+6. No presente caso, assim como reconhecido pelas instâncias originárias, a condenação dos policiais civis ao cumprimento de pena de 3 anos de reclusão em razão da prática do delito do art. 317 do CP, possibilita a determinação da perda do cargo público por evidente violação de seus deveres funcionais para com a Administração Pública, uma vez que, por meio dos seus cargos, solicitaram e receberam da vítima, no exercício de suas funções, vantagem indevida para que pudessem recuperar um veículo que havia sido furtado.
+7. Agravo regimental parcialmente provido para redimensionar a pena dos agravantes para 2 anos e 8 meses de reclusão e 13 dias-multa.
+(AgRg no REsp 1726444/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/09/2018, DJe 21/09/2018)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA QUALIFICADA. INTERCEPTAÇÃO TELEFÔNICA. NULIDADES. VIOLAÇÃO DOS ARTS. 2º, II, 5º E 6º, § 1º, DA LEI N. 9.296/1996. INEXISTÊNCIA DE ILEGALIDADE. DOSIMETRIA. PENA ACESSÓRIA DE PERDA DO CARGO. MANUTENÇÃO. FUNDAMENTO NO ART. 92, I, A, DO CP.  .. .
+5. No que se refere à perda do cargo, de fato, não há nenhuma ilegalidade na decisão agravada, uma vez que lançou fundamentação concreta e adequada a fim de manter a pena de perda do cargo público do recorrente, lastreada na assertiva de que a pena é superior a 1 ano e de que houve violação dos deveres inerentes ao próprio cargo ocupado (policial).
+6. Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1549748/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/04/2016, DJe 03/05/2016)
+Dessarte, não merece amparo a insurgência recursal da defesa.
+Por essas razões, nega-se provimento ao agravo regimental.
+É como voto.
