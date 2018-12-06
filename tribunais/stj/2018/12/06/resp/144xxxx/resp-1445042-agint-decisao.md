@@ -1,0 +1,20 @@
+DECISÃO
+Tendo em vista as razões do agravo interno, reconsidero a decisão agravada.
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO. CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. FINANCIAMENTO DE IMÓVEL. QUITAÇÃO DE TODAS AS PRESTAÇÕES AVENÇADAS NO PRAZO DE AMORTIZAÇÃO. SALDO RESIDUAL.PRORROGAÇÃO DO CONTRATO. IMPOSSIBILIDADE DE IMPUTAÇÃO DO ÔNUS DECORRENTE DA EVOLUÇÃO DO CONTRATO UNILATERALMENTE AO MUTUÁRIO. EXTINÇÃO DO CONTRATO DE MÚTUO.
+1. Cinge-se o deslinde da controvérsia à possibilidade de o INSS, sucessor do IPASE, prorrogar, unilateralmente, o contrato de financiamento de imóvel com o propósito de adimplir saldo remanescente ao pagamento, pelo mutuário, de todas as prestações inicialmente pactuadas.
+2. Ante a ausência de previsão contratual de saldo residual, o princípio enunciado pelo pacta sunt servanda se concretiza justamente no pagamento das 240 prestações mensais.
+2. Quitadas todas as prestações do contrato de mútuo habitacional no prazo de amortização avençado, não assiste razão à instituição financeira em responsabilizar o mutuário por saldo devedor residual, tendo em vista não ter sido a conduta do devedor no cumprimento do contrato a causadora da existência da referida dívida. Precedentes deste Tribunal.
+3. Não se pode imputar unilateralmente ao mutuário as distorções havidas em decorrência do mútuo habitacional firmado segundo as regras da equivalência salarial, que pressupõe critérios diversos para o reajuste do saldo devedor e das prestações mensais culminando com a existência de, mesmo tendo sido pagas todas as prestações no valor e no prazo acordados, saldo devedor residual.
+4. Evidente a boa-fé do mutuário que firmou o contrato de mútuo desconhecendo por completo as conseqüências da eleição dessa sistemática prevista em lei e criada para viabilizar a aquisição da casa própria notadamente pela população de menor renda.
+5. Dada a natureza jurídica do contrato de mútuo, o mutuário possui o direito subjetivo de ver extinta a sua dívida, uma vez adimplidas as prestações periódicas e contínuas ajustadas. Desvirtuamento do contrato de mútuo, convertido em ajuste de aluguel, pela insolvabilidade crescente imputada ao prestamista, resultando na perda do imóvel.  ..  Face à responsabilidade social, do estado, saldos remanescentes ao final do contrato deverão ser por ele absorvidos. (AGTR 54105/CE; Rel. Desembargador Federal FRANCISCO CAVALCANTI.)
+6. Reconhecimento da quitação do imóvel amparado na necessidade de reequilíbrio contratual, na preservação da finalidade do Sistema Financeiro da Habitação e no imperativo de clareza do desenvolvimento dos valores da dívida.
+7. Impossibilidade de reduzir a verba honorária, porquanto o valor fixado é adequado a diversos precedentes dessa eg. Corte e ao tempo de tramitação processual, de cerca de dezessete anos.
+Remessa obrigatória e apelação desprovidas.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alega a recorrente violação dos artigos 1º e 61 da Lei 4.380/1964 e 884 do Código Civil.
+Não merece reforma o acórdão recorrido, o qual foi publicado antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+É certo que este Superior Tribunal consolidou o entendimento de que "nos contratos de financiamento celebrados no âmbito do SFH, sem cláusula de garantia de cobertura do FCVS, o saldo devedor residual deverá ser suportado pelo mutuário" (REsp 1447108/CE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 22.10.2014, DJe 24.10.2014, pelo rito dos recursos repetitivos).
+Ocorre que, no caso dos autos, o acórdão recorrido expressamente afirmou que "o próprio contrato não consigna cláusula relativa ao saldo residual" (fl. 112/e-STJ). A revisão desse fundamento demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pelas Súmulas 5 e 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
