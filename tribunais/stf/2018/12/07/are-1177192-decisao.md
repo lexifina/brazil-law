@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da Primeira Região, assim ementado (eDOC 16, p. 19):
+    “ADMINISTRATIVO. REESTRUTURAÇÃO DA IMPRENSA NACIONAL. DISCRICIONARIEDADE DA ADMINISTRAÇÃO. INTERESSE PÚBLICO. DELEGAÇÃO PELO PRESIDENTE DA REPÚBLICA. LEGITIMIDADE. REDISTRIBUIÇÃO DE CARGOS. OBSERVÂNCIA AO DISPOSTO NO ART. 37 DA LEI N. 8.112/90. SENTENÇA MANTIDA.
+    1. Discute-se nos presentes autos a legalidade dos atos administrativos praticados pela União, que resultaram na reestruturação/reorganização da Imprensa Nacional, na redistribuição dos servidores do quadro de pessoal e, ainda, na transferência da administração e do controle para a Diretoria de Recursos Humanos, Orçamento e Finanças da Secretaria de Administração da Casa Civil da Presidência da República.
+    2. A reestruturação da Imprensa Nacional está inserta no poder discricionário da administração, fundado na liberdade de escolha pelo administrador dos critérios de conveniência e oportunidade, de sorte que é vedado ao Poder Judiciário valorar o motivo e o conteúdo do ato impugnado.
+    3. Os documentos acostados aos autos, inclusive pelos próprios autores, demonstraram a necessidade de reestruturação da Imprensa Nacional a fim de adequá-la aos novos tempos, de modo que o administrador, por dever de ofício, procedeu à reestruturação ora combatida.
+    4. Embora a situação fática tenha trazido desconforto para alguns, tal ocorrência é irrelevante para se aferir a legitimidade do ato público, que deve estar sempre voltado para melhor atender ao interesse da coletividade que, no caso em apreço, restou devidamente demonstrado.
+    5. A Imprensa Nacional é órgão essencial integrante da estrutura básica da Casa Civil da Presidência da República, sendo plenamente legítima a atribuição conferida ao Presidente da República para regulamentar a organicidade desse órgão, mediante aprovação ou transformação das estruturas regimentais; atribuição esta que se apresenta passível de delegação, por não se identificar como ato privativo do Presidente da República, previsto no art. 84 da CF/88.
+    6. A redistribuição de cargos se deu em conformidade com o art. 37 da Lei n. 8.112/90, uma vez que se deu em razão da necessidade de ajustamento de lotação e da força de trabalho, em decorrência da nova estrutura da Imprensa Nacional.
+    7. Correta a sentença ao concluir pela inexistência de ilegalidades, ao fundamento de que o ato de reestruturação da Imprensa Nacional, com consequente deslocamento de cargos, decorreu de ponderado trabalho sobre a modernização e dinamização do órgão, buscando atender ao interesse geral de uma melhor prestação do serviço público.
+    8. Apelação não provida.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV; e 37, caput, incisos II e III, da Constituição Federal.
+    Nas razões recursais, sustenta-se que “a recorrida redistribuiu servidores enquadrados em cargos em extinção sobre o pretexto de que suas funções deixariam de existir, ao mesmo tempo em que manteve um número superior de prestadores de serviços contratados (via terceirização) para o desempenho destas atividades, como, por exemplo, a de motoristas, o que demonstra a burla ao princípio do concurso para acesso ao cargo público.” (eDOC 16, p.86).
+    Defende-se, que “a circunstância de o cargo estar em extinção não se constitui em motivação suficiente, muito menos encontra o necessário respaldo legal para a redistribuição de servidor”. (eDOC 17, p. 3)
+    A Vice-Presidência do TRF/1ª Região inadmitiu o recurso ante o óbice da súmula 279/STF (eDOC 17, pp. 50/51).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 16, p. 12/17):
+    “Discute-se nos presentes autos a legalidade dos atos administrativos praticados pela União, que resultaram na reestruturação/reorganização da Imprensa Nacional, na redistribuição dos servidores do quadro de pessoal e, ainda, na transferência da administração e do controle da FUNIN para a Diretoria de Recursos Humanos, Orçamento e Finanças da Secretaria de Administração da Casa Civil da Presidência da República.
+    Apreciando os documentos acostados aos autos, verifico que não merece reforma a sentença guerreada pelas razões que se seguem.
+    (...)
+    Os documentos acostados aos autos, inclusive pelos próprios autores, demonstraram a necessidade de reestruturação da Imprensa Nacional a fim de adequá-la aos novos tempos. (...).
+    Percebe-se, assim, que o administrador, por dever de ofício, procedeu à reestruturação ora combatida que, inclusive, foi antecedida por estudo detalhado, que detectou as falhas estruturais da Imprensa Nacional (...).
+    Da leitura do regramento legal, percebe-se que o ato de redistribuição é impositivo ao Administrador sempre que a situação fática o reclama, que no caso em apreço restou demonstrada em razão da necessidade de ajustamento de lotação e da força de trabalho, em decorrência da nova estrutura da Imprensa Nacional.
+    (...)
+    Com a adoção desse prévio critério objetivo, o ato de deslocamento de cargos foi concretizado em três segmentos (fl. 707): 1º) 39 (trinta e nove) cargos, fruto de extinção das atividades com a nova estrutura da Imprensa Nacional, foram colocados à disposição do Ministério do Planejamento, Orçamento e Gestão, para serem redistribuídos a outros órgãos; 2º) 5 (quinze) cargos pertinentes à atividades transferidas para o Arquivo Nacional, foram remanejados para esse órgão, também integrante da estrutura básica da Casa Civil da Presidência da República; 3º) 199 (cento e noventa e nove) cargos já declarados em extinção e integrantes do Quadro em Extinção, na forma da Lei n. 9.632/98, foram postos à disposição do Ministério do Planejamento, Orçamento e Gestão, para serem redistribuídos ao outros órgãos enquanto não extintos pela vacância.
+    (...).”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e o exame da legislação infraconstitucional, o que inviabiliza o processamento do apelo extremo, tendo em vista a ausência de ofensa direta ao texto constitucional e a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do CPC.
+    Publique-se.
+    Brasília, 07 de dezembro de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
