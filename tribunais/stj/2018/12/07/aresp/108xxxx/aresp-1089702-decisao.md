@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). PLANO DE SAÚDE. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REAJUSTE POR FAIXA ETÁRIA. AUSENTE PREVISÃO CONTRATUAL. REEXAME. SÚMULAS 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+PLANO DE SAÚDE. REAJUSTE POR FAIXA ETÁRIA. AUSÊNCIA DE PREVISÃO CONTRATUAL NOS MOLDES LEGAIS. ABUSIVIDADE RECONHECIDA. Insurgência contra sentença de procedência. Afastamento dos reajustes praticados em decorrência da alteração de faixa etária. Alegação de que cláusula de reajuste respeitaria Lei 9.656/98. Inaplicabilidade do Estatuto do Idoso ao reajuste aplicado aos 59 anos. Não acolhimento. Violação da Lei 9.656/98 e da Resolução Normativa n. 63 da ANS. Ausência de previsão contratual dos percentuais incidentes por faixa etária. Previsão genérica de reajuste por faixa etária insuficiente. Dever de informação violado. Sentença mantida. Recurso desprovido.(e-STJ fl. 157)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 174/176)
+Nas razões do recurso especial, a recorrente aponta violação aos artigos 535, II, do Código de Processo Civil; 6º, §§ 1º e 2º, da Lei de Introdução às Normas de Direito Brasileiro, e 421 do Código Civil. Sustenta que o Tribunal foi omisso ao rejeitar os embargos de declaração sem pronunciamento sobre as questões deduzidas, sobretudo quanto à manutenção do equilíbrio econômico-financeiro em respeito ao pactuado pelas partes. Defende, em síntese, que o índice de reajuste do valor da mensalidade do plano de saúde decorre de previsão contratual, não havendo falar em abusividade.
+Contrarrazões ao recurso especial apresentadas, às fls. 323/336 e-STJ, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 349/351 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme Enunciado Administrativo nº. 2/STJ.
+A pretensão recursal não merece prosperar.
+No tocante à suposta ofensa ao art. 535, do CPC, não há falar em nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Quanto ao cerne da controvérsia, qual seja, a abusividade do reajuste do plano de saúde por mudança de faixa etária, restou consignado no acórdão combatido que:
+No caso em tela, contudo, a despeito de a apelante afirmar que os reajustes seriam regulares, porque em consonância com as normas em comento, não logrou êxito em demonstrar suas alegações.
+A recorrente não trouxe aos autos, juntamente com a contestação, cópia do instrumento contratual que, de acordo com suas alegações, respeitaria o artigo 15 da Lei 9.656/98.
+Por outro lado, o contrato trazido juntamente com a inicial não traz nenhuma tabela com índices de reajustes, mas apenas previsão genérica de possibilidade de reajuste dos valores em decorrência de alteração de faixa etária (ps. 16/18 cl. 16).
+Sob esse aspecto, era medida de rigor o afastamento do reajuste reclamado de 84,33%.
+A apelante omitiu os percentuais de reajuste por mudança de faixa etária, no momento da contratação, impedindo, inclusive, a realização de cálculo para verificar eventual obediência aos ditames da ANS. Sendo assim, violou não só os requisitos da Lei 9.656/98 para reajuste por faixa etária, como também o dever genérico de informação (art. 6º, III, CDC).
+Com isso, não se pode admitir aumento por alteração de faixa etária que não havia sido regularmente informado, tampouco aceito, pela consumidora no momento da contratação.
+Reconhecida a abusividade do reajuste, merece ser mantida a condenação à devolução dos valores pagos a maior, como determinada na sentença.(e-STJ fls. 158/159)
+Dessa forma, para se chegar à conclusão diversa da que chegou o eg. Tribunal a quo, a respeito da irregularidade do pretendido reajuste do plano de saúde, seria inevitável o revolvimento do arcabouço fático-probatório e a interpretação de cláusula contratual, procedimentos inviáveis na instância especial, a teor das Súmulas nºs 5 e 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM ECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1.  ..
+2. De acordo com a jurisprudência da Segunda Seção, quando do julgamento do REsp nº 1.280.211/SP, é idôneo, em princípio, o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária do participante, pois com o incremento da idade há o aumento de risco de a pessoa vir a necessitar de serviços de assistência médica. Mas, para evitar abusividades, devem ser observados alguns parâmetros, como: 1) a expressa previsão contratual; 2) não serem aplicados índices de reajuste desarrazoados ou aleatórios, que onerem excessivamente o consumidor, em manifesto confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso, dado que aumentos elevados sobretudo para essa última categoria poderá, de forma discriminatória, impossibilitar a sua permanência no plano; e serem respeitadas as normas expedidas pelos órgãos governamentais (Resolução CONSU nº 6/98 ou Resolução Normativa nº 63/2003 da ANS).
+3. No presente caso o Tribunal de origem, analisando os elementos fático-probatórios dos autos, concluiu pela abusividade no percentual de reajuste aplicado no valor das mensalidades do plano de saúde. A reforma do aresto, neste aspecto, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 1254336/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 04/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. GEAP. OPERADORA DE AUTOGESTÃO. REAJUSTE DA MENSALIDADE. ABUSIVIDADE. CDC. REEXAME DE CLÁUSULAS E DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. O Tribunal de origem, ao analisar o reajuste das mensalidades do plano de saúde, delineou a controvérsia dentro do conjunto probatório dos autos, concluindo, assim, pelo caráter abusivo do aludido reajuste aplicado e pela necessidade de restituição dos valores pagos a maior. Nesse contexto, a revisão do julgado demandaria a imprescindível interpretação das cláusulas do contrato e o reexame de fatos e provas dos autos, providências vedadas no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2. É inviável o conhecimento do dissídio jurisprudencial quando a questão foi decidida com base nas peculiaridades fáticas dos casos, a justificar a incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1045603/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
