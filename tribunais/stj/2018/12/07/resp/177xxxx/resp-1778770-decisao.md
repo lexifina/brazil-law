@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de recurso especial interposto por QUEIROZ GALVÃO STAR DESENVOLVIMENTO IMOBILIÁRIO LTDA. com amparo na alínea "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 397, e-STJ):
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA Rescisão contratual motivada pelo desinteresse do adquirente Devolução dos valores pagos, com retenção - Sentença que fixou retenção de 10% dos valores pagos - Pretensão da ré de majoração conforme termos do contrato Caso concreto que demonstra ser razoável a retenção no percentual de 20% dos valores pagos a título de indenização pelas despesas geradas, segundo entendimento do STJ e precedentes desta C. Câmara - Taxa condominial - Sentença extra petita Ocorrência - Condenação da ré na restituição de valores de condomínio Pedido inexistente Nulidade parcial da sentença acolhida para afastar tal condenação Princípio da adstrição e inteligência do art. 492 do CPC/2015 - Juros de mora - Responsabilidade contratual Incidência dos juros a contar da citação nos termos do art. 405 do CC - DERAM PARCIAL PROVIMENTO AO RECURSO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 403/420, e-STJ), a insurgente apontou suposta violação aos artigos 113, 187 e 422 do Código Civil. Sustentou que os apelados deram causa à rescisão do contrato e que a retenção de 20% se mostra insuficiente para reparar os prejuízos sofridos. Alegou que os juros de mora devem incidir a contar do trânsito em julgado da ação.
+Sem contrarrazões.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A jurisprudência do Superior Tribunal de Justiça tem considerado razoável que o percentual de retenção, pelo vendedor, de parte das prestações pagas seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados, notadamente com "as despesas administrativas havidas com a divulgação, comercialização e corretagem, o pagamento de tributos e taxas incidentes sobre o imóvel e a eventual utilização do bem pelo comprador". (REsp 1.224.921/PR, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26/04/2011, DJe 11/05/2011).
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA SOBRE ESSE MESMO BEM. INADIMPLEMENTO DOS COMPRADORES. RESCISÃO DO NEGÓCIO. DEVOLUÇÃO DOS VALORES PAGOS. NECESSIDADE DE ALIENAÇÃO DO IMÓVEL PARA QUITAÇÃO DA DÍVIDA. INAPLICABILIDADE DA LEI N. 9.514/1997. AGRAVO IMPROVIDO.
+1. Não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. O Tribunal de origem admitiu a pretensão de desfazimento do negócio com restituição parcial dos valores pagos sem necessidade de alienar o bem dado em garantia, como alegado pela construtora com amparo na Lei n. 9.514/1997, porque o contrato não teria sido levado a registro no Registro de Imóveis. A alegação deduzida no recurso especial, de que não seria necessário levar o contrato a registro para que ele tivesse eficácia entre as partes, vem amparada na indicação de ofensa a dispositivos legais que, pelo seu conteúdo, não servem para dar sustentação a essa tese.
+3. A jurisprudência desta Corte, em casos análogos, de resolução do compromisso de compra e venda por culpa do promitente comprador, entende ser lícito ao vendedor reter entre 10% e 25% dos valores pagos.
+ 4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1361921/MG, Rel. Min. Marco Aurélio Bellizze, DJe de 01/07/2016; grifou-se).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 10%. RAZOABILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% a 25% do total da quantia paga.
+2. O percentual a ser retido pelo vendedor é fixado pelas instâncias ordinárias em conformidade com as particularidades do caso concreto, de maneira que não se mostra adequada sua revisão na via estreita do recurso especial.
+3. O Tribunal de origem, ao analisar os documentos acostados aos autos, bem como o contrato firmado entre as partes, entendeu abusiva a cláusula contratual que previa a retenção de 25% do valor das quantias pagas em caso de rescisão por inadimplemento. Analisando as peculiaridades do caso, fixou a retenção em 10% do valor das parcelas pagas, o que não se distancia do admitido por esta Corte Superior.
+4. Agravo regimental não provido.
+(AgRg no AREsp 600.887/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015; grifou-se)
+No caso, o Tribunal de origem, soberano na análise do material cognitivo dos presentes autos, concluiu que 20% sobre os valores pagos seria o suficiente para indenizar a recorrente pelos prejuízos decorrentes da rescisão contratual.
+Vejamos (fls. 398/399, e-STJ):
+Restou incontroverso que a autora perdeu o interesse na negociação, pleiteando a rescisão com devolução das quantias quitadas. A ré não apresentou oposição à rescisão contratual, que fora declarado pelo MM. Juízo de primeiro grau.
+A r. sentença declarou, ainda, a abusividade da cláusula contratual acerca da retenção prevista por entende-la excessiva, ajustando tal percentual para o montante de 10% das quantias efetivamente pagas com fundamento nos recentes entendimentos do Superior Tribunal de Justiça e deste E. Tribunal de Justiça.
+Com efeito, admitido o direito de o adquirente recuperar o dinheiro pago, é de se contrapor que ao contratar, ela gerou despesas ao vendedor, relativas às operações de venda, publicidade etc, donde se aplicar de percentual do valor exatamente para recompor o patrimônio da parte que adimpliu o contrato e que, ipso facto, não pode ser prejudicada (artigo 475, do Código Civil).
+Tal linha vem sendo adotada pelos precedentes do C. Superior Tribunal de Justiça, que admite a flutuação da retenção entre os valores de 10% e 25% dos valores pagos, deixando claro que o percentual a ser retido será avaliado conforme as peculiaridades do caso concreto.
+No caso dos autos, nada há que justifique a retenção no percentual máximo ou mínimo da flutuação delimitada pela jurisprudência, motivo pelo qual deve ser revisto o entendimento de primeiro grau para estabelecer a retenção na ordem de 20% sobre as quantias até então pagas pelo adquirente, considerando as recentes decisões desta C. Câmara em casos similares.
+Vale notar que a incidência do percentual de 20% sobre as quantias pagas não caracteriza valor excessivo, ao contrário, configura montante proporcional e adequado ao caso dos autos, tendo em vista a necessidade de repor as partes ao estado anterior e considerando que a rescisão foi motivada pelos adquirentes.
+Assim, para rever este entendimento sobre o percentual adequado de, seria necessária a incursão no acervo probatório dos autos, bem como ensejaria uma análise do contrato, providências vedadas em sede de especial, a teor das Súmulas 5 e 7/STJ.
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados.
+1.1. Desse modo, a discussão acerca do percentual de retenção, no caso, pressupõe o reexame dos fatos da causa, bem como das cláusulas do respectivo contrato, o que encontra obstáculo nos enunciados 5 e 7 da Súmula do STJ.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1337449/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018; grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. PARCELAS PAGAS. RETENÇÃO PARCIAL. CABIMENTO. PERCENTUAL RETIDO. ALTERAÇÃO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados" (AgInt no AREsp n. 725.986/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/6/2017, DJe 29/6/2017).
+2. O recurso especial não comporta exame de questões que impliquem análise de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. O Tribunal de origem analisou o contrato e as demais provas contidas no processo para concluir que o percentual aplicado pela agravante, para a retenção parcial da quantia paga pelo consumidor, era abusivo. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1692346/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 26/04/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. COMPROMISSO DE VENDA E COMPRA DE IMÓVEL. 1. PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 2. RETENÇÃO DE 25% EM FAVOR DA VENDEDORA, COMO RESSARCIMENTO DE DESPESAS, INCLUSIVE A TÍTULO DE OCUPAÇÃO DO BEM. MODIFICAÇÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. A tese recursal acerca da prescrição não foi objeto de debate pelo Tribunal de origem, e, embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não foi indicada no apelo nobre a contrariedade ao art. 535 do Código de Processo Civil de 1973, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula n. 211 do STJ.
+2. Tendo o Tribunal estadual, soberano na análise das provas, concluído que a retenção de 25% do valor quitado seria capaz de recompor os prejuízos da empresa agravante, não se mostra possível modificar tal conclusão por demandar o reexame do conjunto fático-probatório dos autos e a análise de cláusulas do contrato, procedimentos sabidamente vedados na via do recurso especial (Súmulas n. 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1090125/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/09/2017, DJe 28/09/2017)
+2. No que respeita à data inicial de incidência dos juros, consoante a jurisprudência deste Sodalício, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. DÍVIDA CONTRAÍDA EM MOEDA ESTRANGEIRA. CONVERSÃO PARA REAL. COBRANÇA DE JUROS DE REMUNERAÇÃO. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF.
+1. A falta de indicação do dispositivo legal supostamente violado e/ou de interpretação pretoriana divergente configura deficiência recursal, por não permitir a exata compreensão da controvérsia, e não enseja a abertura da via especial, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+2. Descabe a incidência de juros remuneratórios na condenação se inexiste pedido expresso a respeito. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1393432/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018; grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRECLUSÃO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA Nº 284 DO SUPREMO TRIBUNAL FEDERAL. BEM DE FAMÍLIA. REEXAME DE PROVAS. SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar qual dispositivo legal teria sido violado ou objeto de interpretação divergente. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+2. Tendo o tribunal de origem decidido pela penhorabilidade do imóvel com base nos elementos de prova dos autos, a inversão do decidido esbarra no óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1626950/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/09/2017, DJe 28/09/2017; grifou-se)
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nega-se provimento ao recurso especial e, com base no art. 85, § 11, do NCPC, majora-se em 10% (dez por cento) os honorários arbitrados na origem, exclusivamente em favor da parte recorrida.
+Publique-se.
+Intimem-se.
