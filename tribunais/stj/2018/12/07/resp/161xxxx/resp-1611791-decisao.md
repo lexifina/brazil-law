@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão que recebeu a seguinte ementa (e-STJ fl. 428):
+AGRAVO REGIMENTAL- DECISÃO MONOCRÁTICA QUE NEGA SEGUIMENTO A RECURSO (ART. 557 CPC) - CUMPRIMENTO DE SENTENÇA - EXPURGOS INFLACIONÁRIOS - LEGITIMIDADE ATIVA AD CAUSAM - COMPROVAÇÃO DA CONDIÇÃO DE ASSOCIADO - DESNECESSIDADE - SUSPENSÃO DO FEITO - DESCABIMENTO - PRESCRIÇÃO NÃO CONSUMADA - JUROS DE MORA - TERMO INICIAL - DATA DA CITAÇÃO NA AÇÃO DE CONHECIMENTO - RECURSO DESPROVIDO.
+Os poupadores ou seus sucessores têm legitimidade ativa para ajuizar cumprimento individual de sentença prolatada em ação civil pública, independente de serem ou não associados à instituição que a ajuizou.
+Não é o caso de suspensão da execução em ações coletivas, cujo objeto sejam os expurgos inflacionários, se já julgado o recurso repetitivo que trata da matéria.
+É quinquenal o prazo prescricional para ajuizamento de cumprimento de sentença de ação civil pública.
+Os juros de mora sobre os valores existentes nas cadernetas de poupança incidem a partir da data da citação para a ação coletiva. Logo, regimental de decisão que assim decide não comporta provimento.
+Trata-se de cumprimento de sentença de ação civil pública relativa a expurgos inflacionários de cadernetas de poupança.
+Em recente decisão, o Supremo Tribunal Federal determinou a suspensão nacional dos processos relativos a cobrança de diferenças de correção monetária em cadernetas de poupança decorrentes de expurgos inflacionários, seja na fase de conhecimento ou de execução, enquanto vigorar o período de 24 (vinte e quatro) meses que os poupadores têm para decidir sobre a adesão ao acordo coletivo homologado em fevereiro de 2018, no Recurso Extraordinário 632.212, relator Ministro Gilmar Mendes.
+Por ocasião da Sessão de 28.11.2018, a Segunda Seção do Superior Tribunal de Justiça acolheu a questão de ordem proposta pelo Ministro Raul Araujo para suspender todos os processos, individuais ou coletivos, seja na fase de conhecimento ou execução, que versem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 meses a contar de 5.2.2018, aguardando ainda o julgamento dos Recursos Extraordinários nº 632.212, 631.363, 626.307 e 591.797, com repercussão geral perante o Supremo Tribunal Federal.
+Foi deliberado, ainda, o encaminhamento às instâncias de origem de todos os processos relacionados ao tema que estejam nesta Corte.
+Em face do exposto, determino a suspensão do andamento do presente processo, com a respectiva baixa dos autos à origem para que se aguarde o julgamento definitivo do Supremo Tribunal Federal.
+Intimem-se.
