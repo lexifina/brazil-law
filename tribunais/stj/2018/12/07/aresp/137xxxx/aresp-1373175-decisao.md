@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ATIVIDADE ESPECIAL. EXPOSIÇÃO HABITUAL E PERMANENTE A AGENTES NOCIVOS Á SAÚDE. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ. O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 271/272):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REEXAME NECESSÁRIO. APOSENTADORIA ESPECIAL. RECONHECIMENTO DE LABOR EM CONDIÇÕES ESPECIAIS. AGENTES BIOLÓGICOS. EPI. REQUISITOS ATENDIDOS. CONCESSÃO DO BENEFÍCIO. CONSECTÁRIOS. LEI 11.960/2009. TUTELA ESPECÍFICA. IMPLANTAÇÃO DO BENEFÍCIO.
+1. . Fixada pelo STJ a obrigatoriedade do reexame de sentença ilíquida proferida contra a União, Estados, Distrito Federal e Municípios e as respectivas autarquias e fundações de direito público na REsp 1101727/PR, a previsão do art. 475 do CPC torna-se regra, admitido o seu afastamento somente nos casos em que o valor da condenação seja certo e não exceda á sessenta salários mínimos.
+2. Comprovado o exercício de atividade especial, conforme os critérios estabelecidos na lei vigente à época do exercício, o segurado tem direito adquirido ao cômputo do tempo de serviço como tal.
+3. O uso de EPI"s (equipamentos de proteção), por si só, não basta para afastar o caráter especial das atividades desenvolvidas pelo segurado. Seria necessária uma efetiva demonstração da elisão das consequências nocivas, além de prova da fiscalização do empregador sobre o uso permanente dos dispositivos protetores da saúde do obreiro durante toda a jornada de trabalho.
+4. Demonstrado o preenchimento dos requisitos, é devida a concessão da aposentadoria especial.
+5. Efeitos financeiros pretéritos perfectibilizados, não se observando, no caso, a prescrição quinquenal. Inteligência da Súmula nº 85 do STJ. Quanto ao termo inicial do benefício, consta que os reflexos econômicos decorrentes da concessão da aposentadoria postulada devem, pela regra geral (art. 49, caput e inciso II, combinado ao art. 57, § 2º, ambos da Lei nº 8.213/1991 e alterações), retroagir à data da entrada do requerimento administrativo (DER).
+6. Declarada pelo Supremo Tribunal Federal a inconstitucionalidade do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009, os juros moratórios devem ser equivalentes aos índices de juros aplicáveis à caderneta de poupança (STJ, REsp 1.270.439/PR, ia Seção, Relator Ministro Castro Meira, 26/06/2013). No que tange à correção monetária, permanece a aplicação da TR, como estabelecido naquela lei, e demais índices oficiais consagrados pela jurisprudência.
+7. Havendo o feito tramitado perante a Justiça Estadual de Santa Catarina, deve a autarquia responder por metade das custas devidas, consoante a Lei Complementar nº 156/97 desse Estado, na redação dada pela Lei, Complementar nº 161/97.
+8. O cumprimento imediato da tutela específica independe de requerimento expresso do segurado ou beneficiário, e o seu deferimento sustenta-se na eficácia mandamental dos provimentos fundados no art. 461 do CPC/1973, bem como nos artigos 497, 536 e parágrafos e 537 do CPC/2015.
+9. A determinação de implantação imediata do benefício, com fundamento nos artigos supracitados, não configura violação dos artigos 128 e 475-0, 1, do CPC/1973 e 37 da CF/1988.
+O recorrente alega ofensa ao artigo 57, § 3º, diante da impossibilidade de reconhecimento de tempo de serviço especial o exercício de atividade com exposição a agentes biológicos, de forma intermitente e não permanente, em período posterior à vigência da Lei n. 9.032/95.
+Contrarrazões.
+ É o relatório. Passo a decidir.
+A Corte de origem, com base nos elementos fático-probatórios contidos nos autos, reconheceu a especialidade do trabalho, no período controverso, posterior a vigência da Lei 9.032/95, por restar comprovado o exercício de atividade especial na forma exigida pela legislação previdenciária aplicável à espécie (fls. 252/272):
+ ..
+No tocante à atividade de atendente de enfermagem, devidamente registrada em CTPS, exercida antes de 05/03/97 e da vigência da Lei nº 9.032/95 merece enquadramento de especialidade pelo critério da categoria profissional de, por equiparação ao ofício do enfermeiro, tido como especial, à luz da legislação vigente à época da prestação dos serviços (código 2.1.3 do Quadro Anexo ao Decreto nº 53.831/64 e código 2.1.3 do Anexo 11 do Decreto nº 83.830/79).
+A partir de 06/03/97, comprovada a exposição do segurado (cargos como os de auxiliar de enfermagem, enfermeiro Jr., enfermeiro pleno e enfermeiro supervisor) a agentes biológicos por meio de PPP e Laudo Pericial durante o período laboral, cabe reconhecer como especial a atividade por ele exercida, revelando-se. desnecessária, no caso, a demonstração de que o contato tenha ocorrido de forma permanente, na medida em que o risco de acidente independe do tempo de exposição.
+ ..
+Na hipótese vertente, os períodos controversos de atividade laborai exercidos em condições especiais estão assim detalhados:
+ ..
+Função/ Atividades: Servente; ténica de enfermagem.
+Agentes nocivos: Agentes biológicos
+ ..
+Prova: Formulário PPP (fls.66-67) e Laudo Técnico de Condições Ambientais do Trabalho - LTCAT forncido pela empresa (fls.83-109).
+Conclusão: Restou devidamente comprovado nos autos o exercício de atividade especial pela parte autora no período indicado, conforme a legislação aplicável à espécie.
+Deve, portanto, ser mantida a sentença monocrática no que diz respeito ao reconhecimento da especialidade das atividades da parte autora nos períodos acima referidos, de forma que a segurada faz jus ao reconhecimento de que laborou em condições especiais por período equivalente a 13 anos, 03 meses e 12 dias.
+ ..
+No presente caso, não há dúvidas quanto ao preenchimento da carência, nos termos do art. 25, caput e inciso II, da Lei nº 8.213/1991 e alterações. Considerando o tempo especial reconhecido administrativamente (extrato de tempo de serviço de fls. 73-74) no patamar de 12 anos, 01 mês e 05 dias, e judicialmente (sentença e acórdão) no montante de 13 anos, 02 meses e 12 dias, constata-se que a autora computa um total de 25 anos, 03 meses e 17 dias de labor em condições insalutíferas até a DER (31.03.2010).
+Por conseguinte, satisfeitos os requisitos tempo de serviço especial e carência, possui o autor o direito à percepção de aposentadoria especial, desde a data do requerimento. administrativo (DER), segundo o cálculo que lhe foi mais vantajoso (decisão da Suprema Corte no julgamento da Repercussão Geral no Recurso Extraordinário nº 630501, em 14.03.2013), bem como ao pagamento das parcelas vencidas, acrescidas dos consectários de lei, observados os efeitos da prescrição quinquenal, consoante o teor da Súmula 85/STJ. (grifos acrescidos)
+Do excerto transcrito verifica-se que a Corte de origem, soberana na análise das provas, firmou compreensão de que houve exposição a agentes nocivos à saúde, caracterizando o tempo de serviço como Especial.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+No mais, a Primeira Turma do STJ firmou entendimento no sentido de que, "o fato de a exposição a agente nocivo não perdurar durante toda a jornada de trabalho não significa que não tenha havido exposição a agentes nocivos de forma habitual e permanente"(REsp 1468401/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 27/3/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
