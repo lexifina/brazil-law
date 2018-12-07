@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Curitiba, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+Tributário e Processual Civil. Princípio do tempus regit actum. Aplicação imediata da nova legislação processual, respeitados os atos processuais praticados na vigência do Código anterior. Novo Código de Processo Civil. Entrada em vigor a partir de 18.03.2016. Sentença publicada em Cartório em data pretérita. Inaplicabilidade da nova legislação processual. Execução Fiscal. Propositura da ação antes da LC 118/05. Prazo prescricional que se interrompe com a citação do executado. Citação não realizada. Feito paralisado por prazo superior a 05 (cinco) anos, sem qualquer movimentação processual. Prazo prescricional transcorrido integralmente. Impossibilidade de eternização das demandas judiciais. Ausência de culpa exclusiva do Poder Judiciário na demora da tramitação. Contribuição do exequente no atraso. Prescrição verificada. Condenação da Fazenda Pública ao pagamento de custas processuais. Possibilidade. Princípio da causalidade. Vara estatizada. Irrelevância. Movimentação injustificada da máquina judiciária. Taxa judiciária. Isenção. Ainda que destinada ao FUNJUS. Decreto Estadual n. 962/1932. Sentença reformada em parte.
+Apelação Cível parcialmente provida.
+No recurso especial, o recorrente aponta a violação do art. 174 do CTN, sustentando, em resumo, que não se tem por ocorrida a prescrição intercorrente, incidindo o enunciado sumular n. 106/STJ, considerando que a demora na tramitação do feito deu-se não só por culpa do recorrente, que diligenciou prontamente nos autos, mas também por culpa do Poder Judiciário.
+Suscitou dissídio jurisprudencial.
+O recurso especial foi inadmitido com base no Enunciado Sumular n. 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+O recurso não comporta seguimento.
+A irresignação do recorrente, acerca da alegada responsabilidade exclusiva do Judiciário na ocorrência do transcurso do prazo prescricional, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que o transcurso do prazo de prescricional quinquenal teve responsabilidade concorrente entre o exequente e o Poder Judiciário, tendo sido afastado o teor da súmula 106/STJ.
+Dessa forma, para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+No mesmo sentido, destaca-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. DEMORA NA CITAÇÃO. PRESCRIÇÃO. AUSÊNCIA DE OMISSÃO. ART. 535 DO CPC. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. O Tribunal local, soberano na análise dos fatos e das provas, consignou: "Finalmente, não sendo a demora na citação nem a paralisação do processo decorrente de causa atribuída, EXCLUSIVAMENTE, ao mecanismo do Judiciário, certamente, a prescrição consumou-se, não havendo como se falar, na espécie, em aplicação da Súmula nº 106 do Superior Tribunal de Justiça".
+3. No caso dos autos, o Tribunal a quo atestou que se passaram cinco anos desde a constituição definitiva do crédito tributário, sem que houvesse a citação, e que essa demora não pode ser imputada ao mecanismo judiciário. Nessa perspectiva, não há como afastar a prescrição sem esbarrar no óbice da Súmula 7 do STJ.
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido. (REsp 1509335/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2015, DJe 31/03/2015)
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. HEPATITE C. INDENIZAÇÃO POR DANO MATERIAL E MORAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, entendeu que não há nexo causal entre a conduta dos agentes públicos e os danos sofridos pelos ora agravantes, e que estes não trouxeram provas para corroborar o que alegou.
+2. Não é cabível em Recurso Especial o exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, em vista do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo Interno não provido. (AgInt no REsp n. 1.612.647/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/2/2017, DJe 7/3/2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. A reforma do acórdão recorrido, no sentido de se entender pela falsidade da prova pericial, da existência de documento novo e da ocorrência de erro de fato, demandaria necessário revolvimento de matéria fática, prática vedada pela Súmula 7/STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido. (AgInt no AREsp n. 638.513/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 9/3/2017, DJe 15/3/2017.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
