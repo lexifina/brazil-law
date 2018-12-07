@@ -1,0 +1,42 @@
+DECISÃO
+
+Trata-se de Recurso Especial, interposto por SINDICATO DOS TRABALHADORES NAS INSTITUIÇÕES FEDERAIS DE ENSINO-SINDIFES, em 04/03/2013, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+"ADMINISTRATIVO. RITO ORDINÁRIO. SERVIDORES PÚBLICOS APOSENTADOS. GAE. MEDIDA PROVISÓRIA Nº 2.150-39/2001. TRANSFORMAÇÃO EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA - VPNI. AUSÊNCIA DE DECESSO REMUNERATÓRIO. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA.
+1. "A GAE - Gratificação de Atividade Executiva, então paga nos termos da Lei Delegada 13/92, não foi suprimida da remuneração dos servidores públicos federais com a edição da MP 2.150-41/2001, mas apenas transformada em Vantagem Pessoal Nominalmente Identificada (VPNI), sendo reajustada em decorrência da revisão geral de remuneração, não ocorrendo, assim, violação do princípio constitucional da irredutibilidade dos proventos dos servidores com a referida transformação." (AMS 2001.38.00.027691-6/MG, Rel. Juiz Federal Miguel Angelo de Alvarenga opes (conv.).
+2. A GDAE foi estendida às aposentadorias e pensões no mesmo percentual fixo destinado aos servidores em atividade, não se havendo de falar em ofensa à regra da paridade então presente o art. 40 § 8º, da CF/88.
+3. Apelo desprovido" (fl. 176e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 182/183e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO JULGADO. INCONFORMISMO. INVIABILIDADE. REJEIÇÃO.
+1. Cabem embargos de declaração quando houver, na sentença ou no acórdão, obscuridade, contradição ou omissão.
+2.O embargante limita-se a rediscutir questões já decididas no acórdão, sendo certo que o órgão julgador não está obrigado a responder a todos os fundamentos aventados pelas partes, mas tão-somente àqueles que julgar pertinentes ao deslinde da causa.
+3. O que se observa, in casu, é o inconformismo com a decisão estampada no acórdão, e não a existência do vício apontado. Tal inconformismo, entretanto, deve ser manifestado não por meio embargos, mas pelo manejo de outros recursos previstos na legislação processual em vigor, eis que eventual erro de julgamento não se insere nos limites estreitos dos embargos declaratórios.
+4. Embargos de declaração rejeitados" (fl. 189e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 41, § 3º, da Lei 8.112/90, sustentando, em suma, o seguinte:
+"Resumindo, enquanto ao servidor ativo foi conferido o direito de receber a gratificação GDAE calculada no percentual de 160% sobre o valor do seu atual vencimento, por outro lado, ao servidor inativo foi assegurado o direito de continuar a perceber o valor da GAE, calculada no percentual de 160% sobre o valor do seu antigo provento, a título de Vantagem Pessoal.
+Tal tratamento diferenciado entre servidores ativos e inativos, em prejuízo dos aposentados e pensionistas, afrontou não apenas direito adquirido a sistemática de atualização dos benefícios, por força da paridade constitucional, mas também o princípio da confiança legítima.
+Como cediço, os servidores aposentados e os pensionistas, por força do direito constitucional à paridade, têm direito ao mesmo tratamento conferido aos servidores em atividade, sob pena de ofensa aos princípios da igualdade e da segurança jurídica.
+Deve ser ressaltado que no período de pagamento da GDAE aos servidores ativos não foi realizada nenhuma avaliação de desempenho, o que obstaculiza a tese de que a vantagem teria caráter propter laborem.
+Ou seja, os servidores ativos receberam o percentual de 160% (cento e sessenta por cento) sobre o novo vencimento básico, independentemente de qualquer situação jurídica especial, já que não foram avaliados.
+Enquanto isso, os aposentados e os pensionistas deixaram de receber a vantagem, nas mesmas condições, sobre o novo provento básico, pelo fato de que a GAE, para eles, foi transformada em VPNI, como mecanismo de burla ao direito à paridade constitucional.
+Ora, não tendo os substituídos inativos e pensionistas recebido a nova gratificação denominada GDAE, não poderiam eles ser duplamente penalizados com a transformação da GAE em vantagem pessoal, pelo valor recebido em maio, e sem qualquer previsão de seu reajustamento.
+Afinal, a transformação da GAE em Vantagem Pessoal, não sujeita a futuros reajustes, em última análise, significou redução de proventos/pensão, em flagrante violação ao art. 41, § 3º, da Lei Federal nº 8.112/90.
+Tal diferenciação só foi corrigida com a entrada em vigor da Lei Federal nº 10.302/01, que extinguiu a partir de 10 de janeiro de 2002 a GDAE, motivo pelo qual a pretensão ora deduzida em Juízo compreende apenas o período entre junho e dezembro de 2001. Assim, se aos servidores ativos foi possibilitado o recebimento da GDAE em 160% (cento e sessenta por cento) calculado sobre o novo vencimento, sem a necessária observância de quaisquer requisitos, forçoso concluir que o mesmo tratamento deverá ser dado aos inativos e pensionistas, sob pena de flagrante violação a o direito à paridade constitucional" (fl. 209e).
+Por fim, requer o provimento do apelo "para reformar o v. acórdão proferido pelo Tribunal a quo, a fim de que a pretensão deduzida na exordial seja julgada procedente" (fl. 213e).
+Contrarrazões a fls. 237/239e.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrente, com o objetivo de que fosse "decretada a ilegalidade e nulidade da transformação da GAE em Vantagem Pessoal, com a condenação da Ré ao pagamento aos substituídos das diferenças do valor efetivamente pago e do devido, do período compreendido entre junho e dezembro/2001, com a incidência de correção e juros de mora" (fl. 8e).
+Julgada improcedente a demanda, recorreu o autor, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Quanto ao mérito, o acórdão do Tribunal de origem assentou, in verbis:
+"A GDAE foi estendida às aposentadorias e pensões no mesmo percentual fixo destinado aos servidores em atividade, não se havendo de falar em ofensa à regra da paridade então presente no art. 40 §§ 4º e 8º, da CF/88. De outro modo, a reestruturação promovida não ocasionou redução dos proventos dos inativos e pensionistas, uma vez que foi assegurado que se os valores da GDAE fossem inferiores aos da GAE, eles teriam à complementação da diferença, a título de vantagem pessoal nominalmente identificada. Essa garantia estava prevista desde a edição da Medida Provisória 2.150-39, de 31.05.2001 e foi mantida em todas as suas reedições (MP2.150-40, de 28.06.2001; MP 2.150-41, de 27.07.2001; MP 2.150-42, de 24.08.2001; e MP 2.229-43, de 06.09.2001), nos termos do disposto em seu art. 59, verbis:
+(..)
+Verifica-se, assim, que a MP 2.150/2001 foi expressa em assegurar a percepção da GDAE pelos aposentados e pensionistas nos mesmos moldes da GAE, de modo a evitar decesso remuneratório.
+Em casos idênticos, assim tem decidido este Tribunal:
+(..)
+Nesses termos, não caracterizado eventual decesso remuneratório, não há em ofensa às regras e princípios constitucionais relativas à paridade constitucional entre ativos e inativos (art. 40, §8º, da CF/88) e à irredutibilidade de vencimentos, razão pela qual a r. sentença deve ser mantida em seus rigorosos termos".
+Nesse contexto, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
