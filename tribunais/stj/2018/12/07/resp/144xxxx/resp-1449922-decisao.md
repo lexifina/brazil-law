@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por [NOME], com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 219):
+EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE GARANTIA DO JUÍZO. REJEIÇÃO LIMINAR.
+1. A jurisprudência tem admitido, em alguns casos, o recebimento dos embargos sem garantia, apoiada no art. 5o, XXXV, da Constituição.
+2. Em se tratando de execução fiscal, deve o devedor valer-se da via dos embargos para deduzir toda a matéria útil à defesa, nos termos do art. 16 da Lei nº 6.830/80. Tem sido admitida, porém, a exceção de executividade.
+3. Já oposta a exceção na origem, restam prejudicados os embargos que contém as mesmas alegações a serem examinadas naquele incidente. Admitir o processamento dos embargos, paralelamente à exceção, poderá ocasionar violação ao princípio da coisa julgada e importa, desde já, ofensa ao princípio da concentração da defesa.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 5º, XXXV e LV, da Constituição Federal, 16, § 1º, da Lei 6.830/80 e 736 do CPC/73. Sustenta, em resumo, que os embargos à execução fiscal deveriam ser admitidos independentemente de penhora ou garantia do juízo.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No mais, vale destacar que a Corte regional, ao analisar a questão referente à inadmissão dos embargos à execução fiscal, registou o seguinte (fls. 216/218):
+O parágrafo 1o do artigo 16 da Lei nº 6.830/80 impõe a segurança do juízo pela penhora como condição de admissibilidade dos embargos do devedor.
+As alterações trazidas pela Lei nº 11.382, de 2006, não afetam o tema da garantia para oposição dos embargos à execução fiscal, porquanto as normas processuais são aplicadas apenas de forma subsidiária, não sendo o caso, já que há disposição expressa sobre a matéria no § 1o do art. 16 da 6.830/80.
+Não há qualquer ofensa aos postulados constitucionais da ampla defesa, do contraditório e do devido processo legal, porquanto atendidos os comandos legais aplicáveis às execuções fiscais.
+Ressalto que a Súmula Vinculante nº 28, estabeleceu tão-somente a inconstitucionalidade da exigência do depósito prévio do valor supostamente devido como condição à propositura de eventual ação que tenha por objeto discutir a dívida com o Fisco, não se referindo, portanto, à garantia do juízo como condição de admissibilidade dos embargos do devedor prevista no art. 16, § Io da Lei de Execuções Fiscais.
+Por outro lado, o benefício da gratuidade não inclui a garantia do juízo da execução fiscal.
+Em que pese essas orientações, a jurisprudência tem admitido, em alguns casos, o recebimento dos embargos sem garantia, apoiada no art. 5o, XXXV, da Constituição.
+O caso dos autos contém peculiaridades.
+Expedido mandado de penhora e avaliação, o oficial de justiça certificou o seguinte:
+"Certifico que, nesta data, às 17h30min, compareci na rua [NOME] nº 200 - Morada do Vale, Gravataí, onde fui recebida pelo Sr [NOME], que declarou: "não tenho nenhum bem livre para oferecer em penhora". Trata-se de endereço residencial onde apenas encontrei móveis e utensílios de uso doméstico, tudo simples e comum. Ante o exposto, devolvo o presente mandado as considerações deste MM Juízo. Dou fé. Porto Alegre, 22 de setembro de 2012. [NOME], Oficiala de Justiça Federal."
+O executado, ora apelante, apresentou exceção de pré-executividade. O incidente já foi impugnado pela Fazenda Nacional e o processo encontra-se como Juízo a quo para prolação de decisão.
+Nos embargos, o apelante alegou que: a) o direito de exigir o crédito em juízo está extinto pela prescrição; b) excesso de execução e inconstitucionalidade do art. 12 da Lei 7.713/88; c) excesso de execução no tocante à multa e juros, e d) existem parcelas quitadas por pagamento direto, via DARFs, e mediante compensação.
+Na exceção de pré-executividade, o apelante expôs exatamente os mesmos argumentos contidos na inicial dos embargos.
+(e-STJ FI.218)
+Em se tratando de execução fiscal, deve o devedor valer-se da via dos embargos para deduzir toda a matéria útil à defesa, nos termos do art. 16 da Lei nº 6.830/80. Tem sido admitida, porém, a exceção de executividade.
+Já oposta essa exceção na origem, tenho que restam prejudicados os embargos que contém as mesmas alegações a serem examinadas naquele incidente. Admitir o processamento dos embargos, paralelamente à exceção, poderá ocasionar violação ao princípio da coisa julgada e importa, desde já, ofensa ao princípio da concentração da defesa.
+Ainda que por outros motivos, o recurso não merece ser provido.
+Ante o exposto, voto por negar provimento à apelação.
+No presente caso, o recorrente não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, de que houve a prejudicialidade dos embargos à execução fiscal em razão da apresentação anterior de exceção de pré-executividade, sendo que ambos trazem as mesmas alegações. O apelo esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Por fim, cumpre salientar que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, XXXV e LV, da Constituição Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
