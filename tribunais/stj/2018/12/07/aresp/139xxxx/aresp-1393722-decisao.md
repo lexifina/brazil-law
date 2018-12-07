@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela Universidade Federal de Pernambuco em face de decisão do Tribunal Regional Federal da 5ª Região, que negou admissibilidade a recurso contra acórdão assim ementado:
+Processual civil. Agravo de instrumento. Honorários sucumbenciais. Fixação na execução. Possibilidade. Precedentes do STJ e desta Eg. Turma. Honorários fixados em R$ 1.500,00. Ação executiva ajuizada sob a égide do CPC/73. Aplicação da previsão do art. 20, §4º do CPC/73. Agravo de instrumento improvido.
+Os Embargos de Declaração opostos foram rejeitados, nos seguintes termos:
+Administrativo. Processual civil. Execução contra Fazenda Pública. Honorários advocatícios sucumbenciais. Arbitramento posterior. Fixação na fase executiva. Preclusão suscitada. Inocorrência. Precedentes. Embargos de Declaração. Inexistência de omissão. Pré-questionamento. Reexame de matéria. Impossibilidade. Precedentes. Embargos de declaração improvidos.
+1. Recurso interposto ante julgamento que negou provimento ao pleito da parte autora, acerca da existência de preclusão lógica, quanto à inclusão de honorários advocatícios na fase de execução do julgado.
+2. Conforme jurisprudência do Superior Tribunal de Justiça, inexiste preclusão no tocante ao arbitramento de verba honorária no curso da Execução, mesmo nos casos em que a referida verba não tenha sido pleiteada no início do processo executivo.
+3. O NCPC, em seu artigo 1.022, condiciona o cabimento dos embargos de declaração à existência de omissão, contradição ou obscuridade no acórdão embargado, não se prestando este recurso à repetição de argumentação contra o julgamento de mérito da causa.
+4. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. A questão abordada pelo embargante já foi examinada e resolvida pelo acórdão vergastado.
+6. Embargos de declaração improvidos
+Em suas razões de recuso especial, sustenta a parte recorrente negativa de vigência dos arts. 652-A e 473 do CPC/1973, na medida em que a preclusão é matéria de ordem pública, podendo ser suscitada em qualquer grau de jurisdição.
+Apresentadas contrarrazões (e-STJ fls. 309/317).
+A decisão agravada negou seguimento ao especial sob a compreensão de que o acórdão está em sintonia com a jurisprudência do STJ, nos termos da Súmula 83/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque o enunciado 83/STJ refere-se á alínea "c" do inciso III do art. 105 da CF/1988.
+Ofertada contraminuta (e-STJ fls. 318/326).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não pode ser conhecido, pois a parte agravante não cuidou de impugnar, em bases concretas e específicas, bastante os fundamento da decisão agravada, em especial a Súmula 83/STJ.
+Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Com efeito, em relação a incidência da Súmula 83/STJ, competia ao agravante demonstrar que o entendimento adotado pelo acórdão recorrido está em descompasso com o entendimento do STJ, colacionando, para tanto, precedentes jurisprudenciais em sentido favorável à tese recursal, ou que o precedente invocado na decisão de inadmissibilidade não se aplicaria ao caso, não bastando para tanto a mera alegação de existência de decisões em sentido diverso.
+Bem assim, deve ser observada a Súmula nº 182/STJ que dispõe: "É inviável o agravo do art. 545 do CPC 1973  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalto que a impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido. Ilustrativamente, os seguintes precedentes:
+É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016).
+À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia (AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/08/2015).
+Vale ressaltar ainda, que a jurisprudência desta Corte pacificou o entendimento segundo o qual "a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça." (AgRg no AREsp 205.921/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 18/12/2012, DJe 08/02/2013).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
