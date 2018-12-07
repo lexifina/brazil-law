@@ -1,0 +1,37 @@
+DECISÃO
+Relatório.
+Cuida-se de recurso em mandado de segurança interposto por [NOME] contra o acórdão às fls. 260 a 266, proferido pela Seção Cível de Direito Público do Tribunal de Justiça do Estado da Bahia e resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA PROVIMENTO DO CARGO DE SOLDADO DA POLÍCIA MILITAR DO ESTADO DA BAHIA. AÇÃO FUNDADA EM ANULAÇÃO DE QUESTÕES POR DECISÃO JUDICIAL. AÇÃO COM EFEITOS INTER PARTES. PREJUDICIAL DE MÉRITO SUSCITADA PELA PROCURADORIA GERAL DO ESTADO, EM RAZÃO DA DECADÊNCIA. MATÉRIA PACÍFICA NOS TRIBUNAIS SUPERIORES. PRECEDENTES DESTA CORTE. EXTINÇÃO DO FEITO COM RESOLUÇÃO DEMÉRITO QUE SE IMPÕE.
+1. De acordo com entendimentos manifestos pelo Supremo Tribunal Federal e Superior Tribunal de Justiça, o prazo decadencial para se impetrar mandado de segurança com o objetivo de obter nomeação de servidor público se inicia a partir do término do prazo de validade do concurso.
+2. Tratando-se de Ação Mandamental visando reclassificação e convocação de aprovado cm concurso público, impetrada muito tempo após o esgotamento do prazo de validade do Concurso, não foi cumprida a regra do art. 23, da Lei 12.016/2009, que estipula o prazo de 120 dias para requerer mandado de segurança.
+3. Impõe-se, assim, o pronunciamento da decadência, para o fim de extinguir o feito, com resolução de mérito. (fls. 260 e 261).
+Nas razões recursais, às fls. 269 a 299, o recorrente diz que o concurso público a que se submeteu é nulo e, por isso "o termo inicial jamais poderá ser o ato nulo" (fl. 271). No mais, toda a sua argumentação se atém ao esforço de demonstrar que o conteúdo da prova de conhecimento (raciocínio lógico) desbordou daquele que estava previsto no edital do certame e que a decisão judicial proferida em outra ação judicial (0569986-78.2014.8.05.0001) deveria ser estendida a todos os participantes do certame.
+Requer, por fim, o provimento do presente recurso, para que seja determinada a sua reclassificação no certame em virtude da nulidade das questões de raciocínio lógico.
+O Estado da Bahia não apresentou apresentou contrarrazões ao recurso, conforme certidão de fl. 372.
+O Ministério Público Federal, pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não provimento do presente recurso, consoante a fundamentação do parecer às fls. 382 a 386, assim resumido:
+ADMINISTRATIVO E PROCESSUAL CIVIL.
+Concurso Público. Candidato aprovado fora do número de vagas oferecidas pelo edital. Curso de Formação de Soldados da Polícia Militar do Estado da Bahia. Pleito de reclassificação e conseqüente nomeação, em razão da declaração de nulidade de questão da prova por decisão judicial em processo do qual o Impetrante não era parte.
+Indeferimento liminar da inicial em razão da decadência e da impossibilidade de aplicação do resultado de processo estranho ao Impetrante em seu benefício. Preliminar de decadência do direito à impretação acolhida e mandado de segurança julgado extinto com julgamento do mérito. Recurso Ordinário em Mandado de Segurança. Pretensão que não merece prosperar. Não há preterição de candidato aprovado em concurso público nos casos em que a Administração Pública, por força de decisão judicial, procede à convocação de candidatos. Julgados do STJ. Além disso, deixou o Recorrente de impugnar fundamento suficiente para a manutenção do Acórdão recorrido. O cumprimento de decisão judicial pela Administração Pública não pode ser considerado como ato abusivo ou ilegal, motivo pelo qual não há direito líquido e certo a ser amparado pela via do mandado de segurança. Recurso ordinário que não deve ser provido.
+(fl. 382).
+Decisão.
+A viabilidade do recurso ordinário pressupõe, desde logo, a demonstração de erro na concatenação dos juízos expostos na fundamentação (exposição dos fundamentos) do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como no caso, a denegação da ordem.
+Essa é a razão pela qual a jurisprudência desta Corte Superior há muito se pacificou no sentido de que não se deve conhecer, por irregularidade formal violadora do princípio da dialeticidade, do recurso ordinário cujas razões não combatem especificamente todos os fundamentos do acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. NÃO OBSERVAÇÃO DO PRINCÍPIO DA DIALETICIDADE. IRREGULARIDADE FORMAL QUE IMPEDE O SEGUIMENTO DO RECURSO. 1. O argumento do aresto recorrido, no sentido de que houve decadência do direito de impugnar a regra do edital, não foi impugnado. 2. A jurisprudência do Superior Tribunal de Justiça entende que padece de irregularidade formal o Recurso Ordinário em Mandado de Segurança em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade. 3. Agravo Regimental não provido.
+(AgRg no RMS 44.887/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/11/2015)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. NÃO OBSERVAÇÃO DO PRINCÍPIO DA DIALETICIDADE. IRREGULARIDADE FORMAL QUE IMPEDE O SEGUIMENTO DO RECURSO.
+1. Os fundamentos da decisão judicial, seja sentença ou acórdão, são as razões, de fato e de direito, que o magistrado analisa para formar seu convencimento racional e que justificarão a solução que, no momento oportuno, explicitará no dispositivo.
+2. A viabilidade do recurso - qualquer recurso - pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação (exposição dos fundamentos), e não a mera insurgência contra o comando contido no dispositivo.
+3. Essa é a razão pela qual a jurisprudência desta Corte Superior há muito se pacificou no sentido de que deve ser negado seguimento, por irregularidade formal violadora do princípio da dialeticidade, ao recurso ordinário cujas razões não combatem os fundamentos do acórdão recorrido, como ocorreu na espécie. Precedentes.
+4. Assentando-se o acórdão recorrido em múltiplos fundamentos, todos eles autônomos e suficientes para sustentar a decisão, como é o caso ora examinado, a falta de impugnação a qualquer um deles é, só por si, razão bastante para mantê-lo inalterado.
+5. Agravo Regimental a que se nega provimento.
+(AgRg no RMS 44.612/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 17/03/2015)
+Inspirado por esse entendimento, o Código de Processo Civil vigente expressamente impede o conhecimento do recurso cujas razões não cuidam de impugnar, especificamente, os fundamentos do acórdão recorrido. Confira-se:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Dessarte, para êxito deste recurso, as razões recursais deveriam apontar o desacerto das premissas que fundamentaram o aresto recorrido, em especial a que reconheceu a decadência do direito de impetrar a ação mandamental.
+Todavia, no caso dos autos, em que pese discordar da apontada decadência, não cuidou o recorrente em impugnar especificamente os fundamentos do acórdão questionado, limitando-se a registar que "o termo inicial jamais poderá ser o ato nulo".
+Essa irregularidade formal, violadora do princípio da dialeticidade, impede, só por si, o conhecimento do recurso ordinário.
+Ante o exposto, com âncoras no art. 932, III, do CPC e no art. 34, XVIII, "a", do RISTJ, não conheço do presente recurso ordinário.
+Publique-se.
