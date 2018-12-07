@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 101):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PENSÃO POR MORTE. TRABALHADOR RURAL. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NECESSIDADE. REQUISITOS DA LEI 8.213/91. AUSÊNCIA DE PROVA DOCUMENTAL ACEITA PELA JURISPRUDÊNCIA COMO PRINCÍPIO DE PROVA. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO.
+1. A pensão por morte prevista no art. 74 da Lei 8.213/91, que é devida ao conjunto dos dependentes de trabalhador rural, está subordinada à demonstração da condição de dependente do segurado, nos termos do art. 16 da mencionada lei, e à comprovação da atividade rural exercida pelo falecido, por meio de início de prova material corroborada por prova testemunhal coerente e robusta.
+2. No caso concreto, a parte autora não juntou aos autos documentos que possam ser recebidos como início razoável de prova documental que demonstre o exercício de atividade rural.
+3. Não é admissível prova exclusivamente testemunhal para o reconhecimento de tempo de exercício de atividade urbana ou rural (Súmulas 149/STJ e 27/TRF-13 Região).
+4. Não comprovada a qualidade de trabalhador rural, por início de prova documental corroborada por prova testemunhal, mantém-se a sentença que julgou improcedente o pedido de pensão por morte ante a ausência de preenchimento dos requisitos previstos na Lei 8.213/91.
+4. Apelação não provida.
+Nas razões do apelo especial, aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 16 e 74 da Lei 8.213/91, afirmando que "não precisava mais demonstrar assiduamente que a ex-segurada era Trabalhadora Rural, pois tal condição já havia sido reconhecida pelo INSS a partir do momento que lhe aposentou por idade Rural, conforme consta da petição inicial e dos documentos que a instruíram.." (fl. 117).
+Aduz que se trata "de recorrente que conviveu com a falecida até o dia de sua morte, conforme atesta a Certidão de óbito no momento em que foi declarante do óbito da ex companheira de nome: [NOME] às fls., dos autos, além de outros documentos, como sua dependência cristalinamente comprovada no Plano Saf feito pela "De cujas", conforme se infere dos documentos juntados" (fl. 117).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Inicialmente, o Tribunal de origem não se manifestou sobre a alegação de que "não precisava mais demonstrar assiduamente que a ex segurada era Trabalhadora Rural, pois tal condição já havia sido reconhecida pelo INSS a partir do momento que lhe aposentou por idade Rural", tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+No mais, a controvérsia apresentada no apelo especial, cinge-se em saber se restou comprovada a qualidade de segurado da falecida companheira do autor na condição de trabalhador rural, para fins de concessão de pensão por morte.
+Nesse contexto, a jurisprudência desta Corte se consolidou no sentido de que a comprovação da condição de trabalhador rural se dá por meio de início de prova material corroborada com robusta prova testemunhal.
+Nesse diapasão, são considerados como início de prova material documentos de registros civis que apontem o efetivo exercício de labor no meio rural, em nome de outros membros da família, inclusive cônjuge ou genitor, que o qualificam como lavrador, desde que acompanhados de robusta prova testemunhal (AgRg no AREsp 188.059/MG, Rel. Ministro Herman Benjamin, DJe 11/09/2012).
+Entretanto, no caso dos autos, o Tribunal a quo, examinando o acervo probatório dos autos, concluiu que não ficou demonstrada a qualidade de segurado da suposta instituidora do benefício de pensão por morte, adotando as seguintes razões de decidir (fl. 98):
+No caso, correta a sentença que julgou improcedente o pedido inicial, tendo em vista que a parte autora não juntou aos autos início razoável de prova documental.
+(..).
+Não é admissível prova exclusivamente testemunhal para o reconhecimento de tempo de exercício de atividade urbana ou rural (Súmulas 149/STJ e 27/TRF-1a Região).
+Assim, não comprovada a qualidade de trabalhador rural, por início de prova documental corroborada por prova testemunhal, mantém-se a sentença que julgou improcedente o pedido de pensão por morte ante a ausência de preenchimento dos requisitos previstos na Lei 8.213/91.
+Ao que se observa, o Tribunal de origem, examinando o acervo probatório, concluiu que não ficou demonstrada a qualidade de segurado da suposta instituidora da pensão por morte. Assim, a alteração das conclusões adotadas pela Corte de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Do exposto, nego provimento ao agravo.
+Publique-se.
