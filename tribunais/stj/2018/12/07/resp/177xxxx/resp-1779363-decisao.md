@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso especial, interposto por VILA FLORESTA CONSTRUÇÕES E SANEAMENTO LIMITADA - EM RECUPERAÇÃO JUDICIAL, com amparo na alínea "a", do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 73/81, e-STJ):
+Agravo de Instrumento - Ação Monitória, em fase de cumprimento de sentença - Pleito de reforma de decisão que determinou à exequente que diligencie junto à recuperação judicial da empresa executada para o recebimento de seu crédito - Admissibilidade - Constituição posterior ao pedido Inteligência do art. 59, da Lei n. 11.101/2005 - Natureza jurídica de ação de conhecimento - Constituição do crédito que, nesse passo, somente se deu após a conversão do mandado inicial em mandado executivo - Precedentes desta C. Corte de Justiça - Decisão reformada - Recurso provido, para determinar o regular prosseguimento da execução.
+Opostos embargos de declaração, restaram rejeitados (fls. 101/107, e-STJ).
+Em suas razões de recurso especial (fls. 110/118, e-STJ), a recorrente aponta ofensa aos arts. 47 e 49, da Lei 11.101/05.
+Sustenta, em suma, que embora o crédito proveniente da ação monitória objeto da presente demanda tenha se tornado líquido, certo e exigível após o deferimento do pedido de recuperação judicial, com seu trânsito em julgado, ele advém de relação jurídica formalizada em momento anterior àquele, razão pela qual deve se sujeitar ao juízo recuperacional.
+Sem contrarrazões (certidão de fls. 122, e-STJ).
+Após juízo positivo de admissibilidade (fls. 135/136, e-STJ), ascederam os autos a esta Corte Superior de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Com amparo no acervo fático-probatório, concluiu o Tribunal de Justiça do Estado de São Paulo que os créditos perseguidos nos presentes autos, porquanto constituídos após o deferimento do pedido de recuperação judicial da empresa demandada, com o trânsito em julgado da respectiva ação monitória, não se submeteriam ao crivo do juízo universal.
+É o que se extrai do seguinte excerto do aresto impugnado (fls. 77/81, e-STJ):
+ Consigne-se, ab initio: i) que resta incontroverso o deferimento da recuperação judicial da agravante (fls. 50/51), ii) que o pedido fora realizado em 13/11/2014, o que pode ser verificado mediante consulta realizada no sistema de acompanhamento processual deste E. Tribunal.
+ Com efeito, dispõem os arts. 49 e 59, da Lei nº 11.101/05, in verbis:
+ (..)
+ Importa, in casu, saber, em se tratando de ação monitória, em que momento ocorreu a constituição do crédito perseguido pela agravante, para a correta aplicação das normas insertas nos dispositivos supracitados.
+ Com efeito, a ação monitória, a despeito da abreviação da fase de cognição nos casos de ausência de oposição dos embargos, tal como ocorrera na situação vertente, tem natureza jurídica de ação de conhecimento, como bem observa a doutrina:
+ (..)
+ É certo, nesse passo, que o crédito da agravante somente pode ser considerado existente com a prolação da sentença que reconheceu a conversão do mandado monitório em mandado executivo, o que ocorreu em 12/05/2015 (vide fls. 26/29), ou seja, após o pedido de recuperação judicial da executada motivo, pelo qual não se justifica o redirecionamento da cobrança.
+ (..)
+ Destarte, a despeito da argumentação trazida pela agravada, inexiste permissivo para a manutenção dos termos do r. decisum vergastado, em decorrência de expressa previsão legal, impondo-se a continuidade da tramitação do feito executório.
+Todavia, conforme entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, em demandas como a presente, cuja obrigação advém de fato preexistente à data de deferimento do pedido de recuperação judicial, deve a ação de conhecimento prosseguir perante o juízo na qual foi proposta, após o que, com a determinação do valor devido, deverá o respectivo crédito ser habilitado no quadro geral de credores da empresa em recuperação judicial, nos termos do art. 6º, § 1º, combinado com o art. 49, da Lei n. 11.101/2005.
+A corroborar tal conclusão:
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEVEDOR EM RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. CONSTITUIÇÃO DO CRÉDITO. EVENTO DANOSO OCORRIDO EM MOMENTO ANTERIOR AO PEDIDO RECUPERACIONAL. SUBMISSÃO AOS SEUS EFEITOS. SENTENÇA CONDENATÓRIA PROFERIDA POSTERIORMENTE. IRRELEVÂNCIA.
+1. Ação ajuizada em 20/5/2013. Recurso especial interposto em 27/9/2017 e concluso ao Gabinete em 8/3/2018.
+2. O propósito recursal é definir se o crédito de titularidade das recorridas, decorrente de sentença condenatória transitada em julgado após o pedido de recuperação judicial do devedor, deve sujeitar-se ao plano de soerguimento.
+3. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de negativa de prestação jurisdicional.
+4. Para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito discutido em ação de responsabilidade civil não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Precedente.
+5. Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora.
+6. Recurso especial provido.
+(REsp 1727771/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA DA RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SERVIÇO PRESTADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. EXISTÊNCIA. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. POSTERIOR SENTENÇA DECLARATÓRIA DO CRÉDITO. ATO JUDICIAL QUE DECLARA O CRÉDITO JÁ EXISTENTE EM TÍTULO JUDICIAL. CONFLITO CONHECIDO E PROVIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, mas apenas que seja referente a fatos ocorridos antes do pedido.
+2. O art. 7º da Lei 11.101/2005 afirma que o crédito já existente, ainda que não vencido, pode ser incluído de forma extrajudicial pelo próprio Administrado Judicial, ao elaborar o plano ou de forma retardatária, evidenciando que a lei não exige provimento judicial para que o crédito seja considerado existente na data do pedido de recuperação judicial.
+3. O crédito trabalhista, relativo ao serviço prestado em momento anterior ao pedido de recuperação judicial, submete-se ao respectivo procedimento e aos seus efeitos, atraindo a competência do Juízo da Recuperação Judicial, para processar a respectiva habilitação, ainda que de forma retardatária. Precedentes da Terceira Turma.
+4. Conflito conhecido e provido para declarar competente o Juízo da Recuperação Judicial.
+(CC 139.332/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 25/04/2018, DJe 30/04/2018)
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEVEDOR EM RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. CONSTITUIÇÃO DO CRÉDITO. EVENTO DANOSO OCORRIDO EM MOMENTO ANTERIOR AO PEDIDO RECUPERACIONAL. SUBMISSÃO AOS SEUS EFEITOS. SENTENÇA CONDENATÓRIA PROFERIDA POSTERIORMENTE. IRRELEVÂNCIA.
+1. Ação ajuizada em 20/5/2013. Recurso especial interposto em 27/9/2017 e concluso ao Gabinete em 8/3/2018.
+2. O propósito recursal é definir se o crédito de titularidade das recorridas, decorrente de sentença condenatória transitada em julgado após o pedido de recuperação judicial do devedor, deve sujeitar-se ao plano de soerguimento.
+3. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de negativa de prestação jurisdicional.
+4. Para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito discutido em ação de responsabilidade civil não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Precedente.
+5. Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora.
+6. Recurso especial provido.
+(REsp 1727771/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. MOMENTO EM QUE SE CONSIDERA EXISTENTE O CRÉDITO TRABALHISTA. EXEGESE ART. 49 DA LRF. PRESTAÇÃO DO SERVIÇO.
+1. Ação de habilitação de crédito da qual foi extraído o recurso especial, interposto em 09/06/2016 e concluso ao gabinete em 14/12/2016. Julgamento: CPC/15.
+2. O propósito recursal é decidir em que momento se considera existente o crédito trabalhista para efeitos de sua habilitação em processo de recuperação judicial (art. 49, da Lei 11.101/05).
+3. Considera-se existente o crédito no momento da prestação do serviço do trabalhador, independente do trânsito em julgado da reclamação trabalhista, que apenas o declara em título executivo judicial. Precedente Terceira Turma.
+4. Recurso especial provido.
+(REsp 1686168/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+RECURSO ESPECIAL. HABILITAÇÃO DE CRÉDITO. RECUPERAÇÃO JUDICIAL. PEDIDO. SENTENÇA TRABALHISTA POSTERIOR. SERVIÇO PRETÉRITO. ART. 49, CAPUT, DA LEI Nº 11.101/2005. INTERPRETAÇÃO.
+1. Cinge-se a controvérsia a saber o momento em que o crédito trabalhista é constituído para o fim de averiguar a sua sujeição, ou não, aos efeitos da recuperação judicial. No caso dos autos, a recorrida postulou, na origem, habilitação no processo de recuperação judicial da empresa recorrente, no valor de R$ 17.319,47 (dezessete mil, trezentos e dezenove reais e quarenta e sete centavos), referente a crédito trabalhista reconhecido por sentença em 27/6/2014. O pedido de recuperação foi ajuizado em 12/3/2014.
+2. O art. 49 da Lei nº 11.101/2005 ao fazer referência a "todos os créditos existentes na data do pedido", diz respeito àquelas situações essencialmente originadas antes do deferimento da recuperação judicial, quer dizer, débitos contraídos pela empresa antes da sua reconhecida condição de fragilidade.
+3. As verbas trabalhistas relacionadas à prestação de serviço realizada em período anterior ao pedido de recuperação judicial, ainda que a sentença condenatória tenha sido proferida após o pedido de recuperação judicial, devem se sujeitar aos seus efeitos.
+4. A exclusão dos créditos constituídos após o pedido de recuperação judicial tem a finalidade de proporcionar o regular funcionamento da empresa, assegurando ao devedor o acesso a contratos comerciais, bancários, trabalhistas e outros tantos relacionados com a atividade fim do empreendimento, com o objetivo de viabilizar a reabilitação da empresa. A inclusão de crédito originado em momento anterior ao pedido não atende a tal fim.
+5. Recurso especial provido.
+(REsp 1641191/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe 23/06/2017)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. DISCUSSÃO SOBRE INCLUSÃO DE CRÉDITO EM PLANO DE RECUPERAÇÃO JUDICIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. "DEMANDA ILÍQUIDA". APLICAÇÃO DO § 1º DO ART. 6º DA LEI N. 11.101/2005. CRÉDITO REFERENTE À AÇÃO INDENIZATÓRIA. OBRIGAÇÃO EXISTENTE ANTES DO PEDIDO DE SOERGUIMENTO. INCLUSÃO NO PLANO DE RECUPERAÇÃO. VIOLAÇÃO AO ART. 59 DA LEI N. 11.101/2005. RECURSO PROVIDO.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha a examinar uma a uma as alegações e os argumentos expendidos pelas partes. Ademais, não se configura omissão quando o julgador adota fundamento diverso daquele invocado nas razões recursais.
+2. No caso, verifica-se que a controvérsia principal está em definir se o crédito decorrente de sentença condenatória, proferida em autos de ação indenizatória ajuizada antes do pedido de soerguimento, submete-se, ou não, aos efeitos da recuperação judicial em curso.
+3. A ação na qual se busca indenização por danos morais - caso dos autos - é tida por "demanda ilíquida", pois cabe ao magistrado avaliar a existência do evento danoso, bem como determinar a extensão e o valor da reparação para o caso concreto.
+4. Tratando-se, portanto, de demanda cujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir perante o juízo na qual foi proposta, após o qual, sendo determinado o valor do crédito, deverá ser habilitado no quadro geral de credores da sociedade em recuperação judicial. Interpretação do § 1º do art. 6º da Lei n. 11.101/2005.
+5. Segundo o caput do art. 49 da Lei n. 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos.
+6. A situação dos autos demonstra que o evento danoso, que deu origem ao crédito discutido, bem como a sentença que reconheceu a existência de dano moral indenizável e dimensionou o montante da reparação, ocorreram antes do pedido de recuperação judicial.
+7. Na hipótese de crédito decorrente de responsabilidade civil, oriundo de fato preexistente ao momento da recuperação judicial, é necessária a sua habilitação e inclusão no plano de recuperação da sociedade devedora.
+8. Recurso especial provido.
+(REsp 1447918/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/04/2016, DJe 16/05/2016)
+Assim sendo, embora o crédito objeto da presente demanda tenha se tornado líquido e exigível após o deferimento do pedido de recuperação judicial, com o trânsito em julgado da respectiva sentença, porquanto decorrente de relação jurídica havida em momento anterior, como se depreende dos fundamentos que lastrearam o aresto recorrido, deve ser submetido ao plano de soerguimento da sociedade recuperanda.
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, dou provimento ao recurso especial, para, reformando o aresto recorrido, submeter o crédito objeto da presente demanda ao juízo da recuperação judicial.
+Publique-se.
+Intimem-se.
