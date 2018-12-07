@@ -1,0 +1,165 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno e para o Agravo em Recurso Especial, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/15) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível. Precedentes da 3ª e 6ª turmas desta Corte.
+IV - Não se conhece do Agravo em Recurso Especial que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Primeira Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto por [NOME] e OUTROS contra decisão monocrática mediante a qual não conheci do Agravo em Recurso Especial, nos termos do disposto nos arts. 932, III, do Código de Processo Civil de 2015 e 253, I, do RISTJ, porquanto cabível o Agravo Interno para impugnar decisão de negativa de seguimento do Recurso Especial em razão da matéria ter sido julgada pela sistemática dos recursos repetitivos, bem como em razão da ausência de impugnação específica de um dos fundamentos da decisão que inadmitiu, na origem, o recurso especial (fls. 361/370e).
+Sustentam os Agravantes, em síntese, que (fl. 390e):
+Necessita, pois, a recorrente, apenas da correta aplicação do direito, consubstanciado no imenso arcabouço jurisprudencial demonstrado, ao caso concreto.
+Ademais, como salientado supra, não há que se falar em discussão de matéria constitucional no presente recurso, não havendo quaisquer impedimentos ao recebimento e julgamento do Recurso Especial.
+Além disso, não há como manter a decisão tal como posta, sob pena de se perpetuar a injustiça cometida, na mesma seara, não há que se falar de falta de impugnação específica da decisão recorrida, baseada no art. 253, parágrafo único, II, a, do RISTJ, tendo em vista que todos os pontos da decisão foram devidamente impugnados.
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do Colegiado (fls. 373/391e).
+Transcorreu in albis o prazo para impugnação (certidão de fl. 397e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno e para o Agravo em Recurso Especial, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/15) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível. Precedentes da 3ª e 6ª turmas desta Corte.
+IV - Não se conhece do Agravo em Recurso Especial que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.334.822 - MS (2018/0186935-0)
+
+RELATORA
+:
+MINISTRA REGINA HELENA COSTA
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+AGRAVANTE
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+PATRICIA RODRIGUES CERRI BARBOSA - [OAB]
+
+JÂNE [NOME]) - [OAB]
+AGRAVADO
+:
+FAZENDA NACIONAL
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno e para o Agravo em Recurso Especial, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+Sustentam os Agravantes, em síntese, que (fl. 390e):
+Necessita, pois, a recorrente, apenas da correta aplicação do direito, consubstanciado no imenso arcabouço jurisprudencial demonstrado, ao caso concreto.
+Ademais, como salientado supra, não há que se falar em discussão de matéria constitucional no presente recurso, não havendo quaisquer impedimentos ao recebimento e julgamento do Recurso Especial.
+Além disso, não há como manter a decisão tal como posta, sob pena de se perpetuar a injustiça cometida, na mesma seara, não há que se falar de falta de impugnação específica da decisão recorrida, baseada no art. 253, parágrafo único, II, a, do RISTJ, tendo em vista que todos os pontos da decisão foram devidamente impugnados.
+Entretanto, acerca dos meios de impugnação das decisões proferidas pelos Presidentes ou ao Vice-presidentes dos tribunais de origem o Código de Processo Civil de 2015, com a redação dada pela Lei n. 13.256/16, dispõe:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+(..)
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+(..)
+III - sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;
+(..)
+V - realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que:
+a) o recurso ainda não tenha sido submetido ao regime de repercussão geral ou de julgamento de recursos repetitivos;
+b) o recurso tenha sido selecionado como representativo da controvérsia; ou
+c) o tribunal recorrido tenha refutado o juízo de retratação.
+§ 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Assim, revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado porque o acórdão recorrido estaria em consonância com o entendimento fixado nos termos do art. 543-C, do Código de Processo Civil de 1973, porquanto cabível agravo interno.
+Ademais, embora a Corte Especial deste Tribunal Superior tenha reconhecido a necessidade de aplicação do princípio da fungibilidade recursal quando da análise de situações semelhantes sob a égide do estatuto processual civil de 1973 (AREsp 260.033/PR, Rel. Ministro RAUL ARAÚJO, julgado em 05/08/2015, DJe 25/09/2015), incabível a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INADMITIDO COM FUNDAMENTO NO ART. 1030, I, "B", DO NOVO CPC. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. EXEGESE DO ART. 1030, § 2º, DO MESMO CÓDEX. INTERPOSIÇÃO DE ARESP. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. AUSÊNCIA DE DÚVIDA OBJETIVA. EXPRESSA PREVISÃO LEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Consoante o que dispõe o artigo 1.030, § 2º, do novo Código de Processo Civil, não cabe agravo em recurso especial ao STJ contra decisão que nega seguimento ao apelo nobre com base no artigo 1.030, inciso I, alínea "b", do mesmo Diploma Legal, sendo da competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de equívoco na aplicação de precedente do STJ em recurso especial representativo da controvérsia.
+2. "A aplicação do princípio da fungibilidade recursal, que pressupõe a existência de dúvida objetiva quanto ao recurso cabível, afigura-se inviável ante a previsão expressa do recurso adequado".
+(AgRg na SS 416/BA, Rel. Min. AMÉRICO LUZ, CORTE ESPECIAL, DJ 27/05/1996) 3. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 982.074/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/08/2016, DJe 26/08/2016).
+Corroborando tal entendimento, precedente da Corte Especial do Superior Tribunal de Justiça, ao analisar agravo nos próprios autos contra decisão que negou seguimento a recurso extraordinário, por ausência de repercussão geral:
+AGRAVO REGIMENTAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. NÃO RECONHECIMENTO DE REPERCUSSÃO GERAL. RECURSO CABÍVEL: AGRAVO INTERNO. AGRAVO EM RECURSO EXTRAORDINÁRIO MANIFESTAMENTE INCABÍVEL.
+1. "Interpostos dois agravos regimentais contra a mesma decisão, não se conhece do segundo recurso em face da preclusão consumativa"(AgRg nos EREsp 1.525.676/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 02/12/2015, DJe 14/12/2015.).
+2. Insurge-se a parte agravante contra decisão que não conheceu do agravo em recurso extraordinário.
+3. Caberá agravo interno contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional de que o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral (§2º do art. 1.030 do CPC).
+4. A interposição do agravo nos próprios autos contra decisão que aplica a sistemática da repercussão geral consubstancia erro grave.
+Não incidência do princípio da fungibilidade.
+Agravo regimental improvido. Prejudicada a análise do subsequente agravo em virtude da preclusão consumativa.
+(AgRg no ARE no RE no AgRg no AREsp 624.262/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 19/10/2016, DJe 26/10/2016).
+Outrossim, esclareço que o recurso teve seguimento negado com base no Recurso Especial n. 1.269.570/MG, julgado nos termos do art. 543-C do Código de Processo Civil de 1973.
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III, do art. 932, do mencionado estatuto processual, prevê expressamente o não conhecimento do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+No presente caso, o Recurso Especial não foi admitido sob os fundamentos de que impossibilitado o exame da apontada violação a dispositivo da Constituição da República, bem como porque incidiria a Súmula n. 83 desta Corte, segundo a qual "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (fls. 299/302e).
+Entretanto, as razões do Agravo repisam as alegações do Recurso Especial e apresentam conteúdo genérico, porquanto apenas afirmada a não incidência dos mencionados óbices de admissibilidade, mas não demonstrado como seria possível examinar as alegações do recurso sem que implique a apreciação de dispositivo do texto fundamental e, ainda, invocam precedente inapto à finalidade pretendida, e ausente demonstração de que o entendimento não está pacificado no mesmo sentido do acórdão recorrido (fls. 309/320e), não impugnando, de forma específica, nenhum dos fundamentos adotados na decisão agravada para inadmitir o Recurso Especial, impondo-se, de rigor, o não conhecimento do recurso.
+Nesse sentido são os precedentes desta Corte analisando recursos interpostos sob a sistemática do Código de Processo Civil de 1973:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. A decisão ora recorrida negou provimento ao Agravo sob os fundamentos de incidência do enunciado 283 da Súmula do STF; descabimento de inscrição da recorrida em cadastro de inadimplentes; configuração de dano moral e razoabilidade da verba indenizatória fixada.
+3. No presente Agravo Regimental, por sua vez, a concessionária-agravante não rebate as razões expostas na decisão que visa impugnar, limitando-se a discorrer, sobre questões totalmente dissociadas à decisão objurgada. Aplicável, in casu, a Súmula 182 do STJ, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo Regimental da Companhia Energética de Pernambuco não conhecido.
+(AgRg no AREsp n. 472.071/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/04/2014, DJe 07/05/2014).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. PROVA. EXTENSÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. DECISÃO AGRAVADA, FUNDAMENTOS NÃO IMPUGNADOS.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão impugnada, em razão do óbice representado pela Súmula 182/STJ.
+2. Não é possível a extensão da prova material em nome do cônjuge quando este passa a exercer atividade incompatível com o labor campesino. Precedentes.
+3. A reforma do acórdão impugnado, que fixou a ausência de demonstração das condições necessárias ao deferimento do benefício aposentadoria rural por idade, demanda reexame do quadro fático-probatório dos autos, o que não se demonstra possível na via estreita do recurso especial. Incidência da Súmula 7 do STJ.
+Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 551.094/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/10/2014, DJe 20/11/2014).
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA MOEDA. URV. LEI 8.880/94. PRESCRIÇÃO. TRATO SUCESSIVO. SÚMULA 85/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO ADOTADO PELA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos.
+(..)
+(AgRg no AREsp n. 520.470/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 13/08/2014).
+TRIBUTÁRIO. LEI COMPLEMENTAR 118/05. IRPF. AIDS. ART. 6º DA LEI Nº 7.713/88. ISENÇÃO. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ.
+(..)
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do Direito na jurisprudência do STJ.
+(..)
+5. Agravo Regimental não conhecido.
+(AgRg no AREsp n. 436.268/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/02/2014, DJe 27/03/2014).
+Além disso, não há como acolher o pedido de suspensão do feito, em razão do reconhecimento da repercussão geral da questão de fundo, porquanto o Agravo em Recurso Especial sequer superou a barreira do conhecimento. Desse modo, a conclusão do julgamento do mérito do Recurso Extraordinário n. 718.874/RS pelo Supremo Tribunal Federal não influenciará na apreciação do presente recurso.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada, proferida sob o regime do Código de Processo Civil de 2015.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1311383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016, destaque meu).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016, destaque meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA. PRIMEIRO GRAU DE JURISDIÇÃO. DENEGAÇÃO. INTERPOSIÇÃO DE APELAÇÃO. DESPROVIMENTO. IMPUGNAÇÃO POR VIA DE RECURSO ORDINÁRIO. DESCABIMENTO MANIFESTO. HIPÓTESE INADEQUADA. RECORRIBILIDADE. RECURSO ESPECIAL. NÃO CONHECIMENTO. IMPOSSIBILIDADE. DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. JURISPRUDÊNCIA SEDIMENTADA. AGRAVO INTERNO. CARÁTER DE MANIFESTA IMPROCEDÊNCIA. COMINAÇÃO DE MULTA.
+1. A denegação do mandado de segurança mediante julgamento proferido originariamente por Tribunal de Justiça ou por Tribunal Regional Federal desafia recurso ordinário, na forma do art. 105, inciso II, alínea "b", da Constituição da República.
+2. No entanto, quando impetrada a ação de mandado de segurança em primeiro grau de jurisdição e instada a competência do Tribunal local apenas por via de apelação, o acórdão respectivo desafia recurso especial, conforme o disposto no art. 105, inciso III, da Constituição da República.
+3. Dessa forma, a interposição do recurso ordinário no lugar do recurso especial constitui erro grosseiro e descaracteriza a dúvida objetiva. Precedentes.
+4. O agravo interno que se volta contra essa compreensão sedimentada na jurisprudência e que se esteia em pretensão deduzida contra texto expresso de lei enquadra-se como manifestamente improcedente, porque apresenta razões sem nenhuma chance de êxito.
+5. A multa aludida no art. 1.021, §§ 4.º e 5.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+6. Agravo interno não provido, com a condenação do agravante ao pagamento de multa de cinco por cento sobre o valor atualizado da causa, e razão do reconhecimento do caráter de manifesta improcedência, a interposição de qualquer outro recurso ficando condicionada ao depósito prévio do valor da multa.
+(AgInt no RMS 51.042/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017, destaque meu).
+No caso, não obstante o improvimento do Agravo Interno, não configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
