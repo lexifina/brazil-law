@@ -1,0 +1,32 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATOS ADMINISTRATIVOS. INFRAÇÃO DE TRÂNSITO. MULTA. ARTS. 458, 474 E 535, I E II DO CPC/1973. INOCORRÊNCIA DE OMISSÃO. JULGAMENTO MOTIVADO. AUSÊNCIA DE DEMONSTRAÇÃO DE VÍCIO APTO A ENSEJAR A NULIDADE. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. O Tribunal de origem apreciou de maneira clara e fundamentada a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, motivo pelo qual inexiste a violação apontada aos arts. 458, 474, 535, I e II do CPC/1973 e 489, III do Código Fux.
+2. Na hipótese, a Corte a quo, diante das circunstâncias fáticas dos autos, concluiu que o ato administrativo goza de presunção de legitimidade e que a parte autora não logrou demonstrar algum vício apto a ensejar sua declaração de nulidade.
+3. É inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+4. Agravo Interno do Particular desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME], contra decisão proferida às fls. 307/310, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ATOS ADMINISTRATIVOS. INFRAÇÃO DE TRÂNSITO. MULTA. ARTS. 458, 227, 474 E 535 DO CPC. INOCORRÊNCIA DE OMISSÃO. AUSÊNCIA DE PRODUÇÃO DE PROVA QUE EVIDENCIASSE QUALQUER IRREGULARIDADE NO PROCEDIMENTO ADMINISTRATIVO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+2. Reitera-se, inicialmente, a alegada violação dos arts. 458, III, 474 e 535, I e II do CPC/1973, 489, III, e 1.022 do Código Fux, reafirmando-se a omissão do acórdão recorrido, não obstante a oposição dos Aclaratórios.
+3. Quanto ao mérito, a parte recorrente sustenta que a matéria debatida tem cunho unicamente jurídico, não havendo necessidade de reincursão no campo fático-probatório dos autos.
+4. Impugnação às fls. 325/328.
+5. É o relatório.
+VOTO
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATOS ADMINISTRATIVOS. INFRAÇÃO DE TRÂNSITO. MULTA. ARTS. 458, 474 E 535, I E II DO CPC/1973. INOCORRÊNCIA DE OMISSÃO. JULGAMENTO MOTIVADO. AUSÊNCIA DE DEMONSTRAÇÃO DE VÍCIO APTO A ENSEJAR A NULIDADE. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. O Tribunal de origem apreciou de maneira clara e fundamentada a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, motivo pelo qual inexiste a violação apontada aos arts. 458, 474, 535, I e II do CPC/1973 (art. 1.022 do CPC/2015) e 489, III do Código Fux.
+2. Na hipótese, a Corte a quo, diante das circunstâncias fáticas dos autos, concluiu que o ato administrativo goza de presunção de legitimidade e que a parte autora não logrou demonstrar algum vício apto a ensejar sua declaração de nulidade.
+3. É inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+4. Agravo Interno do Particular desprovido.
+1. Reanalisando a questão ora trazida para exame desta Corte Superior, tem-se que a parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. Verifica-se, inicialmente, que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, motivo pelo qual inexiste a violação apontada dos arts. 458, 474, 535, I e II do CPC/73 (art. 1.022 do CPC/2015) e 489, III do CPC/2015. Observe-se,ainda, que julgamento diverso do pretendido, como na hipótese, não resulta em ofensa à norma invocada.
+3. Na hipótese, a Corte a quo, diante das circunstâncias fáticas dos autos, concluiu que o ato administrativo goza de presunção de legitimidade e que a parte autora não logrou demonstrar algum vício apto a ensejar sua declaração de nulidade.
+4. Portanto, é inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+5. Ressalte-se, a propósito, diversamente do que aponta a parte recorrente, que sustenta a tese de inexistência de julgamento do processo de imposição de multa de trânsito (fls. 317), a Corte Local, além de assinalar a inexistência de mácula na hipótese, também consignou a possibilidade de julgamento automático pelo sistema do órgão de trânsito, conforme previsão da Resolução 149/2003 do CONTRAN. Portanto, não há se falar em inexistência de julgamento e, estando o comportamento do órgão de trânsito em conformidade com Resolução do CONTRAN, vê-se que a inversão do julgado dependeria, necessariamente, da análise e interpretação de Resolução, inviável em sede de Recurso Especial. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. OFENSA AO ART. 1.022, II, DO CPC/15 NÃO DEMONSTRADA. EXAME DE RESOLUÇÃO. VIOLAÇÃO REFLEXA À LEI FEDERAL.
+1. De acordo com a norma prevista no art. 1.022, II, do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material da decisão recorrida. Na espécie, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão integrativo cumpriu seu ofício ao analisar, expressamente, as razões recursais e concluir que não havia omissão a ser sanada.
+2. Observa-se das razões recursais que, eventual violação de lei federal seria reflexa e não direta, visto que, para o deslinde da controvérsia, seria imprescindível a interpretação de resolução administrativa (Resolução CONTRAN 812/96), ato normativo que não se enquadra no conceito de "tratado ou lei federal de que cuida o art. 105, III, a, da CF .
+3. Agravo interno improvido (AgInt no AREsp. 1.133.843/RS, Rel. Min. SÉRGIO KUKINA, DJe 27/03/2018).
+6. Ante o exposto, nega-se provimento ao Agravo Interno do Particular. É como voto.
