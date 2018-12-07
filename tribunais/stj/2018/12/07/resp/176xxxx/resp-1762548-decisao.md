@@ -1,0 +1,76 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ARTS. 421 E 422 DO CC/02. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. TAXA SATI. COBRANÇA. ILEGITIMIDADE NÃO COMPROVADA. ABUSIVIDADE RECONHECIDA NO BOJO DO RESP Nº 1.599.511/SP, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. EXCLUDENTE DE ILICITUDE INEXISTENTE. DEVER DE INDENIZAR COMPROVADO. REFORMA. SÚMULA Nº 7 DO STJ. LUCROS CESSANTES. DEMONSTRAÇÃO DE PREJUÍZO. DESNECESSIDADE. PRECEDENTES. ART. 6º DA LINDB. NORMA DE ÍNDOLE CONSTITUCIONAL. VIA ELEITA INADEQUADA. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+ELISABETH ERIKO ICERI (ELISABETH) ajuizou ação de indenização por danos materiais e morais contra PUGLIA EMPREENDIMENTOS IMOBILIÁRIOS LTDA (PUGLIA), TRISUL VENDAS CONSULTORIA EM IMÓVEIS LTDA (TRISUL) e ACER CONSULTORES EM IMÓVEIS (ACER), em virtude de atraso na entrega de unidade imobiliária adquirida na planta.
+Em primeira instância o pedido foi julgado parcialmente procedente, a fim de (1) condenar a ré a pagar o importe de 0,5% do valor atualizado a título de indenização por dano material, devidamente atualizado e com juros de mora de 1% a partir da citação; (2) determinar que, afastado o índice INCC/FGV, a correção monetária do saldo devedor se faça pelo IPC, tudo devidamente atualizado e com juros de mora de 1% ao mês, a partir da citação; (3) julgar extinto o feito em relação as rés ACER e TRISUL, por ilegitimidade passiva); e (4) quanto ao pedido de repetição de indébito, julgá-lo parcialmente procedente, para condenar as rés a devolver à autora, de forma simples, o valor referente a taxa SATI, devidamente corrigida desde o desembolso e com juros de mora a partir da citação. Fixou, ainda, a sucumbência recíproca (e-STJ, fls. 388/398).
+O Tribunal a quo negou provimento ao apelo de PUGLIA, nos termos do acórdão a seguir ementado:
+ILEGITIMIDADE PASSIVA PARA DEVOLUÇÃO DE VALORES - Desacolhimento - Existência de cadeia de fornecedores - Responsabilidade solidária - Preliminar rejeitada.
+CERCEAMENTO DE DEFESA - Inadmissibilidade - Elementos suficientes para o convencimento do juiz - Desnecessidade de prova oral - Preliminar rejeitada.
+COMPRA E VENDA - Ação de indenização por danos materiais e morais - Atraso na entrega das chaves - Procedência parcial do pedido - Inconformismo de uma das rés - Desacolhimento
+na parte conhecida - Insurgência contra a devolução da comissão de corretagem - Não conhecimento - Inexistência de condenação a respeito - Impossibilidade de restituição.
+Abusividade da Taxa SATI - Nulidade da cobrança de deveres inerentes ao próprio contrato - Devolução simples determinada - Validade da cláusula de tolerância - Possibilidade de condenação por danos materiais - Lucros cessantes presumidos - Inteligência das Súmulas 162 e 164 deste Egrégio Tribunal - INCC que não pode incidir após o prazo para a entrega da obra - Atualização pelo IPC - Restituição dos valores indevidos de forma simples - Litigância de má-fé - Inexistência de quaisquer das hipóteses do art. 17 do Código de Processo Civil - Sentença mantida.
+Preliminares rejeitadas e recurso desprovido na parte conhecida (e-STJ, fl. 535).
+No recurso especial, fundado no art. 105, III, a, da Constituição Federal, PUGLIA alegou violação dos arts. 186, 421, 422, 876 e 927 do CC/02; 6º, §§ 1º da LINDB. Sustentou, em suma, (1) serem válidas as cláusulas contratuais livremente pactuadas; (2) a sua ilegitimidade para restituir os valores referentes a taxa SATI: (3) a existência de excludente de ilicitude (o habite-se referente a unidade em questão somente foi expedido em outubro/2012 por motivos alheios à vontade do recorrente) o que afasta a sua responsabilidade; e, (4) a não comprovação dos danos materiais nem de ocorrência de prejuízo pela não fruição do bem;
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 436/449 e 450/452).
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+De plano, vale pontuar que o presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+ (1) Da validade das cláusulas contratuais livremente pactuadas;
+A matéria contida nos arts. 421 e 422 do CC/02, tidos por ofendidos, da forma em que lançada nas razões do apelo especial, não foi enfrentada pelo Tribunal de origem, em nem foram opostos embargos de declaração a fim de suscitar a discussão dos temas nele contidos pela Corte de origem.
+Assim, ausente o prequestionamento da questão federal, incide, na espécie, a Súmula nº 282 do STF a obstar o processamento do recurso pele alínea a do permissivo constitucional.
+(2) Da ilegitimidade para restituição dos valores da taxa SATI
+A Corte de origem manteve a decisão que condenou a demandada ao pagamento da taxa de Serviço de Assessoria Técnico-Imobiliária (SATI).
+Com relação ao tema, a eg. Segunda Seção desta Corte, no julgamento do Recurso Representativo da Controvérsia Resp nº 1.599.511/SP, de relatoria do Ministro PAULO DE TARSO SANSEVERINO, reconheceu a abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. VALIDADE. PREÇO TOTAL. DEVER DE INFORMAÇÃO. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). ABUSIVIDADE DA COBRANÇA.
+I - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem.
+1.2. Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel.
+II - CASO CONCRETO: 2.1. Improcedência do pedido de restituição da comissão de corretagem, tendo em vista a validade da cláusula prevista no contrato acerca da transferência desse encargo ao consumidor.
+Aplicação da tese 1.1.
+2.2. Abusividade da cobrança por serviço de assessoria imobiliária, mantendo-se a procedência do pedido de restituição. Aplicação da tese 1.2.
+III - RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp nº 1.599.511/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, j. em 24/8/2016, DJe 6/9/2016; sem destaque no original).
+Com relação ao tema, a Corte de origem ressalto que:
+No que tange ao pagamento de serviço de assessoria técnico-imobiliária (SATI), o Colendo Superior Tribunal de Justiça, no julgamento do REsp nº 1.599.511 - SP, sob a técnica dos recursos repetitivos, reconheceu a abusividade da cobrança porque "constitui mera prestação de um serviço inerente à celebração do próprio contrato, inclusive no que tange ao dever de informação, não constituindo um serviço autônomo oferecido ao adquirente, como ocorre com a corretagem.
+Verifica-se, neste caso, uma flagrante violação aos deveres de correção, lealdade e transparência, impostos pela boa-fé objetiva, tendo em vista a cobrança, a título de serviço de assessoria técnico-imobiliária (SATI), pelo cumprimento de deveres inerentes ao próprio contrato celebrado. Consideram-se, assim, nulas de pleno direito as cláusulas que obrigam o consumidor a pagar o serviço de assessoria técnico-imobiliária (SATI), ou congênere, ex vi do art. 51, IV, in fine, do Código de Defesa do Consumidor.
+(..) Ademais, essa assessoria é um serviço que envolve o elemento confiança (intuitu personae). Assim, se o consumidor necessitar de alguma assessoria técnica ou jurídica para orientá-lo acerca do contrato ou de outros detalhes relativos à aquisição do imóvel, pode contratar diretamente um profissional ou advogado da sua confiança, e não alguém vinculado à incorporadora".
+Sendo assim, o valor pago a título de taxa SATI, descrito no documento de fls. 83 (R$ 1.250,00), deverá mesmo ser restituído de forma simples (e-STJ, fls. 537/538).
+Estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(3) Do dever de indenizar e da inexistência de excludente de ilicitude
+O Tribunal a quo afastou a alegada existência de excludente de ilicitude, assentando o dever de indenizar, nos termos das razões abaixo:
+No caso dos autos, como já dito, o prazo a ser considerado para entrega do imóvel deve ser o mês de março de 2012, haja vista a necessidade de inclusão do prazo de tolerância previsto na cláusula 7.1 do contrato firmado entre as partes (v. fls. 53)
+O cabimento da indenização por lucros cessantes já foi objeto da Súmula 162 deste Egrégio Tribunal, que estabelece: "Descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, independentemente da finalidade do negócio".
+Tal entendimento justifica o arbitramento de lucros cessantes, uma vez que o prejuízo é presumido, evitando-se seja o comprador prejudicado pela mora da vendedora, pois estabelece certa correspondência entre o preço do imóvel adquirido e outro eventualmente alugado enquanto aguardava a entrega do seu.
+E nem se alegue que o atraso se deu por caso fortuito ou força maior atribuível a terceiros, notadamente a burocracia do poder público na emissão de documentos, crescimento da demanda imobiliária e/ou falta de mão de obra ou de materiais indispensáveis para a execução dos trabalhos, devendo ser observado o teor da Súmula 161 editada por este Egrégio Tribunal de Justiça: "Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram "res inter alios acta" em relação ao compromissário adquirente".
+Na espécie, o período de atraso se iniciou em abril de 2012, já considerado o prazo de tolerância de 180 (cento e oitenta) dias, e perdurou até 14 de março de 2013 (data da entrega das chaves - fls. 283), razão pela qual está correta a fixação do porcentual de 0,5% (meio por cento) ao mês sobre o valor atualizado do contrato, com a incidência de juros de mora de 1% ao mês a partir da
+citação (e-STJ, fls. 528/529).
+Desse modo, para rever as conclusões acima é necessários o reexame dos fatos da causa, incidindo, no ponto, o óbice da Súmula nº 7 do STJ.
+(4) Da não comprovação do prejuízo
+O conteúdo decisório do Tribunal de origem está em harmonia com o entendimento desta Corte Superior, no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promitente-comprador.
+Nesse sentido, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL - DECISÃO MONOCRÁTICA QUE CONHECEU O AGRAVO DE INSTRUMENTO DE, DE PLANO, DEU PROVIMENTO AO RECURSO ESPECIAL DA AUTORA. INSURGÊNCIA DA DEMANDADA.
+1. No caso de rescisão de contrato de compra e venda de imóvel por atraso na entrega da obra, a jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de entender devido o pagamento de indenização por lucros cessantes durante o período de mora do promitente-vendedor, sendo presumido o prejuízo do promitente-comprador.
+2. Agravo interno desprovido
+(AgInt no Ag 1390303/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, j. 20/4/2017, DJe 28/4/2017).
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA. APELO DA CONSTRUTORA. ENTREGA DO IMÓVEL. ATRASO INJUSTIFICADO. LUCROS CESSANTES. PROMITENTE COMPRADOR. DEMONSTRAÇÃO DE PREJUÍZO. DESNECESSIDADE. PRESUNÇÃO. ADMISSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+2. A decisão agravada consignou a possibilidade de condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador, nos casos em que há atraso na entrega do imóvel, estando em consonância com a atual jurisprudência desta Corte.
+ ..
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1000722/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, j. 4/4/2017, DJe 17/4/2017).
+Com igual entendimento, vejam-se ainda: AgInt no AREsp 978.237/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 7/3/2017, DJe 16/3/2017, e, AgRg no AREsp 229.165/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 20/10/2015, DJe 27/10/2015).
+(5) Da ofensa ao art. 6º da LINDB
+Esta Corte entende que a violação aos princípios do art. 6º da LINDB, apesar de serem previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional, que não podem ser analisados pelo STJ.
+Confira-se o precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO À LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO. IMPOSSIBILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. PRINCÍPIOS DE CONTORNOS CONSTITUCIONAIS. NULIDADE. AUSÊNCIA DE CITAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBLIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DECLARAÇÃO DE NULIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO EFETIVO PREJUÍZO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. INCIDÊNCIA.
+1. Os princípios contidos na Lei de Introdução às Normas do Direto Brasileiro (LINDB), apesar de previstos em norma infraconstitucional, não podem ser analisados em recurso especial, pois são institutos de natureza constitucional.
+ .. .
+6. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1694390/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 13/3/2018, DJe 20/3/2018).
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% sobre o valor dos honorários advocatícios anteriormente fixados em desfavor de PUGLIA EMPREENDIMENTOS IMOBILIÁRIOS LTDA, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
