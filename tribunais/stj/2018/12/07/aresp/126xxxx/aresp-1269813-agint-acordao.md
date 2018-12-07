@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ATENDIMENTO FORA DA REDE CREDENCIADA. REEMBOLSO INTEGRAL DEVIDO. FALHA NA INFORMAÇÃO AO BENEFICIÁRIO DO PLANO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Inexiste omissão quando o acórdão recorrido aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Tendo o Tribunal de origem concluído, à luz da prova dos autos, pelo dever de cobertura integral do tratamento realizado fora da rede credenciada, pois o plano de saúde falhou ao prestar as informações ao paciente, inviável a inversão do julgado, por força do Enunciado n.º 7/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A em face de decisão, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DEVER DE REEMBOLSO INTEGRAL. AUSÊNCIA DE REDE CREDENCIADA APTA A REALIZAR O TRATAMENTO DO USUÁRIO. REEXAME. SÚMULA 7/STJ. DISPOSITIVOS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESTA EXTENSÃO NEGAR-LHE PROVIMENTO.(e-STJ fl. 502)
+Em suas razões recursais, a ora agravante, alega: (i) que há omissão no decisum da Corte de origem quanto à extensão do reembolso dos procedimentos realizados fora da rede credenciada; (ii) a desnecessidade de reexame de provas; (iii) que a indicação dos dispositivos legais no tópico da síntese da questão - arts. 422 e 476 do Código Civil, e 47 do Código de Defesa do Consumidor - , não passou de mero erro material, devendo, assim, ser afastada a incidência da Súmula 284/STF.
+Ausente impugnação. (e-STJ fl. 531)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ATENDIMENTO FORA DA REDE CREDENCIADA. REEMBOLSO INTEGRAL DEVIDO. FALHA NA INFORMAÇÃO AO BENEFICIÁRIO DO PLANO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Inexiste omissão quando o acórdão recorrido aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Tendo o Tribunal de origem concluído, à luz da prova dos autos, pelo dever de cobertura integral do tratamento realizado fora da rede credenciada, pois o plano de saúde falhou ao prestar as informações ao paciente, inviável a inversão do julgado, por força do Enunciado n.º 7/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia.
+O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, afirmando que é devido o custeio integral do tratamento, uma vez que a operadora do plano de saúde deixou de comprovar que informou à recorrida sobre as limitações de cobertura do plano de saúde, bem como não indicou hospital da sua rede credenciada para realizar o tratamento indicado pelo médico.
+Confira-se, a propósito, os seguintes excertos do acórdão recorrido:
+O relatório médico de fls. 45/46 demonstra a acentuada progressão da doença, principalmente após o mês de julho/2013, e o consequente caráter emergencial do procedimento:
+"Foi submetida a tratamento imunomodulador com Betainterferona 1b (Betaferon) por 15 anos, porém durante todo este período de tratamento mantinha cerca de 1 surto a cada 2 anos, claramente com resposta subótima analisando retrospectivamente, e, a partir de 2010 com aumento da frequência de surtos envolvendo a medula espinhal levando a perda de força muscular dos membros inferiores e do controle esfincteriano, e acúmulo de novas lesões e aumento de carga lesional, e a partir de maio de 2012 decidido pelo médico que a acompanhava até aquele momento pela troca do tratamento com nítidos critérios de falha terapêutica ao imunomodulador. Em julho de 2012, portanto, iniciou tratamento com Tysabri (Natalizumabe), uma medicação mais eficaz, apresentando nos primeiros 12 meses boa aceitação e estabilidade neurológica, porém, a partir da 13ª infusão, desenvolveu novos surtos envolvendo novamente a medula espinhal, comprometendo sua mobilidade e passando a necessitar de bengala (apoio unilateral) e posteriormente apoio b ilateral, com grande impacto na mobilidade e na qualidade de vida. Mesmo assim, houve a tentativa por parte do profissional que a acompanhava em manter a mesma terapia, completando um total de 26 infusões, e assim contabilizando então a ocorrência de 4 (quatro) surtos motores até o mês de novembro de 2014. Tanto pela agressividade como pelo grau de comprometimento neurológico da paciente, que apresenta a pontuação 6.5 na escala EDSS (Expanded Disability Status, Kurtzke, 1983) sendo então indicado uma terapia imunossupressora de alta eficácia, sendo atualmente disponível o transplante autólogo de células tronco hematopoiéticas, como escalonamento terapêutico frente à falha das terapias utilizadas até o momento.
+(..)."
+Por sua vez, era ônus da ré comprovar a existência de hospital especializado dentro da rede credenciada do plano de saúde da autora, consoante o disposto no artigo 6º, VIII, do Código de Defesa do Consumidor, de maneira que deve ser responsabilizada, nos termos da súmula 99 deste E. Tribunal de Justiça:
+"Não havendo, na área do contrato de plano de saúde, atendimento especializado que o caso requer, e existindo urgência, há responsabilidade solidária no atendimento ao conveniado entre as cooperativas de trabalho médico da mesma operadora, ainda que situadas em bases geográficas distintas."
+Outrossim, a ré não demonstrou ter informado a recusa e seu motivo por escrito ao autor.
+Aliás, justamente para evitar a ausência de informação ao consumidor, a Agência Nacional de Saúde publicou, em 06/03/13, nova norma que estabelece que as operadoras de plano de saúde deverão, sempre que negarem autorização aos seus beneficiários para a realização de procedimentos médicos, fazer a comunicação por escrito. A informação da negativa deverá ser em linguagem clara, indicando a cláusula contratual ou dispositivo legal que a justifique, não podendo, ainda, a cobertura ser negada em casos de urgência e emergência.
+Por isso, ao deixar de comprovar a prestação dessa informação ao autor, não pode, agora, a ré se beneficiar, sob o argumento de que ele tinha ciência da ausência de cobertura do Hospital Albert Einstein, sendo que sequer informou sobre eventual existência de hospital da rede credenciada apto a realizar o transplante indicado à autora.(e-STJ fls. 373/374)
+Dessa forma, essa conclusão não se submete à revisão deste Tribunal Superior, pois abarcada pelo enunciado 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO REALIZADO FORA DA REDE CREDENCIADA. REEMBOLSO DE DESPESAS PELA OPERADORA. POSSIBILIDADE. REVISÃO. SÚMULAS N. 5 E 7 DO STJ . AGRAVO IMPROVIDO.
+1. Tendo o Tribunal de origem, concluído, com base no Código de Defesa do Consumidor, que a operadora não se desincumbiu de demonstrar fato impeditivo ou modificativo do direito do autor, alterar esse entendimento necessitaria do revolvimento de cláusulas de contrato e de fatos e provas dos autos, o que encontra óbice nos enunciados n. 5 e 7 da Súmula do Superior Tribunal de Justiça, o que também inviabiliza o exame recursal fundamentado em dissídio jurisprudencial.
+2. O Tribunal, também ao destacar que a cirurgia era de alta complexidade, decidiu de acordo com o entendimento desta Corte no sentido de ser possível o ressarcimento quando a intervenção se der em estabelecimento não conveniado ao plano em razão da excepcionalidade do caso (inexistência de estabelecimento credenciado no local, recusa do hospital conveniado a receber o paciente, urgência da internação, etc). Precedentes. Incidência da Súmula 83/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 944.959/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/09/2016, DJe 30/09/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO EM ESTABELECIMENTO NÃO CONVENIADO. PROCEDIMENTO EMERGENCIAL. REEMBOLSO DE VALORES. POSSIBILIDADE. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Consoante a jurisprudência desta Corte, em casos excepcionais, como nas hipóteses de urgência ou emergência no atendimento e ausência de hospital conveniado para receber o paciente, é possível o ressarcimento das despesas efetuadas pelo beneficiário de plano de saúde em rede não conveniada.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. No caso concreto, o Tribunal de origem concluiu pelo caráter emergencial do procedimento realizado. Alterar esse entendimento demandaria a reavaliação das cláusulas contratuais e o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 517.888/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/12/2014, DJe 02/02/2015)
+Ademais, A discussão acerca da legalidade da cláusula contratual limitativa do reembolso das despesas médico-hospitalares, em razão de tratamento realizado em hospital não credenciado, reclama interpretação de cláusulas contratuais e o reexame dos fatos e provas dos autos, o que é vedado em razão dos óbices insertos nas Súmulas 5 e 7 de Tribunal Superior. (AgInt no AREsp 441.482/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe 22/03/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
