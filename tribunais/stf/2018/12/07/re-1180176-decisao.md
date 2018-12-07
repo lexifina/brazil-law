@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Oitava Turma do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, p. 85):
+    “CONSTITUCIONAL E ADMINISTRATIVO. PENSÃO POR MORTE DE EX-COMBATENTE. ART. 53, II, ADCT. CUMULAÇÃO COM BENEFÍCIO PREVIDENCIÁRIO DE EX-COMBATENTE. IMPOSSIBILIDADE. MESMO FATO GERADOR. PRECEDENTES. APELO DESPROVIDO.
+    1. Retornaram os autos do col. STJ, que deu provimento ao agravo em Recurso Especial intentado pela autora para ‘considerar como ex-combatente aquele que participou de, no mínimo, duas viagens em zonas de ataques submarinos’ e determinou a continuidade do julgamento da apelação, a fim de ser dirimida a controvérsia concernente a ‘impossibilidade de cumulação da pensão do art. 53, II, da ,ADCT com a pensão de ex-combatente paga pelo INSS’, tendo em vista que referido tema não fora objeto do acórdão recorrido.
+    2. A jurisprudência assente neste eg. Tribunal e no col. STJ firmou-se no sentido de que somente é possível a cumulação de pensão especial de ex-combatente com benefício de natureza previdenciária, quando este não tenha como fato gerador a condição de ex-combatente, sob pena de bis in idem.
+    3. Embora o art. 53, do ADCT admita a percepção simultânea da pensão especial com benefícios previdenciários, esta possibilidade deixa de existir quando os benefícios são oriundos do mesmo fato gerador, qual seja, a condição de ex-combatente, cabendo ao interessado, nessa circunstância, optar por aquele que lhe pareça mais vantajoso.
+    4. Apelação desprovida. ”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aduz-se ofensa ao artigo 53, II do ADCT.
+    Nas razões recursais, defende-se, em suma, a possibilidade de cumulação de pensão especial com pensão previdenciária, ambas de ex-combatente.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, verifica-se que as razões do apelo extremo estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso a Súmula 284 desta Corte. Isso porque o Tribunal de origem concluiu que, “Embora o art. 53, II do ADCT admita a percepção simultânea da pensão especial de ex-combatente com benefícios previdenciários, esta possibilidade deixa de existir quando os benefícios pleiteados são oriundos do mesmo fato gerador. Nessa circunstância, caberá à interessada optar pelo benefício que lhe parecer mais vantajoso, conforme decidido na sentença recorrida.”, (eDOC 6, p.25), argumento não rechaçado pela recorrente.
+    Incide, portanto, a Súmula 284 do STF. Nesse sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N.284 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 652247 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 10.10.2011)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento. (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Quanto ao mais, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 07 de dezembro de 2018.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
