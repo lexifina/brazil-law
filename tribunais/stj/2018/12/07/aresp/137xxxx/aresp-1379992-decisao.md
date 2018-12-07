@@ -1,0 +1,15 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CRIME 01 - RÉU EDSON. FURTO QUALIFICADO E ROUBO MAJORADO PELO CONCURSO DE AGENTES (ART. 155, §4º, IV E 157, §2º, II, DO CP).SENTENÇA CONDENATÓRIA. PEDIDO PARA REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL FACE AO RECONHECIMENTO DA ATENUANTE CONFISSÃO - IMPOSSIBILIDADE - ÓBICE DO ENUNCIADO 231 DO STJ.RECURSO CONHECIDO E IMPROVIDO.
+APELAÇÃO CRIME 02 - RÉU ADILSON. FURTO QUALIFICADO E ROUBO MAJORADO PELO CONCURSO DE AGENTES (ART. 155, §4º, IV E 157, §2º, II, DO CP). SENTENÇA CONDENATÓRIA. PEDIDO PARA REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL FACE AO RECONHECIMENTO DA ATENUANTE CONFISSÃO - IMPOSSIBILIDADE - ÓBICE DO ENUNCIADO 231 DO STJ.RECURSO CONHECIDO E IMPROVIDO.
+APELAÇÃO CRIME 03 - RÉU BRUNO. FURTO QUALIFICADO E ROUBO MAJORADO PELO CONCURSO DE AGENTES (ART. 155, §4º, IV E 157, §2º, II, DO CP). SENTENÇA CONDENATÓRIA. PEDIDO DE RECONHECIMENTO DA ATENUANTE PREVISTA NO ART.65, I DO CP (MENORIDADE RELATIVA) - POSSIBILIDADE - DOCUMENTOS QUE COMPROVAM QUE O RECORRENTE POSSUÍA MENOS DE 21 ANOS NA ÉPOCA DOS FATOS.PEDIDO DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL FACE AO RECONHECIMENTO DA ATENUANTE DE MENORIDADE E CONFISSÃO - IMPOSSIBILIDADE - ÓBICE DO ENUNCIADO 231 DO STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ fls. 742/743)
+Sustenta a defesa a violação do artigo 65, III, "d", do Código Penal, insurgindo-se, em síntese, que a atenuante da menoridade relativa deve ser aplicada independentemente da pena estabelecida. Sustenta que a Súmula 231/STJ atenta contra o princípio da legalidade, porquanto produz interpretação in malam partem.
+Contrarrazões às e-STJ fls. 822/830.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às fls. 881/882.
+É o relatório. Decido.
+A irresignação não prospera.
+É que como bem decidiu o Tribunal de origem à e-STJ fl. 750, esta Corte Superior tem entendimento firmado no sentido de que fixada a pena-base no mínimo legal, ainda que reconhecidas as atenuantes da confissão e da menoridade relativa, não poderão repercutir no cálculo da reprimenda, porquanto, a teor da Súmula n. 231 do STJ, descabe a redução da pena na segunda fase da dosimetria a patamar aquém do mínimo legal em razão da existência de circunstância atenuante (ut, HC 272.043/BA, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 22/4/2016).
+Nesse mesmo sentido: AgRg no AREsp 1223092/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 13/08/2018; HC 431.336/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 15/06/2018 e AgRg no REsp 1637245/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 15/03/2017.
+Incidência do enunciado n. 568 deste Tribunal.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
