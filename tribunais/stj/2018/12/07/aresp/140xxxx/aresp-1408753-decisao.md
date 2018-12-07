@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pela União, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 5ª Região, que não admitiu recurso especial com base no seguinte fundamento: "No tocante à parte essencial do recurso, observa-se que a controvérsia posta nos autos (se a União extrapolou ou não, ao editar a Lei nº 9.717/98 e o Decreto nº 3.788/2001, a sua competência concorrente para estabelecer normas gerais sobre Sistema Previdenciário Municipal) foi dirimida pelo acórdão recorrido no âmbito eminentemente constitucional, o que afasta a competência do STJ para a análise do desiderato contido no Recurso Especial." (fl. 283).
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, que "percebe-se claramente que o acórdão recorrido embasou-se em legislação infraconstitucional ao decidir relativamente ao caso sub judice" (fl. 290), a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
