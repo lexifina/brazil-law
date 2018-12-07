@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1854, de 4 de dezembro de 2018
+Altera a Instrução Normativa RFB nº 1.169, de 29 de junho de 2011, que estabelece procedimentos especiais de controle na importação ou na exportação, e a Instrução Normativa RFB nº 1.282, de 16 de julho de 2012, que dispõe sobre a descarga direta e o despacho aduaneiro de importação de mercadoria transportada a granel.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 52 do Decreto-Lei nº 37, de 18 de novembro de 1966, e nos arts. 578 e 579 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
