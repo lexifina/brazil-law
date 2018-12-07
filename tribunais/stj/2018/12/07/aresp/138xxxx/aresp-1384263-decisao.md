@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo desafiando decisão que não admitiu recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+"RESPONSABILIDADE CIVIL - ACIDENTE DE TRÂNSITO - DANOS MATERIAIS, MORAIS E ESTÉTICOS - Caracterizada a revelia - Comprovada a culpa do Requerido - Comprovados os danos materiais referentes ao reparo da motocicleta -Não comprovadas as despesas médicas e não comprovados os lucros cessantes - Não caracterizados os danos estéticos - Caracterizados os danos morais - SENTENÇA DE PARCIAL PROCEDÊNCIA, para condenar ao pagamento de indenização por danos materiais no valor de R$ 2.793,00 e indenização por danos morais no valor de R$ 20.000,00 - RECURSO DO REQUERIDO IMPROVIDO." (e-STJ, fl. 260)
+Nas razões do recurso especial, a parte agravante sustenta, em síntese, ser exorbitante o valor fixado a título de indenização por danos morais, uma vez que "(..) a subsistir o valor fixado, a punição ao recorrente será desproporcional ao ocorrido, além de acarretar no comprometimento da própria subsistência do recorrente e de sua família, pois permanece a mesma situação econômica da época dos fatos" (e-STJ, fl. 271).
+É o relatório. Decido.
+Nas razões do especial, a parte recorrente não indicou quais teriam sido os dispositivos legais porventura violados pelo Tribunal a quo.
+O apelo nobre fundado na alínea "a" do permissivo constitucional requer, obrigatoriamente, que o recorrente particularize de forma inequívoca os dispositivos legais que entenda tenham sido contrariados ou aos quais o Tribunal de origem lhes tenha negado vigência, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial.
+O mero inconformismo, caso dos autos, sem a demonstração do dispositivo legal supostamente violado constitui argumentação deficiente, impedindo, por conseguinte, a exata compreensão da controvérsia a ser dirimida, apta a atrair, por analogia, o teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A título demonstrativo, na parte que interessa:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMISSIBILIDADE. SÚMULA Nº 284/STF. INDICAÇÃO GENÉRICA DA LEI FEDERAL E AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO LEGAL E DA NORMA LEGAL.  ..
+1. Considera-se deficiente de fundamentação o recurso especial que não indica quais dispositivos legais teriam sido violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284/STF.
+ .. "
+(AgRg no REsp 793.488/RS, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, julgado em 23/4/2013, DJe 2/5/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA.  ..  AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. O Recurso Especial encontra-se deficientemente fundamentado, porquanto a agravante não indicou expressamente quais dispositivos legais teriam sido contrariados pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não pode ser conhecido o Recurso Especial. Incide, por analogia, a Súmula 284 do STF.
+ .. "
+(AgRg no AREsp 272.161/MS, PRIMEIRA TURMA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 19/3/2013, DJe 3/4/2013)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
