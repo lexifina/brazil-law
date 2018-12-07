@@ -1,0 +1,57 @@
+DECISÃO
+Relatório.
+Trata-se de mandado de segurança impetrado por [NOME] contra ato do Ministro de Estado da Justiça, consubstanciado no Aviso n. 1.129/MJ, de 18 de setembro de 2014, pelo qual a autoridade ora impetrada indeferiu requerimento do Advogado-Geral da União, veiculado pelo Aviso AGU n. 239, de 18 de julho de 2014, requisitando a impetrante para exercício de suas funções em Salvador, Bahia.
+Alega que a negativa de cessão é ilegal e abusiva porque: (a) as requisições da AGU são irrecusáveis e, portanto, vinculadas; (b) o argumento de insuficiência de pessoal nos quadros do MJ não é válido porque há concurso vigente e as nomeações têm sido feitas com frequência; (c) diariamente são publicados atos de requisição e cessão de outros servidores do Ministério, o que denota ruptura da imparcialidade na negativa ora combatida; (d) a preservação da unidade familiar, garantia constitucional inserta no art. 226 da Carta da República, assegura à impetrante o direito de convivência com seus familiares, residentes na capital soteropolitana; e, (e) a autora encontra-se gestante e enfrenta sérios problemas emocionais, que requerem a atenção e apoio dos familiares.
+O pedido de concessão de liminar para determinar imediata cessão à Advocacia-Geral da União foi indeferido, conforme fundamentos da decisão às fls. 207 a 209.
+Custas recolhidas (fls. 145 e 146).
+Intimada, a União limitou-se a manifestar interesse no feito (fl. 217).
+O Ministro de Estado da Justiça, na condição de autoridade impetrada, prestou as informações às fls. 156 a 206, nas quais refutou, ponto a ponto, as alegações da impetrante. Em essência, argumentou que: (1) requisições não deveriam ser nominadas, devendo a escolha do servidor a ser cedido ficar ao juízo do órgão cedente; (2) na hipótese de redução significativa da força de trabalho, a requisição deve ser indeferida, em respeito ao princípio da eficiência; e, (3) porque sempre lotada em Brasília, não houve, no caso da servidora impetrante, a alegada ruptura do vínculo familiar, não merecendo acolhimento a alegação de violação da garantia do art. 226 da Constituição Federal.
+O Ministério Público Federal, pelo Subprocurador-Geral da República [NOME], manifestou-se pela denegação da ordem, consoante parecer às fls. 224 e 225, assim ementado:
+Requisição de servidora. Indeferimento administrativo. Preservação da unidade familiar. Insuficiência da prova pré-constituída. Ausência de direito líquido e certo.
+Pela denegação da ordem. (fl. 224).
+Custas recolhidas (fl. 145 e 146).
+Representação regular (fl. 17).
+Decisão.
+A Lei n. 12.016, de 7 de agosto de 2009, que disciplina o mandado de segurança, elenca em seu artigo 1º os pressupostos que legitimam a concessão da ordem, quais sejam: a ilegalidade ou abuso de poder, em violação do direito líquido e certo de qualquer pessoa.
+Na hipótese em exame, diz a impetrante que é Analista Técnico-administrativa do quadro efetivo do Ministério da Justiça desde 2 de julho de 2010 e que tem o direito líquido e certo de ser cedida à Procuradoria Federal do Estado da Bahia (AGU) para ter exercício em Salvador, BA, direito esse alegadamente violado por ato abusivo e ilegal do Ministro de Estado da Justiça.
+Para sustentar sua tese, alega, inicialmente, que as requisições da AGU são irrecusáveis, ou seja, oficializado o pedido pelo Advogado-Geral da União, nos termos do art. 47 da Lei Complementar 73/1993, caberia ao Impetrado unicamente deferi-lo de pronto, sem nenhum juízo de conveniência ou oportunidade, por força do que dispõe o art. 1º do Decreto n. 4.050/2001.
+No ponto, a tese da impetração não comporta acolhimento.
+Em primeiro, porque o mandado de segurança somente se presta a defender um direito do próprio impetrante, vedado o seu manejo em defesa de interesses de terceiros, ainda que institucionais.
+Nesse sentido, já se manifestou este STJ:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO CONSTITUCIONAL. ADMISSIBILIDADE DO WRIT. SENTENÇA QUE CONVOLA RECUPERAÇÃO JUDICIAL EM FALÊNCIA. MANDAMUS IMPETRADO POR TERCEIROS, ACIONISTAS MINORITÁRIOS DE SOCIEDADE EMPRESÁRIA CONTROLADORA DAS SOCIEDADES EMPRESÁRIAS FALIDAS. DIREITO PRÓPRIO DOS IMPETRANTES. INEXISTÊNCIA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DILAÇÃO PROBATÓRIA. NECESSIDADE. PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA. RECURSO DESPROVIDO.
+1. O mandado de segurança visa à defesa de direito líquido e certo próprio do impetrante.
+ ..
+5. Recurso ordinário desprovido.
+(RMS 45.842/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 08/06/2015)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO CONSTITUCIONAL. ADMISSIBILIDADE DO WRIT. SENTENÇA QUE CONVOLA RECUPERAÇÃO JUDICIAL EM FALÊNCIA. MANDAMUS IMPETRADO POR TERCEIROS, ACIONISTAS MINORITÁRIOS DE SOCIEDADE EMPRESÁRIA CONTROLADORA DAS SOCIEDADES EMPRESÁRIAS FALIDAS. DIREITO PRÓPRIO DOS IMPETRANTES. INEXISTÊNCIA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DILAÇÃO PROBATÓRIA. NECESSIDADE. PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA. RECURSO DESPROVIDO.
+1. O mandado de segurança visa à defesa de direito líquido e certo próprio do impetrante.
+2. Na espécie, os impetrantes, dizendo-se terceiros prejudicados, utilizam-se do presente mandamus para a defesa de supostos direitos na realidade pertencentes às sociedades empresárias falidas, cuja possível violação traz consequências indiretas aos interesses da sociedade controladora das falidas, da qual os impetrantes são sócios minoritários.
+ ..
+4. Nesse contexto, é manifesta a carência de ação dos impetrantes.
+5. Recurso ordinário desprovido.
+(RMS 45.842/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 08/06/2015)
+No caso ora examinado, o argumento da impetrante, a pretexto de buscar seu próprio interesse, indica, na verdade, a defesa de prerrogativa que, em tese, seria da Advocacia Geral da União, enquanto órgão requisitante. Não cabe, pois, à servidora interessada, ainda que, compreensivelmente, deseje a mencionada cessão, avocar para si prerrogativa que, em tese, a lei reservou apenas às autoridades legalmente constituídas.
+Em segundo, é de se notar que a recusa foi formalmente apresentada ao Advogado Geral da União por meio do Aviso n. 1.129 (ato apontado como coator) mas não há notícia de que essa Autoridade - AGU - ciente da impossibilidade da cessão, tenha adotado alguma medida que indicasse a reiteração do pedido, nos moldes em que sinalizado pelo órgão de origem: "caso a requisição seja imprescindível, encaminhe nova requisição a este Ministério  da Justiça  nos termos da decisão exarada pelo Tribunal de Contas da União no acórdão 199/2011" (fl. 25). Por outras palavras, instado a reiterar o pedido, se julgasse imprescindível a requisição, a autoridade requisitante não o fez, denotando, com esse comportamento, desinteresse na aludida movimentação, fato que, só por si, afasta o direito líquido e certo de que a impetrante diz ter.
+Também não merecem prosperar os argumentos de que a alegada insuficiência de pessoal nos quadros do MJ não se justifica, em razão de concurso vigente e frequentes nomeações, e que a publicação diária de atos de cessão de outros servidores denotaria ruptura da imparcialidade.
+Isto porque a nomeação não cria cargos, prestando-se apenas ao provimento daqueles já existentes no quadro efetivo da Administração. Depois, a cessão de um servidor não abre, para o órgão cedente, um novo posto de trabalho, que possa ser suprido mediante nomeação.
+Ademais, o acolhimentos dessas teses - insubsistência da falta de pessoal e ruptura da imparcialidade - não está suficientemente provada pelo acervo documental apresentado nestes autos, reclamando, para a aferição do acerto destas alegações, inevitável dilação probatória, o que, por sua vez, é sabidamente incompatível com a via eleita. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO LÍQUIDO E CERTO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. "A opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual e da prioridade na tramitação em relação às ações ordinárias, porém, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado" (AgRg no MS 19.025/DF, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 21/9/2016).
+ ..
+4 Agravo interno não provido.
+(AgInt no RMS 56.351/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 05/10/2018)
+O fato de a autora achar-se gestante à época da impetração (dezembro de 2014), para além de exorbitar do âmbito jurídico, é agora desinfluente, em razão do decurso natural do tempo. Tem-se por prejudicado.
+Por fim, não merece prosperar a alegação de garantia constitucional. Com efeito, o art. 226 da Constituição Federal confere à família a "especial proteção do Estado". Porém, não se pode extrair, daí, suporte para a tese defendida pela impetrante, que esse dispositivo lhe asseguraria direito de conviver com seus parentes na capital soteropolitana, não só porque voluntariamente aceitou o cargo para o qual se classificou no concurso público, cuja lotação sabia ser na capital federal, mas também porque, segundo a jurisprudência deste STJ, a tutela estatal à família não é absoluta, a ponto de se sobrepor ao interesse público. A propósito, confira-se:
+ADMINISTRATIVO. SERVIDOR DO PODER JUDICIÁRIO DO ESTADO DO MARANHÃO. PEDIDO DE REMOÇÃO PARA COMARCA PRÓXIMA À RESIDÊNCIA DA FAMÍLIA. SITUAÇÃO INADEQUADA À LEGISLAÇÃO PERTINENTE. PREVALÊNCIA DO INTERESSE PÚBLICO SOBRE O PRIVADO.
+1. Hipótese em que o impetrante pleiteia a remoção da Comarca de Pedreiras/MA para a Comarca de Timon/MA, sob o argumento de que a proteção da família deve se sobrepor a quaisquer outros interesses ou conveniências da Administração.
+2. A Constituição Federal de 1988, em seu art. 226, consagra o princípio da proteção à família como base da sociedade brasileira e dever do Estado.
+3. Contudo, a tutela à família não é absoluta. Para que seja deferido o deslocamento do servidor pelo Judiciário, nos casos em que a pretensão for negada pela Administração, ele tem de comprovar que sua situação se subsume a uma das hipóteses taxativamente previstas para concessão do benefício quando inexistente interesse administrativo no ato.
+4. O art. 21, § 4º, da Constituição do Estado do Maranhão e a Resolução 28/2007 TJ/MA estabelecem os requisitos para concessão da remoção dos servidores públicos.
+5. A jurisprudência do STJ é rigorosa ao afirmar que a remoção requerida pelo recorrente para acompanhar cônjuge é ato discricionário, embasado sob os critérios de conveniência e oportunidade, em que prevalece a supremacia do interesse público sobre o privado.
+6. In casu, não ficou devidamente demonstrado que sua situação se enquadra nos ditames legais pertinentes, de sorte que deve o seu pedido de remoção se submeter ao juízo de discricionariedade da Administração.
+7. Recurso Ordinário não provido.
+(RMS 31.948/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 14/09/2010)
+Por tudo isso, não se vislumbra ilegalidade ou abuso de poder, nem violação a direito da impetrante, impondo-se, em consequência, a denegação da ordem, com fundamento nos artigos 932, VIII, do CPC e 34, XIX, do RISTJ.
+Custas recolhidas (fls. 145 e 146).
+Sem honorários advocatícios, nos termos do art. 25 da Lei n. 12.016/2009 e Súmula 105/STJ.
+Publique-se.
