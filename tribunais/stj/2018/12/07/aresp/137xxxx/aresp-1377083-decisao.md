@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e LEA DE ASSIS VICENTE contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"Latrocínio tentado - Sentença - Análise de todas as questões colocadas nos autos - Desnecessidade de menção expressa a todas as teses - Reconhecimento de participação efetiva da ré no crime - Nulidade - Inocorrência;
+Latrocínio tentado - Réus presos em flagrante na posse da res furtiva - Negativas isoladas nos autos - Palavras da vítima - Prova segura - Condenação mantida;
+Latrocínio tentado - Agentes que praticaram juntos a subtração - Disparos de arma contra a vítima - Resultado morte que só não se consumou porque a arma falhou - Desclassificação para roubo ou furto, com reconhecimento da participação de menor importância Impossibilidade - Condenação mantida;
+Latrocínio tentado - Negativa de uso da violência - Atenuante da confissão Inocorrência - Delito que se aproximou da consumação - Arma que falhou após disparos - Redução máxima - Impossibilidade - Regime correto - Recurso improvido." (e-STJ, fl. 276).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 302).
+A defesa aponta ofensa aos arts. 157, § 2º, I e II e 3º do Código Penal, pleiteando, em síntese, a desclassificação do crime de latrocínio tentado para o de roubo majorado.
+Sustenta que "não cabe tentativa em crime agravado pelo resultado como é o latrocínio" (e-STJ, fl. 327).
+O apelo nobre foi inadmitido em razão da aplicação do óbice da Súmula 7 do STJ (e-STJ, fl. 337). Daí este agravo (e-STJ, fls. 354-359).
+O Ministério Público Federal manifestou-se "pelo não conhecimento e improvimento do agravo em recurso especial" (e-STJ, fls. 379-380).
+É o relatório.
+Decido.
+A pretensão recursal não merece acolhimento.
+No que toca ao pleito de desclassificação do crime imputado aos réus para o de roubo majorado, sob o argumento de que não existe o delito de latrocínio tentado, verifica-se que não assiste razão à defesa, porquanto este Superior Tribunal de Justiça entende ser cabível a condenação pelo crime de latrocínio tentado quando verificado, pelas circunstâncias do caso concreto, o animus necandi do réu, tal como ocorrido no caso em apreço.
+A corroborar esse entendimento, confiram-se os seguintes julgados:
+" ..
+2. O roubo qualificado (CP, art. 157, § 3º) é crime qualificado pelo resultado, cujo resultado agravador, morte ou lesão corporal grave, pode ter sido provocado dolosa ou culposamente, contudo, a violência que causa o resultado deve ser necessariamente dolosa. De fato, se o resultado agravador é causado culposamente, não há falar em tentativa, sendo necessária sua efetiva ocorrência; por outro lado, plenamente possível a tentativa do roubo qualificado em caso de animus necandi ou animus laedendi. Mais do que isso, essencial a existência de relação de causalidade entre a subtração patrimonial e a violência empregada, seja para possibilitar a subtração (conexão teleológica), seja para, após a subtração do bem, assegurar sua posse ou a impunidade do agente (conexão consequencial).
+3. O latrocínio (CP, art. 157, § 3º, in fine) é crime complexo, formado pela união dos crimes de roubo e homicídio, realizados em conexão consequencial ou teleológica e com animus necandi. Estes crimes perdem a autonomia quando compõem o crime complexo de latrocínio, cuja consumação exige a execução da totalidade do tipo.
+Nesse diapasão, em tese, para haver a consumação do crime complexo, necessitar-se-ia da consumação da subtração e da morte, contudo os bens jurídicos patrimônio e vida não possuem igual valoração, havendo prevalência deste último, conquanto o latrocínio seja classificado como crime patrimonial.
+Por conseguinte, nos termos da Súmula 610 do STF, o fator determinante para a consumação da latrocínio é a ocorrência do resultado morte, sendo despicienda a efetiva inversão da posse do bem.
+4. O caso concreto amolda-se à hipótese em que há a subtração do bem, mas não se consumou a morte, tendo resultado, contudo, lesões corporais gravíssimas à vítima. As instâncias ordinárias, com base na persuasão racional acerca dos elementos de prova concretos e coesos dos autos, concluíram que o paciente agiu com animus necandi, o que é corroborado pela letalidade do instrumento utilizado (arma de fogo) e o alto potencial lesivo da região atingida (pescoço), que torna provável o dolo direto ou, subsidiariamente, irrefutável o dolo indireto eventual quanto ao resultado morte. Tais premissas fáticas, que não podem ser alteradas no rito sumário do habeas corpus, que exige prova pré-constituída, levam à inarredável conclusão de ocorrência de dolo quanto ao resultado, cuja consumação não se verificou por circunstâncias alheias à vontade do réu, ora paciente.
+5. Diante do afastamento da ocorrência de resultado agravador culposo e conclusão pela existência de animus necandi, e não mero animus laedendi, e de conexão consequencial com a subtração, conclui-se haver tentativa cruenta ou vermelha de latrocínio e não o roubo qualificado pela lesão corporal gravíssima, não obstante a similitude de elementos objetivos destes crimes, que é o resultado naturalístico lesão corporal grave. O elemento subjetivo do tipo, mais reprovável, é, pois, determinante para a correta tipificação da conduta do réu como latrocínio tentado, crime hediondo.
+Omissis.
+10. Habeas corpus não conhecido."
+(HC 226.359/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2016, DJe de 12/08/2016).
+Por fim, importa destacar que a desconstituição do entendimento firmado pelo Tribunal de origem, buscando a desclassificação para o crime de roubo majorado, não é possível nesta via especial, a teor do que dispõe a Súmula 7/STJ, dada a imprescindibilidade de revolvimento dos elementos fáticos e probatórios dos autos. Nesse sentido, vejam-se os seguintes precedentes:
+" ..
+1. A jurisprudência desta Corte firmou o entendimento de que configura "tentativa de latrocínio quando há dolo de subtrair e dolo de matar, sendo que o resultado morte somente não ocorre por circunstâncias alheias à vontade do agente" (Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 8/5/2013).
+Segundo a sentença condenatória, o agravante invadiu a residência da vítima, anunciou o assalto, apossou-se de alguns bens e, durante luta corporal, atingiu-a na cabeça, de raspão, com um disparo de arma de fogo. Em seguida, fugiu com os objetos subtraídos. A pretendida desclassificação, portanto, depende da análise do dolo do agravante, ou seja, da sua intenção ao efetuar o disparo de arma de fogo na direção da vítima. É consabido que tal tarefa não é possível de ser realizada na via estreita do habeas corpus.
+ ..
+Agravo regimental desprovido." (AgRg no HC 331.832/PE, MIN. JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 8/10/2018).
+" ..
+1. A jurisprudência desta Corte Superior firmou o entendimento no sentido de que é plenamente possível a ocorrência de latrocínio em sua forma tentada, quando não se obtenha o resultado morte, bastando a comprovação de que, no decorrer da prática delitiva, o agente tenha atentado contra a vida da vítima, com a intenção de matá-la, não atingindo o resultado, por circunstâncias alheias à sua vontade.
+2. A tese de desclassificação do crime de latrocínio tentado para roubo, esbarra na necessidade de revolvimento fático-probatório, o que se afigura inviável na estreita via do mandamus.
+ ..
+4. Agravo regimental não provido." (AgRg no HC n. 429.657/MG, MIN. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 16/04/2018).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
