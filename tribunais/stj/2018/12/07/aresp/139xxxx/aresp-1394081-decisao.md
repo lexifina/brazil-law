@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AÇÃO DE COBRANÇA. EFEITOS DA COISA JULGADA. IMPOSSIBILIDADE. AUSÊNCIA DE TRÂNSITO EM JULGADO RECONHECIDO NA ORIGEM. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo em recurso especial manejado por INES HERMENEGILDO DELLA VALLE e OUTROS em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade ao especial sob a compreensão de que a revisão do entendimento da origem esbarra no óbice da Súmula nº 7/STJ.
+Tal compreensão foi impugnada no presente agravo.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No especial, o argumento da parte é que:
+A existência inequívoca de coisa julgada material, nos termos do art. 502 do CPC, permitiria ao Julgador aproveitar parte do mérito já imutável naquele writ coletivo, qual seja, de que ao servidor militar do Estado de São Paulo está assegurado o recálculo dos adicionais temporais para que repercuta sobre todas as verbas permanentes, não eventuais, o que de fato fez e aqui não se quer rediscutir, pois neste ponto o acórdão recorrido não contrariou os pedidos dos recorrentes.
+Não obstante ter reconhecido todos os pedidos constantes na petição inicial desta ação de cobrança, deixa, ao final, de provê-los por entender que o feito merece a extinção sem julgamento de mérito, por não vislumbrar o preenchimento dos pressupostos processuais, ainda que que se tenha ciência, inequívoca, da coisa julgada material, dada nos termos do art. 502 do CPC.
+O mesmo writ coletivo permitiu, desde que em sede da ação competente, cobrar o quinquênio anterior, ante a inaptidão do mandamus nas execuções de valores anteriores à sua impetração.
+No lugar desta solução, o Julgador preferiu acatar, em sentido inverso ao que se coaduna com o presente, o que foi posto nas contestações e depois nas contrarrazões de apelação das rés, cuja síntese representa a aplicação equivocada dos §§1ª e 4º, do art. 337 do CPC, ou seja, o acordão ressoa, a confusão, o maltrato à norma processual, nos exatos termos pretendidos pela PGE paulista.
+Existe, sim, ao contrário do que sustenta o acórdão recorrido, plena condição de harmonizar o writ coletivo com a presente ação de cobrança, sem incorrer na litispendência ou ofensa à coisa materialmente julgada.
+Não há óbices à propositura de ação de cobrança para pleitear valores patrimoniais não alcançados pela impetração de ação coletiva em favor de servidores (cf. Súmulas nº 269 e 271/STF).
+Vedada, contudo, é a busca dos efeitos da coisa julgada (sem que essa tenha ocorrido) para "condenar o polo passivo ao pagamento das parcelas vencidas e não pagas entre o período de 29/08/2003 até 28/08/2008, a título de recálculo dos adicionais temporais (quinquênio e sexta-parte), obedecendo o que restou julgado no writ de nº 0600594-25.2008.8.26.0053". Mormente porque, sem o trânsito em julgado do referido mandado de segurança coletivo, será possível nova discussão de todo o direito posto em juízo (cf. REsp 1721053/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/05/2018; AgInt no AREsp 380.599/MS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 09/03/2018).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
