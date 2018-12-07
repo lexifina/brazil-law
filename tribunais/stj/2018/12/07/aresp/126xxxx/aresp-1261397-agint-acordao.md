@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ESBULHO POSSESSÓRIO. INOCORRÊNCIA. PROVA ORAL. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por MALHARIA MATOGROSSENSE LTDA contra decisão de fls.1.104/1.107, que negou provimento ao recurso especial.
+Em suas razões, insiste em que o Tribunal de origem deixou de analisar a prova oral produzida, no que se refere à posse injusta dos recorridos.
+Intimada, a agravada apresentou impugnação (e-STJ, fls.1.126-1.132).
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não prospera o recurso.
+A decisão agravada, que não merece reforma, assim consigna (e-STJ, fls. 1.104 -1.107):
+Trata-se de agravo em recurso especial interposto por MALHARIA MATOGROSSENSE LTDA, em face de decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado:
+AÇÃO DE REINTEGRAÇÃO DE POSSE. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DA AUTORA. NÃO COMPROVADA A CESSÃO DO IMÓVEL EM COMODATO E TAMPOUCO A POSSE INJUSTA DOS RÉUS. ESBULHO POSSESSÓRIO NÃO CONFIGURADO. SENTENÇA MANTIDA.RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. APONTADA A OCORRÊNCIA DE DEFEITOS NO ACÓRDÃO. INOCORRÊNCIA. DEMONSTRADA A INTENÇÃO DE REEXAME DA CAUSA. IMPOSSIBILIDADE PELA VIA JUDICIAL ESCOLHIDA. EMBARGOS REJEITADOS.
+Nas razões do especial, aponta a parte agravante violação aos artigos 1.022 do novo Código de Processo Civil de 2015; 485; 486; 487;497; 499 e 501, todos do Código Civil.
+No tocante às alegações de ofensa ao artigo 1022 do novo Código de Processo Civil, verifico que essa não merece prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Com efeito, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente. Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA. 1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial. 2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ). 3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos. 4. Agravo regimental a que se nega provimento. (AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/09/2015, DJe 28/09/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. 1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ. 3. Agravo regimental não provido. (AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/02/2016, DJe 01/03/2016)
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, consignou que não houve esbulho possessório, assim se pronunciando (e-STJ fls. 993-994):
+A autora, empresa proprietária do imóvel ora em litígio, ajuizou a presente ação visando recuperar a posse sobre o mesmo, alegando que houve esbulho por parte dos réus.
+Segundo consta os réus ingressaram no imóvel pelo menos a partir do ano de 1992, utilizando o bem para o exercício de atividade comercial e de plantio.
+O cerne da questão litigiosa é verificar se ocorreu ou não a alegada cessão do imóvel em comodato em favor do corréu Adilson, e a conseqüente regularidade, da concessão de uso feita por este último, em favor dos demais corréus.
+Não há nos autos comprovação satisfatória do comodato.
+Pelo contrário, o documento de fls. 25/26, mostra claramente que na verdade, ali foi negociada a compra do direito possessório exercido por Elias (cláusula 04), irmão do corréu Adilson, por longo período (16 anos especificados).
+Desta forma, afirmado que em favor de ambos foi cedido o comodato, resta evidente que assim não ocorreu, tendo o corréu Adilson, bem como os corréus Maria e Nelson, usufruído do imóvel de forma pacífica, sem oposição e com ânimo de donos, há longo tempo, consolidando a posse sobre o bem. Tudo indica ainda que encontraram o imóvel abandonado após o falecimento do comodatário constante no contrato de fls. 23/24.
+Desta forma, examinando criteriosamente as provas produzidas nos autos, verifica-se que não está demonstrado o esbulho apto a ensejar a proteção possessória, considerando não caracterizada como injusta a posse exercida pelos réus.
+Ademais, vale considerar o acerto da desacolhida da proteção possessória, tendo em vista que a prova testemunhai foi bastante esclarecedora quanto o longo período de usufruto do imóvel pelos réus, sendo relevante destacar que questões deste jaz, onde não há prova documental, mostra-se razoável considerar as informações das testemunhas, principalmente daquelas vizinhas ao imóvel objeto da ação.
+Por fim, o pagamento de impostos e o recebimento de notificação de infração municipal são indícios da propriedade que de fato é conferida à autora e não da posse e, no estreito limite do que cabe ser analisado na presente demanda, não está em exame os atos da propriedade, mas tão somente o exercício da posse sobre o bem. Assim, mantém-se a sentença de improcedência.
+Finalmente, apenas para evitar futuros questionamentos desnecessários, tenho por expressamente ventilados, neste grau de jurisdição, todos dispositivos legais e constitucionais citados em sede recursal.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, caracterizar o esbulho possessório, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015,
+majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
+Com efeito, a conclusão da Corte de origem foi obtida pela análise do conteúdo fático, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
