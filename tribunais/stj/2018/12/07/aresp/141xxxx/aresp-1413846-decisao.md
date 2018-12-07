@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] e outros, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que negou seguimento ao recurso especial, sob os seguintes fundamentos: (I) o acórdão atacado está em conformidade com a jurisprudência do STJ; (II) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ; e (III) "a interposição do recurso especial, com fulcro na alínea "c" do inciso III do art. 105 da Constituição Federal, não foi devidamente fundamentada, atraindo a aplicação da Súmula 284 do STF." (fl. 387).
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguintes fundamentos: a) o acórdão atacado está em conformidade com a jurisprudência do STJ; e b) "a interposição do recurso especial com fulcro na alínea "c" do inciso III do art. 105 da Constituição Federal, não foi devidamente fundamentada, atraindo a aplicação da Súmula 284 do STF." (fl. 387).
+Ressalta-se que, como o recurso especial foi inadmitido tendo por base que o acórdão recorrido em consonância com a jurisprudência, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, não conheço do agravo.
+Publique-se.
