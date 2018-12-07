@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA AO ATENDIMENTO DO FILHO RECÉM-NASCIDO. TESE DE QUE A INCLUSÃO DO RECÉM-NASCIDO, SEM CARÊNCIA, SOMENTE PODERÁ SER REALIZADA QUANDO O TITULAR OU DEPENDENTES TENHAM CUMPRIDO CARÊNCIA PARA O PARTO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 211/STJ. DANO MORAL RECONHECIDO PELA CORTE DE ORIGEM. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. JUROS DE MORA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA Nº 284/STF. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por UNIMED DE MARÍLIA COOPERATIVA DE TRABALHO MÉDICO contra decisão assim ementada (e-STJ fl. 470):
+"RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA AO ATENDIMENTO DO FILHO RECÉM-NASCIDO. TESE DE QUE A INCLUSÃO DO RECÉM-NASCIDO, SEM CARÊNCIA, SOMENTE PODERÁ SER REALIZADA QUANDO O TITULAR OU DEPENDENTES TENHAM CUMPRIDO CARÊNCIA PARA O PARTO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 211/STJ. DANO MORAL RECONHECIDO PELA CORTE DE ORIGEM. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. JUROS DE MORA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA Nº 284/STF. RECURSO ESPECIAL NÃO CONHECIDO".
+Em suas razões, a agravante alega, essencialmente, que não se aplicaria o óbice da Súmula nº 211/STJ à pretensão recursal, pois, teria sido debatida a tese de não aplicação da carência ao recém nascido, no acórdão de origem, e, ainda, afastada a sua aplicação com base no artigo 12, inciso III, alínea "b", da Lei 9.656/98.
+Aduz que quanto à questão "dos danos morais, mais uma vez não assiste razão ao Nobre Ministro, visto que inexiste negativa injustificada com base no contrato e na Lei, impondo-se a aplicação literal da lei, não caracterizando o reexame de provas" (e-STJ Fl. 484).
+Relativamente aos juros moratórios, "afirma a decisão monocrática a ausência de citação de dispositivo legal, todavia, se encontra embasada em acórdão paradigma quanto a data de incidência dos juros em danos morais, inclusive, era debate de tema repetitivo (925), não havendo a incidência a Súmula nº 284/STF" (e-STJ fl. 486).
+Pede o provimento do recurso.
+É relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA AO ATENDIMENTO DO FILHO RECÉM-NASCIDO. TESE DE QUE A INCLUSÃO DO RECÉM-NASCIDO, SEM CARÊNCIA, SOMENTE PODERÁ SER REALIZADA QUANDO O TITULAR OU DEPENDENTES TENHAM CUMPRIDO CARÊNCIA PARA O PARTO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 211/STJ. DANO MORAL RECONHECIDO PELA CORTE DE ORIGEM. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. JUROS DE MORA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA Nº 284/STF. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Passo, de todo modo, ao exame do presente agravo interno.
+Com efeito, a recorrente ora agravante defendeu a tese de que a inclusão do recém-nascido, sem carência, deverá ser realizada apenas quando o titular ou dependentes tenham cumprido carência para o parto ou procedimento obstétrico. Ou seja, defende, em síntese, que haja uma correlação entre o escoamento dos prazos de carência do recém nascido com a carência do titular ou dependente.
+Ocorre que a Corte de origem, como consignado pela própria recorrente, apenas aplicou o artigo 12, inciso III, letra "b" da Lei 9.656/98, que isenta, quando incluir atendimento obstétrico, o cumprimento de período de carência ao recém-nascido, não dispondo acerca desta suposta correlação de carências entre os titulares e o recém nascido.
+Assim, a despeito da alegação de que "A leitura e interpretação do inciso III do artigo 12 da Lei nº 9.656/98 deve ser feita conjuntamente o inciso V, letra "a" do citado artigo, visto que estando em carência para o procedimento obstétrico aplica-se este prazo de carência ao recém-nascido que está cumprindo o titular do plano" (e-STJ Fl. 483), referida tese não foi prequestionada pelo acórdão combatido, a despeito da oposição dos embargos de declaração, sendo que, não foi aventada, pela recorrente, violação ao artigo 1.022 do CPC/2015.
+Inarredável, desta feita, a aplicação da Súmula nº 211/STJ à pretensão recursal.
+Relativamente à suposta não ocorrência de dano moral passível de indenização, a Corte de origem, soberana na análise do material fático e probatório carreado aos autos, assentou que:
+"A negativa da ré mostra-se abusiva, pois restringe direitos fundamentais próprios da natureza e finalidade do contrato (direito à.vida e à saúde), o que é vedado por lei (artigo 51, I, IV e § 1º, I e II, do CDC). Portanto, devido o ressarcimento dos gastos da autora com consulta particular (fl. 37). (..)
+Quanto aos danos morais, evidente que a situação decorrente da atitude da apelante ultrapassou o mero aborrecimento. Como bem analisou a juíza "se a contratação do seguro saúde visa o alcance de tranquilidade para a hipótese de surgimento de moléstia ou de situação que imponha a realização de tratamento médico, a partir do momento em que a seguradora deixa de fornecer prontamente tal amparo, em desconformidade com as normas legais e contratuais específicas, traz ao segurado a sensação de insegurança, desamparo, humilhação, configurando-se, pois, os danos morais"" (e-STJ Fls. 291/292).
+Desta feita, rever as conclusões do aresto impugnado no sentido de ocorrência de dano moral passível de indenização demandaria, necessariamente, o revolvimento de todo o arcabouço fático e probatório carreado aos autos, providência vedada a este Tribunal Superior de Justiça.
+Destarte, não merece prosperar a pretensão recursal, razão pela qual, se mantém inalterada a decisão ora agravada quanto ao dano moral ora em exame.
+No mais, quanto aos juros de mora, como consignado na decisão recorrida, o recurso especial não pode ser conhecido. Com efeito, não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado o recorrente de apontar os dispositivos de lei federal tidos por violados, bem como de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, incidindo, na espécie, o óbice da Súmula 284 do STF.
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente também não apontou dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+Portanto, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
