@@ -1,0 +1,26 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. TARIFA DE ÁGUA E ESGOTO. PRESCRIÇÃO. INCIDÊNCIA DO CÓDIGO CIVIL. PRAZO PRESCRICIONAL DECENAL OU VINTENÁRIO. MATÉRIA JULGADA SOB O RITO DO ART. 543-C DO CPC/73.
+1. De acordo com a tese firmada no julgamento do Recurso Especial Repetitivo nº 1.113.403/RJ (Rel. Ministro Luiz Fux, Primeira Seção, DJe 1º/2/2010), é a natureza jurídica de tarifa ou preço público da contraprestação do serviço público de água e esgoto que enseja a aplicação do Código Civil para regular o prazo prescricional da pretensão que visa à cobrança do crédito, razão pela qual não será observado o lume prescricional estabelecido no Decreto nº 20.910/32. 2. Inexistindo, na Corte de origem, efetivo debate acerca das teses de que a contagem do prazo prescricional deveria levar em consideração o princípio da actio nata e de que houve supressão de instância, torna-se imperiosa a incidência do óbice contido na Súmula 282/STF.
+3. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): A hipótese é de agravo interno interposto por Eletropaulo Metropolitana Eletricidade de São Paulo S/A, contra decisão que negou provimento ao agravo em recurso especial, em razão do acórdão recorrido estar de acordo com a tese fixada no recurso especial repetitivo REsp 1.113.403/RJ, relator Ministro Teori Albino Zavascki.
+Sustenta que a decisão agravada não examinou todas as razões do recurso especial, que também trouxeram a questão do termo inicial da contagem do prazo prescricional, levando em consideração o princípio da actio nata. Nesse ponto, acrescenta que "É inolvidável que o V. Acórdão violou o princípio da actio nata ao negar a aplicação do artigo 189 do Código Civil, posto que contou o prazo prescricional da propositura da ação e não, como deveria, da violação do direito narrado pela Agravada, em 1978" (fl. 1.535).
+Afirma, ainda, "que "não se trata de mera repetição de indébito, mas de indenização por prejuízo causado por um único ato praticado pela ré." Dessa forma, é incontroverso que se trata de contagem de prazo prescricional por ato único, devendo, in casu, ser somente corrigido o termo inicial da contagem como a data do enquadramento da Recorrida, em 1978, respeitando-se o princípio da actio nata" (fl. 1.535).
+Por fim, defende que o Tribunal a quo, ao afastar a prescrição reconhecida na sentença de primeiro grau e prosseguir no exame da demanda, acabou por ferir os arts. 512 e 151 do CPC/73.
+A parte agravada apresentou impugnação às fls. 1.544/1.559.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. TARIFA DE ÁGUA E ESGOTO. PRESCRIÇÃO. INCIDÊNCIA DO CÓDIGO CIVIL. PRAZO PRESCRICIONAL DECENAL OU VINTENÁRIO. MATÉRIA JULGADA SOB O RITO DO ART. 543-C DO CPC/73.
+1. De acordo com a tese firmada no julgamento do Recurso Especial Repetitivo nº 1.113.403/RJ (Rel. Ministro Luiz Fux, Primeira Seção, DJe 1º/2/2010), é a natureza jurídica de tarifa ou preço público da contraprestação do serviço público de água e esgoto que enseja a aplicação do Código Civil para regular o prazo prescricional da pretensão que visa à cobrança do crédito, razão pela qual não será observado o lume prescricional estabelecido no Decreto nº 20.910/32. 2. Inexistindo, na Corte de origem, efetivo debate acerca das teses de que a contagem do prazo prescricional deveria levar em consideração o princípio da actio nata e de que houve supressão de instância, torna-se imperiosa a incidência do óbice contido na Súmula 282/STF.
+3. Agravo interno a que se nega provimento.
+
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Como afirmado anteriormente, o Tribunal a quo decidiu a questão da prescrição de forma harmônica com a jurisprudência desta Corte, que, ao apreciar o REsp 1.113.403/RJ, da relatoria do Ministro Teori Albino Zavascki, DJe 15/9/2009, submetido ao regime dos recursos repetitivos do artigo 543-C do CPC, firmou entendimento de que a ação de repetição de indébito de tarifas de energia elétrica se sujeita ao prazo prescricional estabelecido no Código Civil, podendo ser vintenário, na forma estabelecida no artigo 177 do Código Civil de 1916, ou decenal, de acordo com o previsto no artigo 205 do Código Civil de 2002.
+Sobre as demais questões levantadas nas razões de recurso especial, referentes a contagem do prazo prescricional levando em consideração o princípio da actio nata e a existência de supressão de instância, nota-se que o Tribunal de origem não se manifestou sobre essas teses, tampouco foram opostos embargos declaratórios pela ELETROPAULO para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
