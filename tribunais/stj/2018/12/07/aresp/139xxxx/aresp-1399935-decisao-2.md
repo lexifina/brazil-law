@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial, interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ fl. 329):
+APELAÇÃO CRIME. HOMICÍDIO DUPLAMENTE QUALIFICADO CONSUMADO. ASSOCIAÇÃO AO TRÁFICO. REJEIÇÃO DA DENÚNCIA. JUSTA CAUSA PARA A AÇÃO PENAL. INSURGÊNCIA DO MINISTÉRIO PUBLICO.
+1. Existência de indícios mínimos de autoria que permitem o início da persecução penal, impondo-se o recebimento da inicial acusatória. Indícios mínimos de autoria que advêm dos depoimentos dos genitores da vítima no sentido de que seriam os réus os algozes de seu filho. Suficiência dos indícios mínimos para o estopim da persecução penal. Demonstrada, ainda que minimamente, a suposta participação dos recorridos nos crimes narrados na denúncia, há justa causa para o exercício da ação penal, impondo-se o recebimento da denúncia.
+2. Recurso não conhecido no ponto em que postula a decretação da prisão preventiva dos denunciados, pois tal questão não foi objeto de análise de mérito na decisão recorrida em face da rejeição da denúncia. Inviabilidade de análise, nesta Instância, sob pena de supressão de um grau de jurisdição.
+APELAÇÃO PARCIALMENTE CONHECIDA E, NESTA PARTE, PROVIDA. DENÚNCIA RECEBIDA.
+No especial, argumentou o recorrente que "a decisão proferida pela Egrégia Segunda Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul nega vigência aos Princípios Fundamentais da Carta da República, Do Código de Processo Penal e do Código Penal na medida em que cassa decisão de rejeição da denúncia com elementos de prova colhidos unicamente em sede administrativa, sem a presença de contraditório e ampla defesa, salientando que o depoimento de um informantes e denúncia anônima que participaram das investigações, no que tange ao recorrente, trata-se de um hearsay testimony (ouvi dizer), sem apontar a identificação de qualquer pessoa que tenha dito ser o recorrente o mandante do crime" (e-STJ fl. 371).
+Contrarrazões às e-STJ fls. 404/409.
+A decisão de inadmissibilidade está amparada na impossibilidade de análise de matéria constitucional por esta Corte; e na incidência da Súmula 284/STF. (e-STJ fls. 427/440)
+Manifestação do Ministério Público Federal pelo desprovimento do recurso (e-STJ fls. 540/542), nos termos da seguinte ementa:
+PENAL. PROCESSO PENAL. RECURSOS ESPECIAIS INADMITIDOS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO AO NARCOTRÁFICO "BALA NA CARA". RECEBIMENTO DA DENÚNCIA. MATERIALIDADE ASSENTE E INDÍCIOS DE AUTORIA DELITIVAS SUFICIENTES À INSTAURAÇÃO DA AÇÃO PENAL. PLEITO POR REJEIÇÃO DA DENÚNCIA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. PARECER PELO DESPROVIMENTO DOS AGRAVOS EM RECURSO ESPECIAL.
+É o relatório. Decido.
+Verifica-se que o agravante não impugnou os fundamentos da decisão agravada. Apenas reiterou a fundamentação utilizada no especial. Deixou, portanto, de se manifestar acerca do descabimento de análise de matéria constitucional por este Tribunal e da aplicação da Súmula 284/STF.
+Destarte, inafastável a incidência da Súmula n. 182/STJ, segundo se dessume dos julgados abaixo transcritos:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. O Superior Tribunal de Justiça possui o entendimento de que a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, porquanto descumpridos os requisitos previstos no art. 544, § 4º, I, do CPC (AgRg no AREsp 484.357/SP, Rel. Min. MOURA RIBEIRO, Quinta Turma, DJe 1º/09/2014).
+2. Nos termos da Súmula 182 do STJ, "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Agravo regimental não conhecido (AgRg no AREsp n. 687.423/PI, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 30/6/2015, DJe 4/8/2015).
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. APLICABILIDADE DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS DE OFÍCIO. REDUÇÃO DA PENA BASE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+I - É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada, atraindo a incidência do verbete n. 182 da Súmula desta Corte.
+II - Decisão agravada que deve ser mantida por seus próprios fundamentos, uma vez que as razões do agravo regimental não cuidam de infirmar os fundamentos da decisão recorrida.
+III - Não se vislumbra constrangimento ilegal contra os agravantes, a ensejar a concessão de habeas corpus de ofício para a redução da pena-base.
+III - Agravo regimental desprovido (AgRg no AREsp n. 553.887/RN, Rel. Ministro ERICSON MARANHO - Desembargador Convocado do TJ/SP - Sexta Turma, julgado em 18/6/2015, DJe 30/6/2015).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
