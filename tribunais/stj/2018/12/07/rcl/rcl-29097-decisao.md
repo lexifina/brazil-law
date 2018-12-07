@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO DO TRIBUNAL DE ORIGEM QUE DETERMINOU A CONVERSÃO DE AGRAVO DE INSTRUMENTO EM AGRAVO RETIDO. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. RECLAMAÇÃO LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de reclamação apresentada em face de decisão do Tribunal Regional Federal da 4ª Região que, nos autos de agravo de instrumento, determinou a sua conversão em agravo retido, tendo em vista que:
+Na espécie, a parte agravante não logrou demonstrar onde residiria o risco de lesão e de difícil reparação a justificar a alteração da decisão proferida no primeiro grau. Ademais, não se pode confundir os prejuízos financeiros que a parte possa vir a sofrer com o dano irreparável ou de difícil reparação previsto no instituto processual civil.
+Registro, por fim, que o mandado de segurança possui rito célere, havendo brevidade na solução do litígio, e, entre a apreciação da liminar e a sentença há, tão-só, a intervenção do Ministério Público Federal, não restando, portanto, inócuo seu pedido se somente for concedido ao final.
+A reclamante sustenta, em suma, que a decisão impugnada, ao converter o agravo de instrumento em agravo retido, deixou de garantir a autoridade de decisão do Superior Tribunal de Justiça, pois, ao manter a decisão que em mandado de segurança indeferiu o pedido de antecipação de tutela, deixou de aplicar, no caso concreto, o acórdão proferido no REsp 973.733/SC (Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 12/08/2009, DJe 18/09/2009  acórdão submetido ao regime do art. 543-C do CPC), cujas conclusões "mostram estarem extintos pela DECADÊNCIA os tributos cobrados pela autoridade coatora por meio da CARTA DE COBRANÇA n.º 427/2015, recebida em 6 de novembro de 2015 (cópia anexa - Doe. nº 4)".
+Ao final, requer seja cassada a decisão.
+A liminar pleiteada foi indeferida às e-STJ fls. 80/81.
+O Ministério Público Federal opinou pela extinção da presente Reclamação, sem resolução do mérito.
+É o relatório. Passo a decidir.
+Sobre o cabimento da reclamação, vejamos o que dispõe o art. 988. do Código de Processo Civil de 2015:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+§ 5º É inadmissível a reclamação;
+I - proposta após o trânsito em julgado da decisão reclamada;
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+No caso em concreto, tenho que não estão presentes os requisitos exigidos pelo dispositivo supracitado. Isso porque a decisão interlocutória contrária ao entendimento da parte reclamante deve ser combatida, como inclusive já o foi, pelo recurso próprio, no caso, pelo agravo já interposto e pendente de julgamento perante o TRF4.
+Cumpre ainda registrar que a orientação desta Corte é pacífica no sentido de que é inadmissível a utilização da reclamação como sucedâneo de recurso ou medida judicial eventualmente cabível.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ART. 105, I, F, DA CONSTITUIÇÃO FEDERAL E ART. 988, II, DO CPC/2015. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão que não conheceu de Reclamação, ajuizada na vigência do CPC/2015.
+II. No caso, a presente Reclamação insurge-se contra decisão monocrática proferida no Tribunal de origem, em sede de Agravo de Instrumento, que indeferiu o pedido de antecipação dos efeitos da tutela, na qual se buscava a suspensão da decisão de 1º Grau, que rejeitara Exceção de Pré-executividade, alegando-se, na Reclamação, inobservância de tese fixada pelo STJ, em sede de recurso repetitivo, e da Súmula 430/STJ. Entretanto, as súmulas do STJ não se enquadram no conceito de súmula vinculante, a que se refere o inciso III do art. 988 do CPC/2015. O manejo de Reclamação contra julgado que tenha decidido contrariamente à tese fixada, pelo STJ, em sede de recurso repetitivo, pressupõe o prévio esgotamento das instâncias ordinárias, tal como previsto no art. 988, § 5º, II, do CPC/2015, o que inocorre, in casu. Assim sendo, sob o pretexto de garantir a autoridade de decisão desta Corte - hipótese prevista no art. 988, II, do CPC/2015 - a reclamante busca, em verdade, utilizar-se da presente Reclamação como sucedâneo recursal, a fim de cassar a decisão proferida pela instância ordinária.
+III. Com efeito, se proposta com a finalidade de garantir a autoridade de decisão do STJ, o ajuizamento da Reclamação pressupõe a existência de um comando positivo desta Corte, em um caso concreto, cuja eficácia deva ser assegurada, o que, contudo, também não é a hipótese dos autos.
+IV. Na forma da jurisprudência desta Corte, "a Reclamação prevista no art. 105, I, f, da Constituição da República, bem como nos arts. 988 do Código de Processo Civil, e 187 do RISTJ, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal" (STJ, AgInt na Rcl 32.352/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 03/05/2017). No mesmo sentido: STJ, Rcl 27.560/PR, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 02/03/2017; AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 19/12/2016; AgInt na Rcl 32.938/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 07/03/2017.
+V. Agravo interno improvido.
+(AgInt na Rcl 32.276/PA, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/06/2017, DJe 27/06/2017)
+Ante o exposto, indefiro liminarmente a petição inicial e julgo extinto o processo sem resolução de mérito, nos termos do art. 485, IV, do CPC/2015 c/c o art. 34, inciso XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
