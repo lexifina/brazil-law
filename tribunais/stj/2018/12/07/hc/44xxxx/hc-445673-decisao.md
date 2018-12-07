@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 9002369-62.2017.8.26.0050).
+Consta dos autos que o paciente, no dia 14/4/2014, conquistou a progressão ao regime prisional aberto, com a condição de comparecer trimestralmente em juízo, para justificar as suas atividades.
+Após o final do primeiro período, em 31/7/2014, não se apresentou, passando à condição de foragido.
+Preso em flagrante no dia 23/8/2015, o Juízo das Execuções Criminais determinou a interrupção no cumprimento da pena, no período compreendido entre 31/7/2014 a 23/8/2015.
+Irresignada, a defesa interpôs agravo no Tribunal de origem, que negou provimento ao recurso, nos termos do julgamento acostado às fls. 7/9.
+No presente writ, a impetrante sustenta, em síntese, que a interrupção da pena ocorre a partir da "decisão que determina a sustação do regime aberto e a regressão cautelar" (fl. 3), o que, no caso, ocorreu em 18/7/2017.
+Indeferido o pedido de liminar e dispensadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela concessão da ordem:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS . EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. INOCORRÊNCIA. LAPSO PRESCRICIONAL DE 2 ANOS NÃO ALCANÇADO, CONFORME DETERMINA A JURISPRUDÊNCIA DESSE STJ: "4. As Turmas que compõem a Terceira Seção desta Corte firmaram o entendimento de que, em razão da ausência de legislação específica, a prescrição da pretensão de se apurar falta disciplinar, cometida no curso da execução penal, deve ser regulada, por analogia, pelo prazo do art. 109 do Código Penal, com a incidência do menor lapso previsto, atualmente de três anos, conforme dispõe o inciso VI do aludido artigo." (HC 335.032/SP). CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER PELA DENEGAÇÃO DA ORDEM (fl. 152)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+O Juízo de origem, ao reconhecer a prática da falta grave, estabeleceu que fosse desconsiderado o período correspondente à data em que o apenado deveria comparecer no cartório, até a sua recaptura, nestes termos:
+Consulta retro - O sentenciado iniciou o cumprimento de pena em regime aberto na data de 14/04/2014. ficando determinado o seu comparecimento trimestral em juízo. Seu primeiro comparecimento deveria ocorrer até 31/07/2014, no entanto, o sentenciado não compareceu para cumprir os termos do regime aberto.
+Considerando que o sentenciado foi preso em flagrante em 23/08/2015 (cf. fls. 32), e que o não comparecimento configura falta grave, o período entre 31/07/2014 a 23/08/2015 deve ser considerado como interrupção do cumprimento da pena (fl. 23).
+Ao manter esse entendimento, o Tribunal de origem assim decidiu:
+Como é cediço, o não comparecimento do sentenciado ao setor de fiscalização importa em desrespeito de regra do regime aberto,um autêntico"abandono" do cumprimento da pena, sendo evidente a sua interrupção. O Agravante ao deixar de comparecer mensalmente para justificar suas atividades, descumpriu a pena como imposta,demonstrando, de forma inequívoca que não está absorvendo a terapia penal, desprezando por completo todo o tratamento a ele dispensado com o objetivo de sua recuperação, a fim de que voltasse ao convívio social. Portanto, houve uma quebra em todo o procedimento executório e, por esse motivo, deve a falta disciplinar ser considerada como causa interruptiva do lapso temporal.
+Admitir-se que o período em que o Agravante descumpriu as condições do regime aberto seja computado como pena efetivamente cumprida, seria, sem sombra de dúvidas, um convite à impunidade (www.tjsp.jus.br).
+Com efeito, o comparecimento em Juízo permite que se possa exercer a contento a fiscalização das atividades do liberado, o acompanhamento de sua evolução e ajuste ao meio social em que se encontra. Este é o meio mais utilizado para fiscalização e, por isso, a não apresentação do apenado determina a declaração do descumprimento de todas as condições estabelecidas para o benefício. Mutatis mutandis, cumprida a condição de se apresentar em Juízo, é de se reconhecer o adimplemento das condicionantes.
+Assim, o descumprimento deve ser contado a partir do não comparecimento na data estipulada, no caso, o dia 31/7/2014, e não a partir da "decisão que determina a sustação do regime aberto e a regressão cautelar" (fl. 3), 18/7/2017, na hipótese, com pretende a defesa.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. DESCUMPRIMENTO DE CONDIÇÕES DA PRISÃO DOMICILIAR. COMPARECIMENTO PERIÓDICO EM JUÍZO. TERMO INICIAL. DATA FIXADA PARA A APRESENTAÇÃO EM JUÍZO. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - O comparecimento em Juízo permite que se possa exercer a contento a fiscalização das atividades do liberado, o acompanhamento de sua evolução e ajuste ao meio social em que se encontra.
+III - O descumprimento deve ser contado a partir do não comparecimento na data estipulada e não o dia posterior ao último comparecimento, caso em que estaria se realizando verdadeira presunção em desfavor do reeducando, não admitida no Direito Penal.
+Habeas Corpus não conhecido. Ordem concedida de ofício para determinar que se reconheça a data em que o paciente deveria ter se apresentado como marco de descumprimento das condições impostas para a prisão domiciliar (HC 424.271/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/04/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
