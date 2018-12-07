@@ -1,0 +1,67 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE DETERMINA SOBRESTAMENTO DO RECURSO NA ORIGEM. RITO DO ART. 543-C do CPC/1973. AUSÊNCIA DE PREJUÍZO. DECISÃO IRRECORRÍVEL. AGRAVO INTERNO DA [NOME] NÃO CONHECIDO.
+ 1. Não cabe recurso contra a decisão que se limita a determinar o sobrestamento dos autos ao Tribunal de origem, para observância da sistemática prevista no art. 543-C, § 7o., II do CPC/1973, por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes. Precedentes: AgInt no AREsp. 872.506/SP, Rel. Min. REGINA HELENA COSTA, 16.6.2016; EDcl no AgRg no REsp. 1.124.215/SP, Rel. Min. HUMBERTO MARTINS, DJe 26.4.2016; AgRg no REsp. 1.509.571/SE, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015.
+2. Agravo Interno da [NOME] não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Benedito Gonçalves e Raul Araújo votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Mauro Campbell Marques. Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+1. Trata-se de Agravo interno interposto pela [NOME] contra decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão do REsp. 1.435.837/RS, representativo da controvérsia, o acórdão seja adequado à orientação firmada pelo STJ, nos termos do art. 543-C, §§ 7o. e 8o. do CPC.
+2. A parte agravante requer que seja reconsiderada a decisão agravada ou, sucessivamente, não sendo o caso de reconsideração, seja submetido o presente recurso ao órgão colegiado competente, a fim de que seja provido o Agravo Interno e seja afastado o sobrestamento do Recurso Especial.
+3. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE DETERMINA SOBRESTAMENTO DO RECURSO NA ORIGEM. RITO DO ART. 543-C do CPC/1973. AUSÊNCIA DE PREJUÍZO. DECISÃO IRRECORRÍVEL. AGRAVO INTERNO DA [NOME] NÃO CONHECIDO.
+ 1. Não cabe recurso contra a decisão que se limita a determinar o sobrestamento dos autos ao Tribunal de origem, para observância da sistemática prevista no art. 543-C, § 7o., II do CPC/1973, por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes. Precedentes: AgInt no AREsp. 872.506/SP, Rel. Min. REGINA HELENA COSTA, 16.6.2016; EDcl no AgRg no REsp. 1.124.215/SP, Rel. Min. HUMBERTO MARTINS, DJe 26.4.2016; AgRg no REsp. 1.509.571/SE, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015.
+2. Agravo Interno da [NOME] não conhecido.
+
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.654.528 - SE (2017/0033459-5)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+AGRAVANTE
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+DAYANNE ALVES SANTANA E OUTRO(S) - [OAB]
+
+RAFAELA SOUZA TANURI MEIRELLES E OUTRO(S) - [OAB]
+AGRAVADO
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+SANDRA MARCIA FRAGA AZEVEDO BORGES - [OAB]
+
+FERNANDA SANTANA MOISÉS - [OAB]
+VOTO
+1. A despeito das razões lançadas pela parte agravante, tem-se que razão não lhe assiste.
+2. É firme a orientação desta Corte de que a admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria identifique-se com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 543-C, §§ 7o. e 8o., do CPC e da Resolução 8, de 7.8.2008, do STJ.
+3. Da mesma forma, consolidou-se a orientação de que não cabe recurso contra a decisão que se limita a determinar o sobrestamento dos autos ao Tribunal de origem, para observância da sistemática prevista no art. 543-C, § 7o., II, do CPC/1973, por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes.
+4. Confiram-se, a propósito, os seguintes julgados:
+PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. DECISÃO IRRECORRÍVEL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015
+II - É irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem, a fim de aguardar-se o julgamento de matéria submetida ao rito dos recursos repetitivos. Precedentes.
+III - Agravo Regimental não conhecido (AgInt no AREsp. 872.506/SP, Rel. Min. REGINA HELENA COSTA, julgado em 16.6.2016).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. DEPÓSITO JUDICIAL. ÍNDICE DE CORREÇÃO. DECISÃO QUE RECONHECE SUBMISSÃO DO TEMA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DEVOLUÇÃO À ORIGEM. POSSIBILIDADE. CARÁTER IRRECORRÍVEL DA DECISÃO. PRECEDENTE.
+1. Embargos de declaração com nítido caráter infringente que visa atacar a decisão monocrática que reconheceu que a controvérsia dos autos está submetido ao rito dos recursos especiais repetitivos (REsp 1.131.360/RJ).
+2. "Presentes os requisitos para aplicação do princípio da fungibilidade, devem ser recebidos como agravo regimental os embargos declaratórios opostos contra decisão monocrática e que tenham nítido intuito infringente" (EDcl nos EAREsp 651.908/RS, Rel. Ministro Moura Ribeiro, Segunda Seção, DJe 14.3.2016.).
+3. Em havendo matéria submetida ao tema que está sob debate no rito dos recursos especiais, é possível devolver os autos à corte de origem para que aguarde o deslinde da controvérsia. Precedente: AgRg no AREsp 695.331/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26.6.2015.
+4. "(..) Não cabe agravo regimental contra despacho que se limita a remeter os autos ao Tribunal de origem, para observância da sistemática prevista no art. 543-C, § 7º, II, do CPC, haja vista tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes" (AgRg no REsp 1.509.571/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 20.11.2015.).
+Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento (EDcl no AgRg no REsp. 1.124.215/SP, Rel. Min. HUMBERTO MARTINS, DJe 26.4.2016).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESPACHO QUE, NOS TERMOS DO ART. 2º DA RESOLUÇÃO STJ 17/2013, DETERMINA A BAIXA DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA OBSERVÂNCIA DA SISTEMÁTICA PREVISTA NO ART. 543-C, § 7º, II, DO CPC. AUSÊNCIA DE CONTEÚDO DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Consoante a jurisprudência do STJ, "nos termos do art. 543-C, § 7º, II, do Código de Processo Civil, é admissível a reconsideração do julgado proferido, para adequar ao entendimento firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo, com vistas à segurança jurídica e isonomia das decisões" (STJ, EDcl nos EDcl nos EDcl nos EDcl nos EDcl no REsp 625.767/RJ, Rel. Ministro Humberto Martins, Primeira Seção, DJe de 1º/04/2011).
+II. Determina o art. 2º, II, da Resolução STJ 17/2013 "a devolução dos novos recursos ao tribunal de origem, para os efeitos dos incisos I e II do § 7º do art. 543-C do Código de Processo Civil, ressalvada a hipótese do § 8º do referido artigo, se já proferido julgamento do mérito do recurso representativo da controvérsia".
+III. Hipótese em que o despacho agravado determinou a devolução dos autos ao Tribunal de origem, para aplicação do art. 543-C, § 7º, II, do CPC, porquanto o Recurso Especial discute questão relativa ao valor de alçada para o cabimento do recurso de Apelação, em sede de Execução Fiscal, matéria já julgada nos moldes do art. 543-C do CPC, pela Primeira Seção do Superior Tribunal de Justiça, nos autos do REsp 1.168.625/MG (DJe de 1º/7/2010), vinculado ao Tema 395.
+IV. Na forma da jurisprudência desta Corte, "a decisão que determina a devolução dos autos ao Tribunal a quo para que o Recurso Extraordinário ou o Recurso Especial sejam apreciados Documento: 59615103 - RELATÓRIO, EMENTA E VOTO - Site certificado Página 6 de 7Superior Tribunal de Justiça na forma dos arts. 543-B, §3º, e 543-C, §7º, do CPC não é capaz de gerar nenhum prejuízo às partes. Trata-se apenas de mecanismo que reduz o problema decorrente do excesso de demandas neste Tribunal Superior e no STF, dando-se oportunidade às instâncias de origem do juízo de retratação" (STJ, AgRg no AREsp 309.678/MG, Rel. Ministro Herman Benjamin, SEGUNDA TURMA, DJe de 26/09/2013).
+V. Desse modo, não cabe Agravo Regimental contra despacho que se limita a remeter os autos ao Tribunal de origem, para observância da sistemática prevista no art. 543-C, § 7º, II, do CPC, haja vista tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes. Nesse sentido: STJ, AgRg nos EDcl no AREsp 411.785/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 25/09/2014; EDcl no REsp 1.140.326/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 11/05/2010.
+VI. Agravo Regimental não conhecido (AgRg no REsp. 1.509.571/SE, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015).
+5. Ante o exposto, não conheço do Agravo Interno da [NOME].
+6. É como voto.
