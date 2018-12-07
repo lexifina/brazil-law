@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. DESCLASSIFICAÇÃO PARA O TIPO DO ARTIGO 203 DO CÓDIGO PENAL. PLEITO QUE DEMANDA REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO.
+I - O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada, na via eleita, a modificação das premissas fáticas firmadas nas instâncias ordinárias. (Súmula 07/STJ).
+II - O recurso especial, interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal, exige a demonstração do dissídio jurisprudencial através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ), o que não ocorreu na espécie.
+Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME], contra decisão de minha relatoria, assim ementada (fls. 1.092-1.098):
+"PENAL. AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. DESCLASSIFICAÇÃO PARA O TIPO DO ARTIGO 203 DO CÓDIGO PENAL. FALSIDADE IDEOLÓGICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Consta dos autos que o agravante foi condenado às penas de 2 (dois) anos de reclusão e 20 (vinte) dias-multa, em regime aberto, pela prática do delito previsto nos arts. 299 (falsidade ideológica) e 304 (uso de documento falso), c/c os arts. 29 (concurso de pessoas) e 69 (concurso material), todos do Código Penal e foi absolvido quanto ao delito previsto no art. 297, § 4º, do Código Penal (falsificação de documento público).
+Em segunda instância, o eg. Tribunal a quo deu parcial provimento ao recurso defensivo para, aplicando o princípio da consunção, manter a condenação em relação ao art. 304 do Código Penal e redimensionar a pena para 1 (um) ano de reclusão, no regime aberto. A pena corporal foi substituída por restritivas de direitos.
+Nas razões do recurso especial (fls. 843-849), com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, a Defesa sustentou, além da divergência jurisprudencial, a violação dos artigos 383, caput, e 203, ambos do Código Penal, pleiteou, pois, a desclassificação do crime de uso de documento falso, previsto no artigo 304 do Código Penal para o art. 203 do Código Penal (frustração de direito assegurado por lei trabalhista), devendo o feito ser submetido ao Juizado Especial Criminal.
+Na decisão agravada, de minha relatoria, conheci do Agravo para não conhecer do Recurso Especial por ausência de demonstração da divergência jurisprudencial e incidência do óbice da Súmula 7/STJ.
+No presente Agravo Regimental, o insurgente sustenta que o pleito de desclassificação para o delito previsto no art. 203 do Código Penal não viola o enunciado de Súmula 7/STJ, porquanto demanda de revaloração da prova. Aponta o REsp n. 1.561.226/RS.
+Quanto ao dissídio jurisprudencial, aduz que " a o contrário do que fora alegado na decisão recorrida - a defesa sequer transcreveu trechos do acórdão paradigma - o recorrente refere que as circunstâncias que identifiquem ou assemelhem os casos confrontados é visualizada na própria ementa dos julgados, haja vista que o acórdão paradigma guarda o mesmo objeto e a mesma extensão material almejados no recurso especial interposto, sendo admitida, assim, a comprovação da divergência" (fl. 1.110).
+Requer a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao Colegiado.
+Por manter o decisum, trago o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. DESCLASSIFICAÇÃO PARA O TIPO DO ARTIGO 203 DO CÓDIGO PENAL. PLEITO QUE DEMANDA REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO.
+I - O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada, na via eleita, a modificação das premissas fáticas firmadas nas instâncias ordinárias. (Súmula 07/STJ).
+II - O recurso especial, interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal, exige a demonstração do dissídio jurisprudencial através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ), o que não ocorreu na espécie.
+Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: A irresignação não prospera.
+Neste regimental, o agravante não aduz qualquer argumento apto a ensejar a alteração da decisão ora agravada, a qual deve ser mantida por seus próprios fundamentos.
+No que tange ao pedido de desclassificação do crime de uso de documento falso, previsto no artigo 304 do Código Penal, para o delito insculpido no dispositivo que se aponta como violado (art. 203 do CP), asseverou a Corte de origem, no punctum saliens (fls. 674-675, grifei) :
+"Ambos os réus sustentam, ainda, a desclassificação da conduta imputada para a prevista no artigo 203, caput, do CP, na forma do estabecido no artigo 383, do CPP, e postulam a consequente remessa dos autos à origem para que seja examinada a hipótese de suspensão condicional do processo, na forma da lei processual penal.
+No ponto, sem razão os denunciados. O julgador a quo bem examinou a questão, como se vê da seguinte passagem:
+ ..  a amplitude da conduta não comporta subsunção apenas no artigo 203 do Código Penal, uma vez que desborda de seu preceito primário, atingindo outros bem jurídicos já mencionados e não apenas os direitos trabalhistas dos empregados.
+ ..
+Por tudo acima já exposto, também não merece reparos o decisum recorrido no ponto, uma vez que as condutas dos réus enquadram-se com propriedade àquelas descritas nos artigos apontados na denúncia. Como bem refere a sentença, a ação dos réus não visava a frustrar direitos assegurados pela legislação do trabalho, mas também atingia outros bens jurídicos. Na espécie, resta claro que os denunciados visavam, especialmente, a escapar da fiscalização do trabalho e, para tanto, inseriram informações inverídicas em uma série de documentos que foram apresentados a órgão federal, no caso, o Ministério de Trabalho. Não se vê das condutas em exame tão somente o desiderato de frustrar direitos assegurados pela legislação trabalhista. Resta indene da prova que os bem jurídicos que os réus ofenderam foram a alteração da verdade sobre os fatos relevantes e a fé pública, com a apresentação desses documentos ao órgão federal. As condutas denunciadas dizem justamente com esses bens atingidos, e não sobre a frustração de direitos trabalhistas."
+Na hipótese, entender de modo contrário ao estabelecido pelo eg. Tribunal a quo, para desclassificar a conduta para outro tipo penal, como pretende a parte agravante, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+Ilustrativamente:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI N. 11.343/06. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. REINCIDÊNCIA. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO MANTIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise da tese recursal, no sentido de desclassificar o crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) para a conduta tipificada no art. 28 da mesma lei (posse de substância entorpecente para uso próprio) demanda necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte.
+2. Admite-se a imposição do regime inicial fechado ao réu reincidente condenado à pena reclusiva superior a 4 anos, nos termos do art. 33, § 2º, alínea b, do Código Penal.
+3. Agravo regimental improvido" (AgRg no AREsp n. 1.012.231/CE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 7/4/2017).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ.
+1. A alteração do julgado, no sentido de desclassificar a conduta do acusado do art. 33 para o art. 28 da Lei n. 11.343/2006, implicaria o aprofundado reexame do material fático-probatório dos autos, providência inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 854.530/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 8/5/2017).
+Lado outro, conforme consignado na decisão em que neguei conhecimento ao recurso especial, nos termos do art. 1028, § 1º do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a interposição do recurso especial com fundamento na alínea c do permissivo constitucional impõe a necessidade de demonstrar que situação fática descrita no v. acórdão paradigma guarda similitude fática com o caso tratado nestes autos, razão pela qual a jurisprudência desta Corte exige o cotejo analítico dos julgados, o que não foi feito.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ, exige demonstração e comprovação com a transcrição dos trechos dos arestos que configurem o dissídio. É insuficiente a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo regimental não provido."(AgRg no AREsp n. 1.102.307/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 31/10/2018).
+Concluo, portanto, que o insurgente não trouxe fundamentos capazes de infirmar a decisão agravada.
+Nesses termos, nego provimento ao agravo regimental.
+É o voto.
