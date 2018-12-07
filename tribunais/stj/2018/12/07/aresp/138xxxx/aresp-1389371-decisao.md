@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. JULGAMENTO EXTRA PETITA. ANÁLISE DO CONJUNTO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. OBRIGAÇÃO DE FAZER CONTRA FAZENDA PÚBLICA. ASTREINTES. POSSIBILIDADE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Instituto Nacional do Seguro Social em face de decisão do Tribunal Regional Federal da 5ª Região, que negou admissibilidade a recurso contra acórdão assim ementado (fl. 810):
+PROCESSUAL CIVIL. EXECUÇÃO. RECONHECIDO DIREITO DO IMPETRANTE EM RECEBER OS VALORES ATRASADOS. ASTREINTES CONTRA A FAZENDA PÚBLICA CABIMENTO. REDUÇÃO. ADEQUAÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E MODERAÇÃO. POSSIBILIDADE.
+1. Agravo de Instrumento manejado pelo INSS em face de decisão que indeferiu pedido de exoneração da multa de R$ 300,00 (trezentos reais), bem como determinou a execução de valores atrasados desde a propositura da ação.
+2. É lícito ao julgador, se observado que o valor total da pena, mercê do largo tempo em que o obrigado se manteve inadimplente, supera em muito o valor da obrigação principal, reduzir o valor da primeira, com esteio no art. 461, parágrafo 6º, do CPC, inclusive porque a função das astreintes é constranger o devedor a cumprir a obrigação e não premiar ou enriquecer o credor.
+3. Reconhecido o direito do impetrante/agravado em receber os valores atrasados. Redução da multa para fixá-la em patamar razoável, conforme o art. 461, parágrafo 6º do CPC. A Cifra de R$ 300,00 reais por dia afigura-se excessivo, devendo ser ajustado para R$ 100,00 reais, em respeito ao Princípio da Razoabilidade e da Proporcionalidade Agravo de Instrumento provido, em parte.
+Os embargos de declaração apresentados na origem foram julgados por acórdão sintetizado nestes termos (fl. 913):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. MANDADO DE SEGURANÇA. COBRANÇA DE VALORES ATRASADOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNGIA. EXECUÇÃO DA QUANTIA DESCONTADA INDEVIDAMENTE. POSSIBILIDADE.
+1. Autos que retornam do STJ para novo julgamento dos Embargos de Declaração opostos pelo INSS, alegando omissão quanto ao questionamento de julgamento "extra petita".
+2. O acórdão embargado entendeu pela possibilidade de multa nas execuções de obrigação de fazer contra a Fazenda Pública e possibilidade de pagamento de valores atrasados, descontados pela Embargante, a partir da impetração do Mandado de Segurança.
+3. A exigibilidade do título executivo judicial não afronta a Súmula 271 do Supremo Tribunal Federal.
+4. Cabível a execução de valores relativos às parcelas suprimidas do vencimento do servidor a contar do ajuizamento da ação mandamental: Precedentes: TRF5 - [OAB]/PE, Rel. Desembargador Federal Manoel Erhardt, Primeira Turma, DJe 07/07/2016; STJ - REsp 783.286/SP, Relator Ministro Paulo Gallotti, Sexta Turma, DJe 10/04/2006.
+5. A sentença concessiva de segurança deve ser considerada título executivo apta a reparar os danos patrimoniais sofridos durante o seu trâmite. Embargos de Declaração providos, para sanar a omissão, sem efeitos infringentes.
+No especial, o recorrente sustenta violação dos arts. 128, 460, 461, 644, todos do CPC/1973 por entender que a condenação fixada pelo Tribunal de origem é extra petita, eis que o pedido era apenas a cessão de desconstos que vinham sendo efetuados. Aduz a inaplicabilidade de astreintes contra a Fazenda Pública.
+Não foram apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que o provimento das questões recursais depende de exame probatório.
+Nas razões do especial, o recorrente assevera que o objeto de sua irresignação não envolve análise fática.
+Não foi ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+O acórdão a quo declarou expressamente que o provimento da inicial não representa julgamento extra petita porque a repetição de valores descontados indevidamente desde a impetração do mandado de segurança é consequência lógica do pedido, veja-se a seguir (fl. 927):
+Da leitura do acórdão embargado, verifica-se não haver a omissão apontada, pois ele foi expresso ao fixar a tese de que é cabível a execução de valores relativos às parcelas suprimidas do vencimento do servidor a contar do ajuizamento da ação mandamental, não cabendo se falar em decisão extra petita, na medida em que a repetição dos valores descontados indevidamente a partir da impetração do mandado de segurança seria consequência lógica da procedência do pedido de supressão do ato administrativo impugnado. Não há, assim, qualquer . contrariedade aos arts. 128 e 460 do CPC/1973, cujos comandos foram reproduzidos nos arts. 141 e 492 do CPC/2015.
+Logo, a acolhida da pretensão, no tocante à anulação do acórdão por vício extra petita não é possível sem prévia revisão do conjunto fático-probatório dos autos. Ocorre que essa tarefa não é possível em recurso especial nos termos da Súm n. 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. PRESTAÇÃO DE SERVIÇOS PÚBLICOS. VIOLAÇÃO DO ART. 535 DO CPC/1973. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. PERDA DO OBJETO E JULGAMENTO EXTRA PETITA. VÍCIOS AFASTADOS. CONCLUSÃO FIRMADA COM BASE NAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ.  .. .
+ ..
+3. Diante dos fundamentos assentados no acórdão combatido, verifica-se que, para rever o entendimento do Tribunal de origem no sentido da não ocorrência da perda do objeto e do julgamento extra petita, bem como da presença dos elementos configuradores do dano moral coletivo e da proporcionalidade da verba indenizatória fixada na origem, demandaria reexaminar as provas constantes dos autos, medida vedada em recurso especial ante o óbice fundado na Súmula 7 do STJ.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 988.480/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/08/2017, DJe 25/08/2017)
+Ademais, admite-se a fixação de astreintes contra nas obrigações de fazer contra a Fazenda Pública. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA PARA OBTER JUDICIALMENTE A REMOÇÃO DOS PRESOS DA CADEIA PÚBLICA DE PORTO FELIZ/SP ATÉ QUE SE ESTABELEÇAM CONDIÇÕES MÍNIMAS DE FUNCIONAMENTO DO LOCAL. CABIMENTO DE IMPOSIÇÃO DE MULTA DIÁRIA, CONTRA A FAZENDA PÚBLICA, POR DESCUMPRIMENTO DE OBRIGAÇÃO. REVISÃO DO VALOR ARBITRADO DE R$ 10.000,00. MONTANTE QUE DEVE SER CONTRASTADO COM A OBRIGAÇÃO QUE PRETENDE ASSEGURAR SEU CUMPRIMENTO E NÃO APENAS QUANTO AO SEU VALOR NOMINAL. AGRAVO INTERNO DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. É cabível, mesmo contra a Fazenda Pública, a cominação de multa diária (astreintes) como meio coercitivo para cumprimento de obrigação de fazer (fungível ou infungível) ou entregar coisa (EREsp. 770.969/RS, Rel. Min. JOSÉ DELGADO, DJ 21.8.2006).
+ ..
+4. Agravo Interno do ESTADO DE SÃO PAULO a que se nega provimento.
+(AgInt no REsp 1396393/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 23/08/2018)
+ADMINISTRATIVO. MULTA DIÁRIA. DECISÃO DE ORIGEM QUE CONSIDEROU O CONJUNTO FÁTICO-PROBATÓRIO DA CAUSA. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ.
+ ..  "5. Quanto à imposição da penalidade de astreintes, restou consignado que é reiterada a orientação do Superior Tribunal de Justiça, de que pode o magistrado, de ofício ou por meio de requerimento da parte, fixar multa diária cominatória contra a Fazenda Pública em caso de descumprimento de obrigação de fazer. Nesse contexto, no que diz respeito à desproporcionalidade da multa diária fixada em R$ 500,00 (quinhentos reais) o recorrente não trouxe aos autos qualquer prova capaz de estaquear seu argumento, razão pela qual a quantia fixada foi estabelecida razoavelmente e em obediência ao disposto no art. 461, § 5º, do CPC, então vigente, pelo que deve ser mantida em todos os seus termos."
+II - Não há como aferir eventual violação dos normativos apontados sem que se reexamine o conjunto probatório dos presentes autos, tarefa que, além de escapar da função constitucional deste Tribunal, encontra óbice no enunciado n. 7 da Súmula do STJ, cuja incidência é induvidosa no caso sob exame.
+III - Agravo interno improvido.
+(AgInt no AREsp 1198529/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/06/2018, DJe 22/06/2018)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
