@@ -1,0 +1,25 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. NOVEL ENTENDIMENTO DA TERCEIRA SEÇÃO DESTE TRIBUNAL SUPERIOR. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS NA EXECUÇÃO. DATA DA ÚLTIMA PRISÃO OU DA ÚLTIMA INFRAÇÃO DISCIPLINAR. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO. INCONFORMISMO COM O JULGADO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+O que se verifica, em verdade, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela egrégia Quinta Turma.
+ 2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão, de fls. 126/131, de minha relatoria, no qual esta egrégia Quinta Turma, à unanimidade de votos, negou provimento ao Agravo Regimental em habeas corpus, em acórdão assim ementado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. NOVEL ENTENDIMENTO DA TERCEIRA SEÇÃO DESTE TRIBUNAL SUPERIOR. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS NA EXECUÇÃO. DATA DA ÚLTIMA PRISÃO OU DA ÚLTIMA INFRAÇÃO DISCIPLINAR. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Este Superior Tribunal de Justiça tinha o posicionamento no sentido de que a superveniência de nova condenação definitiva, decorrente de fato anterior ou posterior ao início da execução penal, acarretava a  unificação das penas, fazendo-se novo cálculo com base no seu somatório, bem como a interrupção do prazo para a obtenção de novos benefícios na execução. Após a unificação de penas, estabelecia-se como o marco interruptivo para concessão de novos benefícios, o trânsito em julgado da superveniente sentença condenatória.
+2. No entanto, em recentes julgados, a egrégia Terceira Seção do STJ (REsp 1.557.461/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018 e HC 381.248/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, relator para o acórdão o Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/4/2018) alterou seu entendimento para estabelecer que a superveniência do trânsito em julgado da sentença condenatória, enseja a unificação de penas, mas não serve de novo parâmetro para fixação da data-base para concessão de benefícios na execução, não podendo, portanto, ser desconsiderado o período de cumprimento de pena desde a última prisão, seja por delito ocorrido antes do início da execução da pena, ou desde a última infração disciplinar, seja por crime praticado no curso da execução e já apontado como falta grave.
+Agravo regimental desprovido (fl. 126).
+Nos presentes embargos, sustenta o embargante a ocorrência de vício, tendo em vista a omissão no julgado, haja vista que a Suprema Corte entende de maneira diversa, alegando violação aos princípios da reserva legal e individualização da pena, alegando necessidade de prequestionamento da matéria.
+Requer, assim, que os presentes embargos sejam conhecidos para que esta Corte se pronuncie sobre os argumentos mencionados.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+No caso em espécie, não se verifica a apontada omissão.
+A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do REsp 1.557.461/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018 e HC 381.248/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, relator para o acórdão o Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/4/2018, pacificou o entendimento no sentido de que, a superveniência do trânsito em julgado da sentença condenatória, enseja a unificação de penas, mas não serve de novo parâmetro para fixação da data-base para concessão de benefícios na execução, não podendo, portanto, ser desconsiderado o período de cumprimento de pena desde a última prisão, seja por delito ocorrido antes do início da execução da pena, ou desde a última infração disciplinar, seja por crime praticado no curso da execução e já apontado como falta grave.
+Dessa forma, não há falar em omissão no julgado, uma vez que foram explicitados de forma clara as razões de decidir. Assim, o que se verifica é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela egrégia Quinta Turma.
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
