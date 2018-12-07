@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência, instaurado por TRANSBRASILIANA TRANSPORTES E TURISMO LTDA - EM RECUPERAÇÃO JUDICIAL e OUTROS, apontando como suscitados o Juízo de Direito da 4.ª Vara Cível de Goiânia/GO, onde se processa a recuperação judicial das suscitantes, e o Juízo da 2.ª Vara do Trabalho de Marabá/PA.
+Alegam que, em 05 de abril de 2016, tiveram deferido seu pedido de recuperação judicial pelo Juízo de Direito da 4.ª Vara Cível de Goiânia/GO, oportunidade em que foi determinada a suspensão de todas as ações ou execuções em face das empresas recuperandas.
+Aduzem que o Juízo da 2.ª Vara do Trabalho de Marabá/PA, no bojo da reclamatória n.º 0000248-34.2015.5.08.0117, praticou indevidamente atos de indisponibilidade de bens, expropriatórios e constritivos sobre o patrimônio das suscitantes.
+Entendem, neste contexto, que "o MM. Juízo da Vara do Trabalho Suscitada determinou a constrição de valores das parcelas recebidas do imóvel arrematado para pagamentos, entre outros, de execuções trabalhistas constituídas antes do pedido de recuperação judicial, a exemplo, temos as ações relacionados às folhas 920 (doc 64), dos autos n.º 0000248-34.2015.5.08.011, que, por serem processos do ano de 2013, 2014 e 2015, os seus respectivos créditos estariam sujeitos aos efeitos dos termos do caput do art. 49 da Lei n.º 11.101/05" (fl. 06, e-STJ).
+Postulam, liminarmente, o sobrestamento da execução no sobredito juízo trabalhista, a vedação de quaisquer outros atos de constrição por aquele magistrado, designando-se o juízo comum para resolver as questões urgentes.
+O pedido liminar foi deferido (fls. 436/437, e-STJ):
+Apesar de instados a prestarem informações, os Juízos suscitados permaneceram inertes. o Ministério Público Federal, por sua vez, opinou pela declaração da competência do Juízo recuperacional, em parecer assim sintetizado (fls. 454/457, e-STJ):
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO JUDICIAL. SUSPENSÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL. INTELIGÊNCIA DOS ARTS. 6º, § 2º, E 47, AMBOS DA LEI 11.101/2005. PRECEDENTES DESSE STJ.
+O Juízo universal é o competente para os atos que importem em constrição do patrimônio da empresa em processo de recuperação judicial, enquanto mantida essa condição. Homenagem ao princípio da preservação da empresa.
+Parecer pelo conhecimento do conflito, para que seja declarada a competência do MM. Juízo de Direito da 4ª Vara Cível de Goiânia - GO.
+Às fls. 461/464 este signatário conheceu o presente conflito e, por conseguinte, declarou a competência do r. juízo da 4ª Vara Cível de Goiânia/GO. (juízo da recuperação judicial)
+Certificado o trânsito em julgado (fl. 480), os autos foram arquivados em 20/09/2017.
+Às fls. 486/592, sobreveio petição em que Transbrasiliana Transportes e Turismo Ltda impetrou, perante o TRT da 8ª Região, Mandado de Segurança em que alega, em resumo, que "(..) tem por fundamento decisão do Juízo da 2ª Vara do Trabalho de Marabá, que contrariou Liminar confirmada em decisão definitiva no Conflito de Competência n.º 150.974, cujo teor determinou o sobrestamento da execução trabalhista de n.º 000248-34.2015.5.08.0117, com vedação de quaisquer outros atos de constrição por parte daquele Magistrado."
+É o relatório.
+Decide-se.
+Nada a deferir.
+1. Consoante deliberado às fls. 461/464, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, devem ser realizados pelo juízo universal, valendo conferir, nesse sentido, os seguintes precedentes: AgInt no CC 144.740/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 21/09/2016; AgInt no CC 146.036/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016; CC 135.703/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 27/05/2015, DJe 16/06/2015.
+Certificado o trânsito em julgado (fl. 480), os autos foram arquivados em 20/09/2017.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, nada a deferir.
+Publique-se. Intimem-se. Após, retornem ao arquivo.
