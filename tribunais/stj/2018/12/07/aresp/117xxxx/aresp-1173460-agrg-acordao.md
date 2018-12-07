@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO ADMITIDO. FUNDAMENTO NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recurso especial interposto pelo agravante não foi admitido pelo Tribunal a quo diante da incidência das Súmulas n. 83 do STJ e 283 e 284 do STF, além da não comprovação do dissídio jurisprudencial alegado.
+2. No agravo interposto contra tal decisum, a defesa furtou-se a infirmar o fundamento da inadmissão do apelo consistente na ausência de cotejo analítico entre os acórdãos recorrido e paradigma. Neste regimental, apenas repete os argumentos anteriormente sustentados e alega que estamos "diante de uma decisão que pode ser mitigada no seu rigorismo formal porque, por tais documentos, há de se ver que através deles é perfeitamente possível entender-se a exata compreensão da controvérsia e, por consequência, o exame dos requisitos de admissibilidade do recurso". Incidência da Súmula n. 182 do STJ.
+3. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, ainda não publicado).
+4. Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ADALBERTO BATISTA ROCHA interpõe agravo regimental contra a decisão de fls. 198-199, em que não foi conhecido o agravo em recurso especial por incidir, no caso, a Súmula n. 182 do STJ.
+Insiste o agravante nos argumentos anteriormente sustentados. Alega, em síntese, "estarmos diante de uma decisão que pode ser mitigada no seu rigorismo formal porque, por tais documentos, há de se ver que através deles é perfeitamente possível entender-se a exata compreensão da controvérsia e, por conseqüência, o exame dos requisitos de admissibilidade do recurso" (fls. 213-214).
+Pleiteia, por fim, que o recurso especial seja apreciado e provido pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO ADMITIDO. FUNDAMENTO NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recurso especial interposto pelo agravante não foi admitido pelo Tribunal a quo diante da incidência das Súmulas n. 83 do STJ e 283 e 284 do STF, além da não comprovação do dissídio jurisprudencial alegado.
+2. No agravo interposto contra tal decisum, a defesa furtou-se a infirmar o fundamento da inadmissão do apelo consistente na ausência de cotejo analítico entre os acórdãos recorrido e paradigma. Neste regimental, apenas repete os argumentos anteriormente sustentados e alega que estamos "diante de uma decisão que pode ser mitigada no seu rigorismo formal porque, por tais documentos, há de se ver que através deles é perfeitamente possível entender-se a exata compreensão da controvérsia e, por consequência, o exame dos requisitos de admissibilidade do recurso". Incidência da Súmula n. 182 do STJ.
+3. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, ainda não publicado).
+4. Agravo regimental não conhecido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O recurso especial interposto pelo agravante não foi admitido pelo Tribunal a quo diante da incidência das Súmulas n. 83 do STJ e 283 e 284 do STF, além da não comprovação do dissídio jurisprudencial alegado.
+No agravo interposto contra tal decisum, a defesa furtou-se a infirmar um dos fundamentos da inadmissão do apelo, a ausência de cotejo analítico entre os acórdãos recorrido e paradigma. Neste regimental, apenas repete os argumentos anteriormente sustentados e alega que estamos "diante de uma decisão que pode ser mitigada no seu rigorismo formal porque, por tais documentos, há de se ver que através deles é perfeitamente possível entender-se a exata compreensão da controvérsia e, por consequência, o exame dos requisitos de admissibilidade do recurso" (fls. 213-214). Incide no caso, portanto, a Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito recentes julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+Por fim, tal posicionamento está em consonância com a jurisprudência deste Tribunal, de que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial em julgamento realizado no dia 19/9/2018 (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, ainda não publicado).
+À vista do exposto, não conheço do agravo regimental.
