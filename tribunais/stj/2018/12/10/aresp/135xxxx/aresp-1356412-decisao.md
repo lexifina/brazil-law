@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.290, e-STJ):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. PREENCHIMENTO DOS REQUISITOS. NÃO CONCOMITÂNCIA. IMPOSSIBILIDADE. DESCONTINUIDADE LONGA.
+1. O tempo de serviço rural, que é comprovado por depoimentos de testemunhas para complementar inicio de prova material, deve ser reconhecido ao segurado boia-fria.
+2. Não é possível, em caso de aposentadoria por idade rural, dispensar a necessidade de implementação simultânea dos requisitos de idade e trabalho durante o interregno correspondente à carência, uma vez que o beneficio, no caso, não tem caráter atuarial e não se pode criar regime híbrido que comporte a ausência de contribuições e a dispensa do preenchimento concomitante das exigências legais.
+3. A descontinuidade prevista no § 2º do art. 48 da LBPS não abarca as situações em que o trabalhador rural para com a atividade rural por muito tempo e depois retorna ao trabalho agrícola, uma vez que dispõe expressamente que a comprovação do labor rural deve-se dar no período imediatamente anterior ao requerimento do beneficio.
+4. Indicando o conjunto probatório que a parte autora não exerceu atividade rural durante grande parte do período equivalente à carência necessária à concessão do beneficio, é inviável a outorga deste.
+5. Embora indevido o beneficio pleiteado, deve o tempo reconhecido ser averbado.
+Embargos de declaração acolhidos, com efeitos infringentes, nos termos da ementa (fl. 321, e-STJ):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. PERDA DA QUALIDADE DE SEGURADO. DESCONTINUIDADE. SOMA DE TEMPO ANTIGO COM O PERÍODO ANTERIOR AO REQUERIMENTO. POSSIBILIDADE.
+O artigo 145 da IN 45/2010, do INSS, estabelece tão somente dois pressupostos para a concessão de aposentadoria por idade rural no caso de comprovação de desempenho de atividade urbana entre períodos de atividade rural, com ou sem perda da qualidade de segurado: (a) completar o número de meses igual ao período de carência exigido para a concessão do benefício e (b) esteja em efetivo exercício da atividade rural à época do requerimento administrativo.
+No recurso especial o recorrente alega violação do artigo 143 da Lei n. 8.213/1991, ao argumento de que a Corte local não poderia ter decidido pelo aproveitamento do período de 1979 a 1999 para fins de carência, uma vez que após tal lapso houve abandono da lide campesina por aproximadamente 05 anos, quando a segurada passou a exercer atividade urbana e perdeu a qualidade de segurada especial. O largo período de tempo foge ao conceito de descontinuidade previsto no art. 143 da Lei de Benefícios. Aponta que a jurisprudência do STJ firmou-se nesse sentido.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+O Tribunal a quo manifestou-se quanto ao ponto controverso adotando as seguintes razões de decidir (fl. 307, e-STJ):
+O exame dos autos revela que a ora embargante efetivamente retornou às lides rurais, segundo notas fiscais de comercialização de produtos agrícolas de 2005 a 2010 (fls. 57-68), após breve incursão em trabalhos urbanos ou como contribuinte individual, onde trabalhou por cinco anos, até a implementação do requisito etário e efetivação do requerimento em 2010, o que, somado aos 21 (vinte e um anos) de tempo rural reconhecido pelo INSS (01-01- 1979 a 31-12-1993 e de 31-12-1992 a 01-01-1999), sobre o qual inexiste controvérsia, asseguram-lhe à adequada proteção previdenciária.
+Não se trata, portanto, daquelas hipóteses em que o trabalhador urbano retorna à vida campesina por curto período antes de postular à aposentadoria por idade rural tão somente com o propósito de obter benefício previdenciário com requisitário etário mais favorável.
+Ademais, o precedente do Egrégio STJ referido no voto majoritário" não se aplica ao caso em tela, porquanto a parte autora não parou de trabalhar antes da implementação do requisito etário ou do requerimento administrativo.
+Descabe a confusão entre perda da qualidade de segurado rural (artigo 15 da LBPS/91) com cláusula aberta da descontinuidade fixada no artigo 143 da Lei 8.213/91.
+Com efeito, o Poder Judiciário não pode impor uma exigência que sequer a Autarquia Previdenciária estabelece em hipóteses desta natureza, haja vista que o artigo 145 da IN 45/2010 estabelece tão somente dois pressupostos: (a) completar o número de meses igual ao período de carência exigido para a concessão do benefício e (b) esteja em efetivo exercício da atividade rural à época do requerimento administrativo.
+O recorrente, ao indicar ofensa ao artigo 143 da Lei n. 8.213/1991 e direcionar a sua tese no sentido de que o lapso de cinco anos em que houve abandono da lide campesina extrapola a descontinuidade da atividade rural admitida por lei, deixou de impugnar o fundamento do acórdão recorrido segundo o qual administrativamente o INSS não estabelece semelhante exigência, à luz do art. 145 da IN 45/2010.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
