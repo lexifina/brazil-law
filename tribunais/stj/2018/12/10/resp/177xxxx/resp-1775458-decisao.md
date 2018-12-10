@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO MERCANTIL DO BRASIL S.A. com fundamento no artigo 105, III, "c", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATO DE CRÉDITO CONSIGNADO - ÓBITO DO DEVEDOR - EXTINÇÃO DA DÍVIDA - APLICAÇÃO DO ART. 16 DA LEI 1.046/50. Para o caso de empréstimo consignado com desconto em folha de pagamento, a Lei 1.046, de 1950, prevê, em seu artigo 16, que o falecimento gera a extinção da divida, não podendo o banco cobrar o débito remanescente. O crédito é inexigível, por aplicação do disposto no artigo 16 da Lei 1.046/50, lei especifica que regula a responsabilidade do espólio pelas dívidas do "de cujos"." (e-STJ fl. 124).
+No recurso especial, o recorrente alega a existência de divergência jurisprudencial acerca da interpretação dada ao artigo 16 da Lei nº 1.046/1950. Sustentou, em síntese, que a obrigação não se extinguiu com o falecimento do devedor.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso merece prosperar.
+O tribunal estadual assim dirimiu a controvérsia:
+"No caso em apreciação, tenho a compreensão de que a Lei n. 10.820/03, embora disponha sobre a autorização para desconto de prestação em folhas de pagamento e titulares de benefícios do INSS, não abordou a questão fulcral e especifica atinente ao caso de morte do mutuário, não tendo ocorrido, dessa forma, revogação do disposto no art. 16 da Lei n. 1.046/50, que permanece em vigor.
+Nesse passo, conclui-se que: a partir da data do falecimento do mutuário, considera-se quitado o contrato, bem como a dívida, tornando indevidos os descontos em contas correntes efetuados pelo banco após essa data" (e-STJ fls. 128/129).
+Tal posicionamento está em dissonância com o entendimento desta Corte firmado no sentido de que o art. 16 da Lei 1.046/1950, que previa a extinção da dívida em caso de falecimento do consignante, não está mais em vigor. Sendo assim, o óbito do consignante não extingue a dívida por ele contraída mediante consignação em folha, mas implica o pagamento por seu espólio ou herdeiros, sempre nos limites da herança transmitida (art. 1.997 do CC/02).
+A propósito:
+"DIREITO CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE CRÉDITO CONSIGNADO EM FOLHA DE PAGAMENTO. FALECIMENTO DA CONSIGNANTE. EXTINÇÃO DA DÍVIDA. AUSÊNCIA DE PREVISÃO LEGAL. ART. 16 DA LEI 1.046/50. REVOGAÇÃO TÁCITA. JULGAMENTO: CPC/73.
+1. Embargos à execução de contrato de crédito consignado opostos em 11/04/2013, de que foi extraído o presente recurso especial, interposto em 29/04/2014 e atribuído ao gabinete em 25/08/2016.
+2. O propósito recursal é dizer sobre a extinção da dívida decorrente de contrato de crédito consignado em folha de pagamento, em virtude do falecimento da consignante.
+3. Pelo princípio da continuidade, inserto no art. 2º da Lei de Introdução às Normas do Direito Brasileiro - LINDB, excetuadas as hipóteses legalmente admitidas, a lei tem caráter permanente, vigendo até que outra a revogue. E, nos termos do § 1º do referido dispositivo, a lei posterior revoga a anterior quando expressamente o declare (revogação expressa), quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior (revogação tácita).
+4. A leitura dos arts. 3º e 4º da Lei 1.046/50 evidencia que se trata de legislação sobre consignação em folha de pagamento voltada aos servidores públicos civis e militares. 5. Diferentemente da Lei 1.046/50, a Lei 10.820/03 regula a consignação em folha de pagamento dos empregados regidos pela Consolidação das Leis do Trabalho - CLT e dos titulares de benefícios de aposentadoria e pensão do Regime Geral de Previdência Social.
+6. Segundo a jurisprudência do STJ, houve a ab-rogação tácita ou indireta da Lei 1.046/50 pela Lei 8.112/90, pois esta tratou, inteiramente, da matéria contida naquela, afastando, em consequência, a sua vigência no ordenamento jurídico.
+7. Malgrado a condição da consignante - se servidora pública estatutária ou empregada celetista; se ativa ou inativa - não tenha sido considerada no julgamento dos embargos à execução opostos pelo espólio, tal fato não impede o julgamento deste recurso especial, porquanto, sob qualquer ângulo que se analise a controvérsia, a conclusão é uma só: o art. 16 da Lei 1.046/50, que previa a extinção da dívida em virtude do falecimento do consignante, não está mais em vigor, e seu texto não foi reproduzido na legislação vigente sobre o tema. 8. No particular, a morte da consignante não extingue a dívida por ela contraída mediante consignação em folha, mas implica o pagamento por seu espólio ou, se já realizada a partilha, por seus herdeiros, sempre nos limites da herança transmitida (art. 1.997 do CC/02).
+9. Em virtude do exame do mérito, por meio do qual foi rejeitada a tese sustentada pela recorrente, fica prejudicada a análise da divergência jurisprudencial.
+10. Recurso especial conhecido e desprovido"
+(REsp 1.498.200/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5/6/2018, DJe 7/6/2018).
+No mesmo sentido as seguintes decisões monocráticas REsp nº 1.757.717/SP, Relator Ministro Antonio Carlos Ferreira AREsp nº 1.331.157/MS, de minha relatoria.
+Ante o exposto, dou provimento ao recurso especial, para julgar improcedente o pedido.
+Condeno os autores às custas e aos honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor atualizado da causa, com fundamento no art. 85, § 2º, do CPC/2015, observada, se for o caso, a concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
