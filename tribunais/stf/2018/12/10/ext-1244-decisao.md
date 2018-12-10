@@ -1,0 +1,13 @@
+Vistos etc.
+    Referente à Petição STF 78.488/2018 (fls. 1029-32).
+    Em 09.8.2016, a 1ª Turma desta Corte Suprema deferiu o pedido extradicional e condicionou a entrega do Extraditando (i) à observância dos arts. 89 e 67 da Lei 6.815/1980, dada a existência de duas ações penais em curso contra ele perante a Justiça Brasileira; (ii) ao prévio exame de saúde por laudo médico oficial, nos termos do parágrafo único do art. 89 do Estatuto do Estrangeiro; e (iii) à assunção pelo Estado Requerente dos compromissos previstos no art. 91 da Lei 6.815/1980 (fls. 722-71).
+    Conforme decidido naquela assentada, a precariedade do estado de saúde do Extraditando “não constitui, por si só, impedimento ao deferimento da extradição, mas tão somente condiciona a entrega do Extraditando a prévio exame médico oficial”. Não obstante a confirmação do diagnóstico de “tumor de pulmão e envolvimento cerebral”, o respectivo laudo médico oficial, elaborado em 16.12.2016, atestou a inexistência de “impedimento atual à viagem” (fl. 848).
+    Em 25.5.2018, o Juízo da 9ª Vara Federal Criminal do Rio de Janeiro, responsável pela verificação das medidas cautelares implantadas nesta extradição, informa que o Extraditando, diagnosticado com “neoplasia maligna de pulmão” com metástase “para sistema nervoso central e pulmão”, “retornou, aos 21/05/2018, em cadeira de rodas, a olhos vistos debilitado, impossibilitado de falar e mesmo assinar a folha de presença, acompanhado de sua esposa, Fernanda, já qualificada nos autos principais. Foi esta quem firmou justificativa pelas faltas, apresentando laudos médicos, vide fls. 373/376” (fls. 996-1000).
+    O Ministério Público Federal, em parecer da lavra da Procuradora-Geral da República Raquel Elias Ferreira Dodge, opina pela realização de “novo exame médico, por perito oficial, a fim de esclarecer se a efetiva entrega do Extraditando ao Estado Requerente configura risco a sua vida, tendo em vista grave enfermidade” (Petição STF 78.488/2018 - fls. 1029-32).
+    Ante o exposto, em caráter de urgência, expeça-se carta de ordem ao Juízo da 9ª Vara Federal Criminal do Rio de Janeiro, com cópia destes autos, para efeito de realização de novo laudo médico oficial, nos moldes requeridos pela Procuradora-Geral da República, em que se esclareça, inclusive, se a efetivação da extradição pode colocar em risco a vida do Extraditando, nos termos do art. 95, § 1º, da Lei 13.445/2017 (reproduzido anteriormente pelo art. 89, parágrafo único, da Lei 6.815/80).
+    Fixo o prazo de 30 dias para o cumprimento da carta.
+    Com a chegada das informações, retornem os autos conclusos.
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+Ministra Rosa Weber
+Relatora
