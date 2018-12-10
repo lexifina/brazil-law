@@ -1,0 +1,19 @@
+DECISÃO
+JEFERSON OKUMOTO SANTANA alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 7002675-96.2017.8.26.0266.
+Nesta Corte a defesa alega a ocorrência de constrangimento ilegal, sob o fundamento de que o delito de associação para o tráfico não possui natureza hedionda, ainda que de forma equiparada, por não estar expressamente prevista no rol taxativo disposto nos artigos 1º e 2º, da Lei 8.072/1990. Assim, afastada a condição de delito hediondo, deve ser cumprido o lapso de 1/6 de pena para a progressão de regime e de 1/3 (ou 1/2 se reincidente) para livramento condicional.
+Requer, assim, seja restabelecida a decisão de primeiro grau, que concedeu o referido benefício.
+Decido.
+Da análise dos autos, constato que o writ deve ser liminarmente indeferido, em face da ausência de flagrante ilegalidade no acórdão vergastado.
+Com efeito, o Tribunal a quo, ao cassar a decisão de primeiro grau e determinar que o paciente cumpra 2/3 da pena para obter o livramento condicional, salientou que o parágrafo único do art. 44 da Lei n. 11.343/2006 está em plena vigência e trata de maneira diferenciada a execução da pena no caso dos delitos tipificados nos arts. 33 a 37, exigindo-se, pois, o cumprimento da fração de 2/3 da pena de tais delitos para fins de livramento condicional.
+O entendimento esboçado pelo Tribunal a quo está em consonância com a jurisprudência desta Egrégia Corte, uma vez que, consoante a redação do parágrafo único do art. 44 da Lei n. 11.343/2006, embora o crime de associação para o tráfico de drogas não figure no rol taxativo de delitos hediondos ou a eles comparados, dar-se-á o livramento condicional após o cumprimento de 2/3 da pena, vedada sua concessão ao reincidente específico.
+Nesse sentido, destaco os seguintes precedentes:
+ ..
+2. Não se tratando de crime hediondo, não se exige, para fins de concessão de benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele, apenas ao lapso de 1/6 para preenchimento do requisito objetivo.
+3. No entanto, a despeito de não ser considerado hediondo, o crime de associação para o tráfico, no que se refere à concessão do livramento condicional, deve, em razão do princípio da especialidade, observar a regra estabelecida pelo art. 44, parágrafo único, da Lei n. 11.343/2006, ou seja, exigir que o cumprimento de 2/3 (dois terços) da pena, vedada a sua concessão ao reincidente específico.
+4. Ordem concedida para afastar a natureza hedionda do crime de associação para o tráfico e determinar que o Juízo da Vara das Execuções Criminais da Comarca de São José do Rio Preto/SP proceda a novo cálculo da pena, considerando, para fins de progressão de regime e de livramento condicional, respectivamente, as frações de 1/6 (um sexto) e 2/3 (dois terços).
+(HC n. 394.327/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T. DJe 23/6/2017, destaaquei).
+ ..
+2. O Superior Tribunal de Justiça entende que o delito de associação para o tráfico de drogas não possui natureza hedionda, por não estar expressamente previsto nos arts. 1º e 2º, da Lei n. 8.072/90. No entanto, apesar de afastada a hediondez do delito descrito no art. 35 da Lei n. 11.343/2006, deve ser cumprida a fração de 2/3 da pena, conforme disposto no parágrafo único do art. 44 da Lei n. 11.343/06, para fins de concessão do livramento condicional, em homenagem ao princípio da especialidade, afastando a norma geral do art. 83, I, do Estatuto Repressivo.
+Habeas corpus não conhecido (HC n. 362.776/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 20/2/2017, destaquei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
