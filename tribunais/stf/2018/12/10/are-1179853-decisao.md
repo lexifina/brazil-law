@@ -1,0 +1,13 @@
+DECISÃO:
+    Em pesquisa na página eletrônica do Superior Tribunal de Justiça, constata-se que aquele Tribunal, ao analisar o Agravo Regimental no Agravo em Recurso Especial 1.191.418, concomitantemente interposto ao recurso extraordinário, deu provimento ao recurso, nos termos do voto do relator Min. Jorge Mussi. Veja-se a ementa do acórdão do referido julgamento:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ENERGIA ELÉTRICA. EXTINÇÃO DA PUNIBILIDADE DO ACUSADO. PAGAMENTO DO VALOR CORRESPONDENTE À ENERGIA SUBTRAÍDA. CONTRAPRESTAÇÃO QUE POSSUI NATUREZA DA PREÇO PUBLICO. IMPOSSIBILIDADE DE APLICAÇÃO ANALÓGICA DAS LEIS 9.249/1995 E 10.684/2003. RESSALVA DO PONTO DE VISTA DO RELATOR. RECURSO PROVIDO.
+    1. Este Relator entende que, embora o valor estipulado como contraprestação de serviços públicos essenciais - como a energia elétrica e a água, por exemplo - não seja tributo, possui a natureza jurídica de preço público, já que cobrado por concessionárias de serviços públicos, as quais se assemelham aos próprios entes públicos concedentes, razão pela qual se o adimplemento do débito fiscal antes do oferecimento da denúncia enseja a extinção da punibilidade nos crimes contra a ordem tributária, o mesmo entendimento deve ser adotado quando há o pagamento do preço público referente à energia elétrica subtraída, sob pena de violação ao princípio da isonomia.
+    2. No entanto, no julgamento do AgRg no REsp 1.427.350/RJ, no qual fiquei vencido juntamente com o eminente Ministro Felix Fischer, a maioria desta colenda Quinta Turma modificou sua compreensão sobre o tema, assentando que a remuneração pela prestação de serviço público, como o fornecimento de energia elétrica, possui natureza de tarifa ou preço público, razão pela qual não é possível a aplicação das regras previstas nos artigos 34 da Lei 9.249/1995 e 9º da Lei 10.684/2003, que possuem caráter taxativo e se restringem aos débitos fiscais.
+    3. Na espécie, considerando que cabe a esta Corte Superior de Justiça a uniformização da interpretação da legislação federal, e com a ressalva do ponto de vista deste Relator, ainda que o débito referente ao furto de energia elétrica imputado aos recorrentes tenha sido adimplido, tal fato não enseja a extinção da sua punibilidade.
+    4. Recurso provido para cassar o acórdão recorrido e a sentença absolutória, determinando o retorno dos autos ao primeiro grau, para que, superada a questão referente à extinção da punibilidade, seja proferida nova sentença.”
+    O recurso extraordinário perdeu o objeto.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso.
+    Publique-se.
+          Brasília, 10 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
