@@ -1,0 +1,9 @@
+DECISÃO
+BANCO CITICARD S.A. opõe embargos de declaração à decisão de fls. 10.439/10.440, que acolheu embargos de declaração opostos por Marco Consultoria Comercial Ltda. para, reconsiderando julgado anterior que não conhecera do recurso especial ante a não impugnação de todos os fundamentos do aresto recorrido - no caso, o de não cabimento de REsp fundado em violação de norma constitucional -, determinar a distribuição dos autos.
+Aduz o embargante que o decisum foi omisso no exame dos "demais pontos que indubitavelmente levam à inadmissão do recurso especial interposto", a saber: (a) não ocorrência de violação de lei federal; (b) intenção de revolvimento de fatos e provas (Súmula n. 7 do STJ); (c) intenção de rediscutir cláusulas contratuais (Súmula n. 5 do STJ); e (d) não demonstração do suposto dissídio jurisprudencial.
+Requer, assim, a análise da viabilidade do recurso especial "à luz de todos os demais fundamentos que invariavelmente levam à sua inadmissão, e não apenas quanto à matéria constitucional incorretamente abordada".
+É o relatório. Decido.
+Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+No caso em exame, inexiste omissão a ser suprida na via declaratória, na medida em que o pretendido exame dos pontos ora questionados pelo embargante extrapola os limites da competência atribuída ao Presidente do STJ pelo art. 21-E, V, do RISTJ.
+Ademais, a decisão não causa nenhum prejuízo à parte, uma vez que o juízo ali manifestado não vincula o relator que vier a ser sorteado para processar e julgar o feito.
+Ante o exposto, rejeito os embargos de declaração.
