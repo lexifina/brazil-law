@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de carta rogatória por meio da qual a Justiça uruguaia solicita que [NOME] DE [NOME] seja pessoalmente notificada das determinações de medida cautelar proferida em processo sucessório.
+A intimação prévia foi recebida por terceiro, conforme o documento postal de fls. 269-270. Transcorreu in albis o prazo para apresentar impugnação (fl. 271).
+A Defensoria Pública da União, na qualidade de curadora especial, apresentou impugnação às fls. 274-277. Alega que a competência para decidir sobre os bens imóveis localizados no Brasil é exclusiva da autoridade judiciária brasileira, conforme o art. 12, §1º, da LINDB e do art. 23 do CPC.
+Afirma o seguinte (fl. 275):
+Tendo a interessada sido casada sob o regime de comunhão parcial de bens com o de cujus desde o ano de 1979, sendo legítima proprietária de todos os bens adquiridos na constância do casamento e ainda dispondo de procuração que a autoriza aliená-los, não se vislumbra qualquer ilegalidade na venda daqueles bens situados no Brasil, sendo certo que, conforme dispõe o art. 10 da Lei de Introdução às Normas do Direito Brasileiro, "a sucessão por morte ou por ausência obedece à lei do país em que domiciliado o defunto ou o desaparecido, qualquer que seja a natureza e a situação dos bens".
+Destaca ainda que, em cooperação jurídica internacional, o novo Código de Processo Civil dispõe que a matéria é de competência exclusiva da autoridade judiciária brasileira (art. 964, parágrafo único, do CPC).
+Por esses fundamentos, requer seja negado o exequatur à carta rogatória.
+O Ministério Público Federal opinou pela concessão da ordem pelos fundamentos a seguir (fl. 279):
+O despacho em causa determina que a interessada se abstenha de qualquer ato de disposição do patrimônio das empresas indicadas, todas com sede no Uruguai. Portanto, em princípio, ainda que essas empresas também tenham propriedades no Brasil, não se aplica o óbice do art. 23 do Código de Processo Civil. E, além disso, interceptar antecipadamente a carta rogatória significaria impedir que a interessada tome conhecimento da ação intentada no estrangeiro. Cumpre aguardar, primeiro, a efetivação da citação da interessada e a eventual juntada dos argumentos de defesa.
+É o relatório. Decido.
+A comissão não merece prosperar.
+O pedido rogatório em análise tem origem em processo sucessório ajuizado no Uruguai por [NOME], em razão do óbito do seu genitor, [NOME], que faleceu no Brasil deixando empresas no país estrangeiro.
+O Juízo rogante concedeu medida cautelar em desfavor da interessada, [NOME], esposa do de cujus e mãe da autora, para "estabelecer a proibição de inovar" em relação a "qualquer ato que implicar disposição das sociedades fora do giro ordinário das empresas", bem como na outorga de procurações com faculdades para vender ou dispor dos bens ativos das sociedades (fl. 220). O fato que embasou a medida referida foi a pretensa venda de imóveis pertencentes à empresa uruguaia, situados no Brasil, por meio de procuração outorgada em favor da interessada.
+A situação posta nos autos - os imóveis da empresa estrangeira estão localizados no Brasil e a sucessão hereditária trata de partilha de bens situados neste país - revela tratar-se de situação de competência absoluta da Justiça brasileira, consoante regra contida nos incisos I e II do art. 23 do CPC:
+Art. 23. Compete à autoridade judiciária brasileira, com exclusão de qualquer outra:
+I - conhecer de ações relativas a imóveis situados no Brasil;
+II - em matéria de sucessão hereditária, proceder à confirmação de testamento particular e ao inventário e à partilha de bens situados no Brasil, ainda que o autor da herança seja de nacionalidade estrangeira ou tenha domicílio fora do território nacional;
+O art. 964, parágrafo único, do CPC, por sua vez, veda a concessão de exequatur à carta rogatória em situações de competência brasileira exclusiva. Transcrevo:
+Art. 964. Não será homologada a decisão estrangeira na hipótese de competência exclusiva da autoridade judiciária brasileira.
+Parágrafo único. O dispositivo também se aplica à concessão do exequatur à carta rogatória.
+O juízo uruguaio é absolutamente incompetente para dispor acerca dos bens imóveis localizados no Brasil e a concessão de exequatur à comissão representaria a continuidade de um processo judicial que teve origem em juízo que não detém jurisdição para a matéria. Além de violar a ordem pública, eventual deferimento da citação da interessada para responder a ação judicial em outro país retira do Judiciário brasileiro matéria de sua competência absoluta.
+Confira-se, a propósito, precedente no sentido de não se conceder exequatur a pedido de notificação para responder a ações judiciais que competem exclusivamente à Justiça brasileira.
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. ADJUDICAÇÃO DE BEM IMÓVEL. ART. 89 DO CPC. HIPÓTESE DE COMPETÊNCIA EXCLUSIVA DA JUSTIÇA BRASILEIRA.
+1. Nos termos do art. 89, incisos I e II, do Código de Processo Civil, a competência para "conhecer de ações relativas a imóveis situados no Brasil" e "proceder a inventário e partilha de bens situados no Brasil, ainda que o autor da herança seja estrangeiro e tenha residido fora do território nacional" é exclusiva da Justiça brasileira, com exclusão de qualquer outra.
+2. Diante disso, nega-se o exequatur a pedido rogatório de inscrição de adjudicação de bem imóvel situado em território brasileiro.
+Agravo regimental a que se nega provimento. (AgRg nos EDcl na CR n. 2.894/MX, relator Ministro Barros Monteiro, Corte Especial, DJe de 3/4/2008.)
+Desse modo, o objeto da presente carta rogatória atenta contra a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, não concedo o exequatur e determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente
+Publique-se. Intimem-se.
