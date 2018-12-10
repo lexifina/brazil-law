@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A contra decisão às fls. 587/592 que deu parcial provimento ao recurso especial para afastar a condenação da recorrente ao pagamento de indenização por danos morais em razão do atraso na entrega do imóvel adquirido pela embargada.
+A parte Embargante alega omissão quanto à redistribuição dos ônus sucumbenciais diante do provimento do recurso especial, alegando que a embargada deve ser condenada ao pagamento das custas processuais e honorários advocatícios de sucumbência aos patronos da Embargante, tendo em vista que a Embargante decaiu mínimo da parte mínima dos pedidos formulados pela embargada.
+Sucessivamente, requer aplicação do artigo 86 do CPC/2015, condenando a Embargada ao pagamento de 80% das verbas da sucumbência, ficando a condenação da Embargante cingida ao saldo proporcional de 20%.
+Ao final, requer que seja sanada a omissão apontada para eximir a embargante e condenar a embargada ao pagamento dos ônus da sucumbência.
+Não foi apresentada impugnação aos aclaratórios (fl. 471).
+É o relatório.
+Com efeito, revelam-se plausíveis as razões recursais, ao apontar omissão da decisão embargada quanto ao pronunciamento acerca dos ônus sucumbenciais, de modo que se faz necessário o suprimento de tal vício nos termos que se seguem.
+Entre os pedidos feitos na petição inicial do autor, a sentença, ao julgar parcialmente a ação de indenização, condenou a Embargante ao pagamento de indenização por danos morais em razão do atraso na entrega de imóvel adquirido pela Embargada, que teve seu valor reduzido no julgamento do recurso de apelação, sendo que, no julgado ora embargado, foi dado parcial provimento ao recurso especial, afastando-se a referida condenação em danos morais.
+Ressalte-se que é inviável, nesta instância superior, a aferição sobre o grau de repercussão da sucumbência de cada uma das partes, devendo tal apuração ocorrer na liquidação do julgado. Confira-se, nesse sentido, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - ATRASO NA ENTREGA DE OBRA - COBRANÇA DE MULTA CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ. 1. A reforma do acórdão recorrido, a fim de se entender que não houve notificação para constituição em mora ou dessa ter sido genérica, como pretende a insurgente, demanda a incursão no acervo fático-probatório, prática vedada pelas Súmulas 5 e 7/STJ.
+2. A verificação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, a fim de reformular a distribuição dos ônus de sucumbência, bem como a alteração da sucumbência mínima ou recíproca identificada pela instância ordinária, são inviáveis no âmbito do recurso especial, por demandar o reexame de matéria fática, o que esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido."
+(AgInt no AgRg no AREsp 618.577/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/03/2018, DJe 06/03/2018, g.n.)
+Neste contexto, considerando a sucumbência recíproca, arcarão as partes, na proporção do respectivo decaimento, a ser apurado na fase de liquidação do julgado, com as despesas processuais e os honorários advocatícios conforme fixado na origem, ressalvada a eventual concessão de gratuidade de justiça.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para fins de suprir a omissão apontada no recurso, sem efeitos infringentes
+Publique-se.
