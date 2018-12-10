@@ -1,0 +1,5 @@
+DECISÃO
+Em petição protocolizada, às e-STJ fls. 147/150, o requerente pleiteia o reconhecimento da prescrição da pretensão punitiva, ao argumento de que a denúncia do paciente foi recebida em 5/4/2011, e o novo acórdão do HC fora exarado em abril, após a fluência de sete anos do recebimento da denúncia, gerando a prescrição do processo, tendo em vista que o paciente conta com 71 anos de idade, fato que reduz o prazo da prescrição pela metade, nos termos do art. 115, do Código Penal (e-STJ fl. 147).
+Contudo, verifico que ao julgar o AgRg nos EDcl no Resp n. 1.628.957/PB, conexo a estes autos, analisei a questão suscitada e verifiquei que na data da sentença penal condenatória, proferida em 21/5/2014, o paciente estava com 67 anos de idade. Portanto, não havia que se falar em redução do prazo prescricional pela metade, pois a situação dos autos revelava que o paciente somente completou 70 anos de idade em data posterior ao primeiro decreto condenatório proferido nesta ação penal, de modo que inexistiu a suscitada prescrição.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
