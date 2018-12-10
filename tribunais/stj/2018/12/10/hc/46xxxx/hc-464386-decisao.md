@@ -1,0 +1,46 @@
+EMENTA
+HABEAS CORPUS. COMETIMENTO DE NOVO DELITO DURANTE O LIVRAMENTO CONDICIONAL. EFEITOS E CONSEQUÊNCIAS DISTINTOS DA FALTA GRAVE PREVISTA NA LEI DE EXECUÇÃO PENAL. DESPICIENDA A DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. ORDEM CONCEDIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCUS VINÍCIUS [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Agravo em Execução n.º [CPF] (n.º CNJ: 0371414-82.2017.8.21.7000).
+Colhe-se nos autos que o Juiz de primeiro grau, ante a prisão do Paciente durante o livramento condicional pela prática de novo delito, suspendeu o citado benefício até o trânsito em julgado da decisão a ser exarada acerca da nova imputação, julgou prejudicado o pedido para que fosse decretada a prisão do Apenado, pois esse já se encontrava em segregação processual, e, por fim, deixou de designar audiência de justificação no tocante à falta grave, porquanto entendeu, na forma do art. 89 do Código Penal e 145 da Lei de Execução Penal, que a sanção prevista para hipóteses como a dos autos é a suspensão da benesse e, posteriormente, se for o caso, a revogação (fls. 119-124).
+Irresignado, o Ministério Público interpôs agravo em execução, ao qual a Corte de origem, por maioria de votos, deu provimento para determinar a designação de audiência de justificação conforme preconizado no art. 118, § 2.º, da Lei n.º 7.210/84, nos termos da seguinte ementa (fl. 150):
+"EXECUÇÃO PENAL. AGRAVO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO FATO CRIMINOSO.
+Quando no curso do cumprimento de pena privativa de liberdade, ocorre a prática de fato considerado criminoso, caracteriza-se a falta grave, com as consequências da LEP. Todavia, diferente é a situação quanto o fato ocorre no curso do período de prova do livramento condicional, cuja consequência inicial é a suspensão do benefício e, dependendo da sentença condenatória, eventual revogação. Assim, não há motivo para realização de audiência de justificação. No ponto, correta a decisão.
+DETRAÇÃO.
+O tempo de prisão preventiva, pela prática de novo fato considerado criminoso no curso do livramento condicional, não pode ser considerado como pena cumprida do crime anterior. Depende do resultado do novo processo, e em caso de condenação neste será considerado, inclusive para definição do regime. Indevido, portanto, considerar como tempo cumprido do livramento condicional.
+AGRAVO DO MINISTÉRIO PÚBLICO PROVIDO, POR MAIORIA."
+Os embargos infringentes opostos pela Defesa foram rejeitados (fls. 188-199).
+No presente writ, a Impetrante alega que o Tribunal a quo, ao determinar a designação de audiência de justificação na espécie, laborou em equívoco, porquanto " ..  a apuração de falta grave terá efeitos nefastos na esfera jurídica do paciente, uma vez que, julgada a "falta", poderá ocorrer a alteração da data-base, perda dos dias remidos e regressão de regime, ocorrendo privação antecipada de liberdade, violando, nessa situação, o artigo 5º, VIII, XXXIX da Constituição Federal e desafiando os artigos 145 da lei de Execuções Penais e o artigo 86 do Código Penal" (fl. 9).
+Pondera que, para a pena que está sendo atualmente cumprida, a consequência de eventual condenação pela prática de novo crime, após o trânsito em julgado desta, é a revogação do livramento condicional.
+Requer, em liminar e no mérito, a cassação do acórdão impugnado que determinou a designação de audiência de justificação para apuração de falta grave supostamente cometida pelo Paciente no curso do livramento condicional.
+A Ministra MARIA THEREZA DE ASSIS MOURA, então Relatora do feito, indeferiu a liminar (fls. 209-211).
+As informações foram prestadas (fls. 215-290 e 294-306).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento e desprovimento do habeas corpus (fls. 308-314).
+É o relatório.
+Decido.
+O voto condutor do acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fl. 163; sem grifos no original):
+"Registro que embora entenda não ser possível o reconhecimento de falta grave quando o apenado estiver em livramento condicional, uma vez que o aludido instituto possui regramento próprio, alterei meu voto ressalvando minha posição pessoal, no intuito de uniformizar a jurisprudência, aderindo ao posicionamento majoritário desta Corte.
+De acordo com o art. 52 da Lei de Execução Penal, a prática de fato definido como crime doloso no curso do livramento condicional dá ensejo, além da suspensão do benefício até o julgamento definitivo do novo crime, ao reconhecimento de falta disciplinar de natureza grave, razão pela qual é necessária, de acordo com o disposto no art. 118, § 2º, da Lei de Execução Penal, a realização de audiência de justificação para que sejam assegurados os princípios do contraditório e da ampla defesa.
+Assim sendo, tem de ser realizada a audiência de justificação, conforme postulado pelo agravante.
+No mais, acompanho o nobre relator.
+Ante o exposto, provejo o agravo em execução para que seja designada audiência de justificação, nos termos do Art. 118, § 2º, da Lei de Execução Penal, e para afastar a detração."
+Como se vê, o entendimento adotado pela Corte de origem não está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual o cometimento, pelo Reeeducando, de novo crime no curso do interstício atinente ao livramento condicional não acarreta os mesmos efeitos da falta grave prevista na Lei n.º 7.210/84, pois a eventual condenação pelo delito mais recente terá as implicações inerentes e previstas no Código Penal, as quais não fazem parte do sistema de progressão de penas.
+Isso porque, no período de livramento condicional, embora o condenado esteja em cumprimento de pena, não está recolhido ou submetido às regras de nenhum estabelecimento prisional, mas, sim, às condições que foram fixadas pelo Juízo da execução, quando da audiência admonitória.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. REGRAMENTO PRÓPRIO. PERDA DOS DIAS REMIDOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO. REGIME FECHADO. UNIFICAÇÃO DAS PENAS. INEXISTÊNCIA DE ILEGALIDADE. NOVA DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS NA EXECUÇÃO PENAL. FALTA DE INTERESSE.
+ ..
+2. A prática de crime no curso do período de prova do livramento condicional não tem o condão de gerar os efeitos próprios da prática de falta grave, no caso, a perda de até 1/3 dos dias remidos, mas tão somente, após a efetiva revogação, a perda do tempo cumprido em livramento condicional e a impossibilidade de nova concessão do benefício no tocante à mesma pena (HC n. 271.907/SP, Ministro Rogerio Schietti Cruz, DJe 14/4/2014).
+ ..
+5. Writ não conhecido. Ordem expedida de ofício tão somente para que sejam restabelecidos os dias remidos perdidos." (HC 376.104/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/02/2017, DJe de 23/02/2017; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. INDULTO CONCEDIDO. FALTA GRAVE NÃO CARACTERIZADA. AGRAVO DESPROVIDO.
+1. Não obstante o agravado tenha descumprido as condições do livramento condicional, tal fato não constitui falta grave. O cometimento de crime no curso do período de prova do livramento condicional não produz os efeitos inerentes à falta grave, pois a legislação penal prevê efeitos próprios e diversos. Precedentes.
+2. A prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena (REsp. 1.101.461/RS, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 19/2/2013).
+3. Agravo regimental desprovido." (AgRg no REsp 1.537.149/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2016, DJe de 10/02/2016.)
+"HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME NO PERÍODO DE PROVA. CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA. REGIME FECHADO. MANIFESTO CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+2. A prática de crime no curso do período de prova do livramento condicional não tem o condão de gerar os efeitos próprios da prática de falta grave, no caso, a perda de até 1/3 dos dias remidos, mas tão somente, após a efetiva revogação, a perda do tempo cumprido em livramento condicional e a impossibilidade de nova concessão do benefício no tocante à mesma pena.
+ ..
+6. Ordem não conhecida. Habeas corpus concedido, de ofício, apenas para afastar a perda dos dias remidos decretada em desfavor do paciente." (HC 271.907/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/03/2014, DJe de 14/04/2014.)
+No mesmo sentido, as seguintes decisões monocráticas: HC n.º 471.433/RS, Rel. Min. NEFI CORDEIRO, DJe de 13/11/2018; e REsp n.º 1.669.171/RS, Rel. Min. JORGE MUSSI, DJe de 4/5/2018.
+Ante o exposto, CONCEDO a ordem para afastar cassar o acórdão impugnado e restabelecer a decisão do Juízo da Execução.
+Publique-se. Intimem-se.
