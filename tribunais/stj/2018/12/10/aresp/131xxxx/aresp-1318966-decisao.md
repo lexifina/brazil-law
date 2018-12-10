@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. APRESENTAÇÃO DO ORIGINAL PARA O PROSSEGUIMENTO DO FEITO EXECUTIVO. ENTENDIMENTO ADOTADO PELA CORTE LOCAL EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. PROSSEGUIMENTO DO FEITO EXECUTIVO, COM A RESSALVA FIRMADA PELO TRIBUNAL DE ORIGEM, ANTE A POSSIBILIDADE DE CIRCULAÇÃO DO TÍTULO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao seu recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE - Execução por título extrajudicial - Cédula de crédito bancário - Pretensão ao acolhimento da exceção para extinguir a execução, que não está aparelhada com o título executivo original - Descabimento - Necessidade, todavia, da apresentação da via original em cartório, em razão da possibilidade de transmissão do título por endosso - Inteligência do disposto no artigo 425, § 2º, do Código de Processo Civil em vigor - Recurso não provido, com determinação.
+Nas razões do recurso especial (fls. 85-99, e-STJ), a recorrente apontou, além da existência de dissídio jurisprudencial, violação dos seguintes dispositivos normativos: art. 798, inciso I, alínea "a", do CPC; e art. 28 da Lei nº 10.931/2004, sustentando, em síntese, que a Execução de Título Extrajudicial deveria ser instruída com o original do documento, e não cópia simples, principalmente por tratar-se de documento com circulabilidade, razão pela qual requer a anulação do acórdão recorrido ou a sua reforma.
+Contrarrazões (fls. 131-141, e-STJ).
+Em decisão monocrática (fls. 141-142, e-STJ), a Corte local indeferiu o processamento do apelo nobre ao considerar não ter sido demonstrada a alegada vulneração aos dispositivos arrolados, pela aplicação da Súmula 7/STJ, bem como pela ausência de demonstração do dissídio jurisprudencial alegado.
+Nas razões do agravo em recurso especial (fls. 146-159, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentação no sentido de superar os impedimentos sumulares acima indicados.
+É o relatório.
+Decido.
+A irresignação não merece ser acolhida.
+Consoante disciplina o art. 26 da Lei 10.931/04, a cédula de crédito bancário tem natureza de título de crédito e sabendo que os títulos de crédito têm como característica a cartularidade, a exigência de apresentação do título original ganha maior relevância, ao impedir que o crédito tenha sido transferido para outrem por meio do endosso.
+Assim, a necessidade de instrução da petição inicial de execução com o título executivo extrajudicial original decorre de disposição de lei.
+Consoante o disposto no § 1º, do artigo 29 da Lei 10.931/2004, a cédula de crédito bancária pode ser transferida por endosso, razão pela qual torna-se imprescindível que a ação executiva seja instruída com o documento original, diante da possibilidade de sua circulação.
+É certo que, ainda que a cópia da cédula de crédito bancário esteja autenticada por Tabelião com fé pública, faz-se imprescindível instruir a inicial com o original do título, em razão da possibilidade de transferência do crédito a terceiro, segundo dispositivo da lei especial.
+Além disso, o artigo 614, inciso I, do CPC determina que a petição inicial da execução deve ser instruída com o título executivo extrajudicial, cabendo ao credor que requer a execução tal apresentação.
+Logo, a cédula de crédito bancário se apresenta como um título cambial, não podendo instruir feito satisfativo somente por meio de cópia. É da própria natureza da cédula de crédito bancário a condição de título de crédito.
+A propósito, o referido tema já fora tratado por meio de repetitivo, nos termos do art. 543-C, a seguir colacionado:
+DIREITO BANCÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. LEI N. 10.931/2004. POSSIBILIDADE DE QUESTIONAMENTO ACERCA DO PREENCHIMENTO DOS REQUISITOS LEGAIS RELATIVOS AOS DEMONSTRATIVOS DA DÍVIDA. INCISOS I E II DO § 2º DO ART. 28 DA LEI REGENTE.
+1. Para fins do art. 543-C do CPC: A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004).
+3. No caso concreto, recurso especial não provido. (REsp 1.291.575-PR, Rel. Min. Luis Felipe Salomão, julgado em 14/8/2013 - grifou-se).
+Sendo assim, o entendimento adotado pelo Tribunal de origem está em conformidade com a orientação desta Corte, no sentido de que é necessária a juntada de documento original em razão do requisito da cartularidade, inerente às cédulas de crédito bancário.
+Nesse sentido, o seguinte precedente desta Corte Superior:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO. TITULO EXECUTIVO. ORIGINAL. JUNTADA POSTERIOR. POSSIBILIDADE.
+- A juntada do título executivo original é essencial para a validade do processo de execução.
+- Entretanto, não há nulidade se, aparelhada em cópia do título extrajudicial, for juntada a via original, ainda que posterior à oferta dos embargos do devedor, e se não houver impugnação à autenticidade da cópia apresentada. (AgRg no REsp 821.508/SC, Relator Ministro Humberto Gomes de Barros, Terceira Turma, DJ 15/10/2007 p. 259 - grifou-se)
+Destarte, o pleito recursal não merece acolhida, uma vez que o pedido veiculado nas razões recursais manifesta pretensão contrária ao quanto disposto na jurisprudencial consolidada desta Corte, de maneira que se obsta o apelo nobre tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
