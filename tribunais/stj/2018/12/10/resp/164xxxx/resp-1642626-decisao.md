@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/88, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (e-STJ, fls. 364-365) :
+PREVIDENCIÁRIO. RECURSOS DE APELAÇÃO CÍVEL E REMESSA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. POSSIBILIDADE DE OBTENÇÃO DE BENEFÍCIO NA MODALIDADE PROPORCIONAL. COEFICIENTE DE CÁLCULO. JUROS DE MORA. VERBA HONORÁRIA. TERMO INICIAL. APELO DO AUTOR PROVIDO PARCIALMENTE. APELO DO INSS IMPROVIDO E REMESSA NECESSÁRIA PROVIDA PARCIALMENTE.
+- Na hipótese em testilha, considerando que o autor, no momento da concessão da aposentadoria, possuía o tempo de serviço de 33 (trinta e três) anos, 7 meses (sete) e 18 (dezoito) dias, ele faz jus à aplicação do coeficiente de cálculo de 88% (oitenta e seis) por cento para a fixação de sua renda mensal inicial, em conformidade com o disposto no artigo 53, I, da Lei 8.213/91.
+- O INSS procedeu à análise da documentação do segurado, por ocasião do requerimento administrativo para a concessão de sua aposentadoria, entendendo não ter o autor tempo suficiente à concessão do benefício.
+- O período questionado pela autarquia previdenciária foi devidamente comprovado pelo segurado mediante apresentação de sua CTPS.
+- A simples alegação de irregularidade quanto aos vínculos trabalhistas anotados na CTPS do trabalhador, por ausência de correspondente anotação junto ao CNIS, não afasta a presunção de veracidade do documento público, sem a comprovação de mácula ou fraude no referido documento. No caso em apreço, não foram apontadas máculas na CTPS do segurado, revelando-se as provas constantes dos autos um arcabouço robusto e de difícil infirmação, hábeis a demonstrar a veracidade dos vínculos alegados pelo autor.
+- Correta a tese aventada pela parte autora no sentido da condenação do INSS a título de honorários advocatícios, devendo tal verba ser fixada no percentual de 10% (dez por cento) sobre o valor da condenação.
+- A partir da vigência da Lei nº 11.960/09 (30/06/2009), que alterou o art. 1º-F da Lei nº 9.494/97, aos juros de mora devem ser aplicados os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+- A r. sentença merece reparo no que diz respeito à fixação do termo inicial do benefício em testilha, uma vez que, em sede administrativa, o autor requereu aposentadoria por tempo de contribuição integral, e somente no presente feito, pleiteia a condenação do INSS na aposentadoria por tempo de contribuição na modalidade proporcional, razão pela qual o início do pagamento das parcelas devidas ao autor, a este título, deve corresponder à data da citação do INSS (10/10/2013), quando a Autarquia Previdenciária tomou ciência do pedido então efetuado no presente feito.
+- Apelação da parte autora provida parcialmente. Negado provimento à Apelação do INSS. Remessa provida parcialmente.
+Os embargos de declaração (e-STJ, fls. 436-440) foram rejeitados, nos termos da decisão de e-STJ, fls.445-451.
+O insurgente alega, nas razões do especial, a existência de contrariedade aos arts. 103, caput e parágrafo único; 9º, II, 54 e 57, § 2º, da Lei n. 8.213/1991; 189 do Código Civil (Lei n. 10.406/2002); 4º e 9º do Decreto n. 20.910/1932.
+Defende, em síntese, que o termo inicial do benefício deve ser fixado na data do requerimento administrativo.
+Não foram apresentadas contrarrazões.
+Admitido o recurso especial na origem (e-STJ, fls. 478), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O recurso merece prosperar.
+É entendimento assente neste Superior Tribunal de que, na concessão do benefício previdenciário, em regra, a data de início é fixada como sendo a do requerimento e, caso ausente este, a de citação.
+No ponto:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. HAVENDO REQUERIMENTO ADMINISTRATIVO, ESSE É O TERMO INICIAL PARA PERCEPÇÃO DO BENEFÍCIO PREVIDENCIÁRIO. PRECEDENTES. RECURSO ESPECIAL IMPROVIDO.
+I - De acordo com a jurisprudência do STJ, entende-se que o termo inicial do benefício previdenciário é a data de protocolo do requerimento administrativo e, caso não haja prévio requerimento administrativo, a data passa a ser da citação válida da autarquia previdenciária na ação judicial. Precedentes: AgInt no AREsp 916.250/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2017, DJe 11/12/2017; REsp 1.676.491/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2017, DJe 10/10/2017; AgInt no REsp 1.632.513/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/5/2017, DJe 10/5/2017; AgRg no AREsp 102.823/BA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/6/2016, DJe 1/7/2016.
+II - No caso dos autos, o Tribunal de origem, em conformidade com a jurisprudência desta Corte, definiu a data do requerimento administrativo como termo inicial para a percepção do benefício previdenciário, razão pela qual não merece reforma.
+III - Agravo interno improvido.
+(AgInt no REsp 1.622.057/SC, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 17/5/2018, DJe 28/5/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREVIDENCIÁRIO. REVISÃO DO BENEFÍCIO DE APOSENTADORIA. TERMO A QUO. DATA DO REQUERIMENTO ADMINISTRATIVO. AGRAVO IMPROVIDO.
+1. A controvérsia estabelecida nos presentes autos diz respeito ao termo inicial para concessão de benefício previdenciário, quando o segurado, antes do ajuizamento da ação, postula pela concessão do mesmo na via administrativa.
+2. O entendimento prevalente no âmbito dessa Corte de Justiça é no sentido de que o reconhecimento do direito ao benefício previdenciário, em respeito ao direito adquirido, deve se dar desde a data da postulação na via administrativa, independente da questão reconhecida na via judicial ser ou não idêntica àquela aventada na seara administrativa. Precedentes.
+3. Agravo improvido.
+(AgRg no REsp 942.662/SP, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, julgado em 3/3/2011, DJe 16/3/2011)
+No caso, os fatos foram assim considerados pela Corte de origem (e-STJ, fl. 363):
+No entanto, verifica-se que a r. sentença merece reparo no que diz respeito à fixação do termo inicial do benefício em testilha, uma vez que, em sede administrativa, o autor requereu aposentadoria por tempo de contribuição integral, e somente no presente feito, pleiteia a condenação do INSS na aposentadoria por tempo de contribuição na modalidade proporcional, razão pela qual o início do pagamento das parcelas devidas ao autor, a este título, deve corresponder à data da citação do INSS (10/10/2013 - fl. 79), quando a Autarquia Previdenciária tomou ciência do pedido então efetuado no presente feito.
+Diante disso, é incontroverso o direito da parte recorrente, pois o Tribunal adotou como termo inicial do benefício a citação da autarquia previdenciária, quando da análise do conjunto dos elementos dos autos ficou comprovado o seu direito ao benefício desde o requerimento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial para, reformando o acórdão de origem, determinar seja considerada a data do requerimento administrativo como termo inicial do benefício previdenciário (24/5/2012).
+Publique-se. Intimem-se.
