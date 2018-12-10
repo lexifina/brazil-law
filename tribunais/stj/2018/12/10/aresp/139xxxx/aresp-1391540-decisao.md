@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por SUL AMÉRICA COMPANHIA DE SEGUROS SAÚDE contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"AGRAVO. SEGURO SAÚDE. MAJORAÇÃO PRESTAÇÕES. CRITÉRIO ETÁRIO.
+POSSIBILIDADE. HIPÓTESES. PREVISÃO CONTRATUAL. OBSERVAÇÃO DE NORMAS GOVERNAMENTAIS. OBSERVÂNCIA DA RAZOABILIDADE. DESRESPEITO A ESSES CRITÉRIOS. DEVER DE INFORMAÇÃO AO CONSUMIDOR. NÃO ATENDIDO.NECESSIDADE REVISÃO DO CONTRATO.
+1. Segundo entendimento oriundo de recurso repetitivo junto ao STJ (REsp. 1.568.244/RJ), o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+2. Uma vez verificado que o acréscimo da mensalidade referida nos autos foi de quase 75% (oitenta por cento), observo que o critério da razoabilidade não foi respeitado. 2.1. Ademais, o dever de informação ao consumidor não ficou demonstrado nos autos, portanto, o risco de dano pode ocorrer, mas às inversas, pois a contratante é quem sofrerá os efeitos do aumento da mensalidade, com risco de se tornar inadimplente, sofrendo, portanto, as conseqüências advindas dessa situação.
+3. Não se pode perder de vista que, segundo as normas consumeristas, é direito básico do consumidor o da informação, devendo esta ser prestada de forma adequada e clara, sendo certo que não se pode exigir do beneficiário do plano de saúde que compreenda tabelas técnicas de percentuais a respeito de futuros aumentos, sem os devidos esclarecimentos.
+4. Recurso conhecido. Negado Provimento" (fls. 321/322 e-STJ).
+"
+No recurso especial (fls. 341/347 e-STJ), a parte recorrente aponta negativa de vigência dos arts. 757 e 760 do Código Civil. Sustenta, em síntese, que os reajuste do plano de saúde estão previstos contratualmente e foram informados à recorrida no momento da contratação.
+Oferecidas as contrarrazões (fls. 356/361 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Na hipótese, constata-se que todas as conclusões da Corte de origem resultaram da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda.
+É o que se extrai da leitura do voto condutor do julgado ora hostilizado, merecendo destaque o seguinte trecho de sua fundamentação:
+"(..) Com efeito, o STJ sedimentou, em sede de repetitivo, as seguintes teses sobre a questão do aumento das mensalidades dos planos de saúde ao julgar o REsp. 1.568.244/RJ:
+"O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (I) haja previsão contratual, (II) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (III) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso".
+Portanto, segundo o entendimento do STJ, uma das condições para que se permita o reajuste da mensalidade do plano de saúde da autora apelada, é que tenha previsão contratual.
+Por sua vez, a Lei 9.656/98 que dispõe sobre os planos e seguros privados de assistência à saúde, também permite o aumento da mensalidade do plano de saúde, porém, desde que haja previsão contratual.
+Logo, não resta dúvida que existe a possibilidade de se efetuar o reajuste do contrato de prestação de serviço de saúde, segundo o critério etário da contratante. Contudo, neste caso, não existe tal cláusula no pacto entabulado entre as partes conforme se verifica no documento Id. 3955468.
+Do mesmo modo, não há nos autos dados que permitam verificar que a apeladaa teve prévio conhecimento dos critérios de reajuste por mudança de faixa etária, não sendo suficiente a simples alegação nesse sentido.
+Ademais, segundo as normas consumeristas, é direito básico do consumidor o da informação, devendo esta ser prestada de forma adequada e clara, sendo certo que não se pode exigir do beneficiário do plano de saúde que compreenda tabelas de percentuais a respeito de futuro aumentos.
+Por outro lado, mesmo sendo possível o reajuste segundo critério etário, não se pode perder de vista o que decidido pelo STJ, pois restou ali sedimentado ser defeso aplicar percentuais desarrazoados. Assim, conforme consta dos autos, o acréscimo da mensalidade da apelada foi de quase 75% (setenta e cinco por cento) em menos de dois anos, percentual este que se denota fora da razoabilidade, uma vez que a mensalidade saltou de R$ 2.038,62 em 30/08/2015, para R$ 3.547,98 30/07/2017.
+Além disso, a ANS regulamentou que o reajuste aplicável aos planos de saúde deve ser anual, todavia, no presente contrato há uma irregularidades em sua aplicação.
+De fato, o reajuste deve ser cobrado no mês de aniversário do contrato, isto é, no mês que a apeladae realizou a assinatura. No caso, a autora assinou o contrato em 30/06/1995.
+Entretanto, conforme se infere nos autos, houve reajustes em 30/08/2015 (R$2.038,62); 30/09/2015 (R$2.458,39); 30/06/2016 (R$2.791,50) e 30/07/2017 (R$3.547,98), ou seja, mais de um reajuste dentro do mesmo ano.
+De fato, o valor excessivamente cobrado (aumento de 75% em menos de 2 anos) coloca a parte autora, ora apelada, em enorme desvantagem e não guarda proporcionalidade com os demais períodos anteriormente cobrados praticamente inviabilizando a permanência apelada no plano contratado" (fls. 326/327 e-STJ - grifou-se).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ, consoante iterativa jurisprudência desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para 17,5% (dezessete vírgula cinco por cento por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
