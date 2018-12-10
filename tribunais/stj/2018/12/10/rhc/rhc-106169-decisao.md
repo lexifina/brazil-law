@@ -1,0 +1,24 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 471.337/BA. LITISPENDÊNCIA. RECURSO ORDINÁRIO INDEFERIDO LIMINARMENTE.
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ALEXSANDRO DA CONCEIÇÃO SILVA contra acórdão do Tribunal de Justiça do Estado da Bahia proferido no Habeas Corpus n.º 8017368-41.2018.8.05.0000.
+Segundo os autos, o Juízo a quo julgou parcialmente procedente a pretensão punitiva estatal, condenando o Réu, pelo crime de tráfico de drogas, às penas de 8 (oito) anos e 4 (quatro) meses de reclusão, em regime fechado, e 833 (oitocentos e trinta e três) dias-multa, sendo vedado o direito de recorrer em liberdade (fls. 119-133), pois estava na posse de mais de 1kg (um quilo) de cocaína e 2 (dois) tabletes de crack, que totalizavam 2.023,72 kg (dois quilos e vinte e três gramas e setenta e dois centigramas) (fl. 49).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, conforme ementa abaixo transcrita (fls. 156-157):
+""HABEAS CORPUS LIBERATÓRIO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS DO DECRETO E NULIDADE PROCESSUAL. IMPUGNAÇÃO. CONHECIMENTO. IMPOSSIBILIDADE. QUESTÕES PREVIAMENTE APRECIADAS. IMPETRAÇÃO ANTERIOR. REITERAÇÃO. INVIABILIDADE. SENTENÇA. DIREITO DE RECORRER EM LIBERDADE. NEGATIVA. EMBASAMENTO. PENA-BASE. EXASPERAÇÃO. FUNDAMENTO. REGIME PRISIONAL. ADEQUAÇÃO.
+1. Já se tendo apreciado, em impetração anterior em favor do Paciente, os pressupostos e fundamentos para a decretação da prisão preventiva, inclusive quanto aos seus predicativos pessoais, bem assim a tese de nulidade processual por inversão de rito, inviável o conhecimento do habeas corpus subsequente na parte em que repete a exata mesma impugnação ali lançada, restando, tão somente, a análise dos temas ainda não suscitados.
+2. Estando o Réu já preventivamente custodiado, justifica-se a manutenção do recolhimento, na sentença penal condenatória, com lastro na subsistência dos elementos que o justificam, ao que se revela idônea a valoração, no delito de tráfico de drogas, da excessiva quantidade e variedade das substâncias ilícitas apreendidas. Precedentes.
+3. A estreita via do habeas corpus não se revela meio processual adequado para a integral e direta revisão da dosimetria fixada na instância originária, tendo cabimento, neste espectro, apenas quanto à presença de manifesta ilegalidade ou teratologia abarcadas pelo procedimento.
+4. Constatando-se que, no caso concreto, a elevação da pena-base se assentou expressamente na diretriz firmada no art. 42 da Lei nº 11.343/06, valorando a elevada quantidade de entorpecentes e sua variada natureza, não há que se falar em flagrante ilegalidade ou teratologia do cálculo dosimétrico. Precedentes.
+5. Sendo o Paciente condenado a pena privativa de liberdade superior a 08 (oito) anos, e tendo o julgado valorado negativamente as circunstâncias do crime, não há o que se reconhecer de ilegal ou abusivo na
+fixação do regime inicial fechado para seu respectivo cumprimento. Inteligência do art. 33, § 2o, "a", e § 3o do Código Penal.
+6. Ordem parcialmente conhecida e, na parte conhecida, denegada."
+A Defesa, então, interpôs o presente recurso ordinário, com pedido liminar, contra o acórdão denegatório, alegando, em suma, que suas condições pessoais são favoráveis e que não houve fundamentação idônea para a decretação da custódia preventiva.
+Requer, em liminar e no mérito, o relaxamento da suposta prisão ilegal, com a imediata expedição de alvará de soltura em favor do Recorrente. Supletivamente, pleiteia pela aplicação das medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+O Ministério Público estadual apresentou contrarrazões recursais (fls. 226-233).
+É o relatório. Decido.
+Verifico que o presente recurso veicula mera reiteração de pedido já formulado no HC n.º 471.337/BA - em que indeferi o pleito liminar -, o qual aguarda informações e parecer do Ministério Público Federal.
+O presente recuso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria.
+Constatada a litispendência, concluo pela inadmissibilidade do recurso, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
