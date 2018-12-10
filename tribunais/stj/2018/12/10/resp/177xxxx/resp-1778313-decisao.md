@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PIS/COFINS. CRÉDITO ESCRITURAL E CRÉDITO PRESUMIDO. CORREÇÃO MONETÁRIA. DEMORA INJUSTIFICADA NA ANÁLISE DO PEDIDO ADMINISTRATIVO. TERMO INICIAL DA ATUALIZAÇÃO MONETÁRIA. APLICAÇÃO DO ART. 24 DA LEI 11.457/2007. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS: RESPS 1.768.415/SC, 1.768.060/RS E 1.767.945/RS. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+TRIBUTÁRIO. PEDIDO DE RESSARCIMENTO. PRAZO PARA ANÁLISE E DECISÃO. ART. 24 DA LEI 11.457/07. CORREÇÃO MONETÁRIA. TERMO INICIAL. [NOME].
+1. Ultrapassado o prazo de 360 dias de que trata o art. 24 da Lei 11.457/207 para a análise de pedido de ressarcimento ou compensação, o contribuinte tem direito à atualização monetária dos respectivos créditos pela taxa [NOME], a contar do protocolo do pedido administrativo.
+2. A União é isenta do pagamento de custas processuais no âmbito da Justiça Federal, devendo restituir, no entanto, os valores adiantados pela parte adversa a esse título (Lei 9.289/1996, art. 4º, I, e parágrafo único) (fls. 233).
+2. Os Embargos de Declaração opostos (fls. 242/246) foram rejeitados (fls. 256/259).
+3. Nas razões recursais, a parte recorrente aponta violação dos arts. 489, § 1o., 1.022 do Código Fux e 24 da Lei 11.457/2007. Sustenta, em síntese, o não cabimento da correção monetária dos créditos escriturais por ausência de previsão legal. Caso se entenda pelo seu cabimento, pede que o termo inicial se dê apenas após a fluência do prazo de 360 dias.
+4. Sem contrarrazões (fls. 290), o Recurso foi admitido na origem (fls. 293).
+5. O douto Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República [NOME], manifestou-se pelo desprovimento do Recurso Especial (fls. 310/314).
+6. É o que havia de relevante para relatar.
+7. Verifica-se que a matéria versada no Apelo Nobre se encontra afetada à Primeira Seção do STJ como representativa da controvérsia e aguarda julgamento: REsps. 1.768.415/SC, 1.768.060/RS e 1.767.945/RS.
+8. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+9. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+10. Publique-se. Intimações necessárias.
