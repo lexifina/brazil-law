@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de [NOME], contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no writ n. 2137946-53.2018.8.26.0000.
+Depreende-se dos autos que a Defesa do paciente impetrou habeas corpus perante o eg. Tribunal de origem, alegando "que estaria sofrendo constrangimento ilegal imposto pelo Juízo da 1ª Vara Criminal do Foro de Araçatuba, Execução n. 433692, uma vez que seu pleito de progressão de regime, formulado há 1 ano, ainda não teria sido julgado." (fl. 18).
+O eg. Tribunal a quo, todavia, não conheceu do writ, sob o fundamento de que "o pedido de progressão está sendo processado" e que "o habeas corpus não se presta para o apressamento de exame de pleito referente à execução penal." (fls. 19-20).
+Daí o presente writ, no qual a Defesa reitera os argumentos lançados na origem, no sentido de que há demora injustificada na apreciação do pedido de progressão de regime, considerando que "foi informado que não existe data prevista para a realização do exame psiquiátrico" e que "há aproximadamente 15 (quinze) meses o Paciente aguarda pela prestação jurisdicional a quem tem direito." (fl. 05).
+Requer, ao final, a concessão da ordem para que seja cassada a decisão que determinou realização do exame psiquiátrico complementar como requisito para a análise do pedido de progressão de regime.
+O pedido liminar foi indeferido às fls. 54-55.
+Informações prestadas às fls. 61-74 e 77-97.
+O Ministério Público Federal, às fls. 99-101, manifestou-se pela concessão parcial da ordem, para que se recomende agilização no julgamento do pedido de progressão de regime, em parecer com a seguinte ementa:
+"Habeas corpus substitutivo de recurso próprio. Flagrante ilegalidade. Demora no julgamento do Pedido de progressão de regime. Direito do paciente de ver julgado o seu pleito em tempo razoável. Parecer pela concessão parcial da ordem, apenas para determinar ao magistrado que agilize o julgamento do pedido de progressão de regime, em razão do tempo transcorrido desde o seu protocolo."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso ordinário.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A Defesa busca por meio do presente habeas corpus, seja cassada a decisão que determinou realização do exame psiquiátrico complementar como requisito para a análise do pedido de progressão de regime.
+Ocorre que da atenta leitura do v. acórdão, observa-se que a matéria não foi submetida à apreciação do eg. Tribunal de origem, que analisou apenas o excesso de prazo do exame do pedido de progressão de regime (fls. 19-20), o que impede o pronunciamento desta Corte Superior de Justiça sobre o tema, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta eg. Corte de Justiça, in verbis:
+"HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.  ..  CRIME CONTRA A ORDEM TRIBUTÁRIA. DOSIMETRIA DA PENA. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. O eg. Tribunal de origem, ao julgar o recurso de apelação, esteve adstrito a questões relacionadas à autoria e à materialidade do delito, nada tratando acerca da pena imposta.
+2. Assim, a redução da pena-base, objeto desta impetração, não foi debatida pelo Tribunal de origem, o que impede a sua análise diretamente por este Sodalício, sob o risco de se configurar a prestação jurisdicional em indevida supressão de instância.
+Precedentes.
+3. Habeas corpus não conhecido." (HC 429.145/PE, Quinta Turma, Rel. Min. Jorge Mussi, DJe 22/03/2018, grifei)
+"HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. CULPABILIDADE E PERSONALIDADE. FUNDAMENTOS IDÔNEOS. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. COMPENSAÇÃO COM A REINCIDÊNCIA. REGIME PRISIONAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. RÉ REINCIDENTE. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ ..
+6. Ordem parcialmente concedida para reduzir as penas a 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa." (HC 400.229/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 08/03/2018, grifei)
+Ante o exposto, não conheço do presente habeas corpus, com recomendação ao Juízo da 1ª Vara das Execuções Criminais e Anexo do Júri de Araçatuba/SP, que promova, com a urgência que o caso requer, a análise do pedido de progressão de regime de [NOME].
+P. e I.
