@@ -1,0 +1,46 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284 DO STF. FUNDAMENTAÇÃO GENÉRICA. ARTIGOS INDICADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Inviável o apelo especial quanto à alegação de ofensa ao art. 535 do CPC/1973 se as razões expendidas no recurso forem genéricas, constituindo simples remissão aos embargos de declaração opostos na origem, sem particularizar os pontos em que o acórdão teria sido omisso, contraditório ou obscuro. Incidência da Súmula 284/STF.
+2. Os dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por [NOME] e outra contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Os agravantes alegam que não incide a Súmula 284 do STF ao caso, uma vez que fundamentaram suficientemente a violação do art. 535 do CPC/1973 na origem.
+Sustentam que a matéria foi prequestionada.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): As agravantes não trouxeram tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Segundo consignado na decisão de e-STJ, fls. 657-659, o provimento do recurso especial por contrariedade ao art. 535, II, do CPC/1973 pressupõe que sejam demonstrados, fundamentadamente, entre outros, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; (d) não há outro fundamento autônomo, suficiente para manter o acórdão. Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+Com efeito, as insurgentes limitaram-se a indicar a necessidade de abordagem de alguns pontos pela Corte de origem, sem especificá-los, nem justificar, nas razões do apelo, a importância do enfrentamento do tema para a correta solução do litígio.
+A suscitada violação do art. 535 do Código de Processo Civil de 1973 foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." A esse respeito, destaco os precedentes:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO - GDPGPE. EXTENSÃO AOS INATIVOS. POSSIBILIDADE. GRATIFICAÇÃO GENÉRICA. AUSÊNCIA DE AVALIAÇÃO DE DESEMPENHO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE. OFENSA AO ART. 535 DO CPC. SÚMULA 284/STF.
+1. Inviável o apelo especial quanto à alegação de ofensa ao art. 535 do CPC se as razões expendidas no recurso forem genéricas, constituindo simples remissão aos embargos de declaração opostos na origem, sem particularizar os pontos em que o acórdão teria sido omisso, contraditório ou obscuro. Incidência da Súmula 284/STF.
+2. O recurso esbarra no obstáculo da Súmula 283/STF, uma vez que a recorrente não impugnou o fundamentos adotados pelo Tribunal de origem ao considerar o caráter genérico da vantagem pleiteada por não ter sido realizada avaliação de desempenho dos servidores da ativa.
+3. Ainda que superado o referido óbice, o julgado reconheceu o direito dos autores baseado na necessidade de tratamento paritário entre ativos e inativos, garantido pela Constituição Federal, matéria insuscetível de ser examinada em recurso especial.
+4. Ademais, esta Turma já se manifestou no sentido de que a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE) vem sendo paga de forma genérica aos servidores da ativa, devendo ser estendida aos aposentados e pensionistas no mesmo percentual.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 304.959/PE, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/9/2013, DJe 27/9/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FORNECIMENTO DE ENERGIA ELÉTRICA. INTERRUPÇÃO. DANOS MORAIS. OCORRÊNCIA. CONCLUSÃO OBTIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não se conhece da violação ao art. 535 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incide, no caso, a Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+2. O Tribunal de origem, ao concluir pela responsabilidade da concessionária ao pagamento dos danos morais sofridos pelo autor, entendeu que o dano decorreu da demora no restabelecimento da energia. Assim, para alterar tal conclusão, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado nesta seara recursal, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.370.724/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/9/2013, DJe 2/10/2013)
+De outro lado, verifiquei que os dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. USINA HIDRELÉTRICA. LICENCIAMENTO AMBIENTAL. INEXISTÊNCIA DE PERDA DE OBJETO. INTERESSE DE AGIR CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONTROVÉRSIA CONSTITUCIONAL. INEXISTÊNCIA DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA 126/STJ. REVISÃO PROBATÓRIA. IMPOSSIBILIDADE DA MEDIDA NA VIA ESPECIAL. SÚMULA 7/STJ. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. Ação civil pública que visa à decretação de nulidade do processo de licenciamento ambiental das obras da Pequena Central Hidrelétrica - PCH Paranatinga II.
+2. A preliminar de perda de objeto ante o fato de já estar em funcionamento a usina não se sustenta perante a existência de pedido indenizatório na exordial.
+3. Não cabe a alegação de que art. 10, § 4º, da Lei n. 6.938/1981 foi revogado com a edição da Lei Complementar n. 140/2011, porquanto já é assente nesta Corte que não ocorre a retroação da citada legislação para afastar eventuais irregularidades ambientais realizadas na vigência do diploma anterior.
+4. "Incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo quando o recurso foi interposto pela alínea "c" do permissivo constitucional" (AgREsp 1.090.549/SP, Rel. Min. Humberto Martins, DJe 23/10/2009).
+5. O art. 1º da Lei n. 9.433/1997 não foi devidamente analisado pela Corte de origem, faltando-lhe o necessário prequestionamento, nos termos das Súmulas 211 do STJ, 282 e 356 do STF.
+6. De igual modo, não se discutiu a ilegalidade da resolução do art. 257 do CONAMA em face do art. 10, § 4º, da Lei n. 6.938/1981, nos termos apresentados pelo ilustre membro do Parquet que foca especificamente na exigência presente na resolução de que o impacto ambiental fosse direto.
+7. O confronto entre os referidos diplomas foi tratado no acórdão de modo genérico e com base em argumentos de talante constitucional não combatidos por recurso extraordinário. Incidência do óbice descrito na Súmula 126/STJ.
+8. Não cabe revisar fundamento do acórdão segundo o qual o dano ambiental alegado seria de pequena monta e indireto. Incidência da Súmula 7/STJ.
+9. O debate sobre se atividade hidrelétrica atrairia a competência do IBAMA foi trazido com base em excerto doutrinário que versa sobre aplicação de sanções.
+10. O acórdão é claro em cuidar da competência para o licenciamento, questão que não foi objetivamente debatida neste tópico do recurso especial, atraindo a aplicação das Súmulas 283 e 284 do STF.
+11. Recurso especial não conhecido.
+(REsp 1.669.681/MT, de minha relatoria, SEGUNDA TURMA, DJe 25/4/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
