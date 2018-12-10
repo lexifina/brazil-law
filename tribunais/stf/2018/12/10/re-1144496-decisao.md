@@ -1,0 +1,26 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em sede de embargos de declaração pela 2ª Turma Recursal da Fazenda Pública dos Juizados Especiais do Rio Grande do Sul, teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido nesta sede recursal, tornar-se- -ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Observo, ainda, que a questão ora em exame foi decidida com base no direito local (Constituição do Estado do Rio Grande do Sul e Leis estaduais nºs 6.526/73 e 10.098/94), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de direito local:
+    “No âmbito do Estado do Rio Grande do Sul, a Constituição Estadual prevê, como direito do servidor público civil, em seu artigo 29, inciso V, o percebimento do salário-família ou abono familiar para seus dependentes.
+    ….....…..........................................................................................
+    Já o Estatuto dos Servidores Públicos Estaduais, Lei nº 10.098/1994, disciplinou a concessão do benefício, sem distinção entre servidores efetivos e contratados, nos seguintes termos:
+    ….....…..........................................................................................
+    A Lei nº 6.526/1973, que dispõe sobre a concessão do abono familiar aos servidores públicos, por sua vez, fixou os requisitos específicos à concessão do benefício, vinculando-o ao vencimento do servidor público, com fixação de uma faixa salarial, bem como o vinculando ao regime próprio de previdência, nos seguintes termos:
+    ….....…..........................................................................................
+    Com efeito, considerando todo o panorama legislativo que circunda a matéria, e aventado por ambas as partes no decorrer do processo, conclui-se que o Abono Familiar em questão, objeto do pedido inicial, previsto na Lei Complementar Estadual nº 10.098/1994, não tem natureza jurídica de benefício previdenciário, não podendo se confundir com o salário-família previsto pela Emenda Constitucional nº 20/1998, aos servidores vinculados ao Regime Geral de Previdência.
+    …..................................................................................................
+    Consoante visto alhures, a Lei Complementar Estadual nº 10.098/1994, ao prever o direito dos servidores públicos estaduais ao percebimento do Abono Familiar, em momento algum fez distinção entre servidores efetivos e contratados.
+    No caso da parte autora, que é servidora temporária (contratada), apenas deve ser observado, em razão de sua vinculação ao Regime Geral de Previdência, se já há o percebimento do salário- -família previsto na Constituição, consoante a regra do artigo 2º, inciso 2º, da Lei que disciplinou, no âmbito estadual, a concessão do benefício (Lei nº 6.526/1973).
+    Sendo assim, e considerando que a demandante possui vínculo estatutário com o Estado do Rio Grande do Sul, de quem receberá, se procedente o pedido, o perseguido Abono Familiar, não há falar em legitimidade do INSS para figurar no polo passivo, nem mesmo de incompetência da justiça estadual para julgamento da matéria.”
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (RE 1.147.777/RS, Rel. Min. MARCO AURÉLIO – RE 1.167.386/RS, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    Cumpre ressaltar, finalmente, que não se demonstrou, considerada  a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
