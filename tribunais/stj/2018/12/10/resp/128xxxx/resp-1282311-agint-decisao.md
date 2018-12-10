@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Trata-se de novo pedido de reconsideração formulado por [NOME] e outros contra decisão de fls. 407-408, e-STJ, na qual foi determinado o sobrestamento do recurso especial em razão da existência de questão jurídica debatida nos autos, que teve a sua repercussão geral reconhecida pelo Supremo Tribunal Federal, nos autos do RE 870.947/SE, tema 810, com determinação aos demais Tribunais para que suspendam o julgamento dos processos contendo controvérsias análogas, até a análise final dos recursos interpostos naquele feito.
+Reiteram os insurgentes que o recurso especial interposto não possui qualquer discussão pendente de julgamento e que a matéria relativa à aplicabilidade do art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, tema afetado no STF, não foi objeto de questionamento pela Universidade Federal do Paraná - UFPR, a qual se restringiu a discutir, no seu recurso especial, a tese de limitação temporal do reajuste de 3,17%.
+É o breve relatório. Decido.
+De uma análise detida dos autos, observa-se que razão assiste aos requerentes quando alegam a inexistência de insurgência, específica e elaborada, da parte requerida, UFPR, em relação ao tema do art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, questão jurídica afetada na Suprema Corte.
+A despeito de haver, na petição de recurso especial de fls. 207-216, e-STJ, breve indicação de ofensa ao referido dispositivo legal, tal alegação se mostra genérica, devido à ausência de exposição clara no recurso de como a Corte de origem teria violado a norma federal, e evidencia a falta de interesse quanto ao enfrentamento do tema.
+Ante o exposto, defiro o pedido de reconsideração, a fim de tornar sem efeito a decisão de fls. 407-408, e-STJ, e determinar o retorno dos autos para nova análise das questões jurídicas suscitadas nos recursos especiais.
+Publique-se. Intimem-se.
