@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, impugnando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. INSUFICIÊNCIA DAS CUSTAS DE PREPARO NÃO EVIDENCIADA. VALOR QUE DEVE TER POR BASE DE CÁLCULO O MONTANTE DO PROVEITO ECONÔMICO ALMEJADO NA INSURGÊNCIA. NO CASO DE IMPROCEDÊNCIA DO PEDIDO, OS HONORÁRIOS ADVOCATÍCIOS DEVEM SER FIXADOS EQUITATIVAMENTE PELO MAGISTRADO, NOS DITAMES DO §4º DO ART. 20 DO CPC/73, ATENDENDO-SE AOS DELINEAMENTOS DAS ALÍNEAS DO §3º DO MESMO DISPOSITIVO LEGAL. VERBA HONORÁRIA BEM ARBITRADA. RECURSO NÃO PROVIDO" (e-STJ fl. 478).
+Nas razões do especial, sustenta o recorrente que o acórdão recorrido violou o artigo 20, § 4º do Código de Processo Civil, pois a fixação dos honorários advocatícios em R$ 5.000,00 (cinco mil reais) é irrisória.
+É o relatório.
+DECIDO.
+Presentes os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece êxito.
+Em sua fundamentação, o Tribunal de origem, diante de todo o acervo fático da causa, concluiu que:
+"(..) Primeiramente, imperioso registrar que o arbitramento da verba em 10% do valor da causa (R$ 47.147,40) é excessivo.
+A quantia de R$ 5.000,00, a que tem direito o patrono da ré, atende aos ditames do referido dispositivo legal, o que não implica aviltamento dos honorários profissionais, uma vez que, conforme consignado pelo juízo sentenciante, os atos praticados e a causa propriamente dita não demandaram complexidade, bem como o tempo de tramitação do feito foi de apenas um ano" (e-STJ fl. 480).
+Nos termos da jurisprudência dominante desta Corte, a fixação dos honorários advocatícios com base no § 4º do art. 20 do Código de Processo Civil dar-se-á pela "apreciação eqüitativa" do órgão julgador, em que se evidencia um conceito não somente jurídico, mas também subjetivo, porque representa um juízo de valor efetuado pelo magistrado dentro de um caso específico.
+Diante desse contexto, ressalvadas as hipóteses excepcionais de valor irrisório ou excessivo, a reavaliação do critério de apreciação equitativa adotado pelo Tribunal de origem para decidir sobre a fixação da verba honorária não se coaduna com a natureza dos recursos especial e extraordinário, consoante enunciam as Súmulas nºs 7/STJ e 389/STF.
+A esse respeito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESCISÃO CONTRATUAL. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. VALOR RAZOÁVEL. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas causas em que não há condenação, os honorários advocatícios devem ser fixados consoante apreciação equitativa do juiz, o que pressupõe a análise do grau de zelo do profissional, do lugar da prestação de serviço, da natureza e importância da causa, do trabalho realizado pelo advogado e do tempo despendido, nos termos do art. 20, § 4º, do CPC/73.
+2. A modificação dos valores fixados a título de verba honorária somente é possível se forem irrisórios ou exorbitantes, circunstância que não ocorre na presente hipótese, considerando as peculiaridades fáticas da demanda. Incidência da Súmula 7 do STJ.
+Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.551.232/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 01/10/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Tendo sido os honorários advocatícios fixados com base na apreciação equitativa da prestação do serviço pelo advogado, sua revisão impõe incontornável reexame dos aspectos fáticos da lide.
+Incidência do enunciado 7 da Súmula do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.254.843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS. ARTIGO 20, § 4º, DO CPC. REVISÃO DE VALOR QUE NÃO SE MOSTRA IRRISÓRIO. SÚMULA N. 7 DO STJ. INCIDÊNCIA.
+1. Agravo regimental contra decisão que negou seguimento ao recurso especial interposto pela União Federal contra acórdão proferido pelo TRF da 1ª Região, que, com base no art. 20, §§ 3º e 4º, fixou a verba honorária em R$ 500,00.
+2. O STJ possui jurisprudência uníssona pela impossibilidade de revisar o quantum estabelecido em verba honorária, uma vez a análise dos parâmetros estabelecidos nos arts. 20, §§ 3º e 4º, do CPC depende do reexame de matéria fático-probatória, o que é vedado, de acordo com o enunciado n. 7 da Súmula do STJ. Excepcionalmente admite-se a aludida revisão quando o valor for irrisório ou exorbitante, o que não é o caso dos autos.
+3. Agravo regimental não provido" (AgRg no REsp 1.217.282/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 8/10/2013, DJe 14/10/2013 - grifou-se).
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXTINÇÃO (ART. 267, VI, DO CPC). HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONDENAÇÃO. APLICAÇÃO DO DISPOSTO NO PARÁGRAFO 4º DO ART. 20 DO CPC. APRECIAÇÃO EQUITATIVA. REVISÃO. SÚMULA 7/STJ.
+1. O parágrafo 4º do art. 20 do Código de Processo Civil preconiza que "nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior".
+2. A fixação do valor dos honorários advocatícios com base no art. 20, § 4º, do Código de Processo Civil, exige o sopesamento harmonioso de vários critérios, tais como o nível de complexidade da causa, o tempo gasto pelo causídico na demanda, a necessidade de deslocamento e o grau de zelo do profissional.
+3. A verba honorária fixada de acordo com a apreciação equitativa do juiz não será suscetível de reexame em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. Agravo regimental não provido" (AgRg no AREsp 155.733/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/8/2013, DJe 21/8/2013 - grifou-se).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PIS. COMPENSAÇÃO. DISSÍDIO NÃO-CONFIGURADO. HONORÁRIOS ADVOCATÍCIOS FIXADOS CONSOANTE APRECIAÇÃO EQÜITATIVA DO JUIZ. IMPOSSIBILIDADE DE REAPRECIAÇÃO. VALOR IRRISÓRIO. SÚMULA 07/STJ. VIOLAÇÃO AO ARTIGO 535 DO CPC. SÚMULA Nº 284/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I - Divergência jurisprudencial não demonstrada nos moldes exigidos pelo artigo 255 e parágrafos do RI/STJ, visto que deixou a agravante de realizar o indispensável cotejo analítico, limitando-se apenas a transcrever as ementas dos julgados paradigma.
+II - Não há como apreciar a questão relativa aos honorários advocatícios fixados em R$ 5.000,00 sem esbarrar no óbice insculpido na Súmula nº 7 deste Tribunal, uma vez que, não se cogitando de valor irrisório ou exorbitante, sua análise torna-se inadmissível na via estreita do recurso especial, pois tal fixação depende do exame de circunstâncias fáticas, ficando, outrossim, a discussão reservada às instâncias ordinárias.
+III - Quanto à alegada ofensa aos artigos 535, II, do CPC, observa-se que a fundamentação deduzida pela agravante em suas razões de recurso especial, encontra-se deficiente, haja vista que ela se limitou a afirmar, em linhas gerais, que o acórdão tê-lo-ia afrontado, sem, contudo, explicitar as questões que restaram omissas e a importância de sua apreciação para o correto deslinde da controvérsia. Incidência do óbice sumular nº 284/STF.
+II - Agravo regimental improvido" (EDcl no REsp 1277856/SC, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 5/6/2012, DJe 9/8/2012 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação do recorrente ao pagamento de honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
