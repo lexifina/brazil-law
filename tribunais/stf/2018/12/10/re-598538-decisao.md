@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. No extraordinário, o Estado de São Paulo alega violados os artigos 169, § 1º, inciso I, e 173, § 1º, inciso II, da Constituição Federal. Sustenta a impossibilidade do ajuizamento de dissídio ante à natureza jurídica da sociedade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Desse modo, se a distinção entre a sociedade exploradora de atividade econômica e a sociedade prestadora de serviço público reside na menor ou maior injunção de preceitos administrativos, o certo é que os seus servidores são regidos pela Consolidação das Leis do Trabalho.
+    Como escreve Diógenes Gasparini: "Os servidores, na verdade empregados, da sociedade de economia mista a ela se vinculam, por força do prescrito no artigo 173, § 1º, I da Constituição Federal, por um liame regido pela Consolidação das Leis do Trabalho. Ingressam nos quadros da entidade mediante concurso público de provas ou de provas e títulos. Para esse fim é irrelevante discutir se são prestadoras de serviço público ou interventoras na atividade econômica." (Direito Administrativo, p. 370).
+    Por isso mesmo o autor conclui ser da competência do Judiciário do Trabalho o julgamento dos litígios entre as sociedades de economia mista de qualquer nível e seus empregados, acentuando ser irrelevante saber se a sociedade de economia mista é prestadora de serviço público ou interventora no domínio econômico. Por conta disso não se vislumbra a alegada impossibilidade jurídica no ajuizamento de dissídio coletivo contra sociedade prestadora de serviço público, posto que a sujeição à competência da Justiça do Trabalho abrange tanto os dissídios individuais quanto os dissídios coletivos.
+    […]
+    Registre-se, inicialmente, que o Exmo. Sr. Ministro João Batista Brito Pereira, no exercício eventual da Presidência deste Tribunal, deferiu, em parte, pretensão liminar no efeito suspensivo (Processo nº TST-ES-94.057/2003-000-00-00.2) ajuizado pela CETESB - Companhia de Tecnologia Ambiental do Estado de São Paulo, a fim de limitar a 12% (doze por cento) o reajuste dos salários e dos benefícios concedidos à categoria profissional.
+    Mencione-se, ainda, que, no art. 13 da Lei nº 10.192/2001, veda-se a "estipulação ou fixação de cláusula de reajuste ou correção salarial automática vinculada a índice de preços". Nos termos do art. 10 do mencionado diploma legal, o reajuste salarial deve ser estabelecido mediante livre negociação.
+    A Justiça do Trabalho não pode, todavia, abdicar o poder normativo que lhe é atribuído na Constituição Federal. Na hipótese de as partes não chegarem a consenso sobre o índice de reajuste salarial, é necessário que se fixe o percentual a ser utilizado para a recomposição das perdas salariais ocorridas no período considerado.
+    Nessa perspectiva, é necessária a concessão de reajuste salarial de 12% (doze por cento) aos empregados integrantes da categoria profissional, a fim de que sejam minimizadas as consequências da perda do poder aquisitivo decorrente do processo inflacionário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 10 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
