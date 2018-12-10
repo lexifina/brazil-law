@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a recorrida foi condenada pela prática dos delitos tipificados no art. 171, § 3º c/c art. 14, II (estelionato tentado) e art. 333, caput (corrupção ativa) c/c art. 69, todos do Código Penal, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 28 (vinte e oito) dias-multa.
+Irresignada a parte e interposto recurso, restou este parcialmente provido para reduzir a pena pelo delito do art. 171, § 3º c/c art. 14, II, do CP, diante da compensação integral da atenuante da confissão espontânea com a dupla reincidência.
+O acórdão restou assim ementado:
+PROCESSO PENAL. ART. 171, § 3º, C. C. O ART. 14, AMBOS DO CÓDIGO PENAL. ART. 333 DO CÓDIGO PENAL. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA.
+1. A materialidade dos delitos está demonstrada.
+2. Em suas declarações perante o Juízo a ré confessou que utilizou documento falso, que foi apresentado em correspondente bancário da CEF, onde pretendia obter empréstimo no valor de R$ 30.000,00 (trinta mil reais), alegando que aceitara proposta de terceiro, e que desse valor receberia um percentual. Admite, portanto, a tentativa da prática do delito de estelionato (art. 171, § 3º, do Código Penal).
+3. Em relação ao delito de corrupção ativa as declarações prestadas pela acusada são contraditórias e a versão dada por ela não encontra respaldo nos demais elementos dos autos, os quais são todos no sentido da autoria delitiva da ré.
+4. Note-se que os depoimentos das testemunhas, em sede judicial, são harmoniosos entre si e comprovam a autoria do crime.
+5. "É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência." (STJ, REsp n. 1.341.370, Rel. Min. Sebastião Reis Júnior, j. 10.04.13, para os fins do art. 543-C do CPC). Assim, revejo o entendimento anterior quanto à preponderância da agravante da reincidência sobre a atenuante da confissão.
+6. Considerado o total de pena fixado para a acusada, estabeleço o regime inicial de cumprimento de pena semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+7. Apelação provida parcialmente.
+Opostos embargos de declaração, restaram estes parcialmente providos para fixar o regime inicial fechado de cumprimento de pena.
+Na petição de recurso especial, o Ministério Público Federal aponta violação ao disposto nos arts. 61, I e 67, ambos do Código Penal. Sustenta, em síntese, a impossibilidade de compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência, por se tratar de dupla reincidência.
+Contrarrazões às fls. 486/494.
+Admitido o recurso (fls. 496/499), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 512/515).
+É o relatório. Decido.
+O recurso merece provimento.
+O Tribunal de origem concluiu pela possibilidade de compensação integral da atenuante da confissão espontânea e a agravante da reincidência, mediante fundamentação que ora se destaca (fl. 429):
+A acusada confessou espontaneamente a autoria do crime.
+Verifica-se que a ré é reincidente, já tendo sido condenada definitivamente 2 (duas) vezes pela prática do crime do art. 171, caput, c. c. o art. 29, ambos do Código Penal, no Processo Digital n. 0024898-95.2016.8.26.0041, referente ao Processo Criminal n. 0017802-89.2009.8.26 da 1ª Vara Criminal do Foro de Barueri (fl. 287) e no Processo n. 0010300-03.1999.8.26.0278 (fl. 289).
+"É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência." (STJ, REsp n. 1.341.370, Rel. Min. Sebastião Reis Júnior, j. 10.04.13, para os fins do art. 543-C do CPC). Assim, revejo o entendimento anterior quanto à preponderância da agravante da reincidência sobre a atenuante da confissão.
+Portanto, compensa-se a circunstância agravante da reincidência com a atenuante da confissão, de modo que a pena nessa fase permanece em 1 (um) ano e 8 (oito) meses de reclusão e 12 (doze) dias-multa.
+O entendimento do Tribunal Regional destoa da jurisprudência desta Corte Superior no sentido de que a dupla reincidência do agente justifica a compensação proporcional com a atenuante da confissão espontânea, diante da sua preponderância.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBOS MAJORADOS EM CONCURSO FORMAL. ADITAMENTO DA DENÚNCIA APÓS ALEGAÇÕES FINAIS. OPORTUNIDADE DE MANIFESTAÇÃO DA DEFESA. CONTRADITÓRIO PRESERVADO. NULIDADE INEXISTENTE. DOSIMETRIA. INOVAÇÃO DE CIRCUNSTÂNCIA JUDICIAL PELO TRIBUNAL. IMPOSSIBILIDADE. DUPLA REINCIDÊNCIA ESPECÍFICA. PREPONDERÂNCIA SOBRE A CONFISSÃO ESPONTÂNEA. ALEGADA VIOLAÇÃO DA SÚMULA 443 DO STJ. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. CONCEDIDA ORDEM DE OFÍCIO PARA REDUZIR A PENA APLICADA AO PACIENTE.
+(..)
+5. Preceitua o art. 67 do Código Penal que no concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência.
+6. Na espécie, embora este Superior Tribunal de Justiça venha reconhecendo a possibilidade de compensação entre a reincidência e a confissão, inexiste ilegalidade no acórdão impugnado que considerou preponderante a dupla reincidência específica do paciente sobre a confissão espontânea. No entanto, desproporcional o aumento de 1/2 (metade), devendo ser adotada, nessa 2ª fase da dosimetria, a fração de aumento de 1/6 (um sexto).
+(..)
+8. Habeas Corpus não conhecido. Concedida a ordem de ofício para reduzir a pena aplicada ao paciente, fixando, ao final, em 9 (nove) anos, 3 (três) meses e 16 (dezesseis) dias de reclusão, além do pagamento de 20 dias-multa, mantendo-se o regime inicial fechado (Ação Penal nº 0008370-76.2014.8.26.0066, 1ª Vara Criminal de Barretos).(HC 360.168/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/04/2018, DJe 30/04/2018 - Grifo Nosso).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES. PLEITO DE COMPENSAÇÃO INTEGRAL ENTRE A CONFISSÃO E A REINCIDÊNCIA. ACÓRDÃO RECORRIDO QUE MANTEVE A COMPENSAÇÃO PARCIAL, ANTE A DUPLA REINCIDÊNCIA DO ACUSADO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE COAÇÃO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+- No julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+- Contudo, no caso em tela, ressai da análise da folha de antecedentes que o paciente é duplo reincidente, circunstância que justifica a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea, não sendo hipótese de integral compensação entre elas. Em decorrência, é proporcional e razoável o agravamento da pena em apenas 1/6 na segunda fase da dosimetria da pena, tal como feito na sentença e mantido pelo acórdão recorrido. Precedentes.
+- Habeas corpus não conhecido. (HC 385.531/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/04/2017, DJe 07/04/2017 - Grifo Nosso).
+CONSTITUCIONAL E PENAL. ROUBO MAJORADO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA EXTRAJUDICIAL. INCIDÊNCIA DA ATENUANTE. SÚMULA/STJ 545. COMPENSAÇÃO PARCIAL COM A AGRAVANTE DA REINCIDÊNCIA. RÉU QUE OSTENTAVA DUAS CONDENAÇÕES TRANSITADAS EM JULGADO À ÉPOCA DA PRÁTICA DELITIVA. AUMENTO DA PENA EM 1/4 PELA REINCIDÊNCIA ESPECÍFICA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+(..)
+4. O concurso entre circunstância agravante e atenuante de idêntico valor redunda em afastamento de ambas, ou seja, a pena não deverá ser aumentada ou diminuída na segunda fase da dosimetria. Todavia, tratando-se de réu multirreincidente deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+5. Considerando a dupla reincidência do réu, mister se faz reconhecer a viabilidade da compensação de um dos títulos condenatórios com a atenuante da confissão espontânea, remanescendo uma condenação a ser valorada na segunda fase da dosimetria. Porém, não se infere ilegalidade na pena estabelecida, pois o aumento de 1/4 revela-se proporcional em razão da reincidência especifica do ora paciente.
+(..)
+7. Writ não conhecido. (HC 330.854/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/04/2017, DJe 27/04/2017 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para afastar a compensação integral da atenuante da confissão espontânea e a dupla reincidência da recorrida, restabelecendo a compensação proporcional fixada na sentença condenatória.
+Publique-se. Intimem-se.
