@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RICARDO MARCELINO FLORENCIO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente teve a prisão preventiva decretada pela suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006.
+Neste writ, o impetrante alega, em síntese: a) a existência de constrangimento ilegal ante a falta de fundamentação idônea para decretar a prisão preventiva; b) que não existem motivos que justifiquem a manutenção da segregação cautelar; c) "é vedado as Cortes Superiores robustecer a decisão de primeiro grau quando não há recurso por parte da acusação, visto que nesse caso haveria modificação in malam partem, o que é vedado em nosso ordenamento jurídico" (e-STJ, fl. 27).
+Pleiteia a revogação da prisão preventiva imposta ao paciente ou a substituição dela por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a prisão preventiva do paciente foi decretada pelos seguintes fundamentas:
+"Vale ressaltar que a população local vem sendo assolada por uma série de delitos, alguns de extrema gravida e considerandos hediondos ou equiparados, que vem causando uma sensação de insegurança generalizada.
+A Polícia vem trabalhando arduamente na tentativa de desvendar tais delitos.
+Após investigações e buscas, o(s) acusado(s) foi(ram) identificado(s) e foram produzidas prova suficientes quanto à existência do delito e indícios suficientes da autoria.
+É fundamental, para a garantia da ordem pública que o(s) réu(s) seja(m) encarcerado(s), o que gera um efeito positivo perante a sociedade, bem como para assegurar a aplicação da lei penal.
+Tal fato apresenta-se, também, como fundamental para a conveniência da instrução criminal, eis que o(s) réu(s), em liberdade, e cientes da gravidade de sua(s) conduta(s), pode(m) esquivar-se da Justiça." (e-STJ, fl. 81)
+Como se vê, o Juízo de primeiro grau decretou a prisão preventiva do paciente com base em fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas e em elementos inerentes ao próprio tipo penal, deixando de observar o disposto no art. 312 do CPP. Entendo que não foram apontados quaisquer dados concretos a justificar a segregação provisória do paciente.
+A propósito:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - No caso dos autos, o decreto que impôs a prisão preventiva ao paciente não apresenta devida fundamentação, uma vez que a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública (precedentes).
+Habeas corpus não conhecido.
+Ordem concedida de ofício para, confirmando a liminar deferida, revogar a prisão preventiva do paciente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de outras medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal."
+(HC 448.738/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/06/2018, DJe 08/06/2018)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PREVENTIVO. CONFIGURAÇÃO. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS DO ART. 319 DO ESTATUTO PROCESSUAL PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. NECESSIDADE, ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL EM PARTE DEMONSTRADA. RECLAMO PARCIALMENTE PROVIDO.
+1. As prisões cautelares materializam-se como exceção às regras constitucionais e, como tal, sua incidência em cada caso concreto deve vir fulcrada em elementos que demonstrem a sua efetiva necessidade no contexto fático-probatório apreciado, sendo inadmissível sem a existência de razão sólida e individualizada a motivá-la, especialmente com a edição e entrada em vigor da Lei n. 12.403/11, em que a prisão deve ser empregada como última medida para garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal.
+2. Na hipótese, as instâncias ordinárias eximiram-se de demonstrar a presença dos requisitos autorizadores da preventiva, insculpidos no art. 312 do Código de Processo Penal, configurando indevido constrangimento ilegal.
+3. Condições pessoais favoráveis, mesmo não sendo garantidoras de eventual direito à soltura, merecem ser devidamente valoradas, quando demonstrada possibilidade de substituição da prisão por cautelares diversas, proporcionais, adequadas e suficientes ao fim a que se propõem.
+4. Recurso ordinário parcialmente provido, para revogar a segregação processual do recorrente, mediante a imposição das providências cautelares alternativas à prisão, previstas no art. 319, incisos I, IV e V, do Código de Processo Penal."
+(RHC 94.718/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/05/2018, DJe 30/05/2018)
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para revogar a prisão preventiva imposta ao paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+Ressalvo a possibilidade de nova decretação da prisão, caso demonstrada, de forma fundamentada, sua necessidade.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo da Minas Gerais e o Juízo da 1ª Vara Criminal da Comarca de Itapetininga.
+Publique-se. Intimem-se.
