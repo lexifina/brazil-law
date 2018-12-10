@@ -1,0 +1,22 @@
+DECISÃO
+
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ADAMASTOR BEZERRA DE SOUZA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo, que negou provimento a agravo em execução penal nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO PENAL - CONSIDERAÇÃO DE BENEFÍCIOS APLICADOS NO FUTURO - IMPOSSIBILIDADE - DUPLICIDADE - PRECEDENTES DO STJ - RECURSO CONHECIDO E DESPROVIDO;
+O período de pena cumprido para fins de indulto em uma determinada condenação não pode ser aproveitado para benefícios futuros, sob pena de o aludido período ser considerado em duplicidade. Precedentes do colendo STJ.
+Recurso a que se nega provimento."
+Neste writ, a impetrante alega que, uma vez considerado o período indultado, o período de pena cumprido pelo paciente, à época do indulto, deve ser utilizado na análise de novos benefícios relativos a penas ainda não somadas ao tempo do indulto.
+Alega que, se for possível considerar o período excedente ao cumprimento do indulto para a análise de novos benefícios, seria ilegítimo fixar a data do último decreto como marco inicial para a contagem de novos benefícios, pois isso desconsideraria o efetivo cumprimento de 8 anos, 2 meses e 14 dias que excederam ao período inicialmente fixado para ser cumprido (6 anos, 2 meses e 10 dias).
+Requer, liminarmente e no mérito, que seja considerado o período de pena excedente cumprido para o cômputo de futuros benefícios, relativos ao restante das penas às quais o paciente fora condenado.
+A liminar foi indeferida (e-STJ, fl. 23).
+O Juízo de origem e a autoridade apontada como coatora prestaram informações. Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pelo não conhecimento do writ (e-STJ, fls. 40-42).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Desse modo, passo ao exame das alegações trazidas pela defesa a fim de verificar eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Verifica-se dos autos que o paciente requer o aproveitamento do período de pena já utilizado no cômputo do indulto para a análise de futuros benefícios relativos a penas ainda não somadas quando da concessão da benesse.
+No entanto, conforme depreende-se da correta decisão no Tribunal a quo, o período de pena cumprido na concessão do indulto motiva a extinção da punibilidade pelos crimes aos quais a benesse fora relacionada, devendo o período ser excluído da análise de penas que até então não foram unificadas, sendo impossível o reaproveitamento.
+Assim, não é devido o aproveitamento de pena cumprida anteriormente para a execução de penas relacionadas a crimes posteriores.
+Sobre o tema, observe-se o seguinte precedente:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/15. REQUISITO OBJETIVO NÃO PREENCHIDO. FRAÇÃO DE PENA COMUTADA ANTERIORMENTE. IMPOSSIBILIDADE DE APROVEITAMENTO PARA CÁLCULO DO BENEFÍCIO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. 1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal. 2. O Decreto n. 8.615/15 prevê, para a concessão do indulto, que o requisito objetivo a ser preenchido pelo apenado deve observar as penas remanescentes e a fração de pena efetivamente cumprida. A jurisprudência do Superior Tribunal de Justiça se orienta no sentido de que as frações comutadas da reprimenda do paciente não podem ser levadas em conta no cálculo, porquanto não constituem pena cumprida, mas sanção perdoada. Assim, a pena a ser considerada para fins de concessão do indulto é aquela originalmente imposta no édito condenatório para aferir o preenchimento, ou não, do requisito temporal objetivo. Habeas corpus não conhecido." (HC 383675/SP, rel. JOEL ILAN PACIORNIK, QUINTA TURMA. j. 16/3/2017, DJe 27/3/2017).
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, XX, do RISTJ.
+Publique-se. Intimem-se.
