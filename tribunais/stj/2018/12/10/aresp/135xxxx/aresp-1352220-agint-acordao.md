@@ -1,0 +1,41 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO AMBIENTAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO EM MATÉRIA FÁTICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA.
+1. O Tribunal de origem, ancorado no arcabouço probatório dos autos, concluiu que o auto de infração lavrado pelo IBAMA se baseou em laudo técnico não conclusivo.
+2. No caso concreto, a alteração deste entendimento, tal como colocada a questão nas razões recursais, a fim de acolher a tese de que o laudo que lastreou a lavratura do auto de infração comprova a prática de conduta danosa ao meio ambiente, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Aplica-se a Súmula 7/STJ quanto ao redimensionamento da verba advocatícia arbitrada pelo Tribunal de origem, dada a necessidade de revolvimento da matéria fática. Ademais, o quantum estabelecido não se mostra irrisório.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), desafiando decisão que negou provimento ao agravo em recurso especial, sob o fundamento de que se aplica a Súmula 7/STJ, tendo em vista que a aferição da existência de laudo apto a comprovar o cometimento de conduta danosa ao meio ambiente, bem como o redimensionamento da verba sucumbencial implica reexame de matéria fático-probatória.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) não se aplica a Súmula 7/STJ tendo em vista que não se pretendeu reexame de fatos e de provas, ressaltando que ficou inequívoco no acórdão recorrido a existência de "estudos técnicos no presente caso e que, a despeito de não terem sido completamente executados pelo órgão ambiental, são passíveis de suprir a exigência da legislação de regência" (fl. 1.262); e (II) a fixação da verba advocatícia não requer, no caso, o reexame de matéria probatória, ressaltando que o cálculo da multa administrativa aplicada em desfavor da parte adversa não deve interferir na fixação da verba sucumbencial.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou impugnação (fls. 1271/1279), na qual requer o desprovimento do agravo interno.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO AMBIENTAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO EM MATÉRIA FÁTICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA.
+1. O Tribunal de origem, ancorado no arcabouço probatório dos autos, concluiu que o auto de infração lavrado pelo IBAMA se baseou em laudo técnico não conclusivo.
+2. No caso concreto, a alteração deste entendimento, tal como colocada a questão nas razões recursais, a fim de acolher a tese de que o laudo que lastreou a lavratura do auto de infração comprova a prática de conduta danosa ao meio ambiente, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Aplica-se a Súmula 7/STJ quanto ao redimensionamento da verba advocatícia arbitrada pelo Tribunal de origem, dada a necessidade de revolvimento da matéria fática. Ademais, o quantum estabelecido não se mostra irrisório.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não merece prosperar.
+No caso dos autos, a parte ora agravada ajuizou anulatória de auto de infração lavrado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) em razão de suposta prática de conduta danosa ao meio ambiente, consistente no lançamento de efluentes na Lagoa da Conceição, sem observância de parâmetros estabelecidos na Resolução CONAMA n. 430/2011 e em lei estadual.
+A sentença de piso julgou procedente o pedido, ao entendimento de que o auto de infração continha vícios. O IBAMA foi condenado ao pagamento de honorários advocatícios, fixados em R$ 15.000,00 (quinze mil reais), os quais foram majorados para R$ 50.000,00 (cinquenta mil reais), no julgamento da apelação.
+Nas razões do recurso especial, a autarquia ora agravante sustentou que o auto de infração foi embasado em laudo técnico, o qual goza de presunção de legitimidade. Pleiteou, ainda, a redução dos honorários advocatícios.
+A decisão agravada, contudo, negou provimento ao agravo em recurso especial, tendo em vista que a pretensão recursal encontra óbice da Súmula 7/STJ, em virtude da necessidade de reexame de fatos e de provas.
+A aplicação do referido óbice processual decorre da circunstância de que a Corte regional, ao afastar a tese relativa à regularidade do auto de infração, considerou as provas carreadas aos autos, nestes termos (fl. 1096):
+ Consoante a legislação de regência, é exigível, para a configuração do ilícito ambiental previsto no art. 61 do Decreto n.º 6514/08, a elaboração de laudo técnico pelo órgão ambiental que aponte a geração de poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana ou provoquem a mortandade de animais ou a destruição significativa da biodiversidade.
+ Os laudos do ICMBio, que embasaram a autuação sub judice, limitam-se a descrever os dados coletados nas amostras recolhidas do elemento hídrico existente próximo ao Condomínio, sem qualquer consideração sobre a dimensão do dano. Tampouco esclarecem se o resultado da análise das amostras corrobora a existência de poluição em níveis que caracterizam a infração administrativa.
+Ora, não há como acolher a pretensão recursal, pois, a verificação da idoneidade do laudo elaborado pelo ICMBio, necessária a incursão nas provas carreadas aos autos, esbarra na Súmula 7/STJ, conforme consignado na decisão agravada.
+Do mesmo modo, não há como aferir se o valor fixado a título de honorários advocatícios seria exorbitante, na espécie. É que o Tribunal a quo, ao majorar o valor da verba sucumbencial em R$ 50.000,00 (cinquenta mil reais), asseverou (fl. 1102):
+ Conquanto desarrazoado adotar o conteúdo econômico da demanda - R$ 5.500.000,00 (cinco milhões e quinhentos mil reais) - como base de cálculo dos honorários advocatícios sucumbenciais, porque disso resultaria em montante não consentâneo com a natureza e complexidade da causa, o tempo de tramitação processual e o trabalho desenvolvido pelos procuradores que atuaram no feito, o valor arbitrado pelo juízo a quo - R$ 15.000,00 (quinze mil reais) - é igualmente inadequado.
+ Repare-se que o IBAMA impôs ao autor multa diária de R$ 5.500,00 (cinco mil e quinhentos reais), com fundamento no disposto no art. 10 do Decreto Federal n.º6.514/2008, e, entre a data da autuação e a do ajuizamento da ação (16/01/2013 a 07/10/2013) transcorreram aproximadamente 260 (duzentos e sessenta) dias, que, multiplicados por R$ 5.500,00, totalizariam R$ 1.430.000,00 (um milhão, quatrocentos e trinta mil reais).
+ Outrossim, a legislação processual (vigente ao tempo da prolação da sentença) impunha, para o arbitramento dos honorários sucumbenciais a serem suportados pela Fazenda Pública, a observância das diretrizes elencadas nas alíneas "a", "b" e "c" do § 3º do art. 20 do CPC/1973.
+ Nessa perspectiva, e considerando tais referenciais, especialmente o trabalho executado pelos advogados, a verba honorária deve ser majorada para R$ 50.000,00 (cinquenta mil reais).
+Ademais, não se configurou, na espécie, ofensa aos princípios da razoabilidade e da proporcionalidade.
+Assim, a decisão agravada deve ser confirmada pelo Colegiado.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
