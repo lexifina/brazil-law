@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso ordinário em mandado de segurança interposto contra acórdão do Superior Tribunal Militar. (fls. 141)
+    Nas razões recursais, o recorrente alega que impetrou ação mandamental, em razão de inexistir recurso com efeito suspensivo para atacar a decisão prolatada por Ministro do STM.
+    Aduz que não opôs embargos de declaração, porque não havia “nenhuma obscuridade” a ser sanada. (fls. 160)
+    Afirma ser teratológica a decisão que reconheceu a ocorrência da prescrição no exato momento que se inadmitia o recurso da defesa.
+    Impetrado o MS, o STM dele não conheceu, com fundamento na Súmula 267 desta Corte.
+    Requer o provimento do presente recurso ordinário, para anular a decisão proferida pelo STM e, consequentemente, determinar a execução da pena imposta ao réu.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, registro que a jurisprudência do Supremo Tribunal Federal é no sentido de que não cabe mandado de segurança contra ato judicial, salvo em situações excepcionais, em que a decisão impugnada seja teratológica ou quando haja abuso de poder.
+    Cito, a propósito, os seguintes julgados, de ambas as turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO QUE INADMITIU O MANDAMUS COMO SUCEDÂNEO RECURSAL. ATOS JURISDICIONAIS PRATICADOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO (…)”. (RMS 34.253 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 13.3.2017) (Grifo nosso)
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. CABIMENTO DE RECLAMAÇÃO AJUIZADA PERANTE O STJ. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. ALEGAÇÃO DE TERATOLOGIA. INEXISTÊNCIA. RECURSO A QUE SE NEGA SEGUIMENTO. 1. É inadmissível a impetração de mandado de segurança contra ato jurisdicional, exceto nos casos de flagrante ilegalidade ou teratologia da decisão questionada. 2. No caso concreto, o STJ negou seguimento à RCL n. 10.554/ES em virtude de o reclamante ter se limitado à alegação de ofensa a dispositivos de lei federal e à reprodução de precedentes daquela Corte, sem, contudo, mencionar a existência de súmula ou de julgamento sobre o tema na forma do art. 543-C do CPC/1973. 3. Em tais circunstâncias, a decisão objeto da impetração não padece dos vícios que autorizariam a utilização da via mandamental ab origine. 4. Agravo regimental a que se NEGA PROVIMENTO”. (RMS 32043 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 30.5.2016)
+    “AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA. ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO DESPROVIDA DE CARÁTER TERATOLÓGICO. SUCEDÂNEO RECURSAL. DESCABIMENTO DO WRIT. AGRAVO REGIMENTAL DESPROVIDO. 1. Conforme pacífica jurisprudência do Supremo Tribunal Federal, não cabe mandado de segurança contra ato judicial, salvo nas hipóteses de teratologia, ilegalidade ou abuso flagrante. 2. Agravo regimental, interposto em 30.06.2016, a que se nega provimento, com aplicação de multa, fixada em R$ 1.000,00 (mil reais), observado o disposto no art. 1.021, § 5º, CPC”. (RMS 29.916 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 19.12.2016)
+    “RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO JUDICIAL QUE NEGA PROVIMENTO A RECURSO ESPECIAL. ALEGADA CONTRARIEDADE AO DIREITO DO IMPETRANTE À SUPENSÃO DE EXECUÇÃO FISCAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO JURISDICIONAL. AUSÊNCIA DE CONFIGURAÇÃO DE ILEGALIDADE OU ABUSO DE PODER. DESCABIMENTO. PRECEDENTES. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA AO QUAL SE NEGA PROVIMENTO”. (RMS 30.989, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 11.4.2013)
+    Com efeito, o mandado de segurança não se consubstancia em uma nova via recursal para a reiteração da irresignação do interessado contra determinado ato jurisdicional. Para tanto, faz-se necessária a demonstração de inequívoca teratologia.
+    Na espécie, não ficou comprovada a ocorrência de teratologia ou de abuso de poder na decisão combatida, razão pela qual a impetração apresenta-se incabível.
+    Isso porque este Supremo Tribunal consolidou o entendimento de que o acórdão de segundo grau tem relevância jurídica e, portanto, deve ser considerado como uma nova causa de interrupção do prazo prescricional, apenas se modificar a pena, de modo a refletir no cálculo do prazo da prescrição (HC 106.222/SP, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 29.3.2011). No mesmo sentido: RE-ED-AgR 559.649/ES, Primeira Turma, Rel. Min. Ayres Britto, DJe 1º.8.2011; AI-ED 759.450/RJ, Primeira Turma, Rel. Min. Ellen Gracie, DJe 18.12.2009; HC 92.340/SC, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 8.8.2008; HC 82.956/SP, Primeira Turma, Rel. Min. Marco Aurélio, DJ 8.8.2003; HC 70.810/RS, Primeira Turma, Rel. Min. Celso de Mello, DJ 1º.12.2006.
+    Assim, a mera confirmação da sentença, na apelação, não é causa interruptiva da prescrição.
+    Ante o exposto, nego seguimento ao recurso ordinário (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
