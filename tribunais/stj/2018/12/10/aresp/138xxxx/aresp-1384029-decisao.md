@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. Contrato de prestação de serviços de assessoria e consultoria. Inadimplemento por parte do contratado, que se mantém inerte após notificação para devolução do valor recebido a título de "sinal". SENTENÇA de procedência parcial para condenar o requerido a pagar para a autora indenização material de R$ 54.000,00 e de R$ 5.280,00, com correção monetária a contar da data da notificação extrajudicial e juros de mora a contar da citação. APELAÇÃO do requerido, que visa à reforma para a improcedência. ACOLHIMENTO PARCIAL. Requerido que não demonstrou a efetiva prestação dos serviços para os quais foi contratado e, portanto, não se desincumbiu de provar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, "ex vi" do artigo 373, inciso II, do CPC de 2015. Devolução do preço pago inicialmente que é de rigor, sob pena de enriquecimento sem causa do demandado. Honorários contratuais livremente pactuados entre a autora e seu Patrono. Despesa decorrente da contratação de Advogado que não integra indenização para composição de perdas e danos, tampouco passível de reembolso. Sentença parcialmente reformada. RECURSO PARCIALMENTE PROVIDO" (fl. 298, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente alega a violação do artigo 373, II, do Código de Processo Civil de 2015, sustentando que desincumbiu-se plenamente do ônus da prova quanto à autorização expressa da recorrida para contratação de terceiros.
+Após a apresentação das contrarrazões (fls. 332/338, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso, o Tribunal de origem entendeu o seguinte:
+"(..)
+Em que pese a argumentação recursal deduzida pelo requerido, ora apelante, tem-se que ele não se desincumbiu do ônus de provar a existência de fato impeditivo, modificativo ou extintivo do direito da autora, ora apelada, "ex vi" do artigo 373, inciso II, do Código de Processo Civil de 2015, já que não há nos autos prova quanto à efetiva prestação dos serviços na forma e no prazo contratados.
+De fato, o requerido, ora apelante, atribui a culpa pelo inadimplemento a terceiro estranho à lide, que teria sido subcontratado por ele para a execução do contrato. Ocorre a relação jurídica havida entre o requerido Jorge, ora apelante, e o terceiro Ruberval, pouco importa para o deslinde da causa. É que além de não ter sido comprovada a anuência prévia da autora, ora apelada, em relação a essa completa terceirização do serviço, o fato é que o contrato em discussão foi firmado somente entre a autora e o requerido, sendo responsabilidade do demandado eventual inadimplemento decorrente do descumprimento de seus subcontratados. Bem por isso, perde relevo a cópia dos "e-mails" copiados nas fls. 94/145, já que trocados entre o requerido e terceiros estranhos à lide.
+Os recibos de pedágio, estadia em hotel e de refeições, copiados de modo quase ilegível nas fls. 146/155 e 158/176, além das notificações autuação por infração de trânsito juntadas nas fls. 156/157, são imprestáveis para a comprovação do cumprimento do contrato por parte do requerido, ora apelado.
+Há, na verdade, apenas uma única Certidão de Transcrição Imobiliária, emitida no dia 05 de setembro de 2014 (fls. 89/93), documento esse que é deveras insuficiente para provar a completa execução do contrato.
+Assim, era mesmo de rigor a declaração da rescisão do contrato por culpa do requerido, com a condenação dele na devolução do valor recebido a título de sinal e princípio de pagamento, sob pena de enriquecimento sem causa do demandado.
+(..)" (fls. 302/303, e-STJ - grifou-se).
+Com efeito, rever tais conclusões, da forma pretendida no recurso especial, demandaria a análise de circunstâncias fático-probatórias dos autos e de cláusulas contratuais por esta Corte, o que recai no óbice das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais na forma do artigo 85, § 11, do Código de Processo Civil de 2015, considerando que a apelação interposta pela parte recorrente foi parcialmente provida.
+Publique-se.
+Intimem-se.
