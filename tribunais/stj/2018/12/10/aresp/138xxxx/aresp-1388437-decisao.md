@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se agravo em recurso especial interposto por [NOME]. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE ADMINISTRAÇÃO DE HERANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. REJEIÇÃO EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE NULIDADE DECORRENTE DA AUSÊNCIA DE INTIMAÇÃO DOS AGRAVANTES PARA SE MANIFESTAREM SOBRE EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES ACOLHIDOS E OPOSTOS COM A FINALIDADE DE QUE A RESPONSABILIDADE PELO PAGAMENTO DOS HONORÁRIOS DO ADMINISTRADOR PROVISÓRIO DA HERANÇA RECAÍSSE APENAS SOBRE OS HERDEIROS QUE DERAM CAUSA À AÇÃO DE NULIDADE DE TESTAMENTO. DECISÃO QUE RESTOU ATACADA POR LITISCONSORTES EM AGRAVO DE INSTRUMENTO E MANTIDA POR ESTA CORTE EM ACÓRDÃO JÁ TRANSITADO EM JULGADO E QUE, NOS TERMOS DO ART. 509, DO CPC/73, LHES APROVEITA, POR ENVOLVER INTERESSE IDÊNTICO. EMBARGOS DE DECLARAÇÃO QUE SE MOSTRAM PREJUDICADOS. DECISÃO AGRAVADA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO" (e-STJ fls. 416/417).
+Nas razões do recurso especial, a recorrente alega violação do art. 1.023, § 2º, do Código de Processo Civil de 2015. Sustenta que é obrigatória a intimação da parte contrária caso haja modificação da decisão embargada (e-STJ fls. 526/532).
+Apresentadas as contrarrazões, o recurso não foi admitido na origem.
+É o relatório.
+DECIDO.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Os agravantes alegam violação do artigo 1.023, § 2º, do CPC/2015 ao fundamento de que é obrigatória a intimação da parte contrária caso haja modificação da decisão embargada.
+A esse respeito, assim se manifestou o Tribunal de origem:
+"A ata da sessão do dia 10.05.2017 foi elaborada contendo erros no resultado de alguns julgamentos, entre eles o processo nº 12 da pauta, o presente Agravo de Instrumento nº 1.550.057-5, pois, onde deveria constar "Negado provimento - unânime", lançou-se "Dado Provimento - unânime".
+Assim, verificado o equívoco, no momento da lavratura, realizou-se o procedimento adotado por esta Corte: os membros integrantes da 12ª Câmara Cível, na sessão seguinte, de 17.05.2017, deliberaram sobre os resultados de julgamento equivocadamente lançados e, aprovada as correções, a secretária da sessão da 12ª Câmara Cível solicitou, mediante Ofício n. 1944818, de 17.05.2017, via protocolo SEI n. 33467-98.2017.8.16.6000, ao Diretor do Departamento Judiciário do Tribunal de Justiça do Paraná, que o resultado do julgamento fosse ratificado no sistema computacional.
+Assim, a alteração do julgamento não se deu com fundamento no referido protocolo SEI. Este apenas reflete o procedimento administrativo adotado para que fossem efetivadas, internamente, as correções necessárias no sistema computacional deste Tribunal. A alteração em si, ocorreu porque a ata da sessão de julgamento foi lançada contendo erros em alguns resultados, como se vê dos ofícios, cuja juntada ora determino.
+Por fim, considerando que a correção do resultado do julgamento deu-se segundo os trâmites internos previstos para tais equívocos, desnecessária a disponibilização das gravações das sessões desta 12ª Câmara Cível dos dias 10 e 15 de maio de 2017, motivo pelo qual a indefiro" (e-STJ fls. 515/516).
+Portanto, não houve alteração de julgamento, mas erro na publicação da ata de julgamento, em que o resultados de alguns processos foram publicados de forma errada. Daí a republicação.
+No entanto, tal fundamento não foi objeto de impugnação pelos recorrentes, atraindo a incidência da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto aos demais temas desenvolvidos, a deficiência na fundamentação recursal restou evidenciada, pois os recorrente não indicaram especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, embora tenha se insurgido quanto à motivação da decisão, inviabilizando a compreensão da controvérsia posta nos autos.
+Consequentemente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários recursais, nos termos do artigo 85, § 11, do CPC/2015, em virtude da ausência de condenação a pagamento de honorários sucumbenciais na origem.
+Publique-se.
+Intimem-se.
