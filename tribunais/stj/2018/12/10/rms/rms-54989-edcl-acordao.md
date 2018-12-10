@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA PMGO. SOLDADO DE 2º CLASSE. ILEGITIMIDADE PASSIVA AD CAUSAM DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - O presente feito decorre de mandado de segurança impetrado pelo ora recorrente contra ato atribuído ao Secretário de Gestão e Planejamento do Estado de Goiás - SEGPLAN, o qual, nos termos da exordial, mostra-se omisso em determinar sua convocação e nomeação ao cargo de Soldado de 2ª Classe - Região Metropolitana de Goiânia. No Tribunal de Justiça do Estado do Goiás, a segurança foi denegada.
+II - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno.
+III - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+IV - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre de mandado de segurança impetrado pelo ora recorrente contra ato atribuído ao Secretário de Gestão e Planejamento do Estado de Goiás - SEGPLAN, o qual, nos termos da exordial, mostra-se omisso em determinar sua convocação e nomeação ao cargo de Soldado de 2ª Classe - Região Metropolitana de Goiânia. No Tribunal de Justiça do Estado do Goiás, a segurança foi denegada, nos seguintes termos ementados:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA PMGO. SOLDADO DE 2º CLASSE. ILEGITIMIDADE PASSIVA AD CAUSAM DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO. O Secretário de Gestão e Planejamento do Estado de Goiás é parte ilegítima para figurar no polo passivo do presente mandamus, na medida em que não possui competência para determinar a suposta correção do ato atacado, bem como não detém atribuição para nomeação dos candidatos aprovados em concurso público para o cargo de soldado de 2ª Classe da Polícia Militar. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. SEGURANÇA DENEGADA.
+Interposto recurso ordinário em mandado de segurança por [NOME], com fundamento no art; 105, II, b, da Constituição Federal.
+No parecer às fls. 358-362, o Ministério Público opinou pelo desprovimento do recurso, conforme o seguinte resumo:
+Processual Civil. Administrativo. Policial Militar. Concurso público. Nomeação. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. Ilegitimidade passiva do Secretário de Estado de Gestão e Planejamento. Ausência de delegação de poder para nomeação de candidatos aprovados. Precedentes do STJ. Parecer pelo conhecimento do recurso e, no mérito, pelo seu desprovimento.
+Recebidos os autos no STJ, foi proferida decisão na qual se negou provimento ao mandado de segurança ante o erro na indicação da autoridade coatora.
+Interposto agravo interno contra essa decisão, a parte alega em síntese que o Governador do Estado de Goiás, por meio do Decreto de 12 de novembro de 2015, delegou ao Secretário de Gestão e Planejamento "todas as funções referentes a convocação dos aprovados no certame em testilha, após a convocação de diversos candidatos aprovados no certame para provimento de vagas na Polícia Militar do Estado de Goiás" (fl. 380).
+Argumenta ainda que o art. 7º, I, h, da Lei estadual n. 17.257/2011 atribuiu a competência de "organizar e aplicar certames públicos no âmbito do Estado de Goiás" ao Secretário de Gestão e Planejamento, razão pela qual estaria correta sua indicação como autoridade coatora.
+Não foi apresentada impugnação ao agravo interno.
+O agravo interno foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EQUIVOCADA INDICAÇÃO DA ÚNICA AUTORIDADE COATORA, POR NÃO DETER COMPETÊNCIA PARA NOMEAR CANDIDATOS APROVADOS. DELEGAÇÃO DE COMPETÊNCIA NÃO COMPROVADA. RECURSO ORDINÁRIO IMPROVIDO.
+I - Consoante o disposto no art. 14, § 2º, da Lei n. 9.784/1999, "o ato de delegação especificará as matérias e poderes transferidos" , bem como "os limites da atuação do delegado", além dos quais não poderá licitamente agir, pelo que não tem legitimidade para figurar no polo passivo da impetração o agente público que não tenha poderes para praticar o ato cuja omissão se combate pela via mandamental, como ocorreu na hipótese que deu origem ao presente recurso ordinário. Precedentes: AgRg nos EDcl no RMS 45.074/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/8/2014, DJe 12/8/2014; MS 16.899/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 16/11/2011; e AgInt no RMS 51.527/GO, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 18/10/2016, DJe 4/11/2016.
+II - No caso dos autos, o Governador de Goiás delegou ao Secretário de Estado de Gestão e Planejamento apenas "competência para proceder, mediante portaria, as correções de erros materiais pertinentes a classificações, nomes, cargos e CPFs/MF do pessoal constante do anexo", nada dispondo quanto aos poderes para nomear candidatos.
+III - Assim, a equivocada indicação da autoridade impetrada impõe a extinção do feito sem julgamento do mérito, tal como manifestou a Corte Estadual, nos termos do acórdão recorrido.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre o qual o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp n. 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp n. 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
