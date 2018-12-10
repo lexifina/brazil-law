@@ -1,0 +1,45 @@
+DECISÃO
+1. Trata-se de pedido de tutela de urgência formulado por [NOME], visando a antecipação de tutela recursal, bem como a concessão de efeito suspensivo ao recurso especial interposto contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Voto nº 17.765
+Ação rescisória. Impugnação ao valor da causa. Valor atribuído que deverá corresponder ao benefício patrimonial a ser obtido em caso de procedência do pedido. Pretensão do autor de adotar como parâmetro o valor da condenação constante do v. acórdão rescindendo não tem supedâneo legal. Autor que deverá complementar o valor do depósito de 5%, previsto no artigo 488, inciso II, do Código de Processo Civil. Impugnação acolhida. " (fl. 89/92)
+Opostos embargos de declaração, foram rejeitados (fls. 93/97).
+Anulado o acórdão dos embargos de declaração pelo Superior Tribunal de Justiça (REsp 1.375.638/SP), realizou-se novo julgamento, com o acolhimento dos embargos sem efeito modificativo (fls. 1.01/103).
+Opostos novos embargos de declaração, foram rejeitados, com imposição de multa (fls. 104/106).
+Inconformado, [NOME] interpôs novo recurso especial, com fundamento no art. 105, inciso III, a e c, da Constituição Federal, apontando divergência jurisprudencial e violação dos seguintes dispositivos legais: a) arts. 98, VIII, e 99, §§ 2º e 3º, do CPC/2015, em razão do indeferimento do pedido de gratuidade de justiça sem, antes, determinar à parte a comprovação do preenchimento dos referidos pressupostos e sem examinar as demais circunstâncias trazidas aos autos; b) art. 489, § 1º, II e IV, do CPC/2015, ante a ausência de fundamentação suficiente para o indeferimento do benefício da Justiça Gratuita; e c) art. 1026, § 2º; decorrente da indevida imposição de multa em embargos de declaração que não podem ser tidos como procrastinatórios.
+Alega, em síntese, estarem presentes os requisitos para a concessão do benefício da Justiça Gratuita, afirmando que o acórdão recorrido divergiu do entendimento de outros tribunais ao não reconhecer o direito à gratuidade da justiça de pessoa portadora de enfermidade grave, máxime se tiver idade avançada e o valor da causa for elevado, inviabilizando o acesso à jurisdição.
+Estando o recurso ainda em processamento, o recorrente formulou pedido de tutela de urgência perante a Corte de origem, o qual restou indeferido (fls. 148/154).
+Daí o pedido ora formulado, visando a concessão de efeito suspensivo ao recurso especial, assim como a antecipação da tutela recursal, para o fim de deferir, de imediato, o benefício da Justiça Gratuita.
+Alega o requerente, para tanto, a existência de fumus boni iuris, ressaltando que faz jus ao benefício da Justiça Gratuita uma vez que, diversamente do afirmado pelo Tribunal de origem, não tem condições de arcar com as custas do processo sem prejuízo seu e de sua família, mormente em face do recente diagnóstico de câncer e de outras enfermidades.
+Sustenta, outrossim, que a exigência do depósito, em complemento àquele já realizado, impõe ônus excessivo que a parte não tem como suportar, violando o seu direito de acesso à jurisdição.
+Quanto ao periculum in mora, argumenta que a ausência de efeito suspensivo do recurso impõe ao recorrente o ônus de "depositar a diferença dos 5% incidentes sobre o valor inicialmente dado à ação rescisória (81.000.000,00), equivalente, hoje, a mais de R$ 7.000.000,00 (sete milhões de reais), acrescidos de R$ 2.400.000,00 (..) referente à multa injusta e ilegalmente imposta, esclarecendo-se, ainda, que o Requerente já depositou R$ 92.644,35 (noventa e dois mil reais) a título do depósito prévio do art. 488, II do CPC revogado" (fl. 4).
+É o relatório. Decido.
+2. Ressalte-se, inicialmente, a competência desta Corte para apreciar o presente pedido, tendo em vista o indeferimento da tutela de urgência pelo Tribunal a quo (art. 1.029, §5º, do CPC/2015).
+Acerca da tutela provisória, importante destacar os seguintes artigos do Novo Código de Processo Civil:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo." (grifos acrescidos)
+Da leitura das normas ora transcritas, para fins de concessão da tutela de urgência, evidencia-se a necessidade de demonstração cumulativa do fumus boni iuris e do periculum in mora.
+No caso, em sede de cognição sumária, forçoso reconhecer a existência do alegado fumus boni iuris.
+Com efeito, nos termos dos §§ 2º e 3º do art. 99 do CPC/2015, presume-se verdadeira a alegação de insuficiência deduzida pela pessoa natural, sendo certo que, antes de indeferir o pedido de gratuidade da justiça, deve o juiz possibilitar à parte a comprovação dos pressupostos. Veja-se:
+ "Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+ ..
+ § 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+ § 3º Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+ .."
+Por outro lado, os §§ 5º e 6º do art. 98 do mesmo Código trazem, ínsita, a ideia de ampliação da facilitação do acesso à jurisdição, prevendo a possibilidade de concessão de gratuidade parcial, em relação a algum ou todos os atos processuais, ou mediante a redução percentual das despesas processuais que tiverem que ser adiantadas, nos seguintes termos:
+ "Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
+ § 1º A gratuidade da justiça compreende:
+ ..
+ VIII - os depósitos previstos em lei para interposição de recurso, para propositura de ação e para a prática de outros atos processuais inerentes ao exercício da ampla defesa e do contraditório;
+ ..
+ § 5º A gratuidade poderá ser concedida em relação a algum ou a todos os atos processuais, ou consistir na redução percentual de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento.
+ § 6º Conforme o caso, o juiz poderá conceder direito ao parcelamento de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento.
+ ..
+Conforme se observa, a concessão parcial do benefício é possibilidade que se abre àqueles que, embora não sendo juridicamente pobres, ainda assim não se encontram em condições de arcar com a totalidade de custos eventualmente elevados, que os impossibilitem de, no caso concreto, exercer o direito à ação.
+No presente caso, a peculiar situação dos autos, caracterizada pelo elevado valor da causa e, em consequência, do substancial valor do depósito inicial exigido à propositura da ação rescisória (CPC/2015, art. 968, II), enseja a presunção, ainda que relativa, da real impossibilidade da parte de custear todas as despesas processuais, inviabilizando o pleno exercício do direito à jurisdição.
+Efetivamente, a realidade dos autos, em que o valor da causa, após impugnação da contraparte, restou estabelecido em R$ 81.683.000,00, determinando-se, em consequência, o recolhimento do depósito correspondente a 5% deste valor - nos termos do art. 488, II, do CPC/1973, impõe o reconhecimento da insuficiência de recurso alegada, ao menos no que se refere ao recolhimento do referido depósito, tendo em vista o seu elevado valor, inexequível para a grande maioria da população brasileira, ainda que considerada a limitação do art. 968, § 2º, do CPC/2015.
+Também evidenciado, por outro lado, o periculum in mora, tendo em vista que o não recolhimento do depósito, no prazo assinalado pelo il. Juízo de origem, ensejará o indeferimento da petição inicial (art. 968, § 3º, do NCPC).
+Nesses termos, presentes ambos os requisitos, faz-se necessária a concessão da tutela de urgência, com fundamento nos arts. 300 e 1.029, § 5º, I, do CPC/2015 e art. 288, § 2º, do RISTJ, atribuindo-se efeito suspensivo ao recurso especial em curso, sem prejuízo do juízo de admissibilidade a ser livremente realizado pela eg. Corte de origem.
+Do exposto, defiro em parte o pedido de tutela de urgência, para atribuir efeito suspensivo ao recurso especial interposto pelo requerente, suspendendo a determinação de complementação do depósito, até ulterior deliberação desta Corte, podendo a ação rescisória retomar seu curso, salvo na constatação, pelas instâncias ordinárias, de outros aspectos impeditivos.
+Oficie-se, com urgência, ao eg. Tribunal de Justiça do Estado de São Paulo, bem como ao douto Juízo competente, comunicando o deferimento da presente tutele de urgência.
+Publique-se. Intime-se.
