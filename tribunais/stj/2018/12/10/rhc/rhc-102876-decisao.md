@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus (fls. 57/67), com pedido liminar, interposto por DIOGO DOS SANTOS, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n.º 2100328-74.2018.8.26.0000 - fls. 48/52).
+Depreende-se dos autos que o juiz singular condenou o ora recorrente, com fundamento no art. 33, caput, da Lei 11.343/2006, às penas de 5 (cinco) anos de reclusão, em regime inicialmente fechado, e 500 dias-multa, no valor mínimo legal, e, por infração ao art. 16, inciso IV, da Lei n.º 10.826/2003, a uma pena de 3 (três) anos de reclusão, em regime inicialmente fechado (fls. 7/10).
+Irresignada, a Defesa impetrou writ, na eg. Corte estadual, que denegou a ordem, nos termos de v. acórdão assim ementado:
+"Habeas Corpus. Objetiva reforma de sentença condenatória. Impossibilidade de concessão pela via eleita, já que estreitos são os limites de cognição do "writ". O inconformismo com a decisão deve se dar por meio de recurso adequado, Apelação. Constrangimento ilegal não demonstrado. Ordem denegada." (fl. 50).
+No presente recurso, alega-se que a pena imposta ao acusado pela prática do delito de tráfico de entorpecentes deve ser reduzida, nos termos do art. 33, § 4º, da Lei n.º 11.343/2006, uma vez não existirem provas nos autos no sentido de que o mesmo se dedique a atividades criminosas ou integre organização criminosa, e por ser ele réu confesso.
+Aduz-se que, quanto ao crime de porte ilegal de arma, a pena a ser aplicada deve obedecer a regime de cumprimento menos rigoroso, pois não há fundamentação específica que justifique o seu agravamento.
+Ao final, requer seja o recurso provido para reduzir a pena do tráfico e impor um regime de cumprimento menos rigoroso para a reprimenda somada de ambas as condenações.
+A liminar foi indeferida, às fls. 93/94.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso ordinário em habeas corpus (fls. 99/101).
+É o relatório.
+Decido.
+No presente recurso ordinário, a Defesa se insurge ante a falta de fundamentação idônea para o indeferimento da benesse do tráfico privilegiado e para a imposição do regime inicialmente fechado.
+Ao compulsar os autos, verifico, todavia, que as insurgências do impetrante, apesar de submetidas à apreciação da Corte local, por meio de remédio heróico, não foram debatidas, tampouco analisadas, visto que o Tribunal entendeu que "tal pleito deve ser realizado por meio de recurso específico, Apelação Criminal, e não através do presente remédio, heróico, conforme entendimento desta E. Câmara Julgadora" (fl. 51).
+Vale dizer, para os julgadores da origem, as questões deveriam ter sido devolvidas à Corte estadual, por meio de tempestiva apelação criminal.
+Desse modo, não havendo as matérias sido debatidas pela instância de revisão, ante a interposição do recurso próprio - apelação ou revisão criminal -, esta Corte Superior não pode conhecê-las diretamente, sob pena de indevida supressão de instância.
+Ilustrativamente:
+PROCESSUAL PENAL. AGRAVO INTERNO. HABEAS CORPUS.  .. . RECURSO A QUE SE NEGA PROVIMENTO.  ..
+2. A ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+3. Agravo regimental a que se nega provimento. (AgInt no HC n. 366.298/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, Julgado em 6/9/2016, DJe 16/9/2016).
+Não obstante, incumbe sempre ao órgão julgador examinar a alegada ilegalidade, para que, sendo ela constatável de plano, seja a ordem de habeas corpus concedida, de ofício, para fazer cessar eventual constrangimento.
+Na espécie, o Tribunal estadual limitou-se "denegar" o (não conhecer do) writ originário, sem avaliar, de modo suficientemente fundamentado, a existência de eventual ilegalidade perpetrada em desfavor do ora recorrente.
+Não basta que o órgão julgador refira sumariamente, sem maiores considerações acerca do caso concreto, que "não restou demonstrado qualquer constrangimento ilegal infligido ao ora paciente e passível de correção pela via constitucional eleita" (fl. 52). É preciso que o magistrado efetivamente se detenha no exame das alegações veiculadas no writ para verificar se é constatável, de plano, qualquer ilegalidade ou para explicitar as razões do seu entendimento contrário.
+Em hipóteses análogas, decidiu esta Corte:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE, VARIEDADE E NOCIVIDADE DA DROGA APREENDIDA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA DOMICILIAR. ART. 318, INCISO II, DO CPP. MATÉRIA NÃO ANALISADA PELA INSTÂNCIA A QUO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+VI - Quanto ao pleito de substituição da custódia cautelar do paciente por prisão domiciliar, nos termos do art. 318, inciso II, do CPP, verifica-se que não foi objeto de apreciação pelo Tribunal a quo. Assim, a princípio, a impugnação não deve ser conhecida, nesta parte, sob pena de indevida supressão de instância.
+VII - Contudo, nota-se que a falta de manifestação do eg. Tribunal a quo sobre o mérito dessa questão veiculada no writ originário configurou, no caso, indevida negativa de prestação jurisdicional. De fato, a autoridade judiciária deve verificar, sempre que possível, quando do julgamento da ação constitucional de habeas corpus, eventual ocorrência de ilegalidade flagrante, aferível prima facie, que autorize a concessão da ordem, ou deve afastá-la, de modo fundamentado.
+Habeas corpus não conhecido.
+Ordem concedida, de ofício, para cassar o v. acórdão do Habeas Corpus n. 2036039-69.2017.8.26.0000, e determinar que o eg. Tribunal a quo se pronuncie acerca da possibilidade de substituição da prisão preventiva do paciente pela domiciliar, nos termos do art. 318, inciso II, do CPP. (HC 391.409/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/05/2017, DJe 29/05/2017)
+PENAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. QUESTÃO NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO PARA O ENFRENTAMENTO DO TEMA PELO TRIBUNAL LOCAL.
+1. A falta de apreciação do tema pelo Tribunal local impede seu enfrentamento nesta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+2. Tendo o Juízo a quo realizado a análise da alegada inépcia da denúncia quando do recebimento da denúncia, inexiste óbice ao conhecimento do writ pelo Tribunal local para o exame da matéria.
+3. Recurso ordinário não conhecido, mas concedida a ordem de ofício para devolver os autos ao Tribunal de origem com a determinação de que aprecie o mérito da impetração ali aforada, como entender de direito. (RHC 72.283/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2016, DJe 12/09/2016)
+Ante todo o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso ordinário em habeas corpus.
+Contudo, concedo a ordem, de ofício, para cassar o acórdão impugnado e determinar que o Tribunal a quo examine, de ofício, as supostas ilegalidades apontadas na impetração originária.
+Publique-se. Intimem-se.
