@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA INTEGRALIDADE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto por Nobre Contabilidade Ltda. e outros, com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 1.270):
+APELAÇÃO CÍVEL - AÇÃO DE INEFICÁCIA DOS CONTRATOS DE ARRENDAMENTO FIRMADOS COM A FALIDA - PROCEDÊNCIA DO PEDIDO - RECURSO CABÍVEL - APELAÇÃO - CONTRATO DE LOCAÇÃO - NEGÓCIO JURÍDICO FIRMADO DURANTE A CONCORDATA SUSPENSIVA - AUTORIZAÇÃO JUDICIAL - NECESSIDADE - INTELIGÊNCIA DO DISPOSTO NO ART. 149 DO DECRETO-LEI N. 7.661/45 - CONTRATOS SUB-VALORIZADOS - PREJUÍZO À MASSA - COMPROVAÇÃO - HONORÁRIOS ADVOCATÍCIOS - CRITÉRIO DE COMINAÇÃO - ART. 20, § 4º, DO CPC - INOBSERVÂNCIA - PROVIMENTO PARCIAL.
+- Extrai-se do laudo pericial que embasou a presente ação, produzido nos autos do processo falimentar n. 0672.03.114323-9, a pedido do Ministério Público, visando a verificação dos "valores reais para as locações no espaço do Shopping", que os contratos foram sub-valorizados, representando vultuoso prejuízo à Massa Falida e aos credores.
+- Enquanto o laudo pericial aponta como sendo de R$ 604.000,00 (seiscentos e quatro mil reais) o valor total da locação dos bens objeto dos contratos impugnados (R$ 545.000,00  R$33.654,00  R$ 25.350,00), a Massa Falida recebia, mensalmente, a título de aluguel e arrendamentos, por força dos contratos firmados, somente R$ 26.000,00 (vinte e seis mil reais), evidenciando que os contratos, ao longo dos anos, onerariam a Massa Falida em milhões de reais.
+Opostos embargos de declaração por ambas as partes (e-STJ, fls. 1.285-1.289 e 1.291-1.301), foram rejeitados (e-STJ, fls. 1.307-1.314).
+Nas razões do recurso especial, alegaram os recorrentes violação dos arts. 535, II, do CPC/1973; 129, parágrafo único, e 117 da Lei n. 11.101/2005; 5º, caput, XXXIII, XXXIV e LV, da Carta Magna, além de dissídio jurisprudencial. Sustentaram, nas razões do apelo nobre: a) omissão do acórdão recorrido porquanto não teria sido esclarecido se os contratos de locação, celebrados pelo valor de R$ 26.000,00 (vinte e seis mil reais) mensais, se referem ao imóvel antes da construção do "Shopping Lagoa Center", uma vez que o montante de R$ 545.000,00 (quinhentos e quarenta e cinco mil reais) corresponde ao valor mensal de locação tão somente após a construção do empreendimento; b) que o magistrado singular sabia desde o primeiro momento da existência dos contratos em questão, sem que tenha feito menção à ineficácia dos mesmos, iniciativa que poderia ter sido tomada até mesmo de ofício, se fosse o caso; e c) que os contratos bilaterais não se resolvem pela falência, podendo ser cumpridos pelo administrador judicial se isso puder reduzir ou evitar o aumento do passivo da massa falida.
+Inadmitido o recurso, adveio a interposição do presente agravo, ao qual foi oferecida contraminuta.
+Brevemente relatado, decido.
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso, justificando, tese a tese, o cabimento do apelo nobre conforme determina expressamente o art. 932, III, do CPC/2015.
+No caso, as insurgentes não impugnaram especificamente os fundamentos da decisão agravada concernentes à ausência de demonstração analítica do dissídio jurisprudencial, à incidência da Súmula 284 do STF, bem como à impossibilidade do exame de matéria constitucional em âmbito de recurso especial, o que inviabiliza o conhecimento do agravo.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. SÚMULA Nº 115/STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CPC.
+1. É inexistente, na instância especial, recurso interposto por advogado sem procuração nos autos (Súmula nº 115/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+3. Agravo regimental conhecido em parte e, na parte conhecida, não provido.
+(AgRg no AREsp n. 321.387/RS, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/2/2015);
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIOLAÇÃO DO ART. 535, DO CPC/73. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO. MULTA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Incumbe ao relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, inciso III, do CPC/2015).
+2. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/73.
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 941.193/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/11/2016).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
