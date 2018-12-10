@@ -1,0 +1,32 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM DANOS MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. INCIDÊNCIA DE ASTREINTES. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+DECISÃO
+MARCELO LUIZ DE OLIVEIRA (MARCELO) ajuizou ação declaratória de inexistência de relação jurídica cumulada com danos morais contra BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO (FINANCEIRA), alegando ter sido vítima de fraude por conta de um veículo que teria sido supostamente adquirido por ele. Requereu a exclusão de seu nome do rol de inadimplentes, a declaração de inexistência dos débitos e a quitação do pagamento dos débitos do veículo, além de indenização por danos morais.
+O Juízo de Piso julgou parcialmente procedentes os pedidos para determinar a exclusão do registro negativo em nome do autor junto ao SCPC e SERASA, declarar a inexigibilidade do débito apontado na inicial e condenar a requerida ao pagamento de indenização por danos morais no valor de R$ 7.000,00 (e-STJ, fls. 156/161).
+Em fase de cumprimento provisório de sentença, o Juízo primevo acolheu a impugnação ao cumprimento de sentença para afastar a incidência da multa diária fixada em desfavor da FINANCEIRA.
+Inconformado, MARCELO interpôs agravo de instrumento, provido pelo Tribunal de origem, em acórdão assim ementado:
+Agravo de instrumento  Impugnação ao cumprimento de sentença - Execução de "astreintes" - Acolhimento - Ordem liminar para retirada de restrições referentes a protesto e cadastros no SERASA e SPC - Extrato e certidão que comprovam desatendimento da ordem - Cabível a cobrança postulada, uma vez exposta a recalcitrância - Recurso provido para rejeitar a impugnação, observada a eventual possibilidade de redução do quantum pelo d. Juízo de primeiro grau - Sem verba honorária, diante do acolhimento da impugnação - Recurso provido com observação. (e-STJ, fl. 288)
+Os embargos de declaração opostos pela FINANCEIRA foram rejeitados (e-STJ, fls. 300/305).
+Inconformada, a FINANCEIRA interpôs recurso especial, com base no art. 105, III, a e c da CF, sustentando, em síntese, dissídio jurisprudencial e violação dos arts. 489, 501, 536, 537 e 1.022 do NCPC e 884 do CC porque (1) o acórdão recorrido padeceria do vício de contradição, pois haveria nos autos provas conflitantes entre si, devendo prevalecer a que assinala o cumprimento da obrigação imposta; e (2) seria indevida a aplicação de astreintes em seu desfavor e, ainda que o fosse, o valor da multa deveria ser reduzido, sob pena de importar em enriquecimento ilícito do autor (e-STJ, fls. 308/314).
+O apelo nobre não foi admitido porque as razões recursais demandariam o revolvimento das provas dos autos, atraindo a incidência da Súmula nº 7 do STJ (e-STJ, fls. 319/321).
+Irresignada, a FINANCEIRA interpôs agravo em recurso especial, sustentando o afastamento do mencionado óbice (e-STJ, fls. 324/332).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dos arts. 489 e 1.022 do NCPC
+Nas razões do recurso especial, a FINANCEIRA defendeu que o acórdão recorrido padeceria do vício de contradição, pois haveria nos autos provas conflitantes entre si, devendo prevalecer a que assinala o cumprimento da obrigação imposta.
+Sem embargo, de acordo com a jurisprudência desta Corte, a contradição ou obscuridade são aquelas internas ao julgado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Desta feita, independentemente da existência de provas em contrário, a Corte Local fixou entendimento com fulcro na análise sistemática do acervo fático-probatório dos autos e fundou a conclusão alcançada nas provas que sobressaíram mais relevantes para o deslinde da controvérsia.
+Sendo assim, o Tribunal de origem julgou a matéria de forma clara, lógica e suficientemente fundamentada, uma vez que há harmonia entre a ratio decidendi e a conclusão do aresto, a afastar os vícios suscitados no apelo extremo.
+(2) Da multa diária
+Neste tocante, a FINANCEIRA sustentou que seria indevida a aplicação de astreintes em seu desfavor e, ainda que o fosse, o valor da multa deveria ser reduzido, sob pena de importar em enriquecimento ilícito do autor.
+In casu, a aplicação das astreintes foi determinada pela Corte Local com espeque na análise das provas dos autos, ante a existência de inscrição do nome de MARCELO no rol de inadimplentes.
+Nesse sentido, vejamos:
+Tenho, ao contrário do deduzido pelo d. Juízo de primeiro grau, que o extrato acostado a fls. 238, bem como a certidão de fls. 243, ambos da ação originária, comprovam a existência da restrição referente ao contrato sob nº 237005832, no valor de R$ de R$1.833,76, em momento posterior à ordem de retirada do respectivo cadastro, de modo a ensejar a possibilidade de cobrança das "astreintes" para tanto fixadas. (e-STJ, fl. 289)
+Sendo assim, sobressai inviável, na estreita via do recurso especial, rever a conclusão alcançada pelo Tribunal a quo, pois implicaria em inafastável revolvimento das provas dos autos, a atrair a aplicação da Súmula nº 7 do STJ.
+Ademais, é de se aclarar que o aresto vergastado não fixou o quantum debeatur, resultante da aplicação da multa diária, motivo pelo qual ressai prejudicado o pleito de redução do montante, nesta instância recursal.
+A este respeito, transcreve-se:
+Oportuno consignar, porém, que o "quantum debeatur" haverá de ser aferido pelo d. Juízo de primeiro grau, com eventual possibilidade de redução, à luz da posição jurisprudencial já consolidada nesta C. Corte. (e-STJ, fl. 291)
+Nestas condições, com fundamento no art. 932, III, do NCPC, CONHEÇO do agravo para CONHECER EM PARTE do Recurso Especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
