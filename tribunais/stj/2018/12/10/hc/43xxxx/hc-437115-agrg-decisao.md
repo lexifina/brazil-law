@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que concedeu a ordem de ofício, restabelecendo a decisão do Juízo das Execuções Criminais, que deferiu ao sentenciado o indulto, com fundamento no Decreto n. 8.940/2016.
+Sustenta a parte agravante que ""o agravado não faz jus ao indulto pleiteado, ainda que afastado o óbice à concessão do referido benefício aos condenados por tráfico privilegiado, por ausência dos requisitos objetivos previstos no art. 1º, §1º, inciso IV, do Decreto nº 8.940/2016 (..) Doutrina e jurisprudência são uníssonas no sentido de que os requisitos estabelecidos no referido Decreto para a concessão do benefício são taxativos, não se podendo exigir outros não previstos e tampouco conceder-se a benesse sem a comprovação das condições fixadas" (e-STJ fls. 83/84).
+Afirma que ""No caso, o agravado não comprovou o exercício de atividade laborativa (ainda que informal) ou educacional no período exigido no Decreto (por no mínimo 12 meses nos três anos contados retroativamente a 25 de dezembro de 2016), não demonstrando, portanto, o preenchimento do requisito previsto no art. 1º, §1º, inciso VI, do Decreto nº 8.940/2016"" (e-STJ fl. 84).
+Requer, assim, a reconsideração do decisum agravado ou que seja o recurso submetido à apreciação do colegiado, sendo provido, no sentido do não conhecimento do habeas corpus, ""uma vez que, embora afastado o caráter hediondo do crime de tráfico privilegiado, o agravado não faz jus ao benefício, por não preencher os requisitos do art. 1º, § 1º, inciso IV, do Decreto nº 8.940/2016" (e-STJ fl. 85).
+É o relatório. Decido.
+Na espécie, verifica-se a perda de objeto da presente irresignação.
+Com efeito, esclarece o Juízo das Execuções Criminais que: ""As penas privativas de liberdade impostas ao paciente terminaram em 21.03.2018, independentemente da concessão do Indulto Previsto no Decreto n. 8940/2016"" (e-STJ fl. 92) - grifei.
+Dessa forma, tendo em vista as penas impostas ao sentenciado já foram cumpridas, independentemente da concessão da benesse pleiteada neste writ, configurou-se a prejudicialidade do recurso, pois, mesmo sem considerar o indulto pleiteado, ocorreu o cumprimento das reprimendas, não havendo mais interesse na cassação da benesse, como pretendido pelo agravante.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+Sem recurso arquivem-se os autos.
