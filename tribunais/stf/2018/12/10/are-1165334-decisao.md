@@ -1,0 +1,33 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO – AÇÃO ORDINÁRIA – Policial Civil – Servidor que almeja a concessão de aposentadoria especial – Requisitos preenchidos – Lei Complementar Federal nº 51/1985 que foi recepcionada pela Constituição de 1988, segundo o entendimento do E. STF no julgamento da ADInº 3.817/DF – Sentença ratificada nos termos do art. 252 do Regimento Interno desta Egrégia Corte de Justiça – Reexame necessário desacolhido. Negado provimento ao recurso.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei Complementar nº 51/85), o que torna incognoscível o apelo extremo.
+    Cumpre ressaltar, ainda, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Cabe registrar, nesse contexto, que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 1.062/2008), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal, em aspectos fático- -probatórios e em interpretação de direito local:
+    “O autor é Investigador de Polícia efetivo, com mais de 20 anos de serviços em atividade estritamente policial e teve seu pedido indeferido administrativamente, sob o fundamento de que a Lei Complementar nº 51/85 não pode ser aplicada aos integrantes da carreira da polícia civil do Estado, com as regras da paridade de vencimentos.
+    …..................................................................................................
+    Ademais, verifica-se que no presente caso foram atendidos os requisitos constantes da Lei Complementar nº 51/85, em seu artigo 1º, que assim dispõe:
+    …..........................................................................................
+    Também foi observado o disposto na Lei Complementar nº 1.062/08, artigos 2º e 3º, que assim estabelecem:
+    …..........................................................................................
+    Os documentos apresentados comprovam que o autor ingressou na função de investigador de polícia em 23 de julho de 1989 (fls. 31), lá permanecendo até a data do ajuizamento da ação, em atividade considerada perigosa e insalubre, pelas circunstâncias em que deve ser prestada.
+    As provas dos autos comprovam que o autor preenche os requisitos de 20 anos de efetivo exercício em cargo de natureza estritamente policial.
+    Considerando que o autor preenche o tempo de serviço para a obtenção da aposentadoria especial e sendo inexigível a idade mínima para a concessão da aposentadoria especial pleiteada, por ter ele ingressado na carreira policial civil antes da vigência da EC 41/2003, de rigor a procedência do pedido para o fim de determinar a aplicação da Lei Complementar nº 51/1985 no que se refere à concessão da aposentadoria do autor, sendo de rigor o reconhecimento do direito aos proventos integrais, com as regras constitucionais da paridade.”
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 880.879/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.039.909/SP, Rel. Min. LUIZ FUX – ARE 1.119.209/SP, Rel. Min. EDSON FACHIN – ARE 1.130.835/SP, Rel. Min. ALEXANDRE DE MORAES, v.g.):
+    Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria especial. Lei Complementar 51/85. Paridade e integralidade. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+    3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09).
+    (ARE 1.087.201-AgR/SP, Rel. Min. DIAS TOFFOLI)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
