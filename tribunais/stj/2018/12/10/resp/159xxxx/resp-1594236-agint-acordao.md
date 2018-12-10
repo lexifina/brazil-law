@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. APLICAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação do art. 535 do CPC/1973 quando o Tribunal de origem enfrenta a omissão alegada nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente.
+3. O Superior Tribunal de Justiça reputa inadmissível o recurso especial que não impugna fundamento autônomo e suficiente à manutenção do aresto recorrido (Súmula 283 do STF).
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA:
+Trata-se de agravo interno manejado pela AGÊNCIA NACIONAL DE PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEL-ANP para desafiar decisão de minha lavra, em que conheci parcialmente do recurso especial, e, nessa extensão, neguei-lhe provimento, tendo em vista a a inexistência de violação do art. 535, II, do CPC/1973 e a incidência das Súmulas 283 do STF e 7 do STJ.
+No presente agravo interno, a parte agravante reitera a tese de negativa de prestação, ao argumento de que o Tribunal de origem não teria se manifestado a impossibilidade de aplicação direta ou subsidiária dos institutos da Microempresa e do Código Criminal à espécie, por ausência de previsão nas normas pertinentes ao exercício das atividades relativas ao abastecimento de combustíveis.
+Alega que impugnou todos os fundamentos do acórdão recorrido, tendo desenvolvido razões suficientes para demonstrar que os critérios a serem considerados na fixação da penalidade administrativa são, unicamente, os previstos nas Leis n. 9.784/1999 e 9.847/1999, as quais não preveem a adoção do critério da dupla visita.
+Defende, ainda, a desnecessidade de exame do conjunto fático-probatório para se chegar à conclusão de que é inaplicável a Lei Complementar n. 123/2006 ao caso concreto.
+Requer, assim, a reconsideração do decisum impugnado para que seja provido o recurso especial.
+Sem impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, à míngua de argumentos aptos a modificar a decisão agravada, esta deve ser mantida por seus próprios fundamentos.
+Inicialmente, calha registrar que não há violação do art. 535 do CPC/1973 se todas as questões necessárias ao desate da lide foram examinadas e decididas, ainda que em desacordo com o pleito da parte recorrente.
+No caso, em relação às omissões apontadas, o Tribunal de origem dirimiu a controvérsia, consignando o seguinte (e-STJ fl. 211):
+A matéria fática é incontroversa na medida em que as partes abriram mão de produzir provas além das documentais carreadas com a inicial e contestação. A autora reconheceu que comercializava sem autorização da ANP e, aparentemente, de forma clandestina, porquanto a alteração contratual onde consta atividade de revenda de gás é datada de 2013 enquanto a autuação ocorreu em 2011.
+No plano jurídico, dispõe o art. 55 da Lei Complementar 123/06:
+Art. 55. A fiscalização, no que se refere aos aspectos trabalhista, metrológico, sanitário, ambiental, de segurança e de uso e ocupação do solo das microempresas e empresas de pequeno porte deverá ter natureza prioritariamente orientadora, quando a atividade ou situação, por sua natureza. comportar grau de risco compatível com esse procedimento. (Redação dada pela Lei Complementar nº 147, de 7 de agosto de 2014)  sublinhado e negrito não originais .
+§ 1o Será observado o critério de dupla visita para lavratura de autos de infração, salvo quando for constatada infração por falta de registro de empregado ou anotação da Carteira de Trabalho e Previdência Social - CTPS, ou, ainda, na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+§ 3o Os órgãos e entidades competentes definirão, em 12 (doze) meses, as atividades e situações cujo grau de risco seja considerado alto, as quais não se sujeitarão ao disposto neste artigo.
+Como se vê a microempresa tem tratamento diferenciado e há precedentes do E. Tribunal Regional Federal da 4ª Região reconhecendo que a ANP deve obediência a este tratamento até porque consabido que lei complementar (LC 123) detém status superior à lei ordinária (Lei 9.847/99).  .. .
+No entanto, o critério da dupla visita pode ser desconsiderado se presente alguma das hipóteses referidas na parte final do art. 55 da Lei Complementar 123/2006 e no §1º e § 3o do mesmo dispositivo, entre elas a existência de risco incompatível com a adoção da dupla visita, assim como a ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+Na espécie, não se vislumbra risco incompatível com a adoção da dupla visita eis que foram apreendidos tão-só 06 botijões de GLP, tipo P-13, cheios, e 02 recipientes de GLP, do mesmo tipo, vazios.
+Ademais, forçoso convir que o julgador não está adstrito à fundamentação adotada no recurso para dirimir a demanda, assim como não está obrigado a refutar expressamente todas as teses aventadas pela defesa, desde que pela motivação apresentada seja possível aferir as razões pelas quais rejeitou as pretensões deduzidas.
+Nesse sentido, consulte-se o AgInt no REsp n. 1.223.128/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/06/2016, e o AgInt no REsp n. 1.554.431/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/09/2016.
+Outrossim, o Superior Tribunal de Justiça reputa inadmissível o recurso especial que não impugna fundamento autônomo e suficiente à manutenção do aresto recorrido, que, por essa razão, permanece incólume em face da incidência analógica do disposto no enunciado 283 da Súmula do STF (AgRg no AREsp 422.852/MA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/06/2016, DJe 23/06/2016, e AgRg no REsp 1573930/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/05/2016, DJe 01/06/2016).
+Na hipótese, conforme já exposto, a Corte estadual entendeu que "a microempresa tem tratamento diferenciado e há precedentes do E. Tribunal Regional Federal da 4ª Região reconhecendo que a ANP deve obediência a este tratamento até porque consabido que lei complementar (LC 123) detém status superior à lei ordinária (Lei 9.847/99)".
+Nas razões do especial, consoante assinalado na decisão agravada, a recorrente limitou-se a defender a inexistência de previsão legal para que haja dupla visitação anteriormente à aplicação da penalidade.
+Dessa forma, torna-se, de fato, inviável o conhecimento do apelo nobre quanto ao ponto, nos termos da Súmula 283 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
