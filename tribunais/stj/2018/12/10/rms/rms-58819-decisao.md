@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de recurso ordinário interposto pela Fazenda Pública do Estado de São Paulo, com base no art. 105, II, b, da CF, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 68):
+MANDADO DE SEGURANÇA ORIGINÁRIO ADIANTAMENTO DE HONORÁRIOS PERICIAIS EM AÇÃO CIVIL PÚBLICA Decisão que determinou o depósito dos honorários periciais prévios pela FESP Obrigação que deve mesmo ser suportada pela Fazenda Pública, com aplicação analógica da Súmula 232 do Eg.
+STJ Possibilidade Art. 18 da LACP (Lei n.º 7.347/85) Precedentes do C. STJ e do [NOME] - Ordem não concedida.
+A parte recorrente sustenta, em síntese, que: (I) restou superado o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.253.844/SC, submetido à sistemática dos recursos repetitivos, tendo em conta a revogação tácita da Súmula 232/STJ pelo art. 91, §§ 1º e 2º, do CPC/15; (II) o Ministério Público tem capacidade orçamentária própria e, portanto, pode arcar com as despesas referentes ao adiantamento de honorários periciais; (III) em face da ausência de lei e de dotação orçamentária, não é possível impor o ônus à Fazenda Pública.
+O Ministério Público Federal opinou pelo não provimento do recurso, nos termos assim resumidos (fl. 130):
+RECURSO EM MANDADO DE SEGURANÇA. AÇÃO CIVIL PÚBLICA. I - NAS AÇÕES CIVIS PÚBLICAS, NÃO CABE ADIANTAMENTO DE HONORÁRIOS PERICIAIS PELO MINISTÉRIO PÚBLICO. ART. 18 DA LACP. II - CABERÁ À FAZENDA PÚBLICA, À QUAL SE VINCULA O PARQUET, ARCAR COM OS ENCARGOS PARA A PRODUÇÃO DA PROVA PERICIAL. PRECEDENTES. III - AS DISPOSIÇÕES DO CPC/15 SOMENTE SE APLICAM NAQUILO QUE NÃO FOREM CONTRÁRIAS À LACP. INTELIGÊNCIA DO ART. 19 DA LEI Nº 7.347/95. IV - PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório. Passo a decidir.
+A Primeira Seção do Superior Tribunal de Justiça, ao apreciar, sob a sistemática dos recursos repetitivos, o REsp 1.253.844/SC, Relator Ministro Mauro Campbell Marques, assentou que não é possível exigir do Ministério Público o adiantamento de honorários periciais em ações civis públicas, devendo ser aplicada, por analogia, a Súmula 232/STJ, segundo a qual a Fazenda Pública à qual o Parquet se achar vinculado deve arcar com referida despesa.
+Nesse mesmo sentido, foram proferidas, entre outras, as seguintes decisões monocráticas, todas sob a égide do CPC/15: AREsp 768.220/SC, Relator Ministro Og Fernandes, DJe 28/9/2018; REsp 1.403.515/RS, Relator Ministro Gurgel de Faria, DJe 30/4/2018; REsp 1.375.596/SP, Relatora Ministra Regina Helena Costa, DJe 9/2/2018.
+Nesse contexto, como bem pontuou o parecer ministerial público, o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
