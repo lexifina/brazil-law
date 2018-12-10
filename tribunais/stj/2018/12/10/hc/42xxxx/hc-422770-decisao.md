@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Tocantins.
+Consta nos autos que o paciente teve sua prisão preventiva decretada em 13/01/2016, pela suposta prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu parcialmente do mandamus e, na parte conhecida denegou a ordem em decisão assim ementada:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. REITERAÇÃO DE PEDIDO. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA CUSTÓDIA PREVENTIVA PELA PRISÃO DOMICILIAR. REQUISITO MÍNIMO NÃO COMPROVADO. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM. 1- Sem a apresentação de novos fundamentos, não se mostra viável a mera reiteração de pedido de habeas corpus. 2- A prisão domiciliar não constitui direito subjetivo do acusado, mas, sim, faculdade do juiz, que, diante das hipóteses do art. 318, do Código de Processo Penal, e das particularidades do caso em concreto, deverá verificar a pertinência do deferimento ou não da medida. 3- Se não comprovada a situação de completo desamparo que aflige os filhos do Paciente, a ponto de evidenciar que este é o único responsável pelos cuidados daqueles, impossível a substituição da cautelar extrema pela prisão domiciliar com base no art.
+318, VI, do Código de Processo Penal. 4- Habeas Corpus parcialmente conhecido e, nesta parte, denegado."
+Neste writ, o impetrante alega que estão ausentes os requisitos autorizadores da custódia cautelar do paciente. Alega que o paciente possui dois filhos menores que necessitam dos seus cuidados, devendo ser colocado em prisão domiciliar.
+Assevera constrangimento ilegal decorrente do excesso de prazo para o julgamento da apelação interposta pela defesa no Tribunal de origem, encontrando-se o paciente segregado há mais de dois anos.
+Requer, assim, a concessão da ordem para que seja o paciente colocado em liberdade provisória.
+Liminar indeferida (e-STJ, fl.87).
+Informações apresentadas (e-STJ, fls.92-107, 110-126 e 130-132).
+Parecer do Ministério Público Federal pelo parcial conhecimento do writ e, na parte conhecida, pela sua denegação.(e-STJ, fls. 134-138).
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, em consulta ao sítio eletrônico do Tribunal de origem (Processo n.º 0016369-52.2017.827.0000 ), verifica-se que o recurso de apelação da acusação foi provido na data de 19/12/2017, ocasião em que a pena do paciente foi majorada para 21 anos, 10 meses e 15 dias de reclusão. Em 23/05/2018 a Corte local rejeitou os embargos declaratórios. Verifica-se, ainda, que, em 17/08/2017, foi instaurado o processo de execução provisória da pena (Processo nº 0013927-46.2017.827.2706).
+ Esta Corte tem-se pronunciado no sentido de que, sobrevindo o julgamento da apelação, fica prejudicado o exame dos fundamentos da custódia cautelar, porquanto a medida, a partir de então, passa a ter novo título judicial, que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 5/11/2015).
+Cumpre ressaltar, ainda, que a execução provisória da pena não se confunde com a prisão preventiva. Esta possui natureza cautelar e dever ser decretada quando presentes os requisitos dos arts. 312 e 313 do CPP e aquela decorre da condenação confirmada em segundo grau e ainda não transitada em julgado.
+Assim, perdeu o objeto a análise do pedido de revogação da preventiva, na medida em que o paciente encontra-se encarcerado para cumprimento da pena que lhe foi imposta.
+Ademais, com o julgamento do HC 126.292/SP pelo Supremo Tribunal Federal -Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, j. 17/2/2016 -, esta Corte Superior passou a adotar o entendimento de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal".
+Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ (HC 350.518/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/5/2016, DJe 24/5/2016).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
