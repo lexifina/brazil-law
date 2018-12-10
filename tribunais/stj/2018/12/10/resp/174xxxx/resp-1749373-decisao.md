@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO CÍVEL. DIREITO CIVIL. PROCESSUAL CIVIL E CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. INOVAÇÃO RECURSAL. LUCROS CESSANTES. OCORRÊNCIA. CONHECIMENTO PARCIAL DO RECURSO DA AUTORA. RESOLUÇÃO CONTRATUAL. INADIMPLÊNCIA. CONSTRUTORA. ATRASO NA ENTREGA DA OBRA. TOLERÂNCIA. 180 (CENTO E OITENTA) DIAS. EXTRAPOLAÇÃO. CULPA. FORNECEDORA. CONFIGURAÇÃO. VALORES PAGOS. DEVOLUÇÃO. INTEGRALIDADE. RETENÇÃO DE VALORES. VEDAÇÃO. CORRETAGEM. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. AJUIZAMENTO DA DEMANDA. INADEQUAÇÃO. DESEMBOLSO DOS VALORES. ADEQUAÇÃO. ÔNUS DE SUCUMBÊNCIA. HONORÁRIOS. NATUREZA DA SENTENÇA. PREVALÊNCIA. CONDENATÓRIA. ART. 20, §3º, ALÍNEAS "A", "B" E "C" DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO. SENTENÇA PARCIALMENTE REFORMADA. APELO DA PARTE AUTORA PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO. APELO DA PARTE RÉ CONHECIDO E NÃO PROVIDO.
+1. O pleito da autora que visa a condenação das rés ao pagamento de lucros cessantes decorrentes do atraso na entrega do imóvel, pelo período compreendido entre o fim do prazo de tolerância e a data da sentença que resolveu o contrato, importa inovação recursal, porquanto o pedido não é objeto da inicial, não tendo sido tratado em qualquer momento da demanda. Preliminar de inovação recursal suscitada de ofício. Recurso da autora parcialmente conhecido.
+2. No caso de resolução contratual por culpa da incorporadora/construtora/fornecedora, a restituição dos valores pagos pelo consumidor deve dar-se de forma integral, devidamente corrigidos, além dos juros de mora. Nesse caso, não há falar em retenção de quaisquer valores em favor da promitente vendedora; reconhecida culpada pela resolução do contrato.
+3. Não há dúvidas de que a pretensão à restituição da comissão de corretagem, por fundar-se em enriquecimento sem causa, está sujeita ao prazo prescricional trienal previsto no art. 206, § 3º, IV, do Código Civil. A regra prevista no referido artigo regula a pretensão da autora apelante, devendo, portanto ser aplicada ao caso. Havendo previsão do referido artigo não há que se falar em aplicação da prescrição decenal do art. 205 do Código Civil.
+4. No caso de resolução contratual por culpa da incorporadora/construtora, como a restituição dos valores pagos pelo consumidor deve dar-se de forma integral, impõe-se a incidência da correção monetária a partir de cada desembolso, e não a partir do ajuizamento da demanda.
+5. Tratando-se de sentença cuja natureza condenatória prevalece, tem lugar, para efeito de fixação da verba honorária, a incidência do art. 20, §3º, alíneas "a", "b" e "c" do Código de Processo Civil, cuja fixação se dará entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação.
+6. Recurso da autora parcialmente conhecido, e, na extensão, parcialmente provido. Recurso das rés conhecido e desprovido" (fls. 326/327 e-STJ).
+Os embargos de declaração opostos foram acolhidos para sanar omissão conforme a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. DIREITO DO CONSUMIDOR. DIREITO PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO. IMOBILIÁRIO. OMISSÃO. MORA CONSTRUTORA. EXPEDIÇÃO HABITE-SE. INSUFICIENTE. RETENÇÃO. INDEVIDA. RECURSO CONHECIDO E PROVIDO.
+1. Necessário o reconhecimento da omissão do julgado ao analisar contradição entre a fundamentação e o dispositivo do apelo.
+2. No caso em análise, a mera expedição da Carta de Habite-se não é capaz de afastar a mora das construtoras, uma vez que aquela não fora averbada ou as chaves do imóvel forma entregues.
+2.1. Reconhecida a mora das promitentes vendedoras, não há que se falar em direito de retenção dos valores pagos.
+3. O acórdão deverá ser integrado com o afastamento do direito de retenção.
+4. Recurso conhecido e provido. Acórdão reformado" (fl. 508 e-STJ).
+Nas razões do recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 1.040, III, do Código de Processo Civil de 2015 e 189, 205, 206, § 3º, IV, 389, 402 e 475 do Código Civil.
+Sustenta, em síntese, que a devolução dos valores pagos à promitente vendedora deve ser integral, incluída a comissão de corretagem, porquanto faz parte do dano material sofrido pelo inadimplemento contratual da recorrida. Alega que o termo inicial para cobrança da comissão de corretagem é o inadimplemento contratual, de acordo com a teoria actio nata (e-STJ fls. 524/538).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Busca a recorrente o reconhecimento de que o valor referente à comissão de corretagem deve ser devolvido porque a resolução do contrato decorreu de culpa exclusiva da requerida. Alega que não ocorreu prescrição porque o prazo começa a ser contado do inadimplemento contratual da empresa, qual seja, o atraso na entrega do imóvel.
+No entanto, o acórdão estadual afastou a prescrição e deu provimento à apelação da autora para determinar a devolução do valor correspondente à corretagem nos seguintes termos:
+"Isso posto, CONHEÇO parcialmente do recurso da autora, afasto a prescrição em relação à pretensão de restituição da corretagem e, na extensão, DOU-LHE PROVIMENTO, para o fim de determinar que a devolução dos valores vertidos se dê de forma integral, incluindo o valor da corretagem, em razão da resolução do contrato por culpa das rés, sem qualquer retenção em favor desta última. Os valores deverão ser corrigidos monetariamente pelo INPC a contar de cada desembolso" (e-STJ fl. 356).
+Dessa forma, falta à recorrente interesse recursal.
+Ante o exposto, não conheço do recurso especial.
+Deixo de fixar honorários recursais, nos termos do artigo 85, § 11, do CPC/2015, em razão da inexistência de condenação em honorários advocatícios na origem.
+Publique-se.
+Intimem-se.
