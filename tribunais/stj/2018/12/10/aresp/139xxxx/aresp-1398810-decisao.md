@@ -1,0 +1,57 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"Apelação cível. Embargos à execução. Agravo Retido. Cerceamento de defesa. Inocorrência. Produção de provas. Desnecessidade. Prova inócua. Argumentação genérica. Duplicatas. Protesto por indicação. Não configuração. Títulos idôneos. Entrega das mercadorias. Comprovação documental. Relação comercial configurada. Autenticidade das assinaturas. Impossibilidade de análise. Inovação recursal. Agravo retido desprovido e Recurso de apelação conhecido em parte e desprovido.
+2) Não há que se falar em cerceamento de defesa quando os elementos constantes dos autos permitem a análise dos pedidos formulados.
+2) O julgamento antecipado do feito não implica em cerceamento de defesa quando a prova requerida pela parte é irrelevante à solução da lide, como ocorre no caso presente.
+3) Não há dúvida nos autos acerca da relação comercial existente entre as partes, havendo também prova documental acerca da existência da dívida.
+4) A impugnação à autenticidade das assinaturas das notas fiscais não pode ser conhecida nesta esfera recursal, por se tratar de clara inovação recursal." (e-STJ, fl. 274)
+Opostos recursos de embargos de declaração, os mesmo foram rejeitados (e-STJ, fls. 303/306).
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 330, 355 e 369 do Código de Processo Civil de 2015 sustentando, em síntese, (a) que a parte agravante requereu a produção de provas por diversas vezes por entender que esta é necessária para comprovação de sua tese de que não teria recebido as mercadorias cobradas e que as assinaturas ali expostas não são de seus prepostos e (b) que o julgamento antecipado da lide importa em cerceamento de defesa por indeferir a produção probatória, pois a prova documental constante nos autos não seria suficiente.
+Apresentadas contrarrazões às fls. 369/378.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No tocante a suposta violação aos arts. 330, 355 e 369 do CPC/15, o Tribunal de origem concluiu não ter havido cerceamento de defesa com o julgamento antecipado da lide, pois a argumentação contida nos embargos à execução não se baseia no não recebimento de mercadorias, mas sim na falta de encaminhamento para aceite, bem como que a documentação juntada aos autos aponta para a assinatura de recebimento em todas as notas fiscais que acompanham a duplicata, sendo desnecessários a produção de outras provas, in verbis:
+"Inicialmente, pretende a apelante a análise do Agravo Retido de mov. 59.1, interposto em face da decisão que indeferiu a produção de provas nos autos, anunciando o julgamento antecipado da lide. Argumenta que haveria necessidade de produção de provas em audiência, a fim de comprovar a realidade acerca dos fatos alegados na inicial. Alega ainda que teria justificado a necessidade de produção das provas requeridas.
+Sem razão a apelante, não havendo que se falar em cerceamento de defesa.
+Isto porque, a argumentação trazida na inicial é genérica e em momento algum nega a existência da relação negociai entre as partes. O pedido formulado na inicial dos embargos à execução teve como fundamento, unicamente, a falta de encaminhamento dos títulos para aceite, não havendo qualquer alegação sobre o não recebimento das mercadorias.
+Da mesma forma, não há qualquer alegação nos autos no sentido de não ter recebido as mercadorias constantes das notas fiscais. Além disso, da análise das duplicatas juntadas com a inicial da execução, verifica-se que há assinatura de recebimento em todas as notas fiscais correspondentes.
+Desta forma, havendo nos autos todas as duplicatas, acompanhadas das notas fiscais, comprovantes de protesto e de entrega das mercadorias, desnecessária a produção de outras provas.
+A oitiva de testemunhas, da mesma forma, não é necessária, posto que a comprovação da entrega das mercadorias se dá pela via documental.
+Ocorre cerceamento do direito de ação (defesa) quando há a necessidade de produção de provas (colheita de depoimentos, perícia, etc.) e estas são ilegalmente indeferidas. Da mesma forma, ocorre o cerceamento de defesa, quando uma das partes deixa de ser intimada para se manifestar sobre documentos ou novas alegações trazidas pela parte contrária, o que não é o caso dos autos.
+Nos termos do art. 370 do CPC, o juiz é o destinatário das provas, e, portanto, cabe a ele analisar a necessidade da produção de novas provas.
+Na r. sentença, os pedidos formulados pela embargante foram analisados à luz dos documentos constantes nos autos, sendo levadas em consideração também as alegações das partes, de forma que não se pode acatar a alegação de cerceamento de defesa." (e-STJ, fls. 276/277)
+Primeiramente, o fundamento decisório no sentido de que os embargos à execução não alegam o não recebimento das mercadorias, tese que a parte alega ser objeto de produção de provas, não foi objeto de impugnação pela parte agravante e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia das Súmula 283 e 284 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Ademais, a Corte de origem concluiu pela desnecessidade de dilação probatória, pois as questões de fato estariam suficientemente esclarecidas pelos documentos acostados aos autos, sendo desnecessária a dilação probatória, conforme constatado pelo Juiz de direito no papel de destinatário das provas.
+Nesse ponto, a decisão está em consonância com a jurisprudência deste eg. Tribunal Superior, que se consolidou no sentido de reconhecer que a livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro, competindo ao magistrado zelar pela necessidade e utilidade da produção das provas requeridas.
+A propósito, confira-se:
+"PROCESSO CIVIL. PRODUÇÃO DE PROVA PERICIAL. LIVRE CONVENCIMENTO DO JUIZ.
+1. A hipótese de cabimento do recurso especial estabelecida na alínea "a" do inciso III do art. 105 da Constituição Federal não permite o revolvimento dos fatos e provas apresentados pela recorrente. Súmula nº 7/STJ.
+2. O Juiz tem, de acordo com as disposições do artigo 330, I, do CPC, o poder-dever de desprezar a produção de provas desnecessárias. Cabe a ele avaliar a necessidade ou não de realização de provas tendentes à formação de seu convencimento.
+3. Recurso especial não-conhecido."
+(REsp 404.936/RJ, Relator o Ministro JOÃO OTÁVIO DE NORONHA, DJe de 24/11/2008)
+"AGRAVO REGIMENTAL - AÇÃO REVISIONAL DE CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE - PRODUÇÃO DE PROVA PERICIAL - NECESSIDADE - LIVRE CONVENCIMENTO DO JULGADOR - ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO - IMPOSSIBILIDADE DE REEXAME - INTELIGÊNCIA DA SÚMULA N. 7/STJ - RECURSO IMPROVIDO.
+1. No sistema processual em vigor, o Juiz é o destinatário das provas, cabendo-lhe indeferir as que entender desnecessárias e determinar a produção daquelas que julgar essenciais ao deslinde da controvérsia.
+2. Alterar a conclusão das Instâncias ordinárias no sentido da imprescindibilidade de prova pericial é medida que encontra óbice na Súmula n. 7 desta Corte Superior.
+3. Agravo regimental improvido." (AgRg no Ag 1009348/SP, Rel. Min. MASSAMI UYEDA, 3ª Turma, DJe 01/08/2008)
+"PROCESSO CIVIL - TRIBUTÁRIO - ICMS - IMPORTAÇÃO SOB REGIME DE DRAWBACK - ÔNUS PROBATÓRIO E PRESUNÇÃO DE LEGITIMIDADE DA CDA - LAUDO PARTICULAR - INEXISTÊNCIA DE LAUDO PERICIAL - PRINCÍPIO DA LIVRE APRECIAÇÃO DA PROVA - INTERPRETAÇÃO TELEOLÓGICA - REVISÃO DE HONORÁRIOS - FIXAÇÃO RAZOÁVEL - QUESTÃO FÁTICO-PROBATÓRIA - SÚMULA 7/STJ - SUFICIÊNCIA DA PRESTAÇÃO JURISDICIONAL.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. O magistrado é o condutor da atividade probatória das partes, competindo-lhe zelar pela utilidade e necessidade da prova, inclusive para concluir pela suficiência de laudo pericial elaborado por entidade técnica idônea, dispensando a realização de perícia oficial.
+(..)
+7. Recurso especial conhecido em parte e, nessa parte, não provido." (REsp 1178414/MG, Relatora a Ministra ELIANA CALMON, DJe de 27.10.2010)
+Ademais, rever este entendimento quanto a necessidade de produção de outras provas demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1042 DO CPC/15) - AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C DESPEJO, ARBITRAMENTO E COBRANÇA DE ALUGUEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS RÉUS.
+1. A jurisprudência do STJ se firmou no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. As conclusões adotadas pelo órgão julgador no sentido de competir ao juiz decidir sobre a produção de provas necessárias, ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando em cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ.
+3. O Tribunal local, após análise do conjunto probatório constante dos autos, considerou que se insere no poder de livre apreciação da prova do magistrado decidir sobre a possibilidade de julgamento antecipado da lide, sendo que a pretensão recursal exige o revolvimento de fatos e provas, procedimento vedado por esta Corte Superior, a teor da Súmula 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1080264/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.000,00 (mil reais) para R$ 1.100,00 (mil e cem reais), ressalvada eventual concessão de justiça gratuita.
+Publique-se.
