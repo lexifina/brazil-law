@@ -1,0 +1,43 @@
+EMENTA
+TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL EXTINTA. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM CONFORMIDADE COM OS CRITÉRIOS PREVISTOS NO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 356/STF.
+I - A ausência de prequestionamento impede a ascensão da matéria à instância extraordinária por meio de recurso especial, incidindo o óbice dos enunciados n. 282 e n. 356 da Súmula do STF, aplicáveis ao caso por analogia.
+II - No caso dos autos, apesar de o Tribunal de origem, ao julgar a apelação, ter tratado da possibilidade de condenação do exequente em honorários advocatícios sucumbenciais em decorrência do acolhimento da exceção de pré-executividade, não debateu sobre a fixação dos honorários advocatícios em conformidade com os critérios previstos no art. 85 do CPC/2015.
+III - Agravo interno provido para não conhecer do recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo interno para não conhecer do recurso especial de Profarma Distribuidora de Produtos Farmacêuticos S.A, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de exceção de pré-executividade oposta por Profarma Distribuidora de Produtos Farmacêuticos S.A. nos autos de execução fiscal que lhe move a Fazenda do Estado de São Paulo.
+Na primeira instância, a execução fiscal foi extinta em razão do cancelamento da certidão de dívida ativa. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida em acórdão assim ementado:
+EXECUÇÃO FISCAL - Multa imposta por autos de infração lavrados em razão de irregular aproveitamento de crédito de /CMS em operações de aquisição de produtos farmacêuticos de estabelecimentos comerciais localizados no Distrito Federal - Exceção de pré-executividade ajuizada pela executada demonstrando a inexigibilidade do crédito fiscal - Condenação da Fazenda Pública ao pagamento de honorários advocaticios - Possibilidade - Arbitramento realizado em patamar adequado - Sentença mantida - Recursos não providos.
+Profarma Distribuidora de Produtos Farmacêuticos S.A. interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, por ofensa ao art. 85, § 3º, II e IV e § 5º do CPC/2015.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi dado provimento ao recurso especial para determinar o retorno dos autos ao Tribunal a quo para que realize a fixação dos honorários sucumbenciais nos termos prescritos pelo Código de Processo Civil de 2015 (fls. 339-342).
+No presente agravo interno, a parte alega em síntese que o recurso especial não deveria ter sido conhecido ante a ausência de prequestionamento da matéria, in verbis (fl. 348):
+ ..  não houve o devido enfrentamento dos dispositivos legais invocados nas razões do recurso especial, nem mesmo o debate expresso a respeito da matéria concernente ao valor dos honorários, nos termos da legislação processual civil. Discutiu-se somente o cabimento da condenação em honorários, mas, em nenhum momento, discutiu-se os critérios para seu arbitramento.
+Apresentadas contrarrazões, a parte agravada requer a manutenção da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Assiste razão à parte agravante.
+De fato, a matéria tratada no recurso especial não foi objeto de prequestionamento pelo Tribunal de origem, nem foram opostos embargos de declaração para tal finalidade.
+Apesar de o Tribunal de origem, ao julgar a apelação, ter tratado da possibilidade de condenação do exequente em honorários advocatícios sucumbenciais em decorrência do acolhimento da exceção de pré-executividade, não debateu sobre a fixação dos honorários advocatícios em conformidade com os critérios previstos no art. 85 do CPC/2015.
+Assim, o conhecimento do recurso especial encontra óbice nos enunciados n. 282 e n. 356 da Súmula do STF, aplicáveis ao caso por analogia, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse sentido é a jurisprudência desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AVIAÇÃO AGRÍCOLA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. INVIABILIDADE DA ANÁLISE DE RESOLUÇÃO DE CONSELHO PROFISSIONAL.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem apreciou integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+3. A Corte de origem nada teceu a respeito dos arts. 2º, § 2º, do Decreto-Lei 917/69. 2º, 5º, 6º, II, 15, do Decreto 86.765/81, apesar de instado a fazê-lo pelos embargos de declaração, razão pela qual incide o óbice da Súmula 211/STJ. "Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado". (AgRg no REsp n. 1.386.843/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/2/2014.)
+ 4. A matéria pertinente ao art. 97, I, do CTN também não foi objeto dos embargos declaratórios opostos perante o Tribunal a quo. Assim, não prospera o argumento tecido pela parte agravante para o afastamento do óbice previsto na Súmula 282/STF.
+5. O exame de eventual violação dos demais dispositivos tidos por contrariados pela agravante exigiria a análise das Resoluções do CONFEA, pretensão insuscetível de ser apreciada em recurso especial. Isso porque tais resoluções não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.035.738/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe 23/2/2017.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO DE CANDIDATO EM CADASTRO DE RESERVA. PRETERIÇÃO. MANUTENÇÃO DE SERVIDORES CONTRATADOS IRREGULARMENTE. PRESTAÇÃO JURISDICIONAL INADEQUADA. DESCARACTERIZAÇÃO DA OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CONTRADIÇÃO EXTERNA. HIPÓTESE DE CABIMENTO INEXISTENTE PARA OS EMBARGOS DE DECLARAÇÃO. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. VIOLAÇÃO A NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+ ..
+6. O prequestionamento advém do debate da temática processual à luz de determinado preceito legal federal, ou seja, é forçoso que o Tribunal da origem interprete os fatos processuais e sobre eles proceda juízo de valor para adequa-los ou não a determinado preceptivo federal, realizando assim a subsunção do fato à norma, o que absolutamente inexistiu no acórdão da origem, que não se sustentou nos arts. 130, 131, 331, § 2.º, 333, inciso I, 436, 437, 438 e 439, todos do [PLACA], mas apenas na Lei 8.112/1990 e na Constituição da República.
+7. O prequestionamento não é a indicação do preceito legal, mas o debate de determinada tese de acordo com certa norma jurídica (inscrita no preceito), de maneira a que a falta de apontamento de lei não importa a falta de prequestionamento, mas tampouco a ausência de debate significa o prequestionamento ""implícito"".
+8. Agravo regimental não provido.
+(AgRg no REsp n. 1.581.104/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/4/2016, DJe 15/4/2016.)
+Ante o exposto, dou provimento ao agravo interno para não conhecer do recurso especial.
+É o voto.
