@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CÁRCERE – INSTALAÇÕES – ESTADO –OMISSÃO – DANO MORAL –REPARAÇÃO – PRECEDENTE – PROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul, reformando o entendimento do Juízo, julgou improcedente o pedido de indenização por danos morais. No extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação do artigo 37, § 6º, da Constituição Federal. Aponta responsabilidade civil do Estado por não oferecer tratamento digno aos presos.
+    2. Sobre o tema de fundo, a decisão proferida está em desconformidade com a jurisprudência do Supremo. O Pleno, no recurso extraordinário nº 580.252, relator o ministro Alexandre de Moraes, acórdão veiculado no Diário da Justiça de 11 de setembro de 2017, assentou, sob o ângulo da repercussão geral, a obrigação do Estado em ressarcir danos, inclusive morais causados aos detentos em virtude da falta ou da insuficiência de condições legais de recolhimento. Concluiu que a garantia mínima de segurança pessoal, física e psíquica dos presos constitui dever estatal, sendo incabível o princípio da reserva do possível.
+    O Estado está compelido pela Lei Maior a manter e preservar a integridade física e moral do preso. A omissão é conducente ao controle judicial, uma vez em jogo direito fundamental versado na Constituição Federal.
+    3. Conheço do agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea a do artigo 102 da Constituição Federal. Considerado o precedente do Plenário, provejo o extraordinário para, reformando o acórdão recorrido, restabelecer o contido na sentença.
+    4. Publiquem.
+Brasília, 10 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
