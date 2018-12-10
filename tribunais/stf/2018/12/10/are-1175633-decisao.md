@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Oitava Turma do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, p. 85):
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APOSENTADORIA. NOVOS TETOS ESTIPULADOS PELAS EMENDAS CONSTITUCIONAIS N. 20/98 E N. 41/2003. RE 564.354. INAPLICABILIDADE. NÃO COMPROVADA A LIMITAÇÃO DO SALÁRIO-DE-BENEFÍCIO.
+    1. O Supremo Tribunal Federal, em sessão plenária, por ocasião do julgamento do Recurso Extraordinário 564.354, decidiu pela aplicação imediata das regras estabelecidas no artigo 14 da Emenda Constitucional 20, de 15.12.98, e artigo 5º, da Emenda Constitucional 41, de 19.12.03, aos benefícios previdenciários limitados em seu teto por ocasião do cálculo da renda mensal inicial.
+    2. Estabelecidos os tetos, respectivamente, em 15.12.98 (EC 20/98) e 19.12.03 (EC 41/03), nos valores de R$ 1.200,00(um mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), deverão ser revistas as rendas mensais dos benefícios cujas datas de início ocorreram anteriormente à promulgação das referidas normas constitucionais e que sofreram limitação.
+    3. Não comprovada a limitação do salário-de-benefício da aposentadoria à época da concessão, inaplicáveis ao caso as alterações introduzidas pelas Emendas Constitucionais n. 20/98 e 41/2003.
+    4. Apelação da parte autora desprovida.”
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aduz-se ofensa ao artigo 194 da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, que “(...) os reajustes da renda mensal do benefício recebido pelo Demandante foram efetuados de forma equivocada, eis que os índices de reajustes foram aplicados diretamente sobre a renda mensal do benefício, excluindo definitivamente os valores que excederam o limite teto dos salários de contribuição no momento da concessão do benefício.” (eDOC 1, p. 111):
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, verifica-se que as razões do apelo extremo estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso a Súmula 284 desta Corte. Isso porque o Tribunal de origem concluiu que, “verifica-se que o salário-de-benefício da aposentadoria, equivalente a R$ 544,93, não foi limitado ao teto previdenciário vigente à época da concessão em 30/8/1994”, (eDOC 1, p.84), argumento não rechaçado pelo recorrente.
+    Incide, portanto, a Súmula 284 do STF. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. APLICAÇÃO DA SÚMULA 284/STF. REINTEGRAÇÃO DE POSSE. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO ÓBICE DA SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 12.3.2013. Ausente a indicação do dispositivo constitucional tido por violado pelo acórdão recorrido, incide, na espécie, o entendimento jurisprudencial vertido na Súmula 284/STF. Divergir do entendimento do Tribunal a quo no tocante à possibilidade de reintegração de posse demandaria a análise da legislação infraconstitucional aplicável à espécie, bem como a reelaboração da moldura fática delineada na origem, inviável em sede recursal extraordinária. Aplicação da Súmula 279/STF: Para simples reexame de prova não cabe recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido.” (ARE 801+459-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 04.06.2014).
+    Quanto ao mais, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
