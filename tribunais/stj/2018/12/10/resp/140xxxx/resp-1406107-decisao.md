@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDULVIGE MARIA MENSAGE FIOREZE e OUTROS fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"EMENTA - APELAÇÃO CÍVEL - IMISSÃO NA POSSE - APELAÇÃO CÍVEL - PRELIMINAR SUSCITADA DE OFÍCIO - IMPUGNAÇÃO RECURSAL PREMATURA, DEDUZIDA EM DATA ANTERIOR À DA PUBLICAÇÃO DA SENTENÇA RECORRIDA - INTEMPESTIVO - NÃO CONHECIMENTO DO RECURSO - MÉRITO - INSTAURAÇÃO DE INCIDENTE DE FALSIDADE - PRECLUSÃO - PROVIMENTO NEGADO - PRELIMINAR DE NÃO CONHECIMENTO DE ALGUMAS TESES RECURSAIS - ARGUIDA DE OFÍCIO - MATÉRIA INÚTIL AO RECORRENTE - AUSÊNCIA DE INTERESSE RECURSAL - LITIGÂNCIA DE MÁ-FÉ - NÃO CONFIGURADA - VERBA HONORÁRIA MANTIDA.
+A intempestividade dos recursos tanto pode derivar de impugnações prematuras (que se antecipam à publicação da sentença) quando decorrer de oposições tardias (que se registram após o decurso dos prazos recursais).
+Em qualquer das duas situações impugnação prematura ou oposição tardia, a consequência de ordem processual é uma só: o não conhecimento do recurso, por efeito de sua extemporânea interposição.
+Resta precluso o requerimento de instauração de incidente de falsidade de documento se este não é postulado dentro do prazo estabelecido no art.390, do CPC.
+Não deve ser objeto de conhecimento matéria versada em recurso que não enseja qualquer utilidade ao recorrente, inexistindo efetiva sucumbência, o que impede a caracterização de interesse recursal.
+Inaplicável a litigância de má-fé se não resta visualizada a sua adequação a qualquer uma das hipóteses previstas nos incisos do artigo 17 do Código de Processo Civil." (fls. 1059)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam violação aos arts. 17, I e II, 20, §4º, 515, 535, II, do Código de Processo Civil de 1973 sustentando, em síntese existência de omissão no acórdão recorrido quanto às questões suscitadas nos embargos de declaração, notadamente quanto à "revogação da tutela antecipada e prejuízos e à alienação ineficaz do bem imóvel para terceiros". (fls. 1098-1107)
+Devidamente intimada, a parte recorrida não se manifestou.
+É o relatório.
+Consoante se extrai dos autos, verifica-se que o Tribunal a quo não se manifestou sobre as alegações dos recorrentes, suscitadas em apelação e embargos de declaração, quanto ao "direito à indenização decorrente da cassação da tutela antecipada na causa prevista no art. 811, par. único, do CPC", "alienação da coisa litigiosa (imóvel em questão) para terceiros, impondo-se a sua ineficácia, conforme preconizam os arts. 42, § 3o, do CPC, art. 334, inc. IV, do CPC, c.c., art. 1º, da Lei no 7.433/85" e "quanto a analise de importante suporte fatico, que dá ensejo à incidência do art. 17, incisos I e II, do CPC" (fls. 1072-1080).
+No entanto, não houve enfrentamento dos temas, restando, portanto, omisso o acórdão recorrido, o que impõe o reconhecimento da alegada violação ao art. 535 do CPC/73.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre os pontos omissos, nos termos da fundamentação acima.
+Publique-se.
