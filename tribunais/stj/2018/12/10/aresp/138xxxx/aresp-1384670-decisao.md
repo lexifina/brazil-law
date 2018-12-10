@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça de São Paulo, majorando para 5 (cinco) anos e 6 (seis) meses de reclusão, em regime fechado, mais 13 (treze) dias-multa, a pena imposta a DEIVID NUNES VALENTIM, incurso no art. 157, §2º, I e II, do Código Penal.
+Nas razões do especial, fulcrado na alínea "a" do permissivo constitucional, alega a Defensoria Pública contrariedade aos arts. 1º, 59 e 157, §2º do Código Penal; ao art. 9º da Convenção Americana de Direitos Humanos; ao art. XI da Declaração Universal dos Direitos Humanos; e ao art. 381, III, do Código de Processo Penal.
+Invocando a Súm n. 443/STJ, aduz, em síntese, que, na terceira fase da dosimetria, foram utilizados critérios meramente matemáticos para a escolha do percentual de 3/8 (três oitavos), em razão da presença de duas causas de aumento. Não houve justificativa concreta a embasar a aplicação de quantum superior a 1/3 (um terço).
+Pugna, ao final, pelo provimento do recurso, fixando o quantum de 1/3 de aumento na terceira fase da dosimetria.
+Contra-arrazoado (e-STJ fl. 198/204), o recurso foi inadmitido (e-STJ fls. 207/208), motivando o presente agravo.
+Contraminuta às e-STJ fls. 232/237 e manifestação ministerial, nesta instância, pelo desprovimento do agravo, em parecer assim ementado (e-STJ fl. 250):
+AGRAVO DE INSTRUMENTO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. INCURSÃO EM MATÉRIA FÁTICO PROBATÓRIA. SÚMULA 7/STJ.
+É o relatório. Decido.
+O agravo é tempestivo e foram impugnados os fundamentos do despacho de inadmissibilidade.
+Passo, então, a análise do mérito do recurso especial.
+Com razão a defesa quando se insurge contra o aumento em 3/8 (três oitavos), devido à presença de duas causas de aumento (art. 157, §2º, I e II, do Código Penal).
+Veja o que disse o Tribunal a quo, ao majorar para 3/8 (três oitavos) o aumento em razão da presença de duas majorantes,na terceira fase da dosimetria (e-STJ fl. 169):
+Deste modo, as penas serão modificadas. As básicas devem permanecer no patamar mínimo legal. Fica mantida a compensação entre a agravante da reincidência (cf. fls. 89) e a atenuante da confissão. E, por fim, em razão do concurso de agentes e do emprego de arma de fogo, aplica-se o aumento de três oitavos, índice este recomendado pela Jurisprudência reinante, pois quanto mais presentes se fazem estas causas específicas do tipo, mais grave é a representação do delito para a vítima, fazendo com que suas sanções totalizem em cinco anos e seis meses de reclusão e treze dias-multa.
+Como se pode observar, a pena foi majorada em 3/8 (três oitavos), unicamente, em razão da presença de duas causas de aumento.
+É pacífica a jurisprudência desta Corte de que, para a elevação da pena em fração superior a 1/3 (um terço), na terceira fase da dosimetria, no crime de roubo, é insuficiente a menção ao número de majorantes, sendo indispensável motivação concreta, calcada nas características do delito, tanto que foi editada a Súmula n. 443/STJ, segundo a qual o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+É o caso de incidência da referida súmula, uma vez que a escolha da fração acima do mínimo estabelecido pela norma penal não está calcada em nenhum fato concreto, a não ser o número de majorantes.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. VIOLAÇÃO DA SÚMULA 443/STJ. AUSÊNCIA DE MOTIVAÇÃO CONCRETA PARA INCREMENTO SUPERIOR AO MÍNIMO LEGAL. PENA REVISTA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. No que tange à terceira fase do procedimento dosimétrico, a sentença aplicou a fração de 2/5 (dois quintos) para majorar as penas tão somente em razão das duas causas de aumento reconhecidas, sem apoio em elementos concretos do delito. Incide, portanto, à espécie o disposto na Súmula 443 desta Corte. Nesse contexto, deve ser reconhecida a incidência da fração de 1/3 (um terço) na terceira fase da dosimetria. Dessa forma, fazendo incidir a fração de aumento do concurso formal de 1/5, nos termos do decidido pelas instâncias ordinárias, chega-se à pena definitiva de 6 anos e 5 meses de reclusão para os três crimes de roubo.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena do paciente para 6 anos e 5 meses de reclusão. (HC 437.458/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/03/2018, DJe 26/03/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO MAJORADO. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. SÚMULA N. 443 DO STF. IMPOSIÇÃO DO REGIME FECHADO. CARÊNCIA DE FUNDAMENTAÇÃO VÁLIDA. SÚMULA 440/STJ. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - Na hipótese, verifica-se que a exasperação da pena em 3/8 (três oitavos) foi efetivada sem a devida fundamentação, pois decorreu, tão somente, pelo fato da presença de duas majorantes (emprego de arma e concurso de pessoas). Nesse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula 443/STJ. Precedentes.
+III - In casu, o regime fechado foi determinado somente com base na reprodução das elementares do tipo do delito de roubo majorado e em considerações vagas e genéricas relativas às circunstâncias do crime, não sendo apresentado fundamento concreto para imposição do regime mais gravoso. Desse modo, sendo o paciente primário e fixada a pena-base no mínimo legal, bem como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto se mostra o mais adequado para o resgate das reprimendas, nos termos do art. 33, § 2º, "b", do Código Penal.
+Precedentes.
+Habeas corpus não conhecido. Ordem concedida de ofício, para fixar a pena do paciente em 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime semiaberto, mais ao pagamento de 13 (treze) dias-multa, mantidos os demais termos da condenação. (HC 429.250/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+Impõe-se, assim, reduzir ao patamar mínimo (1/3) a fração de aumento da pena, na terceira fase da dosimetria.
+Passo, então, ao redimensionamento da pena.
+Na primeira fase, mantenho a pena-base em 4 (quatro) anos de reclusão, mais 10 (dez) dias-multa.
+Na segunda fase, mantenho a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+Na terceira fase, reduzo a 1/3 (um terço) o aumento devido à presença de duas majorantes, chegando-se ao quantum definitivo de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime fechado, mais 13 (treze) dias-multa.
+Mantenho os demais termos do acórdão recorrido.
+Ante o exposto, com fulcro no art. 932, inciso V, "a", do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo e dou provimento ao recurso especial, para, reduzido a 1/3 (um terço) o aumento na terceira fase da dosimetria, fixar a pena do recorrente em 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime fechado, mais 13 (treze) dias-multa.
+Publique-se. Intime-se.
