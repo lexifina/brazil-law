@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRE SOUSA PACHECO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2032771-70.2018.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 3 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, e 17 dias-multa, pela prática do crime previsto no art. 14, caput, da Lei n. 10.826/2003 (fls. 192/194).
+Inconformada, a defesa impetrou habeas corpus perante a Corte local, a qual indeferiu a ordem (fls. 216/221).
+No presente mandamus (fls. 1/18), o impetrante sustenta que a sentença impôs flagrante constrangimento ilegal ao paciente, pois deixou de compensar a agravante de reincidência com a atenuante de confissão espontânea; deixou de fundamentar a necessidade de manutenção da custódia provisória do paciente, violando o disposto no art. 387, § 1º, do Código de Processo Penal; e, por fim, fixou o regime inicial fechado em desacordo com o disposto nas Súmulas n. 440/STJ, 718 e 719/STF.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que seja expedido alvará de soltura, para que o paciente possa recorrer em liberdade; e, subsidiariamente, requer-se, ao menos, seja deferida ao paciente com amparo no disposto do artigo 387 § 1º do CPP o direito de ser imediatamente transferido para o regime semiaberto.
+O pedido liminar foi indeferido (fls. 225/227).
+O Ministério Público Federal manifestou-se pela concessão da ordem apenas para compensar a atenuante de confissão espontânea com a agravante de reincidência (fls. 271/275).
+É o relatório. Decido.
+Consoante informações obtidas na página eletrônica do Tribunal de Justiça do Estado de São Paulo, a referida Corte, em julgamento realizado em 27 de novembro do corrente ano, por votação unânime, proveu o apelo interposto pela defesa do paciente para fixar as penas do paciente em 3 anos, 1 mês e 10 dias de reclusão, em regime aberto, e 14 dias-multa, no valor mínimo legal, mantida, quanto ao mais, a sentença recorrida.
+Verifica-se, assim, que esta impetração perdeu o objeto, porquanto os seus argumentos voltam-se contra os fundamentos apresentados na sentença condenatória, situação processual já alterada em razão do superveniente julgamento do recurso de apelação, inclusive com o provimento da apelação defensiva para diminuir a pena aplicada e fixar o regime inicial aberto.
+De outro lado, o acórdão impugnado, proferido no julgamento do HC n. 2032771-70.2018.8.26.0000, não versou sobre a dosimetria da pena, de forma que a análise do tema, por esta Corte, implicaria indevida supressão da instância.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intime-se.
