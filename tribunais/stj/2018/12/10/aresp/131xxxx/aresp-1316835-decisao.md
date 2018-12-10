@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). DANO MORAL. ERRO MÉDICO. EXAME DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DANO. REDUÇÃO DO VALOR. TESE NÃO PREQUESTIONADA. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO PARA SANAR EVENTUAL OMISSÃO. APLICAÇÃO DAS SÚMULAS NºS 282 E 356/STF. DANO MORAL. RESPONSABILIDADE. CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESTA EXTENSÃO NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CAPA SERVICOS MEDICOS LTDA E OUTRO, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS, CUMULADA COM DANOS ESTÉTICOS E PATRIMONIAIS. ERRO MÉDICO. CIRURGIA ESTÉTICA. ILEGITIMIDADE DA ASSOCIAÇÃO MANTENEDORA DO HOSPITAL ERNESTO DORNELLES. MANUTENÇÃO DA CONDENAÇÃO DOS DEMANDADOS. PROVA PERICIAL E ORAL.
+Apelo da Associação provido e apelos dos demandados desprovidos.
+Opostos embargos de declaração, estes foram rejeitados (e-ST fls. 666/673).
+Em seu recurso especial, os recorrentes alegam ofensa aos arts. 93, IX da CF; 11, 489, § 1º e 1022, parágrafo único, II do CPC; 14, § 3º, I e II do CDC e 186 do CC, sustentando, em síntese, negativa de prestação jurisdicional; ausência de má prestação do serviço e excesso no valor arbitrado à título de indenização.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Preliminarmente, em recurso especial não cabe invocar ofensa à norma constitucional, razão pela qual o presente recurso não pode ser conhecido relativamente à apontada violação ao artigo 93, IX da Constituição Federal.
+No que concerne à negativa de prestação jurisdicional, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação. Ademais, o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Quanto ao valor arbitrado à título de dano, verifica-se que a tese invocada nas razões do apelo nobre de excesso no valor da condenação, não foi apreciada pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, ante a ausência do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Quanto à alegação de ausência de má prestação do serviço, o Tribunal de origem assim decidiu:
+Restou evidente da prova colhida que o processo infeccioso na cicatriz abdominal já estava instalado antes do dia agendado para a primeira revisão pós -cirúrgica. A conduta médica foi iniciar desbrodamentos parciais do tecido necrosado. Ao longo de quase todo mês de setembro/2010 a autora viveu uma rotina de remoção do tecido necrosado, mantido o corte aberto, e de curativos, até a segunda cirurgia para correção da cicatriz. O médico quer eximir-se de responsabilidade, alegando que a autora não seguiu as orientações recebidas, em especial, de não fumar, o que teria sido dito por Eva no curso do tratamento para desbridamento total do tecido de borda da cicatriz necrosado.
+Ora, a autora preencheu formulário da Clínica, negou ser fumante. A técnica de enfermagem que tratou os curativos é vizinha de Eva e negou que a demandante tenha fumado alguma vez.
+Não houve conduta da autora que justificasse a necrose do tecido operado. Por circunstâncias da própria cirurgia na região abdominal, o organismo da autora não respondeu bem. Nos demais procedimentos não houve problema. Na realidade, o médico [NOME], para satisfazer desejo da autora, sem avaliar clinicamente mais amiúde as condições da paciente de suportar três procedimentos em um só momento, deixando prévia alta no final da tarde, arriscou, agiu de forma negligente, também na fase de desbridamentos parcial do tecido necrosado. Os três procedimentos exigem a certeza de um corpo sadio e pleno conhecimento das condições da paciente para iniciar a recuperação em casa. Pode até ser comum o procedimento médico, mas o risco de complicações aumenta fora da estrutura hospitalar. Errou o demandado, sem sombra de dúvidas.(e-STJ fl. 650).
+Nos termos acima, restou caracterizada a responsabilidade dos recorrentes pelo evento danoso, haja vista a negligência dos recorrentes. Assim, chegar a conclusão diversa acerca da não ocorrência de negligência exigiria o reexame de provas e das circunstâncias fáticas delineadas nas instâncias ordinárias o que se mostra inviável na via especial, a teor da Súmula nº 7/STJ.
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e nesta extensão negar-lhe provimento.
+Intimem-se.
