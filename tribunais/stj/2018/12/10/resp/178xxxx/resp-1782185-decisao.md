@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ Fl. 80):
+"Apelação cível. Processo civil. Ação declaratória e reparatória. Inclusão indevida. Órgãos de proteção ao crédito.
+Pessoa jurídica. Dívida quitada no prazo de vencimento. Dano moral.
+In re ipsa. Indenização. Valor. Razoabilidade e proporcionalidade."
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a agravante inicialmente requer a dispensa do preparo recursal e a concessão dos benefícios da assistência judiciária gratuita, sob o argumento de que é uma sociedade de economia mista que se encontra em estado de insolvência.
+No mérito aponta violação dos arts. 186, 927 e 944 do CC. Sustenta, em síntese, que o valor do dano moral foi fixado em valor excessivo, "sem se atentar devidamente para a situação econômica da Caerd que é de extrema insolvência" (fl. 100).
+Apresentadas contrarrazões às fls. 125/137.
+O pedido de concessão da justiça gratuita foi deferido pelo Tribunal de origem à fl. 140.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o acórdão recorrido foi publicado na vigência do novo CPC, motivo pelo qual o presente recurso será examinado à luz do Enunciado Administrativo nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De outro lado, não prosperar a insurgência em relação ao valor da indenização por danos morais.
+O Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+No presente caso, o valor da indenização por danos morais, arbitrado em R$ 5.000,00 (cinco mil reais), não é exorbitante nem desproporcional aos danos sofridos pelo agravado. Destaca-se, nesse sentido, o seguinte trecho do acórdão recorrido (fl. 85)
+ "No tocante ao quantum indenizatório, é sabido que, na quantificação da indenização por dano moral, deve o julgador, valendo-se de seu bom senso prático e adstrito ao caso concreto, arbitrar, pautado nos princípios da razoabilidade e proporcionalidade, um valor justo ao ressarcimento do dano extrapatrimonial.
+ Neste propósito, impõe-se que o magistrado fique atento às condições do ofensor, do ofendido e do bem jurídico lesado, assim como à intensidade e duração do sofrimento, e à reprovação da conduta do ofensor, não se olvidando, contudo, que o ressarcimento da lesão ao patrimônio moral deve ser suficiente para recompor os prejuízos suportados, sem importar em enriquecimento sem causa da vítima.
+ Na espécie, levando-se em consideração as condições econômicas e sociais do ofendido e do ofensor; considerando, principalmente, a reprovabilidade da conduta do requerido; o caráter coercitivo e pedagógico da indenização; os princípios da proporcionalidade e razoabilidade; não se descuidando também que a reparação não pode servir de causa ao enriquecimento injustificado; entendo suficiente a quantia de R$ 5.000,00 (cinco mil reais), atentando-se às peculiaridades do caso.
+ Gize-se que tal valor se mostra consentâneo com os precedentes da Corte para negativações indevidas".
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro honorários advocatícios devidos ao recorrido de 20% para 21%, observado o benefício da assistência judiciária concedido.
+Publique-se.
