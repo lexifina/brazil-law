@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto pelo DISTRITO FEDERAL, com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO. TRIBUTÁRIO. PROCESSUAL CIVIL. ARROLAMENTO SUMÁRIO. PARTILHA AMIGÁVEL. HOMOLOGAÇÃO. SENTENÇA. PRÉVIA QUITAÇÃO. TRIBUTOS. DESNECESSIDADE. SENTENÇA MANTIDA.
+1. O Código de Processo Civil de 2015 dispõe que, no caso de Arrolamento Sumário, a partilha amigável será homologada de plano pelo Juiz e, transitada em julgado a Sentença, serão expedidos os Alvarás referentes aos bens e rendas por ele abrangidos. Somente após, será o fisco intimado para lançamento administrativo do imposto de transmissão e de outros tributos, porventura incidentes.
+2. Consoante entendimento jurisprudencial e doutrinário, não é necessária a prévia comprovação da quitação do ITCD - Imposto Sobre Transmissão Causa Mortis e Doação e demais tributos eventualmente devidos pelo Espólio para que haja a homologação da partilha e a expedição do formal.
+3. Não se trata de tratamento mais gravoso conferido à Fazenda Pública, pois, para a averbação do registro da Partilha no Cartório Imobiliário Competente, é necessário o prévio recolhimento do imposto, consoante determina o artigo 143 da Lei de Registros Públicos.
+4. Não procede a alegação de violação aos preceitos insertos na Constituição Federal em seu artigo 146, III, "b", porquanto o Código de Processo Civil tão somente disciplinou o procedimento, sem afastar a incidência da legislação tributária em relação ao lançamento e à cobrança do Imposto Sobre Transmissão Causa Mortis e Doação.
+5. Apelação conhecida e desprovida. Sentença mantida" (fls. 139-140 e-STJ).
+Cinge-se a controvérsia a saber se é cabível, no arrolamento, condicionar a expedição do formal de partilha à comprovação de quitação do ITCMD e demais tributos devidos pelo espólio.
+Com efeito, as Turmas que compõem a Primeira Seção desta Corte Superior firmaram entendimento no sentido de que não há como se exigir o ITCMD antes do reconhecimento judicial do direitos dos sucessores, seja no arrolamento sumário ou no comum, tendo em vista as características peculiares da transmissão causa mortis.
+A propósito:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO DEMONSTRADA. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO. DECADÊNCIA. TERMO INICIAL. HOMOLOGAÇÃO DOS CÁLCULOS.
+1. Não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada.
+2. Na sistemática de apuração do ITCMD, há que observar, inicialmente, o disposto no art. 35, parágrafo único, do CTN, segundo o qual, nas transmissões causa mortis, ocorrem tantos fatos geradores distintos quantos sejam os herdeiros ou legatários.
+3. Embora a herança seja transmitida, desde logo, com a abertura da sucessão (art. 1.784 do Código Civil), a exigibilidade do imposto sucessório fica na dependência da precisa identificação do patrimônio transferido e dos herdeiros ou legatários, para que sejam apurados os "tantos fatos geradores distintos" a que alude o citado parágrafo único do art. 35, sendo essa a lógica que inspirou a edição das Súmulas 112, 113 e 114 do STF.
+4. O regime do ITCMD revela, portanto, que apenas com a prolação da sentença de homologação da partilha é possível identificar perfeitamente os aspectos material, pessoal e quantitativo da hipótese normativa, tornando possível a realização do lançamento (cf. REsp 752.808/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 17.5.2007, DJ 4.6.2007, p. 306; AgRg no REsp 1257451/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 6.9.2011, DJe 13.9.2011).
+5. Pelas características da transmissão causa mortis, não há como exigir o imposto antes do reconhecimento judicial do direito dos sucessores, seja mediante Arrolamento Sumário, seja na forma de Inventário, procedimento mais complexo.
+6. Recurso Especial não provido" (STJ, REsp 1.660.491/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. ARROLAMENTO SUMÁRIO. DISCUSSÃO ACERCA DO IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS (ITCMD) E APRESENTAÇÃO DE DOCUMENTOS AO FISCO. NÃO CABIMENTO.
+I - Incabíveis discussões a respeito do ITCMD ou de exigência de documentos pelo Fisco no curso do procedimento sumário de arrolamento.
+II - A homologação da partilha não pressupõe atendimento a obrigações tributárias acessórias relativas ao imposto sobre transmissão ou à ratificação dos valores pelo Fisco estadual;
+somente após o trânsito em julgado da sentença homologatória é que a Fazenda verificará a correção dos montantes recolhidos, como condição para a expedição e a entrega do formal de partilha e dos alvarás.
+III - A Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+IV - Agravo regimental improvido" (STJ, AgRg no AREsp 270.270/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 31/08/2015).
+Dessa forma, da leitura dos mencionados precedentes e do artigo 9º, § 1º, inciso IX, do Regimento Interno do Superior Tribunal de Justiça, se infere que a matéria é de competência da Primeira Seção e de suas respectivas Turmas.
+Ante o exposto, determino a redistribuição dos autos.
+Publique-se.
+Intimem-se.
