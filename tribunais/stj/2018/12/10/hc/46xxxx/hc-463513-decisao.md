@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente cumpre pena, em regime fechado, na penitenciária [NOME] e que teve indeferido, pelo Juízo singular, pedido de transferência à APAC de Nova Lima (MG).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, cuja ordem foi denegada em acórdão assim ementado:
+
+"EMENTA: "HABEAS CORPUS" - EXECUÇÃO PENAL - TRANSFERÊNCIA DO PACIENTE PARA A APAC - IMPOSSIBILIDADE - COMPORTAMENTO CARCERÁRIO INSATISFATÓRIO - CONSTRANGIMENTO ILEGAL - NÃO OCORRÊNCIA - ORDEM DENEGADA. - Embora exista recurso próprio para se discutir questões incidentais durante a execução, qual seja, o agravo em execução, o habeas corpus pode ser utilizado em sua substituição, desde que a questão não demande aprofundado exame fático-probatório e que haja possibilidade de lesão ao direito de locomoção do paciente. - Se o paciente não possui comportamento carcerário satisfatório, incabível é a sua transferência para a APAC." (e-STJ, fls. 35-39.)
+Neste writ, a impetrante alega constrangimento ilegal, argumentando que o paciente está preso, longe de seus amigos e familiares e que possuiria melhores condições de ressocialização no estabelecimento prisional gerido pela APAC de Nova Lima (MG).
+Requer, liminarmente e no mérito, seja concedido a ordem para transferir o paciente da Penitenciária Nelson [NOME] para a APAC de Nova Lima.
+O pedido de medida liminar foi indeferido (e-STJ, fl. 46).
+O Ministério Publico Federal opina pelo não conhecimento do writ. (e-STJ, fl. 73-77).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso dos autos, verifica-se que o Tribunal de origem manteve a decisão do Juízo singular, em acórdão fundamentado neste termos:
+"Da análise dos autos, verifica-se que o paciente foi submetido ao cumprimento do total de pena de 67 (sessenta e sete) anos, 4 (quatro) meses e 10 (dez) dias de reclusão, encontrando-se recolhido no Complexo Penitenciário Nelson [NOME], na Comarca de Contagem/MG (fl. 45/45v- TJ).
+A impetrante requer seja determinada a transferência do paciente para a APAC da Comarca de Nova Lima/MG, argumentando que não foi possível inclui-lo em projeto de ressocialização, que ele não tem os cuidados especiais com a sua saúde e que possui condições subjetivas satisfatórias para a permanência na APAC. Todavia, razão não lhe assiste.
+A autoridade impetrada indeferiu o pedido de transferência do paciente para a APAC da Comarca de Nova Lima/MG nos seguintes termos:  ..
+Conclui-se, pois, que não há qualquer constrangimento ilegal a ser sanado, pois, conforme se extrai da decisão combatida, o pleito de transferência do paciente para a APAC de Nova Lima/MG foi indeferido em razão de o reeducando não ostentar comportamento satisfatório e não possuir senso de disciplina e responsabilidade imprescindíveis ao cumprimento da pena no sistema alternativo, já que possui inúmeras faltas disciplinares.
+Conforme bem ponderado pela autoridade apontada como coatora, "a APAC possui um método próprio, constando como uma de suas principais características a auto responsabilidade que é atribuída aos recuperandos, sendo eles os próprios responsáveis pela segurança do estabelecimento, no qual não há agentes penitenciários ou policiamento.
+No mesmo sentido, inclusive, é a jurisprudência deste Egrégio Tribunal de Justiça:  ..
+Portanto, não se vislumbra constrangimento ilegal passível de ser sanado pela estreita via do writ." (e-STJ, fls. 35-39.)
+Como se vê, o indeferimento do pedido de transferência do paciente para a APAC de Nova Lima (MG) está motivado com base em elementos concretos extraídos da execução penal, suficientemente fundamentada no comportamento insatisfatório do paciente, visto que no acórdão restou consignado que o paciente, além de não possuir "senso de disciplina e responsabilidade", tem "inúmeras faltas disciplinares".
+Dessa forma, o entendimento das instâncias ordinárias está de acordo com a jurisprudência desta Corte Superior de Justiça, consolidada no sentido de que o pedido de transferência do réu não é absoluto, podendo o Juízo das execuções deferir ou indeferir o pleito de forma fundamentada, conforme ocorreu na espécie.
+A propósito, confira-se este julgado de minha relatoria:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.
+TRANSFERÊNCIA DE PRESO PARA CUMPRIR PENA EM ESTABELECIMENTO PRISIONAL PRÓXIMO À FAMÍLIA. CONVENIÊNCIA DA ADMINISTRAÇÃO DA JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que o pedido de transferência do sentenciado não é direito absoluto do réu, podendo o juiz ou o Tribunal de origem indeferir o pleito, desde que de forma fundamentada. 2.  ..  3. Agravo regimental não provido." (STJ - AgRg no HC 352.561/SP, minha relatoria, QUINTA TURMA, j. 17/8/2017, DJe 28/8/2017.)
+Demais precedentes desta Corte:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PENAL E PROCESSUAL PENAL. MUDANÇA VOLUNTÁRIA DE DOMICÍLIO DO APENADO. COMPETÊNCIA QUE SE MANTÉM NO JUÍZO DA EXECUÇÃO. PEDIDO DE TRANSFERÊNCIA DO PRESO. RECUSA FUNDAMENTADA. POSSIBILIDADE. 1. A mudança de residência do apenado, por vontade própria, não constitui causa legal de transferência de preso. Precedentes. 2. O direito que o preso tem de cumprir pena em local próximo à residência, onde possa ser assistido pela família, é relativo, pois a transferência pode ser negada desde que a recusa esteja fundamentada. 3. Agravo Regimental improvido." (AgRg no CC 137.281/MT, rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, j. 23/9/2015, DJe 2/10/2015.)
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. PLEITO DE TRANSFERÊNCIA DE PRESO PARA OUTRO ESTADO DA FEDERAÇÃO. ART. 86 DA LEP. APENADO MEMBRO DE FACÇÃO CRIMINOSA.
+PEDIDO NÃO ATENDIDO PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. MANUTENÇÃO DOS MOTIVOS ENSEJADORES. INEXISTÊNCIA DE DIREITO ABSOLUTO DO REEDUCANDO. HABEAS CORPUS NÃO CONHECIDO. 1.  ..  2. A transferência do apenado a unidade prisional mais próxima de sua família não se constitui em seu direito subjetivo e exorbita a esfera exclusivamente judicial. Assim, na análise da remoção o Juiz deve se orientar pelo atendimento à conveniência do processo de execução penal, seja pela garantia da aplicação da lei, seja pelo próprio poder de cautela de Magistrado. Precedentes.
+3. Evidente, na hipótese, que o pedido de remoção do interno foi devidamente avaliado, não havendo constrangimento ilegal a ser sanado na via eleita, até porque o art. 86 da Lei de Execução Penal não tem por escopo criar um direito subjetivo absoluto ao preso. Habeas corpus não conhecido." (HC 353.797/SP, rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, j. 17/11/2016, DJe 24/11/2016.)
+Diante disso, não se verifica o alegado constrangimento ilegal apto a justificar a concessão da ordem pelo Superior Tribunal de Justiça.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, arquivem-se os autos.
