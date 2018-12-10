@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fls. 122/123):
+Execução Penal - Prescrição de falta disciplinar de natureza grave - Ausência de previsão legal - Possibilidade de reconhecimento mediante aplicação analógica do prazo previsto na lei penal - Entendimento
+Conquanto não haja previsão expressa em lei, o reconhecimento da prescrição da falta de natureza grave cometida pelo reeducando tem sido admitido perante os Tribunais Superiores mediante aplicação analógica da lei penal, após a fluência do menor dentre os lapsos temporais previstos no rol do art. 114,1, do CP, qual seja aquele de 02 anos.
+Execução Penal - Apuração de falta grave em procedimento disciplinar - Ausência de oitiva do condenado em Juízo antes da aplicação da penalidade - Procedimento que não viola o Princípio do contraditório
+E irrelevante a ausência de oitiva do sentenciado, bem como de manifestação das partes em Juízo, se o reeducando teve oportunidade de apresentar sua versão dos fatos na fase administrativa, desde que nesta tenham sido evidentemente respeitados os princípios do contraditório e da ampla defesa.
+Nulidades - Nulidade relativa - Demonstração de prejuízo - Entendimento
+Em se tratando de nulidade relativa, seu reconhecimento depende da demonstração efetiva do prejuízo suportado pelo peticionário, diante do princípio pas de nullité sans grief (sic).
+Execução penal - Falta grave - Reeducando do regime fechado surpreendido ao guardar e transferir manuscritos relacionados ao tráfico de entorpecente - Art. 39, II e V e art. 50, VI, ambos da LEP
+Pratica falta disciplinar de natureza grave, prevista na Lei de Execuções Penais, o sentenciado surpreendido na guarda de escritos relacionados à comercialização de cigarros e outras mercadorias, que eram repassados aos reclusos de outras celas, pois aludida conduta corresponde a desobediência às normas disciplinares e aos servidores responsáveis pela fiscalização do cumprimento da pena.
+Execução Penal - Falta grave - Perda de dias remidos declarada consoante o prudente critério do Magistrado em decisão fundamentada - Manutenção
+Independentemente de a fundamentação ser sucinta, é razoável que a perda de parte dos dias remidos, em razão de infração disciplinar, leve em consideração a dinâmica dos fatos, podendo o Magistrado, consoante prudente critério, determinar a perda de 01 dia até 1/3 dos dias remidos ou por remir, desde que em decisão fundamentada.
+Na presente impetração, a defesa narra que o paciente cumpria pena na penitenciária de Osvaldo Cruz/SP, sendo que, supostamente, no dia 23/11/2016, teria praticado falta grave, consistente em posse de manuscritos.
+Aduz que foi instaurado procedimento disciplinar para apuração dos fatos. A Autoridade Administrativa concluiu pela prática de falta disciplinar de natureza grave.
+Sustenta atipicidade da conduta, uma vez que o comportamento irrogado ao reeducando não se subsume a qualquer das faltas graves previstas nos arts. 50 a 52 da Lei de Execução Penal, porquanto despido de qualquer periculosidade e ofensividade ao estabelecimento prisional.
+Aponta que, na pior das hipóteses, pode-se concluir que as condutas imputadas se amoldam nas infrações disciplinares de natureza leve ou média tipificadas nos artigos 44 e 45 do Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo, então vigente.
+Diante disso, pede, liminarmente e no mérito, a concessão da ordem a fim de reformar a decisão de primeiro grau para que se absolva o sentenciado por atipicidade ou, subsidiariamente, determinar a desclassificação das faltas disciplinares de natureza grave para outras de natureza média/leve.
+Liminar indeferida (e-STJ fls. 138/140).
+Parecer do Ministério Público Federal. opinando pelo "não conhecimento do writ e, se conhecido, pelo seu indeferimento " (e-STJ fls. 145/147).
+É o relatório. Decido.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, Rel. Min. Felix Fischer, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, julgado em 19/5/2015, DJ de 27/5/2015.
+No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+No presente, busca a defesa a absolvição do sentenciado em relação ao cometimento de falta grave, ou, subsidiariamente, a desclassificação da falta grave para média/leve.
+In casu, o Tribunal de origem negou provimento ao agravo interposto, nos seguintes termos (e-STJ fls. 127/129):
+ ..
+O recluso [NOME] dirimiu qualquer dúvida sobre a autoria da falta disciplinar pelo agravante, ao corroborar que ele assumiu a propriedade dos manuscritos. Salientou, ainda, serem os referidos bilhetes repassados de uma cela para outra (fls. 34).
+Nesses termos, está plenamente comprovada a autoria da falta disciplinar pelo recorrente [NOME], especialmente por sua confissão, mesmo porque inexistem dúvidas quanto à espontaneidade desta.
+De autoria coletiva não se cogita, visto que esta - vedada expressamente pela LEP, por constituir hipótese de responsabilidade objetiva - caracteriza-se pela não identificação do agente da falta disciplinar entre outros suspeitos, situação não verificada nestes autos.
+Não se cogita, tampouco, da desclassificação da falta grave para outra, de natureza média ou leve, até porque, a dinâmica e as condições do fato, bem como o local no qual este se produziu e os demais elementos apontados pelo conjunto probatório produzido ensejam forçosamente a conclusão no sentido de que a conduta se enquadra dentre aquelas relacionadas nos incisos do art. 50 da LEP.
+Ao contrário do alegado pela Douta Defesa, a conduta não constitui apenas a posse de papéis não cedidos e não autorizados pela unidade prisional, que consistiria em falta disciplinar de natureza leve, nos termos do art. 44, VIII, do Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo.
+A ação praticada pelo agravante tampouco se subsume à previsão contida na norma do art. 45, XXIII, do RIP, consistente na posse de anotações consideradas impróprias.
+Dos manuscritos apreendidos constam expressões que denotam claramente se referirem à contabilidade de transações comerciais entre os presos relativas a fornecimento de cigarros - inclusive com menção aos nomes de algumas marcas - e outras mercadorias de ingresso não autorizado ou proibido nas unidades prisionais (fls. 15/24).
+Dessa forma, está evidenciado que a falta disciplinar praticada pelo agravante vai muito além da mera posse de manuscritos impróprios (art. 45, XXIII, do RIP), consistindo, antes, falta de natureza grave, pois denota ter ocorrido prática de conduta que corresponde à desobediência às normas disciplinares e servidores responsáveis pela fiscalização do cumprimento da (art. 39, II e V, c.c. o art. 50, VI, da LEP).
+ ..
+Com efeito, consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência às normas disciplinares e aos agentes penitenciários constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais.
+A propósito, confiram-se, a título exemplificativo, os seguintes arestos:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. ART. 50, IV, C/C O ART. 39, II, AMBOS DA LEP. FALTA GRAVE. CARACTERIZAÇÃO. DESNECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. NOVA QUALIFICAÇÃO JURÍDICA DOS FATOS. DISSÍDIO PRETORIANO DEVIDAMENTE DEMONSTRADO.
+1. A decisão agravada não reexaminou as provas, mas apenas atribuiu nova qualificação jurídica (falta grave) aos fatos delimitados no acórdão recorrido (desobediência à ordem dos agentes penitenciários de retorno à cela), motivo pelo qual não incide o óbice da Súmula 7/STJ.
+2. Acórdão paradigma que se coaduna exatamente com o caso em questão, uma vez que estabelece que a desobediência a servidores é considerada falta de natureza grave.
+3. Agravo regimental improvido.
+(AgRg no REsp 1381095/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/08/2015, DJe 20/08/2015)
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE FALTA GRAVE NO DECORRER DO CUMPRIMENTO DA PENA. DESOBEDIÊNCIA E DESRESPEITO A SERVIDOR (ART. 50, INCISO VI, C/C O ART. 39, INCISO II, AMBOS DA LEP). REGRESSÃO DE REGIME. REINÍCIO DA CONTAGEM DO PRAZO PARA A PROGRESSÃO DE REGIME PRISIONAL. PERDA DOS DIAS REMIDOS. SÚMULA VINCULANTE 9/STF. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER DO MPF PELA DENEGAÇÃO DO WRIT. ORDEM DENEGADA.
+1. O cometimento de falta grave, devidamente apurada através de procedimento administrativo disciplinar, implica o reinício da contagem do prazo da pena remanescente para a concessão de benefícios relativos à execução da pena, exceto livramento condicional e comutação da pena.
+2. A contagem do novo período aquisitivo do requisito objetivo (1/6 do cumprimento da pena) para a progressão de regime deverá ter início na data do cometimento da última falta grave pelo apenado, incidente sobre o remanescente da pena e não sobre o total desta.
+3. O disposto no art. 127 da Lei 7.210/84 foi recebido pela ordem constitucional vigente e não se lhe aplica o limite temporal previsto no caput do artigo 58. Súmula Vinculante 9/STF.
+4. Ordem denegada, em consonância com o parecer ministerial.
+(HC 185.689/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 16/12/2010, DJe 14/02/2011)
+HABEAS CORPUS. EXECUÇÃO PENAL. NULIDADE DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. INEXISTÊNCIA. FALTA GRAVE. PENA DE ISOLAMENTO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+1. No cumprimento da pena privativa de liberdade, o apenado deve submeter-se às regras de disciplina previstas na legislação que rege a execução penal, sendo um de seus deveres obedecer às autoridades e seus agentes, tratar a todas as pessoas com respeito e urbanidade, além de executar adequadamente o trabalho que lhe for atribuído, conforme dispõe a Lei n.º 7.210/84.
+2. O art. 50, inciso VI, c.c. o art. 39, inciso II e V, da Lei de Execuções Penais, consideram a desobediência às ordens do agente penitenciário falta grave.
+3. Na hipótese, a portaria instauradora do Procedimento administrativo disciplinar identificou de forma clara e precisa as condutas que pretendia apurar, descrevendo as ações imputadas ao ora Paciente, bem assim os respectivos dispositivos legais, quais sejam os arts. 52 e art. 50, inciso VI da Lei n.º 7.210/84.
+4. A Lei de Execução Penal autoriza expressamente a pena de isolamento no caso de cometimento de falta grave. O art. 57, parágrafo único, c.c os arts. 58 e 53, da Lei n.º 7.210/84 preveem a possibilidade de aplicação da sanção de isolamento pelo prazo não superior a 30 dias.
+5. Ordem denegada.
+(HC 111.062/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 26/10/2010, DJe 29/11/2010)
+Por fim, ressalte-se "a análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 7/3/2014).
+Inexistência, portanto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+Diante do exposto, com fundamento no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
