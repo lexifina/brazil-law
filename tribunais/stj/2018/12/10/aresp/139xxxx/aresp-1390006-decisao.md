@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], JANNINA [NOME] E SILOCAF DO BRASIL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo assim ementado:
+"PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - EXECUÇÃO - DISCREPÂNCIA DE VALORES INDICADOS PELAS PARTES - NECESSIDADE DE PERÍCIA CONTÁBIL - MANUTENÇÃO DA ORDEM DE PENHORA - ÚNICA GARANTIA DO CRÉDITO - RECURSO CONHECIDO E PROVIDO PARCIALMENTE.
+1. Na hipótese de existência de grande discrepância dos valores indicados pelo exequente e pelo executado, é aconselhável que o Magistrado nomeie perito para indicar o valor correto, nas hipóteses em que o cálculo não seja simples, envolvendo variados índices ao longo de considerável tempo.
+2. No caso analisado, as quantias apontadas diferem em cerca de R$ 20.000.000,00 (vinte milhões de reais) sendo necessária a confecção de laudo pericial, a fim de não onerar o devedor e não gerar o enriquecimento ilícito do credor.
+3. Havendo penhora no rosto dos autos e sendo essa a única garantia do crédito do exequente, não há motivo para o afastamento da constrição, que deve ser mantida até a indicação correta do valor exequendo pelo perito, já que, ao que indicam os elementos dos autos, o valor não seria suficiente para cobrir o quantum devido pelos executados.
+4. Recurso conhecido e provido parcialmente" (e-STJ fl. 1.198).
+Nas razões do recurso especial, os recorrentes alegam violação dos artigos 874, I, do Código de Processo Civil de 2015 e 844 do Código Civil.
+Sustentam que o acórdão recorrido não considerou o explícito excesso de penhora nos autos, uma vez que o valor penhorado demonstrou-se irreal e exacerbado perto do valor originário do crédito.
+Aduzem que o valor penhorado é controverso e excede o montante inicialmente executado, o que enseja enriquecimento ilícito do recorrido.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso vertente, o Tribunal de origem reformou a decisão recorrida para determinar a realização de perícia para indicar o valor da execução, mantendo a penhora no rosto dos autos, com base nos seguintes fundamentos:
+"Após analisar os contornos fáticos e jurídicos do presente agravo de instrumento, entendo que assiste razão parcial ao recorrente.
+Primeiramente há que se registrar a tempestividade do presente recurso, eis que, não obstante a primeira decisão ter sido proferida no ano de 2013, o prazo para a interposição do agravo de instrumento somente passou a fluir após a intimação da segunda decisão, que conheceu e desproveu os embargos de declaração, já em agosto de 2016.
+Conforme expus na decisão liminar, verifica-se que a execução originária foi ajuizada no ano de 1997, apontando como valor da causa a quantia de R$ 2.841.164,77 (dois milhões oitocentos e quarenta e um mil cento e sessenta e quatro reais e setenta e sete centavos - fl. 30.
+Em sede de embargos à execução, os ora agravantes aguiram a prescrição dos títulos executivos, além da inexistência de mora, iliquidez da dívida e incidência de encargos abusivos.
+Tais embargos foram julgados improcedentes conforme sentença reproduzida às fls. 725/735.
+Entretanto, no julgamento da apelação nº 0900372-08.2012.8.08.0000 (transitada em julgado) esta Egrégia Câmara Cível reformou parcialmente a sentença para afastar qualquer capitalização de juros incidente nos cálculos além de determinar que, no período posterior à inadimplência, seja cobrada somente a taxa de juros remuneratórios contratada, elevada de 1% (um por cento) ao ano, preservando-se a multa e correção monetária cobrada pelo banco. (..)
+(..) Em cálculo apresentado em Maio de 2011 pelo Perito nomeado pelo Juízo (portanto antes do julgamento da apelação) restou apontada a quantia de R$ 5.533.583,59 (cinco milhões quinhentos e trinta e três mil quinhentos e oitenta e três reais e cinquenta e nove centavos) - fls. 885/898.
+Em que pese tal numerário estar desatualizado, a discrepância com o valor apontado pelo banco agravado em suas planilhas é muito grande, gerando a possibilidade de enriquecimento ilícito da instituição financeira.
+Friso nesse sentido que em sede de contrarrazões o BANDES afirma que seu crédito seria atualmente de R$ 28.555.607,19 (vinte e oito milhões quinhentos e cinquenta e cinco mil seiscentos e sete reais e dezenove centavos), quantia já calculada conforme o estabelecido por esta Egrégia Corte.
+Ora, segundo os critérios utilizados para atualização de valor pela Corregedoria desta Corte de Justiça (que certamente diferem daqueles sue devem ser aplicados, o valor atual, conforme as planilhas apresentadas pelos agravantes às fls. 993/996, seria de algo em torno de R$ 8.000.000,00 (oito milhões de reais).
+Nesse viés, considerando a grande discrepância entre os valores apontados, e levando em conta que a Magistrada a quo já nomeou perito para efetuação dos cálculos, penso que se faz necessário manter ordem de vedação ao levantamento dos valores oriundos da penhora no rosto dos autos da ação nº 0068082-95.1992.4.02.5001, em trâmite na 28ª Vara Federal da Seção Judiciária do Rio de Janeiro.
+Contudo, entendo que não deve ser afastada a penhora, haja vista que essa é a única garantia que a instituição financeira tem para receber parte de seu crédito, devendo ser mantida a constrição até a homologação do laudo pericial, que indicará o valor correto conforme os moldes delineados no julgamento da apelação nº 0900372-08.2012.8.08.0000 (024129003729), que reformou a sentença de improcedência dos embargos do devedor.
+Deve ser considerado nesse aspecto que o BANDES informa em contrarrazões que apesar da ordem de penhora no rosto dos autos ter indicado o valor, conforme requerido, só estariam disponíveis cerca R$ 173.000,00 (cento e setenta e três mil reais) dos créditos totais da ação que tramita na Justiça Federal do Rio de Janeiro, já que existem outras penhoras no rosto daqueles autos.
+Registro por fim que em 2015, no julgamento do AgRg no AREsp 425.392/ES interposto pelos ora agravantes, restou confirmado o acórdão da apelação em referência, o que permite crer que a perícia apontará o valor definitivo devido pelos executados.
+Consigno que, após a homologação do valor indicado pelo expert, a execução deverá retomar seu curso normal, podendo ser levantada pela parte exequente a quantia penhorada, até o limite de seu crédito" (e-STJ fls. 1.201-1.205 - grifou-se).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
