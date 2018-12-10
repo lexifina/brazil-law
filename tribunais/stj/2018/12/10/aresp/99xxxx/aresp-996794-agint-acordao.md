@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE.
+1 - A alteração conclusão adotada pela Corte de origem no tocante ao reconhecimento de que a ação rescisória foi ajuizada dentro do prazo legal, tal como postulado nas razões do apelo especial, exigiria novo exame do conjunto fático-probatório constante dos autos, providência que se sabe vedada nesta sede, a teor da Súmula 7/STJ. Precedentes.
+2 - Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno desafiando decisão de fls. 1563/1565, que negou provimento ao agravo em recurso especial, ante a incidência das Súmula 7 e 211/STJ.
+Em suas razões, a parte recorrente sustenta a inaplicabilidade dos óbices sumulares, alegando ter sido a questão ventilada nas razões do apelo especial devidamente prequestionada, bem como não se tratar de matéria exclusivamente de direito.
+Enfatiza que "é equivocada a premissa lançada no v. acórdão hostilizado (e transcrita na v. decisão monocrática embargada) segundo a qual "documentos" comprovariam que a presente Ação fora ajuizada dentro do biênio decadencial em face do acórdão proferido em sede dos Embargos à Execução, pois o debate proposto pelas Recorrentes não se relaciona à tempestividade da decisão rescindenda, mas, sim, à definição de que é outra a decisão a ser rescindida, bastando, para tanto, que se promova o cotejo do conteúdo de ambas." (fl. 1.593)
+Afirma pretender que "esta Colenda Corte admita que o efetivo acórdão a ser rescindido é o proferido na Ação Ordinária nº 94.00.02328-6, que transitou em julgado em 1999, e não na derradeira decisão proferida em sede de Embargos à Execução (Apelação Cível nº 1999.38.00.0 38563-3)" (fl. 1592).
+A parte recorrida apresentou impugnação (fls. 1.601/1.603)
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Embora assista razão à parte agravante no tocante a ter sido atendido o requisito do prequestionamento, a decisão impugnada deve ser mantida por seu fundamento remanescente.
+A controvérsia diz com a ocorrência do prazo decadencial para o ajuizamento da ação rescisória.
+Como antes destacado, o Tribunal de origem, ao reconhecer que a ação rescisória foi ajuizada dentro do biênio decadencial, adotou a seguinte fundamentação:
+Observo que a inicial está instruída com os documentos indispensáveis à propositura da ação (art. 283 do Código de Processo Civil) e que, compulsando os autos, há documentos que comprovam haver sido a presente ação rescisória ajuizada dentro do biênio decadencial de que trata o art. 495 do CPC, porquanto o acórdão rescindendo transitou em julgado em 6.12.2007 e a presente ação fora proposta em 30.3.2009.
+No ponto, saliento que a jurisprudência se pacificou no sentido de que a contagem do prazo bienal para propositura da ação rescisória se inicia no trânsito em julgado da decisão rescindenda - a qual somente se aperfeiçoa após o exaurimento dos recursos cabíveis ou com o decurso, in albis, dos prazos para sua interposição pelas partes. Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça: AgRg na AR-4.567, Ministro João Otávio de Noronha, DJ de 19.4.2011; e REsp -1.004.472, Ministro Massaami Uyeda, DJ .de 23.11.2010. (fl. 1.453)
+E em sede de embargos declaratórios, a Corte de origem trouxe a seguinte motivação:
+Em conclusão, o acórdão objeto da rescisória foi o proferido na Apelação nos Embargos à Execução n. 1999.38.00.038563-3, por isso que não há falar em decadência; o acórdão embargado foi redundante, mas não foi omisso, porque determinou a compensação, como prevista no acórdão proferido na apelação da Ação Ordinária 96.01.18781-2, e, por fim, não há falar em omissão quanto à compensação, porque essa é decorrente do acórdão primitivo, do acórdão rescindendo, que adotou para esse fim o quanto disposto na MP n. 1.704, e do acórdão proferido nesta rescisória, que mandou aplicar a Lei n. 8.627, exatamente como mandou referida MP.
+Portanto, com fundamento na MP ou na Lei n. 8.627, o certo é que ambos os acórdãos (rescindendo e rescisório) asseguraram a mesmíssima coisa, a saber, que o reajuste decorrente da Lei 8.627 fosse compensado com o que o acórdão de conhecimento reconheceu como devido.
+O acórdão embargado (rescisória) apenas disse mais sobre a mesma coisa, por isso que não se recomenda alterar absolutamente nada do quanto nele decidido, até porque essa questão já foi sumulada: O reajuste de 28,86%, concedido aos servidores militares pelas Leis 8622/1993 e 8627/1993, estende-se aos servidores civis do Poder Executivo, observadas as eventuais compensações decorrentes dos reajustes diferenciados concedidos pelos mesmos diplomas legais (Súmula n. 672 do Supremo Tribunal Federal).
+Assim, como já asseverado, não se mostra possível alterar a conclusão adotada pela Corte de origem no tocante ao reconhecimento de que a ação rescisória foi ajuizada dentro do prazo legal, sem antes proceder a novo exame do acervo fático-probatório constante dos autos, providência que se sabe vedada em recurso especial, a teor da Súmula 7/STJ.
+A propósito, confira-se:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. CONTRARIEDADE AOS ARTS. 219, §§2º, 3º E 4º, DO CPC, C/C O ART. 202 DO CC. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS. RAZÕES INSUFICIENTES PARA A ALTERAÇÃO DO ENTENDIMENTO ADOTADO.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Não se conhece do recurso especial se a apreciação da suposta contrariedade do julgado recorrido a dispositivos de lei federal estiver condicionada ao reexame de premissa fático-probatória já definida nas instâncias ordinárias. Aplicação da Súmula n. 7/STJ.
+3. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 405.669/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 03/03/2015, DJe 09/03/2015)
+IMPROBIDADE ADMINISTRATIVA. AGRAVO REGIMENTAL. AÇÃO RESCISÓRIA. PRAZO DE AJUIZAMENTO. DECADÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação Rescisória com o objetivo de rescindir decisão em Ação de Improbidade Administrativa proposta pelo Ministério Público estadual, por falta de citação e prescrição.
+2. O Tribunal a quo origem consignou: "Posto isso, INDEFIRO de plano a petição inicial da presente ação rescisória, ante sua manifesta inadequação para o fim pretendido, bem ainda em face da decadência do direito ao seu exercício, pela parte autora, como decorrência do decurso do prazo para sua propositura, julgando por conseguinte extinto o processo, na forma da previsão contida nos artigos 295, incisos III e IV, e 495, ambos do Código de Processo Civil" (fl. 456).
+3. O Tribunal de origem, com base nos fatos e provas dos autos, entendeu que houve decurso do prazo decadencial para ajuizar a Ação Rescisória.
+4. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1340316/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/02/2015, DJe 06/04/2015)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
