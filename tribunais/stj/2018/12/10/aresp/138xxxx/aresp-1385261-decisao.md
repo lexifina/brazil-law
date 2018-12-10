@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] - MICROEMPRESA contra decisão que denegou o processamento do recurso especial. O apelo nobre se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPRA E VENDA DE ANIMAL DE ESTIMAÇÃO. ÓBITO DIAS APÓS A AQUISIÇÃO EM DECORRÊNCIA DE DOENÇA PRÉ-EXISTENTE. VÍCIO OCULTO. RESSARCIMENTO MATERIAL E MORAL DO CONSUMIDOR. CABIMENTO. O óbito do animal de estimação da raça Maltês ocorreu poucos dias depois da sua compra no estabelecimento da embargante, motivado por gastroenterite. Prova .pericial que atestou ser a doença pré-existente. Relação constituída entre as partes em razão da compra e venda do animal de estimação que faz incidir o Código de Defesa do Consumidor, de forma que, como foi constatado o vício oculto ainda no prazo de garantia legal previsto no artigo 18, § 1º do Código de Defesa do Consumidor, é de rigor a indenização pelos danos materiais. Quanto aos danos morais, as peculiaridades do caso concreto ratificam a reparação determinada na r. sentença.
+Recurso desprovido, com observação" (e-STJ fl. 202).
+No especial, a recorrente alega violação dos artigos 357 e 442 do CPC/2015 ao fundamento de que houve cerceamento de defesa e art. 927 do Código Civil porque a empresa recorrente comprovou cabalmente a ocorrência da viagem com o animal sem as devidas cautelas (e-STJ fls. 221/230).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O Tribunal recorrido assim decidiu a causa:
+"Infere-se dos autos que o embargado ajuizou a presente demanda com o objetivo de ser indenizado pelos danos materiais e morais que alega ter suportado em razão do óbito do animal de estimação da raça "Maltês", que ocorreu poucos dias depois da sua compra no estabelecimento da embargante, motivado por "gastroenterite", o que foi atestado por médico veterinário.
+Não se há de falar em cerceamento de defesa pela não realização de instrução oral porquanto as provas documentais e pericial que se encontram nos autos são suficientes para o deslinde da controvérsia.
+A alegação de que o animal não fora vendido ao autor também não comportava prova testemunhai quando foi encartado à inicial cheque nominal ao réu na data em que afirma o autor ter comprado o filhote, encontrando-se na posse do demandante a carteira de vacinação do animal (fls. 16/17).
+No tocante ao cerne da controvérsia, o certo é que o autor adquiriu o filhote no dia 19/12/2011, para dá-lo de premente ao filho, e o animal faleceu na véspera de Natal, ou seja, poucos dias depois, de doença denominada "gastroenterite".
+A prova pericial indicou. que a doença era pré-existente, uma vez que no dia seguinte à compra os sintomas se manifestaram e referida moléstia tem um certo tempo de incubação (de 1 a 4 dias) , o que ratifica a ocorrência de vicio oculto no animal adquirido.
+Não prevelece a tese de defesa que aponta a culpa pelo falecimento do cão à troca de alimentação, a qual não levaria a um doença infecciosa como a constatada, ou mesmo o fato de que assim que o filhote foi adquirido fez o autor e sua familia longa viagem. Isso porque, quanto a este último fato não há prova inequívoca que permita concluir pelo nexo causai entre a doença, o óbito e o referido evento.
+Não bastasse, reportagem juntada com a contestação pela ré indica que a gastroenterite em animais como cães podem matar rapidamente se não controladas em vinte e quatro horas, em decorrência de rápida desidratação (fls. 45), de forma que, estivesse em casa ou não, não é possivel afirmar com segurança que se podia evitar a morte do animal, adotando o autor medidas cabíveis para tentar recuperar a saúde do filhote enfermo, o que se comprova pelas consultas veterinárias de fls. 18/20.
+Urge ressaltar, ainda, que a relação constituída entre as partes em razão da compra e venda do animal de estimação permite a aplicação do Código de Defesa do Consumidor, de forma que, como os danos ocorreram ainda no prazo de garantia legal previsto no artigo 18, § 1º do Código de Defesa do Consumidor, é de rigor que o réu responda pelos danos sofridos em decorrência do vicio oculto que foi comprovado nos autos" (e-STJ fls. 204/205).
+Nesse contexto, alterar tais conclusões exigiria o reexame de provas, inviável na estreita via do recurso especial (Súmula nº 7/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que já foram fixados na origem no percentual máximo de 20% (vinte por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
