@@ -1,0 +1,41 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ANULAÇÃO DE ATO ADMINISTRATIVO. RECONHECIMENTO DA PRESCRIÇÃO DO FUNDO DE DIREITO. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. AGRAVO EM RECURSO ESPECIAL DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por ELBER GONCALVES DOS ANJOS, com fundamento na alínea a do art. 105, III da Constituição Federal, contra acórdão proferido pelo TRF 5a. da Região, assim ementado:
+ADMINISTRATIVO. PROCESSO ADMINISTRATIVO. ANULAÇÃO. PRESCRIÇÃO. OCORRÊNCIA.
+Apelação desafiada em face da sentença que julgou improcedente pedido de anulação de Processo Administrativo e do segundo exame psicotécnico, além do pagamento de indenização por danos morais.
+A sentença considerou prescrita a pretensão do autor de anular o procedimento administrativo, e consequentemente, a condenção ao pagamento de indenização por danos morais.
+Pelos documentos acostados aos autos, não há como se averiguar as alegações feitas pelo Recorrente de que não ocorreu a prescrição, pois não houve encerramento do processo administrativo, em razão de não lhe ter sido dada ciência de seu término.
+Processo administrativo que se pretende anular encerrado em 2003 e a ação ajuizada em 2013, reconhecimento da prescrição da prestensão autoral. Manutenção da sentença. Apelação não provida (fls. 668/669).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 696).
+3. Nas razões do Apelo Nobre, o recorrente aponta violação dos arts. 1o. do Decreto 20.910/1932, 54 da Lei 9.784/1999, 5o., LV da CF/1988 e do art. 26 da Lei 9.784/1999. Alega, em síntese, os seguintes pontos: (i) não incidência da prescrição de fundo de direito, e, assim não entendendo, (ii) que seja aplicado o artigo 54 da Lei 9.784/99, haja vista a ausência de prescrição quando praticados atos desfavoráveis, ou ainda, quando os mesmos são praticados com a nítida e clara má-fé por parte da Administração Pública perante o administrado (fls. 736).
+4. Apresentadas contrarrazões (fls. 743/754), o recurso foi admitido (fls. 757).
+5. É o relatório.
+6. O acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte, de que não é possível afastar o reconhecimento da prescrição de fundo de direito se decorridos mais de 5 anos entre o ato administrativo que se busca anular e a propositura da ação.
+7. Ilustrando tal conclusão, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO. NULIDADE DE ATO ADMINISTRATIVO. PEDIDO DE REINTEGRAÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES DO STJ.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 145, III do CCB/1916, 200 do CCB/2002, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+2. O julgado estadual não se afastou do entendimento desta Corte no sentido de que, mesmo em se tratando de ato administrativo nulo, não há como afastar a prescrição quinquenal para a propositura da ação em que se pretende a reintegração de policial militar (AgRg no REsp 1.323.442/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2012, DJe 22/08/2012).
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 750.819/GO, Rel. Min. SÉRGIO KUKINA, DJe 25.9.2015).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRETENSÃO DE DECRETAÇÃO DE NULIDADE DE ATO DE LICENCIAMENTO EX OFFICIO. EXCLUSÃO DE POLICIAL MILITAR A BEM DA DISCIPLINA. PRESCRIÇÃO DO FUNDO DE DIREITO. DECRETO N. 20.910/1932. SÚMULA 83/STJ.
+1. O Tribunal de origem apreciou suficiente e fundamentadamente a controvérsia, não padecendo o acórdão recorrido de omissão, contradição ou obscuridade, razão pela qual não há falar em violação ao art. 535 do CPC.
+2. Não se conhece de recurso especial cujos dispositivos legais infraconstitucionais ditos por violados não foram objeto de análise e discussão pelas instâncias ordinárias, nem mesmo implicitamente, ainda que opostos embargos de declaração. Incidência da súmula 211/STJ.
+3. Segundo precedentes deste Superior Tribunal, mesmo em ato administrativo nulo, não há como afastar a prescrição quinquenal para a propositura da ação em que se pretende a reintegração de policial militar. Estando o entendimento da Corte a quo em consonância com a jurisprudência do STJ, incide o óbice da Súmula 83/STJ.
+Agravo regimental improvido (AgRg no AREsp. 470.175/PE, Rel. Min. HUMBERTO MARTINS, DJe 14.4.2014).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 458 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DIREITO LOCAL. SÚMULA 280/STF. ACÓRDÃO RECORRIDO FIRMADO SOB FUNDAMENTO CONSTITUCIONAL. POLICIAL MILITAR. REINTEGRAÇÃO. PRESCRIÇÃO. FUNDO DE DIREITO.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 458 do CPC.
+2. Não se conhece de Recurso Especial quanto à matéria (art. 87, parágrafo único, da Lei 7.289/1984; arts. 128, 131 e 476, parágrafo único, do CPC; arts. 11, 12 e 13 da Lei 9.784/1999; art. 2º, "a", "b" e "c", parágrafo único, "a", "b" e "c", da Lei 4.717/1965; e art. 2º, § 1º, da LIDB), que não foi especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+3. In casu, o Tribunal a quo solucionou a questão com fundamento estritamente constitucional (art. 125, §§ 4º e 5º da CF) e com base na interpretação de lei local (art. 36, I, II e § 1º da Lei 11.697/2008), o que afasta o conhecimento da matéria em Recurso Especial, em face da incidência, por analogia, da Súmula 280/STF e da usurpação da competência do STF.
+4. No que tange à prescrição, o acórdão recorrido adotou tese em conformidade com a jurisprudência pacífica do STJ, no sentido de que o prazo para propositura de ação de reintegração de Policial Militar é de 5 anos, a contar do ato de exclusão ou licenciamento, nos termos do Decreto 20.910/1932.
+5. Agravo Regimental não provido (AgRg no AREsp. 451.683/DF, Rel. Min. HERMAN BENJAMIN, DJe 27.3.2014).
+
+ADMINISTRATIVO. SERVIDOR PUBLICO MILITAR. REINTEGRAÇÃO. PROCESSO DISCIPLINAR. ACÓRDÃO RECORRIDO. OMISSÃO. INEXISTÊNCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA. PRECEDENTES. ÔNUS SUCUMBENCIAIS. JUSTIÇA GRATUITA. DISPOSITIVOS INFRACONSTITUCIONAIS SEM COMANDO SUFICIENTE PARA INFIRMAR AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF.
+1. Inexiste a alegada violação do art. 535 do CPC, na medida que não se vislumbra nenhuma omissão ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente porque o Tribunal a quo apreciou a demanda de forma clara e precisa e as questões de fato e de direito invocadas, estando bem delineados os motivos e fundamentos que a embasam.
+2. Os dispositivos invocados nas razões de recurso especial não contêm comandos normativos capazes de alterar as conclusões do Tribunal de origem, atraindo a incidência da Súmula n. 284 do Pretório Excelso.
+3. O prazo para propositura de ação de reintegração de Policial Militar é de 5 (cinco) anos, a contar do ato de exclusão ou licenciamento, nos termos do Decreto n. 20.910/32, mesmo na hipótese de ato nulo ou de verbas alimentares. Precedentes.
+4. Consoante determina o artigo 12 da Lei n. 1.060/50, a concessão do benefício da Justiça Gratuita não afasta a condenação da parte vencida ao pagamento dos ônus de sucumbência, mas apenas viabiliza a suspensão da sua exigibilidade enquanto subsistente o estado de penúria do sucumbente.
+5. Agravo regimental não provido (AgRg no AREsp. 366.866/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.11.2013).
+8. No caso, o ato de expulsão foi publicado em 2003, e o ajuizamento da ação se deu em 2013. Portanto, ocorreu a prescrição.
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Servidor.
+10. Publique-se. Intimações necessárias.
