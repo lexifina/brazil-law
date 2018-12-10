@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão da 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 9, p. 103):
+    “AÇÃO CIVIL PÚBLICA – IMPROBIDADE ADMINISTRATIVA – Alegação de carência por impossibilidade jurídica do pedido – Cerceamento de defesa e nulidade processual por inobservância do litisconsórcio necessário – Eivas não configuradas – Prefeito Municipal – Acordo celebrado para regularização de imóvel em situação de irregularidade, mediante alienação ou permuta de bem público – Ato formalizado em desacordo com a legislação aplicável à espécie – Homologação judicial recusada – Prática de improbidade administrativa caracterizada, na forma do art. 11, da LIA – Embora não homologado, o ato administrativo ganhou corpo, tornando-se apto a desencadear seus efeitos práticos, o que só não ocorreu porque houve intervenção judicial. Tal fato, todavia, não descaracteriza a improbidade, posto substantivada a prática na conduta violadora dos deveres de probidade, imparcialidade, legalidade e lealdade às instituições – Multa civil – Fixação em patamar excessivo – Redução admitida – Recurso parcialmente provido.”
+    Os embargos de declaração foram rejeitados (eDOC 9, p. 128-132).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 5º, LIII, da Constituição Federal.
+    Nas razões do recurso, sustenta-se, em suma, que:
+    “16. O acórdão violou o artigo 5º, inciso LIII, da Constituição Federal ao referendar a sentença que havia sido proferida por juiz que não detinha mais designação para atuar na Vara da Fazenda Pública de Ribeirão Preto.” (eDOC 10, p. 8)
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso ao entendimento de que os argumentos expendidos não são suficientes para infirmar as conclusões do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada (eDOC 10, p. 31-32).
+    É o relatório. Decido.
+    O recurso não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 9, p. 105/106):
+    “Também não se vê configurada hipótese de violação ao princípio do juiz natural, porquanto, em virtude da natureza meramente administrativa do ato, a falta episódica de designação do magistrado para exercício numa determinada vara especializada, por si só, não compromete o exercício da jurisdição propriamente, máxime quando o exercício é convalidado por ato subsequente que, em curto espaço de tempo, determina o retorno do magistrado para auxiliar e sentenciar na mesma vara (fls. 1024 e 1117).
+    A propósito, vale anotar: A designação de magistrado para o exercício em determinada serventia judicial é ato administrativo, que diz respeito à estrutura interna, não retirando a possibilidade de que naqueles processos nos quais o magistrado tivesse posto seu visto, anteriormente à designação para outra serventia judicial, fosse lançada sentença durante as férias forenses, não só porque a regra constitucional é a competência jurisdicional (não sua excepcionalidade), como plea convalidação por portaria superveniente, que determinou o retorno do magistrado de suas atribuições na vara anterior (REsp. n. 260462/PR, rel. Min. Nancy Andrighi – g.n.).” (eDOC 9, p. 105, grifos no original)
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz de atos normativos de natureza infraconstitucional. Desse modo, a controvérsia revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Sem honorários, por se tratar de ação civil pública (art. 18 da Lei 7.347/1985).
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
