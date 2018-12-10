@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELA LEITURA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. INTERPRETAÇÃO IN BONAM PARTEM. PORTARIA CONJUNTA N.º 276/2012 DO DEPARTAMENTO PENITENCIÁRIO NACIONAL/MJ E DO CONSELHO DA JUSTIÇA FEDERAL. RECOMENDAÇÃO N.º 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. ORDEM CONCEDIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HONORATO BEZERRA DA SILVA NETO contra o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n.º 9000003-76.2018.8.26.0224.
+Consta das informações prestadas pela autoridade coatora que o Juízo da Vara das Execuções Criminais da Comarca de Guarulhos/SP, nos autos da Execução Criminal n.º 938.969, concedeu ao Paciente a remição da pena por leitura. O Parquet interpôs Agravo em Execução, provido, por maioria, para cassar a remição concedida. O acórdão ficou assim ementado (fl. 29):
+"Agravo em execução ministerial - Pleito de remição por leitura deferido - Decisão que se reforma - Ausência de previsão legal - Atividade que não se equipara a estudo - Exegese do art. 126, § 1º, I, da LEP - Agravo provido."
+Alega a Impetrante haver constrangimento ilegal, sustentando ser "viável a concessão de remição por atividades não expressas na lei, dentre as quais a leitura, diante da interpretação extensiva in bonam partem do artigo 126 da lei de Execuções Penais" (fl. 4).
+Pede a concessão da ordem, com o restabelecimento da decisão do Juízo da Execução.
+As informações foram prestadas (fls. 26-37).
+O Ministério Público Federal, por meio do Subprocurador-Geral da República [NOME], opina pela concessão da ordem (fls. 39-41).
+É o relatório.
+Decido.
+O Tribunal de origem cassou a remição concedida pelo Juízo de primeiro grau sob o fundamento de que "a simples leitura de um livro não pode ser equiparada à atividade de ensino de que trata o art. 126, § 1º, I, da LEP, descabendo ao juiz criar o que a norma legal não o fez, pena de usurpar a função legislativa" (fl. 9).
+Tal fundamento, entretanto, conflita com a pacífica jurisprudência do Superior Tribunal de Justiça que, a partir da interpretação in bonam partem do art. 126 da Lei de Execução Penal, admite "a remição da pena pela leitura nos termos da Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como da Recomendação n. 44/2013 do Conselho Nacional de Justiça". (HC 413.501/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/6/2018, DJe de 1.º/8/2018).
+No mesmo sentido:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. REMIÇÃO DA PENA PELA LEITURA. POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Firmou-se nesta Corte Superior de Justiça entendimento no sentido de ser viável a concessão da remição por atividades não expressas na lei, dentre as quais a leitura, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal.
+3. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para reconhecer a legalidade da remição pela leitura, com determinação, em consequência, no sentido de que o Juízo das Execuções Criminais conceda ao paciente a referida benesse, promovendo o cálculo do número de dias a que faz jus o reeducando de acordo com os documentos comprobatórios de tal atividade." (HC 400.999/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe de 1.º/8/2017).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA LEITURA. POSSIBILIDADE. PRECEDENTES. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça possui entendimento de que é compatível com o art. 126 da Lei de Execução Penal - LEP a remissão pela leitura.
+- A Recomendação n. 44/13 do Conselho Nacional de Justiça não determina a subsidiariedade da remissão por leitura em relação às demais formas de obtenção do benefício, como o estudo e o trabalho.
+- Hipótese em que o paciente está internado em estabelecimento em que é possível a remição pelo trabalho, contudo não fica impedida a remição por leitura, desde que o projeto esteja devidamente instalado e sejam preenchidos os demais requisitos previstos na Recomendação n. 44/13 do Conselho Nacional de Justiça.
+Habeas corpus não conhecido. Ordem concedida de ofício, para restabelecer a decisão do juízo singular." (HC 400.999/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 15/12/2015, DJe de 2/2/2016).
+Ante o exposto, CONCEDO a ordem para cassar o acórdão impugnado e restabelecer a decisão do Juízo da Execução.
+Publique-se. Intimem-se.
