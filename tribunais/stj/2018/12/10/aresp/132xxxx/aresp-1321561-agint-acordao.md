@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISSQN. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+I - Na origem, trata-se de mandado de segurança em que a parte impetrante pretende a concessão de ordem deferindo-lhe o direito de recolher o ISSQN em valor fixo por profissional.
+II - Não há violação do art. 535 do CPC/73 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia apreciando fundamentadamente a controvérsia (art. 165 do CPC/73), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o Enunciado n. 211 da Súmula do STJ e, por analogia, os Enunciados n. 282 e 356 da Súmula do STF.
+IV - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo Enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se ainda que a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+V - O dissídio jurisprudencial viabilizador do recurso especial, pela alínea c do permissivo constitucional, não foi demonstrado nos moldes legais, pois além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu agravo em recurso especial em que são partes Stenstrasser Advocacia Empresarial e Município de Caxias do Sul contra decisão que negou seguimento ao recurso especial na origem. O recurso especial foi interposto contra julgado do Tribunal de Justiça do Estado do Rio Grande do Sul, com a seguinte ementa:
+APELAÇÃO CÍVEL MANDADO DE SEGURANÇA DIREITO PÚBLICO TRIBUTÁRIO ISSQN DESCABIMENTO DE MANUTENÇÃO SOBRE O RECOLHIMENTO NA FORMA PRIVILEGIADA EM RAZÃO DA POSTERIOR OPÇÃO PELO SIMPLES NACIONAL
+Aponta a parte recorrente violação de dispositivos infraconstitucionais e constitucionais.
+Negou-se seguimento ao recurso especial com base nos fundamentos da Súmula n. 7/STJ.
+Foi interposto agravo em recurso especial.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo em recurso especial, para não conhecer do recurso especial. "
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do Enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a esse ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o Enunciado n. 211 da Súmula do STJ : "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os Enunciados n. 282 e 356 da Súmula do STF.
+Relativamente às alegações de violação de dispositivos infraconstitucionais, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo Enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO DE AUDITORIA FINANCEIRA. AÇÃO MONITÓRIA. HONORÁRIOS AD EXITUM. PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Segundo jurisprudência do STJ, ao juiz, como distinatário da prova, cabe indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Incidência da Súmula 7 do STJ.
+2. A incidência da Súmula 7 do STJ impede o exame da divergência, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.044.194/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017.)
+Ainda que assim não fosse, o dissídio jurisprudencial viabilizador do recurso especial, pela alínea c do permissivo constitucional, não foi demonstrado nos moldes legais, pois além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
