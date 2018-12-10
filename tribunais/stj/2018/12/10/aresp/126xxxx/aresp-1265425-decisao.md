@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. EMBARGOS À EXECUÇÃO. ALEGADA AFRONTA AO ART. 1022, INCISO II, DO NCPC. INOCORRÊNCIA. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. DUPLICATA PROTESTADA, JUNTAMENTE COM NOTA FISCAL E COMPROVANTE DE ENTREGA DA MERCADORIA. TÍTULO HÁBIL A EMBASAR A EXECUÇÃO. ENTENDIMENTO DIVERSO. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ. INCIDÊNCIA DOS JUROS DE MORA DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. DISSÍDIO JURISPRUDENCIAL SUSCITADO NÃO COMPROVADO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto pela JOSCIL EQUIPAMENTOS PARA CEREAIS LTDA, em face de decisão que inadmitiu recurso especial, aviado pela alínea "a", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 286, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. DUPLICATAS MERCANTIS. AUSÊNCIA DE ACEITE. TERMO INICIAL DOS JUROS DE MORA.
+I. Consoante entendimento desta Corte, em se tratando de duplicata sem aceite, necessária, para fins de possibilitar sua execução como título executivo extrajudicial, a juntada das respectivas certidão de protesto, nota fiscal que ensejou sua emissão, bem como comprovante de entrega da mercadoria.
+II. Tratando-se de mora ex re, o mero inadimplemento da obrigação positiva e líquida constitui em mora o devedor.
+Juros de mora aplicados a partir do vencimento do título, de acordo com a regra insculpida no art. 397 do diploma civil. Negaram provimento ao apelo. Unânime.
+Nas razões do recurso especial (fls. 317-336, e-STJ), a parte recorrente alegou violação do art. 1022, inciso II, do NCPC, ao argumento de que a Corte local não se manifestou acerca dos arts. 240 NCPC; art. 1º, § 2º, da Lei nº 6.899/81; e art. 405 do CC, sustentando, em síntese: a existência de omissão no julgado recorrido e, por consequência, o reconhecimento de nulidade do acórdão em testilha ; e b) discordância sobre o momento de incidência da mora.
+Contrarrazões apresentadas às fls. 343-348, e-STJ.
+Em decisão monocrática (fls. 350-362, e-STJ), foi inadmitido o apelo nobre ao aplicar o óbice da Súmula 211/STJ; inexistência de omissão no julgado recorrido; aplicação da Súmula 7/STJ; e ausência de demonstração do dissídio jurisprudencial suscitado.
+Nas razões do agravo em recurso especial (fls. 364-384, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentações no sentido de superar os impedimentos acima delineados.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+No tocante à alegada infringência ao art. 1022, inciso II, do NCPC, sem razão o recorrente.
+Isto porque, conforme a jurisprudência desta Corte, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação ao referido dispositivo da legislação processual.
+A propósito, o julgado a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018)
+No mérito, sem razão a recorrente, uma vez que a duplicata sem aceite, desde que devidamente protestada e acompanhada do comprovante de entrega da mercadoria, é instrumento hábil a embasar a execução (art. 15, II, da Lei 5.494/68).
+Sobre o tema, o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DUPLICATA SEM ACEITE. PROTESTO DO TÍTULO. COMPROVANTE DE ENTREGA DAS MERCADORIAS. INSTRUMENTO HÁBIL A EMBASAR A EXECUÇÃO. PRECEDENTES. SÚMULA N. 83/STJ. REVISÃO DAS CONCLUSÕES ALCANÇADAS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. A orientação adotada pela Corte Estadual encontra-se em harmonia com a jurisprudência desta Casa, firmada no sentido de que a duplicata sem aceite, desde que devidamente protestada e acompanhada dos comprovantes de entrega da mercadoria ou da prestação do serviço, constitui documento idôneo a embasar a execução. Incidência da Súmula n. 83/STJ.
+(..)
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 745.067/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/3/2016, DJe 1/4/2016.)
+Além disso, para aferir as alegações da recorrente e afastar as premissas firmadas pelo Tribunal de origem, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula nº. 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - APELAÇÃO - AÇÃO DE CANCELAMENTO DE PROTESTO - DUPLICATAS SEM ACEITE - PROTESTO DO TÍTULO - AUSÊNCIA DA PROVA DO PAGAMENTO - RELAÇÃO NEGOCIAL ENTRE AS PARTES E ENTREGA DAS MERCADORIAS COMPROVADAS - REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO - INCIDÊNCIA DA SÚMULA 7/STJ - ÔNUS DA PROVA - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIAS DAS SÚMULAS 282 E 356/STF - DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO - AUSÊNCIA DE COTEJO ANALÍTICO - DECISÃO AGRAVADA MANTIDA.
+1.- No caso concreto, o Tribunal de origem concluiu que a prova produzida via documental e testemunhal foi suficiente para comprovar a relação negocial entre as partes, bem como a entrega das mercadorias, não existindo, destas forma, óbice para o protesto das duplicatas, ante a ausência de prova do pagamento. Assim, a convicção a que chegou a Corte Estadual decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial pela incidência do enunciado 7 desta Corte Superior.
+(..)
+4.- Agravo Regimental a que se nega provimento" (AgRg no AREsp 406.153/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/11/2013, DJe 10/12/2013).
+Por outro lado, ao admitir a atualização da dívida (ou seja, do valor original da duplicata vencida), com aplicação de juros de mora e correção monetária, desde o vencimento da obrigação até a propositura da demanda, o acórdão recorrido não se afastou da jurisprudência do STJ:
+DUPLICATA. Pagamento em cartório. Juros moratórios. Fluência desde o vencimento do título. Ação de cobrança. Pago o título em cartório de protesto, sem correção e juros moratórios, o credor pode propor ação de cobrança para haver essas duas parcelas, sendo que tanto a atualização monetária (REsp nº 117.704/SE, REsp 30.104/SP) como os juros devem ser contados desde a data do vencimento do título líquido e certo (arts. 48 da Lei Uniforme e 25 da Lei nº 5.474/68)até o dia do pagamento em cartório. A quantia assim apurada será passível de nova atualização, até o final pagamento, a que se somam os juros moratórios, estes contados da citação para a ação de cobrança (art. 219 do CPC).
+Recurso conhecido e provido. (REsp 197.294/SP, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 23/02/1999, DJ 29/03/1999, p. 190)
+
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIPLICATAS NÃO ASSINADAS. INSTRUÇÃO DE AÇÃO MONITÓRIA. VALIDADE. SÚMULA 7/STJ. PRECEDENTE DESTA CORTE. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO VENCIMENTO DA DÍVIDA.
+1. A questão relativa à validade das triplicatas não assinadas para instruir ação monitória foi decidida com base na análise do acervo fático-probatório dos autos, não podendo, portanto, ser revista por esta Corte em razão do óbice da Súmula 7 do STJ. Precedente.
+2. Existência de precedente, neste Tribunal, que entende ser válida a utilização de triplicata sem assinatura do devedor para instruir ação monitória (REsp 203.811/MG).
+3. A manutenção da data do vencimento da dívida como sendo o termo inicial da correção monetária decorre da aplicação da jurisprudência do STJ sobre o assunto. Precedentes.
+4. Agravo regimental a que se nega provimento. (AgRg no Ag 1267208/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/05/2013, DJe 24/06/2013)
+COBRANÇA. DÉBITO REPRESENTADO POR DUPLICATAS QUE A DEVEDORA PAGOU EM CARTÓRIO SOMENTE QUANTO AO PRINCIPAL, MAIS DE UM ANO APÓS OS RESPECTIVOS VENCIMENTOS. TRIPLICATAS EMITIDAS EM RELAÇÃO AO SALDO REMANESCENTE. IRRELEVÂNCIA PARA SOLUÇÃO DA AÇÃO DE COBRANÇA. INOCORRÊNCIA DE JULGAMENTO "EXTRA PETITA". TERMO INICIAL DA CORREÇÃO MONETÁRIA. - Narrados os fatos da causa, ao Juiz cabe dizer o direito; não importa em julgamento "extra petita" indicar o julgador, ao acolher o pedido, fundamento legal diverso do apontado na inicial. Precedentes.
+- É de ser calculada desde o vencimento dos títulos a correção monetária de débito reconhecido pelo devedor e representado por duplicatas, ainda quando exigido através de ação ordinária de cobrança. Precedentes. Recurso especial não conhecido. (REsp 117.704/SE, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 12/05/1998, DJ 31/08/1998, p. 87)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EM FACE DE ESTADO DA FEDERAÇÃO (MS). DUPLICATAS. CONTRATO DE AQUISIÇÃO E INSTALAÇÃO DE EQUIPAMENTO DE SISTEMA DE CONTROLE DE PESAGEM DE FRIGORÍFICOS. OBRIGAÇÃO POSITIVA E LÍQUIDA. JUROS DE MORA. ART. 219 DO CPC. FLUÊNCIA A PARTIR DO DESCUMPRIMENTO DE CADA PRESTAÇÃO. PRECEDENTES. HIGIDEZ DAS DUPLICATAS. REGULARIDADE AFERIDA POR PROVA PERICIAL. REEXAME PROBATÓRIO. PRETENSÃO INCONCILIÁVEL COM A VIA ESPECIAL. INCIDÊNCIA DO VERBETE SUMULAR 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ALEGAÇÃO DE EXORBITÂNCIA DO VALOR ARBITRADO. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Nas obrigações positivas e líquidas, com termo certo de vencimento, os juros de mora terão incidência a partir do descumprimento de cada prestação. Precedentes STJ.
+2. A higidez e a regularidade das duplicatas que embasam a execução foram aferidas por prova técnica pericial, acolhida pelas instâncias ordinárias. Portanto, rever as premissas que lastrearam o aresto recorrido ensejaria o reexame de matéria probatória, o que é vedado na estreita via do recurso especial, nos termos do verbete sumular 7/STJ.
+3. A fixação da verba honorária no patamar de R$ 100.000,00 (cem mil reais) mostra-se consentânea com a complexidade do feito, a sua duração, a necessidade de confecção de prova pericial contábil, sua quesitação, bem como do montante atribuído à causa, de R$ 3.639.843, 70 (três milhões seiscentos e trinta e nove mil, oitocentos e quarenta e três reais e setenta centavos), em valor histórico de 2002. 4. Agravo regimental não provido. (AgRg no AREsp 3.033/MS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 05/12/2013, DJe 18/12/2013)
+Outrossim, no tocante ao alegado dissídio jurisprudencial, o seu conhecimento se mostra inviável, uma vez que o óbice da Súmula 07/STJ obsta a admissão do Recurso Especial também pela alínea "c" do permissivo constitucional.
+Em relação ao ponto:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. ADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA. REEXAME DE PROVA. SÚMULA Nº 7. DISSÍDIO PREJUDICADO.
+(..)
+4. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Embargos de declaração acolhidos sem efeitos infringentes. (EDcl no AgInt no AREsp 275.906/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
