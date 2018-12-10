@@ -1,0 +1,54 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPVA INCIDENTE SOBRE VEÍCULO OBJETO DE CONTRATO DE ARRENDAMENTO MERCANTIL. ILEGITIMIDADE PASSIVA. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL (LEI DISTRITAL 7.431/1985 E DECRETO DISTRITAL 16.099/1994). SÚMULA 280 DO STF. ADEMAIS, A QUESTÃO DA RESPONSABILIDADE SOLIDÁRIA DO ARRENDANTE PELO PAGAMENTO DO IPVA ENCONTRA AMPARO NA JURISPRUDÊNCIA DO STJ. PRECEDENTES: AGRG NO RESP 1.566.018/MG, REL. MIN. HUMBERTO MARTINS, DJE 1o.12.2015; EDCL NO ARESP 207.349/SP, REL. MIN. HUMBERTO MARTINS, DJE 10.10.2012; E AGRG NO RESP 1.066.584/RS, REL. MIN. BENEDITO GONÇALVES, DJE 26.3.2010. HONORÁRIOS ADVOCATÍCIOS FIXADOS COM RAZOABILIDADE. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL DA EMPRESA.
+1. Trata-se de Agravo Regimental interposto por ALFA ARRENDAMENTO MERCANTIL S.A. contra a decisão que negou seguimento ao Recurso Especial em razão de sua deserção.
+2. Pugna a parte agravante pela reconsideração da decisão ora atacada.
+3. É o relatório.
+4. Em face do que foi decidido pela Corte Especial do STJ ao julgar caso similar ao destes autos (REsp. 1.498.623/RJ, DJe. 13.3.2015, de minha relatoria), merecem acolhimento as alegações da parte agravante, sendo impositiva a reconsideração do decisório agravado.
+5. Dessa forma, em juízo de retratação, torno sem efeito a decisão agravada (fls. 207/208), para, afastando a deserção, proferir novo juízo de admissibilidade do recurso.
+6. Agrava-se de decisão que negou seguimento ao Recurso Especial de ALFA ARRENDAMENTO MERCANTIL S.A., interposto com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão do egrégio TJDFT, assim ementado:
+TRIBUTÁRIO. IPVA. LANÇAMENTO. NOTIFICAÇÃO. PRESUMIDA. RESPONSABILIDADE SOLIDÁRIA. EXISTÊNCIA. APELO IMPROVIDO.
+A Primeira Seção do Superior Tribunal de Justiça reafirmou entendimento de que o envio ao endereço do contribuinte da guia de cobrança do tributo, no caso o IPVA, configura notificação presumida do lançamento do tributo, que pode ser afastada pelo contribuinte, a quem cabe a prova de que não recebeu a guia (REsp. 1.114.780/SC, Rei. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, juígadá em 12.5.2010, DJe 21.5.2010).
+É de responsabilidade do alienante comunicar ao DETRAN a transmissão da propriedade do veículo, sob pena de manter-se solidariamente responsável pela exação sem o benefício de ordem, a teor do já mencionado art. 1o. § 8o., III,, da Lei 7.431/85.
+Na ausência de condenação, deve o magistrado fixar os honorários equitativamente, com base no art. 20, § 4o. do Código de Processo Civil.
+Recurso conhecido e Improvido (fls. 98).
+7. Os Embargos de Declaração opostos foram rejeitados (fls. 123/130).
+8. Em seu Apelo Nobre inadmitido (fls. 133/157), a parte recorrente, ora agravante, aponta violação dos arts. 535, II do CPC/1973 e 130, 131, I, 142, 145 e 204 do Código Tributário Nacional.
+9. Sustenta, primeiramente, que, a despeito da oposição dos Embargos de Declaração, não houve a completa prestação jurisdicional. Defende, no mérito, sua ilegitimidade passiva ad causam, tendo em vista a sucessão tributária, e afirma a nulidade da CDA por irregularidade na constituição do crédito tributário. Alega, ainda, que o arbitramento dos honorários advocatícios no parâmetro eleito (R$ 600,00) é deveras excessivo, sendo imperiosa a sua diminuição.
+10. Apresentadas as contrarrazões (fls. 169/172), o recurso foi inadmitido às fls. 176/179.
+11. É o breve relato dos fatos.
+12. A irresignação não prospera.
+13. Inicialmente, não se vislumbra o alegado vício do art. 535 do CPC/1973. A lide foi integralmente resolvida, não padecendo o acórdão de qualquer dos vícios da referida norma.
+14. No mais, constata-se que o exame da controvérsia sobre a ilegitimidade passiva do contribuinte, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, quais sejam, a Lei Distrital 7.431/1985 e o Decreto Distrital 16.099/1994, bem como o revolvimento fático-probatório dos autos, providências vedadas em Recurso Especial, por incidência das Súmulas 280 do STF e 7 do STJ.
+15. Ainda que superados os óbices acima referidos, verifica-se que o Superior Tribunal de Justiça, em casos semelhantes, tem entendido que, no arrendamento mercantil, o arrendante, como possuidor indireto do veículo arrendado, é responsável solidário pelo pagamento do IPVA. Citem-se os seguintes julgados desta egrégia Corte Superior:
+TRIBUTÁRIO. IPVA. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO DO TRIBUTO. PRECEDENTES. TESE RECURSAL DIVERGENTE DO ENTENDIMENTO JURISPRUDENCIAL. DECADÊNCIA. ART. 173, I, DO CTN. REVERSÃO DO JULGADO. SÚMULA 7/STJ. ARRENDAMENTO MERCANTIL. RESPONSABILIDADE SOLIDÁRIA DO ARRENDANTE. LEI LOCAL. SÚMULA 280/STF. CONGRUÊNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+(..).
+5. A responsabilidade solidária do recorrente decorreu de análise da legislação local, o que torna o acórdão recorrido insuscetível de modificação, ante o óbice da Súmula 280/STF.
+6. Ademais, o Superior Tribunal de Justiça tem entendido que, no arrendamento mercantil, a arrendante, como possuidora indireta do veículo arrendado, é responsável solidária pelo pagamento do IPVA.
+7. Agravo regimental improvido (AgRg no REsp. 1.566.018/MG, Rel. Min. HUMBERTO MARTINS, DJe 1o.12.2015).
+
+PROCESSUAL CIVIL. OMISSÃO INEXISTENTE. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. INCONFORMISMO COM A TESE ADOTADA. IPVA. VEÍCULO OBJETO DE LEASING. RESPONSABILIDADE SOLIDÁRIA. ARRENDANTE. PRECEDENTES.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Omissão no julgado e entendimento contrário ao interesse da parte são conceitos que não se confundem.
+3. Em arrendamento mercantil, a arrendante é responsável solidária para o adimplemento da obrigação tributária concernente ao IPVA, por ser ela possuidora indireta do bem arrendado e conservar a propriedade até o final do pacto. Precedentes.
+4. Embargos de declaração recebidos como agravo regimental, mas improvido (EDcl no AREsp. 207.349/SP, Rel. Min. HUMBERTO MARTINS, DJe 10.10.2012).
+
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IPVA. VEÍCULO OBJETO DE LEASING. RESPONSABILIDADE SOLIDÁRIA DA ARRENDANTE PELO PAGAMENTO DE DÍVIDA TRIBUTÁRIA. FATO GERADOR DO TRIBUTO OCORRIDA ANTES DA OPÇÃO DE COMPRA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. ART. 620 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO.
+(..).
+3. No caso dos autos, o TJ/RS consignou que (..) sendo do arrendante a propriedade do veículo, compete-lhe, consequentemente, o pagamento do tributo decorrente do fato gerador. De outro lado, observo que o lançamento do imposto ocorreu em 06/04/2001 (..), momento em que ainda não concretizada a opção de compra pelo arrendatário.
+4. A jurisprudência do STJ é no sentido de que a responsabilidade da arrendante, possuidora indireta do veículo, é solidária, razão pela qual é perfeitamente possível figurar no pólo passivo da execução fiscal. Precedentes: REsp 744.308/DF, Rel. Ministro Castro Meira, Segunda Turma, julgado em 12/8/2008, DJe 2/9/2008; REsp 897.205/DF, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 15/3/2007, DJ 29/3/2007 p. 253; REsp 868.246/DF, Rel. Ministro Francisco Falcão, Primeira Turma, julgado em 28/11/2006, DJ 18/12/2006 p. 342.
+5. Agravo regimental não provido (AgRg no REsp. 1.066.584/RS, Rel. Min. BENEDITO GONÇALVES, DJe 26.3.2010).
+16. Por fim, em relação ao arbitramento da verba honorária, firmou-se a orientação, nesta Corte Superior, de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor se revelar manifestamente irrisório ou excessivo.
+17. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios, não sendo determinante para tanto apenas e somente o valor da causa.
+18. A hipótese não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado quantum que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS EM APRECIAÇÃO EQUITATIVA DO JUIZ. ART. 20, § 4º, DO CPC/1973. PEDIDO DE REDUÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, na hipótese dos autos, majorou a verba honorária sob o seguinte fundamento: "Analisando, contudo, o percentual arbitrado na decisão, verifica-se que esta merece reforma, pois foi atribuído de forma desproporcional que não se mostra apto a remunerar com justeza e razoabilidade o trabalho desempenhado pelos advogados dos recorrentes" (fl. 153, e-STJ).
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, somente podendo ser alterada em Recurso Especial quando se tratar de valor irrisório ou exorbitante, o que não se configura na hipótese.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ.
+4. Recurso Especial não conhecido (REsp. 1.702.477/MA, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DOS VALORES. REDISCUSSÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão dos valores fixados a título indenização por danos morais e de honorários advocatícios, pois tal providência, exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+2. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1.002.975/RJ, Rel. Min. SÉRGIO KUKINA, DJe 17.10.2017).
+19. Ante o exposto, conhece-se do Agravo para negar seguimento ao Recurso Especial de ALFA ARRENDAMENTO MERCANTIL S.A.
+20. Publique-se. Intimações necessárias.
