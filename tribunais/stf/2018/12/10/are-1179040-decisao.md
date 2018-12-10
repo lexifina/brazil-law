@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA CONDENATÓRIA. INCONFORMISMO DAS PARTES.
+    RECURSO DEFENSIVO. PRELIMINAR. AVENTADA INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. PEÇA ACUSATÓRIA QUE PREENCHE OS REQUISITOS DO ART. 41 DO CÓDIGO DE PROCESSO PENAL.
+    MÉRITO. REQUERIDA ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DELITIVAS EVIDENCIADAS. DEPOIMENTOS DOS POLICIAIS QUE ATUARAM NO FLAGRANTE COERENTES ENTRE SI. TESTEMUNHAS DE DEFESA MERAMENTE ABONATÓRIAS. NEGATIVA DEAUTORIA ISOLADA NOS AUTOS. INEXIGIBILIDADE DE CONDUTA DIVERSA NÃO DEMONSTRADA. MANUTENÇÃO DA CONDENAÇÃO QUE SE IMPÕE.
+    DOSIMETRIA. ALMEJADA FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. DESCABIMENTO. ACUSADO QUE OSTENTA MAUS ANTECEDENTES. NATUREZA DA DROGA, ADEMAIS, QUE JUSTIFICA A EXASPERAÇÃO DA REPRIMENDA. EXEGESE DOS ARTS. 59 DO CÓDIGO PENAL E 42 DA LEI N. 11.343/2006.
+    POSTULADA INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI DE DROGAS NA FRAÇÃO MÁXIMA. REINCIDÊNCIA INCOMPATÍVEL COM A CONCESSÃO DO BENEFÍCIO. CIRCUNSTÂNCIA ALIADA AOSVETORES DESFAVORÁVEIS QUE INFLETEM NA IM-POSSIBILIDADE DE FIXAÇÃO DE REGIME DIVERSO DOFECHADO E DE SUBSTITUIÇÃO DA PENA PRIVATIVADE LIBERDADE POR RESTRITIVA DE DIREITOS.
+    PLEITO PARA RECORRER EM LIBERDADE. NÃO ACOLHIMENTO. PERMANÊNCIA DOS REQUISITOS QUE ENSEJARAM A DECRETAÇÃO DA PRISÃO PREVENTI-VA. FUMUS COMISSI DELICTI REFORÇADO PELA SENTENÇA CONDENATÓRIA ORA CONFIRMADA EMCOLEGIADO. ORIENTAÇÃO DO PLENÁRIO DO STF PELA POSSIBILIDADE DE EXECUÇÃO IMEDIATA DA PENA.
+    PRETENSO ENCAMINHAMENTO DO RÉU A TRATAMENTO DE DEPENDÊNCIA TOXICOLÓGICA. QUESTÃO A SER DIRIMIDA PELO SISTEMA PENITENCIÁRIO. EXEGESE DO ART. 26 DA LEI N. 11.343/2006.
+    RECURSO DEFENSIVO DESPROVIDO.
+    APELO DO MINISTÉRIO PÚBLICO. INSURGÊNCIA CIRCUNSCRITA À DOSIMETRIA DA PENA. POSSIBILIDADE DE CONSIDERAÇÃO DA REINCIDÊNCIA COMO CIRCUNSTÂNCIA AGRAVANTE E COMO MOTIVO PARA VEDAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. BIS IN IDEM INOCORRENTE. PERTINÊNCIADO INCONFORMISMO. CIRCUNSTÂNCIA DECORRENTE DE UMA ÚNICA CONDENAÇÃO PENAL. COMPENSAÇÃO INTEGRAL DA AGRAVANTE COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. ORIENTAÇÃO DA TERCEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. PENA REDIMENSIONADA.
+    RECURSO MINISTERIAL PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, LV, XLVI, e 93, IX, da CF. Sustenta que: (i) “restou cerceada a ampla defesa e o contraditório do ora Recorrente, por não terem sido observados os requisitos indispensáveis do art. 41 do Código de Processo Penal”; (ii) “é medida de inteira justiça que lhe seja imposta a redução máxima de 2/3 (dois terços) em decorrência da causa de diminuição de pena a que fez jus”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    A controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel. Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    O STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 10 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
