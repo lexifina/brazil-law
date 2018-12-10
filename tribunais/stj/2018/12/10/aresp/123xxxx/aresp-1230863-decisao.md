@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interposto por RODOLFO NORIVALDO GERALDI contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial interposto de acórdão proferido no julgamento dos Embargos Infringentes e de Nulidade n. 0002098-21.2014.8.26.0372/50001 (e-STJ, fls. 676/686).
+Consta dos autos que a Corte de origem deu provimento ao recurso em sentido estrito interposto pelo Ministério Público do Estado de São Paulo com o fim de determinar ao Juízo da 2ª Vara Criminal da Comarca de Monte Mor/SP o recebimento da peça acusatória que imputou ao agravante a prática, em continuidade delitiva (art. 71 do Código Penal), da conduta tipificada no art. 1º, II, c/c o art. 11, caput, ambos da Lei n. 8.137/1990 (e-STJ, fls. 460/467 e 521/539).
+O TJSP rejeitou embargos infringentes e de nulidade (e-STJ, fls. 594/598).
+O recurso especial não foi admitido pelo Tribunal de origem, pelo óbice da Súmula 284/STF e por ausência de comprovação de dissídio jurisprudencial, nos termos dos art. 1.029, § 1º, do Código de Processo Civil e art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Sobreveio, então, esta insurgência, por meio do qual a defesa infirma os fundamentos indicados pelo Tribunal de origem para justificar a inadmissibilidade do apelo nobre, além de sustentar que os óbices indicados na decisão objurgada não se aplicariam in casu.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o apelo nobre.
+Em parecer (e-STJ fls. 743/745), o Ministério Público Federal opinou pelo desprovimento do inconformismo.
+É o relatório.
+No recurso especial (e-STJ, fls. 618/633), o recorrente aponta violação do art. 395, III, do Código de Processo Penal. Pretende, em síntese, o trancamento da ação penal, por ausência de justa causa.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade (e-STJ, fls. 668/674), constata-se que, de fato, o recurso especial interposto não merece provimento.
+Sobre a questão submetida ao crivo deste Sodalício, o Tribunal a quo assim se manifestou (e-STJ fls. 526/528):
+ ..
+Consta dos autos que os recorridos foram denunciados pela prática de crime contra a ordem tributária, na condição de sócios da empresa Cosan S.A. Indústria e Comércio (fls. 01/4d).
+O crédito foi devidamente constituído e é objeto de execução fiscal, observada a Súmula Vinculante 24 do Pretório Excelso (fls. 04 e segs.).
+Instada ao pagamento, a pessoa jurídica ingressou com medida cautelar inominada para a garantia antecipada do juízo (fls. 362 e segs.).
+E o douto magistrado rejeitou a denúncia, com base no art. 395, III, do CPP, firme no entendimento de que "(..) a garantia de pagamento prestada pela fiança bancária acima mencionada, de qualquer forma, independente do resultado dos embargos à execução, será resolvida, quer pelo pagamento em caso de rejeição dos embargos, quer pela decisão de inexistência do débito, de forma a afastar a lesividade ao bem jurídico tutelado e a conseqüente tipificação da conduta ilícita imputada aos indiciados" (fl. 442v.).
+Mas, preservado o posicionamento do r. juízo, não se pode falar, agora, em falta de justa causa à persecução penal, porque o simples oferecimento de fiança bancária não elide a infração penal.
+Tanto assim que, no Recurso Especial Repetitivo 1.156.668/DF, a Instância Especial consolidou entendimento de que a fiança bancária não eqüivale ao depósito integral do débito, paira o fim de suspensão da exigibilidade do crédito tributário, a teor da taxativa redação do art. 151 do CTN e de seu enunciado sumular 112.
+ ..
+Assim, considerado que dita garantia "(..) não é suficiente para gerar declaração de extinção da punibilidade criminal em razão de peculiaridades no instituto da fiança, tais como a alegação do beneficio de ordem e a desoneração do encargo assumido mediante manifestação unilateral de vontade do fiador, nos termos dos arts. 827 e 835 do Código Civil", como bem ressaltado pelo "Parquet" a fl. 451, a rejeição da denúncia afigura-se descabida, mesmo porque não se pode dessumir como certa a satisfação do crédito.
+Imperioso, pois, o recebimento da aludida peça.
+ ..
+É conveniente registrar que toda denúncia é uma proposta de demonstração da ocorrência de fatos típicos e antijurídicos atribuídos a determinado acusado, sujeita, evidentemente, à comprovação e contrariedade, a qual somente deve ser repelida quando não houver prova da existência de crime ou de indícios de sua participação no evento criminoso noticiado, ou, ainda, quando se estiver diante de flagrante causa de exclusão da ilicitude ou da tipicidade, ou se encontrar extinta a punibilidade.
+No caso dos autos, houve a constituição definitiva do crédito tributário, sobrevindo o ajuizamento de execução fiscal, na qual foi oferecida e aceita apólice de seguro-garantia para discutir judicialmente a autuação.
+No entanto, conquanto o débito fiscal tenha sido garantido na origem, o certo é que não se equipara ao pagamento do tributo, razão pela qual não enseja, imediata e obrigatoriamente, o trancamento da ação penal, como almejado na presente impetração.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA VINCULANTE N. 24/STF. GARANTIA DA EXECUÇÃO FISCAL. NÃO EQUIPARAÇÃO AO PAGAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+4. Para o oferecimento da denúncia, exige-se apenas a descrição da conduta delitiva e a existência de elementos probatórios mínimos que corroborem a acusação. Provas conclusivas da materialidade e da autoria do crime são necessárias apenas para a formação de um eventual juízo condenatório. Embora não se admita a instauração de processos temerários e levianos ou despidos de qualquer sustentáculo probatório, nessa fase processual deve ser privilegiado o princípio do in dubio pro societate. De igual modo, não se pode admitir que o julgador, em juízo de admissibilidade da acusação, termine por cercear o jus accusationis do Estado, salvo se manifestamente demonstrada a carência de justa causa para o exercício da ação penal.
+5. Segundo o verbete sumular vinculante n. 24/STF: "Não se tipifica o crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei n. 8.137/1990, antes do lançamento definitivo do tributo".
+6. O entendimento reiterado desta Corte Superior é no sentido da independência entre as esferas cível e penal, de modo que a "impugnação do débito na seara cível, não obstante possa ter consequências sobre o julgamento da lide penal, não obsta, automaticamente, a persecutio criminis" (HC 103.424/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 16/3/2012).
+7. Na hipótese, verifica-se o prosseguimento da ação penal, de modo a se depreender que não houve extinção do crédito tributário na seara cível. Assim, reconhecida a presença de justa causa para a persecução penal, para infirmar tal conclusão seria necessário reexame detido no conjunto fático-probatórios dos autos, o que é defeso nesta via estreita.
+8. "Conquanto o débito fiscal tenha sido garantido na origem, o certo é que não se equipara ao pagamento do tributo, razão pela qual não enseja, imediata e obrigatoriamente, o trancamento da ação penal, como almejado" (HC 394.746/SP, Rel. Min. JORGE MUSSI, Quinta Turma,DJe 24/8/2017).
+9. Writ não conhecido.
+(HC 378.817/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/05/2018, DJe 22/05/2018)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. SONEGAÇÃO FISCAL. ALEGAÇÃO DE INÉPCIA FORMAL DA DENÚNCIA E DE FALTA DE JUSTA CAUSA PARA A AÇÃO PENAL. IMPROCEDÊNCIA. RECURSO NÃO PROVIDO.
+ ..
+5. A garantia do crédito tributário na execução fiscal - procedimento necessário para que o executado possa oferecer embargos - não possui, consoante o Código Tributário Nacional, natureza de pagamento voluntário ou de parcelamento da exação e, portanto, não fulmina a justa causa para a persecução penal, pois não configura hipótese taxativa de extinção da punibilidade ou de suspensão do processo penal.
+6. Como alinhavado pela instância ordinária, a legislação penal em matéria de crimes contra a ordem tributária já é benevolente com aqueles que incorrem nestes delitos, pois prevê formas de extinção da punibilidade e de suspensão do processo não proporcionadas aos crimes em geral.
+7. Assim, não deve ser admitida a ampliação da benesse legal de forma automática, toda vez que o agente garantir a execução fiscal para oferecer embargos, sem que haja prova inequívoca do pagamento ou do parcelamento do tributo, máxime porque o crime pressupõe, além do inadimplemento, a prática de conduta ardilosa para violar a ordem tributária.
+8. Recurso ordinário não provido.
+(RHC 65.221/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/06/2016, DJe 27/06/2016)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. LEI N.º 8.137/90. DENÚNCIA. TRANCAMENTO DA AÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. CARTA DE FIANÇA BANCÁRIA NÃO É PAGAMENTO INTEGRAL DO CRÉDITO. RECURSO DESPROVIDO.
+1. O oferecimento de carta de fiança bancária como garantia de crédito tributário não autoriza o trancamento da ação penal. Embora seja possível, futuramente, em caso de quitação, extinguir-se a punibilidade, trata-se de mera presunção.
+2. "O oferecimento de garantia em embargos à execução fiscal, ainda que potencialmente capaz de saldar, ao final daquele feito, o débito fiscal questionado, não é causa extintiva de punibilidade penal prevista como tal em nosso ordenamento, sendo descabida, por razões óbvias, sua equiparação à quitação integra do débito a que se refere o art. 9.º, § 2.º, da Lei n.º 10.684/2003." (HC 235.164/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, julgado em 19/11/2012, DJe 17/12/2012)
+3. Recurso desprovido.
+(RHC 67.209/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/04/2016, DJe 29/04/2016)
+Ademais, verifica-se que a pendência de julgamento dos embargos à execução fiscal em nada afeta a constituição do crédito tributário, que permanece hígida, o que reforça a impossibilidade de interrupção prematura do processo criminal, ante a independência entre as esferas cível, administrativa e penal.
+A propósito:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. DESCAMINHO. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. CRIME FORMAL. CRÉDITO TRIBUTÁRIO DEFINITIVAMENTE CONSTITUÍDO, RELACIONADO COM OS FATOS EM APURAÇÃO. INTEGRIDADE DO LANÇAMENTO REALIZADO NÃO AFETADA. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS.
+I - "Desnecessária a constituição definitiva do crédito tributário na esfera administrativa para configuração dos crimes de contrabando e descaminho" (HC n. 120.783, Primeira Turma, Rel. Min. Rosa Weber, DJe de 11/4/2014).
+III - "A existência de ação cível anulatória do crédito tributário não impede a persecução penal dos agentes em juízo, em respeito à independência das esferas cível e criminal. Precedentes. Ainda que obtido êxito no pedido de antecipação de tutela na seara cível, a fim de impedir a inscrição dos agentes em dívida ativa, condição de procedibilidade da execução fiscal, inadmissível o trancamento da ação penal, notadamente quando a decisão a eles favorável não afetou diretamente o lançamento do tributo devido, que, até decisão definitiva em contrário, não pode ser considerado nulo ou por qualquer outro modo maculado" (RHC n. 21.929/PR, Quinta Turma, Rel. Min. Jane Silva - Desembargadora Convocada do TJ/MG -, DJU de 10/12/2007).
+Recurso ordinário desprovido.
+(RHC 67.467/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPROPRIEDADE DA VIA ELEITA. SONEGAÇÃO FISCAL. (..) SUSPENSÃO DA AÇÃO NA PENDÊNCIA DE DISCUSSÃO JUDICIAL DO DÉBITO TRIBUTÁRIO. DESCABIMENTO. INDEPENDÊNCIA DAS ESFERAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+4. Esta Corte de Justiça tem jurisprudência uniforme no sentido de que a pendência de discussão acerca da exigibilidade do crédito tributário perante o Poder Judiciário não obriga a suspensão da ação penal, dada a independência entre as esferas.
+ ..
+6. Habeas corpus não conhecido.
+(HC 351.035/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/08/2016, DJe 23/08/2016).
+Assim, por se encontrar o acórdão em consonância com jurisprudência firmada nesta Corte superior, a pretensão do recorrente esbarra no óbice da Súmula 83/STJ, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, conhece-se do agravo para negar provimento ao recurso especial, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ.
+Publique-se. Intimem-se.
