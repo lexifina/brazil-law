@@ -1,0 +1,32 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENTE. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando-se como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de Goiás (HC n. 5494322-06.2018.8.09.0000).
+Em 14/9/2018, a paciente foi autuada em flagrante delito pela suposta prática do crime de tráfico de drogas. Posteriormente, o Juízo da 1a Vara da Comarca de Inhumas/GO (Autos n. 2018.0120.8756) homologou o flagrante e decretou a prisão preventiva da autuada (fls. 93/98).
+Indeferido o pedido de revogação da prisão preventiva, a defesa impetrou writ, na origem, o qual teve a ordem denegada.
+Daí o presente mandamus, em que o impetrante sustenta, em apertada síntese, ausência de fundamentos concretos para a manutenção da prisão cautelar.
+Destaca que a paciente é primária, possui bons antecedentes, é menor de 21 anos e possui uma filha de apenas três anos de idade.
+Alega que c. Câmara Coatora não observou a decisão que determinou que o HC 143641 do STF seja cumprido em todo o país para colocar em prisão domiciliar todas as presas grávidas ou que tenha filhos menores de 12 anos, guando o delito não fora praticado com uso de violência ou contra os próprios filhos, estendendo por conseguinte a decisão sobre as presas que respondem processos que se enquadram nos requisitos, em caso de condenação (fl. 6).
+Requer, inclusive liminarmente, a revogação da prisão, garantindo-se à paciente o direito de responder ao processo em liberdade.
+Deferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República [NOME], pela concessão da ordem de ofício (fls. 202/207).
+É o relatório.
+A liminar merece ser confirmada.
+Da atenta análise dos autos, observa-se desproporcional e exagerada a decretação da prisão preventiva da paciente pelo Juízo de piso. (fls. 96/97 - grifo nosso):
+ ..
+Conforme relatado, o indivíduo abordado afirmou ser usuário de drogas, bem como que adquiriu a substância de uma pessoa de nome [NOME], pelo valor de R$ 152,00 (cento e cinqüenta e dois reais), razão por que se deslocaram até a residência da pessoa indicada, a qual confirmou a comercialização da substância e indicou o seu suposto fornecedor que foi identificado como HYAGO DE OLIVEIRA ALVES ADORNO, na residência do qual foram encontradas várias porções da droga, além de uma balança de precisão, ocasião em que alegou que os entorpecentes eram de propriedade de CRISTIANO DIAS, detento da Unidade Prisional local.
+Nessa linha de raciocínio, vislumbro além do fumus commissi delicti, a presença do periculum libertatis, vez que presentes os fundamentos autorizadores da prisão preventiva, em especial, a necessidade de garantia da ordem pública, tendo em vista a gravidade concreta da(s) conduta(s) e a periculosidade do agente, evidenciada pelo modus operandi empregado.
+ ..
+Além da gravidade concreta do delito e do modus operandi utilizada na prática da (s) suposta (s) penal (is), convém salientar repercussão que esse tipo de delito causa na sociedade, gerando desassossego e intranqüilidade social, impondo-se, por essa razão, a manutenção da segregação provisória do investigado, como forma de manutenção da ordem pública
+Por outro lado, verifico que o(s) delito(s) supostamente praticado(s) possui(em) pena(s) máxima(s) superior(es) a 04 (quatro) anos. o que, aliado à presença dos fundamentos que autorizam a segregação cautelar, além da materialidade e indícios suficientes de autoria devidamente demonstrados no auto de prisão em flagrante, não autorizaria uma providência diversa da prisão preventiva. Nesse contexto, importa ressaltar o teor do artigo 313, inciso I, do Código de Processo Penal. Note:
+ ..
+De mais a mais, entendo que nenhuma das medidas cautelares diversas da prisão estabelecidas no artigo 319 do Código de Processo Penal (redação determinada pela Lei 12.430/2011) se revelam adequadas e suficientes para garantir a efetividade do processo, ao menos segundo os elementos existentes até agora nos autos, de modo que a segregação cautelar se mostra necessária, conforme dispõe o artigo 321 do Código de Processo Penal, a contrario sensu.
+ ..
+O Tribunal de Justiça, ao denegar a ordem do writ originário, concordou com os fundamentos apresentados pelo Juízo de primeira instância.
+Assim, com olhos postos nos princípios constitucionais da presunção de inocência, da ampla defesa e do devido processo legal, a alteração do Código de Processo Penal implementada pela Lei n. 12.403/2011 deu ao magistrado, para assegurar a ação penal, um rol de medidas restritivas de direitos menos gravosas ao réu do que a prisão preventiva. Com efeito, tal cautela é medida excepcional e se revela como última providência a ser adotada pelo período estritamente necessário, quando as demais não se mostrarem adequadas ou suficientes.
+No caso, verifica-se que o Magistrado indicou motivos genéricos para manter a paciente presa. Ademais, com ela foram encontradas apenas 3 porções de crack (fl. 71). Assim, nem a quantidade inexpressiva de droga apreendida não me parece justificativa idônea para a manutenção da prisão cautelar.
+Com razão o nobre Subprocurador-Geral da República quando, em seu parecer, deixou explicitado que tanto a decisão que decretou a prisão preventiva quanto a que a manteve carecem de fundamentação idônea, baseada na análise concreta do fato. A gravidade em abstrato do delito não serve para justificar a necessidade da segregação cautelar, menos ainda, a alegação genérica de intranquilidade social. O juízo de primeiro grau não fundamentou o porquê do crime praticado extrapolou os efeitos penais do tipo e sequer individualizou a conduta de cada um, particularizando a necessidade da prisão (fls. 205/206).
+Ante o exposto, concedo a ordem para, confirmando-se a liminar, a paciente aguardar em liberdade o julgamento da Ação Penal n. 120875-24.2018.8.09.0072, se por outro motivo não estiver presa, impondo-lhe, por ora, a medida cautelar prevista no art. 319, I (comparecimento periódico em juízo, no prazo e nas condições fixadas pela autoridade judicial, para informar e justificar atividades). Expeça-se alvará de soltura. Advirtam a paciente da necessidade de permanecer no distrito da culpa, atendendo aos chamamentos judiciais.
+Comuniquem-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
