@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se o presente recurso especial de matéria relativa às diferenças de correção monetária em depósitos de caderneta de poupança decorrentes da implementação dos planos econômicos Cruzado, Bresser, Verão e [NOME] e II, a qual foi objeto de acordo coletivo homologado pelo Supremo Tribunal Federal, nos autos da Arguição de Descumprimento de Preceito Fundamental (ADPF) n.º 165, Relator o Ministro Ricardo Lewandowski, DJ n.º 45 do dia 09/03/2018.
+A Segunda Seção do Superior Tribunal de Justiça, na sessão do dia 28 de novembro de 2018, acolheu Questão de Ordem no REsp 1.610.789/MT, para suspender todos os processos, individuais ou coletivos, seja na fase de conhecimento ou execução, que versem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 meses a contar de 05/02/2018, aguardando ainda o julgamento dos Recursos Extraordinários nºs 632.212, 631.363, 626.307 e 591.797, com repercussão geral perante o Colendo Supremo Tribunal Federal.
+Restitua-se, pois, os autos à origem, com a devida baixa nesta Corte.
+Publique-se. Intimem-se.
