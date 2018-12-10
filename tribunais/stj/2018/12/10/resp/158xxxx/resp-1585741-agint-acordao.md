@@ -1,0 +1,38 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA PROPOSTA PARA IMPEDIR DESAPROPRIAÇÃO DE IMÓVEIS. OBRAS DE MOBILIDADE. POSTERIOR MODIFICAÇÃO DOS PROJETOS E REDUÇÃO DO NÚMERO DE IMÓVEIS AFETADOS. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO EM MATÉRIA FÁTICA. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, ancorado no arcabouço probatório dos autos, concluiu que houve perda superveniente do objeto da ação e não reconhecimento do pedido pelo Município réu.
+2. No caso concreto, a alteração deste entendimento, tal como colocada a questão nas razões recursais, a fim de acolher a tese de que houve reconhecimento do pedido pelo réu, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. A convicção a que chegou o Tribunal a quo a respeito do valor dos honorários advocatícios decorreu da análise das peculiaridades fáticas do presente feito, de modo que a alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, esbarra no óbice da Súmula 7/STJ. Ademais, o quantum estabelecido não se mostra irrisório.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela Associação Potiguar dos Atingidos pela Copa de 2014 e outros, desafiando decisão que negou provimento ao recurso especial, sob o fundamento de que se aplica a Súmula 7/STJ, tendo em vista que a aferição de eventual reconhecimento do pedido, pelo Município agravado, bem como o redimensionamento da verba sucumbencial implicam reexame de matéria fático-probatória.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) não se aplica a Súmula 7/STJ tendo em vista que não se pretendeu reexame de fatos e de provas, ressaltando que o Tribunal a quo consignou não haver reconhecimento do pedido "simplesmente porque o Agravado não teria protocolado uma petição nos autos para dizer com essas palavras - "reconheço o pedido" - que tinha feito a modificação do projeto da obra e a revogação das desapropriações para atender às Agravantes." (fl. 946); e (II) a fixação da verba advocatícia não requer, no caso, o reexame de matéria probatória, mas o reconhecimento de que são irrisórios os honorários que "correspondem a 0,0059% do valor da causa." (fl. 948).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Os agravados não apresentaram impugnação (fls. 955 e 956).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA PROPOSTA PARA IMPEDIR DESAPROPRIAÇÃO DE IMÓVEIS. OBRAS DE MOBILIDADE. POSTERIOR MODIFICAÇÃO DOS PROJETOS E REDUÇÃO DO NÚMERO DE IMÓVEIS AFETADOS. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO EM MATÉRIA FÁTICA. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, ancorado no arcabouço probatório dos autos, concluiu que houve perda superveniente do objeto da ação e não reconhecimento do pedido pelo Município réu.
+2. No caso concreto, a alteração deste entendimento, tal como colocada a questão nas razões recursais, a fim de acolher a tese de que houve reconhecimento do pedido pelo réu, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. A convicção a que chegou o Tribunal a quo a respeito do valor dos honorários advocatícios decorreu da análise das peculiaridades fáticas do presente feito, de modo que a alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, esbarra no óbice da Súmula 7/STJ. Ademais, o quantum estabelecido não se mostra irrisório.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não merece prosperar.
+No caso dos autos, a Associação agravante ajuizou ação civil pública com o fim de impedir o Município de Natal a proceder às desapropriações e imissões na posse de imóveis sem que fossem os proprietários previamente indenizados, com base no justo valor e por meio do devido processo legal.
+A sentença de piso extinguiu o processo, sem resolução do mérito, em razão de a Administração municipal ter promovido a modificação do projeto de obras de mobilidade e a redução do número de desapropriações. Em razão do princípio da causalidade, a municipalidade foi condenada ao pagamento de honorários advocatícios, fixados em R$ 5.000,00 (cinco mil reais), os quais foram majorados para R$ 20.000,00 (vinte mil reais), no julgamento da apelação.
+Nas razões do recurso especial, a parte ora agravante sustentou que não houve mera perda do objeto da ação, mas reconhecimento do pedido, assim como pleiteou a majoração dos honorários advocatícios.
+A decisão agravada, contudo, negou provimento ao recurso especial, tendo em vista que a pretensão recursal encontra óbice da Súmula 7/STJ, em virtude da necessidade de reexame de fatos e de provas.
+A aplicação do referido óbice processual decorre da circunstância de que a Corte regional, ao afastar a tese relativa ao reconhecimento do pedido, considerou circunstâncias fáticas da lide, nestes termos (fl. 792):
+ Não houve no processo reconhecimento jurídico do pedido por parte do Município de Natal. A sentença é clara quanto a esse aspecto - vide fls. 645/646. Como dito, as desapropriações que a APAC pretendia evitar não ocorreram, pois houve alterações no projeto inicial das obras. Logo, a pretensão da APAC não foi acolhida pelo Juízo de Primeiro Grau e nem houve, por parte do Município de Natal, concordância com o pedido veiculado na petição inicial. Não houve, pois, aquiescência com o pedido formulado.
+Ora, não há como acolher a pretensão recursal, pois, a verificação de que houve reconhecimento do pedido pelo Município, necessária a incursão nas provas carreadas aos autos, providência que esbarra na Súmula 7/STJ, conforme consignado na decisão agravada.
+Do mesmo modo, não há como aferir se o valor fixado a título de honorários advocatícios seria irrisório, na espécie. É que o Tribunal local, ao majorar a verba sucumbencial para R$ 20.000,00 (vinte mil reais), asseverou (fl. 768):
+ Assim, atento aos critérios do art. 20, §§ 3º e 4º do CPC (I. o grau de zelo do profissional; II. o lugar de prestação do serviço; e III. a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço), creio que o montante de R$ 20.000,00 (vinte mil reais) é patamar adequado às nuances do caso concreto.
+No caso, para se chegar à conclusão de que os honorários advocatícios não foram adequadamente arbitrados necessário seria imiscuir em matéria fático-probatória, esbarrando a pretensão no óbice da Súmula 7/STJ, conforme consignado na decisão ora agravada.
+Ademais, não se configurou, na espécie, ofensa aos princípios da razoabilidade e da proporcionalidade.
+Assim, a decisão agravada deve ser confirmada pelo Colegiado.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
