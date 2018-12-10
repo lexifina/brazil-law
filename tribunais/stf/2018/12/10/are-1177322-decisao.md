@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Luís Fernando Soares Moraes contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 2ª Região, está assim ementado:
+    “DIREITO CONSTITUCIONAL E PROCESSO CIVIL. APELAÇÃO E REMESSA NECESSÁRIA. AÇÃO POPULAR MÉDICO. CUMULAÇÃO. UNIÃO. MUNICÍPIO. CREMERJ. UNIMED. INDEFERIMENTO DA INICIAL. DESCABIMENTO.
+    1. A sentença indeferiu a inicial da ação popular, convencido o juízo da ausência de ilegalidade e lesividade ao erário na cumulação, pelo Conselheiro do CREMERJ, com os cargos de médico exercidos na UNIÃO e no MUNICÍPIO DO RJ.
+    2. A teor da Constituição, qualquer cidadão é parte legítima para propor ação popular que vise anular ato lesivo ao patrimônio público e à moralidade administrativa. Não bastasse, o acesso aos tribunais é garantia individual inserta no direito de petição aos poderes constituídos.
+    3. No plano processual, as condições de ação apenas condicionam a instauração de demandas à legitimidade ativa, ao interesse e à possibilidade jurídica do pedido, aplicando-se, na análise dos requisitos, a teoria da asserção. Pela narrativa da causa de pedir, imputa-se ao médico réu a cumulação de cargos públicos em órgãos de saúde do MUNICÍPIO e da UNIÃO, sem cumprimento da respectiva jornada de trabalho, até em virtude da concomitância com atividade privada, quer como Conselheiro do CREMERJ, quer como dirigente da UNIMED.
+    4. O direito à remuneração pressupõe a efetiva prestação do serviço e, em tese, configura enriquecimento sem causa, também atentatório à moralidade administrativa, perceber vencimentos por jornada não cumprida. Precedentes.
+    5. A análise dos elementos indiciários que instruem a ação apontam com clareza a necessidade de assegurar o prosseguimento e efetividade da demanda de ‘status’ constitucional e o exercício da cidadania.
+    6. Apelação e remessa necessária providas. Sentença anulada, determinando-se o regular processamento da ação popular.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o ARE 824.781-RG/MT, Rel. Min. DIAS TOFFOLI, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e reafirmou a jurisprudência desta Corte sobre o tema, nele fixando tese assim consubstanciada:
+    “Não é condição para o cabimento da ação popular a demonstração de prejuízo material aos cofres públicos, dado que o art. 5º, inciso LXXIII, da Constituição Federal estabelece que qualquer cidadão é parte legítima para propor ação popular e impugnar, ainda que separadamente, ato lesivo ao patrimônio material, moral, cultural ou histórico do Estado ou de entidade de que ele participe.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte estabeleceu e reafirmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por estar em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 10 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
