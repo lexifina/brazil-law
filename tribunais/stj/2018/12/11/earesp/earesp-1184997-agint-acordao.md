@@ -1,0 +1,52 @@
+EMENTA
+TRIBUTÁRIO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO INTERNO DOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. BASE DE CÁLCULO DE ICMS. VALOR DO FRETE. SUBSTITUIÇÃO TRIBUTÁRIA. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inviável a discussão acerca da possibilidade ou não de se exigir da concessionária as quantias referentes ao ICMS incidentes sobre o transporte de veículo automotor, uma vez que essa questão fora decidida pela Corte de origem com base nas provas erigidas dos autos, as quais concluem pela ausência de elementos probatórios que permitam atestar o adimplemento dos referidos custos pela concessionária.
+2. Neste sentido, a pretensão de reversão do conjunto fático-probatório dos autos suscitada pela recorrente, enseja a aplicação da Súmula 7/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 442/465) interposto por Spengler S/A, contra decisão monocrática sintetizada da seguinte ementa:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. COMPOSIÇÃO DA BASE DE CÁLCULO. CUSTO DO FRETE. AUSÊNCIA DE PROVA QUE ATESTE TER O RECORRENTE ARCADO COM O REFERIDO CUSTO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+Os embargos de declaração opostos pelo Estado do Rio Grande do Sul/RS foram acolhidos, nos seguintes termos, in verbis:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. CONTRADIÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+A agravante, em suas razões, aduz ser inaplicável o teor da Súmula 7/STJ, pois a matéria controvertida não enseja a revaloração do conjunto fático e probatório dos autos, de modo a ser inexigível o ICMS sobre o frete custeado pela concessionário. Afirma ademais, que a controvérsia dos autos não possibilita o julgamento monocrático
+Requer seja provido o recurso.
+Impugnação ao agravo interno às fls. 470/474 (e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO INTERNO DOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. BASE DE CÁLCULO DE ICMS. VALOR DO FRETE. SUBSTITUIÇÃO TRIBUTÁRIA. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inviável a discussão acerca da possibilidade ou não de se exigir da concessionária as quantias referentes ao ICMS incidentes sobre o transporte de veículo automotor, uma vez que essa questão fora decidida pela Corte de origem com base nas provas erigidas dos autos, as quais concluem pela ausência de elementos probatórios que permitam atestar o adimplemento dos referidos custos pela concessionária.
+2. Neste sentido, a pretensão de reversão do conjunto fático-probatório dos autos suscitada pela recorrente, enseja a aplicação da Súmula 7/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do agravo interno, defende a recorrente a não-incidência de ICMS sobre os valores despendidos por ela no frete de veículos automotores da montadora à concessionária, uma vez que tais custos não compõem a base de cálculo do ICMS pago pela montadora na qualidade de substituta tributária.
+Aduz neste sentido, que não pode o Estado cobrar ICMS suplementar da concessionária em razão do frente arcado por ela no deslocamento de veículos automotores advindos da montadora.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O Tribunal de origem ao solucionar a controvérsia, manteve a exigibilidade do ICMS, em razão da agravante não ter comprovado que de fato arcou com os valores de frete na operação de remessa dos veículos automotores, in verbis:
+"5.2 - Relativamente à base de cálculo - origem do dissenso quanto ao valor, concluindo-se que a embargante não desfez a presunção favorável ao Fisco -, cabe definir se o caso é de frete efetuado pela montadora/vendedora, caso em que a integra, ou de frete contratado pela concessionária/compradora, caso em que não a integra.
+Considerando que a embargante não só não desfez a presunção, mas "quedou-se quando consultada acerca do interesse (fls. 60-3)" (fl. 132v.), foi invocada a Peça Fiscal transcrita na fl. 43 (fl. 132v., item 1.2), a qual agora também a transcrevo (fls. 200-3 ou fls. 8-10 dos autos da execução apensos):
+(..)
+Dessarte, está claro que a questão jurídica, pelo Auto de Lançamento nº 003433676, referido na CDA (fl. 4, autos apensos), não é de frete contratado de forma autônoma pela concessionária/compradora, e sim contratado pela montadora/vendedora, e por isso integrante da base de cálculo do ICMS, pelo menos em relação aos Conhecimentos de Transportes Rodoviários de Cargas - CTRCs "apresentados pelo contribuinte" (sic), nos quais a Peça Fiscal se baseou.
+Conforme consignado pelo acórdão, a inclusão dos valores de frete na base de cálculo do ICMS, na operação de remessa de veículo automotor à concessionária, no regime de substituição tributária, se fez amparado na concepção de que tal rubrica (frete) fora custeado integralmente pela montadora, não havendo provas que tais valores foram arcados pela a agravante.
+Neste sentido, atender a pretensão da agravante para aplicar o entendimento jurisprudencial segundo o qual exclui da base de cálculo do ICMS os valores despendidos a título de frete, imprescindem da reversão do conjunto fático e probatório dos autos, o que em sede de recurso especial é inviável segundo o óbice da Súmula 7/STJ.
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ICMS. NÃO INTEGRAÇÃO DOS PRODUTOS DADOS EM BONIFICAÇÃO NA BASE DE CÁLCULO DO TRIBUTO. PEDIDO DE ANTECIPAÇÃO DE TUTELA NEGADO PELA INSTÂNCIA ORDINÁRIA. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte. 2. Cuida-se, na origem, de Agravo de Instrumento, com pedido de antecipação dos efeitos da tutela recursal, interposto pelas recorrentes nos autos de Ação Declaratória c/c restituição de tributo, contra decisão que indeferiu o pedido de antecipação dos efeitos da tutela que visa suspender a exigibilidade do ICMS sobre produto dado em bonificação.
+3. Sobre a matéria, assim se posicionou a Corte local: "Desse modo, analisando a matéria, consoante permitido por essa via recursal, não se verifica a verossimilhança das alegações, a permitir a exclusão das mercadorias dadas em bonificação da base de cálculo do ICMS, tendo em vista não restar evidenciado tratar-se de operação que envolva pura e simplesmente circulação de mercadoria sem valor econômico destinado a consumidor final, sem a participação do substituto tributário, muito embora se reconheça não incidir ICMS sobre mercadorias fornecidas gratuitamente" (fl. 230, e-STJ).
+4. A iterativa jurisprudência do STJ é no sentido de que, para analisar os critérios
+5. A adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", nos termos do art. 273 do CPC/1973, o que não é possível em Recurso Especial, dado o óbice da Súmula 7 do STJ.
+5. Enfim, modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese das recorrentes, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+6. Ademais, é "sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final" (AgRg no AREsp 400.375/GO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/12/2013).
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1681168/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. NOVA EXIGÊNCIA DE ICMS INCIDENTE SOBRE O VALOR DO FRETE. REEXAME DE PROVAS. SÚMULA 7/STJ. POSSIBILIDADE DE COBRANÇA DA CONCESSIONÁRIA. SÚMULA 280/STF. AGRAVO IMPROVIDO.
+1. Tendo a agravante fundamentado o recurso nobre apresentado com base no fato de estar ocorrendo nova incidência de ICMS já pago, e tendo entendido o Tribunal de origem que esses valores não foram recolhidos (fl. 17), a análise do especial fica condicionada ao reexame do conjunto fático-probatório dos autos, o que é defeso a este Pretório, haja vista o óbice contido na Súmula 7/STJ.
+2. Inviável a discussão acerca da possibilidade ou não de se exigir da concessionária as quantias referentes ao ICMS incidente sobre frete realizado, uma vez que essa questão foi decidida pela Corte a quo com base em regra prevista em legislação local, qual seja o § 3º do Convênio Estadual n. 132/92, aplicando-se o disposto na Súmula 280/STF.
+3. Agravo regimental improvido.
+(AgRg no Ag 624.507/RS, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 26/04/2005, DJ 23/05/2005, p. 158)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
