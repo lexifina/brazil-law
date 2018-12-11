@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de agravo interno interposto por [NOME] S/A e outras em face da decisão de fls. 401-407, que deu provimento ao recurso, nos termos da seguinte ementa:
+DIREITO FALIMENTAR. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE CRÉDITOS. NÃO SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL DO DEVEDOR-CEDENTE. REGISTRO NO CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE.
+1. É firme a jurisprudência do STJ no sentido de que a exigência de registro, para efeito de constituição da propriedade fiduciária, não se faz presente no tratamento legal ofertado pela Lei n. 4.728/1995, em seu art. 66-B (introduzido pela Lei n. 10.931/2004) à cessão fiduciária de direitos sobre coisas móveis, bem como de títulos de crédito (bens incorpóreos e fungíveis, por excelência), tampouco com ela se coaduna, haja vista que a constituição da propriedade fiduciária, oriunda de cessão fiduciária de direitos sobre coisas móveis e de títulos de crédito, dá-se a partir da própria contratação, afigurando-se, desde então, plenamente válida e eficaz entre as partes. A consecução do registro do contrato, no tocante à garantia ali inserta, afigura-se relevante, tão somente para produzir efeitos em relação a terceiros, com o fito de lhes dar a correlata publicidade.
+2. Recurso especial provido.
+Afirma, em síntese, que a "inexistência dos direitos creditórios cedidos fiduciariamente, fato aferível somente após a interposição do recurso especial, torna de direito a reforma da r. decisão agravada".
+Destaca que "os Recorrentes já se manifestaram apresentando sua opção de forma de pagamento no plano de recuperação judicial das Recorridas, o que importa em renúncia de qualquer pretensão de pleitear a reclassificação de seu crédito para que seja considerado não sujeito à recuperação judicial", tendo eles optado "por receber seu crédito mediante subscrição debêntures da empresa Nova [NOME] S.A., nos termos da cláusula do 6.4 do plano de recuperação judicial".
+Impugnação apresentada às fls. 425-431.
+É o relatório.
+2. Diante da afetação à Segunda Seção do Resp nº 1.629.470/MS, cujo tema em debate é justamente a questão travada no âmbito do presente recurso especial - a necessidade ou não de registro da propriedade fiduciária para exclusão dos efeitos da recuperação judicial em relação ao crédito garantido - reconsidero a decisão de fls. 401-407 para, posteriormente, pautar o recurso especial.
+3. Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 401-407, tornando-a sem efeito.
+Publique-se. Intime-se.
