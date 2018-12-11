@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 284 do STF (e-STJ fl. 314).
+O Tribunal de origem conheceu e deu parcial provimento ao recurso do agravante S & J CONSULTORIA E INCORPORAÇÃO LTDA. Confira-se a seguinte ementa (e-STJ fl. 239):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. PROMESSA DE COMPRA E VENDA DE LOTES. RESCISÃO CONTRATUAL. CULPA EXCLUSIVA DO VENDEDOR. NOTIFICAÇÃO PRÉVIA DESNECESSÁRIA. FALHA NA PRESTAÇÃO DO SERVIÇO. AUSÊNCIA DE IMPLEMENTAÇÃO DE INFRAESTRUTURA NA DATA PREVISTA EM CONTRATO. RESTITUIÇÃO AO STATUS QUO ANTE. COMISSÃO DE CORRETAGEM. CUSTO DO EMPREENDIMENTO. MULTA CONTRATUAL SOBRE OS VALORES ADIMPLIDOS PELO PROMITENTE COMPRADOR. I. Nos termos do artigo 475 do Código Civil, em caso de inadimplemento contratual tem a parte lesada a faculdade de requerer a resolução do contrato, não havendo necessidade de notificação prévia do inadimplente. II. Constatada falha na prestação do serviço do promissário vendedor, materializada especialmente na ausência de implementação de infraestrutura, legitimada se afigura a rescisão do contrato com o restabelecimento das partes ao status quo ante, mediante a devolução das quantias pagas pelo promitente comprador. III. A restituição da comissão de corretagem não é devida quando ausente estipulação contratual prévia e exata quanto ao seu valor de forma destacada do preço do imóvel. IV. Embora indevida a retenção de valores a título de custo do empreendimento quando ausente a culpa do promitente comprador na rescisão do contrato, impossível excluí-la da sentença de ofício sob pena de reformatio in pejus. V. A multa penal deve ter por base as parcelas adimplidas pelo promitente comprador. Precedentes do STJ. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 265/281).
+No recurso especial (e-STJ fls. 285/304), com fundamento no art. 105, III, alínea "a", da CF, a recorrente pugnou pela reforma do acórdão recorrido para determinar a retenção de 20% (vinte por cento) a título de custos do empreendimento e a não incidência da cláusula penal de 10% (dez por cento).
+Não se ofereceram contrarrazões.
+No agravo (e-STJ fls. 317/340), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 344/346).
+É o relatório.
+Decido.
+O conhecimento do recurso quanto à reforma do acórdão recorrido para determinar a retenção de 20% (vinte por cento) a título de custos do empreendimento e a não incidência da cláusula penal de 10% (dez por cento) exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente, ônus de que a parte não se desincumbiu. Aplica-se a Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1024730/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/8/2017, DJe 21/8/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ERRO MÉDICO. DANO MORAL. NÃO CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+(..)
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.562.730/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/4/2016, DJe 12/4/2016.)
+Ademais, o Tribunal de origem rejeitou os embargos de declaração opostos e assentou que a tese relativa à impossibilidade de inversão da multa penal contratual é uma inovação recursal, uma vez que não foi arguida, pela recorrente, nas razões de apelação. Confira-se (e-STJ fls. 277/278):
+Fixadas as premissas de direito, quanto aos fatos, vê-se que, no tocante à multa, a apelação devolveu a este Tribunal, apenas, a sua base de cálculo, a fim de que os 10% fossem aplicados sobre os valores efetivamente pagos, porquanto na sentença ficou determinado que incidira sobre o valor total do contrato.
+Sendo assim, a questão afetada (inversão da multa em benefício do consumidor) não foi objeto da apelação, razão pela qual não há se falar em sobrestamento e nem mesmo em omissão.
+Com efeito, a ré conformou-se com a penalidade que lhe foi aplicada, discordando, apenas, da sua base de cálculo, razão pela qual incomportável nesse grau de jurisdição eventual exclusão, sob pena de nulidade (julgamento extra petita).
+Contudo, no especial, a parte não impugnou esse fundamento, incidindo, portanto, a Súmula n. 283 do STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. COMPRA E VENDA. IMÓVEL LITIGIOSO. CIÊNCIA INEQUÍVOCA. CLÁUSULA RESOLUTIVA. REGISTRO IMOBILIÁRIO. BOA-FÉ AFASTADA. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONTEXTO FÁTICO DA DEMANDA. CONSIGNAÇÃO INEFICAZ. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF E 5 E 7/STJ. INCIDÊNCIA.
+(..)
+3. Demanda indevido reexame do conteúdo fático e contratual dos autos, com óbice processual nos enunciados 5 e 7 da Súmula do STJ, reverter as conclusões do Tribunal de origem nesse aspecto, circunstância que afasta a aplicação do enunciado 375 da Súmula do STJ à hipótese dos autos.
+4. É inadmissível o recurso especial que não impugna motivação do acórdão recorrido apta, por si só, a manter parte da conclusões a que chegou a Corte estadual (enunciado 283 da Súmula do STF).
+5. Agravo interno a que se nega provimento.
+(AgRg no AgRg no REsp 1483331/DF, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/6/2016, DJe 30/6/2016.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
