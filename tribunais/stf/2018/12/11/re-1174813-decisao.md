@@ -1,0 +1,10 @@
+DESPACHO: O presente recurso extraordinário foi interposto pelo Instituto de Previdência do Estado de Santa Catarina – IPREV contra acórdão que, proferido em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. PENSÃO POR MORTE. REVISÃO DO BENEFÍCIO VISANDO À PARIDADE. INSTITUIDOR REFORMADO POR INCAPACIDADE FÍSICA. APLICAÇÃO DO ART. 6º, PARÁGRAFO ÚNICO, DA EC N. 41/2003, INCLUÍDO PELA EC N. 70/2012. REVISÃO DEVIDA. DECLARATÓRIOS ACOLHIDOS PARA, EM JUÍZO DE RETRATAÇÃO, MANTER O DESPROVIMENTO DO APELO DO IPREV POR FUNDAMENTO DIVERSO. NÃO FIXAÇÃO DE HONORÁRIOS RECURSAIS, POIS INCABÍVEIS NA ESPÉCIE. PRECEDENTES ESTÁVEIS DESTA CORTE.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 924.456/RJ, Rel. Min. DIAS TOFFOLI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Direito Constitucional. Direito Administrativo. Aposentadoria por invalidez permanente decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei. Concessão com base no art. 40, §§ 1º a 3º da Constituição da República, com a redação dada pela EC nº 41/03. Exegese dos arts. 1º e 2º da EC nº 70/12. Direito a proventos integrais. Discussão acerca do alcance das referidas normas constitucionais. Matéria passível de se repetir em inúmeros processos e de repercutir na esfera de interesse de inúmeros servidores aposentados. Presença de repercussão geral.”
+    Isso significa que se impõe, quanto ao Tema nº 754/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 11 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
