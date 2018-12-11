@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLEITO DE PRODUÇÃO ANTECIPADA DE PROVA. AUSÊNCIA DE COMPROVAÇÃO DE REGULARIDADE NO PRÉVIO REQUERIMENTO ADMINISTRATIVO. PRETENSÃO CONSIDERADA COMO NÃO RESISTIDA PELA CORTE ESTADUAL . REEXAME DE PROVAS. SÚMULAS 7 E 83 DO STJ.
+AGRAVO CONHECIDO PARA DEIXAR DE CONHECER DO RECURSO ESPECIAL COM MAJORAÇÃO DE HONORÁRIOS.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por [NOME] [NOME] ARAUJO contra decisão do Tribunal de Justiça do Estado de Sergipe que inadmitiu o recurso especial fundamentado nas alíneas "a" e "c" do inciso III, do art. 105, da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO PRODUÇÃO ANTECIPADA DE PROVA. [NOME]. SOLICITAÇÃO ADMINISTRATIVA DO PROCESSO DE SEGURO. NEGATIVA. PLEITO RECURSAL ATINENTE À NÃO CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO PRINCIPIO DA CAUSALIDADE. VERIFICADA OMISSÃO DO JUÍZO A QUO QUANTO A ESTE OBJETO. UTILIZAÇÃO DO ART. 1013, § 3º, III DO CPC/2015. LIDE ALICERÇADA EM AR ENVIADO POR ESCRITÓRIO DE ADVOCACIA. AUSÊNCIA DE PROVA ACERCA DO TEOR DA SOLICITAÇÃO REMETIDA E EXÍGUO PRAZO PARA RESPOSTA DO RÉU. NÃO COMPROVAÇÃO DE RESISTÊNCIA. INAPLICABILIDADE DO PRINCÍPIO DA CAUSALIDADE. RECURSO CONHECIDO E DESPROVIDO. (e-STJ, fl. 160).
+Nas razões recursais, a parte recorrente alegou a violação dos arts. 381, 305, 396 e 82 do Código de Processo Civil de 2015, bem como divergência jurisprudencial.
+Para tanto, sustenta, em síntese, que houve pretensão resistida na hipótese em apreço, uma vez que teria sido a parte ora recorrida a causadora do ajuizamento da demanda ao não responder requerimento formulado via carta com aviso de recebimento.
+Afirma, ainda, que "a jurisprudência favorece o pleito do autor, pois houve resistência da ré para apresentar os documentos solicitados (que são de fácil acesso a eles) e eles só vieram apresentar após a demanda judicial."  sic  (e-STJ fl. 305).
+Requer, por fim a condenação da recorrida ao pagamento de custas e honorários advocatícios.
+Contrarrazões apresentadas às fls. 351-356 e-STJ.
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não pode ser acolhida.
+A jurisprudência deste Tribunal é assente no sentido de que, para haver condenação da em honorários advocatícios, deve estar caracterizada a resistência à exibição dos documentos pleiteados na via administrativa.
+No presente caso, verifica-se que o Tribunal estadual firmou o seguinte entendimento no que atine à comprovação de prévio e regular requerimento administrativo bem como em relação à observância do princípio da causalidade:
+em análise aos autos de origem, verifico que o documento acostado pelo Autor para comprovar o pleito de solicitação do processo administrativo de seguro, e sustentar sua tese de negativa de fornecimento, trata-se de único AR, remetido pela Bruno Fuga Advocacia - fls. 17/18 do processo materializado, escritório contratado pelo autor.
+Este, cumpre ressaltar, entendo insuficiente para demonstrar tanto o pleito de requerimento do processo administrativo, como a recusa do requerido. Explico.
+Quanto ao primeiro argumento, no AR não se sabe, ao certo, qual o conteúdo do documento enviado para a empresa Requerida, pois apesar de constar "notificação premonitória: [NOME]" (fls. 17), não há qualquer identificação deste AR, com a notificação que se apresenta às fls. 16, correlacionando-os.
+Assim, entendo que a simples juntada de citados documentos (AR e petição de notificação), não validam as argumentações autorais, inclusive pelo fato de ter sido emitida por escritório de advocacia, que não é detentor de fé pública.
+Não há no conjunto probatório dos autos qualquer documento hábil a comprovar que o teor da notificação emitida é o mesmo daquele trazido aos autos, e via de consequência a este fato, não se presta a comprovar a negativa da Seguradora.
+No tocante a este último contexto, que a Seguradora tenha recusado o acesso ao documento pretendido, é de observar que no AR, consta o recebimento pelo Requerido em 02/08/2016, e em 17/08/2016, promovera o autor o ajuizamento da demanda, ou seja, existe entre o alegado pedido administrativo "negado", e o pedido judicial, apenas 12 dias úteis, o que entendo descaracterizar a "negativa". Senão vejamos.
+Ora, certo é, que não se pode exigir que a parte interessada esgote a via administrativa antes de ajuizar uma ação para exibição de documento, pois tal ação, independe de pedido na seara administrativa. Mas é de se entender que para considerar-se uma negativa de, como alicerça a exordial, espere o solicitante um prazo razoável para o atendimento ao requerimento efetivado.
+Inclusive pelo fato de ser a apelada uma instituição de seguro [NOME], que deve receber diariamente milhares de correspondências, e ainda, em localidade diversa, como in casu, estabelecida no Rio de Janeiro, necessário um tempo mínimo necessário para que a correspondência seja recebida, e encaminhada ao setor competente, para atendimento e envio ao autor. (e-STJ, fls. 161-162).
+Assim, o entendimento da Corte estadual está em consonância com a jurisprudência desta Corte superior, incidindo, no ponto, o enunciado da Súmula 83/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO ANTECIPADA DE PROVAS. ACÓRDÃO EM CONSONÂNCIA COM PRECEDENTES DESTA CORTE. SÚMULA 83 DO STJ. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF.
+2. O STJ possui firme o entendimento no sentido de que, em conformidade com os princípios da sucumbência e da causalidade, são devidos honorários advocatícios em ações cautelares de exibição de documentos e produção antecipada de provas, desde que demonstrada a recusa administrativa, e configurada a resistência à pretensão autoral. Precedentes.
+3. O Tribunal de origem, amparado no acervo fático - probatório dos autos, entendeu que não houve resistência na apresentação dos documentos requeridos pela demandante, no procedimento da produção antecipada de provas. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo não provido.
+(AgInt no AgInt no AREsp 1193560/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRECLUSÃO CONSUMATIVA. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. PRETENSÃO RESISTIDA. REVISÃO. SÚMULA N. 7/STJ. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. SÚMULA N. 83/STJ.
+1. Interpostos dois recursos pela mesma parte contra a mesma decisão, é inviável o conhecimento do segundo recurso em razão da preclusão consumativa.
+2. Estando caracterizada nos autos a resistência à exibição de documentos pleiteados na via administrativa, é cabível a condenação a honorários advocatícios em virtude da sucumbência no feito.
+3. A comprovação de que não houve prévia recusa administrativa à exibição de documento demanda o reexame do conjunto fático-probatório dos autos, o que é vedado na instância especial, nos termos da Súmula n. 7/STJ.
+ 4. Agravo regimental provido.
+(AgRg no REsp 1.431.875/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 21/09/2015).
+Destarte, a reforma do acórdão recorrido é inviável, eis que para elidir a conclusão a que chegou o Tribunal de origem, quanto à inidoneidade da prova de requerimento administrativo seria necessário analisar e confrontar provas documentais juntadas aos autos, o que é vedado em sede de recurso especial, ante o óbice Súmula 7/STJ.
+Ante o exposto, conheço do agravo para deixar de conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios, originalmente fixados no montante de R$ 800,00 (oitocentos reais), (e-STJ, fl. 164), para R$ 900,00 (novecentos reais).
+Intimem-se.
