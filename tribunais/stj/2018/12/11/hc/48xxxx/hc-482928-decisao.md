@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] - preso em flagrante em 18/9/2018 e denunciado pela suposta prática dos crimes previstos no artigo 33, caput e artigo 35, ambos da Lei n. 11.343/2006 - apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC 2233734-94.2018.8.26.0000).
+Segundo informa a defesa, na data de 29/10/2018, impetrou habeas corpus com pedido liminar, sendo que até a presente data o Tribunal de origem não apreciou sequer o pedido liminar, tendo em vista que o juízo de primeiro grau não prestou as informações necessárias para a apreciação da liminar.
+Na presente oportunidade, afirma que os requisitos que indiquem a necessidade de imposição da segregação acautelatória do paciente não estão presentes, eis que aduz todas as condições pessoais favoráveis para responder o presente feito em liberdade, pois é primário, cooperou com a autoridade policial no momento de sua prisão, os delitos, em tese praticados, são desprovidos de violência ou grave ameaça, possui residência fixa no distrito da culpa, o que faz inferir, outrossim, que não causará óbice à instrução processual, tampouco à aplicação legal (e-STJ fl. 3).
+Diante disso, pede, em liminar e no mérito, a liberdade provisória do paciente, para que possa aguardar o término do processo em liberdade.
+É o relatório. Decido.
+Preliminarmente, segundo informações colhidas do site do Tribunal de Justiça do Estado de São Paulo, em despacho publicado no dia 3/12/2018, consta o seguinte (2233734-94.2018.8.26.0000):
+Nota-se que a decisão que converteu a prisão em flagrante do paciente em preventiva foi proferida em sede de plantão judicial, não sobrevindo qualquer decisão que indique a ratificação ou retificação da decisão, o que alteraria o título. Logo, necessária informações para apreciação da liminar.
+A d. Autoridade Impetrada deverá prestar esclarecimentos acerca do alegado, instruindo com documentos e informações que entender pertinentes. Deverá a d. Autoridade manifestar-se expressamente sobre a situação carcerária do ora paciente.
+Com a vinda de informações tornem para a apreciação da liminar.
+Registre-se, assim, que já houve sim uma análise preliminar do writ pelo Relator, inclusive tomando providências, como se viu do despacho acima descrito, contrariando as alegações dispostas na inicial.
+Por outro lado, conforme informado pelo paciente, verifico que o presente habeas corpus é mera reiteração do HC 481.432/SP, o qual foi indeferido liminarmente, tendo em vista que o Tribunal de Justiça Estadual não se manifestara sobre o habeas corpus impetrado na origem, razão pela qual a análise do writ implicaria em indevida supressão de instância.
+Assim, por se tratar de mera reiteração, sem alteração fática, o presente writ não pode prosseguir. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 10/9/2015, DJe 22/9/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se. Intime-se.
