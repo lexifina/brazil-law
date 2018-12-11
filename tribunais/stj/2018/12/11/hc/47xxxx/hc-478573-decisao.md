@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDERSON DONIZETI CONSTANCIO, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juiz da Vara das Execuções Criminais indeferiu o pedido de concessão do livramento condicional ao paciente pela necessidade de o apenado vivenciar primeiramente o regime intermediário antes de fazer jus à liberdade condicional (fl. 52).
+Interposto agravo em execução defensivo, a Corte de origem negou provimento, mantendo a decisão (fls. 84-88).
+Daí o presente writ, em que a Defensoria Pública sustenta que o Juízo das Execuções, e o Tribunal, incorreram em em grave equívoco ao fundamentar o indeferimento, dentre outros fatores na longa pena, na gravidade abstrata do delito e na suposta necessidade de vivenciar primeiramente o regime intermediário visando absorver a terapia penal (fl. 6).
+Aduz que o paciente preenche os requisitos exigidos, tendo em vista que já cumpriu mais de 2/3 da pena privativa de liberdade no tocante ao crime hediondo e 1/2 referente ao delito comum (fl. 21) e não existe nenhuma falta pendente de reabilitação em seu prontuário (fl. 24). Ademais, o apenado apresenta ÓTIMO comportamento carcerário (Atestado Comprobatório de Comportamento Carcerário de fls. 20). (fl. 8).
+Requer, inclusive liminarmente, a concessão da ordem para autorizar de pronto o benefício ao paciente.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem pois o requisito objetivo para a concessão de livramento condicional ainda não foi atingido, tornando inócua a discussão atinente ao preenchimento dos requisitos subjetivos (fl. 126).
+É o relatório.
+DECIDO.
+No caso dos autos, as instâncias ordinárias negaram a concessão da benesse do livramento condicional com base nos seguintes fundamentos:
+Decisão (fl. 52):
+ANDERSON DONIZETI CONSTANCIO, matrícula 1.061.729 ingressou em Juízo pleiteando o livramento condicional, argumentando, em síntese, preencher os requisitos do artigo 83 do Código Penal.
+Regularmente processado, o feito está instruído com atestado de conduta carcerária às fls/20 e 31.
+Parecer do Ministério Público às fls. 27 e 39.
+Em apertada síntese, é o relatório.
+DECIDO.
+Com efeito, muito embora presente o requisito objetivo e a atual conduta carcerária do apenado, ainda não demonstra méritos suficientes para retornar à sociedade.
+Assim, não cabe, por ora, o livramento condicional, pois recomendável o postulante vivenciar primeiramente o regime intermediário, como prova de que irá absorver a terapia penal para, posteriormente, fazer jus à liberdade condicional.
+Isto porque o sentenciado, com considerável pena por cumprir (2.024), deverá demonstrar que conseguiu desenvolver senso de responsabilidade para sua autocontenção diante das frustrações normais da vida em regime mais brando (semiaberto) e assim frear os seus instintos primitivos para suportar as regras da vida sem vigilância.
+Diante do exposto, por ora, INDEFIRO o pedido de livramento condicional. A presente serve como intimação, devendo a direção do presídio restituir uma via assinada pelo sentenciado.
+Acórdão (fls. 86-88):
+Com efeito, não vislumbro ausência de fundamentação na r. decisão agravada, a qual peço vênia para transcrever o seguinte trecho:
+Assim, não cabe, por ora, o livramento condicional, pois recomendável o postulante vi vendar primeiramente o regime intermediário, como prova de qee irá absorver a terapêutica penal, para, posteriormente, fazer jus à liberdade condicional.
+Isto porque o sentenciado, com considerável pena por cumprir (2.024) deverá oemonstrar que conseguiu desenvolver senso de responsabilidade para sua autooontenção diante das frustrações normais da vida em regime mais brando (somiaberto) e assim frear os seus instintos primitivos para suportar as regras da vida sem vigilância.
+Em que pese a Lei não ter previsto a prévia passagem ao regime intermediário como pressuposto para o livramento condicional, impende-se analisar toda situação em concreto. O escopo é a verificação se o apenado demonstra estar inserido no processo da terapêutica penal, o que será feito por meio da sua manutenção no regime intermediário.
+Nesse sentido vem decidindo esta Colenda Câmara:
+ ..
+Firme em tais razões, considero ser medida de cautela no presente caso a manutenção do sentenciado em regime semiaberto a fim de se demonstrar que ele está absorvendo de maneira adequada a terapêutica penal ministrada, para depois fazer jus ao benefício do livramento condicional.
+Concernente ao argumento lançado pelas instâncias ordinárias, no tocante à necessidade de o apenado vivenciar, primeiramente, a semiliberdade, antes de pretender ao livramento, assevero que, consoante precedentes deste Superior Tribunal de Justiça, não constitui fundamento apto a sustentar a sua denegação, notadamente porque inexiste similitude entre os requisitos exigidos para o livramento condicional e para a progressão de regime. A propósito do tema:
+EXECUÇÃO PENAL. HABEAS CORPUS. VIA INDEVIDAMENTE UTILIZADA EM SUBSTITUIÇÃO A RECURSO ESPECIAL. LIVRAMENTO CONDICIONAL. REQUISITOS OBJETIVO E SUBJETIVO. OBRIGATORIEDADE DE PROGRESSÃO DE REGIME. GRAVIDADE EM ABSTRATO DO DELITO. FUNDAMENTOS INIDÔNEOS. ILEGALIDADE MANIFESTA. OCORRÊNCIA. WRIT NÃO CONHECIDO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recuso especial, inviável o seu conhecimento.
+2. Hipótese em que o Tribunal cassou a decisão do Juízo das Execuções que deferiu o benefício do livramento condicional ao paciente, mencionando a gravidade em abstrato do delito e condicionando a concessão da benesse à prévia progressão e verificação do comportamento do reeducando em regime intermediário, não apontando qualquer outro fundamento concreto.
+3. Há ilegalidade patente a ensejar a concessão de ordem de ofício, pois a obrigatoriedade de progressão de regime antes da concessão de livramento condicional não constitui fundamento idôneo para indeferir-se o benefício pleiteado, se o apenado preenche os requisitos objetivo e subjetivo para a benesse, como sói ser o caso dos autos. Da mesma forma, inviável a negativa com base na gravidade em abstrato do delito cometido. Precedentes.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de restabelecer a decisão de primeiro grau que concedeu ao paciente o direito ao benefício do livramento condicional. (HC 360.252/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/11/2016, DJe 6/12/2016).
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ACÓRDÃO QUE CASSA A DECISÃO CONCESSIVA DE LIVRAMENTO CONDICIONAL E A CONDICIONA À REALIZAÇÃO DE EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DO PRÓPRIO TIPO PENAL. NECESSIDADE DE PASSAGEM POR REGIME INTERMEDIÁRIO. REQUISITO NÃO PREVISTO EM LEI. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+2. De acordo com a Súmula 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No caso dos autos, verifica-se que foram devidamente preenchidos os requisitos legais, tanto objetivos como subjetivos, e que o acórdão impugnado utilizou-se de argumento inidôneo para cassar a decisão que deferiu o benefício do livramento condicional para determinar a recondução do paciente ao regime semiaberto e à realização de exame criminológico, baseando-se tão somente na gravidade do delito e na impossibilidade da chamada progressão per saltum de regime prisional.
+3. Esta Corte de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o acórdão impugnado e restabelecer a decisão que deferiu ao paciente o benefício do livramento condicional. (HC 341.779/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/6/2016, DJe 3/8/2016), com destaques.
+Assim, o mero destaque de que o paciente tenha que vivenciar o regime intermediário para fazer jus ao benefício do livramento condicional não pode ser utilizado para óbice da pretensão, devendo os autos retornar ao juízo executório originário para reexame dos requisitos legais desconsiderando o fundamento supra.
+Ante o exposto, concedo o habeas corpus para determinar que o Juízo das Execuções proceda a novo exame do pedido de livramento condicional, nos termos estritos do disposto no art. 83 do CP.
+Comunique-se.
+Publique-se.
+Intimem-se.
