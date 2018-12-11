@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo MUNICÍPIO DE CASCAVEL, em 28/08/2018, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. INCIDÊNCIA DE ISS SOBRE OPERAÇÕES DE ARRENDAMENTO MERCANTIL EXECUÇÃO FISCAL E EXCEÇÃO DE PRÉ-EXECUTIVIDADE. COMPETÊNCIA TRIBUTÁRIA DEFINIDA COM BASE NO ENTENDIMENTO CONSUBSTANCIADO PELO STJ NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.060.210/SC. LOCAL DO ESTABELECIMENTO DA PRESTADORA DE SERVIÇO DURANTE A VIGÊNCIA DO DECRETO Nº 406/68 E LUGAR DA PRESTAÇÃO DE SERVIÇO SOB A ÉGIDE DA LC Nº 116/2003. CONTRATO COMPLEXO. SERVIÇO QUE SE PERFECTIBILIZA NO LOCAL DA APROVAÇÃO DO FINANCIAMENTO, ONDE SE CONCENTRA O PODER DECISÓRIO E A DIREÇÃO GERAL DA INSTITUIÇÃO. MODIFICAÇÃO DO ACÓRDÃO EM JUÍZO DE RETRATAÇÃO. ACOLHIMENTO DA PRETENSÃO RECURSAL DO EXECUTADO. PARA DETERMINAR A ALTERAÇÃO DOS CRITÉRIOS DE DEFINIÇÃO DA VERBA HONORÁRIA. COM ADOÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 2015" (fls. 364/365e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 20, § 4º, do CPC/73, sustentando que "a ação foi ajuizada na comarca em que os procuradores do autor atuam, bem como em virtude a simplicidade da ação, na qual o grau de zelo profissional necessário é mínimo, os honorários devem ser minorados", para serem fixados em R$ 300,00 (trezentos reais) (fls . 386/392e).
+Contrarrazões a fls. 403/406e.
+Negado seguimento ao Recurso Especial (fls. 408/412e), foi interposto o presente Agravo (fls. 417/419e).
+Contraminuta a fls. 423/426e.
+A irresignação não merece prosperar.
+Com efeito, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ademais, ressalto que a sentença foi prolatada na vigência do CPC/2015, ou seja, após 18/03/2016, sendo por isso inaplicáveis as disposições do Código de Processo Civil de 1973.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
