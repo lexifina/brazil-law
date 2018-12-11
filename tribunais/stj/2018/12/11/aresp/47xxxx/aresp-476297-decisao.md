@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial sob os seguintes fundamentos: (a) ausência de omissão, contradição ou obscuridade no acórdão recorrido e (b) incidência da Súmula n. 7 do STJ (e-STJ fls. 642/644).
+O acórdão recorrido está assim ementado (e-STJ fl. 480):
+CUMPRIMENTO DE SENTENÇA. CÁLCULOS. JUROS REMUNERATÓRIOS. RECEBIMENTO DE DIFERENÇAS MONETÁRIAS DEVIDAS POR OCASIÃO DO DESLIGAMENTO DOS EX-ASSOCIADOS. PREVI - CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL.
+1 O entendimento prevalente nesta egrégia Corte de Justiça é de que o cálculo de juros estatutários (remuneratórios) deve ser limitado à data do desligamento do participante, conforme dispõe o Regulamento do Plano de Benefícios n. 1 da PREVI.
+2. Quando o título judicial não fixa expressamente o dies ad quem dos juros estatutários, a sua limitação à data de desligamento de cada participante exsurge do próprio Regulamento do respectivo Plano de Previdência.
+3. Agravo de instrumento conhecido e parcialmente provido. Unânime.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 521/529).
+Nas razões do recurso especial (e-STJ fls. 585/597), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 467, 468, 474 e 535 do CPC/1973, sustentando: (a) negativa de prestação jurisdicional e (b) violação da coisa julgada.
+No agravo (e-STJ fls. 653/664), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos apresentaram contraminuta (e-STJ fls. 670/673).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Correta a decisão de inadmissibilidade do especial.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da recorrente, não se identificando omissão, contradição ou obscuridade no acórdão impugnado.
+Além disso, não se admite alegação genérica de afronta ao art. 535 do CPC/1973, cabendo à parte recorrente indicar os motivos específicos pelos quais haveria violação da norma, medida não adotada no caso, o que atrai o óbice da Súmula n. 284/STF.
+Quanto à alegação de ofensa à coisa julgada pela inclusão dos juros remuneratórios estatutários nas diferenças devidas aos autores, extrai-se do acórdão recorrido as seguintes razões de decidir (e-STJ fls. 483/487):
+A questão posta em juízo tem frequentado com assiduidade esta instância recursal. Cinge-se ao debate sobre a incidência de juros remuneratórios nas diferenças monetárias devidas a ex-participantes de Fundo Previdenciário por ocasião de seu desligamento, assim como sobre o seu termo final.
+Prima facie, destaco o dispositivo da sentença proferida nos autos (fls. 134-135), verbis:
+DIANTE DO EXPOSTO, julgo PROCEDENTE o pedido para condenar a ré ao pagamento da correção monetária plena sobre os valores já restituídos, consoante a iterativa jurisprudência do STJ, na forma do pedido constante da inicial, fls 30. Condeno a ré ao pagamento ao pagamento (sic) de honorários de 15% sobre o valor atualizado da condenação, mais custas processuais.
+(..)
+Da petição inicial, por sua vez, extrai-se que houve requerimento para incidência dos juros estatutários. Confira-se (fl. 40):
+b) - seja julgado procedente o pedido, a final, para condená-la, por sentença, que por força do disposto no contrato firmado entre as partes, decorrente de seu próprio Regulamento (art. 96 e 97) e, ainda, na Lei nº 6.435/77, em combinação com o Decreto Regulamentador (nº 81.240/78), c/c os arts. 1.059 a 1.064 do Código Civil, entre outros dispositivos legais, bem como a tranqüila e uníssona jurisprudência pretoriana, sobretudo do STJ, como visto atrás, ficando a ré obrigada a corrigir as "contribuições vertidas" mensalmente, inclusive jóia, mediante a aplicação do Índice de Preços ao Consumidor (IPC), nos seguintes períodos e valores: junho/87 (26,06%), janeiro/89 (42,72%), fevereiro/89 (10,14%); março/90 (84,32%), abril/90 (44,80%), maio/90 (7,87%), fevereiro/91 (21,87%), e o INPC de março/91 (11,79%), com todos os reflexos monetários e legais, inclusive com atualização monetária dos saldo remanescentes a partir da data da devolução, a incidência dos juros estatutários ou contratuais, se houverem, e dos juros de mora a partir da citação, tudo de acordo com o disposto nos arts. 395, 405 e 406 do Código Civil, a serem apurados em liquidação de sentença; (g.n.)
+Logo, não há falar em inexistência de condenação referente à aplicação de juros estatutários sobre os valores devidos. Ainda que assim não fosse, os juros remuneratórios são devidos em decorrência de previsão expressa no Regulamento do Plano de Benefícios 1, conforme consta dos autos. É conferir (fl. 399):
+Art. 8º Ao participante que requerer o cancelamento de sua inscrição na Parte Geral deste Plano de Benefícios ou àquele que tiver sua inscrição cancelada nos termos do inciso II do artigo 7º, será assegurado - quando do comprovado rompimento do vínculo empregatício com a empresa patrocinadora, e desde que este rompimento tenha ocorrido a partir da data de início da vigência deste Regulamento - o resgate em parcela única, das contribuições pessoais vertidas para a Parte Geral a partir de 04.03.80 até a data do cancelamento, corrigidas monetariamente e acrescidas de juros atuariais até o mês do rompimento do vínculo empregatício, deduzidas as taxas de administração incidentes. (g.n.)
+Demais disso, ao contrário do que alega a PREVI, o julgamento dos Embargos Declaratórios interpostos do acórdão proferido nos autos da Apelação Cível n. 2003.01.1.089824-0 (fls. 157-159) não afastou a aplicação de juros remuneratórios no caso controvertido. Ao negar provimento ao recurso, o eminente Relator declarou a manutenção da sentença no que tange aos aludidos juros, ou seja, o respectivo pedido foi acolhido na 1ª instância, conforme relatado acima. Consignou-se tão somente que, caso houvessem sido pagos, desconsiderar-se-ia a condenação nesse ponto. Isso porque a agravada insistia em afirmar que já havia pagado o montante referente a juros estatutários.
+A bem da verdade, nota-se que a pretensão dos agravantes diz respeito à incidência de juros remuneratórios sobre as diferenças oriundas de correção monetária não aplicada nas contribuições vertidas ao fundo previdenciário. Lado outro, a PREVI reluta afirmando que já aplicou os juros sobre a quantia devolvida. Não se controverte que a agravada tenha remunerado o capital devolvido aos agravantes por meio de juros. Contudo, o que se discute agora é a aplicação dos juros estatutários nas mencionadas diferenças, o que certamente fazem jus os recorrentes.
+De igual forma e pelos motivos até aqui expendidos, não procede a alegação da agravada de que os agravantes inovam a lide com o pedido de incidência de juros remuneratórios (fl. 383). Repito: não se pretende a incidência de juros sobre o montante devolvido, mas sim sobre as diferenças não pagas na oportunidade, direito este garantido no título judicial.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem - que firmou o entendimento de que a sentença exequenda decidiu pela procedência do pedido na sua totalidade, abarcando o pedido de condenação nos juros estatutários -, a fim de que se conclua pela violação da coisa julgada, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial (Súmula n. 7/STJ). Nesse sentido:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE MANUTENÇÃO DA POSSE. FASE DE CUMPRIMENTO DE SENTENÇA.
+I - QUESTÃO CONTROVERTIDA: Cumprimento de sentença proferida em ação de manutenção, discutindo-se a extensão da área abrangida pelo título judicial.
+II - RECURSO ESPECIAL INTERPOSTO POR CONDOMINIO ITAPARICA MAR 3ª ETAPA. ALEGAÇÃO DE IMPEDIMENTO DO VICE-PRESIDENTE PARA A REALIZAÇÃO DO JUÍZO DE ADMISSIBILIDADE. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO. AGRAVO DE INSTRUMENTO COM DEFICIENTE INSTRUÇÃO. PRETENSÃO DE REEXAME DO JULGADO. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA E JULGAMENTO "EXTRA PETITA". REVISÃO. IMPOSSIBILIDADE.
+INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+2.1. A matéria relativa ao impedimento do Vice-Presidente resta prejudicada em razão do provimento do agravo para a sua conversão em recurso especial.
+2.2. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2.3. Consoante a jurisprudência do Superior Tribunal de Justiça, as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2.4. No agravo previsto no art. 522 do CPC/1973, na hipótese de o julgador entender ausentes as peças necessárias à compreensão da controvérsia, devia indicar as peças faltantes e determinar a intimação do agravante a fim de facultar o complemento do instrumento.
+2.5. O recurso especial não é via própria para aferir a validade de documento juntado pela parte para comprovar o atendimento de requisito para conhecimento do agravo de instrumento. Aplicação do Enunciado n.º 7/STJ.
+2.6. Análise de ofensa a coisa julgada e julgamento extra petita feita de acordo com os elementos fático-probatórios dos autos de forma amplamente detalhada e fundamentada, encontra óbice no Enunciado n.º 7/STJ.
+2.7. Não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+2.8. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+III - RECURSO ESPECIAL DE UNIVERSO DE ENSINO NOVO MILÊNIO LTDA.
+ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EXTENSÃO DA POSSE.
+DECISÃO TRANSITADA EM JULGADO. REVISÃO. IMPOSSIBILIDADE.
+BENFEITORIAS. EMBARGOS DE TERCEIRO. VIA ADEQUADA.
+3.1. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+3.2. O Tribunal de Justiça refutou as alegações com arrimo no fato de que houve trânsito em julgado do acórdão proferido pela Primeira Câmara que assegurou à municipalidade a posse sobre a área total de 15.549 m  (quinze mil, quatrocentos e cinqüenta e nove metros quadrados). 3.3. Impossibilidade de se alterar o entendimento adotado pelo Tribunal de Justiça de origem.
+3.4. Os embargos de terceiro constituem o meio defensivo que o terceiro possui contra atos judiciais que gerem medida constritiva de seus bens.
+3.5. RECURSO ESPECIAL DESPROVIDO.
+IV - RECURSOS ESPECIAIS DESPROVIDOS.
+(REsp 1730535/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXPURGOS INFLACIONÁRIOS - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA FINANCEIRA/AGRAVANTE.
+1. A impugnação, no agravo interno, de capítulos autônomos da decisão recorrida induz a preclusão das matérias não impugnadas. Precedentes.
+2. Esta Corte, no julgamento de recursos especiais em que se discutia a possibilidade de inclusão de ofício de juros remuneratórios somente em fase de execução de sentença transitada em julgado, entendeu pela impossibilidade de sua concessão, em respeito à coisa julgada. Precedentes.
+2.1 Na hipótese, asseverou a Corte local existir condenação da casa bancária na ação coletiva aos juros remuneratórios por todo o período no percentual de 0,5%. O acolhimento da pretensão recursal, relativamente à suposta ofensa de coisa julgada, demanda o reexame do contexto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 299.980/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 10/05/2018.)
+Ademais, das razões do recurso especial, verifica-se que a agravante não trouxe argumentos aptos a impugnar o fundamento do acórdão relativo à necessidade de incidência dos juros estatutários em virtude de previsão expressa no Regulamento do Plano de Benefícios, de modo que a insurgência encontra óbice nas Súmulas n. 283 e 284 do STF:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
