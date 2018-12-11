@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA COLETIVA - RETRIBUIÇÃO DE AÇÕES - DOCUMENTO UNILATERAL E SEM RECEBIMENTO DO CREDOR - SEM VALOR PROBATÓRIO - RECURSO CONHECIDO E DESPROVIDO. 1. Houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento. A decisão agravada, por isso, não ofende a coisa julgada. 2. O documento apresentado pela agravante não comprova o efetivo recebimento das ações pela parte credora.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, a parte agravante alega afronta aos artigos 130, 365, 467, 475-G e 475-L do Código de Processo Civil de 1973 e aos artigos 370, 425, 502, 509, 525 e 1.022 do CPC de 2015. Reclama de negativa de prestação jurisdicional. Sustenta que não há preclusão para juntada, na fase de liquidação ou de impugnação ao cumprimento de sentença, de documentos comprobatórios do pagamento. Afirma que os documentos comprobatórios do pagamento (isto é, da entrega de parcela do montante acionário vindicado), juntados ao processo, são verdadeiros e devem ser considerados válidos. Acrescenta que tais documentos (extrato bancário) não foram contestados pela parte exequente. Aponta violação à coisa julgada. Defende a possibilidade de produção de prova em sede de agravo de instrumento.
+Primeiramente, anoto que a alegação de ausência de preclusão não faz sentido, pois a conclusão da Corte de origem não está fundamentada em tal instituto, o qual sequer foi mencionado no acórdão recorrido.
+É igualmente fora de propósito sustentar a possibilidade de juntada de documentos em agravo de instrumento, considerando-se que o Tribunal de origem não se opôs a tal juntada, nem deliberou no sentido de negar conhecimento à documentação que acompanhou aquele agravo.
+Prosseguindo na análise, esclareço que os embargos de declaração, ainda que opostos para prequestionamento de normas jurídicas, são cabíveis quando o provimento judicial embargado padece de omissão (em relação a ponto relevante, necessário, útil e efetivamente influente para o julgamento da causa), contradição, obscuridade ou erro material.
+A propósito, o julgador não está obrigado a enfrentar todos os pontos abordados pelas partes, mas deve, ao emitir juízo (com base em seu livre convencimento) acerca das questões que considerar suficientes e relevantes para fundamentar sua decisão, enfrentar motivadamente os argumentos das partes que, em tese, poderiam infirmar a conclusão adotada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1226329/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+3. "Não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/06).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1232995/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erros materiais, lacunas ou contradições. O Tribunal de origem, com efeito, se manifestou fundamentadamente sobre a sugerida validade da prova do pagamento e acerca da suposta existência de coisa julgada, temas articulados nos embargos de declaração.
+Cumpre atentar que (i) a circunstância de o entendimento adotado no acórdão recorrido não ser o esperado pela parte, (ii) a ausência de menção expressa às normas jurídicas suscitadas ou (iii) a falta de manifestação sobre aspectos que as partes consideram importantes (em geral, benéficos às suas teses) não constituem motivos para o reconhecimento da deficiência da prestação jurisdicional.
+Além de assinalar que não houve ofensa à coisa julgada, o Tribunal de origem concluiu que os documentos apresentados pela executada não comprovam o pagamento. Veja-se:
+Oi S/A interpôs agravo de instrumento em face da decisão proferida nos autos do Cumprimento de Sentença proposto por [NOME], na qual foi indeferido o pedido de extinção pelo pagamento e não conhecidas demais questões alegadas.
+Defende a agravante que a) a decisão agravada desrespeita a coisa julgada; b) inexiste preclusão na alegação de pagamento, vez que a sentença determina que o momento para a comprovação do quantum pago deveria ser na liquidação; c) o documento da entrega das ações pode ser juntado na fase de cumprimento com a finalidade de comprovar o pagamento; e d) o documento comprobatório da entrega das ações é válido e idôneo, vez que assinado pela diretoria do Banco Santander em papel timbrado.
+Reconheço que, de fato, houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento.
+A decisão agravada, por isso, não ofende a coisa julgada.
+Por outro lado, o alegado pagamento à parte agravada não restou comprovado pelo agravante nesta fase executiva.
+É sabido que o pagamento não admite presunção e deve ser provado por quem o alega (art. 333, I, do CPC), sob pena de ter que pagar novamente (bis dat qui cito dat), se pagou mal.
+Importante observar que o documento apresentado pela agravante como prova de recebimento e, inclusive, posterior transferência pela parte credora/agravante, consiste em relatório do Santander sem anuência do consumidor, absolutamente unilateral, portanto. Além disso esta declaração do Banco Santander que, mesmo em conjunto com procuração existente nos autos principais do BNDES à Telebrás S/A, nada prova, se desacompanhado do Certificado de Depósito de Ações (art. 43 da Lei n. 6.404/76) e/ou dos Livros Sociais (art. 100 da Lei n. 6.404/76) ou de qualquer recebimento expresso da parte credora.
+Pela absoluta ausência de comprovação, deve ser tida por não efetivada a quitação de 8.620 ações a cada contrato.
+Ademais, recentemente esta Câmara Julgadora atribuiu eficácia erga omnes à decisão de caso análogo (agravo de instrumento contra decisão proferida em Cumprimento de Sentença da mesma Ação Coletiva), que abordou os temas do presente recurso, conforme se infere da ementa:
+(..)
+Ante o exposto, conheço e nego provimento ao presente agravo de instrumento, mantendo incólume a decisão agravada.
+Nesse cenário, entendo que a aferição da idoneidade (legitimidade) dos documentos juntados ao processo, na perspectiva defendida pela parte agravante, é questão calcada em prova, cujo reexame é inviável em recurso especial conforme a orientação sedimentada na Súmula 7 do Superior Tribunal de Justiça. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. RETRIBUIÇÃO DE AÇÕES. OFENSA AO ART. 475-L DO CÓDIGO DE PROCESSO CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE PAGAMENTO. QUESTÃO PRECLUSA. NÃO COMPROVAÇÃO. DOCUMENTOS. PRESUNÇÃO. IMPOSSIBILIDADE. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. LIVRE CONVENCIMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. A alegação de pagamento anterior à sentença se deu após o respectivo trânsito em julgado, estando preclusa a questão.
+3. O Tribunal de origem concluiu pela impossibilidade de presunção de que os documentos apresentados pela executada são aptos para comprovar o pagamento.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Cabe ao magistrado a interpretação da produção probatória, necessária à formação do seu convencimento.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgRg no AREsp 780.064/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/04/2016, DJe 13/04/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. REPASSE DE PERCENTUAL A ANTIGO SÓCIO. COMPROVAÇÃO DO PAGAMENTO MEDIANTE DEPÓSITO EM CONTA CORRENTE DA ESPOSA DO AUTOR. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7/STJ. PREQUESTIONAMENTO. SUMULA 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inversão do que ficou decidido pelo acórdão recorrido acerca da quitação do débito por parte do agravado demandaria reexame dos elementos fáticos-probatório dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2. (..).
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 588.069/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/04/2015, DJe 27/04/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, não é possível rever a conclusão do acórdão recorrido em relação à questão discutida estar acobertada pela coisa julgada e pela preclusão, uma vez que seria necessário o reexame do conjunto fático-probatório dos autos, que é vedado em razão do óbice da Súmula 7 do STJ.
+2. (..).
+3. Agravo interno não provido. (AgInt nos EDcl no AREsp 1064314/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 28/08/2018)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
