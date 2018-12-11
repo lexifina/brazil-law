@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto por GOOGLE BRASIL INTERNET LTDA. contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial, dada a incidência da Súmula 7 desta Corte.
+O acórdão recorrido tem a seguinte ementa:
+AGRAVO DE INSTRUMENTO Perícia promovida em microempresa dispensada da exigência de seguir um sistema de contabilidade com base na escrituração uniforme de seus livros Documentos que serviram de suporte ao trabalho desenvolvido pelo expert mostraram-se suficientes. Decisão mantida. Recurso improvido.
+A agravante afirma que o acórdão recorrido é omisso. Sustenta não ser necessário o reexame probatório, mas a avaliação da adequada distribuição dos ônus da prova; o acórdão recorrido não contempla o fundamento de que a perícia não se valeu de livros contábeis ou demonstrativos similares para a demonstração do suposto prejuízo da agravada. Os únicos documentos apresentados foram um contrato de empréstimo e extratos de duas contas bancárias. A agravada, apresentando-se como microempresa, só poderia ter um faturamento anual de até R$ 360.000,00 (trezentos e sessenta mil reais), de modo que a suspensão do serviço de publicidade "AdWords" por seis meses não poderia ter-lhe causado prejuízo de quase R$ 1.500.000,00 (um milhão e quinhentos mil reais). Argumenta que todas as teses defendidas são de direito, assim resumidas (e-STJ fl. 1139):
+(i) a agravada, mesmo sendo microempresa, não é dispensada de manter qualquer tipo de escrituração, mas apenas autorizada a adotar versão mais simples de contabilidade. Sem isso, é absolutamente impossível promover a liquidação do alegado dano;
+(ii) a agravada tem o ônus de provar o fato constitutivo de seu direito, de maneira que é incabível exigir da agravante a prova de sua inexistência;
+(iii) ainda que o ônus fosse da ora agravante, o v. acórdão dispensou a produção da prova requerida pela agravante para, logo em seguida, afirmar que ela não teria cumprido seu ônus probatório;
+(iv) o Eg. Tribunal a quo recusou-se a sanar as omissões contidas no v. acórdão recorrido mesmo após a oposição de embargos de declaração.
+Em sua impugnação, PRO SPIN COMÉRCIO DE ARTIGOS ESPORTIVOS LTDA-ME, afirma que a prova pericial é farta e o conjunto probatório como um todo fundamenta o valor da liquidação de sentença, R$ 1.469.681,11 (um milhão, quatrocentos e sessenta e nove mil, seiscentos e oitenta e um reais e onze centavos). Alega não existir omissão e ressalta a aplicação da Súmula 7/STJ ao caso.
+Em face da relevância da matéria, reconsidero a decisão agravada e determino a conversão dos presentes autos em recurso especial.
+A seguir, conclusos.
+Intimem-se.
