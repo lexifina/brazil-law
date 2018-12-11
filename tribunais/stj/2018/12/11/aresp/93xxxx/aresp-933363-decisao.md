@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por [NOME] e outros, com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos (e-STJ, fl. 234):
+ADMINISTRATIVO - BOMBEIROS MILITARES INATIVOS DO DISTRITO FEDERAL - DIÁRIA DE ASILADO - VPNI - PAGAMENTO SEM DESCONTOS DE QUALQUER NATUREZA.
+I - O Superior Tribunal de Justiça, no intuito de preservar o valor nominal da remuneração, firmou o entendimento no sentido de que sobre a vantagem pessoal (VPNI) resultante da extinção da "diária de asilado" não deve incidir nenhum desconto, seja qual for a sua natureza.
+II - Não há que se falar em restabelecimento da parcela "diárias de asilado", na forma da Lei 4.328/64, nem em vedação à VPNI. O entendimento consagrado na Corte Superior somente determina que tal vantagem não pode sofrer nenhum desconto. E este é o entendimento que ora se adota, vale dizer, a VPNI deve ser mantida, com a ressalva de que, sobre ela, não deve incidir nenhum desconto.
+III - Recurso da parte autora improvido e recurso da União Federal parcialmente provido.
+Os embargos de declaração opostos foram improvidos (e-STJ, fls. 250/255).
+Alegam os agravantes negativa de vigência aos arts. 535 do CPC/1973 e 63 da Lei n. 10.486/2002.
+Contrarrazões e contraminuta às e-STJ fls. 312/315 e 343/345.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+É o relatório.
+O provimento do recurso especial por contrariedade ao art. 535 do CPC pressupõe que sejam demonstrados, fundamentadamente, entre outros, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; (d) não há outro fundamento autônomo, suficiente para manter o acórdão. Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+A decisão colegiada que julgou os embargos de declaração apreciou devidamente a questão supostamente omissa, relativa à aplicação do art. 63 da Lei n. 10.486/2002. Nesse sentido, à e-STJ, fl. 251, o TRF 2ª Região afirmou:
+Ainda que assim não fosse, no que tange ao disposto no artigo 63 da Lei nº 10.486/2002, cumpre ressaltar que é pacífica a jurisprudência no sentido de que os servidores públicos, ativos e inativos, não têm direito adquirido imutabilidade do regime jurídico de composição dos vencimentos, desde que respeitado o princípio da irredutibilidade.
+Neste norte, consoante restou consignado no acórdão embargado, a Lei Federal nº 10.486/2002, ao estabelecer novo regime de remuneração dos militares do Distrito Federal, revogou tacitamente a "diária de asilado" (benefício instituído pela Lei nº 4.328/64) e a substituiu por VPNI.
+Portanto, houve efetiva manifestação sobre a não incidência do art. 63 da Lei n. 10.486/2002 ao caso em virtude da ausência de direito adquirido a regime jurídico.
+Quanto à suposta negativa de vigência ao art. 63 da Lei n. 10.486/2002, o recurso não pode ser conhecido pois, conforme disposto no art. 105, III, "a", da CF/1988, compete ao Superior Tribunal de Justiça julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida contrariar tratado ou lei federal, ou negar-lhes vigência.
+No caso, a análise da controvérsia posta nos autos demandaria o exame de legislação local, providência vedada nesta via recursal, segundo a aplicação analógica do enunciado n. 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Deve-se ressaltar que esta Corte firmou entendimento segundo o qual as leis emanadas do Congresso Nacional aplicáveis exclusivamente ao Distrito Federal, apesar de formalmente federais, são materialmente leis locais. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. POLÍCIA MILITAR DO DISTRITO FEDERAL. LIMITAÇÃO DE IDADE. AUSÊNCIA DE PREVISÃO LEGAL. TEORIA DO FATO CONSUMADO. APLICAÇÃO EXCEPCIONAL. AUSÊNCIA DE SIMILITUDE FÁTICA. INVIABILIDADE DE ANÁLISE DE DISSENSO. PRECEDENTES. CONTROVÉRSIA ENFRENTADA NA ORIGEM COM BASE EM LEGISLAÇÃO LOCAL. REEXAME.
+IMPOSSIBILIDADE. SÚMULA 280 DO STF.
+1. O Superior Tribunal de Justiça firmou orientação de que as leis de aplicação restrita ao Distrito Federal, embora emanadas do Congresso Nacional, têm natureza local, o que inviabiliza a análise da controvérsia, nesse ponto, em virtude da aplicação, por analogia, da Súmula 280 do STF.
+2. Nas razões do apelo especial, o recorrente não trouxe fundamentação particularizada a respeito do dispositivo de lei federal vulnerado pelo aresto combatido, correlacionando-o à teoria do fato consumado, nem contrastou os argumentos utilizados pelas instâncias ordinárias para aplicar a referida orientação. Incidem, portanto, na espécie os óbices das Súmulas 283 e 284 do STF.
+3. A ausência de indicação do dispositivo de lei sobre o qual recaiu a divergência jurisprudencial impossibilita o conhecimento do recurso, nesse particular, aplicando-se, por analogia, o enunciado da Súmula 284/STF. Precedentes.
+4. Ademais, não se conhece do apelo manejado com base no dissenso pretoriano quando o acórdão recorrido, nas razões de decidir, apresenta justificativa relacionada às peculiaridades do caso concreto.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.306.904/DF, de minha relatoria, SEGUNDA TURMA, julgado em 8/5/2018, DJe 14/5/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO FEDERAL. SERVIDOR DO DF. LEI MATERIAL LOCAL. SÚMULA 280 DO STF.
+1. O STJ entende que a legislação federal, quando aplicada aos servidores do Distrito Federal, tem natureza de lei local, o que inviabiliza a apreciação do recurso especial em virtude do óbice da Súmula 280 do STF.
+2. Agravo interno desprovido.
+(AgRg no AREsp 594.492/DF, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/5/2018, DJe 20/6/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGENTE DE POLÍCIA CIVIL DO DISTRITO FEDERAL. DEMISSÃO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, PREVISTOS NA LEI 4.878/65. INDISPENSÁVEL ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. REVISÃO DO ACERVO FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática que, conheceu e negou seguimento ao recurso especial.
+II. É assente, nesta Corte, o entendimento no sentido de que a Lei 4.878/65, no que se refere a servidores públicos do Distrito Federal, deve ser tratada como lei local, atraindo a incidência da Súmula 280 do STF. Nesse sentido: STJ, AgRg no REsp 1.303.486/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 18/05/2016; EDcl no AREsp 677.496/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/08/2015.
+III. As alegações de omissão, tanto da ausência de previsão legal do teste como requisito de aprovação quanto do não fornecimento de filmagem, tratam-se de matérias de fato que necessitam da análise do acervo fático probatório dos autos, não podem ser sindicadas ante o óbice do enunciado n.7 da Súmula do STJ.
+IV. Agravo interno improvido.
+(AgInt no AREsp 911.230/DF, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 1º/3/2018, DJe 6/3/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
