@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. JUROS MORATÓRIOS INCIDENTES SOBRE PAGAMENTOS EFETUADOS NA VIA ADMINISTRATIVA. INOCORRÊNCIA DE PRECLUSÃO POR SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. CRITÉRIO DE IMPUTAÇÃO DOS PAGAMENTOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INAPLICABILIDADE DO ART. 354 DO CÓDIGO CIVIL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos por [NOME], em adversidade à decisão que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. INCIDÊNCIA SOBRE PAGAMENTOS EFETUADOS NA VIA ADMINISTRATIVA. CRITÉRIO DE CÁLCULO. REEXAME DE PROVAS. SÚMULA 7/STJ. ART. 354 DO CÓDIGO CIVIL. INAPLICABILIDADE. AGRAVO DOS SERVIDORES A QUE SE NEGA PROVIMENTO (fls 1.307).
+2. Às fls. 1.314/1.319, a parte embargante sustenta, em síntese, a ocorrência de premissa equivocada quanto ao pedido de incidência de juros negativos sobre as parcelas pagas na via administrativa - hipótese nítida de excesso de execução -, que deixou de ser efetuada nos Embargos do devedor 2007.71.00.019412-7/RS, tendo, por consequência, sofrido os efeitos da preclusão consumativa.
+3. Acrescenta a preclusão da matéria, sendo inviável, no presente momento processual, tentar, às avessas, o acolhimento da pretensão deduzida e expressamente repelida nos Embargos do devedor.
+4. Requer que os presentes Embargos sejam acolhidos e providos, reconhecendo-se, assim, a preclusão incidente na espécie, já que a parte executada deixou de arguir, no âmbito dos Embargos do devedor, o pedido de incidência de juros sobre os pagamentos administrativos.
+5. É o relatório.
+6. De início, cumpre esclarecer que o art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado, ou corrigir erro material.
+7. No caso dos autos, verifica-se que não há a suposta contradição apontada. Vejamos.
+8. O embargante busca o rejulgamento do mérito da causa, a fim de que prevaleça o entendimento quanto à impossibilidade de incidência de juros moratórios negativos sobre os pagamentos administrativos. Contudo, tais alegações já foram refutadas no acórdão embargado, de onde se extrai: (a) a incidência da Súmula 7/STJ quanto à incidência de juros negativos sobre as parcelas pagas na via administrativa e (b) que esta Corte Superior possui entendimento firmado de que constitui matéria de ordem pública a adequação do valor executado para se extirpar o excesso, não havendo que se falar em preclusão.
+9. Com efeito, não se verifica, na hipótese, a existência de quaisquer dos vícios elencados no art. 1.022 do Código Fux.
+10. Com base nessas considerações, rejeitam-se os Embargos de Declaração de [NOME] FERREIRA DA [NOME] MOREIRA.
+11. Publique-se.
+12. Intimações necessárias.
