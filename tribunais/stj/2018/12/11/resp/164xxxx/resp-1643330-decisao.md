@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+ADMINISTRATIVO. MAGISTRADO DA JUSTIÇA DO TRABALHO. AJUDA DE CUSTO. DESLOCAMENTO DE SEDE. RECONHECIMENTO DO DIREITO APENAS A 1 (UMA) AJUDA DE CUSTO. PERÍODO INFERIOR A 24 (VINTE E QUATRO) MESES. LEI COMPLEMENTAR Nº 35/79. RESOLUÇÃO Nº 112/2012 DO CONSELHO SUPERIOR DA JUSTIÇA DO TRABALHO.
+1. A Jurisprudência pátria, com esteio na nova interpretação do Conselho de justiça Federal, vem firmando o posicionamento no sentido de que, mesmo na remoção do servidor ou magistrado a pedido, deve ser paga a ajuda de custo, visto que presente o interesse público (Apelreex 18136/PB, Relator Des. Fed. [NOME], DJE 07/05/2013 / Apelreex23952/CE, Relator Des. Fed. Edilson Nobre, DJE 06/09/2012).
+2. Na hipótese, o autor requer 2 (duas) vantagens atinente à "ajuda de custo" por ter sido removido em, 2006 para 2a Circunscrição Judiciária - 2ª Vara de Trabalho/Campina Grande, e em 2007 para 1o Circunscrição Judiciária/João Pessoa. Ambas com mudança de domicílio e de forma permanente.
+3. Reconhecimento do direito do autor a l (uma) única ajuda de custo, eis que é vedada, a concessão de ajuda de custo quando a remoção ou permuta ocorrer em período inferior a vinte e quatro meses contados-do último deslocamento (§ 1o, art. 3o da Resolução 112/2012-CJST).
+4. Quanto aos juros e correção monetária aplicáveis à hipótese tendo em vista a modulação dos efeitos das decisões proferidas pelo STF por ocasião dos julgamentos das ADIs 4357/DF e 4425/DF, permanecerão na forma da Lei nº 11.960/2009 até 25.03.2015 (data do julgamento do STF), a partir de quando os juros passarão a ser os mesmos aplicados à caderneta de poupança, enquanto que os índices aplicados à correção monetária serão os fornecidos pelo IPCA-E.
+5. Apelação e remessa parcialmente providas.
+Opostos embargos de declaração, esses foram acolhidos somente quanto aos juros de mora e correção monetária, para consignar que a atualização e os juros de mora nas.condenações, impostas, tanto à Fazenda Pública quanto aos particulares, devem se dar mediante a aplicação do IPCA-E (ou outro índice que venha a ser recomendado pelo Manual de Cálculos da Justiça Federal) acrescidos de 6% (seis por cento) ao ano, exceto nos créditos de natureza tributária para os quais se mantêm os mesmos critérios pelos quais a Fazenda Pública corrige seus créditos tributários (SELIC).
+No presente recurso especial, o recorrente aponta violação do art. 53 da Lei n. 8.112/90.
+Sustenta, em síntese, a inaplicabilidade do art. 3º, § 1º, da Resolução 112 do CSJT, uma vez que a vedação para concessão de nova ajuda de custo dentro do prazo de 24 (vinte e quatro) meses da última concessão somente se aplicaria às remoções à pedido, o que não teria ocorrido, porquanto se trata de remoção ex officio.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo nº 2 do Superior Tribunal de Justiça.
+Na hipótese, pretende o recorrente o afastamento da regra disposta no art. 3º, § 1º, da Resolução CSJT n. 112/07, sendo que a apontada violação ao art. 53 da Lei n. 8.112/90 se mostra apenas reflexa.
+Desse modo, verifica-se ser incabível a indicação de ofensa a dispositivo inserto em resolução, porquanto tal regramento não se caracteriza como "lei federal", não se inserindo no disposto do art. 105, inciso III, alínea "a", da Carta Magna.
+Nesse sentido, confira-se o seguinte precedente, litteris:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO DE TELEFONIA. DEMANDA ENTRE O USUÁRIO E A CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ANATEL. ILEGITIMIDADE PASSIVA. DETALHAMENTO DAS CONTAS, COM A EXATA DESCRIÇÃO DAS LIGAÇÕES LOCAIS. ANÁLISE DE SUPOSTA OFENSA A DISPOSITIVO DE RESOLUÇÃO. NÃO-ENQUADRAMENTO NO CONCEITO DE "LEI FEDERAL". DIVERGÊNCIA JURISPRUDENCIAL NÃO-DEMONSTRADA.
+(..)
+2. O recurso especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+(..)
+5. Agravo regimental desprovido (AgRg no AgRg no Ag nº 1.012.536/AM, Rel. Min. DENISE ARRUDA, DJe de 20/08/2008).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
