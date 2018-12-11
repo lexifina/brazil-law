@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. RISCO DE REITERAÇÃO DELITIVA. OUTRO INQUÉRITO EM CURSO. PARTICIPAÇÃO EM GRUPO CRIMINOSO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE SÚMULA N.º 691/STF. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE FLAGRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço, pois o Juízo de origem fundamentou concretamente a necessidade da prisão preventiva do Paciente em razão dos indícios de seu envolvimento em rede de distribuição de drogas no município e da existência de outro inquérito policial no qual ele figura como indiciado.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática da minha lavra que indeferiu liminarmente a petição inicial do habeas corpus impetrado em seu favor, nos termos da seguinte ementa (fl. 66):
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. RISCO DE REITERAÇÃO DELITIVA. OUTRO INQUÉRITO EM CURSO. PARTICIPAÇÃO EM GRUPO CRIMINOSO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE SÚMULA N.º 691/STF. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE."
+Nas razões do agravo, o Agravante reitera os fundamentos da impetração e sustenta que há ilegalidade flagrante na prisão do Paciente, razão pela qual deve ser superado o óbice da Súmula n.º 691/STF no caso em apreço.
+Pleiteia, ao final, que seja provido o agravo regimental, a fim de que seja conhecido o habeas corpus e concedida a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. RISCO DE REITERAÇÃO DELITIVA. OUTRO INQUÉRITO EM CURSO. PARTICIPAÇÃO EM GRUPO CRIMINOSO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE SÚMULA N.º 691/STF. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE FLAGRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço, pois o Juízo de origem fundamentou concretamente a necessidade da prisão preventiva do Paciente em razão dos indícios de seu envolvimento em rede de distribuição de drogas no município e da existência de outro inquérito policial no qual ele figura como indiciado.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O habeas corpus impetrado em favor do Paciente foi inicialmente indeferido por se tratar de impetração contra negativa de liminar proferida em outro writ que ainda se encontra em curso na Corte estadual, o que atrai o óbice da Súmula n.º 691/STF.
+De fato, embora a jurisprudência admita excepcionalmente a mitigação dos rigores deste enunciado sumular, não se constata nos autos a existência de nenhuma ilegalidade flagrante ou teratologia que autorize esta excepcionalidade no caso em apreço.
+Com efeito, o Juízo de origem fundamentou concretamente a necessidade da prisão preventiva do Paciente, destacando os fundados indícios de seu envolvimento em uma rede organizada de distribuição de drogas no município de Morrinhos/CE, cuja dinâmica de funcionamento está detalhada em relatório policial.
+O Magistrado singular destacou, ainda, o risco concreto de reiteração delitiva, tendo em vista que se trata de Paciente recentemente indiciado em outro inquérito policial, com participação em grupo criminoso, o que indica o seu envolvimento com a seara delitiva.
+Confira-se, por oportuno, o seguinte excerto do decreto constritivo:
+"Há indícios veementes de que o investigado se dedica habitualmente à mercância de drogas e outras práticas criminosas, fator que traz inegável perigo concreto à ordem pública. Chega-se a tal conclusão pelos seguintes aspectos: o mandado de busca foi expedido depois de a autoridade policial representar a este Juízo, instruindo o pedido com relatório de missão que apontava o investigado como participante da rede de distribuição de drogas no município de Morrinhos; o investigado foi recentemente indiciado no inquérito policial n.º 0175-26.2018.8.06.0129, que versa sobre verdadeiro arrastão realizado neste município, em resposta pela prisão de criminosos, ao menos aparentemente; não se pode afastar os indícios de que a balança apreeendida era usada para a traficância de drogas e os relógios apreendidos também indicam renda ilícita, pois o réu afirmou não exercer nenhuma profissão. Portanto, o quadro esboçado é de forte plausibilidade de reiteração criminosa, caso o réu seja posto imediatamente em liberdade, na medida em que as medidas cautelares diversas da prisão se mostram flagrantemente insuficientes." (Sem grifos no original).
+De fato, consoante pacífico entendimento desta Corte Superior, "a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC 98.470/PI, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/09/2018, DJe 17/09/2018).
+Diante do que registrado acima - em que não se observa, ao menos primo ictu oculi, nenhuma teratologia -, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.º 691/STF, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
