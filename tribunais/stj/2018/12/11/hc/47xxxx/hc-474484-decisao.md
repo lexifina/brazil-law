@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o Juízo das Execuções indeferiu o pedido de saída temporária do paciente por ausência do requisito subjetivo. O apenado possui dois PADs em andamento, sendo um deles por fuga (fl. 74).
+Inconformada, a defesa interpôs agravo em execução da Corte de origem, ao qual se negou provimento (fls. 114/123).
+Alega a impetrante que faltas graves ainda não foram apuradas e homologadas não podendo pesar em desfavor do reeducando.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que seja reformado o acórdão da Corte de origem.
+O pedido de liminar foi indeferido (fls. 135/136).
+Prestadas as informações às fls. 141/160 e 164/167.
+Parecer ministerial às fls. 170/173.
+É o relatório.
+Cumpre pontuar, inicialmente, que esta Corte Superior de Justiça não mais admite a utilização do habeas corpus em substituição ao recurso cabível, como ocorre na hipótese, circunstância que impede o seu formal conhecimento.
+Ademais, não se vislumbra no caso a ocorrência de qualquer ilegalidade que justifique atuação de ofício.
+Esta Corte Superior entende que a benesse da saída temporária não constitui direito subjetivo dos apenados inseridos no regime semiaberto, devendo o mencionado benefício ser avaliado pelo Juízo Executório com base no cumprimento dos requisitos objetivos e subjetivos estabelecidos pelo art. 123 da LEP, dentre os quais encontra-se prevista a compatibilidade com os objetivos da pena.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. VISITA PERIÓDICA AO LAR. BENEFÍCIO INDEFERIDO. PREMATURIDADE. AUSÊNCIA DE COMPATIBILIDADE COM OS OBJETIVOS DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão impugnada por seus próprios fundamentos.
+II - A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que a concessão do benefício de visita periódica ao lar não prescinde da observação de sua compatibilidade com os objetivos da pena, além do bom comportamento, devendo ser gradual o contato maior do apenado com a sociedade, a fim de não frustrar os objetivos da execução. Além disso, também é firme o posicionamento de que o fato de o apenado ter progredido para o regime semiaberto, não lhe assegura o direito à visitação periódica ao lar.
+III - In casu, o v. acórdão impugnado, manteve o indeferimento do benefício, concluindo por sua prematuridade, considerando que o sentenciado somente fará jus ao livramento condicional em 21/12/2038, e foi recentemente progredido ao regime semiaberto em 02/10/2017, e, portanto, que a concessão da visita periódica ao lar, nesta fase da execução, não se coadunaria com os objetivos da pena.
+IV - Infirmar a conclusão a que chegou o eg. Tribunal de origem, para reconhecer a presença dos requisitos para a concessão da benesse, como pretende a impetração, demandaria aprofundado exame do contexto fático-probatório, providência incabível na via eleita.
+Agravo regimental desprovido.
+(AgRg no HC 446.526/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/08/2018, DJe 09/08/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. VISITA PERIÓDICA AO LAR. REQUISITOS DO ART. 123, III, DA LEI N. 7.210/1984. NÃO PREENCHIMENTO. EXAME PELAS INSTÂNCIAS ORDINÁRIAS SUFICIENTEMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. AGRAVO IMPROVIDO.
+1. Consoante precedentes desta Corte Superior, a progressão do sentenciado para o regime semiaberto não lhe confere, como consequência necessária, o direito à visitação periódica ao lar.
+2. No caso, as instâncias ordinárias indeferiram o pedido, com fulcro no art. 123, III, da Lei de Execução Penal, sob o fundamento de que o benefício não se mostrava compatível com os objetivos da pena, revelando-se prematuro, ao menos naquele momento, inexistindo constrangimento ilegal a ser sanado.
+3. Agravo regimental improvido.
+(AgInt no HC 410.342/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+In casu, conforme bem delimitado na decisão de primeiro grau, embora o apenado tenha cumprido com o requisito objetivo, bem como apresentar bom comportamento carcerário, o paciente "possui dois PADs em andamento, sendo o 67/2017 por fuga por 24 dias ao não retornar do trabalho externo demonstrando descumprimento de regra mínima de confiança depositada ao conceder esta benesse" (fl. 74).
+O Tribunal estadual enfatizou que "in casu, o apenado ostenta dois procedimentos administrativos disciplinares contra si em curso, inclusive pela prática de falta grave consistente em fuga, quando deixou de retornar do trabalho externo, permanecendo na condição de foragido pelo considerável período de vinte e quatro dias. A prática de falta grave deve ser contabilizada como fator subjetivo negativo à concessão da benesse. Ter empreendido fuga demonstra falta de adaptação às regras de cumprimento da pena e ausência de condições pessoais para retornar ao convívio social. Agiu em desacordo com o regulamento de sua pena, cometeu falta e, portanto, desmerece a benesse pretendida" (fl. 118).
+Ressaltou, ainda, que foi desatendido o inciso I do art. 123, da LEP, uma vez que a "conduta prévia do apenado denota que ele não possui as condições pessoais necessárias para a obtenção do benefício pleiteado. O apenado, em situação anterior, quando em fruição justamente de saída temporária, não retornou ao presídio, configurada sua fuga, mostrando-se, portanto, desmerecedor da benesse" (fl. 122).
+Ademais, conforme as informações prestadas pelo Juízo da VEC (fls. 166/167), houve significativa alteração na situação da execução do ora paciente, uma vez que o PAD n.º 67/2017 foi homologado, tendo sido reconhecida a prática de falta grave pela fuga, sendo determinada a regressão ao regime fechado e a perda de 1/6 (um sexto) dos dias remidos (arts. 123, I e 125 da LEP).
+Assim, forçoso reconhecer a inexistência de constrangimento ilegal a ser sanado de ofício, a ponderar que o entendimento fixado pela Corte de origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do habeas corpus.
+Publique-se. Intime-se.
