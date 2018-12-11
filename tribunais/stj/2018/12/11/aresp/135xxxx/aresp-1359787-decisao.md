@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO ClVEL. INVENTARIO. BENS SONEGADOS.INEXISTÊNCIA. DOAÇÃO INOFICIOSA. NÃO COMPROVAÇÃO. APURAÇÃO DOS VALORES DOS BENS MÓVEIS. CRITÉRIO ÚNICO.PRINCÍPIO DA IGUALDADE.
+Se a parte não comprova que o valor doado pelo inventariado e sua ex- mulher às filhas, para a aquisição de imóvel, tratou-se de doação inoficiosa e desrespeitou a legítima, não há porque determinar que esse bem venha à colação, sobretudo porque a doação ocorreu em momento anterior ao nascimento da terceira filha do de cujus e do casamento dele com a inventariante.
+Para que haja a aplicação da pena por sonegação de bens, necessário que reste comprovado nos autos, de forma efetiva, a exclusão de patrimônio do de cujus.
+A apuração dos valores dos bens imóveis deve observar critério único, de forma a respeitar o princípio da igualdade.
+Recurso conhecidos. Recurso principal provido para cassar a sentença e recurso adesivo. não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 1022, 278, 507 e 652 do Código de Processo Civil, 544, 2002 e 2003 do Código Civil.
+Nas razões recursais, sustenta a parte agravante: " Ao não reconhecer a ocorrência da preclusão, QUANDO AS RECORRIDAS DEIXARAM DE IMPUGNAR OS PLANOS DE PARTILHA APRESENTADOS (fl. 284v), a Câmara Julgadora acabou por afrontar os referidos dispositivos do CPC/73, mantendo o posicionamento de que a primeira apelação interposta seria capaz de devolver ao Tribunal de Justiça toda a discussão sobre os termos do Esboço de Partilha..Não obstante o DELINEAMENTO FÁTICO INCONTROVERSO, no acórdão, de que o imóvel situado à Rua Guaxupé foi adquirido pelas recorridas com dinheiro doado por seus pais (fl. 448), a Turma Julgadora, fundando-se no direito aplicável às disposições de última vontade, e não ao adiantamento de legitima, entendeu que, como a doação não foi inoficiosa, respeitando as legítimas das herdeiras, não haveria que se falar na necessidade de colação do seu valor (fl. 448).".
+Contrarrazões ao recurso especial às fls. 719-726.
+É o relatório.
+DECIDO.
+2. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. No tocante à alegada violação dos artigos 278, 507 e 652 do Código de Processo Civil, 544, 2002 e 2003 do Código Civil, cumpre trazer trecho do acórdão recorrido que consignou:
+No que se refere ao imóvel situado a Rua guaxupé, verifica-se que em 1974 ele foi adquirido pelas apelantes principais com dinheiro doado pelos seus pais, Valdemar e Zilmar (fl. 244). Denota-se que a doação do valor do imóvel se deu antes mesmo do nascimento da filha Thamires e da união da Sra. [NOME] com o de cujus. Observa-se que os genitores detinham o usufruto do bem que foi transferido a ex-esposa do falecido.
+Cumpre mencionar que competia às apeladas comprovarem que essa doação ocorrida em 1974 foi inoficiosa e que houve desrespeito à legítima.
+Dessa forma, verifica-se que não houve, no presente caso, desrespeito à legítima, pois é visível pelo forma de partilha apresentado que o inventariado e sua ex- mulher possuíam outros imóveis, não ocorrendo disposição gracioso além dos 50% da herança.
+Logo, tendo em vista que o imóvel da rua guaxupé não pertencia ao de cujus e tampouco havendo provas de que houve violação a legítima, esse bem não deve integrar a lista de bens partilháveis.
+Portanto, verificada a irregularidade no esboço de partilha apresentadoa deve a inventariante ser intimada para apresentar novo esboço excluindo o imóvel da rua guaxupe.
+Tendo em vista que restou comprovado que não houve omissão das apelantes principais em relação ao imóvel da rua guaxupé, não há que se falar na penalidade em relação aos bens sonegados.
+(..)
+Logo, no caso dos autos, uma vez que foi determinada a avaliação judicial do bem situado a rua professor morais, deve-se proceder, também, a avaliação judicial do imóvel situado a rua donato da fonseca.
+(..)
+No caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que: "Diferentemente do sustentado pelas embargantes, não há que se falar em preclusão, visto que as matérias objeto da apelação que deu ensejo ao acórdão embargado, também foram matéria da apelação anteriormente interposta que ensejou a nulidade da sentença proferida anteriormente (fl. 298/303) e que sequer foram objeto de análise ante a cassação de oficio, da sentença (fl. 350/352).". Assim, alterar o entendimento do acórdão recorrido sobre a não ocorrência da preclusão, demandaria, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Ademais, o STJ possui firme o entendimento no sentido de que não é possível o conhecimento de recurso especial em que os recorrrentes afirmam que a doação feita pelo de cujus é inválida, e a Corte de origem alega que doações feitas pelo falecido às recorridas não teriam sido inoficiosas, não violando o princípio da intangibilidade da legítima dos herdeiros necessários, pois para alterar a decisão do tribunal a quo é necessário o reexame de matéria fático - probatória dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NULIDADE DE ATO JURÍDICO. DOAÇÃO INOFICIOSA. SIMULAÇÃO. COMPRA EM FAVOR DE UM DOS FILHOS EM DETRIMENTO DOS DEMAIS HERDEIROS. REEXAME DE PROVA.
+1. Não se admite o recurso especial quando sua análise depende de reexame de matéria de prova (Súmula 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1057009/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe 04/04/2018)
+5. Demais disso, verifico que o v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. No presente caso, deixou o recorrente de impugnar, especificamente, o fundamento transcrito acima, em negrito. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+6. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
