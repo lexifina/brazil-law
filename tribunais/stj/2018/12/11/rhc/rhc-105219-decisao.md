@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por [NOME], em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba.
+Depreende-se dos autos que o recorrente foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, bem como ao pagamento de 200 (duzentos) dias-multa, pela prática dos delitos previstos no art. 102 da Lei n. 10.741/03 e no art. 304 do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus, não conhecido pelo eg. Tribunal de origem, nos termos de v. acórdão de fls. 58-62, assim resumido por sua ementa:
+"HABEAS CORPUS. CRIMES CAPITULADOS NOS ARTS. 304 E 102 DA LEI Nº 10.741/03 C/C ART. 71 DO CP. SENTENÇA CONDENATÓR1A PROFERIDA. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. VIA IMPRÓPRIA. QUESTÃO QUE DESAFIA RECURSO DE APELAÇÃO. WRIT QUE NÃO ATUA COMO SUCEDÂNEO RECURSAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECEDENTES DOS TRIBUNAIS SUPERIORES. NÃO CONHECIMENTO."
+Daí o presente recurso ordinário em habeas corpus, em que o recorrente, retomando os argumentos aduzidos na impetração originária, sustenta que está configurada a extinção da punibilidade pela prescrição da pretensão punitiva supostamente verificada entre a data do recebimento da denúncia e a data da publicação da sentença condenatória.
+Argumenta, inicialmente, que a prescrição, tratando-se de matéria de ordem pública, pode ser suscitada em qualquer tempo e grau de jurisdição e deve ser concedida de ofício, independente de prequestionamento.
+Assim, afirma ter decorrido período superior a 4 (quatro) anos entre os marcos interruptivos assinalados e que, como a pena de cada um dos delitos foi estabelecida em 2 (dois) anos de reclusão, restaria configurada a prescrição, nos termos do art. 109, IV, c/c o art. 117, ambos do Código Penal.
+Aduz também que o agravamento da pena em virtude da reincidência foi ilegal, tendo em vista que, em tese, na data do crime, a pena anteriormente fixada ja havia sido extinta.
+Requer, afinal, a concessão da ordem para extinguir a punibilidade do paciente pela prescrição da pretensão punitiva.
+O Ministério Público Federal oficiou pelo não conhecimento do recurso ordinário em habeas corpus, em parecer de fls. 87-89, assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. APROPRIAÇÃO DE BENS DE IDOSO. ART. 102 DO ESTATUTO DO IDOSO. PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO. DEFICIÊNCIA.
+- O habeas corpus impetrado perante o Tribunal de Justiça do Estado da Paraíba não teve seu mérito apreciado, tendo em vista tramitar perante aquela Corte Estadual recurso de apelação no qual suscitada a ocorrência de prescrição. Sobressai a incompetência desse C. STJ para apreciar a matéria, ainda não submetida ao crivo do órgão judicial competente.
+- Ademais, não se mostra possível a apreciação da matéria suscitada pelo recorrente dada a deficiência de instrução da impetração originária.
+- Parecer pelo não conhecimento do recurso ordinário em habeas corpus."
+É o relatório.
+Decido.
+Pretende o recorrente ver reconhecida a extinção da punibilidade pela prescrição da pretensão punitiva, ocorrida, em tese, entre a data do recebimento da denúncia e a data da publicação da sentença condenatória.
+Para melhor delimitar a quaestio, transcrevo os seguintes trechos do v. acórdão recorrido (fls. 58-62):
+"O Writ não deve ser conhecido.
+O habeas corpus foi impetrado por [NOME] em favor de [NOME], alegando que, em face da pena in concreto aplicada cm sentença proferida pelo juiz da 2a Vara Criminal da Capital, operou-se a prescrição da pretensão punitiva na modalidade retroativa.
+Ocorre que, para atacar a sentença nesses termos, é cabível o recurso de apelação, nos termos do art. 593, inciso I, do Código de Processo Penal, que reza:
+Art. 593. Caberá apelação no prazo de 5 (cinco) dias:
+I - das sentenças definitivas de condenação ou absolvição proferidas por juiz singular.
+Portanto, havendo previsão legal de recurso próprio, impossível o conhecimento de habeas corpus utilizado como substitutivo recursal. Nesse sentido, cito precedente do Superior Tribunal de Justiça:
+ ..
+No entanto, conforme se observa do julgado supracitado, é preciso analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+Nesse viés, imperioso observar que a pretensão autoral não merece guarida, vez que o paciente não está sofrendo coação ilegal porquanto foi concedido a ele o direito de aguardar o trânsito em julgado da sentença em liberdade, (id. 2814957)
+Ademais, o recurso apelatório interposto pelo paciente encontra-se em tramitação nesta Corte, tombado sob o nº 0007162-17.2010.815.2002, devendo a questão referente à prescrição da pretensão punitiva ser analisada por ocasião do seu julgamento.
+Em casos como o dos autos, onde o pedido é manifestamente incabível pela utilização do habeas corpus como sucedâneo de recurso, dispõe o art. 252 do RITJPB:
+RITJPB Art. 252. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele conhecer originariamente, ou se tratar de reiteração de outro com os mesmos fundamentos, ou, ainda, não vier devidamente instruído, liminarmente dele não se conhecerá.
+Ante o exposto, não conheço do habeas corpus." (grifei)
+Com efeito, extrai-se dos autos que a questão aventada no presente mandamus, a saber, a prescrição da pretensão punitiva, não foi analisada pelo eg. Tribunal de Justiça do Estado da Paraíba.
+Verifica-se que a eg. Corte estadual, por entender que o habeas corpus era sucedâneo de recurso próprio, notadamente em razão de a quaestio ser objeto de recurso de apelação interposto pela Defesa, não conheceu do writ.
+Ademais, o eg. Tribunal a quo não conheceu da impetração por concluir que não havia coação ilegal, visto que ao recorrente foi concedido o direito de aguardar em liberdade o trânsito em julgado da sentença.
+Com efeito, mesmo em se tratando de questão de ordem pública, o eg. Tribunal de Justiça estadual deve conhecer inicialmente da controvérsia para, somente após, ser inaugurada a competência deste Superior Tribunal de Justiça, o que inviabiliza o conhecimento do presente recurso ordinário em habeas corpus, sob pena de indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. MATÉRIA NÃO ENFRENTADA NO WRIT ORIGINÁRIO. SUPRESSÃO. SUPERVENIÊNCIA DO JULGAMENTO DO RECURSO DE AGRAVO EM EXECUÇÃO. IMPUGNAÇÃO POR VIA PRÓPRIA. NOVO ATO TIDO POR COATOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - Agravo regimental interposto contra decisão que não conheceu do recurso ordinário, em razão de supressão de instância, pois o writ impetrado na origem não enfrentou a matéria ora debatida.
+II - Os argumentos utilizados pelo d. Juízo das Execuções para renovar a permanência do agravante no presídio federal, e contra os quais foi interposto o writ originário, restaram superados com o julgamento do recurso de agravo em execução, interposto simultaneamente ao habeas corpus.
+III - O ato coator impugnado no presente recurso foi o acórdão proferido no habeas corpus originário. Eventuais questionamentos em relação ao v. acórdão prolatado no julgamento do recurso de agravo em execução deverão ser debatidos na via própria, pois para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389.631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/3/2017).
+Agravo regimental não provido." (AgRg no RHC 83.706/SP, Quinta Turma, de minha relatoria, DJe 25/09/2017, grifei)
+"HABEAS CORPUS. PRESCRIÇÃO INTERCORRENTE (ART. 110, § 1º, DO CÓDIGO PENAL - CP). MATÉRIA DE ORDEM PÚBLICA. COMPETÊNCIA DO JUÍZO OU TRIBUNAL NO QUAL SE ENCONTRA TRAMITANDO O FEITO (ART. 61 DO CÓDIGO DE PROCESSO PENAL - CPP). CONDENAÇÃO TRANSITADA EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL (ART. 66, II, DA LEI N. 7.210/84 - LEP). PEDIDO FORMULADO NESTA CORTE. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+1. A prescrição da pretensão punitiva (matéria de ordem pública) pode ser declarada de ofício, em qualquer fase do processo (art. 61 do Código de Processo Penal - CPP). Isto é, a análise da questão cabe ao juízo ou tribunal no qual se encontra tramitando o feito. Ocorrendo o trânsito em julgado da condenação, a competência será do juízo da vara de execuções penais (art. 66, II, da Lei n. 7.210/84). Precedentes.
+2. No caso dos autos, esta Corte considerou intempestivo o agravo em recurso especial da defesa. Após o trânsito em julgado da decisão e a remessa do feito à origem, impetrou-se o presente habeas corpus buscando a extinção da punibilidade em razão da ocorrência da prescrição intercorrente da pretensão punitiva. A matéria, no entanto, deve ser submetida, primeiramente, à análise do Juízo da vara de execuções penais, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido." (HC 249.732/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 10/10/2016)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECONHECIMENTO DA PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA AOS ARTS. 386, III, DO CPP E 82 DA LEP. PLEITO DE ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA. FUNDAMENTO INATACADO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Ainda que a prescrição seja matéria de ordem pública, o seu conhecimento em sede de recurso especial exige o prequestionamento da matéria pela Corte de origem". (AgRg no REsp 850.516/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, DJe 04/09/2013).
+2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula 283/STF).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 1195479/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 15/12/2017)
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PEDIDO DE SOBRESTAMENTO DA EXECUÇÃO PROVISÓRIA. CONDENAÇÃO DEFINITIVA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE RECONHECIMENTO DE OFÍCIO. FALTA DE COMPROVAÇÃO DA DATA EM QUE O ACÓRDÃO TRANSITOU EM JULGADO PARA OS AGRAVANTES. RECURSO NÃO PROVIDO.
+1. A condenação dos agravantes transitou em julgado, sendo manifestamente incabível o pedido de sobrestamento da execução provisória da pena.
+2. As instâncias ordinárias não se manifestaram previamente sobre a ocorrência da prescrição da pretensão punitiva estatal e não é possível reconhecer a causa extintiva de punibilidade de ofício, pois, a despeito de se tratar de matéria de ordem pública, cognoscível em qualquer tempo e grau de jurisdição, o prazo deve ser contado individualmente, levando-se em consideração a data em que ocorreu o trânsito em julgado para os agravantes, não especificada nos autos.
+3. Agravo regimental não provido." (AgRg no RHC 34.348/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 15/09/2016)
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO POR SUPRESSÃO DE INSTÂNCIA. FUNDAMENTO NÃO INFIRMADO. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. ALEGADO CONSTRANGIMENTO ILEGAL EM RAZÃO DA NEGATIVA DE O PACIENTE RECORRER EM LIBERDADE. FUNDAMENTOS IDÔNEOS. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESTA PARTE, IMPROVIDO.
+1. Uma vez que a Corte a quo não se pronunciou sobre tema versado no recurso em habeas corpus, o Superior Tribunal de Justiça fica impedido de fazê-lo diretamente, sob pena de incorrer em indevida supressão de instância. O fundamento da existência de supressão de instância não foi especificamente atacado no agravo regimental, a atrair ao caso o enunciado n. 182 da Súmula desta Corte.
+ ..
+3. Agravo regimental parcialmente conhecido e, nesta parte, improvido." (AgRg no RHC 70.799/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 31/08/2016, grifei)
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+[NOME]
