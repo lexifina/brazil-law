@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. FURTO SIMPLES TENTADO (BICICLETA NO VALOR DE R$ 150,00). PROCESSO E PRESCRIÇÃO SUSPENSOS NOS TERMOS DO ART. 366 DO CPP. LIBERDADE PROVISÓRIA CONCEDIDA PELO JUÍZO DE ORIGEM. AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CPP. PRISÃO DECRETADA EM RECURSO EM SENTIDO ESTRITO. FLAGRANTE ILEGALIDADE. EXISTÊNCIA.
+1. É certo que a prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. In casu, existe manifesta ilegalidade, pois não parece ser razoável manter uma pessoa encarcerada cautelarmente se o próprio Juiz de piso reconheceu que estão ausentes os requisitos exigidos no art. 312 do Código de Processo Penal.
+3. Ordem concedida para, confirmando-se a liminar, revogar a prisão do paciente, se por outra razão não estiver preso, ressalvada a possibilidade de aplicação de medidas cautelares diversas, caso se apresente motivo concreto para tanto.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem de habeas corpus nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora a Sétima Câmara Criminal do Tribunal de Justiça de Minas Gerais (Recurso em Sentido Estrito n. 1.0476.14.000122-5/001).
+Narram os autos que o paciente foi denunciado pela suposta prática do crime previsto no art. 155, caput, c/c o art. 14, II, ambos do Código Penal, cujo fato ocorreu em 21/6/2013 (fl. 17).
+Em 26/6/2014, o paciente não foi localizado para a citação pessoal. O Magistrado, então, determinou a citação do réu por edital. Contudo, tal citação restou infrutífera, culminando na suspensão do processo e do prazo prescricional.
+O Ministério Público, assim, requereu a decretação da prisão preventiva, o que foi indeferido pelo Juiz de piso.
+Inconformado, interpôs recurso em sentido estrito, ao qual o Tribunal mineiro deu provimento para decretar a prisão do paciente.
+Daí o presente mandamus, em que a Defensoria Pública alega, no caso em questão, a prescrição do processo está suspensa, fazendo com que o tempo de revelia do réu não interfira e não atrapalhe a persecução penal. Desta forma, independente do tempo que se passe até que o paciente seja encontrado, o Estado ainda terá sua pretensão punitiva garantida, fazendo com que sua permanência atual em local incerto e não sabido não altere a aplicação da lei penal (fl. 5).
+Requer, inclusive liminarmente, a revogação da prisão preventiva.
+Deferida a liminar e prestadas as informações de praxe, o Juízo de origem noticiou que o processo e a prescrição continuam suspensos (fl. 100).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República [NOME], pela denegação da ordem, revogando-se a liminar.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a impetração a revogação da prisão preventiva decretada pelo Tribunal de Justiça no bojo do Recurso em Sentido Estrito n. 1.0476.14.000122-5/001.
+De uma atenta leitura dos documentos acostados aos autos, observa-se que o paciente, em 21/6/2013, "tentou subtrair, para si, coisa alheia móvel, - "uma bicicleta, no valor de R$ 150,00" (fl. 17) e teve a liberdade concedida (fl. 76).
+Mesmo não sendo encontrado para a citação pessoal, nem se apresentado após a citação editalícia, o Magistrado, embora tenha suspendido o prazo prescricional e o processo, ao se manifestar sobre a prisão do réu, disse o seguinte: não verifico, em razão do crime praticado ou mesmo da circunstância atual processual motivo para o decreto prisional, não encontrando, para o mesmo, justificativa dentre as hipóteses previstas no artigo 312 do CPP (fl. 32 - grifo nosso).
+É certo que a prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+Contudo, a mim me parece não ser razoável manter uma pessoa encarcerada cautelarmente, se o próprio Juiz de piso reconheceu que estão ausentes os requisitos exigidos no art. 312 do Código de Processo Penal.
+Ademais, segundo o preceito contido no art. 366 do Código de Processo Penal, o Juiz singular, se entender que estão presentes o requisitos do art. 312 daquele mesmo código, poderá decretar a prisão, ou seja, não está obrigado a decretá-la. Vejamos o art. 366 (grifo nosso):
+Art. 366 - Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312.
+Ante o exposto, concedo a ordem para, confirmando-se a liminar, revogar a prisão do paciente, se por outra razão não estiver preso, ressalvada a possibilidade de aplicação de medidas cautelares diversas, caso se apresente motivo concreto para tanto.
