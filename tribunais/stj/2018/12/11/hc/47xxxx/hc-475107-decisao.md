@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KENEDY [NOME] e [NOME] contra acórdão do Tribunal de Justiça do Rio de Janeiro.
+Consta dos autos que os pacientes foram condenados como incursos no art. 35, c/c o art. 40, III, IV e V, ambos da Lei n. 11.343/06, Kenedy à pena de 8 anos e 4 meses de reclusão e 870 dias-multa, e [NOME] à pena de 10 anos de reclusão e 1200 dias-multa, ambos em regime inicial fechado.
+Sustenta neste writ, em suma, desproporcionalidade no aumento conferido à pena-base do pacientes, ao argumento de que ainda que seja mantida a fundamentação, a fração de acréscimo está muito além daquela admitida como proporcional.
+Requer, assim, a redução do aumento da pena-base.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pela concessão parcial do habeas corpus apenas em relação ao paciente Kenedy.
+É o relatório.
+DECIDO.
+Na sentença condenatória, a dosimetria da pena foi assim fixada (fls. 98-103):
+DO ACUSADO KENEDY:
+Da Pena-Base
+A reprovabilidade do acusado excedeu a normal do tipo.
+Com efeito, o acusado não só fazia parte de uma associação criminosa com extensão intermunicipal, como veio de outra cidade para Volta Redonda para fortalecer o "exército" da facção criminosa, com o objetivo de matar integrante da facção rival e tomar a chefia de sua boca de fumo, aumentando a área de atuação de sua associação criminosa.
+Por conta disso, fixo a pena-base em 05 (cinco) anos de reclusão e 840 (oitocentos e quarenta) dias multa, no valor de um trinta avos do maior salário mínimo (artigo 43, da Lei 11.343/06).
+Da Pena Provisória
+Não há circunstancias agravantes ou atenuantes a considerar.
+Da Pena Definitiva
+Incidem, outrossim, as causas especiais de aumento de pena previstas no artigo 40, incisos III, IV e VI, da Lei 11.343/06, na medida em que o delito foi praticado nas imediações de estabelecimento escolar, com emprego de arma de foto e envolvendo o adolescente Leandro.
+Aumento, por consequência, a pena intermediária em 2/3 (dois terços), já que, além da presença de três causas de aumento, restou apurado que a arma de fogo apreendida estava municiada, tendo sido efetivamente utilizada no dia anterior ao da prisão, o que torna a conduta mais grave e deve ser devidamente sopesado, consolidando a pena definitiva em 08 (oito) anos e 04 (quatro) meses de reclusão e 870 (oitocentos e setenta) dias-multa, no valor de um trinta avos do maior salário mínimo (artigo 43, da Lei 11.343106).
+Do regime de cumprimento da pena A pena deverá ser cumprida em regime fechado, nos termos do artigo 33, §2º, "a", do Código Penal.
+DO ACUSADO [NOME]:
+Da Pena-Base
+Conforme acima fundamentado, a reprovabilidade do acusado excedeu a normal do tipo, diante da sua efetiva participação em guerra de facções, o que envolve a pratica de diversos outros crimes, inclusive homicídios, como era o objetivo dos acusados.
+Além disso, observando-se a folha de antecedentes criminais do esposado acusado, verifica-se que o mesmo possui antecedentes criminais e personalidade voltada para a marginalidade, bem como ostenta conduta social inteiramente reprovável.
+Destaque-se que o réu foi condenado pelo crime de tráfico de drogas, praticado anteriormente ao fato narrado na presente denúncia.
+Nesse sentido, vem se sedimentando a jurisprudência do Egrégio Tribunal de Justiça do Estado do Rio de Janeiro. É ler:  ..
+Registre-se que o presente posicionamento mostra-se mais acertado do que aquele consagrado no verbete de nº 444, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+Vale dizer, foge do razoável desconsiderar, por  completo, sentenças condenatórias e até mesmo acórdãos condenatórios prolatados em desfavor do acusado por fatos delituosos praticados anteriormente.
+Repise-se que no presente decisum não se está considerando meros inquéritos policiais ou ações penais em andamento e sim feito penal em que já há pronunciamento judicial condenatório em desfavor do acusado.
+Nestes casos, o Poder Judiciário já emitiu juízo de valor desfavorável ao acusado, sendo certo que tal circunstância deve ser valorada na dosimetria de futura e nova infração penal cometida pelo mesmo réu.
+Por tais razões, fixo a pena-base em 06 (seis) anos de reclusão e 910 (novecentos e dez) dias-multa, no valor de um trinta-avos do maior salário mínimo (artigo 43, da Lei 11.343/06).
+Da Pena Provisória
+ Não há circunstâncias agravantes ou atenuantes a considerar.
+Da Pena Definitiva
+Diante da incidência de três causa de aumento (artigo 40, incisos III, IV e VI, da lei nº 11.343/06) e considerando que a arma de fogo encontrava-se municiada, aumento a pena em 2/3 (dois terços), consolidando a pena definitiva em 08 (oito) anos, 10 (dez) anos de reclusão e 1200 (mil e duzentos) dias-multa, no valor de um trinta-avos do maior salário mínimo (artigo 43, da Lei 11.343106).
+Do regime de cumprimento da pena A pena será cumprida inicialmente em reigime fechado, nos termos do artigo 33, parágrafo 2% letra "a".
+O Tribunal de Justiça manteve o patamar de aumento da pena-base fixado na origem, aos seguintes fundamentos (fls. 28-29):
+De outro vértice, no que tange a dosimetria da pena, também não assiste razão à defesa.
+Como sabido, 08 (oito) são as circunstâncias judiciais avaliadas para a fixação da pena base e a incidência de apenas uma delas já é suficiente para dosá-la acima do mínimo.
+Além disso, à luz do que dispõe o artigo 42, da Lei nº. 11.343/2006, deve-se considerar quando da fixação da pena base, com preponderância sobre as circunstâncias judiciais previstas no artigo 59, do Código Penal, a natureza e a quantidade de substância ou do produto, a personalidade e a conduta social do agente.
+Da mesma forma, sabe-se que a fixação da pena base, embora juridicamente vinculada à variante mínima e máxima e a avaliação do suficiente para a prevenção e reprovação da infração penal, está a cargo do juiz dentro dos parâmetros abstratamente fixados pelo legislador para a pena.
+Na presente hipótese, o Juízo a quo, utilizando-se dos critérios previstos no artigo 59 do Código Penal, e diante da das circunstâncias e as consequências do crime, fixou, de forma acertada, as penas bases acima do seu patamar mínimo legal, sob a seguinte fundamentação:
+Para Kenedy, foi considerado a reprovabilidade do acusado que excedeu a normal do tipo. Com efeito, o acusado não só fazia parte de uma associação criminosa com extensão intermunicipal, como veio de outra cidade para Volta Redonda para fortalecer a facção criminosa, e com o objetivo de matar integrante da facção rival e tomar a chefia de sua boca de fumo, aumentando a área de atuação de sua associação criminosa.
+Para [NOME], foi considerado a reprovabilidade do acusado por exceder a normal do tipo, diante da sua efetiva participação em guerra de facções, o que envolve a pratica de diversos outros crimes, inclusive homicídios, como era o objetivo dos acusados, e ainda observando-se a folha de antecedentes criminais do esposado acusado, verifica-se que o mesmo possui antecedentes criminais e personalidade voltada para a marginalidade, bem como ostenta conduta social inteiramente reprovável, ressaltando que o réu foi condenado pelo crime de tráfico de drogas, praticado anteriormente ao fato narrado na presente denúncia.
+Em regra, não se presta o habeas corpus à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias. Admite-se, contudo, o reexame quando configurada manifesta violação dos critérios dos arts. 59 e 68 do CP, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Com relação ao paciente Kenedy, nota-se que a pena-base foi majorada em 2 anos acima do mínimo legal, com fundamento consistente na maior reprovabilidade da conduta, haja vista que o acusado não só fazia parte de uma associação criminosa com extensão intermunicipal, como veio de outra cidade para Volta Redonda para fortalecer o "exército" da facção criminosa, com o objetivo de matar integrante da facção rival e tomar a chefia de sua boca de fumo, aumentando a área de atuação de sua associação criminosa.
+Quanto ao paciente [NOME], tem-se que a pena-base foi fixada em 3 anos acima do mínimo legal também com base na maior reprovabilidade da conduta, diante da sua efetiva participação em guerra de facções, o que envolve a pratica de diversos outros crimes, inclusive homicídios, como era o objetivo dos acusados, e ainda pela valoração negativa dos antecedentes criminais, personalidade, conduta social, todos com suporte em condenação anterior pelo crime de tráfico de drogas, praticado anteriormente ao fato narrado na presente denúncia, porém sem trânsito em julgado.
+Como se vê, relativamente à circunstância judicial da culpabilidade valorada para ambos pacientes, há motivação concreta que ultrapassa a reprovabilidade inerente ao delito de associação para o tráfico de entorpecentes.
+Para valorar os antecedentes criminais, a personalidade e a conduta social de [NOME], todavia, além de fundar-se em elementos insuficientes para tornar desfavoráveis três vetorias, foi utilizada ação penal com sentença condenatória não transitada em julgado, o que é expressamente vedado pelo Enunciado Sumular nº 444 dessa Corte (É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base), devendo, portanto, serem afastadas tais considerações negativas.
+Assim, permanece em relação à [NOME] apenas a vetorial da culpabilidade.
+Por outro lado, na linha do entendimento esposado por reiterados precedentes deste Tribunal, é permitido ao julgador mensurar com discricionariedade o quantum de aumento da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado.
+Nesse sentido, consignou o Supremo Tribunal Federal que tanto a concorrência de diversas vetoriais negativas como a existência de uma única vetorial negativa de especial gravidade autorizam pena base bem acima do mínimo legal. (RHC 101576, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 26/06/2012, DJe-159 DIVULG 13-8-2012 PUBLIC 14-8-2012).
+Em assim sendo, ainda que presente apenas uma circunstância negativa, sua especial gravidade em concreto que sintetiza as atitudes e intenções dos pacientes para aumentar a força e a área de atuação da facção criminosa - os acusados são associados a facção criminosa, denominada "Terceiro Comando", e que vieram de Angra dos Reis para Volta Redonda no intuito de fortalecer o Terceiro Comando Puro e matar o indivíduo conhecido como "Bolão", pertencente ao Comando Vermelho (extrai-se dos depoimentos dos policiais que essas facções se encontram em guerra) (fl. 27) -, justifica a exasperação da reprimenda básica, pois consoante orientação jurisprudencial deste STJ, A exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgInt no HC 352.885/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/05/2016, DJe 09/06/2016).
+Também nessa linha de raciocínio:
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. (I) REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. (II) CONFISSÃO ESPONTÂNEA. RECONHECIMENTO APENAS DO CONTRATO DE TRANSPORTE. ATENUANTE DEVIDAMENTE AFASTADA.
+ ..
+4. O legislador ordinário não estabeleceu percentuais fixos para nortear o cálculo da pena-base, deixando a critério do julgador encontrar parâmetros suficientes a desestimular o acusado e a própria sociedade a praticarem condutas reprováveis semelhantes, bem como a garantir a aplicação da reprimenda necessária e proporcional ao fato praticado. Desse modo, as circunstâncias do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade nortearão o sentenciante na escolha do patamar de aumento de cada circunstância judicial negativa.
+5. Na espécie, o magistrado sentenciante, respeitando os critérios da proporcionalidade e da razoabilidade, bem como aos pormenores da situação em desfile, aumentou a reprimenda em 3 (três) anos acima do mínimo legal à conta da circunstância judicial da culpabilidade, bem como diante da quantidade de substância entorpecente apreendida - 700,600 kg (setecentos quilogramas e seiscentos gramas) de maconha. 6. A quantidade de substância ilícita apreendida configura-se, nos termos do art. 42 da Lei n. 11.343/2006, circunstância preponderante na fixação da reprimenda. Desse modo, não há teratologia no cálculo da reprimenda a justificar a concessão da ordem.
+ ..
+9. Habeas corpus denegado.
+(HC 326.526/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/04/2017, DJe 17/04/2017)
+Ante o exposto, concedo o habeas corpus apenas para afastar a valoração negativa dos antecedentes, personalidade e conduta social de [NOME], fixando sua pena-base e pena definitiva no mesmo patamar do corréu, no total de 8 anos e 4 meses de reclusão e 870 dias-multa, mantidos os demais termos do acórdão.
+Comunique-se.
+Publique-se.
+Intimem-se.
