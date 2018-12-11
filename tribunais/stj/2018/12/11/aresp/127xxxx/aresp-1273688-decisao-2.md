@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto pela PROSPER S/A CORRETORA DE VALORES E CÂMBIO contra decisão (e-STJ fls. 510/511) que inadmitiu o recurso especial em virtude de: (a) inexistência de violação do art. 14, § 3º, do CDC, (b) impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ) e (c) falta de demonstração da divergência jurisprudencial.
+O acórdão recorrido está assim ementado (e-STJ fl. 415):
+APELAÇÃO - AÇÃO INDENIZATÓRIA - LEGITIMIDADE DE PARTE - RELAÇÃO MATERIAL - APLICAÇÃO DO CDC - INSTITUIÇÃO FINANCEIRA - FORNECEDORA - SOLIDARIEDADE - DEVER DE RESTITUIÇÃO - RISCO DE ENRIQUECIMENTO - PROCEDÊNCIA.
+- Condições da ação verificadas a partir do alegado na petição inicial - in statu assertionis. Verificação em concreto da regularidade processual que não se confunde com a análise própria de procedência/improcedência dos pedidos. Legitimidade constatada na relação de direito material - comprovado vínculo contratual e negociai entre as rés e a autora;
+- Pacífica a natureza consumerista do contrato com a instituição financeira (LC 105/2001), nos termos dos artigos 2o e 3o do Código de Defesa do Consumidor - Súmula 297 do Superior Tribunal de Justiça. Complexidade e valores do contrato de valores mobiliários que não elide a vulnerabilidade do consumidor (presunção absoluta - art. 4o, I, do CDC), nem mesmo capaz de afastar a hipossuficiência;
+- Responsabilidade solidária decorrente do Código de Defesa do Consumidor (artigos 7o, parágrafo único, 18 e 25, §1º) - concorrência para o dano, independente de acertos negociais entre as rés;
+- Inquestionável o prejuízo suportado - partes que declinaram a prova pericial sugerida pelo MM. Magistrado e não refutaram os fatos devidamente comprovados na petição inicial (art. 333, inciso II, do CPC).
+- Culpa exclusiva do consumidor irrelevante - hipótese de comprovada transferência sem a devida restituição que impõe a procedência da demanda condenatória - risco de locupletamento (art. 884, do Código Civil);
+- Manutenção da decisão por seus próprios e bem lançados fundamentos - artigo 252 do Regimento Interno do Tribunal de Justiça de São Paulo;
+RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 420/429), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou, além de dissídio jurisprudencial, violação do art. 14, § 3º, do CDC, afirmando a excludente de responsabilidade civil por culpa exclusiva da vítima.
+No agravo (e-STJ fls. 534/542), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida apresentou contraminuta (e-STJ fls. 550/557).
+É o relatório.
+Decido.
+O Tribunal de origem, à luz das provas dos autos, concluiu pela responsabilidade civil da parte recorrente, nos seguintes termos (e-STJ fl. 418):
+A transferência foi demonstrada pelo documento de fls. 13, sendo certo que bastaria às rés a juntada de extrato bancário da data para atestar de forma diversa do documento bancário não devidamente impugnado. Ainda, anote-se que ambas as requeridas declinaram da prova pericial, sugerida pelo MM. Magistrado. Deste modo, com fundamento no artigo 333, inciso II, não há dúvida do prejuízo suportado pela requerente.
+Outrossim, irrelevante a alegada culpa exclusiva da consumidora. Demonstrada a transferência sem suporte tático que lhe sustente, não há dúvida da necessária restituição da verba ainda que decorrente de erro/negligência da correntista. Supor de maneira distinta importaria violação da vedação ao locupletamento sem causa (art. 884, do Código Civil). Destarte, a sentença da R. Primeira Instância deve ser prestigiada, por seus próprios e bem lançados fundamentos.
+Assim, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Por fim, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
