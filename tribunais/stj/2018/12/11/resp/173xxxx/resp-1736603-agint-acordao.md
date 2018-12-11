@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DECISÃO DE ORIGEM CASSADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM DETERMINADO PARA A APRECIAÇÃO DE PEDIDO PREJUDICIAL DE MÉRITO. JULGAMENTO ULTRA PETITA NÃO CARACTERIZADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo entendimento deste STJ, não ocorre julgamento ultra petita quando o órgão jurisdicional decide questão reflexa ao pedido contido na inicial a partir de interpretação lógico-sistemática inerentes aos elementos da ação.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 830/844, e-STJ) interposto pelo Estado do Acre, contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DECISÃO DE ORIGEM CASSADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM DETERMINADO PARA A APRECIAÇÃO DE PEDIDO PREJUDICIAL DE MÉRITO. JULGAMENTO EXTRA PETITA NÃO CARACTERIZADO. RECURSO ESPECIAL NÃO PROVIDO.
+A agravante, em suas razões, rechaça a decisão monocrática ao asseverar que o julgamento proferido pelo Tribunal de origem padece de vício processual. Aduz que o acórdão a quo incorreu em decisão ultra petita, pois os fundamentos do recurso de apelação interposto pela agravada tão somente veiculou pedido declaratório de imunidade, não havendo recurso quando à repetição do indébito.
+Ademais, requer o agravante o provimento do recurso ou o juízo de retratação.
+Contraminuta ao agravo interno às fls. 849/863 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DECISÃO DE ORIGEM CASSADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM DETERMINADO PARA A APRECIAÇÃO DE PEDIDO PREJUDICIAL DE MÉRITO. JULGAMENTO ULTRA PETITA NÃO CARACTERIZADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo entendimento deste STJ, não ocorre julgamento ultra petita quando o órgão jurisdicional decide questão reflexa ao pedido contido na inicial a partir de interpretação lógico-sistemática inerentes aos elementos da ação.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do agravo interno, o Estado ora recorrente visa cassar o acórdão proferido na origem, pois em seu entender, o Tribunal a quo incorreu em decisão ultra petita, uma vez que a apelação interposta pelo agravado impugnou somente o pleito declaratório de imunidade tributária, restando silente quanto ao pedido do indébito tributário.
+Em que pese a fundamentação do agravante, o recurso não merece prosperar.
+Deveras, ao se compulsar a demanda, se verifica que o pedido do contribuinte é pautado em duas premissas: (i) em tutela declaratória de imunidade tributária; (ii) e a partir deste reconhecimento, na repetição do indébito tributário em relação aos tributos incidentes sobre mídia eletrônica veiculada através de "CD-ROM".
+A decisão de primeiro grau foi julgada improcedente quanto ao pedido de imunidade tributária, restando prejudicado o pedido de repetição de indébito, em face da prejudicialidade do pedido principal. Por seguinte, nas razões de apelação, o recorrente pugnou pela reconhecimento da benesse tributária, fundamentando que caberia ao contribuinte o direito de ver reconhecida a imunidade de ICMS sobre livros eletrônicos em mídia de "CD-Rom". Nesta esteira, o Tribunal de origem declarou o direito à imunidade e por prejudicialidade ordenou que o juízo de primeiro grau analisasse o pedido de repetição de indébito.
+Pautado nestas premissas, não há que se aventar que o Tribunal de origem tenha proferido acórdão extra ou ultra petita. Evidente, que o pedido de repetição do indébito tributário, de cunho condenatório, é prejudicial em relação ao pedido declaratório de imunidade tributária. Assim, o pedido de repetição de indébito só será analisada se houver o reconhecimento da imunidade ao contribuinte. Logo, a fim de se evitar a supressão de instância diante da análise probatória que o pedido de repetição enseja, o Tribunal de origem ordenou o deslocamento do processo para que a primeira instância apreciasse o pedido de repetição de indébito de acordo com o cabedal probatório da demanda.
+Logo, reconhecendo o Tribunal que o contribuinte tem direito à imunidade, ao cassar a decisão de primeira instância, abre-se caminho para a análise dos pedidos dele decorrentes ou prejudiciais àqueles. Como o Tribunal não possui meios para se imiscuir na seara fática sem ter havido esta apreciação na instância antecedente, remanesce para o juízo de primeiro grau a tarefa de fazê-lo, consoante restou decidido no acórdão recorrido.
+Na forma da jurisprudência desta Corte, não ocorre julgamento ultra petita quando o órgão jurisdicional decide questão reflexa ao pedido contido na inicial a partir de interpretação lógico-sistemática inerentes aos elementos da ação.
+Cito precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO 535 DO CPC. NÃO CARACTERIZADA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE NORMAS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. SENTENÇA EXTRA PETITA. NÃO OCORRÊNCIA. CLÁUSULA DE RESERVA DE PLENÁRIO. NÃO VIOLAÇÃO. ANÁLISE DE LEI LOCAL E DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Precedentes.
+3. Consoante entendimento sedimentado no STJ, não ocorre julgamento ultra petita se o Tribunal local decide questão que é reflexo do pedido na exordial. O pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita.
+4. Não tendo sido declarada a inconstitucionalidade de dispositivo de lei pelo órgão julgador, não há falar em ofensa à cláusula de reserva de plenário. Precedentes.
+5. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 770.344/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/11/2015, DJe 01/12/2015, grifei)
+Portanto, não há nulidade a ser reconhecida, como quer o ora recorrente, nos termos da jurisprudência desta Corte.
+Ante o exposto, nego provimento ao agravo interno.
