@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial.
+O Tribunal de origem deu provimento ao apelo interposto pela agravada, em julgado que recebeu a seguinte ementa (e-STJ fl. 238):
+*CAUÇÃO. CUSTAS. EMPRESA ESTRANGEIRA - ARTIGO 835 DO CÓDIGO DE PROCESSO CIVIL. PRESCRIÇÃO. SOBREESTADIA. TRADUÇÃO JURAMENTADA. JUNTADA POSTERIOR. VALIDADE. CONSIGNATÁRIA. RESPONSABILIDADE CONFIGURADA. TERMO DE RESPONSABILIDADE E B/L. SUFICIÊNCIA.
+1. Em sendo necessária a caução (CPC, art. 835), há de ser concedido à parte prazo para a sua prestação nos autos. Decreto de extinção afastado.
+2. Adoção do prazo prescricional ânuo, previsto no artigo 22 da Lei 9.611/98, por analogia. Prazo que começa a fluir a partir da devolução do último container. Prescrição não configurada.
+3. A ausência de tradução juramentada foi suprida validamente.
+4. Responsabilidade da consignatária assumida em termos de responsabilidade. Instrução da ação com tais documentos e com B/Ls. Suficiência. Excesso de cobrança não demonstrado.
+5. Ação procedente. Recurso provido para esse fim.*
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 257/260).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a", da CF, a agravante apontou violação do art. 835 do CPC/1973, pretendendo a extinção do processo, sem resolução de mérito, nos termos do art. 267, IV, do CPC/1973, destacando que (e-STJ fls. 268/269):
+VI- Desta forma pela doutrina uníssona e por uma interpretação a contrario sensu, a regra expressa no citado artigo, somente haveria possibilidade de isenção da caução nos seguintes casos: quando o autor, mesmo residente no exterior, seja, no entanto, possuidor de bens imóveis no"território brasileiro (art. 835), desde, é claro, que o valor desses imóveis seja suficiente para assegurar o pagamento das despesas do processo, na eventualidade da sucumbência; b) quando se tratar de reconvenção (art. 836, I), c) quando for o caso de execução de titulo extrajudicial (art. 836. II), o que de fato não ocorreu no caso em tela.
+(..)
+VIII- Mas o ponto nodal a ser levado em conta por este Egrégio Tribunal da Cidadania é o fato de que a recorrida ajuizou a presente demanda sem a observação dos pressupostos de constituição e de desenvolvimento válidos e regular do processo os famigerados pressuposto processuais e condições da ação. Os pressupostos processuais de existência, como se depreende da própria classificação, são elementos que devem preexistir em relação ao processo, sendo necessária a presença deles para que a relação processual possa ser instaurada. Segundo o Prof. Alexandre Câmara, "a ausência de qualquer deles deve levar à conclusão de que não há processo instaurado na hipótese". Conclui, assim, o eminente processualista, que a conseqüência da ausência de um pressuposto processual de existência seria a inexistência do processo, exemplificando com a situação hipotética de um processo que se desenvolvesse perante um órgão que não estivesse investido de jurisdição.
+Foram apresentadas contrarrazões (e-STJ fls. 286/300).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Ao decidir pelo afastamento da extinção do processo, sem resolução de mérito, o TJSP assim se manifestou (e-STJ fl. 239/240 e 260):
+"Em primeiro lugar, nos termos do artigo 835 do Código de Processo Civil, "o autor nacional ou estrangeiro, que residir fora do Brasil ou dele se ausentar na pendência da demanda, prestará, nas ações que intentar, caução suficiente às custas e honorários de advogado da parte contrária, se não tiverem no Brasil bens imóveis que lhes assegurem o pagamento".
+Na presente hipótese, a ação foi ajuizada por uma empresa norte-americana, a [NOME], representada por sua agência, a nacional CP Ships Ltda.
+Competia ao magistrado de primeiro grau, verificando tal circunstância, determinar a ela que, em determinado prazo, prestasse a caução ou demonstrasse a desnecessidade de fazê-lo, por dispor de patrimônio imobiliário suficiente para garantir eventual pagamento de custas.
+Com efeito, na falta de pressuposto de constituição válida do processo, compete ao juiz assinalar prazo para o preenchimento da lacuna.
+Depois, verifica-se às fls. 94 que ela requereu ao julgador o arbitramento da caução, dispondo-se a prestá-la. E que, posteriormente (fls. 151 e 160) realizou depósito nos autos, pelos valores indicados pela ré.
+Razão pela qual se impõe o afastamento do decreto de extinção prematura do feito, com pronto julgamento por esta Corte (CPC, art. 515, § 3º)."
+"De mais a mais, no caso, a garantia acabou prestada posteriormente, pelos valores indicados pela outra parte, sanando o vício processual.
+Daí porque a extinção do feito foi afastada, passando-se ao mérito da demanda"
+O entendimento adotado pela Corte local coincide com a jurisprudência do STJ, que não reconhece a nulidade alegada pela prestação tardia da caução prevista no art. 835 do CPC/1973. Confira-se:
+CIVIL E PROCESSUAL CIVIL. 1) VIOLAÇÃO A DIREITOS DE PROPRIEDADE INDUSTRIAL. SHOPPING 25 DE MARÇO EM SÃO PAULO. 2) ADMINISTRADORA DE CENTRO COMERCIAL POPULAR EM QUE PERPETRADOS SISTEMATICAMENTE ILÍCITOS DESSA NATUREZA. 3) RESPONSABILIDADE CIVIL. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA CONFIRMADA. 4) CAUÇÃO POR EMPRESA ESTRANGEIRA NÃO DETERMINADA PELO JUÍZO E DISPENSADA NO CASO DE LITISCONSÓRCIO COM EMPRESAS BRASILEIRAS. 5) MULTA DO ART. 538 DO CÓD. DE PROC. CIVIL CANCELADA. 6) RECURSO ESPECIAL PROVIDO EM PARTE PARA O CANCELAMENTO DA MULTA APLICADA NOS EMBARGOS DE DECLARAÇÃO (CPC ART. 538).
+(..)
+VI - Movida ação por empresas estrangeiras e por empresas brasileiras em litisconsórcio e não tendo jamais havido determinação judicial de prestação da caução (art. 835 do Código de Processo Civil) que não se exige como requisito da inicial e poderia ter sido efetivada ulteriormente, não se proclama nulidade, alegada com fundamento no aludido artigo 835 do Código de Processo Civil.
+(..)
+IX - Recurso Especial provido em parte tão somente para o cancelamento da multa imposta nos Embargos de Declaração (CPC art. 538)
+(REsp 1125739/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 03/03/2011, DJe 10/02/2012)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PROPOSITURA DE AÇÃO POR EMPRESA ESTRANGEIRA. PRESTAÇÃO DE CAUÇÃO. AUSÊNCIA. PREJUÍZO. NÃO OCORRÊNCIA. PAS DE NULLITÉ SANS GRIEF. 1. Consoante a jurisprudência sedimentada no Superior Tribunal de Justiça, a nulidade de atos processuais depende da efetiva demonstração de prejuízo da parte interessada, por prevalência do princípio pas de nullité sans grief.
+2. A jurisprudência desta Corte Superior vem admitindo a relativização da norma que prevê prestação de caução para que empresa estrangeira litigue no país. Na hipótese, a autora (empresa estrangeira) vem obtendo êxito em sua pretensão, sendo que as despesas processuais serão custeados pela parte contrária.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1664304/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/09/2017, DJe 21/09/2017)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE PARCERIA PARA REVENDA DE PRODUTOS DE TECNOLOGIA. AÇÃO DE COBRANÇA AJUIZADA POR EMPRESA ESTRANGEIRA. CAUÇÃO. ART. 835 DO CPC. NÃO REALIZAÇÃO. IRREGULARIDADE QUE NÃO SE PROCLAMA NA FASE EM QUE SE ENCONTRA O PROCESSO. DOCUMENTOS JUNTADOS PELO AUTOR. AUTENTICAÇÃO. DESNECESSIDADE. JUNTADA DO CONTRATO SOCIAL OU ESTATUTO DA SOCIEDADE. EXIGÊNCIA DESCABIDA SE NÃO EXISTIR DÚVIDA QUANTO À REPRESENTATIVIDADE. ALEGAÇÃO DE CELEBRAÇÃO DE CONTRATO SOB COAÇÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7.
+1. O sistema processual brasileiro, por cautela, exige a prestação de caução para a empresa estrangeira litigar no Brasil, se não dispuser de bens suficientes para suportar os ônus de eventual sucumbência (art. 835 do CPC). Na verdade, é uma espécie de fiança processual para "não tornar melhor a sorte dos que demandam no Brasil, residindo fora, ou dele retirando-se, pendente a lide", pois, se tal não se estabelecesse, o autor, nessa condições, perdendo a ação, estaria incólume aos prejuízos causados ao demandado.
+2. Porém, no estado em que se encontra a causa, a exigência da chamada cautio pro expensis deve ser analisada segundo sua teleologia, que é ser fiadora das custas e honorários a serem suportados pelo autor estrangeiro, em caso de sucumbência. Assim, mostra-se inviável o acolhimento de nulidade processual depois de o processo tramitar por mais de oito anos, e tendo o autor estrangeiro se sagrado vitorioso nas instâncias ordinárias.
+3. De regra, mostra-se desnecessária a autenticação de documentos carreados aos autos, na medida em que "o documento ofertado pelo autor presume-se verdadeiro, se o demandado, na resposta, silencia quanto à autenticidade (CPC, Art. 372)" (EREsp 179147/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, CORTE ESPECIAL, julgado em 01/08/2000, DJ 30/10/2000, p. 118).
+4. A jurisprudência da Casa é firme em não exigir a juntada do contrato social ou estatuto da sociedade para a finalidade de comprovação da regularidade da representação processual, podendo tal exigência ser cabível em situações em que pairar dúvida acerca da representação societária, circunstância não verificada no caso em apreço.
+5. Não tendo o acórdão recorrido, com base na análise soberana das provas, vislumbrado a ocorrência do vício de vontade (coação) na celebração do contrato posto em litígio, a pretensão recursal encontra óbice nas Súmulas 5 e 7 do STJ.
+6. Recurso especial parcialmente conhecido e, na extensão, não provido.
+(REsp 999.799/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/09/2012, DJe 19/10/2012)
+Assim, incide a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
