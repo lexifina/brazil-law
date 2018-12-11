@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi condenado como incurso no art. 250 § 1º, II, a, do CP, à pena de 4 anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, e 13 dias-multa.
+Sustenta a impetrante, em suma, haver constrangimento ilegal do acórdão que não fundamentou adequadamente a negativa de substituição da pena corporal do paciente por apenas uma pena restritiva de direitos e multa.
+Requer, assim, substituição da pena.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pela denegação do habeas corpus.
+É o relatório.
+DECIDO.
+O Tribunal de origem substituiu a pena corporal por duas restritivas de direitos aos seguintes termos (fl. 144):
+Por fim, vislumbra-se cabível a substituição da reprimenda corporal por penas restritivas de direitos, pois preenchidos os requisitos legais elencados no art. 44 do Código Penal. Desse modo, promove-se a substituição da pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade em benefício de entidade pública ou privada de caráter social e prestação pecuniária no valor de 1 (um) salário mínimo vigente à época dos fatos, em razão das hipossuficiência do apelante.
+Registre-se que a opção por duas penas restritivas de direitos - e não multa - decorre da parca situação financeira do recorrente, de modo que a mera imposição de sanção pecuniária não atingiria qualquer das finalidades perseguidas pela legislação penal.
+Observa-se que a escolha por duas restritivas de direitos consistentes na prestação de serviços à comunidade ou entidades públicas e prestação pecuniária defluiu da parca situação financeira do recorrente, de modo que a mera imposição de sanção pecuniária não atingiria qualquer das finalidades perseguidas pela legislação penal.
+Na hipótese dos autos, sendo a pena privativa de liberdade superior a um ano - no caso, 4 anos de reclusão - esta pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos.
+É cediço que a substituição da pena corpórea deve atentar para as circunstâncias específicas da conduta, a fim de que seja fixada alternativa que possa ser sentida como sanção.
+Demais disso, embora a escolha da medida a ser substituída pela pena privativa de liberdade consubstancie o exercício da discricionariedade regrada, por meio da análise fático-probatória dos autos, imprescindível, para tanto, motivação justificável da adequação de alternativa mais gravosa, tal como se percebe na espécie.
+Nesse sentido, já decidiu essa Corte Superior, com destaques:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO PRIVILEGIADO E QUALIFICADO. DOSIMETRIA. FRAÇÃO DE REDUÇÃO PELO PRIVILÉGIO. SUBSTITUIÇÃO DA PENA. PEDIDO DE APLICAÇÃO DE UMA MEDIDA RESTRITIVA E MULTA. LIVRE CONVENCIMENTO MOTIVADO. AUSÊNCIA DE ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. O julgador está autorizado a mensurar com discricionariedade o quantum de redução a ser aplicado, observando o princípio do livre convencimento motivado. Neste caso, as instâncias ordinárias fundamentaram com base na gravidade concreta da conduta a necessidade de afastamento da fração máxima de redução da pena pelo reconhecimento do furto privilegiado, o que não revela ilegalidade sanável pela via do habeas corpus.
+2. O art. 44, § 2º, do Código Penal dispõe que, "Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos."Deste modo, preenchidos os requisitos para a substituição da pena corporal por restritiva de direitos, ficando a sanção em patamar superior a um ano, a pena poderá ser substituída por multa e por uma medida restritiva, ou por duas restritivas, cabendo a escolha ao magistrado sentenciante, mediante apresentação de fundamentação adequada, tal como ocorreu na hipótese desses autos.
+3. Agravo regimental a que se nega provimento. (AgRg no HC 398.997/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/5/2018, DJe 1º/6/2018.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. MODALIDADE. NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Interpostas duas peças de agravo regimental pelo ora recorrente - uma pela Defensoria Pública estadual e outra pela Defensoria Pública da União -, pelo princípio da unirrecorribilidade, não se conhece do segundo recurso interposto.
+2. Nos casos de condenação superior a 1 ano, é possível a substituição da pena privativa de liberdade por uma restritiva de direitos e multa ou por duas restritivas de direitos, nos termos do art. 44, § 2º, segunda parte, do Código Penal.
+ 3. O magistrado possui discricionariedade para, à luz das peculiaridades do caso concreto, decidir por uma das possibilidades de substituição da pena previstas no art. 44, § 2º, segunda parte, do Código Penal. Não há como eximi-lo da obrigação de, diante do caso analisado, apresentar fundamentação idônea que justifique o porquê de sua escolha, conforme o inciso IX do art. 93 da Constituição Federal.
+4. A quantidade de delitos pelos quais o paciente foi condenado e o quantum de pena imposta configuram fundamentos idôneos para a escolha menos favorável, motivo pelo qual não há constrangimento ilegal a ser reconhecido in casu.
+5. Agravo regimental da Defensoria Pública da União não conhecido e agravo regimental da Defensoria Pública estadual não provido. (AgInt no HC 408.402/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/2/2018, DJe 19/2/2018.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
