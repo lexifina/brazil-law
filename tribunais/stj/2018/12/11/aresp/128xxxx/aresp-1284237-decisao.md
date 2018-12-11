@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, COMBINADA COM REPARAÇÃO POR DANOS MORAIS. FORNECIMENTO DE ENERGIA ELÉTRICA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS RECONHECIDOS. ENTENDIMENTO DIVERSO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] - DISTRIBUIDORA DE ENERGIA S.A contra decisão do Tribunal de Justiça do Estado de [NOME] que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado (fl. 248, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E REPARAÇÃO POR DANOS MORAIS COM PEDIDO LIMINAR APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - CORTE DE ENERGIA CUMPRIMENTO DA ORDEM DE RELIGAÇÃO DE ENERGIA ELÉTRICA QUE AFASTA O ARGUMENTO DE AUSÊNCIA DE INSTALAÇÃO ELÉTRICA DENTRO DOS PADRÕES TÉCNICOS QUE POSSIBILITASSEM A RELIGAÇÃO DE ENERGIA ELÉTRICA NA RESIDÊNCIA - SENTENÇA MANTIDA - RECURSO IMPROVIDO - DECISÃO UNÂNIME.
+Nas razões do recurso especial (fls. 261-274, e-STJ), a recorrente apontou violação dos seguintes dispositivos normativos: art. 373, inciso II, do CPC/2015; e art. 188 do CC.
+Sustentou, em síntese: a) inexistência da prática de ato ilícito, ao agir amparado pelo exercício regular de direito, uma vez que a recorrente não procedeu com a ligação anteriormente porque o imóvel em questão não atendia aos padrões mínimos necessários para que se efetuasse a instalação elétrica, não havendo, portanto, desídia da empresa no sentido de não efetuar a instalação em tempo hábil por culpa do responsável pelo imóvel; e b) ocorrência de valoração inadequada das provas, tendo em vista a ausência de falha na prestação do serviço, de maneira a reconhecer a inexigibilidade dos danos morais.
+Contrarrazões apresentadas às fls. 279-280, e-STJ.
+Em decisão monocrática (fls. 283-285, e-STJ), a Corte local indeferiu o processamento do apelo nobre ao aplicar o óbice da Súmula 7/STJ.
+Nas razões do agravo em recurso especial (fls. 290-296, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentação no sentido de superar o impedimento sumular acima indicado.
+Contraminuta ofertada às fls. 298-299, e-STJ.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mérito, o Tribunal de origem, com base na análise do conjunto fático-probatório carreado aos autos, concluiu que foi comprovado a existência de ato ilícito gerador de danos morais, consistente na falha na prestação do serviço ofertado pela concessionária, consoante se observa nos seguintes trechos do acórdão recorrido (fl. 252, e-STJ):
+Analisando os presentes autos, verifico que restou indubitavelmente comprovado que houve falha na prestação do serviço por parte da Ré, haja vista que esta, sem motivo justificável, deixou o imóvel da Autora sem energia por um lapso temporal considerável, quando havia possibilidade técnica para a referida religação, já que efetuou o restabelecimento da energia quando determinado pelo juízo de origem, cobrando por serviços que não foram disponibilizados, ensejando assim dano de ordem moral.
+Diante desse contexto, rever tal conclusão exigiria a análise do conjunto probatório referente aos autos, o que é inadmitido em recurso especial, em face do impedimento da Súmula 7 desta Corte.
+Sobre a temática, os seguintes julgados desta Corte:
+AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO - CONCESSIONÁRIA DE SERVIÇO PÚBLICO - INTERRUPÇÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - NÃO-OCORRÊNCIA - FALHA NA PRESTAÇÃO DO SERVIÇO - DANOS MORAIS E MATERIAIS - ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO - REEXAME DE PROVAS - IMPOSSIBILIDADE - APLICAÇÃO DA SÚMULA 7/STJ - CDC - FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO - INCIDÊNCIA DA SÚMULA 283/STF - PROVA DO DANO MORAL DESNECESSIDADE - PRECEDENTE - VALOR DA INDENIZAÇÃO QUE NÃO PODE SER CONSIDERADO ABUSIVO - RECURSO IMPROVIDO. (AgRg no Ag 1065342/RN, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 02/10/2008, DJe 15/10/2008)
+DEVER DE INDENIZAR CONFIGURADO DANO MORAL. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. IMPUGNAÇÃO FUNDAMENTOS. SUMULAS Nº 126/STJ E Nº 283/STF.. 1. Não há ofensa aos arts.458 e 535 do CPC se o tribunal de origem se pronuncia fundamentadamente sobre as questões postas a exame, dando suficiente solução à lide, sem incorrer em qualquer vício capaz de maculá-lo.
+2. Tendo o tribunal de origem, após minuciosa análise do contexto fático dos autos, concluído pela responsabilidade de indenizar e ter arbitrado o valor com observância dos princípios da razoabilidade e proporcionalidade, rever tal posicionamento esbarra no enunciado da Súmula nº 7/STJ.
+3. Havendo fundamento constitucional, a não interposição do recurso extraordinário atrai a aplicação da Súmula º 126/STJ.
+4. A ausência de impugnação específica a fundamento do acórdão recorrido reclama a aplicação do verbete da Súmula nº 283/STF, por analogia.
+5. Agravo interno não provido. (AgInt no AREsp 999.188/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/03/2017, DJe 24/03/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios, fixados em 17% (dezessete por cento), para 18% (dezoito por cento) do valor da condenação.
+Intimem-se.
