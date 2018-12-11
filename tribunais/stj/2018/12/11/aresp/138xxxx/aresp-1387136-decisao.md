@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICÍPIO DE CRISTINÁPOLIS, em 10/09/2018, contra decisão do Tribunal de Justiça do Estado de Sergipe, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRESTAÇÃO DE SERVIÇO DE ENERGIA ELÉTRICA - PROVA DO FATO CONSTITUTIVO DO DIREITO DO AUTOR - ARTIGO 373, I DO CPC - FATURAS DAS UNIDADES CONSUMIDORAS INDICANDO O CONSUMO - ENCARGOS MORATÓRIOS - JUROS DE MORA E MULTA, NA FORMA DA RESOLUÇÃO 414/2010 - AUSÊNCIA DE PROVA DA QUITAÇÃO - IMPOSSIBILIDADE DE RECUSA DO PAGAMENTO SOB ENRIQUECIMENTO ILÍCITO DO ENTE PÚBLICO, QUE NÃO NEGOU O CONSUMO DA ENERGIA - NOTA DE EMPENHO RELATIVA AO SERVIÇO. MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME" (fl. 356e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação ao art. 373, I, do CPC/2015, sustentando a inexistência de demonstrativo dos valores e de provas contundentes da existência da dívida.
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 384/393e.
+Negado seguimento ao Recurso Especial (fls. 397/400e), foi interposto o presente Agravo (fls. 411/420e).
+Contraminuta a fls. 423/432e.
+A irresignação não merece conhecimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que o direito autoral restou comprovado, nos seguintes termos:
+"A questão é singela e se resume à análise do ônus da prova; a empresa autora cobra valores do Município, pela prestação de serviço de energia elétrica nas Unidades consumidoras do Município apelante, referente ao período de dezembro de 2016 a março de 2017, totalizando a quantia de R$ 94.377,38. Respaldou seu direito na Lei 9427/96, regulamentada pela Resolução Normativa da ANEEL n. 414/2010, no tocante às cobranças de energia elétrica. Juntou faturas/notas fiscais conforme documentos de tis. 22/55 e 65/174 e o contrato firmado entre as partes em 2012.
+A empresa autora também tentou administrativamente receber seu crédito, como se observa do ofício datado de julho de 2017, informando o débito do município (fls. 275); ainda há informação nos autos de outra ação de cobrança referente a outro período.
+Há também relatórios às fls. 21 e 56 indicando o valor da fatura, multa (2%), juros de mora (1%) e atualização (IGPM). Há também ofício datado de janeiro de 2017, enviado ao Prefeito Municipal, pleiteando o pagamento das contas de energia elétrica- fls. 175.
+Portanto, está provado o direito autoral.
+O Município, por sua vez, não trouxe qualquer prova do pagamento, ônus que lhe cabia, na forma do artigo 373, II do CPC. Na verdade, é inconteste o uso dos serviços prestados pela apelada, não apenas por conta do contrato, como também, pelo fato de que se trata de um serviço essencial, sem o qual não poderiam funcionar os prédios públicos e não haveria a iluminação pública na cidade.
+Eis um trecho da sentença:
+"A autora disse que prestou serviço de energia elétrica às unidades do Município, fazendo prova da dívida do demandado, através das faturas amealhadas com a exordial.
+O réu, por sua vez, não se desincumbiu do seu ônus probandi (art. 373, II, do NCPC), pois não trouxe, comprovadamente, fato impeditivo, modificativo ou extintivo do direito do autor. Em casos tais, um fato extintivo, por exemplo, seria a prova de que o Município já pagou à demandante o valor vindicado na exordial. Não o fez, não trazendo o requerido um documento sequer nesse sentido, muito menos que denotasse a existência de fato modificativo ou impeditivo do direito autoral." (fls. 287)" (fl. 357e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ademais, a Corte de origem, ao analisar a controvérsia, asseverou, ainda, que:
+"Sobre os encargos, vejamos o disposto no artigo 126 da ANEEL:
+"Art. 126. Na hipótese de atraso no pagamento da Nota Fiscal/Conta de Energia Elétrica ou Fatura emitida pela distribuidora, sem prejuízo da legislação vigente, faculta-se a cobrança de multa, atualização monetária com base na variação do IGP-M e juros de mora de 1% (um por cento) ao mês calculados pro rata die.
+§ lo Para a cobrança de multa, deve-se observar o percentual máximo de 2% (dois por cento).
+§ 2o A multa e os juros de mora incidem sobre o valor total da Fatura,.."
+Deste modo, é ilegítima a recusa ao pagamento pelo Ente Publico, sob a justificativa de que as faturas não indicam as unidades de consumo ou a ausência dos encargos, visto que estes dados estão explícitos nos documentos dos autos. Assim, havendo prova da prestação de serviço, obviamente que não pode o Poder Público se escusar do pagamento, sob pena de caracterizar o enriquecimento ilícito" (fl. 357e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
