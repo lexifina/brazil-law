@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA TRABALHISTA. RECLAMAÇÃO TRABALHISTA. VÍNCULO ESTATUTÁRIO. PLEITO PARA EQUIPARAÇÃO SALARIAL. CONFLITO CONHECIDO PARA FIXAR A COMPETÊNCIA NA JUSTIÇA ESTADUAL.
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo da Vara do Trabalho de Uruaçu em desfavor do Juízo de Direito da 2ª Vara Cível da Comarca de Niquelândia/GO, nos autos de reclamação trabalhista proposta contra o Município de Niquelândia/GO, por meio da qual a parte autora objetiva equiparação salarial com outros servidores que também exercem a função de assistente administrativo.
+O Ministério Público Federal opinou pela fixação da competência na Justiça comum.
+É o breve relatório. Decido.
+O STF, no julgamento da ADI 3.395/DF, em 05.04.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da Constituição Federal, alterado pela Emenda Constitucional n. 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico- administrativo.
+Por isso, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+A propósito:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CONFLITO INSTAURADO ENTRE A JUSTIÇA DO TRABALHO E A JUSTIÇA COMUM ESTADUAL. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL, QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. O STF, no julgamento da ADI 3.395/DF, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF/88, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+II. É firme a jurisprudência desta Corte, acompanhando o STF, no sentido de que, "se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal) (..)" (STJ, AgRg no CC 126.125/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira seção, DJe de 30/04/2014).
+VI. Agravo Regimental improvido (AgRg no CC 135.356/RN, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 06/04/2015) (grifamos).
+No caso concreto, como bem ponderado pelo Parquet (e-STJ fl. 220):
+6. Pode-se observar que a autora busca o reconhecimento judicial de isonomia salarial em decorrência de dispositivos prescritos na Lei Orgânica Municipal e no Estatuto dos Servidores Públicos Municipais vigente à época (LC 19/2009).
+7. Dessa forma, o que se tem nos autos é uma causa entre servidor e o Ente público ao qual se vincula por regime estatutário, por mais que se tenha declarado, posteriormente, a invalidade formal de um dos referidos diplomas, a Lei Complementar Municipal nº 19/2009.
+8. Nesse contexto, a compreensão firmada no Superior Tribunal de Justiça é a de que a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias decorrentes dessa avença.
+Isso posto, conheço do conflito negativo de competência e declaro a competência do Juízo de Direito da 2ª Vara Cível da Comarca de Niquelândia/GO.
+Publique-se. Intimem-se. Expeça-se ofício aos Juízos conflitantes.
