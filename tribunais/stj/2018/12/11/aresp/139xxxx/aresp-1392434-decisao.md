@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Responsabilidade civil -, Alegação de tratamento incorreto de reabilitação - Sentença de improcedência em razão da prescrição - Inconformismo - Pretensão, indenizatória que tem relação com todos procedimentos realizados pelo réu até o ano de 2007 - Pretensão não prescrita - Prova pericial que não aborda a adequação dos procedimentos realizados no período entre 2001 e 2007 - Particularidade do litígio que recomenda que se intime o perito a fim de esclarecer a adequação dos referidos procedimentos - Julgamento convertido em diligência.
+Os embargos de declaração opostos foram rejeitados (fls. 552 - 555, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, violação ao artigo 1.022 do Código de Processo Civil de 2015.
+Sustenta a ocorrência de omissão por parte da Corte local, quanto à tese de que foi comprovado nos autos que, o tratamento realizado teve seu encerramento no ano de 2001, caracterizando a prescrição do direito indenizatório vindicado.
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 573 - 574, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão ao agravante.
+Inicialmente, quanto à alegada violação do artigo 1.022 do CPC de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: Edcl no AgRg no Ag nº 492.969/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJ de 14.2.2007; AgRg no Ag nº 776.179/SP, Relator Ministro José Delgado, Primeira Turma, DJ de 12.2.2007; e REsp 523.659/MG, Relator Ministro João Otávio de Noronha, Segunda Turma , DJ de 7.2.2007.
+Ressalte-se que a Corte local não apenas tratou expressamente da prescrição, como fundamentou o não acolhimento da pretensão na forma que segue (e-STJ, fls. 537 - 538):
+Nada obstante a prova testemunhal (fls. 416/419) e a pericial (fls. 121) indicarem que o tratamento de reabilitação oral contratado pela apelante tenha -se encerrado "em 27.01.20,01, ela não nega . que nos anos seguintes a apelante continuou " a se consultar frequentemente com o apelado, realizando procedimentos de "manutenção" do referido tratamento, isto é, serviços diretamente a ele relacionados.
+E assim o fez até 17.07.2007 (cf.. "atestado"- a fl"s. 24), quando resolveu. procurar , outro profissional porque não "se Conformava em retornar" com frequência ao apelado para realizar a "manutenção" de um tratamento que, a princípio, devia ter sido concluído há anos.
+Nesse contexto, vê-se que sua pretensão indenizatória tem por causa de pedir a prestação de um "serviço defeituoso contínuo no tempo; iniciado com o tratamento de reabilitação oral contratado em 1998 efetivamente encerrado na última consulta"feita em 17.07.2017 (fls. 24), quando houve a quebra da confiança e a apelante, decidiu procurar auxílio de outro profissional.
+É por este motivo que, ao contrário do entendimento do juízo a quo, o termo inicial do prazo prescricional não é o ano de 2001, mas, sim, 17.07.07 (grifamos).
+Conforme se verifica, não há que se cogitar em omissão por parte da Corte local.
+Por outro lado, concluindo, o Tribunal de origem, que o reiterado retorno da parte agravada ao consultório do agravante até o ano 2007 se deu em decorrência, ou continuidade do tratamento contratado, a revisão da conclusão adotada na origem é medida que encontra veto na Súmula 7 do STJ, por demandar necessário reexame de fatos e provas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
