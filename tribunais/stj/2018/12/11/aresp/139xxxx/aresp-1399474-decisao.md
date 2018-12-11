@@ -1,0 +1,57 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto pela União contra decisão que inadmitiu o recurso especial, sob o fundamento de que o acórdão recorrido estaria em consonância com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, portanto, o óbice da Súmula 83 do STJ.
+O insurgente alega que "o despacho que inadmitiu o recurso especial o trata como se ele tivesse sido interposto por divergência na interpretação do direito federal, ou seja, com base na alínea "c" do inciso III do art. 105 da Constituição Federal" (e-STJ, fl. 297).
+Sustenta que recurso foi interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, e não baseado na alínea "c" do permissivo constitucional conforme destacado na decisão agravada e, por isso, seria inadmissível a aplicação da Súmula 83 do STJ.
+Aduz que o precedente invocado na decisão agravada é de uma única Turma do Superior Tribunal de Justiça.
+Afirma que a decisão recorrida permitiu "a participação da autora no concurso de remoção previsto no Edital n. 16/2015". Portanto, mesmo antes de saber se remanesciam vagas da escolha inicial" (e-STJ, fl. 298).
+Ao final, pede o conhecimento e provimento do recurso para reformar a decisão agravada.
+É o relatório.
+Decido.
+Inicialmente, registro que o acórdão proferido na origem foi publicado na vigência do CPC/2015, razão pela qual os requisitos de admissibilidade do apelo nobre devem seguir a sistemática processual correspondente, nos termos do Enunciado Administrativo n. 3/STJ, com o seguinte teor:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Destaco que o agravante alegou violação do art. 1.022 do CPC somente nas razões do recurso especial, entretanto, o tópico do recurso não aponta nenhuma omissão/contradição/obscuridade/erro material. Mesmo assim, no esforço pela escorreita prestação jurisdicional, realizo a exegese dos embargos de declaração. Pondera o recorrente que o acórdão foi omisso quanto à observância da cláusula de reserva de plenário e da Súmula Vinculante n. 10 do STF.
+Com efeito, ressalto que não merece prosperar a tese de afronta ao art. 1.022 do CPC, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Veja-se, a propósito, o acórdão impugnado (e-STJ, fls. 210-217), no particular:
+Cumpre esclarecer, ainda, que o entendimento aqui esposado não afronta o enunciado da Súmula Vinculante n. 10 do STF (Viola a cláusula de reserva de plenário  CF, artigo 97  a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte), na medida em que não se está reconhecendo a inconstitucionalidade do art. 28 da Lei n. 11.415/2006, mas apenas assegurando-se a escorreita aplicação da norma. (e-STJ, fl. 212)
+Por fim, convém deixar registrado que, após o encaminhamento pelo MPU ao Congresso Nacional, em 02/05/2013, do Projeto de Lei n. 5.491/2013, foi editada a Lei n. 13.316, de 20 de julho de 2016, que passou a dispor sobre as carreiras dos servidores do MPU e do Conselho Nacional do Ministério Público, revogando a Lei n. 11.415/06. O artigo 9º, § 1º, da Lei 13.316, assim prevê: (e-STJ, fl. 212/213)
+Art. 9º Ao servidor integrante das carreiras dos servidores do Ministério Público da União será permitida movimentação, a critério do chefe do Ministério Público da União, para ocupação de vagas nas diversas unidades administrativas, consoante os seguintes critérios:
+ ..  § 1o O servidor cuja lotação for determinada em provimento inicial de cargo da carreira deverá permanecer na unidade administrativa em que foi lotado pelo prazo mínimo de um ano, só podendo ser removido nesse período no interesse da administração. (negritou-se)
+Percebe-se que o próprio MPU reconheceu que o período de três anos de permanência obrigatória do servidor na unidade de provimento inicial afigurava-se demasiadamente longo.
+ ..
+Como se vê, o único óbice para a participação da parte autora no certame é o tempo de serviço, face à exigência do transcurso do prazo de três anos, com base no § 1º do art. 28 da Lei 11.415/2006. (e-STJ, fl. 213)
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Esclareço, ainda, que não prospera o argumento da parte agravante de que seria inadmissível a aplicação da Súmula 83 do STJ, uma vez que o recurso foi interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, e não baseado na alínea "c" do permissivo constitucional.
+A propósito, a jurisprudência desta Corte superior é no sentido de que "tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes." (AgInt no AREsp 1144502/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+Ainda nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SÚMULA N. 83/STJ. ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. APLICABILIDADE. INTERNAÇÃO PSIQUIÁTRICA. PRAZO SUPERIOR A TRINTA DIAS. COPARTICIPAÇÃO. CLÁUSULA CONTRATUAL EXPRESSA. POSSIBILIDADE. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, a Súmula 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional. Precedentes.
+2. "O STJ pacificou entendimento no sentido de que não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde. Precedentes" (AgInt no AREsp 1.261.541/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/8/2018, DJe 10/8/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.287.341/DF, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/11/2018, DJe 20/11/2018)
+Ademais, nas razões do agravo em recurso especial, verifico que o recorrente não impugnou os fundamentos da decisão agravada, em específico a incidência da Súmula 83 do STJ.
+A impugnação específica do enunciado sumular pressupõe a indicação de recente precedente apto a demonstrar que a jurisprudência desta Corte Superior não está pacificada no mesmo sentido do acórdão recorrido, o que não ocorreu na espécie.
+O agravante deveria ter impugnado, nas razões do agravo em recurso especial, especificamente, os fundamentos adotados pela Corte local para inadmitir o seu recurso especial, notadamente a incidência da Súmula 83/STJ.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, infirmar especificamente os fundamentos adotados na origem para negar seguimento ao reclamo, sendo insuficiente apresentar alegações genéricas de inaplicabilidade do óbice invocado.
+A ausência de impugnação a todos os fundamentos da decisão agravada atrai a incidência do art. 1.021, § 1º, do CPC já cristalizado na Súmula 182 do STJ.
+Ademais, consoante o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 600.416/MG, de minha relatoria, SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+Desse modo, forçosa é a incidência do disposto no art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca especificamente os fundamentos da decisão combatida, nos seguintes termos:
+Art. 932.  Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifo nosso)
+ .. .
+Nesse sentido, confira-se, ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus dos Agravantes. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt nos EAREsp 594.062/RS, Rel. Min. REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 14/9/2016, DJe 20/9/2016)
+Além disso, ainda que superado o referido óbice, saliento, a título argumentativo, que a orientação da Corte local está em harmonia com o entendimento do Superior Tribunal de Justiça de que "é possível a participação de servidor em concurso de remoção promovido pelo Ministério Público da União para disputa de vaga eventualmente remanescente na localidade pretendida, ainda que não tenha preenchido a exigência de 3 (três) anos de efetivo exercício, então prevista no art. 28, § 1º, da Lei n. 11.415/2006, uma vez que o próprio dispositivo admitia a remoção do servidor a qualquer momento a critério da administração. Ademais, eventual vaga remanescente deve ser ofertada ao servidores já integrantes dos quadros da instituição antes de ser ocupada por futuro servidor a ser nomeado após novo concurso público para provimento originário, sob pena de preterição de servidor mais antigo" (AgInt no REsp 1.733.120/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 29/8/2018).
+Ante o exposto, com fulcro no art. 932, III, a, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ e da Súmula nº 568 do STJ, conheço em parte do agravo em recurso especial e, nessa extensão, nego provimento.
+Publique-se. Intimem-se.
