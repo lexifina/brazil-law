@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CABIMENTO: OCORRÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração (fls. 605/614) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. EXECUÇÃO FISCAL. SUCUMBÊNCIA RECIPROCA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A embargante aduz, em síntese, que: a) o Tribunal de origem, apesar de instado por embargos de declaração, não se pronunciou acerca da existência de "outras decisões proferidas pela Administração Pública reconhecendo o cancelamento de todas as exigências" fiscais (fl. 608); b) "se a matéria relativa à sucumbência recíproca esbarra na Súmula nº 07, isso é mais uma evidência de que o E. TRF deveria ter se pronunciado sobre os demais documentos (..) que demonstram o cancelamento integral das exigências" (fl. 609); c) "a execução fiscal originária não poderia ter sido ajuizada, devido a clara divergência de entendimento pelos próprios órgãos da Administração Pública, que torna o título executivo incerto e inexigível" (fl. 610); d) nos acórdãos proferidos, o Tribunal de origem diverge acerca da exigibilidade do título executivo, vale dizer, de quais tributos deveriam ser extintos "(se os débitos de 2001 ou o débito de 12/2003)" (fl. 611); e) "se esse colendo STJ entende que a análise de todo esse contexto esbarra na Súmula nº 07, o apelo especial da contribuinte merece ao menos ser conhecido e provido pelo fundamento relativo à violação ao artigo 1.022 do CPC" (fl. 612); e f) "o que se mostra evidente é o ajuizamento indevido da Execução e a descaracterização da sucumbência recíproca aplicada pelo E. Tribunal" (fl. 613).
+Requer sejam acolhidos os embargos.
+Não houve apresentação de impugnação pela embargada.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão embargada não se ressente do vício arguido.
+A despeito da alegada divergência, perante a Administração Pública, a respeito de qual tributo deve ser cobrado, o que poderia colocar em dúvida a certeza, liquidez e exigibilidade do título extrajudicial que lastreia a execução fiscal (e, em última análise, descaracterizar a sucumbência recíproca aplicada), observa-se que o Tribunal de origem, quando do julgamento dos aclaratórios opostos, consignou o seguinte (fl. 486):
+"Reiterando o já exposto exaustivamente no v. acórdão embargado, o caso é de sucumbência recíproca em razão da adesão da executada ao parcelamento, confessando, portanto, os débitos.
+Os débitos exequendos foram objetos de pagamento posterior ao ajuizamento do executivo fiscal.
+Em outras palavras, se o pedido de cancelamento das inscrições de dívida ativa ocorre em razão do parcelamento, com pagamento integral do débito na via administrativa, como no caso, ausente a sucumbência e, portanto, impossível a condenação da União Federal ao pagamento de honorários advocatícios.
+(..)
+Na hipótese, como visto, reconheceu-se a sucumbência recíproca pelo fato de a autoridade administrativa ter procedido ao cancelamento de parte dos débitos, retificando a CDA. Tal cancelamento não afasta, contudo, o fato de que o contribuinte aderiu ao parcelamento, confessando os débitos da CDA então retificada." (grifou-se)
+Como se constata, a Corte a quo emitiu expressa manifestação acerca da retificação da CDA que aparelha o executivo fiscal, destacando o cancelamento de parte dos débitos exequendos pela autoridade administrativa.
+Em consequência, a decisão embargada contém fundamentação suficiente para demonstrar que, uma vez assentada a sucumbência recíproca pelo acórdão recorrido, com base no acervo fático-probatório carreado aos autos, a análise da medida da sucumbência de cada litigante, em sede de recurso especial, encontra óbice na Súmula 7/STJ.
+Tampouco há de se cogitar de infringência da Corte a quo ao disposto no art. 1.022 do CPC/2015, porquanto o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Desse modo, a questão foi apreciada de modo adequado na decisão embargada, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Nesse sentido, o entendimento firmado sob a égide do CPC/1973, mas inteiramente aplicável ao caso em comento: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Com efeito, a embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Registre-se que os aclaratórios não se prestam a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA.
+1. "A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado" (EDcl nos EDcl no AgRg nos EDcl no REsp n. 790.903/RJ).
+2. Agravo regimental desprovido.
+(EDcl no AREsp 22.011/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/04/2015, DJe 23/04/2015)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada a controvérsia.
+2. O embargante, inconformado, busca com a oposição destes embargos declaratórios ver reapreciada e decidida a controvérsia de acordo com sua tese. Todavia, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia. Embargos de declaração rejeitados.
+3. Não prosperam os aclaratórios quanto ao pretendido prequestionamento de dispositivos constitucionais, pois não cabe ao Superior Tribunal de Justiça examinar na via especial, a título de prequestionamento, eventual violação de dispositivo constitucional, por ser tarefa reservada pela Constituição da República ao Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 557.772/MG, 2ª Turma, Rel. Ministro Humberto Martins, DJe 03/02/2015)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
