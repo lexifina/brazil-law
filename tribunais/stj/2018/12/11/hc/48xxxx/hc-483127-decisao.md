@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado da Bahia (HC n. 8018005-89.2018.8.05.0000).
+Consta dos autos ter sido o paciente pronunciado pela suposta prática dos crimes previstos no art. 121, § 2º, I, III, IV e V, e no art. 121, § 2º, I e IV, c/c o art. 14, II, todos do Código Penal, pois teria, juntamente com os corréus, efetuado os disparos de arma de fogo que levaram a óbito a primeira vítima e que acertaram a segunda vítima na cabeça, a qual não faleceu por circunstâncias alheias à vontade dos agentes, ação essa motivada pela disputa entre duas facções criminosas pela comercialização de drogas na região. Na ocasião, foi mantida a prisão cautelar do paciente.
+Impetrado habeas corpus no Tribunal de origem sob a alegação de excesso de prazo na formação da culpa, o ordem não foi conhecida nos termos da seguinte ementa (e-STJ fl. 1.118):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ARTIGO 33 DA LEI Nº 11.343/2006. NÃO CONHECIMENTO. OBJETO DO WRIT IDÊNTICO AO HABEAS CORPUS Nº 0021910-78.2017.8.05.0000. NO QUAL SE RECONHECEU A INCOMPETÊNCIA DESTE TRIBUNAL DE JUSTIÇA PARA APRECIAÇÃO DO PLEITO. IMPOSSIBILIDADE DE FORMULAR PEDIDO REITERATIVO COM O MESMO FUNDAMENTO. INTELIGÊNCIA DO ARTIGO 259 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+HABEAS CORPUS NÃO CONHECIDO.
+No presente writ, alega a impetrante, em síntese, excesso de prazo, pois "o Paciente encontra-se preso, à disposição do Juízo, há mais de 06 (seis) anos, sem que tenha sido submetido a júri, estando o feito, ILEGALMENTE, até o presente momento na Comarca de Itabuna/Ba, onde a Magistrada de piso entende ser necessário aguardar o julgamento de um Recurso Especial formulado pelo Ministério Público nos autos de desaforamento, o qual sequer foi remetido ao STJ e não possui efeito suspensivo, em arrepio a todas as determinações legais" (e-STJ fls. 25/26).
+Busca, inclusive liminarmente, seja relaxada a prisão do paciente.
+É, em síntese, o relatório.
+O presente writ não merece ser conhecido, pois, considerando as alegações da impetrante formuladas na inicial, bem como o número de processo de primeiro grau declinado na impetração (Ação Penal n. 0011145-73.2012.8.05.0113 - e-STJ fl. 6), trata-se de mera reiteração de outro remédio constitucional dirigido a esta Corte (HC n. 458.810/BA).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
