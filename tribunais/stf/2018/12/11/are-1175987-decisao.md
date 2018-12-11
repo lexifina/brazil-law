@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face do acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 165):
+    “MANDADO DE SEGURANÇA – APELAÇÃO E REEXAME NECESSÁRIO – SERVIDORA PÚBLICA MUNICIPAL – GUARUJÁ – GRATIFICAÇÃO FISCAL – Integração na base de cálculo das horas extras, descanso semanal remunerado, adicional noturno e descontos previdenciários - Admissibilidade - Verba de natureza geral - Inteligência do artigo 147, da Lei Complementar Municipal nº 135/2012 e do artigo 95, da Lei Complementar Municipal nº 179/2015. Precedentes desta E. Corte e desta C. Câmara de Direito Público - Ratificação da sentença nos termos do artigo 252, do RITJSP - Sentença mantida em seu mérito.
+    HONORÁRIOS ADVOCATÍCIOS - Não cabe condenação em honorários advocatícios em mandado de segurança - Entendimento do artigo 25 da lei nº 12.016/2009 e Súmulas 512 do STF e 105 do STJ - Sentença reformada neste tópico.
+    RECURSO DE APELAÇÃO E REEXAME NECESSÁRIO PARCIALMENTE PROVIDOS.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 191-195).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, alega-se violação dos arts. 30; 37, XIV; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a nulidade do acórdão que apreciou os embargos de declaração, ante a deficiência na fundamentação (eDOC 3, p. 182/183), e que “o v. acórdão, ao refutar a pretensão municipal, reconhecendo a possibilidade de determinada gratificação ser computada para apuração de outras verbas remuneratórias (horas extras, adicional noturno e DSR), sem a devida previsão legal neste sentido, acabou por contrariar o que dispõe o art. 30 e 37, inciso XIV da CF” (eDOC 3, p. 186).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando a incidência à espécie do óbice da Súmula 280 do STF (eDOC 3, p. 211).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quanto à alegada deficiência na fundamentação do acórdão recorrido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Quanto à matéria de fundo, verifica-se que o Tribunal de origem, ao apreciar a apelação, asseverou (eDOC 3, p. 168/169):
+    “A Gratificação aqui tratada, nos termos do art. 232 da LCM nº 135/12, é devida aos ‘ocupantes dos cargos de Fiscal Tributário, Fiscal de Obras, Fiscal de Saúde, Fiscal Municipal e Auxiliar de Fiscalização, que atuem na execução de serviços de natureza fiscal interna e externa, e estejam em efetivo exercício, a fim de contribuir com maior eficácia para o incremento destas atividades’.
+    À evidência se constata tratar-se de mero aumento disfarçado de vencimentos, já que devida aos ocupantes dos ditos cargos em razão do simples exercício das funções a eles normalmente inerentes. Ou seja, não estando vinculada a nenhuma situação excepcional, não se trata de vantagem pro labore faciendo.”
+    Sendo esses os fundamentos acolhidos pelo acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie (Leis Complementares Municipais 135/2012 e 179/2015), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 15.9.2017. ADMINISTRATIVO. SERVIDORES PÚBLICOS. GRATIFICAÇÃO DE DESEMPENHO. NATUREZA JURÍDICA. INCORPORAÇÃO AOS VENCIMENTOS/PROVENTOS. INCLUSÃO NA BASE DE CÁLCULO DO ADICIONAL POR TEMPO DE SERVIÇO. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF.. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA.
+    1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão.
+    2. A verificação da existência de ilegalidade e abusividade dos atos administrativos não acarreta ofensa ao princípio da separação dos poderes.
+    3. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC. Nos termos do art. 85, §11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.” (ARE 1062997 AgR, de minha relatoria, Segunda Turma, DJe 3.9.2018)
+    Ante o exposto, nego provimento ao recurso nos termos do artigo 932, IV, a e b, do CPC.
+    Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 11 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
