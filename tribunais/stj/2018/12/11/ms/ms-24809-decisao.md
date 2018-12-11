@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por [NOME] no qual se aponta como autoridade coatora a 4ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (MS n. 46255-68.2018.8.16.0000).
+O compulsar dos autos revela que "o MM. Juiz de Direito da Vara Criminal da Comarca de Sertanópolis/PR  ..  expediu ofício ao Corregedor da Polícia do Estado do Paraná (mov. 1158.1), cientificando-o da sentença da Ação Penal nº 1292-76.2015.8.16.0162, confirmada em grau recursal nos Autos de Apelação Criminal nº 1.526.325-3, em que decretou a perda do seu cargo público" (e-STJ fl. 124).
+Daí o presente mandado de segurança, no qual se alega que as funções que o impetrante ora ocupa não mais dizem respeito com as que ocupava na época da condenação, de sorte que não há mais que se falar em perda do cargo pois "a perda do cargo como efeito da condenação em ação penal somente se aplica ao cargo ocupado na época do crime" (e-STJ fl. 11).
+Afirma a defesa a suspeição da Juíza sentenciante e aduz que, se não houver aposentadoria, haverá enriquecimento ilícito do Estado em relação às contribuições já realizadas.
+Pede, liminarmente, que "reintegre o Impetrante o direito de permanecer na corporação na qual estava lotado, uma vez que não o fazendo, causará graves riscos de viver com problemas financeiros e, também, de prover a sua própria subsistência e de sua família" (e-STJ fl. 18/19).
+No mérito, requer a concessão da "segurança para fins de reintegrar o Impetrante o direito de permanecer em seu cargo público, tendo em vista que era Escrivão e tem reconhecido o seu labor com êxito e qualidade, pois, nunca houve quaisquer advertências ou suspensões durante todos os anos de atuação em favor do Estado e, por conseguinte, sociedade" (e-STJ fls. 19/20).
+É, em síntese, o relatório.
+O mandamus não merece conhecimento.
+Com efeito, o art. 105, inciso I, alínea b, da Constituição Federal estatui que compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança impetrados contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+É cediço que a competência originária do Superior Tribunal de Justiça para julgar mandado de segurança submete-se a regime de direito estrito, fixada em numerus clausus, no mencionado art. 105 da Constituição Federal, no qual estão incluídos, repise-se, apenas os comandantes titulares das respectivas armas, não havendo atribuição de competência para o julgamento de atos de outros tribunais ou dos seus respectivos órgãos.
+Da mesma forma, a Súmula n. 41 desta Corte determina que: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+Nessa vereda, o Superior Tribunal de Justiça é incompetente para julgar o presente mandado de segurança.
+Tal o contexto, indefiro liminarmente o presente mandado de segurança.
+Publique-se. Intimem-se.
