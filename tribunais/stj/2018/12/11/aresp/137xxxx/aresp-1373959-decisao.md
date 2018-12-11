@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por WELCKSON PEREIRA COSTA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Goiás, que negou provimento ao seu apelo, cuja ementa é a seguinte (e-STJ fls. 352/353):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA. REINCIDÊNCIA. COMPENSAÇÃO. ACUSADO MULTIRREINCIDENTE. INSUCESSO. Não há que se falar em integral compensação entre a atenuante da confissão com a agravante da reincidência, se, da análise da folha de antecedentes, constata-se que o acusado tem mais de uma reincidência. Em tais casos, justificada está a preponderância agravante sobre a atenuante. Precedentes.
+REINCIDÊNCIA. PATAMAR DE AUMENTO PENA. ALTERAÇÃO. INCOMPORTÁVEL. Na 2ª fase da dosimetria, não se constata ilegajlidade no aumento da pena, ante a agravante da reincidência, na fração de 1/6 (um sexto). Precedentes.
+APELAÇÃO CONHECIDA E DESPROVIDA.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 380/391).
+Nas razões do recurso especial (e-STJ fls. 401/406), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 65, inciso III, alínea "d", do CP. Sustenta a reformulação da dosimetria da pena intermediária, pela compensação parcial da agravante da reincidência com a atenuante da confissão espontânea.
+Apresentadas contrarrazões (e-STJ fls. 411/416), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 419/420), por esbarrar no óbice da Súmula n. 7/STJ, tendo sido apresentado o agravo ora apreciado.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso especial (e-STJ fls. 448/450).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Primeiramente, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.341.370/MT (Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013), sob o rito do art. 543-C, c/c o § 3º do CPP, consolidou entendimento no sentido de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência. Abaixo, ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido. (REsp 1341370/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/4/2013, DJe 17/4/2013).
+Ocorre que, no presente caso, a Corte de origem asseverou a existência de duas condenações com trânsito em julgado anterior ao fato apreciado nos presentes autos, devidamente valoradas na segunda etapa da dosimetria a título de reincidência (e-STJ fls. 349).
+Assim, considerando que o acusado é multirreincidente, deve prevalecer a agravante da reincidência em relação à atenuante da confissão, sob pena de ofensa aos princípios da individualização da pena e da proporcionalidade.
+Nesse sentido, os seguintes julgados de ambas as Turmas que compõem a Terceira Seção desta Corte:
+ ..  COMPENSAÇÃO DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. ACUSADO MULTIRREINCIDENTE. IMPOSSIBILIDADE. PREPONDERÂNCIA DA AGRAVANTE SOBRE A ATENUANTE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. A 3ª Seção desta Corte Superior de Justiça, ao examinar os EREsp n. 1.154.752/RS, firmou o entendimento de que, por serem igualmente preponderantes, é possível a compensação entre a agravante da reincidência e a atenuante da confissão espontânea, devendo o julgador atentar para as singularidades do caso concreto.
+2. Conquanto no julgamento do HC 365.963/SP o aludido colegiado tenha firmado a compreensão de que a reincidência específica pode ser integralmente compensada com a confissão espontânea, no caso dos autos verifica-se que o primeiro paciente é multirreincidente, o que justifica a preponderância da agravante sobre a atenuante.
+Precedentes.
+3. Habeas corpus não conhecido. (HC 397.073/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FALSA IDENTIDADE. DOSIMETRIA. COMPENSAÇÃO REINCIDÊNCIA COM ATENUANTE DA CONFISSÃO ESPONTÂNEA. MULTIRREINCIDÊNCIA. QUATRO CONDENAÇÕES ANTERIORES. INVIABILIDADE. PREPONDERÂNCIA DA REINCIDÊNCIA. COMPENSAÇÃO PARCIAL. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - A col. Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo n. 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência." IV - Todavia, conforme o entendimento consolidado pela Terceira Seção desta Corte, muito embora se reconheça a compensação da confissão espontânea com a reincidência, em se tratando de réu multirreincidente (quatro condenações por crimes contra o patrimônio), a compensação integral implicaria ofensa aos princípios da individualização da pena e da proporcionalidade, mormente porque a multirreincidência exige maior reprovação, devendo, pois, prevalecer sobre a atenuante.
+Habeas corpus não conhecido. (HC 355.564/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 20/10/2016, DJe 4/11/2016).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA QUE DETERMINA O RETORNO DOS AUTOS À INSTÂNCIA ORDINÁRIA PARA QUE SE PROCEDA À COMPENSAÇÃO DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA.
+INSURREIÇÃO MINISTERIAL. RÉU MULTIRREINCIDENTE QUE OSTENTA TRÊS CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO. PECULIARIDADE QUE IMPEDE A COMPENSAÇÃO INTEGRAL. PRECEDENTES.
+1. A multirreincidência se mostra circunstância mais reprovável do que a dispensada a quem seja reincidente em razão de um único evento delituoso, em respeito aos princípios da individualização das penas e da proporcionalidade. Precedente (HC n. 291.894/SP, Ministra Laurita Vaz, Quinta Turma, DJe 22/8/2014).
+2. Agravo regimental provido para manter na hipótese a preponderância da reincidência sobre a atenuante da confissão espontânea, por tratar-se de réu multirreincidente, conforme determinado na sentença. (AgRg no AREsp 852.744/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 6/9/2016, DJe 15/9/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO QUALIFICADO. DOSIMETRIA. MAUS ANTECEDENTES. CONDENAÇÕES CRIMINAIS COM MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. PACIENTE MULTIRREINCIDENTE. COMPENSAÇÃO INTEGRAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. INVIABILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Esta Corte Superior pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" REsp 1.341.370/MT (Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013).
+5. Na espécie, trata-se de réu multirreincidente, razão pela qual admite-se a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea.
+6. Habeas corpus não conhecido. (HC 353.399/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/8/2016, DJe 30/8/2016).
+HABEAS CORPUS. WRIT SUBSTITUTIVO. REINCIDÊNCIA. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE. RÉU MULTIRREINCIDENTE. BIS IN IDEM. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. É pacífico nesta Corte Superior o entendimento de que, observadas as peculiaridades do caso concreto, deve a atenuante da confissão espontânea ser compensada com a reincidência (EREsp n. 1.154.752/RS).
+2. O paciente é multirreincidente, já que ostenta três condenações definitivas, todas elas por crimes contra o patrimônio - duas por furto e uma por roubo circunstanciado.
+3. A condenação excedente foi considerada somente para a caracterização da multirreincidência do paciente - e não para exasperar a pena-base, como argumenta a defesa -, o que não configura o bis in idem alegado.
+4. Diante das peculiaridades do caso concreto, a agravante genérica da reincidência deve preponderar sobre a confissão espontânea, haja vista a existência de duas condenações criminais transitadas em julgado, geradoras da reincidência.
+5. Habeas corpus não conhecido. (HC 351.827/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2016, DJe 28/4/2016).
+No presente caso, o réu possui duas condenações com trânsito em julgado (e-STJ fl. 349).
+Dessa forma, em consonância com o entendimento acima, tratando-se de réu multirreincidente, deve ser reconhecida a preponderância da agravante prevista no art. 61, inciso I, do Código Penal.
+No presente caso, considerando ser cabível aumento superior a 1/6 pela multirreincidência, bem como a possibilidade de compensação de um dos títulos condenatórios com a atenuante da confissão espontânea, remanesce uma condenação a ser valorada, revelando-se proporcional o aumento de 1/6 na segunda etapa do procedimento dosimétrico.
+Assim, tendo em vista a proporcionalidade dos critérios estabelecidos pelas instâncias de origem, incidindo na segunda fase da dosimetria o aumento de 1/6, em razão da multirreincidência, fica a pena definitiva mantida em 7 anos de reclusão, regime inicial fechado, e 600 dias-multa.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
