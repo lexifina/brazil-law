@@ -1,0 +1,30 @@
+DECISÃO
+ Cuida-se de recurso especial interposto em face de acórdão assim ementado:
+Apelação. Ação com pedidos declaratório e condenatório. Compromisso de compra e venda. Sentença de parcial procedência. Inconformismo das partes. Rescisão por culpa dos compradores. Retenção de 25% do valor pago determinada em sentença. Percentual de retenção reduzido para 10%, dado o alto valor já arcado pelos autores e a ausência de comprovação de maiores prejuízos pela ré. Juros da citação. Sucumbência em favor dos autores. Honorários advocatícios sucumbenciais fixados em 12% sobre o valor da condenação. Recurso da ré não provido, provido o dos autores.
+Alega a recorrente que o julgado estadual violou os arts. 240 e 523 do Código de Processo Civil de 2015 e 394, 396 e 397 do Código Civil, bem como suscita dissídio jurisprudencial.
+Defende que os juros moratórios devem incidir apenas a partir do trânsito em julgado.
+Assim posta a questão, passo a decidir.
+Foram apresentadas contrarrazões (fls. 332-341, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+De início, destaco que o acórdão estadual foi publicado depois da entrada em vigor da Lei 13.105, de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+A Corte de origem entendeu que o termo inicial para incidência dos juros de mora seria a citação, por ser tratar de responsabilidade contratual. Veja-se (e-STJ, fl. 260):
+No que se refere à incidência de juros de mora sobre os valores a serem devolvidos, cuidando-se de responsabilidade contratual, impõe-se a aplicação do artigo 240, caput, do Código de Processo Civil de 2015 (correspondente ao artigo 219 do Código de Processo Civil de 1973), bem como do artigo 405 do Código Civil. Tendo em vista que os juros são devidos em razão da mora e que, nos termos dos dispositivos acima citados, a citação válida é suficiente para constituir em mora o devedor, necessária a conclusão que os juros, no caso, são devidos a contar da citação.
+Referido entendimento está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que "na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão" (REsp 1211323/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1.10.2015, DJe 20.10.2015). Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - PROMESSA DE COMPRA E VENDA - DESISTÊNCIA MOTIVADA POR PARTE DO COMPRADOR - RESTITUIÇÃO DOS VALORES PAGOS - JUROS DE MORA - TERMO INICIAL - DATA DO TRANSITO EM JULGADO DA DECISÃO JUDICIAL - DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE - PRECEDENTES. INSURGÊNCIA DO PROMITENTE COMPRADOR.
+1. "Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão." (REsp 1008610/RJ, Rel. Ministro Aldir Passarinho Júnior, Segunda Seção, DJe 3/9/2008).
+2. Agravo regimental não provido.
+(AgRg no AREsp 18.316/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15.5.2012, DJe 22.5.2012);
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. DEVOLUÇÃO DE IMPORTÂNCIAS PAGAS. RETENÇÃO. PERCENTUAL. REVISÃO DE PROVAS. SÚMULA N. 7/STJ.
+RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. INCIDÊNCIA A PARTIR DO TRÂNSITO EM JULGADO. INEXISTÊNCIA DE MORA DA PARTE RÉ.
+1. Em caso de extinção de contrato de promessa de compra e venda em que o promitente comprador não ocupou bem imóvel, é razoável que a devolução do valor pelo promitente vendedor ocorra com retenção 10% a 20% das prestações pagas a título de indenização pelas despesas decorrentes do próprio negócio.
+2. Incide a Súmula n. 7 do STJ quando a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Na hipótese em que a rescisão contratual deu-se por iniciativa do comprador, por não mais suportar o pagamento das parcelas, e em que se busca a restituição de valores superiores aos fixados na apelação, o termo inicial dos juros moratórios deve ser o trânsito em julgado, pois inexiste mora anterior da ré.
+4. Agravo regimental provido.
+(AgRg no REsp 1013249/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 25.5.2010, DJe 8.6.2010);
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. LIQUIDAÇÃO DE SENTENÇA. JUROS DE MORA. AUSÊNCIA DE FIXAÇÃO NA DECISÃO LIQUIDANDA. SÚMULA 254 DO STF E ART. 293 DO CPC. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. DEVOLUÇÃO DE PARCELAS PAGAS. TERMO INICIAL DOS JUROS MORATÓRIOS. TRÂNSITO EM JULGADO DA DECISÃO CONDENATÓRIA.
+(..)
+3. A Segunda Seção deste Tribunal Superior sufragou o entendimento de que "na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão" (REsp 1.008.610/RJ, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe 03.09.2008), porquanto somente a partir daí é que surgiu a mora da promitente-vendedora.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 759.903/MG, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 15.6.2010, DJe 28.6.2010).
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar que os juros moratórios incidam a partir do trânsito em julgado.
+Intimem-se.
