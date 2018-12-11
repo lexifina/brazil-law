@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. HARMONIA ENTRE O ACÓRDÃO EMBARGADO E A JURISPRUDÊNCIA ATUAL DO STJ. SÚMULA 168/STJ. NÃO CABIMENTO. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. IMPRESCINDIBILIDADE.
+1. Não cabem embargos de divergência quando o acórdão embargado encontra-se no mesmo sentido da jurisprudência consolidada deste Tribunal. Súmula 168/STJ.
+2. Segundo o entendimento consolidado da Corte Especial, a decisão que não admite o recurso especial é incindível, devendo, portanto, ser impugnada em sua integralidade nas razões do agravo em recurso especial, sob pena de não conhecimento do agravo.
+3. Embargos de divergência desprovidos.
+DECISÃO
+Cuida-se de embargos de divergência opostos por PREVIDÊNCIA USIMINAS INCORPORADOR DO FUNDAÇÃO COSIPA DE SEGURIDADE SOCIAL contra acórdão proferido pela 4ª Turma do STJ.
+Ação: de cobrança, ajuizada por JOSE DE FREITAS GUIMARAES em face da agravante, na qual postula o pagamento de parcelas de suplementação de aposentadoria.
+Acórdão: manteve a sentença que julgou procedente o pedido.
+Recurso especial: interposto pela embargante com fundamento nas alíneas "a" e "c" do permissivo constitucional, foi inadmitido pelo Tribunal de origem com base nos seguintes fundamentos: (i) ausência de violação do art. 535 do CPC/73; (ii) harmonia entre o entendimento do acórdão recorrido e a jurisprudência do STJ (Súmula 83/STJ); (iii) ausência de prequestionamento de parte dos dispositivos legais apontados como violados (Súmulas 282 e 356 do STF); (iv) necessidade de reexame de fatos e provas (aplicação da Súmula 7/STJ).
+Decisão unipessoal da Presidência: não conheceu do agravo em recurso especial interposto pela embargante, em razão da ausência de impugnação de todos os fundamentados da decisão agravada.
+Acórdão: por maioria, negou provimento ao agravo interno manejado pela embargante, nos termos da seguinte ementa (e-STJ fl. 1.239):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+2. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial impossibilita o conhecimento do recurso, nos termos do art. 932, III, do CPC/2015.
+3. Agravo interno ao qual se nega provimento".
+Embargos de divergência: apontam divergência entre o entendimento do acórdão embargado e a orientação adotada pela 2ª Turma no REsp 1.685.569/ES, ao argumento de que é possível o conhecimento parcial do recurso, na parte em que suficientemente impugnada, quando a insurgência é dotada de capítulos autônomos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/2015.
+- Da Súmula 168/STJ
+A Corte Especial do STJ, em recente julgamento nos EAREsp"s n. 701.404/SC, 746.775/PR e 831.326/SP, consolidou o entendimento de que é incindível a decisão que não admite o recurso especial, razão pela qual deve ser impugnada pela parte em sua integralidade no agravo em recurso especial, sob pena de não conhecimento.
+Com efeito, ainda que a decisão denegatória de admissibilidade do recurso especial possa elencar a presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, o decisum apresenta dispositivo único, razão pela qual não se pode falar em capítulos autônomos ou independentes. Assim, é impositivo que todos os fundamentos da inadmissão sejam atacados, a viabilizar o conhecimento do agravo em recurso especial.
+A propósito, confiram-se os termos do acórdão do EAREsp 746.775/PR (Corte Especial, Dje de 29/112018):
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+Assim, considerando-se que o acórdão embargado alinha-se à jurisprudência atual e consolidada da Corte Especial, não prospera a pretensão do embargante. Incide na hipótese, pois, a Súmula 168/STJ.
+Forte nessas razões, NEGO PROVIMENTO aos embargos de divergência, com amparo nos arts. 932, IV, "a", do CPC/15 e 266-C do RISTJ, bem como na Súmula 168 deste Tribunal.
+Publique-se. Intimem-se.
