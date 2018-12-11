@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2152897-52.2018.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 17/08/2017, convertida em preventiva, e denunciado pela suposta prática dos delitos previstos no art. 180, caput, e art. 180, § 1º, na forma do art. 69, todos do Código Penal (receptação e receptação qualificada em concurso material de crimes). O Magistrado de 1º grau indeferiu pedido de liberdade provisória requerido quando da defesa preliminar.
+Irresignada, a defesa impetrou writ perante o Tribunal de origem, o qual, por unanimidade, denegou a ordem nos termos do acórdão acostado às fls. 51/54.
+No presente mandamus, alega excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 1 ano, sem que tenha sido encerrada a instrução processual. Desse modo, segundo o impetrante, seria desarrazoada tal longevidade processual.
+Sustenta que há manifesta violação às garantias constitucionais insculpidas nos princípios da presunção de inocência, ferindo, assim, a dignidade da pessoa humana.
+Pondera que a prisão preventiva é medida desproporcionalmente severa, porquanto estar-se-ia impondo ao paciente reprimenda mais gravosa que a esperada em uma eventual condenação.
+Requer, assim, em liminar e no mérito, o relaxamento da prisão do paciente, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido de liminar foi indeferido (fls. 60/61). As informações foram prestadas pelas instâncias ordinárias (fls. 69, 71/80 e 86/94).
+O Ministério público Federal opinou pela prejudicialidade do writ (fls. 82/84).
+É o relatório.
+Decido.
+O presente writ encontra-se prejudicado.
+Conforme consignado, busca-se, no presente habeas corpus, o relaxamento da prisão preventiva, alegando, excesso de prazo no encerramento da instrução processual e desproporcionalidade entre a medida constritiva e eventual pena a ser aplicada.
+Com efeito, saliento que em ofício dirigido a esta Corte Superior de Justiça, o Magistrado de primeiro grau informou a superveniência de sentença condenatória, na qual impôs ao ora paciente à pena total de 5 anos e 4 meses de reclusão, bem como o pagamento de 26 dias-multa (fls. 86/94).
+Desse modo, verifica-se o encerramento da instrução processual, estando, portanto, superada a alegação de excesso de prazo. Nesse sentido, é o enunciado n. 52 da Súmula do Superior Tribunal de Justiça, in verbis:
+Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Outrossim, também está prejudicada a alegada desproporcionalidade entre a medida extrema e eventual regime de pena a ser aplicado na condenação, considerando a imposição do regime inicial fechado na sentença.
+No mesmo sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. AUSÊNCIA DE NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. HABEAS CORPUS NÃO PREJUDICADO. INSURGÊNCIA QUANTO AOS INDÍCIOS DE AUTORIA DELITIVA. ANÁLISE. INVIABILIDADE NA VIA ESTREITA DO WRIT. PRISÃO PREVENTIVA. QUALIDADE DA DROGA APREENDIDA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE AO REGIME DE CUMPRIMENTO. QUESTÃO PREJUDICADA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. "No procedimento do habeas corpus não se permite a produção de provas, destinando-se ao exame de ilegalidades aferíveis de plano, assim não se tornando possível o pretendido enfrentamento de provas da materialidade e autoria delitiva" (HC 444.142/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/08/2018).
+2. A custódia cautelar foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, sobretudo em razão da qualidade da droga apreendida (35g de crack), pelo fato de o Paciente responder por outros dois processos criminais pelo delito de receptação e por ser conhecido no meio policial exatamente pelo seu envolvimento com o tráfico ilícito de drogas na região, a indicar o risco concreto de reiteração delitiva. Ademais, o modus operandi do delito, consistente em utilizar um veículo licenciado como táxi para o transporte do entorpecente, demonstra a tentativa de ludibriar as autoridades legais e a periculosidade do Paciente. Precedentes.
+3. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+4. Em razão da prolação de sentença em desfavor do Paciente, com a sua condenação à pena de 9 (nove) anos e 2 (dois) meses, em regime inicial fechado, a análise da tese de que a segregação cautelar seria desproporcional, em razão de possível cumprimento da reprimenda em regime aberto, ou provável substituição da pena privativa de liberdade por restritivas de direitos, encontra-se prejudicada.
+5. Habeas corpus parcialmente conhecido e, nessa extensão, denegado (HC 462.917/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 23/11/2018)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SENTENÇA SUPERVENIENTE. SEGREGAÇÃO CAUTELAR MANTIDA PELOS MESMOS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. HISTÓRICO CRIMINAL DO AGENTE. FUNDADO RISCO DE REITERAÇÃO DELITIVA. PACIENTE QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO. CONSTRIÇÃO JUSTIFICADA E NECESSÁRIA. DESPROPORCIONALIDADE DA MEDIDA CONSTRITIVA. PREJUDICIALIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA E INADEQUAÇÃO. COAÇÃO ILEGAL NÃO DEMONSTRADA. WRIT NÃO CONHECIDO.
+(..)
+5. Prolatada a sentença condenatória, resta prejudicada a tese defensiva de desproporcionalidade da prisão preventiva. Além disso, a orientação pacificada nesta Corte Superior é no sentido de que não há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu preso durante a persecução criminal, se presentes os motivos para a segregação preventiva.
+6. Condições pessoais favoráveis não têm o condão de revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade.
+7. Incabível a aplicação de cautelares diversas quando a segregação encontra-se justificada para acautelar o meio social, diante da gravidade efetiva do delito.
+8. Habeas corpus não conhecido (HC 438.974/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 24/08/2018).
+Destarte, diante da realidade fático-processual, forçoso reconhecer a perda superveniente do objeto deste mandamus.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
