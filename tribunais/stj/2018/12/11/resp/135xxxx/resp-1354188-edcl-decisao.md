@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por [NOME], em 03/10/2018, contra decisão de minha lavra, publicada em 1º/10/2018, que conheceu parcialmente do Recurso Especial interposto e, nessa parte, negou-lhe provimento.
+Inconformada, sustenta a parte embargante que:
+"Conforme já amplamente debatido nos autos, o cerne da discussão é a legalidade da ocupação do Embargante no quiosque situado na Praça Rui Mendes do Município de Lagarto/SE.
+Pois bem Nobre Ministro Relator, inicialmente o Embargante vem chamar a atenção para o fato de que a ilustre Decisão embargada não apreciou o fato de que a ocupação do referido quiosque se deu anteriormente a entrada em vigor da Lei de Licitações - Lei nº 8.666/93.
+Pois bem, sabe-se que o referido quiosque é o meio pelo qual o Embargante extrai sua sobrevida e a da sua família. Logo, conclui-se que a exploração de um quiosque/bar não se revela uma atividade pública ou de interesse público, mas sim um nítido interesse particular.
+Logo, diante do interesse particular e que a instalação do quiosque se deu antes da Lei de Licitações, estamos diante de uma Autorização de Uso!
+Douto Relator, não obstante a isso, mesmo que se considerarmos que o presente caso é de permissão de uso, conforme concluiu o Ilustre Acórdão embargado, tal modalidade é concedida sem prazo certo, não gerando obrigações para a Administração Pública, podendo ser revogada a qualquer momento ante o seu caráter totalmente precário.
+Ora, a licitação, segundo a dicção do art. 37, inc. XXI c/c com o art. 22, inc. XXVII, ambos da CF, não é direcionada para os atos precários, celebrados através de termo, sem as garantias do contrato administrativo, onde o contratado possui não só deveres, como também direitos.
+(..)
+Desta forma, resta demonstrado que somente a permissão de serviços públicos, a teor do artigo 175, da CF, é que deverá ser precedida da competente licitação, visto que este Comando Maior é taxativo em estabelecer tal cânone legal.
+Mesmo que se admita que no presente processo se trata de permissão de uso, o que se admite por zelo ao debata, para tal permissão tenha natureza contratual e esteja sujeita a licitação, é necessário que a mesma tenha prazo estabelecido, gerando para o particular o direito de receber indenização em caso de revogação, situação jurídica diversa da lide em questão.
+Com efeito, o ato administrativo precário de termo de permissão de uso, além de unilateral e sem prazo de validade, não se configura como um contrato administrativo na acepção da palavra.
+Definitivamente, o Embargante trouxe aos autos elementos que deveriam ter sido levados em consideração pelo Douto Relator, todavia, não foi o que aconteceu.
+Ante ao exposto, numa análise mais detida sobre a ilustre Decisão embargada, vê-se pronto que o Douto Julgador não observou corretamente o deslinde dos fatos narrados, tendo em vista que a autorização de exploração do quiosque/bar possui interesse meramente particular, concedida antes da lei de licitação e, mesmo se consideramos como uma permissão de uso, tal modalidade é concedida sem prazo certo, não gerando obrigações para a Administração Pública, podendo ser revogada a qualquer momento ante o seu caráter totalmente precário e assim não se faz necessário procedimento licitatório.
+A ilustre Decisão embargada sustentou que para apreciar a tese trazida no Recurso Especial seria necessário proceder com o reexame fático-probatório, o que é vedado pela Súmula nº 07 do Superior Tribunal de Justiça.
+(..)
+Douto Julgador, em que pese o reconhecimento por parte do Embargante do brilhantismo que sempre emana das decisões deste Egrégio Tribunal, desta vez, data máxima vênia, não trilhou de forma correta, restando omisso o respeitável Acórdão ora combatido, devendo o mesmo ser aclarado por Vossa Excelência.
+Ora, os argumentos já bem explicitados no Recurso Especial são constatações, pois, que não necessitam do revolvimento da matéria fático-probatória colhida nos autos, razão pela qual também por esse motivo a decisão monocrática ora combatida não se sustenta.
+Como bem se pode perceber, o Superior Tribunal de Justiça há tempos vem afirmando que em recurso especial não é cabível o reexame de matéria fática probatória.
+Porém, o mesmo Órgão Julgador afirma que, apesar de não admitir o reexame de prova, é possível, se descumpridos os preceitos processuais relativos à produção da prova, a revaloração da prova, por meio do recurso especial.
+O que poderia, de certa forma, estar pacificado pela própria definição da egrégia Corte, contudo, quando analisado de forma mais aprofundada, apresenta uma zona nebulosa para os jurisdicionados.
+Com efeito, ao se analisar essas decisões sobre reexame e valoração de provas, verifica-se que, em muitas vezes, sob o pretexto de revalorar prova, o Superior Tribunal de Justiça acaba por reexaminar prova.
+(..)
+Portanto, no caso presente indubitavelmente não estamos diante de um caso de simples reexame de provas, mas sim de análise da sua valoração frente à legislação federal invocada.
+Ou seja, resta também comprovado que, em sede de Recurso Especial, no específico caso dos autos, merecem as matérias ventiladas o reexame por este Juízo, por ser medida da mais lídima justiça.
+Nesse sentido, ao bem se apreciar as razões do apelo especial é fácil perceber que o tribunal a quo manifestamente violou os dispositivos de Lei Federal invocados, sendo que tal análise não necessita de revolvimento dos fatos" (fls. 353/361e).
+Por fim, requer o acolhimento dos Embargos de Declaração.
+Intimada, a parte embargada deixou transcorrer in albis o prazo para apresentar Impugnação (fl. 368e).
+A irresignação não merece acolhida.
+De início, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+In casu, quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está suficientemente fundamentada, no sentido de que: a) "em relação aos arts. 165, 458 e 535, II, do CPC/73, deve-se ressaltar que o acórdão recorrido, julgado sob a égide do anterior Código de Processo Civil, não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia" (fl. 345e); b) "o acórdão recorrido tem fundamento constitucional - necessidade da licitação para a concessão ou permissão de serviço público, em decorrência do conteúdo dos arts. 37, XXI e 175 da Constituição Federal -, não impugnado, mediante Recurso Extraordinário, o que atrai a incidência da Súmula 126 do STJ" (fl. 346e); c) "o Tribunal de origem, ao manter a sentença de parcial procedência, levou em consideração o suporte fático-probatório dos autos, ao concluir pela irregularidade da ocupação. Nesse contexto, a reforma de tal entendimento implicaria, também, o reexame de provas e documentos dos autos, o que é inadmissível, em sede de Recurso Especial, ante a incidência da Súmula 7/STJ" (fl. 346e).
+Desse modo, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
