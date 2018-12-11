@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de Conflito Negativo de Competência entre o JUÍZO FEDERAL DE POÇOS DE CALDAS - SJ/MG, suscitante, e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE ANDRADAS - MG, suscitado.
+Na origem, [NOME] requereu a expedição de alvará judicial perante a Justiça Estadual, para levantamento de quantia existente na conta vinculada do FGTS, em razão de se encontrar recolhido em unidade penitenciária.
+O Juízo de Direito do Estado de Minas Gerais declarou-se incompetente para processar e julgar a causa e declinou da competência para a Justiça Federal, por entender que existiria interesse da Caixa Econômica Federal.
+O Juízo Federal, por sua vez, suscitou o presente Conflito, ao fundamento de que, "tratando-se de pedido objetivando a expedição de alvará judicial, em procedimento de jurisdição voluntária, sem comprovação de resistência da Caixa Econômica Federal, a competência é da Justiça Estadual" (fl. 5e).
+onheço do Conflito, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, a teor do que preceitua o art. 105, I, d, da Constituição da República.
+Conforme o entendimento desta Corte, "se o levantamento encontra resistência por parte do Conselho Curador ou da gestora, a Caixa Econômica Federal, é da Justiça Federal a competência para processar e julgar a ação, a teor da Súmula 82/STJ. Diferentemente, se não há litigiosidade na esfera federal, e o levantamento só encontra óbice em decorrência de questões não afetas ao Conselho Curador e à CEF, é competente para decidir sobre o litígio a Justiça Estadual (Súmula 161/STJ)" (STJ, CC 35.395/PE, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 28/08/2002, DJU de 30/09/2002).
+Na espécie em julgamento, a Justiça Federal assentou que não há nos autos qualquer prova de resistência da CEF quanto ao pedido de expedição de alvará para levantamento do saldo da conta do FGTS.
+Desse modo, diante da ausência de litigiosidade na hipótese em testilha, conheço do Conflito para declarar competente o Juízo de Direito da 1ª Vara Cível de Andradas - MG.
+I.
