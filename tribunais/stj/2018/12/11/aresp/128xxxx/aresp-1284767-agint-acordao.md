@@ -1,0 +1,39 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. INCIDÊNCIA DE ITBI NA TRANSMISSÃO DE IMÓVEL NA OPERAÇÃO DE INCORPORAÇÃO DE IMÓVEL PARA A INTEGRALIZAÇÃO DE CAPITAL SOCIAL. TESE QUE ALMEJA A INTERPRETAÇÃO FÁTICA DA OPERAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Revela-se a incidência da Súmula 7/STJ, quando se perquire lograr em recurso especial a avaliação dos critérios fáticos e materiais do fato gerador de ITBI.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por Lucchesi & Debarba Empreendimentos e Participações, contra decisão monocrática assim ementada:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. ITBI. AVALIAÇÃO DOS PRESSUPOSTOS DE IMUNIDADE TRIBUTÁRIA. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões de agravo interno, o agravante pugna pela inaplicabilidade da Súmula 7/STJ, porquanto nas razões recursais afirma que diante do contexto probatório fixado pelo Tribunal de origem, não se prospera a incidência de ITBI na transmissão de imóvel para a integralização do capital social.
+Requer a reconsideração do decisum ou o provimento do presente agravo.
+Sem a apresentação de contraminuta ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. INCIDÊNCIA DE ITBI NA TRANSMISSÃO DE IMÓVEL NA OPERAÇÃO DE INCORPORAÇÃO DE IMÓVEL PARA A INTEGRALIZAÇÃO DE CAPITAL SOCIAL. TESE QUE ALMEJA A INTERPRETAÇÃO FÁTICA DA OPERAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Revela-se a incidência da Súmula 7/STJ, quando se perquire lograr em recurso especial a avaliação dos critérios fáticos e materiais do fato gerador de ITBI.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Quanto ao mérito, a agravante defende a inexigibilidade do ITBI na transmissão de bem imóvel para a integralização de capital social.
+O Tribunal de origem ao dirimir a questão, arrematou, in verbis:
+Apelante não nega que sua atividade preponderante está relacionada com a administração, locação, compra e venda de imóveis, o que, ao contrário do por ela alegado, exclui a hipótese de imunidade tributária, de modo que não há como isentá-la do pagamento do imposto de transmissão de bens imóveis "inter vivos" (ITBI) de competência do Município.
+É verdade que, nos termos da legislação infraconstitucional, considera-se "caracterizada a atividade preponderante referida neste artigo quando mais de 50% (cinqüenta por cento) da receita operacional da pessoa jurídica adquirente, nos 2 (dois) anos anteriores e nos 2 (dois) anos subseqüentes à aquisição, decorrer de transações mencionadas neste artigo" (art. 37, § 1º, do CTN; art. 261, § 2º, da LCM n. 23/2005).
+Também não se discute que o § 2º do art. 37, do Código Tributário Nacional, preconiza que "se a pessoa jurídica adquirente iniciar suas atividades após a aquisição, ou menos de 2 (dois) anos antes dela, apurar-se-á a preponderância referida no parágrafo anterior levando em conta os 3 (três) primeiros anos seguintes à data da aquisição".
+Essas normas, contudo, têm aplicação somente naqueles casos em que o objeto da sociedade, tal como definido no Contrato Social, não abrange diretamente atividades imobiliárias, gerando dúvida quanto à preponderância destas, no exercício da atividade social. Em tal caso, é necessário que o Município monitore o exercício das atividades da empresa e constante se ela foi preponderantemente imobiliária, o que se verifica na hipótese de ma 50% da receita operacional (decorrente da realização do objeto social) ser oriunda de compra e venda ou locação de imóveis ou cessão de direitos a eles relativos, nos 2 anos anteriores e nos 2 anos subsequentes à aquisição dos imóveis para incorporação ao patrimônio social, no caso de empresas já constituídas, quando da recepção do imóvel em seu capital; ou nos 3 primeiros anos seguintes à data da aquisição do bem, para as empresas cujas atividades foram iniciadas após tal aquisição ou menos de 2 anos antes desta.
+Na hipótese de previsão contratual de atividade preponderantemente imobiliária da empresa, é desnecessário aguardar tal prazo que só tem pertinência, como se disse, quando há dúvida sobre a prevalência de atividade de compra e venda ou locação de imóveis ou cessão de direitos a eles relativos. Nesse caso o pagamento do ITBI pode ser exigido imediatamente após a incorporação dos imóveis ao patrimônio da empresa, para integralização da quota do capital social.
+Como depreendido do contexto fático dos autos, houve a caracterização do elemento material para se deflagrar o fato gerador de ITBI, porquanto "Na hipótese de previsão contratual de atividade preponderantemente imobiliária da empresa, é desnecessário aguardar tal prazo que só tem pertinência, como se disse, quando há dúvida sobre a prevalência de atividade de compra e venda ou locação de imóveis ou cessão de direitos a eles relativos. Nesse caso o pagamento do ITBI pode ser exigido imediatamente após a incorporação dos imóveis ao patrimônio da empresa, para integralização da quota do capital social".
+Neste contexto, alterar a delimitação fática e probatória dos autos, de modo a acolher a pretensão da agravante e declarar inexigível a incidência de ITBI no caso em tela, requer a superação do óbice da Súmula 7/STJ, que no caso em tela é inviável, pois demanda inegavelmente uma incursão no acervo probatório.
+Ilustrativamente:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ITBI. IMUNIDADE PREVISTA NO ART. 156, § 2º, I, DA CF. INCORPORAÇÃO. PRAZO PARA CONSTATAÇÃO DA ATIVIDADE PREPONDERANTE DA SOCIEDADE EMPRESÁRIA INCORPORADA. ARTIGO 37, §§ 2º E 3º DO CTN. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, de que não teria sido atingido o prazo de três anos após a incorporação da sociedade empresária para que se constatasse sua atividade preponderante, razão pela qual estaria assegurado o direito à imunidade do ITBI, prevista no artigo 37, §§ 2º e 3º, do CTN, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 595.367/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/08/2016, DJe 17/08/2016)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
