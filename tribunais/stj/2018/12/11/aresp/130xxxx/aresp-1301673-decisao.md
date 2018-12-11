@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). PRESTAÇÃO DE SERVIÇO. SERVIÇO PRESTADO INDEVIDAMENTE. AUSÊNCIA DE ZELO DO CONSUMIDOR. CULPA RECÍPROCA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ALEGADA INTERPRETAÇÃO RESTRITIVA DO PEDIDO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. SERVIÇO PRESTADO INDEVIDAMENTE. AUSÊNCIA DE ZELO DO CONSUMIDOR. CULPA RECÍPROCA. IMPOSSIBILIDADE DE RESCISÃO CONTRATUAL. SERVIÇO REALIZADO E USUFRUIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO, COM MAJORAÇÃO DE HONORÁRIOS.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por COLEGIO IDEAL LTDA - EPP, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+CIVIL E PROCESSUAL CIVIL. OBRA DE COLOCAÇÃO DE PISO. SERVIÇO PRESTADO INDEVIDAMENTE. AUSÊNCIA DE ZELO DO CONSUMIDOR. CULPA RECÍPROCA. IMPOSSIBILIDADE DE RESCISÃO CONTRATUAL. SERVIÇO REALIZADO E USUFRUIDO. GASTOS PARA REPARO DOS DEFEITOS NÃO COMPROVADOS. AUSÊNCIA DE PEDIDO DE INDENIZAÇÃO PELOS DEFEITOS DA OBRA. INADIMPLEMENTO INCONTROVESO. SENTENÇA MANTIDA.
+1. Não pode ser rescindido o contrato e restituídos todos os valores já pagos por existência de defeitos no serviço já prestado, quando a parte continua a usufruir dos serviços e quando houve culpa recíproca pelo resultado indevido da obra, sob pena de enriquecimento ilícito.
+2. Recurso conhecido e desprovido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 699/706)
+Em seu recurso especial, o recorrente alega ofensa aos arts. 489, § 1º, IV, 984, § 2º, 1022 e 1038, § 3º do CPC e 389, 475, 476 e 945 do CC, sustentando negativa de prestação jurisdicional; interpretação restritiva dos pedidos da autora e ausência de julgamento de todos os pedidos formulados pelas partes; afastamento da teoria do adimplemento substancial, haja vista o inadimplemento contratual da recorrida e impossibilidade de exclusão da responsabilidade do causador do dano em razão de culpa concorrente. Suscita dissídio jurisprudencial.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Preliminarmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação. Ademais, o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+No que concerne à alegada interpretação restritiva dos pedidos da autora e ausência de julgamento de todos os pedidos formulados pelas partes. a jurisprudência deste Superior Tribunal de Justiça orienta-se no sentido de que a compreensão da pretensão deduzida em juízo requer a interpretação lógico-sistemática das razões apresentadas (REsp 1307131/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/04/2013, DJe 15/04/2013; (AgRg no AREsp 281.254/SE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 26/03/2013).
+No caso, a controvérsia posta cinge-se em saber se houve ou não interpretação restritiva de pedido e se todos os pedidos foram julgados a partir do exame dos pedidos deduzidos na exordial.
+Examinar tais alegações demanda unicamente o cotejo entre peças processuais e documentos dos autos, o que não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial pela orientação contida na Súmula nº 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SUSPENSÃO RELATIVA A AUTOR FALECIDO. EXPEDIÇÃO DE OFÍCIO REQUISITÓRIO SUPLEMENTAR. POSSIBILIDADE. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. VEDAÇÃO.
+1. A suspensão da execução relativamente a autor falecido, nos termos do disposto no art. 256, inc. I, e § 1º, do Código de Processo Civil, não impede a expedição de ofícios requisitórios relativos aos sucessores ainda não habilitados, pois a mencionada norma processual é dirigida aos feitos judiciais, enquanto a atividade do Presidente do Tribunal, no tocante à tramitação dos precatórios, reveste-se de natureza administrativa (Súmula 311/STJ).
+2. A análise da alegação de julgamento extra petita implicaria exceder os fundamentos expendidos no aresto recorrido e realizar o exame das provas, o que é vedado pelas Súmulas 211 e 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 733.998/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 11/04/2013, DJe 23/04/2013) - g.n
+Quanto ao afastamento da teoria do adimplemento substancial, haja vista o inadimplemento contratual da recorrida e impossibilidade de exclusão da responsabilidade do causador do dano em razão de culpa concorrente, o Tribunal de origem assim se manifestou:
+Conforme constou da sentença e foi verificado no laudo pericial (fls.
+495/519 e 552/554), houve de fato a má prestação do serviço realizado pelo apelado/réu, que deixou de realizar as juntas de dilatação, mas o apelante/autor também teve sua parcela de culpa no resultado inadequado da obra.
+Veja-se transcrição de parte da conclusão do perito (fls. 518 e 519:
+(..) Quanto à obra,_ apesar de concluída, apresenta uma série de vícios insanáveis referentes à aparência visual, pois, por se tratar de piso de alta resistência, é inevitável que se faça reparos sem que os mesmos fiquem aparentes, com aspecto visual deveras comprometido.
+(..) Contudo as fissuras que apareceram não foram somente pela ausência de juntas de dilatação, pois existe problema de patologia estrutural nas lajes, conforme fotos da retirada dos corpos de prova que mostram trincas na laje.
+(..) Tendo em vista os fatos acima relatados não se pode afirmar com que esta a verdade. O que se pode ver nitidamente nas fotos é que existiam serviços sendo executados em cima do piso ditos como já acabado, sem a devida proteção.
+(..) Os procedimentos adotados durante a obra somados com a falta de comunicação oficial das queixas e descontentamento de ambas as partes, mostra claramente uma conivência dos procedimentos adotados antes, durante e depois da obra, de ambas as partes na condução dos trabalhos.
+O perito também verificou que a obra, apesar de não ter sido feitacom a qualidade final esperada," foi totalmente executada, não sendo constatada qualquer colocação de porcelanato por cima da obra para sua reparação.
+Dessa forma, a rescisão do contrato com a restituição de todas as verbas pagas, conforme requerido pelo apelante/autor, ocasionaria o enriquecimento ilícito deste, pois além de o serviço ter sido entregue, mesmo que de forma incorreta, o apelante/autor vem se utilizando normalmente do piso, além da ocorrência de culpa recíproca no caso. (e-STJ fls. 690/691 ).
+Assim, afastar a conclusão do Tribunal de origem de que a obra foi totalmente executada e a ocorrência de culpa recíproca, exigiria o reexame de provas e das circunstâncias fáticas delineadas nas instâncias ordinárias o que se mostra inviável na via especial, a teor da Súmula nº 7/STJ.
+Destarte, a pretensão recursal não merece prosperar.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Assim, como o caso dos autos é proveniente de sentença condenatória, sendo fixada verba honorária de 15% do valor da condenação, a majoração dos honorários a ser pago pela parte recorrente para 18% é medida adequada ao caso.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nesta extensão, negar-lhe provimento.
+Intimem-se.
