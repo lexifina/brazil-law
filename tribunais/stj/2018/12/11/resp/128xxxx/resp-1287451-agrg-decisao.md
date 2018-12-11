@@ -1,0 +1,10 @@
+DECISÃO
+1. Trata-se de Agravo Regimental interposto pelo ESTADO DO RIO GRANDE DO SUL, em face da decisão que deu parcial provimento ao Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. SERVIDOR PÚBLICO. REAJUSTE DO VALOR DO VALE-REFEIÇÃO. RELAÇÃO JURÍDICA DE TRATO SUCESSIVO. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA DA SÚMULA 85 DO STJ. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS EM CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. APLICAÇÃO DA LEI 11.960/2009. ADIN DO SUPREMO TRIBUNAL FEDERAL. ALTERAÇÃO LEGISLATIVA. LEI 11.960/2009. NORMA DE CARÁTER PROCESSUAL. APLICAÇÃO IMEDIATA. INCONSTITUCIONALIDADE PARCIAL POR ARRASTAMENTO. PRECEDENTES: RESP. 1.270.439/PR, REL. MIN. CASTRO MEIRA, DJE 2.8.2011 E STF-AI 842.63/RS, REPERCUSSÃO GERAL, REL. MIN. CEZAR PELUSO, DJE 2.9.2011. DÍVIDA DE NATUREZA NÃO TRIBUTÁRIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+2. Em suas razões, a parte Agravante requer a adoção do índice de juros moratórios previsto no § 12 do art. 100 da CF, introduzido pela EC 62/2009 e mantido pelo Supremo Tribunal Federal no julgamento da ADIn 4.357/DF, bem como, quanto a correção monetária, a manutenção do índice da TR até a data de 25.03.2015.
+3. Alternativamente, solicita o sobrestamento do recurso especial até julgamento final dos Recursos Especiais 1.492.221, 1.495.144 e 1.495.146, que estão sobre o rito dos recursos repetitivos.
+4. Com a posterior manifestação do Supremo Tribunal Federal, determinou-se o retorno dos autos para os fins do art. 1.040, II do CPC/2015.
+5. É o relatório.
+6. Ocorre que a modulação efeitos do entendimento firmado no RE 870.947/SE ainda está pendente de julgamento pelo Supremo Tribunal Federal, razão pela qual o Min. LUIZ FUX, determinou o sobrestamento do feito que cuida da matéria.
+7. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão de repercussão geral, aprecie a questão dos juros nos termos do que for definido pelo Supremo Tribunal Federal.
+8. Publique-se. Intimações necessárias.
