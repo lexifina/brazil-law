@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARCIA DE JESUS RIBEIRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. NULIDADE DE NEGÓCIO JURÍDICO (CESSÃO DE DIREITOS) CELEBRADO POR MEIO DE PROCURAÇÃO APÓS O FALECIMENTO DO MANDANTE. APLICAÇÃO DO ART. 682, II, DO CC/2002. SENTENÇA DE PRIMEIRO GRAU QUE NÃO DESAFIA REFORMA. APELO A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 112 do Código Civil, 373, II, e 1.022, II, do CPC/2015.
+Alega omissão da Corte local sobre a tese defensiva do recorrente acerca de fatos impeditivos e modificados, tendo em vista que deve ser valorado o art. 112 do Código Civil.
+Insurge contra a anulação do negócio jurídico, arguindo que deve ser preservada e mantida a manifestação de última vontade do falecido. Afirma que a abertura do inventário só foi obstada em razão da consumação do instrumento público de procuração como ato da vontade inequívoca do comitente de transmitir o seu bem imóvel à pessoa da recorrente.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 575.
+É o relatório. Decido.
+2. Não há falar em violação ao art. 1.022 do CPC/2015, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, com fundamentação clara e suficiente. Cabe destacar que não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3.(..)
+4. Embargos de declaração rejeitados.(EDcl no AgInt no CC 144.334/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+3. Em relação às demais alegações de dispositivos legais violados, o inconformismo não prospera.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu pela manutenção da sentença que reconheceu a nulidade do negócio jurídico que transferiu, por cessão, para a recorrente os direitos relacionados ao imóvel, consignando que não se trata de declaração de última vontade e sim de outorga de poderes por meio de procuração que perdeu seus efeitos antes da cessão de direitos lavrada e registrada. Seguem trechos do acórdão da apelação e do acórdão dos embargos de declaração, respectivamente:
+"Inicialmente, destaca-se que a hipótese dos autos se descola do argumento de que se trataria aqui de declaração de última vontade. Isso porque não se está diante de testamento, mas sim de outorga de poderes por meio de procuração firmada pelo falecido e terceira pessoa e, por esta razão, decidiu adequadamente o juízo de primeiro grau ao declarar a nulidade do negócio jurídico consistente na cessão de direitos lavrada em cartório 15 dias após a morte de ALÍSIO (certidão de óbito no índice 33), por intermédio de seu procurador EBENEZER.
+Nesse passo, a questão realmente dispensa maiores exercícios hermenêuticos, haja vista que, como é cediço, o mandato cessa com a morte do mandante e, no caso dos autos, embora a procuração tenha sido outorgada em 15/05/2006, naquele mesmo dia perdeu seus efeitos, com o falecimento de ALÍSIO. Por via de consequência, a cessão de direitos lavrada e registrada em 26/05/2006 (índice 58) não mais poderia produzir efeitos, porquanto nulo o documento de outorga de poderes ao mandatário EBENEZER.
+Isso é o que preceitua o art. Art. 682, II, do CPC, no sentido de que cessa o mandato pela morte ou interdição de uma das partes, o que ocorreu na hipótese aqui ventilada. Nesse sentido:
+ ..
+Pois bem, em face do até aqui aduzido, verifica-se que o Juízo quo, escorreitamente, deslindou a controvérsia, reconhecendo a nulidade do negócio jurídico que transferiu, por cessão, para a ré/apelante os direitos relacionados ao imóvel sobre o qual recai a lide." (fls. 526-527)
+"Como é cediço, o mandato cessa com a morte do mandante e, no caso dos autos, embora a procuração tenha sido outorgada em 15/05/2006, naquele mesmo dia perdeu seus efeitos, com o falecimento de ALÍSIO. Por via de consequência, a cessão de direitos lavrada e registrada em 26/05/2006 (índice 58) não mais poderia produzir efeitos, porquanto nulo o documento de outorga de poderes ao mandatário EBENEZER.
+Isso é o que preceitua o art. Art. 682, II, do CPC, no sentido de que cessa o mandato pela morte ou interdição de uma das partes, o que ocorreu na hipótese aqui ventilada. Nesse sentido:
+ ..
+Na hipótese dos autos, não há que se falar em aplicação do art. 122 do Código Civil." (fls. 552-553)
+Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo, majorando os honorários advocatícios em prol dos patronos da parte agravada em R$ 200,00 (duzentos reais), nos termos do art. 85, §11, do CPC/2015, observada eventual gratuidade de justiça.
+Publique-se. Intimem-se.
