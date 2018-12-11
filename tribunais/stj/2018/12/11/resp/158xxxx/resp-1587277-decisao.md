@@ -1,0 +1,47 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. HONORÁRIOS. PRESTAÇÃO DE SERVIÇO DE ADVOGADO. DENÚNCIA VAZIA AO CONTRATO. RESCISÃO. DIREITO AO ARBITRAMENTO. POSSIBILIDADE. PRECEDENTES. MAJORAÇÃO DO QUANTUM. SÚMULA 07/STJ.
+1. Esta Corte, já em antigo precedente, teve oportunidade de se manifestar acerca do tema em julgamento, analisando justamente contrato de prestação de serviços advocatícios contratados pelo Banco do Brasil S.A., e por ele rescindido mediante denúncia vazia, com análise da malfadada cláusula 7º, que dispunha sobre a remuneração exclusiva pelas verbas sucumbenciais.
+2. Denunciado unilateralmente o contrato de prestação de serviço profissional de advocacia contenciosa, o advogado tem interesse processual em promover ação contra quem o contratou, para receber pelos serviços até ali prestados. (REsp 402.578/MT, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 11/06/2002, DJ 12/08/2002, p. 221).
+3. O critério indicado pelo autor, ora recorrente, no sentido de ser ínfimo o arbitramento abaixo de 1% do valor dado à causa, é adotado por esta Corte Superior apenas nas hipóteses de análise da fixação dos honorários de sucumbência nas sentenças de cunho condenatório.
+4. Difere, portanto, da hipótese dos autos, em que o arbitramento judicial da verba profissional se deu em razão do rompimento antecipado do contrato, levando-se em consideração as atividades até então desenvolvidas. Súmula 07/STJ.
+5. RECURSOS ESPECIAIS DESPROVIDOS.
+DECISÃO
+Vistos etc.
+Trata-se de recursos especiais interpostos pelas duas partes contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, ementado nos seguintes termos:
+APELAÇÕES - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - INÉPCIA DA PETIÇÃO INICIAL E DE CARÊNCIA DA AÇÃO, POR FALTA DE INTERESSE PROCESSUAL REJEITADAS - CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - RESCISÃO UNILATERAL E INJUSTIFICADA - HONORÁRIOS ADVOCATÍCIOS DEVIDOS NA PROPORÇÃO DOS SERVIÇOS PRESTADOS - VALOR DOS HONORÁRIOS ADVOCATÍCIOS, OBJETO DA LIDE, ARBITRADOS EM PARÂMETRO DESPROPORCIONAL - READEQUAÇÃO - POSSIBILIDADE - JUROS DE MORA A PARTIR DA CITAÇÃO E CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO - HONORÁRIOS ADVOCATÍCIOS FIXADO EM PERCENTUAL PRESCRITO PELA REGRA PRÓPRIA À ESPÉCIE - APELAÇÕES PARCIALMENTE PROVIDAS - SENTENÇA REFORMADA EM PARTE.
+A inépcia da petição inicial pressupõe .as hipóteses descritas no art. 295, parágrafo único, do CPC, vale dizer: faltar pedido ou causa de pedir; da narração dos fatos não decorrer logicamente a conclusão; o pedido for juridicamente impossível e contiver pedidos incompatíveis entre si.
+A controvérsia quanto ao não pagamento pela via extrajudicial, dos honorários decorrente de prestação de serviços advocatícios, afasta a carência de ação por falta de interesse processual e possibilita a propositura de ação para discutir o arbitramento do valor devido.
+Rescindido o contrato de prestação de serviços advocatícios, de forma unilateral e imotivada, bem como sem que nele esteja prevista contraprestação para tal situação, o arbitramento da verba honorária em juízo se impõe, inclusive com observância da razoabilidade.
+Os juros de mora incidentes sobre o valor dos honorários advocatícios arbitrados tem início a partir da citação da ação de arbitramento e a correção monetária a partir da data do arbitramento.
+É de se manter os honorários advocatícios fixados em percentual estabelecido pela regra própria à espécie.
+Em razões recursais da parte autora, sustentou que o acórdão recorrido violou o disposto nos artigos 20, §§ 3º e 4º do Código de Processo Civil de 1973, bem como apontou dissídio jurisprudencial. Postulou a majoração do quantum arbitrado na origem, conforme orientação jurisprudencial. Requereu o conhecimento e provimento do recurso.
+Por sua vez, em suas razões recursais, o banco demandado sustentou que o acórdão violou o disposto nos artigos 535, II, do Código de Processo Civil de 1973, 113, 421, 422 e 473 do Código Civil, 22 e 23 da Lei nº. 8.06/94 (Estatuto da OAB), bem como apontou dissídio jurisprudencial. Postulou conhecimento e provimento do recurso.
+Presentes as contrarrazões de parte a parte, os recursos especiais foram admitidos.
+Recursos especiais interpostos sob a égide do CPC/73.
+É o relatório.
+Decido.
+Cinge-se a controvérsia em definir acerca da possibilidade de arbitramento judicial de honorários, na hipótese de rescisão unilateral antes do fim da demanda, de contrato de prestação de serviços advocatícios em que se estabeleceu a remuneração do causídico exclusivamente pelas verbas sucumbenciais.
+Fixada a possibilidade de arbitramento dos honorários, resta analisar a possibilidade de majoração do quantum arbitrado pelo Tribunal de origem.
+Primeiramente, não há violação ao artigo 535 do CPC/73.
+Os fatos são incontroversose, a seu respeito, não dissentem as partes.
+O autor foi contratado pelo banco recorrido para patrocinar os seus interesses em determinadas causas, sendo pactuada a remuneração do advogado exclusivamente pelas verbas sucumbenciais. Antes do final dos processos, contudo, o contrato de mandato foi denunciado unilateralmente pelo banco (denúncia vazia).
+O acórdão recorrido manteve o direito do causídico de ter seus honorários arbitrados, majorando os estabelecidos pela sentença, julgando a causa com fundamentação integral e sem vícios de julgamento.
+Quanto ao mérito, adianto que não merece acolhimento a insurgência do banco veiculada em seu recurso especial.
+Este Sodalício, já em antigo precedente, teve oportunidade de se manifestar acerca deste tema, justamente em contrato de prestação de serviços advocatícios contratados pelo Banco do Brasil S.A., e por ele rescindido mediante denúncia vazia, com análise da malfadada cláusula 7º que dispunha acerca da remuneração exclusiva pelas verbas sucumbenciais.
+Nesse sentido:
+HONORÁRIOS ADVOCATÍCIOS. Contrato. Denúncia. Denunciado unilateralmente o contrato de prestação de serviço profissional de advocacia contenciosa, o advogado tem interesse processual de promover ação contra quem o contratou, para receber pelos serviços até ali prestados. Preliminares de falta de interesse de agir e de ilegitimidade passiva afastadas. Recurso conhecido e provido. (REsp 402.578/MT, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 11/06/2002, DJ 12/08/2002, p. 221)
+No precedente da lavra do eminente Ministro Ruy Rosado, a ratio decidendi adotada foi no sentido de que não se aplica a regra pela qual apenas seria remunerado o serviço ao final e por conta do devedor, uma vez que o mandante revogou o mandato e extinguiu o contrato de prestação de serviço, impedindo a obtenção do resultado.
+Ou seja, na hipótese de contratação de prestação de serviço advocatício remunerado exclusivamente pela sucumbência, a denúncia vazia do tomador do serviço cria ao prestador direito ao arbitramento pelo labor realizado até o momento da rescisão.
+O fundamento é singelo, bastando uma simples análise econômica desta modalidade de contratação, que é amplamente favorável ao banco, pois, se diminuiu seus gastos com tal espécie de remuneração, fica condicionado a não denunciar imotivadamente o contrato.
+O advogado contratado, que aceita tal proposta de remuneração, o faz na certeza do resultado, que vem a ser impedido de alcançar, em face da denúncia vazia do tomador do serviço.
+Por isso, é impositivo o arbitramento pelo serviço até então realizado.
+A jurisprudência desta Corte Superior tem se orientado no sentido de que, embora haja pactuação entre as partes, vinculando os honorários advocatícios à sucumbência, nada impede o arbitramento judicial da verba profissional, caso haja o rompimento antecipado do contrato, levando-se em consideração as atividades até então desenvolvidas (AgRg nos EDcl no Ag 770.849/RS, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 09/06/2009, DJe 22/06/2009), que foi o caso dos autos.
+Destarte, não há violação aos artigos de lei indicados pelo recurso especial do banco, bem como o acórdão recorrido, neste ponto, se encontra em consonância com a orientação jurisprudencial consolidada desta Corte Superior, atraindo, assim, o óbice da Súmula 83/STJ.
+Quanto a insurgência recursal do autor, melhor sorte não o socorre.
+Seu pedido de majoração do quantum arbitrado na origem, leva em conta critério utilizado tão somente para a verba de sucumbência e não para o arbitramento judicial da verba profissional, caso haja o rompimento antecipado do contrato, levando-se em consideração as atividades até então desenvolvidas.
+O critério indicado pelo autor/recorrente, no sentido de ser ínfimo o arbitramento abaixo de 1% do valor dado à causa, é adotado por esta Corte Superior nas hipóteses de análise da fixação dos honorários de sucumbência nas sentenças de cunho condenatório, que difere da hipótese dos autos.
+A hipótese dos autos é arbitramento judicial da verba profissional, caso haja o rompimento antecipado do contrato, levando-se em consideração as atividades até então desenvolvidas, como dito.
+Logo, para a revisão do quantum arbitrado pelo Tribunal de origem, faz-se necessária a revisão das considerações adotadas no acórdão pelas atividades desenvolvidas até a rescisão litigiosa, o que é vedado a esta Corte Superior, nos termos da Súmula 07/STJ.
+Ante todo exposto, CONHEÇO DOS RECURSOS ESPECIAIS DAS DUAS PARTES PARA LHES NEGAR PROVIMENTO.
+Advirto as parte que a interposição de recursos protelatórios será punida com multa.
+Intimem-se.
