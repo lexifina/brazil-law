@@ -1,0 +1,45 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. MANDADO DE SEGURANÇA PREVENTIVO. AUSÊNCIA DE JUSTO RECEIO. INTERESSE DE AGIR NÃO DETECTADO PELO ACÓRDÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Oi Móvel (em recuperação judicial) em face de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, cuja a ementa assim estabelece:
+PROCESSUAL CIVIL - APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - ICMS - CONVÊNIO ICMS-69/1998 - ATIVIDADES-MEIO PREPARATÓRIAS OU ACESSÓRIAS À PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO - PRETENSÃO DE OBSTAR QUALQUER AUTUAÇÃO FUTURA - PEDIDO GENÉRICO - IMPETRAÇÃO CONTRA A LEI EM TESE - ÓBICE DA SÚMULA 266 DO STF - NÃO DEMONSTRAÇÃO DO JUSTO RECEIO PARA CONFIGURAR MANDADO DE SEGURANÇA PREVENTIVO (ART. 1º DA LEI 12.016/2009) RECURSO CONHECIDO E PROVIDO.
+1. Trata-se recurso interposto para impugnar sentença em mandado de segurança impetrado para afastar a incidência de ICMS sobre tarifa básica de assinatura de telefonia.
+2. É tênue a linha divisória entre o mandado de segurança preventivo e o mandado de segurança contra a lei em tese. O eminente professor HUGO DE BRITO MACHADO esclarece o assunto:  ..  Diz-se que a impetração é dirigida contra lei em tese precisamente porque, inocorrente o suporte fático da lei questionada, esta ainda não incidiu, e por isto mesmo não se pode falar em direito, no sentido do direito subjetivo, sabido que este resulta de incidência da lei. ..
+3. " ..  O mandado de segurança preventivo exige efetiva ameaça decorrente de atos concretos ou preparatórios por parte da autoridade indigitada coatora, não bastando o risco de lesão a direito líquido e certo, baseado em conjecturas por parte do impetrante, que, subjetivamente, entende encontrar-se na iminência de sofrer o dano. ..  RMS 19217 -PR, Rel.
+Ministro Luiz Fux, Primeira turma."
+4. Perseguir tutela preventiva quanto a fatos futuros de forma genérica, sem a precisa objetividade do fato concreto, acarreta impetração com caráter normativo, não autorizado no ordenamento, consoante jurisprudência do STJ.
+5. Se a impetração não demonstra a consumação de um fato gerador, e nem combate ato consistente em lançamento fiscal, concluído ou na iminência de se concretizar, dirigindo-se exclusivamente para evitar a incidência da legislação tributária, está configurado o mandado de segurança contra a lei em tese, encontrando óbice na Súmula 266 do STF.
+6. Preliminar acolhida de inviabidade de Julgamento do mandado de segurança.
+RECURSO CONHECIDO E PROVIDO. DENEGAÇÃO DA SEGURANÇA. DECISÃO UNÂNIME
+Nas razões de recurso especial, fundamentado no artigo 105, III, a e c, do permissivo constitucional o recorrente alega a violação aos artigos 1º, da Lei 12.016/2009, 485, VI, do CPC/2015, ao sustentar em síntese: (i) que estão presentes os requisitos para o manejo do mandado de segurança preventivo, diante do direito líquido e certo do contrbuinte; (ii) a presença do interesse de agir na impetração do mandamus preventivo; (iii) que na hipótese de provimento das preliminares processuais invocadas, pugna em pedido sucessivo pela não incidência de ICMS nos serviços preparatórios e conexos de comunicação.
+Contrarrazões ao recurso especial às fls. 453/460 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem admitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente agravo interno atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+O recorrente defende preliminarmente estarem satisfeitos os requisitos para a impetração de mandado de segurança preventivo de modo a se evitar futuras autuações fiscais que possam tributar pelo ICMS os serviços preparatórios de comunicação. Aduz neste vertente, que há a presença do interesse de agir da contribuinte nestas hipóteses.
+O Tribunal de origem ao tratar da adequação do mandamus à hipótese dos autos, bem como do interesse de agir, asseverou, in verbis:
+Com efeito, visando o presente mandamus obstar fato abusivo consistente na iminência de futuras autuações, indispensável que a impetrante delineasse, com , quais operações estariam prestes a sofrer com o alegado abuso do fisco, especialmente se deduz a garantia objetividade constitucional do direito de propriedade (art. 5º, XXII da CR/88), como um dos fundamentos da impetração. Não restou evidenciado o fato concreto abusivo cuja alegada iminência configuraria o justo receio apto a autorizar a utilização do remédio heróico com tutela preventiva.
+De fato, é cabível o mandado de segurança preventivo quando a situação de fato que ensejaria a pratica do ato tido por ilegal existe, ou esteja na eminência de surgir, havendo o justo receio de que tal ato venha a ser praticado, configurando-se neste ínterim o interesse processual do impetrante.
+Contudo, como se depreende, o Tribunal de origem consignou não ter havido a configuração do justo receio de que o ato tido por ilegal venha a ser praticado, o que por si só seria suficiente para ensejar a propositura da segurança preventiva.
+Neste sentido, a análise nesta Corte acerca da existência de justo receio da prática de ato ilegal em desfavor do impetrante no mandamus demanda o necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+A propósito:
+SERVIDOR PÚBLICO. REDUÇÃO DE VENCIMENTOS. MANDADO DE SEGURANÇA PREVENTIVO. DIREITO LÍQUIDO E CERTO. PROVA PRÉ CONSTITUÍDA. JUSTO RECEIO. REEXAME DE MATÉRIA DE FATO. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A alteração das conclusões adotadas pela Corte de origem, acerca da existência ou não de direito líquido e certo para impetração do mandado de segurança preventivo, bem como da suficiência de prova pré-constituída de justo receio ou de efetiva ameaça de lesão, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1474160/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/10/2014, DJe 17/10/2014)
+Por seguinte, a incidência da Súmula 7/STJ ao recurso especial interposto pela alínea a do permissivo constitucional, prejudica a análise do dissídio jurisprudencial quanto ao ponto.
+Confira-se:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACIDENTE DE TRABALHO. AÇÃO REGRESSIVA. ACÓRDÃO DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA RESPONSABILIDADE DA EMPREGADORA. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. De acordo com o entendimento firmado neste STJ, "a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo" (STJ, AgRg no AREsp 16.879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/04/2012).
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1.396.492/CE, Segunda Turma, Relatora Ministra Assusete Magalhães, DJe 14/3/2016)
+PREVIDENCIÁRIO. PENSÃO POR MORTE. ACÓRDÃO DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA NÃO COMPROVAÇÃO DA QUALIDADE DE SEGURADO, AO TEMPO DO ÓBITO. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. O Tribunal de origem, com base no acervo fático probatório, concluiu que o falecido perdeu a qualidade de segurado, portanto as autoras não fazem jus ao benefício pensão por morte. Entendimento insuscetível de revisão, nesta via recursal, em razão do óbice da Súmula 7/ STJ.
+2. Divergência jurisprudencial prejudicada, porquanto esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio.
+Agravo regimental improvido.
+(AgRg no AREsp 758.266/SP, Segunda Turma, Relator Ministro Humberto Martins, DJe 26/10/2005)
+Igualmente resta prejudicado qualquer análise meritória acerca da incidência do ICMS nos serviços conexos de comunicação, porquanto a avaliação do justo receio do mandado de segurança preventivo inviabiliza o ingresso na controvérsia de mérito suscitada pelo contribuinte no respectivo mandamus. Ademais, mesmo que superado este óbice, o tema não se encontra prequestionamento em razão do Tribunal de origem não ter analisado a matéria aqui posta.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art.  253, parágrafo único, II, a, do RISTJ, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
