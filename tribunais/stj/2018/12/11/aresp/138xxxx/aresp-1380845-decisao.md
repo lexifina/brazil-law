@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por VIAÇÃO SANREMO LTDA. contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 1.106/1.109).
+O acórdão recorrido está assim ementado (e-STJ fls. 832/833):
+PROCESSO CIVIL. APELAÇÕES CÍVEIS. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. CULPA DO ÔNIBUS SEGURADO NO SINISTRO. RESPONSABILIDADE SOLIDÁRIA DA SEGURADORA. DANO MORAL CARACTERIZADO. CORREÇÃO DO TERMO INICIAL DOS JUROS DE MORA SOBRE A INDENIZAÇÃO POR DANOS MORAIS. DANO MATERIAL PURO COMPROVADO. SUBSTITUIÇÃO DA PENSÃO MENSAL E VITALÍCIA POR INDENIZAÇÃO PAGA DE UMA SÓ VEZ.
+1) Para a configuração da responsabilidade civil, mister concorram três elementos, quais sejam: (a) a existência de dano; (b) a conduta culposa ou dolosa por parte do agente causador do dano e (c) o nexo de causalidade entre ambas. Apenas quando configurados todos os requisitos ensejadores da responsabilidade civil, exsurge o dever de indenizar.
+2) "In casu", a partir da ponderação das provas que compõem os autos, observo que o acidente ocorreu em razão da falta de cuidados do condutor do ônibus da Viação apelante que - por sua culpa - invadiu a preferencial e atingiu o veiculo dos autores.
+3) Comparecendo a seguradora em juízo, aceitando a denunciação da lide feita pelo réu e contestando o pedido principal, assume a condição de litisconsorte passiva. A responsabilidade da seguradora é solidária e não subsidiária.
+4) No presente caso restou devidamente caracterizado o dano moral, haja vista que o acidente de trânsito gerou grande sofrimento aos autores da ação; a esposa ficou com incapacidade parcial e permanente; o cônjuge, em especial, por conviver diariamente com a situação de sua consorte. Em se tratando de ação reparatória, não só a vitima de um fato danoso que sofreu a sua ação direta pode experimentar prejuízo moral. Também aqueles que, de forma reflexa, sentem os efeitos do dano padecido pela vítima imediata, amargando prejuízos, na condição de prejudicados indiretos.
+5) Na ação de indenização por danos morais decorrente de responsabilidade extracontratual, incidem juros de mora a partir do evento danoso e correção monetária a partir da data do arbitramento da indenização.
+6) Somente devem ser indenizadas a titulo de dano material as despesas com relação as quais há prova de seu pagamento, mediante juntada de notas fiscais elou recibos.
+7) A vitima do evento danoso - que sofre redução parcial e permanente da capacidade laborativa - tem direto ao pensionamento previsto no artigo 950 do Código Civil, independentemente da existência de capacidade para o exercício de outras atividades, em face do maior sacrifício tanto na busca de um emprego quanto na maior dificuldade na realização do serviço. Na situação vertente, o art. 950, p.u., do CC, outorga a apelante Eliana - em razão da redução de sua capacidade laboral - o direito de renunciar a pensão mensal por uma indenização imediata e única, a ser arbitrada pelo julgador.
+8) Na reparação por danos materiais decorrente de responsabilidade extracontratual, incidem juros de mora a partir do evento danoso e correção monetária a partir da data do efetivo prejuízo.
+9) Recurso de apelação das pessoas físicas apelantes conhecido e parcialmente provido; apelo da Seguradora conhecido e parcialmente provido; apelo da Segurada conhecido e improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 889/900).
+Nas razões do recurso especial (e-STJ fls. 948/970), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 186 e 927 do CC/2002, porque a projeção dos danos materiais foi maior do que o dano efetivamente sofrido.
+Sustentou haver decisão além do pedido na parte em que determina o pagamento dos lucros cessantes de forma imediata, em desacordo com os arts. 128 e 460 do CPC/1973, pois não houve esse requerimento na inicial.
+Defendeu a exorbitância dos danos morais, de acordo com o art. 944 do CC/2002.
+No agravo (e-STJ fls. 1.131/1.154), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 1.168/1.181).
+É o relatório.
+Decido.
+A respeito do valor dos danos materiais e sua projeção sobre os danos efetivamente sofridos, os julgadores consideraram (e-STJ fls. 853/854):
+O art. 950, p.u., do CC, outorga a apelante Eliana - em razão da redução de sua capacidade laboral - o direito de renunciar a pensão mensal por uma indenização imediata e única, a ser arbitrada pelo Julgador.
+Para a substituição dá pensão mensal pela indenização de uma só vez, tomarei como parâmetro a perda funcional de 35% e a base de cálculo da pensão, que seria o salário mínimo.
+Levando em consideração que o acidente ocorreu em 30/08/2006 e que a expectativa de vida do brasileiro é de 65 anos de idade, tem-se, hoje, aproximadamente oito anos de atrasados (com a variação do salário mínimo ao longo de todos esses anos) e a partir de 2015, mais dezessete anos a contar, na medida em que abril/2015 a apelante Eliana completará 48 anos de idade. Nessa conta, os atrasados, dariam, por alto, R$19.632,00; e os vincendos, R$56.263,00, totalizando R$75.895,00.
+Ocorre que nesses aproximados dezessete anos de vida futura, levei em conta o salário mínimo deste ano de 2015. Assim, dada a variação que o salário mínimo sofrerá e considerando que a pensão seria
+vitalícia, entendo que o valor de R$100.000,00 (cem mil reais) mostra-se proporcional e razoável como substitutivo da pensão mensal e vitalícia.
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Sobre o recebimento de uma vez só do valor relativo aos lucros cessantes, o tema foi assim tratado na inicial (e-STJ fl. 13):
+(..) cabível à espécie a obrigação da Empresa-Requerida em indenizar a Segunda Requerente pelos lucros cessantes, em face de seu estado de invalidez físico e psicológico para exercer a sua atividade profissional, desde a data do acidente até o seu completo restabelecimento, tendo como valor base a média mensal de rendimentos da Requerente.
+De acordo com a jurisprudência desta Corte, não há falar em julgamento ultra petita quando o juiz, adstrito às circunstâncias fáticas trazidas aos autos e ao pedido deduzido na inicial, aplicar o direito com fundamentos diversos daqueles apresentados pelo autor. Nesse contexto:
+AGRAVO INTERNO. RECURSO ESPECIAL. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. IMPROVIMENTO.
+I. Não configura julgamento extra petita quando o magistrado, utilizando-se de fundamento diverso daquele deduzido pela parte, aplica o direito à espécie ficando adstrito ao pedido deduzido na inicial.
+II. Agravo improvido.
+(AgRg no REsp n. 1.023.222/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 21/10/2008, DJe 18/11/2008.)
+Tendo o Tribunal de origem ficado adstrito aos limites do pedido e da causa de pedir, porém utilizando fundamento diverso da petição inicial, apenas observou o princípio segundo o qual o "juiz conhece o direito", não incorrendo em nulidade ou julgamento ultra petita. A Corte local somente subsumiu a causa de pedir remota apresentada na petição inicial às normas jurídicas incidentes à tese.
+Quanto ao valor do dano moral, conforme entendimento pacífico do STJ, a modificação da quantia arbitrada é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+O valor estabelecido em R$ 50.000,00 (cinquenta mil reais) para cada autor, em razão de perdas funcionais, não enseja a intervenção do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
