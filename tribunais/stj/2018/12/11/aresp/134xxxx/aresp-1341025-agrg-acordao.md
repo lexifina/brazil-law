@@ -1,0 +1,84 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. CONSEQUÊNCIAS DO DELITO. IMPOSSIBILIDADE DE TRABALHAR POR MAIS DE 30 DIAS. DECORRÊNCIA QUE NÃO EXORBITA AS COMUNS À ESPÉCIE. AGRAVO IMPROVIDO.
+1. Mostra-se desarrazoado o trato negativo da vetorial na medida em que o não exercício das suas capacidades habituais por mais de 30 dias constitui decorrência que não exorbita ao delito praticado de homicídio qualificado tentado.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que concedeu habeas corpus, de ofício, e julgou prejudicado o agravo em recurso especial.
+Alega a existência de fundamentação concreta na exasperação da pena-base pelas circunstâncias do crime.
+Requer a reconsideração da decisão atacada ou a apresentação do feito em mesa para que a Turma dê provimento ao agravo regimental para redimensionar a pena com a exasperação da pena-base em 1/8 pela vetorial negativa.
+Contrarrazões opostas, pugnando pelo improvimento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão recorrida foi proferida nos seguintes termos (fls. 472/477):
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial pela incidência da Súmula 83/STJ.
+Sustenta o agravante que, segundo doutrina e jurisprudência, tem-se que o parâmetro ideal de aumento da pena-base para cada circunstância desfavorável é de 1/8 (um oitavo) sobre a diferença existente entre o mínimo e o máximo estipulado no preceito secundário do tipo penal (fl. 448).
+ Pugna pelo provimento do agravo para que o recurso especial seja conhecido e, no mérito, provido.
+Contraminuta apresentada às fls. 444/451.
+O Ministério Público Federal manifestou-se pelo provimento do agravo (fls. 466/469).
+É o relatório.
+Decido.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito recursal.
+O ora recorrido foi condenado, como incurso no art. 121, § 2º, I, c. c. art. 14, II, ambos do CP, à pena de 8 anos e 4 meses de reclusão, em regime inicial fechado.
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, o Ministério Público sustenta contrariedade aos arts. 59 e 68 do CP, aduzindo que o acórdão recorrido, ao redimensionar a pena do acusado, desconsiderou o parâmetro ideal de aumento da pena-base para cada circunstância desfavorável, de 1/8 (um oitavo) sobre a diferença existente entre o mínimo e o máximo estipulado no preceito secundário do tipo penal (fl. 428).
+O Tribunal de origem, na dosimetria da pena, utilizou-se dos seguintes fundamentos:
+Inicialmente, é preciso ter presente que as circunstâncias judiciais são assim chamadas porque o seu reconhecimento depende do arbítrio do juiz, diferentemente das circunstâncias legais, que são obrigatórias. No entanto, se elas existem no caso concreto, o juiz tem de reconhecê-las, em obediência ao princípio constitucional da individualização da pena. Elas têm papel importante na aplicação da pena: servem de critério para fixação da pena-base - primeira fase do método trifásico - e para o estabelecimento do regime inicial de cumprimento da pena, dentre outras finalidades.
+No art. 59 do CP estão elencadas oito circunstâncias judiciais: a culpabilidade, os antecedentes, a conduta social, a personalidade, os motivos, as circunstâncias em que se deu o fato, as conseqüências do crime, e o comportamento da vítima. De seu exame, o juiz deve extrair a pena necessária e suficiente para reprovação e prevenção do crime, principiando por estabelecer a pena-base. É uma tarefa que deve desempenhar de modo discricionário, mas não arbitrário, pois não se trata de discricionariedade livre e sim, juridicamente vinculada, posto que está preso às finalidades da pena e aos fatores determinantes do quantum punitivo. Como se infere da análise do art. 68 do CP, a pena-base é a que seria aplicada ao réu na ausência de qualquer outra causa de modificação, consideradas as quantidades mínima e máxima cominadas ao crime.
+No presente caso, verifica-se que ao fixar a pena do apelante, o d magistrado assim se manifestou:
+"Observado o critério trifásico do artigo 68 do Código Penal, passo à DOSIMETRIA da pena, observando as circunstâncias judiciais do art. 59, do mesmo diploma legal:
+1. Culpabilidade: aqui entendida com juízo de reprovabilidade da conduta do réu, entendo que ela não é proeminente;
+2. Antecedentes: observando a CAC de fl. 173. o réu é reincidente, sendo essa vertente considerada em etapa própria.
+3. Conduta social: não há notícias de má conduta social;
+4. Personalidade do agente: não há elementos que indiquem alterações de personalidade;
+5. Motivos: o motivo da conduta do réu não pode ser considerado reprovável para fins de majoração da pena nessa fase;
+6. Circunstâncias: não há como considerar as circunstâncias de tempo, fato, local como negativas a ponto de aumentar a pena base pela conduta do réu.
+7. Conseqüências: a vítima sofreu conseqüências, pois ficou por mais de trinta dias em recuperação, sem exercer suas capacidades habituais. Considero como circunstância judicial negativa;
+8. Comportamento da vítima: entendo que não houve prova segura de que ela contribuiu para a conduta do acusado.
+Em face das circunstâncias judiciais acima analisadas, nenhuma desfavorável ao réu, fixo a PENA-BASE em 14 (quatorze) anos de reclusão, pena esta que entendo suficiente e necessária para a reprovação e prevenção da conduta delituosa " (fls. 259v/260).
+Como visto, à exceção das conseqüências do delito, os demais elementos elencados no art. 59 Código Penal foram analisadas favoravelmente ao acusado. Quanto ao referido antecedentes, maculados pela existência de anterior condenação do apelante, deve ser destacado que o douto sentenciante reconheceu como agravante da reincidência e que, portanto, não poderia ser sopesada na pena-base, sob pena de ocorrência do vedado bis in idem.
+Desse modo, considerando a existência de apenas uma circunstância desfavorável ao apelante, fixo a pena-base em 12 (doze) anos e 06 (seis) meses de reclusão. Compensadas a agravante da reincidência e a atenuante da confissão espontânea, torno a reprimenda provisória em tal quantum.
+Na terceira etapa da fixação da pena, a defesa não se conforma com o quantum redutor da tentativa. Argumenta que o magistrado reduziu a pena em patamar diverso daquele previsto no art. 14, II do Código Penal, utilizando a fração de 1/6, o que implica em violação ao principio da legalidade.
+Razão também lhe assiste.
+De fato, no caso em exame, o ilustre Sentenciante, ao eleger o percentual de redução da tentativa em 1/6, contrariou o disposto no artigo 14, II, do CP, cuja previsão de redução é de um a dois terços.
+Sendo assim, sabendo que a eleição do quantum da fração redutora é ato discricionário do Magistrado e que deve se levar em conta as circunstâncias da própria tentativa, ou seja, a extensão do iter criminis percorrido pelo agente, nessa terceira etapa da fixação da pena, reduzo a reprimenda imposta ao apelante em 1/3 (um terço).
+Isto porque, no caso em exame, o crime muito se aproximou da consumação, tendo em vista que o apelante esgotou todos os meios necessários que dispunha ao efetuar quatro disparos contra ofendido, atingindo-o em região sabidamente letal (hemitorax a esquerda), consoante relatório médico constante ás fls. 38. Ou seja, o crime somente não se consumou graças ao atendimento médico eficaz.
+Destarte, passo à correção da pena. Partindo da básica ora fixada em 12 (doze) anos e 06 (seis) meses de reclusão, reduzo-a em 1/3, face ao reconhecimento da tentativa pelos jurados (art. 14. II, do CP), pelo que a torno definitiva em 08 (oito) anos e 04 (quatro) meses de reclusão.
+Consoante consta da sentença e do acórdão impugnado, verifica-se que a pena-base foi fixada acima do mínimo legal, tendo em vista as consequências do delito, tidas por desfavoráveis.
+Insurge-se o recorrente em face do quantum de aumento, equivalente a 6 meses, reputando-o desproporcional, em se considerando as penas mínima e máxima abstratamente cominadas.
+Ocorre que, compulsando os autos, tem-se por totalmente desarrazoado o trato negativo da vetorial, na medida em que graves ferimentos ou mesmo debilidades permanentes, como no caso, em que a vítima ficou por mais de trinta dias em recuperação, sem exercer suas capacidades habituais, constituem decorrências que não exorbitam ao delito praticado, consistente em homicídio qualificado tentado. A propósito:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. CONSEQUÊNCIAS DO DELITO. DEBILIDADE PERMANENTE (PARAPLEGIA). DECORRÊNCIA QUE NÃO EXORBITA AS COMUNS À ESPÉCIE (HOMICÍDIO). ATENUANTE DA MENORIDADE. APLICAÇÃO OBRIGATÓRIA. PRESENÇA DE ILEGALIDADE FLAGRANTE. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Desarrazoado o trato negativo das consequências do delito com base constituem decorrências que não exorbitam ao delito praticado - homicídio qualificado tentado -, quais sejam: lesões corporais graves ou mesmo debilidades permanentes, como é o caso da paraplegia. Precedente.
+3. Nos termos da jurisprudência desta Corte, a menoridade do réu constitui circunstância atenuante de aplicação obrigatória. Precedentes.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas do paciente a 8 anos de reclusão. (HC 208.710/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/08/2015, DJe 15/09/2015).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. CULPABILIDADE. CIRCUNSTÂNCIAS COMUNS À ESPÉCIE. FUNDAMENTO INVÁLIDO. MAUS ANTECEDENTES. CONSIDERAÇÃO DEVIDA. EXISTÊNCIA DE CONDENAÇÃO DEFINITIVA NÃO GERADORA DE REINCIDÊNCIA. CONCEITO MAIS AMPLO. CONDUTA SOCIAL. VALORAÇÃO NEGATIVA EM FACE DE AÇÕES PENAIS EM ANDAMENTO. IMPOSSIBILIDADE. SÚMULA 444/STJ. CONSEQUÊNCIAS DO DELITO. LESÕES CORPORAIS, NECESSIDADE DE INTERVENÇÕES CIRÚRGICAS E DEBILIDADE PERMANENTE. DECORRÊNCIAS USUAIS E ÍNSITAS AO DELITO DE HOMICÍDIO DOLOSO TENTADO. REDUÇÃO ÍNFIMA PELAS ATENUANTES DA MENORIDADE E DA CONFISSÃO. OFENSA AO PRINCÍPIO DA PROPORCIONALIDADE CONSTATADA. PRESENÇA DE ILEGALIDADE FLAGRANTE. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. O aumento da pena-base pela culpabilidade requer fundamento concreto, não se prestando a tal a citação de fatos que não desbordam dos comuns à espécie, como o fato de o réu ter efetuado disparos de arma de fogo contra a vitima, aumentando significativamente o risco de ceifar a vida da mesma, demonstrando também intensa vontade de matar.
+3. Mostra-se legítima a valoração negativa dos antecedentes do réu com base na existência de condenação definitiva em seu desfavor, não obstante sua primariedade.
+4. O conceito de maus antecedentes, por ser mais amplo, abrange não apenas as condenações definitivas por fatos anteriores cujo trânsito em julgado ocorreu antes da prática do delito em apuração, mas também aquelas transitadas em julgado no curso da respectiva ação penal, além das condenações transitadas em julgado há mais de cinco anos, as quais também não induzem reincidência, mas servem como maus antecedentes.
+5. Anotações constantes na folha de antecedentes criminais, sem notícia de trânsito em julgado, não se prestam a fundamentar a valoração negativa de nenhuma das circunstâncias judiciais. Inteligência da Súmula 444/STJ.
+6. Desarrazoado o trato negativo das consequências do delito com base constituem decorrências usuais e ínsitas ao delito praticado - homicídio doloso tentado -, quais sejam: graves ferimentos, submissão da vítima a intervenções cirúrgicas posteriores e debilidade permanente. Precedente.
+7. Nos termos da jurisprudência desta Corte, mostra-se claramente desproporcional a redução, na segunda fase da dosimetria, pelas atenuantes da menoridade e da confissão espontânea em cerca de 1/16, para cada uma, devendo, pois, ser aumentada a fração redutora para 1/6, quantum considerado como razoável pela jurisprudência desta Corte. Precedentes.
+8. Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas do paciente a 5 anos e 8 meses de reclusão. (HC 171.212/DF, Rel. Ministro NEFI CORDEIRO, julgado em 04/08/2015, DJe 18/08/2015).
+Nesse contexto, tendo em vista a ilegalidade flagrante ora reconhecida, a ensejar a concessão de habeas corpus de ofício, nos termos do art. 654, §2º, do CPP, prejudicada a análise da tese de falta de proporcionalidade no que diz respeito à exasperação da pena-base.
+Passo, assim, ao redimensionamento da pena do paciente.
+Consoante já salientado, tendo em conta que nenhuma circunstância judicial desfavorável foi assim considerada mediante fundamento idôneo, reduzo a pena-base ao mínimo legal - 12 anos de reclusão. Na segunda fase da dosimetria, presentes a agravante da reincidência e a atenuante da confissão, as quais se compensam, permanece a pena no mesmo patamar. Por fim, pela tentativa, reduz-se a pena em 1/3, conforme estabelecido pelas instâncias ordinárias, totalizando 8 anos de reclusão, a qual se torna definitiva à míngua de outras causas modificativas.
+Quanto ao regime prisional, não obstante a redução ora implementada, permanece o regime estabelecido na condenação, tendo em vista que tratar-se de réu reincidente.
+Ante o exposto, concedo o habeas corpus de ofício para reduzir a pena a 8 anos de reclusão e julgo prejudicado o agravo em recurso especial.
+Publique-se.
+Intimem-se.
+No tocante às consequências do crime, a fundamentação utilizada para a valoração negativa da respectiva vetorial lastreou-se em elementos comuns ao delito previsto no art. 121, § 2º, I c/c art. 14, II, ambos do Código Penal.
+Nesse contexto, mostra-se desarrazoado o trato negativo da vetorial na medida em que o não exercício das suas capacidades habituais por mais de 30 dias constitui decorrência que não exorbita ao delito praticado de homicídio qualificado tentado. Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+ ..
+HOMICÍDIO QUALIFICADO. PENA-BASE. CONDUTA SOCIAL. FUNDAMENTAÇÃO INIDÔNEA. CIRCUNSTÂNCIAS DO CRIME. BIS IN IDEM. MORTE DA VÍTIMA. CONSEQUÊNCIA INERENTE AO PRÓPRIO TIPO PENAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+2. A apreciação negativa da conduta social depende da apresentação de elementos concretos que demonstrem a inadequação do acusado no ambiente familiar, de trabalho, dentre outros. Uma vez ausentes estes elementos, não há como se sustentar a elevação da pena em razão da apreciação negativa dessa circunstância judicial.
+3. O fundamento apresentado pelas instâncias ordinárias para justificar o aumento da pena em razão da avaliação negativa das circunstâncias do crime já havia sido empregado como um dos motivos para avaliar de modo desfavorável a culpabilidade do agente. Desse modo, diante da ocorrência de bis in idem, exclui-se do cálculo a majoração decorrente da apreciação negativa desse vetor.
+4. Elementos do tipo penal, como a morte da vítima e seus desdobramentos mais comuns, no caso do homicídio, não servem como motivação idônea para legitimar a valoração negativa das consequências do crime e o decorrente aumento da pena-base.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para fixar a pena pelo crime de homicídio qualificado em 13 (treze) anos e 6 (seis) meses de reclusão, mantidos os demais termos do acórdão impugnado.
+(HC 422.016/AC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/03/2018, DJe 20/03/2018.)
+Ante o exposto, voto por negar provimento ao agravo regimental.
