@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO DO ESTADO DE SERGIPE S.A., em face de decisão que não admitiu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO COM PEDIDO DE TUTELA ANTECIPADA "INAUDITA ALTERA PARS" C/C DANO MORAL CONTRATO DE EMPRÉSTIMO CONDICIONADO À ADESÃO DE CONTRATO DE SEGURO DE VIDA CREDI-RÁPIDO - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - VENDA CASADA CONFIGURADA - VEDAÇÃO DO ART. 39, I, DO C D C NULIDADE DO CONTRATO DE SEGURO MANTIDA - DEVER DE RESTITUIR NA FORMA SIMPLES PRECEDENTES - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+- No caso em tela, a contratação de seguro de vida, junto à Seguradora do próprio banco requerido, foi imposta ao consumidor, como condição para lhe conceder empréstimo.
+- Tal circunstância configura prática de venda casada, a qual não é permitida pela legislação do consumidor, nos termos do art. 39, I, do CDC. (fl. 291-292)
+Nas razões recursais, a Instituição bancária insurge-se contra a impossibilidade da cobrança da comissão de permanência cumulada com os demais encargos de mora. Defende, ainda, a impossibilidade de compensação/restituição de valores, a legalidade da contratação do seguro de vida.
+DECIDO.
+2. No tocante à comissão de permanência, observa-se que a questão não foi objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+2.1. Na espécie, o acórdão estadual analisou tão somente a validade da cláusula contratual que previu a contratação do seguro de vida.
+É o que se depreende da seguinte fundamentação:
+À primeira vista, a contratação do seguro só se configura como abusiva caso seja condicionada ao fornecimento de outro produto/serviço, pois não há proibição legal para que o fornecedor ofereça promoções e vantagens aos clientes que queiram adquirir mais de um produto, mas proíbe expressamente condicionar a venda de um produto a outro, nos termos do Art. 39, I, do CDC:
+"Art. 39. É vedado ao fornecedor de produtos ou serviços, dentre outras práticas abusivas:
+I - condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos" Com estas considerações, percebo que a venda do seguro de vida em conjunto com o contrato de empréstimo, na hipótese, tendo como segurador o próprio Banco, é flagrantemente abusiva.
+Dessa forma, o seguro contratado nada mais é que uma espécie de garantia para o próprio Banco requerido, ou mesmo de imposição para que se conceda o empréstimo, com a finalidade de aumentar as vendas de seguro do Banco, tornando abusiva a sua contratação por colocar em total desvantagem o consumidor e a vantagem exagerada do fornecedor.
+ ..
+A instituição financeira apenas deu ciência das condições contratuais, condicionando a concessão do mútuo ao pagamento de seguro de vida estipulado exclusivamente em seu favor, não restando qualquer liberdade à ora Recorrida em optar ou não pela prestação do serviço securitário, configurando, portanto, a venda casada, o que justifica a restituição dos valores e suspensão dos descontos correspondentes.
+E, ao assim fazer, o banco obrigou a promovente a firmar contrato autônomo, disfarçado de cláusula contratual que em nada lhe favorece, constituindo, em sua essência, verdadeira prática de venda casada.
+Importante esclarecer que a garantia ao pagamento do empréstimo é válida e justa, porém o Banco não pode determinar que essa garantia seja apenas a contratação de um seguro de vida estipulado em seu favor, não oferecendo outras opções ao contratante.
+Afirma o apelante que deu opção ao recorrido entre o seguro e aval, porém não fez prova da aludida alegação, ônus que lhe incumbia.
+Assim, a nulidade do contrato de seguro de vida, bem como a restituição dos valores indevidamente pagos pela autora é medida que se impõe, visto que a referida contratação, no caso em exame, configurou venda casada, conduta expressamente vedada por lei. (fl. 294)
+
+No ponto, a análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas como pretende o recorrente, demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. TAXA REFERENCIAL (TR). LEGALIDADE. AMORTIZAÇÃO DO SALDO DEVEDOR. SÚMULA N. 450/STJ. DISPOSIÇÕES CONTRATUAIS. TAXA DE JUROS EM VIRTUDE DE DESLIGAMENTO DO ASSOCIADO E ADOÇÃO DO COEFICIENTE DE EQUALIZAÇÃO DE TAXAS - CET. SÚMULAS NS. 5 E 7 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CONFIGURADA.
+(..)
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. No caso concreto, a pretensão relativa aos prejuízos advindos da previsão contratual de elevação da taxa de juros de 6% (seis por cento) para 8% (oito por cento), em virtude do desligamento do associado da PREVI, e da adoção do Coeficiente de Equalização de Taxas - CET, demandaria a incursão em aspectos em aspectos fático-probatórios, inviável em sede de recurso especial.
+5. A violação do art. 535 do CPC não se configura na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a questão controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+6. Agravo regimental desprovido. (AgRg no AREsp 186948/DF, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2012, DJe 27/08/2012)
+____________
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
