@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE DISTRIBUIÇÃO DE BEBIDAS. OFENSA AO ART. 535 DO CPC/73. VÍCIO NÃO ESPECIFICADO. SÚMULA Nº 284/STF. CONTRATO DE ADESÃO, FATOS INCONTROVERSOS E DISSÍDIO PRETORIANO. SEM INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. ALEGADA AFRONTA A DISPOSITIVOS DE LEI. RAZÕES NÃO DECLINADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. LAUDO PERICIAL. RAZÕES DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Diferentemente da apelação, que possui ampla cognição, o Especial é recurso de fundamentação vinculada, devendo suas razões serem estritamente declinadas, apontando qual o dispositivo violado ou acerca do qual houve dissídio pretoriano, e em relação a qual tese jurídica, sob pena de não conhecimento.
+2. Para verificar a possível afronta ao art. 535 do CPC/73, é necessário que a parte recorrente indique especificamente qual o ponto acerca do qual deixou o tribunal a quo de se manifestar, sob pena de configurar deficiência na fundamentação recursal. Súmula nº 284/STF.
+3. Não cabe recurso especial quando o recorrente, apesar de tratar da questão jurídica, não declina qual o dispositivo legal afrontado, inclusive quanto ao suposto dissídio pretoriano. Deficiência na fundamentação que enseja a aplicação da Súmula nº 284/STF.
+4. Não cabe recurso especial quando o recorrente, apesar de indicar o dispositivo violado, não declina as razões para tanto, ensejando deficiência na fundamentação - Súmula nº 284/STF.
+5. São deficientes as razões recursais quando dissociadas dos fundamentos do acórdão recorrido. Súmula nº 284/STF.
+6. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO:
+1. Cuida-se de agravo interno interposto por INDÚSTRIA E COMÉRCIO SANTA ROSA LTDA contra a decisão de fls. 2.415-2.425, pela qual este relator deu parcial provimento ao recurso especial para afastar a multa do art. 538, parágrafo único, do CPC/73, nos termos da Súmula nº 98/STJ, negando provimento, quanto ao mais ante diversas formas de incidência da Súmula nº 284/STF, quais sejam: alegada omissão sem indicar em que consistiria esse vício; deduzir tese jurídica sem indicar o dispositivo violado; indicar artigo de lei como afrontado sem expor as razões para tanto; e estarem suas razões dissociadas dos fundamentos do acórdão recorrido - Súmula nº 284/STF.
+Nas razões do presente agravo interno, a parte ora agravante, embora resumidamente, sustenta a inaplicabilidade da Súmula nº 284/STF.
+Pede a reforma da decisão.
+Apresentada impugnação - fls. 2.429-2.441.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE DISTRIBUIÇÃO DE BEBIDAS. OFENSA AO ART. 535 DO CPC/73. VÍCIO NÃO ESPECIFICADO. SÚMULA Nº 284/STF. CONTRATO DE ADESÃO, FATOS INCONTROVERSOS E DISSÍDIO PRETORIANO. SEM INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. ALEGADA AFRONTA A DISPOSITIVOS DE LEI. RAZÕES NÃO DECLINADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. LAUDO PERICIAL. RAZÕES DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Diferentemente da apelação, que possui ampla cognição, o Especial é recurso de fundamentação vinculada, devendo suas razões serem estritamente declinadas, apontando qual o dispositivo violado ou acerca do qual houve dissídio pretoriano, e em relação a qual tese jurídica, sob pena de não conhecimento.
+2. Para verificar a possível afronta ao art. 535 do CPC/73, é necessário que a parte recorrente indique especificamente qual o ponto acerca do qual deixou o tribunal a quo de se manifestar, sob pena de configurar deficiência na fundamentação recursal. Súmula nº 284/STF.
+3. Não cabe recurso especial quando o recorrente, apesar de tratar da questão jurídica, não declina qual o dispositivo legal afrontado, inclusive quanto ao suposto dissídio pretoriano. Deficiência na fundamentação que enseja a aplicação da Súmula nº 284/STF.
+4. Não cabe recurso especial quando o recorrente, apesar de indicar o dispositivo violado, não declina as razões para tanto, ensejando deficiência na fundamentação - Súmula nº 284/STF.
+5. São deficientes as razões recursais quando dissociadas dos fundamentos do acórdão recorrido. Súmula nº 284/STF.
+6. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Para que o recurso especial seja conhecido, isto é, para que as teses jurídicas sejam apreciadas em seu mérito, é imprescindível serem as razões claramente expostas, tendo em vista, principalmente, ser o Especial recurso de fundamentação vinculada, cujo objetivo, nos termos do art. 105, III, da Constituição Federal, é a análise de eventual desrespeito a dispositivo de lei federal, seja por afronta ou negativa de vigência (alínea a), confronto de ato de governo local em face de lei federal (alínea b) ou por divergência interpretativa entre tribunais (alínea c).
+Em outras palavras, não é o Recurso Especial espécie recursal ampla, tal como ocorre com a apelação, na qual todas as questões podem ser reavaliadas pelo Juízo ad quem. No Especial, é necessária a indicação exata do dispositivo tido por violado, em que consistiria a afronta, à luz exclusiva do que foi apreciado pela Corte de origem.
+Por essa razão é que incide, por analogia, o Enunciado nº 284 do Supremo Tribunal Federal, que assim dispõe:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Pela sua já mencionada natureza específica e vinculada, o Especial exige que a questão jurídica seja precisamente identificada, sob pena de incidência desse enunciado, comumente conhecido como hipótese de inépcia da petição recursal.
+3. São várias as hipóteses de incidência desse enunciado sumular, sendo 4 delas aplicadas no presente caso, eis que inequivocamente o recurso especial possui vícios insanáveis dentro da estrita técnica recursal perante o Superior Tribunal de Justiça.
+4. Inicialmente, consigne-se que a admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, assim como em que medida teria o acórdão recorrido afrontado a cada um dos artigos impugnados o que, na espécie, no tocante à alegação de negativa de prestação jurisdicional, não ocorreu, porquanto a recorrente alega genericamente que houve ofensa ao art. 535 do Código de Processo Civil/73, sem, contudo, indicar precisamente em que consiste a eventual omissão, contradição, obscuridade ou erro material. Incide, na espécie, por analogia, o óbice da Súmula n. 284/STF.
+5. Quanto às alegações de tratar-se de contrato de adesão e serem incontroversos os fatos constantes nos autos, apesar da explicitação dos fatos e fundamentos, não foi apontado qualquer dispositivo de lei federal como afrontado, o que enseja a deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula nº 284/STF.
+6. Referente à afronta aos princípios da boa-fé, da lealdade e da função social do contrato - arts. 475, 715 e 720 do Código Civil, o recorrente traz argumentação genérica, sem especificar relativamente a quais fatos ou entendimentos teria havido a aludida malversação dos princípios contratuais no caso concreto, não demonstrando, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação.
+Diante disso, o conhecimento do recurso especial também encontra óbice no Enunciado nº 284/STF.
+7. Concernente ao dissídio pretoriano relativamente ao valor da pensão mensal, a parte recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial, o que implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, aplicável também quanto à hipótese da alínea c do permissivo constitucional. Aplicação da Súmula nº 284/STF.
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E BANCÁRIO. OFENSA A RESOLUÇÕES. INVIABILIDADE. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO À LEI FEDERAL OU DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 284-STF. REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS N. 5 E N. 7-STJ. CONTRATO DE LEASING. PAGAMENTO ANTECIPADO DO VRG. SÚMULA N. 293-STJ.
+1. A via especial não comporta a análise de resoluções, portarias, circulares e demais atos normativos de hierarquia inferior à do Decreto, que não se inserem no conceito de lei federal.
+2. A ausência de indicação da ofensa à legislação federal ou de dissídio jurisprudencial atrai a incidência do enunciado n. 284 da Súmula do STF.
+3. A conclusão da Corte de origem obtida através da interpretação da matéria fática e contratual encartada nos autos não pode ser reexaminada neste Tribunal, por força do veto dos enunciados n. 5 e n. 7 da Súmula do STJ.
+4. A teor do enunciado n. 293 da Súmula do STJ, o pagamento antecipado do VRG não descaracteriza o arrendamento mercantil para compra e venda a prestações.
+5. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1235133/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/04/2015, DJe 05/05/2015)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. A ERRÔNEA INDICAÇÃO DA AUTORIDADE COATORA NÃO IMPLICA ILEGITIMIDADE AD CAUSAM PASSIVA, SE AQUELA PERTENCE À MESMA PESSOA JURÍDICA DE DIREITO PÚBLICO. SÚMULA 83/STJ. ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS PARADIGMAS PROLATADOS EM RMS E MS. IMPROPRIEDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A errônea indicação da autoridade coatora não implica ilegitimidade ad causam passiva se aquela pertence à mesma pessoa jurídica de direito público; porquanto, nesse caso não se altera a polarização processual, o que preserva a condição da ação (REsp.
+806.467/PR, Rel. Min. LUIZ FUX, DJ 20.09.2007).
+2. A interposição do Recurso Especial com fundamento no dissídio jurisprudencial não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. O não-cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no citado Enunciado 284 da Súmula do Supremo Tribunal Federal.
+3. Não se prestam como paradigmas acórdãos proferidos em Mandado de Segurança e Recurso Ordinário em Mandado de Segurança, porquanto, nessas searas, é possível apreciar as normas de direito local e constitucional, bem como adentrar no contexto fático-probatório dos autos, enquanto em Recurso Especial essa incursão acha-se vedada pela Súmula 7/STJ.
+4. Agravo Regimental desprovido.
+(AgRg no AREsp 188.414/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 31/03/2015)
+8. Quanto à manifestação do juiz sobre a conclusão pericial - arts. 131 e 145 do CPC/73, o acórdão recorrido decidiu em conformidade com a conclusão pericial, em desfavor à parte ora recorrente, como se vê do seguinte trecho:
+O ilustre MM. Juiz de primeiro grau, ao analisar as notas acostadas às fls. 285-315, bem como o laudo pericial realizado, convenceu-se de que houve a cobrança ilegal de juros em patamar superior a 6% (seis por cento) ao ano, motivo pelo qual acatou o cálculo realizado à fl. 772, e determinou a devolução da quantia indevidamente paga a este título.
+(..)
+De fato, os documentos de fls. 285-315, bem como o laudo pericial realizado (fl. 772-773 e planilha de fls. 884-885), apontaram para a exigência de juros em patamar superior a 6% (seis por cento) ao ano. - fls. 2.010-2.011.
+No recurso especial, por sua vez, alega que "não apenas a perícia técnica realizada não fora valorada, mas também que não houve fundamentação para tanto" - fls. 2.124.
+Com efeito, as razões do recurso especial encontram-se dissociadas dos fundamentos do acórdão recorrido, circunstância que também faz incidir a Súmula nº 284/STF.
+9. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
