@@ -1,0 +1,51 @@
+EMENTA
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. ALTERAÇÃO DO REGULAMENTO DA PREVIDÊNCIA SOCIAL. REGRA PARA O CANCELAMENTO DO AUXÍLIO-DOENÇA. CANCELAMENTO AUTOMÁTICO. ALTA PROGRAMADA. ALTERAÇÃO DO REGULAMENTO CONTRÁRIA AO ART. 62 DA LEI N. 8.213/91. ENTENDIMENTO DESTA CORTE. NECESSIDADE DE PROCEDIMENTO ADMINISTRATIVO COM CONTRADITÓRIO.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de auxílio-doença.
+II - O Decreto n. 5.844/06 alterou o Regulamento da Previdência Social - RPS (Decreto n. 3.048/99) para acrescentar os §§ 1º a 3º do art. 78, estabelecendo regra para o cancelamento do auxílio-doença, em que, após determinado período de tempo definido em perícia, o benefício é cancelado automaticamente. Tal regra passou a ser denominada "alta programada".
+III - O referido decreto possibilita ainda ao segurado o pedido de prorrogação, quando não se sentir capacitado para o trabalho ao fim do prazo estipulado.
+IV - A referida alteração no RPS foi considerada pela jurisprudência desta Corte como contrária ao disposto no art. 62 da Lei n. 8.213/91, artigo que determina que o benefício seja mantido até que o segurado esteja considerado reabilitado para o exercício de atividade laboral, o que deverá ocorrer mediante procedimento administrativo com contraditório. Nesse sentido: AgInt no AREsp n. 968.191/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgInt no REsp n. 1.546.769/MT, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 17/8/2017, DJe 3/10/2017; AgInt no AREsp n. 1.049.440/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017.
+V - Recurso especial provido para obstar o cancelamento automático do auxílio-doença, sem prévio procedimento administrativo.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de ação ajuizada por [NOME] em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de auxílio-doença.
+Na primeira instância, os pedidos formulados na inicial foram julgados parcialmente procedentes. No TRF da 5ª Região, a sentença foi mantida em acórdão assim ementado:
+EMENTA: PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. QUALIDADE DE
+SEGURADO DEMONSTRADA. INCAPACIDADE DEMONSTRADA. CESSAÇÃO POR ALTA PROGRAMADA. ART. 62 DA LEI 8.213/91.
+1. Trata-se de apelação interposta pela parte autora contra sentença que julgou parcialmente procedente o pleito autoral, com antecipação da tutela, no sentido de condenar a mencionada autarquia a implementar o benefício previdenciário do auxílio-doença em favor do autor, pelo período de seis meses, desde a data do requerimento administrativo.
+2. O próprio INSS reconheceu a condição de segurado do autor, conforme se observa do extrato do Termo de Homologação da Atividade Rural, em que foi homologado o período de 11/09/2006 a 24/10/2012.
+3. Quanto à incapacidade, a perícia informa que o autor possui hérnia discal lombar (CID M51.1), sendo incapaz para seu trabalho habitual de agricultor. Contudo, o perito informou que essa incapacidade é temporária e deu prazo de 06 (seis) meses para recuperação com ortopedista. Diante disso, o juízo sentenciante fixou o período de pagamento como sendo de seis meses, contados do requerimento administrativo.
+4. O ato de concessão ou de reativação do auxílio-doença deve, sempre que possível, fixar o prazo estimado de duração, e, na sua ausência, será considerado o prazo de 120 (cento e vinte) dias, findo o qual cessará o benefício, salvo se o segurado postular a sua prorrogação (Art. 60, §§8º e 9º da Lei nº 8.213/91, incluído pela Lei nº 13.457, de 2017).
+5. Restando devidamente preenchidos os requisitos para a concessão do auxílio-doença, este deve ser mantido pelo prazo máximo de 06 (seis) meses, desde a data da juntada do laudo pericial, findo o qual cessará o benefício, salvo se o segurado postular a sua prorrogação.
+6. Apelação improvida.
+[NOME] interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, por ofensa aos arts. 60, 62, parágrafo único, e 101 da Lei n. 8.213/91.
+Alega em síntese que é ilegal e contrária ao entendimento jurisprudencial do STJ a interrupção do benefício previdenciário por meio de alta programada judicial sem a realização de perícia médica antes da cessação do auxílio-doença. Argumenta que "o juiz não tem como prever ou garantir que o segurado estará apto e totalmente capacitado ao labor no prazo previsto na sentença" (fl. 205).
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Por meio do Decreto n. 5.844/06 houve a alteração do Regulamento da Previdência Social - RPS (Decreto n. 3.048/99) para acrescentar os §§ 1º a 3º do art. 78, estabelecendo regra para o cancelamento do auxílio-doença, em que, após determinado período de tempo definido em perícia, o benefício é cancelado automaticamente. Tal regra passou a ser denominada "alta programada".
+O referido decreto possibilita ainda ao segurado o pedido de prorrogação, quando não se sentir capacitado para o trabalho ao fim do prazo estipulado.
+Entretanto a referida alteração no RPS foi considerada pela jurisprudência do Superior Tribunal de Justiça como contrária ao disposto no art. 62 da Lei n. 8.213/91, artigo que determina que o benefício seja mantido até que o segurado esteja considerado reabilitado para o exercício de atividade laboral, o que deverá ocorrer mediante procedimento administrativo com contraditório.
+Nesse sentido, os seguintes precedentes desta Corte, in verbis:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESTABELECIMENTO DE AUXÍLIO-DOENÇA. ALTA PROGRAMADA. CESSAÇÃO DO BENEFÍCIO. NECESSIDADE DE AMPLA DEFESA E CONTRADITÓRIO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui o entendimento de que não é possível o cancelamento automático do benefício auxílio-doença por intermédio do mecanismo da alta programada, sem que haja o prévio e devido procedimento administrativo perante o INSS.
+2. No caso, o Tribunal a quo, ao manter sentença que concedeu ordem de segurança, para garantir a continuidade do recebimento do auxílio-doença, até a realização de perícia médica administrativa conclusiva a respeito da persistência ou não da invalidez para o trabalho, decidiu em sintonia com a jurisprudência do STJ que vem se firmando.
+3. Agravo interno não provido.
+(AgInt no AREsp 968.191/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017.)
+PREVIDENCIÁRIO. AUXÍLIO DOENÇA. CESSAÇÃO DO BENEFÍCIO POR ALTA PROGRAMADA. IMPOSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui o entendimento de que não é possível o cancelamento automático do benefício previdenciário através do mecanismo da alta programada, sem que haja o prévio procedimento administrativo, ainda que diante da desídia do segurado em proceder à nova perícia perante o INSS.
+2. Agravo interno não provido.
+(AgInt no REsp 1546769/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/8/2017, DJe 3/10/2017.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. AUXÍLIO-DOENÇA. ALTA PROGRAMADA. OFENSA AO ART. 62 DA LEI 8.213/1991. NECESSIDADE DE PERÍCIA. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO. DOCUMENTO IDÔNEO. INTEMPESTIVIDADE AFASTADA. OFENSA AO ART. 535 DO CPC/1973 NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+ ..
+5. O sistema de alta programada estabelecido pelo INSS apresenta como justificativa principal a desburocratização do procedimento de concessão de benefícios por incapacidade. Todavia, não é possível que um sistema previdenciário, cujo pressuposto é a proteção social, se abstenha de acompanhar a recuperação da capacidade laborativa dos segurados incapazes, atribuindo-lhes o ônus de um auto exame clínico, a pretexto da diminuição das filas de atendimento na autarquia.
+6. Cabe ao INSS proporcionar um acompanhamento do segurado incapaz até a sua total capacidade, reabilitação profissional, auxílio-acidente ou aposentadoria por invalidez, não podendo a autarquia focar apenas no aspecto da contraprestação pecuniária.
+7. Na forma do art. 62 da Lei 8.213/1991, "o segurado em gozo de auxílio-doença, insusceptível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade", e "não cessará o benefício até que seja dado como habilitado para o desempenho de nova atividade que lhe garanta a subsistência ou, quando considerado não-recuperável, for aposentado por invalidez". Transferir essa avaliação ao próprio segurado fere gravemente o princípio da dignidade da pessoa humana.
+8. Além disso, a jurisprudência que vem se firmando no âmbito do STJ é no sentido de que não se pode proceder ao cancelamento automático do benefício previdenciário, ainda que diante de desídia do segurado em proceder à nova perícia perante o INSS, sem que haja prévio procedimento administrativo, sob pena de ofensa aos princípios da ampla defesa e do contraditório.
+9. Agravo Interno parcialmente conhecido para afastar intempestividade e, no mérito, não provido.
+(AgInt no AREsp 1049440/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/6/2017, DJe 30/6/2017.)
+No caso dos autos, o Tribunal de origem, em desconformidade com a jurisprudência do STJ, fixou o termo final para o auxílio-doença, seis meses após a data de juntada do laudo pericial, independentemente da realização de perícia médica a fim de constatar a recuperação do segurado.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para obstar o cancelamento automático do auxílio-doença, sem prévio procedimento administrativo.
+É o voto.
