@@ -1,0 +1,20 @@
+Trata-se de reclamação constitucional ajuizada por José Marcos de Souza contra decisão proferida pela 3ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que teria usurpado a competência do Supremo Tribunal Federal ao não processar o agravo em recurso extraordinário cujo seguimento foi obstado naquela Corte.
+    O reclamante narra, em suma, que após estabelecido acordo entre as partes nos autos de origem, homologado por sentença do Juizado Especial Cível da Comarca de Campos dos Goytacazes, em que houve o descumprimento do item 2, foi deflagrada a fase de cumprimento de sentença postulando o pagamento de multa (pág. 3 da inicial).
+    Relata, ainda, que forma opostos Embargos de Declaração que foram rejeitados, o que deu ensejo à interposição do RE em razão da alegada afronta às garantias constitucionais da defesa e proteção do consumidor, da inafastabilidade do controle jurisdicional, de devido processo legal e o da garantia de preservação da coisa julgada. A reclamação impugna decisão do Terceiro Vice-Presidente do Tribunal de Justiça do Rio de Janeiro, que ao não admitir agravo interposto contra o trancamento de recurso extraordinário, alegou usurpação da competência do Supremo Tribunal Federal para julgar o recurso previsto no art. 544 do CPC/1973.
+    As informações foram prestadas pela 3ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro (documento eletrônico 16), tendo a empresa Telemar Norte Leste S.A. Apresentado contestação ao pedido (documento eletrônico 21).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Paulo Gustavo Gonet Branco, opinou pela procedência da reclamação, cuja ementa transcrevo:
+    “Reclamação. Decisão reclamada que negou trâmite a agravo interposto, na origem, contra o trancamento de recurso extraordinário. Incidência da Súmula 727. Parecer pela procedência da reclamação” (pág. 1 do documento eletrônico 24).
+    É o relatório necessário. Decido.
+    Bem examinados os autos, verifico assistir razão ao reclamante.
+    Como bem observado no parecer ministerial, é de competência exclusiva do Supremo Tribunal Federal o julgamento de agravo interposto contra o trancamento de recurso extraordinário, cabendo ao Tribunal de origem apenas o processamento do apelo, salvo quando o juízo de admissibilidade recursal versar sobre a aplicação de entendimento firmado pelo STF na sistemática de repercussão geral.
+    Nessa linha de compreensão, menciono os os seguintes precedentes:
+    “RECLAMAÇÃO - AGRAVO DE INSTRUMENTO - AUSÊNCIA DE REMESSA AO SUPREMO. O agravo visando à subida de recurso extraordinário, pouco importando defeito que apresente, há de ser encaminhado ao Supremo, para o exame cabível” (Rcl 2.826/RS, Rel. Min. Marco Aurélio, Plenário).
+    “RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA INADMISSÃO DE RECURSO EXTRAORDINÁRIO. O Juízo reclamado, ao não receber agravo manifestado ante a negativa de admissão de recurso extraordinário, invadiu competência desta Corte, bem como não observou a disciplina normativa da matéria, que atribui à origem a formação e a posterior remessa do instrumento. Reclamação julgada procedente” (Rcl 2.105/MG, Rel. Min. Ilmar Galvão, Primeira Turma).
+    Com o mesmo entendimento, menciono, ainda, os seguintes julgados, dentre outros: Rcl 19.970/SP, Rcl 19.976/SP, Rcl 19.997/SP e Rcl 19.967/SP, todas de relatoria do Ministro Dias Toffoli; Rcl 19.987/SP e Rcl 19.927/SP, ambas de relatoria do Ministro Gilmar Mendes; Rcl 19.989/RJ, Rcl 19.963/DF e Rcl 19.972/RJ, ambas de relatoria do Ministro Luiz Fux e Rcl 19.936/DF, Rcl 19.907/DF e Rcl 19.954/DF, esses últimos de relatoria do Ministro Roberto Barroso.
+    Verifico que a decisão impugnada diverge dessa orientação.
+    Isso posto, julgo procedente a reclamação para determinar à autoridade reclamada que remeta os autos do Agravo em Recurso Extraordinário interposto pelo reclamante para esta Corte.
+    Comunique-se.
+    Publique-se.
+    Brasília, 11 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
