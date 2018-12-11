@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIVERSOS CRIMES DE ROUBO E CORRUPÇÃO DE MENORES. CUMULAÇÃO DE AUMENTOS PELA CONTINUIDADE DELITIVA E PELO CONCURSO FORMAL. POSSIBILIDADE. DELITO DE CORRUPÇÃO DE MENORES NÃO INTEGRANTE DO NEXO DE CONTINUIDADE DELITIVA DO OUTRO DELITO, DE ESPÉCIE DIVERSA (ROUBO MAJORADO). PRECEDENTES DO STJ. RESTABELECIMENTO DA DOSIMETRIA FIXADA NA SENTENÇA.
+Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Agravo regimental interposto por [NOME] contra decisão monocrática, de minha lavra, assim ementada (fl. 734):
+AGRAVO EM RECURSO ESPECIAL. DIVERSOS CRIMES DE ROUBO E CORRUPÇÃO DE MENORES. CUMULAÇÃO DE AUMENTOS PELA CONTINUIDADE DELITIVA E PELO CONCURSO FORMAL. POSSIBILIDADE. DELITO DE CORRUPÇÃO DE MENORES NÃO INTEGRANTE DO NEXO DE CONTINUIDADE DELITIVA DO OUTRO DELITO, DE ESPÉCIE DIVERSA (ROUBO MAJORADO). PRECEDENTES DO STJ. RESTABELECIMENTO DA DOSIMETRIA FIXADA NA SENTENÇA.
+Agravo conhecido para dar provimento ao recurso especial, a fim de restabelecer a pena fixada na sentença condenatória (Ação Penal n. 25651-34.2016.809.0006, 1ª Vara Criminal de Anápolis/GO).
+Nas razões, a defesa do agravante aduziu que o acolhimento do recurso acusatório implicou o revolvimento do arcabouço probatório, o que é vedado em sede de recurso especial (fl. 749).
+No mérito, alegou que não deve vingar a tese ministerial de que o crime de corrupção de menores e roubo majorado não são de mesma espécie sob o argumento de que um não integra a continuidade delitiva do outro. Isso porque o melhor entendimento acerca do tema é que a continuidade delitiva ocorre aos crimes unidos pela semelhança de determinadas circunstâncias, como as condições de tempo, lugar, modo de execução ou outras formas que permitam deduzir a continuidade, além da homogeneidade de comportamentos tipicamente relevantes, de modo que se mostrem as últimas condutas como desdobramentos da primeira, exatamente como praticados os crimes em apreço (fl. 750).
+Argumentou, ainda, que deve se ater ao fato de que a continuidade delitiva, prevista no artigo 71 do Código Penal, é um instituto moldado com o objetivo de não ocasionar sanções consideradas demasiadamente severas contra um condenado, permitindo a sua ressocialização de forma mais célere. Portanto, verificado a homogeneidade das condições de tempo, lugar e forma de execução dos crimes, além do elemento subjetivo de unidade de desígnios, não pode a continuidade delitiva ser afastada pelos julgadores, sob pena de se desviar da função social da pena (fl. 751).
+Pugnou, assim, pela reforma da decisão agravada (fls. 745/752).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão deve ser mantida.
+Ao contrário do que alega o agravante, o acolhimento do recurso acusatório não demandou o reexame de matéria fático-probatório, pois partiu das premissas fáticas fixadas no aresto combatido.
+Ao que consta, o acórdão impugnado deu parcial provimento ao apelo defensivo para afastar o aumento de pena decorrente do concurso formal, por considerar que a aplicação concomitante da referida causa de aumento com aquela referente à continuidade delitiva consubstanciaria bis in idem (fl. 616):
+ ..  a posição majoritária do Superior Tribunal de Justiça orienta no sentido de que, nas situações em que configuradas as duas hipóteses de aumento de pena, concernentes ao concurso formal e à continuidade delitiva, admite-se apenas uma exacerbação, qual seja, aquela relativa ao crime continuado, sob pena de bis in idem.
+ ..
+De fato, nos termos da jurisprudência desta Corte, em sintonia com a do STF, havendo concurso formal entre dois delitos cometidos em continuidade delitiva, somente incidirá um aumento de pena, qual seja, a relativa ao crime continuado. Todavia, tal regra não tem aplicabilidade nas hipóteses em que um dos crimes não faça parte do nexo da continuidade delitiva do outro delito, embora cometidos em concurso formal, tal como ocorre com o delito de corrupção de menores - de espécie diversa -, o qual não integra a continuidade delitiva relativa ao outro delito - de roubo majorado (HC n. 165.224/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/9/2015 - grifo nosso).
+No mesmo sentido, confira-se:
+ ..
+CRIME CONTINUADO E CONCURSO FORMAL. DELITO DO ART. 96, I, DA LEI N.º 8.666/93 QUE NÃO INTEGROU O NEXO DE CONTINUIDADE DELITIVA DOS CRIMES DO ART. 90 DO MESMO DIPLOMA LEGAL. SITUAÇÃO DIFERENCIADA. INAPLICABILIDADE DA JURISPRUDÊNCIA DO STF E DO STJ. POSSIBILIDADE DA CONCOMITÂNCIA DOS DOIS AUMENTOS DE PENA.
+1. A longeva jurisprudência desta Corte e do Supremo Tribunal Federal indica que, configurado o concurso formal entre dois dos crimes integrantes do nexo de continuidade delitiva, apenas um aumento de pena - o do crime continuado - deve prevalecer.
+2. Na espécie, a ficção do crime continuado se observou entre os delitos de frustrar ou fraudar o caráter competitivo do procedimento licitatório (art. 90), cometido por nove vezes, enquanto que o concurso ideal se verificou em uma destas condutas, com o cometimento, também, do crime de fraudar a licitação, elevando arbitrariamente os preços (art. 96, I), de modo que, não é, absolutamente, a situação em que a jurisprudência do STF e do STJ rejeitam a concomitância das duas figuras, pois o crime que permitiu a caracterização do concurso formal não integrou o nexo de continuidade.
+ ..
+(REsp n. 1.315.619/RJ, Ministro Campos Marques, Desembargador convocado do TJ/PR, Quinta Turma, DJe 30/8/2013)
+Logo, deve ser mantida a decisão agravada que restabeleceu a pena fixada na sentença.
+Ante o exposto, nego provimento ao agravo regimental.
