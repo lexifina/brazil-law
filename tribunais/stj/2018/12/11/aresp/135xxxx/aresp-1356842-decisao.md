@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por POSTAL SAUDE - CAIXA DE ASSISTENCIA E SAUDE DOS EMPREGADOS DOS CORREIOS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+CIVIL. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. CEFALÉIA MIGRANOSA INCAPACITANTE. NECESSIDADE DE APLICAÇÃO DE TOXINA BOTULÍNICA CONFORME RECOMENDAÇÃO MÉDICA. NEGATIVA DE TRATAMENTO. INTERPRETAÇÃO DA CLÁUSULA DE MODO MAIS FAVORÁVEL AO ADERENTE. DANO MORAL CONFIGURADO. SENTENÇA MANTIDA.
+1. O enunciado da Súmula 608 do Superior Tribunal de Justiça pacificou o entendimento segundo o qual é aplicável o Código de Defesa do Consumidor aos contratos de planos de saúde, salvo os administrados por entidades de autogestão.
+2. Cláusulas que impedem o fornecimento de serviços relativos à natureza do negócio são consideradas nulas de pleno direito, por serem abusivas. Tal abusividade, diante das circunstâncias fáticas, pode culminar em uma série de lesões a direitos de personalidade, como ocorreu no caso em exame.
+3. Ressalte-se que o direito à saúde é essencial e, por esse motivo, deve haver a interpretação da lei de modo favorável ao aderente. Assim, uma vez receitado o tratamento pelo médico que acompanha a parte, com a devida justificativa, bem como a sua patologia, não há motivo plausível para a negativa de fornecimento.
+4. Para a quantificação dos danos morais, necessário aplicar-se a lógica do razoável. A doutrina ainda leciona a necessidade de o quantitativo estipulado se ater ao princípio da proporcionalidade, aliás, como qualquer atuação estatal, já que a função jurisdicional não deixa de ser função precípua do Estado. Deve, ainda, ser adequado à efetiva extensão do dano (art. 944 do Código Civil).
+5. Recurso conhecido e desprovido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 188 422, 927 e 944, do Código Civil.
+Alega, em síntese, que não cometeu nenhum ato ilícito, insurgindo-se contra a condenação a título de danos morais, bem como quanto ao valor da verba indenizatória (R$ 3.000,00 - três mil reais).
+Defende ter havido afronta à liberdade contratual e aos princípios de probidade e boa-fé.
+É o relatório. DECIDO.
+2. A matéria tratada no artigo 422 do CC não foi objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito da referida matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. No mais, quanto à alegação de ausência de configuração de dano moral, melhor sorte não socorre a ora agravante. O Tribunal local entendeu que seria cabível os danos morais, já que injustificável a recusa da operadora do plano de saúde em proceder a cobertura do tratamento prescrito pelo médico.
+Com efeito, a jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada gera direito de ressarcimento a título de dano moral, em razão de tal medida agravar a situação tanto fisicamente quanto psicologicamente do beneficiário, sendo o referido dano in re ipsa.
+Nesse sentido, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA. NATUREZA ABUSIVA. RECUSA INJUSTIFICADA. DANO MORAL. CABIMENTO. QUANTUM INDENIZATÓRIO. REVISÃO. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento de que, havendo cobertura para a doença, consequentemente deverá haver cobertura para procedimento ou medicamento necessário para assegurar o tratamento de doenças previstas no referido plano. Precedentes.
+2. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+3. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 10.000,00 (dez mil reais), não é excessivo nem desproporcional aos danos sofridos - recusa do plano de saúde em custear home care.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1223021/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/05/2018, DJe 08/05/2018)
+Assim, na esteira do precedente colacionado, é cabível indenização por danos morais, in casu, incidindo a Súmula 83/STJ.
+4. Por fim, no tocante ao valor indenizatório, cumpre ressaltar que esta Corte entende ser admissível modificá-lo em recurso especial somente quando o montante estabelecido na origem for excessivo ou irrisório, de forma a violar os princípios da proporcionalidade e da razoabilidade, o que não ocorreu na espécie. Isso porque o Tribunal de origem fixou o quantum de danos morais em R$ 3.000,00 (três mil reais).
+Seguindo essa linha, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. DANOS MORAIS. PLANO DE SAÚDE. INDEVIDA RECUSA DE COBERTURA. DANO MORAL. QUANTUM INDENIZATÓRIO. PRINCÍPIO DA PROPORCIONALIDADE RESPEITADA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser passível de indenização a título de danos morais a recusa indevida/injustificada pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico.
+2. O entendimento desta Corte é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela.
+3. Não se verifica no montante fixado - R$ 15.000,00 - violação do princípio da proporcionalidade, a configurar situação teratológica, motivo pelo qual o caso não se revela hipótese de intervenção deste Tribunal Superior no quantum estabelecido pelas instâncias ordinárias.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 640.989/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/8/2015, DJe 14/8/2015).
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
