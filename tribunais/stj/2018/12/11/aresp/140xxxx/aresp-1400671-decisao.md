@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] e Outros, em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+AÇÃO RESCISÓRIA - Acórdão rescindendo transitado em julgado que não reconheceu a incidência dos adicionais por tempo de serviço (qüinqüênios) sobre os vencimentos integrais, violando diretamente os artigos 129 da Constituição Estadual, 18 da Lei 6.628/1989, 11 da Lei Complementar 712/1993, Lei Complementar 731/1993 e 37, XIV e XV, da Constituição Federal.
+- Alegação de violação literal de dispositivo legal (art. 485, V, CPC)  Inadmissibilidade - Ausência dos pressupostos da rescisória  Não enseja o ajuizamento de ação rescisória por violação literal de lei dispositivo de interpretação controvertida nos tribunais  Súmula 343 e Recurso Extraordinário com Repercussão Geral 590809/RS do Supremo Tribunal Federal  Precedentes deste Tribunal de Justiça  Decisão monocrática que observou os estritos termos do art. 557 do Código de Processo Civil  Ausência de vício a ser sanado na decisão agravada.
+Agravo desprovido.
+Os Embargos de Declaração opostos foram rejeitados.
+Em suas razões de recurso especial, sustenta a parte recorrente violação dos arts. 966, V, 926 e 927 do CPC/2015, "porquanto não há como negar que o acórdão rescindendo violou a literal disposição ou manifestamente as normas dos artigos 129 da Constituição Estadual e 18 da Lei 6.628/89 e 11, I, da LC 712/93, que dizem com todas as letras que os qüinqüênios incidem sobre os vencimentos integrais" (e-STJ fl. 225).
+Apresentadas contrarrazões (e-STJ fls. 234/235).
+A decisão agravada negou seguimento ao especial sob a compreensão de que: I) a ofensa a dispositivos constitucionais não servem de suporte à interposição de recurso especial; II) incide as Súmulas 7/STJ; III) Súmula 280/STF; IV) quanto ao dissídio jurisprudencial, a verificação implicaria reexame de provas.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade recursais.
+Não foi ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não pode ser conhecido, pois a parte agravante não cuidou de impugnar, em bases concretas e específicas, bastante os fundamentos da decisão agravada, quais sejam: Súmula 7/STJ e Súmula 280/STF.
+Acerca da incidência da Súmula 7/STJ, observo que limita-se a alegar simplesmente que a questão é exclusivamente de direito e que não se pretende reexame do acervo probatório, mas sim a revaloração dos fatos.
+Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Bem assim, deve ser observada a Súmula nº 182/STJ que dispõe: "É inviável o agravo do art. 545 do CPC 1973  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalto que a impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido. Ilustrativamente, os seguintes precedentes:
+É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016).
+À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia (AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/08/2015).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
