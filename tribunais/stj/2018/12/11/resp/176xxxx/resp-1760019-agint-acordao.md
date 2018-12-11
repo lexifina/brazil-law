@@ -1,0 +1,37 @@
+EMENTA
+TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA JURÍDICA. BASE DE CÁLCULO. ICMS. CRÉDITO PRESUMIDO. NÃO INCIDÊNCIA. MATÉRIA JULGADA NO ERESP N. 1.517.492/PR.
+I - O presente feito decorre de mandado de segurança que objetiva a exclusão do ICMS na base de cálculo do IRPJ e da CSLL. Na sentença, a segurança foi denegada. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida.
+II - A jurisprudência do Superior Tribunal de Justiça era no sentido de que o crédito presumido do ICMS, ao configurar diminuição de custos e despesas, aumentaria indiretamente o lucro tributável e, portanto, deveria compor a base de cálculo do IRPJ e da CSLL.
+III - No entanto, no julgamento do EREsp n. 1.517.492/PR, em 8/11/2017, DJe 1/2/2018, esta Corte assentou a tese de que não é possível a inclusão de créditos presumidos concedidos a título de incentivo fiscal nas bases de cálculo do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, por representar interferência da União na política fiscal adotada por Estado-membro, configurando ofensa ao princípio federativo e à segurança jurídica.
+IV - Entendeu-se que "Nos termos do art. 4º da Lei n. 11.945/09, a própria União reconheceu a importância da concessão de incentivo fiscal pelos Estados-membros e Municípios, prestigiando essa iniciativa precisamente com a isenção do IRPJ e da CSLL sobre as receitas decorrentes de valores em espécie pagos ou creditados por esses entes a título de ICMS e ISSQN, no âmbito de programas de outorga de crédito voltados ao estímulo à solicitação de documento fiscal na aquisição de mercadorias e serviços".
+V - De fato, como indicado naquele julgamento, o STF, ao julgar, em regime de repercussão geral, "o RE n. 574.706/PR, assentou a inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, sob o entendimento segundo o qual o valor de ICMS não se incorpora ao patrimônio do contribuinte, constituindo mero ingresso de caixa, cujo destino final são os cofres públicos.
+VI - Axiologia da ratio decidendi que afasta, com ainda mais razão, a pretensão de caracterização, como renda ou lucro, de créditos presumidos outorgados no contexto de incentivo fiscal".
+VII - Agravo interno provido para dar provimento ao recurso especial da parte ora agravante.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo interno para dar provimento ao recurso especial, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto pela Tecnoblu S.A. Indústria e Comércio, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. EMPRESA TRIBUTADA PELO LUCRO PRESUMIDO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IRPJ E DA CSLL. CABIMENTO.
+1. A base de cálculo, tanto do imposto de renda quanto da contribuição social sobre o lucro líquido, quando haja opção pelo lucro presumido, é a receita bruta, assim entendida como o produto da venda de bens nas operações de conta própria, nos termos do art. 31 da Lei 8.981/95. E nesse caso, o recebimento do ICMS por parte da empresa vendedora (sujeito passivo do imposto de renda) ao consumidor final, caracteriza produto da venda de bens, que detém conteúdo monetário
+2. O valor de ICMS destacado na nota de venda de mercadoria representa lucro auferido pela empresa vendedora, transitando pela contabilidade da empresa como receita bruta, assim conceituada pela legislação que apura o IRPJ e a CSLL pelo lucro presumido (art. 31 da Lei 8.981/95).
+Na origem, o presente feito decorre de mandado de segurança que objetiva a exclusão do ICMS na base de cálculo do IRPJ e da CSLL. Na sentença, a segurança foi denegada. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida.
+Foram rejeitados os embargos declaratórios opostos pela Tecnoblu S.A. Indústria e Comércio.
+Inicialmente, o recorrente suscita contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou sobre a ilegalidade da inclusão do ICMS na base de cálculo do IRPJ e da CSLL.
+Em seguida, a parte recorrente aponta violação dos arts. 43, 97, III e 110 do CTN; 31 e 57 da Lei n. 8.981/1995; 20 da Lei n. 9.249/1995; 25 da Lei n. 9.430/1996 e 224 do RIR/1999.
+Sustenta, em síntese, que é indevida a inclusão do ICMS na base de cálculo do IRPJ e da CSLL, ainda que a empresa tenha optado pela sistemática de apuração baseada no lucro presumido, tendo em vista que o aludido imposto estadual não compõe o conceito de receita bruta.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+A parte recorrente pretende a declaração de inexistência de relação jurídica relativamente à incidência de IRPJ e CSLL sobre créditos presumidos de ICMS.
+A jurisprudência do Superior Tribunal de Justiça era no sentido de que o crédito presumido do ICMS, ao configurar diminuição de custos e despesas, aumentaria indiretamente o lucro tributável e, portanto, deveria compor a base de cálculo do IRPJ e da CSLL.
+No entanto, no julgamento do EREsp 1.517.492/PR, em 8/11/2017, DJe 1/2/2018, esta Corte assentou a tese de que não é possível a inclusão de créditos presumidos concedidos a título de incentivo fiscal nas bases de cálculo do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, por representar interferência da União na política fiscal adotada por Estado-membro, configurando ofensa ao princípio federativo e à segurança jurídica.
+Entendeu-se que "Nos termos do art. 4º da Lei n. 11.945/09, a própria União reconheceu a importância da concessão de incentivo fiscal pelos Estados-membros e Municípios, prestigiando essa iniciativa precisamente com a isenção do IRPJ e da CSLL sobre as receitas decorrentes de valores em espécie pagos ou creditados por esses entes a título de ICMS e ISSQN, no âmbito de programas de outorga de crédito voltados ao estímulo à solicitação de documento fiscal na aquisição de mercadorias e serviços".
+De fato, como indicado naquele julgamento, o STF, ao julgar, em regime de repercussão geral, "o RE n. 574.706/PR, assentou a inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, sob o entendimento segundo o qual o valor de ICMS não se incorpora ao patrimônio do contribuinte, constituindo mero ingresso de caixa, cujo destino final são os cofres públicos.
+Axiologia da ratio decidendi que afasta, com ainda mais razão, a pretensão de caracterização, como renda ou lucro, de créditos presumidos outorgados no contexto de incentivo fiscal".
+Ante o exposto, dou provimento ao agravo interno para dar provimento ao recurso especial da Tecnoblu S.A. Indústria e Comércio.
+É o voto.
