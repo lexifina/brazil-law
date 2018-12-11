@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TJPR assim ementado (e-STJ fls. 477/478):
+RECURSO DE APELAÇÃO - "AÇÃO DE REPARAÇÃO POR DANOS MORAIS" - AGRAVO RETIDO - REQUERIDA - NÃO CONHECIMENTO - PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE ARGUIDA EM SEDE DE CONTRARRAZÕES - REJEITADA - MÉRITO - VEICULAÇÃO DE MATÉRIAS NOTICIANDO A PRÁTICA DE CRIMES DE EXTORSÃO E RECEBIMENTO DE PROPINA POR PARTE DO AUTOR E DEMAIS AGENTES PÚBLICOS - NOTÍCIAS QUE SE ATÉM À NARRATIVA FÁTICA (E INFORMAÇÕES) REPASSADA PELO MINISTÉRIO PÚBLICO, POLÍCIA CIVIL E SECRETARIA DE SEGURANÇA PÚBLICA - AUSÊNCIA DE EXCESSO OU ABUSO NA DIVULGAÇÃO - POSTERIOR ABSOLVIÇÃO DO AUTOR - FATO QUE NÃO PODE SER IMPUTADO À REQUERIDA QUE APENAS NOTICIOU O CURSO DAS INVESTIGAÇÕES - REQUERIDA QUE AGIU COM CAUTELA AO UTILIZAR AS EXPRESSÕES "INVESTIGADO" E "ACUSADO", NUNCA "CONDENADO" - ATO ILÍCITO NÃO CONFIGURADO - AUSÊNCIA DO DEVER DE RETRATAÇÃO PÚBLICA - INDENIZAÇÃO INDEVIDA - HONORÁRIOS ADVOCATÍCIOS - MANUTENÇÃO.
+RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+1. Se as matérias jornalísticas se atêm a narrativa dos fatos e relatos feitos pelo Ministério Público, Secretaria de Segurança Pública e Polícia Civil, sendo redigidas com as cautelas necessárias, sem proferir juízo de opinião, e desprovidas do intento de caluniar ou ofender a honra do indivíduo, não há que se cogitar de ato ilícito, a ensejar a indenização por dano moral.
+2. O valor arbitrado a título de honorários advocatícios se mostra adequado com o que dispunha o artigo 20, § 3.º e 4.º do Código de Processo Civil de 1973, razão pela qual deve ser mantido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 516/518).
+Nas razões do recurso especial (e-STJ fls. 522/543), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega ofensa aos arts. 5º, V e X, e 220, § 1º, da CF, 17, 20, 21, 186, 187, 927 e 944 do CC/2002 e 373, I, 489, § 1º, IV, 1.013 e 1.022, II, do CPC/2015, pois houve abuso do direito de informar e intuito difamatório da notícia, existindo dever de indenizar. Indicou dissídio.
+Asseverou violação do art. 85, § 2º, do CPC/2015, porque a verba honorária foi fixada acima de 20% sobre o valor da causa, ocorrendo desequilíbrio financeiro.
+Juízo de admissibilidade positivo (e-STJ fls. 697/698).
+É o relatório.
+Decido.
+No julgamento do recurso especial, não cabe a esta Corte o exame de suposta ofensa a artigos da Constituição Federal, sob pena de usurpação de competência do STF (art. 102, CF).
+A respeito do direito de informação, os julgadores assim reconheceram (e-STJ fls. 491/497):
+In casu, infere-se que o interesse público das noticias legitimou o atuar da imprensa, eis que tratou de dar publicidade à prisão temporária do demandante, bem como de outros envolvidos, em razão da suposta prática de crime de extorsão cometido em Colombo/PR.
+Das reportagens colacionadas aos autos, não se vislumbra qualquer abuso ou excesso de direito capaz de gerar abalo moral ao autor, notadamente porque tem caráter exclusivamente jornalístico e não sensacionalista, tendo sido lastreadas em informações obtidas junto ao GAECO, Corregedoria da Polícia Civil e Secretaria de Segurança Pública.
+(..)
+Consoante se verifica, as informações divulgadas, em nenhum momento, tratam do autor como condenado e praticante do crime de extorsão, apenas informam a população sobre o que estava ocorrendo, fazendo o bom uso das expressões "suspeito" e "acusado".
+Ademais, as reportagens citam as fontes de onde obtiveram as informações prestadas, sendo elas do próprio Ministério Público (GAECO), da Polícia Civil e da Secretaria de Segurança Pública.
+Também, importante ressaltar que os nomes dados as reportagens "Trintinha na Gaveta", "A casa caiu!", "operação detém quadrilha de policiais em Colombo", "Policiais presos por extensão" e "MP põe em cana quem pagou pra não ser preso", não apresentam cunho vexatório apto a ensejar indenização por danos morais, pois tais nomenclaturas, apesar de ter conotações humorísticas, apenas retrataram os fatos contados na reportagem que, diga-se de passagem, dizia respeito as investigações e todo o procedimento que estava acontecendo. A exemplo: "Trintinha na Gaveta", dizia respeito ao suposto valor cobrado pelos investigados/suspeitos para facilitar a fuga de presos.
+Desse modo, tem-se que, ao contrário do que sustenta o autor, além das reportagens narrarem os fatos investigados e repassados pelo Ministério Público e Polícia Civil, cuja existência e enfoque, restaram devidamente comprovados nos autos (vez que houve, de fato, investigações para apuração dos crimes descritos nas reportagens), ainda foram absolutamente claras ao indicar as fontes (..)
+(..)
+Diante disso, infere-se que o atuar dos veículos de informação pertencentes a requerida, não se deu com ânimo de caluniar ou difamar, tampouco se mostrou sensacionalista, tendencioso, ou teve a intenção de denegrir a honra objetiva do autor.
+Pelo contrário, vislumbra-se que as reportagens possuem nítido conteúdo informativo, simplesmente reproduzindo os dados obtidos, sumariamente, pela Polícia Civil, pela Secretaria de Segurança Pública e pelo Ministério Público, acerca dos supostos crimes praticados pelo autor e demais agentes públicos (extorsão).
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ, fundamento cabível para as alíneas "a" e "c" do permissivo constitucional.
+A verba honorária foi assim fixada (e-STJ fl. 499):
+Entendo que a verba honorária, arbitrada em R$5.000,00, deve ser mantida, pois atende aos ditames do artigo 20, §§ 3.º e 4.º do Código de Processo Civil de 1973 (utilizados pelo r. Juízo a quo), bem como aos ditames do artigo 85, § 2.º e incisos do Código de Processo Civil de 2015, considerando o valor e proveito econômico da causa, o tempo de tramitação da demanda, ajuizada em 16.12.11, e, principalmente, o zelo e labor desenvolvido pelo Advogado da requerida no patrocínio da causa, bem como a necessidade de dilação probatória.
+Nesses termos, foi estipulada de acordo com o previsto na jurisprudência desta Corte. Anote-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESTITUIÇÃO DE VALORES. CONTRATO DE CONSÓRCIO. LIDE LIMITADA AO MOMENTO DA DEVOLUÇÃO. AÇÃO JULGADA IMPROCEDENTE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS A SEREM PAGOS PELA PROMOVENTE. AGRAVO INTERNO DESPROVIDO.
+1. "Nas causas em que não houver condenação, como no caso sub judice - improcedência do pedido -, os honorários advocatícios devem ser fixados consoante apreciação equitativa do juiz, podendo o magistrado se valer tanto de percentuais sobre o valor da causa, como de valores fixos, não estando restrito aos limites previstos nos § 3º do artigo 20 do CPC/1973." (AgRg no AREsp 313.887/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 09/03/2017, DJe 16/03/2017).
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.305.335/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/8/2018, DJe 24/8/2018.)
+CIVIL E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. PROMESSA DE VENDA UNILATERAL. DIREITO DE PREFERÊNCIA. ALIENAÇÃO DE BEM A TERCEIRO. INDENIZAÇÃO. ART. 1.156 DO CCB. NÃO INCIDÊNCIA. APLICAÇÃO DA S.7/STJ. VERBA HONORÁRIA. ART. 20, § 4º. RECURSOS NÃO PROVIDOS.
+(..)
+4. "Nas causas em que não houver condenação, os honorários advocatícios devem ser fixados de forma equitativa pelo juiz, nos termos do § 4º do art. 20, CPC, não estando o magistrado restrito aos limites percentuais estabelecidos no § 3º do referido artigo" (AGRg nº 368.844/SP, Min. Barros Monteiro, DJU de 28.10.2002)
+5. Recursos especiais não providos.
+(REsp n. 1.125.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/4/2012, DJe 8/8/2012.)
+RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO MEDIANTE APRECIAÇÃO EQUITATIVA. ARTIGO ANALISADO: 20, § 4º, CPC.
+1. Ação de exibição de documentos ajuizada em 03/03/2010, da qual foi extraído o presente recurso especial, concluso ao Gabinete em 22/11/2013.
+2. Discute-se a irrisoriedade dos honorários sucumbenciais fixados equitativamente em valor inferior ao salário mínimo.
+3. Está pacificado nesta Corte o entendimento de que, nas causas onde não há condenação, os honorários advocatícios devem ser fixados consoante apreciação equitativa do Juiz, conforme o disposto no art.
+20, § 4º, do CPC, que pressupõe a análise, como parâmetro, do grau de zelo do profissional, do lugar de prestação do serviço, do trabalho realizado pelo advogado e do tempo exigido para o seu serviço.
+4. Por se tratar de fixação consoante apreciação equitativa, não está o juiz adstrito aos limites percentuais mínimo e máximo do parágrafo terceiro daquele dispositivo.
+5. Em recurso especial, o montante fixado a título de honorários advocatícios somente pode ser alterado se patente seu exagero ou quando fixado de forma irrisória, pois, apenas ocorrendo distanciamento dos critérios prescritos em lei na fixação dos honorários, a questão deixa de ser de fato e passa a ser de direito, podendo, portanto, ser apreciada sem que isso implique violação do enunciado nº 07 da Súmula/STJ.
+6. Recurso especial provido.
+(REsp n. 1.421.883/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2014, DJe 27/2/2014.)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
