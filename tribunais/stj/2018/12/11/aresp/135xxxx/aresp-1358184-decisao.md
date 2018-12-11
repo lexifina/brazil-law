@@ -1,0 +1,38 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME], contra decisão que negou seguimento ao seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, por sua vez manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, sumariado na seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS - IRRESIGNAÇÃO DA PARTE AUTORA - PRELIMINAR DE INADMISSIBILIDADE SUSCITADA PELA APELADA - AFASTAMENTO - NÃO CONSTATAÇÃO DE INFRINGÊNCIA AO PRINCÍPIO DA DIALETICIDADE - IRRESIGNAÇÃO QUE REBATE O PONTO NODAL DA SENTENÇA RECORRIDA - POSSIBILIDADE DE CONHECIMENTO - PRELIMINAR REJEITADA - MÉRITO - INDENIZAÇÃO POR DANO MORAL - NÃO CONFIGURAÇÃO DESCUMPRIMENTO CONTRATUAL - AUSÊNCIA DE OUTROS ELEMENTOS A DEMONSTRAR QUE A SITUAÇÃO FÁTICA EXTRAPOLOU O MERO ABORRECIMENTO PASSANDO A LESAR DIREITO PERSONALÍSSIMO DO CONSUMIDOR - ENTENDIMENTO SEDIMENTADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. APELO DESPROVIDO. (fl. 316-317)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 30, 39, II e X, 14 e 6º, VI e VIII, do Código de Defesa do Consumidor, aduzindo que a responsabilidade do fornecedor é objetiva, com fundamento na teoria do risco do empreendimento.
+É o relatório. DECIDO.
+2. O Tribunal estadual ao afastar o pretensão de indenização por danos morais, o fez amparado nos seguintes fundamentos:
+Os fatos narrados na inicial configuraram mero aborrecimento decorrente da execução do contrato.
+Não se há falar, todavia, em transtorno extraordinário para fins indenizatórios, porque não envolveu cobranças indevidas (perda patrimonial), nem se tratou de fornecimento de serviço de caráter essencial, valendo lembrar que os serviços de TV por assinatura convencionais jamais foram interrompidos.
+As inúmeras reclamações e os não comparecimentos revelam que o autor de fato investiu tempo e se frustrou com os serviços da ré.
+E na casuística, ao contrário do argumentado nas razões recursais, não houve a configuração do dano moral, tratando-se o caso efetivamente de mero descumprimento contratual.
+Isso restou bem delineado, não só porque o apelante consumidor manteve a contratação de prestação de serviços diversos do pactuado por mais de dois anos, mas porque isso ocorria em sua residência de veraneio na cidade de Carlópolis, evidenciando que dela usufruía esporadicamente.
+Assim, a importunação alegada não foi constante, mas esporádica, tanto que pode conviver com ela por longo período, constituindo-se mero dissabor, não se transmutando na insuportabilidade configuradora do prejuízo imaterial indenizável. (fl. 322-323)
+Todavia, observa-se que o recorrente não impugnou todos os fundamento destacado do acórdão estadual como seria de rigor. No caso, o fundamento de "não configura dano moral o mero descumprimento contratual.
+Portanto, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Outrossim, verifico que os temas insertos nos arts. 30 e 30 do CDC, não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+4. Não bastasse isso, a decisão da Corte estadual encontra-se em harmonia com a jurisprudência sedimentada neste Sodalício, no sentido de que o mero descumprimento contratual, não dá ensejo a indenização de natureza extrapatrimonial.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE TÍTULOS CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTROS RESTRITIVOS. DÉBITO INEXISTENTE. DIVIDA CEDIDA A INSTITUIÇÃO FINANCEIRA. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo, sem ignorar o fato de que o mero descumprimento contratual, por si só, não gera dever de indenizar os danos extrapatrimoniais, assentou a sua cristalização com base no arcabouço fático-probatório dos autos, reconhecendo a existência de circunstância ensejadora da reparação por danos. Incidência da Súmula 7 do STJ.
+2. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar manifestamente irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, torna-se incabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência do enunciado da Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt no AResp 796.023/RS, QUARTA TURMA, de minha relatoria, DJe 21/09/2018)
+___________
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,.
+2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+_____________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+______________
+5. Estando, pois, o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ.
+6. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
