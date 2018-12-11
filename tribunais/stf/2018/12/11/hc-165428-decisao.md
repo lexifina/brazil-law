@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, contra decisão que indeferiu liminarmente o HC 479.729, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante e denunciado perante o Juízo da 4ª Vara Criminal de Piracicaba/SP, pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/06. A prisão em flagrante foi convertida em preventiva.
+    3. A defesa opôs exceção de incompetência, acolhida para determinar a remessa dos autos a uma das Varas Criminais da comarca de Santa Bárbara D’Oeste/SP.
+    4. Contra a prisão cautelar, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de habeas corpus no Superior Tribunal de Justiça, indeferido liminarmente.
+    5. Neste habeas corpus, a parte impetrante sustenta que “a autoridade coatora, magistrada titular da 1ª Vara Criminal de Santa Bárbara D´Oeste, não se pronunciou sobre a ratificação dos atos decisórios, em especial a prisão preventiva do paciente”.
+    6. Prossegue a impetração para afirmar que “Evidente que a ratificação, nestas situações, não pode ser implícita, posto que do contrário seria letra morta o disposto no § 1º do artigo 108 do Código de Processo Penal, assim como o inciso IX do artigo 93 da Constituição da República”.
+    7. Com esses argumentos, requer “a concessão da ordem de habeas corpus para revogar a prisão preventiva do paciente, ainda que mediante a sua substituição por medidas cautelares”.
+    Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    9. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    10. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas, notadamente se se considerar o entendimento de que “este Supremo Tribunal Federal, nos casos de incompetência absoluta do juízo, admite a ratificação de atos decisórios pelo juízo competente” (HC n. 123.465, Relatora Ministra Rosa Weber, DJe 19.2.2015).
+    11. No caso de que se trata, tal como assentou a autoridade impetrada, “a magistrada competente recebeu a denúncia e determinou o prosseguimento da ação penal, com a citação e intimação do réu”, o que “é suficiente para que se considere ratificada a decisão que decretou a custódia cautelar do paciente”.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 11 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                  Documento assinado digitalmente
