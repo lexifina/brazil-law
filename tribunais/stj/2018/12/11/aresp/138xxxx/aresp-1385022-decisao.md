@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo, interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, em 12/06/2018, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"ADMINISTRATIVO. IBAMA. ÁREA DE PRESERVAÇÃO PERMANENTE. INFRAÇÃO AMBIENTAL. NÃO CONFIGURADA. LEI 4.771/65. RESOLUÇÃO CONAMA 303/2002. AUTO DE INFRAÇÃO IMPRECISO. NULIDADE. APELAÇÃO DESPROVIDA.
+1. A autora foi autuada pelo IBAMA, em 31.03.2005, pela prática de infração ambiental consistente na construção de rancho pesqueiro no lago Jupiá, extensão do rio Sucuriú, em área de preservação permanente.
+2. O auto de infração foi lavrado com fundamento nos artigos 60 e 70 da Lei n. 9.605/98; artigos 2º, inciso II, e 44 do Decreto n. 3.179/99; artigo 2º, a-3º, da Lei n. 4.771/65; e artigo 10 da Lei n. 6.938/81, resultando na aplicação de uma multa no valor de R$ 50.000,00 (cinquenta mil reais).
+3. O agente do IBAMA, responsável pela autuação, no entanto, não identificou a distância da construção em relação ao rio Sucuriú. Além disso, não restou devidamente esclarecido se a área de preservação permanente supostamente invadida margeia água corrente ou represada, ou mesmo se a área é rural ou urbana, questões indispensáveis para a correta apuração da APP.
+4. Sendo assim, diante da imprecisão do auto de infração, e da inexistência da exata localização do imóvel, a sentença deve ser mantida como lançada, anulando-se o Auto de Infração n. 112.707-D, bem como o respectivo processo administrativo.
+5. No tocante à questão dos honorários, cumpre registrar que a sentença foi proferida sob a égide do CPC de 1973, o qual dispunha no artigo 20, § 4º, que nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação equitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior.
+6. In casu, o valor fixado pelo juízo a quo em R$ 5.000,00 (cinco mil reais) não se revela excessivo, considerando não só o valor atribuído à causa de R$ 50.000,00 (cinquenta mil reais), como a natureza da mesma, não se justificando, portanto, a redução dessa verba.
+7. Precedentes.
+8. Apelação desprovida" (fls. 219/220e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando presente alguma das hipóteses previstas no art. 1.022 do novo Código de Processo Civil.
+2. No caso em apreço, o aresto embargado abordou a questão de forma suficientemente clara, nos limites da controvérsia, não restando vício a ser sanado.
+3. Diante da imprecisão do auto de infração e da inexistência da exata localização do imóvel, a anulação do Al n. 112.707-D é medida que se impõe.
+4. No tocante ao prequestionamento, frise-se que é desnecessária a referência expressa aos dispositivos legais e constitucionais tidos por violados, pois o exame da questão, à luz dos temas invocados, é mais do que suficiente para viabilizar o acesso às instâncias superiores.
+5. O que se percebe é que o embargante apenas manifesta seu inconformismo com o fato de que este Tribunal não abraçou a tese por ele defendida, olvidando, assim, que os embargos de declaração não se prestam a este fim e buscando, através de alegações desarrazoadas, retardar indevidamente o andamento do processo.
+6. Embargos de declaração rejeitados" (fl. 252e).
+Nas razões do Recurso Especial, interposto com fulcro na alínea a do permissivo constitucional, aduz a parte recorrente violação aos arts. 38, 48, 60 e 70 da Lei 9.605/98, 2º da Lei 4.771/65, e 3º, parágrafo único, da Lei 6.766/79, argumentando que "é incontroverso nos autos que a construção objeto da autuação está dentro da faixa de 100 (cem) metros do entorno do recurso hídrico em questão (margem esquerda do Rio Sucuriú - área de formação do lago artificial da Usina Hidrelétrica Engenheiro Souza Dias ou Usina de Jupiá)" (fl. 263e).
+Requer, ao final, o provimento do recurso.
+Não apresentadas as contrarrazões, negado seguimento ao Recurso Especial (fls. 281/289e), foi interposto o presente Agravo (fls. 291/294e).
+A insurgência não merece amparo.
+Com efeito, a Corte de origem concluiu que não há elementos suficientes que comprovem a existência de dano ambiental em APP ou na faixa de 30 metros contados da margem do rio ou do reservatório, nos seguintes termos:
+"No caso sub judice, porém, não há elementos suficientes que comprovem a existência de dano ambiental em APP ou mesmo na faixa de 30 metros contados da margem do rio ou do reservatório, como requer subsidiariamente a parte ré.
+Sendo assim, diante da imprecisão do auto de infração, e da inexistência da exata localização do imóvel, a sentença deve ser mantida como lançada, anulando-se o Auto de Infração n. 112.707-D, bem como o respectivo processo administrativo" (fl. 215e).
+Neste contexto, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
