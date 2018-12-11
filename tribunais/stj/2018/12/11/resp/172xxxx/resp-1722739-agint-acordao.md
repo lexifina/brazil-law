@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO PODER JUDICIÁRIO ESTADUAL. SUPRESSÃO DE VANTAGEM. CONVERSÃO DE ADICIONAL DE QUALIFICAÇÃO EM ADICIONAL DE ESPECIALIZAÇÃO. ATO DE EFEITOS CONCRETOS. DECADÊNCIA DO DIREITO À IMPETRAÇÃO. OCORRÊNCIA.
+1. O ato administrativo que suprime vantagem é único e de efeitos concretos, iniciando-se o prazo decadencial para a impetração do mandado de segurança a partir da ciência do ato impugnado, a teor do disposto no art. 23 da Lei 12.016/2009.
+2. In casu, o ato que transformou o Adicional de Qualificação (AQ) em Adicional de Especialização deu-se através da Portaria 2.184 de novembro de 2014, sendo que o mandamus foi impetrado tão somente em setembro de 2015, muito além do prazo de 120 (cento e vinte) dias preconizado na Lei n. 12.016/2009, o que conduz ao reconhecimento da decadência do direito à impetração do writ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Trata-se de agravo interno interposto por [NOME] e outros contra decisão assim ementada (fl. 306):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR. RESTABELECIMENTO DE VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA (VPNI). ATO DE EFEITOS CONCRETOS. DECADÊNCIA DO DIREITO À IMPETRAÇÃO. OCORRÊNCIA. RECURSO PROVIDO.
+Alegam os agravantes que em se tratando de mandado de segurança, as prestações de trato sucessivo que buscam corrigir ilegalidade praticada mediante a redução de vencimentos de servidores públicos, a cada pagamento feito pela administração, renova-se a ciência referida no art. 23 da Lei 12.016, não se podendo cogitar a decadência da impetração.
+Impugnação às fls. 341-347.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO PODER JUDICIÁRIO ESTADUAL. SUPRESSÃO DE VANTAGEM. CONVERSÃO DE ADICIONAL DE QUALIFICAÇÃO EM ADICIONAL DE ESPECIALIZAÇÃO. ATO DE EFEITOS CONCRETOS. DECADÊNCIA DO DIREITO À IMPETRAÇÃO. OCORRÊNCIA.
+1. O ato administrativo que suprime vantagem é único e de efeitos concretos, iniciando-se o prazo decadencial para a impetração do mandado de segurança a partir da ciência do ato impugnado, a teor do disposto no art. 23 da Lei 12.016/2009.
+2. In casu, o ato que transformou o Adicional de Qualificação (AQ) em Adicional de Especialização deu-se através da Portaria 2.184 de novembro de 2014, sendo que o mandamus foi impetrado tão somente em setembro de 2015, muito além do prazo de 120 (cento e vinte) dias preconizado na Lei n. 12.016/2009, o que conduz ao reconhecimento da decadência do direito à impetração do writ.
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Com efeito, o ato administrativo que suprime vantagem é único e de efeitos concretos, iniciando-se o prazo decadencial para a impetração do mandado de segurança a partir da ciência do ato impugnado, a teor do disposto no art. 23 da Lei 12.016/09.
+Quanto à configuração da decadência, o tribunal de origem assim se manifestou (fls. 154/155):
+2.3.1 - Voltando-se a insurgência contra a aplicação equivocada da norma, ou contra a omissão em aplicá-la, a relação jurídica é considerada de trato sucessivo enquanto não houver a negativa do direito propriamente dito.
+Assim, o prazo para o ajuizamento da ação mandamental se renova mês a mês, devendo ser afastada a decadência.
+Na espécie, verifica-se que o ato que converteu o Adicional de Qualificação (AQ) em Adicional de Especialização (AE), acarretando diminuição na remuneração dos servidores deu-se através da Portaria 2.184 de novembro de 2014, sendo que o mandamus foi impetrado tão somente em setembro de 2015, muito além do prazo de 120 (cento e vinte) dias preconizado na Lei n. 12.016/09, o que conduz ao reconhecimento da decadência do direito à impetração do writ.
+Registre-se, por oportuno, que a jurisprudência desta Corte firmou-se no sentido de que descabe falar em relação de trato sucessivo em hipóteses, como a dos autos, em que se ataca ato comissivo de efeitos concretos.
+Confiram-se os precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDORA PÚBLICA. DEMISSÃO. IMPETRAÇÃO DO MANDAMUS FORA DO PRAZO LEGAL. TERMO INICIAL. DATA DA PUBLICAÇÃO DO ATO ADMINISTRATIVO NO DIÁRIO OFICIAL. DECADÊNCIA. CONFIGURAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - Nos termos do art. 23, da Lei n. 12.016/2009, "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado".
+III - Tratando-se de ato comissivo, considera-se, como termo inicial do prazo decadencial para a propositura do writ, a data da ciência, ao interessado do ato impugnado e que este revela-se apto à produção de efeitos lesivos à esfera jurídica do impetrante (STF, AgRg no MS 23.528, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 19.08.2011).
+IV - O manejo de pedido de reconsideração ou de recurso administrativo sem efeito suspensivo não tem o condão de suspender ou interromper o prazo para impetração da ação mandamental, consoante inteligência da Súmula 430/STF, in verbis: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança".
+V - Na espécie, a pena de demissão foi aplicada à Recorrente mediante ato publicado no Diário Oficial do Estado do Maranhão n. 183, de 19.09.2013 (fl. 419e), data em se considera ciente a parte interessada, dos respectivos atos, para fins de impetração, nos termos do art. 23, da Lei n. 12.016/2009, não valendo para tanto, conforme reiterada jurisprudência, a aventada notificação ou intimação pessoal posteriormente efetivada. VI - Assim, considerando que o presente mandamus foi impetrado em 25.03.2014 (fl. 5e), ou seja, muito após escoado o prazo decadencial de 120 (cento e vinte) dias, de rigor o reconhecimento da decadência do direito de impetração.
+VII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido (AgInt no RMS 48.480/MA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 25/6/2018).
+ADMINISTRATIVO. PENSÃO ESTATUTÁRIA. ANULAÇÃO. ATO COMISSIVO. DECADÊNCIA E PRESCRIÇÃO DO PRÓPRIO FUNDO DE DIREITO. RECONHECIMENTO.
+1 - O acórdão recorrido encontra-se em dissonância com o entendimento desta Corte Superior, firme no sentido de que o ato administrativo, de natureza comissiva, que suprime vantagem é único e de efeitos permanentes, iniciando-se, com a sua ciência, o prazo decadencial para a impetração do mandado de segurança.
+2 - "A teoria do trato sucessivo restringe-se às hipóteses de impetração contra ato omissivo ilegal da autoridade coatora, devendo o ato comissivo, seja de supressão ou de redução de vencimentos, ser atacado dentro do prazo de que cuida o artigo 18 da Lei nº 1.533/51, atualmente art. 23 da Lei 12.016/09, que devem ser interpretados em harmonia com a natureza e vocação específica do mandado de segurança." (REsp 1195628/ES, Rel. Ministro Castro Meira, Segunda Turma, DJe 1º/12/2010).
+ ..
+4 - Agravo interno a que se nega provimento (AgInt no REsp 1.354.786/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 3/8/2017).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. APOSENTADORIA. SUPRESSÃO DE VANTAGEM. ATO COMISSIVO. DECADÊNCIA. CONFIGURAÇÃO. PRECEDENTES DO STJ.
+1. A impetração, conforme deixam certo a inicial do mandamus e o próprio aresto hostilizado, está voltada contra o Decreto 33/2000, que determinou a supressão de vantagem que vinha sendo recebida pelo autor, cujos efeitos, ainda segundo se extrai da própria petição inicial, o impetrante teve ciência a partir do pagamento referente ao mês de junho/2000.
+2. A jurisprudência predominante neste Superior Tribunal orienta-se no sentido de que o ato administrativo que suprime vantagem é único e de efeitos permanentes, iniciando-se, com a sua ciência, o prazo decadencial para a impetração do mandado de segurança.
+3. Ainda na linha de nossa jurisprudência, "a teoria do trato sucessivo restringe-se às hipóteses de impetração contra ato omissivo ilegal da autoridade coatora, devendo o ato comissivo, seja de supressão ou de redução de vencimentos, ser atacado dentro do prazo de que cuida o artigo 18 da Lei nº 1.533/51, atualmente art. 23 da Lei 12.016/09, que devem ser interpretados em harmonia com a natureza e vocação específica do mandado de segurança." (REsp 1195628/ES, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 23/11/2010, DJe 01/12/2010).
+4. Na mesma esteira, o Supremo Tribunal Federal assentou a compreensão de que "incide a decadência quando a impetração, embora a envolver relação jurídica de débito continuado, está dirigida contra ato comissivo, e não simplesmente omissivo, da autoridade coatora." (MS nº 23.136/PB, Relator o Ministro MARCO AURÉLIO, DJU de 6/5/2005)
+5. Agravo regimental provido para, desde logo, dar provimento ao recurso especial do Município de Cariacica (AgRg no REsp 1.195.389/ES, Rel. Ministro Napoleão Nunes Maria Filho, Rel. p/ Acórdão Ministro Sérgio Kukina, Primeira Turma, DJe 11/12/2015).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO ÚNICO E CONCRETO. TRANSFERÊNCIA PARA A RESERVA. PRAZO DECADENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O ato administrativo (transferência para reserva remunerada) de supressão ou de redução de vantagem remuneratória é comissivo (e não omissivo). Cuida-se de ato único de efeitos concretos e permanentes, situado no próprio fundo de direito; não de relação jurídica de trato sucessivo, a renovar periodicamente o prazo decadencial (mandado de segurança). Precedentes.
+2. Agravo regimental desprovido (AgRg no RMS 37.368/ES, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Primeira Turma, DJe 6/11/2015).
+Confira-se, ainda, a decisão monocrática: REsp 1.679.294/CE, Rel. Min. Regina Helena Costa, DJe 17/8/2017, transitada em julgado em 11/9/1017.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
