@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo, com pedido de liminar, impetrado em favor de ROMILDO SOUZA FERNANDES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da execução criminal da Comarca de Marília deferiu progressão de pena ao regime semiaberto.
+O Ministério Público interpôs agravo em execução no Tribunal de origem, que lhe deu provimento nos termos seguintes:
+"Ante o exposto, dá-se provimento ao agravo para o fim de, reformando a decisão de fls. 12/13, determinar a realização do exame criminológico para aferir o mérito do Agravado, com o pronunciamento de nova decisão, agora à luz dos novos elementos." (e-STJ, fl. 23.)
+Neste writ, a impetrante alega, em síntese, que o paciente preencheu o requisito objetivo apto à concessão da progressão de regime e que a aferição do requisito subjetivo pode ser feita por atestado de boa conduta pelo diretor do presídio, sendo desnecessário, portanto, o exame criminológico.
+Requer que seja concedida a ordem para cassar a decisão impugnada e manter o paciente no regime semiaberto.
+O pedido liminar foi indeferido (e-STJ, fl. 28).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ, fls. 63-67).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O art. 122 da Lei de Execuções Penais dispõe que, para a concessão da progressão de regime, é necessário o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+No caso em análise, o Juízo da Vara das Execuções deferiu o pedido de progressão ao semiaberto ao paciente, por concluir que foram preenchidos os requisitos objetivos e subjetivos para a concessão do benefício, independentemente da realização de exame criminológico.
+Ao analisar o agravo em execução manejado pelo Ministério Público, o Tribunal de origem reformou a decisão com base nos seguintes fundamentos:
+"Assim, quanto ao mérito, e ainda que o Atestado da Secretaria da Administração Penitenciária (fls. 04) tenha certificado o "bom" comportamento carcerário do Agravado, é de se considerar que: 1. trata-se de agente com personalidade violenta e que foi condenado pela prática de crimes graves (vários roubos - praticados com violência ou grave ameaça à pessoa) e que causam intranquilidade social, especialmente porque agridem a paz pública, exigindo-se redobrada e minuciosa análise do requisito subjetivo (fls. 04/07); 2. o término de cumprimento de pena está previsto para 13.02.2025 (fls. 04v).
+A avaliação de mérito deve ser feita de forma global e não por meio de uma mera declaração de funcionário administrativo, restrita, aliás, que é à expressão "bom comportamento" - mesmo porque este conceito não abrange a aferição da perigosidade do agente." (e-STJ, fls. 18-19.)
+Verifica-se que o Tribunal de origem indeferiu o pleito de progressão sem a indicação de fundamento idôneo, na medida em que se utilizou tão somente da gravidade abstrata dos delitos praticados e da quantidade de pena a cumprir. Há, portanto, constrangimento ilegal a ser reparado.
+Nesse sentido, confiram-se os seguintes julgados:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME INDEFERIDA PELO JUÍZO DAS EXECUÇÕES. DECISÃO MANTIDA PELO TRIBUNAL A QUO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DOS CRIMES E LONGA PENA A CUMPRIR. FLAGRANTE CONSTRANGIMENTO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA O JUIZ DAS EXECUÇÕES REAPRECIAR O PEDIDO DE PROGRESSÃO.
+- Não há como conhecer de habeas corpus impetrado em substituição a recurso próprio (HC n.109956, Relator Ministro MARCO AURÉLIO, PRIMEIRA TURMA, DJe 11/9/2012). Verifica-se o pedido deduzido na impetração apenas no tocante à existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+- A decisão do Juízo das Execuções, mantida pela Corte Estadual, indeferiu a progressão para o regime semiaberto sem apresentar nenhum elemento concreto para justificar sua conclusão, limitando-se a fazer menção sobre a gravidade abstrata dos roubos praticados, que já foi valorada na fixação das penas prevista para o tipo penal e na longa pena a ser cumprida. Ao determinar a manutenção do apenado ao regime fechado sem apontar elementos idôneos e específicos do caso em análise, o Tribunal a quo manteve o sentenciado submetido a flagrante constrangimento ilegal, o que justifica a concessão de habeas corpus de ofício. Precedentes.
+Habeas corpus não conhecido. Concedida a ordem, de ofício, para determinar ao juízo das execuções que reaprecie o pedido de progressão de regime do apenado levando em consideração elementos concretos pertinentes à execução."
+(HC 302.191/SP, rel. Ministro ERICSON MARANHO, Desembargador convocado do TJ/SP, SEXTA TURMA, j. 6/8/2015, DJe 28/8/2015.)
+"HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INCIDÊNCIA DA SÚMULA 439/STJ. REQUISITO SUBJETIVO. AUSÊNCIA DE MOTIVAÇÃO.
+1. A Lei n. 10.792/2003 deu nova redação ao art. 112 da Lei n. 7.210/1984, para suprimir a realização de exame criminológico como expediente obrigatório para a progressão de regime. 2. "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Súmula 439/STJ).
+3. No caso, o Tribunal de origem ao revogar a progressão de regime não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que podem afastar a decisão do magistrado, levando em conta apenas a gravidade do delito praticado e a longa pena a cumprir, desconsiderando, ainda, a boa conduta carcerária da paciente.
+4. Ordem concedida para restabelecer a decisão de primeiro grau que deferiu à paciente a progressão para o regime semiaberto."
+(HC 398.237/SP, rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, j. 6/6/2017, DJe 13/6/2017.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LONGA PENA A CUMPRIR. AGENTE REINCIDENTE. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça, sem prejuízo da verificação das alegações expostas na inicial ante a possibilidade de se verificar a existência de flagrante constrangimento ilegal.
+2. A longevidade da pena, bem como a gravidade abstrata dos delitos praticados e a reincidência do agente por si sós, não servem como fundamentos para impedir a progressão de regime prisional, devendo ser levados em consideração, para esse fim, os fatos ocorridos no curso da execução penal.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a decisão do Juízo das Execuções que concedeu ao paciente a progressão ao regime semiaberto."
+(HC 387.443/SP, rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, j. 27/4/2017, DJe 11/5/2017.)
+Destaca-se, ainda, que o entendimento jurisprudencial do STJ é de que "o Juiz ou Tribunal deve se ater, quando da análise dos requerimentos e incidentes da fase executória, aos fatos ocorridos durante o cumprimento da pena" (STJ, HC 269237/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 1º/7/2013).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus. De ofício, concedo a ordem para cassar o acórdão impugnado, restabelecendo a decisão singular.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, arquivem-se os autos.
