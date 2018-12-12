@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+ Trata-se de agravo interno manejado por Fundo Único de Previdência Social do Estado do Rio de Janeiro contra decisão que negou seguimento ao agravo em recurso especial por intempestividade (e- STJ, fls. 272-273):
+Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 14/12/2012, sendo o recurso especial interposto somente em 25/01/2013. Dessa forma, inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 30 (trinta) dias, nos termos do art. 508 do Código de Processo Civil de 1973, c.c. o art. 188 do mesmo diploma legal. Conforme jurisprudência dominante nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido. Nesse sentido, o AgRg no AREsp 527.290/MG, Rei. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/08/2014, DJe 22/08/2014.
+O recorrente alega que o agravo em recurso especial é tempestivo, tendo em vista o entendimento da Corte Especial deste Superior Tribunal de Justiça que viabiliza, na égide do CPC/1973, a comprovação posterior.
+Argumenta, que, "em relação ao funcionamento do Tribunal de Justiça do Estado do Rio de Janeiro, para fim de comprovação, o Fundo Único De Previdência Social do Estado do Rio de Janeiro apresenta, nesta ocasião, o ato legislativo publicado que suspendeu os prazos processuais, bem como calendário publicado pelo TJRJ" (e-STJ, fl. 281).
+Por fim, salienta que o agravo em recurso especial é tempestivo, ante a ocorrência de suspensão dos prazos processuais no período de 20/12/2012 a 6/1/2012, recesso judiciário instituído pela Resolução n. 21/2008 (comprovação anexada) e Ato Executivo n. 5.432/2011, cuja cópia foi juntada para comprovar o alegado.
+É o relatório.
+Decido.
+A Corte Especial, no julgamento do AgRg no AREsp 137.141/SE, Rel. Min. Antonio Carlos Ferreira, conferiu à parte a oportunidade de comprovar a existência de feriado ou recesso local posteriormente, por ocasião da interposição do agravo interno/regimental contra a decisão que reconhecera a intempestividade do recurso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial. (AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/9/2012, DJe 15/10/2012)
+À época da vigência do CPC/1973, era firme a jurisprudência desta Corte de que eventual suspensão do prazo recursal, decorrente de ausência de expediente, recesso forense, feriados locais, paralisação ou interrupção do expediente, poderia ser demonstrada no agravo contra a decisão que reconhecia a intempestividade, desde que a comprovação se desse por documento oficial ou certidão expedida pelo Tribunal de origem.
+No presente caso, está devidamente demonstrada a suspensão dos prazos processuais no âmbito do Tribunal de Justiça do Estado do Rio de Janeiro no período de 20/12/2012 a 6/1/2012, de forma que é tempestivo o agravo em recurso especial.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte Superior, determinando o retorno dos autos a esta relatoria para nova apreciação do agravo, sem prejuízo de novo juízo de admissibilidade.
+Publique-se. Intimem-se.
