@@ -1,0 +1,63 @@
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. REDISCUSSÃO DO JULGADO.
+1. Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. No caso, não estão presentes quaisquer dos vícios autorizadores do manejo dos embargos declaratórios, estando evidenciado, mais uma vez, o exclusivo propósito da parte embargante em rediscutir o mérito das questões já devidamente examinadas por esta Corte.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração opostos pelo Estado do Acre contra acórdão proferido pela Segunda Turma que negou provimento ao agravo interno, nos termos da seguinte ementa (e-STJ, fl. 807):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO.
+MANDADO DE SEGURANÇA. LICITAÇÃO. CADASTRAMENTO DE FORNECEDORES. EXIGÊNCIA DE APRESENTAÇÃO DE NOTAS FISCAIS. NÃO IMPUGNAÇÃO DE FUNDAMENTO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões levantadas pelo recorrente.
+2. Sendo assim, não há que se falar em omissão, obscuridade, contradição ou erro material do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+3. O acórdão de origem, além de estar fundamentado na ilegalidade de exigência das notas fiscais - ponto atacado pelo agravante nas razões do apelo nobre -, também se amparou na falta de razoabilidade e em jurisprudência do STJ. No entanto, a insurgência deixou incólumes tais justificativas.
+4. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+5. Agravo interno a que se nega provimento.
+Em suas razões, o embargante alega que há omissão quanto aos argumentos suscitados no agravo interno, pois os fundamentos do acórdão embargado foram os mesmos utilizados na decisão monocrática agravada, o que viola os arts. 489, § 1º, III, IV e V, e 1.022, II, do CPC/2015.
+Sustenta que (e-STJ, fl. 830):
+É certo que o Estado do Acre pugnou pelo malferimento do art. 535, inciso II, do CPC/73. Entretanto, MM. Min. Relator entendeu que nesse tocante incidia sobre a argumentação do Estado do Acre o disposto na Súmula 283/STF.
+ ..
+Resta claro que jamais foi enfrentado o argumento do Estado do Acre no tocante a alegada afronta ao art. 43, §3º, da Lei nº 8.666/93 em sede de Recurso Especial, visto que não consignou devidamente a forma em que foram exigidas as notas fiscais, uma vez que o Tribunal a quo houve por bem adotar uma premissa, data venia, equivocada.
+Igualmente, jamais foi analisado o fato de que esse próprio Col. Tribunal Superior a ilegalidade da medida com base no art. 30 e seguintes da Lei de Licitações, alegando que a exigência de apresentação das notas fiscais deu-se no Edital. Portanto, houve clara contradição que inevitavelmente interferiu no juízo de mérito do Tribunal, que não analisou a questão sobre a ótica do art. 43, §3º, da Lei nº 8.666/93.
+Defende que houve ofensa ao art. 535 do CPC/1973 pelo Tribunal de origem e que não incide na espécie o óbice da Súmula 283/STF.
+Sem impugnação da parte embargada.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado e corrigir erros materiais.
+O CPC/2015 equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+No caso, não estão presentes quaisquer dos vícios autorizadores do manejo dos embargos declaratórios, estando evidenciado, mais uma vez, o exclusivo propósito do embargante em rediscutir as questões já devidamente examinadas.
+Esta Turma foi clara e coerente ao expor os fundamentos pelos quais negou provimento ao agravo interno, entendendo que não houve omissão da Corte a quo, bem como que incide, na espécie, a Súmula 283/STF.
+Destaco que o óbice da Súmula 283/STF não recaiu sobre à alegação de violação do art. 535 do CPC/1973, mas sobre a questão de fundo do apelo nobre, sendo certo que a controvérsia acerca da omissão do Tribunal de origem foi analisada no mérito, uma vez que se decidiu, efetivamente, pela ausência de omissão daquela Corte.
+Note-se que o referido verbete sumular foi aplicado na medida em que constituiu impedimento para a análise das demais questões suscitadas nas razões do recurso especial, o que envolve a alegação de violação do art. 43, § 3º, da Lei n. 8.666/1993. É o que se verifica do seguinte trecho destacado do acórdão embargado (e-STJ, fls. 810/812):
+Segundo consignado na decisão agravada, não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões levantadas pelo recorrente, conforme se depreende do seguinte excerto do voto condutor (e-STJ, fls. 661/662):
+ ..
+Sendo assim, não há que se falar em omissão, obscuridade, contradição ou erro material do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+ ..
+Quanto à questão de fundo, também não vejo razões para se alterar a decisão combatida, uma vez que o acórdão de origem, além de estar fundamentado na ilegalidade de exigência das notas fiscais - ponto atacado pelo agravante nas razões do apelo nobre -, também se amparou na falta de razoabilidade e em jurisprudência do STJ. No entanto, a insurgência deixou incólume tais justificativas.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo (grifos acrescidos).
+Destaco que o óbice processual que incide no caso - Súmula 283/STF - impede o exame das questões de mérito quanto ao ponto, porque não ultrapassada a admissibilidade recursal.
+Ressalto, ainda, que se os argumentos do agravo interno são os mesmos de recursos anteriores ou incapazes de alterar a decisão combatida, não há razão para se afastar os mesmos fundamentos do decisum agravado utilizados para rebatê-los.
+Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+No ponto:
+PROCESSUAL CIVIL E PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM ARESP. INEXISTÊNCIA DE FUNDAMENTAÇÃO DEFICIENTE NO ACÓRDÃO EMBARGADO. REPETIÇÃO, NO REGIMENTAL, DOS FUNDAMENTOS POSTOS NA DECISÃO MONOCRÁTICA DO RELATOR: POSSIBILIDADE QUANDO AS RAZÕES DO REGIMENTAL REPISAM OS MESMOS ARGUMENTOS DO ARESP, JÁ REBATIDOS PELO RELATOR. INTELIGÊNCIA DOS ARTS. 1.021, § 3º E 489, § 1º, IV, CPC/2015. OMISSÃO INEXISTENTE.
+1. A diretriz trazida no art. 1.021, § 3º, do CPC/2015 deve ser interpretada em conjunto com a regra do art. 489, § 1º, IV, do mesmo Código, que somente reputa nula a decisão judicial que deixa de "enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim sendo, se o recorrente insiste na mesma tese, repisando as mesmas razões já apresentadas em recurso anterior, ou se se limita a produzir novos argumentos que não se revelam capazes de abalar as razões de decidir já explicitadas pelo julgador, não há como se vislumbrar nulidade na repetição, em sede de regimental, dos mesmos fundamentos já postos na decisão monocrática impugnada.
+2. Não constitui ofensa ao art. 1.021, § 3º, do novo CPC a repetição, no voto condutor do agravo regimental, das mesmas razões de decidir já postas na decisão agravada.
+3. Não há como se alegar omissão no tocante à possibilidade de aplicação do princípio da consunção ao caso concreto, se tanto a ementa quanto o voto condutor do acórdão embargado deixaram claro que a alteração contratual ideologicamente falsa protagonizada pelo embargante para se eximir da responsabilidade pelos encargos de empresa - que, na realidade, era sua - não se prestou apenas à sonegação fiscal, mas também ao cometimento de ilegalidades trabalhistas e a gerar entraves para a responsabilização patrimonial do verdadeiro proprietário da empresa tanto na esfera judicial, quanto, potencialmente, em relação a eventuais credores.
+4. O fato de o embargante não considerar aceitáveis ou suficientes as justificativas apresentadas por esta Corte para rejeitar os argumentos por ele postos em seu recurso denotam, na realidade, seu inconformismo com o resultado do julgamento e a intenção de rediscutir os fundamentos do acórdão, situações essas não autorizadas no âmbito dos embargos de declaração, que não se prestam a tal finalidade.
+5. Os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Portanto, a mera irresignação com o entendimento apresentado na decisão, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 1.072.977/DF, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/9/2017, DJe 20/9/2017 - grifos acrescidos)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. Argumenta-se que as questões levantadas no agravo denegado, capazes, em tese, de infirmar a conclusão adotada monocraticamente, não foram analisadas pelo acórdão embargado (art. 489 do CPC/2015).
+Entende-se, ainda, que o art. 1.021, § 3º, do CPC/2015 veda ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno.
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4.Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, de minha relatoria, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e sim rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
