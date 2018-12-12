@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP contra decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. PREMISSA DO JULGAMENTO. PROVAS DOS AUTOS. CONTRARIEDADE. ACOLHIMENTO. EFEITOS INFRINGENTES. ALTERAÇÃO DO JULGADO. O artigo 1.022, do Código de Processo Civil, estabelece as hipóteses de cabimento dos embargos de declaração, quais sejam: a existência de obscuridade, contradição, omissão ou a necessidade de correção de erro material. Padece de contradição julgado que se fundamenta em premissa dissociada dos elementos informativos dos autos, sendo os embargos de declaração passíveis de acolhimento.
+Considerando que o condomínio que existia entre o particular e o Poder Público era pro diviso, uma vez que a área de cada parte estava delimitada, possível a usucapião da parte privada.
+Não há impedimento para a usucapião de parte do imóvel registrado em nome da parte ré, sobretudo porque preenchido os pressupostos da usucapião extraordinária. Nos termos do artigo 1.241, parágrafo único, do Código Civil, a declaração obtida na forma deste artigo constituirá título hábil para o registro no Cartório de Registro de Imóveis, assim, a sentença de usucapião declaratória, cabendo à parte promover seu registro, após o preenchimento dos requisitos da Lei nº 6.015/73 (efeito secundário da sentença).
+Conforme Enunciado Administrativo nº 7, do Superior Tribunal de Justiça, somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais" (e-STJ fls. 934-935).
+Nas razões do recurso especial (e-STJ fls. 1.037-1.040), a recorrente alega violação do artigo 102 do Código Civil, que proíbe que se opere usucapião em relação a imóvel de natureza pública.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do especial.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Sem razão a recorrente.
+Com efeito, constata-se que todas as conclusões da Corte de origem resultaram da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda.
+É o que se extrai da leitura do voto condutor do julgado ora hostilizado, merecendo destaque os seguintes trechos de sua fundamentação:
+"Sobre os argumentos da TERRACAP, cabe mencionar que estes não foram renovados quando da prolação do acórdão nº 1035981. Não obstante, o argumento de não ser possível a usucapião da faixa de domínio da DF-005 não prevalece, por um simples motivo: a área usucapienda descrita na inicial não inclui a referida faixa de domínio, de acordo com o que foi constatado pelo próprio DER/DF4) (fl. 400):
+"Mediante o exposto, afirmamos que a área usucapienda está localizada fora dos limites da faixa de domínio da rodovia DF - 005, porém, houve um avanço de sua cerca e de seus limites para a faixa de domínio, sendo ocupada irregularmente uma área aproximada de 0,27 hectares."
+Em outras palavras, os Embargados não pretendem usucapir terra pública. Esta informação é corroborada pelos despachos do DER de fls. 426 e 427. No que se refere a eventual ocupação além da área usucapienda, cabe à Administração Pública exercer a fiscalização, uma vez que não diz respeito ao objeto da presente demanda, conforme apontado pelo Magistrado a quo (fls. 570/571):
+"A limitação administrativa relativa à área de recuo próxima à rodovia não é incompatível com a propriedade, embora o proprietário deva respeitar a limitação respectiva, em prol da segurança coletiva e de sua própria família. Assim, o tema da invasão, pelo usucapiente, da borda da rodovia, deverá ser objeto do procedimento administrativo próprio, fundado em poder de polícia, pelo órgão competente, o que não impede a propriedade, não obstante restrinja seu uso" (e-STJ fls. 1.026-1.027).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
