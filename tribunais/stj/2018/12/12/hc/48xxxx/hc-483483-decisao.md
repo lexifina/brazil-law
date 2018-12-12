@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. ART. 157, § 2º, I E II, DO CP. DOSIMETRIA DA PENA. EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE EXAME PERICIAL. IRRELEVÂNCIA. PRECEDENTES. AUMENTO DE 3/8 NA TERCEIRA FASE. CRITÉRIO ARITMÉTICO. SÚMULA 443/STJ. EVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME INICIAL. JUSTIFICADA A IMPOSIÇÃO DO SEMIABERTO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+No Processo n. 0001374-91.2015.8.26.0530, o Juízo da 1ª Vara Criminal da comarca de Ribeirão Preto condenou [NOME] e [NOME] por incursos no art. 157, § 2º, I e II, do Código Penal, às penas, respectivamente, de 6 anos e 5 meses de reclusão e de 5 anos e 6 meses de reclusão, ambas em regime inicial semiaberto, mais multa.
+O Tribunal de Justiça de São Paulo negou provimento ao recurso de Edson e deu parcial provimento ao apelo de [NOME] para reduzir a sua pena a 5 anos e 6 meses de reclusão, mantida, no mais, a sentença.
+Sobreveio o presente habeas corpus, em que a Defensoria Pública aponta constrangimento ilegal decorrente do reconhecimento do uso de arma de fogo sem prévio laudo atestando a potencialidade lesiva do instrumento e da ausência de motivação idônea para o aumento da pena na terceira fase em patamar superior a 1/3 e para o estabelecimento do regime inicial semiaberto.
+Postula, assim, inclusive em caráter liminar, a reforma do cálculo da reprimenda, a fim de que a fração de aumento pelo concurso de majorantes seja fixada no mínimo legal. Requer, ainda, a adoção do regime aberto para o início do cumprimento da pena.
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine, embora em menor extensão do que a pretendida.
+De início, observo que, conforme a firme jurisprudência desta Corte, para a incidência da causa especial de aumento prevista no art. 157, § 2º, inciso I, do Código Penal, é dispensável a apreensão e realização de perícia no respectivo objeto, desde que existentes outros meios que comprovem a utilização da arma de fogo na prática delituosa (HC n. 449.697/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/6/2018), não havendo ilegalidade a ser reparada no ponto.
+Sucede que, para fixar a fração de aumento na terceira fase em 3/8, as instâncias a quo disseram simplesmente o seguinte (fl. 24):
+ ..
+Restando caracterizadas as duas causas de aumento, tem-se por necessária e adequada a majoração da reprimenda acima do mínimo permitido. Isso não apenas pelo número de circunstâncias, mas pela gravidade com a qual cada uma delas se pautou no caso concreto.
+Ora, o crime foi cometido em concurso de agentes, os quais bem se organizaram para a perpetração do crime, o que foi reforçado, também, pelo revólver que portavam, denotando maior gravidade da conduta dos criminosos, que impossibilitaram qualquer forma de resistência por parte das vítimas.
+Embora tenha sido feita menção à existência de gravidade concreta em cada uma das circunstâncias, vê-se que o aumento de 3/8 na terceira fase da dosimetria deu-se, essencialmente, em razão do número de majorantes.
+Ora, em se tratando de roubo com a presença de mais de uma causa de aumento, o acréscimo requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um aumento mais expressivo, não sendo suficiente a simples menção ao número de majorantes presentes. Súmula n.º 443 desta Corte (HC n. 370.994/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/2/2017).
+Quer dizer, no caso, há que se fazer pequeno reparo na dosimetria, a fim de se aplicar, na terceira fase, a fração mínima de 1/3, ficando as penas reclusivas dos pacientes definitivamente estabelecidas em 5 anos e 4 meses.
+No tocante ao regime, porém, além de o réu [NOME] ser reincidente, as circunstâncias em que cometido o crime, sobretudo o grau de organização verificado na empreitada criminosa - elemento devidamente mencionado pelo magistrado de piso -, impede a fixação de modalidade mais branda.
+Ante o exposto, concedo liminarmente a ordem para reduzir ao mínimo legal (1/3) o aumento da reprimenda procedido na terceira etapa da dosimetria, ficando as penas dos ora pacientes estabelecidas, ambas, em 5 anos e 4 meses de reclusão, em regime inicial semiaberto, mais 13 dias-multa (Processo n. 0001374-91.2015.8.26.0530, da 1ª Vara Criminal da comarca de Ribeirão Preto).
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
