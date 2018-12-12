@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RODRIGO LUIS GRIMA CAMPOS contra a decisão proferida no âmbito do Tribunal de Justiça do Estado de São Paulo que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado a 3 anos e 6 meses de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 180, § 1º, do Código Penal. Essa pena foi substituída por duas restritivas de direitos.
+O Tribunal de origem negou provimento ao apelo do réu. Eis a respectiva ementa (e-STJ fl. 247):
+APELAÇÃO CRIMINAL. RECEPTAÇÃO QUALIFICADA (ART. 180, § 1º, DO CP). Preliminar - anulação do feito por ausência de citação valida inadmissibilidade - oficial de justiça que certificou as diversas tentativas de intimar o réu - recusa do recorrente em receber a intimação - ausência de prejuízo ao réu. Mérito Absolvição por falta de provas - inocorrência - materialidade e autoria delitivas comprovadas. Impossibilidade de afastamento da qualificadora. Pena, com substituição, e regime aplicados de forma adequada. Sentença mantida. Afastada a preliminar. Recurso desprovido.
+Nas razões do recurso especial, o recorrente sustenta negativa de vigência do art. 370 do Código de Processo Penal. Alega que deve ser reconhecida nulidade por ausência de intimação válida do réu. Defende violação ao art. 59 do Código Penal, aduzindo indevida o aumento da pena-base em razão do valor ou da natureza do objeto. Subsidiariamente, confiando na fixação da pena-base no mínimo legal, alega que faz jus ao regime semiaberto. Por fim, aduz contrariedade ao art. 45 do Código Penal, asseverando que o valor da prestação é muito elevado.
+Contrarrazões às e-STJ fls. 288/298.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 384/387).
+É o relatório. Decido.
+Verifica-se que o acórdão recorrido afastou a preliminar suscitada na apelação, de nulidade por ausência de intimação válida, por fundamentos diversos, dentre os quais, a preclusão e a ausência de demonstração de prejuízo.
+Contudo, o recorrente não impugnou de forma específica esses fundamentos, que, por si sós, são suficientes para a manutenção dessa parte da decisão, sendo forçoso o reconhecimento do óbice da Súmula n. 283/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1597699/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016)
+Com relação à aduzida violação ao art. 59 do Código Penal, também não há de ser conhecido o recurso especial.
+Com efeito, a tese deduzida no recurso especial não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n.s 282 e 356/STF.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017)
+Logo, nesse ponto, o recurso especial não merece conhecimento. Ademais, consequentemente, fica prejudicada a questão do regime inicial prisional.
+Por fim, quanto ao valor da pena de prestação pecuniária, o acórdão recorrido se manifestou de forma sucinta, nos seguintes termos (e-STJ fl. 254):
+A prestação pecuniária foi bem dosada conforme determina a lei, levando em consideração as circunstâncias e características do crime, bem como a situação econômica do recorrente, não existindo qualquer motivo para redução.
+Na hipótese, diante do que foi consignado a respeito dessa questão pelo Tribunal de origem, examinar a desproporcionalidade dessa sanção exigiria, necessariamente, o reexame dos elementos fático-probatórios dos autos, o que é vedado pela Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. CONDENAÇÃO ALCANÇADA PELO PERÍODO DEPURADOR. APTIDÃO PARA CARACTERIZAR MAUS ANTECEDENTES. SÚMULA 83 DO STJ. PRETENSÃO DE REDUZIR PENA PECUNIÁRIA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Com efeito, "a jurisprudência deste Tribunal é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, como no presente caso, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base acima do mínimo legal" (AgRg no REsp 1719831/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/06/2018, DJe 01/08/2018). Incidência da Súmula 83 do STJ.
+2. Corte originária asseverou que a pena pecuniária em 02 (dois) salários-mínimos é proporcional e razoável, não existindo nenhum "argumento plausível que justifique a redução do valor da pena pecuniária para um salário mínimo". Desse modo, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ. 3. Agravo regimental improvido. (AgRg no AREsp 1306931/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/09/2018, DJe 14/09/2018)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
