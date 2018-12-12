@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DANILO ROBERTO DOS PASSOS e OUTROS, contra decisão denegatória de seguimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 684, e-STJ):
+AÇÃO INDENIZATÓRIA - AGRAVO RETIDO - CDC E INVERSÃO ÔNUS PROVA - VÍCIO EXTRA PETITA - ILEGITIMIDADE PASSIVA - FALHA NA PRESTAÇÃO DOS SERVIÇOS - DANO MORAL CONFIGURADO - RESPONSABILIDADE SOLIDÁRIA - QUANTUM INDENIZATÓRIO - ADEQUAÇÃO - TERMO INICIAL DOS JUROS E CORREÇÃO - RESPONSABILIDADE CONTRATUAL - HONORÁRIOS DE SUCUMBÊNCIA - ADEQUAÇÃO. O deferimento do pedido de inversão do ônus da prova exige a verossimilhança das alegações e a hipossuficiência técnica do consumidor (CDC, art. 6º). Ausente tais requisitos, não há como deferir o pedido de inversão do ónus da prova. A legitimidade ad causam refere-se ao exame da pertinência subjetiva abstrata com o direito material controvertido. O hospital e a funerária respondem solidariamente pelos danos causados em razão de falha na prestação do serviço (CDC, art. 7º, parág. único). O valor da indenização deve ser arbitrado com moderação, a fim de não servir como fonte de enriquecimento e nem consubstanciar incentivo à reincidência do ato ilícito. Mantém-se a quantia arbitrada quando fixada em atenção às peculiaridades do caso. Nas demandas fundadas em responsabilidade contratual, os juros de mora fluem a partir da citação (art. 405 do CC) e a correção monetária do evento danoso (STJ, súm. 262). O valor dos honorários advocatícios deve ser arbitrado considerando o tempo de duração do processo, o local de prestação dos serviços, o grau de zelo profissional, bem como a natureza e importância da causa (CPC/73, art. 20, §§ 3º e 4º).
+Opostos embargos de declaração (fls. 700/709, e-STJ), esses foram acolhidos. Eis a ementa do julgado (fl. 720, e-STJ):
+EMBARGOS DE DECLARAÇÃO - DIREITO PROCESSUAL CIVIL - VÍCIOS DEMONSTRADOS. Os embargos de declaração se prestam a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material nas decisões judiciais (NCPC, art. 1.022). Verificada a ocorrência de qualquer dessas hipóteses, o recurso deve ser acolhido para garantir a esperada prestação jurisdicional.
+Nas razões do especial (fls. 740/759, e-STJ), os insurgentes apontaram violação aos artigos 398 e 944 do Código Civil. Sustentaram, em síntese: i) a necessidade de majoração do quantum indenizatório, pois fixado em patamar irrisório, diante da circunstância do caso; ii) termo inicial dos juros de mora deve ser a data do evento danoso.
+Contrarrazões às fls. 785/815, e-STJ.
+Em juízo provisório de admissibilidade (fls. 840/842, e-STJ), negou-se seguimento ao reclamo, sob o fundamento de incidência das Súmulas 7 e 83 do STJ.
+Daí o agravo (fls. 845/865, e-STJ), buscando destrancar o processamento daquela insurgência, no qual os insurgentes refutam os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 868/890, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Incide o enunciado da Súmula n. 7 do STJ no que tange ao exame da pretensão voltada à majoração da verba indenizatória fixada em R$ 20.000,00 (vinte mil reais).
+Não obstante o grau de subjetivismo que envolve o tema, uma vez que não existem critérios predeterminados para a quantificação do dano moral, esta Corte Superior tem reiteradamente se pronunciado no sentido de que a indenização deve ser suficiente a restaurar o bem estar da vítima, desestimular o ofensor em repetir a falta, não podendo, ainda, constituir enriquecimento sem causa ao ofendido.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+Assim, se o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (RESP 259.816/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 27/11/2000).
+No caso em tela, a Corte local, ao considerar os critérios acima estabelecidos, reputou adequado o arbitramento da indenização em R$ 20.000,00 (vinte mil reais), valor este que não refoge à razoabilidade, consoante denota o seguinte trecho do acórdão recorrido (fl. 695, e-STJ):
+Da análise das circunstâncias do caso, especialmente que a mãe dos Autores já estava falecida, não se ignorando, por outro lado, que o fato constitui desrespeito à pessoa morta e à sua família, com vistas a evitar que a reparação se torne mais interessante do que a própria inexistência do fato, a importância arbitrada em primeiro grau (R$20.000.00 para cada um dos seis Autores) é justa e razoável, não sendo o caso de adequação.
+Ressalte-se que a revisão do quantum somente se justifica quando for discrepante, irrisório ou exorbitante, não sendo este o caso dos autos.
+Dessa forma, para modificar as conclusões consignadas no acórdão impugnado e concluir estar irrisório o quantum indenizatório como quer a parte recorrente, seria necessária a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial (Súmula nº 7 do STJ).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. CONTRATO DE ASSISTÊNCIA FUNERÁRIA. ÓBITO DO BENEFICIÁRIO. INCÚRIA DA EMPRESA. DANOS MORAIS CARACTERIZADOS. QUANTUM. REDUÇÃO. INVIABILIDADE. VALOR RAZOÁVEL. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 317.635/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/08/2014, DJe 02/09/2014)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. MAJORAÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O valor fixado a título de indenização por danos morais só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+3. O STJ firmou entendimento de ser incabível a análise do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1349749/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/11/2018, DJe 21/11/2018)
+2. Quanto ao termo a quo dos juros moratórios, consoante a jurisprudência desta Corte Superior, em caso de responsabilidade contratual, como ocorre in casu, incidem desde a citação.
+Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. LIQUIDAÇÃO EXTRAJUDICIAL NÃO IMPEDE A FLUÊNCIA DE JUROS E CORREÇÃO MONETÁRIA. JUROS DE MORA. DATA DA CITAÇÃO. RECURSO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 1.022 do NCPC, tendo em vista que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+2. Nos casos de indenização por responsabilidade contratual, como nos autos, a mora constitui-se a partir da citação e não da data do arbitramento do valor indenizatório. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1658983/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+3. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
