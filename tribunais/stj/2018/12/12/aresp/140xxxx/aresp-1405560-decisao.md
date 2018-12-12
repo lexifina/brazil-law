@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal a 3ª Região, assim ementado (fls. 187/178):
+DIREITO PROCESSUAL E PREVIDENC1ÁRIO. BENEFÍCIO DE AUXÍLIO-DOENÇA/APOSENTADORIA POR 1NVAL1DEZ. REQUISITOS LEGAIS PREENCHIDOS. TERMO INICIAL. CONSECTÁRIOS.
+- A Lei nº 8.213/91 preconiza, nos arts. 42 a 47, que o benefício previdenciário da aposentadoria por invalidez será devido ao segurado que tiver cumprido o período de carência exigido de 12 (doze) contribuições mensais, estando ou não em gozo de auxílio-doença, for considerado incapaz e insusceptível de reabilitação para o exercício da atividade que lhe garanta a subsistência e a condição de segurado.
+- No caso dos autos, a parle autora logrou demonstrar a incapacidade laborativa de forma total e temporária, sendo devida a concessão do benefício de auxílio-doença.
+- Laudo que fixou a data da incapacidade na data da perícia. A autora contava com qualidade de segurada na data da citação. Procedência do pedido.
+- O termo inicial do benefício deve ser fixado na data da citação,
+em observância à Súmula n. 576 do Superior Tribunal de Justiça, compensando-se os valores eventualmente pagos a título de auxílio-doença ou outro benefício cuja cumulação seja vedada por lei (art. 124 da Lei 8.213/1991 e art. 20, § 4º, da Lei 8.742/1993) após a data de início do benefício concedido nesta ação.
+- Os juros de mora são devidos na ordem de 6% (seis por cento) ao ano, a partir da citação, até a entrada em vigor da Lei nº 10.406/02, após, à razão de 1% ao mês, nos termos do art. 406 do Código Civil e, a partir da vigência da Lei nº 11.960/2009,0,5% ao mês.
+- A correção monetária deve ser aplicada nos lermos da Lei n. 6.899/81 e da legislação superveniente, hem como do Manual de Orientação de Procedimentos para os cálculos na Justiça Federal, observado o disposto na Lei n. 11.960/2009, consoante Repercussão Geral no RE n. 870.947, em 16/4/2015, Rei. Min. Luiz Fux.
+- Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4o, c.c. §11, do artigo 85, do CPC/2015.
+- Remessa oficial não conhecida. Apelação do réu provida em parte.
+Nas razões do apelo especial, aponta o recorrente violação aos arts. 46 e 59 da Lei 8.213/91, sustentando que "restou comprovado que o segurado laborou como empregado durante o período de suposta incapacidade, não justificando o recebimento do salário cumulado com o benefício previdenciário de auxílio-doença ou aposentadoria por invalidez" (fl. 207).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+A controvérsia diz respeito à possibilidade de recebimento de benefício por incapacidade no período em que o segurado permaneceu no exercício de atividade laborativa, recebendo, portanto, remuneração.
+A Corte de origem decidiu a controvérsia em acordo com a jurisprudência da Primeira Turma desta Corte Superior, que possui entendimento no sentido de que "Não se pode admitir que o exercício de atividade remunerada, por si só, possa elidir o direito à percepção do benefício por incapacidade, isto porque o indeferimento do benefício pela Autarquia Previdenciária coloca o Segurado em risco social, em estado de necessidade, compelido a superar suas dificuldades físicas para buscar meios de manutenção e sobrevivência." (REsp 1573146/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 13/11/2017).
+A propósito, confira-se a ementa do referido julgado:
+PREVIDENCIÁRIO E PROCESSUAL. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ CONCEDIDA JUDICIALMENTE. PAGAMENTO DE PARCELAS PRETÉRITAS DO BENEFÍCIO COINCIDENTES COM PERÍODO EM QUE HOUVE EXERCÍCIO DE ATIVIDADE REMUNERADA, MESMO ESTANDO O SEGURADO INCAPACITADO. CABIMENTO. ENTENDIMENTO EM HARMONIA COM A SÚMULA 72 DA TNU. RECURSO ESPECIAL DO SEGURADO A QUE SE DÁ PROVIMENTO.
+1. O Segurado que, mesmo considerado incapaz em termos previdenciários, retorna ao trabalho para manter seu sustento enquanto aguarda a definição sobre a concessão do benefício por incapacidade, não pode ser penalizado com o não recebimento do benefício neste período.
+2. Não se pode admitir que o exercício de atividade remunerada, por si só, possa elidir o direito à percepção do benefício por incapacidade, isto porque o indeferimento do benefício pela Autarquia Previdenciária coloca o Segurado em risco social, em estado de necessidade, compelido a superar suas dificuldades físicas para buscar meios de manutenção e sobrevivência.
+3. Deve-se olhar a situação com enfoque na efetiva proteção social que a demanda exige, não havendo que se falar em concomitância de exercício de atividade remunerada com a percepção de benefício por incapacidade, e sim na reparação da injusta situação a que foi submetido o Segurado. Retirar da entidade previdenciária o dever de conceder o benefício a quem realmente faz jus seria como premiar a Administração Pública com o enriquecimento sem causa.
+4. Recurso Especial do Segurado a que se dá provimento.
+(REsp 1573146/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 13/11/2017)
+Por conseguinte, não se vislumbra, de plano, qualquer violação aos artigos de lei federal invocados, de forma que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
