@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL (ART. 133 DO CTN). DISCUSSÃO SOBRE A NÃO COMPROVAÇÃO DA AQUISIÇÃO DO ESTABELECIMENTO OU DO FUNDO DE COMÉRCIO PARA FINS DE TRANSFERÊNCIA DA RESPONSABILIDADE TRIBUTÁRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. "O Superior Tribunal de Justiça firmou entendimento de que a incidência do enunciado n. 7 da Súmula desta Corte impede o conhecimento do recurso no que tange à alínea c do inciso III do artigo 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1638034/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 308/311) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. SUCESSÃO EMPRESARIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega, em síntese, o seguinte: a) a despeito da aplicação do óbice da Súmula 7/STJ, pela decisão agravada, o que busca "é a revaloração da prova e dos dados explicitamente admitidos e delineados no acórdão vergastado, o que não implica no vedado reexame do material de conhecimento" (fl. 309); b) "a matéria trazida pelo agravante diz com aplicação do direito ao caso em concreto, não implicando revisão de prova, bem como em virtude de estar devidamente configurado e demonstrado o dissídio pretoriano, sendo desnecessário o reexame de provas" (fl. 309); e c) "os acórdãos paradigmas entendem que a comprovação da aquisição do fundo de comércio ou do estabelecimento comercial é requisito essencial para a incidência do art. 133 do Código Tributário Nacional" (fl. 310).
+Requer seja provido o recurso.
+Não houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL (ART. 133 DO CTN). DISCUSSÃO SOBRE A NÃO COMPROVAÇÃO DA AQUISIÇÃO DO ESTABELECIMENTO OU DO FUNDO DE COMÉRCIO PARA FINS DE TRANSFERÊNCIA DA RESPONSABILIDADE TRIBUTÁRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. "O Superior Tribunal de Justiça firmou entendimento de que a incidência do enunciado n. 7 da Súmula desta Corte impede o conhecimento do recurso no que tange à alínea c do inciso III do artigo 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1638034/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Com efeito, acerca da caracterização da sucessão empresarial, assim se manifestou o acórdão recorrido (fl. 212):
+"Verifica-se que o preenchimento dos requisitos autorizadores do reconhecimento da sucessão empresarial, nos termos da fundamentação, restou largamente demonstrado na espécie, não se mostrando as razões de apelo suficientes para infirmar tal conclusão. Em especial, há que se destacar a conclusão firmada na fundamentação recorrida, não enfrentada no recurso de apelação, segundo a qual "tem-se pela análise da documentação acostada às fls. 18-22, que a Empresa Beatrice não apresentou faturamento a partir do mês de junho de 2007, e passou a declarar-se como inativa após a declaração exercício 2008, ano-calendário 2007, tendo como claro o momento em que a empresa encerrou sua atividade industrial, o que também foi corroborado pela prova testemunhal, qual seja, meados de 2007. Já a empresa Atelier de Costura Bustos Ltda. teve o início de suas atividades logo em seguida, no final de 2007 (fl. 63). Sendo assim, resta evidenciado que houve a continuidade da exploração do negócio, uma vez que, a Empresa Beatrice, apesar de não proceder na sua baixa naquele momento, encerrou sua atividade industrial e, em seguida, deram-se início às atividades da empresa Atelier de Costura Bustos Ltda.""
+Como se verifica do trecho acima transcrito, o Tribunal de origem, com base no contexto fático-probatório dos autos, concluiu pela existência de sucessão empresarial. Em consequência, o acolhimento da pretensão recursal implica o revolvimento da matéria de fato, providência inviável em sede de recurso especial, a teor do óbice contido na Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. INCORPORADOR DO IMÓVEL. SÚMULA 7 DO STJ. RESPONSABILIDADE TRIBUTÁRIA. EXIGÊNCIA DE CND. POSSIBILIDADE.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. A conclusão da Corte de origem, após análise dos autos, foi no sentido de que o recorrente (condomínio) foi o incorporador do imóvel. Conclusão em sentido contrário demandaria reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, sob pena de violar a Súmula 7 do STJ.
+3. O incorporador é o responsável tributário pela arrecadação e recolhimento das contribuições sociais, conforme disposto no art. 30, inciso VI, da Lei n. 8.212/91, o que legitima a exigência de Certidão Negativa de Débitos.
+Recurso especial improvido.
+(REsp 1282596/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/12/2012, DJe 13/12/2012)
+Por fim, a divergência jurisprudencial, com fundamento na alínea c do permissivo constitucional, sob tal enfoque, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. USUCAPIÃO. 1. PREENCHIMENTO DOS REQUISITOS. REVISÃO. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. 2. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 3. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal estadual, soberano na análise das provas, concluído que a agravada cumpriu os pressupostos exigidos pela legislação (art. 1.240 do CC) e que a usucapião está caracterizada na espécie, não se mostra possível modificar tais conclusões por demandar o reexame do conjunto fático-probatório dos autos, procedimento sabidamente vedado na via do recurso especial (Súmula n. 7/STJ).
+2. O Superior Tribunal de Justiça firmou entendimento de que a incidência do enunciado n. 7 da Súmula desta Corte impede o conhecimento do recurso no que tange à alínea c do inciso III do artigo 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo interno desprovido.
+(AgInt no REsp 1638034/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017)
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
