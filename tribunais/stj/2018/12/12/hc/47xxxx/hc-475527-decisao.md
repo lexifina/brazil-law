@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que denegou a impetração originária.
+Consta dos autos que o paciente foi condenado à pena de 8 anos e 3 meses de reclusão, em regime inicial fechado, mais 21 dias-multa, pela prática do delito previsto no art. 121, §2.º, II e IV, c.c art. 14, II, ambos do Código Penal.
+Ato seguinte, a defesa interpôs habeas corpus perante a Corte de origem, que denegou a ordem.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal afirmando que seria devido o abrandamento do regime inicial para o semiaberto pela aplicação do instituto da detração penal, previsto no art. 387, § 2º, do Código de Processo Penal.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que seja alterado o modo prisional para o semiaberto.
+A liminar foi indeferida às fls. 154.
+Prestadas as informações (fls. 158/162 e 172/180), o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO
+Quanto ao pleito de alteração do regime inicial, com a aplicação do instituto da detração, nota-se que o Tribunal impugnado manteve o modo prisional fechado, com os seguintes fundamentos (fl. 145):
+O impetrante sustenta que o paciente faz jus à aplicação da detração e a consequente modificação do regime de cumprimento da pena, do fechado para o semiaberto, nos termos do art. 387, § 2º, do CPP, tendo em vista que permaneceu custodiado durante toda a instrução criminal.
+A teor da jurisprudência reiterada do STJ, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado. (STJ: HC 362939).
+No caso dos autos, a autoridade apontado como coatora, fixou a pena-base acima do mínimo, em razão da desfavorabilidade de algumas circunstâncias judiciais, o que, em princípio, validam a manutenção do modo de execução mais gravoso.
+Assim, não se evidencia nos limites do habeas corpus, coação ilegal na fixação do regime inicial de cumprimento de pena.
+Conclusão Posto isso, indefiro o habeas corpus.
+Dos excertos acima transcritos, verifica-se que a Corte de origem fundamentou o indeferimento do mandamus originário em razão da desfavorabilidade de algumas circunstâncias judiciais, o que, em princípio, validam a manutenção do modo de execução mais gravoso. Todavia, tal entendimento não merece amparo na jurisprudência desta Corte.
+Quanto ao tema, a jurisprudência desta Corte Superior consolidou-se no sentido de que, com o advento da Lei n. 12.736/12, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Entende-se ainda que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, sendo, portanto, desnecessária a análise do requisito subjetivo, ou ainda de outros processos em andamento. A propósito:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONDENAÇÃO. REGIME PRISIONAL. DETRAÇÃO. ART. 387, § 2º, DO CÓDIGO DE PROCESSO PENAL. CONSIDERAÇÃO PELO MAGISTRADO, QUE FIXOU O REGIME SEMIABERTO. MODIFICAÇÃO PELO TRIBUNAL DE ORIGEM SEM MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE RELAÇÃO COM O INSTITUTO DA PROGRESSÃO DE REGIME. ANÁLISE QUE DEVE SER FEITA PELO JUÍZO SENTENCIANTE. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. O § 2.º do art. 387 do CPP, com redação dada pela Lei n.º 12.736/12, não guarda relação com o instituto da progressão de regime, próprio da execução penal, tendo em vista que o legislador cuidou de abranger o referido dispositivo no Título XII - Da Sentença. Diante de tal fato e em razão do próprio teor do dispositivo, que se refere a regime inicial de cumprimento de pena, incumbe ao juízo sentenciante a verificação da possibilidade de se estabelecer regime inicial mais brando, tendo em vista a aplicação da detração no caso concreto. Notabiliza-se, pois, que o mencionado artigo não diz respeito à progressão de regime, motivo pelo qual não há falar em exame dos critérios objetivo (lapso temporal) e subjetivo (comportamento carcerário), até porque tal avaliação invadiria a competência do Juízo das Execuções prevista no art. 66, III, b, da Lei de Execuções Penais.
+2. Hipótese em que o Juiz de primeiro grau entendeu aplicável o regime prisional fechado, diante das circunstâncias concretas do crime. Contudo, dada a detração, estabeleceu o regime inicial intermediário. O Tribunal de origem desconsiderou a detração e fixou o regime mais gravoso, sem fundamentação idônea, confundindo o instituto da detração com a progressão de regime.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de restabelecer o regime inicial semiaberto fixado pelo Juiz a quo, dada a detração, nos termos do art. 387, § 2º, do Código de Processo Penal. (HC 332.043/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2015, DJe 30/11/2015).
+Assim, considerando que as instâncias ordinárias deixaram de aplicar o art. 387, § 2º, CPP, devem autos voltar à origem para sanar a irregularidade.
+Ante o exposto, concedo o habeas corpus para determinar ao Tribunal de origem que analise a aplicação do instituto da detração penal, com estrita observância às regras do art. 387, § 2º, do CPP.
+Comuniquem-se.
+Publique-se.
+Intimem-se.
