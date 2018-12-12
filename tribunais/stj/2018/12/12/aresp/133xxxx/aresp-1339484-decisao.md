@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIARIA LONDRINA I SPE LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO, EM CONTRARRAZÕES, DE ILEGITIMIDADE DA CONSTRUTORA QUANTO À COMISSÃO DE CORRETAGEM. RECURSO ESPECIAL REPETITIVO Nº 1.551.968. PRELIMINAR REJEITADA. 2. LITISCONSÓRCIO PASSIVO. PRAZO EM DOBRO PARA CONTESTAR AINDA QUE UM DOS RÉUS NÃO SE MANIFESTE. REVELIA DA CONSTRUTORA NÃO CONFIGURADA. 3. COMPROMISSO DE COMPRA E VENDA. RESCISÃO. INADIMPLEMENTO PELA PARTE AUTORA. SENTENÇA MANTIDA. 4. COMISSÃO DE CORRETAGEM. REPASSE DO CUSTO AO CONSUMIDOR. RECURSO ESPECIAL REPETITIVO Nº 1.599.511. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. RESSARCIMENTO DEVIDO. DECISÃO REFORMADA NESTE PONTO. 5. DANOS MORAIS. INEXISTÊNCIA. SENTENÇA PARCIALMENTE REFORMADA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO" (fls. 339/340 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 373/381 e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigo 725 do Código Civil - ao fundamento de a cobrança da comissão de corretagem é legítima, considerando a expressa previsão contratual e a efetiva aproxiação das partes com a concretização do negócio jurídico, e
+(ii) artigos 138 e 171, inciso II, do Código Civil - sob o argumento de que "(..) não pode prevalecer o entendimento acerca da nulidade da cláusula contratual acerca do prazo para entrega da unidade o que corroborou para a imputação das condenações a Recorrente, haja vista que o contrato firmado entre as partes é ato jurídico perfeito e válido" (fl. 401 e-STJ).
+Sem que fossem apresentadas contrarrazões (fl. 411 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Observa-se, de pronto, que os artigos 138 e 171, inciso II, do Código Civil não se encontram devidamente prequestionados e que a suposta nulidade de cláusula contratual acerca do prazo para entrega da unidade não foi, de fato, objeto de discussão no acórdão recorrido.
+Verifica-se, ademais, que os embargos de declaração opostos na origem sequer visaram a manifestação da Corte local sobre tais dispositivos legais.
+Nesse contexto, diante da ausência de prequestionamento, aplica-se o óbice da Súmula nº 282/STF nesse ponto.
+Não se há de conhecer do recurso na parte fulcrada na alínea "c" do permissivo constitucional, haja vista que a recorrente deixou de observar as regras contidas nos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e do 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, mais especificamente na parte em que exigem a realização de cotejo analítico entre os arestos confrontados.
+Quando à legalidade da cobrança da comissão de corretagem, o Superior Tribunal de Justiça pacificou a matéria mediante o julgamento do Recurso Especial Repetitivo nº 1.599.511/SP, firmando o entendimento de que é válida
+"(..) a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem."
+Embasando-se justamente nesse entendimento, o Tribunal de origem, soberano na interpretação das cláusulas contratuais, constatou que "(..) no preço total da aquisição não há qualquer menção à comissão de corretagem, nem mesmo nas demais cláusulas contratuais", com a conclusão de que "(..) diante da ofensa ao dever de informação nos moldes do precedente do STJ e da rescisão do contrato, afigura-se abusivo repasse de tal custo à apelante" (fl. 356 e-STJ).
+Rever tal conclusão, esbarra, inevitavelmente, no óbice da Súmula nº 5/STJ que determina que "A simples interpretação de cláusula contratual não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação e a recorrente, diante da caracterização de sucumbência recíproca, foi condenada, solidariamente com a outra parte ré, a arcar com 40% (quarenta por cento) daquele montante.
+Dessa forma, fixo os honorários recursais em 1% (um por cento) sobre o valor da condenação, a serem pagos pela recorrente ao advogado da parte recorrida, mantendo-se, no mais, a verba honorária na forma determinada na origem.
+Publique-se.
+Intimem-se.
