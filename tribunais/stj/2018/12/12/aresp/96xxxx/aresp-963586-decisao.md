@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. EXECUÇÃO FISCAL. LEILÃO. PARCELAMENTO INDEFERIDO. IMPOSSIBILIDADE DE SUSPENSÃO. AUSÊNCIA DE CAUSA SUSPENSIVA DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL DA CONTRIBUINTE.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por MOMESSO DISTRIBUIDORA DE BEBIDAS LTDA., com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - LEILÃO - SUSPENSÃO - PARCELAMENTO - INDEFERIDO - ART. 151, VI, CTN - INOCORRÊNCIA - RECURSO IMPROVIDO.
+1. Discute-se no presente recurso o indeferimento da suspensão das hastas públicas, requerida sob o fundamento de que o crédito tributário estava incluindo em parcelamento administrativo (fls. 625/626).
+2. A decisão agravada (fls. 25/26) não se referiu à avaliação do bem penhorado, não tendo a agravante contra ela se insurgido, posto que tomou ciência do Laudo de Reavaliação (fl. 593) em 11/3/2013 (fl. 624), manifestando-se em seguida (fls. 625/626), mencionado, tão somente, a pendência do parcelamento alegado.
+3. Descabida, portanto, a discussão da avaliação do imóvel, nesta sede recursal, sem que o MM Juízo de origem tenha se pronunciado a respeito, sob pena, como alegado pela recorrida, supressão de instância.
+4. Estranhas ao objeto do agravo as questões relativas às razões do indeferimento do parcelamento, que deverão ser discutidas, se cabíveis, na seara administrativa.
+5. O indeferimento do parcelamento, ainda que não existisse quando da interposição do agravo de instrumento, é fato novo que influencia e dá novo rumo ao recurso, sendo imprescindível sua observação, posto que o pedido de suspensão dos leilões pautou-se no fato de que o crédito tributário estaria com sua exigibilidade suspensa (art. 151, VI, CTN).
+6. Com a apreciação e indeferimento do parcelamento, esvaziou-se o fumus boni iuris, outrora presente quando da interposição do agravo de instrumento, posto que, perfeitamente exigível o crédito tributário, inexiste fundamento para a suspensão da execução fiscal.
+7. Agravo de instrumento improvido (fls. 937/938).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 960).
+3. Nas razões do seu Apelo Nobre, a parte recorrente aponta violação dos arts. 535, 620, 659, 683, 686, I e 692 do CPC/1973; 111, 151, III e VI do CTN; 10, 11, 12, 14-A e 37-B da Lei 10.522/2002, bem como divergência jurisprudencial. Sustenta, além de negativa de prestação jurisdicional, que o pedido de parcelamento suspende a exigibilidade do crédito tributário e impede a realização de leilão. De outro lado, houve vícios na avaliação do bem e a alienação por preço vil, devendo ser anulada a arrematação procedida de maneira ilegal.
+4. O recurso foi inadmitido no Tribunal de origem (fls. 1.152/1.155), motivo pelo qual foi interposto o presente Agravo.
+5. É o relatório.
+6. A insurgência não merece prosperar.
+7. De início, cumpre destacar que a alegada violação do art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No mérito, discute-se a possibilidade de suspensão das hastas públicas, tendo em vista a existência de pedido de parcelamento administrativo.
+9. O Tribunal de origem, ao decidir a questão, consignou que o parcelamento requerido foi indeferido, motivo pelo qual não haveria motivos para a suspensão das hastas. A propósito, veja-se trecho do voto condutor do aresto:
+Por outro lado, o indeferimento do parcelamento, ainda que não existisse quando da interposição do agravo de instrumento, é fato novo que influencia e dá novo rumo ao recurso, sendo imprescindível sua observação, posto que o pedido de suspensão dos leilões pautou-se no fato de que o crédito tributário estaria com sua exigibilidade suspensa (art. 151, VI, CTN).
+Com a apreciação e indeferimento do parcelamento, esvaziou-se o fumus boni iuris, outrora presente quando da interposição do agravo de instrumento, posto que, perfeitamente exigível o crédito tributário, inexiste fundamento para a suspensão da execução fiscal (fls. 935/936).
+10. Assim, não havendo causa para a suspensão da exigibilidade do crédito tributário, não há que se falar em cancelamento das hastas públicas designadas.
+11. De outro lado, quanto à questão da nulidade da arrematação por preço vil, o Tribunal de origem explicou que:
+Cumpre ressaltar que a decisão agravada (fls. 25/26) não se referiu à avaliação do bem penhorado, não tendo a agravante contra ela se insurgido, posto que tomou ciência do Laudo de Reavaliação (fl. 593) em 11/3/2013 (fl. 624), manifestando-se em seguida (fls. 625/626), mencionado, tão somente, a pendência do parcelamento alegado.
+Descabida, portanto, a discussão da avaliação do imóvel, nesta sede recursal, sem que o MM Juízo de origem tenha se pronunciado a respeito, sob pena, como alegado pela recorrida, supressão de instância (fls. 935).
+12. Logo, entendendo a Corte a quo que a questão não foi analisada por não ter sido objeto da decisão agravada, não há como conhecer da citada tese de nulidade, por ausência de prequestionamento. Incide, pois, o disposto na Súmula 282/STF.
+13. Ante o exposto, conhece-se do Agravo para negar seguimento ao Recurso Especial da Contribuinte.
+14. Publique-se. Intimações necessárias.
