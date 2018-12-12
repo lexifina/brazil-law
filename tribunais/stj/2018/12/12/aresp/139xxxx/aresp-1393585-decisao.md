@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por SPE AREINHA INCORPORAÇÕES IMOBILIÁRIAS LTDA. e SPE CONSTRUTORA SA CAVALCANTE LIV LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E LUCROS CESSANTES. ATRASO NA ENTREGA DO IMÓVEL. REPARAÇÃO DEVIDA. JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS RECURSAIS.
+- O atraso injustificado na entrega da documentação dos imóveis pelo promitente -vendedor gera o dever de indenizar os danos materiais e morais dele decorrentes.
+II - É válida a cláusula de tolerância que .prevê a possibilidade de prorrogação do prazo de entrega do imóvel em até cento e oitenta dias. Precedentes do STJ.
+III - Conforme jurisprudência pacífica do STJ, os lucros cessantes, na hipótese de atraso na entrega de imóvel pela construtora, são presumidos, cabendo a indenização pelo período em que o adquirente ficou privado de utilizar economicamente o bem.
+IV - O valor fixado para fins de indenização por dano moral há de atender o binômio reparação e prevenção, levando em conta a intensidade da ofensa e a capacidade econômica do ofensor" (e-STJ fl. 297).
+Nas razões do recurso especial, as recorrentes alegam divergência jurisprudencial acerca da interpretação dada aos artigos 186 e 944 do Código Civil. Sustentam o não cabimento de indenização por dano moral em razão do atraso na entrega da obra.
+É o relatório. DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Quanto à condenação em danos morais, o acórdão recorrido foi assim fundamentado:
+"O dano moral por sua vez compreende todo o contexto ocasionado pela demora na entrega do imóvel, a qual gerou incertezas, aborrecimentos e frustração das expectativas.
+Efetivamente, não há como negar que, se restou estipulado no contrato a data de entrega do imóvel, e não tendo as rés cumprido o prazo - ainda que considerado aquele estipulado na transação -, assumem," com sua inércia, o ônus de indenizara compradora pelos danos morais ocasionados.
+(..)
+Logo, resta configurado o dano moral, cujo valor entendo deva ser fixado em R$ 20.000,00 (vinte mil reais), sendo R$ 10.000,00 (dez mil) para cada uma das demandadas, ora 1ª apeladas, pois em consonância com os princípios da proporcionalidade e da razoabilidade, conforme parâmetro estabelecido por esta Câmara, sobretudo, considerando-se que o atraso na entrega do imóvel objeto do contrato foi de mais de dois anos, fato este que não pode ser observado" (e-STJ fls. 304/305).
+Ocorre que, segundo orientação jurisprudencial do Superior Tribunal de Justiça, em regra, a demora na entrega do imóvel constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar. E, no caso sob exame, não ficou evidenciada situação excepcional capaz de superar o mero inadimplemento contratual.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. NÃO CABIMENTO. RECURSO PROVIDO.
+1. É entendimento firmado pelo Superior Tribunal de Justiça "que o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis" (REsp 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe de 22/3/2017).
+2. Tendo em vista que, no presente caso, a fundamentação do dano moral teve como justificativa somente a frustração da expectativa da parte autora, que se privou do uso do imóvel pelo tempo de aproximadamente oito meses de atraso na entrega, sem tecer fundamentação adicional a justificar a angústia ou abalo psicológico de modo a configurar dano moral, é mister o provimento do recurso no ponto. Precedentes.
+3. Agravo interno a que se dá provimento, para reconsiderar a decisão agravada, dando parcial provimento ao recurso especial para excluir o dano moral" (AgInt no REsp 1.715.252/RO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 7/6/2018, DJe 15/6/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. PRÉ-QUESTIONAMENTO FICTO. OMISSÃO. AUSÊNCIA. DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+2. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial.
+3. Agravo interno no recurso especial desprovido" (AgInt no REsp 1.719.311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/5/2018, DJe 28/5/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. OBRA. ENTREGA. ATRASO. DANOS MORAIS. AFASTAMENTO. EXCEPCIONALIDADE DO CASO. SÚMULA Nº7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+3. A análise da alegada excepcionalidade do caso não dispensa o reexame das circunstâncias fáticas dos autos. Aplicação da Súmula nº 7/STJ.
+4. Agravo interno não provido" (AgInt no REsp 1.684.398/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/3/2018, DJe 2/4/2018).
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para afastar a condenação ao pagamento de indenização a título de dano moral.
+Diante da sucumbência recíproca, condeno as partes ao pagamento das custas processuais e dos honorários advocatícios, devendo as recorrentes arcarem na proporção de 70% (setenta por cento) e a recorrida 30% (trinta por cento), ressalvada a justiça gratuita, se for o caso.
+Publique-se. Intimem-se.
