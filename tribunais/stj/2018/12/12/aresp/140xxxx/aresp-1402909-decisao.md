@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região que não admitiu recurso especial com base com base nos seguintes fundamentos: (I) despiciendo o exame de violação ao art. 535 do CPC, frente à ausência das condições de admissibilidade das questões de fundo; (II) incidência da Súmula 83/STJ, por entender que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça; e (III) aplicação da Súmula 7/STJ, quanto à caracterização do tempo de serviço especial.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguintes fundamentos: incidência da Súmula 83/STJ; e aplicação da Súmula 7/STJ, quanto à caracterização do tempo de serviço especial.
+Esclareça-se que, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+De outro lado, apesar de afirmar, genericamente, que não se trata de reexame de provas, a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial.
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
