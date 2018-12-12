@@ -1,0 +1,12 @@
+Despacho: Trata-se de Petição 74643/2018 aviada pelo Município de Joinville na qual requer-se o sobrestamento do presente feito até o julgamento final do RE 870.947 – Tema 810.
+    Nas razões, sustenta-se que o Ministro Luiz Fux, relator do RE 870.974 – Tema 810 da sistemática da repercussão geral, concedeu efeito suspensivo aos embargos de declaração opostos, “diante do evidenciado dano irreparável ao erário que a aplicação pura e simples do Tema 810 representa”. (eDOC 19, pp. 1/2)
+    O mencionado paradigma de repercussão geral encontra-se com a seguinte ementa:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. CAIXA DE ASSISTÊNCIA DE GRUPO PROFISSIONAL (ADVOGADOS). CARACTERIZAÇÃO COMO ENTIDADE BENEFICENTE. EXTENSÃO ÀS OPERAÇÕES DE CIRCULAÇÃO DE MEDICAMENTOS. INCIDÊNCIA DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS - ICMS. PROCESSUAL CIVIL. REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. Recurso extraordinário em que se discute a aplicação da imunidade tributária conferida às entidades beneficentes de assistência social (art. 150, VI, c da Constituição) às operações de venda de medicamentos por instituição voltada à concessão de benefícios a classe profissional (advogados). Repercussão geral da matéria constitucional versada reconhecida.”
+    Diante da oposição de embargos declaratórios em face do referido recurso extraordinário (tema 810), o Min. Luiz Fux, relator, deferiu efeito suspensivo aos embargos opostos, nestes termos:
+    “Desse modo, a imediata aplicação do decisum embargado pelas instâncias a quo, antes da apreciação por esta Suprema Corte do pleito de modulação dos efeitos da orientação estabelecida, pode realmente dar ensejo à realização de pagamento de consideráveis valores, em tese, a maior pela Fazenda Pública, ocasionando grave prejuízo às já combalidas finanças públicas. Ex positis, DEFIRO excepcionalmente efeito suspensivo aos embargos de declaração opostos pelos entes federativos estaduais, com fundamento no artigo 1.026, §1º, do CPC/2015 c/c o artigo 21, V, do RISTF.” (RE 870947 ED / SE, Rel. Min. Luiz Fuz, DJe de 26.09.2018)
+    Ante o exposto, indefiro o pleito, e determino a remessa destes autos ao Tribunal de origem, para que, mantendo suspenso o Processo nº 2009.070886-6/0005.00 até o julgamento final do RE 870.947, observe o disposto na decisão de 31.10.18. (eDOC 18)
+    Publique-se.
+    Brasília, 12 de dezembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
