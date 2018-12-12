@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. ICMS. ISENÇÃO CONCEDIDA PELO ESTADO. REPERCUSSÃO NO REPASSE TRIBUTÁRIO. ACÓRDÃO RECORRIDO QUE CONSTATA A PRESENÇA DO FUMUS BONI JURIS E DO PERICULUM IN MORA. ANÁLISE DOS REQUISITOS AUTORIZADORES. SÚMULAS 7/STJ E 735/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado da Paraíba, com fundamento no art. 105, III, "a", da CF contra acórdão do Tribunal de Justiça estadual, assim ementado (e-STJ fl. 245):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. INDEFERIMENTO DO PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INCONFORMISMO DO MUNICÍPIO DE ITABAIANA. PARCELAS DE 20% DO ICMS - IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS, IPVA - IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES E ITCMD - TRANSMISSÃO CAUSA MORTIS E DOAÇÃO PERTENCENTES AO MUNICÍPIO ATRAVÉS DO FUNDEB - FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA. REPASSE À EDILIDADE. INTELIGÊNCIA DO ART. 60, II, DO ADCT - ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. IMPOSSIBILIDADE DE DEDUÇÃO DOS INCENTIVOS FISCAIS. QUESTÃO ASSENTADA PELO TRIBUNAL DE JUSTIÇA DA PARAÍBA E PELO SUPREMO TRIBUNAL FEDERAL. PROVIMENTO.
+- Os municípios não devem se sujeitar, no tocante à repartição de receitas, aos programas de incentivo propostos pelos Estados-membros.
+- As isenções concedidas pela Fazenda Pública estadual não podem repercutir no repasse das parcelas de 20% do ICMS - Imposto Sobre Circulação de Mercadorias e Serviços -, IPVA - Imposto Sobre a Propriedade de Veículos Automotores e ITCMD - Transmissão Causa Mortis e Doação pertencentes à Edilidade através do FUNDEB - Fundo de Manutenção e Desenvolvimento da Educação Básica.
+Os aclaratórios não foram conhecidos (e-STJ fls. 314-315).
+Em suas razões recursais, o recorrente afirma haver contrariedade aos artigos 273, caput, do CPC/1973 (300 do CPC/2015); 1º, § 3º, da Lei 8.437/1992; e 1º da Lei 9.494/1997. Argumenta que "É patente a falta de subsídios a apoiar a decisão do Juízo a quo, haja vista chocar-se a mesma com a legislação vigente que rege a concessão de medidas de urgência contra a Fazenda Pública, mormente com o que dispõe a Lei 9.494/97. (..) O pleito do Recorrido possui caráter eminentemente satisfativo, sendo esta a natureza do seu pedido, de sorte que resta patente a impossibilidade jurídica do pedido liminar, face ao óbice legal e literal contido na aludida regra, válida para todo e qualquer caso" (e-STJ fl. 353).
+Contrarrazões não apresentadas (e-STJ fl. 379).
+Juízo positivo de admissibilidade às e-STJ fls. 386-388.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+A Corte estadual, soberana na análise das circunstâncias fáticas e probatórias da causa, concluiu estarem presentes os requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional, sob os seguintes fundamentos (e-STJ fls. 240-243):
+ ..  o art. 60, II, do ADCT - Ato das Disposições Constitucionais Transitórias, garante aos municípios a repartição das receitas tributárias, senão vejamos:
+Art. 60. Até o 14º (décimo quarto) ano a partir da promulgação desta Emenda Constitucional, os Estados, o Distrito Federal e os Municípios destinarão parte dos recursos a que se refere o caput do art. 212 da Constituição Federal à manutenção e desenvolvimento da educação básica e à remuneração condigna dos trabalhadores da educação, respeitadas as seguintes disposições:
+( )
+II - os Fundos referidos no inciso I do caput deste artigo serão constituídos por 20% (vinte por cento) dos recursos a que se referem os incisos I, II e III do art. 155; o inciso II do caput do art. 157; os incisos II, III e IV do caput do art. 158; e as alíneas a e b do inciso I e o inciso II do caput do art. 159, todos da Constituição Federal, e distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial, matriculados nas respectivas redes, nos respectivos âmbitos de atuação prioritária estabelecidos nos §§ 2º e 3º do art. 211 da Constituição Federal.
+Desta feita, observa-se que a pretensão da Edilidade encontra previsão no ADCT - Ato das Disposições Constitucionais Transitórias.
+No mais, o Supremo Tribunal Federal, em casos similares, vem decidindo que os Municípios não podem se prejudicar pelas isenções concedidas pelo Estado-membro.
+(..)
+Nesse caminhar, mostra-se viável a pretensão recursal, pois o Estado da Paraíba se abstém de cumprir preceptivo legal, a saber, art. 60, II, do ADCT - Ato das Disposições Constitucionais Transitórias.
+Ademais, o perigo de dano à Edilidade também é iminente, uma vez que o prejuízo sofrido com o repasse a menor, renova-se, mês a mês.
+O STJ possui o entendimento de ser incabível, via de regra, recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+Consigne-se, ademais, que a análise do preenchimento dos requisitos autorizadores da concessão da medida liminar reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. ICMS. ISENÇÃO CONCEDIDA PELO ESTADO. REPERCUSSÃO NO REPASSE TRIBUTÁRIO. ACÓRDÃO RECORRIDO QUE CONSTATA A PRESENÇA DO FUMUS BONI JURIS E DO PERICULUM IN MORA. ANÁLISE DOS REQUISITOS AUTORIZADORES. SÚMULAS 7/STJ E 735/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. A Corte regional, soberana na análise das circunstâncias fáticas e probatórias da causa, concluiu estarem presentes os requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional.
+3. O STJ possui o entendimento de ser incabível, via de regra, Recurso Especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+4. A análise do preenchimento dos requisitos autorizadores da concessão da medida liminar reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em Recurso Especial, ante o óbice da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.705.462/PB, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2017)
+PROCESSUAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. REVISÃO. SÚMULA 07/STJ.
+(..)
+2. Em recurso especial, não cabe a revisão das premissas fáticas que justificam o entendimento sobre a existência de periculum in mora e fumus boni iuris, a fim de se conceder medida liminar, conforme o teor da Súmula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes.
+3. Agravo regimental não provido.
+(AgRg no AREsp 67.296/CE, Rel. Ministro Castro Meira, Segunda Turma, DJe 16/2/2012)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC INEXISTENTE. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. RECURSO ESPECIAL QUE TRATA APENAS DO MÉRITO DA DEMANDA. INVIABILIDADE. ACÓRDÃO RECORRIDO INATACADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. TUTELA ANTECIPADA. REQUISITOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ.
+(..)
+4. As questões propostas pelo recorrente serão analisadas pela mesma Corte por ocasião da apreciação do mérito e não em sede incidental como no presente caso, em que se debate tão somente o fumus boni iuris e o periculum in mora.
+5. A iterativa jurisprudência desta Corte é no sentido de que, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", nos termos do art. 273 do CPC, o que não é possível em recurso especial, dado o óbice do enunciado 7 da súmula desta Corte.
+Agravo regimental improvido.
+(AgRg no AREsp 414.347/ES, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/11/2013)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
