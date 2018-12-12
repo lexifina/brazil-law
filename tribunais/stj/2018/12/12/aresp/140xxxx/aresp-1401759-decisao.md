@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que não admitiu recurso especial com base com base nos seguintes fundamentos: (I) não cabe recurso por alegação de princípios ou dispositivos constitucionais; (II) incidência da Súmula 83/STJ, por entender que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça; e (III) o dissídio jurisprudencial não foi demonstrado, nos termos legais.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguintes fundamentos: (I) não cabe recurso por alegação de princípios ou dispositivos constitucionais; (II) incidência da Súmula 83/STJ, por entender que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça; e (III) o dissídio jurisprudencial não foi demonstrado, nos termos legais.
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luís Felipe Salomão, DJe de 30.11.2018.
+Por fim, esclareça-se que, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
