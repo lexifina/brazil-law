@@ -1,0 +1,12 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. SUPERVENIENTE SENTENÇA. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso prejudicado.
+DECISÃO
+O Juízo de Direito da 4ª Vara Criminal da comarca de Goiânia/GO prolatou sentença no Processo n. 201800621900, condenando [NOME] a cumprir 5 anos de reclusão, inicialmente, em regime semiaberto, e a pagar 500 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006 Na oportunidade, negou-lhe o recurso em liberdade e determinou providências (fls. 126/127).
+Ora, o acórdão combatido neste recurso foi proferido à luz do primevo decreto prisional, e, ante a prolação de édito condenatório, que alterou a realidade fática dos autos, esvaziou-se o objeto do pedido aqui formulado, no sentido de não estarem presentes os requisitos exigidos para a imposição da custódia cautelar (AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017).
+Afinal, na ocasião da prolação de sentença condenatória, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente, a adequação da medida cautelar imposta foi reexaminada com base em um espectro fático-processual de maior amplitude e profundidade, de modo que deverá ser impugnado através da via própria.
+Apesar disso, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada pela apreensão de mais de um quilo de substâncias entorpecentes variadas (maconha e crack) - (fl. 76).
+Outrossim, a apontada ilegalidade no flagrante encontra-se superada, não apenas pela superveniência do decreto de prisão preventiva mas também pela sentença condenatória, novos títulos judiciais ensejadores da custódia cautelar (RHC n. 64.040/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/11/2015).
+Não é demais lembrar que, tratando-se de crimes de natureza permanente, como é o caso do tráfico ilícito de entorpecentes, mostra-se prescindível o mandado de busca e apreensão para que os policiais adentrem o domicílio do acusado, não havendo se falar em eventuais ilegalidades relativas ao cumprimento da medida (HC n. 467.965/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/10/2018).
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
