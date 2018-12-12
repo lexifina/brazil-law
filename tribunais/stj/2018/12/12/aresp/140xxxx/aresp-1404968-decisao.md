@@ -1,0 +1,48 @@
+EMENTA
+PENAL E PROCESSO PENAL. CRIMES DE TRÂNSITO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo manejado por [NOME] em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o ora agravante, foi condenado, em primeira instância, pela prática do delito tipificado no art. 306, §1º, inciso I, e art. 309, ambos da Lei 9.503/97, à pena de 1 (um) ano, 1 (um) mês e 11 (onze) dias de detenção, além de 21 (vinte e um) dias-multa, e 2 (dois) meses e 10 (dez) dias de proibição de se obter permissão ou habilitação para dirigir veículo, em regime aberto, substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 3 (três) salários mínimos (fls. 175-188).
+O eg. Tribunal a quo negou provimento ao apelo defensivo e adequou, de ofício, a dosimetria da pena e o valor da prestação pecuniária. O v. acórdão foi ementado nos seguintes termos (fls. 286-287):
+"APELAÇÃO CRIME - 1. EMBRIAGUEZ AO VOLANTE - ARTIGO 306 DO CÓDIGO DE TRÂNSITO - PRÁTICA DELITIVA CONFIGURADA - 2. DIREÇÃO SEM HABILITAÇÃO - ARTIGO 309 DO CÓDIGO DE TRÂNSITO - ABSOLVIÇÃO - NÃO CABIMENTO - 3. DOSIMETRIA - CONFISSÃO ESPONTÂNEA - REDUÇÃO DA PENA DE OFÍCIO - 4. PRESTAÇÃO PECUNIÁRIA - FIXAÇÃO ACIMA DO MÍNIMO LEGAL - AUSÊNCIA DE FUNDAMENTAÇÃO - REDUÇÃO DE OFÍCIO - 5. SUSPENSÃO CONDICIONAL DO PROCESSO - IMPOSSIBILIDADE - RECURSO DESPROVIDO, ADEQUANDO, DE OFÍCIO, A DOSIMETRIA DA PENA E O VALOR DA PRESTAÇÃO PECUNIÁRIA.
+1. O conjunto probatório revela a autoria e materialidade do delito de embriaguez ao volante, sendo cogente a manutenção da sentença condenatória pela prática do delito tipificado no artigo 306 do Código de Trânsito.
+2. Dirigir veículo automotor sem habilitação, gerando efetivo perigo de dano, caracteriza o crime descrito no artigo 309 do Código de Trânsito.
+3. Nos termos da Súmula 545/STJ, "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+4. Não havendo fundamentação idônea para a fixação do valor da prestação pecuniária acima do mínimo legal, impõe-se, de ofício, a respectiva redução.
+5. A suspensão condicional do processo poderá ser proposta pelo Ministério Público no momento do oferecimento da denúncia, nos crimes em que a pena mínima cominada for igual ou inferior a um ano, desde que o acusado não esteja sendo processado, hipótese diversa dos autos."
+Interposto recurso especial (fls. 307-318), com fundamento no art. 105, inciso III, alínea a, da Constituição da República, o agravante alegou "que o acórdão é incompatível com as provas carreadas durante a instrução processual, uma vez que o em momento algum ficou comprovado que as drogas apreendidas pertencessem ao recorrente, tendo em vista que os policiais não conseguiram esclarecer o local em que as mesmas foram localizadas" (fl. 310), devendo prevalecer o princípio do in dubio pro reo.
+Apresentadas as contrarrazões (fls. 325-328), sobreveio juízo negativo de admissibilidade fundado na aplicação da Súmula 284/STF, pois não foram especificados quais os artigos de lei federal foram violados.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 343-349).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não provimento do agravo em recurso especial (fls. 367-368).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 284/STF.
+No caso, o agravante, cingiu-se a alegações genéricas de que (fls. 347-348):
+"Com a devida máxima vênia, ainda que não tenha havido referencia expressa a Súmula n. 284 do STF, é evidente e indiscutível que o dispositivo foi amplamente debatido no agravo interposto.
+De início, verifica-se que a própria decisão agravada reconhece que o dissídio foi demonstrado na forma preconizada pelo art. 255 do RISTJ.
+Embora essa decisão não vincule o juízo de admissibilidade a ser exercido pelo STJ, verifica-se que, de fato, foi procedido o cotejo analítico entre os acórdãos, com transcrição de trechos do acórdão recorrido e do acórdão paradigma, demonstrando-se a similitude fática e a divergência na interpretação da lei federal.
+Portanto, deve-se ter em mente o objetivo maior do Recurso Especial que é o de assegurar o cumprimento de um direito constitucional, para que através de uma análise mais profunda de uma determinada questão seja possível chegar a uma verdadeira Justiça.
+Assim, a recorrente, não pode ter seu direito cerceado mais uma vez, mesmo porque, não se fugiu ao sentido real do Recurso Especial.
+Em face das razões delineadas, comprovado restou que a decisão agravada deve ser reformada, dando-se provimento total ao Recurso Especial em tela."
+Verifico que o agravante deixou de infirmar o óbice da Súmula 284/STF, não demonstrando a fundamentação expendida na petição do agravo, no tocante às normas de direito federal que teriam sido violadas, de forma a sustentar a ausência de deficiência em sua fundamentação.
+Não basta deduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido" (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, de minha relatoria, DJe de 16/02/2018).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. NÃO OCORRÊNCIA. SÚMULA 283/STF. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. As razões do recurso especial não rebateram de forma específica fundamento suficiente para manter o acórdão recorrido, circunstância que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. "É descabido postular a concessão de habeas corpus, de ofício, como forma de tentar burlar a inadmissão do recurso especial".
+3. Agravo regimental desprovido" (AgRg no AREsp n. 1.051.954/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/12/2017).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CP. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado 182 da Súmula do Superior Tribunal de Justiça.
+2. "Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado". (AgRg no RHC 74.996/PB, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 19/09/2017)
+3. Agravo regimental não conhecido. Habeas Corpus concedido de ofício" (AgInt no AREsp n. 1.156.766/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 28/11/2017).
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
