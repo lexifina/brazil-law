@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALDERICO GOMES DE OLIVEIRA FILHO e [NOME] contra decisão do Tribunal de Justiça do Estado do Espírito Santo que inadmitiu o recurso especial fundamentado na alínea a do permissivo constitucional.
+Depreende-se dos autos que os ora agravantes ajuizaram ação de revisão criminal contra a sentença prolatada pelo Magistrado da 4ª Vara Criminal de Vila Velha que, em consonância com a decisão proferida pelo Conselho de Sentença daquela comarca, os condenou, nas sanções do art. 121, § 2º, inciso IV, do Código Penal, à pena de 12 (doze) anos de reclusão.
+O Tribunal de origem julgou improcedente a revisão criminal, conforme a seguinte ementa (e-STJ fl. 673):
+REVISÃO CRIMINAL. ARTIGO 121, §2º, IV DO CP. 1. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE QUE A VÍTIMA NÃO RESTOU ATINGIDA PELOS DISPAROS EFETUADOS PELOS REVISIONANDOS E ALEGAÇÃO DE LEGÍTIMA DEFESA. INOCORRÊNCIA 2. PLEITO DE EXCLUSÃO DA QUALIFICADORA. IMPOSSIBILIDADE. 3. PEDIDO JULGADO IMPROCEDENTE.
+1. Não é de se estranhar o resultado negativo para a Microcomparação Balística constante nos autos, uma vez que, além de terem sido encaminhadas armas que provavelmente nem estiveram presentes na ocorrência, já que foram encaminhadas à perícia mais armas do que o número de policiais envolvidos na abordagem, apenas UM dos sete projetis retirados do corpo da vítima foi submetido a exame pericial.
+Desta feita, a conclusão negativa para a Microcomparação Balística não pode servir, isoladamente, como prova determinante para a absolvição dos Requerentes.
+Ademais, não restando comprovada a existência de injusta agressão, atual ou iminente, por parte da vítima, que devesse ser repelida com a sua morte, encontra-se fragilizada a versão dos requerentes de que teriam agido sob o manto da excludente da ilicitude da legítima defesa, ou, no mínimo, afigura-se a desproporcionalidade dos meios empregados para repelir eventual investida.
+Afora isso, para que o Tribunal revisor pudesse rescindir o julgado, seria necessário que o veredito se revelasse esdrúxulo, se confrontado com as provas dos autos, o que não é o caso, pois, conforme ressaltado, as teses acolhidas, além de plausíveis, foram livremente escolhidas pelos jurados, soberanos em sua decisão, tomada por intimo convencimento.
+2. A qualificadora relativa ao recurso que impossibilitou a defesa da vítima deve ser preservada, até porque restou bem demonstrada, uma vez que a vítima não esperava ser abordada por quatro militares e atingida por sete disparos de armas de fogo, incluindo dois fuzis, quando se encontrava com os pés amarrados e incapaz de oferecer resistência.
+3. Revisão criminal julgada improcedente.
+Irresignada, a defesa interpôs recurso especial alegando contrariedade ao art. 121, § 2º, IV, do Código Penal, sob o argumento de que "o fato narrado pela denúncia e que foi objeto do processo crime não caracteriza a qualificadora prevista no inciso IV, do artigo 121, do Código Penal" (e-STJ fl. 739).
+Contrarrazões às e-STJ fls. 748/752.
+Inadmitido pelo Tribunal de origem, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 795/798).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Compulsando os autos, verifica-se que o Tribunal de origem julgou improcedente a revisão criminal ajuizada pelos ora recorrentes, assim se manifestando quanto à qualificadora da utilização de recurso que dificultou a defesa da vítima (e-STJ fls. 679/680):
+A qualificadora alinhavada na inicial e reconhecida pelo Conselho de Sentença também não se mostra flagrantemente contrária à evidência dos autos.
+Isto porque, os jurados mantiveram o reconhecimento da qualificadora relativa ao recurso que impossibilitou a defesa da vítima. Referida qualificadora deve ser preservada, até porque restou bem demonstrada, uma vez que a vítima não esperava se abordada por quatro militares e atingida por sete disparos de armas de fogo, incluindo dois fuzis, quando já se encontrava com os pés amarrados e incapaz de oferecer resistência.
+Ademais, em respeito ao princípio constitucional da soberania dos veredictos, é vedado ao Juízo ad quem alterar a decisão dos Srs. Jurados no que se refere às qualificadoras, pois isso implicaria em dar nova definição jurídica ao fato criminoso, salvo, evidentemente, hipótese de manifesta e absoluta contrariedade à prova dos autos, circunstância que ensejaria não a mera exclusão da qualificadora, mas, sim, a anulação do julgado, para que os requerentes fossem submetidos a novo julgamento.
+ ..
+Entendo, portanto, que a decisão recorrida é irrepreensível formal e materialmente e está em perfeita consonância com as disposições legais, não havendo que se falar em absolvição ou exclusão da qualificadora.
+No caso em apreço, conforme se extrai do trecho do acórdão recorrido acima transcrito, a Corte a quo entendeu que a qualificadora foi bem demonstrada, "uma vez que a vítima não esperava ser abordada por quatro militares e atingida por sete disparos de armas de fogo, incluindo dois fuzis, quando já se encontrava com os pés amarrados e incapaz de oferecer resistência" (e-STJ fl. 679), não sendo desarrazoada a conclusão que reconheceu configurada a qualificadora da utilização de recurso que dificultou a defesa da vítima.
+No contexto, o acolhimento da pretensão recursal demandaria amplo revolvimento do acervo fático-probatório dos autos, providência vedada em recurso especial nos termos da Súmula n. 7/STJ.
+A respeito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. SÚMULA 7/STJ. FALTA DE INDICAÇÃO DO DISPOSITIVO INFRACONSTITUCIONAL VIOLADO. AGRAVO IMPROVIDO.
+1. Mantida a decisão do Conselho de Sentença, por estar amparada em uma das versões discutidas em Plenário, a desconstituição das premissas fáticas assentadas no acórdão, para concluir que a condenação é manifestamente contrária à prova dos autos, encontra óbice na Súmula 7/STJ.
+2. Não tendo o agravante especificado quais artigos teriam sido malferidos, incide, no ponto, o óbice da Súmula 284 do STF.
+3. Agravo regimental improvido. (AgRg no AREsp 762.508/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/11/2016, DJe 07/12/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
