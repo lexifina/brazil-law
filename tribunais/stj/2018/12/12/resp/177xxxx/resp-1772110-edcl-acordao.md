@@ -1,0 +1,58 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. ALEGAÇÕES DE OMISSÃO QUANTO A TESES DEFENSIVAS E AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. PRETENSÃO DE MERO REEXAME DO MÉRITO, COM EFEITOS INFRINGENTES. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. VIA INADEQUADA. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de obscuridade no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+III - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL, em face de v. acórdão que desproveu o agravo regimental (fls. 195-201). Transcrevo, a seguir, a ementa do julgado:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO NO CURSO DA EXECUÇÃO. UNIFICAÇÃO DAS PENAS. ALTERAÇÃO DA DATA-BASE PARA OBTENÇÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ORIENTAÇÃO JURISPRUDENCIAL DA TERCEIRA SEÇÃO DO STJ. RESP n. 1.557.461/SC e HC n. 381.248/MG.
+I - Este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determina a unificação das reprimendas e a fixação de nova data-base para a concessão de benefícios.
+II - Contudo, a Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, Relator o Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, com Relator para o acórdão o Ministro Sebastião Reis Júnior, modificou a orientação anterior e sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+III - In casu, a pretensão do Ministério Público em modificar o termo a quo para novos benefícios da execução, em face da unificação de penas, estabelecendo como novo marco a data do trânsito em julgado da última sentença condenatória, está em confronto com a orientação jurisprudencial firmada pela Terceira Seção desta Corte Superior de Justiça. Agravo regimental desprovido."
+Nestes aclaratórios, o embargante aduz haveria omissão no acórdão embargado, uma vez que não foi analisado argumentos lançados nas razões do Agravo Regimental, pois " ..  conforme salientado pelo Parquet Federal, a condenação por crime doloso, durante a execução da pena, reinicia o cômputo do interstício necessário ao preenchimento do requisito temporal para a concessão de benesses, de modo que, advindo nova sentença condenatória, após somadas as penas, se não for alterado o regime carcerário do condenado, o prazo para a concessão do benefício de progressão de regime deverá ser interrompido e calculado a partir do trânsito em julgado da nova condenação e com base na soma das penas restantes a serem cumpridas, sob pena de ofensa aos princípios constitucionais da reserva legal e da individualização da pena (art. 5º, XXXIX e XLVI, da Constituição Federal), na medida em que é vedado ao Judiciário criar benefícios não previstos em lei, bem como não se pode deixar de adequar a pena unificada à nova realidade executória do apenado" (fl. 210).
+E, também, alega que "a questão da possibilidade de alteração da data-base não foi examinada sob a luz dos princípios constitucionais suscitados pelo órgão ministerial em seu agravo regimental, evidenciada a omissão do acórdão ora embargado, razão pela qual requer-se a explícita manifestação dessa Corte Superior quanto à interpretação dos dispositivos mencionados, bem como sobre a jurisprudência dominante da Suprema Corte" (fl. 212).
+Requer, ao final, sejam os aclaratórios providos, com efeitos infringentes, e que, de todo modo, sejam prequestionadas as matérias constitucionais, quais sejam: art. 5º, incisos XXXIX (reserva legal) e XLVI (individualização da pena), da Cosntiuição da República, para fins de interposição de recurso extraordinário.
+Apresento o feito à Turma, para julgamento.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. ALEGAÇÕES DE OMISSÃO QUANTO A TESES DEFENSIVAS E AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. PRETENSÃO DE MERO REEXAME DO MÉRITO, COM EFEITOS INFRINGENTES. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. VIA INADEQUADA. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de obscuridade no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+III - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: A irresignação do embargante não merece acolhida.
+Inicialmente, cumpre destacar que são cabíveis embargos de declaração, quando, no acórdão embargado, houver ambiguidade, obscuridade, contradição ou omissão, a teor do disposto no artigo 619 do Código de Processo Penal, podendo, também, ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência.
+In casu, a parte embargante, no entanto, sob o pretexto de sanar omissão no acórdão, em verdade, pretende rediscutir a matéria sobre a qual esta Corte Superior já se pronunciou, com ampla fundamentação.
+O Ministério Público Federal afirma que o acórdão vergastado foi omisso quanto ao argumento de caso haja condenação por crime doloso, durante a execução da pena, não sendo alterado o regime após a unificação, seria imperiosa a interrupção do requisito temporal para concessão de benesses, contudo, sem razão.
+Assim, transcrevo trecho do acórdão recorrido que explicitamente tratou da questão assinalada (fls. 199 e 201):
+"Ocorre que a Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, de Relatoria do Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, de Relatoria da Ministra Maria Thereza de Assis Moura, com Relator para o acórdão, o Ministro Sebastião Reis Júnior, sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+ ..
+Em conclusão, assentou-se ser indevida a alteração do termo a quo para a concessão de novos benefícios na execução da pena, pois a alteração da data-base não é consectário imediato do somatório das reprimendas impostas ao sentenciado. Assim, caso o sentenciado, após a unificação das penas, permaneça no regime fechado, deve-se considerar todo o prazo adquirido neste regime para a progressão, considerando-se como data-base a data da última prisão (ou do último crime, se o réu já estava preso quando o praticou). Caso contrário, o condenado cumprirá lapso muito superior ao exigido pela lei."
+Destarte, ausentes os aventados vícios, a pretensão de se proceder ao mero reexame da matéria já julgada, com efeitos infringentes, não se coaduna com a estreita via dos declaratórios.
+Vejam-se a respeito os precedentes abaixo:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. APONTADA CONTRADIÇÃO INEXISTENTE. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS DECLARATÓRIOS REJEITADOS.
+- Os embargos de declaração prestam-se tão somente a sanar ambiguidade, contradição, obscuridade ou omissão do julgado, consoante dispõe o art. 619 do Código de Processo Penal, ou, então, retificar erro material, quando constatado.
+- Na segunda fase da dosimetria, não foi considerada a ora apontada multirreincidência do paciente, mas apenas uma condenação por furto simples, ressaltando as instâncias ordinárias apenas a reincidência específica do paciente. Não poderia esta Corte, portanto, utilizar-se de fundamento diverso daquele adotado pelas instâncias ordinárias para conferir maior desvalor à conduta do paciente, sob pena de incorrer na vedada reformatio in pejus.
+- Estabelecidos tais parâmetros, evidente que o caso dos autos se amolda perfeitamente ao nóvel entendimento esposado pela Terceira Seção, expresso no HC n. 365.963/SP, segundo o qual não há previsão legal para que se oferte mais desvalor à conduta daquele que ostenta outra condenação pelo mesmo delito, de forma que a reincidência específica deve ser compensada integralmente com a atenuante da confissão.
+- Inviável o acolhimento dos embargos de declaração, porquanto a pretensão apresenta caráter infringente e é nítida a pretensão de rediscutir a matéria já apreciada, o que não se coaduna com a medida integrativa.
+- Embargos declaratórios rejeitados" (EDcl no HC n. 400.071/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/12/2017).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. INTEMPESTIVIDADE DO APELO ESPECIAL. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexiste omissão a ser sanada, no caso, uma vez que o acórdão embargado explicitou adequadamente as razões pelas quais negou provimento ao agravo regimental.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo aresto objurgado.
+ ..
+4. Embargos de declaração rejeitados" (EDcl no AgRg no AREsp n. 1.098.662/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 27/11/2017).
+Lado outro, não cabe a este eg. Superior Tribunal de Justiça se pronunciar acerca de afronta a dispositivos constitucionais, sob pena de usurpar a competência do Excelso Supremo Tribunal Federal. Nesse sentido:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+ ..
+2. Não cabe a esta Corte manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+ ..
+5. Embargos de declaração rejeitados. Habeas corpus concedido de ofício, para declarar a prescrição da pretensão punitiva, na modalidade superveniente" (EDcl no AgRg no AREsp n. 407.885/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 6/10/2014).
+Na espécie, portanto, inexiste o equívoco apontado pela parte, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento (EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 09/11/2018).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
