@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERATIVA DE CREDITO POUPANCA E INVESTIMENTO VALOR SUSTENTAVEL - SICREDI VALOR SUSTENTAVEL PR/SP, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - INCONFORMISMO DA EMBARGANTE - EXCESSO DE EXECUÇÃO - NÃO CONHECIDO - COMPENSAÇÃO - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - CERCEAMENTO DE DEFESA POR AUSÊNCIA DO DESPACHO SANEADOR - NULIDADE DA EXECUÇÃO POR SIMULAÇÃO - INOCORRÊNCIA - INEXEQUIBILIDADE E !LIQUIDEZ DA EXECUÇÃO - NULIDADE DA TAXA PREFIXADA - ILEGALIDADE DA CORREÇÃO MONETÁRIA - CAPITALIZAÇÃO MENSAL DOS JUROS REMUNERATÓRIOS AFASTAMENTO - POSSIBILIDADE - AUSÊNCIA DE PACTUAÇÃO - INDÍCIOS DE SUA OCORRÊNCIA NO CASO CONCRETO - NECESSIDADE DE RECALCULO COM AFASTAMENTO DE SUA INCIDÊNCIA - RECURSO CONHECIDO EM PARTE E NA PARTE CONHECIDA PARCIALMENTE PROVIDO" (e-STJ fls. 223 e 224).
+No especial, a recorrente alega, em síntese, violação do artigo 917, § 4º, do Código de Processo Civil de 2015. Aduzindo que não poderia haver a exclusão da capitalização de juros sem a apresentação da planilha com os valores que a parte recorrida entende como devido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Eis a letra do acórdão recorrido transcrito no que interessa à espécie:
+"Da capitalização mensal de juros.
+Acerca de tal aspecto da matéria, esclareça-se que as planilhas que instruem a inicial da execução permitiriam aos embargantes através de simples cálculos aritméticos demonstrar a ocorrência de capitalização mensal dos juros remuneratórios, contudo como já exposto acima, a parte deixou de juntar demonstrativo do valor que entende realmente devido, inclusive com o afastamento da alegada capitalização.
+Contudo, como visto, da leitura do contrato acostado no mov. 1.2 dos autos da execução, não se constata a existência de previsão de capitalização de juros remuneratórios no período da normalidade contratual, enquanto as planilhas que instruem a execução, acostadas por cópia às fls. 91/94, consignam a incidência de juros remuneratórios no período em cobrança, em tese de forma capitalizada pois acrescidos mês a mês ao saldo devedor.
+Deste modo, embora, repita-se, a parte alegue a existência de tal conduta por parte da credora, sem no entanto demonstrá-la conforme seria sua obrigação, o certo é que havendo indícios que decorrem das planilhas apresentadas pela própria credora da prática, que neste caso não encontra amparo contratual, não é possível o acolhimento da capitalização mensal, cf. esta aparenta ter ocorrido no caso concreto" (e-STJ fls. 234/235).
+Verifica-se que a pretensão recursal, nesse ponto, esbarra inarredavelmente no óbice da Súmula nº 283 do Supremo Tribunal Federal, pois há fundamento autônomo não atacado no especial, a saber: não cabimento de capitalização de juros em razão da ausência de previsão contratual.
+Assim, é notório que a recorrente não infirmou especificamente os fundamentos do acórdão impugnado.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. DOENÇA DO ADVOGADO. JUSTA CAUSA. RESTITUIÇÃO DE PRAZO. ART. 183, § 1º DO CPC. EMBARGOS DE TERCEIRO. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. FUNDAMENTO INATACADO. SÚMULAS 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7 DO STJ. EMBARGOS DE DECLARAÇÃO CONHECIDOS PARA AFASTAR A INTEMPESTIVIDADE DO RECURSO ESPECIAL. AGRAVO NÃO PROVIDO.
+1. A doença do advogado pode constituir justa causa para os efeitos do art. 183, § 1º do CPC, levando em conta quando ele for o único procurador constituído nos autos.
+2. Não se revela a via adequada para análise de contrariedade à Súmula 195 do STJ, por não estar esta compreendida na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial. Incidência da Súmula 284 do Supremo Tribunal Federal.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283 do Supremo Tribunal Federal.
+5. Para se chegar a conclusão diversa da que chegou o Tribunal estadual, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Embargos de declaração acolhidos para reconhecer a tempestividade do recurso especial. Todavia, pelas razões aduzidas no voto nego provimento ao agravo em recurso especial" (Edcl no Agrg nos Edcl no Aresp 609.426/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 31/8/2015).
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015, em razão da ausência de fixação na origem.
+Publique-se.
+Intimem-se.
