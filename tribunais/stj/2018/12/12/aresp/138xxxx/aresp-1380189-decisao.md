@@ -1,0 +1,44 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. ART. 20, § 3º, DO CPC. VALOR RAZOÁVEL. SÚMULA 07/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pola UNIÃO contra decisão da Corte de origem que inadmitiu a subida do recurso especial pelo teor da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão oriundo da Quinta Turma do Tribunal Regional Federal da 3ª Região, assim ementado (fls. 274-280):
+DIREITO ADMINISTRATIVO. SERVIDOR MILITAR. CURSO DE FORMAÇÃO DE CABOS DA AERONÁUTICA. AVALIAÇÃO PSICOLÓGICA. EXCLUSÃO DO CANDIDATO. ATO ADMINISTRATIVO. MOTIVAÇÃO POSTERIOR. IMPROPRIEDADE. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. AGRAVO- RETIDO NÃO CONHECIDO.
+1. Não se conhece de agravo retido não reiterado nas razões de apelação (art. 523, § 1º, CPC/73).
+2. O ato administrativo deve ser fundamentado e suas razões, contemporâneas. Precedente do E. STJ.
+3. Honorários advocatícios majorados, levando-se em consideração os parâmetros do art. 20, §§ 3º e 4º, do CPC/73 e aqueles usualmente firmados pela jurisprudência desta. E. Turma.
+4. Agravo retido não conhecido. Reexame necessário e apelação da União desprovidos. Apelação do autor provida.
+Sem embargos de declaração.
+O recorrente em suas razões alega violação dos arts. 85, § 3º do CPC/2015 e 884 do Código Civil, ao argumento de que a fixação dos honorários advocatícios se configurou excessivo, uma vez que para se fixar o percentual máximo, a ação deveria versar sobre causa complexa, não sendo este o caso. Acrescenta, ainda, que a manutenção do acórdão recorrido "contribui para a violação inequívoca do princípio da vedação ao enriquecimento ilícito" (fl. 287, e-STJ).
+Requer ao final o provimento do recurso especial, para "anular o v. Acórdão no que diz respeito ao percentual de honorários fixado, restabelecendo-se a sentença que foi erroneamente modificada neste ponto" (fl. 287, e-STJ).
+ Com contrarrazões (fls. 291-298, e-STJ).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Na origem, cuida-se de sentença que julgou procedente o pedido anulação de ato administrativo que excluiu a parte autora do Certame referente ao Curso de Formação de Cabos da Aeronáutica do ano de 2009, por ter sido contra indicado no exame de aptidão física.
+O acórdão recorrido reformou a sentença, ao declarar nulo o ato administrativo, por ausência de motivação, que excluiu o candidato da competição e majorou em R$ 5.000,00 (cinco mil reais) o valor dos honorários advocatícios, alterando o valor arbitrado pelo juízo a quo em 10% (dez) por cento o valor atribuído à causa, correspondente a R$ 520,00 (quinhentos e vinte) reais.
+A jurisprudência desta Corte Superior orienta-se no sentido de que, nas causas em que não há condenação ou quando for vencida a Fazenda Pública, o magistrado deve fixar um valor equitativo, atendendo a critérios estabelecidos pelo parágrafo § 3º do artigo 20, não ficando restrito aos percentuais nele mencionados, podendo, assim: adotar os percentuais previstos no caput do § 3º do mencionado artigo; tomar como base de cálculo o valor atribuído à causa, à condenação; ou, ainda, estipular valor fixo.
+Ademais, é ressabido que o Superior Tribunal de Justiça consolidou orientação no sentido de que a revisão dos honorários advocatícios fixados pelas instâncias de origem somente é possível quando exorbitante ou insignificante a importância arbitrada, em flagrante violação dos princípios da razoabilidade e da proporcionalidade.
+Ocorre que, no particular, o Tribunal de origem, ao considerar as circunstâncias do caso concreto, entendeu que o valor de R$ 5.000,00, fixado na sentença, é razoável para remunerar o trabalho desempenhado no processo.
+Dessa forma, as razões trazidas no apelo especial não se enquadra nas exceções que permitem a interferência desta Corte, uma vez que o valor arbitrado não se mostra excessivo, não sendo determinante para tanto apenas e somente o valor da causa. Sendo assim, incide, à espécie, o disposto na Súmula n. 7/STJ.
+Nesse sentido, confirma precedentes:
+AGRAVO INTERNO EM RECURSOS ESPECIAIS. AÇÃO RESCISÓRIA QUESTIONANDO A COMPETÊNCIA PARA JULGAMENTO DE ANTERIOR AÇÃO RESCISÓRIA. DECISÃO DESTA CORTE NEGANDO PROVIMENTO A AGRAVO DE INSTRUMENTO QUE NÃO ADENTROU AO MÉRITO DA QUESTÃO FEDERAL CONTROVERTIDA. COMPETÊNCIA DO TRIBUNAL DE ORIGEM. PRECEDENTES. IMPROCEDÊNCIA DA SEGUNDA RESCISÓRIA MANTIDA. LITISCONSORTE PASSIVO NECESSÁRIO. CITAÇÃO APÓS O PRAZO DECADENCIAL. IMPOSSIBILIDADE. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. MAJORAÇÃO.
+1. O Superior Tribunal de Justiça é competente apenas para julgar ação rescisória de seus próprios julgados, desde que tenha havido análise do mérito, analisando a questão federal controvertida no recurso especial.
+2. A decisão que negou provimento ao agravo de instrumento interposto contra o acórdão rescindendo originário não analisou mérito, tendo somente aplicado óbices sumulares ao seu conhecimento.
+3. A regularização do polo passivo, com a citação de litisconsorte necessário, somente pode ser realizada antes do decurso do prazo decadencial para propositura da ação rescisória.
+4 A jurisprudência deste Tribunal admite a revisão dos honorários pelo critério da equidade quando o valor fixado destoa da razoabilidade, revelando-se irrisório ou exagerado, o que não se verifica no presente caso.
+5. Agravo interno provido para negar provimento ao recurso especial da agravada e dar parcial provimento ao recurso especial da agravante.
+(AgInt no REsp 1257128/MT, Rel. Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/09/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUTORIZAÇÃO DE CIRURGIA E MATERIAIS. RECUSA INJUSTIFICADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. PEDIDO DE REDUÇÃO. INADMISSIBILIDADE. OBSERVÂNCIA DOS LIMITES DOS §§ 2º E 3º DO ART. 85 DO CPC/2015. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, o Tribunal entendeu que houve recusa injustificada da operadora do plano de saúde em autorizar a cirurgia com os materiais necessários ao procedimento cirúrgico, concluindo que tal conduta causou dano moral passível de indenização. Alterar esse entendimento demandaria revolvimento de fatos e provas, vedado em recurso especial.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se afigura exorbitante, a justificar sua reavaliação em recurso especial.
+4. Não se mostra excessiva a majoração dos honorários sucumbenciais, que se deu na forma prevista no art. 85, § 11, do CPC/2015, observados os limites ali fixados.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1292968/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 10/10/2018)
+PROCESSUAL CIVIL. ARESP. ARTS. 165, 458 E 535, II, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ HONORÁRIOS. ARBITRAMENTO EM PERCENTUAL DO VALOR DA CONDENAÇÃO. POSSIBILIDADE. CARÁTER EXORBITANTE NÃO CONFIGURADO. REVISÃO. SÚMULA 7/STJ.
+(..) 4. Para o arbitramento dos honorários advocatícios, o julgador, na sua apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC. Precedentes.
+5. Os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostrarem irrisórios ou exorbitantes. No caso, o aresto impugnado reformou a decisão singular para incidir honorários advocatícios no percentual de 10% sobre o valor da condenação.
+6. Não sendo desarrazoado o valor fixado a título de verba honorária, não cabe a esta Corte revê-lo, sob pena de ofensa à Súmula 7/STJ, tendo em vista a necessidade de reexame da matéria de ordem fática, insuscetível de análise pela via especial.
+7. Agravo regimental não provido (AgRg no AREsp 34.529/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 25/02/2013).
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
