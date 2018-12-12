@@ -1,0 +1,15 @@
+DECISÃO
+Insurge-se a impetração em face de decisão do Desembargador Relator do Tribunal de 2º Grau que indeferiu pedido de liminar objetivando a aplicação do lapso temporal comum de 1/6 para fins de progressão ao regime semiaberto relativo ao cumprimento da pena do crime de tráfico privilegiado.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal e plenamente adotada por esta Corte,  n ão compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do Relator que, em "habeas corpus" requerido a tribunal superior, indefere a liminar. Ou seja, em princípio, não se admite a utilização de habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de flagrante ilegalidade ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão impugnada assim consignou, in verbis (fls. 41-42):
+A medida liminar é cabível somente quando o constrangimento ilegal é manifesto e detectado, de imediato, através do exame sumário da inicial, o que não ocorre no presente caso.
+Repise-se que a paciente foi condenada pela prática do crime de tráfico ilícito de entorpecentes, equiparado à categoria daqueles considerados hediondos pela legislação infraconstitucional, razão pela qual, face sua primariedade, deverá cumprir ao menos 2/5 de sua pena no regime mais gravoso para poder ter direito à progressão (ex vi §2º, art. 1º, da Lei 8.72/90, com redação dada pela lei 11.464/07).
+"HABEAS CORPUS. TRÁFICO DE DROGAS COM APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4.º, DA LEI N.º 11.343/2006. CRIME HEDIONDO. INAPLICABILIDADE DO PRAZO ESTABELECIDO NO ART. 112 DA LEP. ORDEM DENEGADA. 1. A aplicação da causa de diminuição de pena prevista no § 4.º do art. 33 da Lei n.º 11.343/2006 não tem o condão de afastar a equiparação constitucionalmente estabelecida entre o delito de tráfico ilícito de drogas e os crimes hediondos. Consequentemente, impõe-se a exigência do cumprimento de 2/5 (dois quintos) ou de 3/5 (três quintos) da pena imposta, como requisito objetivo para a progressão de regime, trazida pela Lei n.º 11.464/07. 2. Ordem denegada ". (STJ - HC 197387 / MS - Rel. Min Laurita Vaz - 5ª Turma) Processe-se, requisitando as informações de praxe.
+Após, dê-se vista à douta Procuradoria Geral de Justiça para tomar ciência e emitir parecer.
+No caso, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Com efeito, a pretensão de análise do cumprimento do lapso temporal para fins de progressão ao regime semiaberto relativo à pena por tráfico privilegiado é questão passível de indeferimento do pedido de liminar, em habeas corpus, por demandar, inclusive, análise do próprio mérito da impetração.
+Diante do exposto, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
