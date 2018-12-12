@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. PLEITO DE APLICAÇÃO. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULA N. 568/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO PROVER O RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+O MM. juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 5 (cinco) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, mais 666 dias-multa (fls. 214-225).
+Irresignada, a defesa interpôs recurso de apelação criminal, com vistas à reforma da sentença recorrida. No Tribunal de origem, o recurso foi parcialmente provido, em decisão unânime (fls. 286-295). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES (LEI N. 11.343/06, ART. 33) - SENTENÇA CONDENATÓRIA - MATERIALIDADE E AUTORIA INCONTROVERSAS - PRIMEIRA FASE - NATUREZA E QUANTIDADE DA DROGA - ARGUMENTO TAMBÉM UTILIZADO NA HIPÓTESE DE TRÁFICO PRIVILEGIADO - VEDAÇÃO DE BIS IN IDEM - PENA-BASE (LEI N. 11.343/06, ART. 33, § 4º) - INVIABILIDADE - GRANDE QUANTIDADE DE ENTORPECENTES QUE CONFIRMAM A DEDICAÇÃO À ATIVIDADE CRIMINOSA - RECURSO PARCIALMENTE PROVIDO."
+Nas razões do recurso especial, interposto com fulcro nas alíneas a e c, do permissivo constitucional, a Defesa do recorrido sustentou a ocorrência de violação ao art. 33, § 4º, da Lei n. 11.343/2006, bem como a ocorrência de dissídio jurisprudencial sobre o tema (fls. 356-371). Apresentadas as contrarrazões (fls. 375-381), o recurso foi inadmitido na origem (fls. 383-387).
+O Parquet estadual interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, no qual alega violação ao art. 33, § 4º, e 42, ambos da Lei n. 11.343/2006, bem como a ocorrência de dissídio jurisprudencial sobre o tema (fls. 389-404). Para tanto, argumenta que:
+a) "o acórdão contestado violou os dispositivos supracitados ao considerar que o aumento da pena-base e o afastamento da causa de diminuição de pena referente ao tráfico privilegiado, utilizando-se, em ambas as fases da dosimetria, da quantidade de droga apreendida como fundamentação, configura bis in idem, pois se trata de dupla valoração negativa de uma mesma circunstância" (fl. 395);
+b) " ..  ainda que a quantidade dos entorpecentes apreendidos tenha sido considerada como uma das circunstâncias que ensejou o reconhecimento de que o réu não era uma traficante eventual, o afastamento da causa de aumento se deu em razão da dedicação habitual à atividade criminosa" (fl. 396);
+c) "dessa forma, diversamente do que restou consignado na decisão recorrida, não se há falar em bis in idem" (fl. 397);
+d) "evidenciado o dissídio, é necessária a pacificação da orientação jurisprudencial por esse Superior Tribunal de Justiça, com a prevalência do entendimento da decisão paradigma" (fl. 404).
+Apresentadas as contrarrazões pela Defesa (fls. 415-429), o recurso especial ministerial foi admitido na origem (fls. 431-433) e os autos foram encaminhados a este Superior Tribunal.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo provimento do recurso especial (fls. 455-457).
+Em decisão de fls. 460-465, conheci do apelo nobre interposto pelo Parquet, para dar-lhe provimento, nos termos da ementa a seguir transcrita:
+"RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. APELAÇÃO DA DEFESA PROVIDA. PENA-BASE DIMINUÍDA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA AFASTADA. RECURSO MINISTERIAL. PLEITO DE RESTABELECIMENTO DA SENTENÇA RECORRIDA. DEDICAÇÃO À ATIVIDADE CRIMINOSA. QUANTIDADE E QUALIDADE DA SUBSTÂNCIA ENTORPECENTE. POSSIBILIDADE. SÚMULA N. 568/STJ. INCIDÊNCIA. RECURSO ESPECIAL PROVIDO"
+Opostos embargos de declaração, pela Defesa do ora agravante, foram eles rejeitados, nos termos da ementa a seguir sintetizada:
+"PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL MINISTERIAL. ALEGAÇÃO DE VÍCIO NO EMBARGO. NÃO ESPECIFICAÇÃO DE QUAL VÍCIO PADECERIA O DECISUM EMBARGADO. INEXISTÊNCIA DE VÍCIO. RECURSO ESPECIAL QUE ANALISA, EM MINÚCIAS, O QUE SUSCITADO PELA PARTE RECORRENTE. PLEITO DE REEXAME DA CAUSA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INADEQUAÇÃO DA VIA ELEITA. EMBARGOS REJEITADOS"
+Conforme certidão de fl. 495, a decisão transitou em julgado para o Ministério Público do Estado de Santa Catarina.
+Nos termos da certidão de fl. 554, "foi constatado que há Agravo em Recurso Especial  ..  pendentes de julgamento". Consta, ademais, que "os indigitados apelos foram cadastrados eletronicamente no Sistema de Automação do Judiciário - SAJ como sendo "Agravo de Instrumento", o que ocasionou o não envio oportuno das referidas peças".
+Na petição de agravo em recurso especial, só agora colacionada aos autos (fls. 497-510), alega o agravante, em síntese, que " ..  a concessão do benefício disposto no art. 33, § 4º, da Lei n. 11.343/06 é medida impositiva no caso concreto, uma vez que [NOME] é primário, de bons antecedentes, não pertence à associação criminosa e, como já delineado e devidamente comprovado, não se dedica a atividades criminosas" (fl. 505).
+Os autos vieram conclusos a mim.
+É o relatório.
+Decido.
+Feitas essas considerações, passo à análise do pedido formulado no presente reclamo (fls. 497-510), concernente à aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006.
+O eg. Tribunal a quo, ao não aplicar a minorante pleiteada no presente recurso, o fez pelos seguintes fundamentos, verbis:
+"Por fim, é de se afastar a pretensão da defesa no tocante à aplicação da causa especial de diminuição de pena.
+No ponto, verifica-se que o acusado transportava uma grande quantidade de droga, qual seja, 9,5kg (nove quilos e quinhentos gramas) de cocaína e, segundo o entendimento desta Corte de Justiça, deve-se considerar a quantidade de droga apreendida para a aplicação desse dispositivo, pois é circunstância que evidencia ser o reú dedicado à atividade criminosa.
+ ..
+Por essa razão, inviável a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/06, tornando a pena definitiva em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor mínimo legal" (fls. 286-295, grifei).
+Dá análise do excerto acima transcrito, mostra-se correto o v. acórdão objurgado, tendo em vista que se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "nos termos do disposto no art. 33, § 4º, da Lei de Drogas, para que incida a causa especial de diminuição de pena aos condenados pelo delito de tráfico de drogas, é necessário que o agente seja reconhecidamente primário, ostente bons antecedentes e não se dedique a atividades criminosas ou integre organização criminosa" (AgRg no AREsp n. 911.058/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/6/2017).
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. DEDICAÇÃO A ATIVIDADES ILÍCITAS. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+1. Para a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Revela-se inviável a aplicação da causa especial de diminuição, tendo em vista que as circunstâncias do caso levaram à conclusão de que o paciente se dedicaria a atividades criminosas.
+ ..
+Agravo regimental improvido" (AgRg no HC n. 387.622/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/6/2017).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DA DROGA. FUNDAMENTOS VÁLIDOS PARA A MODULAÇÃO DO ÍNDICE DE REDUÇÃO. REGIME PRISIONAL MAIS GRAVOSO. MANUTENÇÃO. CRITÉRIO IDÔNEO. QUANTIDADE E QUALIDADE DAS DROGAS. WRIT NÃO CONHECIDO.
+ ..
+2. Segundo reiterada jurisprudência dos Tribunais Superiores, a quantidade e a natureza da droga apreendida podem ser sopesadas na definição do índice de redução da pena pela incidência do art. 33, § 4º, da Lei n. 11.343/2006 ou, até mesmo, no impedimento da aplicação da referida minorante quando evidenciarem a dedicação do agente ao tráfico de entorpecentes. Precedentes.
+ ..
+8. Habeas corpus não conhecido" (HC n. 366.396/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/11/2016, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. TRÁFICO DE ENTORPECENTES. AFRONTA AO ART. 33, § 4º, DA LEI N.º 11.343/06. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MODULAÇÃO DO PATAMAR. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. "Esta Corte firmou jurisprudência no sentido da possibilidade de fixação da causa de diminuição do art. 33, § 4º, da Lei n.º 11.343/06 em patamar diverso do máximo de 2/3 (dois terços), em razão da qualidade e da quantidade de droga apreendida" (AgRg no REsp 1.349.370/SC, Rel. Min. MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 28/06/2013).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 1.045.152/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 15/5/2017, grifei).
+Assim, considerando que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, in casu, a Súmula n. 568/STJ, que assim dispõe, verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Diante do exposto, conheço do agravo (fls. 497-510) para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça.
+P. e I.
