@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COBERTURA SECURITÁRIA. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA PERICIAL. INTERPRETAÇÃO DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. DISSÍDIO NÃO DEMONSTRADO. INCIDÊNCIA DAS SÚMULAS NºS 5, 7 DO STJ, 283 E 284 DO STF. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+FABIANA VALERIA DE ALMEIDA MENEZES DA ROSA (FABIANA) ajuizou ação de cobrança de cobertura securitária contra o ITAÚ SEGUROS S.A. (ITAÚ).
+O juízo de primeiro grau julgou parcialmente procedentes os pedidos, fixando os honorários advocatícios no percentual de 10% sobre o valor da condenação.
+O Tribunal de origem, por sua vez, negou provimento ao recurso de apelação interposto pelo ITAÚ em acórdão assim ementado:
+APELAÇÕES CÍVEIS. SEGURO DE VIDA. REJEITADA A PREFACIAL DE CERCEAMENTO DE DEFESA. DOENÇA ADQUIRIDA NO TRABALHO. ACIDENTE PESSOAL. INVALIDEZ PERMANENTE. HIPÓTESES DE EXCLUSÃO. COBERTURA SECURITÁRIA. DEVER DE INFORMAÇÃO. ACIDENTE DE TRABALHO.
+1. É de ser rejeitada a preliminar de cerceamento de defesa em razão do indeferimento de prova pericial para atestar a invalidez da autora, na medida em que utilizado para exame o laudo pericial produzido no processo trabalhista. Ademais, ao magistrado cabe avaliar a necessidade ou não da produção da prova para prestação jurisdicional, a teor do art. 370 do NCPC.
+2. No caso, as partes não divergem com relação à existência de contrato de seguro, mas da incidência de indenização em caso de doença adquirida no local de trabalho.
+2. Reconhecida a doença na Justiça do Trabalho como acidente de trabalho, a controvérsia passa ao grau de alcance da indenização observada a graduação da invalidez.
+2. A autora afirma desconhecimento acerca das condições do contrato, o que se conclui em seu favor diante da ausência de sua assinatura no documento.
+3. Observada a apólice individual não se constata nenhuma diferenciação com relação à indenização para os casos de invalidez total ou parcial (fl. 76) sobre a previsão de graduação conforme a tabela que a magistrada fez incidir para o cálculo do valor da indenização da autora.
+4. Ainda, consta no artigo 46 do CDC acerca da necessidade dos consumidores tomarem conhecimento prévio sobre os contratos que regulam as relações de consumo, sob pena de os tais contratos não lhes obrigarem.
+5. Assim, inexistindo provas nos autos de que a demandante tinha o conhecimento prévio dos termos do contrato, bem como da incidência da tabela de graduação, deve receber a indenização referente à cobertura de invalidez por acidente, que no seu caso foi permanente (com perda funcional parcial), conforme o limite do capital básico de 100% previsto no certificado da fI. 76, devendo, contudo, ser descontado o valor já pago pela seguradora.
+6. Correção monetária que deverá fluir a partir do evento danoso, no caso a primeira cirurgia. Aplicação analógica da Súmula 38 deste Tribunal.
+APELAÇÃO DA DEMANDANTE PROVIDA E DESPROVIDA A DA DEMANDADA (e-STJ, fl. 255).
+Irresignado, o ITAÚ interpôs recurso especial, fundado nas alíneas a e c do permissivo constitucional, apontando a violação dos arts. 130, 145, 330 e 421 do NCPC, sustentando, em síntese, a necessidade da produção de prova pericial específica para a constatação da doença da autora, bem como para a aferição do percentual de invalidez da segurada.
+O apelo especial não foi admitido na origem sob o fundamento de incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial, que não foi conhecido em decisão monocrática de minha lavra assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO QUE NÃO INFIRMA TODOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO (e-STJ, fl. 414).
+Nas razões do presente agravo interno, a PRUDENTIAL DO BRASIL VIDA EM GRUPO S.A. (PRUDENTIAL), na qualidade de sucessora do ITAÚ, alegou ter impugnado todos os fundamentos adotados pelo juízo de admissibilidade recursal e reiterou, em suma, a tese da que a perícia anexada aos autos seria imprópria para comprovar a invalidez da autora no caso concreto.
+Foi apresentada impugnação (e-STJ, fls. 455/459).
+É o relatório.
+DECIDO.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Reexaminando o agravo em recurso especial apresentado é possível verificar que, de fato, houve impugnação fundamentada quanto aos fundamentos apresentados na decisão denegatória de seguimento do apelo nobre.
+Nesse sentido a seguinte passagem das razões apresentadas:
+ ..
+O Tribunal, ao julgar o presente caso, não entendeu "razoável" exigir a prova pericial médica, servindo-se apenas de mera presunção relativa de que a incapacidade apurada estivesse caracterizada com invalidez por acidente. Entendeu "justo" que fosse a interpretação do contrato dada apenas como indenização por "invalidez laboral".
+Ou seja, a condenação, alvo da insurgência do Recurso Especial, não foi pautada por premissas fáticas, mas sim por um juízo de razoabilidade absolutamente subjetivo e completamente alheio aos termos contratados, aos artigos 757 e 760, do Código Civil e aos regulamentos da SUSEP.
+Trata-se, portanto, não de um RESP que visa à revisão de fatos e provas, mas sim verdadeira readequação dos fatos às normas legais! (e-STJ, fl. 382).
+Nesses termos, RECONSIDERO a decisão agravada e passo ao exame do recurso especial.
+A PRUDENTIAL alegou, essencialmente, que o Tribunal de origem teria violado a violação dos arts. 130, 145, 330 e 421 do NCPC, sustentando, em síntese, a necessidade da produção de prova pericial específica para a constatação da doença da autora, bem como para a aferição do percentual de invalidez da segurada.
+Como se sabe, de acordo com a jurisprudência desta Corte Superior, a decisão pela necessidade ou não da produção de prova é uma faculdade do magistrado, a quem caberá verificar a existência de elementos probatórios para formar sua convicção. Não ocorre cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indeferir diligências inúteis ou meramente protelatórias (AgInt no AREsp nº 1.242.313/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/8/2018).
+No caso concreto, o acórdão afastou a necessidade da produção da prova pericial requerida, afirmando que já teria sido colacionado aos autos laudo médico comprovando a invalidez da autora FABIANA, sendo que a perícia utilizada para apreciação do pedido da autora foi produzida por profissional idôneo e nada consta a desabonar ou desmerecer a prova, de modo que foi suficiente para esclarecimento dos fatos e para o deslinde da questão (e-STJ, fl. 259).
+Logo, a pretendida revisão das conclusões do acórdão recorrido a propósito da necessidade ou não de dilação probatória ensejaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial a teor do enunciado nº 7 da Súmula do STJ.
+Além disso, a Corte local, ao julgar a lide, decidiu que
+A seguradora sustenta que o contrato avençado entre as partes somente prevê indenização em caso de evento traumático, acidente típico. E, efetivamente, examinando as cláusulas do contrato se constata que não apenas o caso de doenças decorrentes ou facilitadas por esforço repetitivo não estão previstas, como estão expressamente excluídas da obrigação indenizável, como se constata na cláusula 2.1.1 (fl. 83).
+A autora, por sua vez, alega desconhecer as condições do contrato, requerendo o valor total do benefício relativo a sua invalidez.
+Ora, diante da ausência da sua assinatura nas apólices tanto do grupo como individual, a conclusão é em seu favor. A aposição de assinatura apenas do contratante, está a evidenciar que realmente não teve a autora acesso às condições contratadas.
+Além disso, não há previsão de percentual para a enfermidade acometida pela segurada, de modo que o contrato deverá ser interpretado a seu favor.
+Conforme dispõe o artigo 6º, inciso III, do Código de Defesa do Consumidor é direito do consumidor ter "a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem".
+Ainda, consta no artigo 46 do CDC acerca da necessidade dos consumidores tomarem conhecimento prévio sobre os contratos que regulam as relações de consumo, sob pena de os tais contratos não lhes obrigarem.
+ ..
+Assim, inexistindo provas nos autos de que a demandante tinha o conhecimento prévio dos termos do contrato, bem como da incidência da tabela de graduação, deve receber a indenização referente à cobertura de invalidez por acidente, que no seu caso foi permanente (com perda funcional parcial), conforme o limite do capital básico de 100% previsto no certificado da fl. 76, R$ 64.324,40, devendo, contudo, ser descontado o valor já pago pela demandada (e-STJ, fls. 254/270).
+Nesse contexto, verifica-se que o aresto recorrido não só apontou a inexistência de previsão contratual para a gradação percentual da invalidez que acometeu a segurada, como também concluiu que a FABIANA não teve conhecimento prévio dos termos do contrato firmado entre as partes.
+Evidente, portanto, que o Tribunal de origem baseou suas conclusões na interpretação do contrato e nas demais provas apresentadas nos autos, razão pela qual a pretensão recursal esbarra nos rigores contidos nas Súmulas nºs 5 e 7 do STJ.
+Além disso, não houve impugnação específica da seguradora em relação às razões de decidir apontadas pela Corte estadual, limitando-se o ITAÚ (sucedido pela PRUDENTIAL) a defender a tese de que o laudo produzido nos autos seria impróprio para comprovar a invalidez alegada pela FABIANA.
+Logo, o apelo nobre também encontra o óbice contido na Súmula nº 283 do STF.
+Por fim, cumpre destacar que, em virtude da ausência do cotejo analítico e diante das peculiaridades do caso concreto, também não se vislumbra a similitude fática imprescindível à configuração da divergência jurisprudencial ventilada, o que também atrai a Súmula nº 284 do STF.
+Nessas condições, RECONSIDERO a decisão agravada para conhecer do agravo em recurso especial e NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios fixados na origem, nos termos do art. 85, § 11 do NCPC.
+Advirta-se, ainda, que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts.1.021, § 4º e 1.026, § 2º).
+
+Publique-se. Intimem-se.
