@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO HENRIQUE CABANHAS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2251717-09.2018.8.26.0000).
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, no art. 34, caput, e no art. 35, c/c o art. 40, inciso V, todos da Lei n. 11.343/2006 e no art. 16, parágrafo único, inciso IV, da Lei 10.826/03, ao cumprimento da pena de 18 (dezoito) anos e 9 (nove) meses de reclusão, em regime inicial fechado, e 1 (um) ano de detenção, no regime aberto, e 10 (dez) dias multa, no piso, por infração ao art. 12 da Lei n. 10.826/2003, porque, juntamente com outros corréus (e-STJ fl. 21):
+guardavam, mantinham em depósito e ocultavam, para fins de comércio, 389.790,4 (trezentos e oitenta e nove quilos, setecentos e noventa gramas e quatro decigramas) da droga conhecida como "cocaína", divididos em trezentos e oitenta porções, dos quais trezentos e setenta e sete na forma de tijolos, sem autorização e em desacordo legal e regulamentar.
+Igualmente porque, nas mesmas circunstâncias descritas no parágrafo anterior, agindo em concurso e com identidade de desígnios, possuíam e guardavam maquinário, instrumentos e objetos destinados à fabricação, preparação, produção ou transformação de drogas, sem autorização e em desacordo com determinação legal e regulamentar.
+Ainda porque, nas mesmas circunstâncias de tempo, local e horário, descritas no terceiro parágrafo, possuíam e mantinham sob guarda, no interior da residência, uma pistola, marca Taurus-PT 738, municiada com seis cartuchos íntegros e um revólver, marca Taurus, calibre 38, municiado com seis cartuchos íntegros, ambos de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar.
+Finalmente porque, nas mesmas circunstâncias de tempo, local e horário, descritas no terceiro parágrafo, possuíam e mantinham sob guarda, um revólver, marca Beretta, calibre 22, com numeração suprimida, municiado com cinco cartuchos íntegros, sem autorização e em desacordo com determinação legal ou regulamentar. (grifei)
+Inconformada, a defesa impetrou writ, com pedido liminar, na Corte estadual, pleiteando, em suma, a concessão da ordem para que ele possa interpor recurso solto.
+O pleito liminar foi, contudo, indeferido pelo Tribunal a quo, nos seguintes termos (e-STJ fls. 18/19):
+Indefiro a liminar pleiteada, uma vez que as circunstâncias de fato e de direito trazidas à colação não evidenciam o atendimento aos pressupostos cumulados típicos das cautelares.
+Na medida em que o juízo de cognição na presente fase se revela extremamente restrito, a antecipação do mérito do habeas corpus exige que a ilegalidade do ato impugnado seja flagrante, de molde a justificar a imediata suspensão de seus efeitos, o que não sucede na hipótese dos autos.
+Requisitem-se informações da autoridade judiciária apontada como coatora, em 48 horas, sobre o alegado, devendo esta, ainda, enviar todas as cópias necessárias ao deslinde do feito, bem como SENHA PARA ACESSO AO PROCESSO, se houver.
+Na presente impetração, a defesa reafirma as alegações originárias, pleiteando a revogação da constrição provisória.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
