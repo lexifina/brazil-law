@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. IMPOSSIBILIDADE. ÓBICE SUMULAR. RECURSO ESPECIAL NÃO CONHECIDO. INVIABILIDADE DA UNIFORMIZAÇÃO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO DESPROVIDO.
+I - "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Enunciado n. 315, da Súmula do STJ.
+II - Os embargos de divergência devem indicar, com clareza e precisão, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do novo Código de Processo Civil e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu no presente caso.
+Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Jorge Mussi, Sebastião Reis Júnior, Nefi Cordeiro, Reynaldo Soares da Fonseca, Ribeiro Dantas, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME], em face de decisão de minha relatoria proferida às fls. 324-330, que indeferiu liminarmente os embargos de divergência em virtude de aplicação da súmula 315/STJ, pois o acórdão embargado não teria enfrentado o mérito recursal, em razão da ausência de prequestionamento, bem como incidência ao caso da Súmula 07/STJ. Consignou-se, também, que não é possível discutir regra técnica de conhecimento do recurso especial em sede de divergência e, por fim, verificou-se que a parte não realizou o necessário cotejo analítico entre o acórdão embargado e os paradigmas citados.
+Irresignada, a parte sustenta que: " ..  ainda que tenha se arguido que a insurgência não se mostrou viável, por ter sido o agravo em recurso especial ofertado em desacordo com os requisitos legais, tem-se que tal arguição revela-se aflitiva ao agravante porque todas as teses levantadas permitem identificar a discrepância do que restou decidido pelo Tribunal de Justiça do Estado de São Paulo com o que deveria efetivamente ter sido aplicado ao caso concreto, à luz dos preceitos infraconstitucionais tidos por violados" (fl. 341).
+Ademais, acrescenta que: "certo é que não houve a incidência da Súmula 7, do Superior Tribunal de Justiça, em razão da suposta intenção de reexame de provas, além da inexistência do impeditivo contido na Súmula 284, do Supremo Tribunal Federal por ausência de demonstração de dissídio jurisprudencial" (fl. 341).
+Por fim, aduz que: "o posicionamento adotado pelo Egrégio Tribunal de Justiça do Estado de São Paulo, o qual vem sendo convalidado ao longo dos julgamentos dos inconformismos perante esta Corte de Justiça, encontra-se em desacordo com a uníssona jurisprudência do Superior Tribunal de Justiça, eis que o acolhimento das teses defensivas, no caso em exame, sequer pressupõe a incidência do óbice da Súmula 7, deste Colendo Sodalício, haja vista a possibilidade de revaloração da prova consistente em atribuir o devido valor jurídico a fato incontroverso nos autos ou em prova colhida sob o crivo do contraditório, sem desconsiderar que a análise de fatos e fundamentos expressamente delineados pelas instâncias ordinárias, não constitui reexame fático-probatório, mas, indiscutivelmente, valoração jurídica de fatos relevantes debatidos" (fl. 341).
+Requer o conhecimento e provimento do presente agravo, para reformar a decisão, a fim de que seja processado os Embargos de Divergência interpostos e, no seu mérito, o provimento.
+Por manter a decisão agravada, submeto o feito à col. Terceira Seção.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. IMPOSSIBILIDADE. ÓBICE SUMULAR. RECURSO ESPECIAL NÃO CONHECIDO. INVIABILIDADE DA UNIFORMIZAÇÃO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO DESPROVIDO.
+I - "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Enunciado n. 315, da Súmula do STJ.
+II - Os embargos de divergência devem indicar, com clareza e precisão, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do novo Código de Processo Civil e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu no presente caso.
+Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo regimental não merece prosperar.
+Com efeito, em suas razões, o agravante tece considerações sobre a justiça da decisão, aduzindo que o caso comportaria outra solução, em virtude dos efeitos aflitivos gerados. Todavia não traz nenhum argumento apto a desconstituir a decisão monocrática que culminou com o indeferimento liminar do recurso.
+Conforme restou consignado na decisão ora embargada (fls. 324-330), o órgão fracionário não adentrou no mérito do recurso especial, em virtude da ausência de prequestionamento (Súmulas 282 e 356/STF), bem como pela incidência ao caso da Súmula 07/STJ.
+Dessa forma, aplicou-se ao caso o disposto na súmula 315 deste Col. Superior Tribunal de Justiça, que assim preconiza: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Esta Corte, aliás, já firmou orientação no sentido de que a presente via não se presta para tal desiderato. Confira-se:
+"PROCESSUAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. CONTROVÉRSIA NÃO DEBATIDA NO ACÓRDÃO APONTADO COMO PARADIGMA. SÚMULA 315 DO STJ.PRETENSÃO DE REDISCUSSÃO DE REGRA TÉCNICA DE CONHECIMENTO DO RECURSO ESPECIAL. INVIABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. Os embargos de divergência pressupõem a similitude fático-jurídica entre os julgados confrontados, com a menção de pontos que identifiquem ou aproximem os acórdãos paragonado e paradigma.
+2. No caso, o acórdão apontado como paradigma não debate o mérito da controvérsia trazida à baila, porquanto não conheceu do agravo interno devido ao óbice da Súmula 182 do STJ. Nos termos do enunciado da Súmula 315 do STJ, aplicável por analogia: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. A jurisprudência desta Corte não admite a oposição de embargos de divergência para rediscutir regras técnicas de conhecimento do recurso especial.
+4. Não caracterizada a similitude fático-jurídica entre os acórdãos embargado e paradigma, inexiste configuração da divergência jurisprudencial, como exige o art. 266, § 1º, c/c o art. 255, § 2º, do RISTJ. Agravo interno improvido" (AgInt nos EDcl nos EAREsp n. 763.260/SP, Corte Especial, Rel. Min. Humberto Martins, DJe de 5/4/2017).
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N.º 315 DO STJ. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão embargado foi no sentido de desprover o agravo regimental, mantendo a decisão do Relator que negou provimento ao agravo em recurso especial, em razão da ausência de prequestionamento e da aplicação das Súmulas n.º 284 do STF e 07 do STJ.
+2. Incidência da Súmula n.º 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Agravo interno desprovido" (AgInt nos EAREsp n. 635.823/TO, Corte Especial, Relª. Minª. Laurita Vaz, DJe de 19/09/2016, grifei).
+Ademais, essa Corte possui entendimento de que não é possível discutir regra técnica de conhecimento do recurso especial em sede de divergência, como pretende o embargante em relação a aplicação ou não Súmula 07/STJ no presente caso.
+Sobre o tema, os seguintes precedentes:
+"AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FALTA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Para a configuração da divergência, os acórdãos confrontados devem apresentar similitude de base fática capaz de ensejar decisões conflitantes.
+2. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência das Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento" (AgInt nos EAREsp n. 782.294/DF, Segunda Seção, Relª. Minª. Maria Isabel Gallotti, DJe de 03/10/2017, grifei).
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO EMBARGADO QUE APRECIOU O MÉRITO RECURSAL. PARADIGMAS QUE APLICARAM AS SÚMULAS N.ºs 07 E 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CASUÍSTICA. COMPARAÇÃO INVIABILIZADA. VIA IMPRÓPRIA PARA DISCUSSÃO ACERCA DE QUESTÃO ATINENTE À REGRA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DISSENSO PRETORIANO INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão embargado examinou o mérito do recurso, que dizia respeito à legitimidade passiva das Recorrentes - sociedades empresárias integrantes de um mesmo grupo econômico - para serem demandadas em execução fundada em título extrajudicial no qual não figuraram como parte.
+2. Os paradigmas, ao revés, negaram provimento aos recursos, aplicando as Súmulas n.ºs 07 e 211 desta Corte (Primeira Turma: Edcl no AgRg no Ag n.º 1.144.424/PB, Rel. Min. Luiz Fux; AgRg nos Edcl no AREsp n.º 566.175/RJ, Rel. Min. Sérgio Kukina; Segunda Turma: AgRg no AREsp n.º 611.971/SP, Rel. Min. Herman Benjamin; AgRg no AgRg no AREsp n.º 427.392/SP, Rel. Min. Humberto Martins).
+3. Não se caracteriza dissídio jurisprudencial, a viabilizar o conhecimento dos embargos de divergência, a discussão acerca da má ou boa aplicação das regras técnicas de admissibilidade do recurso especial, notadamente os óbices das Súmulas n.ºs 07 e 211 desta Corte.
+4. Decisão mantida por seus próprios fundamentos.
+5. Agravo regimental desprovido" (AgRg nos EREsp n. 1.404.366/RS, Corte Especial, Relª. Minª. Laurita Vaz, DJe de 1º/07/2015, grifei).
+Por fim, consignou-se que o recurso não comportaria processamento, diante da falta do necessário cotejo analítico entre o acórdão embargado e os paradigmas citados, conforme dispõe o artigo 266 § 4º do Regimento Interno desta Corte e o artigo 1.043, § 4º do Código de Processo Civil.
+Os artigos acima preceituam que o Embargante "mencionará as circunstâncias que identificam ou assemelham os casos confrontados".
+Tal requisito dos Embargos de Divergência denomina-se cotejo analítico, exigindo que o Recorrente demonstre a semelhança fática ou processual, com conclusões diversas, com a finalidade de demonstrar a efetiva divergência entre os arestos, não bastando a mera transcrição de ementas.
+No caso, tal cotejo não restou minimamente realizado, por ter o embargante se limitado a transcrever ementas dos julgados que entende por paradigmas, e dizer que os julgados teriam conclusões antagônicas, o que, por certo, não supre o requisito delineado.
+Nesse sentido:
+"PROCESSO CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. DIREITO À NOMEAÇÃO. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO. UTILIZAÇÃO DE PRECEDENTES DE TURMAS SUBMETIDAS À ALTERAÇÃO REGIMENTAL DE COMPETÊNCIA. IMPOSSIBILIDADE. SÚMULA 158/STJ. REDISTRIBUIÇÃO DETERMINADA.
+1. A divergência não foi caracterizada, pois não se realizou o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, é insuficiente a comprovação do dissídio jurisprudencial invocado. Precedentes.  .. " (AgInt nos EREsp n. 1.665.076/TO, Corte Especial, Rel. Min. Humberto Martins, DJe de 29/06/2018, grifei).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
