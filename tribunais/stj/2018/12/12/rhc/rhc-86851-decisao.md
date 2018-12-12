@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo, no julgamento do Habeas Corpus n. 2038826-71.2017.8.26.0000.
+O recorrente foi condenado à pena de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 dias-multa, como incurso nas sanções do art. 184, § 2º, do Código Penal.
+Colhe-se, ainda, que não admitido o recurso especial interposto, os autos retornaram à vara de origem e foi determinada a expedição de mandado de prisão em desfavor do réu.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem em acórdão assim ementado (fl. 415):
+Habeas-Corpus Preventivo - Execuções Criminais - Paciente condenado a cumprimento de pena em regime semiaberto, todavia, caso o mandado de prisão seja cumprido, aguardará em regime fechado o surgimento de vaga em estabelecimento adequado Não ocorrência de constrangimento ilegal - Eventual transferência deverá obedecer ordem cronológica - Entraves administrativos podem impedir a imediata concretização de formalização de transferência de regime. Ordem denegada.
+No presente recurso, a defesa requer, liminarmente, a suspensão do mandado de prisão expedido em desfavor do recorrente. No mérito, postula "o aditamento do mandado expedido para constar que o regime inicial do cumprimento de pena, desde o dia da prisão, devera ser o semiaberto e, não havendo vaga nesse regime por ocasião da prisão, o regime aberto na modalidade de albergue domiciliar, de modo que durante o dia o requerente poderá continuar a realizar trabalho externo, recolhendo-se em sua residencia no período noturno" (fls. 443/444).
+A liminar foi indeferida às fls. 459/463.
+Informações prestadas às fls. 471/472, 489/514 e 527/553.
+Indeferido o pedido de reconsideração às fls. 484/485.
+O Ministério Público Federal, às fls. 518/523, opinou pelo desprovimento do recurso.
+É o relatório. Decido.
+Conforme relatado, busca-se no presente writ, preventivamente, que se assegure ao apenado que inicie o cumprimento da sanção privativa de liberdade no regime aberto, caso não exista vaga em estabelecimento prisional adequado ao modo de execução intermediário.
+Consoante reiterada orientação jurisprudencial deste Sodalício, somente é cabível o writ preventivo quando evidentes receios fundados de cerceamento ilegal à liberdade de locomoção. A propósito:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. APREENSÃO DE ARMA NA RESIDÊNCIA DOS RECORRENTES. PLEITO DE IMPEDIR A AUTORIDADE POLICIAL DE INSTAURAR INQUÉRITO E O JUÍZO COMPETENTE DE RECEBER EVENTUAL DENÚNCIA. INEXISTÊNCIA DE AMEAÇA CONCRETA À LIBERDADE DE LOCOMOÇÃO. MERA ALEGAÇÃO DE INOCÊNCIA. MANDADO DE BUSCA E APREENSÃO. DESNECESSIDADE. CRIME PERMANENTE. RECURSO DESPROVIDO.
+1. Alegam os Recorrentes, sem aduzir qualquer violação ao direito de perambulatório, falta de justa causa para o inquérito policial ainda não instaurado e para eventual ação penal, porque os indícios de materialidade e autoria do crime foram obtidos de forma ilícita, por meio de mandado de busca e apreensão sem fundamento, que não observou as formalidades legais.
+2. "O habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, isto é, sempre que fundado for o receio de o paciente ser preso ilegalmente. E tal receio haverá de resultar de ameaça concreta de iminente prisão." (AgRg no HC 84.246/RS, 6ª Turma, Rel. Min. NILSON NAVES, DJ de 19/12/2007.)
+3. E, ainda que a busca e apreensão tenha sido deferida e realizada irregularmente, não se vislumbra qualquer ilegalidade no que diz respeito à colheita de provas obtidas em residência onde ocorria a prática de crime permanente, qual seja, posse ilegal de arma, sendo lícito à autoridade policial ingressar no interior do domicílio, a qualquer hora do dia ou da noite, para fazer cessar a prática criminosa.
+4. Recurso desprovido. (RHC 27.982/MG, Quinta Turma, Rel. Ministra Laurita Vaz, DJe de 13/08/2012)
+Na hipótese em testilha, inexiste qualquer indicação concreta de que a reprimenda imposta será cumprida em regime carcerário diverso daquele fixado na sentença condenatória, sendo, o alegado risco de cumprimento da pena em regime fechado, apenas mera suposição.
+Inviável se mostra, portanto, o acolhimento do pleito defensivo ante a ausência do sofrimento, iminente e plausível, constrangimento ilegal apontado.
+A propósito, confira-se, dentre outros, o seguinte precedente:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS PREVENTIVO. RECEPTAÇÃO. REGIME SEMIABERTO IMPOSTO NA SENTENÇA. ALEGAÇÃO DE INEXISTÊNCIA DE VAGA NO LOCAL ADEQUADO. FALTA DE DEMONSTRAÇÃO DO RISCO IMINENTE E CONCRETO À LIBERDADE DE LOCOMOÇÃO DO AGENTE. RECURSO NÃO PROVIDO.
+1. Nos termos do art. 5º, LXVIII, da Constituição Federal, o risco iminente e concreto de sofrer violência ou coação ao direito de ir e vir do indivíduo constitui requisito indispensável à utilização do writ preventivo.
+2. Na hipótese, diante da falta de demonstração inequívoca de que o agravante está sofrendo, ou na iminência de sofrer, constrangimento ilegal, pois não foi dado cumprimento ao mandado de prisão expedido em seu desfavor e não há elementos concretos que demonstrem o fato de que, caso cumpra a ordem de recolhimento, será colocado em estabelecimento prisional inadequado, a impetração não merece ser deferida.
+3. Agravo regimental não provido (AgRg no HC 276.586/SP, rel. Ministro RIBEIRO DANTAS, DJe 3.8.2016).
+Ante o exposto, com base no art. 34, XVII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se.
