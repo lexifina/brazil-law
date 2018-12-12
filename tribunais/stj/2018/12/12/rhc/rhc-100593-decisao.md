@@ -1,0 +1,17 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. PLURALIDADE DE AÇÕES PENAIS. PLEITO DE UNIFICAÇÃO DOS PROCESSOS E CONTINUIDADE DELITIVA. DEVIDO O REEXAME FÁTICO E PROBATÓRIO. AUSÊNCIA DE ILEGALIDADE.
+Recurso em habeas corpus improvido.
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] e [NOME], em face de acórdão proferido pela Câmara Criminal do Tribunal de Justiça da Paraíba.
+Consta nos autos que os recorrentes foram denunciados pela suposta prática de crimes contra a ordem tributária, os quais tramitam na Quinta Vara Criminal da Capital (fls. 196/200). Os recorrentes pediram que os feitos processuais fossem reunidos em um só e, para tanto, alegaram que as condutas delituosas imputadas dizem respeito à crime continuado. O pedido foi indeferido na origem (processo nº 0021893-76.2014.815.2002).
+Em sede de habeas corpus, a defesa buscou a suspensão da ação penal, e das demais que tramitam em desfavor dos pacientes, pois se encontram em fase próxima da prolação da sentença. No mérito, pediram que a sentença observasse o 71, do Código Penal. A Câmara Criminal do Tribunal de Justiça da Paraíba denegou a ordem (fls. 951/964). Esta, a ementa do julgado (fl. 953):
+HABEAS CORPUS. PLURALIDADE DE AÇÕES PENAIS QUE ESTÃO REUNIDAS EM UM SÓ JUÍZO. PEDIDO DE UNIFICAÇÃO DOS PROCESSOS. IMINENTE PROLAÇÃO DE SENTENÇA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PROCESSOS QUE SERÃO JULGADOS SIMULTANEAMENTE, SEM PREJUÍZO DE APRECIAÇÃO DA TESE DEFENSIVA, CONFORME O TEOR DAS INFORMAÇÕES PRESTADAS PELO JUÍZO DE ORIGEM. PLEITO PELA EVENTUAL CONDENAÇÃO NOS TERMOS DO ART. 71, do CP. ALEGADA CONTINUIDADE DELITIVA ENTRE OS DELITOS, EM TESE, PERPETRADOS. ORDEM NÃO CONHECIDA NESTE PONTO. NECESSIDADE DE ANÁLISE FÁTICO PROBATÓRIO. SUPRESSÃO DE INSTÂNCIA. TESE QUE DEVERÁ SER ANALISADA PELO JUÍZO SINGULAR. ORDEM DENEGADA.
+Se as ações penais, em desfavor dos pacientes, tramitam no mesmo juízo, estando todas na iminência de serem julgadas simultaneamente para que não haja prejuízo para a tese defensiva, não há razão plausível para realizar a unificação dos processos.
+"O exame acerca da continuidade delitiva imporia em revolvimento de matéria fâtico-probatória, inviável em sede de habeas corpus" (HC nº 101.733/RS, Relator para o acórdão o Ministro Edson Fachin, DJe de 29.10.15).
+No presente recurso, os recorrentes pedem o reconhecimento da continuidade delitiva, entre os 14 processos judiciais que tramitam na 5ª Vara Criminal de João Pessoa.
+Parecer ministerial, opinando pelo desprovimento do recurso (fls. 992/996).
+É o relatório.
+Os recorrentes pedem o reconhecimento da continuidade delitiva, entre os 14 processos judiciais que tramitam na 5ª Vara Criminal de João Pessoa. Com efeito, as razões recursais exigem o reexame fático quanto ao preenchimento dos requisitos previstos no artigo 71 do Código Penal. A Corte local afastou a pretensão dos recorrentes exatamente com o fundamento de que a tramitação concomitante das ações penais não implica em afirmar que haja prejuízo para a defesa.
+Assim, não está demonstrado constrangimento ilegal pelo simples fato de não se fazer a unificação dos processos. Por outro lado, a verificação a respeito do cometimento de crimes da mesma espécie, perpetrados nas mesmas condições de tempo, lugar e maneira de execução, devendo os subsequentes ser havidos como continuação do primeiro, demandam profunda análise de provas, inviável em sede de recurso em habeas corpus.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
