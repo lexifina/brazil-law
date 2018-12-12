@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Arouca Representações Comércio e Transportadora de Produtos Alimentícios Ltda., desafiando decisão da Vice Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) quanto à necessidade de dilação probatória em sede de exceção de pré-executividade, incidência da Súmula 83 do STJ e (II) em relação aos honorários sucumbenciais, aplicação da Súmula 7/STJ.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar genericamente que "este debate não realça reexame de provas ou fatos. Ao contrário, revela, unicamente, matéria de direito. Não ofende, pois, à regra da Súmula 07 desta Egrégia Corte" (fl. 778), a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto.
+Ademais, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
