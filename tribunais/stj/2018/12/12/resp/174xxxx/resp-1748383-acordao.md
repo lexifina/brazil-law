@@ -1,0 +1,118 @@
+EMENTA
+RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PARA ADEQUAÇÃO AOS TETOS INSTITUÍDOS PELAS EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. OMISSÃO. INEXISTÊNCIA. DECADÊNCIA. NÃO INCIDÊNCIA. REVISÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PRESCRIÇÃO QUINQUENAL A CONTAR DA AÇÃO INDIVIDUAL.
+1. O Tribunal de origem fundamentou adequada e suficientemente seu julgado, não se havendo de falar em omissão.
+2. É entendimento firmado neste Tribunal Superior que a aplicação dos novos tetos estabelecidos pelas Emendas Constitucionais n. 20/1998 e 41/2003 não é caso de revisão do ato de concessão do benefício, razão pela qual não incide o prazo previsto no art. 103, caput, da Lei n. 8.213/1991. Precedentes.
+3. O acórdão recorrido deu provimento à pretensão autoral, fundamentado no entendimento proferido pelo Supremo Tribunal Federal, no julgamento do RE 564.354, ao reconhecer que não ofende o ato jurídico perfeito a aplicação imediata dos arts. 14 da Emenda Constitucional n. 20/1998 e 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto estabelecido antes da vigência dessas normas.
+4. Tratando-se de ação de conhecimento individual e autônoma, em relação à ação civil pública ajuizada pelo Ministério Público Federal - MPF em momento anterior, com mesmo objeto, o termo inicial da prescrição quinquenal é a data da propositura da ação individual. Precedentes.
+5. Recurso especial do INSS parcialmente conhecido e, nessa extensão, parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, conhecer em parte do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto por Instituto Nacional do Seguro Social - INSS, com base na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fls. 228-229):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. RENDA MENSAL INICIAL. RECUPERAÇÃO DOS EXCESSOS DESPREZADOS NA ELEVAÇÃO DO TETO DAS ECS 20 E 41. INCIDÊNCIA. DECADÊNCIA. INOCORRÊNCIA. PRESCRIÇÃO. AÇÃO CIVIL PÚBLICA. CORREÇÃO MONETÁRIA E JUROS DE MORA. FASE DE CUMPRIMENTO DE SENTENÇA. DIFERIMENTO. TUTELA ESPECÍFICA.
+1. O prazo decadencial do art. 103 da Lei nº 8.213/1991 incide sobre alterações no ato de concessão ou denegação do benefício e, na espécie, isto não é buscado.
+2. Em regra, a prescrição é qüinqüenal, contado o prazo concernente a partir da data do ajuizamento prescrição da ação. Sem embargo, restam ressalvadas as situações em que a ação individual é precedida de ação civil pública de âmbito nacional.
+Nessas hipóteses, a data de propositura desta acarreta a interrupção da prescrição.
+3. O Pleno da Corte Suprema, por ocasião do julgamento do RE 564354, no dia 08 de setembro de 2010, reafirmou o entendimento manifestado no Ag. Reg. no RE nº 499.091-1/SC, decidindo que a incidência do novo teto fixado pela EC nº 20/98 não representa aplicação retroativa do disposto no artigo 14 daquela Emenda Constitucional, nem aumento ou reajuste, mas apenas readequação dos valores percebidos ao novo teto.
+Idêntico raciocínio deve prevalecer no que diz respeito à elevação promovida no teto pela EC 41/2003.
+4. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+5. Tutela específica concedida, com cumprimento imediato do acórdão quanto à implantação da revisão do benefício, tendo em vista a eficácia mandamental dos provimentos fundados no art. 497 do CPC/2015.
+Os embargos da autarquia (e-STJ, fls. 235-238) tiveram provimento negado, nos termos da decisão às e-STJ, fls. 245-/248.
+Alega o recorrente contrariedade aos arts. 40 do Decreto n. 82.080/1979; 21, 23 e 25 do Decreto n. 89.312/1984; 6º da LICC; 104 da Lei n. 8.078/1990; 103, caput, e parágrafo único, da Lei n. 8.213/1991; e 219 do CPC/1973.
+Sustenta, em suma, que a violação teria ocorrido quando o Tribunal a quo determinou a readequação da renda mensal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003 para o benefício concedido sob as regras vigentes anteriormente à Constituição de 1988, assim também em razão de ter a Corte de origem afastado a decadência e determinado, como termo inicial para a prescrição quinquenal, a data de propositura da Ação Civil Pública n. 0004911-28.2011.4.03.6183, quando, no entender do recorrente, correto seria firmá-lo na data de ajuizamento da ação individual.
+Alega, ainda, violação do art. 1.022 do CPC.
+Sem contrarrazões (e-STJ, fl. 253).
+Admitido o recurso especial na origem (e-STJ, fl. 325), subiram os autos a esta Corte de Justiça.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (RELATOR): Registro, desde logo, que não merece prosperar a tese de violação do art. 1.022 do CPC, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. APOSENTADORIA RURAL POR IDADE. COMPROVAÇÃO DA ATIVIDADE RURAL. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Constata-se que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou
+obscuridade, tampouco correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+ .. .
+(REsp 1.655.052/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/4/2017, DJe 25/4/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. PETIÇÃO ELETRÔNICA. SÚMULA 115/STJ. EXISTÊNCIA DE PROCURAÇÃO NOS AUTOS. REGULARIDADE DA REPRESENTAÇÃO COMPROVADA. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS. AGRAVO REGIMENTAL. APOSENTADORIA POR TEMPO DE SERVIÇO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório.
+2. No caso dos autos, verifica-se a existência de erro material, razão pela qual merece acolhimento os embargos de declaração, com efeitos modificativos, a fim de afastar a incidência da Súmula 115/STJ, considerando a regularidade da representação processual.
+3. O agravo regimental não merece ser conhecido, porquanto nos termos da jurisprudência do STJ, inviável o agravo regimental que deixa de impugnar os fundamentos da decisão agravada, nos termos do que dispõe a Súmula 182 do STJ.
+4. Embargos de declaração acolhidos com efeitos modificativos, para afastar o óbice da Súmula 115/STJ e não conhecer do agravo regimental.
+(EDcl no AgRg no AREsp 833.463/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/8/2016, DJe 12/8/2016)
+Quanto à decadência, observa-se que o Tribunal de origem alinhou-se ao entendimento firmado nesta Corte Superior de que a aplicação dos tetos previstos nas Emendas Constitucionais n. 20/1998 e 41/2003 não é caso de revisão do ato de concessão, razão pela qual não incide o prazo previsto no art. 103, caput, da Lei n. 8.213/1991. Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. REVISÃO DE BENEFÍCIO. APLICAÇÃO IMEDIATA DOS TETOS PREVISTOS NAS ECS 20/98 E 41/2004. NORMAS SUPERVENIENTES. PRAZO DECADENCIAL PREVISTO NO ART. 103 DA LEI 8.213/91. NÃO INCIDÊNCIA.
+1. Não ocorre ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A teor do entendimento consignado pelo STF e no STJ, em se tratando de direito oriundo de legislação superveniente ao ato de concessão de aposentadoria, não há falar em decadência.
+3. No caso, a aplicação dos novos tetos surgiu somente com as EC"s 20/98 e 41/03, motivo pelo qual se revela de rigor o afastamento da decadência.
+4. Recurso especial a que se nega provimento.
+(REsp 1.420.036/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/4/2015, DJe 14/5/2015)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO DE RENDA MENSAL INICIAL. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. DECADÊNCIA AFASTADA.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art.
+535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. O prazo decadencial previsto no art. 103 da Lei 8.213/1991 aplica-se somente aos casos em que o segurado busca a revisão do ato de concessão do benefício previdenciário.
+3. A pretendida extensão do disposto no mencionado dispositivo legal ao caso dos autos - revisão da renda mensal no intuito de que sejam observados os novos valores do teto definido nas Emendas Constitucionais 20/1998 e 41/2003, ou seja, reajustamento da renda mensal inicial - é inadequada, porquanto o autor requer aplicação de normas supervenientes à data da concessão do benefício.
+4. A Instrução Normativa INSS/PRES 45, de 6 de agosto de 2010, corrobora tal entendimento: "art. 436. Não se aplicam às revisões de reajustamento e às estabelecidas em dispositivo legal, os prazos de decadência de que tratam os arts. 103 e 103-A da Lei 8.213, de 1991".
+5. Ressalte-se que o Supremo Tribunal Federal, no julgamento do RE 564.354/SE, submetido à sistemática da repercussão geral, nos termos art. 543-B, § 3º, do CPC, afirmou que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n.
+20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional".
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.506.092/SC, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/2/2015, DJe 20/3/2015)
+No tocante ao pleito revisional, o acórdão recorrido apreciou a questão sob o enfoque das Emendas Constitucionais n. 20/1998 e 41/2003, o que impede a sua análise em recurso especial, a despeito de o agravante ter interposto recurso extraordinário, uma vez que a adoção pela instância ordinária de fundamento exclusivamente constitucional na solução da lide inviabiliza o conhecimento do apelo extremo de competência do STJ.
+No ponto:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. READEQUAÇÃO DE BENEFÍCIO. REVISÃO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+1. A controvérsia gira em torno da possibilidade de incidência dos valores dos tetos estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003, aos benefícios previdenciários concedidos anteriormente à entrada em vigor das referidas Emendas.
+2. Com efeito, o acórdão recorrido apreciou a questão sob o enfoque de interpretação eminentemente constitucional. Dessarte, a apreciação da matéria em Recurso Especial fica inviabilizada, sob pena de usurpação da competência do STF.
+3. Recurso Especial não provido.
+(REsp 1.650.679/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 9/3/2017, DJe 20/4/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. TETO. ECs 20/98 E 41/03. ADEQUAÇÃO AO JULGADO PROFERIDO PELO STF. EXAME DE MATÉRIA CONSTITUCIONAL. EXISTÊNCIA DE LIMITAÇÃO QUANDO DA CONCESSÃO DO BENEFÍCIO. REEXAME DE PROVAS. S. 7/STJ.
+ ..
+2. A questão referente à correta aplicação dos tetos constitucionais, previstos nas ECs 20/98 e 41/03, com a utilização dos parâmetros estabelecidos no RE 564.354/SE pelo Supremo Tribunal Federal, exige o exame de matéria constitucional, que não é passível de apreciação na via estreita do recurso especial.
+3. Ademais, a alteração das conclusões adotadas pela Corte de origem, a fim de se verificar se o benefício previdenciário alcançou o teto legal quando da entrada em vigor das ECs 20/98 e 41/03, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 554.901/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/8/2015, DJe 27/8/2015)
+Verifico que a Corte de origem entendeu que os valores devidos ao autor da ação devem retroagir até o quinquênio legal anterior ao ajuizamento da ação civil pública, conforme o seguinte trecho do julgado (e-STJ, fls. 220-221):
+
+Prescrição
+Em regra, a prescrição é qüinqüenal, contado o prazo concernente a partir da data do ajuizamento prescrição da ação. Sem embargo, restam ressalvadas as situações em que a ação individual é precedida de ação civil pública de âmbito nacional. Nessas hipóteses, a data de propositura desta acarreta a interrupção da prescrição.
+A fim de evitar tautologia, adoto como razões de decidir trecho de voto proferido pelo ilustre Desembargador Rogério Favreto (nos autos do processo 5014551- 77.2012.404.7000/PR), cujo teor reflete meu entendimento sobre o tema:
+Da prescrição:
+Em se tratando de benefício previdenciário de prestação continuada, a prescrição não atinge o fundo de direito, mas somente os créditos relativos às parcelas vencidas há mais de 5 (cinco) anos da data do ajuizamento da demanda, consoante a iterativa jurisprudência dos Tribunais.
+Ocorre, no entanto, que parte da controvérsia estabelecida na presente demanda refere- se ao reconhecimento da interrupção da prescrição quinquenal mediante propositura de ACP (Ação Civil Pública) 0004911-28.2011.4.03.6183, ajuizada em 05/05/2011. Na sentença, o MM. Juiz considerou, para fins de prescrição, a data da propositura da presente ação, deixando de acolher a ocorrência de interrupção pela ACP.
+Em relação ao efeito interruptivo da prescrição decorrente da citação realizada na ACP, tenho que procede o recurso, consoante pacífica orientação desta Corte, sendo possível apenas o acolhimento da prescrição das parcelas anteriores a 05/05/2006.
+Impõe-se, pois, dar provimento à apelação da parte autora para reconhecer que foi ela beneficiada pelo efeito interruptivo da citação e determinar a data do ajuizamento da ação civil pública nº 0004911-28.2011.4.03.6183, a saber, 05/05/2011, como termo inicial da prescrição quinquenal quanto ao pedido de incidência das EC"s 20/1998 e 41/2003.
+Nesse sentido, cito também os seguintes precedentes desta C. Turma:
+PREVIDENCIÁRIO. REVISÃO. NOVOS TETOS. AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO DA PRESCRIÇÃO.
+O ajuizamento de Ação Civil Pública, pelo Ministério Público Federal, ou Ação Coletiva, por [NOME], anteriormente à propositura da demanda individual, interrompe o curso da prescrição quinquenal.
+(TRF 4ª Região,6ª Turma, Emb. Declaração em Apelação/Reexame Necessário nº 50059416820134047200/SC, Rel. Juiz Federal Paulo Paim da Silva, j. 18/12/2013) PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO DE SERVIÇO RURAL. INÍCIO DE PROVA MATERIAL.
+AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PELO MPF. PRESCRIÇÃO.
+INTERRUPÇÃO.
+1. Não havendo condenação em valor certo, deve-se conhecer do reexame necessário. Aplicação da súmula 490/STJ.
+2. A citação válida em ação civil pública, na forma do disposto no art. 219, § 1º, do CPC, interrompe da prescrição, que retroagirá à data da propositura da ação.
+3. A prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo para a interromper (art. 202, parágrafo único, CC). Assim, ajuizada a demanda individual antes do trânsito em julgado da demanda coletiva, não se verifica a prescrição.
+(TRF/4ª Região, 6ª Turma, Apelação/Reexame Necessário nº 5003601- 56.201.404.7201/SC, Rel. Juiza Federal Luciane Merlin Cl ve Kravetz, j. 18/12/2013) PREVIDENCIÁRIO. PRESCRIÇÃO QUINQUENAL. INTERRUPÇÃO.
+APOSENTADORIA POR TEMPO DE SERVIÇO. REQUISITOS. ATIVIDADE RURAL ANTERIOR AOS 14 ANOS DE IDADE. INÍCIO DE PROVA MATERIAL.
+MARCO INICIAL.
+1. Consoante as disposições do art. 219, caput e §1.º do CPC, e art. 174 do CCB (atual art. 203), com o ajuizamento de Ação Civil Pública, na defesa dos interesses dos segurados da Previdência Social, o MPF promoveu a interrupção da prescrição quinquenal.(..) (TRF/4ª Região, 6ª Turma, Apelação/Reexame Necessário nº 5002141- 97.2011.404.7201/SC, Rel. Desembargador Federal Celso Kipper, j. 24/07/2013)
+Assim, somente estão prescritas as parcelas anteriores aos cinco anos do ajuizamento da Ação Civil Pública nº 0004911-28.2011.4.03.6183, em 05/05/2011.
+Contudo, a interrupção da prescrição não enseja o pagamento das parcelas referentes ao quinquênio anterior ao ajuizamento da ação coletiva.
+Com efeito, a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual.
+Logo, deve ser liquidado apenas o quinquênio anterior ao ajuizamento da ação individual.
+Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ARTIGO 112 DA LEI 8.213/1991. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ADEQUAÇÃO AOS TETOS CONSTITUCIONAIS. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. AÇÃO COLETIVA. PARCELAS EM ATRASO. PRESCRIÇÃO QUINQUENAL CONTADA DO AJUIZAMENTO DA AÇÃO INDIVIDUAL. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Acerca da alegada violação do artigo 112 da Lei 8.213/1991, verifica-se que a matéria não foi abordada pelo acórdão a quo. Portanto, a pretensão recursal esbarra no óbice imposto pela Súmula 211/STJ que dispõe in verbis: inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+2. No que toca a interrupção da prescrição pelo ajuizamento da ação civil pública, o STJ, no julgamento do REsp 1.388.000/PR, sob a sistemática dos recursos especiais repetitivos, firmou orientação no sentido de que a propositura da referida ação coletiva tem o condão de interromper a prescrição para a ação individual.
+3. Contudo, a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual. Precedente.
+4. A jurisprudência do STJ se firmou no sentido de não ser possível, por meio de recurso especial, a revisão do critério de justiça e equidade utilizado pelas instâncias ordinárias para fixação da verba advocatícia, pois tal providência depende da reapreciação dos elementos fático-probatórios do caso concreto, o que encontra óbice da Súmula 7/STJ. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1.642.625/ES, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 6/6/2017, DJe 12/6/2017)
+PROCESSUAL CIVIL. AÇÃO COLETIVA. INTERRUPÇÃO DA PRESCRIÇÃO. CITAÇÃO. AÇÃO INDIVIDUAL. ATRASADOS. PRESCRIÇÃO QUINQUENAL. SÚMULA 85/STJ. RECURSO ESPECIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação Ordinária proposta pelos recorrentes contra o Estado do Rio de Janeiro, objetivando reconhecimento do direito ao reajuste concedido pelo artigo 1º da Lei 1.206/87, bem como o pagamento de todas as diferenças vencidas não prescritas e vincendas.
+2. O Tribunal a quo negou provimento ao segundo Agravo Interno, e deu parcial provimento ao primeiro Agravo Regimental, e assim consignou na sua decisão: "De início, é de se afastada a prescrição de fundo de direito reconhecida na sentença, haja vista que se trata de prestação de trato sucessivo, a incidir o disposto na Súmula 85 do STJ. No entanto, não assiste razão aos autores quando afirmam que deve ser reconhecida a interrupção da prescrição em razão do ajuizamento da ação coletiva pelo SinJustiça em março de 2002, o que enseja o pagamento das diferenças do reajuste de 24% a partir de março de 1997. Por certo, a propositura de ação coletiva com o mesmo objeto de ação individual tem o condão de interromper a prescrição. Ocorre que a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas. Dessa forma, a citação do Estado na ação mencionada pelos autores não teve o condão de impedir o reconhecimento da prescrição quinquenal para pagamento das parcelas pretéritas." (fl. 859).
+3. Esclareça-se que a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ.
+4. A citação válida no processo coletivo interrompe o prazo prescricional para propositura da Ação individual.
+5. Ademais, a presente Ação Individual é autônoma e independente da Ação Coletiva, sobretudo porque, in casu, não se tem notícia de que houve o pedido de suspensão no prazo de trinta dias, a contar da ciência nos autos do ajuizamento da Ação Coletiva, conforme dispõe o artigo 104 do CDC.
+6. Não fizeram os recorrentes o devido cotejo analítico, e assim não demonstraram as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+7. Agravo Regimental não provido.
+(AgRg no REsp 1.559.883/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2016, DJe 23/5/2016)
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento, nos termos da fundamentação, para determinar que a prescrição quinquenal do pagamento de parcelas vencidas tenha como marco inicial o ajuizamento da ação individual.
+É como voto.
