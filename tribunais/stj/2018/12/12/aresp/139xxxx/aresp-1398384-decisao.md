@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 495/496, in verbis:
+Os agravantes foram denunciados como incursos no art. 157, § 2º, II, do Código Penal, porque, em 15/6/2010, "agindo em comunhão de esforços e acordo de vontades, subtraíram para eles, mediante violência, uma bolsa de couro feminina, contendo diversos pertences pessoais da vítima [NOME]".
+Em sentença, [NOME] e [NOME] foram condenados às penas de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e 10 dias-multa, pelo crime apontado na peça acusatória.
+O recurso de apelação foi parcialmente provido pelo Tribunal de Justiça do Rio Grande do Sul, "para desclassificar a condenação dos réus [NOME] e [NOME] para os lindes do art. 157, § 2º, II, c/c o art. 26, parágrafo único, ambos do CPB, e reduzir a sua pena carcerária individual definitiva para 02 anos, 1 mês e 18 dias de reclusão, a ser cumprida em regime inicial aberto, mantendo as demais disposições periféricas da sentença".
+Contra esse acórdão foi interposto recurso especial, fundado na alínea "a" do permissivo constitucional, no qual se sustentou a ofensa aos artigos 155 e 386, III, VI e VII, ambos do Código de Processo Penal. Segundo alegado, os recorrentes não foram submetidos a reconhecimento pessoal e também não foram apontados por nenhuma das testemunhas ouvidas em juízo como autores do crime em questão, o que deveria ensejar a absolvição da imputação delitiva.
+O recurso não foi admitido na origem, aos fundamentos de que  i  a matéria disposta no art. 155 do CPP carece do necessário prequestionamento e  ii  o exame do pleito absolutório demanda revolvimento do conjunto fático-probatório dos autos, providência vedada em sede extraordinária.
+Daí a interposição do presente agravo, em que se defende, em suma, a inexistência dos óbices apontados na decisão de inadmissibilidade do recurso especial.
+É o relatório.
+Ao final, o Parquet opinou pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Inicialmente, quanto à alegação relativa à deficiência das provas que sustentaram o édito condenatório, tenho que, no caso, para que fosse possível a análise da pretensão recursal, seria imprescindível o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial em virtude do que preceitua a Súmula n. 7 desta Corte Superior.
+Não bastasse, vejo que a matéria constante do dispositivo legal tido por violado - art. 155 do Código de Processo Penal - não foi objeto de debate pelo Tribunal de origem, e não foram opostos embargos de declaração para esse fim.
+Dessa forma, não há como analisar a quaestio, ante a ausência de prequestionamento. Incidem na espécie, portanto, as Súmulas n. 356 e 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Confiram-se nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. NEGATIVA DE VIGÊNCIA DO ART. 51, P.Ú., DA LEI N. 11.343/06. PRORROGAÇÃO DO PRAZO DE CONCLUSÃO DO INQUÉRITO POLICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS ENUNCIADOS N. 282 E N. 356, AMBOS DO STF. (I) - ALEGAÇÃO DE INÉPCIA DA DENÚNCIA APÓS A PROLAÇÃO DO ÉDITO CONDENATÓRIO. PRECLUSÃO. (II) - IRREGULARIDADES NO INQUÉRITO POLICIAL NÃO CONTAMINAM A AÇÃO PENAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 282 e 356/STF.
+2. "Na linha dos precedentes desta Corte, a alegação de inépcia da denúncia deve ser deduzida antes da prolação do édito condenatório, sob pena de convalidação pelo princípio da preclusão". (HC 291.368/SE, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 06/06/2014)
+3. É assente neste Tribunal o entendimento de que "eventuais irregularidades ocorridas na fase investigatória, dada a natureza inquisitiva do inquérito policial, não contaminam a ação penal." (HC 232.674/SP, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 10/4/2013.)
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 843.321/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016, sem os grifos no original.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE VISTA AO MINISTÉRIO PÚBLICO FEDERAL. NÃO OCORRÊNCIA. REVISÃO CRIMINAL. VIOLAÇÃO AO ART. 621, I, DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+1. Não há falar em nulidade por ausência de vista ao Ministério Público Federal, na medida em que o parecer foi apresentado às fls. 164/170.
+2. Não se conhece da arguida violação ao art. 621, I, do Código de Processo Penal, ante a ausência de prequestionamento, requisito indispensável, a teor dos enunciados sumulares 282 e 356/STF.
+3. Segundo o entendimento desta Corte, ainda que a suposta violação de lei federal tenha surgido no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão, sob pena de não se ter por satisfeito o requisito do prequestionamento.
+4. Agravo regimental improvido. (AgRg no REsp 1112981/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/11/2015, DJe 23/11/2015, sem os grifos no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
