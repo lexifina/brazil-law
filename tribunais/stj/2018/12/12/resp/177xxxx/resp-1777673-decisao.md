@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Fundo Único de Previdência Social do Estado do Rio de Janeiro, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 151/152):
+AGRAVO LEGAL EM APELAÇÃO CÍVEL. PROVIMENTO LIMINAR DO RECURSO PARA CONDENAR A RÉ AO PAGAMENTO DO PECÚLIO PÓS MORTEM À AUTORA, ALÉM DE ARCAR COM A TAXA JUDICIÁRIA E HONORÁRIOS DE ADVOGADO FIXADOS EM 10% SOBRE A IMPUTAÇÃO. AÇÃO DE COBRANÇA. IPERJ. PECÚLIO POST MORTEM.
+1. Cobrança de pecúlio post mortem face o falecimento de servidor público estadual.
+2. A lei aplicável à concessão do benefício de pecúlio post mortem, deve ser aquela em vigor na data do óbito de seu instituidor, observando-se, assim, o princípio do tempus regit actum.
+Orientação do Superior Tribunal de Justiça, materializada no enunciado sumular nº 340.
+3. O óbito do servidor ocorreu na vigência da Lei nº 285/79, a qual não havia ainda sofrido as modificações introduzidas pela Lei nº5109/07, que importaram na extinção do benefício perseguido.
+4. A vedação disposta no artigo 5º da Lei nº 9717/98, não pode atingir os servidores que já contribuíam quando da edição da lei, pois estaria a lei federal atingindo direitos jjá constituídos.
+5. Os servidores públicos estaduais são regidos por regime previdenciário próprio, o que não obsta que sejam instituídos benefícios previdenciários diferenciados em seu favor, ainda que não previstos em Lei Federal ou na Constituição, desde que tais diplomas legais não sejam contrariados.
+6. Habilitação junto ao IPERJ feita dentro do prazo, enquadrando-se na hipótese prevista no art.45 da Lei 285/79. A Lei 9717/98 que não atinge o direito já constituído da suplicante.
+7. Desprovimento do recurso.
+Opostos embargos declaratórios, foram rejeitados (fls. 164/169).
+A parte recorrente aponta violação aos arts. 535, II, do CPC/73 e 5º da Lei n.º 9.717/98, além de dissídio jurisprudencial. Sustenta, em síntese, negativa de prestação jurisdicional e que, "desde a regulamentação pela Lei Federal nº 9.717, de 1998, o pagamento do pecúlio post mortem pelo ente previdenciário estadual não se afigura mais possível." (fl. 175).
+Acrescenta que "o pecúlio post mortem, como se sabe, não é um dos benefícios taxativamente arrolados pelo art. 18 da Lei Federal nº 8.213, de 1991, que dispõe sobre o plano de benefícios para o regime geral de previdência social. Assim, com as alterações constitucionais e com a edição da lei nacional estabelecedora das normas gerais para os regimes próprios de previdência, o pagamento de pecúlio post mortem por entidades previdenciárias passou a ser inconstitucional e ilegal." (fl. 176).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Inicialmente, é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Ademais, o Tribunal de origem entendeu devido o pagamento do pecúlio post mortem, sob as seguintes razões (fls. 152/154):
+No caso, a lei aplicável à concessão do benefício de pecúlio post mortem, deve ser aquela em vigor na data do óbito de seu instituidor, observando-se, assim, o principio do tempus regit actum.
+ ..
+Desse modo, o benefício perseguido será regulado pela lei vigente na data do óbito do segurado, momento em que nasce o direito ao benefício.
+No caso, o óbito do servidor ocorreu em agosto de 2007, ou seja, na vigência da Lei nº 285/79, a qual não havia ainda sofrido as modificações introduzidas pela Lei nº 5109/07, com vigência a partir de 16/10/2007, que importaram na extinção do benefício perseguido.
+A vedação disposta no artigo 5º da Lei nº 9717/98, não pode atingir àqueles que já contribuíam quando da edição da lei, pois estaria a lei federal atingindo direitos já constituídos.
+ ..
+Cabe ressaltar que o sistema previdenciário tem natureza contributiva, em sendo assim, a proibição veiculada na Lei nº 9717/98 não pode prejudicar o autor, na medida em que o servidor falecido contribuiu durante a atividade para o eventual gozo do referido benefício.
+O pecúlio post mortem encontra previsão na Lei Estadual nº 285/79, em seu art.26, inciso III, item 1, art.45 e art.46.
+Na hipótese, verifica-se que a autora preencheu todos os requisitos legais à concessão do benefício pleiteado.
+Diante do contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, qual seja, da Lei Estadual n.º 285/79, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário".).
+Ademais, cumpre asseverar que "a desconformidade da legislação local com o disposto na Lei n. 9.717/98 e na Lei n. 8.213/91 converge à existência de conflito entre lei local e lei federal, questão que só pode ser resolvida pelo Supremo Tribunal Federal, pois trata-se, em última análise, de matéria constitucional relacionada ao pacto federativo (art. 102, III, alínea "d", da CF)" (AgRg no REsp 1.366.339/MS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 04/06/2013, DJe 10/06/2013).
+Em reforço:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PECÚLIO POST MORTEM. VIOLAÇÃO DO ART. 535, I E II, DO CPC. OMISSÃO NÃO CONFIGURADA. BASE DE CÁLCULO. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Não se conhece da alegada violação do art. 535, I e II, do CPC quando a Corte de origem emprega fundamentação adequada e suficiente para dirimir a controvérsia, dispensando-se, portanto, qualquer integração à compreensão do quanto decidido.
+2. A questão controvertida dos autos foi solucionada pelo Tribunal de
+origem com fundamento na interpretação da legislação local (Lei Estadual nº 285/79), logo a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 658.825/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/09/2015, DJe 28/09/2015)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. LEI LOCAL, CONTESTADA EM FACE DA LEI FEDERAL. HIPÓTESE DE CABIMENTO DE RECURSO EXTRAORDINÁRIO. ART. 102, III, D, DA CF/88. GARANTIA DO RECEBIMENTO DO PECÚLIO POST MORTEM, PELO TRIBUNAL DE ORIGEM, À LUZ DA LEI 285/79. EXAME DE LEGISLAÇÃO ESTADUAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF, POR ANALOGIA. AGRAVO REGIMENTAL IMPROVIDO. I. No caso dos autos, o recorrente aduziu negativa de vigência ao art. 5º da Lei 9.717/98, diante da impossibilidade de o Estado pagar pecúlio post mortem aos beneficiários de ex-servidor público, tendo em vista que as disposições da Lei Estadual 285/79, que previam o pagamento de pecúlio post mortem, pela entidade previdenciária do Estado do Rio de Janeiro, tiveram sua eficácia suspensa, com a edição da Lei9.717/98, que regulamentou as mudanças inauguradas pela EC 20/98.
+II. Por sua vez, o Tribunal de origem decidiu a controvérsia com fundamento na Lei Estadual 285/79, que agora é contestada, em face da Lei Federal 9.717/98.
+III. No entanto, após a edição da Emenda Constitucional 45/2004, a
+competência para julgar as causas decididas, em única ou última instância, quando a decisão recorrida julgar válida lei local, contestada, em face de lei federal, foi transferida para o STF, nos termos do art. 102, III, d, da CF/88.
+IV. Ademais, o Tribunal a quo apreciou o tema à luz da sucessão de Leis estaduais - Lei Estadual 285/79 e Lei Estadual 5.109/07 -, para concluir que seria aplicável a legislação vigente à época do óbito do segurado, de modo a afastar a competência desta Corte para o deslinde do desiderato contido no Recurso Especial, pelo que incide, na espécie, a Súmula 280 do STF.
+V. Agravo Regimental improvido.
+(AgRg no REsp 1456225/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
