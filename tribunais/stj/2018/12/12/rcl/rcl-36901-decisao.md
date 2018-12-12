@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de reclamação amparada nos artigos 105, I, alínea "f", da Constituição Federal, 927 incisos III e IV, 988 a 993 e seguintes do Código de Processo Civil de 2015, bem como na Resolução STJ/GP nº 03/2016, proposta por ITAMAR DOS PASSOS DE SOUZA contra acórdão proferido pela Turma Recursal do Juizado Especial do Estado de Minas Gerais.
+Originalmente proposta perante o Tribunal de Justiça do Estado de Minas Gerais, os autos foram remetidos ao Superior Tribunal de Justiça com base no entendimento firmado no julgamento do incidente de arguição de inconstitucionalidade julgado por aquela Corte nos autos da Reclamação nº 1.0000.16.0039708-9.
+É o relatório.
+DECIDO.
+Consabido é que as reclamações propostas contra decisões oriundas de juizados especiais estaduais eram regulamentadas pela Resolução nº 12/2009 do Superior Tribunal de Justiça, a qual foi expressamente revogada pela Emenda Regimental nº 22/2016. Adveio então a Resolução STJ/GP nº 3, de 8/4/2016, que assim dispôs a respeito da competência para processar e julgar reclamações como a que ora se apresenta:
+"Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes" (grifou-se).
+Cumpre esclarecer que a declaração de inconstitucionalidade da Resolução STJ/GP nº 3, de 8/4/2016, promovida pelo Tribunal mineiro na Arguição de Inconstitucionalidade nº 1.000.16.039708-0/001, tem efeito só para as respectivas partes naquele caso concreto. Nesse sentido, confiram-se: Rcl 36.874/MG, Rel. Min. Marco Aurélio Bellizze, publ. 23/11/2018; Rcl 36.818/MG, Rel. Min. LAURITA VAZ, publ. 19/11/2018; EDcl na Rcl nº 36.387/MG, rel. Min. Luis Felipe Salomão, publ. 28/9/2018; e Rcl nº 36.419/MG, Rel. Ministro Moura Ribeiro, publ. 21/9/2018.
+Ante o exposto, determino a devolução dos autos ao Tribunal de Justiça do Estado de Minas Gerais, competente para o devido processamento da reclamação.
+Publique-se.
+Intimem-se.
