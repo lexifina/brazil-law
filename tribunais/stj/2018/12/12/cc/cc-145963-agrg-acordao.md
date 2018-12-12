@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CRIME AMBIENTAL. ART. 48 DA LEI N. 9.605/1998. OBRA NAS MARGENS DO RIO MOGI-GUAÇU SEM AUTORIZAÇÃO. ÁREA REGULADA POR LEGISLAÇÃO ESTADUAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO IMPROVIDO.
+1. Na linha da jurisprudência desta Corte, o interesse da União que enseja o deslocamento da competência para a Justiça Federal para o julgamento de crime ambiental se caracteriza quando a área de preservação for criada por decreto federal. Precedentes.
+2. Caso em que o crime, limitado a uma construção de alvenaria de 47 metros quadrados feita de forma irregular às margens do Rio Mogi-Guaçu, região regulada por lei estadual, não apresenta elementos suficientes para caracterizar o interesse da União no julgamento do feito, ainda que o rio se classifique como bem da União, por banhar mais de um Estado.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Laurita Vaz, Jorge Mussi, Sebastião Reis Júnior, Nefi Cordeiro, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de e-STJ fls. 75/77, que conheceu do conflito para determinar a competência do Juízo estadual para processar e julgar o crime previsto no art. 48 da Lei n. 9.605/1998 (impedir a regeneração natural de vegetação).
+Consta dos autos ter sido constatada pela polícia ambiental "intervenção com construção inicial de fundação e aterro para edificação de prédio de alvenaria, em 0,0047 ha (47m2), dentro de área de preservação permanente" sem a devida autorização (e-STJ fl. 7).
+Alega o agravante que "o proprietário do lote deu início à edificação de alvenaria dentro de área de preservação permanente do Rio Mogi-Guaçu, o qual, conforme restou consignado pelo Juízo Suscitante, "nasce no estado de Minas Gerais, atravessa o estado de São Paulo e deságua no Rio Pardo, que por sua vez é afluente do Rio Grande. Trata-se, portanto, de rio nacional, que integra os bens da União""; e "que a referida infração atingiu bem da União, não havendo dúvidas que o ente federal deve zelar pela proteção do seu próprio patrimônio" (e-STJ fl. 86).
+Aduz que "não merece guarida a conclusão de que a fiscalização e as políticas de preservação ambiental da área do Rio Mogi-Guaçu estão a cargo do estado de São Paulo, nos termos da Lei Estadual nº 14.183, de 8 de julho de 2010, o que justificaria o deslocamento para a Justiça estadual", pois não se pode confundir "competência com legitimidade para fiscalizar/controlar" (e-STJ fl. 88).
+Requer o "conhecimento e provimento do presente agravo regimental, para reformar a decisão de fls. 75/77-e, estabelecendo-se a competência do Juízo Federal da 5ª Vara de Ribeirão Preto - SJ/SP, ora Suscitado" (e-STJ fl. 90).
+É o breve relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Insurge-se o agravante contra decisão que definiu a competência estadual para o julgamento do crime ambiental, afirmando que a conduta agride bem da União, uma vez que o Rio Mogi-Guaçu é rio nacional, pois nasce no Estado de Minas Gerais e deságua no Estado de São Paulo.
+Sobre o tema, conforme já aludido na decisão agravada, esta Corte firmou o entendimento de que, "se o crime ambiental foi cometido em unidade de conservação criada por decreto federal, evidencia-se o interesse federal na manutenção e preservação da região, ante a possível lesão a bens, serviços ou interesses da União, nos termos do artigo 109, inciso IV, da Constituição Federal. Precedentes da 3ª Seção desta Corte" (CC n. 142.016/SP, relator Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/8/2015, DJe 4/9/2015).
+Além disso, verifica-se que, em áreas de preservação estabelecidas por decreto federal, mas cuja administração tenha sido delegada a outro ente federado, a competência para o julgamento de delito ambiental é da Justiça estadual:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA DO DISTRITO FEDERAL. PARCELAMENTO IRREGULAR URBANO E DANO AMBIENTAL. LOCAL INSERIDO EM ÁREA DE PROTEÇÃO AMBIENTAL (APA) DA BACIA DO RIO SÃO BARTOLOMEU, CRIADA POR DECRETO FEDERAL. LEI SUBSEQUENTE QUE DELEGOU A ADMINISTRAÇÃO E FISCALIZAÇÃO AO PODER EXECUTIVO DO DISTRITO FEDERAL. CIRCUNSTÂNCIA QUE EXCLUI O INTERESSE FEDERAL. COMPETÊNCIA DA JUSTIÇA DO DISTRITO FEDERAL. 1. A orientação jurisprudencial desta Corte é de que se o crime ambiental for cometido em unidade de conservação criada por decreto federal, evidencia-se o interesse federal na manutenção e preservação da região, ante a possível lesão a bens, serviços ou interesses da União, nos termos do art. 109, IV, da Constituição Federal.
+Precedentes da Terceira Seção.
+2. No caso, embora o local do dano ambiental esteja inserido na Área de Proteção Ambiental da Bacia do Rio São Bartolomeu, criada pelo Decreto Federal n. 88.940/1993, não há falar em interesse da União no crime ambiental sob apuração, já que lei federal subsequente delegou a fiscalização e administração da APA para o Distrito Federal (art. 1º da Lei n. 9.262/1996).
+3. Conflito conhecido para declarar a competência do Juízo de Direito da Vara Criminal e Tribunal do Júri de São Sebastião/DF, o suscitado.
+(CC 158.747/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 13/06/2018, DJe 19/06/2018, grifei)
+Por outro lado, entende-se que só fato de o delito ser cometido em área marginal a rio nacional, considerado, nos termos do art. 20, III, da Constituição Federal, bem da União, não é suficiente para estabelecer a competência federal para o feito, conforme se observa do conteúdo do seguinte julgado:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CRIME AMBIENTAL. PESCA PREDATÓRIA. RIO QUE BANHA MAIS DE UM ESTADO DA FEDERAÇÃO. AUSÊNCIA DE LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. PREJUÍZO LOCAL.
+COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A competência para a preservação do meio ambiente é matéria comum da União, Estados, Distrito Federal e Municípios, nos termos do art. 23, VI e VII, da Constituição Federal.
+2. Conforme a jurisprudência consolidada neste Superior Tribunal de Justiça, para atrair a competência da Justiça Federal é necessário que os danos ambientais produzidos pela prática de pesca predatória tenham repercutido para além do local em que supostamente praticada.
+3. No caso, apesar da pesca predatória ter ocorrido em rio que banha dois Estados da Federação (Mato Grosso e Pará), não ficou demonstrado que o delito tenha causado prejuízo à União, suas autarquias ou empresas públicas, razão pela qual deve ser reconhecida a competência da Justiça Estadual para o processamento do feito.
+4. Agravo regimental desprovido.
+(AgRg no CC 159.231/MT, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/10/2018, DJe 07/11/2018, grifei)
+Na espécie, tem-se que a conduta criminosa ocorreu na "margem direita do Rio Mogi Guaçu, Condomínio Vale do Mogi, área rural do município de Pitangueiras, SP" (e-STJ fl. 6), área cuja preservação é regulada pela Lei n. 7.641, de 19 de dezembro de 1991, do Estado de São Paulo, alterada pela Lei n. 14.183, de 8 de julho de 2010, de modo que a competência para o processamento do feito é da Justiça estadual, não havendo elementos suficientes, in casu, que demonstrem efetiva ofensa a interesses da União para que a competência seja deslocada para a esfera federal.
+Sendo assim, a decisão agravada deverá ser mantida pelos seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
