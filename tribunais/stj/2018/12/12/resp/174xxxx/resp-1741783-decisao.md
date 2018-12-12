@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SETE DE SETEMBRO FUTEBOL CLUBE, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO. SENTENÇA DE EXTINÇÃO EM DECORRÊNCIA DA DECLARAÇÃO DE UTILIDADE PÚBLICA. NORMA REVOGADA. FATO SUPERVENIENTE. DECISÃO ANULADA. JULGAMENTO NOS TERMOS DO ART. 1.013, § 3º, DO CPC/15. AÇÃO REINTEGRATÓRIA AJUIZADA POR PARTICULAR EM FACE DO MUNICÍPIO DE ARAQUARI E DO CLUBE SETE DE SETEMBRO. BEM CONCEDIDO A TÍTULO DE COMODATO VERBAL AOS RÉUS. PROPRIEDADE DO BEM INCONTROVERSA. SENTENÇA DE EXTINÇÃO ANULADA. RECURSO PROVIDO PARA CONCEDER A RE INTEGRAÇÃO DO BEM AO AUTOR" (fl. 568 e-STJ).
+Os embargos de declaração foram rejeitados (fl. 654 e-STJ).
+No especial, o recorrente alega violação dos arts. 373, I, 489, § 1º, IV, e 1.022, I e II, e parágrafo único, II, do CPC/2015; e 1.238 do CC. Sustenta, em síntese, que, "como pode se verificar não foi considerada em momento algum a POSSE do Clube Sete de Setembro, pois a análise central durante todo processo foi somente a UTILIDADE PÚBLICA DA ÁREA EM QUESTÃO" (fl. 678 e-STJ).
+Sem contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A alegação de negativa de prestação jurisdicional merece prosperar.
+Foram opostos declaratórios pela parte ora recorrente, firme nas seguintes argumentações:
+"Inicialmente, tal fato não influi de forma significativa na resolução do mérito já que se trata de uma ação possessória, na qual se discute direitos de posse e não tão somente a utilidade pública do bem em questão. Não se verificou sequer o esbulho, característico e essencial a ações como essa.
+Tampouco foram avaliados os meios de prova admitidos em Direito, em especial, documental, testemunhal de comprovação do tempo de posse do réu, ora embargante. Há diversos documentos nos autos comprobatórios do direito do CLUBE SETE DE SETEMBRO sobre o bem, inclusive faturamento de consumo de energia elétrica. (doc. anexo) Ocorre também, que em momento algum foi mencionado que apesar da norma (Decreto de nº 25/2012), ter sido revogada em setembro de 2016, ainda se encontravam em vigência contratos e convênios entre o Município de Araquari e o Clube Sete de Setembro, conforme demonstram os documentos em anexo, dentro os quais: Convênio (nº 20/2016) de cooperação financeira do Município para com a Entidade conveniada (Sete de Setembro), visando o auxílio nas despesas para a conclusão das atividades esportivas do ano de 2016, datado de novembro de 2016. Contrato (nº 75/2016) de Locação, destinando o imóvel para fins de FUNCIONAMENTO DE ESCOLINHA DE FUTEBOL, com vigência de julho a dezembro de 2016.
+Além disso, importante frisar que se trata de uma ação possessória, na qual deveria estar em analise principal à posse do imóvel com comprovação do esbulho, inexistente no caso concreto. Apenas houve limitação à indicação, reprodução dos atos normativos, sem explicar a relação com a causa decidida, conforme exposto a seguir:
+(..)
+c) Resumidamente, nesta ocasião, subsistem omissão e obscuridade no acórdão, podendo causar dano irreparável a parte; considerando que a principal e única fundamentação da decisão foi baseada na utilidade pública ou não do bem, quando se trata de uma AÇÃO DE REINTEGRAÇÃO de um imóvel que se encontra na posse do réu, Clube Sete de Setembro, ora embargante, há cerca de 50 anos conforme documentos contidos nos autos" (fls. 579/580 e-STJ).
+Compulsando os autos, verifica-se que, não obstante a oposição de embargos declaratórios, a Corte local permaneceu silente quanto à essa questão.
+O artigo 1.022, parágrafo único, II, do CPC/2015, remetendo-se ao artigo 489, § 1º, IV, determina que é omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do CPC/2015 a fim de anular o acórdão recorrido para suprir a omissão existente.
+A propósito:
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração" (REsp 1.642.708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/02/2017, DJe 17/04/2017).
+Ante o exposto, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios de fls. 578/582 e-STJ como entender de direito, restando prejudicadas as demais questões.
+Publique-se.
+Intimem-se.
