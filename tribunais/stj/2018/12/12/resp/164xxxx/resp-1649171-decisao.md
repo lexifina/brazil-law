@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE GALVÃO, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDORES MUNICIPAIS. REGIME GERAL DE PREVIDÊNCIA SOCIAL. FUNÇÕES COMISSIONADAS. GRATIFICAÇÕES. ADICIONAIS. INCIDÊNCIA.
+1. Comprovado que o regime jurídico previdenciário adotado pelo Município de Galvão/SC é o Regime Geral da Previdência Social, pois na folha de pagamento dos servidores consta o recolhimento de contribuições previdenciárias ao INSS. Como contribuem para o RGPS, o recolhimento das contribuições deve observar a legislação própria deste Regime, ou seja, a Lei nQ 8.212/91.
+2. O § 9Q do art. 28 da Lei n.Q 8.212/91 prevê hipóteses de não-incidência da contribuição previdenciária, sendo que as funções comissionadas/gratificação e os adicionais elencados na inicial, não estão elencados dentre as verbas expressamente excluídas na base de cálculo das contribuições previdenciárias.
+3. Sentença mantida" (fl. 234e).
+Alega-se ofensa aos arts. 13, 22 e 28, § 9º da Lei 8.212/91 e 201, § 11, da Constituição Federal. Sustenta, em síntese, a inexistência da relação jurídica tributária no que tange às contribuições previdenciárias incidentes sobre as verbas pagas a título de função gratificada (fls. 242/255e).
+Apresentadas as contrarrazões (fls. 262/266e), foi o Recurso Especial admitido pelo Tribunal de origem (fl. 269e).
+O presente recurso não merece ser conhecido.
+Inicialmente, ressalto que o Recurso Especial tem por objetivo o controle de ofensa à legislação federal, e, por isso, não cabe a esta Corte a análise de suposta violação a dispositivos constitucionais.
+No mais, observa-se que a questão foi decidida pela Corte de origem mediante análise de legislação local, qual seja, a Lei Complementar Municipal 520/2005. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL N. 4.994/95. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no AREsp 1.170.491/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/03/2018).
+Portanto, não podem ser avaliadas, em sede de Recurso Especial, as características da legislação municipal, das quais resulta a obrigatoriedade da contribuição ao Regime Geral da Previdência Social, a teor do entendimento consolidado na Súmula 280/STF.
+Ademais, o Tribunal de origem entendeu que deve haver a incidência da contribuição previdenciária sobre todos os rendimentos questionados, em face do que dispõe o art. 201, § 11, da Constituição Federal.
+Verifica-se, portanto, que o acórdão recorrido tem fundamento constitucional não impugnado mediante Recurso Extraordinário, o que atrai a incidência da Súmula 126 do STJ, segundo a qual "é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+Neste sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. SERVIDOR PÚBLICO. DOENÇA OCUPACIONAL. PENSÃO MENSAL AFASTADA. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. DANO MATERIAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não há violação dos arts. 489, § 1º, VI, e 1.022, parágrafo único, II, do CPC de 2015, pois há fundamentação suficiente para amparar o acórdão recorrido.
+2. Firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário, ocasionando a preclusão de uma das questões e o consequente não conhecimento do recurso. Aplicação da Súmula 126 do STJ.
+3. O Tribunal de origem, com base nas provas existentes, entendeu não haver comprovação do dano material. A inversão do julgado nos moldes pretendidos pela recorrente demanda revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, não provido" (STJ, REsp 1.707.574/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017)
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
