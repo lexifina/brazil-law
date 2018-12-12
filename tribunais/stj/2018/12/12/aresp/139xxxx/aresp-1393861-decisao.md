@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. INDEFERIMENTO. EMBARGOS DE TERCEIRO. POSSUIDOR DO IMÓVEL OBJETO DE PENHORA. AUSÊNCIA DE COMPROVAÇÃO DE PROPRIEDADE. CONTRATO PARTICULAR. DECISÃO PRECÁRIA. INVIABILIDADE DO RECURSO ESPECIAL. SÚMULA Nº 735 DO STF, POR ANALOGIA. DECISÃO COM BASE EM FATOS E PROVAS. REEXAME. SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. INVOCAÇÃO PELO POSSUIDOR. DESCABIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ELIZA MARIKO UNOSHIMA (ELIZA) ajuizou agravo de instrumento contra decisão que indeferiu tutela de urgência em embargos de terceiro opostos na execução de título extrajudicial promovida pela CAIXA ECONÔMICA FEDERAL (CAIXA). Alegou ser possuidora e proprietária do imóvel objeto de constrição, o qual seria impenhorável por se tratar de bem de família.
+O Tribunal Regional Federal da 4ª Região negou provimento ao recurso em acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EMBARGOS DE TERCEIRO. BEM IMÓVEL. TRANSFERÊNCIA DE PROPRIEDADE.
+AVERBAÇÃO NO REGISTRO DE IMÓVEIS. IMPENHORABILIDADE DO BEM DE FAMÍLIA. TUTELA DE URGÊNCIA. REQUISITOS NÃO PREENCHIDOS. INDEFERIMENTO DO PEDIDO.
+1. Conforme dispõe o art. 1.245 do Código Civil, a transferência de bem imóvel somente se dá com o registro do título translativo no Registro de Imóveis.
+2. A impenhorabilidade do bem de família é garantia conferida ao devedor/executado do crédito, não podendo ser alegada em benefício de terceiro que ocupa o imóvel, independente do título que ostente.
+3. Portanto, ausente a probabilidade do direito da parte agravante, inviável se faz a concessão da tutela de urgência, devendo, por conseguinte, ser mantida a decisão hostilizada. (e-STJ, fls. 38).
+Inconformada, ELIZA ajuizou recurso especial com base no art. 105, III, a e c, da Constituição Federal, por violação dos arts. 1.021 e 1.715 do CC/2002; E 1º e 5º da Lei 8.009/1990. Sustentou, em resumo, (1) posse de boa-fé, uma vez que a recorrente ignorava a existência de alienação fiduciária ao adquirir o imóvel; quanto a esse tema, alegou também divergência do acórdão recorrido em relação à Súmula nº 84 do STJ, a qual admite os embargos de terceiro fundados na posse do bem; (2) impenhorabilidade do bem de família (e-STJ, fls. 47/60).
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Não houve contraminuta (e-STJ, fl. 98).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+O inconformismo não merece prosperar.
+(1) Dos embargos de terceiro opostos por possuidor de boa-fé
+A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735 do STF.
+Tal entendimento excepcionalmente pode ser ressalvado quando há violação direta de normas de direito processual.
+No presente caso, porém, o Tribunal de origem indeferiu a tutela de urgência com base em elementos fáticos dos autos, cuja revisão implicaria o revolvimento do conjunto fático-probatório, providência vedada pela Súmula nº 7 do STJ.
+Com efeito, o acórdão recorrido considerou que o contrato particular de cessão de direitos não é documento hábil a comprovar a alegação de propriedade. Ao decidir, o Tribunal a quo remeteu à decisão de primeiro grau, que tem o seguinte teor:
+" ..  Os presentes embargos são manejados por ELIZA MARIKO UNOSHIMA, que afirma ser detentora dos direitos reais sobre o imóvel de matrícula 86.525, do CRI de Santa Cruz do Sul, em razão de cessão de direitos decorrentes de contrato firmado em 27/12/2013, conforme documento juntado no evento 1 - CONTR8, razão pela qual recebo a inicial com fundamento no art. 674 do CPC:
+Art. 674. Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+Contudo, para fins de juízo liminar de suspensão do trâmite da Execução n.º 5003831-67.2016.4.04.7111, não comprovada de forma induvidosa a condição de proprietária do imóvel constrito.
+Não obstante, destaco que é admissível a oposição de embargos de terceiro fundados em alegação de posse advinda de compra e venda de bem, ainda que desprovido do registro, nos termos do verbete da SÚMULA 84, do Superior Tribunal de Justiça.
+Outrossim, a fim de demonstrar a concretização do negócio em si e o momento em que se deu, em substituição ao eventualmente inexistente registro no órgão competente, que os provaria de forma absoluta, incumbe ao adquirente fazer prova de suas afirmações, o que não está inserto nos autos.
+Com efeito, o contrato particular de cessão de direitos contratuais juntado no evento 1 (CONTR8) não demonstra com eficiência a época em que fora firmado, pois não há qualquer registro público que lhe tenha dado publicidade ou reconhecida a autenticidade das firmas dos contratantes, bem como a ausência de testemunhas para corroborar a externação da vontade das partes contratantes. Não se olvida tenha o negócio sido realizado na data constante do instrumento contratual apresentado, no entanto, a ausência de outros elementos comprobatórios abalam a credibilidade do contrato particular, consoante já referido.
+Assim, considerando que o pedido da embargante está alicerçado no mencionado instrumento de contrato, não há como acolher a pretensão inicial (e-STJ, fls. 35).
+Verifica-se, portanto, que seria impossível a revisão de tais conclusões sem o reexame de fatos e provas.
+A propósito:
+PROCESSUAL CIVIL. TUTELA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM. REAVALIAÇÃO. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7 DO STJ E 735 DO STF.
+1. O Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF, firmou o entendimento de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro Humberto Martins, DJe de 17/02/2014).
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+3. Esta Corte de Justiça admite a mitigação do referido Enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973).
+4. Hipótese em que a Corte de origem analisou os requisitos do art. 273 do CPC/1973 com base no suporte fático-probatório constante nos autos, concluindo que a ora agravante não demonstrou o fundado receio de dano irreparável capaz de sustentar as suas alegações para a concessão da tutela antecipatória almejada.
+5. A desconstituição do entendimento adotado pelo acórdão recorrido demandaria o revolvimento do arcabouço probatório, providência incompatível com a via do recurso especial em virtude do óbice da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp 743.894/SP, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 4/10/2017, sem destaques no original)
+Ademais, conforme a leitura do trecho destacado, verifica-se que o acórdão recorrido não refutou o conteúdo da Súmula nº 84 do STJ. Com efeito, a decisão apenas julgou que, em caráter liminar, não havia lastro probatório mínimo a comprovar as alegações de ELIZA.
+Quanto à alegação de violação da Súmula nº 84/STJ, portanto, as razões do recurso estão dissociadas do que ficou decidido no acórdão recorrido, incidindo, por analogia, a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+(2) Da impenhorabilidade do bem de família
+Quanto a esse tópico, o acórdão recorrido julgou que essa exceção só pode ser alegada pelo proprietário do imóvel ou pelo devedor, e não por terceiro, independente do título que possua.
+Nesse capítulo, a parte invocou os artigos 1.715 do CC/2002, e 1º e 5º da Lei 8.009/1990, mas não discorreu analiticamente sobre como teria ocorrido a violação dos dispositivos legais indicados.
+Por essa razão, quanto a esse tema recursal, também incide o óbice da Súmula nº 284 do STF, uma vez que a fundamentação do recurso foi insuficiente para amparar o direito alegado.
+Tais razões demonstram a inviabilidade do apelo nobre.
+Nessas condições, com fundamento no art. 1.042, § 5º, do CPC/2015 c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários recursais uma vez que não são aplicáveis ao presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
