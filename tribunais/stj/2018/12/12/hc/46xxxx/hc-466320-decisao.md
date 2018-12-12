@@ -1,0 +1,31 @@
+EMENTA
+HABEAS CORPUS. ART. 155, § 4º, III e IV, DO CP. DOSIMETRIA. VALORAÇÃO NEGATIVA DOS ANTECEDENTES. CONDENAÇÃO POR FATO POSTERIOR. IMPOSSIBILIDADE. PRECEDENTES DO STJ. EVIDÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO.
+Ordem concedida.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Alexandre Lourençao, com a alegação de coação ilegal perpetrada pela Oitava Câmara Criminal Extraordinária do Tribunal de Justiça de São Paulo no julgamento da Apelação n. 0003322-82.2011.8.26.0506.
+Postula-se, inclusive em caráter liminar, a revisão da pena aplicada ao paciente - de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, mais multa -, de forma a afastar a exasperação na primeira fase e estabelecer o regime prisional aberto para o seu cumprimento. Alega-se, para tanto, que o paciente não é possuidor de maus antecedentes (fl. 5), haja vista que a única condenação que o paciente sofreu é por fato posterior ao aqui mencionado (fl. 6); que, existindo mais circunstâncias favoráveis, entre as oito previstas pelo dispositivo legal, do que desfavoráveis - como na hipótese - a pena deve ser fixada no mínimo legal (fl. 10); e que não há nenhuma causa legal impeditiva a fixação do regime inicial aberto no caso do paciente, pois ele é primário e a pena imposta não supera os 04 anos de reclusão (fl. 14).
+Indeferi o pedido liminar e, na sequência, não conheci do pedido de reconsideração.
+Vieram informações e documentos.
+Opinou o Ministério Público Federal pela concessão da ordem, nos termos do parecer assim resumido (fl. 145):
+HABEAS CORPUS. CRIME DE FURTO QUALIFICADO (ART. 155, §4º, III e IV, DO CP). CONDENAÇÃO À PENA DE 02 ANOS E 04 MESES DE RECLUSÃO, EM REGIME PRISIONAL SEMIABERTO. PLEITO DE AFASTAMENTO DOS MAUS ANTECEDENTES DO RÉU. ACOLHIMENTO. IMPOSSIBILIDADE DE UTILIZAÇÃO DE CONDENAÇÕES TRANSITADAS EM JULGADO POSTERIORMENTE AO FATO DELITUOSO EM QUESTÃO, DECORRENTES DE CRIMES PERPETRADOS EM MOMENTO POSTERIOR, PARA TER POR CONFIGURADOS MAUS ANTECEDENTES. PARECER PELO CONHECIMENTO DO MANDAMUS E PELA CONCESSÃO DA ORDEM POSTULADA.
+Por meio da Petição n. 726.891/2018, a defesa postula, novamente, a reconsideração da decisão liminar, ou a concessão de prioridade no exame do feito.
+É o relatório.
+Estou de pleno acordo com o parecer da Subprocuradora-Geral da República Maria das Mercês de [NOME], deste teor (fls. 148/150):
+ ..
+No mérito, merecem prosperar as razões postas sub judice.
+Ab initio, insta destacar que não se desconhece a possibilidade de utilização de condenações transitadas em julgado posteriormente ao fato delituoso de que se cuida, desde que decorrentes de crimes anteriormente perpetrados, para ter por configurados maus antecedentes.
+In casu, ALEXANDRE LOURENÇÃO foi condenado por crime de furto qualificado pelo emprego de chave falsa e em comparsaria, sendo-lhe imposta a reprimenda privativa de liberdade de 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, além da sanção pecuniária de 11 (onze) dias-multa.
+Atento ao comando do art. 59 do Código Penal, o Tribunal Bandeirante estabeleceu a básica reprimenda do ora Paciente em patamar superior ao mínimo legalmente previsto, em razão de não exibir ele bons antecedentes criminais, porquanto já exibe 01 (uma) condenação transitada em julgado posteriormente ao fato delituoso tratado no processo de que aqui se cuida. Contudo, o crime em análise foi cometido em 22/01/2011, e o delito considerado para valorar negativamente os maus antecedentes do ora Paciente (Processo nº 0003255-83.2012.8.26.0506) foi perpetrado em 18/01/2012, ou seja, em data posterior.
+Nesse Colendo Pretório, no entanto, o tratamento conferido à matéria, diversamente do quanto asseverado pelo Pretório Bandeirante, é o de que a condenação por crime posterior transitada em julgado não justifica o reconhecimento de maus antecedentes, como se pode observar do julgado adiante transcrito:
+EMENTA (parcial): "HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. AUMENTO DA PENA-BASE JUSTIFICADO EM RAZÃO DAS CONSEQUÊNCIAS DO CRIME. VALORAÇÃO NEGATIVA DA PERSONALIDADE. CONDENAÇÃO TRANSITADA EM JULGADO POR FATO POSTERIOR AO ILÍCITO PRATICADO. IMPOSSIBILIDADE. MENORIDADE. APLICAÇÃO DO PERCENTUAL DE 1/6.
+ ..
+2. O Tribunal a quo, em sede de apelação, manteve a valoração negativa da personalidade do agente em razão do superveniente trânsito em julgado de condenação criminal (ocorrido após a sentença condenatória), o que, indubitavelmente, trouxe prejuízo ao réu, em julgamento de recurso exclusivo da defesa, o que não se revela admissível, por ofensa ao princípio do ne reformatio in pejus.
+Ademais a condenação transitada em julgado por crime posterior não pode ser utilizada a título de maus antecedentes, personalidade do agente ou conduta social. Precedentes.
+ ..
+4. Ordem parcialmente concedida. Ordem concedida de ofício para fixar o percentual relativo à menoridade em 1/6."(STJ - HC 171.712/DF - Rel. Ministro SEBASTIÃO REIS JÚNIOR - Sexta Turma - julgado em 27.09.2011 - DJe 19.10.2011) - Destacou-se.
+Em face do exposto, opina o Ministério Público Federal pelo conhecimento do mandamus e pela concessão da ordem postulada, para afastar a valoração negativa dos maus antecedentes de ALEXANDRE LOURENÇÃO na primeira fase da dosimetria penal, fixando-se o o regime carcerário para o resgate inicial da reprimenda, considerando a consequente redução da reprimenda do acusado.
+Realmente, há aqui o entendimento de que condenações definitivas por fatos posteriores não são idôneas a supedanear o aumento da pena básica a título de maus antecedentes (HC n. 472.096/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/3/2018). Nesse sentido, ver também o HC n. 453.240/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/9/2018.
+É o caso, pois, de excluir a valoração negativa dos antecedentes e, com isso, reduzir a pena-base ao mínimo legal e fixar o regime inicial aberto. Resulta a pena definitiva do ora paciente, assim, em 2 anos de reclusão, a ser cumprida em regime aberto, mais 10 dias-multa.
+Ante o exposto, acolho o parecer e concedo a ordem para reduzir a pena do ora paciente para 2 anos de reclusão, mais 10 dias-multa, e modificar o regime inicial de cumprimento para o aberto.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
