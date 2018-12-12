@@ -1,0 +1,32 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"LOCAÇÃO DE IMÓVEL RESCISÃO CONTRATUAL CONSIGNAÇÃO Pedido de inclusão, em permissão de depósito judicial já concedida em Primeiro Grau, de parcelas não adimplidas após o suposto descumprimento contratual, por parte das locadoras agravadas Medida que visa impedir que as agravadas promovam qualquer ato de constrangimento ou atentatório às atividades operacionais da empresa enquanto a demanda rescisória estiver em curso Extensão que se mostra pertinente, tendo em vista a autorização de depósito já concedida em Primeiro Grau, para consignação de parcelas vencidas após o ajuizamento da demanda Recurso provido, com observação." (e-STJ, fl. 297)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 313/319).
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 1.022 e 373, inciso I do Código de Processo Civil de 2015 sustentando, (a) que a decisão de origem deixou de explicitar as razões que a fundamentaram, se recusando à emitir juízo de valor das teses apresentadas, (b) que em momento algum foi produzida prova de prática de ato ilícito por parte da agravante quanto o contrato de locação firmado, sendo ônus da parte agravada sua comprovação e (c) que não houve intenção de novar ou repactuar o contrato, mas sim prestar auxílio à parte agravada com descontos.
+Foram apresentadas contrarrazões às fls. 336/341.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Inicialmente, não se verifica a alegada violação ao art. 1.022 do CPC/15, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide, especialmente ao consignar que a presente discussão é restrita à estender a permissão de depósito judicial aos valores apontados, in verbis:
+"Não há que falar em obscuridade na fundamentação exposta pela decisão colegiada, uma vez que a matéria suscitada em sede recursal é restrita à extensão da permissão de depósito judicial aos valores apontados, sobre a qual manifestou-se o V. Acórdão embargado de maneira devidamente fundamentada." (e-STJ, fl. 317)
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+No tocante a suposta violação ao art. 373, I do CPC/15, tem-se que, enquanto o acórdão afirma que o pedido feito pela parte agravada em agravo de instrumento deve ser atendido a fim de estender a autorização de depósito concedida pelo juiz singular para consignar parcelas vencidas no curso do processo, as razões recursais dizem respeito a tema diverso, relacionados ao mérito do processo principal, in verbis:
+"Em nenhum momento foi produzida prova de prática de ilícito por parte dos Recorrentes, inobstante o ônus da Recorrida para tanto". (e-STJ, fl. 326)
+Neste tocante, as razões do apelo nobre estão, pois, dissociadas dos fundamentos adotados no julgado proferido pelo Tribunal local, o que atrai, por analogia, a hipótese de incidência das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. A dissociação entre as razões recursais e os fundamentos do acórdão recorrido obsta o conhecimento do recurso especial, ante a incidência da Súmula n. 284 do STF.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 933.260/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/10/2016, DJe 13/10/2016)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA, DE PLANO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não se configura a violação ao art. 535 do CPC/73, quando o Tribunal local pronuncia-se de forma fundamentada sobre as questões postas para análise, ainda que contrariamente aos interesses da parte recorrente.
+2. O magistrado é o destinatário final da prova, cabendo a ele a análise da utilidade e da necessidade da sua produção. Pode, pois, indeferir a produção de provas que se mostrarem inúteis ou desnecessárias à solução da lide, nos termos dos arts. 130 e 131 do CPC/73. Precedentes. 2.1. O juízo acerca da necessidade de produção de provas específicas, como a oral, compete soberanamente às instâncias ordinárias e o seu reexame, na estreita via do recurso especial, encontra óbice na Súmula nº 7 desta Corte. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. "A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando, na vigência do antigo Código Civil de 1916, a prescrição vintenária prevista no art. 177 e a prescrição decenal prevista no art. 205 do atual Código Civil de 2002.
+Precedentes do STJ." (AgInt no AREsp 725.813/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/08/2016, DJe 09/09/2016).
+5. Agravo interno desprovido."
+(AgInt no AREsp 1024305/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
