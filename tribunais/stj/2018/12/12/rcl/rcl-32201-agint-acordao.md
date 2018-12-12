@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. SUCEDÂNEO RECURSAL. INVIABILIDADE. PROVIMENTO JUDICIAL ORIUNDO DE TURMA RECURSAL FEDERAL. DESCABIMENTO.
+1. Nos termos do art. 105, I, "f", da Constituição Federal, c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, garantir a autoridade das suas decisões, a observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+2. Com a ressalva do relator, esta Corte possui a compreensão de que, em se tratando de ação de competência de Juizado Especial Federal, mostra-se inadmissível a propositura de reclamação quando o julgado da Turma Recursal ou da Turma de Uniformização diverge de aresto deste Tribunal proferido em sede de recurso especial repetitivo, ante a existência de procedimento específico de uniformização de jurisprudência (art. 14, § 4º, da Lei n. 10.259/2001).
+3. Caso em que na peça exordial não se evidencia nenhuma das hipóteses de cabimento de reclamação, o que denota a utilização da presente demanda como sucedâneo recursal, situação inadmissível.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra decisão de minha lavra, em que não conheci de sua reclamação por consignar que o mecanismo de submissão das decisões dos órgãos dos Juizados Especiais Federais ao crivo do Superior Tribunal de Justiça é o pedido de uniformização de jurisprudência, nos moldes do art. 14, § 4º, da Lei n. 10.259/2001 (e-STJ fls. 109/112).
+O agravante requer a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado, alegando ter "interposto corretamente a reclamação conforme previsão legal"(e-STJ fl. 119). Isso porque, "como se sabe, da decisão interlocutória no âmbito dos Juizados Especiais não é cabível agravo de instrumento para remeter a discussão denegada pelo Juízo a quo à Turma Recursal e, consequentemente, interpor Pedido de Uniformização a [NOME]" (e-STJ fl. 120).
+No mais, cita julgado monocrático acerca da correção monetária de benefício previdenciário a partir da vigência do art. 41-A da Lei n. 8.213/1991, postulando o exame do mérito da controvérsia trazida na peça exordial.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 130).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+A irresignação não merece prosperar.
+Nos termos do art. 105, I, "f", da Constituição Federal, c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, garantir a autoridade das suas decisões, a observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Após a edição do CPC/2015, diante da lacuna da Lei n. 10.259/2001, segundo meu entendimento, seria cabível a reclamação para o STJ, no âmbito dos Juizados Especiais Federais, quando o julgado da Turma Recursal ou da Turma de Uniformização divergisse de aresto deste Tribunal proferido em sede de recurso especial repetitivo (art. 988, § 5º, II, do CPC/2015).
+No entanto, na peça exordial não se evidencia nenhuma indicação de dissídio com julgado repetitivo, motivo que denota a utilização da presente demanda como sucedâneo recursal, situação incabível.
+Ademais, esta Corte possui a compreensão de que, em se tratando de ação de competência de Juizado Especial Federal, mostra-se inadmissível a propositura de reclamação, ante a existência de procedimento específico de uniformização de jurisprudência (art. 14, § 4º, da Lei n. 10.259/2001), de modo que passei a ressalvar o meu posicionamento sobre a questão (acima mencionado).
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PROFERIDO POR TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. NÃO CABIMENTO DA RECLAMAÇÃO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Nos termos dos arts. 105, I, f, da CF e 187 do RISTJ, a reclamação destina-se a preservar a competência deste Tribunal ou garantir a autoridade das suas decisões. É um meio de impugnação de manejo limitado, que não pode ter seu espectro cognitivo ampliado, sob pena de se tornar um sucedâneo recursal.
+2. No âmbito dos Juizados Especiais Federais, não é cabível reclamação diretamente contra decisão de turma recursal com a finalidade de discutir contrariedade à jurisprudência do STJ.
+3. Há previsão legal de recurso específico contra acórdão da Turma Recursal do Juizado Especial Federal, qual seja, o incidente de uniformização dirigido à Turma Nacional.
+4. Ao STJ somente competirá, em momento posterior, a análise de eventual divergência entre o acórdão da Turma Nacional de Uniformização com a sua jurisprudência dominante ou sumulada, acerca de questões de direito material.
+5. Agravo interno a que se nega provimento.
+(AgInt na Rcl 32.968/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 22/02/2017, DJe 03/03/2017).
+PROCESSUAL CIVIL. RECLAMAÇÃO. INADEQUAÇÃO DA VIA ELEITA. DECISÃO RECORRIDA PROFERIDA POR TURMA RECURSAL DE JUIZADO ESPECIAL (LEI 12.153/2009). EXISTÊNCIA DE MECANISMO PRÓPRIO PARA A SOLUÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. POSSIBILIDADE DE DESISTÊNCIA DA AÇÃO APÓS A CITAÇÃO. MATÉRIA PROCESSUAL. NÃO CABIMENTO DE RECLAMAÇÃO.
+1. A reclamação teve o seu seguimento obstado pela decisão agravada com suporte na aplicação da iterativa jurisprudência da Primeira Seção desta Corte, que se tem posicionado no sentido do não cabimento da reclamação contra decisões proferidas pelas Turmas Recursais em demandas que tramitam no Juizado Especial da Fazenda Pública (Lei 10.253/2009) ou nos Juizados Especiais Federais (Lei 10.259/2001), tendo em vista a existência de mecanismos próprios para a solução das alegadas divergências jurisprudenciais.
+2. Por outro lado, não socorre ao agravante o argumento de que não é cabível incidente de uniformização de jurisprudência, em razão de a decisão reclamada versar sobre questões de direito processual, porquanto a jurisprudência desta Corte uniformizou-se no sentido de que também descabe reclamação para discussão acerca de questões de direito processual, como no presente caso, em que o agravante pretende rediscutir a possibilidade ou não de desistência da ação após a citação.
+Agravo regimental improvido.
+(AgRg na Rcl 30.485/SP, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 14/06/2016).
+Na espécie, evidencia-se a utilização da presente demanda como substituto recursal, visto que o requerente reclama de decisão de magistrado do Juizado Especial Federal em que, em cumprimento de sentença, foi determinado o retorno dos autos à Contadoria para refazer a conta em relação à correção monetária, sem analisar o pleito de inclusão de índices de reajuste posteriores à data de entrada do requerimento - DER.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
