@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Concessionária Ecovias dos Imigrantes S.A. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Ação indenizatória fundada em acidente de veículo. Objeto na pista. Responsabilidade objetiva da concessionária, nos termos do artigo 14 do CDC. Danos materiais devidos e relegados para a liquidação por artigos. Lucros cessantes não demonstrados. Dor, tratamento e afastamento do serviço suficientes à configuração do dano moral. Ação procedente. Recurso parcialmente provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a apreciar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe destacar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido nesta sede recursal,  tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende registrar, por necessário, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 896.776-AgR/SP, Rel. Min. ROSA WEBER – ARE 1.043.232-AgR/RS, Rel. Min. ALEXANDRE DE MORAES – ARE 1.121.427/SP, Rel. Min. GILMAR MENDES, v.g.):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE OBJETIVA DE CONCESSIONÁRIA DO SERVIÇO PÚBLICO. NEXO CAUSAL RECONHECIDO PELO TRIBUNAL DE ORIGEM. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. NECESSIDADE DE NOVA ANÁLISE DOS FATOS E DO MATERIAL PROBATÓRIO. SÚMULA 279/STF.
+    A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que as pessoas jurídicas de direito privado, prestadoras de serviço público, respondem objetivamente pelos prejuízos que causarem a terceiros. Precedentes.
+    Ademais, para divergir do entendimento do Tribunal de origem acerca da existência dos elementos configuradores da responsabilidade objetiva pressupõe, necessariamente, uma nova apreciação dos fatos e do material probatório constante dos autos. Incidência da Súmula 279/STF.
+    Agravo regimental a que se nega provimento.”
+    (ARE 793.046-AgR/RS, Rel. Min. ROBERTO BARROSO)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Acidente de trânsito. Rodovia pedagiada. Concessionária de serviço público. Responsabilidade objetiva. Possibilidade. Elementos da responsabilidade civil demonstrados na origem. Dever de indenizar. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. A jurisprudência da Corte firmou-se no sentido de que as pessoas jurídicas de direito público e as pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos danos que causarem a terceiros, com fundamento no art. 37, § 6º, da Constituição Federal, tanto por atos comissivos quanto por atos omissivos, em situações como a ora em exame, desde que demonstrado o nexo causal entre o dano e a omissão.
+    2. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional e o reexame do conjunto fático- -probatório da causa. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Agravo regimental não provido.
+    4. Inaplicável o art. 85, § 11, do CPC, tendo em vista que, na origem, os honorários advocatícios já foram fixados no limite máximo previsto no § 2º do mesmo artigo.”
+    (ARE 951.552-AgR/ES, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 12 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
