@@ -1,0 +1,14 @@
+DECISÃO
+LEANDRO DA CRUZ HENRIQUE VICENTE alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado do Paraíba no HC n. 0804696-28.2018.8.15.0000.
+Depreende-se dos autos que o paciente foi indiciado pela suposta prática de crime de homicídio ocorrido, em tese, em 1º/1/2005 (informações prestadas pelo impetrante e denúncia não juntada). Atualmente, ele se encontra preso por força de decreto de prisão preventiva exarado, em 25/1/2007, e cumprido apenas em 6/7/2018.
+O impetrante assevera que a gravidade do crime com supedâneo em circunstâncias que integram o próprio tipo penal não permite, de per si, a prisão cautelar. Ademais, relata que o paciente não foi preso em flagrante e também não foi preso em qualquer outro momento por razão do fato apurado na denúncia. Portanto, o paciente não pode ser considerado foragido, mas tão somente revel na ação penal.
+Aduz, ainda, que o paciente não teve envolvimento com o ilícito em comento e nem mesmo tinha conhecimento da ação penal, nunca tendo sido intimado pela autoridade policial ou pelo juízo processante, para responder ao processo criminal. Relata que o indicado foi qualificado indiretamente e quem forneceu as informações não soube declinar seu endereço, que, inclusive, anos depois dos supostos fatos narrados na exordial, foi alterado.
+Ressalta que o paciente nunca saiu do distrito da culpa, possui companheira e 8 filhos - todos menores e dependentes dele - e se encontra na iminência de perder seu emprego, cujo contrato de trabalho foi assinado há mais de 10 anos.
+Requer, liminarmente, a expedição de alvará de soltura, porque o decreto de prisão preventiva está carente de fundamentação idônea.
+Indefiro o pedido liminar.
+Ab initio, observo que este mandamus foi deficientemente instruído, pois o Magistrado a quo além de indicar a condição de foragido, apontou o modus operandi empregado na prática delitiva atribuída aos denunciados como fundamento para a segregação cautelar. Todavia, o impetrante não anexou aos autos a cópia da denúncia, documento que permitiria perquirir, em tese, a existência de circunstância indicativa de maior gravidade da conduta perpetrada.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante apresentar elementos suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as peças faltantes, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
