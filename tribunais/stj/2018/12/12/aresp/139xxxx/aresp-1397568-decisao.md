@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] GUIMARAES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+COMPRA E VENDA - Ação de obrigação de fazer c/c indenizatória por danos materiais e morais - Acolhimento parcial - Aquisição de aparelho celular pela internet - Demora na entrega - Relação de consumo - Prejuízo moral não evidenciado - Situação corriqueira, resolvida com a determinação de devolução do valor já pago e acréscimos de lei - Sentença modificada - Recurso da ré parcialmente provido, na parte conhecida, prejudicado o apelo da autora.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 186 e 944, do CC.
+Defende o cabimento de indenização a título de danos morais. E continua:
+O abalo sofrido pela recorrente, em razão da não reparação do aparelho celular, no prazo legal,  evidente e inarredável. A angústia, a preocupação, o incômodo são inevitáveis e inegáveis. Ademais, o fato de não ter conseguido junto a recorrida extrajudicialmente a solução para o problema apresentado no aparelho celular adquirido junto àquela, injustamente, trouxe à mesma uma sensação de impotência e alteração de ânimo que devem ser consideradas para efeitos de estipulação do valor indenizatório. É presumível e bastante verossímil o desconforto e abalo sofrido pela recorrente, ao perceber que não conseguiria a reparação do seu aparelho celular, sem socorrer-se ao Poder Judiciário.
+É o relatório. DECIDO.
+2. Ao não reconhecer o cabimento de indenização a título de danos morais, o Tribunal de origem assim consignou:
+Não há dano moral indenizável aqui. A autora reclama da falta de entrega de aparelho celular e está recebendo de volta, com juros e correção monetária, o valor devido, além dos encargos do processo.
+Desta forma, comporta reforma a sentença à vista da inocorrência de prejuízo moral passível de indenização.
+Não há aqui ofensa grave à sua pessoa e dignidade ou situação de abalo psicológico relevante e evidente. O seu nome e reputação não sofreram mácula alguma.
+O entendimento da jurisprudência tem sido exatamente neste sentido, preservando o sagrado instituto do dano moral às situações que realmente tragam ao lesado prejuízo à sua honra, bom nome e dignidade.
+ .. .
+Nessas circunstâncias, está autorizada a reforma parcial da r. sentença, pois, sem a demonstração inequívoca de prejuízo experimentado, inviável a indenização pretendida pela autora, que fica extirpada da condenação.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de reconhecer o cabimento dos danos morais, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
