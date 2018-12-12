@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO CIVIL PÚBLICA. PLANO DE SAÚDE. CLÁUSULA DE EXCLUSÃO DE COLOCAÇÃO DE PRÓTESE. LENTE INTRA-OCULAR UTILIZADA EM CIRURGIA DE CATARATA. DISPOSITIVO TIDO POR VIOLADO. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DO ART. 535 DO CPC/73. SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL (MPF) propôs ação civil pública contra AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR (AGÊNCIA NACIONAL) E BRADESCO SEGUROS S.A. (BRADESCO SAÚDE), objetivando a declaração de nulidade de cláusula contratual que afasta a cobertura de próteses ligadas ao ato cirúrgico nas apólices de seguro, além do pagamento de danos morais coletivos.
+O Juízo de piso julgou a ação improcedente (e-STJ, fls. 410/418).
+O Tribunal de origem deu provimento ao agravo retido e deu parcial provimento ao recurso de apelação interpostos pelo MPF em acórdão assim ementado
+AÇÃO CIVIL PÚBLICA. PLANO DE SAÚDE. CLÁUSULA DE EXCLUSÃO DE COLOCAÇÃO DE PRÓTESE. LENTE INTRA-OCULAR UTILIZADA EM CIRURGIA DE CATARATA (FACECTOMIA). CONTRATOS FIRMADOS ANTERIORMENTE À LEI Nº 9.656/98. LEGITIMIDADE DO MINISTÉRIO PÚBLICO.
+O Ministério Público possui legitimidade ativa em se tratando de ação civil pública que objetiva a proteção de interesses difusos - direito à saúde, assegurado constitucionalmente, e a defesa de direitos individuais homogêneos. Precedentes.
+É abusiva a cláusula que exclui, em cirurgias de catarata, a cobertura de lentes intra-oculares.
+A finalidade principal de um plano de saúde é fornecer ao seu cliente, consumidor, a plena satisfação na prevenção e tratamento de sua saúde, não sendo legítima a fixação de limitações que coloquem-no em desvantagem exagerada.
+A matéria vem sendo debatida de forma uniforme no STJ como se depreende das seguintes ementas: REsp nº 811.867-SP, rei. Min. Sidnei Beneti;AgRg no AI nº 1.088.331-DF, rei. Min. Luis Felipe Salomão; REsp nº 716.712-RS, rei. Min. Eliana Calmon REsp nº 1.046.355-RJ, rei. Min. Massami Uyeda.
+No entanto o pedido de ressarcimento das lentes ao SUS não procede, vez que pode o consumidor, por razões pessoais, optar por cirurgia junto ao SUS.
+Agravo retido improvido e apelação parcialmente provida, para reconhecer a nulidade da exclusão da cobertura de lentes intra-oculares em cirurgias de cataratas realizadas sob a cobertura de plano ou seguro-saúde assinados com a apelada Bradesco Saúde, mesmo que anteriores à Lei nº 9.656/98. Em consequência, condena-se o Bradesco Saúde S/A a ressarcir os custos despendidos por seus segurados com o valor das lentes intra-oculares, observada a prescrição qüinqüenal contada da data da propositura da ação, desde que comprovados, o custo e a cirurgia de catarata, tudo a ser apurado em liquidação de sentença, nos termos do art. 95 do CDC.
+Custas e honorários advocatícios fixados em R$ 5.000,00 para cada um dos réus, a teor do disposto no art. 21, parágrafo único do CPC/73 (e-STJ, fls. 526/527).
+Os embargos de declaração opostos pela AGÊNCIA NACIONAL foram acolhidos para excluir sua condenação em honorários advocatícios, enquanto os declaratórios opostos por BRADESCO SAÚDE foram parcialmente acolhidos, tão somente para fins integrativos, sem alteração do resultado do julgamento estando o acórdão assim ementado
+EMBARGOS DE DECLARAÇÃO EM AÇÃO CIVIL PÚBLICA. OMISSÃO. PLANO DE SAÚDE. COLOCAÇÃO DE PRÓTESE. LEI Nº 9.656/98. APLICABILIDADE.
+No âmbito do E. Superior Tribunal de Justiça, resta pacificado o entendimento de que o magistrado não fica obrigado a manifestar-se sobre todas as alegações deduzidas nos autos, nem a ater-se aos fundamentos indicados pelas partes, ou a responder um a um a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+De acordo com a jurisprudência do E. Superior Tribunal de Justiça, como o contrato celebrado pelas partes se subsume às normas do Código de Defesa do Consumidor, a interpretação sistemática desse permite a aplicação imediata da Lei 9.656/98, ainda que celebrado antes da edição desta.
+No que concerne à honorária advocatícia é de ser provido o recurso da ANS eis que efetivamente não ocorreu a sucumbência em relação à autarquia.
+Embargos de declaração da ANS acolhidos para excluir sua condenação em honorários advocatícios.
+Embargos de declaração da Bradesco Saúde S/A acolhidos em parte, tão somente para fins integrativos, sem alteração do resultado do julgamento (e-STJ, fl. 570)
+Irresignado, o MPERF interpõe recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 177 do CC/16, sob o argumento de que deve ser observada a prescrição vintenária para a propositura da ação que visa a anulação de cláusula contratual de plano de saúde (e-STJ, fls. 544/550).
+BRADESCO SAÚDE também interpõe recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, sustentando, além de dissídio jurisprudencial, violação dos arts. 267, VI, e 535, II, do CPC/73; 1º, I, II, III e IV, da Lei nº 7.347/1985; 6º, § 1º, da LINDB; 178, § 6º, II, 1.432 e 1.460 do CC/16; 35 da Lei nº 9.656/98; 27 e 54, § 4º, do CDC. Defende (1) a existência de omissões no acórdão recorrido, consubstanciadas nas teses inseridas nos arts. 1º da LINDB; 178, § 6º, II, 1.432 e 1.460 do CC/16; 35 da Lei nº 9.656/98; e 54, § 4º, do CDC; (2) prescrição anual, não quinquenal; (3) ilegitimidade ativa e falta de interesse do Ministério Público para a propositura da presente ação civil pública; e, (4) improcedência da ação (e-STJ, fls. 575/610).
+As contrarrazões foram apresentadas pela BRADESCO SAÚDE (e-STJ, fls. 672/683) e pelo MPF (e-STJ, fls. 694/727).
+Os recursos especiais do MPF e da BRADESCO SAÚDE foram admitidos na origem (e-STJ, fls. 757/760 e 761/76, respectivamente).
+Opina o Ministério Público Federal pelo desprovimento dos recursos especiais (e-STJ, fls. 861/865).
+É o relatório.
+DECIDO.
+O inconformismo do MPF não merece ser conhecido.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O tema referente ao art. 177 do CC/16, dispositivo tido por violado, não foi apreciado pelo acórdão recorrido, apesar da oposição de embargos de declaração, estando ausente o indispensável debate prévio. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Incidente a Súmula nº 211 do STJ.
+Ressalte-se que caberia ao recorrente, nas razões do Especial, alegarem a violação do art. 535 do CPC/73, a fim de que esta Corte pudesse averiguar a existência de possível omissão, contradição ou obscuridade no julgado, o que não foi feito.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. 1. SÚMULA 291/STJ. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA DA SÚMULA 83/STJ. 2. REEXAME DA CONCLUSÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. OFENSA AO ART. 114 DO CC. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC. SÚMULAS 282/STF E 211/STJ.
+4. AGRAVO REGIMENTAL IMPROVIDO.
+1.  ..
+2. É vedado em recurso especial o reexame das circunstâncias fáticas da causa, ante o disposto no enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de provas não enseja recurso especial." 3. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (art. 114 do CC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, o recorrente não interpôs seu recurso especial alegando a ofensa ao art. 535 do CPC/1973.
+4. Agravo regimental improvido.
+(AgRg no AREsp 661.281/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/9/2016, DJe 6/10/2016)
+Nessas condições, com fundamento no art. 932, do NCPC c/c Súmula nº 568 do STJ, NÃO CONHEÇO do recurso especial do MPF.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
