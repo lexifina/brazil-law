@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por [NOME] (MENOR) E OUTRO, representados por I DOS S M, contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 185, e-STJ):
+AÇÃO DE COBRANÇA. [NOME]. COMPLEMENTAÇÃO DE PAGAMENTO DE CORREÇÃO MONETÁRIA DESDE A VIGÊNCIA DA MP 340/2006. PEDIDO IMPROCEDENTE. INSURGÊNCIA DAS AUTORAS. (A) CONFORME DELIBERADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA, EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA, CORREÇÃO MONETÁRIA É DEVIDA, NO CASO DE DVPAT, DESDE A DATA DO EVENTO DANOSO (RESP 1.483.620/SC). (B) O FATO DE AS AUTORAS TEREM POSTULADO QUE OS VALORES RECEBIDOS SEJAM CORRIGIDOS A PARTIR DA MP 340/2006 NÃO IMPLICA EM AUSÊNCIA DE PEDIDO SUBSIDIÁRIO PARA POSSIBILITAR O RECONHECIMENTO EM PERÍODO INFERIOR. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 208/211, e-STJ).
+Em suas razões de recurso especial (fls. 215/227, e-STJ), os recorrentes apontam violação ao art. 85, § 8º, do Código de Processo Civil de 2015, além de dissídio jurisprudencial. Sustenta, em suma, que em vista do valor da causa ser irrisório, deverá ser aplicado o disposto no art. 85, § 8º, do CPC/2015, para a fixação dos honorários de sucumbência.
+Contrarrazões às fls. 234/241, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência do óbice recursal da Súmula 282 do STF, ante a falta do requisito do prequestionamento.
+Daí o agravo (fls. 249/259, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Não foi apresentada contraminuta, conforme certidão à fl. 261, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal na aplicação do disposto do art. 85, § 8º, do CPC/2015.
+O Tribunal de origem, quando do julgamento dos embargos de declaração, afastou aplicabilidade do referido dispositivo, sob o fundamento de que, "no presente caso, não tem incidência as novas regras estabelecidas em relação aos honorários de sucumbência, pois quando da sentença e da interpretação da apelação não estavam em vigência", pronunciando-se nos seguintes termos (fls. 210/211, e-STJ):
+Não incidem as regras da legislação processual em vigência. Isso porque a sentença foi proferida em 1.4/01/2016 (fl. 100/109) e a apelação interposta em 1.6/02/2016 (fl. 112/115), sob a égide, então, do CPC/73.
+O art. 14 do CPC/2015 estabelece que "a norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada".
+Leciona Humberto Theodoro Júnior, a esse propósito, que o Código de Processo Civil de 2015 "alcança o processo no estado em que se achava no momento de sua entrada em vigor, mas respeita os efeitos dos atos já praticados, que continuam regulados pela lei do tempo em que foram consumados" (Código de Processo Civil Anotado, 20" Ed., Forense, pág. 1.0).
+O Superior Tribunal de Justiça por meio do Enunciado Administrativo 02 firmou orientação no sentido de que "aos recursos interpostos com fundamento no CPC/1973 (relativo a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Portanto, no presente caso, não tem incidência as novas regras estabelecidas em relação aos honorários de sucumbência, pois quando da sentença e da interposição da apelação não estavam em vigência.
+Tendo a sentença natureza condenatória, a aplicação do art. 20, § 3º, do CPC/73 se apresenta não apenas adequada, mas imperiosa. (grifou-se).
+Ocorre, conforme se constata das razões recursais, que o referido fundamento não foi impugnado pela parte recorrente, eis que se limitou a alegar que, em vista do valor da causa ser irrisório, deverá ser aplicado o disposto no art. 85, § 8º, do CPC/2015, para a fixação dos honorários de sucumbência.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. De outro modo, observa-se que o entendimento do acórdão recorrido não destoa do entendimentos desta Corte Superior no sentido de que, à luz do princípio tempus regit actum e da Teoria do Isolamento dos Atos Processuais, os atos processuais devem observar a legislação vigente ao tempo de sua prática, sob pena de indevida retroação da lei nova para alcançar atos já consumados.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO CPC DE 1973. TEMPUS REGIT ACTUM. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. CRITÉRIOS DE DIREITO INTERTEMPORAL. REQUISITOS DE ADMISSIBILIDADE DO REGIME ANTERIOR. IMPOSSIBILIDADE DA APLICAÇÃO DA NOVA CODIFICAÇÃO. INCIDÊNCIA DA SÚMULA 115/STJ.
+1. Tanto o CPC/1973 (art. 1.211) quanto o CPC/2015 (art. 1.046, "caput") adotaram, com fundamento no princípio geral do "tempus regit actum", a chamada "teoria do isolamento dos atos processuais" como critério de orientação de direito intertemporal, de maneira que nada obstante a lei processual nova incida sobre os feitos ainda em curso, não poderá retroagir para alcançar os atos processuais praticados sob a égide do regime anterior, mas apenas sobre aqueles que daí em diante advierem.
+2. Nesse sentido, a definição sobre qual regime jurídico será aplicado depende do momento em que o respectivo ato processual é praticado.
+3. Assim, por exemplo, se o acórdão a ser impugnado pela via do recurso especial foi publicado quando ainda vigente o CPC/1973, assim como a decisão sobre a sua inadmissibilidade, tanto o apelo raro quanto o respectivo agravo em recurso especial observarão as regras de admissibilidade então exigidas. É esse o teor do Enunciado Administrativo n. 2/STJ.
+4. É justificada, portanto, a incidência da Súmula 115/STJ quanto a recurso especial e quanto a agravo interpostos sob a regência do CPC/1973.
+5. Agravo interno não provido.
+(AgInt no AREsp 989.414/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/03/2017, DJe 13/03/2017) (sem grifos no original)
+3. Do mesmo modo, constata-se que o acórdão recorrido, ao consignar que, "tendo a sentença natureza condenatória, a aplicação do art. 20, § 3º, do CPC/73, se apresenta não apenas adequada, mas imperiosa", encontra-se em conformidade com a jurisprudência do STJ sobre o tema. Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. SENTENÇA. CUNHO CONDENATÓRIO. VERBA HONORÁRIA. NECESSIDADE DE FIXAÇÃO ENTRE 10 E 20% SOBRE O VALOR DA CONDENAÇÃO. AGRAVO INTERNO PROVIDO.
+1. A jurisprudência do STJ se consolidou no sentido de que, quando a sentença for de natureza condenatória, para fins de arbitramento dos honorários advocatícios, devem ser aplicados os limites percentuais previstos no § 3º do art. 20 do Código de Processo Civil - mínimo de 10% e máximo de 20%, incidentes sobre o valor da condenação. Precedentes.
+2. Agravo interno a que se dá provimento, conhecendo-se do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp 1121454/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/09/2018, DJe 26/09/2018) (grifou-se)
+Aplica-se, portanto, a orientação prevista no enunciado 83 deste Superior Tribunal de Justiça, no sentido de que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
