@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME], em 22/08/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"APELAÇÃO. AÇÃO DE INDENIZAÇÃO EM RAZÃO DE MÁ PRESTAÇÃO DE SERVIÇO MÉDICO REALIZADO EM AUTARQUIA COM PERSONALIDADE JURÍDICA PRÓPRIA. HOSPITAL MUNICIPAL TIDE SETUBAL. Autarquia com personalidade própria que responde pelos seus atos, não havendo responsabilidade do Município, que não deve estar no polo passivo da ação. Sentença que extingue o processo sem resolução de mérito em razão da ilegitimidade do Município que é mantida. Honorários recursais arbitrados.
+RECURSO DE APELAÇÃO NÃO PROVIDO" (fl. 174e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. HONORÁRIOS DE ADVOGADO E SUCUMBÊNCIA ARBITRADOS CONTRA BENEFICIÁRIO DA JUSTIÇA GRATUITA. DEVIDA A FIXAÇÃO. Embargos que devem ser rejeitados, pois a fixação é devida, mesmo sendo o autor beneficiário da justiça. Prazo prescricional de 5 anos para executar o título em caso de modificação da situação financeira do condenado.
+EMBARGOS REJEITADOS" (fl. 188e).
+Nas razões do Recurso Especial, interposto com fulcro na alínea a do permissivo constitucional, aduz a parte recorrente violação ao art. 17 do CPC/2015 e à Lei 8.080/90, argumentando que "não há de se falar em ilegitimidade da recorrida, eis que os fatos ensejadores da pretendida indenização ocorreu primeiramente no banco de sangue do HOSPITAL TIDE SETUBAL, ora administrado pela COLSAN, decorrente de alteração no resultado da sorologia de triagem para doação voluntária de sangue e após no CTA do referido nosocômio, para confirmação do diagnóstico, ou seja, a pretensão deduzida decorre de falha na prestação de serviços médicos do MUNICÍPIO DE SÃO PAULO" (fl. 195e).
+Requer, ao final, o provimento do recurso.
+Apresentadas as contrarrazões (fls. 235/238e), negado seguimento ao Recurso Especial (fls. 240/241e), foi interposto o presente Agravo (fls. 255/262e).
+Apresentada a contraminuta a fls. 265/269e.
+A irresignação não merece acolhimento.
+Inicialmente, quanto à alegada violação à Lei 8.080/90, cumpre esclarecer que a indicação de ofensa genérica à lei, sem indicar, de forma clara e individualizada, os dispositivos tidos por violados, implica deficiência de fundamentação, atraindo a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. NECESSIDADE. SÚMULA 284/STF.
+O agravante não particulariza quais preceitos infraconstitucionais estariam supostamente afrontados o que caracteriza a ocorrência de alegação genérica e evidencia a deficiência na fundamentação recursal. Aplicação da Súmula 284 do STF.
+Agravo regimental improvido" (STJ, AgRg no AREsp 465.591/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 28/03/2014).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NOMEAÇÃO PARA CARGO EM COMISSÃO A TÍTULO PRECÁRIO. REGIME JURÍDICO ADMINISTRATIVO. FGTS. ART. 19-A DA LEI N. 8.036/90. INAPLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+4. Considera-se deficiente a fundamentação do recurso especial, quando não demonstrada, clara e objetivamente, a violação de dispositivos de lei federal, a teor da Súmula 284 do STF.
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 348.966/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 25/02/2014).
+Em relação à alegada legitimidade passiva do Município agravado, a Corte de origem concluiu o seguinte:
+"Como bem pontuou o Juízo "a quo", de acordo com as normas legais de regência, a Autarquia Hospitalar Municipal é dotada de personalidade jurídica de direito público, caracterizada por sua autodeterminação em âmbito administrativo, financeiro e patrimonial, motivo pelo qual é legitimada para figurar como ré em processos judiciais de reparação de dano em razão de falha na prestação do serviço por ela executado, não havendo, portanto, razão para que a Municipalidade figure no polo passivo da demanda.
+Assim, considerando as características do ente autárquico e notadamente o fato de que a Autarquia Hospitalar Municipal tem personalidade jurídica de direito público, dotada de autodeterminação, tal entidade deverá arcar com o pagamento de indenização, o caso fique demonstrado, ao final da demanda, o dano material e/ou moral experimentado pelos requerentes" (fls. 175/176e).
+Neste contexto, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
