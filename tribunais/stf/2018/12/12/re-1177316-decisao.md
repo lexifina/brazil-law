@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO. AÇÃO ORDINÁRIA. SERVIDORA PÚBLICO MUNICIPAL. SÃO PAULO. Adicional por tempo de serviço. Recálculo. Vencimentos integrais. Impossibilidade. Inconstitucionalidade do art. 97 da Lei Orgânica do Município de São Paulo declarada pelo Órgão Especial. Afastada a aplicação do art. 129 da CE, específica dos servidores estaduais. Autonomia dos Municípios. Art. 30, I, CF. Aplicação do art. 112 da Lei Municipal nº 8.989/79. Cálculo sobre o padrão de vencimento. Sentença de improcedência mantida. Recurso desprovido” (pág. 2 do documento eletrônico 49).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição, sustenta-se, em suma, violação do art. 5°, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o dispositivo constitucional arguido pela recorrente não foi prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, cito o ARE 772.836-AgR/PE, de relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    3. Agravo regimental não provido” (grifei).
+    Verifica-se, também, que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria indireta, o que inviabiliza o processamento do presente recurso. Incide, no caso, a Súmula 280/STF. Nesse sentido, cito os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2.Administrativo. 3. Servidor público. 4. Base de cálculo para horas extras, quinquênio e gratificação. 5. Impossibilidade de análise da legislação infraconstitucional e de reexame de provas. 6. Súmulas 279 e 280. 7. Agravo regimental ao qual se nega provimento” (ARE 957.504-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. CÁLCULO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL.
+    A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação local, sem que se discuta o seu sentido à luz da Constituição. Incidência da Súmula 280/STF. Precedentes.
+    Ademais, o Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão discutida (ARE 675.153-RG, Rel. Min. Ayres Britto).
+    Agravo regimental a que se nega provimento” (ARE 767.978-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma).
+     Por fim, ressalta-se que o presente caso não trata de acórdão que tenha julgado válida lei ou ato de governo local contestado em face da Constituição, o que afasta o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da CF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2018.
+                Ministro Ricardo Lewandowski
+                            Relator
