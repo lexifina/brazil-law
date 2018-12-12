@@ -1,0 +1,20 @@
+DESPACHO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado:
+    “Direito Processual Civil. Agravo Interno, na forma do art. 557, § 1º, do CPC. Desprovimento.
+    Direito Previdenciário. Rio previdência. Revisão de benefício previdenciário. Emenda Constitucional nº 20/98. Artigo 40, § 7º, da Constituição da República.
+    Pretensão deduzida por beneficiários de pensão previdenciária postulando a revisão dos seus benefícios ao correspondente a 100% da remuneração a que o servidor teria direito se vivo fosse. Sentença de procedência, condenando a revisão do benefício observada à prescrição quinquenal. Recurso.
+    Direito à revisão do benefício previdenciário com base no percentual de 100% do que o servidor perceberia se vivo fosse. Autoaplicabilidade do artigo 40, §7º, da Constituição da República, com a redação conferida pela Emenda Constitucional nº 20/98.
+    Contudo, a diferença remuneratória decorrente da reestruturação da carreira do servidor falecido, instituída pela Lei nº 4.668/05, só poderá incidir a partir do efetivo aumento concedido ao cargo paradigma, não podendo retroagir aos últimos cinco anos.
+    Honorários de sucumbência arbitrados de forma desproporcional ao trabalho desenvolvido pelo patrono na presente demanda, pois trata-se de um litisconsórcio, o que demanda uma maior atividade laborativa.
+    Assim, reforma-se a sentença para condenar o réu ao pagamento da quantia de R$2.500,00 (dois mil e quinhentos reais) a título de honorários de sucumbência, na forma do art. 20, § 4º, do Código de Processo Civil.
+    Juros Moratórios. O art. 1º-F da Lei 9494/94, em sua redação antiga, fixava os juros no percentual de 6%. Contudo, com a nova redação conferida ao referido dispositivo pela Lei nº 11.960, de 30 de junho de 2009, os juros passaram a estar limitados aos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+    No que se refere à taxa judiciária, contudo, há o dever de pagamento, pois tendo ela natureza distinta das custas, não foi abrangida pela isenção conferida pela Lei Estadual nº 3350/99, persistindo a condenação neste caso. Enunciado nº 76 desta Corte: ‘A taxa judiciária é devida por todas as autarquias, notadamente o INSS, ao Fundo Especial do Tribunal de Justiça, competindo-lhe antecipar o pagamento do tributo se agir na condição de parte autora e, ao final caso sucumbentes’.
+    Desprovimento do recurso.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 603.580/RJ, Rel. Min. RICARDO LEWANDOWSKI, nele fixando tese assim consubstanciada:
+    “Os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (EC 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I).”
+    Cabe salientar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (ARE 855.723-AgR-Segundo-ED/RJ, Rel. Min. GILMAR MENDES – RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, quanto ao Tema nº 396/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 12 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
