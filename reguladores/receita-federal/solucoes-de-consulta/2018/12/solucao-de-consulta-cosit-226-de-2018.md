@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 226, de 4 de dezembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: RENDIMENTOS DECORRENTES DE FIANÇA REMUNERADA. TRIBUTAÇÃO NA FONTE. TABELA PROGRESSIVA MENSAL Rendimentos decorrentes de contrato de fiança remunerada, em face da garantia sobre debêntures emitidas, estão sujeitos à retenção na fonte pela pessoa jurídica que efetuou os pagamentos, no momento da percepção dos rendimentos, com a aplicação de alíquotas progressivas, por não se constituírem em remuneração sobre o capital próprio. O valor do imposto retido na fonte durante o ano-calendário será considerado redução do apurado na declaração de rendimentos. DISPOSITIVOS LEGAIS: Lei n.º 7.713, de 1988, arts. 1.º; 2.º; 3.º, §§ 1.º e 4.º; e 7.º, incisos e § 1.º; Decreto n.º 9.580, de 2018, art. 677, §§ 1.º, 2.º e 3.º; Lei n.º 13.149, de 2015.
+.
+[arquivo anexo: SC Cosit nº 226-2018 .pdf]
