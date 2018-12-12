@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto pela Fazenda do Estado de São Paulo, com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos (e-STJ, fl. 62):
+DIREITO PÚBLICO - EXECUÇÃO FISCAL - RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE - APELAÇÃO DA FAZENDA PÚBLICA E REEXAME NECESSÁRIO - INÉRCIA DA FAZENDA POR PERÍODO SUPERIOR A CINCO ANOS - Processo sem o requerimento de diligências úteis ao seu regular andamento por mais de cinco anos após o rompimento do parcelamento pela executada - Ausentes causas interruptivas ou suspensivas da execução - Inércia fazendária configurada - Prescrição reconhecida - Recurso voluntário e reexame necessário desprovidos.
+Não houve oposição de embargos de declaração.
+Alega a agravante, nas razões do recurso especial, além de dissídio jurisprudencial, a existência de violação do art. 174 do CTN ao argumento de que haveria "flagrante inexistência de inércia por parte da exequente e na cobrança do seu crédito"(e-STJ, fl. 74).
+A negativa de admissibilidade teve por fundamento o óbice da Súmula 7 do STJ.
+É o relatório.
+Com efeito, o Tribunal de origem, soberano na análise das provas acostas aos autos, ao tratar sobre o reconhecimento da prescrição intercorrente, assim consignou (e-STJ, fls. 64-66):
+Nos termos do artigo 174 do C.T.N., a ação para a cobrança do crédito tributário prescreve em cinco anos, sendo a prescrição interrompida, dentre outras causas, por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
+A adesão ao Programa de Parcelamento Incentivado pelo executado, de acordo com entendimento pacífico do [NOME], constitui reconhecimento do débito para com o Fisco, interrompendo, portanto, o prazo prescricional:
+ ..
+O parcelamento também suspende a exigibilidade do crédito tributário, a teor do disposto no artigo 151 do C.T.N., permanecendo o processo suspenso até o adimplemento das parcelas.
+Todavia, no caso de rompimento do parcelamento pelo executado, a prescrição quinquenal começa a correr a partir da parcela inadimplida, como bem afirmado pelo [NOME]:
+ ..
+No caso dos autos, o último pagamento realizado pelo autor se deu em 26.11.2007 (fls. 34), data a partir da qual iniciou-se a contagem do prazo prescricional quinquenal.
+Após o rompimento, a Fazenda não demonstrou efetivo interesse em obter a satisfação de seu crédito tributário. De fato, quando instada pelo juízo a se manifestar, pleiteou, em 15. 06.2010, a realização de penhora online sobre eventuais bens da executada.
+No entanto, frustrada a penhora, ao invés de requerer outras diligências, a RE.S.P. pleiteou nova penhora online em 27.09.2011, idêntica à anteriormente realizada, o que demonstra, indubitavelmente, sua inércia na efetiva satisfação do crédito tributário, sobretudo pelo fato de a sentença ter sido prolatada apenas em 26.02.2016 (fls. 38).
+ ..
+Ademais, não se vislumbra, após o rompimento do parcelamento, qualquer causa suspensiva ou interruptiva do prazo prescricional, sendo de rigor o reconhecimento da prescrição intercorrente pela inércia fazendária.
+Nesse contexto, para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 535, II, DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. DECADÊNCIA TRIBUTÁRIA. TERMO INICIAL. ART. 173, I, DO CTN. SÚMULA 283/STF. SUBSTRATOS PARA A PRESCRIÇÃO. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO.
+INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. Quanto à decadência do direito de o Fisco constituir créditos tributários referentes a tributos sujeitos a lançamento por homologação - hipótese à dos autos -, tem-se que o termo a quo se refere ao primeiro dia do exercício seguinte àquele em que ocorrido o fato gerador, nos termos do art. 173, I, do CTN. Isso quando não subsistente qualquer pagamento parcial por parte do contribuinte.
+3. O acórdão impugnado adotou referida tese quando concluiu no sentido de que, "dado que a exação mais antiga reporta ao vencimento de 1998, o dies a quo para a Fazenda realizar o lançamento foi 1º/1/1999". A análise do recurso especial denota, no entanto, que os recorrentes deixaram incólumes referidos fundamentos, atraindo a aplicação do óbice da Súmula 283/STF.
+4. O Tribunal de origem, soberano na análise das provas, quanto aos substra-tos para compreender pela inexistência da prescrição, afirmou que: i) os créditos foram constituídos por ocasião da adesão a parcelamento; ii) subsiste presunção irregular da sociedade a legitimar o redirecionamento da execução, já que o oficial certificou que o ente empresarial não teria sido encontrado no endereço de funcionamento; e iii) os recorrentes não teriam logrado êxito em afastar referida presunção.
+5. Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e desconsiderar referidas conclusões, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 6. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1.510.681/PE, minha relatoria, SEGUNDA TURMA, julgado em 20/3/2018, DJe 23/3/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. JUSTIÇA GRATUITA. PESSOA JURÍDICA. COMPROVAÇÃO DE HIPOSSUFICIÊNCIA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ANÁLISE DO DISSENSO JURISPRUDENCIAL. CONTEXTO FÁTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição, obscuridade ou erro material.
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - In casu, rever o entendimento do Tribunal de origem, no sentido de reconhecer o cumprimento dos requisitos para concessão de justiça gratuita em benefício da pessoa jurídica, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.680.506/RS, Rel. Min. REGINA HELENA COSTA, PRI-MEIRA TURMA, julgado em 8/2/2018, DJe 20/2/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
