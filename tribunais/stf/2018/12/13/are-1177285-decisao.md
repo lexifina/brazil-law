@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Norte, está assim ementado:
+    “CONSTITUCIONAL, ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA ESTADUAL. EXONERAÇÃO EM CUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PROCESSO ADMINISTRATIVO QUE SE DESENVOLVEU SEM O DEVIDO PROCESSO LEGAL. NECESSIDADE DE OBSERVÂNCIA DOS COMANDOS CONTIDOS NO ART. 5º, INCISO LIV DA CF/88 E DO RITO PREVISTO NA LCE Nº 303/2005. PROCEDIMENTO ADMINISTRATIVO QUE RESULTOU EM EFETIVA INTERFERÊNCIA NEGATIVA NA ESFERA JURÍDICA INDIVIDUAL DAS SERVIDORAS. DIREITO LIQUIDO E CERTO DAS IMPETRANTES. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. CONCESSÃO DA SEGURANÇA.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 102, § 2º, da Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 594.296/MG, Rel. Min. DIAS TOFFOLI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.”
+    Impende assinalar, por oportuno, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.105.084/RN, Rel. Min. MARCO AURÉLIO – ARE 1.106.312/RN, Rel. Min. DIAS TOFFOLI – ARE 1.124.163/RN, Rel. Min. GILMAR MENDES – ARE 1.125.098/RN, Rel. Min. EDSON FACHIN – ARE 1.125.112/RN, Rel. Min. ALEXANDRE DE MORAES, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
