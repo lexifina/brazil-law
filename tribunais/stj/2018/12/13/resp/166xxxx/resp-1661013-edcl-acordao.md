@@ -1,0 +1,45 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. OMISSÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. EXTINÇÃO DA PUNIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. EXTINÇÃO DA PUNIBILIDADE.
+1. A extinção da punibilidade em razão da prescrição da pretensão punitiva constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do artigo 61 do Código de Processo Penal.
+2. Hipótese em que o réu, absolvido em primeira instância, foi condenado em sede de apelação à pena de 4 (quatro) anos de reclusão, cujo lapso prescricional se dá em 8 anos, nos termos do artigo 109, inciso IV, do CP.
+3. Considerando-se a menoridade relativa do condenado à época do fato criminoso, por força da previsão contida no artigo 115 do Código Penal, o prazo prescricional é reduzido na metade.
+4. Verificado o decurso de prazo superior a 4 anos entre a data da publicação do acórdão condenatório, em 17/10/2014, até a presente data, deve ser declarada a prescrição da pretensão punitiva do Estado.
+5. Embargos de declaração rejeitados, com declaração, de ofício, de extinção da punibilidade do agente, por força da prescrição da pretensão punitiva estatal.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos e conceder "Habeas Corpus" de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de embargos de declaração opostos por WILLIAM DE MORAES RODRIGUES contra o acórdão que negou provimento ao agravo regimental interposto em face de decisão que deu parcial provimento ao recurso especial da defesa.
+Reitera o embargante que o acórdão foi omisso acerca da extinção da punibilidade pela prescrição da pretensão punitiva do Estado, uma vez que entre o julgamento do acórdão condenatório (9/10/2014) até a presente data já transcorreu lapso superior a 4 (quatro) anos, se considerada a pena aplicada e a menoridade relativa do condenado a época do fato delituoso.
+Requer, assim, sejam acolhidos os presentes embargos para declarar extinta a punibilidade do embargante.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Conforme consignado no acórdão embargado, os elementos existentes nos autos indicam que o agente foi denunciado pela prática do crime previsto no artigo 35 da Lei Antidrogas, por ter, entre os meses de janeiro e junho de 2010, se associado a outros dez agentes para praticarem o crime de tráfico de drogas no município de Jaú/SP. (e-STJ, fls. 2/9)
+Julgada improcedente a denúncia, o agravante foi absolvido pelo Juízo de origem. (e-STJ, fl. 2057)
+A sentença foi reformada pelo Tribunal a quo, em apelação da acusação, para condenar o recorrente à pena de 4 (quatro) anos de reclusão, em regime inicial fechado, e pagamento de 933 (novecentos e trinta e três) dias-multa. (e-STJ, fl. 2513)
+Seguiu-se a interposição de recurso especial, que foi parcialmente provido em decisão monocrática desta Relatoria, decisão contra a qual foi interposto agravo regimental, que foi desprovido.
+Opostos embargos de declaração em 14/9/2018, foram rejeitados. (e-STJ, fls. 3082/3088)
+Daí estes segundos embargos, em que a defesa alega a ocorrência de omissão acerca da extinção da punibilidade pela prescrição da pretensão punitiva do Estado, uma vez que da data do acórdão condenatório (9/10/2014) até a presente data já transcorreram mais de 4 (quatro) anos.
+No que se refere ao pleito de extinção da punibilidade pela ocorrência da prescrição quadrienal entre a data da publicação do acórdão condenatório até a presente data, é de se ressaltar que a defesa pretende a discussão de tese que sequer foi aventada pela parte nas razões do apelo nobre e nos recursos que o sucederam, tratando-se de verdadeira inovação recursal inviável na via eleita.
+Contudo, por oportuno, em observância ao contido no art. 61 do Código de Processo Penal, passo a verificar a alegada ocorrência da prescrição da pretensão punitiva do Estado.
+Deve-se consignar, inicialmente, que a condenação transitou em julgado para o órgão ministerial, o que permite a consideração da pena imposta ao acusado para fins de cálculo do prazo prescricional.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 163, § ÚNICO, III, DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA NÃO APLICÁVEL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE OU INTERCORRENTE. RECURSO ESPECIAL INADMITIDO. TRÂNSITO EM JULGADO PARA A DEFESA. DATA QUE RETROAGE AO ESCOAMENTO DO PRAZO DE INTERPOSIÇÃO DO RECURSO ESPECIAL. PRECEDENTES. LAPSO TEMPORAL DA PRESCRIÇÃO NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. A figura típica do delito previsto no art. 163, § único, III, do Código Penal cuida-se de conduta que provoca lesão a bem jurídico de relevante valor social, afetando toda a coletividade, razão pela qual não cabe a aplicação do princípio da insignificância.
+Precedentes. Incidência do enunciado n. 83 da Súmula do STJ.
+2. O prazo da prescrição da pretensão punitiva superveniente é verificado pela pena cominada, nos termos do art. 110, § 1º, c/c art. 109, ambos do Código Penal - CP, porquanto pressupõe o trânsito em julgado para a acusação.
+3. Em caso de interposição de recurso especial inadmitido e de agravo em recurso especial sem êxito, conforme especificado no EAREsp 386.266/SP, a data do trânsito em julgado para a defesa, exclusivamente para fins de prescrição, retroagirá ao último dia do prazo de interposição do recurso especial na origem. Precedentes.
+Agravo regimental desprovido.
+(AgRg no AREsp 1006934/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. FUNDAMENTOS IMPUGNADOS A CONTENTO. REFORMATIO IN PEJUS. OCORRÊNCIA. FUNDAMENTO DESFAVORÁVEL RECONHECIDO EM APELAÇÃO EXCLUSIVA DA DEFESA. DESPROPORCIONALIDADE. SÚMULA 7/STJ. INAPLICABILIDADE. PRESCRIÇÃO RETROATIVA. OCORRÊNCIA. ART. 110, § 1º, DO CP. SENTENÇA CONDENATÓRIA. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRESCRIÇÃO REGULADA PELA PENA APLICADA. DECLARAÇÃO DE OFÍCIO. ART. 61 DO CPP. MATÉRIA DE ORDEM PÚBLICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Considerando que o fundamento aplicado pela Corte regional foi devidamente rebatido e que, ao contrário do que consta da decisão de inadmissão, a questão posta em discussão realmente não demanda a revisão de matéria fática, não há que se cogitar na eventual incidência da s. 182/STJ.
+2. Tendo em vista que o único fundamento exarado pelo sentenciante para a elevação da pena-base é flagrantemente ilegal (violação ao enunciado n. 444/STJ), constata-se a infringência ao princípio da non reformatio in pejus, pois a exasperação da basilar passou a se escorar apenas no maior desvalor conferido à vetorial da culpabilidade, a qual, no entanto, só foi reconhecida pela origem por ocasião do julgamento de recurso exclusivo da defesa.
+3. Se constatada exacerbação ou desproporcionalidade na dosimetria, como na hipótese dos autos, pode esta Corte Superior proceder à revisão da pena, não havendo que se suscitar violação à súmula 7/STJ.
+4. Nos termos do art. 110, § 1º, do CP, a prescrição, após a sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, deve ser regulada pela pena aplicada.
+5. Ausente a interposição de recurso acusatório junto à instância ordinária e improvido o presente agravo regimental, impõe-se o reconhecimento da prescrição da pretensão punitiva estatal, pois entre o recebimento da denúncia e a publicação da sentença condenatória decorreu o lapso extintivo.
+6. Agravo regimental improvido.
+(AgRg no AREsp 892.717/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/09/2017, DJe 19/09/2017)
+No caso dos autos, levando-se em consideração que para o crime praticado pelo embargante foi imposta pela Corte a quo a pena de 4 (anos) anos, a prescrição implementa-se em 8 (oito) anos, por força da previsão contida no artigo 109, inciso IV, do CP. Considerando, ainda, que a época dos fatos (janeiro a junho de 2010) o réu tinha idade inferior a 21 anos, nos termos do artigo 115 do Código Penal, o prazo prescricional fica reduzido pela metade, ou seja, 4 anos.
+Assim, tendo em vista que o acórdão condenatório foi publicado em 17/10/2014 (e-STJ, fl. 2516), verifica-se que até a presente data decorreu o lapso prescricional superior a 4 (quatro) anos, o que justifica a declaração de extinção da punibilidade do condenado.
+Ante o exposto, rejeita-se os embargos de declaração, concedendo, contudo, habeas corpus de ofício, a fim de declarar extinta a punibilidade do agravante, em razão do decurso do prazo prescricional.
+É como voto.
