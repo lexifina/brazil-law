@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 3A VARA DE SÃO BERNARDO DO CAMPO-SP, suscitante, e o JUIZ DE DIREITO DA 3A VARA CRIMINAL DE SÃO BERNARDO DO CAMPO - SP, suscitado.
+Consta dos autos que foi instaurado inquérito policial para apuração do cometimento do delito previsto no art. 334, caput, do Código Penal (fl. 96).
+O Juízo de Direito da 3.ª Vara Criminal de São Bernardo do Campo - SP declinou de sua competência, remetendo os autos à Justiça Federal.
+O Juízo Federal da 3.ª Vara de São Bernardo do Campo-SP, a seu turno, reconheceu-se incompetente para o processamento e julgamento da ação penal, suscitando o presente conflito negativo de competência.
+O Ministério Público Federal manifestou-se pelo reconhecimento da competência do Juízo Federal (fls. 194-199).
+É o relatório.
+DECIDO.
+Colaciono, por oportuno, a decisão do Juízo suscitante, para melhor análise do caso (fls. 184-187):
+Vistos etc.
+Trata-se de Inquérito Policial originariamente tombado sob o nº 134/2017 perante o 4o DP de São Bernardo do Campo e posteriormente retombado perante a Delegacia de Repressão a Cnmes Fazcndário da Policia Federal em São Paulo sob o registro 0943/2018-1, a fim de apurar eventual prática de crime de descaminho praticado, em lese, por [NOME].
+Segundo consta dos autos, na data de 11/04/2017, durante operação policial, investigadores de policia diligenciaram até uma fábrica situada neste município, onde lograram encontrar 105.850 (cento e cinco mil, oitocents e cinqüenta) peças desmontadas dc relógios (corpos de relógios, mostradores de relógios, pulseiras dc relógios, fundos de relógios e pinos de pulseira dc relógios), sem comprovação dc procedência.
+Durante as investigações, apurou-se que o proprietário do local seria [NOME] FRANCISCO [NOME], que em interrogatório confirmou que os objetos apreendidos lhe pertencem, alegando que os achou na Rua 25 dc Março, entro da cidade de São Paulo/SP, vindo a pegá-los, negando que pretendia vende-los ou comercilzá-los, não possuindo nota fiscal.
+Ê o breve relatório.
+DECIDO:
+O caso concreto NAO É de competência da Justiça Federal.
+Conforme explanado pela autoridade policial federal às fls. 78/80, não restou configurada a hipótese de internacionalização da mercadoria apreendida, tendo em vista o depoimento do investigado de que teria encontado os bens na Rua 25 de Março, em Sáo Paulo/SP.
+Já firmou-se juridprudência consolidando o entendimento de que a definição da competência para processar c julgar o delito dc contrabando depende de existir indícios da transnacionalidade do delito. Nesse sentido:
+ ..
+Dessa forma, competente o.Juízo Estadual dc São Bernardo do Campo/SP para atuar no presente feito.
+Outrossim, tendo em vista a manifestação de fls. 56, SUSCITO COMFLITO NEGATIVO DE COMPETÊNCIA cm face da 3" Vara Criminal da Comarca de São Bernardo do Campo/SP. nos termos do Art. 114. I do Código de Processo Penal.
+Extraia-se cópia integral dos presentes autos e remeta-se, por ofício, o conflito suscitado ao Egrégio Superior Tribunal de Justiça, com as minhas homenagens.
+Extrai-se dos autos que foi instaurado inquérito policial após diligências empreendidas visando apurar denúncia anônima que levou à localização, em uma fábrica desativada, de cerca de 105.850 peças desmontadas de relógios, sem comprovação da procedência. Ato seguinte, apurou-se que o local em que os objetos foram localizados pertencem a [NOME], que confirmou a propriedade, afirmando, ainda, que sabia da origem estrangeira dos bens (fls. 68 e 96).
+Quanto ao tema, entendia a Terceira Seção desta Corte superior que a definição da competência para processar e julgar o delito de contrabando passa pela análise dos indícios da transnacionalidade, de forma atrair, ou não, a competência da Justiça Federal, na forma da jurisprudência desta Corte (STJ, CC 122388/PR, Rel. Min. Sebastião Reis Júnior, Decisão monocrática, DJe de 22/6/2012). O simples fato de o bem apreendido ser de origem estrangeira não justificaria, por si só, a fixação da competência na Justiça Federal, sendo necessário, para tanto, ao menos indícios da transnacionalidade do delito.
+Contudo, no julgamento do Conflito de Competência n. 160.748, em 26/9/2018, de relatoria do Ministro Sebastião Reis Júnior, a Terceira Seção alterou o entendimento, de modo a ser desnecessária a prova da transcionalidade do delito, tal como ocorre no crime de descaminho. Confira-se a ementa do julgado, ainda pendente de publicação:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. CONTRABANDO DE CIGARROS. DISSENSO ACERCA DA NECESSIDADE DE INDÍCIOS DE TRANSNACIONALIDADE NA CONDUTA DO AGENTE, PARA FINS DE FIXAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. DESNECESSIDADE. SÚMULA 151/STJ. ORIENTAÇÃO QUE DEVE PREVALECER, A PAR DE PRECEDENTES RECENTES EM SENTIDO DIVERSO. CRIME QUE TUTELA INTERESSE DA UNIÃO.
+1. A jurisprudência desta Corte orientava para a competência da Justiça Federal para o julgamento dos crimes de contrabando e descaminho (Súmula 151/STJ), até que julgado (CC n. 149.750/MS, de 26/4/2017), fundado em conflito que debateu crime diverso (violação de direito autoral), modificou a orientação sedimentada, para limitar a competência federal, no caso de contrabando, às hipóteses em que for constatada a existência de indícios de transnacionalidade na conduta do agente.
+2. Consolidada a nova compreensão, sobreveio o julgamento do CC n. 159.680/MG (realizado em 8/8/2018), no qual a Terceira Seção entendeu pela competência federal para o julgamento do crime de descaminho, ainda que inexistente indícios de transnacionalidade na conduta.
+3. Tal orientação, no sentido da desnecessidade de indícios de transnacionalidade, deve prevalecer não só para o crime de descaminho, como também para o delito de contrabando, pois resguarda a segurança jurídica, na medida em que restabelece a jurisprudência tradicional; além do que o crime de contrabando, tal como o delito de descaminho, tutela prioritariamente interesse da União, que é quem compete privativamente (arts. 21, XXII e 22, VII, ambos da CF) definir os produtos de ingresso proibido no país, além de exercer a fiscalização aduaneira e de fronteira.
+4. Conflito conhecido para declarar a competência do Juízo Federal. (CC 160748) - Definição da seção quanto a competência para os casos de crimes de contrabando e descaminho - sempre da JF independentemente de se detectar transnacionalidade.
+Assim, evidenciada a origem estrangeira dos objetos apreendidos, de acordo com a confirmação do acusado, deve ser reconhecida a competência da Justiça Federal para processamento do feito.
+Ante o exposto, voto por conhecer conflito negativo de competência para declarar competente o JUÍZO FEDERAL DA 3A VARA DE SÃO BERNARDO DO CAMPO -SP, ora suscitante.
+Publique-se.
+Intimem-se.
