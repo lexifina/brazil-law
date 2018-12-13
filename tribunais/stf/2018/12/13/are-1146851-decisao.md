@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão não unânime do Tribunal Regional Federal da 3ª Região, que deu parcial provimento ao recurso, ementado nos seguintes termos:
+    “CONSTITUCIONAL. TRIBUTÁRIO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DESCABIMENTO. COMPENSAÇÃO. POSSIBILIDADE.
+    I. O Supremo Tribunal Federal, no julgamento do RE nº 240.785-MG, sinaliza no sentido da impossibilidade de cômputo do valor do ICMS na base de cálculo da COFINS, afastando o entendimento sumulado sob o nº 94 do STJ que prescrevia que ‘A parcela relativa ao ICMS inclui-se na base de cálculo do FINSCOCIAL.’
+    II. A compensação deve se dar de acordo com a Lei nº 8383/91.
+    III. Nada obsta a aplicação da SELIC a título de correção monetária.
+    IV. Apelação parcialmente provida.” (Fl. 7442)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 195, I, do texto constitucional. (Fl. 7.458)
+    Nas razões recursais, alega-se ser devida a inclusão do ICMS na base de cálculo do PIS e da COFINS.
+    No caso, o apelo extremo não foi admitido por não ter exaurido todas as instâncias ordinárias.
+    Decido.
+    O recurso não merece prosperar.
+    Conforme expressa dicção do artigo 102, III, da Constituição Federal, a competência do Supremo Tribunal Federal para julgar o recurso extraordinário restringe-se às causas decididas em única ou última instância.
+    No presente caso, a parte agravante não esgotou as vias ordinárias cabíveis, pois interpôs o recurso extraordinário contra acórdão não unânime que reformou, em grau de apelação, a sentença de mérito, quando ainda eram cabíveis embargos infringentes, conforme prevê o art. 530 do Código de Processo Civil. Dessa forma, o presente recurso deve ser obstado, tendo em vista a incidência da Súmula 281 desta Corte.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. RECURSO DE REVISTA. RESCISÃO DE CONTRATO DE TRABALHO. VERBAS RESCISÓRIAS. AVISO PRÉVIO PROPORCIONAL. DISPENSA ANTERIOR À LEI Nº 12.506/2011. NÃO EXAURIMENTO DAS VIAS ORDINÁRIAS. SÚMULA Nº 281/STF. INCIDÊNCIA. 1. A decisão que desafia o recurso extraordinário deve provir de única ou última instância, por isso que o não esgotamento das mesmas conduz à inadmissão do apelo extremo. Precedente: ARE 731.916-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe 11/11/2013. 2. A Súmula nº 281 do STF dispõe, verbis: ‘É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada’. 3. In casu, o relator, monocraticamente, manteve despacho que negou seguimento a recurso de revista em que se discute o direito à percepção do aviso prévio proporcional, nos termos da Lei 12.506/2011, a empregado dispensado antes do início da vigência da referida lei. 4. Agravo regimental DESPROVIDO”. (ARE-AgR 841.563, Rel. Min. LUIZ FUX, Primeira Turma,  DJe-   16.12.2014)
+    “Agravo regimental no recurso extraordinário com agravo. Embargos declaratórios opostos na origem rejeitados monocraticamente pelo relator. Ausência de interposição do recurso cabível. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Dano moral. Caracterização. Legitimidade ad causam. Quantum indenizatório. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais indicados como violados, carecem do necessário prequestionamento. Incidência das Súmulas nºs 282 e 356/STF. 3. A análise das questões relativas à legitimidade ad causam, à existência de dano moral indenizável e ao quantum indenizatório encontra óbice nas Súmulas 636 e 279/STF. 4. Agravo regimental não provido”. (ARE-AgR 866.925, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 9.6.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
