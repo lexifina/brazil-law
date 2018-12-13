@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 244, e-STJ):
+AGRAVO DE INSTRUMENTO - DEFERIMENTO DA RECUPERAÇÃO JUDICIAL - CONTINUIDADE DA EXECUÇÃO FISCAL DE MULTA ADMINISTRATIVA IMPOSTA POR AGÊNCIA REGULADORA - ATOS DE CONSTRIÇÃO PATRIMONIAL - COMPETÊNCIA DO JUÍZO UNIVERSAL
+I - O § 7º do art. 6º da Lei nº 11.101/2005 não faz distinção entre crédito tributário e não tributário, sendo bastante claro ao afirmar que o deferimento da recuperação judicial não suspende o trâmite das execuções fiscais, exceto na hipótese de parcelamento concedido nos termos do Código Tributário Nacional e da legislação específica.
+II - No entanto, atentando-se para o objetivo da recuperação judicial e seus princípios norteadores, em especial o da preservação da empresa e sua função social, a teor do art. 47 da Lei ne 11.101/20051, as decisões relativas às constrições e alienações de bens da executada devem ser concentradas no Juízo Universal em razão da competência deste para analisar os atos que impliquem em redução do patrimônio da empresa recuperanda.
+III - Recurso não provido.
+Aponta a parte recorrente, em Recurso Especial, violação do art. 6º, § 7º, da Lei 11.101/2005. Aduz:
+Como já reconhecido na r. decisão recorrida, a Fazenda titular dos créditos relativas às dívidas não-tributárias não é credora na ação de recuperação judicial e não se sujeita a qualquer outro juízo que o da execução fiscal, nos termos do artigo 5º da Lei n. 6.830/80:
+(..)
+Logo, uma vez que o crédito exequendo não está sujeito à recuperação judicial, por ter natureza pública e não privada, bem como não há prova da regularidade fiscal do Recuperando, a execução fiscal deve prosseguir, com a realização dos atos de constrição necessários para satisfação do crédito do credor.
+Contrarrazões às fls. 275-300, e-STJ.
+Requer a parte recorrida (fls. 553-728, e-STJ), "a distribuição deste recurso especial, por prevenção, ao eminente Ministro Marco Buzzi, nos termos do art. 71, caput, do RISTJ, uma vez que já foram distribuídos e julgados sob sua relatoria os Conflitos de Competência nos 149.545/RJ, 149.81 l/RJ, 150.936/RJ, 151.61 l/RJ, 152.221/RJ, 152.349/RJ, 152.742/RJ, 152.865/RJ, 153.982/RJ e 154.977/RJ, suscitados pelas partes, atinentes à competência para deliberar acerca da sujeição do crédito à recuperação judicial e da prática de atos constritivos do patrimônio da recuperanda/recorrida".
+É o relatório.
+Decido.
+Os presentes autos ingressaram neste Gabinete em 18.9.2018.
+Inicialmente, em análise ao requerimento de fls 553-728, e-STJ, dessume-se que no presente Recurso Especial busca-se delimitar matéria de mérito inerente à possibilidade da prática de atos constritivos, contra a empresa em recuperação judicial, em execução fiscal.
+Em eventual Conflito de Competência, entretanto, não se discute questão meritória, mas tão somente objetiva-se determinar o juízo competente para dar concretude a ato executivo expedido em desfavor de bens vinculados ao processo recuperacional.
+Com efeito, o atual posicionamento do STJ é no sentido de que qualquer irresignação que tenha por objeto questão afetada para julgamento segundo o rito dos recursos repetitivos deve ser devolvida aos Tribunais de origem para que, após publicado o acórdão relativo ao Recurso Representativo da Controvérsia (ainda pendente de julgamento), o Recurso Especial seja apreciado na forma do art. 1.040 do CPC/2015 (antigo art. 543-C, § 7º, I, do CPC/73).
+Verifico que a matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos (REsps 1.694.316/SP; 1.694.261/SP e 1.712.484/SP, que cuidam do Tema 987: "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que enseje às instâncias de origem o juízo de retratação na forma dos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS CONSTRITIVOS. TEMA AFETADO AO RITO DOS RECURSOS REPETITIVOS. ART. 1.037 DO CÓDIGO DE PROCESSO CIVIL DE 2015. DEVOLUÇÃO DOS AUTOS À ORIGEM. DECLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - É possível a modificação do julgado por meio dos Embargos de Declaração, não obstante eles produzam, em regra, tão somente, efeito integrativo. Essa possibilidade de atribuição de efeitos infringentes sobrevém como resultado da presença de um ou mais vícios que ensejam sua oposição e, por conseguinte, provoquem alteração substancial do pronunciamento.
+III - O tema do presente recurso refere-se à possibilidade da prática de atos constritivos, em face da empresa em recuperação judicial, em sede de execução fiscal, o qual foi afetado ao rito especial do art. 1.037 do Código de Processo Civil de 2015, impondo ao tribunal de origem a suspensão de recursos interpostos por idêntica questão de direito até julgamento definitivo da controvérsia.
+IV - In casu, restou configurada a excepcionalidade capaz de ensejar o acolhimento dos embargos de declaração, com efeitos infringentes, para determinar o cancelamento das decisões anteriores proferidas por esta Corte e a devolução dos autos ao tribunal de origem, com a devida baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, o procedimento previsto no art. 1.040, I e II, do Código de Processo Civil.
+V -  Embargos de declaração acolhidos, com excepcionais efeitos.
+(EDcl no AgInt no REsp 1675366/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+No mesmo sentido, recentes decisões monocráticas: AREsp 1.204.430/DF, Relator Ministro Francisco Falcão, DJe 3/5/2018; AREsp 1.202.527/RS, Relator Ministro Francisco Falcão, DJe 30/4/2018; REsp 1760838/RJ, Relatora Ministra Assusete Magalhães, DJe 12/9/2018.
+Pelo exposto, indefiro o requerimento de fls. 553-728, e-STJ, e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.039 e 1.040 do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
