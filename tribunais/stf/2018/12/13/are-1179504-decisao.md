@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXIV e XXXVI, e 100, § 1º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão objeto da insurgência manifestada no apelo extremo:
+    "DESAPROPRIAÇÃO. PRECATÓRIO. PAGAMENTO. PROCESSO. EXTINÇÃO Acerto - Sentença mantida pelos seus próprios e bem deduzidos fundamentos, adotados como razão de decidir, nos termos do artigo 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Recurso não provido".
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA: DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRECATÓRIO. EXTINÇÃO DA EXECUÇÃO EM FACE DO PAGAMENTO. SÚMULA 279/STF. 1. Dissentir da conclusão do Tribunal de origem no sentido de que houve o total adimplemento da obrigação demandaria o reexame dos fatos e do material probatório constante dos autos. Incidência da Súmula 279/STF. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve condenação em honorários. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1023907 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 01/09/2017, PROCESSO ELETRÔNICO DJe-208 DIVULG 13-09-2017 PUBLIC 14-09-2017)
+    “Agravo regimental em recurso extraordinário. 2. Administrativo. Desapropriação indireta. 3. Adoção do regime de precatórios para os pagamentos das indenizações. Impossibilidade. 4. Matéria restrita à análise de legislação infraconstitucional. 5. Reexame fático-probatório. Verbete 279 da Súmula do STF. Incidência. 6. Agravo regimental a que se nega provimento.” (RE 758120 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 11/02/2014, ACÓRDÃO ELETRÔNICO DJe-040 DIVULG 25-02-2014 PUBLIC 26-02-2014)
+    “Direito Constitucional e Administrativo. 2. Intervenção do Estado em município. Descumprimento voluntário e intencional de decisão judicial transitada em julgado consistente no pagamento de precatórios. 3. Ausência de violação ao artigo 93, IX, da CF/88 e incidência das Súmulas 279 e 637. 4. Agravo regimental a que se nega provimento.” (AI 786676 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 01/02/2011, DJe-041 DIVULG 01-03-2011 PUBLIC 02-03-2011 EMENT VOL-02474-03 PP-00582)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministra Rosa Weber
+Relatora
