@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MATERIAL E MORAL. VIOLAÇÃO AO ART. 489 DO CPC/2015. INEXISTÊNCIA. COMPROVAÇÃO DO FATO CONSTITUTIVO, RESPONSABILIDADE, ATO ILÍCITO, NEXO CAUSAL, CULPA EXCLUSIVA DE TERCEIRO E ILIQUIDEZ DO DANO. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar violação ao art. 489 do CPC/2015.
+2. O acórdão recorrido concluiu pela comprovação do fato constitutivo do direito da parte agravada e pela não demonstração de causa excludente da responsabilidade da agravante, consignando a falha na prestação do serviço e a individualização do dano material, sendo desnecessária a liquidação por arbitramento. Desse modo, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas dos autos, o que é vedado na via especial, ante o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por [NOME] S/A contra decisão deste relator de fls. 311-314, que negou provimento ao seu agravo em recurso especial com base na inexistência de violação ao art. 489 do CPC/2015 e incidência da Súmula 7 do STJ.
+Nas razões recursais (fls. 318-326), a parte ora agravante alega que demonstrou todas as violações à legislação federal cometidas pelo acórdão recorrido. Reitera as teses de mérito do recurso especial relativas à violação dos arts. 373, I, 489 e 509, I, do CPC/2015, 927 do Código Civil e 14, §3º, do CDC. Aduz que "não busca a reinterpretação do direito material, no caso, das cláusulas contratuais do instrumento celebrado entre as partes, ou rediscutir matéria fática, mas sim demonstrar que lhe foi imposta uma obrigação contrária às normas jurídicas". Pede o provimento do agravo interno.
+Impugnação ao agravo interno não apresentada, conforme certificado à fl. 329.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MATERIAL E MORAL. VIOLAÇÃO AO ART. 489 DO CPC/2015. INEXISTÊNCIA. COMPROVAÇÃO DO FATO CONSTITUTIVO, RESPONSABILIDADE, ATO ILÍCITO, NEXO CAUSAL, CULPA EXCLUSIVA DE TERCEIRO E ILIQUIDEZ DO DANO. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar violação ao art. 489 do CPC/2015.
+2. O acórdão recorrido concluiu pela comprovação do fato constitutivo do direito da parte agravada e pela não demonstração de causa excludente da responsabilidade da agravante, consignando a falha na prestação do serviço e a individualização do dano material, sendo desnecessária a liquidação por arbitramento. Desse modo, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas dos autos, o que é vedado na via especial, ante o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Quanto à violação ao art. 489 do CPC/2015, a parte agravante alega nas razões do recurso especial e do presente agravo interno nulidade do acórdão recorrido por falta de fundamentação, arguindo que a Corte local não fez a devida valoração da prova e ignorou todas as fragilidades da prova técnica.
+Consoante consta da decisão agravada, na espécie, verifica-se que, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, a Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente quanto à prova técnica, o que está longe de significar ausência ou deficiência de fundamentação.
+Com efeito, a Corte local apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes, concluindo pela comprovação do fato constitutivo do direito da parte autora ao apresentar a certidão de ocorrência do Corpo de Bombeiros, laudo pericial e sentença proferida em ação cautelar de produção antecipada de provas, consignando que o laudo do perito do juízo resulta de trabalho realizado com técnica e rigor científico. Os argumentos da parte agravante de ausência de fundamentação por fragilidade da prova técnica revela mero inconformismo da parte com o resultado colhido no julgamento.
+Portanto, não há falar, no caso, em falta de fundamentação, de forma que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado, inexistindo violação ao art. 489 do CPC/2015.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRIA. 1. DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. PASSIVO EXCEDENTE APURADO. INEXISTÊNCIA DE ELEMENTOS CAPAZES DE DESCONSIDERAR O LAUDO PERICIAL. DANO MORAL CONFIGURADO.
+REVISÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em ofensa ao art. 489 do CPC/2015.
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp 1227800/PA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/08/2018, DJe 04/09/2018)
+____________
+3. No que tange à violação aos arts. 14, §3º, II, do CDC, 927 do Código Civil, 373, I, e 509, I, do CPC/2015, a parte agravante sustenta nas razões do recurso especial e do agravo interno que a parte agravada não demonstrou o fato constitutivo do direito requerido, que os elementos dos autos não comprovaram que o incêndio ocorrido no automóvel decorreu da instalação do equipamento, bem como a inexistência do ato ilícito e nexo de causalidade. Argumenta, ainda, que os danos foram causados por instalações elétricas irregulares feitas no automóvel por meliante que tempos antes roubaram o bem, o que enseja a excludente de responsabilidade por culpa exclusiva de terceiros. Assevera, também, a necessidade de liquidação de sentença por arbitramento mediante avaliação do bem, pois os documentos dos autos não serviriam de subsídio para definição do quantum indenizatório, sendo ilíquido o dano suportado pelo agravado.
+Por outro lado, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu que a parte autora ora agravada fez prova do fato constitutivo de seu direito, bem como a parte ré ora agravante não demonstrou a existência de causa excludente de responsabilidade. Consignou a falha na prestação do serviço a ensejar a procedência dos pedidos da inicial e a individualização do dano material, sendo desnecessária a liquidação por arbitramento. Segue trecho da fundamentação do acórdão recorrido (fls. 226-228):
+" ..
+A parte autora fez prova do fato constitutivo de seu direito ao apresentar a certidão de ocorrência do Corpo de Bombeiros, laudo pericial e sentença proferida em ação cautelar de produção antecipada de provas (index. 15/37), desincumbindo-se do ônus imposto pelo art. 333, I do CPC/1973 (art. 373, I do CPC/2015).
+Assim, competia à parte ré demonstrar de forma cabal a existência de causa excludente da responsabilidade objetiva prevista no CDC, o que não ocorreu.
+Compulsando-se os autos verifica-se a presença de laudo pericial elaborado em ação cautelar de produção antecipada de prova, no qual o perito conclui ser o bloqueador antifurto a causa do incêndio, conforme trechos a seguir (index. 19/25):
+ ..
+As conclusões do laudo do perito do Juízo devem ser acatadas porque resultam de trabalho realizado com técnica e rigor científicos.
+O incidente ocorreu em setembro de 2007 e a perícia data de maio de 2010, o que fez a parte ré impugnar sua força probante. Cumpre destacar que o perito é auxiliar do juízo, sendo certo que suas conclusões estão sempre equidistantes dos interesses de cada litigante, razão pela qual devem ser prestigiadas à falta de elementos seguros em contrário.
+O Corpo de Bombeiros não é órgão apto a analisar se o veículo foi objeto de sinistro a causar ou não perda total, motivo pelo qual a referência a dano parcial na Certidão de Ocorrência não vincula a conclusão de que os danos foram apenas parciais, especialmente por ter o episódio envolvido motor do automóvel, conforme observa-se nas fotografias acostadas (index. 17/18).
+Verifica-se que a parte ré não logrou em demonstrar a regularidade da prestação do serviço, não provou excludente de responsabilidade do art. 14, §3º do CDC, tampouco se desincumbiu de provar fato impeditivo, modificativo ou extintivo do direito alegado pela parte autora, nos termos do art. 333, II do CPC/1973 (art. 373, II do CPC/2015).
+Portanto, o magistrado de 1º grau corretamente reconheceu a falha na prestação do serviço, a ensejar a procedência de pedidos da inicial.
+ ..
+Não há que se falar em liquidação por arbitramento dos danos materiais, posto que corretamente individualizados e ausente a necessidade de apuração do valor devido através de prova de realização demorada ou excessivamente dispendiosa.
+A corroborar com tal conclusão, segue trecho da petição inicial no qual o autor individualiza o referido pedido:
+ .. "
+Desse modo, constata-se que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
