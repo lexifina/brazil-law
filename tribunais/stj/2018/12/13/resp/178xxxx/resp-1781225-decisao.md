@@ -1,0 +1,52 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. READEQUAÇÃO DO BENEFÍCIO AOS TETOS CONSTITUCIONAIS. HOMOLOGAÇÃO DO PEDIDO DE DESISTÊNCIA DO RECURSO QUANTO AO DIREITO DE READEQUAÇÃO. ARTIGO 998 DO CPC/2015 E ARTIGO 34, IX, DO RISTJ. INTERRUPÇÃO DA PRESCRIÇÃO. ACÓRDÃO QUE DECLAROU PRESCRITAS AS PARCELAS DEVIDAS ANTES DO QUINQUÊNIO DO AJUIZAMENTO DA AÇÃO INDIVIDUAL. AUSÊNCIA DE INTERESSE RECURSAL DA AUTARQUIA PREVIDENCIÁRIA. DECADÊNCIA. NÃO OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão proferido pelo TRF-4ª Região, assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. NÃO- OCORRÊNCIA. PRESCRIÇÃO. AÇÃO CIVIL PÚBLICA. RENDA MENSAL INICIAL. RECUPERAÇÃO DOS EXCESSOS DESPREZADOS NA ELEVAÇÃO DO TETO DAS ECS 20 E 41. BENEFÍCIOS CONCEDIDOS ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. HONORÁRIOS. CONSECTÁRIOS LEGAIS.
+1. A decadência prevista no art. 103 da Lei 8.213/91, atinge tão somente a pretensão à revisão do ato de concessão do benefício propriamente dito. A revisão dos critérios de reajuste da renda mensal, em face das alterações promovidas pelas Emendas Constitucionais 20/1998 e 41/2003 não configura revisão do ato de concessão, não atraindo a incidência do art. 103 da Lei de Benefícios.
+2. A citação do INSS na Ação Civil Pública nº 0004911- 28.2011.4.03.6183, ajuizada perante a Justiça Federal de São Paulo, constitui causa interruptiva do prazo prescricional para a propositura da ação individual, conforme entendimento reiterado do Superior Tribunal de Justiça (REsp 1.428.194).
+3. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual (AgInt no REsp 1.642.625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12-6-2017).
+4. O Pleno do STF, por ocasião do julgamento do RE nº 564.354, no dia 08 de setembro de 2010, reafirmou o entendimento manifestado no Ag. Reg. no RE nº 499.091-1/SC, decidindo que a incidência do novo teto fixado pela EC nº 20/98 não representa aplicação retroativa do disposto no artigo 14 daquela Emenda Constitucional, nem aumento ou reajuste, apenas readequação dos valores percebidos ao novo teto. Idêntico raciocínio deve prevalecer no que diz respeito à elevação promovida no teto pela EC nº 41/2003.
+5. O Supremo Tribunal Federal pacificou o entendimento de que também se aplica aos benefícios concedidos anteriormente à Constituição Federal de 1988 os efeitos do julgamento do RE 564.354, relativo aos tetos das ECs 20/98 e 41/2003.
+Precedentes.
+6. Honorários advocatícios fixados, nesta sede, em 10% sobre o valor das parcelas vencidas até a prolação desta decisão, nos termos da Súmula 76 do TRF4, considerando as variáveis dos incisos I a IV do § 2º do artigo 85 do CPC.
+7. O INSS é isento do pagamento de custas processuais quando demandado no Foro Federal (art. 4º, I, da Lei nº 9.289/96). Contudo, essa isenção não se aplica quando se tratar de demanda ajuizada perante a Justiça Estadual do Paraná (Súmula 20 do TRF4).
+8. Consectários legais fixados nos termos do decidido pelo STF (Tema 810) e pelo STJ (Tema 905).
+Em suas razões de recurso especial, sustenta o INSS que houve decadência para a revisão do benefício previdenciário, conforme artigo 103, caput, da Lei 8.213/1991. Ademais, aduz que o Tribunal a quo, ao determinar a readequação aos tetos das Emendas Constitucionais 20/1998 e 41/2003, não obstante o benefício do segurado ter sido calculado com base nas normas vigentes antes da Constituição Federal de 1988, negou vigência ao artigo 28 do Decreto 77.077/1976 e ao artigo 5º da Lei 5.890/1973. Acrescenta que os benefícios concedidos anteriormente à Constituição Federal de 1988 obedecem a critérios de concessão distintos, pois seu cálculo levava em consideração critérios denominados maior e menor valor teto. Sustenta, ainda, que o prazo prescricional deve ser contado do ajuizamento da ação individual, nos termos dos artigos 104 da Lei 8.078/1990, 103 da Lei 8.213/1991 e 240 do CPC/1973.
+Em contrarrazões ao recurso especial, sustenta-se a manutenção do acórdão recorrido.
+Noticiam os autos que [NOME] ajuizou ação em face do INSS, objetivando readequar seu benefício previdenciário aos tetos fixados pelas Emendas Constitucionais 20/1998 e 41/2003.
+A sentença julgou improcedente o pedido.
+A parte autora, ora recorrida, apelou, tendo o Tribunal a quo dado provimento ao recurso, nos termos da ementa supratranscrita.
+O INSS opôs embargos de declaração, os quais foram rejeitados.
+Interposto recurso especial, este foi admitido pelo Presidente do Tribunal a quo.
+A Autarquia previdenciária protocolou petição requerendo a desistência do recurso interposto no que se refere ao direito de o segurado adequar seu benefício previdenciário aos tetos fixados pelas Emendas Constitucionais 20/1998 e 41/2003, mantendo a pretensão recursal quanto ao início da prescrição quinquenal, referente ao pagamento de parcelas pretéritas.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No tocante ao pedido de desistência parcial protocolado pelo INSS, este deve ser acolhido, com fulcro no artigo 998 do CPC e no artigo 34, IX, do RISTJ.
+Remanesce, outrossim, a controvérsia recursal quanto ao marco interruptivo do prazo prescricional e quanto à decadência do direito à readequação.
+A primeira questão recursal, relativa à definição do marco interruptivo do prazo prescricional para adequação do benefício previdenciário aos tetos constitucionais, não comporta conhecimento, porquanto inexiste interesse recursal.
+Ao contrário do alegado pelo INSS, o Tribunal de origem adotou o entendimento de que estão prescritas as parcelas devidas antes do quinquênio do ajuizamento da ação individual, como se lê do seguinte excerto (e-STJ fl. 267/268) in verbis:
+A citação do INSS na Ação Civil Pública nº 0004911- 28.2011.4.03.6183, ajuizada perante a Justiça Federal de São Paulo, cujo pedido coincide com o formulado individualmente nesta ação, constitui causa interruptiva do prazo prescricional para a propositura da ação individual, conforme entendimento reiterado do Superior Tribunal de Justiça (REsp 1.428.194).
+Não obstante, anoto que, em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual (AgInt no REsp 1.642.625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12-6-2017). Também nesse sentido os seguintes precedentes:
+(..)
+Desta forma, importa declarar prescritas eventuais parcelas devidas antes do quinquênio do ajuizamento da presente ação.
+Destarte, não se evidencia interesse recursal da Autarquia previdenciária no ponto.
+Por sua vez, no tocante à decadência do direito à adequação, o acórdão combatido mostra-se em sintonia com a jurisprudência firme do STJ, que afasta a decadência prevista no caput do artigo 103 da Lei 8.213/1991.
+Confira-se:
+PREVIDENCIÁRIO. REVISÃO DE RENDA MENSAL INICIAL. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. TETO. AÇÃO INDIVIDUAL. ATRASADOS. PRESCRIÇÃO QUINQUENAL. SÚMULA N. 85/STJ. DECADÊNCIA AFASTADA. SUMULA N. 83/STJ.
+I - A tese em debate não está adstrita ao ato da concessão do benefício. Não se trata, destarte, de pedido de revisão do ato de concessão de benefício previdenciário, mas apenas de adequação da renda mensal aos novos tetos previdenciários fixados pelas Emendas Constitucionais n. 20/98 e 41/03. Assim, a matéria é diversa da tratada nos Resps n. 1.631.021, 1.612.818, 1.648.336 e 1.644.192, que aguardam julgamento sob o rito de julgamento de matéria repetitiva.
+II - A teor do entendimento consignado pelo STF e STJ, em se tratando de direito oriundo de legislação superveniente ao ato de concessão de aposentadoria, não há falar em decadência.
+III - No caso, a aplicação dos novos tetos surgiu somente com as EC"s 20/98 e 41/03, motivo pelo qual se revela de rigor o afastamento da decadência. (REsp 1.645.978/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/8/2017, DJe 12/9/2017).
+IV - Agravo interno improvido.
+(AgInt no REsp 1.638.038/CE, Segunda Turma, Relator Ministro Francisco Falcão, DJe 26/10/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE APOSENTADORIA. ADEQUAÇÃO DO BENEFÍCIO PREVIDENCIÁRIO ÀS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. AFASTADA A DECADÊNCIA DO DIREITO À REVISÃO NOS MOLDES DO CAPUT DO ART. 103 DA LEI 8.213/1991. AGRAVO INTERNO DO INSS A QUE SE NEGA PROVIMENTO.
+1. É firme a orientação desta Corte de que o prazo decadencial, previsto no art. 103, caput da Lei 8.213/1991, aplica-se, somente, ao ato de revisão de concessão ou indeferimento de benefício previdenciário.
+2. Na hipótese dos autos, o autor não busca a revisão do ato administrativo, e, sim, a adequação da renda mensal inicial aos novos tetos estabelecidos, posteriormente ao ato concessório, pelas Emendas 20/1998 e 41/2003.
+3. Em situações assim, o STJ assentou o entendimento de que tratando-se de causa superveniente à concessão do benefício, onde não se busca corrigir o ato de concessão, somente a adequação dos efeitos da legislação superveniente, não há incidência do prazo decadencial. Precedentes: REsp. 1.420.036/RS, Rel. Min. SÉRGIO KUKINA, DJe 14.5.2015 e REsp. 1.506.092/SC, Rel. Min. HERMAN BENJAMIN, DJe 20.3.2015.
+4. Não é demais destacar que o INSS, em sua Instrução Normativa 45/2010, corrobora tal diretriz, ao estabelecer em seu art. 436, que não se aplicam às revisões de reajustamento e às estabelecidas em dispositivo legal, os prazos de decadência de que tratam os arts. 103 e 103-A da Lei 8.213/1991.
+5. Agravo Interno do INSS a que se nega provimento.
+(AgInt nos EDcl no AREsp 171.864/PR, Primeira Turma, Relator Ministro Napoleão Nunes Maia Filho, DJe 20/10/2016)
+Ante o exposto, com fulcro no artigo 998 do CPC/2015 e artigo 34, IX, do RISTJ homologo a desistência quanto à adequação aos tetos constitucionais. E, com fulcro no artigo 932, IV, do CPC/2015 c/c artigo 255, § 4º, II, do RISTJ, conheço parcialmente do recurso especial e nego-lhe provimento, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
