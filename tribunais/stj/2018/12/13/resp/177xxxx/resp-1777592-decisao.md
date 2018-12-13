@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte (fl. 156, e-STJ):
+ADMINISTRATIVO E AMBIENTAL. APELAÇÃO. AÇÃO ORDINÁRIA. IBAMA. INFRAÇÃO AMBIENTAL. APLICAÇÃO DE MULTA. ANULAÇÃO. ÔNUS DO AUTUADO. PESCAR COM A UTILIZAÇÃO DE PETRECHOS PROIBIDOS. DANO AMBIENTAL CONCRETO. DESNECESSIDADE. CONTROLE SOBRE LEGALIDADE E ADEQUAÇÃO DA SANÇÃO APLICADA. CONVERSÃO EM PRESTAÇÃO DE SERVIÇOS. DECISÃO ADMINISTRATIVA DISCRICIONÁRIA. INTERESSE PÚBLICO. DESPROVIMENTO
+1. As autuações lavradas pelo IBAMA por cometimento de infrações ambientais, atos administrativos que são, gozam do atributo de presunção de legalidade e legitimidade, cabendo ao administrado desconstitui-los, mediante prova em contrário, o que não se verificou na hipótese.
+2. A infração ambiental consistente em pescar mediante a utilização de petrechos proibidos, prevista no art. 19, parágrafo único, II, do Decreto 3.179/99, não exige, para sua configuração, dano concreto ao meio ambiente, na forma da disciplina dada pela Lei 9.605/98 ao definir legalmente a conduta de pescar, sendo o efetivo proveito da pesca mero exaurimento da infração.
+3. Cabível a conversão da penalidade de multa em prestação de serviços de preservação, melhoria e recuperação da qualidade do meio ambiente, na forma do art. 72, §4º, da Lei 9.605/98, compete a autoridade administrativa a apreciação sobre seu deferimento ou não, no exercício da discricionariedade técnica que lhe é privativa.
+4. "Cabe ao administrador público, em virtude do seu poder discricionário, aferir a gravidade das condutas e a culpabilidade do agente, bem como a razoabilidade da sanção imposta, sendo, portanto, inviável que o Poder Judiciário venha a reduzir ou substituir a penalidade aplicada." (STJ; AgRg no Ag nº 1.261.699/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 26/11/2010)
+5. Apelação conhecida e desprovida.
+Os Embargos de Declaração foram rejeitados (fl. 177, e-STJ).
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 2º, 6º, 14 e 75 da Lei 9.605/1998. Defende, em síntese, a conversão da pena de multa em prestação de serviços, tendo em vista a condição econômica do recorrente.
+Contrarrazões apresentadas às fls. 187-189, e-STJ.
+O Ministério Público Federal opinou pelo provimento do Recurso Especial, in verbis (fl. 222, e-STJ):
+RECURSO ESPECIAL. IBAMA. INFRAÇÃO AMBIENTAL. APLICAÇÃO DE MULTA. CONVERSÃO EM PRESTAÇÃO DE SERVIÇOS AMBIENTAIS. POSSIBILIDADE. PRECEDENTES. PENA PECUNIÁRIA QUE, CONQUANTO APLICADA EM GRAU MÍNIMO (R$ 700,00), OFENDE EM GRAU MÁXIMO A SUBSISTÊNCIA DO RECORRENTE E DE SUA FAMÍLIA, QUE RECEBEM O VALOR MENSAL DE R$ 319,00 PARA O SUSTENTO DE TODOS. PROIBIÇÃO DE QUE A PENA ULTRAPASSE A PESSOA DO CONDENADO (ARTIGO 5o, INCISO XLV, DA CONSTITUIÇÃO FEDERAL), O QUE OCORRERÁ ACASO MANTIDO O ACÓRDÃO RECORRIDO. PARECER NO SENTIDO DO PROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 09.11.2018.
+O Tribunal a quo, ao dirimir a controvérsia, assim consignou (fl. 153, grifei):
+Sobre a adequação e gradação da penalidade, não há evidências de que a ponderação da autoridade tenha sido feita de modo errônea. Aliás, há que se ressaltar a multa fora fixada no seu valor mínimo, considerados os critérios dispostos na própria lei. Não identifico razões outras a tê-la por desproporcional.
+Referente a possibilidade de conversão da multa em prestação de serviços, a decisão tem natureza discricionária, cabendo ao IBAMA, no presente caso, exercer certo grau de discricionariedade técnica, que lhe é privativo, de maneira a inibir condutas infracionais e a estimular a preservação ambiental, não podendo o Judiciário imiscuir nessa matéria de ordem administrativa e técnica - inerente ao poder de polícia ambiental-eis que lhe é vedado exercer o controle do mérito administrativo.
+Nesse sentido: "Cabe ao administrador público, em virtude do seu poder discricionário, aferir a gravidade das condutas e a culpabilidade do agente, bem como a razoabilidade da sanção imposta, sendo, portanto, inviável que o Poder Judiciário venha a reduzir ou substituir a penalidade aplicada." (STJ; AgRg no Ag nº 1.261.699/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 26/11/2010)
+Assim, a conversão da multa em prestação de serviço não figura direito subjetivo do autuado, tendo que ser deferido mediante a demonstração do interesse e oportunidade da Administração e no benefício ambiental direto gerado pela prestação do serviço de preservação, melhoria e recuperação da qualidade ambiental.
+Por sua vez, o recorrente afirma que ".. é de origem humilde e de pouca instrução e à época da autuação em tela possuía uma renda no valor de R$ 319,00, como já conta anexo aos autos, sendo que este valor era utilizado para o sustento de seus 6 (seis) irmãos e de seus pais, motivo mais que evidente para demonstrar desproporcional a aplicação da multa em R$ 700,00 (setecentos reais)" (fl. 182, e-STJ).
+Todavia, não consta do acórdão recorrido análise detalhada da situação financeira do recorrente. Assim, evidente que, para modificar o entendimento firmado no acórdão recorrido, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. INFRAÇÃO AMBIENTAL. REDUÇÃO DA MULTA APLICADA EM RAZÃO DE EMPRESA DE PEQUENO PORTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+I - In casu, rever a conclusão do Tribunal de origem quanto à redução da multa aplicada pela fiscalização ambiental em razão do pequeno porte da empresa autuada, demandaria necessário revolvimento de matéria fática e probatória, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - O Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+III - Agravo regimental improvido.
+(AgRg no AREsp 494.475/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 27/3/2015).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL E AMBIENTAL. MULTA ADMINISTRATIVA. INFRAÇÃO AMBIENTAL. REDUÇÃO DA MULTA. PRINCÍPIO DA RAZOABILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+O Tribunal de origem, soberano na análise dos elementos probatórios dos autos e, em sede de embargos declaratórios, reduziu a multa administrativa imposta pelo recorrente, com base nos princípios da proporcionalidade e da razoabilidade. Assim, não há como aferir eventual violação de norma federal sem reexaminar os parâmetros fáticos dos autos a fim de perquirir se o limite máximo de aplicação da penalidade, no valor de R$ 100.000,00, foi desarrazoado e desproporcional. Incidência da Súmula 7/STJ. Precedentes. Agravo regimental improvido.
+(AgRg no AREsp 612.412/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 12/2/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INFRAÇÃO AMBIENTAL. MULTA ADMINISTRATIVA. REDUÇÃO. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É inviável em sede de recurso especial, por demandar reexame do acervo probatório, rever as circunstâncias fáticas que levaram o Tribunal de origem a reduzir o valor da penalidade administrativa, porquanto desproporcional. Incidência do óbice da súmula 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.315.399/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 12/9/2014).
+Por tudo isso, com fulcro no art. 932, III, do CPC/2015, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
