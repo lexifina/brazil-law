@@ -1,0 +1,107 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a ausência de impugnação em relação a incidência da Súmula nº 284 do STF, que levou ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, em não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+[NOME] (ARILDA) promoveu ação de rompimento contratual cumulada com reintegração de posse e com pedido indenizatório por danos materiais e morais contra CAMILO ROMÃO DE SOUZA JÚNIOR (CAMILO) e [NOME] (MARLEI), narrando que firmou contrato de promessa de compra e venda com a Construtora e Incorporadora Santa Cruz para aquisição de um imóvel localizado em Cuiabá/MT.
+Explicou que, para fins de pagamento do imóvel, ofertou-o em garantia.
+Destacou que, em novembro de 1993, por meio de contrato de gaveta, vendeu os seus direitos a CAMILO, sob a condição de que ele continuasse a pagar as parcelas remanescentes.
+Aduziu que, em novembro de 2004, seu nome foi incluído nos órgãos de proteção ao crédito e foi processado pela Caixa Econômica Federal.
+Afirmou que descobriu, então, que CAMILO havia vendido o apartamento para MARLEI, que se tornou inadimplente.
+MARLEI, ao contestar, apresentou reconvenção, sustentando a ocorrência de usucapião urbano.
+Em primeira instância, os pedidos principais foram julgados parcialmente procedentes para (1) decretar o rompimento contratual e determinar a reintegração de posse em favor de ARILDA; e, (2) condenar ARILDA a indenizar MARLEI pelas benfeitorias realizadas no imóvel no valor de R$ 3.567,93 (três mil, quinhentos e sessenta e sete reais e noventa e três centavos), corrigido pelo INPC/IBGE e acrescido de juros de mora de 1% ao mês a contar do desembolso, assegurando-lhe o direito de retenção até o efetivo pagamento.
+Em virtude da sucumbência recíproca, as partes foram condenadas ao pagamento, pro rata, das custas processuais, além de honorários advocatícios de seus respectivos patronos.
+Por seu turno, o pedido reconvencional foi julgado improcedente, tendo MARLEI sido condenada ao pagamento das custas processuais incidentais e dos honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+A apelação interposta por MARLEI não foi provida pelo Tribunal de origem, em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATUAL - C/C REINTEGRAÇÃO DE POSSE C/C DANOS MATERIAIS E MORAIS - PARCIAL PROCEDÊNCIA - RECONVENÇÃO - IMPROCEDÊNCIA - PRESCRIÇÃO - AFASTADA - USUCAPIÃO - IMÓVEL COM GRAVAME HIPOTECÁRIO EM FAVOR DA CAIXA ECONÔMICA FEDERAL - IMPOSSIBILIDADE DE USUCAPIR - SENTENÇA MANTIDA - RECURSO DESPROVIDO
+O contrato de compra e venda de imóvel tem relação jurídica de natureza pessoal, de sorte que o prazo prescricional para a pretensão de sua rescisão é de vinte anos, se aplicada a regra do artigo 177 do Código Civil de 1916, ou dez anos, conforme previsão do art. 205 do Código Civil de 2002.
+O imóvel da Caixa Econômica Federal vinculado ao Sistema Financeiro da Habitação, porque afetado à prestação de serviço público, deve ser tratado como bem público, não sujeito à usucapião (e-STJ, fl. 554).
+Os embargos de declaração opostos por ARILDA e MARLEI foram rejeitados.
+Os segundos embargos de declaração opostos por MARLEI não foram conhecidos.
+Inconformada, MARLEI manejou recurso especial, com amparo no art. 105, III, alínea a, da CF, alegando ofensa aos arts. 177 do CC/16, 1.225 e 1.240 do CC/02 e 487 e 491, § 1º, do NCPC, ao sustentar que (1) toda a matéria foi prequestionada; (2) a ação é de natureza real e, por isso, é regulada pelo prazo prescricional estipulado pelo art. 177 do CC/16; (3) os fatos ocorreram na vigência do Código Civil de 1916; (4) o imóvel era utilizado para habitação familiar; (5) no caso, trata-se de direito real de aquisição sobre coisa alheia; (6) o imóvel, objeto da lide, está quitado desde 27/11/05; (7) na quitação do imóvel, ela exercia a posse mansa, pacífica e ininterrupta do bem por mais de oito anos e, por doze, caso acrescido o prazo em que CAMILO exerceu sua posse; e, (9) sua posse, ao final, foi exercida por 23 anos.
+O apelo nobre interposto por MARLEI não foi admitido em virtude da incidência das Súmulas nºs 284 do STF e 7 do STJ.
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, MARLEI alegou que (1) em momento nenhum, deixou de impugnar os fundamentos necessários; (2) ficou demonstrado que não existe discussão a respeito de fatos e provas, pois o pedido formulado é para que se cumpra a lei; (3) se cuida exclusivamente de questão de direito; e, (4) se trata de ação de direito real, com prescrição decenal, sobretudo por haver debate sobre direito de uso, habitação e promitente comprador, ocorrendo a violação direta dos arts. 177 do CC/16 e 1.225 do CC/02.
+Houve impugnação ao recurso (e-STJ, fls. 800/803).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a ausência de impugnação em relação a incidência da Súmula nº 284 do STF, que levou ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.344.778 - MT (2018/0204465-1)
+
+RELATOR
+:
+MINISTRO MOURA RIBEIRO
+AGRAVANTE
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+FRANCO BONATELLI - [OAB]
+AGRAVADO
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+FABIANO RABANEDA DOS SANTOS - [OAB]
+AGRAVADO
+:
+[NOME]
+ADVOGADO
+:
+[NOME] - [OAB]
+VOTO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu a incidência da Súmula nº 284 do STF.
+Isso porque, nas razões do presente agravo interno, MARLEI limitou-se a alegar que (1) em momento nenhum, deixou de impugnar os fundamentos necessários; (2) ficou demonstrado que não existe discussão a respeito de fatos e provas, pois o pedido formulado é para que se cumpra a lei; (3) se cuida exclusivamente de questão de direito; e, (4) se trata de ação de direito real, com prescrição decenal, sobretudo por haver debate sobre direito de uso, habitação e promitente comprador, ocorrendo a violação direta dos arts. 177 do CC/16 e 1.225 do CC/02.
+Outrossim, MARLEI, nas razões do seu apelo nobre apontou violação do art. 491, § 1º, do NCPC (e-STJ, fl. 682), de forma genérica, uma vez que não indicou a controvérsia correspondente e tampouco as circunstâncias de como teria ocorrido a afronta legal, o que atraiu a aplicação da Súmula nº 284 do STF, cujo fundamento não foi rebatido.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, em acórdão ainda pendente de publicação, ao apreciar o EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado pelo MINISTRO LUÍS FELIPE SALOMÃO, em seu voto, tanto no Código de Processo Civil de 1973 quanto no atual existem regras que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida, bem como citou conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, haja vista que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também foi consignado pelo e. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp 866.675/SP, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, j. 17/5/2016, DJe 25/5/2016 - sem destaques no original)
+PROCESSO CIVIL (CPC/73). AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça, "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Entendimento positivado pelo legislador com o advento do Código de Processo Civil de 2015, através do artigo 1.021, § 1º.
+3. AGRAVO NÃO CONHECIDO.
+(AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 10/5/2016, DJe 13/5/2016 - sem destaque no original)
+Assim, porque os argumentos que MARLEI trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
+Advirto que eventual recurso interposto contra este acórdão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
