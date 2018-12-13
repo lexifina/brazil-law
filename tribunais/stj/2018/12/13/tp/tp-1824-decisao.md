@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de "pedido de tutela provisória de urgência em manutenção na posse" formulado por [NOME], com o objetivo de se ver mantido na posse do imóvel, objeto de execução extra judicial promovida pela ora requerida, até o trânsito em julgado da lide e do julgamento pelo Supremo Tribunal Federal do RE 860.631/SP, com repercussão geral.
+Aduz ter protocolado pedido de tutela de urgência perante o Tribunal Regional Federal da 2ª Região, com o intuito da manutenção da posse do imóvel mutuado sobre as regras do Sistema Financeiro da Habitação, todavia, o Desembargador relator se omite, por mais de dois meses, a proferir decisão acerca do requerimento.
+Dessa forma, ante a omissão do Desembargador relator no processo que tramita no eg. Tribunal Regional Federal da 2ª Região, o peticionante requer, aqui, no Superior Tribunal de Justiça a tutela provisória de urgência para "concessão da ordem de manutenção na posse ou de suspensão da ordem de imissão na posse", até o trânsito em julgado da lide e do julgamento pelo Supremo Tribunal Federal do RE 860.631/SP com repercussão geral referente à questão do leilão extra-judicial, pela instituição financeira, previsto na lei do Sistema Financeiro Imobiliário (e-STJ, fls. 8-9).
+É o relatório. Passo a decidir.
+Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Especificamente no que se refere à concessão de efeito suspensivo, o Código de Processo Civil, com as alterações estabelecidas pela Lei nº 13.256/2016, estabelece que:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..)
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037."
+Fazendo-se uma interpretação sistemático-teleológica dos dispositivos legais ora transcritos, pode-se aferir que a concessão tutela provisória será requerida ao juízo da causa competente para conhecer do pedido. Também, nos recursos, a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito. Ainda, o pedido de concessão de efeito suspensivo a recurso recurso especial poderá ser formulado por requerimento dirigido ao Tribunal Superior respectivo no interstício entre a publicação da decisão de admissão do recurso e sua distribuição, ou ao relator no caso de recurso já distribuído.
+Desse modo, entende-se que esta Corte não é o órgão competente para analisar o pedido de tutela de urgência em virtude da omissão do Desembargador Relator do Tribunal Regional Federal da 2ª Região em se pronunciar acerca de um pedido também de tutela provisória para manutenção da posse do imóvel, por vários motivos, quais são: i) não se trata de pedido de tutela de urgência para se conferir efeito suspensivo a recurso endereçado a este Superior Tribunal de Justiça; ii) ainda não há decisão recorrível e nem recurso passível de admissibilidade; e iii) resta ausente o exaurimento da instância de origem.
+Outrossim, com o reconhecimento da incompetência desta Corte Superior, neste processo, não há que se aferir a presença de fumus boni iuris e de periculum in mora, requisitos ensejadores de deferimento do pedido de tutela de urgência.
+Não obstante, permanece à parte requerente a possibilidade de manejar os meios processuais acautelatórios, que entender pertinente, perante o Tribunal competente para o exame do petitório.
+Diante do exposto, com fulcro no art. 34, XVIII, alínea "a", do RISTJ, indefiro a petição inicial.
+Publique-se.
