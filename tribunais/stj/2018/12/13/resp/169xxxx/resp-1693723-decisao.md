@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DO ROL DO ART. 1.015 DO NCPC. MATÉRIA JULGADA SOB A SISTEMÁTICA DE RECURSO REPETITIVO. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. RECURSO PROVIDO.
+DECISÃO
+[NOME] e outros ([NOME] e outros) manifestaram agravo de instrumento contra decisão que, em ação de indenização securitária por eles ajuizada contra a SUL AMERICA COMPANHIA NACIONAL DE SEGUROS (SEGURADORA), determinou a remessa do feito à Justiça Federal, em virtude da intervenção no processo pela CAIXA ECONÔMICA FEDERAL (CAIXA).
+O Tribunal de origem, em decisão unipessoal referendada pelo órgão colegiado, não conheceu do agravo nos termos da seguinte ementa:
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA - ROL TAXATIVO DO ARTIGO 1.015 DO CPC - NÃO CONHECIMENTO - MANUTENÇÃO.
+- Apesar da r. decisão possuir natureza interlocutória, não há previsão legal que autorize a interposição de agravo de instrumento, motivo pelo qual o agravo de instrumento não merece ser conhecido (e-STJ, fl. 961).
+Os embargos de declaração interpostos foram rejeitados (e-STJ, fls. 974/979).
+Inconformados, [NOME] e outros manejaram recurso especial com fundamento no art. 105, III, a, da CF, alegando violação do art. 1.015 do NCPC, por considerar que o rol previsto no mencionado dispositivo admite interpretação extensiva, a possibilitar o conhecimento do agravo de instrumento manifestado na origem.
+As contrarrazões foram apresentadas (e-STJ, fls. 999/1.004).
+O recurso foi admitido na origem (e-STJ, fl. 1.006).
+É o relatório.
+DECIDO.
+A irresignação merece ser provida.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+ Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A questão tratada no recurso especial - definir a natureza do rol do art. 1.015 do NCPC e verificar possibilidade de sua interpretação extensiva para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente previstas nos incisos do referido dispositivo do NCPC - foi julgada pela Corte Especial na sessão do dia 5/12/2018 (REsps nºs 1.696.396/MT e 1.704.520/MT), prevalecendo, por maioria, a posição da em. Relatora, a Ministra NANCY ANDRIGHI, para firmar a seguinte tese:
+O rol do artigo 1.015 do CPC/15 é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Assim, estando o acórdão recorrido em dissonância com a jurisprudência aqui dominante, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Nessas condições, DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do feito, como entender de direito.
+Inaplicável ao caso a majoração de honorários.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
