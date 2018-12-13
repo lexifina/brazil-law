@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONTRABANDO EQUIPARADO (ART. 334-A, § 1º, I, DO CP). SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU PEDIDO LIMINAR EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE SENTENÇA. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. PERDA DO OBJETO. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPETRAÇÃO DO HC N. 441.841/RS. REITERAÇÃO DE PEDIDOS.
+Agravo regimental prejudicado.
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática, de minha lavra, em que indeferi liminarmente o wri impetrado, com a seguinte ementa (fl. 259):
+HABEAS CORPUS. CONTRABANDO (ART. 334-A, § 1º, I, DO CÓDIGO PENAL). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU PEDIDO LIMINAR EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DESCUMPRIMENTO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. MOTIVAÇÃO IDÔNEA PARA DECRETO PREVENTIVO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
+No presente recurso, o agravante sustenta que não merece prosperar a decisão ora guerreada. Isso porque o próprio colegiado da SEXTA TURMA deste Tribunal Superior vem afastando à Súmula em questão em casos mais grave, como delito de lavagem de dinheiro, organização criminosa e corrupção ativa em valores superiores a 370 milhões de reais (fl. 273).
+Aduz, ainda, necessidade de prosseguimento do presente HC, com posterior concessão da ordem para que a agravante tenha sua prisão cautelar substituída por qualquer medidas cautelares a prisão, dadas as peculiaridades do caso (fl. 275).
+Postula, então, o conhecimento e provimento do agravo, a fim de que seja provida a tese defensiva (fl. 275).
+Por sua vez, em sua impugnação, o Ministério Público Federal se manifestou contrário às pretensões recursais, dizendo que a jurisprudência remansosa do Superior Tribunal de Justiça e do Supremo Tribunal Federal são no sentido de ser inaplicável o princípio da insignificância ao contrabando de cigarros. Isso porque os bens jurídicos tutelados são a saúde pública, a moralidade administrativa e a ordem pública (fl. 283).
+É o relatório.
+Não obstante as alegações do agravante, não lhe assiste razão, devendo a decisão monocrática ser mantida pelos seus próprios fundamentos.
+Antes de apreciar o mérito da impetração, consultei a página eletrônica do Tribunal na internet e obtive a informação de que foi prolatada sentença na Ação Penal n. 5002984-69.2015.4.04.7121/RS, condenando o paciente pela prática do crime de contrabando equiparado (art. 334-A, § 1º, I, CP), à pena privativa de liberdade de 2 anos de reclusão, em regime inicial aberto, substituída pelas penas restritivas de liberdade de prestação pecuniária e de prestação de serviços à comunidade ou entidades públicas, concedendo-lhe, ainda, o direito ao recurso em liberdade (fls. 288/296).
+Assim, prejudicado o julgamento do presente writ, neste ponto, sobrevindo sentença condenatória na qual lhe foi concedido o direito de recorrer em liberdade (RHC n. 53.224/AL, Ministro Jorge Mussi, Quinta Turma, DJe 31/8/2016).
+Ademais, quanto à pretensão remanescente - reconhecimento da atipicidade da conduta - tem-se foi analisada no HC n. 441.841/RS, perdendo assim o objeto recursal.
+Em razão disso, julgo prejudicado o presente agravo (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
