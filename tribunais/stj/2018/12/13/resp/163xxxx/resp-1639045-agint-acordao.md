@@ -1,0 +1,44 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL. PROLAÇÃO DA SENTENÇA. INCIDÊNCIA DO CPC/73.
+1. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a fixação dos honorários advocatícios de sucumbência rege-se pela lei vigente na data da prolação da sentença ou, no caso dos feitos de competência originária dos tribunais, do ato jurisdicional equivalente à sentença (EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe 27/11/2017).
+2. Na hipótese vertente, consta dos autos que a sentença foi publicada em 24/11/2015, portanto, antes do início da vigência do CPC/2015, o qual se deu na data de 18/3/2016, conforme o teor do Enunciado Administrativo 1 do STJ.
+3. O acórdão recorrido guarda consonância com o entendimento do STJ de não se aplicar as regras do art. 85, §2º, do CPC/2015, direcionadas ao arbitramento dos honorários advocatícios sucumbenciais, na hipótese em que a sentença tiver sido proferida na vigência do antigo diploma processual civil.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Nossa Saúde Operadora de Planos Privados de Assistência à Saúde Ltda., desafiando decisão pela qual neguei provimento ao recurso especial, por entender que: (I) o marco temporal para a aplicação das normas do CPC/2015 a respeito da fixação e distribuição dos ônus sucumbenciais é a data da prolação da sentença; e (II) a posterior condenação em honorários advocatícios, em virtude de não ter havido a fixação da verba honorária no momento oportuno, não tem o condão de atrair a aplicação do CPC/15.
+Em suas razões, a parte agravante sustenta que a decisão agravada deixou de observar que a sentença dos autos foi proferida já em 12 de novembro de 2015, quando, portanto, já estava em vigor as regras do atual Codex. Conclui, então, que, como no momento em que prolatada a sentença já estava em vigor o atual Código de Processo Civil, o Tribunal a quo jamais poderia ter dado provimento ao recurso para fixar os honorários por apreciação equitativa, porque tal fixação viola a regra do §2º, do artigo 85, do Código de Processo Civil, segundo a qual os honorários devem ser fixados em percentual sobre o proveito econômico, que, no caso concreto, por se tratar de extinção de uma execução fiscal, coincide com o próprio valor dado à causa.
+Impugnação às fls. 1.979/1.981.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL. PROLAÇÃO DA SENTENÇA. INCIDÊNCIA DO CPC/73.
+1. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a fixação dos honorários advocatícios de sucumbência rege-se pela lei vigente na data da prolação da sentença ou, no caso dos feitos de competência originária dos tribunais, do ato jurisdicional equivalente à sentença (EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe 27/11/2017).
+2. Na hipótese vertente, consta dos autos que a sentença foi publicada em 24/11/2015, portanto, antes do início da vigência do CPC/2015, o qual se deu na data de 18/3/2016, conforme o teor do Enunciado Administrativo 1 do STJ.
+3. O acórdão recorrido guarda consonância com o entendimento do STJ de não se aplicar as regras do art. 85, §2º, do CPC/2015, direcionadas ao arbitramento dos honorários advocatícios sucumbenciais, na hipótese em que a sentença tiver sido proferida na vigência do antigo diploma processual civil.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, tal como constatou a decisão agravada, a Corte Especial do STJ firmou compreensão no sentido de que "o marco temporal para a aplicação das normas do CPC/2015 a respeito da fixação e distribuição dos ônus sucumbenciais é a data da prolação da sentença ou, no caso dos feitos de competência originária dos tribunais, do ato jurisdicional equivalente à sentença" (EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe 27/11/2017). No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZATÓRIA/RESTITUIÇÃO. HONORÁRIOS. FIXAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a fixação dos honorários advocatícios de sucumbência rege-se pela lei vigente na data da prolação da sentença ou, no caso dos feitos de competência originária dos tribunais, do ato jurisdicional equivalente à sentença.
+3. Na hipótese, a pretensão foi acolhida para majorar o valor dos honorários, nos termos da sentença, observado o benefício da gratuidade da justiça, consoante deferido pelo tribunal estadual.
+4. Agravo interno parcialmente provido.
+(AgInt no REsp 1734126/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018)
+EMBARGOS DE DECLARAÇÃO. OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS A PARTIR DO CPC/2015. JULGADO PROFERIDO A PARTIR DO CPC/2015. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. "O fato gerador do direito a honorários é a sucumbência, evento processual que ocorre, não com a propositura da demanda, mas com o trânsito em julgado da sentença." (REsp n. 542.056/SP, Min. Relator Luiz Fux, Primeira Turma, DJ de 22.03.2004).
+2. Nos termos recentemente delineados pela Corte Especial, "O marco temporal para a aplicação das normas do CPC/2015 a respeito da fixação e distribuição dos ônus sucumbenciais é a data da prolação da sentença ou, no caso dos feitos de competência originária dos tribunais, do ato jurisdicional equivalente à sentença." (EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe 27/11/2017).
+3. O julgamento da ação rescisória foi proferido quando já iniciada a vigência do CPC/2015. Reforma do acórdão a quo para fixar a verba honorária a partir das normas do CPC/2015.
+4. Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl na AR 4.807/AL, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 20/09/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NULIDADE DA CDA. SUCESSÃO EMPRESARIAL POR INCORPORAÇÃO. EXECUÇÃO FISCAL PROPOSTA CONTRA A EMPRESA SUCEDIDA APÓS SUA EXTINÇÃO. CORREÇÃO. IMPOSSIBILIDADE. SÚMULA 392/STJ. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. MARCO TEMPORAL PARA INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. ENUNCIADOS ADMINISTRATIVOS N. 2 E 3 DO STJ.
+(..)
+4. De acordo com a orientação deste Tribunal Superior, a sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada como marco temporal para a aplicação das regras fixadas pelo CPC/2015. Precedentes.
+5. Na espécie, observa-se dos autos que a sentença foi publicada antes do início da vigência do CPC/2015, o qual se deu na data de 18/3/2016, conforme o teor dos Enunciados Administrativos n. 2 e 3 desta Corte Superior. Desse modo, a pretensão da recorrente direcionada ao arbitramento dos honorários advocatícios sucumbenciais nas regras do art. 85, §§ 1º, 2º e 3º, do CPC/2015 não merece prosperar.
+6. Recurso especial a que se dá parcial provimento.
+(REsp 1682451/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+Ora, na hipótese vertente, consta dos autos que a sentença foi publicada em 24/11/2015 (fl. 1.814), portanto, antes do início da vigência do CPC/2015, o qual se deu na data de 18/03/2016, conforme o teor do Enunciado Administrativo 1 do STJ ("O Plenário do STJ, em sessão administrativa em que se interpretou o art. 1.045 do novo Código de Processo Civil, decidiu, por unanimidade, que o Código de Processo Civil aprovado pela Lei n. 13.105/2015, entrará em vigor no dia 18 de março de 2016").
+Neste ponto, o acórdão recorrido guarda consonância com o entendimento do STJ de não se aplicar as regras do art. 85, §2º, do CPC/2015, direcionadas ao arbitramento dos honorários advocatícios sucumbenciais, na hipótese em que a sentença tiver sido proferida na vigência do antigo diploma processual civil.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
