@@ -1,0 +1,23 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0103787-75.2012.8.26.0050).
+Nesta Corte, a defesa aponta constrangimento ilegal na fixação do regime fechado, violadas as Súmulas n. 718 e 719, ambas do STF.
+Requer, inclusive liminarmente, a imposição do regime semiaberto para o início do cumprimento da pena aplicada.
+Indeferida a liminar (fls. 36-37) e dispensadas as informações, veio o parecer do Ministério Público Federal (fls. 39-42), que opinou pela denegação da ordem.
+Decido.
+A Corte local, ao apreciar o recurso defensivo, reiterou os termos da sentença condenatória, e manteve o regime fechado, "tendo em vista a maior periculosidade dos agentes, demonstrada pela sua intenção de praticar outro furto de veículo, após a subtração do automóvel da vítima. Ademais, como bem salientado pelo M.M. Magistrado sentenciante, ambos os corréus não possuem qualquer respeito pela Justiça, posto que [NOME] estava preso por outro processo criminal à época da sentença e Leandro tornou-se revel" (fl. 29, destaquei).
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+Todavia, no caso dos autos, foi apontado dado fático suficiente a indicar a gravidade concreta do crime - na espécie, o fato de o réu estava preso por outro processo, o que indica a sua reiteração delitiva -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP).
+Ilustrativamente:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. FURTO QUALIFICADO. DESPROPORCIONALIDADE. QUESTÃO SUPERADA. FUNDAMENTAÇÃO CONCRETA. MULTIRREINCIDÊNCIA. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS DENEGADO.
+1. Fica superada a discussão de desproporcionalidade da segregação cautelar em face de futura pena, na qual seria fixado regime de cumprimento de pena menos rigoroso, já que prolatada sentença condenatória, com a fixação do regime inicial fechado.
+2. Apresentada fundamentação concreta para a manutenção da prisão preventiva em sentença, que apenas manteve a constrição cautelar pelos mesmos fundamentos já expostos na decisão de preventiva, com base na reiteração delitiva do paciente - o indiciado ostenta vários antecedentes criminais e ao que tudo indica é reincidente na prática de crime contra o patrimônio -, não há que se falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Precedentes.
+4. Habeas corpus denegado.
+(HC n. 438.472/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/6/2018, destaquei).
+Em que pese a insurgência ora deduzida, noto que o acórdão impugnado consignou a referida circunstância, a qual demonstra, ineludivelmente, a maior gravidade do comportamento ilícito, o que justifica, de maneira idônea, a fixação do regime fechado.
+Não se trata, portanto, de caso em que a simples gravidade abstrata do delito cometido é utilizada como fundamentação para a imposição de regime prisional mais gravoso do que o permitido em razão da sanção aplicada, em violação dos enunciados das Súmulas n. 440 do STJ, 718 e 719 do STF, como alegado pela defesa.
+Dessa forma, não visualizo o apontado constrangimento ilegal, ante a presença de motivação concreta para a manutenção do regime mais gravoso.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
