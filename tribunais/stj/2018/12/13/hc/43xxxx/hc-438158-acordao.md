@@ -1,0 +1,46 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES MENOS GRAVOSAS. INSUFICIÊNCIA E INADEQUAÇÃO. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. São idôneas as razões adotadas para convolar a prisão em flagrante do acusado em custódia preventiva - apreensão de elevada quantidade de entorpecente (mais de 81 kg de maconha), em várias porções -, por evidenciarem a dedicação habitual do réu ao comércio de drogas.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. A questão atinente ao excesso de prazo para o encerramento do feito não foi apreciada no acórdão impugnado, o que obsta o conhecimento do tema diretamente por esta Corte Superior, pois configura indevida supressão de instância. Além disso, a própria defesa informou que foi intimada para oferecimento de alegações finais, circunstância a demonstrar que a prolação de sentença está próxima.
+5. Ordem denegada.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ROSEILTON LINS PEREIRA, paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC n. 0494768-8.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para converter a prisão em flagrante do réu, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico, em custódia preventiva. Requer, liminarmente e no mérito, a revogação da prisão provisória ou sua substituição por cautelares diversas.
+Indeferida a liminar (fls. 151-152) e prestadas as informações (fls. 159-199 e 201-211), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 213-216).
+Às fls. 220-226, a impetrante destacou que o réu está cautelarmente privado de sua liberdade há mais de um ano e ainda não foi proferida sentença. Ressaltou que, "em diligência realizada para poder dar andamento ao processo, esta advogada tomou ciência para apresentar alegações finais, sem precisar de publicação (já para agilizar e não ter prejuízo para o réu)" (fl. 220).
+A defesa apresentou atestado de bom comportamento carcerário do acusado (fl. 231) e asseverou que ele "não oferece risco à ordem pública, bem como não há indícios de que volte a se envolver em ação penal, nada impedindo que possam ser aplicadas as medidas cautelares" (fl. 230).
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES MENOS GRAVOSAS. INSUFICIÊNCIA E INADEQUAÇÃO. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. São idôneas as razões adotadas para convolar a prisão em flagrante do acusado em custódia preventiva - apreensão de elevada quantidade de entorpecente (mais de 81 kg de maconha), em várias porções -, por evidenciarem a dedicação habitual do réu ao comércio de drogas.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. A questão atinente ao excesso de prazo para o encerramento do feito não foi apreciada no acórdão impugnado, o que obsta o conhecimento do tema diretamente por esta Corte Superior, pois configura indevida supressão de instância. Além disso, a própria defesa informou que foi intimada para oferecimento de alegações finais, circunstância a demonstrar que a prolação de sentença está próxima.
+5. Ordem denegada.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O paciente foi preso em flagrante em 14/10/2017, juntamente com outra pessoa, pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006. Em audiência de custódia, realizada no dia 15/10/2017, o flagrante foi convertido em prisão preventiva, sob a seguinte motivação (fls. 31-33, grifei):
+Não obstante a primariedade e apesar da alegação de endereço certo e ocupação lícita, no caso sob apreciação, não há como ignorar a quantidade de substância entorpecente que foi apreendida, o que distingue o caso dos autos, de modo a evidenciar a gravidade concreta do crime atribuído aos autuados, configurada aí a necessidade da prisão cautelar para garantia da ordem pública. Afasto, na hipótese, a possibilidade de aplicação de qualquer das medidas cautelares dispostas no artigo 319 do Código de Processo Penal por entendê-las não cabíveis às circunstâncias do crime.
+O auto de prisão em flagrante noticia a apreensão de cerca de 102 tabletes de maconha, com peso aproximado de 1 kg cada um (fl. 74). Conforme delineado na denúncia, "os 102 (cento e dois) tabletes tratam-se do vegetal prensado Cannabis Sativa L., totalizando 81,900 (oitenta e um quilos e novecentos gramas), acondicionados em invólucros confeccionados com saco plástico e fita adesiva" (fl. 69, destaquei).
+A defesa impetrou prévio habeas corpus perante a Corte local, que denegou a ordem.
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Na hipótese, observo que se mostram idôneas as razões adotadas para convolar a prisão em flagrante do réu em custódia preventiva - apreensão de elevada quantidade de entorpecente (mais de 81 kg de maconha), em diversas porções -, por evidenciarem a dedicação habitual do réu ao comércio de drogas.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que, nas situações em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a gravidade concreta do delito e, por conseguinte, embasar a constrição cautelar.
+Ilustrativamente:
+ ..
+2. Caso em que as circunstâncias concretas colhidas do flagrante - prisão efetuada em ponto de venda de drogas, inclusive com a apreensão de 19 pinos de cocaína e 54 buchas de maconha - demonstram que a prisão preventiva está devidamente justificada, nos termos do art. 312 do Código de Processo Penal, para a garantia da ordem pública. Precedentes.
+3. Recurso ordinário em habeas corpus a que se nega provimento.
+(RHC n. 89.316/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/10/2017, grifei)
+Diante do fundado risco de reiteração delitiva, entendo que a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+Nesse sentido:
+ ..
+V - Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública.
+Agravo Regimental desprovido.
+(AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018, destaquei)
+Por fim, ressalto que a questão atinente ao excesso de prazo para o encerramento do feito não foi apreciada no acórdão impugnado, o que obsta o conhecimento do tema diretamente por esta Corte Superior, pois configura indevida supressão de instância.
+Além disso, a própria defesa informou que foi intimada para oferecimento de alegações finais, circunstância a demonstrar que a prolação de sentença está próxima.
+À vista do exposto, denego a ordem.
