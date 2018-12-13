@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de SINARA CRISTINA DA COSTA, apontando como autoridade coatora a 4ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, no julgamento dos Embargos de Declaração n. 0036639-34.2010.8.26.0562/50001.
+Narram os autos que a paciente foi condenada à pena de 1 (um) ano e 2 (dois) meses de reclusão, em regime aberto, além de 11 (onze) dias-multa, ocasião em que a sanção privativa de liberdade foi substituída por duas medidas restritivas de direitos
+O Tribunal de origem não conheceu do recurso de apelação movido pela defesa. Em razão de sua intempestividade.
+Contra tal decisão, foram opostos dois embargos de declaração, ambos rejeitados.
+Neste writ, sustenta o impetrante que o advogado constituído não foi intimado pessoalmente da sentença condenatória.
+Assevera que parte dispositiva da sentença e a decisão proferida nos embargos de declaração contra ela opostos teriam sido disponibilizadas no Diário de Justiça apenas ao assistente de acusação, não constando da publicação o nome dos advogados de defesa.
+Entende que o patrono da acusada deveria ter sido pessoalmente intimado do édito repressivo.
+Requer a concessão da ordem para que a defesa seja pessoalmente intimada da sentença condenatória, reabrindo-se o prazo para a interposição de recursos.
+O pedido liminar foi indeferido (e-STJ, fls. 76/77).
+Em seu parecer, o Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 148/150).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Ainda que superado o referido óbice, é cediço que, ao interpretar o inciso II do artigo 392 do Código de Processo Penal, esta Corte Superior de Justiça pacificou o entendimento de que, em se tratando de réu solto, é suficiente a intimação de seu advogado acerca do édito repressivo, procedimento que garante a observância dos princípios da ampla defesa e do contraditório.
+Confira-se:
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. CONTRABANDO. (..) NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO RÉU DO ACÓRDÃO QUE CONFIRMOU A SENTENÇA CONDENATÓRIA. NÃO CONFIGURAÇÃO. RÉU SOLTO. DEFESA INTIMADA REGULARMENTE. (..) HABEAS CORPUS NÃO CONHECIDO.
+(..)
+III - "A jurisprudência firmada por esta Corte Superior de Justiça dispensa a intimação pessoal do réu do acórdão que julga a apelação, sendo suficiente a intimação pelo órgão oficial de imprensa, no caso de estar assistido por advogado constituído, ou pessoal, nos casos de patrocínio pela Defensoria Pública ou por defensor dativo, como ocorreu no caso." (HC 353.449/SP, Quinta Turma, de minha relatoria, DJe 30/08/2016). A intimação pessoal somente é exigida da sentença que condena o réu preso (art. 392, I, do CPP).
+(..)
+Habeas corpus não conhecido.
+(HC 432.280/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/05/2018, DJe 23/05/2018)
+HABEAS CORPUS SUBSTITUTIVO. NULIDADE. INTIMAÇÃO DO ADVOGADO CONSTITUÍDO DO JULGAMENTO DA APELAÇÃO PELA IMPRENSA OFICIAL. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO RÉU. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+(..)
+2. A necessidade de intimação pessoal do réu, a que se refere o artigo 392, do Código de Processo Penal, só tem aplicabilidade nas decisões de primeiro grau, não alcançando, pois, as intimações em segundo grau e nas instâncias superiores. Precedentes (HC n. 168.038/RS, Ministra Laurita Vaz, Quinta Turma, DJe 28/6/2012).
+3. Ordem denegada.
+(HC 338.747/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ASSOCIAÇÃO E TRÁFICO DE DROGAS. (..) APELAÇÃO. INTIMAÇÃO PESSOAL DO ACÓRDÃO. DESNECESSIDADE. DEFENSORIA PÚBLICA INTIMADA. (..) WRIT NÃO CONHECIDO.
+(..)
+4. Hipótese em que se alega nulidade decorrente da ausência de intimação pessoal do réu acerca do teor do acórdão da apelação. O art. 392, I, do CPP refere-se à sentença, não se aplicando extensivamente ao julgamento de apelação.
+5. "A jurisprudência firmada por esta Corte Superior de Justiça dispensa a intimação pessoal do réu do acórdão que julga a apelação, sendo suficiente a intimação pelo órgão oficial de imprensa, no caso de estar assistido por advogado constituído" (HC 353.449/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/8/2016, DJe 30/8/2016), o que ocorreu no caso em exame.
+(..)
+11. Writ não conhecido.
+(HC 351.239/AM, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+No mesmo norte esteira orienta-se a jurisprudência do Supremo Tribunal Federal:
+EMENTA: PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECURSO INTEMPESTIVO. TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO. CONDENAÇÃO TRANSITADA EM JULGADO. INTIMAÇÃO PESSOAL DO ACÓRDÃO DA APELAÇÃO. DESNECESSIDADE. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. É intempestivo o agravo regimental interposto fora do prazo enunciado no art. 317 do RI/STF. 2. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (v.g HC 109.956, Rel. Min. Marco Aurélio; e HC 104.045, Rel.ª Min.ª Rosa Weber). 3. "O art. 392 do CPP dispõe sobre a necessidade de intimação pessoal do réu apenas na hipótese de sentença condenatória e não do acórdão proferido no julgamento da apelação" (HC 114.107, Rel. Min. Ricardo Lewandowski). No mesmo sentido: HC 110.100, Rel. Min. Celso de Mello; HC 75.536, Rel. Min. Sydney Sanches; HC 81.691, Rel. Min. Cezar Peluso). 4. Agravo regimental desprovido.
+(HC 137112 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 24/03/2017, PROCESSO ELETRÔNICO DJe-073 DIVULG 07-04-2017 PUBLIC 10-04-2017)
+Ementa: HABEAS CORPUS. CONSTITUCIONAL. NULIDADE DA AÇÃO PENAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO PACIENTE PARA RECORRER DO ACORDÃO QUE JULGOU A APELAÇÃO. DESNECESSIDADE. ART. 392 DO CPP. INAPLICABILIDADE. INTIMAÇÃO REALIZADA POR MEIO DE ADVOGADO CONSTITUÍDO. ORDEM DENEGADA. I - O paciente possuía advogado constituído nos autos, que foi devidamente intimado do acórdão que julgou o recurso de apelação e optou por não interpor os recursos especial e extraordinário. II - O art. 392 do CPP dispõe sobre a necessidade de intimação pessoal do réu apenas na hipótese de sentença condenatória e não de acórdão proferido no julgamento de apelação. Precedentes. III - Os autos dão conta de que se tratava de réu solto com patrono constituído e que não houve qualquer renúncia desse advogado, sendo desnecessária a intimação do paciente para constituir novo defensor, uma vez que cabe à defesa técnica analisar a conveniência e a viabilidade na interposição dos recursos especial e extraordinário IV - Ordem denegada.
+(HC 114107, Relator(a):  Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 27/11/2012, PROCESSO ELETRÔNICO DJe-243 DIVULG 11-12-2012 PUBLIC 12-12-2012)
+EMENTA Habeas corpus. Penal. Processual penal. Roubo. Intimação pessoal do réu e de seu defensor da sentença e do acórdão condenatório. Nulidade inexistente. Ausência de prejuízo. Intimação, ademais, que na segunda instância se aperfeiçoa mediante simples intimação pela imprensa oficial. (..) 2. Intimação do réu e de seu defensor do acórdão da apelação mediante publicação do dispositivo do acórdão no Diário Oficial. Ato válido. Desnecessidade de intimação pessoal do réu e do defensor constituído. Exigência só pertinente à intimação da sentença de primeiro grau. (..) 5. Writ conhecido, ordem concedida em parte.
+(HC 101643, Relator(a):  Min. DIAS TOFFOLI, Primeira Turma, julgado em 28/09/2010, DJe-230 DIVULG 29-11-2010 PUBLIC 30-11-2010 EMENT VOL-02441-01 PP-00098)
+Na hipótese em tela, a acusada foi julgada à revelia, ao passo que a sua defesa, efetivamente, tomou ciência dos termos da sentença condenatória, tanto que opôs embargos de declaração (e-STJ, fls. 35/42), nos quais se lê que "a embargante foi intimada da sentença no dia 31/08/2015 (segunda-feira) (..)" (e-STJ, fl. 36), o que revela que eventual ilegalidade na sua cientificação, mostra-se irrelevante, já que não se constata qualquer prejuízo para a defesa da acusada.
+Por fim, é cediço que uma vez praticado o ato, este, como regra no direito processual pátrio, é abarcado pelo instituto da preclusão consumativa, não se podendo admitir que o processo retorne a atos já ultrapassados e que a resolução da questão posta em juízo seja obstada por manobras eminentemente protelatórias, o que, além de acarretar tumulto processual, fere o princípio do contraditório, pois enseja desequilíbrio entre os sujeitos atuantes no processo.
+Assim, ainda que o advogado constituído não tenha sido pessoalmente intimado da sentença condenatória, o fato de ter se insurgido contra ela, opondo embargos de declaração, oportunidade em que, inclusive, afirma ter sido notificado do referido decisum, impede o reconhecimento da eiva em questão, em homenagem à segurança jurídica da qual são revestidas as decisões judiciais irrecorríveis.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
