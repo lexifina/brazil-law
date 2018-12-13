@@ -1,0 +1,12 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. PIS/COFINS. CRÉDITO ESCRITURAL E CRÉDITO PRESUMIDO. CORREÇÃO MONETÁRIA. DEMORA INJUSTIFICADA NA ANÁLISE DO PEDIDO ADMINISTRATIVO. TERMO INICIAL DA ATUALIZAÇÃO MONETÁRIA. APLICAÇÃO DO ART. 24. DA LEI 11.457/2007.MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS: RESP"S 1.768.415/SC, 1.768.060/RS E 1.767.945/RS. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 4a. Região, assim ementado:
+PEDIDO ADMINISTRATIVO DE RESSARCIMENTO. PRAZO PARA ANÁLISE. LEI 11.457, DE 2007. CORREÇÃO MONETÁRIA. [NOME].
+Escoado o prazo previsto no art. 24 da Lei nQ 11.457, de 2007, tem o contribuinte direito à apreciação de pedido de ressarcimento formulado administrativamente ao Fisco, com incidência de correção pela taxa [NOME] desde a data do protocolo do pedido administrativo, em sendo reconhecido o crédito.
+2. Nas razões recursais, a parte recorrente alega, em síntese, que a correção monetária deve incidir apenas após a fluência do prazo de 360 dias, desde o protocolo dos pedidos administrativos, nos termos do art. 24 da Lei 11.457/2007.
+3. É o que havia de relevante para relatar.
+4. Verifica-se que a matéria versada no Apelo Nobre se encontra afetada à 1a. Seção do STJ como representativa da controvérsia e aguarda julgamento: RESP"S 1.768.415/SC, 1.768.060/RS E 1.767.945/RS.
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+6. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+7. Publique-se.
+8. Intimações necessárias.
