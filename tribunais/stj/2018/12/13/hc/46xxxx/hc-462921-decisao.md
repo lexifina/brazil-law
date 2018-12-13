@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] BARBOSA ROSA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que denegou o writ de origem por acórdão que tem o seguinte relatório (fls. 26/27):
+ .. . Em favor do paciente, o impetrante ajuizou este pedido de habeas corpus, aduzindo constrangimento ilegal por parte do MM. Juiz de Direito da 1ª Vara Criminal da Comarca de Limeira.
+Relata que o paciente está sendo acusado por suposto envolvimento no crime de extorsão mediante sequestro. Alega que a autoridade coatora converteu a prisão temporária em preventiva, "sob argumento da aplicação da lei penal e garantia da ordem pública", inexistindo, portanto, motivos aptos a justificar a manutenção da custódia. Aduz que a segregação ofende o princípio da presunção de inocência e as garantias constitucionais, já que baseada na periculosidade do paciente sem qualquer prova a tanto. Invoca em favor da libertação dele entendimento jurisprudencial. Requer, assim, a concessão liminar da ordem, para que seja revogada medida extrema, com a consequente expedição de alvará de soltura. Alternativamente, pugna pela aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Indeferida a liminar (fl. 32), prestou informações o digno Juízo impetrado (fls. 36-39).
+A Douta Procuradoria Geral de Justiça manifestou-se pela denegação do pedido (fls. 42-44).
+É o relatório. .. .
+O impetrante argumenta a ocorrência de constrangimento ilegal, porque a prisão preventiva foi decretada sem indícios suficientes de autoria e materialidade delitiva, e sem fundamentação idônea.
+O paciente foi denunciado pela prática do crime de roubo majorado, tipificado no art. 159, § 1º, c/c o art. 29, ambos do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público manifestou-se pela denegação do habeas corpus.
+Na origem, o processo n. 0006404-53.2018.8.26.0320 está em fase de instrução, conforme informações eletrônicas disponíveis em 3/12/2018.
+É o relatório.
+DECIDO.
+A impetração objetiva a revogação da prisão preventiva, porque decretada sem indícios suficientes de autoria e materialidade delitiva, e sem fundamentação idônea.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Por outro lado, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fl. 29):
+ .. .1 - Diante da promoção do ilustre representante do Ministério Público, no sentido da decretação da prisão preventiva dos acusados, bem como havendo indícios suficientes da autoria e prova da materialidade da infração a eles imputada, sendo encontrado com os acusados quase a totalidade do preço pago pelo resgate da vítima e, ainda, outros fatos expostos nos presentes autos, tratando-se de crime hediondo, praticado mediante violência, grave ameaça e restrição da liberdade da vítima por mais de 24 horas, com vistas à garantia da aplicação da lei penal e da manutenção da ordem pública, presentes os requisitos dos artigos 311 e 312 do C.P.P., DECRETO A PRISÃO PREVENTIVA de [NOME], [NOME], [NOME] e [NOME]. Expeçam-se os competentes mandados de prisão. .. .
+Como já adiantado no exame da liminar, o decreto prisional tem fundamento na gravidade do crime, evidenciada nas circunstâncias fáticas, porque foi apreendido com o paciente e os corréus o valor pago pelo resgate da vítima que foi mantida em cárcere privado, sob ameaças, por mais de 24 horas.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
