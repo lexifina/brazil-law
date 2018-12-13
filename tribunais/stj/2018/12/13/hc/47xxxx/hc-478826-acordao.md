@@ -1,0 +1,48 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DECRETO. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DA DROGA APREENDIDA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. As prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+2. A decisão que decretou a prisão preventiva está idoneamente fundamentada na gravidade concreta do delito, fulcrada, principalmente, na quantidade expressiva da droga apreendida, qual seja, 18,78 kg de maconha, não havendo que se falar, portanto, em existência de constrangimento ilegal a ser sanado.
+3. Eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+4. Concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+5. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (HC n. 2159210-29.2018.8.26.0000 - fls. 25/34).
+Colhe-se dos autos que o paciente teve sua prisão em flagrante convertida em preventiva (fls. 35/38) e posteriormente mantida pelo Juízo de primeiro grau (Processo n. 0002942-60.2018.8.26.0297 - fls. 79/80), em virtude da suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+Inconformada, a defesa impetrou habeas corpus, cuja ordem foi denegada pela Corte de origem, por meio de acórdão assim ementado (fl. 26):
+Habeas Corpus. Associação para o tráfico e tráfico de drogas. Pedido de revogação da prisão preventiva, por ausência dos requisitos legais. Inadmissibilidade. Indícios de autoria e prova da existência do crime. Necessidade da custódia para garantia da ordem pública, conveniência da instrução processual e assegurar a aplicação da lei penal. Medidas cautelares diversas da prisão que se mostram insuficientes no caso. Questões alusivas à prova que não podem ser conhecidas na estreita via do habeas corpus. Constrangimento ilegal não caracterizado. Writ conhecido em parte, com denegação da ordem na parte conhecida.
+Daí a presente impetração, na qual a defesa pretende, em suma, a revogação da custódia cautelar, tendo em vista a suposta ausência de fundamentação idônea para sua decretação. Alega que não haveria provas suficientes da prática dos delitos pelo paciente. Sustenta não estarem presentes os requisitos previstos no art. 312 do Código de Processo Penal. Aduz que o paciente é primário, possui residência fixa e emprego com carteira assinada, e não é inclinado para a delinquência (fl. 20). Subsidiariamente, postula a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 110/111), informações prestadas (fls. 116/208), o Ministério Público Federal opinou pela denegação da ordem, em parecer assim ementado (fl. 210):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ARTIGOS 33, CAPUT, E 35, AMBOS DA LEI 11.343/2006. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. ART. 312 DO CPP. NECESSIDADE DE GARANTIA DA ORDEM PUBLICA.
+1. A decisão que decretou a prisão preventiva do paciente encontra-se suficientemente fundamentada na garantia da ordem pública, destacando-se a gravidade concreta dos delitos e a periculosidade social dos agentes envolvidos, bem demonstradas pelas circunstâncias em que ocorridos os fatos criminosos e pelos motivos que os determinaram.
+2. Parecer pela denegação da ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo singular, ao homologar a prisão em flagrante do ora paciente, surpreendido, com demais corréus, com 18,78 kg de maconha, decretou a custódia cautelar, ressaltando a grande quantidade de drogas que foi apreendida com os autuados (fl. 37), fundamentação mantida quando do indeferimento do pedido de concessão de liberdade provisória (fls. 79/80).
+Por sua vez, o Tribunal de Justiça afastou qualquer ilegalidade quanto à segregação cautelar.
+Como se vê, a prisão preventiva está idoneamente fundamentada na gravidade concreta do delito, fulcrada, principalmente, na quantidade expressiva da droga apreendida, qual seja, 18,78 kg de maconha, não havendo que se falar, portanto, em existência de constrangimento ilegal a ser sanado.
+A propósito:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NULIDADE. INVIOLABILIDADE DOMICILIAR. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DO CRIME. PERICULOSIDADE DO ACUSADO. QUANTIDADE DE ENTORPECENTE. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. A alegação de nulidade não foi examinada pelo Tribunal de origem, não podendo, assim, ser apreciada a matéria por este Superior Tribunal, sob pena de indevida supressão de instância.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade concreta dos fatos delituosos, cifrada na apreensão de significativa quantidade de substância entorpecente - 1,510kg de maconha.
+3. Recurso parcialmente conhecido e, nessa extensão, desprovido.
+(RHC n. 97.730/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 22/6/2018 - grifo nosso).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DO AGENTE. QUANTIDADE DE DROGA APREENDIDA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA.
+ ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+3. No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a gravidade concreta da conduta e a maior periculosidade do paciente, evidenciada pela quantidade da droga apreendida - 2,08 quilos de maconha -, o que, somado à localização de apetrechos comumente utilizados no preparo e disseminação de entorpecentes, bem como de arma de fogo e munições, demonstra a necessidade da custódia cautelar para garantia da ordem pública.
+4. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido.
+(HC n. 455.649/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/8/2018 - grifo nosso).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. PERICULOSIDADE SOCIAL (APREENSÃO DE GRANDE QUANTIDADE DE DROGA). PROTEÇÃO DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+ ..
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. Caso em que a prisão preventiva foi mantida pelo Tribunal para garantia da ordem pública em razão da periculosidade social da paciente, evidenciada pelas circunstâncias concretas extraídas do flagrante - no momento da prisão foram apreendidos tijolos de maconha, pesando aproximadamente 1kg. Precedentes.
+4. As condições subjetivas favoráveis da paciente, tais como primariedade, bons antecedentes e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+5. Habeas corpus não conhecido.
+(HC n. 449.589/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/8/2018 - grifo nosso).
+Ademais, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Ressalte-se que, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, denego a ordem.
