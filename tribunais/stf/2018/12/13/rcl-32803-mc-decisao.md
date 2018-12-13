@@ -1,0 +1,22 @@
+Trata-se de reclamação constitucional com pedido de liminar ajuizada por Coloni & Went Advogados contra decisão da Juíza do Trabalho substituta da Vara do Trabalho de Cacoal/RO que teria descumprido o que decido pelo Supremo Tribunal Federal na ADI 3.395 ao se declarar competente para julgar ação de prestação de contas que envolve ex-diretor sindical, sindicato e escritório de advocacia.
+    Consta da inicial o seguinte:
+    “No caso em tela, a presente reclamação visa desconstituir uma decisão judicial proferida pelo Magistrado apontado, que entre outras coisas usurpou da competência da justiça comum para julgar AÇÃO DE EXIGIR CONTAS ou prestação de contas entre ex-diretor sindical, sindicato e ESCRITÓRIO DE ADVOCACIA, pois o juízo do trabalho de Cacoal, declarou-se competente para apreciar ação de exigir contas, notoriamente contrariando a jurisprudência majoritária do STJ e STF.
+    Com isto, por meio da presente RECLAMAÇÃO pretende garantir a autoridade de decisão deste Corte relativamente a matéria, que por expressa disposição constitucional e legal, é de competência da Justiça Comum estadual a apreciar lides envolvendo prestação de contas entre clientes e seus advogados.
+    A usurpação de competência legalmente atribuída a tribunal, por ato de autoridade judicial ou administrativa, não viola apenas o princípio do juiz natural e do devido processo legal da parte prejudicada, mas também viola os poderes jurisdicionais e a autoridade do tribunal competente para processar e julgar determinada matéria” (pág. 4 da inicial – grifos no original).
+    O reclamante afirma que o litígio instaurado na origem não envolve relação de trabalho que justifique a competência da Justiça do Trabalho. Argumenta, nesse sentido:
+    “[...] o litígio de exigir contas entre diretor sindical ou próprio sindicato contra advogados e escritório de advocacia não se insere nas hipóteses de ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores. Ou seja, ação de exigir contas contra advogados e escritório de advocacia não tem nada a ver com representação sindical ou moldado da relação de trabalho para efeito de atração da competência da Justiça Laboral” (pág. 8 da inicial – grifos no original).
+    Ao final pede a concessão de liminar para suspender o processo 0000527-52.2016.5.14.0041, que tramita na Vara do Trabalho de Cacoal/RO.
+    É o relatório. Decido.
+    Bem examinados os autos, constato, num exame perfuntório próprio dessa fase, que o pedido formulado não se enquadra em nenhuma das hipóteses permissivas inscritas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Corte, seja para garantir a autoridade de suas decisões.
+    Esta reclamação utiliza como paradigma o entendimento firmado pelo Supremo Tribunal Federal nos julgamentos da ADI 3.395-MC/DF, de relatoria do Ministro Cezar Peluso, assim ementado:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    Como se percebe, este Tribunal, ao analisar a ADI 3.395-MC/DF, afastou qualquer interpretação que inclua na competência da Justiça do Trabalho as causas instauradas entre servidores públicos estatutários e a Administração.
+    Ocorre que, no caso dos autos, estamos diante de ação de prestação de contas proposta por dirigente sindical contra sindicato. Em uma primeira análise, não vislumbro afronta ao referido paradigma.
+    Isso posto, indefiro a liminar.
+    Citem-se o Sindicato dos Trabalhadores nas Indústrias de Alimentação do Estado de Rondônia – SINTRA-INTRA e Marcos Cardoso dos Santos, beneficiários do ato reclamado para, querendo, contestarem o pedido no prazo de 15 (quinze) dias.
+    Solicitem-se informações à autoridade apontada como coatora.
+    Concluídas tais diligências, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
