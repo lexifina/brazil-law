@@ -1,0 +1,35 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REVISÃO DO ATO DE ENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DE DIREITO. AGRAVO INTERNO DOS SERVIDORES DESPROVIDO.
+1. É cediço que o enquadramento ou o reenquadramento de Servidor Público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ (EREsp. 1.422.247/PE, Rel. Min. OG FERNANDES, DJe 19.12.2016).
+2. Agravo Interno dos Servidores desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] em adversidade à decisão que manteve o acórdão proferido pelo egrégio TJ/DFT que foi assim ementado:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REVISÃO DO ATO DE ENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DE DIREITO. ACÓRDÃO QUE DECIDIU A DEMANDA A PARTIR DA INTERPRETAÇÃO CONFERIDA A RESOLUÇÃO DO TCDF. IMPOSSIBILIDADE DE APRECIAÇÃO NA SEARA DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL DOS SERVIDORES A QUE SE NEGA PROVIMENTO (fls. 1.023).
+2. Em suas razões recursais, as partes agravantes sustentam, em suma, que há reconhecimento do direito dos recorrentes pela Administração, o que afasta a prescrição do fundo de direito.
+3. Requer que seja afastada a prescrição e seja promovida a condenação do Recorrido ao pagamento da diferença remuneratória, aqui incluída toda e qualquer verba e parcela de vencimentos entre o que percebido pelos Recorrentes e os Técnicos de Administração Pública do TCDF -TAP-A, concedendo-lhes a majoração prevista a partir de 19.02.93 até 30.08.02 (fls. 1038).
+4. Pugna, desse modo, pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja provido o Recurso Especial.
+5. É o relatório.
+VOTO
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REVISÃO DO ATO DE ENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DE DIREITO. AGRAVO INTERNO DOS SERVIDORES DESPROVIDO.
+1. É cediço que o enquadramento ou o reenquadramento de Servidor Público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ (EREsp. 1.422.247/PE, Rel. Min. OG FERNANDES, DJe 19.12.2016).
+2. Agravo Interno dos Servidores desprovido.
+1. A despeito das alegações dos agravantes, razão não lhes assiste, devendo a decisão agravada ser mantida por seus próprios fundamentos.
+2. Conforme anteriormente afirmado, o entendimento adotado pela Corte de origem acerca da consumação do prazo prescricional para a revisão do ato de enquadramento dos Servidores encontra amparo na jurisprudência do STJ, conforme atestam os seguintes precedentes:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2 DO STJ. SERVIDOR PÚBLICO FEDERAL. SUDENE. LEI N. 5.645/1970. REENQUADRAMENTO. ATO CONCRETO. PRESCRIÇÃO DO FUNDO DE DIREITO. INAPLICABILIDADE DA SÚM. 85 DO STJ. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. "É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ" (EREsp 1422247/PE, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 28/09/2016, DJe 19/12/2016).
+2. Embargos de divergência providos (EAREsp. 538.069/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.5.2017).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENQUADRAMENTO E REENQUADRAMENTO NA CARREIRA. PRESCRIÇÃO. FUNDO DE DIREITO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Na hipótese dos autos, extrai-se do acórdão objurgado que o entendimento do Sodalício a quo está em consonância com a orientação do Superior Tribunal de Justiça, de que "o enquadramento ou reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo".
+2. Nesses casos, a pretensão envolve o reconhecimento de nova situação jurídica fundamental, e não os simples consectários de posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ. (STJ, EREsp 1.428.364/PE, Rel. Ministra Diva Malerbi (Desembargadora Convocada do TRF/3ª Região), Primeira Seção, DJe de 19/04/2016).
+3. Recurso Especial não provido (REsp. 1.650.247/MG, Rel. Ministro HERMAN BENJAMIN, DJe 19.4.2017).
+
+PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. PRESCRIÇÃO. SERVIDOR PÚBLICO. SUDENE. TÉCNICO DE PLANEJAMENTO. PLANO DE CLASSIFICAÇÃO DE CARGOS. ANALISTA DE PLANEJAMENTO E ORÇAMENTO. FUNDO DO DIREITO. PROVIMENTO.
+1. Discute-se nos embargos de divergência o prazo prescricional para os servidores impugnarem o enquadramento realizado pelo Ministério de Planejamento, Orçamento e Gestão quando da extinção da SUDENE, por não terem sido incluídos no Plano de Classificação de Cargos instituído pela Lei n. 5.645/70, com a consequente transformação no cargo de Analista de Planejamento e Orçamento.
+2. É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ. Precedentes.
+3. Na espécie, a lesão ao direito dos autores consumou-se a partir do momento em que os servidores, ao invés de passarem a integrar a carreira de Técnico de Planejamento, foram erroneamente enquadrados no cargo de Pesquisador. Assim, não se trata de uma mera omissão administrativa, mas um equívoco no enquadramento promovido a partir da regulamentação da Lei n. 5.645/70, devendo-se reconhecer a prescrição do fundo de direito.
+4. Embargos de divergência a que se dá provimento (EREsp. 1.422.247/PE, Rel. Min. OG FERNANDES, DJe 19.12.2016).
+3. Diante de tais pressupostos, nega-se provimento ao Agravo Interno dos Servidores.
+4. É o voto.
