@@ -1,0 +1,56 @@
+EMENTA
+TRIBUTÁRIO. CONTRIBUIÇÃO AO SEGURO CONTRA ACIDENTES DE TRABALHO (SAT). DELEGAÇÃO AO REGULAMENTO PARA A DEFINIÇÃO DOS CONCEITOS DE ATIVIDADE PREPONDERANTE E DE GRAUS DE RISCO. VALIDADE. OBEDIÊNCIA AO PRINCÍPIO DA LEGALIDADE.
+I - O art. 22 da Lei 8.212/91 define, satisfatoriamente, todos os elementos capazes de fazer nascer a obrigação tributária válida em relação à contribuição SAT.
+II - Compete ao regulamento apenas a complementação dos conceitos legais de atividade preponderante da empresa e de seus correspondentes graus de risco - leve, médio ou grave, de modo que tal delegação não implica em ofensa ao princípio da legalidade. Precedentes: AgInt nos EDcl no AREsp 1.071.562/PR, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 2/10/2017; AgRg no REsp 1.460.694/PE, Rel. Ministro HERMAN BENJAMIN, DJe 10/10/2014.
+III - Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. CONTRIBUIÇÃO SOCIAL. LEI Nº 8.212/91, ARTIGO 22, INCISO II. POSSIBILIDADE DE COMPENSAÇÃO DE CRÉDITOS. PRESCRIÇÃO.
+- A matéria, tal como colocada pela parte, pode ser resolvida confrontados a lei ordinária e o Código Tributário Nacional, conforme adiante se segue. A discussão do tema no âmbito constitucional é, pois, secundária.
+- O tema central deste feito é o artigo 22, inciso II, da Lei nº 8.212/91, com as modificações da Lei nº 9.528, de 10.12.97, e da Lei nº 9.732, de 11.12.98.
+- Os elementos básicos da relação jurídico-tributária devem estar previstos em lei, conforme determinação constitucional e do C.T.N.. O legislador flexibilizou os percentuais da alíquota do SAT com critérios indefinidos: atividade preponderante da empresa e riscos leve, médio e grave.
+- Foge do âmbito do decreto regulamentar disciplinar matéria de modo a interferir no comando da lei, sobretudo quando de natureza fiscal. Há violação dos artigos 97 e 99 do CTN. O vício não é corrigido pelo pagamento de alíquota menor.
+- As Leis nºs 5.316/67 e 6.367/76, porque remetem aos seus regulamentos (Decretos nºs 61.784/67 e 79.037/76, respectivamente) a definição de "grau de risco", padecem da mesma mácula da Lei nº 8.212/91.
+- O direito de ação relativo ao exercício de um direito subjetivo de crédito decorrente de pagamento indevido não se confunde com o poder-dever do Fisco de controlar administrativamente a realização da obrigação tributária pelo contribuinte. O prazo prescricional da Fazenda Pública, para cobrar seus créditos tributários, começa após transcorrido o lapso decadencial; para o contribuinte, tão logo efetue o pagamento indevido e é de cinco anos.
+- Os artigos 45 e 46 da Lei nº 8.212/91 não se aplicam à espécie, quanto aos prazos decadencial e prescricional dos indébitos, pois a CF/88 devolveu às contribuições previdenciárias a natureza de tributo, ex vi do caput do seu artigo 149. A natureza da contribuição em tela implica submissão às normas de direito tributário.
+- O artigo 168 do CTN estabelece o prazo de cinco anos para o exercício do direito de pleitear a restituição de pagamento tributário indevido. A norma refere-se à esfera administrativa e à judicial. Na primeira, tem natureza decadencial; na segunda, tem caráter prescricional. Por restituição deve-se entender devolução do valor pago indevidamente, com a entrega em espécie de quantia recolhida indevidamente ou pela compensação. Invocar o art. 170 do CTN e a Lei nº 8.383/91 leva à imprescritibilidade do direito de compensar.
+- Reconhecido o prazo de cinco anos, verifica-se a ocorrência de prescrição de parte das parcelas que se pretende compensar.
+- A Lei 118/05 confirma a aplicação da prescrição qüinqüenal ao interpretar a legislação preexistente e atinge diretamente a jurisprudência do STJ fundada na tese dos "cinco mais cinco".
+- A compensação dos tributos decorre de expressa disposição legal que, obedecida, gera direito ao contribuinte de efetivá-la. Realizar-se-á com contribuições da mesma espécie. Os recolhimentos indevidos são créditos previdenciários e os débitos deverão ter idêntica natureza.
+- A Lei nº 9.129/95, ainda que posterior aos recolhimentos indevidos, aplica-se à espécie, no que tange ao estreitamento da compensação. Aplicação do artigo 460 do C.P.C.
+- A limitação em tela não se enquadra como empréstimo compulsório sobre os créditos a serem compensados. Os dois institutos são conceitualmente distintos.
+- O fator determinante da limitação em tela não é a data do recolhimento do indébito, mas, sim, a ocasião na qual a compensação será operada. Não há afronta ao princípio constitucional da irretroatividade das leis.
+- A certeza e a liquidez dos indébitos derivam dos documentos acostados. A aferição do quantum a ser compensado depende de mera operação aritmética.
+- A documentação demonstra que a autora suportou os valores da contribuição social. Inaplicável a Súmula 546 do STF. Não se cuida de tributos indiretos, cuja restituição ou compensação o artigo 166 do CTN restringe.
+- A correção monetária far-se-á do pagamento indevido, utilizados os seguintes indexadores oficiais: de fevereiro de 1.989 a fevereiro de 1.991 - BTN (Lei nº 7.730/89), de março de 1.991 a dezembro de 1.991 - INPC/IBGE, a partir de janeiro de 1.992 até dezembro de 1.995 - UFIR (nos termos da Lei nº 8.383/91) e, a contar de janeiro de 1.996, por força da Lei nº 9.250/95, aplicar-se-á, apenas, a SELIC, que embute a correção monetária e os juros.
+- A ação foi proposta em 2000. Incidência da taxa SELIC, por força da Lei n. 9.250/95. Contudo, dela excluir-se-ão os juros propriamente ditos, sob pena de se praticar a reformatio in pejus.
+- Custas processuais nos termos do §único e inciso I do artigo art. 42 da Lei Federal nº 9.289/96.
+- Preliminar de prescrição qüinqüenal, argüida em contra-razões, acolhida. Apelação parcialmente provida.
+Na origem, trata-se de Mandado de Segurança impetrado pela recorrida cujo valor da causa, em dezembro de 2000, era de R$ 23.880,03 (vinte e três mil, oitocentos e oitenta reais e três centavos).
+Em suma, pleiteia o reconhecimento de seu direito à compensação por, supostamente, ter recolhido de maneira indevida a contribuição para o Seguro Contra Acidentes de Trabalho (SAT), a qual julga ilegal e inconstitucional. Aduz, em síntese, que diante do princípio da tipicidade no direito tributário, todos os elementos essenciais à cobrança do SAT deveriam estar previstos em lei, não sendo válida a delegação, ao Poder Executivo, para regulamentar, via decreto, os conceitos de atividade preponderante e de graus de risco leve, médio e grave, que impactam no quantum devido a título da contribuição SAT.
+O juízo de piso, em sede de sentença, decidiu pela denegação da segurança, sustentando a inexistência de direito líquido e certo à compensação, notadamente porque a Lei 8.212/91 estabeleceu os elementos da exação tributária, delegando ao regulamento apenas a variação da alíquota da contribuição, dentro de limites legalmente preestabelecidos.
+O tribunal a quo, por sua vez, entendeu que a exação viola os arts. 97 e 99 do CTN, julgando inválida a delegação da regulamentação da contribuição SAT e concluindo, ao final, pela possibilidade de compensação pleiteada pela contribuinte, observados os prazos prescricionais.
+No presente recurso especial, a recorrente aponta violação ao art. 22, II da Lei 8.212/91 e aos arts. 97 e 99 do CTN.
+Sustenta, em síntese, a legalidade da atribuição, ao regulamento, da fixação de conceitos de atividade preponderante e de risco leve, médio ou grave.
+Apresentadas contrarrazões pela manutenção do acórdão, a recorrida pleiteia o não conhecimento do Recurso Especial pelo óbice da Súmula 126/STJ. No mérito, aduz a impossibilidade da delegação pelo art. 22, II da Lei 8.212/91, ao Poder Executivo, da fixação dos conceitos de atividade preponderante e de grau de risco, diante da necessidade de respeito à tipicidade em matéria tributária.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido da possibilidade de delegação, pelo art. 22 da Lei 8.212/91, para que decreto estabeleça os conceitos de atividade preponderante da empresa e seus correspondentes graus de risco - leve, médio ou grave.
+Isso porque, ao passo em que a lei define, satisfatoriamente, todos os elementos capazes de fazer nascer a obrigação tributária válida, compete ao regulamento apenas a complementação dos conceitos legais, não implicando em ofensa ao princípio da legalidade.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. CONTRIBUIÇÃO PARA O RAT/SAT. LEGALIDADE NA DEFINIÇÃO DE ATIVIDADE PREPONDERANTE E GRAUS DE RISCO POR DECRETOS REGULAMENTADORES. PRECEDENTES.
+1. Este Superior Tribunal de Justiça firmou orientação no sentido da legalidade do enquadramento, por decreto, das atividades perigosas desenvolvidas pela empresa, com os respectivos escalonamentos, para fins de fixação da contribuição para o Riscos Ambientais do Trabalho - RAT (antigo Seguro de Acidentes de Trabalho - SAT). Precedentes.
+2. Ainda, consoante orientação desta Corte Superior, falece ao Poder Judiciário competência para imiscuir-se no âmbito da discricionariedade da Administração com o fito de verificar o efetivo grau de risco da atividade desenvolvida pela empresa recorrente. Nesse sentido: REsp 1604032/SC (Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/09/2016, DJe 11/10/2016).
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1071562/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 02/10/2017)
+TRIBUTÁRIO. CONTRIBUIÇÃO AO RAT. MUNICÍPIO. ATIVIDADE PREPONDERANTE. ALÍQUOTA. MAJORAÇÃO. DECRETO 6.042/2007. PRINCÍPIO DA RAZOABILIDADE.
+1. Em relação à legalidade da cobrança da contribuição ao SAT, o STJ consolidou a orientação de que o decreto que estabelece o que vem a ser atividade preponderante da empresa e seus correspondentes graus de risco - leve, médio ou grave - não exorbita de seu poder regulamentar.
+2. O Tribunal de origem consignou que houve a correta divulgação dos dados utilizados para fins do cálculo do SAT. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1460694/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/09/2014, DJe 10/10/2014)
+Ante o exposto, dou provimento ao recurso especial para denegar a segurança pleiteada, diante a inexistência do direito líquido e certo à compensação dos valores recolhidos a título de contribuição para o Seguro Contra Acidentes de Trabalho (SAT).
+É o voto.
