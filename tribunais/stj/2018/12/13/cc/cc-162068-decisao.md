@@ -1,0 +1,36 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO COMUM E JUÍZO TRABALHISTA. RECLAMAÇÃO TRABALHISTA. VÍNCULO REGIDO PELA CLT. COMPETÊNCIA DO JUÍZO LABORAL.
+1. Trata-se de Conflito Negativo de Competência envolvendo o JUÍZO DE DIREITO DA 2A VARA DA FAZENDA PÚBLICA DE OSASCO - SP e o TRIBUNAL REGIONAL DO TRABALHO DA 2A REGIÃO, nos autos de Reclamação Trabalhista ajuizada em desfavor do MUNICÍPIO DE OSASCO/SP, em que a parte autora objetiva o pagamento das verbas trabalhistas no período em que manteve vínculo trabalhista com a Municipalidade.
+2. A Justiça Laboral declinou da competência e determinou a remessa dos autos à Justiça Comum.
+3. O JUÍZO DE DIREITO DA VARA ÚNICA DE PRESIDENTE PRUDENTE, por sua vez, declarou-se igualmente incompetente pelos seguintes argumentos:
+Segundo a lei processual, quando um Magistrado declina de sua competência, determinando a remessa dos autos para outro Juízo, caso este discorde da decisão, deve suscitar conflito negativo.de competência, e não remeter o processo ao Juízo que, já se declarou incompetente.
+Conforme denota-se da análise dos autos, o regime jurídico estabelecido entre parte autora e parte ré é o celetista, previsto na Consolidação das Leis Trabalhistas (CLT), hipótese que determina a competência da justiça especializada, conforme o inciso I, do"artigo 114, da Constituição Federal:
+(..).
+ Assim, em que pese a admissão da autora para cargo em comissão, é inequívoco que o regime jurídico que regulou seu vínculo com o ente público foi o trabalhista, de emprego: Com efeito, o Município de Presidente Bernardes não possui legislação que estipule regime estatutário para seus servidores públicos.
+Neste passo, tendo a parte autora se subordinado ao regime celetista de emprego, a competência para processar e julgar conflitos a ela relacionados é da justiça especializada do trabalho, sendo este Juízo incompetente para tanto (fls. 195/196).
+4. Após, determinou a remessa dos autos a esta Corte Superior.
+5. É o relatório.
+6. Conforme dessume-se dos autos, a parte autora reclama verbas trabalhistas relativas ao período em que foi contratada pelo MUNICÍPIO DE OSASCO/SP para o Cargo de Médico Socorrista.
+7. Inicialmente, cumpre observar que a determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+8. Em face do advento da Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+9. O STF, porém, ao analisar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+10. Tem-se, pois, que, se o vínculo estabelecido entre o Poder Público e o Servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (estadual ou federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+11. In casu, verifica-se que a hipótese se trata de relação contratual regida pelo regime celetista (fls. 20).
+12. Desse modo, sendo o regime adotado o celetista, compete à justiça trabalhista processar e julgar as ações oriundas da referida relação de trabalho. Confira-se:
+CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. CONTRATO TEMPORÁRIO PARA ATENDER NECESSIDADE DE EXCEPCIONAL INTERESSE PÚBLICO, FIRMADO COM BASE EM LEI MUNICIPAL QUE PREVÊ A ADOÇÃO DO REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A contratação temporária de trabalho, conforme autoriza o art. 37, inciso IX, da Constituição da República, tem natureza nitidamente administrativa, observando, em regra, o regime estatutário. Precedentes.
+2. Todavia, se a Lei Municipal que autoriza a contratação temporária prevê expressamente a adoção do regime celetista para regular os contratos celebrados com base no mencionado regramento - hipótese dos autos -, devem ser observadas as disposições da Consolidação das Leis do Trabalho, excluindo-se, portanto, a competência da Justiça Comum.
+3. Conflito conhecido para declarar a competência do Juízo Suscitado (CC 94.627/RS, Rel. Min. LAURITA VAZ, DJe 3.6.2008).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA COMUM X JUSTIÇA DO TRABALHO. NATUREZA DO VÍNCULO DE TRABALHO ENTRE A ADMINISTRAÇÃO E SEUS AGENTES. MUNICÍPIO QUE ADOTOU EXCLUSIVAMENTE A CLT, INCLUSIVE PARA COMISSIONADOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I e IX, DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência, tanto desta Corte Superior quanto do STF, são harmônicas e orientadas no sentido de que a competência para processar e julgar os feitos com origem nas relações entre os entes públicos e seus agentes é fixada em razão do vínculo jurídico estabelecido entre as partes, salvo quanto aos contratos temporários fundados no art. 37, IX, da Constituição Federal, o que não é o caso aqui examinado. Precedentes.
+2. No caso do Município de São Joaquim da Barra, SP, a opção do legislador local foi a de submeter todo o quadro de pessoal, inclusive os comissionados, ao regime da CLT, como expressamente consta dos art. 6º e 10 da Lei Municipal n. 100, de 30 de dezembro de 1998.
+3. Se a lei local que regula as relações entre a edilidade e seus agentes sujeita estes ao regime celetista, a competência para processar e julgar as ações fundadas nessa relação é da Justiça do Trabalho, nos termos do que dispõe o art. 114, I e IX, da Constituição Federal, com a redação dada pela EC n. 45/2004.
+4. Agravo interno interposto pelo Município não provido (AgInt no CC 155.556/SP, Rel. Min. SÉRGIO KUKINA, Primeira Seção, DJe 16.5.2018).
+
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CARGO EM COMISSÃO. REGIME CELETISTA. OBSERVÂNCIA.
+1. O entendimento pacificado no STJ, conforme enunciado da Súmula 218 do STJ, é de que compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão.
+2. Hipótese em que as peculiaridades do caso concreto autorizam a inaplicabilidade do comando previsto na referida Súmula, uma vez que a relação estabelecida entre o servidor, ocupante de cargo em comissão, e o ente municipal foi regida pela Consolidação das Leis do Trabalho, na forma prevista no art. 1o, §§ 1o e 2o, da Lei municipal 1.962/2012, o que atrai a competência da Justiça do Trabalho.
+3. Agravo interno desprovido (AgInt no CC 154.408/SP, Rel. Min. GURGEL DE FARIA, Primeira Seção, DJe 20.8.2018).
+13. Em face do exposto, conheço do presente Conflito de Competência para declarar a competência do TRIBUNAL REGIONAL DO TRABALHO DA 2A REGIÃO.
+14. Publique-se. Intimações necessárias.
