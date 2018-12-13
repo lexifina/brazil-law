@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o paciente, enquanto cumpria pena em livramento condicional, incorreu em novo delito, tendo sido preso.
+Com isso, o Juízo das execuções penais acatou pedido do Ministério Público para suspender o livramento condicional, mas indeferiu o pedido de reconhecimento de falta grave pelo mesmo fato.
+Inconformado, o Ministério Público interpôs agravo em execução no Tribunal de origem, o qual foi provido em acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. CONDENADO EM LIVRAMENTO CONDICIONAL. COMETIMENTO DE NOVO DELITO. FALTA GRAVE. CONFIGURAÇÃO. RECURSO PROVIDO.
+- A prática de novo crime, no curso do livramento condicional, caracteriza falta grave apta a ensejar a regressão do regime prisional e a perda dos dias remidos" (e-STJ, fl. 118).
+Neste writ, a impetrante sustenta, em síntese, que a anotação de falta grave pelo cometimento de novo delito resulta em bis in idem, justamente pela acumulação das sanções decorrentes da prática de falta disciplinar com aquelas próprias da prática de novo delito, o que não se compatibiliza com a Constituição Federal.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja retificada a anotação de falta grave e restabelecido dos dias remidos.
+O pleito liminar foi indeferido (e-STJ, fl. 170).
+O Ministério Público Federal opinou pela concessão da ordem de ofício (e-STJ, fls. 201/202).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso dos autos, o Tribunal a quo reformou a decisão que indeferiu o pedido com suporte nos seguintes fundamentos:
+" ..  É certo que a prática de fato definido como crime doloso é prevista como falta grave no art. 52, da Lei 7.210/84, ensejando a regressão para regime prisional mais gravoso, consoante determinação expressa contida no art. 118, inciso I, daquele mesmo diploma legal. Também não se pode olvidar que o simples fato de o reeducando receber antecipada e provisoriamente sua liberdade, via concessão do livramento condicional, não implica extinção da pena. Pelo contrário, esta continua em pleno cumprimento. E o cometimento de nova ação delituosa demonstra a inaptidão do sentenciado ao convívio social, nesse momento  .. " (e-STJ, fl. 120).
+Note-se que, sobre o tema, o Superior Tribunal de Justiça firmou o entendimento de que a prática de fato definido como crime durante o livramento condicional tem regras próprias, previstas nos arts. 83 a 90 do Código Penal e 131 a 146 da Lei de Execução Penal, não se confundido, portanto, com os consectários legais decorrentes de falta grave praticada durante o cumprimento da pena.
+Sobre o tema, confiram-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. APLICAÇÃO DOS CONSECTÁRIOS LEGAIS. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. ARTS. 83 A 90 DO CP E ARTS. 131 A 146 DA LEP. INSURGÊNCIA DESPROVIDA.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que a prática de fato definido como crime durante o livramento condicional tem regras próprias, previstas nos artigos 83 a 90 do Código Penal, e nos artigos 131 a 146 da Lei de Execução Penal, não se confundido, portanto, com os consectários legais decorrentes de falta grave praticada durante o cumprimento da pena.
+2. No caso dos autos, apesar de o apenado ter cometido crime doloso durante o período em que estava sob livramento condicional, não podem ser aplicados os consectários legais inerentes à falta disciplinar de natureza grave ao reeducando, como a regressão do regime de cumprimento de pena para o semiaberto, a perda de 1/3 (um terço) dos dias eventualmente remidos e alteração da data-base para futuros benefícios.
+3. Agravo regimental desprovido." (AgRg no HC 344.486/RS, QUINTA TURMA, Rel. Ministro JORGE MUSSI, julgado em 6/3/2018, DJe 13/3/2018.)
+"HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME NO PERÍODO DE PROVA. CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA. REGIME FECHADO. MANIFESTO CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do (a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. A prática de crime no curso do período de prova do livramento condicional não tem o condão de gerar os efeitos próprios da prática de falta grave, no caso, a perda de até 1/3 dos dias remidos, mas tão somente, após a efetiva revogação, a perda do tempo cumprido em livramento condicional e a impossibilidade de nova concessão do benefício no tocante à mesma pena.
+3. Configura coação ilegal a imposição da perda de 1/3 dos dias remidos em decorrência da prática de novo crime durante o período do livramento condicional.  ..
+6. Ordem não conhecida. Habeas corpus concedido, de ofício, apenas para afastar a perda dos dias remidos decretada em desfavor do paciente."
+(HC 271.907/SP, SEXTA TURMA, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 27/3/2014, DJe 14/04/2014.)
+Ante exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para cassar o acórdão impugnado e determinar ao Juízo das execuções penais que não aplique ao paciente os consectários legais inerentes à falta disciplinar, como a anotação em sua ficha funcional e a perda dos dias eventualmente remidos.
+Comunique-se, com urgência, ao Tribunal de origem e ao Juízo das execuções penais.
+Publique-se. Intimem-se.
