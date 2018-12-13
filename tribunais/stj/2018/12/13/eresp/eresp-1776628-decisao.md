@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão assim ementado (fls. 335-336, e-STJ):
+TRIBUTÁRIO. CONTRIBUIÇÃO DESTINADA AO SAT/RAT. LEI Nº 10.666/03. CONSTITUCIONALIDADE. DECRETO Nº 3.048/99, COM A REDAÇÃO DADA PELO DECRETO Nº 6.957/09. AUSÊNCIA DE AFRONTA À LEGALIDADE. REENQUADRAMENTO. AUMENTO DO GRAU DE RISCO. DADOS ESTATÍSTICOS. ARTIGO 22, §3º, LEI 8.212/91. PORTARIA INTERMINISTERIAL MPS/MF Nº 254/2009.
+1. A Corte Especial deste Tribunal reconheceu a constitucionalidade da contribuição destinada ao SAT/RAT, prevista no art. 10 da Lei nº 10.666/03, na sessão realizada em 25-10-2012, rejeitando, por maioria, a Arguição de Inconstitucionalidade na AC nº 5007417-47.2012.4.04.0000. Restou reconhecida a legalidade e constitucionalidade da delegação ao Poder Executivo para, com base em elementos apurados administrativamente, fazer os enquadramentos respectivos. Tais argumentos aplicáveis, igualmente, ao reenquadramento decorrente do Anexo V estabelecido pelo Decreto nº 6.957/09.
+2. Não houve ofensa aos princípios da publicidade, motivação e do equilíbrio financeiro e atuarial.
+3. A Portaria Interministerial MPS/MF nº 254/2009, baseada em dados estatísticos apurados pelo MPS, deu publicidade aos índices de frequência, gravidade e custo para cada atividade econômica, restando preenchido o requisito previsto no artigo 22, §3º, da Lei nº 8.212/91.
+4. Em suma, o enquadramento foi realizado com base em estatísticas e estudos e, afigurando-se razoável e proporcional. Neste passo, cabe afirmar que não cabe ao Poder Judiciário substituir-se ao ente arrecadador, estabelecendo, reduzindo ou majorando alíquotas com base em suas percepções subjetivas.
+5. De outro lado, os documentos juntados aos autos originários não foramsuficientes para formar a convicção deste órgão julgador no sentido do desacerto dos critérios utilizados pela Administração Previdenciária para o reenquadramento combatido nestes autos.
+6. Apelação a que se nega provimento.
+Os Embargos de Declaração foram rejeitados (fl. 378, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, além de divergência jurisprudencial, violação, em preliminar, dos arts. 2º, 141, 489, § 1º, 490, 492 e 1022 do CPC/2015; e, no mérito, dos art. 22, § 3º, da Lei 8.212/1991; 3º e 97 do CTN e 2º da Lei 9.784/1999. Aduz:
+Cuida-se, in casu, de mandado de segurança voltado a ver reconhecido o direito líquido e certo de a ora Recorrente permanecer recolhendo a contribuição ao GIIL-RAT nos termos do Decreto n. 3.048/07 (2%), diante da ilegalidade e inconstitucionalidade da majoração da alíquota promovida pelo Decreto n. 6.957/09 (3%), vez que desamparadas de estatísticas e dados de acidentes de trabalho que pudessem justificar o aumento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.11.2018.
+Verifica-se que a matéria tratada nos autos teve sua repercussão geral reconhecido pelo Plenário do Supremo Tribunal Federal no julgamento do RE 677.725/RS (Tema 554 - Fixação de alíquota da contribuição ao SAT a partir de parâmetros estabelecidos por regulamentação do Conselho Nacional de Previdência Social. ).
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos artigos 1.039 a 1.041 do CPC/2015.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À EDUCAÇÃO. MATRÍCULA EM CRECHE PÚBLICA. RECONHECIMENTO DE REPERCUSSÃO GERAL DA MATÉRIA, PELO STF, NO RE 1.008.166/SC. RECURSO EXTRAORDINÁRIO, SOBRESTADO, NO PRESENTE PROCESSO. ENTENDIMENTO DO STF PREJUDICIAL AO RESP. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 03/05/2017, que, por sua vez, julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Trata-se, na origem, de ação de obrigação de fazer, proposta em face do Distrito Federal, objetivando a matrícula de criança em creche pública.
+III. A tese sustentada pelo recorrente teve repercussão geral reconhecida, pelo Plenário do STF, nos autos do AI 761.908/SC - reautuado como RE 1.008.166/SC -, Relator o Ministro LUIZ FUX, em que se discute o "dever estatal de assegurar o atendimento em creche e pré-escola às crianças de zero a 5 (cinco) anos de idade". Diante desse quadro, deve-se considerar que, in casu, a conclusão do julgamento, pelo STF, do aludido RE 1.008.166/SC, poderá influir no julgamento do presente caso, circunstância que justifica o sobrestamento do feito, sob esse fundamento, sobretudo considerando-se que há, nos autos, Recurso Extraordinário interposto contra o acórdão recorrido, sobrestado, na origem.
+IV. Tendo em vista que a questão controvertida nestes autos diz respeito a tema cuja repercussão geral foi reconhecida, pelo STF, o julgamento imediato do Recurso Especial seria prematuro, e, sendo assim, os autos devem ser devolvidos ao Tribunal de origem, para que, uma vez publicado o acórdão a ser proferido pelo STF, no RE 1.008.166/SC, seja o inconformismo apreciado, na forma da lei (art. 1.039 do CPC/2015). Precedentes do STJ (AgInt no REsp 1.366.363/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 23/08/2017; AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/06/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp 1071410/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/11/2017, DJe 24/11/2017)
+No mesmo sentido, recentes decisões monocráticas: REsp 1.770.684/CE, Relator Ministro Francisco Falcão, DJe 19/11/2018; AREsp 939.427/AM, Relator Ministro Sérgio Kukina, DJe 19/9/2017.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.039 a 1.041 do CPC/2015 e, após a publicação do acórdão proferido no referido recurso extraordinário:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Supremo Tribunal Federal; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da tese firmada no julgamento da matéria com repercussão geral reconhecida.
+Publique-se.
+Intimem-se.
