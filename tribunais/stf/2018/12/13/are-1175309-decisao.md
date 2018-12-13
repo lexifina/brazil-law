@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Sabrina Naschenweng contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “PENAL E PROCESSO PENAL. APROPRIAÇÃO INDÉBITA. ARTIGO 168, § 1º, INCISO III, DO CÓDIGO PENAL. LEVANTAMENTO E SAQUE DO VALOR REFERENTE À RESTITUIÇÃO DE IMPOSTO DE RENDA DA VÍTIMA SEM O DEVIDO REPASSE. PRESCRIÇÃO. INOCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. NÃO CONHECIMENTO. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. PRINCÍPIO DO ‘IN DUBIO PRO REO’. INAPLICABILIDADE. MANUTENÇÃO DA CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CONSEQUÊNCIAS DO CRIME. PENA DE MULTA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INTERDIÇÃO TEMPORÁRIA DE DIREITOS. LIMITAÇÃO, DE OFÍCIO. EXECUÇÃO IMEDIATA. IMPROVIMENTO.
+    …..................................................................................................
+    3. Dada a existência de duas decisões do juízo ‘a quo’ sobre a competência da Justiça Federal, descabe o conhecimento da alegação.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 109 da Constituição da República.
+    Cumpre observar, desde logo, que o recurso extraordinário, ao discutir a matéria pertinente à competência para processar e julgar a causa, não se revela viável, eis que o acórdão recorrido reconheceu a ocorrência de preclusão quanto ao tema, ou seja, resolveu a questão jurídica dos autos sob uma perspectiva estritamente infraconstitucional.
+    Com efeito, o exame da causa evidencia que o acórdão emanado do Tribunal “a quo” apreciou a questão em referência, fazendo-o em contexto meramente legal.
+    Isso significa, portanto, que o fundamento jurídico que sustenta, no ponto, a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
