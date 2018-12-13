@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS.
+DECISÃO
+Da análise da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que ESPÓLIO DE PRUDÊNCIO ANTÔNIO DE BRITO (ESPÓLIO), representado por [NOME] ([NOME]), promoveu ação de divisão judicial contra ALEXANDRE FROTA [NOME], MARIA [NOME] GARCIA, [NOME], STÊNIO [NOME] [NOME], SÊNIO [NOME] [NOME], [NOME] FROTA [NOME], ELYANE [NOME] DE FREITAS, AIRTON [NOME] MONTECHI, NAILEE [NOME] MONTECHI SILVA, ARI ALEXANDRE [NOME] MONTECHI, [NOME] [NOME] MONTECHI, GISLAINE [NOME] [NOME], TERÊNCIO FROTA DUQUE, TAKESHI AKISUE, ELAINE [NOME] [NOME], ADOLINO ALVES DOS SANTOS, [NOME], REGINA [NOME] MONTECHI, BRASÍLIA [NOME] DOS SANTOS e ANTÔNIO FROTA [NOME] (ALEXANDRE e outros), objetivando a devida divisão de terras objeto da demanda, para extinguir o uso, a posse e a propriedade, na modalidade condomínio.
+Na oportunidade, [NOME] requereu os benefícios da gratuidade da justiça, pedido que foi indeferido pelo Juízo a quo.
+Contra essa decisão, o ESPÓLIO e [NOME] manejaram agravo de instrumento, alegando que não possuem condições de suportar o pagamento das despesas processuais, porque o segundo é motorista e recebe o equivalente a R$ 1.613,00 (mil, seiscentos e treze reais) por mês.
+O Tribunal de origem negou provimento ao recurso, nos termos da seguinte ementa:
+EMENTA - AGRAVO DE INSTRUMENTO - INVENTÁRIO - JUSTIÇA GRATUITA - PEDIDO INDEFERIDO - AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA DO ESPÓLIO - RECURSO CONHECIDO E NÃO PROVIDO (e-STJ, fl. 368).
+Os embargos de declaração opostos por [NOME] foram rejeitados.
+Inconformado, [NOME] manejou recurso especial, com amparo no art. 105, III, alíneas a e c, da CF, alegando ofensa aos arts. 5º, LXXIV, da CF, 98 e 1.022, I e II, do NCPC, além de divergência jurisprudencial. Sustentou que (1) houve omissão do tribunal de origem a respeito dos pontos apresentados nos embargos de declaração; (2) ao ser-lhe negada a assistência judiciária gratuita, configurou-se a vedação de acesso à justiça pública, pois nunca terá recursos para custear uma perícia divisória no presente feito; (3) é apenas um dos condôminos e não mais representa o ESPÓLIO devido a ação de destituição de inventariante; (4) a gratuidade pleiteada deve ter como base a condição econômica do cidadão no ato da propositura da ação e não com base na pretensão econômica futura do ESPÓLIO como um todo; e, (5) há dissídio jurisprudencial a respeito da negativa de prestação jurisdicional.
+O apelo nobre interposto por [NOME] não foi admitido, em virtude do seguinte (1) ausência de ofensa ao art. 1.022 do NCPC; e, (2) incidência da Súmula nº 7 do STJ.
+Seguiu-se agravo em recurso especial interposto por [NOME] que foi conhecido para se negar provimento ao apelo nobre, em decisão monocrática de minha relatoria, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO. SÚMULA 283 DO STF. INVIÁVEL A ANÁLISE DE EVENTUAL SIMILITUDE FÁTICA ENTRE DECISÕES DIVERGENTES PROFERIDAS EM EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO (e-STJ, fl. 589).
+Nas razões dos presentes embargos de declaração, [NOME] alegou haver omissão no julgado, porque (1) tem direito à concessão da gratuidade da justiça, porque é pobre, negro e bisneto de escravo; (2) trabalhou toda a sua vida como motorista de caminhão; (3) ganha o equivalente a R$ 1.613,00 (mil, seiscentos e treze reais) por mês; (4) o seu salário apenas dá para sustentar sua família e dar condições mínimas necessárias a ela; e, (5) nos termos do art. 99 do NCPC, não se pode indeferir o pedido de gratuidade da justiça caso existam elementos que evidenciem os pressupostos legais para sua concessão.
+Não houve impugnação (e-STJ, fl. 621).
+Intimado, [NOME] insistiu no julgamento dos embargos (e-STJ, fls. 623 e 626/637).
+É o relatório.
+DECIDO.
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Não admitido o apelo nobre interposto por [NOME], seguiu-se o agravo em recurso especial que, em decisão monocrática da minha relatoria, não foi conhecido, em virtude do seguinte (1) ausência de ofensa ao art. 1.022 do NCPC; (2) incidência da Súmula nº 283 do STF; e, (3) não comprovação da divergência jurisprudencial.
+É contra esse acórdão o inconformismo agora manejado, que não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído que o Tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa, o que afasta a contrariedade ao art. 1.022 do NCPC.
+Ademais, ficou explicitado que a Corte local entendeu que, em se tratando de processo de inventário, o ESPÓLIO é o responsável pelo pagamento das despesas processuais.
+No entanto, esse fundamento não foi devidamente impugnado, o que atrai a incidência da Súmula nº 283 do STF.
+Além disso, ficou destacado que, no que se refere à divergência jurisprudencial a respeito da alegada negativa de prestação jurisdicional, o STJ já manifestou ser inviável a análise de eventual similitude fática entre decisões divergentes proferidas em embargos de declaração, por não ser possível comparar situações em que foi constatada omissão ou obscuridade com outras em que não foi, pois cada processo é único e sua análise depende das peculiaridades de cada caso.
+Por oportuno, transcreve-se o seguinte trecho da decisão proferida:
+A irresignação não merece prosperar.
+(1) Do art. 1.022, incs. I e II, do NCPC
+No julgamento do agravo de instrumento, o Tribunal de origem fundamentou que, em se tratando de processo de inventário, analisa-se a possibilidade econômica "da universalidade de bens do espólio", visto que este é o responsável pelo pagamento das despesas processuais, assim consignando:
+Saliente-se que, em se tratando de processo de inventário, não se analisa a capacidade financeira da inventariante. como pretende a agravante, mas sim as possibilidades econômicas "da universalidade de bens do espólio", visto que este e o responsável pelo pagamento das despesas processuais.
+(..)
+Na hipótese cm tela. verifica-se que o espólio requerente se diz proprietário de um quinhão que incide sobre vários imóveis rurais herdados há mais de um século (f. 24 e seguintes dos autos principais), que ele próprio avalia em RS 1.000.000,00 (um milhão de reais).
+Diante disso, resta evidente que o acervo hereditário não é modesto, pelo contrário, é considerável, o que indica que o espólio possui condições de arcar com as despesas decorrentes do processo, não fazendo jus aos benefícios da justiça gratuita. (e-STJ fls. 369/370)
+Verifica-se que o tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa. Assim, houve manifestação sobre o tema, só que de forma contrária à pretensão do recorrente, o que não caracteriza nenhum dos vícios do art. 535 do CPC/73 (ART. 1.022 do NCPC).
+(2, 3 e 4) Do art. 98 do NCPC
+No caso, conforme trecho acima transcrito, o tribunal de origem concluiu que, se tratando de processo de inventário, o espólio é o responsável pelo pagamento das despesas processuais.
+Esse fundamento não foi devidamente impugnado, o que atrai a incidência do enunciado 283 da Súmula do STF.
+ Assim, no caso, desinfluente a análise da hipossuficiência financeira do ora recorrente.
+(5) Do dissídio jurisprudencial
+No que se refere à divergência jurisprudencial a respeito da alegada negativa de prestação jurisdicional, esta Corte já manifestou que é inviável a análise de eventual similitude fática entre decisões divergentes proferidas em embargos de declaração, por não poder comparar situações em que foi constatada omissão ou obscuridade com outras em que não foi, pois cada processo é único e sua análise depende das peculiaridades de cada caso. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL SOBRE O ART. 535 DO CPC DE 1973. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE FÁTICA. 1. A ausência de cotejo analítico impede o conhecimento do alegado dissídio jurisprudencial. 2. Observa-se que "não cabe invocar dissídio jurisprudencial sobre violação do art. 535, I e II, do CPC, pois tal violação é examinada caso a caso, consoante já decidiu a Corte Especial do STJ (AgRg nos EREsp 1.297.932/MG, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, DJe 23/9/2013)" (AgRg no AREsp 522.277/MG, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 04/09/2014, DJe 15/09/2014). 3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 900.851/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 4/8/2016, DJe de 9/8/2016).
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) (e-STJ, fls. 590/592).
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, considerando anterior advertência quanto à incidência das normas do NCPC, inclusive no que tange ao cabimento de multa, e verificado o caráter protelatório dos presentes embargos de declaração, condeno [NOME] ao pagamento da multa de 2% sobre o valor atualizado da causa em favor de ALEXANDRE e outros, nos termos do art. 1.026, § 2º, do NCPC.
+Nessas condições, REJEITO os embargos de declaração, com aplicação de multa. PP
+Publique-se. Intimem-se.
