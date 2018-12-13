@@ -1,0 +1,42 @@
+EMENTA
+TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO IPRJ E DA CSLL. EMPRESA OPTANTE DO LUCRO PRESUMIDO. IMPOSSIBILIDADE.
+1. O ICMS compõe a base de cálculo do IRPJ e da CSLL para os optantes da tributação pelo lucro presumido. Precedentes da Segunda Turma do STJ: REsp 1.766.835/RS, Rel. Min. Herman Benjamin, Data do julgamento 16.10.2018; AgRg no REsp 1.522.729/RN, Rel. Min. Assusete Magalhães, DJe 16.9.2015; AgRg no REsp 1.495.699/CE, Rel. Min. Og Fernandes, DJe 26.6.2015; AgRg no REsp 1.420.119/PR, Rel. Min. Mauro Campbell Marques, DJe 23.4.2014.
+2. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial (art. 105, III, "b" e "c", da Constituição Federal) interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IRPJ E DA CSLL. AFERIÇÃO DA BASE DE CÁLCULO COM BASE NO LUCRO PRESUMIDO. CABIMENTO.
+1. Desde que estejam presentes determinados requisitos, a aferição do imposto de renda da pessoa jurídica, com base no lucro presumido, constitui-se em opção do contribuinte e consiste na aplicação de um percetual de 8% sobre a receita bruta, sem necessidade de observância dos procedimentos contábeis estabelecidos na legislação comercial e na legislação fiscal, e sem a necessidade de comprovação efetiva das deduções.
+2. Diferente é o caso da apuração com base no lucro real, em que as deduções todas devem ser comprovadas, inclusive a dedução do valor efetivo do ICMS.
+3. Quando se arbitra o lucro presumido como um percentual da receita bruta, presume-se que já foram consideradas, nessa fórmula, todas as possíveis deduções da receita bruta, como os impostos incidentes sobre as vendas (dentre os quais se inclui o ICMS), o custo das mercadorias ou serviços vendidos, as despesas administrativas, as despesas financeiras etc.
+4. Caso se admitisse a dedução do ICMS da receita bruta, para fins de aferição da base de cálculo do imposto de renda da pessoa jurídica, pelo critério do lucro presumido, ter-se-ia a dupla contagem da mesma dedução, o que implicaria na desfiguração do sistema de aferição do imposto de renda com base no chamado lucro presumido, pois o transformaria em um sistema misto.
+5. O mesmo raciocínio é válido, mutatis mutandis, para a aferição de sua contribuição social sobre o lucro líquido, com base no lucro presumido.
+6. Assim, não é cabível a exclusão do ICMS da base de cálculo do IRPJ e da CSLL, no caso de empresas tributadas pelo lucro presumido.
+Não foram opostos embargos de declaração.
+A parte recorrente alega, em breve síntese, violação dos arts. 43 e 110 do CTN; 219 do Decreto 3.000/1999; 2º da Lei 7.689/1988. Sustenta: "evidente que a base de cálculo do IRPJ e da CSLL não pode extravasar, sob o ângulo do faturamento, o valor do negócio, ou seja, a parcela percebida com a operação da empresa. Assim, não há que se falar na possibilidade de inclusão do ICMS na base de cálculo do IRPJ e da CSLL sob pena de incluir item que não se trata de receita, e que acaba por deformar o conceito de faturamento sobre o qual será efetuado o cálculo da tributação da empresa".
+Contrarrazões apresentadas às fls. 246-252, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8.11.2018.
+A irresignação não merece acolhida.
+A conclusão adotada no acórdão hostilizado encontra ampla ressonância na jurisprudência da Segunda Turma do STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO IPRJ E DA CSLL. EMPRESA OPTANTE DO LUCRO PRESUMIDO. IMPOSSIBILIDADE.
+1. O ICMS compõe a base de cálculo do IRPJ e da CSLL para os optantes da tributação pelo lucro presumido. Precedentes da Segunda Turma do STJ: AgRg no REsp 1.522.729/RN, Rel. Ministra Assusete Magalhães, DJe 16.9.2015 e AgRg no REsp 1.495.699/CE, Rel. Ministro Og Fernandes, DJe 26.6.2015.
+2. Recurso Especial não provido. (REsp 1.766.835/RS, Rel. Min. Herman Benjamin, Segunda Turma, Data do julgamento 16.10.2018)
+TRIBUTÁRIO. ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. EMPRESA SUJEITA À TRIBUTAÇÃO PELO LUCRO PRESUMIDO. LEGALIDADE. ORIENTAÇÃO CONSOLIDADA NO ÂMBITO DA SEGUNDA TURMA DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na forma da jurisprudência, "a Segunda Turma desta Corte possui o entendimento firmado de que o ICMS deve compor as bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido. Para afastar tal incidência, a opção do contribuinte deve ser pelo regime de tributação com base no lucro real, situação permitida nos termos do art. 41 da Lei n. 8.981/95 e art. 344 do RIR/99" (STJ, AgRg no REsp 1.495.699/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/06/2015).
+II. Agravo Regimental improvido. (AgRg no REsp 1.522.729/RN, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 16.9.2015)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IRPJ E CSLL. EMPRESA OPTANTE PELO LUCRO PRESUMIDO. BASE DE CÁLCULO. ICMS. INCLUSÃO. CONCEITO DE RECEITA BRUTA E FATURAMENTO. MATÉRIA CONSTITUCIONAL.
+1. A Segunda Turma desta Corte possui o entendimento firmado de que o ICMS deve compor as bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido. Para afastar tal incidência, a opção do contribuinte deve ser pelo regime de tributação com base no lucro real, situação permitida nos termos do art. 41 da Lei n. 8.981/95 e art. 344 do RIR/99.
+2. "Segundo a jurisprudência majoritária desta Corte, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado nesta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgRg no REsp 1.505.664/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe 9/3/2015).
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.495.699/CE, Rel. Min. Og Fernandes, Segunda Turma, DJe 26.6.2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSTO DE RENDA DA PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. LUCRO PRESUMIDO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO. POSSIBILIDADE. APLICAÇÃO DO ART. 31 DA LEI N. 8.981/95.
+1. O contribuinte de direito do ICMS quando recebe o preço pela mercadoria ou serviço vendidos o recebe integralmente, ou seja, o recebe como receita sua o valor da mercadoria ou serviço somado ao valor do ICMS (valor total da operação). Esse valor, por se tratar de produto da venda dos bens, transita pela sua contabilidade como "receita bruta", assim conceituada pela legislação que apura o IRPJ e a CSLL pelo lucro presumido, notadamente o art. 31, da Lei n. 8.981/95 e o art. 279, do RIR/99 (Decreto n. 3.000/99).
+2. A "receita bruta" desfalcada dos valores correspondentes aos impostos incidentes sobre vendas (v.g. ICMS) forma a denominada "receita líquida", que com a "receita bruta" não se confunde, a teor do art. 12, §1º, do Decreto-Lei nº 1.598, de 1977 e art. 280 do RIR/99 (Decreto n. 3.000/99).
+3. As bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido têm por parâmetro a aplicação de determinado percentual sobre a "receita bruta" e não sobre a "receita líquida". Quisera o contribuinte deduzir os tributos pagos, no caso o ICMS, deveria ter feito a opção pelo regime de tributação com base no lucro real, onde tal é possível, a teor do art. 41, da Lei n. 8.981/95 e art. 344 do RIR/99 (Decreto n. 3.000/99). Precedente: REsp. Nº 1.312.024 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.05.2013.
+4. "Não é possível para a empresa alegar em juízo que é optante pelo lucro presumido para em seguida exigir as benesses a que teria direito no regime de lucro real, mesclando os regimes de apuração" (AgRg nos EDcl no AgRg no AG nº 1.105.816 - PR, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.12.2010).
+5. Agravo regimental não provido. (AgRg no REsp 1.420.119/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 23.4.2014)
+Diante do exposto, nego provimento ao Recurso Especial.
+É como voto.
