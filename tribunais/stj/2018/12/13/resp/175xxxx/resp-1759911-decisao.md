@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE ANÁLISE. INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do Tribunal a quo, assim ementado:
+CONTRIBUIÇÃO PREVIDENCIÁRIA. PRESCRIÇÃO. REMUNERAÇÃO PAGA PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO POR MOTIVO DE DOENÇA. NÃO INCIDÊNCIA.
+No apelo especial, o recorrente alega violação ao art. 21, paragrafo único, do CPC/1973. Pugna, em sintese, pelo reconhecimento de sucumbência reciproca.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 486-487.
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+Registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Com efeito, quanto à sucumbência recíproca, a jurisprudência desta Corte firmou entendimento no sentido de que aferir a proporção do decaimento de cada parte, para concluir pela ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento do acervo probatório, providência incompatível com a via eleita, a teor da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. De outro lado, observa-se que o Tribunal de origem não se afastou da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que a Lei nº 9.717/1998 prevalece sobre a norma que regulamenta o regime próprio dos servidores públicos estaduais, devendo ser reconhecido o direito de pensão por morte até os 21 anos, conforme previsto na Lei n. 8.213/1991.
+3. No tocante aos honorários advocatícios, importa mencionar que a jurisprudência desta Corte firmou entendimento no sentido de que aferir a proporção do decaimento de cada parte, para concluir pela ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento do acervo probatório, providência incompatível com a via eleita, a teor da Súmula 7/STJ.
+4. Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXAME MONOCRÁTICO. POSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. AFERIÇÃO. MATÉRIA FÁTICA. EXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF.
+1 - O exame monocrático do agravo em recurso especial em questão encontra respaldo no artigo 932, III, do CPC, segundo o qual incumbe ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+2 - A jurisprudência deste Superior Tribunal firmou entendimento no sentido de que aferir a proporção do decaimento de cada parte, para concluir pela ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento do acervo probatório, providência incompatível com a via eleita, a teor da Súmula 7/STJ.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1157707/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. IMPOSSIBILIDADE. VALOR ARBITRADO EM PATAMAR RAZOÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE ANÁLISE. INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, o que não é o caso dos autos.
+2. O entendimento do STJ é no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, vedado pela Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1013012/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/03/2018, DJe 14/03/2018)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DA UNIÃO A QUE SE DÁ PROVIMENTO.
+1. A jurisprudência do STJ firmou entendimento de não ser possível, em sede de Recurso Especial, nem a revisão do percentual de honorários de advogado fixado nas instâncias ordinárias, ressalvadas as hipóteses de arbitramento em valores ínfimos ou exorbitantes, tampouco a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, o que é vedado, nos termos da Súmula 7/STJ (AgRg no AREsp. 491.633/RJ, Rel. Min. OG FERNANDES, DJe 25.6.2014).
+2. Agravo Regimental da União provido para negar provimento ao Agravo em Recurso Especial dos exequentes.
+(AgRg nos EDcl no AREsp 354.301/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 06/03/2018, DJe 04/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 28 DA LEI N. 3.765/60 E ART. 406 DO CÓDIGO CIVIL COMBINADO COM ART. 161, § 1º. DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA DA SÚMULA N. 211/STJ. HONORÁRIOS RECURSAIS. SUCUMBÊNCIA RECÍPROCA. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ. III - In casu, rever o entendimento do Tribunal de origem, que consignou configurada a sucumbência recíproca, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1441262/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
