@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL — INTERPRETAÇÃO — INVIABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro concedeu a segurança no tocante ao pagamento de diferenças salariais. No extraordinário, o recorrente aponta violados os artigos 37, cabeça e incisos X e XIV, 39, § 1º, 61, § 1º, inciso II, alínea ‘a’, 63, inciso I, 93, inciso IX, e 169, § 1º, da Constituição Federal. Aponta a a impossibilidade de o Poder Judiciário agir como legislador positivo para conceder aumento ao servidor a título de isonomia.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trecho:
+    A Lei Municipal nº 050/1991 prevê, além do vencimento, o pagamento aos servidores do Município de São Gonçalo de algumas vantagens, dentre elas, o adicional de desempenho de função, apontado no art. 62, inciso XVI. Em seguida, a pretexto de regulamentar tal dispositivo legal, o ente fazendário editou a Lei Municipal nº 478/12, a qual passou a dispor que a concessão da vantagem pretendida dependeria apenas de autorização da chefia imediata, nos termos do art. 2º ...
+    A corroborar, os comprovantes de pagamento de fls. 14/21 demonstram que a parcela é paga indistintamente aos servidores, independente da função por eles exercidas. Aliás, a própria Municipalidade, no parecer de fls. 09 do anexo, reconhece que a vantagem não teve o seu fato gerador delineado até hoje e que o seu repasse é feito em seu patamar máximo a todos os servidores do ente municipal. Há, inclusive, ante o reconhecimento da natureza genérica do adicional, sugestão de incidência de contribuição previdenciária sobre a referida verba. Resta evidente, portanto, que a gratificação constitui aumento de caráter geral e impessoal.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, o Tribunal de origem decidiu a partir de interpretação conferida a normas locais. Procedeu à análise das Leis municipais nº 050/1991 e nº 478/2012. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 13 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
