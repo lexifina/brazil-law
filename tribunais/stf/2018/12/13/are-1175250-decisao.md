@@ -1,0 +1,13 @@
+DECISÃO: O presente agravo foi interposto contra decisão que negou trânsito ao recurso extraordinário adesivo deduzido por Paulo Roberto de Oliveira, Hideraldo Gomes, Oseas Ramos da Silva e José Roberto Baião Passamai.
+    Cumpre ter presente, desde logo, que o recurso adesivo mantém estrita relação de dependência jurídico-processual com o recurso principal, a este ficando subordinado (CPC/73, art. 500, “caput”, vigente à época da interposição do apelo extremo), de tal modo que não será conhecido, se o recurso extraordinário principal for declarado inadmissível (CPC/73, art. 500, III).
+    Isso significa, portanto, que, consoante adverte JOSÉ CARLOS BARBOSA MOREIRA (“Comentários ao Código de Processo Civil”, vol. V/319, item n. 176, 8ª ed., 1999, Forense) – o recurso adesivo “sempre se subordinará (...) à sorte do principal”, eis que “inexiste, no direito pátrio, modalidade autônoma de adesão”.
+    Impende registrar, na linha desse entendimento, que o eminente Vice-Presidente do Tribunal “a quo”, ao proferir o juízo de admissibilidade do apelo extremo adesivo deduzido nestes autos, bem analisou o não cabimento, no caso, do recurso adesivo, valendo transcrever, por oportuno, o seguinte fragmento de sua decisão:
+    “’In casu’, nota-se que os réus valeram-se de Recurso Extraordinário em adesão a Recurso Especial principal. Esta adesão, entretanto, apresenta-se como hipótese manifestamente incabível, eis que os recursos Especial e Extraordinário são manuseados sob a égide de matérias distintas; sendo o primeiro com fulcro em matéria infraconstitucional e o segundo alicerçado em dispositivo constitucional.
+    Em sentido convergente ao exposto, de bom alvitre ressaltar as brilhantes lições confeccionadas pelo mestre Araken de Assis. ‘In verbis’, o autor prolata:
+    ‘A adesão ao recurso extraordinário atenderá às restrições inerentes ao remédio. Dependerá da caracterização, no provimento impugnado, da presença de outra questão constitucional, mas resolvida desfavoravelmente à parte que almeja aderir ao recurso principal. Por óbvio, não cabe ao recorrido interpor recurso especial adesivo ao recurso extraordinário principal, ou vice-versa, porque recursos fundados em questões diferentes.’ (ASSIS, Araken de. Manual dos Recursos. Editora Revista dos Tribunais, 7ª edição. São Paulo, 2015. Pgs. 805 a 806). (...).”
+    Vê-se, portanto, que o apelo extremo adesivo interposto pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministro CELSO DE MELLO
+Relator
