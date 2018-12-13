@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE DE DROGA. QUINHENTOS E CINQUENTA GRAMAS DE MACONHA. AUSÊNCIA DE ILEGALIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão exarada pelo Tribunal de Justiça do Estado do Pará, que inadmitiu o processamento do recurso especial interposto com fulcro no art. 105, inciso III, alínea a, da Constituição da República na Apelação Criminal n.º 2012.3.018778-9.
+Consta dos autos que o Agravante foi condenado à pena de 7 (sete) anos de reclusão, em regime inicial fechado, além do pagamento de 700 (setecentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n.º 11.343/2006, pois surpreendido na posse de 550g (quinhentos e cinquenta gramas) de maconha.
+Diante disso, a Defesa interpôs apelação criminal perante o Tribunal local que, por sua vez, deu parcial provimento ao recurso para reduzir a pena do Acusado para 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, além do pagamento de 550 (quinhentos e cinquenta) dias-multa.
+Seguiu-se recurso especial interposto por [NOME], em que sustenta ofensa ao art. 59 do Código Penal. Argumenta que a pena-base não poderia ter sido fixada acima do mínimo legal em razão da quantidade de droga apreendida.
+Aduz o seguinte: " ..  se a referida circunstância é desfavorável pela própria natureza da infração, ou seja, pelo fato do réu ter sido encontrado com certa quantidade de droga, tal argumento não pode exasperar a pena base, pois está inerente ao próprio tipo penal" (fl. 141).
+O recurso especial não foi admitido pela Corte a quo (fls. 160-163), daí a interposição do presente agravo (fls. 171-175).
+O Ministério Público Federal manifestou-se às fls. 205-206, opinando pelo provimento do agravo.
+É o relatório. Decido.
+A título de elucidação, transcrevo os fundamentos utilizados pelo Tribunal de Justiça do Estado do Pará para fixar a pena-base acima do mínimo legal (fl. 126; grifos diversos do original):
+"Logo, a fixação da pena-base acima do mínimo legal, isto é, 07 (sete) anos de reclusão e 700 (setecentos) dias-multa, mostra-se desproporcional e irrazoável, se levado em consideração que apenas as circunstâncias em que o delito foi praticado, de fato, lhe pesam desfavoravelmente, sobretudo em virtude da quantidade da substância entorpecente encontrada com o apelante, quais sejam 550g (quinhentos e cinquenta gramas) de maconha, parte em erva seca e parte em erva prensada.
+Assim, certo que apenas uma das circunstâncias judiciais pesam de forma desfavorável ao apelante, mostra-se razoável o redimensionamento, de ofício, da sua sanção base, fixando-a pouco acima do patamar mínimo legal, em 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa."
+É certo que o Julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime, além das próprias elementares comuns ao tipo.
+Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o Magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra implica ofensa ao preceito contido no art. 93, inciso IX, da Constituição da República.
+O Tribunal de origem manteve apenas a valoração negativa da circunstância preponderante referente à quantidade de droga, nos termos do art. 42 da Lei n.º 11.343/2006. De fato, no caso, trata-se da apreensão de 550g (quinhentos e cinquenta gramas) de maconha, o que é suficiente para justificar a majoração da pena-base empreendida pela Corte estadual.
+Menciono os seguintes precedentes prolatados em situações semelhantes:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. NÍTIDO CARÁTER INFRINGENTE. IMPUGNAÇÃO EM FACE DE INDEFERIMENTO DE LIMINAR. DECISÃO FUNDAMENTADA. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+ ..
+3. A pretensão de fixação do regime semiaberto não foi formulada na petição inicial do writ, inexistindo, pois, falar em omissão da decisão embargada. Não bastasse, observa-se que foram apreendidos 274 gramas de maconha, quantidade, a princípio, idônea ao agravamento da pena-base e, por igual, nos termos do § 3º do art. 33 do CP, à imposição de regime inicial de cumprimento de pena mais severo.
+4. Embargos de declaração recebidos como agravo regimental não conhecido." (EDcl no HC 437.212/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PACIENTE CONDENADO À SANÇÃO CORPORAL TOTAL DE 6 ANOS E 3 MESES DE RECLUSÃO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE DA DROGA APREENDIDA E PRESENÇA DE MAUS ANTECEDENTES. POSSIBILIDADE. INTELIGÊNCIA DO ART. 42 DA LEI N. 11.434/2006 E DO ART. 59 DO CP. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- No caso, observa-se que a pena-base do delito de tráfico de entorpecentes afastou-se do mínimo legal com base na quantidade da droga apreendida (442,9 gramas de maconha) e na vasta lista de antecedentes do acusado, não havendo qualquer ilegalidade a ser sanada, pois o acréscimo de 1/4 à pena basilar encontra-se proporcional e baseado em elementos concretos, devendo ser mantido em respeito à discricionariedade do julgador.
+ ..
+- Habeas corpus não conhecido." (HC 309.114/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/09/2016, DJe 06/09/2016; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
