@@ -1,0 +1,16 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0002059-42.2016.8.26.0602.
+Busca a defesa a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos ao réu condenado à pena de 1 ano e 8 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Deferida a liminar e dispensadas as informações, o Ministério Público Federal opinou pela concessão da ordem de ofício.
+Decido.
+I. Abrandamento do regime
+Na hipótese, observo que o acusado era primário ao tempo do delito, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão e agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional" e teve o regime mais gravoso fixado por ser o "único compatível com a gravidade do delito perpetrado, circunstância essa que reclama o tratamento mais rigoroso conferido pelo legislador" (fl. 34).
+Imperioso salientar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), cabe destacar que a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Além disso, observo que o montante de substâncias encontrado com o réu não foi excessivamente elevado (109,57 g de maconha).
+Com base nessas premissas, entendo que o regime aberto é, de fato, o que se mostra o mais adequado para a prevenção e a repressão do delito praticado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+II. Substituição da pena privativa de liberdade por restritiva de direitos
+Pelas mesmas razões, concluo que a substituição da pena é medida socialmente recomendada, máxime porque a quantidade de substância entorpecente apreendida não foi elevada (109,57 g de maconha).
+Diante da favorabilidade das circunstâncias previstas no art. 59 do Código Penal - tanto que a pena-base foi fixada no mínimo legal -, constato a violação do art. 44, III, do Código Penal, de modo que deve ser substituída a reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser definidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem a fim de fixar o regime inicial aberto para o cumprimento da pena privativa de liberdade e determinar a sua substituição por duas medidas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo da Execução.
+Publique-se e intimem-se.
