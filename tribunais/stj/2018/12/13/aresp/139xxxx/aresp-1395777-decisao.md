@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DECISÃO DE INADMISSÃO DE ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado do Ceará que negou admissibilidade a recurso contra acórdão assim ementado (fl. 1.126):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL EM AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. [NOME]. POLICIAL MILITAR ESTADUAL. PROCESSO ADMINISTRATIVO DISCIPLINAR INSTAURADO EM FACE DE PRISÃO EM FLAGRANTE POR PORTE ILEGAL DE ARMA DE FOGO E OUTROS DELITOS. PENA DE DEMISSÃO. PODER DISCIPLINAR. CONTROLE JUDICIAL. POSSIBILIDADE EM TESE. AUSÊNCIA DE INDICAÇÃO MINUCIOSA DOS FATOS INVESTIGADOS E CAPITULAÇÃO NA PORTARIA INAUGURAL. DESNECESSIDADE. NULIDADE NÃO CONFIGURADA. COMPETÊNCIA DO COMANDANTE GERAL DA CORPORAÇÃO MILITAR PARA APLICAÇÃO DE SANÇÃO ADMINISTRATIVA AOS MILITARES ESTADUAIS. INTELIGÊNCIA DOS ARTS. 4º, DA LEI ESTADUAL Nº 10.280/79 E 31, DA LEI ESTADUAL Nº 13.407/2003. TESE DE VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL EM FACE DA COMPOSIÇÃO DOS MEMBROS DA COMISSÃO PROCESSANTE REJEITADA DIANTE DA AUSÊNCIA DE COMPROVAÇÃO DE QUALQUER PREJUÍZO OU DANO À DEFESA DO SERVIDOR. INCIDÊNCIA DO BROCADO "PAS DE NULLITÉ SANS GRIEF". DECISÃO ADMINISTRATIVA AMPLAMENTE FUNDAMENTADA. PENALIZAÇÃO COERENTE COM A GRAVIDADE DAS CONDUTAS IMPUTADAS AO SERVIDOR. RESPEITO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. PRECEDENTES STF. STJ. E TJCE. IMPROCEDÊNCIA MANTIDA. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração apresentados na origem foram rejeitados.
+Nas razões do especial, o recorrente defende violação do art. 489 do CPC/2015 porque o Tribunal de origem deixou de analisar todas as questões relacionadas a incompetência do Comandante da PM e a perda do objeto apuratório em face da absolvição criminal.
+Contrarrazões às fls. 1.142/1.168.
+A Corte de origem não admitiu o especial por falta de prequestionamento.
+Em agravo, o recorrente defendeu, novamente, as teses presentes no recurso especial quanto à ausência de exame de questões essenciais ao deslinde da controvérsia.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão que inadmitiu o recurso especial afirmou que as teses recursais não foram prequestionadas. Contudo, esse fundamento não foi impugnado de modo adequado no presente agravo.
+Aplica-se o disposto no art. 544, § 4º, I, do CPC (com redação dada pela Lei 12.322/2010), c/c o princípio estabelecido na Súm. n. 182/STJ (por analogia), os quais determinam o não conhecimento do agravo que não ataca especificamente os fundamentos da decisão agravada. Nesse sentido, entre outros, destaca-se o seguinte precedente desta Corte: AgRg no AREsp 247.759/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 06/05/2013.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
