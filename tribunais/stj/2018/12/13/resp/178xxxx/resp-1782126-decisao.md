@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO DE INSTRUMENTO  EXECUÇÃO DE SENTENÇA NOS AUTOS DO MANDADO DE SEGURANÇA nº 0010637-12.2004.8.26.0053 ASSISTÊNCIA JUDICIÁRIA - Indeferimento do benefício  Manutenção do decisum - Litisconsórcio ativo integrado por cinqüenta (50) coautores - Rateio de custas que não pode ser considerado exorbitante, seja sob o ponto de vista econômico ou da contraprestação do serviço - Ausência de comprovação da alegada hipossuficiência.
+HONORÁRIOS ADVOCATÍCIOS  Pretensão ao arbitramento de honorários advocatícios em sede de execução de sentença proferida em mandado de segurança coletivo  Descabimento  Inexistência, por ora, de impugnação por parte da FESP - Exegese do artigo 85, parágrafo 7", do NCPC - Decisão mantida  Recurso improvido.
+Os Embargos de Declaração opostos foram rejeitados.
+Nas razões do apelo especial, a parte insurgente aponta contrariedade aos arts. 85, caput, §§1º e §2º, e 98 do CPC/2015 e à Súmula 345/STJ. Alega, em síntese, que "deve ser fixada verba honorária nas Habilitações, por força do artigo 85, caput e §§ 1º e 2º, do Código de Processo Civil, pois, no caso, os honorários são devidos pelo fato de que os recorrentes foram obrigados a se habilitar nos autos do Mandado de Segurança Coletivo para provarem a titularidade do direito e executarem as parcelas que lhes são devidas." (fl. 91, e-STJ).
+Sem contrarrazões.
+É relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 22 de novembro de 2018.
+O Tribunal de origem, ao afastar o pedido de assistência judiciária gratuita, assim se pronunciou sobre a controvérsia:
+No caso vertente, os agravantes, funcionários públicos dos quadros do Magistério Estadual, litigam com a Fazenda do Estado em litisconsórcio ativo que envolve cinquenta (50) coautores. Os autores deram à causa o valor de R$ 126.049,67 ( cento e vinte e seis mil seiscentos e onze reais e cinquenta e um centavos) o que redunda em custas iniciais no patamar de R$ 1.260,49 (mil, duzentos e sessenta reais e quarenta e nove centavos). Rateado esse valor, cada litisconsorte arcará com o pagamento do montante de R$ 25,20 (vinte e cinco reais e vinte centavos), o que, data máxima vênia, não se mostra incompatível com os rendimentos mensais percebidos pelos exequentes, ora agravantes.
+Não altera esse quadro a existência de novas despesas e custas processuais, pois o valor da causa e o número de litisconsortes, parâmetros para cobrança e rateio desses gastos, permanecem inalterados no curso da causa. Logo, não há falar em insuficiência econômica.
+Desse modo, o indeferimento se fez necessário, pois se deve aplicar corretamente a lei a fim de evitar prejuízo aos que realmente dela fazem jus. Claro que não se exige miserabilidade absoluta, mas a comprovação cabal da incapacidade do pagamento, fato esse não comprovado nestes autos.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatórios, providência vedada em Recurso Especial, consoante o óbice previsto na Súmula 7/STJ.
+No mais, é de se constatar que o acórdão recorrido destoa da jurisprudência pacífica do STJ no sentido de que são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em Ações Coletivas, ainda que não embargadas, conforme determina a Súmula 345/STJ, in verbis: "São devidos os honorários advocatícios pela Fazenda Pública nas Execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+Ressalto que essa orientação jurisprudencial também deve ser aplicada em Execução de Mandado de Segurança Coletivo.
+Confiram-se:
+ADMINISTRATIVO. RECURSO FUNDADO NO CPC/73. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO JUDICIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. HONORÁRIOS ADVOCATÍCIOS.
+1. A jurisprudência pacífica desta Corte Superior é no sentido de que "nas execuções individuais procedentes de sentença genérica prolatada em ação coletiva promovida por sindicato ou entidade de classe, é cabível a condenação da Fazenda Pública ao pagamento de honorários advocatícios, ainda que não embargada a execução. Esse entendimento encontra-se cristalizado no enunciado 345 da Súmula deste Tribunal Superior, in verbis: "São devidos os honorários advocatícios pela Fazenda Pública nas Execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas" (AgRg no AREsp 48.204/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/11/2011, DJe 23/11/2011). Ainda na linha de nossa jurisprudência, esse entendimento também deve ser aplicado em execução de mandado de segurança coletivo. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1236023/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/08/2018, DJe 09/08/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS. CABIMENTO. SÚMULA 345/STJ.
+1. De acordo com o enunciado da Súmula 345/STJ, "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte, razão pela qual não merece reforma.
+3. Agravo Interno não provido.
+(AgInt no AREsp 919.265/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2016, DJe 01/02/2017),
+Ante o exposto, dou parcial provimento ao Recurso Especial para reconhecer como devida a verba honorária na Execução, que deverá ser fixada pela Corte de origem.
+Publique-se. Intimem-se.
