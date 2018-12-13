@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO DUPLAMENTE MAJORADO. NEGATIVA DE AUTORIA. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. MEDIDAS ALTERNATIVAS. INADEQUAÇÃO. HABEAS CORPUS DENEGADO.
+1. No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a autoria delitiva.
+2. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na gravidade do delito, pois observa-se que houve grave ameaça com emprego de arma de fogo e concurso de pessoas, o que revela a alta periculosidade do agente e a necessidade da prisão como garantia da ordem pública, não há que se falar em ilegalidade do decreto de prisão preventiva.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de [NOME] e [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que denegou o writ de origem, por acórdão que foi assim ementado (fl. 30):
+ROUBO MAJORADO E ASSOCIAÇÃO CRIMINOSA (artigos 157, § 2º, incisos I, II e V, e 288, parágrafo único, ambos do Código Penal). Prisão em flagrante convertida em preventiva. Revogação. Inadmissibilidade. Hipótese em que existem indícios de que os pacientes estão envolvidos nos crimes a eles imputados. Requisitos da prisão preventiva presentes. Necessidade de manutenção da custódia cautelar para garantia da ordem pública. Decisões suficientemente fundamentadas. Ausência de constrangimento ilegal. Ordem denegada.
+Consta dos autos que os pacientes tiveram a prisão preventiva decretada e foram denunciados pela prática dos crimes tipificados nos arts. 157, §2º, incisos I, II e V, e 288, parágrafo único, todos do Código Penal, porque subtraíram, para si, mediante grave ameaça exercida com emprego de arma e restringindo a liberdade das vítimas, coisas alheias móveis, consistindo em 01 (um) caminhão VW/17.250 CNC de placas BWJ 4865/Itaju/SP carregado com carga frigorífica, avaliada em R$ 5.000.000,00 (cinco milhões de reais), pertencente a ALUGA LOG TRANSPORTE DE ALIMENTOS; 01 (um) aparelho celular da marca LG e a quantia de R$ R$ 100,00 (cem reais) pertencentes a [NOME] e 01 (um) aparelho celular da marca Samsung e a quantia de R$ 30,00 (trinta reais) pertencentes a [NOME] (fl. 51).
+No presente writ, o impetrante aponta a ausência de indício suficiente de autoria, argumentando que a única prova que sustentava o decreto prisional tratava-se de reconhecimento feito pela vítima [NOME] que, em 28/7/2018, firmou declaração em cartório asseverando que não procedeu ao reconhecimento dos pacientes, bem como que nada de ilícito foi apreendido com os pacientes.
+Sustenta que não foi demonstrado o periculum libertatis e que a gravidade do crime não constitui fundamento válido para prisão preventiva, além de asseverar que o paciente [NOME] encontra-se em local incerto e não sabido, sem que tenha notícia do cometimento de novos crimes e quanto à [NOME], aduz que a medida é desnecessária, pois foi preso em sua residência, não tendo demonstrado indício de fuga.
+Requer a concessão da ordem, para a revogação da prisão preventiva, ou a substituição por medidas cautelares alternativas.
+Indeferida a liminar e, prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Na origem, o processo n. 0010490-38.2018.8.26.0071 encontra-se na fase de apresentação de defesa prévia, que foi juntada no dia 30/8/2018, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 23/11/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+De todo modo, conforme consta da decisão de preventiva (fls. 49/50), "os indícios de autoria são robustos, porque duas das vítimas, [NOME] (fls. 13/14) e Wagner (fls. 90/92-A) reconheceram pessoalmente o investigado [NOME] como um dos autores do delito. Ainda, a vítima [NOME] reconheceu por fotografia [NOME] como outro autor do delito."
+Dessa forma, verifica-se que os indícios de autoria não se basearam apenas no reconhecimento feito pela vítima Laércio, assim, a sua declaração, de que não procedeu ao reconhecimento dos acusados, por si só, não afasta o indício da imputação do crime.
+Posto isso, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 49/50 - com destaques):
+Vistos
+Por primeiro, é de se considerar sobre a necessidade da decretação da prisão preventiva dos acusados segundo requerimento feito nesse sentido pela autoridade policial a fls. 120/126 e pelo Doutor Promotor de Justiça em sua manifestação de fls. 129/130.
+Trata-se de apuração de roubo majorado, com emprego de arma, crime doloso e punido com pena máxima superior a 04 anos, realmente existindo a necessidade de custódia cautelar dos acusados como única forma de manter a ordem pública sob controle, evitando outras ocorrências motivadas pela impunidade.
+Não se pode prejulgar quanto ao mérito, mas os indícios das participações dos investigados estão presentes.
+Como ponderado na decisão que decretou as prisões temporárias, havia, naquela oportunidade, fundadas razões de autoria.
+Agora, os indícios de autoria são robustos, porque duas das vítimas, [NOME] (fls. 13/14) e Wagner (fls. 90/92-A) reconheceram pessoalmente o investigado [NOME] como um dos autores do delito.
+Ainda, o vítima [NOME] reconheceu por fotografia [NOME] como outro autor do delito.
+Quando ouvido na fase policial, o acusado [NOME] optou por permanecer calado.
+O acusado [NOME] encontra-se em lugar incerto e não sabido.
+Assim, há indícios de participação do investigado nos crimes que lhe são imputados.
+A conduta é grave e expõe a sociedade a risco.
+Ademais, impõe-se adotar a medida extrema (prisão preventiva) também como forma de garantir a normal instrução processual porque, soltos, os investigados poderão intimidar as vítimas.
+Assente-se, de resto, que a gravidade do crime evidencia a periculosidade dos acusados e revela a inaptidão dele para o convívio social.
+Colocando tudo isso, DECRETO A PRISÃO PREVENTIVA de [NOME] [NOME] FELIX DE LIMA E [NOME] [NOME] [NOME], qualificado(a)(s) nos autos, nos termos dos artigos 311 e 312 e seguintes do Código de Processo Penal, a bem da ordem pública, devendo ser expedido, incontinenti, mandado de prisão contra ele(a)(s).
+Defiro na íntegra a cota retro do Ministério Público, dando-se, após, nova vista.
+Dê-se ciência à Defensoria Pública do Estado. .. .
+Como já adiantado no exame da liminar, o decreto prisional apresentou fundamentação na gravidade do crime de roubo duplamente majorado, apontando a necessidade da cautelar penal em face das circunstâncias majorantes da conduta delitiva, pois se trata "de apuração de roubo majorado, com emprego de arma, crime doloso e punido com pena máxima superior a 04 anos, realmente existindo a necessidade de custódia cautelar dos acusados como única forma de manter a ordem pública sob controle, evitando outras ocorrências motivadas pela impunidade".
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Assim, tem-se por idônea a fundamentação para a prisão preventiva.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS _ 5ª T. _ unânime _ Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) _ DJe 11/09/2015 e HC n. 313.977/AL _ 6ª T. _ unânime _ Rel. Min. Maria Thereza de Assis Moura _ DJe 16/03/2015.
+Ante o exposto, voto por denegar o habeas corpus.
