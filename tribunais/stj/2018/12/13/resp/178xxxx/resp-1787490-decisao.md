@@ -1,0 +1,5 @@
+DECISÃO
+As agravantes buscam a reforma da decisão de inadmissibilidade do recurso especial, no qual sustentem a tese de que o acórdão proferido na Apelação n. 0504770-14.2017.4.02.5101 violou os arts. 125 e 126 do CPP; 133,134, 136 e 137 do CPP; 4º da Lei n. 9.613/1998, 3º do Decreto-lei n. 3.240/1941; 59 e 91, I, do CP, 131 do CPP e 2º, § 1º, c/c o art. 6º do Decreto-Lei n. 3.240/1941; 136 e 137 do CPP.
+Os insurgentes explicam que a controvérsia é jurídica, pois pretendem discutir a impossibilidade do arresto de seus bens, no âmbito da Operação Fatura Exposta, uma vez que, como pessoas jurídicas, não são parte no processo penal. Afirmam que a Vice-Presidência do Tribunal a quo subtraiu a competência desta Corte, pois a existência (ou não) de contrariedade aos dispositivos federais apontados é matéria afeta ao próprio mérito do recurso. Ademais, não é correto falar em reexame de provas, pois não pretendem discutir a licitude dos bens atingidos.
+Dada a relevância do tema, ainda sem maior debate na jurisprudência, converto o agravo em recurso especial, para melhor exame da insurgência.
+Publique-se e intimem-se.
