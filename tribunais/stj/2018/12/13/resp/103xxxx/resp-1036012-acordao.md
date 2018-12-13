@@ -1,0 +1,38 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ISS. TRIBUTO INDIRETO. RECONHECIMENTO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA NA ORIGEM. INDEFERIMENTO DO PEDIDO DE RESTITUIÇÃO. PROVA DA NÃO REPERCUSSÃO DO ENCARGO FINANCEIRO. ART. 166 DO CTN. APELO NOBRE NÃO PROVIDO. MANUTENÇÃO DO ACÓRDÃO DA SEGUNDA TURMA.
+1. A recorrente sucumbiu apenas no pedido de repetição de indébito em decorrência da interpretação do art. 166 do CTN e do exame das provas produzidas nos autos, pelo que o acórdão proferido por esta Corte não conflita com a decisão meritória emanada do Supremo Tribunal Federal, no regime de repercussão geral (RE 626.706), em que se reconheceu a inconstitucionalidade da incidência do Imposto sobre Serviços de Qualquer Natureza (ISS) sobre operações de locação de bens móveis, dissociada da prestação de serviço.
+2. Juízo de retratação negativo, mantendo o aresto proferido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, em juízo de retratação negativo, mantendo-se o aresto proferido, negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Retornam os autos para julgamento por determinação da Vice-Presidência desta Corte.
+Trata-se de recurso especial interposto por BMG Leasing S.A. Arrendamento Mercantil contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+ISSQN. ARRENDAMENTO MERCANTIL. ITEM 79 DA LISTA ANEXA AO DEC-LEI 406/68. ILEGALIDADE. PRECEDENTE DO PLENÁRIO DO STF. De se reconhecer o direito da impetrante de não pagar e não sofrer retenção do ISSQN no arrendamento mercantil, por não configurar serviços e constituir mera obrigação de dar, não passível de tributação pelo referido imposto municipal. Inteligência do art. 155, III, da CF/88 e do art. 110 do CTN. Precedente do Plenário do Supremo Tribunal Federal (RE nº 116.121-3/SP). RESTITUIÇÃO DE INDÉBITO - PROVA DO PAGAMENTO INDEVIDO. ÔNUS DA AUTORA. Constitui documento indispensável ao ajuizamento da ação de repetição de indébito tributário a prova do pagamento indevido, com a juntada dos documentos públicos respectivos, quais sejam, as guias de recolhimento do tributo, devidamente quitadas. Inadmissível deixar a comprovação do recolhimento para liquidação de sentença.
+Em apertada síntese, a recorrente alega que, para se requerer a repetição do indébito, basta ao contribuinte comprovar o pagamento do tributo indevido. Pleiteia seja reconhecida a possibilidade de apurar-se o valor do indébito tributário por meio de liquidação de sentença.
+Nesta instância, a Segunda Turma, vencidos os Ministros Eliana Calmon e Humberto Martins, negou provimento ao recurso especial.
+Seguiu-se a interposição de recurso extraordinário e agravo em recurso extraordinário.
+Com o retorno dos autos da Suprema Corte, a Vice-Presidência encaminhou o feito à Turma para eventual juízo de retratação, consoante o art. 1.030, II, do Código de Processo Civil.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Neste recurso especial do particular, a discussão gira em torno apenas da exigência de juntada de documentos hábeis à comprovação de pagamento do ISS nos autos de ação declaratória combinada com a repetição de indébito julgada parcialmente procedente.
+A Segunda Turma negou provimento ao apelo nobre, em acórdão assim ementado:
+TRIBUTÁRIO. RECURSO ESPECIAL. ISS. ARRENDAMENTO MERCANTIL. BENS MÓVEIS. RESTITUIÇÃO. PROVA DA NÃO-REPERCUSSÃO DO ENCARGO FINANCEIRO. ART. 166 DO CTN.
+1. O ISS é espécie tributária que pode funcionar como tributo direto ou indireto, a depender da avaliação do caso concreto.
+2. Como regra, a base de cálculo do ISS é o preço do serviço, nos termos do art. 7º da Lei Complementar 116/2003, hipótese em que a exação assume a característica de tributo indireto, permitindo o repasse do encargo financeiro ao tomador do serviço.
+3. Tem-se como exceção o caso em que o ISS incide sobre a atividade de profissionais liberais, quando será cobrado em valor fixo.
+4. A hipótese dos autos não se enquadra na exceção, mas na regra geral, devendo o contribuinte fazer prova da não-repercussão do encargo financeiro do tributo, nos termos do art. 166 do CTN.
+5. Recurso especial não provido.
+Posteriormente, com a rejeição dos embargos de declaração opostos, a empresa recorrente interpôs recurso extraordinário. Este foi inadmitido, dando ensejo a agravo em recurso extraordinário.
+A Secretaria Judiciária do Supremo Tribunal Federal, à vista da Portaria GP 138/2009, devolveu os autos à origem mencionando o decidido no AI 766.684 (convertido no RE 626.706 - RG).
+E agora os autos voltam à Turma julgadora para fins do disposto no art. 1.030, II, do Código de Processo Civil.
+Não vejo possa falar em juízo de retratação.
+O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 626.706 - Repercussão Geral decidiu pela inconstitucionalidade da incidência do Imposto sobre Serviços de Qualquer Natureza (ISS) sobre operações de locação de bens móveis, dissociada da prestação de serviço.
+Ocorre que o presente propósito recursal diz respeito, não com o tributo em si, mas à necessidade de prova do devido, parafraseando a il. Ministra Eliana Calmon.
+É que a instância ordinária reconheceu a inexistência de relação jurídico-tributária entre a autora e a municipalidade no tocante à locação de bens móveis, mas indeferiu o pedido de restituição.
+E a Segunda Turma do STJ, acompanhando o voto vencedor do Ministro Castro Meira, asseverou que a exação assumia a característica de tributo indireto, devendo o contribuinte, para fins de restituição do ISS, fazer prova da não repercussão financeira do tributo, o que não ocorreu no caso.
+Em resumo, a recorrente sucumbiu apenas no pedido de repetição de indébito em decorrência da interpretação do art. 166 do CTN e do exame das provas produzidas nos autos, pelo que o acórdão proferido por esta Corte não conflita com a decisão meritória emanada do Supremo Tribunal Federal, no regime de repercussão geral.
+Com adaptações, vale conferir o seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ISS. LOCAÇÃO DE BENS MÓVEIS. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. OFENSA REFLEXA. TEMA 752. SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA. I - É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre operações de locação de bens móveis (Súmula Vinculante 31 do STF e Tema 212 - RE 626.706) II - A parte agravante sucumbiu apenas no pedido de repetição de indébito, em face da interpretação que o Tribunal de origem fez do art. 166 do CTN, e do exame das provas produzidas nos autos. III - O STF já afirmou, por se tratar de matéria infraconstitucional, a ausência de repercussão geral da controvérsia sobre a legitimidade para ajuizar, nos termos do art. 166 do CTN, ação de repetição de indébito. (Tema 752 - RE 753.681 RG). Incidência do óbice previsto na Súmula 279 do STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4º, do CPC).
+(RE 974325 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 28/10/2016, PROCESSO ELETRÔNICO DJe-243 DIVULG 16-11-2016 PUBLIC 17-11-2016)
+Ante o exposto, reitero o não provimento do recurso especial, mantendo o aresto proferido, com sugestão de remessa dos autos à Suprema Corte para análise do agravo em recurso extraordinário.
+É como voto.
