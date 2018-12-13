@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso especial, com pedido de liminar, impetrado em favor de EDERSON DUARTE DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, singularmente, não conheceu do agravo regimental interposto pela Defensoria Pública.
+No presente writ, a impetrante alega que "(..) a decisão monocrática proferida no Agravo em Execução, por ser prejudicial ao paciente, deu ensejo ao Agravo Regimental sob cotejo, interposto de forma a assegurar, a um só tempo, a submissão da matéria ao colegiado e o exercício da competência recursal inerente aos membros que compõem a Primeira Câmara Criminal, o que, diga-se, é a razão de ser deste instrumento recursal" (fl. 2, e-STJ).
+Requer, liminarmente e no mérito, a concessão da ordem para determinar que o Agravo Regimental n. [CPF], seja submetido a julgamento pelo colegiado da Primeira Câmara Criminal do Tribunal de origem.
+O pleito liminar foi indeferido (e-STJ, fl. 112).
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ, fls. 153/155).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça "julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios".
+Assim, é pressuposto de admissibilidade do apelo excepcional o esgotamento dos recursos cabíveis na instância ordinária, sob pena de incidência da Súmula n. 281/STF: "É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada".
+Na hipótese, verifica-se que, contra a decisão monocrática do relator que apreciou o agravo em execução do paciente, a Defensoria Pública interpôs o recurso cabível, qual seja, o agravo regimental previsto no § 1º do art. 233 do Regimento Interno do Tribunal de Justiça do Rio Grande do Sul: "a petição do agravo regimental será protocolada e submetida ao prolator da decisão administrativa, que poderá reconsiderá-la ou submeter o recurso a julgamento do órgão julgador competente, computando-se também o seu voto".
+Nesse contexto, para preservação do princípio da colegialidade, deveria o relator submeter ao agravo regimental interposto ao órgão colegiado competente, para fim, inclusive, de exaurimento de instância recursal, sem a qual o recurso especial estaria fadado à hipótese de não conhecimento.
+Em recente julgado (HC n. 440.219/RS), datado do dia 28/5/2018, foi concedida a ordem para determinar que houvesse o julgamento do Agravo Regimental perante o órgão colegiado do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Sobre o tema, confira-se este precedente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. RECURSO IMPROVIDO.
+1. A provocação da jurisdição de Corte Superior exige o prévio exaurimento da instância antecedente, de modo que correta a decisão que indeferiu liminarmente o habeas corpus que ataca decisão monocrática de relator não impugnada por recurso cabível.
+2. Caberia à defesa a interposição de agravo regimental, de modo a submeter a decisão singular à apreciação pelo órgão colegiado competente e não inaugurar, per saltum, a via recursal no Tribunal Superior.
+3. Ademais, não há se falar em superação da Súmula 691/STF, tendo em vista que o indeferimento liminar do writ não ocorreu com fundamento no citado enunciado sumular.
+4. Agravo regimental improvido" (AgRg no HC 417.354/PR, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 14/11/2017, DJe 24/11/2017.)
+Na presente hipótese, como descrito acima, a defesa interpôs o devido recurso de agravo regimental, a fim de que o órgão colegiado do Tribunal de origem se manifestasse acerca da controvérsia ventilada na origem.
+No entanto, o desembargador relator não conheceu do agravo de forma monocrática, sem submeter o feito ao órgão colegiado competente.
+Tal circunstância implica o reconhecimento de indevida negativa de prestação jurisdicional e impede o exaurimento da instância ordinária, criando óbice ao acesso às instâncias superiores, uma vez que inexistente o ato coator emanado de Tribunal sujeito à jurisdição do Superior Tribunal de Justiça, nos moldes do que exige o art. 105, I, "c", da Constituição Federal.
+Ante o exposto, não conheço do writ, entretanto, concedo a ordem de ofício para determinar que, a autoridade apontada como coatora, submeta o Agravo Regimental n. [CPF] a julgamento perante o órgão colegiado competente do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Publique-se. Intimem-se.
