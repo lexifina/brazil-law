@@ -1,0 +1,18 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. 25 TROUXINHAS DE MACONHA. ALEGAÇÃO DE EXCESSO NA PENA-BASE. REDIMENSIONAMENTO DA PENA POR ILEGALIDADE NA EXASPERAÇÃO. ABRANDAMENTO DO REGIME AO SEMIABERTO.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] (ou [NOME]), em que se aponta como autoridade coatora a Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo.
+Constou da denúncia terem sido encontrados, em uma calha, dois embrulhos com 25 trouxinhas de maconha. No Processo n. 0055343-14.2011.8.26.0222, o paciente foi absolvido em relação ao delito previsto no art. 35, caput, da Lei n. 11.343/2006 (fls. 23/39).
+Em sede de apelação, o Ministério Público pediu a condenação do paciente. A Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo deu provimento ao recurso para condená-lo, como incurso no crime de associação para o tráfico, à pena de 6 anos de reclusão, em regime fechado, e 1.400 dias-multa (fls. 23/39).
+No presente writ, busca o impetrante, em síntese, o reconhecimento expresso de que a associação para o tráfico é crime autônomo, portanto, de natureza comum; o reconhecimento da excessividade da pena aplicada e a falta de fundamentação e individualização; e, por fim, o abrandamento do regime de cumprimento da pena.
+Decisão deste Relator indeferindo a liminar (fls. 83/84).
+Parecer ministerial opinando pelo não conhecimento do writ (fls. 88/92).
+É o relatório.
+Inicialmente, verifica-se que existem alguns processos conexos: o HC n. 303.482/SP, que tem como paciente o corréu Robson, com recomendação ao Tribunal para que fosse dada celeridade ao julgamento da apelação; o AREsp n. 801.818/SP, já baixado na origem; o HC n. 361.937/SP, relativo aos corréus Rogerio e Osmar, em que a Sexta Turma concedeu a ordem a fim de redimensionar as suas penas, respectivamente, para 6 anos e 5 meses, e 5 anos e 6 meses, quanto ao delito de associação para o tráfico; e o HC n. 446.965/SP, em que foi concedida a ordem a fim de redimensionar a pena do corréu Maicon para 5 anos e 6 meses de reclusão.
+Quanto ao pedido de reexame da dosimetria, entendo que razão assiste à defesa. O crime de associação para o tráfico possui uma pena corporal que pode ser fixada entre 3 e 10 anos de reclusão. No caso, a Câmara Criminal fixou a pena-base em 6 anos de reclusão e 1.400 dias-multa, ou seja, considerou as disposições dos arts. 59 do Código Penal e 42 da Lei de Drogas, levando em conta a diversidade e a grande quantidade apreendida de drogas, 25 trouxinhas de maconha, a extensão do tráfico de drogas para cidades vizinhas, bem como o número de integrantes da associação.
+Com efeito, a fundamentação apresentada e a extensão do delito já fazem parte do próprio tipo penal de associação, mostrando-se, assim, razoável que seja considerada apenas a quantidade apreendida de drogas. Procedendo-se à elevação da pena-base em 1 ano de reclusão, essa deverá ser fixada em 4 anos de reclusão. Ao que consta dos autos, o paciente é primário, não tem antecedentes e não é reincidente, ao contrário dos demais corréus.
+A defesa alega que a associação para o tráfico não é crime equiparado ao hediondo e que o regime fechado se mostra de muito rigor, sendo possível, no caso concreto, a fixação do regime aberto pela extensão da associação narrada nos autos. No entanto, tendo em vista que o paciente é primário e não reincidente, mostra-se devido o abrandamento ao semiaberto.
+Ante o exposto, concedo a ordem a fim de redimensionar a pena imposta ao paciente, relativa ao crime previsto no art. 35 da Lei de Drogas, para 4 anos de reclusão, em regime semiaberto, e 1.400 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
