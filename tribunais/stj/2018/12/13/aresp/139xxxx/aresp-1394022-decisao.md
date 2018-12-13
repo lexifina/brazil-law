@@ -1,0 +1,27 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+PROCESSO PENAL. APELAÇÃO CRIMINAL. ESTELIONATO PREVIDENCIÁRIO. VÍNCULO EMPREGATÍCIO FICTÍCIO. AUTORIA E MATERIALIDADE COMPROVADAS.
+I- A materialidade delitiva está comprovada pelos diversos elementos juntados aos autos do inquérito policial em apenso, evidenciando que, através da inserção de vínculos empregatícios fraudulentos, a Ré obteve benefício de aposentadoria por tempo de contribuição, causando prejuízo à Autarquia Previdenciária.
+II- A autoria delitiva também restou demonstrada nos autos, eis que, embora o réu não tenha requerido pessoalmente o benefício previdenciário, admitiu em seu interrogatório ter contratado um advogado, mediante pagamento de vultosa quantia, para requerer sua aposentadoria ao INSS, induzindo e mantendo em erro a Autarquia.
+III- Considerando-se as duas circunstâncias desfavoráveis ao acusado, e que, em sede jurisprudencial, entende-se que a cada uma deve ser acrescido 1/8 (um oitavo), levando-se em conta a variação entre as penas mínima (01 ano) e máxima (5 anos) cominadas ao delito, nada há que reparar no r. decisum que fixou, na 1ª fase, a pena-base em 01 ano e 09 meses, considerando que não houve recurso do órgão acusador.
+IV- Reconhecida a inaplicabilidade da atenuante prevista no artigo 65, II, do Código Penal, porquanto, inobstante ser o Réu uma pessoa humilde e de baixa instrução, não há nos autos prova de que ele, de fato, desconhecia o caráter ilícito de sua conduta, sendo certo que grande parte dos cidadãos não conhece todos os tipos que integram o Código Penal, mas têm a consciência de que obter vantagem em prejuízo alheio, mantendo ou induzindo alguém em erro mediante artifício, ardil ou qualquer outro meio fraudulento, é crime, ainda que desconheçam os termos técnicos utilizados pelo legislador.
+V- Apelação desprovida. Sentença mantida. (e-STJ fl. 167)
+A defesa aponta a violação do art. 59 do Código Penal alegando, em síntese, a ocorrência de bis in idem porquanto "houve dupla valoração negativa da mesma circunstância judicial - conseqüências do crime - para aumentar a pena-base duas vezes, pois que, por se tratar de crime permanente, o longo tempo de gozo do benefício fraudulento teve como conseqüência obrigatória o vultoso prejuízo causado à autarquia previdenciária" (e-STJ fl. 233).
+Contrarrazões às e-STJ fls. 179/189.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 232/237.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+A primeira fase da dosimetria da pena foi assim realizada:
+No caso em tela, ante a necessidade de reprimenda aos fatos praticados pelo Réu, suficiente para reprovação do crime, entendo, assim como reconhecido na sentença, que são duas as circunstâncias judiciais do crime a justificar a fixação da pena-base acima do mínimo legal.
+Uma, em função da valoração negativa da circunstância de ter o Réu auferido vultosa quantia (cerca de RS123 mil), em valores atualizados até fevereiro de 2011. E, duas, em razão do tempo (4 anos e 7 meses) em que o Réu manteve o INSS em erro, locupletando-se de quantia de uma instituição fundamental para a sobrevivência de milhões de brasileiros, e já combalida financeiramente.
+Ressalte-se que a conduta do Réu, na hipótese, revela-se de intensa lesividade, dentro do notório déficit que enfrenta a Autarquia Previdenciária para fazer frente às suas atribuições, de modo que os agentes envolvidos nessa espécie de empreitada devem, dentro dessa ótica, encontrar maior reprovação.
+Considerando-se as duas circunstâncias desfavoráveis ao acusado, e que, em sede jurisprudencial, entende-se que a cada uma deve ser acrescido 1/8 (um oitavo), levando-se em conta a variação entre as penas mínima (01 ano) e máxima (5 anos) cominadas ao delito,não há qualquer reparo a ser feito no r. decisum. ao fixar, na 1a fase, a pena-base em 01 (um) ano e 09 (nove) meses, considerando que não houve recurso do órqão acusador. (e-STJ fls. 165/166)
+Observa-se que o entendimento do Tribunal Regional está em harmonia com a jurisprudência desta Corte Superior, que, julgando hipótese semelhante, assim decidiu:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. BIS IN IDEM COM A CAUSA DE AUMENTO DO ART. 171, § 3º, DO CP. INOVAÇÃO DE TESE. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. NEGATIVAÇÃO. FUNDAMENTAÇÃO CONCRETA.
+ ..
+2. O tempo pelo qual o agravante percebeu indevidamente o benefício previdenciário (mais de cinco anos) constitui fundamento concreto distinto das elementares do crime e demonstra um maior grau de reprovabilidade da conduta, autorizando a negativação das circunstâncias.
+3. O elevado valor do prejuízo sofrido pela autarquia, cerca de aproximadamente R$ 27.000,00 (vinte e sete mil reais), em valores históricos, extrapola a elementar do tipo do estelionato e justifica o desvalor das consequências do crime.
+4. Agravo regimental improvido. (AgRg no REsp n. 1456847/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 3/8/2015).
+Nessa mesma linha: AgRg no AREsp n. 407.706/SP, desta Relatoria, DJe de 29/6/2015.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
