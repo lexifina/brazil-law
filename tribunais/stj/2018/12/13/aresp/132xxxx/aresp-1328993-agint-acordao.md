@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DA MOTIVAÇÃO. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE. INTELIGÊNCIA DA SÚMULA 182/STJ.
+1. Os arts. 932, inciso III, e 1.042 do CPC/2015 estabelecem regras expressas autorizando o relator do agravo a deixar de conhecê-lo quando manifestamente inadmissível ou quando não atacar especificamente os fundamentos da decisão agravada, hipótese esta na qual se insere o caso em que o agravante, em vez de confrontar o juízo de admissibilidade da instância ordinária, limita-se a argumentar a usurpação de competência ou a falta dela, a reiterar com exatidão as razões do recurso especial ou, ainda, a impugnar apenas parte da motivação. Inteligência da Súmula 182/STJ.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Schlumberger Serviços de Petróleo Ltda. interpõe agravo interno contra a decisão monocrática prolatada pela Exma. Sra. Ministra Presidente do Superior Tribunal de Justiça, que deixou de conhecer do agravo em recurso especial por falta de impugnação aos motivos adotados no juízo de inadmissibilidade feito na origem.
+Sustenta o seguinte:
+II - FUNDAMENTAÇÃO DA DECISÃO RECORRIDA:
+2. A decisão agravada deixou de conhecer do AREsp sob a impressão de que o agravo contra a decisão de inadmissão do REsp não teria veiculado impugnação suficiente e específica a todos os fundamentos da decisão agravada, com base no art. 21-E, inciso V, do Regimento Interno do STJ (fls. 310/311).
+3. A decisão monocrática de que se recorre, relata que a decisão que negou seguimento ao recurso especial foi exarada sob o fundamento que a Agravante deixou de impugnar especificamente as súmulas 7 e 83 do STJ.
+4. Demonstrará a Agravante, a seguir, que ao contrário do que assevera a decisão de que se recorre, o AREsp enfrentou os dois fundamentos nucleares da decisão do TRF-2 que decretou a inadmissibilidade do recurso especial.
+III- SOBRE A INEXISTÊNCIA DE REVOLVIMENTO DE MATÉRIA FÁTICO- PROBATÓRIA (SÚMULA 7 STJ):
+5. A petição de AResp impugna o primeiro fundamento da decisão de inadmissibilidade de REsp, de suposta intenção de revolvimento de matéria fático-probatória, visto não ter sido demonstrada na peça recursal a similitude de situações com soluções jurídicas diversas entre os vv. Acórdãos recorrido e paradigma.
+6. Restou demonstrado através dos itens 21 a 24 (fls. 284/287) que a divergência jurisprudencial possui circunstâncias de similaridade entre os temas, tratando da legalidade de fixação de prazo para cumprimento de obrigação acessória através de Portaria, dando confortável amparo à admissibilidade do REsp, com base no art. 105, inciso III, alínea "c", da Constituição Federal, não havendo que se falar em nova análise probatória para o reconhecimento de que o entendimento esposado no acórdão paradigma, deve prevalecer e dar azo ao provimento do REsp..
+7. Há inquestionavelmente impugnação específica ao primeiro dos dois fundamentos da decisão de inadmissibilidade de recurso especial.
+IV- SUPOSTA FALTA DE IMPUGNAÇÃO DA SÚMULA 83 STJ (DIVERGÊNCIA JURISPRUDENCIAL):
+8. A petição de AREsp, nos seus itens 17/19 (fls. 226/227), expressamente impugna o fundamento da decisão denegatória de admissibilidade de REsp, sob o argumento de divergência jurisprudencial.
+9. O entendimento do C. Superior Tribunal de Justiça a respeito da hierarquia das normas e do princípio da legalidade, foi trazido pelo AREsp no item 19, que diverge da fundamentação trazida pelos acórdãos recorridos (fls. 184/185 e 204/205), onde sustentam a legalidade da Portaria que estabeleceu prazo para apresentação da documentação aduaneira, desconsiderando o fato de que para fixação de prazo para cumprimento de obrigação acessória, se fazia necessária a existência de lei.
+10. Bem se observa que o segundo e último fundamento da decisão de inadmissibilidade de REsp recebeu, também, impugnação específica.
+V - DO PEDIDO:
+11. Diante do exposto, espera e confia a Agravante seja este recurso, tempestivamente apresentado, recebido e submetido à apreciação da Egrégia Turma, aguardando-se o respectivo provimento para que se conheça do AREsp e se lhe conceda provimento, com o que estará esse E. Colegiado, uma vez mais, zelando por exemplar distribuição de JUSTIÇA.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DA MOTIVAÇÃO. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE. INTELIGÊNCIA DA SÚMULA 182/STJ.
+1. Os arts. 932, inciso III, e 1.042 do CPC/2015 estabelecem regras expressas autorizando o relator do agravo a deixar de conhecê-lo quando manifestamente inadmissível ou quando não atacar especificamente os fundamentos da decisão agravada, hipótese esta na qual se insere o caso em que o agravante, em vez de confrontar o juízo de admissibilidade da instância ordinária, limita-se a argumentar a usurpação de competência ou a falta dela, a reiterar com exatidão as razões do recurso especial ou, ainda, a impugnar apenas parte da motivação. Inteligência da Súmula 182/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Sem êxito a pretensão recursal.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O juízo de admissibilidade feito na instância ordinária observou a presença de três óbices ao seguimento do apelo raro, a saber, a falta de demonstração correta da divergência e as Súmulas 07/STJ e 83/STJ.
+A minuta do agravo em vez de impugnar essa motivação reiterou os termos do apelo raro, aduzindo, por exemplo, a impossibilidade de fixação de prazo para cumprimento de obrigação acessória por portaria, defendo com base nisso a ocorrência de divergência jurisprudencial e ter procedido devidamente à sua demonstração.
+Nada dissertou em absoluto sobre as Súmulas 07/ST e 83/STJ e por isso o acerto na decisão de não conhecimento do agravo.
+Cito: AgRg no REsp 1.326.558/MG (Rel. Ministro Moura Ribeiro, Quinta Turma, julgado em 03/09/2013, DJe 06/09/2013), AgRg no AREsp 329.059/PR (Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 27/08/2013, DJe 04/09/2013), AgRg no AREsp 338.118/SP (Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 06/08/2013, DJe 16/08/2013), AgRg no AREsp 262.625/RJ (Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/06/2013, DJe 28/06/2013), EDcl no AgRg no AREsp 269.696/ES (Rel. Ministro Humberto Martins, Segunda Turma, julgado em 11/06/2013, DJe 19/06/2013), EDcl no AREsp 289.659/MG (Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 11/04/2013, DJe 09/05/2013) e AgRg no AREsp 233.052/SC (Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 06/12/2012, DJe 12/12/2012).
+Assim, nego provimento ao agravo interno.
+É o voto.
