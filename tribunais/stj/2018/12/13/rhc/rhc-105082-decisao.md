@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça de Alagoas que denegou o writ na origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 81):
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, POSSE DE DROGAS PARA CONSUMO PESSOAL E RESISTÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO PARA A DECRETAÇÃO E MANUTENÇÃO DA PRISÃO PREVENTIVA. INOCORRÊNCIA. ELEMENTOS QUE INDICAM A NECESSIDADE DA SEGREGAÇÃO CAUTELAR. PERICULOSIDADE DO AGENTE. RISCO CONCRETO DE REITERAÇÃO DELITIVA. SUPOSTO ESPANCAMENTO NO ATO DA PRISÃO EM FLAGRANTE. VERIFICAÇÃO INCABÍVEL EM SEDE DE HABEAS CORPUS. DÚVIDAS QUANTO AO DELITO DE TENTATIVA DE HOMICÍDIO. ARMA NÃO LOCALIZADA. IRRELEVÂNCIA. SUFICIÊNCIA DOS DEMAIS CRIMES PARA A DECRETAÇÃO DA PRISÃO PROCESSUAL. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RESTRIÇÃO DA LIBERDADE MANTIDA. ORDEM CONHECIDA E DENEGADA. UNÂNIME.
+Neste recurso, argumenta-se, em suma, a negativa de autoria e a ausência dos requisitos do art. 312 do CPP, requerendo, ao final, a revogação da prisão preventiva.
+O recorrente foi preso em flagrante em 8/5/2018, posteriormente convertido em preventiva, pela prática dos delitos tipificados no art. 121, c.c. o art. 14, II, e art. 329, todos do Código Penal, e arts. 14 da Lei n. 10.826/03 e art. 28 da Lei n. 11.343/06.
+O parecer do Ministério Público Federal foi pelo improvimento do recurso.
+Na origem, no processo n. 0711365-49.2018.8.02.0001, oriundo da 15ª Vara Criminal de Maceió, o feito foi redistribuído por sorteio em 22/10/2018, conforme informações processuais eletrônicas extraídas do site do Tribunal a quo em 3/12/2018.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado de sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Dispôs o decreto prisional (fl. 46 - destaquei):
+ .. .Conforme se verifica na fundamentação constante na mídia em anexa, a prisão preventiva se faz necessária para a garantia da ordem pública, tendo em vista o periculum in libertatis, de nesse momento, manter-se o mesmo solto. Tendo em vista a situação fática relatada, a quantidade de processos criminais que o mesmo já responde e mesmo assim vindo a cometer novos crimes, inclusive a ter atentado contra a vida de um policial. POSTO ISSO, com fulcro nos artigos 311, 312 e 313, todos do CPP, CONVERTO a PRISÃO EM FLAGRANTE de [NOME] [NOME] da [NOME], Vulgo "pica-pau", devidamente qualificado(a)(s), em PRISÃO PREVENTIVA, mantendo o(a)(s) flagrado(a)(s) recolhido(a)(s) no local em que se encontra(m). .. .
+Como se vê, expôs o decreto preventivo fundamentação idônea com esteio na vivência delitiva do réu, ora recorrente, uma vez que já responde a outros feitos criminais, restando prejudicada a análise de sua vida pregressa, porquanto ausente nos autos a folha de antecedentes criminais.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
