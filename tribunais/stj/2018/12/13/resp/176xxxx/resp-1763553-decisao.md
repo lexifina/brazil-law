@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMULAÇÃO DOS HONORÁRIOS DA EXECUÇÃO E DOS RESPECTIVOS EMBARGOS. RECURSO AFETADO À SISTEMÁTICA DO ART. 543-C DO CPC: RESP 1.520.710/SC, REL. MIN. MAURO CAMPBELL MARQUES. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto por [NOME] DE ENSINO SUPERIOR DOS CAMPOS GERAIS, com fundamento nas alíneas a e c do art. 105, III da CF/1988, contra acórdão proferido pelo TRF da 4a. Região, assim ementado:
+EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO. AÇÃO ORDINÁRIA. EXCEÇÃO DE PRÉ--EXECUTIVIDADE. ART. 20 CPC/73.
+Condenada a União no pagamento de honorários advocatícios no julgamento da ação ordinária, não cabe nova condenação na extinção do executivo fiscal conexo (fls. 414).
+2. É o relatório.
+3. O tema relativo à possibilidade de cumulação da verba honorária fixada na Execução com aquela arbitrada nos respectivos Embargos do Devedor foi afetado pelo eminente Ministro MAURO CAMPBELL MARQUES à sistemática do art. 543-C do CPC/1973, tendo sido destacado como paradigma o REsp. 1.520.710/SC. Confira-se o seguinte excerto da decisão que recebeu o mencionado recurso como representativo da controvérsia:
+Considerando a desafetação do REsp 1.349.029/RS, da minha relatoria, à sistemática do art. 543-C do CPC, e que o tema do recurso especial em questão ainda não foi decidido sob o rito dos recursos especial repetitivos, regulamentado pela Resolução STJ 08/2008, RECEBO O RECURSO ESPECIAL COMO EMBLEMÁTICO DA CONTROVÉRSIA, A SER DIRIMIDA PELA CORTE ESPECIAL DO STJ, tendo em vista tratar-se de questão de competência de mais de uma Seção, consoante autoriza a parte final do art. 2o. da Resolução STJ 08/2008, adotando-se as seguintes providências:
+a) a delimitação da seguinte tese controvertida: "possibilidade ou não de cumulação da verba honorária fixada nos embargos à execução com aquela arbitrada na própria execução contra a Fazenda Pública, vedada a sua compensação";
+b) comunique-se, com cópia da presente decisão, aos Ministros integrantes da Corte Especial do STJ e aos Presidentes dos Tribunais de Justiça e dos Tribunais Regionais Federais, nos termos do art. 2º, § 2º, da Resolução STJ 08/2008 e do art. 543-C, § 3º, do CPC, e para os fins neles previstos;
+c) suspenda-se o julgamento dos demais recursos sobre a matéria versada no presente recurso especial, consoante preceitua o § 2º do art. 2º da Resolução STJ 8/2008;
+4. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 e 1.041 do Código Fux.
+5. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia aprecie o Recurso Especial na forma dos arts. 1.040 e 1.041 do Código Fux.
+6. Oficie-se ao Presidente do Tribunal de origem, caso ainda não o tenha sido, dando-lhe ciência do inteiro teor desta decisão, para que, em casos idênticos, seja adotado, naquela instância, o mesmo procedimento.
+7. Publique-se.
+8. Intimações necessárias.
