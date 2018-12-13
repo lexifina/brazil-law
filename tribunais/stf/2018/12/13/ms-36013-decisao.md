@@ -1,0 +1,60 @@
+Trata-se de mandado de segurança com pedido de liminar impetrado por Álcio Medeiros Mendes, contra o Acórdão 6.207/2018-TCU- 1ª Câmara, que determinou o imediato cumprimento ao Acórdão 1.660/2014-TCU-Plenário, o qual considerou ilegal a aposentadoria do impetrante, em razão do não cumprimento do tempo mínimo de cinco anos no cargo em regime de dedicação exclusiva.
+    O impetrante narra, em suma, que,
+    “[...] efetivamente, mantinha cumulação legal de cargos, como técnico Odontólogo, junto ao antigo INPS, e como Professor, perante a Universidade Federal de Santa Catarina.
+    Aposentou-se naquele cargo técnico (Odontólogo) em 17 de novembro de 1995 (Portaria nº 6.498, DOU de 27/11/1995).
+    Somente após a sua aposentadoria, ou seja, a partir de 14 de novembro de 1998 (Portaria nº 1.111/DP/98), passou a receber a Gratificação de Dedicação Exclusiva, objeto do Ato Coator” (pág. 2 da inicial).
+    Após apresentar extensa argumentação, assevera que
+    “[...] deflui a certeza de que não existia, para o Impetrante, a incompatibilidade horária, sendo, portanto lícita, a acumulação de cargos.
+    Por outro lado, a Gratificação de Dedicação Exclusiva passou a ser recebida somente após a sua aposentadoria do cargo técnico, logo é esta devida ex vi legis.
+    Ocorre que os pagamentos deveriam continuar. Assim, o ato administrativo revisional não pode, em hipótese alguma, surtir efeitos, pois vai de encontro à garantia constitucional da irredutibilidade dos vencimentos percebidos pelos servidores públicos, conforme se verá a seguir” (pág. 38 da inicial).
+    Aduz, ainda, que recebeu os valores de boa-fé, uma vez que enquanto
+    “[...] percebia as vantagens pecuniárias julgava ser delas merecedor, tendo direito líquido e certo ao recebimento. E não se trata de mera irregularidade operacional na implantação ou subtração de determinada rubrica da folha de pagamento da servidor. O servidor percebeu tais verbas, com base em entendimento da própria Administração de que eram devidas” (págs. 46-47 da inicial).
+    Acrescenta que,
+     “[...] levando-se em conta o art. 54, da Lei nº 9.784/99, os precedentes jurisprudenciais, a total e completa boa-fé do servidor no recebimento das vantagens pecuniárias e a responsabilidade integral da Administração pelo pagamento das verbas, ressai cristalina a preponderância dos princípios da boa-fé e da segurança jurídica sobre o princípio da estrita legalidade administrativa, devendo ser afastado qualquer dever de ressarcimento aos cofres públicos” (pág. 50 da inicial).
+    Outrossim, alega estarem presentes os requisitos para a concessão da segurança, haja vista que
+    “[é] indiscutível a violação dos princípios constitucionais da razoabilidade, da legalidade, da moralidade, da isonomia, da impessoalidade e da motivação das decisões administrativas e sobretudo da possibilidade do Impetrante de continuar a receber a Gratificação de Dedicação Exclusiva por preencher os requisitos legais.
+    O periculum in mora, no caso em questão, reside no real e irreversível dano de ordem moral e patrimonial causado ao Impetrante, face ao caráter alimentar de sua remuneração, que será sensivelmente diminuída e ainda ter descontos significativos” (pág. 65 da inicial).
+    Pugna, por essas razões, pela concessão de medida liminar,
+    “[...] em face da ilegalidade da manutenção da decisão contida no Processo Administrativo nº TC 030.941/2010-5 e materializada pelo Acórdão n. 6207/2018-TCU, determinado, em caráter de urgência, a reconsideração daquela decisão, para impedir descontos de sua remuneração e a restituição de todos os descontos realizados em seus proventos por conta da medida vergastada, sob pena de haver prejuízos de incerta e improvável reparação” (pág. 66 da inicial).
+    No mérito, requer a concessão da segurança para confirmar a liminar requerida.
+    Em 1°/10/2018, requisitei prévias informações à autoridade impetrada, que as prestou, conforme documentos eletrônicos 16-25.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, tenho que o writ não comporta seguimento.
+    Como relatado, o presente writ foi impetrado para atacar ato do TCU, consubstanciado no Acórdão 6.207/2018-TCU- 1ª Câmara, que determinou o imediato cumprimento ao Acórdão 1.660/2014-TCU-Plenário, o qual considerou ilegal a aposentadoria do impetrante, em razão do não cumprimento do tempo mínimo de cinco anos no cargo em regime de dedicação exclusiva.
+    Assim, insurge-se o impetrante contra ato praticado pelo Tribunal de Contas da União, que culminou na determinação de ressarcimento ao erário, levando-se em consideração a determinação a decisão proferida no Acórdão 1.660/2014-TCU-Plenário.
+    No entanto, verifico que a impetrante não possui direito líquido e certo a ser amparado por meio desta impetração.
+    Com efeito, o Tribunal de Contas da União apresentou informações nas quais consta a seguinte ementa:
+    “Mandado de Segurança, com pedido de liminar, impetrado por Álcio Medeiros Mendes, objetivando a reconsideração do Acórdão n. 6.207/2018-TCU-1ª Câmara, ‘para impedir descontos de sua remuneração e a restituição de todos os descontos realizados em seus proventos’, o qual determinou o imediato cumprimento do Acórdão n. 1.660/2014-Plenário, que considerou ilegal o ato de aposentadoria do impetrante, negando-lhe o correspondente registro.
+    1. Preliminar: Interposição de recurso administrativo, com efeito suspensivo, pelo impetrante, o que impõe a denegação do presente writ nos termos da Lei n. 12.016/09 e do Regimento Interno do STF.
+    2. Decadência: não ocorrência. Não incidência de prazo decadencial, previamente à manifestação do TCU, tendo em vista a natureza complexa dos atos de aposentadoria e pensão. Precedentes.
+    3. Não há que se falar em ofensa ao direito adquirido, ao ato jurídico perfeito ou à segurança jurídica antes que o ato complexo de aposentadoria esteja definitivamente registrado pelo TCU, consoante consolidada jurisprudência do STF. Ademais, a supremacia do interesse público impõe que se privilegie, no caso concreto, o princípio da legalidade, de modo a afastar o pagamento de vantagens ilegais às custas dos cofres públicos.
+    4. Legalidade e Legitimidade do Acórdão 6.207/2018-TCU-1ª Câmara, o qual determinou o imediato cumprimento do Acórdão n. 1.660/2014-Plenário, que considerou ilegal o ato de aposentadoria do impetrante, negando-lhe o correspondente registro, pelos seus próprios fundamentos.
+    5. Inexiste violação ao princípio da irredutibilidade de vencimentos ou do direito adquirido quando se determina a correção de vencimentos pagos em desacordo com a lei ou com a Constituição. Jurisprudência do STJ e do STF.
+    6. A Administração pode efetuar o desconto em folha de parcelas indevidamente percebidas pelo servidor, segundo dispõe o art. 46 da Lei 8.112/1990, sendo desnecessária sua anuência. Jurisprudência do STF.
+    7. Não cabimento do pedido de liminar, ante a ausência do fumus boni juris e do periculum in mora.
+    8. Parecer pela denegação da ordem, dada a legitimidade da decisão proferida pelo TCU e a inexistência do direito líquido e certo alegado pelo impetrante” (pág. 1 do documento eletrônico 16).
+    Pois bem. Nas informações prestadas pela Corte de Contas, noticia-se a interposição de pedido de reexame, em 23/8/2018, dotado de efeito suspensivo, quando da impetração dessa ação mandamental.
+    Nesse sentido, extraio da Lei 8.443/1992 – Lei Orgânica do Tribunal de Contas da União:
+    “Art. 33. O recurso de reconsideração, que terá efeito suspensivo, será apreciado por quem houver proferido a decisão recorrida, na forma estabelecida no Regimento Interno, e poderá ser formulado por escrito uma só vez, pelo responsável ou interessado, ou pelo Ministério Público junto ao Tribunal, dentro do prazo de quinze dias, contados na forma prevista no art. 30 desta Lei.
+    [...]
+    Art. 48. De decisão proferida em processos concernentes às matérias de que tratam as Seções III e IV deste capítulo caberá pedido de reexame, que terá efeito suspensivo.
+    Parágrafo único. O pedido de reexame reger-se-á pelo disposto no parágrafo único do art. 32 e no art. 33 desta Lei” (grifei).
+    Ocorre que, conforme dispõe o artigo 5º, I, da Lei 12.016/2009:
+    “Art. 5º Não se concederá mandado de segurança quando se tratar:
+    I - de ato do qual caiba recurso administrativo com efeito suspensivo, independentemente de caução”.
+    Nesse sentido, assim consignei ao julgar, na Segunda Turma, o MS 30.822/DF:
+    “[...] esse dispositivo da lei que disciplina o mandado de segurança não configura uma condição de procedibilidade, mas tão somente uma causa impeditiva de que se utilize simultaneamente o referido recurso e o mandamus.
+    Nesse sentido solidificou-se a jurisprudência desta Corte, conforme se observa do julgamento do MS 27.772-AgR/DF, Rel. Min. Cármen Lúcia, cujo acórdão foi assim ementado:
+    'AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. INTERPOSIÇÃO DE RECURSO ADMINISTRATIVO COM EFEITO SUSPENSIVO PERANTE O TRIBUNAL DE CONTAS DA UNIÃO. IMPETRAÇÃO SIMULTÂNEA DE MANDADO DE SEGURANÇA. IMPOSSIBILIDADE. 1. O art. 5º, inc. I, da Lei n. 1.533/1951 desautoriza a impetração de mandado de segurança quando o ato coator puder ser impugnado por recurso administrativo provido de efeito suspensivo. 2. Agravo regimental ao qual se nega provimento' (grifos meus).
+    Destaco, por oportuno, do mencionado acórdão, a citação feita pela Ministra Relatora de trecho da obra de Hely Lopes Meirelles que elucida a questão:
+    'Sobre o alcance da norma contida no art. 5º, inc. I, da Lei n. 1.533/1951, Hely Lopes Meirelles esclarece:
+    'Quando a lei veda se impetre mandado de segurança contra 'ato de que caiba recurso administrativo com efeito suspensivo (...)', não está obrigando o particular a exaurir a via administrativa para, após, utilizar-se da via judiciária. Está, apenas, condicionando a impetração à operatividade ou exequibilidade do ato a ser impugnado perante o Judiciário. Se o recurso suspensivo for utilizado, ter-se-á que aguardar seu julgamento, para atacar-se o ato final; se transcorre o prazo para o recurso, ou se a parte renuncia à sua interposição, o ato se torna operante e exequível pela Administração, ensejando desde logo a impetração. O que não se admite é a concomitância do recurso administrativo (com efeito suspensivo) com o mandado de segurança, porque, se os efeitos do ato já estão sobrestados pelo recurso hierárquico, nenhuma lesão produzirá enquanto não se tornar exequível e operante. Só então poderá o prejudicado pedir o amparo judicial contra a lesão ou a ameaça a seu direito. O que se exige sempre - em qualquer caso - é a exequibilidade ou a operatividade do ato a ser atacado pela segurança: a exequibilidade surge no momento em que cessam as oportunidades para os recursos suspensivos; a operatividade começa no momento em que o ato pode ser executado pela Administração ou pelo seu beneficiário' (Mandado de Segurança. 29. ed. São Paulo: Malheiros Editores, 2006, p. 43-44, grifos nossos)'”.
+    Com essa mesma orientação, cito o MS 32.530-AgR/DF, Primeira Turma, Rel. Min. Roberto Barroso, assim ementado:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO CONTRA O QUAL FOI INTERPOSTO RECURSO COM EFEITO SUSPENSIVO. 1. Nos termos do art. 5º, I, da Lei nº 12.016/09, não cabe mandado de segurança contra ato administrativo do qual caiba recurso com efeito suspensivo. 2. Agravo regimental desprovido”.
+    Verifico, dessa forma, que, no caso sob exame, a impetrante pretendia, por meio deste mandamus, atacar decisão que estava suspensa em razão da atribuição de efeito suspensivo ao pedido de reexame. Incabível, portanto, o writ.
+    Assim, é caso de se extinguir o processo, sem resolução de mérito, uma vez configurada, no momento da impetração, a ausência de interesse processual da ora impetrante (art. 485, VI, do CPC).
+    Isso posto, denego este mandado de segurança (art. 6º, § 5º, da Lei 12.016/2009, combinado com o art. 485, VI, do CPC).
+    Publique-se.
+    Brasília, 13 de dezembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
