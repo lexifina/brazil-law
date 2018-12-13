@@ -1,0 +1,57 @@
+EMENTA
+HABEAS CORPUS. PENAL. DOSIMETRIA. REINCIDÊNCIA ESPECÍFICA. PATAMAR DE AUMENTO À FRAÇÃO DE 1/6 (UM SEXTO). ORDEM CONCEDIDA.
+1. A quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo patamar mínimo fixado para as majorantes, que é de 1/6 (um sexto). Precedentes do STJ.
+2. A reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado.
+3. Concedida a ordem de habeas corpus a fim de, reformando o acórdão recorrido, fixar a fração de 1/6 (um sexto) para a reincidência específica, e readequar a pena do Paciente ao patamar de 7 (sete) anos 3 (três) meses e 3 (três) dias de reclusão, mantidos os demais aspectos da dosimetria.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ROGERIO ADRIANO PEREIRA COSTA, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento da Apelação n.º 0083922-90.2017.8.26.0050.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 14 (quatorze) dias-multa, no mínimo legal, pela prática do crime de roubo, tipificado no art. 157, caput, do Código Penal (fls. 30-31).
+Irresignados, apelaram Acusação e Defesa. O Tribunal a quo deu provimento ao recurso do Parquet para redimensionar "as penas para 08 anos, 03 meses e 16 dias de reclusão, em regime inicial fechado, e ao pagamento de 18 dias-multa, corrigindo-se a capitulação do crime para o artigo 157, § 2º-A, inciso I do Código Penal" (fl. 53), pelas razões assim sintetizadas na ementa do julgado (fl. 54; sem grifos no original):
+"RECURSO DEFENSIVO - PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS - NÃO ACOLHIMENTO MATERIALIDADE E AUTORIA COMPROVADAS - PLEITOS SUBSIDIÁRIOS DE FIXAÇÃO DA PENA-BASE NO MÍNIMO E REDUÇÃO DA FRAÇÃO DE EXASPERAÇÃO EM DECORRÊNCIA DA AGRAVANTE DA REINCIDÊNCIA - INVIÁVEL - PENAS E REGIME INICIAL FECHADO ADEQUADAMENTE ESTABELECIDOS - RECURSO NÃO PROVIDO.
+RECURSO DO MINISTÉRIO PÚBLICO - PRETENDIDO O RECONHECIMENTO DA CAUSA DE AUMENTO RELATIVA AO EMPREGO DE ARMA DE FOGO - ACOLHIMENTO - DESNECESSIDADE DE APREENSÃO E PERÍCIA NA ARMA DE FOGO - PRECEDENTES DOS TRIBUNAIS SUPERIORES - RECURSO PROVIDO."
+Nas razões deste habeas corpus, a Parte Impetrante alega constrangimento ilegal, ao argumento basilar de que a pena intermediária foi aumentada de forma desproporcional, na fração de 1/3 (um terço), diante da reincidência (fl. 5).
+Requer, em liminar e no mérito, a concessão da ordem para limitar em 1/6 (um sexto) a exasperação da reprimenda decorrente da reincidência (fl. 7).
+O pedido liminar foi indeferido (fls. 69-71).
+Foram prestadas informações pelas instâncias ordinárias às fls. 77-93.
+O Ministério Público Federal manifestou-se às fls. 95-96, opinando pela concessão da ordem, de ofício, em parecer que recebeu a seguinte ementa:
+"HABEAS CORPUS. ROUBO. DOSIMETRIA. SEGUNDA FASE. REINCIDÊNCIA ESPECÍFICA. AUMENTO NA FRAÇÃO DE 1/3. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. PELA CONCESSÃO DA ORDEM, DE OFÍCIO" (fl. 95; sem grifos no original).
+É o relatório.
+EMENTA
+HABEAS CORPUS. PENAL. DOSIMETRIA. REINCIDÊNCIA ESPECÍFICA. PATAMAR DE AUMENTO À FRAÇÃO DE 1/6 (UM SEXTO). ORDEM CONCEDIDA.
+1. A quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo patamar mínimo fixado para as majorantes, que é de 1/6 (um sexto). Precedentes do STJ.
+2. A reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado.
+3. Concedida a ordem de habeas corpus a fim de, reformando o acórdão recorrido, fixar a fração de 1/6 (um sexto) para a reincidência específica, e readequar a pena do Paciente ao patamar de 7 (sete) anos 3 (três) meses e 3 (três) dias de reclusão, mantidos os demais aspectos da dosimetria.
+
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Cinge-se o exame da alegação de ilegalidade a saber se a reincidência específica constitui ou não elemento idôneo para justificar, na segunda etapa da dosimetria, o aumento da pena intermediária em patamar superior a 1/6 (um sexto).
+As agravantes e atenuantes não possuem o quantum definido pelo legislador, e devem ser consideradas pelo órgão julgador na segunda fase da dosimetria, que observará os limites mínimo e máximo do preceito secundário do tipo penal incriminador.
+Não obstante, a jurisprudência deste Superior Tribunal construiu o entendimento, pelo qual a quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo percentual mínimo fixado para as majorantes, que é de 1/6 (um sexto).
+Assim, o aumento da pena em razão da agravante da reincidência em patamar superior a 1/6 (um sexto) demanda fundamentação concreta e específica para justificar o aumento em fração mais elevada.
+A Sexta Turma do STJ, por sua vez, passou a entender como fundamentação idônea para justificar o aumento em fração mais elevada a reincidência específica. Confiram-se os seguintes precedentes: HC 258.693/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA (DJe 28/03/2016); AgInt no HC 356.160/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA (DJe 13/12/2016); AgRg no REsp 1.660.563/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA (DJe 24/08/2017).
+A Terceira Seção do STJ, no julgamento do HC n.º 365.963/SP, Rel. Ministro FELIX FISCHER, entendeu que, na segunda fase da dosimetria, pode ser compensada a agravante da reincidência específica com a atenuante da confissão espontânea (DJe 23/11/2017).
+Nesse julgado, o Min. Relator consignou que "a melhor hermenêutica a ser implementada na ocasião, até mesmo para se evitar descompasso e afronta à proporcionalidade, deverá ser aquela voltada à possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica)".
+Pois bem, a razão de decidir do julgado da Terceira Seção deve repercutir no exame sobre o eventual aumento da pena intermediária em patamar superior a 1/6 (um sexto), pela reincidência específica, uma vez que não seria lógico permitir a valoração da agravante individualmente considerada em percentual mais elevado se não foi ofertado maior desvalor à conduta do acusado que ostente outra condenação pelo mesmo delito, quando em confronto com a confissão espontânea. Nesse sentido: HC 437.972/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/09/2018 (DJe 20/09/2018).
+Nesse contexto, embora existam julgados em sentido oposto, há recentes precedentes explicitando a tese de que a reincidência específica não pode ensejar maior aumento da pena quando incidir, de forma isolada, na segunda fase da dosimetria.
+A propósito:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. SEGUNDA FASE. AGRAVANTE DA REINCIDÊNCIA. AUMENTO EM FRAÇÃO SUPERIOR A 1/6. NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA. REINCIDÊNCIA ESPECÍFICA. IRRELEVÂNCIA. ENTENDIMENTO QUE SE AMOLDA À ORIENTAÇÃO FIRMADA PELA TERCEIRA SEÇÃO DESTA CORTE NO JULGAMENTO DO HC N. 365.963/SP. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+3. Conforme o entendimento firmado por esta Corte, o aumento da pena em razão da agravante da reincidência em patamar superior a 1/6 demanda fundamentação concreta e específica para justificar o aumento em fração mais elevada. Precedentes.
+4. Esta Corte tem entendido que a reincidência, seja específica ou não, por não possuir maior desvalor no confronto com a atenuante da confissão espontânea, não pode ensejar maior aumento da pena quando incidir, de forma isolada, na segunda fase da dosimetria. Precedente.
+5. Na hipótese dos autos, o entendimento consignado pelo Tribunal de origem está em confronto com o entendimento desta Corte, uma vez que, após constatada a reincidência, elevou a pena na fração de 1/3, tão somente por se tratar de reincidência específica, impondo-se a redução do aumento para o patamar de 1/6.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena do paciente para 6 anos, 9 meses e 20 dias de reclusão, e pagamento de 680 dias-multa, mantidos os demais termos da condenação." (HC 468.641/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/10/2018, DJe 19/10/2018; sem grifos no original.)
+No mesmo sentido: HC 452.455/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA (DJe 11/10/2018); AgRg no HC 440.349/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA (DJe 28/06/2018); AgRg no HC 434.176/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA (DJe 17/08/2018).
+Em sentido contrário: REsp 1.738.852/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA (DJe 03/10/2018); HC 424.265/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA (DJe 16/04/2018).
+Portanto, considerando: a) a recente jurisprudência dominante; b) a lógica estabelecida no HC n.º 365.963/SP, julgado pela Terceira Seção; e c) o disposto no art. 926 do Código de Processo Civil, pelo qual " o s tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente", entendo que a reincidência específica não pode ensejar maior aumento da pena quando incidir, de forma isolada, na segunda fase da dosimetria.
+Desse modo, passo à readequação da pena:
+Na primeira fase da dosimetria, não impugnada, a Corte local elevou a pena-base do mínimo legal em 1/6 (um sexto), fixando-a em 4 (quatro) anos e 8 (oito) meses de reclusão.
+Na segunda fase exasperou na fração de 1/3 (um terço). No ponto, merece reforma a individualização para limitar a exasperação à fração de 1/6 (um sexto), razão pela qual fixo a pena intermediária em 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão.
+Na terceira fase, mantenho o percentual de aumento referente ao emprego de arma de fogo estabelecido pela Corte local - 1/3 (um terço) -, razão pela qual torno a pena definitiva em 7 (sete) anos 3 (três) meses e 3 (três) dias de reclusão, mantidos os demais aspectos da dosimetria.
+Ante o exposto, CONCEDO A ORDEM a fim de, reformando o acórdão recorrido, fixar a fração de 1/6 (um sexto) para a reincidência específica, e readequar a pena do Paciente ao patamar de 7 (sete) anos 3 (três) meses e 3 (três) dias de reclusão, mantidos os demais aspectos da dosimetria.
+Oficie-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo das Execuções Criminais.
+É o voto.
