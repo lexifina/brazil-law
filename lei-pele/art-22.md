@@ -1,5 +1,5 @@
 Art. 22. Os processos eleitorais assegurarão:
-I - colégio eleitoral constituído de todos os filiados no gozo de seus direitos, admitida a diferenciação de valor dos seus votos;
+I - colégio eleitoral constituído de todos os filiados no gozo de seus direitos, admitida a diferenciação de valor dos seus votos, observado o disposto no § 1º deste artigo;
 II - defesa prévia, em caso de impugnação, do direito de participar da eleição;
 III - eleição convocada mediante edital publicado em órgão da imprensa de grande circulação, por três vezes;
 IV - sistema de recolhimento dos votos imune a fraude;
