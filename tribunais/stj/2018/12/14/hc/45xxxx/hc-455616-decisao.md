@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que o juízo das execuções reconheceu a prática de faltas graves pelo paciente, determinando a perda de 1/3 dos dias remidos em relação a cada falta cometida.
+Irresignada, a defesa interpôs agravo em execução penal, tendo o Tribunal local negado provimento ao recurso.
+Daí o presente writ, em que a Impetrante sustenta, em síntese, que Nos termos da disposição do artigo 127 da LEP, o juiz poderá revogar, até 1/3 do tempo remido, em caso de falta grave. Em nenhum momento se autorizou a revogação de 1/3 do tempo remido para cada falta cometida (fl. 3).
+Salienta, também, que A decisão também merece reforma, porquanto os dias remidos foram descontados do total da pena, já retirados antes do cálculo das frações, em vez de serem computados como pena efetivamente cumprida, como determina o artigo 128 da LEP (fl. 6).
+Requer, liminarmente e no mérito, a imediata concessão do provimento liminar, para conceder ordem de habeas corpus, a fim de que o cálculo dos dias remidos seja computado como pena efetivamente cumprida, bem como restringir a perda dos dias ao máximo de uma única redução de até 1/3 do montante total, nos termos do art. 127 da LEP (fl. 8).
+A liminar foi indeferida (fl. 69).
+As informações foram prestadas (fls. 73-86).
+O Ministério Público Federal ofertou parecer, manifestando-se pela concessão da ordem (fls. 89-94).
+É o relatório.
+DECIDO.
+O Juiz das Execuções Penais, reconhecendo a prática de falta grave pelo paciente, impôs-lhe a perda dos dias remidos, nesses termos (fl. 26):
+Vistos.
+Infere-se dos autos que o sentenciado registra a prática de faltas disciplinares de natureza grave em 17.11.2014, 17.05.2016 e 05.02.2017, devidamente analisadas e homologadas em apensos próprios.
+Assim, relativamente aos dias trabalhados anteriormente às faltas disciplinares, há de ser aplicada a redução do tempo a ser remido, nos termos do disposto no artigo 127 da Lei de Execuções Penais.
+Importante ressaltar que, no caso, a perda dos dias a remir deve alcançar o montante de 1/3 (um terço) relativamente a cada uma das infrações, para garantia do princípio da suficiência da pena, em face do caráter acintoso e grave das condutas em foco, comprometedoras do primado da disciplina. Imperioso, inclusive, escoimar o risco de sua repetição, afastando qualquer nefasta sensação de impunidade.
+O Tribunal a quo manteve a decisão de primeira instância, com base nos seguintes fundamentos (fls. 60-61):
+No mais, a alegação de que a perda dos dias remidos deve se restringir a uma única perda de até 1/3 (um terço), independente do número de faltas praticadas, não merece prosperar, uma vez que "em respeito aos princípios da Isonomia e da Individualização da Pena, deve ser determinado o desconto de 1/3 (um terço) dos dias remidos para cada falta praticada. Isto porque decisão em contrário levaria a uma situação de injustiça, pois um sentenciado que praticou uma única falta perderia 1/3 (um terço), ao mesmo tempo em que outro que praticou, por exemplo, 10 (dez) faltas, seria punido com o mesmo quantum" (fls. 27).
+Nesse sentido, é o entendimento deste E. Tribunal de Justiça:
+ ..
+Ante o exposto, CONHECE-SE EM PARTE do pedido e, na parte conhecida, NEGA-SE PROVIMENTO ao agravo.
+Diante disso, cumpre ressaltar que a jurisprudência deste Superior Tribunal de Justiça, se posiciona no sentido de que a prática de falta grave, dentre outras consequências legalmente previstas, acarreta a perda de até 1/3 (um terço) dos dias remidos, independentemente do número de faltas disciplinares cometidas. Nesse sentido:
+"EXECUÇÃO PENAL. FALTA GRAVE. CONSEQUÊNCIA.PERDA DOS DIAS REMIDOS. LIMITAÇÃO. 1/3 (UM TERÇO). LEI N. 12.433/2011. RETROATIVIDADE DA LEI MAIS BENÉFICA. ORDEM CONCEDIDA.
+1. Desalinha-se à jurisprudência do Supremo Tribunal Federal e desta Corte Superior o decisum que determina a perda de 1/3 (um terço) dos dias remidos para cada falta disciplinar, e, por consequência, o retorno do apenado ao regime fechado.
+2. Já é assente o entendimento de que, independentemente do número de faltas graves cometidas, a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal, com a redação dada pela Lei n.
+12.433, de 29/6/2011, mais benéfica, está limitada a 1/3 (um terço), eis que "o tempo remido remanescente da perda não poderá ser incluído em nova declaração de perda dos dias remidos, uma vez que se reinicia a contagem dos dias a serem remidos a partir da data da última infração disciplinar" HC n. 293.475/SP, Rel. Ministro Félix Fischer, 5ª T., DJe 11/6/2015).
+3. Ordem concedida para, confirmando a liminar, assegurar ao paciente o direito de permanecer no regime semiaberto, pelo desconto de apenas 1/3 dos dias remidos, em razão das duas faltas graves" (HC 377.088/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2017, DJe 11/05/2017).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. 06 (SEIS) FALTAS GRAVES. PERDA DE ATÉ 1/3 (UM TERÇO) DOS DIAS REMIDOS PARA CADA FALTA. ILEGALIDADE. LIMITAÇÃO DA PERDA A UM TERÇO DOS DIAS REMIDOS. LEI 12.433/2011 MAIS BENÉFICA. RETROATIVIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A jurisprudência do Supremo Tribunal Federal e deste Superior Tribunal de Justiça é pacífica no sentido de que o cometimento de falta grave durante a execução da pena poderá ensejar a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal. A partir da Lei 12.433, de 29/6/2011, que alterou a redação do art. 127 da Lei de Execução Penal, a revogação dos dias remidos ficou limitada à fração de 1/3 (um terço).
+IV - Após a primeira falta grave (25.7.2007), o tempo remido remanescente da perda não poderá ser incluído em nova declaração de perda dos dias remidos, uma vez que se reinicia a contagem dos dias a serem remidos a partir da data da última infração disciplinar, nos termos do art. 127, da Lei de Execução Penal.
+Habeas Corpus não conhecido. Ordem concedida de ofício para determinar ao Juízo da Execução que proceda à nova análise da perda dos dias remidos aplicando retroativamente o art. 127 da Lei de Execução Penal, com a redação dada pela Lei nº 12.433/2011" (HC 293.475/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/05/2015, DJe 11/06/2015).
+"EXECUÇÃO PENAL. HABEAS CORPUS. (1) IMPETRAÇÃO COMO SUCEDÂNEO RECURSAL. IMPROPRIEDADE DA VIA ELEITA. (2) FALTAS GRAVES. PERDA DOS DIAS REMIDOS. ART. 127 DA LEP. RETROATIVIDADE. DECISÃO SINGULAR. MANUTENÇÃO. (3) WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. No contexto de racionalização do emprego do habeas corpus, mostra-se indevida a sua utilização como sucedâneo recursal.
+2. Não se vislumbra ilegalidade na decisão proferida pelo juiz de primeiro grau que, ao aplicar retroativamente o art. 127 da LEP, determinou a perda de 1/3 dos dias remidos, ou seja, o patamar máximo permitido pela norma em exame, considerando a natureza e a quantidade de faltas disciplinares cometidas pelo sentenciado.
+3. Nos termos do art. 127 da Lei de Execução Penal, com a redação dada pela Lei n.º 12.433/2011, o tempo remido, após a perda de até um terço, não poderá ser objeto de nova revogação em decorrência da prática de nova falta grave no curso da execução.
+4. Writ não conhecido. Ordem concedida de ofício para restabelecer a decisão de primeiro grau" (HC 269.631/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/10/2014, DJe 04/11/2014)
+Verifica-se, portanto, que as decisões das instâncias ordinárias que determinaram a perda de 1/3 dos dias remidos relativamente a cada falta grave praticada pelo paciente encontram-se em total desacordo com o entendimento desta Corte Superior e devem, nesse ponto, serem reformadas.
+Contudo, no que tange ao pleito defensivo para que o cálculo dos dias remidos seja computado como pena efetivamente cumprida, nota-se que, muito embora o aresto atacado tenha asseverado, genericamente, que a r. decisão já determinou que a referida remição seja considerada como pena efetivamente cumprida, nos termos do artiao 128 da LEP (fl. 60), conforme asseverado pelo Parquet Federal (fl. 92), nada consta na decisão do juízo das execuções, porquanto juntada aos presentes autos de forma incompleta, o que inviabiliza a análise de tal questão diretamente por este Superior Tribunal, sob pena de incorrer-se em indevida supressão de instância. Principalmente, por não se saber, com certeza, se dita decisão atendeu, efetivamente, aos ditames do art. 128, da LEP ou não.
+Ante o exposto, concedo o habeas corpus para que a perda de 1/3 dos dias remidos incida, uma única vez, sobre todas as faltas graves cometidas pelo paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
