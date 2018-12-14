@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por BENJAMIM FERREIRA DA [NOME] MARTINS em face de acórdão do Tribunal de Justiça do Estado do Paraná, que denegou o writ originário, conforme a seguinte ementa (fl. 245):
+HABEAS CORPUS - ROUBO MAJORADO - PRISÃO PREVENTIVA - ALEGAÇÃO DE INEXISTÊNCIA DE FUNDAMENTAÇÃO NO DECRETO PRISIONAL - IMPROCEDÊNCIA - PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS MÍNIMOS DE AUTORIA EVIDENCIADOS NOS AUTOS E NAS DECISÕES IMPETRADAS - NECESSIDADE DE RESGUARDO DA ORDEM PÚBLICA - REQUISITOS AUTORIZADORES DA CUSTÓDIA PRESENTES - DELINEADA A PERICULOSIDADE DO AGENTE DIANTE DO MODUS OPERANDI CONSTATADO NA PRÁTICA DO DELITO LHE IMPUTADO E, AINDA, DA POSSIBILIDADE CONCRETA DE REITERAÇÃO CRIMINOSA - PRONUNCIAMENTOS JUDICIAIS EXARADOS PELO JUÍZO A QUO MOTIVADOS EM ELEMENTOS CONCRETOS - AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - CONDIÇÕES PESSOAIS IRRELEVANTES NA ESPÉCIE - INVIÁVEL A DISCUSSÃO SOBRE A AUTORIA DELITIVA NESTA SEARA - PRISÃO PREVENTIVA MANTIDA - ORDEM DENEGADA
+O recorrente requer a revogação da prisão preventiva, sob a alegação de ausência dos requisitos autorizadores dessa segregação cautelar elencados no art. 312 do Código de Processo Penal.
+Ele foi denunciado pela prática do crime de roubo majorado, tipificado no art. 157, § 2º, II, e art. 180, ambos do Código Penal.
+A liminar foi indeferida.
+A autoridade coatora prestou informações.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Na origem, processo n. 0007169-85.2018.8.16.0034 encontra-se na fase final de instrução, remeteram-se os autos para o ministério público apresentar alegações finais em 4/12/2018, conforme informações processuais eletrônicas disponíveis no site do Tribunal estadual em 5/12/2018.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fl. 195):
+3. Da prisão preventiva
+Para que seja decretada a prisão preventiva, devem estar presentes os requisitos e pressupostos enumerados pelo art. 313 do CPP, bem como o fumus comissi delicti (materialidade e indícios de autoria) e o periculum in libertatis (este consubstanciado em algumas das situações previstas no art. 312 do CPP).
+In casu, verifica-se que é imputada a BENJAMIN FERREIRA DA [NOME] MARTINS e GUILHERME [NOME] DOS [NOME] a prática do crime capitulado no art. 157, §2º, inciso II, e art. 180, ambos do Código Penal, que tem pena máxima muito superior a quatro anos.
+O fumus comissi delicti (materialidade do delito e indícios de autoria) encontra-se demonstrado pelos documentos encartados junto com o auto de prisão em flagrante delito (mov. 1.1), termos de depoimento (movs. 1.2 e 1.3), Boletim de Ocorrência (mov. 1.18), pelo auto de exibição e apreensão (mov. 1.19) e pela declaração da vítima (mov. 1.20).
+Já o periculum in libertatis pode ser extraído do fato de que, conforme o relato, o flagranteado [NOME] foi abordado em posse dos bens subtraídos da vítima. Ademais, o investigado [NOME] informou que os acusados Guilherme e [NOME] vendem objetos produtos de roubo de forma reiterada.
+Assim, extrai-se a necessidade da prisão cautelar, eis que foi informado que os agentes praticam o delito de roubo de forma reiterada, bem como os vende posteriormente.
+Já a decisão que manteve a prisão preventiva assim dispôs (fls. 209/210):
+2. Verifica-se que a conduta do artigo 157, § 2º, inciso II, do Código Penal, supostamente, praticadas, é crime doloso punido com pena privativa de liberdade máxima superior a 04 (quatro) anos e, portanto, se enquadra nos ditames do artigo 313, incisos I e II, do Código de Processo Penal.
+Pontuo a presença simultânea de prova de existência do crime e os indícios de autoria consoante se extrai do auto de prisão em flagrante, do boletim de ocorrência, do termo de depoimento dos condutores/testemunhas e, em especial, no termo de declaração da vítima que reconheceu o acusado (mov. 1.18).
+No mais, a liberdade do acusado oferece perigo à ordem pública em razão de sua periculosidade, pois, estavam em concurso de agentes no momento da abordagem, abordaram a vítima que cuidava de seu filho recém-nascido; ameaçaram sua integridade física fazendo menção de que portava uma arma de fogo, determinando que não olhassem para os agentes; subtraíram valores e diversos bens.
+Enalteço que, conforme Boletim de Ocorrência, os acusados que atualmente encontram-se presos praticam de forma reiterada o delito de roubo e receptação, tendo em vista que foi relatado pelo Sr. [NOME] que tais práticas são frequentes.
+Assim, demonstra-se que a conduta praticada não decorre de mera oportunidade, mas, de conduta organizada e estruturada para o cometimento de crimes.
+Em virtude do modus operandi, sua segregação cautelar garantirá à sociedade certa tranquilidade, impedindo que continue em sua vida criminosa.
+Ressalto que o crime praticado tem natureza grave e merece repressão do Poder Judiciário, assegurando-se a paz social.
+Como se vê, consta na decisão de indeferimento do pedido revogação de prisão preventiva fundamentação que deve ser entendida como válida, pois descreve o modus operandi dos envolvidos da seguinte forma: a liberdade do acusado oferece perigo à ordem pública em razão de sua periculosidade, pois, estavam em concurso de agentes no momento da abordagem, abordaram a vítima que cuidava de seu filho recém-nascido.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar se impõe pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
