@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VALIDADE DE LEI EM FACE DA CONSTITUIÇÃO FEDERAL. EXAME EM RECURSO ESPECIAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 106):
+APELAÇÃO - MANDADO DE SEGURANÇA - POLICIAL CIVIL - INVESTIGADOR DE POLÍCIA 1ª CLASSE - PRETENSÃO À APOSENTADORIA COMPULSÓRIA AOS 70 ANOS, NOS TERMOS DO ARTIGO 40, § 1º, II, DA CF - NÃO CABIMENTO.
+Servidor público policial que exerce atividade de risco (artigo 40, § 4º, II, da CF). A LC nº 51/85 estabelece os critérios para a aposentadoria do servidor público policial, nos termos da referida norma constitucional. ALteração pela LC nº 144/14, estipulando a aposentadoria compulsória do servidor público policial aos 65 anos. Legalidade da norma. A aposentadoria compulsória aos 70 anos de idade aplica-se apenas ao servidor público civil (artigo 40, § 1º, II, da CF). Precedentes. Sentença que denegou a ordem mantida. Recurso desprovido.
+Os embargos de declaração apresentados na origem foram rejeitados.
+Nas razões do especial, o recorrente sustenta, além da divergência jurisprudencial, violação do art. 1º da LC n. 144/2014 e no art. 1º, II, da LC 51/1985, pois as suas disposições presentes não foram recepcionadas pela CF/1988. Assim, defende que o acórdão recorrido deve ser reformado, "a fim de que possa exercer suas funções, caso queira, até a data limite para o processamento de sua aposentadoria compulsória, isto é, até que complete 70 (setenta) anos de idade" (e-STJ fl. 166).
+Apresentadas contrarrazões às e-STJ fls. 222/229.
+O Tribunal de origem não admitiu o recurso especial por impossibilidade de revisão do conjunto probatório dos autos e pela não demonstração da divergência jurisprudencial.
+Contraminuta às e-STJ fls. 277/281.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Não cabe ao Superior Tribunal de Justiça, em recurso especial, examinar a validade de lei federal em face da Constituição Federal. Com efeito, essa competência é do Supremo Tribunal Federal em sede de recurso extraordinário nos termos do art. 102, III, c, da CF/1988.
+Por fim, inviável a apreciação do inconformismo recursal fundado na alínea c do permissivo constitucional quando o recorrente não demonstra o suposto dissídio pretoriano por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; e d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, constata-se que o recorrente não atendeu aos requisitos estabelecidos pelos arts. 541, parágrafo único, do CPC/1973, e 255, § 2º, do RISTJ, em especial o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a alegada divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma.
+Assim, é descabido o presente recurso interposto pela alínea c do inciso III do art. 105 da Constituição Federal.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM AGRAVO. RECURSO ESPECIAL. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. DECISÃO PELA INADMISSIBILIDADE DO RECURSO MANTIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+2. O recurso revela-se manifestamente inadmissível e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+3. Agravo regimental não provido com aplicação de multa.
+(AgRg no AREsp 733.241/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
