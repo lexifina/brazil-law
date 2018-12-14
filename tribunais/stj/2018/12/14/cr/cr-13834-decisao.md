@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de carta rogatória por meio da qual a Justiça da Suíça solicita que a interessada seja intimada da decisão cautelar proferida pelo Tribunal Regional de Emmental que determinou a restituição de sua filha menor à Suiça, bem como seja notificada para comparecer a audiência no dia 26 de novembro de 2019, naquele país.
+A intimação prévia foi recebida. A interessada apresentou impugnação às fls. 38-42. Alegou a impossibilidade de concessão do exequatur porque tramita no Brasil, na Justiça Federal, ação ordinária de busca e apreensão da menor, ajuizada pela União com fundamento na Convenção de Haia sobre os Aspectos Civis do Sequestro Internacional de Crianças. Sustenta que há litispendência entre esse processo e o que tramita na Suíça e enumera as razões pelas quais entende ser incabível o repatriamento da criança para o país estrangeiro.
+O Ministério Público Federal opinou pela concessão da ordem (fl. 70).
+É o relatório. Decido.
+Não procedem os argumentos da interessada, conforme a manifestação do Ministério Público Federal (fl. 70). Com efeito, a existência de ação de busca e apreensão da menor no Brasil fundada na Convenção de Haia não impede que a interessada seja intimada da decisão suíça. Além disso, a comunicação requerida pela Suíça lhe dá oportunidade para defender-se diretamente naquele país.
+Também não há falar em litispendência. Segundo o disposto no art. 24 do CPC, "a ação proposta perante tribunal estrangeiro não induz litispendência e não obsta a que a autoridade judiciária brasileira conheça da mesma causa e das que lhe são conexas, ressalvadas as disposições em contrário de tratados internacionais e acordos bilaterais em vigor no Brasil".
+Quanto ao mais, os argumentos relativos à suposta impossibilidade de repatriamento da menor constituem matéria de mérito, que deve ser analisada pelo Juízo rogante, pois transcende os limites estabelecidos no art. 216-Q, § 2º, do RISTJ.
+O objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante do comparecimento espontâneo da parte interessada (fls. 38-68), considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+Assim, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) após o trânsito em julgado, por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
