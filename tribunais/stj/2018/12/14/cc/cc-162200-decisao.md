@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA VARA DO TRABALHO DE FLORESTA - PE, ora suscitante, e o JUÍZO DE DIREITO DE BELEM DO SÃO FRANCISCO - PE, ora suscitado.
+Consta dos autos que foi proposta ação de cobrança por LAISA CALLINY DO NASCIMENTO SANTOS, postulando verbas rescisórias - período trabalhado 2010 a 2015 - perante a Justiça Comum que declinou da competência para processar e julgar o feito para a Justiça Especializada (e-STJ fl. 51), que, por sua vez, suscitou o presente conflito de competência (e-STJ fls. 235/238).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo suscitado (e-STJ fls. 252/263).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6527 AgR-segundo, Relator(a):  Min. LUIZ FUX, Primeira Turma, DJe 16-10-2015; Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 01/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias decorrentes dessa avença" (AgRg no CC 139.456/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 13/05/2015, DJe 19/05/2015).
+Na espécie, verifica-se dos autos que o regime estatutário é o adotado pelo ente municipal (e-STJ fl. 235). Diante disso, trata-se de relação de caráter jurídico-administrativo existente entre o servidor e o ente municipal, o que atrai a competência da Justiça Comum, porquanto verificada a situação nele retratada.
+Acerca da hipótese, colho o seguinte precedente:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR MUNICIPAL. VÍNCULO JURÍDICO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Discute-se qual a natureza do vínculo existente entre o ente municipal e a reclamante, quanto ao cargo de agente comunitário de saúde, visando-se decidir qual o Juízo competente para o processamento e julgamento da demanda.
+2. Fez-se juntar o "Termo de Posse", provando que, à época, a reclamante estava sob o regime jurídico único, nos termos da Lei Orgânica Municipal n. 04/1990, incidindo, na espécie, o verbete sumular n. 137: "Compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vínculo estatutário".
+3. Agravo regimental não provido. (AgRg CC 134.288/MA, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção).
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DE DIREITO DE BELEM DO SÃO FRANCISCO - PE, ora suscitado.
+Publique-se. Intimem-se.
