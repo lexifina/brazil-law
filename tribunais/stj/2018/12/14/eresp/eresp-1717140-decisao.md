@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. AUXÍLIO "CESTA ALIMENTAÇÃO". ACÓRDÃO RESCINDENDO PROFERIDO QUANDO HAVIA DIVERGÊNCIA JURISPRUDENCIAL QUANTO À MATÉRIA. SÚMULA 343/STF. ERRO DE FATO. ALEGAÇÃO QUE NÃO PROCEDE. ADVOGADO A FAVOR DE QUEM FORAM FIXADOS HONORÁRIOS. ILEGITIMIDADE PASSIVA. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO.
+1. Cuida-se, na origem, de ação rescisória visando a rescisão de acórdão do TJ/RS que condenou a entidade de previdência privada à incorporação da rubrica denominada "cesta-alimentação" em provento de suplementação de aposentadoria.
+2. Segundo a orientação desta Corte, firmada na esteira da Súmula 343/STF, não se admite a propositura de ação rescisória fundada em violação literal de Lei (arts. 485, V, do CPC/73 e 966, V, do CPC/15) para fins de adequação da decisão acobertada pelo manto da coisa julgada a posterior alteração jurisprudencial. Precedentes.
+3. Para a aferição da incidência da Súmula 343/STF, deve ser considerada a data em que proferida a decisão rescindenda, sendo irrelevante o trânsito em julgado em momento ulterior, quando postergado em razão da interposição de recursos excepcionais cujo mérito não foi analisado. Precedentes.
+4. "A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele" (AR 5.160/RJ, 2ª Seção, DJe de 18/04/2018).
+5. O advogado não é parte legítima para figurar no polo passivo de ação rescisória ajuizada sob fundamentos que só alcançam a relação jurídica formada entre as partes da demanda originária. Precedente da 2ª Seção.
+6. Recurso especial conhecido e não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 06/02/2017.
+Concluso ao gabinete em: 28/08/2017.
+Ação: rescisória, ajuizada pela recorrente em face de NEIVA DOS SANTOS GOULART. Em síntese, pretende a autora a rescisão de acórdão do TJ/RS que, em ação movida pela parte ré, condenou a entidade à incorporação do auxílio "cesta-alimentação" no provento de suplementação de aposentadoria.
+Acórdão: acolheu preliminar de ilegitimidade passiva do advogado que representou a demandada na ação originária e, no mérito, por maioria, julgou improcedente o pedido rescisório, nos termos da seguinte ementa (e-STJ fl. 126):
+"AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. PRELIMINAR. CESTA -ALIMENTAÇÃO. ALTERAÇÃO DE POSICIONAMENTO.
+Preliminar.
+Reconhecida a ilegitimidade do advogado. Extinção da ação quanto a ele, na forma do art. 267, inciso VI, do CPC/73. Preliminar acolhida.
+Preliminares de inépcia e de impugnação ao valor da causa rejeitadas.
+Mérito.
+1. A ação rescisória somente é cabível nas hipóteses taxativamente previstas no artigo 485 do CPC. Não é possível verificar, da análise do contexto probatório, qualquer ilegalidade ou violação à legislação vigente, mas sim, de forma evidente, a pretensão da parte autora em ver reapreciada questão definitivamente julgada.
+2. A alteração de posicionamento jurisprudencial não autoriza a rescisão de sentença transitada em julgado, em fase de cumprimento. Precedente do STJ.
+PRELIMINAR DE ILEGITIMIDADE ACOLHIDA, E REJEITADAS AS DEMAIS PRELIMINARES, À UNANIMIDADE.
+AÇÃO RESCISÓRIA IMPROCEDENTE. MAIORIA".
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 114, 115, 966, V e VIII, e 1.022 do CPC/15; 3º da LC 108/01, 3º e 6º da Lei 6.321/76. Além de negativa de prestação jurisdicional, sustenta que: (i) o advogado da parte adversa na ação originária detém legitimidade para figurar no polo passivo da ação rescisória, "uma vez que os efeitos dos pedidos formulados nesta ação refletem diretamente nele na medida em que ensejará a obrigação de devolução dos valores percebidos a título de honorários advocatícios" (sic, e-STJ fl. 207); (ii) procede a pretensão rescisória, haja vista que, à época do trânsito em julgado da ação originária, a jurisprudência do STJ encontrava-se consolidada em sentido contrário ao do acórdão rescindendo, inclusive com entendimento firmado em sede de recurso especial repetitivo; (iii) houve erro de fato no julgamento, ao se considerar que a rubrica em questão constitui verba de natureza alimentar; (iv) o acórdão rescindendo criou custo adicional para o plano de benefícios, sem a respectiva fonte de custeio.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da harmonia entre o entendimento do acórdão recorrido e a jurisprudência do STJ
+A irresignação recursal não prospera, haja vista que o Tribunal de origem alinhou-se à jurisprudência desta Corte em relação às matérias veiculadas no recurso especial.
+Com efeito, na linha do enunciado da Súmula 343/STF, a jurisprudência do STJ é firme no sentido de não admitir a propositura de ação rescisória fundada em violação literal de Lei (arts. 485, V, do CPC/73 e 966, V, do CPC/15) para fins de adequação da decisão acobertada pelo manto da coisa julgada a posterior alteração jurisprudencial.
+Deveras, consoante asseverado pela Corte Especial no REsp 736.650/MT (DJe de 01/09/2014), "a pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF".
+Outrossim, é certo que, para a aferição da incidência da Súmula 343/STF, deve ser considerada a data em que proferida a decisão rescindenda, sendo irrelevante o trânsito em julgado em momento ulterior, quando postergado em razão da interposição de recursos excepcionais cujo mérito não foi analisado.
+A propósito, confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. AÇÃO RESCISÓRIA. ART. 485, V, DO CPC/1973. VIOLAÇÃO LITERAL DE LEI FEDERAL AFASTADA NA ORIGEM. SÚMULA N. 343/STF. DECISÃO MANTIDA.
+1. A jurisprudência do STJ abriga o entendimento consolidado na Súmula n. 343 do STF, segundo o qual "não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+2. A ação rescisória, fundada no art. 485, V, do CPC/1973, pressupõe violação frontal e direta de literal disposição de lei, de forma que seja possível extrair a ofensa legal do próprio conteúdo do julgado que se pretende rescindir.
+3. Para concluir pela aplicabilidade do entendimento consolidado na nota n. 343 da Súmula do STF e aferir a ocorrência da chamada "sentença rebelde" deve ser considerada a data em que proferida a decisão rescindenda, não se afigurando relevante o trânsito em julgado em momento ulterior, postergado em face da interposição de recursos excepcionais cujo julgamento não avançou sobre o mérito da controvérsia.
+4. No caso concreto, o acórdão rescindendo foi prolatado antes de o STJ firmar entendimento em sentido contrário ao de suas conclusões, adotando uma das interpretações possíveis para normas que, à época, eram objeto de interpretação controvertida nos tribunais. Incide, na espécie, o entendimento consolidado na Súmula n. 343 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.138.798/RS, 4ª Turma, Dje de 28/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. ADVOGADO A FAVOR DE QUEM FOI FIXADA VERBA HONORÁRIA. ILEGITIMIDADE PASSIVA. 3. CESTA-ALIMENTAÇÃO. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. INVIABILIDADE. SÚMULA 343/STF. PRECEDENTE ESPECÍFICO DA CORTE ESPECIAL. ERRO DE FATO. NÃO CONFIGURAÇÃO. 4. AGRAVO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. O advogado em favor de quem foram arbitrados honorários sucumbenciais na ação rescindenda é parte ilegítima para figurar no polo passivo da ação rescisória.
+3. Segundo entendimento deste Tribunal Superior, "a alteração jurisprudencial quanto à inviabilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada posterior à manifestação transitada em julgado não autoriza o manejo da ação rescisória" (EAREsp 397.326/MG, Rel. Min. Humberto Martins, Corte Especial, julgado em 19/10/2016, DJe de 26/10/2016).
+3.1. Não há erro de fato capaz de justificar a propositura de ação rescisória quando a questão foi devidamente debatida na ação originária.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.158.413/RS, 3ª Turma, DJe de 15/06/2018)
+Na hipótese dos autos, verifica-se que o acórdão rescindendo - que reconheceu o direito à incorporação do auxílio "cesta alimentação" - foi proferido antes desta Corte firmar orientação em sentido diverso quanto ao tema, razão pela qual, à luz do entendimento acima exposto, tem plena incidência o óbice contido na Súmula 343/STF, a impedir o manejo da ação rescisória com fundamento em violação de lei.
+Por outro lado, a jurisprudência do STJ é pacífica no sentido de que "a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele" (AR 5.160/RJ, 2ª Seção, DJe de 18/04/2018).
+No particular, contudo, constata-se que houve efetiva discussão quanto à natureza jurídica do auxílio - se verba de caráter remuneratório ou indenizatório -, a afastar a alegação de erro de fato.
+Por fim, quanto à legitimidade passiva do advogado, também não merece reforma o acórdão recorrido, eis que, consoante decidido pela 2ª Seção no julgado anteriormente mencionado, "o advogado não é parte legítima para figurar no polo passivo de ação rescisória ajuizada sob fundamentos que só alcançam a relação jurídica formada entre as partes da demanda originária".
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 3.000,00 (e-STJ fl. 147) para R$ 4.500,00.
+Por derradeiro, previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
