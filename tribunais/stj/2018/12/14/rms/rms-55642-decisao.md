@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME] e OUTROS, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ fls. 135/136):
+MANDADO DE SEGURANÇA - POLICIAIS MILITARES - RECÁLCULO DO VALOR PAGO A TÍTULO DE GAP III - PEDIDO DE AUMENTO PROPORCIONAL NO PERCENTUAL DE 33,33% EM VISTA DO AUMENTO DA JORNADA - PRESCRIÇÃO DE FUNDO DO DIREITO E DECADÊNCIA QUE SE AFASTA - PRESTAÇÃO DE TRATO SUCESSIVO - GRATIFICAÇÃO DE ATIVIDADE POLICIAL FIXADA EM VALORES FIXOS POR LEI - AUSÊNCIA DE VINCULAÇÃO À CARGA HORÁRIA - FIXAÇÃO DA REMUNERAÇÃO DOS SERVIDORES PÚBLICOS - PRINCÍPIO DA RESERVA LEGAL - NECESSIDADE DE OBEDIÊNCIA - AUSÊNCIA DE ILEGALIDADE, INJUSTIÇA OU EXCESSO A SER CORRIGIDO PELO PODER JUDICIÁRIO - AUSÊNCIA DE PROVA DE OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE - SEGURANÇA DENEGADA
+1. A relação discutida no caso em comento possui natureza omissiva, de caráter alimentar e trato sucessivo, sendo renovada mensalmente. Dessa forma, também renova-se continuamente o prazo previsto em lei para a impetração do mandado de segurança.
+2. Pelos mesmo motivo versando a ação sobre o pagamento de vencimentos de servidores públicos militares, obrigação de trato sucessivo, somente são atingidas as parcelas vencidas antes dos cinco anos anteriores ao ingresso da ação na forma da súmula 85 do STJ.
+3. Os valores a serem pagos pelos diferentes níveis da GAP a cada posto/graduação da PM/BA são expressamente fixados por lei em valores monetários, não cabendo ao Judiciário alterá-los sob alegação de ofensa à proporcionalidade em relação as horas trabalhadas, posto que, do contrário, estar-se-ia invadindo a esfera de competência dos Poderes Executivo e Legislativo;
+4. A remuneração dos servidores públicos é matéria que obedece a legalidade estrita, somente podendo ser fixada ou alterada por lei específica, de iniciativa privativa do Chefe do Executivo não tendo os impetrantes logrado êxito em demonstrar previsão legal para o reajuste de 33,33% requerido na exordial.
+5. Na forma salientada pelo parquet em seu pronunciamento, em se acolhendo a tese de que o valor da GAP deve ser calculado de forma proporcional à jornada de trabalho, levaria a uma das duas conclusões, aumento da jornada de trabalho para os níveis IV e V, o que não seria possível, ou extinção dos níveis IV e V, pois nestes, assim como no nível III, os policiais militares devem laborar 40 (quarenta) horas semanais.
+6. Segurança denegada.
+Na origem, os recorrentes impetraram mandado de segurança contra ato omissivo do Governador e do Secretário de Administração do Estado da Bahia, em que pleiteiam aumento remuneratório no percentual de 33,33%, a título de Gratificação de Atividade Policial Militar (GAPM).
+A segurança foi denegada sob o principal fundamento de ausência de previsão legal acerca de eventual proporcionalidade entre o valor da GAPM, instituída pela Lei n. 7.145/97, e a jornada de trabalhos dos policiais militares.
+No presente recurso, os recorrentes insistem na tese de vinculação entre a gratificação e a jornada de trabalho.
+Ao final, pleiteiam a reforma do acórdão atacado com a concessão da segurança.
+Contrarrazões foram prestadas pelo ESTADO DA BAHIA às e-STJ fls. 177/202.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fls. 212/218).
+Passo a decidir.
+Deve-se consignar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Estabelecida essa premissa, a irresignação recursal não comporta acolhida.
+A tese sufragada no acórdão impugnado espelha a orientação desta Corte no sentido de que não há proporcionalidade entre a Gratificação de Atividade Policial Militar no Estado da Bahia e a quantidade de horas trabalhadas pelo servidor. Confira-se:
+MANDADO DE SEGURANÇA. POLICIAL MILITAR. GRATIFICAÇÃO DE ATIVIDADE. AUMENTO REMUNERATÓRIO. CARGA HORÁRIA. PERCENTUAL DE 33,33%. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado contra ato supostamente ilegal praticado pelo Governador do Estado da Bahia, consistente no não pagamento do aumento remuneratório de 33,33% sobre o GAP V, previsto no art. 7º, VI e XVI, c/c o art. 39, §3º, e art. 37 da Constituição Federal de 1988.
+2. Com efeito, não foi comprovada a ofensa a direito líquido e certo no caso, porquanto a pretensão não está respaldada na legislação vigente, já que a jornada de trabalho de 40 (quarenta) horas semanais é um dos requisitos para que o Policial Militar receba a GAP no nível III, e não há qualquer previsão legal de que essa gratificação seja proporcional à quantidade de horas trabalhadas pelo servidor.
+3. Não há, portanto, ilegalidade na conduta da Administração Pública.
+4. Recurso Ordinário não provido.
+(RMS 54.983/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017).
+No mesmo sentido, as seguintes decisões monocráticas: RMS 056.095, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 26/04/2018; RMS 056.576, Rel. Ministrp FRANCISCO FALCÃO, Segunda Turma, DJe 18/04/2018.
+Por fim, destaco que, como descabe condenação em honorários advocatícios no mandado de segurança, nos termos do art. 25 da Lei n. 12.016/2009, por conseguinte, não há previsão para arbitramento dos honorários recursais do art. 85, § 11, do CPC/2015, na esteira de orientação pretoriana (ARE 996.650 AgR, Relator Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 17/02/2017, DJe 10/03/2017, e ARE 948.578 AgR, Relator Min. MARCO AURÉLIO, Primeira Turma, julgado em 21/06/2016, DJe 04/08/2016).
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
