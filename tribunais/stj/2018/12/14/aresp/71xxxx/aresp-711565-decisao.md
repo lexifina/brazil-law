@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão, que inadmitiu recurso extremo.
+Mediante análise dos autos, vê-se que a parte recorrente foi intimada da decisão agravada em 24/02/2015 (e-STJ fl. 574), tendo sido o agravo somente manejado em 27/04/2015. O prazo, contudo, havia finalizado no dia 06/03/2015.
+Dessa forma, a presente irresignação é inadmissível, porquanto intempestiva, uma vez que apresentada fora do prazo de 10 (dez) dias, nos termos do art. 544, caput, do CPC/1973.
+Conforme jurisprudência dominante nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende que seja conhecido. Nesse sentido: AgRg no AREsp 527.290/MG, Segunda Turma, Rel. Min. Assusete Magalhães, DJe de 22/8/2014.
+Cumpre esclarecer que "o prazo em dobro previsto no art. 191 do CPC/1973 não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer" (EDcl no AREsp 477.220/DF, 4ª Turma, Rel. Min. Maria Isabel Gallotti, DJe de 16/5/2014).
+Registro que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça".
+Ante o exposto, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
