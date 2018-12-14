@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal Regional Federal da 2ª Região, que negou admissibilidade a recurso contra acórdão assim ementado:
+ADMINISTRATIVO. EMPREGADO PÚBLICO. DISPENSA SEM MOTIVAÇÃO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. APLICAÇÃO DA LEGISLAÇÃO DOS SERVIDORES PÚBLICOS. IMPOSSIBILIDADE. APELAÇÃO DESPROVIDA.
+1. Cinge-se a questão na possibilidade da Apelante ser reintegrada aos quadros do Apelado e submetida ao regime estatutário, por se tratar de empregada celetista admitida em Conselho de Fiscalização Profissional.
+2. A Recorrente foi admitida pela Recorrida em 25/04/94, sob o regime da CLT, e desligada em 29/05/12.
+3."O fato de haver o Supremo Tribunal Federal determinado, em 02.08.2007, a suspensão da eficácia do art. 39, caput, da CF/88, com a redação que lhe foi dada pela EC19/98 não garantiu estabilidade aos empregados que, como o autor, haviam sido contratados sob a égide da legislação trabalhista, nem muito menos pretendeu alçá-los à condição de servidores públicos detentores de cargos públicos que jamais foram criados por lei e para os quais não prestaram concurso" (TRF2, Oitava Turma Especializada, AC 0013011- 39.2014.4.02.5101, Rei. Des. Federal MARCELO PEREIRA DA SILVA, e-&JF2R 31/08/16, unanime)
+4. A medida cautelar deferida na ADIN 2.135-4 possui efeito ex nunc, ressalvando-se a validade dos atos anteriormente praticados, restando, desta forma, preservada a dualidade de regimes.
+5. Ademais, a Apelante gozou, durante todos os anos em que manteve vínculo com a Apelada, dos bônus referentes ao regime celetista e jamais custeou para previdência pública, o que ratifica a tese de que no momento de sua rescisão devam ser observadas as normas celetistas.
+6. Apelação desprovida.
+Os Embargos de Declaração opostos foram rejeitados.
+Em suas razões de recurso especial, sustenta a parte recorrente negativa de vigência dos arts. 22 e 243 da Lei nº 8.112/1990, isso porque, subsiste, para a administração pública direta, autárquica e fundacional, a obrigatoriedade do regime jurídico único, ressalvadas as situações consolidadas na vigência da legislação que admitia a contratação sob o regime da CLT. Por fim, aponta dissídio jurisprudencial.
+Não foram apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que: I) a revisão das conclusões demandaria reexame de provas, nos termos da Súmula 7/STJ; II) dissídio jurisprudencial não demonstrado; III) incidência da Súmula 83/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade recursais.
+Ofertada contraminuta (e-STJ fls. 324/332).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não pode ser conhecido, pois a parte agravante não cuidou de impugnar, em bases concretas e específicas, bastante os fundamento da decisão agravada, em especial a incidência da Súmula 83/STJ.
+Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Bem assim, deve ser observada a Súmula nº 182/STJ que dispõe: "É inviável o agravo do art. 545 do CPC 1973  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalto que a impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido. Ilustrativamente, os seguintes precedentes:
+É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016).
+À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia (AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/08/2015).
+Vale ressaltar ainda, que a jurisprudência desta Corte pacificou o entendimento segundo o qual "a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça." (AgRg no AREsp 205.921/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 18/12/2012, DJe 08/02/2013).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
