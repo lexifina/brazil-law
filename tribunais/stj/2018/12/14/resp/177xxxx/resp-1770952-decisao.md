@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A., contra acórdão assim ementado (fl. 237):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE ADIMPLEMENTO.
+FASE DE CUMPRIMENTO DE SENTENÇA. PEDIDO DE PENHORA ON LINE. POSSIBILIDADE. CRÉDITO CONSTITUÍDO APÓS O PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. ARTIGO 49 DA LEI 11.101/05.
+Em se tratando de crédito constituído posteriormente ao processamento da recuperação judicial da agravada, possível o deferimento da penhora on line.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 276/280).
+Em suas razões, a recorrente alega afronta aos arts. 47 e 61 da Lei n. 11.101/2005, afirmando que "não se pode cogitar que, em razão da aprovação do PRJ e concessão da recuperação judicial, possam as execuções individuais prosseguirem com atos de constrição pelos mais diversos juízos singulares, desconsiderando a competência absoluta do juízo recuperacional para a acompanhar e decidir sobre a quitação dos créditos sujeitos ao PRJ" (fl. 293).
+Passo a decidir.
+A parte ora recorrente, na petição dos embargos opostos na origem, arguiu que bloqueios e constrições de valores em suas contas "acarretam em muitos prejuízos à empresa e ao próprio desenvolvimento e cumprimento do plano de recuperação, cuja competência para acompanhamento é restrita ao Juízo da Recuperação Judicial, conforme a seguir serão elencados" (fl. 250).
+O Tribunal de origem, ao julgar os embargos de declaração entendeu que "o crédito que se constitui após o deferimento da recuperação da empresa não se submete ao concurso universal, não necessitando seguir orientações emanadas pelo Juízo de recuperação" (fl. 278)
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que "o controle dos atos de constrição patrimonial, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, deve prosseguir sob a supervisão do Juízo universal, único competente para determinar a essencialidade dos bens constritos" (AgInt no CC 157.396/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 12/9/2018, DJe 17/9/2018). Nessa direção:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL.
+COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+1. São incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência das empresas devedoras, de modo a configurar conflito positivo de competência.
+2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+3. Franquear o pagamento dos créditos posteriores ao pedido de recuperação por meio de atos de constrição de bens sem nenhum controle de essencialidade por parte do Juízo universal acabará por inviabilizar, a um só tempo, o pagamento dos credores preferenciais, o pagamento dos credores concursais e, mais ainda, a retomada do equilíbrio financeiro da sociedade, o que terminará por ocasionar na convolação da recuperação judicial em falência, em prejuízo de todos os credores, sejam eles anteriores ou posteriores à recuperação judicial.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/05/2017, DJe 31/05/2017)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para determinar que a permissão da constrição seja avaliada pelo juízo universal, nos termos da jurisprudência desta Corte.
+Intimem-se.
