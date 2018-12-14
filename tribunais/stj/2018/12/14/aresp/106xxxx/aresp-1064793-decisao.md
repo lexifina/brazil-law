@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por [NOME] - Espólio, em face de v. acórdão proferido pela col. Quarta Turma desta eg. Corte, cuja ementa foi assim definida (fl. 379):
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DESTE. DECURSO DO PRAZO LEGAL. INTIMAÇÃO TÁCITA. IMPOSSIBILIDADE. VALIDADE DA PUBLICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO. REQUISITO DE ADMISSIBILIDADE. QUESTÃO COGNOSCÍVEL DE OFÍCIO. JUÍZO DE ADMISSIBILIDADE DA CORTE A QUO. NÃO VINCULAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A decisão sobre o primeiro juízo de admissibilidade do recurso especial foi publicada em 28/9/2016. Iniciado o prazo de quinze dias no primeiro dia útil subsequente, 29/9/2016, o prazo exauriu-se em 21/10/2016. Contudo, o agravo em recurso especial foi interposto apenas em 31/10/2016, quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, VIII, e 1.003, § 5º, do CPC/2015.
+2. Ocorrendo a intimação eletrônica e a publicação da decisão no DJEERJ, prevalece esta última, uma vez que, nos termos da legislação citada, a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais.
+Precedentes.
+3. A intempestividade do recurso deve ser declarada de ofício, porquanto se trata de matéria de ordem pública, visto que se trata dos requisitos extrínsecos do recurso de apelação, podendo, por isso, ser arguida a qualquer tempo e grau de jurisdição; constitui-se vício insanável (artigo 267, § 3º, do CPC/1973). Precedentes.
+4. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do agravo em recurso especial. Precedentes.
+5. Agravo interno a que se nega provimento."
+Aponta a parte embargante, em suas razões, a existência de divergência com o julgados das Colendas Segunda e Terceira Turmas, proferidos no julgamento do AREsp 981.940/RJ e AREsp 903.091/RJ, respectivamente.
+Sustenta, em síntese, que (fl. 392): "Com relação à contagem de prazos processuais, a melhor solução é, de fato, aquela apontada pela Terceira Turma do STJ, no v. acórdão paradigma, segundo a qual a intimação eletrônica prevalece sobre a publicação no DJe, de maneira que esta, deverá ter apenas caráter informativo (em atenção ao princípio da publicidade)."
+Requer, ao final, o conhecimento e provimento dos embargos de divergência com aplicação ao caso concreto do entendimento manifestado nos paradigmas, "de forma a ser anulado o julgamento que NEGOU provimento ao Agravo Interno, ante a equivocada intempestividade, para que outra decisão seja prolatada possibilitando que tanto o Agravo Interno, quanto o Recurso Especial sejam conhecidos dado provimentos aos mesmos, por ser da mais cristalina, imperiosa e lídima JUSTIÇA." (fl. 394).
+É o relatório.
+Decido.
+Destaco, primeiramente, que a divergência apontada com o julgado proferido pela Segunda Turma no AREsp n. 981.940/RJ atraiu a competência da Corte Especial, nos termos do art. 11, XIII, do RISTJ, razão pela qual a análise do presente recurso restringir-se-á ao paradigma em questão, devendo eventual divergência remanescente ser dirimida junto à Segunda Seção, conforme disciplina o art. 12, parágrafo único, inc. I, do RISTJ.
+Analisando a divergência apontada, verifica-se que o recurso não comporta processamento.
+Insta consignar a falta do necessário cotejo analítico entre o acórdão embargado e os paradigmas citados, conforme dispõe o artigo 266 § 4º do Regimento Interno desta Corte e o artigo 1.043, § 4º do Código de Processo Civil.
+Os artigos acima preceituam que o Embargante "mencionará as circunstâncias que identificam ou assemelham os casos confrontados".
+Tal requisito dos Embargos de Divergência exige que o Recorrente demonstre a semelhança fática ou processual, com conclusões diversas, com a finalidade de demonstrar a efetiva divergência entre os arestos, não bastando a mera transcrição de excertos dos julgados.
+No caso, tal cotejo não restou minimamente realizado, por ter a embargante se limitado a cotejar o acórdão embargado com o paradigma da Colenda Terceira Turma, nada referindo sobre o acórdão da Segunda Turma, o que não supre o requisito delineado.
+Nesse sentido:
+"PROCESSO CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. DIREITO À NOMEAÇÃO. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO. UTILIZAÇÃO DE PRECEDENTES DE TURMAS SUBMETIDAS À ALTERAÇÃO REGIMENTAL DE COMPETÊNCIA. IMPOSSIBILIDADE. SÚMULA 158/STJ. REDISTRIBUIÇÃO DETERMINADA.
+1. A divergência não foi caracterizada, pois não se realizou o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, é insuficiente a comprovação do dissídio jurisprudencial invocado. Precedentes.
+ ..
+ 3. No tocante à suposta divergência em relação ao paradigma proveniente da Segunda Turma, não é possível o seu enfrentamento pela Corte Especial, pois os acórdãos confrontados são de turmas da mesma seção. Logo, após trânsito em julgado desta decisão, os autos devem ser submetidos ao crivo da Primeira Seção do Superior Tribunal de Justiça, à qual compete apreciar eventual dissídio em relação àqueles paradigmas. Agravo interno improvido." (AgInt nos EREsp 1665076/TO, Corte Especial, Rel. Min. Humberto Martins, DJe 29/06/2018, grifei)
+"AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO ENTRE OS ARESTOS CONFRONTADOS NOS MOLDES DO ART. 266, § 4º, DO RI/STJ. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE MODIFICAR O DECISUM IMPUGNADO. AGRAVO IMPROVIDO.
+1. O provimento do agravo regimental requer a apresentação de fundamentos capazes de modificar a decisão impugnada.
+2. O conhecimento dos embargos de divergência exige a demonstração do dissídio jurisprudencial, nos termos do artigo 266, § 4º, do Regimento Interno deste Superior Tribunal de Justiça.
+3. A mera transcrição de ementa não configura o dissídio jurisprudencial, revelando-se indispensável, para o conhecimento dos embargos de divergência, a demonstração efetiva, através do cotejo analítico, dos pontos identificadores das semelhanças existentes entre as teses confrontadas de forma a atender os preceitos descritos no artigo 1.043, § 4º, do CPC/2015 c/c o artigo 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, situação inocorrente no caso em exame.
+ .. " (AgRg nos EAREsp 1183408/SC, Corte Especial, Rel. Ministro Jorge Mussi, DJe 09/11/2018, grifei)
+ Ante o exposto, indefiro liminarmente os embargos de divergência, com fulcro no art. 266-C do RISTJ.
+Oportunamente, redistribuam-se os autos à Segunda Seção para julgamento da alegada divergência com julgado da Terceira Turma.
+P. e I.
