@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO COLETIVA DE SENTENÇA CONTRA A FAZENDA PÚBLICA. SINDICATO. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. VIOLAÇÃO DO ART. 22, § 4º, DA LEI 8.906/1994. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 240):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. PRECATÓRIO. MONTANTE INCONTROVERSO. EXPEDIÇÃO POSSIBILIDADE. RETENÇÃO DE HONORÁRIOS CONTRATUAIS. EXISTÊNCIA DE CONTRATO AUTORIZATIVO. RECURSO PROVIDO.
+1 É cabível a expedição de precatório, ou RPV para o pagamento de valores incontroversos, sem isso importar fracionamento.
+2. A Ata da Assembléia Geral Unificada do SINDIRECEITA - Sindicato Nacional de Analistas Tributários da Receita Federal do Brasil ratifica o contrato firmado com os advogados a prever retenção de 15% do crédito exeqüendo, a título de honorários contratuais, sem a anuência individual expressa e posterior dos substituídos.
+Agravo de instrumento provido.
+Embargos de declaração rejeitados.
+A recorrente alega violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta ofensa ao art. 22, § 4º, da Lei 8.906/1994, ao argumento de que "não existindo vinculo contratual entre os servidores substituídos e os advogados, bem como anuência expressa dos credores quanto aos honorários advocatícios (ainda que constante do corpo da procuração), não é possível a retenção dos valores pactuados entre a associação autora e os advogados patrocinadores da causa. É que o instrumento contratual firmando entre a associação autora e os advogados patrocinadores, sendo res inter alios acta, não alcança os integrantes da categoria substituída" (fl. 271).
+Sustenta, ainda, em atenção ao princípio da economia processual, a necessidade de "reserva de 100% sobre o valor do precatório referente à parcela incontroversa, uma vez que poderá haver eventual condenação em honorários de sucumbência referentes aos embargos à execução e, consequentemente, dificuldade em se cobrarem tais valores via execução autônoma" (fl. 272).
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 279.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Dito isso, não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois a recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Da mesma forma, não conheço da apontada necessidade de "reserva de 100% sobre o valor do precatório referente à parcela incontroversa, uma vez que poderá haver eventual condenação em honorários de sucumbência referentes aos embargos á execução e, consequentemente, dificuldade em se cobrarem tais valores via execução autônoma" (fl. 272), porquanto a recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Por fim, quanto a apontada violação do art. 22, § 4º, da Lei 8.906/1994, assentou a Corte de origem (fl. 237):
+ ..
+Em relação ao segundo ponto da decisão agravada, objeto desta irresignação - refiro-me ao indeferimento do pedido de retenção dos honorários contratuais -, ao fundamento de que o contrato a prever o percentual de retenção teria sido firmado apenas entre o Sindicato e os advogados contratados, sem a anuência dos substituídos, parece-me que não subsiste diante das provas carreadas aos autos.
+É que os agravantes demonstram, por meio da Ata da Assembléia Geral Unificada, AGNU, ocorrida entre os dias 21 e 25 de maio de 2012 (fls. 47 e seguintes), que houve a ratificação dos termos do aludido contrato, quanto à fixação do percentual de 15% a título de honorários contratuais, pela própria categoria interessada, sendo de se reconhecer a verossimilhança dos fundamentos dos agravantes também nesse ponto.
+ ..
+Verifica-se, dessa feita, que não houve juízo de valor por parte da Corte de origem acerca da aplicação do dispositivo de lei federal tido por violado, bem como sobre a tese desenvolvida no apelo nobre, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido normativo.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
