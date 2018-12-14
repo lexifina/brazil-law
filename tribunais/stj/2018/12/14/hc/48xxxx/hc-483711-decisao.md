@@ -1,0 +1,14 @@
+DECISÃO
+1. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2258496-77.2018.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Nesta via, o impetrante afirma que a manutenção da custódia cautelar não apresentou fundamentação idônea, ressaltando que não estão presentes os requisitos da prisão preventiva elencados no art. 312 do Código de Processo Penal.
+Sustenta que estaria diante de flagrante ilegalidade passível de afastar o óbice contido no verbete 691 da Súmula do Supremo Tribunal Federal.
+Realça as condições pessoais favoráveis do paciente, que seria primário, com ocupação lícita e residência fixa, predicados que lhe garantiriam o direito de responder à ação penal em liberdade.
+Alega, ainda, que nenhuma droga foi apreendida na posse do paciente ou em sua residência.
+Requer, desse modo, a concessão sumária e definitiva da ordem constitucional para que seja revogada a segregatória preventiva do paciente, expedindo-se o alvará de soltura.
+É o relatório.
+2. Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que "Noto, liminarmente, às fls. 66/81 do processo originário, que foi interposto pedido de revogação da prisão preventiva, sem ainda ter sido apreciado pelo juízo coator. Dessa forma, nesse momento de cognição altamente limitada, impossível a concessão da tutela pleiteada, sob pena de supressão de instância. Haja vista pendência de decisão relativa ao motivo contra qual se insurge a presente impetração pelo juízo coator, somente após seu endereçamento é que se torna passível análise a ser feita por essa Corte" (e-STJ fls. 127/128).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+3. Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
