@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 300):
+ADMINISTRATIVO. EMPREGO PÚBLICO. DISPENSA SEM JUSTA CAUSA. LEI Nº 8.878/94. ANISTIA. READMISSÃO. DANOS MATERIAIS E MORAIS INDEVIDOS.
+1. Segundo o contexto probatório dos autos, a dispensa do autor na INTERBRÁS, em 25/09/1990, ocorreu sem justa causa, com indenização nos moldes do direito laboral, pondo fim àquele vínculo, e a admissão na PETROBRÁS, em dezembro de 2005 teve por fundamento as decisões da Comissão Especial Interministerial, instituída pelo Decreto 5115/2004, observados os procedimentos previstos na Orientação Normativa nº 03/2005, da Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão.
+2. A fim de demonstrar que a readmissão não observou as mesmas condições do cargo que exercia na empresa extinta, nos termos do art. 2º da Lei 8.878/94, e que tal fato resultou em prejuízo para o recorrente, seria necessário cotejar o antigo quadro da INTERBRÁS com os quadros da PETROBRÁS, verificando-se, a partir daí, os índices salariais, contudo, inexistem tais elementos nos autos.
+3. Não há como se admitir a indenização por dano material desejada, em função do longo período de afastamento, eis que o prejuízo envolveria, na sua essência, o pagamento da remuneração pretérita, expressamente vedado pelo art. 6º da Lei nº 8.878/94.
+4. Por outro lado, a "demissão de emprego, com percepção das parcelas devidas, em decorrência da política governamental implantada no País, não caracteriza dano moral, de modo a causar sofrimento psíquico e abalar a esfera íntima do empregado" (TRF4, AC 200771000292290, Quarta Turma, Rel. Sérgio Renato Tejada Garcia, D.E. 22/10/2010).
+5. Deve ser reiterado que os efeitos decorrentes da dita anistia foram disciplinados na lei concessiva, inexistindo previsão de verba específica para recompor um possível sofrimento que justificasse indenização por danos morais.
+6. Apelação conhecida e desprovida.
+Os aclaratórios foram rejeitados.
+Nas razões do especial, a parte recorrente aponta violação do art. 2º, caput, da Lei n. 8878/1994, sustentando que "como se infere pela prova dos autos, quando da extinção do vínculo empregatício, o autor exercia o cargo de "profissional sênior" e, na ocasião do retorno, foi readmitido, mediante novo contrato, para exercer a função de "engenheiro de equipamentos pleno", passando a receber remuneração equivalente a um novo empregado, sem consideração de qualquer benefício a que fazia jus em decorrência do tempo de trabalho exercido. (vide documentos de fls. 26 e 34)" (e-STJ fl. 333).
+Aduz, ainda, que "há que se entender que a indenização pleiteada é devida não como "remuneração retroativa", mas a título de reparação econômica pelo dano causado e lesão sofrida" (e-STJ fl. 335).
+Contrarrazões foram apresentadas às e-STJ fls. 342/351.
+O apelo nobre recebeu juízo positivo de admissibilidade pelo Tribunal de origem.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, verifica-se que o recurso não merece prosperar.
+Com efeito, no tocante ao art. 2º, caput, da Lei n. 8878/1994, para qualquer modificação do acórdão recorrido, quanto à inexistência de comprovação de que a readmissão não teria observado as mesmas condições do cargo que exercia o servidor na empresa extinta, seria necessário o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial nos termos da Súmula 7 do STJ.
+Quanto às demais alegações, além de o recorrente não ter indicado o artigo supostamente violado, teceu fundamentação genérica, não podendo o apelo ser conhecido nesse aspecto. Incide, na espécie, a Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
