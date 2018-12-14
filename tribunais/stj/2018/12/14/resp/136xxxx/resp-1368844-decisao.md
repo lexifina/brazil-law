@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Instituto Nacional de Colonização e Reforma Agrária, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fls. 246-247):
+CONSTITUCIONAL E. ADMINISTRATIVO. AÇÃO REINTEGRATÓRIA DF- POSSE. INCRA. TRANSFERÊNCIA DE IMÓVEL. ASSENTAMENTO. "REFORMA AGRARIA. VEDAÇÃO DE ALIENAÇÃO. AFASTAMENTO. FUNÇÃO SOCIAL DA PROPRIEDADE. PECULIARIDADE DO CASO CONCRETO. CONCORDÂNCIA DA AUTARQUIA FEDERAL.
+.1. Os imóveis concedidos pelo INCRA a particulares em virtude de reforma agrária não podem ser alienados antes de decorridos dez anos, nos termos do artigo 189, caput, da Constituição Federal.
+2. Sobreleva, todavia, considerar que todo e qualquer imóvel deve atender a sua função social, de acordo com o artigo 50, inciso XXIII, do mencionado diploma político.
+3. No caso concreto, a situação se estendeu no tempo e, ao que tudo indica, com a ciência da autarquia federal, sendo certo que, durante todo o período da apontada ocupação irregular, os demandados mantiveram efetiva obediência à função social da propriedade, cultivando-a nos moldes exigidos em casos que tais.
+4. Além disso - e esta é a questão principal -, consta dos autos instrumento particular, firmado em cartório, assinado por representante do INCRA, dando conta da concordância da autarquia com as alienações noticiadas e, inclusive, prometendo realocação de um dos demandados em outro assentamento com a mesma finalidade (o que, ao cabo, não se concretizou, posto que intentada a ação reintegratória em apreço, frustando expectativa criada pela própria entidade federal).
+5. O deferimento da reintegração de posse ao INCRA, diante do quadro, acarretaria prejuízos aos atuais ocupantes do imóvel, que o adquiriram de boa-fé e têm mantido a sua exploração nos termos visados pelo projeto de assentamento, cumprindo, dessa forma, a. função social exigida pela Carta Magna.
+6 Apelação e remessa oficial improvidas.
+Os embargos de declaração foram acolhidos, apenas para fins de prequestionamento (e-STJ, fl. 263).
+Alega o recorrente contrariedade aos arts. 535, I e II, do Código de Processo Civil/1973; 68 da Lei 4.504/1960; 72 e 77 do Decreto 59.428/1966; 1.210 do Código Civil; e 20, 21 e 22 da Lei 8.629/1993.
+Defende, em síntese: i) nulidade por omissão quanto ao impedimento à transferência dos lotes e permanência dos recorridos neles, à não emancipação do assentamento e à cláusula resolutória do contrato de assentamento; ii) impossibilidade de alienação de parte dos lotes conferidos pelo Incra a assentados, antes do prazo decenal, e necessidade de observação da cláusula resolutória do contrato e retorno do imóvel ao ente público.
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 281-282).
+Parecer pelo não conhecimento (e-STJ, fls. 291-297).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015, combinado com a Meta 2/CNJ/2018).
+É o relatório.
+O recurso não prospera.
+Registro, de início, não acolher a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+Constou no acórdão (e-STJ, fl. 244):
+É certo, frisa-se, que os imóveis concedidos pelo INCRA a particulares, em virtude de reforma agrária, não podem ser alienados antes de decorridos dez anos, conforme prevê o artigo 189, caput, da Constituição Federal.
+Todavia, sobreleva considerar que todo e qualquer" imóvel deve atender.a sua função social, de acordo com o artigo 5º, inciso XXIII, do mesmo diploma político.
+Assim, considerando a situação dos autos, o deferimento da reintegração de posse ao INCRA acarretaria prejuízos aos atuais ocupantes do imóvel, que o adquiriram de boa fé e têm mantido a sua exploração nos termos almejados pelo projeto de assentamento, cumprindo, desta forma, a função social exigida pela Carta Magna.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura qualquer vício passível de exame em embargos de declaração. Anote-se, ademais, que os textos infraconstitucionais apontados pela recorrente reproduzem as normas emanadas dos enunciados constitucionais expressamente mencionados.
+No mérito, o acórdão embasou seu entendimento nos seguintes elementos fáticos (e-STJ, fls. 238-244, grifos acrescidos):
+Nos moldes da pretensão do recorrente, configurado, está o esbulho, a bem evidenciar a ocupação irregular da área destinada à reforma agrária.
+Ocorre que, no caso concreto, a situação se estendeu no tempo e, ao que tudo indica, com a ciência da autarquia federal ora irresignada, sendo certo que, durante todo o período da apontada ocupação irregular, os demandados mantiveram efetiva obediência à função social da propriedade, cultivando-a nos moldes exigidos em casos que tais.
+Além disso - e esta é a questão principal -, consta dos autos instrumento particular (fls. 66 e 103), firmado em cartório, assinado por representante do INCRA, dando conta da concordância da autarquia com as alienações. noticiadas e, inclusive, prometendo realocação de um dos demandados em outro assentamento com a mesma finalidade (o que, ao cabo, não se concretizou, posto que intentada a ação reintegratória em apreço, frustando expectativa criada pela própria.entidade federal).
+Ademais, a prova testemunhal produzida, com respeito ao contraditório, foi uníssona ao explicitar que o bem ocupado,segue cumprindo com as finalidades da reforma agrária, a indicar a necessidade fática e casuística de manutenção da sentença.  ..
+É certo, frisa-se, que os imóveis concedidos pelo INCRA a particulares, em virtude de reforma agrária, não podem ser alienados antes de decorridos dez anos, conforme prevê o artigo 189, caput, da Constituição Federal.
+Todavia, sobreleva considerar que todo e qualquer" imóvel deve atender.a sua função social, de acordo com o artigo 50, inciso XXIII, do mesmo diploma político.
+Assim, considerando a situação dos autos, o deferimento da reintegração de posse ao INCRA acarretaria prejuízos aos atuais ocupantes do imóvel, que o adquiriram de boa fé e têm mantido a sua exploração nos termos almejados pelo projeto de assentamento, cumprindo, desta forma, a função social exigida pela Carta Magna.
+O recorrente, entretanto, deixa de enfrentar tais argumentos, suficientemente aptos a sustentar o entendimento adotado pela instância ordinária. Ao fazê-lo, incorre na hipótese da Súmula 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+ Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
