@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Desembargador Rondon Bassil Dower Filho, do Tribunal de Justiça do Estado de Mato Grosso, no julgamento da liminar no HC n. 1014032-83.2018.8.11.0000.
+Consta dos autos que o paciente foi preso em flagrante, em 27/1/2016, pela suposta prática das condutas descritas no art. 33, caput, e no art. 35, ambos da Lei de Drogas, pois estaria na posse de 51 quilogramas de cocaína. Após, a custódia foi convertida em prisão preventiva.
+Por meio de decisão liminar proferida por Ministro do STF, em habeas corpus, o paciente foi colocado em liberdade no dia 3/5/2017. Todavia, no julgamento meritório do referido writ, realizado em 13/11/2018, a liminar foi revogada, e denegada a ordem, considerando a quantidade expressiva de droga apreendida - 51kg (cinquenta e um quilos) de cocaína. Assim, diante do acórdão proferido pelo STF, a Magistrada determinou a expedição do competente mandado de prisão em desfavor do paciente, em 26/11/2018 (e-STJ fl. 25).
+Irresignada, a defesa impetrou prévio writ, com pedido liminar, alegando falta de fundamentação na decisão proferida às e-STJ fl. 25, que determinou a expedição do mandado de prisão em desfavor do paciente em razão do julgamento proferido pelo Supremo Tribunal Federal, e excesso de prazo na formação da culpa, uma vez que a instrução processual se encontraria encerrada desde 27/3/2017 e até a presente data não teria havido a prolação de sentença.
+O pedido liminar foi indeferido (e-STJ fls. 15/16).
+No presente writ, a defesa do paciente reitera os argumentos lançados na impetração anterior com o objetivo de revogar a custódia cautelar a ele imposta, seja por falta de fundamentação do decreto constritivo seja por excesso de prazo na formação da culpa.
+Requer a defesa, ao final, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar de forma mais detida a argumentação constante da impetração.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+A propósito, constou da decisão ora combatida a referência de que a Magistrada de piso, apesar de ter utilizado a terminologia "decreto a prisão preventiva", na verdade apenas determinou o cumprimento da ordem emanada pelo Supremo Tribunal Federal ao denegar no mérito o writ lá impetrado, cassando a liminar que outrora fora concedida, circunstância que, neste caso, legitima a imposição da segregação cautelar (e-STJ fl. 15).
+No que se refere ao alegado excesso de prazo, destacou o Desembargador relator que, "em consulta ao endereço eletrônico deste Sodalício, verifica-se que, quando colocado em liberdade por meio de liminar deferida pelo STF, em maio de 2017, a instrução processual já havia sido encerrada, sendo oferecidas as alegações finais pelas partes em 24/05/2017. Note-se que somente em 26/11/2018, há apenas 11 dias, é que se determinou a expedição de Mandado de Prisão em desfavor do Paciente, não havendo que se falar, ao menos neste juízo de cognição sumária, em constrangimento ilegal decorrente de excesso de prazo injustificado para formação da culpa" (e-STJ fl. 15).
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
