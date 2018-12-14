@@ -1,0 +1,46 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO. EFEITOS FINANCEIROS. DATA DE INÍCIO BENEFÍCIO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. CONVERSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO EM APOSENTADORIA ESPECIAL. OU REVISÃO DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONVERSÃO INVERSA. IMPOSSIBILIDADE. EXPOSIÇÃO AO AGENTE AGRESSIVO. RUÍDO. RECONHECIMENTO EM PARTE. NÃO PREENCHIDOS OS REQUISITOS DA APOSENTADORIA ESPECIAL. REVISÃO. TERMO INICIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. VERBA HONORÁRIA.
+- A questão em debate consiste na possibilidade de se reconhecer o trabalho especificado na inicial em condições especiais e determinar a conversão do benefício de aposentadoria por tempo de serviço em aposentadoria especial.
+- Passo a análise da possibilidade de conversão do tempo comum em especial. A jurisprudência é pacífica no sentido de que a mencionada conversão deixou de ser admitida com o advento da Lei n 9.032, de 28.04.1995.
+- Dessa forma, não é possível a conversão do tempo comum em especial para a concessão da aposentadoria especial na data do requerimento administrativo, em 17/12/2007.
+- A atividade desenvolvida pelo autor enquadra-se no item 1.1.6 do Decreto n" 53.831/64, item 1.1.5 do Anexo I., do Decreto n" 83.080/79 e item 2.0.1 do Decreto n" 2.172/97 que contemplavam a atividade realizada em condições de exposição a ruídos excessivos, privilegiando os trabalhos permanentes nesse ambiente.
+- Assentados esses aspectos, tem-se que o segurado não faz jus à aposentadoria especial, considerando-se que não cumpriu a contingência, ou seja, o tempo de serviço por período superior a 25 (vinte e cinco) anos, de modo a satisfazer o requisito temporal previsto no art. 57, da Lei n" 8.213/91.
+- Por outro lado, o requerente faz jus à conversão da atividade exercida em condições especiais em tempo comum e à revisão do valor da renda mensal inicial.
+- O pagamento dos atrasados deve ter seu termo inicial mantido na data da citação, eis que os documentos que comprovam a especialidade do labor foram produzidos na presente demanda.
+- A correção monetária e os juros moratórios incidirão nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor por ocasião da execução do julgado.
+- Quanto à honorária, predomina nesta Colenda Turma a orientação, segundo a qual, nas ações de natureza previdenciária, a verba deve ser fixada em 10% sobre o valor da condenação, até a data da sentença.
+- Apelo da parte autora e do INSS providos em parte.
+Em suas razões de recurso especial, o recorrente sustenta violação dos artigos 49, 54 e 57, § 2º, da Lei 8.213/1991, afirmando que o termo inicial da revisão do benefício deve ser a data do requerimento administrativo.
+Sem contrarrazões ao recurso especial.
+Noticiam os autos que [NOME] ajuizou ação previdenciária, objetivando o reconhecimento de tempo especial para fins de revisão de seu benefício previdenciário.
+A sentença julgou o pedido parcialmente procedente, para reconhecer o direito ao cômputo do período de 19/11/2003 a 17/12/2007 como atividade especial e consecutiva conversão em atividade comum, condenando o INSS à revisão da aposentadoria por tempo de contribuição.
+Ambas as partes apelaram, tendo o Tribunal a quo dado parcial provimento aos apelos da parte autora e da Autarquia previdenciária, nos termos da ementa supratranscrita.
+As duas partes opuseram embargos de declaração, que foram rejeitados.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ, que dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A questão central do recurso especial gira em torno do termo inicial dos efeitos financeiros da revisão da renda mensal inicial da aposentadoria por tempo de contribuição.
+O Tribunal de origem reconheceu que o segurado não faz jus à aposentadoria especial, por não satisfazer o requisito temporal previsto no artigo 57 da Lei 8.213/1991, mas que tem direito à conversão da atividade exercida em condições especiais em tempo comum e à revisão da renda mensal inicial, sendo que "o pagamento dos atrasados deve ter seu termo inicial mantido na data da citação, eis que os documentos que comprovam a especialidade do labor foram produzidos na presente demanda".
+Acerca da celeuma jurídica, a jurisprudência do STJ é firme no sentido de que o termo inicial dos efeitos financeiros da revisão corresponde à data da concessão do benefício, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. RENDA MENSAL INICIAL. EFEITOS FINANCEIROS DA REVISÃO. DATA DE INÍCIO DO BENEFÍCIO.
+1. O termo inicial dos efeitos financeiros da revisão deve retroagir à data de início do benefício previdenciário, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de direito já incorporado ao patrimônio jurídico do segurado, observada a prescrição quinquenal. Nesse sentido: AgRg no REsp 1.467.290/SP, REL. Ministro Mauro Campbell Marques, Segunda Turma, DJE 28.10.2014; REsp 1.108.342/RS, Quinta Turma, Relator Ministro Jorge Mussi, DJe 3.8.2009.
+2. Recurso Especial provido.
+(REsp 1.719.607/SP, Segunda Turma, Relator Ministro Herman Benjamin, DJe 2/8/2018)
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. EFEITOS FINANCEIROS. REQUERIMENTO ADMINISTRATIVO. DIREITO JÁ INCORPORADO AO PATRIMÔNIO.
+1. Inicialmente, no que tange à alegada ofensa ao art. 1.022 do CPC, o recurso não deve prosperar, uma vez que a Corte de origem, de modo claro e respaldado, manifestou-se sobre todas as questões necessárias ao deslinde da controvérsia. É pacífico no STJ o entendimento de que não está o Juiz obrigado a examinar, um a um, os pretensos fundamentos das partes, nem todas as alegações que produzem; o importante é que indique o embasamento de sua conclusão, em que se apoiou a sua convicção para decidir o caso.
+2. Hipótese em que o Tribunal local consignou: "Tratando-se de revisão do ato de aposentadoria, o termo inicial do benefício deve ser mantido na data da concessão da benesse em sede administrativa. Entretanto, no caso em apreço, os efeitos financeiros da revisão devem incidir a partir da citação (08/03/2012 - fl. 116), haja vista que o PPP de fls. 156/162, o qual possibilitou o reconhecimento do lapso requerido e, por conseguinte, a revisão do benefício, apenas foi apresentado na via judicial, não tendo o autor comprovado a juntada de documentação suficiente para o reconhecimento almejado já na esfera administrativa".
+3. O acórdão recorrido não se alinha ao posicionamento do Superior Tribunal de Justiça de que tem o segurado direito à revisão de seu benefício de aposentadoria desde o requerimento administrativo, pouco importando se, naquela ocasião, o feito foi instruído adequadamente. No entanto, é relevante o fato de, àquela época, já ter incorporado ao seu patrimônio jurídico o direito ao cômputo a maior do tempo de serviço, nos termos em que fora comprovado posteriormente em juízo. Precedente: REsp 1.539.705/RS, Relator Ministro Og Fernandes, Segunda Turma, DJe 17/4/2018.
+4. Recurso Especial parcialmente conhecido e provido.
+(REsp 1.738.096/SP, Primeira Turma, Relator Ministro Herman Benjamin, DJe 28/11/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. PARCELAS REMUNERATÓRIAS RECONHECIDAS PERANTE A JUSTIÇA DO TRABALHO. REVISÃO DE BENEFÍCIO. RENDA MENSAL INICIAL. SALÁRIOS DE CONTRIBUIÇÃO. COMPROVAÇÃO POSTERIOR PELO EMPREGADO. EFEITOS FINANCEIROS DA REVISÃO. DATA DA CONCESSÃO DO BENEFÍCIO.
+1. Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O termo inicial dos efeitos financeiros da revisão deve retroagir à data da concessão do benefício, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição. Precedentes.
+3. Recurso especial a que se nega provimento.
+(REsp 1.539.705/RS, Segunda Turma, Relator Ministro Og Fernandes, DJe 17/4/2018)
+Destarte, o acórdão recorrido merece reforma, para fixar-se na data de início do benefício o termo inicial dos efeitos financeiros da revisão da renda mensal inicial da aposentadoria por tempo de contribuição.
+Ante o exposto, com fulcro no artigo 932, V, do CPC/2015 c/c o artigo 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para determinar que a data de início do benefício seja o termo inicial dos efeitos financeiros da revisão.
+Publique-se.
+Intimem-se.
