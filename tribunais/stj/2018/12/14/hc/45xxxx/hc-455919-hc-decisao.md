@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de novo pedido de liminar apresentado em benefício de [NOME] em razão de decisão por mim proferida às fls. 104/105 na qual indeferi o pedido de liminar por ele solicitado.
+Na presente petição, reitera seu entendimento no sentido da existência de excesso de prazo para o julgamento da apelação, bem como na desnecessidade da manutenção da prisão para recorrer (fls. 112/118).
+Requer, assim, o deferimento da liminar pleiteada.
+É o relatório.
+Decido.
+Nada a deferir. Conforme consignado na decisão que indeferiu a medida liminar, não é possível identificar, de plano, o constrangimento ilegal aventado.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas.
+Por tais razões, indefiro o pedido.
+Publique-se.
+Intimem-se.
