@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão liminar proferida pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n.º 2255535-66.2018.8.26.0000, .
+Consta dos autos que o Paciente foi preso em flagrante, em 11/06/2018, pela suposta prática das condutas descritas nos arts. 33 e 35 da Lei n.º 11.343/2006, pois, em tese, foram apreendidas em sua residência "06 (seis) porções de maconha, que veio a pesar 10, 35 g; 11 (onze) porções de crack, pesando 3,90 g; 31 (trinta e uma) porções de cocaína, pesando 14,16 g" (fl. 19).
+A prisão foi convertida em preventiva (fls. 14-15).
+Inconformada, a Defesa impetrou habeas corpus, sendo indeferido o pedido liminar pelo Tribunal de origem (fl. 49).
+Nas razões do writ, sustenta o Impetrante, em síntese, a necessidade de se afastar a aplicação do enunciado da Súmula n.º 691 do Supremo Tribunal Federal, pois há, na hipótese, flagrante ilegalidade.
+Alega a ilicitude do decreto prisional, por ausência de motivação idônea, sobretudo em razão da utilização de elementos vagos e genéricos para embasar a segregação cautelar.
+Registra que o Paciente apresenta condições pessoais favoráveis, como a primariedade e os bons antecedentes, bem como possui residência fixa.
+Assevera a desproporcionalidade da medida restritiva, pois configura-se mais gravosa do que a advinda de eventual condenação.
+Afirma a suficiência das medidas cautelares alternativas à prisão, nos termos do art. 319 do Código de Processo Penal.
+Requer, em liminar e no mérito, seja revogada a prisão preventiva.
+É o relatório.
+Decido.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. É o que está sedimentado na Súmula n.º 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (AgRg no HC 447.280/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 01/06/2018; AgRg no HC 446.100/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 21/05/2018; AgRg no HC 444.105/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 21/05/2018; AgRg no HC 376.599/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 12/06/2018).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve-se preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado, tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+No caso, não houve, nas decisões ordinárias, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça, sobretudo diante das circunstâncias do caso concreto, que se referem à apreensão de variedade de drogas, bem como em razão dos registros de passagens criminais pelo Paciente, conforme se depreende de fl. 16, o que demanda cautela na análise da custódia preventiva.
+Diante do que foi registrado acima, não se observa, ao menos primo ictu oculi, teratologia a ser corrigida. A matéria, como se vê, depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente à Corte impetrada a análise, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da instância a quo, mormente porque o writ, ao que parece, está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
