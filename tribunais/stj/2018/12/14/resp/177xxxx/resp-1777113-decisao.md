@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo DISTRITO FEDERAL, em 10/08/2018, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO FISCAL. HONORÁRIOS DE SUCUMBÊNCIA. PERCENTUAL PREVISTO NO ART. 85, § 3º, CPC. VALOR EXORBITANTE. CRITÉRIO DA EQUIDADE. ART. 85, § 8º, CPC. APLICABILIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. Apelação interposta pelo Distrito Federal, contra sentença prolatada no âmbito de embargos à execução fiscal, em que busca a majoração da verba honorária de sucumbência fixada em R$ 750,00, postulando seja arbitrada entre dez e vinte por cento sobre o valor atualizado da causa atribuído em R$ 182.428,45, na forma do art. 85, §3º, I, c/c §4º, III, CPC.
+2. Nas causas em que a Fazenda Pública for parte, a fixação dos honorários sucumbenciais Obedecerá aos patamares estipulados pelo legislador nos §§ 3º e 4º do art. 85 do CPC, observados os critérios estabelecidos nos incisos I a IV do § 2º da aludida norma processual. 2.1. Porém, se o valor da causa for excessivo, o arbitramento da verba advocatícia não estará adstrito aos limites percentuais previstos no §3º, art. 85, do Diploma Processual. Nessa hipótese, em atenção ao princípio da proporcionalidade, cabível a aplicação do critério da equidade, de acordo com o § 8º, art. 85, CPC.
+3.Precedente Turmário: "A jurisprudência desta Corte tem se posicionado no sentido de que, independentemente de a Fazenda Púbica ser vencida ou vencedora, os honorários advocatícios não ficam adstritos aos limites percentuais definidos pelo CPC. É possível a utilização de critério de equidade e utilizar-se um valor fixo, tendo como base o art. 85, § 8º, do Códex Processual." (APC 2016.01.1.078859-5, rel. Des. Sandoval Oliveira, DJe de 20/02/2018).
+4. No caso, considerando os critérios elencados nos §§ 2º e 8º do art. 85, tem-se que a majoração dos honorários para R$ 3.000,00 (três mil reais) é adequada e suficiente para remunerar os procuradores distritais.
+5. Recurso parcialmente provido" (fls. 311/312e).
+Nas razões do Recurso Especial, o recorrente sustenta, além da divergência jurisprudencial, que "o douto acórdão recorrido ao afastar a aplicação dos dispositivos do art. 85 acima citados, e balizar-se por critérios "subjetivos" na fixação dos honorários de sucumbência, arrostou o disposto no artigo 85, § 3º, I e 4º, III, do CPC" (fl. 328e). Ao final, "a Fazenda espera e requer o conhecimento e provimento do Recurso Especial, majorando-se a verba honorária para 15% do valor atualizado da causa" (fl. 332e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 336/338e).
+Sem razão a parte recorrente.
+Segundo consta dos autos, "trata-se de apelo interposto por DISTRITO FEDERAL, contra sentença prolatada em embargos à execução fiscal, opostos por GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA., mediante os quais impugnou as multas impostas pelo PROCON/DF nos Processos Administrativos nº 0015-001102.2007 e nº 0015-001319-2006" (fl. 314e).
+Inicialmente, ressalto que a sentença foi prolatada na vigência do CPC/2015, ou seja, após 18/03/2016, sendo por isso aplicáveis as disposições do Novo Código de Processo Civil.
+Quanto aos honorários advocatícios, assim estabelece o CPC/2015:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1o São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+§ 2o Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+§ 3o Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2o e os seguintes percentuais:
+I - mínimo de dez e máximo de vinte por cento sobre o valor da condenação ou do proveito econômico obtido até 200 (duzentos) salários-mínimos;
+II - mínimo de oito e máximo de dez por cento sobre o valor da condenação ou do proveito econômico obtido acima de 200 (duzentos) salários-mínimos até 2.000 (dois mil) salários-mínimos;
+III - mínimo de cinco e máximo de oito por cento sobre o valor da condenação ou do proveito econômico obtido acima de 2.000 (dois mil) salários-mínimos até 20.000 (vinte mil) salários-mínimos;
+IV - mínimo de três e máximo de cinco por cento sobre o valor da condenação ou do proveito econômico obtido acima de 20.000 (vinte mil) salários-mínimos até 100.000 (cem mil) salários-mínimos;
+V - mínimo de um e máximo de três por cento sobre o valor da condenação ou do proveito econômico obtido acima de 100.000 (cem mil) salários-mínimos.
+§ 4o Em qualquer das hipóteses do § 3o:
+I - os percentuais previstos nos incisos I a V devem ser aplicados desde logo, quando for líquida a sentença;
+II - não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado;
+III - não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa;
+IV - será considerado o salário-mínimo vigente quando prolatada sentença líquida ou o que estiver em vigor na data da decisão de liquidação.
+§ 5o Quando, conforme o caso, a condenação contra a Fazenda Pública ou o benefício econômico obtido pelo vencedor ou o valor da causa for superior ao valor previsto no inciso I do § 3o, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente.
+§ 6o Os limites e critérios previstos nos §§ 2o e 3o aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito.
+§ 7o Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada.
+§ 8o Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2o.
+§ 9o Na ação de indenização por ato ilícito contra pessoa, o percentual de honorários incidirá sobre a soma das prestações vencidas acrescida de 12 (doze) prestações vincendas.
+§ 10. Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2o a 6o, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2o e 3o para a fase de conhecimento.
+§ 12. Os honorários referidos no § 11 são cumuláveis com multas e outras sanções processuais, inclusive as previstas no art. 77.
+§ 13. As verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença serão acrescidas no valor do débito principal, para todos os efeitos legais.
+§ 14. Os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial.
+§ 15. O advogado pode requerer que o pagamento dos honorários que lhe caibam seja efetuado em favor da sociedade de advogados que integra na qualidade de sócio, aplicando-se à hipótese o disposto no § 14.
+§ 16. Quando os honorários forem fixados em quantia certa, os juros moratórios incidirão a partir da data do trânsito em julgado da decisão.
+§ 17. Os honorários serão devidos quando o advogado atuar em causa própria.
+§ 18. Caso a decisão transitada em julgado seja omissa quanto ao direito aos honorários ou ao seu valor, é cabível ação autônoma para sua definição e cobrança.
+§ 19. Os advogados públicos perceberão honorários de sucumbência, nos termos da lei.
+Cinge-se a controvérsia dos autos em saber se é aplicável, para fins de fixação dos honorários advocatícios, a regra prevista no § 8º do art. 85 do CPC/2015 (por apreciação equitativa), ou a que se refere ao § 3º do aludido dispositivo legal (percentual sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa) e, ainda, em definir qual seria o proveito econômico do embargante a ser considerado.
+No presente caso, na sentença, foram julgados improcedentes os pedidos do recorrido, nos Embargos à Execução Fiscal, tendo sido fixados os honorários advocatícios, em favor do Distrito Federal, em R$ 750,00 (setecentos e cinquenta reais), em conformidade do art. 85, § 2º, do CPC/2015.
+O Tribunal de origem, por sua vez, reformou em parte a sentença, para majorar os honorários advocatícios para o valor de R$ 3.000,00 (três mil reais), firme nos seguintes fundamentos:
+"Nesta sede recursal, o Distrito Federal apela pela majoração da verba advocatícia. Postula que esta seja arbitrada entre dez e vinte por cento do valor atualizado da causa, na forma do art. 85, § 3º, I, c/c § 4º, III, CPC. Sustenta que o § 2º do art. 85, não é aplicável às causas em que a Fazenda Pública é parte, mas sim o § 3º da mesma norma. Defende que o juízo a quo, ao afastar a incidência do § 3º, negou vigência ao dispositivo processual, o que somente seria possível, entretanto, em sede de controle de constitucionalidade. Assinala que, ainda que admitida a incidência do § 2º, a sentenciante laborou em equívoco, vez que a verba deveria ter sido fixada entre 10% e 20% do valor atualizado da causa.
+(..)
+Portanto, para casos como o dos autos, a verba advocatícia deve ser fixada, a princípio,- obedecendo aos patamares estipulados pelo legislador nos §§ e 4º do art. 85 do Diploma Processual, observados os critérios estabelecidos nos incisos do § 2º do aludido dispositivo.
+Na hipótese, por não ter havido condenação, nem proveito econômico mensurável, os honorários devem tomar como base o valor da causa (§ 4º, III). Além disso, como o valor da demanda foi atribuído em R$ 182.428,45 (fl. 17), a variação percentual a ser adotada é aquela disposta no inciso I do § 3º (10% a 20%).
+Ocorre que, ainda que fixada a verba no percentual mínimo de 10% sobre o valor da causa, a quantia resultante (R$ 18.242,84) se mostraria exorbitante, porquanto o serviço advocatício não necessitou da prática de atos processuais de maior complexidade, tendo as provas sido estritamente documentais. Considera-se, também, o lugar da prestação do serviço, que, sendo nesta capital, não demandou maior disposição de tempo.
+Vislumbrando-se que o arbitramento dos honorários entre 10% e 20% sobre o valor da causa não seria adequada à remuneração dos procuradores distritais, é cabível a aplicação do critério da equidade, de acordo com o § 8º do art. 85 do CPC.
+(..)
+Nesse diapasão, em atenção aos parâmetros dos incisos do § 2º, art. 85, CPC, sobretudo a natureza da causa, sua duração e o grau de zelo profissional, entendo por proporcional e suficiente a elevação da verba advocatícia para R$ 3.000,00; já computada a majoração recursal dó § 11, art. 85, CPC" (fls. 316/319e)
+Nesse contexto, verifica-se que o Tribunal a quo, com base nos elementos fáticos-probatórios do autos, considerou que os honorários devem ser fixados com base no critério da equidade, uma vez que, se considerado o valor da causa, a verba honorária seria exorbitante, consideradas as peculiaridades do caso.
+É importante ressaltar que a jurisprudência do STJ firmou entendimento no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual, sendo sua fixação ato próprio dos juízos das instâncias ordinárias.
+Assim sendo, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Registre-se, a propósito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. NÃO CONFIGURADO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Ação de execução para entrega de coisa incerta relativa a sacas de feijão-soja. A fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% (dez) e 20% (vinte) por cento, constante do § 2º do art. 85 do CPC, podendo ser adotado como base de cálculo o valor dado à causa ou a condenação ou mesmo uma quantia fixa, segundo o critério de equidade previsto no § 8º do mencionado normativo. Precedentes do STJ.
+2. A alteração do valor fixado a título de honorários advocatícios somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+3. Na presente hipótese, em que os honorários foram fixados com base na equidade, tem-se que alterar o decidido pelo Tribunal de origem à titulo de verba honorária, demandaria o reexame de fatos e provas vedado pela Súmula 7/STJ.
+4. Agravo interno não provido" (STJ, AgInt no AREsp 1.284.752/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 28/08/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
