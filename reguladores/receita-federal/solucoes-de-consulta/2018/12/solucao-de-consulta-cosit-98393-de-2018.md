@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98393, de 6 de dezembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9006.99.00 Mercadoria: Artefato constituído predominantemente de alumínio, contendo um apoio na parte central para encaixe da câmera fotográfica e dois braços articulados em cujas extremidades são encaixados os flashes, próprio para realização de fotografias odontológicas, com intuito de se obter melhores ângulos de iluminação, acrescentando mais qualidade às fotos, denominado “suporte de flash duplo”.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 b) do Capítulo 90 e texto da posição 90.06) e RGI 6 (textos da subposição de primeiro nível 9006.9 e de segundo nível 9006.99.00) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.393-2018.pdf]
