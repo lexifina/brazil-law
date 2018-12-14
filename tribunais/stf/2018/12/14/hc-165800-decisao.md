@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus com pedido liminar, impetrado em favor de Ualison Dener Araújo Bertholdi contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 461.717/SP, ementado nos seguintes termos:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FRAÇÃO DE AUMENTO SUPERIOR À 1/6 (UM SEXTO) NA SEGUNDA FASE DA DOSIMETRIA. POSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. PRECEDENTES. AGRAVO REGIMENTAL PROVIDO.
+    I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+    II - Consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6 (um sexto), pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea.
+    III - Verifica-se que houve fundamentação idônea a lastrear o valor fracionário utilizado em patamar diverso à 1/6 (um sexto), em razão da reincidência específica ostentada pelo réu. Precedentes.
+    IV - As instâncias ordinárias estão em consonância com a jurisprudência deste Tribunal Superior, inexistindo flagrante ilegalidade no aumento operado em patamar diverso à 1/6 (um sexto), em razão da reincidência específica ostentada pelo réu.
+    Agravo regimental desprovido”. (eDOC 4)
+    Consta dos autos que o paciente foi preso em flagrante, na posse de 27,9 gramas de maconha, tendo sido denunciado e condenado à pena de 6 anos e 8 meses de reclusão, no regime inicial fechado como incurso no art. 33, caput, da Lei 11.343/06 (tráfico de drogas). (eDOC 2)
+    Irresignada a defesa apresenta recurso de apelação perante o Tribunal local, que restou improvido. (eDOC 3)
+     Dessa decisão a defesa impetrou habeas corpus perante o STJ, o qual não foi provido por decisão da Quinta Turma, em acórdão ementado nos termos em que inicialmente transcrito. (eDOC 4)
+    Na presente impetração a defesa sustenta que o paciente se encontra submetido a constrangimento ilegal, face à não observação pelas decisões anteriores do princípio da individualização da sua pena, uma vez que sua pena teria sido exacerbada no patamar de 1/3 pela apreensão de quantidade de droga (27 gramas), indo em desacordo com a jurisprudência aplicada à espécie em casos semelhantes. (eDOC 1, p. 3)
+    Requer que o aumento da pena que foi imposta ao paciente, em razão de sua reincidência específica, seja alterado do patamar de 1/3 para o de 1/6. (eDOC 1, p. 7)
+    É o relatório.
+    Decido.
+    Inicialmente registra-se que, conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Em relação à dosimetria da pena aplicada ao caso, destaco do acórdão proferido pelo Tribunal local o seguinte trecho:
+    “Com relação a fixação da pena, agiu corretamente o M.M. juízo a quo, posto que a mesma foi fixada dentro dos limites legais, e se encontra devidamente motivada, individualizada e adequada à hipótese dos autos, não se cogitando de redução. Tendo a pena base aplicada sido estabelecida corretamente em seu patamar mínimo legal.
+    Ato contínuo, a pena restou corretamente acrescida em 1/3, ante o reconhecimento da circunstância agravante disposta no artigo 61, inciso I, do Código Penal, qual seja, a reincidência do réu, devidamente comprovada através das certidões de fls. 322/323.
+    Assim, a sanção totaliza seis anos e oito meses de reclusão, e pagamento de seiscentos e sessenta e seis dias-multa. Pena esta que se tornou concreta, ante a ausência de outras circunstâncias modificadoras. E, portanto, não comporta qualquer redução”. (eDOC 3, p. 10-11)
+    Depreende-se que o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do paciente.
+    Ademais, conforme consignado pela Segunda Turma, quando do julgamento do HC 137.532/SP, Rel. Min. Ricardo Lewandowski, Red. p. Acórdão Min. Dias Toffoli, DJe 17.8.2017:
+    “(...) 2. Havendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08). 3. É pacífica a jurisprudência da Corte de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal e consideradas na sentença condenatória (HC nº 120.146/SP, Primeira Turma, de minha relatoria, DJe de 22.4.14)”.
+    Cito, ainda, o seguinte julgado:
+    “(...) 2. Havendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08). 3. É pacífica a jurisprudência da Corte de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal e consideradas na sentença condenatória (HC nº 120.146/SP, Primeira Turma, de minha relatoria, DJe de 22.4.14)”.
+    No presente caso não verifico teratologia ou ilegalidade na fixação do patamar de 1/3 e não de 1/6 no aumento da pena aplicada, em razão da reincidência específica não contestada, por tráfico de drogas, tendo em vista ter sido individualmente responsabilizado, de modo que não se justifica a concessão da presente ordem.
+     Ante o exposto, com base no art. 192, caput, do RISTF, denego a ordem do presente habeas corpus.
+    Publique-se.
+    Brasília, 14 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
