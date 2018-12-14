@@ -1,0 +1,506 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+14/12/2018
+
+PLENÁRIO
+
+AG.REG. EM MANDADO DE SEGURANÇA 35.959 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: CONFEDERACAO NACIONAL DAS PROFISSOES
+LIBERAIS
+: AMADEU ROBERTO GARRIDO DE PAULA
+: PRESIDENTE DA REPÚBLICA
+: ADVOGADO -GERAL DA UNIÃO
+
+EMENTA:
+AGRAVO
+INTERNO
+EM
+MANDADO
+DE
+SEGURANÇA. ATO DO PRESIDENTE DA REPÚBLICA. DECRETO
+9.461/2018.
+DIREITO
+ADMINISTRATIVO.
+CRIAÇÃO
+DO
+CONSELHO FEDERAL DOS TÉCNICOS AGRÍCOLAS E DO
+CONSELHO FEDERAL DOS TÉCNICOS INDUSTRIAIS. ART. 34 DA
+LEI 13.639/2018. COORDENAÇÃO DO PRIMEIRO PROCESSO
+ELEITORAL. CONFEDERAÇÃO NACIONAL DAS PROFISSÕES
+LIBERAIS – CNPL. REGULAMENTAÇÃO. DECRETO 9.461/2018. ATO
+COATOR. LEGÍTIMO EXERCÍCIO DO PODER REGULAMENTAR.
+ART. 84, IV, DA CRFB/88. AUSÊNCIA DE DIREITO LÍQUIDO E
+CERTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A competência regulamentar outorgada ao Presidente da
+República pelo art. 84, IV, da Constituição da República, possui a
+finalidade de produzir normas requeridas para a execução de leis quando
+estas demandem uma atuação administrativa a ser desenvolvida dentro
+de um espaço de liberdade exigente de regulação ulterior, a bem de uma
+aplicação uniforme da lei, isto é, respeitosa do princípio da igualdade de
+todos os administrados (MELLO, Celso Antônio Bandeira de. Curso de
+Direito Administrativo. 21ª ed. São Paulo: Malheiros, 2006, p. 336).
+2. O art. 34 da Lei 13.639/2018 prevê a prerrogativa da Confederação
+Nacional das Profissões Liberais – CNPL de coordenar o primeiro
+processo eleitoral para a criação dos conselhos federais, em cooperação
+com outras entidades sindicais, não havendo qualquer imposição legal
+identificada no sentido da atribuição exclusiva da CNPL para estabelecer
+todos os procedimentos do processo eletivo.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 84A0-D6A1-EED1-120D e senha BCF2-742B-DDF1-2B2E
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+MS 35959 AGR / DF
+3. O Decreto 9.461/2018, ora impugnado, editado pelo Presidente da
+República no afã de regulamentar o dispositivo legal, detalhou a forma
+como deve ocorrer o primeiro processo eleitoral da Diretoria Executiva do
+Conselho Federal dos Técnicos Industriais e da Diretoria Executiva do
+Conselho Federal dos Técnicos Agrícolas.
+4. In casu, a análise do Decreto 9.461/2018 demonstra o papel
+meramente regulamentar do ato do Presidente da República, tornando
+apta e uniforme a execução do comando legal, em respeito ao postulado
+da isonomia entre os destinatários da norma.
+5. Agravo interno DESPROVIDO por manifesta improcedência,
+com aplicação de multa de 2 (dois) salários mínimos, ficando a
+interposição de qualquer recurso condicionada ao prévio depósito do
+referido valor, em caso de decisão unânime (CPC/2015, art. 1.021, §§ 4º e
+5º, c/c art. 81, § 2º).
+ACÓRDÃO
+O Plenário do Supremo Tribunal Federal, na conformidade da ata de
+julgamento virtual de 7 a 13.12.2018, por unanimidade, negou
+provimento ao agravo regimental e aplicou a multa prevista no artigo
+1.021, §§ 4º e 5º, c/c art. 81, § 2º, do CPC/2015, nos termos do voto do
+Relator.
+Brasília, 14 de dezembro de 2018.
+Ministro LUIZ FUX - RELATOR
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 84A0-D6A1-EED1-120D e senha BCF2-742B-DDF1-2B2E
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+14/12/2018
+
+PLENÁRIO
+
+AG.REG. EM MANDADO DE SEGURANÇA 35.959 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: CONFEDERACAO NACIONAL DAS PROFISSOES
+LIBERAIS
+: AMADEU ROBERTO GARRIDO DE PAULA
+: PRESIDENTE DA REPÚBLICA
+: ADVOGADO -GERAL DA UNIÃO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se agravo interno
+interposto em face de decisum que negou seguimento ao writ, conforme
+decisão assim ementada, in verbis:
+MANDADO DE SEGURANÇA. ATO DO PRESIDENTE
+DA
+REPÚBLICA.
+DECRETO
+9.461/2018.
+DIREITO
+ADMINISTRATIVO. CRIAÇÃO DO CONSELHO FEDERAL
+DOS TÉCNICOS AGRÍCOLAS E DO CONSELHO FEDERAL
+DOS TÉCNICOS INDUSTRIAIS. ART. 34 DA LEI 13.639/2018.
+COORDENAÇÃO DO PRIMEIRO PROCESSO ELEITORAL.
+CONFEDERAÇÃO NACIONAL DAS PROFISSÕES LIBERAIS –
+CNPL. REGULAMENTAÇÃO. DECRETO 9.461/2018. ATO
+COATOR.
+LEGÍTIMO
+EXERCÍCIO
+DO
+PODER
+REGULAMENTAR. ART. 84, IV, DA CRFB/88. AUSÊNCIA DE
+DIREITO LÍQUIDO E CERTO. MANDADO DE SEGURANÇA A
+QUE SE NEGA SEGUIMENTO.
+
+Originariamente, cuida-se de mandado de segurança, aparelhado
+com pedido de medida liminar, impetrado pela Confederação Nacional
+das Profissões Liberais - CNPL contra ato do Presidente da República,
+consubstanciado na promulgação do Decreto 9.461/2018, que dispõe
+sobre o primeiro processo eleitoral do Conselho Federal dos Técnicos
+Agrícolas e do Conselho Federal dos Técnicos Industriais.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DFB5-D6D1-A025-882E e senha 2C05-5A94-67AF-DFD7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+MS 35959 AGR / DF
+
+Narra o impetrante que a autoridade coatora teria se intrometido,
+ilegitimamente, na competência soberana reservada à CNPL pelo art. 34
+da Lei 13.639/2018, para coordenar o primeiro processo eleitoral para a
+criação dos referidos Conselhos.
+Irresignada, impetrou o presente mandado de segurança. Em
+amparo de sua pretensão, alega:
+(…)
+7. Como é cediço, os Conselhos Profissionais são autarquias
+integrantes da administração indireta do Estado e gozam de
+autonomia administrativa, nos moldes da lei que as tenham
+constituído.
+8. Nesse quadro, em que a lei atribuiu à Impetrante e entidades
+que representa os direitos-deveres respectivos à primeira eleição
+diretiva dos Conselhos Profissionais em tela, observados, obviamente,
+o campo de sua plena autonomia no âmbito da administração indireta,
+sobreveio o decreto, "data venia", ao arrepio da lei, em ordem a
+representar intromissão indevida em seara soberana reservada pela lei
+regulamentada à Impetrante.
+(...)
+10. Acrescente-se aos fundamentos expostos que, em seu art. 1º,
+§ 1º, o decreto combatido atribui à Impetrante o ônus de custear as
+eleições; além da injuridicidade do comando, note-se que, praticamente
+extintas as contribuições sindicais a impetrante não tem as mínimas
+condições de fazê-lo. E não é demasiado lembrar que alguém só pode
+ser obrigado a fazer ou deixar de fazer alguma coisa senão em virtude
+de lei, não de decreto regulamentar.
+(...)
+
+Nesse cenário, pugna pela concessão da ordem para que possa dar
+início ao processo eleitoral “segundo as suas regras próprias”, sem
+necessidade de observância aos comandos contidos no Decreto
+9.461/2018.
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DFB5-D6D1-A025-882E e senha 2C05-5A94-67AF-DFD7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+MS 35959 AGR / DF
+
+Devidamente intimada, a autoridade impetrada informou que:
+(…) no caso concreto, o ato consubstanciado na edição do
+Decreto nº 9.461/18 nada mais fez do que delinear os contornos para
+que o comando expresso no art. 34, da Lei 13.639/18 produzisse seus
+feitos nos estritos limites legais, não havendo que se falar em qualquer
+interferência do Estado no exercício e nas prerrogativas da CNPL.
+16. A própria lei estabelece que a autora é quem coordenará o
+primeiro processo eleitoral. Ora, natural, portanto, que a mesma
+disponibilize toda a estrutura necessária ao cumprimento dos
+trabalhos eleitorais, vez que o Conselho Profissional dos Técnicos
+Agrícolas e dos Técnicos Industriais, até o momento da primeira
+eleição, não dispõe sequer de diretoria eleita, quiçá condições para
+organizar os escrutínios.
+17. De outra feita, conforme se pode observar do site do
+Conselho Federal dos Técnicos Industriais, em 22 de junho de 2018
+(data anterior ao ajuizamento deste writ), foi realizada a eleição da
+primeira Diretoria Executiva e dos Conselheiros do Conselho Federal
+dos Técnicos Industriais, na sede da autora da ação. Portanto,
+observa-se que o processo eletivo vem ocorrendo sem maiores
+complicações, inclusive com a convocação para as eleições regionais já
+publicadas no DOU, seguindo-se o que estabelecido no Decreto nº
+9.461/2018.
+(…) (eDoc. 63)
+
+No dia 21/9/2018, diversas entidades sindicais requereram ingresso
+no feito como amici curiae, com fundamento no art. 138 do CPC,
+afirmando que:
+(…)
+No que toca à relevância da matéria, inegável que a decisão a ser
+proferida por este juízo interferirá de modo direto e irreversível no
+PRIMEIRO processo eleitoral do Conselho Federal dos Técnicos
+Agrícolas, posto que a Impetrante, em suma, pleiteia o afastamento in
+totum das balizas apresentadas pelo Decreto nº 9.461/2018, que
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DFB5-D6D1-A025-882E e senha 2C05-5A94-67AF-DFD7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+MS 35959 AGR / DF
+regulamenta o artigo 34 da Lei nº 13.639/2018, a fim de que possa ela
+conduzir o referido pleito conforme o seu melhor julgamento.
+Aliás, o exposto serve à constatação também da presença de
+outro requisito – a especificidade da matéria objeto da demanda.
+Finalmente, ainda que desnecessária a sua menção, encontra-se
+presente a repercussão social da controvérsia, com a particularidade do
+seu direcionamento a determinado grupo social – a categoria
+profissional dos técnicos agrícolas e suas entidades representativas.
+(eDoc. 65)
+
+Ato contínuo, em 11.10.2018, proferi decisão monocrática em que
+indeferi os pedidos de ingresso nos autos como amici curiae e neguei
+seguimento ao mandamus, ante o conteúdo meramente regulamentador
+do ato do Presidente da República, tornando apta e uniforme a execução
+do comando legal, conforme competência prevista no art. 84, IV, da
+Constituição.
+Irresignada, a parte interpôs agravo interno.
+Em amparo de sua pretensão, reafirma os argumentos exarados na
+exordial, salientando a extrapolação dos poderes do Presidente da
+República ao editar o Decreto impugnado, de sorte que o Poder Executivo
+Federal não poderia invadir o campo de regência de entidade de direito
+privado.
+Pugna pelo conhecimento e provimento do presente agravo, “para
+afastar-se a incidência do Decreto Regulamentar do ato atribuído pela lei à
+autonomia da Impetrante”.
+É o relatório.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DFB5-D6D1-A025-882E e senha 2C05-5A94-67AF-DFD7
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+14/12/2018
+
+PLENÁRIO
+
+AG.REG. EM MANDADO DE SEGURANÇA 35.959 DISTRITO FEDERAL
+VOTO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Consoante narrado, o
+presente mandamus cinge-se a verificação de eventual ilegalidade do
+Decreto 9.461/2018 frente à atribuição conferida pelo art. 34 da Lei
+13.639/2018 à Confederação Nacional das Profissões Liberais - CNPL.
+Transcrevo o referido dispositivo para melhor compreensão, in verbis:
+Lei 13.639/2018
+(…)
+Art. 34. A Confederação Nacional das Profissões Liberais
+(CNPL), em articulação com as federações, os sindicatos e as
+associações dos profissionais referidos nesta Lei, coordenará o primeiro
+processo eleitoral para a criação dos conselhos federais, devendo a
+eleição e a posse ocorrer no prazo máximo de 6 (seis) meses, contado
+da publicação desta Lei.
+Parágrafo único. Realizada a eleição e instalado o Conselho
+Federal dos Técnicos Industriais e o Conselho Federal dos Técnicos
+Agrícolas, caberá ao respectivo conselho decidir em quais Estados
+serão instalados conselhos regionais e em quais Estados serão
+compartilhados conselho regional por insuficiência de inscritos.
+
+Em que pesem os argumentos expendidos no agravo, resta
+evidenciado das razões recursais que a agravante não trouxe nenhum
+argumento capaz de infirmar a decisão hostilizada que denegou a
+segurança.
+Com efeito, dessume-se da legislação a previsão, de forma genérica,
+da competência para que a CNPL coordene a primeira eleição para a
+criação dos Conselhos Federais dos Técnicos Agrícolas e o dos Técnicos
+Industriais.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A27-DA49-1283-6ECB e senha C865-F1D5-F154-3718
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+MS 35959 AGR / DF
+A respeito dessa responsabilidade atribuída à impetrante, o
+dispositivo especifica, apenas, que o processo eleitoral seja realizado com
+a participação das federações, sindicatos e associações dos técnicos
+agrícolas e industriais, bem como que a eleição e a posse ocorram no
+prazo de seis meses contados da publicação da lei.
+Por sua vez, o Decreto 9.461/2018 – ora impugnado – detalhou a
+forma como essa competência seria exercida, determinando, em síntese:
+(i) que a CNPL coordene o processo eleitoral e providencie a
+estrutura necessária para a eleição dos referidos Conselhos, exercendo os
+atos essenciais com o conhecimento e autorização prévios das federações
+nacionais, sindicatos e associações estaduais representantes das
+respectivas categorias;
+(ii) os requisitos e a atuação das federações, sindicatos e associais
+estaduais que poderão participar da organização da eleição;
+(iii) a formação, composição e atuação das comissões eleitorais;
+(iv) os responsáveis pelo processo eleitoral dos órgãos e cargos que
+compõem os conselhos federais, o prazo de troca de filiação dos
+profissionais e o repasse dos valores pagos aos conselhos de fiscalização
+profissional anteriores.
+Estabelecidas essas premissas, não há como acolher, na presente via
+mandamental, a tese de extrapolação do Decreto 9.461/2018 em relação
+aos limites previstos no art. 34 da Lei 13.639/2018. Pelo contrário, a análise
+do conteúdo demonstra o papel meramente regulamentador do ato do
+Presidente da República, tornando apta e uniforme a execução do
+comando legal, conforme competência prevista no art. 84, IV, da
+Constituição (i.e., “sancionar, promulgar e fazer publicar as leis, bem como
+expedir decretos e regulamentos para sua fiel execução”). Nessa linha são os
+seguintes julgados desta Corte, in verbis:
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO
+ORDINÁRIO
+EM
+MANDADO
+DE
+SEGURANÇA.
+REGULAÇÃO, SUPERVISÃO E AVALIAÇÃO DE INSTITUIÇÃO
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A27-DA49-1283-6ECB e senha C865-F1D5-F154-3718
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+MS 35959 AGR / DF
+DE ENSINO SUPERIOR. CRIAÇÃO DE NOVOS CURSOS.
+FUNÇÃO REGULAMENTAR DO PODER EXECUTIVO.
+CONSELHO
+DE
+FISCALIZAÇÃO
+DE
+PROFISSÃO
+REGULAMENTADA. AUSÊNCIA DE DIREITO SUBJETIVO.
+NEGADO PROVIMENTO AO RECURSO. 1. O exercício do
+poder regulamentar pelo Presidente da República (art. 84, IV,
+CF/88) e por Ministros de Estado - em auxílio à função diretiva
+da administração federal (art. 84, II, CF/88) - é legítimo quando
+restrito à expedição de normas complementares à ordem
+jurídico-formal vigente. 2. A pretensão não está amparada em
+qualquer fundamento constitucional, legal ou infralegal de que se
+possa extrair direito subjetivo líquido e certo do autor a ser protegido
+na via do mandamus. 3. Recurso ordinário a que se nega provimento.
+(RMS 27.666, Rel. Min. Dias Tofoli, Primeira Turma, DJe de
+4/5/2012);
+CONSTITUCIONAL
+E
+ADMINISTRATIVO.
+IMPUGNAÇÃO DE DECISÃO DO TCU. LIMITES DO PODER
+REGULAMENTAR. DECRETO 343/1991 E PORTARIA FUNASA
+138/2001. NÃO DEMONSTRADO O DIREITO LÍQUIDO E
+CERTO AFIRMADO NA INICIAL. ORDEM DENEGADA. (MS
+27.420, Rel. Min. Teori Zavascki, Segunda Turma, DJe de
+12/11/2015).
+
+Noutro giro, ressalte-se que a impetrante fundamenta a
+ilegitimidade do Decreto com base na alegação de que, nos termos da
+legislação de regência, teria competência soberana para decidir todo o
+processo eletivo.
+Ocorre que o referido art. 34 da Lei 13.639/2018 concede, apenas, a
+prerrogativa de coordenar o processo eleitoral – e em cooperação com
+outras entidades sindicais –, de sorte que não há qualquer imposição legal
+identificada no sentido da atribuição exclusiva da CNPL para estabelecer
+todos os procedimentos do processo eletivo.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A27-DA49-1283-6ECB e senha C865-F1D5-F154-3718
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+MS 35959 AGR / DF
+Ademais, a impetrante argumenta que o art. 1º, § 1º, do Decreto
+9.461/2018 seria ilegal por lhe atribuir, ilegitimamente, o ônus de custear
+as eleições, uma vez que só por lei alguém pode ser obrigado a fazer ou
+deixar de fazer algo. A norma impugnada possui o seguinte teor:
+Art. 1º. A função de coordenação da Confederação Nacional das
+Profissões Liberais - CNPL, de que trata o art. 34 da Lei nº 13.639, de
+26 de março de 2018, consistirá na mediação e na facilitação dos
+trabalhos para a realização do primeiro processo eleitoral das
+Diretorias Executivas do Conselho Federal dos Técnicos Agrícolas e
+do Conselho Federal dos Técnicos Industriais.
+§ 1º. A CNPL não poderá adotar, sem a prévia e a expressa
+autorização das entidades de que trata o art. 2º, ações que impliquem a
+constituição de órgãos ou a nomeação de pessoas para o processo
+eleitoral do Conselho Federal dos Técnicos Agrícolas e do Conselho
+Federal dos Técnicos Industriais.
+
+No entanto, a norma impugnada apenas detalha a previsão legal de
+“função de coordenação”, resultando, como consectário lógico da previsão
+normativa do art. 34 da Lei 13.639/2018, a responsabilização da
+impetrante de coordenação do primeiro processo eleitoral a partir da
+disponibilização de toda a estrutura necessária ao cumprimento da
+norma. Destarte, ressalte-se, novamente, que o decreto apenas especifica
+as decorrências da norma e, consequentemente, dos meios aptos a
+providenciar a primeira eleição dos conselhos de que tratam a legislação.
+Finalmente, não há nos autos qualquer evidência no sentido de que
+o decreto ora impugnado tenha positivado, em seu texto, qualquer
+exegese que poderia irromper a hierarquia entre o ato normativo
+secundário (i.e., decreto regulamentador) e os limites impostos pelo ato
+normativo primário a que se subordina.
+Nesse contexto, sobressai evidente a ausência de direito e líquido e
+certo do impetrante no presente caso, e, consequentemente, a manifesta
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A27-DA49-1283-6ECB e senha C865-F1D5-F154-3718
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+MS 35959 AGR / DF
+improcedência do presente recurso.
+Por fim, ressalte-se que não houve a intimação para apresentação de
+contrarrazões ao presente recurso, em obediência ao princípio da
+celeridade processual e por não se verificar prejuízo à parte ora agravada,
+uma vez que voto pela manutenção da decisão recorrida (artigo 6º c/c
+artigo 9º do CPC/2015).
+Ex positis, NEGO PROVIMENTO ao presente agravo interno por
+manifesta improcedência, com aplicação de multa de 2 (dois) salários
+mínimos, ficando a interposição de qualquer recurso condicionada ao
+prévio depósito do referido valor, em caso de decisão unânime
+(CPC/2015, art. 1.021, §§ 4º e 5º, c/c art. 81, § 2º).
+É como voto.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A27-DA49-1283-6ECB e senha C865-F1D5-F154-3718
+
+Supremo Tribunal Federal
+Extrato de Ata - 14/12/2018
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. EM MANDADO DE SEGURANÇA 35.959
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : CONFEDERACAO NACIONAL DAS PROFISSOES LIBERAIS
+ADV.(A/S) : AMADEU ROBERTO GARRIDO DE PAULA (40152/SP)
+AGDO.(A/S) : PRESIDENTE DA REPÚBLICA
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+Decisão: O Tribunal, por unanimidade, negou provimento ao
+agravo regimental, e aplicou a multa prevista no artigo 1.021, §§
+4º e 5º, c/c art. 81, § 2º, do CPC/2015, nos termos do voto do
+Relator. Plenário, Sessão Virtual de 7.12.2018 a 13.12.2018.
+Composição: Ministros Dias Toffoli (Presidente), Celso de
+Mello, Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen
+Lúcia, Luiz Fux, Rosa Weber, Roberto Barroso, Edson Fachin e
+Alexandre de Moraes.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7EC1-4BED-5EFA-899F e senha C471-2041-36A9-23F3
