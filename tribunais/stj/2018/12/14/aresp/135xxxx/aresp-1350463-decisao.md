@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EMPREGO DE ARMA BRANCA. SUPERVENIÊNCIA DA LEI N.º 13.654/2018. LEI PENAL MAIS BENÉFICA. RETROAÇÃO. REVOGAÇÃO DO INCISO I DO § 2.º DO ART. 157 DO CÓDIGO PENAL. AFASTAMENTO DA CAUSA DE AUMENTO. REGIME INICIAL ABERTO. POSSIBILIDADE. INCIDÊNCIA DO ART. 33, § 2.º, ALÍNEA C, E § 3.º, DO CÓDIGO PENAL. HABEAS CORPUS CONCEDIDO, DE OFÍCIO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por WAGNER ROBERTO BAPTISTA DOS SANTOS JÚNIOR contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional (Apelação Criminal n.º 0005750-47.2011.8.26.0050).
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 5 (cinco) ano e 4 (quatro) meses de reclusão, em regime inicial fechado, e pagamento de 13 (treze) dias-multa, como incurso no art. 157, § 2.º, inciso I, do Código Penal (fls. 180-186).
+Inconformada, a Defesa interpôs recurso de apelação, o qual foi parcialmente provido pelo Tribunal a quo para determinar o regime inicial semiaberto para o cumprimento da reprimenda imposta ao Agravante (fls. 243-249).
+Foram opostos embargos de declaração, os quais foram rejeitados (fls. 266-269).
+Ainda irresignada, a Defensoria Pública interpôs recurso especial, sustentando, em suma, violação ao art. 157, § 2.º, inciso I, do Código Penal, sob o argumento de que a referida causa de aumento somente deve incidir quando houver prova técnica nos autos que demonstre o grau de lesividade e eficiência da arma e a prestabilidade para sua utilização (fl. 277).
+Alega que " n enhuma outra prova pode substituir ou superar a ausência do laudo pericial realizado na arma supostamente utilizada no delito, sob pena de macular o devido processo legal, impedir o contraditório e a contraprova, enfim, subverter os princípios basilares do Estado Democrático de Direito" (fl. 278).
+Conclui, assim, que a majorante prevista no inciso I do § 2.º do art. 157 do Código Penal deve ser afastada, em razão da falta de laudo pericial que comprove o poder vulnerante da arma (fl. 278).
+Aduz ser possível, em consequência, a fixação do regime aberto para o início do cumprimento da reprimenda imposta, haja vista que, com a exclusão da causa de aumento, a pena ficará fixada em 4 (quatro) anos de reclusão, nos termos do art. 33, § 2.º, alínea c, do Código Penal (fl. 279).
+Contrarrazões às fls. 289-303. Inadmitido o recurso na origem (fls. 306-308), adveio o presente agravo (fls. 315-324).
+O Ministério Público Federal manifestou-se às fls. 356-359, opinando pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Inicialmente, verifico a existência de ilegalidade flagrante, a ser reparada de ofício, por força do art. 654, § 2.º, do Código de Processo Penal e que torna prejudicada a análise da tese apresentada no recurso especial no sentido de que, em razão da falta de laudo pericial que comprove o poder lesivo da arma, deveria ser afastada a majorante prevista no art. 157, § 2.º, inciso I, do Código Penal, na redação vigente à época do fato.
+A sentença, na parte que interessa, apresentou a seguinte fundamentação (fl. 184):
+"Quanto à qualificadora referente ao emprego de arma, reputo que restou plenamente configurada, haja vista que a vítima foi enfática em relatar que o réu fez uso de uma faca (arma branca) para ameaçá-lo, colocando-a em seu pescoço para tal fim. Apesar da alegação da defesa de que a majorante precisa ser afastada, pois a arma não foi apreendida ou periciada, esta não se mostra respaldada pela melhor jurisprudência. Veja-se, ainda, da desnecessidade da perícia da arma, ante ao depoimento prestado pela vítima que se mostrou verossímil aos fatos apresentados. Ademais, não há que se falar em necessidade de averiguação da potencialidade lesiva de uma "faca", por ser esta arma branca. Faca, mesmo que fosse de cozinha (arma imprópria) tem sua potencialidade lesiva presumida.
+ ..
+Passo, assim, à dosimetria da pena.
+ ..
+Na terceira fase, verifico presentes as causas de aumento previstas no artigo 157, § 2º, incisos I, do Código Penal, conforme já analisado, razão pela qual majoro a pena em 1/3 perfazendo montante de 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa que fixo como definitiva."
+Por sua vez, o acórdão recorrido apresentou as seguintes razões de decidir (fl. 248):
+" ..  Ressalvado o entendimento pessoal do relator sobre a não configuração da causa especial de aumento de pena do inciso I do § 2 do art. 157 do CP, ante a não apreensão da faca, a maioria julgadora desta Câmara mantém a causa de aumento nessa situação."
+Como se vê, a sentença de primeiro grau, na terceira fase da dosimetria e considerando o emprego de arma branca, exasperou em 1/3 (um terço) a reprimenda corporal, com fundamento no inciso I do § 2.º do art. 157 do Código Penal.
+Todavia, forçoso reconhecer que a Lei n.º 13.654/2018 revogou a possibilidade de majorar o crime de roubo pelo emprego de armas brancas.
+Assim, na hipótese dos autos, à vista do princípio da retroatividade da lei penal mais benéfica, impõe-se a concessão de habeas corpus, de ofício, de maneira a redimensionar a pena aplicada ao Agravante.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 387, IV, DO CPP. REPARAÇÃO DE DANOS MATERIAIS CAUSADOS PELA INFRAÇÃO. PEDIDO EXPRESSO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE INSTRUÇÃO ESPECÍFICA. VIOLAÇÃO À AMPLA DEFESA E AO CONTRADITÓRIO. AGRAVO DESPROVIDO. SUPERVENIÊNCIA DA LEI N. 13.654/2018. REVOGAÇÃO DO INCISO I DO § 2º DO ART. 157 DO CP. ROUBO COM EMPREGO DE ARMA BRANCA. CIRCUNSTÂNCIA QUE NÃO MAIS SE SUBSUME ÀS MAJORANTES DO ROUBO. AFASTAMENTO DA CAUSA DE AUMENTO. RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. A fixação de valor mínimo para reparação dos danos materiais causados pela infração exige, além de pedido expresso na inicial, a indicação de valor e instrução probatória específica, de modo a possibilitar ao réu o direito de defesa com a comprovação de inexistência de prejuízo a ser reparado ou a indicação de quantum diverso.
+2. A Lei n. 13.654, de 23 de abril de 2018, revogou o inciso I do artigo 157 do CP, de modo que o emprego de arma branca não se subsume mais a qualquer uma das majorantes do crime de roubo. Assim, uma vez que o caso dos autos é de roubo com emprego de arma branca (faca), impõe-se a concessão de habeas corpus de ofício para que a pena seja reduzida na terceira fase da dosimetria, em observância ao princípio da retroatividade da lei penal mais benéfica.
+3. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, para afastar a causa de aumento prevista no inciso I do § 2º do art. 157 do CP." (AgRg no REsp 1.724.625/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/06/2018, DJe de 28/06/2018.)
+Fixadas essas premissas, passo a, de ofício, redimensionar a pena a ser aplicada ao Agravante:
+ a) 1.ª Fase - mantenho a pena-base fixada em patamar mínimo pelas instâncias inferiores, qual seja: 4 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa;
+ b) 2.ª Fase - ausentes agravantes ou atenuantes, fica inalterada a pena;
+ c) 3.ª Fase - afastada a causa de aumento de pena relativa ao emprego de arma branca, chega-se ao total de 4 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa.
+De outra parte, retomando a análise do recurso especial, no que diz respeito ao regime para o cumprimento da reprimenda, razão assiste ao Agravante.
+Na hipótese, a pena-base foi fixada no mínimo legal, diante da ausência de circunstâncias judiciais desfavoráveis, totalizando a reprimenda em 4 (quatro) anos de reclusão e 10 (dez) dias-multa, após o afastamento da causa de aumento de pena pelo uso de arma branca, nos termos acima expostos.
+A jurisprudência do Pretório Excelso tem ratificado o entendimento de que "se o condenado é primário e os critérios do art. 59 do CP impõem a aplicação da pena mínima, não cabe determinar regime inicial de execução mais rigoroso que o admissível em tese" (HC 72.315/MG, Primeira Turma, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 26/05/1995).
+Assim, incidem, no caso, as regras previstas no art. 33, § 2.º, alínea c, e § 3.º, do Código Penal, as quais dispõem, respectivamente, que:
+"O condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto e que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código."
+Com igual conclusão, cito o seguinte precedente:
+"HABEAS CORPUS. REGIME DE CUMPRIMENTO DA PENA. SÚMULA N.º 719 DO STF.
+1. Fixada a pena em seu mínimo legal, inferior a 4 (quatro) anos, não sendo caso de reincidência, e não havendo circunstância judicial desfavorável, tal como reconheceu o acórdão impugnado, não há falar em adoção do regime inicial semiaberto, se o próprio paradigma legal permite a adoção do regime inicial aberto (art. 33, § 2º, c e § 3º c/c art. 59, CP).
+2. Incidência da Súmula nº 719 do STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+3. Ordem concedida.
+4. Extensão da ordem, de ofício, ao corréu." (STF, HC 83.613/SP, Rel. Ministra ELLEN GRACIE, SEGUNDA TURMA, DJ de 30/04/2004 - sem grifos no original.)
+Ante o exposto, CONCEDO habeas corpus, de ofício, para excluir a causa de aumento decorrente do emprego de arma e redimensionar a pena do Agravante para 4 (quatro) anos de reclusão e 10 (dez) dias-multa e, por conseguinte, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO a fim de fixar o regime aberto para o início do cumprimento da reprimenda.
+Publique-se. Intimem-se.
