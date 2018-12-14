@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Sindicato das Indústrias Químicas no Estado do Rio Grande do Sul - SINDIQUIM-RS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TAXA DE FISCALIZAÇÃO DE VIGILÂNCIA SANITÁRIA (TFVS). OCORRÊNCIA DO FATO GERADOR PREVISTO NA LEI Nº 9.782, DE 1999. ILEGALIDADE DE ISENÇÃO CONCEDIDA POR RESOLUÇÃO.
+É devida a cobrança de Taxa de Fiscalização de Vigilância Sanitária pela "isenção de registro de cosmético", fato gerador do tributo previsto na Lei nº 9.782, de 1999, sendo descabida a alegação de invalidade da cobrança, feita com base em resolução da ANVISA que indevidamente concedeu isenção da taxa, e cuja ilegalidade foi corrigida por ato normativo posterior.
+Os embargos de declaração interpostos foram improvidos.
+No presente recurso especial, o recorrente aponta violação dos arts. 77 do CTN, 23 da Lei n. 9.782/1999 e 54 da Lei n. 9.784/1999, alegando, em síntese, que o acórdão recorrido partiu de pressuposto equivocado ao equiparar registro com notificação, validando a cobrança de taxas de valores retroativos.
+Sustenta, em resumo, que a celeuma parte da existência de notificação, que é procedimento não sujeito ao pagamento de taxa, em conformidade com o art. 77 do CTN, não se cogitando de ato da administração que configure exercício de poder de polícia ou utilização de serviços públicos que justifique a cobrança de taxa por notificação de produto classificado pela ANVISA como de grau de risco 1, observando que não há previsão quanto à necessidade de registro desse tipo de produto.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Não é cognoscível o presente recurso especial.
+O Tribunal a quo, para decidir a questão, lastreou sua fundamentação em normas infralegais, assim, eventual ofensa à lei federal seria apenas reflexa, o que inviabiliza o exame do recurso especial.
+No ponto, os excertos do voto, abaixo transcritos, verbis:
+Os produtos de higiene pessoal, cosméticos e perfumes passaram a ser classificados de acordo com o grau de risco que oferecem: Produtos de Grau 1 (produtos de risco mínimo) e Produtos de Grau 2 (produtos com risco potencial), estabelecendo-se o controle por meio da "notificação" para aqueles e por meio de "registro" para esses.
+A Resolução RDC nº 343, de 2005, por sua vez, instituiu novo procedimento totalmente eletrônico para a Notificação de Produtos de Higiene Pessoal, Cosméticos e Perfumes de Grau 1, à Anvisa, em substituição ao disposto na Resolução nº 335, de 22 de julho de 1999 e estabeleceu a "não incidência da taxa" no caso de notificação de produtos de higiene pessoal, cosméticos e perfumes de grau 1. Confira-se:
+(..)
+Apenas com o advento da RDC n. 07, de 2015 (Dispõe sobre os requisitos técnicos para a regularização de produtos de higiene pessoal, cosmésticos e perfumes e dá outras providências), houve uma atualização das regras atinentes aos cosméticos, em especial, dos produtos de Grau 1, que passaram a ser isentos de registro, sujeitando-se à comunicação prévia antes de sua comercialização. Confira-se o disposto no art. 25 da RDC n. 07, de 2015:
+(..)
+Ora, ao estabelecer novos procedimentos para o controle da comercialização de produtos submetidos à vigilância sanitária, autorizada que estava pelo artigo 7º, III, da Lei nº 9.782, de 1999, a Resolução nº 343, de 2005 acabou, indevidamente, concedendo isenção da Taxa de Fiscalização de Vigilância Sanitária para os produtos sujeitos apenas à notificação.
+Ocorre que, apesar do novo procedimento estabelecido pelas normas referidas, não deixou de haver aqui o fato gerador do tributo previsto em lei, consistente na isenção de registro de cosméticos (item 2.2 do Anexo II da Lei nº 9.782, de 1999), sendo certo que o disposto na resolução, evidentemente, não pode prevalecer sobre a lei (Código Tributário Nacional, art. 97).
+Daí se segue que é devida a cobrança efetuada posteriormente com base em revisão de ato normativo ilegal, poder-dever que é conferido à Administração Pública (STF, Súmulas 346 e 473), o que foi objeto de bem fundamentado parecer da Advocacia Geral da União, trazido na contestação (Parecer CONS nº 19/2013/PF-ANVISA/PGF/AGU):
+(..)
+Não há falar, pois, em violação ao princípio da irretroatividade e ao princípio da anterioridade tributária, seja porque nunca houve regular concessão de isenção detributo, seja porque a Resolução nº 07, de 2015, apenas buscou corrigir a ilegalidade da anterior resolução.
+Nesse panorama, a despeito da indicação de dispositivos de lei como violados, o exame da questão entelada importa em contrariedade às normas infralegais acima referidas, as quais não podem ser analisadas na via do recurso especial, por não se enquadrar na categoria de lei infraconstitucional federal.
+Sobre o assunto, destacam-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRANSPORTADOR- REVENDEDOR-RETALHISTA. ACÓRDÃO REGIONAL FUNDADO NA INTERPRETAÇÃO RESOLUÇÃO ANP 08/2007. ATO INFRALEGAL NÃO SUJEITO ÀS HIPÓTESES DE CABIMENTO DO APELO RARO. RECURSO INTERNO QUE APONTA ALGUNS JULGADOS DA 2a. TURMA DESTE STJ ENFRENTANDO O MÉRITO DA QUESTÃO. VÍCIO INARREDÁVEL. AGRAVO INTERNO DA ANP A QUE SE NEGA PROVIMENTO.
+1. Tendo o julgado regional sido fundamentado na interpretação da Resolução ANP 8/2007, a via do Recurso Especial se apresenta incabível, porquanto o enfrentamento da questão, demanda, necessariamente, a reinterpretação desta norma infralegal.
+2. A existência de alguns poucos julgados que tiveram seu mérito apreciado, oriundos da egrégia 2a. Turma, não implica, obrigatoriamente, o dever de enfrentamento do questão principal, porquanto o óbice apontado referente ao ato infralegal é irrefutável.
+3. Agravo Interno da ANP a que se nega provimento.
+(AgInt no REsp n. 1.474.361/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 14/8/2018, DJe 24/8/2018.)
+AMBIENTAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUTO DE INFRAÇÃO. REGULARIDADE. CONTROVÉRSIA DECIDA POR MEIO DE INTERPRETAÇÃO DE NORMA INFRALEGAL. OFENSA REFLEXA À LEI FEDERAL. NECESSIDADE DE NOVO EXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A controvérsia dos autos foi decida pelo acórdão recorrido por meio de interpretação de Resolução do CONAMA, por isso eventual ofensa à lei federal seria apenas reflexa. Por outro lado, o acolhimento das alegações do IBAMA de regularidade do auto de infração exige novo exame do acervo fático-probatório dos autos, o que é vedado pelo teor da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.309.248/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/11/2018, DJe 13/11/2018.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO DE TÍTULO JUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO-INDICAÇÃO DO DISPOSITIVO LEGAL AO QUAL FOI DADA INTERPRETAÇÃO DIVERGENTE. RECURSO ESPECIAL NÃO CONHECIDO. OFENSA À RESOLUÇÃO. NORMA INFRALEGAL. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL.
+I. É inviável recurso especial para análise de violação a atos normativos infralegais tais como resoluções e portarias, pois não se enquadram no conceito de lei federal nos termos do art. 105, inciso III da Constituição Federal/1988.
+II. Recurso de agravo interno improvido.
+(AgInt no AREsp n. 908.829/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 22/11/2016, DJe 9/12/2016.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial. Com fundamento no art. 85, § 11, do CPC/2015, de acordo com os critérios descritos nos §§ 2º e 3º do mencionado artigo, majoro os honorários advocatícios em 1% sobre o percentual definido no acórdão recorrido.
+Publique-se. Intimem-se.
