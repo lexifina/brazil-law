@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] PARANÁ - COOPERATIVA DE ECONOMIA E CRÉDITO MUTUO DOS MÉDICOS, PROFISSIONAIS DAS CIÊNCIAS E DAS ARTES E EMPRESÁRIOS LTDA. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fls. 344-347):
+APELAÇÃO CÍVEL - "AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C TUTELA ANTECIPADA" - APELAÇÃO CÍVEL [NOME] - REQUERIDA REVEL SEM PATRONO NOS AUTOS - ART. 346 DO NCPC - CONTAGEM DO PRAZO RECURSAL QUE SE INICIA DA PUBLICAÇÃO DO ATO DECISÓRIO NO ÓRGÃO OFICIAL
+RÉU. INTEMPESTIVIDADE - NÃO CONHECIMENTO OFENSA AO PRINCÍPIO DA DIALETICIDADE - AFASTAMENTO CERCEAMENTO DE DEFESA EM RAZÃO DO JULGAMENTO ANTECIPADO DA LIDE INOCORRÊNCIA - INCOMPETÊNCIA DO JUIZO - AFASTAMENTO MÉRITO - FALHA NA PRESTAÇÃO DOS SERVIÇOS - CONFIGURADA - REPARAÇÃO DEVIDA - QUANTUM INDENIZATÓRIO - MAJORAÇÃO - ÔNUS SUCUMBENCIAIS MANTIDOS - HONORÁRIOS RECURSAIS - ARTIGO 85, § 1.º E 11 DO NOVO CÓDIGO DE PROCESSO CIVIL, VIGENTE À ÉPOCA DA PUBLICAÇÃO DA SENTENÇA - VERBA HONORÁRIA RECURSAL ARBITRADA EM FAVOR DA AUTORA, EM QUANTIA CORRESPONDENTE A 5% SOBRE O VALOR DA CONDENAÇÃO. APELAÇÃO CÍVEL INTERPOSTA PELA AUTORA CONHECIDA E PROVIDA. APELAÇÃO CÍVEL INTERPOSTA PELA IRMANDADE CONHECIDA E NÃO PROVIDA. APELAÇÃO CIVEL INTERPOSTA PELA [NOME] NÃO CONHECIDA.
+1. Se as razões da apelação demonstram, de forma suficiente e clara, o inconformismo da parte apelante em face da sentença recorrida, não há que se falar em ofensa ao principio da dialeticidade.
+2. O Juiz é o destinatário da prova, de modo que somente ele pode aferir acerca da conveniência da produção de determinada prova para a instrução do processo, bem como a suficiência, ou não, dos elementos probatórios constantes nos autos para dirimir os pontos controvertidos.
+3. Compete ao autor, tratando-se de ação cível de menor complexidade, que se encaixe em algumas das hipóteses previstas nos incisos do artigo 3º da Lei 9.099/95, a escolha do procedimento a ser adotado, podendo ajuizá-la Especial, diante da tanto como no Juizado Cível na Justiça Comum, inexistência de norma legal que obrigue o ajuizamento destas causas perante o Juizado Especial.
+4. A fixação do montante devido a título de dano moral fica ao prudente arbítrio do Julgador, devendo pesar nestas circunstâncias, a gravidade e duração da lesão, a possibilidade de quem deve reparar o dano, e as condições do ofendido, cumprindo levar em conta que a reparação não deve gerar o enriquecimento ilícito, constituindo sanção apta a coibir atos da mesma espécie.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 389-394).
+Nas razões do recurso especial (e-STJ, fls. 397-410), a recorrente apontou a existência de dissídio jurisprudencial e violação ao art. 485, § 3º, do Código de Processo Civil de 2015, bem como à Súmula 476 do STJ e ao REsp repetitivo n. 1.063.474-RS.
+Sustentou, em síntese, que a ilegitimidade passiva é questão de ordem pública e deve ser analisada, reconhecendo-a. Aduziu que atuou apenas como mandatária, sem extrapolar os poderes do mandato.
+Não foram apresentadas contrarrazões (e-STJ, fl. 431).
+Juízo de admissibilidade negativo (e-STJ, fls. 433-435).
+Brevemente relatado, decido.
+O Tribunal estadual, ao jugar o recurso, entendeu que (e-STJ, fls. 367-369):
+Ora, se a Instituição tinha ciência de quem era a devedora no momento em que enviou o A.R.
+(endereço de ARIANY, em nome de ARIANY), não poderia ter procedido com a inscrição do nome da genitora desta, apenas porque seu CPF constava, escrito à mão, na ficha de internação. Tal equívoco não se trata de erro de quem o forneceu, mas sim de erro de quem não o conferiu quando levou o nome de sua portadora ao cadastro de inadimplentes.
+(..)
+Destarte, não restando demonstrada quaisquer das excludentes de responsabilidade, e sequer sendo o caso de reconhecer a concorrência de culpas, na medida em que foi a conduta das requeridas que, de forma isolada, deflagrou o evento danoso, impõe reconhecer o dever de indenizar a titulo de dano moral, vez que, para a sua configuração, neste caso, é suficiente a inscrição indevida nos órgãos restritivos de crédito, que restou suficientemente demonstrada.
+Depreende-se dos autos que o Tribunal de origem reconheceu a legitimidade passiva da recorrente ao argumento de que falhou ao não conferir as informações. Assim, a insurgente seria, consequentemente, parte legítima para responder conjuntamente com a mandante.
+Como contratada, pode ser responsabilizada por prejuízos decorrentes da sua conduta culposa e quando demonstrada a sua desídia na prestação do serviço para o qual foi contratada.
+Dessa forma, tendo o Tribunal a quo entendido pela responsabilidade por não conferência da informação que lhe foi apresentada, não há como modificar as premissas alcançadas na origem sem adentrar no reexame de provas e fatos, procedimento vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor atualizado da condenação.
+Publique-se.
