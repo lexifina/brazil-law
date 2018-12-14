@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de pedido de desistência apresentado às fls. 631-633:
+Conforme consta às fls. e-STJ 624/628 dos autos, o Ilustre Juízo da Vara do Trabalho de Propriá/SE afirmou que em razão da r. decisão liminar proferida por esse Ilustre Ministro Relator no presente feito de competência originária, determinou a "imediata expedição de certidão para que o autor possa habilitar seu crédito no Juízo da Recuperação Judicial, bem como de mandados às Usinas Carvão e Taquari para que desconsiderem as ordens de bloqueios de créditos da executada oriundas destes autos. Frise-se que não foi trazido aos autos qualquer informação de depósito judicial em virtude de bloqueio efetivo de crédito, motivo pelo qual deixo de determinar, neste momento, a expedição de alvará." - (transcrição de fls. e-STJ 627).
+Desta forma, amparado no Princípio da Lealdade Processual, as Suscitantes requerem que Vossa Excelência se digne à homologar o pedido de desistência do presente Conflito de Competência, tendo em vista a perda de objeto decorrente da manifestação exarada pelo Ilustre Juízo da Vara do Trabalho de Propriá/SE.
+2. A procuração de fls. 44-45 concede poderes especiais aos advogados subscritores, neles inserta a desistência (art. 105 do CPC).
+Dessarte, nos termos do art. 34, IX, do RISTJ, homologo a desistência manifestada pelas suscitantes, a fim de que produza seus jurídicos e legais efeitos.
+Publique-se.
