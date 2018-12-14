@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. OI S/A. LEVANTAMENTO DE VALORES BLOQUEADOS. POSSIBILIDADE. ATO DE CONSTRIÇÃO EFETIVADO ANTES 21.06.2016, DATA EM QUE DECRETADA A RECUPERAÇÃO JUDICIAL. A situação dos autos se enquadrada nas exceções previstas pelo Juízo da Recuperação Judicial para expedição do alvará judicial, bem como em relação ao recente comunicado enviado aos Magistrados deste Tribunal, no sentido de que ocorreu o término do "period stay", bem como em relação à liberação dos valores em processos em face do Grupo OI, conforme ofício 249/2018 oriundo da 7ª Vara Empresarial do Rio de Janeiro. AGRAVO DE INSTRUMENTO DESPROVIDO" (fl. 241 e-STJ).
+A denegação se deu em virtude do óbice da Súmula nº 7/STJ e ausência de negativa de prestação jurisdicional.
+Sustenta a parte agravante, em síntese, que:
+negativa de prestação jurisidicional, e
+a impugnação ao cumprimento de sentença transitou após o pedido de recuperação judicial da ora agravante, sendo indevido o levantamento dos valores bloqueados.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Assim, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pelo recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+Quanto ao levantamento, as conclusões da Corte local acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Por fim, sobreveio recente comunicação enviada aos Magistrados deste Tribunal, em 09/04/2018, no sentido de que ocorreu o término do "period stay", bem como em relação à liberação dos valores em processos em face do Grupo OI, conforme ofício 249/2018-OF oriundo 7ª Vara Empresarial do Rio de Janeiro, nos seguintes termos:
+"Solicito as necessárias providências a fim de que seja expedido aviso referente ao processo de Recuperação Judicial do Grupo OI (Porc.0203711-65.2016.8.190001) para que chegue o conhecimento dos seus subordinados órgãos julgadores que: "Com a provação do plano de recuperação judicial do Grupo Oi, permanece inalterada a decisão deste juízo, confirmada pelo Tribunal de Justiça do Estado do Rio de Janeiro nos autos do AI 0034576- 58.2016.8190000, que permitiu a expedição de alvarás para liberação de valores espontaneamente depositados pelas Recuperandas antes de 21/06/2016 com a expressa finalidade de pagamento dos credores, bem como os valores depositados antes da referida data em execuções nas quais tenha havido preclusão ou trânsito em julgado de sentença de embargo à execução ou da decisão final de impugnação ao cumprimento de sentença".
+Assim, é caso de manutenção da decisão que deferiu a expedição de alvará judicial, sobretudo porque o ato de constrição foi efetivado antes de 21.06.2016, data em que decretada a recuperação judicial. Além disso, houve o trânsito em julgado da impugnação ao cumprimento de sentença.
+A situação dos autos se enquadrada nas exceções previstas pelo Juízo da Recuperação Judicial para expedição do alvará judicial, bem como em relação ao ofício 249/2018, uma vez que o valor depositado é anterior à data da decisão que deferiu a recuperação judicial e a impugnação ao cumprimento de sentença já transitou em julgado, devendo, por isso, ser mantida a decisão agravada" (e-STJ fls. 246/247).
+Ao contrário do ora sustentado, o acolhimento da pretensão recursal, nos termos em que posta, demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em recurso especial, consoante óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
