@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por Banco Pan S.A. contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMENTA: APELAÇÃO. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PRELIMINAR DE SUSPENSÃO DO PROCESSO. REPERCUSSÃO DA MATÉRIA RECONHECIDA. REJEIÇÃO. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR. VALOR IRRISÓRIO. REJEIÇÃO. MÉRITO. IPVA. ALIENAÇÃO FIDUCIÁRIA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIANTE DO VEÍCULO. RESPONSABILIDADE SOLIDÁRIA. LEI ESTADUAL 14.937/03. CONSTITUCIONALIDADE. PRECEDENTE DO ÓRGÃO ESPECIAL DESTE TJMG. RECURSO NÃO PROVIDO.
+- O reconhecimento, pelo STF, de repercussão geral, não constitui hipótese de sobrestamento automático do recurso, visto que não houve a expressa determinação de sobrestamento dos feitos em andamento em que se discute a matéria, conforme previsto no art. 328 do RISTF.
+- A jurisprudência do STJ é firme no sentido de que constitui prerrogativa da Administração o ajuizamento de execução fiscal de pequenos valores.
+- Na alienação fiduciária em garantia ocorre mera transferência da posse direta do bem por parte do credor, e, portanto, não há ilegitimidade passiva "ad causam" do executado, que é também responsável pelo recolhimento do IPVA relativo ao veículo objeto do contrato, podendo figurar, inclusive, na CDA que instrui a ação executiva, como no caso em exame.
+- Consoante precedente emanado do Órgão Especial deste eg. TJMG, é constitucional a lei estadual que atribui ao credor fiduciário legitimidade passiva para pagamento de IPVA, haja vista que a própria Constituição Federal estabelece a propriedade de veículo automotor como fato gerador do imposto. (Incidente de Arguição de Inconstitucionalidade nº 1.0024.11.301572-1/002).
+- Recurso não provido.
+No recurso especial, o recorrente aponta violação dos arts. 1.228, 1.361, 1.364 e 1.365 do Código Civil c/c arts. 110, 124, I e II, e 128 do Código Tributário Nacional, alegando, em síntese, que não há comprovação de solidariedade entre credor fiduciário e devedor fiduciante, sendo indevido o pagamento da exação por ele recorrente visto não ser proprietário do veículo, devendo tal cobrança ser dirigida ao financiado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na Súmula n. 280/STF.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Verifica-se que o Superior Tribunal de Justiça tem entendimento pacificado segundo o qual nas operações de leasing ou arrendamento mercantil, a instituição financeira como possuidora indireta do veículo é responsável solidária pelo pagamento do IPVA, podendo figurar no polo passivo da execução fiscal.
+Sobre o assunto, destacam-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPVA. ARRENDANTE QUE É PARTE LEGÍTIMA PARA RESPONDER SOLIDARIAMENTE PELO IPVA, PORQUANTO TEM O DOMÍNIO RESOLÚVEL DO BEM. ACÓRDÃO RECORRIDO EM SINTONIA COM O ATUAL ENTENDIMENTO DO STJ. ART. 161 DO CTN. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Constata-se que não se configura a alegada ofensa aos artigos 489 e 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O acórdão recorrido está em sintonia com o atual entendimento do STJ de que, "em arrendamento mercantil, o arrendante é responsável solidário para o adimplemento da obrigação tributária concernente ao IPVA, pro ser ele possuidor indireto do bem arrendado e conservar a propriedade até o final do pacto" (AgRg no AREsp 711.812/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 10.9.2015).
+3. Consigne-se que o conteúdo normativo do art. 161 do CTN (referente à tese da multa de mora e juros) não foi debatido no acórdão recorrido, não havendo falar em ocorrência de prequestionamento. Vale ressaltar que a parte recorrente olvidou-se de suscitá-lo nos Embargos de Declaração, motivo pelo qual a Corte regional, consequentemente, não apreciou a matéria. Aplicação, no ponto, da Súmula 211/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.702.474/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2017, DJe 19/12/2017.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. IPVA. LEGITIMIDADE PASSIVA. ARRENDAMENTO. RESPONSABILIDADE SOLIDÁRIA. NOTIFICAÇÃO DO CONTRIBUINTE. DECRETO DISTRITAL N. 16.099/1994. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS. SÚMULA 7/STJ.
+1. "O Superior Tribunal de Justiça tem entendido que, no arrendamento mercantil, a arrendante, como possuidora indireta do veículo arrendado, é responsável solidária pelo pagamento do IPVA" (AgRg no REsp 1.566.018/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 1º/12/2015).
+2. Tal entendimento se aplica até mesmo nos casos em que não há a comunicação da finalização do contrato perante o órgão encarregado do registro do veículo. Precedentes.
+3. No que se refere à necessidade de notificação do contribuinte para a formação do título executivo extrajudicial, cabe registrar que o recurso especial não merece prosperar, tendo em vista a incidência da Súmula 280/STF. Isso porque a norma estadual estabelece que o contribuinte do IPVA é o arrendatário, no caso de veículo objeto de contrato de arrendamento mercantil.
+4. Quanto à higidez e à formação da CDA, cumpre destacar que o recurso especial não merece conhecimento, pois a aferição do preenchimento, ou não, dos requisitos da CDA demanda análise do suporte fático-probatório dos autos, providência vedada nesta seara recursal devido ao óbice da Súmula 7/STJ.
+5. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp n. 1.655.504/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 20/2/2018, DJe 26/2/2018.)
+
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
