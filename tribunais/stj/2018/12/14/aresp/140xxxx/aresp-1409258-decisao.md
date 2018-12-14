@@ -1,0 +1,19 @@
+EMENTA
+PROCESSO CIVIL. EXECUÇÃO FISCAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ACÓRDÃO BASEADO NA SEARA FÁTICA DOS AUTOS. SÚMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça de São Paulo cuja ementa é a seguinte:
+RECURSO DE APELAÇÃO EXECUÇÃO FISCAL DESISTÊNCIA CONCORDÂNCIA DA PARTE EXECUTADA DESNECESSIDADE.
+1. Impugna a parte executada a r. sentença que homologou a desistência da execução fiscal requerida pela Fazenda do Estado, sob o fundamento de que necessária a sua concordância.
+2. Não tendo a parte executada apresentado embargos ou impugnação por qualquer meio judicia,, o exequente pode desistir da execução fiscal independentemente de sua aquiescência. Inteligência dos arts. 775, caput do Código de Processo Civil c/c art. 1º da Lei Federal n.º 6.830/1980, arts. 2º e 3º da Resolução PGE n.º 03/2016 e art. 485, parágrafo 4º do Código de Processo Civil.
+Recurso desprovido.
+Opôs-se recurso especial hospedado na alínea "a" do inciso III do artigo 105 da Constituição da República, sob alegada violação aos seguintes artigos de lei federal: 9º e 10º, 85, §§ 1º, 2º, 3º, 8º e 11, do Código de Processo Civil e artigos 38, 128 e 204 do Código Tributário Nacional. Sustenta, em síntese, que não fora permitido que a Instituição Financeira, após regularmente citada, discutisse o crédito tributário em questão.
+O recurso foi inadmitido pela decisão às fls. 108/109, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ao analisar a demanda, verifica-se que o Tribunal encampou seu entendimento com base na seara fático-probatória dos autos:
+Ademais, o art. 485, parágrafo 4º do Código de Processo Civil determina que "oferecida a contestação, o autor não poderá, sem o consentimento do réu, desistir da ação". A contrario sensu, portanto, possibilita-se a desistência da ação independentemente da aquiescência da parte adversa se esta ainda não tiver se manifestado nos autos - como é o caso presente. Igualmente, o art. 3º da Portaria PGE n.º 03/2016 determina a necessidade de concordância da parte executada apenas se esta apresentou embargos ou impugnação por qualquer meio judicial.
+Percebe-se que o Tribunal de origem fundamentou sua decisão em dois aspectos distintos: o primeiro no fato de a recorrente não ter se manifestado em momento oportuno, o que possibilitou, a recorrida, à desistência da ação sem a concordância da recorrente; o segundo se dá na Portaria PGE 03/2016.
+Assim, primeiramente, fica claro que modificar o entendimento do Tribunal necessitaria de uma reanálise fático-probatória, o que é obstado pela Súmula 7/STJ, já que seria necessário averiguar se a recorrente se manifestou em algum momento ou tomou alguma providência para tanto. Em segundo lugar, não cabe ao STJ analisar a Portaria 03/2016, tendo em vista que esta não se enquadra no conceito de legislação federal, para fins de recurso especial.
+Por fim, no que diz respeito aos honorários advocatícios, percebe-se que o Tribunal a quo não se manifestou sobre este ponto e o recorrente também não se valeu dos aclaratórios. Portanto, ausente o prequestionamento, incindindo as Súmulas 282 e 356 do STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
