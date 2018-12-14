@@ -1,0 +1,4 @@
+DECISÃO
+ Considerando que o Supremo Tribunal Federal reconheceu, no RE 657.718/MG, a existência de repercussão geral do assunto: "Dever do Estado de fornecer medicamento não registrado pela ANVISA" - Tema 500, e até que aquela Corte Suprema se manifeste definitivamente sobre o mérito da questão, impõe-se a aplicação da sistemática estabelecida no art. 1.037, II, do CPC/2015.
+Assim, DETERMINO A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM A DEVIDA BAIXA NESTA CORTE, para que, após publicada a conclusão do julgamento dos RE 657.718/MG pelo Supremo Tribunal Federal, o presente recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Supremo Tribunal Federal; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Supremo Tribunal Federal.
+Publique-se. Intimem-se.
