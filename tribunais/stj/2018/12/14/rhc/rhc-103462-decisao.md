@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por [NOME], em face de acórdão do Tribunal de Justiça do Estado do Pará, que denegou o writ de origem.
+O acórdão recorrido contém a seguinte ementa (fl. 171):
+HABEAS CORPUS. ART. 33 DA LEI Nº 11.343/2006. Alegação de excesso de prazo na prisão processual do paciente. Alegação infundada. Prazo processual fruindo de forma razoável, já tendo sido inclusive realizada audiência de instrução e julgamento, que somente não chegou ao seu término em virtude de pedido da defesa para que fosse ouvida testemunha referida. Pretendida concessão da ordem em virtude do paciente possuir filho menor de 12 anos de idade. Pretensão rejeitada, já que não demonstrado a imprescindibilidade do paciente na criação do menor. Alegada falta de fundamentação e dos requisitos necessários para a manutenção da custódia preventiva do paciente. Manutenção da prisão preventiva fundamentada de forma idônea, como garantia da ordem pública. WRIT DENEGADO. DECISÃO UNÂNIME.
+No presente recurso busca-se a revogação da prisão preventiva, sob a alegação de ausência dos seus requisitos ensejadores, bem como de excesso de prazo para o encerramento da instrução processual.
+O recorrente foi denunciado pela prática do delito tipificado no art. 33 da Lei n. 11.343/2006.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+Na origem, a ação penal n. 0000561-04.2018.8.14.0042 encontra-se em fase de alegações finais, conforme informações prestadas pelo Juízo às fls. 253/256.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que indeferiu o pedido de revogação da prisão preventiva assim dispôs (fls. 258/259 - com destaque):
+ ..
+A prisão preventiva foi decretada em razão de haver indícios de autoria, posto que, em relato na delegacia de polícia, na data de 08.02.2018 o denunciado foi preso em flagrante por realizar a venda de entorpecentes em sua residência.
+A testemunha Ronelson de [NOME], devidamente qualificada nos autos, confirmou a venda, tanto que encomendou certa quantidade na própria residência do denunciado, conforme depoimento à fl. 52:
+ ..
+Desse modo, os elementos que apontam a presença de prova da existência do crime e de indícios suficientes de autoria ainda estão presentes nos autos, ou seja, a pequena quantidade encontrada pode ser parte de uma porção maior, possivelmente vendida ou ocultada pelo réu. É o que se infere em tese, com os relatos colhidos nos autos.
+A materialidade encontra-se comprovada com a juntada do laudo toxicológico definitivo de fl. 128 e pelos depoimentos colhidos.
+A quantidade de entorpecente apreendida, configura de imediato abalo à saúde e ordem pública nesta pequena cidade interiorana, justificando à necessidade do encarceramento. Acrescente-se ainda que o requerente possui antecedentes criminais, com condenação anterior por tráfico de entorpecentes e encontrava-se na condição de foragido do sistema penal. Assim, se solto, poderá reiterar sua conduta delitiva, representando risco à garantia da ordem pública.
+Ante o exposto, INDEFIRO o pedido e mantenho a ordem de prisão preventiva do requerente, em conformidade com o disposto no art. 312 e seguintes do CPP.
+ ..
+Como se vê, a decisão apresenta fundamentação válida para a prisão preventiva, evidenciando a periculosidade do acusado na reiteração delitiva, pois possui antecedentes criminais, com condenação anterior por tráfico de entorpecentes. O Juízo destacou ainda que o acusado encontrava-se na condição de foragido do sistema penal, o que também justifica a imposição da mais gravosa cautelar penal.
+Conforme a jurisprudência pacífica do STJ, a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Outrossim, é pacífico o entendimento desta Corte, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013. Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Quanto ao alegado excesso de prazo, verifica-se que a instrução foi encerrada, estando a ação penal em fase de alegações finais (fls. 253/256), o que atrai a aplicação do enunciado da Súmula 52 desta Corte, segundo a qual: encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
