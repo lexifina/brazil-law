@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática que negou seguimento ao habeas corpus (e-STJ fls. 2.330/2.334).
+Neste agravo, a defesa alega não haver supressão de instância, eis que teria sido enfrentado pelo Tribunal estadual: i) o assunto relativo à ausência de testemunha, dentro do qual teria afirmado que "A testemunha residente fora da Comarca, ainda que arrolada com cláusula de imprescindibilidade, não está obrigada a comparecer ao Tribunal do Júri para depor" (e-STJ fls. 2341/2342); ii) o assunto relativo ao excesso de linguagem pelo Tribunal de apelação, sob o argumento de que não cabe à Corte local adentrar ao mérito e afirmar de forma Imperativa haver provas na fase pré-processual e judicial "que demonstram de forma clara a participação do Paciente dos fatos descritos na denúncia" (e-STJ fl. 2342).
+Aponta, também, ausência de apreciação por esta Corte quanto à utilização de argumento de autoridade pelo promotor de justiça durante a sessão plenária do segundo julgamento do Júri (e-STJ fl. 2342).
+Com isso, pede o provimento do agravo a fim de cassar o segundo julgamento da sessão plenária do Júri, em razão do alegado cerceamento de defesa, de referência de decisão pela acusação como argumento de autoridade e do alegado excesso de linguagem do acórdão condenatório.
+É o relatório. Decido.
+Primeiramente, sobre a ausência de testemunha com cláusula de imprescindibilidade na sessão do segundo julgamento do Júri popular, eis o que ficou consignado na decisão agravada (e-STJ fl. 2332):
+Busca-se, nesta impetração, inicialmente, reconhecimento de cerceamento de defesa, por falta de participação de uma testemunha de defesa arrolada com cláusula de imprescindibilidade.
+Sobre a assunto, o Tribunal nada disse, porque nem sequer foi impugnado pela defesa no recurso de apelação, nem nos Embargos de Declaração, tendo em vista que aquele recurso foi exclusivo da acusação, e, quanto aos embargos, a defesa se limitou a suscitar sobre a compatibilidade das provas do inquérito com a judiciais, bem como sobre a valoração das provas (e-STJ fl. 749).
+Desse modo, esta Corte fica impedida de julgar diretamente o assunto, sob pena de supressão de instância.
+No entanto, constata-se que o Tribunal pronunciou sobre o assunto da seguinte forma (e-STJ fls. 1567/1568 e 1570/1571):
+Primeiramente, sustenta a defesa a nulidade do julgamento ante a sua realização sem a presença da testemunha [NOME], que havia sido arrolada em caráter de imprescindibilidade.
+Neste aspecto, razão não assiste ao apelante.
+Como bem ressaltou a douta Procuradoria-Geral de Justiça "verifica-se que o r. Juízo daquela Comarca efetuou inúmeras tentativas de encontrar tal testemunha, sendo que a Sessão Plenária chegou a ser adiada por dezesseis vezes." (f. 1922).
+ ..  Assim, fica claro que a testemunha, mesmo de caráter imprescindível, não pode ser obrigada a prestar depoimento em Comarca distinta da que reside, tal como no presente caso, vez que referida testemunha estaria residindo em Brasília-DF.
+No presente caso, contudo, a testemunha primeiramente sequer chegou a ser encontrada através de cartas precatórias expedidas, vez que a defesa deixou de apresentar o endereço correto, sendo que tal ato é de sua responsabilidade, não podendo o Juízo
+adiar o julgamento por inúmeras vezes até que referida testemunha fosse encontrada.
+Pelo que consta da petição de fls. 1723/1724, a defesa do réu limitou-se a indicar que "por informações extra-oficiais que o mesmo reside na Comarca de Brasília/DF, possuindo uma loja na Rodoviária, o que a defesa entende que será de fácil localização." (fls. 1723/1724).
+Após tentativas infrutíferas de localização da testemunha na "loja na Rodoviária", o juízo de origem encaminhou Ofício ao Presidente do Tribunal Regional Eleitoral do Distrito Federal, o qual informou o endereço da mencionada testemunha, tendo sido expedida carta precatória para a intimação da mesma, a qual foi intimada em 21/03/2011 (fl. 1834), contudo, não compareceu ao julgamento ocorrido dia 25/03/2011.
+ ..  Ademais, não merece prosperar as alegações da defesa do réu de que o [NOME] da Vara Criminal da Comarca de Ubiratã, [NOME], teria "tramado" para levar o juízo a crer que a testemunha [NOME] compareceria a sessão de julgamento do Tribunal do Júri, pois fez constar da certidão de f. 1794 que a testemunha ligou para o Cartório informando que compareceria ao júri. Contudo, na seqüência foi juntado aos autos Atestado Médico (f. 1815) dando conta de que [NOME] foi submetido a tratamento médico, razão pelo qual deveria ficar em repouso por quinze dias.
+Todavia, mesmo diante de tais fatos, não é possível afirmar que houve qualquer irregularidade na conduta do Sr. [NOME], sendo que o Juiz Presidente inclusive aplicou multa para referida testemunha.
+Como se pode ver, assiste razão o agravante, pois o assunto foi amplamente enfrentado pelo Tribunal de apelação.
+Sobre o apontado excesso de linguagem do Tribunal, eis o que a decisão agravada consignou (e-STJ fl. 2333):
+Busca-se, por último, reconhecimento de excesso de linguagem na acusação e no acórdão impugnado.
+ ..  Desta feita, adota-se o mesmo entendimento anterior sobre supressão de instância.
+Sobre o ponto, realmente há de ser mantida a conclusão de supressão de instância. Isso porque o único assunto de mérito discutido pelo Tribunal referiu-se à dosimetria da pena, tendo em vista que a defesa se limitou a impugnar esta questão, conforme pode-se verificar no seguinte contexto (e-STJ fl. 1574):
+No mérito, o presente recurso de apelação interposto pela defesa limita-se a impugnar a dosimetria da pena.
+ ..
+Também nos Embargos de Declaração, o Tribunal se limitou a pronunciar sobre a ausência da testemunha arrolada com cláusula de imprescindibilidade e sobre a dosimetria (e-STJ fls. 1659/1668).
+O único momento em que o Tribunal adentrou no mérito para afirmar que haviam provas suficientes quanto à participação do réu no crime se deu no julgamento da primeira apelação, que cassou a sentença absolutória (e-STJ fls. 707/734); como o réu não trouxe o assunto novamente na segunda apelação, após o segundo julgamento do Júri, ocorreu a preclusão.
+Por último, quanto à alegada utilização de argumento de autoridade pelo promotor de justiça na sessão do segundo julgamento do Júri, assiste razão à defesa no que concerne à não apreciação do assunto na decisão agravada por esta Corte, devendo também ser julgada no momento oportuno.
+Ante o exposto, reconsidero a decisão agravada que negou seguimento ao presente habeas corpus. Assim, o feito será oportunamente apreciado pela 5ª Turma.
+Publique-se.
