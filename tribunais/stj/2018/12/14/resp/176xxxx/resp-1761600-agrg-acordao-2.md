@@ -1,0 +1,29 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OPERAÇÃO PERSA. ARTIGO 313-A DO CP. INSERÇÃO DE DADOS FALSOS POR FUNCIONÁRIO PÚBLICO. PENA-BASE. CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. IMPOSSIBILIDADE.
+1. Pode haver a valoração negativa da culpabilidade, pois a premeditação do crime e a "teia de fraudes" envolvendo a conduta demonstram o maior desvalor dessa circunstância, motivo pelo qual pode ser sopesada.
+2. No presente caso, embora estabelecida a pena definitiva menor que 4 anos (2 anos e 9 meses de reclusão), sendo primário o acusado e sem antecedentes, a presença de circunstâncias judiciais negativas (culpabilidade e consequências do crime) veda a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44 do Código Penal, uma vez que demonstra que a medida não se mostra socialmente recomendável, nem suficiente para a prevenção e repressão do crime.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática de e-STJ fls. 1032/1036, que conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante alega: (i) a redução da pena-base, uma vez que não fora utilizada fundamentação idônea para sua exasperação, no que tange à culpabilidade; (ii) a possibilidade da substituição da pena privativa de liberdade por restritivas de direito.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC 272.126/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp 1383921/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; HC 297.450/RS, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+No presente caso, pode haver a valoração negativa da culpabilidade, pois a premeditação do crime e a "teia de fraudes" envolvendo a conduta demonstram o maior desvalor dessa circunstância, motivo pelo qual pode ser sopesada, pois aponta para maior reprovabilidade da conduta. Precedentes: AgRg no AREsp 1277816/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/08/2018, DJe 31/08/2018; AgRg no AREsp 1279221/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/08/2018, DJe 15/08/2018; HC 449.745/MA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2018, DJe 15/08/2018.
+Dessa forma, deve ser mantida a pena-base como fixada pelas instâncias ordinárias.
+Em relação à substituição da reprimenda, segundo o art. 44 do CP, as penas restritivas de direitos substituem as privativas de liberdade, quando: (i) aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (ii) o réu não for reincidente em crime doloso; (iii) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+No presente caso, embora estabelecida a pena definitiva menor que 4 anos (2 anos e 9 meses de reclusão), sendo primário o acusado e sem antecedentes, a presença de circunstâncias judiciais negativas (culpabilidade e consequências do crime) veda a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44 do Código Penal, uma vez que demonstra que a medida não se mostra socialmente recomendável, nem suficiente para a prevenção e repressão do crime. Precedentes: AgRg no REsp 1551101/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2018, DJe 29/06/2018; HC 445.469/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 25/05/2018; EDcl no REsp 1537995/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/02/2017, DJe 02/03/2017.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
