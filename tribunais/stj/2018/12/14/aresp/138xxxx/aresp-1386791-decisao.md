@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 145):
+Exibição de documentos. Inadequação da via eleita. Demanda que reflete, na realidade, cautelar de exibição de documentos, hipótese não contemplada pelo novo CPC. Ademais, peculiaridades do caso concreto que indicam abuso do direito de demandar. Ausência de recusa judicial. Incabível condenação da ré ao pagamento das verbas sucumbenciais. Extinção do feito, com fulcro no artigo 485, inciso VI, do CPC/15. Ação extinta sem resolução do mérito. Improcedência mantida, sob fundamento diverso. Recurso prejudicado.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 397, 399 e 497 do Código de Processo Civil de 2015; bem como divergência jurisprudencial.
+Sustenta, em síntese, que está presente o interesse de agir do autor, pois é cabível o ajuizamento de ação autônoma de exibição de documentos, inclusive, na vigência do novo Código de Processo Civil. Afirma que tal ação se exaure em si mesma, com a simples apresentação dos documentos. Alega que o pedido administrativo formulado atende os requisitos previstos no acórdão proferido no Recurso Especial 1.349.453/MS. Aduz, por fim, que a parte agravada deve ser condenada ao pagamento da verba sucumbencial.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+Inicialmente, observo que o conteúdo normativo dos arts. 397, 399 e 497 do CPC/2015 não foi objeto de exame pela Corte de origem, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a esse aspecto, de modo que é inviável a análise dos dispositivos legais indicados no recurso especial, pois ausente o requisito do prequestionamento. Incidem, na espécie, portanto, os óbices previstos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+Quanto ao apontado dissídio jurisprudencial, inafastável a incidência do enunciado da Súmula 284 do Supremo Tribunal Federal, na medida em que o recorrente deixou de colacionar julgados para o devido confronto analítico.
+Outrossim, no tocante ao pagamento dos honorários de sucumbência, o recorrente não indicou nenhum dispositivo de lei federal que supostamente fora violado ou objeto de interpretação divergente no acórdão recorrido, o que inviabiliza a admissão do recurso especial, em razão do óbice da Súmula 284 do STF.
+Em face do exposto, nego provimento ao agravo.
+Havendo sucumbência recíproca na origem, deixo de proceder à majoração dos honorários advocatícios.
+Intimem-se.
