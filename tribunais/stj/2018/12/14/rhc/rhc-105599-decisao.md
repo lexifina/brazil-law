@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME], em face do acórdão do Tribunal de Justiça do Estado do Pará que denegou o writ de origem.
+O acórdão recorrido contém a seguinte ementa (fl. 96):
+HABEAS CORPUS LIBERATÓRIO COM PEDIDO DE LIMINAR. CONSTRANGIMENTO ILEGAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. RÉU QUE ESTAVA FORAGIDO. AUSÊNCIA DE PRESSUPOSTO DA PRISÃO PREVENTIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS INSUFICIENTES. DENEGAÇÃO.
+1. O decreto preventivo e a decisão que indeferiu o pedido de revogação da prisão preventiva do Paciente encontram-se suficientemente fundamentados, diante da insuficiência de predicados pessoais e existência dos requisitos do art. 312 do CPP, principalmente em face da periculosidade do acusado, atestada por ex-companheira, tornando-se fator impeditivo da concessão de medidas cautelares diversas da prisão.
+2. Ordem denegada, à unanimidade.
+Busca-se a revogação da prisão preventiva, com a alegação de ausência dos requisitos ensejadores, com a aplicação das medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal.
+O recorrente afirma nunca ter se ausentado do distrito da culpa e que se apresentou espontaneamente quando teve ciência do mandado de prisão em seu desfavor.
+O acusado foi denunciado pela prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+Na origem, a ação penal n. 0011036-78.2017.8.14.0066 encontra-se em fase instrutória, com audiência designada para o dia 6/12/2018, conforme informações processuais eletrônicas disponíveis em 4/12/2018.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta dos autos que, no dia 17/12/2017, por volta das 20h30min, o paciente matou a vítima [NOME] em via pública. No dia do fato o denunciado ([NOME]) foi devolver o filho à sua ex companheira (Fernanda), a qual estava acompanhada do atual namorado (vítima - [NOME]). Após, o acusado seguiu a vítima e sua ex companheira e em determinado momento desferiu pauladas na cabeça de [NOME] (fl. 43), bem como que a sua prisão foi decretada em 20/12/2017 e o mandado foi cumprido no dia 24/9/2018 (fl. 43).
+O decreto prisional possui os seguintes fundamentos (fls. 66/67 - com destaques):
+ .. .Trata-se de representação policial no sentido de obter mandado judicial para decretação da prisão preventiva do acusado acima identificado e nos autos devidamente qualificado em função da possível prática do crime de homicídio qualificado (Capitulação provisória policial no auto: artigo 121, § 2o, III e IV, do Código Penal brasileiro) e da fuga do distrito da culpa (Local do crime).
+DECIDO
+Dispõe o Código de Processo Penal brasileiro:
+Art. 312 A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria. Grifei.
+Após análise detida do auto de inquérito policial instaurado verifico assistir razão, NESTE MOMENTO, à Autoridade Policial quanto aos requisitos ensejadores e justificadores da custódia cautelar. Veja adiante.
+O cidadão acima epigrafado está sendo acusado da prática de homicídio qualificado, crime gravíssimo, bem assim a Polícia informa que houve fuga do distrito da culpa (o investigado está em local incerto), prejudicando a ausência do acusado a aplicação devida da Lei Penal. Se for comprovada inocência do acusado imediatamente se procederá à sua soltura, todavia, como fugiu, a decretação cautelar é medida que se impõe pelo menos até a conclusão do inquérito policial, restando presente o requisito legal, NESTE MOMENTO, disposto no artigo 312 do CPP (Conveniência da instrução criminal), que autoriza a decretação da cautelar prisão, tendo razão a Autoridade Policial. Diante do exposto, nos termos dos artigos 311 e 316 do CPP, DECRETO A PRISÃO PREVENTIVA do cidadão [NOME], nos autos já devidamente qualificado/identificado, com lastro no artigo 312 do CPP. .. .
+Como se vê, a decisão de prisão apresenta fundamentação concreta para a prisão preventiva, evidenciada na gravidade do delito de homicídio duplamente qualificado e no fato de o paciente ter fugido do distrito da culpa, colocando em risco a aplicação da lei penal, constando dos autos que o recorrente ficou foragido por quase um ano (fl. 102).
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013. Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Cumpre observar, por oportuno, que se mostra incabível o exame da questão referente à não ocorrência de fuga, porquanto demanda revolvimento de prova.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
