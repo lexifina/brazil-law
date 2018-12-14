@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdãos assim ementados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. REVISÃO DE CLÁUSULAS. SISTEMA SACRE X PES. ANATOCISMO. TR. FORMA DE AMORTIZAÇÃO. TAXA DE ADMINISTRAÇÃO E DE RISCO DE CRÉDITO. SEGURO. DECRETO-LEI 70/66.
+1. Os princípios da obrigatoriedade dos contratos e da autonomia da vontade associados à inexistência de prova acerca de eventual coação da parte mutuária na celebração de contrato militam contrariamente à configuração de ilegalidade ou abusividade de cláusulas contratuais originariamente convencionadas determinando a aplicação do SACRE ao financiamento habitacional contratado.
+2. Não prospera a insurgência do mutuário acerca da prática de anatocismo quando a planilha de financiamento anexada aos autos demonstra que o valor das prestações superou o valor dos juros devidos mensalmente, mormente diante da adoção do Sistema de Amortização Crescente - SACRE.
+3. A aplicação da Taxa Referencial nos reajustes dos saldos devedores relativos aos contratos de mútuo habitacional celebrados na vigência da Lei nº 8.177/91 não contraria a jurisprudência consagrada pelo Supremo Tribunal Federal nas ADIns 493, 768 e 959-DF, nas quais apenas restou decidido que, por contrariar o direito adquirido e o ato jurídico perfeito, a TR não poderia ser imposta como índice de substituição a índices estipulados em contratos firmados anteriormente à sua edição. De conseguinte, nos contratos firmados após a edição da Lei 8.177/91, não há ilegalidade na pactuação de atualização mensal do saldo devedor mediante a aplicação de coeficiente de atualização monetária idêntico ao utilizado para o reajustamento dos saldos existentes nas contas vinculadas ao FGTS.
+4. Não padece de ilegalidade a sistemática de reajuste do saldo devedor em momento anterior à amortização da dívida pelo pagamento da prestação mensal.
+5. Inexistindo vedação legal à cobrança de Taxas de Risco de Crédito e de Administração, afigura-se possível a sua previsão em contrato. Precedentes do STJ.
+6. Nos contratos de mútuo para financiamento de imóveis firmados junto à CEF é necessária a celebração do contrato de seguro, sendo este celebrado entre o agente financeiro e a seguradora por ele escolhida, o que não configura "venda casada".
+7. A jurisprudência pátria, capitaneada pelo Supremo Tribunal Federal, já se consolidou no sentido de considerar constitucional a execução extrajudicial instituída pelo Decreto-lei 70/66.
+8. Apelação desprovida.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO. CONTRADIÇÃO. PREQUESTIONAMENTO.
+1. O acórdão embargado restou omisso no que tange à nulidade da cláusula que prevê a cobrança de saldo devedor residual.
+2. Não é ilegal a cobrança de saldo devedor residual a cargo do mutuário ao final do financiamento, por objetivar a recuperação do mútuo e por constar expressamente do contrato
+3. No que tange às demais alegações, apresenta-se indisfarçável a pretensão da parte embargante de, através dos presentes embargos, obter a reforma do decisum, finalidade para a qual a via eleita se mostra inadequada, devendo, se assim o desejar, manejar recurso próprio.
+4. Embargos de declaração parcialmente providos. Inalteradas as conclusões do julgado.
+Nas razões de recurso especial, alega o ora agravante violação dos artigos 333, 420, 421, 458, II, 496, VI, 535, 543-B, § 3º, 583, 586, 615 e 618, I, do Código de Processo Civil; 421, 422, 586 e 778 do Código Civil; 5º e 6º da Lei 4.380/1964; 50 da Lei 10.931/2004; 19 do Decreto-Lei n.º 21.991/1932; 20 do Código de Organização Judiciária; 167, I , 21 da Lei nº 6015/73; 2º, 3º, 6º, VIII, da Lei 8.078/1990.
+Não merece reforma a decisão agravada, a qual foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Com efeito, verifico que o ora agravante limitou-se a citar genericamente violação a artigos de lei, sem demonstrar em que extensão e como se deu a violação, o que impede a compreensão da controvérsia, por deficiência na fundamentação. Incidência da Súmula 284/STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
