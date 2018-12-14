@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de São João de Meriti/RJ, no processo nº 0005596-76.2016.8.19.0073, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 21 de abril de 2016, e de outra pessoa, em virtude da suposta prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico), combinados com o 40, inciso IV (causa de aumento alusiva a emprego de arma), da Lei nº 11.343/2006. Destacou a quantidade e a natureza das substâncias apreendidas – 1.554 invólucros de maconha (901,30 gramas) e 480 porções de cocaína (144 gramas) –, além de 1 rádio comunicador, 1 granada e 1 pistola calibre 9 mm municiada. Ressaltou a necessidade de garantir a ordem pública. Concluiu insuficiente medida cautelar diversa.
+    Condenou-o, em 25 de abril de 2017, a 9 anos, 4 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 1.399 dias-multa, ante o cometimento dos delitos imputados. Negou o direito de recorrer em liberdade, assentando persistirem os motivos ensejadores da custódia. Apelação interposta pela defesa foi desprovida.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 99.807, inadmitido pelo Relator.
+    O impetrante sustenta a insubsistência da fundamentação do ato por meio do qual imposta a prisão, dizendo-o lastreado na gravidade abstrata do crime. Assevera configurado excesso de prazo na custódia, a perdurar por mais de 2 anos e 7 meses sem a formação da culpa.
+    Requer, no campo precário e efêmero, o afastamento da preventiva, expedindo-se alvará de soltura e, sucessivamente, a substituição por medida cautelar alternativa, sem especificá-la. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou encontrar-se o processo-crime concluso ao Relator para elaboração do acórdão da apelação.
+    A fase é de apreciação da medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, consideradas a quantidade e a natureza dos entorpecentes encontrados – 1.554 sacolés de maconha (901,30 g gramas) e 480 sacolés de cocaína (144 gramas) – bem assim a apreensão de 1 rádio comunicador, 1 granada e 1 pistola calibre 9 mm municiada, demonstram estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a a custódia mostra-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução de pena, prender – foi justificada, atendendo-se ao figurino legal.
+    O paciente está preso, sem culpa formada, desde 21 de abril de 2016, ou seja, há 2 anos, 7 meses e 23 dias. Surge o excesso de prazo. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade.
+    A superveniência da sentença penal condenatória não afasta a natureza preventiva da custódia. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as prisões decorrentes de pronúncia e de sentença penal condenatória recorrível integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a custódia oriunda da condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser implementado com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0005596-76.2016.8.19.0073, da Segunda Vara Criminal da Comarca de São João de Meriti/RJ. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de dezembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
