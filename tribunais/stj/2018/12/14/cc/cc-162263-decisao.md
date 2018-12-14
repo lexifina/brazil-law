@@ -1,0 +1,34 @@
+DECISÃO
+ Trata-se de conflito de competência suscitado na ação ajuizada por [NOME] contra o Município de Lagoa do Itaenga, na qual pleiteia-se o pagamento de direitos relativos ao vínculo mantido entre as partes para prestação de serviços de agente comunitário de saúde.
+A ação foi aviada perante o Juízo da Vara do Trabalho de Carpina/PE, que julgou parcialmente procedente a reclamatória. Em grau de recurso ordinário, o TRT da 6ª Região declinou de sua competência, sob o fundamento de que o regime jurídico ao qual foi submetido o reclamante teve natureza administrativa, atraindo a competência da Justiça comum.
+Distribuído o feito ao Juízo de Direito da Vara Única de Lagoa do Itaenga/PE, foi suscitado o conflito perante o Superior Tribunal de Justiça, tendo o suscitante consignado que a Lei Municipal nº 523/2007 manteve o regime celetista previsto pela Lei Federal nº 11.350/06 para os Agentes Comunitários de Saúde.
+Parecer do Ministério Público Federal pela fixação da competência em favor do juízo suscitado.
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+Extrai-se dos autos que o autor foi contratado temporariamente no ano de 1998 pelo Município demandado, permanecendo nessa situação até ser efetivado em 06/08/2007, em cumprimento à Lei Municipal nº 523/2007, que em seu artigo 9º submete os agentes comunitários de saúde ao regime celetista.
+Além disso, o autor foi submetido a processo seletivo simplificado e após a edição da Lei nº 11.350/2006 e da Lei Municipal nº 523/2007, a última prevendo a submissão ao regime jurídico da Consolidação das Leis Trabalhistas.
+Compulsando os autos, verifica-se que o vínculo estabelecido na contratação temporária era o jurídico-administrativo. Contudo, a Lei Federal n. 11.350/2006 passou a dispor, em seu art. 8º, que os Agentes Comunitários de Saúde seriam submetidos ao regime celetista, o que posteriormente foi confirmado pelo art. 9º da Lei Municipal n. 523/2007.
+Tem-se, portanto, que até a edição da Lei Municipal suprarreferida, o regime legitimamenta adotado era o jurídico-administrativo, passando a coincidir com o regime celetista previsto na Lei Federal, a partir de 2007.
+O Supremo Tribunal Federal, ao julgar a ADI 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC 45/2004, ao apreciar a expressão relação de trabalho, afastou qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Considerando que, com a edição da Lei Municipal n. 523/2007, o Município submeteu os ocupantes dos cargos de Agente Comunitário de Saúde ao regime celetista, a Justiça do Trabalho passou a ser competente para a análise das ações em que se discutam direitos posteriores à edição da referida lei.
+Tratando da competência relativa ao direito intertemporal, em caso de mudança de regime jurídico, como sói ocorrer quando ocorre a instituição do regime jurídico único, o enunciado n. 97 da Súmula do STJ soluciona a questão:
+Súmula 97.
+Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único
+Nesse contexto, aplica-se a máxima ubi eadem ratio, eadem legis dispositio, a se aplicar o enunciado n. 97 da Súmula do STJ, por analogia, vez que, mutatis mutandis, é competente a Justiça Especializada para processar e julgar demandas em que se reivindica vantagens trabalhistas posteriores à instituição do regime celetista, conjugada com a orientação firmada no enunciado n. 170 da Súmula deste Superior Tribunal de Justiça, que dispõe que compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio.
+Nesse sentido, é entendimento da Primeira Seção desta Corte:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. AGENTE COMUNITÁRIO DE SAÚDE. RECLAMAÇÃO TRABALHISTA. REGIME CELETISTA. LEI N. 11.350/06. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Na hipótese, cuida-se de servidora municipal (agente comunitário de saúde) contratada sob o regime da Consolidação das Leis do Trabalho, após prévio processo seletivo, de acordo com o previsto no art. 8º da Lei Federal n. 11.350/06, não havendo lei local dispondo sobre regime jurídico diverso.
+2. "Nesse contexto, como a lei submeteu a servidora ao regime celetista, deve prevalecer a competência da justiça especializada para apreciar a controvérsia". (AgRg no CC 116.065/PE, Rel. Min. Castro Meira, Primeira Seção, julgado em 8.2.2012, DJe 17.2.2012.).
+3. Agravo regimental improvido.
+(AgRg no CC 121.904/RN, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 13/06/2012, DJe 18/06/2012)
+CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. PRÉVIO PROCESSO SELETIVO. CONTRATAÇÃO SOB O REGIME DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO - CLT. POSTERIOR PUBLICAÇÃO DA LEI N. 11.350/2006. APLICAÇÃO DO REGIME CELETISTA APENAS EM CASOS EM QUE O ESTADO OU MUNICÍPIO NÃO TENHA REGIME PRÓPRIO, EM SENTIDO DIVERSO. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente comunitário de saúde em face de município, questionando o pagamento de verbas trabalhistas.
+2. O art. 8º da Lei n. 11.350/2006 estabeleceu o regime celetista nas hipóteses de contratação de agente comunitário de saúde, salvo se o ente público adotar forma diversa por meio de lei local.
+3. Será celetista o regime aplicável salvo se, no caso dos Estados, do Distrito Federal e dos Municípios, lei local dispuser de forma diversa.
+4. Não se tem autos notícia de que o município tenha disposto de regime jurídico de forma diversa do estabelecido pela CLT.
+5. Seja em função da Lei Federal n. 11.350/06, seja em razão do regramento municipal, o regime jurídico aplicável à parte reclamante é o celetista, o que, por conseguinte, implica a competência da Justiça do Trabalho. Precedentes.
+6. Agravo interno não provido.
+(AgInt no CC 149.760/PR, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 30/06/2017)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o TRIBUNAL REGIONAL DO TRABALHO DA 6ª REGIÃO, que, por sua vez, deverá dar prosseguimento ao julgamento da demanda nos limites de sua jurisdição, conforme o enunciado n. 170 da Súmula do Superior Tribunal de Justiça.
+Comunique-se aos Juízos Suscitante e Suscitado.
+Publique-se. Intime-se.
