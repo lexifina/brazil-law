@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE INSTRUMENTO PROCURATÓRIO. INCIDÊNCIA SÚMULA 115/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Mesmo após a intimação da parte recorrente para que sanasse o vício apontado, não houve a comprovação da regularidade no recolhimento do preparo. Deserção do recurso especial reconhecida.
+3. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME], contra decisão da Presidência do STJ que não conheceu do recurso especial por ausência de cadeia completa de procuração para o subscritor do recurso especial, nos seguintes termos, in verbis:
+Vistos, etc.
+Trata-se de RECURSO ESPECIAL interposto com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a parte Recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial, Dr. [NOME] .
+É firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+Ademais, percebeu-se, nessa Corte, a irregularidade na representação processual, razão pela qual houve a intimação da parte Recorrente para que o referido vício fosse sanado. Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte não regularizou. Dessa forma, a representação processual do recurso não foi devida e oportunamente regularizada.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Em suas razões, o recorrente defende a regularidade formal do recurso e das procurações outorgadas em substabelecimento e requer neste sentido a retratação da decisão agravada ou apresentação deste agravo em mesa para apreciação.
+Sem a apresentação de contraminuta ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE INSTRUMENTO PROCURATÓRIO. INCIDÊNCIA SÚMULA 115/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Mesmo após a intimação da parte recorrente para que sanasse o vício apontado, não houve a comprovação da regularidade no recolhimento do preparo. Deserção do recurso especial reconhecida.
+3. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente recurso não merece ser provido.
+Deveras, em relação à regularidade da representação processual, verifico que a parte ora Agravante não procedeu à juntada de procuração/substabelecimento ofertando poderes ao subscritor do recurso especial, mesmo tendo sido intimada para regularização. Em situações análogas à dos autos, esta Corte de Justiça possui entendimento consolidado no sentido de ser inviável o conhecimento do recurso interposto, vez que a subscritora do mesmo não possui poderes para tanto. Neste sentido, veja-se:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO PERANTE O TRIBUNAL AD QUEM. IMPOSSIBILIDADE. RECURSO ESPECIAL. INSTRUMENTO PROCURATÓRIO. AUSÊNCIA. SÚMULA 115 DO STJ. INCIDÊNCIA. 1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. De acordo com o novo Estatuto Processual Civil, a ocorrência de feriado local deve ser demonstrada por documento idôneo, no ato da interposição do recurso. 3. Uma vez não comprovado, no momento da interposição do recurso, o feriado alegado, mantém-se a intempestividade reconhecida na decisão agravada. 4. É firme o entendimento desta Corte de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ. 5. Hipótese em que, mesmo após a intimação para a regularização do feito, a parte recorrente não procedeu à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do recurso especial. 6. Agravo interno desprovido. (AgInt no AREsp 1270601/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/09/2018, DJe 05/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DA CADEIA COMPLETA DE PROCURAÇÕES. DECISÃO MONOCRÁTICA MANTIDA.1. Agravo interno contra decisão da Presidência, que não conheceu do recurso, em razão da irregularidade na representação processual. 2. O entendimento do STJ é no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ. 3. A parte agravante, embora devidamente intimada para a regularização da representação processual, não procedeu à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do agravo e do recurso especial. 4. "Intimada a parte para regularizar a representação processual, essa não procedeu a juntada da procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial, de maneira que não mais lhe socorre a previsão expressa de regularização de vícios processuais de menor gravidade, disposta no art. 1.029, § 3º, do CPC/15. (AgInt no AREsp 1.227.559/MG, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/08/2018, DJe 03/09/2018). 5. Agravo interno não provido. (AgInt no AREsp 1249389/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+Dessa forma, considerando que a parte agravante não apresentou argumentação capaz de infirmar a decisão ora recorrida, nego provimento ao agravo interno.
+É o voto.
