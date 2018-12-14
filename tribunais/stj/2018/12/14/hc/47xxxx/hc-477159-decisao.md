@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NOVO DELITO COMETIDO DURANTE A SUA VIGÊNCIA. SUSPENSÃO CAUTELAR DO BENEFÍCIO. NÃO OCORRÊNCIA. REVOGAÇÃO POSTERIOR. IMPOSSIBILIDADE. SÚMULA N.º 617/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS CONCEDIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo n.º 7002398-77.2018.8.26.0482).
+Narra o Impetrante que o Paciente estava em livramento condicional desde 07/02/2014, cujo fim do período de prova estava previsto para o dia 16/11/2016. Contudo, em 22/02/2018, o Juízo das Execuções Penais da Comarca de Presidente Prudente/SP revogou o livramento condicional em razão de fato criminoso praticado em 29/07/2015 (fls. 16-17).
+Inconformada, a Defesa recorreu ao Tribunal de origem, que negou provimento ao agravo em execução penal, nos termos da seguinte ementa (fl. 54):
+"AGRAVO EM EXECUÇÃO - Revogação de livramento condicional - Cometimento de crime na vigência do benefício - Prorrogação automática - Art. 89 do CP - Agravo improvido".
+Nas razões desta impetração, a Defensoria Pública impetrante alega ilegalidade na revogação do livramento condicional após o término do período de prova.
+Sustenta, a esse respeito, que, "conquanto o fato criminoso imputado ao Paciente tenha se operado no dia 29 de julho de 2015, o livramento jamais foi suspenso ou revogado. Dessa maneira, à época da prolação do r. decisório de fl. 02/03 do apenso "Agravo", a pena já se expirara" (fl. 13).
+Pleiteia, liminarmente e no mérito, a cassação da decisão que revogou o livramento condicional e a extinção da pena correspondente.
+Liminar deferida às fls. 63-65, a fim de suspender os efeitos da decisão que revogou o livramento condicional do Paciente.
+Informações prestadas às fls. 73-76.
+O Ministério Público Federal, em parecer da lavra do Dr. [NOME], opinou pelo não conhecimento da impetração (fls. 78-85).
+É o relatório.
+Decido.
+Conforme informações prestadas pelo Juízo da 1ª Vara de Execuções Criminais da Comarca de Presidente Prudente/SP (fls. 73-74), o Paciente foi beneficiado com o livramento condicional em 07/02/2014, cujo término do período de prova estava previsto para 17/11/2016. Em 13/02/2015 e 29/07/2015, o Paciente incorreu em novas infrações penais, porém não houve decisão suspendendo o livramento condicional anteriormente deferido. Somente em 22/02/2018, quando já esgotado o período de prova, houve decisão judicial determinando a cassação do livramento condicional.
+De fato, nos termos da Súmula 617 desta Corte Superior, "a ausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena".
+No mesmo sentido, ambas as turmas que compõem a Terceira Seção desta Corte pacificaram a compreensão de que não há prorrogação automática do livramento condicional em caso de prática de novo delito no curso do benefício, de forma que a ausência de suspensão ou revogação expressa em decisão judicial enseja a extinção da pena após o cumprimento do período de prova. Confira-se:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME DURANTE O PERÍODO DE PROVA. SUSPENSÃO APÓS O DECURSO. PRORROGAÇÃO AUTOMÁTICA. INVALIDADE. EXTINÇÃO DA PENA QUE SE IMPÕE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO, PARA DECLARAR EXTINTA A PUNIBILIDADE.
+ ..
+II - Nos termos do art. 145 da LEP, ocorrendo a prática de infração penal durante o período de prova, cumpre ao Juízo da Execução Penal ordenar a sua prisão e suspender o curso do livramento condicional. A revogação dependerá da decisão final da nova ação penal.
+III - Decorrido o período de prova do livramento condicional sem que seja suspenso ou revogado, a pena deve ser extinta, nos termos do art. 90 do Código Penal.
+IV - A jurisprudência do Supremo Tribunal Federal e deste Superior Tribunal de Justiça é firme no sentido de que não há prorrogação automática do livramento condicional.
+Habeas corpus não conhecido. Ordem concedida de ofício para declarar extinta a pena privativa de liberdade, em virtude do integral cumprimento do período de prova do livramento condicional." (HC 454.451/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/09/2018, DJe 21/09/2018, sem grifos no original).
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. COMETIMENTO DE NOVO DELITO, NO CURSO DO BENEFÍCIO. INEXISTÊNCIA DE SUSPENSÃO CAUTELAR. REVOGAÇÃO POSTERIOR. ILEGALIDADE FLAGRANTE. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. A teor da jurisprudência pacífica do STJ, ainda que praticado novo delito no curso do período de prova, extingue-se a pena, nos termos do disposto no art. 145 da Lei n. 7.210/84, se não houver suspensão cautelar do benefício do livramento condicional dentro desse prazo. Precedentes.
+3. Habeas corpus não conhecido, mas concedida a ordem de ofício para, cassando o acórdão impugnado e a decisão do Juízo das Execuções, declarar extinta a pena imposta ao paciente (Execução n. 357.654)." (HC 333.900/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/02/2016, DJe 25/02/2016, sem grifos no original).
+"AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVA INFRAÇÃO DURANTE O PERÍODO DE PROVA. AUSÊNCIA DE SUSPENSÃO CAUTELAR. PRORROGAÇÃO AUTOMÁTICA. IMPOSSIBILIDADE. ILEGALIDADE MANIFESTA. INCIDÊNCIA DOS ARTS. 90 DO CP E 146 DA LEI N. 7.210/1984. EXTINÇÃO DA PENA PRIVATIVA DE LIBERDADE.
+1. Inexistindo suspensão cautelar do livramento condicional, o transcurso do respectivo prazo, sem revogação, implica a extinção da pena, diante da impossibilidade de prorrogação automática do período de prova. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC 277.161/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2013, DJe 10/10/2013, sem grifos no original.)
+Portanto, consumado o período de prova do livramento condicional concedido ao Paciente sem que houvesse a expressa revogação ou suspensão do benefício, deve ser declarada a extinção da punibilidade quanto às respectivas penas.
+Ante o exposto, CONCEDO a ordem de habeas corpus para cassar a decisão que revogou o livramento condicional concedido ao Paciente e declarar a extinção das penas abarcadas pelo referido benefício, nos termos do art. 90 do Código Penal.
+Publique-se. Intimem-se.
