@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. OMISSÃO. INOCORRÊNCIA. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Espólio de Eduardo Mendes Linhares contra decisão de e-STJ fls. 471/475, por meio da qual não conheci do agravo em recurso especial, que restou assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNADO ESPECÍFICA DE TODOS OS FUNDAMENTOS. ART. 932, III, DO CPC/2015 E ART 253, PARÁGRAFO ÚNICO, I, DO RISTJ. PRECEDENTES. MATÉRIA DECIDIDA PELA CORTE ESPECIAL. EARESP Nº 746.775/PR. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+O embargante alega, em síntese, que a decisão embargada padeceria de omissão, uma vez que não foi considerado que houve impugnação específica e eficaz aos fundamentos do acórdão recorrido, conforme se nota dos itens 26 a 36 das razões do recurso especial, bem como nos itens 28 a 38 do agravo em recurso especial.
+Sustenta que "necessário que V.Exa. se manifeste sobre os itens acima (itens 26 à 36 do RECURSO ESPECIAL e itens 28 à 38 do referido AGRAVO EM RECURSO ESPECIAL) já que, como foi dito, os itens 26 à 36 do RECURSO ESPECIAL rebatem especificamente os argumentos do referido trecho do acórdão do TJMG e os itens 28 à 38 do referido AGRAVO EM RECURSO ESPECIAL rebatem especificamente a decisão do 1º Vice-Presidente do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que NEGOU SEGUIMENTO ao RECURSO ESPECIAL com o argumento de que a decisão do TJMG não foi infirmada de forma eficaz pelo recorrente, que não logrou demonstrar o suposto desacerto da dicção contida no acórdão recorrido, circunstância que atrai a incidência do Enunciado nº 283 da Súmula do Supremo Tribunal Federal" (e-STJ fls. 483/484).
+Impugnação aos aclaratórios apresentada às e-STJ fls. 489/493.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+Assim, os declaratórios são cabíveis nos casos estritamente previstos, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso. Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS DECLARATÓRIOS NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. INDICAÇÃO GENÉRICA. HIPÓTESES DE CABIMENTO. REJEIÇÃO.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos declaratórios interpostos que têm o propósito infringente.
+2. A reiteração em segundos embargos de declaração dessa mesma ordem de alegações, além de caracterizar o uso inapropriado dos aclaratórios com a finalidade de obter o rejulgamento da causa, também configura o manejo com intuito protelatório a ensejar a respectiva reprimenda processual.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no REsp 1507689/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 12/03/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. RFFSA. SOCIEDADE DE ECONOMIA MISTA. IMUNIDADE TRIBUTÁRIA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO.
+1. Hipótese em que ficou consignado que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em Recurso Especial.
+2. A Segunda Turma desproveu o recurso com motivação clara e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+3. A fundamentação da embargante denota mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no REsp 1638232/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. OUTORGA DE LICENÇA PARA CAPTAÇÃO DE ÁGUA SUBTERRÂNEA. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO.
+I - Deu-se provimento ao recurso especial do Estado, por se considerar legal a limitação administrativa estabelecida no sentido de que, nos locais dotados de rede de abastecimento de água potável, os poços de água subterrâneas serão tolerados exclusivamente para suprimento com fins industriais ou para uso em floricultura ou agricultura.
+II - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+III - Conforme assentado pelo STJ, "a contradição que enseja os embargos de declaração é apenas a interna, aquela que se verifica entre as proposições e conclusões do próprio julgado, não sendo este o instrumento processual adequado para a correção de eventual error in judicando (..)" (EDcl no AgRg nos EREsp 1.191.316/SP, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 10/5/2013)" (STJ, EDcl no AgRg no REsp 1.533.638/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/9/2016).
+IV - Embargos de declaração rejeitados.
+(EDcl no REsp 1345403/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/05/2017, DJe 12/05/2017)
+No presente caso, os itens 28 a 38 das razões do agravo em recurso especial referem-se apenas ao pedido de afastamento da Súmula nº 283/STF, e que foram considerados pela decisão embargada, uma vez que o agravo em recurso especial não foi conhecido por ausência de impugnação específica da incidência da Súmula nº 284/STF, quanto ao pedido de redução dos honorários advocatícios, pois o Tribunal de origem inadmitiu o recurso especial ao argumento de que o recorrente não teria indiciado o dispositivo eventualmente violado.
+Logo, a decisão embargada, com base nas razões do agravo em recurso especial, inclusive analisando os itens 28 a 38, considerou que houve impugnação específica à incidência da Súmula nº 283/STF.
+Desta forma, não há que se falar em omissão na decisão embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
