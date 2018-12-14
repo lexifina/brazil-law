@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE IPATINGA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fl. 199):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. MUNICÍPIO DE IPATINGA. SERVIDOR PÚBLICO. COMPLEMENTAÇÃO DE APOSENTADORIA. SUSPENSÃO DO PAGAMENTO. VERBA DE NATUREZA ALIMENTAR. TUTELA DE URGÊNCIA. ART. 300 DO CPC/2015. REQUISITOS. DEMONSTRAÇÃO. [NOME].
+I. Nos termos do artigo 300 do CPC/2015, deve ser deferida a tutela de urgência quando evidenciada a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+II. O Órgão Especial deste egrégio Tribunal de Justiça, por ocasião do julgamento do Incidente de Arguição de Inconstitucionalidade n9 1.0313.12.006543-5/002, reconheceu a constitucionalidade do art. 10, da Lei n91.311/94 com alteração pela Lei municipal n91.579/98 que garante aos servidores do Município de Ipatinga, que foram aposentados pelo RGPS o benefício intitulado "complementação de aposentadoria".
+III. A crise econômica que assola o país, e que teria alcançado o Município de Ipatinga, é tese vaga e insuficiente para motivar a suspensão do pagamento do benefício previdenciário, uma vez que cabe a Administração tomar as medidas necessárias para reduzir os gastos públicos, sem afetar os proventos dos servidores municipais aposentados.
+Na origem, cuida-se de ação de cobrança ajuizada por [NOME] e outra por meio da qual requerem o pagamento da complementação de aposentadoria, nos termos do art. 10 da Lei Municipal n. 1.311/1994.
+Por intermédio de decisão interlocutória, foi concedido parcialmente a tutela de urgência pleiteada, para determinar que a municipalidade proceda ao pagamento das referidas verbas de complementação de aposentadoria, em atraso e vincendas.
+Cabe destacar que a municipalidade referida ajuizou Ação Direta de Inconstitucionalidade, em trâmite perante o [NOME], na qual foi concedida medida cautelar para suspender os efeitos do referido artigo até o julgamento final do mencionado remédio constitucional.
+Com efeito, o Município de Ipatinga interpôs Agravo de Instrumento (fls. 1-19), requerendo a suspensão dos efeitos da decisão agravada.
+Naquela decisão, tendo como pano de fundo a manifestação do egrégio [NOME] a respeito da ADI mencionada pelo recorrente, foi decidido que os servidores aposentados fazem jus ao recebimento da complementação da aposentadoria.
+Foram rejeitados os embargos declaratórios opostos (fls. 228-232).
+No recurso especial, o recorrente aponta violação do art. 1.022, inciso II do CPC. Sustenta, em síntese, que o Tribunal Local, ao negar provimento ao agravo de instrumento, determinando o pagamento da verba denominada "complementação da aposentadoria", viola o princípio da contribuição previdenciária, o qual veda a imposição exclusiva do ônus da previdência social a apenas uma das partes da relação jurídica, em patente violação aos arts. 40 e 195, §5º da Carta Maior.
+O recurso especial foi inadmitido sob o fundamento de que a alegação de negativa da prestação jurisdicional afigura-se desprovida de razoabilidade, haja vista que a turma julgadora decidiu as questões que lhe foram trazidas (..).
+O Ministério Público Federal opinou pelo não conhecimento do recurso, nos termos do parecer de fls. 323-325.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Sobre a alegada violação do art. 1.022 do CPC/2015 (art 535 do CPC/1973 ), por suposta omissão pelo Tribunal de origem, tenho que não assiste razão ao recorrente.
+Na hipótese dos autos verifica-se a inexistência da mácula apontada, tendo em vista que da análise do referido questionamento em confronto com o acórdão hostilizado não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1498690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/03/2017, DJe 20/03/2017)
+
+Ressalto, ainda, que esta Corte Superior considera que não cabe ao STJ, em Recurso Especial, examinar omissão concernente a dispositivos constitucionais, a pretexto de violação ao art. 535 do CPC/1973, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do Recurso Extraordinário. Precedente: AgRg no AREsp 483.083/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7/4/2015 (AgInt no AREsp 912.838/BA, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/2/2017, DJe 3/3/2017).
+No mesmo sentido, o parecer do d. Ministério Público Federal (fl. 323), verbis:
+Recurso especial com agravo. Antecipação de tutela. Complementação de aposentadoria de servidora municipal. Não fosse o óbice da Súmula 735 do STF, por analogia, não cabe ao STJ examinar eventuais omissões relativas à violação de normas constitucionais, em recurso especial: a verificação da omissão, nessas hipóteses, depende da interpretação de norma constitucional.
+Logo, ausente o pressuposto da intervenção do STJ, nos termos do art. 105, III, da CR.
+Parecer pelo não conhecimento do recurso especial.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
