@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará.
+Consta dos autos que o paciente foi condenado à pena de 50 anos de reclusão, em regime inicial fechado, e ao pagamento de 250 dias-multa, pela prática dos delitos tipificados nos arts. 157, § 3º, parte final, c/c o art. 71, ambos do CP e 288, parágrafo único, do Estatuto Repressivo, c/c os arts. 8º da Lei n. 8.072/1990, 69 e 29, ambos do Código Penal.
+No édito condenatório, foi negado ao réu o direito de recorrer em liberdade.
+No presente mandamus, o impetrante pleiteia, em síntese, a expedição de alvará de soltura em favor do paciente, ao argumento de que haveria excesso de prazo para o julgamento da Apelação Criminal n. 0000392-91.2006.8.14.0061.
+Indeferida a liminar (fls. 70-71) e apresentadas as informações (fls. 75-76 e 79-84), o Ministério Público Federal opinou pela denegação da ordem (fls. 87-93).
+Decido.
+O impetrante pretende seja revogada a custódia cautelar do paciente, por alegado excesso de prazo para o julgamento da apelação criminal. Entretanto, a despeito de afirmar que o réu está encarcerado cautelarmente desde 21/2/2014, dos documentos que constam dos autos se extrai que até a data em que foi proferida a sentença condenatória, em 6/3/2015 - oportunidade na qual foi decretada sua prisão preventiva -, ele estava em liberdade provisória, in verbis:
+Nego ao réu o direito de apelar em liberdade, considerando que sua liberdade representa risco à ordem pública, uma vez que voltou a praticar novos delitos, conforme se verifica da folha de antecedentes, em que se registra diversos procedimentos em seu desfavor, quebrando o compromisso de liberdade provisória. Expeça-se mandado de prisão (fl. 35).
+O habeas corpus, ação constitucional de natureza mandamental, exige prova pré-constituída das alegações, não comportando dilação probatória.
+Constitui ônus do impetrante instruir o writ com documentação apta a evidenciar o pretenso constrangimento ilegal ao direito de locomoção, o que não ocorreu in casu e acarreta o seu não conhecimento (v.g. HC n. 208.128/ES, Rel. Ministro Jorge Mussi, 5ª T., DJe 23/8/2013 e HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013; entre outros).
+Com efeito, não há nos autos nenhum documento que comprove a data em que efetivamente foi cumprido o mandado de prisão preventiva expedido em desfavor do paciente, referente à determinação contida na sentença condenatória proferida na Ação Penal n. 0000392-91.2006.8.14.0061, circunstância que impossibilita a análise da alegada existência de excesso de prazo da referida custódia cautelar.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intime-se.
