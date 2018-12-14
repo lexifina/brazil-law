@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO. RECURSO QUE NÃO IMPUGNA TODOS OS ARGUMENTOS DO TRIBUNAL DE ORIGEM. SÚMULA 283/STF. ARGUMENTAÇÃO BASEADA NA SEARA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional da 3ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO, NOS TERMOS DO ART. 26 DA LEF. RETIFICAÇÃO DOS DÉBITOS INSCRITOS. PROSSEGUIMENTO DA EXECUÇÃO FISCAL. INÉRCIA DO CREDOR. APLICAÇÃO DOS PRINCÍPIOS DA LEF. IMPOSSIBILIDADE DE EXTINÇÃO DA AÇÃO.
+A executada apresentou "Pedidos de Revisão de Débitos", em data anterior ao ajuizamento da execução, informando o pagamento, bem como requerendo a retificação de declaração, tendo em vista a ocorrência de erro de fato.
+A Receita Federal informou acerca da análise administrativa conclusiva das alegações da executada, no sentido de que houve "recomendação de retificação dos débitos inscritos (redução do saldo devedor pela alocação dos pagamentos apresentados, com saldo remanescente a ser pago pelo contribuinte na PGFN-SP)." A despeito da informação de retificação das inscrições, foi prolatada sentença extintiva da execução fiscal, nos termos do art. 26 da LEF.
+A retificação das inscrições não implica em extinção da execução fiscal. Havendo débitos por parte da executada, o processo de execução deverá prosseguir normalmente.
+Em virtude da especialidade procedimental, aplica-se na espécie a Lei de Execuções Fiscais, cujo texto não prevê a extinção da ação em caso de inércia da credora. A circunstância ensejaria, na verdade, o mero arquivamento do feito até posterior manifestação da exequente. Por se tratar de cobrança de crédito da Fazenda Pública, resta obrigatória a observância do princípio da indisponibilidade do interesse público. Precedentes desta Turma.
+Apelação da União Federal provida, para anular o decreto de extinção da execução fiscal e determinar o prosseguimento da demanda. Prejudicado o recurso de apelação da executada.
+Os aclaratórios foram rejeitados.
+No recurso especial, interposto com fundamento no artigo 105, inciso III, "a" da Constituição Federal, o recorrente alega violação aos arts: 40 da LEF e 267, III do CPC. Sustenta que, nos casos de inércia da Fazenda Pública, é cabível a extinção do feito e não o arquivamento.
+O recurso foi inadmitido pela decisão às fls. 347/348, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ficou encampado no acórdão o seguinte entendimento:
+(..) Assim sendo, a retificação das inscrições não implica em extinção da execução fiscal, sendo certo que, havendo débitos por parte da executada (caso dos autos), o processo de execução deverá prosseguir normalmente.
+Outrossim, em virtude da especialidade procedimental, aplica-se na espécie a Lei de Execuções Fiscais, cuja texto não prevê a extinção da ação em caso de inércia da credora. A circunstância ensejaria, na verdade, o mero arquivamento do feito até posterior manifestação da exequente.
+Verifica-se que o Tribunal embasou seu entendimento em dois pilares: o primeiro é o fato de que a mera retificação das inscrições não geraria a extinção do processo; o segundo é o fato de que a inércia da credora, no caso da Fazenda Pública, tendo em vista o princípio da indisponibilidade do interesse público, ensejaria o arquivamento do feito e não sua extinção.
+Já o recorrente, em suas razões recursais, afirma que houve inércia da recorrida e caberia, portanto, a extinção da demanda. Porém, silente ficou em relação ao primeiro argumento do Tribunal, o que traz à baila a Súmula 283/STF. Além disso, para se verificar se houve ou não a inércia da recorria, seria necessário que o STJ adentrasse na seara fático-probatória dos autos, o que é vedado pela Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
