@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 114):
+EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. ANTERIOR AJUIZAMENTO DE EXECUÇÃO COLETIVA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. APELAÇÃO PROVIDA.
+1 - A execução coletiva ajuizada nos autos de registro 97.0006625-8 foi inadmitida, em decisão publicada em 29/07/2011. A presente execução individual foi ajuizada em 13/11/2012.
+2 - Conforme se orienta a jurisprudência pátria, o ajuizamento da execução coletiva interrompe o prazo prescricional, que volta a fluir após o último ato processual da mesma. Precedentes do STJ: AgRg no REsp 1171604/RS, Rei. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/05/2015, DJe 19/05/2015; AgRg no REsp 1175018/RS, Rei. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/06/2014, DJe 01/07/2014; AgRg no REsp 1199601/AP, Rei. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 04/02/2014; AgRg no REsp 1267246/RS, Rei. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/10/2013, DJe 18/11/2013.
+3 - Irrelevante para o prazo prescricional o fato de que o próprio acórdão do Tribunal (19975101006625-9), que julgou a apelação da UNIÃO e a remessa necessária, tenha, na sua fundamentação, exposto que o ajuizamento das execuções deveria ser feito no forma individualizada.
+4 - Tal ponto do acórdão não fez coisa julgada, mesmo porque a questão relacionada à forma da execução, coletiva ou individual, não fez parte do objeto da ação coletiva. O fato de constar da fundamentação do acórdão produzido na ação coletiva, uma diretiva para a forma de execução, não tem o condão de afastar a interrupção da prescrição, ocorrente pelo ajuizamento da execução coletiva, tendo em vista o disposto no artigo 219 do CPC e a jurisprudência do Superior Tribunal de Justiça sobre a questão.
+5 - Interrompido o lapso prescricional pelo ajuizamento da execução coletiva, voltando o prazo a fluir a partir do último ato processual, inocorreu a prescrição da pretensão executória.
+6 - Apelação provida.
+Embargos de declaração rejeitados (e-STJ fls. 123/132).
+Nas suas razões, a parte recorrente aponta violação do art. 535, II do CPC/1973 e do Decreto n. 20.910/1932. Sustenta, além da omissão, a ocorrência da prescrição quinquenal.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 149/150.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, em relação ao art. 535 do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Relatora Ministra DIVA MALERBI  Desembargadora Convocada TRF da 3ª Região  , Segunda Turma, julgado em 07/04/2016, Dje 15/04/2016).
+Da mesma forma, quanto ao Decreto n. 20910/1932, verifica-se a ausência de demonstração precisa de como a violação da legislação indicada teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a incidência da orientação contida na Súmula 284 do Colendo Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia" .
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..) 4. Agravo regimental a que se nega provimento. (AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA, TURMA, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido. (AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 07/03/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
