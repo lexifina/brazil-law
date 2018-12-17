@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de AURI OLIVEIRA DA ROSA contra acórdão do Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o paciente foi condenado em primeira instância pela prática do crime previsto no art. 337-A do Código Penal, na forma do art. 71, do mesmo diploma.
+Irresignados, defesa e Ministério Público interpuseram apelação perante o Tribunal de origem, o qual deu provimento ao recurso da acusação nos termos da seguinte ementa:
+"PROCESSO PENAL. SONEGAÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. ELEMENTOS DO DELITO CARACTERIZADOS. INEXIGIBIDADE DE CONDUTA DIVERSA. INVIABILIDADE. DOSIMETRIA. CONSEQUÊNCIAS DO DELITO. EXASPERAÇÃO. RESTRITIVA DE DIREITOS. MANUTENÇÃO. HONORÁRIOS.
+1. Face à demonstração inequívoca da materialidade e autoria delitivas por parte dos administradores da empresa, quanto ao delito insculpido no art. 337-A do CP, mostra-se de rigor a manutenção do édito condenatório. 2. Considerando que o tipo penal que se consuma através da utilização de meios fraudulentos para suprimir ou reduzir contribuição social/tributos (art. 337-A e art. 1º da Lei nº 8.137/90), os acusados não fazem jus à indigitada exculpante da culpabilidade. 3. Esta Corte tem manifestado o entendimento de que se justifica a elevação da pena-base quando o valor sonegado suplantar R$100.000,00 (cem mil reais), o que mostra consonância com a hipótese. 4. É possível ao Juízo da Execução adequar as condições de adimplemento à realidade financeira do acusado, autorizando, inclusive, o parcelamento do valor devido, como permite o artigo 50 do Código Penal, aplicado à situação por analogia. 5. Majoram-se os honorários advocatícios ao máximo, tendo em conta que a procuradora permanec e exercendo a defesa do acusado nesta instância, nos termos da Resolução nº 558/07, de 22/05/2007 (fl. 741).
+No presente writ, sustenta a prescrição da pretensão punitiva estatal, na modalidade retroativa, contada pela pena em concreto da data do fato até o recebimento da denúncia, sem a aplicação da lei n. 12.234/10, por ser posterior a conduta e prejudicial ao réu.
+Requer, assim a concessão da ordem para declarar extinta a punibilidade do paciente.
+O Ministério Público Federal se manifestou pelo não conhecimento da impetração, conforme parecer de fls. 926/928.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Relata o impetrante que entre a data dos fatos, ano de 2004 e o recebimento da denúncia, 17/8/2012, se passaram mais de 8 anos.
+Inicialmente cumpre destacar que os fatos pelos quais o paciente foi condenado perduraram até dezembro de 2007, sendo a constituição definitiva do crédito tributário efetivada no dia 24/12/2008, conforme se depreende da sentença (fl. 584), sendo esse o marco inicial da prescrição.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 337-A, I, DO CP. PRESCRIÇÃO RETROATIVA. TERMO INICIAL. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. FATO POSTERIOR À LEI 12.234/2010. CONTAGEM DO PRAZO. DATA ANTERIOR À DENÚNCIA. IMPOSSIBILIDADE. TRANSCURSO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O delito de sonegação de contribuição previdenciária, por se tratar de crime material, somente se consuma após a constituição definitiva do crédito tributário mediante o esgotamento da via administrativa.
+2. Consumado o crime na vigência da Lei 12.234/2010, incabível o reconhecimento da prescrição retroativa tendo por termo inicial data anterior à da denúncia.
+3. Não decorrido o lapso prescricional entre os marcos interruptivos, não se opera a prescrição da pretensão punitiva.
+4. Embargos de declaração rejeitados (EDcl no AgInt no REsp 1569916/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 29/06/2018).
+Desse modo, inviável o reconhecimento da extinção da punibilidade, uma vez que, mesmo que não aplicada a Lei n. 12.234/10, entre a constituição definitiva do crédito tributário e o recebimento da denúncia, não transcorreu o prazo de 8 anos previsto no art. 109, inciso IV, do Código Penal.
+Ademais, como bem destacado pelo Ministério Público Federal, "o Tribunal a quo destacou que o prazo de prescrição ficara suspenso de 09/08/2010 a 09/12/2011 (ainda na fase de inquérito policial) ante adesão a programa de parcelamento de dívidas tributárias"(fl. 927).
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34,inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
