@@ -1,0 +1,87 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PENSÃO POR MORTE. ENTEADO MAIOR INVÁLIDO. PORTADOR DE ESQUIZOFRENIA RESIDUAL. DEPENDÊNCIA ECONÔMICA NÃO COMPROVADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação Ordinária proposta por [NOME], ora recorrente, contra a União, ora recorrida, objetivando a reversão da pensão na condição de enteado inválido, tendo em vista o falecimento de sua genitora, [NOME], viúva e pensionista de [NOME], instituidor da pensão e ex-servidor do DNIT.
+2. O Tribunal de origem foi categórico em afirmar: "A perícia judicial diagnosticou ser o autor portador de esquizofrenia residual (CID 295.6), e incapaz de exercer quaisquer atividades laborais desde 1978, quando tinha 25 anos, ou seja, a doença é preexistente ao óbito do padrasto. Por outro lado, o autor foi casado por 15 anos, de agosto/1984 a dezembro/1999 com [NOME], sua curadora desde 2/8/1989, e recebe benefício previdenciário de 1 salário-mínimo. O art. 217, II, "a", da Lei 8.112/90 presume a dependência econômica, mas as circunstâncias fáticas atestam o contrário." (fls. 266-267, e-STJ).
+3. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN(Relator): Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fl. 273, e-STJ):
+DIREITO ADMINISTRATIVO. APELAÇÃO E REMESSA NECESSÁRIA. CPC/1973. SERVIDOR PÚBLICO CIVIL. ENTEADO MAIOR INVÁLIDO. DEPENDÊNCIA ECONÔMICA. NÃO COMPROVADA. PRESUNÇÃO RELATIVA. CASAMENTO.
+1. A sentença condenou a União a reverter a pensão por morte, a ser implementada em 30 dias, ao autor, 63 anos, ex-compositor e gráfico, divorciado, portador de esquizofrenia residual, do padrasto, agente de serviços de engenharia vinculado ao Ministério dos Transportes, falecido em 31/3/1991, a partir do óbito da mãe, viúva do instituidor do benefício, com correção monetária e juros de mora pelo Manual de Cálculos da JF.
+2. A concessão de benefícios previdenciários rege-se pela lei vigente ao tempo do óbito do instituidor, em 31/3/1991, Lei nº 8.112/90, art. 217, II, "a", que prevê a concessão do benefício ao filho maior inválido. A despeito de a perícia judicial concluir que a doença incapacitante é preexistente ao óbito do padrasto, o autor foi casado por 15 anos, de agosto/1984 a dezembro/1999, o que afasta a presunção legal relativa de dependência econômica.
+3. É relativa a presunção legal de dependência dos beneficiários, exceto cônjuges e companheiros. Os fatos apontam o rompimento de tal vínculo com o padrasto, a partir do casamento, e só mediante prova eficaz, indicativa de efetiva relação de dependência, aqui não produzida, poder-se-ia concluir pelo direito ao pensionamento. Precedentes.
+4. Apelação e remessa necessária providas, para negar a reversão da pensão por morte ao autor, invertendo os ônus sucumbenciais, suspendendo, contudo, a sua exigibilidade durante o qüinqüênio do art. 12 da Lei nº 1.060/50 (art. 98, §3º, do CPC/2015), salvo demonstração, nesse prazo, de mudança na insuficiência de recursos que justificou a concessão da gratuidade de justiça.
+Os Embargos de Declaração foram rejeitados (fls. 288-295, e-STJ).
+A parte recorrente alega violação do art. 217, II, "a", da Lei 8.112/1990, bem como do disposto no art. 374 do CPC.
+Sustenta, em suma: a) que o único requisito legal previsto no art. 217, II, "a", da Lei 8.122/1990 para concessão da pensão ao enteado inválido é a "invalidez preexistente" ao óbito do servidor, não sendo exigível a comprovação de dependência enconômica, cuja presunção é legal e absoluta.
+Contrarrazões às fls. 441-454, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN(Relator): Os autos foram recebidos neste Gabinete em 1º.2.2018.
+A irresignação não merece prosperar.
+Na hipótese dos autos, trata-se de Ação Ordinária ajuizada por Walter de Souza, divorciado, portador de esquizofrenia residual, o qual pleiteia a reversão de pensão, com valores atualizados pelo Manual de Cálculos da Justiça Federal, tendo em vista o falecimento de sua mãe, a Sra [NOME], pensionista e viúva do Sr. [NOME], instituidor da pensão, o qual exercia o cargo de agente de serviços de engenharia vinculado ao Ministério dos Transportes, cujo falecimento ocorreu em 31/3/1991.
+O Tribunal de origem, ao decidir a quaestio, consignou:
+Falecido o padrasto , [NOME]. agente de serviços de engenharia vinculado ao Ministério dos Transportes, em 31/3/1991 , aos 56 anos, o diploma legal regulador da pensão por morte é a Lei nº 8.112/90, art. 217º, II, "a", que prevê:
+Art. 217. São beneficiários das pensões: II - temporária:
+a) os filhos, ou enteados, até 21 (vinte e um) anos de idade, ou, se inválidos, enquanto durar a invalidez;
+Para fins de previdência estatutária, a invalidez que gera pensionamento depende da comprovação da incapacidade laborativa absoluta, preexistente ao óbito do instituidor. Nesse sentido já decidiu esta Turma:
+ ..  Comprovado que a invalidez é preexistente ao óbito é correta a sentença que concede à filha maior o direito à pensão por morte relativa ao falecimento de seu pai. No caso, a autora é interditada, e foi comprovado que ela já era inválida antes do óbito do genitor. Perícia incisiva e prova clara, tanto que a própria União Federal não apela.f..  (TRF2, REO 2009.51.01.025312-0, 6a T. Esp., Rei. Des. Fed. [NOME], julg. 8/7/2013)
+A perícia judicial diagnosticou ser o autor portador de esquizofrenia residual (CID 295.6), e incapaz de exercer quaisquer atividades laborais desde 1978, quando tinha 25 anos, ou seja, a doença é preexistente ao óbito do padrasto.
+QUESITOS DA PARTE AUTORA:
+a) O autor é portador de doença mental incapacitante
+Resp.: Sim
+b) Desde quando o autor sofre de tal doença mental incapacitante
+Resp.: Desde 1978, conforme internação psiquiátrica ocorrida no mesmo ano.
+e) Na data de falecimento do ex-servidor [NOME] [NOME] (31/03/1991) o autor já era inválido
+Resp.: Sim.
+Por outro lado, o autor foi casado por 15 anos, de agosto/1984 a dezembro/1999 com [NOME], sua curadora desde 2/8/1989 , e recebe beneficio previdenciário de 1 salário-mínimo.
+O art. 217, II, "a", da Lei nº 8.112/90 presume a dependência econômica, mas as circunstâncias fáticas atestam o contrário.
+Primeiro porque o casamento rompe os vínculos de dependência ao poder familiar, subsistindo apenas a obrigação de prestar alimentos com base no parentesco, nos termos do art. 1.696 do C.Civ. Nesse sentido já decidiu está Turma:
+ ..  1. A sentença negou a concessão da cota-parte da pensão por morte estatutária à autora, 65 anos, na condição de filha maior e viúva, equiparada à filha solteira do auditor fiscal da Receita Federal, falecido, em 15/12/1971, fundado na perda de estado de solteira da autora ao se casar em 1975.
+2. A teor do parágrafo único do art. 5o da Lei nº 3.373/1958, "a filha solteira, maior de 21 (vinte e um) anos, só perderá a pensão temporária quando ocupante de cargo público permanente", mas a apelante, viúva, já com 22 anos à época do falecimento do pai, nunca recebeu o beneficio temporário que não quer perder.
+3. Fosse pouco, o casamento rompe os vínculos de dependência ao poder familiar, subsistindo apenas a obrigação de prestar alimentos com base no parentesco, nos termos do art. 1.696 do C.Civ. 10. No caso, ainda que solteira à época do falecimento do pai, a apelante casou-se em 1975 e ficou viúva em 1994, descaracterizando a sua condição de dependência econômica em relação ao ex-servidor. Precedente deste Tribunal.
+4. Apelação desprovida.
+(..)
+Na hipótese sob julgamento, não há razão plausível para presumir-se, de forma absoluta, a dependência econômica do enteado inválido, casado à época do falecimento do padrasto, e que exercia a profissão de compositor e gráficoL .
+No caso dos autos, muito embora o falecimento do instituidor da pensão tenha ocorrido em 31/3/1991 e a condição de invalidez do recorrente, em razão de doença mental, tenha sido detectada em 1978, ou seja, em período preexistente ao óbito do padrasto, a dependência econômica do enteado inválido não se configura devido a seu casamento, bem como em virtude do exercício de sua profissão de compositor e gráfico, o que descaracteriza a existência de dependência econômica e inviabiliza a percepção do benefício pleiteado.
+A propósito, impõe-se a transcrição de trecho do v. Acórdão recorrido:
+Pediu em 12/4/2012 , após a morte da mãe e curadora, a reversão da pensão na condição de enteado inválido, negada pela Administração em 30/7/2013 , à falta de comprovação da invalidez antes do óbito do ex-servidor, mas o Juízo a quo julgou procedente o pedido, com estes principais fundamentos:
+
+Neste caso, o instituidor da pensão é o Sr. [NOME] [NOME], padrasto do autor, falecido em 31 dc março de 1991 (fl. 18) na condição dc servidor aposentado.
+O direito ao benefício de pensão por morte a cargo da União está regulado no art. 215 e seguintes da Lei nº 8.112/90 que, à época do falecimento do de cujus possuía a seguinte redação quanto ao rol de dependentes: "Art. 217. São beneficiários das pensões: II - temporária:
+a) os filhos, ou enteados, até 21 (vinte e um) anos de idade, ou, se inválidos, enquanto durar a invalidez; (destaquei).
+No caso em concreto, o autor, nascido em 16 de setembro de 1953, tornou-se enteado de [NOME] [NOME] quando este se casou com sua mãe, MARIA [NOME] [NOME] [NOME] (fl. 127).
+Com o falecimento de MARIA [NOME], o autor apresentou requerimento de pensão pela morte de [NOME] alegando invalidez adquirida por patologia psiquiátrica anterior ao óbito daquele.
+Determinada nos autos do processo administrativo a realização de perícia, foi reconhecida a deficiência, sendo fixado seu início em 13/08/2004, conforme fl. 163. Ou seja, em data posterior ao óbito do instituidor, o que acarretou indeferimento do benefício. Sucede que na perícia designada na fase judicial, o Laudo Medico dc fls. 200/202 apontou início da doença ocorrido no ano de 1978, levando-se em consideração internação hospitalar para tratamento psiquiátrico.
+Demais elementos constantes dos autos reforçam a constatação médica pericial de que a invalidez foi adquirida em momento anterior ao óbito, tais como: a) concessão de aposentadoria por invalidez ao autor pelo Regime Geral de Previdência Social; b) propositura dc ação dc interdição cm abril dc 1989 visando à declaração de incapacidade civil do autor (fl. 30); c) curatela provisória deferida cm momento anterior ao óbito (fl. 32); d) declaração de hospital psiquiátrico atestando diversas internações do autor em momento anterior ao óbito (fl. 40).
+Disso se extrai com segurança que o autor já se encontrava acometido por invalidez na data do óbito do ex-servidor, conclusão esta que contraria o resultado da Junta Médica realizada a pedido do Ministério dos Transportes, a qual não contou com fundamentação idônea, à vista do sintético Laudo produzido (fl. 163).
+Com efeito, considerando a presunção legal dc dependência econômica do instituidor em relação ao autor, deve ser reconhecido o direito à percepção do benefício desde a data do falecimento da beneficiária anterior, MARIA [NOME] [NOME] [NOME], ocorrido em 03/02/2012.
+
+Por outro lado, o autor foi casado por 15 anos, de agosto/1984 a dezembro/1999" com [NOME], sua curadora desde 2/8/1989 , e recebe benefício previdenciário de 1 salário-mínimo.
+O art. 217, II, "a", da Lei nº 8.112/90 presume a dependência econômica, mas as circunstâncias fáticas atestam o contrário.
+Primeiro porque o casamento rompe os vínculos de dependência ao poder familiar, subsistindo apenas a obrigação de prestar alimentos com base no parentesco, nos termos do art. 1.696 do C. Civil.
+(..)
+Na hipótese sob julgamento, não há razão plausível para presumir-se, de forma absoluta, a dependência econômica do enteado inválido, casado à época do falecimento do padrasto, e que exercia a profissão de compositor e gráficoL . (fls. 267 e 269, e-STJ).-
+Desse modo, evidencia-se que o Tribunal de origem proferiu seu posicionamento mediante análise de documentos e provas contidos nos autos.
+Outrossim, para chegar a conclusão diversa do Tribunal de origem, acolhendo os argumentos da parte recorrente, seria imprescindível reexaminar os fatos da presente causa, o que é insuscetível de ser realizado, na via estreita do Recurso Especial, ante o óbice da Súmula 7 ("A pretensão de simples reexame de prova não enseja recurso especial") do STJ.
+No mesmo sentido:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. MILITAR. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. PORTADOR DE TRANSTORNO MENTAL. DATA DO INÍCIO DA INCAPACIDADE. DATA DO ÓBITO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação Ordinária proposta por [NOME], ora recorrente, contra a União, ora recorrida, objetivando a concessão de uma pensão por morte para filho maior inválido, pelo falecimento do genitor do autor, ex-combatente da Força Expedicionária Brasileira - FEB.
+2. O Juiz de 1º Grau julgou improcedente o pedido.
+3. O parecer do Parquet Federal exarado pelo Subprocurador-Geral da República Dr. [NOME], bem analisou a questão: "Outrossim, conforme bem assentado na decisão agravada, as instâncias ordinárias negaram o benefício pleiteado com base no acervo fático probatório dos autos, de modo que a pretensão recursal demanda por inevitável reexame de fatos e provas, o que é vedado em sede de recurso especial nos termos da súmula nº 7 do STJ." (fls. 547-554, grifo acrescentado).
+4. O Tribunal de origem foi categórico em afirmar que embora "constem documentos nos autos dando conta que o demandante foi interditado judicialmente em 22-03-2005 (evento 1 - anexos da petição 5), inexiste comprovação acerca de invalidez preexistente ao óbito do instituidor do benefício vindicado. Portanto, tenho que não há provas cabais acerca da invalidez da parte autora na época do óbito do instituidor da pensão, e não somente eventual preexistência da enfermidade. (grifos no original)." (fls. 527-528, grifo acrescentado).
+5. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+6. No mais, constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+7. Por fim, não fez o recorrente o devido cotejo analítico, e assim não demonstrou as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. 8. Agravo Regimental não provido"
+(STJ, AgRg no REsp 1.545.651/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 31/05/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EX-COMBATENTE DA MARINHA MERCANTE. PENSÃO POR MORTE. REVERSÃO. FILHO MAIOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ACÓRDÃO RECORRIDO QUE ENTENDE PELA NÃO COMPROVAÇÃO DA INVALIDEZ NO PERÍODO QUE ANTECEDE O ÓBITO DO INSTITUIDOR. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. INOCORRÊNCIA DE VALORAÇÃO DE PROVAS. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. É firme o entendimento no âmbito do Superior Tribunal de Justiça no sentido de que, em se tratando de filho inválido, independentemente de sua idade ou estado civil ou da comprovação da dependência econômica, será considerado dependente de ex-combatente, para fins do art. 5º, III, da Lei 8.059/1990, quando a doença incapacitante for preexistente à morte do instituidor do benefício. Precedentes
+3. Tendo o Tribunal de origem entendido que "não há nenhum dado concreto de que a parte autora estava acometida de esquizofrenia paranóide (CID- 10 = F-20.0) desde ano de 1982, portanto não há como concluir que a invalidez tenha sido anterior ao anterior ao óbito do instituidor. Sequer há elementos capazes de assegurar que a doença se iniciou antes de 2007", rever tal entendimento, a fim de reconhecer que a invalidez do recorrente é anterior ao óbito do de cujus, demanda o necessário reexame do conjunto fático-probatório, o que é vedado na via estreita do recurso especial, por força do óbice da Súmula 7/STJ. Precedentes.
+(..)
+6. Agravo regimental não provido.
+(AgRg no REsp 1523390/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 10/06/2015).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
