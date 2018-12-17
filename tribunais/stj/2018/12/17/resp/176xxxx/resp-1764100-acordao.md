@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. INADEQUAÇÃO DO RECURSO ESPECIAL.
+1. A tese sustentada pela recorrente é de que é nula a cobrança de IPTU pela alíquota de 3,5%, uma vez que o ente municipal não teria obedecido ao regime jurídico do terreno não edificado, estabelecido pelo art. 182, § 4º, da CR/1988 e pelos arts. 5º e 7º da Lei 10.257/2001 (estes últimos exigiriam, como requisito para cobrança do IPTU progressivo, a prévia notificação do proprietário para dar função social à propriedade).
+2. O Tribunal de origem denegou a Segurança, por entender que a reforma da sentença exigiria a declaração, de forma incidental, da inconstitucionalidade do inciso VI, do artigo 140, do Código Tributário do Município de Campo Grande, na redação conferida pela Lei Complementar Municipal 78/2005.
+3. Com base em julgamento anterior, o órgão fracionário consignou já ter sido rechaçada a tese de inconstitucionalidade da norma local. Asseverou que a instituição de alíquotas diferenciadas não se refere à progressividade em função da subutilização de solo urbano (prevista no art. 182 da CF/1988 e regulamentada pela Lei 10.257/2001), mas sim teve por fundamento a Emenda Constitucional 29/2000, que possibilitou aos entes municipais a cobrança de IPTU com alíquotas diferenciadas ou proporcionais, em consonância com o valor, localização e uso do imóvel (fls. 274-275, e-STJ).
+4. A solução da lide, como se infere, se deu mediante exegese de legislação local e de sua compatibilidade com a Constituição Federal de 1988, o que implica a inadequação do Recurso Especial como instrumento para ensejar a reforma do acórdão hostilizado.
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - IMÓVEL NÃO EDIFICADO EM PERÍMETRO URBANO APARELHADO DE MELHORAMENTO E SERVIÇOS PÚBLICOS - INEXISTÊNCIA DE INCONSTITUCIONALIDADE NO INCISO VI, DO ART. 148, DO CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE CAMPO GRANDE, QUE AUTORIZA A COBRANÇA DO IPTU, COM APLICAÇÃO DA ALÍQUOTA DE 3,5% SOBRE O VALOR VENAL DO IMÓVEL NÃO EDIFICADO - APLICAÇÃO DE ALÍQUOTAS DIFERENCIADAS AUTORIZADA PELO § 1º DO ARTIGO 156 DA CONSTITUIÇÃO FEDERAL - RECURSO AO QUAL SE NEGA PROVIMENTO.
+A recorrente alega violação dos arts. 5º e 7º da Lei 10.257/2001.
+Não foram apresentadas as contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 4 de setembro de 2018.
+O recurso não ultrapassa o juízo de admissibilidade.
+A tese sustentada pela recorrente é de que é nula a cobrança de IPTU pela alíquota de 3,5%, uma vez que o ente municipal não teria obedecido ao regime jurídico do terreno não edificado, estabelecido pelo art. 182, § 4º, da CR/1988 e pelos arts. 5º e 7º da Lei 10.257/2001 (estes últimos exigiriam, como requisito para cobrança do IPTU progressivo, a prévia notificação do proprietário para dar função social à propriedade).
+O Tribunal de origem denegou a Segurança, por entender que a reforma da sentença exigiria a declaração, de forma incidental, da inconstitucionalidade do inciso VI, do artigo 140, do Código Tributário do Município de Campo Grande, na redação conferida pela Lei Complementar Municipal 78/2005. Com base em julgamento anterior, o órgão fracionário consignou já ter sido rechaçada a tese de inconstitucionalidade da norma local. Afirmou que a instituição de alíquotas diferenciadas não se refere à progressividade em função da subutilização de solo urbano (prevista no art. 182 da CF/1988 e regulamentada pela Lei 10.257/2001), mas sim teve por fundamento a Emenda Constitucional 29/2000, que possibilitou aos entes municipais a cobrança de IPTU com alíquotas diferenciadas ou proporcionais, em consonância com o valor, localização e uso do imóvel (fls. 274-275, e-STJ).
+Como se vê, a solução da lide se deu mediante exegese de legislação local e de sua compatibilidade com a Constituição Federal de 1988, o que implica a inadequação do Recurso Especial como instrumento para ensejar a reforma do acórdão hostilizado.
+Com essas considerações, não conheço do Recurso Especial.
+Deixo de aplicar a majoração prevista no art. 85, § 11, do CPC, tendo em vista tratar-se de Mandado de Segurança, no qual inexistem honorários advocatícios.
+É como voto.
