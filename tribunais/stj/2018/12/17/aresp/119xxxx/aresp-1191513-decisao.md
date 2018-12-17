@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. AUSENTE COMPROVAÇÃO DO PAGAMENTO. ALEGADA VIOLAÇÃO AO ARTIGO 940 DO CÓDIGO CIVIL. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 356/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos e etc,
+Trata-se de agravo em recurso especial interposto por FABIANO REVERS ADAMCZUK em face de decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, manejado contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. CONTRATO DE COMPRA E VENDA COM RESERVA DE DOMÍNIO. AUSENTE COMPROVAÇÃO DO PAGAMENTO. INEXISTÊNCIA DO DIREITO DE REGRESSO.
+Tendo em vista que a demandada comprovou que quitou a dívida e ante a completa ausência de provas do pagamento pelo demandante, não há como reconhecer seu direito de regresso.
+Sentença mantida na íntegra.
+NEGARAM PROVIMENTO AO APELO (e-STJ fl. 134).
+Nas razões do recurso especial a parte recorrente alega violação do artigo 940 do Código Civil. Sustenta, em síntese, que "(..) a hipótese dos autos não se amolda à espécie legal do art. 940 do CC, pois se trata de ação regressiva e não de ação de cobrança por dívida já paga no todo ou em parte. A relação havida entre as parte foi uma relação de fiança e não uma relação de credor e devedor" (e-STJ fl. 144).
+Contrarrazões apresentadas (fls. 169-177 e-STJ).
+Sobreveio o juízo de admissibilidade, fls. 179-184 e-STJ, que negou seguimento ao recurso especial, o que ensejou a interposição do presente agravo.
+Nas razões do agravo, ás fls. 186-195 e-STJ, a agravante infirma devidamente os fundamentos de inadmissão do recurso especial.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Com efeito, consoante se depreende da leitura dos autos, no que se refere à suposta violação do artigo 940 do Código Civil, constata-se que tal dispositivo não foi objeto de debate pelo Tribunal de origem. É como se verifica do acórdão objurgado:
+A demanda versa sobre alegado direito regressivo do autor em face da demandada, visto que este afirma ter quitado o contrato de compra e venda com reserva de domínio de uma plantadeira [NOME] 1600, firmado pelo falecido marido da ré, devedor principal no pacto onde o autor figurou como devedor solidário.
+Ocorre que a tese do autor restou totalmente afastada quando a demandada juntou aos autos os documentos das fls. 27-30, os quais comprovam que todos os pagamentos referentes ao contrato foram pagos pelo devedor principal e sua esposa.
+Os referidos documentos são contestados pelo apelante em sede recursal, no entanto, conforme se verifica do constante nos autos, no primeiro momento em que veio aos autos, após ter vista destes, o demandante deixou de impugná-los. Além disso, o autor não trouxe aos autos nenhum documento que colocasse em dúvida a veracidade dos recibos apresentados pela demandada, o que, diga-se, faria a prova do alegado pagamento da dívida.
+Assim, ausente qualquer indício de nulidade dos recibos apresentados e diante da ausência de comprovação das alegações iniciais, não há como acolher a tese do apelante, devendo ser mantida a sentença na sua integralidade.
+Por derradeiro, apenas por apego à fundamentação, esclareço que a única forma de vingar a tese de dúvida sobre a veracidade dos recibos constantes nos autos, seria o apelante ter comprovado os pagamentos que alega ter feito. Meras alegações sobre a constituição do seu direito, não tem o condão de enfraquecer a prova documental trazida aos autos (e-STJ fl. 136).
+Dessa forma, as teses trazidas pela parte recorrente, a respeito da presente ação se tratar de ação regressiva e não de ação de cobrança de dívida já paga, não foi debatida pelo acórdão recorrido, carecendo, portanto, do necessário prequestionamento. Ademais, sequer foram opostos embargos de declaração a fim de provocar a Corte local a se posicionar a respeito do dispositivo tido por violado. Por conseguinte, a mencionada contrariedade não pode ser analisada por esta Corte, uma vez que não houve emissão de juízo pelo Tribunal de origem acerca da matéria do dispositivo indicado.
+Nessa hipótese, sob pena de ser frustrada a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância, há que incidir, por analogia, o enunciado das Súmulas 282/STF e 356/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. SUPLEMENTAÇÃO DE PENSÃO POR MORTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONDIÇÕES DE BENEFICIÁRIA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356 do STF.
+2. O entendimento jurisprudencial desta Corte é de que têm-se como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, hipótese inexistente no caso.
+3. O recurso especial é inviável, por aplicação do enunciado n. 7 da Súmula do STJ, quando as alegações em que se funda a pretensão recursal colidem com os pressupostos fáticos assentados no acórdão recorrido. Precedentes.
+4. O dissídio jurisprudencial deve ser comprovado mediante o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 959.645/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 02/02/2017 - grifei)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A ausência de correta especificação, clara e objetiva, sobre a alegada violação dos dispositivos tidos por violados, bem como a falta de arrazoado jurídico impugnativo congruente com os fundamentos do acórdão que embasam o especial, caracterizam argumentação deficiente a impossibilitar a compreensão exata da controvérsia, atraindo a incidência da Súmula 284/STF.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+3. O Tribunal de origem consigna a inexistência de concorrência desleal na espécie, tampouco a comprovação da titularidade da patente questionada; sem falar que os produtos comercializados pelas partes são de gêneros diferentes. A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte. 4. Agravo interno não provido. (AgInt nos EDcl no AREsp 758.156/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2016, DJe 02/02/2017 - grifei)
+ Destarte, em virtude da ausência de prequestionamento o desprovimento do recurso é medida que se impõe.
+Por fim, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, arbitro os honorários advocatícios recursais em 5% (cinco por cento) sobre o valor da condenação, a serem suportados exclusivamente pela parte recorrente, em acréscimo àqueles da sucumbência do caso, ressalvada a concessão do benefício da gratuidade da justiça.
+Ante o exposto, conheço do agravo em recurso especial para não conhecer do recurso especial.
+Intimem-se.
