@@ -1,0 +1,22 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal. Excesso de prazo. Dupla supressão de instâncias.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Antonio Saldanha Palheiro, assim ementado:
+    “PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E ESPÉCIE DA DROGA APREENDIDA.
+    1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração do que consiste o periculum libertatis.
+    2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência às circunstâncias em que efetuada a prisão do paciente, notadamente a grande quantidade de droga apreendida em seu poder (51.910g de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+    3. Ordem denegada.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 27.01.2016, surpreendido com 51,91 kg de cocaína. O Juízo da 2ª Vara Criminal da Comarca de Cárceres/MT, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Mato Grosso. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, indeferido.
+    4. Neste habeas corpus, a parte impetrante afirma que a defesa do corréu Luciano de Almeida Silva impetrou o HC 143.423 neste Supremo Tribunal Federal. Em 09.05.2017, o Relator daquela impetração, Ministro Marco Aurélio, concedeu a medida cautelar para revogar a prisão processual do corréu, estendendo os efeitos da decisão ao ora paciente. Contudo, na sessão de 13.11.2018, a Primeira Turma do STF denegou a ordem, revogando a liminar anteriormente deferida.
+    5. Nesse contexto, a defesa alega que o Juízo de origem restabeleceu a prisão preventiva do paciente, “sem nenhuma motivação, aludindo apenas a decisão proferida no Habeas perante a Suprema Corte”. Destaca que “A magistrada de piso, julgou desnecessária a fundamentação para o decreto de prisão, aludindo tão somente a revogação da liminar, olvidando-se de justificar a prisão neste instante processual”. Contudo, sustenta que “o paciente foi solto por liminar desde maio de 2017, sendo que neste período manteve sua conduta integrada a sociedade. Não há notícias de reincidência criminal, ou qualquer outro fato desabonador”. De modo que seria desnecessário o restabelecimento da custódia. Prossegue a impetração para alegar o excesso de prazo para a conclusão da instrução criminal.
+    6. Com essa argumentação, a defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    7. Em 11.12.2018, submeti os autos à Presidência do Tribunal a fim de que fosse analisada a prevenção do Ministro Marco Aurélio, Relator do HC 143.423, apontada pela parte impetrante. O Ministro Dias Toffoli afastou a prevenção, determinando a devolução dos autos ao meu gabinete.
+    Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. Verifico que as instâncias de origem fizeram expressa referência a dados objetivos da causa – quantidade da droga apreendida (51,91 kg de cocaína) – para justificar a prisão cautelar do paciente para a garantia da ordem pública, não sendo o caso, portanto, de acolhimento da pretensão defensiva, notadamente se se considerar que o Supremo Tribunal Federal tem precedentes no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel.ª Min.ª Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    10. Quanto ao mais, observo que a alegação de excesso de prazo para a conclusão da instrução criminal não foi apreciada pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame da matéria por esta Suprema Corte, sob pena de dupla supressão de instâncias.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 17 de dezembro de 2018.
+Ministro Luís Roberto Barroso
+ Relator
