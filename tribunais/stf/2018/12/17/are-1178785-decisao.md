@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DÍVIDA ATIVA NÃO TRIBUTÁRIA. NULIDADE DE CERTIDÃO DE DÍVIDA ATIVA. AGRAVO INTEMPESTIVO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - Restituição de valores TC 2598/026/04 - Exercício de 2004 Nulidade da CDA Inocorrência - Prescrição - Inocorrência - Decisão do TCE, determinando a restituição de valores proferida em 29.03.2007, com força de título executivo - Decisão de indeferimento do pedido de revisão em 07.06.2010, passando-se a contar o prazo prescricional para o ajuizamento da execução fiscal - Penhor a 'on line' - Conta corrente que recebe salário - Bem impenhorável, nos termos do art. 833, incisos IV do CPC/2015 - Recurso provido em parte, apenas para determinar o desbloqueio do numerário.” (Doc. 2, fl. 48)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao disposto nos artigos 1º, III, 5º, LIV, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o apelo encontra óbice nas Súmulas 282 e 356 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar, uma vez que intempestivo.
+    O prazo para a interposição de agravo contra decisão que inadmite recurso extraordinário é de 15 (quinze) dias úteis, conforme previsto no artigo 219 combinado com o artigo 1.003 do Código de Processo Civil de 2015.
+    A parte agravante foi intimada da decisão agravada em 3/4/2017, tendo sido iniciada a contagem do prazo recursal em 4/4/2017. Entretanto, a petição de agravo somente foi protocolada em 27/4/2017, após o transcurso do prazo recursal.
+    Ressalte-se, ainda, que o artigo 1.003, § 6º, do novo Código de Processo Civil determina que o recorrente deverá comprovar a ocorrência de feriado local no ato de interposição do recurso (grifos meus), o que não ocorreu no presente caso. Seguindo essa orientação, destaco o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6°, do Novo CPC determina que [o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.” (ARE 1.033.168-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 18/9/17)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, NÃO CONHEÇO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
