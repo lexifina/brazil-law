@@ -1,0 +1,33 @@
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. PRISÃO EM FLAGRANTE. CONVERSÃO EM PRISÃO PREVENTIVA. PRÉVIO REQUERIMENTO DA AUTORIDADE POLICIAL OU DO MINISTÉRIO PÚBLICO. DESNECESSIDADE. ART. 310, INCISO II, DO CÓDIGO DE PROCESSO PENAL. ORDEM DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WALISSON MATHEUS DOS SANTOS, contra acórdão denegatório proferido pelo Tribunal de Justiça do Estado do Maranhão (HC n.º 0805992-26.2018.8.10.0000)
+Consta nos autos que o Paciente foi preso em flagrante, no dia 04/07/2018, como incurso no 157, § 2.º, inciso II, e 2.º-A, inciso I, do Código Penal. O Juízo de origem, em audiência de custódia, converteu o flagrante em segregação cautelar (fls. 38-39).
+Irresignada, a Defesa impetrou habeas corpus na Corte estadual, cuja ordem foi denegada, nos termos da seguinte ementa (fl. 43):
+"HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONCURSO DE PESSOAS. EMPREGO DE ARMA DE FOGO. PRISÃO EM FLAGRANTE. DECRETAÇÃO DA SEGREGAÇÃO PREVENTIVA, DE OFÍCIO. VIOLAÇÃO AO DISPOSTO NO ART. 311 DO CPP. NÃO OCORRÊNCIA. PROCEDIMENTO ESCORREITO. ART. 310, II DO DIPLOMA PROCESSUAL PENAL. COAÇÃO ILEGAL NA LIBERDADE DE LOCOMOÇÃO. INEXISTÊNCIA. ORDEM DENEGADA.
+I. Constatado que o Juízo a quo, ao analisar o auto de prisão em flagrante, verificando a legalidade do referido cárcere e a inviabilidade de substituição dele por medida diversa, reconhecendo, ademais, a presença dos requisitos do art. 312 do CPP, fundamentadamente, converteu a aludida segregação em prisão preventiva - em conformidade com o disposto no inciso II do art. 310 do mesmo diploma legal -, não há falar em ilegalidade do ato impugnado.
+II. Ordem denegada."
+Nas razões desta impetração, sustenta-se, em síntese, que o Magistrado singular "decretou a prisão preventiva do paciente sem qualquer requerimento do Ministério Público ou requisição da autoridade policial" (fl. 4).
+Por essa razão, sustenta a ilegalidade da prisão preventiva, ante a ausência de requerimento do órgão acusador, pois "não pode o Magistrado fazer as vezes do Ministério Público, que é o titular da ação penal" (fl. 7).
+Pleiteia, liminarmente e no mérito, o relaxamento da prisão preventiva, tendo em vista a nulidade de sua decretação de ofício no curso do inquérito policial.
+Liminar indeferida às fls. 47-49.
+O Ministério Público Federal, em parecer da Dra. [NOME] [NOME], opinou pela prejudicialidade do writ (fls. 61-65).
+É o relatório.
+Decido.
+De início, saliento a minha compreensão de que "a sentença penal condenatória que, ao negar o direito de recorrer em liberdade, limita-se a reiterar os fundamentos utilizados anteriormente para justificar a prisão preventiva, sem agregar novos, não conduz à prejudicialidade da ação constitucional de habeas corpus" (RHC 100.648/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/09/2018, DJe 11/10/2018). Desse modo, por não ter ocorrido alteração substancial nos fundamentos da prisão preventiva, afasto a prejudicialidade do habeas corpus.
+Em todo caso, na hipótese em apreço, a impetração não impugna os fundamentos da decisão que decretou a prisão preventiva, apenas argumenta que a referida decisão foi proferida com vício procedimental, uma vez que não houve prévio pedido do Ministério Público ou representação policial pela segregação cautelar.
+Contudo, é pacífico nesta Corte Superior de Justiça que o Magistrado singular, ao analisar o auto de prisão em flagrante, poderá converter, de ofício, o flagrante em prisão preventiva, nos termos do art. 310, inciso II, do Código de Processo Penal, não havendo necessidade de prévio requerimento do Ministério Público ou da autoridade policial.
+Nesse sentido:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. DESNECESSIDADE DE PRÉVIO REQUERIMENTO DA AUTORIDADE POLICIAL OU DA ACUSAÇÃO. ART. 310, II, DO CPP. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. O Magistrado singular, mesmo sem provocação da autoridade policial ou da acusação, ao receber o auto de prisão em flagrante, poderá, quando presentes os requisitos previstos no art. 312 do Código de Processo Penal, converter a prisão em flagrante em preventiva, em cumprimento ao disposto no art. 310, II, do mesmo Código.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, pode ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nestes autos, em que o recorrente o teria cometido mediante o uso de violência contra a vítima, que foi agredida com socos.
+4. Ademais, o recorrente possui diversas outras passagens criminais, estando em execução de pena quando do cometimento do novo delito.
+5. Recurso ordinário em habeas corpus desprovido." (RHC 91.756/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/04/2018, DJe 09/04/2018, sem grifos no original.)
+"RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. PRESCINDIBILIDADE DE REQUERIMENTO DO MINISTÉRIO PÚBLICO. NÃO OCORRÊNCIA DE NULIDADE. FUNDAMENTAÇÃO DA CUSTÓDIA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. ELEMENTO IDÔNEO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER ACOLHIDO.
+1. Em se tratando de hipótese de conversão da prisão em flagrante em preventiva, nos termos do art. 310, II, do Código de Processo Penal, não há necessidade de prévia provocação/manifestação do Ministério Público, podendo o magistrado decidir de ofício, desde que presentes os requisitos do art. 312 do Código de Processo Penal. Precedentes.
+2. Inexiste constrangimento ilegal quando a prisão cautelar está devidamente amparada na garantia da ordem pública, em razão da gravidade concreta do delito, evidenciada pelo modus operandi empregado (prática de homicídio de forma premeditada, contra a própria namorada, por motivo de ciúme, tendo o agente enforcado a vítima com um cinto em um quarto de hotel).
+3. Recurso em habeas corpus improvido." (RHC 93.050/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018, sem grifos no original.)
+Portanto, não há no caso em apreço nenhum constrangimento ilegal a ser sanada pela via do habeas corpus.
+Ante o exposto, DENEGO a ordem.
+Publique-se. Intimem-se.
