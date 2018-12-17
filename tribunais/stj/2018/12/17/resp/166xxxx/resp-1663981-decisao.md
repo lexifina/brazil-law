@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 157):
+PROCESSUAL CIVIL - DECISÃO MONOCRÁTICA DO RELATOR - AGRAVO INOMINADO - DECISÃO EM CONSONÂNCIA COM O ENTENDIMENTO DOS TRIBUNAIS SUPERIORES - RECURSO IMPROVIDO
+I - É firme a jurisprudência do colendo Superior Tribunal de Justiça no sentido de que os juros de mora, por serem consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser analisados até mesmo de ofício, o que afasta a suposta violação do princípio do non reformatio in pejus.
+II - Precedentes: AARESP 201304061910, HUMBERTO MARTINS, STJ - SEGUNDA TURMA, DJE DATA:28/08/2014; AGARESP 201304200050, RICARDO VILLAS BÔAS CUEVA, STJ - TERCEIRA TURMA, DJE DATA:25/06/2014.
+III - Persistência da mesma causa de decidir expendida na Decisão agravada.
+IV - Agravo Interno improvido.
+Embargos de declaração rejeitados (e-STJ fls. 164/168).
+Nas suas razões, a parte recorrente aponta violação do art. 515 do CPC/1973. Sustenta, em síntese, que a decisão ora atacada aumentou os juros de mora em 0,5%, ao arrepio da Súmula 45 do Superior Tribunal de Justiça, implicando indevida reformatio in pejus.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fl. 177.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, na linha da pacífica jurisprudência desta Corte, a correção monetária e os juros de mora, como consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados pelas instâncias ordinárias até mesmo de ofício, o que afasta suposta violação do princípio do non reformatio in pejus. Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. ATUALIZAÇÃO MONETÁRIA DO SALDO REMANESCENTE. APLICAÇÃO DA TR. INOCORRÊNCIA DE REFORMATIO IN PEJUS. MATÉRIA DE ORDEM PÚBLICA. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+ 1. A alteração dos índices de correção monetária e juros de mora, por se tratar de consectários legais da condenação principal, possuem natureza de ordem pública, cognoscível de ofício, motivo pelo qual não prospera a alegação de ocorrência de reformatio in pejus. Precedentes: AgRg no AREsp. 288.026/MG, Rel. Min. HUMBERTO MARTINS, DJe 20.2.2014; EDcl no AgRg no AREsp. 52.739/RS, Rel. Min. HERMAN BENJAMIN, DJe 5.12.2013; EDcl nos EDcl no Ag 1.074.207/RS, Rel. Min. ALDERITA RAMOS DE OLIVEIRA, DJe 4.9.2013.
+2. Agravo Interno dos Servidores a que se nega provimento. (AgInt no Resp 1575087/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/10/2018, Dje 19/11/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DO ESTADO. VIOLAÇÃO DO ART. 535 NÃO CONFIGURADA. DENUNCIAÇÃO DA LIDE. REQUISITOS. NEXO CAUSAL ENTRE CONDUTA E DANO. QUANTUM INDENIZATÓRIO. VERIFICAÇÃO. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7/STJ. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE APRECIAÇÃO DE OFÍCIO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA.
+1. Não se configura a alegada ofensa aos artigos 458, II, e 535, II, do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada.
+2. Como claramente se observa, não se trata de omissão, contradição ou obscuridade, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+3. O Tribunal a quo, com base na prova dos autos e na interpretação de cláusulas contratuais, concluiu pela impossibilidade de denunciar à lide a municipalidade do Rio de Janeiro, nos termos do art. 70, III, do CPC. A revisão desse entendimento implica reexame de fatos e provas e análise de cláusula contratual, obstado pelo teor das Súmulas 5 e 7/STJ.
+4. A revisão da conclusão a que chegou o Tribunal de origem acerca da existência de nexo causal demanda reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do Recurso Especial, óbice da Súmula 7 do STJ.
+5. Quanto à questão do quantum indenizatório, a adoção de posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ.
+ 6. A matéria relativa a juros e correção monetária é de ordem pública e cognoscível, portanto, de ofício em reexame necessário, razão por que se afasta a tese de reformatio in pejus nesses casos.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (Resp 1652776/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/03/2017, Dje 24/04/2017).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXAME DA PRESCRIÇÃO DO FUNDO DE DIREITO. INTERPRETAÇÃO DE NORMA LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. JUROS E CORREÇÃO MONETÁRIA. AUSÊNCIA DE REFORMATIO IN PEJUS.
+1. Para verificar a afronta ao artigo 1º do Decreto n.º 20.910/32, na forma defendida pelo agravante, seria necessário analisar dispositivos do Decreto Estadual n.º 5.045/98, pretensão insuscetível de ser apreciada na via do recurso especial, conforme a Súmula 280/STF. Precedentes: AgRg no AREsp 89.924/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 05/11/2013, DJe 11/11/2013 e AgRg no AREsp 266.070/PR, Rel. Ministro Castro Meira, Segunda Turma, julgado em 02/04/2013, DJe 09/04/2013.
+2. Na linha da pacífica jurisprudência desta Corte, a correção monetária e os juros de mora, como consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados pelas instâncias ordinárias até mesmo de ofício, o que afasta suposta violação do princípio do non reformatio in pejus. Precedente: AgRg no AgRg no REsp 1.424.522/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 21/08/2014, DJe 28/08/2014)
+3. Agravo regimental não provido. (AgRg no AREsp 643.934/PR, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 04/05/2015).
+Aplica-se, in casu, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+ Publique-se. Intimem-se.
