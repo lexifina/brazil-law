@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por MARIA CÂNDIDA VIEIRA LOBÃO, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ fls. 268/269):
+MANDADO DE SEGURANÇA PREVENTIVO - PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM REJEITADA - PRELIMINAR DE AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - CONFUSÃO COM O MÉRITO DO WRIT - SERVIDORA PÚBLICA ESTADUAL - PRETENSÃO DE INCORPORAÇÃO DE GRATIFICAÇÕES AOS VENCIMENTOS - IMPOSSIBILIDADE - INTELIGÊNCIA DO ART. 132, §1º, DA LEI nº 6.677/1994 APLICÁVEL APENAS À FIXAÇÃO DOS PROVENTOS DE APOSENTADORIA - SEGURANÇA DENEGADA.
+Não merece guarida a preliminar de ilegitimidade passiva ad causam do Secretário de Cultura do Estado da Bahia, eis que, conquanto seja a FUNCEB autarquia estatal, possuindo autonomia administrativa e financeira em relação à Administração Pública, a presidência do Conselho Curador da entidade cabe ao Secretário da Cultura e Turismo, nos termos do art. 6º, I, do Decreto nº 8464/03.
+Autoridade impetrada que possui poderes para decidir sobre o direito pretendido pela Impetrante.
+A pretensão veiculada neste mandado de segurança não merece prosperar, por ausência de respaldo legal, uma vez que o dispositivo invocado pela Impetrante - §1º do art. 132 da Lei nº 6.677/94 - regulamenta o regime de fixação de proventos para fim de aposentadoria do servidor.
+Caso em que não existe prova de risco iminente de indeferimento da inclusão das gratificações e vantagens aos proventos em eventual ato de aposentadoria, não havendo sequer demonstração de que a Impetrante já preenche os requisitos legais para o afastamento das suas funções pela aposentação.
+Preliminar rejeitada. Segurança denegada.
+Na origem, a recorrente impetrou mandado de segurança preventivo contra o Secretário de Cultura e Turismo do Estado da Bahia, pleiteando a incorporação de gratificações aos seus vencimentos e proventos futuros de aposentadoria.
+O Tribunal a quo denegou a ordem, pois entendeu pela inexistência de provas de risco iminente ao direito alegado pela impetrante.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 285/291).
+No presente recurso, a recorrente, em síntese, repisa os argumentos da sua inicial e aduz ter apresentado prova apta à comprovação de que faz jus à incorporação das gratificações pleiteadas (e-STJ fls. 355/365).
+Ao final, pleiteia a reforma do acórdão atacado com a concessão da segurança.
+Contrarrazões foram apresentadas às e-STJ fls. 372/384.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fls. 410/412).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Estabelecida essa premissa, tenho que a irresignação recursal não comporta acolhida, porquanto a tese sufragada no acórdão impugnado espelha a orientação pacífica desta Corte no sentido do não cabimento do mandado de segurança preventivo quando não comprovado o justo receio de lesão ao direito ou ao bem jurídico tutelado.Veja-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ICMS. AQUISIÇÃO DE INSUMOS POR CONSTRUTORA MEDIANTE OPERAÇÃO INTERESTADUAL. IMPOSSIBILIDADE DE EXIGÊNCIA DO DIFERENCIAL DE ALÍQUOTA PELA AUTORIDADE FAZENDÁRIA DA UNIDADE FEDERADA DE DESTINO. MERCADORIAS ADQUIRIDAS PARA UTILIZAÇÃO NAS OBRAS CONTRATADAS. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.135.489/AL, REL. MIN. LUIZ FUX, DJE 01.02.2010. MANDAMUS PREVENTIVO APENAS PARA DECLARAR A INEXIGIBILIDADE DO TRIBUTO EM FUTURAS AQUISIÇÕES DE INSUMOS PARA ATIVIDADE FIM DA CONSTRUÇÃO CIVIL. AGRAVO REGIMENTAL DO ESTADO DO MARANHÃO DESPROVIDO.
+1. Restou incontroverso que a empresa de construção civil não sofre incidência do diferencial de alíquota de ICMS ao adquirir em outros Estados quaisquer bens para utilização como insumo nas obras que constroem.
+2. A segurança pretendida não possui caráter normativo, porquanto se destina a prevenir futuros atos ilegais específicos, quais sejam, a constituição e exigibilidade do diferencial de alíquota de ICMS somente, e tão somente, em aquisições interestaduais que a recorrente, empresa de construção civil, vier a efetuar de quaisquer bens a serem utilizados como insumos nas obras que realiza.
+3. Na lição do Professor HUGO DE BRITO MACHADO, o Mandado de Segurança é preventivo quando, já existente ou em vias de surgimento a situação de fato que ensejaria a prática do ato considerado ilegal, tal ato ainda não tenha sido praticado, existindo apenas o justo receio de que venha a ser praticado pela autoridade impetrada (Mandado de Segurança em Matéria Tributária, Dialética, 6a. ed., São Paulo, 2006, pp. 256/257).
+4. Ineficaz seria o presente writ, caso a impetrante requeresse a segurança em relação à nota fiscal juntada aos autos, afinal a mesma já restou paga. Ainda a obrigaria a impetrar repetidos Mandados de Segurança a cada cobrança ilegal, o que estaria em confronto aos princípios da economia processual e da efetividade.
+5. Agravo regimental do Estado do Maranhão desprovido.
+(AgRg no RMS 33.247/MA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/11/2014, DJe 18/11/2014).
+PROCESSO CIVIL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECRETO ESTADUAL. ALEGAÇÃO DE INCONSTITUCIONALIDADE. INADMISSIBILIDADE. SÚMULA 266/STF.
+1. O mandado de segurança preventivo não pode ser utilizado com o intuito de obter provimento genérico aplicável a todos os casos futuros de mesma espécie. (REsp 1064434/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 14.6.2011, DJe 21.6.2011)
+2. Não ficou demonstrado o justo receio que legitimasse a impetração do writ, como intentou a agravante, sendo imprescindível a concretude dos fatos apontados como ameaça de lesão a direito. Incidência da Súmula 266 da Súmula do STF: "não cabe mandado de segurança contra lei em tese".
+Agravo regimental improvido.
+(AgRg no RMS 36.971/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/08/2012, DJe 28/08/2012).
+No caso dos autos, como corretamente apontou o Ministério Público Federal, a recorrente não logrou comprovar o risco de indeferimento pela Administração da incorporação das gratificações pleiteadas aos seus futuros proventos de aposentadoria (e-STJ fl. 412):
+ ..
+O mandamus preventivo visa à salvaguarda de efeitos lesivos futuros, decorrentes de ato administrativo, cuja consubstanciação seja iminente. In casu, não se vislumbra a existência de um ato concreto passível de incidir em ilegalidade, na medida em que não restou comprovado o risco de indeferimento da inclusão das gratificações e vantagens aos proventos em eventual ato de aposentadoria, tampouco demonstrado que a recorrente preencheria os requisitos legais para a aposentação.
+Nessa vertente, considerando que o justo receio para ensejar o deferimento da pretensão tem que ser atual e objetivo, devendo se comprovar a ameaça por fatos e atos existentes no momento da impetração, é de ser mantido o acórdão recorrido por seus próprios fundamentos.
+ ..
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
