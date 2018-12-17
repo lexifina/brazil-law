@@ -1,0 +1,23 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que negou seguimento à reclamação. (eDOC 20)
+    Em suas razões, a parte embargante repete os argumentos já expostos na petição inicial, no sentido de que a decisão reclamada afronta a Súmula Vinculante 28, que considerou inconstitucional a exigência de depósito prévio como requisito de admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Ressalto que os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, ora não vislumbradas.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; e AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011.
+    Conforme consignado na decisão embargada, não se verifica similitude entre o decidido no ato reclamado – que, com base no art. 16, § 1º, da Lei 6.830/80, assentou a inadmissibilidade dos embargos do executado antes de garantida a execução – e o assentado por esta Corte na Súmula Vinculante 28, que consignou a inconstitucionalidade da exigência de depósito prévio para discussão judicial de crédito tributário, por configurar óbice ao acesso à justiça. Nesses termos, mostra-se inviável a invocação da Súmula Vinculante 28 para afastar a exigência de garantia do juízo nos embargos à execução fiscal.
+    Cabe ressaltar que o enunciado da referida súmula se refere às ações judiciais que têm por objeto qualquer etapa do fluxo de constituição e de positivação do crédito tributário antecedente ao ajuizamento da ação de execução fiscal, momento em que ocorre a judicialização do inadimplemento do sujeito passivo.
+    Com efeito, tal restrição decorre da motivação da referida súmula vinculante, que foi a declaração de inconstitucionalidade do art. 19 da Lei 8.870/1994 (ADI 1.075, rel. Min. Eros Grau, DJ de 25.05.2007), semelhante ao art. 38 da Lei 6.830/1980, não recepcionado pela Constituição de 1988.
+    Já a garantia do juízo como requisito para recebimento dos embargos à execução – e, consequentemente, a inibição ou a suspensão da ação de execução fiscal – não foi declarada inconstitucional naquela oportunidade. A propósito, registro o seguinte trecho do voto proferido pelo relator, Ministro Eros Grau:
+    “Esse requisito [se refere ao depósito prévio] somente se imporia caso o sujeito passivo da obrigação tributária pretendesse inibir o ajuizamento da execução fiscal [RE n. 105.552, Relator o Ministro DJACI FALCÃO, DJ de 2.08.1985 e RE n. 103.400, Relator o Ministro RAFAEL MAYER, DJ de 10.12.1984].
+    Por outro lado, ao dispor de forma genérica que ´as ações judiciais, inclusive cautelares, que tenham por objeto a discussão de débito para com o INSS serão, obrigatoriamente, precedidas do depósito preparatório , o artigo 19 da Lei n. 8.870/94 consubstancia barreira ao acesso ao Poder Judiciário. A mera leitura do texto normativo impugnado dá conta da imposição de condição à propositura das ações cujo objeto seja a discussão de créditos tributários, ainda que não estejam em fase de execução” (grifos nossos).
+    Posta a questão nesses termos, vê-se que a controvérsia dos autos escapa ao alcance da Súmula Vinculante 28. A rigor, a aplicação da referida súmula às execuções fiscais implicaria a declaração de não recepção do art. 16, § 1º da Lei 6.830/1980, sem a observância do devido processo legal (Rcl 6.735-AgR, rel. Min. Ellen Gracie, Pleno, DJ e de 10.09.2010).
+    Além disso, não há nenhuma indicação de circunstância excepcional a apontar ser a garantia do juízo exigida pela Lei de Execuções Fiscais barreira intransponível ao direito de acesso à jurisdição.
+    Assim, tendo em vista a inexistência de identidade ou similitude de objeto entre o ato impugnado e a decisão-paradigma indicada, inadmissível a presente reclamação, uma vez que não pode ser empregada como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal.
+    Desse modo, inexistem omissão, contradição, obscuridade a serem sanadas na decisão ora impugnada.
+    Ante o exposto, rejeito os embargos de declaração (art. 1024, §2º, do CPC).
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
