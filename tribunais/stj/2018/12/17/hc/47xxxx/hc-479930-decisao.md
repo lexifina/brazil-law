@@ -1,0 +1,45 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO DELITO NO CURSO DA EXECUÇÃO. RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. PRESCINDIBILIDADE DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. ORDEM DE HABEAS CORPUS DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Agravo em Execução n.º 0254541-62.2018.8.21.7000.
+Consta dos autos que o Juízo da Execução da Comarca de Novo Hamburgo/RS reconheceu a prática de falta grave pelo Paciente, em razão da prática do novo delito no curso da execução, e decretou a perda de 1/3 dos dias já declarados remidos.
+Inconformada, a Defesa interpôs agravo em execução, que foi desprovido pelo Tribunal de origem, nos termos da seguinte ementa (fl. 68):
+"AGRAVO EM EXECUÇÃO. IRRESIGNAÇÃO DEFENSIVA. COMETIMENTO DE NOVO DELITO DURANTE O CUMPRIMENTO DA PENA. PRESO EM FLAGRANTE. FALTA GRAVE CONFIGURADA DECISÃO MANTIDA.
+O art. 52 da LEP prevê como falta de natureza grave a "prática de fato previsto como crime doloso". Na hipótese, o acusado estava foragido do monitoramento eletrônico quando cometeu novo crime e fora preso em flagrante. Assim, correto o reconhecimento da falta grave pelo magistrado singular. Desnecessária a existência de sentença condenatória com trânsito em julgado do cometimento de novo delito para a configuração da falta disciplinar. Precedentes desta e. Corte. Mantido o reconhecimento da falta grave e, por conseguinte, alteração da data-base, ficando esta limitada apenas à futura progressão de regime. Por fim, por também considerar corolário lógico da demonstrada falta grave, entendo adequada a perda de 1/3 dos dias remidos, nos termos do disposto no art. 127 da Lei de Execuções Penais, sendo esta a fração proporcional à falta grave perpetrada pelo agravante - prática dos crimes de receptação, sem olvidar o fato de estar foragido.
+À UNANIMIDADE, NEGARAM PROVIMENTO AO AGRAVO EM EXECUÇÃO."
+Sustenta a Defensoria Pública Impetrante, em suma, a impossibilidade de reconhecimento de falta grave, bem como de perda dos dias remidos, sem a condenação definitiva pelo novo delito.
+Requer, liminarmente, a suspensão dos efeito da decisão e, no mérito, sua reforma, com o afastamento da falta grave e estorno dos dias remidos.
+O pedido liminar foi indeferido às fls. 85-87.
+As judiciosas informações foram prestadas às fls. 92-130.
+O Ministério Público Federal manifestou-se às fls. 133-138, opinando pelo não conhecimento do writ.
+É o relatório.
+Decido.
+O Tribunal de origem manteve a decisão que reconheceu a prática de falta grave com base nas seguintes razões (fls. 70-73; sem grifos no original):
+" ..
+A prática de novo fato definido como crime no curso da execução penal, por si só, constitui falta de natureza grave, tal como prevê o art. 52 da LEP.
+Assim, correto o reconhecimento da falta.
+Insta salientar que me coaduno ao entendimento já assente nesta e. Corte e no e. STJ de que o reconhecimento da falta grave não depende do trânsito em julgado de eventual condenação pelo novo crime.
+No ponto, colaciono julgado pretérito em que tratei do mesmo tema, in verbis:
+ ..
+Deste modo, havendo notícias nos autos do envolvimento do apenado na prática de novo crime, consoante acima especificado e, em que pese sem trânsito em julgado, que foi praticado durante o cumprimento da pena, notadamente quando estava foragido do sistema prisional, mostra-se impositivo o reconhecimento da prática de falta grave, nos termos do art. 52 da LEP.
+Saliento, outrossim, que o reconhecimento da falta grave não acarreta em bis in idem, pois o fato de o reeducando ser condenado em processo de conhecimento, pelo fato criminoso praticado é sanção de cunho penal, enquanto a circunstância de ter aplicadas as conseqüências referentes á prática de falta grave, é sanção de natureza administrativa, pois cometeu crime no curso de execução penal.
+E mais, tanto é considerada como sanção administrativa, que a prática de novo crime no curso da execução da pena é considerada falta grave mesmo sem o trânsito em julgado do novo crime.
+ ..
+Como corolário lógico da constatação da falta grave, fica o infrator sujeito à regressão do regime de cumprimento da pena, tal como previsto no art. 118, inciso I, da LEP.
+Deve ser imposta, também, a alteração da data-base. Manter-se a original inalterada importaria em fazer tabula rasa da falta do reeducando. Atentar-se-ia contra o princípio constitucional da isonomia, visto que apenados com boa conduta prisional obteriam o mesmo tratamento que aqueles com comportamento desregrado, equiparando-se situações notadamente distintas
+Nesta sanção, tenho que a extensão de seus efeitos alcança apenas futura progressão de regime, não atingindo o livramento condicional, por força do constante no art. 83 do CP e da Súmula n. 441 do e. STJ. Tampouco engloba o indulto e a comutação, pois a interrupção do lapso é possível somente quando o decreto presidencial concessivo de tais benefícios assim dispor. A Súmula n. 535, do e. STJ, acerca do tema prevê que "a prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto". De igual forma, a alteração da data-base não pode envolver os privilégios da saída temporária e do serviço externo, haja vista que o cometimento de falta grave será considerado somente se implementado o requisito subjetivo para deferimento de tais benefícios.
+Por fim, por também considerar corolário lógico da demonstrada falta grave, entendo adequada a perda de 1/3 dos dias remidos, nos termos do disposto no art. 127 da Lei de Execuções Penais, sendo esta a fração proporcional à falta grave perpetrada pelo agravante - prática dos crimes de receptação, sem olvidar o fato de estar foragido."
+Como se vê, o entendimento adotado está em harmonia com a legislação federal vigente e com a jurisprudência desta Corte Superior sobre a questão. Com efeito, o Juízo da Execução, após constatar a prática de novo delito no curso da execução, reconheceu a prática da falta grave nos exatos termos estabelecidos no art. 118, inciso I, da Lei de Execuções Penais e no Verbete Sumular de n.º 526/STJ.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL. EXECUÇÃO. FALTA GRAVE. CRIME DOLOSO. APURAÇÃO. IMPRESCINDIBILIDADE DA INSTAURAÇÃO DE PAD. REGRESSÃO CAUTELAR. POSSIBILIDADE. DESNECESSIDADE DO TRÂNSITO EM JULGADO DA SENTENÇA PENAL CONDENATÓRIA. RECURSO PARCIALMENTE PROVIDO.
+ ..
+4. Este Superior Tribunal firmou o entendimento no sentido da desnecessidade de se aguardar o trânsito em julgado da condenação para se reconhecer a falta grave decorrente da prática de novo delito no curso da execução. Nesse sentido, o verbete sumular n.º 526.
+5. Recurso parcialmente provido para reconhecer a validade da regressão cautelar de regime, mantendo, contudo, a declaração de nulidade no tocante à dispensa prévia da instauração de procedimento administrativo disciplinar para o reconhecimento definitivo da falta disciplinar cometida pelo paciente." (AgRg no HC 423.979/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE NOVO CRIME DOLOSO NO CURSO DA EXECUÇÃO PENAL. FALTA GRAVE. CONFIGURAÇÃO, MESMO NÃO TENDO OCORRIDO O TRÂNSITO EM JULGADO DA SENTENÇA PENAL CONDENATÓRIA REFERENTE AO NOVO DELITO. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Consolidou-se nesta Superior Corte de Justiça diretriz jurisprudencial no sentido de que o reeducando que comete fato definido como crime doloso no curso da execução penal pratica falta grave, mesmo sem o trânsito em julgado da sentença penal condenatória referente ao novo delito.
+3. In casu, conforme consignado pela Corte a quo:"sobreveio a notícia do envolvimento do apenado na prática de novo crime, conforme acima declinado, embora sem trânsito em julgado, ainda, ressaltando que tal delito foi praticado durante o cumprimento da pena em análise, notadamente quando estava usufruindo de regime mais benéfico."
+4. Inexistência, assim, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+5. Habeas corpus não conhecido." (HC 458.115/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/09/2018, DJe 01/10/2018; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
