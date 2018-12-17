@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial, por inexistência de violação de lei federal e incidência da Súmula n. 284 do STF (e-STJ fls. 955/959).
+O acórdão recorrido está assim ementado (e-STJ fl. 836):
+EMENTA. APELAÇÃO CÍVEL. EMBARGOS À ARREMATAÇÀO. SENTENÇA QUE ACOLHE PRELIMINAR DE INTEMPESTIVIDADE DOS EMBARGOS. RECURSO DE APELAÇÃO NÃO CONHECIDO POR AUSÊNCIA DE RATIFICAÇÃO APÓS A PUBLICAÇÃO DO RESULTADO DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. INTERPOSIÇÃO DE RECURSO AO SUPERIOR TRIBUNAL DE JUSTIÇA. DETERMINAÇÃO DE RETORNO DOS AUTOS PARA AFASTAR O FUNDAMENTO DE INTEMPESTIVIDADE DA APELAÇÃO E DETERMINAR QUE O TRIBUNAL DÊ CONTINUIDADE AO JULGAMENTO. REANÁLISE. EMBARGOS À ARREMATAÇÀO INTEMPESTIVOS. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Mantém-se a sentença que acolheu a preliminar e julgou intempestivos os embargos à arrematação opostos além do prazo de 5 dias de que tratam os artigos 694 e 746 do Código de Processo Civil de 1973.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 876/880).
+No especial (e-STJ fls. 913/939), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda afronta aos arts. 225 e 425 do CPC/1973, sustentando, em síntese, que "a cópia autenticada pelo TJMS do auto de arrematação onde não consta a assinatura do magistrado singular, extraída pelo recorrente do processo executivo e autenticada no dia 07.05.2009, faz a mesma prova que o original e se presta para fazer prova do fato que se pretendia demonstrar, ou seja, de que até aquele dia (07.05.2009) o magistrado ainda não tinha assinado o auto de arrematação" (e-STJ fl. 934).
+No agravo (e-STJ fls. 972/988), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminutas apresentadas pelas partes recorridas (e-STJ fls. 991/999 e 1.001/1.012).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+No mais, assim se manifestou a Corte estadual (e-STJ fls. 842/843):
+Em 13.12.2010, o magistrado determinou à Diretora de Cartório que certificasse o decurso do prazo para oposição de embargos, o que foi realizado à f. 321, nos seguintes termos: "Certifico que o imóvel descrito na inicial foi levado a hasta pública e arrematado em 28 praça no dia 16/04/2009, decorrendo o prazo para oposição de embargos no dia 21/04/2010 (sic)".
+Ora, a jurisprudência consolidada do Superior Tribunal de Justiça é no sentido de que "conta-se da data da assinatura do auto de adjudicação ou arrematação, independentemente de intimação do executado, o prazo para oposição de embargos"
+(..)
+Conforme bem ressaltou o julgador de primeiro grau, embora não conste a assinatura do juiz na cópia do auto de arrematação dos presentes embargos (f. 210), essa eventual falha encontra-se suprida, uma vez que nos autos da Ação de Execução n. 0024395-25.1995.8.12.0001 a assinatura do magistrado foi aposta no referido auto de arrematação.
+Destarte, na hipótese em exame, nos exatos termos do art. 746 do Código de Processo Civil de 1973 cumulado com o art. 694 do mesmo diploma legal, o prazo de 5 dias para oposição dos embargos à arrematação expirou-se em 21.4.2009, Verifica-se, contudo, que os presentes embargos à arrematação opostos pelo ora apelante somente foram protocolados em 8.5.2009, razão pela qual são eles, com afirmado, manifestamente intempestivos.
+O Tribunal de origem, ao decidir a matéria, concluiu que a falha da assinatura encontra-se suprida, uma vez que nos autos da Ação de Execução n. 0024395-25.1995.8.12.0001 a assinatura do magistrado foi aposta no referido auto de arrematação. Dessa forma, verifica-se que o conteúdo dos arts. 225 e 425 do CPC/1973 não foi analisado pela Corte local, mesmo após a oposição dos embargos de declaração. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Além disso, observa-se que os referidos dispositivos de lei possuem comandos legais dissociados dos fundamentos do aresto impugnado - de que a falha da assinatura encontra-se suprida -, o que impossibilita a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidente, portanto, a Súmula n. 284/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
