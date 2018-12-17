@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pela Municipalidade de São Paulo contra decisão que negou seguimento a seu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição da República, com o objetivo de reformar acórdão assim ementado pelo Tribunal de Justiça Estadual (fl. 915):
+Trânsito. Arrendamento mercantil. Pretensão da instituição financeira autora de ver declarada a inexistência de relação jurídica com a requerida em relação às infrações de trânsito praticadas por arrendatários dos veículos. Possibilidade. Responsabilidade pelas infrações de trânsito do devedor fiduciário, que é possuidor direto do bem. Hipótese de responsabilidade pessoal. Entendimento predominante. Recurso improvido.
+Opostos embargos declaratórios pelo Itaú Unibanco S.A., foram eles acolhidos para majoração dos honorários recursais (fls. 942-944).
+Em suas razões recursais especiais, a Municipalidade de São Paulo aponta violação, pelo aresto vergastado, dos arts. 257 e 282, § 3º, do Código de Trânsito Brasileiro, alegando, em síntese, a legalidade do ato de responsabilizar o recorrido pelas infrações de trânsito cometidas pelos arrendatários possuidores dos veículos, visto não ter providenciado, a tempo, o efetivo registro dos contratos de arrendamento mercantil junto ao DETRAN, indicando os dados dos arrendatários desses bens.
+Aponta, ainda, ofensa ao art. 85, § 8º, do CDC de 2015, sob a alegação da necessidade de revisão dos honorários fixados no acórdão recorrido, porquanto arbitrado exageradamente, sob pena de enriquecimento sem causa do recorrido e onerosidade excessiva da municipalidade.
+Apresentadas contrarrazões às fls. 948-961, o Tribunal a quo negou seguimento ao recurso (fls. 962-663), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que a agravante impugnou a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Com relação à alegada contrariedade aos arts. 257 e 282, § 3º, do Código de Trânsito Brasileiro, verifica-se que o Tribunal a quo, na fundamentação do decisum, assim firmou entendimento (fl. 919):
+ ..
+Como se vê, a responsabilidade pelas infrações de trânsito é pessoal do devedor fiduciário e não pode ser imputada à instituição financeira, nem sob o argumento de que não foi cumprida a regra do artigo 134 do CTB.
+Aliás, conforme se depreende dos documentos apresentados às fls. 160/354, consta inclusão dos veículos no Sistema Nacional de Gravames, do que se rejeita a alegação de ausência de documentos que comprovem o contrato de alienação fiduciária. Por sinal, é desnecessária a apresentação dos contratos, diante da prova da inclusão dos gravames no registro próprio.
+Anote-se, ainda, que quase a totalidade dos veículos indicados consta anotação de gravame baixado, o que indica que a autora não tem qualquer relação jurídica com o bem.
+ ..
+Nesse sentido, tendo o Tribunal a quo, com base no acervo fático-probatório carreado aos autos, concluído que de fato houve a comunicação dos gravames dos veículos, para se concluir de modo diverso, na forma pretendida pela recorrente, seria necessário o revolvimento dos mesmos elementos fáticos já analisados, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+A esse respeito, os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO NÃO CONFIGURADOS. INSUBSISTÊNCIA DO AUTO DE INFRAÇÃO. INOCORRÊNCIA. QUESTÕES DIRIMIDAS PELA CORTE DE ORIGEM COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Constatado que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação do art. 535 do CPC.
+2. Quanto à apontada violação aos arts. 165, 277, § 2º, e 306 do CTB, o recurso não merece prosperar, visto que a Corte de origem formou o seu convencimento com base no conjunto fático-probatório dos autos. Incidência do óbice da súmula 7/STJ.
+3. Agravo regimental não provido (AgRg no AREsp n. 363.579/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/4/2015, DJe 12/5/2015.)
+"DIREITO PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. AÇÃO DECLARATÓRIA DE NULIDADE DE AUTO DE INFRAÇÃO. TESTE DO BAFÔMETRO. RECUSA POR PARTE DO CONDUTOR. ART. 277, §§ 2o e 3o DO CTB. APLICAÇÃO DAS PENALIDADES E MEDIDAS ADMINISTRATIVAS PREVISTAS NO ART. 165, DO CTB. AUTO DE INFRAÇÃO DEFICIENTE. RESOLUÇÃO CONTRAN 206/06. EMBARGOS INFRINGENTES PROVIDOS POR MAIORIA DE VOTOS. ACÓRDÃO REFORMADO. SENTENÇA RESTABELECIDA.
+ ..
+Ademais, a Corte de origem concluiu pela existência de vício no auto de infração, por falta de informações mínimas para comprovar a situação de embriagues do condutor, razão pela qual tornou nulo o ato administrativo.
+Ora, se o Tribunal a quo, soberano na apreciação dos elementos de convicção dos autos, a partir da premissa da presença de vício no auto de infração, decidiu tornar tal ato nulo, laborou em conformidade com a jurisprudência desta Corte Superior, pois, como regra geral, a Administração, que age sob o princípio da legalidade, deverá anular o ato contaminado por vício que confronte com preceitos legais.
+ ..
+E mais. Dissentir das razões de decidir do acórdão recorrido, de modo a se afirmar a inexistência de vício no auto de infração, implicaria inevitável revolvimento do conjunto fático-probatório dos autos, providência defesa em recurso especial, haja vista o óbice da Súmula 7/STJ.
+ ..
+Ante o exposto, com fundamento no art. 544, § 4º, inciso II, alínea "b", do CPC, conheço do agravo para negar seguimento ao recurso especial (AREsp n. 741.821, Relator Ministro Humberto Martins, Julgamento em 30 de setembro de 2015, Dje. 6/10/2015.)
+No que concerne à apontada violação art. 85, § 8º, do CPC/15, é forçoso esclarecer que a jurisprudência desta Corte consolidou-se no sentido de que a revisão dos honorários advocatícios, via de regra, encontra óbice na Súmula n. 7/STJ, sendo que tal entendimento, excepcionalmente, pode ser mitigado diante da irrisoriedade ou exorbitância do valor arbitrado nas instâncias ordinárias.
+Para a hipótese dos autos, a condenação ao pagamento do percentual mínimo de 10% não se mostra exagerado a ponto de macular o art. 85 do CPC, consoante se verifica dos seguintes julgados:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. INEXISTÊNCIA DE PERCENTUAL MÍNIMO. VALOR ADEQUADO À ESPÉCIE.
+1. Ao determinar o valor devido a título de honorários, o julgador levará em conta fatores primordialmente factuais, quais sejam, o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+2. Em sua apreciação equitativa, nada impede que o magistrado arbitre honorários em valores inferiores ou superiores aos que resultaria da observância dos limites indicados no § 3º do art. 20 do CPC (mínimo de 10% e máximo de 20%).
+3. Na espécie, a fixação da verba honorária observou valor compatível com a complexidade da causa e seu valor econômico, bem como em atenção ao zelo com que atuou o corpo de advogados.
+4. Agravo regimental a que se nega provimento (AgRg nos EDcl no REsp n. 1.237.578 / CE, Relator(a) Ministro Sérgio Kukina, Primeira Turma, Julgamento em 21/3/2013, DJe 4/4/2013.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FASE DE CONHECIMENTO. VALOR DOS HONORÁRIOS. PERCENTUAL. PRECEDENTES.
+1. "Conforme entendimento desta Corte, quando o acórdão proferido é de cunho condenatório, devem os honorários advocatícios ser fixados entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, nos termos do artigo 20, § 3º, do Código de Processo Civil" (EDcl no AgRg nos EDcl no Ag 718.402/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 21/10/2008, DJe 18/11/2008).
+2. No presente caso, a verba honorária já foi arbitrada no percentual mínimo de 10% sobre o valor da condenação, não havendo que se falar em redução dessa quantia.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp n. 773.880 / RS, Relator Ministro Luis Felipe Salomão, Quarta Turma, Julgamento em 27/10/2015, DJe 5/11/2015.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
