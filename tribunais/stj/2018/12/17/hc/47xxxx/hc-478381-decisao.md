@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] FERRO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0001376-49.2018.8.26.0597).
+O Juízo de primeiro grau condenou o paciente, como incurso no art. 33, § 4º, da Lei n. 11.343/06 (tráfico de drogas).
+O Tribunal a quo deu parcial provimento à apelação da defesa e reduziu a reprimenda para 1 ano e 8 meses, em regime inicial fechado.
+A impetrante alega que a primariedade do paciente, as circunstâncias judiciais favoráveis, a quantidade de droga e o quantum de pena permitem a fixação do regime aberto e a substituição da pena por restritiva de direitos.
+O pedido liminar foi deferido às fls. 78/80, para assegurar ao paciente que aguarde em regime aberto o julgamento do presente mandamus.
+Prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela concessão da ordem (fls. 125/129).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+De início, confiram-se os fundamentos apresentados pela Corte estadual, no que interessa:
+Aqui, embora a natureza letal da droga apreendida revele nocividade de maior grau em relação a outras espécies de substâncias entorpecentes, implicando, em princípio, maior reprovabilidade da conduta do apelante, a quantidade apreendida (cerca de 4,8g distribuída em 19 porções), pese relevante para caracterização da traficância, não se apresentou exorbitante a ponto de impedir a diminuição no patamar máximo, quando comparada a casos análogos.
+ ..
+Por isso, acolho a irresignação recursal neste ponto, reduzindo a pena do increpado em 2/3, redimensionando a reprimenda final para 1 ano e 8 meses de reclusão, bem como 166 diárias de multa, mantida a unidade no piso legal.
+Por fim, não é caso de substituição da pena privativa de liberdade por restritiva de direitos.
+O Col. Supremo Tribunal Federal declarou a inconstitucionalidade do § 4o do art. 33 da Lei n. 11.343/2006 no ponto em que vedava, ao réu condenado por tráfico de entorpecentes, a conversão da pena privativa de liberdade em outra restritiva de direitos (HC n. 97.256, j. em 1.9.2010, rei. o Min. Ayres Britto).
+Todavia, o envolvimento com o mercado prescrito, a quantidade apreendida, o clima de instabilidade social trazido pela traficância não coadunam com os requisitos legais delineados no inc. III do art. 44 do Cód. Penal - as circunstâncias não indicam que eventual substituição seria suficiente.
+ ..
+Por derradeiro, registro que não há insurgência recursal em relação aos critérios adotados na origem para eleição do regime penitenciário para início da execução, tema que remanesce incontroverso também diante da ausência de apelo ministerial (fls. 64/67).
+A quantidade de droga constitui elemento idôneo no agravamento do regime prisional e na não-substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 42 da Lei n. 11.343/06. No entanto, no caso concreto, os 4,8 gramas de cocaína encontrados com o ora paciente não se mostram elevados o bastante para justificar o regime fechado e obstar a substituição da pena.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PENA DE 01 (UM) ANO, 11 (ONZE) MESES E 10 (DEZ) DIAS DE RECLUSÃO. REGIME FECHADO FIXADO COM BASE NA HEDIONDEZ E NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - Em relação ao regime inicial de cumprimento de pena, cumpre registrar que o Plenário do col. Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo. Para tanto, devem ser observados os preceitos constantes dos arts. 33 e 59, ambos do Código Penal.
+III - In casu, denota-se que foram apreendidas pouca quantidade de drogas (treze gramas e quatrocentos e oitenta e dois miligramas de maconha e nove gramas e cento e treze miligramas de cocaína), e a causa especial de diminuição de pena, prevista no art. 33, parágrafo 4º, da Lei de Drogas foi aplicada no seu grau máximo. Assim, considerando a primariedade do paciente e o quantum de pena estabelecido, forçoso concluir que faz jus ao regime aberto, para início de cumprimento de pena, ex vi do art. 33, § 2º, alínea c, e § 3º, do Estatuto Penal, bem como de acordo com o entendimento constante das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e da Súmula n. 440 desta Corte Superior.
+IV - O Pretório Excelso, nos termos da r. decisão proferida por ocasião do julgamento do HC n. 97.256/RS, ao considerar inconstitucional a vedação legal à substituição da pena privativa de liberdade em restritivas de direitos, contida no art. 33, § 4º, da Lei n. 11.343/06, permitiu a concessão da benesse aos condenados pelo crime de tráfico de drogas, desde que preenchidos os requisitos insertos no art. 44 do Código Penal.
+V - Preenchidos os requisitos do art. 44 do Código Penal, quais sejam, pena não superior à 4 (quatro) anos, o crime não foi cometido com violência ou grave ameaça à pessoa e réu não reincidente, o paciente faz jus à substituição da pena privativa de liberdade por restritivas de direitos, em moldes a serem especificados pelo Juízo da Execução Penal.
+Habeas corpus não conhecido. Ordem concedida de ofício, para fixar o regime prisional aberto para o início do cumprimento da pena do paciente e determinar a conversão da pena privativa de liberdade por restritivas de direitos, nos moldes do artigo 44 do Código Penal, a ser estabelecido pelo MM. Juízo a quo (HC 462.503/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para fixar o regime aberto e substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem fixadas pelo Juízo da Execução Penal, confirmando a liminar deferida.
+Publique-se.
+Intimações necessárias.
