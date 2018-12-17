@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DE MINAS GERAIS, com fulcro na(s) alínea(s) "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela Unidade da Federação assim ementado (e-STJ fl. 204):
+EMENTA: AGRAVO INTERNO - AÇÃO RESCISÓRIA - INDEFERIMENTO DO PEDIDO DE TUTELA ANTECIPADA - ALEGAÇÃO DE QUE O ACÓRDÃO RESCINDENDO VIOLA MANIFESTAMENTE A ORDEM JURÍDICA - ART. 966, CPC/2015 - AUXÍLIO INVALIDEZ - POLICIAL MILITAR - BENEFÍCIO DECLARADO INCONSTITUCIONAL APÓS O TRÂNSITO EM JULGADO DO ACÓRDÃO - INTERPRETAÇÃO CONTROVERTIDA À ÉPOCA - MANUTENÇÃO DO INDEFERIMENTO DO PEDIDO DE TUTELA ANTECIPADA. Não tendo sido demonstrados os requisitos objetivos para o deferimento da tutela antecipada (Art. 300, CPC/2015), mormente porque o acórdão rescindendo decidiu de acordo com a orientação jurisprudencial vigente à época, impõe-se a manutenção da decisão agravada.
+Rejeitados os aclaratórios (e-STJ fls. 205/255).
+Nas suas razões, o (a) recorrente aponta, além de divergência jurisprudencial, violação dos arts. 966, V; e 975, ambos do CPC/2015
+Contrarrazões às e-STJ fls. 274/281.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Estabelecida tal premissa, observo que a contrariedade ao preceito legal mencionado no apelo extremo não foi alvo de debate no julgado impugnado, nem objeto de embargos de declaração opostos na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice da Súmula 282 do STF.
+De fato, a Corte estadual, no aresto recorrido, examinou a presença dos requisitos do art. 300 do CPC/2015 e entendeu o seguinte (e-STJ fl. 206):
+No caso vertente, após reexame dos documentos juntados na ação rescisória, em cognição sumária inerente à espécie, constata-se que não estão presentes os requisitos legais para concessão da tutela de urgência pretendida.
+É pacífica a jurisprudência desta Corte Superior acerca da impossibilidade de reexame da presença dos pressupostos para a concessão ou negativa da tutela antecipada no âmbito do recurso especial, seja em face do óbice da Súmula 7 do STJ, seja em razão da natureza perfunctória do provimento, que não representa manifestação definitiva da Corte de origem sobre o mérito da questão, o que atrai a incidência analógica da Súmula 735 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IPVA. SEGURO OBRIGATÓRIO E TAXA DE LICENCIAMENTO. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. COMUNICAÇÃO AO ÓRGÃO DE TRÂNSITO POSTERIORMENTE À OCORRÊNCIA DOS FATOS GERADORES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ANÁLISE DOS REQUISITOS. IMPOSSIBILIDADE. SÚMULAS 735/STF E 7/STJ.
+1. A Corte regional, soberana na análise das circunstâncias fáticas e probatórias da causa, concluiu que, em cognição sumária, a cobrança dirigida contra o responsável tributário, no caso dos autos, é legítima.
+2. O STJ possui o entendimento de ser incabível, via de regra, Recurso Especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+3. Consigne-se, ademais, que a análise do preenchimento dos requisitos autorizadores da concessão da medida liminar reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1706944/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+Acerca do tema, conferir ainda: AgInt no REsp 1554028/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/06/2016, DJe 24/06/2016; AgRg no AREsp 609.001/RN, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015; e AgRg no AREsp 714.049/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/04/2016, DJe 13/04/2016.
+O emprego daquele verbete quando do exame do recurso especial pela alínea "a" do permissivo constitucional prejudica a análise da divergência jurisprudencial suscitada (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se.
+Intimem-se.
