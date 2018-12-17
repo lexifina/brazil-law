@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS E FORNECIMENTO DE MATERIAIS. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição, obscuridade ou erro material no aresto recorrido, não se verifica a ofensa ao art. 1.022 do Código de Processo Civil de 2015.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por DELLA GIUSTINA S/A INDÚSTRIA E COMÉRCIO contra decisão de fls. 995/997 que conheceu do agravo em recurso especial para negar provimento ao recurso especial, com fundamento na ausência de violação aos arts. 489, II, e 1.022 do CPC/2015.
+Alega a agravante, em síntese, que: (a) a decisão do Tribunal a quo é insuficientemente fundamentada, pois, apesar de opostos os embargos, as omissões não foram sanadas; e (b) não houve expressa manifestação sobre determinados fundamentos no que se refere à existência de alguns fatos que não constaram no acórdão, como itens do contrato referentes a valores a serem apurados em liquidação de sentença e que alguns itens nem sequer foram impugnados pela parte agravada em contestação (e-STJ, fls. 1.001/1.012).
+Não foi apresentada impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Em que pese a irresignação da parte agravante, não se observa a mencionada violação aos arts. 489, II, e 1.022 do CPC/2015, considerando que o Tribunal de origem, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente e decidiu integralmente a controvérsia, especialmente quanto às supostas omissões suscitadas pela parte agravante, no que diz respeito aos valores que deveriam ser incluídos na condenação e à necessidade de liquidação desta.
+Nesse sentido é o acórdão proferido pela Corte de origem no julgamento dos embargos declaratórios, in verbis:
+"No mais, entretanto, a intenção da autora/embargante é de ajustar a decisão ao seu entendimento e às suas pretensões, alargando a condenação que, entretanto, deve ficar restrita aos valores atinentes às alterações contratuais, nos exatos termos constantes no dispositivo do aresto, in verbis:
+"À luz do exposto, conheço do recurso interposto e dou-lhe parcial provimento tão-somente para condenar a ré, Construtora Nunes Ltda., a ressarcir à autora, [NOME] S/A, (a) os valores concernentes à diferença da execução da armação do foyere sanitários do cinema em madeira, quando o projeto original previa que o fizesse em metal, e (b) à importância alusiva à execução da estrutura da parede divisória dos cinemas, tal como constava no projeto original, ambas a serem apuradas em liquidação".
+Por certo, se a parte não concorda com a decisão exposta no acórdão, deve manifestar seu inconformismo pela via recursal própria, pois os aclaratórios não são próprios à rediscussão da matéria.
+(..)
+O mesmo deve ser dito com relação à liquidação da condenação, a qual se faz necessária mesmo ante a ausência de impugnação da ré à documentação unilateralmente produzida pela autora, haja vista a necessidade de apuração do custo relativo à execução da parede divisória do cinema conforme previa o projeto original, sendo esse valor - e não o efetivamente desembolsado pela ora embargante e anotado no escrito inserto à fl. 197 - que deverá ser-lhe creditado." (e-STJ, fls. 932/933)
+Desse modo, inexiste omissão ou deficiência de fundamentação no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. FALTA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária sob o enfoque dos arts.
+884 e 885 do CC, e não opostos embargos de declaração a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n.
+282 e 356 da Súmula do Supremo Tribunal Federal.
+3. O Tribunal de origem consigna a correção dos parâmetros adotados pelo juízo singular para a realização dos cálculos relativos ao montante objeto da fase de cumprimento de sentença. A reforma do aresto, neste aspecto, demanda inegável necessidade de interpretação de cláusula contratual e de reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+4. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+5. Agravo interno não provido." (AgInt no AREsp 1.324.931/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/10/2018, DJe de 08/10/2018, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO ORDINÁRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 E AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA DE DÉBITO. AÇÃO REVISIONAL NÃO IMPEDE O TRANSCURSO DO PRAZO PRESCRICIONAL. SÚMULA 380/STJ. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação dos arts. 489, § 1º, e 1.022 do CPC/2015, pois não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+2. Segundo a jurisprudência desta Corte Superior, a ação revisional não exclui a mora do devedor (Súmula 380/STJ), bem como não possui o condão de interromper o prazo prescricional da ação executiva, tendo em vista que a revisional não impede que o credor busque a satisfação do seu crédito.
+3. Agravo interno desprovido." (AgInt no AREsp 1.305.630/MA, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 18/09/2018, DJe de 21/09/2018, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV e 1.022, I e II, do Código de Processo Civil
+2. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento." (AgInt nos EDcl no AREsp 1.199.954/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/09/2018, DJe de 25/09/2018, g.n.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
