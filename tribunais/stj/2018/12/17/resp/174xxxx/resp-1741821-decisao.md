@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. REENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, assim ementado (fl. 186):
+ADMINISTRATIVO. PROCESSO CIVIL. MUNICÍPIO DE BELO HORIZONTE. SERVIDOR PÚBLICO MUNICIPAL EFETIVO. PROGRESSÃO HORIZONTAL. REQUISITOS. AVALIAÇÃO DE DESEMPENHO. PRESCRIÇÃO DO FUNDO DE DIREITO. CARACTERIZAÇÃO. SENTENÇA REFORMADA.
+- A prescrição do fundo de direito deve ser acolhida quando ficar caracterizado a fluência de mais de cinco anos entre a prática de um ato fundamental no que concerne à situação do autor: na carreira - reestruturação feita pela LM nº 7.235/95 - e o ajuizamento de ação ordinária direcionada a regularizar suas progressões.
+Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+Preliminarmente, o recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa ao artigo 3º do Decreto 20.910/32, ao argumento de que o direito à progressão profissional automática por inércia da administração trata-se de obrigação de trato sucessivo, sendo que prescrevem somente as parcelas anteriores aos 05 (cinco) anos da propositura da ação.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 268-272.
+É o relatório. Passo a decidir.
+A presente irresignação não merece prosperar.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Noutro giro, registrou o Tribunal de origem que (fls. 187-193):
+ ..
+Inicialmente, saliento que, em ocasiões anteriores em caso análogos, rejeitava a alegação de prescrição do fundo de direito, por entender que a hipótese era de mera prescrição quinquenal conforme estabelecido na Súmula n. 85, do STJ, conforme se deu ao julgar as Apelações Cíveis n. 1.0024.12.170217-9/001, 1.0024.12.206065-0/001 e 1.0024.11.277116-7/001, dentre outras, de minha relatoria.
+Isso porque, segundo o argumentado nas peças de ingresso em caso similares, a parte autora argumenta que teria direito a uma progressão horizontal em 01.07.1997 ante a inércia do réu em promover a avaliação de desempenho no prazo do art. 96, da Lei Municipal n. 7.169/96, bem como as correções nas datas das progressões por mérito subsequentes.
+Por isso, entendia que era caso de prescrição simples por ser um ato omissivo da Administração Pública.
+No entanto, reputo ser necessário rever esse entendimento, pois, após reexaminar a questão, conclui que não se trata de hipótese de ato omissivo ou inércia da Municipalidade, mas, sim, de uma sequência de atos únicos com efeitos concretos, pois o autor, primeiro, foi enquadrado/posicionado no Plano de Carreira da Lei n. 7.235/1996, e, depois, reenquadrado, em 28.06.2000, por mérito, porém de forma automática (f. 18).
+No caso em comento, a autora é servidora pública municipal efetiva e ocupante do cargo de Professora Municipal desde 25.03.1976 (f. 18).
+A Lei Municipal n. 7.169, de 30.08.1996 - que instituiu o Estatuto dos Servidores Públicos do Quadro Geral de Pessoal do Município de Belo Horizonte vinculados à Administração Direta",, náquilo que interessa ao caso, dispôs:
+ ..
+Por seu turno, a Lei Municipal n. 7.235, de 27.12.1996, criou o Plano de Carreira dos Servidores da Educação - na qual se insere a parte autora -, reestruturando a carreira com a criação de tabelas de cargos e vencimentos, incorporação de vantagens, previsão de avaliação do servidor, progressões profissionais, etc., com aumento real.
+ ..
+Aplicando-se o acima exposto ao caso concreto, e considerando o teor do Histórico de Progressão Profissional da parte autora (f. 18), verifica-se que a requerente, por ter exercido a opção prevista no art. 271, da LM n. 7.169/1996, e art. 1º, § 1º, da LM n. 7.235/1996, teve o seu emprego público transformado em cargo público, ocasião na qual foi enquadrado ou posicionado na Letra G - Nível 13 (f. 18).
+Esse é, pois, o primeiro ato único de efeito concreto a ser considerado no caso concreto.
+E, ante a inércia da Municipalidade em promover a avaliação de desempenho no prazo assinalado no art. 96, da LM n. 7.169/1996, a Administração Pública promoveu a progressão automática do apelante em 28.06.2000, ocasião na qual ele foi reenquadrado ou reposicionado no Nível 14 (f. 18).
+Esse é, por conseguinte, o segundo ato único de efeito concreto a ser considerado na espécie.
+Logo, se a parte autora entende que a sua primeira progressão, após as citadas Leis, deveria ter ocorrido em 01.07.1997, e não em 28.06.2000, o termo inicial para se insurgir contra esse suposto equívoco ou atraso na concessão da benesse é da data em que se deu o reenquadramento, repita-se, em 28.06.2000.
+Foi nesse momento que a parte autora teve ciência inequívoca da progressão automática, e foi a partir dessa ocasião que ela deveria ter se insurgido contra o equívoco, ainda que o fundamento fosse o atraso em conceder a progressão automática.
+Logo, como já se passaram mais de 5 anos entre o posicionamento automático ocorrido em 2000 - frise-se, que o autor entende tardio, pois deveria ter sido em 1997 -, ou, ainda, do primeiro ato de enquadramento com a vigência da LM n. 7.235/1996 - quando teve o seu emprego público transformado em cargo público -, e o aforamento desta demanda em 2013, é forçoso concluir pela caracterização da prescrição do fundo de direito, nos termos do art. 1º, do Decreto n. 20.910/32.
+ ..
+Do que se observa, o acórdão recorrido está em consonância com a jurisprudência do STJ, a qual firmou entendimento no sentido de que a prescrição da pretensão de enquadramento atinge o próprio fundo de direito, na medida que constitui ato único de efeitos concretos.
+Nesse sentido, confiram-se os seguintes precedentes (grifos nossos):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. INTERPOSIÇÃO DE DOIS AGRAVOS PELA MESMA PARTE. NÃO CONHECIMENTO DO SEGUNDO REGIMENTAL. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. RECLASSIFICAÇÃO. ANALISTA E TÉCNICO DE PLANEJAMENTO. SUDENE. LEI 5.645/1970. PRESCRIÇÃO DO FUNDO DO DIREITO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. ACÓRDÃO RECORRIDO QUE ENTENDE PELA EXISTÊNCIA DE ATO ADMINISTRATIVO CONCRETO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. "O Superior Tribunal de Justiça consolidou entendimento no sentido de que o enquadramento ou reenquadramento de servidor público constitui ato único de efeitos concretos que não caracteriza relação de trato sucessivo, de modo que a prescrição incide sobre o próprio fundo de direito" (AgRg no REsp 1360762/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 03/09/2013, DJe 25/09/2013). Incidência da Súmula 83/STJ.
+3. Tendo o Tribunal de origem reconhecido a prescrição da pretensão autoral em razão da existência de ato administrativo único e concreto que excluiu os agravantes do reposicionamento de cargos, afastando, desta forma, a existência de ato omissivo, não compete ao STJ rever tal entendimento na via do recurso especial, por força da Súmula 7/STJ.
+4. Primeiro agravo regimental não provido. Segundo agravo regimental não conhecido. (AgRg no AREsp 541.143/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 01/09/2014)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. APOSENTADORIA. REENQUADRAMENTO. ATO ADMINISTRATIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES DO STJ. SUSPENSÃO DO PRAZO PRESCRICIONAL. SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça consolidou entendimento no sentido de que o enquadramento ou reenquadramento de servidor público constitui ato único de efeitos concretos que não caracteriza relação de trato sucessivo, de modo que a prescrição incide sobre o próprio fundo de direito (AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/09/2013, DJe 25/09/2013).
+2. A desconstituição da premissa lançada pelo acórdão proferido em sede aclaratória, segundo a qual não restou demonstrada a existência de procedimento administrativo apto a suspender a contagem do prazo prescricional, exigiria a incursão no acervo fático-probatório constante dos autos, providência vedada em recurso especial a teor da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 478.263/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 08/04/2014)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
