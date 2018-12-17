@@ -1,0 +1,44 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. LEGITIMIDADE DO PROPRIETÁRIO DO IMÓVEL PARA FIGURAR NA RELAÇÃO JURÍDICA PROCESSUAL. COBRANÇA DE IPTU.
+1. A controvérsia sub examine versa sobre a possibilidade de ajuizamento de execução fiscal para cobrança de IPTU contra o proprietário do imóvel na hipótese de existência de compromisso de compra e venda.
+2. A orientação desta Corte Superior, firmada em recurso repetitivo, é no sentido de que o art. 34 do CTN considera contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título. Assim, "tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU." (REsp 1.111.202/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 10/6/2009, DJe 18/6/2009).
+3. De igual forma, o STJ já definiu que "ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN. Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ 27.9.2004).
+4. À época do fato gerador a executada era a proprietária do imóvel objeto de compromisso de compra e venda, e a lei municipal prevê a responsabilidade solidária do promitente vendedor e do compromissário comprador pelo pagamento do IPTU. Sendo assim, aplica-se ao caso a Súmula 399/STJ e a jurisprudência do STJ que admite a legitimidade passiva do promitente vendedor de imóvel para responder pelo pagamento do IPTU, na hipótese de compromisso de compra e venda.
+5. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Francisco Falcão e Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República Federativa do Brasil) contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 180, e-STJ):
+Agravo de instrumento. Execução fiscal. Imposto territorial urbano. Exercícios de 2001 e 2002. Rejeição de objeção de não executividade. Ilegitimidade passiva. Configuração. Compromisso de compra e venda do imóvel relacionado com a cobrança celebrado em maio de 2000. Falta de registro. Irrelevância. Transferência da posse. Sujeição passiva do compromissário comprador. Inteligência do estatuído no artigo 34 do Código Tributário Nacional. Possibilidade de substituir o título executivo. Hipótese de sucessão tributária. Concessão de prazo ao exequente. Inteligência do artigo 2o, § 8o, da Lei 6.830/80. Recurso provido.
+Não houve interposição de Embargos de Declaração.
+O recorrente alega divergência jurisprudencial e violação ao art. 34 do CTN. Afirma que a recorrida possui legitimidade passiva para constar no polo passivo da Ação de Execução Fiscal (fl. 192, e-STJ).
+Aduz que o REsp 1.111.202/SP, julgado no rito dos Recursos Repetitivos, assentou a tese de que o compromissário comprador e o vendedor possuem legitimidade passiva na relação processual (fl. 192, e-STJ).
+Contrarrazões apresentadas às fls. 240-251, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste em 8.10.2018.
+O recurso merece conhecimento.
+A controvérsia sub examine versa sobre a possibilidade de ajuizamento de execução fiscal para cobrança de IPTU contra o proprietário do imóvel na hipótese de existência de compromisso de compra e venda.
+O Tribunal bandeirante consignou:
+A objetante apresentou cópia de compromisso de venda e compra do imóvel relacionado com a exação celebrado em 25 de maio de 2000 (folhas 73/85). Assim, inexorável que se afaste a responsabilidade daquela pelo pagamento do crédito, pois à época do respectivo lançamento já não era possuidora do bem (artigo 34 do Código Tributário Nacional).
+A alienação, com transferência da posse, arreda a responsabilidade da alienante pelos débitos relativos ao imóvel.
+A orientação desta Corte Superior, firmada em recurso repetitivo, é no sentido de que o art. 34 do CTN considera contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título. Assim, "tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU." (REsp 1.111.202/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 10/6/2009, DJe 18/6/2009). No mesmo sentido: RESP n.º 979.970/SP, Rel. Min. Luiz Fux, Primeira Turma, DJ de 18.6.2008; AgRg no REsp 1022614 / SP, Rel. Min. Humberto Martins, Segunda Turma, DJ de 17.4.2008; REsp 712.998/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJ 8.2.2008 ; REsp 759.279/RJ, Rel. Min. João Otávio de Noronha, Segunda Turma, DJ de 11.9.2007; REsp 868.826/RJ, Rel. Min. Castro Meira, Segunda Turma, DJ 1º.8.2007; REsp 793073/RS, Rel. Min. Castro Meira, Segunda Turma, DJ 20.2.2006.
+De igual forma, o STJ já definiu que "ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN. Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ 27.9.2004).
+In specie, à época do fato gerador, a executada era a proprietária do imóvel objeto de compromisso de compra e venda, e a lei municipal prevê a responsabilidade solidária do promitente vendedor e do compromissário comprador pelo pagamento do IPTU.
+Sendo assim, aplica-se ao caso a Súmula 399/STJ e a jurisprudência do STJ que admite a legitimidade passiva do promitente vendedor de imóvel para responder pelo pagamento do IPTU, na hipótese de compromisso de compra e venda. Transcreve-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DO COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS. LEGITIMIDADE PASSIVA. PROMITENTE COMPRADOR DO IMÓVEL. PAGAMENTO DO IPTU.
+1. Não se configurou a ofensa ao art. 535, I e II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Com relação à violação das Súmulas, o STJ possui entendimento de que Súmula não se enquadra no conceito de lei federal, o que inviabiliza sua discussão na via excepcional.
+3. Cinge-se a controvérsia a definir se o promitente vendedor de imóvel tem legitimidade para figurar como sujeito passivo do IPTU, na hipótese de compromisso de compra e venda devidamente registrado em cartório.
+4. A questão enfrentada pelo Tribunal a quo refere-se à sujeição passiva do IPTU, à luz do art. 34 do CTN. Depois do julgamento do Resp. 1.111.202/SP, relator Min. Mauro Campbell Marques, DJe 18.6.2009, julgado pelo rito dos Recursos Repetitivos, pacificou-se o entendimento de que tanto o promitente vendedor como o promitente comprador do imóvel são contribuintes responsáveis pelo pagamento do IPTU.
+5. Recurso Especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1.576.319/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/5/2016).
+ROCESSUAL CIVIL. TRIBUTÁRIO. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+1 . Cinge-se a controvérsia a definir se o promitente vendedor de imóvel tem legitimidade para figurar como sujeito passivo do IPTU, na hipótese de compromisso de compra e venda devidamente registrado em cartório.
+2. No REsp 1110551/SP e no REsp 1111202/SP, julgados pelo do art.
+543-C do CPC, reafirmou-se o posicionamento da jurisprudência do Superior Tribunal de Justiça no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1.519.072/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 2/2/2016)
+Ante o exposto, dou provimento ao Recurso Especial, invertendo os ônus da sucumbência.
+É como voto.
