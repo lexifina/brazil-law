@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA ATIVIDADE ESPECIAL. ALEGADO CERCEAMENTO DE DEFESA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ALTERAÇÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A legislação processual civil consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento, à luz das provas que entender aplicáveis ao caso concreto constantes dos autos.
+2. A modificação do acórdão recorrido depende de reexame do contexto fático-probatório dos autos, tanto no que se refere ao preenchimento dos requisitos para concessão dos benefícios pleiteados, quanto no que diz respeito à necessidade e à suficiência ou não das provas de que se serviu a Corte de origem para julgar o feito. Incidência da Súmula 7/STJ.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA. DECADÊNCIA. INOCORRÊNCIA. MÉRITO. REVISÃO. ATIVIDADE ESPECIAL. FARMACÊUTICO. AGENTES BIOLÓGICOS. EVENTUALIDADE. BURACO NEGRO. SUCUMBÊNCIA. RECURSO CONHECIDO E PROVIDO PARA RECONSIDERAR A DECISÃO ATACADA. APELAÇÃO IMPROVIDA.
+- Não se operou a decadência na situação em tela, pois, inobstante o requerimento de aposentadoria formulado em março de 1989, houve pedido administrativo de revisão em fevereiro de 2007, cf. IN INSS/PRES. 77, de 21/1/2015.
+- Não socorre ao agravante a alegação de cerceamento de defesa, pois é o que detém os ônus de comprovar a veracidade dos fatos constitutivos de seu direito, por meio de prova suficiente e segura, nos termos do art. 333 do CPC/73 (atual artigo 373,1, do NCPC).
+- O tempo de trabalho sob condições especiais poderá ser convertido em comum, observada a legislação aplicada à época na qual o trabalho foi prestado. Além disso, os trabalhadores assim enquadrados poderão fazer a conversão dos anos trabalhados a "qualquer tempo", independentemente do preenchimento dos requisitos necessários à concessão da aposentadoria.
+- Enquadramento apenas pela categoria tão-somente até 28/4/1995 (Lei n. 9.032/95). Nesse sentido: STJ, Aglnt no AREsp 894.266/SP, Rel. Min. HERMAN BENJAMIN, 2ª T, julgado em 6/10/2016, DJe 17/10/2016.
+- A exposição superior a 80 decibéis era considerada atividade insalubre até a edição do Decreto n. 2.172/97, que majorou o nível para 90 decibéis. Com a edição do Decreto n. 4.882, de 18/13/2003, o limite mínimo de ruído para reconhecimento da atividade especial foi reduzido para 85 decibéis, sem possibilidade de retroação ao regulamento de 1997. Nesse sentido: Recurso Especial n. 1.398.260, sob o regime do artigo 543-C do CPC, do C. STJ.
+- Sobre o uso de EPI, o C. Supremo Tribunal Federai, ao apreciar o ARE n. 664.335, em regime de repercussão geral, decidiu que: (i) se o EPI for realmente capaz de neutralizar a nocividade, não haverá respaldo ao enquadramento especial; (ii) havendo, no caso concreto, divergência ou dúvida sobre a real eficácia do EPI para descaracterizar completamente a nocividade, deve-se optar pelo reconhecimento da especialidade; (iii) na hipótese de exposição do trabalhador a ruído acima dos limites de tolerância, a utilização do EPI não afasta a nocividade do agente.
+- Sublinhe-se o fato de que o campo "EPI Eficaz (S/N)" constante no Perfil Profissiográfico Previdenciário (PPP) é preenchido pelo empregador considerando-se, tão somente, se houve ou não atenuação dos fatores de risco, consoante determinam as respectivas instruções de preenchimento previstas nas normas regulamentares. Vale dizer: essa informação não se refere à real eficácia do EPI para descaracterizar a nocividade do agente.
+- O agravante reivindica o enquadramento do período laborado nas funções de farmacêutico, no qual permaneceu sujeito a agentes biológicos provenientes das "injeções e curativos aplicados em pessoas portadoras de enfermidades".
+- De acordo com o anexo ao Decreto n. 83.080/79, para caracterização do agente biológico, haveria a parte autora de executar "trabalhos permanentes em contato com produtos de animais infectados, carnes, vísceras, glândulas, sangue, ossos e materiais infecto-contagiantes" - atividades típicas dos profissionais da saúde como médicos, veterinários, enfermeiros, técnicos de laboratório, dentistas e biologistas -, o que não é o caso dos. autos, pois a ocupação de farmacêutico não é a mesma que a de enfermeiro.
+- Para caracterização da exposição a agentes agressivos, mister o atendimento dos requisitos habitualidade e permanência, não sendo o caso do farmacêutico (auxiliar e oficial de farmácia). Eventualidade no contato com
+portadores de moléstias e secreções. Precedentes.
+- A parte autora deixou de carrear elementos elucidativos suficientes a patentear o labor especial durante o período de 1/1/1962 a 1/1/1972, com habitualidade e permanência, de modo que improcede sua pretensão exordial.
+- Não prospera o pleito de revisão do benefício nos termos do art. 144 da Lei 8.213/91, porquanto já realizada, conforme demonstrativo de fs.
+- Agravo interno conhecido e provido para reconsiderar a decisão atacada e afastar a decadência.
+- Apelação improvida.
+Os Embargos de Declaração opostos foram desprovidos.
+Nas razões do apelo especial, o recorrente alega violação do art. 369 do CPC/2015. Argumenta, em suma:
+(..), ao contrario dos argumentos utilizados, não restam dúvidas quanto a ocorrência de atitude cerceadora perpetrada pela decisão ora atacada, pois a realização perícia judicial em empresa similar constituía a única prova apta a demonstrar o caráter insalubre das atividades desempenhadas pelo Recorrente como Oficial de farmácia, uma vez que a empresa na qual o labor foi exercido nao mais existe.
+E de acordo com o artigo 369 da Lei nº 13 105/2015, é direito da parte produzir as provas legalmente admitidas a fim de demonstrar o adimplemento dos requisitos ensejadores do seu direito material almejado.
+(..)
+E no caso em tela, conforme já narrado neste recurso, a prova pericial indireta seria a única maneira do recorrente demonstrar que laborou em condições especiais, a fim de obter êxito no pleito de revisão do seu benefício previdenciário, cuja renda sofreria considerável reajuste com a majoração do tempo de contribuição em decorrência do labor insalubre (fl.1.126, e-STJ).
+Sem contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 15 de outubro de 2018.
+Não merece prosperar a irresignação.
+No que diz respeito ao alegado cerceamento de defesa, nota-se que o Tribunal de origem, a quem incumbe a análise de matéria fático-probatória, concluiu pela desnecessidade da realização de prova pericial, sob os seguintes fundamentos:
+De início, não lhe socorre a alegação de cerceamento de defesa, pois é o que detém os ônus de comprovar a veracidade dos fatos constitutivos de seu direito, por meio de prova suficiente e segura, nos termos do art. 333 do CPC/73 (atual artigo 373,1, do NCPC).
+Nesse aspecto, à demonstração da natureza especial do labor desenvolvido no lapso afastado, deveria a parle suplicante ter carreado documentos aptos certificadores das condições insalubres em que permaneceu exposta, com habitualidade e permanência, cabendo ao magistrado, em caso de dúvida fundada, o deferimento de prova pericial para confrontação do material reunido à exordial.
+Assim, à míngua de prova documental descritiva das condições insalubres no ambiente laborai do obreiro, despicienda a produção de prova pericial ao deslinde da causa, não se configurando cerceamento de defesa ou violação de ordem constitucional ou legal (fl. 1.092, e-STJ).
+O art. 370 do CPC/2015 (art. 130 do CPC/1973) consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento, à luz das provas constantes dos autos que entender aplicáveis ao caso concreto. Não obstante, a aferição acerca da necessidade de produção de prova pericial impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, ante o óbice erigido pela Súmula 7/STJ.
+Desse modo, não há como aferir eventual ofensa aos arts. 369 e 480, § 2º, do CPC/2015, sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+Nessa linha:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE ESPECIAL NÃO RECONHECIDA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. SÚMULA 284/STF. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ.
+1. (..)
+2. Quanto à alegação de cerceamento de defesa, o STJ possui entendimento consolidado de que compete às vias ordinárias aferir a necessidade ou não de realização de provas, pois é faculdade conferida ao livre convencimento do juiz, que, diante dos fatos da causa, decide a respeito. Para se alterar as conclusões das instâncias inferiores, impõe-se o reexame do conjunto fático-probatório dos autos, providência inviável em face do óbice da Súmula 7/STJ. Precedentes.
+3. Se o Tribunal de origem expressamente consignou que a especialidade da atividade exercida pelo recorrente não ficou comprovada nos períodos alegados, incabível, em sede de recurso especial, a análise das alegações do recorrente para que seja verificado o preenchimento dos requisitos legais para concessão da aposentadoria pleiteada devido ao óbice da Súmula 7/STJ.
+4. Relativamente à alínea "c", além da incidência da Súmula 7/STJ já impedir a análise da divergência jurisprudencial, a falta de indicação do dispositivo legal sobre o qual o Tribunal a quo teria dado interpretação divergente também impede a análise do recurso.
+Precedente da Corte Especial (REsp 1.346.588/DF, Rel. Min. Arnaldo Esteves Lima, DJe do dia 14/3/2014.).
+5.(..)
+Agravo regimental improvido.
+(AgRg no AREsp 824.609/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/02/2016, DJe 17/03/2016) (Grifei).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
