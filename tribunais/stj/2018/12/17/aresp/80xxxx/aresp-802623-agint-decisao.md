@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 193/198) interposto contra decisão desta relatoria que negou provimento ao agravo em recurso especial em virtude da Súmula n. 83/STJ, no que diz respeito à prescrição intercorrente.
+Em suas razões, o agravante sustentou que "não houve determinação para diligenciar o processo, ou demonstrar interesse no feito, muito menos sob pena de extinção" (e-STJ fl. 195).
+Ao final, pediu a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+O agravado não apresentou contrarrazões (e-STJ fl. 202).
+É o relatório.
+Decido.
+A insurgência merece parcial acolhida.
+Em razão da divergência interpretativa entre as TURMAS que compõem a SEGUNDA SEÇÃO do STJ, foi instaurado incidente de assunção de competência (IAC n. 1) no REsp n. 1.604.412/SC (Relator Ministro MARCO AURÉLIO BELLIZZE), nos termos dos artigos 947, § 4º, do CPC/2015, e 271-B do RISTJ, com o objetivo de uniformizar o entendimento acerca dos seguintes temas: (i) cabimento de prescrição intercorrente, nos processos anteriores ao atual CPC, e eventual imprescindibilidade de intimação prévia do credor, (ii) necessidade de oportunidade para o autor dar andamento ao processo paralisado por prazo superior àquele previsto para a prescrição da pretensão veiculada na demanda.
+No julgamento do IAC foram fixadas as seguintes teses:
+1.1. Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2. O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3. O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+Na espécie, a Corte de origem manteve a sentença que havia julgado extinta a execução em virtude da prescrição intercorrente, nos seguintes termos (e-STJ fls. 142/144 - grifei):
+De fato, embora o art. 791, III, do CPC, não fixe termo final para a suspensão decorrente da falta de bens penhoráveis, tal não significa que essa situação possa perdurar ad eternum.
+Com efeito, como bem afirma [NOME] acerca da presente questão, "a suspensão indefinida se afigura ilegal e gravosa, porque expõe o executado, cuja responsabilidade se cifra ao patrimônio (art. 591), aos efeitos permanentes da litispendência.. Por conseguinte, inexistindo bens utilmente penhoráveis, o processo executivo remanescerá suspenso por 6 meses, após o que se extinguirá" (Manual do Processo de Execução, 5a edição, Editora Revista dos Tribunais, fl. 942).
+No caso dos autos, a exequente já tem ciência da ausência de bens penhoráveis há mais de um ano, sem que nesse prazo tenha indicado qualquer outro bem do devedor. Destarte, é evidente a falta de interesse no prosseguimento da presente ação, ante a manifesta inexistência de sua utilidade.
+Afirma a apelante à necessidade de nulidade do decisum, que não merece prosperar, visto que o § 5º, do art. 219, do CPC impõe ao juiz o reconhecimento ex officio da prescrição.
+A partir do advento da lei 11.280 2006, que alterou o dispositivo supracitado, a orientação é que seja decretada de ofício a prescrição. As normas de cunho processual têm aplicação imediata, mesmo nos processos que se encontrarem em andamento quando de sua entrada em vigor. Discorreu o Min. Humberto Martins em um de seus votos que: "Tratando-se norma de natureza processual, tem aplicação imediata, alcançando, inclusive os processos em curso, cabendo à execução decidir a respeito da sua, incidência, por analogia à hipótese dos autos" (814696. RS 1a Turma. REL. Min Teori Albino Zavaski. 10.04 2006).
+No caso em testilha aplica-se a regra do art 202 Paragrafo Único e art. 206 § 5o "in verbis":
+Art. 202. A interrupção da prescrição, que somente poderá ocorrer uma vez, dar-se-á:
+Parágrafo único. A prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo para a interromper
+DECRETO Nº 57.663 DE 24 DE JANEIRO DE 1966
+Art. 70 - Todas as ações contra ao aceitante relativas a letras prescrevem em três anos a contar do seu vencimento.
+No caso dos autos, o último ato do processo para a contagem da prescrição intercorrente ocorreu em 16.08.2001 fl 39, restando assim ultrapassado o prazo de 03 anos.
+Desta feita, a decisão foi proferida em 15.12.2011 após a entrada em vigor da lei 11.280.06 revelando, portanto irretocável.
+Conforme exposto anteriormente, no julgamento do IAC n. 1, ficou estabelecido que "o contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição" (REsp n. 1.604.412/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe 22/8/2018).
+De fato, nos termos do voto condutor do referido precedente, antes de se reconhecer a prescrição, deve haver intimação da parte interessada, não para dar andamento ao feito, mas para assegurar-lhe oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos.
+No presente caso, faz-se necessário a abertura de prazo para exercício do contraditório.
+Ante o exposto, RECONSIDERO a decisão agravada para CONHECER do agravo e DAR PARCIAL PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido e determinar que o recurso interposto na origem seja novamente apreciado, após abertura de prazo, para que a parte possa apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição.
+Publique-se e intimem-se.
