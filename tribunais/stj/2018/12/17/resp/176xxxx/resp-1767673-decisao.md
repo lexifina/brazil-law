@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. MULTA IMPOSTA POR TRIBUNAL DE CONTAS. LEGITIMIDADE ATIVA. Na esteira de precedentes do Colendo Supremo Tribunal Federal e do Colendo Superior Tribunal de Justiça, não possui a Fazenda do Estado legitimidade para demanda por multas impostas pelo Tribunal de Contas do Estado quando elas se referem a sanções decorrentes de infrações que ocasionaram prejuízos ao erário, cabe somente ao ente interessado demandá-la. Execução deve ser extinta. Sentença reformada. Recurso provido.
+Naquela ocasião, foi decidido pela ilegitimidade do Estado de São Paulo para propor a execução já que "imposta sanção em razão da prática de atos que lesionaram o erário municipal, nada mais coerente que o próprio ente prejudicado demande pelo valor" (fl. 406).
+No presente recurso especial, a recorrente aponta violação ao art. 202 do CTN, aos arts. 2º, §§5º e 6º e 16 da Lei 6.830/80 e ao art. 3º do CPC/73.
+Sustenta, em síntese, que o Estado de São Paulo tem legitimidade para propor execução fiscal de multa aplicada pelo Tribunal de Contas do Estado de São Paulo em razão de cometimento de infração com danos a Município, notadamente porquanto a multa não será destinada ao Município que sofreu o dano, mas sim ao Fundo de Despesa Especial do Tribunal de Contas do Estado de São Paulo.
+É o relatório. Decido.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, a legitimidade para a cobrança de crédito referente à multa aplicada a gestor municipal é do ente público que mantém a referida Corte de Contas.
+Nesse sentido destacam-se os seguintes julgados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MULTA APLICADA POR TRIBUNAL DE CONTAS ESTADUAL A GESTOR MUNICIPAL. RECEITA DO ENTE FEDERATIVO A QUE SE VINCULA O ÓRGÃO SANCIONADOR. LEGITIMIDADE DO ESTADO PARA AJUIZAR A COBRANÇA.
+1. A controvérsia diz respeito à titularidade da cobrança de crédito decorrente de multa aplicada a gestor municipal por Tribunal de Contas estadual. O acórdão embargado consignou que a cobrança compete ao próprio município, enquanto o paradigma entende que a legitimidade para a execução é do Estado a que se vincula a Corte de Contas.
+2. Ambas as Turmas da Primeira Seção adotavam o mesmo posicionamento, no sentido do acórdão embargado, até o julgamento do REsp 1.181.122/RS, no qual a Segunda Turma reviu sua jurisprudência.
+3. Devem-se distinguir os casos de imputação de débito/ressarcimento ao Erário - em que se busca a recomposição do dano sofrido, e, portanto, o crédito pertence ao ente público cujo patrimônio foi atingido - dos de aplicação de multa, que, na ausência de disposição legal específica, deve ser revertida em favor do ente a que se vincula o órgão sancionador.
+4. Não foi outra a solução preconizada pelo Tribunal de Contas da União, em cujo âmbito as multas, mesmo que aplicadas a gestores estaduais ou municipais, sempre são recolhidas aos cofres da União.
+5. Este mesmo raciocínio deve ser aplicado aos Tribunais de Contas estaduais, de modo que as multas deverão ser revertidas ao ente público ao qual a Corte está vinculada, mesmo se aplicadas contra gestor municipal.
+6. Dessa forma, a legitimidade para cobrar os créditos referentes a multas aplicadas por Tribunal de Contas é do ente público que mantém a referida Corte - na espécie, o Estado do Rio Grande do Sul -, por intermédio de sua Procuradoria.
+7. Embargos de Divergência providos.
+(EAg 1138822/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 13/12/2010, DJe 01/03/2011)
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. MULTA APLICADA POR TRIBUNAL DE CONTAS DO ESTADO. GESTOR MUNICIPAL. EXECUÇÃO. LEGITIMIDADE DO ESTADO. RECURSO NÃO PROVIDO.
+1. Não se conhece da suscitada afronta ao art. 535 do CPC/1973 quando o recorrente deixa de especificar quais as omissões contidas no aresto combatido. Incidência da Súmula 284/STF.
+2. Tratando-se de multa aplicada pelo Tribunal de Contas do Estado a gestor municipal, a jurisprudência do STJ possui entendimento de que a legitimidade para a cobrança desse crédito é do respectivo ente público que mantém a referida Corte, no caso o Estado de São Paulo, por meio de sua Procuradoria. Nesse sentido: EAg 1.138.822/RS, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 13/12/2010, DJe 1º/3/2011; AgInt no REsp 1.628.463/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/5/2017, DJe 24/5/2017; REsp 1.658.236/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2017, DJe 12/5/2017.
+3. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1408622/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO FORMADO NO TRIBUNAL DE CONTAS ESTADUAL EM RAZÃO DE IRREGULARIDADES NA PRESTAÇÃO DE CONTAS DE EX-PREFEITO. LEGITIMIDADE PARA EXECUÇÃO.
+1. As multas aplicadas pelos Tribunais de Contas Estaduais deverão ser revertidas ao ente público com o qual a Corte tenha ligação, mesmo se impostas a gestor municipal. A solução adequada é proporcionar ao próprio ente estatal a que esteja vinculado o Tribunal de Contas a titularidade do crédito decorrente da cominação da multa por ela aplicada no exercício de seu mister. Precedentes do STJ.
+2. A legitimidade para ajuizar a ação de cobrança relativa ao crédito oriundo de multa lançada contra ex-prefeito por Tribunal de Contas é do ente público que mantém o referido Órgão, neste caso o Estado de Minas Gerais.
+3. Recurso Especial provido.
+(REsp 1687904/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, III do RISTJ, dou provimento ao recurso especial para determinar o prosseguimento da execução fiscal ajuizada pelo Estado de São Paulo, diante de sua legitimidade ad causam.
+Publique-se. Intimem-se.
