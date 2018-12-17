@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. ART. 174 DO CTN. § 1º DO ART. 219 DO CPC/1973. SÚMULA Nº 436 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Conforme prescreve a Súmula nº 436 do egrégio Superior Tribunal de Justiça, "a entrega da declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco" (Súmula nº 436/STJ).
+2. Esclareça-se que: "a data da declaração ou a data do vencimento - o que ocorrer por último - é o termo a quo do prazo prescricional para a cobrança do crédito tributário (art. 174 do CTN)" (EDAC 0062080-63.2012.4.01.9199/PA, rel. Desembargadora Federal Maria do Carmo Cardoso, 03/07/2015 e-DJF1 p. 3009).
+3. O egrégio Superior Tribunal de Justiça, em acórdão submetido ao regime do art. 535-C do CPC/1973 (recursos repetitivos), confirmou a orientação no sentido de que: "O prazo prescricional quinquenal para o Fisco exercer a pretensão de cobrança judicial do crédito tributário conta-se da data estipulada como vencimento para o pagamento da obrigação tributária declarada (mediante DCTF, GIA, entre outros), nos casos de tributos sujeitos a lançamento por homologação, em que, não obstante cumprido o dever instrumental de declaração da exação devida, não restou adimplida a obrigação principal (pagamento antecipado), nem sobreveio quaisquer das causas suspensivas da exigibilidade do crédito ou interruptivas do prazo prescricional (Precedentes da Primeira Seção: EREsp 658.138/PR, Rel. Ministro José Delgado, Rel. p/ Acórdão Ministra Eliana Calmon, julgado em 14.10.2009, DJe 09.11.2009; REsp 850.423/SP, Rel. Ministro Castro Meira, julgado em 28.11.2007, DJ 07.02.2008; e AgRg nos EREsp 638.069/SC, Rel. Ministro Teori Al bino Zavascki, julgado em 25.05.2005, DJ 13.06.2005). 2. A prescrição, causa extintiva do crédito tributário, resta assim regulada pelo artigo 174, do Código Tributário Nacional, verbis: "Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva. Parágrafo único. A prescrição se interrompe: I - pela citação pessoal feita ao devedor; I - pelo despacho do juiz que ordenar a citação em execução fiscal; (Redação dada pela Lcp nº 118, de 2005) II - pelo protesto judicial; III - por qualquer ato judicial que constitua em mora o devedor; IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor." (REsp 1120295/SP, Rel. Ministro LUIZ FUX, PRIMEIRA.,, SEÇÃO, julgado em 12/05/2010, DJe 21/05/2010).
+4. In casu, a ação foi proposta em 05/10/2007 para cobrança de crédito tributário originárioide IRPF constituído no seu vencimento em 30/04/2002 (fl. 04), portanto, após transcorrido o prazo prescricional.
+5. Desse modo, não evidenciada a suspensão ou interrupção do prazo prescricional, resta configurada a incidência do referido instituto.
+6. Apelação não provida.
+O valor do débito exequendo era de R$ 29.356,92, em abril de 2007 (fl. 03).
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a recorrente aponta a violação do arts. 1.022 do CPC/2015, sustentando, em resumo, que o Tribunal de origem não se manifestou sobre as questões apresentadas nos embargos declaratórios.
+Indica, ainda, a afronta aos arts. 2º, § 3º, e 8º, § 2º da Lei n. 6.830/1980, sustentando, em resumo, a inocorrência da prescrição do crédito tributário.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 1.022 do CPC/2015 atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido. (AgInt no AREsp n. 962.465/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento. (AgRg no AREsp n. 446.627/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2017, DJe 17/4/2017.)
+Sobre a alegada afronta aos arts. 2º, § 3º, e 8º, § 2º da Lei n. 6.830/1980, o recurso não comporta seguimento.
+Com efeito, as razões recursais apresentadas pela recorrente estão dissociadas dos fundamentos do acórdão recorrido.
+No recurso especial, a recorrente insurge-se quanto aos aspectos constitucionais da prescrição, sob o fundamento da constitucionalização do procedimento executivo, sem demonstrar as razões pelas quais não se teria por ocorrida a prescrição. Por outro lado, no acórdão recorrido, o Tribunal de origem utilizou fundamento fático para afastar a ocorrência da prescrição.
+Dessa forma, tal fundamento - utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo -, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ainda que fosse superado tal óbice, ad argumentandum tantum, verifica-se que o Tribunal de origem afastou a ocorrência da prescrição, assim consignando: "a ação foi proposta em 05/10/2007 para cobrança de crédito tributário originário de IRPF constituído no seu vencimento em 30/04/2002 (fl. 04), portanto, após transcorrido o prazo prescricional. Desse modo, não evidenciada a suspensão ou interrupção do prazo prescricional, resta configurada a incidência da prescrição." (fl. 70).
+Assim, diante dessas premissas, tendo transcorrido o prazo quinquenal entre a constituição do débito tributário e a propositura da execução fiscal, sem que tenham sido apontadas causas interruptivas ou suspensivas, não há razão para se afastar a ocorrência da prescrição, no caso.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
