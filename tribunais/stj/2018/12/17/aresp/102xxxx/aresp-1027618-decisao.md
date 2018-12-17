@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei indicados, (b) aplicação da Súmula n. 7/STJ e (c) falta de comprovação do dissídio jurisprudencial, por inexistência de cotejo analítico (e-STJ fls. 1.053/1.054).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 1.002):
+RECURSO - Agravo retido - Prova - Encerramento de discussão em torno de laudo pericial - Admissibilidade, já que ao Juiz é dado indeferir provas que considere desnecessárias ou inúteis, sendo que a questão, tal como colocada em Juízo, não mais dependia de manifestação do "expert" ou de nova perícia para ser analisada - Agravo não provido. POSSESSÓRIA Manutenção de posse Circunstâncias dos autos que convencem sobre a prática de atos possessórios (uso ou gozo) do autor sobre a coisa e a posterior turbação praticada pelo réu - Ação de manutenção de posse procedente Apelação não provida.
+Nas razões do recurso especial (e-STJ fls. 1.007/1.018), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente sustentou dissídio jurisprudencial e violação dos arts. 332, 437, 438 e 439 do CPC/1973 e 5º, LV, da CF, aduzindo existir cerceamento de defesa, ante a necessidade de repetição da prova pericial requerida, o que seria necessária para constatar o lapso temporal da posse dos recorridos sobre a área litigiosa, bem como para delimitar o imóvel rural postulado por esses.
+Foram apresentadas contrarrazões (e-STJ fls. 1.045/1.051).
+No agravo (e-STJ fls. 1.057/1.070), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.075/1.085).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da Suprema Corte. A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não cabe a esta Corte, em sede de Recurso Especial, examinar violação de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.)
+O Tribunal de origem, soberano na análise do processo cognitivo dos autos, assentou que inexistia a necessidade de repetição da prova pericial, nos termos a seguir (e-STJ fl. 1.003):
+Quanto ao agravo retido, é importanto anotar que consoante o disposto no artigo 130 do Código de Processo Civil, cabe ao Juiz determinar as provas necessárias à instrução do feito, indeferindo as diligências inúteis ou meramente protelatórias. Ele é o destinatário da prova, competindo-lhe avaliar a necessidade de produção de novas provas para seu próprio convencimento e materialização da verdade.
+No presente caso, nada mais havia a ser discutido em torno do laudo pericial, tendo o agravante se limitado a impugnar as conclusões que se mostraram desfavoráveis à sua pretensão.
+Portanto, não se traduz em cerceamento de defesa o encerramento da discussão em torno do laudo pericial quando a questão, tal como colocada em Juízo, não mais dependia de manifestação do "expert" ou de nova perícia para ser analisada.
+Ultrapassar os fundamentos do aresto impugnado, a fim de reconhecer a existência de vícios e de inconsistências no laudo pericial impugnado e, por consequência, determinar a repetição da perícia, nos moldes defendidos no especial, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. Nesse aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+REINTEGRAÇÃO DE POSSE. BENFEITORIAS INDENIZÁVEIS. LAUDO PERICIAL HOMOLOGADO. DECISÃO DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE NULIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem entendeu não existir no processo nenhum elemento que comprovasse que os cálculos do perito estivessem incorretos, razão pela qual homologou o laudo de avaliação de benfeitorias indenizáveis. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 741.519/DF, de minha Relatoria, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AVALIAÇÃO DE BEM IMÓVEL PENHORADO. LAUDO PERICIAL. IMPUGNAÇÃO. ALEGADA NECESSIDADE DE NOVA AVALIAÇÃO. NÃO VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PRECEDENTES. AGRAVO NÃO PROVIDO.
+(..)
+2. In casu, a Corte de origem se pronunciou no sentido da desnecessidade de novo laudo pericial de avaliação dos bens imóveis adjudicados, tendo em vista que não se verifica a ocorrência de nenhuma das situações previstas pelo citado dispositivo legal, o que impossibilita a reavaliação pretendida.
+3. Destarte, "para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que entendeu inexistir fundada dúvida acerca do valor atribuído ao bem e que não se enquadram, na espécie, as hipóteses autorizadoras de nova avaliação, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7 desta Corte" (AgRg no AREsp 240.320/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 4/3/2013) 4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 413.419/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/8/2015, DJe 11/9/2015.)
+Do mesmo modo: AgInt no REsp n. 1.439.779/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/2/2017, DJe 8/2/2017, e REsp n. 1.371.843/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/3/2014, DJe 26/3/2014.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+Segundo assente na jurisprudência das Turmas da Segunda Seção desta Corte Superior, "nos termos dos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (AgInt no REsp n. 1.444.474/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017).
+Na mesma linha: AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.
+De tais ônus o recorrente não se desincumbiu, pois se limitou a transcrever as ementas dos julgados a partir dos quais defendeu a divergência de entendimento jurisprudencial sobre o tema debatido.
+Dessa forma, não bastando tal providência para comprovar o dissídio alegado, é inviável conhecer do recurso no ponto.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
