@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, cuja ementa é a seguinte:
+TRIBUTÁRIO. EXECUÇÃO FISCAL, EXTINÇÃO. SUCUMBÊNCIA, HONORÁRIOS DE ADVOGADO.
+A extinção da execução fiscal por acolhimento pelo Juízo de exceção de executividade (de pré-executividade), ainda que fundada no cancelamento da certidão de dívida ativa operada em data anterior à da interposição da exceção, impõe à exequente fiscal o dever de pagar honorários de advogado aos patronos do executado.
+Precedentes desta Corte.
+Em suas razões, a recorrente sustenta que o Tribunal a quo violou o disposto no art. 19, § 1º, da Lei n. 10.522/2002 e no art. 85 do CPC/2015, que prevê a dispensa do pagamento de honorários quando a União reconhece a procedência do pedido formulado (e-STJ fls. 177/179).
+Contrarrazões foram apresentadas pela JOALHERIA BOIKO LTDA., nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 185/196).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado n. 3 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de execução fiscal extinta após acolhimento de exceção de pré-executividade.
+No primeiro grau de jurisdição, a exceção foi acolhida para extinguir a execução com condenação da FAZENDA PÚBLICA em honorários de sucumbência:
+A presente execução fiscal foi ajuizada em 31.05.2016.
+Quando a execução foi ajuizada estava em vigor o acórdão do TRF da 4ª Região, que deu provimento à apelação da executada, reformando a decisão de primeiro grau.
+A superveniência do acórdão supera decisões anteriores em sentido diverso e retira o requisito da exigibilidade do título executivo. A tutela antecipada veio apenas confirmar o efeito automático do acórdão proferido.
+Consequentemente, a presente execução é nula, nos termos do art. 803, I, do CPC.
+A condenação em honorários advocatícios pauta-se pelo princípio da causalidade e da sucumbência, impondo-se àquele que deu causa à instauração do processo o dever de pagar verba honorária à parte contrária que contratou advogado para sua defesa.
+Assim, a exequente deve ser condenada a pagar honorários advocatícios ao patrono da parte executada, os quais arbitro em 10% do valor da execução nesta data (art. 85, § 3º, I, do CPC). Atualização a partir de agora apenas pelo IPCA-E.
+Irresignada, a FAZENDA interpôs recurso de apelação, não provido pelo Tribunal a quo. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 134 e outros):
+A União requer a dispensa do pagamento de honorários, considerando que o cancelamento do crédito tributário foi promovido em momento anterior à exceção de executividade.
+A executada opôs a exceção de executividade bem sucedida em 12set.2016 (ev14 na origem), após a citação executiva, requerendo a extinção da execução fiscal por estar fundada em título inexigível, já que os créditos tributários em questão estavam parcelados. Respondeu a União em 11out.2016 (ev18), nestes termos:
+ .. A UNIÃO (FAZENDA NACIONAL), por intermédio de seu procurador infra- assinado, mandato ex lege, vem respeitosamente, perante Vossa Excelência, informar que a União procedeu o cancelamento da CDA em 6/9/2016 , conforme extrato anexo, isto é, antes mesmo da apresentação da exceção de pré-executividade pela executada. Requer, assim, a extinção do feito, com fundamento no artigo 26 da lei 6.830. Ressalte-se, ainda , que a tutela antecipada foi concedida apenas em 29/8/2016 e a União intimada em 1/9/2016.
+Assim, considerando-se que no momento do ajuizamento da execução fiscal (31/5/2016) era legítima a cobrança, pois ausente causa suspensiva da exigibilidade do crédito, requer que a União não seja condenada ao pagamento de honorários advocatício.
+Ainda que o cancelamento da CDA se tenha operado em momento anterior ao da defesa do executado, teve ele de articular defesa formal perante o Juízo de origem, para isso despendendo recursos. Nestas condições deve a União pagar honorários à executada, conforme indica a jurisprudência desta Corte:
+ ..  A extinção da execução fiscal em decorrência do acolhimento de exceção de pré- executividade autoriza a condenação da Fazenda Pública em honorários advocatícios, na medida em que a parte viu-se compelida a contratar advogado para representá-la em juízo. A condenação se fundamenta no princípio da sucumbência, norteado pelo princípio da causalidade. ..  (TRF4, Primeira Turma, [NOME], rel. [NOME], j. 8set.2017)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.
+RECONHECIMENTO DA PRESCRIÇÃO PELO EXEQUENTE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. A jurisprudência do STJ é no sentido de ser cabível a fixação de honorários advocatícios em exceção de pré-executividade, ainda quando acolhida para a extinção parcial da execução.
+2. A distribuição dos ônus sucumbenciais deve ser orientada pelo princípio da causalidade, segundo o qual aquele que deu causa à propositura da demanda deve responder pelas despesas daí decorrentes.
+3. O reconhecimento da prescrição após a apresentação de exceção de pré-executividade impõe à exequente a condenação ao pagamento de honorários advocatícios.
+4. A fixação da verba honorária deve atender ao critério estabelecido nas alíneas a, b e c, do § 3º, do artigo 20, do Código de Processo Civil/73. Inexiste, nesta hipótese, a limitação de que o percentual fique restrito em 10 a 20% sobre o valor da condenação.
+(TRF4, Segunda Turma, [NOME], rel. [NOME], j. 18set.2017)
+Dispositivo. Pelo exposto, voto por negar provimento à apelação.
+Opostos os embargos de declaração, foram eles rejeitados (e-STJ fls. 169/171).
+Pois bem.
+O inciso I do § 1º do art. 19 da Lei n. 10.522/2002 isenta a FAZENDA NACIONAL da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002.
+Ocorre que a atual redação desse dispositivo foi dada pela Lei n. 12.844/2003.
+Na sua redação original, o art. 19 da Lei n. 10.522/2002 apenas previa a autorização para não interpor recursos ou desistir daqueles que já tivessem interposto. Vide:
+Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional autorizada a não interpor recurso ou a desistir do que tenha sido interposto, desde que inexista outro fundamento relevante, na hipótese de a decisão versar sobre:
+I - matérias de que trata o art. 18;
+II - matérias que, em virtude de jurisprudência pacífica do Supremo Tribunal Federal, ou do Superior Tribunal de Justiça, sejam objeto de ato declaratório do Procurador-Geral da Fazenda Nacional, aprovado pelo Ministro de Estado da Fazenda.
+§ 1º Nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá manifestar expressamente o seu desinteresse em recorrer.
+§ 2º A sentença, ocorrendo a hipótese do § 1o, não se subordinará ao duplo grau de jurisdição obrigatório.
+§ 3º Encontrando-se o processo no Tribunal, poderá o relator da remessa negar-lhe seguimento, desde que, intimado o Procurador da Fazenda Nacional, haja manifestação de desinteresse.
+§ 4º Fica o Secretário da Receita Federal autorizado a determinar que não sejam constituídos créditos tributários relativos às matérias de que trata o inciso II.
+§ 5º Na hipótese de créditos tributários constituídos antes da determinação prevista no § 4º, a autoridade lançadora deverá rever de ofício o lançamento, para efeito de alterar total ou parcialmente o crédito tributário, conforme o caso.
+Posteriormente, a redação do dispositivo legal foi alterada pela Lei n. 11.033/2004, passando o art. 19, § 1º, da Lei n. 10522/2002 a prever a isenção da FAZENDA NACIONAL dos honorários de sucumbência: "nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente, reconhecer a procedência do pedido, quando citado para apresentar resposta, hipótese em que não haverá condenação em honorários, ou manifestar o seu desinteresse em recorrer, quando intimado da decisão judicial".
+Assim, antes da Lei n. 12.844/2003, em respeito ao disposto no art. 26 da Lei n. 6.830/1980 (lex specialis) e sua interpretação constante no enunciado da Sumula 153 do STJ, esta Corte Superior, no EREsp n. 1.215.003/RS, firmou entendimento segundo o qual o art. 19, § 1º, da Lei n. 10.522/2002 seria inaplicável às ações regidas pela Lei n. 6.830/1980. Assim, não seriam excluídos os honorários nas interposições de embargos à execução fiscal e exceção de executividade, mesmo que a FAZENDA PÚBLICA não contestasse ou reconhecesse o pedido do contribuinte. Vide:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. RECONHECIMENTO DO PEDIDO PELA FAZENDA. VERBA HONORÁRIA. CABIMENTO. ART. 19, § 1º, DA LEI 10.522/02. NÃO INCIDÊNCIA EM PROCEDIMENTO REGIDO PELA LEI 6.830/80. APLICAÇÃO DA SÚMULA 153/STJ.
+1. Embargos de divergência que tem por escopo dirimir dissenso interno acerca do cabimento da verba honorária nos casos em que a Fazenda Pública reconhece a pretensão da contribuinte no âmbito dos embargos à execução fiscal.
+2. Dispõe o art. 19, § 1º, da Lei 10.522/02: "Nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente, reconhecer a procedência do pedido, quando citado para apresentar resposta, hipótese em que não haverá condenação em honorários, ou manifestar o seu desinteresse em recorrer, quando intimado da decisão judicial".
+3. Observa-se que o legislador, com a edição da aludida norma, teve por escopo reduzir a litigiosidade entre a Fazenda Nacional e os contribuintes, facilitando a extinção dos processos de conhecimento em que o ente público figure na condição de réu, dado que impede a sua condenação em honorários advocatícios nos casos em que não contestar o pedido autoral; o que não é o caso dos autos, haja vista que a iniciativa da demanda, na execução fiscal, é da PFN.
+4. Tem-se, portanto, que o aludido artigo de lei constitui regra voltada a excepcionar a condenação de honorários em processos submetidos ao rito previsto no Código de Processo Civil, não podendo ser estendida aos procedimentos regidos pela Lei de Execução Fiscal, lei especial, que, por sua vez, já dispõe de comando normativo próprio para a dispensa de honorários à Fazenda Pública, estampado no art. 26: "Se, antes da decisão de primeira instância, a inscrição de Dívida Ativa for, a qualquer título, cancelada, a execução fiscal será extinta, sem qualquer ônus para das partes".
+5. Identificado o diploma legal pertinente, deve-se prestigiar a jurisprudência deste Superior Tribunal de Justiça acerca de sua interpretação, a qual foi sedimentada pela Súmula 153: "A desistência da execução fiscal, após o oferecimento dos embargos, não exime o exequente dos encargos da sucumbência".
+6. Prevalece, pois, o entendimento de que a Fazenda Pública deve arcar com a verba honorária, em face do princípio da causalidade, porquanto foi ela quem injustamente deu causa a oposição dos embargos pela contribuinte Precedentes nesse sentido: REsp 1.239.866/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/4/2011; AgRg no REsp 1.004.835/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25/6/2009; REsp 1.019.316/RS, Rel.
+Ministro Luiz Fux, Primeira Turma, DJe 30/3/2009.
+7. Embargos de divergência não providos.
+(EREsp 1215003/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 28/03/2012, DJe 16/04/2012)
+Como se percebe, com a superveniente alteração legislativa, o entendimento firmado no EREsp n. 1.215.003/RS não mais se sustenta, sendo, expressamente, aplicável o art. 19, §1º, I da Lei n. 10.522/2002 ao rito das execuções fiscais.
+Assim, na atual redação, desde que haja o reconhecimento da procedência do pedido de forma ampla e irrestrita para as hipóteses legalmente permitidas, não há falar em condenação da Fazenda em verba honorária de sucumbência.
+Nesse sentido:
+TRIBUTÁRIO. IRPF. VERBAS TRABALHISTAS. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO RESISTIDA. ART. 19, § 1o. DA LEI 10.522/2002. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. REDUÇÃO. REEXAME FÁTICO.
+1. A pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83/STJ.
+2. Inaplicável o disposto no § 1º do art. 19 da Lei n. 10.522, de 2002 pois, como bem salientou o Tribunal de origem, ao contestar, a União apontou a necessidade de prever a sistemática da declaração retificadora para apuração de eventual valor a repetir, considerando a totalidade dos rendimentos recebidos no período das declarações retificadas, o que exigiu manifestação judicial a respeito.
+Agravo regimental improvido.
+(AgRg no AREsp 436.146/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/02/2014, DJe 20/02/2014)
+RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. SUCUMBÊNCIA DA FAZENDA PÚBLICA. APRESENTAÇÃO DE CONTESTAÇÃO. PRETENSÃO RESISTIDA. ART. 19, § 1º, DA LEI 10.522/2002. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. O art. 19, § 1º, da Lei 10.522/2002 prevê o afastamento da condenação em honorários advocatícios quando a Fazenda Pública reconhecer expressamente a procedência do pedido.
+2. No caso dos autos, a Fazenda Pública apresentou contestação, impugnando o pedido da autora, configurando, assim, a pretensão resistida, o que, ante a procedência do pedido, impõe sua condenação em honorários advocatícios.
+3. Recurso Especial a que se dá provimento, para reconhecer o cabimento da verba honorária e determinar o retorno dos autos ao Tribunal de origem para que seja fixado o seu quantum, nos termos do art. 20, § 4o. do CPC.
+(REsp 1202551/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/10/2011, DJe 08/11/2011).
+Na hipótese dos autos, a sentença foi proferida quando já vigorava a nova redação do art. 19, § 1º, I da Lei n. 10.522/2002, não tendo a FAZENDA se oposto ao acolhimento da exceção de pré-executividade e expressamente requerido a extinção da execução fiscal (e-STJ fl. 89).
+Assim, diante do contexto fático descrito no acórdão, fica dispensada a FAZENDA da condenação em honorários de sucumbência por força do art. 19, § 1º, I, da Lei n. 10.522/2002.
+Não sendo cabível a condenação da Fazenda em verba honorária de sucumbência nas instâncias ordinárias, não se pode aplicar o art. 85, § 11, do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para excluir a condenação da FAZENDA em honorários de sucumbência com fundamento no art. 19, § 1º, da Lei n. 10.522/2002.
+Publique-se. Intimem-se.
