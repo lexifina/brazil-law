@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 284/STF (e-STJ fls. 281/282).
+O acórdão recorrido está assim ementado (e-STJ fls. 198/199):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO, DECORRENTE DE ACIDENTE DE TRÂNSITO - FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO AGRAVADA QUE DELIBERA APENAS ACERCA DA INCIDÊNCIA DE JUROS DE MORA SOBRE O VALOR DA CONDENAÇÃO (MATÉRIA QUE NÃO É OBJETO DE CONTROVÉRSIA), E NÃO SOBRE OS CAPITAIS SEGURADOS ESTABELECIDOS NA APÓLICE - DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Considerando que a decisão agravada apenas deliberou acerca da incidência de juros de mora sobre o valor da condenação (matéria que não é objeto de controvérsia), e não sobre a aplicação de tal encargo sobre a apólice securitária, ponto acerca do qual se insurge a denunciada/agravante, deve ser mantido o decisum agravado.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 242/246 e 249/252).
+Nas razões do recurso especial (e-STJ fls. 255/268), interposto com fundamento no art. 105, III, "a", da CF, os recorrentes alegaram ofensa ao art. 489, § 1º, do CPC/2015. Argumentaram que o Tribunal de origem não teria se pronunciado sobre "a incidência dos juros de mora na apólice do seguro e a coisa julgada" (e-STJ fl. 264).
+Sustentaram, ainda, contrariedade aos arts. 502, 505, caput, 507 e 508 do CPC/2015. Defenderam que deveria ser "reconhecida a existência da coisa julgada no que tange a incidência de juros de mora na apólice do seguro, impedindo-se a rediscussão da matéria, em razão de decisão de mérito proferida por esta Corte Superior, transitada em julgado em 22/09/2015 e na qual já se operou a preclusão pela não interposição de recurso" (e-STJ fl. 267).
+No agravo (e-STJ fls. 285/290), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 295/300).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem não apreciou a questão referente à aplicação dos juros moratórios na apólice securitária, sob o fundamento de que "a decisão agravada apenas deliberou acerca da incidência de juros de mora sobre o valor da condenação (matéria que não é objeto de controvérsia), e não sobre a aplicação de tal encargo sobre a apólice securitária, ponto acerca do qual se insurgiu a denunciada/agravante/embargada, devendo ser mantido o decisum agravado" (e-STJ fl. 245).
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual, em atenção ao princípio da dialeticidade, o recorrente deve atacar os fundamentos da decisão recorrida, sob pena de não conhecimento da questão objeto de insurreição. Nesse sentido:
+AGRAVO REGIMENTAL - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - AGRAVO DE INSTRUMENTO NÃO CONHECIDO NA ORIGEM ANTE A NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL.
+IRRESIGNAÇÃO DO EXECUTADO.
+1. O princípio da dialeticidade recursal deve ser compreendido como o ônus atribuído ao recorrente de evidenciar os motivos de fato e de direito para a reforma da decisão recorrida, segundo interpretação conferida ao art. 514, II, do CPC.
+Esta Corte possui entendimento assente no sentido de que não obstante a legislação processual exija que a apelação contenha "os fundamentos de fato e de direito", a parte não fica impedida de reiterar os fundamentos expendidos na inicial ou em outras peças processuais se estas forem suficientes para demonstrar os motivos da irresignação do insurgente, bem como do possível desacerto da decisão que se pretende desconstituir/modificar. Precedentes.
+Na hipótese, as razões do agravo de instrumento apresentado na origem são se mostram aptas a demonstrar e adequadamente infirmar os termos da decisão interlocutória, que teceu a minúcias e explicitou extensivamente os motivos pelos quais estaria acolhendo parcialmente a impugnação ao cumprimento de sentença, apenas para excluir do cálculo a multa de 10% fixada com base no art. 475-J. Em atenção ao princípio da dialeticidade, não basta ao agravante o desenvolvimento de arrazoado genérico em sentido contrário à decisão que pretende ver reformada, sendo imprescindível formular alegações e explicitar fundamentação que possa influir na análise da controvérsia. Precedentes.
+2. Inviabilidade de rechaçar a conclusão das instâncias ordinárias, que consideraram exigível o título executivo apresentado e inocorrente o excesso de execução, porquanto "rever o alegado excesso de execução importaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7 do STJ". (AgRg no Aresp n. 166.453/RS, Min. Raul Araújo, DJE 25/09/2012) 3. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1309851/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/09/2013, DJe 19/09/2013)
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+1. A apelação interposta contra a sentença que impugna a confirmação da tutela antecipada, no particular, será recebida apenas no efeito devolutivo. Incidência da Súmula 83/STJ.
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1152930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/10/2018, DJe 16/10/2018.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+De outro lado, ao concluir que a decisão interlocutória não havia deliberado sobre a aplicação dos juros moratórios sobre a apólice securitária, a Corte local não estava obrigada a se pronunciar sobre a alegada "incidência dos juros de mora na apólice do seguro e a coisa julgada" (e-STJ fl. 264).
+Dessa maneira, não há que se falar em omissão e, consequentemente, violação do art. 489, § 1º, do CPC/2015.
+Por fim, ressalte-se que o fato de o acórdão recorrido ter decidido de forma contrária aos interesses dos recorrentes não configura omissão ou negativa de prestação jurisdicional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
