@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. ART. 33 DA LEI N. 11.343/2006. 16 GRAMAS DE MACONHA. DESCLASSIFICAÇÃO DO TRÁFICO DE ENTORPECENTES PARA USUÁRIO. ART. 28 DA LEI N. 11.343/2006. CONDENAÇÃO. LEGALIDADE. ACÓRDÃO FIRMADO EM MATERIAL FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Recurso especial não conhecido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Rondônia que manteve a condenação do ora recorrente pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006 (16 g de maconha), em regime inicial semiaberto, pois, confessou que a droga era para revender, e que havia entregue um celular para o fornecedor, como pagamento, e tinha a intenção de recuperá-lo quando vendesse o entorpecente. Confessou que havia vendido uma porção naquele dia, pelo valor de cinco reais (fl. 138).
+Esta, a ementa do acórdão local (fl. 135):
+Tráfico de entorpecente. Desclassificação. Consumo próprio. Uso. Impossibilidade. Redução da pena. Atenuante. Abaixo do mínimo legal. Impossibilidade. Causa especial de redução de pena. Ação penal em curso. Dedicação à atividade criminosa. Possibilidade. Multa. Pena impositiva. Regime menos gravoso. Impossibilidade. Recurso não provido.
+No recurso especial, o recorrente sustenta, em síntese, que o acórdão local violou o art. 28 da Lei n. 11.343/2006, porquanto a quantidade ínfima de entorpecentes, apreendidas isoladamente, sem o confisco de grande quantidade de dinheiro ou de apetrechos que demonstrariam que estivesse de fato vendendo o entorpecente apreendido e não apenas o consumindo (fl. 148).
+Dessa forma, o recorrente requer a desclassificação de sua conduta para o disposto no art. 28 da Lei n. 11.343/2006 (fls. 145/151).
+Contrarrazões ofertadas, por meio das quais se sustenta a manutenção do acórdão recorrido (fls. 155/165).
+O Ministério Público Federal opinou pelo provimento do recurso ou que seja aplicada, de ofício, a causa de redução da penal prevista no paragrafo 3o do artigo 33 da Lei 11.343/2006 (fl. 216).
+É o relatório.
+Almeja o recorrente a desclassificação da conduta delitiva prevista no art. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes) para a fixada no art. 28 da mesma Lei (usuário de entorpecentes).
+O Tribunal de origem, soberano no exame do material fático-probatório disposto nos autos, afastou a pretendida desclassificação da conduta delitiva perpetrada pelo ora recorrente, nos seguintes termos (fls. 138 e 139 - grifo nosso):
+ ..  A materialidade está comprovada pelo registro de ocorrência (fls. 12/13), auto de apresentação e apreensão (fl. 14), laudo de exame químico toxicológico preliminar (fl. 16) e definitivo (fls. 30/31), além da prova testemunhal produzida nos autos.
+A propriedade da droga é fato incontroverso, de forma que o cerne da questão é averiguar o seu destino, se para comercialização ou uso.
+Conquanto o apelante alegue que a substância entorpecente era para uso próprio, essa não é a realidade que se extrai dos autos.
+Em juízo, o apelante assumiu a propriedade dos invólucros de maconha apreendidos, contudo, asseverou que a finalidade da droga era para consumo próprio. E que apenas no dia dos fatos, vendeu uma porção para um amigo pelo valor de R$5,00 (cinco reais), dinheiro este que foi apreendido pela polícia (mídia fl. 62).
+Na hipótese, a tese apresentada pela defesa ficou isolada nos autos. Com efeito, [NOME] afirmou que estava em patrulhamento, quando visualizou o apelante em uma bicicleta, o qual mostrou-se bastante nervoso, ao perceber a presença da guarnição, motivo que levou os policiais realizarem a abordagem, sendo localizado 13 porções de maconha e a quantia de R$5,00.
+Ainda, confessou que a droga era para revender, e que havia entregue um celular para o fornecedor, como pagamento, e tinha a intenção de recuperá-lo quando vendesse o entorpecente. Confessou que havia vendido uma porção naquele dia, pelo valor de cinco reais (mídia fl. 62).
+No mesmo sentido, tem-se o depoimento do policial [NOME] (mídia fl. 62).
+Conforme entendimento jurisprudencial consolidado, os depoimentos de testemunhas policiais, em regra, possuem plena eficácia probatória, sendo tal presunção afastada apenas na presença de motivos concretos que coloquem em dúvida a veracidade de suas declarações. Nesse sentido já se manifestou o STF (HC 73518/SP) e STJ (HC 45653/PR).
+É cediço que o art. 33 da Lei de Drogas é congruente ou congruente simétrico, esgotando-se, o seu tipo subjetivo no dolo. As figuras, v.g., de transportar, trazer consigo, guardar ou, ainda, de adquirir não exigem, para a adequação típica, qualquer elemento subjetivo adicional tal como o fim de traficar ou comercializar.
+Nesse passo, considerando, sobretudo, a natureza da droga apreendida e as demais circunstâncias da prisão, conclui-se que o apelante trazia consigo entorpecente sem autorização legal, adequando-se perfeitamente o tipo penal do tráfico ilícito de drogas.
+Anote-se que, para desclassificar a infração para o crime previsto no art. 28, da Lei 11.343/06, teria de estar comprovado que o entorpecente se destinava única e exclusivamente ao consumo pessoal do apelante, o que não restou demonstrado nos autos, embora fosse ônus que lhe incumbia.
+Assim, diante do conjunto probatório colhido - natureza, quantidade da droga, condições em que se desenvolveu a ação - inviável a desclassificação do delito de tráfico de entorpecentes para o de consumo de drogas.
+ ..
+Por conseguinte, da atenta leitura dos autos, denota-se que a condenação do recorrente não merece reparos.
+Além disso, desconstituir a conclusão a que chegaram as instâncias ordinárias, na forma pretendida pelo ora recorrente - desclassificação da conduta delitiva prevista no art. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes) para a fixado no art. 28 da mesma Lei (usuário de entorpecentes) -, implica necessária incursão no conjunto probatório dos autos, revelando-se inadequada a análise da pretensão recursal em função do óbice da Súmula 7/STJ.
+Sendo repetidamente decidida a matéria debatida, conforme os precedentes citados, o presente recurso comporta pronta solução, nos moldes do art. 34 do RISTJ e o disposto na Súmula 568/STJ, com o fim de se agilizar a prestação jurisdicional.
+Ante o exposto, com fulcro no art. 34 do RISTJ e no disposto na Súmula 568/STJ, não conheço do recurso especial .
+Publique-se.
