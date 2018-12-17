@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “Previdência privada. Ação em que se discute a implementação de descontos para fins de equacionamento de déficit. Conduta das requeridas em conformidade com a legislação de regência (Lei Complementar 109/2001). Precedente do C. STJ. Ação improcedente. Sentença mantida. Apelação improvida.” (eDOC 4, p. 130).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; e 202, § 1º, do texto constitucional.
+    Nas razões recursais, alega-se que o acordão não se atentou para o fato de que a recorrente nunca teria recebido informações acerca da situação atuarial do fundo de pensão contratado, tolhendo seu direito a informação previsto na Constituição Federal e impedindo-a de conhecer a condição real do fundo. (eDOC 4, p. 169).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Complementar 109/2001) e o conjunto probatório constante dos autos, consignou que é lícita a cobrança dos valores relativos ao equacionamento de déficit. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “ Não se vislumbra, portanto, nenhuma ilegalidade na política de equacionamento levada a efeito pelo patrocionador do fundo de previdência, à luz dos artigos 18, 19, § único, II e 21 da Lei complementar 109/2001.” (eDOC 4, p.133).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdência privada. Revisão de benefício. Reexame de fatos e provas e de cláusulas contratuais. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos e a interpretação de cláusulas contratuais. Incidência das Súmulas 279 e 454/STF. 2. A alegada violação do art. 5º, inciso XXXVI, da Constituição Federal, caso ocorresse, seria indireta ou reflexa, o que não enseja o reexame da questão em recurso extraordinário Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido.” (ARE nº 745.311 AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 18.2.2014).”
+     “REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. ESTATUTO E REGULAMENTOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – A apreciação dos temas constitucionais, no caso, depende do reexame dos fatos e provas constantes dos autos e a interpretação de cláusulas contratuais da entidade de previdência privada, o que encontra óbice nas Súmulas 279 e 454 do STF. Precedentes. II - Agravo regimental improvido.” (ARE nº 644.881 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 20.9.2011).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 4, p.1), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
