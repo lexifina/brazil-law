@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO SECURITÁRIA. EMBARGOS DE DECLARAÇÃO. INTUITO PROTELATÓRIO. MULTA MANTIDA. QUESTÃO DE FUNDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. DECISÃO DECLINANDO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. AGRAVO DE INSTRUMENTO. ROL DO ART. 1.015 DO NCPC. INTERPRETAÇÃO EXTENSIVA. CABIMENTO. RECURSO ESPECIAL, NA PORÇÃO EM QUE CONHECIDO, PARCIALMENTE PROVIDO.
+DECISÃO
+[NOME] e outros (ANA e outros) interpuseram agravo de instrumento contra decisão que, nos autos da ação de indenização securitária por eles ajuizada contra SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS (SEGURADORA), reconheceu a competência da Justiça Federal para processar e julgar a demanda.
+O Tribunal de Justiça do Estado do Paraná, em decisão unipessoal, não conheceu do reclamo, sob o fundamento de que a decisão gravada não se enquadraria em nenhum dos incisos do art. 1.015 do NCPC (e-STJ, fls. 317/319).
+Ao apreciar o agravo interno, o colegiado negou-lhe provimento em aresto assim ementado:
+AGRAVO INTERNO. AÇÃO DE COBRANÇA. SEGURO HABITACIONAL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. RECURSO INTERPOSTO COM SUPEDÂNEO LEGAL NAS REGRAS DISPOSTAS NO NOVO CÓDIGO DE PROCESSO CIVIL (LEI  13.105/2015). NECESSIDADE DE ADEQUAÇÃO AOS REQUISITOS DE ADMISSIBILIDADE RECURSAL EXIGIDOS NA NOVEL LEGISLAÇÃO, CONFORME ENUNCIADO ADMINISTRATIVO Nº 3 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO QUE RECONHECEU A COMPETÊNCIA DA JUSTIÇA FEDERAL PARA PROCESSAR E JULGAR A DEMANDA. AUSÊNCIA DE SUBSUNÇÃO ÀS HIPÓTESES QUE AUTORIZAM A INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO, PREVISTAS NO ROL TAXATIVO DO ART. 1015 DO CÓDIGO DE PROCESSO CIVIL/2015. PRECEDENTES DESTA CORTE. RECURSO DESPROVIDO (e-STJ, fl. 350).
+Os embargos de declaração interpostos foram rejeitados, com imposição de multa (e-STJ, fls. 368/374).
+Insatisfeitos, ANA e outros apresentaram recurso especial com base no art. 105, III, a e c, da CF, alegando violação dos arts. (1) 1.026, § 2º, do NCPC, sob o argumento de que a multa imposta no julgamento dos embargos declaratórios deve ser afastada, porquanto o reclamo não teve o intuito procrastinatório; (2) 1.015, IX, do NCPC. Nesse tópico, sustentaram ser cabível a interposição do agravo de instrumento contra decisão que declina da competência, porque enquadrada no inciso IX, que trata da admissão ou inadmissão de terceiros. Argumentaram, ainda, ser exemplificativo o rol do art. 1.015, a comportar interpretação extensiva; (3) 119, 489, § 1º, VI, 926 e 927, todos do NCPC, dizendo que a fixação da competência deu-se em razão da apólice a que pertencem os contratos, sem ter havido a comprovação do exaurimento das reservas técnicas do FESA, contrariando, assim, o entendimento do STJ sobre o tema.
+As contrarrazões foram apresentadas (e-STJ, fls. 483/506).
+O recurso foi admitido na origem (e-STJ, fls. 511/513).
+É o relatório.
+DECIDO.
+A insurgência merece, em parte, prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da ausência de prequestionamento
+Inicialmente, a questão referente ao declínio da competência para a Justiça Federal não foi objeto de debate na origem porque o agravo de instrumento nem sequer foi conhecido. A ausência de prequestionamento, quanto o ponto, atrai a aplicação da Súmula nº 282 do STF.
+(2) Da multa por embargos protelatórios
+Conforme consignado pelo Tribunal de origem, o recurso integrativo almejou apenas a reapreciação da matéria, sem apontar os reais vícios que autorizariam o manejo de embargos de declaração (e-STJ, fl. 371).
+Esta Corte Superior orienta que a reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo e determina, consoante a sedimentada orientação jurisprudencial desta Corte, a imposição da multa prevista no art. 538, parágrafo único, do Código de Processo Civil (EDcl no AgRg no AREsp 147.183/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 26/9/2013).
+Desse modo, a multa deve ser mantida, porque evidenciado o caráter protelatório dos embargos de declaração.
+(3) Do cabimento de agravo
+O Tribunal local, ao não conhecer do agravo de instrumento interposto por ANA e outros, assim consignou:
+Pretendem os Agravantes a reforma da decisão desta Relatora que não conheceu do Agravo de Instrumento, ao fundamento de que a matéria nele veiculada se relacionada com a intervenção de terceiros, razão pela qual é cabível a interposição do recurso com base no inciso IX do art. 1015 do Código de Processo Civil/2015.
+O que se contata, em verdade, é que não há discussão sobre intervenção de terceiros, pois a irresignação dos Autores, no Agravo de Instrumento, é com a decisão que reconheceu a competência da Justiça Federal para processar e julgar a demanda, o que não se subsume à nenhuma das hipóteses que autorizam o cabimento do referido recurso, taxativamente previstas no art. 1.015 do novo Código de Processo Civil (e-STJ, fl. 352 - sem destaques no original).
+Tem-se que o Tribunal de base decidiu em dissonância com o entendimento desta Corte, pois apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda (REsp 1.679.909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 1º/2/2018).
+O acórdão em referência está assim ementado:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. APLICAÇÃO IMEDIATA DAS NORMAS PROCESSUAIS. TEMPUS REGIT ACTUM. RECURSO CABÍVEL. ENUNCIADO ADMINISTRATIVO N. 1 DO STJ. EXCEÇÃO DE INCOMPETÊNCIA COM FUNDAMENTO NO CPC/1973. DECISÃO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO NÃO CONHECIDO PELA CORTE DE ORIGEM. DIREITO PROCESSUAL ADQUIRIDO. RECURSO CABÍVEL. NORMA PROCESSUAL DE REGÊNCIA. MARCO DE DEFINIÇÃO. PUBLICAÇÃO DA DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA DO INCISO III DO ART. 1.015 DO CPC/2015.
+1. É pacífico nesta Corte Superior o entendimento de que as normas de caráter processual têm aplicação imediata aos processos em curso, não podendo ser aplicadas retroativamente (tempus regit actum), tendo o princípio sido positivado no art. 14 do novo CPC, devendo-se respeitar, não obstante, o direito adquirido, o ato jurídico perfeito e a coisa julgada.
+2. No que toca ao recurso cabível e à forma de sua interposição, o STJ consolidou o entendimento de que, em regra, a lei regente é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Enunciado Administrativo n. 1 do STJ.
+3. No presente caso, os recorrentes opuseram exceção de incompetência com fundamento no Código revogado, tendo o incidente sido resolvido, de forma contrária à pretensão dos autores, já sob a égide do novo Código de Processo Civil, em seguida interposto agravo de instrumento não conhecido pelo Tribunal a quo.
+4. A publicação da decisão interlocutória que dirimir a exceptio será o marco de definição da norma processual de regência do recurso a ser interposto, evitando-se, assim, qualquer tipo de tumulto processual.
+5. Apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda.
+6. Recurso Especial provido.
+(REsp 1.679.909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 1/2/2018)
+Vejam-se, ainda, outros julgados pertinentes ao tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRODUÇÃO ANTECIPADA DE PROVAS. COMPETÊNCIA. AGRAVO DE INSTRUMENTO. ART. 1.015 DO CPC/15. INTERPRETAÇÃO EXTENSIVA. AGRAVO NÃO PROVIDO.
+1. É cabível agravo de instrumento para impugnação de decisão interlocutória que decide sobre competência, conferindo-se interpretação analógica ou extensiva ao inciso III do art. 1.015 do CPC/2015.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.309.300/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe 27/9/2018 - Sem destaque no original)
+PROCESSUAL CIVIL. HIPÓTESES DE AGRAVO DE INSTRUMENTO. ROL TAXATIVO. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. DECISÃO QUE AFASTA A PRESCRIÇÃO E A DECADÊNCIA. POSSIBILIDADE DE INTERPOSIÇÃO DO RECURSO.
+1. É certo que as hipóteses de Agravo de Instrumento trazidas pelo CPC de 2015 são taxativas, mas também é certo que o exegeta pode valer-se de uma interpretação extensiva.
+(..)
+4. Recurso Especial conhecido e provido.
+(REsp 1.695.936/MG, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2017 - Sem destaque no original)
+Assim, embora não haja previsão expressa no rol do art. 1.015 do NCPC, deve prevalecer a possibilidade da interposição do agravo de instrumento contra decisão interlocutória relacionada a definição de competência, com base na interpretação extensiva da norma.
+Nessas condições, CONHEÇO, EM PARTE, do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para determinar que o Tribunal de origem conheça do agravo de instrumento e o aprecie como entender de direito.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
