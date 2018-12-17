@@ -1,0 +1,30 @@
+EMENTA
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. AGRAVO DE INSTRUMENTO. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. TEMA N. 135/STF.
+I - Na origem, cuida-se de agravo de instrumento interposto pelo INSS contra decisão judicial que, nos autos de ação acidentária, deferiu o pedido de antecipação dos efeitos da tutela jurisdicional.
+II - O Supremo Tribunal Federal, ao julgar o RE n. 594.116/SP, submetido ao rito da repercussão geral (Tema n. 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS".
+III - Recurso especial provido para anular o acórdão recorrido e determinar o exame do agravo de instrumento do INSS.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de agravo de instrumento interposto pelo INSS contra decisão judicial que, nos autos de ação acidentária movida por [NOME], deferiu o pedido de antecipação dos efeitos da tutela jurisdicional.
+No Tribunal de Justiça do Estado de São Paulo, o agravo de instrumento não foi conhecido por deserção nos termos do acórdão assim ementado:
+RECURSO - Agravo de instrumento - Ausência de recolhimento do porte de remessa e de retorno - Imposição da Lei Estadual nº 11.608/03 - Deserção configurada - Recurso não conhecido.
+Os embargos de declaração apresentados foram rejeitados.
+O INSS interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal por ofensa aos arts. 535, 458, II, e 27 do CPC/73.
+Alega em síntese que, "como o ente previdenciário possui as mesmas prerrogativas e privilégios assegurados à Fazenda Pública, consoante o disposto no art. 8º, caput, da Lei n.º 8.620/93, deve recolher o porte de remessa e retomo apenas ao final da demanda, se vencido" (fl. 144).
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O Supremo Tribunal Federal, ao julgar o RE n. 594.116/SP, submetido ao rito da repercussão geral (Tema n. 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". É o que se confere da seguinte ementa do acórdão:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL. 1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002. 2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002. 3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal. 4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular. 5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão "cujo valor será estabelecido por ato do Conselho Superior da Magistratura". 6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem. (RE 594116, Relator(a): Min. EDSON FACHIN, Tribunal Pleno, julgado em 03/12/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-061 DIVULG 04-04-2016 PUBLIC 05-04-2016)
+A matéria também já foi julgada no âmbito do STJ sob o Tema n. 16 em que fixou-se a tese de que "descabe exigir do INSS o depósito prévio do preparo para fins de interposição de recurso em ação que tramita perante a Justiça Estadual, podendo a autarquia efetuar o pagamento do preparo ao final da demanda, se vencida".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. INSS. ISENÇÃO DO PORTE DE REMESSA E DE RETORNO.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, publicado no DJE de 05/04/2016).
+3. Recurso Especial provido.
+(REsp n. 1.606.886/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/9/2016, DJe 11/10/2016.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão recorrido e determinar o exame do agravo de instrumento do Instituto Nacional do Seguro Social - INSS.
+É o voto.
