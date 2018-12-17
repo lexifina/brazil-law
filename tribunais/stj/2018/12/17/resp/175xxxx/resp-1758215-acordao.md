@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Com a entrada em vigor da Lei 11.382/2006, e como resultado das inovações nela tratadas, houve evolução jurisprudencial no sentido de prestigiar a efetividade da Execução, de modo que a apreensão judicial de dinheiro, mediante o sistema eletrônico denominado Bacenjud, passou a ser medida primordial, independentemente da demonstração relativa à inexistência de outros bens.
+2. Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+3. Na mesma linha, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17/8/2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 1º/7/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/6/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/5/2015.
+4. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CONSULTA À RECEITA FEDERAL. INFORMAÇÕES SIGILOSAS. ESGOTAMENTO DOS MEIOS PARA LOCALIZAR OS BENS DO DEVEDOR NÃO COMPROVADO. RECURSO IMPROVIDO.
+1 - Trata-se de agravo de instrumento interposto objetivando a reforma da decisão que indeferiu requerimento de quebra de sigilo fiscal através do sistema INFOJUD.
+2 - A interferência do Poder Judiciário quanto à realização de diligência que compete ao agravante somente é cabível em casos excepcionais, em face do caráter sigiloso de tais dados.
+3 - O credor nada comprovou sobre seus esforços no sentido de buscar informações sobre bens penhoráveis em nome do devedor.
+4 - Em casos como o presente, não existe interesse da Justiça que justifique a quebra do sigilo fiscal, que, via de regra, deve ser resguardado.
+5 - O agravante não está impedido de, através de outros meios, buscar informações sobre o patrimônio da parte agravada, não podendo é transferir esse ônus para o Poder Judiciário sem demonstrar ter esgotado todos os meios à sua disposição para encontrar bens passíveis de penhora.
+6 - Agravo de instrumento conhecido e improvido.
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 774, 797, 805 e 835, I, do CPC/2015 e do art. 198, parágrafo único, do CTN, sob a argumentação de que não é necessário que se esgote todos os meios para fins de localização de bens do devedor antes de ser possível a utilização do sistema Infojud.
+Contrarrazões não apresentadas.
+O Ministério Público Federal opinou pelo provimento do Recurso Especial, in verbis (fls. 85-86, e-STJ):
+RECURSO ESPECIAL - DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO - DÍVIDA ATIVA NÃO- TRIBUTÁRIA - MULTAS E DEMAIS SANÇÕES - AMBIENTAL.
+A CORTE ESPECIAL E A PRIMEIRA SEÇÃO DO STJ, RESPECTIVAMENTE, AO APRECIAREM O RESP 1.112.943/MA, REL. MIN. NANCY ANDRIGHI, JULGADO EM 15.9.2010, DJ 23.11.2010, E O RESP 1.184.765-PA, REL. MIN. LUIZ FUX, JULGADO NO DIA 24.11.2010, SEGUNDO A SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC E NA RESOLUÇÃO 8/2008 DO STJ, CONFIRMARAM A ORIENTAÇÃO NO SENTIDO DE QUE, NO REGIME DA LEI N. 11.382/2006, NÃO HÁ MAIS NECESSIDADE DO PRÉVIO ESGOTAMENTO DAS DILIGÊNCIAS PARA LOCALIZAÇÃO DE BENS DO DEVEDOR PARA QUE SEJA EFETIVADA A PENHORA. PRECEDENTES.
+PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.8.2018.
+A irresignação merece acolhida.
+Consoante a jurisprudência do STJ, a exemplo do que ocorre com o sistema Bacenjud, a utilização do Infojud, a requerimento do credor, não depende do esgotamento da busca por outros bens penhoráveis.
+Com a entrada em vigor da Lei 11.382/2006, e como resultado das inovações nela tratadas, houve evolução jurisprudencial no sentido de prestigiar a efetividade da Execução, de modo que a apreensão judicial de dinheiro, mediante o sistema eletrônico denominado Bacenjud, passou a ser medida primordial, independentemente da demonstração de inexistência de outros bens. Cito precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO - EXECUÇÃO FISCAL - PENHORA ON LINE - SISTEMA [NOME]-JUD - REQUERIMENTO FEITO NO REGIME ANTERIOR AO ART. 655, I, DO CPC (REDAÇÃO DADA PELA LEI 11.382/2006) 1. A jurisprudência atual desta Corte firmou-se no sentido de que, após a vigência da Lei 11.382/2006, o bloqueio de ativos financeiros por meio de penhora on line não requer mais o esgotamento de diligências para localização de outros bens do devedor passíveis de penhora, sendo admitida hoje a constrição por meio eletrônico sem essa providência.
+2. Recurso especial provido.
+(REsp 1.194.067/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 01/07/2010).
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ON-LINE. CONVÊNIO [NOME] JUD. MEDIDA CONSTRITIVA POSTERIOR À LEI Nº 11.382/2006. EXAURIMENTO DAS VIAS EXTRAJUDICIAIS PARA A LOCALIZAÇÃO DE BENS PASSÍVEIS DE PENHORA. DESNECESSIDADE. EMBARGOS ACOLHIDOS.
+1. Com a entrada em vigor da Lei nº 11.382/2006, que deu nova redação ao artigo 655 do Código de Processo Civil, os depósitos e as aplicações em instituições financeiras foram incluídos como bens preferenciais na ordem de penhora e equiparados a dinheiro em espécie, tornando-se prescindível o exaurimento das vias extrajudiciais dirigidas à localização de bens do devedor para a constrição de ativos financeiros por meio do sistema [NOME], informando a sua utilização nos processos em curso o tempo da decisão relativa à medida constritiva.
+2. Embargos de divergência acolhidos.
+(EREsp 1.052.081/RS, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA SEÇÃO, DJe 26/05/2010).
+Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos. Veja-se a informação disponibilizada no Informativo de Jurisprudência 447/STJ:
+REPETITIVO. PENHORA. SISTEMA [NOME]-JUD. LEI N. 11.382/2006. A Corte Especial, ao julgar recurso sob o regime do art. 543-C do CPC c/c a Res. n. 8/2008-STJ, entendeu que a penhora online, antes da entrada em vigor da Lei n. 11.382/2006, configura medida excepcional cuja efetivação está condicionada à comprovação de que o credor tenha realizado todas as diligências no sentido de localizar bens livres e desembaraçados de titularidade do devedor. Contudo, após o advento da referida lei, o juiz, ao decidir sobre a realização da penhora online, não pode mais exigir do credor prova de exaurimento das vias extrajudiciais na busca de bens a serem penhorados. Precedentes citados: AgRg no Ag 1.010.872-RS, DJe 15/9/2008; AgRg no REsp 1.129.461-SP, DJe 2/2/2010; REsp 1.066.091-RS, DJe 25/9/2008; REsp 1.009.363-BA, DJe 16/4/2008, e EREsp 1.087.839-RS, DJe 18/9/2009. REsp 1.112.943-MA, Rel. Min. Nancy Andrighi, julgado em 15/9/2010.
+Ademais, esta Corte posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17.08.2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 1º/07/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/06/2015.
+Ante o exposto, dou provimento ao Recurso Especial.
+É como voto.
