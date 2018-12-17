@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de ALLYSON PAIS DE LARA contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Extrai-se dos autos que o Juízo de Direito da Vara de Execução em Meio Aberto da Comarca de Pitanga/PR, em face de novas guias de execução, unificou as penas e converteu a pena restritiva de direitos em privativa de liberdade (e-STJ, fls. 13-16).
+A defesa interpôs agravo em execução perante o Tribunal de origem, que lhe negou provimento (e-STJ, fls. 20-24), nos termos da seguinte ementa:
+"RECURSO DE AGRAVO. EXECUÇÃO PENAL. REEDUCANDO QUE TEVE SUAS PENAS UNIFICADAS. ARTIGO 111 DA LEI DE EXECUÇÕES PENAIS. PRETENSÃO DE ANULAÇÃO DA DECISÃO UNIFICADORA. AFASTAMENTO. RECORRENTE CONDENADO A UMA PENA TOTAL E UNIFICADA DE DOZE ANOS, UM MÊS E VINTE E QUATRO DIAS DE RECLUSÃO. NO REGIME FECHADO. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO DE PENA RESTRITIVA DE DIREITO COM PRIVATIVA DE LIBERDADE. DECISÃO MANTIDA RECURSO DESPROVIDO.
+I - É impertinente o pleito de cumprimento concomitante de pena restritiva de direito, notadamente prestação de serviços à comunidade, juntamente com pena privativa de liberdade cumprida em regime semiaberto, ainda mais quando a unificação das penas, nos exatos termos do artigo 111 da Lei de Execuções Penais, leva a uma pena total a 12 (doze) anos 01 (um) mês e 24 (vinte e quatro) dias de reclusão.
+II - O Superior Tribunal de Justiça já consignou por várias vezes que a possibilidade de cumprimento simultâneo de penas restritivas de direito com privativa de liberdade é excepcional, e apenas pode ser deferida nos estritos casos em que haja possibilidade fática e material da concomitância de cumprimento, notadamente que isto apenas pode ocorrer quando envolva cumprimento de pena em regime aberto, o que não é o caso dos autos." (e-STJ, fl. 20).
+Neste writ, a impetrante alega, em síntese, existência de constrangimento ilegal na revogação de sua pena restritiva de direitos e sustenta a possibilidade de suspensão do cumprimento da pena restritiva de direitos para cumprimento posterior ou simultâneo à pena privativa de liberdade. Afirma que a conversão da pena alternativa não é obrigatória (e-STJ, fls. 1-9).
+Requer a concessão da ordem, liminarmente, para que seja suspenso os efeitos do acórdão impugnado. No mérito, requer o cumprimento simultâneo com a privativa de liberdade (e-STJ, fl. 9).
+A liminar foi indeferida (e-STJ, fl. 52).
+Prestadas as informações, opina o Ministério Público Federal pela denegação da ordem (e-STJ, fls. 80-86).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+O pleito ataca acórdão que, em agravo em execução penal, manteve a decisão do Juízo executório, o qual, diante de nova condenação do paciente, converteu as penas restritivas de direitos em privativa de liberdade.
+Com efeito, "sobrevindo pena restritiva de direitos a condenado que se encontra cumprindo pena privativa de liberdade, não se verifica a ocorrência das hipóteses legais de conversão previstas no art. 44, §§ 4º e 5º, do Código Penal. Contudo, o cumprimento simultâneo de pena privativa com pena restritiva deve mostrar-se compatível, o que não se verifica quando o apenado encontra-se cumprindo pena em regime semiaberto ou fechado. Dessarte, faz-se mister a unificação das penas, nos termos do art. 111 da LEP, não havendo se falar, portanto, em aplicação do art. 76 do CP" (HC 248.567/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 30.10.12).
+Neste sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. CONVERSÃO DE PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. CONDENAÇÃO SUPERVENIENTE. PENA DE RECLUSÃO. CUMPRIMENTO SIMULTÂNEO. INCOMPATIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O paciente cumpria pena restritiva de direitos, consistente em prestação de serviços à comunidade quando sobreveio nova condenação à pena de 1 ano de reclusão, no regime inicial semiaberto.
+3. A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP).
+Habeas corpus não conhecido."
+(HC 360.379/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/09/2016, DJe 22/09/2016)
+Por fim, como já firmado em diversos julgamentos desta Corte Superior, somente certas restritivas (prestação pecuniária e perda de bens) e multa se coadunam com os regimes semiaberto e fechado (HC 269366/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 26/2/2014).
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
