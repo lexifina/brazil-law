@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, que julgou improcedente representação de inconstitucionalidade em face de dispositivo da Lei Orgânica do Município de Armazém/SC, que dispõe sobre o exercício simultâneo de mandato de vereador e de cargo, emprego ou função pública. Confira-se a ementa do julgado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI ORGÂNICA DO MUNICÍPIO DE ARMAZÉM - EXERCÍCIO SIMULTÂNEO DE MANDATO DE VEREADOR E DE CARGO, EMPREGO OU FUNÇÃO PÚBLICA - POSSIBILIDADE, DESDE QUE HAJA COMPATIBILIDADE DE HORÁRIOS - EXEGESE DO ART. 25, INC. III, DA CONSTITUIÇÃO DO ESTADO DE SANTA CATARINA - VÍCIO MATERIAL INEXISTENTE - APRECIAÇÃO DO MÉRITO - INTELIGÊNCIA DO ART. 12 DA LEI n. 12.069/01 - IMPROCEDÊNCIA DO PEDIDO.
+    - ‘A Constituição do Estado de Santa Catarina (art. 25, inc. III), por simetria à Carta Política Federal (art. 38, inc. III), autoriza o exercício simultâneo do mandato de vereador e das funções de servidor público desde que haja compatibilidade de horários.’ (ADI n. 2004.026223-1, de Imaruí, rel. Des. Mazoni Ferreira, j. em 23.11.05).”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente aponta violação aos arts. 29, IX; 38, III; e 54, I, b; e II, b, da CF. Sustenta que o dispositivo impugnado “acaba por permitir que o edil aceite cargo, emprego ou função pública – se aprovado em concurso público - , ou ocupe-o – sendo de provimento em comissão – na administração pública estadual ou federal circunstância que torna absolutamente inadequada a aplicação do disposto no artigo 38, III, da CR”.
+    A Procuradoria-Geral da República, por meio de parecer, opina pelo conhecimento e, no mérito, pelo não provimento do recurso extraordinário.
+    O recurso não merece provimento.
+    A jurisprudência do Supremo Tribunal Federal é no sentido de que o art. 38, III, da Constituição prevê como única condição para a restrição do direito de vereador acumular o exercício do mandato de vereador com funções públicas a compatibilidade de horários. Nesse sentido, confira-se a ementa da ADI 199/PE, julgada sob a relatoria do Ministro Maurício Corrêa:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUIÇÃO DO ESTADO DE PERNAMBUCO: ART. 98, § 2º, I, VI, XII, XVII: CONCESSÃO DE VANTAGENS A SERVIDOR PÚBLICO. VÍCIO DE INICIATIVA. COMPETÊNCIA DO CHEFE DO PODER EXECUTIVO. ART. 99, IV E PARÁGRAFO ÚNICO: INVESTIDURA EM MANDATO ELETIVO. POSSIBILIDADE DE EXERCÍCIO SIMULTÂNEO DA VEREAÇÃO E DE FUNÇÃO PÚBLICA. EXTENSÃO AO VICE-PREFEITO E AO SUPLENTE DE VEREADOR.
+    [..]
+    2. Exercício funcional simultâneo com a edilidade ou o cargo de Vice-Prefeito. Garantia aos servidores públicos civis e aos empregados de empresas públicas e sociedades de economia mista, integrantes da administração indireta estadual. Extensão ao suplente de Vereador.
+    2.1. A Constituição Federal condiciona o exercício simultâneo do mandato de Vereador e das funções de agente público à compatibilidade de horários, que, não ocorrendo, impõe o seu afastamento do cargo, emprego ou função, sendo-lhe facultado optar pela remuneração.
+    2.2. Carta Estadual. Restrição do exercício funcional ao domicílio eleitoral. Impossibilidade. A Constituição Federal prevê tão-somente a hipótese do desempenho simultâneo das funções públicas, observada a compatibilidade de horários.
+    2.3. Extensão ao suplente de vereador. Insubsistência. Ao suplente de Vereador não se pode validamente estabelecer nenhuma limitação ao exercício do cargo, emprego ou função, por não ser titular de mandato eletivo.
+    2.4. Servidor público investido no mandato de Vice- Prefeito. Aplicam-se-lhe, por analogia, as disposições contidas no inciso II do art. 38 da Constituição Federal.
+    Ação Direta de Inconstitucionalidade que se julga procedente.”
+    Desse entendimento não divergiu o Tribunal de origem ao assentar que dispositivo da Lei Orgânica do Município de Armazém/SC está ealinhado com a Constituição do Estado de Santa Catarina e com a Constituição Federal que autorizam o exercício simultâneo do mandato de vereador e das funções de servidor público, desde que haja compatibilidade de horários.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de dezembro de 2018.
+     Ministro Luís Roberto Barroso
+Relator
