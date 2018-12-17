@@ -1,0 +1,46 @@
+DECISÃO
+Em 14/11/2002, a UNIÃO NORTE DO PARANÁ DE ENSINO LTDA. ajuizou ação de execução de título extrajudicial contra [NOME], requerendo a condenação do réu no montante de R$ 3.303,77 (três mil trezentos e três reais e setenta e sete centavos), representado por uma duplicata de prestação de serviços.
+Na data de 11/5/2005, a exequente requereu a suspensão do feito nos termos do art. 791, III, do CPC/1973, tendo o magistrado deferido o pleito, determinando que se aguardasse no arquivo provisório, conforme se verifica do acórdão recorrido (e-STJ fl. 594).
+Em 8/11/2016, a credora peticionou, requerendo prosseguimento do feito com a tentativa de localizar bens à penhora.
+À vista de tais fatos, o magistrado extinguiu o feito, reconhecendo a prescrição intercorrente, uma vez que o processo permaneceu sem qualquer movimentação durante cerca de 11 anos.
+Interposta apelação, o Tribunal de Justiça do Estado do Paraná negou provimento ao recurso, nos termos da seguinte ementa (e-STJ fls. 589/590):
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATAS.
+PRESCRIÇÃO INTERCORRENTE.
+1. PRESCRIÇÃO INTERCORRENTE QUE SE INICIA APÓS UM ANO DE SUSPENSÃO PROCESSUAL POR AUSÊNCIA DE BENS PENHORÁVEIS E QUE SE CONFIGURA SE O EXEQUENTE PERMANECER INERTE POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO (STF, SÚMULA 150). PRINCÍPIO DA SEGURANÇA JURÍDICA. IMPOSSIBILIDADE DE ETERNIZAÇÃO DAS EXECUÇÕES. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO. REVISÃO DO ENTENDIMENTO DA TERCEIRA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA (RESP 1522092/MS). PRECEDENTES DESSE TRIBUNAL DE JUSTIÇA.
+2. INÉRCIA DO EXEQUENTE DURANTE MAIS DE 11 (ONZE) ANOS DE TRÂMITE PROCESSUAL. AUTOS QUE PERMANECERAM EM ARQUIVO PROVISÓRIO, SEM QUALQUER MANIFESTAÇÃO DO EXEQUENTE.
+TRANSCURSO DO PRAZO PRESCRICIONAL INTERCORRENTE.
+3. INAPLICABILIDADE DO ART. 1.056 DO CPC/2015 AO CASO. PRESCRIÇÃO INTERCORRENTE OPERADA NA VIGÊNCIA DO CPC/1973. SENTENÇA MANTIDA.
+RECURSO DESPROVIDO. VOTO VENCIDO.
+Irresignada, UNIÃO NORTE DO PARANÁ DE ENSINO LTDA. interpõe recurso especial com fundamento no art. 105, III, "a" e "c", da CF, por ofensa aos arts. 267, § 1º, e 791, III, do CPC/1973 e 14, 487, parágrafo único, e 1.056 do CPC/2015.
+Sustenta que, para a decretação da prescrição intercorrente, é imprescindível a intimação pessoal do exequente.
+Afirma que houve o pedido de suspensão pela credora, o que foi deferido pelo Juízo sem prazo definido, o qual suspendeu o processo e determinou a remessa dos autos ao arquivo provisório, local onde o processo permaneceu sem qualquer movimentação administrativa, sem intimação do advogado para dar andamento ao feito e tampouco intimação pessoal do credor.
+Aduz que o termo inicial para contagem do prazo prescricional seria a data da vigência do novo código processual, inclusive para as execuções em curso.
+O recorrido não apresentou contrarrazões (e-STJ fl. 685).
+É o relatório.
+Decido.
+Reside a controvérsia em definir se, em relação à execução suspensa sob a égide do CPC de 1973, para efeito de reconhecimento de prescrição intercorrente, é necessária prévia intimação do credor para dar andamento ao feito ou basta sua inação por determinado período de tempo.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 595/610):
+13. Conforme recente revisão do entendimento jurisprudencial da 3ª Turma do Superior Tribunal de Justiça, a declaração da prescrição intercorrente não depende da prévia intimação pessoal da parte para dar andamento ao feito, assim como o prazo prescricional se inicia após o decurso de um ano da suspensão da execução.
+14. A alteração do entendimento até então adotado pela Corte Superior decorreu do julgamento do REsp 1.522.092/MS, de relatoria do eminente Ministro Paulo de Tarso Sanseverino, e fundamenta-se, em suma, na pacificação social, escopo social da jurisdição; no fato de que a prescrição é a regra no ordenamento jurídico e a imprescritibilidade a exceção; bem como na utilização, por analogia, do prazo de um ano da suspensão da ação (CPC/1973, art. 265, § 5º e Lei nº 8.830/80, art. 40, § 2º), após o qual caberia à parte promover o andamento da ação. Confira-se:
+(..)
+18. Assim, com a revisão do entendimento jurisprudencial até então adotado, aplica-se a disposição contida na Súmula 150 do Supremo Tribunal Federal inclusive aos feitos submetidos ao Código de Processo Civil de 1973, no sentido de que a execução prescreve no mesmo prazo de prescrição da ação, e o prazo prescricional intercorrente se inicia após o lapso de um ano da suspensão da execução, sendo desnecessária a intimação pessoal do exequente para dar andamento ao feito.
+19. Neste aspecto, importante salientar que a intimação prévia do credor para possibilitar que informe ao juízo eventual ocorrência de causa suspensiva ou interruptiva do prazo prescricional permanece necessária em atenção ao princípio do contraditório, o que foi observado no caso dos autos (mov. 12.1), com a manifestação da exequente (mov. 15.1).
+20. Pois bem. O prazo da prescrição intercorrente do presente feito é trienal, uma vez que a execução visa a cobrança de dívida líquida representada por duplicatas (Súmula 150 do STF e artigo 18, inciso I, da Lei nº 5.474/1968).
+21. No caso em análise, a presente execução de título extrajudicial ficou suspensa entre 18-10- 2005, data do arquivamento dos autos em decorrência do deferimento do pedido de suspensão da execução (mov. 1.57), até 8-11-2016, data em que a exequente peticionou nos autos para requerer a penhora on-line via sistema Bacen-Jud (mov.
+1.60).
+22. Nesse contexto, verifica-se que o processo ficou paralisado por mais de 11 (onze) anos, sem manifestação da exequente, em evidente desídia da credora na condução do processo.
+23. Cumpre esclarecer que o ordenamento jurídico confere ao credor o direito de, coercitivamente, exigir do devedor o cumprimento da prestação inadimplida, contudo, sujeita-o ao instituto da prescrição, cujo objetivo é obstar pretensões eternas. Assim, em homenagem à segurança jurídica, sua inação em tempo superior àquele previsto em lei, culmina, irremediavelmente, na perda da pretensão pelo decurso do tempo.
+(..)
+32. Vale dizer, o decurso do prazo prescricional intercorrente já havia se consolidado antes mesmo da vigência do Código de Processo Civil de 2015, pelo que, com fulcro no artigo 14 do CPC/2015, o presente feito não se submete à regra de transição disposta no artigo 1.056 do referido diploma legal, não obstante a decisão recorrida tenha sido prolatada sob a vigência do novo Código (5-7-2017 - mov. 17.1).
+A decisão recorrida está em consonância com o julgamento proferido pela Segunda Seção desta Corte nos autos do REsp n. 1.604.412 - SC  conforme procedimento previsto para Incidente de Assunção de Competência (IAC)  o qual recebeu a seguinte ementa:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp n. 1604412/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe 22/8/2018.)
+Portanto, em relação à execução suspensa sob a égide do CPC de 1973, para efeito de reconhecimento de prescrição intercorrente, para se dar início à contagem do prazo é dispensável a prévia intimação do credor para dar andamento ao feito, bastando sua inação por determinado período de tempo, que, no entanto, somente haverá de ser declarada após prévia intimação do credor para que a respeito se manifeste, a fim de que seja respeitado o princípio do contraditório.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
