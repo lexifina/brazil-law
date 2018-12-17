@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração, com fundamento nos arts. 1.022 e 489, § 1º, do CPC/2015, opostos em face de decisão, assim ementada (fl. 429):
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C". NÃO INDICAÇÃO DO DISPOSITIVO LEGAL AO QUAL FOI DADA INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O embargante sustenta que a decisão contém omissão eis que "não se manifestou sobre o precedente vinculante invocado pela parte, deixando de aplicá-lo sem demonstrar a divergência de casos ou a superação do entendimento esposado no precedente, motivo pelo qual torna-se imperioso que seja sanada a omissão apontada, sob pena de nulidade." (fl. 442).
+Sem impugnação.
+É o relatório. Passo a decidir.
+Inicialmente, o exame monocrático do agravo em recurso especial em questão encontra respaldo no artigo 932, III, do CPC, segundo o qual incumbe ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Ao depois, compulsando-se os autos constata-se que não merece guarida a alegada violação dos artigos 489, § 1º e 1.022 do CPC/2015, porquanto a decisão embargada manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada, ao assentar que, nas razões do recurso especial, não se verifica o preenchimento dos requisitos legais e regimentais para a propositura do apelo especial interposto com fundamento na divergência jurisprudencial.
+Nesse passo, tem-se que a pretensão do embargante é provocar o julgador a adentrar no mérito da controvérsia, quando o recurso especial sequer ultrapassou o conhecimento.
+Assim, ratifica-se os fundamentos da decisão monocrática embargada, visto que a divergência jurisprudencial haveria de ser comprovada, competindo a quem recorre, e não ao julgador, demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles, sendo indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O que não ocorreu na hipótese.
+O desrespeito a esses requisitos legais e regimentais (art. 1.029, parágrafo primeiro, do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do recurso especial com base na alínea c, III, do art. 105 da Constituição Federal.
+Assim, evidenciando-se não haver falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, devem os embargos serem rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
