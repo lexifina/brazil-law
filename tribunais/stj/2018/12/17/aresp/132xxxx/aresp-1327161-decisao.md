@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE CURITIBA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ISS. CRÉDITOS, REFERENTES AOS EXERCÍCIOS DE 1995 E 1996. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA DOS CRÉDITOS TRIBUTÁRIOS ANTES DO AJUIZAMENTO. CRÉDITOS VENCIDOS EM 01.01.1996 E 01.01.1997. AJUIZAMENTO, DA EXECUÇÃO EM 29.10.2004.
+SENTENÇA PROLATADA EM 07.03.2016: TEMPO DECORRIDO SUPERIOR AO QUINQUÊNIO PREVISTO NO CAPUT DO ART. 174 DO CTN. PRESCRIÇÃO CONSUMADA. EXTINÇÃO DO PROCESSO ANTE A PRESCRIÇÃO DOS CRÉDITOS TRIBUTÁRIOS. PRINCÍPIO DA CAUSALIDADE. CONDENAÇÃO DO ENTE MUNICIPAL AO PAGAMENTO DAS CUSTAS PROCESSUAIS. INAPLICABILIDADE DOS ARTIGOS 26 E 39 DA LEF. VEDAÇÃO CONSTITUCIONAL À ISENÇÃO HETERÔNOMA. UNIÃO QUE NÃO PODE ISENTAR O MUNICÍPIO DO PAGAMENTO DE TRIBUTO ESTADUAL.
+RECONHECIMENTO DE ISENÇÃO QUANTO À TAXA JUDICIÁRIA, POR FORÇA DO DECRETO ESTADUAL N.9 962/32. SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+Trata-se de execução fiscal para cobrança de dívida no valor de R$ 237,00, em 18/10/2004.
+No presente feito restou assentado que constituído o crédito tributário a Fazenda Nacional ultrapassou o prazo de cinco anos para o ajuizamento da ação. Explicitou, ainda, que distribuída a ação em 29.10.2004, a extinção ocorreu por desídia da Fazenda que deixou ocorrer a prescrição antes mesmo da judicialização, não tendo o recorrente trazido qualquer causa suspensiva ou interruptiva do prazo prescricional.
+No recurso especial, o recorrente aponta violação dos arts. 173 e 174 do CTN, alegando, em síntese, que não ocorreu a prescrição visto que tratando-se de tributo sujeito a lançamento por homologação deve ser acrescentado mais cinco anos. Além disso a demora no julgamento do processo não teria se dado por culpa da recorrente, ficando os autos paralisados em cartório sem qualquer inércia do exequente, devendo ser aplicada a súmula 106/STJ.
+O recurso especial foi inadmitido com base na súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+A aplicação da súmula 106/STJ, segundo a afirmação da recorrente de que não houve desídia de sua parte no transcurso do prazo superior a 11 (onze) anos entre o ajuizamento da ação e a extinção do feito pela ausência de localização do devedor, vai de encontro à convicção do julgador que com base no conjunto probatório dos autos manteve a decisão pela desídia do Fisco. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
