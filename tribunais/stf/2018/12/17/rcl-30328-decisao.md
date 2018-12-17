@@ -1,0 +1,28 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA AO QUANTO DECIDIDO NA ADI 4.638. NÃO CONHECIMENTO DE AGRAVO EM RECURSO ESPECIAL AO FUNDAMENTO DE QUE NÃO IMPUGNADOS ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO DE ORIGEM. DECISÃO MANTIDA AO JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE ESTRITA ADERÊNCIA. SEGUIMENTO NEGADO.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Espólio de Itacir Roberto Zaniboni, contra decisões proferidas pelo Superior Tribunal de Justiça, nos autos do Recurso Especial nº 1.196.471/SP, para garantia da autoridade da decisão proferida na apreciação do referendo da medida liminar concedida na ADI 4.638, em que questionados dispositivos da Resolução 135/2011, do Conselho Nacional de Justiça (CNJ).
+    O reclamante relata ter sido condenado ao pagamento de indenização por danos morais em ação ajuizada por Odette Silveira Moraes, desembargadora do Tribunal Regional do Trabalho da 2ª Região, pelo fato de Itacir Roberto Zaniboni, na qualidade de advogado, ter utilizado, no bojo de recurso de revista, documentos considerados sigilosos, consistentes em peças de processo administrativo disciplinar contra ela instaurado perante o Conselho Nacional de Justiça.
+    Afirma que tais documentos não seriam sigilosos, porquanto esta Suprema Corte, ao analisar a constitucionalidade do art. 20 da Resolução nº 135, de 13 de julho de 2011, do Conselho Nacional de Justiça, nos autos da ADI 4.638, teria entendido pela inexistência de caráter sigiloso dos processos administrativos disciplinares instaurados contra magistrados.
+    Consoante narrado, contra a decisão do Tribunal Estadual que manteve a sentença de primeiro grau, foi manejado recurso especial, o qual não foi conhecido pelo Presidente do STJ. Interposto agravo interno, afirma ter-lhe sido negado provimento, estando pendente a apreciação de embargos de declaração.
+    Sustenta configurada a “afronta a autoridade das decisões do Supremo Tribunal, eis que houve condenação baseada em uso de processo sigiloso (quando não mais existe referido sigilo) junto ao Conselho Nacional de Justiça (pedido de abertura de procedimento administrativo disciplinar), diante da ADI 4638 (…)”.
+    Requer, em sede de medida liminar, a suspensão do Processo nº 1.196.471/SP, em trâmite perante a 4ª Turma do E. Superior Tribunal de Justiça, e, no mérito, a procedência da reclamação para que sejam cassadas “as decisões exorbitantes, que destoam da proferida junto a essa Egrégia Corte, para garantir a autoridade da decisão do Supremo Tribunal Federal, nos termos do artigo 102, parágrafo 2º, da Constituição Federal, atribuindo efeito vinculante ao processo em tramite no Superior Tribunal de Justiça de nº1.196.471/SP (2017/0262452-5) junto a 4ª Turma, ficando determinado por V.Exa., que o processo administrativo disciplinar contra juízes junto ao Conselho Nacional de Justiça não possui caráter sigiloso, sendo de acesso público, nos termos da Ação Direta de Inconstitucionalidade nº 4638, que observou o tema no artigo 20, da Resolução nº 135, de 11/07/2011, e em consonância ao artigo 102, parágrafo 2º, da Constituição Federal, e portanto, não é ato ilícito, passível de condenação em dano morais o acesso de processo administrativo disciplinar a terceiros.”
+    É o relatório.
+    Decido.
+    1. Verifico que o Superior Tribunal de Justiça entendeu pelo não cabimento do agravo em recurso especial manejado pelo reclamante, ao entendimento de que não impugnados especificamente todos os fundamentos da decisão que inadmitiu o recurso na origem. Confira-se:
+    “Vistos, etc.
+    Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu recurso especial, interposto com fundamento no art. 105, inciso III, da Constituição da República.
+     É o relatório.
+    Decido.
+    Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de violação/negativa de vigência/contrariedade e Súmula 7/STJ.
+    Entretanto, a parte Agravante deixou de impugnar especificamente: Súmula 7/STJ.
+    E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+    (…) “
+    2. Manejado agravo interno, a decisão foi mantida, nos termos de acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA. 1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ. 2. Agravo interno a que se nega provimento.”
+    3. Limitado o Superior Tribunal de Justiça ao exame dos pressupostos de cabimento do agravo em recurso especial, não há como concluir pela alegada afronta à autoridade da decisão proferida pelo STF na ADI 4.638, a qual tem por objeto a Resolução nº 135/2011, editada pelo Conselho Nacional de Justiça, que dispõe sobre a uniformização de normas relativas ao procedimento administrativo disciplinar aplicável aos magistrados.
+    4. Com efeito, a matéria em discussão nos presente autos não guarda estrita aderência com o quanto decidido no paradigma invocado pelo reclamante, prolatado em sede de controle concentrado de constitucionalidade, a desautorizar o cabimento presente reclamação, tendo em vista a ausência de identidade material entre os atos confrontados.
+    5. Ante o exposto, forte no 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 17 de dezembro de 2018.
+Ministra Rosa Weber
+Relatora
