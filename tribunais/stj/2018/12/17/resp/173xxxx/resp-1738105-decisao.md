@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto por BANCO DO NORDESTE DO BRASIL S.A. contra acórdão proferido pelo TJCE assim ementado (e-STJ fls. 693/694):
+PROCESSO CIVIL. APELAÇÃO CÍVEL CONTRATO DE CONFISSÃO DE DÍVIDAS. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR ÀS INSTITUIÇÕES FINANCEIRAS (SÚMULA 297 STJ). JUROS REMUNERATÓRIOS. INAPLICABILIDADE DO ART. 192, § 3º DA CF/88. INEXISTÊNCIA DE LIMITAÇÃO À TAXA DE 12% AO ANO. SÚMULA VINCULANTE 07 DO STF. CAPITALIZAÇÃO DE JUROS. CONTRATO FIRMADO APÓS A VIGÊNCIA DA MP Nº 1.963-17/2000. POSSIBILIDADE, SEJA NA PERIODICIDADE ANUAL OU NA MENSAL, DESDE QUE EXPRESSAMENTE AJUSTADA. CLÁUSULA CONTRATUAL EXPRESSA NESSE SENTIDO - CLÁUSULA TERCEIRA PARÁGRAFO TERCEIRO. REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. SUCUMBÊNCIA RECÍPROCA MANTIDA COMO NA SENTENÇA. RECURSOS CONHECIDOS E IMPROVIDOS. SENTENÇA MANTIDA NA ÍNTEGRA.
+1. É entendimento pacífico no Superior Tribunal de Justiça a plena aplicabilidade do CDC às instituições financeiras (Súmula 297/STJ).
+2. Os juros remuneratórios praticados pelas instituições financeiras não estão limitados à taxa de 12% ao ano. Súmula Vinculante nº 7 do STF. O §3º do art. 192 da CF/88, revogado pela EC nº 40/2003, tinha sua aplicabilidade condicionada à superveniência de lei complementar, que não chegou a ser editada.
+3. De acordo com jurisprudência firmada neste Tribunal e no Superior Tribunal de Justiça, a incidência de capitalização de juros nos contratos firmados por instituições financeiras, seja na periodicidade anual ou na mensal, é permitida, desde que haja expressa pactuação nesse sentido. No caso da capitalização mensal, exige-se ainda que o contrato tenha sido firmado após a vigência da MP nº 1.963-17/2000. Na hipótese dos autos há pactuação expressa, conforme se vê no parágrafo terceiro da cláusula terceira do contrato de confissão de dívida (fls. 223/227).
+4. A jurisprudência do STJ está consolidada no sentido de permitir a compensação de valores e a repetição do indébito sempre que constatada a cobrança indevida do encargo exigido, sem que, para tanto, haja necessidade de se comprovar erro no pagamento.
+5. Caracterizada a sucumbência recíproca das partes, agiu acertadamente o juízo primevo, a partir da aplicação do encartado no art. 21, do CPC.
+6. Apelações conhecidas, mas improvidas. Sentença mantida na íntegra.
+Os embargos de declaração opostos foram rejeitados com aplicação de multa (e-STJ fls. 714/724 e 787/798).
+Em suas razões (e-STJ fls. 726/754), o recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 535, II, do CPC/1973. Argumenta que o Tribunal de origem não teria suprido "a omissão quanto à aplicação do artigo 21 do Código de Processo Civil" (e-STJ fl. 743).
+Sustenta, ainda, contrariedade ao art. 538, parágrafo único, do CPC/1973. Defende que deveria ter sido afastada a multa que lhe foi aplicada com base no referido dispositivo legal.
+Foram apresentadas contrarrazões (e-STJ fls. 766/772).
+É o relatório.
+Decido.
+A insurgência merece prosperar parcialmente.
+Quanto à alegada ofensa ao art. 535, II, do CPC/1973, não assiste razão ao recorrente, pois o Tribunal de origem pronunciou-se, de forma clara e fundamentada, acerca da proporcionalidade na distribuição das verbas de sucumbência. Confira-se (e-STJ fl. 692):
+No que concerne à divisão dos honorários sucumbenciais, matéria apresentada nas apelações de ambas as partes, também não conseguimos vislumbrar qualquer irregularidade do mencionado decisum, posto que o douto juízo de piso decidiu consoante a proporcionalidade exigida pelo legislador ordinário, ao dispor no art. 21, CPC.
+Ressalte-se que é desnecessária a menção expressa do dispositivo legal indicado pelo recorrente e que o fato de o acórdão recorrido ter decidido de forma contrária aos seus interesses não configura omissão, contradição, obscuridade ou negativa de prestação jurisdicional. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONSTRUÇÃO DE USINA HIDRELÉTRICA. PESCADORES. AÇÃO INDENIZATÓRIA. AÇÃO CIVIL PÚBLICA. INEXISTÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. CONEXÃO. INEXISTÊNCIA. SÚMULA 7/STJ. ALEGADA ILEGITIMIDADE ATIVA. AUSÊNCIA DE PREQUESTIONAMENTO E REEXAME DE PROVAS. SÚMULAS 282/STF E 7/STJ. EMBARGOS DE DECLARAÇÃO CONSIDERADOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. ART. 538 DO CPC/1973. DE 1973. INCIDÊNCIA, MAIS UMA VEZ, DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Inexiste afronta ao art. 535 do CPC de 1973 quando o acórdão recorrido analisa todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Segundo a jurisprudência dominante do STJ, o juízo acerca da caracterização de conexão entre demandas é insuscetível de reapreciação em recurso especial, em razão do entendimento expresso no enunciado n. 7 da Súmula do STJ.
+3. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+4. O Tribunal local, ao julgar o agravo de instrumento da concessionária responsável para construção da Usina Hidrelétrica Santo Antônio, rejeitou a preliminar de ilegitimidade ativa porque a análise da matéria depende da produção de provas. Nesse contexto, o reconhecimento da ilegitimidade também encontra o óbice na Súmula 7/STJ.
+5. O Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 538, parágrafo único, do CPC de 1973, encontra óbice na Súmula 7 desta Corte.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 629.864/RO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2017, DJe 25/09/2017.)
+Contudo, em relação à multa do art. 538, parágrafo único, do CPC/1973, melhor sorte acolhe ao recorrente.
+De fato, da leitura dos embargos de declaração opostos às fls. 700/708 (e-STJ), verifica-se que o intuito da parte embargante era, manifestamente, prequestionar as teses que seriam apresentadas no recurso especial.
+Dessa forma, incide a Súmula n. 98/STJ.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial apenas para afastar a multa do art. 538, parágrafo único, do CPC/1973.
+Publique-se e intimem-se.
