@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl.336):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO DOENÇA DE TRABALHADORA RURAL. CONJUNTO NÃO HARMÔNICO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS.
+I- Os requisitos previstos na Lei de Benefícios para a concessão da aposentadoria por invalidez compreendem: a) o cumprimento do período de carência, quando exigida, prevista no art. 25 da Lei nº 8.213/91; b) a qualidade de segurado, nos termos do art. 15 da Lei de Benefícios e c) a incapacidade definitiva para o exercício da atividade laborativa. O auxílio doença difere apenas no que tange à incapacidade, a qual deve ser temporária.
+II- No que tange ao trabalhador rural, não há exigência do cumprimento da carência, tendo em vista que o art. 39, inc. 1, da Lei nº 8.213/91 dispõe que a aposentadoria por invalidez ou auxílio doença será concedido desde que o segurado comprove o exercício da atividade rural, ainda que de forma descontínua, no período de 12 (doze) meses. Cumpre ressaltar que o art. 55, § 3", da Lei de Benefícios estabelece que a comprovação do tempo de serviço somente produzirá efeito quando baseada em início de prova material, não sendo admitida prova exclusivamente testemunhal. Nesse sentido foi editada a Súmula nº 149, do C. Superior Tribunal de Justiça.
+III- As provas exibidas não constituem um conjunto harmônico de molde a formar a convicção de que a parte autora tenha exercido atividades no campo no período exigido em lei.
+IV- Apelação improvida.
+Os embargos de declaração interpostos foram improvidos.
+No recurso especial (fls. 361-389), o recorrente aponta violação dos arts. 11, VII, 18, I, a, 25, I, 26, III c/c o 39, I, 42, 55, § 32, 106 e 142, todos da Lei n. 8.213/91.
+Sustenta, em síntese, que a segurada faz jus ao benefício de aposentadoria por invalidez rural, uma vez que ficou caracterizado o exercício da atividade rural em regime de economia familiar. Afirma que o acórdão recorrido deixou de considerar como início de prova material os documentos que foram apresentados aos autos. Assevera que não se trata de reexame, mas de revaloração de provas.
+Indica, ainda, dissídio jurisprudencial com base em julgados do Superior Tribunal de Justiça (AgRg no REsp n. 1.118.677, AgRg no REsp n. 1.118.677 e REsp n. 1.304.642).
+O recurso especial foi inadmitido com base no fundamento de que rever a posição do Tribunal a quo importaria em análise fático-probatória, o que é vedado ante o teor da Súmula n. 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Verifica-se que a irresignação da recorrente acerca do não reconhecimento do período laborado em atividade rural, para fins de concessão de benefício previdenciário à autora da ação, vai de encontro às convicções do julgador a quo que, com lastro no conjunto probatório dos autos, assentou o seguinte (fls. 334-335):
+Não obstante a juntada dos documentos mencionados, verifica-se na própria CTPS do cônjuge da parte autora a existência de registros de atividades urbanas como "motorista" e "mecânico" nos períodos de 13/4/10 a 3/1/11, 1º/4/11 a 7/11/12 e 8/4/11 a 7/11/12.
+Dessa forma, as provas exibidas não constituem um conjunto harmônico de molde a formar a convicção de que a parte autora tenha exercido atividades no campo no período exigido em lei, máxime no presente caso, no qual os depoimentos das testemunhas arroladas (fls. 249/250) mostram-se inconsistentes e imprecisos.
+Vê-se, pois, que ao contrário do alegado no recurso especial, o benefício não foi indeferido única e exclusivamente pela apresentação deficiente de prova material, mas também pela fragilidade da prova testemunhal.
+Com efeito, o Tribunal a quo considerou a prova testemunhal frágil, incapaz de corroborar o início de prova material apresentado.
+As instâncias ordinárias são as destinatárias das provas, cabendo na análise do recurso especial tão somente se aferir a afronta direta à lei, buscando a uniformidade jurisprudencial, sendo incabível o recurso que, para se aferir à afronta à lei, demande revisão do conjunto fático-probatório.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+A incidência da Súmula n. 7/STJ ao caso, impede, ainda, a análise da divergência jurisprudencial, pela impossibilidade de se aferir a semelhança fática em que se assentam os julgados.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+E com fundamento no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 1%, cuja exigibilidade fica suspensa em razão do deferimento da justiça gratuita.
+Publique-se. Intimem-se.
