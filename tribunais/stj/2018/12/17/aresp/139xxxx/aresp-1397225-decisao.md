@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM CONSIGNAÇÃO EM PAGAMENTO E INDENIZAÇÃO. NULIDADE DE CLÁUSULA CONTRATUAL. CDI. TAXA DE ENCARGOS. ABUSIVIDADE. APLICAÇÃO DO MESMO ENTENDIMENTO QUE SUBSIDIOU A ELABORAÇÃO DA SÚMULA 176/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Cooperativa de Crédito de Livre Admissão Centro Brasileira Ltda. contra decisão que inadmitiu seu recurso especial, fundado nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça de Goiás, assim ementado (e-STJ, fl. 389):
+DUPLA APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CLÁUSULA CONTRATUAL C/C CONSIGNATÓRIA EM PAGAMENTO E INDENIZAÇÃO.
+1. SENTENÇA CITRA PETITA. NÃO CONFIGURAÇÃO. Não há falar em julgamento citra petita, visto que o Magistrado singular decidiu nos limites do pedido.
+2. PLEITO CONSIGNATÓRIO. IMPOSSIBILIDADE. Diante da ausência de depósitos em Juízo, deve o pleito consignatório ser extinto. Precedentes deste eg. Tribunal.
+3. REPETIÇÃO INDÉBITO. INEXISTENTE. A repetição de indébito só é admitida quando estiver evidente que houve agamento indevido, o que não ocorreu.
+4. DANOS MORAIS INEXISTENTE. A eventual cobrança de encargos abusivos, pela instituição financeira, não configura dano moral passível de indenização, por não se mostrar capaz de ofender os direitos de personalidade, ou os sentimentos de honra e dignidade da pessoa.
+5. DANOS MATERIAIS INEXISTENTES. Eventual crédito decorrente do recálculo da dívida com base no novo indexador (INPC) será abatido no saldo devedor, não havendo se falar em prejuízos à Autora, que continuará atrelada às obrigações contratuais até 20.09.2029.
+6. UTILIZAÇÃO DO CDI. UTILIZAÇÃO INDEVIDA. SUBSTITUIÇÃO PELO INPC. POSSIBILIDADE. Conf. Súmula nº 176 do c. STJ, é nula a cláusula contratual que sujeita a devedora à taxa de juros divulgada pela [NOME]/CETIP. Reputa-se abusiva, portanto, a adoção do  CDI - Certificado de Depósito Interbancário , como indexador dos encargos remuneratórios, a incidir sobre o contrato. Diante da declaração de nulidade do indexador  CDI , resta possível a sua substituição pelo  INPC , a fim de que seja atualizado monetariamente o poder aquisitivo da moeda.
+DUPLA APELAÇÃO CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Nas razões do recurso especial, a recorrente alegou, além de dissídio jurisprudencial, violação dos arts. 421 e 422 do Código Civil, afirmando, em síntese, que "o título em questão não possui nenhuma irregularidade, sendo que as disposições entabuladas devem ser mantidas, ao ponto de obrigar as partes ao seu cumprimento, já que procedido sob a égide da liberdade" (e-STJ, fl. 399).
+Sustentou a legalidade da pactuação do CDI (Certificado de Depósito Interbancário) como índice de atualização monetária.
+Contrarrazões apresentadas às fls. 419-427 (e-STJ).
+Juízo negativo de admissibilidade (e-STJ, fls. 432-434).
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, conquanto a Súmula 176 do STJ verse sobre a vedação de cláusula contratual que preveja a sujeição do devedor à taxa de juros divulgada pela [NOME]-CETIP, o raciocínio desenvolvido na construção da jurisprudência que subjaz o referido enunciado sumular é o mesmo que deve ser aplicado à correção monetária.
+A taxa do CDI, como cediço, representa o custo médio de captação de recursos entre as instituições financeiras que pretendam cobrir eventuais déficits de caixa. Trata-se, portanto, de título com o fim específico de remunerar a referida operação financeira, a significar que não tem a função de recompor as perdas decorrentes da inflação, característica da correção monetária.
+No particular, extrai-se de um dos julgados que subsidiaram a Súmula 176 do STJ a afirmação de que é "ilegal a previsão contratual de taxa a ser divulgada pela [NOME], por estar submetida ao arbítrio de uma das partes" (AgRg no Ag 68.529/RS, Relator o Ministro Carlos Alberto Menezes Direito, DJ de 2/9/1996). O mesmo fundamento se aplica à correção monetária, como expressão de atualização do valor da moeda.
+Destaca-se, ainda, o seguinte julgado:
+CONTRATO DE LEASING - REAJUSTE - [NOME] - ILICITUDE - SÚMULA 176/STJ.
+1. Nos termos da Súmula 176/STJ, é ilícita a cláusula contratual que estabelece a aplicação de encargos financeiros à taxa divulgada pela Associação Nacional dos Bancos de Investimento e Desenvolvimento - [NOME], por ficar ao arbítrio de uma das partes contratantes. Precedentes da Corte. (REsp 130.434/RJ, Relator o Ministro Waldemar Zveiter, DJ de 26/6/2000).
+No presente caso, o Tribunal de origem assim se manifestou (e-STJ, fl. 387):
+ Em relação as Cédulas de Créditos Bancários (Abertura de Crédito Rotativo) com taxas de juros flutuantes, verifica-se que em todas as contratadas contêm estipulação expressa de remuneração pela variação do CDI divulgado pela CETIP, somada ainda aos juros remuneratórios a taxa efetiva mensal para o período de normalidade do contrato.
+ Por certo que se faz presente a abusividade reclamada, haja vista que a cláusula que prevê a remuneração dos encargos contratuais pela CDI, divulgada pela CETIP é nula de pleno direito na medida em que sua incidência já foi afastada do ordenamento jurídico pela Súmula 176 do c. STJ:
+ É nula a cláusula que sujeita o devedor à taxa de juros divulgada pela ANDIB/CETIP.
+ Assim, há de ser afastada a remuneração pela variação do CDI divulgado pela CETIP, devendo prevalecer o índice fixado na sentença recorrida (INPC) por estar, inclusive, prevista no contrato, como bem ressaltou a MMª. Juíza a quo:
+(..) resta imperiosa a sua substituição, pelo índice INPC, também prevista na CLÁUSULA SEGUNDA, a fim de que seja atualizado monetariamente o poder aquisitivo da moeda, mantendo-se os juros remuneratórios estabelecidos no contrato sub judice, ou seja, juros de 0,69% a.m. (zero vírgula sessenta e nove por cento ao mês), capitalizados mensalmente.
+Como se vê, o acordo recorrido decidiu em consonância com a jurisprudência desta Corte. Inafastável, no caso em tela, a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
